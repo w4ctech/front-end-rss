@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "install": "cd server && cnpm install",
+    "update": "cd server && node once.js",
+    "auto":  "cd server && node app.js"
+  }
+}

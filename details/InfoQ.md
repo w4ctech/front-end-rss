@@ -1,0 +1,30 @@
+:alarm_clock: 更新时间: 2020-03-01 13:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+
+## InfoQ
+
+
+
+
+- [2020-03-01-28岁退休的非典型程序员：我的人生不需要别人来设计-|-人物特写](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024593&idx=1&sn=d65eb2e8ae5ecf92171f660c91375507&chksm=bdbe94828ac91d949c00fad4331560354ca5c36ca56cc604e6aab15b5dd6b672e1f2b73cd20e&scene=27#wechat_redirect) 
+- [2020-03-01-美国正式立法禁止官方购买华为设备，出资-10-亿美元帮助运营商更换](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024593&idx=2&sn=a5649642e1e3db2218ffc71948d084a7&chksm=bdbe94828ac91d94a9d59b1a30437b3e0e427f3ce8f3b838025be67fe734c2ab323fd58ae5bf&scene=27#wechat_redirect) 
+- [2020-03-01-华为王俊：企业协作办公只是华为云WeLink-版图的-1/4](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024593&idx=3&sn=49c2f6baa13251fc6dfe5e33d196bbed&chksm=bdbe94828ac91d945c5e576a8cf8ec943f7a88b2de43a6b026688eb1c0e3b019a89b02ed671d&scene=27#wechat_redirect) 
+- [2020-03-01-Weex、RN还是Flutter？聊聊阿里跨平台开发框架选型思路](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024593&idx=4&sn=d0864208f132b5bbfea986fe81c6fa43&chksm=bdbe94828ac91d943162230f6b869473100955472300610d7efdadeaa28fe696ab2f3bc5fa05&scene=27#wechat_redirect) 
+- [2020-02-29-技术人必读书籍，InfoQ-免费送！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024580&idx=2&sn=195e8370da3c6ee492e07a1a5db14634&chksm=bdbe94978ac91d814b44c03c66f8f03c5ba7966e4ce65d20d8f75252908ceb449bee6f4afb02&scene=27#wechat_redirect) 
+- [2020-02-29-豹变之旅：研发组织转型中的迷思与实证](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024580&idx=3&sn=410825b24a1c056f0e04643aaa27beb9&chksm=bdbe94978ac91d8158b6653dc6afa0b02c9a6c94fe743ab01ef4fb1b05951a7eafe8b51dcfad&scene=27#wechat_redirect) 
+- [2020-02-29-Kotlin-vs-Flutter：谁将成为跨平台开发市场的最终统治者？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024580&idx=4&sn=36ee9f5d9f39f04a566c731207b98030&chksm=bdbe94978ac91d812cb8257cf404ff7f4fbf4048595f479b85ae3f836140acbbdda9f115484f&scene=27#wechat_redirect) 
+- [2020-02-29-微盟程序员系因深陷网络贷删库？Facebook因疫情取消年度开发者大会；《魂斗罗》续30条命秘技作者](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024580&idx=1&sn=ee125fb135ab9a5ec37e916a494546a2&chksm=bdbe94978ac91d8146ff66e6af99da7bf534728ccfc9deda15d84ad341991be4f60117898949&scene=27#wechat_redirect) 
+- [2020-02-28-美国明天凌晨或将公布芯片断供华为最新禁令：中国造芯能力面临挑战](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024566&idx=1&sn=94eadebedd24737a05b74337e6b399cd&chksm=bdbe94e58ac91df33b81dc740f4d2d550534ea69bb4c21ced898124424a9094ea167aae58bd1&scene=27#wechat_redirect) 
+- [2020-02-28-腾讯计费金融级技术架构演进](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024566&idx=2&sn=03bdc50c8db0cef5c85eaad298bd0598&chksm=bdbe94e58ac91df3688ef062e5e9b3122a79c5587414a4420b09d3397a2da2bbe709df6601f8&scene=27#wechat_redirect) 
+- [2020-02-28-在线教学-|-如何打造更快速、更安全的Web应用](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024566&idx=3&sn=e66ec416b36edb5411aae08ea4857347&chksm=bdbe94e58ac91df3458b824d301fc725571bc0f6197f985a1d09e28e2b3e710b2046be3d1f6d&scene=27#wechat_redirect) 
+- [2020-02-28-毁了一家公司，让-300-多人失业，我们如何应对勒索软件攻击？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024566&idx=4&sn=89c608541987772aa6bb8da5a0e7b46d&chksm=bdbe94e58ac91df36436b93e5d8c90f3d1aa6f7f1fc59c62a6d532bf43d6e3c25237f70d7012&scene=27#wechat_redirect) 
+- [2020-02-28-前微软-25-岁工程师盗窃-1000-万美元数字货币，被判-18-重罪、20-年监禁](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024566&idx=5&sn=b0f237546030fd945dcca032a6afc900&chksm=bdbe94e58ac91df3c51a87b6b0e874f66632ef716439cf8ff9de570a2f36fc8698ca48f11aa8&scene=27#wechat_redirect) 
+- [2020-02-27-关于分布式存储，这-24-个高频问题你需要知道-|-极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024540&idx=1&sn=662e82883492fdcd9816f0ac57b0d381&chksm=bdbe94cf8ac91dd955ff8ce7b6989fe9d691429719510dd11a44322a998eb0c84aa2115337e8&scene=27#wechat_redirect) 
+- [2020-02-27-关于疫苗，这两个错误认知容易被忽视](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024540&idx=2&sn=43561f27fb1d354f3a65a2ffc4a0ba52&chksm=bdbe94cf8ac91dd99047c70b3d9602db56c380e198b292126767922c2064bd4d816ac34d4429&scene=27#wechat_redirect) 
+- [2020-02-27-对话独角兽得物（毒）App-CTO-陈思淼：组建技术团队的十件事](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024540&idx=3&sn=654d9f31fcef16d1f8a08d157bfae229&chksm=bdbe94cf8ac91dd9531856deea7e6e3607c8bd0be822072c25072685658974bcc18ab58c74a1&scene=27#wechat_redirect) 
+- [2020-02-27-【今晚直播】InfoQ-大咖说重磅回归！阿里技术副总裁和你聊聊人工智能的那些事儿](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024540&idx=4&sn=d1e5bd9abc532bc80404faf668f397a8&chksm=bdbe94cf8ac91dd98a2bb241b4fffdbc99da47adefc6e12e1f9040a93cbefdce5ca7c10f7074&scene=27#wechat_redirect) 
+- [2020-02-27-如何学会所有的编程语言？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024540&idx=5&sn=f801585802f2ec956f3c93069f608dc9&chksm=bdbe94cf8ac91dd947b85320df233776d4bb3c346444d57fa80bf2c52f0fb8285048ea1fd682&scene=27#wechat_redirect) 
+- [2020-02-26-开发者对Windows、Mac-OS和Linux的十大控诉：五十年来没什么大改进](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024527&idx=1&sn=49716cf4bc009be3f836c9ff5c18c611&chksm=bdbe94dc8ac91dca11b215d12f2fa2107abcfcceacce0d1451def19fd11b2599efedbfd9b71c&scene=27#wechat_redirect) 
+- [2020-02-26-独家揭秘陆金所去Oracle全过程：18个月将90%数据库业务换到MySQL](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024527&idx=2&sn=7e5422dc08347aa22336e94842de5c2f&chksm=bdbe94dc8ac91dcae4b1ecdba044e8cf15e803ee0481424ad9eae5369b98a1e3abb6c237dcac&scene=27#wechat_redirect) 
+- [2020-02-26-三大方向解析：为什么说GCP是面向未来的云计算平台？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024527&idx=3&sn=93305dae5ff1d7171893b873cc00cf14&chksm=bdbe94dc8ac91dca0b697194cf8df7af542871d5ab8d6dc8094324f845a017453d73a07bfc47&scene=27#wechat_redirect) 
+- [2020-02-26-通过前端工程化将-Apollo-引入现有-React-技术栈](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024527&idx=4&sn=f51465fa324e74ccf0b35426bc7607d7&chksm=bdbe94dc8ac91dca357adab1f9d5a3c30da30f8b26e06ad0898a857dca06ce0a52f4890cf58f&scene=27#wechat_redirect) 
+- [2020-02-26-Dart-语言要崛起？谷歌官宣下一代操作系统-UI-编写只支持-Dart！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024527&idx=5&sn=e7df57d707fda7adc4ac4b69ae311ac5&chksm=bdbe94dc8ac91dca955c3aeae3dc92af93dd1aae8de8d5246e92a50d4e0d488b12dba22d807e&scene=27#wechat_redirect) 

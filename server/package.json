@@ -1,0 +1,33 @@
+{
+  "name": "front-end-rss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^2.6.1",
+    "axios": "^0.19.1",
+    "clone-deep": "^4.0.0",
+    "later": "^1.2.0",
+    "moment": "^2.22.2",
+    "query-string": "^6.8.1",
+    "rimraf": "^3.0.0",
+    "rss-parser": "^3.4.3",
+    "simple-git": "^1.102.0",
+    "underscore": "^1.9.1"
+  },
+  "description": "front-end-rss",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node once.js"
+  },
+  "author": "w4ctech",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/w4ctech/front-end-rss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/w4ctech/front-end-rss/issues"
+  },
+  "homepage": "https://github.com/w4ctech/front-end-rss#readme"
+}

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 00:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 01:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,11 +46,11 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-03-17-武汉金银潭医院1775名新冠患者研究：#研究显示O型血相对不易感](http://m.weibo.cn/3057540037/4483605872631746) ![](assets/new.png)  
 - [2020-03-17-伊朗累计确诊16169例新冠肺炎](http://m.weibo.cn/2803301701/4483539213193409)  
 - [2020-03-17-西班牙新增1987例，新冠肺炎确诊病例累计11178例](http://m.weibo.cn/3057540037/4483538281688867)  
 - [2020-03-17-马来西亚现首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4483523568033416)  
@@ -702,6 +703,8 @@
 </summary>
 
 
+- [2020-03-17-体验concent依赖收集，赋予react更多想象空间](https://juejin.im/post/5e70c1fa6fb9a07c8076d393) ![](assets/new.png)  
+- [2020-03-17-记录一次-优化总结](https://juejin.im/post/5e704b1de51d4527107caab1) ![](assets/new.png)  
 - [2020-03-17-ES6中class的继承机制](https://juejin.im/post/5e70a06251882549331d0a95)  
 - [2020-03-17-JavaScript设计模式一-——-设计模式原则](https://juejin.im/post/5e709b9a51882549131080a1)  
 - [2020-03-17-深入浅出Vue变化侦测](https://juejin.im/post/5e6f5c52f265da57663ff01a)  
@@ -801,9 +804,9 @@
 </summary>
 
 
-- [2020-03-17-知乎故事-|-大型「小聪明」翻车现场](https://www.ershicimi.com/p/f4eeb4abc302fb4b4055e8ef9cdf8db6) ![](assets/new.png)  
-- [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) ![](assets/new.png)  
-- [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) ![](assets/new.png)  
+- [2020-03-17-知乎故事-|-大型「小聪明」翻车现场](https://www.ershicimi.com/p/f4eeb4abc302fb4b4055e8ef9cdf8db6)  
+- [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247)  
+- [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c)  
 - [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0)  
 - [2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6)  
 - [2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54)  
@@ -825,26 +828,26 @@
 </summary>
 
 
-- [2020-03-17-霸王别姬的这一段旋律有专业名称吗？](https://www.v2ex.com/t/653709) ![](assets/new.png)  
-- [2020-03-17-大龄垃圾低端码农进，聊聊何去何从？](https://www.v2ex.com/t/653708) ![](assets/new.png)  
-- [2020-03-17-契约精神是什么？](https://www.v2ex.com/t/653707) ![](assets/new.png)  
-- [2020-03-17-github-上-fork-了别人的项目然后重构了之后](https://www.v2ex.com/t/653706) ![](assets/new.png)  
-- [2020-03-17-为什么-DVI-接口还没有被淘汰？](https://www.v2ex.com/t/653705) ![](assets/new.png)  
-- [2020-03-17-2018macmini-双接，-2415Q-无法推到-4K60HZ](https://www.v2ex.com/t/653704) ![](assets/new.png)  
-- [2020-03-17-小米切换到日文输入法真麻烦](https://www.v2ex.com/t/653703) ![](assets/new.png)  
-- [2020-03-17-小米-后端内推，-base-上海。](https://www.v2ex.com/t/653702) ![](assets/new.png)  
+- [2020-03-18-关于苹果开发者付款延迟？](https://www.v2ex.com/t/653719) ![](assets/new.png)  
+- [2020-03-18-屏幕问题](https://www.v2ex.com/t/653718) ![](assets/new.png)  
+- [2020-03-17-求推荐：-MATE-20PRO-的贴膜](https://www.v2ex.com/t/653717) ![](assets/new.png)  
+- [2020-03-17-不懂就问，为啥最近的纯债基金也跌?](https://www.v2ex.com/t/653716) ![](assets/new.png)  
+- [2020-03-17-百度拼音输入法有时候在-office-里面没办法输入中文，必须把-office-的软件全部关闭掉，再打开才可以~啥问题](https://www.v2ex.com/t/653715) ![](assets/new.png)  
+- [2020-03-17-关于谷歌-admob,我不太明白一件事情，我首页-admob-显示上个月是-1160，-但是结算账单-上面显示的是-1155.27，这是扣了什么税了吗？](https://www.v2ex.com/t/653714) ![](assets/new.png)  
+- [2020-03-17-Ain't-Queue-1.0.0-发布，新增仪表盘，实时监控队列情况](https://www.v2ex.com/t/653713) ![](assets/new.png)  
+- [2020-03-17-Ng-Matero-V9-正式发布！](https://www.v2ex.com/t/653712) ![](assets/new.png)  
+- [2020-03-17-华为手机实测车辆的-3D-位姿检测](https://www.v2ex.com/t/653711) ![](assets/new.png)  
+- [2020-03-17-霸王别姬的这一段旋律有专业名称吗？](https://www.v2ex.com/t/653709)  
+- [2020-03-17-大龄垃圾低端码农进，聊聊何去何从？](https://www.v2ex.com/t/653708)  
+- [2020-03-17-契约精神是什么？](https://www.v2ex.com/t/653707)  
+- [2020-03-17-github-上-fork-了别人的项目然后重构了之后](https://www.v2ex.com/t/653706)  
+- [2020-03-17-为什么-DVI-接口还没有被淘汰？](https://www.v2ex.com/t/653705)  
+- [2020-03-17-2018macmini-双接，-2415Q-无法推到-4K60HZ](https://www.v2ex.com/t/653704)  
+- [2020-03-17-小米切换到日文输入法真麻烦](https://www.v2ex.com/t/653703)  
+- [2020-03-17-小米-后端内推，-base-上海。](https://www.v2ex.com/t/653702)  
 - [2020-03-17-求分享文档加密相关的软件，公司的各种文档比较敏感，出于保密和防止外流的目的，在-windows-平台是否有比较寻求可行的软件产品加密防外泄解决。](https://www.v2ex.com/t/653701)  
 - [2020-03-17-一个-IntelliJ-2019.3.3-在-macOS-10.15.3-下的极其诡异的-bug](https://www.v2ex.com/t/653700)  
 - [2020-03-17-面试如果一两个简单题答不上来的话，如何在后面自救？](https://www.v2ex.com/t/653699)  
-- [2020-03-17-Win10-如何快捷睡眠？](https://www.v2ex.com/t/653698)  
-- [2020-03-17-发现一个病毒序列分析-repo](https://www.v2ex.com/t/653694)  
-- [2020-03-17-Office365-家庭版开车-从速](https://www.v2ex.com/t/653693)  
-- [2020-03-17-某互联网公司一面-35-分钟其中-25-分钟讲了项目](https://www.v2ex.com/t/653691)  
-- [2020-03-17-有没有能提供虚拟-3D-场景直播的公司和服务，求推荐](https://www.v2ex.com/t/653690)  
-- [2020-03-17-辽宁联通宽带出国路由跟踪疑惑](https://www.v2ex.com/t/653689)  
-- [2020-03-17-短视频分享网站-YouHub.TV-上线啦-https://youhub.tv](https://www.v2ex.com/t/653688)  
-- [2020-03-17-很讨厌面试怎么办](https://www.v2ex.com/t/653687)  
-- [2020-03-17-公司员工不服从安排怎么办？](https://www.v2ex.com/t/653686)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -887,8 +890,10 @@
 </summary>
 
 
-- [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w) ![](assets/new.png)  
-- [2020-03-18-推荐-一文了解-Zookeeper-基本原理与应用场景](https://toutiao.io/k/3f7xqe0) ![](assets/new.png)  
+- [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo) ![](assets/new.png)  
+- [2020-03-18-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y) ![](assets/new.png)  
+- [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
+- [2020-03-18-推荐-一文了解-Zookeeper-基本原理与应用场景](https://toutiao.io/k/3f7xqe0)  
 - [2020-03-17-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51)  
 - [2020-03-17-推荐-TCP-协议可靠性是如何保证：滑动窗口，超时重发，序列号确认应答信号](https://toutiao.io/k/un6dvkk)  
 - [2020-03-17-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp)  
@@ -905,8 +910,6 @@
 - [2020-03-17-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
 - [2020-03-17-服务的容灾与容错](https://toutiao.io/k/t1de0md)  
 - [2020-03-17-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
-- [2020-03-17-程序员自我发展之路乱弹](https://toutiao.io/k/8uklpmn)  
-- [2020-03-17-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,6 +11,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "武汉金银潭医院1775名新冠患者研究：#研究显示O型血相对不易感",
+        "link": "http://m.weibo.cn/3057540037/4483605872631746",
+        "date": "2020-03-17"
+      },
+      {
         "title": "伊朗累计确诊16169例新冠肺炎",
         "link": "http://m.weibo.cn/2803301701/4483539213193409",
         "date": "2020-03-17"
@@ -2576,6 +2581,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "体验concent依赖收集，赋予react更多想象空间",
+        "link": "https://juejin.im/post/5e70c1fa6fb9a07c8076d393",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "记录一次 优化总结",
+        "link": "https://juejin.im/post/5e704b1de51d4527107caab1",
+        "date": "2020-03-17"
+      },
+      {
         "title": "ES6中class的继承机制",
         "link": "https://juejin.im/post/5e70a06251882549331d0a95",
         "date": "2020-03-17"
@@ -3005,6 +3020,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "关于苹果开发者付款延迟？",
+        "link": "https://www.v2ex.com/t/653719",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "屏幕问题",
+        "link": "https://www.v2ex.com/t/653718",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "求推荐： MATE 20PRO 的贴膜",
+        "link": "https://www.v2ex.com/t/653717",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "不懂就问，为啥最近的纯债基金也跌?",
+        "link": "https://www.v2ex.com/t/653716",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "百度拼音输入法有时候在 office 里面没办法输入中文，必须把 office 的软件全部关闭掉，再打开才可以~啥问题",
+        "link": "https://www.v2ex.com/t/653715",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "关于谷歌 admob,我不太明白一件事情，我首页 admob 显示上个月是 1160，\r\n但是结算账单 上面显示的是 1155.27，这是扣了什么税了吗？",
+        "link": "https://www.v2ex.com/t/653714",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "Ain't Queue 1.0.0 发布，新增仪表盘，实时监控队列情况",
+        "link": "https://www.v2ex.com/t/653713",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "Ng-Matero V9 正式发布！",
+        "link": "https://www.v2ex.com/t/653712",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "华为手机实测车辆的 3D 位姿检测",
+        "link": "https://www.v2ex.com/t/653711",
+        "date": "2020-03-17"
+      },
       {
         "title": "霸王别姬的这一段旋律有专业名称吗？",
         "link": "https://www.v2ex.com/t/653709",
@@ -3514,6 +3574,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 吐血推荐珍藏的 IDEA 插件",
+        "link": "https://toutiao.io/k/2d2rpxo",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 这 8 个锦囊，助你成为一名优秀的 Java 开发者",
+        "link": "https://toutiao.io/k/thnyg3y",
+        "date": "2020-03-18"
+      },
       {
         "title": "[推荐] 我在阿里做中后台开发",
         "link": "https://toutiao.io/k/k0m2k5w",

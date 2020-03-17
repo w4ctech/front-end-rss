@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 02:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://china.caixin.com/2020-02-20/101518002.html) 
 - [2020-03-10-Chrome-页面呈现原理与性能优化之企业级分享总结内附完整PPT](https://www.ershicimi.com/p/d63417d64a93a5f29743789014cedd35) 
 - [2020-03-11-网站性能优化之度量篇](https://www.ershicimi.com/p/451db8cce42f1e6e0c01fc3375c4fd30) 
 - [2020-02-29-面试被问尾递归优化知道怎么做吗？](https://www.ershicimi.com/p/b06fb9a9c828884723876dd9d27b90a8) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 03:30:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 06:30:19，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -681,6 +681,10 @@
 </summary>
 
 
+- [2020-03-15-一个彩蛋破解了20年？盘点游戏史上著名彩蛋背后的故事丨Q事界](https://www.ershicimi.com/p/c0333fca402b1ef744a26d04c613ac44)  
+- [2020-03-15-BFE：面对网络接入挑战的应对之道](https://www.ershicimi.com/p/ca823c85e435d1ff14a188d96095959b)  
+- [2020-03-15-15-个提高效率的-Python-编程技巧](https://www.ershicimi.com/p/3141d7f0d8367b401965bc66d7f02a6d)  
+- [2020-03-14-因恶意举报竞争对手，社交软件Soul运营合伙人被捕；天猫被爆大数据杀熟；OYO中国裁员7000人，中](https://www.ershicimi.com/p/f0243f7a5531d654907eeb13ffc08c56)  
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140)  
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8)  
 - [2020-03-17-大疆禁飞、TikTok-禁装，视野之外的“华为”们如何出海？](https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99)  
@@ -912,7 +916,9 @@
 </summary>
 
 
-- [2020-03-18-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs) ![](assets/new.png)  
+- [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) ![](assets/new.png)  
+- [2020-03-18-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv) ![](assets/new.png)  
+- [2020-03-18-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
 - [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo)  
 - [2020-03-18-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y)  
 - [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
@@ -930,8 +936,6 @@
 - [2020-03-17-推荐-Go-为什么这么-“快”](https://toutiao.io/k/0k0wec5)  
 - [2020-03-17-推荐-10-款-VS-Code-插件神器，第-7-款超级实用](https://toutiao.io/k/ibodub2)  
 - [2020-03-17-推荐-JVM-笔记：G1-收集器概述](https://toutiao.io/k/cfj5vl8)  
-- [2020-03-17-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
-- [2020-03-17-服务的容灾与容错](https://toutiao.io/k/t1de0md)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -2991,6 +2991,71 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "求分享文档加密相关的软件，公司的各种文档比较敏感，出于保密和防止外流的目的，在 windows 平台是否有比较寻求可行的软件产品加密防外泄解决。",
+        "link": "https://www.v2ex.com/t/653701",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "一个 IntelliJ (2019.3.3) 在 macOS 10.15.3 下的极其诡异的 bug",
+        "link": "https://www.v2ex.com/t/653700",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "面试如果一两个简单题答不上来的话，如何在后面自救？",
+        "link": "https://www.v2ex.com/t/653699",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "Win10 如何快捷睡眠？",
+        "link": "https://www.v2ex.com/t/653698",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "发现一个病毒序列分析 repo",
+        "link": "https://www.v2ex.com/t/653694",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "Office365 家庭版开车 从速",
+        "link": "https://www.v2ex.com/t/653693",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "某互联网公司一面 35 分钟其中 25 分钟讲了项目",
+        "link": "https://www.v2ex.com/t/653691",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "有没有能提供虚拟 3D 场景直播的公司和服务，求推荐",
+        "link": "https://www.v2ex.com/t/653690",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "辽宁联通宽带出国路由跟踪疑惑",
+        "link": "https://www.v2ex.com/t/653689",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "短视频分享网站 YouHub.TV 上线啦 https://youhub.tv",
+        "link": "https://www.v2ex.com/t/653688",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "很讨厌面试怎么办",
+        "link": "https://www.v2ex.com/t/653687",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "公司员工不服从安排怎么办？",
+        "link": "https://www.v2ex.com/t/653686",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "[区块链][杭州/上海][校招]一起来蚂蚁国际构建全球区块链汇款网络和产品吧~",
+        "link": "https://www.v2ex.com/t/653685",
+        "date": "2020-03-17"
+      },
+      {
         "title": "2020 春季小米信息流算法工程师实习",
         "link": "https://www.v2ex.com/t/653684",
         "date": "2020-03-17"
@@ -3394,6 +3459,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 拥有这些工具，还怕干不出好活？",
+        "link": "https://toutiao.io/k/jlh1v51",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "[推荐] TCP 协议可靠性是如何保证：滑动窗口，超时重发，序列号确认应答信号",
+        "link": "https://toutiao.io/k/un6dvkk",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "[推荐] 程序员如何挣外快？ | 码农周刊第 298 期",
+        "link": "https://toutiao.io/k/bcthhtp",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "[推荐] [译] ​程序员如何挣外快？",
+        "link": "https://toutiao.io/k/4aejh5o",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "[推荐] Spring Boot 2 整合 Kafka 组件，应用案例和流程详解",
+        "link": "https://toutiao.io/k/8i1q3ik",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "[推荐] MIT 6.824 分布式系统课程第一课：介绍笔记",
+        "link": "https://toutiao.io/k/huo7gu5",
+        "date": "2020-03-17"
+      },
       {
         "title": "[推荐] 聊聊 ab、wrk、JMeter、Locust 这些压测工具的并发模型差别",
         "link": "https://toutiao.io/k/sogmzan",

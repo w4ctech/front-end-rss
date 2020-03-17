@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 03:00:18，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 03:30:16，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,16 +44,16 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -681,6 +681,10 @@
 </summary>
 
 
+- [2020-03-15-一个彩蛋破解了20年？盘点游戏史上著名彩蛋背后的故事丨Q事界](https://www.ershicimi.com/p/c0333fca402b1ef744a26d04c613ac44) ![](assets/new.png)  
+- [2020-03-15-BFE：面对网络接入挑战的应对之道](https://www.ershicimi.com/p/ca823c85e435d1ff14a188d96095959b) ![](assets/new.png)  
+- [2020-03-15-15-个提高效率的-Python-编程技巧](https://www.ershicimi.com/p/3141d7f0d8367b401965bc66d7f02a6d) ![](assets/new.png)  
+- [2020-03-14-因恶意举报竞争对手，社交软件Soul运营合伙人被捕；天猫被爆大数据杀熟；OYO中国裁员7000人，中](https://www.ershicimi.com/p/f0243f7a5531d654907eeb13ffc08c56) ![](assets/new.png)  
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140)  
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8)  
 - [2020-03-17-大疆禁飞、TikTok-禁装，视野之外的“华为”们如何出海？](https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99)  
@@ -850,10 +854,10 @@
 </summary>
 
 
-- [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731) ![](assets/new.png)  
-- [2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730) ![](assets/new.png)  
-- [2020-03-18-大家一起来做个试验吧，关于手机-APP-窃听](https://www.v2ex.com/t/653729) ![](assets/new.png)  
-- [2020-03-18-给-AriaNG-加了个搜索和下载音乐的插件](https://www.v2ex.com/t/653728) ![](assets/new.png)  
+- [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731)  
+- [2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730)  
+- [2020-03-18-大家一起来做个试验吧，关于手机-APP-窃听](https://www.v2ex.com/t/653729)  
+- [2020-03-18-给-AriaNG-加了个搜索和下载音乐的插件](https://www.v2ex.com/t/653728)  
 - [2020-03-18-你们裸睡吗？](https://www.v2ex.com/t/653727)  
 - [2020-03-18-相距一年，各语言-Web-性能测试的变化](https://www.v2ex.com/t/653726)  
 - [2020-03-18-蚂蚁金服-财富技术部-Java-算法-HC-充足-欢迎来聊](https://www.v2ex.com/t/653725)  
@@ -912,6 +916,7 @@
 </summary>
 
 
+- [2020-03-18-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs) ![](assets/new.png)  
 - [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo)  
 - [2020-03-18-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y)  
 - [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
@@ -931,7 +936,6 @@
 - [2020-03-17-推荐-JVM-笔记：G1-收集器概述](https://toutiao.io/k/cfj5vl8)  
 - [2020-03-17-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
 - [2020-03-17-服务的容灾与容错](https://toutiao.io/k/t1de0md)  
-- [2020-03-17-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

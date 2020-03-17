@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -266,6 +266,8 @@
 - [2020-03-17-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-17-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-17-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo) 
+- [2020-03-18-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y) 
 - [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w) 
 - [2020-03-18-推荐-一文了解-Zookeeper-基本原理与应用场景](https://toutiao.io/k/3f7xqe0) 
 - [2020-03-17-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51) 

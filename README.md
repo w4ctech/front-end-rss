@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 01:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 01:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2020-03-17-武汉金银潭医院1775名新冠患者研究：#研究显示O型血相对不易感](http://m.weibo.cn/3057540037/4483605872631746) ![](assets/new.png)  
+- [2020-03-17-武汉金银潭医院1775名新冠患者研究：#研究显示O型血相对不易感](http://m.weibo.cn/3057540037/4483605872631746)  
 - [2020-03-17-伊朗累计确诊16169例新冠肺炎](http://m.weibo.cn/2803301701/4483539213193409)  
 - [2020-03-17-西班牙新增1987例，新冠肺炎确诊病例累计11178例](http://m.weibo.cn/3057540037/4483538281688867)  
 - [2020-03-17-马来西亚现首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4483523568033416)  
@@ -703,8 +703,8 @@
 </summary>
 
 
-- [2020-03-17-体验concent依赖收集，赋予react更多想象空间](https://juejin.im/post/5e70c1fa6fb9a07c8076d393) ![](assets/new.png)  
-- [2020-03-17-记录一次-优化总结](https://juejin.im/post/5e704b1de51d4527107caab1) ![](assets/new.png)  
+- [2020-03-17-体验concent依赖收集，赋予react更多想象空间](https://juejin.im/post/5e70c1fa6fb9a07c8076d393)  
+- [2020-03-17-记录一次-优化总结](https://juejin.im/post/5e704b1de51d4527107caab1)  
 - [2020-03-17-ES6中class的继承机制](https://juejin.im/post/5e70a06251882549331d0a95)  
 - [2020-03-17-JavaScript设计模式一-——-设计模式原则](https://juejin.im/post/5e709b9a51882549131080a1)  
 - [2020-03-17-深入浅出Vue变化侦测](https://juejin.im/post/5e6f5c52f265da57663ff01a)  
@@ -828,15 +828,15 @@
 </summary>
 
 
-- [2020-03-18-关于苹果开发者付款延迟？](https://www.v2ex.com/t/653719) ![](assets/new.png)  
-- [2020-03-18-屏幕问题](https://www.v2ex.com/t/653718) ![](assets/new.png)  
-- [2020-03-17-求推荐：-MATE-20PRO-的贴膜](https://www.v2ex.com/t/653717) ![](assets/new.png)  
-- [2020-03-17-不懂就问，为啥最近的纯债基金也跌?](https://www.v2ex.com/t/653716) ![](assets/new.png)  
-- [2020-03-17-百度拼音输入法有时候在-office-里面没办法输入中文，必须把-office-的软件全部关闭掉，再打开才可以~啥问题](https://www.v2ex.com/t/653715) ![](assets/new.png)  
-- [2020-03-17-关于谷歌-admob,我不太明白一件事情，我首页-admob-显示上个月是-1160，-但是结算账单-上面显示的是-1155.27，这是扣了什么税了吗？](https://www.v2ex.com/t/653714) ![](assets/new.png)  
-- [2020-03-17-Ain't-Queue-1.0.0-发布，新增仪表盘，实时监控队列情况](https://www.v2ex.com/t/653713) ![](assets/new.png)  
-- [2020-03-17-Ng-Matero-V9-正式发布！](https://www.v2ex.com/t/653712) ![](assets/new.png)  
-- [2020-03-17-华为手机实测车辆的-3D-位姿检测](https://www.v2ex.com/t/653711) ![](assets/new.png)  
+- [2020-03-18-关于苹果开发者付款延迟？](https://www.v2ex.com/t/653719)  
+- [2020-03-18-屏幕问题](https://www.v2ex.com/t/653718)  
+- [2020-03-17-求推荐：-MATE-20PRO-的贴膜](https://www.v2ex.com/t/653717)  
+- [2020-03-17-不懂就问，为啥最近的纯债基金也跌?](https://www.v2ex.com/t/653716)  
+- [2020-03-17-百度拼音输入法有时候在-office-里面没办法输入中文，必须把-office-的软件全部关闭掉，再打开才可以~啥问题](https://www.v2ex.com/t/653715)  
+- [2020-03-17-关于谷歌-admob,我不太明白一件事情，我首页-admob-显示上个月是-1160，-但是结算账单-上面显示的是-1155.27，这是扣了什么税了吗？](https://www.v2ex.com/t/653714)  
+- [2020-03-17-Ain't-Queue-1.0.0-发布，新增仪表盘，实时监控队列情况](https://www.v2ex.com/t/653713)  
+- [2020-03-17-Ng-Matero-V9-正式发布！](https://www.v2ex.com/t/653712)  
+- [2020-03-17-华为手机实测车辆的-3D-位姿检测](https://www.v2ex.com/t/653711)  
 - [2020-03-17-霸王别姬的这一段旋律有专业名称吗？](https://www.v2ex.com/t/653709)  
 - [2020-03-17-大龄垃圾低端码农进，聊聊何去何从？](https://www.v2ex.com/t/653708)  
 - [2020-03-17-契约精神是什么？](https://www.v2ex.com/t/653707)  
@@ -890,6 +890,8 @@
 </summary>
 
 
+- [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo) ![](assets/new.png)  
+- [2020-03-18-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y) ![](assets/new.png)  
 - [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
 - [2020-03-18-推荐-一文了解-Zookeeper-基本原理与应用场景](https://toutiao.io/k/3f7xqe0)  
 - [2020-03-17-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51)  
@@ -908,8 +910,6 @@
 - [2020-03-17-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
 - [2020-03-17-服务的容灾与容错](https://toutiao.io/k/t1de0md)  
 - [2020-03-17-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
-- [2020-03-17-程序员自我发展之路乱弹](https://toutiao.io/k/8uklpmn)  
-- [2020-03-17-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

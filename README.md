@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-17 23:00:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 00:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
@@ -801,6 +801,9 @@
 </summary>
 
 
+- [2020-03-17-知乎故事-|-大型「小聪明」翻车现场](https://www.ershicimi.com/p/f4eeb4abc302fb4b4055e8ef9cdf8db6) ![](assets/new.png)  
+- [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) ![](assets/new.png)  
+- [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) ![](assets/new.png)  
 - [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0)  
 - [2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6)  
 - [2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54)  
@@ -822,26 +825,26 @@
 </summary>
 
 
-- [2020-03-17-求分享文档加密相关的软件，公司的各种文档比较敏感，出于保密和防止外流的目的，在-windows-平台是否有比较寻求可行的软件产品加密防外泄解决。](https://www.v2ex.com/t/653701) ![](assets/new.png)  
-- [2020-03-17-一个-IntelliJ-2019.3.3-在-macOS-10.15.3-下的极其诡异的-bug](https://www.v2ex.com/t/653700) ![](assets/new.png)  
-- [2020-03-17-面试如果一两个简单题答不上来的话，如何在后面自救？](https://www.v2ex.com/t/653699) ![](assets/new.png)  
-- [2020-03-17-Win10-如何快捷睡眠？](https://www.v2ex.com/t/653698) ![](assets/new.png)  
-- [2020-03-17-发现一个病毒序列分析-repo](https://www.v2ex.com/t/653694) ![](assets/new.png)  
-- [2020-03-17-Office365-家庭版开车-从速](https://www.v2ex.com/t/653693) ![](assets/new.png)  
-- [2020-03-17-某互联网公司一面-35-分钟其中-25-分钟讲了项目](https://www.v2ex.com/t/653691) ![](assets/new.png)  
-- [2020-03-17-有没有能提供虚拟-3D-场景直播的公司和服务，求推荐](https://www.v2ex.com/t/653690) ![](assets/new.png)  
-- [2020-03-17-辽宁联通宽带出国路由跟踪疑惑](https://www.v2ex.com/t/653689) ![](assets/new.png)  
-- [2020-03-17-短视频分享网站-YouHub.TV-上线啦-https://youhub.tv](https://www.v2ex.com/t/653688) ![](assets/new.png)  
-- [2020-03-17-很讨厌面试怎么办](https://www.v2ex.com/t/653687) ![](assets/new.png)  
-- [2020-03-17-公司员工不服从安排怎么办？](https://www.v2ex.com/t/653686) ![](assets/new.png)  
-- [2020-03-17-区块链杭州/上海校招一起来蚂蚁国际构建全球区块链汇款网络和产品吧~](https://www.v2ex.com/t/653685) ![](assets/new.png)  
-- [2020-03-17-2020-春季小米信息流算法工程师实习](https://www.v2ex.com/t/653684)  
-- [2020-03-17-程序员的基础](https://www.v2ex.com/t/653683)  
-- [2020-03-17-pkg.go.dev-被墙啦？](https://www.v2ex.com/t/653682)  
-- [2020-03-17-大佬们来讲一下驻场开发和人力外包的区别](https://www.v2ex.com/t/653680)  
-- [2020-03-17-吐槽-最近的前端面试](https://www.v2ex.com/t/653679)  
-- [2020-03-17-用-tinyAES-加密跨平台运行结果不同](https://www.v2ex.com/t/653678)  
-- [2020-03-17-支付宝上海诚招-Android/iOS/C++工程师](https://www.v2ex.com/t/653677)  
+- [2020-03-17-霸王别姬的这一段旋律有专业名称吗？](https://www.v2ex.com/t/653709) ![](assets/new.png)  
+- [2020-03-17-大龄垃圾低端码农进，聊聊何去何从？](https://www.v2ex.com/t/653708) ![](assets/new.png)  
+- [2020-03-17-契约精神是什么？](https://www.v2ex.com/t/653707) ![](assets/new.png)  
+- [2020-03-17-github-上-fork-了别人的项目然后重构了之后](https://www.v2ex.com/t/653706) ![](assets/new.png)  
+- [2020-03-17-为什么-DVI-接口还没有被淘汰？](https://www.v2ex.com/t/653705) ![](assets/new.png)  
+- [2020-03-17-2018macmini-双接，-2415Q-无法推到-4K60HZ](https://www.v2ex.com/t/653704) ![](assets/new.png)  
+- [2020-03-17-小米切换到日文输入法真麻烦](https://www.v2ex.com/t/653703) ![](assets/new.png)  
+- [2020-03-17-小米-后端内推，-base-上海。](https://www.v2ex.com/t/653702) ![](assets/new.png)  
+- [2020-03-17-求分享文档加密相关的软件，公司的各种文档比较敏感，出于保密和防止外流的目的，在-windows-平台是否有比较寻求可行的软件产品加密防外泄解决。](https://www.v2ex.com/t/653701)  
+- [2020-03-17-一个-IntelliJ-2019.3.3-在-macOS-10.15.3-下的极其诡异的-bug](https://www.v2ex.com/t/653700)  
+- [2020-03-17-面试如果一两个简单题答不上来的话，如何在后面自救？](https://www.v2ex.com/t/653699)  
+- [2020-03-17-Win10-如何快捷睡眠？](https://www.v2ex.com/t/653698)  
+- [2020-03-17-发现一个病毒序列分析-repo](https://www.v2ex.com/t/653694)  
+- [2020-03-17-Office365-家庭版开车-从速](https://www.v2ex.com/t/653693)  
+- [2020-03-17-某互联网公司一面-35-分钟其中-25-分钟讲了项目](https://www.v2ex.com/t/653691)  
+- [2020-03-17-有没有能提供虚拟-3D-场景直播的公司和服务，求推荐](https://www.v2ex.com/t/653690)  
+- [2020-03-17-辽宁联通宽带出国路由跟踪疑惑](https://www.v2ex.com/t/653689)  
+- [2020-03-17-短视频分享网站-YouHub.TV-上线啦-https://youhub.tv](https://www.v2ex.com/t/653688)  
+- [2020-03-17-很讨厌面试怎么办](https://www.v2ex.com/t/653687)  
+- [2020-03-17-公司员工不服从安排怎么办？](https://www.v2ex.com/t/653686)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -884,12 +887,14 @@
 </summary>
 
 
-- [2020-03-17-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51) ![](assets/new.png)  
-- [2020-03-17-推荐-TCP-协议可靠性是如何保证：滑动窗口，超时重发，序列号确认应答信号](https://toutiao.io/k/un6dvkk) ![](assets/new.png)  
-- [2020-03-17-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp) ![](assets/new.png)  
-- [2020-03-17-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o) ![](assets/new.png)  
-- [2020-03-17-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik) ![](assets/new.png)  
-- [2020-03-17-推荐-MIT-6.824-分布式系统课程第一课：介绍笔记](https://toutiao.io/k/huo7gu5) ![](assets/new.png)  
+- [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w) ![](assets/new.png)  
+- [2020-03-18-推荐-一文了解-Zookeeper-基本原理与应用场景](https://toutiao.io/k/3f7xqe0) ![](assets/new.png)  
+- [2020-03-17-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51)  
+- [2020-03-17-推荐-TCP-协议可靠性是如何保证：滑动窗口，超时重发，序列号确认应答信号](https://toutiao.io/k/un6dvkk)  
+- [2020-03-17-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp)  
+- [2020-03-17-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o)  
+- [2020-03-17-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik)  
+- [2020-03-17-推荐-MIT-6.824-分布式系统课程第一课：介绍笔记](https://toutiao.io/k/huo7gu5)  
 - [2020-03-17-推荐-聊聊-ab、wrk、JMeter、Locust-这些压测工具的并发模型差别](https://toutiao.io/k/sogmzan)  
 - [2020-03-17-推荐-如何设计一个高可用、高并发秒杀系统](https://toutiao.io/k/fljrk2w)  
 - [2020-03-17-推荐-17-个场景，带你入门-CSS-布局](https://toutiao.io/k/uiq7r5p)  
@@ -902,8 +907,6 @@
 - [2020-03-17-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
 - [2020-03-17-程序员自我发展之路乱弹](https://toutiao.io/k/8uklpmn)  
 - [2020-03-17-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p)  
-- [2020-03-17-Go-语言内存分配器的实现原理](https://toutiao.io/k/38m7q09)  
-- [2020-03-17-Google-搜索成最大入口，简单谈下个人博客的-SEO](https://toutiao.io/k/nd56722)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

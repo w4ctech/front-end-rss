@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 06:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-18 07:30:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -677,6 +677,7 @@
 - [【知乎日报】2020-03-15-知乎故事-|-每天开私人飞机去上班是一种怎样的体验？](https://www.ershicimi.com/p/cd9029b1b03e10b79d547a943754ca8b) 
 - [【知乎日报】2020-03-14-影视圈有哪些「一手烂牌却打出王炸」的演员？](https://www.ershicimi.com/p/4d271b6c334cb250b9a42b7956b8bc8a) 
 - [【知乎日报】2020-03-14-知乎故事-|-他们还爱着，但终究是分手了](https://www.ershicimi.com/p/57baff8892fa2d1e91fcacef58abc8e8) 
+- [【V2EX】2020-03-18-现在的网民，看到新闻之后都不会思考吗？](https://www.v2ex.com/t/653735) 
 - [【V2EX】2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731) 
 - [【V2EX】2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730) 
 - [【V2EX】2020-03-18-大家一起来做个试验吧，关于手机-APP-窃听](https://www.v2ex.com/t/653729) 

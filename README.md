@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 06:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 07:30:18，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -850,6 +850,7 @@
 </summary>
 
 
+- [2020-03-18-现在的网民，看到新闻之后都不会思考吗？](https://www.v2ex.com/t/653735) ![](assets/new.png)  
 - [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731)  
 - [2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730)  
 - [2020-03-18-大家一起来做个试验吧，关于手机-APP-窃听](https://www.v2ex.com/t/653729)  
@@ -869,7 +870,6 @@
 - [2020-03-17-百度拼音输入法有时候在-office-里面没办法输入中文，必须把-office-的软件全部关闭掉，再打开才可以~啥问题](https://www.v2ex.com/t/653715)  
 - [2020-03-17-关于谷歌-admob,我不太明白一件事情，我首页-admob-显示上个月是-1160，-但是结算账单-上面显示的是-1155.27，这是扣了什么税了吗？](https://www.v2ex.com/t/653714)  
 - [2020-03-17-Ain't-Queue-1.0.0-发布，新增仪表盘，实时监控队列情况](https://www.v2ex.com/t/653713)  
-- [2020-03-17-Ng-Matero-V9-正式发布！](https://www.v2ex.com/t/653712)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -912,8 +912,8 @@
 </summary>
 
 
-- [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) ![](assets/new.png)  
-- [2020-03-18-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv) ![](assets/new.png)  
+- [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k)  
+- [2020-03-18-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv)  
 - [2020-03-18-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
 - [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo)  
 - [2020-03-18-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y)  

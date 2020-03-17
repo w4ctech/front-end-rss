@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-17 21:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 22:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -495,6 +495,7 @@
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
 - [【InfoQ】好算法距离好产品有多远？丨QCon](https://www.ershicimi.com/p/7c193dff943560e4348f025b19a49b21)
 - [【JavaScript】Nginx配置Https零基础教程](https://www.ershicimi.com/p/2d65466154cde3563c34a8391491902e)
+- [【V2EX】2020-春季小米信息流算法工程师实习](https://www.v2ex.com/t/653684)
 - [【V2EX】LintCode-题解-腾讯面试算法题：带环链表-II](https://www.v2ex.com/t/653646)
 - [【开发者头条】译-推荐你使用-Vim-的三个半理由](https://toutiao.io/k/fjmcqij)
 - [【开发者头条】Elasticsearch-自定义评分的-N-种方法](https://toutiao.io/k/a08zrqb)

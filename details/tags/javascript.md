@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 16:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -112,6 +112,7 @@
 - [2020-03-18-AC2600-路由器，选什么无线网卡好？最大-80Mhz](https://www.v2ex.com/t/653836) 
 - [2020-03-18-curl-将在版本-7.70-支持以-JSON-方式输出调试信息](https://www.v2ex.com/t/653786) 
 - [2020-03-18-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-18-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik) 
 - [2020-03-18-Redis-Modules-及其引申问题](https://toutiao.io/k/7noc6sd) 
 - [2020-03-18-Java-解惑系列（四）：有意思的-try-catch-顺序问题](https://toutiao.io/k/s7gctk8) 
 - [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) 

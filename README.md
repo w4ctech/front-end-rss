@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 15:30:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 16:00:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -397,7 +397,7 @@
 </summary>
 
 
-- [2020-03-18-手摸手教你写几个实用的AST插件](https://www.ershicimi.com/p/92ef474b2b730f295485adf6e75c7c78) ![](assets/new.png)  
+- [2020-03-18-手摸手教你写几个实用的AST插件](https://www.ershicimi.com/p/92ef474b2b730f295485adf6e75c7c78)  
 - [2020-03-17-一张页面引起的项目架构思考（rax+Typescript+hooks）](https://www.ershicimi.com/p/a7c64c61c83c29f8ccf628cc9b601099)  
 - [2020-03-17-大幅提升-JavaScript-执行效率，V8-是如何做到的？](https://www.ershicimi.com/p/b46c829fb2aa533d7ed0ed70d4696e6c)  
 - [2020-03-16-Vue这些底层原理，你都熟练了么？](https://www.ershicimi.com/p/c79fc71fe1b0d58abf9291703b7a4636)  
@@ -738,11 +738,11 @@
 </summary>
 
 
-- [2020-03-18-参考这套代码，辩论赛也能搬到线上](https://juejin.im/post/5e71bd65518825494905e4df) ![](assets/new.png)  
-- [2020-03-18-图文并茂捋清JS-OOP](https://juejin.im/post/5e71c023f265da5735506ff3) ![](assets/new.png)  
-- [2020-03-18-Canvas实现图片标记、缩放、移动和保存历史状态，纯干货（附转换公式）](https://juejin.im/post/5e717376e51d4526dd1ec2e6) ![](assets/new.png)  
-- [2020-03-18-为什么前端一定要掌握数据结构？](https://juejin.im/post/5e71c0c1e51d4526f65ce360) ![](assets/new.png)  
-- [2020-03-18-如何度量前端项目研发效率与质量（上篇）](https://juejin.im/post/5e6f51c4e51d4527172645a7) ![](assets/new.png)  
+- [2020-03-18-参考这套代码，辩论赛也能搬到线上](https://juejin.im/post/5e71bd65518825494905e4df)  
+- [2020-03-18-图文并茂捋清JS-OOP](https://juejin.im/post/5e71c023f265da5735506ff3)  
+- [2020-03-18-Canvas实现图片标记、缩放、移动和保存历史状态，纯干货（附转换公式）](https://juejin.im/post/5e717376e51d4526dd1ec2e6)  
+- [2020-03-18-为什么前端一定要掌握数据结构？](https://juejin.im/post/5e71c0c1e51d4526f65ce360)  
+- [2020-03-18-如何度量前端项目研发效率与质量（上篇）](https://juejin.im/post/5e6f51c4e51d4527172645a7)  
 - [2020-03-18-JS-的类型转换](https://juejin.im/post/5e7194d851882549281c0f9b)  
 - [2020-03-18-WebGL-纹理](https://juejin.im/post/5e71930c6fb9a07c98550d83)  
 - [2020-03-18-JavaScript代码是怎么执行的？](https://juejin.im/post/5e6f1e086fb9a07c8334f80a)  
@@ -872,26 +872,26 @@
 </summary>
 
 
-- [2020-03-18-码率决不决定视频品质？决定视频品质的因素有哪些？](https://www.v2ex.com/t/653881) ![](assets/new.png)  
-- [2020-03-18-为什么国内大部分论坛不让讨论政治话题](https://www.v2ex.com/t/653878) ![](assets/new.png)  
-- [2020-03-18-简易的企业文件管理网盘服务-https://filelist.cn-开源](https://www.v2ex.com/t/653877) ![](assets/new.png)  
-- [2020-03-18-面试的职业规划要怎么说？](https://www.v2ex.com/t/653876) ![](assets/new.png)  
-- [2020-03-18-大佬们，求解](https://www.v2ex.com/t/653875) ![](assets/new.png)  
-- [2020-03-18-有使用-Payjs-的大佬吗？请教几个问题](https://www.v2ex.com/t/653874) ![](assets/new.png)  
-- [2020-03-18-MBP-2015-年中，电池进入"维修状态"](https://www.v2ex.com/t/653873) ![](assets/new.png)  
-- [2020-03-18-有用过米家智能插座-wifi-版的吗？](https://www.v2ex.com/t/653871) ![](assets/new.png)  
-- [2020-03-18-请问为什么-token-能抵御-csrf?](https://www.v2ex.com/t/653870) ![](assets/new.png)  
-- [2020-03-18-pyenv-install-安装-Python-为什么是从源码编译安装呢？？能不能安装编译好的二进制？](https://www.v2ex.com/t/653869) ![](assets/new.png)  
-- [2020-03-18-上海浦东-达观数据-AI-文本智能处理专家-急聘-Python-开发工程师、web-前端开发工程师](https://www.v2ex.com/t/653868) ![](assets/new.png)  
-- [2020-03-18-大家有使用备用手机的习惯嘛？是怎么配置的呢？](https://www.v2ex.com/t/653866) ![](assets/new.png)  
-- [2020-03-18-Windows-下添加环境变量，每次都需要重启，-Gitbash-才生效](https://www.v2ex.com/t/653865) ![](assets/new.png)  
-- [2020-03-18-Jakarta-EE-9-RC1-来了](https://www.v2ex.com/t/653864) ![](assets/new.png)  
-- [2020-03-18-坐标成都天府五街，最近电信的-2-根企业光纤网络很不稳定啥原因？](https://www.v2ex.com/t/653863) ![](assets/new.png)  
-- [2020-03-18-网新恒天外派财通证券是什么性质的岗位呢？](https://www.v2ex.com/t/653862) ![](assets/new.png)  
-- [2020-03-18-深圳15k-35k小伙伴们来了解一下~](https://www.v2ex.com/t/653861) ![](assets/new.png)  
-- [2020-03-18-感觉最近自己戾气越来越重了](https://www.v2ex.com/t/653860) ![](assets/new.png)  
-- [2020-03-18-关于-LinkedBlockingQueue-与-ArrayBlockingQueue](https://www.v2ex.com/t/653859) ![](assets/new.png)  
-- [2020-03-18-同学经常来问我一些留学生的作业问题，请问哪里可以接单？](https://www.v2ex.com/t/653858) ![](assets/new.png)  
+- [2020-03-18-码率决不决定视频品质？决定视频品质的因素有哪些？](https://www.v2ex.com/t/653881)  
+- [2020-03-18-为什么国内大部分论坛不让讨论政治话题](https://www.v2ex.com/t/653878)  
+- [2020-03-18-简易的企业文件管理网盘服务-https://filelist.cn-开源](https://www.v2ex.com/t/653877)  
+- [2020-03-18-面试的职业规划要怎么说？](https://www.v2ex.com/t/653876)  
+- [2020-03-18-大佬们，求解](https://www.v2ex.com/t/653875)  
+- [2020-03-18-有使用-Payjs-的大佬吗？请教几个问题](https://www.v2ex.com/t/653874)  
+- [2020-03-18-MBP-2015-年中，电池进入"维修状态"](https://www.v2ex.com/t/653873)  
+- [2020-03-18-有用过米家智能插座-wifi-版的吗？](https://www.v2ex.com/t/653871)  
+- [2020-03-18-请问为什么-token-能抵御-csrf?](https://www.v2ex.com/t/653870)  
+- [2020-03-18-pyenv-install-安装-Python-为什么是从源码编译安装呢？？能不能安装编译好的二进制？](https://www.v2ex.com/t/653869)  
+- [2020-03-18-上海浦东-达观数据-AI-文本智能处理专家-急聘-Python-开发工程师、web-前端开发工程师](https://www.v2ex.com/t/653868)  
+- [2020-03-18-大家有使用备用手机的习惯嘛？是怎么配置的呢？](https://www.v2ex.com/t/653866)  
+- [2020-03-18-Windows-下添加环境变量，每次都需要重启，-Gitbash-才生效](https://www.v2ex.com/t/653865)  
+- [2020-03-18-Jakarta-EE-9-RC1-来了](https://www.v2ex.com/t/653864)  
+- [2020-03-18-坐标成都天府五街，最近电信的-2-根企业光纤网络很不稳定啥原因？](https://www.v2ex.com/t/653863)  
+- [2020-03-18-网新恒天外派财通证券是什么性质的岗位呢？](https://www.v2ex.com/t/653862)  
+- [2020-03-18-深圳15k-35k小伙伴们来了解一下~](https://www.v2ex.com/t/653861)  
+- [2020-03-18-感觉最近自己戾气越来越重了](https://www.v2ex.com/t/653860)  
+- [2020-03-18-关于-LinkedBlockingQueue-与-ArrayBlockingQueue](https://www.v2ex.com/t/653859)  
+- [2020-03-18-同学经常来问我一些留学生的作业问题，请问哪里可以接单？](https://www.v2ex.com/t/653858)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -934,6 +934,8 @@
 </summary>
 
 
+- [2020-03-18-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik) ![](assets/new.png)  
+- [2020-03-18-推荐-亿级数据从-MySQL-到-Hbase-的三种同步方案与实践](https://toutiao.io/k/tejyiaj) ![](assets/new.png)  
 - [2020-03-18-图解-Go-的-unsafe.Pointer](https://toutiao.io/k/91uf461)  
 - [2020-03-18-Redis-Modules-及其引申问题](https://toutiao.io/k/7noc6sd)  
 - [2020-03-18-线程池如何传递线程上下文信息](https://toutiao.io/k/j4qg43z)  
@@ -952,8 +954,6 @@
 - [2020-03-18-面试被问分布式-ID-怎么办？-滴滴-Tinyid-甩给他](https://toutiao.io/k/a41o449)  
 - [2020-03-18-一文帮你搞懂何为信息增益：决策树必备](https://toutiao.io/k/dqn6f0p)  
 - [2020-03-18-15-年工龄的-P9-职场历程自述](https://toutiao.io/k/7hllz9e)  
-- [2020-03-18-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
-- [2020-03-18-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -10476,6 +10476,16 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "[推荐] Spring Boot 2 整合 Kafka 组件，应用案例和流程详解",
+        "link": "https://toutiao.io/k/8i1q3ik",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 亿级数据从 MySQL 到 Hbase 的三种同步方案与实践",
+        "link": "https://toutiao.io/k/tejyiaj",
+        "date": "2020-03-18"
+      },
+      {
         "title": "图解 Go 的 unsafe.Pointer",
         "link": "https://toutiao.io/k/91uf461",
         "date": "2020-03-18"

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 16:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1326,6 +1326,7 @@
 - [2020-03-18-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-18-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-18-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-18-推荐-亿级数据从-MySQL-到-Hbase-的三种同步方案与实践](https://toutiao.io/k/tejyiaj) 
 - [2020-03-18-图解-Go-的-unsafe.Pointer](https://toutiao.io/k/91uf461) 
 - [2020-03-18-线程池如何传递线程上下文信息](https://toutiao.io/k/j4qg43z) 
 - [2020-03-18-跳表-SkipList-数据结构介绍](https://toutiao.io/k/thd8pky) 

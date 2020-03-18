@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-18 16:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -862,6 +862,8 @@
 - [【技术头条】2020-03-18-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-18-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-18-换工作，关于面试的总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13276&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOAcnjgHilSF438QTzz17Uw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-18-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik) 
+- [【开发者头条】2020-03-18-推荐-亿级数据从-MySQL-到-Hbase-的三种同步方案与实践](https://toutiao.io/k/tejyiaj) 
 - [【开发者头条】2020-03-18-图解-Go-的-unsafe.Pointer](https://toutiao.io/k/91uf461) 
 - [【开发者头条】2020-03-18-Redis-Modules-及其引申问题](https://toutiao.io/k/7noc6sd) 
 - [【开发者头条】2020-03-18-线程池如何传递线程上下文信息](https://toutiao.io/k/j4qg43z) 

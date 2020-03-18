@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "北京境外输入病例继续增加 筛查分流添隐患",
+        "link": "http://china.caixin.com/2020-03-18/101530001.html",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "肺炎日记|3月17日：援鄂医疗队回城，北上广或成新战场",
+        "link": "http://china.caixin.com/2020-03-18/101530004.html",
+        "date": "2020-03-18"
+      },
+      {
         "title": "陈列平：病毒特效药问世之前，应当利用大自然的力量",
         "link": "http://china.caixin.com/2020-03-18/101529932.html",
         "date": "2020-03-18"
@@ -9127,6 +9137,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "小程序开发经验总结",
+        "link": "https://juejin.im/post/5e71891c5188254967069840",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "vue进阶之路|vue+vue-i18n+element实现多语言",
+        "link": "https://juejin.im/post/5e70dd8a5188252c1f224c51",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "震惊,canvas文字粒子效果，只需要100行代码，简单易懂。",
+        "link": "https://juejin.im/post/5e70f6e0f265da57082a05b6",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "长大了再也没有人给我发红包了,那就自己发!",
+        "link": "https://juejin.im/post/5e6eebf4e51d45271849f8fe",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "使用 React Testing Library 和 Jest 完成单元测试",
+        "link": "https://juejin.im/post/5e7187a1e51d4526e8080e8c",
+        "date": "2020-03-18"
+      },
+      {
         "title": "Axios二次封装",
         "link": "https://juejin.im/post/5e708692e51d4526fd06a196",
         "date": "2020-03-17"
@@ -9542,6 +9577,106 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "VS Code Remote 同步问题??",
+        "link": "https://www.v2ex.com/t/653784",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "求助：有定制较高质量贴纸的方案吗",
+        "link": "https://www.v2ex.com/t/653783",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "国内三大运营商不同价格 5G 套餐的限速方案",
+        "link": "https://www.v2ex.com/t/653781",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "Linux 源每列的含义，求告知",
+        "link": "https://www.v2ex.com/t/653780",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "官方说明只有 yarn、ts 和 hooks 怎么办？",
+        "link": "https://www.v2ex.com/t/653779",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "小白刚开始玩 mac，求大家推荐你们的私房应用~~",
+        "link": "https://www.v2ex.com/t/653778",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "找个可方以在 Android 上 7*24 小时挂的某服务的部署案",
+        "link": "https://www.v2ex.com/t/653776",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "mysql5.6 数据 utf8mb4 转到 mysql5.7 版本 的，总是掉一小部数据 用 mysqldump 备份恢复的，有什么办法能丢失的数据尽量少些？",
+        "link": "https://www.v2ex.com/t/653773",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "实际一年前端，总感觉简历有问题，求点评~~~~~",
+        "link": "https://www.v2ex.com/t/653772",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "传统行业转互联网怎么切入？",
+        "link": "https://www.v2ex.com/t/653771",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "杭州租房求助-湖北籍从广州新入杭州能否租房",
+        "link": "https://www.v2ex.com/t/653770",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "10 年前开的券商账户 0.3%佣金，你们开的多少佣金",
+        "link": "https://www.v2ex.com/t/653768",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "米拉奇战记——充满回忆的一款小游戏",
+        "link": "https://www.v2ex.com/t/653767",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "小米内推",
+        "link": "https://www.v2ex.com/t/653765",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "JDK 14 发布了",
+        "link": "https://www.v2ex.com/t/653764",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "如何系统学习多线程",
+        "link": "https://www.v2ex.com/t/653762",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "请问这是什么代码",
+        "link": "https://www.v2ex.com/t/653761",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "自如为什么还没有全站 https。",
+        "link": "https://www.v2ex.com/t/653760",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "大家对于鱼油有什么推荐?",
+        "link": "https://www.v2ex.com/t/653758",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "问一个程序员可能很少注意的问题（关于 Display P3 色彩模式）",
+        "link": "https://www.v2ex.com/t/653757",
+        "date": "2020-03-18"
+      },
+      {
         "title": "小想法在线实验室",
         "link": "https://www.v2ex.com/t/653756",
         "date": "2020-03-18"
@@ -9845,6 +9980,76 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Service Mesh 最火项目 Istio 是怎么做流量管理的？",
+        "link": "https://toutiao.io/k/4r5b7qy",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "分库分表后的索引问题",
+        "link": "https://toutiao.io/k/ival70y",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "面试被问分布式 ID 怎么办？ 滴滴 (Tinyid) 甩给他",
+        "link": "https://toutiao.io/k/a41o449",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "一文帮你搞懂何为信息增益：决策树必备",
+        "link": "https://toutiao.io/k/dqn6f0p",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "15 年工龄的 P9 职场历程自述",
+        "link": "https://toutiao.io/k/7hllz9e",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 我在阿里做中后台开发",
+        "link": "https://toutiao.io/k/k0m2k5w",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] [译] ​程序员如何挣外快？",
+        "link": "https://toutiao.io/k/4aejh5o",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐]  如何优雅的在 Java 中统计代码块耗时",
+        "link": "https://toutiao.io/k/ec7czbv",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 6800 字给你科普：SaaS 公司的系统稳定与安全机制",
+        "link": "https://toutiao.io/k/49o6fqx",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 分布式定时任务调度框架实践",
+        "link": "https://toutiao.io/k/necfb59",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] MIT 6.824 分布式系统课程第一课：介绍笔记",
+        "link": "https://toutiao.io/k/huo7gu5",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 这 8 个锦囊，助你成为一名优秀的 Java 开发者",
+        "link": "https://toutiao.io/k/thnyg3y",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 17 个场景，带你入门 CSS 布局",
+        "link": "https://toutiao.io/k/uiq7r5p",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] 究竟什么样的开发流程是规范的？",
+        "link": "https://toutiao.io/k/kzfdsra",
+        "date": "2020-03-18"
+      },
       {
         "title": "没用过这些 IDEA 插件？怪不得写代码头疼",
         "link": "https://toutiao.io/k/qkynl0w",

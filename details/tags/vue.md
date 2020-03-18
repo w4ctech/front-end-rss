@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -39,5 +39,6 @@
 - [2020-02-25-Vue-3.0将正式发布，对我们有哪些改变？](https://www.ershicimi.com/p/2f5688f513ddfee39e89de69b1c0624d) 
 - [2020-02-24-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/52d9e6ab84d1ceb2a08483b995b82a96) 
 - [2020-03-10-Vue如何实现疫情地图展示](https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25) 
+- [2020-03-18-vue进阶之路|vue+vue-i18n+element实现多语言](https://juejin.im/post/5e70dd8a5188252c1f224c51) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-03-18-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 

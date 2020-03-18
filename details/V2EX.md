@@ -1,10 +1,29 @@
-:alarm_clock: 更新时间: 2020-03-18 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 14:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-03-18-问个问题，你们的服务器，数据库备份怎么做？](https://www.v2ex.com/t/653853) 
+- [2020-03-18-Android-支付宝更新到最新版后，首页第一行被强制放置了几个不能删除的小程序](https://www.v2ex.com/t/653852) 
+- [2020-03-18-今日头条你们是不是疯了？](https://www.v2ex.com/t/653851) 
+- [2020-03-18-8-及-以上自带的数据线是否支持快充-？](https://www.v2ex.com/t/653850) 
+- [2020-03-18-北京深圳鹅厂内推：大数据、后台研发、大数据集群开发](https://www.v2ex.com/t/653849) 
+- [2020-03-18-终于等到世界最大同性交友社区-移动-APP-了！](https://www.v2ex.com/t/653847) 
+- [2020-03-18-关于百度-sem-推广，求解惑](https://www.v2ex.com/t/653846) 
+- [2020-03-18-请教一个-Android-Studio-3.6-操作界面问题](https://www.v2ex.com/t/653845) 
+- [2020-03-18-配合自己魔改的-CoreDNS-写了个简单的-GUI-的配置文件生成工具](https://www.v2ex.com/t/653844) 
+- [2020-03-18-altos-adventure、altos-odyssey-双端限免](https://www.v2ex.com/t/653843) 
+- [2020-03-18-MacOS-Safari-请教个问题，在-Google-中也没有搜索到解决之道](https://www.v2ex.com/t/653842) 
+- [2020-03-18-喜加一-苹果商店搜索-snowman](https://www.v2ex.com/t/653840) 
+- [2020-03-18-有印区车或者其它区的车吗？](https://www.v2ex.com/t/653839) 
+- [2020-03-18-AC2600-路由器，选什么无线网卡好？最大-80Mhz](https://www.v2ex.com/t/653836) 
+- [2020-03-18-公司有个域名-DNS-解释不了了，怎么可以查到相关信息呢？](https://www.v2ex.com/t/653835) 
+- [2020-03-18-Alfred-社区（https://www.alfredforum.com）打不开，显示-403？是为甚么？](https://www.v2ex.com/t/653834) 
+- [2020-03-18-macbook-16-寸-外接显示器显存爆满](https://www.v2ex.com/t/653833) 
+- [2020-03-18-pc-端-qq-资料卡里的手机号即使填写了，他人在查看的时候部分也会被隐藏，那填写手机号的作用是什么](https://www.v2ex.com/t/653832) 
+- [2020-03-18-话说现在还有纯粹的-android-开发吗？](https://www.v2ex.com/t/653831) 
 - [2020-03-18-突然发现技术下降必然导致“人品”下降。](https://www.v2ex.com/t/653830) 
 - [2020-03-18-Redmine-怎么样？和禅道比，还没有有其他更好用的项目管理？](https://www.v2ex.com/t/653828) 
 - [2020-03-18-从阿里云移动开发平台-mpaas-产品看阿里云的收费套路](https://www.v2ex.com/t/653827) 

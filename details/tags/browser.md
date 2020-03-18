@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 14:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,5 +27,6 @@
 - [2020-03-18-预测最近面试会考-Cookie-的-SameSite-属性](https://juejin.im/post/5e718ecc6fb9a07cda098c2d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-18-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-18-MacOS-Safari-请教个问题，在-Google-中也没有搜索到解决之道](https://www.v2ex.com/t/653842) 
 - [2020-03-18-django-的-view-如何携带通用数据？](https://www.v2ex.com/t/653805) 
 - [2020-03-18-推荐-6800-字给你科普：SaaS-公司的系统稳定与安全机制](https://toutiao.io/k/49o6fqx) 

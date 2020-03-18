@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-18 10:30:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -132,6 +132,7 @@
 - [【React中文社区】一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6)
 - [【前端大全】微软旗下-GitHub-收购-npm](https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee)
 - [【前端大全】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/172da1d5db8683ae94b46516351e7597)
+- [【前端开发】Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6)
 - [【前端开发】前端高级进阶：在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/8c06f04a65773fea00eb0c164aff5afb)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【前端之巅】GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5)
@@ -148,7 +149,6 @@
 - [【奇舞周刊】webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)
 - [【InfoQ】刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【印记中文周刊】构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 10:30:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-18 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -497,6 +497,7 @@
 - [【前端大全】2020-03-11-又来了！Google-和微软在浏览器上的互掐](https://www.ershicimi.com/p/5bc6084825cf2a06eb65efcb3a83c965) 
 - [【前端大全】2020-03-10-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/172da1d5db8683ae94b46516351e7597) 
 - [【前端大全】2020-03-09-“不降薪就裸辞”，高薪开发者如何打破复工魔咒？](https://www.ershicimi.com/p/e9959abfd14f1397615cf53f0db42224) 
+- [【前端开发】2020-03-18-Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6) 
 - [【前端开发】2020-03-17-动图演示11个必备-VS-Code-插件](https://www.ershicimi.com/p/73a99bb9dcf9a89d1482fb10ceb16712) 
 - [【前端开发】2020-03-16-只会-Vue-的前端工程师是没有前途的](https://www.ershicimi.com/p/dc9deb99172ff35d4336143944f5e39f) 
 - [【前端开发】2020-03-16-彻底搞懂-offsetX、scrollX、clientX-的区别](https://www.ershicimi.com/p/c593a2f428081b86595838c4ebb6a2b0) 

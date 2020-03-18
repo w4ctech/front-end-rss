@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "陈列平：病毒特效药问世之前，应当利用大自然的力量",
+        "link": "http://china.caixin.com/2020-03-18/101529932.html",
+        "date": "2020-03-18"
+      },
+      {
         "title": "解药|康希诺再度联手军事科学院  新冠疫苗启动受试者招募",
         "link": "http://china.caixin.com/2020-03-17/101529585.html",
         "date": "2020-03-17"
@@ -6517,6 +6522,41 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "黑龙江省最新疫情通报",
+        "link": "http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8153/navid/42/stypeid/",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "广西新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0318/70253.html",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "美国累计确诊新冠肺炎6420例",
+        "link": "http://m.weibo.cn/2656274875/4483735737291439",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "上海新增3例境外输入病例",
+        "link": "http://m.weibo.cn/2803301701/4483734864546676",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "辽宁新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200318_3775233.html",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "美国新增1646例新冠肺炎",
+        "link": "http://m.weibo.cn/2803301701/4483729831913364",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "重庆市新冠肺炎疫情情况",
+        "link": "http://wsjkw.cq.gov.cn/yqxxyqtb/20200318/260275.html",
+        "date": "2020-03-18"
+      },
+      {
         "title": "NBA球星杜兰特确诊新冠肺炎",
         "link": "http://m.weibo.cn/3057540037/4483721631824071",
         "date": "2020-03-18"
@@ -9562,6 +9602,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Xs Max 换电池是去直营店还是第三方更换还是自己来？",
+        "link": "https://www.v2ex.com/t/653742",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "实际项目中，大家还做 csrf 的防御吗？",
+        "link": "https://www.v2ex.com/t/653741",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "Github 官方 app 终于上架了",
+        "link": "https://www.v2ex.com/t/653739",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "求教：学英语的方法",
+        "link": "https://www.v2ex.com/t/653737",
+        "date": "2020-03-18"
+      },
+      {
         "title": "github 的 app 可以正式下载了",
         "link": "https://www.v2ex.com/t/653736",
         "date": "2020-03-18"
@@ -10185,6 +10245,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "没用过这些 IDEA 插件？怪不得写代码头疼",
+        "link": "https://toutiao.io/k/qkynl0w",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "Go 语言 Web 编程：数据库应用方法",
+        "link": "https://toutiao.io/k/imuw86h",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "看腾讯如何玩转实时推荐：TencentRec",
+        "link": "https://toutiao.io/k/hhzqqtv",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "关于 Java 序列化的问题你真的会吗？",
+        "link": "https://toutiao.io/k/8zl0msd",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "拒绝 JS，这三个 CSS 技巧你一定用的上​",
+        "link": "https://toutiao.io/k/qn0pcq0",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "面向程序员的深度学习",
+        "link": "https://toutiao.io/k/zuf0b2w",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "这是一篇 “不一样” 的真实渗透测试案例分析文章",
+        "link": "https://toutiao.io/k/wsrn74r",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "爬虫管理平台 Crawlab 新功能介绍：用 Git 做 CI/CD",
+        "link": "https://toutiao.io/k/ywfciru",
+        "date": "2020-03-18"
+      },
       {
         "title": "[推荐] JVM 源码分析之 jstat 工具原理完全解读",
         "link": "https://toutiao.io/k/9534g5k",

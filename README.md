@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 08:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 09:30:14，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,7 @@
 </summary>
 
 
+- [2020-03-18-陈列平：病毒特效药问世之前，应当利用大自然的力量](http://china.caixin.com/2020-03-18/101529932.html) ![](assets/new.png)  
 - [2020-03-17-解药|康希诺再度联手军事科学院-新冠疫苗启动受试者招募](http://china.caixin.com/2020-03-17/101529585.html)  
 - [2020-03-17-对话|意大利前高官谈疫情：政府应对太慢，医护人员是英雄](http://international.caixin.com/2020-03-17/101529759.html)  
 - [2020-03-17-特稿|学者说健康人戴口罩难防新冠，理由引争议](http://china.caixin.com/2020-03-17/101529400.html)  
@@ -82,7 +83,6 @@
 - [2020-03-17-意大利逾2300医护被感染-俄法关闭边界格陵兰现首例](http://international.caixin.com/2020-03-17/101529773.html)  
 - [2020-03-17-洛杉矶监狱为防疫释放600多人-加拿大关闭国境](http://international.caixin.com/2020-03-17/101529490.html)  
 - [2020-03-17-马来西亚禁止公民离境倒查集会感染者-菲律宾关停交易所](http://international.caixin.com/2020-03-17/101529830.html)  
-- [2020-03-17-记者手记|夹缝中的美国留学生：反向逃疫还是留守异乡？](http://international.caixin.com/2020-03-17/101529720.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,11 +94,18 @@
 </summary>
 
 
-- [2020-03-18-NBA球星杜兰特确诊新冠肺炎](http://m.weibo.cn/3057540037/4483721631824071) ![](assets/new.png)  
-- [2020-03-18-意大利累计确诊病例超3万例](http://m.weibo.cn/2656274875/4483720972999992) ![](assets/new.png)  
-- [2020-03-18-法国新增1097例新冠肺炎，累计确诊7730例](http://m.weibo.cn/2803301701/4483719174235314) ![](assets/new.png)  
-- [2020-03-18-德国累计确诊升至9257例，柏林将建专收新冠患者医院](http://m.weibo.cn/2803301701/4483717000603088) ![](assets/new.png)  
-- [2020-03-18-全球累计确诊新冠肺炎超18万例](http://m.weibo.cn/3057540037/4483716598063432) ![](assets/new.png)  
+- [2020-03-18-黑龙江省最新疫情通报](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8153/navid/42/stypeid/) ![](assets/new.png)  
+- [2020-03-18-广西新型冠状病毒肺炎疫情情况](http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0318/70253.html) ![](assets/new.png)  
+- [2020-03-18-美国累计确诊新冠肺炎6420例](http://m.weibo.cn/2656274875/4483735737291439) ![](assets/new.png)  
+- [2020-03-18-上海新增3例境外输入病例](http://m.weibo.cn/2803301701/4483734864546676) ![](assets/new.png)  
+- [2020-03-18-辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200318_3775233.html) ![](assets/new.png)  
+- [2020-03-18-美国新增1646例新冠肺炎](http://m.weibo.cn/2803301701/4483729831913364) ![](assets/new.png)  
+- [2020-03-18-重庆市新冠肺炎疫情情况](http://wsjkw.cq.gov.cn/yqxxyqtb/20200318/260275.html) ![](assets/new.png)  
+- [2020-03-18-NBA球星杜兰特确诊新冠肺炎](http://m.weibo.cn/3057540037/4483721631824071)  
+- [2020-03-18-意大利累计确诊病例超3万例](http://m.weibo.cn/2656274875/4483720972999992)  
+- [2020-03-18-法国新增1097例新冠肺炎，累计确诊7730例](http://m.weibo.cn/2803301701/4483719174235314)  
+- [2020-03-18-德国累计确诊升至9257例，柏林将建专收新冠患者医院](http://m.weibo.cn/2803301701/4483717000603088)  
+- [2020-03-18-全球累计确诊新冠肺炎超18万例](http://m.weibo.cn/3057540037/4483716598063432)  
 - [2020-03-17-武汉金银潭医院1775名新冠患者研究：#研究显示O型血相对不易感](http://m.weibo.cn/3057540037/4483605872631746)  
 - [2020-03-17-伊朗累计确诊16169例新冠肺炎](http://m.weibo.cn/2803301701/4483539213193409)  
 - [2020-03-17-西班牙新增1987例，新冠肺炎确诊病例累计11178例](http://m.weibo.cn/3057540037/4483538281688867)  
@@ -855,7 +862,11 @@
 </summary>
 
 
-- [2020-03-18-github-的-app-可以正式下载了](https://www.v2ex.com/t/653736) ![](assets/new.png)  
+- [2020-03-18-Xs-Max-换电池是去直营店还是第三方更换还是自己来？](https://www.v2ex.com/t/653742) ![](assets/new.png)  
+- [2020-03-18-实际项目中，大家还做-csrf-的防御吗？](https://www.v2ex.com/t/653741) ![](assets/new.png)  
+- [2020-03-18-Github-官方-app-终于上架了](https://www.v2ex.com/t/653739) ![](assets/new.png)  
+- [2020-03-18-求教：学英语的方法](https://www.v2ex.com/t/653737) ![](assets/new.png)  
+- [2020-03-18-github-的-app-可以正式下载了](https://www.v2ex.com/t/653736)  
 - [2020-03-18-现在的网民，看到新闻之后都不会思考吗？](https://www.v2ex.com/t/653735)  
 - [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731)  
 - [2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730)  
@@ -871,10 +882,6 @@
 - [2020-03-18-打造国内最纯净的写作软件-独旅写作](https://www.v2ex.com/t/653720)  
 - [2020-03-18-关于苹果开发者付款延迟？](https://www.v2ex.com/t/653719)  
 - [2020-03-18-屏幕问题](https://www.v2ex.com/t/653718)  
-- [2020-03-17-求推荐：-MATE-20PRO-的贴膜](https://www.v2ex.com/t/653717)  
-- [2020-03-17-不懂就问，为啥最近的纯债基金也跌?](https://www.v2ex.com/t/653716)  
-- [2020-03-17-百度拼音输入法有时候在-office-里面没办法输入中文，必须把-office-的软件全部关闭掉，再打开才可以~啥问题](https://www.v2ex.com/t/653715)  
-- [2020-03-17-关于谷歌-admob,我不太明白一件事情，我首页-admob-显示上个月是-1160，-但是结算账单-上面显示的是-1155.27，这是扣了什么税了吗？](https://www.v2ex.com/t/653714)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -917,6 +924,14 @@
 </summary>
 
 
+- [2020-03-18-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w) ![](assets/new.png)  
+- [2020-03-18-Go-语言-Web-编程：数据库应用方法](https://toutiao.io/k/imuw86h) ![](assets/new.png)  
+- [2020-03-18-看腾讯如何玩转实时推荐：TencentRec](https://toutiao.io/k/hhzqqtv) ![](assets/new.png)  
+- [2020-03-18-关于-Java-序列化的问题你真的会吗？](https://toutiao.io/k/8zl0msd) ![](assets/new.png)  
+- [2020-03-18-拒绝-JS，这三个-CSS-技巧你一定用的上​](https://toutiao.io/k/qn0pcq0) ![](assets/new.png)  
+- [2020-03-18-面向程序员的深度学习](https://toutiao.io/k/zuf0b2w) ![](assets/new.png)  
+- [2020-03-18-这是一篇-“不一样”-的真实渗透测试案例分析文章](https://toutiao.io/k/wsrn74r) ![](assets/new.png)  
+- [2020-03-18-爬虫管理平台-Crawlab-新功能介绍：用-Git-做-CI/CD](https://toutiao.io/k/ywfciru) ![](assets/new.png)  
 - [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k)  
 - [2020-03-18-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv)  
 - [2020-03-18-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
@@ -929,14 +944,6 @@
 - [2020-03-17-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp)  
 - [2020-03-17-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o)  
 - [2020-03-17-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik)  
-- [2020-03-17-推荐-MIT-6.824-分布式系统课程第一课：介绍笔记](https://toutiao.io/k/huo7gu5)  
-- [2020-03-17-推荐-聊聊-ab、wrk、JMeter、Locust-这些压测工具的并发模型差别](https://toutiao.io/k/sogmzan)  
-- [2020-03-17-推荐-如何设计一个高可用、高并发秒杀系统](https://toutiao.io/k/fljrk2w)  
-- [2020-03-17-推荐-17-个场景，带你入门-CSS-布局](https://toutiao.io/k/uiq7r5p)  
-- [2020-03-17-推荐-9-种分布式-ID-生成之美团-Leaf-实战](https://toutiao.io/k/7y34aej)  
-- [2020-03-17-推荐-Go-为什么这么-“快”](https://toutiao.io/k/0k0wec5)  
-- [2020-03-17-推荐-10-款-VS-Code-插件神器，第-7-款超级实用](https://toutiao.io/k/ibodub2)  
-- [2020-03-17-推荐-JVM-笔记：G1-收集器概述](https://toutiao.io/k/cfj5vl8)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

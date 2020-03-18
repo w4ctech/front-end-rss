@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 07:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 08:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -18,6 +18,7 @@
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-03-18-github-的-app-可以正式下载了](https://www.v2ex.com/t/653736) 
 - [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731) 
 - [2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730) 
 - [2020-03-17-github-上-fork-了别人的项目然后重构了之后](https://www.v2ex.com/t/653706) 

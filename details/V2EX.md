@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-03-18 07:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 08:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-03-18-github-的-app-可以正式下载了](https://www.v2ex.com/t/653736) 
 - [2020-03-18-现在的网民，看到新闻之后都不会思考吗？](https://www.v2ex.com/t/653735) 
 - [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731) 
 - [2020-03-18-GitHub-官方-App-已正式在-App-Store-和-Google-Play-上架](https://www.v2ex.com/t/653730) 

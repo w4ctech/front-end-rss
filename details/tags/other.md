@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-03-18 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-18-英研究者评估“群体免疫”打法-最高或致25万人死亡](http://international.caixin.com/2020-03-18/101530119.html) 
+- [2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加（更新中）](http://china.caixin.com/2020-03-18/101530114.html) 
 - [2020-03-18-美国单日新增逾1700例-加州约800万人开始“居家庇护”](http://international.caixin.com/2020-03-18/101530034.html) 
 - [2020-03-18-湖北再调风险等级：高风险仍剩武汉城区-中风险市县降至4个](http://china.caixin.com/2020-03-18/101530051.html) 
 - [2020-03-18-北京境外输入病例继续增加-筛查分流添隐患](http://china.caixin.com/2020-03-18/101530001.html) 
@@ -1019,6 +1021,7 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://photos.caixin.com/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://china.caixin.com/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|武汉新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
+- [2020-03-18-黄冈清零](http://m.weibo.cn/2803301701/4483792977197205) 
 - [2020-03-18-四川新增1例境外输入病例](http://m.weibo.cn/2803301701/4483763142256345) 
 - [2020-03-18-韩国大邱一疗养医院60多人确诊](http://m.weibo.cn/3057540037/4483751625325127) 
 - [2020-03-18-北京新增2例境外输入病例](http://m.weibo.cn/2656274875/4483749976309809) 
@@ -1205,6 +1208,17 @@
 - [2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
 - [2020-03-15-知乎神吐槽-|-如何才能找到优质的帝都土著男？](https://www.ershicimi.com/p/e56c2a31ba4ff4101939e65867601e78) 
 - [2020-03-15-如果你没时间读书，就来看看这-9-个公众号](https://www.ershicimi.com/p/4e022c983f99f8681ab288dc4338b25b) 
+- [2020-03-18-突然发现技术下降必然导致“人品”下降。](https://www.v2ex.com/t/653830) 
+- [2020-03-18-Redmine-怎么样？和禅道比，还没有有其他更好用的项目管理？](https://www.v2ex.com/t/653828) 
+- [2020-03-18-新手搭博客问个问题，-CDN-的海外流量异常多](https://www.v2ex.com/t/653824) 
+- [2020-03-18-来说说你们遇到过最奇葩的需求，一起分享下！](https://www.v2ex.com/t/653823) 
+- [2020-03-18-育碧大作《刺客信条：奥德赛》3-月-19-日~24-日全平台免费玩](https://www.v2ex.com/t/653821) 
+- [2020-03-18-请问-EMUI-10-上有什么好的应用保活思路吗？](https://www.v2ex.com/t/653820) 
+- [2020-03-18-北京往巴黎寄口罩怎么操作？-EMS-和顺丰都不接电话](https://www.v2ex.com/t/653819) 
+- [2020-03-18-R7-4800H-的华硕天选笔记本值得入吗？用来工作敲代码，有没有大佬能点评下这只机](https://www.v2ex.com/t/653818) 
+- [2020-03-18-有公司使用-project-吗？有没有替代品。](https://www.v2ex.com/t/653817) 
+- [2020-03-18-华硕天选-4800H-这个香吗？](https://www.v2ex.com/t/653814) 
+- [2020-03-18-运维薪水高吗？](https://www.v2ex.com/t/653810) 
 - [2020-03-18-为什么滴滴打车没有优惠券也显示有优惠券抵扣？](https://www.v2ex.com/t/653807) 
 - [2020-03-18-想入个-86-键的机械键盘](https://www.v2ex.com/t/653806) 
 - [2020-03-18-IOS-异常设置-Wi-Fi-is-Turned-off-for-"XX"](https://www.v2ex.com/t/653802) 
@@ -1277,6 +1291,7 @@
 - [2020-03-18-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-18-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-18-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-18-推荐-10-款-VS-Code-插件神器，第-7-款超级实用](https://toutiao.io/k/ibodub2) 
 - [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo) 
 - [2020-03-18-Service-Mesh-最火项目-Istio-是怎么做流量管理的？](https://toutiao.io/k/4r5b7qy) 
 - [2020-03-18-分库分表后的索引问题](https://toutiao.io/k/ival70y) 

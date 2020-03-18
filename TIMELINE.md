@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-18 13:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-18-英研究者评估“群体免疫”打法-最高或致25万人死亡](http://international.caixin.com/2020-03-18/101530119.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加（更新中）](http://china.caixin.com/2020-03-18/101530114.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-18-【视频】中国疾控中心专家：-输入性病例不会造成大流行](http://video.caixin.com/2020-03-18/101530134.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-18-美国单日新增逾1700例-加州约800万人开始“居家庇护”](http://international.caixin.com/2020-03-18/101530034.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-18-湖北再调风险等级：高风险仍剩武汉城区-中风险市县降至4个](http://china.caixin.com/2020-03-18/101530051.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-18-北京境外输入病例继续增加-筛查分流添隐患](http://china.caixin.com/2020-03-18/101530001.html) 
@@ -459,6 +462,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-韩国公民来华躲疫情？国家移民管理局：未发现大量涌入](http://china.caixin.com/2020-03-01/101522448.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-云南红河男子刺死两名防疫人员-一审获死刑](http://china.caixin.com/2020-03-01/101522438.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-80名中国公民在莫斯科遭指定地点隔离-中国使馆高度关注](http://international.caixin.com/2020-03-01/101522378.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-18-黄冈清零](http://m.weibo.cn/2803301701/4483792977197205) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-18-四川新增1例境外输入病例](http://m.weibo.cn/2803301701/4483763142256345) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-18-湖北省新冠肺炎疫情情况](http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/202003/t20200318_2184233.shtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-18-全国31省区市新增确诊病例13例，武汉新增1例新冠肺炎](http://m.weibo.cn/2656274875/4483754405993736) 
@@ -640,6 +644,7 @@
 - [【InfoQ】2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee) 
 - [【InfoQ】2020-03-16-比特币崩盘后：别人恐惧我贪婪？](https://www.ershicimi.com/p/599e535db1f6142027051dfb30a6c8fc) 
 - [【InfoQ】2020-03-15-让比尔·盖茨放心退出董事会的纳德拉，是如何与两位前任-CEO“对抗”的？](https://www.ershicimi.com/p/d8e24a74ce9c29bcb15337d2b0a4d007) 
+- [【JavaScript】2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) 
 - [【JavaScript】2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57) 
 - [【JavaScript】2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd) 
 - [【JavaScript】2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) 
@@ -695,6 +700,22 @@
 - [【知乎日报】2020-03-15-本周知乎热榜-|-苹果要求微信适配夜间模式，否则下架？](https://www.ershicimi.com/p/6f305f4d876e45fa17c099822491c257) 
 - [【知乎日报】2020-03-15-知乎神吐槽-|-如何才能找到优质的帝都土著男？](https://www.ershicimi.com/p/e56c2a31ba4ff4101939e65867601e78) 
 - [【知乎日报】2020-03-15-如果你没时间读书，就来看看这-9-个公众号](https://www.ershicimi.com/p/4e022c983f99f8681ab288dc4338b25b) 
+- [【V2EX】2020-03-18-突然发现技术下降必然导致“人品”下降。](https://www.v2ex.com/t/653830) 
+- [【V2EX】2020-03-18-Redmine-怎么样？和禅道比，还没有有其他更好用的项目管理？](https://www.v2ex.com/t/653828) 
+- [【V2EX】2020-03-18-从阿里云移动开发平台-mpaas-产品看阿里云的收费套路](https://www.v2ex.com/t/653827) 
+- [【V2EX】2020-03-18-HR/面试官还能犯更严重的错么？](https://www.v2ex.com/t/653825) 
+- [【V2EX】2020-03-18-新手搭博客问个问题，-CDN-的海外流量异常多](https://www.v2ex.com/t/653824) 
+- [【V2EX】2020-03-18-来说说你们遇到过最奇葩的需求，一起分享下！](https://www.v2ex.com/t/653823) 
+- [【V2EX】2020-03-18-WebStorm-开发微信小程序如何在-wxml-文件中开启标签折叠/展开功能？](https://www.v2ex.com/t/653822) 
+- [【V2EX】2020-03-18-育碧大作《刺客信条：奥德赛》3-月-19-日~24-日全平台免费玩](https://www.v2ex.com/t/653821) 
+- [【V2EX】2020-03-18-请问-EMUI-10-上有什么好的应用保活思路吗？](https://www.v2ex.com/t/653820) 
+- [【V2EX】2020-03-18-北京往巴黎寄口罩怎么操作？-EMS-和顺丰都不接电话](https://www.v2ex.com/t/653819) 
+- [【V2EX】2020-03-18-R7-4800H-的华硕天选笔记本值得入吗？用来工作敲代码，有没有大佬能点评下这只机](https://www.v2ex.com/t/653818) 
+- [【V2EX】2020-03-18-有公司使用-project-吗？有没有替代品。](https://www.v2ex.com/t/653817) 
+- [【V2EX】2020-03-18-华硕天选-4800H-这个香吗？](https://www.v2ex.com/t/653814) 
+- [【V2EX】2020-03-18-git-clone-时如何提高-git-协议的传输速度](https://www.v2ex.com/t/653813) 
+- [【V2EX】2020-03-18-吐槽下新版-chromev80-安全策略](https://www.v2ex.com/t/653812) 
+- [【V2EX】2020-03-18-运维薪水高吗？](https://www.v2ex.com/t/653810) 
 - [【V2EX】2020-03-18-为什么滴滴打车没有优惠券也显示有优惠券抵扣？](https://www.v2ex.com/t/653807) 
 - [【V2EX】2020-03-18-想入个-86-键的机械键盘](https://www.v2ex.com/t/653806) 
 - [【V2EX】2020-03-18-django-的-view-如何携带通用数据？](https://www.v2ex.com/t/653805) 
@@ -793,6 +814,7 @@
 - [【技术头条】2020-03-18-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-18-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-18-换工作，关于面试的总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13276&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOAcnjgHilSF438QTzz17Uw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-18-推荐-10-款-VS-Code-插件神器，第-7-款超级实用](https://toutiao.io/k/ibodub2) 
 - [【开发者头条】2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo) 
 - [【开发者头条】2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) 
 - [【开发者头条】2020-03-18-Service-Mesh-最火项目-Istio-是怎么做流量管理的？](https://toutiao.io/k/4r5b7qy) 

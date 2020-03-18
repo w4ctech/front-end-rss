@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 13:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 13:30:20，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -45,15 +45,15 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,9 @@
 </summary>
 
 
+- [2020-03-18-英研究者评估“群体免疫”打法-最高或致25万人死亡](http://international.caixin.com/2020-03-18/101530119.html) ![](assets/new.png)  
+- [2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加（更新中）](http://china.caixin.com/2020-03-18/101530114.html) ![](assets/new.png)  
+- [2020-03-18-【视频】中国疾控中心专家：-输入性病例不会造成大流行](http://video.caixin.com/2020-03-18/101530134.html) ![](assets/new.png)  
 - [2020-03-18-美国单日新增逾1700例-加州约800万人开始“居家庇护”](http://international.caixin.com/2020-03-18/101530034.html)  
 - [2020-03-18-湖北再调风险等级：高风险仍剩武汉城区-中风险市县降至4个](http://china.caixin.com/2020-03-18/101530051.html)  
 - [2020-03-18-北京境外输入病例继续增加-筛查分流添隐患](http://china.caixin.com/2020-03-18/101530001.html)  
@@ -80,9 +83,6 @@
 - [2020-03-17-澳门限非中国居民入境-香港令海外抵港均需接受隔离](http://china.caixin.com/2020-03-17/101529664.html)  
 - [2020-03-17-上海防新冠境外输入再加码-新增八国入境人士要隔离](http://companies.caixin.com/2020-03-17/101529556.html)  
 - [2020-03-17-又见小汤山：北京停用17年的SARS定点医院重启](http://www.caixin.com/2020-03-17/101529391.html)  
-- [2020-03-17-儿童真的不易感染新冠吗？研究显示风险在意料之外](http://china.caixin.com/2020-03-17/101529663.html)  
-- [2020-03-17-聚焦|海外疫情升级，要不要回国？张文宏说要考虑两个问题](http://opinion.caixin.com/2020-03-17/101529591.html)  
-- [2020-03-17-新冠疫苗研发进展：已有单位开展临床试验方案论证-招募志愿者](http://china.caixin.com/2020-03-17/101529794.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-03-18-黄冈清零](http://m.weibo.cn/2803301701/4483792977197205) ![](assets/new.png)  
 - [2020-03-18-四川新增1例境外输入病例](http://m.weibo.cn/2803301701/4483763142256345)  
 - [2020-03-18-湖北省新冠肺炎疫情情况](http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/202003/t20200318_2184233.shtml)  
 - [2020-03-18-全国31省区市新增确诊病例13例，武汉新增1例新冠肺炎](http://m.weibo.cn/2656274875/4483754405993736)  
@@ -203,8 +204,8 @@
 </summary>
 
 
-- [2020-03-18-所以，V8-引擎到底是如何工作的？](https://www.ershicimi.com/p/184f3d2bd09bd3169e26fa6c99999dd1) ![](assets/new.png)  
-- [2020-03-18-【第1888期】「异」曲同工-——-Generator](https://www.ershicimi.com/p/387b436eeffd45a62acd2ea0c3449260) ![](assets/new.png)  
+- [2020-03-18-所以，V8-引擎到底是如何工作的？](https://www.ershicimi.com/p/184f3d2bd09bd3169e26fa6c99999dd1)  
+- [2020-03-18-【第1888期】「异」曲同工-——-Generator](https://www.ershicimi.com/p/387b436eeffd45a62acd2ea0c3449260)  
 - [2020-03-17-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/b33794fb72d8613c9181ac5bfabdae2e)  
 - [2020-03-17-【第1887期】Async-Generators-作为状态管理的替代方案](https://www.ershicimi.com/p/01fee5d0efe3728486562d4f46d2445e)  
 - [2020-03-16-【第1886期】Ant-Design暗黑模式设计解析](https://www.ershicimi.com/p/9cb8c7c57fc8cc336744e582506a404b)  
@@ -713,6 +714,7 @@
 </summary>
 
 
+- [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) ![](assets/new.png)  
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57)  
 - [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd)  
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271)  
@@ -863,26 +865,26 @@
 </summary>
 
 
+- [2020-03-18-突然发现技术下降必然导致“人品”下降。](https://www.v2ex.com/t/653830) ![](assets/new.png)  
+- [2020-03-18-Redmine-怎么样？和禅道比，还没有有其他更好用的项目管理？](https://www.v2ex.com/t/653828) ![](assets/new.png)  
+- [2020-03-18-从阿里云移动开发平台-mpaas-产品看阿里云的收费套路](https://www.v2ex.com/t/653827) ![](assets/new.png)  
+- [2020-03-18-HR/面试官还能犯更严重的错么？](https://www.v2ex.com/t/653825) ![](assets/new.png)  
+- [2020-03-18-新手搭博客问个问题，-CDN-的海外流量异常多](https://www.v2ex.com/t/653824) ![](assets/new.png)  
+- [2020-03-18-来说说你们遇到过最奇葩的需求，一起分享下！](https://www.v2ex.com/t/653823) ![](assets/new.png)  
+- [2020-03-18-WebStorm-开发微信小程序如何在-wxml-文件中开启标签折叠/展开功能？](https://www.v2ex.com/t/653822) ![](assets/new.png)  
+- [2020-03-18-育碧大作《刺客信条：奥德赛》3-月-19-日~24-日全平台免费玩](https://www.v2ex.com/t/653821) ![](assets/new.png)  
+- [2020-03-18-请问-EMUI-10-上有什么好的应用保活思路吗？](https://www.v2ex.com/t/653820) ![](assets/new.png)  
+- [2020-03-18-北京往巴黎寄口罩怎么操作？-EMS-和顺丰都不接电话](https://www.v2ex.com/t/653819) ![](assets/new.png)  
+- [2020-03-18-R7-4800H-的华硕天选笔记本值得入吗？用来工作敲代码，有没有大佬能点评下这只机](https://www.v2ex.com/t/653818) ![](assets/new.png)  
+- [2020-03-18-有公司使用-project-吗？有没有替代品。](https://www.v2ex.com/t/653817) ![](assets/new.png)  
+- [2020-03-18-华硕天选-4800H-这个香吗？](https://www.v2ex.com/t/653814) ![](assets/new.png)  
+- [2020-03-18-git-clone-时如何提高-git-协议的传输速度](https://www.v2ex.com/t/653813) ![](assets/new.png)  
+- [2020-03-18-吐槽下新版-chromev80-安全策略](https://www.v2ex.com/t/653812) ![](assets/new.png)  
+- [2020-03-18-运维薪水高吗？](https://www.v2ex.com/t/653810) ![](assets/new.png)  
 - [2020-03-18-为什么滴滴打车没有优惠券也显示有优惠券抵扣？](https://www.v2ex.com/t/653807)  
 - [2020-03-18-想入个-86-键的机械键盘](https://www.v2ex.com/t/653806)  
 - [2020-03-18-django-的-view-如何携带通用数据？](https://www.v2ex.com/t/653805)  
 - [2020-03-18-内有小抽奖-邀请您参加免费网络安全讲座直播|《威胁情报安全预警》](https://www.v2ex.com/t/653803)  
-- [2020-03-18-IOS-异常设置-Wi-Fi-is-Turned-off-for-"XX"](https://www.v2ex.com/t/653802)  
-- [2020-03-18-请教一个-ElasticSearch-检索的问题](https://www.v2ex.com/t/653801)  
-- [2020-03-18-iPad-使用键盘进行中文输入的相关-bug-整理](https://www.v2ex.com/t/653799)  
-- [2020-03-18-北京-Python-下厨房招聘后端工程师以及-2021-届实习生](https://www.v2ex.com/t/653798)  
-- [2020-03-18-2020-年了还觉得-Java-的开发效率低吗？](https://www.v2ex.com/t/653797)  
-- [2020-03-18-Flutter-Weekly-Issue-47](https://www.v2ex.com/t/653796)  
-- [2020-03-18-求助-装机-为了做实验](https://www.v2ex.com/t/653795)  
-- [2020-03-18-ORIGIN-ZERO-EP2](https://www.v2ex.com/t/653794)  
-- [2020-03-18-想问下到底要不要去转换房贷合同为-lpr，大家给点意见，目前是-4.9-利率，-95-折还有-6-年还完](https://www.v2ex.com/t/653793)  
-- [2020-03-18-最近访问-V2EX-频繁-403-被-deny](https://www.v2ex.com/t/653792)  
-- [2020-03-18-大佬们，上海地区，二月份工资咋发？](https://www.v2ex.com/t/653791)  
-- [2020-03-18-阿里巴巴-CRO-技术部测试开发岗位校招开始啦～](https://www.v2ex.com/t/653789)  
-- [2020-03-18-有没有年前辞职准备年后重新换工作的，现在怎么样了呢？](https://www.v2ex.com/t/653788)  
-- [2020-03-18-类似微博、朋友圈这样的帖子类数据库怎么设计？](https://www.v2ex.com/t/653787)  
-- [2020-03-18-curl-将在版本-7.70-支持以-JSON-方式输出调试信息](https://www.v2ex.com/t/653786)  
-- [2020-03-18-社招-美国大数据公司-招聘后端研发/大数据工程师/架构师](https://www.v2ex.com/t/653785)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -925,6 +927,7 @@
 </summary>
 
 
+- [2020-03-18-推荐-10-款-VS-Code-插件神器，第-7-款超级实用](https://toutiao.io/k/ibodub2) ![](assets/new.png)  
 - [2020-03-18-推荐-吐血推荐珍藏的-IDEA-插件](https://toutiao.io/k/2d2rpxo)  
 - [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k)  
 - [2020-03-18-Service-Mesh-最火项目-Istio-是怎么做流量管理的？](https://toutiao.io/k/4r5b7qy)  
@@ -944,7 +947,6 @@
 - [2020-03-18-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w)  
 - [2020-03-18-Go-语言-Web-编程：数据库应用方法](https://toutiao.io/k/imuw86h)  
 - [2020-03-18-面向程序员的深度学习](https://toutiao.io/k/zuf0b2w)  
-- [2020-03-18-拒绝-JS，这三个-CSS-技巧你一定用的上​](https://toutiao.io/k/qn0pcq0)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

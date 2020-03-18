@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "美国单日新增逾1700例 加州约800万人开始“居家庇护”",
+        "link": "http://international.caixin.com/2020-03-18/101530034.html",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "湖北再调风险等级：高风险仍剩武汉城区 中风险市县降至4个",
+        "link": "http://china.caixin.com/2020-03-18/101530051.html",
+        "date": "2020-03-18"
+      },
+      {
         "title": "北京境外输入病例继续增加 筛查分流添隐患",
         "link": "http://china.caixin.com/2020-03-18/101530001.html",
         "date": "2020-03-18"
@@ -6532,6 +6542,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "四川新增1例境外输入病例",
+        "link": "http://m.weibo.cn/2803301701/4483763142256345",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "湖北省新冠肺炎疫情情况",
+        "link": "http://wjw.hubei.gov.cn/bmdt/ztzl/fkxxgzbdgrfyyq/xxfb/202003/t20200318_2184233.shtml",
+        "date": "2020-03-18"
+      },
+      {
         "title": "全国31省区市新增确诊病例13例，武汉新增1例新冠肺炎",
         "link": "http://m.weibo.cn/2656274875/4483754405993736",
         "date": "2020-03-18"
@@ -9137,6 +9157,26 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "JS 的类型转换",
+        "link": "https://juejin.im/post/5e7194d851882549281c0f9b",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "WebGL 纹理",
+        "link": "https://juejin.im/post/5e71930c6fb9a07c98550d83",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "JavaScript代码是怎么执行的？",
+        "link": "https://juejin.im/post/5e6f1e086fb9a07c8334f80a",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "预测最近面试会考 Cookie 的 SameSite 属性",
+        "link": "https://juejin.im/post/5e718ecc6fb9a07cda098c2d",
+        "date": "2020-03-18"
+      },
+      {
         "title": "小程序开发经验总结",
         "link": "https://juejin.im/post/5e71891c5188254967069840",
         "date": "2020-03-18"
@@ -9577,6 +9617,106 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么滴滴打车没有优惠券也显示有优惠券抵扣？",
+        "link": "https://www.v2ex.com/t/653807",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "想入个 86 键的机械键盘",
+        "link": "https://www.v2ex.com/t/653806",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "django 的 view 如何携带通用数据？",
+        "link": "https://www.v2ex.com/t/653805",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[内有小抽奖] 邀请您参加免费网络安全讲座直播|《威胁情报安全预警》",
+        "link": "https://www.v2ex.com/t/653803",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[IOS 异常设置] Wi-Fi is Turned off for \"XX\"",
+        "link": "https://www.v2ex.com/t/653802",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "请教一个 ElasticSearch 检索的问题",
+        "link": "https://www.v2ex.com/t/653801",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "iPad 使用键盘进行中文输入的相关 bug 整理",
+        "link": "https://www.v2ex.com/t/653799",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[北京][ Python ]下厨房招聘后端工程师以及 2021 届实习生",
+        "link": "https://www.v2ex.com/t/653798",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "2020 年了还觉得 Java 的开发效率低吗？",
+        "link": "https://www.v2ex.com/t/653797",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "Flutter Weekly Issue 47",
+        "link": "https://www.v2ex.com/t/653796",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[求助] [装机] 为了做实验",
+        "link": "https://www.v2ex.com/t/653795",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "ORIGIN ZERO EP2",
+        "link": "https://www.v2ex.com/t/653794",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "想问下到底要不要去转换房贷合同为 lpr，大家给点意见，目前是 4.9 利率， 95 折还有 6 年还完",
+        "link": "https://www.v2ex.com/t/653793",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "最近访问 V2EX 频繁 403 被 deny",
+        "link": "https://www.v2ex.com/t/653792",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "大佬们，上海地区，二月份工资咋发？",
+        "link": "https://www.v2ex.com/t/653791",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "阿里巴巴 CRO 技术部测试开发岗位校招开始啦～",
+        "link": "https://www.v2ex.com/t/653789",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "有没有年前辞职准备年后重新换工作的，现在怎么样了呢？",
+        "link": "https://www.v2ex.com/t/653788",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "类似微博、朋友圈这样的帖子类数据库怎么设计？",
+        "link": "https://www.v2ex.com/t/653787",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "curl 将在版本 7.70 支持以 JSON 方式输出调试信息",
+        "link": "https://www.v2ex.com/t/653786",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[社招] [美国大数据公司] 招聘后端研发/大数据工程师/架构师",
+        "link": "https://www.v2ex.com/t/653785",
+        "date": "2020-03-18"
+      },
+      {
         "title": "VS Code Remote 同步问题??",
         "link": "https://www.v2ex.com/t/653784",
         "date": "2020-03-18"
@@ -9980,6 +10120,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 吐血推荐珍藏的 IDEA 插件",
+        "link": "https://toutiao.io/k/2d2rpxo",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "[推荐] JVM 源码分析之 jstat 工具原理完全解读",
+        "link": "https://toutiao.io/k/9534g5k",
+        "date": "2020-03-18"
+      },
       {
         "title": "Service Mesh 最火项目 Istio 是怎么做流量管理的？",
         "link": "https://toutiao.io/k/4r5b7qy",

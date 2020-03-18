@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 12:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -82,6 +82,8 @@
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
+- [2020-03-18-JS-的类型转换](https://juejin.im/post/5e7194d851882549281c0f9b) 
+- [2020-03-18-JavaScript代码是怎么执行的？](https://juejin.im/post/5e6f1e086fb9a07c8334f80a) 
 - [2020-03-17-ES6中class的继承机制](https://juejin.im/post/5e70a06251882549331d0a95) 
 - [2020-03-17-JavaScript设计模式一-——-设计模式原则](https://juejin.im/post/5e709b9a51882549131080a1) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
@@ -104,5 +106,7 @@
 - [2020-03-18-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-03-15-本周知乎热榜-|-苹果要求微信适配夜间模式，否则下架？](https://www.ershicimi.com/p/6f305f4d876e45fa17c099822491c257) 
+- [2020-03-18-curl-将在版本-7.70-支持以-JSON-方式输出调试信息](https://www.v2ex.com/t/653786) 
 - [2020-03-18-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) 
 - [2020-03-18-拒绝-JS，这三个-CSS-技巧你一定用的上​](https://toutiao.io/k/qn0pcq0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-18 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -605,6 +605,7 @@
 - [【Nodejs技术栈】2020-03-05-面试官：你简历中写用过docker，能说说容器和镜像的区别吗？](https://www.ershicimi.com/p/3263760b958d1699ae14b584ecc6ec2d) 
 - [【Nodejs技术栈】2020-03-02-Node.js-如何利用-Libuv-实现事件循环和异步](https://www.ershicimi.com/p/054b2be4818170fa4fa41bb9da8c8b14) 
 - [【Nodejs技术栈】2020-03-01-面试常考手写代码学习技巧总结](https://www.ershicimi.com/p/4ba308a7ccbb8d80354182113127cc9b) 
+- [【张鑫旭-鑫空间-鑫生活】2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) 

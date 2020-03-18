@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 16:30:21，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-18-专访中疾控邵一鸣：零号病人意义何在-不赞同疾控行政化](http://china.caixin.com/2020-03-18/101530202.html) ![](assets/new.png)  
-- [2020-03-18-3月17日:156个国家和地区累计确诊新冠11.64万例-多国加大隔离管控力度](http://international.caixin.com/2020-03-18/101530257.html) ![](assets/new.png)  
+- [2020-03-18-专访中疾控邵一鸣：零号病人意义何在-不赞同疾控行政化](http://china.caixin.com/2020-03-18/101530202.html)  
+- [2020-03-18-3月17日:156个国家和地区累计确诊新冠11.64万例-多国加大隔离管控力度](http://international.caixin.com/2020-03-18/101530257.html)  
 - [2020-03-18-英研究者评估“群体免疫”打法-最高或致25万人死亡](http://international.caixin.com/2020-03-18/101530119.html)  
 - [2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加（更新中）](http://china.caixin.com/2020-03-18/101530114.html)  
 - [2020-03-18-【视频】中国疾控中心专家：-输入性病例不会造成大流行](http://video.caixin.com/2020-03-18/101530134.html)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-03-18-台湾新冠肺炎确诊病例破百](http://m.weibo.cn/3057540037/4483843380016996) ![](assets/new.png)  
-- [2020-03-18-比利时全国封城](http://m.weibo.cn/2803301701/4483820776172656) ![](assets/new.png)  
+- [2020-03-18-台湾新冠肺炎确诊病例破百](http://m.weibo.cn/3057540037/4483843380016996)  
+- [2020-03-18-比利时全国封城](http://m.weibo.cn/2803301701/4483820776172656)  
 - [2020-03-18-北京新增境外输入病例11例](http://m.weibo.cn/2656274875/4483814224953379)  
 - [2020-03-18-黄冈清零](http://m.weibo.cn/2803301701/4483792977197205)  
 - [2020-03-18-四川新增1例境外输入病例](http://m.weibo.cn/2803301701/4483763142256345)  
@@ -526,6 +526,7 @@
 </summary>
 
 
+- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) ![](assets/new.png)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)  
@@ -740,7 +741,7 @@
 </summary>
 
 
-- [2020-03-18-【朝花夕拾】手写-Promise-你也可以](https://juejin.im/post/5c979af86fb9a070c5511aea) ![](assets/new.png)  
+- [2020-03-18-【朝花夕拾】手写-Promise-你也可以](https://juejin.im/post/5c979af86fb9a070c5511aea)  
 - [2020-03-18-参考这套代码，辩论赛也能搬到线上](https://juejin.im/post/5e71bd65518825494905e4df)  
 - [2020-03-18-图文并茂捋清JS-OOP](https://juejin.im/post/5e71c023f265da5735506ff3)  
 - [2020-03-18-Canvas实现图片标记、缩放、移动和保存历史状态，纯干货（附转换公式）](https://juejin.im/post/5e717376e51d4526dd1ec2e6)  
@@ -875,26 +876,26 @@
 </summary>
 
 
-- [2020-03-18-请问各位大佬们，在-MacOS-中有没有比较好的-Redis-图形化客户端工具？](https://www.v2ex.com/t/653906) ![](assets/new.png)  
-- [2020-03-18-有什么轻度奇幻的剧集推荐一下？](https://www.v2ex.com/t/653905) ![](assets/new.png)  
-- [2020-03-18-腾讯西安研发分公司热招](https://www.v2ex.com/t/653904) ![](assets/new.png)  
-- [2020-03-18-面向核心业务的全闪分布式存储架构设计](https://www.v2ex.com/t/653903) ![](assets/new.png)  
-- [2020-03-18-求问-manjaro-official-和-community-区别是什么啊？特别是安全性有区别吗？](https://www.v2ex.com/t/653902) ![](assets/new.png)  
-- [2020-03-18-大家怎么看云游戏-直播进行中](https://www.v2ex.com/t/653900) ![](assets/new.png)  
-- [2020-03-18-请问这中-web-app-中节点连接的效果是怎么实现的？](https://www.v2ex.com/t/653898) ![](assets/new.png)  
-- [2020-03-18-你们的亲戚朋友之中有没有开始领养老保险的?](https://www.v2ex.com/t/653897) ![](assets/new.png)  
-- [2020-03-18-问个问题，关于-cloudflare-的-Under-Attack-模式](https://www.v2ex.com/t/653896) ![](assets/new.png)  
-- [2020-03-18-为什么-13-寸-MacBook-Pro-截屏出来的分辨率是-2880x1800](https://www.v2ex.com/t/653895) ![](assets/new.png)  
-- [2020-03-18-求推荐一款散热器，今天的砖很烫手！](https://www.v2ex.com/t/653894) ![](assets/new.png)  
-- [2020-03-18-有哪些食品是火锅黑洞？](https://www.v2ex.com/t/653893) ![](assets/new.png)  
-- [2020-03-18-你们-2-月工资怎么算？](https://www.v2ex.com/t/653892) ![](assets/new.png)  
-- [2020-03-18-发现-macOS-好像自带有分词的特性](https://www.v2ex.com/t/653891) ![](assets/new.png)  
-- [2020-03-18-请问这样的-web-app-是怎么实现的？](https://www.v2ex.com/t/653890) ![](assets/new.png)  
-- [2020-03-18-从哪里可以借到-100-万，周转买房。周转完成后，在用借呗花呗信用卡套现还款。](https://www.v2ex.com/t/653889) ![](assets/new.png)  
-- [2020-03-18-IDEA-最新版（2019.3.3）自动补全返回值-的快捷键变了？](https://www.v2ex.com/t/653888) ![](assets/new.png)  
-- [2020-03-18-在-Mac-下用自动操作生成的合并-PDF-程序来将图片合并-PDF-时，合并-png-格式的图片得到-PDF-体积为什么会增长-1-倍？](https://www.v2ex.com/t/653887) ![](assets/new.png)  
-- [2020-03-18-公司想建一个内部网络的云服务器，虚拟出若干台-kvm-机器，具体应该如何操作？](https://www.v2ex.com/t/653886) ![](assets/new.png)  
-- [2020-03-18-深圳-上市公司-全年-15-薪-招聘-Java-开发、前端开发、软件测试、UE-设计师、产品经理、大数据开发、爬虫工程师、NLP-工程师、数据分析师](https://www.v2ex.com/t/653885) ![](assets/new.png)  
+- [2020-03-18-请问各位大佬们，在-MacOS-中有没有比较好的-Redis-图形化客户端工具？](https://www.v2ex.com/t/653906)  
+- [2020-03-18-有什么轻度奇幻的剧集推荐一下？](https://www.v2ex.com/t/653905)  
+- [2020-03-18-腾讯西安研发分公司热招](https://www.v2ex.com/t/653904)  
+- [2020-03-18-面向核心业务的全闪分布式存储架构设计](https://www.v2ex.com/t/653903)  
+- [2020-03-18-求问-manjaro-official-和-community-区别是什么啊？特别是安全性有区别吗？](https://www.v2ex.com/t/653902)  
+- [2020-03-18-大家怎么看云游戏-直播进行中](https://www.v2ex.com/t/653900)  
+- [2020-03-18-请问这中-web-app-中节点连接的效果是怎么实现的？](https://www.v2ex.com/t/653898)  
+- [2020-03-18-你们的亲戚朋友之中有没有开始领养老保险的?](https://www.v2ex.com/t/653897)  
+- [2020-03-18-问个问题，关于-cloudflare-的-Under-Attack-模式](https://www.v2ex.com/t/653896)  
+- [2020-03-18-为什么-13-寸-MacBook-Pro-截屏出来的分辨率是-2880x1800](https://www.v2ex.com/t/653895)  
+- [2020-03-18-求推荐一款散热器，今天的砖很烫手！](https://www.v2ex.com/t/653894)  
+- [2020-03-18-有哪些食品是火锅黑洞？](https://www.v2ex.com/t/653893)  
+- [2020-03-18-你们-2-月工资怎么算？](https://www.v2ex.com/t/653892)  
+- [2020-03-18-发现-macOS-好像自带有分词的特性](https://www.v2ex.com/t/653891)  
+- [2020-03-18-请问这样的-web-app-是怎么实现的？](https://www.v2ex.com/t/653890)  
+- [2020-03-18-从哪里可以借到-100-万，周转买房。周转完成后，在用借呗花呗信用卡套现还款。](https://www.v2ex.com/t/653889)  
+- [2020-03-18-IDEA-最新版（2019.3.3）自动补全返回值-的快捷键变了？](https://www.v2ex.com/t/653888)  
+- [2020-03-18-在-Mac-下用自动操作生成的合并-PDF-程序来将图片合并-PDF-时，合并-png-格式的图片得到-PDF-体积为什么会增长-1-倍？](https://www.v2ex.com/t/653887)  
+- [2020-03-18-公司想建一个内部网络的云服务器，虚拟出若干台-kvm-机器，具体应该如何操作？](https://www.v2ex.com/t/653886)  
+- [2020-03-18-深圳-上市公司-全年-15-薪-招聘-Java-开发、前端开发、软件测试、UE-设计师、产品经理、大数据开发、爬虫工程师、NLP-工程师、数据分析师](https://www.v2ex.com/t/653885)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

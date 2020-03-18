@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 16:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,5 +21,6 @@
 - [2020-03-18-Canvas实现图片标记、缩放、移动和保存历史状态，纯干货（附转换公式）](https://juejin.im/post/5e717376e51d4526dd1ec2e6) 
 - [2020-03-18-WebGL-纹理](https://juejin.im/post/5e71930c6fb9a07c98550d83) 
 - [2020-03-18-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://juejin.im/post/5e70f6e0f265da57082a05b6) 
+- [2020-03-18-在-Mac-下用自动操作生成的合并-PDF-程序来将图片合并-PDF-时，合并-png-格式的图片得到-PDF-体积为什么会增长-1-倍？](https://www.v2ex.com/t/653887) 
 - [2020-03-18-配合自己魔改的-CoreDNS-写了个简单的-GUI-的配置文件生成工具](https://www.v2ex.com/t/653844) 
 - [2020-03-17-华为手机实测车辆的-3D-位姿检测](https://www.v2ex.com/t/653711) 

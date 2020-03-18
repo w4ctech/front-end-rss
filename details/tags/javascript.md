@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 16:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -82,6 +82,7 @@
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
+- [2020-03-18-【朝花夕拾】手写-Promise-你也可以](https://juejin.im/post/5c979af86fb9a070c5511aea) 
 - [2020-03-18-图文并茂捋清JS-OOP](https://juejin.im/post/5e71c023f265da5735506ff3) 
 - [2020-03-18-JS-的类型转换](https://juejin.im/post/5e7194d851882549281c0f9b) 
 - [2020-03-18-JavaScript代码是怎么执行的？](https://juejin.im/post/5e6f1e086fb9a07c8334f80a) 
@@ -107,6 +108,7 @@
 - [2020-03-18-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-03-15-本周知乎热榜-|-苹果要求微信适配夜间模式，否则下架？](https://www.ershicimi.com/p/6f305f4d876e45fa17c099822491c257) 
+- [2020-03-18-求推荐一个路由器，刷机用](https://www.v2ex.com/t/653884) 
 - [2020-03-18-有使用-Payjs-的大佬吗？请教几个问题](https://www.v2ex.com/t/653874) 
 - [2020-03-18-Windows-下添加环境变量，每次都需要重启，-Gitbash-才生效](https://www.v2ex.com/t/653865) 
 - [2020-03-18-AC2600-路由器，选什么无线网卡好？最大-80Mhz](https://www.v2ex.com/t/653836) 

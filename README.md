@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 09:30:17，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-18 10:00:10，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,10 +26,10 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -63,7 +63,7 @@
 </summary>
 
 
-- [2020-03-18-陈列平：病毒特效药问世之前，应当利用大自然的力量](http://china.caixin.com/2020-03-18/101529932.html) ![](assets/new.png)  
+- [2020-03-18-陈列平：病毒特效药问世之前，应当利用大自然的力量](http://china.caixin.com/2020-03-18/101529932.html)  
 - [2020-03-17-解药|康希诺再度联手军事科学院-新冠疫苗启动受试者招募](http://china.caixin.com/2020-03-17/101529585.html)  
 - [2020-03-17-对话|意大利前高官谈疫情：政府应对太慢，医护人员是英雄](http://international.caixin.com/2020-03-17/101529759.html)  
 - [2020-03-17-特稿|学者说健康人戴口罩难防新冠，理由引争议](http://china.caixin.com/2020-03-17/101529400.html)  
@@ -94,13 +94,13 @@
 </summary>
 
 
-- [2020-03-18-黑龙江省最新疫情通报](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8153/navid/42/stypeid/) ![](assets/new.png)  
-- [2020-03-18-广西新型冠状病毒肺炎疫情情况](http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0318/70253.html) ![](assets/new.png)  
-- [2020-03-18-美国累计确诊新冠肺炎6420例](http://m.weibo.cn/2656274875/4483735737291439) ![](assets/new.png)  
-- [2020-03-18-上海新增3例境外输入病例](http://m.weibo.cn/2803301701/4483734864546676) ![](assets/new.png)  
-- [2020-03-18-辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200318_3775233.html) ![](assets/new.png)  
-- [2020-03-18-美国新增1646例新冠肺炎](http://m.weibo.cn/2803301701/4483729831913364) ![](assets/new.png)  
-- [2020-03-18-重庆市新冠肺炎疫情情况](http://wsjkw.cq.gov.cn/yqxxyqtb/20200318/260275.html) ![](assets/new.png)  
+- [2020-03-18-黑龙江省最新疫情通报](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8153/navid/42/stypeid/)  
+- [2020-03-18-广西新型冠状病毒肺炎疫情情况](http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0318/70253.html)  
+- [2020-03-18-美国累计确诊新冠肺炎6420例](http://m.weibo.cn/2656274875/4483735737291439)  
+- [2020-03-18-上海新增3例境外输入病例](http://m.weibo.cn/2803301701/4483734864546676)  
+- [2020-03-18-辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200318_3775233.html)  
+- [2020-03-18-美国新增1646例新冠肺炎](http://m.weibo.cn/2803301701/4483729831913364)  
+- [2020-03-18-重庆市新冠肺炎疫情情况](http://wsjkw.cq.gov.cn/yqxxyqtb/20200318/260275.html)  
 - [2020-03-18-NBA球星杜兰特确诊新冠肺炎](http://m.weibo.cn/3057540037/4483721631824071)  
 - [2020-03-18-意大利累计确诊病例超3万例](http://m.weibo.cn/2656274875/4483720972999992)  
 - [2020-03-18-法国新增1097例新冠肺炎，累计确诊7730例](http://m.weibo.cn/2803301701/4483719174235314)  
@@ -312,6 +312,8 @@
 </summary>
 
 
+- [2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf) ![](assets/new.png)  
+- [2020-03-18-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/740a4cabdc55b76a00009815a86cc10a) ![](assets/new.png)  
 - [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e)  
 - [2020-03-17-2020QS世界大学计算机学科排名出炉，清华大学再创佳绩](https://www.ershicimi.com/p/4f38ae8eefb3b48b6cc191243236e238)  
 - [2020-03-16-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/13f1a8f948ee6362d9da9d8046f7f62e)  
@@ -375,6 +377,7 @@
 </summary>
 
 
+- [2020-03-18-进互联网名企要刷多少道算法题？](https://www.ershicimi.com/p/4f252cfb2031a49b2b107305a8360f25) ![](assets/new.png)  
 - [2020-03-17-我是如何拿到小米、京东、字节等大厂前端offer的](https://www.ershicimi.com/p/ef48a32c113bd71bf4f02a6a71f7e90d)  
 - [2020-03-17-10-个高级资深前端开发者应该关注的公众号](https://www.ershicimi.com/p/b1a2c3bc8e89f96fa7b655aee8f7ab8c)  
 - [2020-03-16-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/e90e524fa6bd95bb4d0d59b08596b883)  
@@ -866,10 +869,10 @@
 </summary>
 
 
-- [2020-03-18-Xs-Max-换电池是去直营店还是第三方更换还是自己来？](https://www.v2ex.com/t/653742) ![](assets/new.png)  
-- [2020-03-18-实际项目中，大家还做-csrf-的防御吗？](https://www.v2ex.com/t/653741) ![](assets/new.png)  
-- [2020-03-18-Github-官方-app-终于上架了](https://www.v2ex.com/t/653739) ![](assets/new.png)  
-- [2020-03-18-求教：学英语的方法](https://www.v2ex.com/t/653737) ![](assets/new.png)  
+- [2020-03-18-Xs-Max-换电池是去直营店还是第三方更换还是自己来？](https://www.v2ex.com/t/653742)  
+- [2020-03-18-实际项目中，大家还做-csrf-的防御吗？](https://www.v2ex.com/t/653741)  
+- [2020-03-18-Github-官方-app-终于上架了](https://www.v2ex.com/t/653739)  
+- [2020-03-18-求教：学英语的方法](https://www.v2ex.com/t/653737)  
 - [2020-03-18-github-的-app-可以正式下载了](https://www.v2ex.com/t/653736)  
 - [2020-03-18-现在的网民，看到新闻之后都不会思考吗？](https://www.v2ex.com/t/653735)  
 - [2020-03-18-GitHub-Mobile-正式上架](https://www.v2ex.com/t/653731)  
@@ -928,14 +931,14 @@
 </summary>
 
 
-- [2020-03-18-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w) ![](assets/new.png)  
-- [2020-03-18-Go-语言-Web-编程：数据库应用方法](https://toutiao.io/k/imuw86h) ![](assets/new.png)  
-- [2020-03-18-看腾讯如何玩转实时推荐：TencentRec](https://toutiao.io/k/hhzqqtv) ![](assets/new.png)  
-- [2020-03-18-关于-Java-序列化的问题你真的会吗？](https://toutiao.io/k/8zl0msd) ![](assets/new.png)  
-- [2020-03-18-拒绝-JS，这三个-CSS-技巧你一定用的上​](https://toutiao.io/k/qn0pcq0) ![](assets/new.png)  
-- [2020-03-18-面向程序员的深度学习](https://toutiao.io/k/zuf0b2w) ![](assets/new.png)  
-- [2020-03-18-这是一篇-“不一样”-的真实渗透测试案例分析文章](https://toutiao.io/k/wsrn74r) ![](assets/new.png)  
-- [2020-03-18-爬虫管理平台-Crawlab-新功能介绍：用-Git-做-CI/CD](https://toutiao.io/k/ywfciru) ![](assets/new.png)  
+- [2020-03-18-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w)  
+- [2020-03-18-Go-语言-Web-编程：数据库应用方法](https://toutiao.io/k/imuw86h)  
+- [2020-03-18-看腾讯如何玩转实时推荐：TencentRec](https://toutiao.io/k/hhzqqtv)  
+- [2020-03-18-关于-Java-序列化的问题你真的会吗？](https://toutiao.io/k/8zl0msd)  
+- [2020-03-18-拒绝-JS，这三个-CSS-技巧你一定用的上​](https://toutiao.io/k/qn0pcq0)  
+- [2020-03-18-面向程序员的深度学习](https://toutiao.io/k/zuf0b2w)  
+- [2020-03-18-这是一篇-“不一样”-的真实渗透测试案例分析文章](https://toutiao.io/k/wsrn74r)  
+- [2020-03-18-爬虫管理平台-Crawlab-新功能介绍：用-Git-做-CI/CD](https://toutiao.io/k/ywfciru)  
 - [2020-03-18-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k)  
 - [2020-03-18-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv)  
 - [2020-03-18-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  

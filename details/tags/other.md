@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 09:30:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 10:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1042,6 +1042,8 @@
 - [2020-03-13-程序员注意啦，这个群可以学英语，还全程免费！](https://www.ershicimi.com/p/34344f86b65cd3273018e629f7017603) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf) 
+- [2020-03-18-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/740a4cabdc55b76a00009815a86cc10a) 
 - [2020-03-17-2020QS世界大学计算机学科排名出炉，清华大学再创佳绩](https://www.ershicimi.com/p/4f38ae8eefb3b48b6cc191243236e238) 
 - [2020-03-14-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/314615bb50e18ea73a51b6eb6d743701) 
 - [2020-03-14-100-个网络基础知识-看完成半个网络高手](https://www.ershicimi.com/p/9f38b5d366eecdf345f35c117436e8d9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 10:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 10:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,5 +26,4 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57) 
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) 
-- [2020-03-17-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
-- [2020-03-17-杭州/北京-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/Node.js文档团队招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/653651) 
+- [2020-03-18-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 

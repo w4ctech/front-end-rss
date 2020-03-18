@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 10:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 10:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,10 +25,4 @@
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-03-17-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
-- [2020-03-17-GET-Socket-时-t-的值是怎么生成的？](https://www.v2ex.com/t/653664) 
-- [2020-03-17-你们的-edge-浏览网页上下快速滑动会出现空白区吗](https://www.v2ex.com/t/653657) 
-- [2020-03-17-与程序员相关的-CPU-缓存知识](https://toutiao.io/k/39ga3ab) 
-- [2020-03-17-生存指南之-CORS-+-API-Gateway](https://toutiao.io/k/salczfw) 
-- [2020-03-17-最全的入门-Web-安全路线规划](https://toutiao.io/k/o0i5imn) 
-- [2020-03-17-推荐-6800-字给你科普：SaaS-公司的系统稳定与安全机制](https://toutiao.io/k/49o6fqx) 
+- [2020-03-18-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 

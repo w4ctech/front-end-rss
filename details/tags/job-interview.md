@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 10:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 10:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -25,7 +25,6 @@
 - [2020-03-16-前端面试官：你知道-source-map-的原理吗？](https://www.ershicimi.com/p/bbd4d4c5cfdd022d4e3662188c8a8aa5) 
 - [2020-03-11-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/a3051f781bbeabdbf36d3a6670f2cd9d) 
 - [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e) 
-- [2020-03-11-某厂面试、直接被面试官给吊打了](https://www.ershicimi.com/p/e7b8cb044e3f242c2b5ffd2aea4ba7a1) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2020-03-12-腾讯PCG研发部招聘前端开发工程师](https://www.ershicimi.com/p/113ea73552b6f1448e052a312dbe2e50) 
@@ -37,14 +36,6 @@
 - [2020-03-01-面试常考手写代码学习技巧总结](https://www.ershicimi.com/p/4ba308a7ccbb8d80354182113127cc9b) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-03-15-去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123) 
-- [2020-03-17-html面试考点全面总结上篇](https://juejin.im/post/5e7095b26fb9a07ccd51a656) 
-- [2020-03-17-面试如果一两个简单题答不上来的话，如何在后面自救？](https://www.v2ex.com/t/653699) 
-- [2020-03-17-很讨厌面试怎么办](https://www.v2ex.com/t/653687) 
-- [2020-03-17-吐槽-最近的前端面试](https://www.v2ex.com/t/653679) 
-- [2020-03-17-阿里巴巴手淘前端招聘实习生了📢📢📢](https://www.v2ex.com/t/653660) 
-- [2020-03-17-北京西安内推中国移动研究院社招，前端、后端、架构师、运维、产品经理均有招聘！](https://www.v2ex.com/t/653654) 
-- [2020-03-17-厦门-招聘一名-Java-高级工程师](https://www.v2ex.com/t/653641) 
-- [2020-03-17-北欧企业招聘中国工程师，大龄程序员的福音！](https://www.v2ex.com/t/653621) 
-- [2020-03-17-附详尽答案，新版精选Android中高级面试题--二-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGdYyBIPp49j8eatLov1lIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-03-17-换工作，关于面试的总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13276&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOAcnjgHilSF438QTzz17Uw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-03-17-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu) 
+- [2020-03-18-招聘远程-web-和-PHP-兼职](https://www.v2ex.com/t/653747) 
+- [2020-03-18-附详尽答案，新版精选Android中高级面试题--二-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGdYyBIPp49j8eatLov1lIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-18-换工作，关于面试的总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13276&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOAcnjgHilSF438QTzz17Uw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

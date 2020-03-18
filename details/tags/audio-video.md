@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 10:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-18 10:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -76,6 +76,4 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-03-17-短视频分享网站-YouHub.TV-上线啦-https://youhub.tv](https://www.v2ex.com/t/653688) 
-- [2020-03-17-请求接口，返回短视频，播放器缓冲几秒才会加载](https://www.v2ex.com/t/653648) 
-- [2020-03-17-5-分钟完成-Nginx-直播服务部署（直播-+-分流-+-画面水印）](https://www.v2ex.com/t/653638) 
+- [2020-03-18-汽车之家-ICCV-论文-|-利用图神经网络提升视频分类能力](https://toutiao.io/k/sdxrun4) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-19 11:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -148,7 +148,7 @@
 - [【奇舞周刊】webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)
 - [【InfoQ】刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140)
 - [【JavaScript】微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889)
-- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【掘金前端】从基础到实战-手把手带你掌握新版Webpack4.0（学习笔记）](https://juejin.im/post/5e72d9676fb9a07c7c2d8125)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -237,6 +237,7 @@
 
 
 
+- [【V2EX】Simplenote-支持安装为-PWA-Native-App，很好用，强烈推荐！](https://www.v2ex.com/t/654156)
 - [【技术头条】FIDL：Flutter界的AIDL，不局限于基础数据类型-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13296&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoFd_K8U2ALpGYj-vg9zThQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
@@ -472,7 +473,7 @@
 - [【掘金前端】一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
-- [【V2EX】阿里云安全团队内推](https://www.v2ex.com/t/654119)
+- [【V2EX】有没有用-EDGE-看-HBO-的？](https://www.v2ex.com/t/654161)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -499,6 +500,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【掘金前端】HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340)
 - [【V2EX】阿里巴巴供应链算法部门招人，机器学习方向-or-运筹学方向，社招或-2021-届实习生，部门直推😉](https://www.v2ex.com/t/654122)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -543,6 +545,7 @@
 - [【InfoQ】别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】访问-GitHub-最近很不稳定啊，大家有没有什么好点的静态博客托管方案？](https://www.v2ex.com/t/654164)
 - [【V2EX】GitHub-中文榜置顶有感](https://www.v2ex.com/t/654117)
 - [【技术头条】Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvqAf7d2H3IQLaYajJjiSng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-一招搞定-GitHub-下载加速](https://toutiao.io/k/b9kq9bv)
@@ -578,10 +581,10 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb)
 - [【互联网架构师】去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123)
-- [【V2EX】准备第一次面试别人，请问需要注意哪些东西](https://www.v2ex.com/t/654109)
-- [【V2EX】大外资平台-Commercial-Banking-IT-招聘-Java-Developer](https://www.v2ex.com/t/654107)
-- [【V2EX】地点不限-提供北美技术移民机会-Jerry-Ai-软件工程师招聘](https://www.v2ex.com/t/654085)
-- [【V2EX】建个前端微信群组队刷面试题](https://www.v2ex.com/t/654077)
+- [【V2EX】北京招聘-hillinsight--iOS-工程师](https://www.v2ex.com/t/654160)
+- [【V2EX】阿里巴巴---2020-实习生招聘](https://www.v2ex.com/t/654139)
+- [【V2EX】实习-阿里巴巴计算平台事业部-2021-应届生实习生招聘（大数据计算、云计算平台、产品等等）](https://www.v2ex.com/t/654134)
+- [【V2EX】阿里巴巴春季校招面试正式开启了](https://www.v2ex.com/t/654132)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -648,6 +651,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】美国新增病例增长提速-纽交所将暂时关闭交易大厅](http://international.caixin.com/2020-03-19/101530860.html)
+- [【武汉肺炎防疫全纪录(财新网)】3月18日：全国新冠累计确诊80928例-湖北病例首次零增长（更新中）](http://china.caixin.com/2020-03-19/101530846.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港单日新增25例创纪录-22人有海外旅行史](http://china.caixin.com/2020-03-19/101530805.html)
 - [【武汉肺炎防疫全纪录(财新网)】河南应急响应级别降为二级-全国已有26省份调降](http://china.caixin.com/2020-03-19/101530794.html)
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|干部带头消费-戴口罩有指引](http://china.caixin.com/2020-03-19/101530787.html)
@@ -666,8 +671,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】湖北再调风险等级：高风险仍剩武汉城区-中风险市县降至4个](http://china.caixin.com/2020-03-18/101530051.html)
 - [【武汉肺炎防疫全纪录(财新网)】钟南山：不能靠“群体免疫”来防控新冠疫情](http://china.caixin.com/2020-03-18/101530742.html)
 - [【武汉肺炎防疫全纪录(财新网)】全球确诊破20万例8亿人受停学影响-美军方对抗疫态度保留](http://international.caixin.com/2020-03-18/101530654.html)
-- [【武汉肺炎防疫全纪录(财新网)】意大利新增患者增幅稍显拉回-欧洲12国感染人数破千](http://international.caixin.com/2020-03-18/101530449.html)
-- [【武汉肺炎防疫全纪录(财新网)】新冠风暴下的黎巴嫩：远不只是一场健康危机](http://international.caixin.com/2020-03-18/101530427.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

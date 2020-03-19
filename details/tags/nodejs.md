@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -28,5 +28,6 @@
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) 
 - [2020-03-18-使用四十行代码实现一个核心-koa](https://juejin.im/post/5e72b1e8e51d4526e8081022) 
 - [2020-03-19-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-03-19-北京招聘-hillinsight--Electron-高级工程师](https://www.v2ex.com/t/654153) 
 - [2020-03-19-又撸了个轮子，-RPC-styled-API-for-electron-ipc](https://www.v2ex.com/t/654088) 
 - [2020-03-18-淘系前端-Node.js-架构组实习招聘开始啦](https://www.v2ex.com/t/654056) 

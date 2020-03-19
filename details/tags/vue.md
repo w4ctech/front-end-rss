@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -33,5 +33,7 @@
 - [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694) 
 - [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) 
 - [2020-03-10-Vue如何实现疫情地图展示](https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25) 
+- [2020-03-19-vue底层实现分析](https://juejin.im/post/5e72010e6fb9a07cb96b0bf0) 
+- [2020-03-19-浅析Vue完整版和运行版的区别](https://juejin.im/post/5e721aed6fb9a07cd52bfd1b) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-03-19-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 

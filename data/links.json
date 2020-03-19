@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "美国新增病例增长提速 纽交所将暂时关闭交易大厅",
+        "link": "http://international.caixin.com/2020-03-19/101530860.html",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "3月18日：全国新冠累计确诊80928例 湖北病例首次零增长（更新中）",
+        "link": "http://china.caixin.com/2020-03-19/101530846.html",
+        "date": "2020-03-19"
+      },
+      {
         "title": "香港单日新增25例创纪录 22人有海外旅行史",
         "link": "http://china.caixin.com/2020-03-19/101530805.html",
         "date": "2020-03-19"
@@ -8981,6 +8991,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "从基础到实战 手把手带你掌握新版Webpack4.0（学习笔记）",
+        "link": "https://juejin.im/post/5e72d9676fb9a07c7c2d8125",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "vue底层实现分析",
+        "link": "https://juejin.im/post/5e72010e6fb9a07cb96b0bf0",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "浅析Vue完整版和运行版的区别",
+        "link": "https://juejin.im/post/5e721aed6fb9a07cd52bfd1b",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "css的艺术",
+        "link": "https://juejin.im/post/5e7228bef265da576e64bcf6",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "HTTP + 通信加密 + 认证机制 + 保护报文完整型 = HTTPS",
+        "link": "https://juejin.im/post/5e721dbb6fb9a07c944cb340",
+        "date": "2020-03-19"
+      },
+      {
         "title": "17日JDK 14 正式发布了，有些特性值得关注",
         "link": "https://juejin.im/post/5e72b9416fb9a07ca80ac994",
         "date": "2020-03-19"
@@ -9411,6 +9446,146 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "访问 GitHub 最近很不稳定啊，大家有没有什么好点的静态博客托管方案？",
+        "link": "https://www.v2ex.com/t/654164",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "收藏从未停止，学习从未开始",
+        "link": "https://www.v2ex.com/t/654163",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "发现一个很有意思的 ping 值",
+        "link": "https://www.v2ex.com/t/654162",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "有没有用 EDGE 看 HBO 的？",
+        "link": "https://www.v2ex.com/t/654161",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[北京招聘] hillinsight -iOS 工程师",
+        "link": "https://www.v2ex.com/t/654160",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "比较好奇， MacbookAir 的 1.1GHz，买的人都用来做啥？",
+        "link": "https://www.v2ex.com/t/654159",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "ATOM 使用 Sync-Setting 扩展，常常无法链接成功",
+        "link": "https://www.v2ex.com/t/654158",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "神奇 间隔 10 秒 两次查看 airpods pro 价格相差 100",
+        "link": "https://www.v2ex.com/t/654157",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Simplenote 支持安装为 PWA Native App，很好用，强烈推荐！",
+        "link": "https://www.v2ex.com/t/654156",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "IOS 原生邮件软件相当的耗电，有啥解决办法吗？",
+        "link": "https://www.v2ex.com/t/654155",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "请教个 SSH ECDSA RSA 相关的问题",
+        "link": "https://www.v2ex.com/t/654154",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[北京招聘] hillinsight -Electron 高级工程师",
+        "link": "https://www.v2ex.com/t/654153",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "为什么 ipadOS 不支持五笔输入法",
+        "link": "https://www.v2ex.com/t/654152",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[北京][18k-30k] 服务端 C++工程师",
+        "link": "https://www.v2ex.com/t/654150",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "第二次发文 想和大家探讨一下 各种国产软件、硬件程度有多高？（UOS，麒麟芯片）",
+        "link": "https://www.v2ex.com/t/654149",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Windows 怎么通过 USB 线共享网络给 iPhone ？",
+        "link": "https://www.v2ex.com/t/654144",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[校招-阿里云]阿里云全球技术服务团队（GTS）2020 春季校招盛大开启中！",
+        "link": "https://www.v2ex.com/t/654143",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "《哈利波特与魔法石》内地重映！",
+        "link": "https://www.v2ex.com/t/654142",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "11 Pro max 的三摄系统日常使用真是个累赘，糟心",
+        "link": "https://www.v2ex.com/t/654141",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "请问 windows 7/10/2008 可以直接用系统 API 进行抓包统计单个 IP 流量吗",
+        "link": "https://www.v2ex.com/t/654140",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "阿里巴巴 - 2020 实习生招聘",
+        "link": "https://www.v2ex.com/t/654139",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "现在东芝 日立的硬盘京东买不到， HGST 也没有，请问 各位 NSA 现在上的什么硬盘？",
+        "link": "https://www.v2ex.com/t/654138",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "运行 iOS 软件的 Mac ， 还是运行 MacOS 软件的 iPad ？",
+        "link": "https://www.v2ex.com/t/654137",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "以前只看到开发部门秃了，怎么最近发现",
+        "link": "https://www.v2ex.com/t/654136",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[实习] 阿里巴巴计算平台事业部 2021 应届生实习生招聘（大数据计算、云计算平台、产品等等）",
+        "link": "https://www.v2ex.com/t/654134",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Mysql 数据库需不需要主键 Id？",
+        "link": "https://www.v2ex.com/t/654133",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "阿里巴巴春季校招面试正式开启了",
+        "link": "https://www.v2ex.com/t/654132",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "怎么买外币？",
+        "link": "https://www.v2ex.com/t/654131",
+        "date": "2020-03-19"
+      },
+      {
         "title": "javascript 1.x version 的 Server-Side 是什么概念？",
         "link": "https://www.v2ex.com/t/654129",
         "date": "2020-03-19"
@@ -9718,6 +9893,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "JVM源码分析之堆外内存完全解读 (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13297&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F150614%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-19"
+      },
+      {
         "title": "FIDL：Flutter界的AIDL，不局限于基础数据类型 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13296&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoFd_K8U2ALpGYj-vg9zThQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-03-19"
@@ -9824,6 +10004,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "一位湖北码农的真实故事",
+        "link": "https://toutiao.io/k/ffix1hm",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[推荐] 基于 Java 实现的人脸识别功能（附源码）",
+        "link": "https://toutiao.io/k/858vszs",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[推荐] 拥有这些工具，还怕干不出好活？",
+        "link": "https://toutiao.io/k/jlh1v51",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[推荐] [译] ​程序员如何挣外快？",
+        "link": "https://toutiao.io/k/4aejh5o",
+        "date": "2020-03-19"
+      },
       {
         "title": "当查询的数据来自多个数据源，有哪些好的分页策略？",
         "link": "https://toutiao.io/k/081d7xs",

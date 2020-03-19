@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 09:41:16，:rocket: 更新条数: +520， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 10:00:21，:rocket: 更新条数: +1845， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -63,6 +63,26 @@
 </summary>
 
 
+- [2020-03-19-疫情总动员，各地怎么做|干部带头消费-戴口罩有指引](http://china.caixin.com/2020-03-19/101530787.html) ![](assets/new.png)  
+- [2020-03-19-李克强同欧委会主席通话：支持欧洲抗疫-望保在欧国人安全](http://international.caixin.com/2020-03-19/101530771.html) ![](assets/new.png)  
+- [2020-03-18-专访中疾控邵一鸣：零号病人意义何在-不赞同疾控行政化](http://china.caixin.com/2020-03-18/101530202.html) ![](assets/new.png)  
+- [2020-03-18-北京机场国际航班将分流石家庄、天津等多地机场](http://companies.caixin.com/2020-03-18/101530287.html) ![](assets/new.png)  
+- [2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加](http://china.caixin.com/2020-03-18/101530114.html) ![](assets/new.png)  
+- [2020-03-18-3月17日:156个国家和地区累计确诊新冠11.64万例-多国加大隔离管控力度](http://international.caixin.com/2020-03-18/101530257.html) ![](assets/new.png)  
+- [2020-03-18-全球新冠抗疫大事记（2019年12月31日——今）](http://china.caixin.com/2020-03-18/101529734.html) ![](assets/new.png)  
+- [2020-03-18-大流行手记|3月18日：美国有意给国民派现金](http://www.caixin.com/2020-03-18/101530680.html) ![](assets/new.png)  
+- [2020-03-18-【境内疫情观察】北京成为境外输入病例最多的省份（3月17日）](http://database.caixin.com/2020-03-18/101530369.html) ![](assets/new.png)  
+- [2020-03-18-肺炎日记|3月17日：援鄂医疗队回城，北上广或成新战场](http://china.caixin.com/2020-03-18/101530004.html) ![](assets/new.png)  
+- [2020-03-18-屠呦呦等专家：谨防将新冠误诊为疟疾-非洲应未雨绸缪](http://china.caixin.com/2020-03-18/101530418.html) ![](assets/new.png)  
+- [2020-03-18-研究:武汉封城前八成患者未确诊-控制措施如何影响传染](http://www.caixin.com/2020-03-18/101530471.html) ![](assets/new.png)  
+- [2020-03-18-陈列平：病毒特效药问世之前，应当利用大自然的力量](http://china.caixin.com/2020-03-18/101529932.html) ![](assets/new.png)  
+- [2020-03-18-成都现境外输入型病例-隔离政策紧急“一刀切”](http://china.caixin.com/2020-03-18/101530625.html) ![](assets/new.png)  
+- [2020-03-18-北京境外输入病例半日再增11例-筛查分流添隐患](http://china.caixin.com/2020-03-18/101530001.html) ![](assets/new.png)  
+- [2020-03-18-湖北再调风险等级：高风险仍剩武汉城区-中风险市县降至4个](http://china.caixin.com/2020-03-18/101530051.html) ![](assets/new.png)  
+- [2020-03-18-钟南山：不能靠“群体免疫”来防控新冠疫情](http://china.caixin.com/2020-03-18/101530742.html) ![](assets/new.png)  
+- [2020-03-18-全球确诊破20万例8亿人受停学影响-美军方对抗疫态度保留](http://international.caixin.com/2020-03-18/101530654.html) ![](assets/new.png)  
+- [2020-03-18-意大利新增患者增幅稍显拉回-欧洲12国感染人数破千](http://international.caixin.com/2020-03-18/101530449.html) ![](assets/new.png)  
+- [2020-03-18-新冠风暴下的黎巴嫩：远不只是一场健康危机](http://international.caixin.com/2020-03-18/101530427.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

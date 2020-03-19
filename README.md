@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 16:30:16，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 17:00:17，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,10 @@
 </summary>
 
 
+- [2020-03-19-恒河猴感染新冠病毒后自愈-抗体保护下未二次感染](http://china.caixin.com/2020-03-19/101530952.html) ![](assets/new.png)  
+- [2020-03-19-3月18日：166个国家和地区累计确诊新冠13.74万例](http://international.caixin.com/2020-03-19/101531042.html) ![](assets/new.png)  
+- [2020-03-19-【境内疫情观察】全国新增病例六成来自北京（3月18日）](http://database.caixin.com/2020-03-19/101530956.html) ![](assets/new.png)  
+- [2020-03-19-【视频】一个意大利留学生回国后的隔离日记](http://video.caixin.com/2020-03-19/101530910.html) ![](assets/new.png)  
 - [2020-03-19-加拿大将投入逾4000亿应急-美加边境首度限制非必要往来](http://international.caixin.com/2020-03-19/101530914.html)  
 - [2020-03-19-7天新增1万例确诊-西班牙是如何错过最佳防疫窗口的](http://international.caixin.com/2020-03-19/101530892.html)  
 - [2020-03-18-【图集】武汉东湖樱花烂漫-向援鄂医护人员免费开放](http://photos.caixin.com/2020-03-18/101530719.html)  
@@ -79,10 +83,6 @@
 - [2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加](http://china.caixin.com/2020-03-18/101530114.html)  
 - [2020-03-18-3月17日:156个国家和地区累计确诊新冠11.64万例-多国加大隔离管控力度](http://international.caixin.com/2020-03-18/101530257.html)  
 - [2020-03-18-全球新冠抗疫大事记（2019年12月31日——今）](http://china.caixin.com/2020-03-18/101529734.html)  
-- [2020-03-18-大流行手记|3月18日：美国有意给国民派现金](http://www.caixin.com/2020-03-18/101530680.html)  
-- [2020-03-18-【境内疫情观察】北京成为境外输入病例最多的省份（3月17日）](http://database.caixin.com/2020-03-18/101530369.html)  
-- [2020-03-18-肺炎日记|3月17日：援鄂医疗队回城，北上广或成新战场](http://china.caixin.com/2020-03-18/101530004.html)  
-- [2020-03-18-屠呦呦等专家：谨防将新冠误诊为疟疾-非洲应未雨绸缪](http://china.caixin.com/2020-03-18/101530418.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-03-19-墨西哥首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4484210935027261) ![](assets/new.png)  
-- [2020-03-19-最近7日境外输入病例占新增总数的84.55%](http://m.weibo.cn/2656274875/4484208091551040) ![](assets/new.png)  
+- [2020-03-19-墨西哥首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4484210935027261)  
+- [2020-03-19-最近7日境外输入病例占新增总数的84.55%](http://m.weibo.cn/2656274875/4484208091551040)  
 - [2020-03-19-北京新增报告境外输入确诊病例1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200319_1722077.html)  
 - [2020-03-19-美国单日新增2769例新冠肺炎](http://m.weibo.cn/2803301701/4484147148086827)  
 - [2020-03-19-全国新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/e644c2fc18b4448db7ed4b30f68b91a6.shtml)  
@@ -753,10 +753,10 @@
 </summary>
 
 
-- [2020-03-19-提升代码的可靠性之函数式编程](https://juejin.im/post/5e72c5eff265da57301c1411) ![](assets/new.png)  
-- [2020-03-19-2020年大前端面试题库+答案（第3章）-javaScript判断对象类型](https://juejin.im/post/5e72e7f06fb9a07ca714d70f) ![](assets/new.png)  
-- [2020-03-19-专题总结：this指向问题](https://juejin.im/post/5e73158cf265da5714164d78) ![](assets/new.png)  
-- [2020-03-19-Vue实现一个Markdown编辑器附项目源码](https://juejin.im/post/5e731368f265da5734026107) ![](assets/new.png)  
+- [2020-03-19-提升代码的可靠性之函数式编程](https://juejin.im/post/5e72c5eff265da57301c1411)  
+- [2020-03-19-2020年大前端面试题库+答案（第3章）-javaScript判断对象类型](https://juejin.im/post/5e72e7f06fb9a07ca714d70f)  
+- [2020-03-19-专题总结：this指向问题](https://juejin.im/post/5e73158cf265da5714164d78)  
+- [2020-03-19-Vue实现一个Markdown编辑器附项目源码](https://juejin.im/post/5e731368f265da5734026107)  
 - [2020-03-19-78-个前端基建问题的讲师答疑合集-|-第二届早早聊](https://juejin.im/post/5e7312abf265da57455b6324)  
 - [2020-03-19-with/try-catch/eval改变作用域链](https://juejin.im/post/5e72fa2f6fb9a07ccd51a978)  
 - [2020-03-19-介绍几个代码实际开发中很实用的工具](https://juejin.im/post/5e72f2e36fb9a07cb96b0d1c)  
@@ -888,26 +888,26 @@
 </summary>
 
 
-- [2020-03-19-你们在-windows-上文本文件用-LF-还是-CRLF-结尾？](https://www.v2ex.com/t/654293) ![](assets/new.png)  
-- [2020-03-19-被-HR-小姐姐教育：“你不应该做-IT，你应该考虑转行”](https://www.v2ex.com/t/654292) ![](assets/new.png)  
-- [2020-03-19-这是我迄今为止，买到最简洁易记的域名了，-v-友们秀秀你们得意的域名（学费米）](https://www.v2ex.com/t/654291) ![](assets/new.png)  
-- [2020-03-19-MIUI-最近更新的应用行为记录简直就是照妖镜](https://www.v2ex.com/t/654290) ![](assets/new.png)  
-- [2020-03-19-19-本科深圳-Python-后端，求各位大佬看下简历给点意见](https://www.v2ex.com/t/654289) ![](assets/new.png)  
-- [2020-03-19-为什么苹果就不更新一下秒控键盘呢？](https://www.v2ex.com/t/654288) ![](assets/new.png)  
-- [2020-03-19-广州天河-柯基免费领养](https://www.v2ex.com/t/654286) ![](assets/new.png)  
-- [2020-03-19-广州前端拿-20k-以上要什么水平](https://www.v2ex.com/t/654285) ![](assets/new.png)  
-- [2020-03-19-Google-Play-System-更新失败怎么办？](https://www.v2ex.com/t/654284) ![](assets/new.png)  
-- [2020-03-19-这一个腾讯-iOS-面试题，有大佬知道怎么答吗？](https://www.v2ex.com/t/654283) ![](assets/new.png)  
-- [2020-03-19-21-年毕业，校招开始-@Alibaba-HangZhou](https://www.v2ex.com/t/654282) ![](assets/new.png)  
-- [2020-03-19-讨论下能替代-MBP-作为开发主力机的电脑](https://www.v2ex.com/t/654280) ![](assets/new.png)  
-- [2020-03-19-请问现在贷款买房有啥需要注意得吗？-是不是都是直接根据-LPR-算了？](https://www.v2ex.com/t/654279) ![](assets/new.png)  
-- [2020-03-19-迫于怕被盗号的无奈，自己撸了一个-QQ-三国推举孝廉和谋士大赛题库检索网站](https://www.v2ex.com/t/654278) ![](assets/new.png)  
-- [2020-03-19-迄今为止-Touch-Bar-最有用的一个场景](https://www.v2ex.com/t/654277) ![](assets/new.png)  
-- [2020-03-19-作为一款开源产品，以及衍生的应用产品，如何提高用户量？](https://www.v2ex.com/t/654276) ![](assets/new.png)  
-- [2020-03-19-实习内推蚂蚁金服-CTO-技术风险部数据团队,-2021-届春招实习,-Java-/大数据,-上海/杭州/北京，进行中！](https://www.v2ex.com/t/654275) ![](assets/new.png)  
-- [2020-03-19-sharedrop-P2P-文件分享](https://www.v2ex.com/t/654273) ![](assets/new.png)  
-- [2020-03-19-大佬们，你们-16-寸的-RMBP-设置的显示比例是多少的？](https://www.v2ex.com/t/654272) ![](assets/new.png)  
-- [2020-03-19-有没有一款软件可以将-iPhone-投屏到-Mac，并且使用-Mac-的鼠标操作-iPhone-？](https://www.v2ex.com/t/654271) ![](assets/new.png)  
+- [2020-03-19-你们在-windows-上文本文件用-LF-还是-CRLF-结尾？](https://www.v2ex.com/t/654293)  
+- [2020-03-19-被-HR-小姐姐教育：“你不应该做-IT，你应该考虑转行”](https://www.v2ex.com/t/654292)  
+- [2020-03-19-这是我迄今为止，买到最简洁易记的域名了，-v-友们秀秀你们得意的域名（学费米）](https://www.v2ex.com/t/654291)  
+- [2020-03-19-MIUI-最近更新的应用行为记录简直就是照妖镜](https://www.v2ex.com/t/654290)  
+- [2020-03-19-19-本科深圳-Python-后端，求各位大佬看下简历给点意见](https://www.v2ex.com/t/654289)  
+- [2020-03-19-为什么苹果就不更新一下秒控键盘呢？](https://www.v2ex.com/t/654288)  
+- [2020-03-19-广州天河-柯基免费领养](https://www.v2ex.com/t/654286)  
+- [2020-03-19-广州前端拿-20k-以上要什么水平](https://www.v2ex.com/t/654285)  
+- [2020-03-19-Google-Play-System-更新失败怎么办？](https://www.v2ex.com/t/654284)  
+- [2020-03-19-这一个腾讯-iOS-面试题，有大佬知道怎么答吗？](https://www.v2ex.com/t/654283)  
+- [2020-03-19-21-年毕业，校招开始-@Alibaba-HangZhou](https://www.v2ex.com/t/654282)  
+- [2020-03-19-讨论下能替代-MBP-作为开发主力机的电脑](https://www.v2ex.com/t/654280)  
+- [2020-03-19-请问现在贷款买房有啥需要注意得吗？-是不是都是直接根据-LPR-算了？](https://www.v2ex.com/t/654279)  
+- [2020-03-19-迫于怕被盗号的无奈，自己撸了一个-QQ-三国推举孝廉和谋士大赛题库检索网站](https://www.v2ex.com/t/654278)  
+- [2020-03-19-迄今为止-Touch-Bar-最有用的一个场景](https://www.v2ex.com/t/654277)  
+- [2020-03-19-作为一款开源产品，以及衍生的应用产品，如何提高用户量？](https://www.v2ex.com/t/654276)  
+- [2020-03-19-实习内推蚂蚁金服-CTO-技术风险部数据团队,-2021-届春招实习,-Java-/大数据,-上海/杭州/北京，进行中！](https://www.v2ex.com/t/654275)  
+- [2020-03-19-sharedrop-P2P-文件分享](https://www.v2ex.com/t/654273)  
+- [2020-03-19-大佬们，你们-16-寸的-RMBP-设置的显示比例是多少的？](https://www.v2ex.com/t/654272)  
+- [2020-03-19-有没有一款软件可以将-iPhone-投屏到-Mac，并且使用-Mac-的鼠标操作-iPhone-？](https://www.v2ex.com/t/654271)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

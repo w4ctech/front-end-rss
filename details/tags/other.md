@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 01:30:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1274,6 +1274,8 @@
 - [2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [2020-03-20-3.20-求印度车](https://www.v2ex.com/t/654431) 
+- [2020-03-20-求推荐-wifi6-网卡](https://www.v2ex.com/t/654429) 
 - [2020-03-20-记一个-pandas-rolling-corr-窗口大小不固定-计算问题。](https://www.v2ex.com/t/654427) 
 - [2020-03-20-头条内推-部门直面-当下最火的在线教育板块，社招/校招/实习生，别问，问就是招人！](https://www.v2ex.com/t/654426) 
 - [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424) 
@@ -1533,6 +1535,7 @@
 - [2020-03-19-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-19-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-19-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-20-推荐-有赞全链路追踪实践](https://toutiao.io/k/wvwg0ka) 
 - [2020-03-20-推荐-微服务架构案例（二）：业务架构设计，系统分层管理](https://toutiao.io/k/lzpb0rx) 
 - [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez) 
 - [2020-03-19-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp) 

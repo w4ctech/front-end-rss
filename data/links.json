@@ -10122,6 +10122,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "3.20 求印度车",
+        "link": "https://www.v2ex.com/t/654431",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "20200319 - Steam 上没法买游戏",
+        "link": "https://www.v2ex.com/t/654430",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "求推荐 wifi6 网卡",
+        "link": "https://www.v2ex.com/t/654429",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "手把手教你搞定 vue-cli4 配置,一文搞定你的 vue.config.js 配置难题",
+        "link": "https://www.v2ex.com/t/654428",
+        "date": "2020-03-20"
+      },
+      {
         "title": "记一个 pandas rolling corr 窗口大小不固定 计算问题。",
         "link": "https://www.v2ex.com/t/654427",
         "date": "2020-03-20"
@@ -11800,6 +11820,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 有赞全链路追踪实践",
+        "link": "https://toutiao.io/k/wvwg0ka",
+        "date": "2020-03-20"
+      },
       {
         "title": "[推荐] 微服务架构案例（二）：业务架构设计，系统分层管理",
         "link": "https://toutiao.io/k/lzpb0rx",

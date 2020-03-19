@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 20:32:24，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 21:00:18，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,9 @@
 </summary>
 
 
+- [2020-03-19-国家监委调查组发布李文亮有关情况调查通报](http://china.caixin.com/2020-03-19/101531187.html) ![](assets/new.png)  
+- [2020-03-19-北京重启SARS定点小汤山医院:央行贷款超3亿-1.5万人赶工（更新）](http://china.caixin.com/2020-03-19/101529393.html) ![](assets/new.png)  
+- [2020-03-19-回国难:小留学生滞留英国-166家庭联名申请领事保护](http://china.caixin.com/2020-03-19/101531184.html) ![](assets/new.png)  
 - [2020-03-19-拜耳员工遭开除后被注销居留许可-北京入境隔离措施严厉](http://china.caixin.com/2020-03-19/101531177.html)  
 - [2020-03-19-民航总局调整到京航班入境点-太原天津呼和浩特承接部分航班](http://china.caixin.com/2020-03-19/101531171.html)  
 - [2020-03-19-新兴市场严阵待疫情-印度谣言纷飞巴西总统遭抗议](http://international.caixin.com/2020-03-19/101531167.html)  
@@ -80,9 +83,6 @@
 - [2020-03-19-7天新增1万例确诊-西班牙是如何错过最佳防疫窗口的](http://international.caixin.com/2020-03-19/101530892.html)  
 - [2020-03-18-【图集】武汉东湖樱花烂漫-向援鄂医护人员免费开放](http://photos.caixin.com/2020-03-18/101530719.html)  
 - [2020-03-18-【图集】援鄂医疗队分批撤离-登“凯旋门”乘“胜利号”回家](http://photos.caixin.com/2020-03-18/101530700.html)  
-- [2020-03-19-美国新增病例增长提速-纽交所将暂时关闭交易大厅](http://international.caixin.com/2020-03-19/101530860.html)  
-- [2020-03-19-3月18日：全国新冠累计确诊80928例-湖北病例首次零增长（更新中）](http://china.caixin.com/2020-03-19/101530846.html)  
-- [2020-03-19-香港单日新增25例创纪录-22人有海外旅行史](http://china.caixin.com/2020-03-19/101530805.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -895,26 +895,26 @@
 </summary>
 
 
-- [2020-03-19-升学历的问题](https://www.v2ex.com/t/654376) ![](assets/new.png)  
-- [2020-03-19-如何不安装网易新闻-app，查看网友分享出来的新闻评论](https://www.v2ex.com/t/654375) ![](assets/new.png)  
-- [2020-03-19-请问有没有-markdown-的自动格式化插件？](https://www.v2ex.com/t/654373) ![](assets/new.png)  
-- [2020-03-19-对程序员这个工作的感想](https://www.v2ex.com/t/654372) ![](assets/new.png)  
-- [2020-03-19-腾讯-TBase-分布式数据库招人啦-深圳-Base](https://www.v2ex.com/t/654371) ![](assets/new.png)  
-- [2020-03-19-mate30-手机怎么样？-现在买划算吗？-5g-能用了吗](https://www.v2ex.com/t/654370) ![](assets/new.png)  
-- [2020-03-19-迫于没钱，自己组装了个廉价显示器](https://www.v2ex.com/t/654369) ![](assets/new.png)  
-- [2020-03-19-dell-u2720q-显示器连接-mbp-唤醒时分辨率有一定几率会降低](https://www.v2ex.com/t/654367) ![](assets/new.png)  
-- [2020-03-19-码云又挂了？？？](https://www.v2ex.com/t/654366) ![](assets/new.png)  
-- [2020-03-19-请问铲屎官们你们的猫会跑出去饿了才回来吗](https://www.v2ex.com/t/654365) ![](assets/new.png)  
-- [2020-03-19-我还有必要用-cloudfare-的-CDN-吗](https://www.v2ex.com/t/654364) ![](assets/new.png)  
-- [2020-03-19-Akulaku-招人啦🎺](https://www.v2ex.com/t/654363) ![](assets/new.png)  
-- [2020-03-19-PHP-开发-offer-抉择问题](https://www.v2ex.com/t/654362) ![](assets/new.png)  
-- [2020-03-19-浦东张江附近租房，公寓能推荐几个嘛？](https://www.v2ex.com/t/654361) ![](assets/new.png)  
-- [2020-03-19-C++-unordered_map-的-begin-方法最坏时间复杂度是-On-吗](https://www.v2ex.com/t/654360) ![](assets/new.png)  
-- [2020-03-19-请问各位老哥，微信的订阅消息怎么实现定时发送？](https://www.v2ex.com/t/654359) ![](assets/new.png)  
-- [2020-03-19-解决小程序无法分享给非好友的问题，小程序自动转码](https://www.v2ex.com/t/654358) ![](assets/new.png)  
-- [2020-03-19-滴滴出行-北京、杭州-前端/-Java-/Go/iOS/Android/-PHP-/C++/算法等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/654357) ![](assets/new.png)  
-- [2020-03-19-思勰投资丨-20、21-届校园招聘-量化研究员、C++软件开发工程师（全职/实习）](https://www.v2ex.com/t/654356) ![](assets/new.png)  
-- [2020-03-19-深圳15k-35k有想要了解的小伙伴们可以发简历到邮箱中哦~](https://www.v2ex.com/t/654355) ![](assets/new.png)  
+- [2020-03-19-升学历的问题](https://www.v2ex.com/t/654376)  
+- [2020-03-19-如何不安装网易新闻-app，查看网友分享出来的新闻评论](https://www.v2ex.com/t/654375)  
+- [2020-03-19-请问有没有-markdown-的自动格式化插件？](https://www.v2ex.com/t/654373)  
+- [2020-03-19-对程序员这个工作的感想](https://www.v2ex.com/t/654372)  
+- [2020-03-19-腾讯-TBase-分布式数据库招人啦-深圳-Base](https://www.v2ex.com/t/654371)  
+- [2020-03-19-mate30-手机怎么样？-现在买划算吗？-5g-能用了吗](https://www.v2ex.com/t/654370)  
+- [2020-03-19-迫于没钱，自己组装了个廉价显示器](https://www.v2ex.com/t/654369)  
+- [2020-03-19-dell-u2720q-显示器连接-mbp-唤醒时分辨率有一定几率会降低](https://www.v2ex.com/t/654367)  
+- [2020-03-19-码云又挂了？？？](https://www.v2ex.com/t/654366)  
+- [2020-03-19-请问铲屎官们你们的猫会跑出去饿了才回来吗](https://www.v2ex.com/t/654365)  
+- [2020-03-19-我还有必要用-cloudfare-的-CDN-吗](https://www.v2ex.com/t/654364)  
+- [2020-03-19-Akulaku-招人啦🎺](https://www.v2ex.com/t/654363)  
+- [2020-03-19-PHP-开发-offer-抉择问题](https://www.v2ex.com/t/654362)  
+- [2020-03-19-浦东张江附近租房，公寓能推荐几个嘛？](https://www.v2ex.com/t/654361)  
+- [2020-03-19-C++-unordered_map-的-begin-方法最坏时间复杂度是-On-吗](https://www.v2ex.com/t/654360)  
+- [2020-03-19-请问各位老哥，微信的订阅消息怎么实现定时发送？](https://www.v2ex.com/t/654359)  
+- [2020-03-19-解决小程序无法分享给非好友的问题，小程序自动转码](https://www.v2ex.com/t/654358)  
+- [2020-03-19-滴滴出行-北京、杭州-前端/-Java-/Go/iOS/Android/-PHP-/C++/算法等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/654357)  
+- [2020-03-19-思勰投资丨-20、21-届校园招聘-量化研究员、C++软件开发工程师（全职/实习）](https://www.v2ex.com/t/654356)  
+- [2020-03-19-深圳15k-35k有想要了解的小伙伴们可以发简历到邮箱中哦~](https://www.v2ex.com/t/654355)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

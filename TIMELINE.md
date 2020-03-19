@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 23:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-19 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -793,6 +793,17 @@
 - [【知乎日报】2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [【知乎日报】2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [【知乎日报】2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [【V2EX】2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413) 
+- [【V2EX】2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412) 
+- [【V2EX】2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411) 
+- [【V2EX】2020-03-19-搞了个-VS-Code-插件，在源码和测试间跳转](https://www.v2ex.com/t/654410) 
+- [【V2EX】2020-03-19-重要的群聊中，为什么有些人要把一句话要分-3+次说](https://www.v2ex.com/t/654409) 
+- [【V2EX】2020-03-19-电脑上语音输出，有可行的方案吗？](https://www.v2ex.com/t/654408) 
+- [【V2EX】2020-03-19-2014-版-MBP-多少出合适啊](https://www.v2ex.com/t/654407) 
+- [【V2EX】2020-03-19-刚上手-typescript-这个类型我真不知道咋定义了！](https://www.v2ex.com/t/654406) 
+- [【V2EX】2020-03-19-QQ-邮箱-ios-端除了-QQ-自身邮件外，其他邮箱的邮件无法及时接收，大家有这种情况吗？](https://www.v2ex.com/t/654405) 
+- [【V2EX】2020-03-19-WGCLOUD-监控系统-v2.3.5，更新日志](https://www.v2ex.com/t/654404) 
+- [【V2EX】2020-03-19-小白问个问题，-ant-项目怎么在-eclipse-里用-tomcat-运行](https://www.v2ex.com/t/654403) 
 - [【V2EX】2020-03-19-iOS-游戏限免，阿尔托的奥德赛，迷你地铁](https://www.v2ex.com/t/654400) 
 - [【V2EX】2020-03-19-git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399) 
 - [【V2EX】2020-03-19-大佬指点下-Linux-文件修改替换原文件的方法](https://www.v2ex.com/t/654398) 

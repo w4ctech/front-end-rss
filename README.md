@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 23:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 23:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-19-外交部：望美方同中方在相互尊重的基础上管控分歧](http://international.caixin.com/2020-03-19/101531221.html) ![](assets/new.png)  
-- [2020-03-13-封面报道|从漠视到惊醒：美国战疫如何打响](http://weekly.caixin.com/2020-03-13/101527899.html) ![](assets/new.png)  
+- [2020-03-19-外交部：望美方同中方在相互尊重的基础上管控分歧](http://international.caixin.com/2020-03-19/101531221.html)  
+- [2020-03-13-封面报道|从漠视到惊醒：美国战疫如何打响](http://weekly.caixin.com/2020-03-13/101527899.html)  
 - [2020-03-19-国家监委调查组发布李文亮有关情况调查通报](http://china.caixin.com/2020-03-19/101531187.html)  
 - [2020-03-19-北京重启SARS定点小汤山医院:央行贷款超3亿-1.5万人赶工（更新）](http://china.caixin.com/2020-03-19/101529393.html)  
 - [2020-03-19-回国难:小留学生滞留英国-166家庭联名申请领事保护](http://china.caixin.com/2020-03-19/101531184.html)  
@@ -895,6 +895,17 @@
 </summary>
 
 
+- [2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413) ![](assets/new.png)  
+- [2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412) ![](assets/new.png)  
+- [2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411) ![](assets/new.png)  
+- [2020-03-19-搞了个-VS-Code-插件，在源码和测试间跳转](https://www.v2ex.com/t/654410) ![](assets/new.png)  
+- [2020-03-19-重要的群聊中，为什么有些人要把一句话要分-3+次说](https://www.v2ex.com/t/654409) ![](assets/new.png)  
+- [2020-03-19-电脑上语音输出，有可行的方案吗？](https://www.v2ex.com/t/654408) ![](assets/new.png)  
+- [2020-03-19-2014-版-MBP-多少出合适啊](https://www.v2ex.com/t/654407) ![](assets/new.png)  
+- [2020-03-19-刚上手-typescript-这个类型我真不知道咋定义了！](https://www.v2ex.com/t/654406) ![](assets/new.png)  
+- [2020-03-19-QQ-邮箱-ios-端除了-QQ-自身邮件外，其他邮箱的邮件无法及时接收，大家有这种情况吗？](https://www.v2ex.com/t/654405) ![](assets/new.png)  
+- [2020-03-19-WGCLOUD-监控系统-v2.3.5，更新日志](https://www.v2ex.com/t/654404) ![](assets/new.png)  
+- [2020-03-19-小白问个问题，-ant-项目怎么在-eclipse-里用-tomcat-运行](https://www.v2ex.com/t/654403) ![](assets/new.png)  
 - [2020-03-19-iOS-游戏限免，阿尔托的奥德赛，迷你地铁](https://www.v2ex.com/t/654400)  
 - [2020-03-19-git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399)  
 - [2020-03-19-大佬指点下-Linux-文件修改替换原文件的方法](https://www.v2ex.com/t/654398)  
@@ -904,17 +915,6 @@
 - [2020-03-19-有什么比较好的-app-抓包方式？-app-内部做了证书认证是不是就比较难-了？](https://www.v2ex.com/t/654394)  
 - [2020-03-19-分享一款-Web-组态编辑器](https://www.v2ex.com/t/654393)  
 - [2020-03-19-ios-浏览器、webview-简直就是手机端的-IE6，你有同感吗？](https://www.v2ex.com/t/654392)  
-- [2020-03-19-Git-commit-plugin-For-Vscode-一款自动生成规范-git-提交信息的插件](https://www.v2ex.com/t/654391)  
-- [2020-03-19-13.4gm，-xr.微信，知乎，-alook-等，无法长按-复制](https://www.v2ex.com/t/654388)  
-- [2020-03-19-你们的-n1-在哪儿弄的？我想弄个-n1-玩玩](https://www.v2ex.com/t/654387)  
-- [2020-03-19-在-PowerShell-中使用-fish-style-自动补全提示](https://www.v2ex.com/t/654386)  
-- [2020-03-19-mysql2ch，一个同步-MySQL-数据到-ClickHouse-的项目](https://www.v2ex.com/t/654385)  
-- [2020-03-19-阿里巴巴校招-Java-开发&测试实习岗位](https://www.v2ex.com/t/654384)  
-- [2020-03-19-迫于-ios-广告太多，求一个好用-js](https://www.v2ex.com/t/654383)  
-- [2020-03-19-婆媳关系不好，男人至少-70%的责任。不敢做主&背锅，不会传话、偏心。](https://www.v2ex.com/t/654382)  
-- [2020-03-19-终于拿到了-offer](https://www.v2ex.com/t/654381)  
-- [2020-03-19-阿里云-cdn-下的网站经常-504](https://www.v2ex.com/t/654380)  
-- [2020-03-19-坐标上海，只考虑海外网站的速度，联通相对于电信是否有质的提高？](https://www.v2ex.com/t/654379)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

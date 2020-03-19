@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 12:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -25,7 +25,9 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855) 
 - [2020-03-09-React，想说爱你，并不容易](https://www.ershicimi.com/p/42a9014ed93cd5d26dc34d2bbcd4328c) 
+- [2020-03-19-React-Hooks的依赖项](https://juejin.im/post/5e7216f8e51d4526e4191f82) 
 - [2020-03-18-深入react组件初始挂载](https://juejin.im/post/5e68e02ef265da573f3586a7) 
 - [2020-03-19-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-03-19-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-03-19-最近学习完-react,想上手一个项目，试试水，有没有个友好的项目推荐一下。](https://www.v2ex.com/t/654167) 
 - [2020-03-18-郑州-招聘高级-Hybird-APPReact-Native-方向工程师](https://www.v2ex.com/t/654054) 

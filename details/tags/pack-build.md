@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -15,6 +15,7 @@
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
 - [2020-03-01-前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a) 
+- [2020-02-25-玩转-webpack，使你的打包速度提升-90%](https://www.ershicimi.com/p/0f14d23ade505af85b5e2f730e7fad88) 
 - [2020-03-17-微软-GitHub-宣布收购-npm：开源的-JavaScript-包管理服务](https://www.ershicimi.com/p/6ce4cd0a0cc16d563f37fdeff98298e3) 
 - [2020-03-17-从0开始发布一个无依赖、高质量的-npm-包](https://www.ershicimi.com/p/3e0cd57529652163feb69b7ab74a2344) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
@@ -24,5 +25,6 @@
 - [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de) 
 - [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e) 
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140) 
+- [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-19-构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web) 

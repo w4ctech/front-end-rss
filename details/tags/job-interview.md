@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://china.caixin.com/2020-02-22/101519091.html) 
+- [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2020-03-16-【招聘】阿里AE技术部前端招P6/P7、21届实习生](https://www.ershicimi.com/p/5d35fc589da902af028d13afb6cffb7b) 
 - [2020-03-15-【招聘】简单，真诚「阿里新零售CRO技术部大前端团队」春招实习！](https://www.ershicimi.com/p/e3456755c0f2355b2e7e5beffab7dd9a) 
 - [2020-03-14-【招聘】Alibaba-企业智能事业部招聘前端实习生啦](https://www.ershicimi.com/p/719ed51e602ec5f937169fbb7f03b99c) 
@@ -15,6 +16,8 @@
 - [2020-03-11-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/a3051f781bbeabdbf36d3a6670f2cd9d) 
 - [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e) 
 - [2020-03-12-腾讯PCG研发部招聘前端开发工程师](https://www.ershicimi.com/p/113ea73552b6f1448e052a312dbe2e50) 
+- [2020-03-03-【面试流水账】一年半经验前端年底求职路](https://www.ershicimi.com/p/7fb1da6fa92349c8c5cac08b204def89) 
+- [2020-02-29-十几家大厂前端面试总结（已拿网易-offer）-​](https://www.ershicimi.com/p/7502d7bba022b0725f1826dc133b5225) 
 - [2020-03-17-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/aff4341b89e9e0d5f678d5833e9152a2) 
 - [2020-03-01-面试常考手写代码学习技巧总结](https://www.ershicimi.com/p/4ba308a7ccbb8d80354182113127cc9b) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-20 01:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -783,6 +783,9 @@
 - [【印记中文周刊】2020-03-19-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
 - [【印记中文周刊】2020-03-19-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [【印记中文周刊】2020-03-19-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [【知乎日报】2020-03-19-「史上最强」的-iPad-Pro-2020-到底有多强？](https://www.ershicimi.com/p/140ba5f799910120ea6ab1c706b937ed) 
+- [【知乎日报】2020-03-19-《甄嬛传》里的人集体开播了，点击进入直播间](https://www.ershicimi.com/p/957ccb73d34160be9945f375962a9009) 
+- [【知乎日报】2020-03-19-知乎故事-|-早上醒来忽然发现自己是一个-AI-机器人……](https://www.ershicimi.com/p/3853f0c3907a70c09d61bc0f4c1a4157) 
 - [【知乎日报】2020-03-18-在恋爱乃至婚姻中，有哪些「残酷」的潜规则？](https://www.ershicimi.com/p/8466143b1585a5e33a1fdfc9cb847815) 
 - [【知乎日报】2020-03-18-伦敦大学惊现数学神人，打水漂「弹跳-88-次」破世界纪录，看完跪了……](https://www.ershicimi.com/p/c330eac0cca9101c8861821593505370) 
 - [【知乎日报】2020-03-18-知乎故事-|-我遇到了一只牙都掉光了的流浪猫](https://www.ershicimi.com/p/84e1d92ba19e06e2ff9d7520f104f71d) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 00:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 01:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,10 +50,10 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -874,6 +874,9 @@
 </summary>
 
 
+- [2020-03-19-「史上最强」的-iPad-Pro-2020-到底有多强？](https://www.ershicimi.com/p/140ba5f799910120ea6ab1c706b937ed) ![](assets/new.png)  
+- [2020-03-19-《甄嬛传》里的人集体开播了，点击进入直播间](https://www.ershicimi.com/p/957ccb73d34160be9945f375962a9009) ![](assets/new.png)  
+- [2020-03-19-知乎故事-|-早上醒来忽然发现自己是一个-AI-机器人……](https://www.ershicimi.com/p/3853f0c3907a70c09d61bc0f4c1a4157) ![](assets/new.png)  
 - [2020-03-18-在恋爱乃至婚姻中，有哪些「残酷」的潜规则？](https://www.ershicimi.com/p/8466143b1585a5e33a1fdfc9cb847815)  
 - [2020-03-18-伦敦大学惊现数学神人，打水漂「弹跳-88-次」破世界纪录，看完跪了……](https://www.ershicimi.com/p/c330eac0cca9101c8861821593505370)  
 - [2020-03-18-知乎故事-|-我遇到了一只牙都掉光了的流浪猫](https://www.ershicimi.com/p/84e1d92ba19e06e2ff9d7520f104f71d)  
@@ -895,15 +898,15 @@
 </summary>
 
 
-- [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424) ![](assets/new.png)  
-- [2020-03-20-Python-runs-smoothly-on-my-Surface-book](https://www.v2ex.com/t/654423) ![](assets/new.png)  
-- [2020-03-20-现在主流的防误判算法是哪种啊](https://www.v2ex.com/t/654422) ![](assets/new.png)  
-- [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421) ![](assets/new.png)  
-- [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420) ![](assets/new.png)  
-- [2020-03-19-号外！号外！-Affinity-Photo/Designer/Publisher-多平台全部半价了](https://www.v2ex.com/t/654419) ![](assets/new.png)  
-- [2020-03-19-该如何处理-iOS-的单机应用内购掉单？](https://www.v2ex.com/t/654418) ![](assets/new.png)  
-- [2020-03-19-北京/上海社招-饿了么招各岗位，-5-年及以上](https://www.v2ex.com/t/654417) ![](assets/new.png)  
-- [2020-03-19-Affinity-Photo-半价又来了](https://www.v2ex.com/t/654415) ![](assets/new.png)  
+- [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424)  
+- [2020-03-20-Python-runs-smoothly-on-my-Surface-book](https://www.v2ex.com/t/654423)  
+- [2020-03-20-现在主流的防误判算法是哪种啊](https://www.v2ex.com/t/654422)  
+- [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421)  
+- [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420)  
+- [2020-03-19-号外！号外！-Affinity-Photo/Designer/Publisher-多平台全部半价了](https://www.v2ex.com/t/654419)  
+- [2020-03-19-该如何处理-iOS-的单机应用内购掉单？](https://www.v2ex.com/t/654418)  
+- [2020-03-19-北京/上海社招-饿了么招各岗位，-5-年及以上](https://www.v2ex.com/t/654417)  
+- [2020-03-19-Affinity-Photo-半价又来了](https://www.v2ex.com/t/654415)  
 - [2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413)  
 - [2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412)  
 - [2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411)  
@@ -957,7 +960,7 @@
 </summary>
 
 
-- [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez) ![](assets/new.png)  
+- [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez)  
 - [2020-03-19-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp)  
 - [2020-03-19-详解用-Go-语言解析各种-HTTP-请求的方法](https://toutiao.io/k/w0p7jhi)  
 - [2020-03-19-Fabric-源码学习：如何实现批量管理远程服务器？](https://toutiao.io/k/ukswwsu)  

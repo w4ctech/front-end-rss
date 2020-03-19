@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1262,6 +1262,8 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-03-19-「史上最强」的-iPad-Pro-2020-到底有多强？](https://www.ershicimi.com/p/140ba5f799910120ea6ab1c706b937ed) 
+- [2020-03-19-知乎故事-|-早上醒来忽然发现自己是一个-AI-机器人……](https://www.ershicimi.com/p/3853f0c3907a70c09d61bc0f4c1a4157) 
 - [2020-03-18-在恋爱乃至婚姻中，有哪些「残酷」的潜规则？](https://www.ershicimi.com/p/8466143b1585a5e33a1fdfc9cb847815) 
 - [2020-03-18-伦敦大学惊现数学神人，打水漂「弹跳-88-次」破世界纪录，看完跪了……](https://www.ershicimi.com/p/c330eac0cca9101c8861821593505370) 
 - [2020-03-18-知乎故事-|-我遇到了一只牙都掉光了的流浪猫](https://www.ershicimi.com/p/84e1d92ba19e06e2ff9d7520f104f71d) 

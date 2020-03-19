@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 21:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 22:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -17,6 +17,8 @@
 - [2020-03-19-浅谈gitlab-ci分离部署方案](https://juejin.im/post/5e6f2f44f265da57602c6a30) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-03-19-git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399) 
+- [2020-03-19-Git-commit-plugin-For-Vscode-一款自动生成规范-git-提交信息的插件](https://www.v2ex.com/t/654391) 
 - [2020-03-19-请问如果通过-git-指令统计每个用户的代码贡献量](https://www.v2ex.com/t/654329) 
 - [2020-03-19-访问-GitHub-最近很不稳定啊，大家有没有什么好点的静态博客托管方案？](https://www.v2ex.com/t/654164) 
 - [2020-03-19-GitHub-中文榜置顶有感](https://www.v2ex.com/t/654117) 

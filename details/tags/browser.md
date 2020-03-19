@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 21:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 22:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,7 @@
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-19-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-19-ios-浏览器、webview-简直就是手机端的-IE6，你有同感吗？](https://www.v2ex.com/t/654392) 
 - [2020-03-19-云原生运行时安全框架——FALCO-入门](https://www.v2ex.com/t/654306) 
 - [2020-03-19-有没有用-EDGE-看-HBO-的？](https://www.v2ex.com/t/654161) 
 - [2020-03-19-阿里云安全团队内推](https://www.v2ex.com/t/654119) 

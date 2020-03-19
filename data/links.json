@@ -6702,6 +6702,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "全球确诊病例突破22万",
+        "link": "http://m.weibo.cn/3057540037/4484228739509179",
+        "date": "2020-03-19"
+      },
+      {
         "title": "墨西哥首例新冠肺炎死亡病例",
         "link": "http://m.weibo.cn/3057540037/4484210935027261",
         "date": "2020-03-19"
@@ -9050,6 +9055,16 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "前端高级进阶：网站的缓存控制策略最佳实践及注意事项",
+        "link": "https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "深入理解Javacript从作用域作用域链开始",
+        "link": "https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82",
+        "date": "2020-03-18"
+      },
+      {
         "title": "从构建进程间缓存设计谈Webpack5 优化和工作原理",
         "link": "https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de",
         "date": "2020-03-17"
@@ -9421,6 +9436,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "使用bpmn-js实现activiti的流程设计器",
+        "link": "https://juejin.im/post/5e7330c36fb9a07cd248ef00",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "浅谈gitlab-ci分离部署方案",
+        "link": "https://juejin.im/post/5e6f2f44f265da57602c6a30",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "“手把手”教你多语言翻译chrome插件",
+        "link": "https://juejin.im/post/5e70aa4ce51d4526fd06a1ce",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "简化微信小程序用户授权",
+        "link": "https://juejin.im/post/5e72f58ef265da57340260d1",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "美团面试准备",
+        "link": "https://juejin.im/post/5e673b81f265da57424b9e8b",
+        "date": "2020-03-19"
+      },
       {
         "title": "提升代码的可靠性之函数式编程",
         "link": "https://juejin.im/post/5e72c5eff265da57301c1411",
@@ -9941,6 +9981,101 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Python 实现延时任务",
+        "link": "https://www.v2ex.com/t/654318",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "大家有见过牛逼的二指弹程序员吗",
+        "link": "https://www.v2ex.com/t/654317",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "求一个 VUE 的图片上传组件，上传后可以选择图片，并对选择的图片可以排序的！",
+        "link": "https://www.v2ex.com/t/654316",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "django 的 时间过滤器 | 输出如下格式的时间： 2020-03-18T09:55:47",
+        "link": "https://www.v2ex.com/t/654315",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "求助一下，现在阿里云香港 https 还抽风吗？",
+        "link": "https://www.v2ex.com/t/654314",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "微信小店二次开发",
+        "link": "https://www.v2ex.com/t/654313",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Python 异步 Web 框架 Fastapi 怎么样,已经够成熟到商业项目了吗",
+        "link": "https://www.v2ex.com/t/654309",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "爱奇艺，腾讯那些电影视频都是怎么转码视频的？",
+        "link": "https://www.v2ex.com/t/654307",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "云原生运行时安全框架——FALCO 入门",
+        "link": "https://www.v2ex.com/t/654306",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "为什么树莓派的四核 Cortex-A53 跑桌面系统这么卡？",
+        "link": "https://www.v2ex.com/t/654305",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "阿里淘系前端实习生内推，学妹学弟们快到碗里来~",
+        "link": "https://www.v2ex.com/t/654303",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "如果禁止用户使用 ssh 跳转登录？",
+        "link": "https://www.v2ex.com/t/654302",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "使用 django 开发的网站，响应速度很慢怎么办",
+        "link": "https://www.v2ex.com/t/654301",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "微博数据疑似泄露",
+        "link": "https://www.v2ex.com/t/654300",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "大家在项目里使用 nsq 的姿势是?",
+        "link": "https://www.v2ex.com/t/654299",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "5Mpbs 的鹏博士小水管这几天打鸡血了",
+        "link": "https://www.v2ex.com/t/654298",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "信息管税谱新篇！税务自动化系统，让企业涉税管理更加高效",
+        "link": "https://www.v2ex.com/t/654297",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[东南亚蚂蚁金服] [深圳-akulaku 内推] [15~45k] 大量岗位等你来撩~",
+        "link": "https://www.v2ex.com/t/654296",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "请问公司网络访问不了家里的某个端口怎么查问题？",
+        "link": "https://www.v2ex.com/t/654294",
+        "date": "2020-03-19"
+      },
       {
         "title": "你们在 windows 上文本文件用 LF 还是 CRLF 结尾？",
         "link": "https://www.v2ex.com/t/654293",

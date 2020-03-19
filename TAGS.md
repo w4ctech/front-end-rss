@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-19 17:00:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 17:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -471,11 +471,11 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
+- [【奇舞周刊】前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)
 - [【前端日刊】Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
+- [【掘金前端】“手把手”教你多语言翻译chrome插件](https://juejin.im/post/5e70aa4ce51d4526fd06a1ce)
 - [【掘金前端】前端调试工具的使用（踩坑之路）](https://juejin.im/post/5e721f4b518825495853e141)
-- [【掘金前端】一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1)
-- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -504,6 +504,7 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
 - [【掘金前端】HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340)
+- [【V2EX】求助一下，现在阿里云香港-https-还抽风吗？](https://www.v2ex.com/t/654314)
 - [【V2EX】抖音如何去运营，抖音都有啥算法机制呢？求！](https://www.v2ex.com/t/654243)
 - [【V2EX】阿里巴巴供应链算法部门招人，机器学习方向-or-运筹学方向，社招或-2021-届实习生，部门直推😉](https://www.v2ex.com/t/654122)
 - [【开发者头条】看完这篇-HTTPS，和面试官扯皮就没问题了](https://toutiao.io/k/350kxl3)
@@ -551,6 +552,7 @@
 - [【前端日刊】高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【InfoQ】别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8)
+- [【掘金前端】浅谈gitlab-ci分离部署方案](https://juejin.im/post/5e6f2f44f265da57602c6a30)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】访问-GitHub-最近很不稳定啊，大家有没有什么好点的静态博客托管方案？](https://www.v2ex.com/t/654164)

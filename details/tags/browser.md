@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 17:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,12 +22,15 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-03-19-“手把手”教你多语言翻译chrome插件](https://juejin.im/post/5e70aa4ce51d4526fd06a1ce) 
 - [2020-03-19-前端调试工具的使用（踩坑之路）](https://juejin.im/post/5e721f4b518825495853e141) 
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-19-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-19-云原生运行时安全框架——FALCO-入门](https://www.v2ex.com/t/654306) 
 - [2020-03-19-有没有用-EDGE-看-HBO-的？](https://www.v2ex.com/t/654161) 
 - [2020-03-19-阿里云安全团队内推](https://www.v2ex.com/t/654119) 
 - [2020-03-19-yandex-昨天开始突然用不了-chrome-插件了怎么办？](https://www.v2ex.com/t/654103) 

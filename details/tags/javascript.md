@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 17:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,6 +84,7 @@
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
+- [2020-03-19-使用bpmn-js实现activiti的流程设计器](https://juejin.im/post/5e7330c36fb9a07cd248ef00) 
 - [2020-03-19-提升代码的可靠性之函数式编程](https://juejin.im/post/5e72c5eff265da57301c1411) 
 - [2020-03-19-2020年大前端面试题库+答案（第3章）-javaScript判断对象类型](https://juejin.im/post/5e72e7f06fb9a07ca714d70f) 
 - [2020-03-19-专题总结：this指向问题](https://juejin.im/post/5e73158cf265da5714164d78) 
@@ -111,6 +112,7 @@
 - [2020-03-19-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-19-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-19-Python-异步-Web-框架-Fastapi-怎么样,已经够成熟到商业项目了吗](https://www.v2ex.com/t/654309) 
 - [2020-03-19-PostgreSQL-用正则表达式对字符串进行截取的方法](https://www.v2ex.com/t/654241) 
 - [2020-03-19-从三十万观众中选出-30-个人作为中奖用户，还要在前端展示滚动抽奖的效果-，后台的思路应该是怎样的呢？](https://www.v2ex.com/t/654212) 
 - [2020-03-19-有没有工具配合无阻尼鼠标无阻滚动网页](https://www.v2ex.com/t/654189) 

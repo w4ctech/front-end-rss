@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 17:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -47,3 +47,4 @@
 - [2020-03-19-浅析Vue完整版和运行版的区别](https://juejin.im/post/5e721aed6fb9a07cd52bfd1b) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-03-19-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-03-19-求一个-VUE-的图片上传组件，上传后可以选择图片，并对选择的图片可以排序的！](https://www.v2ex.com/t/654316) 

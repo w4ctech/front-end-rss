@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-19 20:00:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 20:32:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -504,6 +504,7 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
 - [【掘金前端】HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340)
+- [【V2EX】滴滴出行-北京、杭州-前端/-Java-/Go/iOS/Android/-PHP-/C++/算法等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/654357)
 - [【V2EX】求助一下，现在阿里云香港-https-还抽风吗？](https://www.v2ex.com/t/654314)
 - [【V2EX】抖音如何去运营，抖音都有啥算法机制呢？求！](https://www.v2ex.com/t/654243)
 - [【V2EX】阿里巴巴供应链算法部门招人，机器学习方向-or-运筹学方向，社招或-2021-届实习生，部门直推😉](https://www.v2ex.com/t/654122)

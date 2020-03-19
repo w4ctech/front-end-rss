@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 23:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 00:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -895,26 +895,26 @@
 </summary>
 
 
-- [2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413) ![](assets/new.png)  
-- [2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412) ![](assets/new.png)  
-- [2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411) ![](assets/new.png)  
-- [2020-03-19-搞了个-VS-Code-插件，在源码和测试间跳转](https://www.v2ex.com/t/654410) ![](assets/new.png)  
-- [2020-03-19-重要的群聊中，为什么有些人要把一句话要分-3+次说](https://www.v2ex.com/t/654409) ![](assets/new.png)  
-- [2020-03-19-电脑上语音输出，有可行的方案吗？](https://www.v2ex.com/t/654408) ![](assets/new.png)  
-- [2020-03-19-2014-版-MBP-多少出合适啊](https://www.v2ex.com/t/654407) ![](assets/new.png)  
-- [2020-03-19-刚上手-typescript-这个类型我真不知道咋定义了！](https://www.v2ex.com/t/654406) ![](assets/new.png)  
-- [2020-03-19-QQ-邮箱-ios-端除了-QQ-自身邮件外，其他邮箱的邮件无法及时接收，大家有这种情况吗？](https://www.v2ex.com/t/654405) ![](assets/new.png)  
-- [2020-03-19-WGCLOUD-监控系统-v2.3.5，更新日志](https://www.v2ex.com/t/654404) ![](assets/new.png)  
-- [2020-03-19-小白问个问题，-ant-项目怎么在-eclipse-里用-tomcat-运行](https://www.v2ex.com/t/654403) ![](assets/new.png)  
-- [2020-03-19-iOS-游戏限免，阿尔托的奥德赛，迷你地铁](https://www.v2ex.com/t/654400)  
-- [2020-03-19-git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399)  
-- [2020-03-19-大佬指点下-Linux-文件修改替换原文件的方法](https://www.v2ex.com/t/654398)  
-- [2020-03-19-Mac-编译-XGBoost-for-Android](https://www.v2ex.com/t/654397)  
-- [2020-03-19-腾讯-IMWeb-团队招聘前端工程师！社招、校招、实习生统统都要！](https://www.v2ex.com/t/654396)  
-- [2020-03-19-武汉封城前的，半年回顾](https://www.v2ex.com/t/654395)  
-- [2020-03-19-有什么比较好的-app-抓包方式？-app-内部做了证书认证是不是就比较难-了？](https://www.v2ex.com/t/654394)  
-- [2020-03-19-分享一款-Web-组态编辑器](https://www.v2ex.com/t/654393)  
-- [2020-03-19-ios-浏览器、webview-简直就是手机端的-IE6，你有同感吗？](https://www.v2ex.com/t/654392)  
+- [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424) ![](assets/new.png)  
+- [2020-03-20-Python-runs-smoothly-on-my-Surface-book](https://www.v2ex.com/t/654423) ![](assets/new.png)  
+- [2020-03-20-现在主流的防误判算法是哪种啊](https://www.v2ex.com/t/654422) ![](assets/new.png)  
+- [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421) ![](assets/new.png)  
+- [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420) ![](assets/new.png)  
+- [2020-03-19-号外！号外！-Affinity-Photo/Designer/Publisher-多平台全部半价了](https://www.v2ex.com/t/654419) ![](assets/new.png)  
+- [2020-03-19-该如何处理-iOS-的单机应用内购掉单？](https://www.v2ex.com/t/654418) ![](assets/new.png)  
+- [2020-03-19-北京/上海社招-饿了么招各岗位，-5-年及以上](https://www.v2ex.com/t/654417) ![](assets/new.png)  
+- [2020-03-19-Affinity-Photo-半价又来了](https://www.v2ex.com/t/654415) ![](assets/new.png)  
+- [2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413)  
+- [2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412)  
+- [2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411)  
+- [2020-03-19-搞了个-VS-Code-插件，在源码和测试间跳转](https://www.v2ex.com/t/654410)  
+- [2020-03-19-重要的群聊中，为什么有些人要把一句话要分-3+次说](https://www.v2ex.com/t/654409)  
+- [2020-03-19-电脑上语音输出，有可行的方案吗？](https://www.v2ex.com/t/654408)  
+- [2020-03-19-2014-版-MBP-多少出合适啊](https://www.v2ex.com/t/654407)  
+- [2020-03-19-刚上手-typescript-这个类型我真不知道咋定义了！](https://www.v2ex.com/t/654406)  
+- [2020-03-19-QQ-邮箱-ios-端除了-QQ-自身邮件外，其他邮箱的邮件无法及时接收，大家有这种情况吗？](https://www.v2ex.com/t/654405)  
+- [2020-03-19-WGCLOUD-监控系统-v2.3.5，更新日志](https://www.v2ex.com/t/654404)  
+- [2020-03-19-小白问个问题，-ant-项目怎么在-eclipse-里用-tomcat-运行](https://www.v2ex.com/t/654403)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -957,6 +957,7 @@
 </summary>
 
 
+- [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez) ![](assets/new.png)  
 - [2020-03-19-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp)  
 - [2020-03-19-详解用-Go-语言解析各种-HTTP-请求的方法](https://toutiao.io/k/w0p7jhi)  
 - [2020-03-19-Fabric-源码学习：如何实现批量管理远程服务器？](https://toutiao.io/k/ukswwsu)  
@@ -976,7 +977,6 @@
 - [2020-03-19-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o)  
 - [2020-03-19-当查询的数据来自多个数据源，有哪些好的分页策略？](https://toutiao.io/k/081d7xs)  
 - [2020-03-19-新冠病毒横行，一些-WFH-在家办公的建议](https://toutiao.io/k/h2rrkch)  
-- [2020-03-19-C++-与-正则表达式](https://toutiao.io/k/eqkwkmu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

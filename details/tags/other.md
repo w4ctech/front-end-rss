@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1272,6 +1272,14 @@
 - [2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424) 
+- [2020-03-20-Python-runs-smoothly-on-my-Surface-book](https://www.v2ex.com/t/654423) 
+- [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421) 
+- [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420) 
+- [2020-03-19-号外！号外！-Affinity-Photo/Designer/Publisher-多平台全部半价了](https://www.v2ex.com/t/654419) 
+- [2020-03-19-该如何处理-iOS-的单机应用内购掉单？](https://www.v2ex.com/t/654418) 
+- [2020-03-19-北京/上海社招-饿了么招各岗位，-5-年及以上](https://www.v2ex.com/t/654417) 
+- [2020-03-19-Affinity-Photo-半价又来了](https://www.v2ex.com/t/654415) 
 - [2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412) 
 - [2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411) 
 - [2020-03-19-搞了个-VS-Code-插件，在源码和测试间跳转](https://www.v2ex.com/t/654410) 
@@ -1521,6 +1529,7 @@
 - [2020-03-19-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-19-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-19-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez) 
 - [2020-03-19-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp) 
 - [2020-03-19-Fabric-源码学习：如何实现批量管理远程服务器？](https://toutiao.io/k/ukswwsu) 
 - [2020-03-19-IoT-时代天猫精灵蓝牙技术大揭秘](https://toutiao.io/k/3221ztl) 

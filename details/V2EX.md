@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-03-19 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424) 
+- [2020-03-20-Python-runs-smoothly-on-my-Surface-book](https://www.v2ex.com/t/654423) 
+- [2020-03-20-现在主流的防误判算法是哪种啊](https://www.v2ex.com/t/654422) 
+- [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421) 
+- [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420) 
+- [2020-03-19-号外！号外！-Affinity-Photo/Designer/Publisher-多平台全部半价了](https://www.v2ex.com/t/654419) 
+- [2020-03-19-该如何处理-iOS-的单机应用内购掉单？](https://www.v2ex.com/t/654418) 
+- [2020-03-19-北京/上海社招-饿了么招各岗位，-5-年及以上](https://www.v2ex.com/t/654417) 
+- [2020-03-19-Affinity-Photo-半价又来了](https://www.v2ex.com/t/654415) 
 - [2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413) 
 - [2020-03-19-MBP14-寸的什么时候才出啊！](https://www.v2ex.com/t/654412) 
 - [2020-03-19-你想收到-Solidot,IT-之家和-Linux-中国的每日文章汇总邮件么?](https://www.v2ex.com/t/654411) 

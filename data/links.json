@@ -5,6 +5,31 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "特稿|一名新冠肺炎患者的意外离世",
+        "link": "http://china.caixin.com/2020-03-19/101531119.html",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "广东口岸防输入加大核酸检测面 入境者免费检测",
+        "link": "http://china.caixin.com/2020-03-19/101531104.html",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "澳籍华人女子返京不隔离 被限期离境",
+        "link": "http://china.caixin.com/2020-03-19/101531101.html",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "新加坡抗疫真相解读 大使剖析全政府架构",
+        "link": "http://international.caixin.com/2020-03-19/101531098.html",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "英国打法再升级宣布停课 德专家称病死率低勿自满",
+        "link": "http://international.caixin.com/2020-03-19/101531095.html",
+        "date": "2020-03-19"
+      },
+      {
         "title": "意大利单日新增475死达全球新高 病故者平均79.5岁",
         "link": "http://international.caixin.com/2020-03-19/101531080.html",
         "date": "2020-03-19"
@@ -9317,6 +9342,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "JavaScript 执行效率不行？因为你还没用 V8丨极客时间",
+        "link": "https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "78%  研发团队都面临这些“死亡”问题，你知道该如何解决吗？",
+        "link": "https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "什么时候，你会觉得自己离微软更近？",
+        "link": "https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "为什么 Windows 内核比其他系统慢",
+        "link": "https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "滴滴离线索引快速构建FastIndex架构实践",
+        "link": "https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f",
+        "date": "2020-03-19"
+      },
       {
         "title": "华为硬杠谷歌，开发者“夹缝求生”",
         "link": "https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff",

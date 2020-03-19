@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 18:30:31，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 19:00:16，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,11 @@
 </summary>
 
 
+- [2020-03-19-特稿|一名新冠肺炎患者的意外离世](http://china.caixin.com/2020-03-19/101531119.html) ![](assets/new.png)  
+- [2020-03-19-广东口岸防输入加大核酸检测面-入境者免费检测](http://china.caixin.com/2020-03-19/101531104.html) ![](assets/new.png)  
+- [2020-03-19-澳籍华人女子返京不隔离-被限期离境](http://china.caixin.com/2020-03-19/101531101.html) ![](assets/new.png)  
+- [2020-03-19-新加坡抗疫真相解读-大使剖析全政府架构](http://international.caixin.com/2020-03-19/101531098.html) ![](assets/new.png)  
+- [2020-03-19-英国打法再升级宣布停课-德专家称病死率低勿自满](http://international.caixin.com/2020-03-19/101531095.html) ![](assets/new.png)  
 - [2020-03-19-意大利单日新增475死达全球新高-病故者平均79.5岁](http://international.caixin.com/2020-03-19/101531080.html)  
 - [2020-03-19-恒河猴感染新冠病毒后自愈-抗体保护下未二次感染](http://china.caixin.com/2020-03-19/101530952.html)  
 - [2020-03-19-3月18日：166个国家和地区累计确诊新冠13.74万例](http://international.caixin.com/2020-03-19/101531042.html)  
@@ -78,11 +83,6 @@
 - [2020-03-19-肺炎日记|3月18日：海外游子如何避疫？](http://china.caixin.com/2020-03-19/101530804.html)  
 - [2020-03-19-河南应急响应级别降为二级-全国已有26省份调降](http://china.caixin.com/2020-03-19/101530794.html)  
 - [2020-03-19-疫情总动员，各地怎么做|干部带头消费-戴口罩有指引](http://china.caixin.com/2020-03-19/101530787.html)  
-- [2020-03-19-李克强同欧委会主席通话：支持欧洲抗疫-望保在欧国人安全](http://international.caixin.com/2020-03-19/101530771.html)  
-- [2020-03-18-专访中疾控邵一鸣：零号病人意义何在-不赞同疾控行政化](http://china.caixin.com/2020-03-18/101530202.html)  
-- [2020-03-18-北京机场国际航班将分流石家庄、天津等多地机场](http://companies.caixin.com/2020-03-18/101530287.html)  
-- [2020-03-18-3月17日：全国新冠累计确诊80894例-境外输入病例继续增加](http://china.caixin.com/2020-03-18/101530114.html)  
-- [2020-03-18-3月17日:156个国家和地区累计确诊新冠11.64万例-多国加大隔离管控力度](http://international.caixin.com/2020-03-18/101530257.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-03-19-俄罗斯出现首例新冠肺炎死亡病例](http://m.weibo.cn/2803301701/4484232300888684) ![](assets/new.png)  
+- [2020-03-19-俄罗斯出现首例新冠肺炎死亡病例](http://m.weibo.cn/2803301701/4484232300888684)  
 - [2020-03-19-全球确诊病例突破22万](http://m.weibo.cn/3057540037/4484228739509179)  
 - [2020-03-19-墨西哥首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4484210935027261)  
 - [2020-03-19-最近7日境外输入病例占新增总数的84.55%](http://m.weibo.cn/2656274875/4484208091551040)  
@@ -710,6 +710,11 @@
 </summary>
 
 
+- [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) ![](assets/new.png)  
+- [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca) ![](assets/new.png)  
+- [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536) ![](assets/new.png)  
+- [2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420) ![](assets/new.png)  
+- [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) ![](assets/new.png)  
 - [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff)  
 - [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489)  
 - [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323)  
@@ -755,7 +760,7 @@
 </summary>
 
 
-- [2020-03-19-🔥-从最近流行的一幅-CSS-风景画中学习-2-个知识点](https://juejin.im/post/5e733909f265da574112248c) ![](assets/new.png)  
+- [2020-03-19-🔥-从最近流行的一幅-CSS-风景画中学习-2-个知识点](https://juejin.im/post/5e733909f265da574112248c)  
 - [2020-03-19-使用bpmn-js实现activiti的流程设计器](https://juejin.im/post/5e7330c36fb9a07cd248ef00)  
 - [2020-03-19-浅谈gitlab-ci分离部署方案](https://juejin.im/post/5e6f2f44f265da57602c6a30)  
 - [2020-03-19-“手把手”教你多语言翻译chrome插件](https://juejin.im/post/5e70aa4ce51d4526fd06a1ce)  
@@ -890,26 +895,26 @@
 </summary>
 
 
-- [2020-03-19-给-V-友强推《真探第一季》！心头好美剧第二名，第一是老友记](https://www.v2ex.com/t/654343) ![](assets/new.png)  
-- [2020-03-19-Facebook-扩招下，这类面试题难住一片人…](https://www.v2ex.com/t/654341) ![](assets/new.png)  
-- [2020-03-19-MacBook-Pro-的价格真是贵。。。各位用这个所谓的生产力工具-“额外”-创造了多少钱的价值了？？？](https://www.v2ex.com/t/654340) ![](assets/new.png)  
-- [2020-03-19-请问-iOS-中，用手机修改同步盘中的-markdown-文件，有什么推荐的嘛？](https://www.v2ex.com/t/654338) ![](assets/new.png)  
-- [2020-03-19-北京/上海字节跳动-AI-Lab-后台开发工程师-社招&实习](https://www.v2ex.com/t/654337) ![](assets/new.png)  
-- [2020-03-19-有道云笔记的-web-版-一塌糊涂!-永远是显示-'我们遇到了一些小问题'](https://www.v2ex.com/t/654336) ![](assets/new.png)  
-- [2020-03-19-字节跳动-深圳-移动平台，等你来~！实习也可以哦~](https://www.v2ex.com/t/654334) ![](assets/new.png)  
-- [2020-03-19-外包公司到底能不能去啊](https://www.v2ex.com/t/654333) ![](assets/new.png)  
-- [2020-03-19-管泽元解说是真的恶心-太偏心-IG-了。](https://www.v2ex.com/t/654332) ![](assets/new.png)  
-- [2020-03-19-罗永浩宣布要进军直播带货界…](https://www.v2ex.com/t/654331) ![](assets/new.png)  
-- [2020-03-19-请问如果通过-git-指令统计每个用户的代码贡献量](https://www.v2ex.com/t/654329) ![](assets/new.png)  
-- [2020-03-19-关于-apache-poi-操作-ppt-遇到的问题](https://www.v2ex.com/t/654328) ![](assets/new.png)  
-- [2020-03-19-最近公司几台电脑遇到了一个与-DNS-相关的奇怪问题](https://www.v2ex.com/t/654327) ![](assets/new.png)  
-- [2020-03-19-有没有小伙伴分享一下日剧韩剧的网站](https://www.v2ex.com/t/654326) ![](assets/new.png)  
-- [2020-03-19-微信小程序之虚拟手环](https://www.v2ex.com/t/654325) ![](assets/new.png)  
-- [2020-03-19-迷之问题！与银行对接，说在-APP-内支付，可以调起微信小程序直接支付？](https://www.v2ex.com/t/654324) ![](assets/new.png)  
-- [2020-03-19-微信小店，简单的二次开发-，有接的吗？](https://www.v2ex.com/t/654323) ![](assets/new.png)  
-- [2020-03-19-Windows-远程桌面连接时间久了之后电脑巨卡的解决方法](https://www.v2ex.com/t/654322) ![](assets/new.png)  
-- [2020-03-19-2020-新冠疫情对大家影响大吗](https://www.v2ex.com/t/654321) ![](assets/new.png)  
-- [2020-03-19-请问有什么比较好的墙后-app-和网站推荐？](https://www.v2ex.com/t/654319) ![](assets/new.png)  
+- [2020-03-19-给-V-友强推《真探第一季》！心头好美剧第二名，第一是老友记](https://www.v2ex.com/t/654343)  
+- [2020-03-19-Facebook-扩招下，这类面试题难住一片人…](https://www.v2ex.com/t/654341)  
+- [2020-03-19-MacBook-Pro-的价格真是贵。。。各位用这个所谓的生产力工具-“额外”-创造了多少钱的价值了？？？](https://www.v2ex.com/t/654340)  
+- [2020-03-19-请问-iOS-中，用手机修改同步盘中的-markdown-文件，有什么推荐的嘛？](https://www.v2ex.com/t/654338)  
+- [2020-03-19-北京/上海字节跳动-AI-Lab-后台开发工程师-社招&实习](https://www.v2ex.com/t/654337)  
+- [2020-03-19-有道云笔记的-web-版-一塌糊涂!-永远是显示-'我们遇到了一些小问题'](https://www.v2ex.com/t/654336)  
+- [2020-03-19-字节跳动-深圳-移动平台，等你来~！实习也可以哦~](https://www.v2ex.com/t/654334)  
+- [2020-03-19-外包公司到底能不能去啊](https://www.v2ex.com/t/654333)  
+- [2020-03-19-管泽元解说是真的恶心-太偏心-IG-了。](https://www.v2ex.com/t/654332)  
+- [2020-03-19-罗永浩宣布要进军直播带货界…](https://www.v2ex.com/t/654331)  
+- [2020-03-19-请问如果通过-git-指令统计每个用户的代码贡献量](https://www.v2ex.com/t/654329)  
+- [2020-03-19-关于-apache-poi-操作-ppt-遇到的问题](https://www.v2ex.com/t/654328)  
+- [2020-03-19-最近公司几台电脑遇到了一个与-DNS-相关的奇怪问题](https://www.v2ex.com/t/654327)  
+- [2020-03-19-有没有小伙伴分享一下日剧韩剧的网站](https://www.v2ex.com/t/654326)  
+- [2020-03-19-微信小程序之虚拟手环](https://www.v2ex.com/t/654325)  
+- [2020-03-19-迷之问题！与银行对接，说在-APP-内支付，可以调起微信小程序直接支付？](https://www.v2ex.com/t/654324)  
+- [2020-03-19-微信小店，简单的二次开发-，有接的吗？](https://www.v2ex.com/t/654323)  
+- [2020-03-19-Windows-远程桌面连接时间久了之后电脑巨卡的解决方法](https://www.v2ex.com/t/654322)  
+- [2020-03-19-2020-新冠疫情对大家影响大吗](https://www.v2ex.com/t/654321)  
+- [2020-03-19-请问有什么比较好的墙后-app-和网站推荐？](https://www.v2ex.com/t/654319)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

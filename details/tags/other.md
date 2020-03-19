@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-03-19 18:30:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 19:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-19-广东口岸防输入加大核酸检测面-入境者免费检测](http://china.caixin.com/2020-03-19/101531104.html) 
+- [2020-03-19-澳籍华人女子返京不隔离-被限期离境](http://china.caixin.com/2020-03-19/101531101.html) 
+- [2020-03-19-新加坡抗疫真相解读-大使剖析全政府架构](http://international.caixin.com/2020-03-19/101531098.html) 
+- [2020-03-19-英国打法再升级宣布停课-德专家称病死率低勿自满](http://international.caixin.com/2020-03-19/101531095.html) 
 - [2020-03-19-意大利单日新增475死达全球新高-病故者平均79.5岁](http://international.caixin.com/2020-03-19/101531080.html) 
 - [2020-03-19-恒河猴感染新冠病毒后自愈-抗体保护下未二次感染](http://china.caixin.com/2020-03-19/101530952.html) 
 - [2020-03-19-3月18日：166个国家和地区累计确诊新冠13.74万例](http://international.caixin.com/2020-03-19/101531042.html) 
@@ -1203,6 +1207,9 @@
 - [2020-03-16-什么才是真正的架构设计？](https://www.ershicimi.com/p/3be7db3547b32e7b04faccade1a4f03d) 
 - [2020-03-16-手把手教你SpringBoot+MyBatis+Shiro-搭建项目框架](https://www.ershicimi.com/p/2c4bb7dfa2b3422efc7032cfb1101a46) 
 - [2020-03-16-老板放过我吧！我Java8还没用呢，又让我学习Java14](https://www.ershicimi.com/p/9cfc675ef4a8ec391f416ea095797683) 
+- [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca) 
+- [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536) 
+- [2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420) 
 - [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff) 
 - [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489) 
 - [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323) 

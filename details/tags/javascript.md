@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -69,6 +69,7 @@
 - [2020-03-07-忍法，scroll-翻滚之术！](https://www.ershicimi.com/p/23227d5542faae5371b2bb0467ad53d3) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
+- [2020-03-19-上次24个实用-ES6-方法受到好评，这次再来-10个](https://juejin.im/post/5e72b591e51d45270d532f6c) 
 - [2020-03-19-5分钟教你使用console.log发布公司的招聘信息](https://juejin.im/post/5e725563f265da57602c6eb6) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
@@ -88,7 +89,10 @@
 - [2020-03-19-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-03-19-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-19-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-03-19-javascript-1.x-version-的-Server-Side-是什么概念？](https://www.v2ex.com/t/654129) 
 - [2020-03-19-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-19-C++-与-正则表达式](https://toutiao.io/k/eqkwkmu) 
+- [2020-03-19-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) 
 - [2020-03-19-译-7-个简单但棘手的-JavaScript-面试问题](https://toutiao.io/k/0cinbno) 
 - [2020-03-19-京东-App-适配-iOS-暗黑模式业务实践](https://toutiao.io/k/drbfx1z) 
 - [2020-03-19-推荐-Spring-Boot-2-整合-Kafka-组件，应用案例和流程详解](https://toutiao.io/k/8i1q3ik) 

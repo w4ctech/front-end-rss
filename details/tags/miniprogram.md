@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/) 
@@ -28,3 +29,4 @@
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-03-19-小程序里如何跳其他视频网站呀](https://www.v2ex.com/t/654127) 

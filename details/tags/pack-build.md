@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,6 +13,7 @@
 - [2020-03-18-Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6) 
 - [2020-03-12-前端高级进阶：在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/8c06f04a65773fea00eb0c164aff5afb) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
+- [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
 - [2020-03-01-前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a) 
 - [2020-03-17-微软-GitHub-宣布收购-npm：开源的-JavaScript-包管理服务](https://www.ershicimi.com/p/6ce4cd0a0cc16d563f37fdeff98298e3) 
 - [2020-03-17-从0开始发布一个无依赖、高质量的-npm-包](https://www.ershicimi.com/p/3e0cd57529652163feb69b7ab74a2344) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 09:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,15 +7,7 @@
 
 
 
-- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
-- [2020-03-02-我写CSS的常用套路附demo的效果实现与源码）](https://www.ershicimi.com/p/d60b55fe30cb9c791e751340d9217d1f) 
 - [2020-03-13-CSS-故障艺术](https://www.ershicimi.com/p/7634e8cbeff293914634df23e12fc707) 
-- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) 
-- [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/) 
-- [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) 
-- [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/) 
-- [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/) 
-- [2020-01-15-CSS-grid-auto-flow深入理解](https://www.zhangxinxu.com/wordpress/2020/01/css-grid-auto-flow/) 
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) 
 - [2018-03-06-动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/) 
@@ -33,8 +25,8 @@
 - [2016-05-06-CSS3动画之3D动画](https://aotu.io/notes/2016/05/06/CSS3-3D-Animation/) 
 - [2016-01-04-CSS3动画实践](https://aotu.io/notes/2016/01/04/css3-animation/) 
 - [2015-12-09-【译】介绍Sass-Maps：用法跟例子](https://aotu.io/notes/2015/12/09/an-introduction-to-sass-maps/) 
-- [2015-11-23-以电影之眼看CSS3动画（一）](https://aotu.io/notes/2015/11/23/css3-animation-to-movie-part_1/) 
 - [2015-11-23-以电影之眼看CSS3动画（二）](https://aotu.io/notes/2015/11/23/css3-animation-to-movie-part_2/) 
+- [2015-11-23-以电影之眼看CSS3动画（一）](https://aotu.io/notes/2015/11/23/css3-animation-to-movie-part_1/) 
 - [2015-11-08-css层叠顺序探究](https://aotu.io/notes/2015/11/08/css-stack-order/) 
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
@@ -45,6 +37,6 @@
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-- [2020-03-18-问一个程序员可能很少注意的问题（关于-Display-P3-色彩模式）](https://www.v2ex.com/t/653757) 
-- [2020-03-18-推荐-17-个场景，带你入门-CSS-布局](https://toutiao.io/k/uiq7r5p) 
-- [2020-03-18-译-Serverless-可观察性的最佳实践](https://toutiao.io/k/q64qd4h) 
+- [2020-03-19-阿里巴巴云原生应用平台团队-校招开启（分布式系统，-Serverless-基础架构，“双十一”技术大底盘，顶级场景-+-海量-HC）](https://www.v2ex.com/t/654086) 
+- [2020-03-18-安卓的-webview-内核不支持-css-十六进制颜色附加透明度的写法？](https://www.v2ex.com/t/654060) 
+- [2020-03-19-推荐-17-个场景，带你入门-CSS-布局](https://toutiao.io/k/uiq7r5p) 

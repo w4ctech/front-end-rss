@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 09:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,4 +15,3 @@
 - [2020-03-10-Vue如何实现疫情地图展示](https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25) 
 - [2020-03-09-React，想说爱你，并不容易](https://www.ershicimi.com/p/42a9014ed93cd5d26dc34d2bbcd4328c) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
-- [2020-03-07-Nginx配置Https零基础教程](https://www.ershicimi.com/p/2d65466154cde3563c34a8391491902e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-18 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 09:41:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,9 +7,6 @@
 
 
 
-- [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
-- [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
-- [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/) 
@@ -30,8 +27,4 @@
 - [2017-01-19-微信小程序跨页面通信解决思路](https://aotu.io/notes/2017/01/19/wxapp-event/) 
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
-- [2020-03-03-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338) 
-- [2020-03-18-小程序开发经验总结](https://juejin.im/post/5e71891c5188254967069840) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-03-18-Android-支付宝更新到最新版后，首页第一行被强制放置了几个不能删除的小程序](https://www.v2ex.com/t/653852) 
-- [2020-03-18-WebStorm-开发微信小程序如何在-wxml-文件中开启标签折叠/展开功能？](https://www.v2ex.com/t/653822) 

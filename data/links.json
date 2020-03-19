@@ -7426,6 +7426,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "JavaScript 执行效率不行？因为你还没用 V8 | 极客时间",
+        "link": "https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "构建前端安全生产体系，最快5分钟定位故障",
+        "link": "https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "六个提升前端开发效率的工具",
+        "link": "https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef",
+        "date": "2020-03-18"
+      },
+      {
         "title": "GitHub正式收购npm，这对开发者意味着什么？",
         "link": "https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5",
         "date": "2020-03-17"
@@ -7772,6 +7787,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "所谓前端工程化，究竟是什么？",
+        "link": "https://www.ershicimi.com/p/fd6833c456cf647bd7bb988ac96f3408",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "从 JavaScript 发展历史中聊 ECMAScript(ES6-ES11) 新功能",
+        "link": "https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e",
+        "date": "2020-03-19"
+      },
       {
         "title": "各种场景唤起 App 骚操作",
         "link": "https://www.ershicimi.com/p/425cc2b898c8c48338573115b4d88b79",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 14:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -47,6 +47,7 @@
 - [2020-02-28-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/8eb3fc9d3f6435a92a378b947fe1a8fa) 
 - [2020-02-27-ES6-之-Proxy-巧用，涨知识了！](https://www.ershicimi.com/p/1502eda9e061d27757a92cf9058d9bf7) 
 - [2020-02-26-大话-JS-单线程与异步](https://www.ershicimi.com/p/b18b14421d99d26505b42d8a40458ea6) 
+- [2020-03-19-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e) 
 - [2020-02-27-实现一个二叉搜索树（JavaScript-版）](https://www.ershicimi.com/p/edf15a8c80e830e02da1d284e0f9464e) 
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) 
 - [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) 

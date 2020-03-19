@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 14:30:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-19 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -561,6 +561,9 @@
 - [【前端大学】2020-03-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/f1462e63db57d6025039eee281feeb50) 
 - [【前端大学】2020-03-12-Vue人人都会，你的优势应该在哪里？](https://www.ershicimi.com/p/f9317176a7335108c8adb3327645b362) 
 - [【前端大学】2020-03-12-2020年2月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/914ef8fa2321a5a921c623e7de518645) 
+- [【前端之巅】2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) 
+- [【前端之巅】2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) 
+- [【前端之巅】2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef) 
 - [【前端之巅】2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
 - [【前端之巅】2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee) 
 - [【前端之巅】2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38) 
@@ -611,6 +614,8 @@
 - [【前端瓶子君】2020-03-04-【干货】蚂蚁前端研发最佳实践](https://www.ershicimi.com/p/2b8a9bce187c6d2b5d459e77b943bbb1) 
 - [【前端瓶子君】2020-03-03-【面试流水账】一年半经验前端年底求职路](https://www.ershicimi.com/p/7fb1da6fa92349c8c5cac08b204def89) 
 - [【前端瓶子君】2020-03-02-我写CSS的常用套路附demo的效果实现与源码）](https://www.ershicimi.com/p/d60b55fe30cb9c791e751340d9217d1f) 
+- [【程序员成长指北】2020-03-19-所谓前端工程化，究竟是什么？](https://www.ershicimi.com/p/fd6833c456cf647bd7bb988ac96f3408) 
+- [【程序员成长指北】2020-03-19-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e) 
 - [【程序员成长指北】2020-03-18-各种场景唤起-App-骚操作](https://www.ershicimi.com/p/425cc2b898c8c48338573115b4d88b79) 
 - [【程序员成长指北】2020-03-17-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/aff4341b89e9e0d5f678d5833e9152a2) 
 - [【程序员成长指北】2020-03-17-微软-GitHub-宣布收购-npm：开源的-JavaScript-包管理服务](https://www.ershicimi.com/p/6ce4cd0a0cc16d563f37fdeff98298e3) 

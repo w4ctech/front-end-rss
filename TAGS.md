@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-19 14:30:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -135,6 +135,7 @@
 - [【前端开发】Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6)
 - [【前端开发】前端高级进阶：在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/8c06f04a65773fea00eb0c164aff5afb)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
+- [【前端之巅】构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20)
 - [【前端之巅】GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5)
 - [【政采云前端团队】前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a)
 - [【前端宇宙】带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/2315743abca793d93b217bc974bcd451)
@@ -148,7 +149,6 @@
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【奇舞周刊】从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de)
 - [【奇舞周刊】webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)
-- [【前端日刊】npm-is-joining-GitHub](https://www.ershicimi.com/p/40e5a64fcae42bbe5088577ee6b3684c)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -167,6 +167,7 @@
 
 - [【Vue中文社区】JavaScript-执行效率不行？因为你还没用-V8](https://www.ershicimi.com/p/9a50758d4590864befa30a3a8810f2f4)
 - [【前端早读课】所以，V8-引擎到底是如何工作的？](https://www.ershicimi.com/p/184f3d2bd09bd3169e26fa6c99999dd1)
+- [【前端之巅】JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93)
 - [【前端之巅】性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38)
 - [【前端迷】学习-koa-源码的整体架构，浅析koa洋葱模型原理和co原理](https://www.ershicimi.com/p/a89e62c16fb756e61e688e736640b281)
 - [【前端迷】阿里-AliExpress-21届春季实习正式启动！](https://www.ershicimi.com/p/c8df3978aae1b916d70eadd5d037d680)
@@ -184,7 +185,6 @@
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【JavaScript】NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57)
-- [【JavaScript】Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

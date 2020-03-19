@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 14:30:13，:rocket: 更新条数: +33， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 15:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,13 +28,13 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-19-加拿大将投入逾4000亿应急-美加边境首度限制非必要往来](http://international.caixin.com/2020-03-19/101530914.html) ![](assets/new.png)  
-- [2020-03-19-7天新增1万例确诊-西班牙是如何错过最佳防疫窗口的](http://international.caixin.com/2020-03-19/101530892.html) ![](assets/new.png)  
+- [2020-03-19-加拿大将投入逾4000亿应急-美加边境首度限制非必要往来](http://international.caixin.com/2020-03-19/101530914.html)  
+- [2020-03-19-7天新增1万例确诊-西班牙是如何错过最佳防疫窗口的](http://international.caixin.com/2020-03-19/101530892.html)  
 - [2020-03-18-【图集】武汉东湖樱花烂漫-向援鄂医护人员免费开放](http://photos.caixin.com/2020-03-18/101530719.html)  
 - [2020-03-18-【图集】援鄂医疗队分批撤离-登“凯旋门”乘“胜利号”回家](http://photos.caixin.com/2020-03-18/101530700.html)  
 - [2020-03-19-美国新增病例增长提速-纽交所将暂时关闭交易大厅](http://international.caixin.com/2020-03-19/101530860.html)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-03-19-北京新增报告境外输入确诊病例1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200319_1722077.html) ![](assets/new.png)  
+- [2020-03-19-北京新增报告境外输入确诊病例1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200319_1722077.html)  
 - [2020-03-19-美国单日新增2769例新冠肺炎](http://m.weibo.cn/2803301701/4484147148086827)  
 - [2020-03-19-全国新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/e644c2fc18b4448db7ed4b30f68b91a6.shtml)  
 - [2020-03-19-韩国单日新增确诊数再破百](http://m.weibo.cn/2656274875/4484121617677145)  
@@ -358,6 +358,9 @@
 </summary>
 
 
+- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) ![](assets/new.png)  
+- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) ![](assets/new.png)  
+- [2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef) ![](assets/new.png)  
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5)  
 - [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee)  
 - [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38)  
@@ -485,6 +488,8 @@
 </summary>
 
 
+- [2020-03-19-所谓前端工程化，究竟是什么？](https://www.ershicimi.com/p/fd6833c456cf647bd7bb988ac96f3408) ![](assets/new.png)  
+- [2020-03-19-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e) ![](assets/new.png)  
 - [2020-03-18-各种场景唤起-App-骚操作](https://www.ershicimi.com/p/425cc2b898c8c48338573115b4d88b79)  
 - [2020-03-17-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/aff4341b89e9e0d5f678d5833e9152a2)  
 - [2020-03-17-微软-GitHub-宣布收购-npm：开源的-JavaScript-包管理服务](https://www.ershicimi.com/p/6ce4cd0a0cc16d563f37fdeff98298e3)  
@@ -743,7 +748,7 @@
 </summary>
 
 
-- [2020-03-19-with/try-catch/eval改变作用域链](https://juejin.im/post/5e72fa2f6fb9a07ccd51a978) ![](assets/new.png)  
+- [2020-03-19-with/try-catch/eval改变作用域链](https://juejin.im/post/5e72fa2f6fb9a07ccd51a978)  
 - [2020-03-19-介绍几个代码实际开发中很实用的工具](https://juejin.im/post/5e72f2e36fb9a07cb96b0d1c)  
 - [2020-03-19-JavaScript中的浅拷贝-VS-深拷贝](https://juejin.im/post/5e72f2246fb9a07c820fcb87)  
 - [2020-03-19-前端调试工具的使用（踩坑之路）](https://juejin.im/post/5e721f4b518825495853e141)  
@@ -878,25 +883,25 @@
 </summary>
 
 
-- [2020-03-19-深圳15k-35k欢迎热爱技术的小伙伴加入我们！我们团队的职位向大家开放~](https://www.v2ex.com/t/654234) ![](assets/new.png)  
-- [2020-03-19-v2ex-刚刚炸了一分钟左右](https://www.v2ex.com/t/654233) ![](assets/new.png)  
-- [2020-03-19-第三方安卓-ROM-哪家强？](https://www.v2ex.com/t/654231) ![](assets/new.png)  
-- [2020-03-19-如何实现局域网内两个-NAT-网络之间的通信？](https://www.v2ex.com/t/654230) ![](assets/new.png)  
-- [2020-03-19-SQL-语句求助，如果通过关联子表找到父表？](https://www.v2ex.com/t/654229) ![](assets/new.png)  
-- [2020-03-19-如何以最小成本搭建一个在线教育平台，给老师上传视频，设置作业，批改作业，学生看视频做作业，家长能看到成绩。](https://www.v2ex.com/t/654228) ![](assets/new.png)  
-- [2020-03-19-考研二战失败，错过校招，现在下面应该怎么选？。。](https://www.v2ex.com/t/654227) ![](assets/new.png)  
-- [2020-03-19-2020.3.19-求一个印度区车夫-美区账号想乘车](https://www.v2ex.com/t/654226) ![](assets/new.png)  
-- [2020-03-19-PS5-发了个-Tech-Spec，真无聊！](https://www.v2ex.com/t/654225) ![](assets/new.png)  
-- [2020-03-19-記-PayPal「疑似風控」,-Apple-Support,-Paypal-客服互相踢皮球.](https://www.v2ex.com/t/654224) ![](assets/new.png)  
-- [2020-03-19-甲骨文韩国回程已切为-CN2-GIA！](https://www.v2ex.com/t/654223) ![](assets/new.png)  
-- [2020-03-19-台式机-F1-到-F10-失效，怎么办。。](https://www.v2ex.com/t/654221) ![](assets/new.png)  
-- [2020-03-19-有一个-redis-非实时处理用户消费信息-，现在还需要统计用户消费，出现误差，该怎么取舍](https://www.v2ex.com/t/654220) ![](assets/new.png)  
-- [2020-03-19-经常逛网易，从网友评论发现网友都好性压抑](https://www.v2ex.com/t/654219) ![](assets/new.png)  
-- [2020-03-19-冒险在闲鱼淘了一条广州电信-100m-纯宽带，-780-元/18-个月，分享一下具体情况](https://www.v2ex.com/t/654218) ![](assets/new.png)  
-- [2020-03-19-VSCode-远程自动无法自动保存](https://www.v2ex.com/t/654217) ![](assets/new.png)  
-- [2020-03-19-杭州阿里巴巴-2021-届实习生招聘](https://www.v2ex.com/t/654216) ![](assets/new.png)  
-- [2020-03-19-阿里云-SRE-团队实习直招|包实时进度反馈](https://www.v2ex.com/t/654214) ![](assets/new.png)  
-- [2020-03-19-远程-硅谷科技初创招视觉设计/美工](https://www.v2ex.com/t/654213) ![](assets/new.png)  
+- [2020-03-19-深圳15k-35k欢迎热爱技术的小伙伴加入我们！我们团队的职位向大家开放~](https://www.v2ex.com/t/654234)  
+- [2020-03-19-v2ex-刚刚炸了一分钟左右](https://www.v2ex.com/t/654233)  
+- [2020-03-19-第三方安卓-ROM-哪家强？](https://www.v2ex.com/t/654231)  
+- [2020-03-19-如何实现局域网内两个-NAT-网络之间的通信？](https://www.v2ex.com/t/654230)  
+- [2020-03-19-SQL-语句求助，如果通过关联子表找到父表？](https://www.v2ex.com/t/654229)  
+- [2020-03-19-如何以最小成本搭建一个在线教育平台，给老师上传视频，设置作业，批改作业，学生看视频做作业，家长能看到成绩。](https://www.v2ex.com/t/654228)  
+- [2020-03-19-考研二战失败，错过校招，现在下面应该怎么选？。。](https://www.v2ex.com/t/654227)  
+- [2020-03-19-2020.3.19-求一个印度区车夫-美区账号想乘车](https://www.v2ex.com/t/654226)  
+- [2020-03-19-PS5-发了个-Tech-Spec，真无聊！](https://www.v2ex.com/t/654225)  
+- [2020-03-19-記-PayPal「疑似風控」,-Apple-Support,-Paypal-客服互相踢皮球.](https://www.v2ex.com/t/654224)  
+- [2020-03-19-甲骨文韩国回程已切为-CN2-GIA！](https://www.v2ex.com/t/654223)  
+- [2020-03-19-台式机-F1-到-F10-失效，怎么办。。](https://www.v2ex.com/t/654221)  
+- [2020-03-19-有一个-redis-非实时处理用户消费信息-，现在还需要统计用户消费，出现误差，该怎么取舍](https://www.v2ex.com/t/654220)  
+- [2020-03-19-经常逛网易，从网友评论发现网友都好性压抑](https://www.v2ex.com/t/654219)  
+- [2020-03-19-冒险在闲鱼淘了一条广州电信-100m-纯宽带，-780-元/18-个月，分享一下具体情况](https://www.v2ex.com/t/654218)  
+- [2020-03-19-VSCode-远程自动无法自动保存](https://www.v2ex.com/t/654217)  
+- [2020-03-19-杭州阿里巴巴-2021-届实习生招聘](https://www.v2ex.com/t/654216)  
+- [2020-03-19-阿里云-SRE-团队实习直招|包实时进度反馈](https://www.v2ex.com/t/654214)  
+- [2020-03-19-远程-硅谷科技初创招视觉设计/美工](https://www.v2ex.com/t/654213)  
 - [2020-03-19-从三十万观众中选出-30-个人作为中奖用户，还要在前端展示滚动抽奖的效果-，后台的思路应该是怎样的呢？](https://www.v2ex.com/t/654212)  
 - [......【查看更多】......](./details/V2EX.md)
 
@@ -940,16 +945,16 @@
 </summary>
 
 
-- [2020-03-19-详解用-Go-语言解析各种-HTTP-请求的方法](https://toutiao.io/k/w0p7jhi) ![](assets/new.png)  
-- [2020-03-19-Fabric-源码学习：如何实现批量管理远程服务器？](https://toutiao.io/k/ukswwsu) ![](assets/new.png)  
-- [2020-03-19-看完这篇-HTTPS，和面试官扯皮就没问题了](https://toutiao.io/k/350kxl3) ![](assets/new.png)  
-- [2020-03-19-IoT-时代天猫精灵蓝牙技术大揭秘](https://toutiao.io/k/3221ztl) ![](assets/new.png)  
-- [2020-03-19-开源一段-Mac-批量压缩图片的脚本](https://toutiao.io/k/gcdb4wx) ![](assets/new.png)  
-- [2020-03-19-最好用的-web-端代码文本编辑器-ACE](https://toutiao.io/k/ep81xdt) ![](assets/new.png)  
-- [2020-03-19-.NET-WinDbg-调试流程](https://toutiao.io/k/v2qfelk) ![](assets/new.png)  
-- [2020-03-19-一个优秀的-Push-平台，需要经历怎样的前世今生](https://toutiao.io/k/r5ft5dk) ![](assets/new.png)  
-- [2020-03-19-在-TS-中你踩过默认值的坑么？给-??-运算符把坑填了](https://toutiao.io/k/ox2o23r) ![](assets/new.png)  
-- [2020-03-19-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w) ![](assets/new.png)  
+- [2020-03-19-详解用-Go-语言解析各种-HTTP-请求的方法](https://toutiao.io/k/w0p7jhi)  
+- [2020-03-19-Fabric-源码学习：如何实现批量管理远程服务器？](https://toutiao.io/k/ukswwsu)  
+- [2020-03-19-看完这篇-HTTPS，和面试官扯皮就没问题了](https://toutiao.io/k/350kxl3)  
+- [2020-03-19-IoT-时代天猫精灵蓝牙技术大揭秘](https://toutiao.io/k/3221ztl)  
+- [2020-03-19-开源一段-Mac-批量压缩图片的脚本](https://toutiao.io/k/gcdb4wx)  
+- [2020-03-19-最好用的-web-端代码文本编辑器-ACE](https://toutiao.io/k/ep81xdt)  
+- [2020-03-19-.NET-WinDbg-调试流程](https://toutiao.io/k/v2qfelk)  
+- [2020-03-19-一个优秀的-Push-平台，需要经历怎样的前世今生](https://toutiao.io/k/r5ft5dk)  
+- [2020-03-19-在-TS-中你踩过默认值的坑么？给-??-运算符把坑填了](https://toutiao.io/k/ox2o23r)  
+- [2020-03-19-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
 - [2020-03-19-推荐-话说-Kubernetes-网络疑难杂症](https://toutiao.io/k/qaylxpl)  
 - [2020-03-19-推荐-为什么我们要面向接口编程](https://toutiao.io/k/2j20u8f)  
 - [2020-03-19-一位湖北码农的真实故事](https://toutiao.io/k/ffix1hm)  

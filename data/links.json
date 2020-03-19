@@ -9191,6 +9191,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "今天 Java 14 正式发布了！放弃 Java 8 行吗？",
+        "link": "https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "前后端分离开发，RESTful 接口应该这样设计",
+        "link": "https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "面试要10K，HR说你只值7K，怎么斗得过？",
+        "link": "https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894",
+        "date": "2020-03-19"
+      },
+      {
         "title": "一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全",
         "link": "https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782",
         "date": "2020-03-18"
@@ -9376,6 +9391,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "78 个前端基建问题的讲师答疑合集 | 第二届早早聊",
+        "link": "https://juejin.im/post/5e7312abf265da57455b6324",
+        "date": "2020-03-19"
+      },
       {
         "title": "with/try-catch/eval()改变作用域链",
         "link": "https://juejin.im/post/5e72fa2f6fb9a07ccd51a978",
@@ -9871,6 +9891,136 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "多种论坛测试使用心得 最后选了 nodebb 欢迎大家来水",
+        "link": "https://www.v2ex.com/t/654265",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "今天晚上有可能会发布 iPhone9 或 SE2 吗？",
+        "link": "https://www.v2ex.com/t/654264",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Spring Live 在线会议",
+        "link": "https://www.v2ex.com/t/654263",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[杭州/北京][校招/社招] 阿里云-应用研发平台 招人啦！凡投必回~~",
+        "link": "https://www.v2ex.com/t/654262",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "PHP 到头了，是转前端，还是 Java ，还是 go",
+        "link": "https://www.v2ex.com/t/654261",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[校招][蚂蚁金服]支付宝前端技术部校园招聘启动",
+        "link": "https://www.v2ex.com/t/654260",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "抖音运营怎么玩，想听听大家意见",
+        "link": "https://www.v2ex.com/t/654259",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "深圳 ios 开发 进场 一个半月 中高级",
+        "link": "https://www.v2ex.com/t/654258",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Wildfly 19 is released",
+        "link": "https://www.v2ex.com/t/654257",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "sql not in 可以优化吗",
+        "link": "https://www.v2ex.com/t/654256",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "想在济南找一个使用 angular 框架的公司好难。",
+        "link": "https://www.v2ex.com/t/654255",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "B+树在线可视化操作",
+        "link": "https://www.v2ex.com/t/654253",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "西北的烧烤特别好吃吗？",
+        "link": "https://www.v2ex.com/t/654252",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Office 家庭版开个车， 45/年，还有 4 坑",
+        "link": "https://www.v2ex.com/t/654251",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "giffgaff 英国实体手机号能不能买.买过的朋友进来说说.",
+        "link": "https://www.v2ex.com/t/654250",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[硅谷初创] 招远程全职移动端开发 [有机会赴美]",
+        "link": "https://www.v2ex.com/t/654249",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "为什么办法让电脑播报微信收款语音",
+        "link": "https://www.v2ex.com/t/654245",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "如何做未登录接口的防刷功能？",
+        "link": "https://www.v2ex.com/t/654244",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "抖音如何去运营，抖音都有啥算法机制呢？求！",
+        "link": "https://www.v2ex.com/t/654243",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "区块链技术兴趣爱好交流",
+        "link": "https://www.v2ex.com/t/654242",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "PostgreSQL 用正则表达式对字符串进行截取的方法",
+        "link": "https://www.v2ex.com/t/654241",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[广州/北京][Bigo 内推][3 月 房补+包三餐]",
+        "link": "https://www.v2ex.com/t/654240",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[盒马技术部] 2021 年校招实习开启！",
+        "link": "https://www.v2ex.com/t/654239",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "这个硬盘还能用吗？",
+        "link": "https://www.v2ex.com/t/654238",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "如何实现 video 标签下的 poster[封面]图片预加载？",
+        "link": "https://www.v2ex.com/t/654236",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "2020 年，如何正确给 kindle 安装字体？",
+        "link": "https://www.v2ex.com/t/654235",
+        "date": "2020-03-19"
+      },
       {
         "title": "[深圳][15k-35k]欢迎热爱技术的小伙伴加入我们！我们团队的职位向大家开放~",
         "link": "https://www.v2ex.com/t/654234",
@@ -10725,6 +10875,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 程序员如何挣外快？ | 码农周刊第 298 期",
+        "link": "https://toutiao.io/k/bcthhtp",
+        "date": "2020-03-19"
+      },
       {
         "title": "详解用 Go 语言解析各种 HTTP 请求的方法",
         "link": "https://toutiao.io/k/w0p7jhi",

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 22:30:16，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 23:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,8 @@
 </summary>
 
 
+- [2020-03-19-外交部：望美方同中方在相互尊重的基础上管控分歧](http://international.caixin.com/2020-03-19/101531221.html) ![](assets/new.png)  
+- [2020-03-13-封面报道|从漠视到惊醒：美国战疫如何打响](http://weekly.caixin.com/2020-03-13/101527899.html) ![](assets/new.png)  
 - [2020-03-19-国家监委调查组发布李文亮有关情况调查通报](http://china.caixin.com/2020-03-19/101531187.html)  
 - [2020-03-19-北京重启SARS定点小汤山医院:央行贷款超3亿-1.5万人赶工（更新）](http://china.caixin.com/2020-03-19/101529393.html)  
 - [2020-03-19-回国难:小留学生滞留英国-166家庭联名申请领事保护](http://china.caixin.com/2020-03-19/101531184.html)  
@@ -81,8 +83,6 @@
 - [2020-03-19-【视频】一个意大利留学生回国后的隔离日记](http://video.caixin.com/2020-03-19/101530910.html)  
 - [2020-03-19-加拿大将投入逾4000亿应急-美加边境首度限制非必要往来](http://international.caixin.com/2020-03-19/101530914.html)  
 - [2020-03-19-7天新增1万例确诊-西班牙是如何错过最佳防疫窗口的](http://international.caixin.com/2020-03-19/101530892.html)  
-- [2020-03-18-【图集】武汉东湖樱花烂漫-向援鄂医护人员免费开放](http://photos.caixin.com/2020-03-18/101530719.html)  
-- [2020-03-18-【图集】援鄂医疗队分批撤离-登“凯旋门”乘“胜利号”回家](http://photos.caixin.com/2020-03-18/101530700.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -895,18 +895,18 @@
 </summary>
 
 
-- [2020-03-19-iOS-游戏限免，阿尔托的奥德赛，迷你地铁](https://www.v2ex.com/t/654400) ![](assets/new.png)  
-- [2020-03-19-git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399) ![](assets/new.png)  
-- [2020-03-19-大佬指点下-Linux-文件修改替换原文件的方法](https://www.v2ex.com/t/654398) ![](assets/new.png)  
-- [2020-03-19-Mac-编译-XGBoost-for-Android](https://www.v2ex.com/t/654397) ![](assets/new.png)  
-- [2020-03-19-腾讯-IMWeb-团队招聘前端工程师！社招、校招、实习生统统都要！](https://www.v2ex.com/t/654396) ![](assets/new.png)  
-- [2020-03-19-武汉封城前的，半年回顾](https://www.v2ex.com/t/654395) ![](assets/new.png)  
-- [2020-03-19-有什么比较好的-app-抓包方式？-app-内部做了证书认证是不是就比较难-了？](https://www.v2ex.com/t/654394) ![](assets/new.png)  
-- [2020-03-19-分享一款-Web-组态编辑器](https://www.v2ex.com/t/654393) ![](assets/new.png)  
-- [2020-03-19-ios-浏览器、webview-简直就是手机端的-IE6，你有同感吗？](https://www.v2ex.com/t/654392) ![](assets/new.png)  
-- [2020-03-19-Git-commit-plugin-For-Vscode-一款自动生成规范-git-提交信息的插件](https://www.v2ex.com/t/654391) ![](assets/new.png)  
-- [2020-03-19-13.4gm，-xr.微信，知乎，-alook-等，无法长按-复制](https://www.v2ex.com/t/654388) ![](assets/new.png)  
-- [2020-03-19-你们的-n1-在哪儿弄的？我想弄个-n1-玩玩](https://www.v2ex.com/t/654387) ![](assets/new.png)  
+- [2020-03-19-iOS-游戏限免，阿尔托的奥德赛，迷你地铁](https://www.v2ex.com/t/654400)  
+- [2020-03-19-git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399)  
+- [2020-03-19-大佬指点下-Linux-文件修改替换原文件的方法](https://www.v2ex.com/t/654398)  
+- [2020-03-19-Mac-编译-XGBoost-for-Android](https://www.v2ex.com/t/654397)  
+- [2020-03-19-腾讯-IMWeb-团队招聘前端工程师！社招、校招、实习生统统都要！](https://www.v2ex.com/t/654396)  
+- [2020-03-19-武汉封城前的，半年回顾](https://www.v2ex.com/t/654395)  
+- [2020-03-19-有什么比较好的-app-抓包方式？-app-内部做了证书认证是不是就比较难-了？](https://www.v2ex.com/t/654394)  
+- [2020-03-19-分享一款-Web-组态编辑器](https://www.v2ex.com/t/654393)  
+- [2020-03-19-ios-浏览器、webview-简直就是手机端的-IE6，你有同感吗？](https://www.v2ex.com/t/654392)  
+- [2020-03-19-Git-commit-plugin-For-Vscode-一款自动生成规范-git-提交信息的插件](https://www.v2ex.com/t/654391)  
+- [2020-03-19-13.4gm，-xr.微信，知乎，-alook-等，无法长按-复制](https://www.v2ex.com/t/654388)  
+- [2020-03-19-你们的-n1-在哪儿弄的？我想弄个-n1-玩玩](https://www.v2ex.com/t/654387)  
 - [2020-03-19-在-PowerShell-中使用-fish-style-自动补全提示](https://www.v2ex.com/t/654386)  
 - [2020-03-19-mysql2ch，一个同步-MySQL-数据到-ClickHouse-的项目](https://www.v2ex.com/t/654385)  
 - [2020-03-19-阿里巴巴校招-Java-开发&测试实习岗位](https://www.v2ex.com/t/654384)  

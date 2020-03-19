@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "加拿大将投入逾4000亿应急 美加边境首度限制非必要往来",
+        "link": "http://international.caixin.com/2020-03-19/101530914.html",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "7天新增1万例确诊 西班牙是如何错过最佳防疫窗口的",
+        "link": "http://international.caixin.com/2020-03-19/101530892.html",
+        "date": "2020-03-19"
+      },
+      {
         "title": "【图集】武汉东湖樱花烂漫 向援鄂医护人员免费开放",
         "link": "http://photos.caixin.com/2020-03-18/101530719.html",
         "date": "2020-03-18"
@@ -6672,6 +6682,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "北京新增报告境外输入确诊病例1例",
+        "link": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200319_1722077.html",
+        "date": "2020-03-19"
+      },
+      {
         "title": "美国单日新增2769例新冠肺炎",
         "link": "http://m.weibo.cn/2803301701/4484147148086827",
         "date": "2020-03-19"
@@ -9337,6 +9352,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "with/try-catch/eval()改变作用域链",
+        "link": "https://juejin.im/post/5e72fa2f6fb9a07ccd51a978",
+        "date": "2020-03-19"
+      },
+      {
         "title": "介绍几个代码实际开发中很实用的工具",
         "link": "https://juejin.im/post/5e72f2e36fb9a07cb96b0d1c",
         "date": "2020-03-19"
@@ -9826,6 +9846,101 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[深圳][15k-35k]欢迎热爱技术的小伙伴加入我们！我们团队的职位向大家开放~",
+        "link": "https://www.v2ex.com/t/654234",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "v2ex 刚刚炸了一分钟左右",
+        "link": "https://www.v2ex.com/t/654233",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "第三方安卓 ROM 哪家强？",
+        "link": "https://www.v2ex.com/t/654231",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "如何实现局域网内两个 NAT 网络之间的通信？",
+        "link": "https://www.v2ex.com/t/654230",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "SQL 语句求助，如果通过关联子表找到父表？",
+        "link": "https://www.v2ex.com/t/654229",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "如何以最小成本搭建一个在线教育平台，给老师上传视频，设置作业，批改作业，学生看视频做作业，家长能看到成绩。",
+        "link": "https://www.v2ex.com/t/654228",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "考研二战失败，错过校招，现在下面应该怎么选？。。",
+        "link": "https://www.v2ex.com/t/654227",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "2020.3.19 求一个印度区车夫 美区账号想乘车",
+        "link": "https://www.v2ex.com/t/654226",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "PS5 发了个 Tech Spec，真无聊！",
+        "link": "https://www.v2ex.com/t/654225",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "記 PayPal「疑似風控」, Apple Support, Paypal 客服互相踢皮球.",
+        "link": "https://www.v2ex.com/t/654224",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "甲骨文韩国回程已切为 CN2 GIA！",
+        "link": "https://www.v2ex.com/t/654223",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "台式机 F1 到 F10 失效，怎么办。。",
+        "link": "https://www.v2ex.com/t/654221",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "有一个 redis 非实时处理用户消费信息 ，现在还需要统计用户消费，出现误差，该怎么取舍",
+        "link": "https://www.v2ex.com/t/654220",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "经常逛网易，从网友评论发现网友都好性压抑",
+        "link": "https://www.v2ex.com/t/654219",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "冒险在闲鱼淘了一条广州电信 100m 纯宽带， 780 元/18 个月，分享一下具体情况",
+        "link": "https://www.v2ex.com/t/654218",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "VSCode 远程自动无法自动保存",
+        "link": "https://www.v2ex.com/t/654217",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[杭州][阿里巴巴] 2021 届实习生招聘",
+        "link": "https://www.v2ex.com/t/654216",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "阿里云 SRE 团队实习直招|包实时进度反馈",
+        "link": "https://www.v2ex.com/t/654214",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[远程] 硅谷科技初创招视觉设计/美工",
+        "link": "https://www.v2ex.com/t/654213",
+        "date": "2020-03-19"
+      },
       {
         "title": "从三十万观众中选出 30 个人作为中奖用户，还要在前端展示滚动抽奖的效果 ，后台的思路应该是怎样的呢？",
         "link": "https://www.v2ex.com/t/654212",
@@ -10585,6 +10700,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "详解用 Go 语言解析各种 HTTP 请求的方法",
+        "link": "https://toutiao.io/k/w0p7jhi",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Fabric 源码学习：如何实现批量管理远程服务器？",
+        "link": "https://toutiao.io/k/ukswwsu",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "看完这篇 HTTPS，和面试官扯皮就没问题了",
+        "link": "https://toutiao.io/k/350kxl3",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "IoT 时代天猫精灵蓝牙技术大揭秘",
+        "link": "https://toutiao.io/k/3221ztl",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "开源一段 Mac 批量压缩图片的脚本",
+        "link": "https://toutiao.io/k/gcdb4wx",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "最好用的 web 端代码文本编辑器 ACE",
+        "link": "https://toutiao.io/k/ep81xdt",
+        "date": "2020-03-19"
+      },
+      {
+        "title": ".NET WinDbg 调试流程",
+        "link": "https://toutiao.io/k/v2qfelk",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "一个优秀的 Push 平台，需要经历怎样的前世今生",
+        "link": "https://toutiao.io/k/r5ft5dk",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "在 TS 中你踩过默认值的坑么？给 ?? 运算符把坑填了",
+        "link": "https://toutiao.io/k/ox2o23r",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[推荐] 我在阿里做中后台开发",
+        "link": "https://toutiao.io/k/k0m2k5w",
+        "date": "2020-03-19"
+      },
       {
         "title": "[推荐] 话说 Kubernetes 网络疑难杂症",
         "link": "https://toutiao.io/k/qaylxpl",

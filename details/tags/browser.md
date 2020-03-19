@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 13:30:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 14:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,5 +33,7 @@
 - [2020-03-19-yandex-昨天开始突然用不了-chrome-插件了怎么办？](https://www.v2ex.com/t/654103) 
 - [2020-03-18-Avast-Password-安全性怎么样](https://www.v2ex.com/t/654074) 
 - [2020-03-18-macOS-Firefox-DNS-泄露](https://www.v2ex.com/t/654057) 
+- [2020-03-19-详解用-Go-语言解析各种-HTTP-请求的方法](https://toutiao.io/k/w0p7jhi) 
+- [2020-03-19-.NET-WinDbg-调试流程](https://toutiao.io/k/v2qfelk) 
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://toutiao.io/k/kbz3bub) 
 - [2020-03-19-推荐-6800-字给你科普：SaaS-公司的系统稳定与安全机制](https://toutiao.io/k/49o6fqx) 

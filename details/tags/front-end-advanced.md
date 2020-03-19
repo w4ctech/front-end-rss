@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 13:30:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 14:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,3 +20,4 @@
 - [2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
 - [2020-03-19-HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340) 
 - [2020-03-19-阿里巴巴供应链算法部门招人，机器学习方向-or-运筹学方向，社招或-2021-届实习生，部门直推😉](https://www.v2ex.com/t/654122) 
+- [2020-03-19-看完这篇-HTTPS，和面试官扯皮就没问题了](https://toutiao.io/k/350kxl3) 

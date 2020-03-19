@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1055,6 +1055,7 @@
 - [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) 
 - [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) 
 - [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
+- [2020-03-19-【第1889期】提升流利说图片生产10倍效率的方法](https://www.ershicimi.com/p/436ebf6d8237587e1bbba3ac69716f82) 
 - [2020-03-18-【第1888期】「异」曲同工-——-Generator](https://www.ershicimi.com/p/387b436eeffd45a62acd2ea0c3449260) 
 - [2020-03-17-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/b33794fb72d8613c9181ac5bfabdae2e) 
 - [2020-03-16-【第1886期】Ant-Design暗黑模式设计解析](https://www.ershicimi.com/p/9cb8c7c57fc8cc336744e582506a404b) 
@@ -1098,6 +1099,7 @@
 - [2020-03-15-一大波粉丝福利来袭现金红包，小册，极客课程，坐稳，开车～](https://www.ershicimi.com/p/a0a935bda6be85c829b80c99638a82e2) 
 - [2020-03-13-20-个帮你更快搬砖的-vscode-快捷键](https://www.ershicimi.com/p/9c71b7c248a6a10c606a0b435587490f) 
 - [2020-03-13-2020，前端工程师凭什么这么值钱？](https://www.ershicimi.com/p/34c1ebd7400b77371a2fd5621151fae4) 
+- [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) 
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html) 
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html) 
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html) 

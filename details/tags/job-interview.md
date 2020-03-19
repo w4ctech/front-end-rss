@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,6 +9,7 @@
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://china.caixin.com/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [2020-03-19-【招聘】阿里业务平台事业部体验技术团队招实习生](https://www.ershicimi.com/p/b69c7cc3e4daeefc4bacdb7d05e91621) 
 - [2020-03-16-【招聘】阿里AE技术部前端招P6/P7、21届实习生](https://www.ershicimi.com/p/5d35fc589da902af028d13afb6cffb7b) 
 - [2020-03-15-【招聘】简单，真诚「阿里新零售CRO技术部大前端团队」春招实习！](https://www.ershicimi.com/p/e3456755c0f2355b2e7e5beffab7dd9a) 
 - [2020-03-14-【招聘】Alibaba-企业智能事业部招聘前端实习生啦](https://www.ershicimi.com/p/719ed51e602ec5f937169fbb7f03b99c) 

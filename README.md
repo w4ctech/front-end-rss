@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 11:30:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 12:00:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-19-美国新增病例增长提速-纽交所将暂时关闭交易大厅](http://international.caixin.com/2020-03-19/101530860.html) ![](assets/new.png)  
-- [2020-03-19-3月18日：全国新冠累计确诊80928例-湖北病例首次零增长（更新中）](http://china.caixin.com/2020-03-19/101530846.html) ![](assets/new.png)  
+- [2020-03-19-美国新增病例增长提速-纽交所将暂时关闭交易大厅](http://international.caixin.com/2020-03-19/101530860.html)  
+- [2020-03-19-3月18日：全国新冠累计确诊80928例-湖北病例首次零增长（更新中）](http://china.caixin.com/2020-03-19/101530846.html)  
 - [2020-03-19-香港单日新增25例创纪录-22人有海外旅行史](http://china.caixin.com/2020-03-19/101530805.html)  
 - [2020-03-19-肺炎日记|3月18日：海外游子如何避疫？](http://china.caixin.com/2020-03-19/101530804.html)  
 - [2020-03-19-河南应急响应级别降为二级-全国已有26省份调降](http://china.caixin.com/2020-03-19/101530794.html)  
@@ -184,6 +184,8 @@
 </summary>
 
 
+- [2020-03-19-【第1889期】提升流利说图片生产10倍效率的方法](https://www.ershicimi.com/p/436ebf6d8237587e1bbba3ac69716f82) ![](assets/new.png)  
+- [2020-03-19-【招聘】阿里业务平台事业部体验技术团队招实习生](https://www.ershicimi.com/p/b69c7cc3e4daeefc4bacdb7d05e91621) ![](assets/new.png)  
 - [2020-03-18-所以，V8-引擎到底是如何工作的？](https://www.ershicimi.com/p/184f3d2bd09bd3169e26fa6c99999dd1)  
 - [2020-03-18-【第1888期】「异」曲同工-——-Generator](https://www.ershicimi.com/p/387b436eeffd45a62acd2ea0c3449260)  
 - [2020-03-17-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/b33794fb72d8613c9181ac5bfabdae2e)  
@@ -480,6 +482,16 @@
 </summary>
 
 
+- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) ![](assets/new.png)  
+- [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/) ![](assets/new.png)  
+- [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) ![](assets/new.png)  
+- [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) ![](assets/new.png)  
+- [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) ![](assets/new.png)  
+- [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) ![](assets/new.png)  
+- [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/) ![](assets/new.png)  
+- [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) ![](assets/new.png)  
+- [2020-01-17-如何使用JS把相对地址变成绝对地址？](https://www.zhangxinxu.com/wordpress/2020/01/js-relative-absolute-path/) ![](assets/new.png)  
+- [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -676,11 +688,11 @@
 </summary>
 
 
-- [2020-03-19-从基础到实战-手把手带你掌握新版Webpack4.0（学习笔记）](https://juejin.im/post/5e72d9676fb9a07c7c2d8125) ![](assets/new.png)  
-- [2020-03-19-vue底层实现分析](https://juejin.im/post/5e72010e6fb9a07cb96b0bf0) ![](assets/new.png)  
-- [2020-03-19-浅析Vue完整版和运行版的区别](https://juejin.im/post/5e721aed6fb9a07cd52bfd1b) ![](assets/new.png)  
-- [2020-03-19-css的艺术](https://juejin.im/post/5e7228bef265da576e64bcf6) ![](assets/new.png)  
-- [2020-03-19-HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340) ![](assets/new.png)  
+- [2020-03-19-从基础到实战-手把手带你掌握新版Webpack4.0（学习笔记）](https://juejin.im/post/5e72d9676fb9a07c7c2d8125)  
+- [2020-03-19-vue底层实现分析](https://juejin.im/post/5e72010e6fb9a07cb96b0bf0)  
+- [2020-03-19-浅析Vue完整版和运行版的区别](https://juejin.im/post/5e721aed6fb9a07cd52bfd1b)  
+- [2020-03-19-css的艺术](https://juejin.im/post/5e7228bef265da576e64bcf6)  
+- [2020-03-19-HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340)  
 - [2020-03-19-17日JDK-14-正式发布了，有些特性值得关注](https://juejin.im/post/5e72b9416fb9a07ca80ac994)  
 - [2020-03-19-上次24个实用-ES6-方法受到好评，这次再来-10个](https://juejin.im/post/5e72b591e51d45270d532f6c)  
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1)  
@@ -804,26 +816,26 @@
 </summary>
 
 
-- [2020-03-19-访问-GitHub-最近很不稳定啊，大家有没有什么好点的静态博客托管方案？](https://www.v2ex.com/t/654164) ![](assets/new.png)  
-- [2020-03-19-收藏从未停止，学习从未开始](https://www.v2ex.com/t/654163) ![](assets/new.png)  
-- [2020-03-19-发现一个很有意思的-ping-值](https://www.v2ex.com/t/654162) ![](assets/new.png)  
-- [2020-03-19-有没有用-EDGE-看-HBO-的？](https://www.v2ex.com/t/654161) ![](assets/new.png)  
-- [2020-03-19-北京招聘-hillinsight--iOS-工程师](https://www.v2ex.com/t/654160) ![](assets/new.png)  
-- [2020-03-19-比较好奇，-MacbookAir-的-1.1GHz，买的人都用来做啥？](https://www.v2ex.com/t/654159) ![](assets/new.png)  
-- [2020-03-19-ATOM-使用-Sync-Setting-扩展，常常无法链接成功](https://www.v2ex.com/t/654158) ![](assets/new.png)  
-- [2020-03-19-神奇-间隔-10-秒-两次查看-airpods-pro-价格相差-100](https://www.v2ex.com/t/654157) ![](assets/new.png)  
-- [2020-03-19-Simplenote-支持安装为-PWA-Native-App，很好用，强烈推荐！](https://www.v2ex.com/t/654156) ![](assets/new.png)  
-- [2020-03-19-IOS-原生邮件软件相当的耗电，有啥解决办法吗？](https://www.v2ex.com/t/654155) ![](assets/new.png)  
-- [2020-03-19-请教个-SSH-ECDSA-RSA-相关的问题](https://www.v2ex.com/t/654154) ![](assets/new.png)  
-- [2020-03-19-北京招聘-hillinsight--Electron-高级工程师](https://www.v2ex.com/t/654153) ![](assets/new.png)  
-- [2020-03-19-为什么-ipadOS-不支持五笔输入法](https://www.v2ex.com/t/654152) ![](assets/new.png)  
-- [2020-03-19-北京18k-30k-服务端-C++工程师](https://www.v2ex.com/t/654150) ![](assets/new.png)  
-- [2020-03-19-第二次发文-想和大家探讨一下-各种国产软件、硬件程度有多高？（UOS，麒麟芯片）](https://www.v2ex.com/t/654149) ![](assets/new.png)  
-- [2020-03-19-Windows-怎么通过-USB-线共享网络给-iPhone-？](https://www.v2ex.com/t/654144) ![](assets/new.png)  
-- [2020-03-19-校招-阿里云阿里云全球技术服务团队（GTS）2020-春季校招盛大开启中！](https://www.v2ex.com/t/654143) ![](assets/new.png)  
-- [2020-03-19-《哈利波特与魔法石》内地重映！](https://www.v2ex.com/t/654142) ![](assets/new.png)  
-- [2020-03-19-11-Pro-max-的三摄系统日常使用真是个累赘，糟心](https://www.v2ex.com/t/654141) ![](assets/new.png)  
-- [2020-03-19-请问-windows-7/10/2008-可以直接用系统-API-进行抓包统计单个-IP-流量吗](https://www.v2ex.com/t/654140) ![](assets/new.png)  
+- [2020-03-19-访问-GitHub-最近很不稳定啊，大家有没有什么好点的静态博客托管方案？](https://www.v2ex.com/t/654164)  
+- [2020-03-19-收藏从未停止，学习从未开始](https://www.v2ex.com/t/654163)  
+- [2020-03-19-发现一个很有意思的-ping-值](https://www.v2ex.com/t/654162)  
+- [2020-03-19-有没有用-EDGE-看-HBO-的？](https://www.v2ex.com/t/654161)  
+- [2020-03-19-北京招聘-hillinsight--iOS-工程师](https://www.v2ex.com/t/654160)  
+- [2020-03-19-比较好奇，-MacbookAir-的-1.1GHz，买的人都用来做啥？](https://www.v2ex.com/t/654159)  
+- [2020-03-19-ATOM-使用-Sync-Setting-扩展，常常无法链接成功](https://www.v2ex.com/t/654158)  
+- [2020-03-19-神奇-间隔-10-秒-两次查看-airpods-pro-价格相差-100](https://www.v2ex.com/t/654157)  
+- [2020-03-19-Simplenote-支持安装为-PWA-Native-App，很好用，强烈推荐！](https://www.v2ex.com/t/654156)  
+- [2020-03-19-IOS-原生邮件软件相当的耗电，有啥解决办法吗？](https://www.v2ex.com/t/654155)  
+- [2020-03-19-请教个-SSH-ECDSA-RSA-相关的问题](https://www.v2ex.com/t/654154)  
+- [2020-03-19-北京招聘-hillinsight--Electron-高级工程师](https://www.v2ex.com/t/654153)  
+- [2020-03-19-为什么-ipadOS-不支持五笔输入法](https://www.v2ex.com/t/654152)  
+- [2020-03-19-北京18k-30k-服务端-C++工程师](https://www.v2ex.com/t/654150)  
+- [2020-03-19-第二次发文-想和大家探讨一下-各种国产软件、硬件程度有多高？（UOS，麒麟芯片）](https://www.v2ex.com/t/654149)  
+- [2020-03-19-Windows-怎么通过-USB-线共享网络给-iPhone-？](https://www.v2ex.com/t/654144)  
+- [2020-03-19-校招-阿里云阿里云全球技术服务团队（GTS）2020-春季校招盛大开启中！](https://www.v2ex.com/t/654143)  
+- [2020-03-19-《哈利波特与魔法石》内地重映！](https://www.v2ex.com/t/654142)  
+- [2020-03-19-11-Pro-max-的三摄系统日常使用真是个累赘，糟心](https://www.v2ex.com/t/654141)  
+- [2020-03-19-请问-windows-7/10/2008-可以直接用系统-API-进行抓包统计单个-IP-流量吗](https://www.v2ex.com/t/654140)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -835,7 +847,7 @@
 </summary>
 
 
-- [2020-03-19-JVM源码分析之堆外内存完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13297&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F150614%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-03-19-JVM源码分析之堆外内存完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13297&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F150614%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-03-19-FIDL：Flutter界的AIDL，不局限于基础数据类型-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13296&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoFd_K8U2ALpGYj-vg9zThQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-03-19-IPv6-时代如何防御-DDoS-攻击？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13295&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F113841234%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-03-19-JVM源码分析之Object.wait/notifyAll完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13294&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F340337%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -866,10 +878,10 @@
 </summary>
 
 
-- [2020-03-19-一位湖北码农的真实故事](https://toutiao.io/k/ffix1hm) ![](assets/new.png)  
-- [2020-03-19-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs) ![](assets/new.png)  
-- [2020-03-19-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51) ![](assets/new.png)  
-- [2020-03-19-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o) ![](assets/new.png)  
+- [2020-03-19-一位湖北码农的真实故事](https://toutiao.io/k/ffix1hm)  
+- [2020-03-19-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
+- [2020-03-19-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51)  
+- [2020-03-19-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o)  
 - [2020-03-19-当查询的数据来自多个数据源，有哪些好的分页策略？](https://toutiao.io/k/081d7xs)  
 - [2020-03-19-新冠病毒横行，一些-WFH-在家办公的建议](https://toutiao.io/k/h2rrkch)  
 - [2020-03-19-C++-与-正则表达式](https://toutiao.io/k/eqkwkmu)  

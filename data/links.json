@@ -6682,6 +6682,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "墨西哥首例新冠肺炎死亡病例",
+        "link": "http://m.weibo.cn/3057540037/4484210935027261",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "最近7日境外输入病例占新增总数的84.55%",
+        "link": "http://m.weibo.cn/2656274875/4484208091551040",
+        "date": "2020-03-19"
+      },
+      {
         "title": "北京新增报告境外输入确诊病例1例",
         "link": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200319_1722077.html",
         "date": "2020-03-19"
@@ -9392,6 +9402,26 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "提升代码的可靠性之函数式编程",
+        "link": "https://juejin.im/post/5e72c5eff265da57301c1411",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "2020年大前端面试题库+答案（第3章） javaScript判断对象类型",
+        "link": "https://juejin.im/post/5e72e7f06fb9a07ca714d70f",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "专题总结：this指向问题",
+        "link": "https://juejin.im/post/5e73158cf265da5714164d78",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Vue实现一个Markdown编辑器(附项目源码)",
+        "link": "https://juejin.im/post/5e731368f265da5734026107",
+        "date": "2020-03-19"
+      },
+      {
         "title": "78 个前端基建问题的讲师答疑合集 | 第二届早早聊",
         "link": "https://juejin.im/post/5e7312abf265da57455b6324",
         "date": "2020-03-19"
@@ -9891,6 +9921,131 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "你们在 windows 上文本文件用 LF 还是 CRLF 结尾？",
+        "link": "https://www.v2ex.com/t/654293",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "被 HR 小姐姐教育：“你不应该做 IT，你应该考虑转行”",
+        "link": "https://www.v2ex.com/t/654292",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "这是我迄今为止，买到最简洁易记的域名了， v 友们秀秀你们得意的域名（学费米）",
+        "link": "https://www.v2ex.com/t/654291",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "MIUI 最近更新的应用行为记录简直就是照妖镜",
+        "link": "https://www.v2ex.com/t/654290",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "19 本科深圳 Python 后端，求各位大佬看下简历给点意见",
+        "link": "https://www.v2ex.com/t/654289",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "为什么苹果就不更新一下秒控键盘呢？",
+        "link": "https://www.v2ex.com/t/654288",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "广州天河 柯基免费领养",
+        "link": "https://www.v2ex.com/t/654286",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "广州前端拿 20k 以上要什么水平",
+        "link": "https://www.v2ex.com/t/654285",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "Google Play System 更新失败怎么办？",
+        "link": "https://www.v2ex.com/t/654284",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "这一个腾讯 iOS 面试题，有大佬知道怎么答吗？",
+        "link": "https://www.v2ex.com/t/654283",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "21 年毕业，校招开始 @Alibaba HangZhou",
+        "link": "https://www.v2ex.com/t/654282",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "讨论下能替代 MBP 作为开发主力机的电脑",
+        "link": "https://www.v2ex.com/t/654280",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "请问现在贷款买房有啥需要注意得吗？ 是不是都是直接根据 LPR 算了？",
+        "link": "https://www.v2ex.com/t/654279",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "迫于怕被盗号的无奈，自己撸了一个 QQ 三国推举孝廉和谋士大赛题库检索网站",
+        "link": "https://www.v2ex.com/t/654278",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "迄今为止 Touch Bar 最有用的一个场景",
+        "link": "https://www.v2ex.com/t/654277",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "作为一款开源产品，以及衍生的应用产品，如何提高用户量？",
+        "link": "https://www.v2ex.com/t/654276",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[实习内推]蚂蚁金服-CTO 技术风险部数据团队, 2021 届春招实习, Java /大数据, 上海/杭州/北京，进行中！",
+        "link": "https://www.v2ex.com/t/654275",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "sharedrop P2P 文件分享",
+        "link": "https://www.v2ex.com/t/654273",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "大佬们，你们 16 寸的 RMBP 设置的显示比例是多少的？",
+        "link": "https://www.v2ex.com/t/654272",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "有没有一款软件可以将 iPhone 投屏到 Mac，并且使用 Mac 的鼠标操作 iPhone ？",
+        "link": "https://www.v2ex.com/t/654271",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "请教一个指针转换问题",
+        "link": "https://www.v2ex.com/t/654270",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "2020 剪刀脚键盘的 MacBook Air 增加厚度了么?",
+        "link": "https://www.v2ex.com/t/654269",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "[北京][下厨房]招聘前端工程师（包括实习生）",
+        "link": "https://www.v2ex.com/t/654268",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "如何关闭 keep 的运动推送",
+        "link": "https://www.v2ex.com/t/654267",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "有人认识这款字体嘛",
+        "link": "https://www.v2ex.com/t/654266",
+        "date": "2020-03-19"
+      },
       {
         "title": "多种论坛测试使用心得 最后选了 nodebb 欢迎大家来水",
         "link": "https://www.v2ex.com/t/654265",

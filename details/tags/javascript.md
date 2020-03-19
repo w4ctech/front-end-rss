@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 16:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -84,6 +84,9 @@
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
+- [2020-03-19-提升代码的可靠性之函数式编程](https://juejin.im/post/5e72c5eff265da57301c1411) 
+- [2020-03-19-2020年大前端面试题库+答案（第3章）-javaScript判断对象类型](https://juejin.im/post/5e72e7f06fb9a07ca714d70f) 
+- [2020-03-19-专题总结：this指向问题](https://juejin.im/post/5e73158cf265da5714164d78) 
 - [2020-03-19-with/try-catch/eval改变作用域链](https://juejin.im/post/5e72fa2f6fb9a07ccd51a978) 
 - [2020-03-19-JavaScript中的浅拷贝-VS-深拷贝](https://juejin.im/post/5e72f2246fb9a07c820fcb87) 
 - [2020-03-19-JavaScript执行上下文](https://juejin.im/post/5e72e405f265da57112650bc) 

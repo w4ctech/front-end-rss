@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 16:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -41,6 +41,7 @@
 - [2020-02-24-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/52d9e6ab84d1ceb2a08483b995b82a96) 
 - [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) 
 - [2020-03-10-Vue如何实现疫情地图展示](https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25) 
+- [2020-03-19-Vue实现一个Markdown编辑器附项目源码](https://juejin.im/post/5e731368f265da5734026107) 
 - [2020-03-19-1W字长文+多图，带你了解vue的双向数据绑定源码实现](https://juejin.im/post/5e71e7066fb9a07cab3ab804) 
 - [2020-03-19-vue底层实现分析](https://juejin.im/post/5e72010e6fb9a07cb96b0bf0) 
 - [2020-03-19-浅析Vue完整版和运行版的区别](https://juejin.im/post/5e721aed6fb9a07cd52bfd1b) 

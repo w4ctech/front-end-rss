@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 15:30:21，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 16:30:16，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-03-19-墨西哥首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4484210935027261) ![](assets/new.png)  
+- [2020-03-19-最近7日境外输入病例占新增总数的84.55%](http://m.weibo.cn/2656274875/4484208091551040) ![](assets/new.png)  
 - [2020-03-19-北京新增报告境外输入确诊病例1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200319_1722077.html)  
 - [2020-03-19-美国单日新增2769例新冠肺炎](http://m.weibo.cn/2803301701/4484147148086827)  
 - [2020-03-19-全国新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/e644c2fc18b4448db7ed4b30f68b91a6.shtml)  
@@ -682,9 +684,9 @@
 </summary>
 
 
-- [2020-03-19-今天-Java-14-正式发布了！放弃-Java-8-行吗？](https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82) ![](assets/new.png)  
-- [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5) ![](assets/new.png)  
-- [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894) ![](assets/new.png)  
+- [2020-03-19-今天-Java-14-正式发布了！放弃-Java-8-行吗？](https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82)  
+- [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)  
+- [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894)  
 - [2020-03-18-一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全](https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782)  
 - [2020-03-18-大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb)  
 - [2020-03-18-今天写出一个十分弱智的bug！](https://www.ershicimi.com/p/5458e8b1056d220ff2f14c9b8be67a15)  
@@ -751,7 +753,11 @@
 </summary>
 
 
-- [2020-03-19-78-个前端基建问题的讲师答疑合集-|-第二届早早聊](https://juejin.im/post/5e7312abf265da57455b6324) ![](assets/new.png)  
+- [2020-03-19-提升代码的可靠性之函数式编程](https://juejin.im/post/5e72c5eff265da57301c1411) ![](assets/new.png)  
+- [2020-03-19-2020年大前端面试题库+答案（第3章）-javaScript判断对象类型](https://juejin.im/post/5e72e7f06fb9a07ca714d70f) ![](assets/new.png)  
+- [2020-03-19-专题总结：this指向问题](https://juejin.im/post/5e73158cf265da5714164d78) ![](assets/new.png)  
+- [2020-03-19-Vue实现一个Markdown编辑器附项目源码](https://juejin.im/post/5e731368f265da5734026107) ![](assets/new.png)  
+- [2020-03-19-78-个前端基建问题的讲师答疑合集-|-第二届早早聊](https://juejin.im/post/5e7312abf265da57455b6324)  
 - [2020-03-19-with/try-catch/eval改变作用域链](https://juejin.im/post/5e72fa2f6fb9a07ccd51a978)  
 - [2020-03-19-介绍几个代码实际开发中很实用的工具](https://juejin.im/post/5e72f2e36fb9a07cb96b0d1c)  
 - [2020-03-19-JavaScript中的浅拷贝-VS-深拷贝](https://juejin.im/post/5e72f2246fb9a07c820fcb87)  
@@ -767,10 +773,6 @@
 - [2020-03-19-HTTP-+-通信加密-+-认证机制-+-保护报文完整型-=-HTTPS](https://juejin.im/post/5e721dbb6fb9a07c944cb340)  
 - [2020-03-19-17日JDK-14-正式发布了，有些特性值得关注](https://juejin.im/post/5e72b9416fb9a07ca80ac994)  
 - [2020-03-19-上次24个实用-ES6-方法受到好评，这次再来-10个](https://juejin.im/post/5e72b591e51d45270d532f6c)  
-- [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1)  
-- [2020-03-19-前端工程师的-LeetCode-之旅----180周赛](https://juejin.im/post/5e724a68f265da576e64bd2c)  
-- [2020-03-19-5分钟教你使用console.log发布公司的招聘信息](https://juejin.im/post/5e725563f265da57602c6eb6)  
-- [2020-03-18-使用四十行代码实现一个核心-koa](https://juejin.im/post/5e72b1e8e51d4526e8081022)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -886,26 +888,26 @@
 </summary>
 
 
-- [2020-03-19-多种论坛测试使用心得-最后选了-nodebb-欢迎大家来水](https://www.v2ex.com/t/654265) ![](assets/new.png)  
-- [2020-03-19-今天晚上有可能会发布-iPhone9-或-SE2-吗？](https://www.v2ex.com/t/654264) ![](assets/new.png)  
-- [2020-03-19-Spring-Live-在线会议](https://www.v2ex.com/t/654263) ![](assets/new.png)  
-- [2020-03-19-杭州/北京校招/社招-阿里云-应用研发平台-招人啦！凡投必回~~](https://www.v2ex.com/t/654262) ![](assets/new.png)  
-- [2020-03-19-PHP-到头了，是转前端，还是-Java-，还是-go](https://www.v2ex.com/t/654261) ![](assets/new.png)  
-- [2020-03-19-校招蚂蚁金服支付宝前端技术部校园招聘启动](https://www.v2ex.com/t/654260) ![](assets/new.png)  
-- [2020-03-19-抖音运营怎么玩，想听听大家意见](https://www.v2ex.com/t/654259) ![](assets/new.png)  
-- [2020-03-19-深圳-ios-开发-进场-一个半月-中高级](https://www.v2ex.com/t/654258) ![](assets/new.png)  
-- [2020-03-19-Wildfly-19-is-released](https://www.v2ex.com/t/654257) ![](assets/new.png)  
-- [2020-03-19-sql-not-in-可以优化吗](https://www.v2ex.com/t/654256) ![](assets/new.png)  
-- [2020-03-19-想在济南找一个使用-angular-框架的公司好难。](https://www.v2ex.com/t/654255) ![](assets/new.png)  
-- [2020-03-19-B+树在线可视化操作](https://www.v2ex.com/t/654253) ![](assets/new.png)  
-- [2020-03-19-西北的烧烤特别好吃吗？](https://www.v2ex.com/t/654252) ![](assets/new.png)  
-- [2020-03-19-Office-家庭版开个车，-45/年，还有-4-坑](https://www.v2ex.com/t/654251) ![](assets/new.png)  
-- [2020-03-19-giffgaff-英国实体手机号能不能买.买过的朋友进来说说.](https://www.v2ex.com/t/654250) ![](assets/new.png)  
-- [2020-03-19-硅谷初创-招远程全职移动端开发-有机会赴美](https://www.v2ex.com/t/654249) ![](assets/new.png)  
-- [2020-03-19-为什么办法让电脑播报微信收款语音](https://www.v2ex.com/t/654245) ![](assets/new.png)  
-- [2020-03-19-如何做未登录接口的防刷功能？](https://www.v2ex.com/t/654244) ![](assets/new.png)  
-- [2020-03-19-抖音如何去运营，抖音都有啥算法机制呢？求！](https://www.v2ex.com/t/654243) ![](assets/new.png)  
-- [2020-03-19-区块链技术兴趣爱好交流](https://www.v2ex.com/t/654242) ![](assets/new.png)  
+- [2020-03-19-你们在-windows-上文本文件用-LF-还是-CRLF-结尾？](https://www.v2ex.com/t/654293) ![](assets/new.png)  
+- [2020-03-19-被-HR-小姐姐教育：“你不应该做-IT，你应该考虑转行”](https://www.v2ex.com/t/654292) ![](assets/new.png)  
+- [2020-03-19-这是我迄今为止，买到最简洁易记的域名了，-v-友们秀秀你们得意的域名（学费米）](https://www.v2ex.com/t/654291) ![](assets/new.png)  
+- [2020-03-19-MIUI-最近更新的应用行为记录简直就是照妖镜](https://www.v2ex.com/t/654290) ![](assets/new.png)  
+- [2020-03-19-19-本科深圳-Python-后端，求各位大佬看下简历给点意见](https://www.v2ex.com/t/654289) ![](assets/new.png)  
+- [2020-03-19-为什么苹果就不更新一下秒控键盘呢？](https://www.v2ex.com/t/654288) ![](assets/new.png)  
+- [2020-03-19-广州天河-柯基免费领养](https://www.v2ex.com/t/654286) ![](assets/new.png)  
+- [2020-03-19-广州前端拿-20k-以上要什么水平](https://www.v2ex.com/t/654285) ![](assets/new.png)  
+- [2020-03-19-Google-Play-System-更新失败怎么办？](https://www.v2ex.com/t/654284) ![](assets/new.png)  
+- [2020-03-19-这一个腾讯-iOS-面试题，有大佬知道怎么答吗？](https://www.v2ex.com/t/654283) ![](assets/new.png)  
+- [2020-03-19-21-年毕业，校招开始-@Alibaba-HangZhou](https://www.v2ex.com/t/654282) ![](assets/new.png)  
+- [2020-03-19-讨论下能替代-MBP-作为开发主力机的电脑](https://www.v2ex.com/t/654280) ![](assets/new.png)  
+- [2020-03-19-请问现在贷款买房有啥需要注意得吗？-是不是都是直接根据-LPR-算了？](https://www.v2ex.com/t/654279) ![](assets/new.png)  
+- [2020-03-19-迫于怕被盗号的无奈，自己撸了一个-QQ-三国推举孝廉和谋士大赛题库检索网站](https://www.v2ex.com/t/654278) ![](assets/new.png)  
+- [2020-03-19-迄今为止-Touch-Bar-最有用的一个场景](https://www.v2ex.com/t/654277) ![](assets/new.png)  
+- [2020-03-19-作为一款开源产品，以及衍生的应用产品，如何提高用户量？](https://www.v2ex.com/t/654276) ![](assets/new.png)  
+- [2020-03-19-实习内推蚂蚁金服-CTO-技术风险部数据团队,-2021-届春招实习,-Java-/大数据,-上海/杭州/北京，进行中！](https://www.v2ex.com/t/654275) ![](assets/new.png)  
+- [2020-03-19-sharedrop-P2P-文件分享](https://www.v2ex.com/t/654273) ![](assets/new.png)  
+- [2020-03-19-大佬们，你们-16-寸的-RMBP-设置的显示比例是多少的？](https://www.v2ex.com/t/654272) ![](assets/new.png)  
+- [2020-03-19-有没有一款软件可以将-iPhone-投屏到-Mac，并且使用-Mac-的鼠标操作-iPhone-？](https://www.v2ex.com/t/654271) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -948,7 +950,7 @@
 </summary>
 
 
-- [2020-03-19-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp) ![](assets/new.png)  
+- [2020-03-19-推荐-程序员如何挣外快？-|-码农周刊第-298-期](https://toutiao.io/k/bcthhtp)  
 - [2020-03-19-详解用-Go-语言解析各种-HTTP-请求的方法](https://toutiao.io/k/w0p7jhi)  
 - [2020-03-19-Fabric-源码学习：如何实现批量管理远程服务器？](https://toutiao.io/k/ukswwsu)  
 - [2020-03-19-看完这篇-HTTPS，和面试官扯皮就没问题了](https://toutiao.io/k/350kxl3)  

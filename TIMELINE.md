@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 03:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-21 04:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -906,6 +906,7 @@
 - [【知乎日报】2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [【知乎日报】2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [【知乎日报】2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [【V2EX】2020-03-21-"洗稿"](https://www.v2ex.com/t/654765) 
 - [【V2EX】2020-03-21-n1-旁路由的一些疑惑](https://www.v2ex.com/t/654764) 
 - [【V2EX】2020-03-21-成都租房怎么跳过中介找到好房源](https://www.v2ex.com/t/654763) 
 - [【V2EX】2020-03-21-珠江宽频有使用第三方出口穿透？](https://www.v2ex.com/t/654762) 
@@ -1531,6 +1532,7 @@
 - [【技术头条】2020-03-19-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-19-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-19-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-21-推荐-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p) 
 - [【开发者头条】2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu) 
 - [【开发者头条】2020-03-21-推荐-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx) 
 - [【开发者头条】2020-03-21-推荐-服务的容灾与容错](https://toutiao.io/k/t1de0md) 

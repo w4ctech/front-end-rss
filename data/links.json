@@ -10672,6 +10672,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "\"洗稿\"",
+        "link": "https://www.v2ex.com/t/654765",
+        "date": "2020-03-21"
+      },
+      {
         "title": "n1 旁路由的一些疑惑",
         "link": "https://www.v2ex.com/t/654764",
         "date": "2020-03-21"
@@ -13810,6 +13815,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 看过无数 Java GC 文章，这 5 个问题你也未必知道",
+        "link": "https://toutiao.io/k/ay6ox7p",
+        "date": "2020-03-21"
+      },
       {
         "title": "[推荐] 面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病",
         "link": "https://toutiao.io/k/seazusu",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 14:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-20 14:30:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -628,6 +628,7 @@
 - [【前端之巅】2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](https://www.ershicimi.com/p/b6f65205b280ccc8091765417ecf2c54) 
 - [【前端之巅】2020-03-13-dna-：一个-Dart-到-Native-的超级通道](https://www.ershicimi.com/p/78ba18011f5411f62e0c6488412bc7d4) 
 - [【前端之巅】2020-03-13-如何解决前端工程问题，摆脱“切图仔”？-|-极客大学](https://www.ershicimi.com/p/dad33357cc38f723897e97c64e717e0e) 
+- [【前端迷】2020-03-20-在阿里我是如何当面试官的](https://www.ershicimi.com/p/bb2bb989085965ebabc63ebed07382d9) 
 - [【前端迷】2020-03-19-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](https://www.ershicimi.com/p/7be448278ed605004d91611f3e694ae0) 
 - [【前端迷】2020-03-18-进互联网名企要刷多少道算法题？](https://www.ershicimi.com/p/4f252cfb2031a49b2b107305a8360f25) 
 - [【前端迷】2020-03-17-我是如何拿到小米、京东、字节等大厂前端offer的](https://www.ershicimi.com/p/ef48a32c113bd71bf4f02a6a71f7e90d) 

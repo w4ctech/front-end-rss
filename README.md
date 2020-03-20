@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 21:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 22:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-03-20-中国以外新冠肺炎162495例](http://m.weibo.cn/2803301701/4484642931351516) ![](assets/new.png)  
+- [2020-03-20-意大利14名医生殉职，感染医护超两千](http://m.weibo.cn/3057540037/4484652767285663) ![](assets/new.png)  
+- [2020-03-20-中国以外新冠肺炎162495例](http://m.weibo.cn/2803301701/4484642931351516)  
 - [2020-03-20-西班牙新增新冠肺炎确诊病例930例](http://m.weibo.cn/3057540037/4484624849454868)  
 - [2020-03-20-伊朗累计确诊升至1964](http://m.weibo.cn/2803301701/4484622711219841)  
 - [2020-03-20-德国新冠肺炎累计确诊13957](http://m.weibo.cn/2803301701/4484605388489571)  
@@ -113,7 +114,6 @@
 - [2020-03-20-Saudi-Arabia-suspends-domestic-flights-and-trains-for-14-days-over-coronavirus-fears]()  
 - [2020-03-20-天津市无新增本地新冠肺炎确诊病例-报告境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/20/art_87_72538.html)  
 - [2020-03-20-中国重剑队3名队员确诊新冠肺炎](http://m.weibo.cn/2656274875/4484478279471837)  
-- [2020-03-20-美国累计确诊新冠肺炎13680例，24小时几乎翻倍](http://m.weibo.cn/3057540037/4484476610917333)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -921,26 +921,26 @@
 </summary>
 
 
-- [2020-03-20-工作-3-年了，感觉一年不如一年，好崩溃...](https://www.v2ex.com/t/654702) ![](assets/new.png)  
-- [2020-03-20-88vip-自带的优酷会员，到期之后绑定关系怎么解除呢？](https://www.v2ex.com/t/654701) ![](assets/new.png)  
-- [2020-03-20-怀疑-Xnip-导致-Command-键失灵，有遇到类似情况的吗](https://www.v2ex.com/t/654700) ![](assets/new.png)  
-- [2020-03-20-聊聊-iPad-Pro-妙控键盘](https://www.v2ex.com/t/654699) ![](assets/new.png)  
-- [2020-03-20-网易-163-邮箱证书过期了，-iPhone-/mac-不停弹提示，速修呀](https://www.v2ex.com/t/654698) ![](assets/new.png)  
-- [2020-03-20-iOS-邮件-appleimap.163.com-证书过期？疯狂提示](https://www.v2ex.com/t/654697) ![](assets/new.png)  
-- [2020-03-20-前端为什么要关注-Serverless?](https://www.v2ex.com/t/654696) ![](assets/new.png)  
-- [2020-03-20-emmm...Apple-Store-显示异常](https://www.v2ex.com/t/654695) ![](assets/new.png)  
-- [2020-03-20-java11---patch-module-如何使用](https://www.v2ex.com/t/654694) ![](assets/new.png)  
-- [2020-03-20-实现-NAT-Masquerade-TCP-状态管理的极简方案](https://www.v2ex.com/t/654693) ![](assets/new.png)  
-- [2020-03-20-透传是个什么原理](https://www.v2ex.com/t/654692) ![](assets/new.png)  
-- [2020-03-20-Mysql-ip-is-blocked-because-of-many-connection-errors-错误](https://www.v2ex.com/t/654689) ![](assets/new.png)  
-- [2020-03-20-用-Proxifier-代理-outlook-和-Onedrive-的问题](https://www.v2ex.com/t/654688) ![](assets/new.png)  
-- [2020-03-20-仅能提醒佩戴口罩？-不，佳华科技联手青云-QingCloud-实现疫情传播轨迹分析](https://www.v2ex.com/t/654687) ![](assets/new.png)  
-- [2020-03-20-字节跳动-前端&服务端-可内推](https://www.v2ex.com/t/654686) ![](assets/new.png)  
-- [2020-03-20-开个印度油管车-4-月-8-号前免费](https://www.v2ex.com/t/654685)  
-- [2020-03-20-青云-QingCloud-联合爱壹得用科技为一线医护人员筑起防护长城](https://www.v2ex.com/t/654684)  
-- [2020-03-20-2021-届毕业实习杭州淘宝-淘宝消息团队招人](https://www.v2ex.com/t/654683)  
-- [2020-03-20-西安的互联网还有吗？](https://www.v2ex.com/t/654682)  
-- [2020-03-20-下单了-mba-乞丐版，我开始纠结了。](https://www.v2ex.com/t/654681)  
+- [2020-03-20-通过-USB-线-镜像-iPhone-/-iPad-屏幕到-windows-电脑的方法](https://www.v2ex.com/t/654712) ![](assets/new.png)  
+- [2020-03-20-Godaddy-的-JP-域名无法续费怎么办](https://www.v2ex.com/t/654710) ![](assets/new.png)  
+- [2020-03-20-阿里云应用研发平台-2020-春季校园招聘，部门直推](https://www.v2ex.com/t/654709) ![](assets/new.png)  
+- [2020-03-20-再把鼠标放到画中画左边框拉大画中画，画中画最后会跑到屏幕外去](https://www.v2ex.com/t/654708) ![](assets/new.png)  
+- [2020-03-20-koa-的-decorator，看这个轮子，它又大又圆！](https://www.v2ex.com/t/654707) ![](assets/new.png)  
+- [2020-03-20-iPad-文件-APP-不自动更新](https://www.v2ex.com/t/654706) ![](assets/new.png)  
+- [2020-03-20-Win10-开机具慢大家是如何排除的？](https://www.v2ex.com/t/654705) ![](assets/new.png)  
+- [2020-03-20-Affinity-50%折扣，前几天在数码荔枝-299-买的亏爆了！](https://www.v2ex.com/t/654704) ![](assets/new.png)  
+- [2020-03-20-无可奈何的小人~-兰兰想系列表情包~](https://www.v2ex.com/t/654703) ![](assets/new.png)  
+- [2020-03-20-工作-3-年了，感觉一年不如一年，好崩溃...](https://www.v2ex.com/t/654702)  
+- [2020-03-20-88vip-自带的优酷会员，到期之后绑定关系怎么解除呢？](https://www.v2ex.com/t/654701)  
+- [2020-03-20-怀疑-Xnip-导致-Command-键失灵，有遇到类似情况的吗](https://www.v2ex.com/t/654700)  
+- [2020-03-20-聊聊-iPad-Pro-妙控键盘](https://www.v2ex.com/t/654699)  
+- [2020-03-20-网易-163-邮箱证书过期了，-iPhone-/mac-不停弹提示，速修呀](https://www.v2ex.com/t/654698)  
+- [2020-03-20-iOS-邮件-appleimap.163.com-证书过期？疯狂提示](https://www.v2ex.com/t/654697)  
+- [2020-03-20-前端为什么要关注-Serverless?](https://www.v2ex.com/t/654696)  
+- [2020-03-20-emmm...Apple-Store-显示异常](https://www.v2ex.com/t/654695)  
+- [2020-03-20-java11---patch-module-如何使用](https://www.v2ex.com/t/654694)  
+- [2020-03-20-实现-NAT-Masquerade-TCP-状态管理的极简方案](https://www.v2ex.com/t/654693)  
+- [2020-03-20-透传是个什么原理](https://www.v2ex.com/t/654692)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

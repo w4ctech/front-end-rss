@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 04:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-21 07:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -906,6 +906,7 @@
 - [【知乎日报】2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [【知乎日报】2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [【知乎日报】2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [【V2EX】2020-03-21-汇率暴跌，所以-fork-了一个-Python-汇率-API](https://www.v2ex.com/t/654766) 
 - [【V2EX】2020-03-21-"洗稿"](https://www.v2ex.com/t/654765) 
 - [【V2EX】2020-03-21-n1-旁路由的一些疑惑](https://www.v2ex.com/t/654764) 
 - [【V2EX】2020-03-21-成都租房怎么跳过中介找到好房源](https://www.v2ex.com/t/654763) 

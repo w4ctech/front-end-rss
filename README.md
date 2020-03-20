@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 04:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 07:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -932,7 +932,8 @@
 </summary>
 
 
-- [2020-03-21-"洗稿"](https://www.v2ex.com/t/654765) ![](assets/new.png)  
+- [2020-03-21-汇率暴跌，所以-fork-了一个-Python-汇率-API](https://www.v2ex.com/t/654766) ![](assets/new.png)  
+- [2020-03-21-"洗稿"](https://www.v2ex.com/t/654765)  
 - [2020-03-21-n1-旁路由的一些疑惑](https://www.v2ex.com/t/654764)  
 - [2020-03-21-成都租房怎么跳过中介找到好房源](https://www.v2ex.com/t/654763)  
 - [2020-03-21-珠江宽频有使用第三方出口穿透？](https://www.v2ex.com/t/654762)  
@@ -951,7 +952,6 @@
 - [2020-03-21-PLEX-播放-29G-4K-电影顿卡问题](https://www.v2ex.com/t/654747)  
 - [2020-03-20-深圳有哪些大型外企?](https://www.v2ex.com/t/654746)  
 - [2020-03-20-苹果设备截屏是怎样的原理？部分视频网站如网飞截屏时视频区域显示黑色，这是什么原因？是苹果的技术还是-web-的技术呢？❤️](https://www.v2ex.com/t/654745)  
-- [2020-03-20-字节跳动前端急招-北/上/深/杭，今日头条、游戏、头条号、小说、教育等方向](https://www.v2ex.com/t/654744)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,7 +994,7 @@
 </summary>
 
 
-- [2020-03-21-推荐-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p) ![](assets/new.png)  
+- [2020-03-21-推荐-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p)  
 - [2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
 - [2020-03-21-推荐-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
 - [2020-03-21-推荐-服务的容灾与容错](https://toutiao.io/k/t1de0md)  

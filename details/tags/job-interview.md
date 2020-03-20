@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 11:30:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -17,6 +17,7 @@
 - [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) 
 - [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) 
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
+- [2020-03-20-【招聘】腾讯IMWeb前端团队大招聘（实习、应届生或社招）](https://www.ershicimi.com/p/dd40d53c20e612f0e8290f2166a9428f) 
 - [2020-03-19-【招聘】阿里业务平台事业部体验技术团队招实习生](https://www.ershicimi.com/p/b69c7cc3e4daeefc4bacdb7d05e91621) 
 - [2020-03-16-【招聘】阿里AE技术部前端招P6/P7、21届实习生](https://www.ershicimi.com/p/5d35fc589da902af028d13afb6cffb7b) 
 - [2020-03-15-【招聘】简单，真诚「阿里新零售CRO技术部大前端团队」春招实习！](https://www.ershicimi.com/p/e3456755c0f2355b2e7e5beffab7dd9a) 
@@ -38,6 +39,8 @@
 - [2020-03-15-去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123) 
 - [2020-03-20-阿里前端攻城狮们写了一份前端面试题答案，请查收](https://juejin.im/post/5e7426d15188254967069c00) 
 - [2020-03-19-美团面试准备](https://juejin.im/post/5e673b81f265da57424b9e8b) 
+- [2020-03-20-如何看待招聘单位薪资面议？](https://www.v2ex.com/t/654502) 
+- [2020-03-20-头部区块链公司招聘如下岗位。薪资美丽。（base-上海，可远程）](https://www.v2ex.com/t/654479) 
 - [2020-03-19-腾讯-IMWeb-团队招聘前端工程师！社招、校招、实习生统统都要！](https://www.v2ex.com/t/654396) 
 - [2020-03-19-Java-要懂的东西太多了，面试复习感受到了绝望！](https://www.v2ex.com/t/654377) 
 - [2020-03-19-思勰投资丨-20、21-届校园招聘-量化研究员、C++软件开发工程师（全职/实习）](https://www.v2ex.com/t/654356) 

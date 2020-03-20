@@ -7207,6 +7207,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1890期】看懂 Serverless SSR，这一篇就够了！",
+        "link": "https://www.ershicimi.com/p/f3f2c527a5743885741927b34fab63cb",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "【招聘】腾讯IMWeb前端团队大招聘（实习、应届生或社招）",
+        "link": "https://www.ershicimi.com/p/dd40d53c20e612f0e8290f2166a9428f",
+        "date": "2020-03-20"
+      },
+      {
         "title": "【第1889期】提升流利说图片生产10倍效率的方法",
         "link": "https://www.ershicimi.com/p/436ebf6d8237587e1bbba3ac69716f82",
         "date": "2020-03-19"
@@ -7330,6 +7340,11 @@
     "title": "前端开发",
     "link": "https://www.ershicimi.com/a/29",
     "items": [
+      {
+        "title": "我为什么要立刻放弃 React 而使用 Vue？",
+        "link": "https://www.ershicimi.com/p/cc5a9367fb6680a953c9f4c5e86c2549",
+        "date": "2020-03-20"
+      },
       {
         "title": "2020年不可错过的8个前端关键技能",
         "link": "https://www.ershicimi.com/p/6d0e3621e683940fb354178ea3d37be2",
@@ -9637,6 +9652,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "GitLab CI/CD 自动部署构建",
+        "link": "https://juejin.im/post/5e741a5a518825490e4582b7",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "docker搭建jenkins拉取svn代码打包vue项目部署到nginx",
+        "link": "https://juejin.im/post/5e7409056fb9a07cb03173ec",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "从0到1搭建webpack+react全家桶（一）",
+        "link": "https://juejin.im/post/5e6e01a6e51d45271b7487bf",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "详解setTimeout/setInterval（浏览器环境）",
+        "link": "https://juejin.im/post/5e738f99f265da575632759d",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "我为什么不推荐大家太注重学习",
+        "link": "https://juejin.im/post/5e738651518825491753cfc8",
+        "date": "2020-03-20"
+      },
+      {
         "title": "阿里前端攻城狮们写了一份前端面试题答案，请查收",
         "link": "https://juejin.im/post/5e7426d15188254967069c00",
         "date": "2020-03-20"
@@ -10216,6 +10256,126 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "什么应用场景下 Elasticsearch 可以代替 mongodb 作为一个 NoSQL 数据库使用？",
+        "link": "https://www.v2ex.com/t/654503",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "如何看待招聘单位薪资面议？",
+        "link": "https://www.v2ex.com/t/654502",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Java 有没有类似 node-binary 的库？",
+        "link": "https://www.v2ex.com/t/654501",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "阿里 2020 年前端春招内推-icbu 国际技术事业部",
+        "link": "https://www.v2ex.com/t/654500",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "为什么感觉戴眼好难受啊？",
+        "link": "https://www.v2ex.com/t/654499",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Java socket 程序奇怪的现象",
+        "link": "https://www.v2ex.com/t/654498",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "「网速 & 电池」for macOS 更新发布，前排福利送码啦！",
+        "link": "https://www.v2ex.com/t/654497",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "2020 年，续租的话租金会涨还是跌呢？",
+        "link": "https://www.v2ex.com/t/654496",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "请问 iPhone 能让播放的音频不显示在锁定界面吗",
+        "link": "https://www.v2ex.com/t/654495",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "macOS 有没有类似 Dashboard 的 app，可以在任意桌面打开一个临时的浮层空间，可以放一些杂乱的小窗口。",
+        "link": "https://www.v2ex.com/t/654494",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "老板最近想开发一套电商直播系统，大佬们给点意见！",
+        "link": "https://www.v2ex.com/t/654493",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "JS 与 OC 交互中异步回调的问题",
+        "link": "https://www.v2ex.com/t/654492",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "小红书什么情况？ Gplay 版本体积 100 多 MB，国内版本不到 70MB？",
+        "link": "https://www.v2ex.com/t/654491",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "一出来就炸。什么情况？",
+        "link": "https://www.v2ex.com/t/654490",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "想给老妈换个 iPhone ，目前性价比最高的是哪款？？",
+        "link": "https://www.v2ex.com/t/654489",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "整整休息了 3 个月",
+        "link": "https://www.v2ex.com/t/654488",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "下下周去外包阿里,求租",
+        "link": "https://www.v2ex.com/t/654487",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "大家好 想问下 py 处理长路径该怎么做",
+        "link": "https://www.v2ex.com/t/654486",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "裸机用 U 盘安装 Linux 失败，求帮助",
+        "link": "https://www.v2ex.com/t/654484",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "xxx",
+        "link": "https://www.v2ex.com/t/654483",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "人在国企当程序员，接触的开发都很水，请教一下如何提升自己。",
+        "link": "https://www.v2ex.com/t/654482",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "在不修改 A.jar 包的情况下，使 A.jar 包内某个 C.class，必定被另一个 B.jar 包中的 C.class 所覆盖，如何达成？",
+        "link": "https://www.v2ex.com/t/654481",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "本科计科专业大三杭州实习自己租房值得吗",
+        "link": "https://www.v2ex.com/t/654480",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "头部区块链公司招聘如下岗位。薪资美丽。（base 上海，可远程）",
+        "link": "https://www.v2ex.com/t/654479",
+        "date": "2020-03-20"
+      },
       {
         "title": "Github 自己的 repo 可以迁移位置吗？",
         "link": "https://www.v2ex.com/t/654478",

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 16:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 17:00:21，:rocket: 更新条数: +47， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -40,18 +40,18 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-20-新冠疫情英国“吹哨人”确诊-数据建模预警病毒人传人](http://china.caixin.com/2020-03-20/101531481.html) ![](assets/new.png)  
-- [2020-03-20-3月19日：172个国家和地区累计确诊新冠16.34万例-六国确诊病例过万](http://international.caixin.com/2020-03-20/101531493.html) ![](assets/new.png)  
+- [2020-03-20-新冠疫情英国“吹哨人”确诊-数据建模预警病毒人传人](http://china.caixin.com/2020-03-20/101531481.html)  
+- [2020-03-20-3月19日：172个国家和地区累计确诊新冠16.34万例-六国确诊病例过万](http://international.caixin.com/2020-03-20/101531493.html)  
 - [2020-03-20-中国发现超2000新冠患儿，已有新生儿和儿童死亡](http://china.caixin.com/2020-03-20/101531461.html)  
 - [2020-03-20-摩纳哥亲王成首名确诊元首-全欧洲感染已约10万人](http://international.caixin.com/2020-03-20/101531454.html)  
 - [2020-03-20-意大利新冠死亡人数超中国-死亡率或存在被高估现象](http://international.caixin.com/2020-03-20/101531436.html)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-03-20-我国首次实现本土确诊病例和疑似病例0新增](http://m.weibo.cn/2656274875/4484578158876004) ![](assets/new.png)  
+- [2020-03-20-山东省本地无新增确诊病例](http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202003/t20200320_3053288.html) ![](assets/new.png)  
 - [2020-03-20-除中国外6个国家确诊病例过万](http://m.weibo.cn/2656274875/4484563428961022)  
 - [2020-03-20-北京3月20日0时至12时新增报告境外输入确诊病例6例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200320_1722934.html)  
 - [2020-03-20-全球新冠肺炎死亡病例超万例](http://m.weibo.cn/2656274875/4484524778078889)  
@@ -112,8 +114,6 @@
 - [2020-03-19-西班牙新冠肺炎病例增至17147例](http://m.weibo.cn/2803301701/4484284725181345)  
 - [2020-03-19-伊朗新增确诊1046例](http://m.weibo.cn/3057540037/4484266274923607)  
 - [2020-03-19-俄罗斯出现首例新冠肺炎死亡病例](http://m.weibo.cn/2803301701/4484232300888684)  
-- [2020-03-19-全球确诊病例突破22万](http://m.weibo.cn/3057540037/4484228739509179)  
-- [2020-03-19-墨西哥首例新冠肺炎死亡病例](http://m.weibo.cn/3057540037/4484210935027261)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -367,8 +367,8 @@
 </summary>
 
 
-- [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e) ![](assets/new.png)  
-- [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893) ![](assets/new.png)  
+- [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e)  
+- [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893)  
 - [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93)  
 - [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20)  
 - [2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef)  
@@ -635,6 +635,7 @@
 </summary>
 
 
+- [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4) ![](assets/new.png)  
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)  
 - [2020-03-18-深入理解Javacript从作用域作用域链开始](https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82)  
 - [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de)  
@@ -777,6 +778,10 @@
 </summary>
 
 
+- [2020-03-20-【译】React-中你会这-10-个-JavaScript-概念吗？](https://juejin.im/post/5e7441d3e51d4527255cc93e) ![](assets/new.png)  
+- [2020-03-20-前端渣渣记一次排查万恶之源IE兼容性的问题](https://juejin.im/post/5e743530518825491a381f86) ![](assets/new.png)  
+- [2020-03-20-利用自定义按键达到tab切换表单效果的方法](https://juejin.im/post/5e7459f9f265da57082a0a1b) ![](assets/new.png)  
+- [2020-03-20-🔥0202年了，几个基础的手写函数总得会吧](https://juejin.im/post/5e745c80518825490e45833d) ![](assets/new.png)  
 - [2020-03-20-flex深度剖析-解决移动端适配问题！](https://juejin.im/post/5e72eca86fb9a07cd80f410f)  
 - [2020-03-20-从零开始写一个采集图片的chrome插件](https://juejin.im/post/5e745f35e51d4526c80ec11c)  
 - [2020-03-20-切页面算不算前端-你说了才算](https://juejin.im/post/5e745f9a51882549603900bd)  
@@ -793,10 +798,6 @@
 - [2020-03-19-【笔试题👋】分享一道有意思的arguments笔试题](https://juejin.im/post/5e733b746fb9a07ca24f7137)  
 - [2020-03-19-Vue的插槽介绍](https://juejin.im/post/5e733e8af265da573846657e)  
 - [2020-03-19-🔥-从最近流行的一幅-CSS-风景画中学习-2-个知识点](https://juejin.im/post/5e733909f265da574112248c)  
-- [2020-03-19-使用bpmn-js实现activiti的流程设计器](https://juejin.im/post/5e7330c36fb9a07cd248ef00)  
-- [2020-03-19-浅谈gitlab-ci分离部署方案](https://juejin.im/post/5e6f2f44f265da57602c6a30)  
-- [2020-03-19-“手把手”教你多语言翻译chrome插件](https://juejin.im/post/5e70aa4ce51d4526fd06a1ce)  
-- [2020-03-19-简化微信小程序用户授权](https://juejin.im/post/5e72f58ef265da57340260d1)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -915,26 +916,26 @@
 </summary>
 
 
-- [2020-03-20-apple-store-账号切换会让-AirPods-Pro-无法正常使用](https://www.v2ex.com/t/654574)  
-- [2020-03-20-实习生网易实习生招聘开始啦！](https://www.v2ex.com/t/654573)  
-- [2020-03-20-webservice-是什么东西？](https://www.v2ex.com/t/654572)  
-- [2020-03-20-有没有看股票的-chrome-插件,-适合上班划水用的那种😐](https://www.v2ex.com/t/654571)  
-- [2020-03-20-Edge-dev-更新支持插件同步了](https://www.v2ex.com/t/654569)  
-- [2020-03-20-阿里蚂蚁金服校招实习内推](https://www.v2ex.com/t/654568)  
-- [2020-03-20-老哥们，我妹子在做一个研究程序员职业发展相关的调研，求有空地填一波。](https://www.v2ex.com/t/654567)  
-- [2020-03-20-分享一个可以查找开源软件国内镜像站点的网站](https://www.v2ex.com/t/654565)  
-- [2020-03-20-在阿里云买错了一个云盘，付款后马上发现买错了，无法退款，请问怎么维权？难道几分钟时间就要-700-多？](https://www.v2ex.com/t/654564)  
-- [2020-03-20-实习🚗蚂蚁金服-研发效能实习内推-全栈/编译器/程序分析](https://www.v2ex.com/t/654563)  
-- [2020-03-20-农村扶贫相关事项请教](https://www.v2ex.com/t/654562)  
-- [2020-03-20-触控板汗液的问题](https://www.v2ex.com/t/654561)  
-- [2020-03-20-实习生-阿里云实习生招聘开始](https://www.v2ex.com/t/654560)  
-- [2020-03-20-B-站-Web-端推出了小窗口视频播放功能](https://www.v2ex.com/t/654558)  
-- [2020-03-20-这种微博转发是如何实现的？](https://www.v2ex.com/t/654557)  
-- [2020-03-20-腾讯西安子公司招人了！欢迎推荐](https://www.v2ex.com/t/654556)  
-- [2020-03-20-win10-系统间歇性卡顿，是什么原因？](https://www.v2ex.com/t/654555)  
-- [2020-03-20-Python-如何实时储存下位机发送的数据，数据要发送一天](https://www.v2ex.com/t/654554)  
-- [2020-03-20-写了个小程序-不好笑笑话](https://www.v2ex.com/t/654553)  
-- [2020-03-20-请问-Java-中编译和类加载是互相交织的还是有严格先编译后类加载的顺序的？](https://www.v2ex.com/t/654552)  
+- [2020-03-20-阿里实习内推阿里蚂蚁金服校招实习内推](https://www.v2ex.com/t/654619) ![](assets/new.png)  
+- [2020-03-20-口罩戴久了，-Face-ID-也能识别解锁](https://www.v2ex.com/t/654617) ![](assets/new.png)  
+- [2020-03-20-阿里-杭州-淘宝新制造招测试开发实习生](https://www.v2ex.com/t/654616) ![](assets/new.png)  
+- [2020-03-20-上海靠谱跨境电商公司招聘：-iOS-技术专家/高级-iOS-开发工程师，不加班](https://www.v2ex.com/t/654614) ![](assets/new.png)  
+- [2020-03-20-vue、react-还是纯-html（thymeleaf）](https://www.v2ex.com/t/654613) ![](assets/new.png)  
+- [2020-03-20-基于-Python-的开源直播平台源码](https://www.v2ex.com/t/654612) ![](assets/new.png)  
+- [2020-03-20-macOS-10.15-的-spotlight-聚焦搜索速度很慢](https://www.v2ex.com/t/654611) ![](assets/new.png)  
+- [2020-03-20-有没有就-sout"hello-world"-的最简-Java-程序中编译和类加载做了什么做了讲解的文章？没有实例不确定自己到底学没学懂，理解没理解对。。](https://www.v2ex.com/t/654610) ![](assets/new.png)  
+- [2020-03-20-为啥-Mac-的-excel-这么卡，开虚拟机的-Excel-都比自带的流畅](https://www.v2ex.com/t/654609) ![](assets/new.png)  
+- [2020-03-20-阿里-高德-北京-服务端技术开发专家-共享出行-内推](https://www.v2ex.com/t/654606) ![](assets/new.png)  
+- [2020-03-20-盒马校招内推开启啦](https://www.v2ex.com/t/654605) ![](assets/new.png)  
+- [2020-03-20-iOS-微信一堆未读信息](https://www.v2ex.com/t/654604) ![](assets/new.png)  
+- [2020-03-20-北京字节跳动25K—50K开发/算法搜索部门内推，-21-届日常/暑期实习、20-届春招、社招，大量-HC](https://www.v2ex.com/t/654603) ![](assets/new.png)  
+- [2020-03-20-阿里云研发工程师-校招-2021-届正式开始,-多地可选,-内推快来~](https://www.v2ex.com/t/654602) ![](assets/new.png)  
+- [2020-03-20-用-openMV3-做一个很小的项目，为企业解决数据采集相关的问题，该要价多少合适？](https://www.v2ex.com/t/654601) ![](assets/new.png)  
+- [2020-03-20-阿里21-届校招数字政务中台](https://www.v2ex.com/t/654600) ![](assets/new.png)  
+- [2020-03-20-2020-股东大会的微信群怎么解散了？](https://www.v2ex.com/t/654599) ![](assets/new.png)  
+- [2020-03-20-Python--docx-怎么将首页复制到后面几页？](https://www.v2ex.com/t/654598) ![](assets/new.png)  
+- [2020-03-20-社招蚂蚁上海大安全-Java-专家（P7）招聘](https://www.v2ex.com/t/654597) ![](assets/new.png)  
+- [2020-03-20-在公司里能用云笔记之类的软件存储工作相关的东西吗？](https://www.v2ex.com/t/654596) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

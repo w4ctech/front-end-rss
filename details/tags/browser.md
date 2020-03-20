@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,7 @@
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) 
+- [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2020-03-20-前端渣渣记一次排查万恶之源IE兼容性的问题](https://juejin.im/post/5e743530518825491a381f86) 
 - [2020-03-20-从零开始写一个采集图片的chrome插件](https://juejin.im/post/5e745f35e51d4526c80ec11c) 
 - [2020-03-19-“手把手”教你多语言翻译chrome插件](https://juejin.im/post/5e70aa4ce51d4526fd06a1ce) 
@@ -33,6 +34,8 @@
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-19-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738) 
+- [2020-03-20-IE11-鞭尸手法之一](https://www.v2ex.com/t/654725) 
 - [2020-03-20-用-Proxifier-代理-outlook-和-Onedrive-的问题](https://www.v2ex.com/t/654688) 
 - [2020-03-20-Android-手机淘宝-一日占用-361GB-缓存空间](https://www.v2ex.com/t/654669) 
 - [2020-03-20-发现一个-ViewModel-的问题，不知道是-bug-还是-feature?](https://www.v2ex.com/t/654661) 

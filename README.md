@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 23:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 00:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-20-生死金银潭：一支医疗队的50天](http://weekly.caixin.com/2020-03-20/101531821.html) ![](assets/new.png)  
-- [2020-03-20-大流行手记|3月20日:积极防控现成效-全球任重道远](http://www.caixin.com/2020-03-20/101531809.html) ![](assets/new.png)  
+- [2020-03-20-生死金银潭：一支医疗队的50天](http://weekly.caixin.com/2020-03-20/101531821.html)  
+- [2020-03-20-大流行手记|3月20日:积极防控现成效-全球任重道远](http://www.caixin.com/2020-03-20/101531809.html)  
 - [2020-03-20-香港单日新增至少48例-隔离病房使用率超7成](http://china.caixin.com/2020-03-20/101531718.html)  
 - [2020-03-20-外交部：新冠源头是个科学问题](http://international.caixin.com/2020-03-20/101531712.html)  
 - [2020-03-20-韩国病例增长平缓后又现反弹-专家吁须做长期抗疫准备](http://international.caixin.com/2020-03-20/101531681.html)  
@@ -785,6 +785,7 @@
 </summary>
 
 
+- [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) ![](assets/new.png)  
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc)  
 - [2020-03-20-记录文本图标对齐的几种解决方案](https://juejin.im/post/5e7497815188252c0551f84d)  
 - [2020-03-20-基于node实现Vue打包部署脚本](https://juejin.im/post/5e748fd26fb9a07c9e1c47ef)  
@@ -804,7 +805,6 @@
 - [2020-03-20-可能这里有你想要的js手写代码实现](https://juejin.im/post/5e7438d6e51d4534ec007b21)  
 - [2020-03-20-JS垃圾回收，这次可以看懂了（带图警告）](https://juejin.im/post/5e734dece51d4526c550cd8d)  
 - [2020-03-20-GitLab-CI/CD-自动部署构建](https://juejin.im/post/5e741a5a518825490e4582b7)  
-- [2020-03-20-docker搭建jenkins拉取svn代码打包vue项目部署到nginx](https://juejin.im/post/5e7409056fb9a07cb03173ec)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -923,26 +923,26 @@
 </summary>
 
 
+- [2020-03-20-c++有能力实现编译时的-int-对字符串翻译表吗？](https://www.v2ex.com/t/654741) ![](assets/new.png)  
+- [2020-03-20-vue-页面不打包编译，直接引用-vue.min.js，这样-ok-么](https://www.v2ex.com/t/654740) ![](assets/new.png)  
+- [2020-03-20-Kingdom-Rush、Prune-等-10-款付费游戏限时免费](https://www.v2ex.com/t/654739) ![](assets/new.png)  
+- [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738) ![](assets/new.png)  
+- [2020-03-20-Kotlin-的协程实现的意义是什么呢？](https://www.v2ex.com/t/654737) ![](assets/new.png)  
+- [2020-03-20-为什么我手机上-提醒事项-App-的图标右上角从来不会显示数字？](https://www.v2ex.com/t/654736) ![](assets/new.png)  
+- [2020-03-20-有没有祖安话的仓库？](https://www.v2ex.com/t/654735) ![](assets/new.png)  
+- [2020-03-20-阿里云-实时计算-Flink-社招-实习生-内推](https://www.v2ex.com/t/654734) ![](assets/new.png)  
+- [2020-03-20-“也许这就是人生吧”](https://www.v2ex.com/t/654732) ![](assets/new.png)  
+- [2020-03-20-美国股市理论上还能熔断几次？](https://www.v2ex.com/t/654730) ![](assets/new.png)  
+- [2020-03-20-Java-中这个语法糖是什么时候出现的，第一次见。](https://www.v2ex.com/t/654729) ![](assets/new.png)  
+- [2020-03-20-1password-家庭版免费试用一年](https://www.v2ex.com/t/654728) ![](assets/new.png)  
+- [2020-03-20-求一款-WHMCS-检测网站到货通知并下单的脚本？](https://www.v2ex.com/t/654727) ![](assets/new.png)  
+- [2020-03-20-如何使-Vmware-player-的虚拟机所有通信都走-socks5-代理？](https://www.v2ex.com/t/654726) ![](assets/new.png)  
+- [2020-03-20-IE11-鞭尸手法之一](https://www.v2ex.com/t/654725) ![](assets/new.png)  
 - [2020-03-20-如何实现分批执行线程](https://www.v2ex.com/t/654724)  
 - [2020-03-20-Apple-ID-的通知/密码重置邮件如果支持-GPG-加密会怎样](https://www.v2ex.com/t/654722)  
 - [2020-03-20-请教一个-nginx-302-跳转配置文件的写法问题](https://www.v2ex.com/t/654721)  
 - [2020-03-20-单机-app-用的是-sqlite-数据库，备份方案怎么设计实现？](https://www.v2ex.com/t/654720)  
 - [2020-03-20-Macbook-Pro-16-寸，连接-PowerBeats-Pro-只能选择-48kHz？](https://www.v2ex.com/t/654719)  
-- [2020-03-20-提个问题，-Mac-上暗黑模式相关的应用](https://www.v2ex.com/t/654718)  
-- [2020-03-20-关于英国的“群体免疫”，这个视频是我看过的国内媒体最客观公正又通俗易懂的视频了。](https://www.v2ex.com/t/654717)  
-- [2020-03-20-OPA-进阶-函数与虚拟文档要分清](https://www.v2ex.com/t/654715)  
-- [2020-03-20-小米-AX3600-到了，做了一些简单测试](https://www.v2ex.com/t/654714)  
-- [2020-03-20-通过-USB-线-镜像-iPhone-/-iPad-屏幕到-windows-电脑的方法](https://www.v2ex.com/t/654712)  
-- [2020-03-20-Godaddy-的-JP-域名无法续费怎么办](https://www.v2ex.com/t/654710)  
-- [2020-03-20-阿里云应用研发平台-2020-春季校园招聘，部门直推](https://www.v2ex.com/t/654709)  
-- [2020-03-20-再把鼠标放到画中画左边框拉大画中画，画中画最后会跑到屏幕外去](https://www.v2ex.com/t/654708)  
-- [2020-03-20-koa-的-decorator，看这个轮子，它又大又圆！](https://www.v2ex.com/t/654707)  
-- [2020-03-20-iPad-文件-APP-不自动更新](https://www.v2ex.com/t/654706)  
-- [2020-03-20-Win10-开机具慢大家是如何排除的？](https://www.v2ex.com/t/654705)  
-- [2020-03-20-Affinity-50%折扣，前几天在数码荔枝-299-买的亏爆了！](https://www.v2ex.com/t/654704)  
-- [2020-03-20-无可奈何的小人~-兰兰想系列表情包~](https://www.v2ex.com/t/654703)  
-- [2020-03-20-工作-3-年了，感觉一年不如一年，好崩溃...](https://www.v2ex.com/t/654702)  
-- [2020-03-20-88vip-自带的优酷会员，到期之后绑定关系怎么解除呢？](https://www.v2ex.com/t/654701)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

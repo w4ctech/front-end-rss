@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 20:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 21:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,7 +63,7 @@
 </summary>
 
 
-- [2020-03-20-外交部：新冠源头是个科学问题](http://international.caixin.com/2020-03-20/101531712.html) ![](assets/new.png)  
+- [2020-03-20-外交部：新冠源头是个科学问题](http://international.caixin.com/2020-03-20/101531712.html)  
 - [2020-03-20-韩国病例增长平缓后又现反弹-专家吁须做长期抗疫准备](http://international.caixin.com/2020-03-20/101531681.html)  
 - [2020-03-20-国家卫健委：援鄂医务人员已撤离1.2万名](http://china.caixin.com/2020-03-20/101531653.html)  
 - [2020-03-20-吉林应急响应级别由二级降为三级-5天前实现“三清零”](http://china.caixin.com/2020-03-20/101531646.html)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-03-20-中国以外新冠肺炎162495例](http://m.weibo.cn/2803301701/4484642931351516) ![](assets/new.png)  
 - [2020-03-20-西班牙新增新冠肺炎确诊病例930例](http://m.weibo.cn/3057540037/4484624849454868)  
 - [2020-03-20-伊朗累计确诊升至1964](http://m.weibo.cn/2803301701/4484622711219841)  
 - [2020-03-20-德国新冠肺炎累计确诊13957](http://m.weibo.cn/2803301701/4484605388489571)  
@@ -113,7 +114,6 @@
 - [2020-03-20-天津市无新增本地新冠肺炎确诊病例-报告境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/20/art_87_72538.html)  
 - [2020-03-20-中国重剑队3名队员确诊新冠肺炎](http://m.weibo.cn/2656274875/4484478279471837)  
 - [2020-03-20-美国累计确诊新冠肺炎13680例，24小时几乎翻倍](http://m.weibo.cn/3057540037/4484476610917333)  
-- [2020-03-20-全国新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/0fc43d6804b04a4595a2eadd846c0a6e.shtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -921,26 +921,26 @@
 </summary>
 
 
+- [2020-03-20-工作-3-年了，感觉一年不如一年，好崩溃...](https://www.v2ex.com/t/654702) ![](assets/new.png)  
+- [2020-03-20-88vip-自带的优酷会员，到期之后绑定关系怎么解除呢？](https://www.v2ex.com/t/654701) ![](assets/new.png)  
+- [2020-03-20-怀疑-Xnip-导致-Command-键失灵，有遇到类似情况的吗](https://www.v2ex.com/t/654700) ![](assets/new.png)  
+- [2020-03-20-聊聊-iPad-Pro-妙控键盘](https://www.v2ex.com/t/654699) ![](assets/new.png)  
+- [2020-03-20-网易-163-邮箱证书过期了，-iPhone-/mac-不停弹提示，速修呀](https://www.v2ex.com/t/654698) ![](assets/new.png)  
+- [2020-03-20-iOS-邮件-appleimap.163.com-证书过期？疯狂提示](https://www.v2ex.com/t/654697) ![](assets/new.png)  
+- [2020-03-20-前端为什么要关注-Serverless?](https://www.v2ex.com/t/654696) ![](assets/new.png)  
+- [2020-03-20-emmm...Apple-Store-显示异常](https://www.v2ex.com/t/654695) ![](assets/new.png)  
+- [2020-03-20-java11---patch-module-如何使用](https://www.v2ex.com/t/654694) ![](assets/new.png)  
+- [2020-03-20-实现-NAT-Masquerade-TCP-状态管理的极简方案](https://www.v2ex.com/t/654693) ![](assets/new.png)  
+- [2020-03-20-透传是个什么原理](https://www.v2ex.com/t/654692) ![](assets/new.png)  
+- [2020-03-20-Mysql-ip-is-blocked-because-of-many-connection-errors-错误](https://www.v2ex.com/t/654689) ![](assets/new.png)  
+- [2020-03-20-用-Proxifier-代理-outlook-和-Onedrive-的问题](https://www.v2ex.com/t/654688) ![](assets/new.png)  
+- [2020-03-20-仅能提醒佩戴口罩？-不，佳华科技联手青云-QingCloud-实现疫情传播轨迹分析](https://www.v2ex.com/t/654687) ![](assets/new.png)  
+- [2020-03-20-字节跳动-前端&服务端-可内推](https://www.v2ex.com/t/654686) ![](assets/new.png)  
 - [2020-03-20-开个印度油管车-4-月-8-号前免费](https://www.v2ex.com/t/654685)  
 - [2020-03-20-青云-QingCloud-联合爱壹得用科技为一线医护人员筑起防护长城](https://www.v2ex.com/t/654684)  
 - [2020-03-20-2021-届毕业实习杭州淘宝-淘宝消息团队招人](https://www.v2ex.com/t/654683)  
 - [2020-03-20-西安的互联网还有吗？](https://www.v2ex.com/t/654682)  
 - [2020-03-20-下单了-mba-乞丐版，我开始纠结了。](https://www.v2ex.com/t/654681)  
-- [2020-03-20-公司招-UI-设计师（刚出道的小朋友）](https://www.v2ex.com/t/654680)  
-- [2020-03-20-不知道哪个-app-可以免费或付费看到比较近期的卫星图](https://www.v2ex.com/t/654679)  
-- [2020-03-20-什么样的代码是-maintainable-的？](https://www.v2ex.com/t/654678)  
-- [2020-03-20-蚂蚁金服中间件团队实习生招聘](https://www.v2ex.com/t/654677)  
-- [2020-03-20-青云-QingCloud-云网边端一体化服务-打造江苏交控智慧交通全国范例](https://www.v2ex.com/t/654676)  
-- [2020-03-20-求教-V-站的鹅厂大佬，面试官给你什么样的回应大概率面试算是过了](https://www.v2ex.com/t/654675)  
-- [2020-03-20-2020-年-3-月，该买-mac-mini-2020-还是-iMac-27-寸-2019？](https://www.v2ex.com/t/654674)  
-- [2020-03-20-关于-CLion-写入磁盘过多的问题](https://www.v2ex.com/t/654673)  
-- [2020-03-20-讨论一下一个中后台系统脚手架，代码生成器的必要性？](https://www.v2ex.com/t/654672)  
-- [2020-03-20-关于游戏显卡驱动的一些问题](https://www.v2ex.com/t/654671)  
-- [2020-03-20-字节跳动-2020-春招面试官直播答疑-上海创新业务专场！](https://www.v2ex.com/t/654670)  
-- [2020-03-20-Android-手机淘宝-一日占用-361GB-缓存空间](https://www.v2ex.com/t/654669)  
-- [2020-03-20-DevOps-Roadmap-持续学习路径分享](https://www.v2ex.com/t/654668)  
-- [2020-03-20-2020-MacBook-Air-新款-是真香机么？](https://www.v2ex.com/t/654667)  
-- [2020-03-20-macOS-cron-进程泄露，有人知道怎么回事吗](https://www.v2ex.com/t/654666)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

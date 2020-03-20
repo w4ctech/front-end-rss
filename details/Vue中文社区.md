@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-03-19 12:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 13:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-03-20-腾讯CDC团队的前端异常监控解决方案～](https://www.ershicimi.com/p/fd9676469747fa9f0703ec6b9665e2b3) 
+- [2020-03-19-“讲真，返岗工作这几周，我体验到从未有过的酸爽”](https://www.ershicimi.com/p/f152109124c1558dbcf71495ff677a21) 
 - [2020-03-19-苹果手机真香，包邮送一台！](https://www.ershicimi.com/p/44f53f9baef97059306e5c53ed432502) 
 - [2020-03-18-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/7e47eea23b8368e531e153c4ef628ded) 
 - [2020-03-18-图文并茂，为你揭开“单点登录“的神秘面纱](https://www.ershicimi.com/p/d0867edb3cc35fe6bb0c3bfec476c113) 

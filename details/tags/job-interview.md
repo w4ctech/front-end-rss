@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 13:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,6 +40,9 @@
 - [2020-03-15-去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123) 
 - [2020-03-20-阿里前端攻城狮们写了一份前端面试题答案，请查收](https://juejin.im/post/5e7426d15188254967069c00) 
 - [2020-03-19-美团面试准备](https://juejin.im/post/5e673b81f265da57424b9e8b) 
+- [2020-03-20-外企-Wiredcraft-招聘-Quality-Assurance-Tester](https://www.v2ex.com/t/654524) 
+- [2020-03-20-蚂蚁金服--网商银行实习生招聘](https://www.v2ex.com/t/654519) 
+- [2020-03-20-招聘-坐标北京，招聘爬虫工程师，求自荐与推荐](https://www.v2ex.com/t/654516) 
 - [2020-03-20-如何看待招聘单位薪资面议？](https://www.v2ex.com/t/654502) 
 - [2020-03-20-头部区块链公司招聘如下岗位。薪资美丽。（base-上海，可远程）](https://www.v2ex.com/t/654479) 
 - [2020-03-19-腾讯-IMWeb-团队招聘前端工程师！社招、校招、实习生统统都要！](https://www.v2ex.com/t/654396) 

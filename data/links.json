@@ -10147,6 +10147,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "意大利的新冠死亡数量已经超过中国了",
+        "link": "https://www.v2ex.com/t/654443",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "我发现微信注册可以无限套娃",
+        "link": "https://www.v2ex.com/t/654442",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Microsoft todo Windows 版无法获取",
+        "link": "https://www.v2ex.com/t/654441",
+        "date": "2020-03-20"
+      },
+      {
         "title": "字节跳动“赚钱”的技术团队春招啦！ [字节跳动广告系统 ]",
         "link": "https://www.v2ex.com/t/654440",
         "date": "2020-03-20"
@@ -11875,6 +11890,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "集合去重三境界",
+        "link": "https://toutiao.io/k/nah6zsj",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "非著名架构师告诉你，代码该如何写，才能自己写的容易别人看的也不痛苦",
+        "link": "https://toutiao.io/k/wta4dr6",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "3 月美团面经分享",
+        "link": "https://toutiao.io/k/vnx6gp1",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "TypeScript 装饰器整理及用例介绍",
+        "link": "https://toutiao.io/k/r09bbbt",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Rust 入坑指南：齐头并进（上）",
+        "link": "https://toutiao.io/k/vwx9hel",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "程序员小 W 的成长故事",
+        "link": "https://toutiao.io/k/jiqfrut",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "如何抢功，甩锅，立于不败之地？？？",
+        "link": "https://toutiao.io/k/yeq5tas",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "深入探索 Android 启动速度优化",
+        "link": "https://toutiao.io/k/k6cz2z1",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "一代传奇 SIFT 算法专利到期",
+        "link": "https://toutiao.io/k/4yow9xg",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "OAM 深入解读：OAM 为云原生应用带来哪些价值？",
+        "link": "https://toutiao.io/k/tso1l1p",
+        "date": "2020-03-20"
+      },
       {
         "title": "[推荐] 有赞全链路追踪实践",
         "link": "https://toutiao.io/k/wvwg0ka",

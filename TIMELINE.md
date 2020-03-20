@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-20 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -801,6 +801,9 @@
 - [【知乎日报】2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [【知乎日报】2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [【知乎日报】2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [【V2EX】2020-03-20-意大利的新冠死亡数量已经超过中国了](https://www.v2ex.com/t/654443) 
+- [【V2EX】2020-03-20-我发现微信注册可以无限套娃](https://www.v2ex.com/t/654442) 
+- [【V2EX】2020-03-20-Microsoft-todo-Windows-版无法获取](https://www.v2ex.com/t/654441) 
 - [【V2EX】2020-03-20-字节跳动“赚钱”的技术团队春招啦！-字节跳动广告系统-](https://www.v2ex.com/t/654440) 
 - [【V2EX】2020-03-20-GUIDE---关于如何把已经完成或者失效的交易自己移动到-/go/closed-关闭交易-节点](https://www.v2ex.com/t/654439) 
 - [【V2EX】2020-03-20-pip-怎么解决依赖库的版本冲突问题？](https://www.v2ex.com/t/654438) 
@@ -1144,6 +1147,16 @@
 - [【技术头条】2020-03-19-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-19-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-19-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-20-集合去重三境界](https://toutiao.io/k/nah6zsj) 
+- [【开发者头条】2020-03-20-非著名架构师告诉你，代码该如何写，才能自己写的容易别人看的也不痛苦](https://toutiao.io/k/wta4dr6) 
+- [【开发者头条】2020-03-20-3-月美团面经分享](https://toutiao.io/k/vnx6gp1) 
+- [【开发者头条】2020-03-20-TypeScript-装饰器整理及用例介绍](https://toutiao.io/k/r09bbbt) 
+- [【开发者头条】2020-03-20-Rust-入坑指南：齐头并进（上）](https://toutiao.io/k/vwx9hel) 
+- [【开发者头条】2020-03-20-程序员小-W-的成长故事](https://toutiao.io/k/jiqfrut) 
+- [【开发者头条】2020-03-20-如何抢功，甩锅，立于不败之地？？？](https://toutiao.io/k/yeq5tas) 
+- [【开发者头条】2020-03-20-深入探索-Android-启动速度优化](https://toutiao.io/k/k6cz2z1) 
+- [【开发者头条】2020-03-20-一代传奇-SIFT-算法专利到期](https://toutiao.io/k/4yow9xg) 
+- [【开发者头条】2020-03-20-OAM-深入解读：OAM-为云原生应用带来哪些价值？](https://toutiao.io/k/tso1l1p) 
 - [【开发者头条】2020-03-20-推荐-有赞全链路追踪实践](https://toutiao.io/k/wvwg0ka) 
 - [【开发者头条】2020-03-20-推荐-微服务架构案例（二）：业务架构设计，系统分层管理](https://toutiao.io/k/lzpb0rx) 
 - [【开发者头条】2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez) 

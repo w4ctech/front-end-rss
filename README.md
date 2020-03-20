@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 08:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 09:00:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-03-20-意大利一日新增5322例新冠肺炎，累计确诊新冠肺炎超4万例](http://m.weibo.cn/2656274875/4484448500659892) ![](assets/new.png)  
-- [2020-03-20-美国新增近4000例新冠肺炎，累计确诊13350例](http://m.weibo.cn/2803301701/4484443298980539) ![](assets/new.png)  
-- [2020-03-20-首位感染新冠肺炎国家元首，摩纳哥公国阿尔贝亲王二世确诊](http://m.weibo.cn/3057540037/4484442720543819) ![](assets/new.png)  
-- [2020-03-20-法国新增1861例，累计确诊超万例](http://m.weibo.cn/2803301701/4484441575797036) ![](assets/new.png)  
-- [2020-03-20-意大利单日新增5322例新冠肺炎，累计确诊病例超4万](http://m.weibo.cn/2803301701/4484439767864655) ![](assets/new.png)  
+- [2020-03-20-意大利一日新增5322例新冠肺炎，累计确诊新冠肺炎超4万例](http://m.weibo.cn/2656274875/4484448500659892)  
+- [2020-03-20-美国新增近4000例新冠肺炎，累计确诊13350例](http://m.weibo.cn/2803301701/4484443298980539)  
+- [2020-03-20-首位感染新冠肺炎国家元首，摩纳哥公国阿尔贝亲王二世确诊](http://m.weibo.cn/3057540037/4484442720543819)  
+- [2020-03-20-法国新增1861例，累计确诊超万例](http://m.weibo.cn/2803301701/4484441575797036)  
+- [2020-03-20-意大利单日新增5322例新冠肺炎，累计确诊病例超4万](http://m.weibo.cn/2803301701/4484439767864655)  
 - [2020-03-19-西班牙新冠肺炎病例增至17147例](http://m.weibo.cn/2803301701/4484284725181345)  
 - [2020-03-19-伊朗新增确诊1046例](http://m.weibo.cn/3057540037/4484266274923607)  
 - [2020-03-19-俄罗斯出现首例新冠肺炎死亡病例](http://m.weibo.cn/2803301701/4484232300888684)  
@@ -898,6 +898,9 @@
 </summary>
 
 
+- [2020-03-20-意大利的新冠死亡数量已经超过中国了](https://www.v2ex.com/t/654443) ![](assets/new.png)  
+- [2020-03-20-我发现微信注册可以无限套娃](https://www.v2ex.com/t/654442) ![](assets/new.png)  
+- [2020-03-20-Microsoft-todo-Windows-版无法获取](https://www.v2ex.com/t/654441) ![](assets/new.png)  
 - [2020-03-20-字节跳动“赚钱”的技术团队春招啦！-字节跳动广告系统-](https://www.v2ex.com/t/654440)  
 - [2020-03-20-GUIDE---关于如何把已经完成或者失效的交易自己移动到-/go/closed-关闭交易-节点](https://www.v2ex.com/t/654439)  
 - [2020-03-20-pip-怎么解决依赖库的版本冲突问题？](https://www.v2ex.com/t/654438)  
@@ -915,9 +918,6 @@
 - [2020-03-20-现在主流的防误判算法是哪种啊](https://www.v2ex.com/t/654422)  
 - [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421)  
 - [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420)  
-- [2020-03-19-号外！号外！-Affinity-Photo/Designer/Publisher-多平台全部半价了](https://www.v2ex.com/t/654419)  
-- [2020-03-19-该如何处理-iOS-的单机应用内购掉单？](https://www.v2ex.com/t/654418)  
-- [2020-03-19-北京/上海社招-饿了么招各岗位，-5-年及以上](https://www.v2ex.com/t/654417)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -960,6 +960,16 @@
 </summary>
 
 
+- [2020-03-20-集合去重三境界](https://toutiao.io/k/nah6zsj) ![](assets/new.png)  
+- [2020-03-20-非著名架构师告诉你，代码该如何写，才能自己写的容易别人看的也不痛苦](https://toutiao.io/k/wta4dr6) ![](assets/new.png)  
+- [2020-03-20-3-月美团面经分享](https://toutiao.io/k/vnx6gp1) ![](assets/new.png)  
+- [2020-03-20-TypeScript-装饰器整理及用例介绍](https://toutiao.io/k/r09bbbt) ![](assets/new.png)  
+- [2020-03-20-Rust-入坑指南：齐头并进（上）](https://toutiao.io/k/vwx9hel) ![](assets/new.png)  
+- [2020-03-20-程序员小-W-的成长故事](https://toutiao.io/k/jiqfrut) ![](assets/new.png)  
+- [2020-03-20-如何抢功，甩锅，立于不败之地？？？](https://toutiao.io/k/yeq5tas) ![](assets/new.png)  
+- [2020-03-20-深入探索-Android-启动速度优化](https://toutiao.io/k/k6cz2z1) ![](assets/new.png)  
+- [2020-03-20-一代传奇-SIFT-算法专利到期](https://toutiao.io/k/4yow9xg) ![](assets/new.png)  
+- [2020-03-20-OAM-深入解读：OAM-为云原生应用带来哪些价值？](https://toutiao.io/k/tso1l1p) ![](assets/new.png)  
 - [2020-03-20-推荐-有赞全链路追踪实践](https://toutiao.io/k/wvwg0ka)  
 - [2020-03-20-推荐-微服务架构案例（二）：业务架构设计，系统分层管理](https://toutiao.io/k/lzpb0rx)  
 - [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez)  
@@ -970,16 +980,6 @@
 - [2020-03-19-IoT-时代天猫精灵蓝牙技术大揭秘](https://toutiao.io/k/3221ztl)  
 - [2020-03-19-开源一段-Mac-批量压缩图片的脚本](https://toutiao.io/k/gcdb4wx)  
 - [2020-03-19-最好用的-web-端代码文本编辑器-ACE](https://toutiao.io/k/ep81xdt)  
-- [2020-03-19-.NET-WinDbg-调试流程](https://toutiao.io/k/v2qfelk)  
-- [2020-03-19-一个优秀的-Push-平台，需要经历怎样的前世今生](https://toutiao.io/k/r5ft5dk)  
-- [2020-03-19-在-TS-中你踩过默认值的坑么？给-??-运算符把坑填了](https://toutiao.io/k/ox2o23r)  
-- [2020-03-19-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
-- [2020-03-19-推荐-话说-Kubernetes-网络疑难杂症](https://toutiao.io/k/qaylxpl)  
-- [2020-03-19-推荐-为什么我们要面向接口编程](https://toutiao.io/k/2j20u8f)  
-- [2020-03-19-一位湖北码农的真实故事](https://toutiao.io/k/ffix1hm)  
-- [2020-03-19-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
-- [2020-03-19-推荐-拥有这些工具，还怕干不出好活？](https://toutiao.io/k/jlh1v51)  
-- [2020-03-19-推荐-译-​程序员如何挣外快？](https://toutiao.io/k/4aejh5o)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

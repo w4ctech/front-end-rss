@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1145,6 +1145,7 @@
 - [2020-03-13-20-个帮你更快搬砖的-vscode-快捷键](https://www.ershicimi.com/p/9c71b7c248a6a10c606a0b435587490f) 
 - [2020-03-13-2020，前端工程师凭什么这么值钱？](https://www.ershicimi.com/p/34c1ebd7400b77371a2fd5621151fae4) 
 - [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) 
+- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) 
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html) 
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html) 
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 09:00:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -555,6 +555,7 @@
 </summary>
 
 
+- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) ![](assets/new.png)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)  
@@ -898,9 +899,9 @@
 </summary>
 
 
-- [2020-03-20-意大利的新冠死亡数量已经超过中国了](https://www.v2ex.com/t/654443) ![](assets/new.png)  
-- [2020-03-20-我发现微信注册可以无限套娃](https://www.v2ex.com/t/654442) ![](assets/new.png)  
-- [2020-03-20-Microsoft-todo-Windows-版无法获取](https://www.v2ex.com/t/654441) ![](assets/new.png)  
+- [2020-03-20-意大利的新冠死亡数量已经超过中国了](https://www.v2ex.com/t/654443)  
+- [2020-03-20-我发现微信注册可以无限套娃](https://www.v2ex.com/t/654442)  
+- [2020-03-20-Microsoft-todo-Windows-版无法获取](https://www.v2ex.com/t/654441)  
 - [2020-03-20-字节跳动“赚钱”的技术团队春招啦！-字节跳动广告系统-](https://www.v2ex.com/t/654440)  
 - [2020-03-20-GUIDE---关于如何把已经完成或者失效的交易自己移动到-/go/closed-关闭交易-节点](https://www.v2ex.com/t/654439)  
 - [2020-03-20-pip-怎么解决依赖库的版本冲突问题？](https://www.v2ex.com/t/654438)  
@@ -960,16 +961,16 @@
 </summary>
 
 
-- [2020-03-20-集合去重三境界](https://toutiao.io/k/nah6zsj) ![](assets/new.png)  
-- [2020-03-20-非著名架构师告诉你，代码该如何写，才能自己写的容易别人看的也不痛苦](https://toutiao.io/k/wta4dr6) ![](assets/new.png)  
-- [2020-03-20-3-月美团面经分享](https://toutiao.io/k/vnx6gp1) ![](assets/new.png)  
-- [2020-03-20-TypeScript-装饰器整理及用例介绍](https://toutiao.io/k/r09bbbt) ![](assets/new.png)  
-- [2020-03-20-Rust-入坑指南：齐头并进（上）](https://toutiao.io/k/vwx9hel) ![](assets/new.png)  
-- [2020-03-20-程序员小-W-的成长故事](https://toutiao.io/k/jiqfrut) ![](assets/new.png)  
-- [2020-03-20-如何抢功，甩锅，立于不败之地？？？](https://toutiao.io/k/yeq5tas) ![](assets/new.png)  
-- [2020-03-20-深入探索-Android-启动速度优化](https://toutiao.io/k/k6cz2z1) ![](assets/new.png)  
-- [2020-03-20-一代传奇-SIFT-算法专利到期](https://toutiao.io/k/4yow9xg) ![](assets/new.png)  
-- [2020-03-20-OAM-深入解读：OAM-为云原生应用带来哪些价值？](https://toutiao.io/k/tso1l1p) ![](assets/new.png)  
+- [2020-03-20-集合去重三境界](https://toutiao.io/k/nah6zsj)  
+- [2020-03-20-非著名架构师告诉你，代码该如何写，才能自己写的容易别人看的也不痛苦](https://toutiao.io/k/wta4dr6)  
+- [2020-03-20-3-月美团面经分享](https://toutiao.io/k/vnx6gp1)  
+- [2020-03-20-TypeScript-装饰器整理及用例介绍](https://toutiao.io/k/r09bbbt)  
+- [2020-03-20-Rust-入坑指南：齐头并进（上）](https://toutiao.io/k/vwx9hel)  
+- [2020-03-20-程序员小-W-的成长故事](https://toutiao.io/k/jiqfrut)  
+- [2020-03-20-如何抢功，甩锅，立于不败之地？？？](https://toutiao.io/k/yeq5tas)  
+- [2020-03-20-深入探索-Android-启动速度优化](https://toutiao.io/k/k6cz2z1)  
+- [2020-03-20-一代传奇-SIFT-算法专利到期](https://toutiao.io/k/4yow9xg)  
+- [2020-03-20-OAM-深入解读：OAM-为云原生应用带来哪些价值？](https://toutiao.io/k/tso1l1p)  
 - [2020-03-20-推荐-有赞全链路追踪实践](https://toutiao.io/k/wvwg0ka)  
 - [2020-03-20-推荐-微服务架构案例（二）：业务架构设计，系统分层管理](https://toutiao.io/k/lzpb0rx)  
 - [2020-03-20-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez)  

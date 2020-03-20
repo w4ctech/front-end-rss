@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,6 +27,7 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-03-20-关于游戏显卡驱动的一些问题](https://www.v2ex.com/t/654671) 
 - [2020-03-20-求-XBOX-ONE-X-的游戏推荐](https://www.v2ex.com/t/654647) 
 - [2020-03-20-老哥们，-macOS-想玩-win-游戏有什么好方案吗？](https://www.v2ex.com/t/654512) 
 - [2020-03-20-20200319---Steam-上没法买游戏](https://www.v2ex.com/t/654430) 

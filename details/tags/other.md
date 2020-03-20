@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-03-20 10:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-20-湖北再更风险等级：除武汉为高风险外-其他市县均为低风险](http://china.caixin.com/2020-03-20/101531338.html) 
 - [2020-03-20-美国新冠确诊单日新增超5000例-累积确诊突破万人](http://international.caixin.com/2020-03-20/101531314.html) 
 - [2020-03-20-意大利封城决策复盘-重症床位如何调配](http://international.caixin.com/2020-03-20/101531303.html) 
 - [2020-03-20-日本北海道脱离疫情“紧急事态”-全国确诊达1670人](http://international.caixin.com/2020-03-20/101531296.html) 
@@ -1139,6 +1140,7 @@
 - [2020-02-02-前端工程实践之数据埋点分析系统（一）](https://www.ershicimi.com/p/596824daae4b4888920adb8b16321644) 
 - [2020-01-19-Antd-Form-实现机制解析](https://www.ershicimi.com/p/009126426c0498d3fee5c7247c11db1f) 
 - [2020-01-15-如何推动与影响中型前端团队的成长-&-暨最近一年多新团队的管理工作复盘](https://www.ershicimi.com/p/2aeb8967a3c2c8819d0b76abf8597ffd) 
+- [2020-03-20-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/f8508d83b9045c0ea844311ba02940fe) 
 - [2020-03-17-盘点这些年被黑的最惨的语言](https://www.ershicimi.com/p/5edffdd7d857c68884c4932cc21869e8) 
 - [2020-03-17-学习前端，关注这几位大佬的公众号就够了！](https://www.ershicimi.com/p/131e6090b9d7d9eb619a6d0285d6ddb1) 
 - [2020-03-11-早知道要在家呆这么久，我就...](https://www.ershicimi.com/p/f9ce64b93e717e938f9f9b03cd75f972) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-03-20 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-20-韩国病例增长平缓后又现反弹-专家吁须做长期抗疫准备](http://international.caixin.com/2020-03-20/101531681.html) 
+- [2020-03-20-国家卫健委：援鄂医务人员已撤离1.2万名](http://china.caixin.com/2020-03-20/101531653.html) 
+- [2020-03-20-吉林应急响应级别由二级降为三级-5天前实现“三清零”](http://china.caixin.com/2020-03-20/101531646.html) 
 - [2020-03-20-研究称突变致新冠病毒亲和力增百倍-或致传染性提高](http://science.caixin.com/2020-03-20/101531574.html) 
 - [2020-03-20-【境内疫情观察】一线城市境外输入病例激增（3月19日）](http://database.caixin.com/2020-03-20/101531513.html) 
 - [2020-03-20-新冠疫情英国“吹哨人”确诊-数据建模预警病毒人传人](http://china.caixin.com/2020-03-20/101531481.html) 
@@ -1248,6 +1251,10 @@
 - [2020-03-16-什么才是真正的架构设计？](https://www.ershicimi.com/p/3be7db3547b32e7b04faccade1a4f03d) 
 - [2020-03-16-手把手教你SpringBoot+MyBatis+Shiro-搭建项目框架](https://www.ershicimi.com/p/2c4bb7dfa2b3422efc7032cfb1101a46) 
 - [2020-03-16-老板放过我吧！我Java8还没用呢，又让我学习Java14](https://www.ershicimi.com/p/9cfc675ef4a8ec391f416ea095797683) 
+- [2020-03-20-InfoQ-Pro-重磅福利来袭，周边大礼包免费领，先到先得！](https://www.ershicimi.com/p/d12e73ef30e9f8be66859a5903988cde) 
+- [2020-03-20-别再说你懂技术团队管理-|-GTLC](https://www.ershicimi.com/p/50cb914ff29861a20ebf2c3dbf4c3c7f) 
+- [2020-03-20-为什么你写的代码别人看不懂？](https://www.ershicimi.com/p/c456b96d119b9a44e04ec5aa3873ba29) 
+- [2020-03-20-说到做到！RISC-V基金会正式落户瑞士，躲避美国潜在限制](https://www.ershicimi.com/p/bfd086ebb0486486493af6e44f92e88b) 
 - [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca) 
 - [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536) 
 - [2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420) 

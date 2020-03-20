@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 19:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 19:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,9 @@
 </summary>
 
 
+- [2020-03-20-韩国病例增长平缓后又现反弹-专家吁须做长期抗疫准备](http://international.caixin.com/2020-03-20/101531681.html) ![](assets/new.png)  
+- [2020-03-20-国家卫健委：援鄂医务人员已撤离1.2万名](http://china.caixin.com/2020-03-20/101531653.html) ![](assets/new.png)  
+- [2020-03-20-吉林应急响应级别由二级降为三级-5天前实现“三清零”](http://china.caixin.com/2020-03-20/101531646.html) ![](assets/new.png)  
 - [2020-03-20-研究称突变致新冠病毒亲和力增百倍-或致传染性提高](http://science.caixin.com/2020-03-20/101531574.html)  
 - [2020-03-20-【境内疫情观察】一线城市境外输入病例激增（3月19日）](http://database.caixin.com/2020-03-20/101531513.html)  
 - [2020-03-20-新冠疫情英国“吹哨人”确诊-数据建模预警病毒人传人](http://china.caixin.com/2020-03-20/101531481.html)  
@@ -80,9 +83,6 @@
 - [2020-03-20-日本北海道脱离疫情“紧急事态”-全国确诊达1670人](http://international.caixin.com/2020-03-20/101531296.html)  
 - [2020-03-19-大流行手记|3月19日：西班牙重症患者暴增-纽交所关闭大厅](http://international.caixin.com/2020-03-19/101531260.html)  
 - [2020-03-19-外交部：望美方同中方在相互尊重的基础上管控分歧](http://international.caixin.com/2020-03-19/101531221.html)  
-- [2020-03-13-封面报道|从漠视到惊醒：美国战疫如何打响](http://weekly.caixin.com/2020-03-13/101527899.html)  
-- [2020-03-19-国家监委调查组发布李文亮有关情况调查通报](http://china.caixin.com/2020-03-19/101531187.html)  
-- [2020-03-19-北京重启SARS定点小汤山医院:央行贷款超3亿-1.5万人赶工（更新）](http://china.caixin.com/2020-03-19/101529393.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-03-20-德国新冠肺炎累计确诊13957](http://m.weibo.cn/2803301701/4484605388489571) ![](assets/new.png)  
-- [2020-03-20-全球累计确诊新冠肺炎209839例](http://m.weibo.cn/2656274875/4484600808341755) ![](assets/new.png)  
+- [2020-03-20-德国新冠肺炎累计确诊13957](http://m.weibo.cn/2803301701/4484605388489571)  
+- [2020-03-20-全球累计确诊新冠肺炎209839例](http://m.weibo.cn/2656274875/4484600808341755)  
 - [2020-03-20-香港新增48例新冠肺炎确诊病例](http://m.weibo.cn/3057540037/4484595191414297)  
 - [2020-03-20-3月20日0—12时#广东新增3例境外输入病例](http://m.weibo.cn/2803301701/4484589198390409)  
 - [2020-03-20-台湾地区新增27例新冠肺炎确诊病例](http://m.weibo.cn/3057540037/4484587226608942)  
@@ -728,6 +728,11 @@
 </summary>
 
 
+- [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27) ![](assets/new.png)  
+- [2020-03-20-InfoQ-Pro-重磅福利来袭，周边大礼包免费领，先到先得！](https://www.ershicimi.com/p/d12e73ef30e9f8be66859a5903988cde) ![](assets/new.png)  
+- [2020-03-20-别再说你懂技术团队管理-|-GTLC](https://www.ershicimi.com/p/50cb914ff29861a20ebf2c3dbf4c3c7f) ![](assets/new.png)  
+- [2020-03-20-为什么你写的代码别人看不懂？](https://www.ershicimi.com/p/c456b96d119b9a44e04ec5aa3873ba29) ![](assets/new.png)  
+- [2020-03-20-说到做到！RISC-V基金会正式落户瑞士，躲避美国潜在限制](https://www.ershicimi.com/p/bfd086ebb0486486493af6e44f92e88b) ![](assets/new.png)  
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f)  
 - [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca)  
 - [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536)  
@@ -778,7 +783,7 @@
 </summary>
 
 
-- [2020-03-20-ZooTeam-前端周刊｜第-74-期](https://juejin.im/post/5e748dc0e51d4526d43f5550) ![](assets/new.png)  
+- [2020-03-20-ZooTeam-前端周刊｜第-74-期](https://juejin.im/post/5e748dc0e51d4526d43f5550)  
 - [2020-03-20-使用node手撕jsonp跨域](https://juejin.im/post/5e74854df265da573f359506)  
 - [2020-03-20-【译】React-中你会这-10-个-JavaScript-概念吗？](https://juejin.im/post/5e7441d3e51d4527255cc93e)  
 - [2020-03-20-前端渣渣记一次排查万恶之源IE兼容性的问题](https://juejin.im/post/5e743530518825491a381f86)  
@@ -916,17 +921,17 @@
 </summary>
 
 
-- [2020-03-20-求助-如何在-GPG-公钥中设置多组个人信息（姓名+电子邮件）？](https://www.v2ex.com/t/654663) ![](assets/new.png)  
-- [2020-03-20-有人遇到过-MacBook-Pro-使用三项插头还会漏电的问题吗？](https://www.v2ex.com/t/654662) ![](assets/new.png)  
-- [2020-03-20-发现一个-ViewModel-的问题，不知道是-bug-还是-feature?](https://www.v2ex.com/t/654661) ![](assets/new.png)  
-- [2020-03-20-失业半年,一家公司面试-7-次后终于拿到-offer-后我是这么反思的](https://www.v2ex.com/t/654659) ![](assets/new.png)  
-- [2020-03-20-win7-有什么办法共享网络给安卓??](https://www.v2ex.com/t/654658) ![](assets/new.png)  
-- [2020-03-20-赶考状元：如何快速应对数据库-QPS-暴涨-20-倍？我们做了三次决策](https://www.v2ex.com/t/654657) ![](assets/new.png)  
-- [2020-03-20-重名方法怎么命名？](https://www.v2ex.com/t/654656) ![](assets/new.png)  
-- [2020-03-20-上海现在需要比之前提前多就去机场？](https://www.v2ex.com/t/654655) ![](assets/new.png)  
-- [2020-03-20-不懂就问，夏天开车太阳眼镜怎么选？](https://www.v2ex.com/t/654654) ![](assets/new.png)  
-- [2020-03-20-字节跳动内推-全部职位都可以](https://www.v2ex.com/t/654652) ![](assets/new.png)  
-- [2020-03-20-Selenium-怎么异步抓数据？](https://www.v2ex.com/t/654651) ![](assets/new.png)  
+- [2020-03-20-求助-如何在-GPG-公钥中设置多组个人信息（姓名+电子邮件）？](https://www.v2ex.com/t/654663)  
+- [2020-03-20-有人遇到过-MacBook-Pro-使用三项插头还会漏电的问题吗？](https://www.v2ex.com/t/654662)  
+- [2020-03-20-发现一个-ViewModel-的问题，不知道是-bug-还是-feature?](https://www.v2ex.com/t/654661)  
+- [2020-03-20-失业半年,一家公司面试-7-次后终于拿到-offer-后我是这么反思的](https://www.v2ex.com/t/654659)  
+- [2020-03-20-win7-有什么办法共享网络给安卓??](https://www.v2ex.com/t/654658)  
+- [2020-03-20-赶考状元：如何快速应对数据库-QPS-暴涨-20-倍？我们做了三次决策](https://www.v2ex.com/t/654657)  
+- [2020-03-20-重名方法怎么命名？](https://www.v2ex.com/t/654656)  
+- [2020-03-20-上海现在需要比之前提前多就去机场？](https://www.v2ex.com/t/654655)  
+- [2020-03-20-不懂就问，夏天开车太阳眼镜怎么选？](https://www.v2ex.com/t/654654)  
+- [2020-03-20-字节跳动内推-全部职位都可以](https://www.v2ex.com/t/654652)  
+- [2020-03-20-Selenium-怎么异步抓数据？](https://www.v2ex.com/t/654651)  
 - [2020-03-20-求推荐一款-windows-能远程链接到-iMac-的软件](https://www.v2ex.com/t/654650)  
 - [2020-03-20-本站两步验证的应用数据搞丢了，还有救吗](https://www.v2ex.com/t/654649)  
 - [2020-03-20-字节跳动又要大量招人了，初级/中级/高级岗位，附内推连接](https://www.v2ex.com/t/654648)  

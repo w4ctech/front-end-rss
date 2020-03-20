@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -85,6 +85,7 @@
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
+- [2020-03-20-flex深度剖析-解决移动端适配问题！](https://juejin.im/post/5e72eca86fb9a07cd80f410f) 
 - [2020-03-20-有序数组能否分割为连续子序列的一种算法实现](https://juejin.im/post/5e74275d51882548fc565652) 
 - [2020-03-20-可能这里有你想要的js手写代码实现](https://juejin.im/post/5e7438d6e51d4534ec007b21) 
 - [2020-03-20-JS垃圾回收，这次可以看懂了（带图警告）](https://juejin.im/post/5e734dece51d4526c550cd8d) 

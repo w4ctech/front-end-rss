@@ -6877,6 +6877,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "马来西亚累计确诊新冠肺炎超千例",
+        "link": "http://m.weibo.cn/2656274875/4484662124154443",
+        "date": "2020-03-20"
+      },
+      {
         "title": "意大利14名医生殉职，感染医护超两千",
         "link": "http://m.weibo.cn/3057540037/4484652767285663",
         "date": "2020-03-20"
@@ -10606,6 +10611,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "如何实现分批执行线程",
+        "link": "https://www.v2ex.com/t/654724",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Apple ID 的通知/密码重置邮件如果支持 GPG 加密会怎样",
+        "link": "https://www.v2ex.com/t/654722",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "请教一个 nginx 302 跳转配置文件的写法问题",
+        "link": "https://www.v2ex.com/t/654721",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "单机 app 用的是 sqlite 数据库，备份方案怎么设计实现？",
+        "link": "https://www.v2ex.com/t/654720",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Macbook Pro 16 寸，连接 PowerBeats Pro 只能选择 48kHz？",
+        "link": "https://www.v2ex.com/t/654719",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "提个问题， Mac 上暗黑模式相关的应用",
+        "link": "https://www.v2ex.com/t/654718",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "关于英国的“群体免疫”，这个视频是我看过的国内媒体最客观公正又通俗易懂的视频了。",
+        "link": "https://www.v2ex.com/t/654717",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "OPA 进阶-函数与虚拟文档要分清",
+        "link": "https://www.v2ex.com/t/654715",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "小米 AX3600 到了，做了一些简单测试",
+        "link": "https://www.v2ex.com/t/654714",
+        "date": "2020-03-20"
+      },
       {
         "title": "通过 USB 线 镜像 iPhone / iPad 屏幕到 windows 电脑的方法",
         "link": "https://www.v2ex.com/t/654712",

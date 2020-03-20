@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 10:00:25，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,10 @@
 </summary>
 
 
+- [2020-03-20-美国新冠确诊单日新增超5000例-累积确诊突破万人](http://international.caixin.com/2020-03-20/101531314.html) ![](assets/new.png)  
+- [2020-03-20-意大利封城决策复盘-重症床位如何调配](http://international.caixin.com/2020-03-20/101531303.html) ![](assets/new.png)  
+- [2020-03-20-日本北海道脱离疫情“紧急事态”-全国确诊达1670人](http://international.caixin.com/2020-03-20/101531296.html) ![](assets/new.png)  
+- [2020-03-19-大流行手记|3月19日：西班牙重症患者暴增-纽交所关闭大厅](http://international.caixin.com/2020-03-19/101531260.html) ![](assets/new.png)  
 - [2020-03-19-外交部：望美方同中方在相互尊重的基础上管控分歧](http://international.caixin.com/2020-03-19/101531221.html)  
 - [2020-03-13-封面报道|从漠视到惊醒：美国战疫如何打响](http://weekly.caixin.com/2020-03-13/101527899.html)  
 - [2020-03-19-国家监委调查组发布李文亮有关情况调查通报](http://china.caixin.com/2020-03-19/101531187.html)  
@@ -79,10 +83,6 @@
 - [2020-03-19-意大利单日新增475死达全球新高-病故者平均79.5岁](http://international.caixin.com/2020-03-19/101531080.html)  
 - [2020-03-19-恒河猴感染新冠病毒后自愈-抗体保护下未二次感染](http://china.caixin.com/2020-03-19/101530952.html)  
 - [2020-03-19-3月18日：166个国家和地区累计确诊新冠13.74万例](http://international.caixin.com/2020-03-19/101531042.html)  
-- [2020-03-19-【境内疫情观察】全国新增病例六成来自北京（3月18日）](http://database.caixin.com/2020-03-19/101530956.html)  
-- [2020-03-19-【视频】一个意大利留学生回国后的隔离日记](http://video.caixin.com/2020-03-19/101530910.html)  
-- [2020-03-19-加拿大将投入逾4000亿应急-美加边境首度限制非必要往来](http://international.caixin.com/2020-03-19/101530914.html)  
-- [2020-03-19-7天新增1万例确诊-西班牙是如何错过最佳防疫窗口的](http://international.caixin.com/2020-03-19/101530892.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -555,7 +555,7 @@
 </summary>
 
 
-- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) ![](assets/new.png)  
+- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)  
@@ -899,6 +899,14 @@
 </summary>
 
 
+- [2020-03-20-5000-左右装机，谢谢大家！](https://www.v2ex.com/t/654455) ![](assets/new.png)  
+- [2020-03-20-多租户数据源修改方案](https://www.v2ex.com/t/654454) ![](assets/new.png)  
+- [2020-03-20-IDE-阅读代码时候如何防止误触](https://www.v2ex.com/t/654452) ![](assets/new.png)  
+- [2020-03-20-办理业务需要将身份证照片发送给对方，有什么办法可以尽量避免身份信息泄露](https://www.v2ex.com/t/654451) ![](assets/new.png)  
+- [2020-03-20-现在想自己-diy-软路由-哪里还能买到对应的零件？](https://www.v2ex.com/t/654449) ![](assets/new.png)  
+- [2020-03-20-现在有针对手机直播的立体声录音解决方案吗？](https://www.v2ex.com/t/654448) ![](assets/new.png)  
+- [2020-03-20-外包公司有感](https://www.v2ex.com/t/654447) ![](assets/new.png)  
+- [2020-03-20-golang-的-time.Time-的最大有效时间到-2157-年吗？](https://www.v2ex.com/t/654445) ![](assets/new.png)  
 - [2020-03-20-意大利的新冠死亡数量已经超过中国了](https://www.v2ex.com/t/654443)  
 - [2020-03-20-我发现微信注册可以无限套娃](https://www.v2ex.com/t/654442)  
 - [2020-03-20-Microsoft-todo-Windows-版无法获取](https://www.v2ex.com/t/654441)  
@@ -911,14 +919,6 @@
 - [2020-03-20-3.20-求印度车](https://www.v2ex.com/t/654431)  
 - [2020-03-20-20200319---Steam-上没法买游戏](https://www.v2ex.com/t/654430)  
 - [2020-03-20-求推荐-wifi6-网卡](https://www.v2ex.com/t/654429)  
-- [2020-03-20-手把手教你搞定-vue-cli4-配置,一文搞定你的-vue.config.js-配置难题](https://www.v2ex.com/t/654428)  
-- [2020-03-20-记一个-pandas-rolling-corr-窗口大小不固定-计算问题。](https://www.v2ex.com/t/654427)  
-- [2020-03-20-头条内推-部门直面-当下最火的在线教育板块，社招/校招/实习生，别问，问就是招人！](https://www.v2ex.com/t/654426)  
-- [2020-03-20-老生常谈，诸位有良米，品之共赏](https://www.v2ex.com/t/654424)  
-- [2020-03-20-Python-runs-smoothly-on-my-Surface-book](https://www.v2ex.com/t/654423)  
-- [2020-03-20-现在主流的防误判算法是哪种啊](https://www.v2ex.com/t/654422)  
-- [2020-03-20-吐槽顺风车长途](https://www.v2ex.com/t/654421)  
-- [2020-03-19-把自己的静态博客开源了，有没有勇士敢尝鲜的？](https://www.v2ex.com/t/654420)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -961,6 +961,7 @@
 </summary>
 
 
+- [2020-03-20-微博回应数据泄露：不涉及身份证、密码；原阿里巴巴首席架构师钟华离职创业，任中台公司-“比升技术”-CEO-|-头条天天见](https://toutiao.io/k/4pt9kku) ![](assets/new.png)  
 - [2020-03-20-集合去重三境界](https://toutiao.io/k/nah6zsj)  
 - [2020-03-20-非著名架构师告诉你，代码该如何写，才能自己写的容易别人看的也不痛苦](https://toutiao.io/k/wta4dr6)  
 - [2020-03-20-3-月美团面经分享](https://toutiao.io/k/vnx6gp1)  
@@ -980,7 +981,6 @@
 - [2020-03-19-看完这篇-HTTPS，和面试官扯皮就没问题了](https://toutiao.io/k/350kxl3)  
 - [2020-03-19-IoT-时代天猫精灵蓝牙技术大揭秘](https://toutiao.io/k/3221ztl)  
 - [2020-03-19-开源一段-Mac-批量压缩图片的脚本](https://toutiao.io/k/gcdb4wx)  
-- [2020-03-19-最好用的-web-端代码文本编辑器-ACE](https://toutiao.io/k/ep81xdt)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

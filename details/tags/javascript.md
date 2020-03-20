@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 10:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -112,6 +112,7 @@
 - [2020-03-19-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-19-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-20-现在想自己-diy-软路由-哪里还能买到对应的零件？](https://www.v2ex.com/t/654449) 
 - [2020-03-19-现在电信普及-1000-M-宽带，请问有没有现成的软路由推荐？](https://www.v2ex.com/t/654413) 
 - [2020-03-19-迫于-ios-广告太多，求一个好用-js](https://www.v2ex.com/t/654383) 
 - [2020-03-19-Python-异步-Web-框架-Fastapi-怎么样,已经够成熟到商业项目了吗](https://www.v2ex.com/t/654309) 

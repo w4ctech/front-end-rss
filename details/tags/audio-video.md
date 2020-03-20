@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 10:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -79,6 +79,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-19-《甄嬛传》里的人集体开播了，点击进入直播间](https://www.ershicimi.com/p/957ccb73d34160be9945f375962a9009) 
+- [2020-03-20-现在有针对手机直播的立体声录音解决方案吗？](https://www.v2ex.com/t/654448) 
 - [2020-03-19-罗永浩宣布要进军直播带货界…](https://www.v2ex.com/t/654331) 
 - [2020-03-19-爱奇艺，腾讯那些电影视频都是怎么转码视频的？](https://www.v2ex.com/t/654307) 
 - [2020-03-19-如何实现-video-标签下的-poster封面图片预加载？](https://www.v2ex.com/t/654236) 

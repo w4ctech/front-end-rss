@@ -5,6 +5,26 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "美国新冠确诊单日新增超5000例   累积确诊突破万人",
+        "link": "http://international.caixin.com/2020-03-20/101531314.html",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "意大利封城决策复盘 重症床位如何调配",
+        "link": "http://international.caixin.com/2020-03-20/101531303.html",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "日本北海道脱离疫情“紧急事态”  全国确诊达1670人",
+        "link": "http://international.caixin.com/2020-03-20/101531296.html",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "大流行手记|3月19日：西班牙重症患者暴增 纽交所关闭大厅",
+        "link": "http://international.caixin.com/2020-03-19/101531260.html",
+        "date": "2020-03-19"
+      },
+      {
         "title": "外交部：望美方同中方在相互尊重的基础上管控分歧",
         "link": "http://international.caixin.com/2020-03-19/101531221.html",
         "date": "2020-03-19"
@@ -10152,6 +10172,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "5000 左右装机，谢谢大家！",
+        "link": "https://www.v2ex.com/t/654455",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "多租户数据源修改方案",
+        "link": "https://www.v2ex.com/t/654454",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "IDE 阅读代码时候如何防止误触",
+        "link": "https://www.v2ex.com/t/654452",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "办理业务需要将身份证照片发送给对方，有什么办法可以尽量避免身份信息泄露",
+        "link": "https://www.v2ex.com/t/654451",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "现在想自己 diy 软路由 哪里还能买到对应的零件？",
+        "link": "https://www.v2ex.com/t/654449",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "现在有针对手机直播的立体声录音解决方案吗？",
+        "link": "https://www.v2ex.com/t/654448",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "外包公司有感",
+        "link": "https://www.v2ex.com/t/654447",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "golang 的 time.Time 的最大有效时间到 2157 年吗？",
+        "link": "https://www.v2ex.com/t/654445",
+        "date": "2020-03-20"
+      },
+      {
         "title": "意大利的新冠死亡数量已经超过中国了",
         "link": "https://www.v2ex.com/t/654443",
         "date": "2020-03-20"
@@ -11895,6 +11955,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "微博回应数据泄露：不涉及身份证、密码；原阿里巴巴首席架构师钟华离职创业，任中台公司 “比升技术” CEO | 头条天天见",
+        "link": "https://toutiao.io/k/4pt9kku",
+        "date": "2020-03-20"
+      },
       {
         "title": "集合去重三境界",
         "link": "https://toutiao.io/k/nah6zsj",

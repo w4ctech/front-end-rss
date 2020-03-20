@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-20 05:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -375,6 +375,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【V2EX】GUIDE---关于如何把已经完成或者失效的交易自己移动到-/go/closed-关闭交易-节点](https://www.v2ex.com/t/654439)
 - [【V2EX】mac-版的-Google-Earth-Pro-如何设置简体中文（地图里，而不是软件的-gui-设置相关的语言，这个可以简体中文显示）](https://www.v2ex.com/t/654181)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 

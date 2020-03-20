@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-20 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 11:00:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -441,8 +441,10 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【JavaScript】网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】求一个高性能欧洲节点的梯子](https://www.v2ex.com/t/654470)
 - [【V2EX】sql-not-in-可以优化吗](https://www.v2ex.com/t/654256)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13289&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyXvkUDT8CHt-O5rD11a6MQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】解决棘手-SQL-性能问题，我的-SQLT-使用心得](https://toutiao.io/k/49m8cyl)
 - [【开发者头条】深入探索-Android-启动速度优化](https://toutiao.io/k/k6cz2z1)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -562,12 +564,14 @@
 - [【掘金前端】浅谈gitlab-ci分离部署方案](https://juejin.im/post/5e6f2f44f265da57602c6a30)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】Github-自己的-repo-可以迁移位置吗？](https://www.v2ex.com/t/654478)
 - [【V2EX】git-设代理为什么还-ping-不通](https://www.v2ex.com/t/654399)
 - [【V2EX】Git-commit-plugin-For-Vscode-一款自动生成规范-git-提交信息的插件](https://www.v2ex.com/t/654391)
 - [【V2EX】请问如果通过-git-指令统计每个用户的代码贡献量](https://www.v2ex.com/t/654329)
 - [【V2EX】访问-GitHub-最近很不稳定啊，大家有没有什么好点的静态博客托管方案？](https://www.v2ex.com/t/654164)
 - [【V2EX】GitHub-中文榜置顶有感](https://www.v2ex.com/t/654117)
 - [【技术头条】Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvqAf7d2H3IQLaYajJjiSng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y)
 - [【开发者头条】推荐-一招搞定-GitHub-下载加速](https://toutiao.io/k/b9kq9bv)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

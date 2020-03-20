@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,8 @@
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-19-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-20-chrome-浏览器开了几个小时左右的时间-虚拟内存就飙到-30-多-g](https://www.v2ex.com/t/654645) 
+- [2020-03-20-问一个子站共享-cookie-安全问题？](https://www.v2ex.com/t/654636) 
 - [2020-03-20-社招蚂蚁上海大安全-Java-专家（P7）招聘](https://www.v2ex.com/t/654597) 
 - [2020-03-20-有没有看股票的-chrome-插件,-适合上班划水用的那种😐](https://www.v2ex.com/t/654571) 
 - [2020-03-20-Edge-dev-更新支持插件同步了](https://www.v2ex.com/t/654569) 

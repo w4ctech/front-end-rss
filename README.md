@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 01:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 02:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -923,26 +923,26 @@
 </summary>
 
 
-- [2020-03-21-谷歌翻译将-even-翻译成什至而不是甚至，是个别情况吗](https://www.v2ex.com/t/654755) ![](assets/new.png)  
-- [2020-03-21-各位大佬，希捷笔记本硬盘-S.M.A.R.T-0xBB-黄了还能继续服役吗，挺秃然的](https://www.v2ex.com/t/654754) ![](assets/new.png)  
-- [2020-03-21-目前广东移动宽带如何](https://www.v2ex.com/t/654752) ![](assets/new.png)  
-- [2020-03-21-django2.2-python3.6-nginx-时不时的出现下面错误，网站很卡，然后就-出现：-502-Bad-Gateway-然后自已又变好了。速度快起来](https://www.v2ex.com/t/654751) ![](assets/new.png)  
-- [2020-03-21-做了个公众号，求粉啊](https://www.v2ex.com/t/654750) ![](assets/new.png)  
-- [2020-03-21-Mac-pdf-怎么截取部分页](https://www.v2ex.com/t/654749) ![](assets/new.png)  
-- [2020-03-21-关于香樟树的树龄直径价格方面的问题](https://www.v2ex.com/t/654748) ![](assets/new.png)  
-- [2020-03-21-PLEX-播放-29G-4K-电影顿卡问题](https://www.v2ex.com/t/654747) ![](assets/new.png)  
-- [2020-03-20-深圳有哪些大型外企?](https://www.v2ex.com/t/654746) ![](assets/new.png)  
-- [2020-03-20-苹果设备截屏是怎样的原理？部分视频网站如网飞截屏时视频区域显示黑色，这是什么原因？是苹果的技术还是-web-的技术呢？❤️](https://www.v2ex.com/t/654745) ![](assets/new.png)  
-- [2020-03-20-字节跳动前端急招-北/上/深/杭，今日头条、游戏、头条号、小说、教育等方向](https://www.v2ex.com/t/654744) ![](assets/new.png)  
+- [2020-03-21-珠江宽频有使用第三方出口穿透？](https://www.v2ex.com/t/654762) ![](assets/new.png)  
+- [2020-03-21-Chrome-浏览器-Google-translate-的翻译引擎不一样，哪个更好啊？](https://www.v2ex.com/t/654761) ![](assets/new.png)  
+- [2020-03-21-有比-Infinity-更好用的扩展吗？](https://www.v2ex.com/t/654760) ![](assets/new.png)  
+- [2020-03-21-万能的-V-友，各位碰见过那些双面胶，不会把家里涂料墙粘坏的那种？有经验的分享一下。](https://www.v2ex.com/t/654758) ![](assets/new.png)  
+- [2020-03-21-CentOS-里-KVM-上的虚拟机能随宿主关机而挂起，开机后又自动恢复吗？](https://www.v2ex.com/t/654757) ![](assets/new.png)  
+- [2020-03-21-纯开发写代码的话，目前的主机配置过剩很多吧](https://www.v2ex.com/t/654756) ![](assets/new.png)  
+- [2020-03-21-谷歌翻译将-even-翻译成什至而不是甚至，是个别情况吗](https://www.v2ex.com/t/654755)  
+- [2020-03-21-各位大佬，希捷笔记本硬盘-S.M.A.R.T-0xBB-黄了还能继续服役吗，挺秃然的](https://www.v2ex.com/t/654754)  
+- [2020-03-21-目前广东移动宽带如何](https://www.v2ex.com/t/654752)  
+- [2020-03-21-django2.2-python3.6-nginx-时不时的出现下面错误，网站很卡，然后就-出现：-502-Bad-Gateway-然后自已又变好了。速度快起来](https://www.v2ex.com/t/654751)  
+- [2020-03-21-做了个公众号，求粉啊](https://www.v2ex.com/t/654750)  
+- [2020-03-21-Mac-pdf-怎么截取部分页](https://www.v2ex.com/t/654749)  
+- [2020-03-21-关于香樟树的树龄直径价格方面的问题](https://www.v2ex.com/t/654748)  
+- [2020-03-21-PLEX-播放-29G-4K-电影顿卡问题](https://www.v2ex.com/t/654747)  
+- [2020-03-20-深圳有哪些大型外企?](https://www.v2ex.com/t/654746)  
+- [2020-03-20-苹果设备截屏是怎样的原理？部分视频网站如网飞截屏时视频区域显示黑色，这是什么原因？是苹果的技术还是-web-的技术呢？❤️](https://www.v2ex.com/t/654745)  
+- [2020-03-20-字节跳动前端急招-北/上/深/杭，今日头条、游戏、头条号、小说、教育等方向](https://www.v2ex.com/t/654744)  
 - [2020-03-20-c++有能力实现编译时的-int-对字符串翻译表吗？](https://www.v2ex.com/t/654741)  
 - [2020-03-20-vue-页面不打包编译，直接引用-vue.min.js，这样-ok-么](https://www.v2ex.com/t/654740)  
 - [2020-03-20-Kingdom-Rush、Prune-等-10-款付费游戏限时免费](https://www.v2ex.com/t/654739)  
-- [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738)  
-- [2020-03-20-Kotlin-的协程实现的意义是什么呢？](https://www.v2ex.com/t/654737)  
-- [2020-03-20-为什么我手机上-提醒事项-App-的图标右上角从来不会显示数字？](https://www.v2ex.com/t/654736)  
-- [2020-03-20-有没有祖安话的仓库？](https://www.v2ex.com/t/654735)  
-- [2020-03-20-阿里云-实时计算-Flink-社招-实习生-内推](https://www.v2ex.com/t/654734)  
-- [2020-03-20-“也许这就是人生吧”](https://www.v2ex.com/t/654732)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -985,6 +985,8 @@
 </summary>
 
 
+- [2020-03-21-推荐-服务的容灾与容错](https://toutiao.io/k/t1de0md) ![](assets/new.png)  
+- [2020-03-21-推荐-近-2-万字详解-Java-NIO2-文件操作，过瘾](https://toutiao.io/k/180ioej) ![](assets/new.png)  
 - [2020-03-20-使用-vscode-page-简化-vscode-插件的-Webview-开发](https://toutiao.io/k/80wjkjn)  
 - [2020-03-20-音视频连载基础学习篇（三）：SDL-消息循环和事件响应](https://toutiao.io/k/at6ly7u)  
 - [2020-03-20-如何防止重复发送-ajax-请求](https://toutiao.io/k/ub8b0p0)  
@@ -1003,8 +1005,6 @@
 - [2020-03-20-恕我直言，我怀疑你没怎么用过枚举](https://toutiao.io/k/c6ypg7e)  
 - [2020-03-20-跳槽，和面试官聊-JVM-，三分钟就挂了！怎么破？](https://toutiao.io/k/ajmopl8)  
 - [2020-03-20-前端首屏耗时测量方法](https://toutiao.io/k/2ejwqaj)  
-- [2020-03-20-解决棘手-SQL-性能问题，我的-SQLT-使用心得](https://toutiao.io/k/49m8cyl)  
-- [2020-03-20-译-malloc-中的系统调用-brk-和-mmap](https://toutiao.io/k/fwsr7pb)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

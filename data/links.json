@@ -10627,6 +10627,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "珠江宽频有使用第三方出口穿透？",
+        "link": "https://www.v2ex.com/t/654762",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Chrome 浏览器 Google translate 的翻译引擎不一样，哪个更好啊？",
+        "link": "https://www.v2ex.com/t/654761",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "有比 Infinity 更好用的扩展吗？",
+        "link": "https://www.v2ex.com/t/654760",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "万能的 V 友，各位碰见过那些双面胶，不会把家里涂料墙粘坏的那种？有经验的分享一下。",
+        "link": "https://www.v2ex.com/t/654758",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "CentOS 里 KVM 上的虚拟机能随宿主关机而挂起，开机后又自动恢复吗？",
+        "link": "https://www.v2ex.com/t/654757",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "纯开发写代码的话，目前的主机配置过剩很多吧",
+        "link": "https://www.v2ex.com/t/654756",
+        "date": "2020-03-21"
+      },
+      {
         "title": "谷歌翻译将 even 翻译成什至而不是甚至，是个别情况吗",
         "link": "https://www.v2ex.com/t/654755",
         "date": "2020-03-21"
@@ -13725,6 +13755,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 服务的容灾与容错",
+        "link": "https://toutiao.io/k/t1de0md",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "[推荐] 近 2 万字详解 Java NIO2 文件操作，过瘾",
+        "link": "https://toutiao.io/k/180ioej",
+        "date": "2020-03-21"
+      },
       {
         "title": "使用 vscode-page 简化 vscode 插件的 Webview 开发",
         "link": "https://toutiao.io/k/80wjkjn",

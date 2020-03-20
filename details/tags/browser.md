@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,7 @@
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-19-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-21-Chrome-浏览器-Google-translate-的翻译引擎不一样，哪个更好啊？](https://www.v2ex.com/t/654761) 
 - [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738) 
 - [2020-03-20-IE11-鞭尸手法之一](https://www.v2ex.com/t/654725) 
 - [2020-03-20-用-Proxifier-代理-outlook-和-Onedrive-的问题](https://www.v2ex.com/t/654688) 

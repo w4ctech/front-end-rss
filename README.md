@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 00:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 01:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -785,7 +785,7 @@
 </summary>
 
 
-- [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) ![](assets/new.png)  
+- [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment)  
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc)  
 - [2020-03-20-记录文本图标对齐的几种解决方案](https://juejin.im/post/5e7497815188252c0551f84d)  
 - [2020-03-20-基于node实现Vue打包部署脚本](https://juejin.im/post/5e748fd26fb9a07c9e1c47ef)  
@@ -923,26 +923,26 @@
 </summary>
 
 
-- [2020-03-20-c++有能力实现编译时的-int-对字符串翻译表吗？](https://www.v2ex.com/t/654741) ![](assets/new.png)  
-- [2020-03-20-vue-页面不打包编译，直接引用-vue.min.js，这样-ok-么](https://www.v2ex.com/t/654740) ![](assets/new.png)  
-- [2020-03-20-Kingdom-Rush、Prune-等-10-款付费游戏限时免费](https://www.v2ex.com/t/654739) ![](assets/new.png)  
-- [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738) ![](assets/new.png)  
-- [2020-03-20-Kotlin-的协程实现的意义是什么呢？](https://www.v2ex.com/t/654737) ![](assets/new.png)  
-- [2020-03-20-为什么我手机上-提醒事项-App-的图标右上角从来不会显示数字？](https://www.v2ex.com/t/654736) ![](assets/new.png)  
-- [2020-03-20-有没有祖安话的仓库？](https://www.v2ex.com/t/654735) ![](assets/new.png)  
-- [2020-03-20-阿里云-实时计算-Flink-社招-实习生-内推](https://www.v2ex.com/t/654734) ![](assets/new.png)  
-- [2020-03-20-“也许这就是人生吧”](https://www.v2ex.com/t/654732) ![](assets/new.png)  
-- [2020-03-20-美国股市理论上还能熔断几次？](https://www.v2ex.com/t/654730) ![](assets/new.png)  
-- [2020-03-20-Java-中这个语法糖是什么时候出现的，第一次见。](https://www.v2ex.com/t/654729) ![](assets/new.png)  
-- [2020-03-20-1password-家庭版免费试用一年](https://www.v2ex.com/t/654728) ![](assets/new.png)  
-- [2020-03-20-求一款-WHMCS-检测网站到货通知并下单的脚本？](https://www.v2ex.com/t/654727) ![](assets/new.png)  
-- [2020-03-20-如何使-Vmware-player-的虚拟机所有通信都走-socks5-代理？](https://www.v2ex.com/t/654726) ![](assets/new.png)  
-- [2020-03-20-IE11-鞭尸手法之一](https://www.v2ex.com/t/654725) ![](assets/new.png)  
-- [2020-03-20-如何实现分批执行线程](https://www.v2ex.com/t/654724)  
-- [2020-03-20-Apple-ID-的通知/密码重置邮件如果支持-GPG-加密会怎样](https://www.v2ex.com/t/654722)  
-- [2020-03-20-请教一个-nginx-302-跳转配置文件的写法问题](https://www.v2ex.com/t/654721)  
-- [2020-03-20-单机-app-用的是-sqlite-数据库，备份方案怎么设计实现？](https://www.v2ex.com/t/654720)  
-- [2020-03-20-Macbook-Pro-16-寸，连接-PowerBeats-Pro-只能选择-48kHz？](https://www.v2ex.com/t/654719)  
+- [2020-03-21-谷歌翻译将-even-翻译成什至而不是甚至，是个别情况吗](https://www.v2ex.com/t/654755) ![](assets/new.png)  
+- [2020-03-21-各位大佬，希捷笔记本硬盘-S.M.A.R.T-0xBB-黄了还能继续服役吗，挺秃然的](https://www.v2ex.com/t/654754) ![](assets/new.png)  
+- [2020-03-21-目前广东移动宽带如何](https://www.v2ex.com/t/654752) ![](assets/new.png)  
+- [2020-03-21-django2.2-python3.6-nginx-时不时的出现下面错误，网站很卡，然后就-出现：-502-Bad-Gateway-然后自已又变好了。速度快起来](https://www.v2ex.com/t/654751) ![](assets/new.png)  
+- [2020-03-21-做了个公众号，求粉啊](https://www.v2ex.com/t/654750) ![](assets/new.png)  
+- [2020-03-21-Mac-pdf-怎么截取部分页](https://www.v2ex.com/t/654749) ![](assets/new.png)  
+- [2020-03-21-关于香樟树的树龄直径价格方面的问题](https://www.v2ex.com/t/654748) ![](assets/new.png)  
+- [2020-03-21-PLEX-播放-29G-4K-电影顿卡问题](https://www.v2ex.com/t/654747) ![](assets/new.png)  
+- [2020-03-20-深圳有哪些大型外企?](https://www.v2ex.com/t/654746) ![](assets/new.png)  
+- [2020-03-20-苹果设备截屏是怎样的原理？部分视频网站如网飞截屏时视频区域显示黑色，这是什么原因？是苹果的技术还是-web-的技术呢？❤️](https://www.v2ex.com/t/654745) ![](assets/new.png)  
+- [2020-03-20-字节跳动前端急招-北/上/深/杭，今日头条、游戏、头条号、小说、教育等方向](https://www.v2ex.com/t/654744) ![](assets/new.png)  
+- [2020-03-20-c++有能力实现编译时的-int-对字符串翻译表吗？](https://www.v2ex.com/t/654741)  
+- [2020-03-20-vue-页面不打包编译，直接引用-vue.min.js，这样-ok-么](https://www.v2ex.com/t/654740)  
+- [2020-03-20-Kingdom-Rush、Prune-等-10-款付费游戏限时免费](https://www.v2ex.com/t/654739)  
+- [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738)  
+- [2020-03-20-Kotlin-的协程实现的意义是什么呢？](https://www.v2ex.com/t/654737)  
+- [2020-03-20-为什么我手机上-提醒事项-App-的图标右上角从来不会显示数字？](https://www.v2ex.com/t/654736)  
+- [2020-03-20-有没有祖安话的仓库？](https://www.v2ex.com/t/654735)  
+- [2020-03-20-阿里云-实时计算-Flink-社招-实习生-内推](https://www.v2ex.com/t/654734)  
+- [2020-03-20-“也许这就是人生吧”](https://www.v2ex.com/t/654732)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

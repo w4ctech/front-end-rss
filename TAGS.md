@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-21 00:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 01:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -543,6 +543,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)
+- [【V2EX】django2.2-python3.6-nginx-时不时的出现下面错误，网站很卡，然后就-出现：-502-Bad-Gateway-然后自已又变好了。速度快起来](https://www.v2ex.com/t/654751)
 - [【V2EX】请教一个-nginx-302-跳转配置文件的写法问题](https://www.v2ex.com/t/654721)
 - [......【查看更多】......](./details/tags/server.md)
 

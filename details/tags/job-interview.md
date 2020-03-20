@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -24,6 +24,7 @@
 - [2020-03-14-【招聘】Alibaba-企业智能事业部招聘前端实习生啦](https://www.ershicimi.com/p/719ed51e602ec5f937169fbb7f03b99c) 
 - [2020-03-16-前端面试官：你知道-source-map-的原理吗？](https://www.ershicimi.com/p/bbd4d4c5cfdd022d4e3662188c8a8aa5) 
 - [2020-03-11-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/a3051f781bbeabdbf36d3a6670f2cd9d) 
+- [2020-03-19-一年半前端跳槽面试经验（头条、微信、shopee）](https://www.ershicimi.com/p/27c1e7a6525a63c12a2108e2abb2f7a6) 
 - [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 

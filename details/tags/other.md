@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-03-20 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-20-新冠疫情英国“吹哨人”确诊-数据建模预警病毒人传人](http://china.caixin.com/2020-03-20/101531481.html) 
+- [2020-03-20-3月19日：172个国家和地区累计确诊新冠16.34万例-六国确诊病例过万](http://international.caixin.com/2020-03-20/101531493.html) 
 - [2020-03-20-中国发现超2000新冠患儿，已有新生儿和儿童死亡](http://china.caixin.com/2020-03-20/101531461.html) 
 - [2020-03-20-摩纳哥亲王成首名确诊元首-全欧洲感染已约10万人](http://international.caixin.com/2020-03-20/101531454.html) 
 - [2020-03-20-意大利新冠死亡人数超中国-死亡率或存在被高估现象](http://international.caixin.com/2020-03-20/101531436.html) 
@@ -1128,6 +1130,7 @@
 - [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) 
 - [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) 
 - [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) 
+- [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893) 
 - [2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef) 
 - [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee) 
 - [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652) 

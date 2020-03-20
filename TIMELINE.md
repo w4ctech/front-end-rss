@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-20 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-20-新冠疫情英国“吹哨人”确诊-数据建模预警病毒人传人](http://china.caixin.com/2020-03-20/101531481.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-20-3月19日：172个国家和地区累计确诊新冠16.34万例-六国确诊病例过万](http://international.caixin.com/2020-03-20/101531493.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-20-中国发现超2000新冠患儿，已有新生儿和儿童死亡](http://china.caixin.com/2020-03-20/101531461.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-20-摩纳哥亲王成首名确诊元首-全欧洲感染已约10万人](http://international.caixin.com/2020-03-20/101531454.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-20-意大利新冠死亡人数超中国-死亡率或存在被高估现象](http://international.caixin.com/2020-03-20/101531436.html) 
@@ -619,6 +621,8 @@
 - [【前端大学】2020-03-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/f1462e63db57d6025039eee281feeb50) 
 - [【前端大学】2020-03-12-Vue人人都会，你的优势应该在哪里？](https://www.ershicimi.com/p/f9317176a7335108c8adb3327645b362) 
 - [【前端大学】2020-03-12-2020年2月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/914ef8fa2321a5a921c623e7de518645) 
+- [【前端之巅】2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e) 
+- [【前端之巅】2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893) 
 - [【前端之巅】2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) 
 - [【前端之巅】2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) 
 - [【前端之巅】2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef) 

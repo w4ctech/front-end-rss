@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -8,6 +8,7 @@
 
 
 - [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://china.caixin.com/2020-02-20/101518002.html) 
+- [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e) 
 - [2020-02-29-面试被问尾递归优化知道怎么做吗？](https://www.ershicimi.com/p/b06fb9a9c828884723876dd9d27b90a8) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 

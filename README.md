@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 13:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 14:00:14，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,7 +63,7 @@
 </summary>
 
 
-- [2020-03-20-美国加州要求4000万人居家庇护-全美受检者阳性率达10%](http://international.caixin.com/2020-03-20/101531424.html) ![](assets/new.png)  
+- [2020-03-20-美国加州要求4000万人居家庇护-全美受检者阳性率达10%](http://international.caixin.com/2020-03-20/101531424.html)  
 - [2020-03-20-武汉中心医院再有一名员工去世-尚有多人未脱离危险](http://china.caixin.com/2020-03-20/101531418.html)  
 - [2020-03-20-3月19日：全国新冠累计确诊80967例-湖北零增长境外输入大增（更新中）](http://china.caixin.com/2020-03-20/101531384.html)  
 - [2020-03-20-肺炎日记|3月19日：李文亮调查结果公布，舆论呼吁继续追责](http://china.caixin.com/2020-03-20/101531332.html)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-03-20-北京3月20日0时至12时新增报告境外输入确诊病例6例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200320_1722934.html) ![](assets/new.png)  
-- [2020-03-20-全球新冠肺炎死亡病例超万例](http://m.weibo.cn/2656274875/4484524778078889) ![](assets/new.png)  
-- [2020-03-20-又一艘公主号邮轮现新冠肺炎确诊病例](http://m.weibo.cn/3057540037/4484513201642320) ![](assets/new.png)  
+- [2020-03-20-北京3月20日0时至12时新增报告境外输入确诊病例6例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200320_1722934.html)  
+- [2020-03-20-全球新冠肺炎死亡病例超万例](http://m.weibo.cn/2656274875/4484524778078889)  
+- [2020-03-20-又一艘公主号邮轮现新冠肺炎确诊病例](http://m.weibo.cn/3057540037/4484513201642320)  
 - [2020-03-20-25-people-have-now-been-killed-by-the-coronavirus-in-Indonesia]()  
 - [2020-03-20-Saudi-Arabia-suspends-domestic-flights-and-trains-for-14-days-over-coronavirus-fears]()  
 - [2020-03-20-天津市无新增本地新冠肺炎确诊病例-报告境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/20/art_87_72538.html)  
@@ -907,26 +907,26 @@
 </summary>
 
 
-- [2020-03-20-上海-米哈游社招内推～](https://www.v2ex.com/t/654536)  
-- [2020-03-20-发现一名-UP-主，真心感觉牛逼。所以推荐给大家](https://www.v2ex.com/t/654535)  
-- [2020-03-20-现在-Python-web-好找工作吗](https://www.v2ex.com/t/654533)  
-- [2020-03-20-为什么中国人想办理社保卡，必须每个人强制办理几百张卡，才可以正常使用社保卡？？](https://www.v2ex.com/t/654532)  
-- [2020-03-20-AMD-RDNA-2-光线追踪演示视频](https://www.v2ex.com/t/654531)  
-- [2020-03-20-发现了一个小体积-100W-GaN-充电器，-200g-体积和烟盒差不多](https://www.v2ex.com/t/654530)  
-- [2020-03-20-这种公司应该如何检举](https://www.v2ex.com/t/654529)  
-- [2020-03-20-一个虚拟主机，如何开多个网站？](https://www.v2ex.com/t/654528)  
-- [2020-03-20-请教下同步数据库的方法？](https://www.v2ex.com/t/654527)  
-- [2020-03-20-有用核显-Macbook-玩-Adobe-的吗？](https://www.v2ex.com/t/654525)  
-- [2020-03-20-外企-Wiredcraft-招聘-Quality-Assurance-Tester](https://www.v2ex.com/t/654524)  
-- [2020-03-20-如何应对疫情后严峻的就业形式！](https://www.v2ex.com/t/654523)  
-- [2020-03-20-macmini-能咋用？](https://www.v2ex.com/t/654522)  
-- [2020-03-20-TiDB-4.0-新特性前瞻：白话“悲观锁”](https://www.v2ex.com/t/654521)  
-- [2020-03-20-想知道自己的水平,-有没有什么好办法?](https://www.v2ex.com/t/654520)  
-- [2020-03-20-蚂蚁金服--网商银行实习生招聘](https://www.v2ex.com/t/654519)  
-- [2020-03-20-IntelliJ-IDEA（2020.3.4）使用-Ctrl+O-实现接口方法卡死](https://www.v2ex.com/t/654518)  
-- [2020-03-20-同城顺风车，-500-公里-500-元贵吗](https://www.v2ex.com/t/654517)  
-- [2020-03-20-招聘-坐标北京，招聘爬虫工程师，求自荐与推荐](https://www.v2ex.com/t/654516)  
-- [2020-03-20-UniFi-出了一款-6-口的小型-10G-交换机-UniFi-Switch-6-XG-PoE](https://www.v2ex.com/t/654515)  
+- [2020-03-20-实习生-阿里云实习生招聘开始](https://www.v2ex.com/t/654560) ![](assets/new.png)  
+- [2020-03-20-B-站-Web-端推出了小窗口视频播放功能](https://www.v2ex.com/t/654558) ![](assets/new.png)  
+- [2020-03-20-这种微博转发是如何实现的？](https://www.v2ex.com/t/654557) ![](assets/new.png)  
+- [2020-03-20-腾讯西安子公司招人了！欢迎推荐](https://www.v2ex.com/t/654556) ![](assets/new.png)  
+- [2020-03-20-win10-系统间歇性卡顿，是什么原因？](https://www.v2ex.com/t/654555) ![](assets/new.png)  
+- [2020-03-20-Python-如何实时储存下位机发送的数据，数据要发送一天](https://www.v2ex.com/t/654554) ![](assets/new.png)  
+- [2020-03-20-写了个小程序-不好笑笑话](https://www.v2ex.com/t/654553) ![](assets/new.png)  
+- [2020-03-20-请问-Java-中编译和类加载是互相交织的还是有严格先编译后类加载的顺序的？](https://www.v2ex.com/t/654552) ![](assets/new.png)  
+- [2020-03-20-Spring-boot-出师未捷之卡在第一步](https://www.v2ex.com/t/654551) ![](assets/new.png)  
+- [2020-03-20-实习生-阿里云实习生招聘开始啦~](https://www.v2ex.com/t/654549) ![](assets/new.png)  
+- [2020-03-20-实习-微软亚洲研究院-基于机器学习的爬虫检测实习生](https://www.v2ex.com/t/654547) ![](assets/new.png)  
+- [2020-03-20-一个大二学生对留学的迷茫，希望听听各位的意见](https://www.v2ex.com/t/654546) ![](assets/new.png)  
+- [2020-03-20-2020-疫情期间，我都做了些什么？](https://www.v2ex.com/t/654545) ![](assets/new.png)  
+- [2020-03-20-请教一个-Jetbrains-DataGrid-的使用问题](https://www.v2ex.com/t/654544) ![](assets/new.png)  
+- [2020-03-20-开源监控项目-WGCLOUD-新版本发布](https://www.v2ex.com/t/654543) ![](assets/new.png)  
+- [2020-03-20-有-B-站的工作人员在吗？我一直想问你们](https://www.v2ex.com/t/654542) ![](assets/new.png)  
+- [2020-03-20-type-c-耳机推荐，有线](https://www.v2ex.com/t/654541) ![](assets/new.png)  
+- [2020-03-20-关于三星-nvme-固态在-Linux-下驱动的问题](https://www.v2ex.com/t/654540) ![](assets/new.png)  
+- [2020-03-20-卖几个-Python-脚本](https://www.v2ex.com/t/654539) ![](assets/new.png)  
+- [2020-03-20-字节跳动教育线海量-HC（社招、校招、实习）](https://www.v2ex.com/t/654538) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

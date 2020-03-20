@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 14:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -79,6 +79,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-19-《甄嬛传》里的人集体开播了，点击进入直播间](https://www.ershicimi.com/p/957ccb73d34160be9945f375962a9009) 
+- [2020-03-20-B-站-Web-端推出了小窗口视频播放功能](https://www.v2ex.com/t/654558) 
 - [2020-03-20-AMD-RDNA-2-光线追踪演示视频](https://www.v2ex.com/t/654531) 
 - [2020-03-20-Windows-10-今天庆祝-10-亿用户的这段视频里有个亮点——Fluent-Design-的-Notepad-图标！](https://www.v2ex.com/t/654504) 
 - [2020-03-20-请问-iPhone-能让播放的音频不显示在锁定界面吗](https://www.v2ex.com/t/654495) 

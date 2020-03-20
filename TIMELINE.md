@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-20 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-20-中国发现超2000新冠患儿，已有新生儿和儿童死亡](http://china.caixin.com/2020-03-20/101531461.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-20-摩纳哥亲王成首名确诊元首-全欧洲感染已约10万人](http://international.caixin.com/2020-03-20/101531454.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-20-意大利新冠死亡人数超中国-死亡率或存在被高估现象](http://international.caixin.com/2020-03-20/101531436.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-20-美国加州要求4000万人居家庇护-全美受检者阳性率达10%](http://international.caixin.com/2020-03-20/101531424.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-20-武汉中心医院再有一名员工去世-尚有多人未脱离危险](http://china.caixin.com/2020-03-20/101531418.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-20-3月19日：全国新冠累计确诊80967例-湖北零增长境外输入大增（更新中）](http://china.caixin.com/2020-03-20/101531384.html) 
@@ -640,6 +643,7 @@
 - [【前端迷】2020-03-13-一杯茶的时间，上手-Node.js](https://www.ershicimi.com/p/49f731fb1be60b25ba72dece2d363486) 
 - [【前端迷】2020-03-12-腾讯PCG研发部招聘前端开发工程师](https://www.ershicimi.com/p/113ea73552b6f1448e052a312dbe2e50) 
 - [【前端迷】2020-03-11-一文吃透所有JS原型相关知识点](https://www.ershicimi.com/p/0fa3f572ecc92a6211205208f8f46ffe) 
+- [【全栈前端精选】2020-03-19-读源码，对程序员重要吗？](https://www.ershicimi.com/p/6f9bd7155cedfbc99cd261edd85b31d6) 
 - [【全栈前端精选】2020-03-18-手摸手教你写几个实用的AST插件](https://www.ershicimi.com/p/92ef474b2b730f295485adf6e75c7c78) 
 - [【全栈前端精选】2020-03-17-一张页面引起的项目架构思考（rax+Typescript+hooks）](https://www.ershicimi.com/p/a7c64c61c83c29f8ccf628cc9b601099) 
 - [【全栈前端精选】2020-03-17-大幅提升-JavaScript-执行效率，V8-是如何做到的？](https://www.ershicimi.com/p/b46c829fb2aa533d7ed0ed70d4696e6c) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-03-20 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-20-中国发现超2000新冠患儿，已有新生儿和儿童死亡](http://china.caixin.com/2020-03-20/101531461.html) 
+- [2020-03-20-摩纳哥亲王成首名确诊元首-全欧洲感染已约10万人](http://international.caixin.com/2020-03-20/101531454.html) 
+- [2020-03-20-意大利新冠死亡人数超中国-死亡率或存在被高估现象](http://international.caixin.com/2020-03-20/101531436.html) 
 - [2020-03-20-美国加州要求4000万人居家庇护-全美受检者阳性率达10%](http://international.caixin.com/2020-03-20/101531424.html) 
 - [2020-03-20-武汉中心医院再有一名员工去世-尚有多人未脱离危险](http://china.caixin.com/2020-03-20/101531418.html) 
 - [2020-03-20-3月19日：全国新冠累计确诊80967例-湖北零增长境外输入大增（更新中）](http://china.caixin.com/2020-03-20/101531384.html) 
@@ -1136,6 +1139,7 @@
 - [2020-03-17-我是如何拿到小米、京东、字节等大厂前端offer的](https://www.ershicimi.com/p/ef48a32c113bd71bf4f02a6a71f7e90d) 
 - [2020-03-17-10-个高级资深前端开发者应该关注的公众号](https://www.ershicimi.com/p/b1a2c3bc8e89f96fa7b655aee8f7ab8c) 
 - [2020-03-16-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/e90e524fa6bd95bb4d0d59b08596b883) 
+- [2020-03-19-读源码，对程序员重要吗？](https://www.ershicimi.com/p/6f9bd7155cedfbc99cd261edd85b31d6) 
 - [2020-03-15-如何轻松拿到淘宝前端offer](https://www.ershicimi.com/p/bdb1821e25522523cdacc604ebb3a07f) 
 - [2020-03-14-@Dan-Abramov：我的十年回顾](https://www.ershicimi.com/p/f0857fbc966fddf11fc1d25b08cd4a1d) 
 - [2020-03-13-美团旅行前端技术体系的思考与实践](https://www.ershicimi.com/p/5748cbec8b624d35ccb7b031a17da637) 

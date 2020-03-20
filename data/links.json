@@ -5,6 +5,21 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "中国发现超2000新冠患儿，已有新生儿和儿童死亡",
+        "link": "http://china.caixin.com/2020-03-20/101531461.html",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "摩纳哥亲王成首名确诊元首 全欧洲感染已约10万人",
+        "link": "http://international.caixin.com/2020-03-20/101531454.html",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "意大利新冠死亡人数超中国 死亡率或存在被高估现象",
+        "link": "http://international.caixin.com/2020-03-20/101531436.html",
+        "date": "2020-03-20"
+      },
+      {
         "title": "美国加州要求4000万人居家庇护 全美受检者阳性率达10%",
         "link": "http://international.caixin.com/2020-03-20/101531424.html",
         "date": "2020-03-20"
@@ -7834,6 +7849,11 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "读源码，对程序员重要吗？",
+        "link": "https://www.ershicimi.com/p/6f9bd7155cedfbc99cd261edd85b31d6",
+        "date": "2020-03-19"
+      },
       {
         "title": "手摸手教你写几个实用的AST插件",
         "link": "https://www.ershicimi.com/p/92ef474b2b730f295485adf6e75c7c78",

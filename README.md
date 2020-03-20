@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 22:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 22:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,7 @@
 </summary>
 
 
+- [2020-03-20-香港单日新增至少48例-隔离病房使用率超7成](http://china.caixin.com/2020-03-20/101531718.html) ![](assets/new.png)  
 - [2020-03-20-外交部：新冠源头是个科学问题](http://international.caixin.com/2020-03-20/101531712.html)  
 - [2020-03-20-韩国病例增长平缓后又现反弹-专家吁须做长期抗疫准备](http://international.caixin.com/2020-03-20/101531681.html)  
 - [2020-03-20-国家卫健委：援鄂医务人员已撤离1.2万名](http://china.caixin.com/2020-03-20/101531653.html)  
@@ -82,7 +83,6 @@
 - [2020-03-20-美国新冠确诊单日新增超5000例-累积确诊突破万人](http://international.caixin.com/2020-03-20/101531314.html)  
 - [2020-03-20-意大利封城决策复盘-重症床位如何调配](http://international.caixin.com/2020-03-20/101531303.html)  
 - [2020-03-20-日本北海道脱离疫情“紧急事态”-全国确诊达1670人](http://international.caixin.com/2020-03-20/101531296.html)  
-- [2020-03-19-大流行手记|3月19日：西班牙重症患者暴增-纽交所关闭大厅](http://international.caixin.com/2020-03-19/101531260.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-03-20-意大利14名医生殉职，感染医护超两千](http://m.weibo.cn/3057540037/4484652767285663) ![](assets/new.png)  
+- [2020-03-20-意大利14名医生殉职，感染医护超两千](http://m.weibo.cn/3057540037/4484652767285663)  
 - [2020-03-20-中国以外新冠肺炎162495例](http://m.weibo.cn/2803301701/4484642931351516)  
 - [2020-03-20-西班牙新增新冠肺炎确诊病例930例](http://m.weibo.cn/3057540037/4484624849454868)  
 - [2020-03-20-伊朗累计确诊升至1964](http://m.weibo.cn/2803301701/4484622711219841)  
@@ -236,6 +236,8 @@
 </summary>
 
 
+- [2020-03-19-React-Router-v6-新特性解读及迁移指南](https://www.ershicimi.com/p/db54568cc3a136c43b05b1c55ea553b1) ![](assets/new.png)  
+- [2020-03-18-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/f929dce2e7c5b5bd7cef66cd445681be) ![](assets/new.png)  
 - [2020-03-17-微软旗下-GitHub-收购-npm](https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee)  
 - [2020-03-16-2020-年需要学习的-8-个前端关键技能](https://www.ershicimi.com/p/d1cd86723fa7f6c2b827f22ce6165b1e)  
 - [2020-03-16-前端面试官：你知道-source-map-的原理吗？](https://www.ershicimi.com/p/bbd4d4c5cfdd022d4e3662188c8a8aa5)  
@@ -921,15 +923,15 @@
 </summary>
 
 
-- [2020-03-20-通过-USB-线-镜像-iPhone-/-iPad-屏幕到-windows-电脑的方法](https://www.v2ex.com/t/654712) ![](assets/new.png)  
-- [2020-03-20-Godaddy-的-JP-域名无法续费怎么办](https://www.v2ex.com/t/654710) ![](assets/new.png)  
-- [2020-03-20-阿里云应用研发平台-2020-春季校园招聘，部门直推](https://www.v2ex.com/t/654709) ![](assets/new.png)  
-- [2020-03-20-再把鼠标放到画中画左边框拉大画中画，画中画最后会跑到屏幕外去](https://www.v2ex.com/t/654708) ![](assets/new.png)  
-- [2020-03-20-koa-的-decorator，看这个轮子，它又大又圆！](https://www.v2ex.com/t/654707) ![](assets/new.png)  
-- [2020-03-20-iPad-文件-APP-不自动更新](https://www.v2ex.com/t/654706) ![](assets/new.png)  
-- [2020-03-20-Win10-开机具慢大家是如何排除的？](https://www.v2ex.com/t/654705) ![](assets/new.png)  
-- [2020-03-20-Affinity-50%折扣，前几天在数码荔枝-299-买的亏爆了！](https://www.v2ex.com/t/654704) ![](assets/new.png)  
-- [2020-03-20-无可奈何的小人~-兰兰想系列表情包~](https://www.v2ex.com/t/654703) ![](assets/new.png)  
+- [2020-03-20-通过-USB-线-镜像-iPhone-/-iPad-屏幕到-windows-电脑的方法](https://www.v2ex.com/t/654712)  
+- [2020-03-20-Godaddy-的-JP-域名无法续费怎么办](https://www.v2ex.com/t/654710)  
+- [2020-03-20-阿里云应用研发平台-2020-春季校园招聘，部门直推](https://www.v2ex.com/t/654709)  
+- [2020-03-20-再把鼠标放到画中画左边框拉大画中画，画中画最后会跑到屏幕外去](https://www.v2ex.com/t/654708)  
+- [2020-03-20-koa-的-decorator，看这个轮子，它又大又圆！](https://www.v2ex.com/t/654707)  
+- [2020-03-20-iPad-文件-APP-不自动更新](https://www.v2ex.com/t/654706)  
+- [2020-03-20-Win10-开机具慢大家是如何排除的？](https://www.v2ex.com/t/654705)  
+- [2020-03-20-Affinity-50%折扣，前几天在数码荔枝-299-买的亏爆了！](https://www.v2ex.com/t/654704)  
+- [2020-03-20-无可奈何的小人~-兰兰想系列表情包~](https://www.v2ex.com/t/654703)  
 - [2020-03-20-工作-3-年了，感觉一年不如一年，好崩溃...](https://www.v2ex.com/t/654702)  
 - [2020-03-20-88vip-自带的优酷会员，到期之后绑定关系怎么解除呢？](https://www.v2ex.com/t/654701)  
 - [2020-03-20-怀疑-Xnip-导致-Command-键失灵，有遇到类似情况的吗](https://www.v2ex.com/t/654700)  

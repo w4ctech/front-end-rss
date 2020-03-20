@@ -6852,6 +6852,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "德国新冠肺炎累计确诊13957",
+        "link": "http://m.weibo.cn/2803301701/4484605388489571",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "全球累计确诊新冠肺炎209839例",
+        "link": "http://m.weibo.cn/2656274875/4484600808341755",
+        "date": "2020-03-20"
+      },
+      {
         "title": "香港新增48例新冠肺炎确诊病例",
         "link": "http://m.weibo.cn/3057540037/4484595191414297",
         "date": "2020-03-20"
@@ -9822,6 +9832,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "ZooTeam 前端周刊｜第 74 期",
+        "link": "https://juejin.im/post/5e748dc0e51d4526d43f5550",
+        "date": "2020-03-20"
+      },
+      {
         "title": "使用node手撕jsonp跨域",
         "link": "https://juejin.im/post/5e74854df265da573f359506",
         "date": "2020-03-20"
@@ -10486,6 +10501,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[求助] 如何在 GPG 公钥中设置多组个人信息（姓名+电子邮件）？",
+        "link": "https://www.v2ex.com/t/654663",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "有人遇到过 MacBook Pro 使用三项插头还会漏电的问题吗？",
+        "link": "https://www.v2ex.com/t/654662",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "发现一个 ViewModel 的问题，不知道是 bug 还是 feature?",
+        "link": "https://www.v2ex.com/t/654661",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "失业半年,一家公司面试 7 次后终于拿到 offer 后我是这么反思的",
+        "link": "https://www.v2ex.com/t/654659",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "win7 有什么办法共享网络给安卓??",
+        "link": "https://www.v2ex.com/t/654658",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "赶考状元：如何快速应对数据库 QPS 暴涨 20 倍？我们做了三次决策",
+        "link": "https://www.v2ex.com/t/654657",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "重名方法怎么命名？",
+        "link": "https://www.v2ex.com/t/654656",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "上海现在需要比之前提前多就去机场？",
+        "link": "https://www.v2ex.com/t/654655",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "不懂就问，夏天开车太阳眼镜怎么选？",
+        "link": "https://www.v2ex.com/t/654654",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "字节跳动内推 (全部职位都可以)",
+        "link": "https://www.v2ex.com/t/654652",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "Selenium 怎么异步抓数据？",
+        "link": "https://www.v2ex.com/t/654651",
+        "date": "2020-03-20"
+      },
       {
         "title": "求推荐一款 windows 能远程链接到 iMac 的软件",
         "link": "https://www.v2ex.com/t/654650",

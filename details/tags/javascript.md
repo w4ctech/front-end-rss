@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -119,6 +119,7 @@
 - [2020-03-19-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-19-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-20-Selenium-怎么异步抓数据？](https://www.v2ex.com/t/654651) 
 - [2020-03-20-iOS-组件化](https://www.v2ex.com/t/654621) 
 - [2020-03-20-隐私一览无余！微博泄露事件卧底调查报告](https://www.v2ex.com/t/654590) 
 - [2020-03-20-天邑-ty-400-这款路由器怎么样？](https://www.v2ex.com/t/654513) 

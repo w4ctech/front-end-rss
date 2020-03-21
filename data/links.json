@@ -6947,6 +6947,26 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "法国累计确诊升至14459例",
+        "link": "http://m.weibo.cn/2803301701/4485167278596432",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "全球24小时新增病例3.2万例",
+        "link": "http://m.weibo.cn/2656274875/4485160982840561",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "2020年3月22日山西省新型冠状病毒肺炎疫情情况",
+        "link": "http://wjw.shanxi.gov.cn/wjywl02/25289.hrh",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "3月21日云南省新冠肺炎疫情情况",
+        "link": "http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158480876014486862",
+        "date": "2020-03-22"
+      },
+      {
         "title": "意大利西班牙伊朗确诊总和超9万人",
         "link": "http://m.weibo.cn/2656274875/4485038101781420",
         "date": "2020-03-21"
@@ -9955,6 +9975,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "小白关于虚拟机桥接的问题",
+        "link": "https://www.v2ex.com/t/655001",
+        "date": "2020-03-22"
+      },
       {
         "title": "在越狱 iPhone 上跑 QEMU 命令行",
         "link": "https://www.v2ex.com/t/655000",

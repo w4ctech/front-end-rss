@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,7 +22,6 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
-- [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) 
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
@@ -31,5 +30,5 @@
 - [2020-03-21-网络安全方向前景如何？](https://www.v2ex.com/t/654780) 
 - [2020-03-21-请问有朋友知道-network-proxy-的-url-本地的应该怎么填吗？](https://www.v2ex.com/t/654767) 
 - [2020-03-21-Chrome-浏览器-Google-translate-的翻译引擎不一样，哪个更好啊？](https://www.v2ex.com/t/654761) 
-- [2020-03-21-推荐-6800-字给你科普：SaaS-公司的系统稳定与安全机制](https://toutiao.io/k/49o6fqx) 
 - [2020-03-21-跨平台的浏览器自动化工具-Playwright-简析](https://toutiao.io/k/q7331op) 
+- [2020-03-21-推荐-6800-字给你科普：SaaS-公司的系统稳定与安全机制](https://toutiao.io/k/49o6fqx) 

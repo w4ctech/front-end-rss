@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 11:25:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,11 +28,4 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-03-21-Steam-限时免费领取游戏合集包含古墓丽影-9](https://www.v2ex.com/t/654777) 
-- [2020-03-20-字节跳动前端急招-北/上/深/杭，今日头条、游戏、头条号、小说、教育等方向](https://www.v2ex.com/t/654744) 
-- [2020-03-20-Kingdom-Rush、Prune-等-10-款付费游戏限时免费](https://www.v2ex.com/t/654739) 
-- [2020-03-20-关于游戏显卡驱动的一些问题](https://www.v2ex.com/t/654671) 
-- [2020-03-20-求-XBOX-ONE-X-的游戏推荐](https://www.v2ex.com/t/654647) 
-- [2020-03-20-老哥们，-macOS-想玩-win-游戏有什么好方案吗？](https://www.v2ex.com/t/654512) 
-- [2020-03-20-20200319---Steam-上没法买游戏](https://www.v2ex.com/t/654430) 
-- [2020-03-19-iOS-游戏限免，阿尔托的奥德赛，迷你地铁](https://www.v2ex.com/t/654400) 
-- [2020-03-19-宅在家-玩几个小游戏赚零花钱-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FL5RDainTWEPPFPXv1zPCrQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-21-宅在家-玩几个小游戏赚零花钱-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13286&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FL5RDainTWEPPFPXv1zPCrQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

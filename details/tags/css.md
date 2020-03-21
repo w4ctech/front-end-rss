@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 11:25:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,11 +7,7 @@
 
 
 
-- [2020-03-20-【第1890期】看懂-Serverless-SSR，这一篇就够了！](https://www.ershicimi.com/p/f3f2c527a5743885741927b34fab63cb) 
 - [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
-- [2020-03-18-CSS-渲染原理以及优化策略](https://www.ershicimi.com/p/ac5d4c1d4bbaf1717965e6bead8ec936) 
-- [2020-03-02-我写CSS的常用套路附demo的效果实现与源码）](https://www.ershicimi.com/p/d60b55fe30cb9c791e751340d9217d1f) 
-- [2020-03-13-CSS-故障艺术](https://www.ershicimi.com/p/7634e8cbeff293914634df23e12fc707) 
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) 
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/) 
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) 
@@ -40,17 +36,7 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
-- [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0) 
-- [2020-03-04-《精通CSS》第5章-漂亮的盒子](https://www.ershicimi.com/p/1425a58958ece7634d456f6bb1f01e3f) 
-- [2020-03-20-CSS3之背景-background](https://juejin.im/post/5e7335c3e51d4526dd1ec5e9) 
-- [2020-03-19-🔥-从最近流行的一幅-CSS-风景画中学习-2-个知识点](https://juejin.im/post/5e733909f265da574112248c) 
-- [2020-03-19-css的艺术](https://juejin.im/post/5e7228bef265da576e64bcf6) 
 - [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-- [2020-03-20-前端为什么要关注-Serverless?](https://www.v2ex.com/t/654696) 
-- [2020-03-19-TimescaleDB-1.5-里新增了压缩功能](https://www.v2ex.com/t/654205) 
-- [2020-03-19-阿里巴巴云原生应用平台团队-校招开启（分布式系统，-Serverless-基础架构，“双十一”技术大底盘，顶级场景-+-海量-HC）](https://www.v2ex.com/t/654086) 
-- [2020-03-18-安卓的-webview-内核不支持-css-十六进制颜色附加透明度的写法？](https://www.v2ex.com/t/654060) 
-- [2020-03-19-推荐-17-个场景，带你入门-CSS-布局](https://toutiao.io/k/uiq7r5p) 

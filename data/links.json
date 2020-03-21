@@ -5,6 +5,16 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "纽约州要求全民居家 美股创2008年以来最大周跌幅",
+        "link": "http://finance.caixin.com/2020-03-21/101531850.html",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "肺炎日记|3月20日：湖北再次零增长 社区感染仍存风险",
+        "link": "http://china.caixin.com/2020-03-21/101531868.html",
+        "date": "2020-03-21"
+      },
+      {
         "title": "全球新冠抗疫大事记（2019年12月31日——今）",
         "link": "http://china.caixin.com/2020-03-21/101529734.html",
         "date": "2020-03-21"
@@ -6892,6 +6902,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "四川省新增境外输入确诊病例1例",
+        "link": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/3/21/99479f229b434539a983c7ebbc9dff6b.shtml",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "福建省新增境外输入新冠肺炎确诊病例4例",
+        "link": "http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202003/t20200321_5220471.htm",
+        "date": "2020-03-21"
+      },
+      {
         "title": "上海通报新增9例境外输入详情",
         "link": "http://m.weibo.cn/2803301701/4484823895088917",
         "date": "2020-03-21"
@@ -10722,6 +10742,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "网络安全方向前景如何？",
+        "link": "https://www.v2ex.com/t/654780",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "iMac ？ 16MBP？ 14MBP？该怎么选",
+        "link": "https://www.v2ex.com/t/654779",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "类似百词斩、默默记单词这种 APP 它的数据来源哪里有 API 接口吗，有这方面的开发需求。可以选择不同的单词词库，有语音播放和具体的单词释义和示例。",
+        "link": "https://www.v2ex.com/t/654778",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Steam 限时免费领取游戏合集包含古墓丽影 9",
+        "link": "https://www.v2ex.com/t/654777",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "有没有类似 SpringBoot 实战 适合初学者的教程或书",
+        "link": "https://www.v2ex.com/t/654776",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Mac 提示 No space left on device",
+        "link": "https://www.v2ex.com/t/654775",
+        "date": "2020-03-21"
+      },
+      {
         "title": "ASUS x570 主板在尝试用 opencore 引导安装黑苹果后无法进入 bios 系统",
         "link": "https://www.v2ex.com/t/654772",
         "date": "2020-03-21"
@@ -13895,6 +13945,96 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "十分钟学会用 Go 编写 Web 中间件",
+        "link": "https://toutiao.io/k/kgno641",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Vert.x 入坑须知（4.1）：用 Spock 写异步测试",
+        "link": "https://toutiao.io/k/upugafa",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "闲鱼高效投放背后的秘密：鲲鹏",
+        "link": "https://toutiao.io/k/0h3tgd8",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "前端科普（二）：Node.js 换个角度看世界",
+        "link": "https://toutiao.io/k/hkdyjjf",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "教妹学 Java：Spring 基础篇",
+        "link": "https://toutiao.io/k/po5kvfq",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "跨平台的浏览器自动化工具 Playwright 简析",
+        "link": "https://toutiao.io/k/q7331op",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "百万级商品数据实时同步，查询结果秒出",
+        "link": "https://toutiao.io/k/5xqsw8p",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "“给高速行驶的汽车换轮胎”，携程度假产品系统改造实践",
+        "link": "https://toutiao.io/k/x2rk96d",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "快应用 router 接口的多种使用姿势",
+        "link": "https://toutiao.io/k/0tq43tq",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Self-Supervised Learning 入门介绍",
+        "link": "https://toutiao.io/k/drr4mnx",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Git Commit Message 规范与模板",
+        "link": "https://toutiao.io/k/uul3hpl",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "转转商业前端错误监控系统 (Sentry) 策略升级",
+        "link": "https://toutiao.io/k/sggu565",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "4000 字干货长文！从校招和社招的角度说说如何准备大厂 Java 后端面试？",
+        "link": "https://toutiao.io/k/p5zgxs3",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "蚂蚁金服分布式事务实践解析",
+        "link": "https://toutiao.io/k/w563i3s",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "iOS RunLoop 详解",
+        "link": "https://toutiao.io/k/2n0kjdf",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Spring Data Redis 如何将 RedisTemplate 注入为 ListOperations 类型",
+        "link": "https://toutiao.io/k/5c7yw18",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "一例 CentOS 7.6 内核 hardlock 的解析",
+        "link": "https://toutiao.io/k/h7d8uke",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "ThoughtWorks 的敏捷测试",
+        "link": "https://toutiao.io/k/mr8iys4",
+        "date": "2020-03-21"
+      },
       {
         "title": "去改密码吧！微博泄露事件卧底调查报告",
         "link": "https://toutiao.io/k/ss9aj8p",

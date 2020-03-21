@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -78,6 +78,7 @@
 - [2020-03-19-地点不限-提供北美技术移民机会-Jerry-Ai-软件工程师招聘](https://www.v2ex.com/t/654085) 
 - [2020-03-19-建个前端微信群组队刷面试题](https://www.v2ex.com/t/654077) 
 - [2020-03-19-附详尽答案，新版精选Android中高级面试题--二-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGdYyBIPp49j8eatLov1lIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-21-4000-字干货长文！从校招和社招的角度说说如何准备大厂-Java-后端面试？](https://toutiao.io/k/p5zgxs3) 
 - [2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu) 
 - [2020-03-20-跳槽，和面试官聊-JVM-，三分钟就挂了！怎么破？](https://toutiao.io/k/ajmopl8) 
 - [2020-03-19-最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://toutiao.io/k/l84p9le) 

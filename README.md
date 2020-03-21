@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 09:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 10:00:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,8 @@
 </summary>
 
 
+- [2020-03-21-纽约州要求全民居家-美股创2008年以来最大周跌幅](http://finance.caixin.com/2020-03-21/101531850.html) ![](assets/new.png)  
+- [2020-03-21-肺炎日记|3月20日：湖北再次零增长-社区感染仍存风险](http://china.caixin.com/2020-03-21/101531868.html) ![](assets/new.png)  
 - [2020-03-21-全球新冠抗疫大事记（2019年12月31日——今）](http://china.caixin.com/2020-03-21/101529734.html)  
 - [2020-03-20-生死金银潭：一支医疗队的50天](http://weekly.caixin.com/2020-03-20/101531821.html)  
 - [2020-03-20-大流行手记|3月20日:积极防控现成效-全球任重道远](http://www.caixin.com/2020-03-20/101531809.html)  
@@ -81,8 +83,6 @@
 - [2020-03-20-美国加州要求4000万人居家庇护-全美受检者阳性率达10%](http://international.caixin.com/2020-03-20/101531424.html)  
 - [2020-03-20-武汉中心医院再有一名员工去世-尚有多人未脱离危险](http://china.caixin.com/2020-03-20/101531418.html)  
 - [2020-03-20-3月19日：全国新冠累计确诊80967例-湖北零增长境外输入大增（更新中）](http://china.caixin.com/2020-03-20/101531384.html)  
-- [2020-03-20-肺炎日记|3月19日：李文亮调查结果公布，舆论呼吁继续追责](http://china.caixin.com/2020-03-20/101531332.html)  
-- [2020-03-20-湖北再更风险等级：除武汉为高风险外-其他市县均为低风险](http://china.caixin.com/2020-03-20/101531338.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,10 +94,12 @@
 </summary>
 
 
-- [2020-03-21-上海通报新增9例境外输入详情](http://m.weibo.cn/2803301701/4484823895088917) ![](assets/new.png)  
-- [2020-03-21-全国新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/097e6e91ecb6464ea69fd1a324c9b1b4.shtml) ![](assets/new.png)  
-- [2020-03-21-美国新增4776例新冠肺炎，美国累计确诊19027例](http://m.weibo.cn/2803301701/4484811664105758) ![](assets/new.png)  
-- [2020-03-21-美国总统特朗普女儿伊万卡新冠病毒检测阴性](http://m.weibo.cn/3057540037/4484804394909434) ![](assets/new.png)  
+- [2020-03-21-四川省新增境外输入确诊病例1例](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/3/21/99479f229b434539a983c7ebbc9dff6b.shtml) ![](assets/new.png)  
+- [2020-03-21-福建省新增境外输入新冠肺炎确诊病例4例](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202003/t20200321_5220471.htm) ![](assets/new.png)  
+- [2020-03-21-上海通报新增9例境外输入详情](http://m.weibo.cn/2803301701/4484823895088917)  
+- [2020-03-21-全国新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/097e6e91ecb6464ea69fd1a324c9b1b4.shtml)  
+- [2020-03-21-美国新增4776例新冠肺炎，美国累计确诊19027例](http://m.weibo.cn/2803301701/4484811664105758)  
+- [2020-03-21-美国总统特朗普女儿伊万卡新冠病毒检测阴性](http://m.weibo.cn/3057540037/4484804394909434)  
 - [2020-03-21-中国以外新冠肺炎超15万例](http://m.weibo.cn/2656274875/4484810124798078)  
 - [2020-03-21-美国累计确诊升至16638例](http://m.weibo.cn/2803301701/4484806480460713)  
 - [2020-03-21-武磊感染新冠肺炎](http://m.weibo.cn/3057540037/4484805686871651)  
@@ -112,8 +114,6 @@
 - [2020-03-20-全球累计确诊新冠肺炎209839例](http://m.weibo.cn/2656274875/4484600808341755)  
 - [2020-03-20-香港新增48例新冠肺炎确诊病例](http://m.weibo.cn/3057540037/4484595191414297)  
 - [2020-03-20-3月20日0—12时#广东新增3例境外输入病例](http://m.weibo.cn/2803301701/4484589198390409)  
-- [2020-03-20-台湾地区新增27例新冠肺炎确诊病例](http://m.weibo.cn/3057540037/4484587226608942)  
-- [2020-03-20-韩国新冠肺炎死亡病例增至100例](http://m.weibo.cn/3057540037/4484580860448144)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -932,10 +932,16 @@
 </summary>
 
 
-- [2020-03-21-ASUS-x570-主板在尝试用-opencore-引导安装黑苹果后无法进入-bios-系统](https://www.v2ex.com/t/654772) ![](assets/new.png)  
-- [2020-03-21-Weekly#2-WFH](https://www.v2ex.com/t/654771) ![](assets/new.png)  
-- [2020-03-21-CleanMyMacX-永久版本$67.99，-2-台$99](https://www.v2ex.com/t/654769) ![](assets/new.png)  
-- [2020-03-21-v2ex-发布链接的-bug-，会自动去掉后面的空格，导致链接错误](https://www.v2ex.com/t/654768) ![](assets/new.png)  
+- [2020-03-21-网络安全方向前景如何？](https://www.v2ex.com/t/654780) ![](assets/new.png)  
+- [2020-03-21-iMac-？-16MBP？-14MBP？该怎么选](https://www.v2ex.com/t/654779) ![](assets/new.png)  
+- [2020-03-21-类似百词斩、默默记单词这种-APP-它的数据来源哪里有-API-接口吗，有这方面的开发需求。可以选择不同的单词词库，有语音播放和具体的单词释义和示例。](https://www.v2ex.com/t/654778) ![](assets/new.png)  
+- [2020-03-21-Steam-限时免费领取游戏合集包含古墓丽影-9](https://www.v2ex.com/t/654777) ![](assets/new.png)  
+- [2020-03-21-有没有类似-SpringBoot-实战-适合初学者的教程或书](https://www.v2ex.com/t/654776) ![](assets/new.png)  
+- [2020-03-21-Mac-提示-No-space-left-on-device](https://www.v2ex.com/t/654775) ![](assets/new.png)  
+- [2020-03-21-ASUS-x570-主板在尝试用-opencore-引导安装黑苹果后无法进入-bios-系统](https://www.v2ex.com/t/654772)  
+- [2020-03-21-Weekly#2-WFH](https://www.v2ex.com/t/654771)  
+- [2020-03-21-CleanMyMacX-永久版本$67.99，-2-台$99](https://www.v2ex.com/t/654769)  
+- [2020-03-21-v2ex-发布链接的-bug-，会自动去掉后面的空格，导致链接错误](https://www.v2ex.com/t/654768)  
 - [2020-03-21-请问有朋友知道-network-proxy-的-url-本地的应该怎么填吗？](https://www.v2ex.com/t/654767)  
 - [2020-03-21-汇率暴跌，所以-fork-了一个-Python-汇率-API](https://www.v2ex.com/t/654766)  
 - [2020-03-21-"洗稿"](https://www.v2ex.com/t/654765)  
@@ -946,12 +952,6 @@
 - [2020-03-21-有比-Infinity-更好用的扩展吗？](https://www.v2ex.com/t/654760)  
 - [2020-03-21-万能的-V-友，各位碰见过那些双面胶，不会把家里涂料墙粘坏的那种？有经验的分享一下。](https://www.v2ex.com/t/654758)  
 - [2020-03-21-CentOS-里-KVM-上的虚拟机能随宿主关机而挂起，开机后又自动恢复吗？](https://www.v2ex.com/t/654757)  
-- [2020-03-21-纯开发写代码的话，目前的主机配置过剩很多吧](https://www.v2ex.com/t/654756)  
-- [2020-03-21-谷歌翻译将-even-翻译成什至而不是甚至，是个别情况吗](https://www.v2ex.com/t/654755)  
-- [2020-03-21-各位大佬，希捷笔记本硬盘-S.M.A.R.T-0xBB-黄了还能继续服役吗，挺秃然的](https://www.v2ex.com/t/654754)  
-- [2020-03-21-目前广东移动宽带如何](https://www.v2ex.com/t/654752)  
-- [2020-03-21-django2.2-python3.6-nginx-时不时的出现下面错误，网站很卡，然后就-出现：-502-Bad-Gateway-然后自已又变好了。速度快起来](https://www.v2ex.com/t/654751)  
-- [2020-03-21-做了个公众号，求粉啊](https://www.v2ex.com/t/654750)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,26 +994,26 @@
 </summary>
 
 
+- [2020-03-21-十分钟学会用-Go-编写-Web-中间件](https://toutiao.io/k/kgno641) ![](assets/new.png)  
+- [2020-03-21-Vert.x-入坑须知（4.1）：用-Spock-写异步测试](https://toutiao.io/k/upugafa) ![](assets/new.png)  
+- [2020-03-21-闲鱼高效投放背后的秘密：鲲鹏](https://toutiao.io/k/0h3tgd8) ![](assets/new.png)  
+- [2020-03-21-前端科普（二）：Node.js-换个角度看世界](https://toutiao.io/k/hkdyjjf) ![](assets/new.png)  
+- [2020-03-21-教妹学-Java：Spring-基础篇](https://toutiao.io/k/po5kvfq) ![](assets/new.png)  
+- [2020-03-21-跨平台的浏览器自动化工具-Playwright-简析](https://toutiao.io/k/q7331op) ![](assets/new.png)  
+- [2020-03-21-百万级商品数据实时同步，查询结果秒出](https://toutiao.io/k/5xqsw8p) ![](assets/new.png)  
+- [2020-03-21-“给高速行驶的汽车换轮胎”，携程度假产品系统改造实践](https://toutiao.io/k/x2rk96d) ![](assets/new.png)  
+- [2020-03-21-快应用-router-接口的多种使用姿势](https://toutiao.io/k/0tq43tq) ![](assets/new.png)  
+- [2020-03-21-Self-Supervised-Learning-入门介绍](https://toutiao.io/k/drr4mnx) ![](assets/new.png)  
+- [2020-03-21-Git-Commit-Message-规范与模板](https://toutiao.io/k/uul3hpl) ![](assets/new.png)  
+- [2020-03-21-转转商业前端错误监控系统-Sentry-策略升级](https://toutiao.io/k/sggu565) ![](assets/new.png)  
+- [2020-03-21-4000-字干货长文！从校招和社招的角度说说如何准备大厂-Java-后端面试？](https://toutiao.io/k/p5zgxs3) ![](assets/new.png)  
+- [2020-03-21-蚂蚁金服分布式事务实践解析](https://toutiao.io/k/w563i3s) ![](assets/new.png)  
+- [2020-03-21-iOS-RunLoop-详解](https://toutiao.io/k/2n0kjdf) ![](assets/new.png)  
+- [2020-03-21-Spring-Data-Redis-如何将-RedisTemplate-注入为-ListOperations-类型](https://toutiao.io/k/5c7yw18) ![](assets/new.png)  
+- [2020-03-21-一例-CentOS-7.6-内核-hardlock-的解析](https://toutiao.io/k/h7d8uke) ![](assets/new.png)  
+- [2020-03-21-ThoughtWorks-的敏捷测试](https://toutiao.io/k/mr8iys4) ![](assets/new.png)  
 - [2020-03-21-去改密码吧！微博泄露事件卧底调查报告](https://toutiao.io/k/ss9aj8p)  
 - [2020-03-21-推荐-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p)  
-- [2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
-- [2020-03-21-推荐-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
-- [2020-03-21-推荐-服务的容灾与容错](https://toutiao.io/k/t1de0md)  
-- [2020-03-21-推荐-近-2-万字详解-Java-NIO2-文件操作，过瘾](https://toutiao.io/k/180ioej)  
-- [2020-03-20-使用-vscode-page-简化-vscode-插件的-Webview-开发](https://toutiao.io/k/80wjkjn)  
-- [2020-03-20-音视频连载基础学习篇（三）：SDL-消息循环和事件响应](https://toutiao.io/k/at6ly7u)  
-- [2020-03-20-如何防止重复发送-ajax-请求](https://toutiao.io/k/ub8b0p0)  
-- [2020-03-20-volatile-手摸手带你解析](https://toutiao.io/k/4101eg1)  
-- [2020-03-20-职场江湖中，这几个心态不改变的话，路越来越窄（一）：敏捷和勇敢的心](https://toutiao.io/k/yz11ik7)  
-- [2020-03-20-Airbnb-实践：Kubernetes-性能问题定位](https://toutiao.io/k/kbl1d04)  
-- [2020-03-20-智能合约极简科普](https://toutiao.io/k/9owdzzz)  
-- [2020-03-20-译-重新定义代理的扩展性：介绍-Envoy-和-Istio-中的-WebAssembly-应用](https://toutiao.io/k/vhvf6fr)  
-- [2020-03-20-学习-koa-源码的整体架构，浅析-koa-洋葱模型原理和-co-原理](https://toutiao.io/k/1k5nnld)  
-- [2020-03-20-5-亿微博隐私数据被爆遭泄漏始末，国际暗网正在火爆交易](https://toutiao.io/k/xiampto)  
-- [2020-03-20-推荐-RedisTemplate：我不背锅，是你用错了](https://toutiao.io/k/75anctu)  
-- [2020-03-20-Java-解惑系列（二）:-这个看似简单的字符串拼接问题，你还记得么](https://toutiao.io/k/d73sxao)  
-- [2020-03-20-Spring-Boot-2.x（十四）：整合-Redis，看这一篇就够了](https://toutiao.io/k/t73q6br)  
-- [2020-03-20-用-Golang-实现基于-Redis-的安全高效-RPC-通信](https://toutiao.io/k/o9frtzd)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

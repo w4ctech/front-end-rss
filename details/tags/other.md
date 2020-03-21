@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-03-21 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-21-纽约州要求全民居家-美股创2008年以来最大周跌幅](http://finance.caixin.com/2020-03-21/101531850.html) 
 - [2020-03-21-全球新冠抗疫大事记（2019年12月31日——今）](http://china.caixin.com/2020-03-21/101529734.html) 
 - [2020-03-20-生死金银潭：一支医疗队的50天](http://weekly.caixin.com/2020-03-20/101531821.html) 
 - [2020-03-20-大流行手记|3月20日:积极防控现成效-全球任重道远](http://www.caixin.com/2020-03-20/101531809.html) 
@@ -1083,6 +1084,7 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://photos.caixin.com/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://china.caixin.com/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|武汉新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
+- [2020-03-21-四川省新增境外输入确诊病例1例](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/3/21/99479f229b434539a983c7ebbc9dff6b.shtml) 
 - [2020-03-21-上海通报新增9例境外输入详情](http://m.weibo.cn/2803301701/4484823895088917) 
 - [2020-03-21-美国总统特朗普女儿伊万卡新冠病毒检测阴性](http://m.weibo.cn/3057540037/4484804394909434) 
 - [2020-03-21-美国累计确诊升至16638例](http://m.weibo.cn/2803301701/4484806480460713) 
@@ -1332,6 +1334,10 @@
 - [2020-03-16-知乎-4000-万人浏览：是什么正在毁掉现在的年轻人？](https://www.ershicimi.com/p/d706728d8dd3bbcd5ca7d2e10de678d6) 
 - [2020-03-16-先码后看：这是我见过最全的《西部世界》故事线梳理](https://www.ershicimi.com/p/d53614148dcb08ace63d5623094e8c54) 
 - [2020-03-16-知乎故事-|-你保护武汉，我保护你](https://www.ershicimi.com/p/3880cc41d0116f7ec113f4924b2e5ac4) 
+- [2020-03-21-iMac-？-16MBP？-14MBP？该怎么选](https://www.v2ex.com/t/654779) 
+- [2020-03-21-类似百词斩、默默记单词这种-APP-它的数据来源哪里有-API-接口吗，有这方面的开发需求。可以选择不同的单词词库，有语音播放和具体的单词释义和示例。](https://www.v2ex.com/t/654778) 
+- [2020-03-21-有没有类似-SpringBoot-实战-适合初学者的教程或书](https://www.v2ex.com/t/654776) 
+- [2020-03-21-Mac-提示-No-space-left-on-device](https://www.v2ex.com/t/654775) 
 - [2020-03-21-ASUS-x570-主板在尝试用-opencore-引导安装黑苹果后无法进入-bios-系统](https://www.v2ex.com/t/654772) 
 - [2020-03-21-Weekly#2-WFH](https://www.v2ex.com/t/654771) 
 - [2020-03-21-CleanMyMacX-永久版本$67.99，-2-台$99](https://www.v2ex.com/t/654769) 
@@ -1817,6 +1823,19 @@
 - [2020-03-19-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-19-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-19-将-20M-文件从-30-秒压缩到-1-秒，我是如何做到的？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13277&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP5HXvBSv7YmtvTInL8zX9w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-21-十分钟学会用-Go-编写-Web-中间件](https://toutiao.io/k/kgno641) 
+- [2020-03-21-闲鱼高效投放背后的秘密：鲲鹏](https://toutiao.io/k/0h3tgd8) 
+- [2020-03-21-教妹学-Java：Spring-基础篇](https://toutiao.io/k/po5kvfq) 
+- [2020-03-21-百万级商品数据实时同步，查询结果秒出](https://toutiao.io/k/5xqsw8p) 
+- [2020-03-21-“给高速行驶的汽车换轮胎”，携程度假产品系统改造实践](https://toutiao.io/k/x2rk96d) 
+- [2020-03-21-快应用-router-接口的多种使用姿势](https://toutiao.io/k/0tq43tq) 
+- [2020-03-21-Self-Supervised-Learning-入门介绍](https://toutiao.io/k/drr4mnx) 
+- [2020-03-21-转转商业前端错误监控系统-Sentry-策略升级](https://toutiao.io/k/sggu565) 
+- [2020-03-21-蚂蚁金服分布式事务实践解析](https://toutiao.io/k/w563i3s) 
+- [2020-03-21-iOS-RunLoop-详解](https://toutiao.io/k/2n0kjdf) 
+- [2020-03-21-Spring-Data-Redis-如何将-RedisTemplate-注入为-ListOperations-类型](https://toutiao.io/k/5c7yw18) 
+- [2020-03-21-一例-CentOS-7.6-内核-hardlock-的解析](https://toutiao.io/k/h7d8uke) 
+- [2020-03-21-ThoughtWorks-的敏捷测试](https://toutiao.io/k/mr8iys4) 
 - [2020-03-21-推荐-看过无数-Java-GC-文章，这-5-个问题你也未必知道](https://toutiao.io/k/ay6ox7p) 
 - [2020-03-21-推荐-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx) 
 - [2020-03-21-推荐-服务的容灾与容错](https://toutiao.io/k/t1de0md) 

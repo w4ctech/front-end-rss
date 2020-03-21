@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2020-03-19-一文读懂-CORS-跨域](https://juejin.im/post/5e72bd8b51882549165435f1) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-19-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-21-网络安全方向前景如何？](https://www.v2ex.com/t/654780) 
 - [2020-03-21-请问有朋友知道-network-proxy-的-url-本地的应该怎么填吗？](https://www.v2ex.com/t/654767) 
 - [2020-03-21-Chrome-浏览器-Google-translate-的翻译引擎不一样，哪个更好啊？](https://www.v2ex.com/t/654761) 
 - [2020-03-20-Chrome/QQ-浏览器能否动态图只显示一次？](https://www.v2ex.com/t/654738) 
@@ -54,6 +55,7 @@
 - [2020-03-19-yandex-昨天开始突然用不了-chrome-插件了怎么办？](https://www.v2ex.com/t/654103) 
 - [2020-03-18-Avast-Password-安全性怎么样](https://www.v2ex.com/t/654074) 
 - [2020-03-18-macOS-Firefox-DNS-泄露](https://www.v2ex.com/t/654057) 
+- [2020-03-21-跨平台的浏览器自动化工具-Playwright-简析](https://toutiao.io/k/q7331op) 
 - [2020-03-20-使用-vscode-page-简化-vscode-插件的-Webview-开发](https://toutiao.io/k/80wjkjn) 
 - [2020-03-20-如何防止重复发送-ajax-请求](https://toutiao.io/k/ub8b0p0) 
 - [2020-03-20-用-Golang-实现基于-Redis-的安全高效-RPC-通信](https://toutiao.io/k/o9frtzd) 

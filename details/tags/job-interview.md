@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-22 00:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -33,9 +33,11 @@
 - [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894) 
 - [2020-03-18-大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb) 
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc) 
+- [2020-03-22-阿里云云原生应用平台应届实习招聘-内推、自荐、推荐](https://www.v2ex.com/t/654983) 
 - [2020-03-21-社招-美国大数据公司-招聘后端研发/大数据工程师/架构师](https://www.v2ex.com/t/654812) 
 - [2020-03-21-（2020-三月更新）微软苏州持续招聘中！多部门大量-HC-多次面试机会！](https://www.v2ex.com/t/654807) 
 - [2020-03-21-附详尽答案，新版精选Android中高级面试题--二-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGdYyBIPp49j8eatLov1lIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-22-推荐-面试被问分布式-ID-怎么办？-滴滴-Tinyid-甩给他](https://toutiao.io/k/a41o449) 
 - [2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu) 
 - [2020-03-21-4000-字干货长文！从校招和社招的角度说说如何准备大厂-Java-后端面试？](https://toutiao.io/k/p5zgxs3) 
 - [2020-03-21-推荐-Java-工程师面试复习指南](https://toutiao.io/k/1z1vlxz) 

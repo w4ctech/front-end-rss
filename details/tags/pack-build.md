@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -11,6 +11,7 @@
 - [2020-03-18-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/f929dce2e7c5b5bd7cef66cd445681be) 
 - [2020-03-17-微软旗下-GitHub-收购-npm](https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee) 
 - [2020-03-18-Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6) 
+- [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-03-19-Github-收购-npm](https://www.ershicimi.com/p/346d938e29c9f41d555153dfebe29acb) 
 - [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) 
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
@@ -19,6 +20,7 @@
 - [2020-03-10-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/b79c9b8c494477b319f4399f1ec831aa) 
 - [2020-03-17-微软-GitHub-宣布收购-npm：开源的-JavaScript-包管理服务](https://www.ershicimi.com/p/6ce4cd0a0cc16d563f37fdeff98298e3) 
 - [2020-03-17-从0开始发布一个无依赖、高质量的-npm-包](https://www.ershicimi.com/p/3e0cd57529652163feb69b7ab74a2344) 
+- [2020-03-17-微软-GitHub-宣布收购-npm：开源的-JavaScript-包管理服务](https://www.ershicimi.com/p/0554303ec978355bc2b8fe25d2277e1a) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 

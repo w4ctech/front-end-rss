@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-21 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 19:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -371,6 +371,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【V2EX】请问：-Boom-3D-这个到底有没有用啊？](https://www.v2ex.com/t/654908)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -498,6 +499,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
+- [【V2EX】北京联通想外网-http-访问-NAS，目前遇到不通的问题求解决思路](https://www.v2ex.com/t/654904)
 - [【V2EX】算法高手进来看看](https://www.v2ex.com/t/654810)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -520,6 +522,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)
+- [【V2EX】请问各种框架下-REST-接口断开链接应该如何取消任务？](https://www.v2ex.com/t/654909)
 - [【V2EX】请教一个-docker-问题,求大神指导一下,谢谢](https://www.v2ex.com/t/654815)
 - [......【查看更多】......](./details/tags/server.md)
 

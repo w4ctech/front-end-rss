@@ -6937,6 +6937,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "德国累计确诊升至16662例",
+        "link": "http://m.weibo.cn/2803301701/4484970472772943",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "伊朗新增新冠肺炎确诊病例966例，累计突破2万",
+        "link": "http://m.weibo.cn/3057540037/4484968694415043",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "最新数据：#中国以外新冠肺炎193327例#",
+        "link": "http://m.weibo.cn/2803301701/4484966265738688",
+        "date": "2020-03-21"
+      },
+      {
         "title": "非洲已有41个国家地区报告确诊病例，累计超过1000例",
         "link": "http://m.weibo.cn/2803301701/4484957856101660",
         "date": "2020-03-21"
@@ -9748,6 +9763,86 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "电信给家庭宽带的 ip 做了类似 AP 隔离的操作，不能互访？",
+        "link": "https://www.v2ex.com/t/654910",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "请问各种框架下 REST 接口断开链接应该如何取消任务？",
+        "link": "https://www.v2ex.com/t/654909",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "请问： Boom 3D 这个到底有没有用啊？",
+        "link": "https://www.v2ex.com/t/654908",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "微博数据泄露",
+        "link": "https://www.v2ex.com/t/654906",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "想给 xbox 手柄更新固件， windows 10 为什么还是一如既往的难用",
+        "link": "https://www.v2ex.com/t/654905",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "北京联通想外网 http 访问 NAS，目前遇到不通的问题求解决思路",
+        "link": "https://www.v2ex.com/t/654904",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "iPhone 上某个 s 开头 t 结尾的航空航天软件的 widget 里的开关是坏了吗？",
+        "link": "https://www.v2ex.com/t/654902",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "下个月如期举行广交会，有点害怕",
+        "link": "https://www.v2ex.com/t/654899",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "微信境外支付是否有 H5 支付?目前只发现有扫码和微信公众号支付",
+        "link": "https://www.v2ex.com/t/654898",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "深圳程序员周末都是去哪里敲键盘",
+        "link": "https://www.v2ex.com/t/654897",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "新换一台 MacBook，用虚拟机开发怎么样？",
+        "link": "https://www.v2ex.com/t/654896",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "miui 如何不杀后台进程？",
+        "link": "https://www.v2ex.com/t/654894",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "知乎挂了，全站 502",
+        "link": "https://www.v2ex.com/t/654893",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "知乎挂了？",
+        "link": "https://www.v2ex.com/t/654892",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "用 golang 写了一个个人站点-大家轻点喷",
+        "link": "https://www.v2ex.com/t/654891",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "程序员是否是一个容易产生技术崇拜、个人崇拜的群体？",
+        "link": "https://www.v2ex.com/t/654890",
+        "date": "2020-03-21"
+      },
+      {
         "title": "知乎挂了?",
         "link": "https://www.v2ex.com/t/654889",
         "date": "2020-03-21"
@@ -10426,6 +10521,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] MIT 6.824 分布式系统课程第一课：介绍笔记",
+        "link": "https://toutiao.io/k/huo7gu5",
+        "date": "2020-03-21"
+      },
       {
         "title": "[推荐] 这 8 个锦囊，助你成为一名优秀的 Java 开发者",
         "link": "https://toutiao.io/k/thnyg3y",

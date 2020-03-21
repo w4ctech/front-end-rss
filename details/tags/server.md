@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -12,4 +12,5 @@
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5) 
+- [2020-03-21-请问各种框架下-REST-接口断开链接应该如何取消任务？](https://www.v2ex.com/t/654909) 
 - [2020-03-21-请教一个-docker-问题,求大神指导一下,谢谢](https://www.v2ex.com/t/654815) 

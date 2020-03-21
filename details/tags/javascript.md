@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -88,6 +88,7 @@
 - [2020-03-21-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-21-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-21-微信境外支付是否有-H5-支付?目前只发现有扫码和微信公众号支付](https://www.v2ex.com/t/654898) 
 - [2020-03-21-路由器-ping-值高](https://www.v2ex.com/t/654875) 
 - [2020-03-21-分享一个-正则表达式练习-的代码实践](https://www.v2ex.com/t/654808) 
 - [2020-03-21-Tenda-AC9-路由器局域网地址不支持设为-10-开头的地址，如何评价？](https://www.v2ex.com/t/654785) 

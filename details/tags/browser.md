@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,6 +29,7 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-21-做个调查统计：生产环境用-postgresql-哪个版本？](https://www.v2ex.com/t/654941) 
 - [2020-03-21-iPhone-上某个-s-开头-t-结尾的航空航天软件的-widget-里的开关是坏了吗？](https://www.v2ex.com/t/654902) 
 - [2020-03-21-关于机场，安全和隐私方面的问题](https://www.v2ex.com/t/654861) 
 - [2020-03-21-我要来喷下-chrome](https://www.v2ex.com/t/654803) 
@@ -36,5 +37,6 @@
 - [2020-03-21-网络安全方向前景如何？](https://www.v2ex.com/t/654780) 
 - [2020-03-21-请问有朋友知道-network-proxy-的-url-本地的应该怎么填吗？](https://www.v2ex.com/t/654767) 
 - [2020-03-21-Chrome-浏览器-Google-translate-的翻译引擎不一样，哪个更好啊？](https://www.v2ex.com/t/654761) 
+- [2020-03-21-推荐-与程序员相关的-CPU-缓存知识](https://toutiao.io/k/39ga3ab) 
 - [2020-03-21-跨平台的浏览器自动化工具-Playwright-简析](https://toutiao.io/k/q7331op) 
 - [2020-03-21-推荐-6800-字给你科普：SaaS-公司的系统稳定与安全机制](https://toutiao.io/k/49o6fqx) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -34,6 +34,7 @@
 - [2020-02-25-Vue-3.0将正式发布，对我们有哪些改变？](https://www.ershicimi.com/p/2f5688f513ddfee39e89de69b1c0624d) 
 - [2020-02-24-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/52d9e6ab84d1ceb2a08483b995b82a96) 
 - [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) 
+- [2020-03-21-VUE-3.0-学习探索入门系列---纠结要不要升级到Vue3.0？该如何升级？（5）](https://juejin.im/post/5e759e22e51d4534ec007ccb) 
 - [2020-03-21-Vue-源码阅读（九）：编译过程的optimize-阶段](https://juejin.im/post/5e7595c75188252c1f22524a) 
 - [2020-03-20-基于node实现Vue打包部署脚本](https://juejin.im/post/5e748fd26fb9a07c9e1c47ef) 
 - [2020-03-20-Vue源码探秘（四）（实例挂载$mount）](https://juejin.im/post/5e7499166fb9a07caa272aec) 

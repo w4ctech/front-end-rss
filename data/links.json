@@ -9687,6 +9687,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "路由器 ping 值高",
+        "link": "https://www.v2ex.com/t/654875",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "python2.7 的代码 改成了 python3.0 第一次运行报这错。然后就不提示了。。。",
+        "link": "https://www.v2ex.com/t/654873",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "给大家举个例子，来了解英国所谓的“群体免疫”",
+        "link": "https://www.v2ex.com/t/654872",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "有没有优酷的车？",
+        "link": "https://www.v2ex.com/t/654870",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "我的 itunes 突然需要全局代理才能访问商店，请问怎么解决",
+        "link": "https://www.v2ex.com/t/654869",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "NIO 中 检测到 channel 连接断开后的处理方法？",
+        "link": "https://www.v2ex.com/t/654868",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "有没有成都小伙伴有 telegram 的成都群，交流成都的工作、生活相关的？",
+        "link": "https://www.v2ex.com/t/654867",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "万能的 V 友们，能帮我看看我做错什么了吗，上来就是一顿怼",
+        "link": "https://www.v2ex.com/t/654866",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "github star 数量不显示了？",
+        "link": "https://www.v2ex.com/t/654865",
+        "date": "2020-03-21"
+      },
+      {
         "title": "前端实习面上一个小公司，有些没底，有必要去吗？",
         "link": "https://www.v2ex.com/t/654864",
         "date": "2020-03-21"
@@ -10255,6 +10300,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 基于 Java 实现的人脸识别功能（附源码）",
+        "link": "https://toutiao.io/k/858vszs",
+        "date": "2020-03-21"
+      },
       {
         "title": "[推荐] 程序员的商业思维：关注杠杆率",
         "link": "https://toutiao.io/k/ad3xky6",

@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 16:30:21，:rocket: 更新条数: +54， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 17:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
-- [VUE全家桶](#vue全家桶)![](assets/dot.png)   
+- [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
-- [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
+- [前端大学](#前端大学)  
+- [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
@@ -35,12 +35,12 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,10 +63,10 @@
 </summary>
 
 
-- [2020-03-21-疫情总动员，各地怎么做|多地倡议清明节文明祭扫-江西试行周末2.5天](http://china.caixin.com/2020-03-21/101532077.html) ![](assets/new.png)  
-- [2020-03-21-湖北省统计局副局长叶青：官僚主义和病毒一样会杀人](http://china.caixin.com/2020-03-21/101532033.html) ![](assets/new.png)  
-- [2020-03-21-【图集】新冠疫情席卷全球-世界体坛多人被感染](http://photos.caixin.com/2020-03-21/101532056.html) ![](assets/new.png)  
-- [2020-03-20-肺炎日记|3月19日：新增确诊首次清零-境外输入仍在增加](http://china.caixin.com/2020-03-20/101532084.html) ![](assets/new.png)  
+- [2020-03-21-疫情总动员，各地怎么做|多地倡议清明节文明祭扫-江西试行周末2.5天](http://china.caixin.com/2020-03-21/101532077.html)  
+- [2020-03-21-湖北省统计局副局长叶青：官僚主义和病毒一样会杀人](http://china.caixin.com/2020-03-21/101532033.html)  
+- [2020-03-21-【图集】新冠疫情席卷全球-世界体坛多人被感染](http://photos.caixin.com/2020-03-21/101532056.html)  
+- [2020-03-20-肺炎日记|3月19日：新增确诊首次清零-境外输入仍在增加](http://china.caixin.com/2020-03-20/101532084.html)  
 - [2020-03-21-【境内疫情观察】一线城市境外输入病例持续增加（3月20日）](http://database.caixin.com/2020-03-21/101531999.html)  
 - [2020-03-21-【聚焦】盖茨回答了关于新冠肺炎的31个问题](http://opinion.caixin.com/2020-03-21/101532002.html)  
 - [2020-03-21-英政府补贴无法上班者80%工资-全球劳工恐失3.4万亿美元收入](http://international.caixin.com/2020-03-21/101531983.html)  
@@ -155,16 +155,16 @@
 </summary>
 
 
-- [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) ![](assets/new.png)  
-- [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) ![](assets/new.png)  
-- [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) ![](assets/new.png)  
-- [2019-12-18-【面试题】2019开年跳槽系列-35](https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a) ![](assets/new.png)  
-- [2019-12-16-【面试题】2019开年跳槽系列-34](https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d) ![](assets/new.png)  
-- [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) ![](assets/new.png)  
-- [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) ![](assets/new.png)  
-- [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) ![](assets/new.png)  
-- [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) ![](assets/new.png)  
-- [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3) ![](assets/new.png)  
+- [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1)  
+- [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62)  
+- [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e)  
+- [2019-12-18-【面试题】2019开年跳槽系列-35](https://www.ershicimi.com/p/13693c22440fcc75bcb7816cbd38d87a)  
+- [2019-12-16-【面试题】2019开年跳槽系列-34](https://www.ershicimi.com/p/55cfb22f6deb40706c18677e12a05d7d)  
+- [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2)  
+- [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da)  
+- [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d)  
+- [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378)  
+- [2019-12-06-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3)  
 - [......【查看更多】......](./details/VUE全家桶.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -282,16 +282,16 @@
 </summary>
 
 
-- [2020-03-19-一年半前端跳槽面试经验（头条、微信、shopee）](https://www.ershicimi.com/p/27c1e7a6525a63c12a2108e2abb2f7a6) ![](assets/new.png)  
-- [2020-03-19-Github-收购-npm](https://www.ershicimi.com/p/346d938e29c9f41d555153dfebe29acb) ![](assets/new.png)  
-- [2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf) ![](assets/new.png)  
-- [2020-03-18-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/740a4cabdc55b76a00009815a86cc10a) ![](assets/new.png)  
-- [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e) ![](assets/new.png)  
-- [2020-03-17-2020QS世界大学计算机学科排名出炉，清华大学再创佳绩](https://www.ershicimi.com/p/4f38ae8eefb3b48b6cc191243236e238) ![](assets/new.png)  
-- [2020-03-16-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/13f1a8f948ee6362d9da9d8046f7f62e) ![](assets/new.png)  
-- [2020-03-14-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/314615bb50e18ea73a51b6eb6d743701) ![](assets/new.png)  
-- [2020-03-14-100-个网络基础知识-看完成半个网络高手](https://www.ershicimi.com/p/9f38b5d366eecdf345f35c117436e8d9) ![](assets/new.png)  
-- [2020-03-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/f1462e63db57d6025039eee281feeb50) ![](assets/new.png)  
+- [2020-03-19-一年半前端跳槽面试经验（头条、微信、shopee）](https://www.ershicimi.com/p/27c1e7a6525a63c12a2108e2abb2f7a6)  
+- [2020-03-19-Github-收购-npm](https://www.ershicimi.com/p/346d938e29c9f41d555153dfebe29acb)  
+- [2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf)  
+- [2020-03-18-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/740a4cabdc55b76a00009815a86cc10a)  
+- [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e)  
+- [2020-03-17-2020QS世界大学计算机学科排名出炉，清华大学再创佳绩](https://www.ershicimi.com/p/4f38ae8eefb3b48b6cc191243236e238)  
+- [2020-03-16-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/13f1a8f948ee6362d9da9d8046f7f62e)  
+- [2020-03-14-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/314615bb50e18ea73a51b6eb6d743701)  
+- [2020-03-14-100-个网络基础知识-看完成半个网络高手](https://www.ershicimi.com/p/9f38b5d366eecdf345f35c117436e8d9)  
+- [2020-03-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/f1462e63db57d6025039eee281feeb50)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -303,16 +303,16 @@
 </summary>
 
 
-- [2020-02-17-Sigi-Framework-介绍](https://www.ershicimi.com/p/f51055685393a0ab66a73470183ce1e2) ![](assets/new.png)  
-- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) ![](assets/new.png)  
-- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) ![](assets/new.png)  
-- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) ![](assets/new.png)  
-- [2020-01-02-云凤蝶自由画布之道：分层模型](https://www.ershicimi.com/p/6f2ab75cf5c42cacddea1cab8ac43504) ![](assets/new.png)  
-- [2019-12-18-从-VSCode-看大型-IDE-技术架构](https://www.ershicimi.com/p/191a6a52cf1d7cda4efe2f86817393c5) ![](assets/new.png)  
-- [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) ![](assets/new.png)  
-- [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) ![](assets/new.png)  
-- [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) ![](assets/new.png)  
-- [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) ![](assets/new.png)  
+- [2020-02-17-Sigi-Framework-介绍](https://www.ershicimi.com/p/f51055685393a0ab66a73470183ce1e2)  
+- [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)  
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2)  
+- [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc)  
+- [2020-01-02-云凤蝶自由画布之道：分层模型](https://www.ershicimi.com/p/6f2ab75cf5c42cacddea1cab8ac43504)  
+- [2019-12-18-从-VSCode-看大型-IDE-技术架构](https://www.ershicimi.com/p/191a6a52cf1d7cda4efe2f86817393c5)  
+- [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486)  
+- [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab)  
+- [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93)  
+- [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0)  
 - [......【查看更多】......](./details/前端外刊评论.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -451,16 +451,16 @@
 </summary>
 
 
-- [2020-03-13-2020，前端工程师凭什么这么值钱？](https://www.ershicimi.com/p/34c1ebd7400b77371a2fd5621151fae4) ![](assets/new.png)  
-- [2020-03-13-源码分析-Node-的-Cluster-模块](https://www.ershicimi.com/p/4ba5f694833e3d17be36ef414b5d6a9f) ![](assets/new.png)  
-- [2020-03-12-Nodejs-进阶：解答-Cluster-模块的几个疑问](https://www.ershicimi.com/p/1af8a8909d3e12d7c81f4e718ad64c35) ![](assets/new.png)  
-- [2020-03-08-Nodejs-BFF-开发-8-个月的心路历程](https://www.ershicimi.com/p/aabdec3960c883ce9e05dcb7d2436895) ![](assets/new.png)  
-- [2020-03-07-Java-后端的我也要学-Nodejs-了](https://www.ershicimi.com/p/0f4f3dc9b5bf0fd24134912027d7e5f3) ![](assets/new.png)  
-- [2020-03-05-面试官：你简历中写用过docker，能说说容器和镜像的区别吗？](https://www.ershicimi.com/p/3263760b958d1699ae14b584ecc6ec2d) ![](assets/new.png)  
-- [2020-03-02-Node.js-如何利用-Libuv-实现事件循环和异步](https://www.ershicimi.com/p/054b2be4818170fa4fa41bb9da8c8b14) ![](assets/new.png)  
-- [2020-03-01-面试常考手写代码学习技巧总结](https://www.ershicimi.com/p/4ba308a7ccbb8d80354182113127cc9b) ![](assets/new.png)  
-- [2020-02-29-面试被问尾递归优化知道怎么做吗？](https://www.ershicimi.com/p/b06fb9a9c828884723876dd9d27b90a8) ![](assets/new.png)  
-- [2020-02-27-实现一个二叉搜索树（JavaScript-版）](https://www.ershicimi.com/p/edf15a8c80e830e02da1d284e0f9464e) ![](assets/new.png)  
+- [2020-03-13-2020，前端工程师凭什么这么值钱？](https://www.ershicimi.com/p/34c1ebd7400b77371a2fd5621151fae4)  
+- [2020-03-13-源码分析-Node-的-Cluster-模块](https://www.ershicimi.com/p/4ba5f694833e3d17be36ef414b5d6a9f)  
+- [2020-03-12-Nodejs-进阶：解答-Cluster-模块的几个疑问](https://www.ershicimi.com/p/1af8a8909d3e12d7c81f4e718ad64c35)  
+- [2020-03-08-Nodejs-BFF-开发-8-个月的心路历程](https://www.ershicimi.com/p/aabdec3960c883ce9e05dcb7d2436895)  
+- [2020-03-07-Java-后端的我也要学-Nodejs-了](https://www.ershicimi.com/p/0f4f3dc9b5bf0fd24134912027d7e5f3)  
+- [2020-03-05-面试官：你简历中写用过docker，能说说容器和镜像的区别吗？](https://www.ershicimi.com/p/3263760b958d1699ae14b584ecc6ec2d)  
+- [2020-03-02-Node.js-如何利用-Libuv-实现事件循环和异步](https://www.ershicimi.com/p/054b2be4818170fa4fa41bb9da8c8b14)  
+- [2020-03-01-面试常考手写代码学习技巧总结](https://www.ershicimi.com/p/4ba308a7ccbb8d80354182113127cc9b)  
+- [2020-02-29-面试被问尾递归优化知道怎么做吗？](https://www.ershicimi.com/p/b06fb9a9c828884723876dd9d27b90a8)  
+- [2020-02-27-实现一个二叉搜索树（JavaScript-版）](https://www.ershicimi.com/p/edf15a8c80e830e02da1d284e0f9464e)  
 - [......【查看更多】......](./details/Nodejs技术栈.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -549,16 +549,16 @@
 </summary>
 
 
-- [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4) ![](assets/new.png)  
-- [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec) ![](assets/new.png)  
-- [2020-03-18-深入理解Javacript从作用域作用域链开始](https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82) ![](assets/new.png)  
-- [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de) ![](assets/new.png)  
-- [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694) ![](assets/new.png)  
-- [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0) ![](assets/new.png)  
-- [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752) ![](assets/new.png)  
-- [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e) ![](assets/new.png)  
-- [2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9) ![](assets/new.png)  
-- [2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095) ![](assets/new.png)  
+- [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4)  
+- [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)  
+- [2020-03-18-深入理解Javacript从作用域作用域链开始](https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82)  
+- [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de)  
+- [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694)  
+- [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0)  
+- [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752)  
+- [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)  
+- [2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9)  
+- [2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -798,6 +798,15 @@
 </summary>
 
 
+- [2020-03-21-路由器-ping-值高](https://www.v2ex.com/t/654875) ![](assets/new.png)  
+- [2020-03-21-python2.7-的代码-改成了-python3.0-第一次运行报这错。然后就不提示了。。。](https://www.v2ex.com/t/654873) ![](assets/new.png)  
+- [2020-03-21-给大家举个例子，来了解英国所谓的“群体免疫”](https://www.v2ex.com/t/654872) ![](assets/new.png)  
+- [2020-03-21-有没有优酷的车？](https://www.v2ex.com/t/654870) ![](assets/new.png)  
+- [2020-03-21-我的-itunes-突然需要全局代理才能访问商店，请问怎么解决](https://www.v2ex.com/t/654869) ![](assets/new.png)  
+- [2020-03-21-NIO-中-检测到-channel-连接断开后的处理方法？](https://www.v2ex.com/t/654868) ![](assets/new.png)  
+- [2020-03-21-有没有成都小伙伴有-telegram-的成都群，交流成都的工作、生活相关的？](https://www.v2ex.com/t/654867) ![](assets/new.png)  
+- [2020-03-21-万能的-V-友们，能帮我看看我做错什么了吗，上来就是一顿怼](https://www.v2ex.com/t/654866) ![](assets/new.png)  
+- [2020-03-21-github-star-数量不显示了？](https://www.v2ex.com/t/654865) ![](assets/new.png)  
 - [2020-03-21-前端实习面上一个小公司，有些没底，有必要去吗？](https://www.v2ex.com/t/654864)  
 - [2020-03-21-intel-nuc10](https://www.v2ex.com/t/654863)  
 - [2020-03-21-关于机场，安全和隐私方面的问题](https://www.v2ex.com/t/654861)  
@@ -809,15 +818,6 @@
 - [2020-03-21-Half-Life:-Alyx-最新的三段游戏过程视频](https://www.v2ex.com/t/654855)  
 - [2020-03-21-开个-0ffice365-家庭版的车~~~](https://www.v2ex.com/t/654854)  
 - [2020-03-21-现在-win10-系统如何全量备份迁移到新的笔记本上面？谢谢](https://www.v2ex.com/t/654853)  
-- [2020-03-21-有做-NODEJS-后端的老哥么。。。有个兼职的活儿，长期一年。需要人在长沙](https://www.v2ex.com/t/654852)  
-- [2020-03-21-Chrome-extension-input-性能问题](https://www.v2ex.com/t/654851)  
-- [2020-03-21-一个可以用于提取任意-iOS-App-图标原图的工具](https://www.v2ex.com/t/654850)  
-- [2020-03-21-阿里实习-一群阿里师兄想找几个徒弟，不只是实习，一起成长！](https://www.v2ex.com/t/654848)  
-- [2020-03-21-是否可以下载-Win10-自带的微软输入法，并安装到-Win7-上？](https://www.v2ex.com/t/654845)  
-- [2020-03-21-阿里电话面已挂，想和大家聊聊我的看法，欢迎交流~](https://www.v2ex.com/t/654844)  
-- [2020-03-21-如何让微信一直保持-FCM-状态](https://www.v2ex.com/t/654843)  
-- [2020-03-21-Portainer-将在本月-3-月-31-日发布首个支持-Kubernetes-的版本，你怎么看？](https://www.v2ex.com/t/654842)  
-- [2020-03-21-大佬们求推荐联通卡划算的套餐（2020-年三月）](https://www.v2ex.com/t/654841)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -860,6 +860,7 @@
 </summary>
 
 
+- [2020-03-21-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs) ![](assets/new.png)  
 - [2020-03-21-推荐-程序员的商业思维：关注杠杆率](https://toutiao.io/k/ad3xky6)  
 - [2020-03-21-推荐-疫情期间，Java-菜鸟-“面霸”-养成记，中兴-+-腾讯-+-乐视-+-京东……](https://toutiao.io/k/uniwe7s)  
 - [2020-03-21-推荐-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
@@ -879,7 +880,6 @@
 - [2020-03-21-推荐-分布式定时任务调度框架实践](https://toutiao.io/k/necfb59)  
 - [2020-03-21-推荐-浅谈使用-Binlog-实现-MySQL-增量备份](https://toutiao.io/k/box42nq)  
 - [2020-03-21-推荐-一个极简、易用的灰度分流方案](https://toutiao.io/k/sjdciny)  
-- [2020-03-21-简历要怎么写-|-码农周刊第-299-期](https://toutiao.io/k/lrag1le)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

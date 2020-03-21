@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,8 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-21-用了-pac-模式你们还用-Switchy-Omega-这种浏览器代理管理插件吗](https://www.v2ex.com/t/654972) 
+- [2020-03-21-zerotier-如何设置可以实现手机端的所有流量全部走-zerotier-网络？](https://www.v2ex.com/t/654967) 
 - [2020-03-21-有没有纯显示页面的布局调试浏览器](https://www.v2ex.com/t/654951) 
 - [2020-03-21-做个调查统计：生产环境用-postgresql-哪个版本？](https://www.v2ex.com/t/654941) 
 - [2020-03-21-iPhone-上某个-s-开头-t-结尾的航空航天软件的-widget-里的开关是坏了吗？](https://www.v2ex.com/t/654902) 

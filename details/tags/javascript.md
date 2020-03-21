@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -27,6 +27,8 @@
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://china.caixin.com/2020-01-22/101507387.html) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2020-03-17-【第1887期】Async-Generators-作为状态管理的替代方案](https://www.ershicimi.com/p/01fee5d0efe3728486562d4f46d2445e) 
+- [2020-03-16-彻底搞懂-offsetX、scrollX、clientX-的区别](https://www.ershicimi.com/p/c593a2f428081b86595838c4ebb6a2b0) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
@@ -36,6 +38,7 @@
 - [2020-02-23-小白必看，JSBridge-初探](https://www.ershicimi.com/p/cb1bd6cf296e4970985eb56fe06cd1f9) 
 - [2020-03-19-5-个提升你-JS-编码水平的实例](https://www.ershicimi.com/p/ffd5a278408af48a58655ae046c67697) 
 - [2020-03-13-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/1c75b75c63bbcd164f8d2c9e90ad7dc1) 
+- [2020-03-19-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e) 
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) 
 - [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) 
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) 
@@ -85,6 +88,7 @@
 - [2020-03-21-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-03-21-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-21-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-03-21-分享一个-正则表达式练习-的代码实践](https://www.v2ex.com/t/654808) 
 - [2020-03-21-Tenda-AC9-路由器局域网地址不支持设为-10-开头的地址，如何评价？](https://www.v2ex.com/t/654785) 
 - [2020-03-21-n1-旁路由的一些疑惑](https://www.v2ex.com/t/654764) 
 - [2020-03-21-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

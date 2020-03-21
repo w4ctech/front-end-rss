@@ -6937,6 +6937,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "非洲已有41个国家地区报告确诊病例，累计超过1000例",
+        "link": "http://m.weibo.cn/2803301701/4484957856101660",
+        "date": "2020-03-21"
+      },
+      {
         "title": "我国10天内境外输入病例增幅216%",
         "link": "http://m.weibo.cn/2803301701/4484933211140401",
         "date": "2020-03-21"
@@ -7153,7 +7158,58 @@
     "rss": "https://rsshub.app/wechat/ershicimi/10445",
     "title": "React中文社区",
     "link": "https://www.ershicimi.com/a/10445",
-    "items": []
+    "items": [
+      {
+        "title": "双12，送33本前端书籍回馈大家及珍藏已久的几个公众号",
+        "link": "https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88",
+        "date": "2019-12-15"
+      },
+      {
+        "title": "一文深度剖析Axios源码",
+        "link": "https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a",
+        "date": "2019-12-11"
+      },
+      {
+        "title": "来自蚂蚁金服的前端项目最佳实践",
+        "link": "https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c",
+        "date": "2019-11-28"
+      },
+      {
+        "title": "一文掌握Webpack编译流程",
+        "link": "https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6",
+        "date": "2019-11-25"
+      },
+      {
+        "title": "你不知道的 React Diff",
+        "link": "https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090",
+        "date": "2019-11-15"
+      },
+      {
+        "title": "推荐几个公众号",
+        "link": "https://www.ershicimi.com/p/a3828f970288d59160cda21828777128",
+        "date": "2019-11-15"
+      },
+      {
+        "title": "Javascript条件逻辑设计重构",
+        "link": "https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4",
+        "date": "2019-11-14"
+      },
+      {
+        "title": "推荐几个公众号",
+        "link": "https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45",
+        "date": "2019-11-14"
+      },
+      {
+        "title": "Javascript 实现优雅的链式取值",
+        "link": "https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa",
+        "date": "2019-11-06"
+      },
+      {
+        "title": "实战LeetCode - 前端面试必备二叉树算法",
+        "link": "https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1",
+        "date": "2019-10-31"
+      }
+    ]
   },
   {
     "rss": "https://rsshub.app/wechat/ershicimi/5760",
@@ -9692,6 +9748,71 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "知乎挂了?",
+        "link": "https://www.v2ex.com/t/654889",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "各位大神问下拒绝了腾讯某个部门的 offer 还能投其他部门的吗？",
+        "link": "https://www.v2ex.com/t/654888",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Linux 下如何配置桥接网卡，可以实现主机与虚拟机互通？",
+        "link": "https://www.v2ex.com/t/654887",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "如何保存/抓取贴吧的帖子为 txt 文档",
+        "link": "https://www.v2ex.com/t/654886",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "如何查看 Linux 所有组及拥有的权限",
+        "link": "https://www.v2ex.com/t/654885",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "请教大佬们一个关于 redis 原子性的问题",
+        "link": "https://www.v2ex.com/t/654884",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "因为学习需要，初入 Lunix，莫名卡顿",
+        "link": "https://www.v2ex.com/t/654883",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "utorrent 怎么一点速度都没？是我打开姿势不对吗？",
+        "link": "https://www.v2ex.com/t/654881",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "手机移动端网页， Android 和 iOS 默认字体分别有哪些？",
+        "link": "https://www.v2ex.com/t/654880",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "老站转型，做在线自习室，欢迎大家入驻，线下店也在筹备了。",
+        "link": "https://www.v2ex.com/t/654879",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "你好，请进！小白想问一下这种收录是怎么做的，请看图！",
+        "link": "https://www.v2ex.com/t/654878",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "现在功夫网其实也没以前复杂了，就是疯狂 QOS 限速了。江苏电信，几乎全天限速 128kbps，外网的网页里只要有图片一律打不开",
+        "link": "https://www.v2ex.com/t/654877",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "有的英语技术书籍读起来特别顺畅, 有的却磕磕绊绊",
+        "link": "https://www.v2ex.com/t/654876",
+        "date": "2020-03-21"
+      },
+      {
         "title": "路由器 ping 值高",
         "link": "https://www.v2ex.com/t/654875",
         "date": "2020-03-21"
@@ -10305,6 +10426,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 这 8 个锦囊，助你成为一名优秀的 Java 开发者",
+        "link": "https://toutiao.io/k/thnyg3y",
+        "date": "2020-03-21"
+      },
       {
         "title": "[推荐] 基于 Java 实现的人脸识别功能（附源码）",
         "link": "https://toutiao.io/k/858vszs",

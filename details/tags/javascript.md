@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -25,6 +25,8 @@
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](http://www.caixin.com/2020-01-23/101507521.html) 
 - [2020-01-22-如何解读WHO“国际公共卫生紧急事件”](http://china.caixin.com/2020-01-22/101507340.html) 
 - [2020-01-22-民航局要求各航空公司、机场完善突发公共卫生事件应急处置方案](http://china.caixin.com/2020-01-22/101507387.html) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-03-17-【第1887期】Async-Generators-作为状态管理的替代方案](https://www.ershicimi.com/p/01fee5d0efe3728486562d4f46d2445e) 
 - [2020-03-16-彻底搞懂-offsetX、scrollX、clientX-的区别](https://www.ershicimi.com/p/c593a2f428081b86595838c4ebb6a2b0) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 

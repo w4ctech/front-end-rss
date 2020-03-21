@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 17:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 18:00:21，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
-- [React中文社区](#react中文社区)  
+- [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,7 +63,7 @@
 </summary>
 
 
-- [2020-03-21-特稿|核酸阴性抗体阳性-确诊名单外的武汉医护人员](http://china.caixin.com/2020-03-21/101532090.html) ![](assets/new.png)  
+- [2020-03-21-特稿|核酸阴性抗体阳性-确诊名单外的武汉医护人员](http://china.caixin.com/2020-03-21/101532090.html)  
 - [2020-03-21-疫情总动员，各地怎么做|多地倡议清明节文明祭扫-江西试行周末2.5天](http://china.caixin.com/2020-03-21/101532077.html)  
 - [2020-03-21-湖北省统计局副局长叶青：官僚主义和病毒一样会杀人](http://china.caixin.com/2020-03-21/101532033.html)  
 - [2020-03-21-【图集】新冠疫情席卷全球-世界体坛多人被感染](http://photos.caixin.com/2020-03-21/101532056.html)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-03-21-非洲已有41个国家地区报告确诊病例，累计超过1000例](http://m.weibo.cn/2803301701/4484957856101660) ![](assets/new.png)  
 - [2020-03-21-我国10天内境外输入病例增幅216%](http://m.weibo.cn/2803301701/4484933211140401)  
 - [2020-03-21-澳大利亚新冠肺炎感染确诊病例破千](http://m.weibo.cn/3057540037/4484916617716690)  
 - [2020-03-21-3月21日0时至12时，北京新增5例境外输入病例](http://m.weibo.cn/2803301701/4484899442371194)  
@@ -176,6 +177,16 @@
 </summary>
 
 
+- [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) ![](assets/new.png)  
+- [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) ![](assets/new.png)  
+- [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) ![](assets/new.png)  
+- [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) ![](assets/new.png)  
+- [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) ![](assets/new.png)  
+- [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) ![](assets/new.png)  
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) ![](assets/new.png)  
+- [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) ![](assets/new.png)  
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) ![](assets/new.png)  
+- [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) ![](assets/new.png)  
 - [......【查看更多】......](./details/React中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -798,6 +809,19 @@
 </summary>
 
 
+- [2020-03-21-知乎挂了?](https://www.v2ex.com/t/654889) ![](assets/new.png)  
+- [2020-03-21-各位大神问下拒绝了腾讯某个部门的-offer-还能投其他部门的吗？](https://www.v2ex.com/t/654888) ![](assets/new.png)  
+- [2020-03-21-Linux-下如何配置桥接网卡，可以实现主机与虚拟机互通？](https://www.v2ex.com/t/654887) ![](assets/new.png)  
+- [2020-03-21-如何保存/抓取贴吧的帖子为-txt-文档](https://www.v2ex.com/t/654886) ![](assets/new.png)  
+- [2020-03-21-如何查看-Linux-所有组及拥有的权限](https://www.v2ex.com/t/654885) ![](assets/new.png)  
+- [2020-03-21-请教大佬们一个关于-redis-原子性的问题](https://www.v2ex.com/t/654884) ![](assets/new.png)  
+- [2020-03-21-因为学习需要，初入-Lunix，莫名卡顿](https://www.v2ex.com/t/654883) ![](assets/new.png)  
+- [2020-03-21-utorrent-怎么一点速度都没？是我打开姿势不对吗？](https://www.v2ex.com/t/654881) ![](assets/new.png)  
+- [2020-03-21-手机移动端网页，-Android-和-iOS-默认字体分别有哪些？](https://www.v2ex.com/t/654880) ![](assets/new.png)  
+- [2020-03-21-老站转型，做在线自习室，欢迎大家入驻，线下店也在筹备了。](https://www.v2ex.com/t/654879) ![](assets/new.png)  
+- [2020-03-21-你好，请进！小白想问一下这种收录是怎么做的，请看图！](https://www.v2ex.com/t/654878) ![](assets/new.png)  
+- [2020-03-21-现在功夫网其实也没以前复杂了，就是疯狂-QOS-限速了。江苏电信，几乎全天限速-128kbps，外网的网页里只要有图片一律打不开](https://www.v2ex.com/t/654877) ![](assets/new.png)  
+- [2020-03-21-有的英语技术书籍读起来特别顺畅,-有的却磕磕绊绊](https://www.v2ex.com/t/654876) ![](assets/new.png)  
 - [2020-03-21-路由器-ping-值高](https://www.v2ex.com/t/654875)  
 - [2020-03-21-python2.7-的代码-改成了-python3.0-第一次运行报这错。然后就不提示了。。。](https://www.v2ex.com/t/654873)  
 - [2020-03-21-给大家举个例子，来了解英国所谓的“群体免疫”](https://www.v2ex.com/t/654872)  
@@ -805,19 +829,6 @@
 - [2020-03-21-我的-itunes-突然需要全局代理才能访问商店，请问怎么解决](https://www.v2ex.com/t/654869)  
 - [2020-03-21-NIO-中-检测到-channel-连接断开后的处理方法？](https://www.v2ex.com/t/654868)  
 - [2020-03-21-有没有成都小伙伴有-telegram-的成都群，交流成都的工作、生活相关的？](https://www.v2ex.com/t/654867)  
-- [2020-03-21-万能的-V-友们，能帮我看看我做错什么了吗，上来就是一顿怼](https://www.v2ex.com/t/654866)  
-- [2020-03-21-github-star-数量不显示了？](https://www.v2ex.com/t/654865)  
-- [2020-03-21-前端实习面上一个小公司，有些没底，有必要去吗？](https://www.v2ex.com/t/654864)  
-- [2020-03-21-intel-nuc10](https://www.v2ex.com/t/654863)  
-- [2020-03-21-关于机场，安全和隐私方面的问题](https://www.v2ex.com/t/654861)  
-- [2020-03-21-用你手头的设备工具，如何写一个足够公平的抽签程序？](https://www.v2ex.com/t/654860)  
-- [2020-03-21-反编译，爬虫。。。可能老板没事，你却坐牢了](https://www.v2ex.com/t/654859)  
-- [2020-03-21-快手社招内推](https://www.v2ex.com/t/654858)  
-- [2020-03-21-请问大家在用-Typora-等-markdown-软件的时候，是直接快捷键还是用-markdown-标签？](https://www.v2ex.com/t/654857)  
-- [2020-03-21-如何在-Fragment-中使用-PreferenceScreen？](https://www.v2ex.com/t/654856)  
-- [2020-03-21-Half-Life:-Alyx-最新的三段游戏过程视频](https://www.v2ex.com/t/654855)  
-- [2020-03-21-开个-0ffice365-家庭版的车~~~](https://www.v2ex.com/t/654854)  
-- [2020-03-21-现在-win10-系统如何全量备份迁移到新的笔记本上面？谢谢](https://www.v2ex.com/t/654853)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -860,6 +871,7 @@
 </summary>
 
 
+- [2020-03-21-推荐-这-8-个锦囊，助你成为一名优秀的-Java-开发者](https://toutiao.io/k/thnyg3y) ![](assets/new.png)  
 - [2020-03-21-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
 - [2020-03-21-推荐-程序员的商业思维：关注杠杆率](https://toutiao.io/k/ad3xky6)  
 - [2020-03-21-推荐-疫情期间，Java-菜鸟-“面霸”-养成记，中兴-+-腾讯-+-乐视-+-京东……](https://toutiao.io/k/uniwe7s)  
@@ -879,7 +891,6 @@
 - [2020-03-21-推荐-微服务架构案例（二）：业务架构设计，系统分层管理](https://toutiao.io/k/lzpb0rx)  
 - [2020-03-21-推荐-分布式定时任务调度框架实践](https://toutiao.io/k/necfb59)  
 - [2020-03-21-推荐-浅谈使用-Binlog-实现-MySQL-增量备份](https://toutiao.io/k/box42nq)  
-- [2020-03-21-推荐-一个极简、易用的灰度分流方案](https://toutiao.io/k/sjdciny)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

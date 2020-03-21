@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 14:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 15:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,8 +63,8 @@
 </summary>
 
 
-- [2020-03-21-英政府补贴无法上班者80%工资-全球劳工恐失3.4万亿美元收入](http://international.caixin.com/2020-03-21/101531983.html) ![](assets/new.png)  
-- [2020-03-21-3月20日：180个国家和地区累计确诊新冠19.45万例-美德西均确诊近2万](http://international.caixin.com/2020-03-21/101531988.html) ![](assets/new.png)  
+- [2020-03-21-英政府补贴无法上班者80%工资-全球劳工恐失3.4万亿美元收入](http://international.caixin.com/2020-03-21/101531983.html)  
+- [2020-03-21-3月20日：180个国家和地区累计确诊新冠19.45万例-美德西均确诊近2万](http://international.caixin.com/2020-03-21/101531988.html)  
 - [2020-03-21-美国全球使领馆暂停签证发放-彭斯办公室1职员确诊](http://international.caixin.com/2020-03-21/101531952.html)  
 - [2020-03-21-3月20日：全国新冠累计确诊81008例-湖北三日零增长境外输入继续增加](http://china.caixin.com/2020-03-21/101531911.html)  
 - [2020-03-21-香港回深通道被断-华南留学生回家路漫漫](http://china.caixin.com/2020-03-21/101531913.html)  
@@ -714,6 +714,19 @@
 </summary>
 
 
+- [2020-03-21-一个可以用于提取任意-iOS-App-图标原图的工具](https://www.v2ex.com/t/654850) ![](assets/new.png)  
+- [2020-03-21-阿里实习-一群阿里师兄想找几个徒弟，不只是实习，一起成长！](https://www.v2ex.com/t/654848) ![](assets/new.png)  
+- [2020-03-21-是否可以下载-Win10-自带的微软输入法，并安装到-Win7-上？](https://www.v2ex.com/t/654845) ![](assets/new.png)  
+- [2020-03-21-阿里电话面已挂，想和大家聊聊我的看法，欢迎交流~](https://www.v2ex.com/t/654844) ![](assets/new.png)  
+- [2020-03-21-如何让微信一直保持-FCM-状态](https://www.v2ex.com/t/654843) ![](assets/new.png)  
+- [2020-03-21-Portainer-将在本月-3-月-31-日发布首个支持-Kubernetes-的版本，你怎么看？](https://www.v2ex.com/t/654842) ![](assets/new.png)  
+- [2020-03-21-大佬们求推荐联通卡划算的套餐（2020-年三月）](https://www.v2ex.com/t/654841) ![](assets/new.png)  
+- [2020-03-21-为什么-iPhone-9-还不发布，我的小-7-快挺不住了啊](https://www.v2ex.com/t/654840) ![](assets/new.png)  
+- [2020-03-21-又重温了下肖申克的救赎](https://www.v2ex.com/t/654839) ![](assets/new.png)  
+- [2020-03-21-请问-Macbook-air-从哪一年开始全部改成-usb-c-充电了？](https://www.v2ex.com/t/654838) ![](assets/new.png)  
+- [2020-03-21-怎样快速通过-github-找到自己需要功能的开源项目](https://www.v2ex.com/t/654837) ![](assets/new.png)  
+- [2020-03-21-The-MacBook-Pro,-iPad-mini,-and-more-are-discounted-at-Best-Buy](https://www.v2ex.com/t/654835) ![](assets/new.png)  
+- [2020-03-21-快速下载-telegram-表情包](https://www.v2ex.com/t/654834) ![](assets/new.png)  
 - [2020-03-21-Python-数据可视化，-superset-二次开发的，求交流](https://www.v2ex.com/t/654833)  
 - [2020-03-21-美区-apple-music-合租计划，还差两人。招募](https://www.v2ex.com/t/654830)  
 - [2020-03-21-Set-Cookie-微信小程序-wx.request-请求服务器,-如果服务端下发多个-Set-Cookie-会导致-Cookie-错误](https://www.v2ex.com/t/654829)  
@@ -721,19 +734,6 @@
 - [2020-03-21-iPhone-上有分项测试-AES-解密性能的-benchmark-吗？](https://www.v2ex.com/t/654827)  
 - [2020-03-21-HP-ML310e-Gen8-v2-Server-有人用过吗](https://www.v2ex.com/t/654826)  
 - [2020-03-21-当-face-id-认识我带口罩的样子之后](https://www.v2ex.com/t/654825)  
-- [2020-03-21-变了味的-360](https://www.v2ex.com/t/654823)  
-- [2020-03-21-一个远程老司机发起的「回乡计划」杭州/西安/成都/武汉/长沙/郑州，希望能帮到想回老家工作的朋友](https://www.v2ex.com/t/654822)  
-- [2020-03-21-能否添加回复里面对代码块语法的支持？](https://www.v2ex.com/t/654821)  
-- [2020-03-21-iPad-什么时候有货阿](https://www.v2ex.com/t/654819)  
-- [2020-03-21-为什么-iOS-所有信息里不显示过滤的短信，所有信息的未读数量却包含过滤短信？](https://www.v2ex.com/t/654818)  
-- [2020-03-21-如何获取-git-merge-合并的两个分支的公共代码变更集](https://www.v2ex.com/t/654817)  
-- [2020-03-21-网站出现了很多奇怪访问？](https://www.v2ex.com/t/654816)  
-- [2020-03-21-请教一个-docker-问题,求大神指导一下,谢谢](https://www.v2ex.com/t/654815)  
-- [2020-03-21-北漂程序员应该继续留京学技术还是去赚钱？](https://www.v2ex.com/t/654814)  
-- [2020-03-21-关于-16-寸-MacBook-Pro-显示屏/外接显示屏-的几个问题咨询一下大家。](https://www.v2ex.com/t/654813)  
-- [2020-03-21-社招-美国大数据公司-招聘后端研发/大数据工程师/架构师](https://www.v2ex.com/t/654812)  
-- [2020-03-21-微信招聘量巨大，-T9-下不用面委，视频号虚位以待~](https://www.v2ex.com/t/654811)  
-- [2020-03-21-算法高手进来看看](https://www.v2ex.com/t/654810)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -776,6 +776,8 @@
 </summary>
 
 
+- [2020-03-21-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv) ![](assets/new.png)  
+- [2020-03-21-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) ![](assets/new.png)  
 - [2020-03-21-推荐-为什么我们要面向接口编程](https://toutiao.io/k/2j20u8f)  
 - [2020-03-21-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
 - [2020-03-21-推荐-近-2-万字详解-Java-NIO2-文件操作，过瘾](https://toutiao.io/k/180ioej)  
@@ -794,8 +796,6 @@
 - [2020-03-21-Vert.x-入坑须知（4.1）：用-Spock-写异步测试](https://toutiao.io/k/upugafa)  
 - [2020-03-21-十分钟学会用-Go-编写-Web-中间件](https://toutiao.io/k/kgno641)  
 - [2020-03-21-前端科普（二）：Node.js-换个角度看世界](https://toutiao.io/k/hkdyjjf)  
-- [2020-03-21-去改密码吧！微博泄露事件卧底调查报告](https://toutiao.io/k/ss9aj8p)  
-- [2020-03-21-Git-Commit-Message-规范与模板](https://toutiao.io/k/uul3hpl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

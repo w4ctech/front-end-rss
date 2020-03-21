@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-21 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -532,6 +532,16 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-21-韩国新增147例新冠肺炎确诊病例#，累计8799例](http://m.weibo.cn/3057540037/4484841704134636) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-21-四川省新增境外输入确诊病例1例](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/3/21/99479f229b434539a983c7ebbc9dff6b.shtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-21-福建省新增境外输入新冠肺炎确诊病例4例](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202003/t20200321_5220471.htm) 
+- [【Vue中文社区】2020-03-20-腾讯CDC团队的前端异常监控解决方案～](https://www.ershicimi.com/p/fd9676469747fa9f0703ec6b9665e2b3) 
+- [【Vue中文社区】2020-03-19-“讲真，返岗工作这几周，我体验到从未有过的酸爽”](https://www.ershicimi.com/p/f152109124c1558dbcf71495ff677a21) 
+- [【Vue中文社区】2020-03-19-苹果手机真香，包邮送一台！](https://www.ershicimi.com/p/44f53f9baef97059306e5c53ed432502) 
+- [【Vue中文社区】2020-03-18-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/7e47eea23b8368e531e153c4ef628ded) 
+- [【Vue中文社区】2020-03-18-图文并茂，为你揭开“单点登录“的神秘面纱](https://www.ershicimi.com/p/d0867edb3cc35fe6bb0c3bfec476c113) 
+- [【Vue中文社区】2020-03-17-Git小能手进阶指南](https://www.ershicimi.com/p/4441e86809a06ac62ba11b039a4ac2cd) 
+- [【Vue中文社区】2020-03-17-39-个奇葩代码注释，看完笑哭了...](https://www.ershicimi.com/p/a37449da8beec65836ccb14fc25c7f68) 
+- [【Vue中文社区】2020-03-16-JavaScript-执行效率不行？因为你还没用-V8](https://www.ershicimi.com/p/9a50758d4590864befa30a3a8810f2f4) 
+- [【Vue中文社区】2020-03-16-Vue知识点自检清单下](https://www.ershicimi.com/p/20bcc66daf5f5b911e3910f65246512b) 
+- [【Vue中文社区】2020-03-13-Vue常见的考点下](https://www.ershicimi.com/p/84e0897bce7c6f8a80a9c8c73b86f983) 
 - [【前端早读课】2020-03-20-【第1890期】看懂-Serverless-SSR，这一篇就够了！](https://www.ershicimi.com/p/f3f2c527a5743885741927b34fab63cb) 
 - [【前端早读课】2020-03-20-【招聘】腾讯IMWeb前端团队大招聘（实习、应届生或社招）](https://www.ershicimi.com/p/dd40d53c20e612f0e8290f2166a9428f) 
 - [【前端早读课】2020-03-19-【第1889期】提升流利说图片生产10倍效率的方法](https://www.ershicimi.com/p/436ebf6d8237587e1bbba3ac69716f82) 
@@ -576,6 +586,16 @@
 - [【政采云前端团队】2020-03-12-如何推动前端团队的基础设施建设](https://www.ershicimi.com/p/33e64d6fe9c62e06c2c7d57a1794230b) 
 - [【政采云前端团队】2020-03-08-关于-vertical-align-你应该知道的一切](https://www.ershicimi.com/p/84253c80d211b42d653806a6ff8250b9) 
 - [【政采云前端团队】2020-03-01-前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a) 
+- [【前端宇宙】2020-03-20-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/f8508d83b9045c0ea844311ba02940fe) 
+- [【前端宇宙】2020-03-19-Vue人人都会，你的优势应该在哪里？](https://www.ershicimi.com/p/af5f02be2dc20130ef29ad9463818427) 
+- [【前端宇宙】2020-03-19-5-个提升你-JS-编码水平的实例](https://www.ershicimi.com/p/ffd5a278408af48a58655ae046c67697) 
+- [【前端宇宙】2020-03-17-盘点这些年被黑的最惨的语言](https://www.ershicimi.com/p/5edffdd7d857c68884c4932cc21869e8) 
+- [【前端宇宙】2020-03-17-学习前端，关注这几位大佬的公众号就够了！](https://www.ershicimi.com/p/131e6090b9d7d9eb619a6d0285d6ddb1) 
+- [【前端宇宙】2020-03-16-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/2315743abca793d93b217bc974bcd451) 
+- [【前端宇宙】2020-03-13-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/1c75b75c63bbcd164f8d2c9e90ad7dc1) 
+- [【前端宇宙】2020-03-12-源码、工程化、后端化，2020前端面试更难了......](https://www.ershicimi.com/p/0a8aeb9af1a29469c628ef32d2efc847) 
+- [【前端宇宙】2020-03-11-早知道要在家呆这么久，我就...](https://www.ershicimi.com/p/f9ce64b93e717e938f9f9b03cd75f972) 
+- [【前端宇宙】2020-03-10-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/b79c9b8c494477b319f4399f1ec831aa) 
 - [【程序员成长指北】2020-03-20-可能是最全的-“文本溢出截断省略”-方案合集](https://www.ershicimi.com/p/2b91e07532b43901895b6ab0ade2872a) 
 - [【程序员成长指北】2020-03-19-所谓前端工程化，究竟是什么？](https://www.ershicimi.com/p/fd6833c456cf647bd7bb988ac96f3408) 
 - [【程序员成长指北】2020-03-19-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e) 
@@ -599,6 +619,16 @@
 - [【前端日刊】2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
 - [【前端日刊】2020-03-04-高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b) 
 - [【前端日刊】2020-03-03-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338) 
+- [【InfoQ】2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27) 
+- [【InfoQ】2020-03-20-InfoQ-Pro-重磅福利来袭，周边大礼包免费领，先到先得！](https://www.ershicimi.com/p/d12e73ef30e9f8be66859a5903988cde) 
+- [【InfoQ】2020-03-20-别再说你懂技术团队管理-|-GTLC](https://www.ershicimi.com/p/50cb914ff29861a20ebf2c3dbf4c3c7f) 
+- [【InfoQ】2020-03-20-为什么你写的代码别人看不懂？](https://www.ershicimi.com/p/c456b96d119b9a44e04ec5aa3873ba29) 
+- [【InfoQ】2020-03-20-说到做到！RISC-V基金会正式落户瑞士，躲避美国潜在限制](https://www.ershicimi.com/p/bfd086ebb0486486493af6e44f92e88b) 
+- [【InfoQ】2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
+- [【InfoQ】2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca) 
+- [【InfoQ】2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536) 
+- [【InfoQ】2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420) 
+- [【InfoQ】2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) 
 - [【JavaScript】2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) 
 - [【JavaScript】2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855) 
 - [【JavaScript】2020-03-19-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/d7b3bef74b2cad8d75fdcb5dccf157f9) 
@@ -1348,6 +1378,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-02-01-【视频】实拍武汉红会国博仓库：湖北中医院人员排队一小时，领两箱物资](http://video.caixin.com/2020-02-01/101518059.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-02-01-【视频】武汉龙阳医院工作人员：来红会仓库几次都领不到物资](http://video.caixin.com/2020-02-01/101518053.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-02-01-【图集】足球场大小红会仓库堆满物资-有医院等候许久只领走一箱口罩](http://photos.caixin.com/2020-02-01/101510498.html) 
+- [【Vue社区】2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [【政采云前端团队】2020-02-23-小白必看，JSBridge-初探](https://www.ershicimi.com/p/cb1bd6cf296e4970985eb56fe06cd1f9) 
 - [【政采云前端团队】2020-02-16-可视化搭建数据大屏系统的前端实现](https://www.ershicimi.com/p/837970757d5cd3bafec48a9074a6cd83) 
 - [【政采云前端团队】2020-02-10-80-个前端基建工具是如何练成的-|-第二届前端早早聊大会全程直播](https://www.ershicimi.com/p/47ddd97cb650d51f5245525179525e9e) 
@@ -1757,6 +1788,15 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-03-防新冠肺炎扩散-港府每日公布监察数据](http://china.caixin.com/2020-01-03/101506090.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-02-新冠肺炎患者受何病毒感染引关注-各地加强预警](http://china.caixin.com/2020-01-02/101506091.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-01-01-肺炎疫情阴影下，武汉华南海鲜批发市场休市整治](http://china.caixin.com/2020-01-01/101506092.html) 
+- [【Vue社区】2020-01-22-Vue优雅设计一个组件](https://www.ershicimi.com/p/7230f837307dccbce835587cc0c65dfe) 
+- [【Vue社区】2020-01-20-带你彻底搞懂Vue3的响应式原理！TypeScript从零实现基于Proxy的响应式库](https://www.ershicimi.com/p/8b10f42113d0085423d395070e24d72d) 
+- [【Vue社区】2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [【Vue社区】2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [【Vue社区】2020-01-14-字节跳动面试官：请你用Vue实现一个大文件上传和断点续传](https://www.ershicimi.com/p/a670d609b3ad6fb9a360fa50ff63b537) 
+- [【Vue社区】2020-01-13-vue移动端开发总结](https://www.ershicimi.com/p/16d6d5f6fa8b66524349cd93f51dbbe5) 
+- [【Vue社区】2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
+- [【Vue社区】2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
+- [【Vue社区】2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
 - [【政采云前端团队】2020-01-19-Antd-Form-实现机制解析](https://www.ershicimi.com/p/009126426c0498d3fee5c7247c11db1f) 
 - [【政采云前端团队】2020-01-15-如何推动与影响中型前端团队的成长-&-暨最近一年多新团队的管理工作复盘](https://www.ershicimi.com/p/2aeb8967a3c2c8819d0b76abf8597ffd) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) 
@@ -1816,6 +1856,8 @@
 </summary>
 
 
+- [【前端圈】2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
+- [【前端圈】2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [【前端艺术家&&飞冰早报】2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [【前端艺术家&&飞冰早报】2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
 - [【前端艺术家&&飞冰早报】2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
@@ -1829,6 +1871,13 @@
 </summary>
 
 
+- [【前端圈】2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
+- [【前端圈】2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
+- [【前端圈】2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 
+- [【前端圈】2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
+- [【前端圈】2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
+- [【前端圈】2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
+- [【前端圈】2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
 - [【凹凸实验室】2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/) 
 - [【凹凸实验室】2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [【凹凸实验室】2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
@@ -1843,6 +1892,7 @@
 </summary>
 
 
+- [【前端圈】2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [【凹凸实验室】2019-09-25-玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/) 
 - [【凹凸实验室】2019-09-11-从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/) 
 

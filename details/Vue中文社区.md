@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 13:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
@@ -15,5 +15,3 @@
 - [2020-03-16-JavaScript-执行效率不行？因为你还没用-V8](https://www.ershicimi.com/p/9a50758d4590864befa30a3a8810f2f4) 
 - [2020-03-16-Vue知识点自检清单下](https://www.ershicimi.com/p/20bcc66daf5f5b911e3910f65246512b) 
 - [2020-03-13-Vue常见的考点下](https://www.ershicimi.com/p/84e0897bce7c6f8a80a9c8c73b86f983) 
-- [2020-03-13-6个接私活的网站](https://www.ershicimi.com/p/ced8a3388f4142472a9d53d6f19ef010) 
-- [2020-03-12-Vue人人都会，你的优势应该在哪里？](https://www.ershicimi.com/p/38b6d7ea5f57391aaca659f0544290d4) 

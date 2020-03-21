@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 15:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 15:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -63,6 +63,8 @@
 </summary>
 
 
+- [2020-03-21-【境内疫情观察】一线城市境外输入病例持续增加（3月20日）](http://database.caixin.com/2020-03-21/101531999.html) ![](assets/new.png)  
+- [2020-03-21-【聚焦】盖茨回答了关于新冠肺炎的31个问题](http://opinion.caixin.com/2020-03-21/101532002.html) ![](assets/new.png)  
 - [2020-03-21-英政府补贴无法上班者80%工资-全球劳工恐失3.4万亿美元收入](http://international.caixin.com/2020-03-21/101531983.html)  
 - [2020-03-21-3月20日：180个国家和地区累计确诊新冠19.45万例-美德西均确诊近2万](http://international.caixin.com/2020-03-21/101531988.html)  
 - [2020-03-21-美国全球使领馆暂停签证发放-彭斯办公室1职员确诊](http://international.caixin.com/2020-03-21/101531952.html)  
@@ -81,8 +83,6 @@
 - [2020-03-20-研究称突变致新冠病毒亲和力增百倍-或致传染性提高](http://science.caixin.com/2020-03-20/101531574.html)  
 - [2020-03-20-武汉中心医院再有一名员工去世-尚有多人未脱离危险](http://china.caixin.com/2020-03-20/101531418.html)  
 - [2020-03-20-香港单日新增至少48例-隔离病房使用率超7成](http://china.caixin.com/2020-03-20/101531718.html)  
-- [2020-03-20-中国发现超2000新冠儿童病例，已有婴儿死亡](http://china.caixin.com/2020-03-20/101531461.html)  
-- [2020-03-20-韩国病例增长平缓后又现反弹-专家吁须做长期抗疫准备](http://international.caixin.com/2020-03-20/101531681.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -714,19 +714,19 @@
 </summary>
 
 
-- [2020-03-21-一个可以用于提取任意-iOS-App-图标原图的工具](https://www.v2ex.com/t/654850) ![](assets/new.png)  
-- [2020-03-21-阿里实习-一群阿里师兄想找几个徒弟，不只是实习，一起成长！](https://www.v2ex.com/t/654848) ![](assets/new.png)  
-- [2020-03-21-是否可以下载-Win10-自带的微软输入法，并安装到-Win7-上？](https://www.v2ex.com/t/654845) ![](assets/new.png)  
-- [2020-03-21-阿里电话面已挂，想和大家聊聊我的看法，欢迎交流~](https://www.v2ex.com/t/654844) ![](assets/new.png)  
-- [2020-03-21-如何让微信一直保持-FCM-状态](https://www.v2ex.com/t/654843) ![](assets/new.png)  
-- [2020-03-21-Portainer-将在本月-3-月-31-日发布首个支持-Kubernetes-的版本，你怎么看？](https://www.v2ex.com/t/654842) ![](assets/new.png)  
-- [2020-03-21-大佬们求推荐联通卡划算的套餐（2020-年三月）](https://www.v2ex.com/t/654841) ![](assets/new.png)  
-- [2020-03-21-为什么-iPhone-9-还不发布，我的小-7-快挺不住了啊](https://www.v2ex.com/t/654840) ![](assets/new.png)  
-- [2020-03-21-又重温了下肖申克的救赎](https://www.v2ex.com/t/654839) ![](assets/new.png)  
-- [2020-03-21-请问-Macbook-air-从哪一年开始全部改成-usb-c-充电了？](https://www.v2ex.com/t/654838) ![](assets/new.png)  
-- [2020-03-21-怎样快速通过-github-找到自己需要功能的开源项目](https://www.v2ex.com/t/654837) ![](assets/new.png)  
-- [2020-03-21-The-MacBook-Pro,-iPad-mini,-and-more-are-discounted-at-Best-Buy](https://www.v2ex.com/t/654835) ![](assets/new.png)  
-- [2020-03-21-快速下载-telegram-表情包](https://www.v2ex.com/t/654834) ![](assets/new.png)  
+- [2020-03-21-一个可以用于提取任意-iOS-App-图标原图的工具](https://www.v2ex.com/t/654850)  
+- [2020-03-21-阿里实习-一群阿里师兄想找几个徒弟，不只是实习，一起成长！](https://www.v2ex.com/t/654848)  
+- [2020-03-21-是否可以下载-Win10-自带的微软输入法，并安装到-Win7-上？](https://www.v2ex.com/t/654845)  
+- [2020-03-21-阿里电话面已挂，想和大家聊聊我的看法，欢迎交流~](https://www.v2ex.com/t/654844)  
+- [2020-03-21-如何让微信一直保持-FCM-状态](https://www.v2ex.com/t/654843)  
+- [2020-03-21-Portainer-将在本月-3-月-31-日发布首个支持-Kubernetes-的版本，你怎么看？](https://www.v2ex.com/t/654842)  
+- [2020-03-21-大佬们求推荐联通卡划算的套餐（2020-年三月）](https://www.v2ex.com/t/654841)  
+- [2020-03-21-为什么-iPhone-9-还不发布，我的小-7-快挺不住了啊](https://www.v2ex.com/t/654840)  
+- [2020-03-21-又重温了下肖申克的救赎](https://www.v2ex.com/t/654839)  
+- [2020-03-21-请问-Macbook-air-从哪一年开始全部改成-usb-c-充电了？](https://www.v2ex.com/t/654838)  
+- [2020-03-21-怎样快速通过-github-找到自己需要功能的开源项目](https://www.v2ex.com/t/654837)  
+- [2020-03-21-The-MacBook-Pro,-iPad-mini,-and-more-are-discounted-at-Best-Buy](https://www.v2ex.com/t/654835)  
+- [2020-03-21-快速下载-telegram-表情包](https://www.v2ex.com/t/654834)  
 - [2020-03-21-Python-数据可视化，-superset-二次开发的，求交流](https://www.v2ex.com/t/654833)  
 - [2020-03-21-美区-apple-music-合租计划，还差两人。招募](https://www.v2ex.com/t/654830)  
 - [2020-03-21-Set-Cookie-微信小程序-wx.request-请求服务器,-如果服务端下发多个-Set-Cookie-会导致-Cookie-错误](https://www.v2ex.com/t/654829)  
@@ -776,8 +776,8 @@
 </summary>
 
 
-- [2020-03-21-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv) ![](assets/new.png)  
-- [2020-03-21-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k) ![](assets/new.png)  
+- [2020-03-21-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv)  
+- [2020-03-21-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k)  
 - [2020-03-21-推荐-为什么我们要面向接口编程](https://toutiao.io/k/2j20u8f)  
 - [2020-03-21-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
 - [2020-03-21-推荐-近-2-万字详解-Java-NIO2-文件操作，过瘾](https://toutiao.io/k/180ioej)  

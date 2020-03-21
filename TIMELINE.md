@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-22 03:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-22 04:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -996,6 +996,7 @@
 - [【技术头条】2020-03-21-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-22-推荐-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w) 
 - [【开发者头条】2020-03-22-推荐-面试被问分布式-ID-怎么办？-滴滴-Tinyid-甩给他](https://toutiao.io/k/a41o449) 
 - [【开发者头条】2020-03-22-推荐-优化-if-else-代码的八种方案](https://toutiao.io/k/1sofava) 
 - [【开发者头条】2020-03-21-推荐-与程序员相关的-CPU-缓存知识](https://toutiao.io/k/39ga3ab) 

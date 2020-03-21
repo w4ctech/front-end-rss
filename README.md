@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-22 03:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-22 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -848,7 +848,7 @@
 </summary>
 
 
-- [2020-03-22-Workshop---小作坊视频、屏幕分享开会工具](https://www.v2ex.com/t/654994) ![](assets/new.png)  
+- [2020-03-22-Workshop---小作坊视频、屏幕分享开会工具](https://www.v2ex.com/t/654994)  
 - [2020-03-22-网上祭祀是什么事物啊](https://www.v2ex.com/t/654993)  
 - [2020-03-22-apple-入驻小米有品](https://www.v2ex.com/t/654992)  
 - [2020-03-22-万能的-v-友，想请问下是否该转组](https://www.v2ex.com/t/654991)  
@@ -910,6 +910,7 @@
 </summary>
 
 
+- [2020-03-22-推荐-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w) ![](assets/new.png)  
 - [2020-03-22-推荐-面试被问分布式-ID-怎么办？-滴滴-Tinyid-甩给他](https://toutiao.io/k/a41o449)  
 - [2020-03-22-推荐-优化-if-else-代码的八种方案](https://toutiao.io/k/1sofava)  
 - [2020-03-21-推荐-与程序员相关的-CPU-缓存知识](https://toutiao.io/k/39ga3ab)  
@@ -929,7 +930,6 @@
 - [2020-03-21-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez)  
 - [2020-03-21-推荐-话说-Kubernetes-网络疑难杂症](https://toutiao.io/k/qaylxpl)  
 - [2020-03-21-推荐-简历要怎么写](https://toutiao.io/k/w1ii3bo)  
-- [2020-03-21-推荐-一条-SQL-查询语句是怎么执行的？](https://toutiao.io/k/ykh3jsr)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

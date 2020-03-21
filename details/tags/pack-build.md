@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -10,6 +10,8 @@
 - [2020-03-18-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/f929dce2e7c5b5bd7cef66cd445681be) 
 - [2020-03-17-微软旗下-GitHub-收购-npm](https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee) 
 - [2020-03-18-Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6) 
+- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) 
+- [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
 - [2020-03-01-前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a) 
 - [2020-03-16-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/2315743abca793d93b217bc974bcd451) 
 - [2020-03-10-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/b79c9b8c494477b319f4399f1ec831aa) 

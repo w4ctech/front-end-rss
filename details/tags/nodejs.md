@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,6 +9,8 @@
 
 - [2020-03-16-JavaScript-执行效率不行？因为你还没用-V8](https://www.ershicimi.com/p/9a50758d4590864befa30a3a8810f2f4) 
 - [2020-03-18-所以，V8-引擎到底是如何工作的？](https://www.ershicimi.com/p/184f3d2bd09bd3169e26fa6c99999dd1) 
+- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) 
+- [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38) 
 - [2020-03-15-学习-koa-源码的整体架构，浅析koa洋葱模型原理和co原理](https://www.ershicimi.com/p/a89e62c16fb756e61e688e736640b281) 
 - [2020-03-14-阿里-AliExpress-21届春季实习正式启动！](https://www.ershicimi.com/p/c8df3978aae1b916d70eadd5d037d680) 
 - [2020-03-13-一杯茶的时间，上手-Node.js](https://www.ershicimi.com/p/49f731fb1be60b25ba72dece2d363486) 
@@ -22,4 +24,5 @@
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) 
 - [2020-03-21-使用nodeJs开发自己的图床应用](https://juejin.im/post/5e74cd78e51d4527196d785f) 
 - [2020-03-21-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-03-21-有做-NODEJS-后端的老哥么。。。有个兼职的活儿，长期一年。需要人在长沙](https://www.v2ex.com/t/654852) 
 - [2020-03-21-前端科普（二）：Node.js-换个角度看世界](https://toutiao.io/k/hkdyjjf) 

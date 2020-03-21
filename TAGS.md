@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-21 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -128,6 +128,8 @@
 - [【前端大全】带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/f929dce2e7c5b5bd7cef66cd445681be)
 - [【前端大全】微软旗下-GitHub-收购-npm](https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee)
 - [【前端开发】Github-收购-npm](https://www.ershicimi.com/p/d958d3f6030db468bf2288e2c982f8b6)
+- [【前端之巅】构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20)
+- [【前端之巅】GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5)
 - [【政采云前端团队】前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a)
 - [【前端宇宙】带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/2315743abca793d93b217bc974bcd451)
 - [【前端宇宙】万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/b79c9b8c494477b319f4399f1ec831aa)
@@ -160,6 +162,8 @@
 
 - [【Vue中文社区】JavaScript-执行效率不行？因为你还没用-V8](https://www.ershicimi.com/p/9a50758d4590864befa30a3a8810f2f4)
 - [【前端早读课】所以，V8-引擎到底是如何工作的？](https://www.ershicimi.com/p/184f3d2bd09bd3169e26fa6c99999dd1)
+- [【前端之巅】JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93)
+- [【前端之巅】性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38)
 - [【前端迷】学习-koa-源码的整体架构，浅析koa洋葱模型原理和co原理](https://www.ershicimi.com/p/a89e62c16fb756e61e688e736640b281)
 - [【前端迷】阿里-AliExpress-21届春季实习正式启动！](https://www.ershicimi.com/p/c8df3978aae1b916d70eadd5d037d680)
 - [【前端迷】一杯茶的时间，上手-Node.js](https://www.ershicimi.com/p/49f731fb1be60b25ba72dece2d363486)
@@ -173,6 +177,7 @@
 - [【JavaScript】Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271)
 - [【掘金前端】使用nodeJs开发自己的图床应用](https://juejin.im/post/5e74cd78e51d4527196d785f)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】有做-NODEJS-后端的老哥么。。。有个兼职的活儿，长期一年。需要人在长沙](https://www.v2ex.com/t/654852)
 - [【开发者头条】前端科普（二）：Node.js-换个角度看世界](https://toutiao.io/k/hkdyjjf)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
@@ -415,6 +420,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】中疾控研究：地方应精准施策-优化疫情防控](http://china.caixin.com/2020-02-20/101518002.html)
+- [【前端之巅】2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
@@ -422,6 +428,7 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【JavaScript】网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】Chrome-extension-input-性能问题](https://www.v2ex.com/t/654851)
 - [【V2EX】iPhone-上有分项测试-AES-解密性能的-benchmark-吗？](https://www.v2ex.com/t/654827)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13289&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyXvkUDT8CHt-O5rD11a6MQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -456,10 +463,10 @@
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端日刊】Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
+- [【互联网架构师】PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740)
+- [【掘金前端】3000字说说跨域！面试官听完之后露出了满意的笑容😎](https://juejin.im/post/5e74e690e51d4526d87c93df)
 - [【掘金前端】Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
-- [【V2EX】我要来喷下-chrome](https://www.v2ex.com/t/654803)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -505,6 +512,7 @@
 - [【前端大全】前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/9514870038bcd28b54cb8b3723471013)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【互联网架构师】前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)
 - [【V2EX】请教一个-docker-问题,求大神指导一下,谢谢](https://www.v2ex.com/t/654815)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -529,6 +537,8 @@
 - [【前端日刊】高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【InfoQ】怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27)
+- [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
+- [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【V2EX】怎样快速通过-github-找到自己需要功能的开源项目](https://www.v2ex.com/t/654837)
 - [【V2EX】如何获取-git-merge-合并的两个分支的公共代码变更集](https://www.v2ex.com/t/654817)
 - [【V2EX】献丑了，搞了个-Github-代下载服务，永久免费](https://www.v2ex.com/t/654801)
@@ -561,6 +571,8 @@
 - [【前端宇宙】源码、工程化、后端化，2020前端面试更难了......](https://www.ershicimi.com/p/0a8aeb9af1a29469c628ef32d2efc847)
 - [【程序员成长指北】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/aff4341b89e9e0d5f678d5833e9152a2)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
+- [【互联网架构师】面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894)
+- [【互联网架构师】大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb)
 - [【掘金前端】前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc)
 - [【V2EX】社招-美国大数据公司-招聘后端研发/大数据工程师/架构师](https://www.v2ex.com/t/654812)
 - [【V2EX】（2020-三月更新）微软苏州持续招聘中！多部门大量-HC-多次面试机会！](https://www.v2ex.com/t/654807)

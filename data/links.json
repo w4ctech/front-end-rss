@@ -6912,6 +6912,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "我国10天内境外输入病例增幅216%",
+        "link": "http://m.weibo.cn/2803301701/4484933211140401",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "澳大利亚新冠肺炎感染确诊病例破千",
+        "link": "http://m.weibo.cn/3057540037/4484916617716690",
+        "date": "2020-03-21"
+      },
+      {
         "title": "3月21日0时至12时，北京新增5例境外输入病例",
         "link": "http://m.weibo.cn/2803301701/4484899442371194",
         "date": "2020-03-21"
@@ -7319,7 +7329,58 @@
     "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
-    "items": []
+    "items": [
+      {
+        "title": "2020年前端框架性能对比和评测",
+        "link": "https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "端侧AI：从探索尝试到逐步展开",
+        "link": "https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "JavaScript 执行效率不行？因为你还没用 V8 | 极客时间",
+        "link": "https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "构建前端安全生产体系，最快5分钟定位故障",
+        "link": "https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "六个提升前端开发效率的工具",
+        "link": "https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "GitHub正式收购npm，这对开发者意味着什么？",
+        "link": "https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "工程师快速成长指北",
+        "link": "https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "性能提升三倍！优酷Node.js重构之路",
+        "link": "https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "极客大学前端进阶训练营有偿招募兼职助教",
+        "link": "https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？",
+        "link": "https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8",
+        "date": "2020-03-16"
+      }
+    ]
   },
   {
     "rss": "https://rsshub.app/wechat/ershicimi/9457",
@@ -8748,7 +8809,58 @@
     "rss": "https://rsshub.app/wechat/ershicimi/6304",
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
-    "items": []
+    "items": [
+      {
+        "title": "PostMan居然要被干掉了！IDEA这款插件太实用了…",
+        "link": "https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "二货同事！写上千行的类！这样的代码让我生不如死！",
+        "link": "https://www.ershicimi.com/p/162ab72a9906a2962efa05d8bc24be75",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "厉害了！如何在 Gihub 快速搜索开源项目？",
+        "link": "https://www.ershicimi.com/p/651d560e84ae44e36d6845fe7e1926fe",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "今天 Java 14 正式发布了！放弃 Java 8 行吗？",
+        "link": "https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "前后端分离开发，RESTful 接口应该这样设计",
+        "link": "https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "面试要10K，HR说你只值7K，怎么斗得过？",
+        "link": "https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全",
+        "link": "https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "大厂面试篇：五轮面试，阿里offer到手！",
+        "link": "https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "今天写出一个十分弱智的bug！",
+        "link": "https://www.ershicimi.com/p/5458e8b1056d220ff2f14c9b8be67a15",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson",
+        "link": "https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878",
+        "date": "2020-03-17"
+      }
+    ]
   },
   {
     "rss": "https://rsshub.app/wechat/ershicimi/89",
@@ -8869,6 +8981,16 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "3000字说说跨域！面试官听完之后露出了满意的笑容😎",
+        "link": "https://juejin.im/post/5e74e690e51d4526d87c93df",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Vue 源码阅读（九）：编译过程的optimize 阶段",
+        "link": "https://juejin.im/post/5e7595c75188252c1f22524a",
+        "date": "2020-03-21"
+      },
       {
         "title": "使用nodeJs开发自己的图床应用",
         "link": "https://juejin.im/post/5e74cd78e51d4527196d785f",
@@ -9174,7 +9296,58 @@
     "rss": "https://rsshub.app/wechat/ershicimi/10647",
     "title": "编程之上",
     "link": "https://www.ershicimi.com/a/10647",
-    "items": []
+    "items": [
+      {
+        "title": "2019 年终总结",
+        "link": "https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2",
+        "date": "2019-12-31"
+      },
+      {
+        "title": "git 入门",
+        "link": "https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0",
+        "date": "2019-10-28"
+      },
+      {
+        "title": "谨以此文祝福和致敬每一位前端开发工程师",
+        "link": "https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9",
+        "date": "2019-10-24"
+      },
+      {
+        "title": "Git 工作流",
+        "link": "https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e",
+        "date": "2019-10-20"
+      },
+      {
+        "title": "前端初级",
+        "link": "https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4",
+        "date": "2019-10-17"
+      },
+      {
+        "title": "Javascript 内存空间管理",
+        "link": "https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6",
+        "date": "2019-10-16"
+      },
+      {
+        "title": "我对前端架构师的定义",
+        "link": "https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f",
+        "date": "2019-10-15"
+      },
+      {
+        "title": "《大教堂和集市》读后感",
+        "link": "https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54",
+        "date": "2019-10-14"
+      },
+      {
+        "title": "8年前端开发的知识点沉淀",
+        "link": "https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d",
+        "date": "2019-10-13"
+      },
+      {
+        "title": "如何有效学习",
+        "link": "https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a",
+        "date": "2019-10-12"
+      }
+    ]
   },
   {
     "rss": "https://rsshub.app/wechat/ershicimi/198",
@@ -9238,6 +9411,71 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "前端实习面上一个小公司，有些没底，有必要去吗？",
+        "link": "https://www.v2ex.com/t/654864",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "intel nuc10",
+        "link": "https://www.v2ex.com/t/654863",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "关于机场，安全和隐私方面的问题",
+        "link": "https://www.v2ex.com/t/654861",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "用你手头的设备工具，如何写一个足够公平的抽签程序？",
+        "link": "https://www.v2ex.com/t/654860",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "反编译，爬虫。。。可能老板没事，你却坐牢了",
+        "link": "https://www.v2ex.com/t/654859",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "[快手][社招]内推",
+        "link": "https://www.v2ex.com/t/654858",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "请问大家在用 Typora 等 markdown 软件的时候，是直接快捷键还是用 markdown 标签？",
+        "link": "https://www.v2ex.com/t/654857",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "如何在 Fragment 中使用 PreferenceScreen？",
+        "link": "https://www.v2ex.com/t/654856",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Half-Life: Alyx 最新的三段游戏过程视频",
+        "link": "https://www.v2ex.com/t/654855",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "开个 0ffice365 家庭版的车~~~",
+        "link": "https://www.v2ex.com/t/654854",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "现在 win10 系统如何全量备份迁移到新的笔记本上面？谢谢",
+        "link": "https://www.v2ex.com/t/654853",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "有做 NODEJS 后端的老哥么。。。有个兼职的活儿，长期一年。需要人在长沙",
+        "link": "https://www.v2ex.com/t/654852",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Chrome extension input 性能问题",
+        "link": "https://www.v2ex.com/t/654851",
+        "date": "2020-03-21"
+      },
       {
         "title": "一个可以用于提取任意 iOS App 图标原图的工具",
         "link": "https://www.v2ex.com/t/654850",
@@ -9742,6 +9980,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 程序员的商业思维：关注杠杆率",
+        "link": "https://toutiao.io/k/ad3xky6",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "[推荐] 疫情期间，Java 菜鸟 “面霸” 养成记，中兴 + 腾讯 + 乐视 + 京东……",
+        "link": "https://toutiao.io/k/uniwe7s",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "[推荐] 百万年薪自由职业者分享的 6 项必备技能",
+        "link": "https://toutiao.io/k/7jlxmmx",
+        "date": "2020-03-21"
+      },
       {
         "title": "[推荐]  如何优雅的在 Java 中统计代码块耗时",
         "link": "https://toutiao.io/k/ec7czbv",

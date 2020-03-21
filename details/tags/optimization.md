@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-21 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-21 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -9,6 +9,7 @@
 
 - [2020-02-20-中疾控研究：地方应精准施策-优化疫情防控](http://china.caixin.com/2020-02-20/101518002.html) 
 - [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e) 
+- [2020-02-29-面试被问尾递归优化知道怎么做吗？](https://www.ershicimi.com/p/b06fb9a9c828884723876dd9d27b90a8) 
 - [2019-12-03-京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
 - [2016-04-12-前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/) 
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-23 04:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-23 05:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -314,10 +314,10 @@
 </summary>
 
 
-- [2020-03-22-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/3e5ffad00cccf4ff444d89e42e326a79) ![](assets/new.png)  
-- [2020-03-20-微软拿下js语言生态系统，近日通过Github收购npm，已有TS、新版-Edge、Vscode](https://www.ershicimi.com/p/1e55a3050310861c04e42d926ef5a22c) ![](assets/new.png)  
-- [2020-03-20-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/252bf49d139d55b99dbd9cfb6d5b8363) ![](assets/new.png)  
-- [2020-03-20-MySQL性能优化实践（很全面，值得收藏）](https://www.ershicimi.com/p/08a5557329fbcee70ef6a0b73ca8aff8) ![](assets/new.png)  
+- [2020-03-22-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/3e5ffad00cccf4ff444d89e42e326a79)  
+- [2020-03-20-微软拿下js语言生态系统，近日通过Github收购npm，已有TS、新版-Edge、Vscode](https://www.ershicimi.com/p/1e55a3050310861c04e42d926ef5a22c)  
+- [2020-03-20-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/252bf49d139d55b99dbd9cfb6d5b8363)  
+- [2020-03-20-MySQL性能优化实践（很全面，值得收藏）](https://www.ershicimi.com/p/08a5557329fbcee70ef6a0b73ca8aff8)  
 - [2020-03-19-一年半前端跳槽面试经验（头条、微信、shopee）](https://www.ershicimi.com/p/27c1e7a6525a63c12a2108e2abb2f7a6)  
 - [2020-03-19-Github-收购-npm](https://www.ershicimi.com/p/346d938e29c9f41d555153dfebe29acb)  
 - [2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf)  
@@ -880,6 +880,7 @@
 </summary>
 
 
+- [2020-03-23-中文的技术论坛，除了这边还有哪些有人气的？](https://www.v2ex.com/t/655215) ![](assets/new.png)  
 - [2020-03-23-今年买车会是一个好决定吗？？-15w-左右的车有-v2er-推荐的吗？？](https://www.v2ex.com/t/655213)  
 - [2020-03-23-基于-PHP-的轻社区开源项目，有哪些推荐？](https://www.v2ex.com/t/655212)  
 - [2020-03-23-为什么北美反而打电话发彩信便宜，流量却很贵？](https://www.v2ex.com/t/655211)  
@@ -899,7 +900,6 @@
 - [2020-03-22-笔记本的续航问题，诸君怎么解决？](https://www.v2ex.com/t/655196)  
 - [2020-03-22-在分享创建发布新帖子，每次发布都-403，发了邮件还没回复](https://www.v2ex.com/t/655195)  
 - [2020-03-22-刚刚发现一个好玩的，就是微信的暗色模式下的小程序](https://www.v2ex.com/t/655194)  
-- [2020-03-22-触控板坏了按下去没反应了,-不小心又把触控板点触给关闭了.-怎么用键盘打开呀?](https://www.v2ex.com/t/655193)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -942,7 +942,7 @@
 </summary>
 
 
-- [2020-03-23-推荐-最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://toutiao.io/k/l84p9le) ![](assets/new.png)  
+- [2020-03-23-推荐-最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://toutiao.io/k/l84p9le)  
 - [2020-03-22-推荐-15-年工龄的-P9-职场历程自述](https://toutiao.io/k/7hllz9e)  
 - [2020-03-22-MIT-6.824-分布式系统课程第三课：GFS](https://toutiao.io/k/aitt0pc)  
 - [2020-03-22-Go：数组与切片的区别](https://toutiao.io/k/k73dsmf)  

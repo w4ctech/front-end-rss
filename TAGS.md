@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-22 11:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -505,6 +505,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
+- [【V2EX】蚂蚁金服大数据部招聘数据挖掘和应用算法岗位（p6p7p8）](https://www.v2ex.com/t/655034)
 - [【V2EX】北京联通想外网-http-访问-NAS，目前遇到不通的问题求解决思路](https://www.v2ex.com/t/654904)
 - [【V2EX】算法高手进来看看](https://www.v2ex.com/t/654810)
 - [【开发者头条】Elasticsearch-学习：入门篇](https://toutiao.io/k/pvqmcrr)

@@ -9649,6 +9649,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "CSS - ::​​ before 和 :: after",
+        "link": "https://www.ershicimi.com/p/9a1f90f5a5f2150caacb5a84c0dd69ca",
+        "date": "2020-03-20"
+      },
+      {
         "title": "微软通过 Github 收购 npm，加上 TS、新版 Edge、Vscode ，拿下 js 语言的",
         "link": "https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889",
         "date": "2020-03-19"
@@ -10305,6 +10310,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "使用 AFNetworking 框架遇到了一个诡异问题，模拟器正常，真机完全不执行",
+        "link": "https://www.v2ex.com/t/655210",
+        "date": "2020-03-23"
+      },
       {
         "title": "v 站给心的按钮是不是过于隐蔽 😂",
         "link": "https://www.v2ex.com/t/655209",

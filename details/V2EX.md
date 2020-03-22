@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-03-23 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-03-23-使用-AFNetworking-框架遇到了一个诡异问题，模拟器正常，真机完全不执行](https://www.v2ex.com/t/655210) 
 - [2020-03-23-v-站给心的按钮是不是过于隐蔽-😂](https://www.v2ex.com/t/655209) 
 - [2020-03-23-这么复杂的需求，如何设计数据库……头大](https://www.v2ex.com/t/655208) 
 - [2020-03-23-分享一个在-iPhone-上玩-QEMU-的另一种方式（越狱版）](https://www.v2ex.com/t/655207) 

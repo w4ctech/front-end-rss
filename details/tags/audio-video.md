@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-22 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -80,6 +80,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-22-Web-Audio之getChannelData](https://juejin.im/post/5e75c30e518825495a279a02) 
 - [2020-03-19-《甄嬛传》里的人集体开播了，点击进入直播间](https://www.ershicimi.com/p/957ccb73d34160be9945f375962a9009) 
+- [2020-03-22-求：优质的视频播主-只限中文](https://www.v2ex.com/t/655114) 
 - [2020-03-22-字节跳动直播客户端团队招聘，实习/校招/社招均可](https://www.v2ex.com/t/655067) 
 - [2020-03-22-Workshop---小作坊视频、屏幕分享开会工具](https://www.v2ex.com/t/654994) 
 - [2020-03-21-抖音团队直招-校招/实习内推-即刻安排视频面试-附工作邮箱！来人啊-快来人啊！](https://www.v2ex.com/t/654945) 

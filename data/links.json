@@ -6947,6 +6947,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "截至3月21日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://www.nhc.gov.cn/xcs/yqtb/202003/be74d71b2f784cae917cc830f244caa9.shtml",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "2020年3月21日河北省新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/402508.jhtml",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年3月22日公布）",
+        "link": "http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202003/t20200322_6919133.html",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "黑龙江省最新疫情通报",
+        "link": "http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8159/navid/42/stypeid/",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "2020年3月21日0时至24时辽宁新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200322_3778204.html",
+        "date": "2020-03-22"
+      },
+      {
         "title": "2020年3月22日重庆市新冠肺炎疫情情况",
         "link": "http://wsjkw.cq.gov.cn/yqxxyqtb/20200322/260803.html",
         "date": "2020-03-22"
@@ -9996,6 +10021,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何回答非技术面中有关个人生活的问题呢？",
+        "link": "https://www.v2ex.com/t/655010",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "Huginn 有什么玩法？",
+        "link": "https://www.v2ex.com/t/655009",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "现在手机 appstore 每次换区，都会收到 3 个验证码，但是并不需要输入啊",
+        "link": "https://www.v2ex.com/t/655008",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "Java 纯新手，问个关于类型的问题",
+        "link": "https://www.v2ex.com/t/655007",
+        "date": "2020-03-22"
+      },
+      {
         "title": "Audible 提供许多小孩免费有声书，内容覆盖学龄前到经典文学",
         "link": "https://www.v2ex.com/t/655005",
         "date": "2020-03-22"
@@ -11139,6 +11184,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "被谷歌剪掉命根子的出海应用，没几个冤枉的",
+        "link": "https://toutiao.io/k/zwn6ikc",
+        "date": "2020-03-22"
+      },
       {
         "title": "[推荐] 没用过这些 IDEA 插件？怪不得写代码头疼",
         "link": "https://toutiao.io/k/qkynl0w",

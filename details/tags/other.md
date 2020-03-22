@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-22 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1291,6 +1291,14 @@
 - [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [2020-03-22-家用的水塔智能管理系统](https://www.v2ex.com/t/655081) 
+- [2020-03-22-用户自己安装的手机厂商开发的软件，是如何获得类似于-root-权限的？](https://www.v2ex.com/t/655080) 
+- [2020-03-22-笔记本电源一直插在插线板上但是另外一边没有插电脑上-1-个多月会不会有啥问题？](https://www.v2ex.com/t/655079) 
+- [2020-03-22-美团在我的城市已成为恶龙，请教各位老哥，屠龙勇士应该是什么样子](https://www.v2ex.com/t/655078) 
+- [2020-03-22-6000-左右的编程用主机，大佬们帮忙看看这个配置可以吗？](https://www.v2ex.com/t/655077) 
+- [2020-03-22-转接口问题：为什么有些转接口更贵？](https://www.v2ex.com/t/655074) 
+- [2020-03-22-除了-v2，大家还混迹哪些社区，我先来](https://www.v2ex.com/t/655073) 
+- [2020-03-22-关于回形针的地图问题，是否是-主观故意，我觉得可能还需要观察一下更多证据](https://www.v2ex.com/t/655071) 
 - [2020-03-22-今年疫情导致延迟复工，对你们公司的年度审计有多大影响](https://www.v2ex.com/t/655070) 
 - [2020-03-22-关于苹果与微信的合作版本](https://www.v2ex.com/t/655068) 
 - [2020-03-22-vmware15-centos7-无法-Ping-通主机，其他都行](https://www.v2ex.com/t/655066) 
@@ -1508,6 +1516,7 @@
 - [2020-03-21-频频被提起的“区块链”，到底是个啥？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13281&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F112366484%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-22-推荐-15-年工龄的-P9-职场历程自述](https://toutiao.io/k/7hllz9e) 
 - [2020-03-22-MIT-6.824-分布式系统课程第三课：GFS](https://toutiao.io/k/aitt0pc) 
 - [2020-03-22-零信任技术进阶篇：关键技术及挑战](https://toutiao.io/k/qaau50l) 
 - [2020-03-22-谈谈那些年我犯的错（一）](https://toutiao.io/k/o8pv2lg) 

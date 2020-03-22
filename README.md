@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-22 13:30:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-22 14:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -730,11 +730,11 @@
 </summary>
 
 
-- [2020-03-22-前端面试之面试准备](https://juejin.im/post/5e75e19351882549417feca0) ![](assets/new.png)  
-- [2020-03-22-浏览器事件之事件处理程序](https://juejin.im/post/5e75e412e51d4526fa120979) ![](assets/new.png)  
-- [2020-03-22-深入分析-portfinder](https://juejin.im/post/5e75d3045188254960390252) ![](assets/new.png)  
-- [2020-03-22-Web-Audio之getChannelData](https://juejin.im/post/5e75c30e518825495a279a02) ![](assets/new.png)  
-- [2020-03-22-vue原理依赖收集--watcher](https://juejin.im/post/5e75c98ce51d4526e4192420) ![](assets/new.png)  
+- [2020-03-22-前端面试之面试准备](https://juejin.im/post/5e75e19351882549417feca0)  
+- [2020-03-22-浏览器事件之事件处理程序](https://juejin.im/post/5e75e412e51d4526fa120979)  
+- [2020-03-22-深入分析-portfinder](https://juejin.im/post/5e75d3045188254960390252)  
+- [2020-03-22-Web-Audio之getChannelData](https://juejin.im/post/5e75c30e518825495a279a02)  
+- [2020-03-22-vue原理依赖收集--watcher](https://juejin.im/post/5e75c98ce51d4526e4192420)  
 - [2020-03-22-程序员眼中浏览器什么样？IE表示：有本事把我卸了](https://juejin.im/post/5e7581426fb9a07ca53062e3)  
 - [2020-03-22-前端vue打包后部署方式](https://juejin.im/post/5e75a3146fb9a07cc50f2ed0)  
 - [2020-03-22-制作渐变背景生成器---React-State和Event教程](https://juejin.im/post/5e75a58b51882549027687ab)  
@@ -864,26 +864,26 @@
 </summary>
 
 
-- [2020-03-22-今年疫情导致延迟复工，对你们公司的年度审计有多大影响](https://www.v2ex.com/t/655070) ![](assets/new.png)  
-- [2020-03-22-关于苹果与微信的合作版本](https://www.v2ex.com/t/655068) ![](assets/new.png)  
-- [2020-03-22-字节跳动直播客户端团队招聘，实习/校招/社招均可](https://www.v2ex.com/t/655067) ![](assets/new.png)  
-- [2020-03-22-vmware15-centos7-无法-Ping-通主机，其他都行](https://www.v2ex.com/t/655066) ![](assets/new.png)  
-- [2020-03-22-推荐阿里巴巴也收购一家做代码托管的公司](https://www.v2ex.com/t/655065) ![](assets/new.png)  
-- [2020-03-22-Quantumult-X-的定时任务要怎样才能执行？](https://www.v2ex.com/t/655064) ![](assets/new.png)  
-- [2020-03-22-Mac-App-有什么好用的数据统计平台吗？](https://www.v2ex.com/t/655063) ![](assets/new.png)  
-- [2020-03-22-iPad-Pro-2018-有产品缺陷，不建议你们买。](https://www.v2ex.com/t/655061) ![](assets/new.png)  
-- [2020-03-22-请问有什么常亮智能手表推荐（苹果表除外）](https://www.v2ex.com/t/655060) ![](assets/new.png)  
-- [2020-03-22-2020-年深度学习用什么框架？](https://www.v2ex.com/t/655059) ![](assets/new.png)  
-- [2020-03-22-从没有哪个春天曾迟到过，疫情过后生活仍充满希望](https://www.v2ex.com/t/655058) ![](assets/new.png)  
-- [2020-03-22-支付宝杭州招聘客户端、服务端、前端开发、解决方案架构师，-hc-大量，机会难得](https://www.v2ex.com/t/655057) ![](assets/new.png)  
-- [2020-03-22-文本数据怎么分割才能复制到-excel-里进行分列呢](https://www.v2ex.com/t/655056) ![](assets/new.png)  
-- [2020-03-22-新发布的-iPad-Pro-+-妙控键盘比-Mac-还贵，选谁？](https://www.v2ex.com/t/655055) ![](assets/new.png)  
-- [2020-03-22-微信暗黑模式也太一言难尽了](https://www.v2ex.com/t/655054) ![](assets/new.png)  
-- [2020-03-22-从没有那个春天曾迟到过，疫情过后仍充满希望](https://www.v2ex.com/t/655053) ![](assets/new.png)  
-- [2020-03-22-微信更新](https://www.v2ex.com/t/655052)  
-- [2020-03-22-FreeSSL-即将推出全新的-SSL-证书自动化服务，大家有什么看法和建议？](https://www.v2ex.com/t/655051)  
-- [2020-03-22-请问有-ios-可用的-微屁恩-么，可付费啊啊啊啊啊](https://www.v2ex.com/t/655049)  
-- [2020-03-22-配页坊:-简称配方---为配置页面而生,-专注于配置后台页面](https://www.v2ex.com/t/655048)  
+- [2020-03-22-家用的水塔智能管理系统](https://www.v2ex.com/t/655081) ![](assets/new.png)  
+- [2020-03-22-用户自己安装的手机厂商开发的软件，是如何获得类似于-root-权限的？](https://www.v2ex.com/t/655080) ![](assets/new.png)  
+- [2020-03-22-笔记本电源一直插在插线板上但是另外一边没有插电脑上-1-个多月会不会有啥问题？](https://www.v2ex.com/t/655079) ![](assets/new.png)  
+- [2020-03-22-美团在我的城市已成为恶龙，请教各位老哥，屠龙勇士应该是什么样子](https://www.v2ex.com/t/655078) ![](assets/new.png)  
+- [2020-03-22-6000-左右的编程用主机，大佬们帮忙看看这个配置可以吗？](https://www.v2ex.com/t/655077) ![](assets/new.png)  
+- [2020-03-22-找一款搜了很久都没搜到的-FC-红白机游戏的名字？](https://www.v2ex.com/t/655075) ![](assets/new.png)  
+- [2020-03-22-转接口问题：为什么有些转接口更贵？](https://www.v2ex.com/t/655074) ![](assets/new.png)  
+- [2020-03-22-除了-v2，大家还混迹哪些社区，我先来](https://www.v2ex.com/t/655073) ![](assets/new.png)  
+- [2020-03-22-支付宝上海&杭州招聘客户端、服务端、前端开发、解决方案架构师，-hc-大量，机会难得](https://www.v2ex.com/t/655072) ![](assets/new.png)  
+- [2020-03-22-关于回形针的地图问题，是否是-主观故意，我觉得可能还需要观察一下更多证据](https://www.v2ex.com/t/655071) ![](assets/new.png)  
+- [2020-03-22-今年疫情导致延迟复工，对你们公司的年度审计有多大影响](https://www.v2ex.com/t/655070)  
+- [2020-03-22-关于苹果与微信的合作版本](https://www.v2ex.com/t/655068)  
+- [2020-03-22-字节跳动直播客户端团队招聘，实习/校招/社招均可](https://www.v2ex.com/t/655067)  
+- [2020-03-22-vmware15-centos7-无法-Ping-通主机，其他都行](https://www.v2ex.com/t/655066)  
+- [2020-03-22-推荐阿里巴巴也收购一家做代码托管的公司](https://www.v2ex.com/t/655065)  
+- [2020-03-22-Quantumult-X-的定时任务要怎样才能执行？](https://www.v2ex.com/t/655064)  
+- [2020-03-22-Mac-App-有什么好用的数据统计平台吗？](https://www.v2ex.com/t/655063)  
+- [2020-03-22-iPad-Pro-2018-有产品缺陷，不建议你们买。](https://www.v2ex.com/t/655061)  
+- [2020-03-22-请问有什么常亮智能手表推荐（苹果表除外）](https://www.v2ex.com/t/655060)  
+- [2020-03-22-2020-年深度学习用什么框架？](https://www.v2ex.com/t/655059)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -926,6 +926,7 @@
 </summary>
 
 
+- [2020-03-22-推荐-15-年工龄的-P9-职场历程自述](https://toutiao.io/k/7hllz9e) ![](assets/new.png)  
 - [2020-03-22-MIT-6.824-分布式系统课程第三课：GFS](https://toutiao.io/k/aitt0pc)  
 - [2020-03-22-Go：数组与切片的区别](https://toutiao.io/k/k73dsmf)  
 - [2020-03-22-零信任技术进阶篇：关键技术及挑战](https://toutiao.io/k/qaau50l)  
@@ -945,7 +946,6 @@
 - [2020-03-22-SR-IOV-基本概念](https://toutiao.io/k/yplb700)  
 - [2020-03-22-程序员写出这样的代码，能不挨骂吗？](https://toutiao.io/k/69rwc7o)  
 - [2020-03-22-被谷歌剪掉命根子的出海应用，没几个冤枉的](https://toutiao.io/k/zwn6ikc)  
-- [2020-03-22-推荐-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

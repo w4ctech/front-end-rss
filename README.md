@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-22 09:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-22 10:00:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -63,6 +63,8 @@
 </summary>
 
 
+- [2020-03-22-肺炎日记|3月21日：就业承压，复工复产如何启动？](http://china.caixin.com/2020-03-22/101532207.html) ![](assets/new.png)  
+- [2020-03-22-新疆应急响应级别由三级降为四级-一个月内“三连降”](http://china.caixin.com/2020-03-22/101532199.html) ![](assets/new.png)  
 - [2020-03-21-境外回流病例增幅加大-英国成北京最大输入来源](http://china.caixin.com/2020-03-21/101532170.html)  
 - [2020-03-21-大流行手记|3月21日：英美加巨额补贴保就业](http://international.caixin.com/2020-03-21/101532167.html)  
 - [2020-03-21-特稿|核酸阴性抗体阳性-确诊名单外的武汉医护人员](http://china.caixin.com/2020-03-21/101532090.html)  
@@ -81,8 +83,6 @@
 - [2020-03-21-3月20日：全国新冠累计确诊81008例-湖北三日零增长境外输入继续增加（更新中）](http://www.caixin.com/2020-03-21/101531909.html)  
 - [2020-03-21-全球新冠抗疫大事记（2019年12月31日——今）](http://china.caixin.com/2020-03-21/101529734.html)  
 - [2020-03-21-肺炎日记|3月20日：湖北再次零增长-社区感染仍存风险](http://china.caixin.com/2020-03-21/101531868.html)  
-- [2020-03-21-纽约州要求全民居家-美股创2008年以来最大周跌幅](http://finance.caixin.com/2020-03-21/101531850.html)  
-- [2020-03-20-生死金银潭：一支医疗队的50天](http://weekly.caixin.com/2020-03-20/101531821.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-03-22-截至3月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/be74d71b2f784cae917cc830f244caa9.shtml) ![](assets/new.png)  
-- [2020-03-22-2020年3月21日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/402508.jhtml) ![](assets/new.png)  
-- [2020-03-22-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年3月22日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202003/t20200322_6919133.html) ![](assets/new.png)  
-- [2020-03-22-黑龙江省最新疫情通报](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8159/navid/42/stypeid/) ![](assets/new.png)  
-- [2020-03-22-2020年3月21日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200322_3778204.html) ![](assets/new.png)  
+- [2020-03-22-截至3月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202003/be74d71b2f784cae917cc830f244caa9.shtml)  
+- [2020-03-22-2020年3月21日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/402508.jhtml)  
+- [2020-03-22-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年3月22日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202003/t20200322_6919133.html)  
+- [2020-03-22-黑龙江省最新疫情通报](http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8159/navid/42/stypeid/)  
+- [2020-03-22-2020年3月21日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202003/t20200322_3778204.html)  
 - [2020-03-22-2020年3月22日重庆市新冠肺炎疫情情况](http://wsjkw.cq.gov.cn/yqxxyqtb/20200322/260803.html)  
 - [2020-03-22-意大利单日新增6557例确诊病例，累计确诊破5万](http://m.weibo.cn/3057540037/4485176216459984)  
 - [2020-03-22-美国日增新冠肺炎病例超5千](http://m.weibo.cn/2803301701/4485168029280930)  
@@ -854,10 +854,19 @@
 </summary>
 
 
-- [2020-03-22-如何回答非技术面中有关个人生活的问题呢？](https://www.v2ex.com/t/655010) ![](assets/new.png)  
-- [2020-03-22-Huginn-有什么玩法？](https://www.v2ex.com/t/655009) ![](assets/new.png)  
-- [2020-03-22-现在手机-appstore-每次换区，都会收到-3-个验证码，但是并不需要输入啊](https://www.v2ex.com/t/655008) ![](assets/new.png)  
-- [2020-03-22-Java-纯新手，问个关于类型的问题](https://www.v2ex.com/t/655007) ![](assets/new.png)  
+- [2020-03-22-请问现在有什么方法可以获取-Win7-OEM-中国版原版镜像？](https://www.v2ex.com/t/655021) ![](assets/new.png)  
+- [2020-03-22-有好用的云笔记推荐吗？](https://www.v2ex.com/t/655020) ![](assets/new.png)  
+- [2020-03-22-微粒贷被人套路了，寻求帮助](https://www.v2ex.com/t/655018) ![](assets/new.png)  
+- [2020-03-22-用-TypeScript-为-Deno-平台做了一个-Tiny-Redis](https://www.v2ex.com/t/655017) ![](assets/new.png)  
+- [2020-03-22-新款-Homepod-啥时候发布？](https://www.v2ex.com/t/655016) ![](assets/new.png)  
+- [2020-03-22-我也做了一个-Github-文件加速](https://www.v2ex.com/t/655015) ![](assets/new.png)  
+- [2020-03-22-echo-'1-2'|awk-"{print-$2}"的输出为什么是-1-2](https://www.v2ex.com/t/655014) ![](assets/new.png)  
+- [2020-03-22-关于劫持-360-域名的问题](https://www.v2ex.com/t/655013) ![](assets/new.png)  
+- [2020-03-22-广告的均衡投放，有比较好的实现吗](https://www.v2ex.com/t/655012) ![](assets/new.png)  
+- [2020-03-22-如何回答非技术面中有关个人生活的问题呢？](https://www.v2ex.com/t/655010)  
+- [2020-03-22-Huginn-有什么玩法？](https://www.v2ex.com/t/655009)  
+- [2020-03-22-现在手机-appstore-每次换区，都会收到-3-个验证码，但是并不需要输入啊](https://www.v2ex.com/t/655008)  
+- [2020-03-22-Java-纯新手，问个关于类型的问题](https://www.v2ex.com/t/655007)  
 - [2020-03-22-Audible-提供许多小孩免费有声书，内容覆盖学龄前到经典文学](https://www.v2ex.com/t/655005)  
 - [2020-03-22-又看到一个开源项目凉了，难受](https://www.v2ex.com/t/655003)  
 - [2020-03-22-请问如何确定-iOS-设备在不同地区的型号?](https://www.v2ex.com/t/655002)  
@@ -865,15 +874,6 @@
 - [2020-03-22-在越狱-iPhone-上跑-QEMU-命令行](https://www.v2ex.com/t/655000)  
 - [2020-03-22-90Days--极限挑战](https://www.v2ex.com/t/654998)  
 - [2020-03-22-40-多岁程序员（iOS），还有什么机会吗？](https://www.v2ex.com/t/654997)  
-- [2020-03-22-纠结-iPad-买-12.9-还是-11-寸](https://www.v2ex.com/t/654996)  
-- [2020-03-22-Workshop---小作坊视频、屏幕分享开会工具](https://www.v2ex.com/t/654994)  
-- [2020-03-22-网上祭祀是什么事物啊](https://www.v2ex.com/t/654993)  
-- [2020-03-22-apple-入驻小米有品](https://www.v2ex.com/t/654992)  
-- [2020-03-22-万能的-v-友，想请问下是否该转组](https://www.v2ex.com/t/654991)  
-- [2020-03-22-请教如何在群晖-Docker-中安装-rclone?](https://www.v2ex.com/t/654990)  
-- [2020-03-22-da](https://www.v2ex.com/t/654989)  
-- [2020-03-22-一个-29-岁大龄猿的自我剖析](https://www.v2ex.com/t/654988)  
-- [2020-03-22-babel-polyfill-是如何实现在-IE-把-Array.from-polyfill-为-native-code-的?](https://www.v2ex.com/t/654985)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -916,7 +916,16 @@
 </summary>
 
 
-- [2020-03-22-被谷歌剪掉命根子的出海应用，没几个冤枉的](https://toutiao.io/k/zwn6ikc) ![](assets/new.png)  
+- [2020-03-22-阿里-P6-的面经](https://toutiao.io/k/xi6xtdu) ![](assets/new.png)  
+- [2020-03-22-美团配送数据治理实践](https://toutiao.io/k/8r1x3kr) ![](assets/new.png)  
+- [2020-03-22-Elasticsearch-学习：入门篇](https://toutiao.io/k/pvqmcrr) ![](assets/new.png)  
+- [2020-03-22-译-Android-display-pipeline-本身以及进程调度](https://toutiao.io/k/dybdutb) ![](assets/new.png)  
+- [2020-03-22-Blazor-入门](https://toutiao.io/k/hnw5u0t) ![](assets/new.png)  
+- [2020-03-22-关于-Babel-你必须知道的基础知识](https://toutiao.io/k/csoiws7) ![](assets/new.png)  
+- [2020-03-22-设计模式学习笔记：单例模式-Singleton](https://toutiao.io/k/wd2g3s4) ![](assets/new.png)  
+- [2020-03-22-SR-IOV-基本概念](https://toutiao.io/k/yplb700) ![](assets/new.png)  
+- [2020-03-22-程序员写出这样的代码，能不挨骂吗？](https://toutiao.io/k/69rwc7o) ![](assets/new.png)  
+- [2020-03-22-被谷歌剪掉命根子的出海应用，没几个冤枉的](https://toutiao.io/k/zwn6ikc)  
 - [2020-03-22-推荐-没用过这些-IDEA-插件？怪不得写代码头疼](https://toutiao.io/k/qkynl0w)  
 - [2020-03-22-推荐-面试被问分布式-ID-怎么办？-滴滴-Tinyid-甩给他](https://toutiao.io/k/a41o449)  
 - [2020-03-22-推荐-优化-if-else-代码的八种方案](https://toutiao.io/k/1sofava)  
@@ -927,15 +936,6 @@
 - [2020-03-21-推荐-基于-Java-实现的人脸识别功能（附源码）](https://toutiao.io/k/858vszs)  
 - [2020-03-21-推荐-程序员的商业思维：关注杠杆率](https://toutiao.io/k/ad3xky6)  
 - [2020-03-21-推荐-疫情期间，Java-菜鸟-“面霸”-养成记，中兴-+-腾讯-+-乐视-+-京东……](https://toutiao.io/k/uniwe7s)  
-- [2020-03-21-推荐-百万年薪自由职业者分享的-6-项必备技能](https://toutiao.io/k/7jlxmmx)  
-- [2020-03-21-推荐-如何优雅的在-Java-中统计代码块耗时](https://toutiao.io/k/ec7czbv)  
-- [2020-03-21-推荐-JVM-源码分析之-jstat-工具原理完全解读](https://toutiao.io/k/9534g5k)  
-- [2020-03-21-推荐-为什么我们要面向接口编程](https://toutiao.io/k/2j20u8f)  
-- [2020-03-21-推荐-我在阿里做中后台开发](https://toutiao.io/k/k0m2k5w)  
-- [2020-03-21-推荐-近-2-万字详解-Java-NIO2-文件操作，过瘾](https://toutiao.io/k/180ioej)  
-- [2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu)  
-- [2020-03-21-推荐-技术人如何更好地把控发展趋势？](https://toutiao.io/k/vaiqjez)  
-- [2020-03-21-推荐-话说-Kubernetes-网络疑难杂症](https://toutiao.io/k/qaylxpl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

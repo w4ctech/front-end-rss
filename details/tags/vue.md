@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 05:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 06:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -17,6 +17,7 @@
 - [2020-03-16-Vue知识点自检清单下](https://www.ershicimi.com/p/20bcc66daf5f5b911e3910f65246512b) 
 - [2020-03-13-Vue常见的考点下](https://www.ershicimi.com/p/84e0897bce7c6f8a80a9c8c73b86f983) 
 - [2020-03-11-前端技术者在-Vue3.0-的浪潮下如何奋勇激进？](https://www.ershicimi.com/p/7f48fe97f70e45bccb1089f693a9e122) 
+- [2020-03-22-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/16b0d74c2a8203f605c781408d1ed037) 
 - [2020-03-16-只会-Vue-的前端工程师是没有前途的](https://www.ershicimi.com/p/dc9deb99172ff35d4336143944f5e39f) 
 - [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 

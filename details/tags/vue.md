@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -36,6 +36,7 @@
 - [2020-02-25-Vue-3.0将正式发布，对我们有哪些改变？](https://www.ershicimi.com/p/2f5688f513ddfee39e89de69b1c0624d) 
 - [2020-02-24-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/52d9e6ab84d1ceb2a08483b995b82a96) 
 - [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) 
+- [2020-03-22-vscode-配置vue+vetur+eslint+prettier自动格式化功能](https://juejin.im/post/5e762fb9f265da573e6749bb) 
 - [2020-03-22-vue原理依赖收集--watcher](https://juejin.im/post/5e75c98ce51d4526e4192420) 
 - [2020-03-22-前端vue打包后部署方式](https://juejin.im/post/5e75a3146fb9a07cc50f2ed0) 
 - [2020-03-22-vscode-使用经验，让vue开发跳转定义和webstrom一样](https://juejin.im/post/5e75791ee51d452701798927) 

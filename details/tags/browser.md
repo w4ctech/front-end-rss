@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 00:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,11 +26,13 @@
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) 
+- [2020-03-22-确保Web安全的-HTTPS](https://juejin.im/post/5e7776b9e51d4526f45a9784) 
 - [2020-03-22-程序员眼中浏览器什么样？IE表示：有本事把我卸了](https://juejin.im/post/5e7581426fb9a07ca53062e3) 
 - [2020-03-21-3000字说说跨域！面试官听完之后露出了满意的笑容😎](https://juejin.im/post/5e74e690e51d4526d87c93df) 
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-22-弄了个域名-ieini.com，中英文都对不上，主要是不算长以及还算顺口，大家觉得咋样？](https://www.v2ex.com/t/655201) 
 - [2020-03-22-除了工资没其他收入，好没安全感](https://www.v2ex.com/t/655159) 
 - [2020-03-22-请教下各位大佬，-Chrome-登陆-Google-ads-和-facebook-等网站突然被告知不支持该浏览器。让我更换-chrome-等浏览器，这是什么鬼？之前都用着很正常，下载了最新...](https://www.v2ex.com/t/655133) 
 - [2020-03-22-chrome-不能自动生成密码了?](https://www.v2ex.com/t/655115) 

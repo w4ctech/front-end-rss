@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,7 @@
 - [2020-03-21-社招-美国大数据公司-招聘后端研发/大数据工程师/架构师](https://www.v2ex.com/t/654812) 
 - [2020-03-21-（2020-三月更新）微软苏州持续招聘中！多部门大量-HC-多次面试机会！](https://www.v2ex.com/t/654807) 
 - [2020-03-21-附详尽答案，新版精选Android中高级面试题--二-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13282&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGdYyBIPp49j8eatLov1lIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-23-推荐-最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://toutiao.io/k/l84p9le) 
 - [2020-03-22-推荐-面试被问分布式-ID-怎么办？-滴滴-Tinyid-甩给他](https://toutiao.io/k/a41o449) 
 - [2020-03-21-推荐-面试被问分布式事务（2PC、3PC、TCC），这样解释没毛病](https://toutiao.io/k/seazusu) 
 - [2020-03-21-4000-字干货长文！从校招和社招的角度说说如何准备大厂-Java-后端面试？](https://toutiao.io/k/p5zgxs3) 

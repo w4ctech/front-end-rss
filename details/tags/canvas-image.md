@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-03-20-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/252bf49d139d55b99dbd9cfb6d5b8363) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
 - [2018-10-18-十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/) 
 - [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/) 

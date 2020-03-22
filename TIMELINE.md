@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 03:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-23 04:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -633,6 +633,10 @@
 - [【前端开发】2020-03-13-面试官：浏览器输入URL后发生了什么？](https://www.ershicimi.com/p/6c6dec0d45287f729c1743af6ee2a0f6) 
 - [【前端开发博客】2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [【前端开发博客】2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
+- [【前端大学】2020-03-22-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/3e5ffad00cccf4ff444d89e42e326a79) 
+- [【前端大学】2020-03-20-微软拿下js语言生态系统，近日通过Github收购npm，已有TS、新版-Edge、Vscode](https://www.ershicimi.com/p/1e55a3050310861c04e42d926ef5a22c) 
+- [【前端大学】2020-03-20-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/252bf49d139d55b99dbd9cfb6d5b8363) 
+- [【前端大学】2020-03-20-MySQL性能优化实践（很全面，值得收藏）](https://www.ershicimi.com/p/08a5557329fbcee70ef6a0b73ca8aff8) 
 - [【前端大学】2020-03-19-一年半前端跳槽面试经验（头条、微信、shopee）](https://www.ershicimi.com/p/27c1e7a6525a63c12a2108e2abb2f7a6) 
 - [【前端大学】2020-03-19-Github-收购-npm](https://www.ershicimi.com/p/346d938e29c9f41d555153dfebe29acb) 
 - [【前端大学】2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf) 
@@ -1250,6 +1254,7 @@
 - [【技术头条】2020-03-21-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-23-推荐-最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](https://toutiao.io/k/l84p9le) 
 - [【开发者头条】2020-03-22-推荐-15-年工龄的-P9-职场历程自述](https://toutiao.io/k/7hllz9e) 
 - [【开发者头条】2020-03-22-MIT-6.824-分布式系统课程第三课：GFS](https://toutiao.io/k/aitt0pc) 
 - [【开发者头条】2020-03-22-Go：数组与切片的区别](https://toutiao.io/k/k73dsmf) 

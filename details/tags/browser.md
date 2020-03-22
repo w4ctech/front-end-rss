@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-22 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,6 +31,7 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-22-除了工资没其他收入，好没安全感](https://www.v2ex.com/t/655159) 
 - [2020-03-22-请教下各位大佬，-Chrome-登陆-Google-ads-和-facebook-等网站突然被告知不支持该浏览器。让我更换-chrome-等浏览器，这是什么鬼？之前都用着很正常，下载了最新...](https://www.v2ex.com/t/655133) 
 - [2020-03-22-chrome-不能自动生成密码了?](https://www.v2ex.com/t/655115) 
 - [2020-03-21-移动-http-缓存劫持导致无法正常下载软件](https://www.v2ex.com/t/654980) 

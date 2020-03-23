@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 16:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -36,6 +36,7 @@
 - [2020-03-23-面试之路（不断更新）](https://juejin.im/post/5e6c6a0b6fb9a07ce31f0021) 
 - [2020-03-22-前端面试之面试准备](https://juejin.im/post/5e75e19351882549417feca0) 
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc) 
+- [2020-03-23-西安-内推，外企招聘-Java-/-Java-Web-/-PM](https://www.v2ex.com/t/655387) 
 - [2020-03-23-如何面试有关-Design-&-Problem-Solving-的问题？](https://www.v2ex.com/t/655341) 
 - [2020-03-23-实习生招聘阿里巴巴基础设施事业部-天基-2021-届实习生招聘，投递简历送面试资料哦](https://www.v2ex.com/t/655307) 
 - [2020-03-23-面试：如何实现一个模板引擎？](https://www.v2ex.com/t/655290) 

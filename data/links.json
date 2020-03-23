@@ -7087,6 +7087,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "西班牙新冠肺炎增至33089例",
+        "link": "http://m.weibo.cn/2803301701/4485713808178570",
+        "date": "2020-03-23"
+      },
+      {
         "title": "马来西亚新增212例，新冠肺炎确诊病例 累计确诊1518例",
         "link": "http://m.weibo.cn/3057540037/4485701074166387",
         "date": "2020-03-23"
@@ -11027,6 +11032,66 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于百度搜索结果的问题",
+        "link": "https://www.v2ex.com/t/655489",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Xcode 项目包含大量的资源文件, 索引非常缓慢, 是否可以 disable 掉这部分资源的索引?",
+        "link": "https://www.v2ex.com/t/655488",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "CSS 里颜色变量使用透明值的问题",
+        "link": "https://www.v2ex.com/t/655487",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "腾讯 TIM Android 端更新了",
+        "link": "https://www.v2ex.com/t/655486",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "值得推荐的 Linux 相关的博客和网站",
+        "link": "https://www.v2ex.com/t/655485",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "30 岁的迷茫期，不知道是找工作，还是继续创业研究。",
+        "link": "https://www.v2ex.com/t/655484",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "macbook pro 2016（无 touchbar）电池鼓包，不能免费换电池问题",
+        "link": "https://www.v2ex.com/t/655483",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "MacBook Pro (USB type C 接口) 外接两个显示器 什么方案比较好",
+        "link": "https://www.v2ex.com/t/655482",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "更好的世界，更好的你，阿里巴巴本地生活校招开始啦",
+        "link": "https://www.v2ex.com/t/655481",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "阿里镜像: 你们的 maven mirror 已经小半年没更新了!",
+        "link": "https://www.v2ex.com/t/655480",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Java 判断一个字符串中是否含有多个字符串效率最高的算法？",
+        "link": "https://www.v2ex.com/t/655479",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "PDF Expert $79.99 折扣到 29.99，可以安装 3 台电脑",
+        "link": "https://www.v2ex.com/t/655478",
+        "date": "2020-03-23"
+      },
+      {
         "title": "[舔狗日记] 源码发布",
         "link": "https://www.v2ex.com/t/655477",
         "date": "2020-03-23"
@@ -14078,6 +14143,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "使用DDD指导业务设计的一点思考 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13298&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-business-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
       {
         "title": "JVM源码分析之堆外内存完全解读 (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13297&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F150614%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

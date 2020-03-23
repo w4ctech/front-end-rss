@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,6 +32,7 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-23-有研究-Hyperledger/fabric-的吗~？](https://www.v2ex.com/t/655364) 
 - [2020-03-23-新版-Edge-目前有类似-Google-Password-Manager、Firefox-Lockwise-的服务吗？或者以后会有吗？](https://www.v2ex.com/t/655272) 
 - [2020-03-23-迫于常用浏览器-n-久不更新了，求一组-chrome-插件](https://www.v2ex.com/t/655268) 
 - [2020-03-23-我被删库了，提醒大家一定要注意数据安全](https://www.v2ex.com/t/655227) 

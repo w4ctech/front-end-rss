@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-23 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -518,6 +518,7 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
 - [【掘金前端】（建议精读）HTTP灵魂之问，巩固你的-HTTP-知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
+- [【V2EX】杭州-海拍客急招前端开发、-Java-、算法、大数据等岗位](https://www.v2ex.com/t/655515)
 - [【V2EX】求助一个算法题，将-a.b.c=10-的格式转换为-map-结构](https://www.v2ex.com/t/655490)
 - [【V2EX】Java-判断一个字符串中是否含有多个字符串效率最高的算法？](https://www.v2ex.com/t/655479)
 - [【V2EX】阿里云-DataStudio-数据同步工具？有开源的替代品吗？](https://www.v2ex.com/t/655464)
@@ -525,7 +526,6 @@
 - [【V2EX】逆行情招人，-hc-多多，不容错过！-杭州、背景-支付宝蚂蚁金服-大数据部-机器学习算法专家-代友转发](https://www.v2ex.com/t/655167)
 - [【V2EX】介意给你的-web-server-加个-https-支持，顺便帮助你访问其它网站吗？](https://www.v2ex.com/t/655128)
 - [【V2EX】滴滴出行-北京、杭州-Java-/Go/前端/iOS/Android/-PHP-/C++/算法等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/655045)
-- [【V2EX】蚂蚁金服大数据部招聘数据挖掘和应用算法岗位（p6p7p8）](https://www.v2ex.com/t/655034)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

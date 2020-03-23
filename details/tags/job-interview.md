@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 20:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,6 +37,7 @@
 - [2020-03-23-面试之路（不断更新）](https://juejin.im/post/5e6c6a0b6fb9a07ce31f0021) 
 - [2020-03-22-前端面试之面试准备](https://juejin.im/post/5e75e19351882549417feca0) 
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc) 
+- [2020-03-23-正在逛技术论坛的招聘经理，看过来，我们需要你](https://www.v2ex.com/t/655495) 
 - [2020-03-23-LinkedIn-北京招聘（长期有效）](https://www.v2ex.com/t/655415) 
 - [2020-03-23-阿里-C2M-春招开始啦~面向-21-届毕业生，个人提供简历和面试建议~](https://www.v2ex.com/t/655411) 
 - [2020-03-23-西安-内推，外企招聘-Java-/-Java-Web-/-PM](https://www.v2ex.com/t/655387) 

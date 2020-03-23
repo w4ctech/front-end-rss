@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 00:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 01:30:16，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,7 @@
 </summary>
 
 
+- [2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html) ![](assets/new.png)  
 - [2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html)  
 - [2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html)  
 - [2020-03-23-印度封锁新德里和75个行政区-澳大利亚疫情升高](http://international.caixin.com/2020-03-23/101532815.html)  
@@ -82,7 +83,6 @@
 - [2020-03-23-3月22日：184个国家和地区累计确诊新冠25.3万例-累计死亡1.1万例（更新中）](http://international.caixin.com/2020-03-23/101532517.html)  
 - [2020-03-23-特稿丨北京入境航班分流全国12机场-国境防疫战持续吃紧](http://companies.caixin.com/2020-03-23/101532470.html)  
 - [2020-03-23-肺炎日记|3月22日：武汉零新增背后，还有无症状感染者](http://china.caixin.com/2020-03-23/101532437.html)  
-- [2020-03-22-大流行手记|3月22日：全球新冠感染突破30万人](http://www.caixin.com/2020-03-22/101532410.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -784,7 +784,7 @@
 </summary>
 
 
-- [2020-03-23-阿里前端也切图？不，人工智能帮你做](https://juejin.im/post/5e78ddd96fb9a07ca1373b81) ![](assets/new.png)  
+- [2020-03-23-阿里前端也切图？不，人工智能帮你做](https://juejin.im/post/5e78ddd96fb9a07ca1373b81)  
 - [2020-03-23-开发一个关于疫情信息的微信机器人](https://juejin.im/post/5e78be43e51d4526f45a9962)  
 - [2020-03-23-Gatsby建站](https://juejin.im/post/5e6b4b61e51d4526d326cfb1)  
 - [2020-03-23-记一次-npm-发布流程（jest-测试，github-自动化部署，检测代码安全）](https://juejin.im/post/5e73694c518825494b3cf1f3)  
@@ -929,14 +929,16 @@
 </summary>
 
 
-- [2020-03-24-求-1080i-视频无损转成-1080P-的简单解决方案](https://www.v2ex.com/t/655549) ![](assets/new.png)  
-- [2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548) ![](assets/new.png)  
-- [2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547) ![](assets/new.png)  
-- [2020-03-23-很纳闷，在二手发了个贴，发现得翻两页才能看到，为什么？](https://www.v2ex.com/t/655545) ![](assets/new.png)  
-- [2020-03-23-微信为什么还不出-操作系统-？](https://www.v2ex.com/t/655544) ![](assets/new.png)  
-- [2020-03-23-有人试过自动调取谷歌页面翻译吗](https://www.v2ex.com/t/655543) ![](assets/new.png)  
-- [2020-03-23-请问-tg-如何开启-callkit?](https://www.v2ex.com/t/655542) ![](assets/new.png)  
-- [2020-03-23-想写一个自动测试项目中-Sql-是否正确的开源作品，大家有什么建议吗？](https://www.v2ex.com/t/655541) ![](assets/new.png)  
+- [2020-03-24-3-月底了,各家公司还是远程面试吗?](https://www.v2ex.com/t/655551) ![](assets/new.png)  
+- [2020-03-24-XR-13.4GM-发热严重](https://www.v2ex.com/t/655550) ![](assets/new.png)  
+- [2020-03-24-求-1080i-视频无损转成-1080P-的简单解决方案](https://www.v2ex.com/t/655549)  
+- [2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548)  
+- [2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547)  
+- [2020-03-23-很纳闷，在二手发了个贴，发现得翻两页才能看到，为什么？](https://www.v2ex.com/t/655545)  
+- [2020-03-23-微信为什么还不出-操作系统-？](https://www.v2ex.com/t/655544)  
+- [2020-03-23-有人试过自动调取谷歌页面翻译吗](https://www.v2ex.com/t/655543)  
+- [2020-03-23-请问-tg-如何开启-callkit?](https://www.v2ex.com/t/655542)  
+- [2020-03-23-想写一个自动测试项目中-Sql-是否正确的开源作品，大家有什么建议吗？](https://www.v2ex.com/t/655541)  
 - [2020-03-23-Python-的协程到底有啥用啊…](https://www.v2ex.com/t/655539)  
 - [2020-03-23-我是抽象翻译的原作者，欢迎大家来玩](https://www.v2ex.com/t/655537)  
 - [2020-03-23-摄影后期使用-ps、lightroom-之类，-macair-够了么?](https://www.v2ex.com/t/655535)  
@@ -947,8 +949,6 @@
 - [2020-03-23-麻烦推荐-安全,可在国内长期漫游的美国手机号](https://www.v2ex.com/t/655526)  
 - [2020-03-23-字节跳动内推入职上百人了！靠谱内推咱们字节见！](https://www.v2ex.com/t/655525)  
 - [2020-03-23-深圳-B-轮在线教育公司职位：前端架构师、高级运维开始工程师](https://www.v2ex.com/t/655524)  
-- [2020-03-23-字节-lark-的加班情况如何,🙏?](https://www.v2ex.com/t/655523)  
-- [2020-03-23-Vagrant-官网上的老旧镜像，试了好几个都下载不了呀](https://www.v2ex.com/t/655522)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -991,6 +991,7 @@
 </summary>
 
 
+- [2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y) ![](assets/new.png)  
 - [2020-03-23-国内无障碍安装-Homebrew](https://toutiao.io/k/sp65v9f)  
 - [2020-03-23-微服务架构案例（三）：数据库选型简介，业务数据规划设计](https://toutiao.io/k/jk1wytw)  
 - [2020-03-23-Go-进程的-HeapReleased-上升，但是-RSS-不下降造成内存泄漏？](https://toutiao.io/k/fq3qsd4)  
@@ -1010,7 +1011,6 @@
 - [2020-03-23-盗版微信通过反编译手段可与正版互联互通，判刑一年，罚金八万](https://toutiao.io/k/cgobid9)  
 - [2020-03-23-存储优化（二）：排序引起的慢查询优化](https://toutiao.io/k/ayfwu7a)  
 - [2020-03-23-上海月薪-1w-和家乡月薪-5000-你选择哪？](https://toutiao.io/k/0r1ktcl)  
-- [2020-03-23-IDEA-+-maven-零基础构建-java-agent-项目](https://toutiao.io/k/18le98d)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

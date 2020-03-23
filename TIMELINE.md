@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 01:30:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-23-印度封锁新德里和75个行政区-澳大利亚疫情升高](http://international.caixin.com/2020-03-23/101532815.html) 
@@ -993,6 +994,8 @@
 - [【知乎日报】2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [【知乎日报】2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [【知乎日报】2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [【V2EX】2020-03-24-3-月底了,各家公司还是远程面试吗?](https://www.v2ex.com/t/655551) 
+- [【V2EX】2020-03-24-XR-13.4GM-发热严重](https://www.v2ex.com/t/655550) 
 - [【V2EX】2020-03-24-求-1080i-视频无损转成-1080P-的简单解决方案](https://www.v2ex.com/t/655549) 
 - [【V2EX】2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548) 
 - [【V2EX】2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547) 
@@ -1693,6 +1696,7 @@
 - [【技术头条】2020-03-21-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y) 
 - [【开发者头条】2020-03-23-国内无障碍安装-Homebrew](https://toutiao.io/k/sp65v9f) 
 - [【开发者头条】2020-03-23-微服务架构案例（三）：数据库选型简介，业务数据规划设计](https://toutiao.io/k/jk1wytw) 
 - [【开发者头条】2020-03-23-Go-进程的-HeapReleased-上升，但是-RSS-不下降造成内存泄漏？](https://toutiao.io/k/fq3qsd4) 

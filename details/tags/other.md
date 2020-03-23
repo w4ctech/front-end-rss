@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-03-24 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 01:30:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html) 
 - [2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html) 
 - [2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html) 
 - [2020-03-23-印度封锁新德里和75个行政区-澳大利亚疫情升高](http://international.caixin.com/2020-03-23/101532815.html) 
@@ -1393,6 +1394,7 @@
 - [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [2020-03-24-XR-13.4GM-发热严重](https://www.v2ex.com/t/655550) 
 - [2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548) 
 - [2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547) 
 - [2020-03-23-很纳闷，在二手发了个贴，发现得翻两页才能看到，为什么？](https://www.v2ex.com/t/655545) 

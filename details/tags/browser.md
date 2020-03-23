@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 17:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,7 @@
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) 
+- [2020-03-23-超实用的请求处理方式](https://juejin.im/post/5e78733e6fb9a07cbb6e61ae) 
 - [2020-03-22-确保Web安全的-HTTPS](https://juejin.im/post/5e7776b9e51d4526f45a9784) 
 - [2020-03-22-程序员眼中浏览器什么样？IE表示：有本事把我卸了](https://juejin.im/post/5e7581426fb9a07ca53062e3) 
 - [2020-03-21-3000字说说跨域！面试官听完之后露出了满意的笑容😎](https://juejin.im/post/5e74e690e51d4526d87c93df) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-23 16:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 17:30:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -488,7 +488,7 @@
 - [【前端日刊】Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【互联网架构师】PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740)
-- [【掘金前端】确保Web安全的-HTTPS](https://juejin.im/post/5e7776b9e51d4526f45a9784)
+- [【掘金前端】超实用的请求处理方式](https://juejin.im/post/5e78733e6fb9a07cbb6e61ae)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,6 +517,7 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
 - [【掘金前端】（建议精读）HTTP灵魂之问，巩固你的-HTTP-知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
+- [【V2EX】社招内推美团推荐技术中心，算法、后台充足-HC-等你来，无接触面试，欢迎投递简历~~](https://www.v2ex.com/t/655420)
 - [【V2EX】逆行情招人，-hc-多多，不容错过！-杭州、背景-支付宝蚂蚁金服-大数据部-机器学习算法专家-代友转发](https://www.v2ex.com/t/655167)
 - [【V2EX】介意给你的-web-server-加个-https-支持，顺便帮助你访问其它网站吗？](https://www.v2ex.com/t/655128)
 - [【V2EX】滴滴出行-北京、杭州-Java-/Go/前端/iOS/Android/-PHP-/C++/算法等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/655045)
@@ -690,6 +691,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】默克尔隔离多明戈确诊-德国禁止超过两人的聚会活动](http://international.caixin.com/2020-03-23/101532636.html)
+- [【武汉肺炎防疫全纪录(财新网)】3月22日：全国新冠累计确诊81093例-境外输入病例已达353例](http://www.caixin.com/2020-03-23/101532500.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】一线城市境外输入病例持续增加（3月22日）](http://database.caixin.com/2020-03-23/101532580.html)
 - [【武汉肺炎防疫全纪录(财新网)】独家|每天仍检出多例无症状感染者-援鄂疾控工作队暂缓撤](http://china.caixin.com/2020-03-23/101532575.html)
 - [【武汉肺炎防疫全纪录(财新网)】安倍考虑接受东京奥运会延期可能-称取消不是选项](http://international.caixin.com/2020-03-23/101532545.html)
@@ -708,8 +711,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】3月21日：全国新冠累计确诊81054例-境外输入持续增加扩至多省（更新中）](http://china.caixin.com/2020-03-22/101532242.html)
 - [【武汉肺炎防疫全纪录(财新网)】3月21日：181个国家和地区累计确诊新冠22万例-累计死亡近万例（更新中）](http://international.caixin.com/2020-03-22/101532229.html)
 - [【武汉肺炎防疫全纪录(财新网)】广东出现首例境外输入关联病例](http://china.caixin.com/2020-03-22/101532211.html)
-- [【武汉肺炎防疫全纪录(财新网)】新疆应急响应级别由三级降为四级-一个月内“三连降”](http://china.caixin.com/2020-03-22/101532199.html)
-- [【武汉肺炎防疫全纪录(财新网)】境外回流病例增幅加大-英国成北京最大输入来源](http://china.caixin.com/2020-03-21/101532170.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

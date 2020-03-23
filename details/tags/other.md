@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1332,6 +1332,7 @@
 - [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd) 
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b) 
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7) 
+- [2020-03-23-阿里前端也切图？不，人工智能帮你做](https://juejin.im/post/5e78ddd96fb9a07ca1373b81) 
 - [2020-03-23-开发一个关于疫情信息的微信机器人](https://juejin.im/post/5e78be43e51d4526f45a9962) 
 - [2020-03-23-Gatsby建站](https://juejin.im/post/5e6b4b61e51d4526d326cfb1) 
 - [2020-03-23-08.二面-2：如何介绍项目及应对项目细节追问](https://juejin.im/post/5e78667ee51d4534ec007fd7) 
@@ -1392,6 +1393,13 @@
 - [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548) 
+- [2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547) 
+- [2020-03-23-很纳闷，在二手发了个贴，发现得翻两页才能看到，为什么？](https://www.v2ex.com/t/655545) 
+- [2020-03-23-微信为什么还不出-操作系统-？](https://www.v2ex.com/t/655544) 
+- [2020-03-23-有人试过自动调取谷歌页面翻译吗](https://www.v2ex.com/t/655543) 
+- [2020-03-23-请问-tg-如何开启-callkit?](https://www.v2ex.com/t/655542) 
+- [2020-03-23-想写一个自动测试项目中-Sql-是否正确的开源作品，大家有什么建议吗？](https://www.v2ex.com/t/655541) 
 - [2020-03-23-Python-的协程到底有啥用啊…](https://www.v2ex.com/t/655539) 
 - [2020-03-23-我是抽象翻译的原作者，欢迎大家来玩](https://www.v2ex.com/t/655537) 
 - [2020-03-23-摄影后期使用-ps、lightroom-之类，-macair-够了么?](https://www.v2ex.com/t/655535) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -98,6 +98,7 @@
 - [2020-03-21-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-21-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-23-BIND9-如何设置服务器显示为域名？](https://www.v2ex.com/t/655339) 
 - [2020-03-23-求助-JSON-对象没有跟着-MySQL-字段更新](https://www.v2ex.com/t/655245) 
 - [2020-03-23-请问主路由不支持-ipv6，旁路由支持-ipv6，可以用-ipv6-访问-ipv6-网站吗？或者访问其它-ipv6-设备？](https://www.v2ex.com/t/655241) 
 - [2020-03-22-求助:-LEDE-软路由用作旁路由,-开启禾斗学上网后,-通过主路由-wifi-连入的设备只能禾斗学上网,-无法访问国内网站.](https://www.v2ex.com/t/655178) 

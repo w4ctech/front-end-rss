@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-23 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -679,6 +679,9 @@
 - [【前端之巅】2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38) 
 - [【前端之巅】2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652) 
 - [【前端之巅】2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8) 
+- [【前端迷】2020-03-22-介绍一位从外包走进腾讯的朋友](https://www.ershicimi.com/p/d66d608bc8f61f5703cde19c0e1f6b08) 
+- [【前端迷】2020-03-21-腾讯云-官网&云加社区急聘前端工程师！](https://www.ershicimi.com/p/db3a861dffde9bfbefc3ed22f4721054) 
+- [【前端迷】2020-03-21-新建前端群，包括北上广深杭前端交流群，求人气！](https://www.ershicimi.com/p/3e596aa1d7f29ba3a3856d9a2ac6eb6a) 
 - [【前端迷】2020-03-20-在阿里我是如何当面试官的](https://www.ershicimi.com/p/bb2bb989085965ebabc63ebed07382d9) 
 - [【前端迷】2020-03-19-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](https://www.ershicimi.com/p/7be448278ed605004d91611f3e694ae0) 
 - [【前端迷】2020-03-18-进互联网名企要刷多少道算法题？](https://www.ershicimi.com/p/4f252cfb2031a49b2b107305a8360f25) 

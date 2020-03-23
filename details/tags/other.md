@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1173,6 +1173,9 @@
 - [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee) 
 - [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652) 
 - [2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8) 
+- [2020-03-22-介绍一位从外包走进腾讯的朋友](https://www.ershicimi.com/p/d66d608bc8f61f5703cde19c0e1f6b08) 
+- [2020-03-21-腾讯云-官网&云加社区急聘前端工程师！](https://www.ershicimi.com/p/db3a861dffde9bfbefc3ed22f4721054) 
+- [2020-03-21-新建前端群，包括北上广深杭前端交流群，求人气！](https://www.ershicimi.com/p/3e596aa1d7f29ba3a3856d9a2ac6eb6a) 
 - [2020-03-19-年薪70W架构师：全套英语学习资源泄露，手慢则无！（禁止外传）](https://www.ershicimi.com/p/7be448278ed605004d91611f3e694ae0) 
 - [2020-03-17-我是如何拿到小米、京东、字节等大厂前端offer的](https://www.ershicimi.com/p/ef48a32c113bd71bf4f02a6a71f7e90d) 
 - [2020-03-17-10-个高级资深前端开发者应该关注的公众号](https://www.ershicimi.com/p/b1a2c3bc8e89f96fa7b655aee8f7ab8c) 

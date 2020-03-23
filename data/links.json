@@ -11107,6 +11107,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "想问个 Netty 的 EventLoopGroup 的 nThread 参数设置，线程数要配置多少才合适？",
+        "link": "https://www.v2ex.com/t/655555",
+        "date": "2020-03-24"
+      },
+      {
         "title": "被谷歌剪掉命根子的出海应用，没几个冤枉的。",
         "link": "https://www.v2ex.com/t/655554",
         "date": "2020-03-24"

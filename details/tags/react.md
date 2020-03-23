@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -26,6 +26,8 @@
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855) 
+- [2020-03-23-解决React应用界面开发常见痛点（一）业务逻辑与UI分离](https://juejin.im/post/5e6df849518825494707fc02) 
+- [2020-03-23-Redux-的前世今生---游戏开始](https://juejin.im/post/5e778cdcf265da57360baf1d) 
 - [2020-03-22-React-Redux原理简析与源码解析](https://juejin.im/post/5e76e861f265da5734026538) 
 - [2020-03-22-译提升你react和js编码的5个技巧](https://juejin.im/post/5e76eb30518825491b11ecf1) 
 - [2020-03-22-如何实现一个React水印组件](https://juejin.im/post/5e75e2b16fb9a07cc10ac552) 

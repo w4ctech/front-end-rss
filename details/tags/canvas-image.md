@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 17:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -19,4 +19,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-03-23-使用cocos进行2D和3D混合开发](https://juejin.im/post/5e75f4cbe51d4526d87c949f) 
 - [2020-03-21-请问：-Boom-3D-这个到底有没有用啊？](https://www.v2ex.com/t/654908) 

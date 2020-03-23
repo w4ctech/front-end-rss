@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 17:30:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,6 +33,7 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-23-花瓣的-chrome-插件不更新了，之前安装的有问题，那现在想要整页滚屏-web-截图，用什么呢？](https://www.v2ex.com/t/655443) 
 - [2020-03-23-支付系统如何在来源请求订单号不同的情况下，尽可能的防止重复放款和扣款？](https://www.v2ex.com/t/655396) 
 - [2020-03-23-Chrome-有没有插件，能实现新键标签页的时候可选跳转页面超过-10-个？](https://www.v2ex.com/t/655385) 
 - [2020-03-23-有研究-Hyperledger/fabric-的吗~？](https://www.v2ex.com/t/655364) 

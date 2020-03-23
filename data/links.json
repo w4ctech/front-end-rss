@@ -7007,6 +7007,46 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "截至3月22日24时河南省新型冠状病毒肺炎疫情最新情况",
+        "link": "http://www.hnwsjsw.gov.cn/contents/858/49047.shtml",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "四川新型冠状病毒肺炎疫情最新情况",
+        "link": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/3/23/891272e8ed5447b89650084e9d2dd7d2.shtml",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "山东省本地无新增确诊病例、疑似病例，累计报告确诊病例759例",
+        "link": "http://wsjkw.shandong.gov.cn/ztzl/rdzt/qlzhfkgz/tzgg/202003/t20200323_3054080.html",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "3月23日安徽省报告新冠肺炎疫情情况",
+        "link": "http://wjw.ah.gov.cn/news_details_56055.html",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "2020年3月22日河北省新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/402558.jhtml",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "3月22日0-24时，吉林全省无新增确诊病例，无新增疑似病例。连续28天零报告。",
+        "link": "http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202003/t20200323_6919346.html",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "2020年3月22日0-24时,黑龙江省无新增确诊病例。无新增疑似病例。无新增治愈出院病例。无新增死亡病例。",
+        "link": "http://wsjkw.hlj.gov.cn/index.php/Home/Zwgk/show/newsid/8161/navid/42/stypeid/",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "2020年3月22日广西新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0323/70436.html",
+        "date": "2020-03-23"
+      },
+      {
         "title": "上海新增10例境外输入病例",
         "link": "http://m.weibo.cn/2803301701/4485546724744127",
         "date": "2020-03-23"
@@ -9801,6 +9841,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系",
+        "link": "https://juejin.im/post/5e76bd516fb9a07cce750746",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "webpack-dev-middleware 源码解读",
+        "link": "https://juejin.im/post/5e7782dbf265da57584dc95e",
+        "date": "2020-03-23"
+      },
+      {
         "title": "确保Web安全的 HTTPS",
         "link": "https://juejin.im/post/5e7776b9e51d4526f45a9784",
         "date": "2020-03-22"
@@ -10400,6 +10450,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "各位使用天威的 v 友们，请问你们可以 ping 通这个 ip 么？",
+        "link": "https://www.v2ex.com/t/655234",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "(树洞一下)21 届双非简历投出去犹如石沉大海，快自闭了",
+        "link": "https://www.v2ex.com/t/655233",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "求助，在微信公众号录制视频并上传怎么做？",
+        "link": "https://www.v2ex.com/t/655232",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Android 开发技术周报 Issue#273",
+        "link": "https://www.v2ex.com/t/655231",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "科学研究明表，字汉序顺定一不并响影阅读。",
+        "link": "https://www.v2ex.com/t/655230",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Go 中为什么切片不用初始化就可以使用",
+        "link": "https://www.v2ex.com/t/655229",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "我被删库了，提醒大家一定要注意数据安全",
+        "link": "https://www.v2ex.com/t/655227",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "rust-china 中文社区",
+        "link": "https://www.v2ex.com/t/655226",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "[Shopee 内推] 老司机总结（简历篇）",
+        "link": "https://www.v2ex.com/t/655225",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "狗血，好像在假货宝上买到了假的 STM32",
+        "link": "https://www.v2ex.com/t/655224",
+        "date": "2020-03-23"
+      },
       {
         "title": "请问什么样的 Java 项目用 Spring 是比较好的？",
         "link": "https://www.v2ex.com/t/655223",
@@ -12454,6 +12554,71 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Spring Boot 2.x（十二）：Swagger 2 的正确玩儿法",
+        "link": "https://toutiao.io/k/b7u1c91",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "盗版微信通过反编译手段可与正版互联互通，判刑一年，罚金八万",
+        "link": "https://toutiao.io/k/cgobid9",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "存储优化（二）：排序引起的慢查询优化",
+        "link": "https://toutiao.io/k/ayfwu7a",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "上海月薪 1w 和家乡月薪 5000 你选择哪？",
+        "link": "https://toutiao.io/k/0r1ktcl",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "IDEA + maven 零基础构建 java agent 项目",
+        "link": "https://toutiao.io/k/18le98d",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "不那么完美的 RSS 订阅方案 ：feedly + RSSHub Radar",
+        "link": "https://toutiao.io/k/f5fdlv3",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "使用 Codeception 对 Yii2 进行 API 测试",
+        "link": "https://toutiao.io/k/69ojqjg",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "前端响应式你了解多少？",
+        "link": "https://toutiao.io/k/bz0ytn4",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Java 老矣，尚能饭否？2020 Java 生态系统报告出炉",
+        "link": "https://toutiao.io/k/h1qg977",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Golang 连接池的几种实现案例",
+        "link": "https://toutiao.io/k/fsb6k1p",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "应用层加密普及后，网络层压缩就没用了",
+        "link": "https://toutiao.io/k/7wcr8yd",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "写 React Hooks 前必读",
+        "link": "https://toutiao.io/k/pqpcsln",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "知道 5G 将带给你哪些新机会吗？",
+        "link": "https://toutiao.io/k/pxgksqx",
+        "date": "2020-03-23"
+      },
       {
         "title": "高效的编码：我的 VS Code 设置",
         "link": "https://toutiao.io/k/4flcfyq",

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-23 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -447,6 +447,7 @@
 - [【V2EX】Chrome-extension-input-性能问题](https://www.v2ex.com/t/654851)
 - [【V2EX】iPhone-上有分项测试-AES-解密性能的-benchmark-吗？](https://www.v2ex.com/t/654827)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13289&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyXvkUDT8CHt-O5rD11a6MQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】存储优化（二）：排序引起的慢查询优化](https://toutiao.io/k/ayfwu7a)
 - [【开发者头条】推荐-优化-if-else-代码的八种方案](https://toutiao.io/k/1sofava)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -511,6 +512,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【前端日刊】Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)
+- [【掘金前端】（建议精读）HTTP灵魂之问，巩固你的-HTTP-知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746)
 - [【V2EX】逆行情招人，-hc-多多，不容错过！-杭州、背景-支付宝蚂蚁金服-大数据部-机器学习算法专家-代友转发](https://www.v2ex.com/t/655167)
 - [【V2EX】介意给你的-web-server-加个-https-支持，顺便帮助你访问其它网站吗？](https://www.v2ex.com/t/655128)
 - [【V2EX】滴滴出行-北京、杭州-Java-/Go/前端/iOS/Android/-PHP-/C++/算法等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/655045)

@@ -8789,6 +8789,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "尤瓦尔·赫拉利《冠状病毒之后的世界》",
+        "link": "http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html",
+        "date": "2020-03-23"
+      },
+      {
         "title": "科技爱好者周刊：第 99 期",
         "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html",
         "date": "2020-03-20"
@@ -11056,6 +11061,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Python 的协程到底有啥用啊…",
+        "link": "https://www.v2ex.com/t/655539",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "我是抽象翻译的原作者，欢迎大家来玩",
+        "link": "https://www.v2ex.com/t/655537",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "摄影后期使用 ps、lightroom 之类， macair 够了么?",
+        "link": "https://www.v2ex.com/t/655535",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "[Shopee 内推] 回馈社区 提供自助内推通道",
+        "link": "https://www.v2ex.com/t/655531",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "似乎一二线的程序员不多",
+        "link": "https://www.v2ex.com/t/655530",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "bat 运行 Python GUI 程序如何不显示 CMD 窗口",
+        "link": "https://www.v2ex.com/t/655528",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "字节跳动电商部门服务端直招，爆炸缺人，欢迎来撩～",
+        "link": "https://www.v2ex.com/t/655527",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "麻烦推荐 安全,可在国内长期漫游的美国手机号",
+        "link": "https://www.v2ex.com/t/655526",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "字节跳动内推入职上百人了！靠谱内推咱们字节见！",
+        "link": "https://www.v2ex.com/t/655525",
+        "date": "2020-03-23"
+      },
       {
         "title": "深圳 B 轮在线教育公司职位：前端架构师、高级运维开始工程师",
         "link": "https://www.v2ex.com/t/655524",
@@ -14318,6 +14368,61 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "Android 从 MVP 到 MVVM (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13309&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNVLEw1DdRFvoFRxN2LhZ7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "新技能：用 Python 写一个安卓 APP (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13308&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcAEz3F3oTpqDnoO5ONX3iA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "写给软件工程师的 30 条建议 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13307&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY4_sa1KtJj4_8JCaNrU3Xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "Android 锁屏无法继续定位问题 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13306&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fk4xuY2ntVDWVZQ9oEJ1Uuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "程序员究竟能干多少年？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13305&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPkZVGoQFQ8R_EjVa7ipsnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "我玩的第一个赚零花钱小项目 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUFxMSwHiTbu5AgLvGVp3cw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "YYYY-MM-DD 的黑锅，服务端去背！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMDvOSGRk_YiCsLvGQSM2OA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "大神碉堡！99 行代码实现的神奇效果 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBu_iU9895rVbPuLgx6otuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "7 个开源的 Spring Boot 前后端分离项目，一定要收藏！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13301&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7UsnbkJ1g0RHima2WlJN3Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "主流的 Python IDE，你选对了吗？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13300&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCD2IkXdP3kDXvxo-_Bd8ng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "编写高性能 Java 代码的最佳实践 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13299&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_WVdIJDQOsMkjNR3fzZECA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-23"
+      },
       {
         "title": "使用DDD指导业务设计的一点思考 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13298&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-business-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

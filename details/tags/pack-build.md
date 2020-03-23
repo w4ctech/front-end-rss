@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -33,6 +33,7 @@
 - [2020-03-18-npm-is-joining-GitHub](https://www.ershicimi.com/p/40e5a64fcae42bbe5088577ee6b3684c) 
 - [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) 
 - [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) 
+- [2020-03-23-webpack-Parser对JS表达式语句的解析计算](https://juejin.im/post/5e748587f265da576429b06e) 
 - [2020-03-23-webpack-dev-middleware-源码解读](https://juejin.im/post/5e7782dbf265da57584dc95e) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-03-21-构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web) 

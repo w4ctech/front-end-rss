@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-23 23:30:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 00:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-03-23-当前全国本土疫情传播已基本阻断，全球疫情大流行下要外防输入内防反弹](http://m.weibo.cn/2803301701/4485741394081098) ![](assets/new.png)  
+- [2020-03-23-瑞士新冠肺炎确诊8060例](http://m.weibo.cn/3057540037/4485724411820250) ![](assets/new.png)  
 - [2020-03-23-西班牙新冠肺炎增至33089例](http://m.weibo.cn/2803301701/4485713808178570)  
 - [2020-03-23-马来西亚新增212例，新冠肺炎确诊病例-累计确诊1518例](http://m.weibo.cn/3057540037/4485701074166387)  
 - [2020-03-23-伊朗新增1411例新冠肺炎，伊朗累计确诊升至23094例](http://m.weibo.cn/2803301701/4485699602834850)  
@@ -112,8 +114,6 @@
 - [2020-03-23-美国新增6670例新冠肺炎，美国确诊人数突破3万](http://m.weibo.cn/3057540037/4485578869002565)  
 - [2020-03-23-红宝石公主号新增48例确诊](http://m.weibo.cn/2656274875/4485577526929986)  
 - [2020-03-23-上海3月22日无新增本地新冠肺炎确诊病例-治愈出院1例-新增境外输入10例](http://wsjkw.sh.gov.cn/xwfb/20200323/8f0e00f088374e65adf305db08e83064.html)  
-- [2020-03-23-2020年3月23日天津市新型冠状病毒肺炎疫情情况](http://wsjk.tj.gov.cn/art/2020/3/23/art_87_72618.html)  
-- [2020-03-23-陕西无新增境外输入新冠肺炎-239例治愈出院](http://sxwjw.shaanxi.gov.cn/art/2020/3/23/art_9_69112.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -575,7 +575,7 @@
 </summary>
 
 
-- [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html) ![](assets/new.png)  
+- [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)  
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
@@ -929,15 +929,15 @@
 </summary>
 
 
-- [2020-03-23-Python-的协程到底有啥用啊…](https://www.v2ex.com/t/655539) ![](assets/new.png)  
-- [2020-03-23-我是抽象翻译的原作者，欢迎大家来玩](https://www.v2ex.com/t/655537) ![](assets/new.png)  
-- [2020-03-23-摄影后期使用-ps、lightroom-之类，-macair-够了么?](https://www.v2ex.com/t/655535) ![](assets/new.png)  
-- [2020-03-23-Shopee-内推-回馈社区-提供自助内推通道](https://www.v2ex.com/t/655531) ![](assets/new.png)  
-- [2020-03-23-似乎一二线的程序员不多](https://www.v2ex.com/t/655530) ![](assets/new.png)  
-- [2020-03-23-bat-运行-Python-GUI-程序如何不显示-CMD-窗口](https://www.v2ex.com/t/655528) ![](assets/new.png)  
-- [2020-03-23-字节跳动电商部门服务端直招，爆炸缺人，欢迎来撩～](https://www.v2ex.com/t/655527) ![](assets/new.png)  
-- [2020-03-23-麻烦推荐-安全,可在国内长期漫游的美国手机号](https://www.v2ex.com/t/655526) ![](assets/new.png)  
-- [2020-03-23-字节跳动内推入职上百人了！靠谱内推咱们字节见！](https://www.v2ex.com/t/655525) ![](assets/new.png)  
+- [2020-03-23-Python-的协程到底有啥用啊…](https://www.v2ex.com/t/655539)  
+- [2020-03-23-我是抽象翻译的原作者，欢迎大家来玩](https://www.v2ex.com/t/655537)  
+- [2020-03-23-摄影后期使用-ps、lightroom-之类，-macair-够了么?](https://www.v2ex.com/t/655535)  
+- [2020-03-23-Shopee-内推-回馈社区-提供自助内推通道](https://www.v2ex.com/t/655531)  
+- [2020-03-23-似乎一二线的程序员不多](https://www.v2ex.com/t/655530)  
+- [2020-03-23-bat-运行-Python-GUI-程序如何不显示-CMD-窗口](https://www.v2ex.com/t/655528)  
+- [2020-03-23-字节跳动电商部门服务端直招，爆炸缺人，欢迎来撩～](https://www.v2ex.com/t/655527)  
+- [2020-03-23-麻烦推荐-安全,可在国内长期漫游的美国手机号](https://www.v2ex.com/t/655526)  
+- [2020-03-23-字节跳动内推入职上百人了！靠谱内推咱们字节见！](https://www.v2ex.com/t/655525)  
 - [2020-03-23-深圳-B-轮在线教育公司职位：前端架构师、高级运维开始工程师](https://www.v2ex.com/t/655524)  
 - [2020-03-23-字节-lark-的加班情况如何,🙏?](https://www.v2ex.com/t/655523)  
 - [2020-03-23-Vagrant-官网上的老旧镜像，试了好几个都下载不了呀](https://www.v2ex.com/t/655522)  
@@ -960,17 +960,17 @@
 </summary>
 
 
-- [2020-03-23-Android-从-MVP-到-MVVM-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13309&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNVLEw1DdRFvoFRxN2LhZ7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-新技能：用-Python-写一个安卓-APP-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13308&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcAEz3F3oTpqDnoO5ONX3iA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-写给软件工程师的-30-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13307&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY4_sa1KtJj4_8JCaNrU3Xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-Android-锁屏无法继续定位问题-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13306&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fk4xuY2ntVDWVZQ9oEJ1Uuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-程序员究竟能干多少年？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13305&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPkZVGoQFQ8R_EjVa7ipsnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-我玩的第一个赚零花钱小项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUFxMSwHiTbu5AgLvGVp3cw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMDvOSGRk_YiCsLvGQSM2OA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-大神碉堡！99-行代码实现的神奇效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBu_iU9895rVbPuLgx6otuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-7-个开源的-Spring-Boot-前后端分离项目，一定要收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13301&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7UsnbkJ1g0RHima2WlJN3Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13300&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCD2IkXdP3kDXvxo-_Bd8ng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-03-23-编写高性能-Java-代码的最佳实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13299&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_WVdIJDQOsMkjNR3fzZECA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-03-23-Android-从-MVP-到-MVVM-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13309&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNVLEw1DdRFvoFRxN2LhZ7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-新技能：用-Python-写一个安卓-APP-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13308&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcAEz3F3oTpqDnoO5ONX3iA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-写给软件工程师的-30-条建议-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13307&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY4_sa1KtJj4_8JCaNrU3Xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-Android-锁屏无法继续定位问题-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13306&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fk4xuY2ntVDWVZQ9oEJ1Uuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-程序员究竟能干多少年？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13305&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPkZVGoQFQ8R_EjVa7ipsnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-我玩的第一个赚零花钱小项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13304&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUFxMSwHiTbu5AgLvGVp3cw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13303&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMDvOSGRk_YiCsLvGQSM2OA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-大神碉堡！99-行代码实现的神奇效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13302&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBu_iU9895rVbPuLgx6otuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-7-个开源的-Spring-Boot-前后端分离项目，一定要收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13301&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7UsnbkJ1g0RHima2WlJN3Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13300&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCD2IkXdP3kDXvxo-_Bd8ng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-03-23-编写高性能-Java-代码的最佳实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13299&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_WVdIJDQOsMkjNR3fzZECA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-03-23-使用DDD指导业务设计的一点思考-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13298&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fddd-business-design%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-03-21-JVM源码分析之堆外内存完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13297&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F150614%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-03-21-FIDL：Flutter界的AIDL，不局限于基础数据类型-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13296&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoFd_K8U2ALpGYj-vg9zThQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

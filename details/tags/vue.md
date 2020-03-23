@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,7 @@
 - [2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
 - [2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [2020-03-23-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/022867fb642e7799ce0d77d9bf2b46dc) 
 - [2020-03-16-Vue知识点自检清单下](https://www.ershicimi.com/p/20bcc66daf5f5b911e3910f65246512b) 
 - [2020-03-13-Vue常见的考点下](https://www.ershicimi.com/p/84e0897bce7c6f8a80a9c8c73b86f983) 
 - [2020-03-11-前端技术者在-Vue3.0-的浪潮下如何奋勇激进？](https://www.ershicimi.com/p/7f48fe97f70e45bccb1089f693a9e122) 

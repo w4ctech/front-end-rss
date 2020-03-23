@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-23 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,7 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/022867fb642e7799ce0d77d9bf2b46dc)
 - [【Vue中文社区】Vue知识点自检清单下](https://www.ershicimi.com/p/20bcc66daf5f5b911e3910f65246512b)
 - [【Vue中文社区】Vue常见的考点下](https://www.ershicimi.com/p/84e0897bce7c6f8a80a9c8c73b86f983)
 - [【前端大全】前端技术者在-Vue3.0-的浪潮下如何奋勇激进？](https://www.ershicimi.com/p/7f48fe97f70e45bccb1089f693a9e122)
@@ -94,7 +95,6 @@
 - [【前端外刊评论】使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2)
 - [【全栈前端精选】Vue这些底层原理，你都熟练了么？](https://www.ershicimi.com/p/c79fc71fe1b0d58abf9291703b7a4636)
 - [【前端宇宙】Vue人人都会，你的优势应该在哪里？](https://www.ershicimi.com/p/af5f02be2dc20130ef29ad9463818427)
-- [【前端瓶子君】手把手教你使用-Docker-部署-Vue.js-项目](https://www.ershicimi.com/p/a4d5d91f69b9198ba9b1439350cacd49)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

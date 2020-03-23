@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-24 03:30:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 04:30:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -477,6 +477,7 @@
 - [【前端大全】又来了！Google-和微软在浏览器上的互掐](https://www.ershicimi.com/p/5bc6084825cf2a06eb65efcb3a83c965)
 - [【前端开发】别用收费的Postman了，考虑一下免费开源的Postwoman](https://www.ershicimi.com/p/e76cbad824eaa7d85914a77c17597c3e)
 - [【前端开发】面试官：浏览器输入URL后发生了什么？](https://www.ershicimi.com/p/6c6dec0d45287f729c1743af6ee2a0f6)
+- [【前端瓶子君】99%的人理解错-HTTP-中-GET-与-POST-的区别](https://www.ershicimi.com/p/cfc92dea6f33b1efb71307c6a8c2e20e)
 - [【前端瓶子君】前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/3cb23daad1fc03a5136a7a4f48e01a41)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
@@ -490,7 +491,6 @@
 - [【前端日刊】Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【互联网架构师】PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740)
-- [【掘金前端】超实用的请求处理方式](https://juejin.im/post/5e78733e6fb9a07cbb6e61ae)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

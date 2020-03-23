@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-23 18:30:20，:rocket: 更新条数: +37， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-23 19:30:21，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
@@ -63,7 +63,9 @@
 </summary>
 
 
-- [2020-03-23-研究揭新冠主要蛋白酶晶体结构-有助研发抑制剂](http://science.caixin.com/2020-03-23/101532737.html) ![](assets/new.png)  
+- [2020-03-23-浙江应急响应级别由二级降为三级-已连续30天无本地新增病例](http://china.caixin.com/2020-03-23/101532757.html) ![](assets/new.png)  
+- [2020-03-23-国家移民管理局:不如实填报信息不履行规定手续的外国人不准入境](http://china.caixin.com/2020-03-23/101532749.html) ![](assets/new.png)  
+- [2020-03-23-研究揭新冠主要蛋白酶晶体结构-有助研发抑制剂](http://science.caixin.com/2020-03-23/101532737.html)  
 - [2020-03-23-默克尔隔离多明戈确诊-德国禁止超过两人的聚会活动](http://international.caixin.com/2020-03-23/101532636.html)  
 - [2020-03-23-3月22日：全国新冠累计确诊81093例-境外输入病例已达353例](http://www.caixin.com/2020-03-23/101532500.html)  
 - [2020-03-23-【境内疫情观察】一线城市境外输入病例持续增加（3月22日）](http://database.caixin.com/2020-03-23/101532580.html)  
@@ -81,8 +83,6 @@
 - [2020-03-22-北京东城警方通报“武汉刑满释放人员黄某英进京事件”](http://china.caixin.com/2020-03-22/101532374.html)  
 - [2020-03-22-意大利西班牙新增死亡数均创新高-德国低死亡率或因检测广泛所致](http://international.caixin.com/2020-03-22/101532310.html)  
 - [2020-03-22-本土病例陆续“清零”后，多省份明确开学时间](http://china.caixin.com/2020-03-22/101532258.html)  
-- [2020-03-22-全球新冠感染突破30万人-美国日增逾6000检测瓶颈犹存](http://international.caixin.com/2020-03-22/101532252.html)  
-- [2020-03-22-【境内疫情观察】一线城市境外输入病例持续增加（3月21日）](http://database.caixin.com/2020-03-22/101532272.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-03-23-伊朗新增1411例新冠肺炎，伊朗累计确诊升至23094例](http://m.weibo.cn/2803301701/4485699602834850) ![](assets/new.png)  
-- [2020-03-23-香港新增39例新冠肺炎，一名港口卫生科医生确诊新冠肺炎](http://m.weibo.cn/2803301701/4485699049291379) ![](assets/new.png)  
-- [2020-03-23-全球新冠肺炎确诊病例达341365例](http://m.weibo.cn/3057540037/4485686801848438) ![](assets/new.png)  
-- [2020-03-23-德国累计确诊22672例新冠肺炎](http://m.weibo.cn/2803301701/4485683919677506) ![](assets/new.png)  
+- [2020-03-23-马来西亚新增212例，新冠肺炎确诊病例-累计确诊1518例](http://m.weibo.cn/3057540037/4485701074166387) ![](assets/new.png)  
+- [2020-03-23-伊朗新增1411例新冠肺炎，伊朗累计确诊升至23094例](http://m.weibo.cn/2803301701/4485699602834850)  
+- [2020-03-23-香港新增39例新冠肺炎，一名港口卫生科医生确诊新冠肺炎](http://m.weibo.cn/2803301701/4485699049291379)  
+- [2020-03-23-全球新冠肺炎确诊病例达341365例](http://m.weibo.cn/3057540037/4485686801848438)  
+- [2020-03-23-德国累计确诊22672例新冠肺炎](http://m.weibo.cn/2803301701/4485683919677506)  
 - [2020-03-23-浙江应急响应级别调整为三级](http://m.weibo.cn/2656274875/4485664164718071)  
 - [2020-03-23-台湾新增26例确诊病例，累计确诊逼近200例](http://m.weibo.cn/3057540037/4485647995618358)  
 - [2020-03-23-美国特勤局一人确诊新冠肺炎](http://m.weibo.cn/3057540037/4485632149405934)  
@@ -113,7 +114,6 @@
 - [2020-03-23-2020年3月23日天津市新型冠状病毒肺炎疫情情况](http://wsjk.tj.gov.cn/art/2020/3/23/art_87_72618.html)  
 - [2020-03-23-陕西无新增境外输入新冠肺炎-239例治愈出院](http://sxwjw.shaanxi.gov.cn/art/2020/3/23/art_9_69112.html)  
 - [2020-03-23-北京昨日无新增报告本地新冠肺炎确诊病例，新增境外输入病例10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200323_1726902.html)  
-- [2020-03-23-福建省新型冠状病毒肺炎疫情情况](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202003/t20200323_5220686.htm)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -589,6 +589,16 @@
 </summary>
 
 
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
+- [2018-12-25-社交传播新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -773,10 +783,11 @@
 </summary>
 
 
-- [2020-03-23-记一次-npm-发布流程（jest-测试，github-自动化部署，检测代码安全）](https://juejin.im/post/5e73694c518825494b3cf1f3) ![](assets/new.png)  
-- [2020-03-23-使用cocos进行2D和3D混合开发](https://juejin.im/post/5e75f4cbe51d4526d87c949f) ![](assets/new.png)  
-- [2020-03-23-08.二面-2：如何介绍项目及应对项目细节追问](https://juejin.im/post/5e78667ee51d4534ec007fd7) ![](assets/new.png)  
-- [2020-03-23-vue生命周期详解](https://juejin.im/post/5e779cfd6fb9a07cc01a47d1) ![](assets/new.png)  
+- [2020-03-23-Gatsby建站](https://juejin.im/post/5e6b4b61e51d4526d326cfb1) ![](assets/new.png)  
+- [2020-03-23-记一次-npm-发布流程（jest-测试，github-自动化部署，检测代码安全）](https://juejin.im/post/5e73694c518825494b3cf1f3)  
+- [2020-03-23-使用cocos进行2D和3D混合开发](https://juejin.im/post/5e75f4cbe51d4526d87c949f)  
+- [2020-03-23-08.二面-2：如何介绍项目及应对项目细节追问](https://juejin.im/post/5e78667ee51d4534ec007fd7)  
+- [2020-03-23-vue生命周期详解](https://juejin.im/post/5e779cfd6fb9a07cc01a47d1)  
 - [2020-03-23-面试专题总结：手撕代码](https://juejin.im/post/5e787b42e51d45272054dfae)  
 - [2020-03-23-CSRF攻击](https://juejin.im/post/5e7873ede51d452728649614)  
 - [2020-03-23-超实用的请求处理方式](https://juejin.im/post/5e78733e6fb9a07cbb6e61ae)  
@@ -792,7 +803,6 @@
 - [2020-03-23-一篇就够·通关Event-Loop执行顺序](https://juejin.im/post/5e783a1a518825495c65b386)  
 - [2020-03-23-【中高级前端】从零实现-redux-和-react-redux（吐血整理）](https://juejin.im/post/5e784afa5188252c061147e2)  
 - [2020-03-23-编写可复用的组件，我们可以收获很多](https://juejin.im/post/5e76d6eef265da5732554e32)  
-- [2020-03-23-今天聊：2020-年疫情下的前端核心竞争力](https://juejin.im/post/5e7843bf6fb9a07cb83e4914)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -918,26 +928,26 @@
 </summary>
 
 
-- [2020-03-23-公众号推荐的技术课程靠谱吗](https://www.v2ex.com/t/655460) ![](assets/new.png)  
-- [2020-03-23-Arch-/-Linux-环境下大家用哪个品牌的数位板](https://www.v2ex.com/t/655459) ![](assets/new.png)  
-- [2020-03-23-997-的小伙子太难了，刚拒了创业公司又遇外包](https://www.v2ex.com/t/655458) ![](assets/new.png)  
-- [2020-03-23-求推荐-WIN10-下的支持人脸识别人脸解锁的摄像头](https://www.v2ex.com/t/655455) ![](assets/new.png)  
-- [2020-03-23-卡片轮动（像-iOS-后台这种）特效真名叫啥](https://www.v2ex.com/t/655454) ![](assets/new.png)  
-- [2020-03-23-实体机安装-Linux-，有好用的快照备份系统的方法吗？](https://www.v2ex.com/t/655453) ![](assets/new.png)  
-- [2020-03-23-手机网页，如何在-pc-上显示-，保持长条两边留空](https://www.v2ex.com/t/655452) ![](assets/new.png)  
-- [2020-03-23-在家办公显示器选择推荐，-34-寸曲面屏？还是-27-寸双屏？](https://www.v2ex.com/t/655451) ![](assets/new.png)  
-- [2020-03-23-使用-4g-的时候，登录记录的-ip-会时常出错吗](https://www.v2ex.com/t/655450) ![](assets/new.png)  
-- [2020-03-23-mysql-的四种隔离级别能否与这四种描述一一对应？（我觉得我这种描述好用点。。。）](https://www.v2ex.com/t/655449) ![](assets/new.png)  
-- [2020-03-23-今天又发生了什么？我的基金又又又绿了-/-捂脸](https://www.v2ex.com/t/655448) ![](assets/new.png)  
-- [2020-03-23-做了个-GitHub-Top-100-Developers-最新活动的网站，支持-100-种常用编程语言](https://www.v2ex.com/t/655447) ![](assets/new.png)  
-- [2020-03-23-疲劳驾驶是怎么判断的啊](https://www.v2ex.com/t/655446) ![](assets/new.png)  
-- [2020-03-23-Serverless-多环境配置方案探索](https://www.v2ex.com/t/655445) ![](assets/new.png)  
-- [2020-03-23-这两天在用飞书，真心不错，非常互联网](https://www.v2ex.com/t/655444) ![](assets/new.png)  
-- [2020-03-23-花瓣的-chrome-插件不更新了，之前安装的有问题，那现在想要整页滚屏-web-截图，用什么呢？](https://www.v2ex.com/t/655443) ![](assets/new.png)  
-- [2020-03-23-毕业论文求助-V-友思路](https://www.v2ex.com/t/655442) ![](assets/new.png)  
-- [2020-03-23-60-套开源免费企业网站源码，响应式布局，可视化编辑，支持多端小程序，拿走不谢！](https://www.v2ex.com/t/655440) ![](assets/new.png)  
-- [2020-03-23-计算机网络的-ISO-模型为什么有七层结构和五层结构之分？请大神们赐教。](https://www.v2ex.com/t/655439) ![](assets/new.png)  
-- [2020-03-23-杭州招前端工程师，双休，不-996，公司现金流健康](https://www.v2ex.com/t/655438) ![](assets/new.png)  
+- [2020-03-23-舔狗日记-源码发布](https://www.v2ex.com/t/655477) ![](assets/new.png)  
+- [2020-03-23-果然是套路云，亏我在他家买了价值大几万的域名](https://www.v2ex.com/t/655476) ![](assets/new.png)  
+- [2020-03-23-阿里云的云监控创建规则-Bug，请相关开发人员来认领一下](https://www.v2ex.com/t/655475) ![](assets/new.png)  
+- [2020-03-23-全职远程工作-Zine-诚聘-资深服务端-开发者](https://www.v2ex.com/t/655474) ![](assets/new.png)  
+- [2020-03-23-想爬一个棋牌软件的接口怎么弄。。](https://www.v2ex.com/t/655473) ![](assets/new.png)  
+- [2020-03-23-关于谷歌-admob-的收入问题，请大佬们探讨回复](https://www.v2ex.com/t/655472) ![](assets/new.png)  
+- [2020-03-23-MySQL-数据库迁移（非全库）有什么好用的工具？](https://www.v2ex.com/t/655471) ![](assets/new.png)  
+- [2020-03-23-PHP-转-go-或者学习-go-的来看看了](https://www.v2ex.com/t/655470) ![](assets/new.png)  
+- [2020-03-23-有没有好看的扁平化风格的网站，发来看看找找灵感](https://www.v2ex.com/t/655469) ![](assets/new.png)  
+- [2020-03-23-话说-twitch-赚不赚钱，同样是做直播的，为啥斗鱼就偏要做的这么恶心人！](https://www.v2ex.com/t/655468) ![](assets/new.png)  
+- [2020-03-23-求教-X25519-的问题](https://www.v2ex.com/t/655467) ![](assets/new.png)  
+- [2020-03-23-单线程下载文件会存在-IO-阻塞的原因是什么](https://www.v2ex.com/t/655466) ![](assets/new.png)  
+- [2020-03-23-使用-JPA-的-nativeQuery-问题求解](https://www.v2ex.com/t/655465) ![](assets/new.png)  
+- [2020-03-23-阿里云-DataStudio-数据同步工具？有开源的替代品吗？](https://www.v2ex.com/t/655464) ![](assets/new.png)  
+- [2020-03-23-看到最近好多讨论自由职业，分享下我的小程序收益](https://www.v2ex.com/t/655462) ![](assets/new.png)  
+- [2020-03-23-公众号推荐的技术课程靠谱吗](https://www.v2ex.com/t/655460)  
+- [2020-03-23-Arch-/-Linux-环境下大家用哪个品牌的数位板](https://www.v2ex.com/t/655459)  
+- [2020-03-23-997-的小伙子太难了，刚拒了创业公司又遇外包](https://www.v2ex.com/t/655458)  
+- [2020-03-23-求推荐-WIN10-下的支持人脸识别人脸解锁的摄像头](https://www.v2ex.com/t/655455)  
+- [2020-03-23-卡片轮动（像-iOS-后台这种）特效真名叫啥](https://www.v2ex.com/t/655454)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

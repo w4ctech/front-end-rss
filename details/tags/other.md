@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-03-23 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-23-浙江应急响应级别由二级降为三级-已连续30天无本地新增病例](http://china.caixin.com/2020-03-23/101532757.html) 
+- [2020-03-23-国家移民管理局:不如实填报信息不履行规定手续的外国人不准入境](http://china.caixin.com/2020-03-23/101532749.html) 
 - [2020-03-23-研究揭新冠主要蛋白酶晶体结构-有助研发抑制剂](http://science.caixin.com/2020-03-23/101532737.html) 
 - [2020-03-23-默克尔隔离多明戈确诊-德国禁止超过两人的聚会活动](http://international.caixin.com/2020-03-23/101532636.html) 
 - [2020-03-23-3月22日：全国新冠累计确诊81093例-境外输入病例已达353例](http://www.caixin.com/2020-03-23/101532500.html) 
@@ -1235,6 +1237,12 @@
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) 
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html) 
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html) 
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2018-12-25-社交传播新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
 - [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/) 
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/) 
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
@@ -1318,6 +1326,7 @@
 - [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd) 
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b) 
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7) 
+- [2020-03-23-Gatsby建站](https://juejin.im/post/5e6b4b61e51d4526d326cfb1) 
 - [2020-03-23-08.二面-2：如何介绍项目及应对项目细节追问](https://juejin.im/post/5e78667ee51d4534ec007fd7) 
 - [2020-03-23-CSRF攻击](https://juejin.im/post/5e7873ede51d452728649614) 
 - [2020-03-23-NutUI-CLI源码解析](https://juejin.im/post/5e785c496fb9a07c85145216) 
@@ -1376,6 +1385,18 @@
 - [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [2020-03-23-舔狗日记-源码发布](https://www.v2ex.com/t/655477) 
+- [2020-03-23-果然是套路云，亏我在他家买了价值大几万的域名](https://www.v2ex.com/t/655476) 
+- [2020-03-23-阿里云的云监控创建规则-Bug，请相关开发人员来认领一下](https://www.v2ex.com/t/655475) 
+- [2020-03-23-全职远程工作-Zine-诚聘-资深服务端-开发者](https://www.v2ex.com/t/655474) 
+- [2020-03-23-想爬一个棋牌软件的接口怎么弄。。](https://www.v2ex.com/t/655473) 
+- [2020-03-23-关于谷歌-admob-的收入问题，请大佬们探讨回复](https://www.v2ex.com/t/655472) 
+- [2020-03-23-MySQL-数据库迁移（非全库）有什么好用的工具？](https://www.v2ex.com/t/655471) 
+- [2020-03-23-PHP-转-go-或者学习-go-的来看看了](https://www.v2ex.com/t/655470) 
+- [2020-03-23-有没有好看的扁平化风格的网站，发来看看找找灵感](https://www.v2ex.com/t/655469) 
+- [2020-03-23-求教-X25519-的问题](https://www.v2ex.com/t/655467) 
+- [2020-03-23-单线程下载文件会存在-IO-阻塞的原因是什么](https://www.v2ex.com/t/655466) 
+- [2020-03-23-使用-JPA-的-nativeQuery-问题求解](https://www.v2ex.com/t/655465) 
 - [2020-03-23-公众号推荐的技术课程靠谱吗](https://www.v2ex.com/t/655460) 
 - [2020-03-23-Arch-/-Linux-环境下大家用哪个品牌的数位板](https://www.v2ex.com/t/655459) 
 - [2020-03-23-997-的小伙子太难了，刚拒了创业公司又遇外包](https://www.v2ex.com/t/655458) 

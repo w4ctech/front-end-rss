@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 01:30:16，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 02:30:15，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -50,10 +50,10 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -63,7 +63,7 @@
 </summary>
 
 
-- [2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html) ![](assets/new.png)  
+- [2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html)  
 - [2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html)  
 - [2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html)  
 - [2020-03-23-印度封锁新德里和75个行政区-澳大利亚疫情升高](http://international.caixin.com/2020-03-23/101532815.html)  
@@ -898,6 +898,10 @@
 </summary>
 
 
+- [2020-03-23-哪有什么「工作强人」，不过是比你多做了这件事](https://www.ershicimi.com/p/6f95c8f994ec43632d4ffb6c679748be) ![](assets/new.png)  
+- [2020-03-23-如何快速找到适合自己的学习方法？](https://www.ershicimi.com/p/a599a7996c3ec13f281554f6cbc61954) ![](assets/new.png)  
+- [2020-03-23-朋友圈自律的人，到底是什么狠角色？](https://www.ershicimi.com/p/4ca549f0ea9a3d09b4e697ca974eb67d) ![](assets/new.png)  
+- [2020-03-23-知乎故事-|-在好莱坞工作是什么样的体验？](https://www.ershicimi.com/p/fdcdf703a0d0a41ae0fd12406fd42e3f) ![](assets/new.png)  
 - [2020-03-22-本周知乎热榜-|-中国新冠疫苗已经开始人体注射实验？距离研制成功还有多远？](https://www.ershicimi.com/p/5728d18be44e3e3ae3a137b543a6b21e)  
 - [2020-03-22-知乎神吐槽-|-如果洗澡时你的壁纸冲进浴室，你会怎么办？](https://www.ershicimi.com/p/d5a6ae9d0ad0189b7385ec8cfd3f5538)  
 - [2020-03-22-知乎故事-|-男人的快乐有多简单？](https://www.ershicimi.com/p/f68c4656317cf8879520fa74ea2adf82)  
@@ -914,10 +918,6 @@
 - [2020-03-18-在恋爱乃至婚姻中，有哪些「残酷」的潜规则？](https://www.ershicimi.com/p/8466143b1585a5e33a1fdfc9cb847815)  
 - [2020-03-18-伦敦大学惊现数学神人，打水漂「弹跳-88-次」破世界纪录，看完跪了……](https://www.ershicimi.com/p/c330eac0cca9101c8861821593505370)  
 - [2020-03-18-知乎故事-|-我遇到了一只牙都掉光了的流浪猫](https://www.ershicimi.com/p/84e1d92ba19e06e2ff9d7520f104f71d)  
-- [2020-03-17-知乎故事-|-大型「小聪明」翻车现场](https://www.ershicimi.com/p/f4eeb4abc302fb4b4055e8ef9cdf8db6)  
-- [2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247)  
-- [2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c)  
-- [2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -929,8 +929,8 @@
 </summary>
 
 
-- [2020-03-24-3-月底了,各家公司还是远程面试吗?](https://www.v2ex.com/t/655551) ![](assets/new.png)  
-- [2020-03-24-XR-13.4GM-发热严重](https://www.v2ex.com/t/655550) ![](assets/new.png)  
+- [2020-03-24-3-月底了,各家公司还是远程面试吗?](https://www.v2ex.com/t/655551)  
+- [2020-03-24-XR-13.4GM-发热严重](https://www.v2ex.com/t/655550)  
 - [2020-03-24-求-1080i-视频无损转成-1080P-的简单解决方案](https://www.v2ex.com/t/655549)  
 - [2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548)  
 - [2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547)  
@@ -991,7 +991,7 @@
 </summary>
 
 
-- [2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y) ![](assets/new.png)  
+- [2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y)  
 - [2020-03-23-国内无障碍安装-Homebrew](https://toutiao.io/k/sp65v9f)  
 - [2020-03-23-微服务架构案例（三）：数据库选型简介，业务数据规划设计](https://toutiao.io/k/jk1wytw)  
 - [2020-03-23-Go-进程的-HeapReleased-上升，但是-RSS-不下降造成内存泄漏？](https://toutiao.io/k/fq3qsd4)  

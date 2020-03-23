@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 01:30:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 02:30:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -974,6 +974,10 @@
 - [【印记中文周刊】2020-03-21-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
 - [【印记中文周刊】2020-03-21-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [【印记中文周刊】2020-03-21-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [【知乎日报】2020-03-23-哪有什么「工作强人」，不过是比你多做了这件事](https://www.ershicimi.com/p/6f95c8f994ec43632d4ffb6c679748be) 
+- [【知乎日报】2020-03-23-如何快速找到适合自己的学习方法？](https://www.ershicimi.com/p/a599a7996c3ec13f281554f6cbc61954) 
+- [【知乎日报】2020-03-23-朋友圈自律的人，到底是什么狠角色？](https://www.ershicimi.com/p/4ca549f0ea9a3d09b4e697ca974eb67d) 
+- [【知乎日报】2020-03-23-知乎故事-|-在好莱坞工作是什么样的体验？](https://www.ershicimi.com/p/fdcdf703a0d0a41ae0fd12406fd42e3f) 
 - [【知乎日报】2020-03-22-本周知乎热榜-|-中国新冠疫苗已经开始人体注射实验？距离研制成功还有多远？](https://www.ershicimi.com/p/5728d18be44e3e3ae3a137b543a6b21e) 
 - [【知乎日报】2020-03-22-知乎神吐槽-|-如果洗澡时你的壁纸冲进浴室，你会怎么办？](https://www.ershicimi.com/p/d5a6ae9d0ad0189b7385ec8cfd3f5538) 
 - [【知乎日报】2020-03-22-知乎故事-|-男人的快乐有多简单？](https://www.ershicimi.com/p/f68c4656317cf8879520fa74ea2adf82) 

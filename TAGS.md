@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-24 21:30:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 22:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -454,9 +454,9 @@
 - [【掘金前端】项目不知道如何做性能优化？不妨试一下代码分割](https://juejin.im/post/5e796ec1e51d45271e2a9af9)
 - [【掘金前端】高德车载导航的差分更新优化实践](https://juejin.im/post/5e7959b25188255ddb2aa5af)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】Chrome-如何能强制缓存页面上的内容，目前每次重启都需要重新加载一边，耗费网络流量](https://www.v2ex.com/t/655831)
 - [【V2EX】SQL-优化-or-问题](https://www.v2ex.com/t/655597)
 - [【V2EX】知乎今年的可靠性能有-3-个-9-么。。。](https://www.v2ex.com/t/655315)
-- [【V2EX】分享我常用的浏览器-Chrome-的一些能提高日常工作效率、开发效率与-SEO-优化的插件](https://www.v2ex.com/t/655202)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

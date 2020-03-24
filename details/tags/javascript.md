@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,6 +76,7 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9) 
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
+- [2020-03-24-最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）](https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-23-编写可复用的组件，我们可以收获很多](https://juejin.im/post/5e76d6eef265da5732554e32) 
 - [2020-03-23-都2020年了，你还不会JavaScript-装饰器？](https://juejin.im/post/5e7822c3e51d4526f23a45ae) 

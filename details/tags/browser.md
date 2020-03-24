@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,9 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-24-https://raw.githubusercontent.com-这种链接怎么请求？](https://www.v2ex.com/t/655590) 
+- [2020-03-24-Opera-浏览器关闭标签页的符号，如何移到右边？](https://www.v2ex.com/t/655573) 
+- [2020-03-24-Edge-在苹果电脑里，重新打开后，会自动打开-baidu-首页，这是被劫持了吗，还是中木马了？](https://www.v2ex.com/t/655570) 
 - [2020-03-23-麻烦推荐-安全,可在国内长期漫游的美国手机号](https://www.v2ex.com/t/655526) 
 - [2020-03-23-花瓣的-chrome-插件不更新了，之前安装的有问题，那现在想要整页滚屏-web-截图，用什么呢？](https://www.v2ex.com/t/655443) 
 - [2020-03-23-支付系统如何在来源请求订单号不同的情况下，尽可能的防止重复放款和扣款？](https://www.v2ex.com/t/655396) 

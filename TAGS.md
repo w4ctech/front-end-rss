@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-24 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -583,6 +583,7 @@
 - [【InfoQ】怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】大家在公司的-git-操作都是在命令行还是-IDE-还是网页还是-git-软件。](https://www.v2ex.com/t/655571)
 - [【V2EX】做了个-GitHub-Top-100-Developers-最新活动的网站，支持-100-种常用编程语言](https://www.v2ex.com/t/655447)
 - [【V2EX】github-存储的文件有限制吗？能用来实现-md5-存储不](https://www.v2ex.com/t/655372)
 - [【V2EX】写了一篇关于-Github-Page-的博客内容管理解决方案---「netlifycms」](https://www.v2ex.com/t/655358)
@@ -592,7 +593,6 @@
 - [【V2EX】我也做了一个-Github-文件加速](https://www.v2ex.com/t/655015)
 - [【V2EX】配置-GitHub-为个人的手机图床，只支持-Android](https://www.v2ex.com/t/654978)
 - [【V2EX】献丑了，也搞了个-Github-代下载服务，估计不永久但免费](https://www.v2ex.com/t/654936)
-- [【V2EX】github-star-数量不显示了？](https://www.v2ex.com/t/654865)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -695,6 +695,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】新冠治愈者自述：请不要歧视我们](http://china.caixin.com/2020-03-24/101532946.html)
+- [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|迎接抗疫英雄-要“面子”也别忘“里子”](http://china.caixin.com/2020-03-24/101533029.html)
 - [【武汉肺炎防疫全纪录(财新网)】非洲确诊过千例-广东出现首例非洲输入病例](http://china.caixin.com/2020-03-24/101532945.html)
 - [【武汉肺炎防疫全纪录(财新网)】习近平同马克龙通话-中法愿在多边框架下推动国际抗疫合作](http://international.caixin.com/2020-03-24/101532953.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html)
@@ -713,8 +715,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】纽约州成疫情推升主力-美参议员,警察,名囚均染病](http://international.caixin.com/2020-03-23/101532522.html)
 - [【武汉肺炎防疫全纪录(财新网)】中国驻美大使接受美媒采访-回应病毒来源言论问题](http://international.caixin.com/2020-03-23/101532542.html)
 - [【武汉肺炎防疫全纪录(财新网)】上海应急响应级别由一级降为二级-京津冀鄂仍为一级](http://china.caixin.com/2020-03-23/101532512.html)
-- [【武汉肺炎防疫全纪录(财新网)】3月22日：全国新冠累计确诊81093例-境外输入病例已达353例（更新中）](http://china.caixin.com/2020-03-23/101532502.html)
-- [【武汉肺炎防疫全纪录(财新网)】3月22日：184个国家和地区累计确诊新冠25.3万例-累计死亡1.1万例（更新中）](http://international.caixin.com/2020-03-23/101532517.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

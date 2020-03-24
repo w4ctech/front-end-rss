@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -32,6 +32,7 @@
 - [2020-03-23-千万级PV下的nodeJS运维方案（抛砖引玉版）](https://juejin.im/post/5e7824d4f265da57616ab928) 
 - [2020-03-21-使用nodeJs开发自己的图床应用](https://juejin.im/post/5e74cd78e51d4527196d785f) 
 - [2020-03-21-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-03-24-支付宝-小程序开发者工具-"未找到-Node-可执行文件"](https://www.v2ex.com/t/655578) 
 - [2020-03-23-招聘一位-Node.js-后端开发工程师](https://www.v2ex.com/t/655407) 
 - [2020-03-22-NODE.JS-写一个微服务，但不需要-request-&-responde](https://www.v2ex.com/t/655038) 
 - [2020-03-21-有做-NODEJS-后端的老哥么。。。有个兼职的活儿，长期一年。需要人在长沙](https://www.v2ex.com/t/654852) 

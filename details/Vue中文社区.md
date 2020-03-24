@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-03-23 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 13:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-03-24-20行实现一个Promise](https://www.ershicimi.com/p/92f3a993ad32ce873555041117ebbd68) 
 - [2020-03-23-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/022867fb642e7799ce0d77d9bf2b46dc) 
 - [2020-03-23-让你的百度网盘更快](https://www.ershicimi.com/p/d8d1ca44df17006a625b99cbff0cb82e) 
 - [2020-03-22-微信暗黑模式开启](https://www.ershicimi.com/p/3c6525bf539949733e9edd161f04bdab) 

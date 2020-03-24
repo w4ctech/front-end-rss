@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-24 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-25 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -586,6 +586,7 @@
 - [【InfoQ】怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】Github-官方手机-app-登录方式很迷](https://www.v2ex.com/t/655866)
 - [【V2EX】好烦，-github-里面的项目大多数都是用框架了](https://www.v2ex.com/t/655712)
 - [【V2EX】腾讯云-git-clone-如何能快点-😅](https://www.v2ex.com/t/655676)
 - [【V2EX】Github-文件加速更新，支持-clone-加速](https://www.v2ex.com/t/655671)
@@ -595,7 +596,6 @@
 - [【V2EX】github-存储的文件有限制吗？能用来实现-md5-存储不](https://www.v2ex.com/t/655372)
 - [【V2EX】写了一篇关于-Github-Page-的博客内容管理解决方案---「netlifycms」](https://www.v2ex.com/t/655358)
 - [【V2EX】请问-Git-如何同步本地和远程仓库？](https://www.v2ex.com/t/655285)
-- [【V2EX】怀疑开发者在“造核弹”？-GitHub-不断封禁开源项目](https://www.v2ex.com/t/655183)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

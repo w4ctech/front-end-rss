@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -38,6 +38,7 @@
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-03-14-妙用CSS变量，让你的CSS变得更心动](https://www.ershicimi.com/p/1fb7e6c0918b94aaaf2426a17ac05e62) 
+- [2020-03-24-Promise/async/Generator实现原理解析](https://www.ershicimi.com/p/b486e77bf2cf7cf5c9148cf16c690416) 
 - [2020-03-20-一篇搞定移动端适配](https://www.ershicimi.com/p/c50c1c39141f9044502bc2c2dc99356c) 
 - [2020-02-23-小白必看，JSBridge-初探](https://www.ershicimi.com/p/cb1bd6cf296e4970985eb56fe06cd1f9) 
 - [2020-03-24-12个前端必会的-H5-问题及解决方法](https://www.ershicimi.com/p/143d17b90451038a470974582613801b) 
@@ -106,6 +107,8 @@
 - [2020-03-21-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-21-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-24-K2-这个破路由器刷哪个固件比较好？](https://www.v2ex.com/t/655732) 
+- [2020-03-24-用在接口服务器上，-SpringMVC-比起-JSP-到底有什么优势？](https://www.v2ex.com/t/655722) 
 - [2020-03-23-CSS-里颜色变量使用透明值的问题](https://www.v2ex.com/t/655487) 
 - [2020-03-23-Java-如何动态生成-js-文件返回前端？](https://www.v2ex.com/t/655417) 
 - [2020-03-23-使用-canvas-nest.js-作为博客背景效果能直接让笔记本发热](https://www.v2ex.com/t/655382) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -60,6 +60,7 @@
 - [2020-03-20-Vue源码探秘（四）（实例挂载$mount）](https://juejin.im/post/5e7499166fb9a07caa272aec) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-03-21-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-03-24-vue.js-&-element-ui-&-spring-boot-搭建的微图书管理平台，很适合准备入门-vue-的同学哈](https://www.v2ex.com/t/655715) 
 - [2020-03-23-vue-history-模式-tomcat-问题](https://www.v2ex.com/t/655414) 
 - [2020-03-21-gin-vue-admin-基于-vue-和-gin-开发的-快速后台管理系统搭建脚手架](https://www.v2ex.com/t/654799) 
 - [2020-03-24-译-Vue-+-Node-+-WebRTC-构建一个高逼格的视频应用](https://toutiao.io/k/gd2vuac) 

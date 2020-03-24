@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 16:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-意大利疫情是否已过拐点？重灾区市长坦言确诊人数仍低估](http://international.caixin.com/2020-03-24/101533240.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-24-【境内疫情观察】一线城市境外输入病例持续增加（3月23日）](http://database.caixin.com/2020-03-24/101533180.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-24-疫情总动员，各地怎么做|湖北、武汉“解封”-北上广防输入继续升级](http://china.caixin.com/2020-03-24/101533169.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-24-约翰逊下令全英国禁足三周-确诊近7000例死亡率达5%](http://international.caixin.com/2020-03-24/101533141.html) 
@@ -805,6 +806,7 @@
 - [【前端迷】2020-03-14-阿里-AliExpress-21届春季实习正式启动！](https://www.ershicimi.com/p/c8df3978aae1b916d70eadd5d037d680) 
 - [【前端迷】2020-03-14-妙用CSS变量，让你的CSS变得更心动](https://www.ershicimi.com/p/1fb7e6c0918b94aaaf2426a17ac05e62) 
 - [【前端迷】2020-03-13-一杯茶的时间，上手-Node.js](https://www.ershicimi.com/p/49f731fb1be60b25ba72dece2d363486) 
+- [【全栈前端精选】2020-03-24-Promise/async/Generator实现原理解析](https://www.ershicimi.com/p/b486e77bf2cf7cf5c9148cf16c690416) 
 - [【全栈前端精选】2020-03-23-TypeScript进阶-之-重难点梳理](https://www.ershicimi.com/p/7ddd3c5f1b53aacc4b75b33a3e63d2e3) 
 - [【全栈前端精选】2020-03-22-关于前端学习路线的一些建议（含面试自测题）](https://www.ershicimi.com/p/a00990491035eb82a72165ee696d30fb) 
 - [【全栈前端精选】2020-03-21-前端面经、框架原理都在这几个公众号里](https://www.ershicimi.com/p/2e7bad646b0167fedeb3c82b62ef1b25) 
@@ -1091,6 +1093,27 @@
 - [【知乎日报】2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [【知乎日报】2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [【知乎日报】2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [【V2EX】2020-03-24-redmi-两万的-98-寸电视感觉很香啊](https://www.v2ex.com/t/655733) 
+- [【V2EX】2020-03-24-K2-这个破路由器刷哪个固件比较好？](https://www.v2ex.com/t/655732) 
+- [【V2EX】2020-03-24-GV-收不到验证码](https://www.v2ex.com/t/655731) 
+- [【V2EX】2020-03-24-杭州-滨江-丁香园-内推-Java-/产品/前端-欢迎大家入职花厂哇-环境很漂亮的哦](https://www.v2ex.com/t/655730) 
+- [【V2EX】2020-03-24-阿里实习内推-企业金融技术部-性价比极高的部门！-Java-简历急缺](https://www.v2ex.com/t/655729) 
+- [【V2EX】2020-03-24-初级算法工程师15-25k上海浦东接受应届生](https://www.v2ex.com/t/655727) 
+- [【V2EX】2020-03-24-想了很久组装机，大佬帮忙讲讲显卡和显示器的选择！](https://www.v2ex.com/t/655726) 
+- [【V2EX】2020-03-24-谷歌浏览器打开-esxi-的后台提示您的连接不是私密连接](https://www.v2ex.com/t/655725) 
+- [【V2EX】2020-03-24-慎用-7-天无理由退货](https://www.v2ex.com/t/655724) 
+- [【V2EX】2020-03-24-用在接口服务器上，-SpringMVC-比起-JSP-到底有什么优势？](https://www.v2ex.com/t/655722) 
+- [【V2EX】2020-03-24-大家有推荐的拓展坞么？](https://www.v2ex.com/t/655721) 
+- [【V2EX】2020-03-24-菜鸟网络-校招-盆友！菜厂欢迎你！](https://www.v2ex.com/t/655720) 
+- [【V2EX】2020-03-24-电子书推送问题，用程序推送到-kindle-显示成功，但是无法收到](https://www.v2ex.com/t/655719) 
+- [【V2EX】2020-03-24-招聘-阿里巴巴-校招-2021-届-实习转正-hc-多-新零售供应链平台事业部](https://www.v2ex.com/t/655717) 
+- [【V2EX】2020-03-24-良心云-反向端口转发-失败](https://www.v2ex.com/t/655716) 
+- [【V2EX】2020-03-24-vue.js-&-element-ui-&-spring-boot-搭建的微图书管理平台，很适合准备入门-vue-的同学哈](https://www.v2ex.com/t/655715) 
+- [【V2EX】2020-03-24-MBP16-寸-坏掉的是不是只有我一个人](https://www.v2ex.com/t/655714) 
+- [【V2EX】2020-03-24-内推-蚂蚁金服-2021-届-Python-和-NLP-实习生招聘，可转正](https://www.v2ex.com/t/655713) 
+- [【V2EX】2020-03-24-好烦，-github-里面的项目大多数都是用框架了](https://www.v2ex.com/t/655712) 
+- [【V2EX】2020-03-24-bv-号来了，我的程序也该升级了](https://www.v2ex.com/t/655711) 
+- [【V2EX】2020-03-24-请问一下，我加上-spring-cloud-gateway-后，如何禁止外部直接访问接口呢？](https://www.v2ex.com/t/655710) 
 - [【V2EX】2020-03-24-画个图就要我做网站。。要收多少钱好](https://www.v2ex.com/t/655709) 
 - [【V2EX】2020-03-24-大家还记得“追踪机器人”吗？](https://www.v2ex.com/t/655708) 
 - [【V2EX】2020-03-24-分享直播-如何省流量压成本，实现全站成本优化](https://www.v2ex.com/t/655707) 

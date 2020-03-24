@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,7 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-24-谷歌浏览器打开-esxi-的后台提示您的连接不是私密连接](https://www.v2ex.com/t/655725) 
 - [2020-03-24-你们的-zerotier-还正常吗？我的大部分机器都离线了。](https://www.v2ex.com/t/655680) 
 - [2020-03-24-safari-中的-adblock-等拦截插件没有-Chrome-中的好用啊](https://www.v2ex.com/t/655655) 
 - [2020-03-24-Chrome-如何去除-Omnibox-Suggestions-的头像等](https://www.v2ex.com/t/655649) 

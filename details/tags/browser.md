@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 12:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,6 +39,8 @@
 - [2020-03-20-Proposal-to-allow-specifying-a-text-snippet-in-a-URL-fragment](https://github.com/WICG/ScrollToTextFragment) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-03-21-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-03-24-safari-中的-adblock-等拦截插件没有-Chrome-中的好用啊](https://www.v2ex.com/t/655655) 
+- [2020-03-24-Chrome-如何去除-Omnibox-Suggestions-的头像等](https://www.v2ex.com/t/655649) 
 - [2020-03-24-Uniapp-使用-GoEasy-实现-websocket-实时通讯](https://www.v2ex.com/t/655594) 
 - [2020-03-24-https://raw.githubusercontent.com-这种链接怎么请求？](https://www.v2ex.com/t/655590) 
 - [2020-03-24-Opera-浏览器关闭标签页的符号，如何移到右边？](https://www.v2ex.com/t/655573) 

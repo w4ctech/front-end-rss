@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 18:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1140,6 +1140,9 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://photos.caixin.com/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://china.caixin.com/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
+- [2020-03-24-安徽合肥14日内有境外旅居史人员实施集中隔离-食宿费用自理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiscCiHQsrryrOnxrzkBTL200324&isfromapp=1) 
+- [2020-03-24-可可爱爱！监控拍下小学生复课第一天向值班医生鞠躬](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin0Okb35zR18jG0qLbOJ7200324&isfromapp=1) 
+- [2020-03-24-北京境外输入确诊病例相关情况](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200324_1732061.html) 
 - [2020-03-24-凯旋日、英雄归！江西书记省长机场迎接援随医疗队回家](http://hc.jiangxi.gov.cn/doc/2020/03/24/141710.shtml) 
 - [2020-03-24-武汉市民可正常收寄包裹](http://m.weibo.cn/2656274875/4486013973784451) 
 - [2020-03-24-广东新增省外输入病例1例](http://m.weibo.cn/2656274875/4485992222489751) 

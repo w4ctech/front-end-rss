@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 09:30:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,6 +27,8 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-03-24-电脑在玩游戏的时候，突然不显示了，怎么修？](https://www.v2ex.com/t/655568) 
+- [2020-03-24-上海-莉莉丝游戏-社招+校招内推远程面试+入职-业务发展迅速，-HC-多多，加班少，氛围好](https://www.v2ex.com/t/655565) 
 - [2020-03-23-游戏里的那套技能/buff-系统叫什么？有开源库吗？](https://www.v2ex.com/t/655336) 
 - [2020-03-22-广东电信游戏宽带帮忙-ping-一个-ip.截图上传下-3Q](https://www.v2ex.com/t/655174) 
 - [2020-03-22-找一款搜了很久都没搜到的-FC-红白机游戏的名字？](https://www.v2ex.com/t/655075) 

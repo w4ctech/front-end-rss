@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 09:30:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-非洲确诊过千例-广东出现首例非洲输入病例](http://china.caixin.com/2020-03-24/101532945.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-肺炎日记|3月23日:本土传播基本阻断,“收尾”更需谨慎](http://china.caixin.com/2020-03-24/101533001.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://international.caixin.com/2020-03-24/101532958.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-习近平同马克龙通话-中法愿在多边框架下推动国际抗疫合作](http://international.caixin.com/2020-03-24/101532953.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html) 
@@ -1006,6 +1010,15 @@
 - [【知乎日报】2020-03-17-同一口面包，多嚼几下再吃竟然有助于减肥？](https://www.ershicimi.com/p/ef864e8ab2253e289bc7a7ee34664247) 
 - [【知乎日报】2020-03-17-吃完这几样好吃又便宜的美食，我似乎没那么怀念火锅了](https://www.ershicimi.com/p/e285e1d962b2b59a824f7c287d1d6d4c) 
 - [【知乎日报】2020-03-16-他们说：留学生别回来「千里送毒」](https://www.ershicimi.com/p/ee9573b2493a28bfb827f48585bb09f0) 
+- [【V2EX】2020-03-24-电脑在玩游戏的时候，突然不显示了，怎么修？](https://www.v2ex.com/t/655568) 
+- [【V2EX】2020-03-24-许久前开通的模拟炒股，现在竟然没亏钱](https://www.v2ex.com/t/655567) 
+- [【V2EX】2020-03-24-v-友们公司的网络环境怎么样,网速多少?](https://www.v2ex.com/t/655566) 
+- [【V2EX】2020-03-24-上海-莉莉丝游戏-社招+校招内推远程面试+入职-业务发展迅速，-HC-多多，加班少，氛围好](https://www.v2ex.com/t/655565) 
+- [【V2EX】2020-03-24-小作品-高考倒计时动态壁纸，寻求简单合作](https://www.v2ex.com/t/655564) 
+- [【V2EX】2020-03-24-有哪些-API-接口可以用来做聊天机器人？](https://www.v2ex.com/t/655563) 
+- [【V2EX】2020-03-24-Google-pixel](https://www.v2ex.com/t/655562) 
+- [【V2EX】2020-03-24-求助-找一款电脑桌面日历-谢谢了](https://www.v2ex.com/t/655561) 
+- [【V2EX】2020-03-24-abc-联合索引查-bc-走不走索引](https://www.v2ex.com/t/655560) 
 - [【V2EX】2020-03-24-有没有全屋声音采集方案（For-SIRI）？类似-Iron-Man-的-JARVIS，在家里随时随地可以-Hey-Siri-唤醒。](https://www.v2ex.com/t/655559) 
 - [【V2EX】2020-03-24-Sandisk-Ultra-II-960G-SSD-掉盘，还有救吗？](https://www.v2ex.com/t/655558) 
 - [【V2EX】2020-03-24-如何解决开-vpn-时访问淘宝出现“亲，访问被拒绝”？](https://www.v2ex.com/t/655557) 
@@ -1716,6 +1729,17 @@
 - [【技术头条】2020-03-21-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-24-书到用时方恨少，一大波-JS-开发工具函数来了](https://toutiao.io/k/td8gywd) 
+- [【开发者头条】2020-03-24-微信架构总监：微信-10-亿日活场景下，后台系统微服务架构实践](https://toutiao.io/k/tr32h3p) 
+- [【开发者头条】2020-03-24-教你如何从零开始搭建一个属于自己的网站](https://toutiao.io/k/lteprw1) 
+- [【开发者头条】2020-03-24-分布式-+-JVM-+-多线程-+-Spring-+-微服务-+-Netty（文末-PDF-免费获取）](https://toutiao.io/k/z12muhj) 
+- [【开发者头条】2020-03-24-深入理解-Go-语言的垃圾回收机制](https://toutiao.io/k/wu9bik5) 
+- [【开发者头条】2020-03-24-Async-Generators-作为状态管理的替代方案](https://toutiao.io/k/228h6j9) 
+- [【开发者头条】2020-03-24-漫话：手机很早就有飞行模式了，为什么最近几年坐飞机才不用关机？](https://toutiao.io/k/obbey9i) 
+- [【开发者头条】2020-03-24-写-4-点宝贵的经验，给初入职场的你](https://toutiao.io/k/1rmaht8) 
+- [【开发者头条】2020-03-24-用面向对象设计原则理解-Go-中-interface](https://toutiao.io/k/hvx37gp) 
+- [【开发者头条】2020-03-24-YOLOv3-精度再次提高-4.3%，训练提速-40%！PaddleDetection-全面升级](https://toutiao.io/k/qeq02jm) 
+- [【开发者头条】2020-03-24-译-Vue-+-Node-+-WebRTC-构建一个高逼格的视频应用](https://toutiao.io/k/gd2vuac) 
 - [【开发者头条】2020-03-24-译-值得程序员反复品味的编码智慧](https://toutiao.io/k/105la28) 
 - [【开发者头条】2020-03-24-实操教程丨使用-Pod-安全策略强化-K8S-安全](https://toutiao.io/k/rcspdl1) 
 - [【开发者头条】2020-03-24-SQL-开发任务超-50%-！滴滴实时计算的演进与优化](https://toutiao.io/k/weyok91) 

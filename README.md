@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 09:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 09:30:16，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,10 @@
 </summary>
 
 
+- [2020-03-24-非洲确诊过千例-广东出现首例非洲输入病例](http://china.caixin.com/2020-03-24/101532945.html) ![](assets/new.png)  
+- [2020-03-24-肺炎日记|3月23日:本土传播基本阻断,“收尾”更需谨慎](http://china.caixin.com/2020-03-24/101533001.html) ![](assets/new.png)  
+- [2020-03-24-中英领导人通话-约翰逊称尽力照顾留学生等中国公民的健康安全](http://international.caixin.com/2020-03-24/101532958.html) ![](assets/new.png)  
+- [2020-03-24-习近平同马克龙通话-中法愿在多边框架下推动国际抗疫合作](http://international.caixin.com/2020-03-24/101532953.html) ![](assets/new.png)  
 - [2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html)  
 - [2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html)  
 - [2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html)  
@@ -79,10 +83,6 @@
 - [2020-03-23-纽约州成疫情推升主力-美参议员,警察,名囚均染病](http://international.caixin.com/2020-03-23/101532522.html)  
 - [2020-03-23-中国驻美大使接受美媒采访-回应病毒来源言论问题](http://international.caixin.com/2020-03-23/101532542.html)  
 - [2020-03-23-上海应急响应级别由一级降为二级-京津冀鄂仍为一级](http://china.caixin.com/2020-03-23/101532512.html)  
-- [2020-03-23-3月22日：全国新冠累计确诊81093例-境外输入病例已达353例（更新中）](http://china.caixin.com/2020-03-23/101532502.html)  
-- [2020-03-23-3月22日：184个国家和地区累计确诊新冠25.3万例-累计死亡1.1万例（更新中）](http://international.caixin.com/2020-03-23/101532517.html)  
-- [2020-03-23-特稿丨北京入境航班分流全国12机场-国境防疫战持续吃紧](http://companies.caixin.com/2020-03-23/101532470.html)  
-- [2020-03-23-肺炎日记|3月22日：武汉零新增背后，还有无症状感染者](http://china.caixin.com/2020-03-23/101532437.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -785,8 +785,8 @@
 </summary>
 
 
-- [2020-03-24-使用-async_hooks-监听异步资源的生命周期](https://juejin.im/post/5e794f3df265da575209672f) ![](assets/new.png)  
-- [2020-03-23-（🔥-深度解析！）Vue3-&-React-Hooks-新UI组件原理：Modal-弹窗](https://juejin.im/post/5e774a1ae51d4527271ebc92) ![](assets/new.png)  
+- [2020-03-24-使用-async_hooks-监听异步资源的生命周期](https://juejin.im/post/5e794f3df265da575209672f)  
+- [2020-03-23-（🔥-深度解析！）Vue3-&-React-Hooks-新UI组件原理：Modal-弹窗](https://juejin.im/post/5e774a1ae51d4527271ebc92)  
 - [2020-03-23-阿里前端也切图？不，人工智能帮你做](https://juejin.im/post/5e78ddd96fb9a07ca1373b81)  
 - [2020-03-23-开发一个关于疫情信息的微信机器人](https://juejin.im/post/5e78be43e51d4526f45a9962)  
 - [2020-03-23-Gatsby建站](https://juejin.im/post/5e6b4b61e51d4526d326cfb1)  
@@ -930,6 +930,15 @@
 </summary>
 
 
+- [2020-03-24-电脑在玩游戏的时候，突然不显示了，怎么修？](https://www.v2ex.com/t/655568) ![](assets/new.png)  
+- [2020-03-24-许久前开通的模拟炒股，现在竟然没亏钱](https://www.v2ex.com/t/655567) ![](assets/new.png)  
+- [2020-03-24-v-友们公司的网络环境怎么样,网速多少?](https://www.v2ex.com/t/655566) ![](assets/new.png)  
+- [2020-03-24-上海-莉莉丝游戏-社招+校招内推远程面试+入职-业务发展迅速，-HC-多多，加班少，氛围好](https://www.v2ex.com/t/655565) ![](assets/new.png)  
+- [2020-03-24-小作品-高考倒计时动态壁纸，寻求简单合作](https://www.v2ex.com/t/655564) ![](assets/new.png)  
+- [2020-03-24-有哪些-API-接口可以用来做聊天机器人？](https://www.v2ex.com/t/655563) ![](assets/new.png)  
+- [2020-03-24-Google-pixel](https://www.v2ex.com/t/655562) ![](assets/new.png)  
+- [2020-03-24-求助-找一款电脑桌面日历-谢谢了](https://www.v2ex.com/t/655561) ![](assets/new.png)  
+- [2020-03-24-abc-联合索引查-bc-走不走索引](https://www.v2ex.com/t/655560) ![](assets/new.png)  
 - [2020-03-24-有没有全屋声音采集方案（For-SIRI）？类似-Iron-Man-的-JARVIS，在家里随时随地可以-Hey-Siri-唤醒。](https://www.v2ex.com/t/655559)  
 - [2020-03-24-Sandisk-Ultra-II-960G-SSD-掉盘，还有救吗？](https://www.v2ex.com/t/655558)  
 - [2020-03-24-如何解决开-vpn-时访问淘宝出现“亲，访问被拒绝”？](https://www.v2ex.com/t/655557)  
@@ -941,15 +950,6 @@
 - [2020-03-24-3-月底了,各家公司还是远程面试吗?](https://www.v2ex.com/t/655551)  
 - [2020-03-24-XR-13.4GM-发热严重](https://www.v2ex.com/t/655550)  
 - [2020-03-24-求-1080i-视频无损转成-1080P-的简单解决方案](https://www.v2ex.com/t/655549)  
-- [2020-03-24-Ucloud-家的-GlobalSSH-免费了-SSH/RDP-海外连接加速](https://www.v2ex.com/t/655548)  
-- [2020-03-24-20200324-物业俱乐部](https://www.v2ex.com/t/655547)  
-- [2020-03-23-很纳闷，在二手发了个贴，发现得翻两页才能看到，为什么？](https://www.v2ex.com/t/655545)  
-- [2020-03-23-微信为什么还不出-操作系统-？](https://www.v2ex.com/t/655544)  
-- [2020-03-23-有人试过自动调取谷歌页面翻译吗](https://www.v2ex.com/t/655543)  
-- [2020-03-23-请问-tg-如何开启-callkit?](https://www.v2ex.com/t/655542)  
-- [2020-03-23-想写一个自动测试项目中-Sql-是否正确的开源作品，大家有什么建议吗？](https://www.v2ex.com/t/655541)  
-- [2020-03-23-Python-的协程到底有啥用啊…](https://www.v2ex.com/t/655539)  
-- [2020-03-23-我是抽象翻译的原作者，欢迎大家来玩](https://www.v2ex.com/t/655537)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,6 +992,17 @@
 </summary>
 
 
+- [2020-03-24-书到用时方恨少，一大波-JS-开发工具函数来了](https://toutiao.io/k/td8gywd) ![](assets/new.png)  
+- [2020-03-24-微信架构总监：微信-10-亿日活场景下，后台系统微服务架构实践](https://toutiao.io/k/tr32h3p) ![](assets/new.png)  
+- [2020-03-24-教你如何从零开始搭建一个属于自己的网站](https://toutiao.io/k/lteprw1) ![](assets/new.png)  
+- [2020-03-24-分布式-+-JVM-+-多线程-+-Spring-+-微服务-+-Netty（文末-PDF-免费获取）](https://toutiao.io/k/z12muhj) ![](assets/new.png)  
+- [2020-03-24-深入理解-Go-语言的垃圾回收机制](https://toutiao.io/k/wu9bik5) ![](assets/new.png)  
+- [2020-03-24-Async-Generators-作为状态管理的替代方案](https://toutiao.io/k/228h6j9) ![](assets/new.png)  
+- [2020-03-24-漫话：手机很早就有飞行模式了，为什么最近几年坐飞机才不用关机？](https://toutiao.io/k/obbey9i) ![](assets/new.png)  
+- [2020-03-24-写-4-点宝贵的经验，给初入职场的你](https://toutiao.io/k/1rmaht8) ![](assets/new.png)  
+- [2020-03-24-用面向对象设计原则理解-Go-中-interface](https://toutiao.io/k/hvx37gp) ![](assets/new.png)  
+- [2020-03-24-YOLOv3-精度再次提高-4.3%，训练提速-40%！PaddleDetection-全面升级](https://toutiao.io/k/qeq02jm) ![](assets/new.png)  
+- [2020-03-24-译-Vue-+-Node-+-WebRTC-构建一个高逼格的视频应用](https://toutiao.io/k/gd2vuac) ![](assets/new.png)  
 - [2020-03-24-译-值得程序员反复品味的编码智慧](https://toutiao.io/k/105la28)  
 - [2020-03-24-实操教程丨使用-Pod-安全策略强化-K8S-安全](https://toutiao.io/k/rcspdl1)  
 - [2020-03-24-SQL-开发任务超-50%-！滴滴实时计算的演进与优化](https://toutiao.io/k/weyok91)  
@@ -1001,17 +1012,6 @@
 - [2020-03-24-推荐-3-月美团面经分享](https://toutiao.io/k/vnx6gp1)  
 - [2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y)  
 - [2020-03-23-国内无障碍安装-Homebrew](https://toutiao.io/k/sp65v9f)  
-- [2020-03-23-微服务架构案例（三）：数据库选型简介，业务数据规划设计](https://toutiao.io/k/jk1wytw)  
-- [2020-03-23-Go-进程的-HeapReleased-上升，但是-RSS-不下降造成内存泄漏？](https://toutiao.io/k/fq3qsd4)  
-- [2020-03-23-Go-1.14-发布了，快来围观新的特性啦](https://toutiao.io/k/2sxk4z5)  
-- [2020-03-23-前后端分离基于-OAuth-2-的-SSO-单点登录怎样做？](https://toutiao.io/k/1tcx97a)  
-- [2020-03-23-从构建进程间缓存设计谈-Webpack5-优化和工作原理](https://toutiao.io/k/n6ycy0d)  
-- [2020-03-23-便捷存储简单数据：SimpleStoreData](https://toutiao.io/k/z07h7ql)  
-- [2020-03-23-关于远程工作的四点迷思，你中了几个？](https://toutiao.io/k/zbakg8j)  
-- [2020-03-23-SDL-已死，应用安全路在何方？](https://toutiao.io/k/yurthv3)  
-- [2020-03-23-JVM-源码分析之-Object.wait/notify-All-完全解读](https://toutiao.io/k/yq8sjcn)  
-- [2020-03-23-Julia-工程实践速记](https://toutiao.io/k/5h782ib)  
-- [2020-03-23-技术人的副业之道](https://toutiao.io/k/e2fhmzb)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -10312,6 +10312,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "使用 async_hooks 监听异步资源的生命周期",
+        "link": "https://juejin.im/post/5e794f3df265da575209672f",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "（🔥 深度解析！）Vue3 & React Hooks 新UI组件原理：Modal 弹窗",
+        "link": "https://juejin.im/post/5e774a1ae51d4527271ebc92",
+        "date": "2020-03-23"
+      },
+      {
         "title": "阿里前端也切图？不，人工智能帮你做",
         "link": "https://juejin.im/post/5e78ddd96fb9a07ca1373b81",
         "date": "2020-03-23"

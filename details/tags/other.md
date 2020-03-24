@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1249,6 +1249,7 @@
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) 
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html) 
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html) 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 

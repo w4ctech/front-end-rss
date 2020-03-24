@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-24 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -380,6 +380,7 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
+- [【JavaScript】震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/b757bc8f2630444360ebf086aceb239a)
 - [【掘金前端】使用cocos进行2D和3D混合开发](https://juejin.im/post/5e75f4cbe51d4526d87c949f)
 - [【V2EX】bat-运行-Python-GUI-程序如何不显示-CMD-窗口](https://www.v2ex.com/t/655528)
 - [【V2EX】请问：-Boom-3D-这个到底有没有用啊？](https://www.v2ex.com/t/654908)
@@ -449,12 +450,12 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【InfoQ】2020-年前端框架性能对比和评测](https://www.ershicimi.com/p/72e3bfb173735c7d04032567f1023f8a)
 - [【JavaScript】网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69)
+- [【掘金前端】项目不知道如何做性能优化？不妨试一下代码分割](https://juejin.im/post/5e796ec1e51d45271e2a9af9)
+- [【掘金前端】高德车载导航的差分更新优化实践](https://juejin.im/post/5e7959b25188255ddb2aa5af)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】知乎今年的可靠性能有-3-个-9-么。。。](https://www.v2ex.com/t/655315)
 - [【V2EX】分享我常用的浏览器-Chrome-的一些能提高日常工作效率、开发效率与-SEO-优化的插件](https://www.v2ex.com/t/655202)
 - [【V2EX】LibreSSL-性能测试](https://www.v2ex.com/t/655140)
-- [【V2EX】Chrome-extension-input-性能问题](https://www.v2ex.com/t/654851)
-- [【V2EX】iPhone-上有分项测试-AES-解密性能的-benchmark-吗？](https://www.v2ex.com/t/654827)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -595,6 +595,15 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-韩国公民来华躲疫情？国家移民管理局：未发现大量涌入](http://china.caixin.com/2020-03-01/101522448.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-云南红河男子刺死两名防疫人员-一审获死刑](http://china.caixin.com/2020-03-01/101522438.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-80名中国公民在莫斯科遭指定地点隔离-中国使馆高度关注](http://international.caixin.com/2020-03-01/101522378.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-日本首相与国际奥委会主席通话-确定奥运会延期1年提案方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitPYaVq8O1sTsQkpXoFva200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-比利时新增新冠肺炎确诊病例526例-累计4269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwN0XKdc0vPmlSGrMs2cH200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-巴林新增52例新冠肺炎确诊病例-累计391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3J1D92PPEAuCIbwZn62a200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-世卫组织称美国可能成全球疫情震中](http://m.weibo.cn/2803301701/4486077181715020) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-西班牙新冠肺炎确诊病例累计达39673例-新增6584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiODsP2bSZwDgkL9C4wM3e200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-黎巴嫩新冠肺炎确诊病例上升至304例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitmXXBFjsExGOVkxNM3yy200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-西班牙新增6584例新冠肺炎，累计确诊39673例](http://m.weibo.cn/2803301701/4486075483843856) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-卢旺达新增17例新冠肺炎确诊病例-累计确诊36例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9rhSTl9cuot6xBzSDNEn200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-英国筹建“方舱医院”收治新冠肺炎患者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipyiB4djyYcECHMOpo3Ds200324&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-南京市、苏州市、常州市修改防疫措施：允许市民清明前后有序祭扫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqw2qwvUhjuQy7gs73oO200324&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-#街头直播看塞尔维亚疫情现状#！](http://m.weibo.cn/2656274875/4486067208443738) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-快讯！#德国新冠肺炎累计确诊病例突破3万#](http://m.weibo.cn/3057540037/4486064716304788) 

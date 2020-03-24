@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 20:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 20:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,15 @@
 </summary>
 
 
+- [2020-03-24-日本首相与国际奥委会主席通话-确定奥运会延期1年提案方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitPYaVq8O1sTsQkpXoFva200324&isfromapp=1) ![](assets/new.png)  
+- [2020-03-24-比利时新增新冠肺炎确诊病例526例-累计4269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwN0XKdc0vPmlSGrMs2cH200324&isfromapp=1) ![](assets/new.png)  
+- [2020-03-24-巴林新增52例新冠肺炎确诊病例-累计391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3J1D92PPEAuCIbwZn62a200324&isfromapp=1) ![](assets/new.png)  
+- [2020-03-24-世卫组织称美国可能成全球疫情震中](http://m.weibo.cn/2803301701/4486077181715020) ![](assets/new.png)  
+- [2020-03-24-西班牙新冠肺炎确诊病例累计达39673例-新增6584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiODsP2bSZwDgkL9C4wM3e200324&isfromapp=1) ![](assets/new.png)  
+- [2020-03-24-黎巴嫩新冠肺炎确诊病例上升至304例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitmXXBFjsExGOVkxNM3yy200324&isfromapp=1) ![](assets/new.png)  
+- [2020-03-24-西班牙新增6584例新冠肺炎，累计确诊39673例](http://m.weibo.cn/2803301701/4486075483843856) ![](assets/new.png)  
+- [2020-03-24-卢旺达新增17例新冠肺炎确诊病例-累计确诊36例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9rhSTl9cuot6xBzSDNEn200324&isfromapp=1) ![](assets/new.png)  
+- [2020-03-24-英国筹建“方舱医院”收治新冠肺炎患者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipyiB4djyYcECHMOpo3Ds200324&isfromapp=1) ![](assets/new.png)  
 - [2020-03-24-南京市、苏州市、常州市修改防疫措施：允许市民清明前后有序祭扫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqw2qwvUhjuQy7gs73oO200324&isfromapp=1)  
 - [2020-03-24-#街头直播看塞尔维亚疫情现状#！](http://m.weibo.cn/2656274875/4486067208443738)  
 - [2020-03-24-快讯！#德国新冠肺炎累计确诊病例突破3万#](http://m.weibo.cn/3057540037/4486064716304788)  
@@ -105,15 +114,6 @@
 - [2020-03-24-广东新增省外输入病例1例](http://m.weibo.cn/2656274875/4485992222489751)  
 - [2020-03-24-北京3月24日0时至12时新增报告境外输入确诊病例4例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200324_1731501.html)  
 - [2020-03-24-25日零时起湖北除武汉外解除离鄂通道管控](http://m.weibo.cn/2656274875/4485983573945248)  
-- [2020-03-24-上海社区回应允许回沪洋女婿居家隔离：未违规，将安抚居民](http://m.weibo.cn/3057540037/4485976489294145)  
-- [2020-03-24-754名援鄂医疗队员返昆，多位省领导机场迎接](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502180558682867)  
-- [2020-03-24-再接再厉，慎终如始！龚正今天在市疾控中心调研疫情防控工作](http://wsjkw.sh.gov.cn/xwfb/20200324/43a0dbb6de924100912a3da5a5239eea.html)  
-- [2020-03-24-3月23日18时至24日6时-天津市无新增本地新冠肺炎确诊病例-新增境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/24/art_87_72654.html)  
-- [2020-03-24-英雄回家！云南援鄂医疗队首批205人凯旋抵滇](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502054506847538)  
-- [2020-03-24-意大利4824名医护感染新冠病毒，24名医生殉职](http://m.weibo.cn/3057540037/4485966423211758)  
-- [2020-03-24-全球确诊新冠肺炎突破38万例，美国确诊病例超4.6万例](http://m.weibo.cn/3057540037/4485962514251555)  
-- [2020-03-24-谭德塞说病毒蔓延速度让人悲痛](http://m.weibo.cn/2656274875/4485955383717251)  
-- [2020-03-24-战“疫”急需全球合作](http://m.weibo.cn/3057540037/4485946290326872)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -968,21 +968,21 @@
 </summary>
 
 
-- [2020-03-24-头条内推群，感兴趣的小伙伴欢迎投递简历！](https://www.v2ex.com/t/655803) ![](assets/new.png)  
-- [2020-03-24-现在大家面试找工作的话，如何了？](https://www.v2ex.com/t/655801) ![](assets/new.png)  
-- [2020-03-24-脉脉真是恶心至极!](https://www.v2ex.com/t/655800) ![](assets/new.png)  
-- [2020-03-24-联通宽带提速](https://www.v2ex.com/t/655799) ![](assets/new.png)  
-- [2020-03-24-北京海淀-长亭科技（阿里云全资子公司）-研发工程师：-C++](https://www.v2ex.com/t/655798) ![](assets/new.png)  
-- [2020-03-24-广州联通宽带现在有-ipv6-吗?](https://www.v2ex.com/t/655797) ![](assets/new.png)  
-- [2020-03-24-chrome-80.0.3987.149-又变成默认显示-www-了？](https://www.v2ex.com/t/655796) ![](assets/new.png)  
-- [2020-03-24-我也来分享一下我的个人博客](https://www.v2ex.com/t/655795) ![](assets/new.png)  
-- [2020-03-24-媳妇让我买了爱奇艺会员，买完了发现上面没有我俩能看的内容，怎么破...](https://www.v2ex.com/t/655794) ![](assets/new.png)  
-- [2020-03-24-用标记语言生成响应式新闻邮件](https://www.v2ex.com/t/655792) ![](assets/new.png)  
-- [2020-03-24-谁来帮我分析下，那群不下班不干活的后端工程师是啥心态？](https://www.v2ex.com/t/655791) ![](assets/new.png)  
-- [2020-03-24-TeamViewer-上不去了](https://www.v2ex.com/t/655789) ![](assets/new.png)  
-- [2020-03-24-京东电子书-购买后无法网页端观看](https://www.v2ex.com/t/655788) ![](assets/new.png)  
-- [2020-03-24-打破时空界限，多贝联合-QingCloud-为教育机构零门槛构建-10W+-在线课堂](https://www.v2ex.com/t/655787) ![](assets/new.png)  
-- [2020-03-24-南京-招-vue-前端](https://www.v2ex.com/t/655786) ![](assets/new.png)  
+- [2020-03-24-头条内推群，感兴趣的小伙伴欢迎投递简历！](https://www.v2ex.com/t/655803)  
+- [2020-03-24-现在大家面试找工作的话，如何了？](https://www.v2ex.com/t/655801)  
+- [2020-03-24-脉脉真是恶心至极!](https://www.v2ex.com/t/655800)  
+- [2020-03-24-联通宽带提速](https://www.v2ex.com/t/655799)  
+- [2020-03-24-北京海淀-长亭科技（阿里云全资子公司）-研发工程师：-C++](https://www.v2ex.com/t/655798)  
+- [2020-03-24-广州联通宽带现在有-ipv6-吗?](https://www.v2ex.com/t/655797)  
+- [2020-03-24-chrome-80.0.3987.149-又变成默认显示-www-了？](https://www.v2ex.com/t/655796)  
+- [2020-03-24-我也来分享一下我的个人博客](https://www.v2ex.com/t/655795)  
+- [2020-03-24-媳妇让我买了爱奇艺会员，买完了发现上面没有我俩能看的内容，怎么破...](https://www.v2ex.com/t/655794)  
+- [2020-03-24-用标记语言生成响应式新闻邮件](https://www.v2ex.com/t/655792)  
+- [2020-03-24-谁来帮我分析下，那群不下班不干活的后端工程师是啥心态？](https://www.v2ex.com/t/655791)  
+- [2020-03-24-TeamViewer-上不去了](https://www.v2ex.com/t/655789)  
+- [2020-03-24-京东电子书-购买后无法网页端观看](https://www.v2ex.com/t/655788)  
+- [2020-03-24-打破时空界限，多贝联合-QingCloud-为教育机构零门槛构建-10W+-在线课堂](https://www.v2ex.com/t/655787)  
+- [2020-03-24-南京-招-vue-前端](https://www.v2ex.com/t/655786)  
 - [2020-03-24-我建了一个有湖有树的院子，集思广益取名字](https://www.v2ex.com/t/655785)  
 - [2020-03-24-有没有文章直接指出-MYSQL-四个隔离级别（特别中间两个）下到底怎么上锁，上什么锁的？什么不可重复读，幻读乱七八糟的](https://www.v2ex.com/t/655784)  
 - [2020-03-24-上海-像素偏移（PixelShift.AI）招聘云平台、图像算法、大数据、后台工程师](https://www.v2ex.com/t/655783)  

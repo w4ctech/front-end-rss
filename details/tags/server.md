@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 08:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -20,3 +20,4 @@
 - [2020-03-22-请教如何在群晖-Docker-中安装-rclone?](https://www.v2ex.com/t/654990) 
 - [2020-03-21-请问各种框架下-REST-接口断开链接应该如何取消任务？](https://www.v2ex.com/t/654909) 
 - [2020-03-21-请教一个-docker-问题,求大神指导一下,谢谢](https://www.v2ex.com/t/654815) 
+- [2020-03-24-Nginx-+-PHP-FPM:-“Primary-script-unknown”-问题排查](https://toutiao.io/k/umayqn8) 

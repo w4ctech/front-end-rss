@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 08:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -29,5 +29,6 @@
 - [2020-03-21-iPhone-上有分项测试-AES-解密性能的-benchmark-吗？](https://www.v2ex.com/t/654827) 
 - [2020-03-23-编写高性能-Java-代码的最佳实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13299&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_WVdIJDQOsMkjNR3fzZECA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-21-SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13289&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyXvkUDT8CHt-O5rD11a6MQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-24-SQL-开发任务超-50%-！滴滴实时计算的演进与优化](https://toutiao.io/k/weyok91) 
 - [2020-03-23-存储优化（二）：排序引起的慢查询优化](https://toutiao.io/k/ayfwu7a) 
 - [2020-03-22-推荐-优化-if-else-代码的八种方案](https://toutiao.io/k/1sofava) 

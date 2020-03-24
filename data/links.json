@@ -7112,6 +7112,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国确诊新冠肺炎超4万例",
+        "link": "http://m.weibo.cn/2803301701/4485900518420249",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "意大利单日新增4789例确诊，累计确诊63927例",
+        "link": "http://m.weibo.cn/2656274875/4485894860157689",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "英国新增967例新冠肺炎",
+        "link": "http://m.weibo.cn/2803301701/4485894515702936",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "全球确诊新冠肺炎病例超33万，世卫组织称新冠肺炎大流行呈加速传播",
+        "link": "http://m.weibo.cn/2803301701/4485891601149458",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "美国纽约市新冠肺炎确诊人数超1万",
+        "link": "http://m.weibo.cn/2656274875/4485775062705875",
+        "date": "2020-03-23"
+      },
+      {
         "title": "当前全国本土疫情传播已基本阻断，全球疫情大流行下要外防输入内防反弹",
         "link": "http://m.weibo.cn/2803301701/4485741394081098",
         "date": "2020-03-23"
@@ -11107,6 +11132,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有全屋声音采集方案（For SIRI）？类似 Iron Man 的 JARVIS，在家里随时随地可以 Hey Siri 唤醒。",
+        "link": "https://www.v2ex.com/t/655559",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "Sandisk Ultra II 960G SSD 掉盘，还有救吗？",
+        "link": "https://www.v2ex.com/t/655558",
+        "date": "2020-03-24"
+      },
+      {
         "title": "如何解决开 vpn 时访问淘宝出现“亲，访问被拒绝”？",
         "link": "https://www.v2ex.com/t/655557",
         "date": "2020-03-24"
@@ -14660,6 +14695,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[译] 值得程序员反复品味的编码智慧",
+        "link": "https://toutiao.io/k/105la28",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "实操教程丨使用 Pod 安全策略强化 K8S 安全",
+        "link": "https://toutiao.io/k/rcspdl1",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "SQL 开发任务超 50% ！滴滴实时计算的演进与优化",
+        "link": "https://toutiao.io/k/weyok91",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "Python 小技巧：如何实现操作系统兼容性打包？",
+        "link": "https://toutiao.io/k/76t7v3f",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "Nginx + PHP-FPM: “Primary script unknown” 问题排查",
+        "link": "https://toutiao.io/k/umayqn8",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "RSA 的原理与实现",
+        "link": "https://toutiao.io/k/eksk043",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "[推荐] 3 月美团面经分享",
+        "link": "https://toutiao.io/k/vnx6gp1",
+        "date": "2020-03-24"
+      },
       {
         "title": "[推荐] 三分钟快速搞定 Git 常规使用",
         "link": "https://toutiao.io/k/tpczu0y",

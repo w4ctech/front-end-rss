@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-03-24 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 08:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-03-24-有没有全屋声音采集方案（For-SIRI）？类似-Iron-Man-的-JARVIS，在家里随时随地可以-Hey-Siri-唤醒。](https://www.v2ex.com/t/655559) 
+- [2020-03-24-Sandisk-Ultra-II-960G-SSD-掉盘，还有救吗？](https://www.v2ex.com/t/655558) 
 - [2020-03-24-如何解决开-vpn-时访问淘宝出现“亲，访问被拒绝”？](https://www.v2ex.com/t/655557) 
 - [2020-03-24-新浪股票页面出错了（现在好了），大家看看能看出什么，我只发现了-PHP](https://www.v2ex.com/t/655556) 
 - [2020-03-24-想问个-Netty-的-EventLoopGroup-的-nThread-参数设置，线程数要配置多少才合适？](https://www.v2ex.com/t/655555) 

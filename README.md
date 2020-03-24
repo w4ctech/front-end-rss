@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 06:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 08:30:18，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-03-24-美国确诊新冠肺炎超4万例](http://m.weibo.cn/2803301701/4485900518420249) ![](assets/new.png)  
+- [2020-03-24-意大利单日新增4789例确诊，累计确诊63927例](http://m.weibo.cn/2656274875/4485894860157689) ![](assets/new.png)  
+- [2020-03-24-英国新增967例新冠肺炎](http://m.weibo.cn/2803301701/4485894515702936) ![](assets/new.png)  
+- [2020-03-24-全球确诊新冠肺炎病例超33万，世卫组织称新冠肺炎大流行呈加速传播](http://m.weibo.cn/2803301701/4485891601149458) ![](assets/new.png)  
+- [2020-03-23-美国纽约市新冠肺炎确诊人数超1万](http://m.weibo.cn/2656274875/4485775062705875) ![](assets/new.png)  
 - [2020-03-23-当前全国本土疫情传播已基本阻断，全球疫情大流行下要外防输入内防反弹](http://m.weibo.cn/2803301701/4485741394081098)  
 - [2020-03-23-瑞士新冠肺炎确诊8060例](http://m.weibo.cn/3057540037/4485724411820250)  
 - [2020-03-23-西班牙新冠肺炎增至33089例](http://m.weibo.cn/2803301701/4485713808178570)  
@@ -109,11 +114,6 @@
 - [2020-03-23-哥伦比亚监狱暴动致23死90伤：囚犯不满卫生条件差发起抗议](http://m.weibo.cn/3057540037/4485619134236654)  
 - [2020-03-23-新西兰宣布将全面停工停课](http://m.weibo.cn/2656274875/4485615112315259)  
 - [2020-03-23-澳大利亚无法集结参加今夏奥运会](http://m.weibo.cn/3057540037/4485596506899811)  
-- [2020-03-23-天津新增4例境外输入病例](http://m.weibo.cn/2803301701/4485604790057843)  
-- [2020-03-23-上海应急响应级别调整为二级](http://m.weibo.cn/2656274875/4485585765178598)  
-- [2020-03-23-美国新增6670例新冠肺炎，美国确诊人数突破3万](http://m.weibo.cn/3057540037/4485578869002565)  
-- [2020-03-23-红宝石公主号新增48例确诊](http://m.weibo.cn/2656274875/4485577526929986)  
-- [2020-03-23-上海3月22日无新增本地新冠肺炎确诊病例-治愈出院1例-新增境外输入10例](http://wsjkw.sh.gov.cn/xwfb/20200323/8f0e00f088374e65adf305db08e83064.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -930,8 +930,10 @@
 </summary>
 
 
-- [2020-03-24-如何解决开-vpn-时访问淘宝出现“亲，访问被拒绝”？](https://www.v2ex.com/t/655557) ![](assets/new.png)  
-- [2020-03-24-新浪股票页面出错了（现在好了），大家看看能看出什么，我只发现了-PHP](https://www.v2ex.com/t/655556) ![](assets/new.png)  
+- [2020-03-24-有没有全屋声音采集方案（For-SIRI）？类似-Iron-Man-的-JARVIS，在家里随时随地可以-Hey-Siri-唤醒。](https://www.v2ex.com/t/655559) ![](assets/new.png)  
+- [2020-03-24-Sandisk-Ultra-II-960G-SSD-掉盘，还有救吗？](https://www.v2ex.com/t/655558) ![](assets/new.png)  
+- [2020-03-24-如何解决开-vpn-时访问淘宝出现“亲，访问被拒绝”？](https://www.v2ex.com/t/655557)  
+- [2020-03-24-新浪股票页面出错了（现在好了），大家看看能看出什么，我只发现了-PHP](https://www.v2ex.com/t/655556)  
 - [2020-03-24-想问个-Netty-的-EventLoopGroup-的-nThread-参数设置，线程数要配置多少才合适？](https://www.v2ex.com/t/655555)  
 - [2020-03-24-被谷歌剪掉命根子的出海应用，没几个冤枉的。](https://www.v2ex.com/t/655554)  
 - [2020-03-24-出一个京东-100-的卡，-95-出有老哥要吗](https://www.v2ex.com/t/655553)  
@@ -948,8 +950,6 @@
 - [2020-03-23-想写一个自动测试项目中-Sql-是否正确的开源作品，大家有什么建议吗？](https://www.v2ex.com/t/655541)  
 - [2020-03-23-Python-的协程到底有啥用啊…](https://www.v2ex.com/t/655539)  
 - [2020-03-23-我是抽象翻译的原作者，欢迎大家来玩](https://www.v2ex.com/t/655537)  
-- [2020-03-23-摄影后期使用-ps、lightroom-之类，-macair-够了么?](https://www.v2ex.com/t/655535)  
-- [2020-03-23-Shopee-内推-回馈社区-提供自助内推通道](https://www.v2ex.com/t/655531)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -992,6 +992,13 @@
 </summary>
 
 
+- [2020-03-24-译-值得程序员反复品味的编码智慧](https://toutiao.io/k/105la28) ![](assets/new.png)  
+- [2020-03-24-实操教程丨使用-Pod-安全策略强化-K8S-安全](https://toutiao.io/k/rcspdl1) ![](assets/new.png)  
+- [2020-03-24-SQL-开发任务超-50%-！滴滴实时计算的演进与优化](https://toutiao.io/k/weyok91) ![](assets/new.png)  
+- [2020-03-24-Python-小技巧：如何实现操作系统兼容性打包？](https://toutiao.io/k/76t7v3f) ![](assets/new.png)  
+- [2020-03-24-Nginx-+-PHP-FPM:-“Primary-script-unknown”-问题排查](https://toutiao.io/k/umayqn8) ![](assets/new.png)  
+- [2020-03-24-RSA-的原理与实现](https://toutiao.io/k/eksk043) ![](assets/new.png)  
+- [2020-03-24-推荐-3-月美团面经分享](https://toutiao.io/k/vnx6gp1) ![](assets/new.png)  
 - [2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y)  
 - [2020-03-23-国内无障碍安装-Homebrew](https://toutiao.io/k/sp65v9f)  
 - [2020-03-23-微服务架构案例（三）：数据库选型简介，业务数据规划设计](https://toutiao.io/k/jk1wytw)  
@@ -1005,13 +1012,6 @@
 - [2020-03-23-JVM-源码分析之-Object.wait/notify-All-完全解读](https://toutiao.io/k/yq8sjcn)  
 - [2020-03-23-Julia-工程实践速记](https://toutiao.io/k/5h782ib)  
 - [2020-03-23-技术人的副业之道](https://toutiao.io/k/e2fhmzb)  
-- [2020-03-23-Leader-的自我修养：学会预判](https://toutiao.io/k/mtxsmzy)  
-- [2020-03-23-MediaPipe：跨平台机器学习应用开发框架](https://toutiao.io/k/c0tj6b2)  
-- [2020-03-23-Ant-Design-4.0-的一些杂事儿（CI-篇）](https://toutiao.io/k/ibqcf9j)  
-- [2020-03-23-Spring-Boot-2.x（十二）：Swagger-2-的正确玩儿法](https://toutiao.io/k/b7u1c91)  
-- [2020-03-23-盗版微信通过反编译手段可与正版互联互通，判刑一年，罚金八万](https://toutiao.io/k/cgobid9)  
-- [2020-03-23-存储优化（二）：排序引起的慢查询优化](https://toutiao.io/k/ayfwu7a)  
-- [2020-03-23-上海月薪-1w-和家乡月薪-5000-你选择哪？](https://toutiao.io/k/0r1ktcl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

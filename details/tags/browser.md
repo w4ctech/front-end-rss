@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 08:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -58,6 +58,7 @@
 - [2020-03-21-网络安全方向前景如何？](https://www.v2ex.com/t/654780) 
 - [2020-03-21-请问有朋友知道-network-proxy-的-url-本地的应该怎么填吗？](https://www.v2ex.com/t/654767) 
 - [2020-03-21-Chrome-浏览器-Google-translate-的翻译引擎不一样，哪个更好啊？](https://www.v2ex.com/t/654761) 
+- [2020-03-24-实操教程丨使用-Pod-安全策略强化-K8S-安全](https://toutiao.io/k/rcspdl1) 
 - [2020-03-23-SDL-已死，应用安全路在何方？](https://toutiao.io/k/yurthv3) 
 - [2020-03-21-推荐-与程序员相关的-CPU-缓存知识](https://toutiao.io/k/39ga3ab) 
 - [2020-03-21-跨平台的浏览器自动化工具-Playwright-简析](https://toutiao.io/k/q7331op) 

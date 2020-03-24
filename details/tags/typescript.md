@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 15:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-03-23-TypeScript被吹过头了？](https://www.ershicimi.com/p/b2bcfe68c2f7978da1ddf75b36ea8049) 
 - [2020-03-23-TypeScript进阶-之-重难点梳理](https://www.ershicimi.com/p/7ddd3c5f1b53aacc4b75b33a3e63d2e3) 
 - [2020-03-10-未来可期的TypeScript](https://www.ershicimi.com/p/c3d337c78a0b413c5b31bc3dca260641) 
 - [2020-03-23-【THE-LAST-TIME】Typescript-进阶-之-重难点梳理](https://juejin.im/post/5e7823416fb9a07c7e3db9e6) 

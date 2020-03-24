@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 13:30:22，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 14:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -63,6 +63,9 @@
 </summary>
 
 
+- [2020-03-24-约翰逊下令全英国禁足三周-确诊近7000例死亡率达5%](http://international.caixin.com/2020-03-24/101533141.html) ![](assets/new.png)  
+- [2020-03-24-美国顶级传染病专家福奇:我绝不会使用“中国病毒”一词](http://www.caixin.com/2020-03-24/101533024.html) ![](assets/new.png)  
+- [2020-03-24-武汉4月8日解除离境通道管控-凭“绿码”离汉离鄂](http://china.caixin.com/2020-03-24/101533160.html) ![](assets/new.png)  
 - [2020-03-24-复工之困：“湖北人不等于病毒”](http://www.caixin.com/2020-03-24/101533104.html)  
 - [2020-03-24-京沪首次通报境外输入关联病例-北京入境者均需做核酸检测](http://china.caixin.com/2020-03-24/101533123.html)  
 - [2020-03-24-3月23日:全国新冠累计确诊81171例-湖北输入广东1例（更新中）](http://china.caixin.com/2020-03-24/101533097.html)  
@@ -80,9 +83,6 @@
 - [2020-03-23-大流行手记|3月23日：病毒走向非洲-发展中国家疫情抬头](http://international.caixin.com/2020-03-23/101532922.html)  
 - [2020-03-23-中央明确：以武汉为主战场的全国本土疫情传播基本阻断](http://china.caixin.com/2020-03-23/101532813.html)  
 - [2020-03-23-伊朗病死率攀升至约8%-大量民众仍在波斯新年假期出游](http://international.caixin.com/2020-03-23/101532860.html)  
-- [2020-03-23-印度封锁新德里和75个行政区-澳大利亚疫情升高](http://international.caixin.com/2020-03-23/101532815.html)  
-- [2020-03-23-北京通报一无症状感染者确诊新冠-17日入境22日确诊](http://china.caixin.com/2020-03-23/101532899.html)  
-- [2020-03-23-浙江应急响应级别由二级降为三级-已连续30天无本地新增病例](http://china.caixin.com/2020-03-23/101532757.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,11 +94,15 @@
 </summary>
 
 
-- [2020-03-24-再接再厉，慎终如始！龚正今天在市疾控中心调研疫情防控工作](http://wsjkw.sh.gov.cn/xwfb/20200324/43a0dbb6de924100912a3da5a5239eea.html) ![](assets/new.png)  
-- [2020-03-24-3月23日18时至24日6时-天津市无新增本地新冠肺炎确诊病例-新增境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/24/art_87_72654.html) ![](assets/new.png)  
-- [2020-03-24-英雄回家！云南援鄂医疗队首批205人凯旋抵滇](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502054506847538) ![](assets/new.png)  
-- [2020-03-24-意大利4824名医护感染新冠病毒，24名医生殉职](http://m.weibo.cn/3057540037/4485966423211758) ![](assets/new.png)  
-- [2020-03-24-全球确诊新冠肺炎突破38万例，美国确诊病例超4.6万例](http://m.weibo.cn/3057540037/4485962514251555) ![](assets/new.png)  
+- [2020-03-24-北京3月24日0时至12时新增报告境外输入确诊病例4例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200324_1731501.html) ![](assets/new.png)  
+- [2020-03-24-25日零时起湖北除武汉外解除离鄂通道管控](http://m.weibo.cn/2656274875/4485983573945248) ![](assets/new.png)  
+- [2020-03-24-上海社区回应允许回沪洋女婿居家隔离：未违规，将安抚居民](http://m.weibo.cn/3057540037/4485976489294145) ![](assets/new.png)  
+- [2020-03-24-754名援鄂医疗队员返昆，多位省领导机场迎接](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502180558682867) ![](assets/new.png)  
+- [2020-03-24-再接再厉，慎终如始！龚正今天在市疾控中心调研疫情防控工作](http://wsjkw.sh.gov.cn/xwfb/20200324/43a0dbb6de924100912a3da5a5239eea.html)  
+- [2020-03-24-3月23日18时至24日6时-天津市无新增本地新冠肺炎确诊病例-新增境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/24/art_87_72654.html)  
+- [2020-03-24-英雄回家！云南援鄂医疗队首批205人凯旋抵滇](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502054506847538)  
+- [2020-03-24-意大利4824名医护感染新冠病毒，24名医生殉职](http://m.weibo.cn/3057540037/4485966423211758)  
+- [2020-03-24-全球确诊新冠肺炎突破38万例，美国确诊病例超4.6万例](http://m.weibo.cn/3057540037/4485962514251555)  
 - [2020-03-24-谭德塞说病毒蔓延速度让人悲痛](http://m.weibo.cn/2656274875/4485955383717251)  
 - [2020-03-24-战“疫”急需全球合作](http://m.weibo.cn/3057540037/4485946290326872)  
 - [2020-03-24-陕西新增1例境外输入新冠肺炎-240例治愈出院](http://sxwjw.shaanxi.gov.cn/art/2020/3/24/art_9_69150.html)  
@@ -110,10 +114,6 @@
 - [2020-03-24-美国确诊新冠肺炎超4万例](http://m.weibo.cn/2803301701/4485900518420249)  
 - [2020-03-24-意大利单日新增4789例确诊，累计确诊63927例](http://m.weibo.cn/2656274875/4485894860157689)  
 - [2020-03-24-英国新增967例新冠肺炎](http://m.weibo.cn/2803301701/4485894515702936)  
-- [2020-03-24-全球确诊新冠肺炎病例超33万，世卫组织称新冠肺炎大流行呈加速传播](http://m.weibo.cn/2803301701/4485891601149458)  
-- [2020-03-23-美国纽约市新冠肺炎确诊人数超1万](http://m.weibo.cn/2656274875/4485775062705875)  
-- [2020-03-23-当前全国本土疫情传播已基本阻断，全球疫情大流行下要外防输入内防反弹](http://m.weibo.cn/2803301701/4485741394081098)  
-- [2020-03-23-瑞士新冠肺炎确诊8060例](http://m.weibo.cn/3057540037/4485724411820250)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,7 +146,7 @@
 </summary>
 
 
-- [2020-03-24-20行实现一个Promise](https://www.ershicimi.com/p/92f3a993ad32ce873555041117ebbd68) ![](assets/new.png)  
+- [2020-03-24-20行实现一个Promise](https://www.ershicimi.com/p/92f3a993ad32ce873555041117ebbd68)  
 - [2020-03-23-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/022867fb642e7799ce0d77d9bf2b46dc)  
 - [2020-03-23-让你的百度网盘更快](https://www.ershicimi.com/p/d8d1ca44df17006a625b99cbff0cb82e)  
 - [2020-03-22-微信暗黑模式开启](https://www.ershicimi.com/p/3c6525bf539949733e9edd161f04bdab)  
@@ -408,7 +408,7 @@
 </summary>
 
 
-- [2020-03-23-express新手入门指南](https://www.ershicimi.com/p/fee5ec8b53f50bdf1dba087cb47629b0) ![](assets/new.png)  
+- [2020-03-23-express新手入门指南](https://www.ershicimi.com/p/fee5ec8b53f50bdf1dba087cb47629b0)  
 - [2020-03-22-介绍一位从外包走进腾讯的朋友](https://www.ershicimi.com/p/d66d608bc8f61f5703cde19c0e1f6b08)  
 - [2020-03-21-腾讯云-官网&云加社区急聘前端工程师！](https://www.ershicimi.com/p/db3a861dffde9bfbefc3ed22f4721054)  
 - [2020-03-21-新建前端群，包括北上广深杭前端交流群，求人气！](https://www.ershicimi.com/p/3e596aa1d7f29ba3a3856d9a2ac6eb6a)  
@@ -955,22 +955,22 @@
 </summary>
 
 
-- [2020-03-24-聂卫平围棋道场线上平台事业部招聘～](https://www.v2ex.com/t/655672) ![](assets/new.png)  
-- [2020-03-24-Github-文件加速更新，支持-clone-加速](https://www.v2ex.com/t/655671) ![](assets/new.png)  
-- [2020-03-24-我真的要死了，-google-的西联哪家银行能办理啊？](https://www.v2ex.com/t/655670) ![](assets/new.png)  
-- [2020-03-24-抖音推送广告是怎么实现的，刚在京东搜完，刷抖音就遇到推送的相关京东广告](https://www.v2ex.com/t/655669) ![](assets/new.png)  
-- [2020-03-24-求推荐安卓测试用手机](https://www.v2ex.com/t/655668) ![](assets/new.png)  
-- [2020-03-24-疫情之下，有工作的都先保住工作，不考虑换工作吗？如果有更好的工作机会呢？](https://www.v2ex.com/t/655667) ![](assets/new.png)  
-- [2020-03-24-g-suite-暂停计费后，数据保留多久？](https://www.v2ex.com/t/655666) ![](assets/new.png)  
-- [2020-03-24-不给权限每次打开就弹框有没有办法治](https://www.v2ex.com/t/655665) ![](assets/new.png)  
-- [2020-03-24-NF-4K-45/3mo](https://www.v2ex.com/t/655664) ![](assets/new.png)  
-- [2020-03-24-sfadfdsf](https://www.v2ex.com/t/655663) ![](assets/new.png)  
-- [2020-03-24-Akulaku-内推-精选好-offer-Java-、运维、-Python-、测试、DBA-、数据、前端、运营、财务](https://www.v2ex.com/t/655662) ![](assets/new.png)  
-- [2020-03-24-还能等到小屏-iPhone-吗？](https://www.v2ex.com/t/655661) ![](assets/new.png)  
-- [2020-03-24-失眠到头秃，有什么快速入睡的方法莫，当然啦生发的方法最需要了](https://www.v2ex.com/t/655660) ![](assets/new.png)  
-- [2020-03-24-扫脸登录网站：这可能是你能找到的最详细的-WebAuthn-中文文章（和-wordpress-插件）](https://www.v2ex.com/t/655659) ![](assets/new.png)  
-- [2020-03-24-一起学习-thingsboard-物联网平台，欢迎一起翻译-thingsboard-中文文档](https://www.v2ex.com/t/655658) ![](assets/new.png)  
-- [2020-03-24-主题相关功能建议](https://www.v2ex.com/t/655656) ![](assets/new.png)  
+- [2020-03-24-聂卫平围棋道场线上平台事业部招聘～](https://www.v2ex.com/t/655672)  
+- [2020-03-24-Github-文件加速更新，支持-clone-加速](https://www.v2ex.com/t/655671)  
+- [2020-03-24-我真的要死了，-google-的西联哪家银行能办理啊？](https://www.v2ex.com/t/655670)  
+- [2020-03-24-抖音推送广告是怎么实现的，刚在京东搜完，刷抖音就遇到推送的相关京东广告](https://www.v2ex.com/t/655669)  
+- [2020-03-24-求推荐安卓测试用手机](https://www.v2ex.com/t/655668)  
+- [2020-03-24-疫情之下，有工作的都先保住工作，不考虑换工作吗？如果有更好的工作机会呢？](https://www.v2ex.com/t/655667)  
+- [2020-03-24-g-suite-暂停计费后，数据保留多久？](https://www.v2ex.com/t/655666)  
+- [2020-03-24-不给权限每次打开就弹框有没有办法治](https://www.v2ex.com/t/655665)  
+- [2020-03-24-NF-4K-45/3mo](https://www.v2ex.com/t/655664)  
+- [2020-03-24-sfadfdsf](https://www.v2ex.com/t/655663)  
+- [2020-03-24-Akulaku-内推-精选好-offer-Java-、运维、-Python-、测试、DBA-、数据、前端、运营、财务](https://www.v2ex.com/t/655662)  
+- [2020-03-24-还能等到小屏-iPhone-吗？](https://www.v2ex.com/t/655661)  
+- [2020-03-24-失眠到头秃，有什么快速入睡的方法莫，当然啦生发的方法最需要了](https://www.v2ex.com/t/655660)  
+- [2020-03-24-扫脸登录网站：这可能是你能找到的最详细的-WebAuthn-中文文章（和-wordpress-插件）](https://www.v2ex.com/t/655659)  
+- [2020-03-24-一起学习-thingsboard-物联网平台，欢迎一起翻译-thingsboard-中文文档](https://www.v2ex.com/t/655658)  
+- [2020-03-24-主题相关功能建议](https://www.v2ex.com/t/655656)  
 - [2020-03-24-safari-中的-adblock-等拦截插件没有-Chrome-中的好用啊](https://www.v2ex.com/t/655655)  
 - [2020-03-24-小米的-ScreenBar-Plus-啥时候能出来](https://www.v2ex.com/t/655654)  
 - [2020-03-24-ext4-下大量文件存储还有必要做深目录-hash-吗？](https://www.v2ex.com/t/655652)  
@@ -1017,6 +1017,10 @@
 </summary>
 
 
+- [2020-03-24-解读国密非对称加密算法-SM2](https://toutiao.io/k/5h8t8sm) ![](assets/new.png)  
+- [2020-03-24-OPA-进阶：简洁的推导式](https://toutiao.io/k/6h9brdl) ![](assets/new.png)  
+- [2020-03-24-携程酒店安卓地图开发实践](https://toutiao.io/k/zmcx2li) ![](assets/new.png)  
+- [2020-03-24-越来越好的测试离不开不断总结和持续改进](https://toutiao.io/k/zg7aww8) ![](assets/new.png)  
 - [2020-03-24-这个锅，运维来背？忘记续期-HTTPS-证书，网易邮箱大量用户无法使用](https://toutiao.io/k/vw1200b)  
 - [2020-03-24-把-GitHub-放入口袋，“开箱”-官方客户端](https://toutiao.io/k/hssr32w)  
 - [2020-03-24-优化-DeFi-合约利息计算-gas-消耗](https://toutiao.io/k/aqdp1p7)  
@@ -1033,10 +1037,6 @@
 - [2020-03-24-YOLOv3-精度再次提高-4.3%，训练提速-40%！PaddleDetection-全面升级](https://toutiao.io/k/qeq02jm)  
 - [2020-03-24-译-Vue-+-Node-+-WebRTC-构建一个高逼格的视频应用](https://toutiao.io/k/gd2vuac)  
 - [2020-03-24-译-值得程序员反复品味的编码智慧](https://toutiao.io/k/105la28)  
-- [2020-03-24-实操教程丨使用-Pod-安全策略强化-K8S-安全](https://toutiao.io/k/rcspdl1)  
-- [2020-03-24-SQL-开发任务超-50%-！滴滴实时计算的演进与优化](https://toutiao.io/k/weyok91)  
-- [2020-03-24-Python-小技巧：如何实现操作系统兼容性打包？](https://toutiao.io/k/76t7v3f)  
-- [2020-03-24-Nginx-+-PHP-FPM:-“Primary-script-unknown”-问题排查](https://toutiao.io/k/umayqn8)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

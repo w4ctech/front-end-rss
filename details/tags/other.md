@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-03-24 13:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-03-24-约翰逊下令全英国禁足三周-确诊近7000例死亡率达5%](http://international.caixin.com/2020-03-24/101533141.html) 
+- [2020-03-24-美国顶级传染病专家福奇:我绝不会使用“中国病毒”一词](http://www.caixin.com/2020-03-24/101533024.html) 
+- [2020-03-24-武汉4月8日解除离境通道管控-凭“绿码”离汉离鄂](http://china.caixin.com/2020-03-24/101533160.html) 
 - [2020-03-24-复工之困：“湖北人不等于病毒”](http://www.caixin.com/2020-03-24/101533104.html) 
 - [2020-03-24-京沪首次通报境外输入关联病例-北京入境者均需做核酸检测](http://china.caixin.com/2020-03-24/101533123.html) 
 - [2020-03-24-3月23日:全国新冠累计确诊81171例-湖北输入广东1例（更新中）](http://china.caixin.com/2020-03-24/101533097.html) 
@@ -1133,6 +1136,10 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://photos.caixin.com/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://china.caixin.com/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
+- [2020-03-24-北京3月24日0时至12时新增报告境外输入确诊病例4例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200324_1731501.html) 
+- [2020-03-24-25日零时起湖北除武汉外解除离鄂通道管控](http://m.weibo.cn/2656274875/4485983573945248) 
+- [2020-03-24-上海社区回应允许回沪洋女婿居家隔离：未违规，将安抚居民](http://m.weibo.cn/3057540037/4485976489294145) 
+- [2020-03-24-754名援鄂医疗队员返昆，多位省领导机场迎接](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502180558682867) 
 - [2020-03-24-再接再厉，慎终如始！龚正今天在市疾控中心调研疫情防控工作](http://wsjkw.sh.gov.cn/xwfb/20200324/43a0dbb6de924100912a3da5a5239eea.html) 
 - [2020-03-24-英雄回家！云南援鄂医疗队首批205人凯旋抵滇](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502054506847538) 
 - [2020-03-24-意大利4824名医护感染新冠病毒，24名医生殉职](http://m.weibo.cn/3057540037/4485966423211758) 
@@ -2077,6 +2084,9 @@
 - [2020-03-21-频频被提起的“区块链”，到底是个啥？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13281&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F112366484%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-24-OPA-进阶：简洁的推导式](https://toutiao.io/k/6h9brdl) 
+- [2020-03-24-携程酒店安卓地图开发实践](https://toutiao.io/k/zmcx2li) 
+- [2020-03-24-越来越好的测试离不开不断总结和持续改进](https://toutiao.io/k/zg7aww8) 
 - [2020-03-24-带时光机的-Kubernetes-Dashboard：Kubevious](https://toutiao.io/k/jslqvf3) 
 - [2020-03-24-微信架构总监：微信-10-亿日活场景下，后台系统微服务架构实践](https://toutiao.io/k/tr32h3p) 
 - [2020-03-24-教你如何从零开始搭建一个属于自己的网站](https://toutiao.io/k/lteprw1) 

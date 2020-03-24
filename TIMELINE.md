@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 13:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-约翰逊下令全英国禁足三周-确诊近7000例死亡率达5%](http://international.caixin.com/2020-03-24/101533141.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-美国顶级传染病专家福奇:我绝不会使用“中国病毒”一词](http://www.caixin.com/2020-03-24/101533024.html) 
+- [【武汉肺炎防疫全纪录(财新网)】2020-03-24-武汉4月8日解除离境通道管控-凭“绿码”离汉离鄂](http://china.caixin.com/2020-03-24/101533160.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-24-复工之困：“湖北人不等于病毒”](http://www.caixin.com/2020-03-24/101533104.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-24-京沪首次通报境外输入关联病例-北京入境者均需做核酸检测](http://china.caixin.com/2020-03-24/101533123.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-24-3月23日:全国新冠累计确诊81171例-湖北输入广东1例（更新中）](http://china.caixin.com/2020-03-24/101533097.html) 
@@ -587,6 +590,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-韩国公民来华躲疫情？国家移民管理局：未发现大量涌入](http://china.caixin.com/2020-03-01/101522448.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-云南红河男子刺死两名防疫人员-一审获死刑](http://china.caixin.com/2020-03-01/101522438.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-80名中国公民在莫斯科遭指定地点隔离-中国使馆高度关注](http://international.caixin.com/2020-03-01/101522378.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-北京3月24日0时至12时新增报告境外输入确诊病例4例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200324_1731501.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-25日零时起湖北除武汉外解除离鄂通道管控](http://m.weibo.cn/2656274875/4485983573945248) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-上海社区回应允许回沪洋女婿居家隔离：未违规，将安抚居民](http://m.weibo.cn/3057540037/4485976489294145) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-754名援鄂医疗队员返昆，多位省领导机场迎接](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502180558682867) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-再接再厉，慎终如始！龚正今天在市疾控中心调研疫情防控工作](http://wsjkw.sh.gov.cn/xwfb/20200324/43a0dbb6de924100912a3da5a5239eea.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-3月23日18时至24日6时-天津市无新增本地新冠肺炎确诊病例-新增境外输入确诊病例1例](http://wsjk.tj.gov.cn/art/2020/3/24/art_87_72654.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-英雄回家！云南援鄂医疗队首批205人凯旋抵滇](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU158502054506847538) 
@@ -1883,6 +1890,10 @@
 - [【技术头条】2020-03-21-JVM源码分析之jstat工具原理完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13280&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F316783%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-Golang-的-“omitempty”-关键字略解-old-panda.com](https://blogread.cn/news/go.php?idItem=13279&url=https%3A%2F%2Fold-panda.com%2F2019%2F12%2F11%2Fgolang-omitempty%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-03-21-近-50-种花式-“Hello,-World”-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13278&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAho6LkU7-RmrTuAW7EqLKg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-03-24-解读国密非对称加密算法-SM2](https://toutiao.io/k/5h8t8sm) 
+- [【开发者头条】2020-03-24-OPA-进阶：简洁的推导式](https://toutiao.io/k/6h9brdl) 
+- [【开发者头条】2020-03-24-携程酒店安卓地图开发实践](https://toutiao.io/k/zmcx2li) 
+- [【开发者头条】2020-03-24-越来越好的测试离不开不断总结和持续改进](https://toutiao.io/k/zg7aww8) 
 - [【开发者头条】2020-03-24-这个锅，运维来背？忘记续期-HTTPS-证书，网易邮箱大量用户无法使用](https://toutiao.io/k/vw1200b) 
 - [【开发者头条】2020-03-24-把-GitHub-放入口袋，“开箱”-官方客户端](https://toutiao.io/k/hssr32w) 
 - [【开发者头条】2020-03-24-优化-DeFi-合约利息计算-gas-消耗](https://toutiao.io/k/aqdp1p7) 

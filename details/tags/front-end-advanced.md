@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,6 +20,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
 - [2020-03-23-（建议精读）HTTP灵魂之问，巩固你的-HTTP-知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746) 
+- [2020-03-24-求教有没有-window-下类似-docker-的服务管理，支持-gpu-调用](https://www.v2ex.com/t/655755) 
 - [2020-03-24-初级算法工程师15-25k上海浦东接受应届生](https://www.v2ex.com/t/655727) 
 - [2020-03-24-杭州-社招-内推-天猫海外-产品-数据分析-Java-算法-前端-基本都有](https://www.v2ex.com/t/655611) 
 - [2020-03-23-杭州-海拍客急招前端开发、-Java-、算法、大数据等岗位](https://www.v2ex.com/t/655515) 

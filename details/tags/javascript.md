@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -46,6 +46,7 @@
 - [2020-03-19-5-个提升你-JS-编码水平的实例](https://www.ershicimi.com/p/ffd5a278408af48a58655ae046c67697) 
 - [2020-03-13-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/1c75b75c63bbcd164f8d2c9e90ad7dc1) 
 - [2020-03-11-70个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/e1056a5eef4eeabbee38e17a42242a97) 
+- [2020-03-24-（9k长文）Promise|async|Generator-实现&原理大解析](https://www.ershicimi.com/p/b7d3fa5843c2437514b3ca943ffee9a2) 
 - [2020-03-19-从-JavaScript-发展历史中聊-ECMAScriptES6-ES11-新功能](https://www.ershicimi.com/p/1d037680f2882eb8b9686219060be61e) 
 - [2020-02-27-实现一个二叉搜索树（JavaScript-版）](https://www.ershicimi.com/p/edf15a8c80e830e02da1d284e0f9464e) 
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) 
@@ -82,6 +83,7 @@
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
 - [2020-03-24-最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）](https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd) 
 - [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
+- [2020-03-24-异步和-Promise-Note-FrontEnd-29](https://juejin.im/post/5e79aec36fb9a07cab3ac174) 
 - [2020-03-24-【你不知道的-Proxy💥】用-ES6-Proxy-能做哪些有意思的事情？](https://juejin.im/post/5e78d908f265da57340267f7) 
 - [2020-03-24-Javascript协程与迭代器](https://juejin.im/post/5e78d5f9f265da570a5d6e71) 
 - [2020-03-23-编写可复用的组件，我们可以收获很多](https://juejin.im/post/5e76d6eef265da5732554e32) 
@@ -108,6 +110,7 @@
 - [2020-03-21-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-03-21-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-03-24-请教一个-Json-转换的问题](https://www.v2ex.com/t/655746) 
 - [2020-03-24-K2-这个破路由器刷哪个固件比较好？](https://www.v2ex.com/t/655732) 
 - [2020-03-24-用在接口服务器上，-SpringMVC-比起-JSP-到底有什么优势？](https://www.v2ex.com/t/655722) 
 - [2020-03-23-CSS-里颜色变量使用透明值的问题](https://www.v2ex.com/t/655487) 

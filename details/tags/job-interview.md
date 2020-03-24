@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,10 +37,13 @@
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894) 
 - [2020-03-18-大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb) 
+- [2020-03-24-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1) 
 - [2020-03-23-面试专题总结：手撕代码](https://juejin.im/post/5e787b42e51d45272054dfae) 
 - [2020-03-23-面试之路（不断更新）](https://juejin.im/post/5e6c6a0b6fb9a07ce31f0021) 
 - [2020-03-22-前端面试之面试准备](https://juejin.im/post/5e75e19351882549417feca0) 
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc) 
+- [2020-03-24-爱因互动，智能对话项目，社招、校招均可，面试通过即可入职-坐标北京](https://www.v2ex.com/t/655758) 
+- [2020-03-24-腾讯云海量岗位招聘中，长沙，深圳，你的简历准备好了吗](https://www.v2ex.com/t/655744) 
 - [2020-03-24-招聘-阿里巴巴-校招-2021-届-实习转正-hc-多-新零售供应链平台事业部](https://www.v2ex.com/t/655717) 
 - [2020-03-24-内推-蚂蚁金服-2021-届-Python-和-NLP-实习生招聘，可转正](https://www.v2ex.com/t/655713) 
 - [2020-03-24-聂卫平围棋道场线上平台事业部招聘～](https://www.v2ex.com/t/655672) 

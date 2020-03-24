@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1186,6 +1186,8 @@
 - [2020-03-17-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/b33794fb72d8613c9181ac5bfabdae2e) 
 - [2020-03-16-【第1886期】Ant-Design暗黑模式设计解析](https://www.ershicimi.com/p/9cb8c7c57fc8cc336744e582506a404b) 
 - [2020-03-16-2020-年需要学习的-8-个前端关键技能](https://www.ershicimi.com/p/d1cd86723fa7f6c2b827f22ce6165b1e) 
+- [2020-03-24-前端高级进阶：前端部署的发展历程](https://www.ershicimi.com/p/14335fc85d6497ea4a5b4eb1ba375ccd) 
+- [2020-03-23-前端进阶之-a-可以同时-==-1-&&-==-2-&&-==-3吗？](https://www.ershicimi.com/p/a5ca81562cc902b8802a5bb139f964a6) 
 - [2020-03-22-实时可视化Debug：VS-Code-开源新工具，一键解析代码结构](https://www.ershicimi.com/p/3c6f1efc7e8e0bed32b0c4b063adfd21) 
 - [2020-03-19-2020年不可错过的8个前端关键技能](https://www.ershicimi.com/p/6d0e3621e683940fb354178ea3d37be2) 
 - [2020-03-19-阿里社招面经（已过）](https://www.ershicimi.com/p/29e11e0dbd60b299939957799fe3e7f6) 
@@ -1193,6 +1195,7 @@
 - [2020-03-13-程序员注意啦，这个群可以学英语，还全程免费！](https://www.ershicimi.com/p/34344f86b65cd3273018e629f7017603) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-03-23-我为什么说你一定要懂源码？！](https://www.ershicimi.com/p/6169f820a8e4d8e18d19e9c96a428e97) 
 - [2020-03-18-特殊的2020年，谈谈前端程序员的进阶和未来](https://www.ershicimi.com/p/f4846d15b0434d616bb2c2ab5cc97bdf) 
 - [2020-03-18-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/740a4cabdc55b76a00009815a86cc10a) 
 - [2020-03-17-2020QS世界大学计算机学科排名出炉，清华大学再创佳绩](https://www.ershicimi.com/p/4f38ae8eefb3b48b6cc191243236e238) 
@@ -1348,6 +1351,8 @@
 - [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd) 
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b) 
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7) 
+- [2020-03-24-顺手的软件配置（上）Note-Basis-2](https://juejin.im/post/5e78ba516fb9a07caf4483aa) 
+- [2020-03-24-教你十分钟开发后台管理系统](https://juejin.im/post/5e794509f265da57375c6795) 
 - [2020-03-24-前端工程师的-LeetCode-之旅---夜喵专场（22）](https://juejin.im/post/5e772fffe51d450efb2c13b8) 
 - [2020-03-23-阿里前端也切图？不，人工智能帮你做](https://juejin.im/post/5e78ddd96fb9a07ca1373b81) 
 - [2020-03-23-开发一个关于疫情信息的微信机器人](https://juejin.im/post/5e78be43e51d4526f45a9962) 

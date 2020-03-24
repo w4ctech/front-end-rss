@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -24,6 +24,7 @@
 - [2020-03-19-【招聘】阿里业务平台事业部体验技术团队招实习生](https://www.ershicimi.com/p/b69c7cc3e4daeefc4bacdb7d05e91621) 
 - [2020-03-16-【招聘】阿里AE技术部前端招P6/P7、21届实习生](https://www.ershicimi.com/p/5d35fc589da902af028d13afb6cffb7b) 
 - [2020-03-16-前端面试官：你知道-source-map-的原理吗？](https://www.ershicimi.com/p/bbd4d4c5cfdd022d4e3662188c8a8aa5) 
+- [2020-03-24-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/191ba3646a44e4001347d5c44f148afc) 
 - [2020-03-19-一年半前端跳槽面试经验（头条、微信、shopee）](https://www.ershicimi.com/p/27c1e7a6525a63c12a2108e2abb2f7a6) 
 - [2020-03-17-前端面试顺利通关的十大要点](https://www.ershicimi.com/p/a97830618be0a166218258893d1f0d9e) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 

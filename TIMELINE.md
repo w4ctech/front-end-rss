@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-24 21:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -595,6 +595,13 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-韩国公民来华躲疫情？国家移民管理局：未发现大量涌入](http://china.caixin.com/2020-03-01/101522448.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-云南红河男子刺死两名防疫人员-一审获死刑](http://china.caixin.com/2020-03-01/101522438.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-80名中国公民在莫斯科遭指定地点隔离-中国使馆高度关注](http://international.caixin.com/2020-03-01/101522378.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-欧洲新冠肺炎确诊病例已超20万例](http://m.weibo.cn/3057540037/4486101999981143) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-加纳新增25例新冠肺炎确诊病例-累计确诊52例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSmIv9JhHbhm3LRdNwA9E200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-澳大利亚总理：将禁止民众海外旅行并关闭更多公共场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqo9LrLi98OpFa5qyg4Ok200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-菲律宾航空公司暂停所有国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizstBQj5T1S3DsjJML4gf200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-中国近70吨医疗物资运抵匈牙利首都-匈总理亲自迎接](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLCf3V9fpW1lOLG383XO2200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-津巴布韦出现首例新冠肺炎死亡病例-系当地知名媒体人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRYAjFniEjxsChMbJ3qd200324&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-意大利挂起中国和俄罗斯国旗](http://m.weibo.cn/3057540037/4486082186404845) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-日本首相与国际奥委会主席通话-确定奥运会延期1年提案方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitPYaVq8O1sTsQkpXoFva200324&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-比利时新增新冠肺炎确诊病例526例-累计4269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwN0XKdc0vPmlSGrMs2cH200324&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-03-24-巴林新增52例新冠肺炎确诊病例-累计391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3J1D92PPEAuCIbwZn62a200324&isfromapp=1) 

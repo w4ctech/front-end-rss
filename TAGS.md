@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-03-24 22:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -477,6 +477,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://china.caixin.com/2020-03-14/101528625.html)
 - [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://china.caixin.com/2020-02-07/101512825.html)
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://china.caixin.com/2020-01-28/101509076.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】江苏三部门发通知！保障中小学幼儿园春季开学交通安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticBgXQZXhmS5yjVcbfp8h200324&isfromapp=1)
 - [【前端早读课】【第1893期】TypedArray-还是-DataView:-理解字节序](https://www.ershicimi.com/p/5bf52cc9a84694fe0cd2dcd9590fd8ac)
 - [【前端早读课】【第1891期】iOS-键盘难题与可见视口（VisualViewport）API](https://www.ershicimi.com/p/97be9a83d4e051c887de3c801882c442)
 - [【前端大全】又来了！Google-和微软在浏览器上的互掐](https://www.ershicimi.com/p/5bc6084825cf2a06eb65efcb3a83c965)
@@ -492,7 +493,6 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【奇舞周刊】前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

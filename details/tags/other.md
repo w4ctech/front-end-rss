@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1141,6 +1141,7 @@
 - [2020-01-20-【图集】武汉每天76趟列车抵广州南-旅客少有戴口罩未见体温检测](http://photos.caixin.com/2020-01-20/101506484.html) 
 - [2020-01-16-日本公布一新型冠状病毒感染病例-患者去过武汉](http://china.caixin.com/2020-01-16/101506054.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
+- [2020-03-24-多措并举-加速推动复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiybKldROQQgPgkck68Puk200324&isfromapp=1) 
 - [2020-03-24-澳大利亚总理：将禁止民众海外旅行并关闭更多公共场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqo9LrLi98OpFa5qyg4Ok200324&isfromapp=1) 
 - [2020-03-24-菲律宾航空公司暂停所有国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizstBQj5T1S3DsjJML4gf200324&isfromapp=1) 
 - [2020-03-24-中国近70吨医疗物资运抵匈牙利首都-匈总理亲自迎接](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLCf3V9fpW1lOLG383XO2200324&isfromapp=1) 

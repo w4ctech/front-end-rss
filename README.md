@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 19:30:15，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 20:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-03-24-南京市、苏州市、常州市修改防疫措施：允许市民清明前后有序祭扫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqw2qwvUhjuQy7gs73oO200324&isfromapp=1) ![](assets/new.png)  
-- [2020-03-24-#街头直播看塞尔维亚疫情现状#！](http://m.weibo.cn/2656274875/4486067208443738) ![](assets/new.png)  
-- [2020-03-24-快讯！#德国新冠肺炎累计确诊病例突破3万#](http://m.weibo.cn/3057540037/4486064716304788) ![](assets/new.png)  
+- [2020-03-24-南京市、苏州市、常州市修改防疫措施：允许市民清明前后有序祭扫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBqw2qwvUhjuQy7gs73oO200324&isfromapp=1)  
+- [2020-03-24-#街头直播看塞尔维亚疫情现状#！](http://m.weibo.cn/2656274875/4486067208443738)  
+- [2020-03-24-快讯！#德国新冠肺炎累计确诊病例突破3万#](http://m.weibo.cn/3057540037/4486064716304788)  
 - [2020-03-24-安徽合肥14日内有境外旅居史人员实施集中隔离-食宿费用自理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiscCiHQsrryrOnxrzkBTL200324&isfromapp=1)  
 - [2020-03-24-可可爱爱！监控拍下小学生复课第一天向值班医生鞠躬](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin0Okb35zR18jG0qLbOJ7200324&isfromapp=1)  
 - [2020-03-24-北京境外输入确诊病例相关情况](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202003/t20200324_1732061.html)  
@@ -968,26 +968,26 @@
 </summary>
 
 
+- [2020-03-24-头条内推群，感兴趣的小伙伴欢迎投递简历！](https://www.v2ex.com/t/655803) ![](assets/new.png)  
+- [2020-03-24-现在大家面试找工作的话，如何了？](https://www.v2ex.com/t/655801) ![](assets/new.png)  
+- [2020-03-24-脉脉真是恶心至极!](https://www.v2ex.com/t/655800) ![](assets/new.png)  
+- [2020-03-24-联通宽带提速](https://www.v2ex.com/t/655799) ![](assets/new.png)  
+- [2020-03-24-北京海淀-长亭科技（阿里云全资子公司）-研发工程师：-C++](https://www.v2ex.com/t/655798) ![](assets/new.png)  
+- [2020-03-24-广州联通宽带现在有-ipv6-吗?](https://www.v2ex.com/t/655797) ![](assets/new.png)  
+- [2020-03-24-chrome-80.0.3987.149-又变成默认显示-www-了？](https://www.v2ex.com/t/655796) ![](assets/new.png)  
+- [2020-03-24-我也来分享一下我的个人博客](https://www.v2ex.com/t/655795) ![](assets/new.png)  
+- [2020-03-24-媳妇让我买了爱奇艺会员，买完了发现上面没有我俩能看的内容，怎么破...](https://www.v2ex.com/t/655794) ![](assets/new.png)  
+- [2020-03-24-用标记语言生成响应式新闻邮件](https://www.v2ex.com/t/655792) ![](assets/new.png)  
+- [2020-03-24-谁来帮我分析下，那群不下班不干活的后端工程师是啥心态？](https://www.v2ex.com/t/655791) ![](assets/new.png)  
+- [2020-03-24-TeamViewer-上不去了](https://www.v2ex.com/t/655789) ![](assets/new.png)  
+- [2020-03-24-京东电子书-购买后无法网页端观看](https://www.v2ex.com/t/655788) ![](assets/new.png)  
+- [2020-03-24-打破时空界限，多贝联合-QingCloud-为教育机构零门槛构建-10W+-在线课堂](https://www.v2ex.com/t/655787) ![](assets/new.png)  
+- [2020-03-24-南京-招-vue-前端](https://www.v2ex.com/t/655786) ![](assets/new.png)  
 - [2020-03-24-我建了一个有湖有树的院子，集思广益取名字](https://www.v2ex.com/t/655785)  
 - [2020-03-24-有没有文章直接指出-MYSQL-四个隔离级别（特别中间两个）下到底怎么上锁，上什么锁的？什么不可重复读，幻读乱七八糟的](https://www.v2ex.com/t/655784)  
 - [2020-03-24-上海-像素偏移（PixelShift.AI）招聘云平台、图像算法、大数据、后台工程师](https://www.v2ex.com/t/655783)  
 - [2020-03-24-南京-招测试](https://www.v2ex.com/t/655782)  
 - [2020-03-24-浙江鼓励一周休-2.5-天](https://www.v2ex.com/t/655781)  
-- [2020-03-24-有没有目前在腾讯云有直播或者点播业务的后台前辈，有偿请教](https://www.v2ex.com/t/655780)  
-- [2020-03-24-后端程序员不想看技术书籍，迷上经济学是不是废了？](https://www.v2ex.com/t/655779)  
-- [2020-03-24-寻-tensorflow-算法工程师合作项目](https://www.v2ex.com/t/655778)  
-- [2020-03-24-现在面试官对非计算机专业是否歧视？](https://www.v2ex.com/t/655776)  
-- [2020-03-24-新款-MacBook-雷电-3-接口有些松了，这才多久啊？？？？](https://www.v2ex.com/t/655775)  
-- [2020-03-24-19-届毕业工作半年，后端简历。大佬们进来瞅瞅给点建议~](https://www.v2ex.com/t/655774)  
-- [2020-03-24-深圳-20k-50k-有感兴趣的伙伴可以发简历了解一下！](https://www.v2ex.com/t/655771)  
-- [2020-03-24-发一个公众看板，开源监控项目](https://www.v2ex.com/t/655770)  
-- [2020-03-24-我的个人博客-LJF.COM](https://www.v2ex.com/t/655769)  
-- [2020-03-24-数据统计分析求轮子，指标监测方面](https://www.v2ex.com/t/655768)  
-- [2020-03-24-分享-在-iOS/iPadOS-上使用-Terminal](https://www.v2ex.com/t/655767)  
-- [2020-03-24-关于宽带省钱的办法](https://www.v2ex.com/t/655766)  
-- [2020-03-24-迫于听歌，求购网易云黑胶年会员](https://www.v2ex.com/t/655764)  
-- [2020-03-24-为什么-Windows-不告诉你谁在使用这个文件？](https://www.v2ex.com/t/655763)  
-- [2020-03-24-对于手机来说，现阶段有没有必要购买-5G-手机？](https://www.v2ex.com/t/655762)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

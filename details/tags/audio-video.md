@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 18:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 19:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -80,6 +80,8 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-03-22-Web-Audio之getChannelData](https://juejin.im/post/5e75c30e518825495a279a02) 
 - [2020-03-19-《甄嬛传》里的人集体开播了，点击进入直播间](https://www.ershicimi.com/p/957ccb73d34160be9945f375962a9009) 
+- [2020-03-24-上海-像素偏移（PixelShift.AI）招聘云平台、图像算法、大数据、后台工程师](https://www.v2ex.com/t/655783) 
+- [2020-03-24-有没有目前在腾讯云有直播或者点播业务的后台前辈，有偿请教](https://www.v2ex.com/t/655780) 
 - [2020-03-24-本周六晚-8-点直播为-Hexo-做-Docker-Image](https://www.v2ex.com/t/655737) 
 - [2020-03-24-分享直播-如何省流量压成本，实现全站成本优化](https://www.v2ex.com/t/655707) 
 - [2020-03-24-阿里云-oss-4G-下-播放短视频失败有时候会出现卡顿](https://www.v2ex.com/t/655699) 

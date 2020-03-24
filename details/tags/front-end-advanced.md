@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,6 +8,7 @@
 
 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
+- [2020-03-22-【第1892期】GPU加速在前端的应用](https://www.ershicimi.com/p/2e79f81dea8cc885995ce7c2c1b6ed7f) 
 - [2020-03-18-进互联网名企要刷多少道算法题？](https://www.ershicimi.com/p/4f252cfb2031a49b2b107305a8360f25) 
 - [2020-03-18-手摸手教你写几个实用的AST插件](https://www.ershicimi.com/p/92ef474b2b730f295485adf6e75c7c78) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
@@ -19,6 +20,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
 - [2020-03-23-（建议精读）HTTP灵魂之问，巩固你的-HTTP-知识体系](https://juejin.im/post/5e76bd516fb9a07cce750746) 
+- [2020-03-24-杭州-社招-内推-天猫海外-产品-数据分析-Java-算法-前端-基本都有](https://www.v2ex.com/t/655611) 
 - [2020-03-23-杭州-海拍客急招前端开发、-Java-、算法、大数据等岗位](https://www.v2ex.com/t/655515) 
 - [2020-03-23-求助一个算法题，将-a.b.c=10-的格式转换为-map-结构](https://www.v2ex.com/t/655490) 
 - [2020-03-23-Java-判断一个字符串中是否含有多个字符串效率最高的算法？](https://www.v2ex.com/t/655479) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -10,6 +10,7 @@
 - [2020-03-20-【第1890期】看懂-Serverless-SSR，这一篇就够了！](https://www.ershicimi.com/p/f3f2c527a5743885741927b34fab63cb) 
 - [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
 - [2020-03-22-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/3e5ffad00cccf4ff444d89e42e326a79) 
+- [2020-03-23-巧用-CSS-实现酷炫的充电动画](https://www.ershicimi.com/p/4384906636b1d0c6e04f2967faf055d4) 
 - [2020-03-18-CSS-渲染原理以及优化策略](https://www.ershicimi.com/p/ac5d4c1d4bbaf1717965e6bead8ec936) 
 - [2020-03-13-CSS-故障艺术](https://www.ershicimi.com/p/7634e8cbeff293914634df23e12fc707) 
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/) 

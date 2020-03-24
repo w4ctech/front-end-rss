@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -19,6 +19,7 @@
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
 - [2020-03-22-webpack-dev-middleware-源码解读](https://www.ershicimi.com/p/13cb32b699f788a322cf96a4ed75c45c) 
 - [2020-03-01-前端工程师的自我修养-关于-Babel-那些事儿](https://www.ershicimi.com/p/cd3126e15337250059119e95cc46ae0a) 
+- [2020-03-24-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/05b0c70ad53ac40fa4ef81d9ad6b9502) 
 - [2020-03-16-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/2315743abca793d93b217bc974bcd451) 
 - [2020-03-10-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/b79c9b8c494477b319f4399f1ec831aa) 
 - [2020-03-19-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/125c6344f0935181c09dc7914bc427c3) 

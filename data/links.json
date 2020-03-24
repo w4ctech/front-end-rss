@@ -5,6 +5,21 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "美国单日新增病例近万创新高 纽约市周边阳性率近3成",
+        "link": "http://international.caixin.com/2020-03-24/101533039.html",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "武汉今日新增一例新冠病例 系省人民医院医生",
+        "link": "http://china.caixin.com/2020-03-24/101533037.html",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "北京:有序做好滞留湖北人员返京工作并进行医学观察",
+        "link": "http://china.caixin.com/2020-03-24/101533033.html",
+        "date": "2020-03-24"
+      },
+      {
         "title": "新冠治愈者自述：请不要歧视我们",
         "link": "http://china.caixin.com/2020-03-24/101532946.html",
         "date": "2020-03-24"
@@ -7817,6 +7832,41 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1894期】NutUI CLI源码解析",
+        "link": "https://www.ershicimi.com/p/55f53ac4c3a2bfada1268521e9b7a82d",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "【第1893期】TypedArray 还是 DataView: 理解字节序",
+        "link": "https://www.ershicimi.com/p/5bf52cc9a84694fe0cd2dcd9590fd8ac",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "【招聘】阿里大数据2020实习生招聘",
+        "link": "https://www.ershicimi.com/p/f110210f9b109a3a8735f2af60803f9a",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "【第1892期】GPU加速在前端的应用",
+        "link": "https://www.ershicimi.com/p/2e79f81dea8cc885995ce7c2c1b6ed7f",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "【招聘】腾讯云官网&云加社区急聘前端工程师！",
+        "link": "https://www.ershicimi.com/p/2a2d597cbafe3a400268c6a8416a7ccd",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "【第1891期】iOS 键盘难题与可见视口（VisualViewport）API",
+        "link": "https://www.ershicimi.com/p/97be9a83d4e051c887de3c801882c442",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "【招聘】阿里淘系技术部-前端招聘（社招、2021届实习生、校招）",
+        "link": "https://www.ershicimi.com/p/f85c4bad5cdf9f674f5127e8c2dcb79a",
+        "date": "2020-03-21"
+      },
+      {
         "title": "【第1890期】看懂 Serverless SSR，这一篇就够了！",
         "link": "https://www.ershicimi.com/p/f3f2c527a5743885741927b34fab63cb",
         "date": "2020-03-20"
@@ -8558,6 +8608,26 @@
     "title": "前端宇宙",
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
+      {
+        "title": "12个前端必会的 H5 问题及解决方法",
+        "link": "https://www.ershicimi.com/p/143d17b90451038a470974582613801b",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "带你深度解锁Webpack系列(优化篇)",
+        "link": "https://www.ershicimi.com/p/05b0c70ad53ac40fa4ef81d9ad6b9502",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "你老以为Vue简单，这10道高级进阶题，难倒了90%的前端开发者，不服来战！",
+        "link": "https://www.ershicimi.com/p/2c0f6cb758c7ebf8f7446657f70facdc",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "巧用 CSS 实现酷炫的充电动画",
+        "link": "https://www.ershicimi.com/p/4384906636b1d0c6e04f2967faf055d4",
+        "date": "2020-03-23"
+      },
       {
         "title": "字节跳动今日头条前端面经（4轮技术面+hr面）",
         "link": "https://www.ershicimi.com/p/f8508d83b9045c0ea844311ba02940fe",
@@ -11246,6 +11316,156 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "程序员，求了按摩放松的店。。。",
+        "link": "https://www.v2ex.com/t/655630",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "你们 win10 自带的输入法掉词库吗？",
+        "link": "https://www.v2ex.com/t/655629",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "Go 轻量级开发通用库",
+        "link": "https://www.v2ex.com/t/655628",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "准备好 cash，这一两周几乎可以确定可以加仓了",
+        "link": "https://www.v2ex.com/t/655627",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "工作太闲了，学点什么好呢？",
+        "link": "https://www.v2ex.com/t/655626",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "C++新手，问个问题",
+        "link": "https://www.v2ex.com/t/655624",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "隐私保护：小米 MIUI 11 全新权限管理支持“空信息授权”",
+        "link": "https://www.v2ex.com/t/655623",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "SEAGM 购买苹果 iTunes 礼品卡靠谱么~",
+        "link": "https://www.v2ex.com/t/655622",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "求国外便宜的云主机",
+        "link": "https://www.v2ex.com/t/655621",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "请教 Nvidia Tesla T4 的最佳实践",
+        "link": "https://www.v2ex.com/t/655620",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "买了一个域名, 求赐名~！",
+        "link": "https://www.v2ex.com/t/655618",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "游戏大佬前辈进，关于定时问题快疯了",
+        "link": "https://www.v2ex.com/t/655616",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "以前淘宝上很多的视频、网站账号会员的卖家，现在转移到哪里了",
+        "link": "https://www.v2ex.com/t/655615",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "阿里巴巴淘系技术部 2021 届实习生内推！ Java 、前端都要",
+        "link": "https://www.v2ex.com/t/655613",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "[小作品]记得 APP 致力于做优秀的倒数日、纪念日 APP，记录生活中的重要日子",
+        "link": "https://www.v2ex.com/t/655612",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "[杭州] [社招] [内推] 天猫海外 产品 数据分析 Java 算法 前端 基本都有",
+        "link": "https://www.v2ex.com/t/655611",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "最近两天 v2 是崩了吗，一直提示 offline",
+        "link": "https://www.v2ex.com/t/655610",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "我到底是谁？我只是一颗可以控制躯体的大脑，还是我的整个身体。",
+        "link": "https://www.v2ex.com/t/655609",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "ubuntu 如何配 6k ip 段内外判断？",
+        "link": "https://www.v2ex.com/t/655608",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "2020-03-24 上海移动套餐推荐",
+        "link": "https://www.v2ex.com/t/655607",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "近期腾讯云每天宕机近一小时，硬盘读流量 109718.682KB/s， iops 2072.501 个…",
+        "link": "https://www.v2ex.com/t/655606",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "其他机房的服务器 走阿里云的线路带宽？",
+        "link": "https://www.v2ex.com/t/655605",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "现在买 xperia1 是不是 49 入国军了？",
+        "link": "https://www.v2ex.com/t/655604",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "有没有大神从外包转内部的经历",
+        "link": "https://www.v2ex.com/t/655603",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "Gitlab 实时备份方案有哪些",
+        "link": "https://www.v2ex.com/t/655602",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "实际的 CRUD 工作中,有用到视图吗,我怎么没感觉🤔",
+        "link": "https://www.v2ex.com/t/655601",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "郑州 v 友交流群, 技术交流，私活合作，面试避雷， 线下聚会，线上开黑 .....",
+        "link": "https://www.v2ex.com/t/655599",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "SQL 优化 or 问题",
+        "link": "https://www.v2ex.com/t/655597",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "V2 郑州交流群，看到好多郑州的小伙伴，大家可以加群交流买房经验，学习工作。",
+        "link": "https://www.v2ex.com/t/655595",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "Uniapp 使用 GoEasy 实现 websocket 实时通讯",
+        "link": "https://www.v2ex.com/t/655594",
+        "date": "2020-03-24"
+      },
       {
         "title": "深圳有哪些好的付费验光的店？",
         "link": "https://www.v2ex.com/t/655593",
@@ -14804,6 +15024,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "JVM源码分析之javaagent原理完全解读 (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13310&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F349326%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-03-24"
+      },
+      {
         "title": "Android 从 MVP 到 MVVM (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13309&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNVLEw1DdRFvoFRxN2LhZ7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-03-23"
@@ -14970,6 +15195,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "把 GitHub 放入口袋，“开箱” 官方客户端",
+        "link": "https://toutiao.io/k/hssr32w",
+        "date": "2020-03-24"
+      },
       {
         "title": "优化 DeFi 合约利息计算 gas 消耗",
         "link": "https://toutiao.io/k/aqdp1p7",

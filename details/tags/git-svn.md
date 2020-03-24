@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -17,6 +17,7 @@
 - [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-03-24-Gitlab-实时备份方案有哪些](https://www.v2ex.com/t/655602) 
 - [2020-03-24-大家在公司的-git-操作都是在命令行还是-IDE-还是网页还是-git-软件。](https://www.v2ex.com/t/655571) 
 - [2020-03-23-做了个-GitHub-Top-100-Developers-最新活动的网站，支持-100-种常用编程语言](https://www.v2ex.com/t/655447) 
 - [2020-03-23-github-存储的文件有限制吗？能用来实现-md5-存储不](https://www.v2ex.com/t/655372) 
@@ -32,6 +33,7 @@
 - [2020-03-21-如何获取-git-merge-合并的两个分支的公共代码变更集](https://www.v2ex.com/t/654817) 
 - [2020-03-21-献丑了，搞了个-Github-代下载服务，永久免费](https://www.v2ex.com/t/654801) 
 - [2020-03-21-Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13285&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvqAf7d2H3IQLaYajJjiSng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-03-24-把-GitHub-放入口袋，“开箱”-官方客户端](https://toutiao.io/k/hssr32w) 
 - [2020-03-24-推荐-三分钟快速搞定-Git-常规使用](https://toutiao.io/k/tpczu0y) 
 - [2020-03-22-GitHub-Pages-背后的-Jekyll](https://toutiao.io/k/m8ne19s) 
 - [2020-03-21-Git-Commit-Message-规范与模板](https://toutiao.io/k/uul3hpl) 

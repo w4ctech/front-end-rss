@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 11:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 11:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -17,6 +17,9 @@
 - [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) 
 - [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) 
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
+- [2020-03-23-【招聘】阿里大数据2020实习生招聘](https://www.ershicimi.com/p/f110210f9b109a3a8735f2af60803f9a) 
+- [2020-03-22-【招聘】腾讯云官网&云加社区急聘前端工程师！](https://www.ershicimi.com/p/2a2d597cbafe3a400268c6a8416a7ccd) 
+- [2020-03-21-【招聘】阿里淘系技术部-前端招聘（社招、2021届实习生、校招）](https://www.ershicimi.com/p/f85c4bad5cdf9f674f5127e8c2dcb79a) 
 - [2020-03-20-【招聘】腾讯IMWeb前端团队大招聘（实习、应届生或社招）](https://www.ershicimi.com/p/dd40d53c20e612f0e8290f2166a9428f) 
 - [2020-03-19-【招聘】阿里业务平台事业部体验技术团队招实习生](https://www.ershicimi.com/p/b69c7cc3e4daeefc4bacdb7d05e91621) 
 - [2020-03-16-【招聘】阿里AE技术部前端招P6/P7、21届实习生](https://www.ershicimi.com/p/5d35fc589da902af028d13afb6cffb7b) 
@@ -37,6 +40,7 @@
 - [2020-03-23-面试之路（不断更新）](https://juejin.im/post/5e6c6a0b6fb9a07ce31f0021) 
 - [2020-03-22-前端面试之面试准备](https://juejin.im/post/5e75e19351882549417feca0) 
 - [2020-03-20-前端面试-蘑菇街一面（凉经）](https://juejin.im/post/5e748e8be51d4526cf481dbc) 
+- [2020-03-24-郑州-v-友交流群,-技术交流，私活合作，面试避雷，-线下聚会，线上开黑-.....](https://www.v2ex.com/t/655599) 
 - [2020-03-24-阿里巴巴-2020校招/实习招聘开始了，欢迎找工作的学弟学妹们前来试试，可以直接发简历到我邮箱-or-扫描图片中的二维码填写资料](https://www.v2ex.com/t/655581) 
 - [2020-03-24-3-月底了,各家公司还是远程面试吗?](https://www.v2ex.com/t/655551) 
 - [2020-03-23-正在逛技术论坛的招聘经理，看过来，我们需要你](https://www.v2ex.com/t/655495) 

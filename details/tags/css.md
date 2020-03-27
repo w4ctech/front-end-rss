@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-27 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -7,19 +7,11 @@
 
 
 
-- [2020-03-20-【第1890期】看懂-Serverless-SSR，这一篇就够了！](https://www.ershicimi.com/p/f3f2c527a5743885741927b34fab63cb) 
-- [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
-- [2020-03-22-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/3e5ffad00cccf4ff444d89e42e326a79) 
-- [2020-03-23-巧用-CSS-实现酷炫的充电动画](https://www.ershicimi.com/p/4384906636b1d0c6e04f2967faf055d4) 
-- [2020-03-18-CSS-渲染原理以及优化策略](https://www.ershicimi.com/p/ac5d4c1d4bbaf1717965e6bead8ec936) 
-- [2020-03-24-CSS实现背景图片右侧定位的5种小技巧](https://www.ershicimi.com/p/cd3b6312cd32917fd29ba876447c6041) 
-- [2020-03-13-CSS-故障艺术](https://www.ershicimi.com/p/7634e8cbeff293914634df23e12fc707) 
 - [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/) 
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) 
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/) 
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/) 
 - [2020-02-12-CSS-@supports开始支持selector选择器检测了](https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/) 
-- [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/) 
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) 
 - [2018-03-06-动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/) 
@@ -43,15 +35,3 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
-- [2020-03-22-CSS-的“层”峦“叠”翠---一文掌握z-index用法​​​​​​​](https://www.ershicimi.com/p/2da58c7c7b96cbd4b1d7d126ace788ae) 
-- [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0) 
-- [2020-03-23-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/60587f9fd047b61327517cec0c2ea573) 
-- [2020-03-20-CSS---::​​-before-和-::-after](https://www.ershicimi.com/p/9a1f90f5a5f2150caacb5a84c0dd69ca) 
-- [2020-03-23-【转】5分钟学会制作-CSS-波浪文本动画特效](https://juejin.im/post/5e786fad5188255e2c72532c) 
-- [2020-03-22-动画利器-lottie在懂表帝App中的实战应用](https://juejin.im/post/5e759932e51d4526fa120927) 
-- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
-- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
-- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
-- [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-- [2020-03-23-Serverless-多环境配置方案探索](https://www.v2ex.com/t/655445) 
-- [2020-03-22-译-Android-display-pipeline-本身以及进程调度](https://toutiao.io/k/dybdutb) 

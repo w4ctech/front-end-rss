@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-27 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,7 +7,6 @@
 
 
 
-- [2020-03-20-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/252bf49d139d55b99dbd9cfb6d5b8363) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
 - [2018-10-18-十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/) 
 - [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/) 
@@ -19,7 +18,3 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-03-24-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/b757bc8f2630444360ebf086aceb239a) 
-- [2020-03-23-使用cocos进行2D和3D混合开发](https://juejin.im/post/5e75f4cbe51d4526d87c949f) 
-- [2020-03-23-bat-运行-Python-GUI-程序如何不显示-CMD-窗口](https://www.v2ex.com/t/655528) 
-- [2020-03-21-请问：-Boom-3D-这个到底有没有用啊？](https://www.v2ex.com/t/654908) 

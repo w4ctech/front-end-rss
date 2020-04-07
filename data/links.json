@@ -8480,6 +8480,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "Electron 在 Taro IDE 的开发实践",
+        "link": "https://aotu.io/notes/2020/04/07/electron-in-taro-ide/",
+        "date": "2020-04-07"
+      },
+      {
         "title": "如何打造高性能小程序门户",
         "link": "https://aotu.io/notes/2020/03/25/high-performance-miniprogram/",
         "date": "2020-03-25"

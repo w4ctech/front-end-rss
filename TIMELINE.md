@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-07 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-08 16:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,6 +152,7 @@
 - [【前端开发】2020-04-01-前端缓存最佳实践](https://www.ershicimi.com/p/cf9afa16cd7e46b4ea36b0f80310e963) 
 - [【前端迷】2020-04-01-2020三元同学春招阿里淘系、阿里云、字节跳动面经-&-个人成长经验分享](https://www.ershicimi.com/p/9f13f09952dd9a0db735f8f4302a89c8) 
 - [【前端宇宙】2020-04-01-网传互联网公司加班表](https://www.ershicimi.com/p/9acfafcbb235f140cb2f4a9245ff9df3) 
+- [【张鑫旭-鑫空间-鑫生活】2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
 - [【阮一峰的网络日志】2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html) 
 - [【凹凸实验室】2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 - [【奇舞周刊】2020-04-01-OMG！-这款大屏可视化神器公测了](https://www.ershicimi.com/p/73be5fb3685a7b4a711fc241346e3e29) 

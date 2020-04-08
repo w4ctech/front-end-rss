@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-07 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-08 16:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1275,6 +1275,7 @@
 - [2020-03-30-2020年前端如何适应大环境](https://www.ershicimi.com/p/d57df4a66d263c83decc629bb7206134) 
 - [2020-03-25-如何优雅处理前端异常？](https://www.ershicimi.com/p/44ad8c3c8859abc863a15732d7115a2a) 
 - [2020-03-13-2020，前端工程师凭什么这么值钱？](https://www.ershicimi.com/p/34c1ebd7400b77371a2fd5621151fae4) 
+- [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
 - [2020-01-31-HTML全局属性列表大全](https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/) 
 - [2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html) 
 - [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html) 

@@ -8339,6 +8339,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "AVIF图片格式简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/",
+        "date": "2020-04-08"
+      },
+      {
         "title": "CSS text-decoration实现宽度100%波浪线效果",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/",
         "date": "2020-03-21"

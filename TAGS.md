@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-12 23:30:13。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-13 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -187,6 +187,7 @@
 
 - [【前端早读课】【第1902期】京喜小程序的高性能打造之路](https://www.ershicimi.com/p/cbad080c89f25563bfda97d302338279)
 - [【前端宇宙】京喜小程序的高性能打造之路](https://www.ershicimi.com/p/0d4f16a5eb804779e5c6827a4fb78b2a)
+- [【凹凸实验室】Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/)
 - [【凹凸实验室】如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/)
 - [【凹凸实验室】Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)
 - [【凹凸实验室】GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)
@@ -204,7 +205,6 @@
 - [【凹凸实验室】Taro-在京东购物小程序上的实践](https://aotu.io/notes/2018/09/11/taro-in-jd/)
 - [【凹凸实验室】首个多端-UI-组件库---Taro-UI-发布](https://aotu.io/notes/2018/08/27/the-birth-of-taro-ui/)
 - [【凹凸实验室】多端统一开发框架---Taro](https://aotu.io/notes/2018/06/07/Taro/)
-- [【凹凸实验室】wxapp-market-小程序营销组件](https://aotu.io/notes/2017/09/28/wxapp-market/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-12 23:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-13 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -9,6 +9,7 @@
 
 - [2020-04-01-【第1902期】京喜小程序的高性能打造之路](https://www.ershicimi.com/p/cbad080c89f25563bfda97d302338279) 
 - [2020-03-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/0d4f16a5eb804779e5c6827a4fb78b2a) 
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) 
 - [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/) 
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 

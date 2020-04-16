@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-16 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-16 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -30,6 +30,7 @@
 - [2020-03-25-厚颜无耻！国内竟有人把-JSON-注册成自有商标！](https://www.ershicimi.com/p/5bfe9a3c2b0dc99fd7b0fc7fbd6116b5) 
 - [2020-03-31-为什么说for...of循环是JS中的宝石？](https://www.ershicimi.com/p/c00cbab8f2bd332592b1b2b34b16766b) 
 - [2020-03-24-12个前端必会的-H5-问题及解决方法](https://www.ershicimi.com/p/143d17b90451038a470974582613801b) 
+- [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/) 
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/) 
 - [2020-02-27-3D-LUT-滤镜颜色映射原理剖析与JS实现](https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/) 
 - [2020-02-13-我是如何通过CSS向JS传参的](https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/) 

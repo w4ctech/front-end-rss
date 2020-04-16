@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-13 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-16 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -155,6 +155,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [【阮一峰的网络日志】2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html) 
 - [【阮一峰的网络日志】2020-04-10-科技爱好者周刊：第-102-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html) 
 - [【阮一峰的网络日志】2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html) 
 - [【凹凸实验室】2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) 

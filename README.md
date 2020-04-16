@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-13 13:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-16 19:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,9 +37,9 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -409,6 +409,7 @@
 </summary>
 
 
+- [2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html) ![](assets/new.png)  
 - [2020-04-10-科技爱好者周刊：第-102-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)  
 - [2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)  
 - [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)  
@@ -446,7 +447,7 @@
 </summary>
 
 
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/)  
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)  
 - [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/)  
 - [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)  

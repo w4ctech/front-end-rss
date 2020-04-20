@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-20 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-20 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -152,6 +152,7 @@
 - [【前端开发】2020-04-01-前端缓存最佳实践](https://www.ershicimi.com/p/cf9afa16cd7e46b4ea36b0f80310e963) 
 - [【前端迷】2020-04-01-2020三元同学春招阿里淘系、阿里云、字节跳动面经-&-个人成长经验分享](https://www.ershicimi.com/p/9f13f09952dd9a0db735f8f4302a89c8) 
 - [【前端宇宙】2020-04-01-网传互联网公司加班表](https://www.ershicimi.com/p/9acfafcbb235f140cb2f4a9245ff9df3) 
+- [【张鑫旭-鑫空间-鑫生活】2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) 

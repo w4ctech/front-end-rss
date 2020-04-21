@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 03:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 03:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -817,6 +817,7 @@
 </summary>
 
 
+- [2020-04-22-小米的智慧,-雷氏的幽默-?](https://www.v2ex.com/t/664836) ![](assets/new.png)  
 - [2020-04-22-iPhone-还是-Pixel？-iOS-or-Android？](https://www.v2ex.com/t/664834)  
 - [2020-04-22-现在外包招聘上写的薪水有-10K-12K，其实到手真的有那么高吗？有没有经验人，-Come-on](https://www.v2ex.com/t/664833)  
 - [2020-04-22-新-3-系，新-C200（C260），新-A4L，选哪个好？](https://www.v2ex.com/t/664832)  
@@ -836,7 +837,6 @@
 - [2020-04-21-fb-公司中国码农骚扰中国女下属被开除！](https://www.v2ex.com/t/664815)  
 - [2020-04-21-腾讯-gad-的各种打不开？](https://www.v2ex.com/t/664814)  
 - [2020-04-21-怪事！上传某一张图片报强迫关闭连接错误，怀疑是图片藏有恶意代码](https://www.v2ex.com/t/664813)  
-- [2020-04-21-问下关于-Java-synchronized-关键字的含义](https://www.v2ex.com/t/664812)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -879,7 +879,12 @@
 </summary>
 
 
-- [2020-04-22-推荐-程序员职场背锅甩锅指南](https://toutiao.io/k/wsrxke7) ![](assets/new.png)  
+- [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb) ![](assets/new.png)  
+- [2020-04-22-推荐-收获人生第一个-5k-Star-开源项目，经验教训分享给大家](https://toutiao.io/k/jofs08f) ![](assets/new.png)  
+- [2020-04-22-推荐-你必须会的-JDK-动态代理和-CGLIB-动态代理](https://toutiao.io/k/9nbbqxu) ![](assets/new.png)  
+- [2020-04-22-推荐-编写可靠-bash-脚本的一些技巧](https://toutiao.io/k/8qtmtky) ![](assets/new.png)  
+- [2020-04-22-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi) ![](assets/new.png)  
+- [2020-04-22-推荐-程序员职场背锅甩锅指南](https://toutiao.io/k/wsrxke7)  
 - [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl)  
 - [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
 - [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3)  
@@ -894,11 +899,6 @@
 - [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo)  
 - [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87)  
 - [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h)  
-- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)  
-- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85)  
-- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)  
-- [2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)  
-- [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

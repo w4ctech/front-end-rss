@@ -2980,6 +2980,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "小米的智慧, 雷氏的幽默 ?",
+        "link": "https://www.v2ex.com/t/664836",
+        "date": "2020-04-22"
+      },
+      {
         "title": "iPhone 还是 Pixel？ iOS or Android？",
         "link": "https://www.v2ex.com/t/664834",
         "date": "2020-04-22"
@@ -3378,6 +3383,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] IM 服务器设计：消息存储",
+        "link": "https://toutiao.io/k/disp4wb",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 收获人生第一个 5k Star 开源项目，经验教训分享给大家",
+        "link": "https://toutiao.io/k/jofs08f",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 你必须会的 JDK 动态代理和 CGLIB 动态代理",
+        "link": "https://toutiao.io/k/9nbbqxu",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 编写可靠 bash 脚本的一些技巧",
+        "link": "https://toutiao.io/k/8qtmtky",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 操作系统是如何管理物理内存的？",
+        "link": "https://toutiao.io/k/4jkeexi",
+        "date": "2020-04-22"
+      },
       {
         "title": "[推荐] 程序员职场背锅甩锅指南",
         "link": "https://toutiao.io/k/wsrxke7",

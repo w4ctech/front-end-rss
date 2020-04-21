@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 05:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 05:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -123,6 +123,7 @@
 - [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
 - [2020-04-16-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/797d760afbf9983d976a74960ace01f1) 
 - [2020-04-15-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/fde9739c621d7a4e8c0007e0e3b65914) 
+- [2020-04-15-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/d8beceb80a78cd1667fe1fab6a143d6a) 
 - [2020-04-14-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/ed360c752430e0563fce10ca67973499) 
 - [2020-04-13-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/8301e925df67964d9087254cb5632594) 
 - [2020-03-24-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/2d459a6aff10d7260d628160f165dfa8) 

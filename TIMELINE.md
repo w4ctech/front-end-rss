@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 05:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 05:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -265,6 +265,9 @@
 - [【奇舞周刊】2020-04-16-ES6-Proxy-可以做哪些有意思的事情？](https://www.ershicimi.com/p/50d623c8ce307e5045d6a677e914b47c) 
 - [【奇舞周刊】2020-04-15-WebGL工作流程解读，一个三角形的诞生](https://www.ershicimi.com/p/4795e4ae0a9fd5b4c519acf74fe2222a) 
 - [【奇舞周刊】2020-04-15-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/fde9739c621d7a4e8c0007e0e3b65914) 
+- [【前端日刊】2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
+- [【前端日刊】2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca) 
+- [【前端日刊】2020-04-15-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/d8beceb80a78cd1667fe1fab6a143d6a) 
 - [【前端日刊】2020-04-14-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/ed360c752430e0563fce10ca67973499) 
 - [【前端日刊】2020-04-13-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/8301e925df67964d9087254cb5632594) 
 - [【前端日刊】2020-04-01-Nginx-一个牛X的功能，流量拷贝！](https://www.ershicimi.com/p/09033a5d9dc1599e5a8c43edaf311b41) 

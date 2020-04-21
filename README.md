@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 05:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 05:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,17 +41,17 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -592,6 +592,9 @@
 </summary>
 
 
+- [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) ![](assets/new.png)  
+- [2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca) ![](assets/new.png)  
+- [2020-04-15-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/d8beceb80a78cd1667fe1fab6a143d6a) ![](assets/new.png)  
 - [2020-04-14-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/ed360c752430e0563fce10ca67973499)  
 - [2020-04-13-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/8301e925df67964d9087254cb5632594)  
 - [2020-04-01-Nginx-一个牛X的功能，流量拷贝！](https://www.ershicimi.com/p/09033a5d9dc1599e5a8c43edaf311b41)  
@@ -697,7 +700,7 @@
 </summary>
 
 
-- [2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f236a518825738745cffb) ![](assets/new.png)  
+- [2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f236a518825738745cffb)  
 - [2020-04-21-移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法](https://juejin.im/post/5e9f074e51882573b136b4e6)  
 - [2020-04-21-认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a)  
 - [2020-04-21-offsetLeft、offsetWidth、clientWidth、scrollWidth、style.width···你都分清了吗？](https://juejin.im/post/5e9e9d3cf265da47f517a116)  
@@ -818,8 +821,8 @@
 </summary>
 
 
-- [2020-04-22-Remote---远程-海外-Growth-Marketer](https://www.v2ex.com/t/664840) ![](assets/new.png)  
-- [2020-04-22-4K-电视可以替代-4K-显示器吗？](https://www.v2ex.com/t/664839) ![](assets/new.png)  
+- [2020-04-22-Remote---远程-海外-Growth-Marketer](https://www.v2ex.com/t/664840)  
+- [2020-04-22-4K-电视可以替代-4K-显示器吗？](https://www.v2ex.com/t/664839)  
 - [2020-04-22-最近国内-IP-下的-playstore-微信不走-FCM-了吗](https://www.v2ex.com/t/664837)  
 - [2020-04-22-小米的智慧,-雷氏的幽默-?](https://www.v2ex.com/t/664836)  
 - [2020-04-22-iPhone-还是-Pixel？-iOS-or-Android？](https://www.v2ex.com/t/664834)  

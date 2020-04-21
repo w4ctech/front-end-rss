@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 04:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 05:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -298,6 +298,7 @@
 - [【JavaScript】2020-04-13-大家什么时候感觉自己身体素质在下滑的？](https://www.ershicimi.com/p/91496239d4e26682faae755b4ecd75cd) 
 - [【JavaScript】2020-04-12-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/e1207e5d42ec869e3efc8b5ddb393c9b) 
 - [【JavaScript】2020-04-11-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/bc8f458dba81085b50bf7b4a30a0c073) 
+- [【掘金前端】2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f236a518825738745cffb) 
 - [【掘金前端】2020-04-21-移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法](https://juejin.im/post/5e9f074e51882573b136b4e6) 
 - [【掘金前端】2020-04-21-认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a) 
 - [【掘金前端】2020-04-21-offsetLeft、offsetWidth、clientWidth、scrollWidth、style.width···你都分清了吗？](https://juejin.im/post/5e9e9d3cf265da47f517a116) 
@@ -334,6 +335,8 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-22-Remote---远程-海外-Growth-Marketer](https://www.v2ex.com/t/664840) 
+- [【V2EX】2020-04-22-4K-电视可以替代-4K-显示器吗？](https://www.v2ex.com/t/664839) 
 - [【V2EX】2020-04-22-最近国内-IP-下的-playstore-微信不走-FCM-了吗](https://www.v2ex.com/t/664837) 
 - [【V2EX】2020-04-22-小米的智慧,-雷氏的幽默-?](https://www.v2ex.com/t/664836) 
 - [【V2EX】2020-04-22-iPhone-还是-Pixel？-iOS-or-Android？](https://www.v2ex.com/t/664834) 

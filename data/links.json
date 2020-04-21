@@ -2565,6 +2565,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…",
+        "link": "https://juejin.im/post/5e9f236a518825738745cffb",
+        "date": "2020-04-21"
+      },
+      {
         "title": "移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法",
         "link": "https://juejin.im/post/5e9f074e51882573b136b4e6",
         "date": "2020-04-21"
@@ -2979,6 +2984,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[Remote - 远程] 海外 Growth Marketer",
+        "link": "https://www.v2ex.com/t/664840",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "4K 电视可以替代 4K 显示器吗？",
+        "link": "https://www.v2ex.com/t/664839",
+        "date": "2020-04-22"
+      },
       {
         "title": "最近国内 IP 下的 playstore 微信不走 FCM 了吗",
         "link": "https://www.v2ex.com/t/664837",

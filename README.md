@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 01:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 01:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -812,8 +812,11 @@
 </summary>
 
 
-- [2020-04-22-奇怪-为什么很少听到德语-or-法语类歌曲？](https://www.v2ex.com/t/664828) ![](assets/new.png)  
-- [2020-04-22-万能的-V-友，求这首歌的背景音乐](https://www.v2ex.com/t/664826) ![](assets/new.png)  
+- [2020-04-22-新-3-系，新-C200（C260），新-A4L，选哪个好？](https://www.v2ex.com/t/664832) ![](assets/new.png)  
+- [2020-04-22-数字图像处理，这该怎么入手求解](https://www.v2ex.com/t/664830) ![](assets/new.png)  
+- [2020-04-22-2020-晒桌面](https://www.v2ex.com/t/664829) ![](assets/new.png)  
+- [2020-04-22-奇怪-为什么很少听到德语-or-法语类歌曲？](https://www.v2ex.com/t/664828)  
+- [2020-04-22-万能的-V-友，求这首歌的背景音乐](https://www.v2ex.com/t/664826)  
 - [2020-04-22-vs-标准库-源码注释问题能不能想-Java-一样；](https://www.v2ex.com/t/664825)  
 - [2020-04-22-Azure-DevOps-其实也挺香的](https://www.v2ex.com/t/664824)  
 - [2020-04-22-github-大部分服务爆炸](https://www.v2ex.com/t/664823)  
@@ -829,9 +832,6 @@
 - [2020-04-21-问下关于-Java-synchronized-关键字的含义](https://www.v2ex.com/t/664812)  
 - [2020-04-21-咋现在都流行给视频配个难受的背景音乐](https://www.v2ex.com/t/664811)  
 - [2020-04-21-因家庭问题求一款-ios-android-通用的定位-app](https://www.v2ex.com/t/664810)  
-- [2020-04-21-老罗把-t.tt-又拿回了吗？不给坚果用了吗](https://www.v2ex.com/t/664809)  
-- [2020-04-21-http://qdzn.zs.gov.cn/-这个网站谁能正常使用？](https://www.v2ex.com/t/664808)  
-- [2020-04-21-淘宝这是默认快递可以不经用户同意直接到代收点了吗](https://www.v2ex.com/t/664807)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,12 +874,18 @@
 </summary>
 
 
-- [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) ![](assets/new.png)  
-- [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo) ![](assets/new.png)  
-- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87) ![](assets/new.png)  
-- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h) ![](assets/new.png)  
-- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj) ![](assets/new.png)  
-- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) ![](assets/new.png)  
+- [2020-04-22-推荐-领域驱动分层架构与对象模型](https://toutiao.io/k/y3l6bth) ![](assets/new.png)  
+- [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19) ![](assets/new.png)  
+- [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm) ![](assets/new.png)  
+- [2020-04-22-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn) ![](assets/new.png)  
+- [2020-04-22-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7) ![](assets/new.png)  
+- [2020-04-22-推荐-Java-并发编程：多线程并发访问，同步控制](https://toutiao.io/k/hahvtur) ![](assets/new.png)  
+- [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua)  
+- [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo)  
+- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87)  
+- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h)  
+- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)  
+- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85)  
 - [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)  
 - [2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)  
 - [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  
@@ -888,12 +894,6 @@
 - [2020-04-22-推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy)  
 - [2020-04-22-推荐-吐血推荐，B-站最强学习资源汇总（数据科学、机器学习、Python）](https://toutiao.io/k/a58ir9a)  
 - [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29)  
-- [2020-04-22-推荐-用匠心精神，打造高可用分布式系统](https://toutiao.io/k/tmdintk)  
-- [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
-- [2020-04-22-智能合约事件应该这么用](https://toutiao.io/k/a1q83rl)  
-- [2020-04-22-架构师技术图谱，助你早日成为架构师](https://toutiao.io/k/8lhpf6)  
-- [2020-04-22-OPA-进阶：分布式利器-Bundle](https://toutiao.io/k/cgel8gg)  
-- [2020-04-22-Lua-For-Unity-你使用什么编辑器做开发？](https://toutiao.io/k/lfvnwkm)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

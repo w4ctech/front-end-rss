@@ -37,10 +37,10 @@ module.exports = {
    * 格式化标题
    */
   formatTitle: function(title, isRsshub){
-    // https://rsshub.app
+    // https://rss.shab.fun
     if(isRsshub){
       let matches = title.match(/“(.*)”/)
-    
+
       if(matches && matches[1]){
         title = matches[1]
       }

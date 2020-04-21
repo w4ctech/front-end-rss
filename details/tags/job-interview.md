@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,4 +30,8 @@
 - [2020-03-30-记一次腾讯社招前端面试（已拿到offer入职）](https://www.ershicimi.com/p/1a71f45aedd7f38f2a4e649b0f0fc037) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
+- [2020-04-21-内推-实习-社招-1000+岗位！字节跳动开启新一轮招聘，可捞简历！](https://www.v2ex.com/t/664804) 
 - [2020-04-21-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj) 
+- [2020-04-22-推荐-Java-开发-4-年，3-个月面试，终于拿到美团、京东、字节-Offer](https://toutiao.io/k/q8oed1o) 
+- [2020-04-22-推荐-说实话，面试这么问-Spring-框架的问题，我快扛不住了](https://toutiao.io/k/owgxoel) 

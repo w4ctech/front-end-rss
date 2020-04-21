@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 06:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 07:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -421,6 +421,8 @@
 - [【技术头条】2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) 
+- [【开发者头条】2020-04-22-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g) 
 - [【开发者头条】2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb) 
 - [【开发者头条】2020-04-22-推荐-收获人生第一个-5k-Star-开源项目，经验教训分享给大家](https://toutiao.io/k/jofs08f) 
 - [【开发者头条】2020-04-22-推荐-你必须会的-JDK-动态代理和-CGLIB-动态代理](https://toutiao.io/k/9nbbqxu) 

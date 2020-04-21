@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 06:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 07:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -700,7 +700,7 @@
 </summary>
 
 
-- [2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f6b3251882573a855cd52) ![](assets/new.png)  
+- [2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f6b3251882573a855cd52)  
 - [2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f236a518825738745cffb)  
 - [2020-04-21-移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法](https://juejin.im/post/5e9f074e51882573b136b4e6)  
 - [2020-04-21-认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a)  
@@ -822,7 +822,7 @@
 </summary>
 
 
-- [2020-04-22-编译云豹直播-app-出现-Expected-identifier-or-''求大佬](https://www.v2ex.com/t/664841) ![](assets/new.png)  
+- [2020-04-22-编译云豹直播-app-出现-Expected-identifier-or-''求大佬](https://www.v2ex.com/t/664841)  
 - [2020-04-22-Remote---远程-海外-Growth-Marketer](https://www.v2ex.com/t/664840)  
 - [2020-04-22-4K-电视可以替代-4K-显示器吗？](https://www.v2ex.com/t/664839)  
 - [2020-04-22-最近国内-IP-下的-playstore-微信不走-FCM-了吗](https://www.v2ex.com/t/664837)  
@@ -884,6 +884,8 @@
 </summary>
 
 
+- [2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) ![](assets/new.png)  
+- [2020-04-22-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g) ![](assets/new.png)  
 - [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb)  
 - [2020-04-22-推荐-收获人生第一个-5k-Star-开源项目，经验教训分享给大家](https://toutiao.io/k/jofs08f)  
 - [2020-04-22-推荐-你必须会的-JDK-动态代理和-CGLIB-动态代理](https://toutiao.io/k/9nbbqxu)  
@@ -902,8 +904,6 @@
 - [2020-04-22-推荐-Java-并发编程：多线程并发访问，同步控制](https://toutiao.io/k/hahvtur)  
 - [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua)  
 - [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo)  
-- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87)  
-- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

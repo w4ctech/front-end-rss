@@ -2954,6 +2954,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "vs 标准库 源码注释问题能不能想 Java 一样；",
+        "link": "https://www.v2ex.com/t/664825",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Azure DevOps 其实也挺香的",
+        "link": "https://www.v2ex.com/t/664824",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "github 大部分服务爆炸",
+        "link": "https://www.v2ex.com/t/664823",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "GitHub 又炸了...",
+        "link": "https://www.v2ex.com/t/664822",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "请问 Ublock Origin 自定义规则可以使用通配符么，如果可以怎么使用？",
+        "link": "https://www.v2ex.com/t/664820",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "如何只给路由器后的某个设备单独分配 IPv6 地址",
+        "link": "https://www.v2ex.com/t/664819",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "华为简历锁定在一个部门，但想去另一个部门，该联系谁要求解锁？",
+        "link": "https://www.v2ex.com/t/664818",
+        "date": "2020-04-21"
+      },
+      {
         "title": "你们手机都是多大存储空间？",
         "link": "https://www.v2ex.com/t/664817",
         "date": "2020-04-21"
@@ -3282,6 +3317,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理",
+        "link": "https://toutiao.io/k/ehdtg95",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 2.7w+ Star，手撕 LeetCode 题目，让算法套路见鬼去吧！",
+        "link": "https://toutiao.io/k/elc6zfq",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 实战 MySQL 参数调优",
+        "link": "https://toutiao.io/k/nas6eyi",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 从一起 GC 血案谈到反射原理",
+        "link": "https://toutiao.io/k/j1cphr7",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] MySQL 死锁与 Spring 事务",
+        "link": "https://toutiao.io/k/3mta5kv",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答",
+        "link": "https://toutiao.io/k/8blw2hy",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 吐血推荐，B 站最强学习资源汇总（数据科学、机器学习、Python）",
+        "link": "https://toutiao.io/k/a58ir9a",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 从 MongoDB 迁移到 ES 后，我们减少了 80% 的服务器",
+        "link": "https://toutiao.io/k/zryjj29",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 用匠心精神，打造高可用分布式系统",
+        "link": "https://toutiao.io/k/tmdintk",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] Redis 应用场景汇总",
+        "link": "https://toutiao.io/k/zpsgkhr",
+        "date": "2020-04-22"
+      },
       {
         "title": "智能合约事件应该这么用",
         "link": "https://toutiao.io/k/a1q83rl",

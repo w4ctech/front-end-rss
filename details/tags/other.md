@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 03:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -240,6 +240,7 @@
 - [2020-04-21-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-21-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-推荐-程序员职场背锅甩锅指南](https://toutiao.io/k/wsrxke7) 
 - [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl) 
 - [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp) 
 - [2020-04-22-推荐-领域驱动分层架构与对象模型](https://toutiao.io/k/y3l6bth) 

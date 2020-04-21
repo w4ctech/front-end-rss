@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 02:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 03:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -817,7 +817,7 @@
 </summary>
 
 
-- [2020-04-22-iPhone-还是-Pixel？-iOS-or-Android？](https://www.v2ex.com/t/664834) ![](assets/new.png)  
+- [2020-04-22-iPhone-还是-Pixel？-iOS-or-Android？](https://www.v2ex.com/t/664834)  
 - [2020-04-22-现在外包招聘上写的薪水有-10K-12K，其实到手真的有那么高吗？有没有经验人，-Come-on](https://www.v2ex.com/t/664833)  
 - [2020-04-22-新-3-系，新-C200（C260），新-A4L，选哪个好？](https://www.v2ex.com/t/664832)  
 - [2020-04-22-数字图像处理，这该怎么入手求解](https://www.v2ex.com/t/664830)  
@@ -879,9 +879,10 @@
 </summary>
 
 
-- [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl) ![](assets/new.png)  
-- [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp) ![](assets/new.png)  
-- [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3) ![](assets/new.png)  
+- [2020-04-22-推荐-程序员职场背锅甩锅指南](https://toutiao.io/k/wsrxke7) ![](assets/new.png)  
+- [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl)  
+- [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
+- [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3)  
 - [2020-04-22-推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje)  
 - [2020-04-22-推荐-领域驱动分层架构与对象模型](https://toutiao.io/k/y3l6bth)  
 - [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19)  
@@ -898,7 +899,6 @@
 - [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)  
 - [2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)  
 - [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  
-- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

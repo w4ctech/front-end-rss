@@ -2581,6 +2581,11 @@
     "items": [
       {
         "title": "抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…",
+        "link": "https://juejin.im/post/5e9f6b3251882573a855cd52",
+        "date": "2020-04-21"
+      },
+      {
+        "title": "抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…",
         "link": "https://juejin.im/post/5e9f236a518825738745cffb",
         "date": "2020-04-21"
       },
@@ -2999,6 +3004,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "编译云豹直播 app 出现 Expected identifier or '('求大佬",
+        "link": "https://www.v2ex.com/t/664841",
+        "date": "2020-04-22"
+      },
       {
         "title": "[Remote - 远程] 海外 Growth Marketer",
         "link": "https://www.v2ex.com/t/664840",

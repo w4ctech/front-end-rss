@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -298,6 +298,11 @@
 - [【JavaScript】2020-04-13-大家什么时候感觉自己身体素质在下滑的？](https://www.ershicimi.com/p/91496239d4e26682faae755b4ecd75cd) 
 - [【JavaScript】2020-04-12-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/e1207e5d42ec869e3efc8b5ddb393c9b) 
 - [【JavaScript】2020-04-11-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/bc8f458dba81085b50bf7b4a30a0c073) 
+- [【掘金前端】2020-04-21-移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法](https://juejin.im/post/5e9f074e51882573b136b4e6) 
+- [【掘金前端】2020-04-21-认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a) 
+- [【掘金前端】2020-04-21-offsetLeft、offsetWidth、clientWidth、scrollWidth、style.width···你都分清了吗？](https://juejin.im/post/5e9e9d3cf265da47f517a116) 
+- [【掘金前端】2020-04-21-使用-React-Hooks-实现仿石墨的图片预览插件（巨详细）](https://juejin.im/post/5e9bf299f265da47ee3f6c31) 
+- [【掘金前端】2020-04-21-前端JavaScript-'严格模式'-的详细总结](https://juejin.im/post/5e9ec474f265da47c5585a7f) 
 - [【印记中文周刊】2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
 - [【印记中文周刊】2020-04-22-▶-What’s-New-in-JavaScript](https://javascriptweekly.com/link/63602/web) 
 - [【印记中文周刊】2020-04-22-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
@@ -329,6 +334,7 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-22-现在外包招聘上写的薪水有-10K-12K，其实到手真的有那么高吗？有没有经验人，-Come-on](https://www.v2ex.com/t/664833) 
 - [【V2EX】2020-04-22-新-3-系，新-C200（C260），新-A4L，选哪个好？](https://www.v2ex.com/t/664832) 
 - [【V2EX】2020-04-22-数字图像处理，这该怎么入手求解](https://www.v2ex.com/t/664830) 
 - [【V2EX】2020-04-22-2020-晒桌面](https://www.v2ex.com/t/664829) 
@@ -404,6 +410,7 @@
 - [【技术头条】2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje) 
 - [【开发者头条】2020-04-22-推荐-领域驱动分层架构与对象模型](https://toutiao.io/k/y3l6bth) 
 - [【开发者头条】2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19) 
 - [【开发者头条】2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm) 

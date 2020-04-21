@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -60,6 +60,9 @@
 - [2020-04-16-ES6-Proxy-可以做哪些有意思的事情？](https://www.ershicimi.com/p/50d623c8ce307e5045d6a677e914b47c) 
 - [2020-04-20-Zocdoc-的事件驱动架构实践](https://www.ershicimi.com/p/3bb6affe84e19e08ce60099ad0c64a57) 
 - [2020-04-14-JavaScript设计模式](https://www.ershicimi.com/p/19e3dc063216c3f233563ca60ae0277b) 
+- [2020-04-21-移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法](https://juejin.im/post/5e9f074e51882573b136b4e6) 
+- [2020-04-21-offsetLeft、offsetWidth、clientWidth、scrollWidth、style.width···你都分清了吗？](https://juejin.im/post/5e9e9d3cf265da47f517a116) 
+- [2020-04-21-前端JavaScript-'严格模式'-的详细总结](https://juejin.im/post/5e9ec474f265da47c5585a7f) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 22:01:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -16,7 +16,4 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
-- [2020-04-18-如何玩转视频号，收获自己的第一波粉丝？](https://www.ershicimi.com/p/b878dda3c7cfa700e88c32b93d570b27) 
-- [2020-04-21-油管上有直播伪装成官方频道在搞比特币诈骗](https://www.v2ex.com/t/664774) 
-- [2020-04-21-教程-iOS13-苹果系统相册快速制作短视频](https://www.v2ex.com/t/664770) 
-- [2020-04-21-远程视频方案征求](https://www.v2ex.com/t/664742) 
+- [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 

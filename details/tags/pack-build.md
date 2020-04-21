@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 22:01:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -33,5 +33,3 @@
 - [2020-03-18-npm-is-joining-GitHub](https://www.ershicimi.com/p/40e5a64fcae42bbe5088577ee6b3684c) 
 - [2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
-- [2020-04-21-构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web) 
-- [2020-04-21-一个-dockerfile-构建两个语言](https://www.v2ex.com/t/664773) 

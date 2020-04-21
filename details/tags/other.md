@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -188,6 +188,8 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-奇怪-为什么很少听到德语-or-法语类歌曲？](https://www.v2ex.com/t/664828) 
+- [2020-04-22-万能的-V-友，求这首歌的背景音乐](https://www.v2ex.com/t/664826) 
 - [2020-04-22-vs-标准库-源码注释问题能不能想-Java-一样；](https://www.v2ex.com/t/664825) 
 - [2020-04-22-Azure-DevOps-其实也挺香的](https://www.v2ex.com/t/664824) 
 - [2020-04-22-请问-Ublock-Origin-自定义规则可以使用通配符么，如果可以怎么使用？](https://www.v2ex.com/t/664820) 
@@ -235,6 +237,9 @@
 - [2020-04-21-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-21-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87) 
+- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h) 
+- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) 
 - [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi) 
 - [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7) 
 - [2020-04-22-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv) 

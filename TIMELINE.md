@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 01:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -329,6 +329,8 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-22-奇怪-为什么很少听到德语-or-法语类歌曲？](https://www.v2ex.com/t/664828) 
+- [【V2EX】2020-04-22-万能的-V-友，求这首歌的背景音乐](https://www.v2ex.com/t/664826) 
 - [【V2EX】2020-04-22-vs-标准库-源码注释问题能不能想-Java-一样；](https://www.v2ex.com/t/664825) 
 - [【V2EX】2020-04-22-Azure-DevOps-其实也挺香的](https://www.v2ex.com/t/664824) 
 - [【V2EX】2020-04-22-github-大部分服务爆炸](https://www.v2ex.com/t/664823) 
@@ -399,6 +401,12 @@
 - [【技术头条】2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) 
+- [【开发者头条】2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo) 
+- [【开发者头条】2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87) 
+- [【开发者头条】2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h) 
+- [【开发者头条】2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj) 
+- [【开发者头条】2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) 
 - [【开发者头条】2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95) 
 - [【开发者头条】2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq) 
 - [【开发者头条】2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi) 

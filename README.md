@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 00:30:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 01:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -812,13 +812,15 @@
 </summary>
 
 
-- [2020-04-22-vs-标准库-源码注释问题能不能想-Java-一样；](https://www.v2ex.com/t/664825) ![](assets/new.png)  
-- [2020-04-22-Azure-DevOps-其实也挺香的](https://www.v2ex.com/t/664824) ![](assets/new.png)  
-- [2020-04-22-github-大部分服务爆炸](https://www.v2ex.com/t/664823) ![](assets/new.png)  
-- [2020-04-22-GitHub-又炸了...](https://www.v2ex.com/t/664822) ![](assets/new.png)  
-- [2020-04-22-请问-Ublock-Origin-自定义规则可以使用通配符么，如果可以怎么使用？](https://www.v2ex.com/t/664820) ![](assets/new.png)  
-- [2020-04-22-如何只给路由器后的某个设备单独分配-IPv6-地址](https://www.v2ex.com/t/664819) ![](assets/new.png)  
-- [2020-04-21-华为简历锁定在一个部门，但想去另一个部门，该联系谁要求解锁？](https://www.v2ex.com/t/664818) ![](assets/new.png)  
+- [2020-04-22-奇怪-为什么很少听到德语-or-法语类歌曲？](https://www.v2ex.com/t/664828) ![](assets/new.png)  
+- [2020-04-22-万能的-V-友，求这首歌的背景音乐](https://www.v2ex.com/t/664826) ![](assets/new.png)  
+- [2020-04-22-vs-标准库-源码注释问题能不能想-Java-一样；](https://www.v2ex.com/t/664825)  
+- [2020-04-22-Azure-DevOps-其实也挺香的](https://www.v2ex.com/t/664824)  
+- [2020-04-22-github-大部分服务爆炸](https://www.v2ex.com/t/664823)  
+- [2020-04-22-GitHub-又炸了...](https://www.v2ex.com/t/664822)  
+- [2020-04-22-请问-Ublock-Origin-自定义规则可以使用通配符么，如果可以怎么使用？](https://www.v2ex.com/t/664820)  
+- [2020-04-22-如何只给路由器后的某个设备单独分配-IPv6-地址](https://www.v2ex.com/t/664819)  
+- [2020-04-21-华为简历锁定在一个部门，但想去另一个部门，该联系谁要求解锁？](https://www.v2ex.com/t/664818)  
 - [2020-04-21-你们手机都是多大存储空间？](https://www.v2ex.com/t/664817)  
 - [2020-04-21-20200421-午夜俱乐部](https://www.v2ex.com/t/664816)  
 - [2020-04-21-fb-公司中国码农骚扰中国女下属被开除！](https://www.v2ex.com/t/664815)  
@@ -830,8 +832,6 @@
 - [2020-04-21-老罗把-t.tt-又拿回了吗？不给坚果用了吗](https://www.v2ex.com/t/664809)  
 - [2020-04-21-http://qdzn.zs.gov.cn/-这个网站谁能正常使用？](https://www.v2ex.com/t/664808)  
 - [2020-04-21-淘宝这是默认快递可以不经用户同意直接到代收点了吗](https://www.v2ex.com/t/664807)  
-- [2020-04-21-不懂就问，你们用-Manjaro-的，打印机驱动是怎么解决的？！](https://www.v2ex.com/t/664806)  
-- [2020-04-21-打卡，备考-5-月-BEC-高级](https://www.v2ex.com/t/664805)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,26 +874,26 @@
 </summary>
 
 
-- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95) ![](assets/new.png)  
-- [2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq) ![](assets/new.png)  
-- [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi) ![](assets/new.png)  
-- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7) ![](assets/new.png)  
-- [2020-04-22-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv) ![](assets/new.png)  
-- [2020-04-22-推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy) ![](assets/new.png)  
-- [2020-04-22-推荐-吐血推荐，B-站最强学习资源汇总（数据科学、机器学习、Python）](https://toutiao.io/k/a58ir9a) ![](assets/new.png)  
-- [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29) ![](assets/new.png)  
-- [2020-04-22-推荐-用匠心精神，打造高可用分布式系统](https://toutiao.io/k/tmdintk) ![](assets/new.png)  
-- [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr) ![](assets/new.png)  
+- [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) ![](assets/new.png)  
+- [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo) ![](assets/new.png)  
+- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87) ![](assets/new.png)  
+- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h) ![](assets/new.png)  
+- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj) ![](assets/new.png)  
+- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) ![](assets/new.png)  
+- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)  
+- [2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)  
+- [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  
+- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7)  
+- [2020-04-22-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv)  
+- [2020-04-22-推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy)  
+- [2020-04-22-推荐-吐血推荐，B-站最强学习资源汇总（数据科学、机器学习、Python）](https://toutiao.io/k/a58ir9a)  
+- [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29)  
+- [2020-04-22-推荐-用匠心精神，打造高可用分布式系统](https://toutiao.io/k/tmdintk)  
+- [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
 - [2020-04-22-智能合约事件应该这么用](https://toutiao.io/k/a1q83rl)  
 - [2020-04-22-架构师技术图谱，助你早日成为架构师](https://toutiao.io/k/8lhpf6)  
 - [2020-04-22-OPA-进阶：分布式利器-Bundle](https://toutiao.io/k/cgel8gg)  
 - [2020-04-22-Lua-For-Unity-你使用什么编辑器做开发？](https://toutiao.io/k/lfvnwkm)  
-- [2020-04-22-混沌鸿蒙，新基建下的分布式消息-Chaos-框架](https://toutiao.io/k/ynyf6cg)  
-- [2020-04-22-推荐系统的价值观](https://toutiao.io/k/7m6z8kd)  
-- [2020-04-22-Intel-PAUSE-指令变化影响到-MySQL-的性能，该如何解决？](https://toutiao.io/k/9azis5j)  
-- [2020-04-22-聊聊技术人如何与甲方客户打交道](https://toutiao.io/k/8bmx9kb)  
-- [2020-04-22-PanDownload-不能用了，可是我发现它们上了-GitHub-热榜](https://toutiao.io/k/m21guzt)  
-- [2020-04-22-RegNet：何恺明团队最新作品，源于-Facebook-AI](https://toutiao.io/k/lx2ka7h)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -24,6 +24,11 @@
 - [2020-04-17-【第1917期】微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f3ddbeffc77b696d7351647ce5441839) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
 - [2020-04-14-前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a) 
+- [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
+- [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
+- [2020-04-17-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/9db8f1d7a4628c30bdc3db48e544e738) 
+- [2020-04-17-用好这-7-个-VS-Code-插件，前端编程效率蹭蹭涨](https://www.ershicimi.com/p/d2c2d0c03f625370ee469ca84bc5f133) 
+- [2020-04-16-秒杀5折起-|-戴尔小企业官网直降，Vostro买台式机送显示器，2599元入手！](https://www.ershicimi.com/p/c56c7b41991f595ba80111d4b2ad2205) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
 - [2020-04-21-必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！](https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f) 
@@ -122,6 +127,12 @@
 - [2020-04-13-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/8301e925df67964d9087254cb5632594) 
 - [2020-03-24-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/2d459a6aff10d7260d628160f165dfa8) 
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/cd16415b005856ba512a52e53dc680c1) 
+- [2020-03-05-2020.03.03-互联网大厂入职薪资更新表](https://www.ershicimi.com/p/7758b0618c2076417db69702ed3bc49d) 
+- [2020-03-04-大厂薪资揭秘2020年初版-数据可信度比较高，-大家可以自行参考。](https://www.ershicimi.com/p/039430d577e04cceec7189892fdca5f0) 
+- [2020-03-03-​Ant-Disign-4.0-升级实践扑街指南-一](https://www.ershicimi.com/p/9d5a595678f0794369df0922f74275cc) 
+- [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
+- [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
+- [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 

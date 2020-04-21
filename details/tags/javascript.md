@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-21 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-21 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -11,6 +11,8 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-04-19-ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2) 
 - [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6) 
+- [2020-04-18-大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7) 
+- [2020-04-16-一篇搞定移动端适配](https://www.ershicimi.com/p/78767457dd6522d00a9f35753490afe9) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 

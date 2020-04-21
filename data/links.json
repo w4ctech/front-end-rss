@@ -2980,6 +2980,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPhone 还是 Pixel？ iOS or Android？",
+        "link": "https://www.v2ex.com/t/664834",
+        "date": "2020-04-22"
+      },
+      {
         "title": "现在外包招聘上写的薪水有 10K-12K，其实到手真的有那么高吗？有没有经验人， Come on",
         "link": "https://www.v2ex.com/t/664833",
         "date": "2020-04-22"
@@ -3373,6 +3378,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 谁要是再敢用 Map 传参，我过去就是一 JIO",
+        "link": "https://toutiao.io/k/ccfpfdl",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 购物车之架构设计",
+        "link": "https://toutiao.io/k/vklickp",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 缓存穿透、击穿、雪崩区别和解决方案",
+        "link": "https://toutiao.io/k/30s1xt3",
+        "date": "2020-04-22"
+      },
       {
         "title": "[推荐] Spring MVC 相关面试题就是无底洞，反正我是怕了",
         "link": "https://toutiao.io/k/zrlipje",

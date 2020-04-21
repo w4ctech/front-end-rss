@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 02:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -334,6 +334,7 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-22-iPhone-还是-Pixel？-iOS-or-Android？](https://www.v2ex.com/t/664834) 
 - [【V2EX】2020-04-22-现在外包招聘上写的薪水有-10K-12K，其实到手真的有那么高吗？有没有经验人，-Come-on](https://www.v2ex.com/t/664833) 
 - [【V2EX】2020-04-22-新-3-系，新-C200（C260），新-A4L，选哪个好？](https://www.v2ex.com/t/664832) 
 - [【V2EX】2020-04-22-数字图像处理，这该怎么入手求解](https://www.v2ex.com/t/664830) 
@@ -410,6 +411,9 @@
 - [【技术头条】2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl) 
+- [【开发者头条】2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp) 
+- [【开发者头条】2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3) 
 - [【开发者头条】2020-04-22-推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje) 
 - [【开发者头条】2020-04-22-推荐-领域驱动分层架构与对象模型](https://toutiao.io/k/y3l6bth) 
 - [【开发者头条】2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19) 

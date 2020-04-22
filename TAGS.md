@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -305,12 +305,12 @@
 - [【前端大学】手把手教你原生-JS+WebGL-实现3D图片效果！](https://www.ershicimi.com/p/7cc502ab77c3f07cf0d6a2d2ab96a613)
 - [【前端大学】Math.sign：在Javascript中如何检查一个数字是正数还是负数](https://www.ershicimi.com/p/51b31dae2f92b960131ef2d85e2f87b5)
 - [【前端外刊评论】从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc)
+- [【前端迷】Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54)
 - [【前端迷】H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/4a632f66c2654acb25a81b3166b6a0d0)
 - [【政采云前端团队】小白必看，JSBridge-初探](https://www.ershicimi.com/p/cb1bd6cf296e4970985eb56fe06cd1f9)
 - [【前端宇宙】【适合收藏】让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/bd4949079ba2e63310e4909dd8862a45)
 - [【前端宇宙】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/6cc71fd0651ae6ee8a960c316e03595d)
 - [【前端宇宙】75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/80515cce03b352c7e69085ab2787ea9e)
-- [【前端瓶子君】简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/8f9b3aa39751a681d9b710c3143e601e)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -474,8 +474,8 @@
 - [【掘金前端】认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
-- [【V2EX】新装黑苹果发现-Chrome-和新-Edge-都无法正常工作，-如图...](https://www.v2ex.com/t/664786)
-- [【V2EX】关于-Python-中-websocket-client-库的使用有一些疑惑](https://www.v2ex.com/t/664776)
+- [【V2EX】请教各位，-chrome-有没有可以调用外部下载工具的扩展或脚本？](https://www.v2ex.com/t/664872)
+- [【V2EX】直招上海/南京/北京360-企业安全-高级安全开发工程师](https://www.v2ex.com/t/664867)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

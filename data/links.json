@@ -721,6 +721,16 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "前端高级进阶：2020怎样才能更值钱？",
+        "link": "https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Service Worker控制缓存实战",
+        "link": "https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54",
+        "date": "2020-04-22"
+      },
+      {
         "title": "从若干个方向谈一谈前端面试需要准备哪些东西",
         "link": "https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47",
         "date": "2020-04-21"
@@ -3050,6 +3060,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教各位， chrome 有没有可以调用外部下载工具的扩展或脚本？",
+        "link": "https://www.v2ex.com/t/664872",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "那个富士康流水线女孩最终也没能留在硅谷拿 h1b",
+        "link": "https://www.v2ex.com/t/664871",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "感觉快要得肩周炎了，哪里能买到“凹”字型的电脑桌？",
+        "link": "https://www.v2ex.com/t/664870",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "有人用 kotlin 协程特性写 android 应用么?",
+        "link": "https://www.v2ex.com/t/664869",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "6000 左右的笔记本有推荐么，母亲用来看看股票",
+        "link": "https://www.v2ex.com/t/664868",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[直招][上海/南京/北京][360 企业安全] 高级安全开发工程师",
+        "link": "https://www.v2ex.com/t/664867",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "程序员的技术都是在业余的时候自己提升的吗？",
+        "link": "https://www.v2ex.com/t/664865",
+        "date": "2020-04-22"
+      },
+      {
         "title": "爬虫管理平台 Crawlab v0.4.10 发布（日志集中管理）",
         "link": "https://www.v2ex.com/t/664863",
         "date": "2020-04-22"
@@ -3583,6 +3628,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "十年难得一遇！从数据误删到全量恢复的惊险记录",
+        "link": "https://toutiao.io/k/zy12h7y",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "不会写爬虫咋办？8k Star 的 Python 爬虫例子拿去",
+        "link": "https://toutiao.io/k/ocurgno",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "PHP 8 正式版将于年底发布",
+        "link": "https://toutiao.io/k/vnyp4dt",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Apache Kafka 2.5 稳定版发布，新特性抢先看",
+        "link": "https://toutiao.io/k/9oacyxc",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[译] OKR 介绍",
+        "link": "https://toutiao.io/k/x6ufv2i",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "图解数据库事务隔离级别",
+        "link": "https://toutiao.io/k/o4k8v7e",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 为什么 Linux 需要虚拟内存",
+        "link": "https://toutiao.io/k/u65syjf",
+        "date": "2020-04-22"
+      },
       {
         "title": "CEO 的 1 元年薪起源",
         "link": "https://toutiao.io/k/5vrrug5",

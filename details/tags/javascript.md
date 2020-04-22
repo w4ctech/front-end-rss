@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -21,6 +21,7 @@
 - [2020-04-18-手把手教你原生-JS+WebGL-实现3D图片效果！](https://www.ershicimi.com/p/7cc502ab77c3f07cf0d6a2d2ab96a613) 
 - [2020-04-16-Math.sign：在Javascript中如何检查一个数字是正数还是负数](https://www.ershicimi.com/p/51b31dae2f92b960131ef2d85e2f87b5) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54) 
 - [2020-04-16-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/4a632f66c2654acb25a81b3166b6a0d0) 
 - [2020-02-23-小白必看，JSBridge-初探](https://www.ershicimi.com/p/cb1bd6cf296e4970985eb56fe06cd1f9) 
 - [2020-04-17-【适合收藏】让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/bd4949079ba2e63310e4909dd8862a45) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -262,10 +262,18 @@
 - [【InfoQ】2020-04-20-从-Google-回来的-CTO](https://www.ershicimi.com/p/a8df88e8a62855f51851badf080d187d) 
 - [【InfoQ】2020-04-20-Rust-能够取代-C-语言吗？](https://www.ershicimi.com/p/26e30680c4f4aa4638a6b25f7ba15de0) 
 - [【InfoQ】2020-04-20-Zocdoc-的事件驱动架构实践](https://www.ershicimi.com/p/3bb6affe84e19e08ce60099ad0c64a57) 
+- [【JavaScript】2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 
+- [【JavaScript】2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
 - [【JavaScript】2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
 - [【JavaScript】2020-04-16-瑞幸大起大落之下-有哪些技能是你可以复制的？](https://www.ershicimi.com/p/b873826a014290b7f5d49067b387905f) 
+- [【掘金前端】2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745) 
+- [【掘金前端】2020-04-22-观察者模式（JavaScript实现）](https://juejin.im/post/5e9ff0d4e51d4546ce27db22) 
+- [【掘金前端】2020-04-22-入职字节跳动三个月后...我到底发生了什么改变](https://juejin.im/post/5e9fffa66fb9a03c860b8bc6) 
+- [【掘金前端】2020-04-22-用vue-cli+Electron开发一个跨平台的桌面应用____篇一（搭建vue项目、安装electron）](https://juejin.im/post/5ea004d76fb9a03c7204e966) 
+- [【掘金前端】2020-04-22-我对react的一点理解](https://juejin.im/post/5ea005b86fb9a03c875cafa9) 
 - [【掘金前端】2020-04-22-ContentEditable困境与破局之法](https://juejin.im/post/5e9eec756fb9a03c550ff299) 
 - [【掘金前端】2020-04-22-webpack学习笔记（一）----webpack背景介绍](https://juejin.im/post/5e9edbeaf265da47da2aea4a) 
 - [【掘金前端】2020-04-22-理解-JavaScript-内存模型，就靠这几张图了！](https://juejin.im/post/5e9d2ca6f265da47db2e53f1) 
@@ -493,6 +501,7 @@
 - [【技术头条】2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) 
 - [【开发者头条】2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi) 
 - [【开发者头条】2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3) 
 - [【开发者头条】2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) 

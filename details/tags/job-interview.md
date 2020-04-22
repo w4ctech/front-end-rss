@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -15,6 +15,7 @@
 - [2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/8bf63492874d14cbc76cfce3caf9ae5c) 
 - [2020-04-16-两年工作经验成功面试阿里P6总结](https://www.ershicimi.com/p/8841528ec2e3cd316799b0f486563f1d) 
+- [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
 - [2020-04-22-天猫奢侈品--招聘前端，-Java-，测试](https://www.v2ex.com/t/665098) 
 - [2020-04-22-Android-面试题](https://www.v2ex.com/t/665086) 

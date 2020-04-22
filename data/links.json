@@ -1951,6 +1951,21 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "Service Worker：让你的 Web 应用牛逼起来",
+        "link": "https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "搞定面试官之如何拿到自己满意的薪资",
+        "link": "https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "TypeScript为什么这么吃香？真的值得吗？",
+        "link": "https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281",
+        "date": "2020-04-21"
+      },
+      {
         "title": "Webpack真香定律，我先怂了",
         "link": "https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e",
         "date": "2020-04-20"
@@ -1977,6 +1992,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "再过几天，就是一名3年开发经验的前端了",
+        "link": "https://juejin.im/post/5e9ff960e51d4546f2800745",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "观察者模式（JavaScript实现）",
+        "link": "https://juejin.im/post/5e9ff0d4e51d4546ce27db22",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "入职字节跳动三个月后...我到底发生了什么改变",
+        "link": "https://juejin.im/post/5e9fffa66fb9a03c860b8bc6",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "用vue-cli+Electron开发一个跨平台的桌面应用____篇一（搭建vue项目、安装electron）",
+        "link": "https://juejin.im/post/5ea004d76fb9a03c7204e966",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "我对react的一点理解",
+        "link": "https://juejin.im/post/5ea005b86fb9a03c875cafa9",
+        "date": "2020-04-22"
+      },
       {
         "title": "ContentEditable困境与破局之法",
         "link": "https://juejin.im/post/5e9eec756fb9a03c550ff299",
@@ -3310,6 +3350,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 抖音爬虫原理大揭秘",
+        "link": "https://toutiao.io/k/7y8j3z1",
+        "date": "2020-04-22"
+      },
       {
         "title": "[推荐] 实战 MySQL 参数调优",
         "link": "https://toutiao.io/k/nas6eyi",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 21:00:21，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 21:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -45,15 +45,15 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [JavaScript](#javascript)![](assets/dot.png)   
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -565,6 +565,9 @@
 </summary>
 
 
+- [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) ![](assets/new.png)  
+- [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) ![](assets/new.png)  
+- [2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) ![](assets/new.png)  
 - [2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e)  
 - [2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55)  
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b)  
@@ -580,6 +583,11 @@
 </summary>
 
 
+- [2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745) ![](assets/new.png)  
+- [2020-04-22-观察者模式（JavaScript实现）](https://juejin.im/post/5e9ff0d4e51d4546ce27db22) ![](assets/new.png)  
+- [2020-04-22-入职字节跳动三个月后...我到底发生了什么改变](https://juejin.im/post/5e9fffa66fb9a03c860b8bc6) ![](assets/new.png)  
+- [2020-04-22-用vue-cli+Electron开发一个跨平台的桌面应用____篇一（搭建vue项目、安装electron）](https://juejin.im/post/5ea004d76fb9a03c7204e966) ![](assets/new.png)  
+- [2020-04-22-我对react的一点理解](https://juejin.im/post/5ea005b86fb9a03c875cafa9) ![](assets/new.png)  
 - [2020-04-22-ContentEditable困境与破局之法](https://juejin.im/post/5e9eec756fb9a03c550ff299)  
 - [2020-04-22-webpack学习笔记（一）----webpack背景介绍](https://juejin.im/post/5e9edbeaf265da47da2aea4a)  
 - [2020-04-22-理解-JavaScript-内存模型，就靠这几张图了！](https://juejin.im/post/5e9d2ca6f265da47db2e53f1)  
@@ -690,26 +698,26 @@
 </summary>
 
 
-- [2020-04-22-招贤纳士-阿里巴巴云智能事业群招人啦](https://www.v2ex.com/t/665115) ![](assets/new.png)  
-- [2020-04-22-为了扩充-IP，将公司路由器掩码从/24-改成/20-有没有影响](https://www.v2ex.com/t/665114) ![](assets/new.png)  
-- [2020-04-22-Java8-的时间类选择](https://www.v2ex.com/t/665113) ![](assets/new.png)  
-- [2020-04-22-坐标日本，不能访问国内网络](https://www.v2ex.com/t/665112) ![](assets/new.png)  
-- [2020-04-22-华为的笔记本这是什么牛-B-技术？](https://www.v2ex.com/t/665111) ![](assets/new.png)  
-- [2020-04-22-发现-V-站的人儿真的是非常有爱啊~](https://www.v2ex.com/t/665110) ![](assets/new.png)  
-- [2020-04-22-刚拿到体检报告](https://www.v2ex.com/t/665109) ![](assets/new.png)  
-- [2020-04-22-4-月-22-日-App-Store-限免应用附带大福利](https://www.v2ex.com/t/665107) ![](assets/new.png)  
-- [2020-04-22-AirPods-为啥在不同应用下续航差别这么大？](https://www.v2ex.com/t/665105) ![](assets/new.png)  
-- [2020-04-22-微信回复消息的一个小-bug](https://www.v2ex.com/t/665104) ![](assets/new.png)  
-- [2020-04-22-laravel-怎么读？](https://www.v2ex.com/t/665103) ![](assets/new.png)  
-- [2020-04-22-SD-WAN-软件工程师-|-C,-Rust,-Go,-DPDK,-VPP](https://www.v2ex.com/t/665102) ![](assets/new.png)  
-- [2020-04-22-JSBox-是如何在-iOS-里运行-Node.js-的？](https://www.v2ex.com/t/665100) ![](assets/new.png)  
-- [2020-04-22-Java-运行时抛出编译的异常,如何解释-the-method-xxx-is-undefined-for-the-type](https://www.v2ex.com/t/665099) ![](assets/new.png)  
-- [2020-04-22-天猫奢侈品--招聘前端，-Java-，测试](https://www.v2ex.com/t/665098) ![](assets/new.png)  
-- [2020-04-22-批量操作-github-仓库](https://www.v2ex.com/t/665097) ![](assets/new.png)  
-- [2020-04-22-（长期有效）欢聚时代（yy，-bigo，一件电商，-100-教育）内推通道，速度快，直达面试官！包括：前端、后端、算法、产品、运营等岗位](https://www.v2ex.com/t/665096) ![](assets/new.png)  
-- [2020-04-22-不懂就问，可以拿别人的开源方案给自己申请专利吗？](https://www.v2ex.com/t/665095) ![](assets/new.png)  
-- [2020-04-22-一个-Java-Web-应用从命令行启动和用-systemd-启动结果不一样怎么回事](https://www.v2ex.com/t/665094) ![](assets/new.png)  
-- [2020-04-22-Macbook-Pro-翻车日记-之-固件验证失败](https://www.v2ex.com/t/665093) ![](assets/new.png)  
+- [2020-04-22-招贤纳士-阿里巴巴云智能事业群招人啦](https://www.v2ex.com/t/665115)  
+- [2020-04-22-为了扩充-IP，将公司路由器掩码从/24-改成/20-有没有影响](https://www.v2ex.com/t/665114)  
+- [2020-04-22-Java8-的时间类选择](https://www.v2ex.com/t/665113)  
+- [2020-04-22-坐标日本，不能访问国内网络](https://www.v2ex.com/t/665112)  
+- [2020-04-22-华为的笔记本这是什么牛-B-技术？](https://www.v2ex.com/t/665111)  
+- [2020-04-22-发现-V-站的人儿真的是非常有爱啊~](https://www.v2ex.com/t/665110)  
+- [2020-04-22-刚拿到体检报告](https://www.v2ex.com/t/665109)  
+- [2020-04-22-4-月-22-日-App-Store-限免应用附带大福利](https://www.v2ex.com/t/665107)  
+- [2020-04-22-AirPods-为啥在不同应用下续航差别这么大？](https://www.v2ex.com/t/665105)  
+- [2020-04-22-微信回复消息的一个小-bug](https://www.v2ex.com/t/665104)  
+- [2020-04-22-laravel-怎么读？](https://www.v2ex.com/t/665103)  
+- [2020-04-22-SD-WAN-软件工程师-|-C,-Rust,-Go,-DPDK,-VPP](https://www.v2ex.com/t/665102)  
+- [2020-04-22-JSBox-是如何在-iOS-里运行-Node.js-的？](https://www.v2ex.com/t/665100)  
+- [2020-04-22-Java-运行时抛出编译的异常,如何解释-the-method-xxx-is-undefined-for-the-type](https://www.v2ex.com/t/665099)  
+- [2020-04-22-天猫奢侈品--招聘前端，-Java-，测试](https://www.v2ex.com/t/665098)  
+- [2020-04-22-批量操作-github-仓库](https://www.v2ex.com/t/665097)  
+- [2020-04-22-（长期有效）欢聚时代（yy，-bigo，一件电商，-100-教育）内推通道，速度快，直达面试官！包括：前端、后端、算法、产品、运营等岗位](https://www.v2ex.com/t/665096)  
+- [2020-04-22-不懂就问，可以拿别人的开源方案给自己申请专利吗？](https://www.v2ex.com/t/665095)  
+- [2020-04-22-一个-Java-Web-应用从命令行启动和用-systemd-启动结果不一样怎么回事](https://www.v2ex.com/t/665094)  
+- [2020-04-22-Macbook-Pro-翻车日记-之-固件验证失败](https://www.v2ex.com/t/665093)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -752,6 +760,7 @@
 </summary>
 
 
+- [2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) ![](assets/new.png)  
 - [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  
 - [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3)  
 - [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85)  
@@ -771,7 +780,6 @@
 - [2020-04-22-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl)  
 - [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)  
 - [2020-04-22-推荐-架构师角色认知](https://toutiao.io/k/8g7wlqr)  
-- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

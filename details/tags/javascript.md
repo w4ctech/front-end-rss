@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -62,6 +62,7 @@
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-20-Zocdoc-的事件驱动架构实践](https://www.ershicimi.com/p/3bb6affe84e19e08ce60099ad0c64a57) 
 - [2020-04-14-JavaScript设计模式](https://www.ershicimi.com/p/19e3dc063216c3f233563ca60ae0277b) 
+- [2020-04-22-JavaScript-设计模式---MV*模式](https://juejin.im/post/5e9c64326fb9a03c8d4a0844) 
 - [2020-04-21-移动端touch事件影响click事件以及在touchmove添加preventDefault导致页面无法滚动的解决方法](https://juejin.im/post/5e9f074e51882573b136b4e6) 
 - [2020-04-21-offsetLeft、offsetWidth、clientWidth、scrollWidth、style.width···你都分清了吗？](https://juejin.im/post/5e9e9d3cf265da47f517a116) 
 - [2020-04-21-前端JavaScript-'严格模式'-的详细总结](https://juejin.im/post/5e9ec474f265da47c5585a7f) 

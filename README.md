@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 11:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 11:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,17 +43,17 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -648,6 +648,10 @@
 </summary>
 
 
+- [2020-04-22-呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50) ![](assets/new.png)  
+- [2020-04-22-从-0-编写自己的第一款-IDEA-插件！](https://www.ershicimi.com/p/d305be2ef4eec93877a0d277d8b9dbda) ![](assets/new.png)  
+- [2020-04-22-推荐-4-款-MySQL-调优工具，大神都在用！](https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb) ![](assets/new.png)  
+- [2020-04-22-枚举很好用啊，为啥阿里不建议返回值用枚举？看看作者孤尽的回答](https://www.ershicimi.com/p/d4f3b39f3f8ca152a1eb1d02dcf6fc07) ![](assets/new.png)  
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed)  
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad)  
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a)  
@@ -711,6 +715,11 @@
 </summary>
 
 
+- [2020-04-22-CSS动画——柱形图](https://juejin.im/post/5e9f9ce951882573b628055c) ![](assets/new.png)  
+- [2020-04-22-JavaScript-设计模式---MV*模式](https://juejin.im/post/5e9c64326fb9a03c8d4a0844) ![](assets/new.png)  
+- [2020-04-22-回流reflow和重绘repaint](https://juejin.im/post/5e9f2ce36fb9a03c8e5fa955) ![](assets/new.png)  
+- [2020-04-22-可视化D3专题系列（一）初见](https://juejin.im/post/5e9f102f6fb9a03c6d3db5d5) ![](assets/new.png)  
+- [2020-04-22-【每天一个小案例】实现掘金登录框中的熊猫状态改变](https://juejin.im/post/5e9f2a516fb9a03c4e6487f0) ![](assets/new.png)  
 - [2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://juejin.im/post/5e9f00abe51d4546b50d5970)  
 - [2020-04-22-如何在5天内学会Vue？聊聊我的学习方法！](https://juejin.im/post/5e9d92e26fb9a03c2e543307)  
 - [2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f6b3251882573a855cd52)  
@@ -897,7 +906,7 @@
 </summary>
 
 
-- [2020-04-22-技术解析：One-World-Together-为什么不是实时合唱？](https://toutiao.io/k/3ykbnvl) ![](assets/new.png)  
+- [2020-04-22-技术解析：One-World-Together-为什么不是实时合唱？](https://toutiao.io/k/3ykbnvl)  
 - [2020-04-22-十年难得一遇！从数据误删到全量恢复的惊险记录](https://toutiao.io/k/zy12h7y)  
 - [2020-04-22-不会写爬虫咋办？8k-Star-的-Python-爬虫例子拿去](https://toutiao.io/k/ocurgno)  
 - [2020-04-22-PHP-8-正式版将于年底发布](https://toutiao.io/k/vnyp4dt)  

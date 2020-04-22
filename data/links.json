@@ -2464,6 +2464,26 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "呕心沥血总结的14张思维导图，教你构建 Python核心知识体系（附高清下载）",
+        "link": "https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "从 0 编写自己的第一款 IDEA 插件！",
+        "link": "https://www.ershicimi.com/p/d305be2ef4eec93877a0d277d8b9dbda",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "推荐 4 款 MySQL 调优工具，大神都在用！",
+        "link": "https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "枚举很好用啊，为啥阿里不建议返回值用枚举？看看作者孤尽的回答",
+        "link": "https://www.ershicimi.com/p/d4f3b39f3f8ca152a1eb1d02dcf6fc07",
+        "date": "2020-04-22"
+      },
+      {
         "title": "译：谷歌OKR指导手册（全文）",
         "link": "https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed",
         "date": "2020-04-21"
@@ -2634,6 +2654,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "CSS动画——柱形图",
+        "link": "https://juejin.im/post/5e9f9ce951882573b628055c",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "JavaScript 设计模式---MV*模式",
+        "link": "https://juejin.im/post/5e9c64326fb9a03c8d4a0844",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "回流(reflow)和重绘(repaint)",
+        "link": "https://juejin.im/post/5e9f2ce36fb9a03c8e5fa955",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "可视化D3专题系列（一）初见",
+        "link": "https://juejin.im/post/5e9f102f6fb9a03c6d3db5d5",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "【每天一个小案例】实现掘金登录框中的熊猫状态改变",
+        "link": "https://juejin.im/post/5e9f2a516fb9a03c4e6487f0",
+        "date": "2020-04-22"
+      },
       {
         "title": "前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）",
         "link": "https://juejin.im/post/5e9f00abe51d4546b50d5970",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -139,6 +139,9 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-04-22-从-0-编写自己的第一款-IDEA-插件！](https://www.ershicimi.com/p/d305be2ef4eec93877a0d277d8b9dbda) 
+- [2020-04-22-推荐-4-款-MySQL-调优工具，大神都在用！](https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb) 
+- [2020-04-22-枚举很好用啊，为啥阿里不建议返回值用枚举？看看作者孤尽的回答](https://www.ershicimi.com/p/d4f3b39f3f8ca152a1eb1d02dcf6fc07) 
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
@@ -161,6 +164,8 @@
 - [2020-04-13-大家什么时候感觉自己身体素质在下滑的？](https://www.ershicimi.com/p/91496239d4e26682faae755b4ecd75cd) 
 - [2020-04-12-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/e1207e5d42ec869e3efc8b5ddb393c9b) 
 - [2020-04-11-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/bc8f458dba81085b50bf7b4a30a0c073) 
+- [2020-04-22-可视化D3专题系列（一）初见](https://juejin.im/post/5e9f102f6fb9a03c6d3db5d5) 
+- [2020-04-22-【每天一个小案例】实现掘金登录框中的熊猫状态改变](https://juejin.im/post/5e9f2a516fb9a03c4e6487f0) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
 - [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 

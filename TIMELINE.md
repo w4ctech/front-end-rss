@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -282,6 +282,10 @@
 - [【前端日刊】2020-04-14-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/ed360c752430e0563fce10ca67973499) 
 - [【前端日刊】2020-04-13-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/8301e925df67964d9087254cb5632594) 
 - [【前端日刊】2020-04-01-Nginx-一个牛X的功能，流量拷贝！](https://www.ershicimi.com/p/09033a5d9dc1599e5a8c43edaf311b41) 
+- [【互联网架构师】2020-04-22-呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50) 
+- [【互联网架构师】2020-04-22-从-0-编写自己的第一款-IDEA-插件！](https://www.ershicimi.com/p/d305be2ef4eec93877a0d277d8b9dbda) 
+- [【互联网架构师】2020-04-22-推荐-4-款-MySQL-调优工具，大神都在用！](https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb) 
+- [【互联网架构师】2020-04-22-枚举很好用啊，为啥阿里不建议返回值用枚举？看看作者孤尽的回答](https://www.ershicimi.com/p/d4f3b39f3f8ca152a1eb1d02dcf6fc07) 
 - [【互联网架构师】2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [【互联网架构师】2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [【互联网架构师】2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
@@ -312,6 +316,11 @@
 - [【JavaScript】2020-04-13-大家什么时候感觉自己身体素质在下滑的？](https://www.ershicimi.com/p/91496239d4e26682faae755b4ecd75cd) 
 - [【JavaScript】2020-04-12-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/e1207e5d42ec869e3efc8b5ddb393c9b) 
 - [【JavaScript】2020-04-11-2020年3月全国程序员工资统计，平均工资13820元](https://www.ershicimi.com/p/bc8f458dba81085b50bf7b4a30a0c073) 
+- [【掘金前端】2020-04-22-CSS动画——柱形图](https://juejin.im/post/5e9f9ce951882573b628055c) 
+- [【掘金前端】2020-04-22-JavaScript-设计模式---MV*模式](https://juejin.im/post/5e9c64326fb9a03c8d4a0844) 
+- [【掘金前端】2020-04-22-回流reflow和重绘repaint](https://juejin.im/post/5e9f2ce36fb9a03c8e5fa955) 
+- [【掘金前端】2020-04-22-可视化D3专题系列（一）初见](https://juejin.im/post/5e9f102f6fb9a03c6d3db5d5) 
+- [【掘金前端】2020-04-22-【每天一个小案例】实现掘金登录框中的熊猫状态改变](https://juejin.im/post/5e9f2a516fb9a03c4e6487f0) 
 - [【掘金前端】2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://juejin.im/post/5e9f00abe51d4546b50d5970) 
 - [【掘金前端】2020-04-22-如何在5天内学会Vue？聊聊我的学习方法！](https://juejin.im/post/5e9d92e26fb9a03c2e543307) 
 - [【掘金前端】2020-04-21-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://juejin.im/post/5e9f6b3251882573a855cd52) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 11:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -473,11 +473,11 @@
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
+- [【掘金前端】回流reflow和重绘repaint](https://juejin.im/post/5e9f2ce36fb9a03c8e5fa955)
 - [【掘金前端】认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
 - [【V2EX】直招上海/南京/北京360-企业安全-高级-DevOps-工程师](https://www.v2ex.com/t/664874)
-- [【V2EX】请教各位，-chrome-有没有可以调用外部下载工具的扩展或脚本？](https://www.v2ex.com/t/664872)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

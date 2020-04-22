@@ -2422,6 +2422,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "联通宽带光猫无法获得 ipv6，如何解决？",
+        "link": "https://www.v2ex.com/t/665179",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "最近感觉很不快乐，不知道该怎么办。",
+        "link": "https://www.v2ex.com/t/665178",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "如何优化远程获取请求数据过大造成服务器报错的问题？",
+        "link": "https://www.v2ex.com/t/665177",
+        "date": "2020-04-23"
+      },
+      {
         "title": "pywin32 win32gui.EnumWindows() 如何去除无意义的窗口句柄",
         "link": "https://www.v2ex.com/t/665175",
         "date": "2020-04-23"
@@ -3650,6 +3665,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 漫谈分布式事务的那些解决方案",
+        "link": "https://toutiao.io/k/a21b8ih",
+        "date": "2020-04-23"
+      },
       {
         "title": "[推荐] 超赞！推荐一个专注于 Java 后端源码分析的 GitHub 项目",
         "link": "https://toutiao.io/k/juq71tq",

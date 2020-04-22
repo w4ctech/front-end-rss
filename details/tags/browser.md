@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -31,5 +31,6 @@
 - [2020-04-21-新装黑苹果发现-Chrome-和新-Edge-都无法正常工作，-如图...](https://www.v2ex.com/t/664786) 
 - [2020-04-21-关于-Python-中-websocket-client-库的使用有一些疑惑](https://www.v2ex.com/t/664776) 
 - [2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-技术解析：One-World-Together-为什么不是实时合唱？](https://toutiao.io/k/3ykbnvl) 
 - [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3) 
 - [2020-04-22-本地内核调试神器：livekd-使用总结](https://toutiao.io/k/ol9f2e2) 

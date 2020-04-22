@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 10:30:21，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 11:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -213,8 +213,8 @@
 </summary>
 
 
-- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) ![](assets/new.png)  
-- [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397) ![](assets/new.png)  
+- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2)  
+- [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397)  
 - [2020-04-21-前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)  
 - [2020-04-20-7-天内我面试了-10-家公司，发现-TypeScript-为什么这么吃香](https://www.ershicimi.com/p/9e8a4ad92ab0676e564c6379837d7938)  
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd)  
@@ -835,22 +835,22 @@
 </summary>
 
 
-- [2020-04-22-客户端接口对接,我那个气啊...](https://www.v2ex.com/t/664889) ![](assets/new.png)  
-- [2020-04-22-办公电话神器,蓝牙耳机接打座机和电脑-IM](https://www.v2ex.com/t/664888) ![](assets/new.png)  
-- [2020-04-22-上班两天就走对下次工作会有影响吗？](https://www.v2ex.com/t/664887) ![](assets/new.png)  
-- [2020-04-22-<日经贴>-有啥最符合下列需求的云笔记/存储的服务/策略](https://www.v2ex.com/t/664886) ![](assets/new.png)  
-- [2020-04-22-Tailscale---Private-networks-made-easy](https://www.v2ex.com/t/664885) ![](assets/new.png)  
-- [2020-04-22-官翻-MacBook-Air-2018-¥5599](https://www.v2ex.com/t/664884) ![](assets/new.png)  
-- [2020-04-22-GPLv3-项目如何检测使用者没有遵循-LICENSE-?](https://www.v2ex.com/t/664883) ![](assets/new.png)  
-- [2020-04-22-我是不是应该换个移动电信啥的，感觉联通-4G-打游戏体验不好。](https://www.v2ex.com/t/664882) ![](assets/new.png)  
-- [2020-04-22-就算一周拒绝我-4-次，还是要越挫越勇啊！](https://www.v2ex.com/t/664881) ![](assets/new.png)  
-- [2020-04-22-MIcrosoft-365-这个文案是故意的吗？](https://www.v2ex.com/t/664880) ![](assets/new.png)  
-- [2020-04-22-.ren-大幅度降价](https://www.v2ex.com/t/664879) ![](assets/new.png)  
-- [2020-04-22-今天早上六点半就到公司上班了。。。。](https://www.v2ex.com/t/664877) ![](assets/new.png)  
-- [2020-04-22-快手杭州内推移动端Android-/iOS/Flutter、测试](https://www.v2ex.com/t/664876) ![](assets/new.png)  
-- [2020-04-22-使用-QQ-邮箱发送邮件比自己搭建的域名邮箱更容易进入垃圾箱](https://www.v2ex.com/t/664875) ![](assets/new.png)  
-- [2020-04-22-直招上海/南京/北京360-企业安全-高级-DevOps-工程师](https://www.v2ex.com/t/664874) ![](assets/new.png)  
-- [2020-04-22-博士招聘-华为-新介质-LAB-数据应用-LAB](https://www.v2ex.com/t/664873) ![](assets/new.png)  
+- [2020-04-22-客户端接口对接,我那个气啊...](https://www.v2ex.com/t/664889)  
+- [2020-04-22-办公电话神器,蓝牙耳机接打座机和电脑-IM](https://www.v2ex.com/t/664888)  
+- [2020-04-22-上班两天就走对下次工作会有影响吗？](https://www.v2ex.com/t/664887)  
+- [2020-04-22-<日经贴>-有啥最符合下列需求的云笔记/存储的服务/策略](https://www.v2ex.com/t/664886)  
+- [2020-04-22-Tailscale---Private-networks-made-easy](https://www.v2ex.com/t/664885)  
+- [2020-04-22-官翻-MacBook-Air-2018-¥5599](https://www.v2ex.com/t/664884)  
+- [2020-04-22-GPLv3-项目如何检测使用者没有遵循-LICENSE-?](https://www.v2ex.com/t/664883)  
+- [2020-04-22-我是不是应该换个移动电信啥的，感觉联通-4G-打游戏体验不好。](https://www.v2ex.com/t/664882)  
+- [2020-04-22-就算一周拒绝我-4-次，还是要越挫越勇啊！](https://www.v2ex.com/t/664881)  
+- [2020-04-22-MIcrosoft-365-这个文案是故意的吗？](https://www.v2ex.com/t/664880)  
+- [2020-04-22-.ren-大幅度降价](https://www.v2ex.com/t/664879)  
+- [2020-04-22-今天早上六点半就到公司上班了。。。。](https://www.v2ex.com/t/664877)  
+- [2020-04-22-快手杭州内推移动端Android-/iOS/Flutter、测试](https://www.v2ex.com/t/664876)  
+- [2020-04-22-使用-QQ-邮箱发送邮件比自己搭建的域名邮箱更容易进入垃圾箱](https://www.v2ex.com/t/664875)  
+- [2020-04-22-直招上海/南京/北京360-企业安全-高级-DevOps-工程师](https://www.v2ex.com/t/664874)  
+- [2020-04-22-博士招聘-华为-新介质-LAB-数据应用-LAB](https://www.v2ex.com/t/664873)  
 - [2020-04-22-请教各位，-chrome-有没有可以调用外部下载工具的扩展或脚本？](https://www.v2ex.com/t/664872)  
 - [2020-04-22-那个富士康流水线女孩最终也没能留在硅谷拿-h1b](https://www.v2ex.com/t/664871)  
 - [2020-04-22-感觉快要得肩周炎了，哪里能买到“凹”字型的电脑桌？](https://www.v2ex.com/t/664870)  
@@ -897,6 +897,7 @@
 </summary>
 
 
+- [2020-04-22-技术解析：One-World-Together-为什么不是实时合唱？](https://toutiao.io/k/3ykbnvl) ![](assets/new.png)  
 - [2020-04-22-十年难得一遇！从数据误删到全量恢复的惊险记录](https://toutiao.io/k/zy12h7y)  
 - [2020-04-22-不会写爬虫咋办？8k-Star-的-Python-爬虫例子拿去](https://toutiao.io/k/ocurgno)  
 - [2020-04-22-PHP-8-正式版将于年底发布](https://toutiao.io/k/vnyp4dt)  
@@ -916,7 +917,6 @@
 - [2020-04-22-图解-B树](https://toutiao.io/k/hgm7dba)  
 - [2020-04-22-记一次网络读过程（简化版）](https://toutiao.io/k/3dqb2io)  
 - [2020-04-22-Jenkins-Pipeline-系列（一）：如何配置扩展共享库](https://toutiao.io/k/75ibiqr)  
-- [2020-04-22-谈谈一写多读的高效并发控制](https://toutiao.io/k/ccwxp0l)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

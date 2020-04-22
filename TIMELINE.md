@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -479,6 +479,7 @@
 - [【技术头条】2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-技术解析：One-World-Together-为什么不是实时合唱？](https://toutiao.io/k/3ykbnvl) 
 - [【开发者头条】2020-04-22-十年难得一遇！从数据误删到全量恢复的惊险记录](https://toutiao.io/k/zy12h7y) 
 - [【开发者头条】2020-04-22-不会写爬虫咋办？8k-Star-的-Python-爬虫例子拿去](https://toutiao.io/k/ocurgno) 
 - [【开发者头条】2020-04-22-PHP-8-正式版将于年底发布](https://toutiao.io/k/vnyp4dt) 

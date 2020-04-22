@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 06:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-23 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -131,6 +131,8 @@
 - [【Vue中文社区】2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
 - [【Vue中文社区】2020-04-16-参加面试，你的回答方式决定你值多少](https://www.ershicimi.com/p/f87f6a1e59b287634bd49d36beb92b9f) 
 - [【Vue中文社区】2020-04-16-快讯：Github核心功能完全免费开放](https://www.ershicimi.com/p/2e2ee15bab3b175248ff590524aed4ad) 
+- [【前端早读课】2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272) 
+- [【前端早读课】2020-04-23-【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2) 
 - [【前端早读课】2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) 
 - [【前端早读课】2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508) 
 - [【前端早读课】2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97) 
@@ -318,6 +320,7 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-23-好像海底光缆恢复了，还是早晨不堵](https://www.v2ex.com/t/665186) 
 - [【V2EX】2020-04-23-Refurbished-MacBook-Pro-16"刚到，电池循环-1](https://www.v2ex.com/t/665185) 
 - [【V2EX】2020-04-23-宝塔主站好像挂了？](https://www.v2ex.com/t/665184) 
 - [【V2EX】2020-04-23-公司测试手机丢了，需要赔偿吗。](https://www.v2ex.com/t/665183) 

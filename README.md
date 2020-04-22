@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 06:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -138,6 +138,8 @@
 </summary>
 
 
+- [2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272) ![](assets/new.png)  
+- [2020-04-23-【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2) ![](assets/new.png)  
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)  
 - [2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508)  
 - [2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97)  
@@ -706,7 +708,8 @@
 </summary>
 
 
-- [2020-04-23-Refurbished-MacBook-Pro-16"刚到，电池循环-1](https://www.v2ex.com/t/665185) ![](assets/new.png)  
+- [2020-04-23-好像海底光缆恢复了，还是早晨不堵](https://www.v2ex.com/t/665186) ![](assets/new.png)  
+- [2020-04-23-Refurbished-MacBook-Pro-16"刚到，电池循环-1](https://www.v2ex.com/t/665185)  
 - [2020-04-23-宝塔主站好像挂了？](https://www.v2ex.com/t/665184)  
 - [2020-04-23-公司测试手机丢了，需要赔偿吗。](https://www.v2ex.com/t/665183)  
 - [2020-04-23-咨询一个视频抓取的-m3u8-无法播放](https://www.v2ex.com/t/665182)  
@@ -725,7 +728,6 @@
 - [2020-04-23-成都/杭州-蚂蚁金服基础安全团队招-Java-工程师-P6/P7/P8，欢迎来撩！](https://www.v2ex.com/t/665166)  
 - [2020-04-23-20200422-午夜俱乐部](https://www.v2ex.com/t/665165)  
 - [2020-04-23-弱者就可以在道德上处于上风吗？](https://www.v2ex.com/t/665164)  
-- [2020-04-23-virtualenv-中的-Python-版本低了，可以直接升级-Python-版本吗？](https://www.v2ex.com/t/665163)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,7 +19,9 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
+- [2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://juejin.im/post/5e9f00abe51d4546b50d5970) 
 - [2020-04-21-http://qdzn.zs.gov.cn/-这个网站谁能正常使用？](https://www.v2ex.com/t/664808) 
+- [2020-04-22-算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6) 
 - [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo) 
 - [2020-04-22-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq) 
 - [2020-04-22-数学推导-+-纯-Python-实现机器学习算法：GBDT](https://toutiao.io/k/5dx82fl) 

@@ -245,6 +245,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1922期】从vue-router看前端路由的两种实现",
+        "link": "https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "【送书】423世界图书日第三期活动之博文视点前端书单",
+        "link": "https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508",
+        "date": "2020-04-22"
+      },
+      {
         "title": "前端高级进阶：2020怎样才能更值钱？",
         "link": "https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97",
         "date": "2020-04-21"
@@ -2580,6 +2590,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）",
+        "link": "https://juejin.im/post/5e9f00abe51d4546b50d5970",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "如何在5天内学会Vue？聊聊我的学习方法！",
+        "link": "https://juejin.im/post/5e9d92e26fb9a03c2e543307",
+        "date": "2020-04-22"
+      },
+      {
         "title": "抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…",
         "link": "https://juejin.im/post/5e9f6b3251882573a855cd52",
         "date": "2020-04-21"
@@ -3005,6 +3025,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今天大家有没有和我一样公司受疫情影响停止张薪的",
+        "link": "https://www.v2ex.com/t/664854",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "web 有啥打印插件？",
+        "link": "https://www.v2ex.com/t/664853",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "简历写得太差",
+        "link": "https://www.v2ex.com/t/664852",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "咸鱼收了个二手宁芝静电容，体验还不错， b 站做了个小视频，想尝鲜静电容的可以看看",
+        "link": "https://www.v2ex.com/t/664851",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "各位老师你们的安卓手机能更新 PLAY 商店自身吗？",
+        "link": "https://www.v2ex.com/t/664850",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "求问各位巨巨关于 TimeMachine 使用硬盘的问题",
+        "link": "https://www.v2ex.com/t/664849",
+        "date": "2020-04-22"
+      },
+      {
         "title": "问一下，是不是 pandownload 作者事件，导致了百度网盘公开搞出了这个用户激励计划？有懂的来说说！",
         "link": "https://www.v2ex.com/t/664847",
         "date": "2020-04-22"
@@ -3352,6 +3402,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "精选Android中高级面试题 -- 终局之篇：高级干货 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-22"
+      },
+      {
         "title": "程序员，等你当了爸爸后，便会有如下经历 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13386&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRcOPW4vceFpRnK1c0r9vxA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-04-21"
@@ -3458,6 +3513,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "CEO 的 1 元年薪起源",
+        "link": "https://toutiao.io/k/5vrrug5",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "算法工程师的数学基础：概率论",
+        "link": "https://toutiao.io/k/sa7wdg6",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Linux 下按照文件大小查找文件",
+        "link": "https://toutiao.io/k/t83k218",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "面试 Google, 我失败了（Google 面经分享）",
+        "link": "https://toutiao.io/k/9o0qwev",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Java 8 Stream 总结",
+        "link": "https://toutiao.io/k/4rghiro",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "你的 Kubernetes/Openshift 集群备份了吗？",
+        "link": "https://toutiao.io/k/wjjwtyx",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "强化学习中价值迭代和策略迭代各有什么优缺点？",
+        "link": "https://toutiao.io/k/6d3oss3",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Flutter Web 网站之 Jetpack 成型",
+        "link": "https://toutiao.io/k/ve5cy57",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "漫谈分布式系统（九）：初探数据一致性",
+        "link": "https://toutiao.io/k/hhtfcoh",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "图解 B树",
+        "link": "https://toutiao.io/k/hgm7dba",
+        "date": "2020-04-22"
+      },
       {
         "title": "记一次网络读过程（简化版）",
         "link": "https://toutiao.io/k/3dqb2io",

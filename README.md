@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 14:00:20，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 14:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -48,7 +48,7 @@
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
-- [印记中文周刊](#印记中文周刊)![](assets/dot.png)   
+- [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
@@ -138,16 +138,16 @@
 </summary>
 
 
-- [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) ![](assets/new.png)  
-- [2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508) ![](assets/new.png)  
-- [2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97) ![](assets/new.png)  
-- [2020-04-21-【第1921期】React-16.8.6-版本存在内存泄露](https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a) ![](assets/new.png)  
-- [2020-04-21-【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24) ![](assets/new.png)  
-- [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) ![](assets/new.png)  
-- [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) ![](assets/new.png)  
-- [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) ![](assets/new.png)  
-- [2020-04-19-ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2) ![](assets/new.png)  
-- [2020-04-18-【第1918期】微前端在企业级应用中的实践上](https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2) ![](assets/new.png)  
+- [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)  
+- [2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508)  
+- [2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97)  
+- [2020-04-21-【第1921期】React-16.8.6-版本存在内存泄露](https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a)  
+- [2020-04-21-【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24)  
+- [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae)  
+- [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5)  
+- [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec)  
+- [2020-04-19-ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2)  
+- [2020-04-18-【第1918期】微前端在企业级应用中的实践上](https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -626,26 +626,26 @@
 </summary>
 
 
-- [2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) ![](assets/new.png)  
-- [2020-04-22-▶-What’s-New-in-JavaScript](https://javascriptweekly.com/link/63602/web) ![](assets/new.png)  
-- [2020-04-22-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) ![](assets/new.png)  
-- [2020-04-22-▶-Angular-粉丝们值得关注！这是-ng-conf-2019-会议上的所有讨论](https://javascriptweekly.com/link/63606/web) ![](assets/new.png)  
-- [2020-04-22-用于-JavaScript-开发的-Vim-设置指南](https://javascriptweekly.com/link/63619/web) ![](assets/new.png)  
-- [2020-04-22-Array.from-有了第二个参数](https://javascriptweekly.com/link/63620/web) ![](assets/new.png)  
-- [2020-04-22-开发人员指南，不要损失你需要的指标](https://javascriptweekly.com/link/63621/web) ![](assets/new.png)  
-- [2020-04-22-构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web) ![](assets/new.png)  
-- [2020-04-22-▶-观看创建一个交易机器人](https://javascriptweekly.com/link/63624/web) ![](assets/new.png)  
-- [2020-04-22-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) ![](assets/new.png)  
-- [2020-04-22-Comlink-4.0：使-Web-Workers-简单易用](https://javascriptweekly.com/link/63603/web) ![](assets/new.png)  
-- [2020-04-22-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) ![](assets/new.png)  
-- [2020-04-22-Tippy.js：一个高度可自定义的-tooltip-和-popover-的库](https://javascriptweekly.com/link/63632/web) ![](assets/new.png)  
-- [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) ![](assets/new.png)  
-- [2020-04-22-比起使用-Breakpoints-或-console.log，更快速的调试代码方式](https://javascriptweekly.com/link/63634/web) ![](assets/new.png)  
-- [2020-04-22-autoComplete.js：一个简单的纯-Vanilla-实现的自动完成库](https://javascriptweekly.com/link/63635/web) ![](assets/new.png)  
-- [2020-04-22-CSS-Only-Chat：不使用前端-JS-的'真正怪异'异步网络聊天](https://javascriptweekly.com/link/63636/web) ![](assets/new.png)  
-- [2020-04-22-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) ![](assets/new.png)  
-- [2020-04-22-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) ![](assets/new.png)  
-- [2020-04-22-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) ![](assets/new.png)  
+- [2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web)  
+- [2020-04-22-▶-What’s-New-in-JavaScript](https://javascriptweekly.com/link/63602/web)  
+- [2020-04-22-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web)  
+- [2020-04-22-▶-Angular-粉丝们值得关注！这是-ng-conf-2019-会议上的所有讨论](https://javascriptweekly.com/link/63606/web)  
+- [2020-04-22-用于-JavaScript-开发的-Vim-设置指南](https://javascriptweekly.com/link/63619/web)  
+- [2020-04-22-Array.from-有了第二个参数](https://javascriptweekly.com/link/63620/web)  
+- [2020-04-22-开发人员指南，不要损失你需要的指标](https://javascriptweekly.com/link/63621/web)  
+- [2020-04-22-构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web)  
+- [2020-04-22-▶-观看创建一个交易机器人](https://javascriptweekly.com/link/63624/web)  
+- [2020-04-22-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)  
+- [2020-04-22-Comlink-4.0：使-Web-Workers-简单易用](https://javascriptweekly.com/link/63603/web)  
+- [2020-04-22-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web)  
+- [2020-04-22-Tippy.js：一个高度可自定义的-tooltip-和-popover-的库](https://javascriptweekly.com/link/63632/web)  
+- [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)  
+- [2020-04-22-比起使用-Breakpoints-或-console.log，更快速的调试代码方式](https://javascriptweekly.com/link/63634/web)  
+- [2020-04-22-autoComplete.js：一个简单的纯-Vanilla-实现的自动完成库](https://javascriptweekly.com/link/63635/web)  
+- [2020-04-22-CSS-Only-Chat：不使用前端-JS-的'真正怪异'异步网络聊天](https://javascriptweekly.com/link/63636/web)  
+- [2020-04-22-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web)  
+- [2020-04-22-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web)  
+- [2020-04-22-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web)  
 - [......【查看更多】......](./details/印记中文周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -689,9 +689,19 @@
 </summary>
 
 
-- [2020-04-22-最近公司用上了-TIDB，但是一直好奇这单词怎么读？](https://www.v2ex.com/t/664979) ![](assets/new.png)  
-- [2020-04-22-用周杰伦的方式给你介绍新技术腾讯云云开发《阳光云开发》](https://www.v2ex.com/t/664976) ![](assets/new.png)  
-- [2020-04-22-如何查看坛子中的精华贴？](https://www.v2ex.com/t/664975) ![](assets/new.png)  
+- [2020-04-22-Ubuntu-20.04-LTS-Focal-Fossa-即将于-2020-年-4-月-23-日新鲜出炉](https://www.v2ex.com/t/664990) ![](assets/new.png)  
+- [2020-04-22-求助：公司拖欠工资-3-个月，入职下家公司，社保能继续缴纳吗？](https://www.v2ex.com/t/664989) ![](assets/new.png)  
+- [2020-04-22-你们会在自己的开源项目上开启捐赠入口吗？](https://www.v2ex.com/t/664987) ![](assets/new.png)  
+- [2020-04-22-云音乐-HC-多的很，个端都需要-ios-android-Java-策划-大数据-啥都要](https://www.v2ex.com/t/664986) ![](assets/new.png)  
+- [2020-04-22-内推-火热-网易雷火帮忙内推](https://www.v2ex.com/t/664985) ![](assets/new.png)  
+- [2020-04-22-两个人相互监督学习，求-V-友们想个惩罚措施](https://www.v2ex.com/t/664984) ![](assets/new.png)  
+- [2020-04-22-麻烦老哥推荐下北京海淀附近有什么按摩店,最近坐的腰疼!](https://www.v2ex.com/t/664983) ![](assets/new.png)  
+- [2020-04-22-segmentfault-还要关多久呢？](https://www.v2ex.com/t/664982) ![](assets/new.png)  
+- [2020-04-22-请教下，阿里云两台-ECS-服务器做负载均衡，数据库是不是必须要迁移到-RDS-云数据库上？如果另外想办法让两台服务器数据库双向同步来保持数据一致行不行的？](https://www.v2ex.com/t/664981) ![](assets/new.png)  
+- [2020-04-22-求助-有大佬有-Xmind-的优惠码吗？](https://www.v2ex.com/t/664980) ![](assets/new.png)  
+- [2020-04-22-最近公司用上了-TIDB，但是一直好奇这单词怎么读？](https://www.v2ex.com/t/664979)  
+- [2020-04-22-用周杰伦的方式给你介绍新技术腾讯云云开发《阳光云开发》](https://www.v2ex.com/t/664976)  
+- [2020-04-22-如何查看坛子中的精华贴？](https://www.v2ex.com/t/664975)  
 - [2020-04-22-该死的缩写，究竟能不能好好讲话啊？](https://www.v2ex.com/t/664973)  
 - [2020-04-22-关于-emqx-产品，如果根据多应用进行规则配置](https://www.v2ex.com/t/664972)  
 - [2020-04-22-Rust-在大数据分布式计算领域会有一席之地吗？](https://www.v2ex.com/t/664971)  
@@ -699,16 +709,6 @@
 - [2020-04-22-请教：延时任务有没有好的开源工具，最好是-golang-的？](https://www.v2ex.com/t/664969)  
 - [2020-04-22-前端、全栈岗若干，欢迎大神们加入，一起奋斗一起进步](https://www.v2ex.com/t/664968)  
 - [2020-04-22-杭州-云音乐|IOS-开发|android-开发|-Java](https://www.v2ex.com/t/664967)  
-- [2020-04-22-想办一个移动宽带-资费是-720-200M-2-年，各位大佬有用过移动宽带的吗？](https://www.v2ex.com/t/664966)  
-- [2020-04-22-杭州-个推公司-内推-部门大量-web-前端（vue）、后端（node.js）全栈工程师-HC，欢迎各位朋友找我内推~](https://www.v2ex.com/t/664965)  
-- [2020-04-22-不懂就问！请问-linus-当年写-kernel-的时候都具备了什么知识？用了什么工具？使用了什么轮子？](https://www.v2ex.com/t/664964)  
-- [2020-04-22-求一个随机展示苹果-2018-发布会创意图标的-mac-屏保的链接](https://www.v2ex.com/t/664963)  
-- [2020-04-22-四层套娃解决-anyconnect/openconnect-套前置代理/二级代理](https://www.v2ex.com/t/664962)  
-- [2020-04-22-快手16-薪起高年终-北京+杭州大力发展中-+深圳+上海等内推](https://www.v2ex.com/t/664961)  
-- [2020-04-22-人生中第一篇公众号文章：写一个开源的-macOS-程序可以赚多少钱？](https://www.v2ex.com/t/664960)  
-- [2020-04-22-免费领美团单车月卡-**数量有限**](https://www.v2ex.com/t/664959)  
-- [2020-04-22-深圳电信-,-光猫决赛圈-,-请大家给点信息和建议](https://www.v2ex.com/t/664956)  
-- [2020-04-22-问一下关于-iMac-和-9900kf-的问题](https://www.v2ex.com/t/664955)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

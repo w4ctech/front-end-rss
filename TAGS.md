@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 16:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -385,6 +385,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】清华大学自动化系-2020-年大一-c++大作业-雷课堂-有人出免费的无痛的视频课了](https://www.v2ex.com/t/665022)
+- [【V2EX】有相机、数码、电脑产品方面的发烧友吗？想做一个视频自媒体](https://www.v2ex.com/t/665016)
 - [【V2EX】开通微信视频号后，我的微信好友会知道我开了视频号吗？如果他们刚好关注了我的视频号，-会知道是我发的吗？](https://www.v2ex.com/t/665011)
 - [【V2EX】视频站或图片站这种资源类站点如何防止盗取资源](https://www.v2ex.com/t/665006)
 - [【V2EX】虎牙-直播-广州/深圳/北京/海外](https://www.v2ex.com/t/664996)
@@ -451,10 +453,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】360-企业安全集团招聘-Java-研发工程师](https://www.v2ex.com/t/665031)
+- [【V2EX】Android-版本的-Chrome-崩溃不能使用-好几天了](https://www.v2ex.com/t/665021)
 - [【V2EX】Go-Search-Extension，快速在地址栏搜索-Go-文档的开源浏览器插件，支持-Chrome/Firefox/Edge](https://www.v2ex.com/t/665005)
 - [【V2EX】是否有能在浏览器环境下运行的字体合并/拆分/编辑应用呢？](https://www.v2ex.com/t/665001)
 - [【V2EX】问一个-postgresql-传参问题](https://www.v2ex.com/t/664998)
-- [【开发者头条】技术解析：One-World-Together-为什么不是实时合唱？](https://toutiao.io/k/3ykbnvl)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -553,6 +556,8 @@
 - [【前端宇宙】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/8bf63492874d14cbc76cfce3caf9ae5c)
 - [【前端宇宙】两年工作经验成功面试阿里P6总结](https://www.ershicimi.com/p/8841528ec2e3cd316799b0f486563f1d)
 - [【JavaScript】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b)
+- [【V2EX】自己整理了一些-Java-的基础知识和高频知识点源码分析，面试向](https://www.v2ex.com/t/665025)
+- [【V2EX】森果技术研发部招聘🔥🔥](https://www.v2ex.com/t/665024)
 - [【V2EX】求职亚马逊之最难逾越的大山——行为面试（BQ](https://www.v2ex.com/t/664995)
 - [【V2EX】长沙医药公司招聘-PHP-开发](https://www.v2ex.com/t/664926)
 - [【技术头条】精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -562,8 +567,6 @@
 - [【开发者头条】推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)
 - [【开发者头条】推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj)
 - [【开发者头条】推荐-说实话，面试这么问-Spring-框架的问题，我快扛不住了](https://toutiao.io/k/owgxoel)
-- [【开发者头条】面试-Google,-我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev)
-- [【开发者头条】Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

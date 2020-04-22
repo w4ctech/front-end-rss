@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 16:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 16:30:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -690,26 +690,26 @@
 </summary>
 
 
-- [2020-04-22-萌新可以当学徒吗，找个师傅](https://www.v2ex.com/t/665012)  
-- [2020-04-22-开通微信视频号后，我的微信好友会知道我开了视频号吗？如果他们刚好关注了我的视频号，-会知道是我发的吗？](https://www.v2ex.com/t/665011)  
-- [2020-04-22-参考别人博客整理的技术知识，可以分享吗？](https://www.v2ex.com/t/665010)  
-- [2020-04-22-程序员撕逼最佳话题：古有“-PHP-是最好的语言”，今有“学-Vue-不如学-React”](https://www.v2ex.com/t/665009)  
-- [2020-04-22-如何将手机验证码转发到-web-服务上](https://www.v2ex.com/t/665008)  
-- [2020-04-22-安卓下有什么类似-iCloud-备份-app-数据的工具？](https://www.v2ex.com/t/665007)  
-- [2020-04-22-视频站或图片站这种资源类站点如何防止盗取资源](https://www.v2ex.com/t/665006)  
-- [2020-04-22-Go-Search-Extension，快速在地址栏搜索-Go-文档的开源浏览器插件，支持-Chrome/Firefox/Edge](https://www.v2ex.com/t/665005)  
-- [2020-04-22-各位大佬们能不能推荐一个光影包？](https://www.v2ex.com/t/665003)  
-- [2020-04-22-Kubernetes-CronJob-中声明的-Resource-Request-在-Job-没有-active-的时候会占用节点-Request-资源吗?](https://www.v2ex.com/t/665002)  
-- [2020-04-22-是否有能在浏览器环境下运行的字体合并/拆分/编辑应用呢？](https://www.v2ex.com/t/665001)  
-- [2020-04-22-你们有在用-WPS-吗？](https://www.v2ex.com/t/665000)  
-- [2020-04-22-老哥们，想实战学前端什么网站合适啊？](https://www.v2ex.com/t/664999)  
-- [2020-04-22-问一个-postgresql-传参问题](https://www.v2ex.com/t/664998)  
-- [2020-04-22-有什么免费好用的抢购软件，抢-MT](https://www.v2ex.com/t/664997)  
-- [2020-04-22-虎牙-直播-广州/深圳/北京/海外](https://www.v2ex.com/t/664996)  
-- [2020-04-22-求职亚马逊之最难逾越的大山——行为面试（BQ](https://www.v2ex.com/t/664995)  
-- [2020-04-22-上海-米哈游-内推-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各位大佬自荐以及推荐](https://www.v2ex.com/t/664994)  
-- [2020-04-22-dump-是什么意思？](https://www.v2ex.com/t/664993)  
-- [2020-04-22-北归杭创业-2-年，诚邀在杭或可来杭州的-PHP-技术合伙人！（凑热闹/兼职/公司/以上三类请绕道）](https://www.v2ex.com/t/664992)  
+- [2020-04-22-百度网盘的网盘客户端下载是-P2P-下载吗？](https://www.v2ex.com/t/665036) ![](assets/new.png)  
+- [2020-04-22-现在买群晖-918+合适吗？已经上市两年多了吧，不知道什么时候更新](https://www.v2ex.com/t/665035) ![](assets/new.png)  
+- [2020-04-22-Python-爬虫，寻找合作](https://www.v2ex.com/t/665034) ![](assets/new.png)  
+- [2020-04-22-开发中计算金额合计怎么算？](https://www.v2ex.com/t/665033) ![](assets/new.png)  
+- [2020-04-22-有用极游的吗,第一个月速度不错,现在惨不忍睹了](https://www.v2ex.com/t/665032) ![](assets/new.png)  
+- [2020-04-22-360-企业安全集团招聘-Java-研发工程师](https://www.v2ex.com/t/665031) ![](assets/new.png)  
+- [2020-04-22-我服了这个帖子](https://www.v2ex.com/t/665030) ![](assets/new.png)  
+- [2020-04-22-困惑-macOS-的隔空投送到-iPhone-的时候，在选择接受设备的界面，该如何.....](https://www.v2ex.com/t/665029) ![](assets/new.png)  
+- [2020-04-22-印度区-YouTube-premium-有没要来上车的](https://www.v2ex.com/t/665028) ![](assets/new.png)  
+- [2020-04-22-自己整理了一些-Java-的基础知识和高频知识点源码分析，面试向](https://www.v2ex.com/t/665025) ![](assets/new.png)  
+- [2020-04-22-森果技术研发部招聘🔥🔥](https://www.v2ex.com/t/665024) ![](assets/new.png)  
+- [2020-04-22-清华大学自动化系-2020-年大一-c++大作业-雷课堂-有人出免费的无痛的视频课了](https://www.v2ex.com/t/665022) ![](assets/new.png)  
+- [2020-04-22-Android-版本的-Chrome-崩溃不能使用-好几天了](https://www.v2ex.com/t/665021) ![](assets/new.png)  
+- [2020-04-22-是两个-24-寸的显示器好，还是一个大显示器好？](https://www.v2ex.com/t/665020) ![](assets/new.png)  
+- [2020-04-22-讲座-零基础最快转-CS-上岸指南](https://www.v2ex.com/t/665019) ![](assets/new.png)  
+- [2020-04-22-想问下前端架构方案](https://www.v2ex.com/t/665018) ![](assets/new.png)  
+- [2020-04-22-有相机、数码、电脑产品方面的发烧友吗？想做一个视频自媒体](https://www.v2ex.com/t/665016) ![](assets/new.png)  
+- [2020-04-22-iPad-能给别的-ios-设备刷机么？](https://www.v2ex.com/t/665015) ![](assets/new.png)  
+- [2020-04-22-蚂蚁金服招聘：-H5-,android,iOS-高级工程师、专家](https://www.v2ex.com/t/665014) ![](assets/new.png)  
+- [2020-04-22-请问啥时候能有非寒冬好找工作的时候吗？](https://www.v2ex.com/t/665013) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -752,13 +752,17 @@
 </summary>
 
 
-- [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb) ![](assets/new.png)  
-- [2020-04-22-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl) ![](assets/new.png)  
-- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj) ![](assets/new.png)  
-- [2020-04-22-推荐-架构师角色认知](https://toutiao.io/k/8g7wlqr) ![](assets/new.png)  
-- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7) ![](assets/new.png)  
-- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95) ![](assets/new.png)  
-- [2020-04-22-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7) ![](assets/new.png)  
+- [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl) ![](assets/new.png)  
+- [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29) ![](assets/new.png)  
+- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87) ![](assets/new.png)  
+- [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr) ![](assets/new.png)  
+- [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb)  
+- [2020-04-22-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl)  
+- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)  
+- [2020-04-22-推荐-架构师角色认知](https://toutiao.io/k/8g7wlqr)  
+- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7)  
+- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)  
+- [2020-04-22-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)  
 - [2020-04-22-推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj)  
 - [2020-04-22-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4)  
 - [2020-04-22-推荐-TCP-漫谈之-keepalive-和-time_wait](https://toutiao.io/k/1r2sxur)  
@@ -768,10 +772,6 @@
 - [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm)  
 - [2020-04-22-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r)  
 - [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19)  
-- [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
-- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h)  
-- [2020-04-22-自学编程的八大误区！克服它](https://toutiao.io/k/723yjno)  
-- [2020-04-22-架构师技术图谱，助你早日成为架构师](https://toutiao.io/k/8lhpf6)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -453,11 +453,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】请教各位，我用的系统是-debian，使用-chrome-和-firefox-登录钉钉网页版报错](https://www.v2ex.com/t/665072)
 - [【V2EX】整理了一下-Safari-书签，分享一下效果](https://www.v2ex.com/t/665041)
 - [【V2EX】360-企业安全集团招聘-Java-研发工程师](https://www.v2ex.com/t/665031)
 - [【V2EX】Android-版本的-Chrome-崩溃不能使用-好几天了](https://www.v2ex.com/t/665021)
 - [【V2EX】Go-Search-Extension，快速在地址栏搜索-Go-文档的开源浏览器插件，支持-Chrome/Firefox/Edge](https://www.v2ex.com/t/665005)
-- [【V2EX】是否有能在浏览器环境下运行的字体合并/拆分/编辑应用呢？](https://www.v2ex.com/t/665001)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -483,6 +483,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】elasticsearch-怎么读？](https://www.v2ex.com/t/665080)
 - [【V2EX】前端、全栈岗若干，欢迎大神们加入，一起奋斗一起进步](https://www.v2ex.com/t/664968)
 - [【开发者头条】算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6)
 - [【开发者头条】推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)
@@ -557,6 +558,7 @@
 - [【前端宇宙】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/8bf63492874d14cbc76cfce3caf9ae5c)
 - [【前端宇宙】两年工作经验成功面试阿里P6总结](https://www.ershicimi.com/p/8841528ec2e3cd316799b0f486563f1d)
 - [【JavaScript】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b)
+- [【V2EX】招聘贴，地点上海浦东-对工具类软件有兴趣的同学看进来啦~~](https://www.v2ex.com/t/665067)
 - [【V2EX】四月份分别面试-字节跳动，腾讯，百度，才发现跟大厂的差距不只一点点。。。](https://www.v2ex.com/t/665049)
 - [【V2EX】森果技术研发部招聘🔥🔥-前端-/-统招本科-/-月薪-8k-16k](https://www.v2ex.com/t/665048)
 - [【V2EX】南京小米-Java-开发工程师招聘](https://www.v2ex.com/t/665046)
@@ -567,7 +569,6 @@
 - [【技术头条】精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)
-- [【开发者头条】推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

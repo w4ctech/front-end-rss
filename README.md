@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 18:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 18:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -690,26 +690,26 @@
 </summary>
 
 
-- [2020-04-22-建了个群，路过的-javaer-如果正巧也打算换工作可以进来聊聊，纯个人、善意，没有其他想法](https://www.v2ex.com/t/665066) ![](assets/new.png)  
-- [2020-04-22-Authy-的-backup-passward-忘记了怎么办有没有给点建议的](https://www.v2ex.com/t/665065) ![](assets/new.png)  
-- [2020-04-22-珠江宽频网络怎么样](https://www.v2ex.com/t/665064) ![](assets/new.png)  
-- [2020-04-22-童工合同，三年后端经验，今年要不要跳槽?](https://www.v2ex.com/t/665062) ![](assets/new.png)  
-- [2020-04-22-上班每天除了在电脑前工作还能干什么](https://www.v2ex.com/t/665061) ![](assets/new.png)  
-- [2020-04-22-坚持创作，是种幸福。小旭讲解-LeetCode-1420.-生成数组---EP32](https://www.v2ex.com/t/665060) ![](assets/new.png)  
-- [2020-04-22-滴滴-kv-存储方面内推](https://www.v2ex.com/t/665059) ![](assets/new.png)  
-- [2020-04-22-关于网站的-QPS、TPS-和并发量，在项目中实际上是如何统计的？](https://www.v2ex.com/t/665058)  
-- [2020-04-22-今日份的暑期实习-offer-比较](https://www.v2ex.com/t/665057)  
-- [2020-04-22-找份前端工作，本人-2020-年毕业应届生](https://www.v2ex.com/t/665055)  
-- [2020-04-22-写个爬虫爬取值得买的商品和文本会被安排进去吗？](https://www.v2ex.com/t/665054)  
-- [2020-04-22-济南前端薪资问题求助。。。](https://www.v2ex.com/t/665053)  
-- [2020-04-22-从传统-IT-行业跳到互联网行业，真是难啊](https://www.v2ex.com/t/665052)  
-- [2020-04-22-希望饿了么取消掉在评论显示评论者是哪类用户的这种愚蠢做法。淘宝的这种做法根本不适合饿了么外卖。](https://www.v2ex.com/t/665050)  
-- [2020-04-22-四月份分别面试-字节跳动，腾讯，百度，才发现跟大厂的差距不只一点点。。。](https://www.v2ex.com/t/665049)  
-- [2020-04-22-森果技术研发部招聘🔥🔥-前端-/-统招本科-/-月薪-8k-16k](https://www.v2ex.com/t/665048)  
-- [2020-04-22-import-pyd-文件后无法找到其中定义的函数，求助](https://www.v2ex.com/t/665047)  
-- [2020-04-22-南京小米-Java-开发工程师招聘](https://www.v2ex.com/t/665046)  
-- [2020-04-22-有人用-seata-做过分布式事务吗？](https://www.v2ex.com/t/665045)  
-- [2020-04-22-有没有跟我一样，工作了-6-年依然很菜的前端伙伴们？](https://www.v2ex.com/t/665044)  
+- [2020-04-22-LeetCode-新题,-聒噪的青蛙,-参考](https://www.v2ex.com/t/665081) ![](assets/new.png)  
+- [2020-04-22-elasticsearch-怎么读？](https://www.v2ex.com/t/665080) ![](assets/new.png)  
+- [2020-04-22-港版-iPhone-SE-支持双卡，其中一个是-esim-模式，那么-esim-卡在大陆可以使用吗？](https://www.v2ex.com/t/665079) ![](assets/new.png)  
+- [2020-04-22-ebay-购物这种是套路么](https://www.v2ex.com/t/665078) ![](assets/new.png)  
+- [2020-04-22-apue3.3-节,怎样理解"openat-函数可以避免-TOCTTOU"?](https://www.v2ex.com/t/665077) ![](assets/new.png)  
+- [2020-04-22-请问怎么清理-watch-版日历里面的广告](https://www.v2ex.com/t/665076) ![](assets/new.png)  
+- [2020-04-22-有公司要求疫情期间上班不能乘坐公共交通的么，公交，地铁都不行。路远没车的可以打车过来，但是没有报销。](https://www.v2ex.com/t/665075) ![](assets/new.png)  
+- [2020-04-22-中行原油宝的瓜没人吃吗？](https://www.v2ex.com/t/665074) ![](assets/new.png)  
+- [2020-04-22-大家都是如何获得高并发经验的？](https://www.v2ex.com/t/665073) ![](assets/new.png)  
+- [2020-04-22-请教各位，我用的系统是-debian，使用-chrome-和-firefox-登录钉钉网页版报错](https://www.v2ex.com/t/665072) ![](assets/new.png)  
+- [2020-04-22-Android-开发调查-使用-jetpack-全家桶开发的项目多吗？](https://www.v2ex.com/t/665071) ![](assets/new.png)  
+- [2020-04-22-现在华强北的-AirPods-Pro-已经做到耐克鞋的水平了？](https://www.v2ex.com/t/665070) ![](assets/new.png)  
+- [2020-04-22-蚂蚁金服长期内推-Java-程序员/架构师（杭州），-24h-内必回！](https://www.v2ex.com/t/665069) ![](assets/new.png)  
+- [2020-04-22-大家有没有发现，现在手机-APP-体积都好大啊，特别是国产-APP。比-PC-端的软件都大好多了啊](https://www.v2ex.com/t/665068) ![](assets/new.png)  
+- [2020-04-22-招聘贴，地点上海浦东-对工具类软件有兴趣的同学看进来啦~~](https://www.v2ex.com/t/665067) ![](assets/new.png)  
+- [2020-04-22-建了个群，路过的-javaer-如果正巧也打算换工作可以进来聊聊，纯个人、善意，没有其他想法](https://www.v2ex.com/t/665066)  
+- [2020-04-22-Authy-的-backup-passward-忘记了怎么办有没有给点建议的](https://www.v2ex.com/t/665065)  
+- [2020-04-22-珠江宽频网络怎么样](https://www.v2ex.com/t/665064)  
+- [2020-04-22-童工合同，三年后端经验，今年要不要跳槽?](https://www.v2ex.com/t/665062)  
+- [2020-04-22-上班每天除了在电脑前工作还能干什么](https://www.v2ex.com/t/665061)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -752,7 +752,9 @@
 </summary>
 
 
-- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) ![](assets/new.png)  
+- [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi) ![](assets/new.png)  
+- [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3) ![](assets/new.png)  
+- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85)  
 - [2020-04-22-推荐-震撼！全网第一张源码分析全景图揭秘-Nginx](https://toutiao.io/k/av00x9p)  
 - [2020-04-22-推荐-接口高并发压测入门实战](https://toutiao.io/k/mqg6xb4)  
 - [2020-04-22-推荐-那些你应该考虑卸载的-VSCode-扩展](https://toutiao.io/k/9hfg0z0)  
@@ -770,8 +772,6 @@
 - [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)  
 - [2020-04-22-推荐-架构师角色认知](https://toutiao.io/k/8g7wlqr)  
 - [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7)  
-- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)  
-- [2020-04-22-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 05:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 06:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -706,6 +706,7 @@
 </summary>
 
 
+- [2020-04-23-Refurbished-MacBook-Pro-16"刚到，电池循环-1](https://www.v2ex.com/t/665185) ![](assets/new.png)  
 - [2020-04-23-宝塔主站好像挂了？](https://www.v2ex.com/t/665184)  
 - [2020-04-23-公司测试手机丢了，需要赔偿吗。](https://www.v2ex.com/t/665183)  
 - [2020-04-23-咨询一个视频抓取的-m3u8-无法播放](https://www.v2ex.com/t/665182)  
@@ -725,7 +726,6 @@
 - [2020-04-23-20200422-午夜俱乐部](https://www.v2ex.com/t/665165)  
 - [2020-04-23-弱者就可以在道德上处于上风吗？](https://www.v2ex.com/t/665164)  
 - [2020-04-23-virtualenv-中的-Python-版本低了，可以直接升级-Python-版本吗？](https://www.v2ex.com/t/665163)  
-- [2020-04-23-iPhone-SE-2-评测解禁，看了一圈，没一个-geekbench-跑分的，没一个确认-RAM=3GB-的](https://www.v2ex.com/t/665162)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -768,7 +768,7 @@
 </summary>
 
 
-- [2020-04-23-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt) ![](assets/new.png)  
+- [2020-04-23-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt)  
 - [2020-04-23-推荐-漫谈分布式事务的那些解决方案](https://toutiao.io/k/a21b8ih)  
 - [2020-04-23-推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq)  
 - [2020-04-23-推荐-挖财-Kubernetes-容器化之路](https://toutiao.io/k/ry9vzfu)  

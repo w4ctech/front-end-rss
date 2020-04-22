@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -23,4 +23,5 @@
 - [2020-04-20-围观“33行代码的React”](https://www.ershicimi.com/p/f64504033c52c2e15ec7a2bfbbe9d994) 
 - [2020-04-22-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-22-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-04-22-程序员撕逼最佳话题：古有“-PHP-是最好的语言”，今有“学-Vue-不如学-React”](https://www.v2ex.com/t/665009) 
 - [2020-04-22-Vue3.0-从入门到学会-React](https://www.v2ex.com/t/664932) 

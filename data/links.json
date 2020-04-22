@@ -2342,6 +2342,51 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "萌新可以当学徒吗，找个师傅",
+        "link": "https://www.v2ex.com/t/665012",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "开通微信视频号后，我的微信好友会知道我开了视频号吗？如果他们刚好关注了我的视频号， 会知道是我发的吗？",
+        "link": "https://www.v2ex.com/t/665011",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "参考别人博客整理的技术知识，可以分享吗？",
+        "link": "https://www.v2ex.com/t/665010",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "程序员撕逼最佳话题：古有“ PHP 是最好的语言”，今有“学 Vue 不如学 React”",
+        "link": "https://www.v2ex.com/t/665009",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "如何将手机验证码转发到 web 服务上",
+        "link": "https://www.v2ex.com/t/665008",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "安卓下有什么类似 iCloud 备份 app 数据的工具？",
+        "link": "https://www.v2ex.com/t/665007",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "视频站或图片站这种资源类站点如何防止盗取资源",
+        "link": "https://www.v2ex.com/t/665006",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Go Search Extension，快速在地址栏搜索 Go 文档的开源浏览器插件，支持 Chrome/Firefox/Edge",
+        "link": "https://www.v2ex.com/t/665005",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "各位大佬们能不能推荐一个光影包？",
+        "link": "https://www.v2ex.com/t/665003",
+        "date": "2020-04-22"
+      },
+      {
         "title": "Kubernetes CronJob 中声明的 Resource Request 在 Job 没有 active 的时候会占用节点 Request 资源吗?",
         "link": "https://www.v2ex.com/t/665002",
         "date": "2020-04-22"
@@ -2800,6 +2845,61 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 刚完一波蚂蚁金服的面试后，他说他累了",
+        "link": "https://toutiao.io/k/ztft2sj",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 阿里、网易、百度、腾讯……出品的 13 个网站，让你点点鼠标，就能做出炫酷图表",
+        "link": "https://toutiao.io/k/oasf3i4",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] TCP 漫谈之 keepalive 和 time_wait",
+        "link": "https://toutiao.io/k/1r2sxur",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 说实话，面试这么问 Spring 框架的问题，我快扛不住了",
+        "link": "https://toutiao.io/k/owgxoel",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 编写可靠 bash 脚本的一些技巧",
+        "link": "https://toutiao.io/k/8qtmtky",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 操作系统是如何管理物理内存的？",
+        "link": "https://toutiao.io/k/4jkeexi",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 5G 时代已来，TCP/IP 老矣，尚能饭否？",
+        "link": "https://toutiao.io/k/n49g6lm",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 并发下的 B+Tree",
+        "link": "https://toutiao.io/k/q3ime2r",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 1.2w+ Star，Java 资源大全中文版，你能想到的全都有！",
+        "link": "https://toutiao.io/k/f10mm19",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 购物车之架构设计",
+        "link": "https://toutiao.io/k/vklickp",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 必须先理解的 RocketMQ 入门手册，才能再次深入解读",
+        "link": "https://toutiao.io/k/rg6283h",
+        "date": "2020-04-22"
+      },
       {
         "title": "自学编程的八大误区！克服它",
         "link": "https://toutiao.io/k/723yjno",

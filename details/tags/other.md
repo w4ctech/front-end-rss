@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -139,6 +139,11 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-萌新可以当学徒吗，找个师傅](https://www.v2ex.com/t/665012) 
+- [2020-04-22-参考别人博客整理的技术知识，可以分享吗？](https://www.v2ex.com/t/665010) 
+- [2020-04-22-如何将手机验证码转发到-web-服务上](https://www.v2ex.com/t/665008) 
+- [2020-04-22-安卓下有什么类似-iCloud-备份-app-数据的工具？](https://www.v2ex.com/t/665007) 
+- [2020-04-22-各位大佬们能不能推荐一个光影包？](https://www.v2ex.com/t/665003) 
 - [2020-04-22-Kubernetes-CronJob-中声明的-Resource-Request-在-Job-没有-active-的时候会占用节点-Request-资源吗?](https://www.v2ex.com/t/665002) 
 - [2020-04-22-你们有在用-WPS-吗？](https://www.v2ex.com/t/665000) 
 - [2020-04-22-老哥们，想实战学前端什么网站合适啊？](https://www.v2ex.com/t/664999) 
@@ -205,6 +210,15 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4) 
+- [2020-04-22-推荐-TCP-漫谈之-keepalive-和-time_wait](https://toutiao.io/k/1r2sxur) 
+- [2020-04-22-推荐-编写可靠-bash-脚本的一些技巧](https://toutiao.io/k/8qtmtky) 
+- [2020-04-22-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi) 
+- [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm) 
+- [2020-04-22-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r) 
+- [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19) 
+- [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp) 
+- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h) 
 - [2020-04-22-自学编程的八大误区！克服它](https://toutiao.io/k/723yjno) 
 - [2020-04-22-架构师技术图谱，助你早日成为架构师](https://toutiao.io/k/8lhpf6) 
 - [2020-04-22-Linux-下按照文件大小查找文件](https://toutiao.io/k/t83k218) 

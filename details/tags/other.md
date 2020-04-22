@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -25,6 +25,7 @@
 - [2020-04-17-【第1917期】微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f3ddbeffc77b696d7351647ce5441839) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
 - [2020-04-14-前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a) 
+- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) 
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [2020-04-17-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/9db8f1d7a4628c30bdc3db48e544e738) 
@@ -193,6 +194,17 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-客户端接口对接,我那个气啊...](https://www.v2ex.com/t/664889) 
+- [2020-04-22-办公电话神器,蓝牙耳机接打座机和电脑-IM](https://www.v2ex.com/t/664888) 
+- [2020-04-22-上班两天就走对下次工作会有影响吗？](https://www.v2ex.com/t/664887) 
+- [2020-04-22-<日经贴>-有啥最符合下列需求的云笔记/存储的服务/策略](https://www.v2ex.com/t/664886) 
+- [2020-04-22-官翻-MacBook-Air-2018-¥5599](https://www.v2ex.com/t/664884) 
+- [2020-04-22-GPLv3-项目如何检测使用者没有遵循-LICENSE-?](https://www.v2ex.com/t/664883) 
+- [2020-04-22-就算一周拒绝我-4-次，还是要越挫越勇啊！](https://www.v2ex.com/t/664881) 
+- [2020-04-22-MIcrosoft-365-这个文案是故意的吗？](https://www.v2ex.com/t/664880) 
+- [2020-04-22-.ren-大幅度降价](https://www.v2ex.com/t/664879) 
+- [2020-04-22-今天早上六点半就到公司上班了。。。。](https://www.v2ex.com/t/664877) 
+- [2020-04-22-使用-QQ-邮箱发送邮件比自己搭建的域名邮箱更容易进入垃圾箱](https://www.v2ex.com/t/664875) 
 - [2020-04-22-那个富士康流水线女孩最终也没能留在硅谷拿-h1b](https://www.v2ex.com/t/664871) 
 - [2020-04-22-感觉快要得肩周炎了，哪里能买到“凹”字型的电脑桌？](https://www.v2ex.com/t/664870) 
 - [2020-04-22-有人用-kotlin-协程特性写-android-应用么?](https://www.v2ex.com/t/664869) 

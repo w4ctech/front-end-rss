@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,6 +30,7 @@
 - [2020-03-30-记一次腾讯社招前端面试（已拿到offer入职）](https://www.ershicimi.com/p/1a71f45aedd7f38f2a4e649b0f0fc037) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
+- [2020-04-22-博士招聘-华为-新介质-LAB-数据应用-LAB](https://www.v2ex.com/t/664873) 
 - [2020-04-22-现在外包招聘上写的薪水有-10K-12K，其实到手真的有那么高吗？有没有经验人，-Come-on](https://www.v2ex.com/t/664833) 
 - [2020-04-21-内推-实习-社招-1000+岗位！字节跳动开启新一轮招聘，可捞简历！](https://www.v2ex.com/t/664804) 
 - [2020-04-22-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

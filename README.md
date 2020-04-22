@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 10:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 10:30:21，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,13 +23,13 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -213,6 +213,8 @@
 </summary>
 
 
+- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) ![](assets/new.png)  
+- [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397) ![](assets/new.png)  
 - [2020-04-21-前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)  
 - [2020-04-20-7-天内我面试了-10-家公司，发现-TypeScript-为什么这么吃香](https://www.ershicimi.com/p/9e8a4ad92ab0676e564c6379837d7938)  
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd)  
@@ -341,8 +343,8 @@
 </summary>
 
 
-- [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) ![](assets/new.png)  
-- [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54) ![](assets/new.png)  
+- [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3)  
+- [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54)  
 - [2020-04-21-从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47)  
 - [2020-04-20-用-Webpack给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/b80df1b1e06bf7ec89fb3ce786da825a)  
 - [2020-04-19-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://www.ershicimi.com/p/1b79be08035d903ff042d1822da51eb3)  
@@ -833,26 +835,26 @@
 </summary>
 
 
-- [2020-04-22-请教各位，-chrome-有没有可以调用外部下载工具的扩展或脚本？](https://www.v2ex.com/t/664872) ![](assets/new.png)  
-- [2020-04-22-那个富士康流水线女孩最终也没能留在硅谷拿-h1b](https://www.v2ex.com/t/664871) ![](assets/new.png)  
-- [2020-04-22-感觉快要得肩周炎了，哪里能买到“凹”字型的电脑桌？](https://www.v2ex.com/t/664870) ![](assets/new.png)  
-- [2020-04-22-有人用-kotlin-协程特性写-android-应用么?](https://www.v2ex.com/t/664869) ![](assets/new.png)  
-- [2020-04-22-6000-左右的笔记本有推荐么，母亲用来看看股票](https://www.v2ex.com/t/664868) ![](assets/new.png)  
-- [2020-04-22-直招上海/南京/北京360-企业安全-高级安全开发工程师](https://www.v2ex.com/t/664867) ![](assets/new.png)  
-- [2020-04-22-程序员的技术都是在业余的时候自己提升的吗？](https://www.v2ex.com/t/664865) ![](assets/new.png)  
-- [2020-04-22-爬虫管理平台-Crawlab-v0.4.10-发布（日志集中管理）](https://www.v2ex.com/t/664863)  
-- [2020-04-22-人物关系图生成器](https://www.v2ex.com/t/664862)  
-- [2020-04-22-PIL-换个字体，-就无法生成图片文件了](https://www.v2ex.com/t/664861)  
-- [2020-04-22-最近越来越是睡不醒了啊...](https://www.v2ex.com/t/664860)  
-- [2020-04-22-师傅上门安装小米智能锁，让我把米家-app-定位权限设为「总是允许」](https://www.v2ex.com/t/664859)  
-- [2020-04-22-急需升级-10.15.5，有朋友知道大概什么时候发布吗？这电池健康度我要吐了](https://www.v2ex.com/t/664858)  
-- [2020-04-22-supervisor-和-mysql-开机启动问题](https://www.v2ex.com/t/664857)  
-- [2020-04-22-关于团队协作的一个小问题](https://www.v2ex.com/t/664856)  
-- [2020-04-22-通过交管-12123-申请的驾照多久被可以提交身体健康证明？](https://www.v2ex.com/t/664855)  
-- [2020-04-22-今天大家有没有和我一样公司受疫情影响停止张薪的](https://www.v2ex.com/t/664854)  
-- [2020-04-22-web-有啥打印插件？](https://www.v2ex.com/t/664853)  
-- [2020-04-22-简历写得太差](https://www.v2ex.com/t/664852)  
-- [2020-04-22-咸鱼收了个二手宁芝静电容，体验还不错，-b-站做了个小视频，想尝鲜静电容的可以看看](https://www.v2ex.com/t/664851)  
+- [2020-04-22-客户端接口对接,我那个气啊...](https://www.v2ex.com/t/664889) ![](assets/new.png)  
+- [2020-04-22-办公电话神器,蓝牙耳机接打座机和电脑-IM](https://www.v2ex.com/t/664888) ![](assets/new.png)  
+- [2020-04-22-上班两天就走对下次工作会有影响吗？](https://www.v2ex.com/t/664887) ![](assets/new.png)  
+- [2020-04-22-<日经贴>-有啥最符合下列需求的云笔记/存储的服务/策略](https://www.v2ex.com/t/664886) ![](assets/new.png)  
+- [2020-04-22-Tailscale---Private-networks-made-easy](https://www.v2ex.com/t/664885) ![](assets/new.png)  
+- [2020-04-22-官翻-MacBook-Air-2018-¥5599](https://www.v2ex.com/t/664884) ![](assets/new.png)  
+- [2020-04-22-GPLv3-项目如何检测使用者没有遵循-LICENSE-?](https://www.v2ex.com/t/664883) ![](assets/new.png)  
+- [2020-04-22-我是不是应该换个移动电信啥的，感觉联通-4G-打游戏体验不好。](https://www.v2ex.com/t/664882) ![](assets/new.png)  
+- [2020-04-22-就算一周拒绝我-4-次，还是要越挫越勇啊！](https://www.v2ex.com/t/664881) ![](assets/new.png)  
+- [2020-04-22-MIcrosoft-365-这个文案是故意的吗？](https://www.v2ex.com/t/664880) ![](assets/new.png)  
+- [2020-04-22-.ren-大幅度降价](https://www.v2ex.com/t/664879) ![](assets/new.png)  
+- [2020-04-22-今天早上六点半就到公司上班了。。。。](https://www.v2ex.com/t/664877) ![](assets/new.png)  
+- [2020-04-22-快手杭州内推移动端Android-/iOS/Flutter、测试](https://www.v2ex.com/t/664876) ![](assets/new.png)  
+- [2020-04-22-使用-QQ-邮箱发送邮件比自己搭建的域名邮箱更容易进入垃圾箱](https://www.v2ex.com/t/664875) ![](assets/new.png)  
+- [2020-04-22-直招上海/南京/北京360-企业安全-高级-DevOps-工程师](https://www.v2ex.com/t/664874) ![](assets/new.png)  
+- [2020-04-22-博士招聘-华为-新介质-LAB-数据应用-LAB](https://www.v2ex.com/t/664873) ![](assets/new.png)  
+- [2020-04-22-请教各位，-chrome-有没有可以调用外部下载工具的扩展或脚本？](https://www.v2ex.com/t/664872)  
+- [2020-04-22-那个富士康流水线女孩最终也没能留在硅谷拿-h1b](https://www.v2ex.com/t/664871)  
+- [2020-04-22-感觉快要得肩周炎了，哪里能买到“凹”字型的电脑桌？](https://www.v2ex.com/t/664870)  
+- [2020-04-22-有人用-kotlin-协程特性写-android-应用么?](https://www.v2ex.com/t/664869)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -895,13 +897,13 @@
 </summary>
 
 
-- [2020-04-22-十年难得一遇！从数据误删到全量恢复的惊险记录](https://toutiao.io/k/zy12h7y) ![](assets/new.png)  
-- [2020-04-22-不会写爬虫咋办？8k-Star-的-Python-爬虫例子拿去](https://toutiao.io/k/ocurgno) ![](assets/new.png)  
-- [2020-04-22-PHP-8-正式版将于年底发布](https://toutiao.io/k/vnyp4dt) ![](assets/new.png)  
-- [2020-04-22-Apache-Kafka-2.5-稳定版发布，新特性抢先看](https://toutiao.io/k/9oacyxc) ![](assets/new.png)  
-- [2020-04-22-译-OKR-介绍](https://toutiao.io/k/x6ufv2i) ![](assets/new.png)  
-- [2020-04-22-图解数据库事务隔离级别](https://toutiao.io/k/o4k8v7e) ![](assets/new.png)  
-- [2020-04-22-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf) ![](assets/new.png)  
+- [2020-04-22-十年难得一遇！从数据误删到全量恢复的惊险记录](https://toutiao.io/k/zy12h7y)  
+- [2020-04-22-不会写爬虫咋办？8k-Star-的-Python-爬虫例子拿去](https://toutiao.io/k/ocurgno)  
+- [2020-04-22-PHP-8-正式版将于年底发布](https://toutiao.io/k/vnyp4dt)  
+- [2020-04-22-Apache-Kafka-2.5-稳定版发布，新特性抢先看](https://toutiao.io/k/9oacyxc)  
+- [2020-04-22-译-OKR-介绍](https://toutiao.io/k/x6ufv2i)  
+- [2020-04-22-图解数据库事务隔离级别](https://toutiao.io/k/o4k8v7e)  
+- [2020-04-22-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf)  
 - [2020-04-22-CEO-的-1-元年薪起源](https://toutiao.io/k/5vrrug5)  
 - [2020-04-22-算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6)  
 - [2020-04-22-Linux-下按照文件大小查找文件](https://toutiao.io/k/t83k218)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 02:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 03:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -391,6 +391,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】咨询一个视频抓取的-m3u8-无法播放](https://www.v2ex.com/t/665182)
 - [【V2EX】一个不成熟的-idea，数字图像识别龋齿](https://www.v2ex.com/t/665123)
 - [【V2EX】清华大学自动化系-2020-年大一-c++大作业-雷课堂-有人出免费的无痛的视频课了](https://www.v2ex.com/t/665022)
 - [【V2EX】有相机、数码、电脑产品方面的发烧友吗？想做一个视频自媒体](https://www.v2ex.com/t/665016)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
@@ -15,4 +15,3 @@
 - [2020-04-20-从-Google-回来的-CTO](https://www.ershicimi.com/p/a8df88e8a62855f51851badf080d187d) 
 - [2020-04-20-Rust-能够取代-C-语言吗？](https://www.ershicimi.com/p/26e30680c4f4aa4638a6b25f7ba15de0) 
 - [2020-04-20-Zocdoc-的事件驱动架构实践](https://www.ershicimi.com/p/3bb6affe84e19e08ce60099ad0c64a57) 
-- [2020-04-20-不要让“Clean-Code”更难维护，请使用“Rule-of-Three”](https://www.ershicimi.com/p/30a33ab53fe7a26b1f2fce5f062b2e79) 

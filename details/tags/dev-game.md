@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,5 +28,3 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
-- [2020-04-22-我是不是应该换个移动电信啥的，感觉联通-4G-打游戏体验不好。](https://www.v2ex.com/t/664882) 
-- [2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

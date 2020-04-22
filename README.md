@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 16:30:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 17:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -690,26 +690,26 @@
 </summary>
 
 
-- [2020-04-22-百度网盘的网盘客户端下载是-P2P-下载吗？](https://www.v2ex.com/t/665036) ![](assets/new.png)  
-- [2020-04-22-现在买群晖-918+合适吗？已经上市两年多了吧，不知道什么时候更新](https://www.v2ex.com/t/665035) ![](assets/new.png)  
-- [2020-04-22-Python-爬虫，寻找合作](https://www.v2ex.com/t/665034) ![](assets/new.png)  
-- [2020-04-22-开发中计算金额合计怎么算？](https://www.v2ex.com/t/665033) ![](assets/new.png)  
-- [2020-04-22-有用极游的吗,第一个月速度不错,现在惨不忍睹了](https://www.v2ex.com/t/665032) ![](assets/new.png)  
-- [2020-04-22-360-企业安全集团招聘-Java-研发工程师](https://www.v2ex.com/t/665031) ![](assets/new.png)  
-- [2020-04-22-我服了这个帖子](https://www.v2ex.com/t/665030) ![](assets/new.png)  
-- [2020-04-22-困惑-macOS-的隔空投送到-iPhone-的时候，在选择接受设备的界面，该如何.....](https://www.v2ex.com/t/665029) ![](assets/new.png)  
-- [2020-04-22-印度区-YouTube-premium-有没要来上车的](https://www.v2ex.com/t/665028) ![](assets/new.png)  
-- [2020-04-22-自己整理了一些-Java-的基础知识和高频知识点源码分析，面试向](https://www.v2ex.com/t/665025) ![](assets/new.png)  
-- [2020-04-22-森果技术研发部招聘🔥🔥](https://www.v2ex.com/t/665024) ![](assets/new.png)  
-- [2020-04-22-清华大学自动化系-2020-年大一-c++大作业-雷课堂-有人出免费的无痛的视频课了](https://www.v2ex.com/t/665022) ![](assets/new.png)  
-- [2020-04-22-Android-版本的-Chrome-崩溃不能使用-好几天了](https://www.v2ex.com/t/665021) ![](assets/new.png)  
-- [2020-04-22-是两个-24-寸的显示器好，还是一个大显示器好？](https://www.v2ex.com/t/665020) ![](assets/new.png)  
-- [2020-04-22-讲座-零基础最快转-CS-上岸指南](https://www.v2ex.com/t/665019) ![](assets/new.png)  
-- [2020-04-22-想问下前端架构方案](https://www.v2ex.com/t/665018) ![](assets/new.png)  
-- [2020-04-22-有相机、数码、电脑产品方面的发烧友吗？想做一个视频自媒体](https://www.v2ex.com/t/665016) ![](assets/new.png)  
-- [2020-04-22-iPad-能给别的-ios-设备刷机么？](https://www.v2ex.com/t/665015) ![](assets/new.png)  
-- [2020-04-22-蚂蚁金服招聘：-H5-,android,iOS-高级工程师、专家](https://www.v2ex.com/t/665014) ![](assets/new.png)  
-- [2020-04-22-请问啥时候能有非寒冬好找工作的时候吗？](https://www.v2ex.com/t/665013) ![](assets/new.png)  
+- [2020-04-22-百度网盘的网盘客户端下载是-P2P-下载吗？](https://www.v2ex.com/t/665036)  
+- [2020-04-22-现在买群晖-918+合适吗？已经上市两年多了吧，不知道什么时候更新](https://www.v2ex.com/t/665035)  
+- [2020-04-22-Python-爬虫，寻找合作](https://www.v2ex.com/t/665034)  
+- [2020-04-22-开发中计算金额合计怎么算？](https://www.v2ex.com/t/665033)  
+- [2020-04-22-有用极游的吗,第一个月速度不错,现在惨不忍睹了](https://www.v2ex.com/t/665032)  
+- [2020-04-22-360-企业安全集团招聘-Java-研发工程师](https://www.v2ex.com/t/665031)  
+- [2020-04-22-我服了这个帖子](https://www.v2ex.com/t/665030)  
+- [2020-04-22-困惑-macOS-的隔空投送到-iPhone-的时候，在选择接受设备的界面，该如何.....](https://www.v2ex.com/t/665029)  
+- [2020-04-22-印度区-YouTube-premium-有没要来上车的](https://www.v2ex.com/t/665028)  
+- [2020-04-22-自己整理了一些-Java-的基础知识和高频知识点源码分析，面试向](https://www.v2ex.com/t/665025)  
+- [2020-04-22-森果技术研发部招聘🔥🔥](https://www.v2ex.com/t/665024)  
+- [2020-04-22-清华大学自动化系-2020-年大一-c++大作业-雷课堂-有人出免费的无痛的视频课了](https://www.v2ex.com/t/665022)  
+- [2020-04-22-Android-版本的-Chrome-崩溃不能使用-好几天了](https://www.v2ex.com/t/665021)  
+- [2020-04-22-是两个-24-寸的显示器好，还是一个大显示器好？](https://www.v2ex.com/t/665020)  
+- [2020-04-22-讲座-零基础最快转-CS-上岸指南](https://www.v2ex.com/t/665019)  
+- [2020-04-22-想问下前端架构方案](https://www.v2ex.com/t/665018)  
+- [2020-04-22-有相机、数码、电脑产品方面的发烧友吗？想做一个视频自媒体](https://www.v2ex.com/t/665016)  
+- [2020-04-22-iPad-能给别的-ios-设备刷机么？](https://www.v2ex.com/t/665015)  
+- [2020-04-22-蚂蚁金服招聘：-H5-,android,iOS-高级工程师、专家](https://www.v2ex.com/t/665014)  
+- [2020-04-22-请问啥时候能有非寒冬好找工作的时候吗？](https://www.v2ex.com/t/665013)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -752,10 +752,13 @@
 </summary>
 
 
-- [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl) ![](assets/new.png)  
-- [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29) ![](assets/new.png)  
-- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87) ![](assets/new.png)  
-- [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr) ![](assets/new.png)  
+- [2020-04-22-推荐-吐血推荐，B-站最强学习资源汇总（数据科学、机器学习、Python）](https://toutiao.io/k/a58ir9a) ![](assets/new.png)  
+- [2020-04-22-推荐-收获人生第一个-5k-Star-开源项目，经验教训分享给大家](https://toutiao.io/k/jofs08f) ![](assets/new.png)  
+- [2020-04-22-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn) ![](assets/new.png)  
+- [2020-04-22-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl)  
+- [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29)  
+- [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87)  
+- [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
 - [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb)  
 - [2020-04-22-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl)  
 - [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)  
@@ -769,9 +772,6 @@
 - [2020-04-22-推荐-说实话，面试这么问-Spring-框架的问题，我快扛不住了](https://toutiao.io/k/owgxoel)  
 - [2020-04-22-推荐-编写可靠-bash-脚本的一些技巧](https://toutiao.io/k/8qtmtky)  
 - [2020-04-22-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi)  
-- [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm)  
-- [2020-04-22-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r)  
-- [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -45,6 +45,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) 
 - [2020-04-16-ES6-Proxy-可以做哪些有意思的事情？](https://www.ershicimi.com/p/50d623c8ce307e5045d6a677e914b47c) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-20-Zocdoc-的事件驱动架构实践](https://www.ershicimi.com/p/3bb6affe84e19e08ce60099ad0c64a57) 

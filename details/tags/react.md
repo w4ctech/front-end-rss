@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -20,6 +20,7 @@
 - [2017-03-03-轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/) 
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
+- [2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a) 
 - [2020-04-20-围观“33行代码的React”](https://www.ershicimi.com/p/f64504033c52c2e15ec7a2bfbbe9d994) 
 - [2020-04-22-我对react的一点理解](https://juejin.im/post/5ea005b86fb9a03c875cafa9) 
 - [2020-04-22-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 

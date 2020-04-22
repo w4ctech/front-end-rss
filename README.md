@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 12:00:20，:rocket: 更新条数: +46， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 12:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -44,15 +44,15 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -106,6 +106,7 @@
 </summary>
 
 
+- [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) ![](assets/new.png)  
 - [2020-04-21-大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23)  
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)  
 - [2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/6bf6dbdf5ef8597e68ab74bcf52fabb3)  
@@ -673,6 +674,7 @@
 </summary>
 
 
+- [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) ![](assets/new.png)  
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd)  
 - [2020-04-21-Serverless-实战：用-20-行-Python-代码轻松搞定图像分类和预测](https://www.ershicimi.com/p/a86dc45eab6588a2e994cd23a0b18a9b)  
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039)  
@@ -715,11 +717,11 @@
 </summary>
 
 
-- [2020-04-22-了解-webpack5-模块联邦](https://juejin.im/post/5e9fbefc51882573ba209b25) ![](assets/new.png)  
-- [2020-04-22-关于如何在Mobx中组织Stores](https://juejin.im/post/5e9f06386fb9a03c7e202bb0) ![](assets/new.png)  
-- [2020-04-22-前端人应该知道的网站和工具](https://juejin.im/post/5e9f02ff6fb9a03c95800c8d) ![](assets/new.png)  
-- [2020-04-22-聊一聊Cookie那些事儿](https://juejin.im/post/5e9944dcf265da47cd35795a) ![](assets/new.png)  
-- [2020-04-22-NestJS入门系列一--搭建项目](https://juejin.im/post/5e9fba2df265da480c0335f7) ![](assets/new.png)  
+- [2020-04-22-了解-webpack5-模块联邦](https://juejin.im/post/5e9fbefc51882573ba209b25)  
+- [2020-04-22-关于如何在Mobx中组织Stores](https://juejin.im/post/5e9f06386fb9a03c7e202bb0)  
+- [2020-04-22-前端人应该知道的网站和工具](https://juejin.im/post/5e9f02ff6fb9a03c95800c8d)  
+- [2020-04-22-聊一聊Cookie那些事儿](https://juejin.im/post/5e9944dcf265da47cd35795a)  
+- [2020-04-22-NestJS入门系列一--搭建项目](https://juejin.im/post/5e9fba2df265da480c0335f7)  
 - [2020-04-22-CSS动画——柱形图](https://juejin.im/post/5e9f9ce951882573b628055c)  
 - [2020-04-22-JavaScript-设计模式---MV*模式](https://juejin.im/post/5e9c64326fb9a03c8d4a0844)  
 - [2020-04-22-回流reflow和重绘repaint](https://juejin.im/post/5e9f2ce36fb9a03c8e5fa955)  
@@ -849,26 +851,26 @@
 </summary>
 
 
-- [2020-04-22-撸了一款移动端编译环境-App，请-v2er-尝尝鲜](https://www.v2ex.com/t/664937) ![](assets/new.png)  
-- [2020-04-22-为什么类适配器模式中的目标抽象类只能为接口，不能为类？](https://www.v2ex.com/t/664935) ![](assets/new.png)  
-- [2020-04-22-腾讯视频也在后台上传流量](https://www.v2ex.com/t/664933) ![](assets/new.png)  
-- [2020-04-22-Vue3.0-从入门到学会-React](https://www.v2ex.com/t/664932) ![](assets/new.png)  
-- [2020-04-22-请教一下，为什么我的-yarn-连接不上-https://registry.yarnpkg.com，-timeout-error](https://www.v2ex.com/t/664931) ![](assets/new.png)  
-- [2020-04-22-想尽快学好-shell-脚本,有比较好的网站吗?不喜欢看视频](https://www.v2ex.com/t/664930) ![](assets/new.png)  
-- [2020-04-22-你们在工作中，动态规划用的多吗？](https://www.v2ex.com/t/664929) ![](assets/new.png)  
-- [2020-04-22-机械键盘的轴你们是怎么配的？](https://www.v2ex.com/t/664928) ![](assets/new.png)  
-- [2020-04-22-求问：如何修改-bson.Raw](https://www.v2ex.com/t/664927) ![](assets/new.png)  
-- [2020-04-22-长沙医药公司招聘-PHP-开发](https://www.v2ex.com/t/664926) ![](assets/new.png)  
-- [2020-04-22-杭州的朋友-有推荐电脑换屏的店么？-想给笔记本换个屏幕](https://www.v2ex.com/t/664925) ![](assets/new.png)  
-- [2020-04-22-mbp-Catalina-10.15.4-19E287-你们有遇到蓝牙突然全断了然后-5s-左右自动回复的情况吗？](https://www.v2ex.com/t/664924) ![](assets/new.png)  
-- [2020-04-22-JSONViewer-现已支持所有主流浏览器，可能是最好用的-JSON-格式化浏览器插件](https://www.v2ex.com/t/664921) ![](assets/new.png)  
-- [2020-04-22-笔记本选锐龙还是英特尔](https://www.v2ex.com/t/664920) ![](assets/new.png)  
-- [2020-04-22-联想公众号发的文章是不是无耻到了极点？](https://www.v2ex.com/t/664919) ![](assets/new.png)  
-- [2020-04-22-新手求一个单表无效数据去重的思路](https://www.v2ex.com/t/664918) ![](assets/new.png)  
-- [2020-04-22-下个月开始公司不发口罩了](https://www.v2ex.com/t/664916) ![](assets/new.png)  
-- [2020-04-22-苹果天才吧还有-vip-待遇么](https://www.v2ex.com/t/664915) ![](assets/new.png)  
-- [2020-04-22-腾讯视频-VIP-兑换「财新通-VIP-周卡」](https://www.v2ex.com/t/664914) ![](assets/new.png)  
-- [2020-04-22-关于-Python-后端验证参数-的界限](https://www.v2ex.com/t/664913) ![](assets/new.png)  
+- [2020-04-22-我做了个海报，博君一笑而](https://www.v2ex.com/t/664948) ![](assets/new.png)  
+- [2020-04-22-网易邮箱网页端登录的鼠标点选验证不支持-Linux-吗？](https://www.v2ex.com/t/664947) ![](assets/new.png)  
+- [2020-04-22-PHP-继承问题](https://www.v2ex.com/t/664946) ![](assets/new.png)  
+- [2020-04-22-小白求教以下套路云国际和套路云大陆的区别有吗？](https://www.v2ex.com/t/664945) ![](assets/new.png)  
+- [2020-04-22-pyinstaller-打包-pytest+allure-自动化测试框架后运行报错，请大牛指教](https://www.v2ex.com/t/664944) ![](assets/new.png)  
+- [2020-04-22-老大要做一个线上培训的网站，有些事来问一下各位老哥](https://www.v2ex.com/t/664943) ![](assets/new.png)  
+- [2020-04-22-微博视频的-cdn-报-"-ERR_SSL_PROTOCOL_ERROR"](https://www.v2ex.com/t/664942) ![](assets/new.png)  
+- [2020-04-22-印象笔记国际版无法登录？](https://www.v2ex.com/t/664941) ![](assets/new.png)  
+- [2020-04-22-请问如何排查是域名解析问题还是服务器连接的问题](https://www.v2ex.com/t/664940) ![](assets/new.png)  
+- [2020-04-22-NLP-律商联讯，上海外企，-WLB，自有数据库搜索引擎服务](https://www.v2ex.com/t/664939) ![](assets/new.png)  
+- [2020-04-22-JavaScript-如何判断鼠标在链接上呀](https://www.v2ex.com/t/664938) ![](assets/new.png)  
+- [2020-04-22-撸了一款移动端编译环境-App，请-v2er-尝尝鲜](https://www.v2ex.com/t/664937)  
+- [2020-04-22-为什么类适配器模式中的目标抽象类只能为接口，不能为类？](https://www.v2ex.com/t/664935)  
+- [2020-04-22-腾讯视频也在后台上传流量](https://www.v2ex.com/t/664933)  
+- [2020-04-22-Vue3.0-从入门到学会-React](https://www.v2ex.com/t/664932)  
+- [2020-04-22-请教一下，为什么我的-yarn-连接不上-https://registry.yarnpkg.com，-timeout-error](https://www.v2ex.com/t/664931)  
+- [2020-04-22-想尽快学好-shell-脚本,有比较好的网站吗?不喜欢看视频](https://www.v2ex.com/t/664930)  
+- [2020-04-22-你们在工作中，动态规划用的多吗？](https://www.v2ex.com/t/664929)  
+- [2020-04-22-机械键盘的轴你们是怎么配的？](https://www.v2ex.com/t/664928)  
+- [2020-04-22-求问：如何修改-bson.Raw](https://www.v2ex.com/t/664927)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -880,6 +882,7 @@
 </summary>
 
 
+- [2020-04-22-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-22-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-21-程序员，等你当了爸爸后，便会有如下经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13386&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRcOPW4vceFpRnK1c0r9vxA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-21-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -899,7 +902,6 @@
 - [2020-04-21-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-21-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

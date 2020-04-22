@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -13,3 +13,4 @@
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2020-04-01-Nginx-一个牛X的功能，流量拷贝！](https://www.ershicimi.com/p/09033a5d9dc1599e5a8c43edaf311b41) 
+- [2020-04-22-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

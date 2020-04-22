@@ -74,6 +74,11 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。  疫情期间企业（尤",
+        "link": "https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1",
+        "date": "2020-04-22"
+      },
+      {
         "title": "大白话理解Vuex",
         "link": "https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23",
         "date": "2020-04-21"
@@ -2541,6 +2546,11 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变",
+        "link": "https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05",
+        "date": "2020-04-22"
+      },
+      {
         "title": "只会 Vue 的前端工程师是没有前途的 | 极客大学",
         "link": "https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd",
         "date": "2020-04-21"
@@ -3139,6 +3149,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "我做了个海报，博君一笑而",
+        "link": "https://www.v2ex.com/t/664948",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "网易邮箱网页端登录的鼠标点选验证不支持 Linux 吗？",
+        "link": "https://www.v2ex.com/t/664947",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "PHP 继承问题",
+        "link": "https://www.v2ex.com/t/664946",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "小白求教以下套路云国际和套路云大陆的区别有吗？",
+        "link": "https://www.v2ex.com/t/664945",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "pyinstaller 打包 pytest+allure 自动化测试框架后运行报错，请大牛指教",
+        "link": "https://www.v2ex.com/t/664944",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "老大要做一个线上培训的网站，有些事来问一下各位老哥",
+        "link": "https://www.v2ex.com/t/664943",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "微博视频的 cdn 报 \" ERR_SSL_PROTOCOL_ERROR\"",
+        "link": "https://www.v2ex.com/t/664942",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "印象笔记国际版无法登录？",
+        "link": "https://www.v2ex.com/t/664941",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "请问如何排查是域名解析问题还是服务器连接的问题",
+        "link": "https://www.v2ex.com/t/664940",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[NLP] 律商联讯，上海外企， WLB，自有数据库搜索引擎服务",
+        "link": "https://www.v2ex.com/t/664939",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "JavaScript 如何判断鼠标在链接上呀",
+        "link": "https://www.v2ex.com/t/664938",
+        "date": "2020-04-22"
+      },
       {
         "title": "撸了一款移动端编译环境 App，请 v2er 尝尝鲜",
         "link": "https://www.v2ex.com/t/664937",
@@ -3881,6 +3946,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "GraphQL 测试实践 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-22"
+      },
       {
         "title": "精选Android中高级面试题 -- 终局之篇：高级干货 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

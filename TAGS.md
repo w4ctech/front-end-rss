@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,6 +404,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】微博视频的-cdn-报-"-ERR_SSL_PROTOCOL_ERROR"](https://www.v2ex.com/t/664942)
 - [【V2EX】腾讯视频也在后台上传流量](https://www.v2ex.com/t/664933)
 - [【V2EX】想尽快学好-shell-脚本,有比较好的网站吗?不喜欢看视频](https://www.v2ex.com/t/664930)
 - [【V2EX】腾讯视频-VIP-兑换「财新通-VIP-周卡」](https://www.v2ex.com/t/664914)
@@ -413,7 +414,6 @@
 - [【V2EX】编译云豹直播-app-出现-Expected-identifier-or-''求大佬](https://www.v2ex.com/t/664841)
 - [【V2EX】数字图像处理，这该怎么入手求解](https://www.v2ex.com/t/664830)
 - [【V2EX】咋现在都流行给视频配个难受的背景音乐](https://www.v2ex.com/t/664811)
-- [【V2EX】联通手机营业厅抽视频会员](https://www.v2ex.com/t/664802)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -539,6 +539,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【前端日刊】Nginx-一个牛X的功能，流量拷贝！](https://www.ershicimi.com/p/09033a5d9dc1599e5a8c43edaf311b41)
+- [【技术头条】GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -653,6 +654,7 @@
 
 - [【Vue社区】分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1)
 - [【Vue社区】手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8)
+- [【Vue中文社区】初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)
 - [【Vue中文社区】程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)
 - [【Vue中文社区】程序员的噩梦，除了发际线上移，还有...](https://www.ershicimi.com/p/147d18701ffe39c860d3634b58761f5a)
 - [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d)
@@ -670,7 +672,6 @@
 - [【前端早读课】【第1918期】微前端在企业级应用中的实践上](https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2)
 - [【前端早读课】【第1917期】微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f3ddbeffc77b696d7351647ce5441839)
 - [【前端大全】前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e)
-- [【前端大全】前端代码规范最佳实践](https://www.ershicimi.com/p/3df19b39820a2419f4986ed23a1fad3a)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

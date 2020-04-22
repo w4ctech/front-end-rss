@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
 - [2020-04-15-程序员的噩梦，除了发际线上移，还有...](https://www.ershicimi.com/p/147d18701ffe39c860d3634b58761f5a) 
 - [2019-12-09-【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d) 
@@ -151,6 +152,7 @@
 - [2020-04-20-简述负载均衡&CDN技术](https://www.ershicimi.com/p/3562650b79211e97b59aa3c69c794279) 
 - [2020-04-19-推荐一波对你来说，非常有用的网站，记得收藏](https://www.ershicimi.com/p/6ee78190c3768d3cd1a7188f991fea35) 
 - [2020-04-19-14-款牛逼的-IDEA-插件，让你开发速度飞起来！](https://www.ershicimi.com/p/fe6044ca7507941587f9edb1b492f4e6) 
+- [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
 - [2020-04-21-AI-救不了流利说，上市第二年，净亏近-6-亿](https://www.ershicimi.com/p/c0900fda4a025eb3f0af9b60e743ecda) 
@@ -201,6 +203,15 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-我做了个海报，博君一笑而](https://www.v2ex.com/t/664948) 
+- [2020-04-22-网易邮箱网页端登录的鼠标点选验证不支持-Linux-吗？](https://www.v2ex.com/t/664947) 
+- [2020-04-22-PHP-继承问题](https://www.v2ex.com/t/664946) 
+- [2020-04-22-小白求教以下套路云国际和套路云大陆的区别有吗？](https://www.v2ex.com/t/664945) 
+- [2020-04-22-pyinstaller-打包-pytest+allure-自动化测试框架后运行报错，请大牛指教](https://www.v2ex.com/t/664944) 
+- [2020-04-22-老大要做一个线上培训的网站，有些事来问一下各位老哥](https://www.v2ex.com/t/664943) 
+- [2020-04-22-印象笔记国际版无法登录？](https://www.v2ex.com/t/664941) 
+- [2020-04-22-请问如何排查是域名解析问题还是服务器连接的问题](https://www.v2ex.com/t/664940) 
+- [2020-04-22-NLP-律商联讯，上海外企，-WLB，自有数据库搜索引擎服务](https://www.v2ex.com/t/664939) 
 - [2020-04-22-撸了一款移动端编译环境-App，请-v2er-尝尝鲜](https://www.v2ex.com/t/664937) 
 - [2020-04-22-你们在工作中，动态规划用的多吗？](https://www.v2ex.com/t/664929) 
 - [2020-04-22-机械键盘的轴你们是怎么配的？](https://www.v2ex.com/t/664928) 

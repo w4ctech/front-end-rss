@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【Vue中文社区】2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [【Vue中文社区】2020-04-21-大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23) 
 - [【Vue中文社区】2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
 - [【Vue中文社区】2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/6bf6dbdf5ef8597e68ab74bcf52fabb3) 
@@ -296,6 +297,7 @@
 - [【互联网架构师】2020-04-20-简述负载均衡&CDN技术](https://www.ershicimi.com/p/3562650b79211e97b59aa3c69c794279) 
 - [【互联网架构师】2020-04-19-推荐一波对你来说，非常有用的网站，记得收藏](https://www.ershicimi.com/p/6ee78190c3768d3cd1a7188f991fea35) 
 - [【互联网架构师】2020-04-19-14-款牛逼的-IDEA-插件，让你开发速度飞起来！](https://www.ershicimi.com/p/fe6044ca7507941587f9edb1b492f4e6) 
+- [【InfoQ】2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [【InfoQ】2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd) 
 - [【InfoQ】2020-04-21-Serverless-实战：用-20-行-Python-代码轻松搞定图像分类和预测](https://www.ershicimi.com/p/a86dc45eab6588a2e994cd23a0b18a9b) 
 - [【InfoQ】2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
@@ -366,6 +368,17 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-22-我做了个海报，博君一笑而](https://www.v2ex.com/t/664948) 
+- [【V2EX】2020-04-22-网易邮箱网页端登录的鼠标点选验证不支持-Linux-吗？](https://www.v2ex.com/t/664947) 
+- [【V2EX】2020-04-22-PHP-继承问题](https://www.v2ex.com/t/664946) 
+- [【V2EX】2020-04-22-小白求教以下套路云国际和套路云大陆的区别有吗？](https://www.v2ex.com/t/664945) 
+- [【V2EX】2020-04-22-pyinstaller-打包-pytest+allure-自动化测试框架后运行报错，请大牛指教](https://www.v2ex.com/t/664944) 
+- [【V2EX】2020-04-22-老大要做一个线上培训的网站，有些事来问一下各位老哥](https://www.v2ex.com/t/664943) 
+- [【V2EX】2020-04-22-微博视频的-cdn-报-"-ERR_SSL_PROTOCOL_ERROR"](https://www.v2ex.com/t/664942) 
+- [【V2EX】2020-04-22-印象笔记国际版无法登录？](https://www.v2ex.com/t/664941) 
+- [【V2EX】2020-04-22-请问如何排查是域名解析问题还是服务器连接的问题](https://www.v2ex.com/t/664940) 
+- [【V2EX】2020-04-22-NLP-律商联讯，上海外企，-WLB，自有数据库搜索引擎服务](https://www.v2ex.com/t/664939) 
+- [【V2EX】2020-04-22-JavaScript-如何判断鼠标在链接上呀](https://www.v2ex.com/t/664938) 
 - [【V2EX】2020-04-22-撸了一款移动端编译环境-App，请-v2er-尝尝鲜](https://www.v2ex.com/t/664937) 
 - [【V2EX】2020-04-22-为什么类适配器模式中的目标抽象类只能为接口，不能为类？](https://www.v2ex.com/t/664935) 
 - [【V2EX】2020-04-22-腾讯视频也在后台上传流量](https://www.v2ex.com/t/664933) 
@@ -513,6 +526,7 @@
 - [【V2EX】2020-04-21-国内云主机如何选择？](https://www.v2ex.com/t/664771) 
 - [【V2EX】2020-04-21-教程-iOS13-苹果系统相册快速制作短视频](https://www.v2ex.com/t/664770) 
 - [【V2EX】2020-04-21-Java-开发，现在在成都好找工作吗？](https://www.v2ex.com/t/664768) 
+- [【技术头条】2020-04-22-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-程序员，等你当了爸爸后，便会有如下经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13386&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRcOPW4vceFpRnK1c0r9vxA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -557,13 +557,13 @@
 - [【V2EX】长沙医药公司招聘-PHP-开发](https://www.v2ex.com/t/664926)
 - [【技术头条】精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj)
+- [【开发者头条】推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95)
+- [【开发者头条】推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)
 - [【开发者头条】推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj)
 - [【开发者头条】推荐-说实话，面试这么问-Spring-框架的问题，我快扛不住了](https://toutiao.io/k/owgxoel)
 - [【开发者头条】面试-Google,-我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev)
 - [【开发者头条】Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr)
-- [【开发者头条】推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy)
-- [【开发者头条】推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje)
-- [【开发者头条】推荐-Java-开发-4-年，3-个月面试，终于拿到美团、京东、字节-Offer](https://toutiao.io/k/q8oed1o)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

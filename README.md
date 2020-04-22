@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 15:30:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 16:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -690,15 +690,15 @@
 </summary>
 
 
-- [2020-04-22-萌新可以当学徒吗，找个师傅](https://www.v2ex.com/t/665012) ![](assets/new.png)  
-- [2020-04-22-开通微信视频号后，我的微信好友会知道我开了视频号吗？如果他们刚好关注了我的视频号，-会知道是我发的吗？](https://www.v2ex.com/t/665011) ![](assets/new.png)  
-- [2020-04-22-参考别人博客整理的技术知识，可以分享吗？](https://www.v2ex.com/t/665010) ![](assets/new.png)  
-- [2020-04-22-程序员撕逼最佳话题：古有“-PHP-是最好的语言”，今有“学-Vue-不如学-React”](https://www.v2ex.com/t/665009) ![](assets/new.png)  
-- [2020-04-22-如何将手机验证码转发到-web-服务上](https://www.v2ex.com/t/665008) ![](assets/new.png)  
-- [2020-04-22-安卓下有什么类似-iCloud-备份-app-数据的工具？](https://www.v2ex.com/t/665007) ![](assets/new.png)  
-- [2020-04-22-视频站或图片站这种资源类站点如何防止盗取资源](https://www.v2ex.com/t/665006) ![](assets/new.png)  
-- [2020-04-22-Go-Search-Extension，快速在地址栏搜索-Go-文档的开源浏览器插件，支持-Chrome/Firefox/Edge](https://www.v2ex.com/t/665005) ![](assets/new.png)  
-- [2020-04-22-各位大佬们能不能推荐一个光影包？](https://www.v2ex.com/t/665003) ![](assets/new.png)  
+- [2020-04-22-萌新可以当学徒吗，找个师傅](https://www.v2ex.com/t/665012)  
+- [2020-04-22-开通微信视频号后，我的微信好友会知道我开了视频号吗？如果他们刚好关注了我的视频号，-会知道是我发的吗？](https://www.v2ex.com/t/665011)  
+- [2020-04-22-参考别人博客整理的技术知识，可以分享吗？](https://www.v2ex.com/t/665010)  
+- [2020-04-22-程序员撕逼最佳话题：古有“-PHP-是最好的语言”，今有“学-Vue-不如学-React”](https://www.v2ex.com/t/665009)  
+- [2020-04-22-如何将手机验证码转发到-web-服务上](https://www.v2ex.com/t/665008)  
+- [2020-04-22-安卓下有什么类似-iCloud-备份-app-数据的工具？](https://www.v2ex.com/t/665007)  
+- [2020-04-22-视频站或图片站这种资源类站点如何防止盗取资源](https://www.v2ex.com/t/665006)  
+- [2020-04-22-Go-Search-Extension，快速在地址栏搜索-Go-文档的开源浏览器插件，支持-Chrome/Firefox/Edge](https://www.v2ex.com/t/665005)  
+- [2020-04-22-各位大佬们能不能推荐一个光影包？](https://www.v2ex.com/t/665003)  
 - [2020-04-22-Kubernetes-CronJob-中声明的-Resource-Request-在-Job-没有-active-的时候会占用节点-Request-资源吗?](https://www.v2ex.com/t/665002)  
 - [2020-04-22-是否有能在浏览器环境下运行的字体合并/拆分/编辑应用呢？](https://www.v2ex.com/t/665001)  
 - [2020-04-22-你们有在用-WPS-吗？](https://www.v2ex.com/t/665000)  
@@ -752,26 +752,26 @@
 </summary>
 
 
-- [2020-04-22-推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj) ![](assets/new.png)  
-- [2020-04-22-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4) ![](assets/new.png)  
-- [2020-04-22-推荐-TCP-漫谈之-keepalive-和-time_wait](https://toutiao.io/k/1r2sxur) ![](assets/new.png)  
-- [2020-04-22-推荐-说实话，面试这么问-Spring-框架的问题，我快扛不住了](https://toutiao.io/k/owgxoel) ![](assets/new.png)  
-- [2020-04-22-推荐-编写可靠-bash-脚本的一些技巧](https://toutiao.io/k/8qtmtky) ![](assets/new.png)  
-- [2020-04-22-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi) ![](assets/new.png)  
-- [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm) ![](assets/new.png)  
-- [2020-04-22-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r) ![](assets/new.png)  
-- [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19) ![](assets/new.png)  
-- [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp) ![](assets/new.png)  
-- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h) ![](assets/new.png)  
+- [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb) ![](assets/new.png)  
+- [2020-04-22-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl) ![](assets/new.png)  
+- [2020-04-22-推荐-说出-4-种-“附近的人”-实现方式，面试官笑了](https://toutiao.io/k/9i09yrj) ![](assets/new.png)  
+- [2020-04-22-推荐-架构师角色认知](https://toutiao.io/k/8g7wlqr) ![](assets/new.png)  
+- [2020-04-22-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7) ![](assets/new.png)  
+- [2020-04-22-推荐-互联网大厂面试，谈索引就直逼这些底层？难的是我不懂这些原理](https://toutiao.io/k/ehdtg95) ![](assets/new.png)  
+- [2020-04-22-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7) ![](assets/new.png)  
+- [2020-04-22-推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj)  
+- [2020-04-22-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4)  
+- [2020-04-22-推荐-TCP-漫谈之-keepalive-和-time_wait](https://toutiao.io/k/1r2sxur)  
+- [2020-04-22-推荐-说实话，面试这么问-Spring-框架的问题，我快扛不住了](https://toutiao.io/k/owgxoel)  
+- [2020-04-22-推荐-编写可靠-bash-脚本的一些技巧](https://toutiao.io/k/8qtmtky)  
+- [2020-04-22-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi)  
+- [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm)  
+- [2020-04-22-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r)  
+- [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19)  
+- [2020-04-22-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
+- [2020-04-22-推荐-必须先理解的-RocketMQ-入门手册，才能再次深入解读](https://toutiao.io/k/rg6283h)  
 - [2020-04-22-自学编程的八大误区！克服它](https://toutiao.io/k/723yjno)  
 - [2020-04-22-架构师技术图谱，助你早日成为架构师](https://toutiao.io/k/8lhpf6)  
-- [2020-04-22-Linux-下按照文件大小查找文件](https://toutiao.io/k/t83k218)  
-- [2020-04-22-面试-Google,-我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev)  
-- [2020-04-22-谈谈一写多读的高效并发控制](https://toutiao.io/k/ccwxp0l)  
-- [2020-04-22-记一次网络读过程（简化版）](https://toutiao.io/k/3dqb2io)  
-- [2020-04-22-算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6)  
-- [2020-04-22-Java-8-Stream-总结](https://toutiao.io/k/4rghiro)  
-- [2020-04-22-CEO-的-1-元年薪起源](https://toutiao.io/k/5vrrug5)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

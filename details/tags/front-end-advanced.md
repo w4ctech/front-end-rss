@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -9,6 +9,7 @@
 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
 - [2020-04-14-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/17810c019d4629d465a253ce0a09a000) 
+- [2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43) 
 - [2020-04-18-去大厂面试问我算法，我该怎么办？](https://www.ershicimi.com/p/26dfe376c652a76ddeed36a02bf63786) 
 - [2020-04-11-10-问-10-答，带你快速入门前端算法](https://www.ershicimi.com/p/85bf7c01235b45648d8bd478a6a83105) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 

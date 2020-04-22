@@ -539,6 +539,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "疫情之下，这个前端工程师的“壮举”，我们也该学会！",
+        "link": "https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "13个 npm 快速使用开发技巧",
+        "link": "https://www.ershicimi.com/p/04e75103218a126a3ec5cf4ba3c2d7ba",
+        "date": "2020-04-22"
+      },
+      {
         "title": "必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！",
         "link": "https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f",
         "date": "2020-04-21"
@@ -882,6 +892,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "手把手教你写出令人窒息的烂代码",
+        "link": "https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e",
+        "date": "2020-04-22"
+      },
+      {
         "title": "在阿里我是如何当面试官的",
         "link": "https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6",
         "date": "2020-04-21"
@@ -937,6 +952,11 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）",
+        "link": "https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43",
+        "date": "2020-04-22"
+      },
       {
         "title": "一起来看看 Babel 做了什么",
         "link": "https://www.ershicimi.com/p/8f073bef93e47208d60074750788276b",
@@ -995,6 +1015,11 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "我是如何把node接口耗时降低23%的",
+        "link": "https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232",
+        "date": "2020-04-22"
+      },
       {
         "title": "Service Worker：让你的 Web 应用牛逼起来",
         "link": "https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4",
@@ -3024,6 +3049,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "爬虫管理平台 Crawlab v0.4.10 发布（日志集中管理）",
+        "link": "https://www.v2ex.com/t/664863",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "人物关系图生成器",
+        "link": "https://www.v2ex.com/t/664862",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "PIL 换个字体， 就无法生成图片文件了",
+        "link": "https://www.v2ex.com/t/664861",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "最近越来越是睡不醒了啊...",
+        "link": "https://www.v2ex.com/t/664860",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "师傅上门安装小米智能锁，让我把米家 app 定位权限设为「总是允许」",
+        "link": "https://www.v2ex.com/t/664859",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "急需升级 10.15.5，有朋友知道大概什么时候发布吗？这电池健康度我要吐了",
+        "link": "https://www.v2ex.com/t/664858",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "supervisor 和 mysql 开机启动问题",
+        "link": "https://www.v2ex.com/t/664857",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "关于团队协作的一个小问题",
+        "link": "https://www.v2ex.com/t/664856",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "通过交管 12123 申请的驾照多久被可以提交身体健康证明？",
+        "link": "https://www.v2ex.com/t/664855",
+        "date": "2020-04-22"
+      },
       {
         "title": "今天大家有没有和我一样公司受疫情影响停止张薪的",
         "link": "https://www.v2ex.com/t/664854",

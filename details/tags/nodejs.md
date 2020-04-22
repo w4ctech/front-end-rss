@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,6 +9,7 @@
 
 - [2020-04-15-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/2cf5c2c6bb71ae4244219a7a43f5e101) 
 - [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
+- [2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232) 
 - [2020-04-17-Node.js-开发者-2020-年度报告](https://www.ershicimi.com/p/f6bfce33ad5d9e4caed7fd95e88c5389) 
 - [2020-04-14-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/f64b77860437fe0e795efe265a01a454) 
 - [2020-04-17-Nodejs-中基于-Stream-的多文件合并实现](https://www.ershicimi.com/p/537ac76be5a20ec7603b470d2fdfafa4) 

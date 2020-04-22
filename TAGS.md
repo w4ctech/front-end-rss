@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 02:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 02:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -427,6 +427,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】SQL-执行时间与优化问题](https://www.v2ex.com/t/665180)
 - [【V2EX】如何优化远程获取请求数据过大造成服务器报错的问题？](https://www.v2ex.com/t/665177)
 - [【技术头条】JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

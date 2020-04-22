@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-04-19-ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2) 
 - [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6) 
 - [2020-04-18-大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7) 
 - [2020-04-18-手把手教你原生-JS+WebGL-实现3D图片效果！](https://www.ershicimi.com/p/7cc502ab77c3f07cf0d6a2d2ab96a613) 
@@ -57,6 +58,16 @@
 - [2019-12-03-一起console.log引发的血案](https://juejin.im/post/5de3ed6e6fb9a0717f5af175) 
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
+- [2020-04-22-▶-What’s-New-in-JavaScript](https://javascriptweekly.com/link/63602/web) 
+- [2020-04-22-用于-JavaScript-开发的-Vim-设置指南](https://javascriptweekly.com/link/63619/web) 
+- [2020-04-22-Comlink-4.0：使-Web-Workers-简单易用](https://javascriptweekly.com/link/63603/web) 
+- [2020-04-22-Tippy.js：一个高度可自定义的-tooltip-和-popover-的库](https://javascriptweekly.com/link/63632/web) 
+- [2020-04-22-比起使用-Breakpoints-或-console.log，更快速的调试代码方式](https://javascriptweekly.com/link/63634/web) 
+- [2020-04-22-autoComplete.js：一个简单的纯-Vanilla-实现的自动完成库](https://javascriptweekly.com/link/63635/web) 
+- [2020-04-22-CSS-Only-Chat：不使用前端-JS-的'真正怪异'异步网络聊天](https://javascriptweekly.com/link/63636/web) 
+- [2020-04-22-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
+- [2020-04-22-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
+- [2020-04-22-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2020-04-22-JavaScript-如何判断鼠标在链接上呀](https://www.v2ex.com/t/664938) 
 - [2020-04-22-为什么类适配器模式中的目标抽象类只能为接口，不能为类？](https://www.v2ex.com/t/664935) 
 - [2020-04-22-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

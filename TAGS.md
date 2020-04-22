@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-22 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 14:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【前端早读课】【第1921期】React-16.8.6-版本存在内存泄露](https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a)
 - [【前端开发】前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397)
 - [【全栈前端精选】还没用React做过项目？2020年，就要面对现实了...](https://www.ershicimi.com/p/f506d0f14dc3b70a9d59eebd9f17df9d)
 - [【凹凸实验室】Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)
@@ -51,6 +52,8 @@
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
 - [【奇舞周刊】围观“33行代码的React”](https://www.ershicimi.com/p/f64504033c52c2e15ec7a2bfbbe9d994)
+- [【印记中文周刊】WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web)
+- [【印记中文周刊】▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web)
 - [【V2EX】Vue3.0-从入门到学会-React](https://www.v2ex.com/t/664932)
 - [......【查看更多】......](./details/tags/react.md)
 
@@ -72,6 +75,8 @@
 - [【Vue中文社区】12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755)
 - [【Vue中文社区】从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296)
 - [【Vue中文社区】重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6)
+- [【前端早读课】【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)
+- [【前端早读课】【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24)
 - [【前端迷】vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02)
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【凹凸实验室】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
@@ -82,6 +87,7 @@
 - [【InfoQ】只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd)
 - [【JavaScript】Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55)
 - [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
+- [【印记中文周刊】结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web)
 - [【V2EX】杭州-个推公司-内推-部门大量-web-前端（vue）、后端（node.js）全栈工程师-HC，欢迎各位朋友找我内推~](https://www.v2ex.com/t/664965)
 - [......【查看更多】......](./details/tags/vue.md)
 
@@ -164,6 +170,7 @@
 - [【凹凸实验室】Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/)
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
+- [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -269,6 +276,7 @@
 
 
 
+- [【前端早读课】ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2)
 - [【前端大全】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)
 - [【前端开发】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7)
 - [【前端大学】手把手教你原生-JS+WebGL-实现3D图片效果！](https://www.ershicimi.com/p/7cc502ab77c3f07cf0d6a2d2ab96a613)
@@ -288,7 +296,6 @@
 - [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
 - [【凹凸实验室】AT---前端-UI-组件库](https://aotu.io/notes/2017/08/28/at-ui/)
 - [【凹凸实验室】利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
-- [【凹凸实验室】了解-Fetch-API](https://aotu.io/notes/2017/04/10/fetch-API/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -436,6 +443,7 @@
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -580,6 +588,12 @@
 
 - [【Vue中文社区】初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)
 - [【Vue中文社区】程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)
+- [【前端早读课】【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508)
+- [【前端早读课】前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97)
+- [【前端早读课】【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae)
+- [【前端早读课】【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5)
+- [【前端早读课】【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec)
+- [【前端早读课】【第1918期】微前端在企业级应用中的实践上](https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2)
 - [【前端大全】前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e)
 - [【前端开发】20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2)
 - [【前端开发】三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd)
@@ -592,12 +606,6 @@
 - [【前端大学】直降¥3600！戴尔官网限时团购已开启，成团享特惠领走专属办公神器OptiPlex！](https://www.ershicimi.com/p/22be63b058fed3b183876604916d972e)
 - [【前端大学】用好这7个VS-Code插件，前端编程效率蹭蹭涨](https://www.ershicimi.com/p/71311b4c4a53d096c91d6fb674d4cbdd)
 - [【前端之巅】人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2)
-- [【前端之巅】前端生产方式：过去-10-年回顾和未来-10-年展望](https://www.ershicimi.com/p/06241786682ea5b4e314582ecf385bb2)
-- [【前端之巅】两个月业余时间赢70万大奖！OPPO-Watch的这份“兼职”你还不来看看？](https://www.ershicimi.com/p/ca82c0ab1d7ba512cf50eaf088c2d28a)
-- [【前端迷】前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3)
-- [【前端迷】移动端1px问题的几种常见解决方案](https://www.ershicimi.com/p/2273eae7fc93af9f6d29a54306aa6baf)
-- [【全栈前端精选】赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6)
-- [【全栈前端精选】推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

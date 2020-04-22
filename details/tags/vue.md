@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -11,6 +11,8 @@
 - [2020-04-20-12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755) 
 - [2020-04-19-从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296) 
 - [2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
+- [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) 
+- [2020-04-21-【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24) 
 - [2020-04-17-vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
@@ -21,4 +23,5 @@
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd) 
 - [2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
 - [2020-04-22-杭州-个推公司-内推-部门大量-web-前端（vue）、后端（node.js）全栈工程师-HC，欢迎各位朋友找我内推~](https://www.v2ex.com/t/664965) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,12 @@
 
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
+- [2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508) 
+- [2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97) 
+- [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) 
+- [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) 
+- [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
+- [2020-04-18-【第1918期】微前端在企业级应用中的实践上](https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) 
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
@@ -118,6 +124,11 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2020-04-22-▶-Angular-粉丝们值得关注！这是-ng-conf-2019-会议上的所有讨论](https://javascriptweekly.com/link/63606/web) 
+- [2020-04-22-Array.from-有了第二个参数](https://javascriptweekly.com/link/63620/web) 
+- [2020-04-22-开发人员指南，不要损失你需要的指标](https://javascriptweekly.com/link/63621/web) 
+- [2020-04-22-▶-观看创建一个交易机器人](https://javascriptweekly.com/link/63624/web) 
+- [2020-04-22-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
 - [2020-04-21-知乎故事-|-职场上哪种人最让人讨厌？](https://www.ershicimi.com/p/380d3c8447c19e2a5f603cf2cd8ec8b7) 
@@ -127,6 +138,9 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-最近公司用上了-TIDB，但是一直好奇这单词怎么读？](https://www.v2ex.com/t/664979) 
+- [2020-04-22-用周杰伦的方式给你介绍新技术腾讯云云开发《阳光云开发》](https://www.v2ex.com/t/664976) 
+- [2020-04-22-如何查看坛子中的精华贴？](https://www.v2ex.com/t/664975) 
 - [2020-04-22-该死的缩写，究竟能不能好好讲话啊？](https://www.v2ex.com/t/664973) 
 - [2020-04-22-关于-emqx-产品，如果根据多应用进行规则配置](https://www.v2ex.com/t/664972) 
 - [2020-04-22-Rust-在大数据分布式计算领域会有一席之地吗？](https://www.v2ex.com/t/664971) 

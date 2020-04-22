@@ -85,7 +85,58 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
-    "items": []
+    "items": [
+      {
+        "title": "【第1922期】从vue-router看前端路由的两种实现",
+        "link": "https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "【送书】423世界图书日第三期活动之博文视点前端书单",
+        "link": "https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "前端高级进阶：2020怎样才能更值钱？",
+        "link": "https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97",
+        "date": "2020-04-21"
+      },
+      {
+        "title": "【第1921期】React 16.8.6 版本存在内存泄露",
+        "link": "https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a",
+        "date": "2020-04-21"
+      },
+      {
+        "title": "【视频】@尤雨溪：State of Vue",
+        "link": "https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24",
+        "date": "2020-04-21"
+      },
+      {
+        "title": "【第1920期】如何监控网页的卡顿？",
+        "link": "https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae",
+        "date": "2020-04-20"
+      },
+      {
+        "title": "【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？",
+        "link": "https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5",
+        "date": "2020-04-20"
+      },
+      {
+        "title": "【第1919期】有效的用户引导策略&排坑",
+        "link": "https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec",
+        "date": "2020-04-19"
+      },
+      {
+        "title": "ECMAScript 2020新增特性",
+        "link": "https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2",
+        "date": "2020-04-19"
+      },
+      {
+        "title": "【第1918期】微前端在企业级应用中的实践(上)",
+        "link": "https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2",
+        "date": "2020-04-18"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/65",
@@ -2104,7 +2155,113 @@
     "rss": "https://rss.shab.fun/docschina/jsweekly",
     "title": "印记中文周刊",
     "link": "https://weekly.docschina.org",
-    "items": []
+    "items": [
+      {
+        "title": "结构化 Vuex 模块，以实现关联、速度和灵活性",
+        "link": "https://javascriptweekly.com/link/63628/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "▶  What’s New in JavaScript",
+        "link": "https://javascriptweekly.com/link/63602/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "WebStorm 中 React, Angular 和 Vue.js 的最佳体验",
+        "link": "https://javascriptweekly.com/link/63605/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "▶  Angular 粉丝们值得关注！这是 ng-conf 2019 会议上的所有讨论",
+        "link": "https://javascriptweekly.com/link/63606/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "用于 JavaScript 开发的 Vim 设置指南",
+        "link": "https://javascriptweekly.com/link/63619/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Array.from 有了第二个参数",
+        "link": "https://javascriptweekly.com/link/63620/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "开发人员指南，不要损失你需要的指标",
+        "link": "https://javascriptweekly.com/link/63621/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "构建 JavaScript 吉他效果器",
+        "link": "https://javascriptweekly.com/link/63622/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "▶  观看创建一个交易机器人",
+        "link": "https://javascriptweekly.com/link/63624/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Node.js 日志记录指南",
+        "link": "https://javascriptweekly.com/link/63625/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Comlink 4.0：使 Web Workers 简单易用",
+        "link": "https://javascriptweekly.com/link/63603/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "▶  React Hooks 实操介绍",
+        "link": "https://javascriptweekly.com/link/63630/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Tippy.js：一个高度可自定义的 tooltip 和 popover 的库",
+        "link": "https://javascriptweekly.com/link/63632/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Cash：用于现代浏览器的 jQuery 微型替代",
+        "link": "https://javascriptweekly.com/link/63633/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "比起使用 Breakpoints 或 console.log，更快速的调试代码方式",
+        "link": "https://javascriptweekly.com/link/63634/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "autoComplete.js：一个简单的纯 Vanilla 实现的自动完成库",
+        "link": "https://javascriptweekly.com/link/63635/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "CSS Only Chat：不使用前端 JS 的'真正怪异'异步网络聊天",
+        "link": "https://javascriptweekly.com/link/63636/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Hybrids：一个用于从纯对象和函数来创建 Web Components 的 UI 库",
+        "link": "https://javascriptweekly.com/link/63637/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "获得最快的网站部署。免费入门",
+        "link": "https://javascriptweekly.com/link/63642/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "dinoql：对本地 JavaScript 对象进行 GraphQL 风格查询",
+        "link": "https://javascriptweekly.com/link/63638/web",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "使用 JavaScript 重新加载页面的 535 种方法",
+        "link": "https://javascriptweekly.com/link/63639/web",
+        "date": "2020-04-22"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/10647",
@@ -2174,6 +2331,21 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "最近公司用上了 TIDB，但是一直好奇这单词怎么读？",
+        "link": "https://www.v2ex.com/t/664979",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "用周杰伦的方式给你介绍新技术腾讯云云开发《阳光云开发》",
+        "link": "https://www.v2ex.com/t/664976",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "如何查看坛子中的精华贴？",
+        "link": "https://www.v2ex.com/t/664975",
+        "date": "2020-04-22"
+      },
       {
         "title": "该死的缩写，究竟能不能好好讲话啊？",
         "link": "https://www.v2ex.com/t/664973",

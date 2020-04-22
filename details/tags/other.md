@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -139,6 +139,9 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-aarch64-的芯片有-cpuid-吗？](https://www.v2ex.com/t/665087) 
+- [2020-04-22-部分-win-程序窗口大小是不是无法修改？](https://www.v2ex.com/t/665085) 
+- [2020-04-22-34-寸带鱼屏显示器求推荐？](https://www.v2ex.com/t/665083) 
 - [2020-04-22-LeetCode-新题,-聒噪的青蛙,-参考](https://www.v2ex.com/t/665081) 
 - [2020-04-22-港版-iPhone-SE-支持双卡，其中一个是-esim-模式，那么-esim-卡在大陆可以使用吗？](https://www.v2ex.com/t/665079) 
 - [2020-04-22-ebay-购物这种是套路么](https://www.v2ex.com/t/665078) 

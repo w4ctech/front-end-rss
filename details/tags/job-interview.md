@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -16,6 +16,12 @@
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/8bf63492874d14cbc76cfce3caf9ae5c) 
 - [2020-04-16-两年工作经验成功面试阿里P6总结](https://www.ershicimi.com/p/8841528ec2e3cd316799b0f486563f1d) 
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
+- [2020-04-22-求职亚马逊之最难逾越的大山——行为面试（BQ](https://www.v2ex.com/t/664995) 
 - [2020-04-22-长沙医药公司招聘-PHP-开发](https://www.v2ex.com/t/664926) 
 - [2020-04-22-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-面试-Google,-我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev) 
+- [2020-04-22-Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr) 
+- [2020-04-22-推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy) 
+- [2020-04-22-推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje) 
+- [2020-04-22-推荐-Java-开发-4-年，3-个月面试，终于拿到美团、京东、字节-Offer](https://toutiao.io/k/q8oed1o) 

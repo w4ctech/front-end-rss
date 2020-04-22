@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 14:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 15:00:20，:rocket: 更新条数: +59， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -294,6 +294,7 @@
 </summary>
 
 
+- [2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b) ![](assets/new.png)  
 - [2020-04-21-Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b)  
 - [2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/c9b0a43ba156bec22c228b099cc1a582)  
 - [2020-04-19-赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6)  
@@ -446,6 +447,7 @@
 </summary>
 
 
+- [2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
 - [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/)  
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)  
 - [2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/)  
@@ -465,7 +467,6 @@
 - [2019-09-25-玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)  
 - [2019-09-11-从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)  
 - [2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)  
-- [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -689,26 +690,26 @@
 </summary>
 
 
-- [2020-04-22-Ubuntu-20.04-LTS-Focal-Fossa-即将于-2020-年-4-月-23-日新鲜出炉](https://www.v2ex.com/t/664990) ![](assets/new.png)  
-- [2020-04-22-求助：公司拖欠工资-3-个月，入职下家公司，社保能继续缴纳吗？](https://www.v2ex.com/t/664989) ![](assets/new.png)  
-- [2020-04-22-你们会在自己的开源项目上开启捐赠入口吗？](https://www.v2ex.com/t/664987) ![](assets/new.png)  
-- [2020-04-22-云音乐-HC-多的很，个端都需要-ios-android-Java-策划-大数据-啥都要](https://www.v2ex.com/t/664986) ![](assets/new.png)  
-- [2020-04-22-内推-火热-网易雷火帮忙内推](https://www.v2ex.com/t/664985) ![](assets/new.png)  
-- [2020-04-22-两个人相互监督学习，求-V-友们想个惩罚措施](https://www.v2ex.com/t/664984) ![](assets/new.png)  
-- [2020-04-22-麻烦老哥推荐下北京海淀附近有什么按摩店,最近坐的腰疼!](https://www.v2ex.com/t/664983) ![](assets/new.png)  
-- [2020-04-22-segmentfault-还要关多久呢？](https://www.v2ex.com/t/664982) ![](assets/new.png)  
-- [2020-04-22-请教下，阿里云两台-ECS-服务器做负载均衡，数据库是不是必须要迁移到-RDS-云数据库上？如果另外想办法让两台服务器数据库双向同步来保持数据一致行不行的？](https://www.v2ex.com/t/664981) ![](assets/new.png)  
-- [2020-04-22-求助-有大佬有-Xmind-的优惠码吗？](https://www.v2ex.com/t/664980) ![](assets/new.png)  
-- [2020-04-22-最近公司用上了-TIDB，但是一直好奇这单词怎么读？](https://www.v2ex.com/t/664979)  
-- [2020-04-22-用周杰伦的方式给你介绍新技术腾讯云云开发《阳光云开发》](https://www.v2ex.com/t/664976)  
-- [2020-04-22-如何查看坛子中的精华贴？](https://www.v2ex.com/t/664975)  
-- [2020-04-22-该死的缩写，究竟能不能好好讲话啊？](https://www.v2ex.com/t/664973)  
-- [2020-04-22-关于-emqx-产品，如果根据多应用进行规则配置](https://www.v2ex.com/t/664972)  
-- [2020-04-22-Rust-在大数据分布式计算领域会有一席之地吗？](https://www.v2ex.com/t/664971)  
-- [2020-04-22-求推荐一款笔记本电脑品牌及型号配置](https://www.v2ex.com/t/664970)  
-- [2020-04-22-请教：延时任务有没有好的开源工具，最好是-golang-的？](https://www.v2ex.com/t/664969)  
-- [2020-04-22-前端、全栈岗若干，欢迎大神们加入，一起奋斗一起进步](https://www.v2ex.com/t/664968)  
-- [2020-04-22-杭州-云音乐|IOS-开发|android-开发|-Java](https://www.v2ex.com/t/664967)  
+- [2020-04-22-Kubernetes-CronJob-中声明的-Resource-Request-在-Job-没有-active-的时候会占用节点-Request-资源吗?](https://www.v2ex.com/t/665002) ![](assets/new.png)  
+- [2020-04-22-是否有能在浏览器环境下运行的字体合并/拆分/编辑应用呢？](https://www.v2ex.com/t/665001) ![](assets/new.png)  
+- [2020-04-22-你们有在用-WPS-吗？](https://www.v2ex.com/t/665000) ![](assets/new.png)  
+- [2020-04-22-老哥们，想实战学前端什么网站合适啊？](https://www.v2ex.com/t/664999) ![](assets/new.png)  
+- [2020-04-22-问一个-postgresql-传参问题](https://www.v2ex.com/t/664998) ![](assets/new.png)  
+- [2020-04-22-有什么免费好用的抢购软件，抢-MT](https://www.v2ex.com/t/664997) ![](assets/new.png)  
+- [2020-04-22-虎牙-直播-广州/深圳/北京/海外](https://www.v2ex.com/t/664996) ![](assets/new.png)  
+- [2020-04-22-求职亚马逊之最难逾越的大山——行为面试（BQ](https://www.v2ex.com/t/664995) ![](assets/new.png)  
+- [2020-04-22-上海-米哈游-内推-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各位大佬自荐以及推荐](https://www.v2ex.com/t/664994) ![](assets/new.png)  
+- [2020-04-22-dump-是什么意思？](https://www.v2ex.com/t/664993) ![](assets/new.png)  
+- [2020-04-22-北归杭创业-2-年，诚邀在杭或可来杭州的-PHP-技术合伙人！（凑热闹/兼职/公司/以上三类请绕道）](https://www.v2ex.com/t/664992) ![](assets/new.png)  
+- [2020-04-22-有没有写的比较通俗易懂好操作的有关-git-使用的文档？](https://www.v2ex.com/t/664991) ![](assets/new.png)  
+- [2020-04-22-Ubuntu-20.04-LTS-Focal-Fossa-即将于-2020-年-4-月-23-日新鲜出炉](https://www.v2ex.com/t/664990)  
+- [2020-04-22-求助：公司拖欠工资-3-个月，入职下家公司，社保能继续缴纳吗？](https://www.v2ex.com/t/664989)  
+- [2020-04-22-你们会在自己的开源项目上开启捐赠入口吗？](https://www.v2ex.com/t/664987)  
+- [2020-04-22-云音乐-HC-多的很，个端都需要-ios-android-Java-策划-大数据-啥都要](https://www.v2ex.com/t/664986)  
+- [2020-04-22-内推-火热-网易雷火帮忙内推](https://www.v2ex.com/t/664985)  
+- [2020-04-22-两个人相互监督学习，求-V-友们想个惩罚措施](https://www.v2ex.com/t/664984)  
+- [2020-04-22-麻烦老哥推荐下北京海淀附近有什么按摩店,最近坐的腰疼!](https://www.v2ex.com/t/664983)  
+- [2020-04-22-segmentfault-还要关多久呢？](https://www.v2ex.com/t/664982)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -751,6 +752,26 @@
 </summary>
 
 
+- [2020-04-22-自学编程的八大误区！克服它](https://toutiao.io/k/723yjno) ![](assets/new.png)  
+- [2020-04-22-架构师技术图谱，助你早日成为架构师](https://toutiao.io/k/8lhpf6) ![](assets/new.png)  
+- [2020-04-22-Linux-下按照文件大小查找文件](https://toutiao.io/k/t83k218) ![](assets/new.png)  
+- [2020-04-22-面试-Google,-我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev) ![](assets/new.png)  
+- [2020-04-22-谈谈一写多读的高效并发控制](https://toutiao.io/k/ccwxp0l) ![](assets/new.png)  
+- [2020-04-22-记一次网络读过程（简化版）](https://toutiao.io/k/3dqb2io) ![](assets/new.png)  
+- [2020-04-22-算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6) ![](assets/new.png)  
+- [2020-04-22-Java-8-Stream-总结](https://toutiao.io/k/4rghiro) ![](assets/new.png)  
+- [2020-04-22-CEO-的-1-元年薪起源](https://toutiao.io/k/5vrrug5) ![](assets/new.png)  
+- [2020-04-22-Jenkins-Pipeline-系列（一）：如何配置扩展共享库](https://toutiao.io/k/75ibiqr) ![](assets/new.png)  
+- [2020-04-22-图解B树](https://toutiao.io/k/hgm7dba) ![](assets/new.png)  
+- [2020-04-22-你的-Kubernetes/Openshift-集群备份了吗？](https://toutiao.io/k/wjjwtyx) ![](assets/new.png)  
+- [2020-04-22-漫谈分布式系统（九）：初探数据一致性](https://toutiao.io/k/hhtfcoh) ![](assets/new.png)  
+- [2020-04-22-Flutter-Web-网站之-Jetpack-成型](https://toutiao.io/k/ve5cy57) ![](assets/new.png)  
+- [2020-04-22-强化学习中价值迭代和策略迭代各有什么优缺点？](https://toutiao.io/k/6d3oss3) ![](assets/new.png)  
+- [2020-04-22-不会写爬虫咋办？8k-Star-的-Python-爬虫例子拿去](https://toutiao.io/k/ocurgno) ![](assets/new.png)  
+- [2020-04-22-译-OKR-介绍](https://toutiao.io/k/x6ufv2i) ![](assets/new.png)  
+- [2020-04-22-Apache-Kafka-2.5-稳定版发布，新特性抢先看](https://toutiao.io/k/9oacyxc) ![](assets/new.png)  
+- [2020-04-22-十年难得一遇！从数据误删到全量恢复的惊险记录](https://toutiao.io/k/zy12h7y) ![](assets/new.png)  
+- [2020-04-22-PHP-8-正式版将于年底发布](https://toutiao.io/k/vnyp4dt) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -432,6 +432,11 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "Redux/react-redux/redux中间件设计实现剖析",
+        "link": "https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b",
+        "date": "2020-04-22"
+      },
+      {
         "title": "Webpack 新功能 Module Federation 深入解析",
         "link": "https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b",
         "date": "2020-04-21"
@@ -759,6 +764,11 @@
     "title": "凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Atom 服务架构演变",
+        "link": "https://aotu.io/notes/2020/04/21/atom-services-upgrade/",
+        "date": "2020-04-21"
+      },
       {
         "title": "Taro Next H5 跨框架组件库实践",
         "link": "https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/",
@@ -2332,6 +2342,66 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Kubernetes CronJob 中声明的 Resource Request 在 Job 没有 active 的时候会占用节点 Request 资源吗?",
+        "link": "https://www.v2ex.com/t/665002",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "是否有能在浏览器环境下运行的字体合并/拆分/编辑应用呢？",
+        "link": "https://www.v2ex.com/t/665001",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "你们有在用 WPS 吗？",
+        "link": "https://www.v2ex.com/t/665000",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "老哥们，想实战学前端什么网站合适啊？",
+        "link": "https://www.v2ex.com/t/664999",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "问一个 postgresql 传参问题",
+        "link": "https://www.v2ex.com/t/664998",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "有什么免费好用的抢购软件，抢 MT",
+        "link": "https://www.v2ex.com/t/664997",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "虎牙 直播 [广州/深圳/北京/海外]",
+        "link": "https://www.v2ex.com/t/664996",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "求职亚马逊之最难逾越的大山——行为面试（BQ)",
+        "link": "https://www.v2ex.com/t/664995",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[上海-米哈游-内推] 开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各位大佬自荐以及推荐",
+        "link": "https://www.v2ex.com/t/664994",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "dump 是什么意思？",
+        "link": "https://www.v2ex.com/t/664993",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "北归杭创业 2 年，诚邀在杭或可来杭州的 PHP 技术合伙人！（凑热闹/兼职/公司/以上三类请绕道）",
+        "link": "https://www.v2ex.com/t/664992",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "有没有写的比较通俗易懂好操作的有关 git 使用的文档？",
+        "link": "https://www.v2ex.com/t/664991",
+        "date": "2020-04-22"
+      },
+      {
         "title": "Ubuntu 20.04 LTS (Focal Fossa) 即将于 2020 年 4 月 23 日新鲜出炉",
         "link": "https://www.v2ex.com/t/664990",
         "date": "2020-04-22"
@@ -2729,6 +2799,232 @@
     "rss": "https://rss.shab.fun/toutiao/today",
     "title": "开发者头条",
     "link": "https://toutiao.io",
-    "items": []
+    "items": [
+      {
+        "title": "自学编程的八大误区！克服它",
+        "link": "https://toutiao.io/k/723yjno",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "架构师技术图谱，助你早日成为架构师",
+        "link": "https://toutiao.io/k/8lhpf6",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Linux 下按照文件大小查找文件",
+        "link": "https://toutiao.io/k/t83k218",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "面试 Google, 我失败了（Google 面经分享）",
+        "link": "https://toutiao.io/k/9o0qwev",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "谈谈一写多读的高效并发控制",
+        "link": "https://toutiao.io/k/ccwxp0l",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "记一次网络读过程（简化版）",
+        "link": "https://toutiao.io/k/3dqb2io",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "算法工程师的数学基础：概率论",
+        "link": "https://toutiao.io/k/sa7wdg6",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Java 8 Stream 总结",
+        "link": "https://toutiao.io/k/4rghiro",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "CEO 的 1 元年薪起源",
+        "link": "https://toutiao.io/k/5vrrug5",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Jenkins Pipeline 系列（一）：如何配置扩展共享库",
+        "link": "https://toutiao.io/k/75ibiqr",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "图解B树",
+        "link": "https://toutiao.io/k/hgm7dba",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "你的 Kubernetes/Openshift 集群备份了吗？",
+        "link": "https://toutiao.io/k/wjjwtyx",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "漫谈分布式系统（九）：初探数据一致性",
+        "link": "https://toutiao.io/k/hhtfcoh",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Flutter Web 网站之 Jetpack 成型",
+        "link": "https://toutiao.io/k/ve5cy57",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "强化学习中价值迭代和策略迭代各有什么优缺点？",
+        "link": "https://toutiao.io/k/6d3oss3",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "不会写爬虫咋办？8k Star 的 Python 爬虫例子拿去",
+        "link": "https://toutiao.io/k/ocurgno",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[译] OKR 介绍",
+        "link": "https://toutiao.io/k/x6ufv2i",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Apache Kafka 2.5 稳定版发布，新特性抢先看",
+        "link": "https://toutiao.io/k/9oacyxc",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "十年难得一遇！从数据误删到全量恢复的惊险记录",
+        "link": "https://toutiao.io/k/zy12h7y",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "PHP 8 正式版将于年底发布",
+        "link": "https://toutiao.io/k/vnyp4dt",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "图解数据库事务隔离级别",
+        "link": "https://toutiao.io/k/o4k8v7e",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "技术解析：One World Together 为什么不是实时合唱？",
+        "link": "https://toutiao.io/k/3ykbnvl",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "漫画：工作这么多年，你居然不知道 Maven 中 Optional 和 Exclusions 的区别？",
+        "link": "https://toutiao.io/k/2jb29sm",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Gitflow 分支管理策略",
+        "link": "https://toutiao.io/k/efwj4p6",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "如何搞定某些网站不让复制文字",
+        "link": "https://toutiao.io/k/kmn3v79",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[译] 花时间投资自己",
+        "link": "https://toutiao.io/k/0feii1c",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "广告行业中那些趣事（九）：一网打尽 Youtube 深度学习推荐系统",
+        "link": "https://toutiao.io/k/zrwcb0m",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "文件系统基本概念及常用操作解释",
+        "link": "https://toutiao.io/k/wvaulw4",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "监控 POD 时，我们在监控什么",
+        "link": "https://toutiao.io/k/ck99y8v",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Redis 基础知识总结（面试必备）",
+        "link": "https://toutiao.io/k/hbtpocr",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 2.7w+ Star，手撕 LeetCode 题目，让算法套路见鬼去吧！",
+        "link": "https://toutiao.io/k/elc6zfq",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 从 Spring Cloud 到 Kubernetes 的微服务迁移实践",
+        "link": "https://toutiao.io/k/sjtb4uj",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 程序员职场背锅甩锅指南",
+        "link": "https://toutiao.io/k/wsrxke7",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答",
+        "link": "https://toutiao.io/k/8blw2hy",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] Spring MVC 相关面试题就是无底洞，反正我是怕了",
+        "link": "https://toutiao.io/k/zrlipje",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] Java 开发 4 年，3 个月面试，终于拿到美团、京东、字节 Offer",
+        "link": "https://toutiao.io/k/q8oed1o",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 领域驱动分层架构与对象模型",
+        "link": "https://toutiao.io/k/y3l6bth",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 我总结了 12 个 Vue.js 开发技巧和窍门",
+        "link": "https://toutiao.io/k/gkuojua",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] Java 工程师成神之路（2020 正式版）",
+        "link": "https://toutiao.io/k/fu1vftn",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 用匠心精神，打造高可用分布式系统",
+        "link": "https://toutiao.io/k/tmdintk",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] 你必须会的 JDK 动态代理和 CGLIB 动态代理",
+        "link": "https://toutiao.io/k/9nbbqxu",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] Elasticsearch 开发人员最佳实战指南",
+        "link": "https://toutiao.io/k/qat1jxo",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] [译] Spring 中的设计模式",
+        "link": "https://toutiao.io/k/y5tucha",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] Java 并发编程：多线程并发访问，同步控制",
+        "link": "https://toutiao.io/k/hahvtur",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "[推荐] MySQL 死锁与 Spring 事务",
+        "link": "https://toutiao.io/k/3mta5kv",
+        "date": "2020-04-22"
+      }
+    ]
   }
 ]

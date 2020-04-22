@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -9,6 +9,7 @@
 
 - [2020-04-21-【第1921期】React-16.8.6-版本存在内存泄露](https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a) 
 - [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397) 
+- [2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b) 
 - [2020-04-17-还没用React做过项目？2020年，就要面对现实了...](https://www.ershicimi.com/p/f506d0f14dc3b70a9d59eebd9f17df9d) 
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/) 
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/) 

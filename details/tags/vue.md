@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -25,3 +25,4 @@
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
 - [2020-04-22-杭州-个推公司-内推-部门大量-web-前端（vue）、后端（node.js）全栈工程师-HC，欢迎各位朋友找我内推~](https://www.v2ex.com/t/664965) 
+- [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) 

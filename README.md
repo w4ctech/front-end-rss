@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 04:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 05:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -706,7 +706,7 @@
 </summary>
 
 
-- [2020-04-23-宝塔主站好像挂了？](https://www.v2ex.com/t/665184) ![](assets/new.png)  
+- [2020-04-23-宝塔主站好像挂了？](https://www.v2ex.com/t/665184)  
 - [2020-04-23-公司测试手机丢了，需要赔偿吗。](https://www.v2ex.com/t/665183)  
 - [2020-04-23-咨询一个视频抓取的-m3u8-无法播放](https://www.v2ex.com/t/665182)  
 - [2020-04-23-重构了一波自己的博客，开心，想听老铁们夸夸我🤪](https://www.v2ex.com/t/665181)  
@@ -768,6 +768,7 @@
 </summary>
 
 
+- [2020-04-23-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt) ![](assets/new.png)  
 - [2020-04-23-推荐-漫谈分布式事务的那些解决方案](https://toutiao.io/k/a21b8ih)  
 - [2020-04-23-推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq)  
 - [2020-04-23-推荐-挖财-Kubernetes-容器化之路](https://toutiao.io/k/ry9vzfu)  
@@ -787,7 +788,6 @@
 - [2020-04-22-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29)  
 - [2020-04-22-推荐-Java-代码热更新工具，节省宝贵时间](https://toutiao.io/k/51c0v87)  
 - [2020-04-22-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
-- [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

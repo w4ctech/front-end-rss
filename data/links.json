@@ -2422,6 +2422,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "pywin32 win32gui.EnumWindows() 如何去除无意义的窗口句柄",
+        "link": "https://www.v2ex.com/t/665175",
+        "date": "2020-04-23"
+      },
+      {
         "title": "晚上好啊。人脸识别设备相关的问题。请教一下大佬。",
         "link": "https://www.v2ex.com/t/665174",
         "date": "2020-04-23"

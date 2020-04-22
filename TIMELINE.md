@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-22 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -339,6 +339,7 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-22-问一下，是不是-pandownload-作者事件，导致了百度网盘公开搞出了这个用户激励计划？有懂的来说说！](https://www.v2ex.com/t/664847) 
 - [【V2EX】2020-04-22-Brix-远程工程师社区群召集令](https://www.v2ex.com/t/664846) 
 - [【V2EX】2020-04-22-零成本搭建现代博客之加载速度优化篇（加载速度优化-•-Chrome-Audits-•-webpagetest-•-图片优化-•-CDN-•-AMP-•-广告加载优化）](https://www.v2ex.com/t/664845) 
 - [【V2EX】2020-04-22-各位老兄,有没有流量卡?不用打电话,要能发短信,买来当另一个手机号用到](https://www.v2ex.com/t/664844) 
@@ -426,6 +427,10 @@
 - [【技术头条】2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13378&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FU95bIOws-mnya3zqmY0AJQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-21-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13377&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsSg_Q4sPVEwH97f3vyEHTg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-22-记一次网络读过程（简化版）](https://toutiao.io/k/3dqb2io) 
+- [【开发者头条】2020-04-22-Jenkins-Pipeline-系列（一）：如何配置扩展共享库](https://toutiao.io/k/75ibiqr) 
+- [【开发者头条】2020-04-22-谈谈一写多读的高效并发控制](https://toutiao.io/k/ccwxp0l) 
+- [【开发者头条】2020-04-22-漫画：工作这么多年，你居然不知道-Maven-中-Optional-和-Exclusions-的区别？](https://toutiao.io/k/2jb29sm) 
 - [【开发者头条】2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) 
 - [【开发者头条】2020-04-22-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g) 
 - [【开发者头条】2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb) 

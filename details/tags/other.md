@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -249,6 +249,10 @@
 - [2020-04-21-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-21-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-21-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-记一次网络读过程（简化版）](https://toutiao.io/k/3dqb2io) 
+- [2020-04-22-Jenkins-Pipeline-系列（一）：如何配置扩展共享库](https://toutiao.io/k/75ibiqr) 
+- [2020-04-22-谈谈一写多读的高效并发控制](https://toutiao.io/k/ccwxp0l) 
+- [2020-04-22-漫画：工作这么多年，你居然不知道-Maven-中-Optional-和-Exclusions-的区别？](https://toutiao.io/k/2jb29sm) 
 - [2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) 
 - [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb) 
 - [2020-04-22-推荐-收获人生第一个-5k-Star-开源项目，经验教训分享给大家](https://toutiao.io/k/jofs08f) 

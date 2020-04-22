@@ -3005,6 +3005,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "问一下，是不是 pandownload 作者事件，导致了百度网盘公开搞出了这个用户激励计划？有懂的来说说！",
+        "link": "https://www.v2ex.com/t/664847",
+        "date": "2020-04-22"
+      },
+      {
         "title": "Brix 远程工程师社区群召集令",
         "link": "https://www.v2ex.com/t/664846",
         "date": "2020-04-22"
@@ -3453,6 +3458,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "记一次网络读过程（简化版）",
+        "link": "https://toutiao.io/k/3dqb2io",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "Jenkins Pipeline 系列（一）：如何配置扩展共享库",
+        "link": "https://toutiao.io/k/75ibiqr",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "谈谈一写多读的高效并发控制",
+        "link": "https://toutiao.io/k/ccwxp0l",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "漫画：工作这么多年，你居然不知道 Maven 中 Optional 和 Exclusions 的区别？",
+        "link": "https://toutiao.io/k/2jb29sm",
+        "date": "2020-04-22"
+      },
       {
         "title": "[推荐] 抖音爬虫原理大揭秘",
         "link": "https://toutiao.io/k/7y8j3z1",

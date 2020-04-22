@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-22 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-22 08:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -822,11 +822,12 @@
 </summary>
 
 
-- [2020-04-22-Brix-远程工程师社区群召集令](https://www.v2ex.com/t/664846) ![](assets/new.png)  
-- [2020-04-22-零成本搭建现代博客之加载速度优化篇（加载速度优化-•-Chrome-Audits-•-webpagetest-•-图片优化-•-CDN-•-AMP-•-广告加载优化）](https://www.v2ex.com/t/664845) ![](assets/new.png)  
-- [2020-04-22-各位老兄,有没有流量卡?不用打电话,要能发短信,买来当另一个手机号用到](https://www.v2ex.com/t/664844) ![](assets/new.png)  
-- [2020-04-22-我的台式电脑用-vs2017-intelligence-会卡顿-完全没有我笔记本流畅](https://www.v2ex.com/t/664843) ![](assets/new.png)  
-- [2020-04-22-北京-5-月-1-号开始施行强制垃圾分类了](https://www.v2ex.com/t/664842) ![](assets/new.png)  
+- [2020-04-22-问一下，是不是-pandownload-作者事件，导致了百度网盘公开搞出了这个用户激励计划？有懂的来说说！](https://www.v2ex.com/t/664847) ![](assets/new.png)  
+- [2020-04-22-Brix-远程工程师社区群召集令](https://www.v2ex.com/t/664846)  
+- [2020-04-22-零成本搭建现代博客之加载速度优化篇（加载速度优化-•-Chrome-Audits-•-webpagetest-•-图片优化-•-CDN-•-AMP-•-广告加载优化）](https://www.v2ex.com/t/664845)  
+- [2020-04-22-各位老兄,有没有流量卡?不用打电话,要能发短信,买来当另一个手机号用到](https://www.v2ex.com/t/664844)  
+- [2020-04-22-我的台式电脑用-vs2017-intelligence-会卡顿-完全没有我笔记本流畅](https://www.v2ex.com/t/664843)  
+- [2020-04-22-北京-5-月-1-号开始施行强制垃圾分类了](https://www.v2ex.com/t/664842)  
 - [2020-04-22-编译云豹直播-app-出现-Expected-identifier-or-''求大佬](https://www.v2ex.com/t/664841)  
 - [2020-04-22-Remote---远程-海外-Growth-Marketer](https://www.v2ex.com/t/664840)  
 - [2020-04-22-4K-电视可以替代-4K-显示器吗？](https://www.v2ex.com/t/664839)  
@@ -841,7 +842,6 @@
 - [2020-04-22-万能的-V-友，求这首歌的背景音乐](https://www.v2ex.com/t/664826)  
 - [2020-04-22-vs-标准库-源码注释问题能不能想-Java-一样；](https://www.v2ex.com/t/664825)  
 - [2020-04-22-Azure-DevOps-其实也挺香的](https://www.v2ex.com/t/664824)  
-- [2020-04-22-github-大部分服务爆炸](https://www.v2ex.com/t/664823)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -884,6 +884,10 @@
 </summary>
 
 
+- [2020-04-22-记一次网络读过程（简化版）](https://toutiao.io/k/3dqb2io) ![](assets/new.png)  
+- [2020-04-22-Jenkins-Pipeline-系列（一）：如何配置扩展共享库](https://toutiao.io/k/75ibiqr) ![](assets/new.png)  
+- [2020-04-22-谈谈一写多读的高效并发控制](https://toutiao.io/k/ccwxp0l) ![](assets/new.png)  
+- [2020-04-22-漫画：工作这么多年，你居然不知道-Maven-中-Optional-和-Exclusions-的区别？](https://toutiao.io/k/2jb29sm) ![](assets/new.png)  
 - [2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1)  
 - [2020-04-22-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g)  
 - [2020-04-22-推荐-IM-服务器设计：消息存储](https://toutiao.io/k/disp4wb)  
@@ -900,10 +904,6 @@
 - [2020-04-22-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19)  
 - [2020-04-22-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm)  
 - [2020-04-22-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn)  
-- [2020-04-22-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)  
-- [2020-04-22-推荐-Java-并发编程：多线程并发访问，同步控制](https://toutiao.io/k/hahvtur)  
-- [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua)  
-- [2020-04-22-推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

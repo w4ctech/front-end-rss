@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,6 +16,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-04-22-（长期有效）欢聚时代（yy，-bigo，一件电商，-100-教育）内推通道，速度快，直达面试官！包括：前端、后端、算法、产品、运营等岗位](https://www.v2ex.com/t/665096) 
 - [2020-04-22-elasticsearch-怎么读？](https://www.v2ex.com/t/665080) 
 - [2020-04-22-前端、全栈岗若干，欢迎大神们加入，一起奋斗一起进步](https://www.v2ex.com/t/664968) 
 - [2020-04-22-算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6) 

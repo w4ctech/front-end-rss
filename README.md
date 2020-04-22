@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 00:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 01:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -706,6 +706,17 @@
 </summary>
 
 
+- [2020-04-23-晚上好啊。人脸识别设备相关的问题。请教一下大佬。](https://www.v2ex.com/t/665174) ![](assets/new.png)  
+- [2020-04-23-求推荐-150-300-美刀左右能提升在家办公体验的物品](https://www.v2ex.com/t/665173) ![](assets/new.png)  
+- [2020-04-23-MacbookPro-2017-底座不平，按压前端两侧，整个底座会翘起来。这是设计上的失误吗？](https://www.v2ex.com/t/665172) ![](assets/new.png)  
+- [2020-04-23-阿里数据库中间件能同步-mysql。和-h2-数据库吗](https://www.v2ex.com/t/665170) ![](assets/new.png)  
+- [2020-04-23-虚拟机-docker-私有-registory-搭好无法访问，防火墙都关了还是-telnet-不到端口，哪位屌大老哥帮忙看看~](https://www.v2ex.com/t/665168) ![](assets/new.png)  
+- [2020-04-23-docker-报错:request-canceled-while-waiting-for-connection](https://www.v2ex.com/t/665167) ![](assets/new.png)  
+- [2020-04-23-成都/杭州-蚂蚁金服基础安全团队招-Java-工程师-P6/P7/P8，欢迎来撩！](https://www.v2ex.com/t/665166) ![](assets/new.png)  
+- [2020-04-23-20200422-午夜俱乐部](https://www.v2ex.com/t/665165) ![](assets/new.png)  
+- [2020-04-23-弱者就可以在道德上处于上风吗？](https://www.v2ex.com/t/665164) ![](assets/new.png)  
+- [2020-04-23-virtualenv-中的-Python-版本低了，可以直接升级-Python-版本吗？](https://www.v2ex.com/t/665163) ![](assets/new.png)  
+- [2020-04-23-iPhone-SE-2-评测解禁，看了一圈，没一个-geekbench-跑分的，没一个确认-RAM=3GB-的](https://www.v2ex.com/t/665162) ![](assets/new.png)  
 - [2020-04-22-所以-5-月真的等得到-2020mbp-嘛](https://www.v2ex.com/t/665161)  
 - [2020-04-22-请教一个关于程序设计上的问题。](https://www.v2ex.com/t/665160)  
 - [2020-04-22-Mayday，-Mayday！受不了了，请问下苹果设备-5g-wifi-掉线的问题](https://www.v2ex.com/t/665159)  
@@ -715,17 +726,6 @@
 - [2020-04-22-技术博客笔记大汇总](https://www.v2ex.com/t/665155)  
 - [2020-04-22-家里网速-200m，但墙里的线限制到-100m，有人知道怎么破吗？](https://www.v2ex.com/t/665154)  
 - [2020-04-22-感觉-MTK-从-7615-开始无线确实翻身了](https://www.v2ex.com/t/665153)  
-- [2020-04-22-看到一个发红包-tg-bot-项目](https://www.v2ex.com/t/665152)  
-- [2020-04-22-请问为什么-FTTB-还要一个猫，一直没搞清楚](https://www.v2ex.com/t/665150)  
-- [2020-04-22-MacBook-Pro-最近一直无缘无故就死机-Retina,-13-inch,-Early-2015-2.9-GHz-Intel-Core-i5](https://www.v2ex.com/t/665149)  
-- [2020-04-22-阿里这电话面试是不定时吗？约的时间也没打啊](https://www.v2ex.com/t/665148)  
-- [2020-04-22-iPad-如何安装广告屏蔽插件](https://www.v2ex.com/t/665147)  
-- [2020-04-22-你们都是怎样学习算法和数据结构，做到面试算法题心有成竹，信手拈来的？](https://www.v2ex.com/t/665146)  
-- [2020-04-22-做了一个关于优惠信息的公众号「日惠」](https://www.v2ex.com/t/665145)  
-- [2020-04-22-在浏览器里运行-quake](https://www.v2ex.com/t/665144)  
-- [2020-04-22-网站迁移海外服务器的各种尝试](https://www.v2ex.com/t/665143)  
-- [2020-04-22-有没有教买菜、择菜、洗菜、切菜的-APP？](https://www.v2ex.com/t/665142)  
-- [2020-04-22-现在用-spark-mllib-的多吗？](https://www.v2ex.com/t/665141)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -768,7 +768,7 @@
 </summary>
 
 
-- [2020-04-23-推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq) ![](assets/new.png)  
+- [2020-04-23-推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq)  
 - [2020-04-23-推荐-挖财-Kubernetes-容器化之路](https://toutiao.io/k/ry9vzfu)  
 - [2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1)  
 - [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  

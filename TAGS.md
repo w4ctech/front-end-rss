@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 00:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 01:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -459,11 +459,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】成都/杭州-蚂蚁金服基础安全团队招-Java-工程师-P6/P7/P8，欢迎来撩！](https://www.v2ex.com/t/665166)
 - [【V2EX】在浏览器里运行-quake](https://www.v2ex.com/t/665144)
 - [【V2EX】打造自己的-cURL-命令](https://www.v2ex.com/t/665128)
 - [【V2EX】阿里-实习-社招-数据中台安全生产团队招聘-Java-开发/产品经理！](https://www.v2ex.com/t/665117)
 - [【V2EX】五六天前突然被-403-了几次，今天上下午分别被-access-denied-的一段时间](https://www.v2ex.com/t/665092)
-- [【V2EX】淘宝上租用的大算力，能保证数据安全吗，云平台又比较贵，大佬们有什么好的点子吗？](https://www.v2ex.com/t/665082)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,6 +517,8 @@
 - [【程序员成长指北】花椒前端基于-Docker-的-SSR-持续开发集成环境实践](https://www.ershicimi.com/p/f9d17255023a20b1b0b627e04647584a)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【V2EX】虚拟机-docker-私有-registory-搭好无法访问，防火墙都关了还是-telnet-不到端口，哪位屌大老哥帮忙看看~](https://www.v2ex.com/t/665168)
+- [【V2EX】docker-报错:request-canceled-while-waiting-for-connection](https://www.v2ex.com/t/665167)
 - [【技术头条】GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-震撼！全网第一张源码分析全景图揭秘-Nginx](https://toutiao.io/k/av00x9p)
 - [......【查看更多】......](./details/tags/server.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,7 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-23-成都/杭州-蚂蚁金服基础安全团队招-Java-工程师-P6/P7/P8，欢迎来撩！](https://www.v2ex.com/t/665166) 
 - [2020-04-22-在浏览器里运行-quake](https://www.v2ex.com/t/665144) 
 - [2020-04-22-打造自己的-cURL-命令](https://www.v2ex.com/t/665128) 
 - [2020-04-22-阿里-实习-社招-数据中台安全生产团队招聘-Java-开发/产品经理！](https://www.v2ex.com/t/665117) 

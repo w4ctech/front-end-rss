@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -139,6 +139,12 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-22-建了个群，路过的-javaer-如果正巧也打算换工作可以进来聊聊，纯个人、善意，没有其他想法](https://www.v2ex.com/t/665066) 
+- [2020-04-22-Authy-的-backup-passward-忘记了怎么办有没有给点建议的](https://www.v2ex.com/t/665065) 
+- [2020-04-22-珠江宽频网络怎么样](https://www.v2ex.com/t/665064) 
+- [2020-04-22-童工合同，三年后端经验，今年要不要跳槽?](https://www.v2ex.com/t/665062) 
+- [2020-04-22-上班每天除了在电脑前工作还能干什么](https://www.v2ex.com/t/665061) 
+- [2020-04-22-滴滴-kv-存储方面内推](https://www.v2ex.com/t/665059) 
 - [2020-04-22-关于网站的-QPS、TPS-和并发量，在项目中实际上是如何统计的？](https://www.v2ex.com/t/665058) 
 - [2020-04-22-今日份的暑期实习-offer-比较](https://www.v2ex.com/t/665057) 
 - [2020-04-22-找份前端工作，本人-2020-年毕业应届生](https://www.v2ex.com/t/665055) 
@@ -239,6 +245,7 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85) 
 - [2020-04-22-推荐-接口高并发压测入门实战](https://toutiao.io/k/mqg6xb4) 
 - [2020-04-22-推荐-那些你应该考虑卸载的-VSCode-扩展](https://toutiao.io/k/9hfg0z0) 
 - [2020-04-22-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) 

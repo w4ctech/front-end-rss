@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,6 +30,8 @@
 - [2020-03-30-记一次腾讯社招前端面试（已拿到offer入职）](https://www.ershicimi.com/p/1a71f45aedd7f38f2a4e649b0f0fc037) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
+- [2020-04-22-长沙医药公司招聘-PHP-开发](https://www.v2ex.com/t/664926) 
+- [2020-04-22-疫情期间企业招聘趁火打劫](https://www.v2ex.com/t/664891) 
 - [2020-04-22-博士招聘-华为-新介质-LAB-数据应用-LAB](https://www.v2ex.com/t/664873) 
 - [2020-04-22-现在外包招聘上写的薪水有-10K-12K，其实到手真的有那么高吗？有没有经验人，-Come-on](https://www.v2ex.com/t/664833) 
 - [2020-04-21-内推-实习-社招-1000+岗位！字节跳动开启新一轮招聘，可捞简历！](https://www.v2ex.com/t/664804) 

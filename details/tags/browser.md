@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-22 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-22 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,10 +22,12 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-04-22-聊一聊Cookie那些事儿](https://juejin.im/post/5e9944dcf265da47cd35795a) 
 - [2020-04-22-回流reflow和重绘repaint](https://juejin.im/post/5e9f2ce36fb9a03c8e5fa955) 
 - [2020-04-21-认识“新”朋友—conic-gradient](https://juejin.im/post/5e9f1a22f265da47f517a22a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-22-chrome-81-更新后这个地址栏是什么鬼？](https://www.v2ex.com/t/664899) 
 - [2020-04-22-直招上海/南京/北京360-企业安全-高级-DevOps-工程师](https://www.v2ex.com/t/664874) 
 - [2020-04-22-请教各位，-chrome-有没有可以调用外部下载工具的扩展或脚本？](https://www.v2ex.com/t/664872) 
 - [2020-04-22-直招上海/南京/北京360-企业安全-高级安全开发工程师](https://www.v2ex.com/t/664867) 

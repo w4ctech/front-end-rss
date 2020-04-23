@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 21:00:56。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -473,11 +473,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】Living-on-a-Self-Sufficient-Sailboat-for-10-Years-+-FULL-TOUR](https://www.v2ex.com/t/665472)
+- [【V2EX】requests-header-cookie](https://www.v2ex.com/t/665469)
 - [【V2EX】android-手机可以一直开着-usb-调试吗？](https://www.v2ex.com/t/665454)
 - [【V2EX】远程-URL-文件批量下载打包的方法](https://www.v2ex.com/t/665436)
 - [【V2EX】发现一个问题-用-edge-原生下载-GitHub-上的-releases-文件特别快](https://www.v2ex.com/t/665429)
-- [【V2EX】现在的-chrome-浏览器怎么关掉为您推荐的文章啊？求指教](https://www.v2ex.com/t/665351)
-- [【V2EX】爬虫-nightmare-cookies-问题](https://www.v2ex.com/t/665350)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

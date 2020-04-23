@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 04:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 06:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -745,7 +745,9 @@
 </summary>
 
 
-- [2020-04-24-加班后睡不着，写了首打油诗](https://www.v2ex.com/t/665519) ![](assets/new.png)  
+- [2020-04-24-给父母换手机,-非异型屏](https://www.v2ex.com/t/665521) ![](assets/new.png)  
+- [2020-04-24-问一下-flask-sqlalchemy-往-mysql-写不了中文](https://www.v2ex.com/t/665520) ![](assets/new.png)  
+- [2020-04-24-加班后睡不着，写了首打油诗](https://www.v2ex.com/t/665519)  
 - [2020-04-24-如何建造一个类-Stack-Exchange-网站？](https://www.v2ex.com/t/665518)  
 - [2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517)  
 - [2020-04-24-视频剪辑器免费版](https://www.v2ex.com/t/665516)  
@@ -763,8 +765,6 @@
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502)  
 - [2020-04-23-重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)  
 - [2020-04-23-买了个京造-Type-c-扩展坞，-iPad-pro-2020-不好使](https://www.v2ex.com/t/665500)  
-- [2020-04-23-请问有没有什么高质量的，有一定门槛的，比如付费才能进入或者达成一定条件才能进入的-Android-开发者圈子？](https://www.v2ex.com/t/665499)  
-- [2020-04-23-出-Macbook-Pro-MF840-16G-内存](https://www.v2ex.com/t/665497)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -807,7 +807,7 @@
 </summary>
 
 
-- [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz) ![](assets/new.png)  
+- [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz)  
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx)  
 - [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0)  
 - [2020-04-23-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf)  

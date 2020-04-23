@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 04:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 06:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -366,6 +366,8 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-24-给父母换手机,-非异型屏](https://www.v2ex.com/t/665521) 
+- [【V2EX】2020-04-24-问一下-flask-sqlalchemy-往-mysql-写不了中文](https://www.v2ex.com/t/665520) 
 - [【V2EX】2020-04-24-加班后睡不着，写了首打油诗](https://www.v2ex.com/t/665519) 
 - [【V2EX】2020-04-24-如何建造一个类-Stack-Exchange-网站？](https://www.v2ex.com/t/665518) 
 - [【V2EX】2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517) 

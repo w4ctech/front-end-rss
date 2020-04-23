@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 21:00:56。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-23 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,6 +145,7 @@
 - [【前端早读课】2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
 - [【前端早读课】2020-04-19-ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2) 
 - [【前端早读课】2020-04-18-【第1918期】微前端在企业级应用中的实践上](https://www.ershicimi.com/p/05c80869f2ad39471e9f7e5103606ec2) 
+- [【前端大全】2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36) 
 - [【前端大全】2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8) 
 - [【前端大全】2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316) 
 - [【前端大全】2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/8162b0f0ae0a163919344d7dbf32ac60) 

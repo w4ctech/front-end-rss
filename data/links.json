@@ -2662,6 +2662,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "加班后睡不着，写了首打油诗",
+        "link": "https://www.v2ex.com/t/665519",
+        "date": "2020-04-24"
+      },
+      {
         "title": "如何建造一个类 Stack Exchange 网站？",
         "link": "https://www.v2ex.com/t/665518",
         "date": "2020-04-24"
@@ -5280,6 +5285,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] Java 8 的 Stream 流真香，没体验过的永远不知道",
+        "link": "https://toutiao.io/k/3crptnz",
+        "date": "2020-04-24"
+      },
       {
         "title": "[推荐] 没想到 Spring Boot 能这样做全局日期格式化，有点香",
         "link": "https://toutiao.io/k/s4mhqfx",

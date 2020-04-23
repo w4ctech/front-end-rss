@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-23 12:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【Vue中文社区】2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9) 
+- [【Vue中文社区】2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd) 
 - [【Vue中文社区】2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [【Vue中文社区】2020-04-21-大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23) 
 - [【Vue中文社区】2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
@@ -336,6 +338,8 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-23-Kindle-上的一些收费书，微信读书不要钱](https://www.v2ex.com/t/665294) 
+- [【V2EX】2020-04-23-为什么喜马拉雅、得到-1.5-倍速播放，连上汽车蓝牙就没声音？微信读书没问题。](https://www.v2ex.com/t/665293) 
 - [【V2EX】2020-04-23-为啥手机投屏显示器无法达到高刷新率？](https://www.v2ex.com/t/665290) 
 - [【V2EX】2020-04-23-连着两个-Pro-手柄都有问题，这问题很普遍吗？](https://www.v2ex.com/t/665288) 
 - [【V2EX】2020-04-23-想找个组织](https://www.v2ex.com/t/665287) 

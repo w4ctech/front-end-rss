@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-23 16:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -349,6 +349,18 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-23-为什么国外很多网站都开放了-API，有啥好处吗，-比如-github，-v2](https://www.v2ex.com/t/665384) 
+- [【V2EX】2020-04-23-macos-上的搜狗输入法这一点真的无法忍受！](https://www.v2ex.com/t/665382) 
+- [【V2EX】2020-04-23-海信彩色墨水屏来了，真香！](https://www.v2ex.com/t/665381) 
+- [【V2EX】2020-04-23-记录一家公司笔试题（合并区间，单词缩写，最小代价）](https://www.v2ex.com/t/665379) 
+- [【V2EX】2020-04-23-初到上海，求教-v-友，在上海租房子的方式有哪些途径](https://www.v2ex.com/t/665378) 
+- [【V2EX】2020-04-23-有没有对任意尺寸大小图片全图打满水印的-cdn-？](https://www.v2ex.com/t/665376) 
+- [【V2EX】2020-04-23-Java-双击运行的-jar-如何关闭](https://www.v2ex.com/t/665375) 
+- [【V2EX】2020-04-23-spring-的-@RequestParam-注解如何做到类型验证？](https://www.v2ex.com/t/665374) 
+- [【V2EX】2020-04-23-有没有北京的吃喝玩乐或者徒步爬山之类的组织啊](https://www.v2ex.com/t/665373) 
+- [【V2EX】2020-04-23-🔥-字节跳动-内推-🔥全国-校招/社招/实习海量-hc-火热内推中,包进度反馈！前后端研发/算法/产品/运营/设计通通有!🔥](https://www.v2ex.com/t/665372) 
+- [【V2EX】2020-04-23-Spring-项目如何实现可以拆开部署也可以合并成一个-web-项目部署](https://www.v2ex.com/t/665371) 
+- [【V2EX】2020-04-23-两份-offer，怎么选择](https://www.v2ex.com/t/665370) 
 - [【V2EX】2020-04-23-Windows-Command:-`taskkill`-replaces-the-kill-tool.-kill-tool-是啥？](https://www.v2ex.com/t/665369) 
 - [【V2EX】2020-04-23-企业微信的服务端-API-也太任性了吧？](https://www.v2ex.com/t/665366) 
 - [【V2EX】2020-04-23-近几年国行的-iPhone-支持的网络频段似乎不如国际版](https://www.v2ex.com/t/665365) 

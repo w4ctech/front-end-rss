@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 06:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 07:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -745,8 +745,9 @@
 </summary>
 
 
-- [2020-04-24-给父母换手机,-非异型屏](https://www.v2ex.com/t/665521) ![](assets/new.png)  
-- [2020-04-24-问一下-flask-sqlalchemy-往-mysql-写不了中文](https://www.v2ex.com/t/665520) ![](assets/new.png)  
+- [2020-04-24-李彦宏嫌百度智能云不赚钱，把总经理炒了，增添了利润指标](https://www.v2ex.com/t/665522) ![](assets/new.png)  
+- [2020-04-24-给父母换手机,-非异型屏](https://www.v2ex.com/t/665521)  
+- [2020-04-24-问一下-flask-sqlalchemy-往-mysql-写不了中文](https://www.v2ex.com/t/665520)  
 - [2020-04-24-加班后睡不着，写了首打油诗](https://www.v2ex.com/t/665519)  
 - [2020-04-24-如何建造一个类-Stack-Exchange-网站？](https://www.v2ex.com/t/665518)  
 - [2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517)  
@@ -764,7 +765,6 @@
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503)  
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502)  
 - [2020-04-23-重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)  
-- [2020-04-23-买了个京造-Type-c-扩展坞，-iPad-pro-2020-不好使](https://www.v2ex.com/t/665500)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -807,6 +807,7 @@
 </summary>
 
 
+- [2020-04-24-世界读书日，上百本免费计算机书籍，拿走不谢！](https://toutiao.io/k/jft8ezv) ![](assets/new.png)  
 - [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz)  
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx)  
 - [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0)  
@@ -826,7 +827,6 @@
 - [2020-04-23-为什么-MySQL-的自增主键不单调也不连续](https://toutiao.io/k/upy7p1o)  
 - [2020-04-23-译-从零开始使用-JavaScript-制作自己的命令行（CLI-工具）](https://toutiao.io/k/hgnylhn)  
 - [2020-04-23-从-Google-算法大神那-"偷学"-的复杂度分析法，真香](https://toutiao.io/k/mvcannl)  
-- [2020-04-23-重大事故！IO-问题引发线上-20-台机器同时崩溃](https://toutiao.io/k/wgc715v)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

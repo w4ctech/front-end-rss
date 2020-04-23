@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,8 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-23-远程-URL-文件批量下载打包的方法](https://www.v2ex.com/t/665436) 
+- [2020-04-23-发现一个问题-用-edge-原生下载-GitHub-上的-releases-文件特别快](https://www.v2ex.com/t/665429) 
 - [2020-04-23-现在的-chrome-浏览器怎么关掉为您推荐的文章啊？求指教](https://www.v2ex.com/t/665351) 
 - [2020-04-23-爬虫-nightmare-cookies-问题](https://www.v2ex.com/t/665350) 
 - [2020-04-23-大家知道自己开发的扩展程序如何才能上-Chrome-的「编者推荐」吗？](https://www.v2ex.com/t/665276) 

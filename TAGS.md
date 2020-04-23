@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 18:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 19:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -473,11 +473,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】远程-URL-文件批量下载打包的方法](https://www.v2ex.com/t/665436)
+- [【V2EX】发现一个问题-用-edge-原生下载-GitHub-上的-releases-文件特别快](https://www.v2ex.com/t/665429)
 - [【V2EX】现在的-chrome-浏览器怎么关掉为您推荐的文章啊？求指教](https://www.v2ex.com/t/665351)
 - [【V2EX】爬虫-nightmare-cookies-问题](https://www.v2ex.com/t/665350)
 - [【V2EX】大家知道自己开发的扩展程序如何才能上-Chrome-的「编者推荐」吗？](https://www.v2ex.com/t/665276)
-- [【V2EX】聊天系统-websocket-频繁地断开连接并重连？](https://www.v2ex.com/t/665269)
-- [【V2EX】没有美国信用卡，如何安全的给美区-ID-充值？](https://www.v2ex.com/t/665247)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -503,6 +503,8 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】Ebooks-and-podcasts-by-NASA](https://www.v2ex.com/t/665438)
+- [【V2EX】迫于不懂就来问，关于-LVS-调度算法-DH-的问题](https://www.v2ex.com/t/665424)
 - [【V2EX】🔥-字节跳动-内推-🔥全国-校招/社招/实习海量-hc-火热内推中,包进度反馈！前后端研发/算法/产品/运营/设计通通有!🔥](https://www.v2ex.com/t/665372)
 - [【V2EX】如果不是为了面试，刷算法题对自我提升有什么大的价值吗](https://www.v2ex.com/t/665354)
 - [【V2EX】寻一位算法专家/高级专家](https://www.v2ex.com/t/665286)
@@ -512,8 +514,6 @@
 - [【V2EX】elasticsearch-怎么读？](https://www.v2ex.com/t/665080)
 - [【V2EX】前端、全栈岗若干，欢迎大神们加入，一起奋斗一起进步](https://www.v2ex.com/t/664968)
 - [【开发者头条】从-Google-算法大神那-"偷学"-的复杂度分析法，真香](https://toutiao.io/k/mvcannl)
-- [【开发者头条】Elasticsearch-能检索出来，但不能正确高亮怎么办？](https://toutiao.io/k/9twd9aq)
-- [【开发者头条】算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -558,6 +558,7 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【互联网架构师】这个神了，一目了然，确实好，看小姐姐用动图展示10大Git命令](https://www.ershicimi.com/p/d0386f39c79b2dedf3d11b30e7b06f4f)
+- [【V2EX】看到隔壁帖子有感而发，我也想要一个简短的-github-ID。有什么好办法？](https://www.v2ex.com/t/665420)
 - [【V2EX】为什么国外很多网站都开放了-API，有啥好处吗，-比如-github，-v2](https://www.v2ex.com/t/665384)
 - [【V2EX】Logitech-Combo-Touch-10.5-已到货](https://www.v2ex.com/t/665214)
 - [【V2EX】GitHub-知错就改，是个好同志](https://www.v2ex.com/t/665131)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -26,6 +26,7 @@
 - [2020-04-20-前端应该会的23个linux常用命令](https://www.ershicimi.com/p/17de0a726575ffa60fa77e7b01cbee3e) 
 - [2020-04-17-直降¥3600！戴尔官网限时团购已开启，成团享特惠领走专属办公神器OptiPlex！](https://www.ershicimi.com/p/22be63b058fed3b183876604916d972e) 
 - [2020-04-17-用好这7个VS-Code插件，前端编程效率蹭蹭涨](https://www.ershicimi.com/p/71311b4c4a53d096c91d6fb674d4cbdd) 
+- [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
 - [2020-04-17-前端生产方式：过去-10-年回顾和未来-10-年展望](https://www.ershicimi.com/p/06241786682ea5b4e314582ecf385bb2) 
 - [2020-04-17-两个月业余时间赢70万大奖！OPPO-Watch的这份“兼职”你还不来看看？](https://www.ershicimi.com/p/ca82c0ab1d7ba512cf50eaf088c2d28a) 
@@ -156,6 +157,9 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-23-xposed-是不是只能让那些-app-得到被修改过的信息？](https://www.v2ex.com/t/665299) 
+- [2020-04-23-网易云音乐真是太恶心了](https://www.v2ex.com/t/665297) 
+- [2020-04-23-有没有在外企外包工作过的大佬来谈谈体验？](https://www.v2ex.com/t/665296) 
 - [2020-04-23-Kindle-上的一些收费书，微信读书不要钱](https://www.v2ex.com/t/665294) 
 - [2020-04-23-为什么喜马拉雅、得到-1.5-倍速播放，连上汽车蓝牙就没声音？微信读书没问题。](https://www.v2ex.com/t/665293) 
 - [2020-04-23-为啥手机投屏显示器无法达到高刷新率？](https://www.v2ex.com/t/665290) 

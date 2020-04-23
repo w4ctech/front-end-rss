@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 12:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 13:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -96,8 +96,8 @@
 </summary>
 
 
-- [2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9) ![](assets/new.png)  
-- [2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd) ![](assets/new.png)  
+- [2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9)  
+- [2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd)  
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)  
 - [2020-04-21-大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23)  
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)  
@@ -259,6 +259,11 @@
 </summary>
 
 
+- [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626) ![](assets/new.png)  
+- [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562) ![](assets/new.png)  
+- [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) ![](assets/new.png)  
+- [2020-04-21-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67) ![](assets/new.png)  
+- [2020-04-21-ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636) ![](assets/new.png)  
 - [2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)  
 - [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)  
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2)  
@@ -726,8 +731,12 @@
 </summary>
 
 
-- [2020-04-23-Kindle-上的一些收费书，微信读书不要钱](https://www.v2ex.com/t/665294) ![](assets/new.png)  
-- [2020-04-23-为什么喜马拉雅、得到-1.5-倍速播放，连上汽车蓝牙就没声音？微信读书没问题。](https://www.v2ex.com/t/665293) ![](assets/new.png)  
+- [2020-04-23-xposed-是不是只能让那些-app-得到被修改过的信息？](https://www.v2ex.com/t/665299) ![](assets/new.png)  
+- [2020-04-23-500-元以内的路由器评测](https://www.v2ex.com/t/665298) ![](assets/new.png)  
+- [2020-04-23-网易云音乐真是太恶心了](https://www.v2ex.com/t/665297) ![](assets/new.png)  
+- [2020-04-23-有没有在外企外包工作过的大佬来谈谈体验？](https://www.v2ex.com/t/665296) ![](assets/new.png)  
+- [2020-04-23-Kindle-上的一些收费书，微信读书不要钱](https://www.v2ex.com/t/665294)  
+- [2020-04-23-为什么喜马拉雅、得到-1.5-倍速播放，连上汽车蓝牙就没声音？微信读书没问题。](https://www.v2ex.com/t/665293)  
 - [2020-04-23-为啥手机投屏显示器无法达到高刷新率？](https://www.v2ex.com/t/665290)  
 - [2020-04-23-连着两个-Pro-手柄都有问题，这问题很普遍吗？](https://www.v2ex.com/t/665288)  
 - [2020-04-23-想找个组织](https://www.v2ex.com/t/665287)  
@@ -742,10 +751,6 @@
 - [2020-04-23-iPhone-移动固态硬盘有了？](https://www.v2ex.com/t/665274)  
 - [2020-04-23-有区块链技术交流群吗？或者-Dapp-应用开发的群，求拉。](https://www.v2ex.com/t/665273)  
 - [2020-04-23-有没有哪个店家还能买到-vsco-会员帐号](https://www.v2ex.com/t/665272)  
-- [2020-04-23-大家好，我最近在做自媒体，在头条上做视频内容-，账号：“思源科技馆”，老哥们有时间的话可以去捧个场吗](https://www.v2ex.com/t/665271)  
-- [2020-04-23-阿里云-PolarDB-这个-100%兼容-MySQL-5.6-是怎么一个概念或者是怎么得出的?](https://www.v2ex.com/t/665270)  
-- [2020-04-23-聊天系统-websocket-频繁地断开连接并重连？](https://www.v2ex.com/t/665269)  
-- [2020-04-23-大家平时在什么场景里用-flexbox-布局？](https://www.v2ex.com/t/665268)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -84,6 +84,7 @@
 - [【前端早读课】【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)
 - [【前端早读课】【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24)
 - [【前端大全】Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8)
+- [【前端之巅】尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626)
 - [【前端迷】vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02)
 - [【前端宇宙】抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48)
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
@@ -94,7 +95,6 @@
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
 - [【InfoQ】只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd)
 - [【JavaScript】Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55)
-- [【掘金前端】elementUi简单实现搜索提词功能](https://juejin.im/post/5ea10a8b6fb9a03c5a7ab5cc)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -168,6 +168,7 @@
 
 
 
+- [【前端之巅】Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
 - [【程序员成长指北】我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232)
 - [【程序员成长指北】Node.js-开发者-2020-年度报告](https://www.ershicimi.com/p/f6bfce33ad5d9e4caed7fd95e88c5389)
@@ -292,6 +293,7 @@
 - [【前端开发】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7)
 - [【前端大学】ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e)
 - [【前端大学】手把手教你原生-JS+WebGL-实现3D图片效果！](https://www.ershicimi.com/p/7cc502ab77c3f07cf0d6a2d2ab96a613)
+- [【前端之巅】ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636)
 - [【前端迷】Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54)
 - [【前端迷】H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/4a632f66c2654acb25a81b3166b6a0d0)
 - [【前端宇宙】【适合收藏】让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/bd4949079ba2e63310e4909dd8862a45)
@@ -306,7 +308,6 @@
 - [【凹凸实验室】网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)
 - [【凹凸实验室】H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)
 - [【凹凸实验室】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
-- [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -423,6 +424,7 @@
 
 
 - [【前端大全】微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)
+- [【前端之巅】我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562)
 - [【前端之巅】高德App启动耗时剖析与优化实践（iOS篇）](https://www.ershicimi.com/p/497a9a3db67eb5abd5602e8ab005c35f)
 - [【前端迷】Web前端性能优化原理问题](https://www.ershicimi.com/p/24fc2a2edd2bbb1cac8f447e46db8ee1)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)

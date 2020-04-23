@@ -2023,6 +2023,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "哇哦！高级前端技术专家的职业规划长这样儿",
+        "link": "https://juejin.im/post/5ea0db74e51d4546e347f778",
+        "date": "2020-04-23"
+      },
+      {
         "title": "再过几天，就是一名3年开发经验的前端了",
         "link": "https://juejin.im/post/5e9ff960e51d4546f2800745",
         "date": "2020-04-22"
@@ -2431,6 +2436,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "老哥们 帮忙看下 MacbookPro 休眠掉电的原因",
+        "link": "https://www.v2ex.com/t/665197",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "[转] Dart 服务器端开发 、 Dart 客户端开发 、Dart 浏览器端开发 和 Dart 云开发",
+        "link": "https://www.v2ex.com/t/665196",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "打算从北京回长春了,长春 it 就业怎么样啊",
+        "link": "https://www.v2ex.com/t/665195",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "switch 更换 SD 卡不能截屏了...",
+        "link": "https://www.v2ex.com/t/665194",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "说一说 职场上垃圾人的表现吧",
+        "link": "https://www.v2ex.com/t/665193",
+        "date": "2020-04-23"
+      },
       {
         "title": "宝塔出了什么问题？旗下域名全部无法正常解析访问。",
         "link": "https://www.v2ex.com/t/665192",
@@ -3740,6 +3770,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "机器学习笔记（十一）：学支持向量机怎能不懂 “核”",
+        "link": "https://toutiao.io/k/88vy8io",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "讲真，这两款 IDEA 插件，能治愈你英语不好的病",
+        "link": "https://toutiao.io/k/vwjjwn7",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "尝试在 Android 中实现实时光线追踪",
+        "link": "https://toutiao.io/k/e16gzwe",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "理解 TypeScript 类型拓宽",
+        "link": "https://toutiao.io/k/o5ecdje",
+        "date": "2020-04-23"
+      },
       {
         "title": "处理器是如何调度进程的？",
         "link": "https://toutiao.io/k/kz0on15",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 08:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 09:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -589,6 +589,7 @@
 </summary>
 
 
+- [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778) ![](assets/new.png)  
 - [2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745)  
 - [2020-04-22-观察者模式（JavaScript实现）](https://juejin.im/post/5e9ff0d4e51d4546ce27db22)  
 - [2020-04-22-入职字节跳动三个月后...我到底发生了什么改变](https://juejin.im/post/5e9fffa66fb9a03c860b8bc6)  
@@ -708,10 +709,15 @@
 </summary>
 
 
-- [2020-04-23-宝塔出了什么问题？旗下域名全部无法正常解析访问。](https://www.v2ex.com/t/665192) ![](assets/new.png)  
-- [2020-04-23-没有听说过《植物神经紊乱》的一定要了解一下](https://www.v2ex.com/t/665191) ![](assets/new.png)  
-- [2020-04-23-求一个家用万兆方案](https://www.v2ex.com/t/665190) ![](assets/new.png)  
-- [2020-04-23-Android-虚拟摄像头有人做过吗](https://www.v2ex.com/t/665189) ![](assets/new.png)  
+- [2020-04-23-老哥们-帮忙看下-MacbookPro-休眠掉电的原因](https://www.v2ex.com/t/665197) ![](assets/new.png)  
+- [2020-04-23-转-Dart-服务器端开发-、-Dart-客户端开发-、Dart-浏览器端开发-和-Dart-云开发](https://www.v2ex.com/t/665196) ![](assets/new.png)  
+- [2020-04-23-打算从北京回长春了,长春-it-就业怎么样啊](https://www.v2ex.com/t/665195) ![](assets/new.png)  
+- [2020-04-23-switch-更换-SD-卡不能截屏了...](https://www.v2ex.com/t/665194) ![](assets/new.png)  
+- [2020-04-23-说一说-职场上垃圾人的表现吧](https://www.v2ex.com/t/665193) ![](assets/new.png)  
+- [2020-04-23-宝塔出了什么问题？旗下域名全部无法正常解析访问。](https://www.v2ex.com/t/665192)  
+- [2020-04-23-没有听说过《植物神经紊乱》的一定要了解一下](https://www.v2ex.com/t/665191)  
+- [2020-04-23-求一个家用万兆方案](https://www.v2ex.com/t/665190)  
+- [2020-04-23-Android-虚拟摄像头有人做过吗](https://www.v2ex.com/t/665189)  
 - [2020-04-23-尤大-Vue3.0-直播虚拟-Dom-总结和-React-对比](https://www.v2ex.com/t/665188)  
 - [2020-04-23-有人试过批量爬某个元素的时候爬不下来但是单独爬的时候却可以爬的情况嘛](https://www.v2ex.com/t/665187)  
 - [2020-04-23-好像海底光缆恢复了，还是早晨不堵](https://www.v2ex.com/t/665186)  
@@ -723,11 +729,6 @@
 - [2020-04-23-SQL-执行时间与优化问题](https://www.v2ex.com/t/665180)  
 - [2020-04-23-联通宽带光猫无法获得-ipv6，如何解决？](https://www.v2ex.com/t/665179)  
 - [2020-04-23-最近感觉很不快乐，不知道该怎么办。](https://www.v2ex.com/t/665178)  
-- [2020-04-23-如何优化远程获取请求数据过大造成服务器报错的问题？](https://www.v2ex.com/t/665177)  
-- [2020-04-23-pywin32-win32gui.EnumWindows-如何去除无意义的窗口句柄](https://www.v2ex.com/t/665175)  
-- [2020-04-23-晚上好啊。人脸识别设备相关的问题。请教一下大佬。](https://www.v2ex.com/t/665174)  
-- [2020-04-23-求推荐-150-300-美刀左右能提升在家办公体验的物品](https://www.v2ex.com/t/665173)  
-- [2020-04-23-MacbookPro-2017-底座不平，按压前端两侧，整个底座会翘起来。这是设计上的失误吗？](https://www.v2ex.com/t/665172)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -770,12 +771,16 @@
 </summary>
 
 
-- [2020-04-23-处理器是如何调度进程的？](https://toutiao.io/k/kz0on15) ![](assets/new.png)  
-- [2020-04-23-防止-Git-泄漏的-5-种最佳做法](https://toutiao.io/k/boq6d97) ![](assets/new.png)  
-- [2020-04-23-漫话：为什么生僻字计算机上打不出来，或者打出来也无法显示呢？](https://toutiao.io/k/fc1htac) ![](assets/new.png)  
-- [2020-04-23-Elasticsearch-能检索出来，但不能正确高亮怎么办？](https://toutiao.io/k/9twd9aq) ![](assets/new.png)  
-- [2020-04-23-MySQL-的事务隔离级别是什么？](https://toutiao.io/k/9rtae1d) ![](assets/new.png)  
-- [2020-04-23-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw) ![](assets/new.png)  
+- [2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io) ![](assets/new.png)  
+- [2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7) ![](assets/new.png)  
+- [2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe) ![](assets/new.png)  
+- [2020-04-23-理解-TypeScript-类型拓宽](https://toutiao.io/k/o5ecdje) ![](assets/new.png)  
+- [2020-04-23-处理器是如何调度进程的？](https://toutiao.io/k/kz0on15)  
+- [2020-04-23-防止-Git-泄漏的-5-种最佳做法](https://toutiao.io/k/boq6d97)  
+- [2020-04-23-漫话：为什么生僻字计算机上打不出来，或者打出来也无法显示呢？](https://toutiao.io/k/fc1htac)  
+- [2020-04-23-Elasticsearch-能检索出来，但不能正确高亮怎么办？](https://toutiao.io/k/9twd9aq)  
+- [2020-04-23-MySQL-的事务隔离级别是什么？](https://toutiao.io/k/9rtae1d)  
+- [2020-04-23-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw)  
 - [2020-04-23-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt)  
 - [2020-04-23-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt)  
 - [2020-04-23-推荐-漫谈分布式事务的那些解决方案](https://toutiao.io/k/a21b8ih)  
@@ -786,10 +791,6 @@
 - [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3)  
 - [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85)  
 - [2020-04-22-推荐-震撼！全网第一张源码分析全景图揭秘-Nginx](https://toutiao.io/k/av00x9p)  
-- [2020-04-22-推荐-接口高并发压测入门实战](https://toutiao.io/k/mqg6xb4)  
-- [2020-04-22-推荐-那些你应该考虑卸载的-VSCode-扩展](https://toutiao.io/k/9hfg0z0)  
-- [2020-04-22-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
-- [2020-04-22-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

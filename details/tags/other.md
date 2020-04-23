@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -113,6 +113,7 @@
 - [2020-04-20-从-Google-回来的-CTO](https://www.ershicimi.com/p/a8df88e8a62855f51851badf080d187d) 
 - [2020-04-20-Rust-能够取代-C-语言吗？](https://www.ershicimi.com/p/26e30680c4f4aa4638a6b25f7ba15de0) 
 - [2020-04-16-瑞幸大起大落之下-有哪些技能是你可以复制的？](https://www.ershicimi.com/p/b873826a014290b7f5d49067b387905f) 
+- [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778) 
 - [2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745) 
 - [2020-04-22-入职字节跳动三个月后...我到底发生了什么改变](https://juejin.im/post/5e9fffa66fb9a03c860b8bc6) 
 - [2020-04-22-ContentEditable困境与破局之法](https://juejin.im/post/5e9eec756fb9a03c550ff299) 
@@ -147,6 +148,10 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-23-老哥们-帮忙看下-MacbookPro-休眠掉电的原因](https://www.v2ex.com/t/665197) 
+- [2020-04-23-打算从北京回长春了,长春-it-就业怎么样啊](https://www.v2ex.com/t/665195) 
+- [2020-04-23-switch-更换-SD-卡不能截屏了...](https://www.v2ex.com/t/665194) 
+- [2020-04-23-说一说-职场上垃圾人的表现吧](https://www.v2ex.com/t/665193) 
 - [2020-04-23-宝塔出了什么问题？旗下域名全部无法正常解析访问。](https://www.v2ex.com/t/665192) 
 - [2020-04-23-没有听说过《植物神经紊乱》的一定要了解一下](https://www.v2ex.com/t/665191) 
 - [2020-04-23-求一个家用万兆方案](https://www.v2ex.com/t/665190) 
@@ -334,6 +339,9 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io) 
+- [2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7) 
+- [2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe) 
 - [2020-04-23-处理器是如何调度进程的？](https://toutiao.io/k/kz0on15) 
 - [2020-04-23-漫话：为什么生僻字计算机上打不出来，或者打出来也无法显示呢？](https://toutiao.io/k/fc1htac) 
 - [2020-04-23-MySQL-的事务隔离级别是什么？](https://toutiao.io/k/9rtae1d) 

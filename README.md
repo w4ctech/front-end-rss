@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 00:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 01:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -745,8 +745,10 @@
 </summary>
 
 
-- [2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515) ![](assets/new.png)  
-- [2020-04-24-面对公司随时进行的裁员，你做好准备了吗](https://www.v2ex.com/t/665514) ![](assets/new.png)  
+- [2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517) ![](assets/new.png)  
+- [2020-04-24-视频剪辑器免费版](https://www.v2ex.com/t/665516) ![](assets/new.png)  
+- [2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515)  
+- [2020-04-24-面对公司随时进行的裁员，你做好准备了吗](https://www.v2ex.com/t/665514)  
 - [2020-04-23-不把-wait-放在同步块中，为啥这种情况不会抛出-IllegalMonitorStateException？](https://www.v2ex.com/t/665512)  
 - [2020-04-23-大家所在城市的租房中介费都是由谁来付啊？](https://www.v2ex.com/t/665511)  
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509)  
@@ -763,8 +765,6 @@
 - [2020-04-23-出-Macbook-Pro-MF840-16G-内存](https://www.v2ex.com/t/665497)  
 - [2020-04-23-继续找工作还是一起创业？靠谱，设计师…请联系我聊一聊。](https://www.v2ex.com/t/665495)  
 - [2020-04-23-关于个人所得税-APP-支持-Android-系统的问题。](https://www.v2ex.com/t/665494)  
-- [2020-04-23-不懂就问，腾讯企业邮箱的「邮件转移」功能收费了，还有办法实现全域邮件转发吗？](https://www.v2ex.com/t/665490)  
-- [2020-04-23-一直留在北京的人们最后都怎么样了？](https://www.v2ex.com/t/665489)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -807,6 +807,7 @@
 </summary>
 
 
+- [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0) ![](assets/new.png)  
 - [2020-04-23-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf)  
 - [2020-04-23-推荐-微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://toutiao.io/k/ibh4mpc)  
 - [2020-04-23-记一次奇妙的-go-protobuf-包升级之旅](https://toutiao.io/k/hb5htns)  
@@ -826,7 +827,6 @@
 - [2020-04-23-重大事故！IO-问题引发线上-20-台机器同时崩溃](https://toutiao.io/k/wgc715v)  
 - [2020-04-23-VUE-的坑你踩过几个](https://toutiao.io/k/ktwhl5h)  
 - [2020-04-23-高可用-Prometheus：问题集锦](https://toutiao.io/k/g9jatcd)  
-- [2020-04-23-译-国外大神制作的超棒-Pandas-可视化教程](https://toutiao.io/k/c6qp2bx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,6 +12,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-04-24-视频剪辑器免费版](https://www.v2ex.com/t/665516) 
 - [2020-04-23-想学习一下-Linux-，哪位爱心老哥那里有马哥比较新的-Linux-视频，可否分享一下，谢谢](https://www.v2ex.com/t/665466) 
 - [2020-04-23-微信客户端打开别人发我的视频-黑屏](https://www.v2ex.com/t/665417) 
 - [2020-04-23-图像风格迁移问题，求助](https://www.v2ex.com/t/665360) 

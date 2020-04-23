@@ -2662,6 +2662,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有什么 react 的 ui 库，是响应式的呢？类似 bootstrap 的响应式",
+        "link": "https://www.v2ex.com/t/665517",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "视频剪辑器免费版",
+        "link": "https://www.v2ex.com/t/665516",
+        "date": "2020-04-24"
+      },
+      {
         "title": "ajax 异步返回的页面中，加载外部 vendor.js，要怎么实现呢？",
         "link": "https://www.v2ex.com/t/665515",
         "date": "2020-04-24"
@@ -5265,6 +5275,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 大神阮一峰的《Bash 脚本教程》免费发布啦，开源！",
+        "link": "https://toutiao.io/k/yqthvj0",
+        "date": "2020-04-24"
+      },
       {
         "title": "[推荐] 为什么 Linux 需要虚拟内存",
         "link": "https://toutiao.io/k/u65syjf",

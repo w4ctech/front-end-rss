@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 16:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -594,6 +594,7 @@
 - [【JavaScript】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b)
 - [【掘金前端】4399前端面试题](https://juejin.im/post/5df9cca6e51d455829730b58)
 - [【掘金前端】前端面试手写题有备无患](https://juejin.im/post/5e9d0913f265da47f85df937)
+- [【V2EX】北京/上海/深圳/杭州/美国-字节跳动互娱研发抖音业务团队招聘-iOS-工程师啦，一起来做更炫酷的事吧！](https://www.v2ex.com/t/665395)
 - [【V2EX】腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳](https://www.v2ex.com/t/665234)
 - [【V2EX】阿里这电话面试是不定时吗？约的时间也没打啊](https://www.v2ex.com/t/665148)
 - [【V2EX】天猫奢侈品--招聘前端，-Java-，测试](https://www.v2ex.com/t/665098)
@@ -601,7 +602,6 @@
 - [【V2EX】招聘贴，地点上海浦东-对工具类软件有兴趣的同学看进来啦~~](https://www.v2ex.com/t/665067)
 - [【V2EX】四月份分别面试-字节跳动，腾讯，百度，才发现跟大厂的差距不只一点点。。。](https://www.v2ex.com/t/665049)
 - [【V2EX】森果技术研发部招聘🔥🔥-前端-/-统招本科-/-月薪-8k-16k](https://www.v2ex.com/t/665048)
-- [【V2EX】南京小米-Java-开发工程师招聘](https://www.v2ex.com/t/665046)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

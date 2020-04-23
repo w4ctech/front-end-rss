@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -11,6 +11,11 @@
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-04-20-这个神了，一目了然，确实好，看小姐姐用动图展示10大Git命令](https://www.ershicimi.com/p/d0386f39c79b2dedf3d11b30e7b06f4f) 
+- [2020-04-23-见证历史了，-GitHub-500-错误了](https://www.v2ex.com/t/665483) 
+- [2020-04-23-GitHub-炸了！](https://www.v2ex.com/t/665480) 
+- [2020-04-23-github-挂了吗？-504-了](https://www.v2ex.com/t/665478) 
+- [2020-04-23-Github-无法访问了？](https://www.v2ex.com/t/665477) 
+- [2020-04-23-我的-GitHub-挂了，怎么回事](https://www.v2ex.com/t/665476) 
 - [2020-04-23-看到隔壁帖子有感而发，我也想要一个简短的-github-ID。有什么好办法？](https://www.v2ex.com/t/665420) 
 - [2020-04-23-为什么国外很多网站都开放了-API，有啥好处吗，-比如-github，-v2](https://www.v2ex.com/t/665384) 
 - [2020-04-23-Logitech-Combo-Touch-10.5-已到货](https://www.v2ex.com/t/665214) 

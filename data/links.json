@@ -400,6 +400,11 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "前端实战：2天写出28亿浏览量的页面",
+        "link": "https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50",
+        "date": "2020-04-23"
+      },
+      {
         "title": "前端高级进阶：2020怎样才能更值钱？",
         "link": "https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3",
         "date": "2020-04-22"
@@ -2467,6 +2472,111 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "长沙拓维云创是家怎样的公司？",
+        "link": "https://www.v2ex.com/t/665222",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "WKWebView 没有 pageCount 属性, 怎么解决?",
+        "link": "https://www.v2ex.com/t/665221",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "这个 TypeScript 类型应该怎么写?",
+        "link": "https://www.v2ex.com/t/665219",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "你们现在开始开始报复性消费了吗？",
+        "link": "https://www.v2ex.com/t/665218",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "Office365 发个车",
+        "link": "https://www.v2ex.com/t/665216",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "吐槽下现在很多帖子都放个标题然后留个 B 站视频链接",
+        "link": "https://www.v2ex.com/t/665215",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "Logitech Combo Touch 10.5 已到货",
+        "link": "https://www.v2ex.com/t/665214",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "doker 容器访问宿主机文件",
+        "link": "https://www.v2ex.com/t/665213",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "保存人的声音 app",
+        "link": "https://www.v2ex.com/t/665212",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "一杯茶的时间，上手 Taro 京东小程序开发",
+        "link": "https://www.v2ex.com/t/665211",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "iPhone 如何把 Live Photo 用 AirDrop 发送给 Mac ？",
+        "link": "https://www.v2ex.com/t/665210",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "有没有懂网络的大神，看看我这个可能是什么问题",
+        "link": "https://www.v2ex.com/t/665209",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "基于 wechaty，集成个网页版的微信，违法吗？",
+        "link": "https://www.v2ex.com/t/665207",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "看到一个按照“新拟态”(Neumorphism)风格设计的网站，传播下~",
+        "link": "https://www.v2ex.com/t/665206",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "关于 macbook pro 2019 16 寸 typec 求助",
+        "link": "https://www.v2ex.com/t/665205",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "Vue+SpringBoot+SpreadJS 实现的在线文档",
+        "link": "https://www.v2ex.com/t/665204",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "蓝岸是跑路了么？为啥网站一直在维护中",
+        "link": "https://www.v2ex.com/t/665202",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "有个创业项目，想找合伙人",
+        "link": "https://www.v2ex.com/t/665201",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "想问一下北京办理宽带最近有什么优惠活动吗。",
+        "link": "https://www.v2ex.com/t/665200",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "V2EX 和 CodeCoCoa 啥关系",
+        "link": "https://www.v2ex.com/t/665199",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "Office365 京东自营 开起来？总价 269",
+        "link": "https://www.v2ex.com/t/665198",
+        "date": "2020-04-23"
+      },
+      {
         "title": "老哥们 帮忙看下 MacbookPro 休眠掉电的原因",
         "link": "https://www.v2ex.com/t/665197",
         "date": "2020-04-23"
@@ -3800,6 +3910,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "IM 服务器设计：网关接入层",
+        "link": "https://toutiao.io/k/vazuwqx",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "使用 Jenkins 对以太坊 Dapp 应用持续集成",
+        "link": "https://toutiao.io/k/rlvfswq",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "为什么 MySQL 的自增主键不单调也不连续",
+        "link": "https://toutiao.io/k/upy7p1o",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "[译] 从零开始使用 JavaScript 制作自己的命令行（CLI 工具）",
+        "link": "https://toutiao.io/k/hgnylhn",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "从 Google 算法大神那 \"偷学\" 的复杂度分析法，真香",
+        "link": "https://toutiao.io/k/mvcannl",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "重大事故！IO 问题引发线上 20 台机器同时崩溃",
+        "link": "https://toutiao.io/k/wgc715v",
+        "date": "2020-04-23"
+      },
       {
         "title": "VUE 的坑你踩过几个",
         "link": "https://toutiao.io/k/ktwhl5h",

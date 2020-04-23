@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 10:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 11:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -536,6 +536,9 @@
 </summary>
 
 
+- [2020-04-23-四月最新整理的Java学习资料与电子书，免费分享！](https://www.ershicimi.com/p/8d6bbfd094055d6a4801c7e460c2dcf7) ![](assets/new.png)  
+- [2020-04-23-我把SpringBoot项目从18.18M瘦身到0.18M，部署起来真省事！](https://www.ershicimi.com/p/17fe039ed8b773b1bf91dea7ff46cf3d) ![](assets/new.png)  
+- [2020-04-23-分库、分表、分区的区别，傻傻分不清？](https://www.ershicimi.com/p/bfc45833f7eee82e421a48e5e09bbcbf) ![](assets/new.png)  
 - [2020-04-22-呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50)  
 - [2020-04-22-从-0-编写自己的第一款-IDEA-插件！](https://www.ershicimi.com/p/d305be2ef4eec93877a0d277d8b9dbda)  
 - [2020-04-22-推荐-4-款-MySQL-调优工具，大神都在用！](https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb)  
@@ -747,7 +750,8 @@
 </summary>
 
 
-- [2020-04-23-Hacking，约不约!-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhacking-linux-kernel-with-inline-hook-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-23-以图搜图系统概述及工程实践（下）-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13401&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F134259579%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-23-Hacking，约不约!-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhacking-linux-kernel-with-inline-hook-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-22-一个黑客的自白书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-hackers-confession%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-22-8-个接私活的网站-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13388&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvRkxVNxOE4H4-mPc-1W_ng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-22-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -766,7 +770,6 @@
 - [2020-04-22-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-22-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

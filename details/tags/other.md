@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -124,6 +124,9 @@
 - [2020-04-20-从-Google-回来的-CTO](https://www.ershicimi.com/p/a8df88e8a62855f51851badf080d187d) 
 - [2020-04-20-Rust-能够取代-C-语言吗？](https://www.ershicimi.com/p/26e30680c4f4aa4638a6b25f7ba15de0) 
 - [2020-04-16-瑞幸大起大落之下-有哪些技能是你可以复制的？](https://www.ershicimi.com/p/b873826a014290b7f5d49067b387905f) 
+- [2020-04-23-案例｜原生手写一个轮播图——渐隐渐显版](https://juejin.im/post/5ea157d751882573c2193661) 
+- [2020-04-23-axios怎么封装，才能提升效率？](https://juejin.im/post/5ea15045e51d4546e14f6aa5) 
+- [2020-04-23-3种常用鉴权方法原理与实现](https://juejin.im/post/5ea15336e51d4546d23c265a) 
 - [2020-04-23-阿里淘系前端-暑期实习面经](https://juejin.im/post/5ea0f26551882573b62807bb) 
 - [2020-04-23-互联网世界历险记-简介从输入网址到网页呈现](https://juejin.im/post/5ea0816ee51d4546cc26d69e) 
 - [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778) 
@@ -161,6 +164,11 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-23-996-五一-3-天假Ｔ▽Ｔ](https://www.v2ex.com/t/665452) 
+- [2020-04-23-Springboot-多个项目如何-统一认证？](https://www.v2ex.com/t/665451) 
+- [2020-04-23-一个想法：解决一点信任问题](https://www.v2ex.com/t/665450) 
+- [2020-04-23-你认为的-Linux-中最牛逼的命令是什么？不许说-rm](https://www.v2ex.com/t/665449) 
+- [2020-04-23-不愧为-bug10？昨天更新系统后，锁屏界面图标丢失。](https://www.v2ex.com/t/665446) 
 - [2020-04-23-谁有最新版的-ps2020-软件软件](https://www.v2ex.com/t/665445) 
 - [2020-04-23-去仲裁吧！仲裁没有那么可怕](https://www.v2ex.com/t/665444) 
 - [2020-04-23-Ghost-in-the-Shell:-SAC_2045](https://www.v2ex.com/t/665443) 

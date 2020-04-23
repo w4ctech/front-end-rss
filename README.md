@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 09:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 09:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,15 +26,15 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -223,6 +223,8 @@
 </summary>
 
 
+- [2020-04-23-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253) ![](assets/new.png)  
+- [2020-04-23-ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e) ![](assets/new.png)  
 - [2020-04-22-疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2)  
 - [2020-04-22-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/04e75103218a126a3ec5cf4ba3c2d7ba)  
 - [2020-04-21-必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！](https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f)  
@@ -328,6 +330,8 @@
 </summary>
 
 
+- [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) ![](assets/new.png)  
+- [2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48) ![](assets/new.png)  
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e)  
 - [2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)  
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ac72b38cd88c18aa6969d48d13d974fa)  
@@ -363,6 +367,8 @@
 </summary>
 
 
+- [2020-04-23-7个前端进大厂的必备技能，你还缺啥？](https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5) ![](assets/new.png)  
+- [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320) ![](assets/new.png)  
 - [2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232)  
 - [2020-04-21-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4)  
 - [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5)  
@@ -589,7 +595,7 @@
 </summary>
 
 
-- [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778) ![](assets/new.png)  
+- [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778)  
 - [2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745)  
 - [2020-04-22-观察者模式（JavaScript实现）](https://juejin.im/post/5e9ff0d4e51d4546ce27db22)  
 - [2020-04-22-入职字节跳动三个月后...我到底发生了什么改变](https://juejin.im/post/5e9fffa66fb9a03c860b8bc6)  
@@ -709,11 +715,11 @@
 </summary>
 
 
-- [2020-04-23-老哥们-帮忙看下-MacbookPro-休眠掉电的原因](https://www.v2ex.com/t/665197) ![](assets/new.png)  
-- [2020-04-23-转-Dart-服务器端开发-、-Dart-客户端开发-、Dart-浏览器端开发-和-Dart-云开发](https://www.v2ex.com/t/665196) ![](assets/new.png)  
-- [2020-04-23-打算从北京回长春了,长春-it-就业怎么样啊](https://www.v2ex.com/t/665195) ![](assets/new.png)  
-- [2020-04-23-switch-更换-SD-卡不能截屏了...](https://www.v2ex.com/t/665194) ![](assets/new.png)  
-- [2020-04-23-说一说-职场上垃圾人的表现吧](https://www.v2ex.com/t/665193) ![](assets/new.png)  
+- [2020-04-23-老哥们-帮忙看下-MacbookPro-休眠掉电的原因](https://www.v2ex.com/t/665197)  
+- [2020-04-23-转-Dart-服务器端开发-、-Dart-客户端开发-、Dart-浏览器端开发-和-Dart-云开发](https://www.v2ex.com/t/665196)  
+- [2020-04-23-打算从北京回长春了,长春-it-就业怎么样啊](https://www.v2ex.com/t/665195)  
+- [2020-04-23-switch-更换-SD-卡不能截屏了...](https://www.v2ex.com/t/665194)  
+- [2020-04-23-说一说-职场上垃圾人的表现吧](https://www.v2ex.com/t/665193)  
 - [2020-04-23-宝塔出了什么问题？旗下域名全部无法正常解析访问。](https://www.v2ex.com/t/665192)  
 - [2020-04-23-没有听说过《植物神经紊乱》的一定要了解一下](https://www.v2ex.com/t/665191)  
 - [2020-04-23-求一个家用万兆方案](https://www.v2ex.com/t/665190)  
@@ -771,10 +777,13 @@
 </summary>
 
 
-- [2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io) ![](assets/new.png)  
-- [2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7) ![](assets/new.png)  
-- [2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe) ![](assets/new.png)  
-- [2020-04-23-理解-TypeScript-类型拓宽](https://toutiao.io/k/o5ecdje) ![](assets/new.png)  
+- [2020-04-23-VUE-的坑你踩过几个](https://toutiao.io/k/ktwhl5h) ![](assets/new.png)  
+- [2020-04-23-高可用-Prometheus：问题集锦](https://toutiao.io/k/g9jatcd) ![](assets/new.png)  
+- [2020-04-23-译-国外大神制作的超棒-Pandas-可视化教程](https://toutiao.io/k/c6qp2bx) ![](assets/new.png)  
+- [2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io)  
+- [2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7)  
+- [2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe)  
+- [2020-04-23-理解-TypeScript-类型拓宽](https://toutiao.io/k/o5ecdje)  
 - [2020-04-23-处理器是如何调度进程的？](https://toutiao.io/k/kz0on15)  
 - [2020-04-23-防止-Git-泄漏的-5-种最佳做法](https://toutiao.io/k/boq6d97)  
 - [2020-04-23-漫话：为什么生僻字计算机上打不出来，或者打出来也无法显示呢？](https://toutiao.io/k/fc1htac)  
@@ -788,9 +797,6 @@
 - [2020-04-23-推荐-挖财-Kubernetes-容器化之路](https://toutiao.io/k/ry9vzfu)  
 - [2020-04-22-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1)  
 - [2020-04-22-推荐-实战-MySQL-参数调优](https://toutiao.io/k/nas6eyi)  
-- [2020-04-22-推荐-缓存穿透、击穿、雪崩区别和解决方案](https://toutiao.io/k/30s1xt3)  
-- [2020-04-22-推荐-超详细！教你免费搭建一个技术博客](https://toutiao.io/k/wl7xc85)  
-- [2020-04-22-推荐-震撼！全网第一张源码分析全景图揭秘-Nginx](https://toutiao.io/k/av00x9p)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

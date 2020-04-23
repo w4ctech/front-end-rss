@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -20,6 +20,7 @@
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [2020-04-17-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/9db8f1d7a4628c30bdc3db48e544e738) 
 - [2020-04-17-用好这-7-个-VS-Code-插件，前端编程效率蹭蹭涨](https://www.ershicimi.com/p/d2c2d0c03f625370ee469ca84bc5f133) 
+- [2020-04-23-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253) 
 - [2020-04-22-疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2) 
 - [2020-04-21-必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！](https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f) 
 - [2020-04-20-前端应该会的23个linux常用命令](https://www.ershicimi.com/p/17de0a726575ffa60fa77e7b01cbee3e) 
@@ -33,8 +34,10 @@
 - [2020-04-19-赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6) 
 - [2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-04-23-7个前端进大厂的必备技能，你还缺啥？](https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5) 
 - [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
 - [2020-04-16-今年你还敢和老板提涨薪吗？](https://www.ershicimi.com/p/d3421bc427e1506889d25a6340ad3c19) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
@@ -339,6 +342,8 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-23-高可用-Prometheus：问题集锦](https://toutiao.io/k/g9jatcd) 
+- [2020-04-23-译-国外大神制作的超棒-Pandas-可视化教程](https://toutiao.io/k/c6qp2bx) 
 - [2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io) 
 - [2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7) 
 - [2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-23 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -161,6 +161,8 @@
 - [【前端开发】2020-04-18-大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7) 
 - [【前端开发】2020-04-17-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/9db8f1d7a4628c30bdc3db48e544e738) 
 - [【前端开发】2020-04-17-用好这-7-个-VS-Code-插件，前端编程效率蹭蹭涨](https://www.ershicimi.com/p/d2c2d0c03f625370ee469ca84bc5f133) 
+- [【前端大学】2020-04-23-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253) 
+- [【前端大学】2020-04-23-ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e) 
 - [【前端大学】2020-04-22-疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2) 
 - [【前端大学】2020-04-22-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/04e75103218a126a3ec5cf4ba3c2d7ba) 
 - [【前端大学】2020-04-21-必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！](https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f) 
@@ -200,6 +202,8 @@
 - [【全栈前端精选】2020-04-17-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1) 
 - [【全栈前端精选】2020-04-16-深度解读浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/9bb8eae43048b6767e812c6381f66bef) 
 - [【政采云前端团队】2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [【前端宇宙】2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
+- [【前端宇宙】2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48) 
 - [【前端宇宙】2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [【前端宇宙】2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
 - [【前端宇宙】2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ac72b38cd88c18aa6969d48d13d974fa) 
@@ -213,6 +217,8 @@
 - [【前端瓶子君】2020-04-18-去大厂面试问我算法，我该怎么办？](https://www.ershicimi.com/p/26dfe376c652a76ddeed36a02bf63786) 
 - [【前端瓶子君】2020-04-17-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/8f9b3aa39751a681d9b710c3143e601e) 
 - [【前端瓶子君】2020-04-16-彻底理解浏览器的缓存机制](https://www.ershicimi.com/p/a2b748c9f676b4f5330d2dc0718e2041) 
+- [【程序员成长指北】2020-04-23-7个前端进大厂的必备技能，你还缺啥？](https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5) 
+- [【程序员成长指北】2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320) 
 - [【程序员成长指北】2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232) 
 - [【程序员成长指北】2020-04-21-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4) 
 - [【程序员成长指北】2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
@@ -585,6 +591,9 @@
 - [【技术头条】2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-23-VUE-的坑你踩过几个](https://toutiao.io/k/ktwhl5h) 
+- [【开发者头条】2020-04-23-高可用-Prometheus：问题集锦](https://toutiao.io/k/g9jatcd) 
+- [【开发者头条】2020-04-23-译-国外大神制作的超棒-Pandas-可视化教程](https://toutiao.io/k/c6qp2bx) 
 - [【开发者头条】2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io) 
 - [【开发者头条】2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7) 
 - [【开发者头条】2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe) 

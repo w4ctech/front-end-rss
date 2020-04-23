@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -10,11 +10,13 @@
 - [2020-04-19-ECMAScript-2020新增特性](https://www.ershicimi.com/p/fc98b38654c77772c34240102bd9d5b2) 
 - [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6) 
 - [2020-04-18-大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7) 
+- [2020-04-23-ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e) 
 - [2020-04-18-手把手教你原生-JS+WebGL-实现3D图片效果！](https://www.ershicimi.com/p/7cc502ab77c3f07cf0d6a2d2ab96a613) 
 - [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54) 
 - [2020-04-16-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/4a632f66c2654acb25a81b3166b6a0d0) 
 - [2020-04-17-【适合收藏】让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/bd4949079ba2e63310e4909dd8862a45) 
 - [2020-04-17-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/8f9b3aa39751a681d9b710c3143e601e) 
+- [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320) 
 - [2020-04-21-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4) 
 - [2020-04-20-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/8eeced27110ebf6247e339edde335d2b) 
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/) 

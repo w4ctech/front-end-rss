@@ -269,6 +269,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "今年薪资普涨不可能了，前端咋办？",
+        "link": "https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "ECMAScript 2020新增特性",
+        "link": "https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e",
+        "date": "2020-04-23"
+      },
+      {
         "title": "疫情之下，这个前端工程师的“壮举”，我们也该学会！",
         "link": "https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2",
         "date": "2020-04-22"
@@ -506,6 +516,16 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "薅羊毛啦，免费领取极客时间800元的课程！",
+        "link": "https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…",
+        "link": "https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48",
+        "date": "2020-04-23"
+      },
+      {
         "title": "手把手教你写出令人窒息的烂代码",
         "link": "https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e",
         "date": "2020-04-22"
@@ -584,6 +604,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "7个前端进大厂的必备技能，你还缺啥？",
+        "link": "https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "介绍几个 JavaScript 设计模式实际应用场景",
+        "link": "https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320",
+        "date": "2020-04-23"
+      },
       {
         "title": "我是如何把node接口耗时降低23%的",
         "link": "https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232",
@@ -3770,6 +3800,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "VUE 的坑你踩过几个",
+        "link": "https://toutiao.io/k/ktwhl5h",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "高可用 Prometheus：问题集锦",
+        "link": "https://toutiao.io/k/g9jatcd",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "[译] 国外大神制作的超棒 Pandas 可视化教程",
+        "link": "https://toutiao.io/k/c6qp2bx",
+        "date": "2020-04-23"
+      },
       {
         "title": "机器学习笔记（十一）：学支持向量机怎能不懂 “核”",
         "link": "https://toutiao.io/k/88vy8io",

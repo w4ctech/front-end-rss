@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 07:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -745,7 +745,10 @@
 </summary>
 
 
-- [2020-04-24-李彦宏嫌百度智能云不赚钱，把总经理炒了，增添了利润指标](https://www.v2ex.com/t/665522) ![](assets/new.png)  
+- [2020-04-24-佛山地铁-Apple-Pay-广州地铁-Apple-Pay-即将到来](https://www.v2ex.com/t/665526) ![](assets/new.png)  
+- [2020-04-24-请小伙伴兼职解决：通过-USB-OTG-唤醒台式机](https://www.v2ex.com/t/665525) ![](assets/new.png)  
+- [2020-04-24-土区-netflix-的香港-IP-终于被封了](https://www.v2ex.com/t/665524) ![](assets/new.png)  
+- [2020-04-24-李彦宏嫌百度智能云不赚钱，把总经理炒了，增添了利润指标](https://www.v2ex.com/t/665522)  
 - [2020-04-24-给父母换手机,-非异型屏](https://www.v2ex.com/t/665521)  
 - [2020-04-24-问一下-flask-sqlalchemy-往-mysql-写不了中文](https://www.v2ex.com/t/665520)  
 - [2020-04-24-加班后睡不着，写了首打油诗](https://www.v2ex.com/t/665519)  
@@ -762,9 +765,6 @@
 - [2020-04-23-在-Visual-Studio-2019-中为-.NET-Core-WinForm-App-启用窗体设计器](https://www.v2ex.com/t/665506)  
 - [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505)  
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504)  
-- [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503)  
-- [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502)  
-- [2020-04-23-重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -807,7 +807,7 @@
 </summary>
 
 
-- [2020-04-24-世界读书日，上百本免费计算机书籍，拿走不谢！](https://toutiao.io/k/jft8ezv) ![](assets/new.png)  
+- [2020-04-24-世界读书日，上百本免费计算机书籍，拿走不谢！](https://toutiao.io/k/jft8ezv)  
 - [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz)  
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx)  
 - [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -167,6 +167,9 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-24-佛山地铁-Apple-Pay-广州地铁-Apple-Pay-即将到来](https://www.v2ex.com/t/665526) 
+- [2020-04-24-请小伙伴兼职解决：通过-USB-OTG-唤醒台式机](https://www.v2ex.com/t/665525) 
+- [2020-04-24-土区-netflix-的香港-IP-终于被封了](https://www.v2ex.com/t/665524) 
 - [2020-04-24-李彦宏嫌百度智能云不赚钱，把总经理炒了，增添了利润指标](https://www.v2ex.com/t/665522) 
 - [2020-04-24-给父母换手机,-非异型屏](https://www.v2ex.com/t/665521) 
 - [2020-04-24-问一下-flask-sqlalchemy-往-mysql-写不了中文](https://www.v2ex.com/t/665520) 

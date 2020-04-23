@@ -2602,6 +2602,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "第三方登录 orJWT",
+        "link": "https://www.v2ex.com/t/665418",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "微信客户端打开别人发我的视频 黑屏",
+        "link": "https://www.v2ex.com/t/665417",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "面完 HR 了 还有可能呗 pass 掉么?",
+        "link": "https://www.v2ex.com/t/665415",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "有人了解 驻场到 京东方的岗吗?",
+        "link": "https://www.v2ex.com/t/665414",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "阿里淘系前端团队招 P6/P7 团队方向搭建/互动",
+        "link": "https://www.v2ex.com/t/665413",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "有人做过 google sheet 自动化吗？",
+        "link": "https://www.v2ex.com/t/665412",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "prisma 和 普通 orm 的区别是什么？",
+        "link": "https://www.v2ex.com/t/665411",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "拓荒计划 在线招人 接活贴",
+        "link": "https://www.v2ex.com/t/665409",
+        "date": "2020-04-23"
+      },
+      {
         "title": "预算 1w 左右装黑果",
         "link": "https://www.v2ex.com/t/665408",
         "date": "2020-04-23"
@@ -4775,6 +4815,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 为什么 Linux 需要虚拟内存",
+        "link": "https://toutiao.io/k/u65syjf",
+        "date": "2020-04-23"
+      },
       {
         "title": "[推荐] 微服务、DevOps…不是效率银弹，请同时升级你的管理方式",
         "link": "https://toutiao.io/k/ibh4mpc",

@@ -2432,6 +2432,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "尤大 Vue3.0 直播虚拟 Dom 总结(和 React 对比)",
+        "link": "https://www.v2ex.com/t/665188",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "有人试过批量爬某个元素的时候爬不下来但是单独爬的时候却可以爬的情况嘛",
+        "link": "https://www.v2ex.com/t/665187",
+        "date": "2020-04-23"
+      },
+      {
         "title": "好像海底光缆恢复了，还是早晨不堵",
         "link": "https://www.v2ex.com/t/665186",
         "date": "2020-04-23"
@@ -3710,6 +3720,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "2020 最新版 Web 开发者学习路线图来了，收好",
+        "link": "https://toutiao.io/k/1d9qljt",
+        "date": "2020-04-23"
+      },
       {
         "title": "[推荐] 2020 年程序猿必读 10 本好书",
         "link": "https://toutiao.io/k/wd6w9bt",

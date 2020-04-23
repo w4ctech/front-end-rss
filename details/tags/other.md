@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -147,6 +147,7 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-23-有人试过批量爬某个元素的时候爬不下来但是单独爬的时候却可以爬的情况嘛](https://www.v2ex.com/t/665187) 
 - [2020-04-23-好像海底光缆恢复了，还是早晨不堵](https://www.v2ex.com/t/665186) 
 - [2020-04-23-Refurbished-MacBook-Pro-16"刚到，电池循环-1](https://www.v2ex.com/t/665185) 
 - [2020-04-23-宝塔主站好像挂了？](https://www.v2ex.com/t/665184) 
@@ -330,6 +331,7 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-23-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt) 
 - [2020-04-23-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt) 
 - [2020-04-23-推荐-漫谈分布式事务的那些解决方案](https://toutiao.io/k/a21b8ih) 
 - [2020-04-23-推荐-挖财-Kubernetes-容器化之路](https://toutiao.io/k/ry9vzfu) 

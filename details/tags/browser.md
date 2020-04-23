@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,8 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-23-聊天系统-websocket-频繁地断开连接并重连？](https://www.v2ex.com/t/665269) 
+- [2020-04-23-没有美国信用卡，如何安全的给美区-ID-充值？](https://www.v2ex.com/t/665247) 
 - [2020-04-23-WKWebView-没有-pageCount-属性,-怎么解决?](https://www.v2ex.com/t/665221) 
 - [2020-04-23-转-Dart-服务器端开发-、-Dart-客户端开发-、Dart-浏览器端开发-和-Dart-云开发](https://www.v2ex.com/t/665196) 
 - [2020-04-23-成都/杭州-蚂蚁金服基础安全团队招-Java-工程师-P6/P7/P8，欢迎来撩！](https://www.v2ex.com/t/665166) 

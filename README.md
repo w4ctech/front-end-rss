@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 00:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 00:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -745,13 +745,15 @@
 </summary>
 
 
-- [2020-04-23-不把-wait-放在同步块中，为啥这种情况不会抛出-IllegalMonitorStateException？](https://www.v2ex.com/t/665512) ![](assets/new.png)  
-- [2020-04-23-大家所在城市的租房中介费都是由谁来付啊？](https://www.v2ex.com/t/665511) ![](assets/new.png)  
-- [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) ![](assets/new.png)  
-- [2020-04-23-在-windows-下有没有什么办法让带有-UAC-盾标的程序以非管理员身份运行？](https://www.v2ex.com/t/665508) ![](assets/new.png)  
-- [2020-04-23-有没有专科学历的同学成功上岸的？](https://www.v2ex.com/t/665507) ![](assets/new.png)  
-- [2020-04-23-在-Visual-Studio-2019-中为-.NET-Core-WinForm-App-启用窗体设计器](https://www.v2ex.com/t/665506) ![](assets/new.png)  
-- [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505) ![](assets/new.png)  
+- [2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515) ![](assets/new.png)  
+- [2020-04-24-面对公司随时进行的裁员，你做好准备了吗](https://www.v2ex.com/t/665514) ![](assets/new.png)  
+- [2020-04-23-不把-wait-放在同步块中，为啥这种情况不会抛出-IllegalMonitorStateException？](https://www.v2ex.com/t/665512)  
+- [2020-04-23-大家所在城市的租房中介费都是由谁来付啊？](https://www.v2ex.com/t/665511)  
+- [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509)  
+- [2020-04-23-在-windows-下有没有什么办法让带有-UAC-盾标的程序以非管理员身份运行？](https://www.v2ex.com/t/665508)  
+- [2020-04-23-有没有专科学历的同学成功上岸的？](https://www.v2ex.com/t/665507)  
+- [2020-04-23-在-Visual-Studio-2019-中为-.NET-Core-WinForm-App-启用窗体设计器](https://www.v2ex.com/t/665506)  
+- [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505)  
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504)  
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503)  
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502)  
@@ -763,8 +765,6 @@
 - [2020-04-23-关于个人所得税-APP-支持-Android-系统的问题。](https://www.v2ex.com/t/665494)  
 - [2020-04-23-不懂就问，腾讯企业邮箱的「邮件转移」功能收费了，还有办法实现全域邮件转发吗？](https://www.v2ex.com/t/665490)  
 - [2020-04-23-一直留在北京的人们最后都怎么样了？](https://www.v2ex.com/t/665489)  
-- [2020-04-23-求助-实现“只有一个浮动布局，按钮再启动另一个浮动布局”，搞了-2-天没搞好，附源码](https://www.v2ex.com/t/665488)  
-- [2020-04-23-字节社招技术岗-三面之后一般多久-hr-面？](https://www.v2ex.com/t/665487)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -366,6 +366,8 @@
 - [【知乎日报】2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [【知乎日报】2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [【知乎日报】2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [【V2EX】2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515) 
+- [【V2EX】2020-04-24-面对公司随时进行的裁员，你做好准备了吗](https://www.v2ex.com/t/665514) 
 - [【V2EX】2020-04-23-不把-wait-放在同步块中，为啥这种情况不会抛出-IllegalMonitorStateException？](https://www.v2ex.com/t/665512) 
 - [【V2EX】2020-04-23-大家所在城市的租房中介费都是由谁来付啊？](https://www.v2ex.com/t/665511) 
 - [【V2EX】2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 

@@ -2662,6 +2662,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "ajax 异步返回的页面中，加载外部 vendor.js，要怎么实现呢？",
+        "link": "https://www.v2ex.com/t/665515",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "面对公司随时进行的裁员，你做好准备了吗",
+        "link": "https://www.v2ex.com/t/665514",
+        "date": "2020-04-24"
+      },
+      {
         "title": "不把 wait 放在同步块中，为啥这种情况不会抛出 IllegalMonitorStateException？",
         "link": "https://www.v2ex.com/t/665512",
         "date": "2020-04-23"

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -167,6 +167,7 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-24-面对公司随时进行的裁员，你做好准备了吗](https://www.v2ex.com/t/665514) 
 - [2020-04-23-不把-wait-放在同步块中，为啥这种情况不会抛出-IllegalMonitorStateException？](https://www.v2ex.com/t/665512) 
 - [2020-04-23-大家所在城市的租房中介费都是由谁来付啊？](https://www.v2ex.com/t/665511) 
 - [2020-04-23-在-windows-下有没有什么办法让带有-UAC-盾标的程序以非管理员身份运行？](https://www.v2ex.com/t/665508) 

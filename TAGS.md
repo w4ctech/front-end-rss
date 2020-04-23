@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 23:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -236,6 +236,7 @@
 
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)
 - [【开发者头条】Flutter-Web-网站之-Jetpack-成型](https://toutiao.io/k/ve5cy57)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
@@ -471,13 +472,13 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
+- [【掘金前端】如何理解data-URL？](https://juejin.im/post/5ea186b1e51d4546f8787b00)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504)
 - [【V2EX】Living-on-a-Self-Sufficient-Sailboat-for-10-Years-+-FULL-TOUR](https://www.v2ex.com/t/665472)
 - [【V2EX】requests-header-cookie](https://www.v2ex.com/t/665469)
 - [【V2EX】android-手机可以一直开着-usb-调试吗？](https://www.v2ex.com/t/665454)
-- [【V2EX】远程-URL-文件批量下载打包的方法](https://www.v2ex.com/t/665436)
-- [【V2EX】发现一个问题-用-edge-原生下载-GitHub-上的-releases-文件特别快](https://www.v2ex.com/t/665429)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

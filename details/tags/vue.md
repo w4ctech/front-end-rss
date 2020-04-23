@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -28,6 +28,7 @@
 - [2020-04-23-尤雨溪-B-站直播，Vue-3.0-Beta-是一个值得体验的全新版本](https://www.ershicimi.com/p/f189b5b78e917f7c9924b655c3a5b3f9) 
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd) 
 - [2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [2020-04-23-Vue3-Composition-API如何替换Vue-Mixins](https://juejin.im/post/5ea18ae151882573aa53c5ea) 
 - [2020-04-23-elementUi简单实现搜索提词功能](https://juejin.im/post/5ea10a8b6fb9a03c5a7ab5cc) 
 - [2020-04-23-VUE组件通信传值（‘悄悄话’我知道）](https://juejin.im/post/5e8f12be6fb9a03c8122bd6f) 
 - [2020-04-23-如何给自己的vue组件做一个快乐的提示](https://juejin.im/post/5e96fa6df265da47db2e4c20) 

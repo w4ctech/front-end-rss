@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 08:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -391,6 +391,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】Android-虚拟摄像头有人做过吗](https://www.v2ex.com/t/665189)
 - [【V2EX】咨询一个视频抓取的-m3u8-无法播放](https://www.v2ex.com/t/665182)
 - [【V2EX】一个不成熟的-idea，数字图像识别龋齿](https://www.v2ex.com/t/665123)
 - [【V2EX】清华大学自动化系-2020-年大一-c++大作业-雷课堂-有人出免费的无痛的视频课了](https://www.v2ex.com/t/665022)
@@ -498,6 +499,7 @@
 - [【V2EX】（长期有效）欢聚时代（yy，-bigo，一件电商，-100-教育）内推通道，速度快，直达面试官！包括：前端、后端、算法、产品、运营等岗位](https://www.v2ex.com/t/665096)
 - [【V2EX】elasticsearch-怎么读？](https://www.v2ex.com/t/665080)
 - [【V2EX】前端、全栈岗若干，欢迎大神们加入，一起奋斗一起进步](https://www.v2ex.com/t/664968)
+- [【开发者头条】Elasticsearch-能检索出来，但不能正确高亮怎么办？](https://toutiao.io/k/9twd9aq)
 - [【开发者头条】算法工程师的数学基础：概率论](https://toutiao.io/k/sa7wdg6)
 - [【开发者头条】推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)
 - [【开发者头条】推荐-Elasticsearch-开发人员最佳实战指南](https://toutiao.io/k/qat1jxo)
@@ -549,6 +551,7 @@
 - [【V2EX】批量操作-github-仓库](https://www.v2ex.com/t/665097)
 - [【V2EX】有没有写的比较通俗易懂好操作的有关-git-使用的文档？](https://www.v2ex.com/t/664991)
 - [【技术头条】在对比了-GitHub-5000-个-Python-项目之后，我们精选出了这-36-个！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13387&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFa3d9XyTzgCnCR7pjgWyew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】防止-Git-泄漏的-5-种最佳做法](https://toutiao.io/k/boq6d97)
 - [【开发者头条】推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq)
 - [【开发者头条】Gitflow-分支管理策略](https://toutiao.io/k/efwj4p6)
 - [......【查看更多】......](./details/tags/git-svn.md)

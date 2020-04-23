@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-23 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -592,6 +592,7 @@
 - [【V2EX】2020-04-22-长沙医药公司招聘-PHP-开发](https://www.v2ex.com/t/664926) 
 - [【V2EX】2020-04-22-杭州的朋友-有推荐电脑换屏的店么？-想给笔记本换个屏幕](https://www.v2ex.com/t/664925) 
 - [【V2EX】2020-04-22-mbp-Catalina-10.15.4-19E287-你们有遇到蓝牙突然全断了然后-5s-左右自动回复的情况吗？](https://www.v2ex.com/t/664924) 
+- [【技术头条】2020-04-23-Hacking，约不约!-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhacking-linux-kernel-with-inline-hook-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-一个黑客的自白书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-hackers-confession%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-8-个接私活的网站-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13388&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvRkxVNxOE4H4-mPc-1W_ng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

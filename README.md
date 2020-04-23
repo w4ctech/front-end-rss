@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 13:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 13:30:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -259,11 +259,11 @@
 </summary>
 
 
-- [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626) ![](assets/new.png)  
-- [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562) ![](assets/new.png)  
-- [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) ![](assets/new.png)  
-- [2020-04-21-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67) ![](assets/new.png)  
-- [2020-04-21-ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636) ![](assets/new.png)  
+- [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626)  
+- [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562)  
+- [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047)  
+- [2020-04-21-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)  
+- [2020-04-21-ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636)  
 - [2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)  
 - [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)  
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2)  
@@ -731,10 +731,16 @@
 </summary>
 
 
-- [2020-04-23-xposed-是不是只能让那些-app-得到被修改过的信息？](https://www.v2ex.com/t/665299) ![](assets/new.png)  
-- [2020-04-23-500-元以内的路由器评测](https://www.v2ex.com/t/665298) ![](assets/new.png)  
-- [2020-04-23-网易云音乐真是太恶心了](https://www.v2ex.com/t/665297) ![](assets/new.png)  
-- [2020-04-23-有没有在外企外包工作过的大佬来谈谈体验？](https://www.v2ex.com/t/665296) ![](assets/new.png)  
+- [2020-04-23-USB-C-转-DP-带充电有哪些产品?](https://www.v2ex.com/t/665307) ![](assets/new.png)  
+- [2020-04-23-字节跳动目标年内员工上-10w！本人已经入职两百多人了啦！期待下一位是优秀的你！](https://www.v2ex.com/t/665306) ![](assets/new.png)  
+- [2020-04-23-拼车-Off.ice-365-家庭版，-33-元/人/年-还有-1-个车位](https://www.v2ex.com/t/665305) ![](assets/new.png)  
+- [2020-04-23-Python-爬虫如何爬取动态网页数据？](https://www.v2ex.com/t/665304) ![](assets/new.png)  
+- [2020-04-23-如何长进和平衡？](https://www.v2ex.com/t/665303) ![](assets/new.png)  
+- [2020-04-23-分享个-JetBrains-的智能跳转插件-Smart-Jump](https://www.v2ex.com/t/665301) ![](assets/new.png)  
+- [2020-04-23-xposed-是不是只能让那些-app-得到被修改过的信息？](https://www.v2ex.com/t/665299)  
+- [2020-04-23-500-元以内的路由器评测](https://www.v2ex.com/t/665298)  
+- [2020-04-23-网易云音乐真是太恶心了](https://www.v2ex.com/t/665297)  
+- [2020-04-23-有没有在外企外包工作过的大佬来谈谈体验？](https://www.v2ex.com/t/665296)  
 - [2020-04-23-Kindle-上的一些收费书，微信读书不要钱](https://www.v2ex.com/t/665294)  
 - [2020-04-23-为什么喜马拉雅、得到-1.5-倍速播放，连上汽车蓝牙就没声音？微信读书没问题。](https://www.v2ex.com/t/665293)  
 - [2020-04-23-为啥手机投屏显示器无法达到高刷新率？](https://www.v2ex.com/t/665290)  
@@ -745,12 +751,6 @@
 - [2020-04-23-idea-的-run-和-debug-有什么不同吗？](https://www.v2ex.com/t/665284)  
 - [2020-04-23-写了个自动翻译粘贴版为英文内容的翻译工具](https://www.v2ex.com/t/665283)  
 - [2020-04-23-Surface.WIKI-已经支持价格排序功能](https://www.v2ex.com/t/665281)  
-- [2020-04-23-华为手机竟然还有这功能](https://www.v2ex.com/t/665280)  
-- [2020-04-23-Xcode-打包项目时候为啥需要签名？](https://www.v2ex.com/t/665278)  
-- [2020-04-23-大家知道自己开发的扩展程序如何才能上-Chrome-的「编者推荐」吗？](https://www.v2ex.com/t/665276)  
-- [2020-04-23-iPhone-移动固态硬盘有了？](https://www.v2ex.com/t/665274)  
-- [2020-04-23-有区块链技术交流群吗？或者-Dapp-应用开发的群，求拉。](https://www.v2ex.com/t/665273)  
-- [2020-04-23-有没有哪个店家还能买到-vsco-会员帐号](https://www.v2ex.com/t/665272)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -793,6 +793,12 @@
 </summary>
 
 
+- [2020-04-23-面试被问为什么使用-Spring-Boot？答案好像没那么简单](https://toutiao.io/k/dlyraa0) ![](assets/new.png)  
+- [2020-04-23-每日一学：如何计算-CNN-模型的计算量](https://toutiao.io/k/0gb3nwl) ![](assets/new.png)  
+- [2020-04-23-如何搭建自己的-GitLab-服务](https://toutiao.io/k/3bdnij4) ![](assets/new.png)  
+- [2020-04-23-实时数仓：你想要的数仓分层设计与技术选型](https://toutiao.io/k/qlg0xmg) ![](assets/new.png)  
+- [2020-04-23-译-敏捷不是反管理，而是更加激进](https://toutiao.io/k/5piipij) ![](assets/new.png)  
+- [2020-04-23-Rust-入坑指南：最后一舞](https://toutiao.io/k/l2zqzlf) ![](assets/new.png)  
 - [2020-04-23-IM-服务器设计：网关接入层](https://toutiao.io/k/vazuwqx)  
 - [2020-04-23-使用-Jenkins-对以太坊-Dapp-应用持续集成](https://toutiao.io/k/rlvfswq)  
 - [2020-04-23-为什么-MySQL-的自增主键不单调也不连续](https://toutiao.io/k/upy7p1o)  
@@ -807,12 +813,6 @@
 - [2020-04-23-尝试在-Android-中实现实时光线追踪](https://toutiao.io/k/e16gzwe)  
 - [2020-04-23-理解-TypeScript-类型拓宽](https://toutiao.io/k/o5ecdje)  
 - [2020-04-23-处理器是如何调度进程的？](https://toutiao.io/k/kz0on15)  
-- [2020-04-23-防止-Git-泄漏的-5-种最佳做法](https://toutiao.io/k/boq6d97)  
-- [2020-04-23-漫话：为什么生僻字计算机上打不出来，或者打出来也无法显示呢？](https://toutiao.io/k/fc1htac)  
-- [2020-04-23-Elasticsearch-能检索出来，但不能正确高亮怎么办？](https://toutiao.io/k/9twd9aq)  
-- [2020-04-23-MySQL-的事务隔离级别是什么？](https://toutiao.io/k/9rtae1d)  
-- [2020-04-23-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw)  
-- [2020-04-23-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

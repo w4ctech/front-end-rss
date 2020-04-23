@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 20:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 20:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -612,11 +612,11 @@
 </summary>
 
 
-- [2020-04-23-案例｜原生手写一个轮播图——渐隐渐显版](https://juejin.im/post/5ea157d751882573c2193661) ![](assets/new.png)  
-- [2020-04-23-前端新手小白HTML&CSS学习笔记一](https://juejin.im/post/5ea12161518825739915ac52) ![](assets/new.png)  
-- [2020-04-23-axios怎么封装，才能提升效率？](https://juejin.im/post/5ea15045e51d4546e14f6aa5) ![](assets/new.png)  
-- [2020-04-23-3种常用鉴权方法原理与实现](https://juejin.im/post/5ea15336e51d4546d23c265a) ![](assets/new.png)  
-- [2020-04-23-我用过的几种移动端适配](https://juejin.im/post/5ea131b5e51d4546dd2171a8) ![](assets/new.png)  
+- [2020-04-23-案例｜原生手写一个轮播图——渐隐渐显版](https://juejin.im/post/5ea157d751882573c2193661)  
+- [2020-04-23-前端新手小白HTML&CSS学习笔记一](https://juejin.im/post/5ea12161518825739915ac52)  
+- [2020-04-23-axios怎么封装，才能提升效率？](https://juejin.im/post/5ea15045e51d4546e14f6aa5)  
+- [2020-04-23-3种常用鉴权方法原理与实现](https://juejin.im/post/5ea15336e51d4546d23c265a)  
+- [2020-04-23-我用过的几种移动端适配](https://juejin.im/post/5ea131b5e51d4546dd2171a8)  
 - [2020-04-23-4399前端面试题](https://juejin.im/post/5df9cca6e51d455829730b58)  
 - [2020-04-23-手把手教你用原生JavaScript造轮子（五）——Collapse折叠面板](https://juejin.im/post/5ea134a7f265da48076e1022)  
 - [2020-04-23-前端面试手写题有备无患](https://juejin.im/post/5e9d0913f265da47f85df937)  
@@ -741,26 +741,26 @@
 </summary>
 
 
-- [2020-04-23-996-五一-3-天假Ｔ▽Ｔ](https://www.v2ex.com/t/665452) ![](assets/new.png)  
-- [2020-04-23-Springboot-多个项目如何-统一认证？](https://www.v2ex.com/t/665451) ![](assets/new.png)  
-- [2020-04-23-一个想法：解决一点信任问题](https://www.v2ex.com/t/665450) ![](assets/new.png)  
-- [2020-04-23-你认为的-Linux-中最牛逼的命令是什么？不许说-rm](https://www.v2ex.com/t/665449) ![](assets/new.png)  
-- [2020-04-23-不愧为-bug10？昨天更新系统后，锁屏界面图标丢失。](https://www.v2ex.com/t/665446) ![](assets/new.png)  
+- [2020-04-23-想学习一下-Linux-，哪位爱心老哥那里有马哥比较新的-Linux-视频，可否分享一下，谢谢](https://www.v2ex.com/t/665466) ![](assets/new.png)  
+- [2020-04-23-DDD-为什么火不起来？](https://www.v2ex.com/t/665465) ![](assets/new.png)  
+- [2020-04-23-Windows-Terminal-换字体了？](https://www.v2ex.com/t/665463) ![](assets/new.png)  
+- [2020-04-23-字节跳动-海量-HC，大量职位招聘](https://www.v2ex.com/t/665462) ![](assets/new.png)  
+- [2020-04-23-大家有没有自己超喜欢的官网或者网站，可以分享一下吗？](https://www.v2ex.com/t/665461) ![](assets/new.png)  
+- [2020-04-23-对信息产生疲劳有什么解决办法](https://www.v2ex.com/t/665459) ![](assets/new.png)  
+- [2020-04-23-北京乐信圣文招聘-iOS，安卓，-Unity-等职位，最高-16-薪。各位准备换工作的看过来哈！](https://www.v2ex.com/t/665457) ![](assets/new.png)  
+- [2020-04-23-使用-email-订阅-RSS](https://www.v2ex.com/t/665456) ![](assets/new.png)  
+- [2020-04-23-android-手机可以一直开着-usb-调试吗？](https://www.v2ex.com/t/665454) ![](assets/new.png)  
+- [2020-04-23-微信既然不后台保存聊天记录，那为什么发过的图片重新发送可以秒发？](https://www.v2ex.com/t/665453) ![](assets/new.png)  
+- [2020-04-23-996-五一-3-天假Ｔ▽Ｔ](https://www.v2ex.com/t/665452)  
+- [2020-04-23-Springboot-多个项目如何-统一认证？](https://www.v2ex.com/t/665451)  
+- [2020-04-23-一个想法：解决一点信任问题](https://www.v2ex.com/t/665450)  
+- [2020-04-23-你认为的-Linux-中最牛逼的命令是什么？不许说-rm](https://www.v2ex.com/t/665449)  
+- [2020-04-23-不愧为-bug10？昨天更新系统后，锁屏界面图标丢失。](https://www.v2ex.com/t/665446)  
 - [2020-04-23-谁有最新版的-ps2020-软件软件](https://www.v2ex.com/t/665445)  
 - [2020-04-23-去仲裁吧！仲裁没有那么可怕](https://www.v2ex.com/t/665444)  
 - [2020-04-23-Ghost-in-the-Shell:-SAC_2045](https://www.v2ex.com/t/665443)  
 - [2020-04-23-ohmyiterm2-快速安装一个漂亮强大的-iTerm2](https://www.v2ex.com/t/665442)  
 - [2020-04-23-刚注册-azure,-有什么用？](https://www.v2ex.com/t/665441)  
-- [2020-04-23-又来寻找小伙伴组团微信阅读啦,一切为了阅读无限卡!](https://www.v2ex.com/t/665440)  
-- [2020-04-23-iOS-的播放软件有能记录进度的嘛？](https://www.v2ex.com/t/665439)  
-- [2020-04-23-Ebooks-and-podcasts-by-NASA](https://www.v2ex.com/t/665438)  
-- [2020-04-23-Python-如何处理-mysql-的-varbinary-类型](https://www.v2ex.com/t/665437)  
-- [2020-04-23-远程-URL-文件批量下载打包的方法](https://www.v2ex.com/t/665436)  
-- [2020-04-23-ES-查询条件构造的一个问题](https://www.v2ex.com/t/665435)  
-- [2020-04-23-读研要顺延了，刚本科毕业，我需要去干嘛？](https://www.v2ex.com/t/665434)  
-- [2020-04-23-纯-163-网络的-google-cloud-速度为何这么牛](https://www.v2ex.com/t/665432)  
-- [2020-04-23-Java-中怎么限制传入的参数-为特定值](https://www.v2ex.com/t/665431)  
-- [2020-04-23-设计了一套数字字体，遵守-CC0-协议，大家随便用。](https://www.v2ex.com/t/665430)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

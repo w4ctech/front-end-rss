@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 20:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,6 +395,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】想学习一下-Linux-，哪位爱心老哥那里有马哥比较新的-Linux-视频，可否分享一下，谢谢](https://www.v2ex.com/t/665466)
 - [【V2EX】微信客户端打开别人发我的视频-黑屏](https://www.v2ex.com/t/665417)
 - [【V2EX】图像风格迁移问题，求助](https://www.v2ex.com/t/665360)
 - [【V2EX】大家好，我最近在做自媒体，在头条上做视频内容-，账号：“思源科技馆”，老哥们有时间的话可以去捧个场吗](https://www.v2ex.com/t/665271)
@@ -409,7 +410,6 @@
 - [【V2EX】虎牙-直播-广州/深圳/北京/海外](https://www.v2ex.com/t/664996)
 - [【V2EX】微博视频的-cdn-报-"-ERR_SSL_PROTOCOL_ERROR"](https://www.v2ex.com/t/664942)
 - [【V2EX】腾讯视频也在后台上传流量](https://www.v2ex.com/t/664933)
-- [【V2EX】想尽快学好-shell-脚本,有比较好的网站吗?不喜欢看视频](https://www.v2ex.com/t/664930)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -473,11 +473,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】android-手机可以一直开着-usb-调试吗？](https://www.v2ex.com/t/665454)
 - [【V2EX】远程-URL-文件批量下载打包的方法](https://www.v2ex.com/t/665436)
 - [【V2EX】发现一个问题-用-edge-原生下载-GitHub-上的-releases-文件特别快](https://www.v2ex.com/t/665429)
 - [【V2EX】现在的-chrome-浏览器怎么关掉为您推荐的文章啊？求指教](https://www.v2ex.com/t/665351)
 - [【V2EX】爬虫-nightmare-cookies-问题](https://www.v2ex.com/t/665350)
-- [【V2EX】大家知道自己开发的扩展程序如何才能上-Chrome-的「编者推荐」吗？](https://www.v2ex.com/t/665276)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -597,14 +597,14 @@
 - [【JavaScript】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b)
 - [【掘金前端】4399前端面试题](https://juejin.im/post/5df9cca6e51d455829730b58)
 - [【掘金前端】前端面试手写题有备无患](https://juejin.im/post/5e9d0913f265da47f85df937)
+- [【V2EX】字节跳动-海量-HC，大量职位招聘](https://www.v2ex.com/t/665462)
+- [【V2EX】北京乐信圣文招聘-iOS，安卓，-Unity-等职位，最高-16-薪。各位准备换工作的看过来哈！](https://www.v2ex.com/t/665457)
 - [【V2EX】为什么国内技术面试的范围和星辰大海一般广泛](https://www.v2ex.com/t/665401)
 - [【V2EX】北京/上海/深圳/杭州/美国-字节跳动互娱研发抖音业务团队招聘-iOS-工程师啦，一起来做更炫酷的事吧！](https://www.v2ex.com/t/665395)
 - [【V2EX】腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳](https://www.v2ex.com/t/665234)
 - [【V2EX】阿里这电话面试是不定时吗？约的时间也没打啊](https://www.v2ex.com/t/665148)
 - [【V2EX】天猫奢侈品--招聘前端，-Java-，测试](https://www.v2ex.com/t/665098)
 - [【V2EX】Android-面试题](https://www.v2ex.com/t/665086)
-- [【V2EX】招聘贴，地点上海浦东-对工具类软件有兴趣的同学看进来啦~~](https://www.v2ex.com/t/665067)
-- [【V2EX】四月份分别面试-字节跳动，腾讯，百度，才发现跟大厂的差距不只一点点。。。](https://www.v2ex.com/t/665049)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

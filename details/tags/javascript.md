@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -15,6 +15,7 @@
 - [2020-04-21-ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636) 
 - [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54) 
 - [2020-04-16-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/4a632f66c2654acb25a81b3166b6a0d0) 
+- [2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a) 
 - [2020-04-17-【适合收藏】让你减少加班的15条高效JS技巧！](https://www.ershicimi.com/p/bd4949079ba2e63310e4909dd8862a45) 
 - [2020-04-17-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/8f9b3aa39751a681d9b710c3143e601e) 
 - [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320) 

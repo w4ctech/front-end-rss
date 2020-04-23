@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -433,6 +433,7 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-23-推荐-微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://toutiao.io/k/ibh4mpc) 
 - [2020-04-23-记一次奇妙的-go-protobuf-包升级之旅](https://toutiao.io/k/hb5htns) 
 - [2020-04-23-深度学习资源汇总清单（框架、数据集、期刊会议）](https://toutiao.io/k/5trn8j7) 
 - [2020-04-23-每日一学：如何计算-CNN-模型的计算量](https://toutiao.io/k/0gb3nwl) 

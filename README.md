@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-23 14:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-23 15:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -732,16 +732,16 @@
 </summary>
 
 
-- [2020-04-23-0202-年居然还会有全新的-Lumia-950-XL（附蓝牙折叠键盘-/-扩展坞）！](https://www.v2ex.com/t/665325) ![](assets/new.png)  
-- [2020-04-23-中年男人的心态，你对了几条？？-zz](https://www.v2ex.com/t/665324) ![](assets/new.png)  
-- [2020-04-23-适合-IT-男的洗发水](https://www.v2ex.com/t/665323) ![](assets/new.png)  
-- [2020-04-23-异步分片上传文件，我这样做合适吗？](https://www.v2ex.com/t/665322) ![](assets/new.png)  
-- [2020-04-23-es-配置问题,很慢很慢](https://www.v2ex.com/t/665321) ![](assets/new.png)  
-- [2020-04-23-请问-500-元左右的桌面音箱有没有推荐的产品?](https://www.v2ex.com/t/665320) ![](assets/new.png)  
-- [2020-04-23-前后端分离，前端一定要用-NVVM-之类的,比如-vue/react-东西吗？](https://www.v2ex.com/t/665319) ![](assets/new.png)  
-- [2020-04-23-iphone11，输入法经常出不来，有知道怎么解决的吗？](https://www.v2ex.com/t/665317) ![](assets/new.png)  
-- [2020-04-23-有没有小程序相互交流的网站](https://www.v2ex.com/t/665316) ![](assets/new.png)  
-- [2020-04-23-AppleStore-有啥值得买的？我要凑个单分期](https://www.v2ex.com/t/665315) ![](assets/new.png)  
+- [2020-04-23-0202-年居然还会有全新的-Lumia-950-XL（附蓝牙折叠键盘-/-扩展坞）！](https://www.v2ex.com/t/665325)  
+- [2020-04-23-中年男人的心态，你对了几条？？-zz](https://www.v2ex.com/t/665324)  
+- [2020-04-23-适合-IT-男的洗发水](https://www.v2ex.com/t/665323)  
+- [2020-04-23-异步分片上传文件，我这样做合适吗？](https://www.v2ex.com/t/665322)  
+- [2020-04-23-es-配置问题,很慢很慢](https://www.v2ex.com/t/665321)  
+- [2020-04-23-请问-500-元左右的桌面音箱有没有推荐的产品?](https://www.v2ex.com/t/665320)  
+- [2020-04-23-前后端分离，前端一定要用-NVVM-之类的,比如-vue/react-东西吗？](https://www.v2ex.com/t/665319)  
+- [2020-04-23-iphone11，输入法经常出不来，有知道怎么解决的吗？](https://www.v2ex.com/t/665317)  
+- [2020-04-23-有没有小程序相互交流的网站](https://www.v2ex.com/t/665316)  
+- [2020-04-23-AppleStore-有啥值得买的？我要凑个单分期](https://www.v2ex.com/t/665315)  
 - [2020-04-23-远程文件批量打包下载有没有什么解决方案？](https://www.v2ex.com/t/665313)  
 - [2020-04-23-请问有没有大佬在碧桂园做开发的？-Java-开发岗位碧桂园怎么样？求大佬经验](https://www.v2ex.com/t/665311)  
 - [2020-04-23-iPhone-换屏第三方靠谱么](https://www.v2ex.com/t/665310)  
@@ -794,6 +794,7 @@
 </summary>
 
 
+- [2020-04-23-推荐-微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://toutiao.io/k/ibh4mpc) ![](assets/new.png)  
 - [2020-04-23-记一次奇妙的-go-protobuf-包升级之旅](https://toutiao.io/k/hb5htns)  
 - [2020-04-23-深度学习资源汇总清单（框架、数据集、期刊会议）](https://toutiao.io/k/5trn8j7)  
 - [2020-04-23-浅谈-Comet、SSE、WebSocket](https://toutiao.io/k/1prt9rc)  
@@ -813,7 +814,6 @@
 - [2020-04-23-高可用-Prometheus：问题集锦](https://toutiao.io/k/g9jatcd)  
 - [2020-04-23-译-国外大神制作的超棒-Pandas-可视化教程](https://toutiao.io/k/c6qp2bx)  
 - [2020-04-23-机器学习笔记（十一）：学支持向量机怎能不懂-“核”](https://toutiao.io/k/88vy8io)  
-- [2020-04-23-讲真，这两款-IDEA-插件，能治愈你英语不好的病](https://toutiao.io/k/vwjjwn7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

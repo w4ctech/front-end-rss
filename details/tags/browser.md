@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,7 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-22-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-23-大家知道自己开发的扩展程序如何才能上-Chrome-的「编者推荐」吗？](https://www.v2ex.com/t/665276) 
 - [2020-04-23-聊天系统-websocket-频繁地断开连接并重连？](https://www.v2ex.com/t/665269) 
 - [2020-04-23-没有美国信用卡，如何安全的给美区-ID-充值？](https://www.v2ex.com/t/665247) 
 - [2020-04-23-WKWebView-没有-pageCount-属性,-怎么解决?](https://www.v2ex.com/t/665221) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -120,6 +120,7 @@
 - [2020-04-20-从-Google-回来的-CTO](https://www.ershicimi.com/p/a8df88e8a62855f51851badf080d187d) 
 - [2020-04-20-Rust-能够取代-C-语言吗？](https://www.ershicimi.com/p/26e30680c4f4aa4638a6b25f7ba15de0) 
 - [2020-04-16-瑞幸大起大落之下-有哪些技能是你可以复制的？](https://www.ershicimi.com/p/b873826a014290b7f5d49067b387905f) 
+- [2020-04-23-互联网世界历险记-简介从输入网址到网页呈现](https://juejin.im/post/5ea0816ee51d4546cc26d69e) 
 - [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778) 
 - [2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745) 
 - [2020-04-22-入职字节跳动三个月后...我到底发生了什么改变](https://juejin.im/post/5e9fffa66fb9a03c860b8bc6) 
@@ -155,6 +156,15 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-23-为啥手机投屏显示器无法达到高刷新率？](https://www.v2ex.com/t/665290) 
+- [2020-04-23-连着两个-Pro-手柄都有问题，这问题很普遍吗？](https://www.v2ex.com/t/665288) 
+- [2020-04-23-想找个组织](https://www.v2ex.com/t/665287) 
+- [2020-04-23-关于房贷提前还款和买理财，现在有个问题没想明白](https://www.v2ex.com/t/665285) 
+- [2020-04-23-idea-的-run-和-debug-有什么不同吗？](https://www.v2ex.com/t/665284) 
+- [2020-04-23-写了个自动翻译粘贴版为英文内容的翻译工具](https://www.v2ex.com/t/665283) 
+- [2020-04-23-Surface.WIKI-已经支持价格排序功能](https://www.v2ex.com/t/665281) 
+- [2020-04-23-华为手机竟然还有这功能](https://www.v2ex.com/t/665280) 
+- [2020-04-23-Xcode-打包项目时候为啥需要签名？](https://www.v2ex.com/t/665278) 
 - [2020-04-23-iPhone-移动固态硬盘有了？](https://www.v2ex.com/t/665274) 
 - [2020-04-23-有区块链技术交流群吗？或者-Dapp-应用开发的群，求拉。](https://www.v2ex.com/t/665273) 
 - [2020-04-23-有没有哪个店家还能买到-vsco-会员帐号](https://www.v2ex.com/t/665272) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-23 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -92,9 +92,9 @@
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
 - [【InfoQ】只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd)
 - [【JavaScript】Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55)
-- [【掘金前端】用vue-cli+Electron开发一个跨平台的桌面应用____篇一（搭建vue项目、安装electron）](https://juejin.im/post/5ea004d76fb9a03c7204e966)
-- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [【印记中文周刊】结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web)
+- [【掘金前端】elementUi简单实现搜索提词功能](https://juejin.im/post/5ea10a8b6fb9a03c5a7ab5cc)
+- [【掘金前端】VUE组件通信传值（‘悄悄话’我知道）](https://juejin.im/post/5e8f12be6fb9a03c8122bd6f)
+- [【掘金前端】如何给自己的vue组件做一个快乐的提示](https://juejin.im/post/5e96fa6df265da47db2e4c20)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -468,11 +468,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】大家知道自己开发的扩展程序如何才能上-Chrome-的「编者推荐」吗？](https://www.v2ex.com/t/665276)
 - [【V2EX】聊天系统-websocket-频繁地断开连接并重连？](https://www.v2ex.com/t/665269)
 - [【V2EX】没有美国信用卡，如何安全的给美区-ID-充值？](https://www.v2ex.com/t/665247)
 - [【V2EX】WKWebView-没有-pageCount-属性,-怎么解决?](https://www.v2ex.com/t/665221)
 - [【V2EX】转-Dart-服务器端开发-、-Dart-客户端开发-、Dart-浏览器端开发-和-Dart-云开发](https://www.v2ex.com/t/665196)
-- [【V2EX】成都/杭州-蚂蚁金服基础安全团队招-Java-工程师-P6/P7/P8，欢迎来撩！](https://www.v2ex.com/t/665166)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -498,6 +498,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】寻一位算法专家/高级专家](https://www.v2ex.com/t/665286)
 - [【V2EX】你们都是怎样学习算法和数据结构，做到面试算法题心有成竹，信手拈来的？](https://www.v2ex.com/t/665146)
 - [【V2EX】阿里云社招92-后漂亮小姐姐诚招-算法/-数据/-开发-，优秀的你快到碗里来！](https://www.v2ex.com/t/665127)
 - [【V2EX】（长期有效）欢聚时代（yy，-bigo，一件电商，-100-教育）内推通道，速度快，直达面试官！包括：前端、后端、算法、产品、运营等岗位](https://www.v2ex.com/t/665096)

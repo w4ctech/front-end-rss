@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-23 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-23 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -24,6 +24,10 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd) 
 - [2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [2020-04-23-elementUi简单实现搜索提词功能](https://juejin.im/post/5ea10a8b6fb9a03c5a7ab5cc) 
+- [2020-04-23-VUE组件通信传值（‘悄悄话’我知道）](https://juejin.im/post/5e8f12be6fb9a03c8122bd6f) 
+- [2020-04-23-如何给自己的vue组件做一个快乐的提示](https://juejin.im/post/5e96fa6df265da47db2e4c20) 
+- [2020-04-23-Vue-3.0-bate版尝鲜](https://juejin.im/post/5ea10905e51d4546e716ee7c) 
 - [2020-04-22-用vue-cli+Electron开发一个跨平台的桌面应用____篇一（搭建vue项目、安装electron）](https://juejin.im/post/5ea004d76fb9a03c7204e966) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,6 +17,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-04-24-刚刚看到好像-Microsoft-也用了-FastAPI](https://www.v2ex.com/t/665840) 
 - [2020-04-24-内推校招阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/665797) 
 - [2020-04-24-字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784) 
 - [2020-04-24-GVIM-显示中文有问题，-VIM-正常，终端也正常，大家碰到过吗？](https://www.v2ex.com/t/665757) 

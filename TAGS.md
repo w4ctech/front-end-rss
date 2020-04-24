@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-24 21:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -464,11 +464,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】有的长途车站用的那种有个-baidu-标的人脸身份证识别系统，百度只提供算法么？还是百度把身份证和照片都缓存了？](https://www.v2ex.com/t/665837)
 - [【V2EX】前后端分离的页面在请求第三方授权时如何保证授权-token-可以绑定到当前账号](https://www.v2ex.com/t/665716)
 - [【V2EX】如何做网络启动电脑然后-teamviewer-远程控制？](https://www.v2ex.com/t/665700)
 - [【V2EX】Safari-不支持??写法吗？](https://www.v2ex.com/t/665618)
 - [【V2EX】求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605)
-- [【V2EX】Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -495,6 +495,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】刚刚看到好像-Microsoft-也用了-FastAPI](https://www.v2ex.com/t/665840)
 - [【V2EX】内推校招阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/665797)
 - [【V2EX】字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784)
 - [【V2EX】GVIM-显示中文有问题，-VIM-正常，终端也正常，大家碰到过吗？](https://www.v2ex.com/t/665757)
@@ -504,7 +505,6 @@
 - [【V2EX】贵州遵义-招聘前后端/全栈](https://www.v2ex.com/t/665645)
 - [【V2EX】360-蜘蛛爬取了隐藏的-https-路径](https://www.v2ex.com/t/665642)
 - [【V2EX】海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613)
-- [【V2EX】连-5G-Wi-Fi-下，蓝牙鼠标-MX-MASTER-2S-卡顿厉害](https://www.v2ex.com/t/665590)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

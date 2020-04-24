@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -327,6 +327,10 @@
 - [【印记中文周刊】2020-04-24-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
 - [【印记中文周刊】2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [【印记中文周刊】2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [【知乎日报】2020-04-24-知乎高赞：哪一刻你觉得自己被生活磨平了棱角？](https://www.ershicimi.com/p/774803d79110dc29ac242097f795f7fb) 
+- [【知乎日报】2020-04-24-别再靠不吃主食减肥了！10-种比米饭更好的主食，先知道先瘦](https://www.ershicimi.com/p/990c50b457d769e0b3bf7a16bc61dd49) 
+- [【知乎日报】2020-04-24-钢铁侠离开的第-366-天，想他](https://www.ershicimi.com/p/89e93e330257aacf45e7d06d83e51804) 
+- [【知乎日报】2020-04-24-知乎故事-|-你们麻醉后说过什么蠢话?](https://www.ershicimi.com/p/a7297a77495b463804bddecfd353e2e5) 
 - [【知乎日报】2020-04-23-本人黑眼圈声明：与熬夜运动无关](https://www.ershicimi.com/p/f0f3f2ce7a2811efd4e71780906b8177) 
 - [【知乎日报】2020-04-23-教育机构获客难度再升级？这份万字知乎运营案例请收好](https://www.ershicimi.com/p/26e3750d3cd81abc9667c2bd442ea1fe) 
 - [【知乎日报】2020-04-23-知乎故事-|-半夜听到室友呼救，该装睡还是帮忙？](https://www.ershicimi.com/p/c357148b4e900a39bb17e017bfcd8a04) 
@@ -337,6 +341,14 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-24-有没有做电影剧集主题推荐的平台](https://www.v2ex.com/t/665846) 
+- [【V2EX】2020-04-24-单休是进步还是倒-che](https://www.v2ex.com/t/665845) 
+- [【V2EX】2020-04-24-Mac-作-VPN-服务器用什么程序搭？](https://www.v2ex.com/t/665843) 
+- [【V2EX】2020-04-24-有办法实现允许-windows-更新，但是不允许自动关机重启的方法吗？](https://www.v2ex.com/t/665841) 
+- [【V2EX】2020-04-24-刚刚看到好像-Microsoft-也用了-FastAPI](https://www.v2ex.com/t/665840) 
+- [【V2EX】2020-04-24-OVH-的独服价格看起来好香啊，我大清为什么没有这样的服务器啊啊啊啊啊呜呜呜呜（纯羡慕嫉妒）](https://www.v2ex.com/t/665838) 
+- [【V2EX】2020-04-24-有的长途车站用的那种有个-baidu-标的人脸身份证识别系统，百度只提供算法么？还是百度把身份证和照片都缓存了？](https://www.v2ex.com/t/665837) 
+- [【V2EX】2020-04-24-懂王教你如何一分钟消灭病毒](https://www.v2ex.com/t/665836) 
 - [【V2EX】2020-04-24-给你出道简单的题](https://www.v2ex.com/t/665834) 
 - [【V2EX】2020-04-24-大家的手机还可以连上-4G+吗？遇到过卡被限速吗？能够恢复吗？](https://www.v2ex.com/t/665833) 
 - [【V2EX】2020-04-24-腾讯内推，快到碗里来~.~](https://www.v2ex.com/t/665832) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 00:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -289,6 +289,7 @@
 - [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [【掘金前端】2020-04-24-你真的了解浅比较么？PureComponent-和-shouldeComponentUpdate-解析](https://imweb.io/topic/598973c2c72aa8db35d2e291) 
 - [【掘金前端】2020-04-24-利用Python实现前端自动化打包部署](https://juejin.im/post/5ea24c06f265da47fe1e0a97) 
 - [【掘金前端】2020-04-24-vue-使用-vue-pdf-实现pdf在线预览](https://juejin.im/post/5ea2bcd0f265da47e44a1fd5) 
 - [【掘金前端】2020-04-24-霖呆呆向你发起了多人学习webpack-构建方式篇2](https://juejin.im/post/5ea2a64a51882573a509c426) 

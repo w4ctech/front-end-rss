@@ -2092,6 +2092,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "你真的了解浅比较么？PureComponent 和 shouldeComponentUpdate 解析",
+        "link": "https://imweb.io/topic/598973c2c72aa8db35d2e291",
+        "date": "2020-04-24"
+      },
+      {
         "title": "利用Python实现前端自动化打包部署",
         "link": "https://juejin.im/post/5ea24c06f265da47fe1e0a97",
         "date": "2020-04-24"

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -22,6 +22,7 @@
 - [2020-04-22-疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2) 
 - [2020-04-21-必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！](https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f) 
 - [2020-04-20-前端应该会的23个linux常用命令](https://www.ershicimi.com/p/17de0a726575ffa60fa77e7b01cbee3e) 
+- [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 

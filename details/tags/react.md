@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -9,6 +9,8 @@
 
 - [2020-04-21-【第1921期】React-16.8.6-版本存在内存泄露](https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a) 
 - [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397) 
+- [2020-04-24-React.js-性能分析](https://www.ershicimi.com/p/158cc3f8bee03c13010c11768bac69d2) 
+- [2020-04-23-用React-Hooks做一个搜索栏](https://www.ershicimi.com/p/82ec07debd814648475a75cd252f7f48) 
 - [2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4) 
 - [2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b) 
 - [2020-04-17-还没用React做过项目？2020年，就要面对现实了...](https://www.ershicimi.com/p/f506d0f14dc3b70a9d59eebd9f17df9d) 

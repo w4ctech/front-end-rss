@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -172,6 +172,11 @@
 - [【前端大学】2020-04-21-CSS-渲染原理以及优化策略](https://www.ershicimi.com/p/bb03e8c4edfa3fb00616f7b93a04d15b) 
 - [【前端大学】2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ae52fabfb7b18e0c2e6a2e155c1fba64) 
 - [【前端大学】2020-04-20-前端应该会的23个linux常用命令](https://www.ershicimi.com/p/17de0a726575ffa60fa77e7b01cbee3e) 
+- [【前端之巅】2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
+- [【前端之巅】2020-04-24-React.js-性能分析](https://www.ershicimi.com/p/158cc3f8bee03c13010c11768bac69d2) 
+- [【前端之巅】2020-04-24-当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813) 
+- [【前端之巅】2020-04-23-用React-Hooks做一个搜索栏](https://www.ershicimi.com/p/82ec07debd814648475a75cd252f7f48) 
+- [【前端之巅】2020-04-23-工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0) 
 - [【前端之巅】2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626) 
 - [【前端之巅】2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562) 
 - [【前端之巅】2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 

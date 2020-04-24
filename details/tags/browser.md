@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -21,6 +21,8 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-24-前后端分离的页面在请求第三方授权时如何保证授权-token-可以绑定到当前账号](https://www.v2ex.com/t/665716) 
+- [2020-04-24-如何做网络启动电脑然后-teamviewer-远程控制？](https://www.v2ex.com/t/665700) 
 - [2020-04-24-Safari-不支持??写法吗？](https://www.v2ex.com/t/665618) 
 - [2020-04-24-求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605) 
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 

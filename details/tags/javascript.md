@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -45,6 +45,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f) 
 - [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 
@@ -68,6 +69,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-24-Go-适合做函数式编程吗？](https://www.v2ex.com/t/665804) 
 - [2020-04-24-js-有没有好用的根据模板图片生成分享图的工具？](https://www.v2ex.com/t/665740) 
 - [2020-04-24-你还记得那些疯狂裂变的-H5-吗？](https://www.v2ex.com/t/665698) 
 - [2020-04-24-防止-xss-和-sql-注入而进行非法字符过滤，-js-前端有什么几乎一劳永逸的方式？](https://www.v2ex.com/t/665687) 

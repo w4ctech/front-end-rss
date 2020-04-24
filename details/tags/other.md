@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -43,6 +43,7 @@
 - [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
 - [2020-04-16-今年你还敢和老板提涨薪吗？](https://www.ershicimi.com/p/d3421bc427e1506889d25a6340ad3c19) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html) 
 - [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html) 
 - [2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
@@ -124,6 +125,7 @@
 - [2020-04-20-从-Google-回来的-CTO](https://www.ershicimi.com/p/a8df88e8a62855f51851badf080d187d) 
 - [2020-04-20-Rust-能够取代-C-语言吗？](https://www.ershicimi.com/p/26e30680c4f4aa4638a6b25f7ba15de0) 
 - [2020-04-16-瑞幸大起大落之下-有哪些技能是你可以复制的？](https://www.ershicimi.com/p/b873826a014290b7f5d49067b387905f) 
+- [2020-04-24-精神小伙，如何让自己成为前端-TeamLeader-候选人](https://juejin.im/post/5ea231ac6fb9a03c576ccb17) 
 - [2020-04-23-案例｜原生手写一个轮播图——渐隐渐显版](https://juejin.im/post/5ea157d751882573c2193661) 
 - [2020-04-23-axios怎么封装，才能提升效率？](https://juejin.im/post/5ea15045e51d4546e14f6aa5) 
 - [2020-04-23-3种常用鉴权方法原理与实现](https://juejin.im/post/5ea15336e51d4546d23c265a) 
@@ -574,6 +576,12 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-24-不使用-if-elif-语句，如何优雅地判断某个数字所属的等级？](https://toutiao.io/k/lirfv72) 
+- [2020-04-24-LevelDB-完全解析（0）：基本原理和整体架构](https://toutiao.io/k/qrwg1oa) 
+- [2020-04-24-必杀技：当报错信息看不出原因时，怎么办？](https://toutiao.io/k/hvw8tmw) 
+- [2020-04-24-不要让你的-Java-对象逃逸了](https://toutiao.io/k/c7pr98o) 
+- [2020-04-24-编程开发（一）：日志框架](https://toutiao.io/k/dclt7tt) 
+- [2020-04-24-译-DoR、DoD，定义的是什么？](https://toutiao.io/k/7csjslp) 
 - [2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck) 
 - [2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv) 
 - [2020-04-24-区块链对支付清算体系的影响：以-Libra-和-DC/EP-为例](https://toutiao.io/k/e3mc85e) 

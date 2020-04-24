@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -21,4 +21,5 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-04-22-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
 - [2020-04-22-JSBox-是如何在-iOS-里运行-Node.js-的？](https://www.v2ex.com/t/665100) 
+- [2020-04-24-opa-koans：带你进入-OPA-的世界](https://toutiao.io/k/n65kirr) 
 - [2020-04-24-2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s) 

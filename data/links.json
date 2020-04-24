@@ -781,6 +781,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊：第 104 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html",
+        "date": "2020-04-24"
+      },
+      {
         "title": "家用游戏机的历史：世嘉、任天堂和 PlayStation 的故事",
         "link": "http://www.ruanyifeng.com/blog/2020/04/game-console-history.html",
         "date": "2020-04-20"
@@ -2142,6 +2147,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "精神小伙，如何让自己成为前端 TeamLeader 候选人",
+        "link": "https://juejin.im/post/5ea231ac6fb9a03c576ccb17",
+        "date": "2020-04-24"
+      },
       {
         "title": "彻底弄懂节流和防抖",
         "link": "https://juejin.im/post/5ea189fee51d4546bb6f603d",
@@ -5335,6 +5345,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "不使用 if-elif 语句，如何优雅地判断某个数字所属的等级？",
+        "link": "https://toutiao.io/k/lirfv72",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "LevelDB 完全解析（0）：基本原理和整体架构",
+        "link": "https://toutiao.io/k/qrwg1oa",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "必杀技：当报错信息看不出原因时，怎么办？",
+        "link": "https://toutiao.io/k/hvw8tmw",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "不要让你的 Java 对象逃逸了",
+        "link": "https://toutiao.io/k/c7pr98o",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "编程开发（一）：日志框架",
+        "link": "https://toutiao.io/k/dclt7tt",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[译] DoR、DoD，定义的是什么？",
+        "link": "https://toutiao.io/k/7csjslp",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "opa-koans：带你进入 OPA 的世界",
+        "link": "https://toutiao.io/k/n65kirr",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "分享个最近做的记账小程序",
+        "link": "https://toutiao.io/k/kqez485",
+        "date": "2020-04-24"
+      },
       {
         "title": "终于把动态规划与策略迭代、值迭代讲清楚了",
         "link": "https://toutiao.io/k/3b7rvck",

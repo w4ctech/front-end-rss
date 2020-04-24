@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -243,6 +243,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [【阮一峰的网络日志】2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html) 
 - [【阮一峰的网络日志】2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html) 
 - [【阮一峰的网络日志】2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html) 
 - [【阮一峰的网络日志】2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html) 
@@ -299,6 +300,7 @@
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
 - [【JavaScript】2020-04-17-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/012ffbd4719969d77ae889884b08923b) 
 - [【JavaScript】2020-04-16-瑞幸大起大落之下-有哪些技能是你可以复制的？](https://www.ershicimi.com/p/b873826a014290b7f5d49067b387905f) 
+- [【掘金前端】2020-04-24-精神小伙，如何让自己成为前端-TeamLeader-候选人](https://juejin.im/post/5ea231ac6fb9a03c576ccb17) 
 - [【掘金前端】2020-04-23-彻底弄懂节流和防抖](https://juejin.im/post/5ea189fee51d4546bb6f603d) 
 - [【掘金前端】2020-04-23-Vue3-Composition-API如何替换Vue-Mixins](https://juejin.im/post/5ea18ae151882573aa53c5ea) 
 - [【掘金前端】2020-04-23-如何理解data-URL？](https://juejin.im/post/5ea186b1e51d4546f8787b00) 
@@ -898,6 +900,14 @@
 - [【技术头条】2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-24-不使用-if-elif-语句，如何优雅地判断某个数字所属的等级？](https://toutiao.io/k/lirfv72) 
+- [【开发者头条】2020-04-24-LevelDB-完全解析（0）：基本原理和整体架构](https://toutiao.io/k/qrwg1oa) 
+- [【开发者头条】2020-04-24-必杀技：当报错信息看不出原因时，怎么办？](https://toutiao.io/k/hvw8tmw) 
+- [【开发者头条】2020-04-24-不要让你的-Java-对象逃逸了](https://toutiao.io/k/c7pr98o) 
+- [【开发者头条】2020-04-24-编程开发（一）：日志框架](https://toutiao.io/k/dclt7tt) 
+- [【开发者头条】2020-04-24-译-DoR、DoD，定义的是什么？](https://toutiao.io/k/7csjslp) 
+- [【开发者头条】2020-04-24-opa-koans：带你进入-OPA-的世界](https://toutiao.io/k/n65kirr) 
+- [【开发者头条】2020-04-24-分享个最近做的记账小程序](https://toutiao.io/k/kqez485) 
 - [【开发者头条】2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck) 
 - [【开发者头条】2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv) 
 - [【开发者头条】2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb) 

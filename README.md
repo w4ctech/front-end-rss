@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 08:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 09:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -431,6 +431,7 @@
 </summary>
 
 
+- [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html) ![](assets/new.png)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
 - [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)  
 - [2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html)  
@@ -613,6 +614,7 @@
 </summary>
 
 
+- [2020-04-24-精神小伙，如何让自己成为前端-TeamLeader-候选人](https://juejin.im/post/5ea231ac6fb9a03c576ccb17) ![](assets/new.png)  
 - [2020-04-23-彻底弄懂节流和防抖](https://juejin.im/post/5ea189fee51d4546bb6f603d)  
 - [2020-04-23-Vue3-Composition-API如何替换Vue-Mixins](https://juejin.im/post/5ea18ae151882573aa53c5ea)  
 - [2020-04-23-如何理解data-URL？](https://juejin.im/post/5ea186b1e51d4546f8787b00)  
@@ -632,7 +634,6 @@
 - [2020-04-23-如何给自己的vue组件做一个快乐的提示](https://juejin.im/post/5e96fa6df265da47db2e4c20)  
 - [2020-04-23-Vue-3.0-bate版尝鲜](https://juejin.im/post/5ea10905e51d4546e716ee7c)  
 - [2020-04-23-哇哦！高级前端技术专家的职业规划长这样儿](https://juejin.im/post/5ea0db74e51d4546e347f778)  
-- [2020-04-22-再过几天，就是一名3年开发经验的前端了](https://juejin.im/post/5e9ff960e51d4546f2800745)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -745,8 +746,8 @@
 </summary>
 
 
-- [2020-04-24-咖啡和可乐会影响味道吗](https://www.v2ex.com/t/665530) ![](assets/new.png)  
-- [2020-04-24-amd-移动处理器现在只有天选可以选？](https://www.v2ex.com/t/665529) ![](assets/new.png)  
+- [2020-04-24-咖啡和可乐会影响味道吗](https://www.v2ex.com/t/665530)  
+- [2020-04-24-amd-移动处理器现在只有天选可以选？](https://www.v2ex.com/t/665529)  
 - [2020-04-24-收到勒索邮件了](https://www.v2ex.com/t/665528)  
 - [2020-04-24-各位对中国特供版电车有什么看法吗？](https://www.v2ex.com/t/665527)  
 - [2020-04-24-佛山地铁-Apple-Pay-广州地铁-Apple-Pay-即将到来](https://www.v2ex.com/t/665526)  
@@ -807,26 +808,26 @@
 </summary>
 
 
-- [2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck) ![](assets/new.png)  
-- [2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv) ![](assets/new.png)  
-- [2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb) ![](assets/new.png)  
-- [2020-04-24-区块链对支付清算体系的影响：以-Libra-和-DC/EP-为例](https://toutiao.io/k/e3mc85e) ![](assets/new.png)  
-- [2020-04-24-2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s) ![](assets/new.png)  
-- [2020-04-24-聊聊-HTTPS-的工作原理](https://toutiao.io/k/st9uvj0) ![](assets/new.png)  
-- [2020-04-24-Unicode-编码在-Android-中的应用](https://toutiao.io/k/yugg9y3) ![](assets/new.png)  
-- [2020-04-24-我感觉我学了一个假的-Android...](https://toutiao.io/k/klbonr0) ![](assets/new.png)  
+- [2020-04-24-不使用-if-elif-语句，如何优雅地判断某个数字所属的等级？](https://toutiao.io/k/lirfv72) ![](assets/new.png)  
+- [2020-04-24-LevelDB-完全解析（0）：基本原理和整体架构](https://toutiao.io/k/qrwg1oa) ![](assets/new.png)  
+- [2020-04-24-必杀技：当报错信息看不出原因时，怎么办？](https://toutiao.io/k/hvw8tmw) ![](assets/new.png)  
+- [2020-04-24-不要让你的-Java-对象逃逸了](https://toutiao.io/k/c7pr98o) ![](assets/new.png)  
+- [2020-04-24-编程开发（一）：日志框架](https://toutiao.io/k/dclt7tt) ![](assets/new.png)  
+- [2020-04-24-译-DoR、DoD，定义的是什么？](https://toutiao.io/k/7csjslp) ![](assets/new.png)  
+- [2020-04-24-opa-koans：带你进入-OPA-的世界](https://toutiao.io/k/n65kirr) ![](assets/new.png)  
+- [2020-04-24-分享个最近做的记账小程序](https://toutiao.io/k/kqez485) ![](assets/new.png)  
+- [2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck)  
+- [2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv)  
+- [2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb)  
+- [2020-04-24-区块链对支付清算体系的影响：以-Libra-和-DC/EP-为例](https://toutiao.io/k/e3mc85e)  
+- [2020-04-24-2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s)  
+- [2020-04-24-聊聊-HTTPS-的工作原理](https://toutiao.io/k/st9uvj0)  
+- [2020-04-24-Unicode-编码在-Android-中的应用](https://toutiao.io/k/yugg9y3)  
+- [2020-04-24-我感觉我学了一个假的-Android...](https://toutiao.io/k/klbonr0)  
 - [2020-04-24-世界读书日，上百本免费计算机书籍，拿走不谢！](https://toutiao.io/k/jft8ezv)  
 - [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz)  
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx)  
 - [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0)  
-- [2020-04-23-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf)  
-- [2020-04-23-推荐-微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://toutiao.io/k/ibh4mpc)  
-- [2020-04-23-记一次奇妙的-go-protobuf-包升级之旅](https://toutiao.io/k/hb5htns)  
-- [2020-04-23-深度学习资源汇总清单（框架、数据集、期刊会议）](https://toutiao.io/k/5trn8j7)  
-- [2020-04-23-浅谈-Comet、SSE、WebSocket](https://toutiao.io/k/1prt9rc)  
-- [2020-04-23-面试被问为什么使用-Spring-Boot？答案好像没那么简单](https://toutiao.io/k/dlyraa0)  
-- [2020-04-23-每日一学：如何计算-CNN-模型的计算量](https://toutiao.io/k/0gb3nwl)  
-- [2020-04-23-如何搭建自己的-GitLab-服务](https://toutiao.io/k/3bdnij4)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

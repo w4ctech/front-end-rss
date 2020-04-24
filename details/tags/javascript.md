@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -92,5 +92,6 @@
 - [2020-04-22-JavaScript-如何判断鼠标在链接上呀](https://www.v2ex.com/t/664938) 
 - [2020-04-22-为什么类适配器模式中的目标抽象类只能为接口，不能为类？](https://www.v2ex.com/t/664935) 
 - [2020-04-22-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb) 
 - [2020-04-23-译-从零开始使用-JavaScript-制作自己的命令行（CLI-工具）](https://toutiao.io/k/hgnylhn) 
 - [2020-04-22-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g) 

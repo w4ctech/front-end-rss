@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 08:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -745,8 +745,10 @@
 </summary>
 
 
-- [2020-04-24-收到勒索邮件了](https://www.v2ex.com/t/665528) ![](assets/new.png)  
-- [2020-04-24-各位对中国特供版电车有什么看法吗？](https://www.v2ex.com/t/665527) ![](assets/new.png)  
+- [2020-04-24-咖啡和可乐会影响味道吗](https://www.v2ex.com/t/665530) ![](assets/new.png)  
+- [2020-04-24-amd-移动处理器现在只有天选可以选？](https://www.v2ex.com/t/665529) ![](assets/new.png)  
+- [2020-04-24-收到勒索邮件了](https://www.v2ex.com/t/665528)  
+- [2020-04-24-各位对中国特供版电车有什么看法吗？](https://www.v2ex.com/t/665527)  
 - [2020-04-24-佛山地铁-Apple-Pay-广州地铁-Apple-Pay-即将到来](https://www.v2ex.com/t/665526)  
 - [2020-04-24-请小伙伴兼职解决：通过-USB-OTG-唤醒台式机](https://www.v2ex.com/t/665525)  
 - [2020-04-24-土区-netflix-的香港-IP-终于被封了](https://www.v2ex.com/t/665524)  
@@ -763,8 +765,6 @@
 - [2020-04-23-大家所在城市的租房中介费都是由谁来付啊？](https://www.v2ex.com/t/665511)  
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509)  
 - [2020-04-23-在-windows-下有没有什么办法让带有-UAC-盾标的程序以非管理员身份运行？](https://www.v2ex.com/t/665508)  
-- [2020-04-23-有没有专科学历的同学成功上岸的？](https://www.v2ex.com/t/665507)  
-- [2020-04-23-在-Visual-Studio-2019-中为-.NET-Core-WinForm-App-启用窗体设计器](https://www.v2ex.com/t/665506)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -807,6 +807,14 @@
 </summary>
 
 
+- [2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck) ![](assets/new.png)  
+- [2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv) ![](assets/new.png)  
+- [2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb) ![](assets/new.png)  
+- [2020-04-24-区块链对支付清算体系的影响：以-Libra-和-DC/EP-为例](https://toutiao.io/k/e3mc85e) ![](assets/new.png)  
+- [2020-04-24-2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s) ![](assets/new.png)  
+- [2020-04-24-聊聊-HTTPS-的工作原理](https://toutiao.io/k/st9uvj0) ![](assets/new.png)  
+- [2020-04-24-Unicode-编码在-Android-中的应用](https://toutiao.io/k/yugg9y3) ![](assets/new.png)  
+- [2020-04-24-我感觉我学了一个假的-Android...](https://toutiao.io/k/klbonr0) ![](assets/new.png)  
 - [2020-04-24-世界读书日，上百本免费计算机书籍，拿走不谢！](https://toutiao.io/k/jft8ezv)  
 - [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz)  
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx)  
@@ -819,14 +827,6 @@
 - [2020-04-23-面试被问为什么使用-Spring-Boot？答案好像没那么简单](https://toutiao.io/k/dlyraa0)  
 - [2020-04-23-每日一学：如何计算-CNN-模型的计算量](https://toutiao.io/k/0gb3nwl)  
 - [2020-04-23-如何搭建自己的-GitLab-服务](https://toutiao.io/k/3bdnij4)  
-- [2020-04-23-实时数仓：你想要的数仓分层设计与技术选型](https://toutiao.io/k/qlg0xmg)  
-- [2020-04-23-译-敏捷不是反管理，而是更加激进](https://toutiao.io/k/5piipij)  
-- [2020-04-23-Rust-入坑指南：最后一舞](https://toutiao.io/k/l2zqzlf)  
-- [2020-04-23-IM-服务器设计：网关接入层](https://toutiao.io/k/vazuwqx)  
-- [2020-04-23-使用-Jenkins-对以太坊-Dapp-应用持续集成](https://toutiao.io/k/rlvfswq)  
-- [2020-04-23-为什么-MySQL-的自增主键不单调也不连续](https://toutiao.io/k/upy7p1o)  
-- [2020-04-23-译-从零开始使用-JavaScript-制作自己的命令行（CLI-工具）](https://toutiao.io/k/hgnylhn)  
-- [2020-04-23-从-Google-算法大神那-"偷学"-的复杂度分析法，真香](https://toutiao.io/k/mvcannl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

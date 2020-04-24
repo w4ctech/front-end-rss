@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -167,6 +167,8 @@
 - [2020-04-20-知乎故事-|-你见过的最淡定的被出轨的女人什么样？](https://www.ershicimi.com/p/23088227374f2c4eaadc9a8cfea3ae19) 
 - [2020-04-19-本周知乎热榜-|-「黑人抬棺」是什么梗？考研国家线公布，山东理工虐猫者被退学](https://www.ershicimi.com/p/cea6226914c3e9ccdf504020c435280a) 
 - [2020-04-19-知乎神吐槽-|-王妃不想侍寝怎么办？](https://www.ershicimi.com/p/afcce510b74aae1999fca2d0d032dd92) 
+- [2020-04-24-咖啡和可乐会影响味道吗](https://www.v2ex.com/t/665530) 
+- [2020-04-24-amd-移动处理器现在只有天选可以选？](https://www.v2ex.com/t/665529) 
 - [2020-04-24-收到勒索邮件了](https://www.v2ex.com/t/665528) 
 - [2020-04-24-各位对中国特供版电车有什么看法吗？](https://www.v2ex.com/t/665527) 
 - [2020-04-24-佛山地铁-Apple-Pay-广州地铁-Apple-Pay-即将到来](https://www.v2ex.com/t/665526) 
@@ -572,6 +574,11 @@
 - [2020-04-22-Android版微信后台保活实战分享进程保活篇-www.52im.net](https://blogread.cn/news/go.php?idItem=13381&url=http%3A%2F%2Fwww.52im.net%2Fthread-210-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-学习JVM参数前必须了解的-club.perfma.com](https://blogread.cn/news/go.php?idItem=13380&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F437822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-22-Android-多线程技术哪家强？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13379&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9-t5uC73mZsLNCTgJwNcBw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck) 
+- [2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv) 
+- [2020-04-24-区块链对支付清算体系的影响：以-Libra-和-DC/EP-为例](https://toutiao.io/k/e3mc85e) 
+- [2020-04-24-Unicode-编码在-Android-中的应用](https://toutiao.io/k/yugg9y3) 
+- [2020-04-24-我感觉我学了一个假的-Android...](https://toutiao.io/k/klbonr0) 
 - [2020-04-24-世界读书日，上百本免费计算机书籍，拿走不谢！](https://toutiao.io/k/jft8ezv) 
 - [2020-04-24-推荐-Java-8-的-Stream-流真香，没体验过的永远不知道](https://toutiao.io/k/3crptnz) 
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx) 

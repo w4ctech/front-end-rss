@@ -2662,6 +2662,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "咖啡和可乐会影响味道吗",
+        "link": "https://www.v2ex.com/t/665530",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "amd 移动处理器现在只有天选可以选？",
+        "link": "https://www.v2ex.com/t/665529",
+        "date": "2020-04-24"
+      },
+      {
         "title": "收到勒索邮件了",
         "link": "https://www.v2ex.com/t/665528",
         "date": "2020-04-24"
@@ -5325,6 +5335,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "终于把动态规划与策略迭代、值迭代讲清楚了",
+        "link": "https://toutiao.io/k/3b7rvck",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "如何用 Go 编码实现查找 DNS 记录",
+        "link": "https://toutiao.io/k/qb2imjv",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "基于组件化的大规模软件开发意义在哪里",
+        "link": "https://toutiao.io/k/ajrytxb",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "区块链对支付清算体系的影响：以 Libra 和 DC/EP 为例",
+        "link": "https://toutiao.io/k/e3mc85e",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "2020 年 Node.js 开发者调查报告",
+        "link": "https://toutiao.io/k/6h3w41s",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "聊聊 HTTPS 的工作原理",
+        "link": "https://toutiao.io/k/st9uvj0",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "Unicode 编码在 Android 中的应用",
+        "link": "https://toutiao.io/k/yugg9y3",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "我感觉我学了一个假的 Android...",
+        "link": "https://toutiao.io/k/klbonr0",
+        "date": "2020-04-24"
+      },
       {
         "title": "世界读书日，上百本免费计算机书籍，拿走不谢！",
         "link": "https://toutiao.io/k/jft8ezv",

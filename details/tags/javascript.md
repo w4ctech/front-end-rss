@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -66,6 +66,8 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-24-新手问一下关于异步返回值的问题](https://www.v2ex.com/t/665621) 
+- [2020-04-24-ie8-下有什么工程化、模块化开发的方案？](https://www.v2ex.com/t/665619) 
 - [2020-04-24-vscode-新人，原来用-Idea-写-Java-，自动“import”-或提示-“import-哪个类”-都很方便。-现在转到-c++了，打算用-vscode-作为开发工具。-目前遇到两个问题：](https://www.v2ex.com/t/665610) 
 - [2020-04-24-关于-js-函数返回值的一个小问题](https://www.v2ex.com/t/665550) 
 - [2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 11:30:20，:rocket: 更新条数: +48， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 12:00:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -693,26 +693,26 @@
 </summary>
 
 
-- [2020-04-24-海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613) ![](assets/new.png)  
-- [2020-04-24-springboot-&-vue.js-搭建的前后端分离管理后台~](https://www.v2ex.com/t/665612) ![](assets/new.png)  
-- [2020-04-24-大家觉得现在是不是可以所有的地区都撤县设区？](https://www.v2ex.com/t/665611) ![](assets/new.png)  
-- [2020-04-24-vscode-新人，原来用-Idea-写-Java-，自动“import”-或提示-“import-哪个类”-都很方便。-现在转到-c++了，打算用-vscode-作为开发工具。-目前遇到两个问题：](https://www.v2ex.com/t/665610) ![](assets/new.png)  
-- [2020-04-24-AirPodspro-需要买-Apple-care-吗](https://www.v2ex.com/t/665609) ![](assets/new.png)  
-- [2020-04-24-在线实时音频播放](https://www.v2ex.com/t/665608) ![](assets/new.png)  
-- [2020-04-24-有没有办法让笔记本接入-macmini-的画面，并且能够用鼠标键盘控制](https://www.v2ex.com/t/665607) ![](assets/new.png)  
-- [2020-04-24-苹果店现在有-se2-现货了吗?](https://www.v2ex.com/t/665606) ![](assets/new.png)  
-- [2020-04-24-求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605) ![](assets/new.png)  
-- [2020-04-24-彭博社：采用-ARM-架构苹果自研芯片的-Mac-电脑会在明年问世](https://www.v2ex.com/t/665604) ![](assets/new.png)  
-- [2020-04-24-大家觉得像南京这种强中心的发展模式好，还是苏州这种-1-大带-4-小县域的发展模式好](https://www.v2ex.com/t/665603) ![](assets/new.png)  
-- [2020-04-24-开心-我的小程序花了半月时间在大佬的助推下飙涨了一波已经-1k+用户，想找个前端一起合作一个小项目](https://www.v2ex.com/t/665602) ![](assets/new.png)  
-- [2020-04-24-ajax-上传图片但是在-oppo-手机上获取不到图片后缀](https://www.v2ex.com/t/665601) ![](assets/new.png)  
-- [2020-04-24-国内头部公募基金-base-北京朝阳区，正在招数仓/数据建模/IOS-开发/-Java-开发](https://www.v2ex.com/t/665600) ![](assets/new.png)  
-- [2020-04-24-毕业一年，一直做业务，感觉没有成长空间](https://www.v2ex.com/t/665599) ![](assets/new.png)  
-- [2020-04-24-V-友们有没有防止灰产爬虫的方法？](https://www.v2ex.com/t/665594) ![](assets/new.png)  
-- [2020-04-24-GeekHub-上线公测，欢迎来玩。第一波活动送出两个-AirPods-2-...](https://www.v2ex.com/t/665593) ![](assets/new.png)  
-- [2020-04-24-有没有-20-届毕业要去杭州的，租房带我一个](https://www.v2ex.com/t/665592) ![](assets/new.png)  
-- [2020-04-24-为什么-Maipo-VVebo-这种第三方微博客户端的热门微博总有股票博主,-微博-微博国际版啥的就没有??](https://www.v2ex.com/t/665591) ![](assets/new.png)  
-- [2020-04-24-连-5G-Wi-Fi-下，蓝牙鼠标-MX-MASTER-2S-卡顿厉害](https://www.v2ex.com/t/665590) ![](assets/new.png)  
+- [2020-04-24-国内借助阿里云快速下载-Oracle-JDK](https://www.v2ex.com/t/665632) ![](assets/new.png)  
+- [2020-04-24-大佬们,解决需求思路总是不在点上?有什么好建议么?](https://www.v2ex.com/t/665631) ![](assets/new.png)  
+- [2020-04-24-最近-V2-电信直连网页打开速度快了呢...有感受吗？](https://www.v2ex.com/t/665630) ![](assets/new.png)  
+- [2020-04-24-"听说-PHP-没人要了"-"没人要我来,帝都求一个-PHPer"](https://www.v2ex.com/t/665628) ![](assets/new.png)  
+- [2020-04-24-Cyberpunk-2077-限量版手柄到手，晒两张图](https://www.v2ex.com/t/665627) ![](assets/new.png)  
+- [2020-04-24-现在参加人工智能方面的竞赛的编码都是自己打的吗？](https://www.v2ex.com/t/665626) ![](assets/new.png)  
+- [2020-04-24-大数据看青史留名的大姓，暨-Java-读取-SQlite-数据库演示](https://www.v2ex.com/t/665625) ![](assets/new.png)  
+- [2020-04-24-web-前端学习路径](https://www.v2ex.com/t/665624) ![](assets/new.png)  
+- [2020-04-24-有人用过顺丰的时效查询接口吗？](https://www.v2ex.com/t/665623) ![](assets/new.png)  
+- [2020-04-24-一段转码的-UUID-解了一天了解不出来，求大佬帮忙解下](https://www.v2ex.com/t/665622) ![](assets/new.png)  
+- [2020-04-24-新手问一下关于异步返回值的问题](https://www.v2ex.com/t/665621) ![](assets/new.png)  
+- [2020-04-24-国内运营商有类似的紧急警报系统吗？](https://www.v2ex.com/t/665620) ![](assets/new.png)  
+- [2020-04-24-ie8-下有什么工程化、模块化开发的方案？](https://www.v2ex.com/t/665619) ![](assets/new.png)  
+- [2020-04-24-Safari-不支持??写法吗？](https://www.v2ex.com/t/665618) ![](assets/new.png)  
+- [2020-04-24-北京长宽宽带和联通是什么关系？](https://www.v2ex.com/t/665617) ![](assets/new.png)  
+- [2020-04-24-MacBook-Pro-电池健康-77%循环-189-买了-care-能换嘛？](https://www.v2ex.com/t/665616) ![](assets/new.png)  
+- [2020-04-24-北京/杭州-P6/7/8-组内直推，-2-周内完成面试流程，阿里巴巴数字供应链平台-Java-开发工程师，](https://www.v2ex.com/t/665615) ![](assets/new.png)  
+- [2020-04-24-都在聊找工作的现状，那我就聊一下招人的现状吧](https://www.v2ex.com/t/665614) ![](assets/new.png)  
+- [2020-04-24-海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613)  
+- [2020-04-24-springboot-&-vue.js-搭建的前后端分离管理后台~](https://www.v2ex.com/t/665612)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -755,11 +755,17 @@
 </summary>
 
 
-- [2020-04-24-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi) ![](assets/new.png)  
-- [2020-04-24-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) ![](assets/new.png)  
-- [2020-04-24-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7) ![](assets/new.png)  
-- [2020-04-24-推荐-吐血推荐，B-站最强学习资源汇总（数据科学、机器学习、Python）](https://toutiao.io/k/a58ir9a) ![](assets/new.png)  
-- [2020-04-24-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19) ![](assets/new.png)  
+- [2020-04-24-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn) ![](assets/new.png)  
+- [2020-04-24-推荐-购物车之架构设计](https://toutiao.io/k/vklickp) ![](assets/new.png)  
+- [2020-04-24-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr) ![](assets/new.png)  
+- [2020-04-24-推荐-Java-工程师成神之路（2020-正式版）](https://toutiao.io/k/fu1vftn) ![](assets/new.png)  
+- [2020-04-24-推荐-抖音爬虫原理大揭秘](https://toutiao.io/k/7y8j3z1) ![](assets/new.png)  
+- [2020-04-24-推荐-挖财-Kubernetes-容器化之路](https://toutiao.io/k/ry9vzfu) ![](assets/new.png)  
+- [2020-04-24-推荐-操作系统是如何管理物理内存的？](https://toutiao.io/k/4jkeexi)  
+- [2020-04-24-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua)  
+- [2020-04-24-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)  
+- [2020-04-24-推荐-吐血推荐，B-站最强学习资源汇总（数据科学、机器学习、Python）](https://toutiao.io/k/a58ir9a)  
+- [2020-04-24-推荐-1.2w+-Star，Java-资源大全中文版，你能想到的全都有！](https://toutiao.io/k/f10mm19)  
 - [2020-04-24-MDC-是什么鬼？用法、源码一锅端](https://toutiao.io/k/zxme1rd)  
 - [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0)  
 - [2020-04-24-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r)  
@@ -769,12 +775,6 @@
 - [2020-04-24-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf)  
 - [2020-04-24-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl)  
 - [2020-04-24-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm)  
-- [2020-04-24-推荐-接口高并发压测入门实战](https://toutiao.io/k/mqg6xb4)  
-- [2020-04-24-推荐-你必须会的-JDK-动态代理和-CGLIB-动态代理](https://toutiao.io/k/9nbbqxu)  
-- [2020-04-24-推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj)  
-- [2020-04-24-推荐-从一起-GC-血案谈到反射原理](https://toutiao.io/k/j1cphr7)  
-- [2020-04-24-推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy)  
-- [2020-04-24-推荐-TCP-漫谈之-keepalive-和-time_wait](https://toutiao.io/k/1r2sxur)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

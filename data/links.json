@@ -2356,6 +2356,96 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "国内借助阿里云快速下载 Oracle JDK",
+        "link": "https://www.v2ex.com/t/665632",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "大佬们,解决需求思路总是不在点上?有什么好建议么?",
+        "link": "https://www.v2ex.com/t/665631",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "最近 V2 电信直连网页打开速度快了呢...有感受吗？",
+        "link": "https://www.v2ex.com/t/665630",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "\"听说 PHP 没人要了\" \"没人要我来,帝都求一个 PHPer\"",
+        "link": "https://www.v2ex.com/t/665628",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "Cyberpunk 2077 限量版手柄到手，晒两张图",
+        "link": "https://www.v2ex.com/t/665627",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "现在参加人工智能方面的竞赛的编码都是自己打的吗？",
+        "link": "https://www.v2ex.com/t/665626",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "大数据看青史留名的大姓，暨 Java 读取 SQlite 数据库演示",
+        "link": "https://www.v2ex.com/t/665625",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "web 前端学习路径",
+        "link": "https://www.v2ex.com/t/665624",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "有人用过顺丰的时效查询接口吗？",
+        "link": "https://www.v2ex.com/t/665623",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "一段转码的 UUID 解了一天了解不出来，求大佬帮忙解下",
+        "link": "https://www.v2ex.com/t/665622",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "新手问一下关于异步返回值的问题",
+        "link": "https://www.v2ex.com/t/665621",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "国内运营商有类似的紧急警报系统吗？",
+        "link": "https://www.v2ex.com/t/665620",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "ie8 下有什么工程化、模块化开发的方案？",
+        "link": "https://www.v2ex.com/t/665619",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "Safari 不支持??写法吗？",
+        "link": "https://www.v2ex.com/t/665618",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "北京长宽宽带和联通是什么关系？",
+        "link": "https://www.v2ex.com/t/665617",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "MacBook Pro 电池健康 77%循环 189 买了 care 能换嘛？",
+        "link": "https://www.v2ex.com/t/665616",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[北京/杭州 P6/7/8] 组内直推， 2 周内完成面试流程，阿里巴巴数字供应链平台 Java 开发工程师，",
+        "link": "https://www.v2ex.com/t/665615",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "都在聊找工作的现状，那我就聊一下招人的现状吧",
+        "link": "https://www.v2ex.com/t/665614",
+        "date": "2020-04-24"
+      },
+      {
         "title": "海量 hc, 字节跳动招聘，抖音，头条，西瓜，教育等你来 https://job.toutiao.com/s/TnVADp",
         "link": "https://www.v2ex.com/t/665613",
         "date": "2020-04-24"
@@ -2899,6 +2989,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] IO 模型知多少",
+        "link": "https://toutiao.io/k/k2l0eqn",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 购物车之架构设计",
+        "link": "https://toutiao.io/k/vklickp",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] Redis 应用场景汇总",
+        "link": "https://toutiao.io/k/zpsgkhr",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] Java 工程师成神之路（2020 正式版）",
+        "link": "https://toutiao.io/k/fu1vftn",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 抖音爬虫原理大揭秘",
+        "link": "https://toutiao.io/k/7y8j3z1",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 挖财 Kubernetes 容器化之路",
+        "link": "https://toutiao.io/k/ry9vzfu",
+        "date": "2020-04-24"
+      },
       {
         "title": "[推荐] 操作系统是如何管理物理内存的？",
         "link": "https://toutiao.io/k/4jkeexi",

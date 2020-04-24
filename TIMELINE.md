@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,8 @@
 - [【前端早读课】2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) 
 - [【前端早读课】2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) 
 - [【前端早读课】2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
+- [【前端大全】2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
+- [【前端大全】2020-04-24-聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e) 
 - [【前端大全】2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36) 
 - [【前端大全】2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8) 
 - [【前端大全】2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316) 
@@ -335,6 +337,11 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-24-给你出道简单的题](https://www.v2ex.com/t/665834) 
+- [【V2EX】2020-04-24-大家的手机还可以连上-4G+吗？遇到过卡被限速吗？能够恢复吗？](https://www.v2ex.com/t/665833) 
+- [【V2EX】2020-04-24-腾讯内推，快到碗里来~.~](https://www.v2ex.com/t/665832) 
+- [【V2EX】2020-04-24-求职-前端开发](https://www.v2ex.com/t/665831) 
+- [【V2EX】2020-04-24-现在近视，颈椎病，腰肌劳损怎么办？](https://www.v2ex.com/t/665830) 
 - [【V2EX】2020-04-24-东小店，有大佬在搞么](https://www.v2ex.com/t/665829) 
 - [【V2EX】2020-04-24-关于-Firebase](https://www.v2ex.com/t/665828) 
 - [【V2EX】2020-04-24-1-3-年前端开发有坑，在看机会可以联系我](https://www.v2ex.com/t/665827) 

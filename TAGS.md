@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-24 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -485,6 +485,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】地点不限-招全栈技术合伙-/-外包合作-外包公司勿扰](https://www.v2ex.com/t/665684)
 - [【V2EX】算法相关，有依赖关系的日程顺序安排问题](https://www.v2ex.com/t/665673)
 - [【V2EX】贵州遵义-招聘前后端/全栈](https://www.v2ex.com/t/665645)
 - [【V2EX】360-蜘蛛爬取了隐藏的-https-路径](https://www.v2ex.com/t/665642)
@@ -560,6 +561,7 @@
 - [【前端迷】一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779)
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】面试和-hr-如何委婉不令反感的要薪资](https://www.v2ex.com/t/665681)
 - [【V2EX】第一财经数据上海---招聘高级前端工程师](https://www.v2ex.com/t/665667)
 - [【V2EX】上海第一财经数据-招聘高级前端工程师](https://www.v2ex.com/t/665654)
 - [【V2EX】北京/杭州-P6/7/8-组内直推，-2-周内完成面试流程，阿里巴巴数字供应链平台-Java-开发工程师，](https://www.v2ex.com/t/665615)

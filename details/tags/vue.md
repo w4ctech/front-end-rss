@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -15,7 +15,8 @@
 - [2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) 
 - [2020-04-21-【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24) 
-- [2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8) 
+- [2020-04-24-免费领“重学前端”全套教程，还有Vue项目,JS实战都免费开放了！](https://www.ershicimi.com/p/ac812219748ae5b03be1bc835ba79557) 
+- [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/e3b2ca58705fd883ff0307c940c6e21f) 
 - [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626) 
 - [2020-04-17-vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02) 
 - [2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48) 
@@ -27,16 +28,5 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-04-23-尤雨溪-B-站直播，Vue-3.0-Beta-是一个值得体验的全新版本](https://www.ershicimi.com/p/f189b5b78e917f7c9924b655c3a5b3f9) 
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd) 
-- [2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
-- [2020-04-23-Vue3-Composition-API如何替换Vue-Mixins](https://juejin.im/post/5ea18ae151882573aa53c5ea) 
-- [2020-04-23-elementUi简单实现搜索提词功能](https://juejin.im/post/5ea10a8b6fb9a03c5a7ab5cc) 
-- [2020-04-23-VUE组件通信传值（‘悄悄话’我知道）](https://juejin.im/post/5e8f12be6fb9a03c8122bd6f) 
-- [2020-04-23-如何给自己的vue组件做一个快乐的提示](https://juejin.im/post/5e96fa6df265da47db2e4c20) 
-- [2020-04-23-Vue-3.0-bate版尝鲜](https://juejin.im/post/5ea10905e51d4546e716ee7c) 
-- [2020-04-22-用vue-cli+Electron开发一个跨平台的桌面应用____篇一（搭建vue项目、安装electron）](https://juejin.im/post/5ea004d76fb9a03c7204e966) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
-- [2020-04-22-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
-- [2020-04-23-Vue+SpringBoot+SpreadJS-实现的在线文档](https://www.v2ex.com/t/665204) 
-- [2020-04-22-杭州-个推公司-内推-部门大量-web-前端（vue）、后端（node.js）全栈工程师-HC，欢迎各位朋友找我内推~](https://www.v2ex.com/t/664965) 
-- [2020-04-23-VUE-的坑你踩过几个](https://toutiao.io/k/ktwhl5h) 
-- [2020-04-22-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) 
+- [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 

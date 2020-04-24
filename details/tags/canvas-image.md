@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -18,5 +18,3 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
-- [2020-04-15-WebGL工作流程解读，一个三角形的诞生](https://www.ershicimi.com/p/4795e4ae0a9fd5b4c519acf74fe2222a) 
-- [2020-04-23-pywin32-win32gui.EnumWindows-如何去除无意义的窗口句柄](https://www.v2ex.com/t/665175) 

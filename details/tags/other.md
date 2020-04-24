@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -157,6 +157,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-25-macOS-下程序监视剪切板不需要任何权限的吗？](https://www.v2ex.com/t/665870) 
 - [2020-04-25-ocserv-怎么配置不代理局域网](https://www.v2ex.com/t/665868) 
 - [2020-04-25-Espresso-机各位有了解吗？](https://www.v2ex.com/t/665867) 
 - [2020-04-25-在国内使用国外的-iCloud-速度有影响吗？](https://www.v2ex.com/t/665866) 

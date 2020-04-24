@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-04-25 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-25-macOS-下程序监视剪切板不需要任何权限的吗？](https://www.v2ex.com/t/665870) 
 - [2020-04-25-ocserv-怎么配置不代理局域网](https://www.v2ex.com/t/665868) 
 - [2020-04-25-Espresso-机各位有了解吗？](https://www.v2ex.com/t/665867) 
 - [2020-04-25-在国内使用国外的-iCloud-速度有影响吗？](https://www.v2ex.com/t/665866) 

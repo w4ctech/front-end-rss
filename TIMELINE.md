@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 12:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -307,6 +307,12 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-24-日经个人数据同步、备份现在有什么好的方案么？](https://www.v2ex.com/t/665643) 
+- [【V2EX】2020-04-24-360-蜘蛛爬取了隐藏的-https-路径](https://www.v2ex.com/t/665642) 
+- [【V2EX】2020-04-24-JPA-多条件动态查询问题请教](https://www.v2ex.com/t/665639) 
+- [【V2EX】2020-04-24-问一个关于网络的问题](https://www.v2ex.com/t/665638) 
+- [【V2EX】2020-04-24-现在我们到底要笔记本还有什么用？](https://www.v2ex.com/t/665637) 
+- [【V2EX】2020-04-24-地理位置数据可视化问题](https://www.v2ex.com/t/665636) 
 - [【V2EX】2020-04-24-有没有想过,-为什么某神秘网站要用黄黑作为主色调?](https://www.v2ex.com/t/665635) 
 - [【V2EX】2020-04-24-迫于物种入侵，求推荐吃小龙虾🦞好去处！](https://www.v2ex.com/t/665634) 
 - [【V2EX】2020-04-24-用之前一个叫做北半球的开源网站搭了个-写书-小站，自用真香](https://www.v2ex.com/t/665633) 
@@ -434,6 +440,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-24-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4) 
 - [【开发者头条】2020-04-24-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl) 
 - [【开发者头条】2020-04-24-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv) 
 - [【开发者头条】2020-04-24-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt) 

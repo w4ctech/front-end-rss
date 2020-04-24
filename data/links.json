@@ -2366,6 +2366,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[日经]个人数据同步、备份现在有什么好的方案么？",
+        "link": "https://www.v2ex.com/t/665643",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "360 蜘蛛爬取了隐藏的 https 路径",
+        "link": "https://www.v2ex.com/t/665642",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "JPA 多条件动态查询问题请教",
+        "link": "https://www.v2ex.com/t/665639",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "问一个关于网络的问题",
+        "link": "https://www.v2ex.com/t/665638",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "现在我们到底要笔记本还有什么用？",
+        "link": "https://www.v2ex.com/t/665637",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "地理位置数据可视化问题",
+        "link": "https://www.v2ex.com/t/665636",
+        "date": "2020-04-24"
+      },
+      {
         "title": "有没有想过, 为什么某神秘网站要用黄黑作为主色调?",
         "link": "https://www.v2ex.com/t/665635",
         "date": "2020-04-24"
@@ -3014,6 +3044,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 阿里、网易、百度、腾讯……出品的 13 个网站，让你点点鼠标，就能做出炫酷图表",
+        "link": "https://toutiao.io/k/oasf3i4",
+        "date": "2020-04-24"
+      },
       {
         "title": "[推荐] 为什么 0.1 + 0.2 = 0.300000004",
         "link": "https://toutiao.io/k/h7vc4kl",

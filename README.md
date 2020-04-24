@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 12:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 13:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -96,8 +96,8 @@
 </summary>
 
 
-- [2020-04-24-搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a) ![](assets/new.png)  
-- [2020-04-24-Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec) ![](assets/new.png)  
+- [2020-04-24-搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)  
+- [2020-04-24-Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec)  
 - [2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9)  
 - [2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd)  
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)  
@@ -695,9 +695,15 @@
 </summary>
 
 
-- [2020-04-24-有没有想过,-为什么某神秘网站要用黄黑作为主色调?](https://www.v2ex.com/t/665635) ![](assets/new.png)  
-- [2020-04-24-迫于物种入侵，求推荐吃小龙虾🦞好去处！](https://www.v2ex.com/t/665634) ![](assets/new.png)  
-- [2020-04-24-用之前一个叫做北半球的开源网站搭了个-写书-小站，自用真香](https://www.v2ex.com/t/665633) ![](assets/new.png)  
+- [2020-04-24-日经个人数据同步、备份现在有什么好的方案么？](https://www.v2ex.com/t/665643) ![](assets/new.png)  
+- [2020-04-24-360-蜘蛛爬取了隐藏的-https-路径](https://www.v2ex.com/t/665642) ![](assets/new.png)  
+- [2020-04-24-JPA-多条件动态查询问题请教](https://www.v2ex.com/t/665639) ![](assets/new.png)  
+- [2020-04-24-问一个关于网络的问题](https://www.v2ex.com/t/665638) ![](assets/new.png)  
+- [2020-04-24-现在我们到底要笔记本还有什么用？](https://www.v2ex.com/t/665637) ![](assets/new.png)  
+- [2020-04-24-地理位置数据可视化问题](https://www.v2ex.com/t/665636) ![](assets/new.png)  
+- [2020-04-24-有没有想过,-为什么某神秘网站要用黄黑作为主色调?](https://www.v2ex.com/t/665635)  
+- [2020-04-24-迫于物种入侵，求推荐吃小龙虾🦞好去处！](https://www.v2ex.com/t/665634)  
+- [2020-04-24-用之前一个叫做北半球的开源网站搭了个-写书-小站，自用真香](https://www.v2ex.com/t/665633)  
 - [2020-04-24-国内借助阿里云快速下载-Oracle-JDK](https://www.v2ex.com/t/665632)  
 - [2020-04-24-大佬们,解决需求思路总是不在点上?有什么好建议么?](https://www.v2ex.com/t/665631)  
 - [2020-04-24-最近-V2-电信直连网页打开速度快了呢...有感受吗？](https://www.v2ex.com/t/665630)  
@@ -709,12 +715,6 @@
 - [2020-04-24-有人用过顺丰的时效查询接口吗？](https://www.v2ex.com/t/665623)  
 - [2020-04-24-一段转码的-UUID-解了一天了解不出来，求大佬帮忙解下](https://www.v2ex.com/t/665622)  
 - [2020-04-24-新手问一下关于异步返回值的问题](https://www.v2ex.com/t/665621)  
-- [2020-04-24-国内运营商有类似的紧急警报系统吗？](https://www.v2ex.com/t/665620)  
-- [2020-04-24-ie8-下有什么工程化、模块化开发的方案？](https://www.v2ex.com/t/665619)  
-- [2020-04-24-Safari-不支持??写法吗？](https://www.v2ex.com/t/665618)  
-- [2020-04-24-北京长宽宽带和联通是什么关系？](https://www.v2ex.com/t/665617)  
-- [2020-04-24-MacBook-Pro-电池健康-77%循环-189-买了-care-能换嘛？](https://www.v2ex.com/t/665616)  
-- [2020-04-24-北京/杭州-P6/7/8-组内直推，-2-周内完成面试流程，阿里巴巴数字供应链平台-Java-开发工程师，](https://www.v2ex.com/t/665615)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -757,9 +757,10 @@
 </summary>
 
 
-- [2020-04-24-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl) ![](assets/new.png)  
-- [2020-04-24-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv) ![](assets/new.png)  
-- [2020-04-24-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt) ![](assets/new.png)  
+- [2020-04-24-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4) ![](assets/new.png)  
+- [2020-04-24-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl)  
+- [2020-04-24-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv)  
+- [2020-04-24-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt)  
 - [2020-04-24-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn)  
 - [2020-04-24-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
 - [2020-04-24-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
@@ -776,7 +777,6 @@
 - [2020-04-24-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r)  
 - [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx)  
 - [2020-04-24-推荐-程序员职场背锅甩锅指南](https://toutiao.io/k/wsrxke7)  
-- [2020-04-24-推荐-微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://toutiao.io/k/ibh4mpc)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

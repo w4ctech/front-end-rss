@@ -1826,6 +1826,26 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "Redis 10亿数据量只需要100MB内存，为什么这么牛？",
+        "link": "https://www.ershicimi.com/p/fa5e12dfb612f88f96bd9813218536a0",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "一个奇怪的MySQL慢查询，打懵了一群不懂业务的DBA！",
+        "link": "https://www.ershicimi.com/p/deb23a494f13f1c2edab77f4f6e5fdc1",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "珍藏很久的9个网站，再舍不得也得分享出来！",
+        "link": "https://www.ershicimi.com/p/ec4d168d14d2022258e1ff0f60436d8a",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "在我看来，代码审查就是在排大便...",
+        "link": "https://www.ershicimi.com/p/e382af5ac2e834670db70bf48238301d",
+        "date": "2020-04-24"
+      },
+      {
         "title": "四月最新整理的Java学习资料与电子书，免费分享！",
         "link": "https://www.ershicimi.com/p/8d6bbfd094055d6a4801c7e460c2dcf7",
         "date": "2020-04-23"
@@ -1970,7 +1990,33 @@
     "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "items": [
+      {
+        "title": "从零实现一个单词对战游戏 (二) 产品篇: 如何确定项目主题",
+        "link": "https://juejin.im/post/5e9da75e518825085d6d0854",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "从零实现一个单词对战游戏 (五) 实战篇1: 小程序开发环境搭建",
+        "link": "https://juejin.im/post/5ea19782e51d4546d83b2791",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "基于free texture pack 完成一个图片精灵命令",
+        "link": "https://juejin.im/post/5ea1e030518825738943d015",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "转行学前端的第 17 天 : 基础店铺页面结构确认",
+        "link": "https://juejin.im/post/5ea19b6f6fb9a03c550ff719",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）",
+        "link": "https://juejin.im/post/5ea0f557f265da47e75284d1",
+        "date": "2020-04-24"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",
@@ -2638,6 +2684,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "MDC 是什么鬼？用法、源码一锅端",
+        "link": "https://toutiao.io/k/zxme1rd",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 大神阮一峰的《Bash 脚本教程》免费发布啦，开源！",
+        "link": "https://toutiao.io/k/yqthvj0",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 并发下的 B+Tree",
+        "link": "https://toutiao.io/k/q3ime2r",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 没想到 Spring Boot 能这样做全局日期格式化，有点香",
+        "link": "https://toutiao.io/k/s4mhqfx",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 程序员职场背锅甩锅指南",
+        "link": "https://toutiao.io/k/wsrxke7",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 微服务、DevOps…不是效率银弹，请同时升级你的管理方式",
+        "link": "https://toutiao.io/k/ibh4mpc",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "[推荐] 为什么 Linux 需要虚拟内存",
+        "link": "https://toutiao.io/k/u65syjf",
+        "date": "2020-04-24"
+      },
       {
         "title": "[推荐] 谁要是再敢用 Map 传参，我过去就是一 JIO",
         "link": "https://toutiao.io/k/ccfpfdl",

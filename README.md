@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 10:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 11:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,8 +22,8 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -43,17 +43,17 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -159,14 +159,14 @@
 </summary>
 
 
-- [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36) ![](assets/new.png)  
-- [2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8) ![](assets/new.png)  
-- [2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316) ![](assets/new.png)  
-- [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/8162b0f0ae0a163919344d7dbf32ac60) ![](assets/new.png)  
-- [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) ![](assets/new.png)  
-- [2020-04-19-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01) ![](assets/new.png)  
-- [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6) ![](assets/new.png)  
-- [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483) ![](assets/new.png)  
+- [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)  
+- [2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8)  
+- [2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)  
+- [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/8162b0f0ae0a163919344d7dbf32ac60)  
+- [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e)  
+- [2020-04-19-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01)  
+- [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)  
+- [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -178,9 +178,9 @@
 </summary>
 
 
-- [2020-04-24-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e) ![](assets/new.png)  
-- [2020-04-23-Vue3.0语法快速入门，你会了吗](https://www.ershicimi.com/p/4cdd1f67a3b1fa167c4813d3024c24ec) ![](assets/new.png)  
-- [2020-04-23-Vue-3.0-Beta，重写虚拟DOM，速度显著提升](https://www.ershicimi.com/p/77ac75d6a211b12af78400bd476d13a3) ![](assets/new.png)  
+- [2020-04-24-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e)  
+- [2020-04-23-Vue3.0语法快速入门，你会了吗](https://www.ershicimi.com/p/4cdd1f67a3b1fa167c4813d3024c24ec)  
+- [2020-04-23-Vue-3.0-Beta，重写虚拟DOM，速度显著提升](https://www.ershicimi.com/p/77ac75d6a211b12af78400bd476d13a3)  
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2)  
 - [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397)  
 - [2020-04-21-前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)  
@@ -521,6 +521,10 @@
 </summary>
 
 
+- [2020-04-24-Redis-10亿数据量只需要100MB内存，为什么这么牛？](https://www.ershicimi.com/p/fa5e12dfb612f88f96bd9813218536a0) ![](assets/new.png)  
+- [2020-04-24-一个奇怪的MySQL慢查询，打懵了一群不懂业务的DBA！](https://www.ershicimi.com/p/deb23a494f13f1c2edab77f4f6e5fdc1) ![](assets/new.png)  
+- [2020-04-24-珍藏很久的9个网站，再舍不得也得分享出来！](https://www.ershicimi.com/p/ec4d168d14d2022258e1ff0f60436d8a) ![](assets/new.png)  
+- [2020-04-24-在我看来，代码审查就是在排大便...](https://www.ershicimi.com/p/e382af5ac2e834670db70bf48238301d) ![](assets/new.png)  
 - [2020-04-23-四月最新整理的Java学习资料与电子书，免费分享！](https://www.ershicimi.com/p/8d6bbfd094055d6a4801c7e460c2dcf7)  
 - [2020-04-23-我把SpringBoot项目从18.18M瘦身到0.18M，部署起来真省事！](https://www.ershicimi.com/p/17fe039ed8b773b1bf91dea7ff46cf3d)  
 - [2020-04-23-分库、分表、分区的区别，傻傻分不清？](https://www.ershicimi.com/p/bfc45833f7eee82e421a48e5e09bbcbf)  
@@ -579,6 +583,11 @@
 </summary>
 
 
+- [2020-04-24-从零实现一个单词对战游戏-二-产品篇:-如何确定项目主题](https://juejin.im/post/5e9da75e518825085d6d0854) ![](assets/new.png)  
+- [2020-04-24-从零实现一个单词对战游戏-五-实战篇1:-小程序开发环境搭建](https://juejin.im/post/5ea19782e51d4546d83b2791) ![](assets/new.png)  
+- [2020-04-24-基于free-texture-pack-完成一个图片精灵命令](https://juejin.im/post/5ea1e030518825738943d015) ![](assets/new.png)  
+- [2020-04-24-转行学前端的第-17-天-:-基础店铺页面结构确认](https://juejin.im/post/5ea19b6f6fb9a03c550ff719) ![](assets/new.png)  
+- [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -746,6 +755,13 @@
 </summary>
 
 
+- [2020-04-24-MDC-是什么鬼？用法、源码一锅端](https://toutiao.io/k/zxme1rd) ![](assets/new.png)  
+- [2020-04-24-推荐-大神阮一峰的《Bash-脚本教程》免费发布啦，开源！](https://toutiao.io/k/yqthvj0) ![](assets/new.png)  
+- [2020-04-24-推荐-并发下的-B+Tree](https://toutiao.io/k/q3ime2r) ![](assets/new.png)  
+- [2020-04-24-推荐-没想到-Spring-Boot-能这样做全局日期格式化，有点香](https://toutiao.io/k/s4mhqfx) ![](assets/new.png)  
+- [2020-04-24-推荐-程序员职场背锅甩锅指南](https://toutiao.io/k/wsrxke7) ![](assets/new.png)  
+- [2020-04-24-推荐-微服务、DevOps…不是效率银弹，请同时升级你的管理方式](https://toutiao.io/k/ibh4mpc) ![](assets/new.png)  
+- [2020-04-24-推荐-为什么-Linux-需要虚拟内存](https://toutiao.io/k/u65syjf) ![](assets/new.png)  
 - [2020-04-24-推荐-谁要是再敢用-Map-传参，我过去就是一-JIO](https://toutiao.io/k/ccfpfdl)  
 - [2020-04-24-推荐-5G-时代已来，TCP/IP-老矣，尚能饭否？](https://toutiao.io/k/n49g6lm)  
 - [2020-04-24-推荐-接口高并发压测入门实战](https://toutiao.io/k/mqg6xb4)  
@@ -759,13 +775,6 @@
 - [2020-04-24-如何用-Go-编码实现查找-DNS-记录](https://toutiao.io/k/qb2imjv)  
 - [2020-04-24-终于把动态规划与策略迭代、值迭代讲清楚了](https://toutiao.io/k/3b7rvck)  
 - [2020-04-24-聊聊-HTTPS-的工作原理](https://toutiao.io/k/st9uvj0)  
-- [2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb)  
-- [2020-04-24-2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s)  
-- [2020-04-24-不要让你的-Java-对象逃逸了](https://toutiao.io/k/c7pr98o)  
-- [2020-04-24-我感觉我学了一个假的-Android...](https://toutiao.io/k/klbonr0)  
-- [2020-04-24-区块链对支付清算体系的影响：以-Libra-和-DC/EP-为例](https://toutiao.io/k/e3mc85e)  
-- [2020-04-24-LevelDB-完全解析（0）：基本原理和整体架构](https://toutiao.io/k/qrwg1oa)  
-- [2020-04-24-必杀技：当报错信息看不出原因时，怎么办？](https://toutiao.io/k/hvw8tmw)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

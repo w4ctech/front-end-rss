@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -14,6 +14,8 @@
 - [2020-04-18-一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779) 
 - [2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-04-24-第一财经数据上海---招聘高级前端工程师](https://www.v2ex.com/t/665667) 
+- [2020-04-24-上海第一财经数据-招聘高级前端工程师](https://www.v2ex.com/t/665654) 
 - [2020-04-24-北京/杭州-P6/7/8-组内直推，-2-周内完成面试流程，阿里巴巴数字供应链平台-Java-开发工程师，](https://www.v2ex.com/t/665615) 
 - [2020-04-24-腾讯深圳/北京-招聘-web-前端工程师](https://www.v2ex.com/t/665572) 
 - [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

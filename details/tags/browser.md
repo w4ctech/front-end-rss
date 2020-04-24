@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,3 +25,5 @@
 - [2020-04-24-求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605) 
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
+- [2020-04-24-迁移时期的缓存](https://toutiao.io/k/zdffmtx) 
+- [2020-04-24-企业安全公共能力开源化实现参考](https://toutiao.io/k/rcqrcb3) 

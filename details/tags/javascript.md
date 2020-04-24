@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -66,6 +66,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-24-怎么正确配置-macOS-路由？](https://www.v2ex.com/t/665655) 
 - [2020-04-24-新手问一下关于异步返回值的问题](https://www.v2ex.com/t/665621) 
 - [2020-04-24-ie8-下有什么工程化、模块化开发的方案？](https://www.v2ex.com/t/665619) 
 - [2020-04-24-vscode-新人，原来用-Idea-写-Java-，自动“import”-或提示-“import-哪个类”-都很方便。-现在转到-c++了，打算用-vscode-作为开发工具。-目前遇到两个问题：](https://www.v2ex.com/t/665610) 
@@ -73,5 +74,6 @@
 - [2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515) 
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3) 
 - [2020-04-24-基于组件化的大规模软件开发意义在哪里](https://toutiao.io/k/ajrytxb) 
 - [2020-04-24-推荐-Spring-声明式事务处理的实现原理，来自面试官的穷追拷问](https://toutiao.io/k/qrkwp4g) 

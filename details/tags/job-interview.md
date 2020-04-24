@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-04-24-搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a) 
 - [2020-04-21-前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a) 
 - [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4) 
 - [2020-04-21-从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47) 

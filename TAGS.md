@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-24 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -437,6 +437,7 @@
 
 
 
+- [【Vue中文社区】Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec)
 - [【前端大全】当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01)
 - [【全栈前端精选】如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
@@ -544,6 +545,7 @@
 
 
 
+- [【Vue中文社区】搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)
 - [【前端开发】前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)
 - [【前端之巅】5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)
 - [【前端迷】从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47)

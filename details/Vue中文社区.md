@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-04-24 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-04-24-搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a) 
+- [2020-04-24-Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec) 
 - [2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9) 
 - [2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd) 
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 

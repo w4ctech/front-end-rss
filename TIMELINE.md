@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 07:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,6 +133,8 @@
 - [【Vue中文社区】2020-04-20-12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755) 
 - [【Vue中文社区】2020-04-19-从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296) 
 - [【Vue中文社区】2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
+- [【前端早读课】2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c) 
+- [【前端早读课】2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b) 
 - [【前端早读课】2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272) 
 - [【前端早读课】2020-04-23-【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2) 
 - [【前端早读课】2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) 
@@ -342,6 +344,7 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875) 
 - [【V2EX】2020-04-25-老板让我想办法让关注数个位数的公众号文章阅读量过-10-万，怎么办](https://www.v2ex.com/t/665874) 
 - [【V2EX】2020-04-25-spark-邮箱](https://www.v2ex.com/t/665872) 
 - [【V2EX】2020-04-25-有人看《清平乐》吗,真的太慢了,好难坚持啊](https://www.v2ex.com/t/665871) 

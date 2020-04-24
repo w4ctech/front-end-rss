@@ -2032,6 +2032,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "一文看懂Vue2的数据侦测原理",
+        "link": "https://juejin.im/post/5ea28fd5f265da47d1293626",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "Element-UI: Message组件解读",
+        "link": "https://juejin.im/post/5ea294e6f265da47cc02a671",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "前端小白的第一篇笔记（svg路径跑圈简单实现）",
+        "link": "https://juejin.im/post/5ea24a105188257397288795",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "React实现一个添加商品规格SKU，生成合并表格的功能",
+        "link": "https://juejin.im/post/5ea2841b51882573793e93ee",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "前端面试的那些事儿~JavaScript 原始数据类型",
+        "link": "https://juejin.im/post/5ea28187e51d4546e2639b49",
+        "date": "2020-04-24"
+      },
+      {
         "title": "从零实现一个单词对战游戏 (二) 产品篇: 如何确定项目主题",
         "link": "https://juejin.im/post/5e9da75e518825085d6d0854",
         "date": "2020-04-24"
@@ -3142,6 +3167,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "又抓了一个导致频繁GC的鬼--数组动态扩容 (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-24"
+      },
       {
         "title": "IDEA 推出新的字体，这次真的爱了！ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13391&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyNMJMpp-sBaWpIY7J4TTQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

@@ -2032,6 +2032,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "轻量型TV端遥控器交互类库最佳实践",
+        "link": "https://juejin.im/post/5ea252f2e51d4546b90d3688",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "canvas图片换色（转加自我总结）",
+        "link": "https://juejin.im/post/5ea2abb2518825736e57f9b0",
+        "date": "2020-04-24"
+      },
+      {
         "title": "一文看懂Vue2的数据侦测原理",
         "link": "https://juejin.im/post/5ea28fd5f265da47d1293626",
         "date": "2020-04-24"
@@ -3459,6 +3469,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 你与 BAT 技术大牛差什么？ | 码农周刊第 302 期",
+        "link": "https://toutiao.io/k/hbrbhju",
+        "date": "2020-04-24"
+      },
       {
         "title": "《推荐系统开发实战》三大案例复现说明",
         "link": "https://toutiao.io/k/07b84j3",

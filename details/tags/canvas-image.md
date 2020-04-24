@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -18,4 +18,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 

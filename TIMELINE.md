@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 17:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -277,6 +277,8 @@
 - [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [【掘金前端】2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688) 
+- [【掘金前端】2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [【掘金前端】2020-04-24-一文看懂Vue2的数据侦测原理](https://juejin.im/post/5ea28fd5f265da47d1293626) 
 - [【掘金前端】2020-04-24-Element-UI:-Message组件解读](https://juejin.im/post/5ea294e6f265da47cc02a671) 
 - [【掘金前端】2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 
@@ -523,6 +525,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) 
 - [【开发者头条】2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3) 
 - [【开发者头条】2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3) 
 - [【开发者头条】2020-04-24-复杂业务如何保证-Flutter-的高性能高流畅度？](https://toutiao.io/k/y4wv3k1) 

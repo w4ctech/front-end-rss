@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -114,6 +114,7 @@
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688) 
 - [2020-04-24-基于free-texture-pack-完成一个图片精灵命令](https://juejin.im/post/5ea1e030518825738943d015) 
 - [2020-04-24-转行学前端的第-17-天-:-基础店铺页面结构确认](https://juejin.im/post/5ea19b6f6fb9a03c550ff719) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
@@ -293,6 +294,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) 
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3) 
 - [2020-04-24-机器学习项目实操指南](https://toutiao.io/k/d2924a7) 
 - [2020-04-24-VXLAN-基础教程：结合-VRF-在-Linux-中实践-VXLAN-网络](https://toutiao.io/k/f07sbhy) 

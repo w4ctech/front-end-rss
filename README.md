@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 17:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 18:00:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -591,8 +591,8 @@
 </summary>
 
 
-- [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688) ![](assets/new.png)  
-- [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) ![](assets/new.png)  
+- [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688)  
+- [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)  
 - [2020-04-24-一文看懂Vue2的数据侦测原理](https://juejin.im/post/5ea28fd5f265da47d1293626)  
 - [2020-04-24-Element-UI:-Message组件解读](https://juejin.im/post/5ea294e6f265da47cc02a671)  
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)  
@@ -708,26 +708,26 @@
 </summary>
 
 
-- [2020-04-24-微软-To-Do-导入-todoist-的功能是下线了么](https://www.v2ex.com/t/665744)  
-- [2020-04-24-如何优雅地向领导诉苦？](https://www.v2ex.com/t/665743)  
-- [2020-04-24-js-有没有好用的根据模板图片生成分享图的工具？](https://www.v2ex.com/t/665740)  
-- [2020-04-24-快捷切换的时候总是往右移](https://www.v2ex.com/t/665739)  
-- [2020-04-24-后台系统如何快速生成报表](https://www.v2ex.com/t/665737)  
-- [2020-04-24-真的不想在单休的公司了，连上-11-天班，你敢信？](https://www.v2ex.com/t/665736)  
-- [2020-04-24-部署-Let's-Encrypt-的站点国内首次打开很慢？那是因为-OSCP-域名被墙了](https://www.v2ex.com/t/665734)  
-- [2020-04-24-不懂就问-有卖那种没有屏幕的笔记本电脑么？](https://www.v2ex.com/t/665733)  
-- [2020-04-24-华夏银行-旗下科技公司开发/需求/测试等岗位大量-HC-不是外包-不是外包-不是外包](https://www.v2ex.com/t/665732)  
-- [2020-04-24-DMC-的巨大威力，可能远远超过数据中台](https://www.v2ex.com/t/665731)  
-- [2020-04-24-阿里云日志服务（SLS）内推](https://www.v2ex.com/t/665730)  
-- [2020-04-24-Java-Socket-客户端读出问题了](https://www.v2ex.com/t/665729)  
-- [2020-04-24-“毁誉参半”的新-iPhone-SE](https://www.v2ex.com/t/665728)  
-- [2020-04-24-我看有-offer-的心疼都炸了？那我这面试都几乎没有的人。。。。。？砰~~~~砰~~~~~~](https://www.v2ex.com/t/665726)  
-- [2020-04-24-迫于离开杭州，想租房的小伙伴看过来啊](https://www.v2ex.com/t/665724)  
-- [2020-04-24-北京联通，桥接光猫上网，之前一直有公网-IP，今天突然是内网-IP-了？重启光猫一样。你们的还好吗？有-IPv6-不会用。](https://www.v2ex.com/t/665722)  
-- [2020-04-24-去年的-checkm8-漏洞怎么样了？](https://www.v2ex.com/t/665721)  
-- [2020-04-24-杭州蚂蚁金服-芝麻信用-组内急招前端开发高级、专家🔥🔥🔥](https://www.v2ex.com/t/665719)  
-- [2020-04-24-Mac-安装-Swoole-报错：-error:-no-member-named-'isless'-in-the-global-namespace-using-::isless;](https://www.v2ex.com/t/665718)  
-- [2020-04-24-针对-spring-data-jpa，有没有一种流行的通用查询实现](https://www.v2ex.com/t/665717)  
+- [2020-04-24-笔记本接了显示器怎么开机方便？](https://www.v2ex.com/t/665767) ![](assets/new.png)  
+- [2020-04-24-矩池云-率先支持-pytorch1.5，新增-pytorch1.5-&-python3.8.2-镜像](https://www.v2ex.com/t/665766) ![](assets/new.png)  
+- [2020-04-24-2020-请问有没有微信聊天相关-api-可以使用?](https://www.v2ex.com/t/665765) ![](assets/new.png)  
+- [2020-04-24-分布式存储资深工程师/架构师（分布式存储数据库），地点：上海，-不加班，薪水给力](https://www.v2ex.com/t/665764) ![](assets/new.png)  
+- [2020-04-24-给阿里云轻量服务器装了-Ubuntu-20.04，一些吐槽和感受](https://www.v2ex.com/t/665763) ![](assets/new.png)  
+- [2020-04-24-最近被这首魔改-Bella-Ciao-洗脑了，坐电梯都在摇头](https://www.v2ex.com/t/665762) ![](assets/new.png)  
+- [2020-04-24-Mac-版微信出问题了？](https://www.v2ex.com/t/665761) ![](assets/new.png)  
+- [2020-04-24-预算有限,mbp-买官网翻新机好还是-mrmac,苹果团这种好?](https://www.v2ex.com/t/665760) ![](assets/new.png)  
+- [2020-04-24-OneDrive-这段时间又被墙了？](https://www.v2ex.com/t/665759) ![](assets/new.png)  
+- [2020-04-24-开发何苦为难测试。。我们公司在搞的自动化测试工具让测试都没啥要做的了。。。](https://www.v2ex.com/t/665758) ![](assets/new.png)  
+- [2020-04-24-GVIM-显示中文有问题，-VIM-正常，终端也正常，大家碰到过吗？](https://www.v2ex.com/t/665757) ![](assets/new.png)  
+- [2020-04-24-程序员晚自习网站](https://www.v2ex.com/t/665756) ![](assets/new.png)  
+- [2020-04-24-twitter-这样还有救吗，在推特上没有说过任何关于政-z-的话题](https://www.v2ex.com/t/665755) ![](assets/new.png)  
+- [2020-04-24-是否存在可视化模板？](https://www.v2ex.com/t/665754) ![](assets/new.png)  
+- [2020-04-24-大龄开发真的干不下去了！决定转行成为一名日语培训老师！](https://www.v2ex.com/t/665753) ![](assets/new.png)  
+- [2020-04-24-招聘远程新义互联诚招广告算法工程师](https://www.v2ex.com/t/665752) ![](assets/new.png)  
+- [2020-04-24-写了个图床工具🔧,方便写博客用图片的需求](https://www.v2ex.com/t/665751) ![](assets/new.png)  
+- [2020-04-24-南京-南京网眼-招聘前端开发工程师](https://www.v2ex.com/t/665748) ![](assets/new.png)  
+- [2020-04-24-做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746) ![](assets/new.png)  
+- [2020-04-24-nginx-配置遇到的一个怪事，请教各位](https://www.v2ex.com/t/665745) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -770,7 +770,7 @@
 </summary>
 
 
-- [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) ![](assets/new.png)  
+- [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
 - [2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3)  
 - [2020-04-24-复杂业务如何保证-Flutter-的高性能高流畅度？](https://toutiao.io/k/y4wv3k1)  

@@ -452,6 +452,11 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "从 Redux 设计理念到源码分析",
+        "link": "https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4",
+        "date": "2020-04-24"
+      },
+      {
         "title": "前端tree组件，10000个树节点，从14.65s到0.49s",
         "link": "https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a",
         "date": "2020-04-23"

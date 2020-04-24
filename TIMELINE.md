@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-24 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -192,6 +192,7 @@
 - [【前端迷】2020-04-18-Web前端性能优化原理问题](https://www.ershicimi.com/p/24fc2a2edd2bbb1cac8f447e46db8ee1) 
 - [【前端迷】2020-04-18-一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779) 
 - [【前端迷】2020-04-17-vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02) 
+- [【全栈前端精选】2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4) 
 - [【全栈前端精选】2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a) 
 - [【全栈前端精选】2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b) 
 - [【全栈前端精选】2020-04-21-Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b) 

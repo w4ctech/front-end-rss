@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -108,12 +108,18 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed) 
+- [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27) 
+- [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24) 
+- [2020-04-24-揭秘-Shopify-的软件发布流程，如何做到合并上千程序员的工作？](https://www.ershicimi.com/p/b5188042ac039d9360a5eb4e355fbdb0) 
+- [2020-04-24-iPhone-曝出“惊天漏洞”，波及全球超-5-亿部苹果手机](https://www.ershicimi.com/p/92718172f9e4daac3ed28d381a8f8c49) 
 - [2020-04-23-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/3c6c8bb3d2704fe81cc0f71efd05e911) 
 - [2020-04-23-趋势即机遇，聚焦新基建风口下的“云+5G”丨Q推荐](https://www.ershicimi.com/p/5ecbbb57c1a877184ddcd99b5877ec73) 
 - [2020-04-23-初探未来十年，Cloudera对待数据的全新方式](https://www.ershicimi.com/p/01a0f7bdee97621bf12bfebdc595b894) 
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) 
 - [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688) 
 - [2020-04-24-基于free-texture-pack-完成一个图片精灵命令](https://juejin.im/post/5ea1e030518825738943d015) 
 - [2020-04-24-转行学前端的第-17-天-:-基础店铺页面结构确认](https://juejin.im/post/5ea19b6f6fb9a03c550ff719) 

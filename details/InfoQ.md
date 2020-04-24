@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-04-24 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed) 
+- [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27) 
+- [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24) 
+- [2020-04-24-揭秘-Shopify-的软件发布流程，如何做到合并上千程序员的工作？](https://www.ershicimi.com/p/b5188042ac039d9360a5eb4e355fbdb0) 
+- [2020-04-24-iPhone-曝出“惊天漏洞”，波及全球超-5-亿部苹果手机](https://www.ershicimi.com/p/92718172f9e4daac3ed28d381a8f8c49) 
 - [2020-04-23-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/3c6c8bb3d2704fe81cc0f71efd05e911) 
 - [2020-04-23-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d) 
 - [2020-04-23-趋势即机遇，聚焦新基建风口下的“云+5G”丨Q推荐](https://www.ershicimi.com/p/5ecbbb57c1a877184ddcd99b5877ec73) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 19:30:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 20:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -554,6 +554,11 @@
 </summary>
 
 
+- [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed) ![](assets/new.png)  
+- [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27) ![](assets/new.png)  
+- [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24) ![](assets/new.png)  
+- [2020-04-24-揭秘-Shopify-的软件发布流程，如何做到合并上千程序员的工作？](https://www.ershicimi.com/p/b5188042ac039d9360a5eb4e355fbdb0) ![](assets/new.png)  
+- [2020-04-24-iPhone-曝出“惊天漏洞”，波及全球超-5-亿部苹果手机](https://www.ershicimi.com/p/92718172f9e4daac3ed28d381a8f8c49) ![](assets/new.png)  
 - [2020-04-23-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/3c6c8bb3d2704fe81cc0f71efd05e911)  
 - [2020-04-23-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)  
 - [2020-04-23-趋势即机遇，聚焦新基建风口下的“云+5G”丨Q推荐](https://www.ershicimi.com/p/5ecbbb57c1a877184ddcd99b5877ec73)  
@@ -575,6 +580,7 @@
 </summary>
 
 
+- [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) ![](assets/new.png)  
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9)  
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)  
 - [2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)  
@@ -708,20 +714,20 @@
 </summary>
 
 
-- [2020-04-24-数据库工程师的天堂-Oceanbase-内推](https://www.v2ex.com/t/665799) ![](assets/new.png)  
-- [2020-04-24-招聘贴-阿里健康校招-2021-毕业硕博](https://www.v2ex.com/t/665798) ![](assets/new.png)  
-- [2020-04-24-内推校招阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/665797) ![](assets/new.png)  
-- [2020-04-24-iPhone-SE-续航参考（个人使用](https://www.v2ex.com/t/665796) ![](assets/new.png)  
-- [2020-04-24-composer-依赖冲突怎么解决](https://www.v2ex.com/t/665795) ![](assets/new.png)  
-- [2020-04-24-这是-Shiro-的问题吗？](https://www.v2ex.com/t/665794) ![](assets/new.png)  
-- [2020-04-24-我用的一些免费的"云"服务](https://www.v2ex.com/t/665793) ![](assets/new.png)  
-- [2020-04-24-求大神解释：-inotify-的-max_user_watches-耗尽，导致-No-space-left-on-device](https://www.v2ex.com/t/665792) ![](assets/new.png)  
-- [2020-04-24-v-站坐油管频道的有没有交流群啊](https://www.v2ex.com/t/665791) ![](assets/new.png)  
-- [2020-04-24-求助，想给笔记本换块屏幕，但是不懂，特来求教](https://www.v2ex.com/t/665790) ![](assets/new.png)  
-- [2020-04-24-小米运动的数据导出功能-zip-压缩包的密码是错误的](https://www.v2ex.com/t/665787) ![](assets/new.png)  
-- [2020-04-24-兄弟-DCP-B7530DN-这机器好用么-emmm~](https://www.v2ex.com/t/665786) ![](assets/new.png)  
-- [2020-04-24-求助-Zerotier-性能堪忧，求大佬指点迷津](https://www.v2ex.com/t/665785) ![](assets/new.png)  
-- [2020-04-24-字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784) ![](assets/new.png)  
+- [2020-04-24-数据库工程师的天堂-Oceanbase-内推](https://www.v2ex.com/t/665799)  
+- [2020-04-24-招聘贴-阿里健康校招-2021-毕业硕博](https://www.v2ex.com/t/665798)  
+- [2020-04-24-内推校招阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/665797)  
+- [2020-04-24-iPhone-SE-续航参考（个人使用](https://www.v2ex.com/t/665796)  
+- [2020-04-24-composer-依赖冲突怎么解决](https://www.v2ex.com/t/665795)  
+- [2020-04-24-这是-Shiro-的问题吗？](https://www.v2ex.com/t/665794)  
+- [2020-04-24-我用的一些免费的"云"服务](https://www.v2ex.com/t/665793)  
+- [2020-04-24-求大神解释：-inotify-的-max_user_watches-耗尽，导致-No-space-left-on-device](https://www.v2ex.com/t/665792)  
+- [2020-04-24-v-站坐油管频道的有没有交流群啊](https://www.v2ex.com/t/665791)  
+- [2020-04-24-求助，想给笔记本换块屏幕，但是不懂，特来求教](https://www.v2ex.com/t/665790)  
+- [2020-04-24-小米运动的数据导出功能-zip-压缩包的密码是错误的](https://www.v2ex.com/t/665787)  
+- [2020-04-24-兄弟-DCP-B7530DN-这机器好用么-emmm~](https://www.v2ex.com/t/665786)  
+- [2020-04-24-求助-Zerotier-性能堪忧，求大佬指点迷津](https://www.v2ex.com/t/665785)  
+- [2020-04-24-字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784)  
 - [2020-04-24-弄了一些免费接口到自己的公众号里，希望朋友们给些建议](https://www.v2ex.com/t/665783)  
 - [2020-04-24-Linux-,ip-rule-规则-from-all-fwmark-0x1-lookup-100-是什么意思？](https://www.v2ex.com/t/665782)  
 - [2020-04-24-mysql8-版本和-mysql5.6-版本遇到查询问题](https://www.v2ex.com/t/665781)  

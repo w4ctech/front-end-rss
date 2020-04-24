@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 03:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 04:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -730,7 +730,8 @@
 </summary>
 
 
-- [2020-04-25-macOS-下程序监视剪切板不需要任何权限的吗？](https://www.v2ex.com/t/665870) ![](assets/new.png)  
+- [2020-04-25-有人看《清平乐》吗,真的太慢了,好难坚持啊](https://www.v2ex.com/t/665871) ![](assets/new.png)  
+- [2020-04-25-macOS-下程序监视剪切板不需要任何权限的吗？](https://www.v2ex.com/t/665870)  
 - [2020-04-25-ocserv-怎么配置不代理局域网](https://www.v2ex.com/t/665868)  
 - [2020-04-25-Espresso-机各位有了解吗？](https://www.v2ex.com/t/665867)  
 - [2020-04-25-在国内使用国外的-iCloud-速度有影响吗？](https://www.v2ex.com/t/665866)  
@@ -749,7 +750,6 @@
 - [2020-04-24-在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)  
 - [2020-04-24-女生能接受男朋友穿女装吗？](https://www.v2ex.com/t/665848)  
 - [2020-04-24-疫情过去，得找一份前端工作了。](https://www.v2ex.com/t/665847)  
-- [2020-04-24-有没有做电影剧集主题推荐的平台](https://www.v2ex.com/t/665846)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

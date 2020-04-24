@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 20:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-24 20:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,9 +44,9 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)  
+- [InfoQ](#infoq)  
+- [JavaScript](#javascript)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -554,11 +554,11 @@
 </summary>
 
 
-- [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed) ![](assets/new.png)  
-- [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27) ![](assets/new.png)  
-- [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24) ![](assets/new.png)  
-- [2020-04-24-揭秘-Shopify-的软件发布流程，如何做到合并上千程序员的工作？](https://www.ershicimi.com/p/b5188042ac039d9360a5eb4e355fbdb0) ![](assets/new.png)  
-- [2020-04-24-iPhone-曝出“惊天漏洞”，波及全球超-5-亿部苹果手机](https://www.ershicimi.com/p/92718172f9e4daac3ed28d381a8f8c49) ![](assets/new.png)  
+- [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed)  
+- [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27)  
+- [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24)  
+- [2020-04-24-揭秘-Shopify-的软件发布流程，如何做到合并上千程序员的工作？](https://www.ershicimi.com/p/b5188042ac039d9360a5eb4e355fbdb0)  
+- [2020-04-24-iPhone-曝出“惊天漏洞”，波及全球超-5-亿部苹果手机](https://www.ershicimi.com/p/92718172f9e4daac3ed28d381a8f8c49)  
 - [2020-04-23-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/3c6c8bb3d2704fe81cc0f71efd05e911)  
 - [2020-04-23-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)  
 - [2020-04-23-趋势即机遇，聚焦新基建风口下的“云+5G”丨Q推荐](https://www.ershicimi.com/p/5ecbbb57c1a877184ddcd99b5877ec73)  
@@ -580,7 +580,7 @@
 </summary>
 
 
-- [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) ![](assets/new.png)  
+- [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b)  
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9)  
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)  
 - [2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)  
@@ -597,6 +597,11 @@
 </summary>
 
 
+- [2020-04-24-利用Python实现前端自动化打包部署](https://juejin.im/post/5ea24c06f265da47fe1e0a97) ![](assets/new.png)  
+- [2020-04-24-vue-使用-vue-pdf-实现pdf在线预览](https://juejin.im/post/5ea2bcd0f265da47e44a1fd5) ![](assets/new.png)  
+- [2020-04-24-霖呆呆向你发起了多人学习webpack-构建方式篇2](https://juejin.im/post/5ea2a64a51882573a509c426) ![](assets/new.png)  
+- [2020-04-24-vue开发父子组件通信的一个小坑](https://juejin.im/post/5ea25c3ef265da47d77ce60e) ![](assets/new.png)  
+- [2020-04-24-Webpack那些你不知道的事](https://juejin.im/post/5ea29826e51d45470a4ad63c) ![](assets/new.png)  
 - [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688)  
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)  
 - [2020-04-24-一文看懂Vue2的数据侦测原理](https://juejin.im/post/5ea28fd5f265da47d1293626)  

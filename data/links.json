@@ -2062,6 +2062,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "利用Python实现前端自动化打包部署",
+        "link": "https://juejin.im/post/5ea24c06f265da47fe1e0a97",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "vue 使用 vue-pdf 实现pdf在线预览",
+        "link": "https://juejin.im/post/5ea2bcd0f265da47e44a1fd5",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "霖呆呆向你发起了多人学习webpack-构建方式篇(2)",
+        "link": "https://juejin.im/post/5ea2a64a51882573a509c426",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "vue开发父子组件通信的一个小坑",
+        "link": "https://juejin.im/post/5ea25c3ef265da47d77ce60e",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "Webpack那些你不知道的事",
+        "link": "https://juejin.im/post/5ea29826e51d45470a4ad63c",
+        "date": "2020-04-24"
+      },
+      {
         "title": "轻量型TV端遥控器交互类库最佳实践",
         "link": "https://juejin.im/post/5ea252f2e51d4546b90d3688",
         "date": "2020-04-24"

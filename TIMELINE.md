@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 23:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 00:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -636,6 +636,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km) 
 - [【开发者头条】2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) 
 - [【开发者头条】2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3) 
 - [【开发者头条】2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3) 

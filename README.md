@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 23:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 00:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -729,9 +729,9 @@
 </summary>
 
 
-- [2020-04-24-在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849) ![](assets/new.png)  
-- [2020-04-24-女生能接受男朋友穿女装吗？](https://www.v2ex.com/t/665848) ![](assets/new.png)  
-- [2020-04-24-疫情过去，得找一份前端工作了。](https://www.v2ex.com/t/665847) ![](assets/new.png)  
+- [2020-04-24-在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)  
+- [2020-04-24-女生能接受男朋友穿女装吗？](https://www.v2ex.com/t/665848)  
+- [2020-04-24-疫情过去，得找一份前端工作了。](https://www.v2ex.com/t/665847)  
 - [2020-04-24-有没有做电影剧集主题推荐的平台](https://www.v2ex.com/t/665846)  
 - [2020-04-24-单休是进步还是倒-che](https://www.v2ex.com/t/665845)  
 - [2020-04-24-Mac-作-VPN-服务器用什么程序搭？](https://www.v2ex.com/t/665843)  
@@ -791,6 +791,7 @@
 </summary>
 
 
+- [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km) ![](assets/new.png)  
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
 - [2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3)  
@@ -810,7 +811,6 @@
 - [2020-04-24-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn)  
 - [2020-04-24-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
 - [2020-04-24-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
-- [2020-04-24-推荐-Java-工程师成神之路（2020-正式版）](https://toutiao.io/k/fu1vftn)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

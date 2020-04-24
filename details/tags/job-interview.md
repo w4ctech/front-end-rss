@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -13,8 +13,10 @@
 - [2020-04-18-一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779) 
 - [2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-04-24-腾讯深圳/北京-招聘-web-前端工程师](https://www.v2ex.com/t/665572) 
 - [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-24-推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7) 
 - [2020-04-24-推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj) 
 - [2020-04-24-推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy) 
 - [2020-04-24-推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje) 

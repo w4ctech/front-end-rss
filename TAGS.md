@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-24 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -388,6 +388,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】在线实时音频播放](https://www.v2ex.com/t/665608)
+- [【V2EX】这个图像怎么看起来很眼熟呢](https://www.v2ex.com/t/665568)
 - [【V2EX】BiliBili-直播-发现部分观众总比另一部慢-3~6-秒的样子？清缓存、乃至换浏览器无用。何解？是电信线路优化问题？](https://www.v2ex.com/t/665541)
 - [【V2EX】视频剪辑器免费版](https://www.v2ex.com/t/665516)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -448,6 +450,7 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605)
 - [【V2EX】Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539)
 - [【V2EX】「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -475,6 +478,9 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613)
+- [【V2EX】连-5G-Wi-Fi-下，蓝牙鼠标-MX-MASTER-2S-卡顿厉害](https://www.v2ex.com/t/665590)
+- [【V2EX】🔥🔥腾讯-内推-🔥🔥全球-社招5000+-hc-火热内推中,包进度反馈！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥](https://www.v2ex.com/t/665579)
 - [【开发者头条】聊聊-HTTPS-的工作原理](https://toutiao.io/k/st9uvj0)
 - [【开发者头条】推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -517,6 +523,8 @@
 - [【前端宇宙】别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【V2EX】大家项目-git-换行怎么设置？](https://www.v2ex.com/t/665581)
+- [【V2EX】无法正常在-facebook-分享-github-pages-的链接](https://www.v2ex.com/t/665577)
 - [【技术头条】在对比了-GitHub-5000-个-Python-项目之后，我们精选出了这-36-个！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13387&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFa3d9XyTzgCnCR7pjgWyew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -541,8 +549,10 @@
 - [【前端迷】一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779)
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】腾讯深圳/北京-招聘-web-前端工程师](https://www.v2ex.com/t/665572)
 - [【技术头条】精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】推荐-面试官：Spring-框架内置了哪些可扩展接口，咱们一个一个聊](https://toutiao.io/k/94tf4m7)
 - [【开发者头条】推荐-刚完一波蚂蚁金服的面试后，他说他累了](https://toutiao.io/k/ztft2sj)
 - [【开发者头条】推荐-如何设置线程池参数？美团给出了一个让面试官虎躯一震的回答](https://toutiao.io/k/8blw2hy)
 - [【开发者头条】推荐-Spring-MVC-相关面试题就是无底洞，反正我是怕了](https://toutiao.io/k/zrlipje)

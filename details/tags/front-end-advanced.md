@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-24 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,5 +16,8 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-04-24-海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613) 
+- [2020-04-24-连-5G-Wi-Fi-下，蓝牙鼠标-MX-MASTER-2S-卡顿厉害](https://www.v2ex.com/t/665590) 
+- [2020-04-24-🔥🔥腾讯-内推-🔥🔥全球-社招5000+-hc-火热内推中,包进度反馈！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥](https://www.v2ex.com/t/665579) 
 - [2020-04-24-聊聊-HTTPS-的工作原理](https://toutiao.io/k/st9uvj0) 
 - [2020-04-24-推荐-2.7w+-Star，手撕-LeetCode-题目，让算法套路见鬼去吧！](https://toutiao.io/k/elc6zfq) 

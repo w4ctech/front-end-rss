@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-04-25 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-25-Alfred-的模糊搜索对于一些文件无法搜出来？](https://www.v2ex.com/t/666042) 
+- [2020-04-25-8-年时间终于完成主机升级！黑苹果-AMD-Ryzen-3900x](https://www.v2ex.com/t/666041) 
+- [2020-04-25-brew-elastic/tap-巨慢](https://www.v2ex.com/t/666038) 
+- [2020-04-25-上海五一回家，回来需要隔离吗？](https://www.v2ex.com/t/666037) 
 - [2020-04-25-有没有大佬互换友链](https://www.v2ex.com/t/666036) 
 - [2020-04-25-杭州七堡附近房东直租-1200-起，自如品质，有需要的小伙伴看过来](https://www.v2ex.com/t/666035) 
 - [2020-04-25-招个回国线路维护技术](https://www.v2ex.com/t/666032) 

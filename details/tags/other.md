@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -162,6 +162,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-25-求一份自动控制或者-FPGA-设计的兼职/外包](https://www.v2ex.com/t/665932) 
+- [2020-04-25-监狱是惩罚还是救赎？](https://www.v2ex.com/t/665931) 
+- [2020-04-25-win10-运行-pyw-文件后，怎么打开控制台窗口查看输出](https://www.v2ex.com/t/665929) 
+- [2020-04-25-这种情况怎么做比较好？](https://www.v2ex.com/t/665928) 
+- [2020-04-25-求一个知乎交流-VX-群，互赞互评互助。拉俺一下，俺想进群。](https://www.v2ex.com/t/665927) 
+- [2020-04-25-发现-iPad-Pro-的-Magic-Keyboard-没有-esc-键？](https://www.v2ex.com/t/665926) 
+- [2020-04-25-万-V，有无-GPD-MicroPC-的替代品？](https://www.v2ex.com/t/665923) 
+- [2020-04-25-闲的蛋疼，用-shell-写了个拓扑排序。。。](https://www.v2ex.com/t/665921) 
 - [2020-04-25-PingCap-这类公司是依靠什么盈利？](https://www.v2ex.com/t/665920) 
 - [2020-04-25-百度智能云代理](https://www.v2ex.com/t/665917) 
 - [2020-04-25-国内有啥自动升降桌推荐？家里办公用](https://www.v2ex.com/t/665916) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -10,6 +10,7 @@
 - [2020-04-24-别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36) 
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
+- [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
 - [2020-04-25-请问这种-Git-流程图是用什么工具画的呢？](https://www.v2ex.com/t/665886) 
 - [2020-04-24-对自己的网站进行版本控制的话现在基本还是在用-svn-吗？](https://www.v2ex.com/t/665697) 
 - [2020-04-24-大家项目-git-换行怎么设置？](https://www.v2ex.com/t/665581) 

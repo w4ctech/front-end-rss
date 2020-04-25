@@ -2122,6 +2122,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "如何通过 Github Action 薅腾讯云云开发的羊毛",
+        "link": "https://juejin.im/post/5ea3b5cde51d4546d83b29d6",
+        "date": "2020-04-25"
+      },
+      {
         "title": "基于react搭建一个通用的表单管理配置平台（vue同）",
         "link": "https://juejin.im/post/5ea1af9f518825737a316cc3",
         "date": "2020-04-25"
@@ -2575,6 +2580,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "求一份自动控制或者 FPGA 设计的兼职/外包",
+        "link": "https://www.v2ex.com/t/665932",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "监狱是惩罚还是救赎？",
+        "link": "https://www.v2ex.com/t/665931",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "最近访问一些 https 的网站 总是出此网站无法提供安全连接 xxxx.com 使用了不受支持的协议。\r\nERR_SSL_VERSION_OR_CIPHER_MISMATCH",
+        "link": "https://www.v2ex.com/t/665930",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "win10 运行 pyw 文件后，怎么打开控制台窗口查看输出",
+        "link": "https://www.v2ex.com/t/665929",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "这种情况怎么做比较好？",
+        "link": "https://www.v2ex.com/t/665928",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "求一个知乎交流 VX 群，互赞互评互助。拉俺一下，俺想进群。",
+        "link": "https://www.v2ex.com/t/665927",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "发现 iPad Pro 的 Magic Keyboard 没有 esc 键？",
+        "link": "https://www.v2ex.com/t/665926",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "万 V，有无 GPD MicroPC 的替代品？",
+        "link": "https://www.v2ex.com/t/665923",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "jsonp 请求下断点",
+        "link": "https://www.v2ex.com/t/665922",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "闲的蛋疼，用 shell 写了个拓扑排序。。。",
+        "link": "https://www.v2ex.com/t/665921",
+        "date": "2020-04-25"
+      },
       {
         "title": "PingCap 这类公司是依靠什么盈利？",
         "link": "https://www.v2ex.com/t/665920",

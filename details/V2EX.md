@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-04-25 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-25-求一份自动控制或者-FPGA-设计的兼职/外包](https://www.v2ex.com/t/665932) 
+- [2020-04-25-监狱是惩罚还是救赎？](https://www.v2ex.com/t/665931) 
+- [2020-04-25-最近访问一些-https-的网站-总是出此网站无法提供安全连接-xxxx.com-使用了不受支持的协议。-ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.v2ex.com/t/665930) 
+- [2020-04-25-win10-运行-pyw-文件后，怎么打开控制台窗口查看输出](https://www.v2ex.com/t/665929) 
+- [2020-04-25-这种情况怎么做比较好？](https://www.v2ex.com/t/665928) 
+- [2020-04-25-求一个知乎交流-VX-群，互赞互评互助。拉俺一下，俺想进群。](https://www.v2ex.com/t/665927) 
+- [2020-04-25-发现-iPad-Pro-的-Magic-Keyboard-没有-esc-键？](https://www.v2ex.com/t/665926) 
+- [2020-04-25-万-V，有无-GPD-MicroPC-的替代品？](https://www.v2ex.com/t/665923) 
+- [2020-04-25-jsonp-请求下断点](https://www.v2ex.com/t/665922) 
+- [2020-04-25-闲的蛋疼，用-shell-写了个拓扑排序。。。](https://www.v2ex.com/t/665921) 
 - [2020-04-25-PingCap-这类公司是依靠什么盈利？](https://www.v2ex.com/t/665920) 
 - [2020-04-25-成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919) 
 - [2020-04-25-百度智能云代理](https://www.v2ex.com/t/665917) 

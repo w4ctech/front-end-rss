@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-04-25 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-25-程序员写小说，-V-友中有没有喜欢武侠的？](https://www.v2ex.com/t/665938) 
+- [2020-04-25-<script-id="aaa"-src="xxx.com/foo.js"></script>-用-$.getScript...-可以把-id="aaa"-一起设置进去吗？](https://www.v2ex.com/t/665937) 
+- [2020-04-25-nginx-无法停止](https://www.v2ex.com/t/665936) 
+- [2020-04-25-宏基笔记本，-sata-mode-默认是-Intel-rst，不能安装-ubuntu](https://www.v2ex.com/t/665935) 
+- [2020-04-25-logo-均匀放到-A4-模板小格子里，有什么好的工具吗？](https://www.v2ex.com/t/665934) 
+- [2020-04-25-原生-Javascript-开发超速贪吃蛇小游戏](https://www.v2ex.com/t/665933) 
 - [2020-04-25-求一份自动控制或者-FPGA-设计的兼职/外包](https://www.v2ex.com/t/665932) 
 - [2020-04-25-监狱是惩罚还是救赎？](https://www.v2ex.com/t/665931) 
 - [2020-04-25-最近访问一些-https-的网站-总是出此网站无法提供安全连接-xxxx.com-使用了不受支持的协议。-ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.v2ex.com/t/665930) 

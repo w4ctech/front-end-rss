@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -162,6 +162,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-25-程序员写小说，-V-友中有没有喜欢武侠的？](https://www.v2ex.com/t/665938) 
+- [2020-04-25-宏基笔记本，-sata-mode-默认是-Intel-rst，不能安装-ubuntu](https://www.v2ex.com/t/665935) 
+- [2020-04-25-logo-均匀放到-A4-模板小格子里，有什么好的工具吗？](https://www.v2ex.com/t/665934) 
 - [2020-04-25-求一份自动控制或者-FPGA-设计的兼职/外包](https://www.v2ex.com/t/665932) 
 - [2020-04-25-监狱是惩罚还是救赎？](https://www.v2ex.com/t/665931) 
 - [2020-04-25-win10-运行-pyw-文件后，怎么打开控制台窗口查看输出](https://www.v2ex.com/t/665929) 

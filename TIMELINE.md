@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 12:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 13:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -350,6 +350,12 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-25-程序员写小说，-V-友中有没有喜欢武侠的？](https://www.v2ex.com/t/665938) 
+- [【V2EX】2020-04-25-<script-id="aaa"-src="xxx.com/foo.js"></script>-用-$.getScript...-可以把-id="aaa"-一起设置进去吗？](https://www.v2ex.com/t/665937) 
+- [【V2EX】2020-04-25-nginx-无法停止](https://www.v2ex.com/t/665936) 
+- [【V2EX】2020-04-25-宏基笔记本，-sata-mode-默认是-Intel-rst，不能安装-ubuntu](https://www.v2ex.com/t/665935) 
+- [【V2EX】2020-04-25-logo-均匀放到-A4-模板小格子里，有什么好的工具吗？](https://www.v2ex.com/t/665934) 
+- [【V2EX】2020-04-25-原生-Javascript-开发超速贪吃蛇小游戏](https://www.v2ex.com/t/665933) 
 - [【V2EX】2020-04-25-求一份自动控制或者-FPGA-设计的兼职/外包](https://www.v2ex.com/t/665932) 
 - [【V2EX】2020-04-25-监狱是惩罚还是救赎？](https://www.v2ex.com/t/665931) 
 - [【V2EX】2020-04-25-最近访问一些-https-的网站-总是出此网站无法提供安全连接-xxxx.com-使用了不受支持的协议。-ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.v2ex.com/t/665930) 

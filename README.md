@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 07:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c) ![](assets/new.png)  
-- [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b) ![](assets/new.png)  
+- [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)  
+- [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)  
 - [2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)  
 - [2020-04-23-【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2)  
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)  
@@ -732,7 +732,9 @@
 </summary>
 
 
-- [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875) ![](assets/new.png)  
+- [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878) ![](assets/new.png)  
+- [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876) ![](assets/new.png)  
+- [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875)  
 - [2020-04-25-老板让我想办法让关注数个位数的公众号文章阅读量过-10-万，怎么办](https://www.v2ex.com/t/665874)  
 - [2020-04-25-spark-邮箱](https://www.v2ex.com/t/665872)  
 - [2020-04-25-有人看《清平乐》吗,真的太慢了,好难坚持啊](https://www.v2ex.com/t/665871)  
@@ -750,8 +752,6 @@
 - [2020-04-24-急招岗位大集合-字节跳动-北上广深杭-产品研发运营](https://www.v2ex.com/t/665855)  
 - [2020-04-24-杭州的小伙伴办理信用卡，返-50-现金红包](https://www.v2ex.com/t/665854)  
 - [2020-04-24-16-寸-macbook-爆音问题](https://www.v2ex.com/t/665853)  
-- [2020-04-24-架构师技术图谱，助你早日成为架构师！](https://www.v2ex.com/t/665852)  
-- [2020-04-24-单猫双拨双-IP-无法互相访问服务](https://www.v2ex.com/t/665851)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

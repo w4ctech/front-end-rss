@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -162,6 +162,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-25-关于暑期实习的一个疑问](https://www.v2ex.com/t/665903) 
+- [2020-04-25-因为-System.in.read而阻塞的线程，无法通过-System.in.close唤醒？](https://www.v2ex.com/t/665899) 
+- [2020-04-25-苹果个人账号被封一年多了，可以解封吗？并没有人为恶意操作](https://www.v2ex.com/t/665896) 
+- [2020-04-25-魔都莲花路附近找室友](https://www.v2ex.com/t/665895) 
+- [2020-04-25-威锋已经无法访问两三天了吧，是我的问题么？-feng.com](https://www.v2ex.com/t/665893) 
+- [2020-04-25-NIZ-micro84-双模在-Mac-下“极佳”的蓝牙体验](https://www.v2ex.com/t/665892) 
+- [2020-04-25-Offer-选择求助-欢聚时代-YY-vs-TME-腾讯音乐](https://www.v2ex.com/t/665890) 
+- [2020-04-25-接到平安银行外包-offer，是否应该去，请大佬解答。](https://www.v2ex.com/t/665889) 
+- [2020-04-25-给女朋友换鼠标，求推荐](https://www.v2ex.com/t/665888) 
+- [2020-04-25-做了一个密码加密的小工具,-用于加密密码生成器的密码（大家平时会用密码管理器管理密码不）](https://www.v2ex.com/t/665887) 
+- [2020-04-25-百万量级的汉明距离的数据有没有什么快速计算接近的方法呢？](https://www.v2ex.com/t/665885) 
 - [2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883) 
 - [2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881) 
 - [2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880) 
@@ -409,6 +420,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8) 
+- [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh) 
 - [2020-04-25-推荐-Go-的-Channel-很强大，理解其内在概念会让它更强大](https://toutiao.io/k/2dlr8a8) 
 - [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v) 
 - [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz) 

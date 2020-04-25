@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,6 +70,8 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-25-写了一个工具，自动替换-Less-Sass-中的颜色为相应变量](https://www.v2ex.com/t/665897) 
+- [2020-04-25-用-emoji-给小朋友讲解-js-的数组操作](https://www.v2ex.com/t/665894) 
 - [2020-04-24-Go-适合做函数式编程吗？](https://www.v2ex.com/t/665804) 
 - [2020-04-24-js-有没有好用的根据模板图片生成分享图的工具？](https://www.v2ex.com/t/665740) 
 - [2020-04-24-你还记得那些疯狂裂变的-H5-吗？](https://www.v2ex.com/t/665698) 

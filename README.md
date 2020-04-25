@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 10:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 11:00:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -737,26 +737,26 @@
 </summary>
 
 
+- [2020-04-25-关于暑期实习的一个疑问](https://www.v2ex.com/t/665903) ![](assets/new.png)  
+- [2020-04-25-作为面试官，怎样的候选人你觉得优秀？](https://www.v2ex.com/t/665900) ![](assets/new.png)  
+- [2020-04-25-因为-System.in.read而阻塞的线程，无法通过-System.in.close唤醒？](https://www.v2ex.com/t/665899) ![](assets/new.png)  
+- [2020-04-25-360-企业安全集团招聘-Java-研发工程师（安全产品研发）](https://www.v2ex.com/t/665898) ![](assets/new.png)  
+- [2020-04-25-写了一个工具，自动替换-Less-Sass-中的颜色为相应变量](https://www.v2ex.com/t/665897) ![](assets/new.png)  
+- [2020-04-25-苹果个人账号被封一年多了，可以解封吗？并没有人为恶意操作](https://www.v2ex.com/t/665896) ![](assets/new.png)  
+- [2020-04-25-魔都莲花路附近找室友](https://www.v2ex.com/t/665895) ![](assets/new.png)  
+- [2020-04-25-用-emoji-给小朋友讲解-js-的数组操作](https://www.v2ex.com/t/665894) ![](assets/new.png)  
+- [2020-04-25-威锋已经无法访问两三天了吧，是我的问题么？-feng.com](https://www.v2ex.com/t/665893) ![](assets/new.png)  
+- [2020-04-25-NIZ-micro84-双模在-Mac-下“极佳”的蓝牙体验](https://www.v2ex.com/t/665892) ![](assets/new.png)  
+- [2020-04-25-Offer-选择求助-欢聚时代-YY-vs-TME-腾讯音乐](https://www.v2ex.com/t/665890) ![](assets/new.png)  
+- [2020-04-25-接到平安银行外包-offer，是否应该去，请大佬解答。](https://www.v2ex.com/t/665889) ![](assets/new.png)  
+- [2020-04-25-给女朋友换鼠标，求推荐](https://www.v2ex.com/t/665888) ![](assets/new.png)  
+- [2020-04-25-做了一个密码加密的小工具,-用于加密密码生成器的密码（大家平时会用密码管理器管理密码不）](https://www.v2ex.com/t/665887) ![](assets/new.png)  
+- [2020-04-25-请问这种-Git-流程图是用什么工具画的呢？](https://www.v2ex.com/t/665886) ![](assets/new.png)  
+- [2020-04-25-百万量级的汉明距离的数据有没有什么快速计算接近的方法呢？](https://www.v2ex.com/t/665885) ![](assets/new.png)  
 - [2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883)  
 - [2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881)  
 - [2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880)  
 - [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878)  
-- [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876)  
-- [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875)  
-- [2020-04-25-老板让我想办法让关注数个位数的公众号文章阅读量过-10-万，怎么办](https://www.v2ex.com/t/665874)  
-- [2020-04-25-spark-邮箱](https://www.v2ex.com/t/665872)  
-- [2020-04-25-有人看《清平乐》吗,真的太慢了,好难坚持啊](https://www.v2ex.com/t/665871)  
-- [2020-04-25-macOS-下程序监视剪切板不需要任何权限的吗？](https://www.v2ex.com/t/665870)  
-- [2020-04-25-ocserv-怎么配置不代理局域网](https://www.v2ex.com/t/665868)  
-- [2020-04-25-Espresso-机各位有了解吗？](https://www.v2ex.com/t/665867)  
-- [2020-04-25-在国内使用国外的-iCloud-速度有影响吗？](https://www.v2ex.com/t/665866)  
-- [2020-04-25-平时在家健身，各位都会选择哪些动作](https://www.v2ex.com/t/665865)  
-- [2020-04-25-我知道-tx-程序员忘了件事](https://www.v2ex.com/t/665864)  
-- [2020-04-25-想问一下关于-dubbo-超时机制的问题](https://www.v2ex.com/t/665863)  
-- [2020-04-25-困得要死，有什么可以提神的事吗？](https://www.v2ex.com/t/665862)  
-- [2020-04-25-百度搜索的新-PC-首页是-Material-Design-风格么？](https://www.v2ex.com/t/665861)  
-- [2020-04-25-chrome-已经可以在设置栏里面使用安全-DNS](https://www.v2ex.com/t/665860)  
-- [2020-04-24-求推荐一款-macbook-pro-搭配的显示器](https://www.v2ex.com/t/665857)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -799,7 +799,9 @@
 </summary>
 
 
-- [2020-04-25-推荐-Go-的-Channel-很强大，理解其内在概念会让它更强大](https://toutiao.io/k/2dlr8a8) ![](assets/new.png)  
+- [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8) ![](assets/new.png)  
+- [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh) ![](assets/new.png)  
+- [2020-04-25-推荐-Go-的-Channel-很强大，理解其内在概念会让它更强大](https://toutiao.io/k/2dlr8a8)  
 - [2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk)  
 - [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v)  
 - [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz)  
@@ -817,8 +819,6 @@
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
 - [2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3)  
 - [2020-04-24-复杂业务如何保证-Flutter-的高性能高流畅度？](https://toutiao.io/k/y4wv3k1)  
-- [2020-04-24-机器学习项目实操指南](https://toutiao.io/k/d2924a7)  
-- [2020-04-24-迁移时期的缓存](https://toutiao.io/k/zdffmtx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

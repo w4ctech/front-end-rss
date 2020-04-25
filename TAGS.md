@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-25 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 18:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007)
 - [【V2EX】成都居家办公-招-nodejs-后端开发人员，求大佬，详情见我发的招聘帖](https://www.v2ex.com/t/665951)
 - [【V2EX】成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919)
 - [【开发者头条】2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s)
@@ -395,6 +396,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】有偿求指导一下如何给视频加上盲水印？](https://www.v2ex.com/t/666002)
 - [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
 - [【V2EX】大家有在-Facebook-上面投放广告的呀，现在想问问有什么工具可以快速的做个广告小视频](https://www.v2ex.com/t/665905)
 - [【V2EX】在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)
@@ -472,11 +474,11 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】百分浏览器更新版本-4.2.10.171-后，自动下载的-test_vlan2.exe-是什么用途？](https://www.v2ex.com/t/666016)
 - [【V2EX】最近访问一些-https-的网站-总是出此网站无法提供安全连接-xxxx.com-使用了不受支持的协议。-ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.v2ex.com/t/665930)
 - [【V2EX】360-企业安全集团招聘-Java-研发工程师（安全产品研发）](https://www.v2ex.com/t/665898)
 - [【V2EX】chrome-已经可以在设置栏里面使用安全-DNS](https://www.v2ex.com/t/665860)
 - [【V2EX】有的长途车站用的那种有个-baidu-标的人脸身份证识别系统，百度只提供算法么？还是百度把身份证和照片都缓存了？](https://www.v2ex.com/t/665837)
-- [【V2EX】前后端分离的页面在请求第三方授权时如何保证授权-token-可以绑定到当前账号](https://www.v2ex.com/t/665716)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

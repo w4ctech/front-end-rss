@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -17,6 +17,7 @@
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-04-25-招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007) 
 - [2020-04-25-成都居家办公-招-nodejs-后端开发人员，求大佬，详情见我发的招聘帖](https://www.v2ex.com/t/665951) 
 - [2020-04-25-成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919) 
 - [2020-04-24-2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s) 

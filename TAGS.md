@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-25 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 14:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】成都居家办公-招-nodejs-后端开发人员，求大佬，详情见我发的招聘帖](https://www.v2ex.com/t/665951)
 - [【V2EX】成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919)
 - [【开发者头条】2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s)
 - [【开发者头条】opa-koans：带你进入-OPA-的世界](https://toutiao.io/k/n65kirr)
@@ -432,6 +433,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://www.v2ex.com/t/665941)
 - [【V2EX】求助-Zerotier-性能堪忧，求大佬指点迷津](https://www.v2ex.com/t/665785)
 - [【V2EX】做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746)
 - [【技术头条】JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

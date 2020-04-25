@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-25 20:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -588,6 +588,7 @@
 - [【前端迷】一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779)
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】去大厂面试一定要问基础知识吗？](https://www.v2ex.com/t/666056)
 - [【V2EX】求问面试官/HR，社招怎么才算履历好？](https://www.v2ex.com/t/665997)
 - [【V2EX】作为面试官，怎样的候选人你觉得优秀？](https://www.v2ex.com/t/665900)
 - [【V2EX】深圳腾讯后端开发工程师部门直招社会招聘](https://www.v2ex.com/t/665815)
@@ -600,7 +601,6 @@
 - [【V2EX】上海第一财经数据-招聘高级前端工程师](https://www.v2ex.com/t/665654)
 - [【V2EX】北京/杭州-P6/7/8-组内直推，-2-周内完成面试流程，阿里巴巴数字供应链平台-Java-开发工程师，](https://www.v2ex.com/t/665615)
 - [【V2EX】腾讯深圳/北京-招聘-web-前端工程师](https://www.v2ex.com/t/665572)
-- [【技术头条】精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

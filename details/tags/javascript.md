@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -70,6 +70,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-25-使用-JavaScript-解决导入-Excel-数据重复字段的问题。大约-40W-行数据](https://www.v2ex.com/t/666052) 
 - [2020-04-25-前端问一个无限滚动加载的问题](https://www.v2ex.com/t/666027) 
 - [2020-04-25-<script-id="aaa"-src="xxx.com/foo.js"></script>-用-$.getScript...-可以把-id="aaa"-一起设置进去吗？](https://www.v2ex.com/t/665937) 
 - [2020-04-25-jsonp-请求下断点](https://www.v2ex.com/t/665922) 

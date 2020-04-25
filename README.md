@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 08:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -732,8 +732,8 @@
 </summary>
 
 
-- [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878) ![](assets/new.png)  
-- [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876) ![](assets/new.png)  
+- [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878)  
+- [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876)  
 - [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875)  
 - [2020-04-25-老板让我想办法让关注数个位数的公众号文章阅读量过-10-万，怎么办](https://www.v2ex.com/t/665874)  
 - [2020-04-25-spark-邮箱](https://www.v2ex.com/t/665872)  
@@ -794,6 +794,7 @@
 </summary>
 
 
+- [2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd) ![](assets/new.png)  
 - [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km)  
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
@@ -813,7 +814,6 @@
 - [2020-04-24-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt)  
 - [2020-04-24-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn)  
 - [2020-04-24-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
-- [2020-04-24-推荐-Redis-应用场景汇总](https://toutiao.io/k/zpsgkhr)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

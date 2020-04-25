@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 09:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 10:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,17 +43,17 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -537,6 +537,10 @@
 </summary>
 
 
+- [2020-04-25-绝了！Dataway让SpringBoot不在需要Controller、Service、DAO、Ma](https://www.ershicimi.com/p/7ad5cf1fb668f3f98c0528303cd01c27) ![](assets/new.png)  
+- [2020-04-25-突破百度网盘限速工具Pandownload作者被抓，知乎网友怎么看？](https://www.ershicimi.com/p/8dd1da68b079401e4a32e99da36d37f6) ![](assets/new.png)  
+- [2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13) ![](assets/new.png)  
+- [2020-04-25-架构篇：高可用-Redis-服务架构分析与搭建](https://www.ershicimi.com/p/a85559ae1112114b15fe3889affe176d) ![](assets/new.png)  
 - [2020-04-24-Redis-10亿数据量只需要100MB内存，为什么这么牛？](https://www.ershicimi.com/p/fa5e12dfb612f88f96bd9813218536a0)  
 - [2020-04-24-一个奇怪的MySQL慢查询，打懵了一群不懂业务的DBA！](https://www.ershicimi.com/p/deb23a494f13f1c2edab77f4f6e5fdc1)  
 - [2020-04-24-珍藏很久的9个网站，再舍不得也得分享出来！](https://www.ershicimi.com/p/ec4d168d14d2022258e1ff0f60436d8a)  
@@ -605,7 +609,7 @@
 </summary>
 
 
-- [2020-04-25-基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3) ![](assets/new.png)  
+- [2020-04-25-基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3)  
 - [2020-04-24-你真的了解浅比较么？PureComponent-和-shouldeComponentUpdate-解析](https://imweb.io/topic/598973c2c72aa8db35d2e291)  
 - [2020-04-24-利用Python实现前端自动化打包部署](https://juejin.im/post/5ea24c06f265da47fe1e0a97)  
 - [2020-04-24-vue-使用-vue-pdf-实现pdf在线预览](https://juejin.im/post/5ea2bcd0f265da47e44a1fd5)  
@@ -795,12 +799,12 @@
 </summary>
 
 
-- [2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk) ![](assets/new.png)  
-- [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v) ![](assets/new.png)  
-- [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz) ![](assets/new.png)  
-- [2020-04-25-Spring-Boot-添加应用-JVM-监控-，实现数据可视化](https://toutiao.io/k/ptl9gep) ![](assets/new.png)  
-- [2020-04-25-爱奇艺-iOS-移动端网络优化实践（请求成功率优化篇）](https://toutiao.io/k/l1dd1wy) ![](assets/new.png)  
-- [2020-04-25-JVM-源码分析之-JDK-8-下的僵尸（无法回收）类加载器](https://toutiao.io/k/rb38d6r) ![](assets/new.png)  
+- [2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk)  
+- [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v)  
+- [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz)  
+- [2020-04-25-Spring-Boot-添加应用-JVM-监控-，实现数据可视化](https://toutiao.io/k/ptl9gep)  
+- [2020-04-25-爱奇艺-iOS-移动端网络优化实践（请求成功率优化篇）](https://toutiao.io/k/l1dd1wy)  
+- [2020-04-25-JVM-源码分析之-JDK-8-下的僵尸（无法回收）类加载器](https://toutiao.io/k/rb38d6r)  
 - [2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n)  
 - [2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y)  
 - [2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh)  

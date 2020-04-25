@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-25 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】nodejs-开发求带走](https://www.v2ex.com/t/666064)
 - [【V2EX】招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007)
 - [【V2EX】成都居家办公-招-nodejs-后端开发人员，求大佬，详情见我发的招聘帖](https://www.v2ex.com/t/665951)
 - [【V2EX】成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919)

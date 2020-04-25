@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 02:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 03:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -359,6 +359,9 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-26-Sony-电视选择，在纠结是选-85x8500g-还是今年的新款-85x8000h](https://www.v2ex.com/t/666126) 
+- [【V2EX】2020-04-26-解压-apk-直接-zip-压缩打包需要重新签名吗](https://www.v2ex.com/t/666125) 
+- [【V2EX】2020-04-26-Flask-的静态资源-URL-的-versioning-目前有官方支持的-best-practice-么？](https://www.v2ex.com/t/666124) 
 - [【V2EX】2020-04-26-Google-Alerts-服务瘫了？](https://www.v2ex.com/t/666123) 
 - [【V2EX】2020-04-26-看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122) 
 - [【V2EX】2020-04-26-备忘录删除为什么不做两步确认](https://www.v2ex.com/t/666121) 

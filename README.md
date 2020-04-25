@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 00:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 01:00:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -742,26 +742,26 @@
 </summary>
 
 
+- [2020-04-26-KaiOS-上的-TOTP-工具](https://www.v2ex.com/t/666112) ![](assets/new.png)  
+- [2020-04-26-PayPal内推，外企，上海北京，长期有效。可咨询。](https://www.v2ex.com/t/666110) ![](assets/new.png)  
+- [2020-04-26-突然收到了-小米-开头的乱码短信，求解](https://www.v2ex.com/t/666109) ![](assets/new.png)  
+- [2020-04-26-OneDrive-Windows-客户端电信网络下连接失败](https://www.v2ex.com/t/666107) ![](assets/new.png)  
+- [2020-04-25-明天上班，记得定闹钟](https://www.v2ex.com/t/666103) ![](assets/new.png)  
+- [2020-04-25-Mac-下-在虚拟机安装-win10-设置缩放后鼠标变得很大-设置里面设置最小还是很大](https://www.v2ex.com/t/666102) ![](assets/new.png)  
+- [2020-04-25-请教类似豆瓣小组的数据库设计，关注很多小组的数据库操作-push/pull-选择](https://www.v2ex.com/t/666101) ![](assets/new.png)  
+- [2020-04-25-用-uni-app-开发，值得推荐吗？](https://www.v2ex.com/t/666100) ![](assets/new.png)  
+- [2020-04-25-大量图片存在移动硬盘，有必要压缩成压缩包保存么？](https://www.v2ex.com/t/666099) ![](assets/new.png)  
+- [2020-04-25-请问阿里和蚂蚁的两个职位，可以同时走面试流程吗？](https://www.v2ex.com/t/666098) ![](assets/new.png)  
+- [2020-04-25-普通人在失业浪潮下，该如何做到经济自救？](https://www.v2ex.com/t/666096) ![](assets/new.png)  
+- [2020-04-25-一个以终结所有导航网站为目标的工具---酷书签](https://www.v2ex.com/t/666095) ![](assets/new.png)  
+- [2020-04-25-技术面试必备基础知识](https://www.v2ex.com/t/666094) ![](assets/new.png)  
+- [2020-04-25-窦性心律，偶发房性早搏，频发室性早搏。突然就很怕死了](https://www.v2ex.com/t/666092) ![](assets/new.png)  
+- [2020-04-25-国产-1+8-氢-os，-google-play-商店隐藏问题](https://www.v2ex.com/t/666091) ![](assets/new.png)  
+- [2020-04-25-Serverless-实战：通过-Serverless-架构实现监控告警](https://www.v2ex.com/t/666090) ![](assets/new.png)  
+- [2020-04-25-普通程序员在失业浪潮下，我该如何做到经济自救？](https://www.v2ex.com/t/666089) ![](assets/new.png)  
+- [2020-04-25-刚入门的小程序猿-关于-GitHub-入门！](https://www.v2ex.com/t/666088) ![](assets/new.png)  
+- [2020-04-25-上海-漕河泾Garena游戏公司招聘技术、美术、产品、运营、职能等岗位～长期有效！](https://www.v2ex.com/t/666087) ![](assets/new.png)  
 - [2020-04-25-做一个刷单的网站？多少钱可以做成？](https://www.v2ex.com/t/666084)  
-- [2020-04-25-关于-WP-的-WP-Statistics-插件查看访客来源](https://www.v2ex.com/t/666083)  
-- [2020-04-25-最近感觉-Aliyun-机器拉-GitHub-上面的东西好慢呀，大家有这种状况吗？](https://www.v2ex.com/t/666081)  
-- [2020-04-25-野生程序员干外包的一年体会.](https://www.v2ex.com/t/666080)  
-- [2020-04-25-有没有便宜的运动相机可以作为自行车的行车记录仪？](https://www.v2ex.com/t/666079)  
-- [2020-04-25-伊朗被制裁以后，国内有什么支付渠道](https://www.v2ex.com/t/666078)  
-- [2020-04-25-即将年满-34-岁老码农求职业方向建议](https://www.v2ex.com/t/666077)  
-- [2020-04-25-昨天自驾去北京，高速出口检测排了两个小时的队](https://www.v2ex.com/t/666076)  
-- [2020-04-25-V-站今天建站十年啦，去站长的帖下-pay-some-respect-吧.](https://www.v2ex.com/t/666074)  
-- [2020-04-25-像-BPG.HE.NET-等这样通过-AS-查询-IP-段网站是哪里的数据，有什么方式可以查询最新的吗？](https://www.v2ex.com/t/666072)  
-- [2020-04-25-gmail-的问题](https://www.v2ex.com/t/666070)  
-- [2020-04-25-说说面试遇到的奇葩事！](https://www.v2ex.com/t/666069)  
-- [2020-04-25-如何通过一个旁路设备组建虚拟内网？](https://www.v2ex.com/t/666068)  
-- [2020-04-25-kindle-mac-os-客户端登陆不上](https://www.v2ex.com/t/666067)  
-- [2020-04-25-大家觉得广州虎牙公司怎么样](https://www.v2ex.com/t/666065)  
-- [2020-04-25-nodejs-开发求带走](https://www.v2ex.com/t/666064)  
-- [2020-04-25-V-站第-666666-个帖子就要出现了](https://www.v2ex.com/t/666063)  
-- [2020-04-25-黑果笔记本-win-和-macos-都用，-DW1830-和-DW1560-怎可选？](https://www.v2ex.com/t/666062)  
-- [2020-04-25-有-ns-家庭会员拼车的么？没有的话我等会再来问问](https://www.v2ex.com/t/666061)  
-- [2020-04-25-我们没有变好，也没有变坏。](https://www.v2ex.com/t/666060)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -804,7 +804,7 @@
 </summary>
 
 
-- [2020-04-26-推荐-Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr) ![](assets/new.png)  
+- [2020-04-26-推荐-Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr)  
 - [2020-04-25-推荐-面试常问的-Java-虚拟机运行时数据区](https://toutiao.io/k/f0m6na1)  
 - [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf)  
 - [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8)  

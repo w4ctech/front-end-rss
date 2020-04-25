@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -29,5 +29,6 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-04-24-从零实现一个单词对战游戏-二-产品篇:-如何确定项目主题](https://juejin.im/post/5e9da75e518825085d6d0854) 
+- [2020-04-25-上海-漕河泾Garena游戏公司招聘技术、美术、产品、运营、职能等岗位～长期有效！](https://www.v2ex.com/t/666087) 
 - [2020-04-25-原生-Javascript-开发超速贪吃蛇小游戏](https://www.v2ex.com/t/665933) 
 - [2020-04-24-PC-用千元内带麦的无线游戏耳机有什么推荐的吗？](https://www.v2ex.com/t/665578) 

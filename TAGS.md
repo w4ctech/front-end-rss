@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-25 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919)
 - [【开发者头条】2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s)
 - [【开发者头条】opa-koans：带你进入-OPA-的世界](https://toutiao.io/k/n65kirr)
 - [......【查看更多】......](./details/tags/nodejs.md)
@@ -393,6 +394,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
+- [【V2EX】大家有在-Facebook-上面投放广告的呀，现在想问问有什么工具可以快速的做个广告小视频](https://www.v2ex.com/t/665905)
 - [【V2EX】在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)
 - [【V2EX】关于阿里的视频隐形水印](https://www.v2ex.com/t/665812)
 - [【V2EX】看到个天猫精灵玩儿你想我猜的视频-求科普原理](https://www.v2ex.com/t/665811)

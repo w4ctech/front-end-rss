@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 10:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 10:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -537,10 +537,10 @@
 </summary>
 
 
-- [2020-04-25-绝了！Dataway让SpringBoot不在需要Controller、Service、DAO、Ma](https://www.ershicimi.com/p/7ad5cf1fb668f3f98c0528303cd01c27) ![](assets/new.png)  
-- [2020-04-25-突破百度网盘限速工具Pandownload作者被抓，知乎网友怎么看？](https://www.ershicimi.com/p/8dd1da68b079401e4a32e99da36d37f6) ![](assets/new.png)  
-- [2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13) ![](assets/new.png)  
-- [2020-04-25-架构篇：高可用-Redis-服务架构分析与搭建](https://www.ershicimi.com/p/a85559ae1112114b15fe3889affe176d) ![](assets/new.png)  
+- [2020-04-25-绝了！Dataway让SpringBoot不在需要Controller、Service、DAO、Ma](https://www.ershicimi.com/p/7ad5cf1fb668f3f98c0528303cd01c27)  
+- [2020-04-25-突破百度网盘限速工具Pandownload作者被抓，知乎网友怎么看？](https://www.ershicimi.com/p/8dd1da68b079401e4a32e99da36d37f6)  
+- [2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13)  
+- [2020-04-25-架构篇：高可用-Redis-服务架构分析与搭建](https://www.ershicimi.com/p/a85559ae1112114b15fe3889affe176d)  
 - [2020-04-24-Redis-10亿数据量只需要100MB内存，为什么这么牛？](https://www.ershicimi.com/p/fa5e12dfb612f88f96bd9813218536a0)  
 - [2020-04-24-一个奇怪的MySQL慢查询，打懵了一群不懂业务的DBA！](https://www.ershicimi.com/p/deb23a494f13f1c2edab77f4f6e5fdc1)  
 - [2020-04-24-珍藏很久的9个网站，再舍不得也得分享出来！](https://www.ershicimi.com/p/ec4d168d14d2022258e1ff0f60436d8a)  
@@ -799,6 +799,7 @@
 </summary>
 
 
+- [2020-04-25-推荐-Go-的-Channel-很强大，理解其内在概念会让它更强大](https://toutiao.io/k/2dlr8a8) ![](assets/new.png)  
 - [2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk)  
 - [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v)  
 - [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz)  
@@ -818,7 +819,6 @@
 - [2020-04-24-复杂业务如何保证-Flutter-的高性能高流畅度？](https://toutiao.io/k/y4wv3k1)  
 - [2020-04-24-机器学习项目实操指南](https://toutiao.io/k/d2924a7)  
 - [2020-04-24-迁移时期的缓存](https://toutiao.io/k/zdffmtx)  
-- [2020-04-24-VXLAN-基础教程：结合-VRF-在-Linux-中实践-VXLAN-网络](https://toutiao.io/k/f07sbhy)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

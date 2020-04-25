@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 05:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 06:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -742,7 +742,9 @@
 </summary>
 
 
-- [2020-04-26-vanitygen-hd：比特币个性化-HD/HDM-钱包生成器](https://www.v2ex.com/t/666127) ![](assets/new.png)  
+- [2020-04-26-P2P-的文件同步软件](https://www.v2ex.com/t/666129) ![](assets/new.png)  
+- [2020-04-26-三星安全文件夹无法登陆-Google-账号](https://www.v2ex.com/t/666128) ![](assets/new.png)  
+- [2020-04-26-vanitygen-hd：比特币个性化-HD/HDM-钱包生成器](https://www.v2ex.com/t/666127)  
 - [2020-04-26-Sony-电视选择，在纠结是选-85x8500g-还是今年的新款-85x8000h](https://www.v2ex.com/t/666126)  
 - [2020-04-26-解压-apk-直接-zip-压缩打包需要重新签名吗](https://www.v2ex.com/t/666125)  
 - [2020-04-26-Flask-的静态资源-URL-的-versioning-目前有官方支持的-best-practice-么？](https://www.v2ex.com/t/666124)  
@@ -760,8 +762,6 @@
 - [2020-04-26-突然收到了-小米-开头的乱码短信，求解](https://www.v2ex.com/t/666109)  
 - [2020-04-26-OneDrive-Windows-客户端电信网络下连接失败](https://www.v2ex.com/t/666107)  
 - [2020-04-25-明天上班，记得定闹钟](https://www.v2ex.com/t/666103)  
-- [2020-04-25-Mac-下-在虚拟机安装-win10-设置缩放后鼠标变得很大-设置里面设置最小还是很大](https://www.v2ex.com/t/666102)  
-- [2020-04-25-请教类似豆瓣小组的数据库设计，关注很多小组的数据库操作-push/pull-选择](https://www.v2ex.com/t/666101)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

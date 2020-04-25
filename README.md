@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 23:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 00:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -742,8 +742,8 @@
 </summary>
 
 
-- [2020-04-25-做一个刷单的网站？多少钱可以做成？](https://www.v2ex.com/t/666084) ![](assets/new.png)  
-- [2020-04-25-关于-WP-的-WP-Statistics-插件查看访客来源](https://www.v2ex.com/t/666083) ![](assets/new.png)  
+- [2020-04-25-做一个刷单的网站？多少钱可以做成？](https://www.v2ex.com/t/666084)  
+- [2020-04-25-关于-WP-的-WP-Statistics-插件查看访客来源](https://www.v2ex.com/t/666083)  
 - [2020-04-25-最近感觉-Aliyun-机器拉-GitHub-上面的东西好慢呀，大家有这种状况吗？](https://www.v2ex.com/t/666081)  
 - [2020-04-25-野生程序员干外包的一年体会.](https://www.v2ex.com/t/666080)  
 - [2020-04-25-有没有便宜的运动相机可以作为自行车的行车记录仪？](https://www.v2ex.com/t/666079)  
@@ -804,6 +804,7 @@
 </summary>
 
 
+- [2020-04-26-推荐-Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr) ![](assets/new.png)  
 - [2020-04-25-推荐-面试常问的-Java-虚拟机运行时数据区](https://toutiao.io/k/f0m6na1)  
 - [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf)  
 - [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8)  
@@ -823,7 +824,6 @@
 - [2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd)  
 - [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km)  
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
-- [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

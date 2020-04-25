@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 06:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -140,6 +140,9 @@
 </summary>
 
 
+- [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7) ![](assets/new.png)  
+- [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143) ![](assets/new.png)  
+- [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9) ![](assets/new.png)  
 - [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)  
 - [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)  
 - [2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)  
@@ -742,8 +745,8 @@
 </summary>
 
 
-- [2020-04-26-P2P-的文件同步软件](https://www.v2ex.com/t/666129) ![](assets/new.png)  
-- [2020-04-26-三星安全文件夹无法登陆-Google-账号](https://www.v2ex.com/t/666128) ![](assets/new.png)  
+- [2020-04-26-P2P-的文件同步软件](https://www.v2ex.com/t/666129)  
+- [2020-04-26-三星安全文件夹无法登陆-Google-账号](https://www.v2ex.com/t/666128)  
 - [2020-04-26-vanitygen-hd：比特币个性化-HD/HDM-钱包生成器](https://www.v2ex.com/t/666127)  
 - [2020-04-26-Sony-电视选择，在纠结是选-85x8500g-还是今年的新款-85x8000h](https://www.v2ex.com/t/666126)  
 - [2020-04-26-解压-apk-直接-zip-压缩打包需要重新签名吗](https://www.v2ex.com/t/666125)  

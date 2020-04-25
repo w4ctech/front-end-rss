@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 06:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -461,6 +461,7 @@
 
 
 - [【Vue中文社区】Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec)
+- [【前端早读课】【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)
 - [【前端大全】聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e)
 - [【前端大全】当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01)
 - [【全栈前端精选】如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1)
@@ -479,7 +480,6 @@
 - [【V2EX】Flask-的静态资源-URL-的-versioning-目前有官方支持的-best-practice-么？](https://www.v2ex.com/t/666124)
 - [【V2EX】百分浏览器更新版本-4.2.10.171-后，自动下载的-test_vlan2.exe-是什么用途？](https://www.v2ex.com/t/666016)
 - [【V2EX】最近访问一些-https-的网站-总是出此网站无法提供安全连接-xxxx.com-使用了不受支持的协议。-ERR_SSL_VERSION_OR_CIPHER_MISMATCH](https://www.v2ex.com/t/665930)
-- [【V2EX】360-企业安全集团招聘-Java-研发工程师（安全产品研发）](https://www.v2ex.com/t/665898)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -584,6 +584,7 @@
 
 
 - [【Vue中文社区】搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)
+- [【前端早读课】【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)
 - [【前端开发】前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)
 - [【前端之巅】5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)
 - [【前端迷】从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47)
@@ -602,7 +603,6 @@
 - [【V2EX】南京-南京网眼-招聘前端开发工程师](https://www.v2ex.com/t/665748)
 - [【V2EX】我看有-offer-的心疼都炸了？那我这面试都几乎没有的人。。。。。？砰~~~~砰~~~~~~](https://www.v2ex.com/t/665726)
 - [【V2EX】谷歌的这道经典题，为何成为面试者绕不开的“噩梦”](https://www.v2ex.com/t/665704)
-- [【V2EX】面试和-hr-如何委婉不令反感的要薪资](https://www.v2ex.com/t/665681)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -651,6 +651,7 @@
 
 - [【Vue中文社区】初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)
 - [【Vue中文社区】程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)
+- [【前端早读课】【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)
 - [【前端早读课】【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)
 - [【前端早读课】【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2)
 - [【前端早读课】【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508)
@@ -668,7 +669,6 @@
 - [【前端大学】疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2)
 - [【前端大学】必看的豆瓣高分电影TOP10，隐藏着一个学好英语的秘籍！](https://www.ershicimi.com/p/bd7c4a653201842e67fd1a115059fd7f)
 - [【前端大学】前端应该会的23个linux常用命令](https://www.ershicimi.com/p/17de0a726575ffa60fa77e7b01cbee3e)
-- [【前端之巅】代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

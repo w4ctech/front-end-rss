@@ -2122,6 +2122,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "今天你out了吗？从零到一我们一起学习vue3最新API（持续更新中～）",
+        "link": "https://juejin.im/post/5ea3d47551882573680f48c0",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "第五期 | 前端监控怎么玩？",
+        "link": "https://juejin.im/post/5ea3eb326fb9a03c485791f9",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "前端进阶序章",
+        "link": "https://juejin.im/post/5ea376fb6fb9a03c8a416259",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "插件封装｜封装一个属于自己的轮播图插件——左右切换版",
+        "link": "https://juejin.im/post/5ea3098451882573bc7c3067",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "React中是如何通过$$typeof防止XSS攻击的",
+        "link": "https://juejin.im/post/5ea26f1e51882573bf17a830",
+        "date": "2020-04-25"
+      },
+      {
         "title": "如何通过 Github Action 薅腾讯云云开发的羊毛",
         "link": "https://juejin.im/post/5ea3b5cde51d4546d83b29d6",
         "date": "2020-04-25"
@@ -2600,6 +2625,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "关于移动宽带的一点猜想",
+        "link": "https://www.v2ex.com/t/666116",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "前端有什么推介的组件可以做到可视化的构建树形结构吗",
+        "link": "https://www.v2ex.com/t/666115",
+        "date": "2020-04-26"
+      },
       {
         "title": "KaiOS 上的 TOTP 工具",
         "link": "https://www.v2ex.com/t/666112",

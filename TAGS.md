@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 01:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 01:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -58,7 +58,7 @@
 - [【奇舞周刊】一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e)
 - [【奇舞周刊】从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a)
 - [【奇舞周刊】围观“33行代码的React”](https://www.ershicimi.com/p/f64504033c52c2e15ec7a2bfbbe9d994)
-- [【掘金前端】基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3)
+- [【掘金前端】React中是如何通过$$typeof防止XSS攻击的](https://juejin.im/post/5ea26f1e51882573bf17a830)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -128,6 +128,9 @@
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
 - [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) 
+- [2020-04-25-第五期-|-前端监控怎么玩？](https://juejin.im/post/5ea3eb326fb9a03c485791f9) 
+- [2020-04-25-前端进阶序章](https://juejin.im/post/5ea376fb6fb9a03c8a416259) 
+- [2020-04-25-插件封装｜封装一个属于自己的轮播图插件——左右切换版](https://juejin.im/post/5ea3098451882573bc7c3067) 
 - [2020-04-24-利用Python实现前端自动化打包部署](https://juejin.im/post/5ea24c06f265da47fe1e0a97) 
 - [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688) 
 - [2020-04-24-基于free-texture-pack-完成一个图片精灵命令](https://juejin.im/post/5ea1e030518825738943d015) 
@@ -166,6 +169,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-26-关于移动宽带的一点猜想](https://www.v2ex.com/t/666116) 
 - [2020-04-26-KaiOS-上的-TOTP-工具](https://www.v2ex.com/t/666112) 
 - [2020-04-26-PayPal内推，外企，上海北京，长期有效。可咨询。](https://www.v2ex.com/t/666110) 
 - [2020-04-26-突然收到了-小米-开头的乱码短信，求解](https://www.v2ex.com/t/666109) 

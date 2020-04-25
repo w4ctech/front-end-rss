@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 19:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -350,6 +350,13 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-25-有没有大佬互换友链](https://www.v2ex.com/t/666036) 
+- [【V2EX】2020-04-25-杭州七堡附近房东直租-1200-起，自如品质，有需要的小伙伴看过来](https://www.v2ex.com/t/666035) 
+- [【V2EX】2020-04-25-招个回国线路维护技术](https://www.v2ex.com/t/666032) 
+- [【V2EX】2020-04-25-Serverless-Framework-一键部署正式发布](https://www.v2ex.com/t/666030) 
+- [【V2EX】2020-04-25-DFU-模式疑似被删除，-iOS-13.4.1](https://www.v2ex.com/t/666029) 
+- [【V2EX】2020-04-25-南京求一份渗透测试的坑](https://www.v2ex.com/t/666028) 
+- [【V2EX】2020-04-25-前端问一个无限滚动加载的问题](https://www.v2ex.com/t/666027) 
 - [【V2EX】2020-04-25-DB-Fiddle-有国产替代品吗？](https://www.v2ex.com/t/666023) 
 - [【V2EX】2020-04-25-装机大佬指点一下，组装的台式机中的风扇要想实现智能转速，是不是主板和机箱都要支持？](https://www.v2ex.com/t/666022) 
 - [【V2EX】2020-04-25-无法通过域名-SSH-连接](https://www.v2ex.com/t/666021) 
@@ -782,6 +789,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-25-推荐-面试常问的-Java-虚拟机运行时数据区](https://toutiao.io/k/f0m6na1) 
 - [【开发者头条】2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf) 
 - [【开发者头条】2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8) 
 - [【开发者头条】2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh) 

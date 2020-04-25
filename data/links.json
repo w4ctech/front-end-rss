@@ -2581,6 +2581,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有大佬互换友链",
+        "link": "https://www.v2ex.com/t/666036",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "杭州七堡附近房东直租 1200 起，自如品质，有需要的小伙伴看过来",
+        "link": "https://www.v2ex.com/t/666035",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "招个回国线路维护技术",
+        "link": "https://www.v2ex.com/t/666032",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "Serverless Framework 一键部署正式发布",
+        "link": "https://www.v2ex.com/t/666030",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "DFU 模式疑似被删除， iOS 13.4.1",
+        "link": "https://www.v2ex.com/t/666029",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "南京求一份渗透测试的坑",
+        "link": "https://www.v2ex.com/t/666028",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "前端问一个无限滚动加载的问题",
+        "link": "https://www.v2ex.com/t/666027",
+        "date": "2020-04-25"
+      },
+      {
         "title": "DB Fiddle 有国产替代品吗？",
         "link": "https://www.v2ex.com/t/666023",
         "date": "2020-04-25"
@@ -4754,6 +4789,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 面试常问的 Java 虚拟机运行时数据区",
+        "link": "https://toutiao.io/k/f0m6na1",
+        "date": "2020-04-25"
+      },
       {
         "title": "PHPUnit 基本使用",
         "link": "https://toutiao.io/k/unha4wf",

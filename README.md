@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 18:00:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 19:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -738,26 +738,26 @@
 </summary>
 
 
-- [2020-04-25-DB-Fiddle-有国产替代品吗？](https://www.v2ex.com/t/666023) ![](assets/new.png)  
-- [2020-04-25-装机大佬指点一下，组装的台式机中的风扇要想实现智能转速，是不是主板和机箱都要支持？](https://www.v2ex.com/t/666022) ![](assets/new.png)  
-- [2020-04-25-无法通过域名-SSH-连接](https://www.v2ex.com/t/666021) ![](assets/new.png)  
-- [2020-04-25-小度智能音箱业务部_IoT--PHP-/C++/-Python-开发工程师](https://www.v2ex.com/t/666020) ![](assets/new.png)  
-- [2020-04-25-##-各位，我有一个业务上的问题想请教下大家。](https://www.v2ex.com/t/666019) ![](assets/new.png)  
-- [2020-04-25-500m-以上宽带有哪些应用场景](https://www.v2ex.com/t/666018) ![](assets/new.png)  
-- [2020-04-25-百分浏览器更新版本-4.2.10.171-后，自动下载的-test_vlan2.exe-是什么用途？](https://www.v2ex.com/t/666016) ![](assets/new.png)  
-- [2020-04-25-大佬们，问个前端表格拖动的问题？](https://www.v2ex.com/t/666012) ![](assets/new.png)  
-- [2020-04-25-成都有没有-Java-坑位](https://www.v2ex.com/t/666011) ![](assets/new.png)  
-- [2020-04-25-社招-百度-智能小程序研发部_Java-研发工程师](https://www.v2ex.com/t/666010) ![](assets/new.png)  
-- [2020-04-25-最近接到很多异常登陆的提醒，不知道是怎么回事。](https://www.v2ex.com/t/666008) ![](assets/new.png)  
-- [2020-04-25-招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007) ![](assets/new.png)  
-- [2020-04-25-数字证书版本与-TLS-版本存疑？以及数字证书-Version-4-0x3-是什么版本](https://www.v2ex.com/t/666005) ![](assets/new.png)  
-- [2020-04-25-麻瓜编程记](https://www.v2ex.com/t/666004) ![](assets/new.png)  
-- [2020-04-25-百度爱番番业务部_大前端资深技术专家](https://www.v2ex.com/t/666003) ![](assets/new.png)  
-- [2020-04-25-有偿求指导一下如何给视频加上盲水印？](https://www.v2ex.com/t/666002) ![](assets/new.png)  
-- [2020-04-25-如何获取-APP-里面的某一页面网址](https://www.v2ex.com/t/666001) ![](assets/new.png)  
-- [2020-04-25-如何自动写入-iPhone-的运动数据？](https://www.v2ex.com/t/666000) ![](assets/new.png)  
-- [2020-04-25-V2EX-为什么不新标签页打开帖子链接？](https://www.v2ex.com/t/665998)  
-- [2020-04-25-求问面试官/HR，社招怎么才算履历好？](https://www.v2ex.com/t/665997)  
+- [2020-04-25-有没有大佬互换友链](https://www.v2ex.com/t/666036) ![](assets/new.png)  
+- [2020-04-25-杭州七堡附近房东直租-1200-起，自如品质，有需要的小伙伴看过来](https://www.v2ex.com/t/666035) ![](assets/new.png)  
+- [2020-04-25-招个回国线路维护技术](https://www.v2ex.com/t/666032) ![](assets/new.png)  
+- [2020-04-25-Serverless-Framework-一键部署正式发布](https://www.v2ex.com/t/666030) ![](assets/new.png)  
+- [2020-04-25-DFU-模式疑似被删除，-iOS-13.4.1](https://www.v2ex.com/t/666029) ![](assets/new.png)  
+- [2020-04-25-南京求一份渗透测试的坑](https://www.v2ex.com/t/666028) ![](assets/new.png)  
+- [2020-04-25-前端问一个无限滚动加载的问题](https://www.v2ex.com/t/666027) ![](assets/new.png)  
+- [2020-04-25-DB-Fiddle-有国产替代品吗？](https://www.v2ex.com/t/666023)  
+- [2020-04-25-装机大佬指点一下，组装的台式机中的风扇要想实现智能转速，是不是主板和机箱都要支持？](https://www.v2ex.com/t/666022)  
+- [2020-04-25-无法通过域名-SSH-连接](https://www.v2ex.com/t/666021)  
+- [2020-04-25-小度智能音箱业务部_IoT--PHP-/C++/-Python-开发工程师](https://www.v2ex.com/t/666020)  
+- [2020-04-25-##-各位，我有一个业务上的问题想请教下大家。](https://www.v2ex.com/t/666019)  
+- [2020-04-25-500m-以上宽带有哪些应用场景](https://www.v2ex.com/t/666018)  
+- [2020-04-25-百分浏览器更新版本-4.2.10.171-后，自动下载的-test_vlan2.exe-是什么用途？](https://www.v2ex.com/t/666016)  
+- [2020-04-25-大佬们，问个前端表格拖动的问题？](https://www.v2ex.com/t/666012)  
+- [2020-04-25-成都有没有-Java-坑位](https://www.v2ex.com/t/666011)  
+- [2020-04-25-社招-百度-智能小程序研发部_Java-研发工程师](https://www.v2ex.com/t/666010)  
+- [2020-04-25-最近接到很多异常登陆的提醒，不知道是怎么回事。](https://www.v2ex.com/t/666008)  
+- [2020-04-25-招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007)  
+- [2020-04-25-数字证书版本与-TLS-版本存疑？以及数字证书-Version-4-0x3-是什么版本](https://www.v2ex.com/t/666005)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -800,6 +800,7 @@
 </summary>
 
 
+- [2020-04-25-推荐-面试常问的-Java-虚拟机运行时数据区](https://toutiao.io/k/f0m6na1) ![](assets/new.png)  
 - [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf)  
 - [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8)  
 - [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh)  
@@ -819,7 +820,6 @@
 - [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km)  
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
-- [2020-04-24-译-谈谈-Spring-Boot-事件机制](https://toutiao.io/k/u6p1pa3)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

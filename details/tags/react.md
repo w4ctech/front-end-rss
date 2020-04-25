@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -26,6 +26,7 @@
 - [2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e) 
 - [2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a) 
 - [2020-04-20-围观“33行代码的React”](https://www.ershicimi.com/p/f64504033c52c2e15ec7a2bfbbe9d994) 
+- [2020-04-25-基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3) 
 - [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee) 
 - [2020-04-24-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-24-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 

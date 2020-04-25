@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,7 @@
 - [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [【掘金前端】2020-04-25-基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3) 
 - [【掘金前端】2020-04-24-你真的了解浅比较么？PureComponent-和-shouldeComponentUpdate-解析](https://imweb.io/topic/598973c2c72aa8db35d2e291) 
 - [【掘金前端】2020-04-24-利用Python实现前端自动化打包部署](https://juejin.im/post/5ea24c06f265da47fe1e0a97) 
 - [【掘金前端】2020-04-24-vue-使用-vue-pdf-实现pdf在线预览](https://juejin.im/post/5ea2bcd0f265da47e44a1fd5) 
@@ -664,6 +665,12 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk) 
+- [【开发者头条】2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v) 
+- [【开发者头条】2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz) 
+- [【开发者头条】2020-04-25-Spring-Boot-添加应用-JVM-监控-，实现数据可视化](https://toutiao.io/k/ptl9gep) 
+- [【开发者头条】2020-04-25-爱奇艺-iOS-移动端网络优化实践（请求成功率优化篇）](https://toutiao.io/k/l1dd1wy) 
+- [【开发者头条】2020-04-25-JVM-源码分析之-JDK-8-下的僵尸（无法回收）类加载器](https://toutiao.io/k/rb38d6r) 
 - [【开发者头条】2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n) 
 - [【开发者头条】2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y) 
 - [【开发者头条】2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh) 

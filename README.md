@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 09:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 09:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -605,6 +605,7 @@
 </summary>
 
 
+- [2020-04-25-基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3) ![](assets/new.png)  
 - [2020-04-24-你真的了解浅比较么？PureComponent-和-shouldeComponentUpdate-解析](https://imweb.io/topic/598973c2c72aa8db35d2e291)  
 - [2020-04-24-利用Python实现前端自动化打包部署](https://juejin.im/post/5ea24c06f265da47fe1e0a97)  
 - [2020-04-24-vue-使用-vue-pdf-实现pdf在线预览](https://juejin.im/post/5ea2bcd0f265da47e44a1fd5)  
@@ -732,9 +733,9 @@
 </summary>
 
 
-- [2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883) ![](assets/new.png)  
-- [2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881) ![](assets/new.png)  
-- [2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880) ![](assets/new.png)  
+- [2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883)  
+- [2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881)  
+- [2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880)  
 - [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878)  
 - [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876)  
 - [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875)  
@@ -794,11 +795,17 @@
 </summary>
 
 
-- [2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n) ![](assets/new.png)  
-- [2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y) ![](assets/new.png)  
-- [2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh) ![](assets/new.png)  
-- [2020-04-25-「架构师技术图谱」上-GitHub-热榜了，助你早日成为架构师！](https://toutiao.io/k/vu7z6rh) ![](assets/new.png)  
-- [2020-04-25-天凤十段，微软超级麻将-AI-Suphx-的技术思路与细节](https://toutiao.io/k/uobq9j6) ![](assets/new.png)  
+- [2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk) ![](assets/new.png)  
+- [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v) ![](assets/new.png)  
+- [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz) ![](assets/new.png)  
+- [2020-04-25-Spring-Boot-添加应用-JVM-监控-，实现数据可视化](https://toutiao.io/k/ptl9gep) ![](assets/new.png)  
+- [2020-04-25-爱奇艺-iOS-移动端网络优化实践（请求成功率优化篇）](https://toutiao.io/k/l1dd1wy) ![](assets/new.png)  
+- [2020-04-25-JVM-源码分析之-JDK-8-下的僵尸（无法回收）类加载器](https://toutiao.io/k/rb38d6r) ![](assets/new.png)  
+- [2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n)  
+- [2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y)  
+- [2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh)  
+- [2020-04-25-「架构师技术图谱」上-GitHub-热榜了，助你早日成为架构师！](https://toutiao.io/k/vu7z6rh)  
+- [2020-04-25-天凤十段，微软超级麻将-AI-Suphx-的技术思路与细节](https://toutiao.io/k/uobq9j6)  
 - [2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd)  
 - [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km)  
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
@@ -808,12 +815,6 @@
 - [2020-04-24-机器学习项目实操指南](https://toutiao.io/k/d2924a7)  
 - [2020-04-24-迁移时期的缓存](https://toutiao.io/k/zdffmtx)  
 - [2020-04-24-VXLAN-基础教程：结合-VRF-在-Linux-中实践-VXLAN-网络](https://toutiao.io/k/f07sbhy)  
-- [2020-04-24-企业安全公共能力开源化实现参考](https://toutiao.io/k/rcqrcb3)  
-- [2020-04-24-GAN：每个人都能用英伟达-GAN-造脸了](https://toutiao.io/k/uwgglet)  
-- [2020-04-24-微前端框架是怎么导入加载子应用的](https://toutiao.io/k/nbycwu8)  
-- [2020-04-24-走进-C#-并发队列-ConcurrentQueue-的内部世界（-.NET-Core-篇）](https://toutiao.io/k/myegyyb)  
-- [2020-04-24-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29)  
-- [2020-04-24-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

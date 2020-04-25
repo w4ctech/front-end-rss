@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-25 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -158,6 +158,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883) 
+- [2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881) 
+- [2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880) 
 - [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878) 
 - [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876) 
 - [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875) 
@@ -402,6 +405,10 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n) 
+- [2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y) 
+- [2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh) 
+- [2020-04-25-天凤十段，微软超级麻将-AI-Suphx-的技术思路与细节](https://toutiao.io/k/uobq9j6) 
 - [2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd) 
 - [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km) 
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) 

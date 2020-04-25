@@ -2551,6 +2551,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "广兰路附近租房",
+        "link": "https://www.v2ex.com/t/665883",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "SE， XR， 11 纠结选哪个。",
+        "link": "https://www.v2ex.com/t/665881",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "多表查询的时候你会选择 uuid 还是昵称",
+        "link": "https://www.v2ex.com/t/665880",
+        "date": "2020-04-25"
+      },
+      {
         "title": "如果一定要买一两本书， Spring Boot 有哪些书推荐？",
         "link": "https://www.v2ex.com/t/665878",
         "date": "2020-04-25"
@@ -4149,6 +4164,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Go 中的高级测试模式：集成测试如何做？",
+        "link": "https://toutiao.io/k/8u7e71n",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "mybatisplus 版本引发的连接泄漏血案",
+        "link": "https://toutiao.io/k/57xsd3y",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "用机器学习改善网络通话质量",
+        "link": "https://toutiao.io/k/u7xxnwh",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "「架构师技术图谱」上 GitHub 热榜了，助你早日成为架构师！",
+        "link": "https://toutiao.io/k/vu7z6rh",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "天凤十段，微软超级麻将 AI Suphx 的技术思路与细节",
+        "link": "https://toutiao.io/k/uobq9j6",
+        "date": "2020-04-25"
+      },
       {
         "title": "都是敲代码，为何有人月薪 8000，有人年薪 50 万？ | 码农周刊第 304 期",
         "link": "https://toutiao.io/k/vrzkrdd",

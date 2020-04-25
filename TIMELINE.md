@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-25 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-25 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -344,6 +344,9 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883) 
+- [【V2EX】2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881) 
+- [【V2EX】2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880) 
 - [【V2EX】2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878) 
 - [【V2EX】2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876) 
 - [【V2EX】2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875) 
@@ -661,6 +664,11 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n) 
+- [【开发者头条】2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y) 
+- [【开发者头条】2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh) 
+- [【开发者头条】2020-04-25-「架构师技术图谱」上-GitHub-热榜了，助你早日成为架构师！](https://toutiao.io/k/vu7z6rh) 
+- [【开发者头条】2020-04-25-天凤十段，微软超级麻将-AI-Suphx-的技术思路与细节](https://toutiao.io/k/uobq9j6) 
 - [【开发者头条】2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd) 
 - [【开发者头条】2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km) 
 - [【开发者头条】2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju) 

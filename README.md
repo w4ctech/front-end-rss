@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-25 08:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-25 09:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -732,6 +732,9 @@
 </summary>
 
 
+- [2020-04-25-广兰路附近租房](https://www.v2ex.com/t/665883) ![](assets/new.png)  
+- [2020-04-25-SE，-XR，-11-纠结选哪个。](https://www.v2ex.com/t/665881) ![](assets/new.png)  
+- [2020-04-25-多表查询的时候你会选择-uuid-还是昵称](https://www.v2ex.com/t/665880) ![](assets/new.png)  
 - [2020-04-25-如果一定要买一两本书，-Spring-Boot-有哪些书推荐？](https://www.v2ex.com/t/665878)  
 - [2020-04-25-灵魂和依赖](https://www.v2ex.com/t/665876)  
 - [2020-04-25-装修使人头大，请问有哪些坑我好躲一下](https://www.v2ex.com/t/665875)  
@@ -749,9 +752,6 @@
 - [2020-04-25-百度搜索的新-PC-首页是-Material-Design-风格么？](https://www.v2ex.com/t/665861)  
 - [2020-04-25-chrome-已经可以在设置栏里面使用安全-DNS](https://www.v2ex.com/t/665860)  
 - [2020-04-24-求推荐一款-macbook-pro-搭配的显示器](https://www.v2ex.com/t/665857)  
-- [2020-04-24-急招岗位大集合-字节跳动-北上广深杭-产品研发运营](https://www.v2ex.com/t/665855)  
-- [2020-04-24-杭州的小伙伴办理信用卡，返-50-现金红包](https://www.v2ex.com/t/665854)  
-- [2020-04-24-16-寸-macbook-爆音问题](https://www.v2ex.com/t/665853)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -794,7 +794,12 @@
 </summary>
 
 
-- [2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd) ![](assets/new.png)  
+- [2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n) ![](assets/new.png)  
+- [2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y) ![](assets/new.png)  
+- [2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh) ![](assets/new.png)  
+- [2020-04-25-「架构师技术图谱」上-GitHub-热榜了，助你早日成为架构师！](https://toutiao.io/k/vu7z6rh) ![](assets/new.png)  
+- [2020-04-25-天凤十段，微软超级麻将-AI-Suphx-的技术思路与细节](https://toutiao.io/k/uobq9j6) ![](assets/new.png)  
+- [2020-04-25-都是敲代码，为何有人月薪-8000，有人年薪-50-万？-|-码农周刊第-304-期](https://toutiao.io/k/vrzkrdd)  
 - [2020-04-25-推荐-今年行情这么差，到底如何进大厂？](https://toutiao.io/k/t8hw5km)  
 - [2020-04-24-推荐-你与-BAT-技术大牛差什么？-|-码农周刊第-302-期](https://toutiao.io/k/hbrbhju)  
 - [2020-04-24-《推荐系统开发实战》三大案例复现说明](https://toutiao.io/k/07b84j3)  
@@ -809,11 +814,6 @@
 - [2020-04-24-走进-C#-并发队列-ConcurrentQueue-的内部世界（-.NET-Core-篇）](https://toutiao.io/k/myegyyb)  
 - [2020-04-24-推荐-从-MongoDB-迁移到-ES-后，我们减少了-80%-的服务器](https://toutiao.io/k/zryjj29)  
 - [2020-04-24-推荐-阿里、网易、百度、腾讯……出品的-13-个网站，让你点点鼠标，就能做出炫酷图表](https://toutiao.io/k/oasf3i4)  
-- [2020-04-24-推荐-为什么-0.1-+-0.2-=-0.300000004](https://toutiao.io/k/h7vc4kl)  
-- [2020-04-24-推荐-MySQL-死锁与-Spring-事务](https://toutiao.io/k/3mta5kv)  
-- [2020-04-24-推荐-2020-年程序猿必读-10-本好书](https://toutiao.io/k/wd6w9bt)  
-- [2020-04-24-推荐-IO-模型知多少](https://toutiao.io/k/k2l0eqn)  
-- [2020-04-24-推荐-购物车之架构设计](https://toutiao.io/k/vklickp)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

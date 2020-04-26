@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 02:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 03:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -765,10 +765,12 @@
 </summary>
 
 
-- [2020-04-27-求主流芯片组-SATA-接口大于-8-个的主板推荐](https://www.v2ex.com/t/666443) ![](assets/new.png)  
-- [2020-04-27-我用过的最好的家宽---Verizon-FIOS，没有之一](https://www.v2ex.com/t/666442) ![](assets/new.png)  
-- [2020-04-27-现在比较好用的-ED2K-分享软件有哪些？](https://www.v2ex.com/t/666441) ![](assets/new.png)  
-- [2020-04-27-20200427-午夜俱乐部](https://www.v2ex.com/t/666440) ![](assets/new.png)  
+- [2020-04-27-从-3-月离职到现在，只收到外包公司的-offer-应该去吗](https://www.v2ex.com/t/666447) ![](assets/new.png)  
+- [2020-04-27-请教大佬们一条数据库语句](https://www.v2ex.com/t/666446) ![](assets/new.png)  
+- [2020-04-27-求主流芯片组-SATA-接口大于-8-个的主板推荐](https://www.v2ex.com/t/666443)  
+- [2020-04-27-我用过的最好的家宽---Verizon-FIOS，没有之一](https://www.v2ex.com/t/666442)  
+- [2020-04-27-现在比较好用的-ED2K-分享软件有哪些？](https://www.v2ex.com/t/666441)  
+- [2020-04-27-20200427-午夜俱乐部](https://www.v2ex.com/t/666440)  
 - [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438)  
 - [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437)  
 - [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436)  
@@ -783,8 +785,6 @@
 - [2020-04-26-五一假期从杭州到南京](https://www.v2ex.com/t/666426)  
 - [2020-04-26-字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)  
 - [2020-04-26-我又被因大流量断了宽带，求正面刚有效策略。](https://www.v2ex.com/t/666424)  
-- [2020-04-26-求职邮件正文大家都写东西吗](https://www.v2ex.com/t/666423)  
-- [2020-04-26-百度统计登陆的验证错位，几星期没修复](https://www.v2ex.com/t/666418)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 06:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -81,6 +81,7 @@
 - [【Vue中文社区】12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755)
 - [【Vue中文社区】从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296)
 - [【Vue中文社区】重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6)
+- [【前端早读课】【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)
 - [【前端早读课】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)
 - [【前端早读课】【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)
 - [【前端早读课】【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24)
@@ -94,7 +95,6 @@
 - [【前端宇宙】抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48)
 - [【京东设计中心】京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979)
 - [【凹凸实验室】Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/)
-- [【凹凸实验室】一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -609,6 +609,7 @@
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)
 - [【V2EX】字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)
 - [【V2EX】内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)
 - [【V2EX】京东深圳内推-招聘高级前端工程师](https://www.v2ex.com/t/666311)
@@ -619,7 +620,6 @@
 - [【V2EX】技术面试必备基础知识](https://www.v2ex.com/t/666094)
 - [【V2EX】说说面试遇到的奇葩事！](https://www.v2ex.com/t/666069)
 - [【V2EX】去大厂面试一定要问基础知识吗？](https://www.v2ex.com/t/666056)
-- [【V2EX】求问面试官/HR，社招怎么才算履历好？](https://www.v2ex.com/t/665997)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -669,6 +669,7 @@
 
 - [【Vue中文社区】初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)
 - [【Vue中文社区】程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)
+- [【前端早读课】【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)
 - [【前端早读课】【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)
 - [【前端早读课】【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)
 - [【前端早读课】【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2)
@@ -686,7 +687,6 @@
 - [【前端开发】三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd)
 - [【前端开发】这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a)
 - [【前端大学】今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253)
-- [【前端大学】疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

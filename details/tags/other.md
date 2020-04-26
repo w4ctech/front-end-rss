@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 06:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7,6 +7,7 @@
 
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
+- [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143) 
 - [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c) 
 - [2020-04-23-【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2) 
@@ -189,6 +190,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-27-5-年前的微信聊天记录备份文件如下，有大佬知道怎么恢复么？跪求](https://www.v2ex.com/t/666453) 
 - [2020-04-27-中老年-IT-妇女-可以做点啥...](https://www.v2ex.com/t/666452) 
 - [2020-04-27-2020-年，有什么值得入手的-Mac-的-4k-显示器吗？](https://www.v2ex.com/t/666450) 
 - [2020-04-27-笔记本突然断电是怎么回事？](https://www.v2ex.com/t/666449) 

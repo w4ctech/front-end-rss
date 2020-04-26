@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 00:30:20，:rocket: 更新条数: +44， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 01:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -765,26 +765,26 @@
 </summary>
 
 
-- [2020-04-27-某宝：看什么看，穷鬼，买不起就鳖浪费我服务器流量-:doge:](https://www.v2ex.com/t/666434) ![](assets/new.png)  
-- [2020-04-27-最近几个周末写了一个码农们都可以拿来耍耍的小工具-CommentInsight](https://www.v2ex.com/t/666433) ![](assets/new.png)  
-- [2020-04-27-一会儿学学这,一会儿学学那.](https://www.v2ex.com/t/666432) ![](assets/new.png)  
-- [2020-04-26-Golang-编译出现:-该版本的-%1-与你运行的-Windows-版本不兼容。请查看计算机的系统信息](https://www.v2ex.com/t/666431) ![](assets/new.png)  
-- [2020-04-26-极度厌恶工作和上司怎么办？](https://www.v2ex.com/t/666430) ![](assets/new.png)  
-- [2020-04-26-社招内推-阿里云-数据库团队-杭州](https://www.v2ex.com/t/666429) ![](assets/new.png)  
-- [2020-04-26-为什么-2020-年这么魔幻?](https://www.v2ex.com/t/666428) ![](assets/new.png)  
-- [2020-04-26-五一假期从杭州到南京](https://www.v2ex.com/t/666426) ![](assets/new.png)  
-- [2020-04-26-字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425) ![](assets/new.png)  
-- [2020-04-26-我又被因大流量断了宽带，求正面刚有效策略。](https://www.v2ex.com/t/666424) ![](assets/new.png)  
-- [2020-04-26-求职邮件正文大家都写东西吗](https://www.v2ex.com/t/666423) ![](assets/new.png)  
-- [2020-04-26-百度统计登陆的验证错位，几星期没修复](https://www.v2ex.com/t/666418) ![](assets/new.png)  
-- [2020-04-26-吃宵夜吃撑了还会按时睡觉吗？](https://www.v2ex.com/t/666417) ![](assets/new.png)  
-- [2020-04-26-内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416) ![](assets/new.png)  
-- [2020-04-26-几乎是从来不联系的同学突然联系你，问在吗，你们都是怎么处理的？](https://www.v2ex.com/t/666415) ![](assets/new.png)  
-- [2020-04-26-请教一个-m3u8-下载的问题](https://www.v2ex.com/t/666414) ![](assets/new.png)  
-- [2020-04-26-农村快递业发展前景怎么样？考虑在老家乡镇上做一个农村代理快递点。](https://www.v2ex.com/t/666413) ![](assets/new.png)  
-- [2020-04-26-想问一下，这些图标是什么字体。](https://www.v2ex.com/t/666412) ![](assets/new.png)  
-- [2020-04-26-PC-使用一段时间之后就变卡，如何找出原因？](https://www.v2ex.com/t/666411) ![](assets/new.png)  
-- [2020-04-26-Python-打包成应用程序](https://www.v2ex.com/t/666410) ![](assets/new.png)  
+- [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438) ![](assets/new.png)  
+- [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437) ![](assets/new.png)  
+- [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436) ![](assets/new.png)  
+- [2020-04-27-警惕购买小米巨能写中性笔](https://www.v2ex.com/t/666435) ![](assets/new.png)  
+- [2020-04-27-某宝：看什么看，穷鬼，买不起就鳖浪费我服务器流量-:doge:](https://www.v2ex.com/t/666434)  
+- [2020-04-27-最近几个周末写了一个码农们都可以拿来耍耍的小工具-CommentInsight](https://www.v2ex.com/t/666433)  
+- [2020-04-27-一会儿学学这,一会儿学学那.](https://www.v2ex.com/t/666432)  
+- [2020-04-26-Golang-编译出现:-该版本的-%1-与你运行的-Windows-版本不兼容。请查看计算机的系统信息](https://www.v2ex.com/t/666431)  
+- [2020-04-26-极度厌恶工作和上司怎么办？](https://www.v2ex.com/t/666430)  
+- [2020-04-26-社招内推-阿里云-数据库团队-杭州](https://www.v2ex.com/t/666429)  
+- [2020-04-26-为什么-2020-年这么魔幻?](https://www.v2ex.com/t/666428)  
+- [2020-04-26-五一假期从杭州到南京](https://www.v2ex.com/t/666426)  
+- [2020-04-26-字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)  
+- [2020-04-26-我又被因大流量断了宽带，求正面刚有效策略。](https://www.v2ex.com/t/666424)  
+- [2020-04-26-求职邮件正文大家都写东西吗](https://www.v2ex.com/t/666423)  
+- [2020-04-26-百度统计登陆的验证错位，几星期没修复](https://www.v2ex.com/t/666418)  
+- [2020-04-26-吃宵夜吃撑了还会按时睡觉吗？](https://www.v2ex.com/t/666417)  
+- [2020-04-26-内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)  
+- [2020-04-26-几乎是从来不联系的同学突然联系你，问在吗，你们都是怎么处理的？](https://www.v2ex.com/t/666415)  
+- [2020-04-26-请教一个-m3u8-下载的问题](https://www.v2ex.com/t/666414)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -827,7 +827,7 @@
 </summary>
 
 
-- [2020-04-27-推荐-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt) ![](assets/new.png)  
+- [2020-04-27-推荐-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt)  
 - [2020-04-26-Pornhub-第一位中文译者：如何给知名网站做本地化？](https://toutiao.io/k/22zw6pr)  
 - [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys)  
 - [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk)  

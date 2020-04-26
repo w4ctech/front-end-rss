@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -687,6 +687,7 @@
 - [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505) 
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
+- [2020-04-26-VS-Code-必知必会的-20-个快捷键！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13403&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbq49kAPRMX9Wf9FLrDt1IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-IDEA-推出新的字体，这次真的爱了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13391&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyNMJMpp-sBaWpIY7J4TTQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-以图搜图系统概述及工程实践（下）-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13401&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F134259579%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-一个黑客的自白书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-hackers-confession%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

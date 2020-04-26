@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 19:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 20:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -498,8 +498,8 @@
 </summary>
 
 
-- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) ![](assets/new.png)  
-- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) ![](assets/new.png)  
+- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253)  
+- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682)  
 - [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f)  
 - [2020-04-24-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc)  
 - [2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e)  
@@ -791,6 +791,7 @@
 </summary>
 
 
+- [2020-04-26-VS-Code-必知必会的-20-个快捷键！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13403&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbq49kAPRMX9Wf9FLrDt1IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-IDEA-推出新的字体，这次真的爱了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13391&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyNMJMpp-sBaWpIY7J4TTQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-以图搜图系统概述及工程实践（下）-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13401&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F134259579%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -810,7 +811,6 @@
 - [2020-04-24-程序员，等你当了爸爸后，便会有如下经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13386&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRcOPW4vceFpRnK1c0r9vxA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

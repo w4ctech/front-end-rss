@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 20:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1039,6 +1039,7 @@
 - [【V2EX】2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [【V2EX】2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
 - [【V2EX】2020-04-23-重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501) 
+- [【技术头条】2020-04-26-VS-Code-必知必会的-20-个快捷键！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13403&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbq49kAPRMX9Wf9FLrDt1IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-IDEA-推出新的字体，这次真的爱了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13391&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyNMJMpp-sBaWpIY7J4TTQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-以图搜图系统概述及工程实践（下）-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13401&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F134259579%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -2207,6 +2207,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "【Babel 小玩具】如何用 Babel 为代码自动引入依赖",
+        "link": "https://juejin.im/post/5ea54363f265da47db2e601d",
+        "date": "2020-04-26"
+      },
+      {
         "title": "「源码级回答」大厂高频Vue面试题（上）",
         "link": "https://juejin.im/post/5ea4ffcdf265da48062c9b61",
         "date": "2020-04-26"

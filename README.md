@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 13:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 16:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -314,8 +314,8 @@
 </summary>
 
 
-- [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb) ![](assets/new.png)  
-- [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245) ![](assets/new.png)  
+- [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb)  
+- [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245)  
 - [2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4)  
 - [2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a)  
 - [2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b)  
@@ -624,6 +624,7 @@
 </summary>
 
 
+- [2020-04-26-【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d) ![](assets/new.png)  
 - [2020-04-26-「源码级回答」大厂高频Vue面试题（上）](https://juejin.im/post/5ea4ffcdf265da48062c9b61)  
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)  
 - [2020-04-26-可视化D3专题系列（二）折线图](https://juejin.im/post/5ea4120ee51d45470e2bfb8f)  
@@ -643,7 +644,6 @@
 - [2020-04-24-霖呆呆向你发起了多人学习webpack-构建方式篇2](https://juejin.im/post/5ea2a64a51882573a509c426)  
 - [2020-04-24-vue开发父子组件通信的一个小坑](https://juejin.im/post/5ea25c3ef265da47d77ce60e)  
 - [2020-04-24-Webpack那些你不知道的事](https://juejin.im/post/5ea29826e51d45470a4ad63c)  
-- [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -757,13 +757,13 @@
 </summary>
 
 
-- [2020-04-26-最近-OneDirve-客户端国内访问是不是不稳定？](https://www.v2ex.com/t/666246) ![](assets/new.png)  
-- [2020-04-26-某东-8.3-以上的版本的-sign-如何-hook-定位？](https://www.v2ex.com/t/666245) ![](assets/new.png)  
-- [2020-04-26-老哥们，想问一下在大连月薪-6k-是不是偏低，想跳](https://www.v2ex.com/t/666244) ![](assets/new.png)  
-- [2020-04-26-一个导出包内符号的合适的方法，用于-golang-工程](https://www.v2ex.com/t/666243) ![](assets/new.png)  
-- [2020-04-26-减脂期应该追踪身体的哪些维度呢？](https://www.v2ex.com/t/666242) ![](assets/new.png)  
-- [2020-04-26-求推荐给父母用的预算-5000-内的工作电脑](https://www.v2ex.com/t/666241) ![](assets/new.png)  
-- [2020-04-26-问个事情，习惯定期清理下微信好友，会不会对那些被我删除的人造成困恼？](https://www.v2ex.com/t/666240) ![](assets/new.png)  
+- [2020-04-26-最近-OneDirve-客户端国内访问是不是不稳定？](https://www.v2ex.com/t/666246)  
+- [2020-04-26-某东-8.3-以上的版本的-sign-如何-hook-定位？](https://www.v2ex.com/t/666245)  
+- [2020-04-26-老哥们，想问一下在大连月薪-6k-是不是偏低，想跳](https://www.v2ex.com/t/666244)  
+- [2020-04-26-一个导出包内符号的合适的方法，用于-golang-工程](https://www.v2ex.com/t/666243)  
+- [2020-04-26-减脂期应该追踪身体的哪些维度呢？](https://www.v2ex.com/t/666242)  
+- [2020-04-26-求推荐给父母用的预算-5000-内的工作电脑](https://www.v2ex.com/t/666241)  
+- [2020-04-26-问个事情，习惯定期清理下微信好友，会不会对那些被我删除的人造成困恼？](https://www.v2ex.com/t/666240)  
 - [2020-04-26-在“程序员”下面创建主题被提示技术无关的敏感话题](https://www.v2ex.com/t/666238)  
 - [2020-04-26-张文宏科普成人应该打哪些疫苗](https://www.v2ex.com/t/666237)  
 - [2020-04-26-iPhone-se-2，交行买单吧立减-200，-12-期免息分期](https://www.v2ex.com/t/666236)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 13:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -312,6 +312,7 @@
 - [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [【掘金前端】2020-04-26-【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d) 
 - [【掘金前端】2020-04-26-「源码级回答」大厂高频Vue面试题（上）](https://juejin.im/post/5ea4ffcdf265da48062c9b61) 
 - [【掘金前端】2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [【掘金前端】2020-04-26-可视化D3专题系列（二）折线图](https://juejin.im/post/5ea4120ee51d45470e2bfb8f) 

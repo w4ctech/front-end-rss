@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 13:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -151,7 +151,7 @@
 - [【前端日刊】Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca)
 - [【互联网架构师】呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50)
 - [【JavaScript】Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e)
-- [【掘金前端】霖呆呆向你发起了多人学习webpack-构建方式篇2](https://juejin.im/post/5ea2a64a51882573a509c426)
+- [【掘金前端】【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

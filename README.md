@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 20:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 20:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
@@ -760,6 +760,15 @@
 </summary>
 
 
+- [2020-04-26-是该苟着还是辞职哎](https://www.v2ex.com/t/666384) ![](assets/new.png)  
+- [2020-04-26-作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382) ![](assets/new.png)  
+- [2020-04-26-有没有开发火电厂监控系统的小伙伴或者公司啊？这边有个项目](https://www.v2ex.com/t/666381) ![](assets/new.png)  
+- [2020-04-26-在-Linux-上如何监控-PHP-curl-对外请求的-HTTP-或者-HTTPS-域](https://www.v2ex.com/t/666380) ![](assets/new.png)  
+- [2020-04-26-刚进-V-社的体验！](https://www.v2ex.com/t/666379) ![](assets/new.png)  
+- [2020-04-26-dandang-现在内部员工，希望哪个人回来领导？](https://www.v2ex.com/t/666378) ![](assets/new.png)  
+- [2020-04-26-在-Apple-Music-上面，我要怎么知道我想听的歌是什么英文译名](https://www.v2ex.com/t/666374) ![](assets/new.png)  
+- [2020-04-26-西文周刊-·-第-7-期-如何避免无效头脑风暴](https://www.v2ex.com/t/666373) ![](assets/new.png)  
+- [2020-04-26-想在自己宿舍装个-V2ary-服务器。回家用，可行吗？](https://www.v2ex.com/t/666372) ![](assets/new.png)  
 - [2020-04-26-关于加班的问题，忍不住想吐槽下](https://www.v2ex.com/t/666371)  
 - [2020-04-26-一名成绩不好的高三学生求助贴](https://www.v2ex.com/t/666370)  
 - [2020-04-26-分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)  
@@ -771,15 +780,6 @@
 - [2020-04-26-JWT+redis-能替代-session-了吗？](https://www.v2ex.com/t/666361)  
 - [2020-04-26-上海毕业一年小白求各位大佬审阅简历](https://www.v2ex.com/t/666360)  
 - [2020-04-26-大批量-csv-导入-mysql-碰到-bit-字段就出错](https://www.v2ex.com/t/666359)  
-- [2020-04-26-2500-3500-能在上画浦东租一个一室户吗?](https://www.v2ex.com/t/666358)  
-- [2020-04-26-MacBook-有没有类似-mRemoteNG-工具？](https://www.v2ex.com/t/666357)  
-- [2020-04-26-前端菜鸟如何逆袭大厂？](https://www.v2ex.com/t/666355)  
-- [2020-04-26-SWAP-常见问题分析和性能调优配置实践小结](https://www.v2ex.com/t/666354)  
-- [2020-04-26-PHP-的-AES-加密问题](https://www.v2ex.com/t/666353)  
-- [2020-04-26-edge-浏览器书签同步一坨乱啊](https://www.v2ex.com/t/666352)  
-- [2020-04-26-实习-offer-选择求建议，字节和美团](https://www.v2ex.com/t/666350)  
-- [2020-04-26-lark-连续宕机-20-分钟还没有修复?-没有人关注？](https://www.v2ex.com/t/666349)  
-- [2020-04-26-求解一道编程题，能提供参考代码更好啦](https://www.v2ex.com/t/666348)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -791,7 +791,17 @@
 </summary>
 
 
-- [2020-04-26-VS-Code-必知必会的-20-个快捷键！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13403&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbq49kAPRMX9Wf9FLrDt1IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-假如有人把支付宝存储服务器炸了，我们的钱还在吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13411&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1QDg0lkdmXN8JY4j5kcGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13410&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZv1viUDEoE9uy_QXN6PDKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-20-张程序员不得不看的内涵动图...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13409&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhqaJAkjPURC7jm0EGnkwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13407&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy5kazWqWK69USNR_9WLCXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-记录项目升级-AndroidX+API29-的各种坑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13406&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjKrWkbjp5JpWWCyCvNwuAw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-看完知乎轮子哥的编程之路，我只想说，收下我的膝盖...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13405&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMtNZU9d5rYglxs0d5DnQ4A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-ApkCrack-一键生成支持-Android-7.0-抓包的-apk-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13404&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7kBRWiONrdS9pur31hakXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-8-个-Python-高效数据分析的技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13412&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBRF0C9xCFDzihIQ4O8Jm9A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-26-VS-Code-必知必会的-20-个快捷键！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13403&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbq49kAPRMX9Wf9FLrDt1IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-IDEA-推出新的字体，这次真的爱了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13391&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyNMJMpp-sBaWpIY7J4TTQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-以图搜图系统概述及工程实践（下）-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13401&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F134259579%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -801,16 +811,6 @@
 - [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-使用-YApi-管理-API-文档，测试，-mock-juejin.im](https://blogread.cn/news/go.php?idItem=13394&url=https%3A%2F%2Fjuejin.im%2Fpost%2F5acc879f6fb9a028c42e8822%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-Android-10-获取设备标识方案探究-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13393&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAkR-iGqOBv00z6x7-U6SqQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-Hacking，约不约!-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13400&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhacking-linux-kernel-with-inline-hook-technique%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-Ubuntu-20.04-强悍来袭，看看都有哪些新特性？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13390&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fui-_CGactmfzc55IuCVZWA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-今天，我们细说-Android-下的多线程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13389&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6tcVl4MaqBp0xmQqnVTTvg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-8-个接私活的网站-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13388&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvRkxVNxOE4H4-mPc-1W_ng%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-在对比了-GitHub-5000-个-Python-项目之后，我们精选出了这-36-个！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13387&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFa3d9XyTzgCnCR7pjgWyew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-程序员，等你当了爸爸后，便会有如下经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13386&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRcOPW4vceFpRnK1c0r9vxA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

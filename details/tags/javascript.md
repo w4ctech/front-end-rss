@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-26-2020-04-求个千元-wifi-6-路由器](https://www.v2ex.com/t/666364) 
 - [2020-04-26-求推荐一款支持-AirPod-Pro-的蓝牙-5.0-适配器](https://www.v2ex.com/t/666201) 
 - [2020-04-26-后端程序员兼职-JS-前端，有什么提高-js-前端开发速度的方式？](https://www.v2ex.com/t/666198) 
 - [2020-04-26-发布-1.0.0-版本：用于-Gin-和-net/http-的-gzip-中间件，再也不担心返回的-JSON-太大了](https://www.v2ex.com/t/666191) 

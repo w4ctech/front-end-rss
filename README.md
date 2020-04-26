@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 21:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 22:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -46,11 +46,11 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -166,6 +166,9 @@
 </summary>
 
 
+- [2020-04-26-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27) ![](assets/new.png)  
+- [2020-04-26-面向对象：眼里是你，心里是你，余生请指教](https://www.ershicimi.com/p/43b944a886a82b7e7f374e4027b95813) ![](assets/new.png)  
+- [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) ![](assets/new.png)  
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3)  
 - [2020-04-24-聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e)  
 - [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)  
@@ -627,11 +630,11 @@
 </summary>
 
 
-- [2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b) ![](assets/new.png)  
-- [2020-04-26-学了-gulp-想练练手？正好压缩下你的博客](https://juejin.im/post/5ea52a50e51d4547126406ca) ![](assets/new.png)  
-- [2020-04-26-JavaScript模块化历程](https://juejin.im/post/5ea56d2451882573883be5ae) ![](assets/new.png)  
-- [2020-04-26-ES6系列-什么是ES6?新手应该怎么理解](https://juejin.im/post/5ea553ff51882573c85af865) ![](assets/new.png)  
-- [2020-04-26-灵魂拷问，你真的懂-JavaScript-中的变量提升吗？](https://juejin.im/post/5ea3a42e51882538083ff71c) ![](assets/new.png)  
+- [2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b)  
+- [2020-04-26-学了-gulp-想练练手？正好压缩下你的博客](https://juejin.im/post/5ea52a50e51d4547126406ca)  
+- [2020-04-26-JavaScript模块化历程](https://juejin.im/post/5ea56d2451882573883be5ae)  
+- [2020-04-26-ES6系列-什么是ES6?新手应该怎么理解](https://juejin.im/post/5ea553ff51882573c85af865)  
+- [2020-04-26-灵魂拷问，你真的懂-JavaScript-中的变量提升吗？](https://juejin.im/post/5ea3a42e51882538083ff71c)  
 - [2020-04-26-【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d)  
 - [2020-04-26-「源码级回答」大厂高频Vue面试题（上）](https://juejin.im/post/5ea4ffcdf265da48062c9b61)  
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)  
@@ -731,6 +734,10 @@
 </summary>
 
 
+- [2020-04-26-本周知乎热榜-|-罗志祥瓜又增产，李国庆怒夺公章，华晨宇斩获歌王](https://www.ershicimi.com/p/d257253692576d6bce2fa674a5cbf3c9) ![](assets/new.png)  
+- [2020-04-26-有哪些能让手机更好用的隐藏小技巧？](https://www.ershicimi.com/p/1ed47f1372d5ee9527cf96345767a621) ![](assets/new.png)  
+- [2020-04-26-哪些被「吹上神坛」的电影你认为很一般？](https://www.ershicimi.com/p/8f45c9c4f11dc3cfcfc1c4046fd47267) ![](assets/new.png)  
+- [2020-04-26-知乎故事-|-你讨厌亲戚住自己家吗？](https://www.ershicimi.com/p/9ed2990353c2b0de35a314d79e66e2ff) ![](assets/new.png)  
 - [2020-04-25-知乎神吐槽-|-如果争宠的是一群男人会是怎样的画面？](https://www.ershicimi.com/p/da1c6b6d95fab743fbb40cdfd31a7ad8)  
 - [2020-04-25-昔日「御三家」如今六七八，Uzi-不在的-RNG-还是-RNG-吗？](https://www.ershicimi.com/p/4c0f8407873a19f81f7125ebf40a84f7)  
 - [2020-04-25-你的朋友圈，正在悄悄出卖你](https://www.ershicimi.com/p/88a259078a951f9f780a3d467ff32168)  
@@ -747,8 +754,6 @@
 - [2020-04-22-微信里舍不的删的-7-个公众号](https://www.ershicimi.com/p/9dee980877dfa34eb802558e966c4e4c)  
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c)  
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)  
-- [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4)  
-- [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

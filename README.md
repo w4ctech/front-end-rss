@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 09:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 10:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -289,8 +289,8 @@
 </summary>
 
 
-- [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19) ![](assets/new.png)  
-- [2020-04-25-C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a) ![](assets/new.png)  
+- [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19)  
+- [2020-04-25-C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a)  
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57)  
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50)  
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3)  
@@ -542,6 +542,10 @@
 </summary>
 
 
+- [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) ![](assets/new.png)  
+- [2020-04-26-BAT互联网大厂的后端主流技术栈是啥？](https://www.ershicimi.com/p/4c56dd9a09b7b31dc8dc9329231e7bca) ![](assets/new.png)  
+- [2020-04-26-老板说，我请你来，不是叫你"无脑"拷贝的，竟然在线上搞出这么大的一个BUG...](https://www.ershicimi.com/p/8509d00eca3f7f3f1f80d514317a61b4) ![](assets/new.png)  
+- [2020-04-26-原来这才是-Kafka！（多图+深入）](https://www.ershicimi.com/p/292e7399076afb1a35e71e0971e294a1) ![](assets/new.png)  
 - [2020-04-25-绝了！Dataway让SpringBoot不在需要Controller、Service、DAO、Ma](https://www.ershicimi.com/p/7ad5cf1fb668f3f98c0528303cd01c27)  
 - [2020-04-25-突破百度网盘限速工具Pandownload作者被抓，知乎网友怎么看？](https://www.ershicimi.com/p/8dd1da68b079401e4a32e99da36d37f6)  
 - [2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13)  
@@ -558,8 +562,6 @@
 - [2020-04-22-推荐-4-款-MySQL-调优工具，大神都在用！](https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb)  
 - [2020-04-22-枚举很好用啊，为啥阿里不建议返回值用枚举？看看作者孤尽的回答](https://www.ershicimi.com/p/d4f3b39f3f8ca152a1eb1d02dcf6fc07)  
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed)  
-- [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad)  
-- [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

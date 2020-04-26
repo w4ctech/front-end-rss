@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -261,6 +261,10 @@
 - [【奇舞周刊】2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [【前端日刊】2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [【前端日刊】2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca) 
+- [【互联网架构师】2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
+- [【互联网架构师】2020-04-26-BAT互联网大厂的后端主流技术栈是啥？](https://www.ershicimi.com/p/4c56dd9a09b7b31dc8dc9329231e7bca) 
+- [【互联网架构师】2020-04-26-老板说，我请你来，不是叫你"无脑"拷贝的，竟然在线上搞出这么大的一个BUG...](https://www.ershicimi.com/p/8509d00eca3f7f3f1f80d514317a61b4) 
+- [【互联网架构师】2020-04-26-原来这才是-Kafka！（多图+深入）](https://www.ershicimi.com/p/292e7399076afb1a35e71e0971e294a1) 
 - [【互联网架构师】2020-04-25-绝了！Dataway让SpringBoot不在需要Controller、Service、DAO、Ma](https://www.ershicimi.com/p/7ad5cf1fb668f3f98c0528303cd01c27) 
 - [【互联网架构师】2020-04-25-突破百度网盘限速工具Pandownload作者被抓，知乎网友怎么看？](https://www.ershicimi.com/p/8dd1da68b079401e4a32e99da36d37f6) 
 - [【互联网架构师】2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13) 

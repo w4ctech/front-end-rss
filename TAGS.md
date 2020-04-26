@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -592,6 +592,7 @@
 - [【前端迷】从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47)
 - [【前端迷】一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779)
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
+- [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
 - [【V2EX】看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122)
 - [【V2EX】请问阿里和蚂蚁的两个职位，可以同时走面试流程吗？](https://www.v2ex.com/t/666098)
@@ -604,7 +605,6 @@
 - [【V2EX】招聘贴-阿里健康校招-2021-毕业硕博](https://www.v2ex.com/t/665798)
 - [【V2EX】南京-南京网眼-招聘前端开发工程师](https://www.v2ex.com/t/665748)
 - [【V2EX】我看有-offer-的心疼都炸了？那我这面试都几乎没有的人。。。。。？砰~~~~砰~~~~~~](https://www.v2ex.com/t/665726)
-- [【V2EX】谷歌的这道经典题，为何成为面试者绕不开的“噩梦”](https://www.v2ex.com/t/665704)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

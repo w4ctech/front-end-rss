@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -14,6 +14,7 @@
 - [2020-04-21-从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47) 
 - [2020-04-18-一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779) 
 - [2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
+- [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
 - [2020-04-26-看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122) 
 - [2020-04-25-请问阿里和蚂蚁的两个职位，可以同时走面试流程吗？](https://www.v2ex.com/t/666098) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 09:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 09:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -44,16 +44,16 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -289,6 +289,8 @@
 </summary>
 
 
+- [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19) ![](assets/new.png)  
+- [2020-04-25-C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a) ![](assets/new.png)  
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57)  
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50)  
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3)  
@@ -569,10 +571,10 @@
 </summary>
 
 
-- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) ![](assets/new.png)  
-- [2020-04-25-O’Reilly-技术趋势报告：Python-最流行、云依旧热门，DevOps-和-AI-热度下降](https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8) ![](assets/new.png)  
-- [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9) ![](assets/new.png)  
-- [2020-04-25-浅谈图神经网络的局限性](https://www.ershicimi.com/p/8936cd8e8a844fda7b6f4e235b553613) ![](assets/new.png)  
+- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4)  
+- [2020-04-25-O’Reilly-技术趋势报告：Python-最流行、云依旧热门，DevOps-和-AI-热度下降](https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8)  
+- [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9)  
+- [2020-04-25-浅谈图神经网络的局限性](https://www.ershicimi.com/p/8936cd8e8a844fda7b6f4e235b553613)  
 - [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed)  
 - [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27)  
 - [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24)  
@@ -749,12 +751,12 @@
 </summary>
 
 
-- [2020-04-26-githubassets.com-无法解析](https://www.v2ex.com/t/666143) ![](assets/new.png)  
-- [2020-04-26-请推荐一款绿色、小的、功能全、免费的-sqlite-数据库管理工具](https://www.v2ex.com/t/666142) ![](assets/new.png)  
-- [2020-04-26-Kubernetes-就是个数据库？](https://www.v2ex.com/t/666139) ![](assets/new.png)  
-- [2020-04-26-求助：-SpringBoot-应用闲置一晚上后，第一次请求特别慢](https://www.v2ex.com/t/666138) ![](assets/new.png)  
-- [2020-04-26-阿里云原生应用平台团队招聘-Kubernetes/DevOps/Serverless-核心技术工程师-P7-P9（北京，杭州，深圳）](https://www.v2ex.com/t/666137) ![](assets/new.png)  
-- [2020-04-26-如果柑橘里有猪的基因你可以接受吗？](https://www.v2ex.com/t/666136) ![](assets/new.png)  
+- [2020-04-26-githubassets.com-无法解析](https://www.v2ex.com/t/666143)  
+- [2020-04-26-请推荐一款绿色、小的、功能全、免费的-sqlite-数据库管理工具](https://www.v2ex.com/t/666142)  
+- [2020-04-26-Kubernetes-就是个数据库？](https://www.v2ex.com/t/666139)  
+- [2020-04-26-求助：-SpringBoot-应用闲置一晚上后，第一次请求特别慢](https://www.v2ex.com/t/666138)  
+- [2020-04-26-阿里云原生应用平台团队招聘-Kubernetes/DevOps/Serverless-核心技术工程师-P7-P9（北京，杭州，深圳）](https://www.v2ex.com/t/666137)  
+- [2020-04-26-如果柑橘里有猪的基因你可以接受吗？](https://www.v2ex.com/t/666136)  
 - [2020-04-26-各位有想过万一你的-macbook-被偷了，该如何远程删除你的机上信息吗？](https://www.v2ex.com/t/666135)  
 - [2020-04-26-window-下使用-xampp-搭建的网站，一共有-5-个，其中一个-ssl-网站定期就会打不开（该网站绑定的其他域名也能打开唯独加了-https-的域名无法访问），其他正常，...](https://www.v2ex.com/t/666134)  
 - [2020-04-26-许多游戏的段位系统，为什么都采用“晋级赛”的设计？](https://www.v2ex.com/t/666133)  
@@ -811,11 +813,11 @@
 </summary>
 
 
-- [2020-04-26-Stream-SQL-的执行原理与-Flink-的实现](https://toutiao.io/k/8luteij) ![](assets/new.png)  
-- [2020-04-26-当-Spring-Cloud-Alibaba-Sentinel-碰上-Spring-Cloud-Sleuth-会擦出怎样的火花](https://toutiao.io/k/lfwirjf) ![](assets/new.png)  
-- [2020-04-26-Lucene-索引文件的生成（十三）](https://toutiao.io/k/9sic9mi) ![](assets/new.png)  
-- [2020-04-26-GitHub-中间人攻击原理分析](https://toutiao.io/k/31d57uv) ![](assets/new.png)  
-- [2020-04-26-模仿学习简介](https://toutiao.io/k/hjeoasu) ![](assets/new.png)  
+- [2020-04-26-Stream-SQL-的执行原理与-Flink-的实现](https://toutiao.io/k/8luteij)  
+- [2020-04-26-当-Spring-Cloud-Alibaba-Sentinel-碰上-Spring-Cloud-Sleuth-会擦出怎样的火花](https://toutiao.io/k/lfwirjf)  
+- [2020-04-26-Lucene-索引文件的生成（十三）](https://toutiao.io/k/9sic9mi)  
+- [2020-04-26-GitHub-中间人攻击原理分析](https://toutiao.io/k/31d57uv)  
+- [2020-04-26-模仿学习简介](https://toutiao.io/k/hjeoasu)  
 - [2020-04-26-推荐-Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr)  
 - [2020-04-25-推荐-面试常问的-Java-虚拟机运行时数据区](https://toutiao.io/k/f0m6na1)  
 - [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf)  

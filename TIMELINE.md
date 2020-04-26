@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -194,6 +194,8 @@
 - [【前端之巅】2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
 - [【前端之巅】2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
 - [【前端之巅】2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) 
+- [【前端迷】2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19) 
+- [【前端迷】2020-04-25-C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a) 
 - [【前端迷】2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [【前端迷】2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [【前端迷】2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 

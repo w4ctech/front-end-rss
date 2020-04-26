@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -255,6 +255,7 @@
 
 
 
+- [【前端迷】C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a)
 - [【阮一峰的网络日志】家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)
 - [【凹凸实验室】全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)
 - [【凹凸实验室】H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/)
@@ -274,7 +275,6 @@
 - [【凹凸实验室】源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/)
 - [【凹凸实验室】createjs开发入门](https://aotu.io/notes/2016/03/01/createjs-get-started/)
 - [【凹凸实验室】js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/)
-- [【凹凸实验室】使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -296,6 +296,7 @@
 - [【前端开发】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7)
 - [【前端大学】ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e)
 - [【前端之巅】ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636)
+- [【前端迷】《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19)
 - [【前端迷】Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54)
 - [【全栈前端精选】前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a)
 - [【程序员成长指北】介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320)
@@ -310,7 +311,6 @@
 - [【凹凸实验室】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
 - [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
 - [【凹凸实验室】AT---前端-UI-组件库](https://aotu.io/notes/2017/08/28/at-ui/)
-- [【凹凸实验室】利用视口单位实现适配布局](https://aotu.io/notes/2017/04/28/2017-4-28-CSS-viewport-units/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

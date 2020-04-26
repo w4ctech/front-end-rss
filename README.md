@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 10:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 10:30:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -187,6 +187,8 @@
 </summary>
 
 
+- [2020-04-26-公开课|快到没朋友？程序员必会的yolo模型（附福利）](https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a) ![](assets/new.png)  
+- [2020-04-26-iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8) ![](assets/new.png)  
 - [2020-04-24-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e)  
 - [2020-04-23-Vue3.0语法快速入门，你会了吗](https://www.ershicimi.com/p/4cdd1f67a3b1fa167c4813d3024c24ec)  
 - [2020-04-23-Vue-3.0-Beta，重写虚拟DOM，速度显著提升](https://www.ershicimi.com/p/77ac75d6a211b12af78400bd476d13a3)  
@@ -542,10 +544,10 @@
 </summary>
 
 
-- [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) ![](assets/new.png)  
-- [2020-04-26-BAT互联网大厂的后端主流技术栈是啥？](https://www.ershicimi.com/p/4c56dd9a09b7b31dc8dc9329231e7bca) ![](assets/new.png)  
-- [2020-04-26-老板说，我请你来，不是叫你"无脑"拷贝的，竟然在线上搞出这么大的一个BUG...](https://www.ershicimi.com/p/8509d00eca3f7f3f1f80d514317a61b4) ![](assets/new.png)  
-- [2020-04-26-原来这才是-Kafka！（多图+深入）](https://www.ershicimi.com/p/292e7399076afb1a35e71e0971e294a1) ![](assets/new.png)  
+- [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)  
+- [2020-04-26-BAT互联网大厂的后端主流技术栈是啥？](https://www.ershicimi.com/p/4c56dd9a09b7b31dc8dc9329231e7bca)  
+- [2020-04-26-老板说，我请你来，不是叫你"无脑"拷贝的，竟然在线上搞出这么大的一个BUG...](https://www.ershicimi.com/p/8509d00eca3f7f3f1f80d514317a61b4)  
+- [2020-04-26-原来这才是-Kafka！（多图+深入）](https://www.ershicimi.com/p/292e7399076afb1a35e71e0971e294a1)  
 - [2020-04-25-绝了！Dataway让SpringBoot不在需要Controller、Service、DAO、Ma](https://www.ershicimi.com/p/7ad5cf1fb668f3f98c0528303cd01c27)  
 - [2020-04-25-突破百度网盘限速工具Pandownload作者被抓，知乎网友怎么看？](https://www.ershicimi.com/p/8dd1da68b079401e4a32e99da36d37f6)  
 - [2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13)  
@@ -753,26 +755,26 @@
 </summary>
 
 
-- [2020-04-26-githubassets.com-无法解析](https://www.v2ex.com/t/666143)  
-- [2020-04-26-请推荐一款绿色、小的、功能全、免费的-sqlite-数据库管理工具](https://www.v2ex.com/t/666142)  
-- [2020-04-26-Kubernetes-就是个数据库？](https://www.v2ex.com/t/666139)  
-- [2020-04-26-求助：-SpringBoot-应用闲置一晚上后，第一次请求特别慢](https://www.v2ex.com/t/666138)  
-- [2020-04-26-阿里云原生应用平台团队招聘-Kubernetes/DevOps/Serverless-核心技术工程师-P7-P9（北京，杭州，深圳）](https://www.v2ex.com/t/666137)  
-- [2020-04-26-如果柑橘里有猪的基因你可以接受吗？](https://www.v2ex.com/t/666136)  
-- [2020-04-26-各位有想过万一你的-macbook-被偷了，该如何远程删除你的机上信息吗？](https://www.v2ex.com/t/666135)  
-- [2020-04-26-window-下使用-xampp-搭建的网站，一共有-5-个，其中一个-ssl-网站定期就会打不开（该网站绑定的其他域名也能打开唯独加了-https-的域名无法访问），其他正常，...](https://www.v2ex.com/t/666134)  
-- [2020-04-26-许多游戏的段位系统，为什么都采用“晋级赛”的设计？](https://www.v2ex.com/t/666133)  
-- [2020-04-26-请问各位是怎么开发微信小程序的，有用什么框架吗](https://www.v2ex.com/t/666132)  
-- [2020-04-26-MBP-键盘问题送修-GeniusBar-取回后发现连接过不认识的-WiFi-是正常现象吗？](https://www.v2ex.com/t/666131)  
-- [2020-04-26-在网上找了个项目修改了一下作为毕业设计，结果和别人的重复了，代码重复度太高了](https://www.v2ex.com/t/666130)  
-- [2020-04-26-P2P-的文件同步软件](https://www.v2ex.com/t/666129)  
-- [2020-04-26-三星安全文件夹无法登陆-Google-账号](https://www.v2ex.com/t/666128)  
-- [2020-04-26-vanitygen-hd：比特币个性化-HD/HDM-钱包生成器](https://www.v2ex.com/t/666127)  
-- [2020-04-26-Sony-电视选择，在纠结是选-85x8500g-还是今年的新款-85x8000h](https://www.v2ex.com/t/666126)  
-- [2020-04-26-解压-apk-直接-zip-压缩打包需要重新签名吗](https://www.v2ex.com/t/666125)  
-- [2020-04-26-Flask-的静态资源-URL-的-versioning-目前有官方支持的-best-practice-么？](https://www.v2ex.com/t/666124)  
-- [2020-04-26-Google-Alerts-服务瘫了？](https://www.v2ex.com/t/666123)  
-- [2020-04-26-看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122)  
+- [2020-04-26-怎么让物理机通过虚拟机中的代理软件来上网。。](https://www.v2ex.com/t/666179) ![](assets/new.png)  
+- [2020-04-26-typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178) ![](assets/new.png)  
+- [2020-04-26-华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177) ![](assets/new.png)  
+- [2020-04-26-可以申请到公网固定-IP-的情况下，自建服务器还是购买云服务器？](https://www.v2ex.com/t/666176) ![](assets/new.png)  
+- [2020-04-26-pull-request-是不是用-cherry-pick-实现的呢？](https://www.v2ex.com/t/666175) ![](assets/new.png)  
+- [2020-04-26-招商银行行庆送福利，已提现！-0.26-元](https://www.v2ex.com/t/666174) ![](assets/new.png)  
+- [2020-04-26-你听过多少种版本的《笑傲江湖》？](https://www.v2ex.com/t/666173) ![](assets/new.png)  
+- [2020-04-26-WIN2019-周一上班发现系统挂了，上面起来-10-多个-VM-装的-openshif，看起来有重装了](https://www.v2ex.com/t/666171) ![](assets/new.png)  
+- [2020-04-26-怎么判断一个论坛有新帖子出现，然后帮忙顶贴呢？](https://www.v2ex.com/t/666170) ![](assets/new.png)  
+- [2020-04-26-V-站有在谷歌公司工作或者有认识谷歌员工的吗，现在谷歌翻译有严重的-bug，半年了还是这样](https://www.v2ex.com/t/666169) ![](assets/new.png)  
+- [2020-04-26-暑假实习入职时间与学校课程冲突，该如何选择](https://www.v2ex.com/t/666168) ![](assets/new.png)  
+- [2020-04-26-域名出售-d.app](https://www.v2ex.com/t/666166) ![](assets/new.png)  
+- [2020-04-26-野路子-Java](https://www.v2ex.com/t/666165) ![](assets/new.png)  
+- [2020-04-26-公司要用自己家-ip-申请百度算力，有啥办法解决呀](https://www.v2ex.com/t/666164) ![](assets/new.png)  
+- [2020-04-26-golang-菜鸡，想写一些常用的小组件](https://www.v2ex.com/t/666162) ![](assets/new.png)  
+- [2020-04-26-B-端场景，大家敢不敢用免费开源的软件？免费的午餐真存在么？](https://www.v2ex.com/t/666161) ![](assets/new.png)  
+- [2020-04-26-微博图片在国外的速度怎么样，](https://www.v2ex.com/t/666160) ![](assets/new.png)  
+- [2020-04-26-求助：-docker-nginx-转发-同一台机器上-部署的-go-服务。](https://www.v2ex.com/t/666159) ![](assets/new.png)  
+- [2020-04-26-求推荐备份软件](https://www.v2ex.com/t/666158) ![](assets/new.png)  
+- [2020-04-26-win-平台-pdf-阅读软件有推荐的吗？能看-pdf-就行，不编辑](https://www.v2ex.com/t/666157) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -815,6 +817,14 @@
 </summary>
 
 
+- [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys) ![](assets/new.png)  
+- [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk) ![](assets/new.png)  
+- [2020-04-26-初探-Hadoop-集群安全](https://toutiao.io/k/bkes0be) ![](assets/new.png)  
+- [2020-04-26-零信任理念有望缓解-fastjson-软件漏洞](https://toutiao.io/k/o3g911d) ![](assets/new.png)  
+- [2020-04-26-Spring-源码（八）：扩展点之-mybatis-集成](https://toutiao.io/k/m1946pk) ![](assets/new.png)  
+- [2020-04-26-Java-线程基础，从这篇开始](https://toutiao.io/k/xau7sqd) ![](assets/new.png)  
+- [2020-04-26-Spring-Boot-源码（九）：Spring-Boot-事件监听机制源码分析（上）](https://toutiao.io/k/63810bd) ![](assets/new.png)  
+- [2020-04-26-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（上）](https://toutiao.io/k/j65e29l) ![](assets/new.png)  
 - [2020-04-26-Stream-SQL-的执行原理与-Flink-的实现](https://toutiao.io/k/8luteij)  
 - [2020-04-26-当-Spring-Cloud-Alibaba-Sentinel-碰上-Spring-Cloud-Sleuth-会擦出怎样的火花](https://toutiao.io/k/lfwirjf)  
 - [2020-04-26-Lucene-索引文件的生成（十三）](https://toutiao.io/k/9sic9mi)  
@@ -827,14 +837,6 @@
 - [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh)  
 - [2020-04-25-推荐-Go-的-Channel-很强大，理解其内在概念会让它更强大](https://toutiao.io/k/2dlr8a8)  
 - [2020-04-25-每月处理-3000w+-构建的企业级持续交付系统-CircleCI-是怎么炼成的？（一）](https://toutiao.io/k/oo10xqk)  
-- [2020-04-25-分区表改造：脚本模板生成](https://toutiao.io/k/v3cfj4v)  
-- [2020-04-25-基于-XGB-单机训练-VS-基于-SPARK-并行预测（XGBoost4j-spark-无痛人流解决方案）](https://toutiao.io/k/5wgxivz)  
-- [2020-04-25-Spring-Boot-添加应用-JVM-监控-，实现数据可视化](https://toutiao.io/k/ptl9gep)  
-- [2020-04-25-爱奇艺-iOS-移动端网络优化实践（请求成功率优化篇）](https://toutiao.io/k/l1dd1wy)  
-- [2020-04-25-JVM-源码分析之-JDK-8-下的僵尸（无法回收）类加载器](https://toutiao.io/k/rb38d6r)  
-- [2020-04-25-Go-中的高级测试模式：集成测试如何做？](https://toutiao.io/k/8u7e71n)  
-- [2020-04-25-mybatisplus-版本引发的连接泄漏血案](https://toutiao.io/k/57xsd3y)  
-- [2020-04-25-用机器学习改善网络通话质量](https://toutiao.io/k/u7xxnwh)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -236,6 +236,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "公开课|快到没朋友？程序员必会的yolo模型（附福利）",
+        "link": "https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "iPad Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器",
+        "link": "https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8",
+        "date": "2020-04-26"
+      },
+      {
         "title": "5000字解析：前端五种跨平台技术",
         "link": "https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e",
         "date": "2020-04-24"
@@ -2690,6 +2700,156 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "怎么让物理机通过虚拟机中的代理软件来上网。。",
+        "link": "https://www.v2ex.com/t/666179",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "typescript 的 tsconfig.json 不起作用?",
+        "link": "https://www.v2ex.com/t/666178",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[华为实习岗位内推] 华为消费者 BG（终端）北京软件开发实习生招聘",
+        "link": "https://www.v2ex.com/t/666177",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "可以申请到公网固定 IP 的情况下，自建服务器还是购买云服务器？",
+        "link": "https://www.v2ex.com/t/666176",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "pull request 是不是用 cherry-pick 实现的呢？",
+        "link": "https://www.v2ex.com/t/666175",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "招商银行行庆送福利，已提现！ 0.26 元",
+        "link": "https://www.v2ex.com/t/666174",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "你听过多少种版本的《笑傲江湖》？",
+        "link": "https://www.v2ex.com/t/666173",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "WIN2019 周一上班发现系统挂了，上面起来 10 多个 VM 装的 openshif，看起来有重装了",
+        "link": "https://www.v2ex.com/t/666171",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "怎么判断一个论坛有新帖子出现，然后帮忙顶贴呢？",
+        "link": "https://www.v2ex.com/t/666170",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "V 站有在谷歌公司工作或者有认识谷歌员工的吗，现在谷歌翻译有严重的 bug，半年了还是这样",
+        "link": "https://www.v2ex.com/t/666169",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "暑假实习入职时间与学校课程冲突，该如何选择",
+        "link": "https://www.v2ex.com/t/666168",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[域名出售] d.app",
+        "link": "https://www.v2ex.com/t/666166",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "野路子 Java",
+        "link": "https://www.v2ex.com/t/666165",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "公司要用自己家 ip 申请百度算力，有啥办法解决呀",
+        "link": "https://www.v2ex.com/t/666164",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "golang 菜鸡，想写一些常用的小组件",
+        "link": "https://www.v2ex.com/t/666162",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "B 端场景，大家敢不敢用免费开源的软件？免费的午餐真存在么？",
+        "link": "https://www.v2ex.com/t/666161",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "微博图片在国外的速度怎么样，",
+        "link": "https://www.v2ex.com/t/666160",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "求助： docker nginx 转发 同一台机器上 部署的 go 服务。",
+        "link": "https://www.v2ex.com/t/666159",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "求推荐备份软件",
+        "link": "https://www.v2ex.com/t/666158",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "win 平台 pdf 阅读软件有推荐的吗？能看 pdf 就行，不编辑",
+        "link": "https://www.v2ex.com/t/666157",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "吐槽一波郑州 4 月 28 号即将发布的新一轮消费券",
+        "link": "https://www.v2ex.com/t/666156",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "grafana telegram 预警",
+        "link": "https://www.v2ex.com/t/666155",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "哔哩哔哩如何投屏到 LG 电视的 WebOS 上面。",
+        "link": "https://www.v2ex.com/t/666154",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "sac 2045 ed 上面是 Java 代码吗？",
+        "link": "https://www.v2ex.com/t/666153",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "爬虫养成记——先跨进这个精彩的世界（女生定制篇）",
+        "link": "https://www.v2ex.com/t/666151",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Linux 自定 NUMA 节点创建共享内存方法？",
+        "link": "https://www.v2ex.com/t/666150",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "再请教一下，如果简便的检索到网页使用了违禁词？",
+        "link": "https://www.v2ex.com/t/666149",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "QQ 这个拖拽建群的功能是怎么想出来的？",
+        "link": "https://www.v2ex.com/t/666147",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "个人网站的前途，是继续还是放弃？",
+        "link": "https://www.v2ex.com/t/666145",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "有没有一个 app 闹钟可以直接设定每个工作日的闹钟的",
+        "link": "https://www.v2ex.com/t/666144",
+        "date": "2020-04-26"
+      },
       {
         "title": "githubassets.com 无法解析",
         "link": "https://www.v2ex.com/t/666143",
@@ -5324,6 +5484,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "安全架构设计与评审",
+        "link": "https://toutiao.io/k/kb9mxys",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "悟空活动中台：微组件状态管理（上）",
+        "link": "https://toutiao.io/k/qomitvk",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "初探 Hadoop 集群安全",
+        "link": "https://toutiao.io/k/bkes0be",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "零信任理念有望缓解 fastjson 软件漏洞",
+        "link": "https://toutiao.io/k/o3g911d",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Spring 源码（八）：扩展点之 mybatis 集成",
+        "link": "https://toutiao.io/k/m1946pk",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Java 线程基础，从这篇开始",
+        "link": "https://toutiao.io/k/xau7sqd",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Spring Boot 源码（九）：Spring Boot 事件监听机制源码分析（上）",
+        "link": "https://toutiao.io/k/63810bd",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（上）",
+        "link": "https://toutiao.io/k/j65e29l",
+        "date": "2020-04-26"
+      },
       {
         "title": "Stream SQL 的执行原理与 Flink 的实现",
         "link": "https://toutiao.io/k/8luteij",

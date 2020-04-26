@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -318,6 +318,11 @@
 - [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [【掘金前端】2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b) 
+- [【掘金前端】2020-04-26-学了-gulp-想练练手？正好压缩下你的博客](https://juejin.im/post/5ea52a50e51d4547126406ca) 
+- [【掘金前端】2020-04-26-JavaScript模块化历程](https://juejin.im/post/5ea56d2451882573883be5ae) 
+- [【掘金前端】2020-04-26-ES6系列-什么是ES6?新手应该怎么理解](https://juejin.im/post/5ea553ff51882573c85af865) 
+- [【掘金前端】2020-04-26-灵魂拷问，你真的懂-JavaScript-中的变量提升吗？](https://juejin.im/post/5ea3a42e51882538083ff71c) 
 - [【掘金前端】2020-04-26-【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d) 
 - [【掘金前端】2020-04-26-「源码级回答」大厂高频Vue面试题（上）](https://juejin.im/post/5ea4ffcdf265da48062c9b61) 
 - [【掘金前端】2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 

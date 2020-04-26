@@ -2237,6 +2237,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "[译]大哥你JavaScript可能不太需要switch",
+        "link": "https://juejin.im/post/5ea56215e51d4547134bf55b",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "学了 gulp 想练练手？正好压缩下你的博客",
+        "link": "https://juejin.im/post/5ea52a50e51d4547126406ca",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "JavaScript模块化历程",
+        "link": "https://juejin.im/post/5ea56d2451882573883be5ae",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "ES6系列-什么是ES6?新手应该怎么理解",
+        "link": "https://juejin.im/post/5ea553ff51882573c85af865",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "灵魂拷问，你真的懂 JavaScript 中的变量提升吗？",
+        "link": "https://juejin.im/post/5ea3a42e51882538083ff71c",
+        "date": "2020-04-26"
+      },
+      {
         "title": "【Babel 小玩具】如何用 Babel 为代码自动引入依赖",
         "link": "https://juejin.im/post/5ea54363f265da47db2e601d",
         "date": "2020-04-26"

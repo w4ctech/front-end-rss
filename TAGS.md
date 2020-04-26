@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -401,6 +401,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)
 - [【V2EX】有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322)
 - [【V2EX】佳能医疗-求生物信息研究员、医学图像算法研究员、Bioinformatics-实习生！](https://www.v2ex.com/t/666319)
 - [【V2EX】直播分享-企业如何高效平稳实现数据迁移](https://www.v2ex.com/t/666295)
@@ -415,7 +416,6 @@
 - [【V2EX】周末买个会员看视频拉~优酷爱奇艺价格低至-5,还有电视端,百度网盘等等](https://www.v2ex.com/t/665696)
 - [【V2EX】在线实时音频播放](https://www.v2ex.com/t/665608)
 - [【V2EX】这个图像怎么看起来很眼熟呢](https://www.v2ex.com/t/665568)
-- [【V2EX】BiliBili-直播-发现部分观众总比另一部慢-3~6-秒的样子？清缓存、乃至换浏览器无用。何解？是电信线路优化问题？](https://www.v2ex.com/t/665541)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -514,6 +514,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)
 - [【V2EX】问境科技招贤纳士（北京/上海）招后端开发工程师、算法实习生、嵌入式、运维](https://www.v2ex.com/t/666315)
 - [【V2EX】window-下使用-xampp-搭建的网站，一共有-5-个，其中一个-ssl-网站定期就会打不开（该网站绑定的其他域名也能打开唯独加了-https-的域名无法访问），其他正常，...](https://www.v2ex.com/t/666134)
 - [【V2EX】brew-elastic/tap-巨慢](https://www.v2ex.com/t/666038)
@@ -523,7 +524,6 @@
 - [【V2EX】字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784)
 - [【V2EX】GVIM-显示中文有问题，-VIM-正常，终端也正常，大家碰到过吗？](https://www.v2ex.com/t/665757)
 - [【V2EX】招聘远程新义互联诚招广告算法工程师](https://www.v2ex.com/t/665752)
-- [【V2EX】地点不限-招全栈技术合伙-/-外包合作-外包公司勿扰](https://www.v2ex.com/t/665684)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

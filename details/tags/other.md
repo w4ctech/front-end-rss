@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -117,6 +117,8 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-04-25-O’Reilly-技术趋势报告：Python-最流行、云依旧热门，DevOps-和-AI-热度下降](https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8) 
+- [2020-04-25-浅谈图神经网络的局限性](https://www.ershicimi.com/p/8936cd8e8a844fda7b6f4e235b553613) 
 - [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed) 
 - [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27) 
 - [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24) 
@@ -170,6 +172,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-26-请推荐一款绿色、小的、功能全、免费的-sqlite-数据库管理工具](https://www.v2ex.com/t/666142) 
+- [2020-04-26-Kubernetes-就是个数据库？](https://www.v2ex.com/t/666139) 
+- [2020-04-26-如果柑橘里有猪的基因你可以接受吗？](https://www.v2ex.com/t/666136) 
 - [2020-04-26-各位有想过万一你的-macbook-被偷了，该如何远程删除你的机上信息吗？](https://www.v2ex.com/t/666135) 
 - [2020-04-26-MBP-键盘问题送修-GeniusBar-取回后发现连接过不认识的-WiFi-是正常现象吗？](https://www.v2ex.com/t/666131) 
 - [2020-04-26-在网上找了个项目修改了一下作为毕业设计，结果和别人的重复了，代码重复度太高了](https://www.v2ex.com/t/666130) 
@@ -571,6 +576,10 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-26-Stream-SQL-的执行原理与-Flink-的实现](https://toutiao.io/k/8luteij) 
+- [2020-04-26-当-Spring-Cloud-Alibaba-Sentinel-碰上-Spring-Cloud-Sleuth-会擦出怎样的火花](https://toutiao.io/k/lfwirjf) 
+- [2020-04-26-Lucene-索引文件的生成（十三）](https://toutiao.io/k/9sic9mi) 
+- [2020-04-26-模仿学习简介](https://toutiao.io/k/hjeoasu) 
 - [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf) 
 - [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8) 
 - [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh) 

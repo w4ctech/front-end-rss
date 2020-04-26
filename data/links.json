@@ -2018,6 +2018,26 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/",
+        "link": "https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "O’Reilly 技术趋势报告：Python 最流行、云依旧热门，DevOps 和 AI 热度下降",
+        "link": "https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "云时代的游戏变革，2020 Google 游戏开发者峰会热点回顾 | Q推荐",
+        "link": "https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "浅谈图神经网络的局限性",
+        "link": "https://www.ershicimi.com/p/8936cd8e8a844fda7b6f4e235b553613",
+        "date": "2020-04-25"
+      },
+      {
         "title": "今年你被降掉的薪资，还有机会涨回来吗？",
         "link": "https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed",
         "date": "2020-04-24"
@@ -2640,6 +2660,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "githubassets.com 无法解析",
+        "link": "https://www.v2ex.com/t/666143",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "请推荐一款绿色、小的、功能全、免费的 sqlite 数据库管理工具",
+        "link": "https://www.v2ex.com/t/666142",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Kubernetes 就是个数据库？",
+        "link": "https://www.v2ex.com/t/666139",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "求助： SpringBoot 应用闲置一晚上后，第一次请求特别慢",
+        "link": "https://www.v2ex.com/t/666138",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "阿里云原生应用平台团队招聘 Kubernetes/DevOps/Serverless 核心技术工程师 P7-P9（北京，杭州，深圳）",
+        "link": "https://www.v2ex.com/t/666137",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "如果柑橘里有猪的基因你可以接受吗？",
+        "link": "https://www.v2ex.com/t/666136",
+        "date": "2020-04-26"
+      },
       {
         "title": "各位有想过万一你的 macbook 被偷了，该如何远程删除你的机上信息吗？",
         "link": "https://www.v2ex.com/t/666135",
@@ -5244,6 +5294,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Stream SQL 的执行原理与 Flink 的实现",
+        "link": "https://toutiao.io/k/8luteij",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "当 Spring Cloud Alibaba Sentinel 碰上 Spring Cloud Sleuth 会擦出怎样的火花",
+        "link": "https://toutiao.io/k/lfwirjf",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Lucene 索引文件的生成（十三）",
+        "link": "https://toutiao.io/k/9sic9mi",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "GitHub 中间人攻击原理分析",
+        "link": "https://toutiao.io/k/31d57uv",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "模仿学习简介",
+        "link": "https://toutiao.io/k/hjeoasu",
+        "date": "2020-04-26"
+      },
       {
         "title": "[推荐] Redis 基础知识总结（面试必备）",
         "link": "https://toutiao.io/k/hbtpocr",

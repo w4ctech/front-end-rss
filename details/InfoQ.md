@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-04-24 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) 
+- [2020-04-25-O’Reilly-技术趋势报告：Python-最流行、云依旧热门，DevOps-和-AI-热度下降](https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8) 
+- [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9) 
+- [2020-04-25-浅谈图神经网络的局限性](https://www.ershicimi.com/p/8936cd8e8a844fda7b6f4e235b553613) 
 - [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed) 
 - [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27) 
 - [2020-04-24-详解华为云5G+X联创营，联合创新能为互联网企业带来哪些改变？-|-Q推荐](https://www.ershicimi.com/p/191911d57fc03627292f29b74e796c24) 

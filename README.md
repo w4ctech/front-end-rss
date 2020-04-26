@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 19:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 19:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -498,6 +498,8 @@
 </summary>
 
 
+- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) ![](assets/new.png)  
+- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) ![](assets/new.png)  
 - [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f)  
 - [2020-04-24-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc)  
 - [2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e)  
@@ -758,12 +760,12 @@
 </summary>
 
 
-- [2020-04-26-关于加班的问题，忍不住想吐槽下](https://www.v2ex.com/t/666371) ![](assets/new.png)  
-- [2020-04-26-一名成绩不好的高三学生求助贴](https://www.v2ex.com/t/666370) ![](assets/new.png)  
-- [2020-04-26-分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369) ![](assets/new.png)  
-- [2020-04-26-学-dateformat-碰到的问题](https://www.v2ex.com/t/666368) ![](assets/new.png)  
-- [2020-04-26-为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366) ![](assets/new.png)  
-- [2020-04-26-用-CNAME-接入百度云加速，结果-DNS-被改成它的了](https://www.v2ex.com/t/666365) ![](assets/new.png)  
+- [2020-04-26-关于加班的问题，忍不住想吐槽下](https://www.v2ex.com/t/666371)  
+- [2020-04-26-一名成绩不好的高三学生求助贴](https://www.v2ex.com/t/666370)  
+- [2020-04-26-分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)  
+- [2020-04-26-学-dateformat-碰到的问题](https://www.v2ex.com/t/666368)  
+- [2020-04-26-为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)  
+- [2020-04-26-用-CNAME-接入百度云加速，结果-DNS-被改成它的了](https://www.v2ex.com/t/666365)  
 - [2020-04-26-2020-04-求个千元-wifi-6-路由器](https://www.v2ex.com/t/666364)  
 - [2020-04-26-杭州](https://www.v2ex.com/t/666363)  
 - [2020-04-26-JWT+redis-能替代-session-了吗？](https://www.v2ex.com/t/666361)  

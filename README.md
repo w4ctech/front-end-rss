@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 16:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 17:30:20，:rocket: 更新条数: +45， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -577,6 +577,10 @@
 </summary>
 
 
+- [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7) ![](assets/new.png)  
+- [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0) ![](assets/new.png)  
+- [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184) ![](assets/new.png)  
+- [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b) ![](assets/new.png)  
 - [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4)  
 - [2020-04-25-O’Reilly-技术趋势报告：Python-最流行、云依旧热门，DevOps-和-AI-热度下降](https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8)  
 - [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9)  
@@ -593,9 +597,6 @@
 - [2020-04-23-尤雨溪-B-站直播，Vue-3.0-Beta-是一个值得体验的全新版本](https://www.ershicimi.com/p/f189b5b78e917f7c9924b655c3a5b3f9)  
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05)  
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd)  
-- [2020-04-21-Serverless-实战：用-20-行-Python-代码轻松搞定图像分类和预测](https://www.ershicimi.com/p/a86dc45eab6588a2e994cd23a0b18a9b)  
-- [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039)  
-- [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -624,7 +625,7 @@
 </summary>
 
 
-- [2020-04-26-【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d) ![](assets/new.png)  
+- [2020-04-26-【Babel-小玩具】如何用-Babel-为代码自动引入依赖](https://juejin.im/post/5ea54363f265da47db2e601d)  
 - [2020-04-26-「源码级回答」大厂高频Vue面试题（上）](https://juejin.im/post/5ea4ffcdf265da48062c9b61)  
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)  
 - [2020-04-26-可视化D3专题系列（二）折线图](https://juejin.im/post/5ea4120ee51d45470e2bfb8f)  
@@ -757,26 +758,26 @@
 </summary>
 
 
-- [2020-04-26-最近-OneDirve-客户端国内访问是不是不稳定？](https://www.v2ex.com/t/666246)  
-- [2020-04-26-某东-8.3-以上的版本的-sign-如何-hook-定位？](https://www.v2ex.com/t/666245)  
-- [2020-04-26-老哥们，想问一下在大连月薪-6k-是不是偏低，想跳](https://www.v2ex.com/t/666244)  
-- [2020-04-26-一个导出包内符号的合适的方法，用于-golang-工程](https://www.v2ex.com/t/666243)  
-- [2020-04-26-减脂期应该追踪身体的哪些维度呢？](https://www.v2ex.com/t/666242)  
-- [2020-04-26-求推荐给父母用的预算-5000-内的工作电脑](https://www.v2ex.com/t/666241)  
-- [2020-04-26-问个事情，习惯定期清理下微信好友，会不会对那些被我删除的人造成困恼？](https://www.v2ex.com/t/666240)  
-- [2020-04-26-在“程序员”下面创建主题被提示技术无关的敏感话题](https://www.v2ex.com/t/666238)  
-- [2020-04-26-张文宏科普成人应该打哪些疫苗](https://www.v2ex.com/t/666237)  
-- [2020-04-26-iPhone-se-2，交行买单吧立减-200，-12-期免息分期](https://www.v2ex.com/t/666236)  
-- [2020-04-26-mongo-索引不懂就问！这种索引如何建好！](https://www.v2ex.com/t/666235)  
-- [2020-04-26-北上广深-金三银四求职高峰，为避免碰上坑爹的企业等各种坑...](https://www.v2ex.com/t/666234)  
-- [2020-04-26-16-寸-mbp，平时电脑支架架起来（防低头颈椎难受），这样就没法用触控板了。想买秒控鼠标或者秒控板，有经验朋友说说？](https://www.v2ex.com/t/666233)  
-- [2020-04-26-滴滴北京-大前端-React-+-Node-招聘](https://www.v2ex.com/t/666232)  
-- [2020-04-26-个人开发的一款小程序，为公众号赋能、为用户指路](https://www.v2ex.com/t/666231)  
-- [2020-04-26-B-站-4K-和油管-4K-清晰度相比如何，会员值不值得买？](https://www.v2ex.com/t/666230)  
-- [2020-04-26-如何使用-CLSID-查找一个文件的位置](https://www.v2ex.com/t/666228)  
-- [2020-04-26-iPhone-se-2-上状态栏消失](https://www.v2ex.com/t/666225)  
-- [2020-04-26-安卓有全盘备份的工具吗？类似-iOS-那种](https://www.v2ex.com/t/666224)  
-- [2020-04-26-健康码是否只是一种安慰剂？特别在输入病例远大于国内病例的现在](https://www.v2ex.com/t/666222)  
+- [2020-04-26-不懂就问~关于五一出省](https://www.v2ex.com/t/666342) ![](assets/new.png)  
+- [2020-04-26-深圳金蝶金融公司怎么样？有没有老鸟出来说说](https://www.v2ex.com/t/666340) ![](assets/new.png)  
+- [2020-04-26-腾讯云-招前端开发，精通-React/Vue/Node.js-等](https://www.v2ex.com/t/666339) ![](assets/new.png)  
+- [2020-04-26-ubuntu-怎么安装-docker-常规安装好像不行](https://www.v2ex.com/t/666338) ![](assets/new.png)  
+- [2020-04-26-关于-IOS-捷径时间格式化问题](https://www.v2ex.com/t/666337) ![](assets/new.png)  
+- [2020-04-26-超六类还是七类网线](https://www.v2ex.com/t/666336) ![](assets/new.png)  
+- [2020-04-26-Java-后端绘图有什么比较节省内存的方法吗？](https://www.v2ex.com/t/666335) ![](assets/new.png)  
+- [2020-04-26-坐标北京，-9-月份攒够-5-年社保，有-100W-现金，有买房的想法，有些疑问请教大家](https://www.v2ex.com/t/666334) ![](assets/new.png)  
+- [2020-04-26-新浪短网址-t.cn-腾讯短网址-url.cn-官方生成-API](https://www.v2ex.com/t/666333) ![](assets/new.png)  
+- [2020-04-26-IPFS：下一代互联网？下一代共享-CDN？](https://www.v2ex.com/t/666332) ![](assets/new.png)  
+- [2020-04-26-最近买什么-Windows-笔记本电脑好？](https://www.v2ex.com/t/666331) ![](assets/new.png)  
+- [2020-04-26-咨询一下-maven-配置](https://www.v2ex.com/t/666330) ![](assets/new.png)  
+- [2020-04-26-dio.get-请求使用二进制参数的问题](https://www.v2ex.com/t/666328) ![](assets/new.png)  
+- [2020-04-26-想给老母亲换个手机，想问一下-8-还是-SE2](https://www.v2ex.com/t/666327) ![](assets/new.png)  
+- [2020-04-26-平安壹钱包坑用户，快出来挨打！](https://www.v2ex.com/t/666326) ![](assets/new.png)  
+- [2020-04-26-移动似乎发现什么不对劲的地方了](https://www.v2ex.com/t/666325) ![](assets/new.png)  
+- [2020-04-26-每几年一次的特殊字符组合让-iOS-崩溃的-bug-又来了，有人能解释详细一下原理么](https://www.v2ex.com/t/666324) ![](assets/new.png)  
+- [2020-04-26-杭州-The-Plant-跪求英语良好的-DevOps-运维工程师，欢迎自荐或推荐！](https://www.v2ex.com/t/666323) ![](assets/new.png)  
+- [2020-04-26-有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322) ![](assets/new.png)  
+- [2020-04-26-社招内推---蚂蚁金服---Java-技术专家](https://www.v2ex.com/t/666320) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

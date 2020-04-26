@@ -2068,6 +2068,26 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "Go语言泛型问题一直被呼喊，从未被解决 | 年度开发者调查报告",
+        "link": "https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "8 亿用户的网易云音乐是怎样建设数据中台的？",
+        "link": "https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验",
+        "link": "https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "《工业智能白皮书》正式发布（附完整报告下载方式）",
+        "link": "https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b",
+        "date": "2020-04-26"
+      },
+      {
         "title": "GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/",
         "link": "https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4",
         "date": "2020-04-25"
@@ -2745,6 +2765,211 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "不懂就问~关于五一出省",
+        "link": "https://www.v2ex.com/t/666342",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "深圳金蝶金融公司怎么样？有没有老鸟出来说说",
+        "link": "https://www.v2ex.com/t/666340",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[腾讯云] 招前端开发，精通 React/Vue/Node.js 等",
+        "link": "https://www.v2ex.com/t/666339",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "ubuntu 怎么安装 docker 常规安装好像不行",
+        "link": "https://www.v2ex.com/t/666338",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "关于 IOS 捷径时间格式化问题",
+        "link": "https://www.v2ex.com/t/666337",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "超六类还是七类网线",
+        "link": "https://www.v2ex.com/t/666336",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "Java 后端绘图有什么比较节省内存的方法吗？",
+        "link": "https://www.v2ex.com/t/666335",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "坐标北京， 9 月份攒够 5 年社保，有 100W 现金，有买房的想法，有些疑问请教大家",
+        "link": "https://www.v2ex.com/t/666334",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "新浪短网址 t.cn 腾讯短网址 url.cn 官方生成 API",
+        "link": "https://www.v2ex.com/t/666333",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "IPFS：下一代互联网？下一代共享 CDN？",
+        "link": "https://www.v2ex.com/t/666332",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "最近买什么 Windows 笔记本电脑好？",
+        "link": "https://www.v2ex.com/t/666331",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "咨询一下 maven 配置",
+        "link": "https://www.v2ex.com/t/666330",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "dio.get 请求使用二进制参数的问题",
+        "link": "https://www.v2ex.com/t/666328",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "想给老母亲换个手机，想问一下 8 还是 SE2",
+        "link": "https://www.v2ex.com/t/666327",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "平安壹钱包坑用户，快出来挨打！",
+        "link": "https://www.v2ex.com/t/666326",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "移动似乎发现什么不对劲的地方了",
+        "link": "https://www.v2ex.com/t/666325",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "每几年一次的特殊字符组合让 iOS 崩溃的 bug 又来了，有人能解释详细一下原理么",
+        "link": "https://www.v2ex.com/t/666324",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[杭州 The Plant] 跪求英语良好的 DevOps 运维工程师，欢迎自荐或推荐！",
+        "link": "https://www.v2ex.com/t/666323",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "有个需求不知道怎么解决，\r\n某个软件升级后，不能把音频下载下来播放， ui 上看不到下载地址了。\r\n不知道有没有办法，把被隐藏的下载地址 or 在线播放地址找出来...",
+        "link": "https://www.v2ex.com/t/666322",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[社招内推] - [蚂蚁金服] - Java 技术专家",
+        "link": "https://www.v2ex.com/t/666320",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[佳能医疗] 求生物信息研究员、医学图像算法研究员、Bioinformatics 实习生！",
+        "link": "https://www.v2ex.com/t/666319",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "centos7.2 搭建了 PPTP，能连接但是上不了网，这是为什么？",
+        "link": "https://www.v2ex.com/t/666318",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "django celery 执行 ansible playbook yaml 问题",
+        "link": "https://www.v2ex.com/t/666317",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[广州][20k-40k] Vue 前端/ Python 后端工程师招聘",
+        "link": "https://www.v2ex.com/t/666316",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "问境科技招贤纳士（北京/上海）招后端开发工程师、算法实习生、嵌入式、运维",
+        "link": "https://www.v2ex.com/t/666315",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "友情提示， SE2 的屏幕可能需要抽奖",
+        "link": "https://www.v2ex.com/t/666314",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "求教数据库导出 Excel 文件中空白字符的处理",
+        "link": "https://www.v2ex.com/t/666313",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "请问计算机二级网站这种反爬虫手段是什么，如何绕过？",
+        "link": "https://www.v2ex.com/t/666312",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[京东深圳内推] 招聘高级前端工程师",
+        "link": "https://www.v2ex.com/t/666311",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "谷歌帐户两步验证怎么修改手机号？",
+        "link": "https://www.v2ex.com/t/666310",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "请教一个循环创建 goroutine 的输出卡住问题",
+        "link": "https://www.v2ex.com/t/666309",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "应届后端研发 offer 求前辈建议，头条上海（应届上海落户）vs 阿里杭州",
+        "link": "https://www.v2ex.com/t/666308",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "基于 PHP 查询 dns 解析的 web 小工具",
+        "link": "https://www.v2ex.com/t/666306",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "大数据开发岗位，各位同行，现在行情怎么样？坐标上海",
+        "link": "https://www.v2ex.com/t/666304",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[北京][国内头部公募基金]招数仓/IOS-RN 开发/ Java 等岗位",
+        "link": "https://www.v2ex.com/t/666303",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "接外包啦，有没有哪位老板赏口饭吃，安卓、iOS、小程序，资深程序员，质量稳定。",
+        "link": "https://www.v2ex.com/t/666301",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "怎么看待工作量化",
+        "link": "https://www.v2ex.com/t/666297",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "为什么很多人遇到大行情，却不能一夜暴富，甚至亏钱？",
+        "link": "https://www.v2ex.com/t/666296",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "[直播分享] 企业如何高效平稳实现数据迁移",
+        "link": "https://www.v2ex.com/t/666295",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "如何通过企业微信客户端 API 访问自建应用数据？",
+        "link": "https://www.v2ex.com/t/666294",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "移动话费如何消费",
+        "link": "https://www.v2ex.com/t/666293",
+        "date": "2020-04-26"
+      },
       {
         "title": "最近 OneDirve 客户端国内访问是不是不稳定？",
         "link": "https://www.v2ex.com/t/666246",

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 17:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -401,6 +401,9 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322)
+- [【V2EX】佳能医疗-求生物信息研究员、医学图像算法研究员、Bioinformatics-实习生！](https://www.v2ex.com/t/666319)
+- [【V2EX】直播分享-企业如何高效平稳实现数据迁移](https://www.v2ex.com/t/666295)
 - [【V2EX】Base-武汉-音频算法，图像算法工程师岗招聘-武汉聚芯微电子](https://www.v2ex.com/t/666207)
 - [【V2EX】有偿求指导一下如何给视频加上盲水印？](https://www.v2ex.com/t/666002)
 - [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
@@ -413,7 +416,6 @@
 - [【V2EX】在线实时音频播放](https://www.v2ex.com/t/665608)
 - [【V2EX】这个图像怎么看起来很眼熟呢](https://www.v2ex.com/t/665568)
 - [【V2EX】BiliBili-直播-发现部分观众总比另一部慢-3~6-秒的样子？清缓存、乃至换浏览器无用。何解？是电信线路优化问题？](https://www.v2ex.com/t/665541)
-- [【V2EX】视频剪辑器免费版](https://www.v2ex.com/t/665516)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -483,9 +485,9 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】新浪短网址-t.cn-腾讯短网址-url.cn-官方生成-API](https://www.v2ex.com/t/666333)
+- [【V2EX】dio.get-请求使用二进制参数的问题](https://www.v2ex.com/t/666328)
 - [【V2EX】使用浏览器翻译后，代码被翻译的解决方案](https://www.v2ex.com/t/666189)
-- [【V2EX】求助：-SpringBoot-应用闲置一晚上后，第一次请求特别慢](https://www.v2ex.com/t/666138)
-- [【V2EX】三星安全文件夹无法登陆-Google-账号](https://www.v2ex.com/t/666128)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -512,6 +514,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】问境科技招贤纳士（北京/上海）招后端开发工程师、算法实习生、嵌入式、运维](https://www.v2ex.com/t/666315)
 - [【V2EX】window-下使用-xampp-搭建的网站，一共有-5-个，其中一个-ssl-网站定期就会打不开（该网站绑定的其他域名也能打开唯独加了-https-的域名无法访问），其他正常，...](https://www.v2ex.com/t/666134)
 - [【V2EX】brew-elastic/tap-巨慢](https://www.v2ex.com/t/666038)
 - [【V2EX】Lastpass-在-V2EX-的登录页无法自动填写，你们是怎么解决的？](https://www.v2ex.com/t/665970)
@@ -521,7 +524,6 @@
 - [【V2EX】GVIM-显示中文有问题，-VIM-正常，终端也正常，大家碰到过吗？](https://www.v2ex.com/t/665757)
 - [【V2EX】招聘远程新义互联诚招广告算法工程师](https://www.v2ex.com/t/665752)
 - [【V2EX】地点不限-招全栈技术合伙-/-外包合作-外包公司勿扰](https://www.v2ex.com/t/665684)
-- [【V2EX】算法相关，有依赖关系的日程顺序安排问题](https://www.v2ex.com/t/665673)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -541,6 +543,7 @@
 - [【前端开发】前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/ea679a267e08192aaa41298b6379cb0a)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【V2EX】ubuntu-怎么安装-docker-常规安装好像不行](https://www.v2ex.com/t/666338)
 - [【V2EX】求助：-docker-nginx-转发-同一台机器上-部署的-go-服务。](https://www.v2ex.com/t/666159)
 - [【V2EX】nginx-无法停止](https://www.v2ex.com/t/665936)
 - [【V2EX】nginx-配置遇到的一个怪事，请教各位](https://www.v2ex.com/t/665745)
@@ -601,6 +604,7 @@
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】京东深圳内推-招聘高级前端工程师](https://www.v2ex.com/t/666311)
 - [【V2EX】蚂蚁金服-OceanBase-2020-春季实习生招聘空中宣讲会开播啦！快来领取独家内推名额](https://www.v2ex.com/t/666204)
 - [【V2EX】华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177)
 - [【V2EX】看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122)
@@ -611,7 +615,6 @@
 - [【V2EX】求问面试官/HR，社招怎么才算履历好？](https://www.v2ex.com/t/665997)
 - [【V2EX】作为面试官，怎样的候选人你觉得优秀？](https://www.v2ex.com/t/665900)
 - [【V2EX】深圳腾讯后端开发工程师部门直招社会招聘](https://www.v2ex.com/t/665815)
-- [【V2EX】招聘贴-阿里健康校招-2021-毕业硕博](https://www.v2ex.com/t/665798)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

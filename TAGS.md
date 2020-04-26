@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -180,6 +180,7 @@
 - [【掘金前端】V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)
 - [【掘金前端】Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】成都-（居家办公）北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名](https://www.v2ex.com/t/666216)
 - [【V2EX】nodejs-开发求带走](https://www.v2ex.com/t/666064)
 - [【V2EX】招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007)
 - [【V2EX】成都居家办公-招-nodejs-后端开发人员，求大佬，详情见我发的招聘帖](https://www.v2ex.com/t/665951)

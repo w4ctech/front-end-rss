@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 10:30:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-26 11:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -187,8 +187,8 @@
 </summary>
 
 
-- [2020-04-26-公开课|快到没朋友？程序员必会的yolo模型（附福利）](https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a) ![](assets/new.png)  
-- [2020-04-26-iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8) ![](assets/new.png)  
+- [2020-04-26-公开课|快到没朋友？程序员必会的yolo模型（附福利）](https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a)  
+- [2020-04-26-iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8)  
 - [2020-04-24-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e)  
 - [2020-04-23-Vue3.0语法快速入门，你会了吗](https://www.ershicimi.com/p/4cdd1f67a3b1fa167c4813d3024c24ec)  
 - [2020-04-23-Vue-3.0-Beta，重写虚拟DOM，速度显著提升](https://www.ershicimi.com/p/77ac75d6a211b12af78400bd476d13a3)  
@@ -622,6 +622,11 @@
 </summary>
 
 
+- [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) ![](assets/new.png)  
+- [2020-04-26-可视化D3专题系列（二）折线图](https://juejin.im/post/5ea4120ee51d45470e2bfb8f) ![](assets/new.png)  
+- [2020-04-26-译Virtual-DOM-is-pure-overhead](https://juejin.im/post/5ea4095f5188257367223585) ![](assets/new.png)  
+- [2020-04-26-CSS-文档流-和-盒模型](https://juejin.im/post/5ea45a155188257392090074) ![](assets/new.png)  
+- [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) ![](assets/new.png)  
 - [2020-04-25-今天你out了吗？从零到一我们一起学习vue3最新API（持续更新中～）](https://juejin.im/post/5ea3d47551882573680f48c0)  
 - [2020-04-25-第五期-|-前端监控怎么玩？](https://juejin.im/post/5ea3eb326fb9a03c485791f9)  
 - [2020-04-25-前端进阶序章](https://juejin.im/post/5ea376fb6fb9a03c8a416259)  
@@ -637,11 +642,6 @@
 - [2020-04-24-Webpack那些你不知道的事](https://juejin.im/post/5ea29826e51d45470a4ad63c)  
 - [2020-04-24-轻量型TV端遥控器交互类库最佳实践](https://juejin.im/post/5ea252f2e51d4546b90d3688)  
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)  
-- [2020-04-24-一文看懂Vue2的数据侦测原理](https://juejin.im/post/5ea28fd5f265da47d1293626)  
-- [2020-04-24-Element-UI:-Message组件解读](https://juejin.im/post/5ea294e6f265da47cc02a671)  
-- [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)  
-- [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee)  
-- [2020-04-24-前端面试的那些事儿~JavaScript-原始数据类型](https://juejin.im/post/5ea28187e51d4546e2639b49)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -755,26 +755,26 @@
 </summary>
 
 
-- [2020-04-26-怎么让物理机通过虚拟机中的代理软件来上网。。](https://www.v2ex.com/t/666179) ![](assets/new.png)  
-- [2020-04-26-typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178) ![](assets/new.png)  
-- [2020-04-26-华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177) ![](assets/new.png)  
-- [2020-04-26-可以申请到公网固定-IP-的情况下，自建服务器还是购买云服务器？](https://www.v2ex.com/t/666176) ![](assets/new.png)  
-- [2020-04-26-pull-request-是不是用-cherry-pick-实现的呢？](https://www.v2ex.com/t/666175) ![](assets/new.png)  
-- [2020-04-26-招商银行行庆送福利，已提现！-0.26-元](https://www.v2ex.com/t/666174) ![](assets/new.png)  
-- [2020-04-26-你听过多少种版本的《笑傲江湖》？](https://www.v2ex.com/t/666173) ![](assets/new.png)  
-- [2020-04-26-WIN2019-周一上班发现系统挂了，上面起来-10-多个-VM-装的-openshif，看起来有重装了](https://www.v2ex.com/t/666171) ![](assets/new.png)  
-- [2020-04-26-怎么判断一个论坛有新帖子出现，然后帮忙顶贴呢？](https://www.v2ex.com/t/666170) ![](assets/new.png)  
-- [2020-04-26-V-站有在谷歌公司工作或者有认识谷歌员工的吗，现在谷歌翻译有严重的-bug，半年了还是这样](https://www.v2ex.com/t/666169) ![](assets/new.png)  
-- [2020-04-26-暑假实习入职时间与学校课程冲突，该如何选择](https://www.v2ex.com/t/666168) ![](assets/new.png)  
-- [2020-04-26-域名出售-d.app](https://www.v2ex.com/t/666166) ![](assets/new.png)  
-- [2020-04-26-野路子-Java](https://www.v2ex.com/t/666165) ![](assets/new.png)  
-- [2020-04-26-公司要用自己家-ip-申请百度算力，有啥办法解决呀](https://www.v2ex.com/t/666164) ![](assets/new.png)  
-- [2020-04-26-golang-菜鸡，想写一些常用的小组件](https://www.v2ex.com/t/666162) ![](assets/new.png)  
-- [2020-04-26-B-端场景，大家敢不敢用免费开源的软件？免费的午餐真存在么？](https://www.v2ex.com/t/666161) ![](assets/new.png)  
-- [2020-04-26-微博图片在国外的速度怎么样，](https://www.v2ex.com/t/666160) ![](assets/new.png)  
-- [2020-04-26-求助：-docker-nginx-转发-同一台机器上-部署的-go-服务。](https://www.v2ex.com/t/666159) ![](assets/new.png)  
-- [2020-04-26-求推荐备份软件](https://www.v2ex.com/t/666158) ![](assets/new.png)  
-- [2020-04-26-win-平台-pdf-阅读软件有推荐的吗？能看-pdf-就行，不编辑](https://www.v2ex.com/t/666157) ![](assets/new.png)  
+- [2020-04-26-Dubbo+ZK+SpringBoot-微服务如何做权限控制](https://www.v2ex.com/t/666193) ![](assets/new.png)  
+- [2020-04-26-淘宝直播招渲染，游戏引擎，美颜美妆，音视频相关，-HC-不限！面试官面对面交流；](https://www.v2ex.com/t/666192) ![](assets/new.png)  
+- [2020-04-26-发布-1.0.0-版本：用于-Gin-和-net/http-的-gzip-中间件，再也不担心返回的-JSON-太大了](https://www.v2ex.com/t/666191) ![](assets/new.png)  
+- [2020-04-26-有无推荐的-windows-本地文件服务器](https://www.v2ex.com/t/666190) ![](assets/new.png)  
+- [2020-04-26-使用浏览器翻译后，代码被翻译的解决方案](https://www.v2ex.com/t/666189) ![](assets/new.png)  
+- [2020-04-26-幕布-4-周年，用户注册可抽奖-1-次，注册送-30-天会员，抽奖送-30-天会员，还有抽-macbook-pro-和-airpods-机会不可能事件。](https://www.v2ex.com/t/666188) ![](assets/new.png)  
+- [2020-04-26-请教一个问题，为什么机场的-iplc-专线的延迟和我以前买-vps-的延迟一样，没什么差别？](https://www.v2ex.com/t/666185) ![](assets/new.png)  
+- [2020-04-26-定制化需求实现](https://www.v2ex.com/t/666184) ![](assets/new.png)  
+- [2020-04-26-怎么让-discord-语音走代理？](https://www.v2ex.com/t/666183) ![](assets/new.png)  
+- [2020-04-26-地处宁波，今年该买房吗](https://www.v2ex.com/t/666182) ![](assets/new.png)  
+- [2020-04-26-OneDrive-现已恢复](https://www.v2ex.com/t/666180) ![](assets/new.png)  
+- [2020-04-26-怎么让物理机通过虚拟机中的代理软件来上网。。](https://www.v2ex.com/t/666179)  
+- [2020-04-26-typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178)  
+- [2020-04-26-华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177)  
+- [2020-04-26-可以申请到公网固定-IP-的情况下，自建服务器还是购买云服务器？](https://www.v2ex.com/t/666176)  
+- [2020-04-26-pull-request-是不是用-cherry-pick-实现的呢？](https://www.v2ex.com/t/666175)  
+- [2020-04-26-招商银行行庆送福利，已提现！-0.26-元](https://www.v2ex.com/t/666174)  
+- [2020-04-26-你听过多少种版本的《笑傲江湖》？](https://www.v2ex.com/t/666173)  
+- [2020-04-26-WIN2019-周一上班发现系统挂了，上面起来-10-多个-VM-装的-openshif，看起来有重装了](https://www.v2ex.com/t/666171)  
+- [2020-04-26-怎么判断一个论坛有新帖子出现，然后帮忙顶贴呢？](https://www.v2ex.com/t/666170)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -817,14 +817,14 @@
 </summary>
 
 
-- [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys) ![](assets/new.png)  
-- [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk) ![](assets/new.png)  
-- [2020-04-26-初探-Hadoop-集群安全](https://toutiao.io/k/bkes0be) ![](assets/new.png)  
-- [2020-04-26-零信任理念有望缓解-fastjson-软件漏洞](https://toutiao.io/k/o3g911d) ![](assets/new.png)  
-- [2020-04-26-Spring-源码（八）：扩展点之-mybatis-集成](https://toutiao.io/k/m1946pk) ![](assets/new.png)  
-- [2020-04-26-Java-线程基础，从这篇开始](https://toutiao.io/k/xau7sqd) ![](assets/new.png)  
-- [2020-04-26-Spring-Boot-源码（九）：Spring-Boot-事件监听机制源码分析（上）](https://toutiao.io/k/63810bd) ![](assets/new.png)  
-- [2020-04-26-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（上）](https://toutiao.io/k/j65e29l) ![](assets/new.png)  
+- [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys)  
+- [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk)  
+- [2020-04-26-初探-Hadoop-集群安全](https://toutiao.io/k/bkes0be)  
+- [2020-04-26-零信任理念有望缓解-fastjson-软件漏洞](https://toutiao.io/k/o3g911d)  
+- [2020-04-26-Spring-源码（八）：扩展点之-mybatis-集成](https://toutiao.io/k/m1946pk)  
+- [2020-04-26-Java-线程基础，从这篇开始](https://toutiao.io/k/xau7sqd)  
+- [2020-04-26-Spring-Boot-源码（九）：Spring-Boot-事件监听机制源码分析（上）](https://toutiao.io/k/63810bd)  
+- [2020-04-26-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（上）](https://toutiao.io/k/j65e29l)  
 - [2020-04-26-Stream-SQL-的执行原理与-Flink-的实现](https://toutiao.io/k/8luteij)  
 - [2020-04-26-当-Spring-Cloud-Alibaba-Sentinel-碰上-Spring-Cloud-Sleuth-会擦出怎样的火花](https://toutiao.io/k/lfwirjf)  
 - [2020-04-26-Lucene-索引文件的生成（十三）](https://toutiao.io/k/9sic9mi)  

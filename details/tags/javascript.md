@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -50,6 +50,7 @@
 - [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 
+- [2020-04-26-译Virtual-DOM-is-pure-overhead](https://juejin.im/post/5ea4095f5188257367223585) 
 - [2020-04-24-你真的了解浅比较么？PureComponent-和-shouldeComponentUpdate-解析](https://imweb.io/topic/598973c2c72aa8db35d2e291) 
 - [2020-04-24-Element-UI:-Message组件解读](https://juejin.im/post/5ea294e6f265da47cc02a671) 
 - [2020-04-24-前端面试的那些事儿~JavaScript-原始数据类型](https://juejin.im/post/5ea28187e51d4546e2639b49) 
@@ -71,6 +72,8 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-26-发布-1.0.0-版本：用于-Gin-和-net/http-的-gzip-中间件，再也不担心返回的-JSON-太大了](https://www.v2ex.com/t/666191) 
+- [2020-04-26-幕布-4-周年，用户注册可抽奖-1-次，注册送-30-天会员，抽奖送-30-天会员，还有抽-macbook-pro-和-airpods-机会不可能事件。](https://www.v2ex.com/t/666188) 
 - [2020-04-26-golang-菜鸡，想写一些常用的小组件](https://www.v2ex.com/t/666162) 
 - [2020-04-25-使用-JavaScript-解决导入-Excel-数据重复字段的问题。大约-40W-行数据](https://www.v2ex.com/t/666052) 
 - [2020-04-25-前端问一个无限滚动加载的问题](https://www.v2ex.com/t/666027) 

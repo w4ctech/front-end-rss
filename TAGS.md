@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,8 @@
 - [【凹凸实验室】Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/)
 - [【凹凸实验室】Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/)
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
+- [【掘金前端】V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)
+- [【掘金前端】Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
 - [【V2EX】nodejs-开发求带走](https://www.v2ex.com/t/666064)
 - [【V2EX】招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007)
@@ -478,9 +480,9 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】使用浏览器翻译后，代码被翻译的解决方案](https://www.v2ex.com/t/666189)
 - [【V2EX】求助：-SpringBoot-应用闲置一晚上后，第一次请求特别慢](https://www.v2ex.com/t/666138)
 - [【V2EX】三星安全文件夹无法登陆-Google-账号](https://www.v2ex.com/t/666128)
-- [【V2EX】Flask-的静态资源-URL-的-versioning-目前有官方支持的-best-practice-么？](https://www.v2ex.com/t/666124)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

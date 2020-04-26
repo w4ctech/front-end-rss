@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -32,6 +32,7 @@
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 
+- [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245) 
 - [2020-04-19-赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6) 
 - [2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
@@ -177,6 +178,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-26-最近-OneDirve-客户端国内访问是不是不稳定？](https://www.v2ex.com/t/666246) 
+- [2020-04-26-老哥们，想问一下在大连月薪-6k-是不是偏低，想跳](https://www.v2ex.com/t/666244) 
+- [2020-04-26-一个导出包内符号的合适的方法，用于-golang-工程](https://www.v2ex.com/t/666243) 
+- [2020-04-26-减脂期应该追踪身体的哪些维度呢？](https://www.v2ex.com/t/666242) 
+- [2020-04-26-求推荐给父母用的预算-5000-内的工作电脑](https://www.v2ex.com/t/666241) 
+- [2020-04-26-问个事情，习惯定期清理下微信好友，会不会对那些被我删除的人造成困恼？](https://www.v2ex.com/t/666240) 
 - [2020-04-26-在“程序员”下面创建主题被提示技术无关的敏感话题](https://www.v2ex.com/t/666238) 
 - [2020-04-26-张文宏科普成人应该打哪些疫苗](https://www.v2ex.com/t/666237) 
 - [2020-04-26-iPhone-se-2，交行买单吧立减-200，-12-期免息分期](https://www.v2ex.com/t/666236) 

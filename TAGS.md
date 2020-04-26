@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -400,6 +400,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】Base-武汉-音频算法，图像算法工程师岗招聘-武汉聚芯微电子](https://www.v2ex.com/t/666207)
 - [【V2EX】有偿求指导一下如何给视频加上盲水印？](https://www.v2ex.com/t/666002)
 - [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
 - [【V2EX】大家有在-Facebook-上面投放广告的呀，现在想问问有什么工具可以快速的做个广告小视频](https://www.v2ex.com/t/665905)
@@ -598,6 +599,7 @@
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】蚂蚁金服-OceanBase-2020-春季实习生招聘空中宣讲会开播啦！快来领取独家内推名额](https://www.v2ex.com/t/666204)
 - [【V2EX】华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177)
 - [【V2EX】看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122)
 - [【V2EX】请问阿里和蚂蚁的两个职位，可以同时走面试流程吗？](https://www.v2ex.com/t/666098)
@@ -608,7 +610,6 @@
 - [【V2EX】作为面试官，怎样的候选人你觉得优秀？](https://www.v2ex.com/t/665900)
 - [【V2EX】深圳腾讯后端开发工程师部门直招社会招聘](https://www.v2ex.com/t/665815)
 - [【V2EX】招聘贴-阿里健康校招-2021-毕业硕博](https://www.v2ex.com/t/665798)
-- [【V2EX】南京-南京网眼-招聘前端开发工程师](https://www.v2ex.com/t/665748)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

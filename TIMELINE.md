@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-26 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -379,6 +379,18 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-26-微信小程序问题求助:provisional-headers-are-shown](https://www.v2ex.com/t/666208) 
+- [【V2EX】2020-04-26-Base-武汉-音频算法，图像算法工程师岗招聘-武汉聚芯微电子](https://www.v2ex.com/t/666207) 
+- [【V2EX】2020-04-26-服务器-Linux-系统，那个版本好用，该如何选择](https://www.v2ex.com/t/666206) 
+- [【V2EX】2020-04-26-Alibaba-开源-LightProxy-发布-1.1.12-版，基于-Whistle-的桌面代理软件](https://www.v2ex.com/t/666205) 
+- [【V2EX】2020-04-26-蚂蚁金服-OceanBase-2020-春季实习生招聘空中宣讲会开播啦！快来领取独家内推名额](https://www.v2ex.com/t/666204) 
+- [【V2EX】2020-04-26-阿里云-ECS，-centos7.3-/bin/bash-丢失该如何排查怎么引起的问题](https://www.v2ex.com/t/666203) 
+- [【V2EX】2020-04-26-抽到消费券来使用的，有没有发现支付宝里的可用商家涨价了](https://www.v2ex.com/t/666202) 
+- [【V2EX】2020-04-26-求推荐一款支持-AirPod-Pro-的蓝牙-5.0-适配器](https://www.v2ex.com/t/666201) 
+- [【V2EX】2020-04-26-看了宁波买房贴，同问下，地处杭州，现在购房合适么](https://www.v2ex.com/t/666199) 
+- [【V2EX】2020-04-26-后端程序员兼职-JS-前端，有什么提高-js-前端开发速度的方式？](https://www.v2ex.com/t/666198) 
+- [【V2EX】2020-04-26-大家好，我想请教一下，-spark-邮箱有时候为什么无法准时收到或者回复邮件？不知道什么原因，现在貌似也无法添加-qq-邮箱。有什么方法解决吗？](https://www.v2ex.com/t/666197) 
+- [【V2EX】2020-04-26-小白提问：-vue-table-的-key](https://www.v2ex.com/t/666194) 
 - [【V2EX】2020-04-26-Dubbo+ZK+SpringBoot-微服务如何做权限控制](https://www.v2ex.com/t/666193) 
 - [【V2EX】2020-04-26-淘宝直播招渲染，游戏引擎，美颜美妆，音视频相关，-HC-不限！面试官面对面交流；](https://www.v2ex.com/t/666192) 
 - [【V2EX】2020-04-26-发布-1.0.0-版本：用于-Gin-和-net/http-的-gzip-中间件，再也不担心返回的-JSON-太大了](https://www.v2ex.com/t/666191) 
@@ -944,6 +956,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-26-Pornhub-第一位中文译者：如何给知名网站做本地化？](https://toutiao.io/k/22zw6pr) 
 - [【开发者头条】2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys) 
 - [【开发者头条】2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk) 
 - [【开发者头条】2020-04-26-初探-Hadoop-集群安全](https://toutiao.io/k/bkes0be) 

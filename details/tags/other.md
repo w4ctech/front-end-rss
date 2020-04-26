@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-26 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -170,6 +170,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-26-各位有想过万一你的-macbook-被偷了，该如何远程删除你的机上信息吗？](https://www.v2ex.com/t/666135) 
+- [2020-04-26-MBP-键盘问题送修-GeniusBar-取回后发现连接过不认识的-WiFi-是正常现象吗？](https://www.v2ex.com/t/666131) 
 - [2020-04-26-在网上找了个项目修改了一下作为毕业设计，结果和别人的重复了，代码重复度太高了](https://www.v2ex.com/t/666130) 
 - [2020-04-26-P2P-的文件同步软件](https://www.v2ex.com/t/666129) 
 - [2020-04-26-vanitygen-hd：比特币个性化-HD/HDM-钱包生成器](https://www.v2ex.com/t/666127) 

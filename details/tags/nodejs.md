@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 06:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 06:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -10,6 +10,9 @@
 - [2020-04-21-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67) 
 - [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
 - [2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232) 
+- [2020-04-22-Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a) 
+- [2020-04-20-看优酷-Nodejs-重构之路-Serverless-SSR-未来可期](https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac) 
+- [2020-04-20-期望与志同道合的你一起打造优质-Nodejs-技术栈交流群](https://www.ershicimi.com/p/e397b7029c793635bb8ac29758baa60d) 
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 - [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
 - [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 

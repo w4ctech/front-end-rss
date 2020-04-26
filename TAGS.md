@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 06:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 06:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -171,6 +171,9 @@
 - [【前端之巅】Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
 - [【程序员成长指北】我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232)
+- [【Nodejs技术栈】Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a)
+- [【Nodejs技术栈】看优酷-Nodejs-重构之路-Serverless-SSR-未来可期](https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac)
+- [【Nodejs技术栈】期望与志同道合的你一起打造优质-Nodejs-技术栈交流群](https://www.ershicimi.com/p/e397b7029c793635bb8ac29758baa60d)
 - [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
 - [【凹凸实验室】【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/)
 - [【凹凸实验室】跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/)
@@ -185,8 +188,6 @@
 - [【V2EX】招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007)
 - [【V2EX】成都居家办公-招-nodejs-后端开发人员，求大佬，详情见我发的招聘帖](https://www.v2ex.com/t/665951)
 - [【V2EX】成都-北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名（居家办公）](https://www.v2ex.com/t/665919)
-- [【开发者头条】2020-年-Node.js-开发者调查报告](https://toutiao.io/k/6h3w41s)
-- [【开发者头条】opa-koans：带你进入-OPA-的世界](https://toutiao.io/k/n65kirr)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

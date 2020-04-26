@@ -740,7 +740,23 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10545",
     "title": "Nodejs技术栈",
     "link": "https://www.ershicimi.com/a/10545",
-    "items": []
+    "items": [
+      {
+        "title": "Nodejs Stream pipe 的使用与实现原理分析",
+        "link": "https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "看优酷 Nodejs 重构之路 Serverless SSR 未来可期",
+        "link": "https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac",
+        "date": "2020-04-20"
+      },
+      {
+        "title": "期望与志同道合的你一起打造优质 Nodejs 技术栈交流群",
+        "link": "https://www.ershicimi.com/p/e397b7029c793635bb8ac29758baa60d",
+        "date": "2020-04-20"
+      }
+    ]
   },
   {
     "rss": "https://www.zhangxinxu.com/wordpress/feed/",
@@ -2840,6 +2856,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "中老年 IT 妇女 可以做点啥...",
+        "link": "https://www.v2ex.com/t/666452",
+        "date": "2020-04-27"
+      },
       {
         "title": "2020 年，有什么值得入手的 Mac 的 4k 显示器吗？",
         "link": "https://www.v2ex.com/t/666450",

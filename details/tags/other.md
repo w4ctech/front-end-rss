@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -189,6 +189,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-27-求主流芯片组-SATA-接口大于-8-个的主板推荐](https://www.v2ex.com/t/666443) 
+- [2020-04-27-我用过的最好的家宽---Verizon-FIOS，没有之一](https://www.v2ex.com/t/666442) 
+- [2020-04-27-现在比较好用的-ED2K-分享软件有哪些？](https://www.v2ex.com/t/666441) 
+- [2020-04-27-20200427-午夜俱乐部](https://www.v2ex.com/t/666440) 
 - [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438) 
 - [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437) 
 - [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436) 

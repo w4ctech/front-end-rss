@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 01:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 02:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -765,10 +765,14 @@
 </summary>
 
 
-- [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438) ![](assets/new.png)  
-- [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437) ![](assets/new.png)  
-- [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436) ![](assets/new.png)  
-- [2020-04-27-警惕购买小米巨能写中性笔](https://www.v2ex.com/t/666435) ![](assets/new.png)  
+- [2020-04-27-求主流芯片组-SATA-接口大于-8-个的主板推荐](https://www.v2ex.com/t/666443) ![](assets/new.png)  
+- [2020-04-27-我用过的最好的家宽---Verizon-FIOS，没有之一](https://www.v2ex.com/t/666442) ![](assets/new.png)  
+- [2020-04-27-现在比较好用的-ED2K-分享软件有哪些？](https://www.v2ex.com/t/666441) ![](assets/new.png)  
+- [2020-04-27-20200427-午夜俱乐部](https://www.v2ex.com/t/666440) ![](assets/new.png)  
+- [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438)  
+- [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437)  
+- [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436)  
+- [2020-04-27-警惕购买小米巨能写中性笔](https://www.v2ex.com/t/666435)  
 - [2020-04-27-某宝：看什么看，穷鬼，买不起就鳖浪费我服务器流量-:doge:](https://www.v2ex.com/t/666434)  
 - [2020-04-27-最近几个周末写了一个码农们都可以拿来耍耍的小工具-CommentInsight](https://www.v2ex.com/t/666433)  
 - [2020-04-27-一会儿学学这,一会儿学学那.](https://www.v2ex.com/t/666432)  
@@ -781,10 +785,6 @@
 - [2020-04-26-我又被因大流量断了宽带，求正面刚有效策略。](https://www.v2ex.com/t/666424)  
 - [2020-04-26-求职邮件正文大家都写东西吗](https://www.v2ex.com/t/666423)  
 - [2020-04-26-百度统计登陆的验证错位，几星期没修复](https://www.v2ex.com/t/666418)  
-- [2020-04-26-吃宵夜吃撑了还会按时睡觉吗？](https://www.v2ex.com/t/666417)  
-- [2020-04-26-内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)  
-- [2020-04-26-几乎是从来不联系的同学突然联系你，问在吗，你们都是怎么处理的？](https://www.v2ex.com/t/666415)  
-- [2020-04-26-请教一个-m3u8-下载的问题](https://www.v2ex.com/t/666414)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

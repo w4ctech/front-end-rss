@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-04-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-27-求主流芯片组-SATA-接口大于-8-个的主板推荐](https://www.v2ex.com/t/666443) 
+- [2020-04-27-我用过的最好的家宽---Verizon-FIOS，没有之一](https://www.v2ex.com/t/666442) 
+- [2020-04-27-现在比较好用的-ED2K-分享软件有哪些？](https://www.v2ex.com/t/666441) 
+- [2020-04-27-20200427-午夜俱乐部](https://www.v2ex.com/t/666440) 
 - [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438) 
 - [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437) 
 - [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-26 22:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 00:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -381,6 +381,7 @@
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】V-站头像是允许-JPG、PNG-和-GIF-的，但是实际上并不能使用-GIF](https://www.v2ex.com/t/666397)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -402,6 +403,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】Flash-直播怎么提取直播源地址呢？](https://www.v2ex.com/t/666387)
 - [【V2EX】分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)
 - [【V2EX】有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322)
 - [【V2EX】佳能医疗-求生物信息研究员、医学图像算法研究员、Bioinformatics-实习生！](https://www.v2ex.com/t/666319)
@@ -416,7 +418,6 @@
 - [【V2EX】楼顶晒衣服老是被偷，想装个摄像头在楼顶，有好的推荐吗](https://www.v2ex.com/t/665702)
 - [【V2EX】周末买个会员看视频拉~优酷爱奇艺价格低至-5,还有电视端,百度网盘等等](https://www.v2ex.com/t/665696)
 - [【V2EX】在线实时音频播放](https://www.v2ex.com/t/665608)
-- [【V2EX】这个图像怎么看起来很眼熟呢](https://www.v2ex.com/t/665568)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -486,9 +487,9 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】NAT-端口转发安全么](https://www.v2ex.com/t/666408)
 - [【V2EX】在-Linux-上如何监控-PHP-curl-对外请求的-HTTP-或者-HTTPS-域](https://www.v2ex.com/t/666380)
 - [【V2EX】edge-浏览器书签同步一坨乱啊](https://www.v2ex.com/t/666352)
-- [【V2EX】新浪短网址-t.cn-腾讯短网址-url.cn-官方生成-API](https://www.v2ex.com/t/666333)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -515,6 +516,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】百度云计算网络部_GPU-虚拟化技术资深工程师](https://www.v2ex.com/t/666400)
 - [【V2EX】作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382)
 - [【V2EX】为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)
 - [【V2EX】问境科技招贤纳士（北京/上海）招后端开发工程师、算法实习生、嵌入式、运维](https://www.v2ex.com/t/666315)
@@ -524,7 +526,6 @@
 - [【V2EX】刚刚看到好像-Microsoft-也用了-FastAPI](https://www.v2ex.com/t/665840)
 - [【V2EX】内推校招阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/665797)
 - [【V2EX】字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784)
-- [【V2EX】GVIM-显示中文有问题，-VIM-正常，终端也正常，大家碰到过吗？](https://www.v2ex.com/t/665757)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -544,6 +545,7 @@
 - [【前端开发】前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/ea679a267e08192aaa41298b6379cb0a)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【V2EX】Nginx-是否可以忽略部分错误日志？](https://www.v2ex.com/t/666385)
 - [【V2EX】ubuntu-怎么安装-docker-常规安装好像不行](https://www.v2ex.com/t/666338)
 - [【V2EX】求助：-docker-nginx-转发-同一台机器上-部署的-go-服务。](https://www.v2ex.com/t/666159)
 - [【V2EX】nginx-无法停止](https://www.v2ex.com/t/665936)
@@ -606,6 +608,8 @@
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)
+- [【V2EX】内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)
 - [【V2EX】京东深圳内推-招聘高级前端工程师](https://www.v2ex.com/t/666311)
 - [【V2EX】蚂蚁金服-OceanBase-2020-春季实习生招聘空中宣讲会开播啦！快来领取独家内推名额](https://www.v2ex.com/t/666204)
 - [【V2EX】华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177)
@@ -615,8 +619,6 @@
 - [【V2EX】说说面试遇到的奇葩事！](https://www.v2ex.com/t/666069)
 - [【V2EX】去大厂面试一定要问基础知识吗？](https://www.v2ex.com/t/666056)
 - [【V2EX】求问面试官/HR，社招怎么才算履历好？](https://www.v2ex.com/t/665997)
-- [【V2EX】作为面试官，怎样的候选人你觉得优秀？](https://www.v2ex.com/t/665900)
-- [【V2EX】深圳腾讯后端开发工程师部门直招社会招聘](https://www.v2ex.com/t/665815)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

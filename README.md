@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-26 22:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 00:30:20，:rocket: 更新条数: +44， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -50,10 +50,10 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -166,9 +166,9 @@
 </summary>
 
 
-- [2020-04-26-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27) ![](assets/new.png)  
-- [2020-04-26-面向对象：眼里是你，心里是你，余生请指教](https://www.ershicimi.com/p/43b944a886a82b7e7f374e4027b95813) ![](assets/new.png)  
-- [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) ![](assets/new.png)  
+- [2020-04-26-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27)  
+- [2020-04-26-面向对象：眼里是你，心里是你，余生请指教](https://www.ershicimi.com/p/43b944a886a82b7e7f374e4027b95813)  
+- [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c)  
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3)  
 - [2020-04-24-聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e)  
 - [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)  
@@ -734,10 +734,10 @@
 </summary>
 
 
-- [2020-04-26-本周知乎热榜-|-罗志祥瓜又增产，李国庆怒夺公章，华晨宇斩获歌王](https://www.ershicimi.com/p/d257253692576d6bce2fa674a5cbf3c9) ![](assets/new.png)  
-- [2020-04-26-有哪些能让手机更好用的隐藏小技巧？](https://www.ershicimi.com/p/1ed47f1372d5ee9527cf96345767a621) ![](assets/new.png)  
-- [2020-04-26-哪些被「吹上神坛」的电影你认为很一般？](https://www.ershicimi.com/p/8f45c9c4f11dc3cfcfc1c4046fd47267) ![](assets/new.png)  
-- [2020-04-26-知乎故事-|-你讨厌亲戚住自己家吗？](https://www.ershicimi.com/p/9ed2990353c2b0de35a314d79e66e2ff) ![](assets/new.png)  
+- [2020-04-26-本周知乎热榜-|-罗志祥瓜又增产，李国庆怒夺公章，华晨宇斩获歌王](https://www.ershicimi.com/p/d257253692576d6bce2fa674a5cbf3c9)  
+- [2020-04-26-有哪些能让手机更好用的隐藏小技巧？](https://www.ershicimi.com/p/1ed47f1372d5ee9527cf96345767a621)  
+- [2020-04-26-哪些被「吹上神坛」的电影你认为很一般？](https://www.ershicimi.com/p/8f45c9c4f11dc3cfcfc1c4046fd47267)  
+- [2020-04-26-知乎故事-|-你讨厌亲戚住自己家吗？](https://www.ershicimi.com/p/9ed2990353c2b0de35a314d79e66e2ff)  
 - [2020-04-25-知乎神吐槽-|-如果争宠的是一群男人会是怎样的画面？](https://www.ershicimi.com/p/da1c6b6d95fab743fbb40cdfd31a7ad8)  
 - [2020-04-25-昔日「御三家」如今六七八，Uzi-不在的-RNG-还是-RNG-吗？](https://www.ershicimi.com/p/4c0f8407873a19f81f7125ebf40a84f7)  
 - [2020-04-25-你的朋友圈，正在悄悄出卖你](https://www.ershicimi.com/p/88a259078a951f9f780a3d467ff32168)  
@@ -765,26 +765,26 @@
 </summary>
 
 
-- [2020-04-26-是该苟着还是辞职哎](https://www.v2ex.com/t/666384)  
-- [2020-04-26-作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382)  
-- [2020-04-26-有没有开发火电厂监控系统的小伙伴或者公司啊？这边有个项目](https://www.v2ex.com/t/666381)  
-- [2020-04-26-在-Linux-上如何监控-PHP-curl-对外请求的-HTTP-或者-HTTPS-域](https://www.v2ex.com/t/666380)  
-- [2020-04-26-刚进-V-社的体验！](https://www.v2ex.com/t/666379)  
-- [2020-04-26-dandang-现在内部员工，希望哪个人回来领导？](https://www.v2ex.com/t/666378)  
-- [2020-04-26-在-Apple-Music-上面，我要怎么知道我想听的歌是什么英文译名](https://www.v2ex.com/t/666374)  
-- [2020-04-26-西文周刊-·-第-7-期-如何避免无效头脑风暴](https://www.v2ex.com/t/666373)  
-- [2020-04-26-想在自己宿舍装个-V2ary-服务器。回家用，可行吗？](https://www.v2ex.com/t/666372)  
-- [2020-04-26-关于加班的问题，忍不住想吐槽下](https://www.v2ex.com/t/666371)  
-- [2020-04-26-一名成绩不好的高三学生求助贴](https://www.v2ex.com/t/666370)  
-- [2020-04-26-分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)  
-- [2020-04-26-学-dateformat-碰到的问题](https://www.v2ex.com/t/666368)  
-- [2020-04-26-为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)  
-- [2020-04-26-用-CNAME-接入百度云加速，结果-DNS-被改成它的了](https://www.v2ex.com/t/666365)  
-- [2020-04-26-2020-04-求个千元-wifi-6-路由器](https://www.v2ex.com/t/666364)  
-- [2020-04-26-杭州](https://www.v2ex.com/t/666363)  
-- [2020-04-26-JWT+redis-能替代-session-了吗？](https://www.v2ex.com/t/666361)  
-- [2020-04-26-上海毕业一年小白求各位大佬审阅简历](https://www.v2ex.com/t/666360)  
-- [2020-04-26-大批量-csv-导入-mysql-碰到-bit-字段就出错](https://www.v2ex.com/t/666359)  
+- [2020-04-27-某宝：看什么看，穷鬼，买不起就鳖浪费我服务器流量-:doge:](https://www.v2ex.com/t/666434) ![](assets/new.png)  
+- [2020-04-27-最近几个周末写了一个码农们都可以拿来耍耍的小工具-CommentInsight](https://www.v2ex.com/t/666433) ![](assets/new.png)  
+- [2020-04-27-一会儿学学这,一会儿学学那.](https://www.v2ex.com/t/666432) ![](assets/new.png)  
+- [2020-04-26-Golang-编译出现:-该版本的-%1-与你运行的-Windows-版本不兼容。请查看计算机的系统信息](https://www.v2ex.com/t/666431) ![](assets/new.png)  
+- [2020-04-26-极度厌恶工作和上司怎么办？](https://www.v2ex.com/t/666430) ![](assets/new.png)  
+- [2020-04-26-社招内推-阿里云-数据库团队-杭州](https://www.v2ex.com/t/666429) ![](assets/new.png)  
+- [2020-04-26-为什么-2020-年这么魔幻?](https://www.v2ex.com/t/666428) ![](assets/new.png)  
+- [2020-04-26-五一假期从杭州到南京](https://www.v2ex.com/t/666426) ![](assets/new.png)  
+- [2020-04-26-字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425) ![](assets/new.png)  
+- [2020-04-26-我又被因大流量断了宽带，求正面刚有效策略。](https://www.v2ex.com/t/666424) ![](assets/new.png)  
+- [2020-04-26-求职邮件正文大家都写东西吗](https://www.v2ex.com/t/666423) ![](assets/new.png)  
+- [2020-04-26-百度统计登陆的验证错位，几星期没修复](https://www.v2ex.com/t/666418) ![](assets/new.png)  
+- [2020-04-26-吃宵夜吃撑了还会按时睡觉吗？](https://www.v2ex.com/t/666417) ![](assets/new.png)  
+- [2020-04-26-内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416) ![](assets/new.png)  
+- [2020-04-26-几乎是从来不联系的同学突然联系你，问在吗，你们都是怎么处理的？](https://www.v2ex.com/t/666415) ![](assets/new.png)  
+- [2020-04-26-请教一个-m3u8-下载的问题](https://www.v2ex.com/t/666414) ![](assets/new.png)  
+- [2020-04-26-农村快递业发展前景怎么样？考虑在老家乡镇上做一个农村代理快递点。](https://www.v2ex.com/t/666413) ![](assets/new.png)  
+- [2020-04-26-想问一下，这些图标是什么字体。](https://www.v2ex.com/t/666412) ![](assets/new.png)  
+- [2020-04-26-PC-使用一段时间之后就变卡，如何找出原因？](https://www.v2ex.com/t/666411) ![](assets/new.png)  
+- [2020-04-26-Python-打包成应用程序](https://www.v2ex.com/t/666410) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -827,6 +827,7 @@
 </summary>
 
 
+- [2020-04-27-推荐-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt) ![](assets/new.png)  
 - [2020-04-26-Pornhub-第一位中文译者：如何给知名网站做本地化？](https://toutiao.io/k/22zw6pr)  
 - [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys)  
 - [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk)  
@@ -846,7 +847,6 @@
 - [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf)  
 - [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8)  
 - [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh)  
-- [2020-04-25-推荐-Go-的-Channel-很强大，理解其内在概念会让它更强大](https://toutiao.io/k/2dlr8a8)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

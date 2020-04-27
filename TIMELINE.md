@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -438,6 +438,12 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739) 
+- [【V2EX】2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738) 
+- [【V2EX】2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737) 
+- [【V2EX】2020-04-27-简单的微信小程序对-MAC-的硬件要求高嘛？](https://www.v2ex.com/t/666736) 
+- [【V2EX】2020-04-27-ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735) 
+- [【V2EX】2020-04-27-speedtest-上新增香港移动测速点，大家可以拿手里-vps-测试一下到香港移动的速度了](https://www.v2ex.com/t/666733) 
 - [【V2EX】2020-04-27-MySQL-使用-source-导入.sql-数据文件，如何处理主键重复记录？](https://www.v2ex.com/t/666730) 
 - [【V2EX】2020-04-27-能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729) 
 - [【V2EX】2020-04-27-坐标武汉,试用期不交五险一金,咋整?](https://www.v2ex.com/t/666728) 

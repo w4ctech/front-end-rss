@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 21:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 21:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -448,7 +448,7 @@
 </summary>
 
 
-- [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) ![](assets/new.png)  
+- [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)  
 - [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
 - [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)  
@@ -783,26 +783,26 @@
 </summary>
 
 
-- [2020-04-27-MySQL-使用-source-导入.sql-数据文件，如何处理主键重复记录？](https://www.v2ex.com/t/666730) ![](assets/new.png)  
-- [2020-04-27-能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729) ![](assets/new.png)  
-- [2020-04-27-坐标武汉,试用期不交五险一金,咋整?](https://www.v2ex.com/t/666728) ![](assets/new.png)  
-- [2020-04-27-Java-能把代码块当参数传递到其他方法并执行吗？](https://www.v2ex.com/t/666727) ![](assets/new.png)  
-- [2020-04-27-刚看-B-站党妹说自建的-NAS-被爆了](https://www.v2ex.com/t/666726) ![](assets/new.png)  
-- [2020-04-27-深圳联通宽带，能否申请-ipv4-的公网-ip，电信是可以的，但是价格贵的-1B](https://www.v2ex.com/t/666723) ![](assets/new.png)  
-- [2020-04-27-求问哪里能买到比较靠谱点的世纪互联账号](https://www.v2ex.com/t/666722) ![](assets/new.png)  
-- [2020-04-27-segmentfault-技术栈是什么?](https://www.v2ex.com/t/666721) ![](assets/new.png)  
-- [2020-04-27-少核高频不如多核低频？](https://www.v2ex.com/t/666720) ![](assets/new.png)  
-- [2020-04-27-震惊！-S8-世界冠军和-S9-世界冠军在-LPL-争夺-S10-春季赛季军！](https://www.v2ex.com/t/666717) ![](assets/new.png)  
+- [2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739) ![](assets/new.png)  
+- [2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738) ![](assets/new.png)  
+- [2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737) ![](assets/new.png)  
+- [2020-04-27-简单的微信小程序对-MAC-的硬件要求高嘛？](https://www.v2ex.com/t/666736) ![](assets/new.png)  
+- [2020-04-27-ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735) ![](assets/new.png)  
+- [2020-04-27-speedtest-上新增香港移动测速点，大家可以拿手里-vps-测试一下到香港移动的速度了](https://www.v2ex.com/t/666733) ![](assets/new.png)  
+- [2020-04-27-MySQL-使用-source-导入.sql-数据文件，如何处理主键重复记录？](https://www.v2ex.com/t/666730)  
+- [2020-04-27-能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)  
+- [2020-04-27-坐标武汉,试用期不交五险一金,咋整?](https://www.v2ex.com/t/666728)  
+- [2020-04-27-Java-能把代码块当参数传递到其他方法并执行吗？](https://www.v2ex.com/t/666727)  
+- [2020-04-27-刚看-B-站党妹说自建的-NAS-被爆了](https://www.v2ex.com/t/666726)  
+- [2020-04-27-深圳联通宽带，能否申请-ipv4-的公网-ip，电信是可以的，但是价格贵的-1B](https://www.v2ex.com/t/666723)  
+- [2020-04-27-求问哪里能买到比较靠谱点的世纪互联账号](https://www.v2ex.com/t/666722)  
+- [2020-04-27-segmentfault-技术栈是什么?](https://www.v2ex.com/t/666721)  
+- [2020-04-27-少核高频不如多核低频？](https://www.v2ex.com/t/666720)  
+- [2020-04-27-震惊！-S8-世界冠军和-S9-世界冠军在-LPL-争夺-S10-春季赛季军！](https://www.v2ex.com/t/666717)  
 - [2020-04-27-极客返利|专做网课返利、返现](https://www.v2ex.com/t/666716)  
 - [2020-04-27-未登陆百-du-等一些网站，却被推送与搜索内容相关的广告，怎么做到的？](https://www.v2ex.com/t/666715)  
 - [2020-04-27-50-70-人的互联网公司寻求一款高效办公-app/套件，下面这几个哪个好？](https://www.v2ex.com/t/666714)  
 - [2020-04-27-Android-上-QQ-居然占用了-20G-空间](https://www.v2ex.com/t/666713)  
-- [2020-04-27-为-V2EX-用户谋个福利，-ShowMeBug-客户上榜计划（赠送-10-个年付费用户）](https://www.v2ex.com/t/666712)  
-- [2020-04-27-做了一个-JDK-的镜像分发站-www.injdk.cn](https://www.v2ex.com/t/666711)  
-- [2020-04-27-OneDrive-似乎在部分地区被解析到-127.0.0.1-了？](https://www.v2ex.com/t/666710)  
-- [2020-04-27-2020-年了，-QQ-for-macOS-仍然对深色模式有-bug](https://www.v2ex.com/t/666709)  
-- [2020-04-27-宝能汽车智能网联研究院-内推：-Java-、Web-前端、嵌入式开发、大数据、信息安全、数据智能、测试。传统企业按计划推进每一项工作，加班少！](https://www.v2ex.com/t/666708)  
-- [2020-04-27-美末-2-遭员工泄漏](https://www.v2ex.com/t/666707)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

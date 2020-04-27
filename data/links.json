@@ -557,6 +557,11 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成",
+        "link": "https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89",
+        "date": "2020-04-27"
+      },
+      {
         "title": "移动端体验优化经验总结与实践",
         "link": "https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb",
         "date": "2020-04-26"
@@ -7210,6 +7215,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[译] 最 Cool Kubernetes 网络方案 Cilium 入门教程",
+        "link": "https://toutiao.io/k/pabcvyq",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Prometheus + Grafana 监控整个 Linux 网络栈",
+        "link": "https://toutiao.io/k/4liyibg",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "打造云原生大型分布式监控系统： Thanos 部署与实践",
+        "link": "https://toutiao.io/k/4ti2zcc",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "迎接 Vue 3.0：在 Vue 2 与 Vue 3 中构建相同的组件",
+        "link": "https://toutiao.io/k/adiubjg",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "为流媒体而生的 MSE API",
+        "link": "https://toutiao.io/k/slhvdn8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "谈谈 JavaScript 中的变量升级",
+        "link": "https://toutiao.io/k/ac6dbgy",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "闲谈软件系统中的复杂度",
+        "link": "https://toutiao.io/k/2oazlbi",
+        "date": "2020-04-27"
+      },
       {
         "title": "在 Win10 的 WSL 中设置前端开发环境",
         "link": "https://toutiao.io/k/eh6n9z6",

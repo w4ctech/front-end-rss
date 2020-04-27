@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 13:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -213,6 +213,7 @@
 - [【前端迷】2020-04-18-Web前端性能优化原理问题](https://www.ershicimi.com/p/24fc2a2edd2bbb1cac8f447e46db8ee1) 
 - [【前端迷】2020-04-18-一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779) 
 - [【前端迷】2020-04-17-vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02) 
+- [【全栈前端精选】2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89) 
 - [【全栈前端精选】2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb) 
 - [【全栈前端精选】2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245) 
 - [【全栈前端精选】2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4) 
@@ -1273,6 +1274,13 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq) 
+- [【开发者头条】2020-04-27-Prometheus-+-Grafana-监控整个-Linux-网络栈](https://toutiao.io/k/4liyibg) 
+- [【开发者头条】2020-04-27-打造云原生大型分布式监控系统：-Thanos-部署与实践](https://toutiao.io/k/4ti2zcc) 
+- [【开发者头条】2020-04-27-迎接-Vue-3.0：在-Vue-2-与-Vue-3-中构建相同的组件](https://toutiao.io/k/adiubjg) 
+- [【开发者头条】2020-04-27-为流媒体而生的-MSE-API](https://toutiao.io/k/slhvdn8) 
+- [【开发者头条】2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy) 
+- [【开发者头条】2020-04-27-闲谈软件系统中的复杂度](https://toutiao.io/k/2oazlbi) 
 - [【开发者头条】2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6) 
 - [【开发者头条】2020-04-27-通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj) 
 - [【开发者头条】2020-04-27-面试官：Spring-Boot-中关于日志工具的使用，我想问你几个常见问题](https://toutiao.io/k/hgefq69) 

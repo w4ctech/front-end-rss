@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -50,4 +50,5 @@
 - [2020-04-26-小白提问：-vue-table-的-key](https://www.v2ex.com/t/666194) 
 - [2020-04-24-尝试用-Vue.js-开发网页小游戏的过程](https://www.v2ex.com/t/665644) 
 - [2020-04-24-springboot-&-vue.js-搭建的前后端分离管理后台~](https://www.v2ex.com/t/665612) 
+- [2020-04-27-迎接-Vue-3.0：在-Vue-2-与-Vue-3-中构建相同的组件](https://toutiao.io/k/adiubjg) 
 - [2020-04-24-推荐-我总结了-12-个-Vue.js-开发技巧和窍门](https://toutiao.io/k/gkuojua) 

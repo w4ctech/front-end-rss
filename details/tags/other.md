@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -34,6 +34,7 @@
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 
+- [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89) 
 - [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245) 
 - [2020-04-19-赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6) 
 - [2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935) 
@@ -852,6 +853,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq) 
+- [2020-04-27-Prometheus-+-Grafana-监控整个-Linux-网络栈](https://toutiao.io/k/4liyibg) 
+- [2020-04-27-打造云原生大型分布式监控系统：-Thanos-部署与实践](https://toutiao.io/k/4ti2zcc) 
+- [2020-04-27-为流媒体而生的-MSE-API](https://toutiao.io/k/slhvdn8) 
+- [2020-04-27-闲谈软件系统中的复杂度](https://toutiao.io/k/2oazlbi) 
 - [2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6) 
 - [2020-04-27-Awk-这件上古神兵你会用了吗？](https://toutiao.io/k/79jppjo) 
 - [2020-04-27-Linux-命令记不住？试试这款-Linux-命令大全搜索工具](https://toutiao.io/k/qny4oo3) 

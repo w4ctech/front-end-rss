@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -106,6 +106,8 @@
 - [2020-04-19-你也是一边想要放弃，一边进步吗？](https://www.ershicimi.com/p/830ac98b11dba8de5c5a89af30838c9d) 
 - [2020-04-19-CML-源码剖析系列-前言](https://www.ershicimi.com/p/057f43052c2caeddd2aa1a2230b4c315) 
 - [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
+- [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 
+- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 
 - [2020-04-26-BAT互联网大厂的后端主流技术栈是啥？](https://www.ershicimi.com/p/4c56dd9a09b7b31dc8dc9329231e7bca) 
 - [2020-04-26-老板说，我请你来，不是叫你"无脑"拷贝的，竟然在线上搞出这么大的一个BUG...](https://www.ershicimi.com/p/8509d00eca3f7f3f1f80d514317a61b4) 
 - [2020-04-26-原来这才是-Kafka！（多图+深入）](https://www.ershicimi.com/p/292e7399076afb1a35e71e0971e294a1) 
@@ -190,6 +192,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457) 
+- [2020-04-27-请问现在哪些相机-APP-能把照片转换成漫画风格，时光相册以前可以现在那个滤镜不见了](https://www.v2ex.com/t/666456) 
+- [2020-04-27-培训班出身，个人很迷茫，请大家指点一下。](https://www.v2ex.com/t/666455) 
 - [2020-04-27-5-年前的微信聊天记录备份文件如下，有大佬知道怎么恢复么？跪求](https://www.v2ex.com/t/666453) 
 - [2020-04-27-中老年-IT-妇女-可以做点啥...](https://www.v2ex.com/t/666452) 
 - [2020-04-27-2020-年，有什么值得入手的-Mac-的-4k-显示器吗？](https://www.v2ex.com/t/666450) 

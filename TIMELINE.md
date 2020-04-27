@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 08:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -274,6 +274,9 @@
 - [【奇舞周刊】2020-04-19-CML-源码剖析系列-前言](https://www.ershicimi.com/p/057f43052c2caeddd2aa1a2230b4c315) 
 - [【奇舞周刊】2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
 - [【奇舞周刊】2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
+- [【前端日刊】2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 
+- [【前端日刊】2020-04-24-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30) 
+- [【前端日刊】2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 
 - [【前端日刊】2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [【前端日刊】2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca) 
 - [【互联网架构师】2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
@@ -407,6 +410,9 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457) 
+- [【V2EX】2020-04-27-请问现在哪些相机-APP-能把照片转换成漫画风格，时光相册以前可以现在那个滤镜不见了](https://www.v2ex.com/t/666456) 
+- [【V2EX】2020-04-27-培训班出身，个人很迷茫，请大家指点一下。](https://www.v2ex.com/t/666455) 
 - [【V2EX】2020-04-27-有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454) 
 - [【V2EX】2020-04-27-5-年前的微信聊天记录备份文件如下，有大佬知道怎么恢复么？跪求](https://www.v2ex.com/t/666453) 
 - [【V2EX】2020-04-27-中老年-IT-妇女-可以做点啥...](https://www.v2ex.com/t/666452) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) ![](assets/new.png)  
-- [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a) ![](assets/new.png)  
+- [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
+- [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)  
 - [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)  
@@ -533,6 +533,9 @@
 </summary>
 
 
+- [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) ![](assets/new.png)  
+- [2020-04-24-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30) ![](assets/new.png)  
+- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) ![](assets/new.png)  
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf)  
 - [2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca)  
 - [......【查看更多】......](./details/前端日刊.md)
@@ -771,8 +774,11 @@
 </summary>
 
 
-- [2020-04-27-有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454) ![](assets/new.png)  
-- [2020-04-27-5-年前的微信聊天记录备份文件如下，有大佬知道怎么恢复么？跪求](https://www.v2ex.com/t/666453) ![](assets/new.png)  
+- [2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457) ![](assets/new.png)  
+- [2020-04-27-请问现在哪些相机-APP-能把照片转换成漫画风格，时光相册以前可以现在那个滤镜不见了](https://www.v2ex.com/t/666456) ![](assets/new.png)  
+- [2020-04-27-培训班出身，个人很迷茫，请大家指点一下。](https://www.v2ex.com/t/666455) ![](assets/new.png)  
+- [2020-04-27-有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)  
+- [2020-04-27-5-年前的微信聊天记录备份文件如下，有大佬知道怎么恢复么？跪求](https://www.v2ex.com/t/666453)  
 - [2020-04-27-中老年-IT-妇女-可以做点啥...](https://www.v2ex.com/t/666452)  
 - [2020-04-27-2020-年，有什么值得入手的-Mac-的-4k-显示器吗？](https://www.v2ex.com/t/666450)  
 - [2020-04-27-笔记本突然断电是怎么回事？](https://www.v2ex.com/t/666449)  
@@ -788,9 +794,6 @@
 - [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436)  
 - [2020-04-27-警惕购买小米巨能写中性笔](https://www.v2ex.com/t/666435)  
 - [2020-04-27-某宝：看什么看，穷鬼，买不起就鳖浪费我服务器流量-:doge:](https://www.v2ex.com/t/666434)  
-- [2020-04-27-最近几个周末写了一个码农们都可以拿来耍耍的小工具-CommentInsight](https://www.v2ex.com/t/666433)  
-- [2020-04-27-一会儿学学这,一会儿学学那.](https://www.v2ex.com/t/666432)  
-- [2020-04-26-Golang-编译出现:-该版本的-%1-与你运行的-Windows-版本不兼容。请查看计算机的系统信息](https://www.v2ex.com/t/666431)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

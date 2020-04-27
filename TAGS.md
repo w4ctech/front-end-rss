@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,6 +404,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488)
+- [【V2EX】为什么国内的视频-app-如腾讯视频，-爱奇艺等-，-不做像油管那种双击快进或快退的功能呢？](https://www.v2ex.com/t/666483)
 - [【V2EX】Flash-直播怎么提取直播源地址呢？](https://www.v2ex.com/t/666387)
 - [【V2EX】分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)
 - [【V2EX】有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322)
@@ -417,8 +419,6 @@
 - [【V2EX】关于阿里的视频隐形水印](https://www.v2ex.com/t/665812)
 - [【V2EX】看到个天猫精灵玩儿你想我猜的视频-求科普原理](https://www.v2ex.com/t/665811)
 - [【V2EX】楼顶晒衣服老是被偷，想装个摄像头在楼顶，有好的推荐吗](https://www.v2ex.com/t/665702)
-- [【V2EX】周末买个会员看视频拉~优酷爱奇艺价格低至-5,还有电视端,百度网盘等等](https://www.v2ex.com/t/665696)
-- [【V2EX】在线实时音频播放](https://www.v2ex.com/t/665608)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,6 +517,8 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】elasticsearch-的-snapshot-居然不能合并！那我怎样将另一台服务器索引添加进来？](https://www.v2ex.com/t/666477)
+- [【V2EX】滴滴出行-北京、杭州-前端/算法/Android/Go/-Java-/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/666466)
 - [【V2EX】百度云计算网络部_GPU-虚拟化技术资深工程师](https://www.v2ex.com/t/666400)
 - [【V2EX】作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382)
 - [【V2EX】为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)
@@ -525,8 +527,6 @@
 - [【V2EX】brew-elastic/tap-巨慢](https://www.v2ex.com/t/666038)
 - [【V2EX】Lastpass-在-V2EX-的登录页无法自动填写，你们是怎么解决的？](https://www.v2ex.com/t/665970)
 - [【V2EX】刚刚看到好像-Microsoft-也用了-FastAPI](https://www.v2ex.com/t/665840)
-- [【V2EX】内推校招阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/665797)
-- [【V2EX】字节跳动-动物森友会任意道具-or-宝可梦任意-pokemon-求换算法-or-nlp-or-后端研发简历，救救孩子](https://www.v2ex.com/t/665784)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -610,6 +610,7 @@
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】字节跳动春招投递-3-天截止！日常实习长期招聘中](https://www.v2ex.com/t/666465)
 - [【V2EX】有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)
 - [【V2EX】字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)
 - [【V2EX】内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)
@@ -620,7 +621,6 @@
 - [【V2EX】请问阿里和蚂蚁的两个职位，可以同时走面试流程吗？](https://www.v2ex.com/t/666098)
 - [【V2EX】技术面试必备基础知识](https://www.v2ex.com/t/666094)
 - [【V2EX】说说面试遇到的奇葩事！](https://www.v2ex.com/t/666069)
-- [【V2EX】去大厂面试一定要问基础知识吗？](https://www.v2ex.com/t/666056)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

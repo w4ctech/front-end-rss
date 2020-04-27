@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,6 +17,8 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-04-27-elasticsearch-的-snapshot-居然不能合并！那我怎样将另一台服务器索引添加进来？](https://www.v2ex.com/t/666477) 
+- [2020-04-27-滴滴出行-北京、杭州-前端/算法/Android/Go/-Java-/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/666466) 
 - [2020-04-26-百度云计算网络部_GPU-虚拟化技术资深工程师](https://www.v2ex.com/t/666400) 
 - [2020-04-26-作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382) 
 - [2020-04-26-为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366) 

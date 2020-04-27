@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 02:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 03:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -783,11 +783,12 @@
 </summary>
 
 
-- [2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786) ![](assets/new.png)  
-- [2020-04-28-最近在看前端的机会](https://www.v2ex.com/t/666785) ![](assets/new.png)  
-- [2020-04-28-求建议-黑苹果向的台式主机配置](https://www.v2ex.com/t/666784) ![](assets/new.png)  
-- [2020-04-28-求助，刚更新完-MIUI12](https://www.v2ex.com/t/666783) ![](assets/new.png)  
-- [2020-04-28-分布式，中-两阶段提交，-tcc，处理的是同一个数据的不同副本，还是同一个业务的不同数据](https://www.v2ex.com/t/666782) ![](assets/new.png)  
+- [2020-04-28-苹果恶心开发者](https://www.v2ex.com/t/666788) ![](assets/new.png)  
+- [2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786)  
+- [2020-04-28-最近在看前端的机会](https://www.v2ex.com/t/666785)  
+- [2020-04-28-求建议-黑苹果向的台式主机配置](https://www.v2ex.com/t/666784)  
+- [2020-04-28-求助，刚更新完-MIUI12](https://www.v2ex.com/t/666783)  
+- [2020-04-28-分布式，中-两阶段提交，-tcc，处理的是同一个数据的不同副本，还是同一个业务的不同数据](https://www.v2ex.com/t/666782)  
 - [2020-04-28-referrerpolicy="no-referrer"与反反防盗链](https://www.v2ex.com/t/666780)  
 - [2020-04-28-求助：用-idea-写-servlet-连接不上数据库](https://www.v2ex.com/t/666778)  
 - [2020-04-28-什么是最终一致性，有点混淆，谢谢](https://www.v2ex.com/t/666777)  
@@ -802,7 +803,6 @@
 - [2020-04-27-米-6-用户刚更新-MIUI12，说下体验。欢迎尝鲜的同学来讨论。](https://www.v2ex.com/t/666766)  
 - [2020-04-27-突然发现在新设备上安装的-Nplayer-plus-验证通不过了？有-V-友遇到同样的问题吗？](https://www.v2ex.com/t/666763)  
 - [2020-04-27-峰值-5000-并发量的服务器需要什么配置比较合理？](https://www.v2ex.com/t/666761)  
-- [2020-04-27-现在考研转计算机是一个明智的选择吗（就业角度）？](https://www.v2ex.com/t/666760)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

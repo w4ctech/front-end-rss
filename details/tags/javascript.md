@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -51,6 +51,8 @@
 - [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 
+- [2020-04-27-【译】JavaScript中的call,apply,bind](https://juejin.im/post/5ea590b86fb9a03c6d3dbf10) 
+- [2020-04-27-💖CSS-+-JS-送学妹满屏幕小爱心](https://juejin.im/post/5ea63459e51d45791809734b) 
 - [2020-04-27-JS-图片简易压缩](https://juejin.im/post/5ea574cc518825736e57fcca) 
 - [2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b) 
 - [2020-04-26-JavaScript模块化历程](https://juejin.im/post/5ea56d2451882573883be5ae) 

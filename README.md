@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 10:00:21，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 10:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -639,6 +639,9 @@
 </summary>
 
 
+- [2020-04-27-【译】JavaScript中的call,apply,bind](https://juejin.im/post/5ea590b86fb9a03c6d3dbf10) ![](assets/new.png)  
+- [2020-04-27-Webpack-实战入门系列（三）：生产配置、样式文件分离及输出清理](https://juejin.im/post/5e8dc469f265da480e68d70a) ![](assets/new.png)  
+- [2020-04-27-💖CSS-+-JS-送学妹满屏幕小爱心](https://juejin.im/post/5ea63459e51d45791809734b) ![](assets/new.png)  
 - [2020-04-27-JS-图片简易压缩](https://juejin.im/post/5ea574cc518825736e57fcca)  
 - [2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b)  
 - [2020-04-26-学了-gulp-想练练手？正好压缩下你的博客](https://juejin.im/post/5ea52a50e51d4547126406ca)  
@@ -656,9 +659,6 @@
 - [2020-04-25-第五期-|-前端监控怎么玩？](https://juejin.im/post/5ea3eb326fb9a03c485791f9)  
 - [2020-04-25-前端进阶序章](https://juejin.im/post/5ea376fb6fb9a03c8a416259)  
 - [2020-04-25-插件封装｜封装一个属于自己的轮播图插件——左右切换版](https://juejin.im/post/5ea3098451882573bc7c3067)  
-- [2020-04-25-React中是如何通过$$typeof防止XSS攻击的](https://juejin.im/post/5ea26f1e51882573bf17a830)  
-- [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)  
-- [2020-04-25-基于react搭建一个通用的表单管理配置平台（vue同）](https://juejin.im/post/5ea1af9f518825737a316cc3)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -774,26 +774,26 @@
 </summary>
 
 
-- [2020-04-27-页面内实现“预览/编辑”有什么思路吗？](https://www.v2ex.com/t/666490) ![](assets/new.png)  
-- [2020-04-27-国行-Air3](https://www.v2ex.com/t/666489) ![](assets/new.png)  
-- [2020-04-27-RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488) ![](assets/new.png)  
-- [2020-04-27-轻量好用的-Python-开源自动化运维平台](https://www.v2ex.com/t/666487) ![](assets/new.png)  
-- [2020-04-27-来测试一下-IP-定位吧](https://www.v2ex.com/t/666486) ![](assets/new.png)  
-- [2020-04-27-一个正常上班的本科生，靠积分政策可以落户北京吗？](https://www.v2ex.com/t/666485) ![](assets/new.png)  
-- [2020-04-27-为什么国内的视频-app-如腾讯视频，-爱奇艺等-，-不做像油管那种双击快进或快退的功能呢？](https://www.v2ex.com/t/666483) ![](assets/new.png)  
-- [2020-04-27-不得不感慨电信-360-无线家宽是真的稳](https://www.v2ex.com/t/666482) ![](assets/new.png)  
-- [2020-04-27-权限问题](https://www.v2ex.com/t/666481) ![](assets/new.png)  
-- [2020-04-27-大家帮我看看这台-MBP-还能值多少？](https://www.v2ex.com/t/666480) ![](assets/new.png)  
-- [2020-04-27-云闪付新用户注册领-2020-无门槛红包](https://www.v2ex.com/t/666479) ![](assets/new.png)  
-- [2020-04-27-s](https://www.v2ex.com/t/666478) ![](assets/new.png)  
-- [2020-04-27-elasticsearch-的-snapshot-居然不能合并！那我怎样将另一台服务器索引添加进来？](https://www.v2ex.com/t/666477) ![](assets/new.png)  
-- [2020-04-27-想入手-niz-plum-的静电容的小键盘，请教一下，现代键盘输入，-PrtSc,-ScrLk,-Pause,-Insert-使用频率如何？](https://www.v2ex.com/t/666475) ![](assets/new.png)  
-- [2020-04-27-互联网服务的注销账户，现阶段（全球范围内）是不是只能做到隐藏账户？](https://www.v2ex.com/t/666474) ![](assets/new.png)  
-- [2020-04-27-求助，-2017-款丐中丐本子，搭配哪一种-wins-to-go-方案不发热啊？急急急急急急急！](https://www.v2ex.com/t/666473) ![](assets/new.png)  
-- [2020-04-27-云闪付新用户最高领-2020-元无门槛红包](https://www.v2ex.com/t/666472) ![](assets/new.png)  
-- [2020-04-27-说一下，郑州有家本土房地产开发商应该要不行了，这应该是第一家，但不是最后一家吧](https://www.v2ex.com/t/666471) ![](assets/new.png)  
-- [2020-04-27-杭州|北京-简单，真诚「芝麻信用前端团队」巨量-HC-🔥🔥急聘🔥🔥！](https://www.v2ex.com/t/666470) ![](assets/new.png)  
-- [2020-04-27-各位下班时间都做点什么呢?有没有推荐的业余爱好](https://www.v2ex.com/t/666469) ![](assets/new.png)  
+- [2020-04-27-页面内实现“预览/编辑”有什么思路吗？](https://www.v2ex.com/t/666490)  
+- [2020-04-27-国行-Air3](https://www.v2ex.com/t/666489)  
+- [2020-04-27-RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488)  
+- [2020-04-27-轻量好用的-Python-开源自动化运维平台](https://www.v2ex.com/t/666487)  
+- [2020-04-27-来测试一下-IP-定位吧](https://www.v2ex.com/t/666486)  
+- [2020-04-27-一个正常上班的本科生，靠积分政策可以落户北京吗？](https://www.v2ex.com/t/666485)  
+- [2020-04-27-为什么国内的视频-app-如腾讯视频，-爱奇艺等-，-不做像油管那种双击快进或快退的功能呢？](https://www.v2ex.com/t/666483)  
+- [2020-04-27-不得不感慨电信-360-无线家宽是真的稳](https://www.v2ex.com/t/666482)  
+- [2020-04-27-权限问题](https://www.v2ex.com/t/666481)  
+- [2020-04-27-大家帮我看看这台-MBP-还能值多少？](https://www.v2ex.com/t/666480)  
+- [2020-04-27-云闪付新用户注册领-2020-无门槛红包](https://www.v2ex.com/t/666479)  
+- [2020-04-27-s](https://www.v2ex.com/t/666478)  
+- [2020-04-27-elasticsearch-的-snapshot-居然不能合并！那我怎样将另一台服务器索引添加进来？](https://www.v2ex.com/t/666477)  
+- [2020-04-27-想入手-niz-plum-的静电容的小键盘，请教一下，现代键盘输入，-PrtSc,-ScrLk,-Pause,-Insert-使用频率如何？](https://www.v2ex.com/t/666475)  
+- [2020-04-27-互联网服务的注销账户，现阶段（全球范围内）是不是只能做到隐藏账户？](https://www.v2ex.com/t/666474)  
+- [2020-04-27-求助，-2017-款丐中丐本子，搭配哪一种-wins-to-go-方案不发热啊？急急急急急急急！](https://www.v2ex.com/t/666473)  
+- [2020-04-27-云闪付新用户最高领-2020-元无门槛红包](https://www.v2ex.com/t/666472)  
+- [2020-04-27-说一下，郑州有家本土房地产开发商应该要不行了，这应该是第一家，但不是最后一家吧](https://www.v2ex.com/t/666471)  
+- [2020-04-27-杭州|北京-简单，真诚「芝麻信用前端团队」巨量-HC-🔥🔥急聘🔥🔥！](https://www.v2ex.com/t/666470)  
+- [2020-04-27-各位下班时间都做点什么呢?有没有推荐的业余爱好](https://www.v2ex.com/t/666469)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

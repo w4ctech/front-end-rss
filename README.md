@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 23:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 00:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -783,8 +783,16 @@
 </summary>
 
 
-- [2020-04-27-突然发现在新设备上安装的-Nplayer-plus-验证通不过了？有-V-友遇到同样的问题吗？](https://www.v2ex.com/t/666763) ![](assets/new.png)  
-- [2020-04-27-峰值-5000-并发量的服务器需要什么配置比较合理？](https://www.v2ex.com/t/666761) ![](assets/new.png)  
+- [2020-04-28-疫情期间，主动拿被裁名额还是继续苟着这份也会要走的工作？](https://www.v2ex.com/t/666775) ![](assets/new.png)  
+- [2020-04-28-Alfred-mega-supporter-转让](https://www.v2ex.com/t/666774) ![](assets/new.png)  
+- [2020-04-28-应届毕业生-offer-选择，求给个建议](https://www.v2ex.com/t/666772) ![](assets/new.png)  
+- [2020-04-28-有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770) ![](assets/new.png)  
+- [2020-04-28-macOS-下有什么好用的看图软件吗？](https://www.v2ex.com/t/666769) ![](assets/new.png)  
+- [2020-04-27-cap-中的-C-和-分布式、集群的关系-有点混淆-谢谢](https://www.v2ex.com/t/666768) ![](assets/new.png)  
+- [2020-04-27-吐槽一下微信入群二维码被“撞库”](https://www.v2ex.com/t/666767) ![](assets/new.png)  
+- [2020-04-27-米-6-用户刚更新-MIUI12，说下体验。欢迎尝鲜的同学来讨论。](https://www.v2ex.com/t/666766) ![](assets/new.png)  
+- [2020-04-27-突然发现在新设备上安装的-Nplayer-plus-验证通不过了？有-V-友遇到同样的问题吗？](https://www.v2ex.com/t/666763)  
+- [2020-04-27-峰值-5000-并发量的服务器需要什么配置比较合理？](https://www.v2ex.com/t/666761)  
 - [2020-04-27-现在考研转计算机是一个明智的选择吗（就业角度）？](https://www.v2ex.com/t/666760)  
 - [2020-04-27-抓包?-怎么破](https://www.v2ex.com/t/666759)  
 - [2020-04-27-ITX-黑苹果配置求教！自己看了好多天总结了一套-大伙儿给看看](https://www.v2ex.com/t/666758)  
@@ -795,14 +803,6 @@
 - [2020-04-27-推荐几款适合博客的免费-WordPress-主题模板](https://www.v2ex.com/t/666750)  
 - [2020-04-27-flask-伪静态的问题](https://www.v2ex.com/t/666749)  
 - [2020-04-27-现在自己搭-tttttiiizzziii-风险怎么样，还划算吗？](https://www.v2ex.com/t/666748)  
-- [2020-04-27-北京社招京东后端开发工程师-商业化方向](https://www.v2ex.com/t/666747)  
-- [2020-04-27-mac-时光机备份恢复-200g-需要多久？](https://www.v2ex.com/t/666746)  
-- [2020-04-27-坐标武汉，寻找有即时通讯服务开发经验的朋友。](https://www.v2ex.com/t/666745)  
-- [2020-04-27-上周末用了一天时间完成了第一个小程序，发出来请大家体验一下](https://www.v2ex.com/t/666743)  
-- [2020-04-27-一个单行代码的-npm-库，竟然让数百万个-JavaScript-项目崩溃了](https://www.v2ex.com/t/666742)  
-- [2020-04-27-锻炼毅力，用-shell-撸了一个贪吃蛇……](https://www.v2ex.com/t/666741)  
-- [2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739)  
-- [2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

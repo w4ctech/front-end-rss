@@ -1937,6 +1937,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "前端最佳实践之可维护性",
+        "link": "https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be",
+        "date": "2020-04-27"
+      },
+      {
         "title": "快来定制模版，你想要的大屏即视都会有",
         "link": "https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253",
         "date": "2020-04-26"
@@ -2193,6 +2198,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "字节跳动社交之心不死",
+        "link": "https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "这是一篇实践者对 Go 语言的微吐槽",
+        "link": "https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "进击的中台，怎样影响一个企业的成败丨QCon",
+        "link": "https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "企业怎么入局5G新基建？7位大咖聊聊变中求胜之道",
+        "link": "https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "8 个 DevOps 自动化工具，帮你做出持续改进",
+        "link": "https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8",
+        "date": "2020-04-27"
+      },
       {
         "title": "Go语言泛型问题一直被呼喊，从未被解决 | 年度开发者调查报告",
         "link": "https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7",
@@ -2986,6 +3016,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Windows 下 iCloud 同步有问题?",
+        "link": "https://www.v2ex.com/t/666705",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "交大镜像增设 Python 二进制文件啦",
+        "link": "https://www.v2ex.com/t/666704",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "渐渐步入大龄程序员行列，是继续北漂还是回山东（济南、青岛）？",
+        "link": "https://www.v2ex.com/t/666703",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "阿里外包，招全职运维[信息安全方面]",
+        "link": "https://www.v2ex.com/t/666702",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "放弃保研直接就业还是继续读研？",
+        "link": "https://www.v2ex.com/t/666700",
+        "date": "2020-04-27"
+      },
       {
         "title": "请大家推荐一款 Thunderbolt 2 (雷电 2) 接口的移动硬盘",
         "link": "https://www.v2ex.com/t/666696",

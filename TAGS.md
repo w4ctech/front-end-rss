@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 19:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -492,9 +492,9 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】阿里外包，招全职运维信息安全方面](https://www.v2ex.com/t/666702)
 - [【V2EX】telnet-ip+port-能通，但是通过浏览器访问，提示连接已重置，-err_connection_reset](https://www.v2ex.com/t/666612)
 - [【V2EX】只要设置成简体中文，新-Edge-的新标签就强制显示-cn/zh-内容](https://www.v2ex.com/t/666519)
-- [【V2EX】画时序图-一定要画请求返回值吗](https://www.v2ex.com/t/666506)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

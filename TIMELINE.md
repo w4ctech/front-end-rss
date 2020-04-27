@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 19:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -266,6 +266,7 @@
 - [【凹凸实验室】2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) 
 - [【凹凸实验室】2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) 
 - [【凹凸实验室】2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
+- [【奇舞周刊】2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) 
 - [【奇舞周刊】2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) 
 - [【奇舞周刊】2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) 
 - [【奇舞周刊】2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f) 
@@ -312,6 +313,11 @@
 - [【互联网架构师】2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [【互联网架构师】2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [【互联网架构师】2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [【InfoQ】2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) 
+- [【InfoQ】2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746) 
+- [【InfoQ】2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8) 
+- [【InfoQ】2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8) 
+- [【InfoQ】2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8) 
 - [【InfoQ】2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7) 
 - [【InfoQ】2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0) 
 - [【InfoQ】2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184) 
@@ -431,6 +437,11 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-Windows-下-iCloud-同步有问题?](https://www.v2ex.com/t/666705) 
+- [【V2EX】2020-04-27-交大镜像增设-Python-二进制文件啦](https://www.v2ex.com/t/666704) 
+- [【V2EX】2020-04-27-渐渐步入大龄程序员行列，是继续北漂还是回山东（济南、青岛）？](https://www.v2ex.com/t/666703) 
+- [【V2EX】2020-04-27-阿里外包，招全职运维信息安全方面](https://www.v2ex.com/t/666702) 
+- [【V2EX】2020-04-27-放弃保研直接就业还是继续读研？](https://www.v2ex.com/t/666700) 
 - [【V2EX】2020-04-27-请大家推荐一款-Thunderbolt-2-雷电-2-接口的移动硬盘](https://www.v2ex.com/t/666696) 
 - [【V2EX】2020-04-27-MIUI12-出了，隐私和权限控制还是不错的](https://www.v2ex.com/t/666695) 
 - [【V2EX】2020-04-27-5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 18:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 19:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,11 +40,11 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -514,6 +514,7 @@
 </summary>
 
 
+- [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) ![](assets/new.png)  
 - [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253)  
 - [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682)  
 - [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f)  
@@ -598,6 +599,11 @@
 </summary>
 
 
+- [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) ![](assets/new.png)  
+- [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746) ![](assets/new.png)  
+- [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8) ![](assets/new.png)  
+- [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8) ![](assets/new.png)  
+- [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8) ![](assets/new.png)  
 - [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7)  
 - [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0)  
 - [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184)  
@@ -613,11 +619,6 @@
 - [2020-04-24-iPhone-曝出“惊天漏洞”，波及全球超-5-亿部苹果手机](https://www.ershicimi.com/p/92718172f9e4daac3ed28d381a8f8c49)  
 - [2020-04-23-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/3c6c8bb3d2704fe81cc0f71efd05e911)  
 - [2020-04-23-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)  
-- [2020-04-23-趋势即机遇，聚焦新基建风口下的“云+5G”丨Q推荐](https://www.ershicimi.com/p/5ecbbb57c1a877184ddcd99b5877ec73)  
-- [2020-04-23-初探未来十年，Cloudera对待数据的全新方式](https://www.ershicimi.com/p/01a0f7bdee97621bf12bfebdc595b894)  
-- [2020-04-23-尤雨溪-B-站直播，Vue-3.0-Beta-是一个值得体验的全新版本](https://www.ershicimi.com/p/f189b5b78e917f7c9924b655c3a5b3f9)  
-- [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05)  
-- [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -781,26 +782,26 @@
 </summary>
 
 
-- [2020-04-27-请大家推荐一款-Thunderbolt-2-雷电-2-接口的移动硬盘](https://www.v2ex.com/t/666696) ![](assets/new.png)  
-- [2020-04-27-MIUI12-出了，隐私和权限控制还是不错的](https://www.v2ex.com/t/666695) ![](assets/new.png)  
-- [2020-04-27-5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694) ![](assets/new.png)  
-- [2020-04-27-从-XR-换到了-SE-然后发现一部分夜景-SE-居然不如-XR](https://www.v2ex.com/t/666691) ![](assets/new.png)  
-- [2020-04-27-一笑堂](https://www.v2ex.com/t/666690) ![](assets/new.png)  
-- [2020-04-27-精灵图sprite是前端做-,-还是-UI-做,-还是美工做?](https://www.v2ex.com/t/666689) ![](assets/new.png)  
-- [2020-04-27-WW-黑解有没有必要](https://www.v2ex.com/t/666688) ![](assets/new.png)  
-- [2020-04-27-有没有没广告的安卓手机?](https://www.v2ex.com/t/666687) ![](assets/new.png)  
-- [2020-04-27-阿里巴巴云原生专有云团队招聘](https://www.v2ex.com/t/666686) ![](assets/new.png)  
-- [2020-04-27-祺曜互娱招聘-ing-大量程序岗位等你来！](https://www.v2ex.com/t/666684) ![](assets/new.png)  
-- [2020-04-27-求教下-Linux-mv-a/*-b/*-，文件恢复-和-mv-执行过程](https://www.v2ex.com/t/666682) ![](assets/new.png)  
-- [2020-04-27-上海-米哈游-内推-mihoyo-招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各位大佬自荐以及推荐](https://www.v2ex.com/t/666681) ![](assets/new.png)  
-- [2020-04-27-想用树莓派做一个备份服务器，但是又怕硬盘被人偷，有什么好的解决方案？](https://www.v2ex.com/t/666680) ![](assets/new.png)  
-- [2020-04-27-谁给直男们开发个手机](https://www.v2ex.com/t/666679) ![](assets/new.png)  
-- [2020-04-27-这个五一，你准备去哪里](https://www.v2ex.com/t/666677) ![](assets/new.png)  
-- [2020-04-27-Hybrid-App-目前流行的用的都是啥技术？](https://www.v2ex.com/t/666676) ![](assets/new.png)  
-- [2020-04-27-有什么方法找到不是粉色的女朋友（男朋友）？](https://www.v2ex.com/t/666675) ![](assets/new.png)  
-- [2020-04-27-折耳根！鱼腥草！](https://www.v2ex.com/t/666674) ![](assets/new.png)  
-- [2020-04-27-现在北京换地方住，必须要重新隔离吗，-之前隔离期已经过了，-有没有不需要重新隔离的？](https://www.v2ex.com/t/666672) ![](assets/new.png)  
-- [2020-04-27-出售两个超靓的域名，有人收？买一送一，便宜送。](https://www.v2ex.com/t/666671) ![](assets/new.png)  
+- [2020-04-27-Windows-下-iCloud-同步有问题?](https://www.v2ex.com/t/666705) ![](assets/new.png)  
+- [2020-04-27-交大镜像增设-Python-二进制文件啦](https://www.v2ex.com/t/666704) ![](assets/new.png)  
+- [2020-04-27-渐渐步入大龄程序员行列，是继续北漂还是回山东（济南、青岛）？](https://www.v2ex.com/t/666703) ![](assets/new.png)  
+- [2020-04-27-阿里外包，招全职运维信息安全方面](https://www.v2ex.com/t/666702) ![](assets/new.png)  
+- [2020-04-27-放弃保研直接就业还是继续读研？](https://www.v2ex.com/t/666700) ![](assets/new.png)  
+- [2020-04-27-请大家推荐一款-Thunderbolt-2-雷电-2-接口的移动硬盘](https://www.v2ex.com/t/666696)  
+- [2020-04-27-MIUI12-出了，隐私和权限控制还是不错的](https://www.v2ex.com/t/666695)  
+- [2020-04-27-5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694)  
+- [2020-04-27-从-XR-换到了-SE-然后发现一部分夜景-SE-居然不如-XR](https://www.v2ex.com/t/666691)  
+- [2020-04-27-一笑堂](https://www.v2ex.com/t/666690)  
+- [2020-04-27-精灵图sprite是前端做-,-还是-UI-做,-还是美工做?](https://www.v2ex.com/t/666689)  
+- [2020-04-27-WW-黑解有没有必要](https://www.v2ex.com/t/666688)  
+- [2020-04-27-有没有没广告的安卓手机?](https://www.v2ex.com/t/666687)  
+- [2020-04-27-阿里巴巴云原生专有云团队招聘](https://www.v2ex.com/t/666686)  
+- [2020-04-27-祺曜互娱招聘-ing-大量程序岗位等你来！](https://www.v2ex.com/t/666684)  
+- [2020-04-27-求教下-Linux-mv-a/*-b/*-，文件恢复-和-mv-执行过程](https://www.v2ex.com/t/666682)  
+- [2020-04-27-上海-米哈游-内推-mihoyo-招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各位大佬自荐以及推荐](https://www.v2ex.com/t/666681)  
+- [2020-04-27-想用树莓派做一个备份服务器，但是又怕硬盘被人偷，有什么好的解决方案？](https://www.v2ex.com/t/666680)  
+- [2020-04-27-谁给直男们开发个手机](https://www.v2ex.com/t/666679)  
+- [2020-04-27-这个五一，你准备去哪里](https://www.v2ex.com/t/666677)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

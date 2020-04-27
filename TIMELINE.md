@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 07:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,6 +133,8 @@
 - [【Vue中文社区】2020-04-20-12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755) 
 - [【Vue中文社区】2020-04-19-从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296) 
 - [【Vue中文社区】2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
+- [【前端早读课】2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14) 
+- [【前端早读课】2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) 
 - [【前端早读课】2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 
 - [【前端早读课】2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a) 
 - [【前端早读课】2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7) 
@@ -443,6 +445,8 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794) 
+- [【V2EX】2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793) 
 - [【V2EX】2020-04-28-一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792) 
 - [【V2EX】2020-04-28-一个上海电信天翼网关可以接三个路由器吗？](https://www.v2ex.com/t/666791) 
 - [【V2EX】2020-04-28-如何从-MAS-安装应用历史版本](https://www.v2ex.com/t/666790) 

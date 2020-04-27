@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-28 07:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -301,6 +301,7 @@
 
 
 
+- [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)
 - [【前端大全】Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)
 - [【前端大全】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)
 - [【前端开发】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7)
@@ -320,7 +321,6 @@
 - [【凹凸实验室】网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/)
 - [【凹凸实验室】H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/)
 - [【凹凸实验室】js创建一条通用链表](https://aotu.io/notes/2017/10/13/make-a-chain-class/)
-- [【凹凸实验室】实现-setTimeout-&-setInterval-暂停的方案](https://aotu.io/notes/2017/09/25/manage-setTimeout-an-setInterval/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -609,6 +609,7 @@
 
 
 - [【Vue中文社区】搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)
+- [【前端早读课】【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)
 - [【前端早读课】【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)
 - [【前端开发】前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)
 - [【前端之巅】5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)
@@ -627,7 +628,6 @@
 - [【V2EX】上海Demonware-动视暴雪旗下全资子公司招聘-Sr.-Software-Engineer](https://www.v2ex.com/t/666611)
 - [【V2EX】工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545)
 - [【V2EX】华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537)
-- [【V2EX】碰到个面试题，不知道该咋写](https://www.v2ex.com/t/666498)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

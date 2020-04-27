@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-04-27 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-27-现在自己搭-tttttiiizzziii-风险怎么样，还划算吗？](https://www.v2ex.com/t/666748) 
+- [2020-04-27-北京社招京东后端开发工程师-商业化方向](https://www.v2ex.com/t/666747) 
+- [2020-04-27-mac-时光机备份恢复-200g-需要多久？](https://www.v2ex.com/t/666746) 
+- [2020-04-27-坐标武汉，寻找有即时通讯服务开发经验的朋友。](https://www.v2ex.com/t/666745) 
+- [2020-04-27-上周末用了一天时间完成了第一个小程序，发出来请大家体验一下](https://www.v2ex.com/t/666743) 
+- [2020-04-27-一个单行代码的-npm-库，竟然让数百万个-JavaScript-项目崩溃了](https://www.v2ex.com/t/666742) 
+- [2020-04-27-锻炼毅力，用-shell-撸了一个贪吃蛇……](https://www.v2ex.com/t/666741) 
 - [2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739) 
 - [2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738) 
 - [2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737) 

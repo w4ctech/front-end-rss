@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 21:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 22:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -783,12 +783,19 @@
 </summary>
 
 
-- [2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739) ![](assets/new.png)  
-- [2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738) ![](assets/new.png)  
-- [2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737) ![](assets/new.png)  
-- [2020-04-27-简单的微信小程序对-MAC-的硬件要求高嘛？](https://www.v2ex.com/t/666736) ![](assets/new.png)  
-- [2020-04-27-ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735) ![](assets/new.png)  
-- [2020-04-27-speedtest-上新增香港移动测速点，大家可以拿手里-vps-测试一下到香港移动的速度了](https://www.v2ex.com/t/666733) ![](assets/new.png)  
+- [2020-04-27-现在自己搭-tttttiiizzziii-风险怎么样，还划算吗？](https://www.v2ex.com/t/666748) ![](assets/new.png)  
+- [2020-04-27-北京社招京东后端开发工程师-商业化方向](https://www.v2ex.com/t/666747) ![](assets/new.png)  
+- [2020-04-27-mac-时光机备份恢复-200g-需要多久？](https://www.v2ex.com/t/666746) ![](assets/new.png)  
+- [2020-04-27-坐标武汉，寻找有即时通讯服务开发经验的朋友。](https://www.v2ex.com/t/666745) ![](assets/new.png)  
+- [2020-04-27-上周末用了一天时间完成了第一个小程序，发出来请大家体验一下](https://www.v2ex.com/t/666743) ![](assets/new.png)  
+- [2020-04-27-一个单行代码的-npm-库，竟然让数百万个-JavaScript-项目崩溃了](https://www.v2ex.com/t/666742) ![](assets/new.png)  
+- [2020-04-27-锻炼毅力，用-shell-撸了一个贪吃蛇……](https://www.v2ex.com/t/666741) ![](assets/new.png)  
+- [2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739)  
+- [2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738)  
+- [2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737)  
+- [2020-04-27-简单的微信小程序对-MAC-的硬件要求高嘛？](https://www.v2ex.com/t/666736)  
+- [2020-04-27-ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735)  
+- [2020-04-27-speedtest-上新增香港移动测速点，大家可以拿手里-vps-测试一下到香港移动的速度了](https://www.v2ex.com/t/666733)  
 - [2020-04-27-MySQL-使用-source-导入.sql-数据文件，如何处理主键重复记录？](https://www.v2ex.com/t/666730)  
 - [2020-04-27-能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)  
 - [2020-04-27-坐标武汉,试用期不交五险一金,咋整?](https://www.v2ex.com/t/666728)  
@@ -796,13 +803,6 @@
 - [2020-04-27-刚看-B-站党妹说自建的-NAS-被爆了](https://www.v2ex.com/t/666726)  
 - [2020-04-27-深圳联通宽带，能否申请-ipv4-的公网-ip，电信是可以的，但是价格贵的-1B](https://www.v2ex.com/t/666723)  
 - [2020-04-27-求问哪里能买到比较靠谱点的世纪互联账号](https://www.v2ex.com/t/666722)  
-- [2020-04-27-segmentfault-技术栈是什么?](https://www.v2ex.com/t/666721)  
-- [2020-04-27-少核高频不如多核低频？](https://www.v2ex.com/t/666720)  
-- [2020-04-27-震惊！-S8-世界冠军和-S9-世界冠军在-LPL-争夺-S10-春季赛季军！](https://www.v2ex.com/t/666717)  
-- [2020-04-27-极客返利|专做网课返利、返现](https://www.v2ex.com/t/666716)  
-- [2020-04-27-未登陆百-du-等一些网站，却被推送与搜索内容相关的广告，怎么做到的？](https://www.v2ex.com/t/666715)  
-- [2020-04-27-50-70-人的互联网公司寻求一款高效办公-app/套件，下面这几个哪个好？](https://www.v2ex.com/t/666714)  
-- [2020-04-27-Android-上-QQ-居然占用了-20G-空间](https://www.v2ex.com/t/666713)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

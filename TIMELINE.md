@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -438,6 +438,13 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-现在自己搭-tttttiiizzziii-风险怎么样，还划算吗？](https://www.v2ex.com/t/666748) 
+- [【V2EX】2020-04-27-北京社招京东后端开发工程师-商业化方向](https://www.v2ex.com/t/666747) 
+- [【V2EX】2020-04-27-mac-时光机备份恢复-200g-需要多久？](https://www.v2ex.com/t/666746) 
+- [【V2EX】2020-04-27-坐标武汉，寻找有即时通讯服务开发经验的朋友。](https://www.v2ex.com/t/666745) 
+- [【V2EX】2020-04-27-上周末用了一天时间完成了第一个小程序，发出来请大家体验一下](https://www.v2ex.com/t/666743) 
+- [【V2EX】2020-04-27-一个单行代码的-npm-库，竟然让数百万个-JavaScript-项目崩溃了](https://www.v2ex.com/t/666742) 
+- [【V2EX】2020-04-27-锻炼毅力，用-shell-撸了一个贪吃蛇……](https://www.v2ex.com/t/666741) 
 - [【V2EX】2020-04-27-阿里健康-2020-实习生](https://www.v2ex.com/t/666739) 
 - [【V2EX】2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738) 
 - [【V2EX】2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737) 

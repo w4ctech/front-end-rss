@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 23:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -416,6 +416,11 @@
 - [【印记中文周刊】2020-04-24-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
 - [【印记中文周刊】2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [【印记中文周刊】2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [【知乎日报】2020-04-27-为什么医生不让你一次性把智齿都拔了？](https://www.ershicimi.com/p/62f1490aa457c437383abcf1facfa045) 
+- [【知乎日报】2020-04-27-这-30-组照片里，藏着-2020-年你错过的春天](https://www.ershicimi.com/p/1c68c0708bc3e731631cfaa9f71a45cf) 
+- [【知乎日报】2020-04-27-为什么总是没人跟你聊天？](https://www.ershicimi.com/p/7b40c6dbcad9b1852e5ac91513a520ae) 
+- [【知乎日报】2020-04-27-中奖名单-|-眼霜和会员月卡](https://www.ershicimi.com/p/26da928ac53437243d9d65952f9b3f7b) 
+- [【知乎日报】2020-04-27-知乎故事-|-和一个外科医生谈恋爱比单身还自由](https://www.ershicimi.com/p/325fe220277afc5c2bf118d82870c823) 
 - [【知乎日报】2020-04-26-本周知乎热榜-|-罗志祥瓜又增产，李国庆怒夺公章，华晨宇斩获歌王](https://www.ershicimi.com/p/d257253692576d6bce2fa674a5cbf3c9) 
 - [【知乎日报】2020-04-26-有哪些能让手机更好用的隐藏小技巧？](https://www.ershicimi.com/p/1ed47f1372d5ee9527cf96345767a621) 
 - [【知乎日报】2020-04-26-哪些被「吹上神坛」的电影你认为很一般？](https://www.ershicimi.com/p/8f45c9c4f11dc3cfcfc1c4046fd47267) 
@@ -438,6 +443,11 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-现在考研转计算机是一个明智的选择吗（就业角度）？](https://www.v2ex.com/t/666760) 
+- [【V2EX】2020-04-27-抓包?-怎么破](https://www.v2ex.com/t/666759) 
+- [【V2EX】2020-04-27-ITX-黑苹果配置求教！自己看了好多天总结了一套-大伙儿给看看](https://www.v2ex.com/t/666758) 
+- [【V2EX】2020-04-27-主宾谓的语言结构是不是很牛？](https://www.v2ex.com/t/666756) 
+- [【V2EX】2020-04-27-这种情况，我该不该代管父母的钱？](https://www.v2ex.com/t/666754) 
 - [【V2EX】2020-04-27-现在还有好用的国外电话卡吗](https://www.v2ex.com/t/666753) 
 - [【V2EX】2020-04-27-有和我一样每天上网课上到-12-点的留学生们吗](https://www.v2ex.com/t/666752) 
 - [【V2EX】2020-04-27-推荐几款适合博客的免费-WordPress-主题模板](https://www.v2ex.com/t/666750) 

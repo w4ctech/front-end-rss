@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 22:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 23:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -752,6 +752,11 @@
 </summary>
 
 
+- [2020-04-27-为什么医生不让你一次性把智齿都拔了？](https://www.ershicimi.com/p/62f1490aa457c437383abcf1facfa045) ![](assets/new.png)  
+- [2020-04-27-这-30-组照片里，藏着-2020-年你错过的春天](https://www.ershicimi.com/p/1c68c0708bc3e731631cfaa9f71a45cf) ![](assets/new.png)  
+- [2020-04-27-为什么总是没人跟你聊天？](https://www.ershicimi.com/p/7b40c6dbcad9b1852e5ac91513a520ae) ![](assets/new.png)  
+- [2020-04-27-中奖名单-|-眼霜和会员月卡](https://www.ershicimi.com/p/26da928ac53437243d9d65952f9b3f7b) ![](assets/new.png)  
+- [2020-04-27-知乎故事-|-和一个外科医生谈恋爱比单身还自由](https://www.ershicimi.com/p/325fe220277afc5c2bf118d82870c823) ![](assets/new.png)  
 - [2020-04-26-本周知乎热榜-|-罗志祥瓜又增产，李国庆怒夺公章，华晨宇斩获歌王](https://www.ershicimi.com/p/d257253692576d6bce2fa674a5cbf3c9)  
 - [2020-04-26-有哪些能让手机更好用的隐藏小技巧？](https://www.ershicimi.com/p/1ed47f1372d5ee9527cf96345767a621)  
 - [2020-04-26-哪些被「吹上神坛」的电影你认为很一般？](https://www.ershicimi.com/p/8f45c9c4f11dc3cfcfc1c4046fd47267)  
@@ -767,11 +772,6 @@
 - [2020-04-23-本人黑眼圈声明：与熬夜运动无关](https://www.ershicimi.com/p/f0f3f2ce7a2811efd4e71780906b8177)  
 - [2020-04-23-教育机构获客难度再升级？这份万字知乎运营案例请收好](https://www.ershicimi.com/p/26e3750d3cd81abc9667c2bd442ea1fe)  
 - [2020-04-23-知乎故事-|-半夜听到室友呼救，该装睡还是帮忙？](https://www.ershicimi.com/p/c357148b4e900a39bb17e017bfcd8a04)  
-- [2020-04-22-电瓶车大盗回来了，该乐就乐，但追捧他还是算了](https://www.ershicimi.com/p/635ea110d6d1797a8d20d798b0190e79)  
-- [2020-04-22-收个塑料也能成为百万富翁？别说了我要去捡破烂了](https://www.ershicimi.com/p/a403d5e032ec29e5ff0b1cd24c3abb85)  
-- [2020-04-22-微信里舍不的删的-7-个公众号](https://www.ershicimi.com/p/9dee980877dfa34eb802558e966c4e4c)  
-- [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c)  
-- [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -783,10 +783,15 @@
 </summary>
 
 
-- [2020-04-27-现在还有好用的国外电话卡吗](https://www.v2ex.com/t/666753) ![](assets/new.png)  
-- [2020-04-27-有和我一样每天上网课上到-12-点的留学生们吗](https://www.v2ex.com/t/666752) ![](assets/new.png)  
-- [2020-04-27-推荐几款适合博客的免费-WordPress-主题模板](https://www.v2ex.com/t/666750) ![](assets/new.png)  
-- [2020-04-27-flask-伪静态的问题](https://www.v2ex.com/t/666749) ![](assets/new.png)  
+- [2020-04-27-现在考研转计算机是一个明智的选择吗（就业角度）？](https://www.v2ex.com/t/666760) ![](assets/new.png)  
+- [2020-04-27-抓包?-怎么破](https://www.v2ex.com/t/666759) ![](assets/new.png)  
+- [2020-04-27-ITX-黑苹果配置求教！自己看了好多天总结了一套-大伙儿给看看](https://www.v2ex.com/t/666758) ![](assets/new.png)  
+- [2020-04-27-主宾谓的语言结构是不是很牛？](https://www.v2ex.com/t/666756) ![](assets/new.png)  
+- [2020-04-27-这种情况，我该不该代管父母的钱？](https://www.v2ex.com/t/666754) ![](assets/new.png)  
+- [2020-04-27-现在还有好用的国外电话卡吗](https://www.v2ex.com/t/666753)  
+- [2020-04-27-有和我一样每天上网课上到-12-点的留学生们吗](https://www.v2ex.com/t/666752)  
+- [2020-04-27-推荐几款适合博客的免费-WordPress-主题模板](https://www.v2ex.com/t/666750)  
+- [2020-04-27-flask-伪静态的问题](https://www.v2ex.com/t/666749)  
 - [2020-04-27-现在自己搭-tttttiiizzziii-风险怎么样，还划算吗？](https://www.v2ex.com/t/666748)  
 - [2020-04-27-北京社招京东后端开发工程师-商业化方向](https://www.v2ex.com/t/666747)  
 - [2020-04-27-mac-时光机备份恢复-200g-需要多久？](https://www.v2ex.com/t/666746)  
@@ -798,11 +803,6 @@
 - [2020-04-27-macOS-如何同时安装-OpenSSL-的动态链接库-libssl.1.1.dylib-和-libssl.1.0.0.dylib？](https://www.v2ex.com/t/666738)  
 - [2020-04-27-自学真的没有机会吗？](https://www.v2ex.com/t/666737)  
 - [2020-04-27-简单的微信小程序对-MAC-的硬件要求高嘛？](https://www.v2ex.com/t/666736)  
-- [2020-04-27-ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735)  
-- [2020-04-27-speedtest-上新增香港移动测速点，大家可以拿手里-vps-测试一下到香港移动的速度了](https://www.v2ex.com/t/666733)  
-- [2020-04-27-MySQL-使用-source-导入.sql-数据文件，如何处理主键重复记录？](https://www.v2ex.com/t/666730)  
-- [2020-04-27-能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)  
-- [2020-04-27-坐标武汉,试用期不交五险一金,咋整?](https://www.v2ex.com/t/666728)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

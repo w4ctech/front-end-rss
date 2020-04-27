@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-04-28 06:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-28-一个上海电信天翼网关可以接三个路由器吗？](https://www.v2ex.com/t/666791) 
+- [2020-04-28-如何从-MAS-安装应用历史版本](https://www.v2ex.com/t/666790) 
 - [2020-04-28-问个很傻的问题，类似后台管理这些，大家会做成一个单独的应用吗](https://www.v2ex.com/t/666789) 
 - [2020-04-28-苹果恶心开发者](https://www.v2ex.com/t/666788) 
 - [2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786) 

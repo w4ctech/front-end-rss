@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-04-28 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786) 
+- [2020-04-28-最近在看前端的机会](https://www.v2ex.com/t/666785) 
+- [2020-04-28-求建议-黑苹果向的台式主机配置](https://www.v2ex.com/t/666784) 
+- [2020-04-28-求助，刚更新完-MIUI12](https://www.v2ex.com/t/666783) 
+- [2020-04-28-分布式，中-两阶段提交，-tcc，处理的是同一个数据的不同副本，还是同一个业务的不同数据](https://www.v2ex.com/t/666782) 
 - [2020-04-28-referrerpolicy="no-referrer"与反反防盗链](https://www.v2ex.com/t/666780) 
 - [2020-04-28-求助：用-idea-写-servlet-连接不上数据库](https://www.v2ex.com/t/666778) 
 - [2020-04-28-什么是最终一致性，有点混淆，谢谢](https://www.v2ex.com/t/666777) 

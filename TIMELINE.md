@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 01:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 02:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -443,6 +443,11 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786) 
+- [【V2EX】2020-04-28-最近在看前端的机会](https://www.v2ex.com/t/666785) 
+- [【V2EX】2020-04-28-求建议-黑苹果向的台式主机配置](https://www.v2ex.com/t/666784) 
+- [【V2EX】2020-04-28-求助，刚更新完-MIUI12](https://www.v2ex.com/t/666783) 
+- [【V2EX】2020-04-28-分布式，中-两阶段提交，-tcc，处理的是同一个数据的不同副本，还是同一个业务的不同数据](https://www.v2ex.com/t/666782) 
 - [【V2EX】2020-04-28-referrerpolicy="no-referrer"与反反防盗链](https://www.v2ex.com/t/666780) 
 - [【V2EX】2020-04-28-求助：用-idea-写-servlet-连接不上数据库](https://www.v2ex.com/t/666778) 
 - [【V2EX】2020-04-28-什么是最终一致性，有点混淆，谢谢](https://www.v2ex.com/t/666777) 

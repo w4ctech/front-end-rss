@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 15:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,6 +242,7 @@
 
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】要是-V2EX-支持-PWA-就好了](https://www.v2ex.com/t/666623)
 - [【V2EX】flutter-通栏沉浸状态条|flutter-自定义底部凸起导航栏](https://www.v2ex.com/t/666606)
 - [【V2EX】重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)
 - [【技术头条】Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -405,6 +406,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后端开发，-Server-开发工程师，平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/666625)
 - [【V2EX】视频全自动剪辑器](https://www.v2ex.com/t/666570)
 - [【V2EX】在-webrtc-中，如何防止-turn-server-被其它人利用？](https://www.v2ex.com/t/666553)
 - [【V2EX】RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488)
@@ -419,7 +421,6 @@
 - [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
 - [【V2EX】大家有在-Facebook-上面投放广告的呀，现在想问问有什么工具可以快速的做个广告小视频](https://www.v2ex.com/t/665905)
 - [【V2EX】在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)
-- [【V2EX】关于阿里的视频隐形水印](https://www.v2ex.com/t/665812)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -614,6 +615,7 @@
 - [【互联网架构师】Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】深圳-自主研发公司，薪酬-10-20K，-招聘优秀应届生及三年工作经验以内的前端/-Java-/-Python-/爬虫](https://www.v2ex.com/t/666628)
 - [【V2EX】上海Demonware-动视暴雪旗下全资子公司招聘-Sr.-Software-Engineer](https://www.v2ex.com/t/666611)
 - [【V2EX】工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545)
 - [【V2EX】华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537)
@@ -622,7 +624,6 @@
 - [【V2EX】字节跳动春招投递-3-天截止！日常实习长期招聘中](https://www.v2ex.com/t/666465)
 - [【V2EX】有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)
 - [【V2EX】字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)
-- [【V2EX】内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

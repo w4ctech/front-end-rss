@@ -2298,6 +2298,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "JS 图片简易压缩",
+        "link": "https://juejin.im/post/5ea574cc518825736e57fcca",
+        "date": "2020-04-27"
+      },
+      {
         "title": "[译]大哥你JavaScript可能不太需要switch",
         "link": "https://juejin.im/post/5ea56215e51d4547134bf55b",
         "date": "2020-04-26"
@@ -2881,6 +2886,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "bilibili 图片服务器被劫持？",
+        "link": "https://www.v2ex.com/t/666462",
+        "date": "2020-04-27"
+      },
       {
         "title": "请教会采集的大佬一个图文采集的问题",
         "link": "https://www.v2ex.com/t/666459",
@@ -6670,6 +6680,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Linux 环境都没有，怎么学编程？憋说了，肝！（保姆级教程）",
+        "link": "https://toutiao.io/k/0r9tu1a",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "彻底弄懂 Lambda 和高阶函数",
+        "link": "https://toutiao.io/k/94aazvu",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Spring Data REST 不完全指南（二）",
+        "link": "https://toutiao.io/k/ybsapfa",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "阿里社招面经 (已拿 offer)",
+        "link": "https://toutiao.io/k/yn6ucqm",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "一文彻底搞懂安卓 WebView 白名单校验",
+        "link": "https://toutiao.io/k/67epac4",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "二十分钟封装，一个 App 前后台 Http 交互的实现",
+        "link": "https://toutiao.io/k/ibwaj6e",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "架构设计基础：单服务、集群、分布式的基本区别和联系",
+        "link": "https://toutiao.io/k/qfdoann",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Python 3.9 性能优化：更快的 list()、dict() 和 range() 等内置类型",
+        "link": "https://toutiao.io/k/a7duyzp",
+        "date": "2020-04-27"
+      },
       {
         "title": "Redis 分布式锁的 5 个坑，真是又大又深",
         "link": "https://toutiao.io/k/lc0q9a9",

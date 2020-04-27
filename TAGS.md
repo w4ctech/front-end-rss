@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 08:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -453,8 +453,8 @@
 - [【V2EX】做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746)
 - [【技术头条】JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://toutiao.io/k/a7duyzp)
 - [【开发者头条】爱奇艺-iOS-移动端网络优化实践（请求成功率优化篇）](https://toutiao.io/k/l1dd1wy)
-- [【开发者头条】JVM-源码分析之-JDK-8-下的僵尸（无法回收）类加载器](https://toutiao.io/k/rb38d6r)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -552,6 +552,7 @@
 - [【V2EX】nginx-无法停止](https://www.v2ex.com/t/665936)
 - [【V2EX】nginx-配置遇到的一个怪事，请教各位](https://www.v2ex.com/t/665745)
 - [【技术头条】GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa)
 - [【开发者头条】推荐-震撼！全网第一张源码分析全景图揭秘-Nginx](https://toutiao.io/k/av00x9p)
 - [......【查看更多】......](./details/tags/server.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -330,6 +330,7 @@
 - [【JavaScript】2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [【JavaScript】2020-04-20-Webpack真香定律，我先怂了](https://www.ershicimi.com/p/7b50a8b0fb04efc79e9a2d9bfcf01b0e) 
 - [【JavaScript】2020-04-19-Vue-3.0-Beta](https://www.ershicimi.com/p/9c6227305feb7906839121c41a565f55) 
+- [【掘金前端】2020-04-27-JS-图片简易压缩](https://juejin.im/post/5ea574cc518825736e57fcca) 
 - [【掘金前端】2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b) 
 - [【掘金前端】2020-04-26-学了-gulp-想练练手？正好压缩下你的博客](https://juejin.im/post/5ea52a50e51d4547126406ca) 
 - [【掘金前端】2020-04-26-JavaScript模块化历程](https://juejin.im/post/5ea56d2451882573883be5ae) 
@@ -410,6 +411,7 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-bilibili-图片服务器被劫持？](https://www.v2ex.com/t/666462) 
 - [【V2EX】2020-04-27-请教会采集的大佬一个图文采集的问题](https://www.v2ex.com/t/666459) 
 - [【V2EX】2020-04-27-从编程到编曲---程序员转行指南大量干货](https://www.v2ex.com/t/666458) 
 - [【V2EX】2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457) 
@@ -1165,6 +1167,14 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-27-Linux-环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://toutiao.io/k/0r9tu1a) 
+- [【开发者头条】2020-04-27-彻底弄懂-Lambda-和高阶函数](https://toutiao.io/k/94aazvu) 
+- [【开发者头条】2020-04-27-Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa) 
+- [【开发者头条】2020-04-27-阿里社招面经-已拿-offer](https://toutiao.io/k/yn6ucqm) 
+- [【开发者头条】2020-04-27-一文彻底搞懂安卓-WebView-白名单校验](https://toutiao.io/k/67epac4) 
+- [【开发者头条】2020-04-27-二十分钟封装，一个-App-前后台-Http-交互的实现](https://toutiao.io/k/ibwaj6e) 
+- [【开发者头条】2020-04-27-架构设计基础：单服务、集群、分布式的基本区别和联系](https://toutiao.io/k/qfdoann) 
+- [【开发者头条】2020-04-27-Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://toutiao.io/k/a7duyzp) 
 - [【开发者头条】2020-04-27-Redis-分布式锁的-5-个坑，真是又大又深](https://toutiao.io/k/lc0q9a9) 
 - [【开发者头条】2020-04-27-译-理解-JavaScript-内存模型，就靠这几张图了](https://toutiao.io/k/1ob7owe) 
 - [【开发者头条】2020-04-27-译-谷歌-OKR-指导手册](https://toutiao.io/k/bmts2u9) 

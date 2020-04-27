@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -18,6 +18,8 @@
 - [2020-04-27-Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6) 
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-04-27-阿里巴巴云原生专有云团队招聘](https://www.v2ex.com/t/666686) 
+- [2020-04-27-祺曜互娱招聘-ing-大量程序岗位等你来！](https://www.v2ex.com/t/666684) 
 - [2020-04-27-求问大家-zoom-现在面试难度怎么样](https://www.v2ex.com/t/666659) 
 - [2020-04-27-杭州--求职，大佬们，看下简历有问题吗，投了好久，没有面试。。](https://www.v2ex.com/t/666643) 
 - [2020-04-27-深圳-自主研发公司，薪酬-10-20K，-招聘优秀应届生及三年工作经验以内的前端/-Java-/-Python-/爬虫](https://www.v2ex.com/t/666628) 

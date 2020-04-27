@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 17:00:20，:rocket: 更新条数: +36， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 18:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -781,26 +781,26 @@
 </summary>
 
 
-- [2020-04-27-利用苹果手机的「锁屏密码」可以更改「AppleID-密码」](https://www.v2ex.com/t/666670) ![](assets/new.png)  
-- [2020-04-27-MacOS-更新-10.15.5-后蓝牙设备满电断连](https://www.v2ex.com/t/666669) ![](assets/new.png)  
-- [2020-04-27-一个纯后端写的纯前端项目，表格转换工具-TableConvert](https://www.v2ex.com/t/666668) ![](assets/new.png)  
-- [2020-04-27-使用树莓派+固态硬盘做-nas-是目前成本最低的方案吗？](https://www.v2ex.com/t/666667) ![](assets/new.png)  
-- [2020-04-27-Watch-的音乐同步，一直都处在「等待中」的状态。](https://www.v2ex.com/t/666666) ![](assets/new.png)  
-- [2020-04-27-有时候没面上不是因为你技术不行](https://www.v2ex.com/t/666665) ![](assets/new.png)  
-- [2020-04-27-202004271652-你们的-QQ-企业邮箱能正常加载吗？](https://www.v2ex.com/t/666664) ![](assets/new.png)  
-- [2020-04-27-5-年-iOS-开发，之后的技能树该怎么点合适？](https://www.v2ex.com/t/666663) ![](assets/new.png)  
-- [2020-04-27-WD-公布了-SMR-硬盘的型号](https://www.v2ex.com/t/666662) ![](assets/new.png)  
-- [2020-04-27-lanzou.com-被屏了？](https://www.v2ex.com/t/666661) ![](assets/new.png)  
-- [2020-04-27-深圳宝体，花郡小区，电信和天威宽带怎么选？](https://www.v2ex.com/t/666660) ![](assets/new.png)  
-- [2020-04-27-求问大家-zoom-现在面试难度怎么样](https://www.v2ex.com/t/666659) ![](assets/new.png)  
-- [2020-04-27-小城市-offer-求分析](https://www.v2ex.com/t/666658) ![](assets/new.png)  
-- [2020-04-27-大连高端职位（非外包），东北老乡看这里](https://www.v2ex.com/t/666657) ![](assets/new.png)  
-- [2020-04-27-求助，程序员后台开发应该怎么提高自己？](https://www.v2ex.com/t/666656) ![](assets/new.png)  
-- [2020-04-27-这有个私活，需要一名时间很空余的或者待业的全干工程师](https://www.v2ex.com/t/666655) ![](assets/new.png)  
-- [2020-04-27-微信出来这么多年了-为啥感觉大家不太反感微信占空间的事情](https://www.v2ex.com/t/666654) ![](assets/new.png)  
-- [2020-04-27-威锋挂了？](https://www.v2ex.com/t/666652) ![](assets/new.png)  
-- [2020-04-27-有没有打印机可支持-API-控制？](https://www.v2ex.com/t/666651) ![](assets/new.png)  
-- [2020-04-27-大家来分享下看过的深入浅出的计算机理论通用书籍吧](https://www.v2ex.com/t/666650) ![](assets/new.png)  
+- [2020-04-27-请大家推荐一款-Thunderbolt-2-雷电-2-接口的移动硬盘](https://www.v2ex.com/t/666696) ![](assets/new.png)  
+- [2020-04-27-MIUI12-出了，隐私和权限控制还是不错的](https://www.v2ex.com/t/666695) ![](assets/new.png)  
+- [2020-04-27-5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694) ![](assets/new.png)  
+- [2020-04-27-从-XR-换到了-SE-然后发现一部分夜景-SE-居然不如-XR](https://www.v2ex.com/t/666691) ![](assets/new.png)  
+- [2020-04-27-一笑堂](https://www.v2ex.com/t/666690) ![](assets/new.png)  
+- [2020-04-27-精灵图sprite是前端做-,-还是-UI-做,-还是美工做?](https://www.v2ex.com/t/666689) ![](assets/new.png)  
+- [2020-04-27-WW-黑解有没有必要](https://www.v2ex.com/t/666688) ![](assets/new.png)  
+- [2020-04-27-有没有没广告的安卓手机?](https://www.v2ex.com/t/666687) ![](assets/new.png)  
+- [2020-04-27-阿里巴巴云原生专有云团队招聘](https://www.v2ex.com/t/666686) ![](assets/new.png)  
+- [2020-04-27-祺曜互娱招聘-ing-大量程序岗位等你来！](https://www.v2ex.com/t/666684) ![](assets/new.png)  
+- [2020-04-27-求教下-Linux-mv-a/*-b/*-，文件恢复-和-mv-执行过程](https://www.v2ex.com/t/666682) ![](assets/new.png)  
+- [2020-04-27-上海-米哈游-内推-mihoyo-招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各位大佬自荐以及推荐](https://www.v2ex.com/t/666681) ![](assets/new.png)  
+- [2020-04-27-想用树莓派做一个备份服务器，但是又怕硬盘被人偷，有什么好的解决方案？](https://www.v2ex.com/t/666680) ![](assets/new.png)  
+- [2020-04-27-谁给直男们开发个手机](https://www.v2ex.com/t/666679) ![](assets/new.png)  
+- [2020-04-27-这个五一，你准备去哪里](https://www.v2ex.com/t/666677) ![](assets/new.png)  
+- [2020-04-27-Hybrid-App-目前流行的用的都是啥技术？](https://www.v2ex.com/t/666676) ![](assets/new.png)  
+- [2020-04-27-有什么方法找到不是粉色的女朋友（男朋友）？](https://www.v2ex.com/t/666675) ![](assets/new.png)  
+- [2020-04-27-折耳根！鱼腥草！](https://www.v2ex.com/t/666674) ![](assets/new.png)  
+- [2020-04-27-现在北京换地方住，必须要重新隔离吗，-之前隔离期已经过了，-有没有不需要重新隔离的？](https://www.v2ex.com/t/666672) ![](assets/new.png)  
+- [2020-04-27-出售两个超靓的域名，有人收？买一送一，便宜送。](https://www.v2ex.com/t/666671) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

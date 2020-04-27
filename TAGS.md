@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -451,6 +451,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694)
 - [【V2EX】202004271652-你们的-QQ-企业邮箱能正常加载吗？](https://www.v2ex.com/t/666664)
 - [【V2EX】SWAP-常见问题分析和性能调优配置实践小结](https://www.v2ex.com/t/666354)
 - [【V2EX】Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://www.v2ex.com/t/665941)
@@ -458,7 +459,6 @@
 - [【V2EX】做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746)
 - [【技术头条】JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用](https://toutiao.io/k/cuwudz9)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -617,6 +617,8 @@
 - [【互联网架构师】Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】阿里巴巴云原生专有云团队招聘](https://www.v2ex.com/t/666686)
+- [【V2EX】祺曜互娱招聘-ing-大量程序岗位等你来！](https://www.v2ex.com/t/666684)
 - [【V2EX】求问大家-zoom-现在面试难度怎么样](https://www.v2ex.com/t/666659)
 - [【V2EX】杭州--求职，大佬们，看下简历有问题吗，投了好久，没有面试。。](https://www.v2ex.com/t/666643)
 - [【V2EX】深圳-自主研发公司，薪酬-10-20K，-招聘优秀应届生及三年工作经验以内的前端/-Java-/-Python-/爬虫](https://www.v2ex.com/t/666628)
@@ -624,8 +626,6 @@
 - [【V2EX】工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545)
 - [【V2EX】华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537)
 - [【V2EX】碰到个面试题，不知道该咋写](https://www.v2ex.com/t/666498)
-- [【V2EX】Base-深圳阿里中心支付宝香港团队-2020-春季招聘前端等岗位-可加微信聊0427](https://www.v2ex.com/t/666491)
-- [【V2EX】字节跳动春招投递-3-天截止！日常实习长期招聘中](https://www.v2ex.com/t/666465)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

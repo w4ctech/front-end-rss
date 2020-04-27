@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -11,6 +11,7 @@
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
+- [2020-04-27-想问下让-Github-仓库存纯图片是不是资源的滥用？](https://www.v2ex.com/t/666581) 
 - [2020-04-26-githubassets.com-无法解析](https://www.v2ex.com/t/666143) 
 - [2020-04-25-最近感觉-Aliyun-机器拉-GitHub-上面的东西好慢呀，大家有这种状况吗？](https://www.v2ex.com/t/666081) 
 - [2020-04-25-请问这种-Git-流程图是用什么工具画的呢？](https://www.v2ex.com/t/665886) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -18,6 +18,7 @@
 - [2020-04-27-Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6) 
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-04-27-上海Demonware-动视暴雪旗下全资子公司招聘-Sr.-Software-Engineer](https://www.v2ex.com/t/666611) 
 - [2020-04-27-工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545) 
 - [2020-04-27-华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537) 
 - [2020-04-27-碰到个面试题，不知道该咋写](https://www.v2ex.com/t/666498) 

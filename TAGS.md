@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 14:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 15:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -242,6 +242,7 @@
 
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】flutter-通栏沉浸状态条|flutter-自定义底部凸起导航栏](https://www.v2ex.com/t/666606)
 - [【V2EX】重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)
 - [【技术头条】Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】复杂业务如何保证-Flutter-的高性能高流畅度？](https://toutiao.io/k/y4wv3k1)
@@ -488,9 +489,9 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】telnet-ip+port-能通，但是通过浏览器访问，提示连接已重置，-err_connection_reset](https://www.v2ex.com/t/666612)
 - [【V2EX】只要设置成简体中文，新-Edge-的新标签就强制显示-cn/zh-内容](https://www.v2ex.com/t/666519)
 - [【V2EX】画时序图-一定要画请求返回值吗](https://www.v2ex.com/t/666506)
-- [【V2EX】NAT-端口转发安全么](https://www.v2ex.com/t/666408)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -574,6 +575,7 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】想问下让-Github-仓库存纯图片是不是资源的滥用？](https://www.v2ex.com/t/666581)
 - [【V2EX】githubassets.com-无法解析](https://www.v2ex.com/t/666143)
 - [【V2EX】最近感觉-Aliyun-机器拉-GitHub-上面的东西好慢呀，大家有这种状况吗？](https://www.v2ex.com/t/666081)
 - [【V2EX】请问这种-Git-流程图是用什么工具画的呢？](https://www.v2ex.com/t/665886)
@@ -612,6 +614,7 @@
 - [【互联网架构师】Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】上海Demonware-动视暴雪旗下全资子公司招聘-Sr.-Software-Engineer](https://www.v2ex.com/t/666611)
 - [【V2EX】工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545)
 - [【V2EX】华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537)
 - [【V2EX】碰到个面试题，不知道该咋写](https://www.v2ex.com/t/666498)
@@ -620,7 +623,6 @@
 - [【V2EX】有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)
 - [【V2EX】字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)
 - [【V2EX】内推校招阿里健康招聘前端、测试、-Java-等工程师](https://www.v2ex.com/t/666416)
-- [【V2EX】京东深圳内推-招聘高级前端工程师](https://www.v2ex.com/t/666311)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

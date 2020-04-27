@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,8 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-27-只要设置成简体中文，新-Edge-的新标签就强制显示-cn/zh-内容](https://www.v2ex.com/t/666519) 
+- [2020-04-27-画时序图-一定要画请求返回值吗](https://www.v2ex.com/t/666506) 
 - [2020-04-26-NAT-端口转发安全么](https://www.v2ex.com/t/666408) 
 - [2020-04-26-在-Linux-上如何监控-PHP-curl-对外请求的-HTTP-或者-HTTPS-域](https://www.v2ex.com/t/666380) 
 - [2020-04-26-edge-浏览器书签同步一坨乱啊](https://www.v2ex.com/t/666352) 

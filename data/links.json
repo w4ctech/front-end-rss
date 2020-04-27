@@ -2298,6 +2298,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "一篇文章让你明白Vue3.0",
+        "link": "https://juejin.im/post/5ea4e2c36fb9a03c917ff180",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[推荐收藏]JavaScript书籍精读笔记系列导航",
+        "link": "https://juejin.im/post/5e9736bb6fb9a03c2e542b1e",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "我来聊聊面向模板的前端开发",
+        "link": "https://juejin.im/post/5ea5b06651882573a67f722b",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "我来聊聊配置驱动的视图开发",
+        "link": "https://juejin.im/post/5ea5b1676fb9a03c8c043100",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "项目中的导航栏搜索及搜索页面的思路",
+        "link": "https://juejin.im/post/5ea639b4f265da47f85e0699",
+        "date": "2020-04-27"
+      },
+      {
         "title": "【译】JavaScript中的call,apply,bind",
         "link": "https://juejin.im/post/5ea590b86fb9a03c6d3dbf10",
         "date": "2020-04-27"
@@ -2901,6 +2926,211 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "电脑莫名游戏中（pr 也出现）卡屏死机,鼠标键盘无反应，关机键无效，只有长按关机键才能强制关机，大佬们有思路哪里出问题了么",
+        "link": "https://www.v2ex.com/t/666535",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "求助各位大佬，这个小程序花了很多精力，想推广出去，该怎样做呢？",
+        "link": "https://www.v2ex.com/t/666534",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Rust Search Extension 0.9 发布！支持搜索任意第三方 crate 的文档了！",
+        "link": "https://www.v2ex.com/t/666533",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "有谁还有印象这里一个帖子, 就是问父母退休后应该做些什么事情?",
+        "link": "https://www.v2ex.com/t/666532",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "有没有朋友们为自己的小孩子建立一个博客或者展示空间的？",
+        "link": "https://www.v2ex.com/t/666531",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "《字节跳动》移动端、服务端等海量 HC 招人啦，部门直推，进度跟踪，拒绝石沉大海！",
+        "link": "https://www.v2ex.com/t/666530",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[深圳][25-40k]招商局金融科技 寻找前端工程师",
+        "link": "https://www.v2ex.com/t/666529",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "多年 windows 用户突然转 Mac 有哪些快速适应的技巧？",
+        "link": "https://www.v2ex.com/t/666528",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Java poi 3.17 版本，预览的时候，转换 doc 格式文件到 pdf 有问题",
+        "link": "https://www.v2ex.com/t/666525",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "微软 JD 自营店的 Office365 家庭版只要 279 了",
+        "link": "https://www.v2ex.com/t/666524",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[北京/上海/杭州] [量化] [数据开发- Python ] 40-60w+浮动年终奖",
+        "link": "https://www.v2ex.com/t/666522",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "求助下这是什么编码？",
+        "link": "https://www.v2ex.com/t/666521",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "只要设置成简体中文，新 Edge 的新标签就强制显示 cn/zh 内容",
+        "link": "https://www.v2ex.com/t/666519",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "你在为宅缺乏运动产生的肥肉苦恼吗？ [9.9 新小米走步机] 等你收走（坐标西二旗）",
+        "link": "https://www.v2ex.com/t/666518",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[阿里 base 杭州] 招人， 3 年以上经验产品、测试、前后端，数据分析师、数据挖掘师、数据产品优先内推",
+        "link": "https://www.v2ex.com/t/666517",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "word 可以直接打开 PDF 文件，自动转为 word 格式后，可编辑。",
+        "link": "https://www.v2ex.com/t/666516",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "刷过一千道算法题，但是看不懂 Vue 源码。",
+        "link": "https://www.v2ex.com/t/666515",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "拓荒计划 在线捞人，鼓励接单",
+        "link": "https://www.v2ex.com/t/666514",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "小米商城优惠券抢购",
+        "link": "https://www.v2ex.com/t/666513",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "五一宣传一波，建立了一个北京户外活动兴趣小组",
+        "link": "https://www.v2ex.com/t/666512",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "5.1 过后可能回去广州出差，各位 V 友，现在广州疫情形势如何啊？",
+        "link": "https://www.v2ex.com/t/666511",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "从 iPhone SE 升级到新 iPhone SE，用 itunes 本地备份/恢复，相册里的照片会从 jpg 转成 heic 吗？",
+        "link": "https://www.v2ex.com/t/666510",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "请问大厂是如何发版的？",
+        "link": "https://www.v2ex.com/t/666509",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "专注力对一个人的一生有多重要",
+        "link": "https://www.v2ex.com/t/666508",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "兜里摸不出俩钢镚，但却觉得几百上千万问题不大，为啥？",
+        "link": "https://www.v2ex.com/t/666507",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "画时序图 一定要画请求返回值吗",
+        "link": "https://www.v2ex.com/t/666506",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[美团点评] 前端/后端/数据/算法/运维/测试/视觉/产品/运营/等岗位大量 HC，欢迎大佬加入！",
+        "link": "https://www.v2ex.com/t/666505",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "请问你们阿里云国际版都是如何续费的",
+        "link": "https://www.v2ex.com/t/666504",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "有哪些好玩且免费的 api 呢？",
+        "link": "https://www.v2ex.com/t/666503",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "大厂外包 VS 十人小厂，大家怎么选。",
+        "link": "https://www.v2ex.com/t/666502",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "MacBook Pro 左侧充电或导致机身发热严重",
+        "link": "https://www.v2ex.com/t/666501",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "淘宝商品搜索工具，感兴趣的看看",
+        "link": "https://www.v2ex.com/t/666500",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "小键盘(60%)真的有点不太适合 Vim 选手",
+        "link": "https://www.v2ex.com/t/666499",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "碰到个面试题，不知道该咋写",
+        "link": "https://www.v2ex.com/t/666498",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "记单词、写笔记工具 坚持不易大家给点建议",
+        "link": "https://www.v2ex.com/t/666497",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "如果不手动杀后台的话，用久了还是会卡",
+        "link": "https://www.v2ex.com/t/666496",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "ios 版本的 shadowrocket 可以用 OBFS 协议吗？",
+        "link": "https://www.v2ex.com/t/666495",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "博客互换友链",
+        "link": "https://www.v2ex.com/t/666494",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "又双叒叕一个简洁的天气小程序：慢天气",
+        "link": "https://www.v2ex.com/t/666493",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "v2ex 的搜索功能用不了",
+        "link": "https://www.v2ex.com/t/666492",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[Base 深圳阿里中心]支付宝香港团队 2020 春季招聘前端等岗位-可加微信聊[0427]",
+        "link": "https://www.v2ex.com/t/666491",
+        "date": "2020-04-27"
+      },
       {
         "title": "页面内实现“预览/编辑”有什么思路吗？",
         "link": "https://www.v2ex.com/t/666490",

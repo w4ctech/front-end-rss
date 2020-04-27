@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -610,6 +610,8 @@
 - [【前端宇宙】在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545)
+- [【V2EX】华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537)
 - [【V2EX】碰到个面试题，不知道该咋写](https://www.v2ex.com/t/666498)
 - [【V2EX】Base-深圳阿里中心支付宝香港团队-2020-春季招聘前端等岗位-可加微信聊0427](https://www.v2ex.com/t/666491)
 - [【V2EX】字节跳动春招投递-3-天截止！日常实习长期招聘中](https://www.v2ex.com/t/666465)
@@ -619,8 +621,6 @@
 - [【V2EX】京东深圳内推-招聘高级前端工程师](https://www.v2ex.com/t/666311)
 - [【V2EX】蚂蚁金服-OceanBase-2020-春季实习生招聘空中宣讲会开播啦！快来领取独家内推名额](https://www.v2ex.com/t/666204)
 - [【V2EX】华为实习岗位内推-华为消费者-BG（终端）北京软件开发实习生招聘](https://www.v2ex.com/t/666177)
-- [【V2EX】看到对几大招聘网站的吐槽，很真实了](https://www.v2ex.com/t/666122)
-- [【V2EX】请问阿里和蚂蚁的两个职位，可以同时走面试流程吗？](https://www.v2ex.com/t/666098)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

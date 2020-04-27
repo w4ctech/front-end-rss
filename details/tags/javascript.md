@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -81,6 +81,8 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-27-eleectron-使用-web-worker-处理批量上传文件，如何将-web-woker-信息很好回传至渲染进程](https://www.v2ex.com/t/666543) 
+- [2020-04-27-请大伙推荐个企业主路由，公司规模-60-人，最好有自带统计报表，满足-3-5-年内的需求，价格-3-5K](https://www.v2ex.com/t/666539) 
 - [2020-04-26-华为-WS5200-路由器（V1，非增强版、四核版）5GHz-信号极其弱、2.4GHz-网速极其慢…](https://www.v2ex.com/t/666392) 
 - [2020-04-26-请教-jq-的-$window.on-和-$window.off-事件？](https://www.v2ex.com/t/666388) 
 - [2020-04-26-2020-04-求个千元-wifi-6-路由器](https://www.v2ex.com/t/666364) 

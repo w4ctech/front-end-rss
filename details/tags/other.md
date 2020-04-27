@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -195,6 +195,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-27-微信领-0.1-8.8-随机现金红包](https://www.v2ex.com/t/666546) 
+- [2020-04-27-iPad-上的-excel-必须-office-365-订阅才能编辑，有无其他好用的-excel-编辑工具](https://www.v2ex.com/t/666542) 
+- [2020-04-27-改造佳翼-NVME-硬盘盒带涡轮风扇版😄](https://www.v2ex.com/t/666541) 
+- [2020-04-27-招租求几个正经的小伙伴分摊服务器费用](https://www.v2ex.com/t/666540) 
+- [2020-04-27-iOS-内存不够自动杀-App-和手动上滑杀-App-有区别么](https://www.v2ex.com/t/666538) 
 - [2020-04-27-Rust-Search-Extension-0.9-发布！支持搜索任意第三方-crate-的文档了！](https://www.v2ex.com/t/666533) 
 - [2020-04-27-有谁还有印象这里一个帖子,-就是问父母退休后应该做些什么事情?](https://www.v2ex.com/t/666532) 
 - [2020-04-27-有没有朋友们为自己的小孩子建立一个博客或者展示空间的？](https://www.v2ex.com/t/666531) 

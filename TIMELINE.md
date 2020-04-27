@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 20:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -260,6 +260,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [【阮一峰的网络日志】2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) 
 - [【阮一峰的网络日志】2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html) 
 - [【阮一峰的网络日志】2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html) 
 - [【阮一峰的网络日志】2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html) 
@@ -437,6 +438,16 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-27-MySQL-使用-source-导入.sql-数据文件，如何处理主键重复记录？](https://www.v2ex.com/t/666730) 
+- [【V2EX】2020-04-27-能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729) 
+- [【V2EX】2020-04-27-坐标武汉,试用期不交五险一金,咋整?](https://www.v2ex.com/t/666728) 
+- [【V2EX】2020-04-27-Java-能把代码块当参数传递到其他方法并执行吗？](https://www.v2ex.com/t/666727) 
+- [【V2EX】2020-04-27-刚看-B-站党妹说自建的-NAS-被爆了](https://www.v2ex.com/t/666726) 
+- [【V2EX】2020-04-27-深圳联通宽带，能否申请-ipv4-的公网-ip，电信是可以的，但是价格贵的-1B](https://www.v2ex.com/t/666723) 
+- [【V2EX】2020-04-27-求问哪里能买到比较靠谱点的世纪互联账号](https://www.v2ex.com/t/666722) 
+- [【V2EX】2020-04-27-segmentfault-技术栈是什么?](https://www.v2ex.com/t/666721) 
+- [【V2EX】2020-04-27-少核高频不如多核低频？](https://www.v2ex.com/t/666720) 
+- [【V2EX】2020-04-27-震惊！-S8-世界冠军和-S9-世界冠军在-LPL-争夺-S10-春季赛季军！](https://www.v2ex.com/t/666717) 
 - [【V2EX】2020-04-27-极客返利|专做网课返利、返现](https://www.v2ex.com/t/666716) 
 - [【V2EX】2020-04-27-未登陆百-du-等一些网站，却被推送与搜索内容相关的广告，怎么做到的？](https://www.v2ex.com/t/666715) 
 - [【V2EX】2020-04-27-50-70-人的互联网公司寻求一款高效办公-app/套件，下面这几个哪个好？](https://www.v2ex.com/t/666714) 

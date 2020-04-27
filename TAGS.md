@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 20:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 21:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -408,6 +408,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)
 - [【V2EX】笔记本电脑只有一个-hdmi-接口和一个-type-c-接口，但-type-c-接口不支持视频传输，我想外接两个显示器，但两个显示器得能做到显示不同内容那种，不能只是复制，...](https://www.v2ex.com/t/666636)
 - [【V2EX】佳能医疗-求生物信息、医学图像算法研究员，-Bioinformatics-实习生！](https://www.v2ex.com/t/666634)
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后端开发，-Server-开发工程师，平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/666625)
@@ -422,7 +423,6 @@
 - [【V2EX】直播分享-企业如何高效平稳实现数据迁移](https://www.v2ex.com/t/666295)
 - [【V2EX】Base-武汉-音频算法，图像算法工程师岗招聘-武汉聚芯微电子](https://www.v2ex.com/t/666207)
 - [【V2EX】有偿求指导一下如何给视频加上盲水印？](https://www.v2ex.com/t/666002)
-- [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -575,6 +575,7 @@
 
 
 - [【前端宇宙】别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36)
+- [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)

@@ -866,6 +866,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "git cherry-pick 教程",
+        "link": "http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html",
+        "date": "2020-04-27"
+      },
+      {
         "title": "科技爱好者周刊：第 104 期",
         "link": "http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html",
         "date": "2020-04-24"
@@ -3016,6 +3021,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "MySQL 使用 source 导入.sql 数据文件，如何处理主键重复记录？",
+        "link": "https://www.v2ex.com/t/666730",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "能把视频上传到 icloud 上去吗",
+        "link": "https://www.v2ex.com/t/666729",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "坐标武汉,试用期不交五险一金,咋整?",
+        "link": "https://www.v2ex.com/t/666728",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Java 能把代码块当参数传递到其他方法并执行吗？",
+        "link": "https://www.v2ex.com/t/666727",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "刚看 B 站党妹说自建的 NAS 被爆了",
+        "link": "https://www.v2ex.com/t/666726",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "深圳联通宽带，能否申请 ipv4 的公网 ip，电信是可以的，但是价格贵的 1B",
+        "link": "https://www.v2ex.com/t/666723",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "求问哪里能买到比较靠谱点的世纪互联账号",
+        "link": "https://www.v2ex.com/t/666722",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "segmentfault 技术栈是什么?",
+        "link": "https://www.v2ex.com/t/666721",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "少核高频不如多核低频？",
+        "link": "https://www.v2ex.com/t/666720",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "震惊！ S8 世界冠军和 S9 世界冠军在 LPL 争夺 S10 春季赛季军！",
+        "link": "https://www.v2ex.com/t/666717",
+        "date": "2020-04-27"
+      },
       {
         "title": "极客返利|专做网课返利、返现",
         "link": "https://www.v2ex.com/t/666716",

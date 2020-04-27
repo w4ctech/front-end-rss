@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -408,6 +408,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】笔记本电脑只有一个-hdmi-接口和一个-type-c-接口，但-type-c-接口不支持视频传输，我想外接两个显示器，但两个显示器得能做到显示不同内容那种，不能只是复制，...](https://www.v2ex.com/t/666636)
+- [【V2EX】佳能医疗-求生物信息、医学图像算法研究员，-Bioinformatics-实习生！](https://www.v2ex.com/t/666634)
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后端开发，-Server-开发工程师，平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/666625)
 - [【V2EX】视频全自动剪辑器](https://www.v2ex.com/t/666570)
 - [【V2EX】在-webrtc-中，如何防止-turn-server-被其它人利用？](https://www.v2ex.com/t/666553)
@@ -421,8 +423,6 @@
 - [【V2EX】Base-武汉-音频算法，图像算法工程师岗招聘-武汉聚芯微电子](https://www.v2ex.com/t/666207)
 - [【V2EX】有偿求指导一下如何给视频加上盲水印？](https://www.v2ex.com/t/666002)
 - [【V2EX】求适合和父母吃饭时候一起看的视频/电影/纪录片](https://www.v2ex.com/t/665909)
-- [【V2EX】大家有在-Facebook-上面投放广告的呀，现在想问问有什么工具可以快速的做个广告小视频](https://www.v2ex.com/t/665905)
-- [【V2EX】在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -451,6 +451,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】202004271652-你们的-QQ-企业邮箱能正常加载吗？](https://www.v2ex.com/t/666664)
 - [【V2EX】SWAP-常见问题分析和性能调优配置实践小结](https://www.v2ex.com/t/666354)
 - [【V2EX】Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://www.v2ex.com/t/665941)
 - [【V2EX】求助-Zerotier-性能堪忧，求大佬指点迷津](https://www.v2ex.com/t/665785)
@@ -458,7 +459,6 @@
 - [【技术头条】JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用](https://toutiao.io/k/cuwudz9)
-- [【开发者头条】通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -521,6 +521,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】校招内推阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/666644)
 - [【V2EX】公司组建一支算法团队的隐性成本都有哪些？](https://www.v2ex.com/t/666556)
 - [【V2EX】macvim-在-iterm-里面直接打开图标乱码怎么办](https://www.v2ex.com/t/666555)
 - [【V2EX】美团点评-前端/后端/数据/算法/运维/测试/视觉/产品/运营/等岗位大量-HC，欢迎大佬加入！](https://www.v2ex.com/t/666505)
@@ -530,7 +531,6 @@
 - [【V2EX】百度云计算网络部_GPU-虚拟化技术资深工程师](https://www.v2ex.com/t/666400)
 - [【V2EX】作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382)
 - [【V2EX】为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)
-- [【V2EX】问境科技招贤纳士（北京/上海）招后端开发工程师、算法实习生、嵌入式、运维](https://www.v2ex.com/t/666315)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -617,6 +617,8 @@
 - [【互联网架构师】Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】求问大家-zoom-现在面试难度怎么样](https://www.v2ex.com/t/666659)
+- [【V2EX】杭州--求职，大佬们，看下简历有问题吗，投了好久，没有面试。。](https://www.v2ex.com/t/666643)
 - [【V2EX】深圳-自主研发公司，薪酬-10-20K，-招聘优秀应届生及三年工作经验以内的前端/-Java-/-Python-/爬虫](https://www.v2ex.com/t/666628)
 - [【V2EX】上海Demonware-动视暴雪旗下全资子公司招聘-Sr.-Software-Engineer](https://www.v2ex.com/t/666611)
 - [【V2EX】工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545)
@@ -624,8 +626,6 @@
 - [【V2EX】碰到个面试题，不知道该咋写](https://www.v2ex.com/t/666498)
 - [【V2EX】Base-深圳阿里中心支付宝香港团队-2020-春季招聘前端等岗位-可加微信聊0427](https://www.v2ex.com/t/666491)
 - [【V2EX】字节跳动春招投递-3-天截止！日常实习长期招聘中](https://www.v2ex.com/t/666465)
-- [【V2EX】有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)
-- [【V2EX】字节跳动春招投递-4-天截止！日常实习长期招聘中！](https://www.v2ex.com/t/666425)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

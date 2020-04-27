@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 08:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -533,9 +533,9 @@
 </summary>
 
 
-- [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) ![](assets/new.png)  
-- [2020-04-24-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30) ![](assets/new.png)  
-- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) ![](assets/new.png)  
+- [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c)  
+- [2020-04-24-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30)  
+- [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212)  
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf)  
 - [2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca)  
 - [......【查看更多】......](./details/前端日刊.md)
@@ -774,9 +774,11 @@
 </summary>
 
 
-- [2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457) ![](assets/new.png)  
-- [2020-04-27-请问现在哪些相机-APP-能把照片转换成漫画风格，时光相册以前可以现在那个滤镜不见了](https://www.v2ex.com/t/666456) ![](assets/new.png)  
-- [2020-04-27-培训班出身，个人很迷茫，请大家指点一下。](https://www.v2ex.com/t/666455) ![](assets/new.png)  
+- [2020-04-27-请教会采集的大佬一个图文采集的问题](https://www.v2ex.com/t/666459) ![](assets/new.png)  
+- [2020-04-27-从编程到编曲---程序员转行指南大量干货](https://www.v2ex.com/t/666458) ![](assets/new.png)  
+- [2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457)  
+- [2020-04-27-请问现在哪些相机-APP-能把照片转换成漫画风格，时光相册以前可以现在那个滤镜不见了](https://www.v2ex.com/t/666456)  
+- [2020-04-27-培训班出身，个人很迷茫，请大家指点一下。](https://www.v2ex.com/t/666455)  
 - [2020-04-27-有人在面试的时候用数位板的吗？](https://www.v2ex.com/t/666454)  
 - [2020-04-27-5-年前的微信聊天记录备份文件如下，有大佬知道怎么恢复么？跪求](https://www.v2ex.com/t/666453)  
 - [2020-04-27-中老年-IT-妇女-可以做点啥...](https://www.v2ex.com/t/666452)  
@@ -792,8 +794,6 @@
 - [2020-04-27-犯二退了-IPTV-盒子的我，如何再看-IPTV](https://www.v2ex.com/t/666438)  
 - [2020-04-27-为什么月薪几千的朋友都看不起-30W-以下的车](https://www.v2ex.com/t/666437)  
 - [2020-04-27-哪里能给老款-MBP-升级-CPU?](https://www.v2ex.com/t/666436)  
-- [2020-04-27-警惕购买小米巨能写中性笔](https://www.v2ex.com/t/666435)  
-- [2020-04-27-某宝：看什么看，穷鬼，买不起就鳖浪费我服务器流量-:doge:](https://www.v2ex.com/t/666434)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -836,6 +836,12 @@
 </summary>
 
 
+- [2020-04-27-Redis-分布式锁的-5-个坑，真是又大又深](https://toutiao.io/k/lc0q9a9) ![](assets/new.png)  
+- [2020-04-27-译-理解-JavaScript-内存模型，就靠这几张图了](https://toutiao.io/k/1ob7owe) ![](assets/new.png)  
+- [2020-04-27-译-谷歌-OKR-指导手册](https://toutiao.io/k/bmts2u9) ![](assets/new.png)  
+- [2020-04-27-译-官方博文：2019-年-Go-开发者调查结果](https://toutiao.io/k/sdg5dii) ![](assets/new.png)  
+- [2020-04-27-每日一题：字符串转换整数-atoi](https://toutiao.io/k/tt2zfzg) ![](assets/new.png)  
+- [2020-04-27-阿里巴巴编码规范-Java-证明](https://toutiao.io/k/ebs8hew) ![](assets/new.png)  
 - [2020-04-27-推荐-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt)  
 - [2020-04-26-Pornhub-第一位中文译者：如何给知名网站做本地化？](https://toutiao.io/k/22zw6pr)  
 - [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys)  
@@ -850,12 +856,6 @@
 - [2020-04-26-当-Spring-Cloud-Alibaba-Sentinel-碰上-Spring-Cloud-Sleuth-会擦出怎样的火花](https://toutiao.io/k/lfwirjf)  
 - [2020-04-26-Lucene-索引文件的生成（十三）](https://toutiao.io/k/9sic9mi)  
 - [2020-04-26-GitHub-中间人攻击原理分析](https://toutiao.io/k/31d57uv)  
-- [2020-04-26-模仿学习简介](https://toutiao.io/k/hjeoasu)  
-- [2020-04-26-推荐-Redis-基础知识总结（面试必备）](https://toutiao.io/k/hbtpocr)  
-- [2020-04-25-推荐-面试常问的-Java-虚拟机运行时数据区](https://toutiao.io/k/f0m6na1)  
-- [2020-04-25-PHPUnit-基本使用](https://toutiao.io/k/unha4wf)  
-- [2020-04-25-饿了么交易系统-5-年演化史](https://toutiao.io/k/f5j32j8)  
-- [2020-04-25-Kyligence-韩卿：立志做出中国自己的全球顶级数据平台](https://toutiao.io/k/x4sjjxh)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

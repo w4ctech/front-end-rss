@@ -2882,6 +2882,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请教会采集的大佬一个图文采集的问题",
+        "link": "https://www.v2ex.com/t/666459",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "从编程到编曲 - 程序员转行指南(大量干货)",
+        "link": "https://www.v2ex.com/t/666458",
+        "date": "2020-04-27"
+      },
+      {
         "title": "一个静态注入动态库的工具: luject",
         "link": "https://www.v2ex.com/t/666457",
         "date": "2020-04-27"
@@ -6660,6 +6670,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Redis 分布式锁的 5 个坑，真是又大又深",
+        "link": "https://toutiao.io/k/lc0q9a9",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[译] 理解 JavaScript 内存模型，就靠这几张图了",
+        "link": "https://toutiao.io/k/1ob7owe",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[译] 谷歌 OKR 指导手册",
+        "link": "https://toutiao.io/k/bmts2u9",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "[译] 官方博文：2019 年 Go 开发者调查结果",
+        "link": "https://toutiao.io/k/sdg5dii",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "每日一题：字符串转换整数 (atoi)",
+        "link": "https://toutiao.io/k/tt2zfzg",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "阿里巴巴编码规范 (Java) 证明",
+        "link": "https://toutiao.io/k/ebs8hew",
+        "date": "2020-04-27"
+      },
       {
         "title": "[推荐] 2020 最新版 Web 开发者学习路线图来了，收好",
         "link": "https://toutiao.io/k/1d9qljt",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -192,6 +192,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-27-请教会采集的大佬一个图文采集的问题](https://www.v2ex.com/t/666459) 
+- [2020-04-27-从编程到编曲---程序员转行指南大量干货](https://www.v2ex.com/t/666458) 
 - [2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457) 
 - [2020-04-27-请问现在哪些相机-APP-能把照片转换成漫画风格，时光相册以前可以现在那个滤镜不见了](https://www.v2ex.com/t/666456) 
 - [2020-04-27-培训班出身，个人很迷茫，请大家指点一下。](https://www.v2ex.com/t/666455) 
@@ -775,6 +777,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-27-Redis-分布式锁的-5-个坑，真是又大又深](https://toutiao.io/k/lc0q9a9) 
+- [2020-04-27-译-谷歌-OKR-指导手册](https://toutiao.io/k/bmts2u9) 
+- [2020-04-27-译-官方博文：2019-年-Go-开发者调查结果](https://toutiao.io/k/sdg5dii) 
+- [2020-04-27-每日一题：字符串转换整数-atoi](https://toutiao.io/k/tt2zfzg) 
+- [2020-04-27-阿里巴巴编码规范-Java-证明](https://toutiao.io/k/ebs8hew) 
 - [2020-04-27-推荐-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt) 
 - [2020-04-26-Pornhub-第一位中文译者：如何给知名网站做本地化？](https://toutiao.io/k/22zw6pr) 
 - [2020-04-26-Spring-源码（八）：扩展点之-mybatis-集成](https://toutiao.io/k/m1946pk) 

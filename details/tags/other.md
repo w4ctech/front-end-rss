@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -778,6 +778,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6) 
+- [2020-04-27-Awk-这件上古神兵你会用了吗？](https://toutiao.io/k/79jppjo) 
+- [2020-04-27-Linux-命令记不住？试试这款-Linux-命令大全搜索工具](https://toutiao.io/k/qny4oo3) 
 - [2020-04-27-Linux-环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://toutiao.io/k/0r9tu1a) 
 - [2020-04-27-彻底弄懂-Lambda-和高阶函数](https://toutiao.io/k/94aazvu) 
 - [2020-04-27-阿里社招面经-已拿-offer](https://toutiao.io/k/yn6ucqm) 

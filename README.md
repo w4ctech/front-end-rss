@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 09:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 09:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -639,7 +639,7 @@
 </summary>
 
 
-- [2020-04-27-JS-图片简易压缩](https://juejin.im/post/5ea574cc518825736e57fcca) ![](assets/new.png)  
+- [2020-04-27-JS-图片简易压缩](https://juejin.im/post/5ea574cc518825736e57fcca)  
 - [2020-04-26-译大哥你JavaScript可能不太需要switch](https://juejin.im/post/5ea56215e51d4547134bf55b)  
 - [2020-04-26-学了-gulp-想练练手？正好压缩下你的博客](https://juejin.im/post/5ea52a50e51d4547126406ca)  
 - [2020-04-26-JavaScript模块化历程](https://juejin.im/post/5ea56d2451882573883be5ae)  
@@ -774,7 +774,7 @@
 </summary>
 
 
-- [2020-04-27-bilibili-图片服务器被劫持？](https://www.v2ex.com/t/666462) ![](assets/new.png)  
+- [2020-04-27-bilibili-图片服务器被劫持？](https://www.v2ex.com/t/666462)  
 - [2020-04-27-请教会采集的大佬一个图文采集的问题](https://www.v2ex.com/t/666459)  
 - [2020-04-27-从编程到编曲---程序员转行指南大量干货](https://www.v2ex.com/t/666458)  
 - [2020-04-27-一个静态注入动态库的工具:-luject](https://www.v2ex.com/t/666457)  
@@ -836,26 +836,26 @@
 </summary>
 
 
-- [2020-04-27-Linux-环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://toutiao.io/k/0r9tu1a) ![](assets/new.png)  
-- [2020-04-27-彻底弄懂-Lambda-和高阶函数](https://toutiao.io/k/94aazvu) ![](assets/new.png)  
-- [2020-04-27-Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa) ![](assets/new.png)  
-- [2020-04-27-阿里社招面经-已拿-offer](https://toutiao.io/k/yn6ucqm) ![](assets/new.png)  
-- [2020-04-27-一文彻底搞懂安卓-WebView-白名单校验](https://toutiao.io/k/67epac4) ![](assets/new.png)  
-- [2020-04-27-二十分钟封装，一个-App-前后台-Http-交互的实现](https://toutiao.io/k/ibwaj6e) ![](assets/new.png)  
-- [2020-04-27-架构设计基础：单服务、集群、分布式的基本区别和联系](https://toutiao.io/k/qfdoann) ![](assets/new.png)  
-- [2020-04-27-Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://toutiao.io/k/a7duyzp) ![](assets/new.png)  
+- [2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6) ![](assets/new.png)  
+- [2020-04-27-通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj) ![](assets/new.png)  
+- [2020-04-27-面试官：Spring-Boot-中关于日志工具的使用，我想问你几个常见问题](https://toutiao.io/k/hgefq69) ![](assets/new.png)  
+- [2020-04-27-深入分析-Spark-UDF-的性能](https://toutiao.io/k/ehltvkc) ![](assets/new.png)  
+- [2020-04-27-Awk-这件上古神兵你会用了吗？](https://toutiao.io/k/79jppjo) ![](assets/new.png)  
+- [2020-04-27-Linux-命令记不住？试试这款-Linux-命令大全搜索工具](https://toutiao.io/k/qny4oo3) ![](assets/new.png)  
+- [2020-04-27-Linux-环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://toutiao.io/k/0r9tu1a)  
+- [2020-04-27-彻底弄懂-Lambda-和高阶函数](https://toutiao.io/k/94aazvu)  
+- [2020-04-27-Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa)  
+- [2020-04-27-阿里社招面经-已拿-offer](https://toutiao.io/k/yn6ucqm)  
+- [2020-04-27-一文彻底搞懂安卓-WebView-白名单校验](https://toutiao.io/k/67epac4)  
+- [2020-04-27-二十分钟封装，一个-App-前后台-Http-交互的实现](https://toutiao.io/k/ibwaj6e)  
+- [2020-04-27-架构设计基础：单服务、集群、分布式的基本区别和联系](https://toutiao.io/k/qfdoann)  
+- [2020-04-27-Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://toutiao.io/k/a7duyzp)  
 - [2020-04-27-Redis-分布式锁的-5-个坑，真是又大又深](https://toutiao.io/k/lc0q9a9)  
 - [2020-04-27-译-理解-JavaScript-内存模型，就靠这几张图了](https://toutiao.io/k/1ob7owe)  
 - [2020-04-27-译-谷歌-OKR-指导手册](https://toutiao.io/k/bmts2u9)  
 - [2020-04-27-译-官方博文：2019-年-Go-开发者调查结果](https://toutiao.io/k/sdg5dii)  
 - [2020-04-27-每日一题：字符串转换整数-atoi](https://toutiao.io/k/tt2zfzg)  
 - [2020-04-27-阿里巴巴编码规范-Java-证明](https://toutiao.io/k/ebs8hew)  
-- [2020-04-27-推荐-2020-最新版-Web-开发者学习路线图来了，收好](https://toutiao.io/k/1d9qljt)  
-- [2020-04-26-Pornhub-第一位中文译者：如何给知名网站做本地化？](https://toutiao.io/k/22zw6pr)  
-- [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys)  
-- [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk)  
-- [2020-04-26-初探-Hadoop-集群安全](https://toutiao.io/k/bkes0be)  
-- [2020-04-26-零信任理念有望缓解-fastjson-软件漏洞](https://toutiao.io/k/o3g911d)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

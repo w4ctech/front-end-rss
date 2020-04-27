@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1167,6 +1167,12 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6) 
+- [【开发者头条】2020-04-27-通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj) 
+- [【开发者头条】2020-04-27-面试官：Spring-Boot-中关于日志工具的使用，我想问你几个常见问题](https://toutiao.io/k/hgefq69) 
+- [【开发者头条】2020-04-27-深入分析-Spark-UDF-的性能](https://toutiao.io/k/ehltvkc) 
+- [【开发者头条】2020-04-27-Awk-这件上古神兵你会用了吗？](https://toutiao.io/k/79jppjo) 
+- [【开发者头条】2020-04-27-Linux-命令记不住？试试这款-Linux-命令大全搜索工具](https://toutiao.io/k/qny4oo3) 
 - [【开发者头条】2020-04-27-Linux-环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://toutiao.io/k/0r9tu1a) 
 - [【开发者头条】2020-04-27-彻底弄懂-Lambda-和高阶函数](https://toutiao.io/k/94aazvu) 
 - [【开发者头条】2020-04-27-Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa) 

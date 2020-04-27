@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 00:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 01:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -783,14 +783,18 @@
 </summary>
 
 
-- [2020-04-28-疫情期间，主动拿被裁名额还是继续苟着这份也会要走的工作？](https://www.v2ex.com/t/666775) ![](assets/new.png)  
-- [2020-04-28-Alfred-mega-supporter-转让](https://www.v2ex.com/t/666774) ![](assets/new.png)  
-- [2020-04-28-应届毕业生-offer-选择，求给个建议](https://www.v2ex.com/t/666772) ![](assets/new.png)  
-- [2020-04-28-有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770) ![](assets/new.png)  
-- [2020-04-28-macOS-下有什么好用的看图软件吗？](https://www.v2ex.com/t/666769) ![](assets/new.png)  
-- [2020-04-27-cap-中的-C-和-分布式、集群的关系-有点混淆-谢谢](https://www.v2ex.com/t/666768) ![](assets/new.png)  
-- [2020-04-27-吐槽一下微信入群二维码被“撞库”](https://www.v2ex.com/t/666767) ![](assets/new.png)  
-- [2020-04-27-米-6-用户刚更新-MIUI12，说下体验。欢迎尝鲜的同学来讨论。](https://www.v2ex.com/t/666766) ![](assets/new.png)  
+- [2020-04-28-referrerpolicy="no-referrer"与反反防盗链](https://www.v2ex.com/t/666780) ![](assets/new.png)  
+- [2020-04-28-求助：用-idea-写-servlet-连接不上数据库](https://www.v2ex.com/t/666778) ![](assets/new.png)  
+- [2020-04-28-什么是最终一致性，有点混淆，谢谢](https://www.v2ex.com/t/666777) ![](assets/new.png)  
+- [2020-04-28-你们哪些地方用到-cap-的知识了？](https://www.v2ex.com/t/666776) ![](assets/new.png)  
+- [2020-04-28-疫情期间，主动拿被裁名额还是继续苟着这份也会要走的工作？](https://www.v2ex.com/t/666775)  
+- [2020-04-28-Alfred-mega-supporter-转让](https://www.v2ex.com/t/666774)  
+- [2020-04-28-应届毕业生-offer-选择，求给个建议](https://www.v2ex.com/t/666772)  
+- [2020-04-28-有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770)  
+- [2020-04-28-macOS-下有什么好用的看图软件吗？](https://www.v2ex.com/t/666769)  
+- [2020-04-27-cap-中的-C-和-分布式、集群的关系-有点混淆-谢谢](https://www.v2ex.com/t/666768)  
+- [2020-04-27-吐槽一下微信入群二维码被“撞库”](https://www.v2ex.com/t/666767)  
+- [2020-04-27-米-6-用户刚更新-MIUI12，说下体验。欢迎尝鲜的同学来讨论。](https://www.v2ex.com/t/666766)  
 - [2020-04-27-突然发现在新设备上安装的-Nplayer-plus-验证通不过了？有-V-友遇到同样的问题吗？](https://www.v2ex.com/t/666763)  
 - [2020-04-27-峰值-5000-并发量的服务器需要什么配置比较合理？](https://www.v2ex.com/t/666761)  
 - [2020-04-27-现在考研转计算机是一个明智的选择吗（就业角度）？](https://www.v2ex.com/t/666760)  
@@ -799,10 +803,6 @@
 - [2020-04-27-主宾谓的语言结构是不是很牛？](https://www.v2ex.com/t/666756)  
 - [2020-04-27-这种情况，我该不该代管父母的钱？](https://www.v2ex.com/t/666754)  
 - [2020-04-27-现在还有好用的国外电话卡吗](https://www.v2ex.com/t/666753)  
-- [2020-04-27-有和我一样每天上网课上到-12-点的留学生们吗](https://www.v2ex.com/t/666752)  
-- [2020-04-27-推荐几款适合博客的免费-WordPress-主题模板](https://www.v2ex.com/t/666750)  
-- [2020-04-27-flask-伪静态的问题](https://www.v2ex.com/t/666749)  
-- [2020-04-27-现在自己搭-tttttiiizzziii-风险怎么样，还划算吗？](https://www.v2ex.com/t/666748)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

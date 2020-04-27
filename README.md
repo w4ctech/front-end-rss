@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 12:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 13:00:20，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -639,6 +639,7 @@
 </summary>
 
 
+- [2020-04-27-【招聘】诚聘小程序云开发工程师远程-技术大牛到碗里来](https://mp.weixin.qq.com/s/22cc8pUofvhZOaHnbmsKJQ) ![](assets/new.png)  
 - [2020-04-27-一篇文章让你明白Vue3.0](https://juejin.im/post/5ea4e2c36fb9a03c917ff180)  
 - [2020-04-27-推荐收藏JavaScript书籍精读笔记系列导航](https://juejin.im/post/5e9736bb6fb9a03c2e542b1e)  
 - [2020-04-27-我来聊聊面向模板的前端开发](https://juejin.im/post/5ea5b06651882573a67f722b)  
@@ -658,7 +659,6 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)  
 - [2020-04-26-可视化D3专题系列（二）折线图](https://juejin.im/post/5ea4120ee51d45470e2bfb8f)  
 - [2020-04-26-译Virtual-DOM-is-pure-overhead](https://juejin.im/post/5ea4095f5188257367223585)  
-- [2020-04-26-CSS-文档流-和-盒模型](https://juejin.im/post/5ea45a155188257392090074)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -774,26 +774,26 @@
 </summary>
 
 
-- [2020-04-27-微信领-0.1-8.8-随机现金红包](https://www.v2ex.com/t/666546) ![](assets/new.png)  
-- [2020-04-27-工作-7-年的程序员面试时还紧张，正常吗？](https://www.v2ex.com/t/666545) ![](assets/new.png)  
-- [2020-04-27-Ant-Design-Vue-日期范围控件问题](https://www.v2ex.com/t/666544) ![](assets/new.png)  
-- [2020-04-27-eleectron-使用-web-worker-处理批量上传文件，如何将-web-woker-信息很好回传至渲染进程](https://www.v2ex.com/t/666543) ![](assets/new.png)  
-- [2020-04-27-iPad-上的-excel-必须-office-365-订阅才能编辑，有无其他好用的-excel-编辑工具](https://www.v2ex.com/t/666542) ![](assets/new.png)  
-- [2020-04-27-改造佳翼-NVME-硬盘盒带涡轮风扇版😄](https://www.v2ex.com/t/666541) ![](assets/new.png)  
-- [2020-04-27-招租求几个正经的小伙伴分摊服务器费用](https://www.v2ex.com/t/666540) ![](assets/new.png)  
-- [2020-04-27-请大伙推荐个企业主路由，公司规模-60-人，最好有自带统计报表，满足-3-5-年内的需求，价格-3-5K](https://www.v2ex.com/t/666539) ![](assets/new.png)  
-- [2020-04-27-iOS-内存不够自动杀-App-和手动上滑杀-App-有区别么](https://www.v2ex.com/t/666538) ![](assets/new.png)  
-- [2020-04-27-华为普工面试题，这道题怎么解](https://www.v2ex.com/t/666537) ![](assets/new.png)  
-- [2020-04-27-电脑莫名游戏中（pr-也出现）卡屏死机,鼠标键盘无反应，关机键无效，只有长按关机键才能强制关机，大佬们有思路哪里出问题了么](https://www.v2ex.com/t/666535)  
-- [2020-04-27-求助各位大佬，这个小程序花了很多精力，想推广出去，该怎样做呢？](https://www.v2ex.com/t/666534)  
-- [2020-04-27-Rust-Search-Extension-0.9-发布！支持搜索任意第三方-crate-的文档了！](https://www.v2ex.com/t/666533)  
-- [2020-04-27-有谁还有印象这里一个帖子,-就是问父母退休后应该做些什么事情?](https://www.v2ex.com/t/666532)  
-- [2020-04-27-有没有朋友们为自己的小孩子建立一个博客或者展示空间的？](https://www.v2ex.com/t/666531)  
-- [2020-04-27-《字节跳动》移动端、服务端等海量-HC-招人啦，部门直推，进度跟踪，拒绝石沉大海！](https://www.v2ex.com/t/666530)  
-- [2020-04-27-深圳25-40k招商局金融科技-寻找前端工程师](https://www.v2ex.com/t/666529)  
-- [2020-04-27-多年-windows-用户突然转-Mac-有哪些快速适应的技巧？](https://www.v2ex.com/t/666528)  
-- [2020-04-27-Java-poi-3.17-版本，预览的时候，转换-doc-格式文件到-pdf-有问题](https://www.v2ex.com/t/666525)  
-- [2020-04-27-微软-JD-自营店的-Office365-家庭版只要-279-了](https://www.v2ex.com/t/666524)  
+- [2020-04-27-视频全自动剪辑器](https://www.v2ex.com/t/666570) ![](assets/new.png)  
+- [2020-04-27-顺丰寄件，快递员私自退回导致快件丢失，该怎么办？](https://www.v2ex.com/t/666569) ![](assets/new.png)  
+- [2020-04-27-MySQL-如何选择符合条件的数据记录导出到.sql-文件中，并且可以把这个.sql-文件再读入数据库？](https://www.v2ex.com/t/666568) ![](assets/new.png)  
+- [2020-04-27-对移动宽带的最后遐想](https://www.v2ex.com/t/666566) ![](assets/new.png)  
+- [2020-04-27-请教一个-vue-select-里面动态设值的问题](https://www.v2ex.com/t/666564) ![](assets/new.png)  
+- [2020-04-27-SE2-某东差评好多~](https://www.v2ex.com/t/666563) ![](assets/new.png)  
+- [2020-04-27-未来的程序员会不会变得和今天的司机一样呢？](https://www.v2ex.com/t/666562) ![](assets/new.png)  
+- [2020-04-27-有没有类似于-telegra.ph-写作体验的博客啊？](https://www.v2ex.com/t/666561) ![](assets/new.png)  
+- [2020-04-27-广州/深圳-19-届-Java-开发-求职](https://www.v2ex.com/t/666560) ![](assets/new.png)  
+- [2020-04-27-文科生玩树莓派直接卡壳。请教关于开机发送-IP-的相关问题。](https://www.v2ex.com/t/666559) ![](assets/new.png)  
+- [2020-04-27-PS4-的奖杯系统怎么实现？](https://www.v2ex.com/t/666558) ![](assets/new.png)  
+- [2020-04-27-迫于-4-月份被裁，想在五一放假结束之前，学习一些-golang-、gin-关于-go-开发的东西-,然后在找一份开发的工作，这样可行嘛（之前一直在做运维）](https://www.v2ex.com/t/666557) ![](assets/new.png)  
+- [2020-04-27-公司组建一支算法团队的隐性成本都有哪些？](https://www.v2ex.com/t/666556) ![](assets/new.png)  
+- [2020-04-27-macvim-在-iterm-里面直接打开图标乱码怎么办](https://www.v2ex.com/t/666555) ![](assets/new.png)  
+- [2020-04-27-SE2-vs-12](https://www.v2ex.com/t/666554) ![](assets/new.png)  
+- [2020-04-27-在-webrtc-中，如何防止-turn-server-被其它人利用？](https://www.v2ex.com/t/666553) ![](assets/new.png)  
+- [2020-04-27-戴尔官网买服务器折扣？](https://www.v2ex.com/t/666552) ![](assets/new.png)  
+- [2020-04-27-做了一个图床中关村/网易/头条/葫芦侠/腾讯/阿里/360](https://www.v2ex.com/t/666551) ![](assets/new.png)  
+- [2020-04-27-有个需求想请教一下各位大佬](https://www.v2ex.com/t/666550) ![](assets/new.png)  
+- [2020-04-27-新出的一加-8-pro-拥有-全功能-nfc-吗，我看所有的广告都没说](https://www.v2ex.com/t/666548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

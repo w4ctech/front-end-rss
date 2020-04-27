@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -12,6 +12,8 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-04-27-视频全自动剪辑器](https://www.v2ex.com/t/666570) 
+- [2020-04-27-在-webrtc-中，如何防止-turn-server-被其它人利用？](https://www.v2ex.com/t/666553) 
 - [2020-04-27-RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488) 
 - [2020-04-27-为什么国内的视频-app-如腾讯视频，-爱奇艺等-，-不做像油管那种双击快进或快退的功能呢？](https://www.v2ex.com/t/666483) 
 - [2020-04-26-Flash-直播怎么提取直播源地址呢？](https://www.v2ex.com/t/666387) 

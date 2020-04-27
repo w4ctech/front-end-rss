@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-27 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,6 +404,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】视频全自动剪辑器](https://www.v2ex.com/t/666570)
+- [【V2EX】在-webrtc-中，如何防止-turn-server-被其它人利用？](https://www.v2ex.com/t/666553)
 - [【V2EX】RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488)
 - [【V2EX】为什么国内的视频-app-如腾讯视频，-爱奇艺等-，-不做像油管那种双击快进或快退的功能呢？](https://www.v2ex.com/t/666483)
 - [【V2EX】Flash-直播怎么提取直播源地址呢？](https://www.v2ex.com/t/666387)
@@ -417,8 +419,6 @@
 - [【V2EX】大家有在-Facebook-上面投放广告的呀，现在想问问有什么工具可以快速的做个广告小视频](https://www.v2ex.com/t/665905)
 - [【V2EX】在-b-站看视频,发现一个等宽字体很漂亮,没搜到,请问下是什么字体](https://www.v2ex.com/t/665849)
 - [【V2EX】关于阿里的视频隐形水印](https://www.v2ex.com/t/665812)
-- [【V2EX】看到个天猫精灵玩儿你想我猜的视频-求科普原理](https://www.v2ex.com/t/665811)
-- [【V2EX】楼顶晒衣服老是被偷，想装个摄像头在楼顶，有好的推荐吗](https://www.v2ex.com/t/665702)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,6 +517,8 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】公司组建一支算法团队的隐性成本都有哪些？](https://www.v2ex.com/t/666556)
+- [【V2EX】macvim-在-iterm-里面直接打开图标乱码怎么办](https://www.v2ex.com/t/666555)
 - [【V2EX】美团点评-前端/后端/数据/算法/运维/测试/视觉/产品/运营/等岗位大量-HC，欢迎大佬加入！](https://www.v2ex.com/t/666505)
 - [【V2EX】小键盘60%真的有点不太适合-Vim-选手](https://www.v2ex.com/t/666499)
 - [【V2EX】elasticsearch-的-snapshot-居然不能合并！那我怎样将另一台服务器索引添加进来？](https://www.v2ex.com/t/666477)
@@ -525,8 +527,6 @@
 - [【V2EX】作为算法工程师，你的时间都是怎么分配的？](https://www.v2ex.com/t/666382)
 - [【V2EX】为什么现在还有学校的网站不弄-HTTPS？](https://www.v2ex.com/t/666366)
 - [【V2EX】问境科技招贤纳士（北京/上海）招后端开发工程师、算法实习生、嵌入式、运维](https://www.v2ex.com/t/666315)
-- [【V2EX】window-下使用-xampp-搭建的网站，一共有-5-个，其中一个-ssl-网站定期就会打不开（该网站绑定的其他域名也能打开唯独加了-https-的域名无法访问），其他正常，...](https://www.v2ex.com/t/666134)
-- [【V2EX】brew-elastic/tap-巨慢](https://www.v2ex.com/t/666038)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

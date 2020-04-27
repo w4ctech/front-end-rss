@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-27 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-27 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -43,6 +43,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-04-27-请教一个-vue-select-里面动态设值的问题](https://www.v2ex.com/t/666564) 
 - [2020-04-27-Ant-Design-Vue-日期范围控件问题](https://www.v2ex.com/t/666544) 
 - [2020-04-27-刷过一千道算法题，但是看不懂-Vue-源码。](https://www.v2ex.com/t/666515) 
 - [2020-04-26-广州20k-40k-Vue-前端/-Python-后端工程师招聘](https://www.v2ex.com/t/666316) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 13:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 14:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,8 +29,8 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [前端迷](#前端迷)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -296,6 +296,8 @@
 </summary>
 
 
+- [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0) ![](assets/new.png)  
+- [2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c) ![](assets/new.png)  
 - [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19)  
 - [2020-04-25-C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a)  
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57)  
@@ -319,7 +321,7 @@
 </summary>
 
 
-- [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89) ![](assets/new.png)  
+- [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89)  
 - [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb)  
 - [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245)  
 - [2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4)  
@@ -561,6 +563,10 @@
 </summary>
 
 
+- [2020-04-27-Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6) ![](assets/new.png)  
+- [2020-04-27-你必须掌握的-21-个-Java-核心技术！](https://www.ershicimi.com/p/58c4100ac4abe2b58785d36490eca51d) ![](assets/new.png)  
+- [2020-04-27-不要为了“分库分表”而“分库分表”！](https://www.ershicimi.com/p/89058100f3db2450a050adcf7649040f) ![](assets/new.png)  
+- [2020-04-27-Spring-的-BeanFactory-和-FactoryBean-傻傻分不清？](https://www.ershicimi.com/p/4b7fe38907ac75549b131a3224ca5418) ![](assets/new.png)  
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)  
 - [2020-04-26-BAT互联网大厂的后端主流技术栈是啥？](https://www.ershicimi.com/p/4c56dd9a09b7b31dc8dc9329231e7bca)  
 - [2020-04-26-老板说，我请你来，不是叫你"无脑"拷贝的，竟然在线上搞出这么大的一个BUG...](https://www.ershicimi.com/p/8509d00eca3f7f3f1f80d514317a61b4)  
@@ -577,10 +583,6 @@
 - [2020-04-23-我把SpringBoot项目从18.18M瘦身到0.18M，部署起来真省事！](https://www.ershicimi.com/p/17fe039ed8b773b1bf91dea7ff46cf3d)  
 - [2020-04-23-分库、分表、分区的区别，傻傻分不清？](https://www.ershicimi.com/p/bfc45833f7eee82e421a48e5e09bbcbf)  
 - [2020-04-22-呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50)  
-- [2020-04-22-从-0-编写自己的第一款-IDEA-插件！](https://www.ershicimi.com/p/d305be2ef4eec93877a0d277d8b9dbda)  
-- [2020-04-22-推荐-4-款-MySQL-调优工具，大神都在用！](https://www.ershicimi.com/p/7ad4d60799947ba271b55d68f8ab48eb)  
-- [2020-04-22-枚举很好用啊，为啥阿里不建议返回值用枚举？看看作者孤尽的回答](https://www.ershicimi.com/p/d4f3b39f3f8ca152a1eb1d02dcf6fc07)  
-- [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -837,13 +839,15 @@
 </summary>
 
 
-- [2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq) ![](assets/new.png)  
-- [2020-04-27-Prometheus-+-Grafana-监控整个-Linux-网络栈](https://toutiao.io/k/4liyibg) ![](assets/new.png)  
-- [2020-04-27-打造云原生大型分布式监控系统：-Thanos-部署与实践](https://toutiao.io/k/4ti2zcc) ![](assets/new.png)  
-- [2020-04-27-迎接-Vue-3.0：在-Vue-2-与-Vue-3-中构建相同的组件](https://toutiao.io/k/adiubjg) ![](assets/new.png)  
-- [2020-04-27-为流媒体而生的-MSE-API](https://toutiao.io/k/slhvdn8) ![](assets/new.png)  
-- [2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy) ![](assets/new.png)  
-- [2020-04-27-闲谈软件系统中的复杂度](https://toutiao.io/k/2oazlbi) ![](assets/new.png)  
+- [2020-04-27-抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用](https://toutiao.io/k/cuwudz9) ![](assets/new.png)  
+- [2020-04-27-需求理解不一致？那是你的需求沟通有问题](https://toutiao.io/k/rjly69c) ![](assets/new.png)  
+- [2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq)  
+- [2020-04-27-Prometheus-+-Grafana-监控整个-Linux-网络栈](https://toutiao.io/k/4liyibg)  
+- [2020-04-27-打造云原生大型分布式监控系统：-Thanos-部署与实践](https://toutiao.io/k/4ti2zcc)  
+- [2020-04-27-迎接-Vue-3.0：在-Vue-2-与-Vue-3-中构建相同的组件](https://toutiao.io/k/adiubjg)  
+- [2020-04-27-为流媒体而生的-MSE-API](https://toutiao.io/k/slhvdn8)  
+- [2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy)  
+- [2020-04-27-闲谈软件系统中的复杂度](https://toutiao.io/k/2oazlbi)  
 - [2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6)  
 - [2020-04-27-通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj)  
 - [2020-04-27-面试官：Spring-Boot-中关于日志工具的使用，我想问你几个常见问题](https://toutiao.io/k/hgefq69)  
@@ -855,8 +859,6 @@
 - [2020-04-27-Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa)  
 - [2020-04-27-阿里社招面经-已拿-offer](https://toutiao.io/k/yn6ucqm)  
 - [2020-04-27-一文彻底搞懂安卓-WebView-白名单校验](https://toutiao.io/k/67epac4)  
-- [2020-04-27-二十分钟封装，一个-App-前后台-Http-交互的实现](https://toutiao.io/k/ibwaj6e)  
-- [2020-04-27-架构设计基础：单服务、集群、分布式的基本区别和联系](https://toutiao.io/k/qfdoann)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

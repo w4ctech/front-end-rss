@@ -490,6 +490,16 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "阿里盒马前端校招面试，你要的答案来了",
+        "link": "https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）",
+        "link": "https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c",
+        "date": "2020-04-27"
+      },
+      {
         "title": "《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。",
         "link": "https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19",
         "date": "2020-04-26"
@@ -2026,6 +2036,26 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "Java 面试 1 小时，我看出了和月薪 3w 的差距",
+        "link": "https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "你必须掌握的 21 个 Java 核心技术！",
+        "link": "https://www.ershicimi.com/p/58c4100ac4abe2b58785d36490eca51d",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "不要为了“分库分表”而“分库分表”！",
+        "link": "https://www.ershicimi.com/p/89058100f3db2450a050adcf7649040f",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Spring 的 BeanFactory 和 FactoryBean 傻傻分不清？",
+        "link": "https://www.ershicimi.com/p/4b7fe38907ac75549b131a3224ca5418",
+        "date": "2020-04-27"
+      },
       {
         "title": "JDK 各版本(1~14)特性总结，面试再也不怕了",
         "link": "https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef",
@@ -7215,6 +7245,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用",
+        "link": "https://toutiao.io/k/cuwudz9",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "需求理解不一致？那是你的需求沟通有问题",
+        "link": "https://toutiao.io/k/rjly69c",
+        "date": "2020-04-27"
+      },
       {
         "title": "[译] 最 Cool Kubernetes 网络方案 Cilium 入门教程",
         "link": "https://toutiao.io/k/pabcvyq",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 21:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 22:00:21，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -822,26 +822,26 @@
 </summary>
 
 
-- [2020-04-28-有什么跨平台的-TODO-List-软件支持导出任务到-Apple-Calendar-或者-Google-Calendar？](https://www.v2ex.com/t/667071) ![](assets/new.png)  
-- [2020-04-28-16-款-15-寸-macbookpro-还能再战几年？](https://www.v2ex.com/t/667070) ![](assets/new.png)  
-- [2020-04-28-一个初学抓包的小白的疑问](https://www.v2ex.com/t/667069) ![](assets/new.png)  
-- [2020-04-28-一种简单的提高-C#,-Java-破解成本的方法](https://www.v2ex.com/t/667068) ![](assets/new.png)  
-- [2020-04-28-北京滴滴-集团级业务中台内推](https://www.v2ex.com/t/667067) ![](assets/new.png)  
-- [2020-04-28-有新的机会，但短时间不能离职......](https://www.v2ex.com/t/667066) ![](assets/new.png)  
-- [2020-04-28-大家怎么看金山系软件仿冒其他软件安装后门,中了招的应该怎么处理](https://www.v2ex.com/t/667065) ![](assets/new.png)  
-- [2020-04-28-问下大家，-18:57-吃饭没回消息，-19:10-微信被删，这是不是我吃饭时间太长了？](https://www.v2ex.com/t/667064) ![](assets/new.png)  
-- [2020-04-28-Android-开发新手，想实现一个社交-app-的匹配功能（类似-soul-的匹配），请问大家有何想法？](https://www.v2ex.com/t/667063)  
-- [2020-04-28-大家有没有出现过挂载的网络位置导致系统卡顿无响应的？](https://www.v2ex.com/t/667062)  
-- [2020-04-28-Android-的-shell-screencap--p-太慢了，有没有更高效的方法呢？](https://www.v2ex.com/t/667061)  
-- [2020-04-28-出腾讯云的十名账号](https://www.v2ex.com/t/667060)  
-- [2020-04-28-今天去农田插秧，体会了一下锄禾日当午](https://www.v2ex.com/t/667057)  
-- [2020-04-28-2019-mbp-和-2020-macmini-怎么选？预算-1w](https://www.v2ex.com/t/667055)  
-- [2020-04-28-上层内斗+部门内斗，要不是疫情真想跑路，吐了](https://www.v2ex.com/t/667053)  
-- [2020-04-28-是否有某款软件/服务因为存在某个击中你痛点的功能,而使你毅然放弃它的其他所有同类竞品?](https://www.v2ex.com/t/667052)  
-- [2020-04-28-小米-mix2-刚更新完-miui11-3.26-的更新包后无法使用谷歌](https://www.v2ex.com/t/667050)  
-- [2020-04-28-缅怀一下即刻-App](https://www.v2ex.com/t/667048)  
-- [2020-04-28-MySQL-该不该给-status-添加索引？](https://www.v2ex.com/t/667047)  
-- [2020-04-28-vscode-markdown-navbar-for-toc](https://www.v2ex.com/t/667045)  
+- [2020-04-28-有用阿里云-香港虚拟机的-吗？-速度如何？](https://www.v2ex.com/t/667090) ![](assets/new.png)  
+- [2020-04-28-请教，如何删除钥匙串中保存的-iOS-设备备份密码？](https://www.v2ex.com/t/667088) ![](assets/new.png)  
+- [2020-04-28-你们土区的-Netflix-还能看么？](https://www.v2ex.com/t/667087) ![](assets/new.png)  
+- [2020-04-28-机械键盘有必要上手托吗？](https://www.v2ex.com/t/667086) ![](assets/new.png)  
+- [2020-04-28-请教如何删除通过-ShareX-截图后自动上传到-imgur-的图片？](https://www.v2ex.com/t/667085) ![](assets/new.png)  
+- [2020-04-28-怎么把-socket-连接-管道（转交给）给另一个程序使用？](https://www.v2ex.com/t/667084) ![](assets/new.png)  
+- [2020-04-28-今日的-AppStore-限免应用还不错嘛（3）](https://www.v2ex.com/t/667082) ![](assets/new.png)  
+- [2020-04-28-尝试早起六点读书](https://www.v2ex.com/t/667081) ![](assets/new.png)  
+- [2020-04-28-分享一个自己开发的方便查找学区的小程序-——-成都学区](https://www.v2ex.com/t/667080) ![](assets/new.png)  
+- [2020-04-28-Google-间歇性打不开是咋回事](https://www.v2ex.com/t/667079) ![](assets/new.png)  
+- [2020-04-28-今日的-AppStore-限免应用还不错嘛（2）](https://www.v2ex.com/t/667078) ![](assets/new.png)  
+- [2020-04-28-你们收到有没有学生收到食品补助呢？](https://www.v2ex.com/t/667077) ![](assets/new.png)  
+- [2020-04-28-一年经验前端求上海一线二线互联网公司职位](https://www.v2ex.com/t/667076) ![](assets/new.png)  
+- [2020-04-28-今日的-AppStore-限免应用还不错嘛](https://www.v2ex.com/t/667075) ![](assets/new.png)  
+- [2020-04-28-迫于需求，求配置-5000-以下轻薄笔记本一台，用于女孩学习用。](https://www.v2ex.com/t/667074) ![](assets/new.png)  
+- [2020-04-28-推荐系统这一块现在好找工作吗](https://www.v2ex.com/t/667072) ![](assets/new.png)  
+- [2020-04-28-有什么跨平台的-TODO-List-软件支持导出任务到-Apple-Calendar-或者-Google-Calendar？](https://www.v2ex.com/t/667071)  
+- [2020-04-28-16-款-15-寸-macbookpro-还能再战几年？](https://www.v2ex.com/t/667070)  
+- [2020-04-28-一个初学抓包的小白的疑问](https://www.v2ex.com/t/667069)  
+- [2020-04-28-一种简单的提高-C#,-Java-破解成本的方法](https://www.v2ex.com/t/667068)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -853,6 +853,17 @@
 </summary>
 
 
+- [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-Android-Jetpack-最佳开发姿势-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13424&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Yo_oo89mcbU26EJXMjLoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-面试了一个-46-岁程序员，总结了很多-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13423&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfH3KrrBKktoKByASbXp6QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13422&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUHf3oefGCx9iBMiy8mksw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13421&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEe0WURUKzOMq7LtT0uZdZg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-爬了知乎“神回复”，笑得根本停不下来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13420&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8bWawMC5aJN7tvOlXqwvGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-更快学习编程的-7-个重要技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13419&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxm5pesMY2XAlWacRzAM5PQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-21-个令程序员泪流满面的瞬间-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13418&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEAi7QWEeyjnjf_Kez4SYcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-读阿里巴巴-Android-开发手册的总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13426&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fca0zm9r-5v1JEsJHOh0KOg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-28-聊一个可能有惊喜的System-GC知识点-club.perfma.com](https://blogread.cn/news/go.php?idItem=13416&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F548171%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -862,17 +873,6 @@
 - [2020-04-26-20-张程序员不得不看的内涵动图...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13409&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhqaJAkjPURC7jm0EGnkwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13407&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy5kazWqWK69USNR_9WLCXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-记录项目升级-AndroidX+API29-的各种坑-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13406&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjKrWkbjp5JpWWCyCvNwuAw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-看完知乎轮子哥的编程之路，我只想说，收下我的膝盖...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13405&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMtNZU9d5rYglxs0d5DnQ4A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-ApkCrack-一键生成支持-Android-7.0-抓包的-apk-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13404&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7kBRWiONrdS9pur31hakXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-8-个-Python-高效数据分析的技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13412&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBRF0C9xCFDzihIQ4O8Jm9A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-VS-Code-必知必会的-20-个快捷键！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13403&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbq49kAPRMX9Wf9FLrDt1IQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-IDEA-推出新的字体，这次真的爱了！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13391&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyNMJMpp-sBaWpIY7J4TTQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-以图搜图系统概述及工程实践（下）-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13401&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F134259579%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-一个黑客的自白书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-hackers-confession%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

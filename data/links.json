@@ -3302,6 +3302,86 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有用阿里云 香港虚拟机的 吗？ 速度如何？",
+        "link": "https://www.v2ex.com/t/667090",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "请教，如何删除钥匙串中保存的 iOS 设备备份密码？",
+        "link": "https://www.v2ex.com/t/667088",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "你们土区的 Netflix 还能看么？",
+        "link": "https://www.v2ex.com/t/667087",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "机械键盘有必要上手托吗？",
+        "link": "https://www.v2ex.com/t/667086",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "请教如何删除通过 ShareX 截图后自动上传到 imgur 的图片？",
+        "link": "https://www.v2ex.com/t/667085",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "怎么把 socket 连接 管道（转交给）给另一个程序使用？",
+        "link": "https://www.v2ex.com/t/667084",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "今日的 AppStore 限免应用还不错嘛（3）",
+        "link": "https://www.v2ex.com/t/667082",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "尝试早起六点读书",
+        "link": "https://www.v2ex.com/t/667081",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "分享一个自己开发的方便查找学区的小程序 —— 成都学区",
+        "link": "https://www.v2ex.com/t/667080",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Google 间歇性打不开是咋回事",
+        "link": "https://www.v2ex.com/t/667079",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "今日的 AppStore 限免应用还不错嘛（2）",
+        "link": "https://www.v2ex.com/t/667078",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "你们收到有没有学生收到食品补助呢？",
+        "link": "https://www.v2ex.com/t/667077",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "一年经验前端求上海一线二线互联网公司职位",
+        "link": "https://www.v2ex.com/t/667076",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "今日的 AppStore 限免应用还不错嘛",
+        "link": "https://www.v2ex.com/t/667075",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "迫于需求，求配置 5000 以下轻薄笔记本一台，用于女孩学习用。",
+        "link": "https://www.v2ex.com/t/667074",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "推荐系统这一块现在好找工作吗",
+        "link": "https://www.v2ex.com/t/667072",
+        "date": "2020-04-28"
+      },
+      {
         "title": "有什么跨平台的 TODO List 软件支持导出任务到 Apple Calendar 或者 Google Calendar？",
         "link": "https://www.v2ex.com/t/667071",
         "date": "2020-04-28"
@@ -9453,6 +9533,61 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "10 分钟实现 Java 发送邮件功能 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "试试 IntelliJ IDEA 自带的高能神器！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Postwoman 替代 Postman (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Android Jetpack 最佳开发姿势 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13424&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Yo_oo89mcbU26EJXMjLoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "面试了一个 46 岁程序员，总结了很多 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13423&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfH3KrrBKktoKByASbXp6QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "VS Code 新版本重磅发布，迎来 2020 年首个重大更新！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13422&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUHf3oefGCx9iBMiy8mksw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "重磅！GitHub 官方开源新命令行工具 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13421&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEe0WURUKzOMq7LtT0uZdZg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "爬了知乎“神回复”，笑得根本停不下来 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13420&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8bWawMC5aJN7tvOlXqwvGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "更快学习编程的 7 个重要技巧 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13419&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fxm5pesMY2XAlWacRzAM5PQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "21 个令程序员泪流满面的瞬间 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13418&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEAi7QWEeyjnjf_Kez4SYcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "读阿里巴巴 Android 开发手册的总结 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13426&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fca0zm9r-5v1JEsJHOh0KOg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
       {
         "title": "聊一个可能有惊喜的System GC知识点 (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13416&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F548171%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-04-28 19:00:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-28-2019-mbp-和-2020-macmini-怎么选？预算-1w](https://www.v2ex.com/t/667055) 
+- [2020-04-28-上层内斗+部门内斗，要不是疫情真想跑路，吐了](https://www.v2ex.com/t/667053) 
+- [2020-04-28-是否有某款软件/服务因为存在某个击中你痛点的功能,而使你毅然放弃它的其他所有同类竞品?](https://www.v2ex.com/t/667052) 
+- [2020-04-28-小米-mix2-刚更新完-miui11-3.26-的更新包后无法使用谷歌](https://www.v2ex.com/t/667050) 
 - [2020-04-28-缅怀一下即刻-App](https://www.v2ex.com/t/667048) 
 - [2020-04-28-MySQL-该不该给-status-添加索引？](https://www.v2ex.com/t/667047) 
 - [2020-04-28-vscode-markdown-navbar-for-toc](https://www.v2ex.com/t/667045) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 19:00:35。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 19:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -494,6 +494,10 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-28-2019-mbp-和-2020-macmini-怎么选？预算-1w](https://www.v2ex.com/t/667055) 
+- [【V2EX】2020-04-28-上层内斗+部门内斗，要不是疫情真想跑路，吐了](https://www.v2ex.com/t/667053) 
+- [【V2EX】2020-04-28-是否有某款软件/服务因为存在某个击中你痛点的功能,而使你毅然放弃它的其他所有同类竞品?](https://www.v2ex.com/t/667052) 
+- [【V2EX】2020-04-28-小米-mix2-刚更新完-miui11-3.26-的更新包后无法使用谷歌](https://www.v2ex.com/t/667050) 
 - [【V2EX】2020-04-28-缅怀一下即刻-App](https://www.v2ex.com/t/667048) 
 - [【V2EX】2020-04-28-MySQL-该不该给-status-添加索引？](https://www.v2ex.com/t/667047) 
 - [【V2EX】2020-04-28-vscode-markdown-navbar-for-toc](https://www.v2ex.com/t/667045) 

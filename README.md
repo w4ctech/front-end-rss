@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 02:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 02:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -822,9 +822,10 @@
 </summary>
 
 
-- [2020-04-29-码农接活防坑铁律](https://www.v2ex.com/t/667139) ![](assets/new.png)  
-- [2020-04-29-关于”合同到期公司不续签”带来的那点烦心事](https://www.v2ex.com/t/667138) ![](assets/new.png)  
-- [2020-04-29-关于提高-c++水平的一个疑问](https://www.v2ex.com/t/667137) ![](assets/new.png)  
+- [2020-04-29-听周杰伦的歌现在咋这么难](https://www.v2ex.com/t/667140) ![](assets/new.png)  
+- [2020-04-29-码农接活防坑铁律](https://www.v2ex.com/t/667139)  
+- [2020-04-29-关于”合同到期公司不续签”带来的那点烦心事](https://www.v2ex.com/t/667138)  
+- [2020-04-29-关于提高-c++水平的一个疑问](https://www.v2ex.com/t/667137)  
 - [2020-04-29-charles-抓包返回的是-gzip-乱码-如何能显示拿到争取的数据？](https://www.v2ex.com/t/667136)  
 - [2020-04-29-ip-地址欺骗](https://www.v2ex.com/t/667135)  
 - [2020-04-29-为什么没人做租车位的-app](https://www.v2ex.com/t/667134)  
@@ -841,7 +842,6 @@
 - [2020-04-28-快手16-薪起高年终-北京+杭州大力发展中-内推-ing](https://www.v2ex.com/t/667122)  
 - [2020-04-28-相比较于手机移动热点，随身-WIFI-在网络连接上是否有优势？](https://www.v2ex.com/t/667121)  
 - [2020-04-28-有上海电信的朋友吗](https://www.v2ex.com/t/667118)  
-- [2020-04-28-Python-做的-lambda-演算示例](https://www.v2ex.com/t/667116)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

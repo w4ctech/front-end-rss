@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 19:00:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -232,6 +232,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-28-缅怀一下即刻-App](https://www.v2ex.com/t/667048) 
+- [2020-04-28-MySQL-该不该给-status-添加索引？](https://www.v2ex.com/t/667047) 
+- [2020-04-28-vscode-markdown-navbar-for-toc](https://www.v2ex.com/t/667045) 
+- [2020-04-28-记一次-Macbook-进水经历](https://www.v2ex.com/t/667044) 
+- [2020-04-28-在编写-Python-代码时，-vs-code-有-pycharm-那样使用-alt+enter-生成函数的功能吗？](https://www.v2ex.com/t/667043) 
 - [2020-04-28-硬广好消息-Coderlan-支持内嵌模式了👐](https://www.v2ex.com/t/667040) 
 - [2020-04-28-腾讯云的对象存储接口真的很复杂！](https://www.v2ex.com/t/667039) 
 - [2020-04-28-如何鉴别用户的民族是在-56-个民族范围](https://www.v2ex.com/t/667038) 

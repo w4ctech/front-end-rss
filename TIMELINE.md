@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -445,6 +445,7 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795) 
 - [【V2EX】2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794) 
 - [【V2EX】2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793) 
 - [【V2EX】2020-04-28-一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792) 

@@ -3057,6 +3057,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "xmake v2.3.3 发布, 新增 iOS/MacOS Framework 和 App 构建支持",
+        "link": "https://www.v2ex.com/t/666795",
+        "date": "2020-04-28"
+      },
+      {
         "title": "@looseChen 可否换一下头像",
         "link": "https://www.v2ex.com/t/666794",
         "date": "2020-04-28"

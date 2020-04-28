@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -140,8 +140,8 @@
 </summary>
 
 
-- [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14) ![](assets/new.png)  
-- [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) ![](assets/new.png)  
+- [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)  
+- [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)  
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
 - [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
@@ -785,8 +785,9 @@
 </summary>
 
 
-- [2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794) ![](assets/new.png)  
-- [2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793) ![](assets/new.png)  
+- [2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795) ![](assets/new.png)  
+- [2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794)  
+- [2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793)  
 - [2020-04-28-一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792)  
 - [2020-04-28-一个上海电信天翼网关可以接三个路由器吗？](https://www.v2ex.com/t/666791)  
 - [2020-04-28-如何从-MAS-安装应用历史版本](https://www.v2ex.com/t/666790)  
@@ -804,7 +805,6 @@
 - [2020-04-28-疫情期间，主动拿被裁名额还是继续苟着这份也会要走的工作？](https://www.v2ex.com/t/666775)  
 - [2020-04-28-Alfred-mega-supporter-转让](https://www.v2ex.com/t/666774)  
 - [2020-04-28-应届毕业生-offer-选择，求给个建议](https://www.v2ex.com/t/666772)  
-- [2020-04-28-有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

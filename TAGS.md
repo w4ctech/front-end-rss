@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-28 23:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 00:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -409,6 +409,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】有没有什么方法或软件可以批量检测直播流码率](https://www.v2ex.com/t/667124)
 - [【V2EX】请教一个直播流延时的问题，不是降低延迟，是增加延迟](https://www.v2ex.com/t/667100)
 - [【V2EX】虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/666925)
 - [【V2EX】能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)
@@ -423,7 +424,6 @@
 - [【V2EX】分享一个短视频去水印工具，支持抖音短视频解析](https://www.v2ex.com/t/666369)
 - [【V2EX】有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322)
 - [【V2EX】佳能医疗-求生物信息研究员、医学图像算法研究员、Bioinformatics-实习生！](https://www.v2ex.com/t/666319)
-- [【V2EX】直播分享-企业如何高效平稳实现数据迁移](https://www.v2ex.com/t/666295)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

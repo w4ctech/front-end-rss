@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,7 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-28-5G-浏览器在-5G-上可以做什么更新和调整呢？](https://www.v2ex.com/t/666970) 
 - [2020-04-28-fastcgi_cache-有没有办法为网站每个子目录单独设置缓存路径？](https://www.v2ex.com/t/666957) 
 - [2020-04-28-IE11-下载文件后，-win10-假死，请大雕兄弟帮帮忙](https://www.v2ex.com/t/666931) 
 - [2020-04-28-使用-jwt-进行鉴权,-刷新-token-功能相对于仅仅使用-access-token-在安全上体现在什么方面?](https://www.v2ex.com/t/666923) 

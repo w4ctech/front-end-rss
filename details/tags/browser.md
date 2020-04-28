@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,9 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-28-IE11-下载文件后，-win10-假死，请大雕兄弟帮帮忙](https://www.v2ex.com/t/666931) 
+- [2020-04-28-使用-jwt-进行鉴权,-刷新-token-功能相对于仅仅使用-access-token-在安全上体现在什么方面?](https://www.v2ex.com/t/666923) 
+- [2020-04-28-Java-使用-RestHighLevelClient-调用慢](https://www.v2ex.com/t/666915) 
 - [2020-04-28-浏览器可以在-5G-上做什么更新和调整呢](https://www.v2ex.com/t/666899) 
 - [2020-04-28-selenium-怎么实现通过添加-cookie-免登录](https://www.v2ex.com/t/666884) 
 - [2020-04-28-神锁离线版助力任天堂账号安全](https://www.v2ex.com/t/666855) 

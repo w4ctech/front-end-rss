@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-28 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 17:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -631,8 +631,8 @@
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】字节面试的问题](https://www.v2ex.com/t/667011)
 - [【V2EX】面试招人的困惑](https://www.v2ex.com/t/666969)
-- [【V2EX】人工智能超算中心-招聘全职坐班-Java-&系统运维开发](https://www.v2ex.com/t/666843)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -3317,6 +3317,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "看了《猎狐》我都不敢炒股了",
+        "link": "https://www.v2ex.com/t/667144",
+        "date": "2020-04-29"
+      },
+      {
         "title": "现在新办深圳电信游戏宽带还是全局 CN2 吗？",
         "link": "https://www.v2ex.com/t/667143",
         "date": "2020-04-29"
@@ -10015,6 +10020,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "有了这套题解，再也不怕刷 LeetCode 了",
+        "link": "https://toutiao.io/k/cgm1s49",
+        "date": "2020-04-29"
+      },
       {
         "title": "你未必真的了解线程安全，别骗自己，来看下怎么实现线程安全",
         "link": "https://toutiao.io/k/fv357t8",

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-04-28 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-04-28-作为毕业生的我在钉钉这一年的成长之路](https://www.ershicimi.com/p/abbf02a53068ab18076e1c4b05db8ef1) 
+- [2020-04-27-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/93c073e7a4ba809c092ea97f6515c38c) 
+- [2020-04-26-成为前端大师的9个项目](https://www.ershicimi.com/p/e803b2c391b238d9c5deb324ac7c4fb1) 
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 

@@ -271,6 +271,21 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "不懂源码的前端不是真正的前端",
+        "link": "https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "CSS 故障艺术",
+        "link": "https://www.ershicimi.com/p/97300669e535c370b85f1bef8cf6c2e3",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "高性能前端架构解决方案",
+        "link": "https://www.ershicimi.com/p/deebed12b03e518f78c36558f9dd7ff0",
+        "date": "2020-04-27"
+      },
+      {
         "title": "公开课|快到没朋友？程序员必会的yolo模型（附福利）",
         "link": "https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a",
         "date": "2020-04-26"
@@ -1054,6 +1069,16 @@
     "title": "凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "京东小程序 Taro 开发对比原生开发测评",
+        "link": "https://aotu.io/notes/2020/04/27/taro-vs-jd/",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "使用 Taro 快速开发京东小程序",
+        "link": "https://aotu.io/notes/2020/04/27/taro-build-jd/",
+        "date": "2020-04-27"
+      },
       {
         "title": "Atom 服务架构演变",
         "link": "https://aotu.io/notes/2020/04/21/atom-services-upgrade/",
@@ -2172,6 +2197,26 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "重磅！又一个自主研发的国产操作系统要出现了？传中科红旗正研发新一代Linux",
+        "link": "https://www.ershicimi.com/p/3067d7b85a777794bb9cd58ca9cc5301",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "这份Java面试题，阿里P7的正确率都不到50%!!",
+        "link": "https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "IntelliJ IDEA 2020.1 首个稳定版重磅发布！",
+        "link": "https://www.ershicimi.com/p/cbda1c7f93f8491c872a57a0af4fd3a6",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "一文带你搞懂 MySQL 中的分区！",
+        "link": "https://www.ershicimi.com/p/791dc08e9da84307c8f7d4b2538e87a2",
+        "date": "2020-04-28"
+      },
+      {
         "title": "Java 面试 1 小时，我看出了和月薪 3w 的差距",
         "link": "https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6",
         "date": "2020-04-27"
@@ -3171,6 +3216,76 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "直接用 gdi 绘制、dx 绘制和直接开一个窗口有什么区别？",
+        "link": "https://www.v2ex.com/t/666868",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "ANDROID_SDK_ROOT \"Cannot find AVD system path\" \"Broken AVD system path\"",
+        "link": "https://www.v2ex.com/t/666867",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "米家驱蚊器噪音问题. 以及竞品求推荐.",
+        "link": "https://www.v2ex.com/t/666865",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "如何发送适配暗黑模式的邮件？",
+        "link": "https://www.v2ex.com/t/666864",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "分享一个好用的 PAC 策略",
+        "link": "https://www.v2ex.com/t/666862",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "想问一下大佬们，你们项目开发会用什么项目管理工具，例如 teamBition 这类敏捷开发的工具？如何坚持下来的呢？",
+        "link": "https://www.v2ex.com/t/666861",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "可怕我才上线没几天，这会不会是有人恶意搞我",
+        "link": "https://www.v2ex.com/t/666860",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "一个把网页版 SaaS 变成桌面 App 的应用，你需要什么样的 API？",
+        "link": "https://www.v2ex.com/t/666859",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "手机主副卡实用吗,有没有在用或者很好的使用方案?",
+        "link": "https://www.v2ex.com/t/666858",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "QQ for Mac 群公告变成 涓嶆敮鎸佺殑娑堟伅绫诲瀷",
+        "link": "https://www.v2ex.com/t/666857",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "第 45 次 CNNIC 报告出炉，再次统计国际出口带宽",
+        "link": "https://www.v2ex.com/t/666856",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "神锁离线版助力任天堂账号安全",
+        "link": "https://www.v2ex.com/t/666855",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "speedtest 能跑满，但是 youtube 就不行是为啥？",
+        "link": "https://www.v2ex.com/t/666853",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "怎么连接 iPhone 和 mbp",
+        "link": "https://www.v2ex.com/t/666852",
+        "date": "2020-04-28"
+      },
       {
         "title": "状态栏图标残留现象？有时候是微博的 icon，有时候是其他图标。",
         "link": "https://www.v2ex.com/t/666851",

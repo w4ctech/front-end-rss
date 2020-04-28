@@ -1,10 +1,24 @@
-:alarm_clock: 更新时间: 2020-04-28 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-28-直接用-gdi-绘制、dx-绘制和直接开一个窗口有什么区别？](https://www.v2ex.com/t/666868) 
+- [2020-04-28-ANDROID_SDK_ROOT-"Cannot-find-AVD-system-path"-"Broken-AVD-system-path"](https://www.v2ex.com/t/666867) 
+- [2020-04-28-米家驱蚊器噪音问题.-以及竞品求推荐.](https://www.v2ex.com/t/666865) 
+- [2020-04-28-如何发送适配暗黑模式的邮件？](https://www.v2ex.com/t/666864) 
+- [2020-04-28-分享一个好用的-PAC-策略](https://www.v2ex.com/t/666862) 
+- [2020-04-28-想问一下大佬们，你们项目开发会用什么项目管理工具，例如-teamBition-这类敏捷开发的工具？如何坚持下来的呢？](https://www.v2ex.com/t/666861) 
+- [2020-04-28-可怕我才上线没几天，这会不会是有人恶意搞我](https://www.v2ex.com/t/666860) 
+- [2020-04-28-一个把网页版-SaaS-变成桌面-App-的应用，你需要什么样的-API？](https://www.v2ex.com/t/666859) 
+- [2020-04-28-手机主副卡实用吗,有没有在用或者很好的使用方案?](https://www.v2ex.com/t/666858) 
+- [2020-04-28-QQ-for-Mac-群公告变成-涓嶆敮鎸佺殑娑堟伅绫诲瀷](https://www.v2ex.com/t/666857) 
+- [2020-04-28-第-45-次-CNNIC-报告出炉，再次统计国际出口带宽](https://www.v2ex.com/t/666856) 
+- [2020-04-28-神锁离线版助力任天堂账号安全](https://www.v2ex.com/t/666855) 
+- [2020-04-28-speedtest-能跑满，但是-youtube-就不行是为啥？](https://www.v2ex.com/t/666853) 
+- [2020-04-28-怎么连接-iPhone-和-mbp](https://www.v2ex.com/t/666852) 
 - [2020-04-28-状态栏图标残留现象？有时候是微博的-icon，有时候是其他图标。](https://www.v2ex.com/t/666851) 
 - [2020-04-28-社招内推求职渠道](https://www.v2ex.com/t/666850) 
 - [2020-04-28-新款-MBP-14'-会有-6-核吗？](https://www.v2ex.com/t/666849) 

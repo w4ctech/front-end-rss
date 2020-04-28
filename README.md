@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 11:00:20，:rocket: 更新条数: +37， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 11:30:20，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,13 +23,13 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -39,11 +39,11 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -194,6 +194,9 @@
 </summary>
 
 
+- [2020-04-28-不懂源码的前端不是真正的前端](https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32) ![](assets/new.png)  
+- [2020-04-28-CSS-故障艺术](https://www.ershicimi.com/p/97300669e535c370b85f1bef8cf6c2e3) ![](assets/new.png)  
+- [2020-04-27-高性能前端架构解决方案](https://www.ershicimi.com/p/deebed12b03e518f78c36558f9dd7ff0) ![](assets/new.png)  
 - [2020-04-26-公开课|快到没朋友？程序员必会的yolo模型（附福利）](https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a)  
 - [2020-04-26-iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8)  
 - [2020-04-24-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e)  
@@ -309,7 +312,7 @@
 </summary>
 
 
-- [2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305) ![](assets/new.png)  
+- [2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305)  
 - [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0)  
 - [2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c)  
 - [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19)  
@@ -505,6 +508,8 @@
 </summary>
 
 
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
 - [2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)  
 - [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/)  
 - [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)  
@@ -523,8 +528,6 @@
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)  
 - [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)  
 - [2019-09-25-玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)  
-- [2019-09-11-从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)  
-- [2019-08-26-京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -590,6 +593,10 @@
 </summary>
 
 
+- [2020-04-28-重磅！又一个自主研发的国产操作系统要出现了？传中科红旗正研发新一代Linux](https://www.ershicimi.com/p/3067d7b85a777794bb9cd58ca9cc5301) ![](assets/new.png)  
+- [2020-04-28-这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3) ![](assets/new.png)  
+- [2020-04-28-IntelliJ-IDEA-2020.1-首个稳定版重磅发布！](https://www.ershicimi.com/p/cbda1c7f93f8491c872a57a0af4fd3a6) ![](assets/new.png)  
+- [2020-04-28-一文带你搞懂-MySQL-中的分区！](https://www.ershicimi.com/p/791dc08e9da84307c8f7d4b2538e87a2) ![](assets/new.png)  
 - [2020-04-27-Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)  
 - [2020-04-27-你必须掌握的-21-个-Java-核心技术！](https://www.ershicimi.com/p/58c4100ac4abe2b58785d36490eca51d)  
 - [2020-04-27-不要为了“分库分表”而“分库分表”！](https://www.ershicimi.com/p/89058100f3db2450a050adcf7649040f)  
@@ -606,10 +613,6 @@
 - [2020-04-24-一个奇怪的MySQL慢查询，打懵了一群不懂业务的DBA！](https://www.ershicimi.com/p/deb23a494f13f1c2edab77f4f6e5fdc1)  
 - [2020-04-24-珍藏很久的9个网站，再舍不得也得分享出来！](https://www.ershicimi.com/p/ec4d168d14d2022258e1ff0f60436d8a)  
 - [2020-04-24-在我看来，代码审查就是在排大便...](https://www.ershicimi.com/p/e382af5ac2e834670db70bf48238301d)  
-- [2020-04-23-四月最新整理的Java学习资料与电子书，免费分享！](https://www.ershicimi.com/p/8d6bbfd094055d6a4801c7e460c2dcf7)  
-- [2020-04-23-我把SpringBoot项目从18.18M瘦身到0.18M，部署起来真省事！](https://www.ershicimi.com/p/17fe039ed8b773b1bf91dea7ff46cf3d)  
-- [2020-04-23-分库、分表、分区的区别，傻傻分不清？](https://www.ershicimi.com/p/bfc45833f7eee82e421a48e5e09bbcbf)  
-- [2020-04-22-呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -808,26 +811,26 @@
 </summary>
 
 
-- [2020-04-28-状态栏图标残留现象？有时候是微博的-icon，有时候是其他图标。](https://www.v2ex.com/t/666851) ![](assets/new.png)  
-- [2020-04-28-社招内推求职渠道](https://www.v2ex.com/t/666850) ![](assets/new.png)  
-- [2020-04-28-新款-MBP-14'-会有-6-核吗？](https://www.v2ex.com/t/666849) ![](assets/new.png)  
-- [2020-04-28-selenium-打开的网页上的图片如何直接保存](https://www.v2ex.com/t/666847) ![](assets/new.png)  
-- [2020-04-28-快递难](https://www.v2ex.com/t/666846) ![](assets/new.png)  
-- [2020-04-28-安卓系统使用过程遇到的问题](https://www.v2ex.com/t/666845) ![](assets/new.png)  
-- [2020-04-28-你认为哪些是-QA-提出的让你非常无语的-Bug](https://www.v2ex.com/t/666844) ![](assets/new.png)  
-- [2020-04-28-人工智能超算中心-招聘全职坐班-Java-&系统运维开发](https://www.v2ex.com/t/666843) ![](assets/new.png)  
-- [2020-04-28-美团外卖-对接-需求](https://www.v2ex.com/t/666842) ![](assets/new.png)  
-- [2020-04-28-我对-app-开发的一些思考](https://www.v2ex.com/t/666841) ![](assets/new.png)  
-- [2020-04-28-Macbook-pro-的电源接口烧了，更换的话费事吗？](https://www.v2ex.com/t/666840) ![](assets/new.png)  
-- [2020-04-28-有没有能双栏显示不同搜索引擎结果的-chrome-插件或油猴脚本](https://www.v2ex.com/t/666839) ![](assets/new.png)  
-- [2020-04-28-内网隧道转发并保持链接，除了-autossh-以外还有方式吗？](https://www.v2ex.com/t/666837) ![](assets/new.png)  
-- [2020-04-28-家里的二楼-WiFi-中继上传速度慢](https://www.v2ex.com/t/666836) ![](assets/new.png)  
-- [2020-04-28-爬虫养成记--顺藤摸瓜回首掏（女生定制篇）](https://www.v2ex.com/t/666835) ![](assets/new.png)  
-- [2020-04-28-跑在浏览器上的小程序-IDE](https://www.v2ex.com/t/666834) ![](assets/new.png)  
-- [2020-04-28-运营商是不是屏蔽了所有出站访问-139-和-445-端口的流量？](https://www.v2ex.com/t/666833) ![](assets/new.png)  
-- [2020-04-28-很有可能不被续约...](https://www.v2ex.com/t/666832) ![](assets/new.png)  
-- [2020-04-28-还有一月份工资没发的老哥吗？](https://www.v2ex.com/t/666831) ![](assets/new.png)  
-- [2020-04-28-每一代-iPhone-都那么多问题？为什么还有人买？](https://www.v2ex.com/t/666830) ![](assets/new.png)  
+- [2020-04-28-直接用-gdi-绘制、dx-绘制和直接开一个窗口有什么区别？](https://www.v2ex.com/t/666868) ![](assets/new.png)  
+- [2020-04-28-ANDROID_SDK_ROOT-"Cannot-find-AVD-system-path"-"Broken-AVD-system-path"](https://www.v2ex.com/t/666867) ![](assets/new.png)  
+- [2020-04-28-米家驱蚊器噪音问题.-以及竞品求推荐.](https://www.v2ex.com/t/666865) ![](assets/new.png)  
+- [2020-04-28-如何发送适配暗黑模式的邮件？](https://www.v2ex.com/t/666864) ![](assets/new.png)  
+- [2020-04-28-分享一个好用的-PAC-策略](https://www.v2ex.com/t/666862) ![](assets/new.png)  
+- [2020-04-28-想问一下大佬们，你们项目开发会用什么项目管理工具，例如-teamBition-这类敏捷开发的工具？如何坚持下来的呢？](https://www.v2ex.com/t/666861) ![](assets/new.png)  
+- [2020-04-28-可怕我才上线没几天，这会不会是有人恶意搞我](https://www.v2ex.com/t/666860) ![](assets/new.png)  
+- [2020-04-28-一个把网页版-SaaS-变成桌面-App-的应用，你需要什么样的-API？](https://www.v2ex.com/t/666859) ![](assets/new.png)  
+- [2020-04-28-手机主副卡实用吗,有没有在用或者很好的使用方案?](https://www.v2ex.com/t/666858) ![](assets/new.png)  
+- [2020-04-28-QQ-for-Mac-群公告变成-涓嶆敮鎸佺殑娑堟伅绫诲瀷](https://www.v2ex.com/t/666857) ![](assets/new.png)  
+- [2020-04-28-第-45-次-CNNIC-报告出炉，再次统计国际出口带宽](https://www.v2ex.com/t/666856) ![](assets/new.png)  
+- [2020-04-28-神锁离线版助力任天堂账号安全](https://www.v2ex.com/t/666855) ![](assets/new.png)  
+- [2020-04-28-speedtest-能跑满，但是-youtube-就不行是为啥？](https://www.v2ex.com/t/666853) ![](assets/new.png)  
+- [2020-04-28-怎么连接-iPhone-和-mbp](https://www.v2ex.com/t/666852) ![](assets/new.png)  
+- [2020-04-28-状态栏图标残留现象？有时候是微博的-icon，有时候是其他图标。](https://www.v2ex.com/t/666851)  
+- [2020-04-28-社招内推求职渠道](https://www.v2ex.com/t/666850)  
+- [2020-04-28-新款-MBP-14'-会有-6-核吗？](https://www.v2ex.com/t/666849)  
+- [2020-04-28-selenium-打开的网页上的图片如何直接保存](https://www.v2ex.com/t/666847)  
+- [2020-04-28-快递难](https://www.v2ex.com/t/666846)  
+- [2020-04-28-安卓系统使用过程遇到的问题](https://www.v2ex.com/t/666845)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

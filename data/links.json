@@ -2451,6 +2451,26 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "无情面试官：你会手写源码吗？",
+        "link": "https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "第一期:前端九条bug分享",
+        "link": "https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "工作流一目了然，看小姐姐用动图展示 10 大 Git 命令",
+        "link": "https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "前端渣渣的我再也不敢说我会写Button组件了",
+        "link": "https://www.ershicimi.com/p/e9c526fbec5ea09dce71bd3db8b00d7c",
+        "date": "2020-04-25"
+      },
+      {
         "title": "阿里巴巴盒马前端上岸总结",
         "link": "https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b",
         "date": "2020-04-24"
@@ -8218,6 +8238,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "聊一个可能有惊喜的System GC知识点 (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13416&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F548171%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
       {
         "title": "都知道避免ANR，但该如何分析，定位，解决？ (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

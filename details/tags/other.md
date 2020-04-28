@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -164,6 +164,7 @@
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a) 
 - [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) 
 - [2020-04-27-我来聊聊面向模板的前端开发](https://juejin.im/post/5ea5b06651882573a67f722b) 
 - [2020-04-27-我来聊聊配置驱动的视图开发](https://juejin.im/post/5ea5b1676fb9a03c8c043100) 
@@ -1011,6 +1012,7 @@
 - [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505) 
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
+- [2020-04-28-聊一个可能有惊喜的System-GC知识点-club.perfma.com](https://blogread.cn/news/go.php?idItem=13416&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F548171%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

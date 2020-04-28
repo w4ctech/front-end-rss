@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -362,6 +362,10 @@
 - [【InfoQ】2020-04-21-Serverless-实战：用-20-行-Python-代码轻松搞定图像分类和预测](https://www.ershicimi.com/p/a86dc45eab6588a2e994cd23a0b18a9b) 
 - [【InfoQ】2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [【InfoQ】2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [【JavaScript】2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
+- [【JavaScript】2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a) 
+- [【JavaScript】2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb) 
+- [【JavaScript】2020-04-25-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/e9c526fbec5ea09dce71bd3db8b00d7c) 
 - [【JavaScript】2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) 
 - [【JavaScript】2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 
 - [【JavaScript】2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
@@ -1476,6 +1480,7 @@
 - [【V2EX】2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [【V2EX】2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
 - [【V2EX】2020-04-23-重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501) 
+- [【技术头条】2020-04-28-聊一个可能有惊喜的System-GC知识点-club.perfma.com](https://blogread.cn/news/go.php?idItem=13416&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F548171%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

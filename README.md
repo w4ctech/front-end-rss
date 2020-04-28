@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 10:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 10:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -45,15 +45,15 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -240,13 +240,13 @@
 </summary>
 
 
-- [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6) ![](assets/new.png)  
-- [2020-04-28-Web上的图片技巧](https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba) ![](assets/new.png)  
-- [2020-04-27-学习前端三大件的正确姿势](https://www.ershicimi.com/p/ddcbce98fff1e2eb17c7fde2fab31e56) ![](assets/new.png)  
-- [2020-04-27-使用-React-Hooks-实现仿石墨的图片预览插件（巨详细）](https://www.ershicimi.com/p/4a407033b556e67bd545d821f57c9a6b) ![](assets/new.png)  
-- [2020-04-26-解密初、中、高级程序员的进化之路（前端）](https://www.ershicimi.com/p/90ed131e8880629704145fc4303639e8) ![](assets/new.png)  
-- [2020-04-26-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/d5d94b8ec5af67b6f7ac2ed4a0f8bb9a) ![](assets/new.png)  
-- [2020-04-25-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（](https://www.ershicimi.com/p/47966aaed4f91c307b1e3ee452dc47a6) ![](assets/new.png)  
+- [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6)  
+- [2020-04-28-Web上的图片技巧](https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba)  
+- [2020-04-27-学习前端三大件的正确姿势](https://www.ershicimi.com/p/ddcbce98fff1e2eb17c7fde2fab31e56)  
+- [2020-04-27-使用-React-Hooks-实现仿石墨的图片预览插件（巨详细）](https://www.ershicimi.com/p/4a407033b556e67bd545d821f57c9a6b)  
+- [2020-04-26-解密初、中、高级程序员的进化之路（前端）](https://www.ershicimi.com/p/90ed131e8880629704145fc4303639e8)  
+- [2020-04-26-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/d5d94b8ec5af67b6f7ac2ed4a0f8bb9a)  
+- [2020-04-25-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（](https://www.ershicimi.com/p/47966aaed4f91c307b1e3ee452dc47a6)  
 - [2020-04-24-免费领“重学前端”全套教程，还有Vue项目,JS实战都免费开放了！](https://www.ershicimi.com/p/ac812219748ae5b03be1bc835ba79557)  
 - [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/e3b2ca58705fd883ff0307c940c6e21f)  
 - [2020-04-23-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253)  
@@ -411,9 +411,9 @@
 </summary>
 
 
-- [2020-04-28-为-Node.js-应用建立一个更安全的沙箱环境](https://www.ershicimi.com/p/b2a79e4b9fa064dbb092674f6e44d9d6) ![](assets/new.png)  
-- [2020-04-27-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0) ![](assets/new.png)  
-- [2020-04-26-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/122a8001a1fdded2dbea80af376a2152) ![](assets/new.png)  
+- [2020-04-28-为-Node.js-应用建立一个更安全的沙箱环境](https://www.ershicimi.com/p/b2a79e4b9fa064dbb092674f6e44d9d6)  
+- [2020-04-27-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0)  
+- [2020-04-26-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/122a8001a1fdded2dbea80af376a2152)  
 - [2020-04-24-未来可期的TypeScript](https://www.ershicimi.com/p/2a1d70522d7bf044ff46b5799a796ea6)  
 - [2020-04-23-7个前端进大厂的必备技能，你还缺啥？](https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5)  
 - [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320)  
@@ -651,6 +651,10 @@
 </summary>
 
 
+- [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) ![](assets/new.png)  
+- [2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a) ![](assets/new.png)  
+- [2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb) ![](assets/new.png)  
+- [2020-04-25-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/e9c526fbec5ea09dce71bd3db8b00d7c) ![](assets/new.png)  
 - [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b)  
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9)  
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)  
@@ -834,6 +838,7 @@
 </summary>
 
 
+- [2020-04-28-聊一个可能有惊喜的System-GC知识点-club.perfma.com](https://blogread.cn/news/go.php?idItem=13416&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F548171%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -853,7 +858,6 @@
 - [2020-04-24-一个黑客的自白书-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13399&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fa-hackers-confession%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -865,9 +869,9 @@
 </summary>
 
 
-- [2020-04-28-在-Finder-的右键菜单中添加-“Open-in-VSCode”](https://toutiao.io/k/xwk7x39) ![](assets/new.png)  
-- [2020-04-28-使用-Go-语言实现一个异步任务框架](https://toutiao.io/k/3o38497) ![](assets/new.png)  
-- [2020-04-28-github-webhook-工具实现-github-自动构建](https://toutiao.io/k/fya30rg) ![](assets/new.png)  
+- [2020-04-28-在-Finder-的右键菜单中添加-“Open-in-VSCode”](https://toutiao.io/k/xwk7x39)  
+- [2020-04-28-使用-Go-语言实现一个异步任务框架](https://toutiao.io/k/3o38497)  
+- [2020-04-28-github-webhook-工具实现-github-自动构建](https://toutiao.io/k/fya30rg)  
 - [2020-04-28-BIO、NIO、AIO-总结](https://toutiao.io/k/9wkuck7)  
 - [2020-04-28-美团技术团队的书单](https://toutiao.io/k/kwflgvj)  
 - [2020-04-28-Go-语言的-GPM-调度器是什么？](https://toutiao.io/k/cwbx2q1)  

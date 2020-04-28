@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,6 +14,7 @@
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb) 
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
+- [2020-04-28-github-上还有微信机器人这种开源工具能用吗](https://www.v2ex.com/t/666881) 
 - [2020-04-28-一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792) 
 - [2020-04-27-想问下让-Github-仓库存纯图片是不是资源的滥用？](https://www.v2ex.com/t/666581) 
 - [2020-04-26-githubassets.com-无法解析](https://www.v2ex.com/t/666143) 

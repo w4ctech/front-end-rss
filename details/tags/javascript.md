@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -85,6 +85,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-28-通过-Python-或者-js-有什么方法可以生成音频的波形图？](https://www.v2ex.com/t/666889) 
 - [2020-04-28-如何发送适配暗黑模式的邮件？](https://www.v2ex.com/t/666864) 
 - [2020-04-28-一个上海电信天翼网关可以接三个路由器吗？](https://www.v2ex.com/t/666791) 
 - [2020-04-27-快疯了！-CryptoJS-AES-CBC-加密为啥可以吧-iv-指定为''?](https://www.v2ex.com/t/666649) 
@@ -118,6 +119,7 @@
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-28-又抓了一个导致频繁-GC-的鬼：数组动态扩容](https://toutiao.io/k/s2o2fx9) 
 - [2020-04-28-使用-Go-语言实现一个异步任务框架](https://toutiao.io/k/3o38497) 
 - [2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy) 
 - [2020-04-27-译-理解-JavaScript-内存模型，就靠这几张图了](https://toutiao.io/k/1ob7owe) 

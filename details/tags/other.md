@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 03:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -235,6 +235,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-失业的第五个月，无尽的迷茫](https://www.v2ex.com/t/667142) 
 - [2020-04-29-Django-的-ORM-查询问题，求大神解救！](https://www.v2ex.com/t/667141) 
 - [2020-04-29-听周杰伦的歌现在咋这么难](https://www.v2ex.com/t/667140) 
 - [2020-04-29-码农接活防坑铁律](https://www.v2ex.com/t/667139) 

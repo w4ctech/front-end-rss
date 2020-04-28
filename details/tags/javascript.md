@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -52,6 +52,7 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f) 
 - [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) 
+- [2020-04-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/28897cbcddda24789108dab6f85481dd) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-25-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/e9c526fbec5ea09dce71bd3db8b00d7c) 
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 

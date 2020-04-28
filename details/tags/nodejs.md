@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -23,6 +23,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-04-28-Node-Server-加载稍大一点的文件就会失败。求解。。](https://www.v2ex.com/t/666948) 
 - [2020-04-26-成都-（居家办公）北京凯普顿医药科技开发有限公司招聘-Node.js-中级、高级程序员各-1-名](https://www.v2ex.com/t/666216) 
 - [2020-04-25-nodejs-开发求带走](https://www.v2ex.com/t/666064) 
 - [2020-04-25-招聘-Node.js-Web-开发工程师一枚，坐标杭州](https://www.v2ex.com/t/666007) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-28 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -445,6 +445,9 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-28-招行-app-可以查征信了](https://www.v2ex.com/t/666798) 
+- [【V2EX】2020-04-28-大家用什么工具作为构建自己的知识库？](https://www.v2ex.com/t/666797) 
+- [【V2EX】2020-04-28-一个运行在树莓派上的小网站](https://www.v2ex.com/t/666796) 
 - [【V2EX】2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795) 
 - [【V2EX】2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794) 
 - [【V2EX】2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793) 
@@ -1476,6 +1479,14 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-28-掌握-MySQL-连接查询到底什么是驱动表](https://toutiao.io/k/qe7ewaj) 
+- [【开发者头条】2020-04-28-如何学-Java，我说点不太一样的学习方式](https://toutiao.io/k/043ye5e) 
+- [【开发者头条】2020-04-28-面试官再问你-HashMap-底层原理，就把这篇文章甩给他看](https://toutiao.io/k/rzei4za) 
+- [【开发者头条】2020-04-28-在-Android-开发中使用协程（上手指南）](https://toutiao.io/k/zpew1r8) 
+- [【开发者头条】2020-04-28-请查收！来自阿里专家的高效排查集群扩缩容问题指南](https://toutiao.io/k/pxo3dkh) 
+- [【开发者头条】2020-04-28-百万局对战教-AI-做人，技术解读-FPS-游戏中-AI-如何拟人化](https://toutiao.io/k/qxrv1jw) 
+- [【开发者头条】2020-04-28-iOS-应用安全之代码混淆](https://toutiao.io/k/ak435he) 
+- [【开发者头条】2020-04-28-Vagrant-使用国内镜像安装插件和-box-镜像](https://toutiao.io/k/qdtfdd7) 
 - [【开发者头条】2020-04-27-抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用](https://toutiao.io/k/cuwudz9) 
 - [【开发者头条】2020-04-27-需求理解不一致？那是你的需求沟通有问题](https://toutiao.io/k/rjly69c) 
 - [【开发者头条】2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq) 

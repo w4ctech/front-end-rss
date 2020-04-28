@@ -3057,6 +3057,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "招行 app 可以查征信了",
+        "link": "https://www.v2ex.com/t/666798",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "大家用什么工具作为构建自己的知识库？",
+        "link": "https://www.v2ex.com/t/666797",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "一个运行在树莓派上的小网站",
+        "link": "https://www.v2ex.com/t/666796",
+        "date": "2020-04-28"
+      },
+      {
         "title": "xmake v2.3.3 发布, 新增 iOS/MacOS Framework 和 App 构建支持",
         "link": "https://www.v2ex.com/t/666795",
         "date": "2020-04-28"
@@ -8225,6 +8240,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "掌握 MySQL 连接查询到底什么是驱动表",
+        "link": "https://toutiao.io/k/qe7ewaj",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "如何学 Java，我说点不太一样的学习方式",
+        "link": "https://toutiao.io/k/043ye5e",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "面试官再问你 HashMap 底层原理，就把这篇文章甩给他看",
+        "link": "https://toutiao.io/k/rzei4za",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "在 Android 开发中使用协程（上手指南）",
+        "link": "https://toutiao.io/k/zpew1r8",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "请查收！来自阿里专家的高效排查集群扩缩容问题指南",
+        "link": "https://toutiao.io/k/pxo3dkh",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "百万局对战教 AI 做人，技术解读 FPS 游戏中 AI 如何拟人化",
+        "link": "https://toutiao.io/k/qxrv1jw",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "iOS 应用安全之代码混淆",
+        "link": "https://toutiao.io/k/ak435he",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Vagrant 使用国内镜像安装插件和 box 镜像",
+        "link": "https://toutiao.io/k/qdtfdd7",
+        "date": "2020-04-28"
+      },
       {
         "title": "抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用",
         "link": "https://toutiao.io/k/cuwudz9",

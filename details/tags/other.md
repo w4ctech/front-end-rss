@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -210,6 +210,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-28-招行-app-可以查征信了](https://www.v2ex.com/t/666798) 
+- [2020-04-28-一个运行在树莓派上的小网站](https://www.v2ex.com/t/666796) 
 - [2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794) 
 - [2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793) 
 - [2020-04-28-如何从-MAS-安装应用历史版本](https://www.v2ex.com/t/666790) 
@@ -1012,6 +1014,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-28-掌握-MySQL-连接查询到底什么是驱动表](https://toutiao.io/k/qe7ewaj) 
+- [2020-04-28-如何学-Java，我说点不太一样的学习方式](https://toutiao.io/k/043ye5e) 
+- [2020-04-28-在-Android-开发中使用协程（上手指南）](https://toutiao.io/k/zpew1r8) 
+- [2020-04-28-请查收！来自阿里专家的高效排查集群扩缩容问题指南](https://toutiao.io/k/pxo3dkh) 
+- [2020-04-28-Vagrant-使用国内镜像安装插件和-box-镜像](https://toutiao.io/k/qdtfdd7) 
 - [2020-04-27-需求理解不一致？那是你的需求沟通有问题](https://toutiao.io/k/rjly69c) 
 - [2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq) 
 - [2020-04-27-Prometheus-+-Grafana-监控整个-Linux-网络栈](https://toutiao.io/k/4liyibg) 

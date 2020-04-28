@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,6 +50,7 @@
 - [2020-04-24-求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605) 
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
+- [2020-04-28-iOS-应用安全之代码混淆](https://toutiao.io/k/ak435he) 
 - [2020-04-27-一文彻底搞懂安卓-WebView-白名单校验](https://toutiao.io/k/67epac4) 
 - [2020-04-26-安全架构设计与评审](https://toutiao.io/k/kb9mxys) 
 - [2020-04-26-初探-Hadoop-集群安全](https://toutiao.io/k/bkes0be) 

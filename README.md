@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 08:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -785,7 +785,10 @@
 </summary>
 
 
-- [2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795) ![](assets/new.png)  
+- [2020-04-28-招行-app-可以查征信了](https://www.v2ex.com/t/666798) ![](assets/new.png)  
+- [2020-04-28-大家用什么工具作为构建自己的知识库？](https://www.v2ex.com/t/666797) ![](assets/new.png)  
+- [2020-04-28-一个运行在树莓派上的小网站](https://www.v2ex.com/t/666796) ![](assets/new.png)  
+- [2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795)  
 - [2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794)  
 - [2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793)  
 - [2020-04-28-一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792)  
@@ -802,9 +805,6 @@
 - [2020-04-28-求助：用-idea-写-servlet-连接不上数据库](https://www.v2ex.com/t/666778)  
 - [2020-04-28-什么是最终一致性，有点混淆，谢谢](https://www.v2ex.com/t/666777)  
 - [2020-04-28-你们哪些地方用到-cap-的知识了？](https://www.v2ex.com/t/666776)  
-- [2020-04-28-疫情期间，主动拿被裁名额还是继续苟着这份也会要走的工作？](https://www.v2ex.com/t/666775)  
-- [2020-04-28-Alfred-mega-supporter-转让](https://www.v2ex.com/t/666774)  
-- [2020-04-28-应届毕业生-offer-选择，求给个建议](https://www.v2ex.com/t/666772)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -847,6 +847,14 @@
 </summary>
 
 
+- [2020-04-28-掌握-MySQL-连接查询到底什么是驱动表](https://toutiao.io/k/qe7ewaj) ![](assets/new.png)  
+- [2020-04-28-如何学-Java，我说点不太一样的学习方式](https://toutiao.io/k/043ye5e) ![](assets/new.png)  
+- [2020-04-28-面试官再问你-HashMap-底层原理，就把这篇文章甩给他看](https://toutiao.io/k/rzei4za) ![](assets/new.png)  
+- [2020-04-28-在-Android-开发中使用协程（上手指南）](https://toutiao.io/k/zpew1r8) ![](assets/new.png)  
+- [2020-04-28-请查收！来自阿里专家的高效排查集群扩缩容问题指南](https://toutiao.io/k/pxo3dkh) ![](assets/new.png)  
+- [2020-04-28-百万局对战教-AI-做人，技术解读-FPS-游戏中-AI-如何拟人化](https://toutiao.io/k/qxrv1jw) ![](assets/new.png)  
+- [2020-04-28-iOS-应用安全之代码混淆](https://toutiao.io/k/ak435he) ![](assets/new.png)  
+- [2020-04-28-Vagrant-使用国内镜像安装插件和-box-镜像](https://toutiao.io/k/qdtfdd7) ![](assets/new.png)  
 - [2020-04-27-抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用](https://toutiao.io/k/cuwudz9)  
 - [2020-04-27-需求理解不一致？那是你的需求沟通有问题](https://toutiao.io/k/rjly69c)  
 - [2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq)  
@@ -859,14 +867,6 @@
 - [2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6)  
 - [2020-04-27-通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj)  
 - [2020-04-27-面试官：Spring-Boot-中关于日志工具的使用，我想问你几个常见问题](https://toutiao.io/k/hgefq69)  
-- [2020-04-27-深入分析-Spark-UDF-的性能](https://toutiao.io/k/ehltvkc)  
-- [2020-04-27-Awk-这件上古神兵你会用了吗？](https://toutiao.io/k/79jppjo)  
-- [2020-04-27-Linux-命令记不住？试试这款-Linux-命令大全搜索工具](https://toutiao.io/k/qny4oo3)  
-- [2020-04-27-Linux-环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://toutiao.io/k/0r9tu1a)  
-- [2020-04-27-彻底弄懂-Lambda-和高阶函数](https://toutiao.io/k/94aazvu)  
-- [2020-04-27-Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa)  
-- [2020-04-27-阿里社招面经-已拿-offer](https://toutiao.io/k/yn6ucqm)  
-- [2020-04-27-一文彻底搞懂安卓-WebView-白名单校验](https://toutiao.io/k/67epac4)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

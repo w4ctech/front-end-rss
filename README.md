@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 20:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 21:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -822,11 +822,19 @@
 </summary>
 
 
-- [2020-04-28-Android-开发新手，想实现一个社交-app-的匹配功能（类似-soul-的匹配），请问大家有何想法？](https://www.v2ex.com/t/667063) ![](assets/new.png)  
-- [2020-04-28-大家有没有出现过挂载的网络位置导致系统卡顿无响应的？](https://www.v2ex.com/t/667062) ![](assets/new.png)  
-- [2020-04-28-Android-的-shell-screencap--p-太慢了，有没有更高效的方法呢？](https://www.v2ex.com/t/667061) ![](assets/new.png)  
-- [2020-04-28-出腾讯云的十名账号](https://www.v2ex.com/t/667060) ![](assets/new.png)  
-- [2020-04-28-今天去农田插秧，体会了一下锄禾日当午](https://www.v2ex.com/t/667057) ![](assets/new.png)  
+- [2020-04-28-有什么跨平台的-TODO-List-软件支持导出任务到-Apple-Calendar-或者-Google-Calendar？](https://www.v2ex.com/t/667071) ![](assets/new.png)  
+- [2020-04-28-16-款-15-寸-macbookpro-还能再战几年？](https://www.v2ex.com/t/667070) ![](assets/new.png)  
+- [2020-04-28-一个初学抓包的小白的疑问](https://www.v2ex.com/t/667069) ![](assets/new.png)  
+- [2020-04-28-一种简单的提高-C#,-Java-破解成本的方法](https://www.v2ex.com/t/667068) ![](assets/new.png)  
+- [2020-04-28-北京滴滴-集团级业务中台内推](https://www.v2ex.com/t/667067) ![](assets/new.png)  
+- [2020-04-28-有新的机会，但短时间不能离职......](https://www.v2ex.com/t/667066) ![](assets/new.png)  
+- [2020-04-28-大家怎么看金山系软件仿冒其他软件安装后门,中了招的应该怎么处理](https://www.v2ex.com/t/667065) ![](assets/new.png)  
+- [2020-04-28-问下大家，-18:57-吃饭没回消息，-19:10-微信被删，这是不是我吃饭时间太长了？](https://www.v2ex.com/t/667064) ![](assets/new.png)  
+- [2020-04-28-Android-开发新手，想实现一个社交-app-的匹配功能（类似-soul-的匹配），请问大家有何想法？](https://www.v2ex.com/t/667063)  
+- [2020-04-28-大家有没有出现过挂载的网络位置导致系统卡顿无响应的？](https://www.v2ex.com/t/667062)  
+- [2020-04-28-Android-的-shell-screencap--p-太慢了，有没有更高效的方法呢？](https://www.v2ex.com/t/667061)  
+- [2020-04-28-出腾讯云的十名账号](https://www.v2ex.com/t/667060)  
+- [2020-04-28-今天去农田插秧，体会了一下锄禾日当午](https://www.v2ex.com/t/667057)  
 - [2020-04-28-2019-mbp-和-2020-macmini-怎么选？预算-1w](https://www.v2ex.com/t/667055)  
 - [2020-04-28-上层内斗+部门内斗，要不是疫情真想跑路，吐了](https://www.v2ex.com/t/667053)  
 - [2020-04-28-是否有某款软件/服务因为存在某个击中你痛点的功能,而使你毅然放弃它的其他所有同类竞品?](https://www.v2ex.com/t/667052)  
@@ -834,14 +842,6 @@
 - [2020-04-28-缅怀一下即刻-App](https://www.v2ex.com/t/667048)  
 - [2020-04-28-MySQL-该不该给-status-添加索引？](https://www.v2ex.com/t/667047)  
 - [2020-04-28-vscode-markdown-navbar-for-toc](https://www.v2ex.com/t/667045)  
-- [2020-04-28-记一次-Macbook-进水经历](https://www.v2ex.com/t/667044)  
-- [2020-04-28-在编写-Python-代码时，-vs-code-有-pycharm-那样使用-alt+enter-生成函数的功能吗？](https://www.v2ex.com/t/667043)  
-- [2020-04-28-硬广好消息-Coderlan-支持内嵌模式了👐](https://www.v2ex.com/t/667040)  
-- [2020-04-28-腾讯云的对象存储接口真的很复杂！](https://www.v2ex.com/t/667039)  
-- [2020-04-28-如何鉴别用户的民族是在-56-个民族范围](https://www.v2ex.com/t/667038)  
-- [2020-04-28-开发一个足球网站](https://www.v2ex.com/t/667037)  
-- [2020-04-28-前端框架+ssr-比直接用后端的模板有什么优点么](https://www.v2ex.com/t/667035)  
-- [2020-04-28-快手-客户端-上海和杭州内推啦](https://www.v2ex.com/t/667034)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

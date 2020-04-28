@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-28-如何让-Python-放弃长时间没读取的-yield？或者说-Flask-的-EventSource-如何在浏览器断开连接的时候释放资源？](https://www.v2ex.com/t/667111) 
+- [2020-04-28-关于安卓版-edge-浏览器右滑返回](https://www.v2ex.com/t/667107) 
 - [2020-04-28-SpringBoot-项目对外的请求全部走了系统网络代理](https://www.v2ex.com/t/667093) 
 - [2020-04-28-5G-浏览器在-5G-上可以做什么更新和调整呢？](https://www.v2ex.com/t/666970) 
 - [2020-04-28-fastcgi_cache-有没有办法为网站每个子目录单独设置缓存路径？](https://www.v2ex.com/t/666957) 

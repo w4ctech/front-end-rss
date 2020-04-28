@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -206,6 +206,9 @@
 - [2020-04-24-开发人员指南，不要损失你需要的指标](https://javascriptweekly.com/link/63621/web) 
 - [2020-04-24-▶-观看创建一个交易机器人](https://javascriptweekly.com/link/63624/web) 
 - [2020-04-24-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
+- [2020-04-28-我，31-岁，在家喝可乐被骂哭了](https://www.ershicimi.com/p/251f739096752e43632bbe3c81280c57) 
+- [2020-04-28-「粗腿的女生」千万别轻易练这几个动作，太虐了](https://www.ershicimi.com/p/a12c81989f7d603610c9dbb103a479dc) 
+- [2020-04-28-知乎故事-|-你生理上最痛的一次经历是什么？](https://www.ershicimi.com/p/3e6e15ee22258dce560b38679daef099) 
 - [2020-04-27-为什么医生不让你一次性把智齿都拔了？](https://www.ershicimi.com/p/62f1490aa457c437383abcf1facfa045) 
 - [2020-04-27-这-30-组照片里，藏着-2020-年你错过的春天](https://www.ershicimi.com/p/1c68c0708bc3e731631cfaa9f71a45cf) 
 - [2020-04-27-为什么总是没人跟你聊天？](https://www.ershicimi.com/p/7b40c6dbcad9b1852e5ac91513a520ae) 
@@ -232,6 +235,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-28-弱弱问一句，-V2EX-怎么样才能销号？](https://www.v2ex.com/t/667098) 
+- [2020-04-28-小米的-MIUI-推荐升级到-12](https://www.v2ex.com/t/667096) 
+- [2020-04-28-突然想到一个问题，为什么没听到过核武器相关的技术可以申请专利？](https://www.v2ex.com/t/667095) 
+- [2020-04-28-自用的-golang-微信支付-sdk，支持微信商户/服务商账户支付和分账](https://www.v2ex.com/t/667094) 
+- [2020-04-28-请教大家用-QPST-从安卓手机导出的二进制.bin-文件怎么还原成原来的文件呢？](https://www.v2ex.com/t/667092) 
+- [2020-04-28-腾讯模拟器会影响系统环境?](https://www.v2ex.com/t/667091) 
 - [2020-04-28-有用阿里云-香港虚拟机的-吗？-速度如何？](https://www.v2ex.com/t/667090) 
 - [2020-04-28-请教，如何删除钥匙串中保存的-iOS-设备备份密码？](https://www.v2ex.com/t/667088) 
 - [2020-04-28-你们土区的-Netflix-还能看么？](https://www.v2ex.com/t/667087) 

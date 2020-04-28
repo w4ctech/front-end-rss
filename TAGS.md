@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-28 22:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 22:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -408,6 +408,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】请教一个直播流延时的问题，不是降低延迟，是增加延迟](https://www.v2ex.com/t/667100)
 - [【V2EX】虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/666925)
 - [【V2EX】能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)
 - [【V2EX】笔记本电脑只有一个-hdmi-接口和一个-type-c-接口，但-type-c-接口不支持视频传输，我想外接两个显示器，但两个显示器得能做到显示不同内容那种，不能只是复制，...](https://www.v2ex.com/t/666636)
@@ -422,7 +423,6 @@
 - [【V2EX】有个需求不知道怎么解决，-某个软件升级后，不能把音频下载下来播放，-ui-上看不到下载地址了。-不知道有没有办法，把被隐藏的下载地址-or-在线播放地址找出来...](https://www.v2ex.com/t/666322)
 - [【V2EX】佳能医疗-求生物信息研究员、医学图像算法研究员、Bioinformatics-实习生！](https://www.v2ex.com/t/666319)
 - [【V2EX】直播分享-企业如何高效平稳实现数据迁移](https://www.v2ex.com/t/666295)
-- [【V2EX】Base-武汉-音频算法，图像算法工程师岗招聘-武汉聚芯微电子](https://www.v2ex.com/t/666207)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -493,8 +493,8 @@
 - [【InfoQ】浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】SpringBoot-项目对外的请求全部走了系统网络代理](https://www.v2ex.com/t/667093)
 - [【V2EX】5G-浏览器在-5G-上可以做什么更新和调整呢？](https://www.v2ex.com/t/666970)
-- [【V2EX】fastcgi_cache-有没有办法为网站每个子目录单独设置缓存路径？](https://www.v2ex.com/t/666957)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

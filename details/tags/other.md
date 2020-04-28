@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -39,9 +39,11 @@
 - [2020-04-19-赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6) 
 - [2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-04-26-阿里大佬浅谈大型项目前端架构设计](https://www.ershicimi.com/p/016fca4951e60960931ad56bfdc608e7) 
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad) 
 - [2020-04-23-7个前端进大厂的必备技能，你还缺啥？](https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5) 
 - [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
@@ -211,6 +213,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-28-一双合适运动鞋对跑步的影响有多大？](https://www.v2ex.com/t/666810) 
+- [2020-04-28-公司这波操作是真的骚-恶心到我了](https://www.v2ex.com/t/666809) 
+- [2020-04-28-Linux-上一键安装各种软件的工具？](https://www.v2ex.com/t/666808) 
+- [2020-04-28-最终一致性到底是什么？？](https://www.v2ex.com/t/666807) 
+- [2020-04-28-美区-apple-账号不能绑定美区-paypal-了？](https://www.v2ex.com/t/666806) 
+- [2020-04-28-轻量简单好用的开源自动化运维平台](https://www.v2ex.com/t/666805) 
 - [2020-04-28-一线城市的生活成本真的高嘛？可乐不都-2.5-元嘛？](https://www.v2ex.com/t/666804) 
 - [2020-04-28-请问，-ios-的-unread-1-代是不是无法刷新了啊，不知道大家如果在用的，是不是这个情况呢](https://www.v2ex.com/t/666803) 
 - [2020-04-28-有人邀请你一起创业，以技术入股的合作方式。是否靠谱？有没有类似经历的-v-友，给点儿建议啊。](https://www.v2ex.com/t/666802) 

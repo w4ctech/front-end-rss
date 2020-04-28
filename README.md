@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 09:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 09:30:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,12 +32,12 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -52,8 +52,8 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -363,6 +363,10 @@
 </summary>
 
 
+- [2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3) ![](assets/new.png)  
+- [2020-04-27-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/3ecd87f00e3fd38b78f29b4b29762ef8) ![](assets/new.png)  
+- [2020-04-27-新手学习-react-迷惑的点完整版](https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3) ![](assets/new.png)  
+- [2020-04-26-阿里大佬浅谈大型项目前端架构设计](https://www.ershicimi.com/p/016fca4951e60960931ad56bfdc608e7) ![](assets/new.png)  
 - [2020-04-24-别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36)  
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c)  
 - [2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48)  
@@ -381,6 +385,9 @@
 </summary>
 
 
+- [2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d) ![](assets/new.png)  
+- [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) ![](assets/new.png)  
+- [2020-04-25-前端进阶算法：常见算法题及完美题解](https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24) ![](assets/new.png)  
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad)  
 - [2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43)  
 - [2020-04-21-一起来看看-Babel-做了什么](https://www.ershicimi.com/p/8f073bef93e47208d60074750788276b)  
@@ -450,7 +457,7 @@
 </summary>
 
 
-- [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html) ![](assets/new.png)  
+- [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html)  
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)  
 - [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
@@ -786,12 +793,18 @@
 </summary>
 
 
-- [2020-04-28-一线城市的生活成本真的高嘛？可乐不都-2.5-元嘛？](https://www.v2ex.com/t/666804) ![](assets/new.png)  
-- [2020-04-28-请问，-ios-的-unread-1-代是不是无法刷新了啊，不知道大家如果在用的，是不是这个情况呢](https://www.v2ex.com/t/666803) ![](assets/new.png)  
-- [2020-04-28-有人邀请你一起创业，以技术入股的合作方式。是否靠谱？有没有类似经历的-v-友，给点儿建议啊。](https://www.v2ex.com/t/666802) ![](assets/new.png)  
-- [2020-04-28-还学的动吗？-盘点下-Vue.js-3.0.0-那些让人激动的功能](https://www.v2ex.com/t/666801) ![](assets/new.png)  
-- [2020-04-28-满屏的-SE2-的问题里，我想问问各位大佬们一个老问题，-xsmax-要升-13-嘛？](https://www.v2ex.com/t/666800) ![](assets/new.png)  
-- [2020-04-28-有的人心术不正以攻击别人服务器有意思吗](https://www.v2ex.com/t/666799) ![](assets/new.png)  
+- [2020-04-28-一双合适运动鞋对跑步的影响有多大？](https://www.v2ex.com/t/666810) ![](assets/new.png)  
+- [2020-04-28-公司这波操作是真的骚-恶心到我了](https://www.v2ex.com/t/666809) ![](assets/new.png)  
+- [2020-04-28-Linux-上一键安装各种软件的工具？](https://www.v2ex.com/t/666808) ![](assets/new.png)  
+- [2020-04-28-最终一致性到底是什么？？](https://www.v2ex.com/t/666807) ![](assets/new.png)  
+- [2020-04-28-美区-apple-账号不能绑定美区-paypal-了？](https://www.v2ex.com/t/666806) ![](assets/new.png)  
+- [2020-04-28-轻量简单好用的开源自动化运维平台](https://www.v2ex.com/t/666805) ![](assets/new.png)  
+- [2020-04-28-一线城市的生活成本真的高嘛？可乐不都-2.5-元嘛？](https://www.v2ex.com/t/666804)  
+- [2020-04-28-请问，-ios-的-unread-1-代是不是无法刷新了啊，不知道大家如果在用的，是不是这个情况呢](https://www.v2ex.com/t/666803)  
+- [2020-04-28-有人邀请你一起创业，以技术入股的合作方式。是否靠谱？有没有类似经历的-v-友，给点儿建议啊。](https://www.v2ex.com/t/666802)  
+- [2020-04-28-还学的动吗？-盘点下-Vue.js-3.0.0-那些让人激动的功能](https://www.v2ex.com/t/666801)  
+- [2020-04-28-满屏的-SE2-的问题里，我想问问各位大佬们一个老问题，-xsmax-要升-13-嘛？](https://www.v2ex.com/t/666800)  
+- [2020-04-28-有的人心术不正以攻击别人服务器有意思吗](https://www.v2ex.com/t/666799)  
 - [2020-04-28-招行-app-可以查征信了](https://www.v2ex.com/t/666798)  
 - [2020-04-28-大家用什么工具作为构建自己的知识库？](https://www.v2ex.com/t/666797)  
 - [2020-04-28-一个运行在树莓派上的小网站](https://www.v2ex.com/t/666796)  
@@ -800,12 +813,6 @@
 - [2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793)  
 - [2020-04-28-一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792)  
 - [2020-04-28-一个上海电信天翼网关可以接三个路由器吗？](https://www.v2ex.com/t/666791)  
-- [2020-04-28-如何从-MAS-安装应用历史版本](https://www.v2ex.com/t/666790)  
-- [2020-04-28-问个很傻的问题，类似后台管理这些，大家会做成一个单独的应用吗](https://www.v2ex.com/t/666789)  
-- [2020-04-28-苹果恶心开发者](https://www.v2ex.com/t/666788)  
-- [2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786)  
-- [2020-04-28-最近在看前端的机会](https://www.v2ex.com/t/666785)  
-- [2020-04-28-求建议-黑苹果向的台式主机配置](https://www.v2ex.com/t/666784)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -817,7 +824,7 @@
 </summary>
 
 
-- [2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-假如有人把支付宝存储服务器炸了，我们的钱还在吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13411&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1QDg0lkdmXN8JY4j5kcGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -848,14 +855,14 @@
 </summary>
 
 
-- [2020-04-28-BIO、NIO、AIO-总结](https://toutiao.io/k/9wkuck7) ![](assets/new.png)  
-- [2020-04-28-美团技术团队的书单](https://toutiao.io/k/kwflgvj) ![](assets/new.png)  
-- [2020-04-28-Go-语言的-GPM-调度器是什么？](https://toutiao.io/k/cwbx2q1) ![](assets/new.png)  
-- [2020-04-28-Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo) ![](assets/new.png)  
-- [2020-04-28-漫谈数据治理（一）：计算与存储压力](https://toutiao.io/k/s7mfrrs) ![](assets/new.png)  
-- [2020-04-28-Manjaro-Linux-入门使用教程](https://toutiao.io/k/tlaq8bo) ![](assets/new.png)  
-- [2020-04-28-一起围观由-React-Hooks-防抖引发的面试翻车现场](https://toutiao.io/k/46zwctt) ![](assets/new.png)  
-- [2020-04-28-Electron-使用串口通信](https://toutiao.io/k/v8iol37) ![](assets/new.png)  
+- [2020-04-28-BIO、NIO、AIO-总结](https://toutiao.io/k/9wkuck7)  
+- [2020-04-28-美团技术团队的书单](https://toutiao.io/k/kwflgvj)  
+- [2020-04-28-Go-语言的-GPM-调度器是什么？](https://toutiao.io/k/cwbx2q1)  
+- [2020-04-28-Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo)  
+- [2020-04-28-漫谈数据治理（一）：计算与存储压力](https://toutiao.io/k/s7mfrrs)  
+- [2020-04-28-Manjaro-Linux-入门使用教程](https://toutiao.io/k/tlaq8bo)  
+- [2020-04-28-一起围观由-React-Hooks-防抖引发的面试翻车现场](https://toutiao.io/k/46zwctt)  
+- [2020-04-28-Electron-使用串口通信](https://toutiao.io/k/v8iol37)  
 - [2020-04-28-掌握-MySQL-连接查询到底什么是驱动表](https://toutiao.io/k/qe7ewaj)  
 - [2020-04-28-如何学-Java，我说点不太一样的学习方式](https://toutiao.io/k/043ye5e)  
 - [2020-04-28-面试官再问你-HashMap-底层原理，就把这篇文章甩给他看](https://toutiao.io/k/rzei4za)  

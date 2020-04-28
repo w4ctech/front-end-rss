@@ -681,6 +681,26 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "一位阿里P7的面试经验分享",
+        "link": "https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "无情面试官：你会手写源码吗？",
+        "link": "https://www.ershicimi.com/p/3ecd87f00e3fd38b78f29b4b29762ef8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "新手学习 react 迷惑的点(完整版)",
+        "link": "https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "阿里大佬浅谈大型项目前端架构设计",
+        "link": "https://www.ershicimi.com/p/016fca4951e60960931ad56bfdc608e7",
+        "date": "2020-04-26"
+      },
+      {
         "title": "别再乱提交代码了，看下大厂 Git 提交规范是怎么做的！",
         "link": "https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36",
         "date": "2020-04-24"
@@ -721,6 +741,21 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "前端工程师算法学习指南",
+        "link": "https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Array 原型方法源码实现大解密",
+        "link": "https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "前端进阶算法：常见算法题及完美题解",
+        "link": "https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24",
+        "date": "2020-04-25"
+      },
       {
         "title": "聊一聊去大厂需要掌握的那些知识",
         "link": "https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad",
@@ -3061,6 +3096,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "一双合适运动鞋对跑步的影响有多大？",
+        "link": "https://www.v2ex.com/t/666810",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "公司这波操作是真的骚 恶心到我了",
+        "link": "https://www.v2ex.com/t/666809",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Linux 上一键安装各种软件的工具？",
+        "link": "https://www.v2ex.com/t/666808",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "最终一致性到底是什么？？",
+        "link": "https://www.v2ex.com/t/666807",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "美区 apple 账号不能绑定美区 paypal 了？",
+        "link": "https://www.v2ex.com/t/666806",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "轻量简单好用的开源自动化运维平台",
+        "link": "https://www.v2ex.com/t/666805",
+        "date": "2020-04-28"
+      },
       {
         "title": "一线城市的生活成本真的高嘛？可乐不都 2.5 元嘛？",
         "link": "https://www.v2ex.com/t/666804",

@@ -354,6 +354,41 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "2020 年前端工程师学习指南",
+        "link": "https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Web上的图片技巧",
+        "link": "https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "学习前端三大件的正确姿势",
+        "link": "https://www.ershicimi.com/p/ddcbce98fff1e2eb17c7fde2fab31e56",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "使用 React Hooks 实现仿石墨的图片预览插件（巨详细）",
+        "link": "https://www.ershicimi.com/p/4a407033b556e67bd545d821f57c9a6b",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "解密初、中、高级程序员的进化之路（前端）",
+        "link": "https://www.ershicimi.com/p/90ed131e8880629704145fc4303639e8",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "一个简洁、有趣的无限下拉方案",
+        "link": "https://www.ershicimi.com/p/d5d94b8ec5af67b6f7ac2ed4a0f8bb9a",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。   疫情期间企业（",
+        "link": "https://www.ershicimi.com/p/47966aaed4f91c307b1e3ee452dc47a6",
+        "date": "2020-04-25"
+      },
+      {
         "title": "免费领“重学前端”全套教程，还有Vue项目,JS实战都免费开放了！",
         "link": "https://www.ershicimi.com/p/ac812219748ae5b03be1bc835ba79557",
         "date": "2020-04-24"
@@ -789,6 +824,21 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "为 Node.js 应用建立一个更安全的沙箱环境",
+        "link": "https://www.ershicimi.com/p/b2a79e4b9fa064dbb092674f6e44d9d6",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "面试官：前端代码线上出错如何解决？使用sentry",
+        "link": "https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "简单几步让你的 JS 写得更漂亮",
+        "link": "https://www.ershicimi.com/p/122a8001a1fdded2dbea80af376a2152",
+        "date": "2020-04-26"
+      },
       {
         "title": "未来可期的TypeScript",
         "link": "https://www.ershicimi.com/p/2a1d70522d7bf044ff46b5799a796ea6",
@@ -8345,6 +8395,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "在 Finder 的右键菜单中添加 “Open in VSCode”",
+        "link": "https://toutiao.io/k/xwk7x39",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "使用 Go 语言实现一个异步任务框架",
+        "link": "https://toutiao.io/k/3o38497",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "github-webhook 工具实现 github 自动构建",
+        "link": "https://toutiao.io/k/fya30rg",
+        "date": "2020-04-28"
+      },
       {
         "title": "BIO、NIO、AIO 总结",
         "link": "https://toutiao.io/k/9wkuck7",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -17,6 +17,7 @@
 - [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54) 
 - [2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a) 
 - [2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
+- [2020-04-26-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/122a8001a1fdded2dbea80af376a2152) 
 - [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320) 
 - [2020-04-21-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4) 
 - [2020-04-20-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/8eeced27110ebf6247e339edde335d2b) 
@@ -114,6 +115,7 @@
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-28-使用-Go-语言实现一个异步任务框架](https://toutiao.io/k/3o38497) 
 - [2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy) 
 - [2020-04-27-译-理解-JavaScript-内存模型，就靠这几张图了](https://toutiao.io/k/1ob7owe) 
 - [2020-04-26-悟空活动中台：微组件状态管理（上）](https://toutiao.io/k/qomitvk) 

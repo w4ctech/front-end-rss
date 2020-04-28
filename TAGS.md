@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-28 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 11:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -492,9 +492,9 @@
 - [【奇舞周刊】奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】有没有能双栏显示不同搜索引擎结果的-chrome-插件或油猴脚本](https://www.v2ex.com/t/666839)
+- [【V2EX】解放生产力!-Mysql-client-for-vscode-1.9-发布!](https://www.v2ex.com/t/666811)
 - [【V2EX】ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735)
-- [【V2EX】宝能汽车智能网联研究院-内推：-Java-、Web-前端、嵌入式开发、大数据、信息安全、数据智能、测试。传统企业按计划推进每一项工作，加班少！](https://www.v2ex.com/t/666708)
-- [【V2EX】阿里外包，招全职运维信息安全方面](https://www.v2ex.com/t/666702)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -626,10 +626,10 @@
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
+- [【V2EX】人工智能超算中心-招聘全职坐班-Java-&系统运维开发](https://www.v2ex.com/t/666843)
 - [【V2EX】阿里巴巴云原生专有云团队招聘](https://www.v2ex.com/t/666686)
 - [【V2EX】祺曜互娱招聘-ing-大量程序岗位等你来！](https://www.v2ex.com/t/666684)
 - [【V2EX】求问大家-zoom-现在面试难度怎么样](https://www.v2ex.com/t/666659)
-- [【V2EX】杭州--求职，大佬们，看下简历有问题吗，投了好久，没有面试。。](https://www.v2ex.com/t/666643)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

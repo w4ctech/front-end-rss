@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,8 @@
 - [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-28-有没有能双栏显示不同搜索引擎结果的-chrome-插件或油猴脚本](https://www.v2ex.com/t/666839) 
+- [2020-04-28-解放生产力!-Mysql-client-for-vscode-1.9-发布!](https://www.v2ex.com/t/666811) 
 - [2020-04-27-ustc-请求增加-mozilla-central-镜像，需要大家宝贵的一票](https://www.v2ex.com/t/666735) 
 - [2020-04-27-宝能汽车智能网联研究院-内推：-Java-、Web-前端、嵌入式开发、大数据、信息安全、数据智能、测试。传统企业按计划推进每一项工作，加班少！](https://www.v2ex.com/t/666708) 
 - [2020-04-27-阿里外包，招全职运维信息安全方面](https://www.v2ex.com/t/666702) 

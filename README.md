@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-28 08:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 09:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
@@ -450,6 +450,7 @@
 </summary>
 
 
+- [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html) ![](assets/new.png)  
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)  
 - [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
@@ -785,9 +786,15 @@
 </summary>
 
 
-- [2020-04-28-招行-app-可以查征信了](https://www.v2ex.com/t/666798) ![](assets/new.png)  
-- [2020-04-28-大家用什么工具作为构建自己的知识库？](https://www.v2ex.com/t/666797) ![](assets/new.png)  
-- [2020-04-28-一个运行在树莓派上的小网站](https://www.v2ex.com/t/666796) ![](assets/new.png)  
+- [2020-04-28-一线城市的生活成本真的高嘛？可乐不都-2.5-元嘛？](https://www.v2ex.com/t/666804) ![](assets/new.png)  
+- [2020-04-28-请问，-ios-的-unread-1-代是不是无法刷新了啊，不知道大家如果在用的，是不是这个情况呢](https://www.v2ex.com/t/666803) ![](assets/new.png)  
+- [2020-04-28-有人邀请你一起创业，以技术入股的合作方式。是否靠谱？有没有类似经历的-v-友，给点儿建议啊。](https://www.v2ex.com/t/666802) ![](assets/new.png)  
+- [2020-04-28-还学的动吗？-盘点下-Vue.js-3.0.0-那些让人激动的功能](https://www.v2ex.com/t/666801) ![](assets/new.png)  
+- [2020-04-28-满屏的-SE2-的问题里，我想问问各位大佬们一个老问题，-xsmax-要升-13-嘛？](https://www.v2ex.com/t/666800) ![](assets/new.png)  
+- [2020-04-28-有的人心术不正以攻击别人服务器有意思吗](https://www.v2ex.com/t/666799) ![](assets/new.png)  
+- [2020-04-28-招行-app-可以查征信了](https://www.v2ex.com/t/666798)  
+- [2020-04-28-大家用什么工具作为构建自己的知识库？](https://www.v2ex.com/t/666797)  
+- [2020-04-28-一个运行在树莓派上的小网站](https://www.v2ex.com/t/666796)  
 - [2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795)  
 - [2020-04-28-@looseChen-可否换一下头像](https://www.v2ex.com/t/666794)  
 - [2020-04-28-周末写了个图片文字提取的小工具减压](https://www.v2ex.com/t/666793)  
@@ -799,12 +806,6 @@
 - [2020-04-28-justmysocks-的-aff-提现到了美区的-paypal-，请问谁知道怎么提现吗？-通过-payoneer，是不是也得是美区的-payoneer？国区的不行？](https://www.v2ex.com/t/666786)  
 - [2020-04-28-最近在看前端的机会](https://www.v2ex.com/t/666785)  
 - [2020-04-28-求建议-黑苹果向的台式主机配置](https://www.v2ex.com/t/666784)  
-- [2020-04-28-求助，刚更新完-MIUI12](https://www.v2ex.com/t/666783)  
-- [2020-04-28-分布式，中-两阶段提交，-tcc，处理的是同一个数据的不同副本，还是同一个业务的不同数据](https://www.v2ex.com/t/666782)  
-- [2020-04-28-referrerpolicy="no-referrer"与反反防盗链](https://www.v2ex.com/t/666780)  
-- [2020-04-28-求助：用-idea-写-servlet-连接不上数据库](https://www.v2ex.com/t/666778)  
-- [2020-04-28-什么是最终一致性，有点混淆，谢谢](https://www.v2ex.com/t/666777)  
-- [2020-04-28-你们哪些地方用到-cap-的知识了？](https://www.v2ex.com/t/666776)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -816,6 +817,7 @@
 </summary>
 
 
+- [2020-04-28-都知道避免ANR，但该如何分析，定位，解决？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-假如有人把支付宝存储服务器炸了，我们的钱还在吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13411&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1QDg0lkdmXN8JY4j5kcGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -835,7 +837,6 @@
 - [2020-04-24-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -847,26 +848,26 @@
 </summary>
 
 
-- [2020-04-28-掌握-MySQL-连接查询到底什么是驱动表](https://toutiao.io/k/qe7ewaj) ![](assets/new.png)  
-- [2020-04-28-如何学-Java，我说点不太一样的学习方式](https://toutiao.io/k/043ye5e) ![](assets/new.png)  
-- [2020-04-28-面试官再问你-HashMap-底层原理，就把这篇文章甩给他看](https://toutiao.io/k/rzei4za) ![](assets/new.png)  
-- [2020-04-28-在-Android-开发中使用协程（上手指南）](https://toutiao.io/k/zpew1r8) ![](assets/new.png)  
-- [2020-04-28-请查收！来自阿里专家的高效排查集群扩缩容问题指南](https://toutiao.io/k/pxo3dkh) ![](assets/new.png)  
-- [2020-04-28-百万局对战教-AI-做人，技术解读-FPS-游戏中-AI-如何拟人化](https://toutiao.io/k/qxrv1jw) ![](assets/new.png)  
-- [2020-04-28-iOS-应用安全之代码混淆](https://toutiao.io/k/ak435he) ![](assets/new.png)  
-- [2020-04-28-Vagrant-使用国内镜像安装插件和-box-镜像](https://toutiao.io/k/qdtfdd7) ![](assets/new.png)  
+- [2020-04-28-BIO、NIO、AIO-总结](https://toutiao.io/k/9wkuck7) ![](assets/new.png)  
+- [2020-04-28-美团技术团队的书单](https://toutiao.io/k/kwflgvj) ![](assets/new.png)  
+- [2020-04-28-Go-语言的-GPM-调度器是什么？](https://toutiao.io/k/cwbx2q1) ![](assets/new.png)  
+- [2020-04-28-Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo) ![](assets/new.png)  
+- [2020-04-28-漫谈数据治理（一）：计算与存储压力](https://toutiao.io/k/s7mfrrs) ![](assets/new.png)  
+- [2020-04-28-Manjaro-Linux-入门使用教程](https://toutiao.io/k/tlaq8bo) ![](assets/new.png)  
+- [2020-04-28-一起围观由-React-Hooks-防抖引发的面试翻车现场](https://toutiao.io/k/46zwctt) ![](assets/new.png)  
+- [2020-04-28-Electron-使用串口通信](https://toutiao.io/k/v8iol37) ![](assets/new.png)  
+- [2020-04-28-掌握-MySQL-连接查询到底什么是驱动表](https://toutiao.io/k/qe7ewaj)  
+- [2020-04-28-如何学-Java，我说点不太一样的学习方式](https://toutiao.io/k/043ye5e)  
+- [2020-04-28-面试官再问你-HashMap-底层原理，就把这篇文章甩给他看](https://toutiao.io/k/rzei4za)  
+- [2020-04-28-在-Android-开发中使用协程（上手指南）](https://toutiao.io/k/zpew1r8)  
+- [2020-04-28-请查收！来自阿里专家的高效排查集群扩缩容问题指南](https://toutiao.io/k/pxo3dkh)  
+- [2020-04-28-百万局对战教-AI-做人，技术解读-FPS-游戏中-AI-如何拟人化](https://toutiao.io/k/qxrv1jw)  
+- [2020-04-28-iOS-应用安全之代码混淆](https://toutiao.io/k/ak435he)  
+- [2020-04-28-Vagrant-使用国内镜像安装插件和-box-镜像](https://toutiao.io/k/qdtfdd7)  
 - [2020-04-27-抱歉，索引原理都知道，让我优化就很苦恼。这才明白原理要这样用](https://toutiao.io/k/cuwudz9)  
 - [2020-04-27-需求理解不一致？那是你的需求沟通有问题](https://toutiao.io/k/rjly69c)  
 - [2020-04-27-译-最-Cool-Kubernetes-网络方案-Cilium-入门教程](https://toutiao.io/k/pabcvyq)  
 - [2020-04-27-Prometheus-+-Grafana-监控整个-Linux-网络栈](https://toutiao.io/k/4liyibg)  
-- [2020-04-27-打造云原生大型分布式监控系统：-Thanos-部署与实践](https://toutiao.io/k/4ti2zcc)  
-- [2020-04-27-迎接-Vue-3.0：在-Vue-2-与-Vue-3-中构建相同的组件](https://toutiao.io/k/adiubjg)  
-- [2020-04-27-为流媒体而生的-MSE-API](https://toutiao.io/k/slhvdn8)  
-- [2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy)  
-- [2020-04-27-闲谈软件系统中的复杂度](https://toutiao.io/k/2oazlbi)  
-- [2020-04-27-在-Win10-的-WSL-中设置前端开发环境](https://toutiao.io/k/eh6n9z6)  
-- [2020-04-27-通过架构改进，我们计划优化掉-300+-台服务器](https://toutiao.io/k/ailsovj)  
-- [2020-04-27-面试官：Spring-Boot-中关于日志工具的使用，我想问你几个常见问题](https://toutiao.io/k/hgefq69)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

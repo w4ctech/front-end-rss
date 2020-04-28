@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-28 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-28 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -22,6 +22,7 @@
 - [2020-04-24-无法正常在-facebook-分享-github-pages-的链接](https://www.v2ex.com/t/665577) 
 - [2020-04-26-Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13407&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy5kazWqWK69USNR_9WLCXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-在对比了-GitHub-5000-个-Python-项目之后，我们精选出了这-36-个！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13387&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFa3d9XyTzgCnCR7pjgWyew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-28-Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo) 
 - [2020-04-26-GitHub-中间人攻击原理分析](https://toutiao.io/k/31d57uv) 
 - [2020-04-25-「架构师技术图谱」上-GitHub-热榜了，助你早日成为架构师！](https://toutiao.io/k/vu7z6rh) 
 - [2020-04-24-推荐-超赞！推荐一个专注于-Java-后端源码分析的-GitHub-项目](https://toutiao.io/k/juq71tq) 

@@ -876,6 +876,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "苹果往事：乔布斯和 iPod 的诞生",
+        "link": "http://www.ruanyifeng.com/blog/2020/04/ipod-history.html",
+        "date": "2020-04-28"
+      },
+      {
         "title": "git cherry-pick 教程",
         "link": "http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html",
         "date": "2020-04-27"
@@ -3056,6 +3061,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "一线城市的生活成本真的高嘛？可乐不都 2.5 元嘛？",
+        "link": "https://www.v2ex.com/t/666804",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "请问， ios 的 unread 1 代是不是无法刷新了啊，不知道大家如果在用的，是不是这个情况呢",
+        "link": "https://www.v2ex.com/t/666803",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "有人邀请你一起创业，以技术入股的合作方式。是否靠谱？有没有类似经历的 v 友，给点儿建议啊。",
+        "link": "https://www.v2ex.com/t/666802",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "还学的动吗？ 盘点下 Vue.js 3.0.0 那些让人激动的功能",
+        "link": "https://www.v2ex.com/t/666801",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "满屏的 SE2 的问题里，我想问问各位大佬们一个老问题， xsmax 要升 13 嘛？",
+        "link": "https://www.v2ex.com/t/666800",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "有的人心术不正以攻击别人服务器有意思吗",
+        "link": "https://www.v2ex.com/t/666799",
+        "date": "2020-04-28"
+      },
       {
         "title": "招行 app 可以查征信了",
         "link": "https://www.v2ex.com/t/666798",
@@ -8069,6 +8104,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "都知道避免ANR，但该如何分析，定位，解决？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13415&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FT6EkbLleyPE76FNRkaaJ2w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-28"
+      },
+      {
         "title": "大型网课翻车现场！原因竟是…… (zhuanlan.zhihu.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-04-27"
@@ -8240,6 +8280,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "BIO、NIO、AIO 总结",
+        "link": "https://toutiao.io/k/9wkuck7",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "美团技术团队的书单",
+        "link": "https://toutiao.io/k/kwflgvj",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Go 语言的 GPM 调度器是什么？",
+        "link": "https://toutiao.io/k/cwbx2q1",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Git 入门太难？试试这个教程吧",
+        "link": "https://toutiao.io/k/lutvozo",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "漫谈数据治理（一）：计算与存储压力",
+        "link": "https://toutiao.io/k/s7mfrrs",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Manjaro Linux 入门使用教程",
+        "link": "https://toutiao.io/k/tlaq8bo",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "一起围观由 React Hooks 防抖引发的面试翻车现场",
+        "link": "https://toutiao.io/k/46zwctt",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "Electron 使用串口通信",
+        "link": "https://toutiao.io/k/v8iol37",
+        "date": "2020-04-28"
+      },
       {
         "title": "掌握 MySQL 连接查询到底什么是驱动表",
         "link": "https://toutiao.io/k/qe7ewaj",

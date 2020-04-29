@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -511,6 +511,9 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-创业公司要不要去？？](https://www.v2ex.com/t/667381) 
+- [【V2EX】2020-04-29-被人骂了，怎么破？-受不了一点被骂，有点玻璃心](https://www.v2ex.com/t/667380) 
+- [【V2EX】2020-04-29-使用-Windows-Terminal-替代-Xshell](https://www.v2ex.com/t/667379) 
 - [【V2EX】2020-04-29-谁买这本书了，能不能红包分享下](https://www.v2ex.com/t/667375) 
 - [【V2EX】2020-04-29-招一个工作-1-3-年的后端，技术栈-golang，有意邮箱-bing.he01@liulishuo.com](https://www.v2ex.com/t/667373) 
 - [【V2EX】2020-04-29-问个图片验证问题.](https://www.v2ex.com/t/667371) 

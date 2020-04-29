@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 19:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 19:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -830,10 +830,13 @@
 </summary>
 
 
-- [2020-04-29-谁买这本书了，能不能红包分享下](https://www.v2ex.com/t/667375) ![](assets/new.png)  
-- [2020-04-29-招一个工作-1-3-年的后端，技术栈-golang，有意邮箱-bing.he01@liulishuo.com](https://www.v2ex.com/t/667373) ![](assets/new.png)  
-- [2020-04-29-问个图片验证问题.](https://www.v2ex.com/t/667371) ![](assets/new.png)  
-- [2020-04-29-社招百度北京部门直招：高级服务端研发工程师-PHP-/GO](https://www.v2ex.com/t/667370) ![](assets/new.png)  
+- [2020-04-29-创业公司要不要去？？](https://www.v2ex.com/t/667381) ![](assets/new.png)  
+- [2020-04-29-被人骂了，怎么破？-受不了一点被骂，有点玻璃心](https://www.v2ex.com/t/667380) ![](assets/new.png)  
+- [2020-04-29-使用-Windows-Terminal-替代-Xshell](https://www.v2ex.com/t/667379) ![](assets/new.png)  
+- [2020-04-29-谁买这本书了，能不能红包分享下](https://www.v2ex.com/t/667375)  
+- [2020-04-29-招一个工作-1-3-年的后端，技术栈-golang，有意邮箱-bing.he01@liulishuo.com](https://www.v2ex.com/t/667373)  
+- [2020-04-29-问个图片验证问题.](https://www.v2ex.com/t/667371)  
+- [2020-04-29-社招百度北京部门直招：高级服务端研发工程师-PHP-/GO](https://www.v2ex.com/t/667370)  
 - [2020-04-29-有没有提供文字模糊搜索的库？](https://www.v2ex.com/t/667368)  
 - [2020-04-29-如何判断一堆点连成的曲线是比较平滑的](https://www.v2ex.com/t/667367)  
 - [2020-04-29-华为云活动又来了免费领水杯](https://www.v2ex.com/t/667366)  
@@ -847,9 +850,6 @@
 - [2020-04-29-程序员算是掌握生产资料了么？](https://www.v2ex.com/t/667357)  
 - [2020-04-29-手机-QQ-通话时如何录音呢？](https://www.v2ex.com/t/667356)  
 - [2020-04-29-淘宝把取消订单按钮放的很隐蔽,产品上有什么优点吗?](https://www.v2ex.com/t/667355)  
-- [2020-04-29-遍历-list-of-lists-of-lists-的优化方法](https://www.v2ex.com/t/667354)  
-- [2020-04-29-单元测试，-Mock-测试类中的方法返回值·](https://www.v2ex.com/t/667351)  
-- [2020-04-29-腾讯是什么垃圾，微信是什么垃圾，该如何分类？](https://www.v2ex.com/t/667350)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

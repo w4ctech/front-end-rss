@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-04-29 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-29-创业公司要不要去？？](https://www.v2ex.com/t/667381) 
+- [2020-04-29-被人骂了，怎么破？-受不了一点被骂，有点玻璃心](https://www.v2ex.com/t/667380) 
+- [2020-04-29-使用-Windows-Terminal-替代-Xshell](https://www.v2ex.com/t/667379) 
 - [2020-04-29-谁买这本书了，能不能红包分享下](https://www.v2ex.com/t/667375) 
 - [2020-04-29-招一个工作-1-3-年的后端，技术栈-golang，有意邮箱-bing.he01@liulishuo.com](https://www.v2ex.com/t/667373) 
 - [2020-04-29-问个图片验证问题.](https://www.v2ex.com/t/667371) 

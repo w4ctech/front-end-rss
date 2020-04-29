@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 09:30:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 10:00:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,14 +26,14 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -250,6 +250,8 @@
 </summary>
 
 
+- [2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240) ![](assets/new.png)  
+- [2020-04-29-Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703) ![](assets/new.png)  
 - [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6)  
 - [2020-04-28-Web上的图片技巧](https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba)  
 - [2020-04-27-学习前端三大件的正确姿势](https://www.ershicimi.com/p/ddcbce98fff1e2eb17c7fde2fab31e56)  
@@ -406,7 +408,7 @@
 </summary>
 
 
-- [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) ![](assets/new.png)  
+- [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51)  
 - [2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d)  
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a)  
 - [2020-04-25-前端进阶算法：常见算法题及完美题解](https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24)  
@@ -823,26 +825,26 @@
 </summary>
 
 
-- [2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164) ![](assets/new.png)  
-- [2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163) ![](assets/new.png)  
-- [2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161) ![](assets/new.png)  
-- [2020-04-29-如何实现-A-容器内使用-B-容器的命令呢?](https://www.v2ex.com/t/667160) ![](assets/new.png)  
-- [2020-04-29-2020-年，现在-reactjs-还是-redux-+-redux-saga-那一套么？](https://www.v2ex.com/t/667159) ![](assets/new.png)  
-- [2020-04-29-Python-是哪种类型语言](https://www.v2ex.com/t/667158) ![](assets/new.png)  
-- [2020-04-29-完了，安装-deepin-v20-后，发现没法再进入-Win10-了。。。](https://www.v2ex.com/t/667156) ![](assets/new.png)  
+- [2020-04-29-QQ-邮箱之前有个关联账号的功能被移除了吗？](https://www.v2ex.com/t/667180) ![](assets/new.png)  
+- [2020-04-29-库存扣减，余额扣减，应该使用乐观锁的方式吗？](https://www.v2ex.com/t/667178) ![](assets/new.png)  
+- [2020-04-29-iPhone-11-待机一段时间后，无法通过-wifi-访问，附上拓扑图，求分析](https://www.v2ex.com/t/667176) ![](assets/new.png)  
+- [2020-04-29-除了手机厂商的云服务，还有哪家云服务可以用来备份手机相册？](https://www.v2ex.com/t/667174) ![](assets/new.png)  
+- [2020-04-29-有人用雷电-2-外接显卡坞的吗？我这个速度有点问题，但是我不知道是哪里出现问题](https://www.v2ex.com/t/667172) ![](assets/new.png)  
+- [2020-04-29-迫于没有独立节点。公主焊接！-PCR！休闲公会招人！《走出非洲》](https://www.v2ex.com/t/667171) ![](assets/new.png)  
+- [2020-04-29-一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170) ![](assets/new.png)  
+- [2020-04-29-mbp-16-寸-32-的内存-硬盘选-1t-还是-512](https://www.v2ex.com/t/667169) ![](assets/new.png)  
+- [2020-04-29-问个-Python-代码的小问题，困扰了半天。不会解。](https://www.v2ex.com/t/667168) ![](assets/new.png)  
+- [2020-04-29-MIUI12-出了后，感觉-Android-用户好惨呀旺柴](https://www.v2ex.com/t/667167) ![](assets/new.png)  
+- [2020-04-29-Ubuntu-频繁断网，有人遇到过吗？](https://www.v2ex.com/t/667166) ![](assets/new.png)  
+- [2020-04-29-遇到这种情况（人），你们怎么处理？？](https://www.v2ex.com/t/667165) ![](assets/new.png)  
+- [2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164)  
+- [2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163)  
+- [2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161)  
+- [2020-04-29-如何实现-A-容器内使用-B-容器的命令呢?](https://www.v2ex.com/t/667160)  
+- [2020-04-29-2020-年，现在-reactjs-还是-redux-+-redux-saga-那一套么？](https://www.v2ex.com/t/667159)  
+- [2020-04-29-Python-是哪种类型语言](https://www.v2ex.com/t/667158)  
+- [2020-04-29-完了，安装-deepin-v20-后，发现没法再进入-Win10-了。。。](https://www.v2ex.com/t/667156)  
 - [2020-04-29-阿里的电话邀请面试都是-KPI-工程么？](https://www.v2ex.com/t/667155)  
-- [2020-04-29-询问现在有支持-Alfred4-的快递查询-workflow-吗](https://www.v2ex.com/t/667154)  
-- [2020-04-29-北京-迫于换显示器，出闲置佳明-Fenix5-Plus-中文版-2500](https://www.v2ex.com/t/667153)  
-- [2020-04-29-有没有什么好用的蓝牙-5.0mp3-给推荐一下?](https://www.v2ex.com/t/667151)  
-- [2020-04-29-有什么讽刺-IT-行业的小短剧吗？](https://www.v2ex.com/t/667150)  
-- [2020-04-29-爬虫养成记--千军万马来相见（详解多线程）](https://www.v2ex.com/t/667149)  
-- [2020-04-29-有-Linux-下同步到微云的方案么？](https://www.v2ex.com/t/667148)  
-- [2020-04-29-今天，-VS-Code-五岁了。](https://www.v2ex.com/t/667147)  
-- [2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145)  
-- [2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144)  
-- [2020-04-29-现在新办深圳电信游戏宽带还是全局-CN2-吗？](https://www.v2ex.com/t/667143)  
-- [2020-04-29-失业的第五个月，无尽的迷茫](https://www.v2ex.com/t/667142)  
-- [2020-04-29-Django-的-ORM-查询问题，求大神解救！](https://www.v2ex.com/t/667141)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -885,10 +887,10 @@
 </summary>
 
 
-- [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) ![](assets/new.png)  
-- [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) ![](assets/new.png)  
-- [2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85) ![](assets/new.png)  
-- [2020-04-29-哈希表哪家强？几大编程语言吵起来了](https://toutiao.io/k/6o4rgij) ![](assets/new.png)  
+- [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba)  
+- [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4)  
+- [2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85)  
+- [2020-04-29-哈希表哪家强？几大编程语言吵起来了](https://toutiao.io/k/6o4rgij)  
 - [2020-04-29-ThreadLocal-是什么鬼？用法、源码一锅端](https://toutiao.io/k/esumoqq)  
 - [2020-04-29-在开发环境下，基于-Spring-Boot-的-RocketMQ-示例（含安装步骤、错误分析）](https://toutiao.io/k/n59ric2)  
 - [2020-04-29-从数仓到数据中台，谈技术选型最优解](https://toutiao.io/k/5gs5ltp)  

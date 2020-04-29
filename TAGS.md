@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-29 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -136,6 +136,7 @@
 - [【Vue中文社区】用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/6bf6dbdf5ef8597e68ab74bcf52fabb3)
 - [【前端大全】前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/8162b0f0ae0a163919344d7dbf32ac60)
 - [【前端大全】在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483)
+- [【前端大学】Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703)
 - [【前端大学】13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/04e75103218a126a3ec5cf4ba3c2d7ba)
 - [【前端大学】前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ae52fabfb7b18e0c2e6a2e155c1fba64)
 - [【前端迷】用-Webpack给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/b80df1b1e06bf7ec89fb3ce786da825a)
@@ -151,7 +152,6 @@
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【前端日刊】13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30)
 - [【前端日刊】Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca)
-- [【互联网架构师】呕心沥血总结的14张思维导图，教你构建-Python核心知识体系（附高清下载）](https://www.ershicimi.com/p/cbd6a6ee0fb9fe1ba4aba4c970011a50)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -454,12 +454,12 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【InfoQ】晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170)
 - [【V2EX】有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770)
 - [【V2EX】5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694)
 - [【V2EX】202004271652-你们的-QQ-企业邮箱能正常加载吗？](https://www.v2ex.com/t/666664)
 - [【V2EX】SWAP-常见问题分析和性能调优配置实践小结](https://www.v2ex.com/t/666354)
 - [【V2EX】Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://www.v2ex.com/t/665941)
-- [【V2EX】求助-Zerotier-性能堪忧，求大佬指点迷津](https://www.v2ex.com/t/665785)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

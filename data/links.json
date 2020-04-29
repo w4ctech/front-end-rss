@@ -404,6 +404,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "资深前端工程师：裁人后，我总结了 7 个必备技能",
+        "link": "https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "Webpack 5 Module Federation: JavaScript 架构的变革者",
+        "link": "https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703",
+        "date": "2020-04-29"
+      },
+      {
         "title": "2020 年前端工程师学习指南",
         "link": "https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6",
         "date": "2020-04-28"
@@ -3321,6 +3331,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "QQ 邮箱之前有个关联账号的功能被移除了吗？",
+        "link": "https://www.v2ex.com/t/667180",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "库存扣减，余额扣减，应该使用乐观锁的方式吗？",
+        "link": "https://www.v2ex.com/t/667178",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "iPhone 11 待机一段时间后，无法通过 wifi 访问，附上拓扑图，求分析",
+        "link": "https://www.v2ex.com/t/667176",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "除了手机厂商的云服务，还有哪家云服务可以用来备份手机相册？",
+        "link": "https://www.v2ex.com/t/667174",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "有人用雷电 2 外接显卡坞的吗？我这个速度有点问题，但是我不知道是哪里出现问题",
+        "link": "https://www.v2ex.com/t/667172",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "迫于没有独立节点。公主焊接！ PCR！休闲公会招人！《走出非洲》",
+        "link": "https://www.v2ex.com/t/667171",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "一场疫情，迎来了前所未有的优化大潮",
+        "link": "https://www.v2ex.com/t/667170",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "mbp 16 寸 32 的内存 硬盘选 1t 还是 512",
+        "link": "https://www.v2ex.com/t/667169",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "问个 Python 代码的小问题，困扰了半天。不会解。",
+        "link": "https://www.v2ex.com/t/667168",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "MIUI12 出了后，感觉 Android 用户好惨呀[旺柴]",
+        "link": "https://www.v2ex.com/t/667167",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "Ubuntu 频繁断网，有人遇到过吗？",
+        "link": "https://www.v2ex.com/t/667166",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "遇到这种情况（人），你们怎么处理？？",
+        "link": "https://www.v2ex.com/t/667165",
+        "date": "2020-04-29"
+      },
       {
         "title": "win 下的 iTunes 里的 Apple Music 拉取封面、歌单都正常，一放歌就是一首一首跳过，求解",
         "link": "https://www.v2ex.com/t/667164",

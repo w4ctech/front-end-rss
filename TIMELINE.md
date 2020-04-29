@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -188,6 +188,8 @@
 - [【前端开发】2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [【前端开发】2020-04-19-前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/ea679a267e08192aaa41298b6379cb0a) 
 - [【前端开发】2020-04-18-大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7) 
+- [【前端大学】2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240) 
+- [【前端大学】2020-04-29-Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703) 
 - [【前端大学】2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6) 
 - [【前端大学】2020-04-28-Web上的图片技巧](https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba) 
 - [【前端大学】2020-04-27-学习前端三大件的正确姿势](https://www.ershicimi.com/p/ddcbce98fff1e2eb17c7fde2fab31e56) 
@@ -498,6 +500,18 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-QQ-邮箱之前有个关联账号的功能被移除了吗？](https://www.v2ex.com/t/667180) 
+- [【V2EX】2020-04-29-库存扣减，余额扣减，应该使用乐观锁的方式吗？](https://www.v2ex.com/t/667178) 
+- [【V2EX】2020-04-29-iPhone-11-待机一段时间后，无法通过-wifi-访问，附上拓扑图，求分析](https://www.v2ex.com/t/667176) 
+- [【V2EX】2020-04-29-除了手机厂商的云服务，还有哪家云服务可以用来备份手机相册？](https://www.v2ex.com/t/667174) 
+- [【V2EX】2020-04-29-有人用雷电-2-外接显卡坞的吗？我这个速度有点问题，但是我不知道是哪里出现问题](https://www.v2ex.com/t/667172) 
+- [【V2EX】2020-04-29-迫于没有独立节点。公主焊接！-PCR！休闲公会招人！《走出非洲》](https://www.v2ex.com/t/667171) 
+- [【V2EX】2020-04-29-一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170) 
+- [【V2EX】2020-04-29-mbp-16-寸-32-的内存-硬盘选-1t-还是-512](https://www.v2ex.com/t/667169) 
+- [【V2EX】2020-04-29-问个-Python-代码的小问题，困扰了半天。不会解。](https://www.v2ex.com/t/667168) 
+- [【V2EX】2020-04-29-MIUI12-出了后，感觉-Android-用户好惨呀旺柴](https://www.v2ex.com/t/667167) 
+- [【V2EX】2020-04-29-Ubuntu-频繁断网，有人遇到过吗？](https://www.v2ex.com/t/667166) 
+- [【V2EX】2020-04-29-遇到这种情况（人），你们怎么处理？？](https://www.v2ex.com/t/667165) 
 - [【V2EX】2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164) 
 - [【V2EX】2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163) 
 - [【V2EX】2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161) 

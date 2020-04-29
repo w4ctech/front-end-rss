@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -28,6 +28,7 @@
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) 
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
+- [2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240) 
 - [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6) 
 - [2020-04-28-Web上的图片技巧](https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba) 
 - [2020-04-27-学习前端三大件的正确姿势](https://www.ershicimi.com/p/ddcbce98fff1e2eb17c7fde2fab31e56) 
@@ -236,6 +237,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-QQ-邮箱之前有个关联账号的功能被移除了吗？](https://www.v2ex.com/t/667180) 
+- [2020-04-29-库存扣减，余额扣减，应该使用乐观锁的方式吗？](https://www.v2ex.com/t/667178) 
+- [2020-04-29-iPhone-11-待机一段时间后，无法通过-wifi-访问，附上拓扑图，求分析](https://www.v2ex.com/t/667176) 
+- [2020-04-29-除了手机厂商的云服务，还有哪家云服务可以用来备份手机相册？](https://www.v2ex.com/t/667174) 
+- [2020-04-29-有人用雷电-2-外接显卡坞的吗？我这个速度有点问题，但是我不知道是哪里出现问题](https://www.v2ex.com/t/667172) 
+- [2020-04-29-迫于没有独立节点。公主焊接！-PCR！休闲公会招人！《走出非洲》](https://www.v2ex.com/t/667171) 
+- [2020-04-29-mbp-16-寸-32-的内存-硬盘选-1t-还是-512](https://www.v2ex.com/t/667169) 
+- [2020-04-29-问个-Python-代码的小问题，困扰了半天。不会解。](https://www.v2ex.com/t/667168) 
+- [2020-04-29-MIUI12-出了后，感觉-Android-用户好惨呀旺柴](https://www.v2ex.com/t/667167) 
+- [2020-04-29-Ubuntu-频繁断网，有人遇到过吗？](https://www.v2ex.com/t/667166) 
+- [2020-04-29-遇到这种情况（人），你们怎么处理？？](https://www.v2ex.com/t/667165) 
 - [2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164) 
 - [2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163) 
 - [2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161) 

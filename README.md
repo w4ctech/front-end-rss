@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 23:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 00:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -802,10 +802,10 @@
 </summary>
 
 
-- [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) ![](assets/new.png)  
-- [2020-04-29-你见过最奇葩的过敏体质是对什么过敏？](https://www.ershicimi.com/p/771d721e784cf659cdea16c9f2e4d279) ![](assets/new.png)  
-- [2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a) ![](assets/new.png)  
-- [2020-04-29-知乎故事-|-结婚后的夫妻下班后都在做什么？](https://www.ershicimi.com/p/d1ee8efa20a319555a9318258522530f) ![](assets/new.png)  
+- [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)  
+- [2020-04-29-你见过最奇葩的过敏体质是对什么过敏？](https://www.ershicimi.com/p/771d721e784cf659cdea16c9f2e4d279)  
+- [2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a)  
+- [2020-04-29-知乎故事-|-结婚后的夫妻下班后都在做什么？](https://www.ershicimi.com/p/d1ee8efa20a319555a9318258522530f)  
 - [2020-04-28-我，31-岁，在家喝可乐被骂哭了](https://www.ershicimi.com/p/251f739096752e43632bbe3c81280c57)  
 - [2020-04-28-「粗腿的女生」千万别轻易练这几个动作，太虐了](https://www.ershicimi.com/p/a12c81989f7d603610c9dbb103a479dc)  
 - [2020-04-28-知乎故事-|-你生理上最痛的一次经历是什么？](https://www.ershicimi.com/p/3e6e15ee22258dce560b38679daef099)  
@@ -833,9 +833,13 @@
 </summary>
 
 
-- [2020-04-29-收藏的主题能不能搜索](https://www.v2ex.com/t/667444) ![](assets/new.png)  
-- [2020-04-29-django-有什么好方法对-tags-的标题按字排序？](https://www.v2ex.com/t/667442) ![](assets/new.png)  
-- [2020-04-29-最近写着玩的项目-lambda-sass](https://www.v2ex.com/t/667441) ![](assets/new.png)  
+- [2020-04-29-我听说有非官方-store-的苹果-APP？到底是什么原理？安不安全？？](https://www.v2ex.com/t/667450) ![](assets/new.png)  
+- [2020-04-29-全职远程-独立产品团队-诚聘-高级-iOS-开发者](https://www.v2ex.com/t/667449) ![](assets/new.png)  
+- [2020-04-29-求问去一个做行李管理系统之类机场服务的公司，选择后端还是前端呢？](https://www.v2ex.com/t/667447) ![](assets/new.png)  
+- [2020-04-29-普通二本-2020-应届生，前端求职，-0-offer-，求各位大佬看看简历，给点建议](https://www.v2ex.com/t/667446) ![](assets/new.png)  
+- [2020-04-29-收藏的主题能不能搜索](https://www.v2ex.com/t/667444)  
+- [2020-04-29-django-有什么好方法对-tags-的标题按字排序？](https://www.v2ex.com/t/667442)  
+- [2020-04-29-最近写着玩的项目-lambda-sass](https://www.v2ex.com/t/667441)  
 - [2020-04-29-禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440)  
 - [2020-04-29-从满足需求看网盘选择---也是一张图对比](https://www.v2ex.com/t/667437)  
 - [2020-04-29-信用卡数量会影响房贷吗？](https://www.v2ex.com/t/667434)  
@@ -849,10 +853,6 @@
 - [2020-04-29-请教一个关于前端，回调的总是](https://www.v2ex.com/t/667425)  
 - [2020-04-29-让人迷惑的-interface](https://www.v2ex.com/t/667423)  
 - [2020-04-29-有没有设计相关的-slack-群？](https://www.v2ex.com/t/667422)  
-- [2020-04-29-提醒一下最近找工作的,-口头-offer-的话背调邀请要慎重](https://www.v2ex.com/t/667421)  
-- [2020-04-29-求指教一个-redux-相关的问题，先谢过了](https://www.v2ex.com/t/667420)  
-- [2020-04-29-求破案-什么情况下，-iPhone-的本机名称才会被自动的重置为-iPhone-2](https://www.v2ex.com/t/667419)  
-- [2020-04-29-关于-vscode-terminal-的问题](https://www.v2ex.com/t/667415)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

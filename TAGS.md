@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-29 23:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -495,8 +495,8 @@
 - [【InfoQ】浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】我听说有非官方-store-的苹果-APP？到底是什么原理？安不安全？？](https://www.v2ex.com/t/667450)
 - [【V2EX】无意中发现，进入-V2EX-的自己的主页，浏览器图标会变成自己头像，咋做到的呢？](https://www.v2ex.com/t/667359)
-- [【V2EX】请问一下，苹果-Safari-导出-csv/xlsx-文件中文名是乱码要怎么解决？](https://www.v2ex.com/t/667332)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

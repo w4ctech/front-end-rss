@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -243,6 +243,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-求破案-什么情况下，-iPhone-的本机名称才会被自动的重置为-iPhone-2](https://www.v2ex.com/t/667419) 
+- [2020-04-29-关于-vscode-terminal-的问题](https://www.v2ex.com/t/667415) 
+- [2020-04-29-我为什么这么菜？](https://www.v2ex.com/t/667414) 
+- [2020-04-29-五一，你们都去哪？](https://www.v2ex.com/t/667413) 
+- [2020-04-29-除了基本的-CURD，还能做什么](https://www.v2ex.com/t/667409) 
+- [2020-04-29-底层码农在疫情间的求职经历与感悟](https://www.v2ex.com/t/667404) 
 - [2020-04-29-键盘连击终于轮到我了，这次是外接键盘](https://www.v2ex.com/t/667402) 
 - [2020-04-29-什么时候发布和推送-Windows-10-2004？](https://www.v2ex.com/t/667398) 
 - [2020-04-29--a-和-0-a-有什么区别？](https://www.v2ex.com/t/667397) 

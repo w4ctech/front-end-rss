@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-30 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -521,6 +521,7 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-30-请教各位大佬-macOS-下如何优雅连接硬盘](https://www.v2ex.com/t/667460) 
 - [【V2EX】2020-04-30-Mac-上-Safari-跑分比-Chrome-高，为何感觉-Chrome-更快？](https://www.v2ex.com/t/667458) 
 - [【V2EX】2020-04-30-自动跳过-app-这个功能是怎样实现的?](https://www.v2ex.com/t/667457) 
 - [【V2EX】2020-04-30-问问各位老哥-2020-年学-ios-开发前景如何](https://www.v2ex.com/t/667456) 

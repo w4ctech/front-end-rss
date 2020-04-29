@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -249,6 +249,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-请教各位大佬-macOS-下如何优雅连接硬盘](https://www.v2ex.com/t/667460) 
 - [2020-04-30-自动跳过-app-这个功能是怎样实现的?](https://www.v2ex.com/t/667457) 
 - [2020-04-30-问问各位老哥-2020-年学-ios-开发前景如何](https://www.v2ex.com/t/667456) 
 - [2020-04-30-一台-9-成新的-Mate30Pro-可否换来一台群辉](https://www.v2ex.com/t/667455) 

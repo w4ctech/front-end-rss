@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-29 22:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -410,6 +410,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】视频只能用-flash-播放怎么办？](https://www.v2ex.com/t/667427)
 - [【V2EX】群辉现在有办法把硬盘里面存的一些照片和-4K-视频上传到-Google-Photos-上吗？](https://www.v2ex.com/t/667358)
 - [【V2EX】关于最近不修-996-福报，工作闲暇之余做一个小-up，分享一些有趣好玩的视频](https://www.v2ex.com/t/667241)
 - [【V2EX】百万级图像抓取去重存档技术方案](https://www.v2ex.com/t/667203)
@@ -424,7 +425,6 @@
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后端开发，-Server-开发工程师，平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/666625)
 - [【V2EX】视频全自动剪辑器](https://www.v2ex.com/t/666570)
 - [【V2EX】在-webrtc-中，如何防止-turn-server-被其它人利用？](https://www.v2ex.com/t/666553)
-- [【V2EX】RDP-音频延时问题，求解决方案](https://www.v2ex.com/t/666488)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -455,12 +455,12 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【InfoQ】晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440)
 - [【V2EX】遍历-list-of-lists-of-lists-的优化方法](https://www.v2ex.com/t/667354)
 - [【V2EX】一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170)
 - [【V2EX】有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770)
 - [【V2EX】5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694)
 - [【V2EX】202004271652-你们的-QQ-企业邮箱能正常加载吗？](https://www.v2ex.com/t/666664)
-- [【V2EX】SWAP-常见问题分析和性能调优配置实践小结](https://www.v2ex.com/t/666354)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

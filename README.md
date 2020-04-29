@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -822,7 +822,8 @@
 </summary>
 
 
-- [2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144) ![](assets/new.png)  
+- [2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145) ![](assets/new.png)  
+- [2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144)  
 - [2020-04-29-现在新办深圳电信游戏宽带还是全局-CN2-吗？](https://www.v2ex.com/t/667143)  
 - [2020-04-29-失业的第五个月，无尽的迷茫](https://www.v2ex.com/t/667142)  
 - [2020-04-29-Django-的-ORM-查询问题，求大神解救！](https://www.v2ex.com/t/667141)  
@@ -841,7 +842,6 @@
 - [2020-04-29-关于-spring-事务数据源的问题请教](https://www.v2ex.com/t/667128)  
 - [2020-04-29-什么样的文字图像能够抵抗-ocr-引擎识别和理解？](https://www.v2ex.com/t/667127)  
 - [2020-04-28-阿里云在哪可以领取优惠券？](https://www.v2ex.com/t/667125)  
-- [2020-04-28-有没有什么方法或软件可以批量检测直播流码率](https://www.v2ex.com/t/667124)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -884,7 +884,8 @@
 </summary>
 
 
-- [2020-04-29-有了这套题解，再也不怕刷-LeetCode-了](https://toutiao.io/k/cgm1s49) ![](assets/new.png)  
+- [2020-04-29-推荐-面试-Google，我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev) ![](assets/new.png)  
+- [2020-04-29-有了这套题解，再也不怕刷-LeetCode-了](https://toutiao.io/k/cgm1s49)  
 - [2020-04-28-你未必真的了解线程安全，别骗自己，来看下怎么实现线程安全](https://toutiao.io/k/fv357t8)  
 - [2020-04-28-YOLOv4：43-mAP/83-FPS，虽迟但到，大型调优现场](https://toutiao.io/k/oa5ntzs)  
 - [2020-04-28-看了这么多数据中台，今天发篇接地气的](https://toutiao.io/k/li1sxnv)  
@@ -903,7 +904,6 @@
 - [2020-04-28-Go-语言的-GPM-调度器是什么？](https://toutiao.io/k/cwbx2q1)  
 - [2020-04-28-Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo)  
 - [2020-04-28-漫谈数据治理（一）：计算与存储压力](https://toutiao.io/k/s7mfrrs)  
-- [2020-04-28-Manjaro-Linux-入门使用教程](https://toutiao.io/k/tlaq8bo)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

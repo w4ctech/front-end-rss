@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -497,6 +497,7 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145) 
 - [【V2EX】2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144) 
 - [【V2EX】2020-04-29-现在新办深圳电信游戏宽带还是全局-CN2-吗？](https://www.v2ex.com/t/667143) 
 - [【V2EX】2020-04-29-失业的第五个月，无尽的迷茫](https://www.v2ex.com/t/667142) 
@@ -1835,6 +1836,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-29-推荐-面试-Google，我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev) 
 - [【开发者头条】2020-04-29-有了这套题解，再也不怕刷-LeetCode-了](https://toutiao.io/k/cgm1s49) 
 - [【开发者头条】2020-04-28-你未必真的了解线程安全，别骗自己，来看下怎么实现线程安全](https://toutiao.io/k/fv357t8) 
 - [【开发者头条】2020-04-28-YOLOv4：43-mAP/83-FPS，虽迟但到，大型调优现场](https://toutiao.io/k/oa5ntzs) 

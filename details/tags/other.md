@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -239,6 +239,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-树莓派-4B-内存选-2G-还是-4G？](https://www.v2ex.com/t/667230) 
+- [2020-04-29-腾云宝-的快递取件短信，必须回复一下或者点链接才能解锁全文](https://www.v2ex.com/t/667228) 
+- [2020-04-29-终究还是被裁员了，完全没想到那么快，投递简历两天感到绝望和心累](https://www.v2ex.com/t/667226) 
+- [2020-04-29-如何不被互联网以及多方面的“贩卖焦虑&压力”所影响？](https://www.v2ex.com/t/667225) 
+- [2020-04-29-我们应该为了行动而学习](https://www.v2ex.com/t/667224) 
+- [2020-04-29-求推荐-USB-C-网卡](https://www.v2ex.com/t/667223) 
 - [2020-04-29-各位大佬，你们觉得消息队列以后的发展方向会是怎么走？](https://www.v2ex.com/t/667218) 
 - [2020-04-29-被公司恶心惨了,难道公司搬家都是不事先投票调查的?](https://www.v2ex.com/t/667216) 
 - [2020-04-29-求助：-Mac-下打开软件老是要重新下载字体怎么破？](https://www.v2ex.com/t/667215) 
@@ -1351,6 +1357,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m) 
 - [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) 
 - [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) 
 - [2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85) 

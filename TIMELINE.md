@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -504,6 +504,16 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-树莓派-4B-内存选-2G-还是-4G？](https://www.v2ex.com/t/667230) 
+- [【V2EX】2020-04-29-上海-Farfetch-内推-2020](https://www.v2ex.com/t/667229) 
+- [【V2EX】2020-04-29-腾云宝-的快递取件短信，必须回复一下或者点链接才能解锁全文](https://www.v2ex.com/t/667228) 
+- [【V2EX】2020-04-29-终究还是被裁员了，完全没想到那么快，投递简历两天感到绝望和心累](https://www.v2ex.com/t/667226) 
+- [【V2EX】2020-04-29-如何不被互联网以及多方面的“贩卖焦虑&压力”所影响？](https://www.v2ex.com/t/667225) 
+- [【V2EX】2020-04-29-我们应该为了行动而学习](https://www.v2ex.com/t/667224) 
+- [【V2EX】2020-04-29-求推荐-USB-C-网卡](https://www.v2ex.com/t/667223) 
+- [【V2EX】2020-04-29-websocket-的几个问题](https://www.v2ex.com/t/667222) 
+- [【V2EX】2020-04-29-请问调用谷歌翻译-api-时，参数-client=gtx-中的-gtx-是什么意思？](https://www.v2ex.com/t/667221) 
+- [【V2EX】2020-04-29-从-Windows-10-下-IE-11-开启-Flash-卡死说起](https://www.v2ex.com/t/667219) 
 - [【V2EX】2020-04-29-各位大佬，你们觉得消息队列以后的发展方向会是怎么走？](https://www.v2ex.com/t/667218) 
 - [【V2EX】2020-04-29-上海Farfetch-内推](https://www.v2ex.com/t/667217) 
 - [【V2EX】2020-04-29-被公司恶心惨了,难道公司搬家都是不事先投票调查的?](https://www.v2ex.com/t/667216) 
@@ -1902,6 +1912,7 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m) 
 - [【开发者头条】2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) 
 - [【开发者头条】2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) 
 - [【开发者头条】2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85) 

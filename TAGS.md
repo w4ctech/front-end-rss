@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-29 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -494,8 +494,8 @@
 - [【InfoQ】浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
-- [【V2EX】如何让-Python-放弃长时间没读取的-yield？或者说-Flask-的-EventSource-如何在浏览器断开连接的时候释放资源？](https://www.v2ex.com/t/667111)
-- [【V2EX】关于安卓版-edge-浏览器右滑返回](https://www.v2ex.com/t/667107)
+- [【V2EX】websocket-的几个问题](https://www.v2ex.com/t/667222)
+- [【V2EX】请问调用谷歌翻译-api-时，参数-client=gtx-中的-gtx-是什么意思？](https://www.v2ex.com/t/667221)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

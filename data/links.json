@@ -3352,6 +3352,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "树莓派 4B 内存选 2G 还是 4G？",
+        "link": "https://www.v2ex.com/t/667230",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[上海] Farfetch 内推 2020",
+        "link": "https://www.v2ex.com/t/667229",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[腾云宝] 的快递取件短信，必须回复一下或者点链接才能解锁全文",
+        "link": "https://www.v2ex.com/t/667228",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "终究还是被裁员了，完全没想到那么快，投递简历两天感到绝望和心累",
+        "link": "https://www.v2ex.com/t/667226",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "如何不被互联网以及多方面的“贩卖焦虑&压力”所影响？",
+        "link": "https://www.v2ex.com/t/667225",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "我们应该为了行动而学习",
+        "link": "https://www.v2ex.com/t/667224",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "求推荐 USB-C 网卡",
+        "link": "https://www.v2ex.com/t/667223",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "websocket 的几个问题",
+        "link": "https://www.v2ex.com/t/667222",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "请问调用谷歌翻译 api 时，参数 client=gtx 中的 gtx 是什么意思？",
+        "link": "https://www.v2ex.com/t/667221",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "从 Windows 10 下 IE 11 开启 Flash 卡死说起",
+        "link": "https://www.v2ex.com/t/667219",
+        "date": "2020-04-29"
+      },
+      {
         "title": "各位大佬，你们觉得消息队列以后的发展方向会是怎么走？",
         "link": "https://www.v2ex.com/t/667218",
         "date": "2020-04-29"
@@ -10355,6 +10405,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "在 Mac 下，实现与服务器进行便捷的文件上传和下载操作",
+        "link": "https://toutiao.io/k/s5gng8m",
+        "date": "2020-04-29"
+      },
       {
         "title": "基于 Win10 单机部署 Kubernetes 应用",
         "link": "https://toutiao.io/k/cruwvba",

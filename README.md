@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 11:30:21，:rocket: 更新条数: +32， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 12:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -826,26 +826,26 @@
 </summary>
 
 
-- [2020-04-29-各位大佬，你们觉得消息队列以后的发展方向会是怎么走？](https://www.v2ex.com/t/667218) ![](assets/new.png)  
-- [2020-04-29-上海Farfetch-内推](https://www.v2ex.com/t/667217) ![](assets/new.png)  
-- [2020-04-29-被公司恶心惨了,难道公司搬家都是不事先投票调查的?](https://www.v2ex.com/t/667216) ![](assets/new.png)  
-- [2020-04-29-求助：-Mac-下打开软件老是要重新下载字体怎么破？](https://www.v2ex.com/t/667215) ![](assets/new.png)  
-- [2020-04-29-有人用过黑阈吗？怎么样？](https://www.v2ex.com/t/667214) ![](assets/new.png)  
-- [2020-04-29-搞了个-Spring、Spark、Flink-源码阅读群](https://www.v2ex.com/t/667213) ![](assets/new.png)  
-- [2020-04-29-芒果-TV-13-个月-VIP-只需-79-元](https://www.v2ex.com/t/667212) ![](assets/new.png)  
-- [2020-04-29-对未知的骚扰电话，大家有比较好的反击手段吗](https://www.v2ex.com/t/667211) ![](assets/new.png)  
-- [2020-04-29-pymssql-连接-sql-server-express](https://www.v2ex.com/t/667210) ![](assets/new.png)  
-- [2020-04-29-最近都在讨论-MIUI12，突然很好奇，小米系-APP-在其他手机上的表现怎么样？](https://www.v2ex.com/t/667208) ![](assets/new.png)  
-- [2020-04-29-马上夏天了..想减肥](https://www.v2ex.com/t/667207) ![](assets/new.png)  
-- [2020-04-29-cloud-init-几点笔记及-centos-莫名改-hostname-问题。](https://www.v2ex.com/t/667205) ![](assets/new.png)  
-- [2020-04-29-electron-使用-web-worker-上传批量的文件（7W+）报-Maximum-call-stack-size-exceeded-错误](https://www.v2ex.com/t/667204) ![](assets/new.png)  
-- [2020-04-29-百万级图像抓取去重存档技术方案](https://www.v2ex.com/t/667203) ![](assets/new.png)  
-- [2020-04-29-电信家宽-ip-被-ipip.net-识别为代理](https://www.v2ex.com/t/667202) ![](assets/new.png)  
-- [2020-04-29-蚂蚁宝卡用户充值-50-元送百度盘-VIP](https://www.v2ex.com/t/667200) ![](assets/new.png)  
-- [2020-04-29-使用-make-fmt-Bad-file-number](https://www.v2ex.com/t/667199) ![](assets/new.png)  
-- [2020-04-29-office365-家庭版能切换主账户吗](https://www.v2ex.com/t/667198) ![](assets/new.png)  
-- [2020-04-29-100-元找人指教一下-SqlServer-的权限问题](https://www.v2ex.com/t/667197) ![](assets/new.png)  
-- [2020-04-29-如果电信运营商公网-IP-收费，你能接受吗？](https://www.v2ex.com/t/667196) ![](assets/new.png)  
+- [2020-04-29-树莓派-4B-内存选-2G-还是-4G？](https://www.v2ex.com/t/667230) ![](assets/new.png)  
+- [2020-04-29-上海-Farfetch-内推-2020](https://www.v2ex.com/t/667229) ![](assets/new.png)  
+- [2020-04-29-腾云宝-的快递取件短信，必须回复一下或者点链接才能解锁全文](https://www.v2ex.com/t/667228) ![](assets/new.png)  
+- [2020-04-29-终究还是被裁员了，完全没想到那么快，投递简历两天感到绝望和心累](https://www.v2ex.com/t/667226) ![](assets/new.png)  
+- [2020-04-29-如何不被互联网以及多方面的“贩卖焦虑&压力”所影响？](https://www.v2ex.com/t/667225) ![](assets/new.png)  
+- [2020-04-29-我们应该为了行动而学习](https://www.v2ex.com/t/667224) ![](assets/new.png)  
+- [2020-04-29-求推荐-USB-C-网卡](https://www.v2ex.com/t/667223) ![](assets/new.png)  
+- [2020-04-29-websocket-的几个问题](https://www.v2ex.com/t/667222) ![](assets/new.png)  
+- [2020-04-29-请问调用谷歌翻译-api-时，参数-client=gtx-中的-gtx-是什么意思？](https://www.v2ex.com/t/667221) ![](assets/new.png)  
+- [2020-04-29-从-Windows-10-下-IE-11-开启-Flash-卡死说起](https://www.v2ex.com/t/667219) ![](assets/new.png)  
+- [2020-04-29-各位大佬，你们觉得消息队列以后的发展方向会是怎么走？](https://www.v2ex.com/t/667218)  
+- [2020-04-29-上海Farfetch-内推](https://www.v2ex.com/t/667217)  
+- [2020-04-29-被公司恶心惨了,难道公司搬家都是不事先投票调查的?](https://www.v2ex.com/t/667216)  
+- [2020-04-29-求助：-Mac-下打开软件老是要重新下载字体怎么破？](https://www.v2ex.com/t/667215)  
+- [2020-04-29-有人用过黑阈吗？怎么样？](https://www.v2ex.com/t/667214)  
+- [2020-04-29-搞了个-Spring、Spark、Flink-源码阅读群](https://www.v2ex.com/t/667213)  
+- [2020-04-29-芒果-TV-13-个月-VIP-只需-79-元](https://www.v2ex.com/t/667212)  
+- [2020-04-29-对未知的骚扰电话，大家有比较好的反击手段吗](https://www.v2ex.com/t/667211)  
+- [2020-04-29-pymssql-连接-sql-server-express](https://www.v2ex.com/t/667210)  
+- [2020-04-29-最近都在讨论-MIUI12，突然很好奇，小米系-APP-在其他手机上的表现怎么样？](https://www.v2ex.com/t/667208)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -888,6 +888,7 @@
 </summary>
 
 
+- [2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m) ![](assets/new.png)  
 - [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba)  
 - [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4)  
 - [2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85)  
@@ -907,7 +908,6 @@
 - [2020-04-29-海外开发者账号上架总结](https://toutiao.io/k/613e62d)  
 - [2020-04-29-不得不聊区块链模型的爱恨情仇](https://toutiao.io/k/djhlcv2)  
 - [2020-04-29-Openstack-之-RPC-详解](https://toutiao.io/k/ob7yii6)  
-- [2020-04-29-推荐-面试-Google，我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

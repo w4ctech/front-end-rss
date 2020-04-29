@@ -244,6 +244,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "只有 2 行代码的库，坑了数百万 JS 项目",
+        "link": "https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "为什么你的网页需要 CSP?",
+        "link": "https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7",
+        "date": "2020-04-28"
+      },
+      {
+        "title": "前端部署的发展历程",
+        "link": "https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af",
+        "date": "2020-04-27"
+      },
+      {
         "title": "10个案例让你彻底理解React hooks的渲染逻辑",
         "link": "https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27",
         "date": "2020-04-26"
@@ -3421,6 +3436,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "自动跳过 app 这个功能是怎样实现的?",
+        "link": "https://www.v2ex.com/t/667457",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "问问各位老哥 2020 年学 ios 开发前景如何",
+        "link": "https://www.v2ex.com/t/667456",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "一台 9 成新的 Mate30Pro 可否换来一台群辉",
+        "link": "https://www.v2ex.com/t/667455",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "评绩效和调薪时和老板辩论有用么",
+        "link": "https://www.v2ex.com/t/667454",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "给磁力链加个 \"离线到 115\" 按钮",
+        "link": "https://www.v2ex.com/t/667453",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "LEDE 映射 FTP",
+        "link": "https://www.v2ex.com/t/667452",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "个人财产被某些部门侵害，很绝望",
+        "link": "https://www.v2ex.com/t/667451",
+        "date": "2020-04-30"
+      },
       {
         "title": "我听说有非官方 store 的苹果 APP？到底是什么原理？安不安全？？",
         "link": "https://www.v2ex.com/t/667450",

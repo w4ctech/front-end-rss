@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 01:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -305,6 +305,7 @@
 - [【Vue中文社区】8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)
 - [【Vue中文社区】11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)
 - [【前端早读课】【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)
+- [【前端大全】只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)
 - [【前端大全】Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)
 - [【前端大全】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)
 - [【前端开发】前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e)
@@ -321,7 +322,6 @@
 - [【程序员成长指北】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4)
 - [【程序员成长指北】75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/8eeced27110ebf6247e339edde335d2b)
 - [【张鑫旭-鑫空间-鑫生活】ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/)
-- [【张鑫旭-鑫空间-鑫生活】检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -697,12 +697,12 @@
 - [【前端早读课】【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae)
 - [【前端早读课】【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5)
 - [【前端早读课】【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec)
+- [【前端大全】为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)
+- [【前端大全】前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)
 - [【前端大全】一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c)
 - [【前端大全】如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3)
 - [【前端大全】前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e)
 - [【前端开发】不懂源码的前端不是真正的前端](https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32)
-- [【前端开发】公开课|快到没朋友？程序员必会的yolo模型（附福利）](https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a)
-- [【前端开发】5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -19,6 +19,8 @@
 - [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) 
 - [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) 
 - [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
+- [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7) 
+- [2020-04-27-前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af) 
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) 
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
@@ -247,6 +249,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-自动跳过-app-这个功能是怎样实现的?](https://www.v2ex.com/t/667457) 
+- [2020-04-30-问问各位老哥-2020-年学-ios-开发前景如何](https://www.v2ex.com/t/667456) 
+- [2020-04-30-一台-9-成新的-Mate30Pro-可否换来一台群辉](https://www.v2ex.com/t/667455) 
+- [2020-04-30-评绩效和调薪时和老板辩论有用么](https://www.v2ex.com/t/667454) 
+- [2020-04-30-给磁力链加个-"离线到-115"-按钮](https://www.v2ex.com/t/667453) 
+- [2020-04-30-LEDE-映射-FTP](https://www.v2ex.com/t/667452) 
+- [2020-04-30-个人财产被某些部门侵害，很绝望](https://www.v2ex.com/t/667451) 
 - [2020-04-29-全职远程-独立产品团队-诚聘-高级-iOS-开发者](https://www.v2ex.com/t/667449) 
 - [2020-04-29-求问去一个做行李管理系统之类机场服务的公司，选择后端还是前端呢？](https://www.v2ex.com/t/667447) 
 - [2020-04-29-普通二本-2020-应届生，前端求职，-0-offer-，求各位大佬看看简历，给点建议](https://www.v2ex.com/t/667446) 

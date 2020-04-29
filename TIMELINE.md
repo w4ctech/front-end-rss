@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【Vue中文社区】2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33) 
+- [【Vue中文社区】2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298) 
 - [【Vue中文社区】2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184) 
 - [【Vue中文社区】2020-04-28-作为毕业生的我在钉钉这一年的成长之路](https://www.ershicimi.com/p/abbf02a53068ab18076e1c4b05db8ef1) 
 - [【Vue中文社区】2020-04-27-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/93c073e7a4ba809c092ea97f6515c38c) 
@@ -504,6 +506,14 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-想给女朋友做个网站，遇到技术问题真诚求建议！](https://www.v2ex.com/t/667238) 
+- [【V2EX】2020-04-29-三年求职,-南京、上海、杭州都考虑,-阿里和-SHEIN-勿点,-已经有流程在走](https://www.v2ex.com/t/667237) 
+- [【V2EX】2020-04-29-想买一个-macbook-pro-的充电器，有什么推荐的吗，原装太贵了](https://www.v2ex.com/t/667236) 
+- [【V2EX】2020-04-29-昨晚到现在-阿里云国际-无法续费-无法登入后台](https://www.v2ex.com/t/667235) 
+- [【V2EX】2020-04-29-Apple-Music（播放暂停）如何设置全局快捷键？](https://www.v2ex.com/t/667234) 
+- [【V2EX】2020-04-29-中文互联网内容质量是否在下降？如何设计量化指标衡量？](https://www.v2ex.com/t/667233) 
+- [【V2EX】2020-04-29-Java-如何获取文本文件的编码](https://www.v2ex.com/t/667232) 
+- [【V2EX】2020-04-29-红旗-S9](https://www.v2ex.com/t/667231) 
 - [【V2EX】2020-04-29-树莓派-4B-内存选-2G-还是-4G？](https://www.v2ex.com/t/667230) 
 - [【V2EX】2020-04-29-上海-Farfetch-内推-2020](https://www.v2ex.com/t/667229) 
 - [【V2EX】2020-04-29-腾云宝-的快递取件短信，必须回复一下或者点链接才能解锁全文](https://www.v2ex.com/t/667228) 
@@ -1912,6 +1922,10 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a) 
+- [【开发者头条】2020-04-29-音视频基础之多媒体封装格式](https://toutiao.io/k/c6okpg9) 
+- [【开发者头条】2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc) 
+- [【开发者头条】2020-04-29-2020-年有哪些副业可以做](https://toutiao.io/k/71u3q9n) 
 - [【开发者头条】2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m) 
 - [【开发者头条】2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) 
 - [【开发者头条】2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -239,6 +239,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-想给女朋友做个网站，遇到技术问题真诚求建议！](https://www.v2ex.com/t/667238) 
+- [2020-04-29-三年求职,-南京、上海、杭州都考虑,-阿里和-SHEIN-勿点,-已经有流程在走](https://www.v2ex.com/t/667237) 
+- [2020-04-29-想买一个-macbook-pro-的充电器，有什么推荐的吗，原装太贵了](https://www.v2ex.com/t/667236) 
+- [2020-04-29-昨晚到现在-阿里云国际-无法续费-无法登入后台](https://www.v2ex.com/t/667235) 
+- [2020-04-29-Apple-Music（播放暂停）如何设置全局快捷键？](https://www.v2ex.com/t/667234) 
+- [2020-04-29-中文互联网内容质量是否在下降？如何设计量化指标衡量？](https://www.v2ex.com/t/667233) 
+- [2020-04-29-Java-如何获取文本文件的编码](https://www.v2ex.com/t/667232) 
+- [2020-04-29-红旗-S9](https://www.v2ex.com/t/667231) 
 - [2020-04-29-树莓派-4B-内存选-2G-还是-4G？](https://www.v2ex.com/t/667230) 
 - [2020-04-29-腾云宝-的快递取件短信，必须回复一下或者点链接才能解锁全文](https://www.v2ex.com/t/667228) 
 - [2020-04-29-终究还是被裁员了，完全没想到那么快，投递简历两天感到绝望和心累](https://www.v2ex.com/t/667226) 
@@ -1357,6 +1365,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc) 
+- [2020-04-29-2020-年有哪些副业可以做](https://toutiao.io/k/71u3q9n) 
 - [2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m) 
 - [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) 
 - [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) 

@@ -3367,6 +3367,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "没开学，没事干，搞了一个 Telegram 简体字翻译",
+        "link": "https://www.v2ex.com/t/667288",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "猎头内推职位",
+        "link": "https://www.v2ex.com/t/667285",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "iPhone11wifi 断流有办法解决吗",
+        "link": "https://www.v2ex.com/t/667284",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "Window 平台，开发客户端软件，大家一般用什么语言写界面呀？",
+        "link": "https://www.v2ex.com/t/667283",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "iPhone 6s 换 SE2 感受",
+        "link": "https://www.v2ex.com/t/667281",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "给爸妈这种老年人买安卓手机简直是折磨，自己没有受虐倾向是个正常人的话，请给父母选择 IOS",
+        "link": "https://www.v2ex.com/t/667280",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "go 语言对接 c 语言的问题",
+        "link": "https://www.v2ex.com/t/667279",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "请教：有没有比较好的配置文件生成器？",
+        "link": "https://www.v2ex.com/t/667278",
+        "date": "2020-04-29"
+      },
+      {
         "title": "公司不发工资怎么办",
         "link": "https://www.v2ex.com/t/667277",
         "date": "2020-04-29"
@@ -10373,6 +10413,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "条件型业务规则的抽象与实现——从Spring Profile得到的灵感 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-04-29"
+      },
       {
         "title": "10 分钟实现 Java 发送邮件功能 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

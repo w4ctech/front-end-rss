@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 14:30:21，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 15:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -829,26 +829,26 @@
 </summary>
 
 
-- [2020-04-29-公司不发工资怎么办](https://www.v2ex.com/t/667277) ![](assets/new.png)  
-- [2020-04-29-celery-中为啥程序失败了还是返回-task.state=success](https://www.v2ex.com/t/667276) ![](assets/new.png)  
-- [2020-04-29-这-mbp-用的我心态崩了，崩了崩了](https://www.v2ex.com/t/667274) ![](assets/new.png)  
-- [2020-04-29-test123](https://www.v2ex.com/t/667273) ![](assets/new.png)  
-- [2020-04-29-谷歌相册无法备份，如何解决呢？](https://www.v2ex.com/t/667272) ![](assets/new.png)  
-- [2020-04-29-用过苹果官方依旧换新的来评价下吧](https://www.v2ex.com/t/667271) ![](assets/new.png)  
-- [2020-04-29-Tim-for-IOS-真的恶心-我把邮件推送关了-还是能接到-垃圾-TX](https://www.v2ex.com/t/667270) ![](assets/new.png)  
-- [2020-04-29-突破思维的极限，超越-APP-的体验！我是小程序，今天，我要打十个！](https://www.v2ex.com/t/667269) ![](assets/new.png)  
-- [2020-04-29-上海北京-Farfetch-内推-2020.](https://www.v2ex.com/t/667267) ![](assets/new.png)  
-- [2020-04-29-那天看到一个名词，-java6-程序员](https://www.v2ex.com/t/667266) ![](assets/new.png)  
-- [2020-04-29-打造摸鱼新境界，-Thief-Book-今起改名为-Thief-准备发布新功能](https://www.v2ex.com/t/667265) ![](assets/new.png)  
-- [2020-04-29-微软-Sysinternals-Suite-v2020.04.28-发布](https://www.v2ex.com/t/667264) ![](assets/new.png)  
-- [2020-04-29-初中毕业-26-了，醒悟了，准备考个学历选择什么路线？](https://www.v2ex.com/t/667261) ![](assets/new.png)  
-- [2020-04-29-不懂求指点：🚀不能去-app-开屏广告么？](https://www.v2ex.com/t/667259) ![](assets/new.png)  
-- [2020-04-29-无底价出售-read.mobi-域名](https://www.v2ex.com/t/667258) ![](assets/new.png)  
-- [2020-04-29-360-企业安全招聘--PHP-研发工程师](https://www.v2ex.com/t/667256) ![](assets/new.png)  
-- [2020-04-29-人民日报：“6.5-亿网民月入不足-5000，意外吗-”-大家怎么看](https://www.v2ex.com/t/667255) ![](assets/new.png)  
-- [2020-04-29-有什么组件可以对单机的-springboot-项目做接口监控？](https://www.v2ex.com/t/667254) ![](assets/new.png)  
-- [2020-04-29-CF-104.18.18.204-出什么问题了](https://www.v2ex.com/t/667253) ![](assets/new.png)  
-- [2020-04-29-H.264-为了存储转-H.265-的码率问题](https://www.v2ex.com/t/667252) ![](assets/new.png)  
+- [2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288) ![](assets/new.png)  
+- [2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285) ![](assets/new.png)  
+- [2020-04-29-iPhone11wifi-断流有办法解决吗](https://www.v2ex.com/t/667284) ![](assets/new.png)  
+- [2020-04-29-Window-平台，开发客户端软件，大家一般用什么语言写界面呀？](https://www.v2ex.com/t/667283) ![](assets/new.png)  
+- [2020-04-29-iPhone-6s-换-SE2-感受](https://www.v2ex.com/t/667281) ![](assets/new.png)  
+- [2020-04-29-给爸妈这种老年人买安卓手机简直是折磨，自己没有受虐倾向是个正常人的话，请给父母选择-IOS](https://www.v2ex.com/t/667280) ![](assets/new.png)  
+- [2020-04-29-go-语言对接-c-语言的问题](https://www.v2ex.com/t/667279) ![](assets/new.png)  
+- [2020-04-29-请教：有没有比较好的配置文件生成器？](https://www.v2ex.com/t/667278) ![](assets/new.png)  
+- [2020-04-29-公司不发工资怎么办](https://www.v2ex.com/t/667277)  
+- [2020-04-29-celery-中为啥程序失败了还是返回-task.state=success](https://www.v2ex.com/t/667276)  
+- [2020-04-29-这-mbp-用的我心态崩了，崩了崩了](https://www.v2ex.com/t/667274)  
+- [2020-04-29-test123](https://www.v2ex.com/t/667273)  
+- [2020-04-29-谷歌相册无法备份，如何解决呢？](https://www.v2ex.com/t/667272)  
+- [2020-04-29-用过苹果官方依旧换新的来评价下吧](https://www.v2ex.com/t/667271)  
+- [2020-04-29-Tim-for-IOS-真的恶心-我把邮件推送关了-还是能接到-垃圾-TX](https://www.v2ex.com/t/667270)  
+- [2020-04-29-突破思维的极限，超越-APP-的体验！我是小程序，今天，我要打十个！](https://www.v2ex.com/t/667269)  
+- [2020-04-29-上海北京-Farfetch-内推-2020.](https://www.v2ex.com/t/667267)  
+- [2020-04-29-那天看到一个名词，-java6-程序员](https://www.v2ex.com/t/667266)  
+- [2020-04-29-打造摸鱼新境界，-Thief-Book-今起改名为-Thief-准备发布新功能](https://www.v2ex.com/t/667265)  
+- [2020-04-29-微软-Sysinternals-Suite-v2020.04.28-发布](https://www.v2ex.com/t/667264)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -860,6 +860,7 @@
 </summary>
 
 
+- [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -879,7 +880,6 @@
 - [2020-04-26-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13410&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZv1viUDEoE9uy_QXN6PDKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-20-张程序员不得不看的内涵动图...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13409&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhqaJAkjPURC7jm0EGnkwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13407&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy5kazWqWK69USNR_9WLCXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

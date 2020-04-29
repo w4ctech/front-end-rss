@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2020-04-29 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288) 
+- [2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285) 
+- [2020-04-29-iPhone11wifi-断流有办法解决吗](https://www.v2ex.com/t/667284) 
+- [2020-04-29-Window-平台，开发客户端软件，大家一般用什么语言写界面呀？](https://www.v2ex.com/t/667283) 
+- [2020-04-29-iPhone-6s-换-SE2-感受](https://www.v2ex.com/t/667281) 
+- [2020-04-29-给爸妈这种老年人买安卓手机简直是折磨，自己没有受虐倾向是个正常人的话，请给父母选择-IOS](https://www.v2ex.com/t/667280) 
+- [2020-04-29-go-语言对接-c-语言的问题](https://www.v2ex.com/t/667279) 
+- [2020-04-29-请教：有没有比较好的配置文件生成器？](https://www.v2ex.com/t/667278) 
 - [2020-04-29-公司不发工资怎么办](https://www.v2ex.com/t/667277) 
 - [2020-04-29-celery-中为啥程序失败了还是返回-task.state=success](https://www.v2ex.com/t/667276) 
 - [2020-04-29-这-mbp-用的我心态崩了，崩了崩了](https://www.v2ex.com/t/667274) 

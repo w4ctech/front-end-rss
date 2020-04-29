@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 08:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -822,7 +822,9 @@
 </summary>
 
 
-- [2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145) ![](assets/new.png)  
+- [2020-04-29-有-Linux-下同步到微云的方案么？](https://www.v2ex.com/t/667148) ![](assets/new.png)  
+- [2020-04-29-今天，-VS-Code-五岁了。](https://www.v2ex.com/t/667147) ![](assets/new.png)  
+- [2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145)  
 - [2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144)  
 - [2020-04-29-现在新办深圳电信游戏宽带还是全局-CN2-吗？](https://www.v2ex.com/t/667143)  
 - [2020-04-29-失业的第五个月，无尽的迷茫](https://www.v2ex.com/t/667142)  
@@ -840,8 +842,6 @@
 - [2020-04-29-关于帖子访问次数的问题](https://www.v2ex.com/t/667130)  
 - [2020-04-29-迫于在家办公，希望大家推荐下-速溶咖啡☕️-和-类似老干妈、下饭菜的酱](https://www.v2ex.com/t/667129)  
 - [2020-04-29-关于-spring-事务数据源的问题请教](https://www.v2ex.com/t/667128)  
-- [2020-04-29-什么样的文字图像能够抵抗-ocr-引擎识别和理解？](https://www.v2ex.com/t/667127)  
-- [2020-04-28-阿里云在哪可以领取优惠券？](https://www.v2ex.com/t/667125)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -884,7 +884,16 @@
 </summary>
 
 
-- [2020-04-29-推荐-面试-Google，我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev) ![](assets/new.png)  
+- [2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w) ![](assets/new.png)  
+- [2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q) ![](assets/new.png)  
+- [2020-04-29-头条/支付宝/猿辅导面试经历](https://toutiao.io/k/b9nig0c) ![](assets/new.png)  
+- [2020-04-29-每天都在用，但你知道-Tomcat-的线程池有多努力吗？](https://toutiao.io/k/0mzq84d) ![](assets/new.png)  
+- [2020-04-29-教你如何写初/高级技术岗位简历](https://toutiao.io/k/p8x3xp1) ![](assets/new.png)  
+- [2020-04-29-译-十分钟快速学习-Redis](https://toutiao.io/k/4w6suj5) ![](assets/new.png)  
+- [2020-04-29-海外开发者账号上架总结](https://toutiao.io/k/613e62d) ![](assets/new.png)  
+- [2020-04-29-不得不聊区块链模型的爱恨情仇](https://toutiao.io/k/djhlcv2) ![](assets/new.png)  
+- [2020-04-29-Openstack-之-RPC-详解](https://toutiao.io/k/ob7yii6) ![](assets/new.png)  
+- [2020-04-29-推荐-面试-Google，我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev)  
 - [2020-04-29-有了这套题解，再也不怕刷-LeetCode-了](https://toutiao.io/k/cgm1s49)  
 - [2020-04-28-你未必真的了解线程安全，别骗自己，来看下怎么实现线程安全](https://toutiao.io/k/fv357t8)  
 - [2020-04-28-YOLOv4：43-mAP/83-FPS，虽迟但到，大型调优现场](https://toutiao.io/k/oa5ntzs)  
@@ -895,15 +904,6 @@
 - [2020-04-28-又抓了一个导致频繁-GC-的鬼：数组动态扩容](https://toutiao.io/k/s2o2fx9)  
 - [2020-04-28-API-加密框架-Monkey-Api-Encrypt-发布-1.2-版本](https://toutiao.io/k/dzl2ahw)  
 - [2020-04-28-小心！RPC-的超时设置，一不小心就是线上事故](https://toutiao.io/k/al5joed)  
-- [2020-04-28-Windows-AD-报错解决：UAC-File-Virtualization-服务启动失败，此驱动程序被阻止加载](https://toutiao.io/k/kt8hqjr)  
-- [2020-04-28-在-Finder-的右键菜单中添加-“Open-in-VSCode”](https://toutiao.io/k/xwk7x39)  
-- [2020-04-28-使用-Go-语言实现一个异步任务框架](https://toutiao.io/k/3o38497)  
-- [2020-04-28-github-webhook-工具实现-github-自动构建](https://toutiao.io/k/fya30rg)  
-- [2020-04-28-BIO、NIO、AIO-总结](https://toutiao.io/k/9wkuck7)  
-- [2020-04-28-美团技术团队的书单](https://toutiao.io/k/kwflgvj)  
-- [2020-04-28-Go-语言的-GPM-调度器是什么？](https://toutiao.io/k/cwbx2q1)  
-- [2020-04-28-Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo)  
-- [2020-04-28-漫谈数据治理（一）：计算与存储压力](https://toutiao.io/k/s7mfrrs)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

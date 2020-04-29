@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -235,6 +235,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-有-Linux-下同步到微云的方案么？](https://www.v2ex.com/t/667148) 
+- [2020-04-29-今天，-VS-Code-五岁了。](https://www.v2ex.com/t/667147) 
 - [2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145) 
 - [2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144) 
 - [2020-04-29-失业的第五个月，无尽的迷茫](https://www.v2ex.com/t/667142) 
@@ -1297,6 +1299,14 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w) 
+- [2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q) 
+- [2020-04-29-每天都在用，但你知道-Tomcat-的线程池有多努力吗？](https://toutiao.io/k/0mzq84d) 
+- [2020-04-29-教你如何写初/高级技术岗位简历](https://toutiao.io/k/p8x3xp1) 
+- [2020-04-29-译-十分钟快速学习-Redis](https://toutiao.io/k/4w6suj5) 
+- [2020-04-29-海外开发者账号上架总结](https://toutiao.io/k/613e62d) 
+- [2020-04-29-不得不聊区块链模型的爱恨情仇](https://toutiao.io/k/djhlcv2) 
+- [2020-04-29-Openstack-之-RPC-详解](https://toutiao.io/k/ob7yii6) 
 - [2020-04-29-有了这套题解，再也不怕刷-LeetCode-了](https://toutiao.io/k/cgm1s49) 
 - [2020-04-28-YOLOv4：43-mAP/83-FPS，虽迟但到，大型调优现场](https://toutiao.io/k/oa5ntzs) 
 - [2020-04-28-看了这么多数据中台，今天发篇接地气的](https://toutiao.io/k/li1sxnv) 

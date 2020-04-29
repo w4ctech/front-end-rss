@@ -3317,6 +3317,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有 Linux 下同步到微云的方案么？",
+        "link": "https://www.v2ex.com/t/667148",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "今天， VS Code 五岁了。",
+        "link": "https://www.v2ex.com/t/667147",
+        "date": "2020-04-29"
+      },
+      {
         "title": "在别的地方写了一些海外远程工作的经验，也来这儿分享一下",
         "link": "https://www.v2ex.com/t/667145",
         "date": "2020-04-29"
@@ -10025,6 +10035,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了",
+        "link": "https://toutiao.io/k/zh3mw4w",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "漫谈分布式系统（十）：初探分布式事务",
+        "link": "https://toutiao.io/k/ac90g7q",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "头条/支付宝/猿辅导面试经历",
+        "link": "https://toutiao.io/k/b9nig0c",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "每天都在用，但你知道 Tomcat 的线程池有多努力吗？",
+        "link": "https://toutiao.io/k/0mzq84d",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "教你如何写初/高级技术岗位简历",
+        "link": "https://toutiao.io/k/p8x3xp1",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[译] 十分钟快速学习 Redis",
+        "link": "https://toutiao.io/k/4w6suj5",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "海外开发者账号上架总结",
+        "link": "https://toutiao.io/k/613e62d",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "不得不聊区块链模型的爱恨情仇",
+        "link": "https://toutiao.io/k/djhlcv2",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "Openstack 之 RPC 详解",
+        "link": "https://toutiao.io/k/ob7yii6",
+        "date": "2020-04-29"
+      },
       {
         "title": "[推荐] 面试 Google，我失败了（Google 面经分享）",
         "link": "https://toutiao.io/k/9o0qwev",

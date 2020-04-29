@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 12:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 13:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -96,8 +96,8 @@
 </summary>
 
 
-- [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33) ![](assets/new.png)  
-- [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298) ![](assets/new.png)  
+- [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)  
+- [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298)  
 - [2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)  
 - [2020-04-28-作为毕业生的我在钉钉这一年的成长之路](https://www.ershicimi.com/p/abbf02a53068ab18076e1c4b05db8ef1)  
 - [2020-04-27-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/93c073e7a4ba809c092ea97f6515c38c)  
@@ -828,26 +828,26 @@
 </summary>
 
 
-- [2020-04-29-想给女朋友做个网站，遇到技术问题真诚求建议！](https://www.v2ex.com/t/667238) ![](assets/new.png)  
-- [2020-04-29-三年求职,-南京、上海、杭州都考虑,-阿里和-SHEIN-勿点,-已经有流程在走](https://www.v2ex.com/t/667237) ![](assets/new.png)  
-- [2020-04-29-想买一个-macbook-pro-的充电器，有什么推荐的吗，原装太贵了](https://www.v2ex.com/t/667236) ![](assets/new.png)  
-- [2020-04-29-昨晚到现在-阿里云国际-无法续费-无法登入后台](https://www.v2ex.com/t/667235) ![](assets/new.png)  
-- [2020-04-29-Apple-Music（播放暂停）如何设置全局快捷键？](https://www.v2ex.com/t/667234) ![](assets/new.png)  
-- [2020-04-29-中文互联网内容质量是否在下降？如何设计量化指标衡量？](https://www.v2ex.com/t/667233) ![](assets/new.png)  
-- [2020-04-29-Java-如何获取文本文件的编码](https://www.v2ex.com/t/667232) ![](assets/new.png)  
-- [2020-04-29-红旗-S9](https://www.v2ex.com/t/667231) ![](assets/new.png)  
+- [2020-04-29-两年后端一年-golang-求职](https://www.v2ex.com/t/667247) ![](assets/new.png)  
+- [2020-04-29-为了做-flutter-拿到了比上份工作少-5k-的-offer](https://www.v2ex.com/t/667246) ![](assets/new.png)  
+- [2020-04-29-曝光一家青岛公司](https://www.v2ex.com/t/667245) ![](assets/new.png)  
+- [2020-04-29-现在你还有用鼠标垫么？](https://www.v2ex.com/t/667244) ![](assets/new.png)  
+- [2020-04-29-现在市面上除了百度网盘以外，还有哪些良心网盘值得推荐使用？一张图告诉你百度网盘与其他网盘的区别！](https://www.v2ex.com/t/667242) ![](assets/new.png)  
+- [2020-04-29-关于最近不修-996-福报，工作闲暇之余做一个小-up，分享一些有趣好玩的视频](https://www.v2ex.com/t/667241) ![](assets/new.png)  
+- [2020-04-29-一个理财计算器---小程序](https://www.v2ex.com/t/667240) ![](assets/new.png)  
+- [2020-04-29-想给女朋友做个网站，遇到技术问题真诚求建议！](https://www.v2ex.com/t/667238)  
+- [2020-04-29-三年求职,-南京、上海、杭州都考虑,-阿里和-SHEIN-勿点,-已经有流程在走](https://www.v2ex.com/t/667237)  
+- [2020-04-29-想买一个-macbook-pro-的充电器，有什么推荐的吗，原装太贵了](https://www.v2ex.com/t/667236)  
+- [2020-04-29-昨晚到现在-阿里云国际-无法续费-无法登入后台](https://www.v2ex.com/t/667235)  
+- [2020-04-29-Apple-Music（播放暂停）如何设置全局快捷键？](https://www.v2ex.com/t/667234)  
+- [2020-04-29-中文互联网内容质量是否在下降？如何设计量化指标衡量？](https://www.v2ex.com/t/667233)  
+- [2020-04-29-Java-如何获取文本文件的编码](https://www.v2ex.com/t/667232)  
+- [2020-04-29-红旗-S9](https://www.v2ex.com/t/667231)  
 - [2020-04-29-树莓派-4B-内存选-2G-还是-4G？](https://www.v2ex.com/t/667230)  
 - [2020-04-29-上海-Farfetch-内推-2020](https://www.v2ex.com/t/667229)  
 - [2020-04-29-腾云宝-的快递取件短信，必须回复一下或者点链接才能解锁全文](https://www.v2ex.com/t/667228)  
 - [2020-04-29-终究还是被裁员了，完全没想到那么快，投递简历两天感到绝望和心累](https://www.v2ex.com/t/667226)  
 - [2020-04-29-如何不被互联网以及多方面的“贩卖焦虑&压力”所影响？](https://www.v2ex.com/t/667225)  
-- [2020-04-29-我们应该为了行动而学习](https://www.v2ex.com/t/667224)  
-- [2020-04-29-求推荐-USB-C-网卡](https://www.v2ex.com/t/667223)  
-- [2020-04-29-websocket-的几个问题](https://www.v2ex.com/t/667222)  
-- [2020-04-29-请问调用谷歌翻译-api-时，参数-client=gtx-中的-gtx-是什么意思？](https://www.v2ex.com/t/667221)  
-- [2020-04-29-从-Windows-10-下-IE-11-开启-Flash-卡死说起](https://www.v2ex.com/t/667219)  
-- [2020-04-29-各位大佬，你们觉得消息队列以后的发展方向会是怎么走？](https://www.v2ex.com/t/667218)  
-- [2020-04-29-上海Farfetch-内推](https://www.v2ex.com/t/667217)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -890,10 +890,10 @@
 </summary>
 
 
-- [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a) ![](assets/new.png)  
-- [2020-04-29-音视频基础之多媒体封装格式](https://toutiao.io/k/c6okpg9) ![](assets/new.png)  
-- [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc) ![](assets/new.png)  
-- [2020-04-29-2020-年有哪些副业可以做](https://toutiao.io/k/71u3q9n) ![](assets/new.png)  
+- [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a)  
+- [2020-04-29-音视频基础之多媒体封装格式](https://toutiao.io/k/c6okpg9)  
+- [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc)  
+- [2020-04-29-2020-年有哪些副业可以做](https://toutiao.io/k/71u3q9n)  
 - [2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m)  
 - [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba)  
 - [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4)  

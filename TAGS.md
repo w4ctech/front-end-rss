@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-29 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -495,8 +495,8 @@
 - [【InfoQ】浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
+- [【V2EX】Chrome-居然会把一个域名及所有子域名全部拉黑？](https://www.v2ex.com/t/667301)
 - [【V2EX】打造摸鱼新境界，-Thief-Book-今起改名为-Thief-准备发布新功能](https://www.v2ex.com/t/667265)
-- [【V2EX】360-企业安全招聘--PHP-研发工程师](https://www.v2ex.com/t/667256)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

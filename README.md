@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 16:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 17:30:20，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -830,26 +830,26 @@
 </summary>
 
 
-- [2020-04-29-分享-程序员转型产品经理的读书笔记](https://www.v2ex.com/t/667312) ![](assets/new.png)  
-- [2020-04-29-关于连接超时日志](https://www.v2ex.com/t/667311) ![](assets/new.png)  
-- [2020-04-29-可能比较神奇的外包/外援，需要注意什么？](https://www.v2ex.com/t/667309) ![](assets/new.png)  
-- [2020-04-29-iptables-中的-output-流量走向是什么？](https://www.v2ex.com/t/667308) ![](assets/new.png)  
-- [2020-04-29-从程序员转型产品经理的一些读书笔记](https://www.v2ex.com/t/667307)  
-- [2020-04-29-进大厂有点难，现在公司又很憋屈，在想要不要跳槽去小公司](https://www.v2ex.com/t/667306)  
-- [2020-04-29-后端，大型的分布式系统下有啥好的依赖升级管理技术方案么？](https://www.v2ex.com/t/667305)  
-- [2020-04-29-求各位老哥推荐公司椅子用的坐垫](https://www.v2ex.com/t/667303)  
-- [2020-04-29-Chrome-居然会把一个域名及所有子域名全部拉黑？](https://www.v2ex.com/t/667301)  
-- [2020-04-29-如何清理机键时不会破坏背灯](https://www.v2ex.com/t/667298)  
-- [2020-04-29-字节跳动-飞书-杭州&武汉最新岗位来啦！](https://www.v2ex.com/t/667297)  
-- [2020-04-29-深圳电信操作让我目瞪口呆](https://www.v2ex.com/t/667296)  
-- [2020-04-29-失业半年后.我开始思考,当初转行的决定是不是错的.](https://www.v2ex.com/t/667294)  
-- [2020-04-29-mbp2018-15-寸-这个二手多少价格值得买？](https://www.v2ex.com/t/667293)  
-- [2020-04-29-剧版《三体》要开机了，看演员还行啊，](https://www.v2ex.com/t/667292)  
-- [2020-04-29-python3--m-venv-/path/venv-如何选择-Python3.3-或-Python3.7-版本号呢？](https://www.v2ex.com/t/667291)  
-- [2020-04-29-b-站倍速自定义脚本更新了](https://www.v2ex.com/t/667290)  
-- [2020-04-29-大家有用过-mac-微信小助手吗？感觉还蛮方便的](https://www.v2ex.com/t/667289)  
-- [2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288)  
-- [2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285)  
+- [2020-04-29-零基础转-CS-岗从这儿开始！《算法基础班》帮你一站式解决入门问题](https://www.v2ex.com/t/667346) ![](assets/new.png)  
+- [2020-04-29-看到这么多人求-JAY-的歌曲，我坐不住了](https://www.v2ex.com/t/667345) ![](assets/new.png)  
+- [2020-04-29-联想的电容触控笔可以用在-Surface-上吗？](https://www.v2ex.com/t/667344) ![](assets/new.png)  
+- [2020-04-29-十本非常值得一读的数学书籍](https://www.v2ex.com/t/667343) ![](assets/new.png)  
+- [2020-04-29-没有人因兴趣做个-ai-翻译么？](https://www.v2ex.com/t/667342) ![](assets/new.png)  
+- [2020-04-29-请教下合同到期不续签能否拿到离职补偿](https://www.v2ex.com/t/667341) ![](assets/new.png)  
+- [2020-04-29-mbp-外接显示器时合上屏幕-时间长了-对屏幕有影响吗-老哥们-我之前-一直外接显示器-怕长时间盒盖用-对屏幕有影响-就一直开着屏幕-吧亮度调到最暗，但是温度比较...](https://www.v2ex.com/t/667340) ![](assets/new.png)  
+- [2020-04-29-pv-和-qps，-tps-之间究竟什么关系？](https://www.v2ex.com/t/667339) ![](assets/new.png)  
+- [2020-04-29-游戏开发工作半年被裁，没经验，没技术，求过来人指点迷津](https://www.v2ex.com/t/667338) ![](assets/new.png)  
+- [2020-04-29-mysql-多语言搜索的一个困惑，麻烦兄台给点思路，头大了](https://www.v2ex.com/t/667337) ![](assets/new.png)  
+- [2020-04-29-goland-打断点错误](https://www.v2ex.com/t/667335) ![](assets/new.png)  
+- [2020-04-29-焦虑感。](https://www.v2ex.com/t/667334) ![](assets/new.png)  
+- [2020-04-29-请问一下，苹果-Safari-导出-csv/xlsx-文件中文名是乱码要怎么解决？](https://www.v2ex.com/t/667332) ![](assets/new.png)  
+- [2020-04-29-低风险地区回家后回京可以不用隔离了](https://www.v2ex.com/t/667331) ![](assets/new.png)  
+- [2020-04-29-关于外地人在遇到上门情况下，应该怎么处理](https://www.v2ex.com/t/667330) ![](assets/new.png)  
+- [2020-04-29-深圳地铁银联卡-62-折活动结束了吗？](https://www.v2ex.com/t/667329) ![](assets/new.png)  
+- [2020-04-29-腾讯社招-腾讯-IMWEB-团队招聘前端、高级前端工程师！快速安排面试！](https://www.v2ex.com/t/667328) ![](assets/new.png)  
+- [2020-04-29-傻屌-APP-盘它！](https://www.v2ex.com/t/667327) ![](assets/new.png)  
+- [2020-04-29-老板问：你要降薪还是自己走？](https://www.v2ex.com/t/667326) ![](assets/new.png)  
+- [2020-04-29-macOS-10.15.4-Wi-Fi-疯狂掉线](https://www.v2ex.com/t/667325) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

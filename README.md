@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 19:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 20:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -830,9 +830,12 @@
 </summary>
 
 
-- [2020-04-29-创业公司要不要去？？](https://www.v2ex.com/t/667381) ![](assets/new.png)  
-- [2020-04-29-被人骂了，怎么破？-受不了一点被骂，有点玻璃心](https://www.v2ex.com/t/667380) ![](assets/new.png)  
-- [2020-04-29-使用-Windows-Terminal-替代-Xshell](https://www.v2ex.com/t/667379) ![](assets/new.png)  
+- [2020-04-29-电信是否存在专属的不堵的“国内段”供高端客户使用？](https://www.v2ex.com/t/667387) ![](assets/new.png)  
+- [2020-04-29-Windows-安装软件到系统盘是不是都要管理员权限才能运行？为什么？](https://www.v2ex.com/t/667384) ![](assets/new.png)  
+- [2020-04-29-国外连国内-nas-传输数据会不会被屏蔽](https://www.v2ex.com/t/667383) ![](assets/new.png)  
+- [2020-04-29-创业公司要不要去？？](https://www.v2ex.com/t/667381)  
+- [2020-04-29-被人骂了，怎么破？-受不了一点被骂，有点玻璃心](https://www.v2ex.com/t/667380)  
+- [2020-04-29-使用-Windows-Terminal-替代-Xshell](https://www.v2ex.com/t/667379)  
 - [2020-04-29-谁买这本书了，能不能红包分享下](https://www.v2ex.com/t/667375)  
 - [2020-04-29-招一个工作-1-3-年的后端，技术栈-golang，有意邮箱-bing.he01@liulishuo.com](https://www.v2ex.com/t/667373)  
 - [2020-04-29-问个图片验证问题.](https://www.v2ex.com/t/667371)  
@@ -847,9 +850,6 @@
 - [2020-04-29-在南京骑小电驴，载人被交警拦下来开了罚单！](https://www.v2ex.com/t/667360)  
 - [2020-04-29-无意中发现，进入-V2EX-的自己的主页，浏览器图标会变成自己头像，咋做到的呢？](https://www.v2ex.com/t/667359)  
 - [2020-04-29-群辉现在有办法把硬盘里面存的一些照片和-4K-视频上传到-Google-Photos-上吗？](https://www.v2ex.com/t/667358)  
-- [2020-04-29-程序员算是掌握生产资料了么？](https://www.v2ex.com/t/667357)  
-- [2020-04-29-手机-QQ-通话时如何录音呢？](https://www.v2ex.com/t/667356)  
-- [2020-04-29-淘宝把取消订单按钮放的很隐蔽,产品上有什么优点吗?](https://www.v2ex.com/t/667355)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

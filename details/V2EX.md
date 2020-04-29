@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-04-29 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-29-电信是否存在专属的不堵的“国内段”供高端客户使用？](https://www.v2ex.com/t/667387) 
+- [2020-04-29-Windows-安装软件到系统盘是不是都要管理员权限才能运行？为什么？](https://www.v2ex.com/t/667384) 
+- [2020-04-29-国外连国内-nas-传输数据会不会被屏蔽](https://www.v2ex.com/t/667383) 
 - [2020-04-29-创业公司要不要去？？](https://www.v2ex.com/t/667381) 
 - [2020-04-29-被人骂了，怎么破？-受不了一点被骂，有点玻璃心](https://www.v2ex.com/t/667380) 
 - [2020-04-29-使用-Windows-Terminal-替代-Xshell](https://www.v2ex.com/t/667379) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 15:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 15:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,8 +28,8 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -294,6 +294,9 @@
 </summary>
 
 
+- [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065) ![](assets/new.png)  
+- [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/56ca1b7d3e67469c3bf65670bcd4ee5c) ![](assets/new.png)  
+- [2020-04-29-我们应该如何度过-2020-的另外-2/3-？-|-极客大学](https://www.ershicimi.com/p/ba6e134e9528b5c9275088c5e332b2db) ![](assets/new.png)  
 - [2020-04-28-极客时间前端课免费领！对标阿里P5-P8前端技能设计课程体系，快速进阶-|-极客时间](https://www.ershicimi.com/p/c0af042239ef195cec94504c78f9ac86)  
 - [2020-04-28-React可用于哪些Web开发场景？具体怎么做？](https://www.ershicimi.com/p/c10d275c7b4ee28f382f68c465a7eaa0)  
 - [2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4)  
@@ -311,9 +314,6 @@
 - [2020-04-21-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)  
 - [2020-04-21-ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636)  
 - [2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)  
-- [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)  
-- [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2)  
-- [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -325,6 +325,7 @@
 </summary>
 
 
+- [2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7) ![](assets/new.png)  
 - [2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305)  
 - [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0)  
 - [2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c)  
@@ -829,26 +830,26 @@
 </summary>
 
 
-- [2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288) ![](assets/new.png)  
-- [2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285) ![](assets/new.png)  
-- [2020-04-29-iPhone11wifi-断流有办法解决吗](https://www.v2ex.com/t/667284) ![](assets/new.png)  
-- [2020-04-29-Window-平台，开发客户端软件，大家一般用什么语言写界面呀？](https://www.v2ex.com/t/667283) ![](assets/new.png)  
-- [2020-04-29-iPhone-6s-换-SE2-感受](https://www.v2ex.com/t/667281) ![](assets/new.png)  
-- [2020-04-29-给爸妈这种老年人买安卓手机简直是折磨，自己没有受虐倾向是个正常人的话，请给父母选择-IOS](https://www.v2ex.com/t/667280) ![](assets/new.png)  
-- [2020-04-29-go-语言对接-c-语言的问题](https://www.v2ex.com/t/667279) ![](assets/new.png)  
-- [2020-04-29-请教：有没有比较好的配置文件生成器？](https://www.v2ex.com/t/667278) ![](assets/new.png)  
+- [2020-04-29-失业半年后.我开始思考,当初转行的决定是不是错的.](https://www.v2ex.com/t/667294) ![](assets/new.png)  
+- [2020-04-29-mbp2018-15-寸-这个二手多少价格值得买？](https://www.v2ex.com/t/667293) ![](assets/new.png)  
+- [2020-04-29-剧版《三体》要开机了，看演员还行啊，](https://www.v2ex.com/t/667292) ![](assets/new.png)  
+- [2020-04-29-python3--m-venv-/path/venv-如何选择-Python3.3-或-Python3.7-版本号呢？](https://www.v2ex.com/t/667291) ![](assets/new.png)  
+- [2020-04-29-b-站倍速自定义脚本更新了](https://www.v2ex.com/t/667290) ![](assets/new.png)  
+- [2020-04-29-大家有用过-mac-微信小助手吗？感觉还蛮方便的](https://www.v2ex.com/t/667289) ![](assets/new.png)  
+- [2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288)  
+- [2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285)  
+- [2020-04-29-iPhone11wifi-断流有办法解决吗](https://www.v2ex.com/t/667284)  
+- [2020-04-29-Window-平台，开发客户端软件，大家一般用什么语言写界面呀？](https://www.v2ex.com/t/667283)  
+- [2020-04-29-iPhone-6s-换-SE2-感受](https://www.v2ex.com/t/667281)  
+- [2020-04-29-给爸妈这种老年人买安卓手机简直是折磨，自己没有受虐倾向是个正常人的话，请给父母选择-IOS](https://www.v2ex.com/t/667280)  
+- [2020-04-29-go-语言对接-c-语言的问题](https://www.v2ex.com/t/667279)  
+- [2020-04-29-请教：有没有比较好的配置文件生成器？](https://www.v2ex.com/t/667278)  
 - [2020-04-29-公司不发工资怎么办](https://www.v2ex.com/t/667277)  
 - [2020-04-29-celery-中为啥程序失败了还是返回-task.state=success](https://www.v2ex.com/t/667276)  
 - [2020-04-29-这-mbp-用的我心态崩了，崩了崩了](https://www.v2ex.com/t/667274)  
 - [2020-04-29-test123](https://www.v2ex.com/t/667273)  
 - [2020-04-29-谷歌相册无法备份，如何解决呢？](https://www.v2ex.com/t/667272)  
 - [2020-04-29-用过苹果官方依旧换新的来评价下吧](https://www.v2ex.com/t/667271)  
-- [2020-04-29-Tim-for-IOS-真的恶心-我把邮件推送关了-还是能接到-垃圾-TX](https://www.v2ex.com/t/667270)  
-- [2020-04-29-突破思维的极限，超越-APP-的体验！我是小程序，今天，我要打十个！](https://www.v2ex.com/t/667269)  
-- [2020-04-29-上海北京-Farfetch-内推-2020.](https://www.v2ex.com/t/667267)  
-- [2020-04-29-那天看到一个名词，-java6-程序员](https://www.v2ex.com/t/667266)  
-- [2020-04-29-打造摸鱼新境界，-Thief-Book-今起改名为-Thief-准备发布新功能](https://www.v2ex.com/t/667265)  
-- [2020-04-29-微软-Sysinternals-Suite-v2020.04.28-发布](https://www.v2ex.com/t/667264)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -860,7 +861,7 @@
 </summary>
 
 
-- [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

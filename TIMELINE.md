@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -210,6 +210,9 @@
 - [【前端大学】2020-04-21-CSS-渲染原理以及优化策略](https://www.ershicimi.com/p/bb03e8c4edfa3fb00616f7b93a04d15b) 
 - [【前端大学】2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ae52fabfb7b18e0c2e6a2e155c1fba64) 
 - [【前端大学】2020-04-20-前端应该会的23个linux常用命令](https://www.ershicimi.com/p/17de0a726575ffa60fa77e7b01cbee3e) 
+- [【前端之巅】2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065) 
+- [【前端之巅】2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/56ca1b7d3e67469c3bf65670bcd4ee5c) 
+- [【前端之巅】2020-04-29-我们应该如何度过-2020-的另外-2/3-？-|-极客大学](https://www.ershicimi.com/p/ba6e134e9528b5c9275088c5e332b2db) 
 - [【前端之巅】2020-04-28-极客时间前端课免费领！对标阿里P5-P8前端技能设计课程体系，快速进阶-|-极客时间](https://www.ershicimi.com/p/c0af042239ef195cec94504c78f9ac86) 
 - [【前端之巅】2020-04-28-React可用于哪些Web开发场景？具体怎么做？](https://www.ershicimi.com/p/c10d275c7b4ee28f382f68c465a7eaa0) 
 - [【前端之巅】2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4) 
@@ -231,6 +234,7 @@
 - [【前端之巅】2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
 - [【前端之巅】2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
 - [【前端之巅】2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) 
+- [【前端迷】2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7) 
 - [【前端迷】2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305) 
 - [【前端迷】2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0) 
 - [【前端迷】2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c) 
@@ -507,6 +511,12 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-失业半年后.我开始思考,当初转行的决定是不是错的.](https://www.v2ex.com/t/667294) 
+- [【V2EX】2020-04-29-mbp2018-15-寸-这个二手多少价格值得买？](https://www.v2ex.com/t/667293) 
+- [【V2EX】2020-04-29-剧版《三体》要开机了，看演员还行啊，](https://www.v2ex.com/t/667292) 
+- [【V2EX】2020-04-29-python3--m-venv-/path/venv-如何选择-Python3.3-或-Python3.7-版本号呢？](https://www.v2ex.com/t/667291) 
+- [【V2EX】2020-04-29-b-站倍速自定义脚本更新了](https://www.v2ex.com/t/667290) 
+- [【V2EX】2020-04-29-大家有用过-mac-微信小助手吗？感觉还蛮方便的](https://www.v2ex.com/t/667289) 
 - [【V2EX】2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288) 
 - [【V2EX】2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285) 
 - [【V2EX】2020-04-29-iPhone11wifi-断流有办法解决吗](https://www.v2ex.com/t/667284) 

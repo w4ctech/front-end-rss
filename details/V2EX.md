@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-04-29 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-29-失业半年后.我开始思考,当初转行的决定是不是错的.](https://www.v2ex.com/t/667294) 
+- [2020-04-29-mbp2018-15-寸-这个二手多少价格值得买？](https://www.v2ex.com/t/667293) 
+- [2020-04-29-剧版《三体》要开机了，看演员还行啊，](https://www.v2ex.com/t/667292) 
+- [2020-04-29-python3--m-venv-/path/venv-如何选择-Python3.3-或-Python3.7-版本号呢？](https://www.v2ex.com/t/667291) 
+- [2020-04-29-b-站倍速自定义脚本更新了](https://www.v2ex.com/t/667290) 
+- [2020-04-29-大家有用过-mac-微信小助手吗？感觉还蛮方便的](https://www.v2ex.com/t/667289) 
 - [2020-04-29-没开学，没事干，搞了一个-Telegram-简体字翻译](https://www.v2ex.com/t/667288) 
 - [2020-04-29-猎头内推职位](https://www.v2ex.com/t/667285) 
 - [2020-04-29-iPhone11wifi-断流有办法解决吗](https://www.v2ex.com/t/667284) 

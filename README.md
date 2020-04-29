@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 11:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 11:30:21，:rocket: 更新条数: +32， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -608,9 +608,9 @@
 </summary>
 
 
-- [2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0) ![](assets/new.png)  
-- [2020-04-29-架构篇：什么才是真正的架构设计？](https://www.ershicimi.com/p/ea4477b05474129442282f8ef7680b8b) ![](assets/new.png)  
-- [2020-04-29-JAVA-线上故障排查完整套路！牛掰！](https://www.ershicimi.com/p/21e2f3c3c762888d5944cec421e33a49) ![](assets/new.png)  
+- [2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0)  
+- [2020-04-29-架构篇：什么才是真正的架构设计？](https://www.ershicimi.com/p/ea4477b05474129442282f8ef7680b8b)  
+- [2020-04-29-JAVA-线上故障排查完整套路！牛掰！](https://www.ershicimi.com/p/21e2f3c3c762888d5944cec421e33a49)  
 - [2020-04-28-重磅！又一个自主研发的国产操作系统要出现了？传中科红旗正研发新一代Linux](https://www.ershicimi.com/p/3067d7b85a777794bb9cd58ca9cc5301)  
 - [2020-04-28-这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3)  
 - [2020-04-28-IntelliJ-IDEA-2020.1-首个稳定版重磅发布！](https://www.ershicimi.com/p/cbda1c7f93f8491c872a57a0af4fd3a6)  
@@ -826,26 +826,26 @@
 </summary>
 
 
-- [2020-04-29-QQ-邮箱之前有个关联账号的功能被移除了吗？](https://www.v2ex.com/t/667180)  
-- [2020-04-29-库存扣减，余额扣减，应该使用乐观锁的方式吗？](https://www.v2ex.com/t/667178)  
-- [2020-04-29-iPhone-11-待机一段时间后，无法通过-wifi-访问，附上拓扑图，求分析](https://www.v2ex.com/t/667176)  
-- [2020-04-29-除了手机厂商的云服务，还有哪家云服务可以用来备份手机相册？](https://www.v2ex.com/t/667174)  
-- [2020-04-29-有人用雷电-2-外接显卡坞的吗？我这个速度有点问题，但是我不知道是哪里出现问题](https://www.v2ex.com/t/667172)  
-- [2020-04-29-迫于没有独立节点。公主焊接！-PCR！休闲公会招人！《走出非洲》](https://www.v2ex.com/t/667171)  
-- [2020-04-29-一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170)  
-- [2020-04-29-mbp-16-寸-32-的内存-硬盘选-1t-还是-512](https://www.v2ex.com/t/667169)  
-- [2020-04-29-问个-Python-代码的小问题，困扰了半天。不会解。](https://www.v2ex.com/t/667168)  
-- [2020-04-29-MIUI12-出了后，感觉-Android-用户好惨呀旺柴](https://www.v2ex.com/t/667167)  
-- [2020-04-29-Ubuntu-频繁断网，有人遇到过吗？](https://www.v2ex.com/t/667166)  
-- [2020-04-29-遇到这种情况（人），你们怎么处理？？](https://www.v2ex.com/t/667165)  
-- [2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164)  
-- [2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163)  
-- [2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161)  
-- [2020-04-29-如何实现-A-容器内使用-B-容器的命令呢?](https://www.v2ex.com/t/667160)  
-- [2020-04-29-2020-年，现在-reactjs-还是-redux-+-redux-saga-那一套么？](https://www.v2ex.com/t/667159)  
-- [2020-04-29-Python-是哪种类型语言](https://www.v2ex.com/t/667158)  
-- [2020-04-29-完了，安装-deepin-v20-后，发现没法再进入-Win10-了。。。](https://www.v2ex.com/t/667156)  
-- [2020-04-29-阿里的电话邀请面试都是-KPI-工程么？](https://www.v2ex.com/t/667155)  
+- [2020-04-29-各位大佬，你们觉得消息队列以后的发展方向会是怎么走？](https://www.v2ex.com/t/667218) ![](assets/new.png)  
+- [2020-04-29-上海Farfetch-内推](https://www.v2ex.com/t/667217) ![](assets/new.png)  
+- [2020-04-29-被公司恶心惨了,难道公司搬家都是不事先投票调查的?](https://www.v2ex.com/t/667216) ![](assets/new.png)  
+- [2020-04-29-求助：-Mac-下打开软件老是要重新下载字体怎么破？](https://www.v2ex.com/t/667215) ![](assets/new.png)  
+- [2020-04-29-有人用过黑阈吗？怎么样？](https://www.v2ex.com/t/667214) ![](assets/new.png)  
+- [2020-04-29-搞了个-Spring、Spark、Flink-源码阅读群](https://www.v2ex.com/t/667213) ![](assets/new.png)  
+- [2020-04-29-芒果-TV-13-个月-VIP-只需-79-元](https://www.v2ex.com/t/667212) ![](assets/new.png)  
+- [2020-04-29-对未知的骚扰电话，大家有比较好的反击手段吗](https://www.v2ex.com/t/667211) ![](assets/new.png)  
+- [2020-04-29-pymssql-连接-sql-server-express](https://www.v2ex.com/t/667210) ![](assets/new.png)  
+- [2020-04-29-最近都在讨论-MIUI12，突然很好奇，小米系-APP-在其他手机上的表现怎么样？](https://www.v2ex.com/t/667208) ![](assets/new.png)  
+- [2020-04-29-马上夏天了..想减肥](https://www.v2ex.com/t/667207) ![](assets/new.png)  
+- [2020-04-29-cloud-init-几点笔记及-centos-莫名改-hostname-问题。](https://www.v2ex.com/t/667205) ![](assets/new.png)  
+- [2020-04-29-electron-使用-web-worker-上传批量的文件（7W+）报-Maximum-call-stack-size-exceeded-错误](https://www.v2ex.com/t/667204) ![](assets/new.png)  
+- [2020-04-29-百万级图像抓取去重存档技术方案](https://www.v2ex.com/t/667203) ![](assets/new.png)  
+- [2020-04-29-电信家宽-ip-被-ipip.net-识别为代理](https://www.v2ex.com/t/667202) ![](assets/new.png)  
+- [2020-04-29-蚂蚁宝卡用户充值-50-元送百度盘-VIP](https://www.v2ex.com/t/667200) ![](assets/new.png)  
+- [2020-04-29-使用-make-fmt-Bad-file-number](https://www.v2ex.com/t/667199) ![](assets/new.png)  
+- [2020-04-29-office365-家庭版能切换主账户吗](https://www.v2ex.com/t/667198) ![](assets/new.png)  
+- [2020-04-29-100-元找人指教一下-SqlServer-的权限问题](https://www.v2ex.com/t/667197) ![](assets/new.png)  
+- [2020-04-29-如果电信运营商公网-IP-收费，你能接受吗？](https://www.v2ex.com/t/667196) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

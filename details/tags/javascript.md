@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -87,6 +87,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-29-上海Farfetch-内推](https://www.v2ex.com/t/667217) 
 - [2020-04-28-用-js-写了个-js-解释器](https://www.v2ex.com/t/666980) 
 - [2020-04-28-通过-Python-或者-js-有什么方法可以生成音频的波形图？](https://www.v2ex.com/t/666889) 
 - [2020-04-28-如何发送适配暗黑模式的邮件？](https://www.v2ex.com/t/666864) 

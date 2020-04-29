@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-29-无意中发现，进入-V2EX-的自己的主页，浏览器图标会变成自己头像，咋做到的呢？](https://www.v2ex.com/t/667359) 
 - [2020-04-29-请问一下，苹果-Safari-导出-csv/xlsx-文件中文名是乱码要怎么解决？](https://www.v2ex.com/t/667332) 
 - [2020-04-29-Chrome-居然会把一个域名及所有子域名全部拉黑？](https://www.v2ex.com/t/667301) 
 - [2020-04-29-打造摸鱼新境界，-Thief-Book-今起改名为-Thief-准备发布新功能](https://www.v2ex.com/t/667265) 

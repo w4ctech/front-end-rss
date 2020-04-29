@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -21,6 +21,7 @@
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-04-29-遍历-list-of-lists-of-lists-的优化方法](https://www.v2ex.com/t/667354) 
 - [2020-04-29-一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170) 
 - [2020-04-28-有在-macos-上安装-plsql-的吗-性能如何？](https://www.v2ex.com/t/666770) 
 - [2020-04-27-5.1-劳动节想换电脑了,现在-mac-os-对-AMD-有优化吗-,还是只能嘤特尔-?3500x-和-9600k-选哪个?](https://www.v2ex.com/t/666694) 

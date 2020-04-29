@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -484,6 +484,10 @@
 - [【印记中文周刊】2020-04-24-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
 - [【印记中文周刊】2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [【印记中文周刊】2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [【知乎日报】2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
+- [【知乎日报】2020-04-29-你见过最奇葩的过敏体质是对什么过敏？](https://www.ershicimi.com/p/771d721e784cf659cdea16c9f2e4d279) 
+- [【知乎日报】2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a) 
+- [【知乎日报】2020-04-29-知乎故事-|-结婚后的夫妻下班后都在做什么？](https://www.ershicimi.com/p/d1ee8efa20a319555a9318258522530f) 
 - [【知乎日报】2020-04-28-我，31-岁，在家喝可乐被骂哭了](https://www.ershicimi.com/p/251f739096752e43632bbe3c81280c57) 
 - [【知乎日报】2020-04-28-「粗腿的女生」千万别轻易练这几个动作，太虐了](https://www.ershicimi.com/p/a12c81989f7d603610c9dbb103a479dc) 
 - [【知乎日报】2020-04-28-知乎故事-|-你生理上最痛的一次经历是什么？](https://www.ershicimi.com/p/3e6e15ee22258dce560b38679daef099) 
@@ -514,6 +518,9 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-收藏的主题能不能搜索](https://www.v2ex.com/t/667444) 
+- [【V2EX】2020-04-29-django-有什么好方法对-tags-的标题按字排序？](https://www.v2ex.com/t/667442) 
+- [【V2EX】2020-04-29-最近写着玩的项目-lambda-sass](https://www.v2ex.com/t/667441) 
 - [【V2EX】2020-04-29-禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440) 
 - [【V2EX】2020-04-29-从满足需求看网盘选择---也是一张图对比](https://www.v2ex.com/t/667437) 
 - [【V2EX】2020-04-29-信用卡数量会影响房贷吗？](https://www.v2ex.com/t/667434) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 23:00:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 23:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -585,8 +585,8 @@
 </summary>
 
 
-- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/49521db0a3b65153bc20efd590e78d63) ![](assets/new.png)  
-- [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7) ![](assets/new.png)  
+- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/49521db0a3b65153bc20efd590e78d63)  
+- [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7)  
 - [2020-04-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/28897cbcddda24789108dab6f85481dd)  
 - [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c)  
 - [2020-04-24-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30)  
@@ -802,6 +802,10 @@
 </summary>
 
 
+- [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) ![](assets/new.png)  
+- [2020-04-29-你见过最奇葩的过敏体质是对什么过敏？](https://www.ershicimi.com/p/771d721e784cf659cdea16c9f2e4d279) ![](assets/new.png)  
+- [2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a) ![](assets/new.png)  
+- [2020-04-29-知乎故事-|-结婚后的夫妻下班后都在做什么？](https://www.ershicimi.com/p/d1ee8efa20a319555a9318258522530f) ![](assets/new.png)  
 - [2020-04-28-我，31-岁，在家喝可乐被骂哭了](https://www.ershicimi.com/p/251f739096752e43632bbe3c81280c57)  
 - [2020-04-28-「粗腿的女生」千万别轻易练这几个动作，太虐了](https://www.ershicimi.com/p/a12c81989f7d603610c9dbb103a479dc)  
 - [2020-04-28-知乎故事-|-你生理上最痛的一次经历是什么？](https://www.ershicimi.com/p/3e6e15ee22258dce560b38679daef099)  
@@ -818,10 +822,6 @@
 - [2020-04-25-昔日「御三家」如今六七八，Uzi-不在的-RNG-还是-RNG-吗？](https://www.ershicimi.com/p/4c0f8407873a19f81f7125ebf40a84f7)  
 - [2020-04-25-你的朋友圈，正在悄悄出卖你](https://www.ershicimi.com/p/88a259078a951f9f780a3d467ff32168)  
 - [2020-04-25-知乎故事-|-那个空姐向我要了微信](https://www.ershicimi.com/p/4bc0dd9f7c94b0c0df17f285ae534ccf)  
-- [2020-04-24-知乎高赞：哪一刻你觉得自己被生活磨平了棱角？](https://www.ershicimi.com/p/774803d79110dc29ac242097f795f7fb)  
-- [2020-04-24-别再靠不吃主食减肥了！10-种比米饭更好的主食，先知道先瘦](https://www.ershicimi.com/p/990c50b457d769e0b3bf7a16bc61dd49)  
-- [2020-04-24-钢铁侠离开的第-366-天，想他](https://www.ershicimi.com/p/89e93e330257aacf45e7d06d83e51804)  
-- [2020-04-24-知乎故事-|-你们麻醉后说过什么蠢话?](https://www.ershicimi.com/p/a7297a77495b463804bddecfd353e2e5)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -833,26 +833,26 @@
 </summary>
 
 
-- [2020-04-29-禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440) ![](assets/new.png)  
-- [2020-04-29-从满足需求看网盘选择---也是一张图对比](https://www.v2ex.com/t/667437) ![](assets/new.png)  
-- [2020-04-29-信用卡数量会影响房贷吗？](https://www.v2ex.com/t/667434) ![](assets/new.png)  
-- [2020-04-29-OneNote-有第三方客户端吗？](https://www.v2ex.com/t/667432) ![](assets/new.png)  
-- [2020-04-29-香港寄到内地-，什么快递-比较好-？](https://www.v2ex.com/t/667431) ![](assets/new.png)  
-- [2020-04-29-美区-Paypal-相关求助](https://www.v2ex.com/t/667430) ![](assets/new.png)  
-- [2020-04-29-求大佬们推荐一款显示器](https://www.v2ex.com/t/667429) ![](assets/new.png)  
-- [2020-04-29-五一要在上海待-5-天了，-V-友们有没有什么活动？](https://www.v2ex.com/t/667428) ![](assets/new.png)  
-- [2020-04-29-视频只能用-flash-播放怎么办？](https://www.v2ex.com/t/667427) ![](assets/new.png)  
-- [2020-04-29-15-款的-Macbook-Pro-求推荐雷电-2-dock](https://www.v2ex.com/t/667426) ![](assets/new.png)  
-- [2020-04-29-请教一个关于前端，回调的总是](https://www.v2ex.com/t/667425) ![](assets/new.png)  
-- [2020-04-29-让人迷惑的-interface](https://www.v2ex.com/t/667423) ![](assets/new.png)  
-- [2020-04-29-有没有设计相关的-slack-群？](https://www.v2ex.com/t/667422) ![](assets/new.png)  
-- [2020-04-29-提醒一下最近找工作的,-口头-offer-的话背调邀请要慎重](https://www.v2ex.com/t/667421) ![](assets/new.png)  
-- [2020-04-29-求指教一个-redux-相关的问题，先谢过了](https://www.v2ex.com/t/667420) ![](assets/new.png)  
+- [2020-04-29-收藏的主题能不能搜索](https://www.v2ex.com/t/667444) ![](assets/new.png)  
+- [2020-04-29-django-有什么好方法对-tags-的标题按字排序？](https://www.v2ex.com/t/667442) ![](assets/new.png)  
+- [2020-04-29-最近写着玩的项目-lambda-sass](https://www.v2ex.com/t/667441) ![](assets/new.png)  
+- [2020-04-29-禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440)  
+- [2020-04-29-从满足需求看网盘选择---也是一张图对比](https://www.v2ex.com/t/667437)  
+- [2020-04-29-信用卡数量会影响房贷吗？](https://www.v2ex.com/t/667434)  
+- [2020-04-29-OneNote-有第三方客户端吗？](https://www.v2ex.com/t/667432)  
+- [2020-04-29-香港寄到内地-，什么快递-比较好-？](https://www.v2ex.com/t/667431)  
+- [2020-04-29-美区-Paypal-相关求助](https://www.v2ex.com/t/667430)  
+- [2020-04-29-求大佬们推荐一款显示器](https://www.v2ex.com/t/667429)  
+- [2020-04-29-五一要在上海待-5-天了，-V-友们有没有什么活动？](https://www.v2ex.com/t/667428)  
+- [2020-04-29-视频只能用-flash-播放怎么办？](https://www.v2ex.com/t/667427)  
+- [2020-04-29-15-款的-Macbook-Pro-求推荐雷电-2-dock](https://www.v2ex.com/t/667426)  
+- [2020-04-29-请教一个关于前端，回调的总是](https://www.v2ex.com/t/667425)  
+- [2020-04-29-让人迷惑的-interface](https://www.v2ex.com/t/667423)  
+- [2020-04-29-有没有设计相关的-slack-群？](https://www.v2ex.com/t/667422)  
+- [2020-04-29-提醒一下最近找工作的,-口头-offer-的话背调邀请要慎重](https://www.v2ex.com/t/667421)  
+- [2020-04-29-求指教一个-redux-相关的问题，先谢过了](https://www.v2ex.com/t/667420)  
 - [2020-04-29-求破案-什么情况下，-iPhone-的本机名称才会被自动的重置为-iPhone-2](https://www.v2ex.com/t/667419)  
 - [2020-04-29-关于-vscode-terminal-的问题](https://www.v2ex.com/t/667415)  
-- [2020-04-29-我为什么这么菜？](https://www.v2ex.com/t/667414)  
-- [2020-04-29-五一，你们都去哪？](https://www.v2ex.com/t/667413)  
-- [2020-04-29-接龙小程序-急速接龙](https://www.v2ex.com/t/667410)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

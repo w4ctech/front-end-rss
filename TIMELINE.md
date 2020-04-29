@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -268,6 +268,7 @@
 - [【前端宇宙】2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
 - [【前端宇宙】2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ac72b38cd88c18aa6969d48d13d974fa) 
 - [【前端宇宙】2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [【前端瓶子君】2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [【前端瓶子君】2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d) 
 - [【前端瓶子君】2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [【前端瓶子君】2020-04-25-前端进阶算法：常见算法题及完美题解](https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24) 
@@ -497,6 +498,13 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164) 
+- [【V2EX】2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163) 
+- [【V2EX】2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161) 
+- [【V2EX】2020-04-29-如何实现-A-容器内使用-B-容器的命令呢?](https://www.v2ex.com/t/667160) 
+- [【V2EX】2020-04-29-2020-年，现在-reactjs-还是-redux-+-redux-saga-那一套么？](https://www.v2ex.com/t/667159) 
+- [【V2EX】2020-04-29-Python-是哪种类型语言](https://www.v2ex.com/t/667158) 
+- [【V2EX】2020-04-29-完了，安装-deepin-v20-后，发现没法再进入-Win10-了。。。](https://www.v2ex.com/t/667156) 
 - [【V2EX】2020-04-29-阿里的电话邀请面试都是-KPI-工程么？](https://www.v2ex.com/t/667155) 
 - [【V2EX】2020-04-29-询问现在有支持-Alfred4-的快递查询-workflow-吗](https://www.v2ex.com/t/667154) 
 - [【V2EX】2020-04-29-北京-迫于换显示器，出闲置佳明-Fenix5-Plus-中文版-2500](https://www.v2ex.com/t/667153) 
@@ -1844,6 +1852,10 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) 
+- [【开发者头条】2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) 
+- [【开发者头条】2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85) 
+- [【开发者头条】2020-04-29-哈希表哪家强？几大编程语言吵起来了](https://toutiao.io/k/6o4rgij) 
 - [【开发者头条】2020-04-29-ThreadLocal-是什么鬼？用法、源码一锅端](https://toutiao.io/k/esumoqq) 
 - [【开发者头条】2020-04-29-在开发环境下，基于-Spring-Boot-的-RocketMQ-示例（含安装步骤、错误分析）](https://toutiao.io/k/n59ric2) 
 - [【开发者头条】2020-04-29-从数仓到数据中台，谈技术选型最优解](https://toutiao.io/k/5gs5ltp) 

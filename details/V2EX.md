@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-04-29 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164) 
+- [2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163) 
+- [2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161) 
+- [2020-04-29-如何实现-A-容器内使用-B-容器的命令呢?](https://www.v2ex.com/t/667160) 
+- [2020-04-29-2020-年，现在-reactjs-还是-redux-+-redux-saga-那一套么？](https://www.v2ex.com/t/667159) 
+- [2020-04-29-Python-是哪种类型语言](https://www.v2ex.com/t/667158) 
+- [2020-04-29-完了，安装-deepin-v20-后，发现没法再进入-Win10-了。。。](https://www.v2ex.com/t/667156) 
 - [2020-04-29-阿里的电话邀请面试都是-KPI-工程么？](https://www.v2ex.com/t/667155) 
 - [2020-04-29-询问现在有支持-Alfred4-的快递查询-workflow-吗](https://www.v2ex.com/t/667154) 
 - [2020-04-29-北京-迫于换显示器，出闲置佳明-Fenix5-Plus-中文版-2500](https://www.v2ex.com/t/667153) 

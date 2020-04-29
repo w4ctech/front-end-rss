@@ -852,6 +852,11 @@
     "title": "前端瓶子君",
     "items": [
       {
+        "title": "如何优雅处理前端异常？",
+        "link": "https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51",
+        "date": "2020-04-29"
+      },
+      {
         "title": "前端工程师算法学习指南",
         "link": "https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d",
         "date": "2020-04-28"
@@ -3316,6 +3321,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "win 下的 iTunes 里的 Apple Music 拉取封面、歌单都正常，一放歌就是一首一首跳过，求解",
+        "link": "https://www.v2ex.com/t/667164",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤",
+        "link": "https://www.v2ex.com/t/667163",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "极简 Android 与 iOS 文件互传",
+        "link": "https://www.v2ex.com/t/667161",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "如何实现 A 容器内使用 B 容器的命令呢?",
+        "link": "https://www.v2ex.com/t/667160",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "2020 年，现在 reactjs 还是 redux + redux-saga 那一套么？",
+        "link": "https://www.v2ex.com/t/667159",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "Python 是哪种类型语言",
+        "link": "https://www.v2ex.com/t/667158",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "完了，安装 deepin v20 后，发现没法再进入 Win10 了。。。",
+        "link": "https://www.v2ex.com/t/667156",
+        "date": "2020-04-29"
+      },
       {
         "title": "阿里的电话邀请面试都是 KPI 工程么？",
         "link": "https://www.v2ex.com/t/667155",
@@ -10065,6 +10105,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "基于 Win10 单机部署 Kubernetes 应用",
+        "link": "https://toutiao.io/k/cruwvba",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "Linux 下使用 cut 命令，实现更好切分数据",
+        "link": "https://toutiao.io/k/1ptwkj4",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "爱奇艺 iOS 深度实践：SiriKit 详解应用篇",
+        "link": "https://toutiao.io/k/5zman85",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "哈希表哪家强？几大编程语言吵起来了",
+        "link": "https://toutiao.io/k/6o4rgij",
+        "date": "2020-04-29"
+      },
       {
         "title": "ThreadLocal 是什么鬼？用法、源码一锅端",
         "link": "https://toutiao.io/k/esumoqq",

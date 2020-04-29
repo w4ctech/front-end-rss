@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -56,6 +56,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad) 
 - [2020-04-23-7个前端进大厂的必备技能，你还缺啥？](https://www.ershicimi.com/p/6ba44e65a3aae107244f551e5fb7c9e5) 
@@ -235,6 +236,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-29-win-下的-iTunes-里的-Apple-Music-拉取封面、歌单都正常，一放歌就是一首一首跳过，求解](https://www.v2ex.com/t/667164) 
+- [2020-04-29-观点：已经遇到劳动纠纷了，还不赶紧学习一下劳动法等相关法律条文，最后被坑了，不冤](https://www.v2ex.com/t/667163) 
+- [2020-04-29-极简-Android-与-iOS-文件互传](https://www.v2ex.com/t/667161) 
+- [2020-04-29-如何实现-A-容器内使用-B-容器的命令呢?](https://www.v2ex.com/t/667160) 
+- [2020-04-29-Python-是哪种类型语言](https://www.v2ex.com/t/667158) 
+- [2020-04-29-完了，安装-deepin-v20-后，发现没法再进入-Win10-了。。。](https://www.v2ex.com/t/667156) 
 - [2020-04-29-询问现在有支持-Alfred4-的快递查询-workflow-吗](https://www.v2ex.com/t/667154) 
 - [2020-04-29-北京-迫于换显示器，出闲置佳明-Fenix5-Plus-中文版-2500](https://www.v2ex.com/t/667153) 
 - [2020-04-29-有没有什么好用的蓝牙-5.0mp3-给推荐一下?](https://www.v2ex.com/t/667151) 
@@ -1304,6 +1311,10 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-29-基于-Win10-单机部署-Kubernetes-应用](https://toutiao.io/k/cruwvba) 
+- [2020-04-29-Linux-下使用-cut-命令，实现更好切分数据](https://toutiao.io/k/1ptwkj4) 
+- [2020-04-29-爱奇艺-iOS-深度实践：SiriKit-详解应用篇](https://toutiao.io/k/5zman85) 
+- [2020-04-29-哈希表哪家强？几大编程语言吵起来了](https://toutiao.io/k/6o4rgij) 
 - [2020-04-29-ThreadLocal-是什么鬼？用法、源码一锅端](https://toutiao.io/k/esumoqq) 
 - [2020-04-29-在开发环境下，基于-Spring-Boot-的-RocketMQ-示例（含安装步骤、错误分析）](https://toutiao.io/k/n59ric2) 
 - [2020-04-29-从数仓到数据中台，谈技术选型最优解](https://toutiao.io/k/5gs5ltp) 

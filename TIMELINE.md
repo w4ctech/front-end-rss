@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -497,6 +497,12 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-阿里的电话邀请面试都是-KPI-工程么？](https://www.v2ex.com/t/667155) 
+- [【V2EX】2020-04-29-询问现在有支持-Alfred4-的快递查询-workflow-吗](https://www.v2ex.com/t/667154) 
+- [【V2EX】2020-04-29-北京-迫于换显示器，出闲置佳明-Fenix5-Plus-中文版-2500](https://www.v2ex.com/t/667153) 
+- [【V2EX】2020-04-29-有没有什么好用的蓝牙-5.0mp3-给推荐一下?](https://www.v2ex.com/t/667151) 
+- [【V2EX】2020-04-29-有什么讽刺-IT-行业的小短剧吗？](https://www.v2ex.com/t/667150) 
+- [【V2EX】2020-04-29-爬虫养成记--千军万马来相见（详解多线程）](https://www.v2ex.com/t/667149) 
 - [【V2EX】2020-04-29-有-Linux-下同步到微云的方案么？](https://www.v2ex.com/t/667148) 
 - [【V2EX】2020-04-29-今天，-VS-Code-五岁了。](https://www.v2ex.com/t/667147) 
 - [【V2EX】2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145) 
@@ -1838,6 +1844,12 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-29-ThreadLocal-是什么鬼？用法、源码一锅端](https://toutiao.io/k/esumoqq) 
+- [【开发者头条】2020-04-29-在开发环境下，基于-Spring-Boot-的-RocketMQ-示例（含安装步骤、错误分析）](https://toutiao.io/k/n59ric2) 
+- [【开发者头条】2020-04-29-从数仓到数据中台，谈技术选型最优解](https://toutiao.io/k/5gs5ltp) 
+- [【开发者头条】2020-04-29-个人经历：聊聊我的安全成长之路](https://toutiao.io/k/p0d9np5) 
+- [【开发者头条】2020-04-29-译-老板知道会点赞，前端开发人员的-10-个安全建议](https://toutiao.io/k/bf91cs2) 
+- [【开发者头条】2020-04-29-推荐-IM-服务器设计：网关接入层](https://toutiao.io/k/vazuwqx) 
 - [【开发者头条】2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w) 
 - [【开发者头条】2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q) 
 - [【开发者头条】2020-04-29-头条/支付宝/猿辅导面试经历](https://toutiao.io/k/b9nig0c) 

@@ -3317,6 +3317,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "阿里的电话邀请面试都是 KPI 工程么？",
+        "link": "https://www.v2ex.com/t/667155",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[询问]现在有支持 Alfred4 的快递查询 workflow 吗",
+        "link": "https://www.v2ex.com/t/667154",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[北京] 迫于换显示器，出闲置佳明 Fenix5 Plus 中文版 2500",
+        "link": "https://www.v2ex.com/t/667153",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "有没有什么好用的蓝牙 5.0mp3 给推荐一下?",
+        "link": "https://www.v2ex.com/t/667151",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "有什么讽刺 IT 行业的小短剧吗？",
+        "link": "https://www.v2ex.com/t/667150",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "爬虫养成记--千军万马来相见（详解多线程）",
+        "link": "https://www.v2ex.com/t/667149",
+        "date": "2020-04-29"
+      },
+      {
         "title": "有 Linux 下同步到微云的方案么？",
         "link": "https://www.v2ex.com/t/667148",
         "date": "2020-04-29"
@@ -10035,6 +10065,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "ThreadLocal 是什么鬼？用法、源码一锅端",
+        "link": "https://toutiao.io/k/esumoqq",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "在开发环境下，基于 Spring Boot 的 RocketMQ 示例（含安装步骤、错误分析）",
+        "link": "https://toutiao.io/k/n59ric2",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "从数仓到数据中台，谈技术选型最优解",
+        "link": "https://toutiao.io/k/5gs5ltp",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "个人经历：聊聊我的安全成长之路",
+        "link": "https://toutiao.io/k/p0d9np5",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[译] 老板知道会点赞，前端开发人员的 10 个安全建议",
+        "link": "https://toutiao.io/k/bf91cs2",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "[推荐] IM 服务器设计：网关接入层",
+        "link": "https://toutiao.io/k/vazuwqx",
+        "date": "2020-04-29"
+      },
       {
         "title": "我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了",
         "link": "https://toutiao.io/k/zh3mw4w",

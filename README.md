@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 08:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 09:00:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -822,8 +822,14 @@
 </summary>
 
 
-- [2020-04-29-有-Linux-下同步到微云的方案么？](https://www.v2ex.com/t/667148) ![](assets/new.png)  
-- [2020-04-29-今天，-VS-Code-五岁了。](https://www.v2ex.com/t/667147) ![](assets/new.png)  
+- [2020-04-29-阿里的电话邀请面试都是-KPI-工程么？](https://www.v2ex.com/t/667155) ![](assets/new.png)  
+- [2020-04-29-询问现在有支持-Alfred4-的快递查询-workflow-吗](https://www.v2ex.com/t/667154) ![](assets/new.png)  
+- [2020-04-29-北京-迫于换显示器，出闲置佳明-Fenix5-Plus-中文版-2500](https://www.v2ex.com/t/667153) ![](assets/new.png)  
+- [2020-04-29-有没有什么好用的蓝牙-5.0mp3-给推荐一下?](https://www.v2ex.com/t/667151) ![](assets/new.png)  
+- [2020-04-29-有什么讽刺-IT-行业的小短剧吗？](https://www.v2ex.com/t/667150) ![](assets/new.png)  
+- [2020-04-29-爬虫养成记--千军万马来相见（详解多线程）](https://www.v2ex.com/t/667149) ![](assets/new.png)  
+- [2020-04-29-有-Linux-下同步到微云的方案么？](https://www.v2ex.com/t/667148)  
+- [2020-04-29-今天，-VS-Code-五岁了。](https://www.v2ex.com/t/667147)  
 - [2020-04-29-在别的地方写了一些海外远程工作的经验，也来这儿分享一下](https://www.v2ex.com/t/667145)  
 - [2020-04-29-看了《猎狐》我都不敢炒股了](https://www.v2ex.com/t/667144)  
 - [2020-04-29-现在新办深圳电信游戏宽带还是全局-CN2-吗？](https://www.v2ex.com/t/667143)  
@@ -836,12 +842,6 @@
 - [2020-04-29-charles-抓包返回的是-gzip-乱码-如何能显示拿到争取的数据？](https://www.v2ex.com/t/667136)  
 - [2020-04-29-ip-地址欺骗](https://www.v2ex.com/t/667135)  
 - [2020-04-29-为什么没人做租车位的-app](https://www.v2ex.com/t/667134)  
-- [2020-04-29-快要被-win10-任务栏的输入法图标位置逼疯了，求大佬支支招救救孩子吧](https://www.v2ex.com/t/667133)  
-- [2020-04-29-计算机专业弱校，一个普通学生开发项目时遇到的困难](https://www.v2ex.com/t/667132)  
-- [2020-04-29-我华为-EMUI10.0-系统遭了](https://www.v2ex.com/t/667131)  
-- [2020-04-29-关于帖子访问次数的问题](https://www.v2ex.com/t/667130)  
-- [2020-04-29-迫于在家办公，希望大家推荐下-速溶咖啡☕️-和-类似老干妈、下饭菜的酱](https://www.v2ex.com/t/667129)  
-- [2020-04-29-关于-spring-事务数据源的问题请教](https://www.v2ex.com/t/667128)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -884,26 +884,26 @@
 </summary>
 
 
-- [2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w) ![](assets/new.png)  
-- [2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q) ![](assets/new.png)  
-- [2020-04-29-头条/支付宝/猿辅导面试经历](https://toutiao.io/k/b9nig0c) ![](assets/new.png)  
-- [2020-04-29-每天都在用，但你知道-Tomcat-的线程池有多努力吗？](https://toutiao.io/k/0mzq84d) ![](assets/new.png)  
-- [2020-04-29-教你如何写初/高级技术岗位简历](https://toutiao.io/k/p8x3xp1) ![](assets/new.png)  
-- [2020-04-29-译-十分钟快速学习-Redis](https://toutiao.io/k/4w6suj5) ![](assets/new.png)  
-- [2020-04-29-海外开发者账号上架总结](https://toutiao.io/k/613e62d) ![](assets/new.png)  
-- [2020-04-29-不得不聊区块链模型的爱恨情仇](https://toutiao.io/k/djhlcv2) ![](assets/new.png)  
-- [2020-04-29-Openstack-之-RPC-详解](https://toutiao.io/k/ob7yii6) ![](assets/new.png)  
+- [2020-04-29-ThreadLocal-是什么鬼？用法、源码一锅端](https://toutiao.io/k/esumoqq) ![](assets/new.png)  
+- [2020-04-29-在开发环境下，基于-Spring-Boot-的-RocketMQ-示例（含安装步骤、错误分析）](https://toutiao.io/k/n59ric2) ![](assets/new.png)  
+- [2020-04-29-从数仓到数据中台，谈技术选型最优解](https://toutiao.io/k/5gs5ltp) ![](assets/new.png)  
+- [2020-04-29-个人经历：聊聊我的安全成长之路](https://toutiao.io/k/p0d9np5) ![](assets/new.png)  
+- [2020-04-29-译-老板知道会点赞，前端开发人员的-10-个安全建议](https://toutiao.io/k/bf91cs2) ![](assets/new.png)  
+- [2020-04-29-推荐-IM-服务器设计：网关接入层](https://toutiao.io/k/vazuwqx) ![](assets/new.png)  
+- [2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w)  
+- [2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q)  
+- [2020-04-29-头条/支付宝/猿辅导面试经历](https://toutiao.io/k/b9nig0c)  
+- [2020-04-29-每天都在用，但你知道-Tomcat-的线程池有多努力吗？](https://toutiao.io/k/0mzq84d)  
+- [2020-04-29-教你如何写初/高级技术岗位简历](https://toutiao.io/k/p8x3xp1)  
+- [2020-04-29-译-十分钟快速学习-Redis](https://toutiao.io/k/4w6suj5)  
+- [2020-04-29-海外开发者账号上架总结](https://toutiao.io/k/613e62d)  
+- [2020-04-29-不得不聊区块链模型的爱恨情仇](https://toutiao.io/k/djhlcv2)  
+- [2020-04-29-Openstack-之-RPC-详解](https://toutiao.io/k/ob7yii6)  
 - [2020-04-29-推荐-面试-Google，我失败了（Google-面经分享）](https://toutiao.io/k/9o0qwev)  
 - [2020-04-29-有了这套题解，再也不怕刷-LeetCode-了](https://toutiao.io/k/cgm1s49)  
 - [2020-04-28-你未必真的了解线程安全，别骗自己，来看下怎么实现线程安全](https://toutiao.io/k/fv357t8)  
 - [2020-04-28-YOLOv4：43-mAP/83-FPS，虽迟但到，大型调优现场](https://toutiao.io/k/oa5ntzs)  
 - [2020-04-28-看了这么多数据中台，今天发篇接地气的](https://toutiao.io/k/li1sxnv)  
-- [2020-04-28-一文讲透零信任模型](https://toutiao.io/k/nb8kr9s)  
-- [2020-04-28-MySQL-云原生方案在携程开发测试场景中的实践](https://toutiao.io/k/cxqr6n2)  
-- [2020-04-28-换个思路换个方法，让圆环进度条实现方式得到一点改变](https://toutiao.io/k/v57iw4o)  
-- [2020-04-28-又抓了一个导致频繁-GC-的鬼：数组动态扩容](https://toutiao.io/k/s2o2fx9)  
-- [2020-04-28-API-加密框架-Monkey-Api-Encrypt-发布-1.2-版本](https://toutiao.io/k/dzl2ahw)  
-- [2020-04-28-小心！RPC-的超时设置，一不小心就是线上事故](https://toutiao.io/k/al5joed)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

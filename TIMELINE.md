@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-29 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -265,6 +265,7 @@
 - [【全栈前端精选】2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935) 
 - [【全栈前端精选】2020-04-17-还没用React做过项目？2020年，就要面对现实了...](https://www.ershicimi.com/p/f506d0f14dc3b70a9d59eebd9f17df9d) 
 - [【全栈前端精选】2020-04-17-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1) 
+- [【政采云前端团队】2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [【政采云前端团队】2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
 - [【政采云前端团队】2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
 - [【前端宇宙】2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3) 
@@ -511,6 +512,11 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-29-键盘连击终于轮到我了，这次是外接键盘](https://www.v2ex.com/t/667402) 
+- [【V2EX】2020-04-29-什么时候发布和推送-Windows-10-2004？](https://www.v2ex.com/t/667398) 
+- [【V2EX】2020-04-29--a-和-0-a-有什么区别？](https://www.v2ex.com/t/667397) 
+- [【V2EX】2020-04-29-某东购入一体机，降了-900-多，心理不平衡啊](https://www.v2ex.com/t/667395) 
+- [【V2EX】2020-04-29-各位日常是会把办公电脑带回家的吗？](https://www.v2ex.com/t/667394) 
 - [【V2EX】2020-04-29-杭州-个推-个推公司最有￥￥途的团队招兵买马，由于业务扩张，现开放出大量前端（vue）和后端（node.js）岗位，早九晚六，双休，五险一金，食堂大餐~~~~赶快投...](https://www.v2ex.com/t/667393) 
 - [【V2EX】2020-04-29-非-IT-从业者，每天上网都干啥？](https://www.v2ex.com/t/667392) 
 - [【V2EX】2020-04-29-关于博客，感觉自己越来越追求简化了](https://www.v2ex.com/t/667391) 

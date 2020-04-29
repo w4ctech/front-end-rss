@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-29 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-29 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -128,6 +128,8 @@
 - [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
 - [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 
+- [2020-04-29-架构篇：什么才是真正的架构设计？](https://www.ershicimi.com/p/ea4477b05474129442282f8ef7680b8b) 
+- [2020-04-29-JAVA-线上故障排查完整套路！牛掰！](https://www.ershicimi.com/p/21e2f3c3c762888d5944cec421e33a49) 
 - [2020-04-28-重磅！又一个自主研发的国产操作系统要出现了？传中科红旗正研发新一代Linux](https://www.ershicimi.com/p/3067d7b85a777794bb9cd58ca9cc5301) 
 - [2020-04-28-IntelliJ-IDEA-2020.1-首个稳定版重磅发布！](https://www.ershicimi.com/p/cbda1c7f93f8491c872a57a0af4fd3a6) 
 - [2020-04-28-一文带你搞懂-MySQL-中的分区！](https://www.ershicimi.com/p/791dc08e9da84307c8f7d4b2538e87a2) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-29 10:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-29 11:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -201,7 +201,7 @@
 </summary>
 
 
-- [2020-04-29-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e) ![](assets/new.png)  
+- [2020-04-29-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e)  
 - [2020-04-28-不懂源码的前端不是真正的前端](https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32)  
 - [2020-04-28-CSS-故障艺术](https://www.ershicimi.com/p/97300669e535c370b85f1bef8cf6c2e3)  
 - [2020-04-27-高性能前端架构解决方案](https://www.ershicimi.com/p/deebed12b03e518f78c36558f9dd7ff0)  
@@ -608,6 +608,9 @@
 </summary>
 
 
+- [2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0) ![](assets/new.png)  
+- [2020-04-29-架构篇：什么才是真正的架构设计？](https://www.ershicimi.com/p/ea4477b05474129442282f8ef7680b8b) ![](assets/new.png)  
+- [2020-04-29-JAVA-线上故障排查完整套路！牛掰！](https://www.ershicimi.com/p/21e2f3c3c762888d5944cec421e33a49) ![](assets/new.png)  
 - [2020-04-28-重磅！又一个自主研发的国产操作系统要出现了？传中科红旗正研发新一代Linux](https://www.ershicimi.com/p/3067d7b85a777794bb9cd58ca9cc5301)  
 - [2020-04-28-这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3)  
 - [2020-04-28-IntelliJ-IDEA-2020.1-首个稳定版重磅发布！](https://www.ershicimi.com/p/cbda1c7f93f8491c872a57a0af4fd3a6)  
@@ -625,9 +628,6 @@
 - [2020-04-25-你还在用-Date？快使用-LocalDateTime-了！](https://www.ershicimi.com/p/49769b2dd5af8fecde8d78cb6a2daf13)  
 - [2020-04-25-架构篇：高可用-Redis-服务架构分析与搭建](https://www.ershicimi.com/p/a85559ae1112114b15fe3889affe176d)  
 - [2020-04-24-Redis-10亿数据量只需要100MB内存，为什么这么牛？](https://www.ershicimi.com/p/fa5e12dfb612f88f96bd9813218536a0)  
-- [2020-04-24-一个奇怪的MySQL慢查询，打懵了一群不懂业务的DBA！](https://www.ershicimi.com/p/deb23a494f13f1c2edab77f4f6e5fdc1)  
-- [2020-04-24-珍藏很久的9个网站，再舍不得也得分享出来！](https://www.ershicimi.com/p/ec4d168d14d2022258e1ff0f60436d8a)  
-- [2020-04-24-在我看来，代码审查就是在排大便...](https://www.ershicimi.com/p/e382af5ac2e834670db70bf48238301d)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

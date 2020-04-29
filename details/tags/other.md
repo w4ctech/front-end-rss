@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -10,6 +10,8 @@
 - [2020-04-26-成为前端大师的9个项目](https://www.ershicimi.com/p/e803b2c391b238d9c5deb324ac7c4fb1) 
 - [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1) 
 - [2020-04-21-程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f) 
+- [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b) 
+- [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39) 
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143) 
 - [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c) 

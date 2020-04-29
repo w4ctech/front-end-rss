@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 06:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -617,6 +617,7 @@
 
 - [【Vue中文社区】面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/ff2e61705050f9629a4e6cca0476bbd5)
 - [【Vue中文社区】搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)
+- [【前端早读课】同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)
 - [【前端早读课】【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)
 - [【前端早读课】【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)
 - [【前端开发】前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)
@@ -634,7 +635,6 @@
 - [【互联网架构师】JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef)
 - [【JavaScript】无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b)
 - [【JavaScript】搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77)
-- [【V2EX】面试面的怀疑自已，发个帖发泄下！](https://www.v2ex.com/t/667408)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -688,6 +688,8 @@
 - [【Vue中文社区】成为前端大师的9个项目](https://www.ershicimi.com/p/e803b2c391b238d9c5deb324ac7c4fb1)
 - [【Vue中文社区】初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)
 - [【Vue中文社区】程序员经典表情合集](https://www.ershicimi.com/p/30d41d8cc13fe454ee20cf176132f85f)
+- [【前端早读课】【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)
+- [【前端早读课】【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)
 - [【前端早读课】【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)
 - [【前端早读课】【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)
 - [【前端早读课】【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)
@@ -701,8 +703,6 @@
 - [【前端大全】前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)
 - [【前端大全】一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c)
 - [【前端大全】如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3)
-- [【前端大全】前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e)
-- [【前端开发】不懂源码的前端不是真正的前端](https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

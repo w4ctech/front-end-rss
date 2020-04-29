@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-30 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -142,6 +142,9 @@
 - [【Vue中文社区】2020-04-20-12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755) 
 - [【Vue中文社区】2020-04-19-从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296) 
 - [【Vue中文社区】2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
+- [【前端早读课】2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b) 
+- [【前端早读课】2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe) 
+- [【前端早读课】2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39) 
 - [【前端早读课】2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14) 
 - [【前端早读课】2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc) 
 - [【前端早读课】2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -236,6 +236,9 @@
 - [2020-04-24-开发人员指南，不要损失你需要的指标](https://javascriptweekly.com/link/63621/web) 
 - [2020-04-24-▶-观看创建一个交易机器人](https://javascriptweekly.com/link/63624/web) 
 - [2020-04-24-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
+- [2020-04-30-有哪些非常非常非常奇怪的冷知识？](https://www.ershicimi.com/p/5ffb4fbb3434df6e6dfa47cfb824bbd0) 
+- [2020-04-30-刚出月子的-papi-酱告诉你，待产包里都要准备什么？](https://www.ershicimi.com/p/728b6b8379ba4bf2aba3217608e450d0) 
+- [2020-04-30-知乎故事-|-人在医院能无知到何种程度？](https://www.ershicimi.com/p/b36d268fbb3524e1351f68486dc2911a) 
 - [2020-04-29-你见过最奇葩的过敏体质是对什么过敏？](https://www.ershicimi.com/p/771d721e784cf659cdea16c9f2e4d279) 
 - [2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a) 
 - [2020-04-29-知乎故事-|-结婚后的夫妻下班后都在做什么？](https://www.ershicimi.com/p/d1ee8efa20a319555a9318258522530f) 
@@ -268,6 +271,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-django-modelform-问题请教](https://www.v2ex.com/t/667782) 
+- [2020-04-30-又到夏天了-有什么好的笔记本散热设备推荐😁](https://www.v2ex.com/t/667781) 
+- [2020-04-30-pandas-中的-@-运算是什么意思？](https://www.v2ex.com/t/667780) 
+- [2020-04-30-请教一下-买良心云主机的最佳方式](https://www.v2ex.com/t/667778) 
+- [2020-04-30-请教一下移动光猫里关掉-QoS-会引起-Ping-升高吗](https://www.v2ex.com/t/667777) 
+- [2020-04-30-Airpods-Pro-在-Windows-10-上用不了麦克风，有大佬知道怎么解决吗](https://www.v2ex.com/t/667775) 
 - [2020-04-30-突然在想其他技能型职业会不会也有类似-CRUD-的乏味感，比如医生](https://www.v2ex.com/t/667772) 
 - [2020-04-30-谷歌云注册时所用的节点国家需要和所填写的客户信息国家一致吗？](https://www.v2ex.com/t/667770) 
 - [2020-04-30-实锤美团大数据杀熟！](https://www.v2ex.com/t/667768) 

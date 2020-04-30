@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 09:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 09:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,8 +32,8 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -396,6 +396,8 @@
 </summary>
 
 
+- [2020-04-29-浅谈前端工程化趋势](https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59) ![](assets/new.png)  
+- [2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f) ![](assets/new.png)  
 - [2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3)  
 - [2020-04-27-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/3ecd87f00e3fd38b78f29b4b29762ef8)  
 - [2020-04-27-新手学习-react-迷惑的点完整版](https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3)  
@@ -418,6 +420,7 @@
 </summary>
 
 
+- [2020-04-30-抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d) ![](assets/new.png)  
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51)  
 - [2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d)  
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a)  
@@ -837,8 +840,14 @@
 </summary>
 
 
-- [2020-04-30-银行理财产品（以及宝宝类）会不会突然暴雷？](https://www.v2ex.com/t/667475) ![](assets/new.png)  
-- [2020-04-30-电信这么恶心的吗？](https://www.v2ex.com/t/667474) ![](assets/new.png)  
+- [2020-04-30-打算开个-YouTube-Premium-家庭版港服的车，有没有一起上车的朋友](https://www.v2ex.com/t/667485) ![](assets/new.png)  
+- [2020-04-30-重庆邮电大学研究生复试女生专属名额?](https://www.v2ex.com/t/667484) ![](assets/new.png)  
+- [2020-04-30-有需要订阅-clean-my-Mac-的-v-友吗。。。](https://www.v2ex.com/t/667481) ![](assets/new.png)  
+- [2020-04-30-今天的-Google-Doodle-很好玩（Oskar-Fischinger）](https://www.v2ex.com/t/667480) ![](assets/new.png)  
+- [2020-04-30-新房客厅电视，这几种电视选哪个最好？](https://www.v2ex.com/t/667479) ![](assets/new.png)  
+- [2020-04-30-Mac-系统卡顿不想重装，新建了个用户，感觉不卡了，原来的老用户是否可以删除，以前安装的程序，还要重新安装吗？是否有人操作过？求指导](https://www.v2ex.com/t/667477) ![](assets/new.png)  
+- [2020-04-30-银行理财产品（以及宝宝类）会不会突然暴雷？](https://www.v2ex.com/t/667475)  
+- [2020-04-30-电信这么恶心的吗？](https://www.v2ex.com/t/667474)  
 - [2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473)  
 - [2020-04-30-有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472)  
 - [2020-04-30-个人站长很孤独，求大佬入住](https://www.v2ex.com/t/667471)  
@@ -851,12 +860,6 @@
 - [2020-04-30-端传媒尊享及华尔街日报](https://www.v2ex.com/t/667463)  
 - [2020-04-30-越学感觉越菜，该怎么办？](https://www.v2ex.com/t/667462)  
 - [2020-04-30-微博-app-安卓版，取消关注，需要点击-4-次才可以弹出对话框](https://www.v2ex.com/t/667461)  
-- [2020-04-30-请教各位大佬-macOS-下如何优雅连接硬盘](https://www.v2ex.com/t/667460)  
-- [2020-04-30-Mac-上-Safari-跑分比-Chrome-高，为何感觉-Chrome-更快？](https://www.v2ex.com/t/667458)  
-- [2020-04-30-自动跳过-app-这个功能是怎样实现的?](https://www.v2ex.com/t/667457)  
-- [2020-04-30-问问各位老哥-2020-年学-ios-开发前景如何](https://www.v2ex.com/t/667456)  
-- [2020-04-30-一台-9-成新的-Mate30Pro-可否换来一台群辉](https://www.v2ex.com/t/667455)  
-- [2020-04-30-评绩效和调薪时和老板辩论有用么](https://www.v2ex.com/t/667454)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -899,13 +902,13 @@
 </summary>
 
 
-- [2020-04-30-Spring-Boot-2.0-打包与自定义-launch.script](https://toutiao.io/k/5fukp7i) ![](assets/new.png)  
-- [2020-04-30-Golang-中的-sync.Pool-对象](https://toutiao.io/k/xmecw1d) ![](assets/new.png)  
-- [2020-04-30-想自学-Python？推荐一个良心的-Python-教程](https://toutiao.io/k/tfw2h72) ![](assets/new.png)  
-- [2020-04-30-iOS-13-+-Safari-启用陀螺仪授权](https://toutiao.io/k/wmb1bxm) ![](assets/new.png)  
-- [2020-04-30-常用的-Java-并发编程技术](https://toutiao.io/k/qs7jx4w) ![](assets/new.png)  
-- [2020-04-30-OpenStack-之-log-详解](https://toutiao.io/k/ziz4xwv) ![](assets/new.png)  
-- [2020-04-30-挖矿-=-求解一个合适的-nonce-整数，区块链与加密数字货币知识科普](https://toutiao.io/k/7qbpk18) ![](assets/new.png)  
+- [2020-04-30-Spring-Boot-2.0-打包与自定义-launch.script](https://toutiao.io/k/5fukp7i)  
+- [2020-04-30-Golang-中的-sync.Pool-对象](https://toutiao.io/k/xmecw1d)  
+- [2020-04-30-想自学-Python？推荐一个良心的-Python-教程](https://toutiao.io/k/tfw2h72)  
+- [2020-04-30-iOS-13-+-Safari-启用陀螺仪授权](https://toutiao.io/k/wmb1bxm)  
+- [2020-04-30-常用的-Java-并发编程技术](https://toutiao.io/k/qs7jx4w)  
+- [2020-04-30-OpenStack-之-log-详解](https://toutiao.io/k/ziz4xwv)  
+- [2020-04-30-挖矿-=-求解一个合适的-nonce-整数，区块链与加密数字货币知识科普](https://toutiao.io/k/7qbpk18)  
 - [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y)  
 - [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s)  
 - [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a)  

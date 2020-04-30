@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -170,6 +170,7 @@
 
 - [【前端之巅】Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
+- [【前端瓶子君】抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)
 - [【程序员成长指北】为-Node.js-应用建立一个更安全的沙箱环境](https://www.ershicimi.com/p/b2a79e4b9fa064dbb092674f6e44d9d6)
 - [【程序员成长指北】我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232)
 - [【Nodejs技术栈】Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a)
@@ -187,7 +188,6 @@
 - [【V2EX】pymssql-连接-sql-server-express](https://www.v2ex.com/t/667210)
 - [【V2EX】electron-使用-web-worker-上传批量的文件（7W+）报-Maximum-call-stack-size-exceeded-错误](https://www.v2ex.com/t/667204)
 - [【V2EX】web-worker-中不能使用-node.js-fs.promises?](https://www.v2ex.com/t/667181)
-- [【V2EX】Electron：-web-worker-批量上传文件，如何将-web-woker-信息实时回传至-worker-主进程](https://www.v2ex.com/t/666984)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -61,6 +61,8 @@
 - [2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935) 
 - [2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-04-29-浅谈前端工程化趋势](https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59) 
+- [2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f) 
 - [2020-04-26-阿里大佬浅谈大型项目前端架构设计](https://www.ershicimi.com/p/016fca4951e60960931ad56bfdc608e7) 
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
@@ -251,6 +253,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-打算开个-YouTube-Premium-家庭版港服的车，有没有一起上车的朋友](https://www.v2ex.com/t/667485) 
+- [2020-04-30-重庆邮电大学研究生复试女生专属名额?](https://www.v2ex.com/t/667484) 
+- [2020-04-30-有需要订阅-clean-my-Mac-的-v-友吗。。。](https://www.v2ex.com/t/667481) 
+- [2020-04-30-今天的-Google-Doodle-很好玩（Oskar-Fischinger）](https://www.v2ex.com/t/667480) 
+- [2020-04-30-新房客厅电视，这几种电视选哪个最好？](https://www.v2ex.com/t/667479) 
+- [2020-04-30-Mac-系统卡顿不想重装，新建了个用户，感觉不卡了，原来的老用户是否可以删除，以前安装的程序，还要重新安装吗？是否有人操作过？求指导](https://www.v2ex.com/t/667477) 
 - [2020-04-30-银行理财产品（以及宝宝类）会不会突然暴雷？](https://www.v2ex.com/t/667475) 
 - [2020-04-30-电信这么恶心的吗？](https://www.v2ex.com/t/667474) 
 - [2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473) 

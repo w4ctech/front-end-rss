@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-30 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -274,6 +274,8 @@
 - [【政采云前端团队】2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [【政采云前端团队】2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
 - [【政采云前端团队】2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [【前端宇宙】2020-04-29-浅谈前端工程化趋势](https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59) 
+- [【前端宇宙】2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f) 
 - [【前端宇宙】2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3) 
 - [【前端宇宙】2020-04-27-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/3ecd87f00e3fd38b78f29b4b29762ef8) 
 - [【前端宇宙】2020-04-27-新手学习-react-迷惑的点完整版](https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3) 
@@ -285,6 +287,7 @@
 - [【前端宇宙】2020-04-21-在阿里我是如何当面试官的](https://www.ershicimi.com/p/1f2160718267ba8f7180f82d4c588de6) 
 - [【前端宇宙】2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ac72b38cd88c18aa6969d48d13d974fa) 
 - [【前端宇宙】2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [【前端瓶子君】2020-04-30-抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d) 
 - [【前端瓶子君】2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [【前端瓶子君】2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d) 
 - [【前端瓶子君】2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
@@ -524,6 +527,12 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-30-打算开个-YouTube-Premium-家庭版港服的车，有没有一起上车的朋友](https://www.v2ex.com/t/667485) 
+- [【V2EX】2020-04-30-重庆邮电大学研究生复试女生专属名额?](https://www.v2ex.com/t/667484) 
+- [【V2EX】2020-04-30-有需要订阅-clean-my-Mac-的-v-友吗。。。](https://www.v2ex.com/t/667481) 
+- [【V2EX】2020-04-30-今天的-Google-Doodle-很好玩（Oskar-Fischinger）](https://www.v2ex.com/t/667480) 
+- [【V2EX】2020-04-30-新房客厅电视，这几种电视选哪个最好？](https://www.v2ex.com/t/667479) 
+- [【V2EX】2020-04-30-Mac-系统卡顿不想重装，新建了个用户，感觉不卡了，原来的老用户是否可以删除，以前安装的程序，还要重新安装吗？是否有人操作过？求指导](https://www.v2ex.com/t/667477) 
 - [【V2EX】2020-04-30-银行理财产品（以及宝宝类）会不会突然暴雷？](https://www.v2ex.com/t/667475) 
 - [【V2EX】2020-04-30-电信这么恶心的吗？](https://www.v2ex.com/t/667474) 
 - [【V2EX】2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473) 

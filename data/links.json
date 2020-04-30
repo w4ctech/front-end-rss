@@ -876,6 +876,16 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "浅谈前端工程化趋势",
+        "link": "https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "影视剧经典镜头完美诠释程序员日常生活",
+        "link": "https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f",
+        "date": "2020-04-29"
+      },
+      {
         "title": "一位阿里P7的面试经验分享",
         "link": "https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3",
         "date": "2020-04-28"
@@ -936,6 +946,11 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "抛弃jenkins，使用node从零搭建自动化部署管理平台",
+        "link": "https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d",
+        "date": "2020-04-30"
+      },
       {
         "title": "如何优雅处理前端异常？",
         "link": "https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51",
@@ -3451,6 +3466,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "打算开个 YouTube Premium 家庭版港服的车，有没有一起上车的朋友",
+        "link": "https://www.v2ex.com/t/667485",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "重庆邮电大学研究生复试女生专属名额?",
+        "link": "https://www.v2ex.com/t/667484",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "有需要订阅 clean my Mac 的 v 友吗。。。",
+        "link": "https://www.v2ex.com/t/667481",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "今天的 Google Doodle 很好玩（Oskar Fischinger）",
+        "link": "https://www.v2ex.com/t/667480",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "新房客厅电视，这几种电视选哪个最好？",
+        "link": "https://www.v2ex.com/t/667479",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "Mac 系统卡顿不想重装，新建了个用户，感觉不卡了，原来的老用户是否可以删除，以前安装的程序，还要重新安装吗？是否有人操作过？求指导",
+        "link": "https://www.v2ex.com/t/667477",
+        "date": "2020-04-30"
+      },
       {
         "title": "银行理财产品（以及宝宝类）会不会突然暴雷？",
         "link": "https://www.v2ex.com/t/667475",

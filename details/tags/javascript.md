@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -131,6 +131,7 @@
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-30-敲黑板！写给前端看的-JSBridge-原理](https://toutiao.io/k/9u63na3) 
 - [2020-04-28-又抓了一个导致频繁-GC-的鬼：数组动态扩容](https://toutiao.io/k/s2o2fx9) 
 - [2020-04-28-使用-Go-语言实现一个异步任务框架](https://toutiao.io/k/3o38497) 
 - [2020-04-27-谈谈-JavaScript-中的变量升级](https://toutiao.io/k/ac6dbgy) 

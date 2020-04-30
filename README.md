@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -149,9 +149,9 @@
 </summary>
 
 
-- [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b) ![](assets/new.png)  
-- [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe) ![](assets/new.png)  
-- [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39) ![](assets/new.png)  
+- [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
+- [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)  
+- [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)  
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)  
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)  
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
@@ -837,6 +837,8 @@
 </summary>
 
 
+- [2020-04-30-手机微信不显示-Windows-微信已登录](https://www.v2ex.com/t/667468) ![](assets/new.png)  
+- [2020-04-30-西数公布了-smr-硬盘型号，有中招的吗？](https://www.v2ex.com/t/667466) ![](assets/new.png)  
 - [2020-04-30-这种情况把内存升级到-32G-可以改善卡的状况么](https://www.v2ex.com/t/667465)  
 - [2020-04-30-端传媒及华尔街日报](https://www.v2ex.com/t/667464)  
 - [2020-04-30-端传媒尊享及华尔街日报](https://www.v2ex.com/t/667463)  
@@ -855,8 +857,6 @@
 - [2020-04-29-全职远程-独立产品团队-诚聘-高级-iOS-开发者](https://www.v2ex.com/t/667449)  
 - [2020-04-29-求问去一个做行李管理系统之类机场服务的公司，选择后端还是前端呢？](https://www.v2ex.com/t/667447)  
 - [2020-04-29-普通二本-2020-应届生，前端求职，-0-offer-，求各位大佬看看简历，给点建议](https://www.v2ex.com/t/667446)  
-- [2020-04-29-收藏的主题能不能搜索](https://www.v2ex.com/t/667444)  
-- [2020-04-29-django-有什么好方法对-tags-的标题按字排序？](https://www.v2ex.com/t/667442)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

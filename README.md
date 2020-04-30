@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 16:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 17:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -849,26 +849,26 @@
 </summary>
 
 
-- [2020-04-30-找工作防坑指南](https://www.v2ex.com/t/667673) ![](assets/new.png)  
-- [2020-04-30-iOS-13.5-DB-3-锁屏界面上拉即可输入密码](https://www.v2ex.com/t/667672) ![](assets/new.png)  
-- [2020-04-30-做了個備份社會新聞的網站](https://www.v2ex.com/t/667671) ![](assets/new.png)  
-- [2020-04-30-springboot，有个自动配置的问题](https://www.v2ex.com/t/667670) ![](assets/new.png)  
-- [2020-04-30-问一个关于笔记本内存的问题](https://www.v2ex.com/t/667669) ![](assets/new.png)  
-- [2020-04-30-Tencent-Serverless-Hours-线上分享会第一期即将举办](https://www.v2ex.com/t/667667) ![](assets/new.png)  
-- [2020-04-30-《Don't-Starve》游戏语音助手，献给所有热爱该游戏的朋友](https://www.v2ex.com/t/667666) ![](assets/new.png)  
-- [2020-04-30-想爬取-qq-群相册的图片,-有没有什么好的想法?](https://www.v2ex.com/t/667665) ![](assets/new.png)  
-- [2020-04-30-请小伙伴兼职解决：用-Linux-usb-otg-gadget-模拟苹果-Magic-Trackpad](https://www.v2ex.com/t/667663) ![](assets/new.png)  
-- [2020-04-30-BOSS-上-投递-腾讯，多投合适吗？](https://www.v2ex.com/t/667662) ![](assets/new.png)  
-- [2020-04-30-2000-块不带显示器-电影+炒股主机-这俩配置哪个好？](https://www.v2ex.com/t/667661) ![](assets/new.png)  
-- [2020-04-30-没带驾照，罚-100-扣-1-分](https://www.v2ex.com/t/667660) ![](assets/new.png)  
-- [2020-04-30-京东白条主动降低额度](https://www.v2ex.com/t/667659) ![](assets/new.png)  
-- [2020-04-30-划水搜-iPhone-如何使用门禁卡功能，看到这个感觉智商被侮辱了](https://www.v2ex.com/t/667658) ![](assets/new.png)  
-- [2020-04-30-机器学习量化策略岗，国内-top-对冲基金，薪资高于-BAT](https://www.v2ex.com/t/667657)  
-- [2020-04-30-饥荒语音助手-App，献给所有喜欢这款游戏的朋友](https://www.v2ex.com/t/667655)  
-- [2020-04-30-CRUD-工程师的价值是什么](https://www.v2ex.com/t/667654)  
-- [2020-04-30-上海联通-10-年老号码携转到了移动，地下车库再也不会没有信号了](https://www.v2ex.com/t/667653)  
-- [2020-04-30-五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652)  
-- [2020-04-30-Coupang上海北京外企软银系招聘-开发（前端-后端-Android-IOS）测试-数据分析-数据科学-算法-大数据](https://www.v2ex.com/t/667651)  
+- [2020-04-30-语雀客户端-yu-note](https://www.v2ex.com/t/667693) ![](assets/new.png)  
+- [2020-04-30-使用「自动切换输入法」「超级右键」「iShot-截图」的用户小心了](https://www.v2ex.com/t/667692) ![](assets/new.png)  
+- [2020-04-30-域名未备案，本地域名-host-指向阿里云也会被拦截](https://www.v2ex.com/t/667691) ![](assets/new.png)  
+- [2020-04-30-公司内推有奖金，朋友是-HR，如果跟他合作帮忙内推别人进来，这种奖金一般怎么分成，-55-开吗？](https://www.v2ex.com/t/667690) ![](assets/new.png)  
+- [2020-04-30-有一说一阿里的文档是真的辣鸡](https://www.v2ex.com/t/667688) ![](assets/new.png)  
+- [2020-04-30-远程办公-大量招聘-iOS-币安（Binance）是一家全球性的加密货币交易所，为超过-100-种加密货币提供交易平台。2018-年初以来，币安在交易量方面被认为是全世...](https://www.v2ex.com/t/667686) ![](assets/new.png)  
+- [2020-04-30-今年计划单中最大的一项：离职-进行中](https://www.v2ex.com/t/667685) ![](assets/new.png)  
+- [2020-04-30-菜鸟发问！在-for-循环里写-a-==--1-&&-break;-会报错是咋回事？](https://www.v2ex.com/t/667684) ![](assets/new.png)  
+- [2020-04-30-自然语言模型-可以和-颜色空间模型-建立某种关联或映射么?](https://www.v2ex.com/t/667683) ![](assets/new.png)  
+- [2020-04-30-拖欠绩效可以申请劳动仲裁么？](https://www.v2ex.com/t/667682) ![](assets/new.png)  
+- [2020-04-30-DjangoUeditor-无法上传图片](https://www.v2ex.com/t/667681) ![](assets/new.png)  
+- [2020-04-30-从腾讯跳到微软上海一个月了，总结一下我认为的差别](https://www.v2ex.com/t/667679) ![](assets/new.png)  
+- [2020-04-30-软银追投-$20-亿，估值超过-$90-亿-Coupang-上海招人啦](https://www.v2ex.com/t/667678) ![](assets/new.png)  
+- [2020-04-30-招商的-JCB-和-AE-信用卡忽然无法在-App-Store-支付了](https://www.v2ex.com/t/667677) ![](assets/new.png)  
+- [2020-04-30-Coinbase-Earn-通过做几个-Quiz-免费获取一些的数字货币](https://www.v2ex.com/t/667676) ![](assets/new.png)  
+- [2020-04-30-有什么学习数据库的好资源吗](https://www.v2ex.com/t/667675) ![](assets/new.png)  
+- [2020-04-30-找工作防坑指南](https://www.v2ex.com/t/667673)  
+- [2020-04-30-iOS-13.5-DB-3-锁屏界面上拉即可输入密码](https://www.v2ex.com/t/667672)  
+- [2020-04-30-做了個備份社會新聞的網站](https://www.v2ex.com/t/667671)  
+- [2020-04-30-springboot，有个自动配置的问题](https://www.v2ex.com/t/667670)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -911,6 +911,7 @@
 </summary>
 
 
+- [2020-04-30-推荐-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw) ![](assets/new.png)  
 - [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j)  
 - [2020-04-30-数据源管理：PostgreSQL-环境整合，JSON-类型应用](https://toutiao.io/k/s31mimh)  
 - [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon)  
@@ -930,7 +931,6 @@
 - [2020-04-30-挖矿-=-求解一个合适的-nonce-整数，区块链与加密数字货币知识科普](https://toutiao.io/k/7qbpk18)  
 - [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y)  
 - [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s)  
-- [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

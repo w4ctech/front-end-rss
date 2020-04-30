@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-30 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -430,6 +430,8 @@
 - [【InfoQ】2020-04-21-Serverless-实战：用-20-行-Python-代码轻松搞定图像分类和预测](https://www.ershicimi.com/p/a86dc45eab6588a2e994cd23a0b18a9b) 
 - [【InfoQ】2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [【InfoQ】2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [【JavaScript】2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376) 
+- [【JavaScript】2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/5228bf493683eb5721d917bd1125a2b6) 
 - [【JavaScript】2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [【JavaScript】2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a) 
 - [【JavaScript】2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb) 
@@ -542,6 +544,18 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-30-喜闻乐见的-Benq-屏幕挂灯的山寨款终于出来的!](https://www.v2ex.com/t/667707) 
+- [【V2EX】2020-04-30-youtube-上的一些画面太好看了，有没有哪位大侠知道怎么弄下来](https://www.v2ex.com/t/667706) 
+- [【V2EX】2020-04-30-劳动维权有问必简答](https://www.v2ex.com/t/667704) 
+- [【V2EX】2020-04-30-有小伙伴做量化这块然后有小组或者群带上我的瞄~](https://www.v2ex.com/t/667703) 
+- [【V2EX】2020-04-30-招外包团队,-远程开发](https://www.v2ex.com/t/667702) 
+- [【V2EX】2020-04-30-老板最近喜欢阳台思考人生，抽烟加剧，是不是意味着离倒闭不远了……](https://www.v2ex.com/t/667700) 
+- [【V2EX】2020-04-30-坐标杭州内推-Python-后端开发-14k-20k](https://www.v2ex.com/t/667699) 
+- [【V2EX】2020-04-30-有办了阿里云上公司的吗？靠谱不](https://www.v2ex.com/t/667698) 
+- [【V2EX】2020-04-30-五一放-5-天的意义是什么，还补两天班+疫情出游不便](https://www.v2ex.com/t/667697) 
+- [【V2EX】2020-04-30-开源监控系统-WGCLOUD-v2.3.6-发布拉](https://www.v2ex.com/t/667696) 
+- [【V2EX】2020-04-30-有劳各位-V2EX-前辈帮忙参考下](https://www.v2ex.com/t/667695) 
+- [【V2EX】2020-04-30-HomePod-没办法作为一台“外接音箱”使用，好遗憾啊](https://www.v2ex.com/t/667694) 
 - [【V2EX】2020-04-30-语雀客户端-yu-note](https://www.v2ex.com/t/667693) 
 - [【V2EX】2020-04-30-使用「自动切换输入法」「超级右键」「iShot-截图」的用户小心了](https://www.v2ex.com/t/667692) 
 - [【V2EX】2020-04-30-域名未备案，本地域名-host-指向阿里云也会被拦截](https://www.v2ex.com/t/667691) 

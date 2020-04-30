@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -61,6 +61,7 @@
 - [2020-04-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/28897cbcddda24789108dab6f85481dd) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [2020-04-30-变量命名还在谷歌百度翻译？OUT啦!分享一个我日常工作中常用的变量命名神器！](https://www.ershicimi.com/p/c258e98f52c90eac18727afe58b4f249) 
+- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/5228bf493683eb5721d917bd1125a2b6) 
 - [2020-04-25-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/e9c526fbec5ea09dce71bd3db8b00d7c) 
 - [2020-04-22-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/4ab893a12078e5c857044536d47618e9) 
 - [2020-04-27-推荐收藏JavaScript书籍精读笔记系列导航](https://juejin.im/post/5e9736bb6fb9a03c2e542b1e) 

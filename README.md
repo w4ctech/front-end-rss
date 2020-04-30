@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 17:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 18:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -693,6 +693,8 @@
 </summary>
 
 
+- [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376) ![](assets/new.png)  
+- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/5228bf493683eb5721d917bd1125a2b6) ![](assets/new.png)  
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b)  
 - [2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a)  
 - [2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)  
@@ -849,26 +851,26 @@
 </summary>
 
 
-- [2020-04-30-语雀客户端-yu-note](https://www.v2ex.com/t/667693) ![](assets/new.png)  
-- [2020-04-30-使用「自动切换输入法」「超级右键」「iShot-截图」的用户小心了](https://www.v2ex.com/t/667692) ![](assets/new.png)  
-- [2020-04-30-域名未备案，本地域名-host-指向阿里云也会被拦截](https://www.v2ex.com/t/667691) ![](assets/new.png)  
-- [2020-04-30-公司内推有奖金，朋友是-HR，如果跟他合作帮忙内推别人进来，这种奖金一般怎么分成，-55-开吗？](https://www.v2ex.com/t/667690) ![](assets/new.png)  
-- [2020-04-30-有一说一阿里的文档是真的辣鸡](https://www.v2ex.com/t/667688) ![](assets/new.png)  
-- [2020-04-30-远程办公-大量招聘-iOS-币安（Binance）是一家全球性的加密货币交易所，为超过-100-种加密货币提供交易平台。2018-年初以来，币安在交易量方面被认为是全世...](https://www.v2ex.com/t/667686) ![](assets/new.png)  
-- [2020-04-30-今年计划单中最大的一项：离职-进行中](https://www.v2ex.com/t/667685) ![](assets/new.png)  
-- [2020-04-30-菜鸟发问！在-for-循环里写-a-==--1-&&-break;-会报错是咋回事？](https://www.v2ex.com/t/667684) ![](assets/new.png)  
-- [2020-04-30-自然语言模型-可以和-颜色空间模型-建立某种关联或映射么?](https://www.v2ex.com/t/667683) ![](assets/new.png)  
-- [2020-04-30-拖欠绩效可以申请劳动仲裁么？](https://www.v2ex.com/t/667682) ![](assets/new.png)  
-- [2020-04-30-DjangoUeditor-无法上传图片](https://www.v2ex.com/t/667681) ![](assets/new.png)  
-- [2020-04-30-从腾讯跳到微软上海一个月了，总结一下我认为的差别](https://www.v2ex.com/t/667679) ![](assets/new.png)  
-- [2020-04-30-软银追投-$20-亿，估值超过-$90-亿-Coupang-上海招人啦](https://www.v2ex.com/t/667678) ![](assets/new.png)  
-- [2020-04-30-招商的-JCB-和-AE-信用卡忽然无法在-App-Store-支付了](https://www.v2ex.com/t/667677) ![](assets/new.png)  
-- [2020-04-30-Coinbase-Earn-通过做几个-Quiz-免费获取一些的数字货币](https://www.v2ex.com/t/667676) ![](assets/new.png)  
-- [2020-04-30-有什么学习数据库的好资源吗](https://www.v2ex.com/t/667675) ![](assets/new.png)  
-- [2020-04-30-找工作防坑指南](https://www.v2ex.com/t/667673)  
-- [2020-04-30-iOS-13.5-DB-3-锁屏界面上拉即可输入密码](https://www.v2ex.com/t/667672)  
-- [2020-04-30-做了個備份社會新聞的網站](https://www.v2ex.com/t/667671)  
-- [2020-04-30-springboot，有个自动配置的问题](https://www.v2ex.com/t/667670)  
+- [2020-04-30-喜闻乐见的-Benq-屏幕挂灯的山寨款终于出来的!](https://www.v2ex.com/t/667707) ![](assets/new.png)  
+- [2020-04-30-youtube-上的一些画面太好看了，有没有哪位大侠知道怎么弄下来](https://www.v2ex.com/t/667706) ![](assets/new.png)  
+- [2020-04-30-劳动维权有问必简答](https://www.v2ex.com/t/667704) ![](assets/new.png)  
+- [2020-04-30-有小伙伴做量化这块然后有小组或者群带上我的瞄~](https://www.v2ex.com/t/667703) ![](assets/new.png)  
+- [2020-04-30-招外包团队,-远程开发](https://www.v2ex.com/t/667702) ![](assets/new.png)  
+- [2020-04-30-老板最近喜欢阳台思考人生，抽烟加剧，是不是意味着离倒闭不远了……](https://www.v2ex.com/t/667700) ![](assets/new.png)  
+- [2020-04-30-坐标杭州内推-Python-后端开发-14k-20k](https://www.v2ex.com/t/667699) ![](assets/new.png)  
+- [2020-04-30-有办了阿里云上公司的吗？靠谱不](https://www.v2ex.com/t/667698) ![](assets/new.png)  
+- [2020-04-30-五一放-5-天的意义是什么，还补两天班+疫情出游不便](https://www.v2ex.com/t/667697) ![](assets/new.png)  
+- [2020-04-30-开源监控系统-WGCLOUD-v2.3.6-发布拉](https://www.v2ex.com/t/667696) ![](assets/new.png)  
+- [2020-04-30-有劳各位-V2EX-前辈帮忙参考下](https://www.v2ex.com/t/667695) ![](assets/new.png)  
+- [2020-04-30-HomePod-没办法作为一台“外接音箱”使用，好遗憾啊](https://www.v2ex.com/t/667694) ![](assets/new.png)  
+- [2020-04-30-语雀客户端-yu-note](https://www.v2ex.com/t/667693)  
+- [2020-04-30-使用「自动切换输入法」「超级右键」「iShot-截图」的用户小心了](https://www.v2ex.com/t/667692)  
+- [2020-04-30-域名未备案，本地域名-host-指向阿里云也会被拦截](https://www.v2ex.com/t/667691)  
+- [2020-04-30-公司内推有奖金，朋友是-HR，如果跟他合作帮忙内推别人进来，这种奖金一般怎么分成，-55-开吗？](https://www.v2ex.com/t/667690)  
+- [2020-04-30-有一说一阿里的文档是真的辣鸡](https://www.v2ex.com/t/667688)  
+- [2020-04-30-远程办公-大量招聘-iOS-币安（Binance）是一家全球性的加密货币交易所，为超过-100-种加密货币提供交易平台。2018-年初以来，币安在交易量方面被认为是全世...](https://www.v2ex.com/t/667686)  
+- [2020-04-30-今年计划单中最大的一项：离职-进行中](https://www.v2ex.com/t/667685)  
+- [2020-04-30-菜鸟发问！在-for-循环里写-a-==--1-&&-break;-会报错是咋回事？](https://www.v2ex.com/t/667684)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -911,7 +913,7 @@
 </summary>
 
 
-- [2020-04-30-推荐-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw) ![](assets/new.png)  
+- [2020-04-30-推荐-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw)  
 - [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j)  
 - [2020-04-30-数据源管理：PostgreSQL-环境整合，JSON-类型应用](https://toutiao.io/k/s31mimh)  
 - [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon)  

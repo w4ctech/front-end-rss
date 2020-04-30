@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -197,6 +197,7 @@
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376) 
 - [2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a) 
 - [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) 
 - [2020-04-27-我来聊聊面向模板的前端开发](https://juejin.im/post/5ea5b06651882573a67f722b) 
@@ -259,6 +260,18 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-喜闻乐见的-Benq-屏幕挂灯的山寨款终于出来的!](https://www.v2ex.com/t/667707) 
+- [2020-04-30-youtube-上的一些画面太好看了，有没有哪位大侠知道怎么弄下来](https://www.v2ex.com/t/667706) 
+- [2020-04-30-劳动维权有问必简答](https://www.v2ex.com/t/667704) 
+- [2020-04-30-有小伙伴做量化这块然后有小组或者群带上我的瞄~](https://www.v2ex.com/t/667703) 
+- [2020-04-30-招外包团队,-远程开发](https://www.v2ex.com/t/667702) 
+- [2020-04-30-老板最近喜欢阳台思考人生，抽烟加剧，是不是意味着离倒闭不远了……](https://www.v2ex.com/t/667700) 
+- [2020-04-30-坐标杭州内推-Python-后端开发-14k-20k](https://www.v2ex.com/t/667699) 
+- [2020-04-30-有办了阿里云上公司的吗？靠谱不](https://www.v2ex.com/t/667698) 
+- [2020-04-30-五一放-5-天的意义是什么，还补两天班+疫情出游不便](https://www.v2ex.com/t/667697) 
+- [2020-04-30-开源监控系统-WGCLOUD-v2.3.6-发布拉](https://www.v2ex.com/t/667696) 
+- [2020-04-30-有劳各位-V2EX-前辈帮忙参考下](https://www.v2ex.com/t/667695) 
+- [2020-04-30-HomePod-没办法作为一台“外接音箱”使用，好遗憾啊](https://www.v2ex.com/t/667694) 
 - [2020-04-30-语雀客户端-yu-note](https://www.v2ex.com/t/667693) 
 - [2020-04-30-使用「自动切换输入法」「超级右键」「iShot-截图」的用户小心了](https://www.v2ex.com/t/667692) 
 - [2020-04-30-域名未备案，本地域名-host-指向阿里云也会被拦截](https://www.v2ex.com/t/667691) 

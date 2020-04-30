@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 15:30:21，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 16:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -299,8 +299,8 @@
 </summary>
 
 
-- [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4) ![](assets/new.png)  
-- [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00) ![](assets/new.png)  
+- [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
+- [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
 - [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
 - [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/56ca1b7d3e67469c3bf65670bcd4ee5c)  
 - [2020-04-29-我们应该如何度过-2020-的另外-2/3-？-|-极客大学](https://www.ershicimi.com/p/ba6e134e9528b5c9275088c5e332b2db)  
@@ -849,26 +849,26 @@
 </summary>
 
 
-- [2020-04-30-老项目迁移完-神清气爽](https://www.v2ex.com/t/667647) ![](assets/new.png)  
-- [2020-04-30-iteye-是不是没人维护了](https://www.v2ex.com/t/667646) ![](assets/new.png)  
-- [2020-04-30-如何简单实现-Gmail-邮件触发某个-API？](https://www.v2ex.com/t/667645) ![](assets/new.png)  
-- [2020-04-30-百度富文本-ueditor-混编](https://www.v2ex.com/t/667644) ![](assets/new.png)  
-- [2020-04-30-怎样禁止阿里云服务器通过控制台重置-root-密码？](https://www.v2ex.com/t/667642) ![](assets/new.png)  
-- [2020-04-30-杭州-React-Web-开发12k-15k](https://www.v2ex.com/t/667641) ![](assets/new.png)  
-- [2020-04-30-良心云-99-元的服务器快到期了，有没有好的替换方案？](https://www.v2ex.com/t/667640) ![](assets/new.png)  
-- [2020-04-30-北京奇虎-360-安全工程研究院用人单位直招，流程简单，只看能力，不看学历，诚聘-web-后端-&-服务端开发工程师](https://www.v2ex.com/t/667638) ![](assets/new.png)  
-- [2020-04-30-去年-4，-5-月份办的江苏联通免-1-年卡，要到期了](https://www.v2ex.com/t/667637) ![](assets/new.png)  
-- [2020-04-30-华为-OD-干了一段时间跑路了，大家有什么要问的](https://www.v2ex.com/t/667636) ![](assets/new.png)  
-- [2020-04-30-小程序提交审核的时候被驳回，说白屏，还给了个截图，看着像虚拟机。会不会是测试那边小程序加载的问题？](https://www.v2ex.com/t/667635) ![](assets/new.png)  
-- [2020-04-30-❤️macbook-pro-怎么用上-smartisan-TNT-呢？试过虚拟机不可以，有大佬成功的吗？](https://www.v2ex.com/t/667634) ![](assets/new.png)  
-- [2020-04-30-五一正是读书日~-大家来推荐一两本自己觉得最好的书/书单](https://www.v2ex.com/t/667633) ![](assets/new.png)  
-- [2020-04-30-蚂蚁金服诚聘资深-Java-研发、-Go-研发、容器调度-SRE](https://www.v2ex.com/t/667632) ![](assets/new.png)  
-- [2020-04-30-求指点，-18-届-211-本科要做怎样的努力才有希望拿到大厂-Offer？](https://www.v2ex.com/t/667628) ![](assets/new.png)  
-- [2020-04-30-js-只有一个线程，那么用了异步，等待-io-的时候，不用消耗线程吗？没有一个守护线程去等待-io-吗](https://www.v2ex.com/t/667626) ![](assets/new.png)  
-- [2020-04-30-有感于最近工作难找](https://www.v2ex.com/t/667625) ![](assets/new.png)  
-- [2020-04-30-北京到美西的线路还没好吗？](https://www.v2ex.com/t/667624) ![](assets/new.png)  
-- [2020-04-30-开一个美区的-AM+IC-的车](https://www.v2ex.com/t/667623) ![](assets/new.png)  
-- [2020-04-30-有人开-margin-note-3-mac-版教育优惠的车么？](https://www.v2ex.com/t/667622) ![](assets/new.png)  
+- [2020-04-30-机器学习量化策略岗，国内-top-对冲基金，薪资高于-BAT](https://www.v2ex.com/t/667657) ![](assets/new.png)  
+- [2020-04-30-饥荒语音助手-App，献给所有喜欢这款游戏的朋友](https://www.v2ex.com/t/667655) ![](assets/new.png)  
+- [2020-04-30-CRUD-工程师的价值是什么](https://www.v2ex.com/t/667654) ![](assets/new.png)  
+- [2020-04-30-上海联通-10-年老号码携转到了移动，地下车库再也不会没有信号了](https://www.v2ex.com/t/667653) ![](assets/new.png)  
+- [2020-04-30-五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652) ![](assets/new.png)  
+- [2020-04-30-Coupang上海北京外企软银系招聘-开发（前端-后端-Android-IOS）测试-数据分析-数据科学-算法-大数据](https://www.v2ex.com/t/667651) ![](assets/new.png)  
+- [2020-04-30-微信-PC-端首页一堆请求错误？](https://www.v2ex.com/t/667650) ![](assets/new.png)  
+- [2020-04-30-华为路由-ax3-pro-到手了。](https://www.v2ex.com/t/667649) ![](assets/new.png)  
+- [2020-04-30-做了一个小网站：播客-×-万花筒（pod.wht.one），发现与推荐高质量的华语播客](https://www.v2ex.com/t/667648) ![](assets/new.png)  
+- [2020-04-30-老项目迁移完-神清气爽](https://www.v2ex.com/t/667647)  
+- [2020-04-30-iteye-是不是没人维护了](https://www.v2ex.com/t/667646)  
+- [2020-04-30-如何简单实现-Gmail-邮件触发某个-API？](https://www.v2ex.com/t/667645)  
+- [2020-04-30-百度富文本-ueditor-混编](https://www.v2ex.com/t/667644)  
+- [2020-04-30-怎样禁止阿里云服务器通过控制台重置-root-密码？](https://www.v2ex.com/t/667642)  
+- [2020-04-30-杭州-React-Web-开发12k-15k](https://www.v2ex.com/t/667641)  
+- [2020-04-30-良心云-99-元的服务器快到期了，有没有好的替换方案？](https://www.v2ex.com/t/667640)  
+- [2020-04-30-北京奇虎-360-安全工程研究院用人单位直招，流程简单，只看能力，不看学历，诚聘-web-后端-&-服务端开发工程师](https://www.v2ex.com/t/667638)  
+- [2020-04-30-去年-4，-5-月份办的江苏联通免-1-年卡，要到期了](https://www.v2ex.com/t/667637)  
+- [2020-04-30-华为-OD-干了一段时间跑路了，大家有什么要问的](https://www.v2ex.com/t/667636)  
+- [2020-04-30-小程序提交审核的时候被驳回，说白屏，还给了个截图，看着像虚拟机。会不会是测试那边小程序加载的问题？](https://www.v2ex.com/t/667635)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

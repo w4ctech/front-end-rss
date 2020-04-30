@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,6 +412,7 @@
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652)
 - [【V2EX】有没有短视频运营管理系统，支持多个网站的](https://www.v2ex.com/t/667577)
 - [【V2EX】为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)
 - [【V2EX】我终于学会了把视频从电脑转移到-iPhone](https://www.v2ex.com/t/667494)
@@ -425,7 +426,6 @@
 - [【V2EX】请教一个直播流延时的问题，不是降低延迟，是增加延迟](https://www.v2ex.com/t/667100)
 - [【V2EX】虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/666925)
 - [【V2EX】能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)
-- [【V2EX】笔记本电脑只有一个-hdmi-接口和一个-type-c-接口，但-type-c-接口不支持视频传输，我想外接两个显示器，但两个显示器得能做到显示不同内容那种，不能只是复制，...](https://www.v2ex.com/t/666636)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -527,13 +527,13 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】Coupang上海北京外企软银系招聘-开发（前端-后端-Android-IOS）测试-数据分析-数据科学-算法-大数据](https://www.v2ex.com/t/667651)
 - [【V2EX】济南-后端、全栈、前端工程师](https://www.v2ex.com/t/667603)
 - [【V2EX】fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561)
 - [【V2EX】惊了,-.net-开发都默认是全栈吗???](https://www.v2ex.com/t/667407)
 - [【V2EX】零基础转-CS-岗从这儿开始！《算法基础班》帮你一站式解决入门问题](https://www.v2ex.com/t/667346)
 - [【V2EX】校招内推阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/667250)
 - [【V2EX】百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推，实时反馈](https://www.v2ex.com/t/666944)
-- [【V2EX】求助-IIS+wfastcgi+Flask-网站部署失败](https://www.v2ex.com/t/666930)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

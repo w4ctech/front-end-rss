@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 12:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 13:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -330,8 +330,8 @@
 </summary>
 
 
-- [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa) ![](assets/new.png)  
-- [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81) ![](assets/new.png)  
+- [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa)  
+- [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81)  
 - [2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7)  
 - [2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305)  
 - [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0)  
@@ -848,15 +848,15 @@
 </summary>
 
 
-- [2020-04-30-各位大佬们，求推荐一款电烙铁](https://www.v2ex.com/t/667565) ![](assets/new.png)  
-- [2020-04-30-19-届不满一年社招压价压得厉害](https://www.v2ex.com/t/667564) ![](assets/new.png)  
-- [2020-04-30-为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563) ![](assets/new.png)  
-- [2020-04-30-想做一个垂直行业的信息站，类似于分类信息](https://www.v2ex.com/t/667562) ![](assets/new.png)  
-- [2020-04-30-fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561) ![](assets/new.png)  
-- [2020-04-30-分布式和分布式不一样嘛？](https://www.v2ex.com/t/667560) ![](assets/new.png)  
-- [2020-04-30-嵌入式还值得学吗？](https://www.v2ex.com/t/667558) ![](assets/new.png)  
-- [2020-04-30-前几天看到有人在褥羊毛，有大佬在搞这些副业吗？](https://www.v2ex.com/t/667557) ![](assets/new.png)  
-- [2020-04-30-打算离职，不在从事-IT-行业了](https://www.v2ex.com/t/667556) ![](assets/new.png)  
+- [2020-04-30-各位大佬们，求推荐一款电烙铁](https://www.v2ex.com/t/667565)  
+- [2020-04-30-19-届不满一年社招压价压得厉害](https://www.v2ex.com/t/667564)  
+- [2020-04-30-为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)  
+- [2020-04-30-想做一个垂直行业的信息站，类似于分类信息](https://www.v2ex.com/t/667562)  
+- [2020-04-30-fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561)  
+- [2020-04-30-分布式和分布式不一样嘛？](https://www.v2ex.com/t/667560)  
+- [2020-04-30-嵌入式还值得学吗？](https://www.v2ex.com/t/667558)  
+- [2020-04-30-前几天看到有人在褥羊毛，有大佬在搞这些副业吗？](https://www.v2ex.com/t/667557)  
+- [2020-04-30-打算离职，不在从事-IT-行业了](https://www.v2ex.com/t/667556)  
 - [2020-04-30-请问-在国内的-阿里云服务器-上的-WordPress-是否能够正常使用-Google-Adsense-的-Site-Kit-插件？](https://www.v2ex.com/t/667554)  
 - [2020-04-30-上海-杭州-难道没有找-Java-工作的人才吗?](https://www.v2ex.com/t/667553)  
 - [2020-04-30-有没有网页收藏的工具，最好是浏览器插件？或者较简单的开发方法](https://www.v2ex.com/t/667552)  
@@ -910,6 +910,10 @@
 </summary>
 
 
+- [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j) ![](assets/new.png)  
+- [2020-04-30-数据源管理：PostgreSQL-环境整合，JSON-类型应用](https://toutiao.io/k/s31mimh) ![](assets/new.png)  
+- [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon) ![](assets/new.png)  
+- [2020-04-30-三年之久的-etcd3-数据不一致-bug-分析](https://toutiao.io/k/ktso06v) ![](assets/new.png)  
 - [2020-04-30-基于-XA-事务协议，用代码实现一个二阶段分布式事务](https://toutiao.io/k/0smcarv)  
 - [2020-04-30-译-敏捷案例：亚马逊是如何敏捷起来的](https://toutiao.io/k/5sddabl)  
 - [2020-04-30-数据库密码配置项都不加密？心也太大了](https://toutiao.io/k/nmxfe77)  
@@ -926,10 +930,6 @@
 - [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y)  
 - [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s)  
 - [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a)  
-- [2020-04-29-音视频基础之多媒体封装格式](https://toutiao.io/k/c6okpg9)  
-- [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc)  
-- [2020-04-29-2020-年有哪些副业可以做](https://toutiao.io/k/71u3q9n)  
-- [2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

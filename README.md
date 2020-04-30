@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 00:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 01:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -853,26 +853,26 @@
 </summary>
 
 
-- [2020-04-30-回形针最新一期，回形针是怎么做视频的](https://www.v2ex.com/t/667786) ![](assets/new.png)  
-- [2020-04-30-人工智能训练数据如何存储？存储数据最大的痛点是什么？](https://www.v2ex.com/t/667785) ![](assets/new.png)  
+- [2020-05-01-员工拒绝加班被判赔偿公司-1-万-8，奇怪的事件增加了！这会不会是一个历史存档~](https://www.v2ex.com/t/667802) ![](assets/new.png)  
+- [2020-05-01-现在有非曲面屏的旗舰-865-么？](https://www.v2ex.com/t/667801) ![](assets/new.png)  
+- [2020-05-01-求助-有没有老哥来救救妹纸，老师布置的-Apache2-作业哈](https://www.v2ex.com/t/667799) ![](assets/new.png)  
+- [2020-05-01-半夜发帖吐槽一下天猫的价保规则。](https://www.v2ex.com/t/667798) ![](assets/new.png)  
+- [2020-05-01-京东购买的物品有划痕，拒收后换新-or-退货该如何选？？](https://www.v2ex.com/t/667796) ![](assets/new.png)  
+- [2020-05-01-研究了一天-Android-使用-app_process-启动-Java-类，失败了，代码丢-Github-上了，哪位-V-帮看看](https://www.v2ex.com/t/667795) ![](assets/new.png)  
+- [2020-05-01-深圳-招聘-PHP-开发工程师](https://www.v2ex.com/t/667794) ![](assets/new.png)  
+- [2020-05-01-求助-Python-多线程通信-好心人救救孩子，点开工资超级加倍](https://www.v2ex.com/t/667793) ![](assets/new.png)  
+- [2020-05-01-疫情期间大部分企业都在裁员，而快手却要招聘-1-万名员工](https://www.v2ex.com/t/667792) ![](assets/new.png)  
+- [2020-05-01-百度把首页和账号中心美化了](https://www.v2ex.com/t/667791) ![](assets/new.png)  
+- [2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) ![](assets/new.png)  
+- [2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) ![](assets/new.png)  
+- [2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) ![](assets/new.png)  
+- [2020-04-30-回形针最新一期，回形针是怎么做视频的](https://www.v2ex.com/t/667786)  
+- [2020-04-30-人工智能训练数据如何存储？存储数据最大的痛点是什么？](https://www.v2ex.com/t/667785)  
 - [2020-04-30-合肥-招聘-PHP-研发工程师啦！](https://www.v2ex.com/t/667784)  
 - [2020-04-30-django-modelform-问题请教](https://www.v2ex.com/t/667782)  
 - [2020-04-30-又到夏天了-有什么好的笔记本散热设备推荐😁](https://www.v2ex.com/t/667781)  
 - [2020-04-30-pandas-中的-@-运算是什么意思？](https://www.v2ex.com/t/667780)  
 - [2020-04-30-开始更新-Laravel-精品课教程，希望助力更多同学成为全栈工程师](https://www.v2ex.com/t/667779)  
-- [2020-04-30-请教一下-买良心云主机的最佳方式](https://www.v2ex.com/t/667778)  
-- [2020-04-30-请教一下移动光猫里关掉-QoS-会引起-Ping-升高吗](https://www.v2ex.com/t/667777)  
-- [2020-04-30-深圳-新加坡-Shopee-各岗位招聘-薪水-20k-到-50k](https://www.v2ex.com/t/667776)  
-- [2020-04-30-Airpods-Pro-在-Windows-10-上用不了麦克风，有大佬知道怎么解决吗](https://www.v2ex.com/t/667775)  
-- [2020-04-30-好像有人在爬-v2ex，然后提交到-github，然后不小心-@了我](https://www.v2ex.com/t/667773)  
-- [2020-04-30-突然在想其他技能型职业会不会也有类似-CRUD-的乏味感，比如医生](https://www.v2ex.com/t/667772)  
-- [2020-04-30-想参与-Redux.js-最新版本的中文文档翻译工作吗？](https://www.v2ex.com/t/667771)  
-- [2020-04-30-谷歌云注册时所用的节点国家需要和所填写的客户信息国家一致吗？](https://www.v2ex.com/t/667770)  
-- [2020-04-30-大佬们，小白学-Python-是看谁能学得最正宗啊，讲课简单明了，书和视频都可以。](https://www.v2ex.com/t/667769)  
-- [2020-04-30-实锤美团大数据杀熟！](https://www.v2ex.com/t/667768)  
-- [2020-04-30-Edge-Chrome-有什么办法可以双击标签页栏关闭标签页么](https://www.v2ex.com/t/667767)  
-- [2020-04-30-看了下朋友的拉钩-APP-上的主动邀约数量极其震惊，与其对比一个天一个地](https://www.v2ex.com/t/667765)  
-- [2020-04-30-Tombkeeper:-公关能力可以用删帖能力来衡量。最顶级的是能从-V2EX-上删帖。-​​​​-狗头](https://www.v2ex.com/t/667764)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

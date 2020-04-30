@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -97,6 +97,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-01-员工拒绝加班被判赔偿公司-1-万-8，奇怪的事件增加了！这会不会是一个历史存档~](https://www.v2ex.com/t/667802) 
 - [2020-04-30-两台同个网络中的-mac，相互-ping-不通，文件共享也连不上，屏幕共享也连不，同一网段同个路由器下面。系统是-10.15.4。这是为何？](https://www.v2ex.com/t/667752) 
 - [2020-04-30-华为路由-ax3-pro-到手了。](https://www.v2ex.com/t/667649) 
 - [2020-04-30-js-只有一个线程，那么用了异步，等待-io-的时候，不用消耗线程吗？没有一个守护线程去等待-io-吗](https://www.v2ex.com/t/667626) 

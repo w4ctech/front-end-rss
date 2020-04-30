@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -251,6 +251,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473) 
+- [2020-04-30-个人站长很孤独，求大佬入住](https://www.v2ex.com/t/667471) 
+- [2020-04-30-请问相同运动时长，是有氧区间的燃脂量最大吗？](https://www.v2ex.com/t/667470) 
+- [2020-04-30-做音乐也要有互联网思维，如何站在中国风口上当成-flypig](https://www.v2ex.com/t/667469) 
 - [2020-04-30-手机微信不显示-Windows-微信已登录](https://www.v2ex.com/t/667468) 
 - [2020-04-30-西数公布了-smr-硬盘型号，有中招的吗？](https://www.v2ex.com/t/667466) 
 - [2020-04-30-这种情况把内存升级到-32G-可以改善卡的状况么](https://www.v2ex.com/t/667465) 
@@ -1517,6 +1521,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s) 
 - [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc) 
 - [2020-04-29-2020-年有哪些副业可以做](https://toutiao.io/k/71u3q9n) 
 - [2020-04-29-在-Mac-下，实现与服务器进行便捷的文件上传和下载操作](https://toutiao.io/k/s5gng8m) 

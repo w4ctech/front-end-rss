@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 08:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -837,8 +837,13 @@
 </summary>
 
 
-- [2020-04-30-手机微信不显示-Windows-微信已登录](https://www.v2ex.com/t/667468) ![](assets/new.png)  
-- [2020-04-30-西数公布了-smr-硬盘型号，有中招的吗？](https://www.v2ex.com/t/667466) ![](assets/new.png)  
+- [2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473) ![](assets/new.png)  
+- [2020-04-30-有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472) ![](assets/new.png)  
+- [2020-04-30-个人站长很孤独，求大佬入住](https://www.v2ex.com/t/667471) ![](assets/new.png)  
+- [2020-04-30-请问相同运动时长，是有氧区间的燃脂量最大吗？](https://www.v2ex.com/t/667470) ![](assets/new.png)  
+- [2020-04-30-做音乐也要有互联网思维，如何站在中国风口上当成-flypig](https://www.v2ex.com/t/667469) ![](assets/new.png)  
+- [2020-04-30-手机微信不显示-Windows-微信已登录](https://www.v2ex.com/t/667468)  
+- [2020-04-30-西数公布了-smr-硬盘型号，有中招的吗？](https://www.v2ex.com/t/667466)  
 - [2020-04-30-这种情况把内存升级到-32G-可以改善卡的状况么](https://www.v2ex.com/t/667465)  
 - [2020-04-30-端传媒及华尔街日报](https://www.v2ex.com/t/667464)  
 - [2020-04-30-端传媒尊享及华尔街日报](https://www.v2ex.com/t/667463)  
@@ -852,11 +857,6 @@
 - [2020-04-30-评绩效和调薪时和老板辩论有用么](https://www.v2ex.com/t/667454)  
 - [2020-04-30-给磁力链加个-"离线到-115"-按钮](https://www.v2ex.com/t/667453)  
 - [2020-04-30-LEDE-映射-FTP](https://www.v2ex.com/t/667452)  
-- [2020-04-30-个人财产被某些部门侵害，很绝望](https://www.v2ex.com/t/667451)  
-- [2020-04-29-我听说有非官方-store-的苹果-APP？到底是什么原理？安不安全？？](https://www.v2ex.com/t/667450)  
-- [2020-04-29-全职远程-独立产品团队-诚聘-高级-iOS-开发者](https://www.v2ex.com/t/667449)  
-- [2020-04-29-求问去一个做行李管理系统之类机场服务的公司，选择后端还是前端呢？](https://www.v2ex.com/t/667447)  
-- [2020-04-29-普通二本-2020-应届生，前端求职，-0-offer-，求各位大佬看看简历，给点建议](https://www.v2ex.com/t/667446)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -899,6 +899,8 @@
 </summary>
 
 
+- [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y) ![](assets/new.png)  
+- [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s) ![](assets/new.png)  
 - [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a)  
 - [2020-04-29-音视频基础之多媒体封装格式](https://toutiao.io/k/c6okpg9)  
 - [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc)  
@@ -917,8 +919,6 @@
 - [2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w)  
 - [2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q)  
 - [2020-04-29-头条/支付宝/猿辅导面试经历](https://toutiao.io/k/b9nig0c)  
-- [2020-04-29-每天都在用，但你知道-Tomcat-的线程池有多努力吗？](https://toutiao.io/k/0mzq84d)  
-- [2020-04-29-教你如何写初/高级技术岗位简历](https://toutiao.io/k/p8x3xp1)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

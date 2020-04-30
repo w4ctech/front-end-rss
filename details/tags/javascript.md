@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -92,6 +92,9 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-30-如何在软路由上跑-uu-加速器插件](https://www.v2ex.com/t/667536) 
+- [2020-04-30-状态模式和事件触发切换状态可以整合什么库来做-Python-程序设计？](https://www.v2ex.com/t/667531) 
+- [2020-04-30-经过一系列的努力，-Api-管理及自动化测试工具-OPIPING，成功适配国产操作系统-UOS-V20](https://www.v2ex.com/t/667523) 
 - [2020-04-30-有没有大佬能告知-chrome-上是否有可以定义快捷键运行-JavaScript-脚本的扩展或者其他方法](https://www.v2ex.com/t/667520) 
 - [2020-04-29-爬虫遇到-js-加密问题-想请教一下前端大哥们](https://www.v2ex.com/t/667364) 
 - [2020-04-29-上海北京-Farfetch-内推-2020.](https://www.v2ex.com/t/667267) 

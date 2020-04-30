@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 11:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 11:30:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -628,10 +628,10 @@
 </summary>
 
 
-- [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) ![](assets/new.png)  
-- [2020-04-30-清华新生C++作业难上热搜！大厂猎头表示做上了直接给offer](https://www.ershicimi.com/p/cd293035206237c80bbbb67ab3da12ba) ![](assets/new.png)  
-- [2020-04-30-变量命名还在谷歌百度翻译？OUT啦!分享一个我日常工作中常用的变量命名神器！](https://www.ershicimi.com/p/c258e98f52c90eac18727afe58b4f249) ![](assets/new.png)  
-- [2020-04-30-提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488) ![](assets/new.png)  
+- [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)  
+- [2020-04-30-清华新生C++作业难上热搜！大厂猎头表示做上了直接给offer](https://www.ershicimi.com/p/cd293035206237c80bbbb67ab3da12ba)  
+- [2020-04-30-变量命名还在谷歌百度翻译？OUT啦!分享一个我日常工作中常用的变量命名神器！](https://www.ershicimi.com/p/c258e98f52c90eac18727afe58b4f249)  
+- [2020-04-30-提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)  
 - [2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0)  
 - [2020-04-29-架构篇：什么才是真正的架构设计？](https://www.ershicimi.com/p/ea4477b05474129442282f8ef7680b8b)  
 - [2020-04-29-JAVA-线上故障排查完整套路！牛掰！](https://www.ershicimi.com/p/21e2f3c3c762888d5944cec421e33a49)  
@@ -846,26 +846,26 @@
 </summary>
 
 
-- [2020-04-30-LineageOS-17.1-上，在-google-play-下载的"google-电话"-app，拨不了-120，-110](https://www.v2ex.com/t/667521)  
-- [2020-04-30-有没有大佬能告知-chrome-上是否有可以定义快捷键运行-JavaScript-脚本的扩展或者其他方法](https://www.v2ex.com/t/667520)  
-- [2020-04-30-有点儿困惑：-scrapy-redis-使用不同的-db，哪种方式更好？](https://www.v2ex.com/t/667519)  
-- [2020-04-30-微信聊天记录迁移后手机端的聊天记录混乱](https://www.v2ex.com/t/667517)  
-- [2020-04-30-K8S-部署-Hadoop-好吗？](https://www.v2ex.com/t/667516)  
-- [2020-04-30-Grace-Note-一款基于-git-的知识管理软件](https://www.v2ex.com/t/667515)  
-- [2020-04-30-工具类相关小程序关于审核的疑问](https://www.v2ex.com/t/667514)  
-- [2020-04-30-iPhone-强制-6-位密码，经常输完密码发现少-1-位。。。](https://www.v2ex.com/t/667513)  
-- [2020-04-30-PicGo-经常服务器出错，无法上传图片](https://www.v2ex.com/t/667511)  
-- [2020-04-30-度盘上传限速，有办法嘛](https://www.v2ex.com/t/667509)  
-- [2020-04-30-wox-的自动检索频率是多久一次？](https://www.v2ex.com/t/667508)  
-- [2020-04-30-微信能不能在群设置增加个自动下载群文件选项？](https://www.v2ex.com/t/667507)  
-- [2020-04-30-打算辞职了](https://www.v2ex.com/t/667506)  
-- [2020-04-30-客户那边有-20-个-G-的数据要传输过来，有什么靠谱的方案吗？](https://www.v2ex.com/t/667505)  
-- [2020-04-30-v-站可以转租房子吗？我好像没看到相关节点](https://www.v2ex.com/t/667504)  
-- [2020-04-30-我的香港阿里轻量云被改密码重启，看-history-没发现执行命令](https://www.v2ex.com/t/667503)  
-- [2020-04-30-安利一个剧，-S.C.I.谜案集,喜欢悬疑、犯罪心理的可以看下](https://www.v2ex.com/t/667502)  
-- [2020-04-30-某知名企业，急寻一位-SRE-高级专家](https://www.v2ex.com/t/667501)  
-- [2020-04-30-海外兔-|-谷歌-HR-的新加坡工作经验](https://www.v2ex.com/t/667500)  
-- [2020-04-30-特斯拉这次真的降价了。](https://www.v2ex.com/t/667499)  
+- [2020-04-30-请问-在国内的-阿里云服务器-上的-WordPress-是否能够正常使用-Google-Adsense-的-Site-Kit-插件？](https://www.v2ex.com/t/667554) ![](assets/new.png)  
+- [2020-04-30-上海-杭州-难道没有找-Java-工作的人才吗?](https://www.v2ex.com/t/667553) ![](assets/new.png)  
+- [2020-04-30-有没有网页收藏的工具，最好是浏览器插件？或者较简单的开发方法](https://www.v2ex.com/t/667552) ![](assets/new.png)  
+- [2020-04-30-有没有可以-self-host-的-Feedburner-替代品？](https://www.v2ex.com/t/667551) ![](assets/new.png)  
+- [2020-04-30-好奇外包公司怎么找到雇主的？](https://www.v2ex.com/t/667549) ![](assets/new.png)  
+- [2020-04-30-小伙伴们！求一个电脑端监控软件~~windows-的](https://www.v2ex.com/t/667546) ![](assets/new.png)  
+- [2020-04-30-4-月-30-号了，我来统计下今天摸鱼的在线人数](https://www.v2ex.com/t/667545) ![](assets/new.png)  
+- [2020-04-30-大家申请了-moe-域名好像都不怎么用呀](https://www.v2ex.com/t/667544) ![](assets/new.png)  
+- [2020-04-30-我制作了一档新的播客《无籍之谈》，希望大家会喜欢](https://www.v2ex.com/t/667543) ![](assets/new.png)  
+- [2020-04-30-各位真正的上进青年，网上的有价值的文章你拿什么来整理和收藏？](https://www.v2ex.com/t/667542) ![](assets/new.png)  
+- [2020-04-30-很好奇，那些低价会员都是什么渠道？](https://www.v2ex.com/t/667541) ![](assets/new.png)  
+- [2020-04-30-请教一下-Java-大佬，大量使用反射进行回调，是什么套路？](https://www.v2ex.com/t/667540) ![](assets/new.png)  
+- [2020-04-30-加上现在推出的新版的-iPhone-se2-预算在-4000-怎么选择-iPhone-手机？](https://www.v2ex.com/t/667539) ![](assets/new.png)  
+- [2020-04-30-没事就喜欢打开-applestore](https://www.v2ex.com/t/667538) ![](assets/new.png)  
+- [2020-04-30-西安-腾讯云边缘计算后台研发工程师](https://www.v2ex.com/t/667537) ![](assets/new.png)  
+- [2020-04-30-如何在软路由上跑-uu-加速器插件](https://www.v2ex.com/t/667536) ![](assets/new.png)  
+- [2020-04-30-Mac-版微信-内存如何定时清理？](https://www.v2ex.com/t/667533) ![](assets/new.png)  
+- [2020-04-30-怎么今天短网址生成都是失败的，都提示免费次数用完了。](https://www.v2ex.com/t/667532) ![](assets/new.png)  
+- [2020-04-30-状态模式和事件触发切换状态可以整合什么库来做-Python-程序设计？](https://www.v2ex.com/t/667531) ![](assets/new.png)  
+- [2020-04-30-寻求创业者合作](https://www.v2ex.com/t/667530) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

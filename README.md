@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 13:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 13:30:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -848,26 +848,26 @@
 </summary>
 
 
+- [2020-04-30-Model-3-国产再降价到-30-万以下了](https://www.v2ex.com/t/667588) ![](assets/new.png)  
+- [2020-04-30-大佬们，有-MAC-上可用的-iNode-智能客户端-或者有什么软件可以代替-iNode-智能客户端-的吗？](https://www.v2ex.com/t/667586) ![](assets/new.png)  
+- [2020-04-30-大家觉得买下这个-MBP17-值吗？](https://www.v2ex.com/t/667585) ![](assets/new.png)  
+- [2020-04-30-要一起来玩水嘛，划艇、登岛，假期走出去](https://www.v2ex.com/t/667584) ![](assets/new.png)  
+- [2020-04-30-我们做了一些简历模板，希望能够帮大家的简历快速过筛](https://www.v2ex.com/t/667583) ![](assets/new.png)  
+- [2020-04-30-早起读书笔记《知行-技术人的管理之路》](https://www.v2ex.com/t/667582) ![](assets/new.png)  
+- [2020-04-30-有-V-友知道淘宝上面的-switch-游戏卡是从哪里进货的嘛？](https://www.v2ex.com/t/667581) ![](assets/new.png)  
+- [2020-04-30-大家找工作笔试最多能接受几道智力题？](https://www.v2ex.com/t/667580) ![](assets/new.png)  
+- [2020-04-30-GV-无法注册微信？](https://www.v2ex.com/t/667579) ![](assets/new.png)  
+- [2020-04-30-求助-关于微信深色模式下-推送文章背景的渲染机制](https://www.v2ex.com/t/667578) ![](assets/new.png)  
+- [2020-04-30-有没有短视频运营管理系统，支持多个网站的](https://www.v2ex.com/t/667577) ![](assets/new.png)  
+- [2020-04-30-CS-本科求笔记本推荐](https://www.v2ex.com/t/667576) ![](assets/new.png)  
+- [2020-04-30-刚发现的虚拟货币-pi.-手机挖矿?-挺有意思的,-感觉是为了以后做社交用的...](https://www.v2ex.com/t/667575) ![](assets/new.png)  
+- [2020-04-30-今年下半年准备出去找工作,希望大家帮我看看简历.谢谢](https://www.v2ex.com/t/667573) ![](assets/new.png)  
+- [2020-04-30-Gunicorn-启动由-virtualenv-和-venv-创建的-Python-运行环境，启动命令是通用的吗？](https://www.v2ex.com/t/667572) ![](assets/new.png)  
+- [2020-04-30-Google-Play-版-QQ-无法联网](https://www.v2ex.com/t/667571) ![](assets/new.png)  
+- [2020-04-30-关于-VENV，-virtualenv-等工具的疑问](https://www.v2ex.com/t/667570) ![](assets/new.png)  
+- [2020-04-30-单间转租-1750-包水网，-13-号华鹏路附近，大华锦绣华城-2-街坊](https://www.v2ex.com/t/667569) ![](assets/new.png)  
+- [2020-04-30-问个-selector-的问题](https://www.v2ex.com/t/667567) ![](assets/new.png)  
 - [2020-04-30-各位大佬们，求推荐一款电烙铁](https://www.v2ex.com/t/667565)  
-- [2020-04-30-19-届不满一年社招压价压得厉害](https://www.v2ex.com/t/667564)  
-- [2020-04-30-为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)  
-- [2020-04-30-想做一个垂直行业的信息站，类似于分类信息](https://www.v2ex.com/t/667562)  
-- [2020-04-30-fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561)  
-- [2020-04-30-分布式和分布式不一样嘛？](https://www.v2ex.com/t/667560)  
-- [2020-04-30-嵌入式还值得学吗？](https://www.v2ex.com/t/667558)  
-- [2020-04-30-前几天看到有人在褥羊毛，有大佬在搞这些副业吗？](https://www.v2ex.com/t/667557)  
-- [2020-04-30-打算离职，不在从事-IT-行业了](https://www.v2ex.com/t/667556)  
-- [2020-04-30-请问-在国内的-阿里云服务器-上的-WordPress-是否能够正常使用-Google-Adsense-的-Site-Kit-插件？](https://www.v2ex.com/t/667554)  
-- [2020-04-30-上海-杭州-难道没有找-Java-工作的人才吗?](https://www.v2ex.com/t/667553)  
-- [2020-04-30-有没有网页收藏的工具，最好是浏览器插件？或者较简单的开发方法](https://www.v2ex.com/t/667552)  
-- [2020-04-30-有没有可以-self-host-的-Feedburner-替代品？](https://www.v2ex.com/t/667551)  
-- [2020-04-30-好奇外包公司怎么找到雇主的？](https://www.v2ex.com/t/667549)  
-- [2020-04-30-小伙伴们！求一个电脑端监控软件~~windows-的](https://www.v2ex.com/t/667546)  
-- [2020-04-30-4-月-30-号了，我来统计下今天摸鱼的在线人数](https://www.v2ex.com/t/667545)  
-- [2020-04-30-大家申请了-moe-域名好像都不怎么用呀](https://www.v2ex.com/t/667544)  
-- [2020-04-30-我制作了一档新的播客《无籍之谈》，希望大家会喜欢](https://www.v2ex.com/t/667543)  
-- [2020-04-30-各位真正的上进青年，网上的有价值的文章你拿什么来整理和收藏？](https://www.v2ex.com/t/667542)  
-- [2020-04-30-很好奇，那些低价会员都是什么渠道？](https://www.v2ex.com/t/667541)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -910,10 +910,10 @@
 </summary>
 
 
-- [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j) ![](assets/new.png)  
-- [2020-04-30-数据源管理：PostgreSQL-环境整合，JSON-类型应用](https://toutiao.io/k/s31mimh) ![](assets/new.png)  
-- [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon) ![](assets/new.png)  
-- [2020-04-30-三年之久的-etcd3-数据不一致-bug-分析](https://toutiao.io/k/ktso06v) ![](assets/new.png)  
+- [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j)  
+- [2020-04-30-数据源管理：PostgreSQL-环境整合，JSON-类型应用](https://toutiao.io/k/s31mimh)  
+- [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon)  
+- [2020-04-30-三年之久的-etcd3-数据不一致-bug-分析](https://toutiao.io/k/ktso06v)  
 - [2020-04-30-基于-XA-事务协议，用代码实现一个二阶段分布式事务](https://toutiao.io/k/0smcarv)  
 - [2020-04-30-译-敏捷案例：亚马逊是如何敏捷起来的](https://toutiao.io/k/5sddabl)  
 - [2020-04-30-数据库密码配置项都不加密？心也太大了](https://toutiao.io/k/nmxfe77)  

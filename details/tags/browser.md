@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-04-30-求助-关于微信深色模式下-推送文章背景的渲染机制](https://www.v2ex.com/t/667578) 
 - [2020-04-30-有没有网页收藏的工具，最好是浏览器插件？或者较简单的开发方法](https://www.v2ex.com/t/667552) 
 - [2020-04-30-有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472) 
 - [2020-04-30-Mac-上-Safari-跑分比-Chrome-高，为何感觉-Chrome-更快？](https://www.v2ex.com/t/667458) 

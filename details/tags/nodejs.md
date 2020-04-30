@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -24,6 +24,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-04-30-大佬们，有-MAC-上可用的-iNode-智能客户端-或者有什么软件可以代替-iNode-智能客户端-的吗？](https://www.v2ex.com/t/667586) 
 - [2020-04-29-pymssql-连接-sql-server-express](https://www.v2ex.com/t/667210) 
 - [2020-04-29-electron-使用-web-worker-上传批量的文件（7W+）报-Maximum-call-stack-size-exceeded-错误](https://www.v2ex.com/t/667204) 
 - [2020-04-29-web-worker-中不能使用-node.js-fs.promises?](https://www.v2ex.com/t/667181) 

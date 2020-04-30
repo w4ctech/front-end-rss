@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -49,6 +49,8 @@
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa) 
+- [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81) 
 - [2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7) 
 - [2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305) 
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
@@ -256,6 +258,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-各位大佬们，求推荐一款电烙铁](https://www.v2ex.com/t/667565) 
+- [2020-04-30-19-届不满一年社招压价压得厉害](https://www.v2ex.com/t/667564) 
+- [2020-04-30-想做一个垂直行业的信息站，类似于分类信息](https://www.v2ex.com/t/667562) 
+- [2020-04-30-分布式和分布式不一样嘛？](https://www.v2ex.com/t/667560) 
+- [2020-04-30-嵌入式还值得学吗？](https://www.v2ex.com/t/667558) 
+- [2020-04-30-前几天看到有人在褥羊毛，有大佬在搞这些副业吗？](https://www.v2ex.com/t/667557) 
+- [2020-04-30-打算离职，不在从事-IT-行业了](https://www.v2ex.com/t/667556) 
 - [2020-04-30-请问-在国内的-阿里云服务器-上的-WordPress-是否能够正常使用-Google-Adsense-的-Site-Kit-插件？](https://www.v2ex.com/t/667554) 
 - [2020-04-30-上海-杭州-难道没有找-Java-工作的人才吗?](https://www.v2ex.com/t/667553) 
 - [2020-04-30-有没有可以-self-host-的-Feedburner-替代品？](https://www.v2ex.com/t/667551) 

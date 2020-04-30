@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,6 +412,7 @@
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)
 - [【V2EX】我终于学会了把视频从电脑转移到-iPhone](https://www.v2ex.com/t/667494)
 - [【V2EX】视频只能用-flash-播放怎么办？](https://www.v2ex.com/t/667427)
 - [【V2EX】群辉现在有办法把硬盘里面存的一些照片和-4K-视频上传到-Google-Photos-上吗？](https://www.v2ex.com/t/667358)
@@ -425,7 +426,6 @@
 - [【V2EX】能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)
 - [【V2EX】笔记本电脑只有一个-hdmi-接口和一个-type-c-接口，但-type-c-接口不支持视频传输，我想外接两个显示器，但两个显示器得能做到显示不同内容那种，不能只是复制，...](https://www.v2ex.com/t/666636)
 - [【V2EX】佳能医疗-求生物信息、医学图像算法研究员，-Bioinformatics-实习生！](https://www.v2ex.com/t/666634)
-- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后端开发，-Server-开发工程师，平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/666625)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -527,13 +527,13 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561)
 - [【V2EX】惊了,-.net-开发都默认是全栈吗???](https://www.v2ex.com/t/667407)
 - [【V2EX】零基础转-CS-岗从这儿开始！《算法基础班》帮你一站式解决入门问题](https://www.v2ex.com/t/667346)
 - [【V2EX】校招内推阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/667250)
 - [【V2EX】百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推，实时反馈](https://www.v2ex.com/t/666944)
 - [【V2EX】求助-IIS+wfastcgi+Flask-网站部署失败](https://www.v2ex.com/t/666930)
 - [【V2EX】🔥🔥🔥腾讯全国🔥🔥🔥巨量-HC-火热内推中,HC-太多候选人太少！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥🔥](https://www.v2ex.com/t/666903)
-- [【V2EX】校招内推阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/666644)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

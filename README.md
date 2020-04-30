@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 11:30:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 12:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -330,6 +330,8 @@
 </summary>
 
 
+- [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa) ![](assets/new.png)  
+- [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81) ![](assets/new.png)  
 - [2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7)  
 - [2020-04-28-浅谈前端工程化，跨端开发趋势](https://www.ershicimi.com/p/6a2fe5912072e8593156f16bf018d305)  
 - [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0)  
@@ -846,26 +848,26 @@
 </summary>
 
 
-- [2020-04-30-请问-在国内的-阿里云服务器-上的-WordPress-是否能够正常使用-Google-Adsense-的-Site-Kit-插件？](https://www.v2ex.com/t/667554) ![](assets/new.png)  
-- [2020-04-30-上海-杭州-难道没有找-Java-工作的人才吗?](https://www.v2ex.com/t/667553) ![](assets/new.png)  
-- [2020-04-30-有没有网页收藏的工具，最好是浏览器插件？或者较简单的开发方法](https://www.v2ex.com/t/667552) ![](assets/new.png)  
-- [2020-04-30-有没有可以-self-host-的-Feedburner-替代品？](https://www.v2ex.com/t/667551) ![](assets/new.png)  
-- [2020-04-30-好奇外包公司怎么找到雇主的？](https://www.v2ex.com/t/667549) ![](assets/new.png)  
-- [2020-04-30-小伙伴们！求一个电脑端监控软件~~windows-的](https://www.v2ex.com/t/667546) ![](assets/new.png)  
-- [2020-04-30-4-月-30-号了，我来统计下今天摸鱼的在线人数](https://www.v2ex.com/t/667545) ![](assets/new.png)  
-- [2020-04-30-大家申请了-moe-域名好像都不怎么用呀](https://www.v2ex.com/t/667544) ![](assets/new.png)  
-- [2020-04-30-我制作了一档新的播客《无籍之谈》，希望大家会喜欢](https://www.v2ex.com/t/667543) ![](assets/new.png)  
-- [2020-04-30-各位真正的上进青年，网上的有价值的文章你拿什么来整理和收藏？](https://www.v2ex.com/t/667542) ![](assets/new.png)  
-- [2020-04-30-很好奇，那些低价会员都是什么渠道？](https://www.v2ex.com/t/667541) ![](assets/new.png)  
-- [2020-04-30-请教一下-Java-大佬，大量使用反射进行回调，是什么套路？](https://www.v2ex.com/t/667540) ![](assets/new.png)  
-- [2020-04-30-加上现在推出的新版的-iPhone-se2-预算在-4000-怎么选择-iPhone-手机？](https://www.v2ex.com/t/667539) ![](assets/new.png)  
-- [2020-04-30-没事就喜欢打开-applestore](https://www.v2ex.com/t/667538) ![](assets/new.png)  
-- [2020-04-30-西安-腾讯云边缘计算后台研发工程师](https://www.v2ex.com/t/667537) ![](assets/new.png)  
-- [2020-04-30-如何在软路由上跑-uu-加速器插件](https://www.v2ex.com/t/667536) ![](assets/new.png)  
-- [2020-04-30-Mac-版微信-内存如何定时清理？](https://www.v2ex.com/t/667533) ![](assets/new.png)  
-- [2020-04-30-怎么今天短网址生成都是失败的，都提示免费次数用完了。](https://www.v2ex.com/t/667532) ![](assets/new.png)  
-- [2020-04-30-状态模式和事件触发切换状态可以整合什么库来做-Python-程序设计？](https://www.v2ex.com/t/667531) ![](assets/new.png)  
-- [2020-04-30-寻求创业者合作](https://www.v2ex.com/t/667530) ![](assets/new.png)  
+- [2020-04-30-各位大佬们，求推荐一款电烙铁](https://www.v2ex.com/t/667565) ![](assets/new.png)  
+- [2020-04-30-19-届不满一年社招压价压得厉害](https://www.v2ex.com/t/667564) ![](assets/new.png)  
+- [2020-04-30-为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563) ![](assets/new.png)  
+- [2020-04-30-想做一个垂直行业的信息站，类似于分类信息](https://www.v2ex.com/t/667562) ![](assets/new.png)  
+- [2020-04-30-fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561) ![](assets/new.png)  
+- [2020-04-30-分布式和分布式不一样嘛？](https://www.v2ex.com/t/667560) ![](assets/new.png)  
+- [2020-04-30-嵌入式还值得学吗？](https://www.v2ex.com/t/667558) ![](assets/new.png)  
+- [2020-04-30-前几天看到有人在褥羊毛，有大佬在搞这些副业吗？](https://www.v2ex.com/t/667557) ![](assets/new.png)  
+- [2020-04-30-打算离职，不在从事-IT-行业了](https://www.v2ex.com/t/667556) ![](assets/new.png)  
+- [2020-04-30-请问-在国内的-阿里云服务器-上的-WordPress-是否能够正常使用-Google-Adsense-的-Site-Kit-插件？](https://www.v2ex.com/t/667554)  
+- [2020-04-30-上海-杭州-难道没有找-Java-工作的人才吗?](https://www.v2ex.com/t/667553)  
+- [2020-04-30-有没有网页收藏的工具，最好是浏览器插件？或者较简单的开发方法](https://www.v2ex.com/t/667552)  
+- [2020-04-30-有没有可以-self-host-的-Feedburner-替代品？](https://www.v2ex.com/t/667551)  
+- [2020-04-30-好奇外包公司怎么找到雇主的？](https://www.v2ex.com/t/667549)  
+- [2020-04-30-小伙伴们！求一个电脑端监控软件~~windows-的](https://www.v2ex.com/t/667546)  
+- [2020-04-30-4-月-30-号了，我来统计下今天摸鱼的在线人数](https://www.v2ex.com/t/667545)  
+- [2020-04-30-大家申请了-moe-域名好像都不怎么用呀](https://www.v2ex.com/t/667544)  
+- [2020-04-30-我制作了一档新的播客《无籍之谈》，希望大家会喜欢](https://www.v2ex.com/t/667543)  
+- [2020-04-30-各位真正的上进青年，网上的有价值的文章你拿什么来整理和收藏？](https://www.v2ex.com/t/667542)  
+- [2020-04-30-很好奇，那些低价会员都是什么渠道？](https://www.v2ex.com/t/667541)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-30 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -355,6 +355,10 @@
 - [【前端日刊】2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 
 - [【前端日刊】2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
 - [【前端日刊】2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca) 
+- [【互联网架构师】2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
+- [【互联网架构师】2020-04-30-清华新生C++作业难上热搜！大厂猎头表示做上了直接给offer](https://www.ershicimi.com/p/cd293035206237c80bbbb67ab3da12ba) 
+- [【互联网架构师】2020-04-30-变量命名还在谷歌百度翻译？OUT啦!分享一个我日常工作中常用的变量命名神器！](https://www.ershicimi.com/p/c258e98f52c90eac18727afe58b4f249) 
+- [【互联网架构师】2020-04-30-提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488) 
 - [【互联网架构师】2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0) 
 - [【互联网架构师】2020-04-29-架构篇：什么才是真正的架构设计？](https://www.ershicimi.com/p/ea4477b05474129442282f8ef7680b8b) 
 - [【互联网架构师】2020-04-29-JAVA-线上故障排查完整套路！牛掰！](https://www.ershicimi.com/p/21e2f3c3c762888d5944cec421e33a49) 

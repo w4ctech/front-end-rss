@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 23:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 00:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -822,9 +822,9 @@
 </summary>
 
 
-- [2020-04-30-有哪些非常非常非常奇怪的冷知识？](https://www.ershicimi.com/p/5ffb4fbb3434df6e6dfa47cfb824bbd0) ![](assets/new.png)  
-- [2020-04-30-刚出月子的-papi-酱告诉你，待产包里都要准备什么？](https://www.ershicimi.com/p/728b6b8379ba4bf2aba3217608e450d0) ![](assets/new.png)  
-- [2020-04-30-知乎故事-|-人在医院能无知到何种程度？](https://www.ershicimi.com/p/b36d268fbb3524e1351f68486dc2911a) ![](assets/new.png)  
+- [2020-04-30-有哪些非常非常非常奇怪的冷知识？](https://www.ershicimi.com/p/5ffb4fbb3434df6e6dfa47cfb824bbd0)  
+- [2020-04-30-刚出月子的-papi-酱告诉你，待产包里都要准备什么？](https://www.ershicimi.com/p/728b6b8379ba4bf2aba3217608e450d0)  
+- [2020-04-30-知乎故事-|-人在医院能无知到何种程度？](https://www.ershicimi.com/p/b36d268fbb3524e1351f68486dc2911a)  
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)  
 - [2020-04-29-你见过最奇葩的过敏体质是对什么过敏？](https://www.ershicimi.com/p/771d721e784cf659cdea16c9f2e4d279)  
 - [2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a)  
@@ -853,16 +853,18 @@
 </summary>
 
 
-- [2020-04-30-合肥-招聘-PHP-研发工程师啦！](https://www.v2ex.com/t/667784) ![](assets/new.png)  
-- [2020-04-30-django-modelform-问题请教](https://www.v2ex.com/t/667782) ![](assets/new.png)  
-- [2020-04-30-又到夏天了-有什么好的笔记本散热设备推荐😁](https://www.v2ex.com/t/667781) ![](assets/new.png)  
-- [2020-04-30-pandas-中的-@-运算是什么意思？](https://www.v2ex.com/t/667780) ![](assets/new.png)  
-- [2020-04-30-开始更新-Laravel-精品课教程，希望助力更多同学成为全栈工程师](https://www.v2ex.com/t/667779) ![](assets/new.png)  
-- [2020-04-30-请教一下-买良心云主机的最佳方式](https://www.v2ex.com/t/667778) ![](assets/new.png)  
-- [2020-04-30-请教一下移动光猫里关掉-QoS-会引起-Ping-升高吗](https://www.v2ex.com/t/667777) ![](assets/new.png)  
-- [2020-04-30-深圳-新加坡-Shopee-各岗位招聘-薪水-20k-到-50k](https://www.v2ex.com/t/667776) ![](assets/new.png)  
-- [2020-04-30-Airpods-Pro-在-Windows-10-上用不了麦克风，有大佬知道怎么解决吗](https://www.v2ex.com/t/667775) ![](assets/new.png)  
-- [2020-04-30-好像有人在爬-v2ex，然后提交到-github，然后不小心-@了我](https://www.v2ex.com/t/667773) ![](assets/new.png)  
+- [2020-04-30-回形针最新一期，回形针是怎么做视频的](https://www.v2ex.com/t/667786) ![](assets/new.png)  
+- [2020-04-30-人工智能训练数据如何存储？存储数据最大的痛点是什么？](https://www.v2ex.com/t/667785) ![](assets/new.png)  
+- [2020-04-30-合肥-招聘-PHP-研发工程师啦！](https://www.v2ex.com/t/667784)  
+- [2020-04-30-django-modelform-问题请教](https://www.v2ex.com/t/667782)  
+- [2020-04-30-又到夏天了-有什么好的笔记本散热设备推荐😁](https://www.v2ex.com/t/667781)  
+- [2020-04-30-pandas-中的-@-运算是什么意思？](https://www.v2ex.com/t/667780)  
+- [2020-04-30-开始更新-Laravel-精品课教程，希望助力更多同学成为全栈工程师](https://www.v2ex.com/t/667779)  
+- [2020-04-30-请教一下-买良心云主机的最佳方式](https://www.v2ex.com/t/667778)  
+- [2020-04-30-请教一下移动光猫里关掉-QoS-会引起-Ping-升高吗](https://www.v2ex.com/t/667777)  
+- [2020-04-30-深圳-新加坡-Shopee-各岗位招聘-薪水-20k-到-50k](https://www.v2ex.com/t/667776)  
+- [2020-04-30-Airpods-Pro-在-Windows-10-上用不了麦克风，有大佬知道怎么解决吗](https://www.v2ex.com/t/667775)  
+- [2020-04-30-好像有人在爬-v2ex，然后提交到-github，然后不小心-@了我](https://www.v2ex.com/t/667773)  
 - [2020-04-30-突然在想其他技能型职业会不会也有类似-CRUD-的乏味感，比如医生](https://www.v2ex.com/t/667772)  
 - [2020-04-30-想参与-Redux.js-最新版本的中文文档翻译工作吗？](https://www.v2ex.com/t/667771)  
 - [2020-04-30-谷歌云注册时所用的节点国家需要和所填写的客户信息国家一致吗？](https://www.v2ex.com/t/667770)  
@@ -871,8 +873,6 @@
 - [2020-04-30-Edge-Chrome-有什么办法可以双击标签页栏关闭标签页么](https://www.v2ex.com/t/667767)  
 - [2020-04-30-看了下朋友的拉钩-APP-上的主动邀约数量极其震惊，与其对比一个天一个地](https://www.v2ex.com/t/667765)  
 - [2020-04-30-Tombkeeper:-公关能力可以用删帖能力来衡量。最顶级的是能从-V2EX-上删帖。-​​​​-狗头](https://www.v2ex.com/t/667764)  
-- [2020-04-30-被安卓恶心到了](https://www.v2ex.com/t/667763)  
-- [2020-04-30-iPhone-12-的预测价格出来了，香吗？](https://www.v2ex.com/t/667762)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

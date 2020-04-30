@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -131,6 +131,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-04-30-这个春天，我投了300份简历至今-零-offer](https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523) 
 - [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) 
 - [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) 
 - [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) 
@@ -260,6 +261,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-关于知识焦虑的一点思考](https://www.v2ex.com/t/667732) 
+- [2020-04-30-zly，女生名字缩写，请问全名会叫什么？](https://www.v2ex.com/t/667729) 
+- [2020-04-30-同一个-DNS，-nslookup-手动加上和不加上（默认）解析结果完全不同？](https://www.v2ex.com/t/667728) 
+- [2020-04-30-科学上网、扶墙梯子推荐-Blinkload。均使用-IPEL-节点和-BGP。已经经过线路大改，目前使用-2-个月，很稳定。](https://www.v2ex.com/t/667727) 
+- [2020-04-30-谁有理财源码？](https://www.v2ex.com/t/667726) 
 - [2020-04-30-分享一个公益-telegrem-内置-mtproxy-代理](https://www.v2ex.com/t/667725) 
 - [2020-04-30-深圳插电混动车的指标容易获取吗？需要摇号还是直接可以上？](https://www.v2ex.com/t/667724) 
 - [2020-04-30-小米显示器香吗？](https://www.v2ex.com/t/667722) 

@@ -2287,6 +2287,16 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "这个春天，我投了300份简历至今 零 offer",
+        "link": "https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "JavaScript ES2020必知必会新特性",
+        "link": "https://www.ershicimi.com/p/085566f6c8937190443b9da12db2b504",
+        "date": "2020-04-29"
+      },
+      {
         "title": "前端最佳实践之可维护性",
         "link": "https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be",
         "date": "2020-04-27"
@@ -3551,6 +3561,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "关于知识焦虑的一点思考",
+        "link": "https://www.v2ex.com/t/667732",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "分享一个 demo，单元测试 canvas 的实际渲染，同时欢迎报名组队",
+        "link": "https://www.v2ex.com/t/667731",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "招聘信息： Java 中级开发工程师",
+        "link": "https://www.v2ex.com/t/667730",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "zly，女生名字缩写，请问全名会叫什么？",
+        "link": "https://www.v2ex.com/t/667729",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "同一个 DNS， nslookup 手动加上和不加上（默认）解析结果完全不同？",
+        "link": "https://www.v2ex.com/t/667728",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "科学上网、扶墙梯子推荐 Blinkload。均使用 IPEL 节点和 BGP。已经经过线路大改，目前使用 2 个月，很稳定。",
+        "link": "https://www.v2ex.com/t/667727",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "谁有理财源码？",
+        "link": "https://www.v2ex.com/t/667726",
+        "date": "2020-04-30"
+      },
       {
         "title": "分享一个公益 telegrem 内置 mtproxy 代理",
         "link": "https://www.v2ex.com/t/667725",

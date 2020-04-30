@@ -3452,6 +3452,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "银行理财产品（以及宝宝类）会不会突然暴雷？",
+        "link": "https://www.v2ex.com/t/667475",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "电信这么恶心的吗？",
+        "link": "https://www.v2ex.com/t/667474",
+        "date": "2020-04-30"
+      },
+      {
         "title": "iphone11 的快冲头选择问题",
         "link": "https://www.v2ex.com/t/667473",
         "date": "2020-04-30"
@@ -11435,6 +11445,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Spring Boot 2.0 打包与自定义 launch.script",
+        "link": "https://toutiao.io/k/5fukp7i",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "Golang 中的 sync.Pool 对象",
+        "link": "https://toutiao.io/k/xmecw1d",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "想自学 Python？推荐一个良心的 Python 教程",
+        "link": "https://toutiao.io/k/tfw2h72",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "iOS 13 + Safari 启用陀螺仪授权",
+        "link": "https://toutiao.io/k/wmb1bxm",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "常用的 Java 并发编程技术",
+        "link": "https://toutiao.io/k/qs7jx4w",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "OpenStack 之 log 详解",
+        "link": "https://toutiao.io/k/ziz4xwv",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "挖矿 = 求解一个合适的 nonce 整数，区块链与加密数字货币知识科普",
+        "link": "https://toutiao.io/k/7qbpk18",
+        "date": "2020-04-30"
+      },
       {
         "title": "机器学习笔记（十三）：重中之重的性能度量方式你要懂",
         "link": "https://toutiao.io/k/epg381y",

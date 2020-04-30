@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 08:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 09:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -837,11 +837,13 @@
 </summary>
 
 
-- [2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473) ![](assets/new.png)  
-- [2020-04-30-有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472) ![](assets/new.png)  
-- [2020-04-30-个人站长很孤独，求大佬入住](https://www.v2ex.com/t/667471) ![](assets/new.png)  
-- [2020-04-30-请问相同运动时长，是有氧区间的燃脂量最大吗？](https://www.v2ex.com/t/667470) ![](assets/new.png)  
-- [2020-04-30-做音乐也要有互联网思维，如何站在中国风口上当成-flypig](https://www.v2ex.com/t/667469) ![](assets/new.png)  
+- [2020-04-30-银行理财产品（以及宝宝类）会不会突然暴雷？](https://www.v2ex.com/t/667475) ![](assets/new.png)  
+- [2020-04-30-电信这么恶心的吗？](https://www.v2ex.com/t/667474) ![](assets/new.png)  
+- [2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473)  
+- [2020-04-30-有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472)  
+- [2020-04-30-个人站长很孤独，求大佬入住](https://www.v2ex.com/t/667471)  
+- [2020-04-30-请问相同运动时长，是有氧区间的燃脂量最大吗？](https://www.v2ex.com/t/667470)  
+- [2020-04-30-做音乐也要有互联网思维，如何站在中国风口上当成-flypig](https://www.v2ex.com/t/667469)  
 - [2020-04-30-手机微信不显示-Windows-微信已登录](https://www.v2ex.com/t/667468)  
 - [2020-04-30-西数公布了-smr-硬盘型号，有中招的吗？](https://www.v2ex.com/t/667466)  
 - [2020-04-30-这种情况把内存升级到-32G-可以改善卡的状况么](https://www.v2ex.com/t/667465)  
@@ -855,8 +857,6 @@
 - [2020-04-30-问问各位老哥-2020-年学-ios-开发前景如何](https://www.v2ex.com/t/667456)  
 - [2020-04-30-一台-9-成新的-Mate30Pro-可否换来一台群辉](https://www.v2ex.com/t/667455)  
 - [2020-04-30-评绩效和调薪时和老板辩论有用么](https://www.v2ex.com/t/667454)  
-- [2020-04-30-给磁力链加个-"离线到-115"-按钮](https://www.v2ex.com/t/667453)  
-- [2020-04-30-LEDE-映射-FTP](https://www.v2ex.com/t/667452)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -899,8 +899,15 @@
 </summary>
 
 
-- [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y) ![](assets/new.png)  
-- [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s) ![](assets/new.png)  
+- [2020-04-30-Spring-Boot-2.0-打包与自定义-launch.script](https://toutiao.io/k/5fukp7i) ![](assets/new.png)  
+- [2020-04-30-Golang-中的-sync.Pool-对象](https://toutiao.io/k/xmecw1d) ![](assets/new.png)  
+- [2020-04-30-想自学-Python？推荐一个良心的-Python-教程](https://toutiao.io/k/tfw2h72) ![](assets/new.png)  
+- [2020-04-30-iOS-13-+-Safari-启用陀螺仪授权](https://toutiao.io/k/wmb1bxm) ![](assets/new.png)  
+- [2020-04-30-常用的-Java-并发编程技术](https://toutiao.io/k/qs7jx4w) ![](assets/new.png)  
+- [2020-04-30-OpenStack-之-log-详解](https://toutiao.io/k/ziz4xwv) ![](assets/new.png)  
+- [2020-04-30-挖矿-=-求解一个合适的-nonce-整数，区块链与加密数字货币知识科普](https://toutiao.io/k/7qbpk18) ![](assets/new.png)  
+- [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y)  
+- [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s)  
 - [2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a)  
 - [2020-04-29-音视频基础之多媒体封装格式](https://toutiao.io/k/c6okpg9)  
 - [2020-04-29-IDEA-惊天-bug：进程已结束，退出代码-1073741819](https://toutiao.io/k/v6jufoc)  
@@ -912,13 +919,6 @@
 - [2020-04-29-哈希表哪家强？几大编程语言吵起来了](https://toutiao.io/k/6o4rgij)  
 - [2020-04-29-ThreadLocal-是什么鬼？用法、源码一锅端](https://toutiao.io/k/esumoqq)  
 - [2020-04-29-在开发环境下，基于-Spring-Boot-的-RocketMQ-示例（含安装步骤、错误分析）](https://toutiao.io/k/n59ric2)  
-- [2020-04-29-从数仓到数据中台，谈技术选型最优解](https://toutiao.io/k/5gs5ltp)  
-- [2020-04-29-个人经历：聊聊我的安全成长之路](https://toutiao.io/k/p0d9np5)  
-- [2020-04-29-译-老板知道会点赞，前端开发人员的-10-个安全建议](https://toutiao.io/k/bf91cs2)  
-- [2020-04-29-推荐-IM-服务器设计：网关接入层](https://toutiao.io/k/vazuwqx)  
-- [2020-04-29-我司用了-6-年的-Redis-分布式限流器，可以说是非常厉害了](https://toutiao.io/k/zh3mw4w)  
-- [2020-04-29-漫谈分布式系统（十）：初探分布式事务](https://toutiao.io/k/ac90g7q)  
-- [2020-04-29-头条/支付宝/猿辅导面试经历](https://toutiao.io/k/b9nig0c)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

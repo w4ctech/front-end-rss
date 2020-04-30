@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-30 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -524,6 +524,8 @@
 - [【知乎日报】2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
 - [【知乎日报】2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [【知乎日报】2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [【V2EX】2020-04-30-银行理财产品（以及宝宝类）会不会突然暴雷？](https://www.v2ex.com/t/667475) 
+- [【V2EX】2020-04-30-电信这么恶心的吗？](https://www.v2ex.com/t/667474) 
 - [【V2EX】2020-04-30-iphone11-的快冲头选择问题](https://www.v2ex.com/t/667473) 
 - [【V2EX】2020-04-30-有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472) 
 - [【V2EX】2020-04-30-个人站长很孤独，求大佬入住](https://www.v2ex.com/t/667471) 
@@ -2118,6 +2120,13 @@
 - [【技术头条】2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-04-30-Spring-Boot-2.0-打包与自定义-launch.script](https://toutiao.io/k/5fukp7i) 
+- [【开发者头条】2020-04-30-Golang-中的-sync.Pool-对象](https://toutiao.io/k/xmecw1d) 
+- [【开发者头条】2020-04-30-想自学-Python？推荐一个良心的-Python-教程](https://toutiao.io/k/tfw2h72) 
+- [【开发者头条】2020-04-30-iOS-13-+-Safari-启用陀螺仪授权](https://toutiao.io/k/wmb1bxm) 
+- [【开发者头条】2020-04-30-常用的-Java-并发编程技术](https://toutiao.io/k/qs7jx4w) 
+- [【开发者头条】2020-04-30-OpenStack-之-log-详解](https://toutiao.io/k/ziz4xwv) 
+- [【开发者头条】2020-04-30-挖矿-=-求解一个合适的-nonce-整数，区块链与加密数字货币知识科普](https://toutiao.io/k/7qbpk18) 
 - [【开发者头条】2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y) 
 - [【开发者头条】2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s) 
 - [【开发者头条】2020-04-29-戴上-CAP-这顶帽子，又能和面试官扯皮了](https://toutiao.io/k/e0dk26a) 

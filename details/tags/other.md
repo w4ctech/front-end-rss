@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -271,6 +271,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-01-房租下降你们察觉了嘛？](https://www.v2ex.com/t/667806) 
+- [2020-05-01-如何学习区块链技术](https://www.v2ex.com/t/667804) 
+- [2020-05-01-Redis-6.0-正式发布！](https://www.v2ex.com/t/667803) 
 - [2020-05-01-现在有非曲面屏的旗舰-865-么？](https://www.v2ex.com/t/667801) 
 - [2020-05-01-求助-有没有老哥来救救妹纸，老师布置的-Apache2-作业哈](https://www.v2ex.com/t/667799) 
 - [2020-05-01-半夜发帖吐槽一下天猫的价保规则。](https://www.v2ex.com/t/667798) 

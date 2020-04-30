@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -482,6 +482,7 @@
 - [【前端早读课】【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)
 - [【前端大全】聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e)
 - [【前端大全】当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01)
+- [【前端开发】网页外链用了-target="_blank"，结果悲剧了](https://www.ershicimi.com/p/4274659e9eebe8c5f2aedee92c67d5aa)
 - [【前端开发】iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8)
 - [【全栈前端精选】如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1)
 - [【程序员成长指北】chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/e2a99e9a539f9a00809c31574d820b11)
@@ -497,7 +498,6 @@
 - [【InfoQ】浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【印记中文周刊】Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web)
-- [【V2EX】有老哥自建-postwoman-的么?-跨域问题怎么解决的?](https://www.v2ex.com/t/667472)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -587,6 +587,7 @@
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】Grace-Note-一款基于-git-的知识管理软件](https://www.v2ex.com/t/667515)
 - [【V2EX】github-上还有微信机器人这种开源工具能用吗](https://www.v2ex.com/t/666881)
 - [【V2EX】一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792)
 - [【V2EX】想问下让-Github-仓库存纯图片是不是资源的滥用？](https://www.v2ex.com/t/666581)
@@ -599,7 +600,6 @@
 - [【技术头条】重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13421&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEe0WURUKzOMq7LtT0uZdZg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Github-上最热门的-Java-开源项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13407&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fy5kazWqWK69USNR_9WLCXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】在对比了-GitHub-5000-个-Python-项目之后，我们精选出了这-36-个！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13387&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFa3d9XyTzgCnCR7pjgWyew%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】Git-入门太难？试试这个教程吧](https://toutiao.io/k/lutvozo)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

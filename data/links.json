@@ -346,6 +346,11 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "网页外链用了 target=\"_blank\"，结果悲剧了",
+        "link": "https://www.ershicimi.com/p/4274659e9eebe8c5f2aedee92c67d5aa",
+        "date": "2020-04-30"
+      },
+      {
         "title": "前端同学经常忽视的一个 JavaScript 面试题",
         "link": "https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e",
         "date": "2020-04-29"
@@ -3491,6 +3496,86 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "LineageOS 17.1 上，在 google play 下载的\"google 电话\" app，拨不了 120， 110",
+        "link": "https://www.v2ex.com/t/667521",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "有没有大佬能告知 chrome 上是否有可以定义快捷键运行 JavaScript 脚本的扩展或者其他方法",
+        "link": "https://www.v2ex.com/t/667520",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "有点儿困惑： scrapy-redis 使用不同的 db，哪种方式更好？",
+        "link": "https://www.v2ex.com/t/667519",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "微信聊天记录迁移后手机端的聊天记录混乱",
+        "link": "https://www.v2ex.com/t/667517",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "K8S 部署 Hadoop 好吗？",
+        "link": "https://www.v2ex.com/t/667516",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "Grace Note 一款基于 git 的知识管理软件",
+        "link": "https://www.v2ex.com/t/667515",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "工具类相关小程序关于审核的疑问",
+        "link": "https://www.v2ex.com/t/667514",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "iPhone 强制 6 位密码，经常输完密码发现少 1 位。。。",
+        "link": "https://www.v2ex.com/t/667513",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "PicGo 经常服务器出错，无法上传图片",
+        "link": "https://www.v2ex.com/t/667511",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "度盘上传限速，有办法嘛",
+        "link": "https://www.v2ex.com/t/667509",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "wox 的自动检索频率是多久一次？",
+        "link": "https://www.v2ex.com/t/667508",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "微信能不能在群设置增加个自动下载群文件选项？",
+        "link": "https://www.v2ex.com/t/667507",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "打算辞职了",
+        "link": "https://www.v2ex.com/t/667506",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "客户那边有 20 个 G 的数据要传输过来，有什么靠谱的方案吗？",
+        "link": "https://www.v2ex.com/t/667505",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "v 站可以转租房子吗？我好像没看到相关节点",
+        "link": "https://www.v2ex.com/t/667504",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "我的香港阿里轻量云被改密码重启，看 history 没发现执行命令",
+        "link": "https://www.v2ex.com/t/667503",
+        "date": "2020-04-30"
+      },
       {
         "title": "安利一个剧， S.C.I.谜案集,喜欢悬疑、犯罪心理的可以看下",
         "link": "https://www.v2ex.com/t/667502",

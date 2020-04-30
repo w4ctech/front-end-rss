@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -11,6 +11,7 @@
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7) 
 - [2020-04-24-聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e) 
 - [2020-04-19-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/856de928d680099cedaa6c7df452eb01) 
+- [2020-04-30-网页外链用了-target="_blank"，结果悲剧了](https://www.ershicimi.com/p/4274659e9eebe8c5f2aedee92c67d5aa) 
 - [2020-04-26-iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8) 
 - [2020-04-17-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1) 
 - [2020-04-30-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/e2a99e9a539f9a00809c31574d820b11) 

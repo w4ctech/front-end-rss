@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-04-28 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b) 
+- [2020-04-30-五一假期想胡吃海塞，减肥计划怎么办？|-Q事界](https://www.ershicimi.com/p/1ee908dface3a1db4bb90c358e20e596) 
+- [2020-04-30-追踪5万-AI-技术人的访问轨迹，他们为何关注这些实践？丨AICon](https://www.ershicimi.com/p/f862b25c86563fb9f185c1b9b074f27e) 
+- [2020-04-30-追逐业务变量，创新的路子如何越走越宽？](https://www.ershicimi.com/p/733b018b27e125a65c8bca7a7ca19ad9) 
+- [2020-04-30-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/8510b547d695a97de15904e106c8dcef) 
+- [2020-04-29-29岁调酒师利用ATM漏洞变百万富翁：我开豪华派对、租私人飞机，但我身心备受折磨](https://www.ershicimi.com/p/85ad44e367daa024bbaf7fe11b3898fa) 
+- [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/c3cbe3829db89acd899f0623080709cd) 
+- [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-04-29-开源社区对开发者的价值到底有多大？](https://www.ershicimi.com/p/285245ecc0b248cdbb723e5e336f4a64) 
+- [2020-04-29-Java-能用于机器学习和数据科学吗？](https://www.ershicimi.com/p/a93aa8ccd2f782274ec9268c30502ab6) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 
 - [2020-04-28-入侵中国长达-3-个月，越南黑客组织欲窃取新冠肺炎情报](https://www.ershicimi.com/p/78a0079a875379980d45f6f2837c92b1) 
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 

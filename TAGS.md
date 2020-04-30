@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-04-30 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -413,6 +413,7 @@
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】大佬们，小白学-Python-是看谁能学得最正宗啊，讲课简单明了，书和视频都可以。](https://www.v2ex.com/t/667769)
 - [【V2EX】五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652)
 - [【V2EX】有没有短视频运营管理系统，支持多个网站的](https://www.v2ex.com/t/667577)
 - [【V2EX】为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)
@@ -426,7 +427,6 @@
 - [【V2EX】有没有什么方法或软件可以批量检测直播流码率](https://www.v2ex.com/t/667124)
 - [【V2EX】请教一个直播流延时的问题，不是降低延迟，是增加延迟](https://www.v2ex.com/t/667100)
 - [【V2EX】虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/666925)
-- [【V2EX】能把视频上传到-icloud-上去吗](https://www.v2ex.com/t/666729)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -555,6 +555,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
+- [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
 - [【V2EX】Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754)
 - [【V2EX】离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)
 - [【V2EX】Docker-容器中基于-Alpine-Linux-镜像，-kill-命令不起作用？](https://www.v2ex.com/t/667733)

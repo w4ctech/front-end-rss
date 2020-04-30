@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-30 22:30:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-30 23:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -664,6 +664,16 @@
 </summary>
 
 
+- [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b) ![](assets/new.png)  
+- [2020-04-30-五一假期想胡吃海塞，减肥计划怎么办？|-Q事界](https://www.ershicimi.com/p/1ee908dface3a1db4bb90c358e20e596) ![](assets/new.png)  
+- [2020-04-30-追踪5万-AI-技术人的访问轨迹，他们为何关注这些实践？丨AICon](https://www.ershicimi.com/p/f862b25c86563fb9f185c1b9b074f27e) ![](assets/new.png)  
+- [2020-04-30-追逐业务变量，创新的路子如何越走越宽？](https://www.ershicimi.com/p/733b018b27e125a65c8bca7a7ca19ad9) ![](assets/new.png)  
+- [2020-04-30-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/8510b547d695a97de15904e106c8dcef) ![](assets/new.png)  
+- [2020-04-29-29岁调酒师利用ATM漏洞变百万富翁：我开豪华派对、租私人飞机，但我身心备受折磨](https://www.ershicimi.com/p/85ad44e367daa024bbaf7fe11b3898fa) ![](assets/new.png)  
+- [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/c3cbe3829db89acd899f0623080709cd) ![](assets/new.png)  
+- [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) ![](assets/new.png)  
+- [2020-04-29-开源社区对开发者的价值到底有多大？](https://www.ershicimi.com/p/285245ecc0b248cdbb723e5e336f4a64) ![](assets/new.png)  
+- [2020-04-29-Java-能用于机器学习和数据科学吗？](https://www.ershicimi.com/p/a93aa8ccd2f782274ec9268c30502ab6) ![](assets/new.png)  
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249)  
 - [2020-04-28-入侵中国长达-3-个月，越南黑客组织欲窃取新冠肺炎情报](https://www.ershicimi.com/p/78a0079a875379980d45f6f2837c92b1)  
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)  
@@ -674,16 +684,6 @@
 - [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8)  
 - [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8)  
 - [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8)  
-- [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7)  
-- [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0)  
-- [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184)  
-- [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b)  
-- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4)  
-- [2020-04-25-O’Reilly-技术趋势报告：Python-最流行、云依旧热门，DevOps-和-AI-热度下降](https://www.ershicimi.com/p/3ead466826cdaa29580a9980c70f28f8)  
-- [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9)  
-- [2020-04-25-浅谈图神经网络的局限性](https://www.ershicimi.com/p/8936cd8e8a844fda7b6f4e235b553613)  
-- [2020-04-24-今年你被降掉的薪资，还有机会涨回来吗？](https://www.ershicimi.com/p/0446e501858e1471cbe5db655b9bc0ed)  
-- [2020-04-24-福利活动又来啦！书籍周边限时免费送-|-InfoQ-Pro](https://www.ershicimi.com/p/e2ef6d07622ff737593658781488eb27)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -853,26 +853,26 @@
 </summary>
 
 
-- [2020-04-30-Edge-Chrome-有什么办法可以双击标签页栏关闭标签页么](https://www.v2ex.com/t/667767) ![](assets/new.png)  
-- [2020-04-30-看了下朋友的拉钩-APP-上的主动邀约数量极其震惊，与其对比一个天一个地](https://www.v2ex.com/t/667765) ![](assets/new.png)  
-- [2020-04-30-Tombkeeper:-公关能力可以用删帖能力来衡量。最顶级的是能从-V2EX-上删帖。-​​​​-狗头](https://www.v2ex.com/t/667764) ![](assets/new.png)  
-- [2020-04-30-被安卓恶心到了](https://www.v2ex.com/t/667763) ![](assets/new.png)  
-- [2020-04-30-iPhone-12-的预测价格出来了，香吗？](https://www.v2ex.com/t/667762) ![](assets/new.png)  
-- [2020-04-30-奉劝-IT-工作者不要用电信宽带，访问国外网站太慢了](https://www.v2ex.com/t/667761) ![](assets/new.png)  
-- [2020-04-30-2020-年国内的-Haskell/scheme/coq-工作机会怎么样？](https://www.v2ex.com/t/667760) ![](assets/new.png)  
-- [2020-04-30-中国网安有-V-友了解么。。。拿了暑期实习的-offer，在观望去不去](https://www.v2ex.com/t/667758) ![](assets/new.png)  
-- [2020-04-30-五一不打算出门，打算在家好好学习，建个群一起看书和阅读-vue3-源码](https://www.v2ex.com/t/667757) ![](assets/new.png)  
-- [2020-04-30-问一个有点奇葩的问题，再不想暴漏信用卡的情况下，如何购买美服的-war3](https://www.v2ex.com/t/667756) ![](assets/new.png)  
-- [2020-04-30-有没有阿里的-HRG-在这里，想问下我这样的简历有没有希望进阿里](https://www.v2ex.com/t/667755) ![](assets/new.png)  
-- [2020-04-30-Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754) ![](assets/new.png)  
+- [2020-04-30-突然在想其他技能型职业会不会也有类似-CRUD-的乏味感，比如医生](https://www.v2ex.com/t/667772) ![](assets/new.png)  
+- [2020-04-30-想参与-Redux.js-最新版本的中文文档翻译工作吗？](https://www.v2ex.com/t/667771) ![](assets/new.png)  
+- [2020-04-30-谷歌云注册时所用的节点国家需要和所填写的客户信息国家一致吗？](https://www.v2ex.com/t/667770) ![](assets/new.png)  
+- [2020-04-30-大佬们，小白学-Python-是看谁能学得最正宗啊，讲课简单明了，书和视频都可以。](https://www.v2ex.com/t/667769) ![](assets/new.png)  
+- [2020-04-30-实锤美团大数据杀熟！](https://www.v2ex.com/t/667768) ![](assets/new.png)  
+- [2020-04-30-Edge-Chrome-有什么办法可以双击标签页栏关闭标签页么](https://www.v2ex.com/t/667767)  
+- [2020-04-30-看了下朋友的拉钩-APP-上的主动邀约数量极其震惊，与其对比一个天一个地](https://www.v2ex.com/t/667765)  
+- [2020-04-30-Tombkeeper:-公关能力可以用删帖能力来衡量。最顶级的是能从-V2EX-上删帖。-​​​​-狗头](https://www.v2ex.com/t/667764)  
+- [2020-04-30-被安卓恶心到了](https://www.v2ex.com/t/667763)  
+- [2020-04-30-iPhone-12-的预测价格出来了，香吗？](https://www.v2ex.com/t/667762)  
+- [2020-04-30-奉劝-IT-工作者不要用电信宽带，访问国外网站太慢了](https://www.v2ex.com/t/667761)  
+- [2020-04-30-2020-年国内的-Haskell/scheme/coq-工作机会怎么样？](https://www.v2ex.com/t/667760)  
+- [2020-04-30-中国网安有-V-友了解么。。。拿了暑期实习的-offer，在观望去不去](https://www.v2ex.com/t/667758)  
+- [2020-04-30-五一不打算出门，打算在家好好学习，建个群一起看书和阅读-vue3-源码](https://www.v2ex.com/t/667757)  
+- [2020-04-30-问一个有点奇葩的问题，再不想暴漏信用卡的情况下，如何购买美服的-war3](https://www.v2ex.com/t/667756)  
+- [2020-04-30-有没有阿里的-HRG-在这里，想问下我这样的简历有没有希望进阿里](https://www.v2ex.com/t/667755)  
+- [2020-04-30-Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754)  
 - [2020-04-30-两台同个网络中的-mac，相互-ping-不通，文件共享也连不上，屏幕共享也连不，同一网段同个路由器下面。系统是-10.15.4。这是为何？](https://www.v2ex.com/t/667752)  
 - [2020-04-30-为什么我的-mac-系统会被大量-WiFiDiagnostics.zip-文件占用，占了我-400-多-G](https://www.v2ex.com/t/667751)  
 - [2020-04-30-网页是不是作品？受著作权保护么？](https://www.v2ex.com/t/667749)  
-- [2020-04-30-离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)  
-- [2020-04-30-北京-猿辅导-招-前端-安卓-组内内推，极速反馈](https://www.v2ex.com/t/667747)  
-- [2020-04-30-运维工程师-高级专家都要北京](https://www.v2ex.com/t/667746)  
-- [2020-04-30-老司机话题，求教大佬现在怎么购买一张接受美国短信用的‘最佳性价比’的电话卡](https://www.v2ex.com/t/667745)  
-- [2020-04-30-怎么看用公司邮箱给开源项目提代码呢](https://www.v2ex.com/t/667744)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

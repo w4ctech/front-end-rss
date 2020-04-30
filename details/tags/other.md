@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -174,6 +174,13 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b) 
+- [2020-04-30-五一假期想胡吃海塞，减肥计划怎么办？|-Q事界](https://www.ershicimi.com/p/1ee908dface3a1db4bb90c358e20e596) 
+- [2020-04-30-追踪5万-AI-技术人的访问轨迹，他们为何关注这些实践？丨AICon](https://www.ershicimi.com/p/f862b25c86563fb9f185c1b9b074f27e) 
+- [2020-04-29-29岁调酒师利用ATM漏洞变百万富翁：我开豪华派对、租私人飞机，但我身心备受折磨](https://www.ershicimi.com/p/85ad44e367daa024bbaf7fe11b3898fa) 
+- [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/c3cbe3829db89acd899f0623080709cd) 
+- [2020-04-29-开源社区对开发者的价值到底有多大？](https://www.ershicimi.com/p/285245ecc0b248cdbb723e5e336f4a64) 
+- [2020-04-29-Java-能用于机器学习和数据科学吗？](https://www.ershicimi.com/p/a93aa8ccd2f782274ec9268c30502ab6) 
 - [2020-04-28-公司追捧“以客户为中心”，追求极客的技术文化过时了吗？丨Q推荐](https://www.ershicimi.com/p/a83638ed3ce7026237b4b7794c592fc7) 
 - [2020-04-28-联邦学习可能会带来数据价值挖掘的下一个爆发点](https://www.ershicimi.com/p/c4ef32e61c10571a623f6ed473af8fa1) 
 - [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) 
@@ -261,6 +268,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-04-30-突然在想其他技能型职业会不会也有类似-CRUD-的乏味感，比如医生](https://www.v2ex.com/t/667772) 
+- [2020-04-30-谷歌云注册时所用的节点国家需要和所填写的客户信息国家一致吗？](https://www.v2ex.com/t/667770) 
+- [2020-04-30-实锤美团大数据杀熟！](https://www.v2ex.com/t/667768) 
 - [2020-04-30-看了下朋友的拉钩-APP-上的主动邀约数量极其震惊，与其对比一个天一个地](https://www.v2ex.com/t/667765) 
 - [2020-04-30-Tombkeeper:-公关能力可以用删帖能力来衡量。最顶级的是能从-V2EX-上删帖。-​​​​-狗头](https://www.v2ex.com/t/667764) 
 - [2020-04-30-被安卓恶心到了](https://www.v2ex.com/t/667763) 

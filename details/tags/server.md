@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -11,6 +11,7 @@
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
+- [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
 - [2020-04-30-Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754) 
 - [2020-04-30-离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748) 
 - [2020-04-30-Docker-容器中基于-Alpine-Linux-镜像，-kill-命令不起作用？](https://www.v2ex.com/t/667733) 

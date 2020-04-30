@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-30 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-04-30 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -93,6 +93,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-04-30-js-只有一个线程，那么用了异步，等待-io-的时候，不用消耗线程吗？没有一个守护线程去等待-io-吗](https://www.v2ex.com/t/667626) 
 - [2020-04-30-如何在软路由上跑-uu-加速器插件](https://www.v2ex.com/t/667536) 
 - [2020-04-30-状态模式和事件触发切换状态可以整合什么库来做-Python-程序设计？](https://www.v2ex.com/t/667531) 
 - [2020-04-30-经过一系列的努力，-Api-管理及自动化测试工具-OPIPING，成功适配国产操作系统-UOS-V20](https://www.v2ex.com/t/667523) 

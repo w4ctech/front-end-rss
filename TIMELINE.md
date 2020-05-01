@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-01 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -125,6 +125,8 @@
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【V2EX】2020-05-01-Ubuntu-上-Chrome-打开-jd-或者-b-站，加载特别漫长，火狐没有](https://www.v2ex.com/t/667958) 
+- [【V2EX】2020-05-01-将歌曲从-Mac-导入-iPhone-为啥这么慢？](https://www.v2ex.com/t/667957) 
 - [【V2EX】2020-05-01-有大佬用-uni-app-么，一次性编译小程序、Android、ios-应用，坑多么？](https://www.v2ex.com/t/667955) 
 - [【V2EX】2020-05-01-千里投毒-对不起，我差点从美国千里投毒了，经历-30-小时辗转回国后的感想](https://www.v2ex.com/t/667954) 
 - [【V2EX】2020-05-01-antd-在-create-react-app-下无法使用？](https://www.v2ex.com/t/667953) 

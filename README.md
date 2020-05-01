@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 10:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 10:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -258,8 +258,8 @@
 </summary>
 
 
-- [2020-04-30-只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad) ![](assets/new.png)  
-- [2020-04-30-案例｜原生手写一个轮播图——渐隐渐显版](https://www.ershicimi.com/p/88203e2f5f9dfd1fdefc52782f8c4dcc) ![](assets/new.png)  
+- [2020-04-30-只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad)  
+- [2020-04-30-案例｜原生手写一个轮播图——渐隐渐显版](https://www.ershicimi.com/p/88203e2f5f9dfd1fdefc52782f8c4dcc)  
 - [2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240)  
 - [2020-04-29-Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703)  
 - [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6)  
@@ -854,6 +854,17 @@
 </summary>
 
 
+- [2020-05-01-天才吧预约不上的可以尝试重装一下苹果支持](https://www.v2ex.com/t/667841) ![](assets/new.png)  
+- [2020-05-01-2020，是时候上车-Jetpack-MVVM-和-Kotlin-了](https://www.v2ex.com/t/667840) ![](assets/new.png)  
+- [2020-05-01-既然推广电话是机器人，那么你们留下彩蛋了吗？](https://www.v2ex.com/t/667839) ![](assets/new.png)  
+- [2020-05-01-有啥-Win10-邮箱管理软件推荐吗](https://www.v2ex.com/t/667838) ![](assets/new.png)  
+- [2020-05-01-树莓派基金会发布新款摄像头模组-Raspberry-Pi-HQ-Camera](https://www.v2ex.com/t/667837) ![](assets/new.png)  
+- [2020-05-01-找个房子来住真难喵](https://www.v2ex.com/t/667836) ![](assets/new.png)  
+- [2020-05-01-请教现在入手-macbook-的最佳方式](https://www.v2ex.com/t/667835) ![](assets/new.png)  
+- [2020-05-01-自己写的-单片机/Arduino-开发用的图片取模工具](https://www.v2ex.com/t/667834) ![](assets/new.png)  
+- [2020-05-01-求助一个-bootstrap-问题](https://www.v2ex.com/t/667833) ![](assets/new.png)  
+- [2020-05-01-开个题外话有什么国际前沿的防蚊灭蚊方法了么？](https://www.v2ex.com/t/667832) ![](assets/new.png)  
+- [2020-05-01-女-HR-开车玩手机，导致发生追尾。求职者有必要要承担部分责任吗？](https://www.v2ex.com/t/667831) ![](assets/new.png)  
 - [2020-05-01-想买个带-USB-type-A-接口的-mac-设备，有推荐的吗](https://www.v2ex.com/t/667827)  
 - [2020-05-01-开车价，天猫的蔡司擦镜纸，-180-片只要-69-元，合计-0.38-元一片](https://www.v2ex.com/t/667826)  
 - [2020-05-01-有了-Spark，为什么-Airmail-还敢卖这么贵？](https://www.v2ex.com/t/667823)  
@@ -863,17 +874,6 @@
 - [2020-05-01-求可视化辅助编程类前端岗位](https://www.v2ex.com/t/667818)  
 - [2020-05-01-特斯拉国行-model3-再度降价了……](https://www.v2ex.com/t/667817)  
 - [2020-05-01-这个是属于网络攻击吗?](https://www.v2ex.com/t/667816)  
-- [2020-05-01-五一加班两天，一比一调休。有跟我们一样要加班的吗？](https://www.v2ex.com/t/667815)  
-- [2020-05-01-显示器推荐---Dell-P2720D-还是-AOC-U2790PQU](https://www.v2ex.com/t/667814)  
-- [2020-05-01-Pixivic.com-Android-&-iOS-客户端正式上线](https://www.v2ex.com/t/667813)  
-- [2020-05-01-bilibili-图床插件](https://www.v2ex.com/t/667812)  
-- [2020-05-01-macOS-有什么办法关闭-HDR-显示](https://www.v2ex.com/t/667811)  
-- [2020-05-01-远程-硅谷-Jerry-Ai-软件工程师招聘持续进行中](https://www.v2ex.com/t/667810)  
-- [2020-05-01-有没有时候上班玩的小物件？-如：九连环，小黄鸭](https://www.v2ex.com/t/667808)  
-- [2020-05-01-写了个哔哩哔哩视频下载的玩具，需要的可以拿走](https://www.v2ex.com/t/667807)  
-- [2020-05-01-房租下降你们察觉了嘛？](https://www.v2ex.com/t/667806)  
-- [2020-05-01-Safari-浏览器里的文稿与数据清理不掉，占用大量空间](https://www.v2ex.com/t/667805)  
-- [2020-05-01-如何学习区块链技术](https://www.v2ex.com/t/667804)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -916,10 +916,12 @@
 </summary>
 
 
-- [2020-05-01-面试官：兄弟，说说-Java-到底是值传递还是引用传递](https://toutiao.io/k/i0s6clu) ![](assets/new.png)  
-- [2020-05-01-Spring-MVC-从源码分析到实践如何动态添加拦截器](https://toutiao.io/k/hhgalq9) ![](assets/new.png)  
-- [2020-05-01-流量分析在安全攻防上的探索实践](https://toutiao.io/k/qe28bew) ![](assets/new.png)  
-- [2020-05-01-LFU-五种实现方式，从简单到复杂](https://toutiao.io/k/elsj1c6) ![](assets/new.png)  
+- [2020-05-01-阿里的程序员也不过如此，竟被一个简单的-SQL-查询难住](https://toutiao.io/k/07klc8w) ![](assets/new.png)  
+- [2020-05-01-疫情期间对通证经济的一些思考](https://toutiao.io/k/je5r3o7) ![](assets/new.png)  
+- [2020-05-01-面试官：兄弟，说说-Java-到底是值传递还是引用传递](https://toutiao.io/k/i0s6clu)  
+- [2020-05-01-Spring-MVC-从源码分析到实践如何动态添加拦截器](https://toutiao.io/k/hhgalq9)  
+- [2020-05-01-流量分析在安全攻防上的探索实践](https://toutiao.io/k/qe28bew)  
+- [2020-05-01-LFU-五种实现方式，从简单到复杂](https://toutiao.io/k/elsj1c6)  
 - [2020-05-01-OPPO-工程师在看什么书？](https://toutiao.io/k/2p045mt)  
 - [2020-05-01-携程机票前端-UI-自动化与持续集成升级实践](https://toutiao.io/k/1d7fi0u)  
 - [2020-05-01-美团-OCTO-万亿级数据中心计算引擎技术解析](https://toutiao.io/k/m3b0mht)  
@@ -934,8 +936,6 @@
 - [2020-04-30-敲黑板！写给前端看的-JSBridge-原理](https://toutiao.io/k/9u63na3)  
 - [2020-04-30-Flutter-主题切换：让你的-APP-也能一键换肤](https://toutiao.io/k/sra9nsp)  
 - [2020-04-30-反应式编程-RxJava-设计原理解析](https://toutiao.io/k/z4ewtjh)  
-- [2020-04-30-Spring-Boot-2.0-打包与自定义-launch.script](https://toutiao.io/k/5fukp7i)  
-- [2020-04-30-Golang-中的-sync.Pool-对象](https://toutiao.io/k/xmecw1d)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

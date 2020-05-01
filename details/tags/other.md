@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -272,6 +272,16 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-01-天才吧预约不上的可以尝试重装一下苹果支持](https://www.v2ex.com/t/667841) 
+- [2020-05-01-2020，是时候上车-Jetpack-MVVM-和-Kotlin-了](https://www.v2ex.com/t/667840) 
+- [2020-05-01-既然推广电话是机器人，那么你们留下彩蛋了吗？](https://www.v2ex.com/t/667839) 
+- [2020-05-01-有啥-Win10-邮箱管理软件推荐吗](https://www.v2ex.com/t/667838) 
+- [2020-05-01-找个房子来住真难喵](https://www.v2ex.com/t/667836) 
+- [2020-05-01-请教现在入手-macbook-的最佳方式](https://www.v2ex.com/t/667835) 
+- [2020-05-01-自己写的-单片机/Arduino-开发用的图片取模工具](https://www.v2ex.com/t/667834) 
+- [2020-05-01-求助一个-bootstrap-问题](https://www.v2ex.com/t/667833) 
+- [2020-05-01-开个题外话有什么国际前沿的防蚊灭蚊方法了么？](https://www.v2ex.com/t/667832) 
+- [2020-05-01-女-HR-开车玩手机，导致发生追尾。求职者有必要要承担部分责任吗？](https://www.v2ex.com/t/667831) 
 - [2020-05-01-想买个带-USB-type-A-接口的-mac-设备，有推荐的吗](https://www.v2ex.com/t/667827) 
 - [2020-05-01-开车价，天猫的蔡司擦镜纸，-180-片只要-69-元，合计-0.38-元一片](https://www.v2ex.com/t/667826) 
 - [2020-05-01-有了-Spark，为什么-Airmail-还敢卖这么贵？](https://www.v2ex.com/t/667823) 
@@ -1766,6 +1776,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-01-阿里的程序员也不过如此，竟被一个简单的-SQL-查询难住](https://toutiao.io/k/07klc8w) 
+- [2020-05-01-疫情期间对通证经济的一些思考](https://toutiao.io/k/je5r3o7) 
 - [2020-05-01-Spring-MVC-从源码分析到实践如何动态添加拦截器](https://toutiao.io/k/hhgalq9) 
 - [2020-05-01-LFU-五种实现方式，从简单到复杂](https://toutiao.io/k/elsj1c6) 
 - [2020-05-01-OPPO-工程师在看什么书？](https://toutiao.io/k/2p045mt) 

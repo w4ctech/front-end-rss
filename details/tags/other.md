@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -276,6 +276,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-01-14-届计算机本科，自学-Python-近半年，求成都职位收留](https://www.v2ex.com/t/667974) 
+- [2020-05-01-打开京东的网页风扇就响个不停](https://www.v2ex.com/t/667972) 
+- [2020-05-01-阿里云国际的网段问题](https://www.v2ex.com/t/667971) 
+- [2020-05-01-spring-事务是-jdk-动态代理还是-cglib-字节码织入？](https://www.v2ex.com/t/667970) 
+- [2020-05-01-土区有要上车的-ma](https://www.v2ex.com/t/667968) 
+- [2020-05-01-i3wm-下用-picom-配置画面闪烁](https://www.v2ex.com/t/667967) 
+- [2020-05-01-适用于自学和自由职业的因果模型和线下组团计划](https://www.v2ex.com/t/667963) 
+- [2020-05-01-安卓开发中如何在应用内调用可执行文件（如-adb-等）](https://www.v2ex.com/t/667962) 
+- [2020-05-01-Android-如何设置默认日历账号？](https://www.v2ex.com/t/667961) 
 - [2020-05-01-将歌曲从-Mac-导入-iPhone-为啥这么慢？](https://www.v2ex.com/t/667957) 
 - [2020-05-01-千里投毒-对不起，我差点从美国千里投毒了，经历-30-小时辗转回国后的感想](https://www.v2ex.com/t/667954) 
 - [2020-05-01-想买一把-Herman-Miller-embody-椅子，突然发现淘宝、京东、甚至拼多多都买不到了](https://www.v2ex.com/t/667951) 

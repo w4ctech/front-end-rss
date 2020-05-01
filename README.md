@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 19:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 19:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -667,6 +667,8 @@
 </summary>
 
 
+- [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) ![](assets/new.png)  
+- [2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) ![](assets/new.png)  
 - [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b)  
 - [2020-04-30-五一假期想胡吃海塞，减肥计划怎么办？|-Q事界](https://www.ershicimi.com/p/1ee908dface3a1db4bb90c358e20e596)  
 - [2020-04-30-追踪5万-AI-技术人的访问轨迹，他们为何关注这些实践？丨AICon](https://www.ershicimi.com/p/f862b25c86563fb9f185c1b9b074f27e)  
@@ -685,8 +687,6 @@
 - [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe)  
 - [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746)  
 - [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8)  
-- [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8)  
-- [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -856,8 +856,11 @@
 </summary>
 
 
-- [2020-05-01-如何自建-npm-cdn](https://www.v2ex.com/t/667945) ![](assets/new.png)  
-- [2020-05-01-求用编程化简一个数学表达式](https://www.v2ex.com/t/667943) ![](assets/new.png)  
+- [2020-05-01-各位-Git-大佬，请教一个问题](https://www.v2ex.com/t/667949) ![](assets/new.png)  
+- [2020-05-01-超市里卖的肥牛片到底是什么做的？](https://www.v2ex.com/t/667948) ![](assets/new.png)  
+- [2020-05-01-相中任地狱的-Switch-游戏机了，有点想买](https://www.v2ex.com/t/667947) ![](assets/new.png)  
+- [2020-05-01-如何自建-npm-cdn](https://www.v2ex.com/t/667945)  
+- [2020-05-01-求用编程化简一个数学表达式](https://www.v2ex.com/t/667943)  
 - [2020-05-01-有什么好的途径规避微信提现服务费-?-哪些银行的收款码面向个人/现阶段还免手续费的-](https://www.v2ex.com/t/667940)  
 - [2020-05-01-港区-Netflix-开车，自用，稳定续费，两个空位，欢迎上车](https://www.v2ex.com/t/667939)  
 - [2020-05-01-现在的招聘还真是嚣张呢](https://www.v2ex.com/t/667938)  
@@ -873,9 +876,6 @@
 - [2020-05-01-急招杭州-or-北京蚂蚁金服-前端开发p6-p7-芝麻信用](https://www.v2ex.com/t/667922)  
 - [2020-05-01-Hexo-主题-Fluid-发布-1.8.0-版本，优雅与简约共存的主题](https://www.v2ex.com/t/667921)  
 - [2020-05-01-冰箱国产和进口差距大么？求推荐好点的国产冰箱](https://www.v2ex.com/t/667920)  
-- [2020-05-01-问一下各位大哥关于买网络授课是否有必要的问题](https://www.v2ex.com/t/667919)  
-- [2020-05-01-Mornin---基于-WebRTC-的匿名音频会议服务](https://www.v2ex.com/t/667918)  
-- [2020-05-01-有什么工具可以方便地修改字体文件中特定字符的样式？](https://www.v2ex.com/t/667917)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

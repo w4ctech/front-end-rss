@@ -454,6 +454,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "只有2行代码的库，坑了数百万JS项目",
+        "link": "https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "案例｜原生手写一个轮播图——渐隐渐显版",
+        "link": "https://www.ershicimi.com/p/88203e2f5f9dfd1fdefc52782f8c4dcc",
+        "date": "2020-04-30"
+      },
+      {
         "title": "资深前端工程师：裁人后，我总结了 7 个必备技能",
         "link": "https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240",
         "date": "2020-04-29"
@@ -13015,6 +13025,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "面试官：兄弟，说说 Java 到底是值传递还是引用传递",
+        "link": "https://toutiao.io/k/i0s6clu",
+        "date": "2020-05-01"
+      },
+      {
+        "title": "Spring MVC 从源码分析到实践如何动态添加拦截器",
+        "link": "https://toutiao.io/k/hhgalq9",
+        "date": "2020-05-01"
+      },
+      {
+        "title": "流量分析在安全攻防上的探索实践",
+        "link": "https://toutiao.io/k/qe28bew",
+        "date": "2020-05-01"
+      },
+      {
+        "title": "LFU 五种实现方式，从简单到复杂",
+        "link": "https://toutiao.io/k/elsj1c6",
+        "date": "2020-05-01"
+      },
       {
         "title": "OPPO 工程师在看什么书？",
         "link": "https://toutiao.io/k/2p045mt",

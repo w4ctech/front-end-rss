@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -32,6 +32,7 @@
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) 
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
+- [2020-04-30-案例｜原生手写一个轮播图——渐隐渐显版](https://www.ershicimi.com/p/88203e2f5f9dfd1fdefc52782f8c4dcc) 
 - [2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240) 
 - [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6) 
 - [2020-04-28-Web上的图片技巧](https://www.ershicimi.com/p/8fec0f923d580cec10c9d78fe29146ba) 
@@ -1765,6 +1766,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-01-Spring-MVC-从源码分析到实践如何动态添加拦截器](https://toutiao.io/k/hhgalq9) 
+- [2020-05-01-LFU-五种实现方式，从简单到复杂](https://toutiao.io/k/elsj1c6) 
 - [2020-05-01-OPPO-工程师在看什么书？](https://toutiao.io/k/2p045mt) 
 - [2020-05-01-携程机票前端-UI-自动化与持续集成升级实践](https://toutiao.io/k/1d7fi0u) 
 - [2020-05-01-美团-OCTO-万亿级数据中心计算引擎技术解析](https://toutiao.io/k/m3b0mht) 

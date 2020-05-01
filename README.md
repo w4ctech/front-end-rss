@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 04:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -853,9 +853,11 @@
 </summary>
 
 
-- [2020-05-01-Pixivic.com-Android-&-iOS-客户端正式上线](https://www.v2ex.com/t/667813) ![](assets/new.png)  
-- [2020-05-01-bilibili-图床插件](https://www.v2ex.com/t/667812) ![](assets/new.png)  
-- [2020-05-01-macOS-有什么办法关闭-HDR-显示](https://www.v2ex.com/t/667811) ![](assets/new.png)  
+- [2020-05-01-五一加班两天，一比一调休。有跟我们一样要加班的吗？](https://www.v2ex.com/t/667815) ![](assets/new.png)  
+- [2020-05-01-显示器推荐---Dell-P2720D-还是-AOC-U2790PQU](https://www.v2ex.com/t/667814) ![](assets/new.png)  
+- [2020-05-01-Pixivic.com-Android-&-iOS-客户端正式上线](https://www.v2ex.com/t/667813)  
+- [2020-05-01-bilibili-图床插件](https://www.v2ex.com/t/667812)  
+- [2020-05-01-macOS-有什么办法关闭-HDR-显示](https://www.v2ex.com/t/667811)  
 - [2020-05-01-远程-硅谷-Jerry-Ai-软件工程师招聘持续进行中](https://www.v2ex.com/t/667810)  
 - [2020-05-01-有没有时候上班玩的小物件？-如：九连环，小黄鸭](https://www.v2ex.com/t/667808)  
 - [2020-05-01-写了个哔哩哔哩视频下载的玩具，需要的可以拿走](https://www.v2ex.com/t/667807)  
@@ -871,8 +873,6 @@
 - [2020-05-01-研究了一天-Android-使用-app_process-启动-Java-类，失败了，代码丢-Github-上了，哪位-V-帮看看](https://www.v2ex.com/t/667795)  
 - [2020-05-01-深圳-招聘-PHP-开发工程师](https://www.v2ex.com/t/667794)  
 - [2020-05-01-求助-Python-多线程通信-好心人救救孩子，点开工资超级加倍](https://www.v2ex.com/t/667793)  
-- [2020-05-01-疫情期间大部分企业都在裁员，而快手却要招聘-1-万名员工](https://www.v2ex.com/t/667792)  
-- [2020-05-01-百度把首页和账号中心美化了](https://www.v2ex.com/t/667791)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

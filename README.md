@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 15:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 15:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,13 +22,13 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -180,7 +180,7 @@
 </summary>
 
 
-- [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff) ![](assets/new.png)  
+- [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)  
 - [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)  
 - [2020-04-27-前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)  
@@ -301,6 +301,7 @@
 </summary>
 
 
+- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) ![](assets/new.png)  
 - [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
 - [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
@@ -320,7 +321,6 @@
 - [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626)  
 - [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562)  
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047)  
-- [2020-04-21-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

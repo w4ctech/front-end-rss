@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -271,6 +271,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-01-想买个带-USB-type-A-接口的-mac-设备，有推荐的吗](https://www.v2ex.com/t/667827) 
+- [2020-05-01-开车价，天猫的蔡司擦镜纸，-180-片只要-69-元，合计-0.38-元一片](https://www.v2ex.com/t/667826) 
+- [2020-05-01-有了-Spark，为什么-Airmail-还敢卖这么贵？](https://www.v2ex.com/t/667823) 
+- [2020-05-01-求可视化辅助编程前端岗位](https://www.v2ex.com/t/667821) 
+- [2020-05-01-测试开发有前途吗？](https://www.v2ex.com/t/667820) 
+- [2020-05-01-google-play-上没有京东？还是我搜索的方法不对？](https://www.v2ex.com/t/667819) 
+- [2020-05-01-求可视化辅助编程类前端岗位](https://www.v2ex.com/t/667818) 
+- [2020-05-01-特斯拉国行-model3-再度降价了……](https://www.v2ex.com/t/667817) 
+- [2020-05-01-这个是属于网络攻击吗?](https://www.v2ex.com/t/667816) 
 - [2020-05-01-五一加班两天，一比一调休。有跟我们一样要加班的吗？](https://www.v2ex.com/t/667815) 
 - [2020-05-01-显示器推荐---Dell-P2720D-还是-AOC-U2790PQU](https://www.v2ex.com/t/667814) 
 - [2020-05-01-Pixivic.com-Android-&-iOS-客户端正式上线](https://www.v2ex.com/t/667813) 
@@ -1756,6 +1765,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-01-OPPO-工程师在看什么书？](https://toutiao.io/k/2p045mt) 
+- [2020-05-01-携程机票前端-UI-自动化与持续集成升级实践](https://toutiao.io/k/1d7fi0u) 
+- [2020-05-01-美团-OCTO-万亿级数据中心计算引擎技术解析](https://toutiao.io/k/m3b0mht) 
 - [2020-04-30-推荐-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw) 
 - [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon) 
 - [2020-04-30-三年之久的-etcd3-数据不一致-bug-分析](https://toutiao.io/k/ktso06v) 

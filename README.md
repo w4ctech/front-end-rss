@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 09:30:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -853,8 +853,17 @@
 </summary>
 
 
-- [2020-05-01-五一加班两天，一比一调休。有跟我们一样要加班的吗？](https://www.v2ex.com/t/667815) ![](assets/new.png)  
-- [2020-05-01-显示器推荐---Dell-P2720D-还是-AOC-U2790PQU](https://www.v2ex.com/t/667814) ![](assets/new.png)  
+- [2020-05-01-想买个带-USB-type-A-接口的-mac-设备，有推荐的吗](https://www.v2ex.com/t/667827) ![](assets/new.png)  
+- [2020-05-01-开车价，天猫的蔡司擦镜纸，-180-片只要-69-元，合计-0.38-元一片](https://www.v2ex.com/t/667826) ![](assets/new.png)  
+- [2020-05-01-有了-Spark，为什么-Airmail-还敢卖这么贵？](https://www.v2ex.com/t/667823) ![](assets/new.png)  
+- [2020-05-01-求可视化辅助编程前端岗位](https://www.v2ex.com/t/667821) ![](assets/new.png)  
+- [2020-05-01-测试开发有前途吗？](https://www.v2ex.com/t/667820) ![](assets/new.png)  
+- [2020-05-01-google-play-上没有京东？还是我搜索的方法不对？](https://www.v2ex.com/t/667819) ![](assets/new.png)  
+- [2020-05-01-求可视化辅助编程类前端岗位](https://www.v2ex.com/t/667818) ![](assets/new.png)  
+- [2020-05-01-特斯拉国行-model3-再度降价了……](https://www.v2ex.com/t/667817) ![](assets/new.png)  
+- [2020-05-01-这个是属于网络攻击吗?](https://www.v2ex.com/t/667816) ![](assets/new.png)  
+- [2020-05-01-五一加班两天，一比一调休。有跟我们一样要加班的吗？](https://www.v2ex.com/t/667815)  
+- [2020-05-01-显示器推荐---Dell-P2720D-还是-AOC-U2790PQU](https://www.v2ex.com/t/667814)  
 - [2020-05-01-Pixivic.com-Android-&-iOS-客户端正式上线](https://www.v2ex.com/t/667813)  
 - [2020-05-01-bilibili-图床插件](https://www.v2ex.com/t/667812)  
 - [2020-05-01-macOS-有什么办法关闭-HDR-显示](https://www.v2ex.com/t/667811)  
@@ -864,15 +873,6 @@
 - [2020-05-01-房租下降你们察觉了嘛？](https://www.v2ex.com/t/667806)  
 - [2020-05-01-Safari-浏览器里的文稿与数据清理不掉，占用大量空间](https://www.v2ex.com/t/667805)  
 - [2020-05-01-如何学习区块链技术](https://www.v2ex.com/t/667804)  
-- [2020-05-01-Redis-6.0-正式发布！](https://www.v2ex.com/t/667803)  
-- [2020-05-01-员工拒绝加班被判赔偿公司-1-万-8，奇怪的事件增加了！这会不会是一个历史存档~](https://www.v2ex.com/t/667802)  
-- [2020-05-01-现在有非曲面屏的旗舰-865-么？](https://www.v2ex.com/t/667801)  
-- [2020-05-01-求助-有没有老哥来救救妹纸，老师布置的-Apache2-作业哈](https://www.v2ex.com/t/667799)  
-- [2020-05-01-半夜发帖吐槽一下天猫的价保规则。](https://www.v2ex.com/t/667798)  
-- [2020-05-01-京东购买的物品有划痕，拒收后换新-or-退货该如何选？？](https://www.v2ex.com/t/667796)  
-- [2020-05-01-研究了一天-Android-使用-app_process-启动-Java-类，失败了，代码丢-Github-上了，哪位-V-帮看看](https://www.v2ex.com/t/667795)  
-- [2020-05-01-深圳-招聘-PHP-开发工程师](https://www.v2ex.com/t/667794)  
-- [2020-05-01-求助-Python-多线程通信-好心人救救孩子，点开工资超级加倍](https://www.v2ex.com/t/667793)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -915,6 +915,9 @@
 </summary>
 
 
+- [2020-05-01-OPPO-工程师在看什么书？](https://toutiao.io/k/2p045mt) ![](assets/new.png)  
+- [2020-05-01-携程机票前端-UI-自动化与持续集成升级实践](https://toutiao.io/k/1d7fi0u) ![](assets/new.png)  
+- [2020-05-01-美团-OCTO-万亿级数据中心计算引擎技术解析](https://toutiao.io/k/m3b0mht) ![](assets/new.png)  
 - [2020-04-30-推荐-聊聊在-Go-语言里使用继承的翻车经历](https://toutiao.io/k/sy224qw)  
 - [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j)  
 - [2020-04-30-数据源管理：PostgreSQL-环境整合，JSON-类型应用](https://toutiao.io/k/s31mimh)  
@@ -932,9 +935,6 @@
 - [2020-04-30-iOS-13-+-Safari-启用陀螺仪授权](https://toutiao.io/k/wmb1bxm)  
 - [2020-04-30-常用的-Java-并发编程技术](https://toutiao.io/k/qs7jx4w)  
 - [2020-04-30-OpenStack-之-log-详解](https://toutiao.io/k/ziz4xwv)  
-- [2020-04-30-挖矿-=-求解一个合适的-nonce-整数，区块链与加密数字货币知识科普](https://toutiao.io/k/7qbpk18)  
-- [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y)  
-- [2020-04-30-惊呆了！不改一行-Java-代码竟然就能轻松解决敏感信息加解密](https://toutiao.io/k/jubg21s)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

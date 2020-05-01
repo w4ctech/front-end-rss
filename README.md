@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 23:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 00:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -856,26 +856,26 @@
 </summary>
 
 
-- [2020-05-01-即刻团队做的这个返利平台有点意思](https://www.v2ex.com/t/667988) ![](assets/new.png)  
-- [2020-05-01-千里投毒-对不起，我从美国千里投毒了，留学生回来报效祖国，确惨遭。。。](https://www.v2ex.com/t/667984) ![](assets/new.png)  
-- [2020-05-01-MacOS-自动切换-APP-当前输入法小工具-1.1.0-更新](https://www.v2ex.com/t/667983) ![](assets/new.png)  
-- [2020-05-01-结婚挺复杂的](https://www.v2ex.com/t/667982) ![](assets/new.png)  
-- [2020-05-01-终于上车了，但是有点不愉快](https://www.v2ex.com/t/667981) ![](assets/new.png)  
-- [2020-05-01-vs-code-能修改侧边栏字体吗？](https://www.v2ex.com/t/667980) ![](assets/new.png)  
-- [2020-05-01-南京的一家华为外包，实习去做讲师靠谱吗？](https://www.v2ex.com/t/667979) ![](assets/new.png)  
-- [2020-05-01-杭州古荡寻找室友，近支付宝](https://www.v2ex.com/t/667978) ![](assets/new.png)  
-- [2020-05-01-go-admin-基于-gin+vue-的中后台脚手架-多命令支持-发布开发环境配置视频](https://www.v2ex.com/t/667977) ![](assets/new.png)  
-- [2020-05-01-有没有人喜欢下载？喜欢跑满带宽？](https://www.v2ex.com/t/667976) ![](assets/new.png)  
-- [2020-05-01-拯救者-R7000-锐龙版联想美国官网开启预定](https://www.v2ex.com/t/667975) ![](assets/new.png)  
+- [2020-05-01-社交平台上的阴阳怪气是不是已然成为了一种与人交流的“正常”方式？](https://www.v2ex.com/t/667994) ![](assets/new.png)  
+- [2020-05-01-苹果搞那么多摄像头，直男真是用不上](https://www.v2ex.com/t/667993) ![](assets/new.png)  
+- [2020-05-01-深圳电信宽带，提速-500M，永久提速资费不变。](https://www.v2ex.com/t/667992) ![](assets/new.png)  
+- [2020-05-01-2020-年，-v-友们都用什么地图导航软件呢？](https://www.v2ex.com/t/667991) ![](assets/new.png)  
+- [2020-05-01-恭喜网文成为下一个被资本爆菊的产业](https://www.v2ex.com/t/667990) ![](assets/new.png)  
+- [2020-05-01-借那位东南亚某电商供应链研发说的事情，我继续说一说那个供应链-PM-的江湖一书](https://www.v2ex.com/t/667989) ![](assets/new.png)  
+- [2020-05-01-即刻团队做的这个返利平台有点意思](https://www.v2ex.com/t/667988)  
+- [2020-05-01-千里投毒-对不起，我从美国千里投毒了，留学生回来报效祖国，确惨遭。。。](https://www.v2ex.com/t/667984)  
+- [2020-05-01-MacOS-自动切换-APP-当前输入法小工具-1.1.0-更新](https://www.v2ex.com/t/667983)  
+- [2020-05-01-结婚挺复杂的](https://www.v2ex.com/t/667982)  
+- [2020-05-01-终于上车了，但是有点不愉快](https://www.v2ex.com/t/667981)  
+- [2020-05-01-vs-code-能修改侧边栏字体吗？](https://www.v2ex.com/t/667980)  
+- [2020-05-01-南京的一家华为外包，实习去做讲师靠谱吗？](https://www.v2ex.com/t/667979)  
+- [2020-05-01-杭州古荡寻找室友，近支付宝](https://www.v2ex.com/t/667978)  
+- [2020-05-01-go-admin-基于-gin+vue-的中后台脚手架-多命令支持-发布开发环境配置视频](https://www.v2ex.com/t/667977)  
+- [2020-05-01-有没有人喜欢下载？喜欢跑满带宽？](https://www.v2ex.com/t/667976)  
+- [2020-05-01-拯救者-R7000-锐龙版联想美国官网开启预定](https://www.v2ex.com/t/667975)  
 - [2020-05-01-14-届计算机本科，自学-Python-近半年，求成都职位收留](https://www.v2ex.com/t/667974)  
 - [2020-05-01-打开京东的网页风扇就响个不停](https://www.v2ex.com/t/667972)  
 - [2020-05-01-阿里云国际的网段问题](https://www.v2ex.com/t/667971)  
-- [2020-05-01-spring-事务是-jdk-动态代理还是-cglib-字节码织入？](https://www.v2ex.com/t/667970)  
-- [2020-05-01-土区有要上车的-ma](https://www.v2ex.com/t/667968)  
-- [2020-05-01-i3wm-下用-picom-配置画面闪烁](https://www.v2ex.com/t/667967)  
-- [2020-05-01-webpack4-打包-SASS-能不能只打包用到的样式?](https://www.v2ex.com/t/667966)  
-- [2020-05-01-适用于自学和自由职业的因果模型和线下组团计划](https://www.v2ex.com/t/667963)  
-- [2020-05-01-安卓开发中如何在应用内调用可执行文件（如-adb-等）](https://www.v2ex.com/t/667962)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

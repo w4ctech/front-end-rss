@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -14,6 +14,7 @@
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-01-苹果搞那么多摄像头，直男真是用不上](https://www.v2ex.com/t/667993) 
 - [2020-05-01-Mornin---基于-WebRTC-的匿名音频会议服务](https://www.v2ex.com/t/667918) 
 - [2020-05-01-急招-深圳虾皮-shopee-金融业务前端开发内推-远程视频面试-远程入职](https://www.v2ex.com/t/667904) 
 - [2020-05-01-有没有什么方法让-iPhone-作为-mac-的摄像头](https://www.v2ex.com/t/667890) 

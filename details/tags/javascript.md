@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 04:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,6 +99,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-02-用-vlan-摆脱旁路由](https://www.v2ex.com/t/668006) 
 - [2020-05-01-纪录片-国家地理：揭秘-1947-年罗斯维尔-UFO-事件](https://www.v2ex.com/t/667925) 
 - [2020-05-01-请问一下-vscode-有没有那种根据类名自动提示变量名的插件，比如-Human-类提示-human-变量名](https://www.v2ex.com/t/667870) 
 - [2020-05-01-员工拒绝加班被判赔偿公司-1-万-8，奇怪的事件增加了！这会不会是一个历史存档~](https://www.v2ex.com/t/667802) 

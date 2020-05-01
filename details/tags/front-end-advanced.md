@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,6 +20,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-01-小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866) 
 - [2020-04-30-开始更新-Laravel-精品课教程，希望助力更多同学成为全栈工程师](https://www.v2ex.com/t/667779) 
 - [2020-04-30-Coupang上海北京外企软银系招聘-开发（前端-后端-Android-IOS）测试-数据分析-数据科学-算法-大数据](https://www.v2ex.com/t/667651) 
 - [2020-04-30-济南-后端、全栈、前端工程师](https://www.v2ex.com/t/667603) 

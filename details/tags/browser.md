@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -27,6 +27,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-01-一个空的-main.cppc++编译不过了，在-include/c++/v1/cstring-报-error:-expected-unqualified-id-有人遇到过吗？](https://www.v2ex.com/t/667862) 
+- [2020-05-01-短网址-url。cn-和-t。cn-被指向本地怎么解决？](https://www.v2ex.com/t/667857) 
 - [2020-05-01-Safari-浏览器里的文稿与数据清理不掉，占用大量空间](https://www.v2ex.com/t/667805) 
 - [2020-04-30-Edge-Chrome-有什么办法可以双击标签页栏关闭标签页么](https://www.v2ex.com/t/667767) 
 - [2020-04-30-有没有-chrome-上一键/右键上传图片的插件](https://www.v2ex.com/t/667713) 

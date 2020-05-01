@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 12:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 13:30:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -96,7 +96,7 @@
 </summary>
 
 
-- [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9) ![](assets/new.png)  
+- [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9)  
 - [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)  
 - [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298)  
 - [2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)  
@@ -855,26 +855,26 @@
 </summary>
 
 
+- [2020-05-01-字节跳动内推，校招、社招、实习，简历直达-hr，只要你投了，就负责到底全程帮忙跟进！](https://www.v2ex.com/t/667876) ![](assets/new.png)  
+- [2020-05-01-微软将-Visual-Studio-Online-改名为-Visual-Studio-Codespaces！-Visual-Studio-Online-两立两废，真的太难了！](https://www.v2ex.com/t/667875) ![](assets/new.png)  
+- [2020-05-01-为什么现在电视盒子的配置都特别低？](https://www.v2ex.com/t/667872) ![](assets/new.png)  
+- [2020-05-01-厦门互联网真是一片惨淡：上市公司高级-VP-辞职做微商了](https://www.v2ex.com/t/667871) ![](assets/new.png)  
+- [2020-05-01-请问一下-vscode-有没有那种根据类名自动提示变量名的插件，比如-Human-类提示-human-变量名](https://www.v2ex.com/t/667870) ![](assets/new.png)  
+- [2020-05-01-拼夕夕上-999-的索尼-WF-1000XM3-可靠吗](https://www.v2ex.com/t/667869) ![](assets/new.png)  
+- [2020-05-01-偷条百科：我们不生产百科内容，我们只是百科内容的搬运工](https://www.v2ex.com/t/667868) ![](assets/new.png)  
+- [2020-05-01-小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866) ![](assets/new.png)  
+- [2020-05-01-请教国行手机-netflix-正确的高清打开方式](https://www.v2ex.com/t/667864) ![](assets/new.png)  
+- [2020-05-01-Talent-Plan---希望是最好的分布式系统和分布式数据库实践课程](https://www.v2ex.com/t/667863) ![](assets/new.png)  
+- [2020-05-01-一个空的-main.cppc++编译不过了，在-include/c++/v1/cstring-报-error:-expected-unqualified-id-有人遇到过吗？](https://www.v2ex.com/t/667862) ![](assets/new.png)  
+- [2020-05-01-谷歌账号申请时需要用手机号验证，但是三个手机号都不行，显示已用过](https://www.v2ex.com/t/667861) ![](assets/new.png)  
+- [2020-05-01-微信里面给好几个人设置了免打扰，是否有办法把这些人合在一起呢？-qq-应该是有这个功能](https://www.v2ex.com/t/667860) ![](assets/new.png)  
+- [2020-05-01-支付宝又开始了令人作呕的操作](https://www.v2ex.com/t/667858) ![](assets/new.png)  
+- [2020-05-01-短网址-url。cn-和-t。cn-被指向本地怎么解决？](https://www.v2ex.com/t/667857) ![](assets/new.png)  
+- [2020-05-01-看了这个拒绝加班判赔偿-1.8w-的事情，我的心情久久不能平静](https://www.v2ex.com/t/667856) ![](assets/new.png)  
+- [2020-05-01-求租-花木附近-合租整租都可以](https://www.v2ex.com/t/667855) ![](assets/new.png)  
+- [2020-05-01-CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854) ![](assets/new.png)  
 - [2020-05-01-卧槽，现在按摩都这么猛的吗](https://www.v2ex.com/t/667852)  
 - [2020-05-01-被苹果卡审核了，完全不知道为啥](https://www.v2ex.com/t/667851)  
-- [2020-05-01-问一个-swagger-maven-plugin-相关的问题](https://www.v2ex.com/t/667850)  
-- [2020-05-01-一个-nodejs-的个性单词域名挖掘工具](https://www.v2ex.com/t/667849)  
-- [2020-05-01-请教大佬-网络自测-有现成的开源代码没？](https://www.v2ex.com/t/667848)  
-- [2020-05-01-华为杭州研究所咋样](https://www.v2ex.com/t/667846)  
-- [2020-05-01-大家来说说在淘宝百亿补贴都遇到过什么坑](https://www.v2ex.com/t/667845)  
-- [2020-05-01-转-员工拒绝加班，被判赔偿公司-1-万-8](https://www.v2ex.com/t/667843)  
-- [2020-05-01-MacBook-Pro-在-Apple-store-应用内不显示](https://www.v2ex.com/t/667842)  
-- [2020-05-01-天才吧预约不上的可以尝试重装一下苹果支持](https://www.v2ex.com/t/667841)  
-- [2020-05-01-2020，是时候上车-Jetpack-MVVM-和-Kotlin-了](https://www.v2ex.com/t/667840)  
-- [2020-05-01-既然推广电话是机器人，那么你们留下彩蛋了吗？](https://www.v2ex.com/t/667839)  
-- [2020-05-01-有啥-Win10-邮箱管理软件推荐吗](https://www.v2ex.com/t/667838)  
-- [2020-05-01-树莓派基金会发布新款摄像头模组-Raspberry-Pi-HQ-Camera](https://www.v2ex.com/t/667837)  
-- [2020-05-01-找个房子来住真难喵](https://www.v2ex.com/t/667836)  
-- [2020-05-01-请教现在入手-macbook-的最佳方式](https://www.v2ex.com/t/667835)  
-- [2020-05-01-自己写的-单片机/Arduino-开发用的图片取模工具](https://www.v2ex.com/t/667834)  
-- [2020-05-01-求助一个-bootstrap-问题](https://www.v2ex.com/t/667833)  
-- [2020-05-01-开个题外话有什么国际前沿的防蚊灭蚊方法了么？](https://www.v2ex.com/t/667832)  
-- [2020-05-01-女-HR-开车玩手机，导致发生追尾。求职者有必要要承担部分责任吗？](https://www.v2ex.com/t/667831)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

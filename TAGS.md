@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-01 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 13:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -528,13 +528,13 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866)
 - [【V2EX】开始更新-Laravel-精品课教程，希望助力更多同学成为全栈工程师](https://www.v2ex.com/t/667779)
 - [【V2EX】Coupang上海北京外企软银系招聘-开发（前端-后端-Android-IOS）测试-数据分析-数据科学-算法-大数据](https://www.v2ex.com/t/667651)
 - [【V2EX】济南-后端、全栈、前端工程师](https://www.v2ex.com/t/667603)
 - [【V2EX】fastapi-orm-框架哪个比较好？](https://www.v2ex.com/t/667561)
 - [【V2EX】惊了,-.net-开发都默认是全栈吗???](https://www.v2ex.com/t/667407)
 - [【V2EX】零基础转-CS-岗从这儿开始！《算法基础班》帮你一站式解决入门问题](https://www.v2ex.com/t/667346)
-- [【V2EX】校招内推阿里健康招聘前端、测试、-Java-、算法等工程师](https://www.v2ex.com/t/667250)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -556,6 +556,7 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854)
 - [【V2EX】Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754)
 - [【V2EX】离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)
 - [【V2EX】Docker-容器中基于-Alpine-Linux-镜像，-kill-命令不起作用？](https://www.v2ex.com/t/667733)

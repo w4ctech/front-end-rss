@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-01 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -185,9 +185,9 @@
 - [【掘金前端】V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)
 - [【掘金前端】Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】一个-nodejs-的个性单词域名挖掘工具](https://www.v2ex.com/t/667849)
 - [【V2EX】大佬们，有-MAC-上可用的-iNode-智能客户端-或者有什么软件可以代替-iNode-智能客户端-的吗？](https://www.v2ex.com/t/667586)
 - [【V2EX】pymssql-连接-sql-server-express](https://www.v2ex.com/t/667210)
-- [【V2EX】electron-使用-web-worker-上传批量的文件（7W+）报-Maximum-call-stack-size-exceeded-错误](https://www.v2ex.com/t/667204)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

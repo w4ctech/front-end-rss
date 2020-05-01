@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 15:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -13,6 +13,8 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-01-急招-深圳虾皮-shopee-金融业务前端开发内推-远程视频面试-远程入职](https://www.v2ex.com/t/667904) 
+- [2020-05-01-有没有什么方法让-iPhone-作为-mac-的摄像头](https://www.v2ex.com/t/667890) 
 - [2020-05-01-树莓派基金会发布新款摄像头模组-Raspberry-Pi-HQ-Camera](https://www.v2ex.com/t/667837) 
 - [2020-05-01-写了个哔哩哔哩视频下载的玩具，需要的可以拿走](https://www.v2ex.com/t/667807) 
 - [2020-04-30-回形针最新一期，回形针是怎么做视频的](https://www.v2ex.com/t/667786) 

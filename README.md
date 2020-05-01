@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 15:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 16:30:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -301,7 +301,7 @@
 </summary>
 
 
-- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) ![](assets/new.png)  
+- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
 - [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
 - [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
@@ -856,26 +856,26 @@
 </summary>
 
 
-- [2020-05-01-淘系技术部招人啦-新零售技术事业群--Java-技术专家](https://www.v2ex.com/t/667888)  
-- [2020-05-01-ubuntu20.04-问题还是有点多](https://www.v2ex.com/t/667887)  
-- [2020-05-01-你们能登陆-intel.com-然后访问其论坛吗](https://www.v2ex.com/t/667886)  
-- [2020-05-01-五一儿童节天问：-AI-能基于盘面指标实现完美股票交易决策（预测）吗？](https://www.v2ex.com/t/667883)  
-- [2020-05-01-Chamber-节点下的帖子是不是应该把-置顶-按钮隐藏掉，我刚刚没注意，废了我-200-铜币。](https://www.v2ex.com/t/667881)  
-- [2020-05-01-字节跳动广告系统急招初高级前后端算法，-base-北京、上海、深圳、杭州都要，简历直达-hr！](https://www.v2ex.com/t/667880)  
-- [2020-05-01-请问腾讯的吃鸡类游戏适配-Android-Oreo-的问题？](https://www.v2ex.com/t/667879)  
-- [2020-05-01-来上海工作已经一个月了](https://www.v2ex.com/t/667878)  
-- [2020-05-01-字节跳动内推，校招、社招、实习，简历直达-hr，只要你投了，就负责到底全程帮忙跟进！](https://www.v2ex.com/t/667876)  
-- [2020-05-01-微软将-Visual-Studio-Online-改名为-Visual-Studio-Codespaces！-Visual-Studio-Online-两立两废，真的太难了！](https://www.v2ex.com/t/667875)  
-- [2020-05-01-为什么现在电视盒子的配置都特别低？](https://www.v2ex.com/t/667872)  
-- [2020-05-01-厦门互联网真是一片惨淡：上市公司高级-VP-辞职做微商了](https://www.v2ex.com/t/667871)  
-- [2020-05-01-请问一下-vscode-有没有那种根据类名自动提示变量名的插件，比如-Human-类提示-human-变量名](https://www.v2ex.com/t/667870)  
-- [2020-05-01-拼夕夕上-999-的索尼-WF-1000XM3-可靠吗](https://www.v2ex.com/t/667869)  
-- [2020-05-01-偷条百科：我们不生产百科内容，我们只是百科内容的搬运工](https://www.v2ex.com/t/667868)  
-- [2020-05-01-小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866)  
-- [2020-05-01-请教国行手机-netflix-正确的高清打开方式](https://www.v2ex.com/t/667864)  
-- [2020-05-01-Talent-Plan---希望是最好的分布式系统和分布式数据库实践课程](https://www.v2ex.com/t/667863)  
-- [2020-05-01-一个空的-main.cppc++编译不过了，在-include/c++/v1/cstring-报-error:-expected-unqualified-id-有人遇到过吗？](https://www.v2ex.com/t/667862)  
-- [2020-05-01-谷歌账号申请时需要用手机号验证，但是三个手机号都不行，显示已用过](https://www.v2ex.com/t/667861)  
+- [2020-05-01-枕木-众创文字冒险游戏-详细创意展示](https://www.v2ex.com/t/667914) ![](assets/new.png)  
+- [2020-05-01-求推荐-树莓派-4G-ram-版-4G/5G-蜂窝模块](https://www.v2ex.com/t/667912) ![](assets/new.png)  
+- [2020-05-01-极客时间《Go-语言和核心-36-讲》有没有人拼团的](https://www.v2ex.com/t/667911) ![](assets/new.png)  
+- [2020-05-01-pandownload-凉了，还有其他替代品吗](https://www.v2ex.com/t/667910) ![](assets/new.png)  
+- [2020-05-01-小米浏览器被指记录隐私浏览模式下的用户行为](https://www.v2ex.com/t/667909) ![](assets/new.png)  
+- [2020-05-01-感觉现在做自媒体还是很有市场啊](https://www.v2ex.com/t/667907) ![](assets/new.png)  
+- [2020-05-01-某宝这么便宜的升降桌是什么操作](https://www.v2ex.com/t/667906) ![](assets/new.png)  
+- [2020-05-01-急招-深圳虾皮-shopee-金融业务前端开发内推-远程视频面试-远程入职](https://www.v2ex.com/t/667904) ![](assets/new.png)  
+- [2020-05-01-重现木兰编程语言（五）——为省点眼睛，改进-Python-语法树格式化输出](https://www.v2ex.com/t/667903) ![](assets/new.png)  
+- [2020-05-01-通知：-STARTUP-4-寻求市场合作者](https://www.v2ex.com/t/667902) ![](assets/new.png)  
+- [2020-05-01-求救救-azure-虚拟机-apache-外网无法访问](https://www.v2ex.com/t/667901) ![](assets/new.png)  
+- [2020-05-01-关于-CDK-/-授权码-的生成算法以及公开算法后的安全性?](https://www.v2ex.com/t/667900) ![](assets/new.png)  
+- [2020-05-01-想买个投影仪求-V-友们推荐](https://www.v2ex.com/t/667899) ![](assets/new.png)  
+- [2020-05-01-讷鱼---游向某一片海洋（-Python-爬，手机使用）](https://www.v2ex.com/t/667898) ![](assets/new.png)  
+- [2020-05-01-伸手，有什么富文本编辑模块？](https://www.v2ex.com/t/667897) ![](assets/new.png)  
+- [2020-05-01-亿图-edraw-max-寻拼单](https://www.v2ex.com/t/667895) ![](assets/new.png)  
+- [2020-05-01-区块链虚拟货币还隐私安全吗？](https://www.v2ex.com/t/667894) ![](assets/new.png)  
+- [2020-05-01-上午看完了<俞军-产品方法论>-下午继续看-vue3-源码-yeah](https://www.v2ex.com/t/667893) ![](assets/new.png)  
+- [2020-05-01-祝大家五一快乐，有没有对音乐软件比较懂的大牛进来下](https://www.v2ex.com/t/667891) ![](assets/new.png)  
+- [2020-05-01-有没有什么方法让-iPhone-作为-mac-的摄像头](https://www.v2ex.com/t/667890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

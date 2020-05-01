@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 01:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -576,7 +576,7 @@
 </summary>
 
 
-- [2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) ![](assets/new.png)  
+- [2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95)  
 - [2020-04-30-这个春天，我投了300份简历至今-零-offer](https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523)  
 - [2020-04-29-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/085566f6c8937190443b9da12db2b504)  
 - [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be)  
@@ -857,7 +857,8 @@
 </summary>
 
 
-- [2020-05-02-2020-年，-android-auto-可以支持网易云和高德地图了吗？](https://www.v2ex.com/t/668001) ![](assets/new.png)  
+- [2020-05-02-想系统学下-spring](https://www.v2ex.com/t/668003) ![](assets/new.png)  
+- [2020-05-02-2020-年，-android-auto-可以支持网易云和高德地图了吗？](https://www.v2ex.com/t/668001)  
 - [2020-05-02-浦东单间转租-急-4,-6-号线，上海儿童医学中心，精装复式，朝北卧室，-2700](https://www.v2ex.com/t/667999)  
 - [2020-05-02-国内执法部门对软色情网站运营者还是比较宽容啊](https://www.v2ex.com/t/667997)  
 - [2020-05-02-Kubernetes-有自我学习能力和自我修复能力吗？](https://www.v2ex.com/t/667996)  
@@ -876,7 +877,6 @@
 - [2020-05-01-vs-code-能修改侧边栏字体吗？](https://www.v2ex.com/t/667980)  
 - [2020-05-01-南京的一家华为外包，实习去做讲师靠谱吗？](https://www.v2ex.com/t/667979)  
 - [2020-05-01-杭州古荡寻找室友，近支付宝](https://www.v2ex.com/t/667978)  
-- [2020-05-01-go-admin-基于-gin+vue-的中后台脚手架-多命令支持-发布开发环境配置视频](https://www.v2ex.com/t/667977)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 14:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 14:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -855,11 +855,14 @@
 </summary>
 
 
-- [2020-05-01-五一儿童节天问：-AI-能基于盘面指标实现完美股票交易决策（预测）吗？](https://www.v2ex.com/t/667883) ![](assets/new.png)  
-- [2020-05-01-Chamber-节点下的帖子是不是应该把-置顶-按钮隐藏掉，我刚刚没注意，废了我-200-铜币。](https://www.v2ex.com/t/667881) ![](assets/new.png)  
-- [2020-05-01-字节跳动广告系统急招初高级前后端算法，-base-北京、上海、深圳、杭州都要，简历直达-hr！](https://www.v2ex.com/t/667880) ![](assets/new.png)  
-- [2020-05-01-请问腾讯的吃鸡类游戏适配-Android-Oreo-的问题？](https://www.v2ex.com/t/667879) ![](assets/new.png)  
-- [2020-05-01-来上海工作已经一个月了](https://www.v2ex.com/t/667878) ![](assets/new.png)  
+- [2020-05-01-淘系技术部招人啦-新零售技术事业群--Java-技术专家](https://www.v2ex.com/t/667888) ![](assets/new.png)  
+- [2020-05-01-ubuntu20.04-问题还是有点多](https://www.v2ex.com/t/667887) ![](assets/new.png)  
+- [2020-05-01-你们能登陆-intel.com-然后访问其论坛吗](https://www.v2ex.com/t/667886) ![](assets/new.png)  
+- [2020-05-01-五一儿童节天问：-AI-能基于盘面指标实现完美股票交易决策（预测）吗？](https://www.v2ex.com/t/667883)  
+- [2020-05-01-Chamber-节点下的帖子是不是应该把-置顶-按钮隐藏掉，我刚刚没注意，废了我-200-铜币。](https://www.v2ex.com/t/667881)  
+- [2020-05-01-字节跳动广告系统急招初高级前后端算法，-base-北京、上海、深圳、杭州都要，简历直达-hr！](https://www.v2ex.com/t/667880)  
+- [2020-05-01-请问腾讯的吃鸡类游戏适配-Android-Oreo-的问题？](https://www.v2ex.com/t/667879)  
+- [2020-05-01-来上海工作已经一个月了](https://www.v2ex.com/t/667878)  
 - [2020-05-01-字节跳动内推，校招、社招、实习，简历直达-hr，只要你投了，就负责到底全程帮忙跟进！](https://www.v2ex.com/t/667876)  
 - [2020-05-01-微软将-Visual-Studio-Online-改名为-Visual-Studio-Codespaces！-Visual-Studio-Online-两立两废，真的太难了！](https://www.v2ex.com/t/667875)  
 - [2020-05-01-为什么现在电视盒子的配置都特别低？](https://www.v2ex.com/t/667872)  
@@ -872,9 +875,6 @@
 - [2020-05-01-Talent-Plan---希望是最好的分布式系统和分布式数据库实践课程](https://www.v2ex.com/t/667863)  
 - [2020-05-01-一个空的-main.cppc++编译不过了，在-include/c++/v1/cstring-报-error:-expected-unqualified-id-有人遇到过吗？](https://www.v2ex.com/t/667862)  
 - [2020-05-01-谷歌账号申请时需要用手机号验证，但是三个手机号都不行，显示已用过](https://www.v2ex.com/t/667861)  
-- [2020-05-01-微信里面给好几个人设置了免打扰，是否有办法把这些人合在一起呢？-qq-应该是有这个功能](https://www.v2ex.com/t/667860)  
-- [2020-05-01-支付宝又开始了令人作呕的操作](https://www.v2ex.com/t/667858)  
-- [2020-05-01-短网址-url。cn-和-t。cn-被指向本地怎么解决？](https://www.v2ex.com/t/667857)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

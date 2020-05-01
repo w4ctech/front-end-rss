@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-01 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -273,6 +273,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-01-五一儿童节天问：-AI-能基于盘面指标实现完美股票交易决策（预测）吗？](https://www.v2ex.com/t/667883) 
+- [2020-05-01-Chamber-节点下的帖子是不是应该把-置顶-按钮隐藏掉，我刚刚没注意，废了我-200-铜币。](https://www.v2ex.com/t/667881) 
+- [2020-05-01-来上海工作已经一个月了](https://www.v2ex.com/t/667878) 
 - [2020-05-01-字节跳动内推，校招、社招、实习，简历直达-hr，只要你投了，就负责到底全程帮忙跟进！](https://www.v2ex.com/t/667876) 
 - [2020-05-01-微软将-Visual-Studio-Online-改名为-Visual-Studio-Codespaces！-Visual-Studio-Online-两立两废，真的太难了！](https://www.v2ex.com/t/667875) 
 - [2020-05-01-为什么现在电视盒子的配置都特别低？](https://www.v2ex.com/t/667872) 

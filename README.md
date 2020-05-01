@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 13:30:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 14:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -855,26 +855,26 @@
 </summary>
 
 
-- [2020-05-01-字节跳动内推，校招、社招、实习，简历直达-hr，只要你投了，就负责到底全程帮忙跟进！](https://www.v2ex.com/t/667876) ![](assets/new.png)  
-- [2020-05-01-微软将-Visual-Studio-Online-改名为-Visual-Studio-Codespaces！-Visual-Studio-Online-两立两废，真的太难了！](https://www.v2ex.com/t/667875) ![](assets/new.png)  
-- [2020-05-01-为什么现在电视盒子的配置都特别低？](https://www.v2ex.com/t/667872) ![](assets/new.png)  
-- [2020-05-01-厦门互联网真是一片惨淡：上市公司高级-VP-辞职做微商了](https://www.v2ex.com/t/667871) ![](assets/new.png)  
-- [2020-05-01-请问一下-vscode-有没有那种根据类名自动提示变量名的插件，比如-Human-类提示-human-变量名](https://www.v2ex.com/t/667870) ![](assets/new.png)  
-- [2020-05-01-拼夕夕上-999-的索尼-WF-1000XM3-可靠吗](https://www.v2ex.com/t/667869) ![](assets/new.png)  
-- [2020-05-01-偷条百科：我们不生产百科内容，我们只是百科内容的搬运工](https://www.v2ex.com/t/667868) ![](assets/new.png)  
-- [2020-05-01-小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866) ![](assets/new.png)  
-- [2020-05-01-请教国行手机-netflix-正确的高清打开方式](https://www.v2ex.com/t/667864) ![](assets/new.png)  
-- [2020-05-01-Talent-Plan---希望是最好的分布式系统和分布式数据库实践课程](https://www.v2ex.com/t/667863) ![](assets/new.png)  
-- [2020-05-01-一个空的-main.cppc++编译不过了，在-include/c++/v1/cstring-报-error:-expected-unqualified-id-有人遇到过吗？](https://www.v2ex.com/t/667862) ![](assets/new.png)  
-- [2020-05-01-谷歌账号申请时需要用手机号验证，但是三个手机号都不行，显示已用过](https://www.v2ex.com/t/667861) ![](assets/new.png)  
-- [2020-05-01-微信里面给好几个人设置了免打扰，是否有办法把这些人合在一起呢？-qq-应该是有这个功能](https://www.v2ex.com/t/667860) ![](assets/new.png)  
-- [2020-05-01-支付宝又开始了令人作呕的操作](https://www.v2ex.com/t/667858) ![](assets/new.png)  
-- [2020-05-01-短网址-url。cn-和-t。cn-被指向本地怎么解决？](https://www.v2ex.com/t/667857) ![](assets/new.png)  
-- [2020-05-01-看了这个拒绝加班判赔偿-1.8w-的事情，我的心情久久不能平静](https://www.v2ex.com/t/667856) ![](assets/new.png)  
-- [2020-05-01-求租-花木附近-合租整租都可以](https://www.v2ex.com/t/667855) ![](assets/new.png)  
-- [2020-05-01-CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854) ![](assets/new.png)  
-- [2020-05-01-卧槽，现在按摩都这么猛的吗](https://www.v2ex.com/t/667852)  
-- [2020-05-01-被苹果卡审核了，完全不知道为啥](https://www.v2ex.com/t/667851)  
+- [2020-05-01-五一儿童节天问：-AI-能基于盘面指标实现完美股票交易决策（预测）吗？](https://www.v2ex.com/t/667883) ![](assets/new.png)  
+- [2020-05-01-Chamber-节点下的帖子是不是应该把-置顶-按钮隐藏掉，我刚刚没注意，废了我-200-铜币。](https://www.v2ex.com/t/667881) ![](assets/new.png)  
+- [2020-05-01-字节跳动广告系统急招初高级前后端算法，-base-北京、上海、深圳、杭州都要，简历直达-hr！](https://www.v2ex.com/t/667880) ![](assets/new.png)  
+- [2020-05-01-请问腾讯的吃鸡类游戏适配-Android-Oreo-的问题？](https://www.v2ex.com/t/667879) ![](assets/new.png)  
+- [2020-05-01-来上海工作已经一个月了](https://www.v2ex.com/t/667878) ![](assets/new.png)  
+- [2020-05-01-字节跳动内推，校招、社招、实习，简历直达-hr，只要你投了，就负责到底全程帮忙跟进！](https://www.v2ex.com/t/667876)  
+- [2020-05-01-微软将-Visual-Studio-Online-改名为-Visual-Studio-Codespaces！-Visual-Studio-Online-两立两废，真的太难了！](https://www.v2ex.com/t/667875)  
+- [2020-05-01-为什么现在电视盒子的配置都特别低？](https://www.v2ex.com/t/667872)  
+- [2020-05-01-厦门互联网真是一片惨淡：上市公司高级-VP-辞职做微商了](https://www.v2ex.com/t/667871)  
+- [2020-05-01-请问一下-vscode-有没有那种根据类名自动提示变量名的插件，比如-Human-类提示-human-变量名](https://www.v2ex.com/t/667870)  
+- [2020-05-01-拼夕夕上-999-的索尼-WF-1000XM3-可靠吗](https://www.v2ex.com/t/667869)  
+- [2020-05-01-偷条百科：我们不生产百科内容，我们只是百科内容的搬运工](https://www.v2ex.com/t/667868)  
+- [2020-05-01-小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866)  
+- [2020-05-01-请教国行手机-netflix-正确的高清打开方式](https://www.v2ex.com/t/667864)  
+- [2020-05-01-Talent-Plan---希望是最好的分布式系统和分布式数据库实践课程](https://www.v2ex.com/t/667863)  
+- [2020-05-01-一个空的-main.cppc++编译不过了，在-include/c++/v1/cstring-报-error:-expected-unqualified-id-有人遇到过吗？](https://www.v2ex.com/t/667862)  
+- [2020-05-01-谷歌账号申请时需要用手机号验证，但是三个手机号都不行，显示已用过](https://www.v2ex.com/t/667861)  
+- [2020-05-01-微信里面给好几个人设置了免打扰，是否有办法把这些人合在一起呢？-qq-应该是有这个功能](https://www.v2ex.com/t/667860)  
+- [2020-05-01-支付宝又开始了令人作呕的操作](https://www.v2ex.com/t/667858)  
+- [2020-05-01-短网址-url。cn-和-t。cn-被指向本地怎么解决？](https://www.v2ex.com/t/667857)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

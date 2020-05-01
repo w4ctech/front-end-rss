@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 05:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-02 06:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -129,6 +129,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-02-把家里电脑上的文件夹挂载到-VPS-上](https://www.v2ex.com/t/668008) 
 - [【V2EX】2020-05-02-WordPress-429-似乎已经恢复...](https://www.v2ex.com/t/668007) 
 - [【V2EX】2020-05-02-用-vlan-摆脱旁路由](https://www.v2ex.com/t/668006) 
 - [【V2EX】2020-05-02-视频抓取的-m3u8-文件无法-ffmpeg-下载，求指导](https://www.v2ex.com/t/668005) 

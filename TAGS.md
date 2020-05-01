@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-01 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -690,6 +690,7 @@
 
 
 
+- [【Vue中文社区】一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9)
 - [【Vue中文社区】作为毕业生的我在钉钉这一年的成长之路](https://www.ershicimi.com/p/abbf02a53068ab18076e1c4b05db8ef1)
 - [【Vue中文社区】你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/93c073e7a4ba809c092ea97f6515c38c)
 - [【Vue中文社区】成为前端大师的9个项目](https://www.ershicimi.com/p/e803b2c391b238d9c5deb324ac7c4fb1)
@@ -709,7 +710,6 @@
 - [【前端大全】为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)
 - [【前端大全】前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)
 - [【前端大全】一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c)
-- [【前端大全】如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

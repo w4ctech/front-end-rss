@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-04-29 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9) 
 - [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33) 
 - [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298) 
 - [2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184) 

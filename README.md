@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-01 12:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-01 12:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -96,6 +96,7 @@
 </summary>
 
 
+- [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9) ![](assets/new.png)  
 - [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)  
 - [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298)  
 - [2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)  
@@ -115,7 +116,6 @@
 - [2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/6bf6dbdf5ef8597e68ab74bcf52fabb3)  
 - [2020-04-20-12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755)  
 - [2020-04-19-从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296)  
-- [2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -604,7 +604,7 @@
 </summary>
 
 
-- [2020-04-30-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/07952dd2303bf4f2909a9d5d5f49d9d9) ![](assets/new.png)  
+- [2020-04-30-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/07952dd2303bf4f2909a9d5d5f49d9d9)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/49521db0a3b65153bc20efd590e78d63)  
 - [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7)  
 - [2020-04-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/28897cbcddda24789108dab6f85481dd)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-01 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-01 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9) 
 - [2020-04-28-作为毕业生的我在钉钉这一年的成长之路](https://www.ershicimi.com/p/abbf02a53068ab18076e1c4b05db8ef1) 
 - [2020-04-27-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/93c073e7a4ba809c092ea97f6515c38c) 
 - [2020-04-26-成为前端大师的9个项目](https://www.ershicimi.com/p/e803b2c391b238d9c5deb324ac7c4fb1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 09:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -857,7 +857,8 @@
 </summary>
 
 
-- [2020-05-02-有兄弟使用的-DELL-的笔记本开发的么？-win-的笔记本能否设置三指拖拽？](https://www.v2ex.com/t/668016) ![](assets/new.png)  
+- [2020-05-02-谷歌新用户免费一年的云服务器-gcp-有坑吗？-比如扣其他费用，被黑](https://www.v2ex.com/t/668018) ![](assets/new.png)  
+- [2020-05-02-有兄弟使用的-DELL-的笔记本开发的么？-win-的笔记本能否设置三指拖拽？](https://www.v2ex.com/t/668016)  
 - [2020-05-02-阿里腾讯是不是在变成财阀？](https://www.v2ex.com/t/668015)  
 - [2020-05-02-百度网盘-iOS-端太真实了吧，-IAP-抽成这么高？](https://www.v2ex.com/t/668014)  
 - [2020-05-02-B-站上传视频-upos-上传结束同步出现错误？？](https://www.v2ex.com/t/668013)  
@@ -876,7 +877,6 @@
 - [2020-05-02-发现被降权了，在-Apple-频道发了个帖子下沉到两天前了，能问问为什么吗？@livid](https://www.v2ex.com/t/667995)  
 - [2020-05-01-社交平台上的阴阳怪气是不是已然成为了一种与人交流的“正常”方式？](https://www.v2ex.com/t/667994)  
 - [2020-05-01-苹果搞那么多摄像头，直男真是用不上](https://www.v2ex.com/t/667993)  
-- [2020-05-01-深圳电信宽带，提速-500M，永久提速资费不变。](https://www.v2ex.com/t/667992)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -919,7 +919,7 @@
 </summary>
 
 
-- [2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9) ![](assets/new.png)  
+- [2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9)  
 - [2020-05-02-Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1)  
 - [2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l)  
 - [2020-05-02-YOLOv4-来了！COCO-43.5-AP，65-FPS！实现速度与精度的最优平衡](https://toutiao.io/k/lqtc19j)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-02 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -414,6 +414,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
 - [【V2EX】有大神研究过-36kr-的视频栏目接口吗？](https://www.v2ex.com/t/668049)
 - [【V2EX】飞瓜上的抖音等视频平台数据是正规的吗？](https://www.v2ex.com/t/668039)
 - [【V2EX】B-站上传视频-upos-上传结束同步出现错误？？](https://www.v2ex.com/t/668013)
@@ -426,7 +427,6 @@
 - [【V2EX】写了个哔哩哔哩视频下载的玩具，需要的可以拿走](https://www.v2ex.com/t/667807)
 - [【V2EX】回形针最新一期，回形针是怎么做视频的](https://www.v2ex.com/t/667786)
 - [【V2EX】大佬们，小白学-Python-是看谁能学得最正宗啊，讲课简单明了，书和视频都可以。](https://www.v2ex.com/t/667769)
-- [【V2EX】五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -595,6 +595,7 @@
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061)
 - [【V2EX】各位-Git-大佬，请教一个问题](https://www.v2ex.com/t/667949)
 - [【V2EX】研究了一天-Android-使用-app_process-启动-Java-类，失败了，代码丢-Github-上了，哪位-V-帮看看](https://www.v2ex.com/t/667795)
 - [【V2EX】好像有人在爬-v2ex，然后提交到-github，然后不小心-@了我](https://www.v2ex.com/t/667773)
@@ -606,7 +607,6 @@
 - [【V2EX】最近感觉-Aliyun-机器拉-GitHub-上面的东西好慢呀，大家有这种状况吗？](https://www.v2ex.com/t/666081)
 - [【V2EX】请问这种-Git-流程图是用什么工具画的呢？](https://www.v2ex.com/t/665886)
 - [【V2EX】对自己的网站进行版本控制的话现在基本还是在用-svn-吗？](https://www.v2ex.com/t/665697)
-- [【V2EX】大家项目-git-换行怎么设置？](https://www.v2ex.com/t/665581)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-02 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -414,6 +414,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】飞瓜上的抖音等视频平台数据是正规的吗？](https://www.v2ex.com/t/668039)
 - [【V2EX】B-站上传视频-upos-上传结束同步出现错误？？](https://www.v2ex.com/t/668013)
 - [【V2EX】视频抓取的-m3u8-文件无法-ffmpeg-下载，求指导](https://www.v2ex.com/t/668005)
 - [【V2EX】苹果搞那么多摄像头，直男真是用不上](https://www.v2ex.com/t/667993)
@@ -426,7 +427,6 @@
 - [【V2EX】大佬们，小白学-Python-是看谁能学得最正宗啊，讲课简单明了，书和视频都可以。](https://www.v2ex.com/t/667769)
 - [【V2EX】五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652)
 - [【V2EX】有没有短视频运营管理系统，支持多个网站的](https://www.v2ex.com/t/667577)
-- [【V2EX】为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

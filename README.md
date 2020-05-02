@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 23:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-03 00:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -878,8 +878,16 @@
 </summary>
 
 
-- [2020-05-02-长毛象不是单机好吧](https://www.v2ex.com/t/668146) ![](assets/new.png)  
-- [2020-05-02-X1-Carbon-请问淘宝买行货靠谱吗？](https://www.v2ex.com/t/668145) ![](assets/new.png)  
+- [2020-05-02-社招内推-阿里云-数据库团队-Java-Python-Go杭州](https://www.v2ex.com/t/668156) ![](assets/new.png)  
+- [2020-05-02-组建-NAS-连续翻车两次，-14+盘位-NAS（PC）装机分享！](https://www.v2ex.com/t/668154) ![](assets/new.png)  
+- [2020-05-02-快乐，可能是一个伪命题-----关于“乐”的新认知](https://www.v2ex.com/t/668153) ![](assets/new.png)  
+- [2020-05-02-系统被-Chrome-搞崩溃](https://www.v2ex.com/t/668152) ![](assets/new.png)  
+- [2020-05-02-求推荐一个-5000-左右黑苹果配置](https://www.v2ex.com/t/668151) ![](assets/new.png)  
+- [2020-05-02-普及一下量化交易的一些基本常识（看隔壁广告有感）](https://www.v2ex.com/t/668150) ![](assets/new.png)  
+- [2020-05-02-上海-公司招前端工程师，可帮内推～](https://www.v2ex.com/t/668149) ![](assets/new.png)  
+- [2020-05-02-人体生物节律小工具，欢迎使用](https://www.v2ex.com/t/668148) ![](assets/new.png)  
+- [2020-05-02-长毛象不是单机好吧](https://www.v2ex.com/t/668146)  
+- [2020-05-02-X1-Carbon-请问淘宝买行货靠谱吗？](https://www.v2ex.com/t/668145)  
 - [2020-05-02-搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144)  
 - [2020-05-02-用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143)  
 - [2020-05-02-请问安装-pyperclib-时报这个错误是怎么回事呢？](https://www.v2ex.com/t/668142)  
@@ -890,14 +898,6 @@
 - [2020-05-02-学了新技术，工作又用不到，想用新学的技术做点东西实践一下，可是又不知道做点啥好，大家有这种感受吗](https://www.v2ex.com/t/668135)  
 - [2020-05-02-google-one-无法订阅，显示交易遭拒，可我能正常购买软件](https://www.v2ex.com/t/668134)  
 - [2020-05-02-实习-offer-求比较](https://www.v2ex.com/t/668132)  
-- [2020-05-02-京东出-bug-了，白送了我一台咖啡机。](https://www.v2ex.com/t/668130)  
-- [2020-05-02-macOS-下有无类似-WLCreator-的软件供创建-wine-应用的快捷方式](https://www.v2ex.com/t/668129)  
-- [2020-05-02-第一次组-itx,-CPU-待机-60-度正常吗](https://www.v2ex.com/t/668128)  
-- [2020-05-02-戴森无叶风扇，值得买带净化功能的吗？](https://www.v2ex.com/t/668127)  
-- [2020-05-02-18-款-mbp-touch-bar-右侧显示不全，指纹有几天会很难识别](https://www.v2ex.com/t/668126)  
-- [2020-05-02-巴中高考体检平台登录不上，怎么办？](https://www.v2ex.com/t/668124)  
-- [2020-05-02-Android-Studio-有没有可视化编辑-AndroidManifest.xml-的插件-如图~](https://www.v2ex.com/t/668123)  
-- [2020-05-02-开车-阿根廷区-Premium-车](https://www.v2ex.com/t/668121)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

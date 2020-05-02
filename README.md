@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 18:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 19:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -689,8 +689,8 @@
 </summary>
 
 
-- [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f) ![](assets/new.png)  
-- [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) ![](assets/new.png)  
+- [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f)  
+- [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb)  
 - [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a)  
 - [2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973)  
 - [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b)  
@@ -878,6 +878,9 @@
 </summary>
 
 
+- [2020-05-02-华硕-ax86u-好还是-ax88u-好？好在哪？](https://www.v2ex.com/t/668114) ![](assets/new.png)  
+- [2020-05-02-ios-firefox-最新版不能用国际版账户同步数据了？](https://www.v2ex.com/t/668113) ![](assets/new.png)  
+- [2020-05-02-VMware-虚拟机设置多少个-cpu-核心？](https://www.v2ex.com/t/668111) ![](assets/new.png)  
 - [2020-05-02-宁波电信宽带上行提速了](https://www.v2ex.com/t/668109)  
 - [2020-05-02-华为-AX3-路由器，-199-块钱，感觉有点香](https://www.v2ex.com/t/668108)  
 - [2020-05-02-今年会发布新-Apple-TV-么？要不要等？](https://www.v2ex.com/t/668107)  
@@ -895,9 +898,6 @@
 - [2020-05-02-海外用户使用百度网盘](https://www.v2ex.com/t/668093)  
 - [2020-05-02-导出笔记掉字的问题终于有结论了？我对-Kindle-的容忍度已经差不多消耗完了](https://www.v2ex.com/t/668092)  
 - [2020-05-02-有没有-Linux-KDE-下好用的终端？](https://www.v2ex.com/t/668091)  
-- [2020-05-02-Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090)  
-- [2020-05-02-分享在-joinquant-调的几个-A-股策略,-年化-45%以上](https://www.v2ex.com/t/668089)  
-- [2020-05-02-她在知乎介绍我们家的绘本](https://www.v2ex.com/t/668088)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

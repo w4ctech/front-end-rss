@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-02 22:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-02-长毛象不是单机好吧](https://www.v2ex.com/t/668146) 
+- [2020-05-02-X1-Carbon-请问淘宝买行货靠谱吗？](https://www.v2ex.com/t/668145) 
 - [2020-05-02-搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144) 
 - [2020-05-02-用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143) 
 - [2020-05-02-请问安装-pyperclib-时报这个错误是怎么回事呢？](https://www.v2ex.com/t/668142) 

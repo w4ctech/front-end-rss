@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-02 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,8 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-02-长毛象不是单机好吧](https://www.v2ex.com/t/668146) 
+- [【V2EX】2020-05-02-X1-Carbon-请问淘宝买行货靠谱吗？](https://www.v2ex.com/t/668145) 
 - [【V2EX】2020-05-02-搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144) 
 - [【V2EX】2020-05-02-用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143) 
 - [【V2EX】2020-05-02-请问安装-pyperclib-时报这个错误是怎么回事呢？](https://www.v2ex.com/t/668142) 

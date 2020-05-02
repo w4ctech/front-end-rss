@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -464,6 +464,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-02-长毛象不是单机好吧](https://www.v2ex.com/t/668146) 
+- [2020-05-02-X1-Carbon-请问淘宝买行货靠谱吗？](https://www.v2ex.com/t/668145) 
 - [2020-05-02-请问安装-pyperclib-时报这个错误是怎么回事呢？](https://www.v2ex.com/t/668142) 
 - [2020-05-02-互联网会贫富分化吗？](https://www.v2ex.com/t/668141) 
 - [2020-05-02-200-块的无叶风扇值得买么？](https://www.v2ex.com/t/668140) 

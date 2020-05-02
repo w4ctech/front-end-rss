@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 15:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 16:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -878,26 +878,26 @@
 </summary>
 
 
-- [2020-05-02-上海-Java-开发最近找工作-cai-坑记-正式入职前持续更](https://www.v2ex.com/t/668076) ![](assets/new.png)  
-- [2020-05-02-Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075) ![](assets/new.png)  
-- [2020-05-02-请问有没有-win10-能用的解决-dns-污染的工具？](https://www.v2ex.com/t/668074) ![](assets/new.png)  
-- [2020-05-02-硅谷医疗科技公司招全栈-+-Node-/-React-JS，提供-h1b-签证赴美，签证生效前可在国内分公司办公，年薪-9-12-万美金](https://www.v2ex.com/t/668073) ![](assets/new.png)  
-- [2020-05-02-不同應用使用不同的-Apple-ID](https://www.v2ex.com/t/668072) ![](assets/new.png)  
-- [2020-05-02-有没有觉得-Goland2020-的-bug-有点多，甚至以前的功能都偶尔出现-bug](https://www.v2ex.com/t/668071) ![](assets/new.png)  
-- [2020-05-02-不是很新的新闻-FreeNAS-和-TrueNAS-即将统一为-TrueNAS](https://www.v2ex.com/t/668070) ![](assets/new.png)  
-- [2020-05-02-译-Ｃ程序员该知道的内存知识-1](https://www.v2ex.com/t/668069) ![](assets/new.png)  
-- [2020-05-02-kindle-上的书价格变动为啥这么大](https://www.v2ex.com/t/668067) ![](assets/new.png)  
-- [2020-05-02-挑选显示器求指南](https://www.v2ex.com/t/668066) ![](assets/new.png)  
-- [2020-05-02-现在外包市场上，小程序和-android-app-的需求哪个更大呢？](https://www.v2ex.com/t/668065) ![](assets/new.png)  
+- [2020-05-02-各位用什么管理右键菜单？](https://www.v2ex.com/t/668083) ![](assets/new.png)  
+- [2020-05-02-请教一下荣耀-v30-pro-和-nova7-pro-哪个好啊](https://www.v2ex.com/t/668082) ![](assets/new.png)  
+- [2020-05-02-Deno.ts-有解决.d.ts-的问题吗？](https://www.v2ex.com/t/668080) ![](assets/new.png)  
+- [2020-05-02-再开一帖，找一两个朋友合买-Udemy-的-The-Rust-Programming-Language-教程](https://www.v2ex.com/t/668079) ![](assets/new.png)  
+- [2020-05-02-2020-年了，话说大家毕业后，和初中同学、高中同学、本科同学（or-硕士同学）哪类同学玩的好一点？现在联系还多吗？](https://www.v2ex.com/t/668078) ![](assets/new.png)  
+- [2020-05-02-网站用户因为运营商-DNS-原因,导致广告或者无法正常解析的情况下,作为网站方有什么办法去处理吗?](https://www.v2ex.com/t/668077) ![](assets/new.png)  
+- [2020-05-02-上海-Java-开发最近找工作-cai-坑记-正式入职前持续更](https://www.v2ex.com/t/668076)  
+- [2020-05-02-Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075)  
+- [2020-05-02-请问有没有-win10-能用的解决-dns-污染的工具？](https://www.v2ex.com/t/668074)  
+- [2020-05-02-硅谷医疗科技公司招全栈-+-Node-/-React-JS，提供-h1b-签证赴美，签证生效前可在国内分公司办公，年薪-9-12-万美金](https://www.v2ex.com/t/668073)  
+- [2020-05-02-不同應用使用不同的-Apple-ID](https://www.v2ex.com/t/668072)  
+- [2020-05-02-有没有觉得-Goland2020-的-bug-有点多，甚至以前的功能都偶尔出现-bug](https://www.v2ex.com/t/668071)  
+- [2020-05-02-不是很新的新闻-FreeNAS-和-TrueNAS-即将统一为-TrueNAS](https://www.v2ex.com/t/668070)  
+- [2020-05-02-译-Ｃ程序员该知道的内存知识-1](https://www.v2ex.com/t/668069)  
+- [2020-05-02-kindle-上的书价格变动为啥这么大](https://www.v2ex.com/t/668067)  
+- [2020-05-02-挑选显示器求指南](https://www.v2ex.com/t/668066)  
+- [2020-05-02-现在外包市场上，小程序和-android-app-的需求哪个更大呢？](https://www.v2ex.com/t/668065)  
 - [2020-05-02-写了第二篇文章，推荐一些出差或旅行的好物～](https://www.v2ex.com/t/668062)  
 - [2020-05-02-不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061)  
 - [2020-05-02-求一款-2k-65w-type-c-的-24-英寸显示器](https://www.v2ex.com/t/668060)  
-- [2020-05-02-才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)  
-- [2020-05-02-外置声卡通常-line-out-接口和耳麦接口共用通道-？](https://www.v2ex.com/t/668055)  
-- [2020-05-02-谁是咸鱼内部人来看看](https://www.v2ex.com/t/668053)  
-- [2020-05-02-选择一个城市，然后边游车河边听当地的电台](https://www.v2ex.com/t/668052)  
-- [2020-05-02-10-年前，我用-AI-做了量化交易模型，年化-40%](https://www.v2ex.com/t/668050)  
-- [2020-05-02-有大神研究过-36kr-的视频栏目接口吗？](https://www.v2ex.com/t/668049)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -940,9 +940,9 @@
 </summary>
 
 
-- [2020-05-02-Python-如何移除旧的版本特性，如何迎接新的特性？](https://toutiao.io/k/dw2n175) ![](assets/new.png)  
-- [2020-05-02-10x-程序员之-Vim（一）](https://toutiao.io/k/3x8cux8) ![](assets/new.png)  
-- [2020-05-02-Mars-java-发布了-3.0.15-版本，将开始支持组件化](https://toutiao.io/k/9z4wnur) ![](assets/new.png)  
+- [2020-05-02-Python-如何移除旧的版本特性，如何迎接新的特性？](https://toutiao.io/k/dw2n175)  
+- [2020-05-02-10x-程序员之-Vim（一）](https://toutiao.io/k/3x8cux8)  
+- [2020-05-02-Mars-java-发布了-3.0.15-版本，将开始支持组件化](https://toutiao.io/k/9z4wnur)  
 - [2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9)  
 - [2020-05-02-Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1)  
 - [2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l)  

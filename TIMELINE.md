@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-02 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -138,6 +138,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-02-各位用什么管理右键菜单？](https://www.v2ex.com/t/668083) 
+- [【V2EX】2020-05-02-请教一下荣耀-v30-pro-和-nova7-pro-哪个好啊](https://www.v2ex.com/t/668082) 
+- [【V2EX】2020-05-02-Deno.ts-有解决.d.ts-的问题吗？](https://www.v2ex.com/t/668080) 
+- [【V2EX】2020-05-02-再开一帖，找一两个朋友合买-Udemy-的-The-Rust-Programming-Language-教程](https://www.v2ex.com/t/668079) 
+- [【V2EX】2020-05-02-2020-年了，话说大家毕业后，和初中同学、高中同学、本科同学（or-硕士同学）哪类同学玩的好一点？现在联系还多吗？](https://www.v2ex.com/t/668078) 
+- [【V2EX】2020-05-02-网站用户因为运营商-DNS-原因,导致广告或者无法正常解析的情况下,作为网站方有什么办法去处理吗?](https://www.v2ex.com/t/668077) 
 - [【V2EX】2020-05-02-上海-Java-开发最近找工作-cai-坑记-正式入职前持续更](https://www.v2ex.com/t/668076) 
 - [【V2EX】2020-05-02-Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075) 
 - [【V2EX】2020-05-02-请问有没有-win10-能用的解决-dns-污染的工具？](https://www.v2ex.com/t/668074) 

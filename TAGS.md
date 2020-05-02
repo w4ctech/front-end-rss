@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-02 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -414,6 +414,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143)
 - [【V2EX】乐视电视与腾讯视频合作到期了吗？](https://www.v2ex.com/t/668116)
 - [【V2EX】Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090)
 - [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
@@ -426,7 +427,6 @@
 - [【V2EX】急招-深圳虾皮-shopee-金融业务前端开发内推-远程视频面试-远程入职](https://www.v2ex.com/t/667904)
 - [【V2EX】有没有什么方法让-iPhone-作为-mac-的摄像头](https://www.v2ex.com/t/667890)
 - [【V2EX】树莓派基金会发布新款摄像头模组-Raspberry-Pi-HQ-Camera](https://www.v2ex.com/t/667837)
-- [【V2EX】写了个哔哩哔哩视频下载的玩具，需要的可以拿走](https://www.v2ex.com/t/667807)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -528,13 +528,13 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144)
 - [【V2EX】Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075)
 - [【V2EX】算法岗和开发岗](https://www.v2ex.com/t/667935)
 - [【V2EX】算法岗和开发岗的选择](https://www.v2ex.com/t/667927)
 - [【V2EX】字节跳动广告系统急招初高级前后端算法，-base-北京、上海、深圳、杭州都要，简历直达-hr！](https://www.v2ex.com/t/667880)
 - [【V2EX】小厂算法岗位-or-大厂后端](https://www.v2ex.com/t/667866)
 - [【V2EX】开始更新-Laravel-精品课教程，希望助力更多同学成为全栈工程师](https://www.v2ex.com/t/667779)
-- [【V2EX】Coupang上海北京外企软银系招聘-开发（前端-后端-Android-IOS）测试-数据分析-数据科学-算法-大数据](https://www.v2ex.com/t/667651)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

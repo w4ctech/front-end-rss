@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,6 +20,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-02-搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144) 
 - [2020-05-02-Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075) 
 - [2020-05-01-算法岗和开发岗](https://www.v2ex.com/t/667935) 
 - [2020-05-01-算法岗和开发岗的选择](https://www.v2ex.com/t/667927) 

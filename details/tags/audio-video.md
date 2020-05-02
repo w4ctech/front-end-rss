@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -14,6 +14,7 @@
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-02-用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143) 
 - [2020-05-02-乐视电视与腾讯视频合作到期了吗？](https://www.v2ex.com/t/668116) 
 - [2020-05-02-Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090) 
 - [2020-05-02-才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057) 

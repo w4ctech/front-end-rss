@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 21:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 22:30:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -847,6 +847,9 @@
 </summary>
 
 
+- [2020-05-02-知乎神吐槽-|-有哪些特征一眼就会被看出是-iPhone-用户？](https://www.ershicimi.com/p/b67c691c10a61523017e7c15dcd295b7) ![](assets/new.png)  
+- [2020-05-02-五一特供剧场，宠爱你的「少女心」](https://www.ershicimi.com/p/ae5136b9b655457c93ab1c695a2987aa) ![](assets/new.png)  
+- [2020-05-02-知乎故事-|-男女之间有纯友谊吗？](https://www.ershicimi.com/p/794510bc968c3d0aa40284aaa3e15033) ![](assets/new.png)  
 - [2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26)  
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)  
 - [2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce)  
@@ -864,9 +867,6 @@
 - [2020-04-27-这-30-组照片里，藏着-2020-年你错过的春天](https://www.ershicimi.com/p/1c68c0708bc3e731631cfaa9f71a45cf)  
 - [2020-04-27-为什么总是没人跟你聊天？](https://www.ershicimi.com/p/7b40c6dbcad9b1852e5ac91513a520ae)  
 - [2020-04-27-中奖名单-|-眼霜和会员月卡](https://www.ershicimi.com/p/26da928ac53437243d9d65952f9b3f7b)  
-- [2020-04-27-知乎故事-|-和一个外科医生谈恋爱比单身还自由](https://www.ershicimi.com/p/325fe220277afc5c2bf118d82870c823)  
-- [2020-04-26-本周知乎热榜-|-罗志祥瓜又增产，李国庆怒夺公章，华晨宇斩获歌王](https://www.ershicimi.com/p/d257253692576d6bce2fa674a5cbf3c9)  
-- [2020-04-26-有哪些能让手机更好用的隐藏小技巧？](https://www.ershicimi.com/p/1ed47f1372d5ee9527cf96345767a621)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -878,26 +878,26 @@
 </summary>
 
 
-- [2020-05-02-实习-offer-求比较](https://www.v2ex.com/t/668132) ![](assets/new.png)  
-- [2020-05-02-京东出-bug-了，白送了我一台咖啡机。](https://www.v2ex.com/t/668130) ![](assets/new.png)  
-- [2020-05-02-macOS-下有无类似-WLCreator-的软件供创建-wine-应用的快捷方式](https://www.v2ex.com/t/668129) ![](assets/new.png)  
-- [2020-05-02-第一次组-itx,-CPU-待机-60-度正常吗](https://www.v2ex.com/t/668128) ![](assets/new.png)  
-- [2020-05-02-戴森无叶风扇，值得买带净化功能的吗？](https://www.v2ex.com/t/668127) ![](assets/new.png)  
-- [2020-05-02-18-款-mbp-touch-bar-右侧显示不全，指纹有几天会很难识别](https://www.v2ex.com/t/668126) ![](assets/new.png)  
-- [2020-05-02-巴中高考体检平台登录不上，怎么办？](https://www.v2ex.com/t/668124) ![](assets/new.png)  
-- [2020-05-02-Android-Studio-有没有可视化编辑-AndroidManifest.xml-的插件-如图~](https://www.v2ex.com/t/668123) ![](assets/new.png)  
-- [2020-05-02-开车-阿根廷区-Premium-车](https://www.v2ex.com/t/668121) ![](assets/new.png)  
-- [2020-05-02-之前购买过的朋友都给了优惠，这次继续](https://www.v2ex.com/t/668120) ![](assets/new.png)  
-- [2020-05-02-蛋壳次卧转租](https://www.v2ex.com/t/668119) ![](assets/new.png)  
-- [2020-05-02-18-款-mbp-的-touch-bar-右侧显示不全，指纹有几天会很难识别](https://www.v2ex.com/t/668118) ![](assets/new.png)  
-- [2020-05-02-乐视电视与腾讯视频合作到期了吗？](https://www.v2ex.com/t/668116) ![](assets/new.png)  
-- [2020-05-02-人手一杯枸杞，作为程序员的我们是不是要跟上？](https://www.v2ex.com/t/668115) ![](assets/new.png)  
-- [2020-05-02-华硕-ax86u-好还是-ax88u-好？好在哪？](https://www.v2ex.com/t/668114)  
-- [2020-05-02-ios-firefox-最新版不能用国际版账户同步数据了？](https://www.v2ex.com/t/668113)  
-- [2020-05-02-VMware-虚拟机设置多少个-cpu-核心？](https://www.v2ex.com/t/668111)  
-- [2020-05-02-宁波电信宽带上行提速了](https://www.v2ex.com/t/668109)  
-- [2020-05-02-华为-AX3-路由器，-199-块钱，感觉有点香](https://www.v2ex.com/t/668108)  
-- [2020-05-02-今年会发布新-Apple-TV-么？要不要等？](https://www.v2ex.com/t/668107)  
+- [2020-05-02-搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144) ![](assets/new.png)  
+- [2020-05-02-用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143) ![](assets/new.png)  
+- [2020-05-02-请问安装-pyperclib-时报这个错误是怎么回事呢？](https://www.v2ex.com/t/668142) ![](assets/new.png)  
+- [2020-05-02-互联网会贫富分化吗？](https://www.v2ex.com/t/668141) ![](assets/new.png)  
+- [2020-05-02-200-块的无叶风扇值得买么？](https://www.v2ex.com/t/668140) ![](assets/new.png)  
+- [2020-05-02-网易互娱求简历啦~~~](https://www.v2ex.com/t/668138) ![](assets/new.png)  
+- [2020-05-02-我如果买一个港版-iPhone-SE，再买一张香港的-esim-流量卡](https://www.v2ex.com/t/668136) ![](assets/new.png)  
+- [2020-05-02-学了新技术，工作又用不到，想用新学的技术做点东西实践一下，可是又不知道做点啥好，大家有这种感受吗](https://www.v2ex.com/t/668135) ![](assets/new.png)  
+- [2020-05-02-google-one-无法订阅，显示交易遭拒，可我能正常购买软件](https://www.v2ex.com/t/668134) ![](assets/new.png)  
+- [2020-05-02-实习-offer-求比较](https://www.v2ex.com/t/668132)  
+- [2020-05-02-京东出-bug-了，白送了我一台咖啡机。](https://www.v2ex.com/t/668130)  
+- [2020-05-02-macOS-下有无类似-WLCreator-的软件供创建-wine-应用的快捷方式](https://www.v2ex.com/t/668129)  
+- [2020-05-02-第一次组-itx,-CPU-待机-60-度正常吗](https://www.v2ex.com/t/668128)  
+- [2020-05-02-戴森无叶风扇，值得买带净化功能的吗？](https://www.v2ex.com/t/668127)  
+- [2020-05-02-18-款-mbp-touch-bar-右侧显示不全，指纹有几天会很难识别](https://www.v2ex.com/t/668126)  
+- [2020-05-02-巴中高考体检平台登录不上，怎么办？](https://www.v2ex.com/t/668124)  
+- [2020-05-02-Android-Studio-有没有可视化编辑-AndroidManifest.xml-的插件-如图~](https://www.v2ex.com/t/668123)  
+- [2020-05-02-开车-阿根廷区-Premium-车](https://www.v2ex.com/t/668121)  
+- [2020-05-02-之前购买过的朋友都给了优惠，这次继续](https://www.v2ex.com/t/668120)  
+- [2020-05-02-蛋壳次卧转租](https://www.v2ex.com/t/668119)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

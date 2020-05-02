@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-02 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,9 +137,21 @@
 - [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【知乎日报】2020-05-02-知乎神吐槽-|-有哪些特征一眼就会被看出是-iPhone-用户？](https://www.ershicimi.com/p/b67c691c10a61523017e7c15dcd295b7) 
+- [【知乎日报】2020-05-02-五一特供剧场，宠爱你的「少女心」](https://www.ershicimi.com/p/ae5136b9b655457c93ab1c695a2987aa) 
+- [【知乎日报】2020-05-02-知乎故事-|-男女之间有纯友谊吗？](https://www.ershicimi.com/p/794510bc968c3d0aa40284aaa3e15033) 
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-02-搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144) 
+- [【V2EX】2020-05-02-用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143) 
+- [【V2EX】2020-05-02-请问安装-pyperclib-时报这个错误是怎么回事呢？](https://www.v2ex.com/t/668142) 
+- [【V2EX】2020-05-02-互联网会贫富分化吗？](https://www.v2ex.com/t/668141) 
+- [【V2EX】2020-05-02-200-块的无叶风扇值得买么？](https://www.v2ex.com/t/668140) 
+- [【V2EX】2020-05-02-网易互娱求简历啦~~~](https://www.v2ex.com/t/668138) 
+- [【V2EX】2020-05-02-我如果买一个港版-iPhone-SE，再买一张香港的-esim-流量卡](https://www.v2ex.com/t/668136) 
+- [【V2EX】2020-05-02-学了新技术，工作又用不到，想用新学的技术做点东西实践一下，可是又不知道做点啥好，大家有这种感受吗](https://www.v2ex.com/t/668135) 
+- [【V2EX】2020-05-02-google-one-无法订阅，显示交易遭拒，可我能正常购买软件](https://www.v2ex.com/t/668134) 
 - [【V2EX】2020-05-02-实习-offer-求比较](https://www.v2ex.com/t/668132) 
 - [【V2EX】2020-05-02-京东出-bug-了，白送了我一台咖啡机。](https://www.v2ex.com/t/668130) 
 - [【V2EX】2020-05-02-macOS-下有无类似-WLCreator-的软件供创建-wine-应用的快捷方式](https://www.v2ex.com/t/668129) 

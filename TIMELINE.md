@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 01:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-03 02:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -143,6 +143,8 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-03-这道亚马逊的笔试题感觉答案不太对](https://www.v2ex.com/t/668168) 
+- [【V2EX】2020-05-03-想买个-HPE-Proliant-Microserver-Gen10-PLUS-做-NAS-和-GitLab-托管？](https://www.v2ex.com/t/668167) 
 - [【V2EX】2020-05-03-荆棘写作全新版本，小刺-2.0-即将开启测试。](https://www.v2ex.com/t/668166) 
 - [【V2EX】2020-05-03-MBP-与-iPhone-丢失后里面数据都是无法被破解吗？](https://www.v2ex.com/t/668165) 
 - [【V2EX】2020-05-03-如果没有强烈升职想法，有必要去公司核心组吗？](https://www.v2ex.com/t/668164) 

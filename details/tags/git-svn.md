@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -15,6 +15,7 @@
 - [2020-04-30-提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488) 
 - [2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb) 
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
+- [2020-05-03-想买个-HPE-Proliant-Microserver-Gen10-PLUS-做-NAS-和-GitLab-托管？](https://www.v2ex.com/t/668167) 
 - [2020-05-03-GitHub-上目前最全的-Python-资源大全，这些资源你都了解吗？](https://www.v2ex.com/t/668162) 
 - [2020-05-02-不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061) 
 - [2020-05-01-各位-Git-大佬，请教一个问题](https://www.v2ex.com/t/667949) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-03 07:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -443,6 +443,7 @@
 
 
 
+- [【前端早读课】【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)
 - [【前端大全】微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)
 - [【前端开发】高性能前端架构解决方案](https://www.ershicimi.com/p/deebed12b03e518f78c36558f9dd7ff0)
 - [【前端之巅】我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562)
@@ -462,7 +463,6 @@
 - [【V2EX】服务器要到期了又要续费了，焦虑，阿里云的突发性能实例咋这么便宜，经不住诱惑打算换过去，有坑吗😂](https://www.v2ex.com/t/667952)
 - [【V2EX】禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440)
 - [【V2EX】遍历-list-of-lists-of-lists-的优化方法](https://www.v2ex.com/t/667354)
-- [【V2EX】一场疫情，迎来了前所未有的优化大潮](https://www.v2ex.com/t/667170)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -3687,6 +3687,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "阿里腾讯是不是在变成财阀？",
+        "link": "https://www.v2ex.com/t/668015",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "百度网盘 iOS 端太真实了吧， IAP 抽成这么高？",
+        "link": "https://www.v2ex.com/t/668014",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "B 站上传视频 upos 上传结束同步出现错误？？",
+        "link": "https://www.v2ex.com/t/668013",
+        "date": "2020-05-02"
+      },
+      {
         "title": "请问 mlo（gtd））软件怎么添加 flag 图标？",
         "link": "https://www.v2ex.com/t/668011",
         "date": "2020-05-02"
@@ -13770,6 +13785,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Spring Data REST 不完全指南（三）",
+        "link": "https://toutiao.io/k/qyjmtf1",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "Vue 灵魂之问：为什么说 Vue 的响应式体系可以精确到组件级别的更新？",
+        "link": "https://toutiao.io/k/544851l",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "YOLOv4 来了！COCO 43.5 AP，65 FPS！实现速度与精度的最优平衡",
+        "link": "https://toutiao.io/k/lqtc19j",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "Java 命令行工具之 jstat",
+        "link": "https://toutiao.io/k/ae7ea2z",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "华为的技术牛人在读什么？书单来了！",
+        "link": "https://toutiao.io/k/1x82rhf",
+        "date": "2020-05-02"
+      },
       {
         "title": "阿里的程序员也不过如此，竟被一个简单的 SQL 查询难住",
         "link": "https://toutiao.io/k/07klc8w",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 08:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -857,7 +857,10 @@
 </summary>
 
 
-- [2020-05-02-请问-mlo（gtd））软件怎么添加-flag-图标？](https://www.v2ex.com/t/668011) ![](assets/new.png)  
+- [2020-05-02-阿里腾讯是不是在变成财阀？](https://www.v2ex.com/t/668015) ![](assets/new.png)  
+- [2020-05-02-百度网盘-iOS-端太真实了吧，-IAP-抽成这么高？](https://www.v2ex.com/t/668014) ![](assets/new.png)  
+- [2020-05-02-B-站上传视频-upos-上传结束同步出现错误？？](https://www.v2ex.com/t/668013) ![](assets/new.png)  
+- [2020-05-02-请问-mlo（gtd））软件怎么添加-flag-图标？](https://www.v2ex.com/t/668011)  
 - [2020-05-02-廊坊调查公司_廊坊婚姻外遇调查_廊坊私家调查网](https://www.v2ex.com/t/668010)  
 - [2020-05-02-把家里电脑上的文件夹挂载到-VPS-上](https://www.v2ex.com/t/668008)  
 - [2020-05-02-WordPress-429-似乎已经恢复...](https://www.v2ex.com/t/668007)  
@@ -874,9 +877,6 @@
 - [2020-05-01-苹果搞那么多摄像头，直男真是用不上](https://www.v2ex.com/t/667993)  
 - [2020-05-01-深圳电信宽带，提速-500M，永久提速资费不变。](https://www.v2ex.com/t/667992)  
 - [2020-05-01-2020-年，-v-友们都用什么地图导航软件呢？](https://www.v2ex.com/t/667991)  
-- [2020-05-01-恭喜网文成为下一个被资本爆菊的产业](https://www.v2ex.com/t/667990)  
-- [2020-05-01-借那位东南亚某电商供应链研发说的事情，我继续说一说那个供应链-PM-的江湖一书](https://www.v2ex.com/t/667989)  
-- [2020-05-01-即刻团队做的这个返利平台有点意思](https://www.v2ex.com/t/667988)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -919,6 +919,11 @@
 </summary>
 
 
+- [2020-05-02-Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1) ![](assets/new.png)  
+- [2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l) ![](assets/new.png)  
+- [2020-05-02-YOLOv4-来了！COCO-43.5-AP，65-FPS！实现速度与精度的最优平衡](https://toutiao.io/k/lqtc19j) ![](assets/new.png)  
+- [2020-05-02-Java-命令行工具之-jstat](https://toutiao.io/k/ae7ea2z) ![](assets/new.png)  
+- [2020-05-02-华为的技术牛人在读什么？书单来了！](https://toutiao.io/k/1x82rhf) ![](assets/new.png)  
 - [2020-05-01-阿里的程序员也不过如此，竟被一个简单的-SQL-查询难住](https://toutiao.io/k/07klc8w)  
 - [2020-05-01-疫情期间对通证经济的一些思考](https://toutiao.io/k/je5r3o7)  
 - [2020-05-01-面试官：兄弟，说说-Java-到底是值传递还是引用传递](https://toutiao.io/k/i0s6clu)  
@@ -934,11 +939,6 @@
 - [2020-04-30-服务器简易防-CC-攻击设置](https://toutiao.io/k/fymhoon)  
 - [2020-04-30-三年之久的-etcd3-数据不一致-bug-分析](https://toutiao.io/k/ktso06v)  
 - [2020-04-30-基于-XA-事务协议，用代码实现一个二阶段分布式事务](https://toutiao.io/k/0smcarv)  
-- [2020-04-30-译-敏捷案例：亚马逊是如何敏捷起来的](https://toutiao.io/k/5sddabl)  
-- [2020-04-30-数据库密码配置项都不加密？心也太大了](https://toutiao.io/k/nmxfe77)  
-- [2020-04-30-敲黑板！写给前端看的-JSBridge-原理](https://toutiao.io/k/9u63na3)  
-- [2020-04-30-Flutter-主题切换：让你的-APP-也能一键换肤](https://toutiao.io/k/sra9nsp)  
-- [2020-04-30-反应式编程-RxJava-设计原理解析](https://toutiao.io/k/z4ewtjh)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

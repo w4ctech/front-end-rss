@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-02 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 08:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -414,6 +414,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】B-站上传视频-upos-上传结束同步出现错误？？](https://www.v2ex.com/t/668013)
 - [【V2EX】视频抓取的-m3u8-文件无法-ffmpeg-下载，求指导](https://www.v2ex.com/t/668005)
 - [【V2EX】苹果搞那么多摄像头，直男真是用不上](https://www.v2ex.com/t/667993)
 - [【V2EX】Mornin---基于-WebRTC-的匿名音频会议服务](https://www.v2ex.com/t/667918)
@@ -426,7 +427,6 @@
 - [【V2EX】五一发一波，虎牙直播-广州/深圳/北京/海外*](https://www.v2ex.com/t/667652)
 - [【V2EX】有没有短视频运营管理系统，支持多个网站的](https://www.v2ex.com/t/667577)
 - [【V2EX】为什么很多网络的直播源是移动的地址-移动算是-OTT-不是-IPTV-吧](https://www.v2ex.com/t/667563)
-- [【V2EX】我终于学会了把视频从电脑转移到-iPhone](https://www.v2ex.com/t/667494)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -569,8 +569,8 @@
 - [【V2EX】nginx-无法停止](https://www.v2ex.com/t/665936)
 - [【V2EX】nginx-配置遇到的一个怪事，请教各位](https://www.v2ex.com/t/665745)
 - [【技术头条】GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1)
 - [【开发者头条】Spring-Data-REST-不完全指南（二）](https://toutiao.io/k/ybsapfa)
-- [【开发者头条】推荐-震撼！全网第一张源码分析全景图揭秘-Nginx](https://toutiao.io/k/av00x9p)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

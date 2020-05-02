@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-02 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -138,6 +138,17 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-02-上海-Java-开发最近找工作-cai-坑记-正式入职前持续更](https://www.v2ex.com/t/668076) 
+- [【V2EX】2020-05-02-Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075) 
+- [【V2EX】2020-05-02-请问有没有-win10-能用的解决-dns-污染的工具？](https://www.v2ex.com/t/668074) 
+- [【V2EX】2020-05-02-硅谷医疗科技公司招全栈-+-Node-/-React-JS，提供-h1b-签证赴美，签证生效前可在国内分公司办公，年薪-9-12-万美金](https://www.v2ex.com/t/668073) 
+- [【V2EX】2020-05-02-不同應用使用不同的-Apple-ID](https://www.v2ex.com/t/668072) 
+- [【V2EX】2020-05-02-有没有觉得-Goland2020-的-bug-有点多，甚至以前的功能都偶尔出现-bug](https://www.v2ex.com/t/668071) 
+- [【V2EX】2020-05-02-不是很新的新闻-FreeNAS-和-TrueNAS-即将统一为-TrueNAS](https://www.v2ex.com/t/668070) 
+- [【V2EX】2020-05-02-译-Ｃ程序员该知道的内存知识-1](https://www.v2ex.com/t/668069) 
+- [【V2EX】2020-05-02-kindle-上的书价格变动为啥这么大](https://www.v2ex.com/t/668067) 
+- [【V2EX】2020-05-02-挑选显示器求指南](https://www.v2ex.com/t/668066) 
+- [【V2EX】2020-05-02-现在外包市场上，小程序和-android-app-的需求哪个更大呢？](https://www.v2ex.com/t/668065) 
 - [【V2EX】2020-05-02-写了第二篇文章，推荐一些出差或旅行的好物～](https://www.v2ex.com/t/668062) 
 - [【V2EX】2020-05-02-不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061) 
 - [【V2EX】2020-05-02-求一款-2k-65w-type-c-的-24-英寸显示器](https://www.v2ex.com/t/668060) 
@@ -346,6 +357,9 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【开发者头条】2020-05-02-Python-如何移除旧的版本特性，如何迎接新的特性？](https://toutiao.io/k/dw2n175) 
+- [【开发者头条】2020-05-02-10x-程序员之-Vim（一）](https://toutiao.io/k/3x8cux8) 
+- [【开发者头条】2020-05-02-Mars-java-发布了-3.0.15-版本，将开始支持组件化](https://toutiao.io/k/9z4wnur) 
 - [【开发者头条】2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9) 
 - [【开发者头条】2020-05-02-Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1) 
 - [【开发者头条】2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l) 

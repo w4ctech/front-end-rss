@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -459,6 +459,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-02-上海-Java-开发最近找工作-cai-坑记-正式入职前持续更](https://www.v2ex.com/t/668076) 
+- [2020-05-02-请问有没有-win10-能用的解决-dns-污染的工具？](https://www.v2ex.com/t/668074) 
+- [2020-05-02-不同應用使用不同的-Apple-ID](https://www.v2ex.com/t/668072) 
+- [2020-05-02-有没有觉得-Goland2020-的-bug-有点多，甚至以前的功能都偶尔出现-bug](https://www.v2ex.com/t/668071) 
+- [2020-05-02-不是很新的新闻-FreeNAS-和-TrueNAS-即将统一为-TrueNAS](https://www.v2ex.com/t/668070) 
+- [2020-05-02-译-Ｃ程序员该知道的内存知识-1](https://www.v2ex.com/t/668069) 
+- [2020-05-02-kindle-上的书价格变动为啥这么大](https://www.v2ex.com/t/668067) 
+- [2020-05-02-挑选显示器求指南](https://www.v2ex.com/t/668066) 
 - [2020-05-02-写了第二篇文章，推荐一些出差或旅行的好物～](https://www.v2ex.com/t/668062) 
 - [2020-05-02-求一款-2k-65w-type-c-的-24-英寸显示器](https://www.v2ex.com/t/668060) 
 - [2020-05-02-外置声卡通常-line-out-接口和耳麦接口共用通道-？](https://www.v2ex.com/t/668055) 
@@ -2086,6 +2094,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-02-Python-如何移除旧的版本特性，如何迎接新的特性？](https://toutiao.io/k/dw2n175) 
 - [2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9) 
 - [2020-05-02-YOLOv4-来了！COCO-43.5-AP，65-FPS！实现速度与精度的最优平衡](https://toutiao.io/k/lqtc19j) 
 - [2020-05-02-华为的技术牛人在读什么？书单来了！](https://toutiao.io/k/1x82rhf) 

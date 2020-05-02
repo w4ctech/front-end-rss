@@ -1,10 +1,21 @@
-:alarm_clock: 更新时间: 2020-05-02 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-02-上海-Java-开发最近找工作-cai-坑记-正式入职前持续更](https://www.v2ex.com/t/668076) 
+- [2020-05-02-Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075) 
+- [2020-05-02-请问有没有-win10-能用的解决-dns-污染的工具？](https://www.v2ex.com/t/668074) 
+- [2020-05-02-硅谷医疗科技公司招全栈-+-Node-/-React-JS，提供-h1b-签证赴美，签证生效前可在国内分公司办公，年薪-9-12-万美金](https://www.v2ex.com/t/668073) 
+- [2020-05-02-不同應用使用不同的-Apple-ID](https://www.v2ex.com/t/668072) 
+- [2020-05-02-有没有觉得-Goland2020-的-bug-有点多，甚至以前的功能都偶尔出现-bug](https://www.v2ex.com/t/668071) 
+- [2020-05-02-不是很新的新闻-FreeNAS-和-TrueNAS-即将统一为-TrueNAS](https://www.v2ex.com/t/668070) 
+- [2020-05-02-译-Ｃ程序员该知道的内存知识-1](https://www.v2ex.com/t/668069) 
+- [2020-05-02-kindle-上的书价格变动为啥这么大](https://www.v2ex.com/t/668067) 
+- [2020-05-02-挑选显示器求指南](https://www.v2ex.com/t/668066) 
+- [2020-05-02-现在外包市场上，小程序和-android-app-的需求哪个更大呢？](https://www.v2ex.com/t/668065) 
 - [2020-05-02-写了第二篇文章，推荐一些出差或旅行的好物～](https://www.v2ex.com/t/668062) 
 - [2020-05-02-不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061) 
 - [2020-05-02-求一款-2k-65w-type-c-的-24-英寸显示器](https://www.v2ex.com/t/668060) 

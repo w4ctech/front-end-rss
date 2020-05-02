@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-02 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -414,6 +414,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】乐视电视与腾讯视频合作到期了吗？](https://www.v2ex.com/t/668116)
 - [【V2EX】Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090)
 - [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
 - [【V2EX】有大神研究过-36kr-的视频栏目接口吗？](https://www.v2ex.com/t/668049)
@@ -426,7 +427,6 @@
 - [【V2EX】有没有什么方法让-iPhone-作为-mac-的摄像头](https://www.v2ex.com/t/667890)
 - [【V2EX】树莓派基金会发布新款摄像头模组-Raspberry-Pi-HQ-Camera](https://www.v2ex.com/t/667837)
 - [【V2EX】写了个哔哩哔哩视频下载的玩具，需要的可以拿走](https://www.v2ex.com/t/667807)
-- [【V2EX】回形针最新一期，回形针是怎么做视频的](https://www.v2ex.com/t/667786)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

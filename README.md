@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 14:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 15:00:21，:rocket: 更新条数: +250， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,6 +63,26 @@
 </summary>
 
 
+- [2020-05-02-最新疫情：全国新冠累计确诊82875例-新增病例首次降至1例](http://china.caixin.com/2020-05-02/101549783.html) ![](assets/new.png)  
+- [2020-05-02-【境内疫情观察】全国当日新增1例确诊病例（5月1日）](http://database.caixin.com/2020-05-02/101549830.html) ![](assets/new.png)  
+- [2020-05-02-大流行手记|5月1日：俄罗斯单日新增病例创新高-普京远程办公](http://www.caixin.com/2020-05-02/101549679.html) ![](assets/new.png)  
+- [2020-05-02-最新全球疫情：新冠感染者增至近323万-美国感染人数超110万](http://international.caixin.com/2020-05-02/101549843.html) ![](assets/new.png)  
+- [2020-05-01-研究：儿童感染新冠几率仅为成人的三分之一](http://science.caixin.com/2020-05-01/101549555.html) ![](assets/new.png)  
+- [2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) ![](assets/new.png)  
+- [2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) ![](assets/new.png)  
+- [2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) ![](assets/new.png)  
+- [2020-04-30-大流行手记|4月30日：美确诊破百万-洛杉矶免费检测](http://www.caixin.com/2020-04-30/101549473.html) ![](assets/new.png)  
+- [2020-04-30-【境内疫情观察】4例新增确诊病例均为境外输入病例（4月29日）](http://database.caixin.com/2020-04-30/101549069.html) ![](assets/new.png)  
+- [2020-04-30-北京朝阳区降为低风险地区-不同疫情等级如何出行？（附分类表）](http://www.caixin.com/2020-04-30/101548888.html) ![](assets/new.png)  
+- [2020-04-29-大流行手记|4月29日：安倍称明年奥运取消风险仍存](http://www.caixin.com/2020-04-29/101548843.html) ![](assets/new.png)  
+- [2020-04-29-【境内疫情观察】32个省份（地区）无新增确诊病例（4月28日）](http://database.caixin.com/2020-04-29/101548567.html) ![](assets/new.png)  
+- [2020-04-28-【境内疫情观察】全国现有本土病例降至100例以下（4月27日）](http://database.caixin.com/2020-04-28/101548008.html) ![](assets/new.png)  
+- [2020-04-28-大流行手记|4月28日：世卫帮助多国筹措防疫物资](http://www.caixin.com/2020-04-28/101548291.html) ![](assets/new.png)  
+- [2020-04-27-大流行手记|4月27日:英国首相复工后称不会迅速解封](http://www.caixin.com/2020-04-27/101547827.html) ![](assets/new.png)  
+- [2020-04-27-肺炎日记|4月26日：武汉患者清零，如何理解“常阳”？](http://china.caixin.com/2020-04-27/101547425.html) ![](assets/new.png)  
+- [2020-04-27-【境内疫情观察】湖北现有确诊病例清零（4月26日）](http://database.caixin.com/2020-04-27/101547589.html) ![](assets/new.png)  
+- [2020-04-26-【境内疫情观察】新增确诊病例中6例为本土病例（4月25日）](http://database.caixin.com/2020-04-26/101547261.html) ![](assets/new.png)  
+- [2020-04-26-肺炎日记|4月25日：最后一批援鄂重症专家开启归程](http://china.caixin.com/2020-04-26/101547224.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -180,6 +200,7 @@
 </summary>
 
 
+- [2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) ![](assets/new.png)  
 - [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)  
 - [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)  
@@ -857,10 +878,10 @@
 </summary>
 
 
-- [2020-05-02-写了第二篇文章，推荐一些出差或旅行的好物～](https://www.v2ex.com/t/668062) ![](assets/new.png)  
-- [2020-05-02-不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061) ![](assets/new.png)  
-- [2020-05-02-求一款-2k-65w-type-c-的-24-英寸显示器](https://www.v2ex.com/t/668060) ![](assets/new.png)  
-- [2020-05-02-才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057) ![](assets/new.png)  
+- [2020-05-02-写了第二篇文章，推荐一些出差或旅行的好物～](https://www.v2ex.com/t/668062)  
+- [2020-05-02-不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061)  
+- [2020-05-02-求一款-2k-65w-type-c-的-24-英寸显示器](https://www.v2ex.com/t/668060)  
+- [2020-05-02-才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)  
 - [2020-05-02-外置声卡通常-line-out-接口和耳麦接口共用通道-？](https://www.v2ex.com/t/668055)  
 - [2020-05-02-谁是咸鱼内部人来看看](https://www.v2ex.com/t/668053)  
 - [2020-05-02-选择一个城市，然后边游车河边听当地的电台](https://www.v2ex.com/t/668052)  

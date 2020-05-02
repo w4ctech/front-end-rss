@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-02 18:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-02 18:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -689,6 +689,8 @@
 </summary>
 
 
+- [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f) ![](assets/new.png)  
+- [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) ![](assets/new.png)  
 - [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a)  
 - [2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973)  
 - [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b)  
@@ -707,8 +709,6 @@
 - [2020-04-28-公司追捧“以客户为中心”，追求极客的技术文化过时了吗？丨Q推荐](https://www.ershicimi.com/p/a83638ed3ce7026237b4b7794c592fc7)  
 - [2020-04-28-联邦学习可能会带来数据价值挖掘的下一个爆发点](https://www.ershicimi.com/p/c4ef32e61c10571a623f6ed473af8fa1)  
 - [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe)  
-- [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746)  
-- [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -878,11 +878,11 @@
 </summary>
 
 
-- [2020-05-02-宁波电信宽带上行提速了](https://www.v2ex.com/t/668109) ![](assets/new.png)  
-- [2020-05-02-华为-AX3-路由器，-199-块钱，感觉有点香](https://www.v2ex.com/t/668108) ![](assets/new.png)  
-- [2020-05-02-今年会发布新-Apple-TV-么？要不要等？](https://www.v2ex.com/t/668107) ![](assets/new.png)  
-- [2020-05-02-求助，有什么好用的便签软件吗？](https://www.v2ex.com/t/668106) ![](assets/new.png)  
-- [2020-05-02-指北使用虚拟磁盘技术让你自由地使用-Time-Machine（并且能同步到网盘上）](https://www.v2ex.com/t/668105) ![](assets/new.png)  
+- [2020-05-02-宁波电信宽带上行提速了](https://www.v2ex.com/t/668109)  
+- [2020-05-02-华为-AX3-路由器，-199-块钱，感觉有点香](https://www.v2ex.com/t/668108)  
+- [2020-05-02-今年会发布新-Apple-TV-么？要不要等？](https://www.v2ex.com/t/668107)  
+- [2020-05-02-求助，有什么好用的便签软件吗？](https://www.v2ex.com/t/668106)  
+- [2020-05-02-指北使用虚拟磁盘技术让你自由地使用-Time-Machine（并且能同步到网盘上）](https://www.v2ex.com/t/668105)  
 - [2020-05-02-小心假冒-paypal-的邮件钓鱼](https://www.v2ex.com/t/668104)  
 - [2020-05-02-对掘金的接口进行二次过滤，做了一个简易技术文章的搜索工具](https://www.v2ex.com/t/668103)  
 - [2020-05-02-求职：互联网+医疗-|-医疗信息化，产品经理，项目经理，实施-|-测试-|-运维等-@上海](https://www.v2ex.com/t/668102)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -358,6 +358,8 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f) 
+- [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
 - [2020-04-30-程序开发者去世，代码没人懂，一个bug导致千万损失](https://www.ershicimi.com/p/78264e794190d2b743d77a24d455b11b) 

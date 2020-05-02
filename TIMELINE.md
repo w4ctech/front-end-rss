@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-02 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,6 +133,8 @@
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
+- [【InfoQ】2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f) 
+- [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -279,6 +279,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-02-有兄弟使用的-DELL-的笔记本开发的么？-win-的笔记本能否设置三指拖拽？](https://www.v2ex.com/t/668016) 
 - [2020-05-02-阿里腾讯是不是在变成财阀？](https://www.v2ex.com/t/668015) 
 - [2020-05-02-百度网盘-iOS-端太真实了吧，-IAP-抽成这么高？](https://www.v2ex.com/t/668014) 
 - [2020-05-02-请问-mlo（gtd））软件怎么添加-flag-图标？](https://www.v2ex.com/t/668011) 
@@ -1880,6 +1881,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9) 
 - [2020-05-02-YOLOv4-来了！COCO-43.5-AP，65-FPS！实现速度与精度的最优平衡](https://toutiao.io/k/lqtc19j) 
 - [2020-05-02-华为的技术牛人在读什么？书单来了！](https://toutiao.io/k/1x82rhf) 
 - [2020-05-01-阿里的程序员也不过如此，竟被一个简单的-SQL-查询难住](https://toutiao.io/k/07klc8w) 

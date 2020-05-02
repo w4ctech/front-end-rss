@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-02 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-02 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-02-遨游-5-浏览器与搜狗浏览器互相唤醒。](https://www.v2ex.com/t/668033) 
+- [2020-05-02-关于-Zerotier-的安全性的疑问](https://www.v2ex.com/t/668032) 
 - [2020-05-01-小米浏览器被指记录隐私浏览模式下的用户行为](https://www.v2ex.com/t/667909) 
 - [2020-05-01-关于-CDK-/-授权码-的生成算法以及公开算法后的安全性?](https://www.v2ex.com/t/667900) 
 - [2020-05-01-区块链虚拟货币还隐私安全吗？](https://www.v2ex.com/t/667894) 

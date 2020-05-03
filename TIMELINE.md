@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 23:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-04 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -161,6 +161,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-03-你有哪些技术书籍阅读的优秀习惯](https://www.v2ex.com/t/668359) 
+- [【V2EX】2020-05-03-「分享」前段时间遇到了-raspberry-pi-os-开源项目，很感兴趣，于是跟着写了两篇文档的翻译，外加上一些自己理解](https://www.v2ex.com/t/668358) 
+- [【V2EX】2020-05-03-不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354) 
+- [【V2EX】2020-05-03-你们买手机分期吗？](https://www.v2ex.com/t/668353) 
+- [【V2EX】2020-05-03-实习-offer-的疑问](https://www.v2ex.com/t/668352) 
 - [【V2EX】2020-05-03-关于-jvm-面试](https://www.v2ex.com/t/668351) 
 - [【V2EX】2020-05-03-使用访问-Java-httpclient-访问-api.github.com/user-发生-connection-reset](https://www.v2ex.com/t/668350) 
 - [【V2EX】2020-05-03-hexo-插件-关于-GIF-动画相关的](https://www.v2ex.com/t/668349) 

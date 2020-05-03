@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -30,6 +30,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-03-北京奇虎-360-安全工程研究院用人部门直招，流程简单，只看能力，不看学历，诚聘-web-前端/后端/服务端开发工程师](https://www.v2ex.com/t/668228) 
 - [2020-05-03-Chrome-自动填充后无法切换](https://www.v2ex.com/t/668186) 
 - [2020-05-02-系统被-Chrome-搞崩溃](https://www.v2ex.com/t/668152) 
 - [2020-05-02-ios-firefox-最新版不能用国际版账户同步数据了？](https://www.v2ex.com/t/668113) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 00:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 00:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -882,11 +882,15 @@
 </summary>
 
 
-- [2020-05-03-你有哪些技术书籍阅读的优秀习惯](https://www.v2ex.com/t/668359) ![](assets/new.png)  
-- [2020-05-03-「分享」前段时间遇到了-raspberry-pi-os-开源项目，很感兴趣，于是跟着写了两篇文档的翻译，外加上一些自己理解](https://www.v2ex.com/t/668358) ![](assets/new.png)  
-- [2020-05-03-不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354) ![](assets/new.png)  
-- [2020-05-03-你们买手机分期吗？](https://www.v2ex.com/t/668353) ![](assets/new.png)  
-- [2020-05-03-实习-offer-的疑问](https://www.v2ex.com/t/668352) ![](assets/new.png)  
+- [2020-05-04-寻什么鸟导师](https://www.v2ex.com/t/668363) ![](assets/new.png)  
+- [2020-05-04-wsl2-该怎样才能共享文件给局域网？](https://www.v2ex.com/t/668362) ![](assets/new.png)  
+- [2020-05-04-有没有类似云盘精灵的插件-可以自动填写百度云资源的密码~~-之前在-v2-看到过一次-忘记收藏了~~](https://www.v2ex.com/t/668361) ![](assets/new.png)  
+- [2020-05-04-5k2k-带鱼屏求推荐-LG-34WK95U-vs-微星-PS341WU-选择](https://www.v2ex.com/t/668360) ![](assets/new.png)  
+- [2020-05-03-你有哪些技术书籍阅读的优秀习惯](https://www.v2ex.com/t/668359)  
+- [2020-05-03-「分享」前段时间遇到了-raspberry-pi-os-开源项目，很感兴趣，于是跟着写了两篇文档的翻译，外加上一些自己理解](https://www.v2ex.com/t/668358)  
+- [2020-05-03-不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354)  
+- [2020-05-03-你们买手机分期吗？](https://www.v2ex.com/t/668353)  
+- [2020-05-03-实习-offer-的疑问](https://www.v2ex.com/t/668352)  
 - [2020-05-03-关于-jvm-面试](https://www.v2ex.com/t/668351)  
 - [2020-05-03-使用访问-Java-httpclient-访问-api.github.com/user-发生-connection-reset](https://www.v2ex.com/t/668350)  
 - [2020-05-03-hexo-插件-关于-GIF-动画相关的](https://www.v2ex.com/t/668349)  
@@ -898,10 +902,6 @@
 - [2020-05-03-jQuery-用-ajax-检测文件是否存在，不应出现的报错](https://www.v2ex.com/t/668341)  
 - [2020-05-03-现学-golang-改了改大佬弃坑的项目,-有关-dns-over-https](https://www.v2ex.com/t/668340)  
 - [2020-05-03-weread.qq.com-似乎能监测到浏览器是否打开了控制台f12，禁止调试模式：页面拒绝加载内容。这个实现的原理是什么？](https://www.v2ex.com/t/668339)  
-- [2020-05-03-大家找工作用的哪些招聘网站？能指点一下小弟否？](https://www.v2ex.com/t/668338)  
-- [2020-05-03-MrDoc-觅道文档发布-0.5.0-版本，优化文集文档-EPUB-导出、新增-PDF-导出、支持思维导图自定义高度](https://www.v2ex.com/t/668337)  
-- [2020-05-03-该换工作？](https://www.v2ex.com/t/668336)  
-- [2020-05-03-air-和-pro-这两款电脑，哪一个适合需要中度使用-blender？](https://www.v2ex.com/t/668335)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

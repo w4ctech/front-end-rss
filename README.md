@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 05:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 06:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -882,8 +882,9 @@
 </summary>
 
 
-- [2020-05-04-水深火热预订-在面向普通人的中文社区，谈论世界人民大团结，就是一种政治不正确。](https://www.v2ex.com/t/668374) ![](assets/new.png)  
-- [2020-05-04-有没有关于新的-MBP-14.1-的消息？](https://www.v2ex.com/t/668373) ![](assets/new.png)  
+- [2020-05-04-帮忙看看哪个内存条好？](https://www.v2ex.com/t/668375) ![](assets/new.png)  
+- [2020-05-04-水深火热预订-在面向普通人的中文社区，谈论世界人民大团结，就是一种政治不正确。](https://www.v2ex.com/t/668374)  
+- [2020-05-04-有没有关于新的-MBP-14.1-的消息？](https://www.v2ex.com/t/668373)  
 - [2020-05-04-20200504-午夜俱乐部](https://www.v2ex.com/t/668372)  
 - [2020-05-04-诡异-SMB-速度问题，是-explorer.exe-还是？](https://www.v2ex.com/t/668371)  
 - [2020-05-04-醉里不知身在水，掬水捧月扰清波](https://www.v2ex.com/t/668370)  
@@ -901,7 +902,6 @@
 - [2020-05-03-你们买手机分期吗？](https://www.v2ex.com/t/668353)  
 - [2020-05-03-实习-offer-的疑问](https://www.v2ex.com/t/668352)  
 - [2020-05-03-关于-jvm-面试](https://www.v2ex.com/t/668351)  
-- [2020-05-03-使用访问-Java-httpclient-访问-api.github.com/user-发生-connection-reset](https://www.v2ex.com/t/668350)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

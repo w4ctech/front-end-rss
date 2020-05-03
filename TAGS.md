@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-03 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -407,6 +407,7 @@
 
 
 
+- [【前端迷】视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
@@ -426,7 +427,6 @@
 - [【V2EX】Mornin---基于-WebRTC-的匿名音频会议服务](https://www.v2ex.com/t/667918)
 - [【V2EX】急招-深圳虾皮-shopee-金融业务前端开发内推-远程视频面试-远程入职](https://www.v2ex.com/t/667904)
 - [【V2EX】有没有什么方法让-iPhone-作为-mac-的摄像头](https://www.v2ex.com/t/667890)
-- [【V2EX】树莓派基金会发布新款摄像头模组-Raspberry-Pi-HQ-Camera](https://www.v2ex.com/t/667837)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

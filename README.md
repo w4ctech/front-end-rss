@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 01:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 02:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -882,7 +882,10 @@
 </summary>
 
 
-- [2020-05-04-VS-Code-默认打开-markdown-预览](https://www.v2ex.com/t/668364) ![](assets/new.png)  
+- [2020-05-04-显示器无规律出现闪烁彩虹条纹，拔掉显示器电源等一会重新插入后，恢复正常，有没有大佬知道是什么原因？](https://www.v2ex.com/t/668368) ![](assets/new.png)  
+- [2020-05-04-Agda-在前端开发领域中的实践](https://www.v2ex.com/t/668367) ![](assets/new.png)  
+- [2020-05-04-vue+echart-的一个问题，求助大家。](https://www.v2ex.com/t/668366) ![](assets/new.png)  
+- [2020-05-04-VS-Code-默认打开-markdown-预览](https://www.v2ex.com/t/668364)  
 - [2020-05-04-寻什么鸟导师](https://www.v2ex.com/t/668363)  
 - [2020-05-04-wsl2-该怎样才能共享文件给局域网？](https://www.v2ex.com/t/668362)  
 - [2020-05-04-有没有类似云盘精灵的插件-可以自动填写百度云资源的密码~~-之前在-v2-看到过一次-忘记收藏了~~](https://www.v2ex.com/t/668361)  
@@ -899,9 +902,6 @@
 - [2020-05-03-程序员找对象](https://www.v2ex.com/t/668346)  
 - [2020-05-03-知乎重新上架-play-商店了。](https://www.v2ex.com/t/668345)  
 - [2020-05-03-有关异常的问题](https://www.v2ex.com/t/668343)  
-- [2020-05-03-刚刚收到-3-年前一个私活中期款和尾款......还有比这个时间更长的吗？](https://www.v2ex.com/t/668342)  
-- [2020-05-03-jQuery-用-ajax-检测文件是否存在，不应出现的报错](https://www.v2ex.com/t/668341)  
-- [2020-05-03-现学-golang-改了改大佬弃坑的项目,-有关-dns-over-https](https://www.v2ex.com/t/668340)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

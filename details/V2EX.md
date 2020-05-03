@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-05-04 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-04-显示器无规律出现闪烁彩虹条纹，拔掉显示器电源等一会重新插入后，恢复正常，有没有大佬知道是什么原因？](https://www.v2ex.com/t/668368) 
+- [2020-05-04-Agda-在前端开发领域中的实践](https://www.v2ex.com/t/668367) 
+- [2020-05-04-vue+echart-的一个问题，求助大家。](https://www.v2ex.com/t/668366) 
 - [2020-05-04-VS-Code-默认打开-markdown-预览](https://www.v2ex.com/t/668364) 
 - [2020-05-04-寻什么鸟导师](https://www.v2ex.com/t/668363) 
 - [2020-05-04-wsl2-该怎样才能共享文件给局域网？](https://www.v2ex.com/t/668362) 

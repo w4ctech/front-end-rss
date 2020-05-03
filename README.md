@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-03 10:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-03 11:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -354,7 +354,7 @@
 </summary>
 
 
-- [2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9) ![](assets/new.png)  
+- [2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9)  
 - [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa)  
 - [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81)  
 - [2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7)  
@@ -880,15 +880,15 @@
 </summary>
 
 
-- [2020-05-03-买房必须需要中介吗？为什么？](https://www.v2ex.com/t/668202) ![](assets/new.png)  
-- [2020-05-03-2020-年-5-月-3-号，京东挂了？](https://www.v2ex.com/t/668201) ![](assets/new.png)  
-- [2020-05-03-一个超方便的-Mac-资源站推荐给大家](https://www.v2ex.com/t/668200) ![](assets/new.png)  
-- [2020-05-03-柠檬贩子越来越多了，来均衡一下](https://www.v2ex.com/t/668199) ![](assets/new.png)  
-- [2020-05-03-既然-996-违法，为啥不控告？](https://www.v2ex.com/t/668198) ![](assets/new.png)  
-- [2020-05-03-IPS-硬屏的抗压程度如何?](https://www.v2ex.com/t/668197) ![](assets/new.png)  
-- [2020-05-03-有什么地方能找到八方旅人的对白文本吗？](https://www.v2ex.com/t/668196) ![](assets/new.png)  
-- [2020-05-03-SQLSERVER-表数据迁移](https://www.v2ex.com/t/668195) ![](assets/new.png)  
-- [2020-05-03-请教下企业微信开会怎么录音呢](https://www.v2ex.com/t/668194) ![](assets/new.png)  
+- [2020-05-03-买房必须需要中介吗？为什么？](https://www.v2ex.com/t/668202)  
+- [2020-05-03-2020-年-5-月-3-号，京东挂了？](https://www.v2ex.com/t/668201)  
+- [2020-05-03-一个超方便的-Mac-资源站推荐给大家](https://www.v2ex.com/t/668200)  
+- [2020-05-03-柠檬贩子越来越多了，来均衡一下](https://www.v2ex.com/t/668199)  
+- [2020-05-03-既然-996-违法，为啥不控告？](https://www.v2ex.com/t/668198)  
+- [2020-05-03-IPS-硬屏的抗压程度如何?](https://www.v2ex.com/t/668197)  
+- [2020-05-03-有什么地方能找到八方旅人的对白文本吗？](https://www.v2ex.com/t/668196)  
+- [2020-05-03-SQLSERVER-表数据迁移](https://www.v2ex.com/t/668195)  
+- [2020-05-03-请教下企业微信开会怎么录音呢](https://www.v2ex.com/t/668194)  
 - [2020-05-03-求推荐简单,轻量的-react-admin-框架带路由](https://www.v2ex.com/t/668191)  
 - [2020-05-03-接微信小程序外包](https://www.v2ex.com/t/668190)  
 - [2020-05-03-华硕-ax88u-梅林固件现在稳么？](https://www.v2ex.com/t/668189)  
@@ -942,6 +942,8 @@
 </summary>
 
 
+- [2020-05-03-《JavaScript-20-年》中文版（二）：创立标准](https://toutiao.io/k/9ofgyej) ![](assets/new.png)  
+- [2020-05-03-可变剪切分析](https://toutiao.io/k/95fwdwx) ![](assets/new.png)  
 - [2020-05-03-Java-8-函数式编程：Lambda-表达式和方法引用](https://toutiao.io/k/4x1zdt5)  
 - [2020-05-03-AGREE：基于注意力机制的群组推荐（附代码）](https://toutiao.io/k/ozdx4s7)  
 - [2020-05-03-改进异步封装：处理带返回值的异步调用](https://toutiao.io/k/5pel9qb)  
@@ -960,8 +962,6 @@
 - [2020-05-02-华为的技术牛人在读什么？书单来了！](https://toutiao.io/k/1x82rhf)  
 - [2020-05-01-阿里的程序员也不过如此，竟被一个简单的-SQL-查询难住](https://toutiao.io/k/07klc8w)  
 - [2020-05-01-疫情期间对通证经济的一些思考](https://toutiao.io/k/je5r3o7)  
-- [2020-05-01-面试官：兄弟，说说-Java-到底是值传递还是引用传递](https://toutiao.io/k/i0s6clu)  
-- [2020-05-01-Spring-MVC-从源码分析到实践如何动态添加拦截器](https://toutiao.io/k/hhgalq9)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

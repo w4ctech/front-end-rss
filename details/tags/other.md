@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -475,6 +475,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-03-垃圾佬又捡了一个-AMD-的瘦客户端垃圾,-树莓派-4-可以再见了](https://www.v2ex.com/t/668259) 
+- [2020-05-03-PHP-下经纬度偏移计算](https://www.v2ex.com/t/668258) 
+- [2020-05-03-mysql-数据库转成-discuz-数据表有人接单么？](https://www.v2ex.com/t/668257) 
+- [2020-05-03-21-届-秋招相关](https://www.v2ex.com/t/668256) 
+- [2020-05-03-联通在调出口策略？去北京走北京国际出口了？](https://www.v2ex.com/t/668254) 
 - [2020-05-03-Apple-Music-美区车](https://www.v2ex.com/t/668253) 
 - [2020-05-03-是不是大部分安卓-rom-都不注重交互设计？还是能力有限？](https://www.v2ex.com/t/668252) 
 - [2020-05-03-分享一个-Linux-下-albert-启动器的翻译插件---快捷键启动&中译英，英译中可用；注：需要-youdao-key](https://www.v2ex.com/t/668251) 

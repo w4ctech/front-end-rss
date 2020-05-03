@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-03 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 23:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -459,10 +459,10 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【InfoQ】晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】weread.qq.com-似乎能监测到浏览器是否打开了控制台f12，禁止调试模式：页面拒绝加载内容。这个实现的原理是什么？](https://www.v2ex.com/t/668339)
+- [【V2EX】MrDoc-觅道文档发布-0.5.0-版本，优化文集文档-EPUB-导出、新增-PDF-导出、支持思维导图自定义高度](https://www.v2ex.com/t/668337)
 - [【V2EX】Ubuntu-上-Chrome-打开-jd-或者-b-站，加载特别漫长，火狐没有](https://www.v2ex.com/t/667958)
 - [【V2EX】服务器要到期了又要续费了，焦虑，阿里云的突发性能实例咋这么便宜，经不住诱惑打算换过去，有坑吗😂](https://www.v2ex.com/t/667952)
-- [【V2EX】禁用-IPV6-或可提高网络性能](https://www.v2ex.com/t/667440)
-- [【V2EX】遍历-list-of-lists-of-lists-的优化方法](https://www.v2ex.com/t/667354)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -528,13 +528,13 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】现学-golang-改了改大佬弃坑的项目,-有关-dns-over-https](https://www.v2ex.com/t/668340)
 - [【V2EX】为什么-lastb-的用户-IP-都是来自于-127.0.0.1-呢](https://www.v2ex.com/t/668274)
 - [【V2EX】百度网盘-logid-生成算法](https://www.v2ex.com/t/668231)
 - [【V2EX】搜狗搜“微信公众号登录”返回-http://weixin.jlhaoye.com-？？](https://www.v2ex.com/t/668144)
 - [【V2EX】Bastille-巴士底监狱-一个新的-FreeBSD-Jail-管理工具](https://www.v2ex.com/t/668075)
 - [【V2EX】算法岗和开发岗](https://www.v2ex.com/t/667935)
 - [【V2EX】算法岗和开发岗的选择](https://www.v2ex.com/t/667927)
-- [【V2EX】字节跳动广告系统急招初高级前后端算法，-base-北京、上海、深圳、杭州都要，简历直达-hr！](https://www.v2ex.com/t/667880)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

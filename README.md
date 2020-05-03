@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 07:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -169,6 +169,7 @@
 </summary>
 
 
+- [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) ![](assets/new.png)  
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
 - [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
@@ -188,7 +189,6 @@
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)  
 - [2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508)  
 - [2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97)  
-- [2020-04-21-【第1921期】React-16.8.6-版本存在内存泄露](https://www.ershicimi.com/p/9fe444e2512acb00471a5ab886288d7a)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -882,7 +882,8 @@
 </summary>
 
 
-- [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376) ![](assets/new.png)  
+- [2020-05-04-MacBook-Pro-升级-SSD-后如何安装-El-Capitan](https://www.v2ex.com/t/668377) ![](assets/new.png)  
+- [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376)  
 - [2020-05-04-帮忙看看哪个内存条好？](https://www.v2ex.com/t/668375)  
 - [2020-05-04-水深火热预订-在面向普通人的中文社区，谈论世界人民大团结，就是一种政治不正确。](https://www.v2ex.com/t/668374)  
 - [2020-05-04-有没有关于新的-MBP-14.1-的消息？](https://www.v2ex.com/t/668373)  
@@ -901,7 +902,6 @@
 - [2020-05-03-「分享」前段时间遇到了-raspberry-pi-os-开源项目，很感兴趣，于是跟着写了两篇文档的翻译，外加上一些自己理解](https://www.v2ex.com/t/668358)  
 - [2020-05-03-不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354)  
 - [2020-05-03-你们买手机分期吗？](https://www.v2ex.com/t/668353)  
-- [2020-05-03-实习-offer-的疑问](https://www.v2ex.com/t/668352)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

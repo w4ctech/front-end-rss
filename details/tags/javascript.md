@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,6 +99,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-03-能否使用-JavaScript-选中网页里的指定文字？](https://www.v2ex.com/t/668269) 
 - [2020-05-02-华为-AX3-路由器，-199-块钱，感觉有点香](https://www.v2ex.com/t/668108) 
 - [2020-05-02-用-vlan-摆脱旁路由](https://www.v2ex.com/t/668006) 
 - [2020-05-01-纪录片-国家地理：揭秘-1947-年罗斯维尔-UFO-事件](https://www.v2ex.com/t/667925) 

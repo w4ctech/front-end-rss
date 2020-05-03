@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-03 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-03 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -169,8 +169,8 @@
 </summary>
 
 
-- [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) ![](assets/new.png)  
-- [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) ![](assets/new.png)  
+- [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
+- [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
 - [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
 - [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)  
 - [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)  
@@ -878,6 +878,7 @@
 </summary>
 
 
+- [2020-05-03-喜得一子，求祝福](https://www.v2ex.com/t/668173) ![](assets/new.png)  
 - [2020-05-03-求一个-Premium-家庭会员的车](https://www.v2ex.com/t/668172)  
 - [2020-05-03-Thunderbolt-2-咋外接-M2-SSD](https://www.v2ex.com/t/668171)  
 - [2020-05-03-有使用-i7-810（ES）Q2AP-的-V-友吗？](https://www.v2ex.com/t/668170)  
@@ -897,7 +898,6 @@
 - [2020-05-02-系统被-Chrome-搞崩溃](https://www.v2ex.com/t/668152)  
 - [2020-05-02-求推荐一个-5000-左右黑苹果配置](https://www.v2ex.com/t/668151)  
 - [2020-05-02-普及一下量化交易的一些基本常识（看隔壁广告有感）](https://www.v2ex.com/t/668150)  
-- [2020-05-02-上海-公司招前端工程师，可帮内推～](https://www.v2ex.com/t/668149)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

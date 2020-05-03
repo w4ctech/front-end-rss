@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-03 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 08:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -595,6 +595,7 @@
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】Git-常用命令参考手册](https://www.v2ex.com/t/668177)
 - [【V2EX】想买个-HPE-Proliant-Microserver-Gen10-PLUS-做-NAS-和-GitLab-托管？](https://www.v2ex.com/t/668167)
 - [【V2EX】GitHub-上目前最全的-Python-资源大全，这些资源你都了解吗？](https://www.v2ex.com/t/668162)
 - [【V2EX】不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061)
@@ -606,7 +607,6 @@
 - [【V2EX】一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792)
 - [【V2EX】想问下让-Github-仓库存纯图片是不是资源的滥用？](https://www.v2ex.com/t/666581)
 - [【V2EX】githubassets.com-无法解析](https://www.v2ex.com/t/666143)
-- [【V2EX】最近感觉-Aliyun-机器拉-GitHub-上面的东西好慢呀，大家有这种状况吗？](https://www.v2ex.com/t/666081)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -242,6 +242,8 @@
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 
+- [2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1) 
+- [2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
 - [2020-04-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/a5329585912d133b6a113711b3475bb5) 
 - [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89) 
 - [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245) 
@@ -473,6 +475,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-03-夏天开始出汗，胳膊放桌面上出汗粘肉疼，🤔可有解？](https://www.v2ex.com/t/668240) 
+- [2020-05-03-有什么工具可以分析-windows-安装包安装了哪些文件？](https://www.v2ex.com/t/668239) 
 - [2020-05-03-我写的曲子上架到-QQ-音乐了](https://www.v2ex.com/t/668237) 
 - [2020-05-03-不懂就问：-Win10-专业版-C-盘占用-70-个-G-正常吗？](https://www.v2ex.com/t/668236) 
 - [2020-05-03-选择团队比选择公司更重要](https://www.v2ex.com/t/668235) 

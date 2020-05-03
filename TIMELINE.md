@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-03 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,8 @@
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
 - [【前端迷】2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9) 
+- [【全栈前端精选】2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1) 
+- [【全栈前端精选】2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [【互联网架构师】2020-05-02-漫画：谁杀死了MySQL？](https://www.ershicimi.com/p/d2a927fa460f6f76df143c18483a9e61) 
 - [【互联网架构师】2020-05-02-Intellij-IDEA-看源码必备的技能！](https://www.ershicimi.com/p/533c9c83943f529799b2cb6474376410) 
@@ -154,6 +156,8 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-03-夏天开始出汗，胳膊放桌面上出汗粘肉疼，🤔可有解？](https://www.v2ex.com/t/668240) 
+- [【V2EX】2020-05-03-有什么工具可以分析-windows-安装包安装了哪些文件？](https://www.v2ex.com/t/668239) 
 - [【V2EX】2020-05-03-作为一枚产品经理，自己开发了一款小程序，献给喜欢创造的小伙伴。](https://www.v2ex.com/t/668238) 
 - [【V2EX】2020-05-03-我写的曲子上架到-QQ-音乐了](https://www.v2ex.com/t/668237) 
 - [【V2EX】2020-05-03-不懂就问：-Win10-专业版-C-盘占用-70-个-G-正常吗？](https://www.v2ex.com/t/668236) 

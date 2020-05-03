@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-03 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-03 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -51,4 +51,5 @@
 - [2020-04-25-上海-漕河泾Garena游戏公司招聘技术、美术、产品、运营、职能等岗位～长期有效！](https://www.v2ex.com/t/666087) 
 - [2020-04-25-原生-Javascript-开发超速贪吃蛇小游戏](https://www.v2ex.com/t/665933) 
 - [2020-04-24-PC-用千元内带麦的无线游戏耳机有什么推荐的吗？](https://www.v2ex.com/t/665578) 
+- [2020-05-03-译-ERC721-使用教程：实现一个打怪游戏](https://toutiao.io/k/4p4tfo3) 
 - [2020-04-28-百万局对战教-AI-做人，技术解读-FPS-游戏中-AI-如何拟人化](https://toutiao.io/k/qxrv1jw) 

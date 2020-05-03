@@ -3738,6 +3738,41 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "漫画：谁杀死了MySQL？",
+        "link": "https://www.ershicimi.com/p/d2a927fa460f6f76df143c18483a9e61",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "Intellij IDEA 看源码必备的技能！",
+        "link": "https://www.ershicimi.com/p/533c9c83943f529799b2cb6474376410",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "Spring Boot内存泄露，排查竟这么难！",
+        "link": "https://www.ershicimi.com/p/092499746e96f4d0e658f78ba0ac0aeb",
+        "date": "2020-05-02"
+      },
+      {
+        "title": "为什么阿里巴巴禁止使用存储过程？",
+        "link": "https://www.ershicimi.com/p/10d390a87d5708ed3effb50dba5aabbe",
+        "date": "2020-05-01"
+      },
+      {
+        "title": "内部泄露版！互联网大厂的薪资和职级一览",
+        "link": "https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e",
+        "date": "2020-05-01"
+      },
+      {
+        "title": "推荐几款压箱底的IDEA插件，撸码利器",
+        "link": "https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde",
+        "date": "2020-05-01"
+      },
+      {
+        "title": "史上最便捷搭建RocketMQ服务器的方法",
+        "link": "https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44",
+        "date": "2020-05-01"
+      },
+      {
         "title": "Pandownload作者被抓后，我决定用docker搭建一款私有网盘",
         "link": "https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc",
         "date": "2020-04-30"
@@ -4977,6 +5012,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "深圳是不是每隔一段时间就要修路呀！",
+        "link": "https://www.v2ex.com/t/668188",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "分享点自己最近发现的容易引发痘痘等皮肤问题的两个盲点",
+        "link": "https://www.v2ex.com/t/668187",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "Chrome 自动填充后无法切换",
+        "link": "https://www.v2ex.com/t/668186",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "V 友们有专门为自己写的软件吗？欢迎分享！",
+        "link": "https://www.v2ex.com/t/668184",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "996 对于我国的发展来说很重要吗？",
+        "link": "https://www.v2ex.com/t/668183",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "佳能 70D 吼不吼啊？",
+        "link": "https://www.v2ex.com/t/668182",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "请问这种 wifi 抽风问题大家解决过么",
+        "link": "https://www.v2ex.com/t/668181",
+        "date": "2020-05-03"
+      },
       {
         "title": "分享一些静音机箱 + itx 迷你机器的组装经验",
         "link": "https://www.v2ex.com/t/668180",
@@ -15711,6 +15781,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Java 8 函数式编程：Lambda 表达式和方法引用",
+        "link": "https://toutiao.io/k/4x1zdt5",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "AGREE：基于注意力机制的群组推荐（附代码）",
+        "link": "https://toutiao.io/k/ozdx4s7",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "改进异步封装：处理带返回值的异步调用",
+        "link": "https://toutiao.io/k/5pel9qb",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "在终端输入命令后系统做了什么",
+        "link": "https://toutiao.io/k/iqbpz2a",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "[译] ERC721 使用教程：实现一个打怪游戏",
+        "link": "https://toutiao.io/k/4p4tfo3",
+        "date": "2020-05-03"
+      },
+      {
+        "title": "Go 协作与抢占",
+        "link": "https://toutiao.io/k/aay08b2",
+        "date": "2020-05-03"
+      },
       {
         "title": "美团的技术牛人在读什么？书单来了！",
         "link": "https://toutiao.io/k/34nidbu",

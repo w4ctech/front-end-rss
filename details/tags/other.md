@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -480,6 +480,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376) 
 - [2020-05-04-帮忙看看哪个内存条好？](https://www.v2ex.com/t/668375) 
 - [2020-05-04-水深火热预订-在面向普通人的中文社区，谈论世界人民大团结，就是一种政治不正确。](https://www.v2ex.com/t/668374) 
 - [2020-05-04-有没有关于新的-MBP-14.1-的消息？](https://www.v2ex.com/t/668373) 

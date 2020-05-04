@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 00:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 00:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -886,9 +886,10 @@
 </summary>
 
 
-- [2020-05-04-哪里有公开的酒店信息数据？](https://www.v2ex.com/t/668558) ![](assets/new.png)  
-- [2020-05-04-阿里的-centos7-yum-镜像源是不是出问题了](https://www.v2ex.com/t/668557) ![](assets/new.png)  
-- [2020-05-04-手机上的搜狗输入法怎么才能导入私有词库，貌似找不到入口](https://www.v2ex.com/t/668555) ![](assets/new.png)  
+- [2020-05-05-iOS-想转产品-面不过-怎么办](https://www.v2ex.com/t/668559) ![](assets/new.png)  
+- [2020-05-04-哪里有公开的酒店信息数据？](https://www.v2ex.com/t/668558)  
+- [2020-05-04-阿里的-centos7-yum-镜像源是不是出问题了](https://www.v2ex.com/t/668557)  
+- [2020-05-04-手机上的搜狗输入法怎么才能导入私有词库，貌似找不到入口](https://www.v2ex.com/t/668555)  
 - [2020-05-04-mac-os-的多个虚拟桌面有办法纵向排列吗-?](https://www.v2ex.com/t/668552)  
 - [2020-05-04-实习-offer-比较，求-v-站前辈帮忙分析](https://www.v2ex.com/t/668551)  
 - [2020-05-04-想购买轻量的云主机](https://www.v2ex.com/t/668550)  
@@ -905,7 +906,6 @@
 - [2020-05-04-有没有什么新奇的-macbook/-iPad-/-iPhone-配件?](https://www.v2ex.com/t/668536)  
 - [2020-05-04-iPadOS-13.4.1-提高了普通鼠标滚轮滚动的流畅性](https://www.v2ex.com/t/668535)  
 - [2020-05-04-PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534)  
-- [2020-05-04-新款-13-寸竟然没有-wifi6-awesome!](https://www.v2ex.com/t/668533)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

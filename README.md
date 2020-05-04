@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 11:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 12:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -354,9 +354,9 @@
 </summary>
 
 
-- [2020-05-04-网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1) ![](assets/new.png)  
-- [2020-05-04-React-项目性能分析及优化](https://www.ershicimi.com/p/e035498647ac5ceb2eec2ef538222f9e) ![](assets/new.png)  
-- [2020-05-03-送给想转行AI的你：3堂人工智能入行教学课（免费领取）](https://www.ershicimi.com/p/9fb3ab95675c53b6bf6118ab02e2ef87) ![](assets/new.png)  
+- [2020-05-04-网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1)  
+- [2020-05-04-React-项目性能分析及优化](https://www.ershicimi.com/p/e035498647ac5ceb2eec2ef538222f9e)  
+- [2020-05-03-送给想转行AI的你：3堂人工智能入行教学课（免费领取）](https://www.ershicimi.com/p/9fb3ab95675c53b6bf6118ab02e2ef87)  
 - [2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9)  
 - [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa)  
 - [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81)  
@@ -885,6 +885,15 @@
 </summary>
 
 
+- [2020-05-04-域名被-client-hold-能不能投诉？](https://www.v2ex.com/t/668411) ![](assets/new.png)  
+- [2020-05-04-关于词法作用域和闭包的一点疑问](https://www.v2ex.com/t/668409) ![](assets/new.png)  
+- [2020-05-04-HBase,-Cassandra-和-MongoDB-都什么区别。主要关注前两个。](https://www.v2ex.com/t/668408) ![](assets/new.png)  
+- [2020-05-04-这是中毒还是?-macOS-环境下,-每次输入数字-1,-就会弹出莫名其妙的字符串。请问如何处理？](https://www.v2ex.com/t/668407) ![](assets/new.png)  
+- [2020-05-04-服务器-SSH-端口被不断试探登录，怎么防护？](https://www.v2ex.com/t/668406) ![](assets/new.png)  
+- [2020-05-04-ADHD-患者适合从事什么工作？](https://www.v2ex.com/t/668405) ![](assets/new.png)  
+- [2020-05-04-昨晚看了李毅推荐的《天注定》，感到很生气。](https://www.v2ex.com/t/668404) ![](assets/new.png)  
+- [2020-05-04-五一宅家敲代码也挺爽](https://www.v2ex.com/t/668403) ![](assets/new.png)  
+- [2020-05-04-关于搜索引擎和网站搜索](https://www.v2ex.com/t/668402) ![](assets/new.png)  
 - [2020-05-04-个人有办法注册第二个微信公众号吗？](https://www.v2ex.com/t/668400)  
 - [2020-05-04-Safari-不显示新浪图床，请问谁有油猴代码？](https://www.v2ex.com/t/668399)  
 - [2020-05-04-一个加速-GitHub-下载的-chrome-插件~](https://www.v2ex.com/t/668396)  
@@ -896,15 +905,6 @@
 - [2020-05-04-laravel-框架里有提供这种调用方式吗](https://www.v2ex.com/t/668388)  
 - [2020-05-04-用-Homebrew-来安装-mac-下的软件？](https://www.v2ex.com/t/668387)  
 - [2020-05-04-请教一个-Rust-数据是在堆上，还是在栈上的问题](https://www.v2ex.com/t/668386)  
-- [2020-05-04-如果做一个机器学习模型市场，大家认为有前途嘛？](https://www.v2ex.com/t/668385)  
-- [2020-05-04-Sculpting,-一款基于-Gatsby-的静态博客主题](https://www.v2ex.com/t/668383)  
-- [2020-05-04-有使用-usb-c-转-usb-a-转接器再从-a-口接传统-usb-转接器的使用者吗](https://www.v2ex.com/t/668382)  
-- [2020-05-04-求下载单网页的源码-扒站](https://www.v2ex.com/t/668381)  
-- [2020-05-04-互联网讽刺小短剧，你能听出几个梗](https://www.v2ex.com/t/668380)  
-- [2020-05-04-2020-献给还在迷惘的寻觅者转载](https://www.v2ex.com/t/668379)  
-- [2020-05-04-17-款高配-MBP](https://www.v2ex.com/t/668378)  
-- [2020-05-04-MacBook-Pro-升级-SSD-后如何安装-El-Capitan](https://www.v2ex.com/t/668377)  
-- [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

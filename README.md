@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 03:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 03:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -501,9 +501,9 @@
 </summary>
 
 
-- [2020-04-30-微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0) ![](assets/new.png)  
-- [2020-04-29-未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1) ![](assets/new.png)  
-- [2020-04-28-TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569) ![](assets/new.png)  
+- [2020-04-30-微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0)  
+- [2020-04-29-未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)  
+- [2020-04-28-TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569)  
 - [2020-04-22-Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a)  
 - [2020-04-20-看优酷-Nodejs-重构之路-Serverless-SSR-未来可期](https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac)  
 - [2020-04-20-期望与志同道合的你一起打造优质-Nodejs-技术栈交流群](https://www.ershicimi.com/p/e397b7029c793635bb8ac29758baa60d)  
@@ -890,7 +890,8 @@
 </summary>
 
 
-- [2020-05-05-国内手机厂商的敌人,-主要不是苹果](https://www.v2ex.com/t/668567) ![](assets/new.png)  
+- [2020-05-05-全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568) ![](assets/new.png)  
+- [2020-05-05-国内手机厂商的敌人,-主要不是苹果](https://www.v2ex.com/t/668567)  
 - [2020-05-05-iPhone-存储空间“其他”系统数据占用超过-26-个-G-是怎么回事，有人知道吗？](https://www.v2ex.com/t/668566)  
 - [2020-05-05-ViewPager2-配合-Fragment样式为一个-RecyclerView使用，上下滑动时非常容易触发左右滑动，如何调节灵敏度？](https://www.v2ex.com/t/668565)  
 - [2020-05-05-ubuntu-有办法让终端走-proxy-吗？](https://www.v2ex.com/t/668564)  
@@ -909,7 +910,6 @@
 - [2020-05-04-win10-默认应用设置在重启的时候会被重置该怎么修复？](https://www.v2ex.com/t/668545)  
 - [2020-05-04-后浪对今天-B-站的《后浪》感觉如何](https://www.v2ex.com/t/668544)  
 - [2020-05-04-人类有能力对病毒进行基因编辑吗？](https://www.v2ex.com/t/668542)  
-- [2020-05-04-这个凑合事的-13-寸-MBP-更新是否意味着要跳过-AMD-直接上-ARM-了？](https://www.v2ex.com/t/668541)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

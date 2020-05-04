@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-05 03:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 03:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -419,6 +419,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568)
 - [【V2EX】PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534)
 - [【V2EX】为什么国内一些直播网站对-firefox-的支持那么差？](https://www.v2ex.com/t/668481)
 - [【V2EX】集显真的能硬解-4k-视频么](https://www.v2ex.com/t/668476)
@@ -429,7 +430,6 @@
 - [【V2EX】用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143)
 - [【V2EX】乐视电视与腾讯视频合作到期了吗？](https://www.v2ex.com/t/668116)
 - [【V2EX】Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090)
-- [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

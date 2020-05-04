@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 13:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 15:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,26 +885,26 @@
 </summary>
 
 
-- [2020-05-04-夏天到了，有什么办法给笔记本电脑散热吗？](https://www.v2ex.com/t/668425) ![](assets/new.png)  
-- [2020-05-04-大家有没有觉得-Homebrew-特别卡，如何缓解呀](https://www.v2ex.com/t/668424) ![](assets/new.png)  
-- [2020-05-04-HP1020-打印机有什么通病？](https://www.v2ex.com/t/668423) ![](assets/new.png)  
-- [2020-05-04-大佬们租房都在哪里找的?](https://www.v2ex.com/t/668422) ![](assets/new.png)  
-- [2020-05-04-二次开发-materialUI-更换色彩样式维护可行吗？](https://www.v2ex.com/t/668421) ![](assets/new.png)  
-- [2020-05-04-有微信的人在吗？这是怎么做到的。](https://www.v2ex.com/t/668420) ![](assets/new.png)  
-- [2020-05-04-V2er-有午睡的习惯么](https://www.v2ex.com/t/668419) ![](assets/new.png)  
-- [2020-05-04-由于疫情原因，国外-PT-网站-torrentleech-开放注册了](https://www.v2ex.com/t/668418) ![](assets/new.png)  
-- [2020-05-04-毕设-1200-左右有人会接吗](https://www.v2ex.com/t/668416)  
-- [2020-05-04-用-Vim-编辑-Markdown-时直接粘贴图片](https://www.v2ex.com/t/668415)  
-- [2020-05-04-新手拍-vlog-有哪些设备和教学推荐？](https://www.v2ex.com/t/668414)  
-- [2020-05-04-Mac-终端中的箭头是做什么用的？](https://www.v2ex.com/t/668413)  
-- [2020-05-04-不懂就问：-2015-款-15-寸集显-mbp-外接-4k-会有啥问题嘛？](https://www.v2ex.com/t/668412)  
-- [2020-05-04-域名被-client-hold-能不能投诉？](https://www.v2ex.com/t/668411)  
-- [2020-05-04-关于词法作用域和闭包的一点疑问](https://www.v2ex.com/t/668409)  
-- [2020-05-04-HBase,-Cassandra-和-MongoDB-都什么区别。主要关注前两个。](https://www.v2ex.com/t/668408)  
-- [2020-05-04-这是中毒还是?-macOS-环境下,-每次输入数字-1,-就会弹出莫名其妙的字符串。请问如何处理？](https://www.v2ex.com/t/668407)  
-- [2020-05-04-服务器-SSH-端口被不断试探登录，怎么防护？](https://www.v2ex.com/t/668406)  
-- [2020-05-04-ADHD-患者适合从事什么工作？](https://www.v2ex.com/t/668405)  
-- [2020-05-04-昨晚看了李毅推荐的《天注定》，感到很生气。](https://www.v2ex.com/t/668404)  
+- [2020-05-04-请问-mac-上有没有类似于-cisco-packet-tracer-这种网络拓扑模拟器？](https://www.v2ex.com/t/668443) ![](assets/new.png)  
+- [2020-05-04-有没有大佬愿意接-C4D-建模的订单](https://www.v2ex.com/t/668442) ![](assets/new.png)  
+- [2020-05-04-总感觉-相同价位区间的平板扫描仪佳能的更清晰](https://www.v2ex.com/t/668441) ![](assets/new.png)  
+- [2020-05-04-有在用-MIUI-12-的朋友吗，你们是否能开启小火箭-or-冲浪板？](https://www.v2ex.com/t/668440) ![](assets/new.png)  
+- [2020-05-04-Manjaro-如何安装向日葵软件？](https://www.v2ex.com/t/668439) ![](assets/new.png)  
+- [2020-05-04-V2er-的机器学习/深度学习/神经网络等等，总之这些相关的知识是从哪开始学习的？有没有值得推荐的入门视频或者书籍列举一下？](https://www.v2ex.com/t/668438) ![](assets/new.png)  
+- [2020-05-04-有使用-PingID-的同仁没有](https://www.v2ex.com/t/668437) ![](assets/new.png)  
+- [2020-05-04-electron-打包-vue-成-exe-后，如何在这个-exe-文件启动前执行一段-cmd-命令，有大佬能解答下不](https://www.v2ex.com/t/668436) ![](assets/new.png)  
+- [2020-05-04-如何简单实现读取一个-txt-日志文件的前十行并删掉这十行，同时不能影响这个日志文件的实时写入，这个日志文件大概-1～-2G-左右？](https://www.v2ex.com/t/668435) ![](assets/new.png)  
+- [2020-05-04-英语学习素材求推荐](https://www.v2ex.com/t/668433) ![](assets/new.png)  
+- [2020-05-04-制造型企业招人，-C#开发](https://www.v2ex.com/t/668430) ![](assets/new.png)  
+- [2020-05-04-20W-以内落地，哪些车型能满足如下需求？](https://www.v2ex.com/t/668429) ![](assets/new.png)  
+- [2020-05-04-数据分析波形分析,-如何拆分成-波峰-波谷-波峰-波谷.-有干扰和不规则的情况](https://www.v2ex.com/t/668428) ![](assets/new.png)  
+- [2020-05-04-有没有印度区-ID-安全的充值方式呢](https://www.v2ex.com/t/668427) ![](assets/new.png)  
+- [2020-05-04-夏天到了，有什么办法给笔记本电脑散热吗？](https://www.v2ex.com/t/668425)  
+- [2020-05-04-大家有没有觉得-Homebrew-特别卡，如何缓解呀](https://www.v2ex.com/t/668424)  
+- [2020-05-04-HP1020-打印机有什么通病？](https://www.v2ex.com/t/668423)  
+- [2020-05-04-大佬们租房都在哪里找的?](https://www.v2ex.com/t/668422)  
+- [2020-05-04-二次开发-materialUI-更换色彩样式维护可行吗？](https://www.v2ex.com/t/668421)  
+- [2020-05-04-有微信的人在吗？这是怎么做到的。](https://www.v2ex.com/t/668420)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

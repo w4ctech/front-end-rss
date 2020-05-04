@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 01:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 02:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -887,10 +887,12 @@
 </summary>
 
 
-- [2020-05-05-ubuntu-有办法让终端走-proxy-吗？](https://www.v2ex.com/t/668564) ![](assets/new.png)  
-- [2020-05-05-总收到奇怪的邮件，内容只有一个数字没有链接和附件，求解](https://www.v2ex.com/t/668563) ![](assets/new.png)  
-- [2020-05-05-Apple-的应用内抽成为-30%](https://www.v2ex.com/t/668562) ![](assets/new.png)  
-- [2020-05-05-想卖掉带-ac-的-17-款-13-寸换-2020-款新-mbp，有啥建议吗？顺便询个价](https://www.v2ex.com/t/668561) ![](assets/new.png)  
+- [2020-05-05-iPhone-存储空间“其他”系统数据占用超过-26-个-G-是怎么回事，有人知道吗？](https://www.v2ex.com/t/668566) ![](assets/new.png)  
+- [2020-05-05-ViewPager2-配合-Fragment样式为一个-RecyclerView使用，上下滑动时非常容易触发左右滑动，如何调节灵敏度？](https://www.v2ex.com/t/668565) ![](assets/new.png)  
+- [2020-05-05-ubuntu-有办法让终端走-proxy-吗？](https://www.v2ex.com/t/668564)  
+- [2020-05-05-总收到奇怪的邮件，内容只有一个数字没有链接和附件，求解](https://www.v2ex.com/t/668563)  
+- [2020-05-05-Apple-的应用内抽成为-30%](https://www.v2ex.com/t/668562)  
+- [2020-05-05-想卖掉带-ac-的-17-款-13-寸换-2020-款新-mbp，有啥建议吗？顺便询个价](https://www.v2ex.com/t/668561)  
 - [2020-05-05-iOS-想转产品-面不过-怎么办](https://www.v2ex.com/t/668559)  
 - [2020-05-04-哪里有公开的酒店信息数据？](https://www.v2ex.com/t/668558)  
 - [2020-05-04-阿里的-centos7-yum-镜像源是不是出问题了](https://www.v2ex.com/t/668557)  
@@ -905,8 +907,6 @@
 - [2020-05-04-人类有能力对病毒进行基因编辑吗？](https://www.v2ex.com/t/668542)  
 - [2020-05-04-这个凑合事的-13-寸-MBP-更新是否意味着要跳过-AMD-直接上-ARM-了？](https://www.v2ex.com/t/668541)  
 - [2020-05-04-准备上架-App-到国内安卓市场，要提交申请软件著作权证书，有什么办法可以快速申请下来么](https://www.v2ex.com/t/668540)  
-- [2020-05-04-批量验证代理-IP-是否可用,-有什么特别快的骚操作吗?](https://www.v2ex.com/t/668539)  
-- [2020-05-04-聚合所有国内对标国外的技术栈/工具](https://www.v2ex.com/t/668538)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

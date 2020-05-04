@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-04 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -165,6 +165,8 @@
 - [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【知乎日报】2020-05-04-「我」是青年，且看青年](https://www.ershicimi.com/p/dd9c5f41832976f98f1c648a6668343f) 
+- [【知乎日报】2020-05-04-知乎故事-|-你们在初中时经历过什么全校轰动的事？](https://www.ershicimi.com/p/b058e88aed7e951bcca5d23c8f69ed47) 
 - [【知乎日报】2020-05-03-本周知乎热榜-|-创和青你看哪个？鲍毓明再发声喊冤？4-岁女童遭继母虐待入院？](https://www.ershicimi.com/p/6b11936efd60676f9cd74809c34f7cdd) 
 - [【知乎日报】2020-05-03-JDG-三载逐梦，一朝夺魁：敬勇气，敬自信，敬坚持](https://www.ershicimi.com/p/24c253251efec0d7f37f97d1849a9c6f) 
 - [【知乎日报】2020-05-03-坚持-60-天自律生活之后-,-我的身材变样了……](https://www.ershicimi.com/p/2a3ce04fa547a0765a2b76ef2b9e2d68) 
@@ -175,6 +177,9 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-04-mac-os-的多个虚拟桌面有办法纵向排列吗-?](https://www.v2ex.com/t/668552) 
+- [【V2EX】2020-05-04-实习-offer-比较，求-v-站前辈帮忙分析](https://www.v2ex.com/t/668551) 
+- [【V2EX】2020-05-04-想购买轻量的云主机](https://www.v2ex.com/t/668550) 
 - [【V2EX】2020-05-04-有前端大佬用-rollup-来-bundle-app-code-吗？](https://www.v2ex.com/t/668547) 
 - [【V2EX】2020-05-04-请教个关于爬虫的二级页面的问题](https://www.v2ex.com/t/668546) 
 - [【V2EX】2020-05-04-win10-默认应用设置在重启的时候会被重置该怎么修复？](https://www.v2ex.com/t/668545) 

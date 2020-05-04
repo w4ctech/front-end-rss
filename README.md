@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 23:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 23:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -855,6 +855,8 @@
 </summary>
 
 
+- [2020-05-04-「我」是青年，且看青年](https://www.ershicimi.com/p/dd9c5f41832976f98f1c648a6668343f) ![](assets/new.png)  
+- [2020-05-04-知乎故事-|-你们在初中时经历过什么全校轰动的事？](https://www.ershicimi.com/p/b058e88aed7e951bcca5d23c8f69ed47) ![](assets/new.png)  
 - [2020-05-03-本周知乎热榜-|-创和青你看哪个？鲍毓明再发声喊冤？4-岁女童遭继母虐待入院？](https://www.ershicimi.com/p/6b11936efd60676f9cd74809c34f7cdd)  
 - [2020-05-03-JDG-三载逐梦，一朝夺魁：敬勇气，敬自信，敬坚持](https://www.ershicimi.com/p/24c253251efec0d7f37f97d1849a9c6f)  
 - [2020-05-03-坚持-60-天自律生活之后-,-我的身材变样了……](https://www.ershicimi.com/p/2a3ce04fa547a0765a2b76ef2b9e2d68)  
@@ -873,8 +875,6 @@
 - [2020-04-29-「少数服从多数」和「真理掌握在少数人手中」，我该信哪句？](https://www.ershicimi.com/p/5fa3e15a8e43883111cc193b853a6c0a)  
 - [2020-04-29-知乎故事-|-结婚后的夫妻下班后都在做什么？](https://www.ershicimi.com/p/d1ee8efa20a319555a9318258522530f)  
 - [2020-04-28-我，31-岁，在家喝可乐被骂哭了](https://www.ershicimi.com/p/251f739096752e43632bbe3c81280c57)  
-- [2020-04-28-「粗腿的女生」千万别轻易练这几个动作，太虐了](https://www.ershicimi.com/p/a12c81989f7d603610c9dbb103a479dc)  
-- [2020-04-28-知乎故事-|-你生理上最痛的一次经历是什么？](https://www.ershicimi.com/p/3e6e15ee22258dce560b38679daef099)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -886,26 +886,26 @@
 </summary>
 
 
-- [2020-05-04-有前端大佬用-rollup-来-bundle-app-code-吗？](https://www.v2ex.com/t/668547) ![](assets/new.png)  
-- [2020-05-04-请教个关于爬虫的二级页面的问题](https://www.v2ex.com/t/668546) ![](assets/new.png)  
-- [2020-05-04-win10-默认应用设置在重启的时候会被重置该怎么修复？](https://www.v2ex.com/t/668545) ![](assets/new.png)  
-- [2020-05-04-后浪对今天-B-站的《后浪》感觉如何](https://www.v2ex.com/t/668544) ![](assets/new.png)  
-- [2020-05-04-人类有能力对病毒进行基因编辑吗？](https://www.v2ex.com/t/668542) ![](assets/new.png)  
-- [2020-05-04-这个凑合事的-13-寸-MBP-更新是否意味着要跳过-AMD-直接上-ARM-了？](https://www.v2ex.com/t/668541) ![](assets/new.png)  
-- [2020-05-04-准备上架-App-到国内安卓市场，要提交申请软件著作权证书，有什么办法可以快速申请下来么](https://www.v2ex.com/t/668540) ![](assets/new.png)  
-- [2020-05-04-批量验证代理-IP-是否可用,-有什么特别快的骚操作吗?](https://www.v2ex.com/t/668539) ![](assets/new.png)  
-- [2020-05-04-聚合所有国内对标国外的技术栈/工具](https://www.v2ex.com/t/668538) ![](assets/new.png)  
-- [2020-05-04-github-访问不了了？](https://www.v2ex.com/t/668537) ![](assets/new.png)  
-- [2020-05-04-有没有什么新奇的-macbook/-iPad-/-iPhone-配件?](https://www.v2ex.com/t/668536) ![](assets/new.png)  
-- [2020-05-04-iPadOS-13.4.1-提高了普通鼠标滚轮滚动的流畅性](https://www.v2ex.com/t/668535) ![](assets/new.png)  
-- [2020-05-04-PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534) ![](assets/new.png)  
-- [2020-05-04-新款-13-寸竟然没有-wifi6-awesome!](https://www.v2ex.com/t/668533) ![](assets/new.png)  
-- [2020-05-04-京东无货商品，自动跳转第三方，有什么办法解决吗](https://www.v2ex.com/t/668532) ![](assets/new.png)  
+- [2020-05-04-mac-os-的多个虚拟桌面有办法纵向排列吗-?](https://www.v2ex.com/t/668552) ![](assets/new.png)  
+- [2020-05-04-实习-offer-比较，求-v-站前辈帮忙分析](https://www.v2ex.com/t/668551) ![](assets/new.png)  
+- [2020-05-04-想购买轻量的云主机](https://www.v2ex.com/t/668550) ![](assets/new.png)  
+- [2020-05-04-有前端大佬用-rollup-来-bundle-app-code-吗？](https://www.v2ex.com/t/668547)  
+- [2020-05-04-请教个关于爬虫的二级页面的问题](https://www.v2ex.com/t/668546)  
+- [2020-05-04-win10-默认应用设置在重启的时候会被重置该怎么修复？](https://www.v2ex.com/t/668545)  
+- [2020-05-04-后浪对今天-B-站的《后浪》感觉如何](https://www.v2ex.com/t/668544)  
+- [2020-05-04-人类有能力对病毒进行基因编辑吗？](https://www.v2ex.com/t/668542)  
+- [2020-05-04-这个凑合事的-13-寸-MBP-更新是否意味着要跳过-AMD-直接上-ARM-了？](https://www.v2ex.com/t/668541)  
+- [2020-05-04-准备上架-App-到国内安卓市场，要提交申请软件著作权证书，有什么办法可以快速申请下来么](https://www.v2ex.com/t/668540)  
+- [2020-05-04-批量验证代理-IP-是否可用,-有什么特别快的骚操作吗?](https://www.v2ex.com/t/668539)  
+- [2020-05-04-聚合所有国内对标国外的技术栈/工具](https://www.v2ex.com/t/668538)  
+- [2020-05-04-github-访问不了了？](https://www.v2ex.com/t/668537)  
+- [2020-05-04-有没有什么新奇的-macbook/-iPad-/-iPhone-配件?](https://www.v2ex.com/t/668536)  
+- [2020-05-04-iPadOS-13.4.1-提高了普通鼠标滚轮滚动的流畅性](https://www.v2ex.com/t/668535)  
+- [2020-05-04-PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534)  
+- [2020-05-04-新款-13-寸竟然没有-wifi6-awesome!](https://www.v2ex.com/t/668533)  
+- [2020-05-04-京东无货商品，自动跳转第三方，有什么办法解决吗](https://www.v2ex.com/t/668532)  
 - [2020-05-04-来来来靠谱后端有没有人带走，可-Java-也可以-nodejs.欢迎来找我合作呀。](https://www.v2ex.com/t/668531)  
 - [2020-05-04-v-友们，安卓手机，如何快速传输文本或者-URL-链接到电脑呢？](https://www.v2ex.com/t/668530)  
-- [2020-05-04-迫于对-MBP13-寸的更新不感冒，-MBA-2020-如何？](https://www.v2ex.com/t/668529)  
-- [2020-05-04-Mac-系统自带输入法无法切换拼音的问题，时不时出现，有人知道怎么解决吗？](https://www.v2ex.com/t/668528)  
-- [2020-05-04-17-款-MBP-值得换-2020-新款-MBP-吗？有点心动](https://www.v2ex.com/t/668527)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

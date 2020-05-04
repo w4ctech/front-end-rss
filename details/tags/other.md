@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -324,6 +324,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [2020-04-30-这个春天，我投了300份简历至今-零-offer](https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523) 
 - [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) 
@@ -488,6 +489,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-04-迫于对-MBP13-寸的更新不感冒，-MBA-2020-如何？](https://www.v2ex.com/t/668529) 
+- [2020-05-04-Mac-系统自带输入法无法切换拼音的问题，时不时出现，有人知道怎么解决吗？](https://www.v2ex.com/t/668528) 
 - [2020-05-04-17-款-MBP-值得换-2020-新款-MBP-吗？有点心动](https://www.v2ex.com/t/668527) 
 - [2020-05-04-关于-5g-跟-4g-想问下大家是否有升级-以及-升级以后的体验？](https://www.v2ex.com/t/668526) 
 - [2020-05-04-业余时间开发了一个可以实时查看岛上有什么动物可以抓的动森图鉴-Web-版](https://www.v2ex.com/t/668522) 

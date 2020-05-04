@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-04 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -147,6 +147,9 @@
 - [【全栈前端精选】2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
 - [【前端宇宙】2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) 
 - [【前端瓶子君】2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) 
+- [【奇舞周刊】2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806) 
+- [【奇舞周刊】2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
+- [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [【互联网架构师】2020-05-03-支付宝架构师的总结：为什么他们能抗住万亿级流量的高并发？](https://www.ershicimi.com/p/e78497dea37bbd5b6a18e6d3b5f16054) 
 - [【互联网架构师】2020-05-03-开发Java，市值一度超过两千亿美元，造福无数程序员的Sun公司，也最终“陨落”](https://www.ershicimi.com/p/0a716dce6114df52cdfc63fead4d8ef0) 
@@ -172,6 +175,10 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-04-来来来靠谱后端有没有人带走，可-Java-也可以-nodejs.欢迎来找我合作呀。](https://www.v2ex.com/t/668531) 
+- [【V2EX】2020-05-04-v-友们，安卓手机，如何快速传输文本或者-URL-链接到电脑呢？](https://www.v2ex.com/t/668530) 
+- [【V2EX】2020-05-04-迫于对-MBP13-寸的更新不感冒，-MBA-2020-如何？](https://www.v2ex.com/t/668529) 
+- [【V2EX】2020-05-04-Mac-系统自带输入法无法切换拼音的问题，时不时出现，有人知道怎么解决吗？](https://www.v2ex.com/t/668528) 
 - [【V2EX】2020-05-04-17-款-MBP-值得换-2020-新款-MBP-吗？有点心动](https://www.v2ex.com/t/668527) 
 - [【V2EX】2020-05-04-关于-5g-跟-4g-想问下大家是否有升级-以及-升级以后的体验？](https://www.v2ex.com/t/668526) 
 - [【V2EX】2020-05-04-求一个-chrome/firefox-浏览器插件（获取天猫，淘宝，-1688，京东的商品详情）,有偿](https://www.v2ex.com/t/668525) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 21:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 22:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -604,6 +604,9 @@
 </summary>
 
 
+- [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806) ![](assets/new.png)  
+- [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) ![](assets/new.png)  
+- [2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) ![](assets/new.png)  
 - [2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95)  
 - [2020-04-30-这个春天，我投了300份简历至今-零-offer](https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523)  
 - [2020-04-29-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/085566f6c8937190443b9da12db2b504)  
@@ -621,8 +624,6 @@
 - [2020-04-20-你也是一边想要放弃，一边进步吗？](https://www.ershicimi.com/p/83f5d8d290a89715d8e2131e27f6b02a)  
 - [2020-04-19-你也是一边想要放弃，一边进步吗？](https://www.ershicimi.com/p/830ac98b11dba8de5c5a89af30838c9d)  
 - [2020-04-19-CML-源码剖析系列-前言](https://www.ershicimi.com/p/057f43052c2caeddd2aa1a2230b4c315)  
-- [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71)  
-- [2020-04-17-奇舞周刊第-346-期：当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/6181fee0f5be7ce7ad20331d7a4efdbc)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -885,10 +886,14 @@
 </summary>
 
 
-- [2020-05-04-17-款-MBP-值得换-2020-新款-MBP-吗？有点心动](https://www.v2ex.com/t/668527) ![](assets/new.png)  
-- [2020-05-04-关于-5g-跟-4g-想问下大家是否有升级-以及-升级以后的体验？](https://www.v2ex.com/t/668526) ![](assets/new.png)  
-- [2020-05-04-求一个-chrome/firefox-浏览器插件（获取天猫，淘宝，-1688，京东的商品详情）,有偿](https://www.v2ex.com/t/668525) ![](assets/new.png)  
-- [2020-05-04-写了一个优化-pandas-内存的工具](https://www.v2ex.com/t/668523) ![](assets/new.png)  
+- [2020-05-04-来来来靠谱后端有没有人带走，可-Java-也可以-nodejs.欢迎来找我合作呀。](https://www.v2ex.com/t/668531) ![](assets/new.png)  
+- [2020-05-04-v-友们，安卓手机，如何快速传输文本或者-URL-链接到电脑呢？](https://www.v2ex.com/t/668530) ![](assets/new.png)  
+- [2020-05-04-迫于对-MBP13-寸的更新不感冒，-MBA-2020-如何？](https://www.v2ex.com/t/668529) ![](assets/new.png)  
+- [2020-05-04-Mac-系统自带输入法无法切换拼音的问题，时不时出现，有人知道怎么解决吗？](https://www.v2ex.com/t/668528) ![](assets/new.png)  
+- [2020-05-04-17-款-MBP-值得换-2020-新款-MBP-吗？有点心动](https://www.v2ex.com/t/668527)  
+- [2020-05-04-关于-5g-跟-4g-想问下大家是否有升级-以及-升级以后的体验？](https://www.v2ex.com/t/668526)  
+- [2020-05-04-求一个-chrome/firefox-浏览器插件（获取天猫，淘宝，-1688，京东的商品详情）,有偿](https://www.v2ex.com/t/668525)  
+- [2020-05-04-写了一个优化-pandas-内存的工具](https://www.v2ex.com/t/668523)  
 - [2020-05-04-业余时间开发了一个可以实时查看岛上有什么动物可以抓的动森图鉴-Web-版](https://www.v2ex.com/t/668522)  
 - [2020-05-04-2020-新款-MacBook-Pro-13-寸已经发布](https://www.v2ex.com/t/668521)  
 - [2020-05-04-大家觉得（马冬梅）这个域名适合做什么类型的网站](https://www.v2ex.com/t/668520)  
@@ -901,10 +906,6 @@
 - [2020-05-04-腾讯的朋友看下，这个网页的-https://id.qq.com/#account-的主显账号设置挂了。](https://www.v2ex.com/t/668510)  
 - [2020-05-04-Keychro-k2-换个名字便宜一半。。](https://www.v2ex.com/t/668509)  
 - [2020-05-04-B-站人像在弹幕上方这种实现形式感觉好厉害，想了一下没想出实现思路，请教各位大佬。](https://www.v2ex.com/t/668508)  
-- [2020-05-04-求职-Python-爬虫或后端工作](https://www.v2ex.com/t/668507)  
-- [2020-05-04-mofish-聚合好多网站的那个网站问下是什么框架做的](https://www.v2ex.com/t/668506)  
-- [2020-05-04-AR-Cut-&-Paste](https://www.v2ex.com/t/668505)  
-- [2020-05-04-offer-选择：一边是好奇的岗位，一边是想去的公司](https://www.v2ex.com/t/668502)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

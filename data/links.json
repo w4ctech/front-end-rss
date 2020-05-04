@@ -5158,6 +5158,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "sqlalchemy+postgresql 建表不成功换 mysql 是可以",
+        "link": "https://www.v2ex.com/t/668570",
+        "date": "2020-05-05"
+      },
+      {
         "title": "Windows 10 不能自动发现 Linux Samba 服务器的原因和解决方案",
         "link": "https://www.v2ex.com/t/668569",
         "date": "2020-05-05"

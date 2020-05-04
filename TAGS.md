@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-04 22:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -416,6 +416,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534)
 - [【V2EX】为什么国内一些直播网站对-firefox-的支持那么差？](https://www.v2ex.com/t/668481)
 - [【V2EX】集显真的能硬解-4k-视频么](https://www.v2ex.com/t/668476)
 - [【V2EX】音频-PCM-的数据中包含负值，但是分贝转换公式中的值要求是正值，请问这样是否存在冲突呢？](https://www.v2ex.com/t/668467)
@@ -427,7 +428,6 @@
 - [【V2EX】Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090)
 - [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
 - [【V2EX】有大神研究过-36kr-的视频栏目接口吗？](https://www.v2ex.com/t/668049)
-- [【V2EX】飞瓜上的抖音等视频平台数据是正规的吗？](https://www.v2ex.com/t/668039)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -596,6 +596,7 @@
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】github-访问不了了？](https://www.v2ex.com/t/668537)
 - [【V2EX】Git-Bash-样式配置求推荐](https://www.v2ex.com/t/668471)
 - [【V2EX】有同样关注-EOS-链生态的朋友么？分享一个-EOS-链代表排名-GitHub-项目。](https://www.v2ex.com/t/668312)
 - [【V2EX】Git-常用命令参考手册](https://www.v2ex.com/t/668177)
@@ -607,7 +608,6 @@
 - [【V2EX】好像有人在爬-v2ex，然后提交到-github，然后不小心-@了我](https://www.v2ex.com/t/667773)
 - [【V2EX】Grace-Note-一款基于-git-的知识管理软件](https://www.v2ex.com/t/667515)
 - [【V2EX】github-上还有微信机器人这种开源工具能用吗](https://www.v2ex.com/t/666881)
-- [【V2EX】一个使用-github-存档网络文章的项目（匿名提交，自动抓取）](https://www.v2ex.com/t/666792)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

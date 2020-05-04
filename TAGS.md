@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-04 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -460,10 +460,10 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【InfoQ】晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】写了一个优化-pandas-内存的工具](https://www.v2ex.com/t/668523)
 - [【V2EX】weread.qq.com-似乎能监测到浏览器是否打开了控制台f12，禁止调试模式：页面拒绝加载内容。这个实现的原理是什么？](https://www.v2ex.com/t/668339)
 - [【V2EX】MrDoc-觅道文档发布-0.5.0-版本，优化文集文档-EPUB-导出、新增-PDF-导出、支持思维导图自定义高度](https://www.v2ex.com/t/668337)
 - [【V2EX】Ubuntu-上-Chrome-打开-jd-或者-b-站，加载特别漫长，火狐没有](https://www.v2ex.com/t/667958)
-- [【V2EX】服务器要到期了又要续费了，焦虑，阿里云的突发性能实例咋这么便宜，经不住诱惑打算换过去，有坑吗😂](https://www.v2ex.com/t/667952)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

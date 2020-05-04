@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-04 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,8 @@
 - [【前端迷】2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9) 
 - [【全栈前端精选】2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1) 
 - [【全栈前端精选】2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
+- [【前端宇宙】2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) 
+- [【前端瓶子君】2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [【互联网架构师】2020-05-02-漫画：谁杀死了MySQL？](https://www.ershicimi.com/p/d2a927fa460f6f76df143c18483a9e61) 
 - [【互联网架构师】2020-05-02-Intellij-IDEA-看源码必备的技能！](https://www.ershicimi.com/p/533c9c83943f529799b2cb6474376410) 
@@ -636,6 +638,12 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【开发者头条】2020-05-04-LevelDB-完全解析（三）：SSTable](https://toutiao.io/k/cpxelwu) 
+- [【开发者头条】2020-05-04-你的简历写了-“熟悉”-Zookeeper？那这些你会吗？](https://toutiao.io/k/n1vza25) 
+- [【开发者头条】2020-05-04-零信任安全架构实践之路](https://toutiao.io/k/2vdnk27) 
+- [【开发者头条】2020-05-04-一个静态注入动态库的工具-luject](https://toutiao.io/k/gwc3863) 
+- [【开发者头条】2020-05-04-HBase-内核优化与吞吐能力建设](https://toutiao.io/k/7e6x1fk) 
+- [【开发者头条】2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2) 
 - [【开发者头条】2020-05-04-Istio-1.5-&-Envoy-数据面-WASM-实践](https://toutiao.io/k/colre19) 
 - [【开发者头条】2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z) 
 - [【开发者头条】2020-05-04-阿里的技术牛人在读什么？书单来了！](https://toutiao.io/k/pgcsnx3) 

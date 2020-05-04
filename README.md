@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 09:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 09:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,8 +32,8 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -427,6 +427,7 @@
 </summary>
 
 
+- [2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) ![](assets/new.png)  
 - [2020-04-29-浅谈前端工程化趋势](https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59)  
 - [2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f)  
 - [2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3)  
@@ -451,6 +452,7 @@
 </summary>
 
 
+- [2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) ![](assets/new.png)  
 - [2020-04-30-抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)  
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51)  
 - [2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d)  
@@ -944,9 +946,15 @@
 </summary>
 
 
-- [2020-05-04-Istio-1.5-&-Envoy-数据面-WASM-实践](https://toutiao.io/k/colre19) ![](assets/new.png)  
-- [2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z) ![](assets/new.png)  
-- [2020-05-04-阿里的技术牛人在读什么？书单来了！](https://toutiao.io/k/pgcsnx3) ![](assets/new.png)  
+- [2020-05-04-LevelDB-完全解析（三）：SSTable](https://toutiao.io/k/cpxelwu) ![](assets/new.png)  
+- [2020-05-04-你的简历写了-“熟悉”-Zookeeper？那这些你会吗？](https://toutiao.io/k/n1vza25) ![](assets/new.png)  
+- [2020-05-04-零信任安全架构实践之路](https://toutiao.io/k/2vdnk27) ![](assets/new.png)  
+- [2020-05-04-一个静态注入动态库的工具-luject](https://toutiao.io/k/gwc3863) ![](assets/new.png)  
+- [2020-05-04-HBase-内核优化与吞吐能力建设](https://toutiao.io/k/7e6x1fk) ![](assets/new.png)  
+- [2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2) ![](assets/new.png)  
+- [2020-05-04-Istio-1.5-&-Envoy-数据面-WASM-实践](https://toutiao.io/k/colre19)  
+- [2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z)  
+- [2020-05-04-阿里的技术牛人在读什么？书单来了！](https://toutiao.io/k/pgcsnx3)  
 - [2020-05-03-《JavaScript-20-年》中文版（二）：创立标准](https://toutiao.io/k/9ofgyej)  
 - [2020-05-03-可变剪切分析](https://toutiao.io/k/95fwdwx)  
 - [2020-05-03-Java-8-函数式编程：Lambda-表达式和方法引用](https://toutiao.io/k/4x1zdt5)  
@@ -958,12 +966,6 @@
 - [2020-05-03-美团的技术牛人在读什么？书单来了！](https://toutiao.io/k/34nidbu)  
 - [2020-05-02-Python-如何移除旧的版本特性，如何迎接新的特性？](https://toutiao.io/k/dw2n175)  
 - [2020-05-02-10x-程序员之-Vim（一）](https://toutiao.io/k/3x8cux8)  
-- [2020-05-02-Mars-java-发布了-3.0.15-版本，将开始支持组件化](https://toutiao.io/k/9z4wnur)  
-- [2020-05-02-“���”-引发的线上事故](https://toutiao.io/k/5imu5g9)  
-- [2020-05-02-Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1)  
-- [2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l)  
-- [2020-05-02-YOLOv4-来了！COCO-43.5-AP，65-FPS！实现速度与精度的最优平衡](https://toutiao.io/k/lqtc19j)  
-- [2020-05-02-Java-命令行工具之-jstat](https://toutiao.io/k/ae7ea2z)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 09:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -882,9 +882,9 @@
 </summary>
 
 
-- [2020-05-04-互联网讽刺小短剧，你能听出几个梗](https://www.v2ex.com/t/668380) ![](assets/new.png)  
-- [2020-05-04-2020-献给还在迷惘的寻觅者转载](https://www.v2ex.com/t/668379) ![](assets/new.png)  
-- [2020-05-04-17-款高配-MBP](https://www.v2ex.com/t/668378) ![](assets/new.png)  
+- [2020-05-04-互联网讽刺小短剧，你能听出几个梗](https://www.v2ex.com/t/668380)  
+- [2020-05-04-2020-献给还在迷惘的寻觅者转载](https://www.v2ex.com/t/668379)  
+- [2020-05-04-17-款高配-MBP](https://www.v2ex.com/t/668378)  
 - [2020-05-04-MacBook-Pro-升级-SSD-后如何安装-El-Capitan](https://www.v2ex.com/t/668377)  
 - [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376)  
 - [2020-05-04-帮忙看看哪个内存条好？](https://www.v2ex.com/t/668375)  
@@ -944,6 +944,9 @@
 </summary>
 
 
+- [2020-05-04-Istio-1.5-&-Envoy-数据面-WASM-实践](https://toutiao.io/k/colre19) ![](assets/new.png)  
+- [2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z) ![](assets/new.png)  
+- [2020-05-04-阿里的技术牛人在读什么？书单来了！](https://toutiao.io/k/pgcsnx3) ![](assets/new.png)  
 - [2020-05-03-《JavaScript-20-年》中文版（二）：创立标准](https://toutiao.io/k/9ofgyej)  
 - [2020-05-03-可变剪切分析](https://toutiao.io/k/95fwdwx)  
 - [2020-05-03-Java-8-函数式编程：Lambda-表达式和方法引用](https://toutiao.io/k/4x1zdt5)  
@@ -961,9 +964,6 @@
 - [2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l)  
 - [2020-05-02-YOLOv4-来了！COCO-43.5-AP，65-FPS！实现速度与精度的最优平衡](https://toutiao.io/k/lqtc19j)  
 - [2020-05-02-Java-命令行工具之-jstat](https://toutiao.io/k/ae7ea2z)  
-- [2020-05-02-华为的技术牛人在读什么？书单来了！](https://toutiao.io/k/1x82rhf)  
-- [2020-05-01-阿里的程序员也不过如此，竟被一个简单的-SQL-查询难住](https://toutiao.io/k/07klc8w)  
-- [2020-05-01-疫情期间对通证经济的一些思考](https://toutiao.io/k/je5r3o7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

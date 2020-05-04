@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -39,6 +39,7 @@
 - [2020-04-24-做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746) 
 - [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z) 
 - [2020-04-30-Numpy-和-Pandas-性能改善的方法和技巧](https://toutiao.io/k/2xfxi5j) 
 - [2020-04-30-机器学习笔记（十三）：重中之重的性能度量方式你要懂](https://toutiao.io/k/epg381y) 
 - [2020-04-28-Windows-AD-报错解决：UAC-File-Virtualization-服务启动失败，此驱动程序被阻止加载](https://toutiao.io/k/kt8hqjr) 

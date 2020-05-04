@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-05 02:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 03:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -113,6 +113,8 @@
 
 - [【前端开发】7-天内我面试了-10-家公司，发现-TypeScript-为什么这么吃香](https://www.ershicimi.com/p/9e8a4ad92ab0676e564c6379837d7938)
 - [【程序员成长指北】未来可期的TypeScript](https://www.ershicimi.com/p/2a1d70522d7bf044ff46b5799a796ea6)
+- [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)
+- [【Nodejs技术栈】TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569)
 - [【JavaScript】TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [【V2EX】为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458)
@@ -409,6 +411,7 @@
 
 
 - [【前端迷】视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9)
+- [【Nodejs技术栈】微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
@@ -427,7 +430,6 @@
 - [【V2EX】乐视电视与腾讯视频合作到期了吗？](https://www.v2ex.com/t/668116)
 - [【V2EX】Python-协程---PyCon'2009-"A-Curious-Course-on-Coroutines-and-Concurrency"-视频分享](https://www.v2ex.com/t/668090)
 - [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
-- [【V2EX】有大神研究过-36kr-的视频栏目接口吗？](https://www.v2ex.com/t/668049)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

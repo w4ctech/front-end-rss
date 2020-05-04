@@ -2473,6 +2473,21 @@
     "link": "https://www.ershicimi.com/a/10545",
     "items": [
       {
+        "title": "微视频 | 五分钟学会搭建带有 CDN 加速的免费图床",
+        "link": "https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0",
+        "date": "2020-04-30"
+      },
+      {
+        "title": "未来可期的 TypeScript",
+        "link": "https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1",
+        "date": "2020-04-29"
+      },
+      {
+        "title": "TypeScript 面向对象程序设计（OOP）",
+        "link": "https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569",
+        "date": "2020-04-28"
+      },
+      {
         "title": "Nodejs Stream pipe 的使用与实现原理分析",
         "link": "https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a",
         "date": "2020-04-22"
@@ -5142,6 +5157,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "国内手机厂商的敌人, 主要不是苹果",
+        "link": "https://www.v2ex.com/t/668567",
+        "date": "2020-05-05"
+      },
       {
         "title": "iPhone 存储空间“其他”系统数据占用超过 26 个 G 是怎么回事，有人知道吗？",
         "link": "https://www.v2ex.com/t/668566",

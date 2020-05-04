@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 02:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-05 03:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -179,6 +179,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-05-国内手机厂商的敌人,-主要不是苹果](https://www.v2ex.com/t/668567) 
 - [【V2EX】2020-05-05-iPhone-存储空间“其他”系统数据占用超过-26-个-G-是怎么回事，有人知道吗？](https://www.v2ex.com/t/668566) 
 - [【V2EX】2020-05-05-ViewPager2-配合-Fragment样式为一个-RecyclerView使用，上下滑动时非常容易触发左右滑动，如何调节灵敏度？](https://www.v2ex.com/t/668565) 
 - [【V2EX】2020-05-05-ubuntu-有办法让终端走-proxy-吗？](https://www.v2ex.com/t/668564) 
@@ -1138,6 +1139,9 @@
 - [【程序员成长指北】2020-04-21-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4) 
 - [【程序员成长指北】2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
 - [【程序员成长指北】2020-04-20-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/8eeced27110ebf6247e339edde335d2b) 
+- [【Nodejs技术栈】2020-04-30-微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0) 
+- [【Nodejs技术栈】2020-04-29-未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1) 
+- [【Nodejs技术栈】2020-04-28-TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569) 
 - [【Nodejs技术栈】2020-04-22-Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a) 
 - [【Nodejs技术栈】2020-04-20-看优酷-Nodejs-重构之路-Serverless-SSR-未来可期](https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac) 
 - [【Nodejs技术栈】2020-04-20-期望与志同道合的你一起打造优质-Nodejs-技术栈交流群](https://www.ershicimi.com/p/e397b7029c793635bb8ac29758baa60d) 

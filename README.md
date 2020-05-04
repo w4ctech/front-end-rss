@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 09:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 10:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,8 +32,8 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -427,7 +427,7 @@
 </summary>
 
 
-- [2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) ![](assets/new.png)  
+- [2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4)  
 - [2020-04-29-浅谈前端工程化趋势](https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59)  
 - [2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f)  
 - [2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3)  
@@ -452,7 +452,7 @@
 </summary>
 
 
-- [2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) ![](assets/new.png)  
+- [2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a)  
 - [2020-04-30-抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)  
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51)  
 - [2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d)  
@@ -884,6 +884,19 @@
 </summary>
 
 
+- [2020-05-04-一个加速-GitHub-下载的-chrome-插件~](https://www.v2ex.com/t/668396) ![](assets/new.png)  
+- [2020-05-04-V-站让人上瘾，每当-Web-端流量枯竭，就想到-V-站来吸一口](https://www.v2ex.com/t/668395) ![](assets/new.png)  
+- [2020-05-04-为了父亲，做了个-bilibili-频道「按摩实验室」。](https://www.v2ex.com/t/668392) ![](assets/new.png)  
+- [2020-05-04-55-断更节，大家怎么看，我是挺支持的](https://www.v2ex.com/t/668391) ![](assets/new.png)  
+- [2020-05-04-有没有支持查询历史价格曲线和设置降价到某价格以下提醒的浏览器插件？](https://www.v2ex.com/t/668390) ![](assets/new.png)  
+- [2020-05-04-熊猫显示器到底怎么样？](https://www.v2ex.com/t/668389) ![](assets/new.png)  
+- [2020-05-04-laravel-框架里有提供这种调用方式吗](https://www.v2ex.com/t/668388) ![](assets/new.png)  
+- [2020-05-04-用-Homebrew-来安装-mac-下的软件？](https://www.v2ex.com/t/668387) ![](assets/new.png)  
+- [2020-05-04-请教一个-Rust-数据是在堆上，还是在栈上的问题](https://www.v2ex.com/t/668386) ![](assets/new.png)  
+- [2020-05-04-如果做一个机器学习模型市场，大家认为有前途嘛？](https://www.v2ex.com/t/668385) ![](assets/new.png)  
+- [2020-05-04-Sculpting,-一款基于-Gatsby-的静态博客主题](https://www.v2ex.com/t/668383) ![](assets/new.png)  
+- [2020-05-04-有使用-usb-c-转-usb-a-转接器再从-a-口接传统-usb-转接器的使用者吗](https://www.v2ex.com/t/668382) ![](assets/new.png)  
+- [2020-05-04-求下载单网页的源码-扒站](https://www.v2ex.com/t/668381) ![](assets/new.png)  
 - [2020-05-04-互联网讽刺小短剧，你能听出几个梗](https://www.v2ex.com/t/668380)  
 - [2020-05-04-2020-献给还在迷惘的寻觅者转载](https://www.v2ex.com/t/668379)  
 - [2020-05-04-17-款高配-MBP](https://www.v2ex.com/t/668378)  
@@ -891,19 +904,6 @@
 - [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376)  
 - [2020-05-04-帮忙看看哪个内存条好？](https://www.v2ex.com/t/668375)  
 - [2020-05-04-水深火热预订-在面向普通人的中文社区，谈论世界人民大团结，就是一种政治不正确。](https://www.v2ex.com/t/668374)  
-- [2020-05-04-有没有关于新的-MBP-14.1-的消息？](https://www.v2ex.com/t/668373)  
-- [2020-05-04-20200504-午夜俱乐部](https://www.v2ex.com/t/668372)  
-- [2020-05-04-诡异-SMB-速度问题，是-explorer.exe-还是？](https://www.v2ex.com/t/668371)  
-- [2020-05-04-醉里不知身在水，掬水捧月扰清波](https://www.v2ex.com/t/668370)  
-- [2020-05-04-显示器无规律出现闪烁彩虹条纹，拔掉显示器电源等一会重新插入后，恢复正常，有没有大佬知道是什么原因？](https://www.v2ex.com/t/668368)  
-- [2020-05-04-Agda-在前端开发领域中的实践](https://www.v2ex.com/t/668367)  
-- [2020-05-04-vue+echart-的一个问题，求助大家。](https://www.v2ex.com/t/668366)  
-- [2020-05-04-VS-Code-默认打开-markdown-预览](https://www.v2ex.com/t/668364)  
-- [2020-05-04-寻什么鸟导师](https://www.v2ex.com/t/668363)  
-- [2020-05-04-wsl2-该怎样才能共享文件给局域网？](https://www.v2ex.com/t/668362)  
-- [2020-05-04-有没有类似云盘精灵的插件-可以自动填写百度云资源的密码~~-之前在-v2-看到过一次-忘记收藏了~~](https://www.v2ex.com/t/668361)  
-- [2020-05-04-5k2k-带鱼屏求推荐-LG-34WK95U-vs-微星-PS341WU-选择](https://www.v2ex.com/t/668360)  
-- [2020-05-03-你有哪些技术书籍阅读的优秀习惯](https://www.v2ex.com/t/668359)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -946,12 +946,12 @@
 </summary>
 
 
-- [2020-05-04-LevelDB-完全解析（三）：SSTable](https://toutiao.io/k/cpxelwu) ![](assets/new.png)  
-- [2020-05-04-你的简历写了-“熟悉”-Zookeeper？那这些你会吗？](https://toutiao.io/k/n1vza25) ![](assets/new.png)  
-- [2020-05-04-零信任安全架构实践之路](https://toutiao.io/k/2vdnk27) ![](assets/new.png)  
-- [2020-05-04-一个静态注入动态库的工具-luject](https://toutiao.io/k/gwc3863) ![](assets/new.png)  
-- [2020-05-04-HBase-内核优化与吞吐能力建设](https://toutiao.io/k/7e6x1fk) ![](assets/new.png)  
-- [2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2) ![](assets/new.png)  
+- [2020-05-04-LevelDB-完全解析（三）：SSTable](https://toutiao.io/k/cpxelwu)  
+- [2020-05-04-你的简历写了-“熟悉”-Zookeeper？那这些你会吗？](https://toutiao.io/k/n1vza25)  
+- [2020-05-04-零信任安全架构实践之路](https://toutiao.io/k/2vdnk27)  
+- [2020-05-04-一个静态注入动态库的工具-luject](https://toutiao.io/k/gwc3863)  
+- [2020-05-04-HBase-内核优化与吞吐能力建设](https://toutiao.io/k/7e6x1fk)  
+- [2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2)  
 - [2020-05-04-Istio-1.5-&-Envoy-数据面-WASM-实践](https://toutiao.io/k/colre19)  
 - [2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z)  
 - [2020-05-04-阿里的技术牛人在读什么？书单来了！](https://toutiao.io/k/pgcsnx3)  

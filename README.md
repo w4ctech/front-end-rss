@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 16:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 17:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,9 +885,15 @@
 </summary>
 
 
-- [2020-05-04-Apple-Music-无法上传本地音乐](https://www.v2ex.com/t/668466) ![](assets/new.png)  
-- [2020-05-04-没有人的房子，草会长得更快嘛？](https://www.v2ex.com/t/668463) ![](assets/new.png)  
-- [2020-05-04-mysql-禁止使用-on-duplicate-key-update-吗](https://www.v2ex.com/t/668462) ![](assets/new.png)  
+- [2020-05-04-有私活，-c++老哥有空的来](https://www.v2ex.com/t/668472) ![](assets/new.png)  
+- [2020-05-04-Git-Bash-样式配置求推荐](https://www.v2ex.com/t/668471) ![](assets/new.png)  
+- [2020-05-04-预算-500-内求推荐一个家用激光打印&复印机，有的留个联系方式。](https://www.v2ex.com/t/668470) ![](assets/new.png)  
+- [2020-05-04-密码学-花了三个月慢慢写了这篇-AES-复习](https://www.v2ex.com/t/668469) ![](assets/new.png)  
+- [2020-05-04-b-站的纪录片页面设计的好难用](https://www.v2ex.com/t/668468) ![](assets/new.png)  
+- [2020-05-04-音频-PCM-的数据中包含负值，但是分贝转换公式中的值要求是正值，请问这样是否存在冲突呢？](https://www.v2ex.com/t/668467) ![](assets/new.png)  
+- [2020-05-04-Apple-Music-无法上传本地音乐](https://www.v2ex.com/t/668466)  
+- [2020-05-04-没有人的房子，草会长得更快嘛？](https://www.v2ex.com/t/668463)  
+- [2020-05-04-mysql-禁止使用-on-duplicate-key-update-吗](https://www.v2ex.com/t/668462)  
 - [2020-05-04-个人微信号现在还有-API-可以用吗](https://www.v2ex.com/t/668461)  
 - [2020-05-04-关于电动牙刷](https://www.v2ex.com/t/668460)  
 - [2020-05-04-Manjaro-竟然不能自动添加打印机，真是弱鸡](https://www.v2ex.com/t/668459)  
@@ -899,12 +905,6 @@
 - [2020-05-04-听个歌咋这么难，-Mac-下有没有聚合音乐平台/软件？](https://www.v2ex.com/t/668453)  
 - [2020-05-04-划词搜索脚本如何添加一个函数，判断鼠标放到图标栏不自动消失呢](https://www.v2ex.com/t/668452)  
 - [2020-05-04-hp-m251-打印机耐用吗？](https://www.v2ex.com/t/668451)  
-- [2020-05-04-PPics-2.2-发布，送-22-个年会员兑换码](https://www.v2ex.com/t/668450)  
-- [2020-05-04-陷入迷茫-非矫情帖子-寻求一些思路。](https://www.v2ex.com/t/668449)  
-- [2020-05-04-不懂就问，显示器-2K-和-4K-显示效果区别有多大](https://www.v2ex.com/t/668448)  
-- [2020-05-04-新-macbook-购买渠道求建议](https://www.v2ex.com/t/668446)  
-- [2020-05-04-使用-mybatis-的-SQL-构造器-手动构造-SQL，参数替换有什么好方法做吗?](https://www.v2ex.com/t/668445)  
-- [2020-05-04-JS-储存-65535-个以内-512-位的数据怎样能最优化？](https://www.v2ex.com/t/668444)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

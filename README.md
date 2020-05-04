@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 03:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -890,7 +890,8 @@
 </summary>
 
 
-- [2020-05-05-全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568) ![](assets/new.png)  
+- [2020-05-05-Windows-10-不能自动发现-Linux-Samba-服务器的原因和解决方案](https://www.v2ex.com/t/668569) ![](assets/new.png)  
+- [2020-05-05-全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568)  
 - [2020-05-05-国内手机厂商的敌人,-主要不是苹果](https://www.v2ex.com/t/668567)  
 - [2020-05-05-iPhone-存储空间“其他”系统数据占用超过-26-个-G-是怎么回事，有人知道吗？](https://www.v2ex.com/t/668566)  
 - [2020-05-05-ViewPager2-配合-Fragment样式为一个-RecyclerView使用，上下滑动时非常容易触发左右滑动，如何调节灵敏度？](https://www.v2ex.com/t/668565)  
@@ -909,7 +910,6 @@
 - [2020-05-04-请教个关于爬虫的二级页面的问题](https://www.v2ex.com/t/668546)  
 - [2020-05-04-win10-默认应用设置在重启的时候会被重置该怎么修复？](https://www.v2ex.com/t/668545)  
 - [2020-05-04-后浪对今天-B-站的《后浪》感觉如何](https://www.v2ex.com/t/668544)  
-- [2020-05-04-人类有能力对病毒进行基因编辑吗？](https://www.v2ex.com/t/668542)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

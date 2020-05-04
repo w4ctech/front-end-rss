@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-04 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -416,6 +416,8 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】为什么国内一些直播网站对-firefox-的支持那么差？](https://www.v2ex.com/t/668481)
+- [【V2EX】集显真的能硬解-4k-视频么](https://www.v2ex.com/t/668476)
 - [【V2EX】音频-PCM-的数据中包含负值，但是分贝转换公式中的值要求是正值，请问这样是否存在冲突呢？](https://www.v2ex.com/t/668467)
 - [【V2EX】V2er-的机器学习/深度学习/神经网络等等，总之这些相关的知识是从哪开始学习的？有没有值得推荐的入门视频或者书籍列举一下？](https://www.v2ex.com/t/668438)
 - [【V2EX】不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354)
@@ -426,8 +428,6 @@
 - [【V2EX】才发现-Audio-Hijack-自带了直播推流功能（beta）](https://www.v2ex.com/t/668057)
 - [【V2EX】有大神研究过-36kr-的视频栏目接口吗？](https://www.v2ex.com/t/668049)
 - [【V2EX】飞瓜上的抖音等视频平台数据是正规的吗？](https://www.v2ex.com/t/668039)
-- [【V2EX】B-站上传视频-upos-上传结束同步出现错误？？](https://www.v2ex.com/t/668013)
-- [【V2EX】视频抓取的-m3u8-文件无法-ffmpeg-下载，求指导](https://www.v2ex.com/t/668005)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -237,6 +237,7 @@
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [2020-05-03-送给想转行AI的你：3堂人工智能入行教学课（免费领取）](https://www.ershicimi.com/p/9fb3ab95675c53b6bf6118ab02e2ef87) 
 - [2020-04-30-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/8f67633fc8d6906ee352f1d3cf894bfa) 
 - [2020-04-30-高效的vscode编码配置](https://www.ershicimi.com/p/d51eb314074eea14631ac1fc9aba9f81) 
 - [2020-04-29-简洁、巧妙、高效的长列表，无限下拉方案](https://www.ershicimi.com/p/7d131170a49917ef3db422b3314f5fc7) 

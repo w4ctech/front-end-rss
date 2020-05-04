@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 05:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-05 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -179,6 +179,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-05-FastAPI-怎么更好的返回自定义的格式](https://www.v2ex.com/t/668571) 
 - [【V2EX】2020-05-05-sqlalchemy+postgresql-建表不成功换-mysql-是可以](https://www.v2ex.com/t/668570) 
 - [【V2EX】2020-05-05-Windows-10-不能自动发现-Linux-Samba-服务器的原因和解决方案](https://www.v2ex.com/t/668569) 
 - [【V2EX】2020-05-05-全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568) 

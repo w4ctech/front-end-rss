@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 10:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 11:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -664,6 +664,9 @@
 </summary>
 
 
+- [2020-05-03-支付宝架构师的总结：为什么他们能抗住万亿级流量的高并发？](https://www.ershicimi.com/p/e78497dea37bbd5b6a18e6d3b5f16054) ![](assets/new.png)  
+- [2020-05-03-开发Java，市值一度超过两千亿美元，造福无数程序员的Sun公司，也最终“陨落”](https://www.ershicimi.com/p/0a716dce6114df52cdfc63fead4d8ef0) ![](assets/new.png)  
+- [2020-05-03-阿里大牛程序员的Java问题排查工具单](https://www.ershicimi.com/p/9f48568a3372adb5cfb2ad7530238035) ![](assets/new.png)  
 - [2020-05-02-漫画：谁杀死了MySQL？](https://www.ershicimi.com/p/d2a927fa460f6f76df143c18483a9e61)  
 - [2020-05-02-Intellij-IDEA-看源码必备的技能！](https://www.ershicimi.com/p/533c9c83943f529799b2cb6474376410)  
 - [2020-05-02-Spring-Boot内存泄露，排查竟这么难！](https://www.ershicimi.com/p/092499746e96f4d0e658f78ba0ac0aeb)  
@@ -681,9 +684,6 @@
 - [2020-04-28-重磅！又一个自主研发的国产操作系统要出现了？传中科红旗正研发新一代Linux](https://www.ershicimi.com/p/3067d7b85a777794bb9cd58ca9cc5301)  
 - [2020-04-28-这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3)  
 - [2020-04-28-IntelliJ-IDEA-2020.1-首个稳定版重磅发布！](https://www.ershicimi.com/p/cbda1c7f93f8491c872a57a0af4fd3a6)  
-- [2020-04-28-一文带你搞懂-MySQL-中的分区！](https://www.ershicimi.com/p/791dc08e9da84307c8f7d4b2538e87a2)  
-- [2020-04-27-Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)  
-- [2020-04-27-你必须掌握的-21-个-Java-核心技术！](https://www.ershicimi.com/p/58c4100ac4abe2b58785d36490eca51d)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -884,26 +884,26 @@
 </summary>
 
 
-- [2020-05-04-一个加速-GitHub-下载的-chrome-插件~](https://www.v2ex.com/t/668396) ![](assets/new.png)  
-- [2020-05-04-V-站让人上瘾，每当-Web-端流量枯竭，就想到-V-站来吸一口](https://www.v2ex.com/t/668395) ![](assets/new.png)  
-- [2020-05-04-为了父亲，做了个-bilibili-频道「按摩实验室」。](https://www.v2ex.com/t/668392) ![](assets/new.png)  
-- [2020-05-04-55-断更节，大家怎么看，我是挺支持的](https://www.v2ex.com/t/668391) ![](assets/new.png)  
-- [2020-05-04-有没有支持查询历史价格曲线和设置降价到某价格以下提醒的浏览器插件？](https://www.v2ex.com/t/668390) ![](assets/new.png)  
-- [2020-05-04-熊猫显示器到底怎么样？](https://www.v2ex.com/t/668389) ![](assets/new.png)  
-- [2020-05-04-laravel-框架里有提供这种调用方式吗](https://www.v2ex.com/t/668388) ![](assets/new.png)  
-- [2020-05-04-用-Homebrew-来安装-mac-下的软件？](https://www.v2ex.com/t/668387) ![](assets/new.png)  
-- [2020-05-04-请教一个-Rust-数据是在堆上，还是在栈上的问题](https://www.v2ex.com/t/668386) ![](assets/new.png)  
-- [2020-05-04-如果做一个机器学习模型市场，大家认为有前途嘛？](https://www.v2ex.com/t/668385) ![](assets/new.png)  
-- [2020-05-04-Sculpting,-一款基于-Gatsby-的静态博客主题](https://www.v2ex.com/t/668383) ![](assets/new.png)  
-- [2020-05-04-有使用-usb-c-转-usb-a-转接器再从-a-口接传统-usb-转接器的使用者吗](https://www.v2ex.com/t/668382) ![](assets/new.png)  
-- [2020-05-04-求下载单网页的源码-扒站](https://www.v2ex.com/t/668381) ![](assets/new.png)  
+- [2020-05-04-个人有办法注册第二个微信公众号吗？](https://www.v2ex.com/t/668400) ![](assets/new.png)  
+- [2020-05-04-Safari-不显示新浪图床，请问谁有油猴代码？](https://www.v2ex.com/t/668399) ![](assets/new.png)  
+- [2020-05-04-一个加速-GitHub-下载的-chrome-插件~](https://www.v2ex.com/t/668396)  
+- [2020-05-04-V-站让人上瘾，每当-Web-端流量枯竭，就想到-V-站来吸一口](https://www.v2ex.com/t/668395)  
+- [2020-05-04-为了父亲，做了个-bilibili-频道「按摩实验室」。](https://www.v2ex.com/t/668392)  
+- [2020-05-04-55-断更节，大家怎么看，我是挺支持的](https://www.v2ex.com/t/668391)  
+- [2020-05-04-有没有支持查询历史价格曲线和设置降价到某价格以下提醒的浏览器插件？](https://www.v2ex.com/t/668390)  
+- [2020-05-04-熊猫显示器到底怎么样？](https://www.v2ex.com/t/668389)  
+- [2020-05-04-laravel-框架里有提供这种调用方式吗](https://www.v2ex.com/t/668388)  
+- [2020-05-04-用-Homebrew-来安装-mac-下的软件？](https://www.v2ex.com/t/668387)  
+- [2020-05-04-请教一个-Rust-数据是在堆上，还是在栈上的问题](https://www.v2ex.com/t/668386)  
+- [2020-05-04-如果做一个机器学习模型市场，大家认为有前途嘛？](https://www.v2ex.com/t/668385)  
+- [2020-05-04-Sculpting,-一款基于-Gatsby-的静态博客主题](https://www.v2ex.com/t/668383)  
+- [2020-05-04-有使用-usb-c-转-usb-a-转接器再从-a-口接传统-usb-转接器的使用者吗](https://www.v2ex.com/t/668382)  
+- [2020-05-04-求下载单网页的源码-扒站](https://www.v2ex.com/t/668381)  
 - [2020-05-04-互联网讽刺小短剧，你能听出几个梗](https://www.v2ex.com/t/668380)  
 - [2020-05-04-2020-献给还在迷惘的寻觅者转载](https://www.v2ex.com/t/668379)  
 - [2020-05-04-17-款高配-MBP](https://www.v2ex.com/t/668378)  
 - [2020-05-04-MacBook-Pro-升级-SSD-后如何安装-El-Capitan](https://www.v2ex.com/t/668377)  
 - [2020-05-04-Cloudflare-的-DNS-设置-一定要-添加-MX-记录吗？](https://www.v2ex.com/t/668376)  
-- [2020-05-04-帮忙看看哪个内存条好？](https://www.v2ex.com/t/668375)  
-- [2020-05-04-水深火热预订-在面向普通人的中文社区，谈论世界人民大团结，就是一种政治不正确。](https://www.v2ex.com/t/668374)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

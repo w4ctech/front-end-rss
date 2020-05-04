@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 12:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 12:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -885,15 +885,18 @@
 </summary>
 
 
-- [2020-05-04-域名被-client-hold-能不能投诉？](https://www.v2ex.com/t/668411) ![](assets/new.png)  
-- [2020-05-04-关于词法作用域和闭包的一点疑问](https://www.v2ex.com/t/668409) ![](assets/new.png)  
-- [2020-05-04-HBase,-Cassandra-和-MongoDB-都什么区别。主要关注前两个。](https://www.v2ex.com/t/668408) ![](assets/new.png)  
-- [2020-05-04-这是中毒还是?-macOS-环境下,-每次输入数字-1,-就会弹出莫名其妙的字符串。请问如何处理？](https://www.v2ex.com/t/668407) ![](assets/new.png)  
-- [2020-05-04-服务器-SSH-端口被不断试探登录，怎么防护？](https://www.v2ex.com/t/668406) ![](assets/new.png)  
-- [2020-05-04-ADHD-患者适合从事什么工作？](https://www.v2ex.com/t/668405) ![](assets/new.png)  
-- [2020-05-04-昨晚看了李毅推荐的《天注定》，感到很生气。](https://www.v2ex.com/t/668404) ![](assets/new.png)  
-- [2020-05-04-五一宅家敲代码也挺爽](https://www.v2ex.com/t/668403) ![](assets/new.png)  
-- [2020-05-04-关于搜索引擎和网站搜索](https://www.v2ex.com/t/668402) ![](assets/new.png)  
+- [2020-05-04-新手拍-vlog-有哪些设备和教学推荐？](https://www.v2ex.com/t/668414) ![](assets/new.png)  
+- [2020-05-04-Mac-终端中的箭头是做什么用的？](https://www.v2ex.com/t/668413) ![](assets/new.png)  
+- [2020-05-04-不懂就问：-2015-款-15-寸集显-mbp-外接-4k-会有啥问题嘛？](https://www.v2ex.com/t/668412) ![](assets/new.png)  
+- [2020-05-04-域名被-client-hold-能不能投诉？](https://www.v2ex.com/t/668411)  
+- [2020-05-04-关于词法作用域和闭包的一点疑问](https://www.v2ex.com/t/668409)  
+- [2020-05-04-HBase,-Cassandra-和-MongoDB-都什么区别。主要关注前两个。](https://www.v2ex.com/t/668408)  
+- [2020-05-04-这是中毒还是?-macOS-环境下,-每次输入数字-1,-就会弹出莫名其妙的字符串。请问如何处理？](https://www.v2ex.com/t/668407)  
+- [2020-05-04-服务器-SSH-端口被不断试探登录，怎么防护？](https://www.v2ex.com/t/668406)  
+- [2020-05-04-ADHD-患者适合从事什么工作？](https://www.v2ex.com/t/668405)  
+- [2020-05-04-昨晚看了李毅推荐的《天注定》，感到很生气。](https://www.v2ex.com/t/668404)  
+- [2020-05-04-五一宅家敲代码也挺爽](https://www.v2ex.com/t/668403)  
+- [2020-05-04-关于搜索引擎和网站搜索](https://www.v2ex.com/t/668402)  
 - [2020-05-04-个人有办法注册第二个微信公众号吗？](https://www.v2ex.com/t/668400)  
 - [2020-05-04-Safari-不显示新浪图床，请问谁有油猴代码？](https://www.v2ex.com/t/668399)  
 - [2020-05-04-一个加速-GitHub-下载的-chrome-插件~](https://www.v2ex.com/t/668396)  
@@ -902,9 +905,6 @@
 - [2020-05-04-55-断更节，大家怎么看，我是挺支持的](https://www.v2ex.com/t/668391)  
 - [2020-05-04-有没有支持查询历史价格曲线和设置降价到某价格以下提醒的浏览器插件？](https://www.v2ex.com/t/668390)  
 - [2020-05-04-熊猫显示器到底怎么样？](https://www.v2ex.com/t/668389)  
-- [2020-05-04-laravel-框架里有提供这种调用方式吗](https://www.v2ex.com/t/668388)  
-- [2020-05-04-用-Homebrew-来安装-mac-下的软件？](https://www.v2ex.com/t/668387)  
-- [2020-05-04-请教一个-Rust-数据是在堆上，还是在栈上的问题](https://www.v2ex.com/t/668386)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -487,6 +487,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-04-新手拍-vlog-有哪些设备和教学推荐？](https://www.v2ex.com/t/668414) 
+- [2020-05-04-Mac-终端中的箭头是做什么用的？](https://www.v2ex.com/t/668413) 
+- [2020-05-04-不懂就问：-2015-款-15-寸集显-mbp-外接-4k-会有啥问题嘛？](https://www.v2ex.com/t/668412) 
 - [2020-05-04-关于词法作用域和闭包的一点疑问](https://www.v2ex.com/t/668409) 
 - [2020-05-04-HBase,-Cassandra-和-MongoDB-都什么区别。主要关注前两个。](https://www.v2ex.com/t/668408) 
 - [2020-05-04-这是中毒还是?-macOS-环境下,-每次输入数字-1,-就会弹出莫名其妙的字符串。请问如何处理？](https://www.v2ex.com/t/668407) 

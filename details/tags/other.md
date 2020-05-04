@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -488,6 +488,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-04-觉得小米应该去做操作系统才对](https://www.v2ex.com/t/668495) 
+- [2020-05-04-更新-10.15.4-后你们的-MacBook-会出现键盘用不了或者-caps-无法切换输入源的情况吗？](https://www.v2ex.com/t/668494) 
 - [2020-05-04-Python-中的-numpy-定义-dtype-为-short-以后为什么赋值-32768-的值是-32768-？](https://www.v2ex.com/t/668493) 
 - [2020-05-04-xboard-这个客户端是不是没法发送感谢啊](https://www.v2ex.com/t/668492) 
 - [2020-05-04-你的副业受到全球疫情的影响了吗？](https://www.v2ex.com/t/668489) 

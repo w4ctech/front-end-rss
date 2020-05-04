@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-04 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-04-觉得小米应该去做操作系统才对](https://www.v2ex.com/t/668495) 
+- [2020-05-04-更新-10.15.4-后你们的-MacBook-会出现键盘用不了或者-caps-无法切换输入源的情况吗？](https://www.v2ex.com/t/668494) 
 - [2020-05-04-Python-中的-numpy-定义-dtype-为-short-以后为什么赋值-32768-的值是-32768-？](https://www.v2ex.com/t/668493) 
 - [2020-05-04-xboard-这个客户端是不是没法发送感谢啊](https://www.v2ex.com/t/668492) 
 - [2020-05-04-正式版来了，现代化的极简-React-UI-库发布了-1.0.0](https://www.v2ex.com/t/668491) 

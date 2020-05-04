@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-05 00:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 01:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -445,6 +445,8 @@
 
 
 - [【前端早读课】【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)
+- [【前端大全】Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/23d49b08dba8fe456a3d009a9b2a0f68)
+- [【前端大全】前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46)
 - [【前端大全】微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)
 - [【前端开发】高性能前端架构解决方案](https://www.ershicimi.com/p/deebed12b03e518f78c36558f9dd7ff0)
 - [【前端之巅】我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562)
@@ -462,8 +464,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【V2EX】写了一个优化-pandas-内存的工具](https://www.v2ex.com/t/668523)
 - [【V2EX】weread.qq.com-似乎能监测到浏览器是否打开了控制台f12，禁止调试模式：页面拒绝加载内容。这个实现的原理是什么？](https://www.v2ex.com/t/668339)
-- [【V2EX】MrDoc-觅道文档发布-0.5.0-版本，优化文集文档-EPUB-导出、新增-PDF-导出、支持思维导图自定义高度](https://www.v2ex.com/t/668337)
-- [【V2EX】Ubuntu-上-Chrome-打开-jd-或者-b-站，加载特别漫长，火狐没有](https://www.v2ex.com/t/667958)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

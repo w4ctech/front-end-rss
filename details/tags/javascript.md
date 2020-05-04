@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-04 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-04 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,6 +100,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-04-JS-储存-65535-个以内-512-位的数据怎样能最优化？](https://www.v2ex.com/t/668444) 
 - [2020-05-03-找个路由器](https://www.v2ex.com/t/668331) 
 - [2020-05-03-请教一个-Flask-中模态框中提交表单的问题](https://www.v2ex.com/t/668328) 
 - [2020-05-03-大家看电子书喜欢哪种翻页方式：左右翻页、上下翻页、滚动翻页？](https://www.v2ex.com/t/668291) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-04 15:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-04 16:00:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -323,8 +323,8 @@
 </summary>
 
 
-- [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) ![](assets/new.png)  
-- [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) ![](assets/new.png)  
+- [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
+- [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9)  
 - [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
 - [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
@@ -885,26 +885,26 @@
 </summary>
 
 
+- [2020-05-04-个人微信号现在还有-API-可以用吗](https://www.v2ex.com/t/668461) ![](assets/new.png)  
+- [2020-05-04-关于电动牙刷](https://www.v2ex.com/t/668460) ![](assets/new.png)  
+- [2020-05-04-Manjaro-竟然不能自动添加打印机，真是弱鸡](https://www.v2ex.com/t/668459) ![](assets/new.png)  
+- [2020-05-04-为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458) ![](assets/new.png)  
+- [2020-05-04-SWI-Prolog-入门例程中文化一试](https://www.v2ex.com/t/668457) ![](assets/new.png)  
+- [2020-05-04-原来移动是-nat1，快去看看你的是不是](https://www.v2ex.com/t/668456) ![](assets/new.png)  
+- [2020-05-04-转行做酒水批发，这路能通么？](https://www.v2ex.com/t/668455) ![](assets/new.png)  
+- [2020-05-04-golang-中很多库为什么不是用-gomod-作为首选安装模式呢？](https://www.v2ex.com/t/668454) ![](assets/new.png)  
+- [2020-05-04-听个歌咋这么难，-Mac-下有没有聚合音乐平台/软件？](https://www.v2ex.com/t/668453) ![](assets/new.png)  
+- [2020-05-04-划词搜索脚本如何添加一个函数，判断鼠标放到图标栏不自动消失呢](https://www.v2ex.com/t/668452) ![](assets/new.png)  
+- [2020-05-04-hp-m251-打印机耐用吗？](https://www.v2ex.com/t/668451) ![](assets/new.png)  
+- [2020-05-04-PPics-2.2-发布，送-22-个年会员兑换码](https://www.v2ex.com/t/668450) ![](assets/new.png)  
+- [2020-05-04-陷入迷茫-非矫情帖子-寻求一些思路。](https://www.v2ex.com/t/668449) ![](assets/new.png)  
+- [2020-05-04-不懂就问，显示器-2K-和-4K-显示效果区别有多大](https://www.v2ex.com/t/668448) ![](assets/new.png)  
+- [2020-05-04-新-macbook-购买渠道求建议](https://www.v2ex.com/t/668446) ![](assets/new.png)  
+- [2020-05-04-使用-mybatis-的-SQL-构造器-手动构造-SQL，参数替换有什么好方法做吗?](https://www.v2ex.com/t/668445) ![](assets/new.png)  
+- [2020-05-04-JS-储存-65535-个以内-512-位的数据怎样能最优化？](https://www.v2ex.com/t/668444) ![](assets/new.png)  
 - [2020-05-04-请问-mac-上有没有类似于-cisco-packet-tracer-这种网络拓扑模拟器？](https://www.v2ex.com/t/668443)  
 - [2020-05-04-有没有大佬愿意接-C4D-建模的订单](https://www.v2ex.com/t/668442)  
 - [2020-05-04-总感觉-相同价位区间的平板扫描仪佳能的更清晰](https://www.v2ex.com/t/668441)  
-- [2020-05-04-有在用-MIUI-12-的朋友吗，你们是否能开启小火箭-or-冲浪板？](https://www.v2ex.com/t/668440)  
-- [2020-05-04-Manjaro-如何安装向日葵软件？](https://www.v2ex.com/t/668439)  
-- [2020-05-04-V2er-的机器学习/深度学习/神经网络等等，总之这些相关的知识是从哪开始学习的？有没有值得推荐的入门视频或者书籍列举一下？](https://www.v2ex.com/t/668438)  
-- [2020-05-04-有使用-PingID-的同仁没有](https://www.v2ex.com/t/668437)  
-- [2020-05-04-electron-打包-vue-成-exe-后，如何在这个-exe-文件启动前执行一段-cmd-命令，有大佬能解答下不](https://www.v2ex.com/t/668436)  
-- [2020-05-04-如何简单实现读取一个-txt-日志文件的前十行并删掉这十行，同时不能影响这个日志文件的实时写入，这个日志文件大概-1～-2G-左右？](https://www.v2ex.com/t/668435)  
-- [2020-05-04-英语学习素材求推荐](https://www.v2ex.com/t/668433)  
-- [2020-05-04-制造型企业招人，-C#开发](https://www.v2ex.com/t/668430)  
-- [2020-05-04-20W-以内落地，哪些车型能满足如下需求？](https://www.v2ex.com/t/668429)  
-- [2020-05-04-数据分析波形分析,-如何拆分成-波峰-波谷-波峰-波谷.-有干扰和不规则的情况](https://www.v2ex.com/t/668428)  
-- [2020-05-04-有没有印度区-ID-安全的充值方式呢](https://www.v2ex.com/t/668427)  
-- [2020-05-04-夏天到了，有什么办法给笔记本电脑散热吗？](https://www.v2ex.com/t/668425)  
-- [2020-05-04-大家有没有觉得-Homebrew-特别卡，如何缓解呀](https://www.v2ex.com/t/668424)  
-- [2020-05-04-HP1020-打印机有什么通病？](https://www.v2ex.com/t/668423)  
-- [2020-05-04-大佬们租房都在哪里找的?](https://www.v2ex.com/t/668422)  
-- [2020-05-04-二次开发-materialUI-更换色彩样式维护可行吗？](https://www.v2ex.com/t/668421)  
-- [2020-05-04-有微信的人在吗？这是怎么做到的。](https://www.v2ex.com/t/668420)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

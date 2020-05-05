@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 13:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 15:00:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -894,26 +894,26 @@
 </summary>
 
 
-- [2020-05-05-海南海口-30-50K-动动电竞招聘偏基础组件开发的-Andorid-&-iOS-开发-欢迎其他城市的同学-Relocation](https://www.v2ex.com/t/668640) ![](assets/new.png)  
-- [2020-05-05-终于还是等到了新款-13-寸-MacBookPro，这次该怎么选？](https://www.v2ex.com/t/668639) ![](assets/new.png)  
-- [2020-05-05-NVIDIA-Quadro-Experience-Beta](https://www.v2ex.com/t/668638) ![](assets/new.png)  
-- [2020-05-05-对于选择成为程序员这个职业，我个人的一点见解。](https://www.v2ex.com/t/668637) ![](assets/new.png)  
-- [2020-05-05-求助！-Macbook-Pro-显示器上半部出现绿影](https://www.v2ex.com/t/668636) ![](assets/new.png)  
-- [2020-05-05-Linux-系统下/boot-分区能加密吗？](https://www.v2ex.com/t/668635) ![](assets/new.png)  
-- [2020-05-05-微信聊天记录的问题](https://www.v2ex.com/t/668634) ![](assets/new.png)  
-- [2020-05-05-悄悄打听下，现在上海电信还查-web-服务？群晖能开个-driver-端口了吗？](https://www.v2ex.com/t/668633) ![](assets/new.png)  
-- [2020-05-05-MacBook-Pro-维修记](https://www.v2ex.com/t/668629) ![](assets/new.png)  
-- [2020-05-05-海南海口-30-50K-动动电竞招聘-UX-设计师-&-SRE-&-SDET（测试开发）欢迎其他城市的同学-Relocation](https://www.v2ex.com/t/668628)  
-- [2020-05-05-好像没有人来推荐好用的-TT](https://www.v2ex.com/t/668627)  
-- [2020-05-05-请问-macbook-air-2020-接-4k-显示器效果如何？](https://www.v2ex.com/t/668626)  
-- [2020-05-05-ios-app-接入的谷歌广告中病毒了？被篡改还是什么技术手段？](https://www.v2ex.com/t/668625)  
-- [2020-05-05-scrapy-十几个项的优雅部署方案？后期方便修改爬虫和好维护的](https://www.v2ex.com/t/668624)  
-- [2020-05-05-Dancing-With-Your-Ghost.](https://www.v2ex.com/t/668622)  
-- [2020-05-05-iPhone-SE2-无-SIM-卡问题](https://www.v2ex.com/t/668621)  
-- [2020-05-05-electron+go-实现跨平台是否可行？](https://www.v2ex.com/t/668620)  
-- [2020-05-05-写出这种-CSS-「或判断」的语句，结果对-Chrome-系浏览器不生效。求解。](https://www.v2ex.com/t/668619)  
-- [2020-05-05-译-Ｃ程序员该知道的内存知识-2](https://www.v2ex.com/t/668618)  
-- [2020-05-05-除了-mongodb，还有其他带有文档式数据存储功能的数据库么？](https://www.v2ex.com/t/668617)  
+- [2020-05-05-深圳宝安互联网公司卡位出租，-150-一位，有意向的联系我](https://www.v2ex.com/t/668665) ![](assets/new.png)  
+- [2020-05-05-新的-mbp-2020，加$200，将主频-2.0、睿频-3.8-的-10-代-i5，升级至主频-2.3、睿频-4.1-的-10-代-i7-值不值，有没有必要升](https://www.v2ex.com/t/668664) ![](assets/new.png)  
+- [2020-05-05-重现木兰编程语言（七）——赋值语句](https://www.v2ex.com/t/668662) ![](assets/new.png)  
+- [2020-05-05-迫于房子五月底到期，寻漕河泾附近租房](https://www.v2ex.com/t/668661) ![](assets/new.png)  
+- [2020-05-05-如何控制单个-commit-大小并书写清晰的-message？](https://www.v2ex.com/t/668660) ![](assets/new.png)  
+- [2020-05-05-如何策划音乐剧婚礼](https://www.v2ex.com/t/668659) ![](assets/new.png)  
+- [2020-05-05-styled-jsx-动态样式没有被应用到元素上](https://www.v2ex.com/t/668658) ![](assets/new.png)  
+- [2020-05-05-8-年大小厂-android-开发找远程办公职位](https://www.v2ex.com/t/668657) ![](assets/new.png)  
+- [2020-05-05-为什么-iPad-可以让删除自带软件而-Mac-不行？](https://www.v2ex.com/t/668656) ![](assets/new.png)  
+- [2020-05-05-杭州-可远程-秘猿科技-招聘区块链工程师、前端工程师、后端工程师等等](https://www.v2ex.com/t/668655) ![](assets/new.png)  
+- [2020-05-05-求助，如何投诉航空公司？](https://www.v2ex.com/t/668653) ![](assets/new.png)  
+- [2020-05-05-Mac-数据迁移之后，-ssh-key-在新机器上显示没权限](https://www.v2ex.com/t/668650) ![](assets/new.png)  
+- [2020-05-05-Python-编程语言就是稳，-tiobe-排名又来了](https://www.v2ex.com/t/668649) ![](assets/new.png)  
+- [2020-05-05-公司搬家，能不能要离职补偿？的实际案例](https://www.v2ex.com/t/668648) ![](assets/new.png)  
+- [2020-05-05-19-届-v2-萌新，想咨询一下珠三角薪资范围](https://www.v2ex.com/t/668647) ![](assets/new.png)  
+- [2020-05-05-网络上那些共享的百度云超级会员账号都是从哪里获取的?](https://www.v2ex.com/t/668646) ![](assets/new.png)  
+- [2020-05-05-冷风机有人用过吗？效果如何？](https://www.v2ex.com/t/668644) ![](assets/new.png)  
+- [2020-05-05-Google-翻译如何不处理指定的单词](https://www.v2ex.com/t/668643) ![](assets/new.png)  
+- [2020-05-05-在这个处处互联的云时代，搜狗输入法为何要将电脑端和手机端的词库分开？是技术原因还是隐私？](https://www.v2ex.com/t/668642) ![](assets/new.png)  
+- [2020-05-05-海南海口-30-50K-动动电竞招聘偏基础组件开发的-Andorid-&-iOS-开发-欢迎其他城市的同学-Relocation](https://www.v2ex.com/t/668640)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

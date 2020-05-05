@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb) 
 - [2020-04-27-Flutter-2020春季更新](https://www.ershicimi.com/p/78162c404fcff6b1864b2e07e55258b4) 
 - [2020-04-26-Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1) 
 - [2020-04-20-Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473) 

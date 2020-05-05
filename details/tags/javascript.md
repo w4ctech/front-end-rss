@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,6 +102,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-05-求助：路由器只有部分设备能上网](https://www.v2ex.com/t/668759) 
 - [2020-05-05-有人关注最近的阅文新合同事件么？](https://www.v2ex.com/t/668756) 
 - [2020-05-05-怎样限制一个-javascript-函数的被调用频率？](https://www.v2ex.com/t/668724) 
 - [2020-05-05-styled-jsx-动态样式没有被应用到元素上](https://www.v2ex.com/t/668658) 

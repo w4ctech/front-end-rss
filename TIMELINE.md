@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-05 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -195,6 +195,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-05-海南海口-30-50K-动动电竞招聘偏基础组件开发的-Andorid-&-iOS-开发-欢迎其他城市的同学-Relocation](https://www.v2ex.com/t/668640) 
+- [【V2EX】2020-05-05-终于还是等到了新款-13-寸-MacBookPro，这次该怎么选？](https://www.v2ex.com/t/668639) 
+- [【V2EX】2020-05-05-NVIDIA-Quadro-Experience-Beta](https://www.v2ex.com/t/668638) 
+- [【V2EX】2020-05-05-对于选择成为程序员这个职业，我个人的一点见解。](https://www.v2ex.com/t/668637) 
+- [【V2EX】2020-05-05-求助！-Macbook-Pro-显示器上半部出现绿影](https://www.v2ex.com/t/668636) 
+- [【V2EX】2020-05-05-Linux-系统下/boot-分区能加密吗？](https://www.v2ex.com/t/668635) 
+- [【V2EX】2020-05-05-微信聊天记录的问题](https://www.v2ex.com/t/668634) 
+- [【V2EX】2020-05-05-悄悄打听下，现在上海电信还查-web-服务？群晖能开个-driver-端口了吗？](https://www.v2ex.com/t/668633) 
+- [【V2EX】2020-05-05-MacBook-Pro-维修记](https://www.v2ex.com/t/668629) 
 - [【V2EX】2020-05-05-海南海口-30-50K-动动电竞招聘-UX-设计师-&-SRE-&-SDET（测试开发）欢迎其他城市的同学-Relocation](https://www.v2ex.com/t/668628) 
 - [【V2EX】2020-05-05-好像没有人来推荐好用的-TT](https://www.v2ex.com/t/668627) 
 - [【V2EX】2020-05-05-请问-macbook-air-2020-接-4k-显示器效果如何？](https://www.v2ex.com/t/668626) 

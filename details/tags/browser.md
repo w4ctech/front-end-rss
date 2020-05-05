@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,6 +32,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-05-NVIDIA-Quadro-Experience-Beta](https://www.v2ex.com/t/668638) 
 - [2020-05-05-火狐浏览器-下载管理的问题](https://www.v2ex.com/t/668606) 
 - [2020-05-05-sqlalchemy+postgresql-建表不成功换-mysql-是可以](https://www.v2ex.com/t/668570) 
 - [2020-05-05-ViewPager2-配合-Fragment样式为一个-RecyclerView使用，上下滑动时非常容易触发左右滑动，如何调节灵敏度？](https://www.v2ex.com/t/668565) 

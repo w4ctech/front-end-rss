@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -500,6 +500,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-05-终于还是等到了新款-13-寸-MacBookPro，这次该怎么选？](https://www.v2ex.com/t/668639) 
+- [2020-05-05-对于选择成为程序员这个职业，我个人的一点见解。](https://www.v2ex.com/t/668637) 
+- [2020-05-05-求助！-Macbook-Pro-显示器上半部出现绿影](https://www.v2ex.com/t/668636) 
+- [2020-05-05-Linux-系统下/boot-分区能加密吗？](https://www.v2ex.com/t/668635) 
+- [2020-05-05-微信聊天记录的问题](https://www.v2ex.com/t/668634) 
+- [2020-05-05-悄悄打听下，现在上海电信还查-web-服务？群晖能开个-driver-端口了吗？](https://www.v2ex.com/t/668633) 
+- [2020-05-05-MacBook-Pro-维修记](https://www.v2ex.com/t/668629) 
 - [2020-05-05-好像没有人来推荐好用的-TT](https://www.v2ex.com/t/668627) 
 - [2020-05-05-请问-macbook-air-2020-接-4k-显示器效果如何？](https://www.v2ex.com/t/668626) 
 - [2020-05-05-ios-app-接入的谷歌广告中病毒了？被篡改还是什么技术手段？](https://www.v2ex.com/t/668625) 

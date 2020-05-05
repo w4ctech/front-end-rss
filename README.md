@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 08:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -169,6 +169,8 @@
 </summary>
 
 
+- [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660) ![](assets/new.png)  
+- [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826) ![](assets/new.png)  
 - [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
@@ -187,8 +189,6 @@
 - [2020-04-23-【第1923期】如何用CSS绘制饼图](https://www.ershicimi.com/p/f029b2c3f7e1b88444e866ad91720272)  
 - [2020-04-23-【图书】如何开会不添堵](https://www.ershicimi.com/p/f83c60b3d90ddf99c9ab8d0b132c64d2)  
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)  
-- [2020-04-22-【送书】423世界图书日第三期活动之博文视点前端书单](https://www.ershicimi.com/p/568a6325b1c33dbe74aba9458389c508)  
-- [2020-04-21-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/50338819c528dbda81b32efcb5fa3a97)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -890,8 +890,8 @@
 </summary>
 
 
-- [2020-05-05-为什么新款-MBP-不是-14-寸？苹果怎么想的？](https://www.v2ex.com/t/668573) ![](assets/new.png)  
-- [2020-05-05-ios-自带邮件能不能添加-protonmail？](https://www.v2ex.com/t/668572) ![](assets/new.png)  
+- [2020-05-05-为什么新款-MBP-不是-14-寸？苹果怎么想的？](https://www.v2ex.com/t/668573)  
+- [2020-05-05-ios-自带邮件能不能添加-protonmail？](https://www.v2ex.com/t/668572)  
 - [2020-05-05-FastAPI-怎么更好的返回自定义的格式](https://www.v2ex.com/t/668571)  
 - [2020-05-05-sqlalchemy+postgresql-建表不成功换-mysql-是可以](https://www.v2ex.com/t/668570)  
 - [2020-05-05-Windows-10-不能自动发现-Linux-Samba-服务器的原因和解决方案](https://www.v2ex.com/t/668569)  

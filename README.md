@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 20:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 21:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -894,8 +894,15 @@
 </summary>
 
 
-- [2020-05-05-自己创作的歌曲可以使用-GPL-协议发布吗？](https://www.v2ex.com/t/668733) ![](assets/new.png)  
-- [2020-05-05-给那些用-cuniquk-卡注册不了-telegram-的人](https://www.v2ex.com/t/668732) ![](assets/new.png)  
+- [2020-05-05-请教一个绩效问题](https://www.v2ex.com/t/668741) ![](assets/new.png)  
+- [2020-05-05-macOS-怎么查看蓝牙设备电量](https://www.v2ex.com/t/668740) ![](assets/new.png)  
+- [2020-05-05-Pearbios-是什么原理难道虚拟机](https://www.v2ex.com/t/668739) ![](assets/new.png)  
+- [2020-05-05-来自阿里云的-SaltStack-远程执行命令漏洞-警告](https://www.v2ex.com/t/668738) ![](assets/new.png)  
+- [2020-05-05-Go-sword-基于-Go-语言的可视化-web-管理后台生成工具-，程序员的福音啊~](https://www.v2ex.com/t/668737) ![](assets/new.png)  
+- [2020-05-05-snippaste-与-picGo-组合-请问如何截图完后，自动上传](https://www.v2ex.com/t/668736) ![](assets/new.png)  
+- [2020-05-05-外卖小哥会不会成为中老年妇女的福音？？](https://www.v2ex.com/t/668734) ![](assets/new.png)  
+- [2020-05-05-自己创作的歌曲可以使用-GPL-协议发布吗？](https://www.v2ex.com/t/668733)  
+- [2020-05-05-给那些用-cuniquk-卡注册不了-telegram-的人](https://www.v2ex.com/t/668732)  
 - [2020-05-05-求推荐一款好用-macOS-终端](https://www.v2ex.com/t/668730)  
 - [2020-05-05-ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729)  
 - [2020-05-05-Kotlin-❤️-Netty-=-房间系统小练习](https://www.v2ex.com/t/668727)  
@@ -907,13 +914,6 @@
 - [2020-05-05-转租杭州滨江东方郡次卧（短租）](https://www.v2ex.com/t/668721)  
 - [2020-05-05-网页缓存导致我为不同网页设定的背景图片需要清除缓存才能更换怎么办？](https://www.v2ex.com/t/668720)  
 - [2020-05-05-微信小程序，开发，定制接包！](https://www.v2ex.com/t/668719)  
-- [2020-05-05-南山宝安找一室的整租](https://www.v2ex.com/t/668716)  
-- [2020-05-05-免费的-Paste-替代品-CCboard](https://www.v2ex.com/t/668715)  
-- [2020-05-05-请问这种写法是有什么特殊的意义吗？](https://www.v2ex.com/t/668714)  
-- [2020-05-05-16-寸-mbp，能使用-carbon-copy-cloner-降级到-10.14.6-吗？](https://www.v2ex.com/t/668713)  
-- [2020-05-05-真心求助帖，请问大佬“IndexError:-index-799-is-out-of-bounds-for-axis-0-with-size-799”这种类型错误如何解决？](https://www.v2ex.com/t/668711)  
-- [2020-05-05-2020-主流智能锁用的是什么方案](https://www.v2ex.com/t/668710)  
-- [2020-05-05-新买的一加-8-PRO-有问题-京东不给退-有什么解决办法吗？](https://www.v2ex.com/t/668709)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

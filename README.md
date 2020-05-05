@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 20:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 20:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -894,10 +894,12 @@
 </summary>
 
 
-- [2020-05-05-求推荐一款好用-macOS-终端](https://www.v2ex.com/t/668730) ![](assets/new.png)  
-- [2020-05-05-ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729) ![](assets/new.png)  
-- [2020-05-05-Kotlin-❤️-Netty-=-房间系统小练习](https://www.v2ex.com/t/668727) ![](assets/new.png)  
-- [2020-05-05-QQ-自动删除阅文作家手机图片？](https://www.v2ex.com/t/668726) ![](assets/new.png)  
+- [2020-05-05-自己创作的歌曲可以使用-GPL-协议发布吗？](https://www.v2ex.com/t/668733) ![](assets/new.png)  
+- [2020-05-05-给那些用-cuniquk-卡注册不了-telegram-的人](https://www.v2ex.com/t/668732) ![](assets/new.png)  
+- [2020-05-05-求推荐一款好用-macOS-终端](https://www.v2ex.com/t/668730)  
+- [2020-05-05-ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729)  
+- [2020-05-05-Kotlin-❤️-Netty-=-房间系统小练习](https://www.v2ex.com/t/668727)  
+- [2020-05-05-QQ-自动删除阅文作家手机图片？](https://www.v2ex.com/t/668726)  
 - [2020-05-05-这种运营商已经分配了地址，但是不能通信的问题怎么解决？](https://www.v2ex.com/t/668725)  
 - [2020-05-05-怎样限制一个-javascript-函数的被调用频率？](https://www.v2ex.com/t/668724)  
 - [2020-05-05-图片分割成-9-张，求现成的解决方案](https://www.v2ex.com/t/668723)  
@@ -912,8 +914,6 @@
 - [2020-05-05-真心求助帖，请问大佬“IndexError:-index-799-is-out-of-bounds-for-axis-0-with-size-799”这种类型错误如何解决？](https://www.v2ex.com/t/668711)  
 - [2020-05-05-2020-主流智能锁用的是什么方案](https://www.v2ex.com/t/668710)  
 - [2020-05-05-新买的一加-8-PRO-有问题-京东不给退-有什么解决办法吗？](https://www.v2ex.com/t/668709)  
-- [2020-05-05-IDEA/PHPStorm/WebStorm-如何把已经加入-.gitignore-的目录/文件重新纳入索引和自动提示？](https://www.v2ex.com/t/668708)  
-- [2020-05-05-Google-Play-提示应用内无法完成交易](https://www.v2ex.com/t/668707)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

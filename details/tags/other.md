@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -500,6 +500,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-05-自己创作的歌曲可以使用-GPL-协议发布吗？](https://www.v2ex.com/t/668733) 
+- [2020-05-05-给那些用-cuniquk-卡注册不了-telegram-的人](https://www.v2ex.com/t/668732) 
 - [2020-05-05-求推荐一款好用-macOS-终端](https://www.v2ex.com/t/668730) 
 - [2020-05-05-Kotlin-❤️-Netty-=-房间系统小练习](https://www.v2ex.com/t/668727) 
 - [2020-05-05-QQ-自动删除阅文作家手机图片？](https://www.v2ex.com/t/668726) 

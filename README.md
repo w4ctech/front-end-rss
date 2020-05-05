@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 05:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 06:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -894,7 +894,9 @@
 </summary>
 
 
-- [2020-05-06-humble-bundle-又卖书了](https://www.v2ex.com/t/668784) ![](assets/new.png)  
+- [2020-05-06-AirPods-Pro-船新固件-2D15-发布](https://www.v2ex.com/t/668786) ![](assets/new.png)  
+- [2020-05-06-d](https://www.v2ex.com/t/668785) ![](assets/new.png)  
+- [2020-05-06-humble-bundle-又卖书了](https://www.v2ex.com/t/668784)  
 - [2020-05-06-这两天为-libhv-做了-Solaris-的适配，两点小感受](https://www.v2ex.com/t/668783)  
 - [2020-05-06-20200506-午夜俱乐部](https://www.v2ex.com/t/668781)  
 - [2020-05-06-今天才知道原来-iPhone-非国行机器是不能控制-App-访问-WiFi-网络的权限的.也就是说在连接-WiFi-的时候-App-可以直接访问网络而无需授权.](https://www.v2ex.com/t/668780)  
@@ -912,8 +914,6 @@
 - [2020-05-05-世界知名区块链交易所大量-HC-等你来。](https://www.v2ex.com/t/668763)  
 - [2020-05-05-前端开发入门最佳指南](https://www.v2ex.com/t/668761)  
 - [2020-05-05-学生团队求网站技术达人指导项目](https://www.v2ex.com/t/668760)  
-- [2020-05-05-求助：路由器只有部分设备能上网](https://www.v2ex.com/t/668759)  
-- [2020-05-05-Java-开发求职](https://www.v2ex.com/t/668758)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

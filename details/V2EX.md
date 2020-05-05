@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-06 05:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-06-AirPods-Pro-船新固件-2D15-发布](https://www.v2ex.com/t/668786) 
+- [2020-05-06-d](https://www.v2ex.com/t/668785) 
 - [2020-05-06-humble-bundle-又卖书了](https://www.v2ex.com/t/668784) 
 - [2020-05-06-这两天为-libhv-做了-Solaris-的适配，两点小感受](https://www.v2ex.com/t/668783) 
 - [2020-05-06-20200506-午夜俱乐部](https://www.v2ex.com/t/668781) 

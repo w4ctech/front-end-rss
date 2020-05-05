@@ -2353,6 +2353,11 @@
     "title": "前端瓶子君",
     "items": [
       {
+        "title": "chrome 开发者工具的 11 个骚技巧",
+        "link": "https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138",
+        "date": "2020-05-04"
+      },
+      {
         "title": "Facebook上获赞千万的漫画：《人生的意义》",
         "link": "https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a",
         "date": "2020-05-03"
@@ -2415,6 +2420,11 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "node_modules 困境",
+        "link": "https://www.ershicimi.com/p/ac45cbfb0b5b7ae1dc8598e347e0913c",
+        "date": "2020-05-04"
+      },
       {
         "title": "chrome 开发者工具的 11 个骚技巧",
         "link": "https://www.ershicimi.com/p/e2a99e9a539f9a00809c31574d820b11",
@@ -5212,6 +5222,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "游戏联机一定要 nat1 吗？",
+        "link": "https://www.v2ex.com/t/668587",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "hexo 部署无失败",
+        "link": "https://www.v2ex.com/t/668585",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "其实苹果的 Mac Pro Wheels 定这个价格还是有点道理的。",
+        "link": "https://www.v2ex.com/t/668584",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "应用程序的运行环境都是怎么打包成 Installer 的",
+        "link": "https://www.v2ex.com/t/668583",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "朋友乱下 ios 软件，被扣了 498，让我帮她处理，发现这个软件的评论区太精彩了。",
+        "link": "https://www.v2ex.com/t/668582",
+        "date": "2020-05-05"
+      },
       {
         "title": "全职在线接单",
         "link": "https://www.v2ex.com/t/668581",
@@ -17616,6 +17651,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "构建企业级研发安全编码规范",
+        "link": "https://toutiao.io/k/lt3xls8",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "腾讯的技术牛人在读什么？书单来了！",
+        "link": "https://toutiao.io/k/fpu3k3w",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "SWAP 常见问题分析和性能调优配置实践小结",
+        "link": "https://toutiao.io/k/0h223lh",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "一致性模型笔记",
+        "link": "https://toutiao.io/k/kesrf8f",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "Spring Boot 中如何灵活使用切片",
+        "link": "https://toutiao.io/k/9b39ky5",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "智能写作 v2.0",
+        "link": "https://toutiao.io/k/mrjmf2m",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "如何用 Babel 为代码自动引入依赖",
+        "link": "https://toutiao.io/k/2mp0fzl",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "以 k8s 集群管理为例，大牛教你如何设计优秀项目架构",
+        "link": "https://toutiao.io/k/4lmmb37",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "进程管理工具 Supervisor",
+        "link": "https://toutiao.io/k/l97zk94",
+        "date": "2020-05-05"
+      },
       {
         "title": "LevelDB 完全解析（三）：SSTable",
         "link": "https://toutiao.io/k/cpxelwu",

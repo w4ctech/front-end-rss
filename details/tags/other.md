@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -497,6 +497,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-05-hexo-部署无失败](https://www.v2ex.com/t/668585) 
+- [2020-05-05-其实苹果的-Mac-Pro-Wheels-定这个价格还是有点道理的。](https://www.v2ex.com/t/668584) 
+- [2020-05-05-应用程序的运行环境都是怎么打包成-Installer-的](https://www.v2ex.com/t/668583) 
+- [2020-05-05-朋友乱下-ios-软件，被扣了-498，让我帮她处理，发现这个软件的评论区太精彩了。](https://www.v2ex.com/t/668582) 
 - [2020-05-05-全职在线接单](https://www.v2ex.com/t/668581) 
 - [2020-05-05-向大佬咨询一下京东物流问题](https://www.v2ex.com/t/668580) 
 - [2020-05-05-这种网站是用什么做的？-wordpress?](https://www.v2ex.com/t/668579) 
@@ -2479,6 +2483,12 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-05-腾讯的技术牛人在读什么？书单来了！](https://toutiao.io/k/fpu3k3w) 
+- [2020-05-05-一致性模型笔记](https://toutiao.io/k/kesrf8f) 
+- [2020-05-05-Spring-Boot-中如何灵活使用切片](https://toutiao.io/k/9b39ky5) 
+- [2020-05-05-智能写作-v2.0](https://toutiao.io/k/mrjmf2m) 
+- [2020-05-05-以-k8s-集群管理为例，大牛教你如何设计优秀项目架构](https://toutiao.io/k/4lmmb37) 
+- [2020-05-05-进程管理工具-Supervisor](https://toutiao.io/k/l97zk94) 
 - [2020-05-04-LevelDB-完全解析（三）：SSTable](https://toutiao.io/k/cpxelwu) 
 - [2020-05-04-你的简历写了-“熟悉”-Zookeeper？那这些你会吗？](https://toutiao.io/k/n1vza25) 
 - [2020-05-04-一个静态注入动态库的工具-luject](https://toutiao.io/k/gwc3863) 

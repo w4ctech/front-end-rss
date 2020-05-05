@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-05 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -159,6 +159,9 @@
 - [【奇舞周刊】2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
+- [【互联网架构师】2020-05-04-百度的71个炸天的开源项目](https://www.ershicimi.com/p/df7f1c8ccc66f7f04a148afedec42f88) 
+- [【互联网架构师】2020-05-04-怎么对-Java-程序调优？不看别后悔！](https://www.ershicimi.com/p/bf94f70e4d409b3d7435e318d6895d65) 
+- [【互联网架构师】2020-05-04-架构篇：大型网站技术架构](https://www.ershicimi.com/p/9435cd4f2106c4a2ef5d6f459eb7786e) 
 - [【互联网架构师】2020-05-03-支付宝架构师的总结：为什么他们能抗住万亿级流量的高并发？](https://www.ershicimi.com/p/e78497dea37bbd5b6a18e6d3b5f16054) 
 - [【互联网架构师】2020-05-03-开发Java，市值一度超过两千亿美元，造福无数程序员的Sun公司，也最终“陨落”](https://www.ershicimi.com/p/0a716dce6114df52cdfc63fead4d8ef0) 
 - [【互联网架构师】2020-05-03-阿里大牛程序员的Java问题排查工具单](https://www.ershicimi.com/p/9f48568a3372adb5cfb2ad7530238035) 

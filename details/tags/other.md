@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -341,6 +341,9 @@
 - [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7) 
 - [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 
+- [2020-05-04-百度的71个炸天的开源项目](https://www.ershicimi.com/p/df7f1c8ccc66f7f04a148afedec42f88) 
+- [2020-05-04-怎么对-Java-程序调优？不看别后悔！](https://www.ershicimi.com/p/bf94f70e4d409b3d7435e318d6895d65) 
+- [2020-05-04-架构篇：大型网站技术架构](https://www.ershicimi.com/p/9435cd4f2106c4a2ef5d6f459eb7786e) 
 - [2020-05-03-支付宝架构师的总结：为什么他们能抗住万亿级流量的高并发？](https://www.ershicimi.com/p/e78497dea37bbd5b6a18e6d3b5f16054) 
 - [2020-05-03-开发Java，市值一度超过两千亿美元，造福无数程序员的Sun公司，也最终“陨落”](https://www.ershicimi.com/p/0a716dce6114df52cdfc63fead4d8ef0) 
 - [2020-05-03-阿里大牛程序员的Java问题排查工具单](https://www.ershicimi.com/p/9f48568a3372adb5cfb2ad7530238035) 

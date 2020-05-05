@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-06 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-06-yii2-安装爬虫采集类失败](https://www.v2ex.com/t/668787) 
 - [2020-05-06-AirPods-Pro-船新固件-2D15-发布](https://www.v2ex.com/t/668786) 
 - [2020-05-06-d](https://www.v2ex.com/t/668785) 
 - [2020-05-06-humble-bundle-又卖书了](https://www.v2ex.com/t/668784) 

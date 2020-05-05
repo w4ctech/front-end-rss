@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-05 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -189,8 +189,8 @@
 - [【掘金前端】V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)
 - [【掘金前端】Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703)
 - [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
+- [【V2EX】electron+go-实现跨平台是否可行？](https://www.v2ex.com/t/668620)
 - [【V2EX】来来来靠谱后端有没有人带走，可-Java-也可以-nodejs.欢迎来找我合作呀。](https://www.v2ex.com/t/668531)
-- [【V2EX】nodejs-编写-c++插件，调用第三方-dll-时申请的内存应该如何释放呢？](https://www.v2ex.com/t/668227)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

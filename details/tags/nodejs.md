@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -25,6 +25,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-05-electron+go-实现跨平台是否可行？](https://www.v2ex.com/t/668620) 
 - [2020-05-04-来来来靠谱后端有没有人带走，可-Java-也可以-nodejs.欢迎来找我合作呀。](https://www.v2ex.com/t/668531) 
 - [2020-05-03-nodejs-编写-c++插件，调用第三方-dll-时申请的内存应该如何释放呢？](https://www.v2ex.com/t/668227) 
 - [2020-05-01-一个-nodejs-的个性单词域名挖掘工具](https://www.v2ex.com/t/667849) 

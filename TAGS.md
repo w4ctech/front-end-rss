@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-05 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 23:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -600,6 +600,7 @@
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】小白-github-desktop-本地不小心删了内容，还没同步到-github，怎么让-github-上的覆盖本地仓库](https://www.v2ex.com/t/668748)
 - [【V2EX】IDEA/PHPStorm/WebStorm-如何把已经加入-.gitignore-的目录/文件重新纳入索引和自动提示？](https://www.v2ex.com/t/668708)
 - [【V2EX】github-访问不了了？](https://www.v2ex.com/t/668537)
 - [【V2EX】Git-Bash-样式配置求推荐](https://www.v2ex.com/t/668471)
@@ -610,7 +611,6 @@
 - [【V2EX】不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061)
 - [【V2EX】各位-Git-大佬，请教一个问题](https://www.v2ex.com/t/667949)
 - [【V2EX】研究了一天-Android-使用-app_process-启动-Java-类，失败了，代码丢-Github-上了，哪位-V-帮看看](https://www.v2ex.com/t/667795)
-- [【V2EX】好像有人在爬-v2ex，然后提交到-github，然后不小心-@了我](https://www.v2ex.com/t/667773)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,6 +32,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-05-请教各位大佬-如何把-http-请求保存记录下来可以以后重发](https://www.v2ex.com/t/668745) 
+- [2020-05-05-关于浏览器登录状态的保存](https://www.v2ex.com/t/668743) 
 - [2020-05-05-网页缓存导致我为不同网页设定的背景图片需要清除缓存才能更换怎么办？](https://www.v2ex.com/t/668720) 
 - [2020-05-05-大家的项目的-app-请求超时设置为多大？](https://www.v2ex.com/t/668700) 
 - [2020-05-05-NVIDIA-Quadro-Experience-Beta](https://www.v2ex.com/t/668638) 

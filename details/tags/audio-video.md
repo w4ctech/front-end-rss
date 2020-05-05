@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -16,6 +16,7 @@
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-05-ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729) 
 - [2020-05-05-美区-Apple-Music-对导入的正版-iTunes-AAC-音频文件做区别对待了吗？](https://www.v2ex.com/t/668705) 
 - [2020-05-05-虎牙直播-广州/深圳/北京|海外](https://www.v2ex.com/t/668592) 
 - [2020-05-05-全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568) 

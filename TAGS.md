@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-05 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 20:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -420,6 +420,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729)
 - [【V2EX】美区-Apple-Music-对导入的正版-iTunes-AAC-音频文件做区别对待了吗？](https://www.v2ex.com/t/668705)
 - [【V2EX】虎牙直播-广州/深圳/北京|海外](https://www.v2ex.com/t/668592)
 - [【V2EX】全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568)
@@ -430,7 +431,6 @@
 - [【V2EX】V2er-的机器学习/深度学习/神经网络等等，总之这些相关的知识是从哪开始学习的？有没有值得推荐的入门视频或者书籍列举一下？](https://www.v2ex.com/t/668438)
 - [【V2EX】不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354)
 - [【V2EX】b-站到底用了啥黑科技，油管的视频加载速度都比-b-站快](https://www.v2ex.com/t/668308)
-- [【V2EX】用手机做摄像头，发现一个充电管理问题](https://www.v2ex.com/t/668143)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

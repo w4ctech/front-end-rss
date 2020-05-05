@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-05-02 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f) 
+- [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c) 
+- [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d) 
+- [2020-05-04-20-多年历史的-Java-正在焕发第二春](https://www.ershicimi.com/p/2b8f00296d73629f50e19b8a21d405a6) 
+- [2020-05-04-Spark-3.0-新特性抢先看](https://www.ershicimi.com/p/77ab8d39eed9c2135a747b108107816e) 
+- [2020-05-03-10个含金量最高的IT认证，拿下任何一个都能挣到百万年薪](https://www.ershicimi.com/p/363dded20516f706473a17a86c6716f6) 
+- [2020-05-03-B-站知名-UP-主：我被勒索了!](https://www.ershicimi.com/p/2d7e20d66090d43e20295f613f88201c) 
 - [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f) 
 - [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 

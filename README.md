@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-05 08:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-05 09:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -169,8 +169,8 @@
 </summary>
 
 
-- [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660) ![](assets/new.png)  
-- [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826) ![](assets/new.png)  
+- [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
+- [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
 - [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
@@ -386,6 +386,8 @@
 </summary>
 
 
+- [2020-05-04-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/ba6d63d622cb150af6a4bcc0e88d3833) ![](assets/new.png)  
+- [2020-05-03-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df) ![](assets/new.png)  
 - [2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1)  
 - [2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0)  
 - [2020-04-30-实现一个代码编译器（200行JS代码）](https://www.ershicimi.com/p/8166df5d01201f2c9266d6723c729c1a)  
@@ -701,6 +703,13 @@
 </summary>
 
 
+- [2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f) ![](assets/new.png)  
+- [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c) ![](assets/new.png)  
+- [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d) ![](assets/new.png)  
+- [2020-05-04-20-多年历史的-Java-正在焕发第二春](https://www.ershicimi.com/p/2b8f00296d73629f50e19b8a21d405a6) ![](assets/new.png)  
+- [2020-05-04-Spark-3.0-新特性抢先看](https://www.ershicimi.com/p/77ab8d39eed9c2135a747b108107816e) ![](assets/new.png)  
+- [2020-05-03-10个含金量最高的IT认证，拿下任何一个都能挣到百万年薪](https://www.ershicimi.com/p/363dded20516f706473a17a86c6716f6) ![](assets/new.png)  
+- [2020-05-03-B-站知名-UP-主：我被勒索了!](https://www.ershicimi.com/p/2d7e20d66090d43e20295f613f88201c) ![](assets/new.png)  
 - [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f)  
 - [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb)  
 - [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a)  
@@ -714,13 +723,6 @@
 - [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/c3cbe3829db89acd899f0623080709cd)  
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)  
 - [2020-04-29-开源社区对开发者的价值到底有多大？](https://www.ershicimi.com/p/285245ecc0b248cdbb723e5e336f4a64)  
-- [2020-04-29-Java-能用于机器学习和数据科学吗？](https://www.ershicimi.com/p/a93aa8ccd2f782274ec9268c30502ab6)  
-- [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249)  
-- [2020-04-28-入侵中国长达-3-个月，越南黑客组织欲窃取新冠肺炎情报](https://www.ershicimi.com/p/78a0079a875379980d45f6f2837c92b1)  
-- [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105)  
-- [2020-04-28-公司追捧“以客户为中心”，追求极客的技术文化过时了吗？丨Q推荐](https://www.ershicimi.com/p/a83638ed3ce7026237b4b7794c592fc7)  
-- [2020-04-28-联邦学习可能会带来数据价值挖掘的下一个爆发点](https://www.ershicimi.com/p/c4ef32e61c10571a623f6ed473af8fa1)  
-- [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -890,6 +892,13 @@
 </summary>
 
 
+- [2020-05-05-全职在线接单](https://www.v2ex.com/t/668581) ![](assets/new.png)  
+- [2020-05-05-向大佬咨询一下京东物流问题](https://www.v2ex.com/t/668580) ![](assets/new.png)  
+- [2020-05-05-这种网站是用什么做的？-wordpress?](https://www.v2ex.com/t/668579) ![](assets/new.png)  
+- [2020-05-05-被迫带饭，求推荐饭盒](https://www.v2ex.com/t/668578) ![](assets/new.png)  
+- [2020-05-05-读非全日制研究生怎么做？](https://www.v2ex.com/t/668576) ![](assets/new.png)  
+- [2020-05-05-觉得-13-寸升级没有诚意，要不要购买-16-寸](https://www.v2ex.com/t/668575) ![](assets/new.png)  
+- [2020-05-05-大家自己的第一套房都有自己参与设计吗？](https://www.v2ex.com/t/668574) ![](assets/new.png)  
 - [2020-05-05-为什么新款-MBP-不是-14-寸？苹果怎么想的？](https://www.v2ex.com/t/668573)  
 - [2020-05-05-ios-自带邮件能不能添加-protonmail？](https://www.v2ex.com/t/668572)  
 - [2020-05-05-FastAPI-怎么更好的返回自定义的格式](https://www.v2ex.com/t/668571)  
@@ -903,13 +912,6 @@
 - [2020-05-05-总收到奇怪的邮件，内容只有一个数字没有链接和附件，求解](https://www.v2ex.com/t/668563)  
 - [2020-05-05-Apple-的应用内抽成为-30%](https://www.v2ex.com/t/668562)  
 - [2020-05-05-想卖掉带-ac-的-17-款-13-寸换-2020-款新-mbp，有啥建议吗？顺便询个价](https://www.v2ex.com/t/668561)  
-- [2020-05-05-iOS-想转产品-面不过-怎么办](https://www.v2ex.com/t/668559)  
-- [2020-05-04-哪里有公开的酒店信息数据？](https://www.v2ex.com/t/668558)  
-- [2020-05-04-阿里的-centos7-yum-镜像源是不是出问题了](https://www.v2ex.com/t/668557)  
-- [2020-05-04-手机上的搜狗输入法怎么才能导入私有词库，貌似找不到入口](https://www.v2ex.com/t/668555)  
-- [2020-05-04-mac-os-的多个虚拟桌面有办法纵向排列吗-?](https://www.v2ex.com/t/668552)  
-- [2020-05-04-实习-offer-比较，求-v-站前辈帮忙分析](https://www.v2ex.com/t/668551)  
-- [2020-05-04-想购买轻量的云主机](https://www.v2ex.com/t/668550)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

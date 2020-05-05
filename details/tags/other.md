@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-05 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-05 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -380,6 +380,11 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d) 
+- [2020-05-04-20-多年历史的-Java-正在焕发第二春](https://www.ershicimi.com/p/2b8f00296d73629f50e19b8a21d405a6) 
+- [2020-05-04-Spark-3.0-新特性抢先看](https://www.ershicimi.com/p/77ab8d39eed9c2135a747b108107816e) 
+- [2020-05-03-10个含金量最高的IT认证，拿下任何一个都能挣到百万年薪](https://www.ershicimi.com/p/363dded20516f706473a17a86c6716f6) 
+- [2020-05-03-B-站知名-UP-主：我被勒索了!](https://www.ershicimi.com/p/2d7e20d66090d43e20295f613f88201c) 
 - [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f) 
 - [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
@@ -492,6 +497,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-05-全职在线接单](https://www.v2ex.com/t/668581) 
+- [2020-05-05-向大佬咨询一下京东物流问题](https://www.v2ex.com/t/668580) 
+- [2020-05-05-这种网站是用什么做的？-wordpress?](https://www.v2ex.com/t/668579) 
+- [2020-05-05-被迫带饭，求推荐饭盒](https://www.v2ex.com/t/668578) 
+- [2020-05-05-读非全日制研究生怎么做？](https://www.v2ex.com/t/668576) 
+- [2020-05-05-觉得-13-寸升级没有诚意，要不要购买-16-寸](https://www.v2ex.com/t/668575) 
+- [2020-05-05-大家自己的第一套房都有自己参与设计吗？](https://www.v2ex.com/t/668574) 
 - [2020-05-05-为什么新款-MBP-不是-14-寸？苹果怎么想的？](https://www.v2ex.com/t/668573) 
 - [2020-05-05-ios-自带邮件能不能添加-protonmail？](https://www.v2ex.com/t/668572) 
 - [2020-05-05-Windows-10-不能自动发现-Linux-Samba-服务器的原因和解决方案](https://www.v2ex.com/t/668569) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-06 17:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -565,6 +565,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】django-网站-centos-nginx-+uwsgi-环境要在根目录加个-txt-验证一下，有什么办法啊？](https://www.v2ex.com/t/669011)
 - [【V2EX】CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854)
 - [【V2EX】Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754)
 - [【V2EX】离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)
@@ -578,7 +579,6 @@
 - [【V2EX】nginx-无法停止](https://www.v2ex.com/t/665936)
 - [【V2EX】nginx-配置遇到的一个怪事，请教各位](https://www.v2ex.com/t/665745)
 - [【技术头条】GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】Spring-Data-REST-不完全指南（三）](https://toutiao.io/k/qyjmtf1)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

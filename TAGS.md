@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-06 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -394,6 +394,7 @@
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893)
 - [【V2EX】分享一个-demo，单元测试-canvas-的实际渲染，同时欢迎报名组队](https://www.v2ex.com/t/667731)
 - [【V2EX】推荐一个自带-GUI-且支持插件扩展的代码生成器](https://www.v2ex.com/t/667105)
 - [【V2EX】V-站头像是允许-JPG、PNG-和-GIF-的，但是实际上并不能使用-GIF](https://www.v2ex.com/t/666397)
@@ -604,6 +605,7 @@
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897)
 - [【V2EX】github-搜索小帮手](https://www.v2ex.com/t/668849)
 - [【V2EX】小白-github-desktop-本地不小心删了内容，还没同步到-github，怎么让-github-上的覆盖本地仓库](https://www.v2ex.com/t/668748)
 - [【V2EX】IDEA/PHPStorm/WebStorm-如何把已经加入-.gitignore-的目录/文件重新纳入索引和自动提示？](https://www.v2ex.com/t/668708)
@@ -612,7 +614,6 @@
 - [【V2EX】有同样关注-EOS-链生态的朋友么？分享一个-EOS-链代表排名-GitHub-项目。](https://www.v2ex.com/t/668312)
 - [【V2EX】Git-常用命令参考手册](https://www.v2ex.com/t/668177)
 - [【V2EX】想买个-HPE-Proliant-Microserver-Gen10-PLUS-做-NAS-和-GitLab-托管？](https://www.v2ex.com/t/668167)
-- [【V2EX】GitHub-上目前最全的-Python-资源大全，这些资源你都了解吗？](https://www.v2ex.com/t/668162)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 12:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 13:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -116,10 +116,10 @@
 </summary>
 
 
-- [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f) ![](assets/new.png)  
-- [2020-05-06-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebe62d7c491c1a844494cf6e463f01b6) ![](assets/new.png)  
-- [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) ![](assets/new.png)  
-- [2020-05-05-传说中最经典的外包案例](https://www.ershicimi.com/p/6269ed474407855487c0fa6de4760523) ![](assets/new.png)  
+- [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f)  
+- [2020-05-06-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebe62d7c491c1a844494cf6e463f01b6)  
+- [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29)  
+- [2020-05-05-传说中最经典的外包案例](https://www.ershicimi.com/p/6269ed474407855487c0fa6de4760523)  
 - [2020-05-03-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/7bc3db6b81610cff242e8e5360a6fefc)  
 - [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9)  
 - [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)  
@@ -906,6 +906,18 @@
 </summary>
 
 
+- [2020-05-06-OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897) ![](assets/new.png)  
+- [2020-05-06-Microsoft-365-拼团、45-元/一个位置](https://www.v2ex.com/t/668896) ![](assets/new.png)  
+- [2020-05-06-关于-type-c-拓展-A2119-的问题](https://www.v2ex.com/t/668895) ![](assets/new.png)  
+- [2020-05-06-极简主义个人博客方案推荐？](https://www.v2ex.com/t/668894) ![](assets/new.png)  
+- [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893) ![](assets/new.png)  
+- [2020-05-06-2013-年数据世界人均牛奶消费量排行：中国以-32-千克位列-137-名，消费量为第一名芬兰430kg的-6%。](https://www.v2ex.com/t/668892) ![](assets/new.png)  
+- [2020-05-06-你多久没有调薪了？](https://www.v2ex.com/t/668891) ![](assets/new.png)  
+- [2020-05-06-为什么我发布的贴子，无法匿名查看](https://www.v2ex.com/t/668890) ![](assets/new.png)  
+- [2020-05-06-你为什么选择不买房？](https://www.v2ex.com/t/668888) ![](assets/new.png)  
+- [2020-05-06-伪官宣：-Envoy-中文指南新鲜出炉！](https://www.v2ex.com/t/668887) ![](assets/new.png)  
+- [2020-05-06-JavaScript-event-keycode](https://www.v2ex.com/t/668886) ![](assets/new.png)  
+- [2020-05-06-Android-开发技术周报-Issue#278](https://www.v2ex.com/t/668885) ![](assets/new.png)  
 - [2020-05-06-牛客网做题的输入问题，请教一下，是我的问题还是输入的问题？](https://www.v2ex.com/t/668883)  
 - [2020-05-06-GCP-一年到期了忘了关~~-扣费了-可以退回吗~](https://www.v2ex.com/t/668882)  
 - [2020-05-06-讲座-助你进军阿里-P6-Java-工程师](https://www.v2ex.com/t/668881)  
@@ -914,18 +926,6 @@
 - [2020-05-06-这个是-DNS-污染吗？该怎么解决？](https://www.v2ex.com/t/668878)  
 - [2020-05-06-请问用对称加密，在数据库保存用户密码有什么优缺点呢？](https://www.v2ex.com/t/668877)  
 - [2020-05-06-Flutter-Weekly-Issue-54](https://www.v2ex.com/t/668875)  
-- [2020-05-06-前端开发求职，一年经验，-19-届普通一本非科班，广州-or-深圳](https://www.v2ex.com/t/668874)  
-- [2020-05-06-求推荐显示器-2K/4K](https://www.v2ex.com/t/668872)  
-- [2020-05-06-美团金融内推](https://www.v2ex.com/t/668871)  
-- [2020-05-06-IJCAI2020-无人车场景迁移学习开源代码](https://www.v2ex.com/t/668870)  
-- [2020-05-06-求助一款遥控开关设备](https://www.v2ex.com/t/668869)  
-- [2020-05-06-明天就要复工了-现在都不想去公司了-在家待习惯了都~](https://www.v2ex.com/t/668868)  
-- [2020-05-06-有没有开源的生成海报那样的东西？](https://www.v2ex.com/t/668865)  
-- [2020-05-06-如何申请-Facebook-广告顶级代理？](https://www.v2ex.com/t/668864)  
-- [2020-05-06-关于页面可视化搭建工具与业务系统解耦](https://www.v2ex.com/t/668863)  
-- [2020-05-06-印象笔记中国公司抢注-Notion-公司商标](https://www.v2ex.com/t/668861)  
-- [2020-05-06-不懂就要问，如何用-C++跨平台获取-CPU、内存使用率？](https://www.v2ex.com/t/668858)  
-- [2020-05-06-钱多事儿少-熟悉-windows-驱动开发的老哥看过来。。。。](https://www.v2ex.com/t/668857)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

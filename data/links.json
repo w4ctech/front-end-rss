@@ -5408,6 +5408,56 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "北京联通直连美西好像恢复了",
+        "link": "https://www.v2ex.com/t/669036",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "快手极速版的商业逻辑是咋样的",
+        "link": "https://www.v2ex.com/t/669035",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "for(int i=0;i<list.size();i++) 的同时有另一个线程在 remove 或者 add 这里的 list,那么循环的退出条件中的 list.size()在每次循环时不同吗?",
+        "link": "https://www.v2ex.com/t/669034",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "iPhone XR 京东 3699 加 12 期免息的车有人上了吗？",
+        "link": "https://www.v2ex.com/t/669033",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "[团队直招] [美团] 高级 Java 研发工程师",
+        "link": "https://www.v2ex.com/t/669032",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "裸辞投简历期间，除了刷题还能干嘛？",
+        "link": "https://www.v2ex.com/t/669031",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "mbp 16 触控板 键盘 失灵",
+        "link": "https://www.v2ex.com/t/669030",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "windows pe 挂载远程的 smb 存储 自动挂载会出现无法挂载的情况",
+        "link": "https://www.v2ex.com/t/669029",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "如何用 model 控制 select 选中项？",
+        "link": "https://www.v2ex.com/t/669028",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "[北京] 下厨房招聘前端、iOS 工程师（可接受实习）",
+        "link": "https://www.v2ex.com/t/669027",
+        "date": "2020-05-06"
+      },
+      {
         "title": "HDFS & YARN jmx prometheus exporter & grafana dashboard",
         "link": "https://www.v2ex.com/t/669026",
         "date": "2020-05-06"

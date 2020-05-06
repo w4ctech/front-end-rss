@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -289,6 +289,7 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
 - [2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) 
 - [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/) 
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/) 
@@ -513,6 +514,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-06-等-MacBook-Pro-13-更新终于等到，下单十台用于团队新人和旧款换新](https://www.v2ex.com/t/668955) 
+- [2020-05-06-求杭州不加班的测试岗](https://www.v2ex.com/t/668951) 
+- [2020-05-06-就目前的态势来看，-Python-还是-Java-好找工作？](https://www.v2ex.com/t/668948) 
+- [2020-05-06-navicat-同一句-SQL-语句以前执行没问题，现在报-OCI_INVALID_HANDLE](https://www.v2ex.com/t/668947) 
+- [2020-05-06-win10-自带的-media-player-字幕支持怎么这么差？](https://www.v2ex.com/t/668946) 
+- [2020-05-06-网站和-APP-都要做人脸识别登录，有哪些服务商可以提供这类服务？搜到的大厂略看了下都不太合适！](https://www.v2ex.com/t/668942) 
+- [2020-05-06-用回-Thinkpad-T450，那键盘手感真的是顺滑且弹指可破~](https://www.v2ex.com/t/668941) 
+- [2020-05-06-新人如何看懂公司项目代码](https://www.v2ex.com/t/668939) 
 - [2020-05-06-9.9-元注册阿里云云上公司，很诱人](https://www.v2ex.com/t/668938) 
 - [2020-05-06-转租越秀区黄花岗街道云鹤北街一室一厅](https://www.v2ex.com/t/668936) 
 - [2020-05-06-mac-pro-求推荐](https://www.v2ex.com/t/668935) 

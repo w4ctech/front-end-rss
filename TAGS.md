@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-06 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -423,6 +423,9 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】请教一个关于视频播放的问题](https://www.v2ex.com/t/668954)
+- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOp...](https://www.v2ex.com/t/668952)
+- [【V2EX】分享五一期间我宅在家里，耗时-2-天制作的视频"牛逼的程序员是怎么搜索资料的?"（已传到-B-站）](https://www.v2ex.com/t/668940)
 - [【V2EX】mpv-后台挖矿？神级播放器-CPU-高占用之谜...](https://www.v2ex.com/t/668845)
 - [【V2EX】ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729)
 - [【V2EX】美区-Apple-Music-对导入的正版-iTunes-AAC-音频文件做区别对待了吗？](https://www.v2ex.com/t/668705)
@@ -431,9 +434,6 @@
 - [【V2EX】PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534)
 - [【V2EX】为什么国内一些直播网站对-firefox-的支持那么差？](https://www.v2ex.com/t/668481)
 - [【V2EX】集显真的能硬解-4k-视频么](https://www.v2ex.com/t/668476)
-- [【V2EX】音频-PCM-的数据中包含负值，但是分贝转换公式中的值要求是正值，请问这样是否存在冲突呢？](https://www.v2ex.com/t/668467)
-- [【V2EX】V2er-的机器学习/深度学习/神经网络等等，总之这些相关的知识是从哪开始学习的？有没有值得推荐的入门视频或者书籍列举一下？](https://www.v2ex.com/t/668438)
-- [【V2EX】不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -536,12 +536,12 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】为什么现在-http-环境这么差](https://www.v2ex.com/t/668949)
 - [【V2EX】免费好用的-Paste-替代品-CCboard](https://www.v2ex.com/t/668920)
 - [【V2EX】🔥🔥🔥腾讯全国🔥🔥🔥内推！候选人还缺不少！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥🔥](https://www.v2ex.com/t/668914)
 - [【V2EX】关于工业生产中的一个算法问题](https://www.v2ex.com/t/668898)
 - [【V2EX】snippaste-与-picGo-组合-请问如何截图完后，自动上传](https://www.v2ex.com/t/668736)
 - [【V2EX】免费的-Paste-替代品-CCboard](https://www.v2ex.com/t/668715)
-- [【V2EX】对于-http://localhost:3000/?#!/login-中-hashbang-前面的?所引发的困惑](https://www.v2ex.com/t/668673)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -605,6 +605,7 @@
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944)
 - [【V2EX】OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897)
 - [【V2EX】github-搜索小帮手](https://www.v2ex.com/t/668849)
 - [【V2EX】小白-github-desktop-本地不小心删了内容，还没同步到-github，怎么让-github-上的覆盖本地仓库](https://www.v2ex.com/t/668748)
@@ -613,7 +614,6 @@
 - [【V2EX】Git-Bash-样式配置求推荐](https://www.v2ex.com/t/668471)
 - [【V2EX】有同样关注-EOS-链生态的朋友么？分享一个-EOS-链代表排名-GitHub-项目。](https://www.v2ex.com/t/668312)
 - [【V2EX】Git-常用命令参考手册](https://www.v2ex.com/t/668177)
-- [【V2EX】想买个-HPE-Proliant-Microserver-Gen10-PLUS-做-NAS-和-GitLab-托管？](https://www.v2ex.com/t/668167)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

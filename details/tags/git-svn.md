@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -18,6 +18,7 @@
 - [2020-04-30-提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488) 
 - [2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb) 
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
+- [2020-05-06-2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944) 
 - [2020-05-06-OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897) 
 - [2020-05-06-github-搜索小帮手](https://www.v2ex.com/t/668849) 
 - [2020-05-05-小白-github-desktop-本地不小心删了内容，还没同步到-github，怎么让-github-上的覆盖本地仓库](https://www.v2ex.com/t/668748) 

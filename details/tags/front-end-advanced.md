@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -21,6 +21,8 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-06-http-代理是否能监控到用户的行为？](https://www.v2ex.com/t/669043) 
+- [2020-05-06-vim+Readline-快捷键+mac-osx-重度用户，求键盘推荐](https://www.v2ex.com/t/669041) 
 - [2020-05-06-为什么现在-http-环境这么差](https://www.v2ex.com/t/668949) 
 - [2020-05-06-免费好用的-Paste-替代品-CCboard](https://www.v2ex.com/t/668920) 
 - [2020-05-06-🔥🔥🔥腾讯全国🔥🔥🔥内推！候选人还缺不少！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥🔥](https://www.v2ex.com/t/668914) 

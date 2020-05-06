@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -519,6 +519,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-07-Macbook-pro-16-寸-休眠后自动关机-报错](https://www.v2ex.com/t/669117) 
 - [2020-05-07-组装一台廉价的（伪）企业级-NAS](https://www.v2ex.com/t/669116) 
 - [2020-05-07-最近看到一些国外网站的中文字体好变态](https://www.v2ex.com/t/669115) 
 - [2020-05-07-光猫“贝尔-I-010G”的认证方式是？](https://www.v2ex.com/t/669112) 

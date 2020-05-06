@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -513,6 +513,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-06-MBP-外接-U2720QM-被识别为-5K](https://www.v2ex.com/t/668913) 
+- [2020-05-06-蝶式键盘现在还有在召回吗？](https://www.v2ex.com/t/668912) 
+- [2020-05-06-天气一变化，过敏性鼻炎快难受死了……](https://www.v2ex.com/t/668911) 
+- [2020-05-06-氢-OS-的操作-so-disgusting](https://www.v2ex.com/t/668910) 
+- [2020-05-06-iOS-算半个夕阳行业？](https://www.v2ex.com/t/668909) 
+- [2020-05-06-macos-科学有失效问题](https://www.v2ex.com/t/668908) 
+- [2020-05-06-VSCode-中的-Remote-SSH-插件怎么连不上服务器了？](https://www.v2ex.com/t/668904) 
+- [2020-05-06-请问-2-年-Java-需要到达什么技术水平？](https://www.v2ex.com/t/668902) 
+- [2020-05-06-有人-Telegram-因为-GV-虚拟号码被封么？](https://www.v2ex.com/t/668901) 
+- [2020-05-06-调研-你是否需要一个-memcached-客户端](https://www.v2ex.com/t/668900) 
+- [2020-05-06-辞职创业第一天就被泼冷水，遇到大难题“公司注册地址问题”，坐标帝都，有懂的请教。](https://www.v2ex.com/t/668899) 
 - [2020-05-06-Microsoft-365-拼团、45-元/一个位置](https://www.v2ex.com/t/668896) 
 - [2020-05-06-关于-type-c-拓展-A2119-的问题](https://www.v2ex.com/t/668895) 
 - [2020-05-06-极简主义个人博客方案推荐？](https://www.v2ex.com/t/668894) 
@@ -2651,6 +2662,7 @@
 - [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505) 
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
+- [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 13:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 14:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -906,26 +906,26 @@
 </summary>
 
 
+- [2020-05-06-🔥🔥🔥腾讯全国🔥🔥🔥内推！候选人还缺不少！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥🔥](https://www.v2ex.com/t/668914) ![](assets/new.png)  
+- [2020-05-06-MBP-外接-U2720QM-被识别为-5K](https://www.v2ex.com/t/668913) ![](assets/new.png)  
+- [2020-05-06-蝶式键盘现在还有在召回吗？](https://www.v2ex.com/t/668912) ![](assets/new.png)  
+- [2020-05-06-天气一变化，过敏性鼻炎快难受死了……](https://www.v2ex.com/t/668911) ![](assets/new.png)  
+- [2020-05-06-氢-OS-的操作-so-disgusting](https://www.v2ex.com/t/668910) ![](assets/new.png)  
+- [2020-05-06-iOS-算半个夕阳行业？](https://www.v2ex.com/t/668909) ![](assets/new.png)  
+- [2020-05-06-macos-科学有失效问题](https://www.v2ex.com/t/668908) ![](assets/new.png)  
+- [2020-05-06-React-testing-library-测试-multi-select-问题](https://www.v2ex.com/t/668905) ![](assets/new.png)  
+- [2020-05-06-VSCode-中的-Remote-SSH-插件怎么连不上服务器了？](https://www.v2ex.com/t/668904) ![](assets/new.png)  
+- [2020-05-06-请问-2-年-Java-需要到达什么技术水平？](https://www.v2ex.com/t/668902) ![](assets/new.png)  
+- [2020-05-06-有人-Telegram-因为-GV-虚拟号码被封么？](https://www.v2ex.com/t/668901) ![](assets/new.png)  
+- [2020-05-06-调研-你是否需要一个-memcached-客户端](https://www.v2ex.com/t/668900) ![](assets/new.png)  
+- [2020-05-06-辞职创业第一天就被泼冷水，遇到大难题“公司注册地址问题”，坐标帝都，有懂的请教。](https://www.v2ex.com/t/668899) ![](assets/new.png)  
+- [2020-05-06-关于工业生产中的一个算法问题](https://www.v2ex.com/t/668898) ![](assets/new.png)  
 - [2020-05-06-OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897)  
 - [2020-05-06-Microsoft-365-拼团、45-元/一个位置](https://www.v2ex.com/t/668896)  
 - [2020-05-06-关于-type-c-拓展-A2119-的问题](https://www.v2ex.com/t/668895)  
 - [2020-05-06-极简主义个人博客方案推荐？](https://www.v2ex.com/t/668894)  
 - [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893)  
 - [2020-05-06-2013-年数据世界人均牛奶消费量排行：中国以-32-千克位列-137-名，消费量为第一名芬兰430kg的-6%。](https://www.v2ex.com/t/668892)  
-- [2020-05-06-你多久没有调薪了？](https://www.v2ex.com/t/668891)  
-- [2020-05-06-为什么我发布的贴子，无法匿名查看](https://www.v2ex.com/t/668890)  
-- [2020-05-06-你为什么选择不买房？](https://www.v2ex.com/t/668888)  
-- [2020-05-06-伪官宣：-Envoy-中文指南新鲜出炉！](https://www.v2ex.com/t/668887)  
-- [2020-05-06-JavaScript-event-keycode](https://www.v2ex.com/t/668886)  
-- [2020-05-06-Android-开发技术周报-Issue#278](https://www.v2ex.com/t/668885)  
-- [2020-05-06-牛客网做题的输入问题，请教一下，是我的问题还是输入的问题？](https://www.v2ex.com/t/668883)  
-- [2020-05-06-GCP-一年到期了忘了关~~-扣费了-可以退回吗~](https://www.v2ex.com/t/668882)  
-- [2020-05-06-讲座-助你进军阿里-P6-Java-工程师](https://www.v2ex.com/t/668881)  
-- [2020-05-06-刚买了个域名-biIibili.com](https://www.v2ex.com/t/668880)  
-- [2020-05-06-天津金融创业公司招聘-IT-维护兼-Windows-Server-运维](https://www.v2ex.com/t/668879)  
-- [2020-05-06-这个是-DNS-污染吗？该怎么解决？](https://www.v2ex.com/t/668878)  
-- [2020-05-06-请问用对称加密，在数据库保存用户密码有什么优缺点呢？](https://www.v2ex.com/t/668877)  
-- [2020-05-06-Flutter-Weekly-Issue-54](https://www.v2ex.com/t/668875)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -937,6 +937,7 @@
 </summary>
 
 
+- [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -956,7 +957,6 @@
 - [2020-04-26-假如有人把支付宝存储服务器炸了，我们的钱还在吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13411&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1QDg0lkdmXN8JY4j5kcGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13410&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZv1viUDEoE9uy_QXN6PDKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-20-张程序员不得不看的内涵动图...-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13409&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhqaJAkjPURC7jm0EGnkwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -968,14 +968,14 @@
 </summary>
 
 
-- [2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942) ![](assets/new.png)  
-- [2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9) ![](assets/new.png)  
-- [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti) ![](assets/new.png)  
-- [2020-05-06-搭建-Node-服务（一）：日志处理](https://toutiao.io/k/39ji82b) ![](assets/new.png)  
-- [2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb) ![](assets/new.png)  
-- [2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx) ![](assets/new.png)  
-- [2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2) ![](assets/new.png)  
-- [2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza) ![](assets/new.png)  
+- [2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942)  
+- [2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9)  
+- [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti)  
+- [2020-05-06-搭建-Node-服务（一）：日志处理](https://toutiao.io/k/39ji82b)  
+- [2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb)  
+- [2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx)  
+- [2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2)  
+- [2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza)  
 - [2020-05-06-LeetCode-206：反转链表](https://toutiao.io/k/ft1ivxx)  
 - [2020-05-06-Go-1.15-都有哪些值得关注的变化？](https://toutiao.io/k/xj5aubd)  
 - [2020-05-06-译-深入理解-IPFS：消费/订阅系统](https://toutiao.io/k/ax1u0b9)  

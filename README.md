@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 16:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 16:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -906,26 +906,26 @@
 </summary>
 
 
-- [2020-05-06-MacBook-为什么开盖唤醒大概率触摸板和键盘短暂无法使用？](https://www.v2ex.com/t/668964) ![](assets/new.png)  
-- [2020-05-06-刚发现个人所得税-APP-的-min-SDK-最低要求是-API=22，负责该程序开发的过来挨打。](https://www.v2ex.com/t/668963) ![](assets/new.png)  
-- [2020-05-06-大家自己接私活来做一般怎么估价的](https://www.v2ex.com/t/668962) ![](assets/new.png)  
-- [2020-05-06-如何可以快速定位到那个插件劫持并跳转了-taobao.com](https://www.v2ex.com/t/668961) ![](assets/new.png)  
-- [2020-05-06-为啥这两天一到下午-cn2gia-就抽风](https://www.v2ex.com/t/668960) ![](assets/new.png)  
-- [2020-05-06-5.5-寸-iPhone-放大模式和越狱](https://www.v2ex.com/t/668959) ![](assets/new.png)  
-- [2020-05-06-leetcode-刷到迷茫...](https://www.v2ex.com/t/668958) ![](assets/new.png)  
-- [2020-05-06-Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957) ![](assets/new.png)  
+- [2020-05-06-关于小程序支付的问题？](https://www.v2ex.com/t/668978) ![](assets/new.png)  
+- [2020-05-06-新版-Android-微信似乎已经无法禁用-X5-内核](https://www.v2ex.com/t/668977) ![](assets/new.png)  
+- [2020-05-06-北京-上海-两地工作生活-感受最大的不同是什么？-带来什么消极积极影响？](https://www.v2ex.com/t/668976) ![](assets/new.png)  
+- [2020-05-06-UWP-微信-2.6.3.200-更新后聊天记录全部丢失，连收到的文件都没了。](https://www.v2ex.com/t/668975) ![](assets/new.png)  
+- [2020-05-06-有个-200M-的文件，每天估计-100-人左右下载，想弄个方便的下载方式（百度除外），就是直接输入网址就能下载那种，可付费，当然最好是便宜点，求推荐](https://www.v2ex.com/t/668974) ![](assets/new.png)  
+- [2020-05-06-迫于啥（喜欢山~-~）就是想去重庆上班了，目前已经在上海摸爬滚打快两年了，没什么大的进步-curd-技术越来越-6（-Java-），还没有离职，但是已经在看基础的面试...](https://www.v2ex.com/t/668973) ![](assets/new.png)  
+- [2020-05-06-卖电脑了](https://www.v2ex.com/t/668971) ![](assets/new.png)  
+- [2020-05-06-Webpack-中如何关联-AMD-模块的依赖映射？](https://www.v2ex.com/t/668970) ![](assets/new.png)  
+- [2020-05-06-放完五一想端午](https://www.v2ex.com/t/668968) ![](assets/new.png)  
+- [2020-05-06-家庭旅游视频分享真难，百度网盘腾讯优酷上传分享出来都是压缩的，安装各种-app-且要-vip-看高清，苹果家庭共享又不适合-android，各位-v-友是怎么弄的呢？](https://www.v2ex.com/t/668967) ![](assets/new.png)  
+- [2020-05-06-有没有已倒闭的公司的表示风各种文档-求分享-转行-谢谢-可以发红包](https://www.v2ex.com/t/668965) ![](assets/new.png)  
+- [2020-05-06-MacBook-为什么开盖唤醒大概率触摸板和键盘短暂无法使用？](https://www.v2ex.com/t/668964)  
+- [2020-05-06-刚发现个人所得税-APP-的-min-SDK-最低要求是-API=22，负责该程序开发的过来挨打。](https://www.v2ex.com/t/668963)  
+- [2020-05-06-大家自己接私活来做一般怎么估价的](https://www.v2ex.com/t/668962)  
+- [2020-05-06-如何可以快速定位到那个插件劫持并跳转了-taobao.com](https://www.v2ex.com/t/668961)  
+- [2020-05-06-为啥这两天一到下午-cn2gia-就抽风](https://www.v2ex.com/t/668960)  
+- [2020-05-06-5.5-寸-iPhone-放大模式和越狱](https://www.v2ex.com/t/668959)  
+- [2020-05-06-leetcode-刷到迷茫...](https://www.v2ex.com/t/668958)  
+- [2020-05-06-Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957)  
 - [2020-05-06-等-MacBook-Pro-13-更新终于等到，下单十台用于团队新人和旧款换新](https://www.v2ex.com/t/668955)  
-- [2020-05-06-请教一个关于视频播放的问题](https://www.v2ex.com/t/668954)  
-- [2020-05-06-微信小程序云开发迁移到-qq-小程序](https://www.v2ex.com/t/668953)  
-- [2020-05-06-🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOp...](https://www.v2ex.com/t/668952)  
-- [2020-05-06-求杭州不加班的测试岗](https://www.v2ex.com/t/668951)  
-- [2020-05-06-（转发这个五月天，五月开心每一天~）字节跳动-深圳南山-小游戏前端大量-HC-诚聘！需要-H5-游戏/小游戏开发经验](https://www.v2ex.com/t/668950)  
-- [2020-05-06-为什么现在-http-环境这么差](https://www.v2ex.com/t/668949)  
-- [2020-05-06-就目前的态势来看，-Python-还是-Java-好找工作？](https://www.v2ex.com/t/668948)  
-- [2020-05-06-navicat-同一句-SQL-语句以前执行没问题，现在报-OCI_INVALID_HANDLE](https://www.v2ex.com/t/668947)  
-- [2020-05-06-win10-自带的-media-player-字幕支持怎么这么差？](https://www.v2ex.com/t/668946)  
-- [2020-05-06-2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944)  
-- [2020-05-06-synergy-软件-如何-Mac（sever）到-Windows（client）时-command=ctrl？](https://www.v2ex.com/t/668943)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

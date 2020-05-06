@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -219,6 +219,9 @@
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) 
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
+- [2020-05-06-建议阅读：前端未来新方向](https://www.ershicimi.com/p/c633e1e27e9bfc9ebbcb5b96555ddd9a) 
+- [2020-05-05-微信又添新功能！这个微信群可以学英语，而且全程免费](https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f) 
+- [2020-05-05-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/d5ef9e5ca4ca10d8c13abaa901598ab6) 
 - [2020-04-30-案例｜原生手写一个轮播图——渐隐渐显版](https://www.ershicimi.com/p/88203e2f5f9dfd1fdefc52782f8c4dcc) 
 - [2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240) 
 - [2020-04-28-2020-年前端工程师学习指南](https://www.ershicimi.com/p/5a35c19aeef1fa4d087cb3ae9d3980b6) 
@@ -506,6 +509,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-06-迫于辞职要将企业积分转换成-RMB，所以我想-9.6-折优惠帮各位充话费](https://www.v2ex.com/t/668812) 
+- [2020-05-06-迫于形势严峻，-UI/UX-设计师在线接单，各位老板们赏个眼～](https://www.v2ex.com/t/668810) 
+- [2020-05-06-家里的-Ubuntu-Server-有大量来自-127.0.0.1-的-ssh-登陆失败记录](https://www.v2ex.com/t/668808) 
+- [2020-05-06-大家能帮我看看我的这个网站为何一直不收录吗？](https://www.v2ex.com/t/668807) 
+- [2020-05-06-家里移动-IPv6，单位只有-IPv4，怎么访问家里的地址呢？](https://www.v2ex.com/t/668806) 
+- [2020-05-06-请问下有抵押的二手房能买吗？](https://www.v2ex.com/t/668805) 
 - [2020-05-06-国内做这种网站风险有多大](https://www.v2ex.com/t/668804) 
 - [2020-05-06-现在小型-PHP-网站流行框架是什么？我们老师用的-thinkPHP，这个框架怎么样](https://www.v2ex.com/t/668803) 
 - [2020-05-06-Airbnb-也裁员了](https://www.v2ex.com/t/668802) 

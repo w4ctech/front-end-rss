@@ -1770,6 +1770,26 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "建议阅读：前端未来新方向",
+        "link": "https://www.ershicimi.com/p/c633e1e27e9bfc9ebbcb5b96555ddd9a",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "Chrome 运行时性能瓶颈分析",
+        "link": "https://www.ershicimi.com/p/d1b8fed7619b95a02538154895ed9c0a",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "微信又添新功能！这个微信群可以学英语，而且全程免费",
+        "link": "https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f",
+        "date": "2020-05-05"
+      },
+      {
+        "title": "微前端在小米 CRM 系统的实践",
+        "link": "https://www.ershicimi.com/p/d5ef9e5ca4ca10d8c13abaa901598ab6",
+        "date": "2020-05-05"
+      },
+      {
         "title": "只有2行代码的库，坑了数百万JS项目",
         "link": "https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad",
         "date": "2020-04-30"
@@ -5312,6 +5332,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "迫于辞职要将企业积分转换成 RMB，所以我想 9.6 折优惠帮各位充话费",
+        "link": "https://www.v2ex.com/t/668812",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "迫于形势严峻， UI/UX 设计师在线接单，各位老板们赏个眼～",
+        "link": "https://www.v2ex.com/t/668810",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "用 C++ 写了个 JavaScript 解释器",
+        "link": "https://www.v2ex.com/t/668809",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "家里的 Ubuntu Server 有大量来自 127.0.0.1 的 ssh 登陆失败记录",
+        "link": "https://www.v2ex.com/t/668808",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "大家能帮我看看我的这个网站为何一直不收录吗？",
+        "link": "https://www.v2ex.com/t/668807",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "家里移动 IPv6，单位只有 IPv4，怎么访问家里的地址呢？",
+        "link": "https://www.v2ex.com/t/668806",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "请问下有抵押的二手房能买吗？",
+        "link": "https://www.v2ex.com/t/668805",
+        "date": "2020-05-06"
+      },
       {
         "title": "国内做这种网站风险有多大",
         "link": "https://www.v2ex.com/t/668804",

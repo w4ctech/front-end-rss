@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 00:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 01:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -326,9 +326,9 @@
 </summary>
 
 
-- [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad) ![](assets/new.png)  
-- [2020-05-06-创建Svelte-Web组件](https://www.ershicimi.com/p/1dbd80140105b5f0b75f2c6e7749000a) ![](assets/new.png)  
-- [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8) ![](assets/new.png)  
+- [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)  
+- [2020-05-06-创建Svelte-Web组件](https://www.ershicimi.com/p/1dbd80140105b5f0b75f2c6e7749000a)  
+- [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8)  
 - [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb)  
 - [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
 - [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9)  
@@ -906,6 +906,15 @@
 </summary>
 
 
+- [2020-05-07-9.9-的公司不能注册，-300-的商标能注册吗？](https://www.v2ex.com/t/669111) ![](assets/new.png)  
+- [2020-05-07-vuex-更新多级数据，如何使用比较好？](https://www.v2ex.com/t/669110) ![](assets/new.png)  
+- [2020-05-07-Inter-uhd-显卡，不等同于-NVIDIA-GPU-吧](https://www.v2ex.com/t/669107) ![](assets/new.png)  
+- [2020-05-07-现在有能够完全脱离-node.js-和-npm-的跨平台前端开发的解决方案吗？](https://www.v2ex.com/t/669106) ![](assets/new.png)  
+- [2020-05-06-我们在运营社区，在哪里投广告会比较好？](https://www.v2ex.com/t/669104) ![](assets/new.png)  
+- [2020-05-06-快手16-薪起高年终-北京+杭州大力发展中-+深圳+上海等地内推](https://www.v2ex.com/t/669103) ![](assets/new.png)  
+- [2020-05-06-Suface-Book-3-2020-发布了](https://www.v2ex.com/t/669101) ![](assets/new.png)  
+- [2020-05-06-Surface-Book3-来了？](https://www.v2ex.com/t/669100) ![](assets/new.png)  
+- [2020-05-06-Win10-Defender-"恢复已隔离的文件"-功能对网上邻居中的远程文件失效](https://www.v2ex.com/t/669099) ![](assets/new.png)  
 - [2020-05-06-成都的朋友们，你们坐地铁是用实体卡还是用天府通-app-的二维码呢？](https://www.v2ex.com/t/669098)  
 - [2020-05-06-Switch-家庭组招租](https://www.v2ex.com/t/669097)  
 - [2020-05-06-协程的原理还是没懂](https://www.v2ex.com/t/669096)  
@@ -917,15 +926,6 @@
 - [2020-05-06-微软新品发布](https://www.v2ex.com/t/669089)  
 - [2020-05-06-亚马逊送了我一个-5TB-的-LaCie-移动硬盘](https://www.v2ex.com/t/669088)  
 - [2020-05-06-九九乘法歌用数据库怎么存](https://www.v2ex.com/t/669087)  
-- [2020-05-06-电信-深圳-163-广州到美东稳了？](https://www.v2ex.com/t/669086)  
-- [2020-05-06-开车时有什么好听的内容？](https://www.v2ex.com/t/669084)  
-- [2020-05-06-发现-Bind-9-的-banner-不一般...](https://www.v2ex.com/t/669083)  
-- [2020-05-06-大家平时手机看-GitHub-用什么-app-呀（iOS）](https://www.v2ex.com/t/669082)  
-- [2020-05-06-最近逛-github-有感](https://www.v2ex.com/t/669081)  
-- [2020-05-06-Microsoft-365-开车，-45/年/人](https://www.v2ex.com/t/669080)  
-- [2020-05-06-实习-Offer-选择](https://www.v2ex.com/t/669079)  
-- [2020-05-06-给想注册公司的人泼个冷水](https://www.v2ex.com/t/669078)  
-- [2020-05-06-火绒全盘扫描黑屏重启？](https://www.v2ex.com/t/669076)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

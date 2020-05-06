@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,6 +20,7 @@
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 
+- [2020-05-06-Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957) 
 - [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893) 
 - [2020-04-30-分享一个-demo，单元测试-canvas-的实际渲染，同时欢迎报名组队](https://www.v2ex.com/t/667731) 
 - [2020-04-28-推荐一个自带-GUI-且支持插件扩展的代码生成器](https://www.v2ex.com/t/667105) 

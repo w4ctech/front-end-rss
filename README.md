@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 15:30:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 16:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -592,7 +592,7 @@
 </summary>
 
 
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)  
 - [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/)  
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/)  
 - [2020-04-21-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)  
@@ -906,26 +906,26 @@
 </summary>
 
 
-- [2020-05-06-等-MacBook-Pro-13-更新终于等到，下单十台用于团队新人和旧款换新](https://www.v2ex.com/t/668955) ![](assets/new.png)  
-- [2020-05-06-请教一个关于视频播放的问题](https://www.v2ex.com/t/668954) ![](assets/new.png)  
-- [2020-05-06-微信小程序云开发迁移到-qq-小程序](https://www.v2ex.com/t/668953) ![](assets/new.png)  
-- [2020-05-06-🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOp...](https://www.v2ex.com/t/668952) ![](assets/new.png)  
-- [2020-05-06-求杭州不加班的测试岗](https://www.v2ex.com/t/668951) ![](assets/new.png)  
-- [2020-05-06-（转发这个五月天，五月开心每一天~）字节跳动-深圳南山-小游戏前端大量-HC-诚聘！需要-H5-游戏/小游戏开发经验](https://www.v2ex.com/t/668950) ![](assets/new.png)  
-- [2020-05-06-为什么现在-http-环境这么差](https://www.v2ex.com/t/668949) ![](assets/new.png)  
-- [2020-05-06-就目前的态势来看，-Python-还是-Java-好找工作？](https://www.v2ex.com/t/668948) ![](assets/new.png)  
-- [2020-05-06-navicat-同一句-SQL-语句以前执行没问题，现在报-OCI_INVALID_HANDLE](https://www.v2ex.com/t/668947) ![](assets/new.png)  
-- [2020-05-06-win10-自带的-media-player-字幕支持怎么这么差？](https://www.v2ex.com/t/668946) ![](assets/new.png)  
-- [2020-05-06-2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944) ![](assets/new.png)  
-- [2020-05-06-synergy-软件-如何-Mac（sever）到-Windows（client）时-command=ctrl？](https://www.v2ex.com/t/668943) ![](assets/new.png)  
-- [2020-05-06-网站和-APP-都要做人脸识别登录，有哪些服务商可以提供这类服务？搜到的大厂略看了下都不太合适！](https://www.v2ex.com/t/668942) ![](assets/new.png)  
-- [2020-05-06-用回-Thinkpad-T450，那键盘手感真的是顺滑且弹指可破~](https://www.v2ex.com/t/668941) ![](assets/new.png)  
-- [2020-05-06-分享五一期间我宅在家里，耗时-2-天制作的视频"牛逼的程序员是怎么搜索资料的?"（已传到-B-站）](https://www.v2ex.com/t/668940) ![](assets/new.png)  
-- [2020-05-06-新人如何看懂公司项目代码](https://www.v2ex.com/t/668939) ![](assets/new.png)  
-- [2020-05-06-9.9-元注册阿里云云上公司，很诱人](https://www.v2ex.com/t/668938)  
-- [2020-05-06-转租越秀区黄花岗街道云鹤北街一室一厅](https://www.v2ex.com/t/668936)  
-- [2020-05-06-mac-pro-求推荐](https://www.v2ex.com/t/668935)  
-- [2020-05-06-有用-x835-这个板子的吗？](https://www.v2ex.com/t/668934)  
+- [2020-05-06-MacBook-为什么开盖唤醒大概率触摸板和键盘短暂无法使用？](https://www.v2ex.com/t/668964) ![](assets/new.png)  
+- [2020-05-06-刚发现个人所得税-APP-的-min-SDK-最低要求是-API=22，负责该程序开发的过来挨打。](https://www.v2ex.com/t/668963) ![](assets/new.png)  
+- [2020-05-06-大家自己接私活来做一般怎么估价的](https://www.v2ex.com/t/668962) ![](assets/new.png)  
+- [2020-05-06-如何可以快速定位到那个插件劫持并跳转了-taobao.com](https://www.v2ex.com/t/668961) ![](assets/new.png)  
+- [2020-05-06-为啥这两天一到下午-cn2gia-就抽风](https://www.v2ex.com/t/668960) ![](assets/new.png)  
+- [2020-05-06-5.5-寸-iPhone-放大模式和越狱](https://www.v2ex.com/t/668959) ![](assets/new.png)  
+- [2020-05-06-leetcode-刷到迷茫...](https://www.v2ex.com/t/668958) ![](assets/new.png)  
+- [2020-05-06-Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957) ![](assets/new.png)  
+- [2020-05-06-等-MacBook-Pro-13-更新终于等到，下单十台用于团队新人和旧款换新](https://www.v2ex.com/t/668955)  
+- [2020-05-06-请教一个关于视频播放的问题](https://www.v2ex.com/t/668954)  
+- [2020-05-06-微信小程序云开发迁移到-qq-小程序](https://www.v2ex.com/t/668953)  
+- [2020-05-06-🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOp...](https://www.v2ex.com/t/668952)  
+- [2020-05-06-求杭州不加班的测试岗](https://www.v2ex.com/t/668951)  
+- [2020-05-06-（转发这个五月天，五月开心每一天~）字节跳动-深圳南山-小游戏前端大量-HC-诚聘！需要-H5-游戏/小游戏开发经验](https://www.v2ex.com/t/668950)  
+- [2020-05-06-为什么现在-http-环境这么差](https://www.v2ex.com/t/668949)  
+- [2020-05-06-就目前的态势来看，-Python-还是-Java-好找工作？](https://www.v2ex.com/t/668948)  
+- [2020-05-06-navicat-同一句-SQL-语句以前执行没问题，现在报-OCI_INVALID_HANDLE](https://www.v2ex.com/t/668947)  
+- [2020-05-06-win10-自带的-media-player-字幕支持怎么这么差？](https://www.v2ex.com/t/668946)  
+- [2020-05-06-2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944)  
+- [2020-05-06-synergy-软件-如何-Mac（sever）到-Windows（client）时-command=ctrl？](https://www.v2ex.com/t/668943)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

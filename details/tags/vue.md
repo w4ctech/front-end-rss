@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f) 
+- [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) 
 - [2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9) 
 - [2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd) 
 - [2020-04-21-大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23) 

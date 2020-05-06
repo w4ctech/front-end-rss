@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-05-03 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f) 
+- [2020-05-06-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebe62d7c491c1a844494cf6e463f01b6) 
+- [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) 
+- [2020-05-05-传说中最经典的外包案例](https://www.ershicimi.com/p/6269ed474407855487c0fa6de4760523) 
 - [2020-05-03-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/7bc3db6b81610cff242e8e5360a6fefc) 
 - [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9) 
 - [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33) 

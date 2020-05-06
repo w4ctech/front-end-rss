@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-06 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -75,6 +75,8 @@
 
 
 
+- [【Vue中文社区】Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f)
+- [【Vue中文社区】「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29)
 - [【Vue中文社区】10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9)
 - [【Vue中文社区】尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd)
 - [【Vue中文社区】大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23)
@@ -93,8 +95,6 @@
 - [【前端大学】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/e3b2ca58705fd883ff0307c940c6e21f)
 - [【前端之巅】前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网](https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e)
 - [【前端之巅】尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626)
-- [【前端迷】推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c)
-- [【前端迷】vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

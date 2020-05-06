@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 08:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 09:00:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -169,7 +169,7 @@
 </summary>
 
 
-- [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b) ![](assets/new.png)  
+- [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)  
 - [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
 - [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
 - [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
@@ -894,7 +894,13 @@
 </summary>
 
 
-- [2020-05-06-第一次拍-MV，《996-的忧郁-Feat.后浪》大家给点建议](https://www.v2ex.com/t/668791) ![](assets/new.png)  
+- [2020-05-06-Juicessh-终于更新了](https://www.v2ex.com/t/668799) ![](assets/new.png)  
+- [2020-05-06-关于脆皮肠](https://www.v2ex.com/t/668798) ![](assets/new.png)  
+- [2020-05-06-小米的质量为什么都这么差，关键做法都还很恶心](https://www.v2ex.com/t/668797) ![](assets/new.png)  
+- [2020-05-06-五一节后，来试试快手吧，内推进行中...](https://www.v2ex.com/t/668796) ![](assets/new.png)  
+- [2020-05-06-才发觉显示器能调-72-刷新率](https://www.v2ex.com/t/668795) ![](assets/new.png)  
+- [2020-05-06-Airpods-Pro-固件更新到-2D15。附更新方法](https://www.v2ex.com/t/668794) ![](assets/new.png)  
+- [2020-05-06-第一次拍-MV，《996-的忧郁-Feat.后浪》大家给点建议](https://www.v2ex.com/t/668791)  
 - [2020-05-06-傅盛的猎豹为什么没落了，几年前在海外火的就像现在的抖音](https://www.v2ex.com/t/668789)  
 - [2020-05-06-20200506-午夜俱乐部quarantined](https://www.v2ex.com/t/668788)  
 - [2020-05-06-yii2-安装爬虫采集类失败](https://www.v2ex.com/t/668787)  
@@ -908,12 +914,6 @@
 - [2020-05-06-成都出个主机-1200](https://www.v2ex.com/t/668776)  
 - [2020-05-06-谷歌安卓,-宁有种乎-:doge:](https://www.v2ex.com/t/668775)  
 - [2020-05-06-求职-上海-19-届-Java-后端求带走](https://www.v2ex.com/t/668774)  
-- [2020-05-06-阅读在线文档的正确姿势？](https://www.v2ex.com/t/668773)  
-- [2020-05-06-求助关于-Java-创建二叉树的问题](https://www.v2ex.com/t/668772)  
-- [2020-05-05-显示器插-usb，电脑为何不识别](https://www.v2ex.com/t/668771)  
-- [2020-05-05-想出掉我的-13-寸，然后。。。。](https://www.v2ex.com/t/668770)  
-- [2020-05-05-移动上传异常有什么排查思路吗](https://www.v2ex.com/t/668769)  
-- [2020-05-05-WSL2-Vmmem-进程太吃内存了](https://www.v2ex.com/t/668765)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -956,26 +956,26 @@
 </summary>
 
 
+- [2020-05-06-别总说-CMS、G1，该聊聊-ZGC-了](https://toutiao.io/k/kak5t7r) ![](assets/new.png)  
+- [2020-05-06-机器学习入门教程：启发式实例](https://toutiao.io/k/iyb2n6r) ![](assets/new.png)  
+- [2020-05-06-字节跳动的技术牛人在读什么？书单来了！](https://toutiao.io/k/yc5sbx8) ![](assets/new.png)  
+- [2020-05-06-自监督学习在计算机视觉中的应用](https://toutiao.io/k/upecz69) ![](assets/new.png)  
+- [2020-05-06-漫画-Java-线程池的工作机制](https://toutiao.io/k/gg90nck) ![](assets/new.png)  
+- [2020-05-06-使用-Reactor-响应式编程](https://toutiao.io/k/05djgxk) ![](assets/new.png)  
+- [2020-05-06-为什么-0.1-+-0.2-=-0.3](https://toutiao.io/k/7njaesk) ![](assets/new.png)  
+- [2020-05-06-Android-动态权限详解](https://toutiao.io/k/wnaf7wu) ![](assets/new.png)  
+- [2020-05-06-从-Socket-API-看网络通信流程](https://toutiao.io/k/8qbwu26) ![](assets/new.png)  
+- [2020-05-06-Grafana-的-worldmap-panel-实现世界地图的分析展现](https://toutiao.io/k/qsegsiw) ![](assets/new.png)  
+- [2020-05-06-字节跳动混沌工程实践总结](https://toutiao.io/k/t7uppuw) ![](assets/new.png)  
+- [2020-05-06-如何阅读源码？](https://toutiao.io/k/36tbvna) ![](assets/new.png)  
+- [2020-05-06-Netty-源码分析（一）：Netty-Server-启动流程（上）](https://toutiao.io/k/aixcsrh) ![](assets/new.png)  
+- [2020-05-06-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（二）](https://toutiao.io/k/7h333jg) ![](assets/new.png)  
 - [2020-05-05-构建企业级研发安全编码规范](https://toutiao.io/k/lt3xls8)  
 - [2020-05-05-腾讯的技术牛人在读什么？书单来了！](https://toutiao.io/k/fpu3k3w)  
 - [2020-05-05-SWAP-常见问题分析和性能调优配置实践小结](https://toutiao.io/k/0h223lh)  
 - [2020-05-05-一致性模型笔记](https://toutiao.io/k/kesrf8f)  
 - [2020-05-05-Spring-Boot-中如何灵活使用切片](https://toutiao.io/k/9b39ky5)  
 - [2020-05-05-智能写作-v2.0](https://toutiao.io/k/mrjmf2m)  
-- [2020-05-05-如何用-Babel-为代码自动引入依赖](https://toutiao.io/k/2mp0fzl)  
-- [2020-05-05-以-k8s-集群管理为例，大牛教你如何设计优秀项目架构](https://toutiao.io/k/4lmmb37)  
-- [2020-05-05-进程管理工具-Supervisor](https://toutiao.io/k/l97zk94)  
-- [2020-05-04-LevelDB-完全解析（三）：SSTable](https://toutiao.io/k/cpxelwu)  
-- [2020-05-04-你的简历写了-“熟悉”-Zookeeper？那这些你会吗？](https://toutiao.io/k/n1vza25)  
-- [2020-05-04-零信任安全架构实践之路](https://toutiao.io/k/2vdnk27)  
-- [2020-05-04-一个静态注入动态库的工具-luject](https://toutiao.io/k/gwc3863)  
-- [2020-05-04-HBase-内核优化与吞吐能力建设](https://toutiao.io/k/7e6x1fk)  
-- [2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2)  
-- [2020-05-04-Istio-1.5-&-Envoy-数据面-WASM-实践](https://toutiao.io/k/colre19)  
-- [2020-05-04-译-高性能前端架构解决方案](https://toutiao.io/k/xbg9x4z)  
-- [2020-05-04-阿里的技术牛人在读什么？书单来了！](https://toutiao.io/k/pgcsnx3)  
-- [2020-05-03-《JavaScript-20-年》中文版（二）：创立标准](https://toutiao.io/k/9ofgyej)  
-- [2020-05-03-可变剪切分析](https://toutiao.io/k/95fwdwx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

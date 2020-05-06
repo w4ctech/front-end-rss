@@ -5263,6 +5263,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Juicessh 终于更新了",
+        "link": "https://www.v2ex.com/t/668799",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "关于脆皮肠",
+        "link": "https://www.v2ex.com/t/668798",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "小米的质量为什么都这么差，关键做法都还很恶心",
+        "link": "https://www.v2ex.com/t/668797",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "五一节后，来试试快手吧，内推进行中...",
+        "link": "https://www.v2ex.com/t/668796",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "才发觉显示器能调 72 刷新率",
+        "link": "https://www.v2ex.com/t/668795",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "Airpods Pro 固件更新到 2D15。附更新方法",
+        "link": "https://www.v2ex.com/t/668794",
+        "date": "2020-05-06"
+      },
+      {
         "title": "第一次拍 MV，《996 的忧郁 Feat.后浪》大家给点建议",
         "link": "https://www.v2ex.com/t/668791",
         "date": "2020-05-06"
@@ -18471,6 +18501,76 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "别总说 CMS、G1，该聊聊 ZGC 了",
+        "link": "https://toutiao.io/k/kak5t7r",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "机器学习入门教程：启发式实例",
+        "link": "https://toutiao.io/k/iyb2n6r",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "字节跳动的技术牛人在读什么？书单来了！",
+        "link": "https://toutiao.io/k/yc5sbx8",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "自监督学习在计算机视觉中的应用",
+        "link": "https://toutiao.io/k/upecz69",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "漫画 Java 线程池的工作机制",
+        "link": "https://toutiao.io/k/gg90nck",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "使用 Reactor 响应式编程",
+        "link": "https://toutiao.io/k/05djgxk",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "为什么 0.1 + 0.2 = 0.3",
+        "link": "https://toutiao.io/k/7njaesk",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "Android 动态权限详解",
+        "link": "https://toutiao.io/k/wnaf7wu",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "从 Socket API 看网络通信流程",
+        "link": "https://toutiao.io/k/8qbwu26",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "Grafana 的 worldmap-panel 实现世界地图的分析展现",
+        "link": "https://toutiao.io/k/qsegsiw",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "字节跳动混沌工程实践总结",
+        "link": "https://toutiao.io/k/t7uppuw",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "如何阅读源码？",
+        "link": "https://toutiao.io/k/36tbvna",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "Netty 源码分析（一）：Netty Server 启动流程（上）",
+        "link": "https://toutiao.io/k/aixcsrh",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（二）",
+        "link": "https://toutiao.io/k/7h333jg",
+        "date": "2020-05-06"
+      },
       {
         "title": "构建企业级研发安全编码规范",
         "link": "https://toutiao.io/k/lt3xls8",

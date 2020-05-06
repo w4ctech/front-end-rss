@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 14:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 15:00:21，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -906,26 +906,26 @@
 </summary>
 
 
-- [2020-05-06-🔥🔥🔥腾讯全国🔥🔥🔥内推！候选人还缺不少！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥🔥](https://www.v2ex.com/t/668914) ![](assets/new.png)  
-- [2020-05-06-MBP-外接-U2720QM-被识别为-5K](https://www.v2ex.com/t/668913) ![](assets/new.png)  
-- [2020-05-06-蝶式键盘现在还有在召回吗？](https://www.v2ex.com/t/668912) ![](assets/new.png)  
-- [2020-05-06-天气一变化，过敏性鼻炎快难受死了……](https://www.v2ex.com/t/668911) ![](assets/new.png)  
-- [2020-05-06-氢-OS-的操作-so-disgusting](https://www.v2ex.com/t/668910) ![](assets/new.png)  
-- [2020-05-06-iOS-算半个夕阳行业？](https://www.v2ex.com/t/668909) ![](assets/new.png)  
-- [2020-05-06-macos-科学有失效问题](https://www.v2ex.com/t/668908) ![](assets/new.png)  
-- [2020-05-06-React-testing-library-测试-multi-select-问题](https://www.v2ex.com/t/668905) ![](assets/new.png)  
-- [2020-05-06-VSCode-中的-Remote-SSH-插件怎么连不上服务器了？](https://www.v2ex.com/t/668904) ![](assets/new.png)  
-- [2020-05-06-请问-2-年-Java-需要到达什么技术水平？](https://www.v2ex.com/t/668902) ![](assets/new.png)  
-- [2020-05-06-有人-Telegram-因为-GV-虚拟号码被封么？](https://www.v2ex.com/t/668901) ![](assets/new.png)  
-- [2020-05-06-调研-你是否需要一个-memcached-客户端](https://www.v2ex.com/t/668900) ![](assets/new.png)  
-- [2020-05-06-辞职创业第一天就被泼冷水，遇到大难题“公司注册地址问题”，坐标帝都，有懂的请教。](https://www.v2ex.com/t/668899) ![](assets/new.png)  
-- [2020-05-06-关于工业生产中的一个算法问题](https://www.v2ex.com/t/668898) ![](assets/new.png)  
-- [2020-05-06-OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897)  
-- [2020-05-06-Microsoft-365-拼团、45-元/一个位置](https://www.v2ex.com/t/668896)  
-- [2020-05-06-关于-type-c-拓展-A2119-的问题](https://www.v2ex.com/t/668895)  
-- [2020-05-06-极简主义个人博客方案推荐？](https://www.v2ex.com/t/668894)  
-- [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893)  
-- [2020-05-06-2013-年数据世界人均牛奶消费量排行：中国以-32-千克位列-137-名，消费量为第一名芬兰430kg的-6%。](https://www.v2ex.com/t/668892)  
+- [2020-05-06-9.9-元注册阿里云云上公司，很诱人](https://www.v2ex.com/t/668938) ![](assets/new.png)  
+- [2020-05-06-转租越秀区黄花岗街道云鹤北街一室一厅](https://www.v2ex.com/t/668936) ![](assets/new.png)  
+- [2020-05-06-mac-pro-求推荐](https://www.v2ex.com/t/668935) ![](assets/new.png)  
+- [2020-05-06-有用-x835-这个板子的吗？](https://www.v2ex.com/t/668934) ![](assets/new.png)  
+- [2020-05-06-请问-iPhone-储存空间中的“其它”是如何清理的？](https://www.v2ex.com/t/668933) ![](assets/new.png)  
+- [2020-05-06-airpods-pro-固件升级了](https://www.v2ex.com/t/668932) ![](assets/new.png)  
+- [2020-05-06-使用-vuex-接收-web-worker-处理的上传返回的信息，导致页面卡顿，未响应？](https://www.v2ex.com/t/668931) ![](assets/new.png)  
+- [2020-05-06-求助：-mac-16inch-safari-三指取词搜不到字典](https://www.v2ex.com/t/668930) ![](assets/new.png)  
+- [2020-05-06-油管上那么多杂七杂八机器猫资源，我试着也上传一个，被禁，为什么？](https://www.v2ex.com/t/668929) ![](assets/new.png)  
+- [2020-05-06-今天有多少人上班忘记打卡？反正我是没有想起来](https://www.v2ex.com/t/668928) ![](assets/new.png)  
+- [2020-05-06-支付宝除了余额宝有什么不会亏的理财方式吗](https://www.v2ex.com/t/668927) ![](assets/new.png)  
+- [2020-05-06-你们能看懂和绘制各种图示吗？](https://www.v2ex.com/t/668926) ![](assets/new.png)  
+- [2020-05-06-河南郑州芯盾网安诚聘-Android/iOS/-Java-开发工程师](https://www.v2ex.com/t/668925) ![](assets/new.png)  
+- [2020-05-06-在五一期间调整了网页，大家觉得怎么样？和第一版比起来已经算的上是翻天覆地的变化](https://www.v2ex.com/t/668923) ![](assets/new.png)  
+- [2020-05-06-有没有代替苹果原装-96w-适配器的-GaN-充电器？](https://www.v2ex.com/t/668922) ![](assets/new.png)  
+- [2020-05-06-深圳-南山-前端工程师（VUE-+-webpack）10-15K·13-薪](https://www.v2ex.com/t/668921) ![](assets/new.png)  
+- [2020-05-06-免费好用的-Paste-替代品-CCboard](https://www.v2ex.com/t/668920) ![](assets/new.png)  
+- [2020-05-06-写了一个轻量级的自动构建部署-vscode-插件](https://www.v2ex.com/t/668919) ![](assets/new.png)  
+- [2020-05-06-PHP-找工作有点惨啊，一个多月接到两个面试](https://www.v2ex.com/t/668918) ![](assets/new.png)  
+- [2020-05-06-Java-接口如何管理](https://www.v2ex.com/t/668917) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -937,7 +937,7 @@
 </summary>
 
 
-- [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

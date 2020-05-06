@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -21,6 +21,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-06-免费好用的-Paste-替代品-CCboard](https://www.v2ex.com/t/668920) 
 - [2020-05-06-🔥🔥🔥腾讯全国🔥🔥🔥内推！候选人还缺不少！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥🔥](https://www.v2ex.com/t/668914) 
 - [2020-05-06-关于工业生产中的一个算法问题](https://www.v2ex.com/t/668898) 
 - [2020-05-05-snippaste-与-picGo-组合-请问如何截图完后，自动上传](https://www.v2ex.com/t/668736) 

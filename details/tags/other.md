@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2685,6 +2685,12 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942) 
+- [2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9) 
+- [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti) 
+- [2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb) 
+- [2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx) 
+- [2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2) 
 - [2020-05-06-LeetCode-206：反转链表](https://toutiao.io/k/ft1ivxx) 
 - [2020-05-06-Go-1.15-都有哪些值得关注的变化？](https://toutiao.io/k/xj5aubd) 
 - [2020-05-06-译-深入理解-IPFS：消费/订阅系统](https://toutiao.io/k/ax1u0b9) 

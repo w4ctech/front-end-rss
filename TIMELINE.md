@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-06 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1100,6 +1100,14 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【开发者头条】2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942) 
+- [【开发者头条】2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9) 
+- [【开发者头条】2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti) 
+- [【开发者头条】2020-05-06-搭建-Node-服务（一）：日志处理](https://toutiao.io/k/39ji82b) 
+- [【开发者头条】2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb) 
+- [【开发者头条】2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx) 
+- [【开发者头条】2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2) 
+- [【开发者头条】2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza) 
 - [【开发者头条】2020-05-06-LeetCode-206：反转链表](https://toutiao.io/k/ft1ivxx) 
 - [【开发者头条】2020-05-06-Go-1.15-都有哪些值得关注的变化？](https://toutiao.io/k/xj5aubd) 
 - [【开发者头条】2020-05-06-译-深入理解-IPFS：消费/订阅系统](https://toutiao.io/k/ax1u0b9) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 13:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 13:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -906,18 +906,18 @@
 </summary>
 
 
-- [2020-05-06-OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897) ![](assets/new.png)  
-- [2020-05-06-Microsoft-365-拼团、45-元/一个位置](https://www.v2ex.com/t/668896) ![](assets/new.png)  
-- [2020-05-06-关于-type-c-拓展-A2119-的问题](https://www.v2ex.com/t/668895) ![](assets/new.png)  
-- [2020-05-06-极简主义个人博客方案推荐？](https://www.v2ex.com/t/668894) ![](assets/new.png)  
-- [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893) ![](assets/new.png)  
-- [2020-05-06-2013-年数据世界人均牛奶消费量排行：中国以-32-千克位列-137-名，消费量为第一名芬兰430kg的-6%。](https://www.v2ex.com/t/668892) ![](assets/new.png)  
-- [2020-05-06-你多久没有调薪了？](https://www.v2ex.com/t/668891) ![](assets/new.png)  
-- [2020-05-06-为什么我发布的贴子，无法匿名查看](https://www.v2ex.com/t/668890) ![](assets/new.png)  
-- [2020-05-06-你为什么选择不买房？](https://www.v2ex.com/t/668888) ![](assets/new.png)  
-- [2020-05-06-伪官宣：-Envoy-中文指南新鲜出炉！](https://www.v2ex.com/t/668887) ![](assets/new.png)  
-- [2020-05-06-JavaScript-event-keycode](https://www.v2ex.com/t/668886) ![](assets/new.png)  
-- [2020-05-06-Android-开发技术周报-Issue#278](https://www.v2ex.com/t/668885) ![](assets/new.png)  
+- [2020-05-06-OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897)  
+- [2020-05-06-Microsoft-365-拼团、45-元/一个位置](https://www.v2ex.com/t/668896)  
+- [2020-05-06-关于-type-c-拓展-A2119-的问题](https://www.v2ex.com/t/668895)  
+- [2020-05-06-极简主义个人博客方案推荐？](https://www.v2ex.com/t/668894)  
+- [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893)  
+- [2020-05-06-2013-年数据世界人均牛奶消费量排行：中国以-32-千克位列-137-名，消费量为第一名芬兰430kg的-6%。](https://www.v2ex.com/t/668892)  
+- [2020-05-06-你多久没有调薪了？](https://www.v2ex.com/t/668891)  
+- [2020-05-06-为什么我发布的贴子，无法匿名查看](https://www.v2ex.com/t/668890)  
+- [2020-05-06-你为什么选择不买房？](https://www.v2ex.com/t/668888)  
+- [2020-05-06-伪官宣：-Envoy-中文指南新鲜出炉！](https://www.v2ex.com/t/668887)  
+- [2020-05-06-JavaScript-event-keycode](https://www.v2ex.com/t/668886)  
+- [2020-05-06-Android-开发技术周报-Issue#278](https://www.v2ex.com/t/668885)  
 - [2020-05-06-牛客网做题的输入问题，请教一下，是我的问题还是输入的问题？](https://www.v2ex.com/t/668883)  
 - [2020-05-06-GCP-一年到期了忘了关~~-扣费了-可以退回吗~](https://www.v2ex.com/t/668882)  
 - [2020-05-06-讲座-助你进军阿里-P6-Java-工程师](https://www.v2ex.com/t/668881)  
@@ -968,6 +968,14 @@
 </summary>
 
 
+- [2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942) ![](assets/new.png)  
+- [2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9) ![](assets/new.png)  
+- [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti) ![](assets/new.png)  
+- [2020-05-06-搭建-Node-服务（一）：日志处理](https://toutiao.io/k/39ji82b) ![](assets/new.png)  
+- [2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb) ![](assets/new.png)  
+- [2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx) ![](assets/new.png)  
+- [2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2) ![](assets/new.png)  
+- [2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza) ![](assets/new.png)  
 - [2020-05-06-LeetCode-206：反转链表](https://toutiao.io/k/ft1ivxx)  
 - [2020-05-06-Go-1.15-都有哪些值得关注的变化？](https://toutiao.io/k/xj5aubd)  
 - [2020-05-06-译-深入理解-IPFS：消费/订阅系统](https://toutiao.io/k/ax1u0b9)  
@@ -980,14 +988,6 @@
 - [2020-05-06-自监督学习在计算机视觉中的应用](https://toutiao.io/k/upecz69)  
 - [2020-05-06-漫画-Java-线程池的工作机制](https://toutiao.io/k/gg90nck)  
 - [2020-05-06-使用-Reactor-响应式编程](https://toutiao.io/k/05djgxk)  
-- [2020-05-06-为什么-0.1-+-0.2-=-0.3](https://toutiao.io/k/7njaesk)  
-- [2020-05-06-Android-动态权限详解](https://toutiao.io/k/wnaf7wu)  
-- [2020-05-06-从-Socket-API-看网络通信流程](https://toutiao.io/k/8qbwu26)  
-- [2020-05-06-Grafana-的-worldmap-panel-实现世界地图的分析展现](https://toutiao.io/k/qsegsiw)  
-- [2020-05-06-字节跳动混沌工程实践总结](https://toutiao.io/k/t7uppuw)  
-- [2020-05-06-如何阅读源码？](https://toutiao.io/k/36tbvna)  
-- [2020-05-06-Netty-源码分析（一）：Netty-Server-启动流程（上）](https://toutiao.io/k/aixcsrh)  
-- [2020-05-06-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（二）](https://toutiao.io/k/7h333jg)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

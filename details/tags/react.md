@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -42,6 +42,7 @@
 - [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee) 
 - [2020-04-24-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-24-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-05-06-内推-全职远程工作-React-前端工程师-20~30K（Airhost@新加坡，华人-CTO-背景）](https://www.v2ex.com/t/668988) 
 - [2020-05-06-React-testing-library-测试-multi-select-问题](https://www.v2ex.com/t/668905) 
 - [2020-05-06-React-Native-一站式-快速开发库分享](https://www.v2ex.com/t/668855) 
 - [2020-05-04-正式版来了，现代化的极简-React-UI-库发布了-1.0.0](https://www.v2ex.com/t/668491) 

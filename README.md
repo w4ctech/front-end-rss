@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 10:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-06 11:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -231,8 +231,8 @@
 </summary>
 
 
-- [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6) ![](assets/new.png)  
-- [2020-05-06-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f336468678022d093b027ed5971ed29a) ![](assets/new.png)  
+- [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6)  
+- [2020-05-06-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f336468678022d093b027ed5971ed29a)  
 - [2020-04-30-网页外链用了-target="_blank"，结果悲剧了](https://www.ershicimi.com/p/4274659e9eebe8c5f2aedee92c67d5aa)  
 - [2020-04-29-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e)  
 - [2020-04-28-不懂源码的前端不是真正的前端](https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32)  
@@ -905,14 +905,14 @@
 </summary>
 
 
-- [2020-05-06-Mac-的网络功能等未来可能在类似于-T2-的东西上面做吗？](https://www.v2ex.com/t/668826) ![](assets/new.png)  
-- [2020-05-06-ubuntu-DDE-LTS-发布了](https://www.v2ex.com/t/668825) ![](assets/new.png)  
-- [2020-05-06-新版-edge-浏览器怎么使用原来的-pdf-阅读模式](https://www.v2ex.com/t/668824) ![](assets/new.png)  
-- [2020-05-06-Java-在上传文件中，如何判断上传的-rar-压缩包是否带有密码](https://www.v2ex.com/t/668823) ![](assets/new.png)  
-- [2020-05-06-qq-邮箱挂了？-503](https://www.v2ex.com/t/668819) ![](assets/new.png)  
-- [2020-05-06-小说摸鱼已经过时？-Thief-带你体验摸鱼新境界，远离-ICU](https://www.v2ex.com/t/668818) ![](assets/new.png)  
-- [2020-05-06-还是换笔记本的问题，神舟战神，暗影精灵，拯救者，还有联想小新锐龙-4000-在-5-月份发售，还有哪些选择，预算-6000-左右的话，选择哪个比较好？有没有推荐的？](https://www.v2ex.com/t/668817) ![](assets/new.png)  
-- [2020-05-06-贝壳找房太过分了吧](https://www.v2ex.com/t/668814) ![](assets/new.png)  
+- [2020-05-06-Mac-的网络功能等未来可能在类似于-T2-的东西上面做吗？](https://www.v2ex.com/t/668826)  
+- [2020-05-06-ubuntu-DDE-LTS-发布了](https://www.v2ex.com/t/668825)  
+- [2020-05-06-新版-edge-浏览器怎么使用原来的-pdf-阅读模式](https://www.v2ex.com/t/668824)  
+- [2020-05-06-Java-在上传文件中，如何判断上传的-rar-压缩包是否带有密码](https://www.v2ex.com/t/668823)  
+- [2020-05-06-qq-邮箱挂了？-503](https://www.v2ex.com/t/668819)  
+- [2020-05-06-小说摸鱼已经过时？-Thief-带你体验摸鱼新境界，远离-ICU](https://www.v2ex.com/t/668818)  
+- [2020-05-06-还是换笔记本的问题，神舟战神，暗影精灵，拯救者，还有联想小新锐龙-4000-在-5-月份发售，还有哪些选择，预算-6000-左右的话，选择哪个比较好？有没有推荐的？](https://www.v2ex.com/t/668817)  
+- [2020-05-06-贝壳找房太过分了吧](https://www.v2ex.com/t/668814)  
 - [2020-05-06-迫于辞职要将企业积分转换成-RMB，所以我想-9.6-折优惠帮各位充话费](https://www.v2ex.com/t/668812)  
 - [2020-05-06-迫于形势严峻，-UI/UX-设计师在线接单，各位老板们赏个眼～](https://www.v2ex.com/t/668810)  
 - [2020-05-06-用-C++-写了个-JavaScript-解释器](https://www.v2ex.com/t/668809)  
@@ -967,6 +967,9 @@
 </summary>
 
 
+- [2020-05-06-LeetCode-206：反转链表](https://toutiao.io/k/ft1ivxx) ![](assets/new.png)  
+- [2020-05-06-Go-1.15-都有哪些值得关注的变化？](https://toutiao.io/k/xj5aubd) ![](assets/new.png)  
+- [2020-05-06-译-深入理解-IPFS：消费/订阅系统](https://toutiao.io/k/ax1u0b9) ![](assets/new.png)  
 - [2020-05-06-Envoy-基础教程：使用-Unix-Domain-Socket-与上游集群通信](https://toutiao.io/k/ftfsnze)  
 - [2020-05-06-Scala-类型层次结构](https://toutiao.io/k/i8uticy)  
 - [2020-05-06-跨端开发框架深度横评（2020-版）](https://toutiao.io/k/5me3s6z)  
@@ -984,9 +987,6 @@
 - [2020-05-06-如何阅读源码？](https://toutiao.io/k/36tbvna)  
 - [2020-05-06-Netty-源码分析（一）：Netty-Server-启动流程（上）](https://toutiao.io/k/aixcsrh)  
 - [2020-05-06-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（二）](https://toutiao.io/k/7h333jg)  
-- [2020-05-05-构建企业级研发安全编码规范](https://toutiao.io/k/lt3xls8)  
-- [2020-05-05-腾讯的技术牛人在读什么？书单来了！](https://toutiao.io/k/fpu3k3w)  
-- [2020-05-05-SWAP-常见问题分析和性能调优配置实践小结](https://toutiao.io/k/0h223lh)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

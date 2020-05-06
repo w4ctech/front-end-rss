@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 21:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -105,6 +105,7 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-06-发现-Bind-9-的-banner-不一般...](https://www.v2ex.com/t/669083) 
 - [2020-05-06-单个-form-表单提交多个值-django-获取问题](https://www.v2ex.com/t/669042) 
 - [2020-05-06-有没有代替苹果原装-96w-适配器的-GaN-充电器？](https://www.v2ex.com/t/668922) 
 - [2020-05-06-JavaScript-event-keycode](https://www.v2ex.com/t/668886) 

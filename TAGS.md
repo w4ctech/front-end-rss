@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-06 22:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -421,6 +421,7 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【知乎日报】中奖名单-|-现金红包、防晒霜和视频会员年卡](https://www.ershicimi.com/p/7e2f36ca93fae57aa775cea02444c190)
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
@@ -434,7 +435,6 @@
 - [【V2EX】美区-Apple-Music-对导入的正版-iTunes-AAC-音频文件做区别对待了吗？](https://www.v2ex.com/t/668705)
 - [【V2EX】虎牙直播-广州/深圳/北京|海外](https://www.v2ex.com/t/668592)
 - [【V2EX】全职远程招聘-Zine-诚聘-iOS-资深开发者，-视频处理-+-AR-方向（如有资深安卓愿意转型-iOS-也非常欢迎）](https://www.v2ex.com/t/668568)
-- [【V2EX】PC-端有没有工具或插件可以录制屏幕选定区域保存为视频的？](https://www.v2ex.com/t/668534)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

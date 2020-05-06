@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,6 +32,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-06-亚马逊送了我一个-5TB-的-LaCie-移动硬盘](https://www.v2ex.com/t/669088) 
 - [2020-05-06-想自建一个带有-GeoIP-功能-将不同地方的请求返回不同的-IP-的-DNS-服务器](https://www.v2ex.com/t/669067) 
 - [2020-05-06-godaddy-一直-access-denied，有人遇到过吗？](https://www.v2ex.com/t/669065) 
 - [2020-05-06-没有信用卡美区-apple-id-充值的最安全方式是什么？](https://www.v2ex.com/t/669064) 

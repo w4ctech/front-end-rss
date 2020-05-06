@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-06 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -24,12 +24,14 @@
 - [2020-05-05-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/ea06851a50afb8c1076a2b6d9c096676) 
 - [2020-04-27-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0) 
 - [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806) 
+- [2020-05-05-5-个刁钻的-String-面试题！](https://www.ershicimi.com/p/2953707ff74de3dfcc2d959401f8d732) 
 - [2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0) 
 - [2020-04-28-这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3) 
 - [2020-04-27-Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6) 
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-06-天津金融创业公司招聘-IT-维护兼-Windows-Server-运维](https://www.v2ex.com/t/668879) 
 - [2020-05-05-面试了一百多个项目经理，我总结出这些套路](https://www.v2ex.com/t/668702) 
 - [2020-05-05-昆明-EMQX-招聘-Python-，前端开发工程师](https://www.v2ex.com/t/668687) 
 - [2020-05-05-杭州-可远程-秘猿科技-招聘区块链工程师、前端工程师、后端工程师等等](https://www.v2ex.com/t/668655) 

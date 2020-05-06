@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-06 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-06 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -248,6 +248,8 @@
 - [【前端之巅】Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1)
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】Flutter-Weekly-Issue-54](https://www.v2ex.com/t/668875)
+- [【V2EX】最强的-flutter-播放器之一-fijkplayer-更新了，支持所有模式下的视频截图](https://www.v2ex.com/t/668837)
 - [【V2EX】为了做-flutter-拿到了比上份工作少-5k-的-offer](https://www.v2ex.com/t/667246)
 - [【V2EX】要是-V2EX-支持-PWA-就好了](https://www.v2ex.com/t/666623)
 - [【V2EX】flutter-通栏沉浸状态条|flutter-自定义底部凸起导航栏](https://www.v2ex.com/t/666606)
@@ -322,11 +324,11 @@
 - [【前端之巅】ECMAScript-2020-的新功能](https://www.ershicimi.com/p/8e6de83050ebb7e7ab387b73aed2d636)
 - [【前端迷】《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19)
 - [【前端迷】Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54)
+- [【全栈前端精选】12个前端必会-H5-问题及解决方法](https://www.ershicimi.com/p/b347b11b68c0c4a8fd1b3231fa670fda)
 - [【全栈前端精选】JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df)
 - [【全栈前端精选】实现一个代码编译器（200行JS代码）](https://www.ershicimi.com/p/8166df5d01201f2c9266d6723c729c1a)
 - [【全栈前端精选】前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a)
 - [【政采云前端团队】JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423)
-- [【前端宇宙】只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -420,6 +422,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】mpv-后台挖矿？神级播放器-CPU-高占用之谜...](https://www.v2ex.com/t/668845)
 - [【V2EX】ffmpeg-分割视频后前几秒卡住](https://www.v2ex.com/t/668729)
 - [【V2EX】美区-Apple-Music-对导入的正版-iTunes-AAC-音频文件做区别对待了吗？](https://www.v2ex.com/t/668705)
 - [【V2EX】虎牙直播-广州/深圳/北京|海外](https://www.v2ex.com/t/668592)
@@ -430,7 +433,6 @@
 - [【V2EX】音频-PCM-的数据中包含负值，但是分贝转换公式中的值要求是正值，请问这样是否存在冲突呢？](https://www.v2ex.com/t/668467)
 - [【V2EX】V2er-的机器学习/深度学习/神经网络等等，总之这些相关的知识是从哪开始学习的？有没有值得推荐的入门视频或者书籍列举一下？](https://www.v2ex.com/t/668438)
 - [【V2EX】不懂就问：为什么我的-iphone8-不能录制-H265-编码的视频了](https://www.v2ex.com/t/668354)
-- [【V2EX】b-站到底用了啥黑科技，油管的视频加载速度都比-b-站快](https://www.v2ex.com/t/668308)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -597,9 +599,12 @@
 - [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【互联网架构师】一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2)
+- [【互联网架构师】这张「二维码」火到了GitHub热榜第一：扫一扫，打破系统边界，文件秒传](https://www.ershicimi.com/p/e89cefddded75359e8cc5a29805b1965)
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
+- [【V2EX】github-搜索小帮手](https://www.v2ex.com/t/668849)
 - [【V2EX】小白-github-desktop-本地不小心删了内容，还没同步到-github，怎么让-github-上的覆盖本地仓库](https://www.v2ex.com/t/668748)
 - [【V2EX】IDEA/PHPStorm/WebStorm-如何把已经加入-.gitignore-的目录/文件重新纳入索引和自动提示？](https://www.v2ex.com/t/668708)
 - [【V2EX】github-访问不了了？](https://www.v2ex.com/t/668537)
@@ -608,9 +613,6 @@
 - [【V2EX】Git-常用命令参考手册](https://www.v2ex.com/t/668177)
 - [【V2EX】想买个-HPE-Proliant-Microserver-Gen10-PLUS-做-NAS-和-GitLab-托管？](https://www.v2ex.com/t/668167)
 - [【V2EX】GitHub-上目前最全的-Python-资源大全，这些资源你都了解吗？](https://www.v2ex.com/t/668162)
-- [【V2EX】不可访问-raw.githubusercontent.com](https://www.v2ex.com/t/668061)
-- [【V2EX】各位-Git-大佬，请教一个问题](https://www.v2ex.com/t/667949)
-- [【V2EX】研究了一天-Android-使用-app_process-启动-Java-类，失败了，代码丢-Github-上了，哪位-V-帮看看](https://www.v2ex.com/t/667795)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -644,9 +646,9 @@
 - [【前端瓶子君】我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/ea06851a50afb8c1076a2b6d9c096676)
 - [【程序员成长指北】面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0)
 - [【奇舞周刊】奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806)
+- [【互联网架构师】5-个刁钻的-String-面试题！](https://www.ershicimi.com/p/2953707ff74de3dfcc2d959401f8d732)
 - [【互联网架构师】2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0)
 - [【互联网架构师】这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3)
-- [【互联网架构师】Java-面试-1-小时，我看出了和月薪-3w-的差距](https://www.ershicimi.com/p/3d5484800efbcbff4a9a036b5a62ffe6)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

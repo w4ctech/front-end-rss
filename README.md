@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-06 23:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 00:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -326,6 +326,9 @@
 </summary>
 
 
+- [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad) ![](assets/new.png)  
+- [2020-05-06-创建Svelte-Web组件](https://www.ershicimi.com/p/1dbd80140105b5f0b75f2c6e7749000a) ![](assets/new.png)  
+- [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8) ![](assets/new.png)  
 - [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb)  
 - [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
 - [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9)  
@@ -343,9 +346,6 @@
 - [2020-04-26-Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1)  
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de)  
 - [2020-04-24-React.js-性能分析](https://www.ershicimi.com/p/158cc3f8bee03c13010c11768bac69d2)  
-- [2020-04-24-当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813)  
-- [2020-04-23-用React-Hooks做一个搜索栏](https://www.ershicimi.com/p/82ec07debd814648475a75cd252f7f48)  
-- [2020-04-23-工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -906,11 +906,11 @@
 </summary>
 
 
-- [2020-05-06-成都的朋友们，你们坐地铁是用实体卡还是用天府通-app-的二维码呢？](https://www.v2ex.com/t/669098) ![](assets/new.png)  
-- [2020-05-06-Switch-家庭组招租](https://www.v2ex.com/t/669097) ![](assets/new.png)  
-- [2020-05-06-协程的原理还是没懂](https://www.v2ex.com/t/669096) ![](assets/new.png)  
-- [2020-05-06-也许不用人工智能，计算机也能控制人类](https://www.v2ex.com/t/669094) ![](assets/new.png)  
-- [2020-05-06-现在-NLP-各种语言模型进展很快，有没有一键给学生做完形填空的模型或产品出现？](https://www.v2ex.com/t/669093) ![](assets/new.png)  
+- [2020-05-06-成都的朋友们，你们坐地铁是用实体卡还是用天府通-app-的二维码呢？](https://www.v2ex.com/t/669098)  
+- [2020-05-06-Switch-家庭组招租](https://www.v2ex.com/t/669097)  
+- [2020-05-06-协程的原理还是没懂](https://www.v2ex.com/t/669096)  
+- [2020-05-06-也许不用人工智能，计算机也能控制人类](https://www.v2ex.com/t/669094)  
+- [2020-05-06-现在-NLP-各种语言模型进展很快，有没有一键给学生做完形填空的模型或产品出现？](https://www.v2ex.com/t/669093)  
 - [2020-05-06-找一个前端小伙伴，一起搞点事情](https://www.v2ex.com/t/669092)  
 - [2020-05-06-买房签合同了，感叹一下，送点我的闲逛记录](https://www.v2ex.com/t/669091)  
 - [2020-05-06-MacOS-上的企业微信开发相关的问题](https://www.v2ex.com/t/669090)  

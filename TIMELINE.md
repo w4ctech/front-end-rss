@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 11:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-07 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -192,6 +192,9 @@
 - [【奇舞周刊】2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
+- [【互联网架构师】2020-05-07-网传互联网公司加班表，这也太真实了吧！](https://www.ershicimi.com/p/042fbc4950395926d03d490ebea7ce99) 
+- [【互联网架构师】2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) 
+- [【互联网架构师】2020-05-07-300-行代码带你搞懂-Java-多线程！](https://www.ershicimi.com/p/58a14a96802df05f1eaf0c620fe0c4f0) 
 - [【互联网架构师】2020-05-06-try-catch-处理异常太烦人了,我已经不用了](https://www.ershicimi.com/p/bfe804a5223fbf7e87b759b670433419) 
 - [【互联网架构师】2020-05-06-StackOverflow-上面最流行的-7-个-Java-问题！](https://www.ershicimi.com/p/c220b4daffab1834c1e5ee072d9d0fa7) 
 - [【互联网架构师】2020-05-06-一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2) 

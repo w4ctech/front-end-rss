@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 11:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 11:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -43,8 +43,8 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -231,8 +231,8 @@
 </summary>
 
 
-- [2020-05-07-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0) ![](assets/new.png)  
-- [2020-05-07-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0) ![](assets/new.png)  
+- [2020-05-07-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0)  
+- [2020-05-07-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6)  
 - [2020-05-06-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f336468678022d093b027ed5971ed29a)  
 - [2020-04-30-网页外链用了-target="_blank"，结果悲剧了](https://www.ershicimi.com/p/4274659e9eebe8c5f2aedee92c67d5aa)  
@@ -685,6 +685,9 @@
 </summary>
 
 
+- [2020-05-07-网传互联网公司加班表，这也太真实了吧！](https://www.ershicimi.com/p/042fbc4950395926d03d490ebea7ce99) ![](assets/new.png)  
+- [2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) ![](assets/new.png)  
+- [2020-05-07-300-行代码带你搞懂-Java-多线程！](https://www.ershicimi.com/p/58a14a96802df05f1eaf0c620fe0c4f0) ![](assets/new.png)  
 - [2020-05-06-try-catch-处理异常太烦人了,我已经不用了](https://www.ershicimi.com/p/bfe804a5223fbf7e87b759b670433419)  
 - [2020-05-06-StackOverflow-上面最流行的-7-个-Java-问题！](https://www.ershicimi.com/p/c220b4daffab1834c1e5ee072d9d0fa7)  
 - [2020-05-06-一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2)  
@@ -702,9 +705,6 @@
 - [2020-05-02-Spring-Boot内存泄露，排查竟这么难！](https://www.ershicimi.com/p/092499746e96f4d0e658f78ba0ac0aeb)  
 - [2020-05-01-为什么阿里巴巴禁止使用存储过程？](https://www.ershicimi.com/p/10d390a87d5708ed3effb50dba5aabbe)  
 - [2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e)  
-- [2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde)  
-- [2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44)  
-- [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -716,10 +716,10 @@
 </summary>
 
 
-- [2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8) ![](assets/new.png)  
-- [2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713) ![](assets/new.png)  
-- [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5) ![](assets/new.png)  
-- [2020-05-06-怎样成为一名更优秀的程序员？我总结出-7-条建议](https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7) ![](assets/new.png)  
+- [2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8)  
+- [2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713)  
+- [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5)  
+- [2020-05-06-怎样成为一名更优秀的程序员？我总结出-7-条建议](https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7)  
 - [2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f)  
 - [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c)  
 - [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d)  
@@ -968,7 +968,7 @@
 </summary>
 
 
-- [2020-05-07-贼好用的-Java-工具类库，12k+-Star，你在用吗？](https://toutiao.io/k/z3xk2j8) ![](assets/new.png)  
+- [2020-05-07-贼好用的-Java-工具类库，12k+-Star，你在用吗？](https://toutiao.io/k/z3xk2j8)  
 - [2020-05-07-这才是面试官想听的：详解-“递归”-正确的打开方式](https://toutiao.io/k/pb0ox8k)  
 - [2020-05-07-刨析-HTTP](https://toutiao.io/k/4ah8xz3)  
 - [2020-05-07-携程玩乐团队前端多端开发实践](https://toutiao.io/k/xbj6m3k)  

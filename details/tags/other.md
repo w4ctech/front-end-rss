@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -354,6 +354,8 @@
 - [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7) 
 - [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 
+- [2020-05-07-网传互联网公司加班表，这也太真实了吧！](https://www.ershicimi.com/p/042fbc4950395926d03d490ebea7ce99) 
+- [2020-05-07-300-行代码带你搞懂-Java-多线程！](https://www.ershicimi.com/p/58a14a96802df05f1eaf0c620fe0c4f0) 
 - [2020-05-06-StackOverflow-上面最流行的-7-个-Java-问题！](https://www.ershicimi.com/p/c220b4daffab1834c1e5ee072d9d0fa7) 
 - [2020-05-05-Java是未来的第一编程语言吗？](https://www.ershicimi.com/p/2c84bf46a35b78cdc06a6218dd92ecc8) 
 - [2020-05-04-百度的71个炸天的开源项目](https://www.ershicimi.com/p/df7f1c8ccc66f7f04a148afedec42f88) 

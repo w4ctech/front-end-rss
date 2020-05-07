@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -14,6 +14,7 @@
 - [2020-04-29-Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703) 
 - [2020-04-22-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/04e75103218a126a3ec5cf4ba3c2d7ba) 
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ae52fabfb7b18e0c2e6a2e155c1fba64) 
+- [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d) 
 - [2020-04-20-用-Webpack给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/b80df1b1e06bf7ec89fb3ce786da825a) 
 - [2020-04-19-webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://www.ershicimi.com/p/1b79be08035d903ff042d1822da51eb3) 
 - [2020-04-21-Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b) 

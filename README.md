@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 14:00:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 14:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -907,26 +907,26 @@
 </summary>
 
 
-- [2020-05-07-从另一个角度看今年的行情](https://www.v2ex.com/t/669266) ![](assets/new.png)  
-- [2020-05-07-kernel-task-占用-700%-mbp2018-直接死机-强行重启再开机电池电量掉为-0-有老哥遇到过么](https://www.v2ex.com/t/669263) ![](assets/new.png)  
-- [2020-05-07-马自达-3、迈锐宝-xl2.0、思域怎么选？](https://www.v2ex.com/t/669262) ![](assets/new.png)  
-- [2020-05-07-关于-WPS-Office-for-MAC-残留进程-wpscloudsrv-彻底清除的办法](https://www.v2ex.com/t/669260) ![](assets/new.png)  
-- [2020-05-07-杭州网易云音乐-收人啦。](https://www.v2ex.com/t/669259) ![](assets/new.png)  
-- [2020-05-07-问一下创维的这个显示器怎么样？](https://www.v2ex.com/t/669258) ![](assets/new.png)  
-- [2020-05-07-WSL2-安装-ubuntu20-出问题，怎么解决？](https://www.v2ex.com/t/669257) ![](assets/new.png)  
-- [2020-05-07-上班自己带饭后的一点体会和苦恼，希望带饭的朋友进来看看，一起交流一下。](https://www.v2ex.com/t/669256) ![](assets/new.png)  
-- [2020-05-07-app-退款后，还能使用吗](https://www.v2ex.com/t/669255) ![](assets/new.png)  
-- [2020-05-07-PHP-全栈开发接活](https://www.v2ex.com/t/669254) ![](assets/new.png)  
-- [2020-05-07-Java-项目线上遇到-OOM-了，请大家帮忙分析下。](https://www.v2ex.com/t/669253) ![](assets/new.png)  
-- [2020-05-07-6-年-Python-开发，寻求远程工作机会](https://www.v2ex.com/t/669252) ![](assets/new.png)  
-- [2020-05-07-什么，秒杀系统也有这么多种！](https://www.v2ex.com/t/669251) ![](assets/new.png)  
-- [2020-05-07-刚入门-Apple-music，请教几个问题。](https://www.v2ex.com/t/669249) ![](assets/new.png)  
-- [2020-05-07-菜鸟求问多线程下载的缓存设计](https://www.v2ex.com/t/669248) ![](assets/new.png)  
-- [2020-05-07-上海居住证流程](https://www.v2ex.com/t/669247) ![](assets/new.png)  
-- [2020-05-07-我打算转行，程序员太累了。我可以怎么转？](https://www.v2ex.com/t/669245) ![](assets/new.png)  
-- [2020-05-07-线上-OutOfMemoryError-了，没头绪...-...](https://www.v2ex.com/t/669244) ![](assets/new.png)  
-- [2020-05-07-一句话概括为什么学习-go-语言](https://www.v2ex.com/t/669243) ![](assets/new.png)  
-- [2020-05-07-为什么苹某团的-Apple-设备那么便宜？](https://www.v2ex.com/t/669242) ![](assets/new.png)  
+- [2020-05-07-联通现在也不给公网-IP-了？](https://www.v2ex.com/t/669280) ![](assets/new.png)  
+- [2020-05-07-请教前端中预览和编辑-docx-文件的问题](https://www.v2ex.com/t/669279) ![](assets/new.png)  
+- [2020-05-07-ucloud-找客户经理要了个代金券，让我选-1-核-2g-三年-700-块-我试了下选-1-核-1g-三年只要-150](https://www.v2ex.com/t/669278) ![](assets/new.png)  
+- [2020-05-07-在-RedteaGO-花了-1-美金弄了个-esim-尝尝鲜还不错，不知道国内什么时候才能放开-eSIM-功能啊](https://www.v2ex.com/t/669277) ![](assets/new.png)  
+- [2020-05-07-SpringMVC-增加了一个-xss-过滤器，导致-Controller-上传的文件为空](https://www.v2ex.com/t/669276) ![](assets/new.png)  
+- [2020-05-07-有没有好用的-outlook-客户端邮件搜索插件](https://www.v2ex.com/t/669275) ![](assets/new.png)  
+- [2020-05-07-Feeds.Pub-浏览器插件](https://www.v2ex.com/t/669274) ![](assets/new.png)  
+- [2020-05-07-CODING-敏捷实战系列课第二讲：-Scrum-敏捷项目管理核心要素之-3355](https://www.v2ex.com/t/669273) ![](assets/new.png)  
+- [2020-05-07-2020-款的-MBA-和-MBP-CPU-型号和性能？](https://www.v2ex.com/t/669272) ![](assets/new.png)  
+- [2020-05-07-为什么国外互联网企业的年终不像国内企业的年终这么多呢？](https://www.v2ex.com/t/669270) ![](assets/new.png)  
+- [2020-05-07-没人什么没有-DP-插口的无线投影设备呢。。。](https://www.v2ex.com/t/669269) ![](assets/new.png)  
+- [2020-05-07-笔记本卡顿咋解决](https://www.v2ex.com/t/669268) ![](assets/new.png)  
+- [2020-05-07-请教下，静态类型语言单个接口可以接收多种结构-json-序列化后的数据，怎么处理比较好？](https://www.v2ex.com/t/669267) ![](assets/new.png)  
+- [2020-05-07-从另一个角度看今年的行情](https://www.v2ex.com/t/669266)  
+- [2020-05-07-kernel-task-占用-700%-mbp2018-直接死机-强行重启再开机电池电量掉为-0-有老哥遇到过么](https://www.v2ex.com/t/669263)  
+- [2020-05-07-马自达-3、迈锐宝-xl2.0、思域怎么选？](https://www.v2ex.com/t/669262)  
+- [2020-05-07-关于-WPS-Office-for-MAC-残留进程-wpscloudsrv-彻底清除的办法](https://www.v2ex.com/t/669260)  
+- [2020-05-07-杭州网易云音乐-收人啦。](https://www.v2ex.com/t/669259)  
+- [2020-05-07-问一下创维的这个显示器怎么样？](https://www.v2ex.com/t/669258)  
+- [2020-05-07-WSL2-安装-ubuntu20-出问题，怎么解决？](https://www.v2ex.com/t/669257)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -969,6 +969,10 @@
 </summary>
 
 
+- [2020-05-07-接近-8000-字的-Spring/Spring-Boot-常用注解总结！安排](https://toutiao.io/k/7wygpo6) ![](assets/new.png)  
+- [2020-05-07-Service-Mesh-和-API-Gateway-关系深度探讨](https://toutiao.io/k/7t5wgr6) ![](assets/new.png)  
+- [2020-05-07-人人必须要知道的语义分割模型：DeepLabv3+](https://toutiao.io/k/31zkxou) ![](assets/new.png)  
+- [2020-05-07-Elasticsearch-支持拼音自动补全](https://toutiao.io/k/wry1y1q) ![](assets/new.png)  
 - [2020-05-07-贼好用的-Java-工具类库，12k+-Star，你在用吗？](https://toutiao.io/k/z3xk2j8)  
 - [2020-05-07-这才是面试官想听的：详解-“递归”-正确的打开方式](https://toutiao.io/k/pb0ox8k)  
 - [2020-05-07-刨析-HTTP](https://toutiao.io/k/4ah8xz3)  
@@ -985,10 +989,6 @@
 - [2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk)  
 - [2020-05-07-Kotlin-多态和扩展学习笔记（五）](https://toutiao.io/k/agg8vrk)  
 - [2020-05-07-漫谈分布式系统（十一）：达成共识就是一致](https://toutiao.io/k/xvuwqft)  
-- [2020-05-07-大数据算法应用的测试发展之路](https://toutiao.io/k/t3crl2l)  
-- [2020-05-07-Linux-管道那些事儿](https://toutiao.io/k/gu3s48a)  
-- [2020-05-07-Java-如何实现优雅停服？刨根问底](https://toutiao.io/k/1np0b1u)  
-- [2020-05-07-万字破解云原生可观测性](https://toutiao.io/k/8ak7gc7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

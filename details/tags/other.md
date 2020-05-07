@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -528,6 +528,16 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-07-联通现在也不给公网-IP-了？](https://www.v2ex.com/t/669280) 
+- [2020-05-07-请教前端中预览和编辑-docx-文件的问题](https://www.v2ex.com/t/669279) 
+- [2020-05-07-ucloud-找客户经理要了个代金券，让我选-1-核-2g-三年-700-块-我试了下选-1-核-1g-三年只要-150](https://www.v2ex.com/t/669278) 
+- [2020-05-07-在-RedteaGO-花了-1-美金弄了个-esim-尝尝鲜还不错，不知道国内什么时候才能放开-eSIM-功能啊](https://www.v2ex.com/t/669277) 
+- [2020-05-07-SpringMVC-增加了一个-xss-过滤器，导致-Controller-上传的文件为空](https://www.v2ex.com/t/669276) 
+- [2020-05-07-有没有好用的-outlook-客户端邮件搜索插件](https://www.v2ex.com/t/669275) 
+- [2020-05-07-CODING-敏捷实战系列课第二讲：-Scrum-敏捷项目管理核心要素之-3355](https://www.v2ex.com/t/669273) 
+- [2020-05-07-为什么国外互联网企业的年终不像国内企业的年终这么多呢？](https://www.v2ex.com/t/669270) 
+- [2020-05-07-没人什么没有-DP-插口的无线投影设备呢。。。](https://www.v2ex.com/t/669269) 
+- [2020-05-07-笔记本卡顿咋解决](https://www.v2ex.com/t/669268) 
 - [2020-05-07-从另一个角度看今年的行情](https://www.v2ex.com/t/669266) 
 - [2020-05-07-kernel-task-占用-700%-mbp2018-直接死机-强行重启再开机电池电量掉为-0-有老哥遇到过么](https://www.v2ex.com/t/669263) 
 - [2020-05-07-马自达-3、迈锐宝-xl2.0、思域怎么选？](https://www.v2ex.com/t/669262) 
@@ -2906,6 +2916,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-07-接近-8000-字的-Spring/Spring-Boot-常用注解总结！安排](https://toutiao.io/k/7wygpo6) 
+- [2020-05-07-Service-Mesh-和-API-Gateway-关系深度探讨](https://toutiao.io/k/7t5wgr6) 
+- [2020-05-07-人人必须要知道的语义分割模型：DeepLabv3+](https://toutiao.io/k/31zkxou) 
 - [2020-05-07-贼好用的-Java-工具类库，12k+-Star，你在用吗？](https://toutiao.io/k/z3xk2j8) 
 - [2020-05-07-携程玩乐团队前端多端开发实践](https://toutiao.io/k/xbj6m3k) 
 - [2020-05-07-硬核技能-k8s-初体验](https://toutiao.io/k/vy86a0w) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -29,6 +29,7 @@
 - [2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-05-07-2020-款的-MBA-和-MBP-CPU-型号和性能？](https://www.v2ex.com/t/669272) 
 - [2020-05-06-请问哪里还能买到-18-款的-MBP13？-2020-款性能提升大不大](https://www.v2ex.com/t/668986) 
 - [2020-05-06-求优化-mysql-百万数据-IN-查询](https://www.v2ex.com/t/668847) 
 - [2020-05-04-写了一个优化-pandas-内存的工具](https://www.v2ex.com/t/668523) 

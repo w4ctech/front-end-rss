@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -15,6 +15,7 @@
 - [2020-04-20-12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755) 
 - [2020-04-19-从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296) 
 - [2020-04-17-重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6) 
+- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126) 
 - [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a) 
 - [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b) 
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) 
@@ -68,6 +69,7 @@
 - [2020-04-26-小白提问：-vue-table-的-key](https://www.v2ex.com/t/666194) 
 - [2020-04-24-尝试用-Vue.js-开发网页小游戏的过程](https://www.v2ex.com/t/665644) 
 - [2020-04-24-springboot-&-vue.js-搭建的前后端分离管理后台~](https://www.v2ex.com/t/665612) 
+- [2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk) 
 - [2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2) 
 - [2020-05-02-Vue-灵魂之问：为什么说-Vue-的响应式体系可以精确到组件级别的更新？](https://toutiao.io/k/544851l) 
 - [2020-04-27-迎接-Vue-3.0：在-Vue-2-与-Vue-3-中构建相同的组件](https://toutiao.io/k/adiubjg) 

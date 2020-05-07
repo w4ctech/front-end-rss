@@ -1418,6 +1418,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "Vue3.0 Beta 来了，正式版还会远吗？",
+        "link": "https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "【第1937期】Continuation 在 JS 中的应用",
+        "link": "https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1",
+        "date": "2020-05-07"
+      },
+      {
         "title": "【第1936期】2020前端性能优化清单之三",
         "link": "https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b",
         "date": "2020-05-06"
@@ -5447,6 +5457,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "300G 的文件怎么备份？",
+        "link": "https://www.v2ex.com/t/669127",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "今天早晨一场全球性的 FaceBook 针对 iOS 系统 DOS 攻击。。。:P",
+        "link": "https://www.v2ex.com/t/669126",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "似乎不支持 *.dev 的 URL 自动变为 link？",
+        "link": "https://www.v2ex.com/t/669125",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "如何移除 dropbox 强行在 Mac 右键菜单添加的“使用转移发送”？",
+        "link": "https://www.v2ex.com/t/669124",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "做了一个烂大街的小程序，我来献上自己的运营数据，欢迎大家给意见",
+        "link": "https://www.v2ex.com/t/669123",
+        "date": "2020-05-07"
+      },
       {
         "title": "LTUI v1.7 发布, 一个基于 lua 的跨平台字符终端 UI 界面库",
         "link": "https://www.v2ex.com/t/669121",
@@ -19971,6 +20006,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "学会使用 context 取消 goroutine 执行的方法",
+        "link": "https://toutiao.io/k/4xbxodi",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "[译] 如何在 Vue 3 中使用生命周期函数",
+        "link": "https://toutiao.io/k/f4hs7uk",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "Kotlin 多态和扩展学习笔记（五）",
+        "link": "https://toutiao.io/k/agg8vrk",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "漫谈分布式系统（十一）：达成共识就是一致",
+        "link": "https://toutiao.io/k/xvuwqft",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "大数据算法应用的测试发展之路",
+        "link": "https://toutiao.io/k/t3crl2l",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "Linux 管道那些事儿",
+        "link": "https://toutiao.io/k/gu3s48a",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "Java 如何实现优雅停服？刨根问底",
+        "link": "https://toutiao.io/k/1np0b1u",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "万字破解云原生可观测性",
+        "link": "https://toutiao.io/k/8ak7gc7",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "每个开发都会用到的国内开发资源镜像一览",
+        "link": "https://toutiao.io/k/4rczfse",
+        "date": "2020-05-07"
+      },
       {
         "title": "二线城市的程序员活得好吗？",
         "link": "https://toutiao.io/k/wpnn942",

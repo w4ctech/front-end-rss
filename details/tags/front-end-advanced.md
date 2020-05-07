@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -81,6 +81,7 @@
 - [2020-04-24-海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613) 
 - [2020-04-24-连-5G-Wi-Fi-下，蓝牙鼠标-MX-MASTER-2S-卡顿厉害](https://www.v2ex.com/t/665590) 
 - [2020-04-24-🔥🔥腾讯-内推-🔥🔥全球-社招5000+-hc-火热内推中,包进度反馈！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥](https://www.v2ex.com/t/665579) 
+- [2020-05-07-大数据算法应用的测试发展之路](https://toutiao.io/k/t3crl2l) 
 - [2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza) 
 - [2020-05-02-10x-程序员之-Vim（一）](https://toutiao.io/k/3x8cux8) 
 - [2020-04-27-二十分钟封装，一个-App-前后台-Http-交互的实现](https://toutiao.io/k/ibwaj6e) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -215,6 +215,7 @@
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) 
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
+- [2020-05-07-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0) 
 - [2020-04-28-不懂源码的前端不是真正的前端](https://www.ershicimi.com/p/976910ac6c5e9a16bf6777f413860d32) 
 - [2020-04-26-公开课|快到没朋友？程序员必会的yolo模型（附福利）](https://www.ershicimi.com/p/04bd4d83aab01d7c3cf7335205bc118a) 
 - [2020-04-24-5000字解析：前端五种跨平台技术](https://www.ershicimi.com/p/2270e8f111a850c8e1561185cff02b9e) 
@@ -397,6 +398,10 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8) 
+- [2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713) 
+- [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5) 
+- [2020-05-06-怎样成为一名更优秀的程序员？我总结出-7-条建议](https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7) 
 - [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d) 
 - [2020-05-04-20-多年历史的-Java-正在焕发第二春](https://www.ershicimi.com/p/2b8f00296d73629f50e19b8a21d405a6) 
 - [2020-05-04-Spark-3.0-新特性抢先看](https://www.ershicimi.com/p/77ab8d39eed9c2135a747b108107816e) 
@@ -2844,6 +2849,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-07-贼好用的-Java-工具类库，12k+-Star，你在用吗？](https://toutiao.io/k/z3xk2j8) 
 - [2020-05-07-携程玩乐团队前端多端开发实践](https://toutiao.io/k/xbj6m3k) 
 - [2020-05-07-硬核技能-k8s-初体验](https://toutiao.io/k/vy86a0w) 
 - [2020-05-07-Lua-5.4-新特性](https://toutiao.io/k/bdk1z5w) 

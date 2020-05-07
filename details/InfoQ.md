@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-05-05 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8) 
+- [2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713) 
+- [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5) 
+- [2020-05-06-怎样成为一名更优秀的程序员？我总结出-7-条建议](https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7) 
 - [2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f) 
 - [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c) 
 - [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d) 

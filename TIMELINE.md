@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-07 11:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -148,6 +148,8 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-07-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0) 
+- [【前端开发】2020-05-07-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0) 
 - [【前端开发】2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6) 
 - [【前端开发】2020-05-06-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f336468678022d093b027ed5971ed29a) 
 - [【前端大学】2020-05-07-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/8bae95a4a0e3dc569f2e988dbd8fa1b2) 
@@ -209,6 +211,10 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8) 
+- [【InfoQ】2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713) 
+- [【InfoQ】2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5) 
+- [【InfoQ】2020-05-06-怎样成为一名更优秀的程序员？我总结出-7-条建议](https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7) 
 - [【InfoQ】2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f) 
 - [【InfoQ】2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c) 
 - [【InfoQ】2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d) 
@@ -1312,6 +1318,7 @@
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-07-贼好用的-Java-工具类库，12k+-Star，你在用吗？](https://toutiao.io/k/z3xk2j8) 
 - [【开发者头条】2020-05-07-这才是面试官想听的：详解-“递归”-正确的打开方式](https://toutiao.io/k/pb0ox8k) 
 - [【开发者头条】2020-05-07-刨析-HTTP](https://toutiao.io/k/4ah8xz3) 
 - [【开发者头条】2020-05-07-携程玩乐团队前端多端开发实践](https://toutiao.io/k/xbj6m3k) 

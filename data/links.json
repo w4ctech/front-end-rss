@@ -1692,6 +1692,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "裁了一个 3 年前端经验的人，给大家提提醒",
+        "link": "https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "当浏览器全面禁用三方 Cookie",
+        "link": "https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0",
+        "date": "2020-05-07"
+      },
+      {
         "title": "Vue3.0 Beta 来了，正式版还会远吗？",
         "link": "https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6",
         "date": "2020-05-06"
@@ -4309,6 +4319,26 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "收入减半、裁员 25.3％，Airbnb 的“凛冬”已至",
+        "link": "https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "从业务架构视角聊聊大型商业银行的转型实践",
+        "link": "https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会",
+        "link": "https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "怎样成为一名更优秀的程序员？我总结出 7 条建议",
+        "link": "https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7",
+        "date": "2020-05-06"
+      },
       {
         "title": "搞定这些缓存问题，再也不怕和面试官 battle 了",
         "link": "https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f",
@@ -20041,6 +20071,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "贼好用的 Java 工具类库，12k+ Star，你在用吗？",
+        "link": "https://toutiao.io/k/z3xk2j8",
+        "date": "2020-05-07"
+      },
       {
         "title": "这才是面试官想听的：详解 “递归” 正确的打开方式",
         "link": "https://toutiao.io/k/pb0ox8k",

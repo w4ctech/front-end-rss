@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -538,6 +538,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-08-大家好，机缘巧合来到-V2EX-哈哈~](https://www.v2ex.com/t/669471) 
+- [2020-05-08-有个关于设计模式的问题，想请教一下。](https://www.v2ex.com/t/669470) 
+- [2020-05-08-你们还有和童年时代的小伙伴保持联系吗？](https://www.v2ex.com/t/669468) 
+- [2020-05-08-通过-Arduino-把-USB-键盘-转成-PS/2-接口](https://www.v2ex.com/t/669467) 
+- [2020-05-08-快手16-薪起高年终-北京+杭州大力发展中-+深圳等内推](https://www.v2ex.com/t/669466) 
 - [2020-05-07-原来在机器学习领域还有数据工厂这样的名词](https://www.v2ex.com/t/669465) 
 - [2020-05-07-上瘾了，最近又装了-2-台黑苹果](https://www.v2ex.com/t/669464) 
 - [2020-05-07-召唤-Python-大佬-Django-extensions-script-启动时怎么捕捉运行状态?](https://www.v2ex.com/t/669463) 

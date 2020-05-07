@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 00:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 01:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -909,11 +909,13 @@
 </summary>
 
 
-- [2020-05-08-大家好，机缘巧合来到-V2EX-哈哈~](https://www.v2ex.com/t/669471) ![](assets/new.png)  
-- [2020-05-08-有个关于设计模式的问题，想请教一下。](https://www.v2ex.com/t/669470) ![](assets/new.png)  
-- [2020-05-08-你们还有和童年时代的小伙伴保持联系吗？](https://www.v2ex.com/t/669468) ![](assets/new.png)  
-- [2020-05-08-通过-Arduino-把-USB-键盘-转成-PS/2-接口](https://www.v2ex.com/t/669467) ![](assets/new.png)  
-- [2020-05-08-快手16-薪起高年终-北京+杭州大力发展中-+深圳等内推](https://www.v2ex.com/t/669466) ![](assets/new.png)  
+- [2020-05-08-最新增加了性别+敏感词过滤哟-http://chat.osinger.com/](https://www.v2ex.com/t/669474) ![](assets/new.png)  
+- [2020-05-08-记录一下今天鹅厂远面过程吧](https://www.v2ex.com/t/669473) ![](assets/new.png)  
+- [2020-05-08-大家好，机缘巧合来到-V2EX-哈哈~](https://www.v2ex.com/t/669471)  
+- [2020-05-08-有个关于设计模式的问题，想请教一下。](https://www.v2ex.com/t/669470)  
+- [2020-05-08-你们还有和童年时代的小伙伴保持联系吗？](https://www.v2ex.com/t/669468)  
+- [2020-05-08-通过-Arduino-把-USB-键盘-转成-PS/2-接口](https://www.v2ex.com/t/669467)  
+- [2020-05-08-快手16-薪起高年终-北京+杭州大力发展中-+深圳等内推](https://www.v2ex.com/t/669466)  
 - [2020-05-07-原来在机器学习领域还有数据工厂这样的名词](https://www.v2ex.com/t/669465)  
 - [2020-05-07-上瘾了，最近又装了-2-台黑苹果](https://www.v2ex.com/t/669464)  
 - [2020-05-07-召唤-Python-大佬-Django-extensions-script-启动时怎么捕捉运行状态?](https://www.v2ex.com/t/669463)  
@@ -927,8 +929,6 @@
 - [2020-05-07-19-年工科毕业还能找到互联网相关的吗？](https://www.v2ex.com/t/669455)  
 - [2020-05-07-坐标上海，找设计兼职或外包](https://www.v2ex.com/t/669454)  
 - [2020-05-07-字节跳动-杭州/上海/武汉/广州/深圳/北京-大量职位热招啦～](https://www.v2ex.com/t/669453)  
-- [2020-05-07-请教-docker-TensorFlow/Saving，部署模型的时候怎样配置或者判断显存应该是多少。](https://www.v2ex.com/t/669452)  
-- [2020-05-07-新建了个导航网，希望大佬给点整改意见](https://www.v2ex.com/t/669450)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

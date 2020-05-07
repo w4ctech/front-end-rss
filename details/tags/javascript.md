@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -107,6 +107,8 @@
 - [2020-04-24-Hybrids：一个用于从纯对象和函数来创建-Web-Components-的-UI-库](https://javascriptweekly.com/link/63637/web) 
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
+- [2020-05-07-看了一圈，无线网卡比无线路由贵一大截，是不是买个无线路由回来桥接更划算？](https://www.v2ex.com/t/669392) 
+- [2020-05-07-前端有没有那种视频截图且可以裁剪大小的组件](https://www.v2ex.com/t/669373) 
 - [2020-05-07-请教下，静态类型语言单个接口可以接收多种结构-json-序列化后的数据，怎么处理比较好？](https://www.v2ex.com/t/669267) 
 - [2020-05-07-出租屋不能自装宽带-咨询一下插卡路由怎么样](https://www.v2ex.com/t/669229) 
 - [2020-05-06-发现-Bind-9-的-banner-不一般...](https://www.v2ex.com/t/669083) 

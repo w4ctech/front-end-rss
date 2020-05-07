@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -31,6 +31,7 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-07-杭州-有赞-10k-40k-招聘前端工程师，-Java-工程师等，待遇优厚](https://www.v2ex.com/t/669410) 
 - [2020-05-07-腾讯招聘-腾讯-IMWEB-团队招聘前端、高级前端工程师！快速安排面试！](https://www.v2ex.com/t/669222) 
 - [2020-05-07-北京美团-招聘-iOS-中高级开发工程师](https://www.v2ex.com/t/669212) 
 - [2020-05-07-关于闭包的一个面试题,-这是为什么啊](https://www.v2ex.com/t/669195) 

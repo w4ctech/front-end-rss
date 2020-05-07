@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -28,6 +28,7 @@
 - [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/e3b2ca58705fd883ff0307c940c6e21f) 
 - [2020-04-26-前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网](https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e) 
 - [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626) 
+- [2020-05-05-面试题：Vue中$nextTick原理](https://www.ershicimi.com/p/62e42c223887101bb1df100384ce3470) 
 - [2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c) 
 - [2020-04-17-vue3.0-Beta发布，顺便来看看Vue3-的响应式和以前有什么区别](https://www.ershicimi.com/p/e5bcbdbf16b51187a99282f4f9746e02) 
 - [2020-04-28-Vue-3.0-这个迷人的小妖精，到底好在哪里？](https://www.ershicimi.com/p/3d0afafbf1e1a886393c500356e38136) 
@@ -52,6 +53,8 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-07-一款基于-Vue-的组态底图开发工具](https://www.v2ex.com/t/669416) 
+- [2020-05-07-迫于朋友焦虑，再求一波广深-vue-坑](https://www.v2ex.com/t/669405) 
 - [2020-05-07-vuex-更新多级数据，如何使用比较好？](https://www.v2ex.com/t/669110) 
 - [2020-05-06-使用-vuex-接收-web-worker-处理的上传返回的信息，导致页面卡顿，未响应？](https://www.v2ex.com/t/668931) 
 - [2020-05-06-深圳-南山-前端工程师（VUE-+-webpack）10-15K·13-薪](https://www.v2ex.com/t/668921) 

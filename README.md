@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 22:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 23:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -45,13 +45,13 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -388,6 +388,9 @@
 </summary>
 
 
+- [2020-05-07-移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/dde6b1da240b9737ece0c395cb95ed31) ![](assets/new.png)  
+- [2020-05-06-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/2b242790142b8cde52599c8ec77997d6) ![](assets/new.png)  
+- [2020-05-06-【万字长文】深入理解-Typescript-高级用法](https://www.ershicimi.com/p/b388ae9f0394ef6fdc78a667e795f3c2) ![](assets/new.png)  
 - [2020-05-05-12个前端必会-H5-问题及解决方法](https://www.ershicimi.com/p/b347b11b68c0c4a8fd1b3231fa670fda)  
 - [2020-05-04-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/ba6d63d622cb150af6a4bcc0e88d3833)  
 - [2020-05-03-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df)  
@@ -405,9 +408,6 @@
 - [2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b)  
 - [2020-04-21-Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b)  
 - [2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/c9b0a43ba156bec22c228b099cc1a582)  
-- [2020-04-19-赶在读书日之前,送前端经典图书](https://www.ershicimi.com/p/d7775e07181f16d7c158c36bb5f42ec6)  
-- [2020-04-18-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/edc0aeaa4a7ab243f5e2b9cd209e2935)  
-- [2020-04-17-还没用React做过项目？2020年，就要面对现实了...](https://www.ershicimi.com/p/f506d0f14dc3b70a9d59eebd9f17df9d)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -749,6 +749,7 @@
 </summary>
 
 
+- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) ![](assets/new.png)  
 - [2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805)  
 - [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/5228bf493683eb5721d917bd1125a2b6)  
@@ -877,6 +878,9 @@
 </summary>
 
 
+- [2020-05-07-今天想聊聊，我们为什么变成了「知妈乎」](https://www.ershicimi.com/p/162cbcd88c785fec066b4762e4250277) ![](assets/new.png)  
+- [2020-05-07-一句话回答：为什么非洲草原似乎都是黄色的？](https://www.ershicimi.com/p/56d7774c6cdcdb1a5d2f86ce817ff827) ![](assets/new.png)  
+- [2020-05-07-知乎故事-|-有没有人掉入深层梦境再也醒不来？](https://www.ershicimi.com/p/9eee31444663855c4542571b00c1efd0) ![](assets/new.png)  
 - [2020-05-06-警告：你的孩子可能是个「问题儿童」](https://www.ershicimi.com/p/b5c12526c978f48f1539463cf1c9eef9)  
 - [2020-05-06-喝一杯-1-万米水深处的海水会怎么样？](https://www.ershicimi.com/p/47f0140ba954975e73ce93b366c5e9d4)  
 - [2020-05-06-出门看人山人海，不如在家看看这几个公众号](https://www.ershicimi.com/p/f16028c04f76217cc74b1ee1fd4bf45d)  
@@ -894,9 +898,6 @@
 - [2020-05-02-知乎神吐槽-|-有哪些特征一眼就会被看出是-iPhone-用户？](https://www.ershicimi.com/p/b67c691c10a61523017e7c15dcd295b7)  
 - [2020-05-02-五一特供剧场，宠爱你的「少女心」](https://www.ershicimi.com/p/ae5136b9b655457c93ab1c695a2987aa)  
 - [2020-05-02-知乎故事-|-男女之间有纯友谊吗？](https://www.ershicimi.com/p/794510bc968c3d0aa40284aaa3e15033)  
-- [2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26)  
-- [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)  
-- [2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -908,11 +909,11 @@
 </summary>
 
 
-- [2020-05-07-跟风写了一个财经导航站，大家点评以下](https://www.v2ex.com/t/669446) ![](assets/new.png)  
-- [2020-05-07-字母内容-JUNLIA-要怎么翻译成中文比较有气质？](https://www.v2ex.com/t/669445) ![](assets/new.png)  
-- [2020-05-07-重返盛世——大唐安居-DTAJ.COM](https://www.v2ex.com/t/669444) ![](assets/new.png)  
-- [2020-05-07-知乎+19-楼会变成怎么样呢？](https://www.v2ex.com/t/669443) ![](assets/new.png)  
-- [2020-05-07-Windows-总是删除-GRUB-的引导项，怎么破？](https://www.v2ex.com/t/669442) ![](assets/new.png)  
+- [2020-05-07-跟风写了一个财经导航站，大家点评以下](https://www.v2ex.com/t/669446)  
+- [2020-05-07-字母内容-JUNLIA-要怎么翻译成中文比较有气质？](https://www.v2ex.com/t/669445)  
+- [2020-05-07-重返盛世——大唐安居-DTAJ.COM](https://www.v2ex.com/t/669444)  
+- [2020-05-07-知乎+19-楼会变成怎么样呢？](https://www.v2ex.com/t/669443)  
+- [2020-05-07-Windows-总是删除-GRUB-的引导项，怎么破？](https://www.v2ex.com/t/669442)  
 - [2020-05-07-微信批量加好友能做吗？](https://www.v2ex.com/t/669441)  
 - [2020-05-07-淘宝上海外杂志的订阅账号为什么这么便宜？](https://www.v2ex.com/t/669440)  
 - [2020-05-07-第一天去上班，得知，](https://www.v2ex.com/t/669439)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -260,6 +260,7 @@
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 
+- [2020-05-06-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/2b242790142b8cde52599c8ec77997d6) 
 - [2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1) 
 - [2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
 - [2020-04-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/a5329585912d133b6a113711b3475bb5) 
@@ -481,6 +482,9 @@
 - [2020-04-24-开发人员指南，不要损失你需要的指标](https://javascriptweekly.com/link/63621/web) 
 - [2020-04-24-▶-观看创建一个交易机器人](https://javascriptweekly.com/link/63624/web) 
 - [2020-04-24-获得最快的网站部署。免费入门](https://javascriptweekly.com/link/63642/web) 
+- [2020-05-07-今天想聊聊，我们为什么变成了「知妈乎」](https://www.ershicimi.com/p/162cbcd88c785fec066b4762e4250277) 
+- [2020-05-07-一句话回答：为什么非洲草原似乎都是黄色的？](https://www.ershicimi.com/p/56d7774c6cdcdb1a5d2f86ce817ff827) 
+- [2020-05-07-知乎故事-|-有没有人掉入深层梦境再也醒不来？](https://www.ershicimi.com/p/9eee31444663855c4542571b00c1efd0) 
 - [2020-05-06-警告：你的孩子可能是个「问题儿童」](https://www.ershicimi.com/p/b5c12526c978f48f1539463cf1c9eef9) 
 - [2020-05-06-喝一杯-1-万米水深处的海水会怎么样？](https://www.ershicimi.com/p/47f0140ba954975e73ce93b366c5e9d4) 
 - [2020-05-06-出门看人山人海，不如在家看看这几个公众号](https://www.ershicimi.com/p/f16028c04f76217cc74b1ee1fd4bf45d) 

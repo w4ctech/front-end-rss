@@ -5458,6 +5458,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "升级 Catalina 之后，按辅助键的时候，右上角出现了这个图标。",
+        "link": "https://www.v2ex.com/t/669134",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "Surface Book 3 发布，最高可以配置 Quadro RTX 3000 专业显卡",
+        "link": "https://www.v2ex.com/t/669133",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "笔记本电脑购买求助",
+        "link": "https://www.v2ex.com/t/669131",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "GMK ██████ REDACTED KEYCAP SET",
+        "link": "https://www.v2ex.com/t/669130",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "是不是搞 IT 的都是离开咖啡会死",
+        "link": "https://www.v2ex.com/t/669129",
+        "date": "2020-05-07"
+      },
+      {
         "title": "300G 的文件怎么备份？",
         "link": "https://www.v2ex.com/t/669127",
         "date": "2020-05-07"
@@ -20006,6 +20031,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "百亿级日志系统架构设计及优化",
+        "link": "https://toutiao.io/k/ywbfms1",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "LevelDB 完全解析（四）：Manifest",
+        "link": "https://toutiao.io/k/oympicz",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "传统企业的人才们，先别忙着跳 “互联网”",
+        "link": "https://toutiao.io/k/wssfon3",
+        "date": "2020-05-07"
+      },
       {
         "title": "学会使用 context 取消 goroutine 执行的方法",
         "link": "https://toutiao.io/k/4xbxodi",

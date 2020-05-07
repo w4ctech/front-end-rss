@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-07 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -239,6 +239,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-07-升级-Catalina-之后，按辅助键的时候，右上角出现了这个图标。](https://www.v2ex.com/t/669134) 
+- [【V2EX】2020-05-07-Surface-Book-3-发布，最高可以配置-Quadro-RTX-3000-专业显卡](https://www.v2ex.com/t/669133) 
+- [【V2EX】2020-05-07-笔记本电脑购买求助](https://www.v2ex.com/t/669131) 
+- [【V2EX】2020-05-07-GMK-██████-REDACTED-KEYCAP-SET](https://www.v2ex.com/t/669130) 
+- [【V2EX】2020-05-07-是不是搞-IT-的都是离开咖啡会死](https://www.v2ex.com/t/669129) 
 - [【V2EX】2020-05-07-300G-的文件怎么备份？](https://www.v2ex.com/t/669127) 
 - [【V2EX】2020-05-07-今天早晨一场全球性的-FaceBook-针对-iOS-系统-DOS-攻击。。。:P](https://www.v2ex.com/t/669126) 
 - [【V2EX】2020-05-07-似乎不支持-*.dev-的-URL-自动变为-link？](https://www.v2ex.com/t/669125) 
@@ -1305,6 +1310,9 @@
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1) 
+- [【开发者头条】2020-05-07-LevelDB-完全解析（四）：Manifest](https://toutiao.io/k/oympicz) 
+- [【开发者头条】2020-05-07-传统企业的人才们，先别忙着跳-“互联网”](https://toutiao.io/k/wssfon3) 
 - [【开发者头条】2020-05-07-学会使用-context-取消-goroutine-执行的方法](https://toutiao.io/k/4xbxodi) 
 - [【开发者头条】2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk) 
 - [【开发者头条】2020-05-07-Kotlin-多态和扩展学习笔记（五）](https://toutiao.io/k/agg8vrk) 

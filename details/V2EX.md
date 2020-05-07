@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-07-升级-Catalina-之后，按辅助键的时候，右上角出现了这个图标。](https://www.v2ex.com/t/669134) 
+- [2020-05-07-Surface-Book-3-发布，最高可以配置-Quadro-RTX-3000-专业显卡](https://www.v2ex.com/t/669133) 
+- [2020-05-07-笔记本电脑购买求助](https://www.v2ex.com/t/669131) 
+- [2020-05-07-GMK-██████-REDACTED-KEYCAP-SET](https://www.v2ex.com/t/669130) 
+- [2020-05-07-是不是搞-IT-的都是离开咖啡会死](https://www.v2ex.com/t/669129) 
 - [2020-05-07-300G-的文件怎么备份？](https://www.v2ex.com/t/669127) 
 - [2020-05-07-今天早晨一场全球性的-FaceBook-针对-iOS-系统-DOS-攻击。。。:P](https://www.v2ex.com/t/669126) 
 - [2020-05-07-似乎不支持-*.dev-的-URL-自动变为-link？](https://www.v2ex.com/t/669125) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 08:30:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 09:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -169,8 +169,8 @@
 </summary>
 
 
-- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126) ![](assets/new.png)  
-- [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1) ![](assets/new.png)  
+- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
+- [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)  
 - [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)  
 - [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
 - [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
@@ -906,11 +906,16 @@
 </summary>
 
 
-- [2020-05-07-300G-的文件怎么备份？](https://www.v2ex.com/t/669127) ![](assets/new.png)  
-- [2020-05-07-今天早晨一场全球性的-FaceBook-针对-iOS-系统-DOS-攻击。。。:P](https://www.v2ex.com/t/669126) ![](assets/new.png)  
-- [2020-05-07-似乎不支持-*.dev-的-URL-自动变为-link？](https://www.v2ex.com/t/669125) ![](assets/new.png)  
-- [2020-05-07-如何移除-dropbox-强行在-Mac-右键菜单添加的“使用转移发送”？](https://www.v2ex.com/t/669124) ![](assets/new.png)  
-- [2020-05-07-做了一个烂大街的小程序，我来献上自己的运营数据，欢迎大家给意见](https://www.v2ex.com/t/669123) ![](assets/new.png)  
+- [2020-05-07-升级-Catalina-之后，按辅助键的时候，右上角出现了这个图标。](https://www.v2ex.com/t/669134) ![](assets/new.png)  
+- [2020-05-07-Surface-Book-3-发布，最高可以配置-Quadro-RTX-3000-专业显卡](https://www.v2ex.com/t/669133) ![](assets/new.png)  
+- [2020-05-07-笔记本电脑购买求助](https://www.v2ex.com/t/669131) ![](assets/new.png)  
+- [2020-05-07-GMK-██████-REDACTED-KEYCAP-SET](https://www.v2ex.com/t/669130) ![](assets/new.png)  
+- [2020-05-07-是不是搞-IT-的都是离开咖啡会死](https://www.v2ex.com/t/669129) ![](assets/new.png)  
+- [2020-05-07-300G-的文件怎么备份？](https://www.v2ex.com/t/669127)  
+- [2020-05-07-今天早晨一场全球性的-FaceBook-针对-iOS-系统-DOS-攻击。。。:P](https://www.v2ex.com/t/669126)  
+- [2020-05-07-似乎不支持-*.dev-的-URL-自动变为-link？](https://www.v2ex.com/t/669125)  
+- [2020-05-07-如何移除-dropbox-强行在-Mac-右键菜单添加的“使用转移发送”？](https://www.v2ex.com/t/669124)  
+- [2020-05-07-做了一个烂大街的小程序，我来献上自己的运营数据，欢迎大家给意见](https://www.v2ex.com/t/669123)  
 - [2020-05-07-LTUI-v1.7-发布,-一个基于-lua-的跨平台字符终端-UI-界面库](https://www.v2ex.com/t/669121)  
 - [2020-05-07-发现一个适合数据库工程师玩的域名后缀](https://www.v2ex.com/t/669120)  
 - [2020-05-07-国外的线路是不是好多都变慢了啊](https://www.v2ex.com/t/669119)  
@@ -921,11 +926,6 @@
 - [2020-05-07-上海移动家庭宽带登游戏平台发现的一些问题](https://www.v2ex.com/t/669113)  
 - [2020-05-07-光猫“贝尔-I-010G”的认证方式是？](https://www.v2ex.com/t/669112)  
 - [2020-05-07-9.9-的公司不能注册，-300-的商标能注册吗？](https://www.v2ex.com/t/669111)  
-- [2020-05-07-vuex-更新多级数据，如何使用比较好？](https://www.v2ex.com/t/669110)  
-- [2020-05-07-Inter-uhd-显卡，不等同于-NVIDIA-GPU-吧](https://www.v2ex.com/t/669107)  
-- [2020-05-07-现在有能够完全脱离-node.js-和-npm-的跨平台前端开发的解决方案吗？](https://www.v2ex.com/t/669106)  
-- [2020-05-06-我们在运营社区，在哪里投广告会比较好？](https://www.v2ex.com/t/669104)  
-- [2020-05-06-快手16-薪起高年终-北京+杭州大力发展中-+深圳+上海等地内推](https://www.v2ex.com/t/669103)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -968,15 +968,18 @@
 </summary>
 
 
-- [2020-05-07-学会使用-context-取消-goroutine-执行的方法](https://toutiao.io/k/4xbxodi) ![](assets/new.png)  
-- [2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk) ![](assets/new.png)  
-- [2020-05-07-Kotlin-多态和扩展学习笔记（五）](https://toutiao.io/k/agg8vrk) ![](assets/new.png)  
-- [2020-05-07-漫谈分布式系统（十一）：达成共识就是一致](https://toutiao.io/k/xvuwqft) ![](assets/new.png)  
-- [2020-05-07-大数据算法应用的测试发展之路](https://toutiao.io/k/t3crl2l) ![](assets/new.png)  
-- [2020-05-07-Linux-管道那些事儿](https://toutiao.io/k/gu3s48a) ![](assets/new.png)  
-- [2020-05-07-Java-如何实现优雅停服？刨根问底](https://toutiao.io/k/1np0b1u) ![](assets/new.png)  
-- [2020-05-07-万字破解云原生可观测性](https://toutiao.io/k/8ak7gc7) ![](assets/new.png)  
-- [2020-05-07-每个开发都会用到的国内开发资源镜像一览](https://toutiao.io/k/4rczfse) ![](assets/new.png)  
+- [2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1) ![](assets/new.png)  
+- [2020-05-07-LevelDB-完全解析（四）：Manifest](https://toutiao.io/k/oympicz) ![](assets/new.png)  
+- [2020-05-07-传统企业的人才们，先别忙着跳-“互联网”](https://toutiao.io/k/wssfon3) ![](assets/new.png)  
+- [2020-05-07-学会使用-context-取消-goroutine-执行的方法](https://toutiao.io/k/4xbxodi)  
+- [2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk)  
+- [2020-05-07-Kotlin-多态和扩展学习笔记（五）](https://toutiao.io/k/agg8vrk)  
+- [2020-05-07-漫谈分布式系统（十一）：达成共识就是一致](https://toutiao.io/k/xvuwqft)  
+- [2020-05-07-大数据算法应用的测试发展之路](https://toutiao.io/k/t3crl2l)  
+- [2020-05-07-Linux-管道那些事儿](https://toutiao.io/k/gu3s48a)  
+- [2020-05-07-Java-如何实现优雅停服？刨根问底](https://toutiao.io/k/1np0b1u)  
+- [2020-05-07-万字破解云原生可观测性](https://toutiao.io/k/8ak7gc7)  
+- [2020-05-07-每个开发都会用到的国内开发资源镜像一览](https://toutiao.io/k/4rczfse)  
 - [2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942)  
 - [2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9)  
 - [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti)  
@@ -985,9 +988,6 @@
 - [2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx)  
 - [2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2)  
 - [2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza)  
-- [2020-05-06-LeetCode-206：反转链表](https://toutiao.io/k/ft1ivxx)  
-- [2020-05-06-Go-1.15-都有哪些值得关注的变化？](https://toutiao.io/k/xj5aubd)  
-- [2020-05-06-译-深入理解-IPFS：消费/订阅系统](https://toutiao.io/k/ax1u0b9)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

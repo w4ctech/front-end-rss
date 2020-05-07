@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -519,6 +519,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-07-LTUI-v1.7-发布,-一个基于-lua-的跨平台字符终端-UI-界面库](https://www.v2ex.com/t/669121) 
 - [2020-05-07-发现一个适合数据库工程师玩的域名后缀](https://www.v2ex.com/t/669120) 
 - [2020-05-07-国外的线路是不是好多都变慢了啊](https://www.v2ex.com/t/669119) 
 - [2020-05-07-好友关系用数据库怎么存？](https://www.v2ex.com/t/669118) 

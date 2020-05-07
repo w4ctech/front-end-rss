@@ -5448,6 +5448,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "LTUI v1.7 发布, 一个基于 lua 的跨平台字符终端 UI 界面库",
+        "link": "https://www.v2ex.com/t/669121",
+        "date": "2020-05-07"
+      },
+      {
         "title": "发现一个适合数据库工程师玩的域名后缀",
         "link": "https://www.v2ex.com/t/669120",
         "date": "2020-05-07"

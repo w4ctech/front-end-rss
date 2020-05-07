@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-07 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 22:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -173,6 +173,7 @@
 
 - [【前端之巅】Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
+- [【前端宇宙】node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)
 - [【前端瓶子君】抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)
 - [【程序员成长指北】关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b)
 - [【程序员成长指北】Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的？](https://www.ershicimi.com/p/e58c21972ddddaafef6c923fdd6a73ee)
@@ -190,7 +191,6 @@
 - [【凹凸实验室】【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/)
 - [【掘金前端】V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0)
 - [【掘金前端】Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703)
-- [【印记中文周刊】Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -537,12 +537,12 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】工作中-Vim-用得多吗？](https://www.v2ex.com/t/669428)
 - [【V2EX】PHP-全栈开发接活](https://www.v2ex.com/t/669254)
 - [【V2EX】Inter-uhd-显卡，不等同于-NVIDIA-GPU-吧](https://www.v2ex.com/t/669107)
 - [【V2EX】http-代理是否能监控到用户的行为？](https://www.v2ex.com/t/669043)
 - [【V2EX】vim+Readline-快捷键+mac-osx-重度用户，求键盘推荐](https://www.v2ex.com/t/669041)
 - [【V2EX】为什么现在-http-环境这么差](https://www.v2ex.com/t/668949)
-- [【V2EX】免费好用的-Paste-替代品-CCboard](https://www.v2ex.com/t/668920)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 01:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 02:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -909,11 +909,12 @@
 </summary>
 
 
-- [2020-05-08-张小龙平时办公的时候会用微信吗，他难道不会觉得难用吗-，一些很重要的文件说清理就被清理了](https://www.v2ex.com/t/669479) ![](assets/new.png)  
-- [2020-05-08-前端有点干腻了，想转后端](https://www.v2ex.com/t/669478) ![](assets/new.png)  
-- [2020-05-08-做了个转链工具让京东恰饭链接可以在微博客户端打开](https://www.v2ex.com/t/669477) ![](assets/new.png)  
-- [2020-05-08-组队学-Java](https://www.v2ex.com/t/669476) ![](assets/new.png)  
-- [2020-05-08-请教各位，这封邮件有没有-Inappropriate-的地方](https://www.v2ex.com/t/669475) ![](assets/new.png)  
+- [2020-05-08-自己有多余的买的服务器，给有需要的-v-友用](https://www.v2ex.com/t/669481) ![](assets/new.png)  
+- [2020-05-08-张小龙平时办公的时候会用微信吗，他难道不会觉得难用吗-，一些很重要的文件说清理就被清理了](https://www.v2ex.com/t/669479)  
+- [2020-05-08-前端有点干腻了，想转后端](https://www.v2ex.com/t/669478)  
+- [2020-05-08-做了个转链工具让京东恰饭链接可以在微博客户端打开](https://www.v2ex.com/t/669477)  
+- [2020-05-08-组队学-Java](https://www.v2ex.com/t/669476)  
+- [2020-05-08-请教各位，这封邮件有没有-Inappropriate-的地方](https://www.v2ex.com/t/669475)  
 - [2020-05-08-最新增加了性别+敏感词过滤哟-http://chat.osinger.com/](https://www.v2ex.com/t/669474)  
 - [2020-05-08-记录一下今天鹅厂远面过程吧](https://www.v2ex.com/t/669473)  
 - [2020-05-08-大家好，机缘巧合来到-V2EX-哈哈~](https://www.v2ex.com/t/669471)  
@@ -928,7 +929,6 @@
 - [2020-05-07-某宝买到劣质产品，就该退货息事宁人吗？](https://www.v2ex.com/t/669461)  
 - [2020-05-07-大家现在的社交情况是怎样的？感觉有点焦虑](https://www.v2ex.com/t/669460)  
 - [2020-05-07-STARTUP-4-寻求增长黑客](https://www.v2ex.com/t/669459)  
-- [2020-05-07-求问有没有检测恶意域名的-api，-VirusTotal-注册不上！](https://www.v2ex.com/t/669458)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

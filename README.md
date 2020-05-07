@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 09:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 10:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -284,6 +284,8 @@
 </summary>
 
 
+- [2020-05-07-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/8bae95a4a0e3dc569f2e988dbd8fa1b2) ![](assets/new.png)  
+- [2020-05-07-【每天两小时】手撸象棋的第一天](https://www.ershicimi.com/p/9fd0935749413916f3051fa6106c15ad) ![](assets/new.png)  
 - [2020-05-06-建议阅读：前端未来新方向](https://www.ershicimi.com/p/c633e1e27e9bfc9ebbcb5b96555ddd9a)  
 - [2020-05-06-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/d1b8fed7619b95a02538154895ed9c0a)  
 - [2020-05-05-微信又添新功能！这个微信群可以学英语，而且全程免费](https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f)  
@@ -302,8 +304,6 @@
 - [2020-04-24-免费领“重学前端”全套教程，还有Vue项目,JS实战都免费开放了！](https://www.ershicimi.com/p/ac812219748ae5b03be1bc835ba79557)  
 - [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/e3b2ca58705fd883ff0307c940c6e21f)  
 - [2020-04-23-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/551844561d84eabdb405593fbc6c2253)  
-- [2020-04-23-ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e)  
-- [2020-04-22-疫情之下，这个前端工程师的“壮举”，我们也该学会！](https://www.ershicimi.com/p/56b9703b879fa715ab187d3d9e23b2f2)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -968,9 +968,14 @@
 </summary>
 
 
-- [2020-05-07-MinIO-的分布式部署](https://toutiao.io/k/u50ivyq) ![](assets/new.png)  
-- [2020-05-07-如何将-Spark-的-shuffle-移植到自己业务](https://toutiao.io/k/6vbix31) ![](assets/new.png)  
-- [2020-05-07-基于对象可达性原理解决-Handler-引起内存泄露问题](https://toutiao.io/k/klg5lkc) ![](assets/new.png)  
+- [2020-05-07-这才是面试官想听的：详解-“递归”-正确的打开方式](https://toutiao.io/k/pb0ox8k) ![](assets/new.png)  
+- [2020-05-07-刨析-HTTP](https://toutiao.io/k/4ah8xz3) ![](assets/new.png)  
+- [2020-05-07-携程玩乐团队前端多端开发实践](https://toutiao.io/k/xbj6m3k) ![](assets/new.png)  
+- [2020-05-07-硬核技能-k8s-初体验](https://toutiao.io/k/vy86a0w) ![](assets/new.png)  
+- [2020-05-07-Lua-5.4-新特性](https://toutiao.io/k/bdk1z5w) ![](assets/new.png)  
+- [2020-05-07-MinIO-的分布式部署](https://toutiao.io/k/u50ivyq)  
+- [2020-05-07-如何将-Spark-的-shuffle-移植到自己业务](https://toutiao.io/k/6vbix31)  
+- [2020-05-07-基于对象可达性原理解决-Handler-引起内存泄露问题](https://toutiao.io/k/klg5lkc)  
 - [2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1)  
 - [2020-05-07-LevelDB-完全解析（四）：Manifest](https://toutiao.io/k/oympicz)  
 - [2020-05-07-传统企业的人才们，先别忙着跳-“互联网”](https://toutiao.io/k/wssfon3)  
@@ -983,11 +988,6 @@
 - [2020-05-07-Java-如何实现优雅停服？刨根问底](https://toutiao.io/k/1np0b1u)  
 - [2020-05-07-万字破解云原生可观测性](https://toutiao.io/k/8ak7gc7)  
 - [2020-05-07-每个开发都会用到的国内开发资源镜像一览](https://toutiao.io/k/4rczfse)  
-- [2020-05-06-二线城市的程序员活得好吗？](https://toutiao.io/k/wpnn942)  
-- [2020-05-06-推荐系统的未来发展](https://toutiao.io/k/t55x3u9)  
-- [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti)  
-- [2020-05-06-搭建-Node-服务（一）：日志处理](https://toutiao.io/k/39ji82b)  
-- [2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1810,6 +1810,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "20 分钟前，我淘汰了一个前端高级工程师",
+        "link": "https://www.ershicimi.com/p/8bae95a4a0e3dc569f2e988dbd8fa1b2",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "【每天两小时】手撸象棋的第一天",
+        "link": "https://www.ershicimi.com/p/9fd0935749413916f3051fa6106c15ad",
+        "date": "2020-05-07"
+      },
+      {
         "title": "建议阅读：前端未来新方向",
         "link": "https://www.ershicimi.com/p/c633e1e27e9bfc9ebbcb5b96555ddd9a",
         "date": "2020-05-06"
@@ -20031,6 +20041,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "这才是面试官想听的：详解 “递归” 正确的打开方式",
+        "link": "https://toutiao.io/k/pb0ox8k",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "刨析 HTTP",
+        "link": "https://toutiao.io/k/4ah8xz3",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "携程玩乐团队前端多端开发实践",
+        "link": "https://toutiao.io/k/xbj6m3k",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "硬核技能 k8s 初体验",
+        "link": "https://toutiao.io/k/vy86a0w",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "Lua 5.4 新特性",
+        "link": "https://toutiao.io/k/bdk1z5w",
+        "date": "2020-05-07"
+      },
       {
         "title": "MinIO 的分布式部署",
         "link": "https://toutiao.io/k/u50ivyq",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-07 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -221,6 +221,8 @@
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2) 
 - [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd) 
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
+- [2020-05-07-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/8bae95a4a0e3dc569f2e988dbd8fa1b2) 
+- [2020-05-07-【每天两小时】手撸象棋的第一天](https://www.ershicimi.com/p/9fd0935749413916f3051fa6106c15ad) 
 - [2020-05-06-建议阅读：前端未来新方向](https://www.ershicimi.com/p/c633e1e27e9bfc9ebbcb5b96555ddd9a) 
 - [2020-05-05-微信又添新功能！这个微信群可以学英语，而且全程免费](https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f) 
 - [2020-05-05-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/d5ef9e5ca4ca10d8c13abaa901598ab6) 
@@ -2842,6 +2844,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-07-携程玩乐团队前端多端开发实践](https://toutiao.io/k/xbj6m3k) 
+- [2020-05-07-硬核技能-k8s-初体验](https://toutiao.io/k/vy86a0w) 
+- [2020-05-07-Lua-5.4-新特性](https://toutiao.io/k/bdk1z5w) 
 - [2020-05-07-MinIO-的分布式部署](https://toutiao.io/k/u50ivyq) 
 - [2020-05-07-如何将-Spark-的-shuffle-移植到自己业务](https://toutiao.io/k/6vbix31) 
 - [2020-05-07-基于对象可达性原理解决-Handler-引起内存泄露问题](https://toutiao.io/k/klg5lkc) 

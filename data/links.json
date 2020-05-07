@@ -20032,6 +20032,21 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "MinIO 的分布式部署",
+        "link": "https://toutiao.io/k/u50ivyq",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "如何将 Spark 的 shuffle 移植到自己业务",
+        "link": "https://toutiao.io/k/6vbix31",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "基于对象可达性原理解决 Handler 引起内存泄露问题",
+        "link": "https://toutiao.io/k/klg5lkc",
+        "date": "2020-05-07"
+      },
+      {
         "title": "百亿级日志系统架构设计及优化",
         "link": "https://toutiao.io/k/ywbfms1",
         "date": "2020-05-07"

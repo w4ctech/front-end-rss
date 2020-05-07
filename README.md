@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-07 09:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-07 09:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -906,11 +906,11 @@
 </summary>
 
 
-- [2020-05-07-升级-Catalina-之后，按辅助键的时候，右上角出现了这个图标。](https://www.v2ex.com/t/669134) ![](assets/new.png)  
-- [2020-05-07-Surface-Book-3-发布，最高可以配置-Quadro-RTX-3000-专业显卡](https://www.v2ex.com/t/669133) ![](assets/new.png)  
-- [2020-05-07-笔记本电脑购买求助](https://www.v2ex.com/t/669131) ![](assets/new.png)  
-- [2020-05-07-GMK-██████-REDACTED-KEYCAP-SET](https://www.v2ex.com/t/669130) ![](assets/new.png)  
-- [2020-05-07-是不是搞-IT-的都是离开咖啡会死](https://www.v2ex.com/t/669129) ![](assets/new.png)  
+- [2020-05-07-升级-Catalina-之后，按辅助键的时候，右上角出现了这个图标。](https://www.v2ex.com/t/669134)  
+- [2020-05-07-Surface-Book-3-发布，最高可以配置-Quadro-RTX-3000-专业显卡](https://www.v2ex.com/t/669133)  
+- [2020-05-07-笔记本电脑购买求助](https://www.v2ex.com/t/669131)  
+- [2020-05-07-GMK-██████-REDACTED-KEYCAP-SET](https://www.v2ex.com/t/669130)  
+- [2020-05-07-是不是搞-IT-的都是离开咖啡会死](https://www.v2ex.com/t/669129)  
 - [2020-05-07-300G-的文件怎么备份？](https://www.v2ex.com/t/669127)  
 - [2020-05-07-今天早晨一场全球性的-FaceBook-针对-iOS-系统-DOS-攻击。。。:P](https://www.v2ex.com/t/669126)  
 - [2020-05-07-似乎不支持-*.dev-的-URL-自动变为-link？](https://www.v2ex.com/t/669125)  
@@ -968,9 +968,12 @@
 </summary>
 
 
-- [2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1) ![](assets/new.png)  
-- [2020-05-07-LevelDB-完全解析（四）：Manifest](https://toutiao.io/k/oympicz) ![](assets/new.png)  
-- [2020-05-07-传统企业的人才们，先别忙着跳-“互联网”](https://toutiao.io/k/wssfon3) ![](assets/new.png)  
+- [2020-05-07-MinIO-的分布式部署](https://toutiao.io/k/u50ivyq) ![](assets/new.png)  
+- [2020-05-07-如何将-Spark-的-shuffle-移植到自己业务](https://toutiao.io/k/6vbix31) ![](assets/new.png)  
+- [2020-05-07-基于对象可达性原理解决-Handler-引起内存泄露问题](https://toutiao.io/k/klg5lkc) ![](assets/new.png)  
+- [2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1)  
+- [2020-05-07-LevelDB-完全解析（四）：Manifest](https://toutiao.io/k/oympicz)  
+- [2020-05-07-传统企业的人才们，先别忙着跳-“互联网”](https://toutiao.io/k/wssfon3)  
 - [2020-05-07-学会使用-context-取消-goroutine-执行的方法](https://toutiao.io/k/4xbxodi)  
 - [2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk)  
 - [2020-05-07-Kotlin-多态和扩展学习笔记（五）](https://toutiao.io/k/agg8vrk)  
@@ -985,9 +988,6 @@
 - [2020-05-06-Java-中这些常用关键字，总有那么些被你遗忘的](https://toutiao.io/k/v40zoti)  
 - [2020-05-06-搭建-Node-服务（一）：日志处理](https://toutiao.io/k/39ji82b)  
 - [2020-05-06-比特币-btc-交易所钱包开发（一）：认识数据结构](https://toutiao.io/k/7g2jojb)  
-- [2020-05-06-Manjaro-Linux-入门使用教程](https://toutiao.io/k/t1mamgx)  
-- [2020-05-06-中小企业如何做运维自动化？](https://toutiao.io/k/q58zbw2)  
-- [2020-05-06-HTTP-的基本概念](https://toutiao.io/k/vsi5hza)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

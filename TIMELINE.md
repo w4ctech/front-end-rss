@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-07 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-07 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1310,6 +1310,9 @@
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-07-MinIO-的分布式部署](https://toutiao.io/k/u50ivyq) 
+- [【开发者头条】2020-05-07-如何将-Spark-的-shuffle-移植到自己业务](https://toutiao.io/k/6vbix31) 
+- [【开发者头条】2020-05-07-基于对象可达性原理解决-Handler-引起内存泄露问题](https://toutiao.io/k/klg5lkc) 
 - [【开发者头条】2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1) 
 - [【开发者头条】2020-05-07-LevelDB-完全解析（四）：Manifest](https://toutiao.io/k/oympicz) 
 - [【开发者头条】2020-05-07-传统企业的人才们，先别忙着跳-“互联网”](https://toutiao.io/k/wssfon3) 

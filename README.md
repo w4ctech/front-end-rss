@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 18:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 19:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -697,6 +697,7 @@
 </summary>
 
 
+- [2020-05-08-奇舞周刊第-348-期：-Flutter-Web-最新进展](https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245) ![](assets/new.png)  
 - [2020-05-07-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/bdbda737fe8bb01c3570a2f6e7d7ae8f)  
 - [2020-05-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/f5b7656f5977dc4f306c2f6a8feface1)  
 - [2020-05-06-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/bdcde0abac5f28af9c81114032cf362f)  
@@ -716,7 +717,6 @@
 - [2020-04-23-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/22c5fd7f0638ef56777316d148f20275)  
 - [2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a)  
 - [2020-04-22-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/950b239b14fa52a8e83a7d1293579745)  
-- [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1003,26 +1003,26 @@
 </summary>
 
 
-- [2020-05-08-mysql-单表即将上-2-千万数据-存授权的-性能跟不上了-怎么优化](https://www.v2ex.com/t/669743) ![](assets/new.png)  
-- [2020-05-08-你真的了解海量数据最优解法吗？](https://www.v2ex.com/t/669742) ![](assets/new.png)  
-- [2020-05-08-wx-部分好友不显示添加来源，求解](https://www.v2ex.com/t/669741) ![](assets/new.png)  
-- [2020-05-08-社区团购这么火，如何变现呢](https://www.v2ex.com/t/669740) ![](assets/new.png)  
-- [2020-05-08-Macbook-Pro-15-寸，-16GB-内存已经不够用了？](https://www.v2ex.com/t/669739) ![](assets/new.png)  
-- [2020-05-08-寻求推广途径](https://www.v2ex.com/t/669737) ![](assets/new.png)  
-- [2020-05-08-请教一个表设计问题](https://www.v2ex.com/t/669736) ![](assets/new.png)  
+- [2020-05-08-找-UE4-技术美术灯光渲染，定序器，过场动画](https://www.v2ex.com/t/669754) ![](assets/new.png)  
+- [2020-05-08-Real-Time-Analytics-研发工程师求大佬](https://www.v2ex.com/t/669753) ![](assets/new.png)  
+- [2020-05-08-base-北京-北京博超时代-AI-工程师招聘](https://www.v2ex.com/t/669752) ![](assets/new.png)  
+- [2020-05-08-人在深圳，想在南京上车](https://www.v2ex.com/t/669751) ![](assets/new.png)  
+- [2020-05-08-关于手机-wifi-长时间高速传输降速的问题](https://www.v2ex.com/t/669750) ![](assets/new.png)  
+- [2020-05-08-请问今天（2020.5）广东移动家庭宽带质量如何？](https://www.v2ex.com/t/669749) ![](assets/new.png)  
+- [2020-05-08-求自动检测视频水印工具](https://www.v2ex.com/t/669748) ![](assets/new.png)  
+- [2020-05-08-一次做一周的午饭，有啥菜谱推荐](https://www.v2ex.com/t/669747) ![](assets/new.png)  
+- [2020-05-08-研究生阶段搞机器学习，搞个没-N-卡的轻薄笔记本会很不方便吗？会用到笔记本跑模型吗](https://www.v2ex.com/t/669746) ![](assets/new.png)  
+- [2020-05-08-远程全职Team247-寻找高级软件工程师全栈方向](https://www.v2ex.com/t/669745) ![](assets/new.png)  
+- [2020-05-08-你们会在下午-4~5-点左右的时候从工位上站起来休息一下眼睛吗](https://www.v2ex.com/t/669744) ![](assets/new.png)  
+- [2020-05-08-mysql-单表即将上-2-千万数据-存授权的-性能跟不上了-怎么优化](https://www.v2ex.com/t/669743)  
+- [2020-05-08-你真的了解海量数据最优解法吗？](https://www.v2ex.com/t/669742)  
+- [2020-05-08-wx-部分好友不显示添加来源，求解](https://www.v2ex.com/t/669741)  
+- [2020-05-08-社区团购这么火，如何变现呢](https://www.v2ex.com/t/669740)  
+- [2020-05-08-Macbook-Pro-15-寸，-16GB-内存已经不够用了？](https://www.v2ex.com/t/669739)  
+- [2020-05-08-寻求推广途径](https://www.v2ex.com/t/669737)  
+- [2020-05-08-请教一个表设计问题](https://www.v2ex.com/t/669736)  
 - [2020-05-08-请问有大佬知道哪里可以接入道路摄像头监控的实时画面吗](https://www.v2ex.com/t/669732)  
 - [2020-05-08-今年开始，-gcp-的外部-ip-总是被-ban，最长只活了-15-天，少的几分钟就被-ban，大家的情况怎么样？](https://www.v2ex.com/t/669731)  
-- [2020-05-08-封装接口好枯燥好无聊](https://www.v2ex.com/t/669730)  
-- [2020-05-08-世界游戏大全-51](https://www.v2ex.com/t/669729)  
-- [2020-05-08-北京-网易-前端开发实习生](https://www.v2ex.com/t/669727)  
-- [2020-05-08-excel-有这样的功能或程序吗~~-有一堆数据-我要把能相加等于-XXXX.XX-的一组找出来](https://www.v2ex.com/t/669726)  
-- [2020-05-08-大家在（被）面试（中），都（被）问过什么问题？觉得比较挑战或者难度的？比如...](https://www.v2ex.com/t/669725)  
-- [2020-05-08-求助！来来来，部门撤了，要转岗签协议](https://www.v2ex.com/t/669724)  
-- [2020-05-08-MBP-15-寸卡了很多，是不是因为天气热的原因？](https://www.v2ex.com/t/669723)  
-- [2020-05-08-Android-的-Socket-接收图片，只成功一次，是哪里写错了吗？](https://www.v2ex.com/t/669722)  
-- [2020-05-08-业务开发中要求灵活性，在必要的时候直接操作数据库是否合理？](https://www.v2ex.com/t/669721)  
-- [2020-05-08-华夏银行-旗下科技公司开发/需求/测试等岗位大量](https://www.v2ex.com/t/669718)  
-- [2020-05-08-怎么啥也没干，网页微信不让登了？](https://www.v2ex.com/t/669717)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

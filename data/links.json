@@ -4364,6 +4364,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "奇舞周刊第 348 期： Flutter Web 最新进展",
+        "link": "https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245",
+        "date": "2020-05-08"
+      },
+      {
         "title": "前端性能优化之谈谈常见的性能指标及上报策略",
         "link": "https://www.ershicimi.com/p/bdbda737fe8bb01c3570a2f6e7d7ae8f",
         "date": "2020-05-07"
@@ -6210,6 +6215,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "找 UE4 技术美术灯光渲染，定序器，过场动画",
+        "link": "https://www.v2ex.com/t/669754",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Real-Time Analytics 研发工程师求大佬",
+        "link": "https://www.v2ex.com/t/669753",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[base 北京] 北京博超时代 AI 工程师招聘",
+        "link": "https://www.v2ex.com/t/669752",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "人在深圳，想在南京上车",
+        "link": "https://www.v2ex.com/t/669751",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "关于手机 wifi 长时间高速传输降速的问题",
+        "link": "https://www.v2ex.com/t/669750",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "请问今天（2020.5）广东移动家庭宽带质量如何？",
+        "link": "https://www.v2ex.com/t/669749",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "求自动检测视频水印工具",
+        "link": "https://www.v2ex.com/t/669748",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "一次做一周的午饭，有啥菜谱推荐",
+        "link": "https://www.v2ex.com/t/669747",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "研究生阶段搞机器学习，搞个没 N 卡的轻薄笔记本会很不方便吗？会用到笔记本跑模型吗",
+        "link": "https://www.v2ex.com/t/669746",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[远程][全职]Team247 寻找高级软件工程师(全栈方向)",
+        "link": "https://www.v2ex.com/t/669745",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "你们会在下午 4~5 点左右的时候从工位上站起来休息一下眼睛吗",
+        "link": "https://www.v2ex.com/t/669744",
+        "date": "2020-05-08"
+      },
       {
         "title": "mysql 单表即将上 2 千万数据 存授权的 性能跟不上了 怎么优化",
         "link": "https://www.v2ex.com/t/669743",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-08-如何高效的-Code-Review-代码？](https://www.v2ex.com/t/669828) 
+- [2020-05-08-求推荐，-chrome-内核浏览器的插件：设置网站黑名单](https://www.v2ex.com/t/669824) 
 - [2020-05-08-群晖发现好多来自-127.0.0.1-的-ssh-登录请求](https://www.v2ex.com/t/669818) 
 - [2020-05-08-问个简单的-Java-重排序的问题](https://www.v2ex.com/t/669807) 
 - [2020-05-08-是个-App-就有请求手机-App-列表的权限，这权限有什么用？](https://www.v2ex.com/t/669784) 

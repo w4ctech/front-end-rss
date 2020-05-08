@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -16,6 +16,9 @@
 - [2020-05-04-node_modules-困境](https://www.ershicimi.com/p/ac45cbfb0b5b7ae1dc8598e347e0913c) 
 - [2020-04-28-为-Node.js-应用建立一个更安全的沙箱环境](https://www.ershicimi.com/p/b2a79e4b9fa064dbb092674f6e44d9d6) 
 - [2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232) 
+- [2020-04-17-Nodejs-中基于-Stream-的多文件合并实现](https://www.ershicimi.com/p/537ac76be5a20ec7603b470d2fdfafa4) 
+- [2020-04-15-Node.js-开发者-2020-年度报告](https://www.ershicimi.com/p/60c6d83582f252c19260f71ab577ab10) 
+- [2020-04-12-Node.js-源码解析-util.promisify-如何将-Callback-转为-Promis](https://www.ershicimi.com/p/fd94b7a810b424fa2d8163ef956d15c1) 
 - [2020-04-22-Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a) 
 - [2020-04-20-看优酷-Nodejs-重构之路-Serverless-SSR-未来可期](https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac) 
 - [2020-04-20-期望与志同道合的你一起打造优质-Nodejs-技术栈交流群](https://www.ershicimi.com/p/e397b7029c793635bb8ac29758baa60d) 

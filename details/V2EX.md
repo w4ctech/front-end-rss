@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-08 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 14:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-08-niz-plum-键盘能像-hhkb-那样定制方向键吗？-emacs-shortcuts（ctrl+f/b/a/e）](https://www.v2ex.com/t/669637) 
+- [2020-05-08-管理，帮我删除下我的这条回复。](https://www.v2ex.com/t/669636) 
+- [2020-05-08-老哥们,求教这个正则应该怎样理解?](https://www.v2ex.com/t/669635) 
+- [2020-05-08-杭州/北京-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/产品-文档团队持续招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/669634) 
+- [2020-05-08-ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631) 
 - [2020-05-08-这么多年的吐槽，为什么酸奶厂商不做一种不粘酸奶的包装呢。](https://www.v2ex.com/t/669630) 
 - [2020-05-08-如何在-Jetbrain-IDE-中配置更符合语义的大小写检查规则？](https://www.v2ex.com/t/669628) 
 - [2020-05-08-百度内推-百度内推~北京、上海、深圳-随时反馈进度，技术、产品大量岗位](https://www.v2ex.com/t/669627) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -585,6 +585,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-08-niz-plum-键盘能像-hhkb-那样定制方向键吗？-emacs-shortcuts（ctrl+f/b/a/e）](https://www.v2ex.com/t/669637) 
+- [2020-05-08-管理，帮我删除下我的这条回复。](https://www.v2ex.com/t/669636) 
+- [2020-05-08-杭州/北京-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/产品-文档团队持续招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/669634) 
 - [2020-05-08-这么多年的吐槽，为什么酸奶厂商不做一种不粘酸奶的包装呢。](https://www.v2ex.com/t/669630) 
 - [2020-05-08-如何在-Jetbrain-IDE-中配置更符合语义的大小写检查规则？](https://www.v2ex.com/t/669628) 
 - [2020-05-08-百度内推-百度内推~北京、上海、深圳-随时反馈进度，技术、产品大量岗位](https://www.v2ex.com/t/669627) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -585,6 +585,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-08-这么多年的吐槽，为什么酸奶厂商不做一种不粘酸奶的包装呢。](https://www.v2ex.com/t/669630) 
+- [2020-05-08-如何在-Jetbrain-IDE-中配置更符合语义的大小写检查规则？](https://www.v2ex.com/t/669628) 
+- [2020-05-08-百度内推-百度内推~北京、上海、深圳-随时反馈进度，技术、产品大量岗位](https://www.v2ex.com/t/669627) 
+- [2020-05-08-Android-Studio-4.1-Canary-9-available](https://www.v2ex.com/t/669626) 
+- [2020-05-08-百度真的是什么都抓啊](https://www.v2ex.com/t/669622) 
+- [2020-05-08-悲剧，索尼电视屏幕坏了，是维修换屏还是重新买一个？](https://www.v2ex.com/t/669621) 
 - [2020-05-08-有啥高品质的自带电池小风扇么?](https://www.v2ex.com/t/669620) 
 - [2020-05-08-最近在思考一个关于奥利给的问题](https://www.v2ex.com/t/669618) 
 - [2020-05-08-关于-Origin-抢夺窗口焦点的问题](https://www.v2ex.com/t/669617) 

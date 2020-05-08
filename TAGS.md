@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -435,10 +435,10 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】看到一个视频，-macbook-CPU-比较：-1.-第一比功耗-2.-第二比代数-3.-第三比系列-4.-最后看主频-是否合理？](https://www.v2ex.com/t/669623)
 - [【V2EX】如何将-qsv-转换为通用视频格式](https://www.v2ex.com/t/669605)
 - [【V2EX】单位把购物网站，视频网站，-B-站屏蔽了怎么办？](https://www.v2ex.com/t/669577)
 - [【V2EX】推荐几个堪称教科书级别的-Android-音视频入门项目](https://www.v2ex.com/t/669072)
-- [【V2EX】家庭旅游视频分享真难，百度网盘腾讯优酷上传分享出来都是压缩的，安装各种-app-且要-vip-看高清，苹果家庭共享又不适合-android，各位-v-友是怎么弄的呢？](https://www.v2ex.com/t/668967)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -614,11 +614,11 @@
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】请教一个问题，本地-Git-两个项目的代码串门了？](https://www.v2ex.com/t/669625)
 - [【V2EX】gitlab-每次-push-一个项目后都会假死一会儿](https://www.v2ex.com/t/669600)
 - [【V2EX】极客时间、拉勾教育、GitChat、掘金等网课返利平台上线|返现|极客返利](https://www.v2ex.com/t/669214)
 - [【V2EX】大家平时手机看-GitHub-用什么-app-呀（iOS）](https://www.v2ex.com/t/669082)
 - [【V2EX】最近逛-github-有感](https://www.v2ex.com/t/669081)
-- [【V2EX】2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

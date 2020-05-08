@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 13:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 14:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1003,26 +1003,26 @@
 </summary>
 
 
-- [2020-05-08-有啥高品质的自带电池小风扇么?](https://www.v2ex.com/t/669620) ![](assets/new.png)  
-- [2020-05-08-最近在思考一个关于奥利给的问题](https://www.v2ex.com/t/669618) ![](assets/new.png)  
-- [2020-05-08-关于-Origin-抢夺窗口焦点的问题](https://www.v2ex.com/t/669617) ![](assets/new.png)  
-- [2020-05-08-如何设计-APP-的-面容/指纹-登录的安全机制？](https://www.v2ex.com/t/669616) ![](assets/new.png)  
-- [2020-05-08-各位大佬，问个关于浏览器中-img-标签和-a-标签的小问题。](https://www.v2ex.com/t/669615) ![](assets/new.png)  
-- [2020-05-08-烟台Web-前后端开发工程师](https://www.v2ex.com/t/669614) ![](assets/new.png)  
-- [2020-05-08-求一份半导体/数字-IC-相关实习工作-Base-杭州-或者-苏州](https://www.v2ex.com/t/669613) ![](assets/new.png)  
-- [2020-05-08-iPhone-夜间掉电严重](https://www.v2ex.com/t/669610) ![](assets/new.png)  
-- [2020-05-08-求教怎么删除导入到-mac-中输入法的字库，怎么删都删不掉](https://www.v2ex.com/t/669609) ![](assets/new.png)  
+- [2020-05-08-这么多年的吐槽，为什么酸奶厂商不做一种不粘酸奶的包装呢。](https://www.v2ex.com/t/669630) ![](assets/new.png)  
+- [2020-05-08-如何在-Jetbrain-IDE-中配置更符合语义的大小写检查规则？](https://www.v2ex.com/t/669628) ![](assets/new.png)  
+- [2020-05-08-百度内推-百度内推~北京、上海、深圳-随时反馈进度，技术、产品大量岗位](https://www.v2ex.com/t/669627) ![](assets/new.png)  
+- [2020-05-08-Android-Studio-4.1-Canary-9-available](https://www.v2ex.com/t/669626) ![](assets/new.png)  
+- [2020-05-08-请教一个问题，本地-Git-两个项目的代码串门了？](https://www.v2ex.com/t/669625) ![](assets/new.png)  
+- [2020-05-08-北京招聘-IT-支持,-10k-12k](https://www.v2ex.com/t/669624) ![](assets/new.png)  
+- [2020-05-08-看到一个视频，-macbook-CPU-比较：-1.-第一比功耗-2.-第二比代数-3.-第三比系列-4.-最后看主频-是否合理？](https://www.v2ex.com/t/669623) ![](assets/new.png)  
+- [2020-05-08-百度真的是什么都抓啊](https://www.v2ex.com/t/669622) ![](assets/new.png)  
+- [2020-05-08-悲剧，索尼电视屏幕坏了，是维修换屏还是重新买一个？](https://www.v2ex.com/t/669621) ![](assets/new.png)  
+- [2020-05-08-有啥高品质的自带电池小风扇么?](https://www.v2ex.com/t/669620)  
+- [2020-05-08-最近在思考一个关于奥利给的问题](https://www.v2ex.com/t/669618)  
+- [2020-05-08-关于-Origin-抢夺窗口焦点的问题](https://www.v2ex.com/t/669617)  
+- [2020-05-08-如何设计-APP-的-面容/指纹-登录的安全机制？](https://www.v2ex.com/t/669616)  
+- [2020-05-08-各位大佬，问个关于浏览器中-img-标签和-a-标签的小问题。](https://www.v2ex.com/t/669615)  
+- [2020-05-08-烟台Web-前后端开发工程师](https://www.v2ex.com/t/669614)  
+- [2020-05-08-求一份半导体/数字-IC-相关实习工作-Base-杭州-或者-苏州](https://www.v2ex.com/t/669613)  
+- [2020-05-08-iPhone-夜间掉电严重](https://www.v2ex.com/t/669610)  
+- [2020-05-08-求教怎么删除导入到-mac-中输入法的字库，怎么删都删不掉](https://www.v2ex.com/t/669609)  
 - [2020-05-08-北京-武汉-合肥-成都-to-B-的十年，来神策数据建功立业？](https://www.v2ex.com/t/669608)  
 - [2020-05-08-Building-a-fast-Electron-app-with-Rust](https://www.v2ex.com/t/669606)  
-- [2020-05-08-如何将-qsv-转换为通用视频格式](https://www.v2ex.com/t/669605)  
-- [2020-05-08-Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604)  
-- [2020-05-08-新加坡高中毕业程序员如何提升学历?](https://www.v2ex.com/t/669603)  
-- [2020-05-08-Apple-Watch-耗电量的问题](https://www.v2ex.com/t/669601)  
-- [2020-05-08-gitlab-每次-push-一个项目后都会假死一会儿](https://www.v2ex.com/t/669600)  
-- [2020-05-08-前端招聘-NewBanker-招募前端工程师啦~](https://www.v2ex.com/t/669599)  
-- [2020-05-08-斗图啦的站长在吗，你的主页挂了](https://www.v2ex.com/t/669598)  
-- [2020-05-08-你看到的是你所希望看到的](https://www.v2ex.com/t/669597)  
-- [2020-05-08-3-年-Android-求个上海,深圳,杭州-等地-965-的岗位,欢迎推荐](https://www.v2ex.com/t/669595)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

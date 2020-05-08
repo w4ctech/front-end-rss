@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-08 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -135,6 +135,7 @@
 - [【Vue中文社区】2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) 
 - [【Vue中文社区】2020-05-05-传说中最经典的外包案例](https://www.ershicimi.com/p/6269ed474407855487c0fa6de4760523) 
 - [【Vue中文社区】2020-05-03-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/7bc3db6b81610cff242e8e5360a6fefc) 
+- [【前端早读课】2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2) 
 - [【前端早读课】2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126) 
 - [【前端早读课】2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1) 
 - [【前端早读课】2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b) 
@@ -274,6 +275,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-08-3000-美金在-paypal，如何更好地利用？](https://www.v2ex.com/t/669501) 
+- [【V2EX】2020-05-08-恢复-APFS-容器的-dmg-到新磁盘，结果提示这样，以前可以的奇怪](https://www.v2ex.com/t/669500) 
+- [【V2EX】2020-05-08-第一次日活超过-500](https://www.v2ex.com/t/669499) 
+- [【V2EX】2020-05-08-Babel-教程，自己写的第一份教程](https://www.v2ex.com/t/669498) 
+- [【V2EX】2020-05-08-程序员幸福调查](https://www.v2ex.com/t/669497) 
+- [【V2EX】2020-05-08-这或许就是你所向往的旅行的样子](https://www.v2ex.com/t/669496) 
 - [【V2EX】2020-05-08-MacBook-Pro-13inch-2020-的跑分出来了](https://www.v2ex.com/t/669495) 
 - [【V2EX】2020-05-08-在某眼查上看了一下几个报业传媒的公司，发现大部分都开始靠打侵权官司来赚钱了](https://www.v2ex.com/t/669494) 
 - [【V2EX】2020-05-08-吐槽一下-ios-上的不好体验](https://www.v2ex.com/t/669493) 
@@ -1536,6 +1543,7 @@
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-08-Android-Studio-和-MAT-结合使用来分析内存问题](https://toutiao.io/k/gfdtrgd) 
 - [【开发者头条】2020-05-08-程序员真的是吃青春饭的吗？|-码农周刊第-305-期](https://toutiao.io/k/omc4ca0) 
 - [【开发者头条】2020-05-08-更高效地刷-LeetCode？试试这个吧！](https://toutiao.io/k/y77r6bd) 
 - [【开发者头条】2020-05-07-接近-8000-字的-Spring/Spring-Boot-常用注解总结！安排](https://toutiao.io/k/7wygpo6) 

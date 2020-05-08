@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -575,6 +575,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-08-3000-美金在-paypal，如何更好地利用？](https://www.v2ex.com/t/669501) 
+- [2020-05-08-恢复-APFS-容器的-dmg-到新磁盘，结果提示这样，以前可以的奇怪](https://www.v2ex.com/t/669500) 
+- [2020-05-08-第一次日活超过-500](https://www.v2ex.com/t/669499) 
+- [2020-05-08-程序员幸福调查](https://www.v2ex.com/t/669497) 
+- [2020-05-08-这或许就是你所向往的旅行的样子](https://www.v2ex.com/t/669496) 
 - [2020-05-08-MacBook-Pro-13inch-2020-的跑分出来了](https://www.v2ex.com/t/669495) 
 - [2020-05-08-在某眼查上看了一下几个报业传媒的公司，发现大部分都开始靠打侵权官司来赚钱了](https://www.v2ex.com/t/669494) 
 - [2020-05-08-吐槽一下-ios-上的不好体验](https://www.v2ex.com/t/669493) 
@@ -3055,6 +3060,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-08-Android-Studio-和-MAT-结合使用来分析内存问题](https://toutiao.io/k/gfdtrgd) 
 - [2020-05-08-程序员真的是吃青春饭的吗？|-码农周刊第-305-期](https://toutiao.io/k/omc4ca0) 
 - [2020-05-08-更高效地刷-LeetCode？试试这个吧！](https://toutiao.io/k/y77r6bd) 
 - [2020-05-07-接近-8000-字的-Spring/Spring-Boot-常用注解总结！安排](https://toutiao.io/k/7wygpo6) 

@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 13:00:22，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 13:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -126,10 +126,10 @@
 </summary>
 
 
-- [2020-05-08-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd) ![](assets/new.png)  
-- [2020-05-08-VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575) ![](assets/new.png)  
-- [2020-05-07-70%以上业务由H5开发，手机QQ-Hybrid-的架构如何优化演进？](https://www.ershicimi.com/p/a627429c120591e60517d38faaf24335) ![](assets/new.png)  
-- [2020-05-07-免费服务器，它来了](https://www.ershicimi.com/p/299adc022cb8f8a1319ab0e93410f5d3) ![](assets/new.png)  
+- [2020-05-08-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd)  
+- [2020-05-08-VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575)  
+- [2020-05-07-70%以上业务由H5开发，手机QQ-Hybrid-的架构如何优化演进？](https://www.ershicimi.com/p/a627429c120591e60517d38faaf24335)  
+- [2020-05-07-免费服务器，它来了](https://www.ershicimi.com/p/299adc022cb8f8a1319ab0e93410f5d3)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f)  
 - [2020-05-06-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebe62d7c491c1a844494cf6e463f01b6)  
 - [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29)  
@@ -1003,26 +1003,26 @@
 </summary>
 
 
-- [2020-05-08-北京-武汉-合肥-成都-to-B-的十年，来神策数据建功立业？](https://www.v2ex.com/t/669608) ![](assets/new.png)  
-- [2020-05-08-Building-a-fast-Electron-app-with-Rust](https://www.v2ex.com/t/669606) ![](assets/new.png)  
-- [2020-05-08-如何将-qsv-转换为通用视频格式](https://www.v2ex.com/t/669605) ![](assets/new.png)  
-- [2020-05-08-Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604) ![](assets/new.png)  
-- [2020-05-08-新加坡高中毕业程序员如何提升学历?](https://www.v2ex.com/t/669603) ![](assets/new.png)  
-- [2020-05-08-Apple-Watch-耗电量的问题](https://www.v2ex.com/t/669601) ![](assets/new.png)  
-- [2020-05-08-gitlab-每次-push-一个项目后都会假死一会儿](https://www.v2ex.com/t/669600) ![](assets/new.png)  
-- [2020-05-08-前端招聘-NewBanker-招募前端工程师啦~](https://www.v2ex.com/t/669599) ![](assets/new.png)  
-- [2020-05-08-斗图啦的站长在吗，你的主页挂了](https://www.v2ex.com/t/669598) ![](assets/new.png)  
-- [2020-05-08-你看到的是你所希望看到的](https://www.v2ex.com/t/669597) ![](assets/new.png)  
-- [2020-05-08-3-年-Android-求个上海,深圳,杭州-等地-965-的岗位,欢迎推荐](https://www.v2ex.com/t/669595) ![](assets/new.png)  
-- [2020-05-08-目前有没有对-Markdown-各个元素高亮的-Markdown-移动端应用？](https://www.v2ex.com/t/669594) ![](assets/new.png)  
-- [2020-05-08-求教啊,怎么将电脑硬盘当-U-盘用?-用的时候加载,不用的时候就不挂载](https://www.v2ex.com/t/669593) ![](assets/new.png)  
-- [2020-05-08-天津金融创业公司招聘-IT-维护兼-Windows-Server-运维](https://www.v2ex.com/t/669592) ![](assets/new.png)  
-- [2020-05-08-手机上的音乐会自我删除吗？](https://www.v2ex.com/t/669591) ![](assets/new.png)  
-- [2020-05-08-为什么-iPhone-的感光元件比同期的安卓旗舰小那么多？](https://www.v2ex.com/t/669590) ![](assets/new.png)  
-- [2020-05-08-没有认证的公众号可以通过程序自动创建图文消息么？](https://www.v2ex.com/t/669589) ![](assets/new.png)  
-- [2020-05-08-有对应-http-文档和-mock-的-rpc-文档和-mock-服务提供方案吗？](https://www.v2ex.com/t/669588) ![](assets/new.png)  
-- [2020-05-08-福州-福州网龙网络公司在线-pick-做游戏开发和游戏策划的同学啊～～](https://www.v2ex.com/t/669587) ![](assets/new.png)  
-- [2020-05-08-gf-cli-v0.7.4-发布，-GoFrame-开发工具链](https://www.v2ex.com/t/669586) ![](assets/new.png)  
+- [2020-05-08-有啥高品质的自带电池小风扇么?](https://www.v2ex.com/t/669620) ![](assets/new.png)  
+- [2020-05-08-最近在思考一个关于奥利给的问题](https://www.v2ex.com/t/669618) ![](assets/new.png)  
+- [2020-05-08-关于-Origin-抢夺窗口焦点的问题](https://www.v2ex.com/t/669617) ![](assets/new.png)  
+- [2020-05-08-如何设计-APP-的-面容/指纹-登录的安全机制？](https://www.v2ex.com/t/669616) ![](assets/new.png)  
+- [2020-05-08-各位大佬，问个关于浏览器中-img-标签和-a-标签的小问题。](https://www.v2ex.com/t/669615) ![](assets/new.png)  
+- [2020-05-08-烟台Web-前后端开发工程师](https://www.v2ex.com/t/669614) ![](assets/new.png)  
+- [2020-05-08-求一份半导体/数字-IC-相关实习工作-Base-杭州-或者-苏州](https://www.v2ex.com/t/669613) ![](assets/new.png)  
+- [2020-05-08-iPhone-夜间掉电严重](https://www.v2ex.com/t/669610) ![](assets/new.png)  
+- [2020-05-08-求教怎么删除导入到-mac-中输入法的字库，怎么删都删不掉](https://www.v2ex.com/t/669609) ![](assets/new.png)  
+- [2020-05-08-北京-武汉-合肥-成都-to-B-的十年，来神策数据建功立业？](https://www.v2ex.com/t/669608)  
+- [2020-05-08-Building-a-fast-Electron-app-with-Rust](https://www.v2ex.com/t/669606)  
+- [2020-05-08-如何将-qsv-转换为通用视频格式](https://www.v2ex.com/t/669605)  
+- [2020-05-08-Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604)  
+- [2020-05-08-新加坡高中毕业程序员如何提升学历?](https://www.v2ex.com/t/669603)  
+- [2020-05-08-Apple-Watch-耗电量的问题](https://www.v2ex.com/t/669601)  
+- [2020-05-08-gitlab-每次-push-一个项目后都会假死一会儿](https://www.v2ex.com/t/669600)  
+- [2020-05-08-前端招聘-NewBanker-招募前端工程师啦~](https://www.v2ex.com/t/669599)  
+- [2020-05-08-斗图啦的站长在吗，你的主页挂了](https://www.v2ex.com/t/669598)  
+- [2020-05-08-你看到的是你所希望看到的](https://www.v2ex.com/t/669597)  
+- [2020-05-08-3-年-Android-求个上海,深圳,杭州-等地-965-的岗位,欢迎推荐](https://www.v2ex.com/t/669595)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

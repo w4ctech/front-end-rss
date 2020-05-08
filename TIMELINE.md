@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 13:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-08 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -294,6 +294,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-08-有啥高品质的自带电池小风扇么?](https://www.v2ex.com/t/669620) 
+- [【V2EX】2020-05-08-最近在思考一个关于奥利给的问题](https://www.v2ex.com/t/669618) 
+- [【V2EX】2020-05-08-关于-Origin-抢夺窗口焦点的问题](https://www.v2ex.com/t/669617) 
+- [【V2EX】2020-05-08-如何设计-APP-的-面容/指纹-登录的安全机制？](https://www.v2ex.com/t/669616) 
+- [【V2EX】2020-05-08-各位大佬，问个关于浏览器中-img-标签和-a-标签的小问题。](https://www.v2ex.com/t/669615) 
+- [【V2EX】2020-05-08-烟台Web-前后端开发工程师](https://www.v2ex.com/t/669614) 
+- [【V2EX】2020-05-08-求一份半导体/数字-IC-相关实习工作-Base-杭州-或者-苏州](https://www.v2ex.com/t/669613) 
+- [【V2EX】2020-05-08-iPhone-夜间掉电严重](https://www.v2ex.com/t/669610) 
+- [【V2EX】2020-05-08-求教怎么删除导入到-mac-中输入法的字库，怎么删都删不掉](https://www.v2ex.com/t/669609) 
 - [【V2EX】2020-05-08-北京-武汉-合肥-成都-to-B-的十年，来神策数据建功立业？](https://www.v2ex.com/t/669608) 
 - [【V2EX】2020-05-08-Building-a-fast-Electron-app-with-Rust](https://www.v2ex.com/t/669606) 
 - [【V2EX】2020-05-08-如何将-qsv-转换为通用视频格式](https://www.v2ex.com/t/669605) 

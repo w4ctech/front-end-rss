@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 13:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -34,6 +34,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-08-如何设计-APP-的-面容/指纹-登录的安全机制？](https://www.v2ex.com/t/669616) 
+- [2020-05-08-各位大佬，问个关于浏览器中-img-标签和-a-标签的小问题。](https://www.v2ex.com/t/669615) 
 - [2020-05-08-GitHub-Codespaces-发布！在浏览器中使用-VS-Code-进行云端开发](https://www.v2ex.com/t/669540) 
 - [2020-05-08-nginx-配置问题,url-调整](https://www.v2ex.com/t/669523) 
 - [2020-05-07-Golang-HTTP-Post-丢数据的问题](https://www.v2ex.com/t/669409) 

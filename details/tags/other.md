@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -488,6 +488,7 @@
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) 
 - [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376) 
 - [2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a) 
 - [2020-04-24-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/86f07d56cb8b92aacb5eb440aeef5e8b) 

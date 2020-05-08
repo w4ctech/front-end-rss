@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-07 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) 
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) 
 - [2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805) 
 - [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376) 

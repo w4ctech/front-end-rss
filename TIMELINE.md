@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-08 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -264,6 +264,7 @@
 - [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【JavaScript】2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) 
 - [【JavaScript】2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) 
 - [【JavaScript】2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805) 
 - [【知乎日报】2020-05-07-今天想聊聊，我们为什么变成了「知妈乎」](https://www.ershicimi.com/p/162cbcd88c785fec066b4762e4250277) 

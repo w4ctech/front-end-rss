@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 10:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 11:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [InfoQ](#infoq)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -261,7 +261,7 @@
 </summary>
 
 
-- [2020-05-08-Web前端开发必不可少的9个开源框架](https://www.ershicimi.com/p/3003ec186b9f71ecd7b4b74d16a82755) ![](assets/new.png)  
+- [2020-05-08-Web前端开发必不可少的9个开源框架](https://www.ershicimi.com/p/3003ec186b9f71ecd7b4b74d16a82755)  
 - [2020-05-07-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0)  
 - [2020-05-07-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6)  
@@ -801,11 +801,11 @@
 </summary>
 
 
-- [2020-05-07-刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a) ![](assets/new.png)  
-- [2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025) ![](assets/new.png)  
-- [2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5) ![](assets/new.png)  
-- [2020-05-07-如何成为-C++-高手？听听-20-年技术老兵怎么说丨极客时间](https://www.ershicimi.com/p/babc0c63707693a9d31f12bc390a94a8) ![](assets/new.png)  
-- [2020-05-07-再裁-5400-人，CTO-离职，Uber-上市一年都经历了什么？](https://www.ershicimi.com/p/f5d3b6980222036013ebb22d0a34b670) ![](assets/new.png)  
+- [2020-05-07-刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a)  
+- [2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025)  
+- [2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5)  
+- [2020-05-07-如何成为-C++-高手？听听-20-年技术老兵怎么说丨极客时间](https://www.ershicimi.com/p/babc0c63707693a9d31f12bc390a94a8)  
+- [2020-05-07-再裁-5400-人，CTO-离职，Uber-上市一年都经历了什么？](https://www.ershicimi.com/p/f5d3b6980222036013ebb22d0a34b670)  
 - [2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8)  
 - [2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713)  
 - [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5)  
@@ -832,6 +832,7 @@
 </summary>
 
 
+- [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) ![](assets/new.png)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8)  
 - [2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805)  
 - [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376)  
@@ -1002,14 +1003,14 @@
 </summary>
 
 
-- [2020-05-08-有了解“跟谁学”这家公司的吗？](https://www.v2ex.com/t/669548) ![](assets/new.png)  
-- [2020-05-08-Pony.ai-infra-方向职位-c++，-base-北京/广州/深圳！急（两年经验以上）](https://www.v2ex.com/t/669547) ![](assets/new.png)  
-- [2020-05-08-关于-applewatch-短信拦截](https://www.v2ex.com/t/669546) ![](assets/new.png)  
-- [2020-05-08-静态代码检查工具-coverity-怎样？](https://www.v2ex.com/t/669545) ![](assets/new.png)  
-- [2020-05-08-平安科技|平安一帐通|-招前端实习生-期望-5、6-月份能入职](https://www.v2ex.com/t/669544) ![](assets/new.png)  
-- [2020-05-08-大佬们，如何能获取到所有医疗网站的域名呢？](https://www.v2ex.com/t/669543) ![](assets/new.png)  
-- [2020-05-08-谈谈最近看机会遇到的人和面试经历](https://www.v2ex.com/t/669542) ![](assets/new.png)  
-- [2020-05-08-新款-AirPods-将发布？](https://www.v2ex.com/t/669541) ![](assets/new.png)  
+- [2020-05-08-有了解“跟谁学”这家公司的吗？](https://www.v2ex.com/t/669548)  
+- [2020-05-08-Pony.ai-infra-方向职位-c++，-base-北京/广州/深圳！急（两年经验以上）](https://www.v2ex.com/t/669547)  
+- [2020-05-08-关于-applewatch-短信拦截](https://www.v2ex.com/t/669546)  
+- [2020-05-08-静态代码检查工具-coverity-怎样？](https://www.v2ex.com/t/669545)  
+- [2020-05-08-平安科技|平安一帐通|-招前端实习生-期望-5、6-月份能入职](https://www.v2ex.com/t/669544)  
+- [2020-05-08-大佬们，如何能获取到所有医疗网站的域名呢？](https://www.v2ex.com/t/669543)  
+- [2020-05-08-谈谈最近看机会遇到的人和面试经历](https://www.v2ex.com/t/669542)  
+- [2020-05-08-新款-AirPods-将发布？](https://www.v2ex.com/t/669541)  
 - [2020-05-08-GitHub-Codespaces-发布！在浏览器中使用-VS-Code-进行云端开发](https://www.v2ex.com/t/669540)  
 - [2020-05-08-AirPods-Pro-实测不能连接-2011-款-MBP-及旧款](https://www.v2ex.com/t/669539)  
 - [2020-05-08-发现这里可以分享哈，发一个我刚做的“游戏”吧：跳棋板](https://www.v2ex.com/t/669538)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -532,6 +532,7 @@
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端之巅】当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813)
 - [【前端迷】网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1)
+- [【前端瓶子君】前端进阶算法6：一看就懂的队列及配套算法题](https://www.ershicimi.com/p/607a1ff2d732f8738151ba55d397e6f4)
 - [【前端瓶子君】前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d)
 - [【前端瓶子君】前端进阶算法：常见算法题及完美题解](https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24)
 - [【前端瓶子君】前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43)
@@ -547,7 +548,6 @@
 - [【V2EX】再谈家庭宽带架设-HTTPS-防嗅探。](https://www.v2ex.com/t/669709)
 - [【V2EX】ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631)
 - [【V2EX】有对应-http-文档和-mock-的-rpc-文档和-mock-服务提供方案吗？](https://www.v2ex.com/t/669588)
-- [【V2EX】百度-UTS-CVPR2020-智慧城市冠军算法](https://www.v2ex.com/t/669492)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

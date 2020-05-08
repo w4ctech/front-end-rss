@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,6 +37,7 @@
 - [2020-04-27-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0) 
 - [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-05-08-阿里面试官必问21-个刁钻的HashMap-面试题，这次让你彻底搞懂](https://www.ershicimi.com/p/739e0b0b5c6d8308f4617f90ea18f169) 
 - [2020-05-05-5-个刁钻的-String-面试题！](https://www.ershicimi.com/p/2953707ff74de3dfcc2d959401f8d732) 
 - [2020-04-29-2020，后端面试有点难！](https://www.ershicimi.com/p/7d666f8af283ea1c13615f1a7ac8e8d0) 
 - [2020-04-28-这份Java面试题，阿里P7的正确率都不到50%!!](https://www.ershicimi.com/p/376f58164eb7674d44e1a5ab0bc461a3) 

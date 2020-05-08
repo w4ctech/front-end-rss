@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -329,9 +329,9 @@
 - [【前端开发博客】阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16)
 - [【前端开发博客】阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee)
 - [【前端开发博客】阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce)
+- [【前端大学】前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/c6bf04b2efff1f953b57956901eaeeb0)
 - [【前端大学】只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad)
 - [【前端大学】ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e)
-- [【前端外刊评论】从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -24,6 +24,7 @@
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
+- [2020-05-08-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/c6bf04b2efff1f953b57956901eaeeb0) 
 - [2020-04-30-只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad) 
 - [2020-04-23-ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
@@ -79,6 +80,7 @@
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/49521db0a3b65153bc20efd590e78d63) 
 - [2020-04-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/28897cbcddda24789108dab6f85481dd) 
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf) 
+- [2020-05-08-为什么我们公司强制弃坑Fastjson了？主推...](https://www.ershicimi.com/p/f2de3db167a55220ed2f7fce830bcf2e) 
 - [2020-05-06-try-catch-处理异常太烦人了,我已经不用了](https://www.ershicimi.com/p/bfe804a5223fbf7e87b759b670433419) 
 - [2020-04-30-变量命名还在谷歌百度翻译？OUT啦!分享一个我日常工作中常用的变量命名神器！](https://www.ershicimi.com/p/c258e98f52c90eac18727afe58b4f249) 
 - [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c) 
@@ -193,6 +195,7 @@
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-08-D3.js-力导向图的显示优化](https://toutiao.io/k/qr9zwv3) 
 - [2020-05-06-Envoy-基础教程：使用-Unix-Domain-Socket-与上游集群通信](https://toutiao.io/k/ftfsnze) 
 - [2020-05-03-《JavaScript-20-年》中文版（二）：创立标准](https://toutiao.io/k/9ofgyej) 
 - [2020-05-03-Java-8-函数式编程：Lambda-表达式和方法引用](https://toutiao.io/k/4x1zdt5) 

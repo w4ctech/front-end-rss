@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 11:30:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 13:00:22，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -126,6 +126,10 @@
 </summary>
 
 
+- [2020-05-08-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd) ![](assets/new.png)  
+- [2020-05-08-VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575) ![](assets/new.png)  
+- [2020-05-07-70%以上业务由H5开发，手机QQ-Hybrid-的架构如何优化演进？](https://www.ershicimi.com/p/a627429c120591e60517d38faaf24335) ![](assets/new.png)  
+- [2020-05-07-免费服务器，它来了](https://www.ershicimi.com/p/299adc022cb8f8a1319ab0e93410f5d3) ![](assets/new.png)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f)  
 - [2020-05-06-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebe62d7c491c1a844494cf6e463f01b6)  
 - [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29)  
@@ -142,10 +146,6 @@
 - [2020-04-26-成为前端大师的9个项目](https://www.ershicimi.com/p/e803b2c391b238d9c5deb324ac7c4fb1)  
 - [2020-04-25-GitHub-上值得收藏的100个精选前端项目！](https://www.ershicimi.com/p/4b4b4be1493ff07f99caee616748d59c)  
 - [2020-04-24-搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)  
-- [2020-04-24-Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec)  
-- [2020-04-23-10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9)  
-- [2020-04-23-尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd)  
-- [2020-04-22-初级前端程序员供给泛滥，待遇恶化，发展遇冷；中高级前端议价能力向好，越来越吃香。-疫情期间企业（尤](https://www.ershicimi.com/p/a705fcf7a1e70f3905890879ef25aba1)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1003,26 +1003,26 @@
 </summary>
 
 
-- [2020-05-08-单位把购物网站，视频网站，-B-站屏蔽了怎么办？](https://www.v2ex.com/t/669577) ![](assets/new.png)  
-- [2020-05-08-为什么-TCP-连接-30-秒才能连上？](https://www.v2ex.com/t/669576) ![](assets/new.png)  
-- [2020-05-08-（后续）中国电信不给办理异地拆机的后续来了](https://www.v2ex.com/t/669574) ![](assets/new.png)  
-- [2020-05-08-APPLE-的售后客服真是一言难尽](https://www.v2ex.com/t/669573) ![](assets/new.png)  
-- [2020-05-08-SE2-PD-只能到-12W?](https://www.v2ex.com/t/669572) ![](assets/new.png)  
-- [2020-05-08-杭州Nokia-有同学想来诺基亚做-5G-研发吗？](https://www.v2ex.com/t/669571) ![](assets/new.png)  
-- [2020-05-08-下单了-2020-MacBook-Pro，如何利用两台旧的-DELL-显示器](https://www.v2ex.com/t/669570) ![](assets/new.png)  
-- [2020-05-08-北京奇虎-360-诚聘-高级/资深-Web-前端/后端/服务端开发专家-T6/T7/T8](https://www.v2ex.com/t/669569) ![](assets/new.png)  
-- [2020-05-08-年纪轻轻，一身病，要开始调理身体了](https://www.v2ex.com/t/669568) ![](assets/new.png)  
-- [2020-05-08-idea-pycharm-phpstorm-最新激活码-全家桶有效每日更新](https://www.v2ex.com/t/669566) ![](assets/new.png)  
-- [2020-05-08-miui12-相册的流量是什么内容？](https://www.v2ex.com/t/669565) ![](assets/new.png)  
-- [2020-05-08-黑苹果安装，华擎-h310cm-ITX-主板，-i3-8100-CPU，金百达-128G-nvme-m.2-固态硬盘](https://www.v2ex.com/t/669564) ![](assets/new.png)  
-- [2020-05-08-市面上与没有这样一个小程序](https://www.v2ex.com/t/669563) ![](assets/new.png)  
-- [2020-05-08-如何通俗易懂，优雅地向非-IT-人员介绍-IT-人员的工作是做什么的？](https://www.v2ex.com/t/669562) ![](assets/new.png)  
-- [2020-05-08-工作-3~5-年的猿们你们会考证吗](https://www.v2ex.com/t/669561) ![](assets/new.png)  
-- [2020-05-08-中信银行的声明是公关失败的典范了吧](https://www.v2ex.com/t/669560) ![](assets/new.png)  
-- [2020-05-08-刚刚还能看的一个帖子，现在就访问受限了？就为了要我的一个手机号？](https://www.v2ex.com/t/669559) ![](assets/new.png)  
-- [2020-05-08-求大家推荐一个接收消息通知的-App](https://www.v2ex.com/t/669558) ![](assets/new.png)  
-- [2020-05-08-家里预埋光纤，应该预埋那种类型的光纤？单工？双工？](https://www.v2ex.com/t/669557) ![](assets/new.png)  
-- [2020-05-08-用-GitHub-Action-构建一套-CI/CD-系统](https://www.v2ex.com/t/669556) ![](assets/new.png)  
+- [2020-05-08-北京-武汉-合肥-成都-to-B-的十年，来神策数据建功立业？](https://www.v2ex.com/t/669608) ![](assets/new.png)  
+- [2020-05-08-Building-a-fast-Electron-app-with-Rust](https://www.v2ex.com/t/669606) ![](assets/new.png)  
+- [2020-05-08-如何将-qsv-转换为通用视频格式](https://www.v2ex.com/t/669605) ![](assets/new.png)  
+- [2020-05-08-Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604) ![](assets/new.png)  
+- [2020-05-08-新加坡高中毕业程序员如何提升学历?](https://www.v2ex.com/t/669603) ![](assets/new.png)  
+- [2020-05-08-Apple-Watch-耗电量的问题](https://www.v2ex.com/t/669601) ![](assets/new.png)  
+- [2020-05-08-gitlab-每次-push-一个项目后都会假死一会儿](https://www.v2ex.com/t/669600) ![](assets/new.png)  
+- [2020-05-08-前端招聘-NewBanker-招募前端工程师啦~](https://www.v2ex.com/t/669599) ![](assets/new.png)  
+- [2020-05-08-斗图啦的站长在吗，你的主页挂了](https://www.v2ex.com/t/669598) ![](assets/new.png)  
+- [2020-05-08-你看到的是你所希望看到的](https://www.v2ex.com/t/669597) ![](assets/new.png)  
+- [2020-05-08-3-年-Android-求个上海,深圳,杭州-等地-965-的岗位,欢迎推荐](https://www.v2ex.com/t/669595) ![](assets/new.png)  
+- [2020-05-08-目前有没有对-Markdown-各个元素高亮的-Markdown-移动端应用？](https://www.v2ex.com/t/669594) ![](assets/new.png)  
+- [2020-05-08-求教啊,怎么将电脑硬盘当-U-盘用?-用的时候加载,不用的时候就不挂载](https://www.v2ex.com/t/669593) ![](assets/new.png)  
+- [2020-05-08-天津金融创业公司招聘-IT-维护兼-Windows-Server-运维](https://www.v2ex.com/t/669592) ![](assets/new.png)  
+- [2020-05-08-手机上的音乐会自我删除吗？](https://www.v2ex.com/t/669591) ![](assets/new.png)  
+- [2020-05-08-为什么-iPhone-的感光元件比同期的安卓旗舰小那么多？](https://www.v2ex.com/t/669590) ![](assets/new.png)  
+- [2020-05-08-没有认证的公众号可以通过程序自动创建图文消息么？](https://www.v2ex.com/t/669589) ![](assets/new.png)  
+- [2020-05-08-有对应-http-文档和-mock-的-rpc-文档和-mock-服务提供方案吗？](https://www.v2ex.com/t/669588) ![](assets/new.png)  
+- [2020-05-08-福州-福州网龙网络公司在线-pick-做游戏开发和游戏策划的同学啊～～](https://www.v2ex.com/t/669587) ![](assets/new.png)  
+- [2020-05-08-gf-cli-v0.7.4-发布，-GoFrame-开发工具链](https://www.v2ex.com/t/669586) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

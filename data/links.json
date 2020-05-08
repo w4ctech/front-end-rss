@@ -1320,6 +1320,26 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "今年薪资普涨还有可能吗？说说我的看法",
+        "link": "https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "VuePress搭建技术网站与个人博客",
+        "link": "https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "70%以上业务由H5开发，手机QQ Hybrid 的架构如何优化演进？",
+        "link": "https://www.ershicimi.com/p/a627429c120591e60517d38faaf24335",
+        "date": "2020-05-07"
+      },
+      {
+        "title": "免费服务器，它来了",
+        "link": "https://www.ershicimi.com/p/299adc022cb8f8a1319ab0e93410f5d3",
+        "date": "2020-05-07"
+      },
+      {
         "title": "Vue3.0 Beta 来了，正式版还会远吗？",
         "link": "https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f",
         "date": "2020-05-06"
@@ -6175,6 +6195,141 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[北京-武汉-合肥-成都] to B 的十年，来神策数据建功立业？",
+        "link": "https://www.v2ex.com/t/669608",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Building a fast Electron app with Rust",
+        "link": "https://www.v2ex.com/t/669606",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "如何将 qsv 转换为通用视频格式",
+        "link": "https://www.v2ex.com/t/669605",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Windows 安装了 flutter 环境，然后用 VS Code 跑 flutter 项目， dart.exe 在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？",
+        "link": "https://www.v2ex.com/t/669604",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "新加坡高中毕业程序员如何提升学历?",
+        "link": "https://www.v2ex.com/t/669603",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Apple Watch 耗电量的问题",
+        "link": "https://www.v2ex.com/t/669601",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "gitlab 每次 push 一个项目后都会假死一会儿",
+        "link": "https://www.v2ex.com/t/669600",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[前端招聘] NewBanker 招募前端工程师啦~",
+        "link": "https://www.v2ex.com/t/669599",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "斗图啦的站长在吗，你的主页挂了",
+        "link": "https://www.v2ex.com/t/669598",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "你看到的是你所希望看到的",
+        "link": "https://www.v2ex.com/t/669597",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "3 年 Android 求个上海,深圳,杭州 等地 965 的岗位,欢迎推荐",
+        "link": "https://www.v2ex.com/t/669595",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "目前有没有对 Markdown 各个元素高亮的 Markdown 移动端应用？",
+        "link": "https://www.v2ex.com/t/669594",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "求教啊,怎么将电脑硬盘当 U 盘用? 用的时候加载,不用的时候就不挂载",
+        "link": "https://www.v2ex.com/t/669593",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "天津金融创业公司招聘 IT 维护兼 Windows Server 运维",
+        "link": "https://www.v2ex.com/t/669592",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "手机上的音乐会自我删除吗？",
+        "link": "https://www.v2ex.com/t/669591",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "为什么 iPhone 的感光元件比同期的安卓旗舰小那么多？",
+        "link": "https://www.v2ex.com/t/669590",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "没有认证的公众号可以通过程序自动创建图文消息么？",
+        "link": "https://www.v2ex.com/t/669589",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "有对应 http 文档和 mock 的 rpc 文档和 mock 服务提供方案吗？",
+        "link": "https://www.v2ex.com/t/669588",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[福州] 福州网龙网络公司在线 pick 做游戏开发和游戏策划的同学啊～～",
+        "link": "https://www.v2ex.com/t/669587",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "gf-cli v0.7.4 发布， GoFrame 开发工具链",
+        "link": "https://www.v2ex.com/t/669586",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "发现一个用 mac 时便捷实用 iPhone 上的词典的方法",
+        "link": "https://www.v2ex.com/t/669585",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "C 盘快不够了，各位有方法吗？",
+        "link": "https://www.v2ex.com/t/669584",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[北京求租] 迫于房子到期，求租一个主卧或稍大一点的次卧，最好在 10 号线地铁劲松和巴沟之间",
+        "link": "https://www.v2ex.com/t/669583",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "有没有感觉小度音响的音质很不错",
+        "link": "https://www.v2ex.com/t/669582",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[杭州]招聘前端工程师，待遇优厚",
+        "link": "https://www.v2ex.com/t/669580",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "electron-vue 项目有一年没更新了， V 友们有替代的库推荐么？",
+        "link": "https://www.v2ex.com/t/669579",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "找不到 go 工作，焦虑了",
+        "link": "https://www.v2ex.com/t/669578",
+        "date": "2020-05-08"
+      },
       {
         "title": "单位把购物网站，视频网站， B 站屏蔽了怎么办？",
         "link": "https://www.v2ex.com/t/669577",

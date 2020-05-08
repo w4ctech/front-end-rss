@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 07:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,7 +1007,9 @@
 </summary>
 
 
-- [2020-05-09-疑似国外设计师妹子重新设计了-Python-logo](https://www.v2ex.com/t/669849) ![](assets/new.png)  
+- [2020-05-09-孙玲在中国找工作受阻](https://www.v2ex.com/t/669851) ![](assets/new.png)  
+- [2020-05-09-北京-滴滴-内推网约车-直招高级/资深前端研发工程师-20k~50k](https://www.v2ex.com/t/669850) ![](assets/new.png)  
+- [2020-05-09-疑似国外设计师妹子重新设计了-Python-logo](https://www.v2ex.com/t/669849)  
 - [2020-05-09-GeekHub-论坛好美，有开源计划吗？](https://www.v2ex.com/t/669848)  
 - [2020-05-09-分享一次-golang-的面试题，最后一题求解答](https://www.v2ex.com/t/669847)  
 - [2020-05-09-深圳小产权选房问题，求科普和意见](https://www.v2ex.com/t/669846)  
@@ -1025,8 +1027,6 @@
 - [2020-05-08-出小米盒子国际版](https://www.v2ex.com/t/669834)  
 - [2020-05-08-想买个护眼显示器-SX2462W-可以买吗-还是-cs230-求分析](https://www.v2ex.com/t/669833)  
 - [2020-05-08-不懂就问，-Java-中文件复制速度的问题。](https://www.v2ex.com/t/669832)  
-- [2020-05-08-海外的有个项目，由收-RMB-变成美金，是不是这风险挺大的？](https://www.v2ex.com/t/669831)  
-- [2020-05-08-闲鱼买了个智米风扇-2S，到货拆开头断了~](https://www.v2ex.com/t/669829)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

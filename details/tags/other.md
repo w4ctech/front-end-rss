@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -590,6 +590,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-09-孙玲在中国找工作受阻](https://www.v2ex.com/t/669851) 
+- [2020-05-09-北京-滴滴-内推网约车-直招高级/资深前端研发工程师-20k~50k](https://www.v2ex.com/t/669850) 
 - [2020-05-09-疑似国外设计师妹子重新设计了-Python-logo](https://www.v2ex.com/t/669849) 
 - [2020-05-09-GeekHub-论坛好美，有开源计划吗？](https://www.v2ex.com/t/669848) 
 - [2020-05-09-深圳小产权选房问题，求科普和意见](https://www.v2ex.com/t/669846) 

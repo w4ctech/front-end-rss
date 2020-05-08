@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -121,6 +121,8 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-08-js-异步执行顺序](https://www.v2ex.com/t/669652) 
+- [2020-05-08-请问程序中如何覆盖或监听-Surface-Pen-的顶端按钮事件？](https://www.v2ex.com/t/669651) 
 - [2020-05-08-老哥们,求教这个正则应该怎样理解?](https://www.v2ex.com/t/669635) 
 - [2020-05-07-看了一圈，无线网卡比无线路由贵一大截，是不是买个无线路由回来桥接更划算？](https://www.v2ex.com/t/669392) 
 - [2020-05-07-前端有没有那种视频截图且可以裁剪大小的组件](https://www.v2ex.com/t/669373) 

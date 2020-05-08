@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 16:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 16:30:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -417,7 +417,7 @@
 </summary>
 
 
-- [2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808) ![](assets/new.png)  
+- [2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808)  
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4)  
 - [2020-05-07-Vue3-&-React-Hooks-新UI组件原理：Modal-弹窗](https://www.ershicimi.com/p/736121607a63c399a607ec846e29b654)  
 - [2020-05-06-9个不错的前端开源项目](https://www.ershicimi.com/p/7abeffa835c459365215815d95e92cee)  
@@ -1003,26 +1003,26 @@
 </summary>
 
 
-- [2020-05-08-niz-plum-键盘能像-hhkb-那样定制方向键吗？-emacs-shortcuts（ctrl+f/b/a/e）](https://www.v2ex.com/t/669637)  
-- [2020-05-08-管理，帮我删除下我的这条回复。](https://www.v2ex.com/t/669636)  
-- [2020-05-08-老哥们,求教这个正则应该怎样理解?](https://www.v2ex.com/t/669635)  
-- [2020-05-08-杭州/北京-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/产品-文档团队持续招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/669634)  
-- [2020-05-08-ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631)  
-- [2020-05-08-这么多年的吐槽，为什么酸奶厂商不做一种不粘酸奶的包装呢。](https://www.v2ex.com/t/669630)  
-- [2020-05-08-如何在-Jetbrain-IDE-中配置更符合语义的大小写检查规则？](https://www.v2ex.com/t/669628)  
-- [2020-05-08-百度内推-百度内推~北京、上海、深圳-随时反馈进度，技术、产品大量岗位](https://www.v2ex.com/t/669627)  
-- [2020-05-08-Android-Studio-4.1-Canary-9-available](https://www.v2ex.com/t/669626)  
-- [2020-05-08-请教一个问题，本地-Git-两个项目的代码串门了？](https://www.v2ex.com/t/669625)  
-- [2020-05-08-北京招聘-IT-支持,-10k-12k](https://www.v2ex.com/t/669624)  
-- [2020-05-08-看到一个视频，-macbook-CPU-比较：-1.-第一比功耗-2.-第二比代数-3.-第三比系列-4.-最后看主频-是否合理？](https://www.v2ex.com/t/669623)  
-- [2020-05-08-百度真的是什么都抓啊](https://www.v2ex.com/t/669622)  
-- [2020-05-08-悲剧，索尼电视屏幕坏了，是维修换屏还是重新买一个？](https://www.v2ex.com/t/669621)  
-- [2020-05-08-有啥高品质的自带电池小风扇么?](https://www.v2ex.com/t/669620)  
-- [2020-05-08-最近在思考一个关于奥利给的问题](https://www.v2ex.com/t/669618)  
-- [2020-05-08-关于-Origin-抢夺窗口焦点的问题](https://www.v2ex.com/t/669617)  
-- [2020-05-08-如何设计-APP-的-面容/指纹-登录的安全机制？](https://www.v2ex.com/t/669616)  
-- [2020-05-08-各位大佬，问个关于浏览器中-img-标签和-a-标签的小问题。](https://www.v2ex.com/t/669615)  
-- [2020-05-08-烟台Web-前后端开发工程师](https://www.v2ex.com/t/669614)  
+- [2020-05-08-字节跳动-影响团队-面试官亲自帮忙内推](https://www.v2ex.com/t/669692) ![](assets/new.png)  
+- [2020-05-08-iOS-内存不够杀后台机制是什么?](https://www.v2ex.com/t/669691) ![](assets/new.png)  
+- [2020-05-08-各位，我又来求-star-了，-mysql2ch，一个同步-MySQL-到-Clickhouse-的工具](https://www.v2ex.com/t/669690) ![](assets/new.png)  
+- [2020-05-08-微信扫指向-imdb-链接的二维码，跳转错误](https://www.v2ex.com/t/669689) ![](assets/new.png)  
+- [2020-05-08-「求一套-uniapp-模版」我要自学-uniapp-不求人](https://www.v2ex.com/t/669688) ![](assets/new.png)  
+- [2020-05-08-字节跳动-影像团队-面试官亲自帮忙内推](https://www.v2ex.com/t/669686) ![](assets/new.png)  
+- [2020-05-08-昨天联通保修，发现已经接入了智能语音，感觉可能会有攻击破口。](https://www.v2ex.com/t/669685) ![](assets/new.png)  
+- [2020-05-08-请大家帮忙选个-offer](https://www.v2ex.com/t/669684) ![](assets/new.png)  
+- [2020-05-08-上海-NLP-方向公司，招-Java-各阶段-、自动化测试、-Python-、大数据、Electron-、算法等各路大佬](https://www.v2ex.com/t/669683) ![](assets/new.png)  
+- [2020-05-08-上市公司招聘研发岗位](https://www.v2ex.com/t/669682) ![](assets/new.png)  
+- [2020-05-08-Macbook-Pro-13'-2020-实际性能表现如何？](https://www.v2ex.com/t/669681) ![](assets/new.png)  
+- [2020-05-08-坐久了,-尾巴根儿不舒服怎么办?](https://www.v2ex.com/t/669680) ![](assets/new.png)  
+- [2020-05-08-有搞国产化相关事物的朋友么（比如-UOS、deepin）](https://www.v2ex.com/t/669679) ![](assets/new.png)  
+- [2020-05-08-win10-微软拼音打繁体貌似有问题啊，大佬们是怎么解决的？，目前发现-2-个问题](https://www.v2ex.com/t/669678) ![](assets/new.png)  
+- [2020-05-08-中英文-1:2-等宽字体](https://www.v2ex.com/t/669677) ![](assets/new.png)  
+- [2020-05-08-报废的工作站能用来干嘛？](https://www.v2ex.com/t/669676) ![](assets/new.png)  
+- [2020-05-08-GeekHub-开站见面礼。分子抢楼送出-AirPods:-4-个,-苹果鼠标:-4-个,-黑鱼充电宝:-22-个-，无套路，纯手气。](https://www.v2ex.com/t/669674) ![](assets/new.png)  
+- [2020-05-08-贪吃蛇游戏里，怎么设置食物位置？](https://www.v2ex.com/t/669673) ![](assets/new.png)  
+- [2020-05-08-VScode-Setting-Sync-同步失败](https://www.v2ex.com/t/669672) ![](assets/new.png)  
+- [2020-05-08-如何解决-pycharm-中某些库没有智能提示的问题？](https://www.v2ex.com/t/669671) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

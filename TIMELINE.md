@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-08 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -197,6 +197,9 @@
 - [【前端瓶子君】2020-05-05-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/ea06851a50afb8c1076a2b6d9c096676) 
 - [【前端瓶子君】2020-05-04-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138) 
 - [【前端瓶子君】2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) 
+- [【程序员成长指北】2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556) 
+- [【程序员成长指北】2020-05-08-使用-Nodejs-实现定时爬取微博热搜榜](https://www.ershicimi.com/p/0efab3a54fcf982409460fbffd365a7c) 
+- [【程序员成长指北】2020-05-07-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531) 
 - [【程序员成长指北】2020-05-06-“慢”就是原罪，如何实践前端自动化部署？](https://www.ershicimi.com/p/1782433bd70a1fe03dca349dc4dcd3a0) 
 - [【程序员成长指北】2020-05-06-关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b) 
 - [【程序员成长指北】2020-05-05-微前端-qiankun-项目实践-!!!-防踩坑指南](https://www.ershicimi.com/p/17fc463eebd5d855798447de052ae007) 

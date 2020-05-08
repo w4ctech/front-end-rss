@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 09:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 09:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -554,6 +554,9 @@
 </summary>
 
 
+- [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556) ![](assets/new.png)  
+- [2020-05-08-使用-Nodejs-实现定时爬取微博热搜榜](https://www.ershicimi.com/p/0efab3a54fcf982409460fbffd365a7c) ![](assets/new.png)  
+- [2020-05-07-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531) ![](assets/new.png)  
 - [2020-05-06-“慢”就是原罪，如何实践前端自动化部署？](https://www.ershicimi.com/p/1782433bd70a1fe03dca349dc4dcd3a0)  
 - [2020-05-06-关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b)  
 - [2020-05-05-微前端-qiankun-项目实践-!!!-防踩坑指南](https://www.ershicimi.com/p/17fc463eebd5d855798447de052ae007)  
@@ -571,8 +574,6 @@
 - [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320)  
 - [2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232)  
 - [2020-04-21-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/2ced5b40c083ada7482563e791a65fa4)  
-- [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5)  
-- [2020-04-20-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/8eeced27110ebf6247e339edde335d2b)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1001,10 +1002,10 @@
 </summary>
 
 
-- [2020-05-08-母亲节要到了，不知道要送什么礼物给妈妈](https://www.v2ex.com/t/669509) ![](assets/new.png)  
-- [2020-05-08-两年测试想找互联网产品岗](https://www.v2ex.com/t/669506) ![](assets/new.png)  
-- [2020-05-08-关于-Java-io-的一些问题](https://www.v2ex.com/t/669505) ![](assets/new.png)  
-- [2020-05-08-请问北京现在管控力度放宽了吗？](https://www.v2ex.com/t/669502) ![](assets/new.png)  
+- [2020-05-08-母亲节要到了，不知道要送什么礼物给妈妈](https://www.v2ex.com/t/669509)  
+- [2020-05-08-两年测试想找互联网产品岗](https://www.v2ex.com/t/669506)  
+- [2020-05-08-关于-Java-io-的一些问题](https://www.v2ex.com/t/669505)  
+- [2020-05-08-请问北京现在管控力度放宽了吗？](https://www.v2ex.com/t/669502)  
 - [2020-05-08-3000-美金在-paypal，如何更好地利用？](https://www.v2ex.com/t/669501)  
 - [2020-05-08-恢复-APFS-容器的-dmg-到新磁盘，结果提示这样，以前可以的奇怪](https://www.v2ex.com/t/669500)  
 - [2020-05-08-第一次日活超过-500](https://www.v2ex.com/t/669499)  
@@ -1063,18 +1064,18 @@
 </summary>
 
 
-- [2020-05-08-文本分类加速优化实践](https://toutiao.io/k/qnq0hnb) ![](assets/new.png)  
-- [2020-05-08-Go-中的-Goroutine-+-Channel-真的能减少并发-Bug-吗？](https://toutiao.io/k/bfe6sf1) ![](assets/new.png)  
-- [2020-05-08-Kubernetes-网络实现](https://toutiao.io/k/11u8ax3) ![](assets/new.png)  
-- [2020-05-08-机器学习笔记（十四）：线性回归及其两种常用的优化方法](https://toutiao.io/k/4vxaqan) ![](assets/new.png)  
-- [2020-05-08-译-Vue-3-中的-Vue-Router-初探](https://toutiao.io/k/vtvsc0y) ![](assets/new.png)  
-- [2020-05-08-都工作两年了，还不知道浮点数如何转二进制？](https://toutiao.io/k/kkod6bn) ![](assets/new.png)  
-- [2020-05-08-为了资料不被白嫖，我学会了做网站的防盗链](https://toutiao.io/k/h1ibjlt) ![](assets/new.png)  
-- [2020-05-08-闲鱼消息推送底层的二三事](https://toutiao.io/k/qstqwtn) ![](assets/new.png)  
-- [2020-05-08-白话中台战略（五）：中台的第一性原理](https://toutiao.io/k/456gbmt) ![](assets/new.png)  
-- [2020-05-08-快速排序-Quick-Sort](https://toutiao.io/k/hs3ud35) ![](assets/new.png)  
-- [2020-05-08-YOLT：大尺寸图像目标检测的解决方案](https://toutiao.io/k/757g2fk) ![](assets/new.png)  
-- [2020-05-08-深入浅出-Android-屏幕刷新原理](https://toutiao.io/k/804s9k5) ![](assets/new.png)  
+- [2020-05-08-文本分类加速优化实践](https://toutiao.io/k/qnq0hnb)  
+- [2020-05-08-Go-中的-Goroutine-+-Channel-真的能减少并发-Bug-吗？](https://toutiao.io/k/bfe6sf1)  
+- [2020-05-08-Kubernetes-网络实现](https://toutiao.io/k/11u8ax3)  
+- [2020-05-08-机器学习笔记（十四）：线性回归及其两种常用的优化方法](https://toutiao.io/k/4vxaqan)  
+- [2020-05-08-译-Vue-3-中的-Vue-Router-初探](https://toutiao.io/k/vtvsc0y)  
+- [2020-05-08-都工作两年了，还不知道浮点数如何转二进制？](https://toutiao.io/k/kkod6bn)  
+- [2020-05-08-为了资料不被白嫖，我学会了做网站的防盗链](https://toutiao.io/k/h1ibjlt)  
+- [2020-05-08-闲鱼消息推送底层的二三事](https://toutiao.io/k/qstqwtn)  
+- [2020-05-08-白话中台战略（五）：中台的第一性原理](https://toutiao.io/k/456gbmt)  
+- [2020-05-08-快速排序-Quick-Sort](https://toutiao.io/k/hs3ud35)  
+- [2020-05-08-YOLT：大尺寸图像目标检测的解决方案](https://toutiao.io/k/757g2fk)  
+- [2020-05-08-深入浅出-Android-屏幕刷新原理](https://toutiao.io/k/804s9k5)  
 - [2020-05-08-Android-Studio-和-MAT-结合使用来分析内存问题](https://toutiao.io/k/gfdtrgd)  
 - [2020-05-08-程序员真的是吃青春饭的吗？|-码农周刊第-305-期](https://toutiao.io/k/omc4ca0)  
 - [2020-05-08-更高效地刷-LeetCode？试试这个吧！](https://toutiao.io/k/y77r6bd)  

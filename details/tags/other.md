@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -303,6 +303,7 @@
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad) 
+- [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556) 
 - [2020-05-06-“慢”就是原罪，如何实践前端自动化部署？](https://www.ershicimi.com/p/1782433bd70a1fe03dca349dc4dcd3a0) 
 - [2020-05-05-微前端-qiankun-项目实践-!!!-防踩坑指南](https://www.ershicimi.com/p/17fc463eebd5d855798447de052ae007) 
 - [2020-04-29-一直在极客时间上花钱学习的我，终于发现了免费领课的方法！](https://www.ershicimi.com/p/7297620d678092ef1e87edab5fceeb3b) 

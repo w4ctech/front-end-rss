@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 01:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 02:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,12 +1007,13 @@
 </summary>
 
 
-- [2020-05-09-iPadOS-有什么好的-V2EX-客户端](https://www.v2ex.com/t/669843) ![](assets/new.png)  
-- [2020-05-09-半夜被狗东白条突然降额恶心到了](https://www.v2ex.com/t/669842) ![](assets/new.png)  
-- [2020-05-09-FlexScan-SX2462W-这个显示器如何？-https://imgur.com/7csT8y3](https://www.v2ex.com/t/669841) ![](assets/new.png)  
-- [2020-05-09-注解相比-xml-配置有什么优缺点，新项目中可以替代-xml-吗？](https://www.v2ex.com/t/669840) ![](assets/new.png)  
-- [2020-05-09-坚持背英语单词-Flag-再也不是下次一定了](https://www.v2ex.com/t/669839) ![](assets/new.png)  
-- [2020-05-09-有关-apple-的时间机器备份的问题](https://www.v2ex.com/t/669838) ![](assets/new.png)  
+- [2020-05-09-求查看笔记的工具](https://www.v2ex.com/t/669844) ![](assets/new.png)  
+- [2020-05-09-iPadOS-有什么好的-V2EX-客户端](https://www.v2ex.com/t/669843)  
+- [2020-05-09-半夜被狗东白条突然降额恶心到了](https://www.v2ex.com/t/669842)  
+- [2020-05-09-FlexScan-SX2462W-这个显示器如何？-https://imgur.com/7csT8y3](https://www.v2ex.com/t/669841)  
+- [2020-05-09-注解相比-xml-配置有什么优缺点，新项目中可以替代-xml-吗？](https://www.v2ex.com/t/669840)  
+- [2020-05-09-坚持背英语单词-Flag-再也不是下次一定了](https://www.v2ex.com/t/669839)  
+- [2020-05-09-有关-apple-的时间机器备份的问题](https://www.v2ex.com/t/669838)  
 - [2020-05-09-试错就是一种自由](https://www.v2ex.com/t/669837)  
 - [2020-05-09-香炸了，社会主义想，小新-15-2020-款。](https://www.v2ex.com/t/669836)  
 - [2020-05-08-一种自动配置雪花-id-算法参数的方法](https://www.v2ex.com/t/669835)  
@@ -1026,7 +1027,6 @@
 - [2020-05-08-疫情发展到现在，你/你的配偶失业了吗，失业了多久？](https://www.v2ex.com/t/669826)  
 - [2020-05-08-GCP-HK-部分-IP-回程可看](https://www.v2ex.com/t/669825)  
 - [2020-05-08-求推荐，-chrome-内核浏览器的插件：设置网站黑名单](https://www.v2ex.com/t/669824)  
-- [2020-05-08-即将失去尊贵的北漂身份的-loser-前端求职](https://www.v2ex.com/t/669823)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

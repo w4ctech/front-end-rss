@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-08 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -148,6 +148,8 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a) 
+- [【前端大全】2020-05-08-5-个技巧助你编写更好的-React-代码](https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a) 
 - [【前端大全】2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442) 
 - [【前端大全】2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e) 
 - [【前端大全】2020-05-06-JS-图片压缩的实现思路](https://www.ershicimi.com/p/33c01e37b8e3264c22e6349a5d9b2d6a) 

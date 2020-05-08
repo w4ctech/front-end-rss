@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 21:00:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 21:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -230,6 +230,8 @@
 </summary>
 
 
+- [2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a) ![](assets/new.png)  
+- [2020-05-08-5-个技巧助你编写更好的-React-代码](https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a) ![](assets/new.png)  
 - [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442)  
 - [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e)  
 - [2020-05-06-JS-图片压缩的实现思路](https://www.ershicimi.com/p/33c01e37b8e3264c22e6349a5d9b2d6a)  
@@ -248,8 +250,6 @@
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3)  
 - [2020-04-24-聊一下-Chrome-新增的可信类型](https://www.ershicimi.com/p/1d3f5e4f59e3cdf47ed37c79eacb443e)  
 - [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)  
-- [2020-04-22-Vue-3.0-语法快速入门](https://www.ershicimi.com/p/b9752c22c9917be063966fdad8dc22a8)  
-- [2020-04-21-微前端框架是怎么导入加载子应用的](https://www.ershicimi.com/p/2f6072feaecd1f9d00fabadb870cf316)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1005,26 +1005,26 @@
 </summary>
 
 
-- [2020-05-08-有没有-Python-编程萌新，准备搞个学习网站](https://www.v2ex.com/t/669787) ![](assets/new.png)  
-- [2020-05-08-有大佬-设置过-HP-1022-的-wifi-打印吗-想找这个界面的驱动-官网下载不是-很奇怪-https://imgchr.com/i/YKa0bQ](https://www.v2ex.com/t/669786) ![](assets/new.png)  
-- [2020-05-08-是个-App-就有请求手机-App-列表的权限，这权限有什么用？](https://www.v2ex.com/t/669784) ![](assets/new.png)  
-- [2020-05-08-ios13-没有-app-使用流量统计重置/清零的功能？？](https://www.v2ex.com/t/669782) ![](assets/new.png)  
-- [2020-05-08-家用的情况下能否借助虚拟化实现一个-All-in-One-的中心？](https://www.v2ex.com/t/669781) ![](assets/new.png)  
-- [2020-05-08-求推荐笔记本，-5k-价位，看视频查文献，需要带出门，-13-寸。](https://www.v2ex.com/t/669780) ![](assets/new.png)  
-- [2020-05-08-字节跳动|飞书-招人啦招人啦，全国多地都有岗位](https://www.v2ex.com/t/669779) ![](assets/new.png)  
-- [2020-05-08-无聊弄了个-V2EX-主题跟随系统切换「深色/浅色」模式的油猴脚本🐒](https://www.v2ex.com/t/669778) ![](assets/new.png)  
-- [2020-05-08-字节跳动-飞书-北上广深杭武-社招-&-校招-&-实习生-直推](https://www.v2ex.com/t/669777) ![](assets/new.png)  
-- [2020-05-08-后天就母亲节，给妈妈买什么礼物好呢](https://www.v2ex.com/t/669776) ![](assets/new.png)  
-- [2020-05-08-淘宝直播-社招-校招前端---base-杭州-or-北京-内推](https://www.v2ex.com/t/669775) ![](assets/new.png)  
-- [2020-05-08-吐槽一下！-Python-后端的开发路线、场景等在网上总是难有好的案例，羡慕-Java-好多路线、场景、解决案例-ORZ-太难了](https://www.v2ex.com/t/669774) ![](assets/new.png)  
-- [2020-05-08-携号转网：共享业务（群主）是什么业务？](https://www.v2ex.com/t/669773) ![](assets/new.png)  
-- [2020-05-08-紧跟经济行情，我也加入了被裁大军](https://www.v2ex.com/t/669770) ![](assets/new.png)  
-- [2020-05-08-阿姨直聘-小程序-家政届的-BOSS-直聘---希望做一个小众行业的好工具](https://www.v2ex.com/t/669769) ![](assets/new.png)  
-- [2020-05-08-为什么普通-https-加载很慢，-Trojan-却可以很快？](https://www.v2ex.com/t/669768) ![](assets/new.png)  
-- [2020-05-08-v-站三年的陈年-flag-拔旗了,-代码终于写好了呢...](https://www.v2ex.com/t/669767) ![](assets/new.png)  
-- [2020-05-08-寻找热爱计算机视觉的你](https://www.v2ex.com/t/669765) ![](assets/new.png)  
-- [2020-05-08-阿里-Android/Ios-内推，有兴趣的发简历给我](https://www.v2ex.com/t/669764) ![](assets/new.png)  
-- [2020-05-08--上海-招行信用卡中心招聘-应用运维-薪资-30-60w](https://www.v2ex.com/t/669763) ![](assets/new.png)  
+- [2020-05-08-有没有-Python-编程萌新，准备搞个学习网站](https://www.v2ex.com/t/669787)  
+- [2020-05-08-有大佬-设置过-HP-1022-的-wifi-打印吗-想找这个界面的驱动-官网下载不是-很奇怪-https://imgchr.com/i/YKa0bQ](https://www.v2ex.com/t/669786)  
+- [2020-05-08-是个-App-就有请求手机-App-列表的权限，这权限有什么用？](https://www.v2ex.com/t/669784)  
+- [2020-05-08-ios13-没有-app-使用流量统计重置/清零的功能？？](https://www.v2ex.com/t/669782)  
+- [2020-05-08-家用的情况下能否借助虚拟化实现一个-All-in-One-的中心？](https://www.v2ex.com/t/669781)  
+- [2020-05-08-求推荐笔记本，-5k-价位，看视频查文献，需要带出门，-13-寸。](https://www.v2ex.com/t/669780)  
+- [2020-05-08-字节跳动|飞书-招人啦招人啦，全国多地都有岗位](https://www.v2ex.com/t/669779)  
+- [2020-05-08-无聊弄了个-V2EX-主题跟随系统切换「深色/浅色」模式的油猴脚本🐒](https://www.v2ex.com/t/669778)  
+- [2020-05-08-字节跳动-飞书-北上广深杭武-社招-&-校招-&-实习生-直推](https://www.v2ex.com/t/669777)  
+- [2020-05-08-后天就母亲节，给妈妈买什么礼物好呢](https://www.v2ex.com/t/669776)  
+- [2020-05-08-淘宝直播-社招-校招前端---base-杭州-or-北京-内推](https://www.v2ex.com/t/669775)  
+- [2020-05-08-吐槽一下！-Python-后端的开发路线、场景等在网上总是难有好的案例，羡慕-Java-好多路线、场景、解决案例-ORZ-太难了](https://www.v2ex.com/t/669774)  
+- [2020-05-08-携号转网：共享业务（群主）是什么业务？](https://www.v2ex.com/t/669773)  
+- [2020-05-08-紧跟经济行情，我也加入了被裁大军](https://www.v2ex.com/t/669770)  
+- [2020-05-08-阿姨直聘-小程序-家政届的-BOSS-直聘---希望做一个小众行业的好工具](https://www.v2ex.com/t/669769)  
+- [2020-05-08-为什么普通-https-加载很慢，-Trojan-却可以很快？](https://www.v2ex.com/t/669768)  
+- [2020-05-08-v-站三年的陈年-flag-拔旗了,-代码终于写好了呢...](https://www.v2ex.com/t/669767)  
+- [2020-05-08-寻找热爱计算机视觉的你](https://www.v2ex.com/t/669765)  
+- [2020-05-08-阿里-Android/Ios-内推，有兴趣的发简历给我](https://www.v2ex.com/t/669764)  
+- [2020-05-08--上海-招行信用卡中心招聘-应用运维-薪资-30-60w](https://www.v2ex.com/t/669763)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

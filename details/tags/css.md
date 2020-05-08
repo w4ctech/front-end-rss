@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -51,6 +51,7 @@
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
 - [2020-05-08-清华博士是怎么看动画的？](https://www.ershicimi.com/p/b7cd7f944d22e7b2782af5f0c2529277) 
+- [2020-05-09-FlexScan-SX2462W-这个显示器如何？-https://imgur.com/7csT8y3](https://www.v2ex.com/t/669841) 
 - [2020-05-08-回顾-|-Tencent-Serverless-Hours-线上分享会第一期](https://www.v2ex.com/t/669804) 
 - [2020-05-08-请问下这种-bash-动画怎么生成的？](https://www.v2ex.com/t/669795) 
 - [2020-05-08-找-UE4-技术美术灯光渲染，定序器，过场动画](https://www.v2ex.com/t/669754) 

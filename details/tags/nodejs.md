@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -32,6 +32,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-08-字节跳动-上海-前端包含-Node-方向-社招-&-校招-&-实习生-直推](https://www.v2ex.com/t/669705) 
 - [2020-05-08-上海-NLP-方向公司，招-Java-各阶段-、自动化测试、-Python-、大数据、Electron-、算法等各路大佬](https://www.v2ex.com/t/669683) 
 - [2020-05-08-Building-a-fast-Electron-app-with-Rust](https://www.v2ex.com/t/669606) 
 - [2020-05-05-electron+go-实现跨平台是否可行？](https://www.v2ex.com/t/668620) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -586,6 +586,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-08-iPad-SSH-客户端推荐](https://www.v2ex.com/t/669706) 
+- [2020-05-08-MacBook-Pro-16-英寸辣眼睛问题](https://www.v2ex.com/t/669702) 
+- [2020-05-08-v2ex-帖子的排序规则是按时间顺序吗？](https://www.v2ex.com/t/669700) 
+- [2020-05-08-迫于老号被降权,-新号重发,-造了一个小工具,-微信表情下载/导出/保存到手机-好玩的表情一起分享](https://www.v2ex.com/t/669699) 
+- [2020-05-08-后天就是母亲节了，你们都打算送什么](https://www.v2ex.com/t/669698) 
+- [2020-05-08-gerrit-漏洞修复求助](https://www.v2ex.com/t/669697) 
+- [2020-05-08-请教下各位-v-友，同事准备换车，-14-年买的-15-款-A4L-35tfs，-15-万值得收不？](https://www.v2ex.com/t/669694) 
+- [2020-05-08-有买场内基金的吗？求交流](https://www.v2ex.com/t/669693) 
 - [2020-05-08-iOS-内存不够杀后台机制是什么?](https://www.v2ex.com/t/669691) 
 - [2020-05-08-各位，我又来求-star-了，-mysql2ch，一个同步-MySQL-到-Clickhouse-的工具](https://www.v2ex.com/t/669690) 
 - [2020-05-08-微信扫指向-imdb-链接的二维码，跳转错误](https://www.v2ex.com/t/669689) 

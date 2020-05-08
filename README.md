@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 22:30:21，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 23:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -500,6 +500,7 @@
 </summary>
 
 
+- [2020-05-08-速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf) ![](assets/new.png)  
 - [2020-05-07-node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/4e37984168059d18864bdb3db3c454b4)  
 - [2020-05-06-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002)  
@@ -975,6 +976,10 @@
 </summary>
 
 
+- [2020-05-08-《女马女马女子里予》——全国妈的争霸实录](https://www.ershicimi.com/p/120f5b2cf70059b7d53096eda6b3e255) ![](assets/new.png)  
+- [2020-05-08-清华博士是怎么看动画的？](https://www.ershicimi.com/p/b7cd7f944d22e7b2782af5f0c2529277) ![](assets/new.png)  
+- [2020-05-08-学会扬长避短，穿对衣服也能「瘦」十斤](https://www.ershicimi.com/p/6004a20f921ad557825d80e23a3a2705) ![](assets/new.png)  
+- [2020-05-08-知乎故事-|-TA-是我见过最不像混混的混混](https://www.ershicimi.com/p/5420630a13be9da607298985a2fcf3c7) ![](assets/new.png)  
 - [2020-05-07-今天想聊聊，我们为什么变成了「知妈乎」](https://www.ershicimi.com/p/162cbcd88c785fec066b4762e4250277)  
 - [2020-05-07-一句话回答：为什么非洲草原似乎都是黄色的？](https://www.ershicimi.com/p/56d7774c6cdcdb1a5d2f86ce817ff827)  
 - [2020-05-07-知乎故事-|-有没有人掉入深层梦境再也醒不来？](https://www.ershicimi.com/p/9eee31444663855c4542571b00c1efd0)  
@@ -991,10 +996,6 @@
 - [2020-05-03-本周知乎热榜-|-创和青你看哪个？鲍毓明再发声喊冤？4-岁女童遭继母虐待入院？](https://www.ershicimi.com/p/6b11936efd60676f9cd74809c34f7cdd)  
 - [2020-05-03-JDG-三载逐梦，一朝夺魁：敬勇气，敬自信，敬坚持](https://www.ershicimi.com/p/24c253251efec0d7f37f97d1849a9c6f)  
 - [2020-05-03-坚持-60-天自律生活之后-,-我的身材变样了……](https://www.ershicimi.com/p/2a3ce04fa547a0765a2b76ef2b9e2d68)  
-- [2020-05-03-知乎故事-|-骑行摔车是什么样的体验？](https://www.ershicimi.com/p/2e768f33362faad4a67d291978678cfc)  
-- [2020-05-02-知乎神吐槽-|-有哪些特征一眼就会被看出是-iPhone-用户？](https://www.ershicimi.com/p/b67c691c10a61523017e7c15dcd295b7)  
-- [2020-05-02-五一特供剧场，宠爱你的「少女心」](https://www.ershicimi.com/p/ae5136b9b655457c93ab1c695a2987aa)  
-- [2020-05-02-知乎故事-|-男女之间有纯友谊吗？](https://www.ershicimi.com/p/794510bc968c3d0aa40284aaa3e15033)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1006,26 +1007,26 @@
 </summary>
 
 
-- [2020-05-08-geekhub-是抢-V2EX-用户的吗？](https://www.v2ex.com/t/669812) ![](assets/new.png)  
-- [2020-05-08-eizo-什么系列最护眼](https://www.v2ex.com/t/669811) ![](assets/new.png)  
-- [2020-05-08-据说宁波银行的压榨比互联网还狠](https://www.v2ex.com/t/669809) ![](assets/new.png)  
-- [2020-05-08-腾讯合作伙伴（外包）值得去吗](https://www.v2ex.com/t/669808) ![](assets/new.png)  
-- [2020-05-08-问个简单的-Java-重排序的问题](https://www.v2ex.com/t/669807) ![](assets/new.png)  
-- [2020-05-08-19-届软件工程打算考公了](https://www.v2ex.com/t/669806) ![](assets/new.png)  
-- [2020-05-08-Apple-Developer-Program-续费时要求实名认证了](https://www.v2ex.com/t/669805) ![](assets/new.png)  
-- [2020-05-08-回顾-|-Tencent-Serverless-Hours-线上分享会第一期](https://www.v2ex.com/t/669804) ![](assets/new.png)  
-- [2020-05-08-iOS-端的-QQ-中腾讯看点反复自动开启](https://www.v2ex.com/t/669803) ![](assets/new.png)  
-- [2020-05-08-各位程序员朋友可以说说自己的加班情况嘛](https://www.v2ex.com/t/669801) ![](assets/new.png)  
-- [2020-05-08-web-木马检测工具](https://www.v2ex.com/t/669800) ![](assets/new.png)  
-- [2020-05-08-你能接受自己房贷占工资比例多少买房？](https://www.v2ex.com/t/669798) ![](assets/new.png)  
-- [2020-05-08-招聘-base-新加坡-Shopee-招聘大数据工程师-数据产品经理-新加坡数据工程组直推](https://www.v2ex.com/t/669797) ![](assets/new.png)  
-- [2020-05-08-请教一个配置-iptables-允许转发-L2tp-over-ipsec-问题](https://www.v2ex.com/t/669796) ![](assets/new.png)  
-- [2020-05-08-请问下这种-bash-动画怎么生成的？](https://www.v2ex.com/t/669795) ![](assets/new.png)  
-- [2020-05-08-如何在-fastapi-的多个-app-之间共享全局变量？](https://www.v2ex.com/t/669793) ![](assets/new.png)  
-- [2020-05-08-你们使用电脑有碰到啥也没开磁盘占用就满的情况，然后只能强制重启](https://www.v2ex.com/t/669790) ![](assets/new.png)  
-- [2020-05-08-你看那个人好像一条狗，要饭都要不到](https://www.v2ex.com/t/669789) ![](assets/new.png)  
-- [2020-05-08-有没有-Python-编程萌新，准备搞个学习网站](https://www.v2ex.com/t/669787)  
-- [2020-05-08-有大佬-设置过-HP-1022-的-wifi-打印吗-想找这个界面的驱动-官网下载不是-很奇怪-https://imgchr.com/i/YKa0bQ](https://www.v2ex.com/t/669786)  
+- [2020-05-08-大佬求教，签下百兆专线后如何接线？](https://www.v2ex.com/t/669821) ![](assets/new.png)  
+- [2020-05-08-服务器内网代理能提高隐私吗？](https://www.v2ex.com/t/669820) ![](assets/new.png)  
+- [2020-05-08-关于-IPV6-地址的使用问题](https://www.v2ex.com/t/669819) ![](assets/new.png)  
+- [2020-05-08-群晖发现好多来自-127.0.0.1-的-ssh-登录请求](https://www.v2ex.com/t/669818) ![](assets/new.png)  
+- [2020-05-08-求教，四川移动有没有什么比较划算-100-以内的家庭套餐，带宽带和-iptv](https://www.v2ex.com/t/669817) ![](assets/new.png)  
+- [2020-05-08-电脑贴纸贴贴乐](https://www.v2ex.com/t/669816) ![](assets/new.png)  
+- [2020-05-08-用家庭共享-Home-Sharing-替代网易云盘,-Mac-与-iPhone-如何互传本地音乐](https://www.v2ex.com/t/669815) ![](assets/new.png)  
+- [2020-05-08-刚买的新款-iPhone-se-手指轻敲摄像头位置有异响](https://www.v2ex.com/t/669814) ![](assets/new.png)  
+- [2020-05-08-geekhub-是抢-V2EX-用户的吗？](https://www.v2ex.com/t/669812)  
+- [2020-05-08-eizo-什么系列最护眼](https://www.v2ex.com/t/669811)  
+- [2020-05-08-据说宁波银行的压榨比互联网还狠](https://www.v2ex.com/t/669809)  
+- [2020-05-08-腾讯合作伙伴（外包）值得去吗](https://www.v2ex.com/t/669808)  
+- [2020-05-08-问个简单的-Java-重排序的问题](https://www.v2ex.com/t/669807)  
+- [2020-05-08-19-届软件工程打算考公了](https://www.v2ex.com/t/669806)  
+- [2020-05-08-Apple-Developer-Program-续费时要求实名认证了](https://www.v2ex.com/t/669805)  
+- [2020-05-08-回顾-|-Tencent-Serverless-Hours-线上分享会第一期](https://www.v2ex.com/t/669804)  
+- [2020-05-08-iOS-端的-QQ-中腾讯看点反复自动开启](https://www.v2ex.com/t/669803)  
+- [2020-05-08-各位程序员朋友可以说说自己的加班情况嘛](https://www.v2ex.com/t/669801)  
+- [2020-05-08-web-木马检测工具](https://www.v2ex.com/t/669800)  
+- [2020-05-08-你能接受自己房贷占工资比例多少买房？](https://www.v2ex.com/t/669798)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

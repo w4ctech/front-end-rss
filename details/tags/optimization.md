@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -53,6 +53,7 @@
 - [2020-04-24-做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746) 
 - [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq) 
 - [2020-05-08-文本分类加速优化实践](https://toutiao.io/k/qnq0hnb) 
 - [2020-05-08-机器学习笔记（十四）：线性回归及其两种常用的优化方法](https://toutiao.io/k/4vxaqan) 
 - [2020-05-07-百亿级日志系统架构设计及优化](https://toutiao.io/k/ywbfms1) 

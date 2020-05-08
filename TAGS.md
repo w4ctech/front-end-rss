@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -600,6 +600,7 @@
 
 
 - [【Vue中文社区】GitHub-上值得收藏的100个精选前端项目！](https://www.ershicimi.com/p/4b4b4be1493ff07f99caee616748d59c)
+- [【全栈前端精选】昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67)
 - [【全栈前端精选】小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/ba6d63d622cb150af6a4bcc0e88d3833)
 - [【前端宇宙】别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36)
 - [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
@@ -618,7 +619,6 @@
 - [【V2EX】gitlab-每次-push-一个项目后都会假死一会儿](https://www.v2ex.com/t/669600)
 - [【V2EX】极客时间、拉勾教育、GitChat、掘金等网课返利平台上线|返现|极客返利](https://www.v2ex.com/t/669214)
 - [【V2EX】大家平时手机看-GitHub-用什么-app-呀（iOS）](https://www.v2ex.com/t/669082)
-- [【V2EX】最近逛-github-有感](https://www.v2ex.com/t/669081)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

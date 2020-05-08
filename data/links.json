@@ -2654,6 +2654,16 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "分享一些斩获大厂 offer 的技巧",
+        "link": "https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "昨天GitHub迎来重大更新",
+        "link": "https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67",
+        "date": "2020-05-08"
+      },
+      {
         "title": "移动端开发的屏幕、图像、字体与布局的兼容适配",
         "link": "https://www.ershicimi.com/p/dde6b1da240b9737ece0c395cb95ed31",
         "date": "2020-05-07"
@@ -22314,6 +22324,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Golang 性能优化实战",
+        "link": "https://toutiao.io/k/xh5mlkq",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "OPPO 基于 Kubernetes 的云平台存储容器化实践",
+        "link": "https://toutiao.io/k/tkhoouu",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Lucene 索引文件的读取（三）：dim&&dii",
+        "link": "https://toutiao.io/k/3jdvhbo",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[译] 使用 Java 和 web3j 进行 Token 开发（概述）",
+        "link": "https://toutiao.io/k/x1usde8",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Android 万能开关控件 LSwitch",
+        "link": "https://toutiao.io/k/thgmi48",
+        "date": "2020-05-08"
+      },
       {
         "title": "勇攀监控高峰：EMonitor 之根因分析",
         "link": "https://toutiao.io/k/r80jb8l",

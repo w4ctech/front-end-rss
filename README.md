@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-08 14:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-08 15:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -448,6 +448,8 @@
 </summary>
 
 
+- [2020-05-08-分享一些斩获大厂-offer-的技巧](https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86) ![](assets/new.png)  
+- [2020-05-08-昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67) ![](assets/new.png)  
 - [2020-05-07-移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/dde6b1da240b9737ece0c395cb95ed31)  
 - [2020-05-06-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/2b242790142b8cde52599c8ec77997d6)  
 - [2020-05-06-【万字长文】深入理解-Typescript-高级用法](https://www.ershicimi.com/p/b388ae9f0394ef6fdc78a667e795f3c2)  
@@ -466,8 +468,6 @@
 - [2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4)  
 - [2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a)  
 - [2020-04-22-Redux/react-redux/redux中间件设计实现剖析](https://www.ershicimi.com/p/128a1148ad4f660af19990324cd50d8b)  
-- [2020-04-21-Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b)  
-- [2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/c9b0a43ba156bec22c228b099cc1a582)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1003,11 +1003,11 @@
 </summary>
 
 
-- [2020-05-08-niz-plum-键盘能像-hhkb-那样定制方向键吗？-emacs-shortcuts（ctrl+f/b/a/e）](https://www.v2ex.com/t/669637) ![](assets/new.png)  
-- [2020-05-08-管理，帮我删除下我的这条回复。](https://www.v2ex.com/t/669636) ![](assets/new.png)  
-- [2020-05-08-老哥们,求教这个正则应该怎样理解?](https://www.v2ex.com/t/669635) ![](assets/new.png)  
-- [2020-05-08-杭州/北京-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/产品-文档团队持续招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/669634) ![](assets/new.png)  
-- [2020-05-08-ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631) ![](assets/new.png)  
+- [2020-05-08-niz-plum-键盘能像-hhkb-那样定制方向键吗？-emacs-shortcuts（ctrl+f/b/a/e）](https://www.v2ex.com/t/669637)  
+- [2020-05-08-管理，帮我删除下我的这条回复。](https://www.v2ex.com/t/669636)  
+- [2020-05-08-老哥们,求教这个正则应该怎样理解?](https://www.v2ex.com/t/669635)  
+- [2020-05-08-杭州/北京-阿里巴巴钉钉事业部社招-p6-p8-前端/-Java-/产品-文档团队持续招人啦~缺人-ing~长期有效~](https://www.v2ex.com/t/669634)  
+- [2020-05-08-ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631)  
 - [2020-05-08-这么多年的吐槽，为什么酸奶厂商不做一种不粘酸奶的包装呢。](https://www.v2ex.com/t/669630)  
 - [2020-05-08-如何在-Jetbrain-IDE-中配置更符合语义的大小写检查规则？](https://www.v2ex.com/t/669628)  
 - [2020-05-08-百度内推-百度内推~北京、上海、深圳-随时反馈进度，技术、产品大量岗位](https://www.v2ex.com/t/669627)  
@@ -1065,6 +1065,11 @@
 </summary>
 
 
+- [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq) ![](assets/new.png)  
+- [2020-05-08-OPPO-基于-Kubernetes-的云平台存储容器化实践](https://toutiao.io/k/tkhoouu) ![](assets/new.png)  
+- [2020-05-08-Lucene-索引文件的读取（三）：dim&&dii](https://toutiao.io/k/3jdvhbo) ![](assets/new.png)  
+- [2020-05-08-译-使用-Java-和-web3j-进行-Token-开发（概述）](https://toutiao.io/k/x1usde8) ![](assets/new.png)  
+- [2020-05-08-Android-万能开关控件-LSwitch](https://toutiao.io/k/thgmi48) ![](assets/new.png)  
 - [2020-05-08-勇攀监控高峰：EMonitor-之根因分析](https://toutiao.io/k/r80jb8l)  
 - [2020-05-08-漫谈数据治理（二）：思想上的体系化](https://toutiao.io/k/g7lvwjq)  
 - [2020-05-08-验证码的姿势学习](https://toutiao.io/k/908bk2f)  
@@ -1080,11 +1085,6 @@
 - [2020-05-08-闲鱼消息推送底层的二三事](https://toutiao.io/k/qstqwtn)  
 - [2020-05-08-白话中台战略（五）：中台的第一性原理](https://toutiao.io/k/456gbmt)  
 - [2020-05-08-快速排序-Quick-Sort](https://toutiao.io/k/hs3ud35)  
-- [2020-05-08-YOLT：大尺寸图像目标检测的解决方案](https://toutiao.io/k/757g2fk)  
-- [2020-05-08-深入浅出-Android-屏幕刷新原理](https://toutiao.io/k/804s9k5)  
-- [2020-05-08-Android-Studio-和-MAT-结合使用来分析内存问题](https://toutiao.io/k/gfdtrgd)  
-- [2020-05-08-程序员真的是吃青春饭的吗？|-码农周刊第-305-期](https://toutiao.io/k/omc4ca0)  
-- [2020-05-08-更高效地刷-LeetCode？试试这个吧！](https://toutiao.io/k/y77r6bd)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

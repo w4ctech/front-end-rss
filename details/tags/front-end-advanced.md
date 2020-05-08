@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -23,6 +23,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-08-有大佬-设置过-HP-1022-的-wifi-打印吗-想找这个界面的驱动-官网下载不是-很奇怪-https://imgchr.com/i/YKa0bQ](https://www.v2ex.com/t/669786) 
 - [2020-05-08-远程全职Team247-寻找高级软件工程师全栈方向](https://www.v2ex.com/t/669745) 
 - [2020-05-08-再谈家庭宽带架设-HTTPS-防嗅探。](https://www.v2ex.com/t/669709) 
 - [2020-05-08-ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631) 

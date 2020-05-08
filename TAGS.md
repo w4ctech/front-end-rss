@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -436,10 +436,10 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】求推荐笔记本，-5k-价位，看视频查文献，需要带出门，-13-寸。](https://www.v2ex.com/t/669780)
+- [【V2EX】淘宝直播-社招-校招前端---base-杭州-or-北京-内推](https://www.v2ex.com/t/669775)
 - [【V2EX】求自动检测视频水印工具](https://www.v2ex.com/t/669748)
 - [【V2EX】请问有大佬知道哪里可以接入道路摄像头监控的实时画面吗](https://www.v2ex.com/t/669732)
-- [【V2EX】社招-微博北京-组内直招-图像算法工程师](https://www.v2ex.com/t/669667)
-- [【V2EX】看到一个视频，-macbook-CPU-比较：-1.-第一比功耗-2.-第二比代数-3.-第三比系列-4.-最后看主频-是否合理？](https://www.v2ex.com/t/669623)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -544,10 +544,10 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】有大佬-设置过-HP-1022-的-wifi-打印吗-想找这个界面的驱动-官网下载不是-很奇怪-https://imgchr.com/i/YKa0bQ](https://www.v2ex.com/t/669786)
 - [【V2EX】远程全职Team247-寻找高级软件工程师全栈方向](https://www.v2ex.com/t/669745)
 - [【V2EX】再谈家庭宽带架设-HTTPS-防嗅探。](https://www.v2ex.com/t/669709)
 - [【V2EX】ElasticSearch-7.7-使用-off-heap-让堆内存占用减少-7-倍](https://www.v2ex.com/t/669631)
-- [【V2EX】有对应-http-文档和-mock-的-rpc-文档和-mock-服务提供方案吗？](https://www.v2ex.com/t/669588)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -617,9 +617,9 @@
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】如何把-GitHub-issues-或者-pull-request-中可以直接预览的代码片段提取出来，做成一个-script-标签](https://www.v2ex.com/t/669762)
 - [【V2EX】Little-Star-🌟一个用于管理-Github-Star-的拓展🚀](https://www.v2ex.com/t/669704)
 - [【V2EX】Little-Star-🌟一个用于管理-Github-Star-的拓展应用🚀](https://www.v2ex.com/t/669662)
-- [【V2EX】请教一个问题，本地-Git-两个项目的代码串门了？](https://www.v2ex.com/t/669625)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

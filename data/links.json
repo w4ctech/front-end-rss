@@ -6101,6 +6101,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "母亲节要到了，不知道要送什么礼物给妈妈",
+        "link": "https://www.v2ex.com/t/669509",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "两年测试想找互联网产品岗",
+        "link": "https://www.v2ex.com/t/669506",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "关于 Java io 的一些问题",
+        "link": "https://www.v2ex.com/t/669505",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "请问北京现在管控力度放宽了吗？",
+        "link": "https://www.v2ex.com/t/669502",
+        "date": "2020-05-08"
+      },
+      {
         "title": "3000 美金在 paypal，如何更好地利用？",
         "link": "https://www.v2ex.com/t/669501",
         "date": "2020-05-08"
@@ -21659,6 +21679,66 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "文本分类加速优化实践",
+        "link": "https://toutiao.io/k/qnq0hnb",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Go 中的 Goroutine + Channel 真的能减少并发 Bug 吗？",
+        "link": "https://toutiao.io/k/bfe6sf1",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "Kubernetes 网络实现",
+        "link": "https://toutiao.io/k/11u8ax3",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "机器学习笔记（十四）：线性回归及其两种常用的优化方法",
+        "link": "https://toutiao.io/k/4vxaqan",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "[译] Vue 3 中的 Vue Router 初探",
+        "link": "https://toutiao.io/k/vtvsc0y",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "都工作两年了，还不知道浮点数如何转二进制？",
+        "link": "https://toutiao.io/k/kkod6bn",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "为了资料不被白嫖，我学会了做网站的防盗链",
+        "link": "https://toutiao.io/k/h1ibjlt",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "闲鱼消息推送底层的二三事",
+        "link": "https://toutiao.io/k/qstqwtn",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "白话中台战略（五）：中台的第一性原理",
+        "link": "https://toutiao.io/k/456gbmt",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "快速排序 (Quick Sort)",
+        "link": "https://toutiao.io/k/hs3ud35",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "YOLT：大尺寸图像目标检测的解决方案",
+        "link": "https://toutiao.io/k/757g2fk",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "深入浅出 Android 屏幕刷新原理",
+        "link": "https://toutiao.io/k/804s9k5",
+        "date": "2020-05-08"
+      },
       {
         "title": "Android Studio 和 MAT 结合使用来分析内存问题",
         "link": "https://toutiao.io/k/gfdtrgd",

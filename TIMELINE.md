@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-08 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-08 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -178,6 +178,7 @@
 - [【前端之巅】2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [【前端之巅】2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
+- [【前端迷】2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808) 
 - [【前端迷】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4) 
 - [【前端迷】2020-05-07-Vue3-&-React-Hooks-新UI组件原理：Modal-弹窗](https://www.ershicimi.com/p/736121607a63c399a607ec846e29b654) 
 - [【前端迷】2020-05-06-9个不错的前端开源项目](https://www.ershicimi.com/p/7abeffa835c459365215815d95e92cee) 

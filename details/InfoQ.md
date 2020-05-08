@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-07 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-07-刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a) 
+- [2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025) 
+- [2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5) 
+- [2020-05-07-如何成为-C++-高手？听听-20-年技术老兵怎么说丨极客时间](https://www.ershicimi.com/p/babc0c63707693a9d31f12bc390a94a8) 
+- [2020-05-07-再裁-5400-人，CTO-离职，Uber-上市一年都经历了什么？](https://www.ershicimi.com/p/f5d3b6980222036013ebb22d0a34b670) 
 - [2020-05-06-收入减半、裁员-25.3％，Airbnb-的“凛冬”已至](https://www.ershicimi.com/p/29c6a27531a959b5006a98226bdb98b8) 
 - [2020-05-06-从业务架构视角聊聊大型商业银行的转型实践](https://www.ershicimi.com/p/d131472305a2187d26a892a2b8c11713) 
 - [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5) 

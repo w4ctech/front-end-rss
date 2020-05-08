@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-08 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-08 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -608,6 +608,7 @@
 - [【互联网架构师】一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2)
 - [【互联网架构师】这张「二维码」火到了GitHub热榜第一：扫一扫，打破系统边界，文件秒传](https://www.ershicimi.com/p/e89cefddded75359e8cc5a29805b1965)
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
+- [【InfoQ】刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a)
 - [【JavaScript】工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
@@ -617,7 +618,6 @@
 - [【V2EX】最近逛-github-有感](https://www.v2ex.com/t/669081)
 - [【V2EX】2600-多所高校详情分类数据，已开源到-github，需要自取](https://www.v2ex.com/t/668944)
 - [【V2EX】OneDev-3.1---开源免费、简单易用、功能强大的-GitLab-替代品](https://www.v2ex.com/t/668897)
-- [【V2EX】github-搜索小帮手](https://www.v2ex.com/t/668849)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

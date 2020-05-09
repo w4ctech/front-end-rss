@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 13:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 15:00:22，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,8 +29,8 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [前端迷](#前端迷)  
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -417,7 +417,7 @@
 </summary>
 
 
-- [2020-05-09-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/8690381a460fc7b60a719fc785479213) ![](assets/new.png)  
+- [2020-05-09-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/8690381a460fc7b60a719fc785479213)  
 - [2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808)  
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4)  
 - [2020-05-07-Vue3-&-React-Hooks-新UI组件原理：Modal-弹窗](https://www.ershicimi.com/p/736121607a63c399a607ec846e29b654)  
@@ -448,7 +448,7 @@
 </summary>
 
 
-- [2020-05-09-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/6aec1e15654f63775fa2abc3f8071910) ![](assets/new.png)  
+- [2020-05-09-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/6aec1e15654f63775fa2abc3f8071910)  
 - [2020-05-08-分享一些斩获大厂-offer-的技巧](https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86)  
 - [2020-05-08-昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67)  
 - [2020-05-07-移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/dde6b1da240b9737ece0c395cb95ed31)  
@@ -1007,26 +1007,26 @@
 </summary>
 
 
-- [2020-05-09-迫生，收北京公交充值电子发票](https://www.v2ex.com/t/669931)  
-- [2020-05-09-pixel-4-降价，转需](https://www.v2ex.com/t/669928)  
-- [2020-05-09-BI-工具-有做过-superset-二次开发的吗，或者嵌入使用过的](https://www.v2ex.com/t/669926)  
-- [2020-05-09-聊聊投资，对我的一些帮助](https://www.v2ex.com/t/669925)  
-- [2020-05-09-新账号没法发二手交易吗？](https://www.v2ex.com/t/669924)  
-- [2020-05-09-大家谈谈-智慧城市，我感觉现在的资源，国家的发展，应该适合在初期搞这个三方平台？](https://www.v2ex.com/t/669923)  
-- [2020-05-09-PHP-spl_autoload_register-会影响多少性能?](https://www.v2ex.com/t/669920)  
-- [2020-05-09-JetBrains-官网点击安装插件，-idea-自动弹出安装窗口，这是怎么做到的？](https://www.v2ex.com/t/669918)  
-- [2020-05-09-如果没有阅文爆出合同问题，恐怕很少有人会去关注合同的合法性、合理性](https://www.v2ex.com/t/669917)  
-- [2020-05-09-logstash-同步数据重复问题](https://www.v2ex.com/t/669916)  
-- [2020-05-09-求推荐个-ios-的输入法啊](https://www.v2ex.com/t/669915)  
-- [2020-05-09-钱少事多离家远](https://www.v2ex.com/t/669914)  
-- [2020-05-09-Macbook-经常右上角一块区域在任何界面任何软件中都无法选中,无法操作](https://www.v2ex.com/t/669913)  
-- [2020-05-09-2020-年了，各位拥抱-Python-的类型注释了么？](https://www.v2ex.com/t/669912)  
-- [2020-05-09-看中了一款宜家的椅子，隆菲尔会议椅](https://www.v2ex.com/t/669911)  
-- [2020-05-09-博彦科技外派蚂蚁可以去吗](https://www.v2ex.com/t/669910)  
-- [2020-05-09-电脑面前坐久了，脖子僵硬，有办法搞个-20-分钟的循环转脖子的功能提醒-app/software-？](https://www.v2ex.com/t/669909)  
-- [2020-05-09-stackoverflow-计划裁员-15%](https://www.v2ex.com/t/669908)  
-- [2020-05-09-腾讯云招前端，组内直招，流程快，效率高，欢迎随时联系](https://www.v2ex.com/t/669906)  
-- [2020-05-09-父母-50-岁，我想用父母的名义贷款在老家市里面买套房，操作可行嘛？](https://www.v2ex.com/t/669904)  
+- [2020-05-09-教程：-Mac-与-iPhone-互传离线音乐](https://www.v2ex.com/t/669997) ![](assets/new.png)  
+- [2020-05-09-远程面试值得一直保留](https://www.v2ex.com/t/669996) ![](assets/new.png)  
+- [2020-05-09-2020-年母親節特惠-辦公軟體買-1-送-1](https://www.v2ex.com/t/669995) ![](assets/new.png)  
+- [2020-05-09-有代开租房发票黄牛吗？](https://www.v2ex.com/t/669993) ![](assets/new.png)  
+- [2020-05-09-搜狗输入法-for-Linux-是否会提供-qt5-的支持？](https://www.v2ex.com/t/669991) ![](assets/new.png)  
+- [2020-05-09-自动删除-PC-端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间](https://www.v2ex.com/t/669990) ![](assets/new.png)  
+- [2020-05-09-本人小前端请教个问题：-nextjs-中在哪里动态设置根节点的-font-size-比较合适？](https://www.v2ex.com/t/669988) ![](assets/new.png)  
+- [2020-05-09-请问下-AMD-的-4800U-真香吗？](https://www.v2ex.com/t/669987) ![](assets/new.png)  
+- [2020-05-09-请教-docs.google.com-协同工作增加密码登入方式](https://www.v2ex.com/t/669986) ![](assets/new.png)  
+- [2020-05-09-有检测合同合法性的实战教程么？](https://www.v2ex.com/t/669985) ![](assets/new.png)  
+- [2020-05-09-搭建-im-聊天服务系统，聊天服务端可独立部署到自己的云服务器，这方面有有现成开源免费的么？](https://www.v2ex.com/t/669984) ![](assets/new.png)  
+- [2020-05-09-职业发展方向求指教，自动化测试还是-devops](https://www.v2ex.com/t/669983) ![](assets/new.png)  
+- [2020-05-09-想请问下各位大佬-你们公司前端项目用到-Hook-的多吗](https://www.v2ex.com/t/669982) ![](assets/new.png)  
+- [2020-05-09-安卓手机所有程序中的文件夹与桌面文件夹同步问题](https://www.v2ex.com/t/669980) ![](assets/new.png)  
+- [2020-05-09-厦门云计算96514-薪起2-年左右-Golang-后端开发工程师，-10-18k](https://www.v2ex.com/t/669978) ![](assets/new.png)  
+- [2020-05-09-怎么才能完全删除迅雷-mac-版的浏览器扩展？](https://www.v2ex.com/t/669977) ![](assets/new.png)  
+- [2020-05-09-有没有使用过阿里云-DRDS-的老哥,想简单了解一下.](https://www.v2ex.com/t/669976) ![](assets/new.png)  
+- [2020-05-09-『再不来就晚了』「高回报」寻找一位熟悉或（有意向并有信心熟悉）的同学一起做个微信小程序](https://www.v2ex.com/t/669975) ![](assets/new.png)  
+- [2020-05-09-visual-studio-如何插入带时间戳的注释不是-vscode](https://www.v2ex.com/t/669974) ![](assets/new.png)  
+- [2020-05-09-社招/校招/实习-抖音-部门直招推荐算法/策略/架构工程-资深/高级/工程师/专家](https://www.v2ex.com/t/669973) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,6 +1069,7 @@
 </summary>
 
 
+- [2020-05-09-女程序员离职后被索赔百万](https://toutiao.io/k/x39ofgr) ![](assets/new.png)  
 - [2020-05-09-Flutter-Web-网站之-ScrollView-+-GridView-优化](https://toutiao.io/k/m1tw49h)  
 - [2020-05-09-当面试官问你什么是-wěi-递归，你该怎么回答？](https://toutiao.io/k/g3y0bw1)  
 - [2020-05-09-研发-Leader-成长手册（三）](https://toutiao.io/k/rttx3ow)  
@@ -1088,7 +1089,6 @@
 - [2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r)  
 - [2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx)  
 - [2020-05-09-都在说实时数据架构，你了解多少？](https://toutiao.io/k/ujyiztl)  
-- [2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

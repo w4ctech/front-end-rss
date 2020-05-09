@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 17:30:22，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 18:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -805,6 +805,11 @@
 </summary>
 
 
+- [2020-05-09-成人网站泄露-108-亿数据，内含-50-万中国用户](https://www.ershicimi.com/p/c24e45838912c22bbfac48d584be0b55) ![](assets/new.png)  
+- [2020-05-09-Deno-1.0-即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/72db2e3843177ab2738147e32f239fb2) ![](assets/new.png)  
+- [2020-05-09-没想到竟然会有平台架构无法支撑我所写的代码的一天！丨Q推荐](https://www.ershicimi.com/p/39d4650e0368eb13448f9d0cda996a0f) ![](assets/new.png)  
+- [2020-05-09-雷军再下一城，金山云纳斯达克敲钟上市](https://www.ershicimi.com/p/4ff9d19cd3c66a286730b81fd8c2f93f) ![](assets/new.png)  
+- [2020-05-09-为何我们用-Go-而非-Python-来部署机器学习模型？](https://www.ershicimi.com/p/0229f14334c1fe9ff4772a4a0f760e04) ![](assets/new.png)  
 - [2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642)  
 - [2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787)  
 - [2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)  
@@ -820,11 +825,6 @@
 - [2020-05-06-“仰望星空”式的人才培养，如何让技术落地更有竞争力丨大会](https://www.ershicimi.com/p/aa4075860275617bad2a6d8da13d1da5)  
 - [2020-05-06-怎样成为一名更优秀的程序员？我总结出-7-条建议](https://www.ershicimi.com/p/c707775a3b458f32fcac62c63d0b4dd7)  
 - [2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f)  
-- [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c)  
-- [2020-05-04-丢掉700亿中国大单、CEO将离职，诺基亚怎么了？](https://www.ershicimi.com/p/d09fc7cfc4acf24d9d5ca87a10977c4d)  
-- [2020-05-04-20-多年历史的-Java-正在焕发第二春](https://www.ershicimi.com/p/2b8f00296d73629f50e19b8a21d405a6)  
-- [2020-05-04-Spark-3.0-新特性抢先看](https://www.ershicimi.com/p/77ab8d39eed9c2135a747b108107816e)  
-- [2020-05-03-10个含金量最高的IT认证，拿下任何一个都能挣到百万年薪](https://www.ershicimi.com/p/363dded20516f706473a17a86c6716f6)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1007,26 +1007,26 @@
 </summary>
 
 
-- [2020-05-09-gitlab-查看一下-commit-记录慢得很](https://www.v2ex.com/t/670067) ![](assets/new.png)  
-- [2020-05-09-Flask-中使用-APScheduler-应用上下文问题](https://www.v2ex.com/t/670066) ![](assets/new.png)  
-- [2020-05-09-美国信用卡如何注册？](https://www.v2ex.com/t/670064) ![](assets/new.png)  
-- [2020-05-09-父母-52-岁，天天吵着要退休，我一个人真养活不了-4-个人，愁死了。](https://www.v2ex.com/t/670063) ![](assets/new.png)  
-- [2020-05-09-ryzen3300x-出来后还有必要买-3600-吗？还是等-4600？](https://www.v2ex.com/t/670062) ![](assets/new.png)  
-- [2020-05-09-ThinkPad-TrackPoint-Keyboard-II-小红点蓝牙键盘](https://www.v2ex.com/t/670061) ![](assets/new.png)  
-- [2020-05-09-老机器用作-nas](https://www.v2ex.com/t/670060) ![](assets/new.png)  
-- [2020-05-09-关于中国移动-4G-访问国际方向下载速度的问题？](https://www.v2ex.com/t/670059) ![](assets/new.png)  
-- [2020-05-09-亲子游戏机](https://www.v2ex.com/t/670057) ![](assets/new.png)  
-- [2020-05-09-为啥我不能点爱心了？](https://www.v2ex.com/t/670056) ![](assets/new.png)  
-- [2020-05-09-程序员们，你们的背还好吗？](https://www.v2ex.com/t/670055) ![](assets/new.png)  
-- [2020-05-09-妙控键盘对-iPad-Pro-11-寸的使用体验有怎样的提升？](https://www.v2ex.com/t/670054) ![](assets/new.png)  
-- [2020-05-09-QQ-Play-Store](https://www.v2ex.com/t/670053) ![](assets/new.png)  
-- [2020-05-09-获取论坛的“最新回复”列表，该怎么对帖子去重。](https://www.v2ex.com/t/670052) ![](assets/new.png)  
-- [2020-05-09-重庆移动的千兆好贵，好像其他地方都挺便宜了](https://www.v2ex.com/t/670051) ![](assets/new.png)  
-- [2020-05-09-weixin://-跳转到微信为白屏-引流到微信关注的小心了](https://www.v2ex.com/t/670050) ![](assets/new.png)  
-- [2020-05-09-感觉妙控键盘很好用，只是贵了点](https://www.v2ex.com/t/670048) ![](assets/new.png)  
-- [2020-05-09-推荐一下-Java-好的架构课程](https://www.v2ex.com/t/670047) ![](assets/new.png)  
-- [2020-05-09-我寻思下午这个点是没什么工作效率，好家伙都在摸鱼啊,-haha](https://www.v2ex.com/t/670046) ![](assets/new.png)  
-- [2020-05-09-内网穿透那种方案适合我？](https://www.v2ex.com/t/670045) ![](assets/new.png)  
+- [2020-05-09-是否是一个网址自动补全-bug？](https://www.v2ex.com/t/670076) ![](assets/new.png)  
+- [2020-05-09-Pyinstaller-打包出来的-exe-文件被-360-安全卫士识别成木马？](https://www.v2ex.com/t/670074) ![](assets/new.png)  
+- [2020-05-09-人在中小型公司怎么学习高并发，工作当中都碰不到大流量](https://www.v2ex.com/t/670073) ![](assets/new.png)  
+- [2020-05-09-互联网金融项目与传统银行项目有什么不同？](https://www.v2ex.com/t/670072) ![](assets/new.png)  
+- [2020-05-09-小程序里的云开发好用吗？](https://www.v2ex.com/t/670070) ![](assets/new.png)  
+- [2020-05-09-现在捡淘汰的服务器+E5-2680-V3-有性价比嘛](https://www.v2ex.com/t/670069) ![](assets/new.png)  
+- [2020-05-09-gitlab-查看一下-commit-记录慢得很](https://www.v2ex.com/t/670067)  
+- [2020-05-09-Flask-中使用-APScheduler-应用上下文问题](https://www.v2ex.com/t/670066)  
+- [2020-05-09-美国信用卡如何注册？](https://www.v2ex.com/t/670064)  
+- [2020-05-09-父母-52-岁，天天吵着要退休，我一个人真养活不了-4-个人，愁死了。](https://www.v2ex.com/t/670063)  
+- [2020-05-09-ryzen3300x-出来后还有必要买-3600-吗？还是等-4600？](https://www.v2ex.com/t/670062)  
+- [2020-05-09-ThinkPad-TrackPoint-Keyboard-II-小红点蓝牙键盘](https://www.v2ex.com/t/670061)  
+- [2020-05-09-老机器用作-nas](https://www.v2ex.com/t/670060)  
+- [2020-05-09-关于中国移动-4G-访问国际方向下载速度的问题？](https://www.v2ex.com/t/670059)  
+- [2020-05-09-亲子游戏机](https://www.v2ex.com/t/670057)  
+- [2020-05-09-为啥我不能点爱心了？](https://www.v2ex.com/t/670056)  
+- [2020-05-09-程序员们，你们的背还好吗？](https://www.v2ex.com/t/670055)  
+- [2020-05-09-妙控键盘对-iPad-Pro-11-寸的使用体验有怎样的提升？](https://www.v2ex.com/t/670054)  
+- [2020-05-09-QQ-Play-Store](https://www.v2ex.com/t/670053)  
+- [2020-05-09-获取论坛的“最新回复”列表，该怎么对帖子去重。](https://www.v2ex.com/t/670052)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1038,6 +1038,7 @@
 </summary>
 
 
+- [2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1057,7 +1058,6 @@
 - [2020-04-27-大型网课翻车现场！原因竟是……-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13414&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F136688318%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13413&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8TGIdx5Q66eNIDkUagtgbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-26-假如有人把支付宝存储服务器炸了，我们的钱还在吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13411&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV1QDg0lkdmXN8JY4j5kcGA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-26-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13410&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZv1viUDEoE9uy_QXN6PDKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

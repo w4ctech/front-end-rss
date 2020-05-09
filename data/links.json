@@ -5002,6 +5002,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "成人网站泄露 108 亿数据，内含 50 万中国用户",
+        "link": "https://www.ershicimi.com/p/c24e45838912c22bbfac48d584be0b55",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "Deno 1.0 即将发布，你需要知道的都在这里了",
+        "link": "https://www.ershicimi.com/p/72db2e3843177ab2738147e32f239fb2",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "没想到竟然会有平台架构无法支撑我所写的代码的一天！丨Q推荐",
+        "link": "https://www.ershicimi.com/p/39d4650e0368eb13448f9d0cda996a0f",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "雷军再下一城，金山云纳斯达克敲钟上市",
+        "link": "https://www.ershicimi.com/p/4ff9d19cd3c66a286730b81fd8c2f93f",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "为何我们用 Go 而非 Python 来部署机器学习模型？",
+        "link": "https://www.ershicimi.com/p/0229f14334c1fe9ff4772a4a0f760e04",
+        "date": "2020-05-09"
+      },
+      {
         "title": "Apache Kafka 迎来了“后浪”",
         "link": "https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642",
         "date": "2020-05-08"
@@ -6325,6 +6350,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "是否是一个网址自动补全 bug？",
+        "link": "https://www.v2ex.com/t/670076",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "Pyinstaller 打包出来的 exe 文件被 360 安全卫士识别成木马？",
+        "link": "https://www.v2ex.com/t/670074",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "人在中小型公司怎么学习高并发，工作当中都碰不到大流量",
+        "link": "https://www.v2ex.com/t/670073",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "互联网金融项目与传统银行项目有什么不同？",
+        "link": "https://www.v2ex.com/t/670072",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "小程序里的云开发好用吗？",
+        "link": "https://www.v2ex.com/t/670070",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "现在捡淘汰的服务器+E5-2680 V3 有性价比嘛",
+        "link": "https://www.v2ex.com/t/670069",
+        "date": "2020-05-09"
+      },
       {
         "title": "gitlab 查看一下 commit 记录慢得很",
         "link": "https://www.v2ex.com/t/670067",
@@ -23847,6 +23902,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "MP4 视频“只闻其声，不见其人”，是怎么回事呢？ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-09"
+      },
       {
         "title": "类初始化死锁导致线程被打爆！打爆！爆！ (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

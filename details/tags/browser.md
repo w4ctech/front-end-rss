@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 17:30:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-09-Pyinstaller-打包出来的-exe-文件被-360-安全卫士识别成木马？](https://www.v2ex.com/t/670074) 
 - [2020-05-09-怎么才能完全删除迅雷-mac-版的浏览器扩展？](https://www.v2ex.com/t/669977) 
 - [2020-05-08-如何高效的-Code-Review-代码？](https://www.v2ex.com/t/669828) 
 - [2020-05-08-求推荐，-chrome-内核浏览器的插件：设置网站黑名单](https://www.v2ex.com/t/669824) 

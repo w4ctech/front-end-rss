@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-10 01:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 03:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -574,6 +574,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】用-Minio+Nginx-搭建私有图床，配合-Typora-一键插入博客图片](https://www.v2ex.com/t/670158)
 - [【V2EX】桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899)
 - [【V2EX】请教-docker-TensorFlow/Saving，部署模型的时候怎样配置或者判断显存应该是多少。](https://www.v2ex.com/t/669452)
 - [【V2EX】django-网站-centos-nginx-+uwsgi-环境要在根目录加个-txt-验证一下，有什么办法啊？](https://www.v2ex.com/t/669011)
@@ -586,7 +587,6 @@
 - [【V2EX】请教个-nginx-端口转发的问题](https://www.v2ex.com/t/666912)
 - [【V2EX】Nginx-是否可以忽略部分错误日志？](https://www.v2ex.com/t/666385)
 - [【V2EX】ubuntu-怎么安装-docker-常规安装好像不行](https://www.v2ex.com/t/666338)
-- [【V2EX】求助：-docker-nginx-转发-同一台机器上-部署的-go-服务。](https://www.v2ex.com/t/666159)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

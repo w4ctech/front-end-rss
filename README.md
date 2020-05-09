@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 10:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 10:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,26 +1007,26 @@
 </summary>
 
 
-- [2020-05-09-分享新书《自动机器学习入门与实践：使用-Python-》试读](https://www.v2ex.com/t/669875) ![](assets/new.png)  
-- [2020-05-09-请问-MacOS-中有类似于-Windows-平台的-PowerDesigner-的数据库建模工具吗？](https://www.v2ex.com/t/669874) ![](assets/new.png)  
-- [2020-05-09-IOS-微信一直显示群待办有没办法删除？](https://www.v2ex.com/t/669873) ![](assets/new.png)  
-- [2020-05-09-去年的-996-活动改变你了吗？](https://www.v2ex.com/t/669872) ![](assets/new.png)  
-- [2020-05-09-想买个-gopro-hero6-玩玩，-600-块钱左右合适吗？](https://www.v2ex.com/t/669871) ![](assets/new.png)  
-- [2020-05-09-快看，百度首页的-ui-升级了](https://www.v2ex.com/t/669870) ![](assets/new.png)  
-- [2020-05-09-k8s+istio+springcloud-这种结构下的项目，还需要-cloud-中的一些微服务组件吗？应该怎么治理项目](https://www.v2ex.com/t/669869) ![](assets/new.png)  
-- [2020-05-09-奇葩需求请教](https://www.v2ex.com/t/669868) ![](assets/new.png)  
-- [2020-05-09-请教一个有关-gin-返回包含未知属性的嵌套-JSON-的问题](https://www.v2ex.com/t/669866) ![](assets/new.png)  
-- [2020-05-09-一台比-iPhoneSE-大又比-iPhoneSE-小的安卓手机](https://www.v2ex.com/t/669865) ![](assets/new.png)  
-- [2020-05-09-话说为啥没有基于-AMD-移动-CPU-的-NUC？](https://www.v2ex.com/t/669864) ![](assets/new.png)  
-- [2020-05-09-你们今年都多大年龄了？](https://www.v2ex.com/t/669863) ![](assets/new.png)  
-- [2020-05-09-为什么可以有两个同名分支？](https://www.v2ex.com/t/669862) ![](assets/new.png)  
-- [2020-05-09-购物车之架构设计](https://www.v2ex.com/t/669861) ![](assets/new.png)  
-- [2020-05-09-深圳工作交流群-最近深圳的行情如何？欢迎大家一起来探讨。](https://www.v2ex.com/t/669860) ![](assets/new.png)  
-- [2020-05-09-连花清瘟胶囊这个是不是用来检测智商的？](https://www.v2ex.com/t/669859)  
-- [2020-05-09-请问-pve-可以安装在-nvme-硬盘上吗？](https://www.v2ex.com/t/669857)  
-- [2020-05-09-一年时间，我为什么只成功内推-31-人拿到微软-offer？](https://www.v2ex.com/t/669856)  
-- [2020-05-09-团队全职在线接单](https://www.v2ex.com/t/669854)  
-- [2020-05-09-机器学习/深度学习-Beat-Stock-Market](https://www.v2ex.com/t/669853)  
+- [2020-05-09-寻找一位熟悉-Vue-Nuxt-的朋友有偿做个小-demo-app](https://www.v2ex.com/t/669891) ![](assets/new.png)  
+- [2020-05-09-做个小调查](https://www.v2ex.com/t/669890) ![](assets/new.png)  
+- [2020-05-09-关于投屏的疑问](https://www.v2ex.com/t/669889) ![](assets/new.png)  
+- [2020-05-09-一分钟实现，一个-RN-持久数据管理器](https://www.v2ex.com/t/669888) ![](assets/new.png)  
+- [2020-05-09-连花清瘟那个帖子怎么没了？](https://www.v2ex.com/t/669887) ![](assets/new.png)  
+- [2020-05-09-m.2-硬盘+硬盘盒，能实现-wintogo-吗](https://www.v2ex.com/t/669886) ![](assets/new.png)  
+- [2020-05-09-北京-OceanBase-即将成立新公司，十年磨一剑，诚聘前端工程师](https://www.v2ex.com/t/669885) ![](assets/new.png)  
+- [2020-05-09-如何有效使用搜索引擎找到技术问题的答案？](https://www.v2ex.com/t/669882) ![](assets/new.png)  
+- [2020-05-09-在线接个单吧](https://www.v2ex.com/t/669881) ![](assets/new.png)  
+- [2020-05-09-Ant-design-pro-还是-React-admin](https://www.v2ex.com/t/669880) ![](assets/new.png)  
+- [2020-05-09-请问-YouTube-印度车需要满足什么条件](https://www.v2ex.com/t/669878) ![](assets/new.png)  
+- [2020-05-09-关于-minicard-接口与-msata](https://www.v2ex.com/t/669877) ![](assets/new.png)  
+- [2020-05-09-还在加班？身体扛不住了？几个小技巧帮新手选择靠谱健身计划](https://www.v2ex.com/t/669876) ![](assets/new.png)  
+- [2020-05-09-分享新书《自动机器学习入门与实践：使用-Python-》试读](https://www.v2ex.com/t/669875)  
+- [2020-05-09-请问-MacOS-中有类似于-Windows-平台的-PowerDesigner-的数据库建模工具吗？](https://www.v2ex.com/t/669874)  
+- [2020-05-09-IOS-微信一直显示群待办有没办法删除？](https://www.v2ex.com/t/669873)  
+- [2020-05-09-去年的-996-活动改变你了吗？](https://www.v2ex.com/t/669872)  
+- [2020-05-09-想买个-gopro-hero6-玩玩，-600-块钱左右合适吗？](https://www.v2ex.com/t/669871)  
+- [2020-05-09-快看，百度首页的-ui-升级了](https://www.v2ex.com/t/669870)  
+- [2020-05-09-k8s+istio+springcloud-这种结构下的项目，还需要-cloud-中的一些微服务组件吗？应该怎么治理项目](https://www.v2ex.com/t/669869)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

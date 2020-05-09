@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-09 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 17:30:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -118,6 +118,7 @@
 - [【Nodejs技术栈】TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569)
 - [【JavaScript】TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】上海-ARKIE-Web-全栈-/-前端-/-后端-JavaScript-/-TypeScript](https://www.v2ex.com/t/670038)
 - [【V2EX】为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458)
 - [【V2EX】typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178)
 - [......【查看更多】......](./details/tags/typescript.md)
@@ -620,8 +621,8 @@
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】gitlab-查看一下-commit-记录慢得很](https://www.v2ex.com/t/670067)
 - [【V2EX】如何把-GitHub-issues-或者-pull-request-中可以直接预览的代码片段提取出来，做成一个-script-标签](https://www.v2ex.com/t/669762)
-- [【V2EX】Little-Star-🌟一个用于管理-Github-Star-的拓展🚀](https://www.v2ex.com/t/669704)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

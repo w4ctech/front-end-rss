@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 21:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 21:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,11 +1007,14 @@
 </summary>
 
 
-- [2020-05-09-有哪种最便宜的-iPad-替代方案？](https://www.v2ex.com/t/670108) ![](assets/new.png)  
-- [2020-05-09-杭州/上海（网易云音乐大量招人）](https://www.v2ex.com/t/670107) ![](assets/new.png)  
-- [2020-05-09-play-store-版微信更新了，-7.0.13，支持深色模式](https://www.v2ex.com/t/670106) ![](assets/new.png)  
-- [2020-05-09-你认为最值得的和最不值的订阅服务是啥？](https://www.v2ex.com/t/670105) ![](assets/new.png)  
-- [2020-05-09-如何使用中国大陆境内核发的外币卡在南非-eShop-绑定并购物？](https://www.v2ex.com/t/670104) ![](assets/new.png)  
+- [2020-05-09-写了个显示今天剩余时间的进度条](https://www.v2ex.com/t/670112) ![](assets/new.png)  
+- [2020-05-09-有想拼车台湾版-YouTube-的吗？凑齐人就开车](https://www.v2ex.com/t/670110) ![](assets/new.png)  
+- [2020-05-09-快手研发内推，简单直接，发简历就行，不做标题党](https://www.v2ex.com/t/670109) ![](assets/new.png)  
+- [2020-05-09-有哪种最便宜的-iPad-替代方案？](https://www.v2ex.com/t/670108)  
+- [2020-05-09-杭州/上海（网易云音乐大量招人）](https://www.v2ex.com/t/670107)  
+- [2020-05-09-play-store-版微信更新了，-7.0.13，支持深色模式](https://www.v2ex.com/t/670106)  
+- [2020-05-09-你认为最值得的和最不值的订阅服务是啥？](https://www.v2ex.com/t/670105)  
+- [2020-05-09-如何使用中国大陆境内核发的外币卡在南非-eShop-绑定并购物？](https://www.v2ex.com/t/670104)  
 - [2020-05-09-vultr-出韩国机房了，线路不怎么样](https://www.v2ex.com/t/670100)  
 - [2020-05-09-过时的-iPad-能干嘛？除了-5-快出了包解忧外。](https://www.v2ex.com/t/670099)  
 - [2020-05-09-nchan](https://www.v2ex.com/t/670098)  
@@ -1024,9 +1027,6 @@
 - [2020-05-09-有没有把-Promise,-Generator,-和-async/await-之间的关系讲解得比较清楚条理的文章或者博客？](https://www.v2ex.com/t/670088)  
 - [2020-05-09-字节跳动飞书业务内推专场](https://www.v2ex.com/t/670087)  
 - [2020-05-09-一个新的-VS-Code-颜色主题，来自-GitHub](https://www.v2ex.com/t/670086)  
-- [2020-05-09-北京-安全行业-年薪-20-万](https://www.v2ex.com/t/670085)  
-- [2020-05-09-好迷茫,求解惑](https://www.v2ex.com/t/670084)  
-- [2020-05-09-支付宝支付前端团邀你再创业，重新定义支付](https://www.v2ex.com/t/670082)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

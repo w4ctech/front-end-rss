@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 21:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 21:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -602,6 +602,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-09-写了个显示今天剩余时间的进度条](https://www.v2ex.com/t/670112) 
+- [2020-05-09-有想拼车台湾版-YouTube-的吗？凑齐人就开车](https://www.v2ex.com/t/670110) 
+- [2020-05-09-快手研发内推，简单直接，发简历就行，不做标题党](https://www.v2ex.com/t/670109) 
 - [2020-05-09-有哪种最便宜的-iPad-替代方案？](https://www.v2ex.com/t/670108) 
 - [2020-05-09-杭州/上海（网易云音乐大量招人）](https://www.v2ex.com/t/670107) 
 - [2020-05-09-play-store-版微信更新了，-7.0.13，支持深色模式](https://www.v2ex.com/t/670106) 

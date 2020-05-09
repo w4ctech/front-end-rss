@@ -4655,6 +4655,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！",
+        "link": "https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "你写得API接口代码真是一坨\"屎\"，难道不能对返回格式统一处理一下吗？",
+        "link": "https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "Java 如何优雅的导出 Excel",
+        "link": "https://www.ershicimi.com/p/dcfeb579c38d419f7be8ac867aaa62a5",
+        "date": "2020-05-09"
+      },
+      {
         "title": "为什么我们公司强制弃坑Fastjson了？主推...",
         "link": "https://www.ershicimi.com/p/f2de3db167a55220ed2f7fce830bcf2e",
         "date": "2020-05-08"
@@ -23309,6 +23324,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "闲鱼基于 Dart 生态的 FaaS 前端一体化建设",
+        "link": "https://toutiao.io/k/7lfspvj",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "真有小伙伴不知道浮点数如何转二进制吗？",
+        "link": "https://toutiao.io/k/2evfoj5",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "SOLO：一次性预测语义类别和实例掩码",
+        "link": "https://toutiao.io/k/gh6rj6x",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "记一次问题排查：为什么在 POD 无法通过 Service 访问自己？",
+        "link": "https://toutiao.io/k/x8wvp42",
+        "date": "2020-05-09"
+      },
       {
         "title": "蚂蚁金服分布式链路组件 SOFATracer 埋点机制解析",
         "link": "https://toutiao.io/k/05hcdw1",

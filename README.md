@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 09:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 09:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -774,6 +774,9 @@
 </summary>
 
 
+- [2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965) ![](assets/new.png)  
+- [2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850) ![](assets/new.png)  
+- [2020-05-09-Java-如何优雅的导出-Excel](https://www.ershicimi.com/p/dcfeb579c38d419f7be8ac867aaa62a5) ![](assets/new.png)  
 - [2020-05-08-为什么我们公司强制弃坑Fastjson了？主推...](https://www.ershicimi.com/p/f2de3db167a55220ed2f7fce830bcf2e)  
 - [2020-05-08-阿里面试官必问21-个刁钻的HashMap-面试题，这次让你彻底搞懂](https://www.ershicimi.com/p/739e0b0b5c6d8308f4617f90ea18f169)  
 - [2020-05-08-如何干掉恶心的-SQL-注入？](https://www.ershicimi.com/p/805b0760da47e6b03d5cdd924fca5e8f)  
@@ -791,9 +794,6 @@
 - [2020-05-04-架构篇：大型网站技术架构](https://www.ershicimi.com/p/9435cd4f2106c4a2ef5d6f459eb7786e)  
 - [2020-05-03-支付宝架构师的总结：为什么他们能抗住万亿级流量的高并发？](https://www.ershicimi.com/p/e78497dea37bbd5b6a18e6d3b5f16054)  
 - [2020-05-03-开发Java，市值一度超过两千亿美元，造福无数程序员的Sun公司，也最终“陨落”](https://www.ershicimi.com/p/0a716dce6114df52cdfc63fead4d8ef0)  
-- [2020-05-03-阿里大牛程序员的Java问题排查工具单](https://www.ershicimi.com/p/9f48568a3372adb5cfb2ad7530238035)  
-- [2020-05-02-漫画：谁杀死了MySQL？](https://www.ershicimi.com/p/d2a927fa460f6f76df143c18483a9e61)  
-- [2020-05-02-Intellij-IDEA-看源码必备的技能！](https://www.ershicimi.com/p/533c9c83943f529799b2cb6474376410)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1007,11 +1007,11 @@
 </summary>
 
 
-- [2020-05-09-连花清瘟胶囊这个是不是用来检测智商的？](https://www.v2ex.com/t/669859) ![](assets/new.png)  
-- [2020-05-09-请问-pve-可以安装在-nvme-硬盘上吗？](https://www.v2ex.com/t/669857) ![](assets/new.png)  
-- [2020-05-09-一年时间，我为什么只成功内推-31-人拿到微软-offer？](https://www.v2ex.com/t/669856) ![](assets/new.png)  
-- [2020-05-09-团队全职在线接单](https://www.v2ex.com/t/669854) ![](assets/new.png)  
-- [2020-05-09-机器学习/深度学习-Beat-Stock-Market](https://www.v2ex.com/t/669853) ![](assets/new.png)  
+- [2020-05-09-连花清瘟胶囊这个是不是用来检测智商的？](https://www.v2ex.com/t/669859)  
+- [2020-05-09-请问-pve-可以安装在-nvme-硬盘上吗？](https://www.v2ex.com/t/669857)  
+- [2020-05-09-一年时间，我为什么只成功内推-31-人拿到微软-offer？](https://www.v2ex.com/t/669856)  
+- [2020-05-09-团队全职在线接单](https://www.v2ex.com/t/669854)  
+- [2020-05-09-机器学习/深度学习-Beat-Stock-Market](https://www.v2ex.com/t/669853)  
 - [2020-05-09-孙玲在中国找工作受阻](https://www.v2ex.com/t/669851)  
 - [2020-05-09-北京-滴滴-内推网约车-直招高级/资深前端研发工程师-20k~50k](https://www.v2ex.com/t/669850)  
 - [2020-05-09-疑似国外设计师妹子重新设计了-Python-logo](https://www.v2ex.com/t/669849)  
@@ -1069,10 +1069,14 @@
 </summary>
 
 
-- [2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1) ![](assets/new.png)  
-- [2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r) ![](assets/new.png)  
-- [2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx) ![](assets/new.png)  
-- [2020-05-09-都在说实时数据架构，你了解多少？](https://toutiao.io/k/ujyiztl) ![](assets/new.png)  
+- [2020-05-09-闲鱼基于-Dart-生态的-FaaS-前端一体化建设](https://toutiao.io/k/7lfspvj) ![](assets/new.png)  
+- [2020-05-09-真有小伙伴不知道浮点数如何转二进制吗？](https://toutiao.io/k/2evfoj5) ![](assets/new.png)  
+- [2020-05-09-SOLO：一次性预测语义类别和实例掩码](https://toutiao.io/k/gh6rj6x) ![](assets/new.png)  
+- [2020-05-09-记一次问题排查：为什么在-POD-无法通过-Service-访问自己？](https://toutiao.io/k/x8wvp42) ![](assets/new.png)  
+- [2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1)  
+- [2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r)  
+- [2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx)  
+- [2020-05-09-都在说实时数据架构，你了解多少？](https://toutiao.io/k/ujyiztl)  
 - [2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k)  
 - [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq)  
 - [2020-05-08-OPPO-基于-Kubernetes-的云平台存储容器化实践](https://toutiao.io/k/tkhoouu)  
@@ -1085,10 +1089,6 @@
 - [2020-05-08-聊聊-Spring-Boot-Actuator](https://toutiao.io/k/x6t5agw)  
 - [2020-05-08-D3.js-力导向图的显示优化](https://toutiao.io/k/qr9zwv3)  
 - [2020-05-08-文本分类加速优化实践](https://toutiao.io/k/qnq0hnb)  
-- [2020-05-08-Go-中的-Goroutine-+-Channel-真的能减少并发-Bug-吗？](https://toutiao.io/k/bfe6sf1)  
-- [2020-05-08-Kubernetes-网络实现](https://toutiao.io/k/11u8ax3)  
-- [2020-05-08-机器学习笔记（十四）：线性回归及其两种常用的优化方法](https://toutiao.io/k/4vxaqan)  
-- [2020-05-08-译-Vue-3-中的-Vue-Router-初探](https://toutiao.io/k/vtvsc0y)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 09:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-09 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -234,6 +234,9 @@
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965) 
+- [【互联网架构师】2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850) 
+- [【互联网架构师】2020-05-09-Java-如何优雅的导出-Excel](https://www.ershicimi.com/p/dcfeb579c38d419f7be8ac867aaa62a5) 
 - [【互联网架构师】2020-05-08-为什么我们公司强制弃坑Fastjson了？主推...](https://www.ershicimi.com/p/f2de3db167a55220ed2f7fce830bcf2e) 
 - [【互联网架构师】2020-05-08-阿里面试官必问21-个刁钻的HashMap-面试题，这次让你彻底搞懂](https://www.ershicimi.com/p/739e0b0b5c6d8308f4617f90ea18f169) 
 - [【互联网架构师】2020-05-08-如何干掉恶心的-SQL-注入？](https://www.ershicimi.com/p/805b0760da47e6b03d5cdd924fca5e8f) 
@@ -1873,6 +1876,10 @@
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-09-闲鱼基于-Dart-生态的-FaaS-前端一体化建设](https://toutiao.io/k/7lfspvj) 
+- [【开发者头条】2020-05-09-真有小伙伴不知道浮点数如何转二进制吗？](https://toutiao.io/k/2evfoj5) 
+- [【开发者头条】2020-05-09-SOLO：一次性预测语义类别和实例掩码](https://toutiao.io/k/gh6rj6x) 
+- [【开发者头条】2020-05-09-记一次问题排查：为什么在-POD-无法通过-Service-访问自己？](https://toutiao.io/k/x8wvp42) 
 - [【开发者头条】2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1) 
 - [【开发者头条】2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r) 
 - [【开发者头条】2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx) 

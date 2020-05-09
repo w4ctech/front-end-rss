@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -25,6 +25,7 @@
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-05-09-一个新的-VS-Code-颜色主题，来自-GitHub](https://www.v2ex.com/t/670086) 
 - [2020-05-09-gitlab-查看一下-commit-记录慢得很](https://www.v2ex.com/t/670067) 
 - [2020-05-08-如何把-GitHub-issues-或者-pull-request-中可以直接预览的代码片段提取出来，做成一个-script-标签](https://www.v2ex.com/t/669762) 
 - [2020-05-08-Little-Star-🌟一个用于管理-Github-Star-的拓展🚀](https://www.v2ex.com/t/669704) 

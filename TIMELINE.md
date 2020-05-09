@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 08:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-09 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -139,6 +139,7 @@
 - [【Vue中文社区】2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) 
 - [【Vue中文社区】2020-05-05-传说中最经典的外包案例](https://www.ershicimi.com/p/6269ed474407855487c0fa6de4760523) 
 - [【Vue中文社区】2020-05-03-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/7bc3db6b81610cff242e8e5360a6fefc) 
+- [【前端早读课】2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a) 
 - [【前端早读课】2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2) 
 - [【前端早读课】2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126) 
 - [【前端早读课】2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1) 
@@ -1867,6 +1868,7 @@
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k) 
 - [【开发者头条】2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq) 
 - [【开发者头条】2020-05-08-OPPO-基于-Kubernetes-的云平台存储容器化实践](https://toutiao.io/k/tkhoouu) 
 - [【开发者头条】2020-05-08-Lucene-索引文件的读取（三）：dim&&dii](https://toutiao.io/k/3jdvhbo) 

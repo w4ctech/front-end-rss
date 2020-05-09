@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 08:00:22，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 08:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -199,6 +199,7 @@
 </summary>
 
 
+- [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a) ![](assets/new.png)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
 - [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)  
@@ -218,7 +219,6 @@
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)  
 - [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)  
-- [2020-04-24-【第1924期】换个思路换个方法，让圆环进度条实现方式得到一点改变](https://www.ershicimi.com/p/825237865527c912f74a5803810d914c)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -805,11 +805,11 @@
 </summary>
 
 
-- [2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642) ![](assets/new.png)  
-- [2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787) ![](assets/new.png)  
-- [2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152) ![](assets/new.png)  
-- [2020-05-08-架构师训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/f4a148996b7b712efd37266383fadb33) ![](assets/new.png)  
-- [2020-05-08-Netflix-如何在网络不好时提供更安全、更流畅的流媒体体验？](https://www.ershicimi.com/p/9ee1f7ddf3581ec822457e5f2e341ab7) ![](assets/new.png)  
+- [2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642)  
+- [2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787)  
+- [2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)  
+- [2020-05-08-架构师训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/f4a148996b7b712efd37266383fadb33)  
+- [2020-05-08-Netflix-如何在网络不好时提供更安全、更流畅的流媒体体验？](https://www.ershicimi.com/p/9ee1f7ddf3581ec822457e5f2e341ab7)  
 - [2020-05-07-刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a)  
 - [2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025)  
 - [2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5)  
@@ -1069,6 +1069,7 @@
 </summary>
 
 
+- [2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k) ![](assets/new.png)  
 - [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq)  
 - [2020-05-08-OPPO-基于-Kubernetes-的云平台存储容器化实践](https://toutiao.io/k/tkhoouu)  
 - [2020-05-08-Lucene-索引文件的读取（三）：dim&&dii](https://toutiao.io/k/3jdvhbo)  
@@ -1088,7 +1089,6 @@
 - [2020-05-08-为了资料不被白嫖，我学会了做网站的防盗链](https://toutiao.io/k/h1ibjlt)  
 - [2020-05-08-闲鱼消息推送底层的二三事](https://toutiao.io/k/qstqwtn)  
 - [2020-05-08-白话中台战略（五）：中台的第一性原理](https://toutiao.io/k/456gbmt)  
-- [2020-05-08-快速排序-Quick-Sort](https://toutiao.io/k/hs3ud35)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

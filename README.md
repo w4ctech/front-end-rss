@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 08:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 09:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -199,7 +199,7 @@
 </summary>
 
 
-- [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a) ![](assets/new.png)  
+- [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
 - [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)  
@@ -1007,6 +1007,11 @@
 </summary>
 
 
+- [2020-05-09-连花清瘟胶囊这个是不是用来检测智商的？](https://www.v2ex.com/t/669859) ![](assets/new.png)  
+- [2020-05-09-请问-pve-可以安装在-nvme-硬盘上吗？](https://www.v2ex.com/t/669857) ![](assets/new.png)  
+- [2020-05-09-一年时间，我为什么只成功内推-31-人拿到微软-offer？](https://www.v2ex.com/t/669856) ![](assets/new.png)  
+- [2020-05-09-团队全职在线接单](https://www.v2ex.com/t/669854) ![](assets/new.png)  
+- [2020-05-09-机器学习/深度学习-Beat-Stock-Market](https://www.v2ex.com/t/669853) ![](assets/new.png)  
 - [2020-05-09-孙玲在中国找工作受阻](https://www.v2ex.com/t/669851)  
 - [2020-05-09-北京-滴滴-内推网约车-直招高级/资深前端研发工程师-20k~50k](https://www.v2ex.com/t/669850)  
 - [2020-05-09-疑似国外设计师妹子重新设计了-Python-logo](https://www.v2ex.com/t/669849)  
@@ -1022,11 +1027,6 @@
 - [2020-05-09-坚持背英语单词-Flag-再也不是下次一定了](https://www.v2ex.com/t/669839)  
 - [2020-05-09-有关-apple-的时间机器备份的问题](https://www.v2ex.com/t/669838)  
 - [2020-05-09-试错就是一种自由](https://www.v2ex.com/t/669837)  
-- [2020-05-09-香炸了，社会主义想，小新-15-2020-款。](https://www.v2ex.com/t/669836)  
-- [2020-05-08-一种自动配置雪花-id-算法参数的方法](https://www.v2ex.com/t/669835)  
-- [2020-05-08-出小米盒子国际版](https://www.v2ex.com/t/669834)  
-- [2020-05-08-想买个护眼显示器-SX2462W-可以买吗-还是-cs230-求分析](https://www.v2ex.com/t/669833)  
-- [2020-05-08-不懂就问，-Java-中文件复制速度的问题。](https://www.v2ex.com/t/669832)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,7 +1069,11 @@
 </summary>
 
 
-- [2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k) ![](assets/new.png)  
+- [2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1) ![](assets/new.png)  
+- [2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r) ![](assets/new.png)  
+- [2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx) ![](assets/new.png)  
+- [2020-05-09-都在说实时数据架构，你了解多少？](https://toutiao.io/k/ujyiztl) ![](assets/new.png)  
+- [2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k)  
 - [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq)  
 - [2020-05-08-OPPO-基于-Kubernetes-的云平台存储容器化实践](https://toutiao.io/k/tkhoouu)  
 - [2020-05-08-Lucene-索引文件的读取（三）：dim&&dii](https://toutiao.io/k/3jdvhbo)  
@@ -1085,10 +1089,6 @@
 - [2020-05-08-Kubernetes-网络实现](https://toutiao.io/k/11u8ax3)  
 - [2020-05-08-机器学习笔记（十四）：线性回归及其两种常用的优化方法](https://toutiao.io/k/4vxaqan)  
 - [2020-05-08-译-Vue-3-中的-Vue-Router-初探](https://toutiao.io/k/vtvsc0y)  
-- [2020-05-08-都工作两年了，还不知道浮点数如何转二进制？](https://toutiao.io/k/kkod6bn)  
-- [2020-05-08-为了资料不被白嫖，我学会了做网站的防盗链](https://toutiao.io/k/h1ibjlt)  
-- [2020-05-08-闲鱼消息推送底层的二三事](https://toutiao.io/k/qstqwtn)  
-- [2020-05-08-白话中台战略（五）：中台的第一性原理](https://toutiao.io/k/456gbmt)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 11:30:21，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 12:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,26 +1007,26 @@
 </summary>
 
 
-- [2020-05-09-PHP-spl_autoload_register-会影响多少性能?](https://www.v2ex.com/t/669920) ![](assets/new.png)  
-- [2020-05-09-JetBrains-官网点击安装插件，-idea-自动弹出安装窗口，这是怎么做到的？](https://www.v2ex.com/t/669918) ![](assets/new.png)  
-- [2020-05-09-如果没有阅文爆出合同问题，恐怕很少有人会去关注合同的合法性、合理性](https://www.v2ex.com/t/669917) ![](assets/new.png)  
-- [2020-05-09-logstash-同步数据重复问题](https://www.v2ex.com/t/669916) ![](assets/new.png)  
-- [2020-05-09-求推荐个-ios-的输入法啊](https://www.v2ex.com/t/669915) ![](assets/new.png)  
-- [2020-05-09-钱少事多离家远](https://www.v2ex.com/t/669914) ![](assets/new.png)  
-- [2020-05-09-Macbook-经常右上角一块区域在任何界面任何软件中都无法选中,无法操作](https://www.v2ex.com/t/669913) ![](assets/new.png)  
-- [2020-05-09-2020-年了，各位拥抱-Python-的类型注释了么？](https://www.v2ex.com/t/669912) ![](assets/new.png)  
-- [2020-05-09-看中了一款宜家的椅子，隆菲尔会议椅](https://www.v2ex.com/t/669911) ![](assets/new.png)  
-- [2020-05-09-博彦科技外派蚂蚁可以去吗](https://www.v2ex.com/t/669910) ![](assets/new.png)  
-- [2020-05-09-电脑面前坐久了，脖子僵硬，有办法搞个-20-分钟的循环转脖子的功能提醒-app/software-？](https://www.v2ex.com/t/669909) ![](assets/new.png)  
-- [2020-05-09-stackoverflow-计划裁员-15%](https://www.v2ex.com/t/669908) ![](assets/new.png)  
-- [2020-05-09-腾讯云招前端，组内直招，流程快，效率高，欢迎随时联系](https://www.v2ex.com/t/669906) ![](assets/new.png)  
-- [2020-05-09-父母-50-岁，我想用父母的名义贷款在老家市里面买套房，操作可行嘛？](https://www.v2ex.com/t/669904) ![](assets/new.png)  
-- [2020-05-09-公司餐补需要发票，但是很多发票-比如餐饮业的，超市这种发票都不能用，交通的可以，这是为啥。。](https://www.v2ex.com/t/669903) ![](assets/new.png)  
-- [2020-05-09-广州工作交流群-看到个深圳工作交流群，搜了下，发现没有广州的，搞一个，最近广州的行情如何？欢迎大家一起来探讨。](https://www.v2ex.com/t/669902) ![](assets/new.png)  
-- [2020-05-09-Coupang-社招-上海/北京-：服务端开发，前端开发，-iOS，安卓，数据分析](https://www.v2ex.com/t/669901) ![](assets/new.png)  
-- [2020-05-09-!-咨询图片+音乐合成视频方案](https://www.v2ex.com/t/669900) ![](assets/new.png)  
-- [2020-05-09-桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899) ![](assets/new.png)  
-- [2020-05-09-也许是目前最好的-Markdown-图片-VSCode-扩展](https://www.v2ex.com/t/669897) ![](assets/new.png)  
+- [2020-05-09-迫生，收北京公交充值电子发票](https://www.v2ex.com/t/669931) ![](assets/new.png)  
+- [2020-05-09-pixel-4-降价，转需](https://www.v2ex.com/t/669928) ![](assets/new.png)  
+- [2020-05-09-BI-工具-有做过-superset-二次开发的吗，或者嵌入使用过的](https://www.v2ex.com/t/669926) ![](assets/new.png)  
+- [2020-05-09-聊聊投资，对我的一些帮助](https://www.v2ex.com/t/669925) ![](assets/new.png)  
+- [2020-05-09-新账号没法发二手交易吗？](https://www.v2ex.com/t/669924) ![](assets/new.png)  
+- [2020-05-09-大家谈谈-智慧城市，我感觉现在的资源，国家的发展，应该适合在初期搞这个三方平台？](https://www.v2ex.com/t/669923) ![](assets/new.png)  
+- [2020-05-09-PHP-spl_autoload_register-会影响多少性能?](https://www.v2ex.com/t/669920)  
+- [2020-05-09-JetBrains-官网点击安装插件，-idea-自动弹出安装窗口，这是怎么做到的？](https://www.v2ex.com/t/669918)  
+- [2020-05-09-如果没有阅文爆出合同问题，恐怕很少有人会去关注合同的合法性、合理性](https://www.v2ex.com/t/669917)  
+- [2020-05-09-logstash-同步数据重复问题](https://www.v2ex.com/t/669916)  
+- [2020-05-09-求推荐个-ios-的输入法啊](https://www.v2ex.com/t/669915)  
+- [2020-05-09-钱少事多离家远](https://www.v2ex.com/t/669914)  
+- [2020-05-09-Macbook-经常右上角一块区域在任何界面任何软件中都无法选中,无法操作](https://www.v2ex.com/t/669913)  
+- [2020-05-09-2020-年了，各位拥抱-Python-的类型注释了么？](https://www.v2ex.com/t/669912)  
+- [2020-05-09-看中了一款宜家的椅子，隆菲尔会议椅](https://www.v2ex.com/t/669911)  
+- [2020-05-09-博彦科技外派蚂蚁可以去吗](https://www.v2ex.com/t/669910)  
+- [2020-05-09-电脑面前坐久了，脖子僵硬，有办法搞个-20-分钟的循环转脖子的功能提醒-app/software-？](https://www.v2ex.com/t/669909)  
+- [2020-05-09-stackoverflow-计划裁员-15%](https://www.v2ex.com/t/669908)  
+- [2020-05-09-腾讯云招前端，组内直招，流程快，效率高，欢迎随时联系](https://www.v2ex.com/t/669906)  
+- [2020-05-09-父母-50-岁，我想用父母的名义贷款在老家市里面买套房，操作可行嘛？](https://www.v2ex.com/t/669904)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,12 +1069,17 @@
 </summary>
 
 
-- [2020-05-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/k8wqxag) ![](assets/new.png)  
-- [2020-05-09-Spring-Boot-源码（十）：Spring-Boot-内置生命周期事件详解](https://toutiao.io/k/7ystn78) ![](assets/new.png)  
-- [2020-05-09-系统建模理论与思路](https://toutiao.io/k/3q7ap4b) ![](assets/new.png)  
-- [2020-05-09-不到-100-行-Python-代码徐峥变葛优](https://toutiao.io/k/ha59hvy) ![](assets/new.png)  
-- [2020-05-09-浅析高性能序列化协议-Kryo](https://toutiao.io/k/vzo8gxa) ![](assets/new.png)  
-- [2020-05-09-HashMap-的-7-种遍历方式与性能分析](https://toutiao.io/k/axhwd66) ![](assets/new.png)  
+- [2020-05-09-Flutter-Web-网站之-ScrollView-+-GridView-优化](https://toutiao.io/k/m1tw49h) ![](assets/new.png)  
+- [2020-05-09-当面试官问你什么是-wěi-递归，你该怎么回答？](https://toutiao.io/k/g3y0bw1) ![](assets/new.png)  
+- [2020-05-09-研发-Leader-成长手册（三）](https://toutiao.io/k/rttx3ow) ![](assets/new.png)  
+- [2020-05-09-攻克数据结构：二叉搜索树](https://toutiao.io/k/rzzj1i8) ![](assets/new.png)  
+- [2020-05-09-浅说-Docker-基础知识与核心原理](https://toutiao.io/k/0xzvki4) ![](assets/new.png)  
+- [2020-05-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/k8wqxag)  
+- [2020-05-09-Spring-Boot-源码（十）：Spring-Boot-内置生命周期事件详解](https://toutiao.io/k/7ystn78)  
+- [2020-05-09-系统建模理论与思路](https://toutiao.io/k/3q7ap4b)  
+- [2020-05-09-不到-100-行-Python-代码徐峥变葛优](https://toutiao.io/k/ha59hvy)  
+- [2020-05-09-浅析高性能序列化协议-Kryo](https://toutiao.io/k/vzo8gxa)  
+- [2020-05-09-HashMap-的-7-种遍历方式与性能分析](https://toutiao.io/k/axhwd66)  
 - [2020-05-09-闲鱼基于-Dart-生态的-FaaS-前端一体化建设](https://toutiao.io/k/7lfspvj)  
 - [2020-05-09-真有小伙伴不知道浮点数如何转二进制吗？](https://toutiao.io/k/2evfoj5)  
 - [2020-05-09-SOLO：一次性预测语义类别和实例掩码](https://toutiao.io/k/gh6rj6x)  
@@ -1084,11 +1089,6 @@
 - [2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx)  
 - [2020-05-09-都在说实时数据架构，你了解多少？](https://toutiao.io/k/ujyiztl)  
 - [2020-05-09-设计模式太难了？看看这个-“说人话”-的版本再说！](https://toutiao.io/k/8ofy33k)  
-- [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq)  
-- [2020-05-08-OPPO-基于-Kubernetes-的云平台存储容器化实践](https://toutiao.io/k/tkhoouu)  
-- [2020-05-08-Lucene-索引文件的读取（三）：dim&&dii](https://toutiao.io/k/3jdvhbo)  
-- [2020-05-08-译-使用-Java-和-web3j-进行-Token-开发（概述）](https://toutiao.io/k/x1usde8)  
-- [2020-05-08-Android-万能开关控件-LSwitch](https://toutiao.io/k/thgmi48)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

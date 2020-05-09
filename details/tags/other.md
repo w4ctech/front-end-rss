@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -596,6 +596,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-09-迫生，收北京公交充值电子发票](https://www.v2ex.com/t/669931) 
+- [2020-05-09-pixel-4-降价，转需](https://www.v2ex.com/t/669928) 
+- [2020-05-09-BI-工具-有做过-superset-二次开发的吗，或者嵌入使用过的](https://www.v2ex.com/t/669926) 
+- [2020-05-09-聊聊投资，对我的一些帮助](https://www.v2ex.com/t/669925) 
+- [2020-05-09-新账号没法发二手交易吗？](https://www.v2ex.com/t/669924) 
+- [2020-05-09-大家谈谈-智慧城市，我感觉现在的资源，国家的发展，应该适合在初期搞这个三方平台？](https://www.v2ex.com/t/669923) 
 - [2020-05-09-JetBrains-官网点击安装插件，-idea-自动弹出安装窗口，这是怎么做到的？](https://www.v2ex.com/t/669918) 
 - [2020-05-09-如果没有阅文爆出合同问题，恐怕很少有人会去关注合同的合法性、合理性](https://www.v2ex.com/t/669917) 
 - [2020-05-09-logstash-同步数据重复问题](https://www.v2ex.com/t/669916) 
@@ -3338,6 +3344,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-09-研发-Leader-成长手册（三）](https://toutiao.io/k/rttx3ow) 
+- [2020-05-09-攻克数据结构：二叉搜索树](https://toutiao.io/k/rzzj1i8) 
 - [2020-05-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/k8wqxag) 
 - [2020-05-09-系统建模理论与思路](https://toutiao.io/k/3q7ap4b) 
 - [2020-05-09-不到-100-行-Python-代码徐峥变葛优](https://toutiao.io/k/ha59hvy) 

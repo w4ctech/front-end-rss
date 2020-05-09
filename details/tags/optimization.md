@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -32,6 +32,7 @@
 - [2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-05-09-PHP-spl_autoload_register-会影响多少性能?](https://www.v2ex.com/t/669920) 
 - [2020-05-08-为什么普通-https-加载很慢，-Trojan-却可以很快？](https://www.v2ex.com/t/669768) 
 - [2020-05-08-mysql-单表即将上-2-千万数据-存授权的-性能跟不上了-怎么优化](https://www.v2ex.com/t/669743) 
 - [2020-05-08-Macbook-Pro-13'-2020-实际性能表现如何？](https://www.v2ex.com/t/669681) 
@@ -57,6 +58,8 @@
 - [2020-04-24-做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746) 
 - [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-09-浅析高性能序列化协议-Kryo](https://toutiao.io/k/vzo8gxa) 
+- [2020-05-09-HashMap-的-7-种遍历方式与性能分析](https://toutiao.io/k/axhwd66) 
 - [2020-05-08-Golang-性能优化实战](https://toutiao.io/k/xh5mlkq) 
 - [2020-05-08-文本分类加速优化实践](https://toutiao.io/k/qnq0hnb) 
 - [2020-05-08-机器学习笔记（十四）：线性回归及其两种常用的优化方法](https://toutiao.io/k/4vxaqan) 

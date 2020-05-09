@@ -6311,6 +6311,126 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "PHP spl_autoload_register 会影响多少性能?",
+        "link": "https://www.v2ex.com/t/669920",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "JetBrains 官网点击安装插件， idea 自动弹出安装窗口，这是怎么做到的？",
+        "link": "https://www.v2ex.com/t/669918",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "如果没有阅文爆出合同问题，恐怕很少有人会去关注合同的合法性、合理性",
+        "link": "https://www.v2ex.com/t/669917",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "logstash 同步数据重复问题",
+        "link": "https://www.v2ex.com/t/669916",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "求推荐个 ios 的输入法啊",
+        "link": "https://www.v2ex.com/t/669915",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "钱少事多离家远",
+        "link": "https://www.v2ex.com/t/669914",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "Macbook 经常右上角一块区域在任何界面任何软件中都无法选中,无法操作",
+        "link": "https://www.v2ex.com/t/669913",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "2020 年了，各位拥抱 Python 的类型注释了么？",
+        "link": "https://www.v2ex.com/t/669912",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "看中了一款宜家的椅子，隆菲尔会议椅",
+        "link": "https://www.v2ex.com/t/669911",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "博彦科技外派蚂蚁可以去吗",
+        "link": "https://www.v2ex.com/t/669910",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "电脑面前坐久了，脖子僵硬，有办法搞个 20 分钟的循环转脖子的功能提醒 app/software ？",
+        "link": "https://www.v2ex.com/t/669909",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "stackoverflow 计划裁员 15%",
+        "link": "https://www.v2ex.com/t/669908",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "腾讯云招前端，组内直招，流程快，效率高，欢迎随时联系",
+        "link": "https://www.v2ex.com/t/669906",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "父母 50 岁，我想用父母的名义贷款在老家市里面买套房，操作可行嘛？",
+        "link": "https://www.v2ex.com/t/669904",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "公司餐补需要发票，但是很多发票 比如餐饮业的，超市这种发票都不能用，交通的可以，这是为啥。。",
+        "link": "https://www.v2ex.com/t/669903",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "[广州工作交流群] 看到个深圳工作交流群，搜了下，发现没有广州的，搞一个，最近广州的行情如何？欢迎大家一起来探讨。",
+        "link": "https://www.v2ex.com/t/669902",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "[Coupang-社招-上海/北京] ：服务端开发，前端开发， iOS，安卓，数据分析",
+        "link": "https://www.v2ex.com/t/669901",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "[!] 咨询图片+音乐合成视频方案",
+        "link": "https://www.v2ex.com/t/669900",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "桌面端应用有类似 docker 的搭建开发环境的工具吗？",
+        "link": "https://www.v2ex.com/t/669899",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "也许是目前最好的 Markdown 图片 VSCode 扩展",
+        "link": "https://www.v2ex.com/t/669897",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "匿名聊天新增了性别+敏感词过滤哦！",
+        "link": "https://www.v2ex.com/t/669896",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "2020 年 5 月購入 iPad Pro 2018 算不算 49 年入國軍呢",
+        "link": "https://www.v2ex.com/t/669895",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "昨天 dell 电脑假死机关不了机现在上班没法开机，大神们支个招。。",
+        "link": "https://www.v2ex.com/t/669894",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "[腾讯广告创意中心] 应用开发工程师",
+        "link": "https://www.v2ex.com/t/669893",
+        "date": "2020-05-09"
+      },
+      {
         "title": "寻找一位熟悉 Vue Nuxt 的朋友有偿做个小 demo app",
         "link": "https://www.v2ex.com/t/669891",
         "date": "2020-05-09"
@@ -23464,6 +23584,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "C++ 为什么要弄出虚表这个东西？",
+        "link": "https://toutiao.io/k/k8wqxag",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "Spring Boot 源码（十）：Spring Boot 内置生命周期事件详解",
+        "link": "https://toutiao.io/k/7ystn78",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "系统建模理论与思路",
+        "link": "https://toutiao.io/k/3q7ap4b",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "不到 100 行 Python 代码徐峥变葛优",
+        "link": "https://toutiao.io/k/ha59hvy",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "浅析高性能序列化协议 Kryo",
+        "link": "https://toutiao.io/k/vzo8gxa",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "HashMap 的 7 种遍历方式与性能分析",
+        "link": "https://toutiao.io/k/axhwd66",
+        "date": "2020-05-09"
+      },
       {
         "title": "闲鱼基于 Dart 生态的 FaaS 前端一体化建设",
         "link": "https://toutiao.io/k/7lfspvj",

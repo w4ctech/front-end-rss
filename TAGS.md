@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-09 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -437,10 +437,10 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】!-咨询图片+音乐合成视频方案](https://www.v2ex.com/t/669900)
 - [【V2EX】刚买的新款-iPhone-se-手指轻敲摄像头位置有异响](https://www.v2ex.com/t/669814)
 - [【V2EX】求推荐笔记本，-5k-价位，看视频查文献，需要带出门，-13-寸。](https://www.v2ex.com/t/669780)
 - [【V2EX】淘宝直播-社招-校招前端---base-杭州-or-北京-内推](https://www.v2ex.com/t/669775)
-- [【V2EX】求自动检测视频水印工具](https://www.v2ex.com/t/669748)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -572,6 +572,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899)
 - [【V2EX】请教-docker-TensorFlow/Saving，部署模型的时候怎样配置或者判断显存应该是多少。](https://www.v2ex.com/t/669452)
 - [【V2EX】django-网站-centos-nginx-+uwsgi-环境要在根目录加个-txt-验证一下，有什么办法啊？](https://www.v2ex.com/t/669011)
 - [【V2EX】CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854)
@@ -584,7 +585,6 @@
 - [【V2EX】Nginx-是否可以忽略部分错误日志？](https://www.v2ex.com/t/666385)
 - [【V2EX】ubuntu-怎么安装-docker-常规安装好像不行](https://www.v2ex.com/t/666338)
 - [【V2EX】求助：-docker-nginx-转发-同一台机器上-部署的-go-服务。](https://www.v2ex.com/t/666159)
-- [【V2EX】nginx-无法停止](https://www.v2ex.com/t/665936)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

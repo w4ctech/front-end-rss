@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-09 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-09 08:00:22，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -805,6 +805,11 @@
 </summary>
 
 
+- [2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642) ![](assets/new.png)  
+- [2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787) ![](assets/new.png)  
+- [2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152) ![](assets/new.png)  
+- [2020-05-08-架构师训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/f4a148996b7b712efd37266383fadb33) ![](assets/new.png)  
+- [2020-05-08-Netflix-如何在网络不好时提供更安全、更流畅的流媒体体验？](https://www.ershicimi.com/p/9ee1f7ddf3581ec822457e5f2e341ab7) ![](assets/new.png)  
 - [2020-05-07-刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a)  
 - [2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025)  
 - [2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5)  
@@ -820,11 +825,6 @@
 - [2020-05-04-20-多年历史的-Java-正在焕发第二春](https://www.ershicimi.com/p/2b8f00296d73629f50e19b8a21d405a6)  
 - [2020-05-04-Spark-3.0-新特性抢先看](https://www.ershicimi.com/p/77ab8d39eed9c2135a747b108107816e)  
 - [2020-05-03-10个含金量最高的IT认证，拿下任何一个都能挣到百万年薪](https://www.ershicimi.com/p/363dded20516f706473a17a86c6716f6)  
-- [2020-05-03-B-站知名-UP-主：我被勒索了!](https://www.ershicimi.com/p/2d7e20d66090d43e20295f613f88201c)  
-- [2020-05-02-库克：苹果iPhone-SE-2比最快的安卓手机都要快；员工拒绝加班被判赔偿公司1.8万元；珠峰5G](https://www.ershicimi.com/p/60e12d303528be18329a026aaff2168f)  
-- [2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb)  
-- [2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a)  
-- [2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1007,8 +1007,8 @@
 </summary>
 
 
-- [2020-05-09-孙玲在中国找工作受阻](https://www.v2ex.com/t/669851) ![](assets/new.png)  
-- [2020-05-09-北京-滴滴-内推网约车-直招高级/资深前端研发工程师-20k~50k](https://www.v2ex.com/t/669850) ![](assets/new.png)  
+- [2020-05-09-孙玲在中国找工作受阻](https://www.v2ex.com/t/669851)  
+- [2020-05-09-北京-滴滴-内推网约车-直招高级/资深前端研发工程师-20k~50k](https://www.v2ex.com/t/669850)  
 - [2020-05-09-疑似国外设计师妹子重新设计了-Python-logo](https://www.v2ex.com/t/669849)  
 - [2020-05-09-GeekHub-论坛好美，有开源计划吗？](https://www.v2ex.com/t/669848)  
 - [2020-05-09-分享一次-golang-的面试题，最后一题求解答](https://www.v2ex.com/t/669847)  

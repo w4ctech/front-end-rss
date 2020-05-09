@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 08:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -444,6 +444,9 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642) 
+- [2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787) 
+- [2020-05-08-架构师训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/f4a148996b7b712efd37266383fadb33) 
 - [2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025) 
 - [2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5) 
 - [2020-05-07-如何成为-C++-高手？听听-20-年技术老兵怎么说丨极客时间](https://www.ershicimi.com/p/babc0c63707693a9d31f12bc390a94a8) 

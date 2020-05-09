@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-09 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-09 08:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -250,6 +250,7 @@
 - [【前端之巅】Flutter-如何精准落地，跨端技术如何选型？-|-GMTC](https://www.ershicimi.com/p/108477736feb4e6ef7384c5f04e5fcf1)
 - [【前端之巅】Flutter-在哈啰出行-B-端创新业务的实践](https://www.ershicimi.com/p/6bf5ed244e92c2e2c6d7fa1e0a529473)
 - [【奇舞周刊】奇舞周刊第-348-期：-Flutter-Web-最新进展](https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245)
+- [【InfoQ】Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
 - [【V2EX】Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604)
 - [【V2EX】分享一下我整理的-Flutter-项目中常用的-Widget](https://www.v2ex.com/t/669462)

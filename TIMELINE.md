@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-09 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-09 08:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -258,6 +258,11 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642) 
+- [【InfoQ】2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787) 
+- [【InfoQ】2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152) 
+- [【InfoQ】2020-05-08-架构师训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/f4a148996b7b712efd37266383fadb33) 
+- [【InfoQ】2020-05-08-Netflix-如何在网络不好时提供更安全、更流畅的流媒体体验？](https://www.ershicimi.com/p/9ee1f7ddf3581ec822457e5f2e341ab7) 
 - [【InfoQ】2020-05-07-刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a) 
 - [【InfoQ】2020-05-07-如何不停机将数百个-ZooKeeper-实例迁移到-Kubernetes](https://www.ershicimi.com/p/b29efe2c814285a02445de0a9feaa025) 
 - [【InfoQ】2020-05-07-企业在谈智能化升级，开发者应该关注哪些背后的技术路径](https://www.ershicimi.com/p/28805d174659cb0152e70810f3a50ef5) 

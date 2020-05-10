@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 02:00:22，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 02:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,10 +1007,12 @@
 </summary>
 
 
-- [2020-05-11-Wordpress-一键修改页面-URL](https://www.v2ex.com/t/670381) ![](assets/new.png)  
-- [2020-05-11-如何检索-A-视频中的片段在-B-视频中出现的时间点？](https://www.v2ex.com/t/670380) ![](assets/new.png)  
-- [2020-05-11-Excelize-发布-2.2.0-版本，-Go-语言-Excel-文档基础库](https://www.v2ex.com/t/670379) ![](assets/new.png)  
-- [2020-05-11-前端开发求职，天津。](https://www.v2ex.com/t/670378) ![](assets/new.png)  
+- [2020-05-11-在用-HDR-显示器的同学可以试试这个视频](https://www.v2ex.com/t/670383) ![](assets/new.png)  
+- [2020-05-11-今天把家里的-UCK-从-1-代升级到-UCK-Gen-2-Plus-的过程](https://www.v2ex.com/t/670382) ![](assets/new.png)  
+- [2020-05-11-Wordpress-一键修改页面-URL](https://www.v2ex.com/t/670381)  
+- [2020-05-11-如何检索-A-视频中的片段在-B-视频中出现的时间点？](https://www.v2ex.com/t/670380)  
+- [2020-05-11-Excelize-发布-2.2.0-版本，-Go-语言-Excel-文档基础库](https://www.v2ex.com/t/670379)  
+- [2020-05-11-前端开发求职，天津。](https://www.v2ex.com/t/670378)  
 - [2020-05-11-新建-6-小时的主机，-3000-多条访问记录，都是机器人吗？](https://www.v2ex.com/t/670377)  
 - [2020-05-11-问个新旧系统切换的数据同步问题](https://www.v2ex.com/t/670376)  
 - [2020-05-11-求推荐一把办公椅](https://www.v2ex.com/t/670375)  
@@ -1025,8 +1027,6 @@
 - [2020-05-10-视频下载器-PigDownloader-支持-Instagram/Twitter/快手/微博上线](https://www.v2ex.com/t/670364)  
 - [2020-05-10-GeekHub-拍卖第一帖，纯手工打造键盘手拖进行中...](https://www.v2ex.com/t/670363)  
 - [2020-05-10-一个带自我审查的字体](https://www.v2ex.com/t/670362)  
-- [2020-05-10-坐标：-杭州-工作性质：开发外包-外包工作地点：滨江-工作待遇](https://www.v2ex.com/t/670361)  
-- [2020-05-10-关于-App-内疑问🤔️](https://www.v2ex.com/t/670360)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

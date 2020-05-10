@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 02:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 02:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -613,6 +613,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-11-今天把家里的-UCK-从-1-代升级到-UCK-Gen-2-Plus-的过程](https://www.v2ex.com/t/670382) 
 - [2020-05-11-Excelize-发布-2.2.0-版本，-Go-语言-Excel-文档基础库](https://www.v2ex.com/t/670379) 
 - [2020-05-11-前端开发求职，天津。](https://www.v2ex.com/t/670378) 
 - [2020-05-11-新建-6-小时的主机，-3000-多条访问记录，都是机器人吗？](https://www.v2ex.com/t/670377) 

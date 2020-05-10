@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 15:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -609,6 +609,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-10-大家线上-mysql-数据库都用的是什么版本](https://www.v2ex.com/t/670253) 
+- [2020-05-10-iPad-插入充电器时电池标志闪烁两次](https://www.v2ex.com/t/670252) 
+- [2020-05-10-现在用-win7-的还多吗](https://www.v2ex.com/t/670250) 
 - [2020-05-10-绑定的属性必须提前声明么？](https://www.v2ex.com/t/670248) 
 - [2020-05-10-用-potplayer-看-youtube-或者-Twitch-甚至斗鱼虎牙会延时多差不多-8-10-秒，有方法解决吗？](https://www.v2ex.com/t/670246) 
 - [2020-05-10-看最近的帖子有感，有同时在用-Yes-和牙膏-cpu-进行计算的吗，-Yes-有多-Yes？](https://www.v2ex.com/t/670245) 

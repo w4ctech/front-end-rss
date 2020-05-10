@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 02:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,8 +1007,9 @@
 </summary>
 
 
-- [2020-05-11-在用-HDR-显示器的同学可以试试这个视频](https://www.v2ex.com/t/670383) ![](assets/new.png)  
-- [2020-05-11-今天把家里的-UCK-从-1-代升级到-UCK-Gen-2-Plus-的过程](https://www.v2ex.com/t/670382) ![](assets/new.png)  
+- [2020-05-11-我打算给公益项目做免费设计！](https://www.v2ex.com/t/670384) ![](assets/new.png)  
+- [2020-05-11-在用-HDR-显示器的同学可以试试这个视频](https://www.v2ex.com/t/670383)  
+- [2020-05-11-今天把家里的-UCK-从-1-代升级到-UCK-Gen-2-Plus-的过程](https://www.v2ex.com/t/670382)  
 - [2020-05-11-Wordpress-一键修改页面-URL](https://www.v2ex.com/t/670381)  
 - [2020-05-11-如何检索-A-视频中的片段在-B-视频中出现的时间点？](https://www.v2ex.com/t/670380)  
 - [2020-05-11-Excelize-发布-2.2.0-版本，-Go-语言-Excel-文档基础库](https://www.v2ex.com/t/670379)  
@@ -1026,7 +1027,6 @@
 - [2020-05-10-坐标：-杭州-工作性质：开发外包-外包工作地点：滨江](https://www.v2ex.com/t/670365)  
 - [2020-05-10-视频下载器-PigDownloader-支持-Instagram/Twitter/快手/微博上线](https://www.v2ex.com/t/670364)  
 - [2020-05-10-GeekHub-拍卖第一帖，纯手工打造键盘手拖进行中...](https://www.v2ex.com/t/670363)  
-- [2020-05-10-一个带自我审查的字体](https://www.v2ex.com/t/670362)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

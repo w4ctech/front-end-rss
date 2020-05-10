@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-10 23:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 00:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -440,10 +440,10 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】求一个安卓视频播放器](https://www.v2ex.com/t/670371)
+- [【V2EX】视频下载器-PigDownloader-支持-Instagram/Twitter/快手/微博上线](https://www.v2ex.com/t/670364)
 - [【V2EX】有能根据-av-号或者-bv-号找回视频名称的方法吗？比如-B-站的镜像站之类的？](https://www.v2ex.com/t/670337)
 - [【V2EX】关于-iOS-的投屏:-是否有办法将前/后置摄像头的视频流投到-Airplay-上?](https://www.v2ex.com/t/670257)
-- [【V2EX】想给奶奶买个智能机方便视频聊天，大伙有啥建议吗？](https://www.v2ex.com/t/670237)
-- [【V2EX】Ai-视频渲染-显卡选择及配置](https://www.v2ex.com/t/670229)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -549,9 +549,9 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)
+- [【V2EX】有没有将-CGI-Proxy-转化为普通-HTTP-Proxy-的工具呢？](https://www.v2ex.com/t/670356)
+- [【V2EX】请教大家一道算法题？](https://www.v2ex.com/t/670354)
 - [【V2EX】区块链技术中共识算法的疑问](https://www.v2ex.com/t/670324)
-- [【V2EX】Go、Gin-和-Elasticsearch-开发的网易云音乐歌曲、评论搜索-API](https://www.v2ex.com/t/670284)
-- [【V2EX】有人了解-HTTPSSVC-吗？没有看到现成的轮子](https://www.v2ex.com/t/670259)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

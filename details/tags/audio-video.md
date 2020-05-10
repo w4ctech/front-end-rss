@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 00:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -23,6 +23,8 @@
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-10-求一个安卓视频播放器](https://www.v2ex.com/t/670371) 
+- [2020-05-10-视频下载器-PigDownloader-支持-Instagram/Twitter/快手/微博上线](https://www.v2ex.com/t/670364) 
 - [2020-05-10-有能根据-av-号或者-bv-号找回视频名称的方法吗？比如-B-站的镜像站之类的？](https://www.v2ex.com/t/670337) 
 - [2020-05-10-关于-iOS-的投屏:-是否有办法将前/后置摄像头的视频流投到-Airplay-上?](https://www.v2ex.com/t/670257) 
 - [2020-05-10-想给奶奶买个智能机方便视频聊天，大伙有啥建议吗？](https://www.v2ex.com/t/670237) 

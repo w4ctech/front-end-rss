@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -46,6 +46,7 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-10-为什么感觉-Java-面试难度更难？](https://www.v2ex.com/t/670175) 
 - [2020-05-10-技术面试最后反问面试官的话！](https://www.v2ex.com/t/670143) 
 - [2020-05-09-远程面试值得一直保留](https://www.v2ex.com/t/669996) 
 - [2020-05-09-分享一次-golang-的面试题，最后一题求解答](https://www.v2ex.com/t/669847) 

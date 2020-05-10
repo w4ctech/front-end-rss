@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-10 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -440,10 +440,10 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】Ai-视频渲染-显卡选择及配置](https://www.v2ex.com/t/670229)
 - [【V2EX】Swoole-入门到实战打造高性能赛事直播平台视频课程-Swoole-作者韩天峰力荐的教程](https://www.v2ex.com/t/670118)
 - [【V2EX】做直播，-B-站内容，选什么麦克风比较好？](https://www.v2ex.com/t/670001)
 - [【V2EX】自动删除-PC-端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间](https://www.v2ex.com/t/669990)
-- [【V2EX】求推荐-Mac-外接摄像头，要求：-FaceTime](https://www.v2ex.com/t/669953)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -549,9 +549,9 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)
+- [【V2EX】滴滴出行-北京、杭州-前端/-Java-/算法/Android/Go/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/670223)
 - [【V2EX】请问-DoH-能取代-httpDNS-吗？](https://www.v2ex.com/t/670211)
 - [【V2EX】在-Kibana-中查看-Elasticsearch-导入的-logs](https://www.v2ex.com/t/670093)
-- [【V2EX】社招/校招/实习-抖音-部门直招推荐算法/策略/架构工程-资深/高级/工程师/专家](https://www.v2ex.com/t/669973)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

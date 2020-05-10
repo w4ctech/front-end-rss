@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-10 09:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-10 09:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -774,6 +774,9 @@
 </summary>
 
 
+- [2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4) ![](assets/new.png)  
+- [2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040) ![](assets/new.png)  
+- [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) ![](assets/new.png)  
 - [2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965)  
 - [2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850)  
 - [2020-05-09-Java-如何优雅的导出-Excel](https://www.ershicimi.com/p/dcfeb579c38d419f7be8ac867aaa62a5)  
@@ -791,9 +794,6 @@
 - [2020-05-05-Java是未来的第一编程语言吗？](https://www.ershicimi.com/p/2c84bf46a35b78cdc06a6218dd92ecc8)  
 - [2020-05-04-百度的71个炸天的开源项目](https://www.ershicimi.com/p/df7f1c8ccc66f7f04a148afedec42f88)  
 - [2020-05-04-怎么对-Java-程序调优？不看别后悔！](https://www.ershicimi.com/p/bf94f70e4d409b3d7435e318d6895d65)  
-- [2020-05-04-架构篇：大型网站技术架构](https://www.ershicimi.com/p/9435cd4f2106c4a2ef5d6f459eb7786e)  
-- [2020-05-03-支付宝架构师的总结：为什么他们能抗住万亿级流量的高并发？](https://www.ershicimi.com/p/e78497dea37bbd5b6a18e6d3b5f16054)  
-- [2020-05-03-开发Java，市值一度超过两千亿美元，造福无数程序员的Sun公司，也最终“陨落”](https://www.ershicimi.com/p/0a716dce6114df52cdfc63fead4d8ef0)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,16 +1069,18 @@
 </summary>
 
 
-- [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr) ![](assets/new.png)  
-- [2020-05-10-如何在面试中回答-“你最大的缺点是什么？”](https://toutiao.io/k/nb7iwgr) ![](assets/new.png)  
-- [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q) ![](assets/new.png)  
-- [2020-05-10-常态化的互联网裁员你经历过吗](https://toutiao.io/k/gisr9l2) ![](assets/new.png)  
-- [2020-05-10-技术人的修炼之道：从业余到专业](https://toutiao.io/k/eh2jpl3) ![](assets/new.png)  
-- [2020-05-10-LevelDB-完全解析（六）：Filter](https://toutiao.io/k/b6chh6e) ![](assets/new.png)  
-- [2020-05-10-性能测试体系建设演进之路](https://toutiao.io/k/3yvmcce) ![](assets/new.png)  
-- [2020-05-10-看得见的机器学习：零基础看懂神经网络](https://toutiao.io/k/trmqkd4) ![](assets/new.png)  
-- [2020-05-10-关于写作那些事之快速上手-Mermaid-流程图](https://toutiao.io/k/u6m1b1x) ![](assets/new.png)  
-- [2020-05-10-Elasticsearch-对垒-8-大竞品技术，孰优孰劣？](https://toutiao.io/k/m9ribx5) ![](assets/new.png)  
+- [2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb) ![](assets/new.png)  
+- [2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3) ![](assets/new.png)  
+- [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr)  
+- [2020-05-10-如何在面试中回答-“你最大的缺点是什么？”](https://toutiao.io/k/nb7iwgr)  
+- [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q)  
+- [2020-05-10-常态化的互联网裁员你经历过吗](https://toutiao.io/k/gisr9l2)  
+- [2020-05-10-技术人的修炼之道：从业余到专业](https://toutiao.io/k/eh2jpl3)  
+- [2020-05-10-LevelDB-完全解析（六）：Filter](https://toutiao.io/k/b6chh6e)  
+- [2020-05-10-性能测试体系建设演进之路](https://toutiao.io/k/3yvmcce)  
+- [2020-05-10-看得见的机器学习：零基础看懂神经网络](https://toutiao.io/k/trmqkd4)  
+- [2020-05-10-关于写作那些事之快速上手-Mermaid-流程图](https://toutiao.io/k/u6m1b1x)  
+- [2020-05-10-Elasticsearch-对垒-8-大竞品技术，孰优孰劣？](https://toutiao.io/k/m9ribx5)  
 - [2020-05-10-Nginx-从入门到实践，万字详解](https://toutiao.io/k/htwrw8g)  
 - [2020-05-10-用-jsDelivr-免费加速-GitHub-Pages-的静态资源](https://toutiao.io/k/4vvzn5h)  
 - [2020-05-09-女程序员离职后被索赔百万](https://toutiao.io/k/x39ofgr)  
@@ -1087,8 +1089,6 @@
 - [2020-05-09-研发-Leader-成长手册（三）](https://toutiao.io/k/rttx3ow)  
 - [2020-05-09-攻克数据结构：二叉搜索树](https://toutiao.io/k/rzzj1i8)  
 - [2020-05-09-浅说-Docker-基础知识与核心原理](https://toutiao.io/k/0xzvki4)  
-- [2020-05-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/k8wqxag)  
-- [2020-05-09-Spring-Boot-源码（十）：Spring-Boot-内置生命周期事件详解](https://toutiao.io/k/7ystn78)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

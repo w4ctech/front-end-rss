@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 09:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -23,6 +23,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-09-在-Kibana-中查看-Elasticsearch-导入的-logs](https://www.v2ex.com/t/670093) 
 - [2020-05-09-社招/校招/实习-抖音-部门直招推荐算法/策略/架构工程-资深/高级/工程师/专家](https://www.v2ex.com/t/669973) 
 - [2020-05-08-一种自动配置雪花-id-算法参数的方法](https://www.v2ex.com/t/669835) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-10 09:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -239,6 +239,9 @@
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4) 
+- [【互联网架构师】2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040) 
+- [【互联网架构师】2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [【互联网架构师】2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965) 
 - [【互联网架构师】2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850) 
 - [【互联网架构师】2020-05-09-Java-如何优雅的导出-Excel](https://www.ershicimi.com/p/dcfeb579c38d419f7be8ac867aaa62a5) 
@@ -2121,6 +2124,8 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb) 
+- [【开发者头条】2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3) 
 - [【开发者头条】2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr) 
 - [【开发者头条】2020-05-10-如何在面试中回答-“你最大的缺点是什么？”](https://toutiao.io/k/nb7iwgr) 
 - [【开发者头条】2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q) 

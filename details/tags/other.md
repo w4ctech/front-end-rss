@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 07:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -613,6 +613,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391) 
 - [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390) 
 - [2020-05-11-大神求助：-wordpress-sql-数据导入一直出问题](https://www.v2ex.com/t/670389) 
 - [2020-05-11-组个微信群：-echo-"上海程序员内推找工作-wechat-群";](https://www.v2ex.com/t/670388) 

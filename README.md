@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 06:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 07:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,9 +1007,10 @@
 </summary>
 
 
-- [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390) ![](assets/new.png)  
-- [2020-05-11-大神求助：-wordpress-sql-数据导入一直出问题](https://www.v2ex.com/t/670389) ![](assets/new.png)  
-- [2020-05-11-组个微信群：-echo-"上海程序员内推找工作-wechat-群";](https://www.v2ex.com/t/670388) ![](assets/new.png)  
+- [2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391) ![](assets/new.png)  
+- [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390)  
+- [2020-05-11-大神求助：-wordpress-sql-数据导入一直出问题](https://www.v2ex.com/t/670389)  
+- [2020-05-11-组个微信群：-echo-"上海程序员内推找工作-wechat-群";](https://www.v2ex.com/t/670388)  
 - [2020-05-11-写了几个符合-amp-协议的网页，放在新建的-amp-文件夹目录下，发现-404，无法找到。](https://www.v2ex.com/t/670387)  
 - [2020-05-11-npm-中文-API-之《三国志》全本](https://www.v2ex.com/t/670386)  
 - [2020-05-11-创维新出了一款-28-寸-4K-显示器-1399-有没有猫腻](https://www.v2ex.com/t/670385)  
@@ -1026,7 +1027,6 @@
 - [2020-05-11-我不明白，肖战割割为啥能这么火。。。](https://www.v2ex.com/t/670374)  
 - [2020-05-11-因为-steam-好友太少，想求波好友](https://www.v2ex.com/t/670373)  
 - [2020-05-11-历史上有哪些软件设计、模式，后来被认为是坑的？](https://www.v2ex.com/t/670372)  
-- [2020-05-10-求一个安卓视频播放器](https://www.v2ex.com/t/670371)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

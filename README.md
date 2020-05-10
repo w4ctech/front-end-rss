@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-10 15:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-10 16:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,10 +1007,16 @@
 </summary>
 
 
-- [2020-05-10-大家线上-mysql-数据库都用的是什么版本](https://www.v2ex.com/t/670253) ![](assets/new.png)  
-- [2020-05-10-iPad-插入充电器时电池标志闪烁两次](https://www.v2ex.com/t/670252) ![](assets/new.png)  
-- [2020-05-10-菜鸟问题：某不可描述的网站用-jq-写了个油猴插件，结果本地调试可以运行，实际网页不可用。](https://www.v2ex.com/t/670251) ![](assets/new.png)  
-- [2020-05-10-现在用-win7-的还多吗](https://www.v2ex.com/t/670250) ![](assets/new.png)  
+- [2020-05-10-如何查看-EC2-的网络日志？](https://www.v2ex.com/t/670261) ![](assets/new.png)  
+- [2020-05-10-有人了解-HTTPSSVC-吗？没有看到现成的轮子](https://www.v2ex.com/t/670259) ![](assets/new.png)  
+- [2020-05-10-关于-logitech-flow](https://www.v2ex.com/t/670258) ![](assets/new.png)  
+- [2020-05-10-关于-iOS-的投屏:-是否有办法将前/后置摄像头的视频流投到-Airplay-上?](https://www.v2ex.com/t/670257) ![](assets/new.png)  
+- [2020-05-10-组个-Apple-Music-日区家庭，看看有没有人需要](https://www.v2ex.com/t/670256) ![](assets/new.png)  
+- [2020-05-10-支持国内版项目管理工具](https://www.v2ex.com/t/670255) ![](assets/new.png)  
+- [2020-05-10-大家线上-mysql-数据库都用的是什么版本](https://www.v2ex.com/t/670253)  
+- [2020-05-10-iPad-插入充电器时电池标志闪烁两次](https://www.v2ex.com/t/670252)  
+- [2020-05-10-菜鸟问题：某不可描述的网站用-jq-写了个油猴插件，结果本地调试可以运行，实际网页不可用。](https://www.v2ex.com/t/670251)  
+- [2020-05-10-现在用-win7-的还多吗](https://www.v2ex.com/t/670250)  
 - [2020-05-10-绑定的属性必须提前声明么？](https://www.v2ex.com/t/670248)  
 - [2020-05-10-用-potplayer-看-youtube-或者-Twitch-甚至斗鱼虎牙会延时多差不多-8-10-秒，有方法解决吗？](https://www.v2ex.com/t/670246)  
 - [2020-05-10-看最近的帖子有感，有同时在用-Yes-和牙膏-cpu-进行计算的吗，-Yes-有多-Yes？](https://www.v2ex.com/t/670245)  
@@ -1021,12 +1027,6 @@
 - [2020-05-10-想给奶奶买个智能机方便视频聊天，大伙有啥建议吗？](https://www.v2ex.com/t/670237)  
 - [2020-05-10-省钱日记，一个圈钱骗子平台，大家不要上当了，我已上当！](https://www.v2ex.com/t/670236)  
 - [2020-05-10-大龄程序员-我们有没有可能推动反年龄歧视法](https://www.v2ex.com/t/670235)  
-- [2020-05-10-有无-2500-以下显示器-23.5-的-4K-或者-34-的带鱼屏推荐，不需要花里胡哨的功能看着舒服就行](https://www.v2ex.com/t/670233)  
-- [2020-05-10-PS4-咋了？](https://www.v2ex.com/t/670232)  
-- [2020-05-10-迫于官方-sqlite-版本低，-Linux-下有没有兼容官方语法、sqlite-版本高些的-pypi？](https://www.v2ex.com/t/670231)  
-- [2020-05-10-Ai-视频渲染-显卡选择及配置](https://www.v2ex.com/t/670229)  
-- [2020-05-10-还是金融行业猛，猛到畸形](https://www.v2ex.com/t/670226)  
-- [2020-05-10-移动鼠标-MBP16-发出高频噪声，是啥原因](https://www.v2ex.com/t/670225)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

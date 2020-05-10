@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 08:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3496,6 +3496,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-10-常态化的互联网裁员你经历过吗](https://toutiao.io/k/gisr9l2) 
+- [2020-05-10-技术人的修炼之道：从业余到专业](https://toutiao.io/k/eh2jpl3) 
+- [2020-05-10-LevelDB-完全解析（六）：Filter](https://toutiao.io/k/b6chh6e) 
+- [2020-05-10-看得见的机器学习：零基础看懂神经网络](https://toutiao.io/k/trmqkd4) 
+- [2020-05-10-关于写作那些事之快速上手-Mermaid-流程图](https://toutiao.io/k/u6m1b1x) 
 - [2020-05-09-女程序员离职后被索赔百万](https://toutiao.io/k/x39ofgr) 
 - [2020-05-09-研发-Leader-成长手册（三）](https://toutiao.io/k/rttx3ow) 
 - [2020-05-09-攻克数据结构：二叉搜索树](https://toutiao.io/k/rzzj1i8) 

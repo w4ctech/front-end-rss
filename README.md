@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-10 08:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-10 09:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -199,7 +199,7 @@
 </summary>
 
 
-- [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470) ![](assets/new.png)  
+- [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)  
 - [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
@@ -1069,8 +1069,18 @@
 </summary>
 
 
-- [2020-05-10-Nginx-从入门到实践，万字详解](https://toutiao.io/k/htwrw8g) ![](assets/new.png)  
-- [2020-05-10-用-jsDelivr-免费加速-GitHub-Pages-的静态资源](https://toutiao.io/k/4vvzn5h) ![](assets/new.png)  
+- [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr) ![](assets/new.png)  
+- [2020-05-10-如何在面试中回答-“你最大的缺点是什么？”](https://toutiao.io/k/nb7iwgr) ![](assets/new.png)  
+- [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q) ![](assets/new.png)  
+- [2020-05-10-常态化的互联网裁员你经历过吗](https://toutiao.io/k/gisr9l2) ![](assets/new.png)  
+- [2020-05-10-技术人的修炼之道：从业余到专业](https://toutiao.io/k/eh2jpl3) ![](assets/new.png)  
+- [2020-05-10-LevelDB-完全解析（六）：Filter](https://toutiao.io/k/b6chh6e) ![](assets/new.png)  
+- [2020-05-10-性能测试体系建设演进之路](https://toutiao.io/k/3yvmcce) ![](assets/new.png)  
+- [2020-05-10-看得见的机器学习：零基础看懂神经网络](https://toutiao.io/k/trmqkd4) ![](assets/new.png)  
+- [2020-05-10-关于写作那些事之快速上手-Mermaid-流程图](https://toutiao.io/k/u6m1b1x) ![](assets/new.png)  
+- [2020-05-10-Elasticsearch-对垒-8-大竞品技术，孰优孰劣？](https://toutiao.io/k/m9ribx5) ![](assets/new.png)  
+- [2020-05-10-Nginx-从入门到实践，万字详解](https://toutiao.io/k/htwrw8g)  
+- [2020-05-10-用-jsDelivr-免费加速-GitHub-Pages-的静态资源](https://toutiao.io/k/4vvzn5h)  
 - [2020-05-09-女程序员离职后被索赔百万](https://toutiao.io/k/x39ofgr)  
 - [2020-05-09-Flutter-Web-网站之-ScrollView-+-GridView-优化](https://toutiao.io/k/m1tw49h)  
 - [2020-05-09-当面试官问你什么是-wěi-递归，你该怎么回答？](https://toutiao.io/k/g3y0bw1)  
@@ -1079,16 +1089,6 @@
 - [2020-05-09-浅说-Docker-基础知识与核心原理](https://toutiao.io/k/0xzvki4)  
 - [2020-05-09-C++-为什么要弄出虚表这个东西？](https://toutiao.io/k/k8wqxag)  
 - [2020-05-09-Spring-Boot-源码（十）：Spring-Boot-内置生命周期事件详解](https://toutiao.io/k/7ystn78)  
-- [2020-05-09-系统建模理论与思路](https://toutiao.io/k/3q7ap4b)  
-- [2020-05-09-不到-100-行-Python-代码徐峥变葛优](https://toutiao.io/k/ha59hvy)  
-- [2020-05-09-浅析高性能序列化协议-Kryo](https://toutiao.io/k/vzo8gxa)  
-- [2020-05-09-HashMap-的-7-种遍历方式与性能分析](https://toutiao.io/k/axhwd66)  
-- [2020-05-09-闲鱼基于-Dart-生态的-FaaS-前端一体化建设](https://toutiao.io/k/7lfspvj)  
-- [2020-05-09-真有小伙伴不知道浮点数如何转二进制吗？](https://toutiao.io/k/2evfoj5)  
-- [2020-05-09-SOLO：一次性预测语义类别和实例掩码](https://toutiao.io/k/gh6rj6x)  
-- [2020-05-09-记一次问题排查：为什么在-POD-无法通过-Service-访问自己？](https://toutiao.io/k/x8wvp42)  
-- [2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1)  
-- [2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -609,6 +609,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-10-kafka-里的数据如何写到-es-里去-？](https://www.v2ex.com/t/670289) 
+- [2020-05-10-不懂就问---关于电脑显示器色域的问题---高色域会导致过饱和吗？](https://www.v2ex.com/t/670288) 
+- [2020-05-10-Java-关于-Class.forNamecom.mysql.jdbc.Driver-未遵守了双亲委派模型这件事有什么比较好资料么?](https://www.v2ex.com/t/670286) 
+- [2020-05-10-bing-又出问题了吗](https://www.v2ex.com/t/670285) 
 - [2020-05-10-有没有-MacBook-防烤手的好方案，键盘区略烫](https://www.v2ex.com/t/670282) 
 - [2020-05-10-AtomicStampedReference-的-CAS-操作，这么理解对吗](https://www.v2ex.com/t/670281) 
 - [2020-05-10-收杭州地区平安银行信用卡新户](https://www.v2ex.com/t/670280) 

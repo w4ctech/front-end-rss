@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-05-10 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-10-kafka-里的数据如何写到-es-里去-？](https://www.v2ex.com/t/670289) 
+- [2020-05-10-不懂就问---关于电脑显示器色域的问题---高色域会导致过饱和吗？](https://www.v2ex.com/t/670288) 
+- [2020-05-10-Java-关于-Class.forNamecom.mysql.jdbc.Driver-未遵守了双亲委派模型这件事有什么比较好资料么?](https://www.v2ex.com/t/670286) 
+- [2020-05-10-bing-又出问题了吗](https://www.v2ex.com/t/670285) 
 - [2020-05-10-Go、Gin-和-Elasticsearch-开发的网易云音乐歌曲、评论搜索-API](https://www.v2ex.com/t/670284) 
 - [2020-05-10-有没有-MacBook-防烤手的好方案，键盘区略烫](https://www.v2ex.com/t/670282) 
 - [2020-05-10-AtomicStampedReference-的-CAS-操作，这么理解对吗](https://www.v2ex.com/t/670281) 

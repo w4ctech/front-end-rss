@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-10 18:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-10 19:30:21，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,26 +1007,26 @@
 </summary>
 
 
-- [2020-05-10-kafka-里的数据如何写到-es-里去-？](https://www.v2ex.com/t/670289) ![](assets/new.png)  
-- [2020-05-10-不懂就问---关于电脑显示器色域的问题---高色域会导致过饱和吗？](https://www.v2ex.com/t/670288) ![](assets/new.png)  
-- [2020-05-10-Java-关于-Class.forNamecom.mysql.jdbc.Driver-未遵守了双亲委派模型这件事有什么比较好资料么?](https://www.v2ex.com/t/670286) ![](assets/new.png)  
-- [2020-05-10-bing-又出问题了吗](https://www.v2ex.com/t/670285) ![](assets/new.png)  
-- [2020-05-10-Go、Gin-和-Elasticsearch-开发的网易云音乐歌曲、评论搜索-API](https://www.v2ex.com/t/670284)  
-- [2020-05-10-有没有-MacBook-防烤手的好方案，键盘区略烫](https://www.v2ex.com/t/670282)  
-- [2020-05-10-AtomicStampedReference-的-CAS-操作，这么理解对吗](https://www.v2ex.com/t/670281)  
-- [2020-05-10-收杭州地区平安银行信用卡新户](https://www.v2ex.com/t/670280)  
-- [2020-05-10-base-深圳-阿里跨境供应链，内推-Java-开发，坐标深圳阿里中心，一起来面朝大海写代码吧](https://www.v2ex.com/t/670277)  
-- [2020-05-10-推荐一个-iPhone-查询-卡贴机教程的公众号](https://www.v2ex.com/t/670276)  
-- [2020-05-10-有没有开源的-PERT-图-JS-实现？](https://www.v2ex.com/t/670274)  
-- [2020-05-10-求助关于-js-Error.stack-的问题](https://www.v2ex.com/t/670273)  
-- [2020-05-10-鹅厂面试疑惑，通道之后的总经理面试环节具体都问些啥？](https://www.v2ex.com/t/670272)  
-- [2020-05-10-官宣：-2019-年-Go-开发者调查报告](https://www.v2ex.com/t/670270)  
-- [2020-05-10-写代码最大的痛苦,-在于理解别人的代码](https://www.v2ex.com/t/670268)  
-- [2020-05-10-把-iPhone-放在背包里走路，微信运动会计步吗？](https://www.v2ex.com/t/670266)  
-- [2020-05-10-一个大公司的价值观真的能深切影响到他的员工吗？以-zihangu-与阿里为例](https://www.v2ex.com/t/670265)  
-- [2020-05-10-需要域名备案的慎入腾讯云](https://www.v2ex.com/t/670264)  
-- [2020-05-10-和中堂语录-学可以无术，但不能不博；学而不博那就是没见识；](https://www.v2ex.com/t/670263)  
-- [2020-05-10-有-SE2-贴了白色面板的膜么，效果咋样？](https://www.v2ex.com/t/670262)  
+- [2020-05-10-mysql-查询会加锁开启事务吗？](https://www.v2ex.com/t/670314) ![](assets/new.png)  
+- [2020-05-10-京东白条逾期竟然连提醒都没有](https://www.v2ex.com/t/670313) ![](assets/new.png)  
+- [2020-05-10-你的第一个-TC-BPF-程序](https://www.v2ex.com/t/670312) ![](assets/new.png)  
+- [2020-05-10-每日一技|如何在公众号里插入网易云音乐的歌单](https://www.v2ex.com/t/670311) ![](assets/new.png)  
+- [2020-05-10-为什么-AtomicIntegerArray-的-array-成员不是-volatile-而是-final-的啊？](https://www.v2ex.com/t/670310) ![](assets/new.png)  
+- [2020-05-10-五分钟实现，一个-RN-App-开发调试工具](https://www.v2ex.com/t/670309) ![](assets/new.png)  
+- [2020-05-10-贴个题解，-253-道了](https://www.v2ex.com/t/670308) ![](assets/new.png)  
+- [2020-05-10-对于需要长期保存的重要数据是否有机械硬盘（HDD）推荐](https://www.v2ex.com/t/670307) ![](assets/new.png)  
+- [2020-05-10-最好的-Go-资源打包工具（Resource-Embedding-Tool）是？](https://www.v2ex.com/t/670306) ![](assets/new.png)  
+- [2020-05-10-Python-周报和日常文章阅读记录](https://www.v2ex.com/t/670305) ![](assets/new.png)  
+- [2020-05-10-Bing-又崩溃了？](https://www.v2ex.com/t/670304) ![](assets/new.png)  
+- [2020-05-10-PlayStation-中国商店停服：恢复时间未知](https://www.v2ex.com/t/670303) ![](assets/new.png)  
+- [2020-05-10-bing.com-挂了？](https://www.v2ex.com/t/670302) ![](assets/new.png)  
+- [2020-05-10-Inoreader-新的订阅源-总是在上边，如何重排序](https://www.v2ex.com/t/670301) ![](assets/new.png)  
+- [2020-05-10-今天必应不能访问了](https://www.v2ex.com/t/670300) ![](assets/new.png)  
+- [2020-05-10-用了两个小时的-4K30Hz-显示器，头晕恶心想吐](https://www.v2ex.com/t/670299) ![](assets/new.png)  
+- [2020-05-10-由于-AirPods-Pro-固件问题，白嫖一耳机](https://www.v2ex.com/t/670297) ![](assets/new.png)  
+- [2020-05-10-学习-go-一段时间了,-自己写了一个项目玩玩,-大家帮忙掌掌眼](https://www.v2ex.com/t/670296) ![](assets/new.png)  
+- [2020-05-10-救助：不知为何外接显示器只能上到-4K-30Hz](https://www.v2ex.com/t/670295) ![](assets/new.png)  
+- [2020-05-10-互联宝地附近求合租或者推荐房源](https://www.v2ex.com/t/670294) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

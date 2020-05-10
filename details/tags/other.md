@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 09:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -270,6 +270,8 @@
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [2020-05-10-推荐11个优秀的前端公众号](https://www.ershicimi.com/p/cb1d86de75485cc486c6e744c6e1b19c) 
+- [2020-05-10-推荐一个掘金点赞文章分类检索排序的网站](https://www.ershicimi.com/p/1f55f6aed601fe1321a6bac3687d38bf) 
 - [2020-05-09-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/8690381a460fc7b60a719fc785479213) 
 - [2020-05-06-9个不错的前端开源项目](https://www.ershicimi.com/p/7abeffa835c459365215815d95e92cee) 
 - [2020-05-05-全球第三前端团队（体验技术部招前端了！](https://www.ershicimi.com/p/e4064e7e65847593a573b945be2ae5f1) 

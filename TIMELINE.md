@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 09:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-10 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -184,6 +184,8 @@
 - [【前端之巅】2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [【前端之巅】2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
+- [【前端迷】2020-05-10-推荐11个优秀的前端公众号](https://www.ershicimi.com/p/cb1d86de75485cc486c6e744c6e1b19c) 
+- [【前端迷】2020-05-10-推荐一个掘金点赞文章分类检索排序的网站](https://www.ershicimi.com/p/1f55f6aed601fe1321a6bac3687d38bf) 
 - [【前端迷】2020-05-09-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/8690381a460fc7b60a719fc785479213) 
 - [【前端迷】2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808) 
 - [【前端迷】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-10 09:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-10 10:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -417,6 +417,8 @@
 </summary>
 
 
+- [2020-05-10-推荐11个优秀的前端公众号](https://www.ershicimi.com/p/cb1d86de75485cc486c6e744c6e1b19c) ![](assets/new.png)  
+- [2020-05-10-推荐一个掘金点赞文章分类检索排序的网站](https://www.ershicimi.com/p/1f55f6aed601fe1321a6bac3687d38bf) ![](assets/new.png)  
 - [2020-05-09-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/8690381a460fc7b60a719fc785479213)  
 - [2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808)  
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4)  
@@ -435,8 +437,6 @@
 - [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0)  
 - [2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c)  
 - [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19)  
-- [2020-04-25-C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a)  
-- [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -774,9 +774,9 @@
 </summary>
 
 
-- [2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4) ![](assets/new.png)  
-- [2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040) ![](assets/new.png)  
-- [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) ![](assets/new.png)  
+- [2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4)  
+- [2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040)  
+- [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)  
 - [2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965)  
 - [2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850)  
 - [2020-05-09-Java-如何优雅的导出-Excel](https://www.ershicimi.com/p/dcfeb579c38d419f7be8ac867aaa62a5)  
@@ -1069,8 +1069,8 @@
 </summary>
 
 
-- [2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb) ![](assets/new.png)  
-- [2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3) ![](assets/new.png)  
+- [2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb)  
+- [2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3)  
 - [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr)  
 - [2020-05-10-如何在面试中回答-“你最大的缺点是什么？”](https://toutiao.io/k/nb7iwgr)  
 - [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q)  

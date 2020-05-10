@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-10 08:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-10 08:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -199,6 +199,7 @@
 </summary>
 
 
+- [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470) ![](assets/new.png)  
 - [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
@@ -218,7 +219,6 @@
 - [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
 - [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)  
-- [2020-04-25-【招聘】一起来做最好的-DesOps/DevOps-工具，腾讯-CDC-招前端！](https://www.ershicimi.com/p/8d7cba2d6228364d00d042e681dbbca9)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1007,10 +1007,10 @@
 </summary>
 
 
-- [2020-05-10-后续之前立的写单元测试-Canvas-渲染框架-flag，现在写完开源分享啦](https://www.v2ex.com/t/670168) ![](assets/new.png)  
-- [2020-05-10-文件-app-里的文件怎么导出到电脑](https://www.v2ex.com/t/670167) ![](assets/new.png)  
-- [2020-05-10-请教下-同一个/24-能否通过内网实现多地区使用](https://www.v2ex.com/t/670165) ![](assets/new.png)  
-- [2020-05-10-要去北京工作吗？](https://www.v2ex.com/t/670164) ![](assets/new.png)  
+- [2020-05-10-后续之前立的写单元测试-Canvas-渲染框架-flag，现在写完开源分享啦](https://www.v2ex.com/t/670168)  
+- [2020-05-10-文件-app-里的文件怎么导出到电脑](https://www.v2ex.com/t/670167)  
+- [2020-05-10-请教下-同一个/24-能否通过内网实现多地区使用](https://www.v2ex.com/t/670165)  
+- [2020-05-10-要去北京工作吗？](https://www.v2ex.com/t/670164)  
 - [2020-05-10-日常吐槽，联通](https://www.v2ex.com/t/670162)  
 - [2020-05-10-快-30-了，站在了人生的十字路口](https://www.v2ex.com/t/670161)  
 - [2020-05-10-有什么性价比高一些的付费提速方式？](https://www.v2ex.com/t/670160)  
@@ -1069,6 +1069,8 @@
 </summary>
 
 
+- [2020-05-10-Nginx-从入门到实践，万字详解](https://toutiao.io/k/htwrw8g) ![](assets/new.png)  
+- [2020-05-10-用-jsDelivr-免费加速-GitHub-Pages-的静态资源](https://toutiao.io/k/4vvzn5h) ![](assets/new.png)  
 - [2020-05-09-女程序员离职后被索赔百万](https://toutiao.io/k/x39ofgr)  
 - [2020-05-09-Flutter-Web-网站之-ScrollView-+-GridView-优化](https://toutiao.io/k/m1tw49h)  
 - [2020-05-09-当面试官问你什么是-wěi-递归，你该怎么回答？](https://toutiao.io/k/g3y0bw1)  
@@ -1087,8 +1089,6 @@
 - [2020-05-09-记一次问题排查：为什么在-POD-无法通过-Service-访问自己？](https://toutiao.io/k/x8wvp42)  
 - [2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1)  
 - [2020-05-09-踩坑记：Go-服务内存暴涨](https://toutiao.io/k/o6clf8r)  
-- [2020-05-09-MIT-6.824-分布式系统课程第六课之错误容忍：Raft（一）](https://toutiao.io/k/k3hxmqx)  
-- [2020-05-09-都在说实时数据架构，你了解多少？](https://toutiao.io/k/ujyiztl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

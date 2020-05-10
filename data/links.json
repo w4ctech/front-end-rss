@@ -1596,6 +1596,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1940期】2020前端性能优化清单之六",
+        "link": "https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470",
+        "date": "2020-05-10"
+      },
+      {
         "title": "【第1939期】2020前端性能优化清单之五",
         "link": "https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a",
         "date": "2020-05-09"
@@ -24544,6 +24549,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Nginx 从入门到实践，万字详解",
+        "link": "https://toutiao.io/k/htwrw8g",
+        "date": "2020-05-10"
+      },
+      {
+        "title": "用 jsDelivr 免费加速 GitHub Pages 的静态资源",
+        "link": "https://toutiao.io/k/4vvzn5h",
+        "date": "2020-05-10"
+      },
       {
         "title": "女程序员离职后被索赔百万",
         "link": "https://toutiao.io/k/x39ofgr",

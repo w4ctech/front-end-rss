@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -208,6 +208,7 @@
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-10-用-jsDelivr-免费加速-GitHub-Pages-的静态资源](https://toutiao.io/k/4vvzn5h) 
 - [2020-05-09-Spring-Boot-源码（十）：Spring-Boot-内置生命周期事件详解](https://toutiao.io/k/7ystn78) 
 - [2020-05-09-蚂蚁金服分布式链路组件-SOFATracer-埋点机制解析](https://toutiao.io/k/05hcdw1) 
 - [2020-05-08-D3.js-力导向图的显示优化](https://toutiao.io/k/qr9zwv3) 

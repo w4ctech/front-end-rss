@@ -6431,6 +6431,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "写了几个符合 amp 协议的网页，放在新建的 amp 文件夹目录下，发现 404，无法找到。",
+        "link": "https://www.v2ex.com/t/670387",
+        "date": "2020-05-11"
+      },
+      {
         "title": "npm 中文 API 之《三国志》全本",
         "link": "https://www.v2ex.com/t/670386",
         "date": "2020-05-11"

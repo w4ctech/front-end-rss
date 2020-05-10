@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-10-在给其他人-code-review-时需要注意什么，怎样提建设性的意见？](https://www.v2ex.com/t/670220) 
 - [2020-05-10-安卓手机-chrome-相关](https://www.v2ex.com/t/670215) 
 - [2020-05-10-MIUI12-中无法使用-getWindow.setAttributes来设置当前-activity-的-screenBrightness？Android10,-MIUI12-20.5.7](https://www.v2ex.com/t/670196) 
 - [2020-05-10-求助！怎么提取-Chrome-远程调试-webviewer-的工具](https://www.v2ex.com/t/670141) 

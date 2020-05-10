@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-10 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-10 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -33,6 +33,7 @@
 - [2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-05-10-迫于笔记本性能差，想自己组装个电脑](https://www.v2ex.com/t/670206) 
 - [2020-05-10-不同硬件的在机器学习上的性能表现](https://www.v2ex.com/t/670150) 
 - [2020-05-09-聚合页生成工具-V2.0-全新上线，为中小型网站做-SEO-优化提供一个便利工具](https://www.v2ex.com/t/670122) 
 - [2020-05-09-PHP-spl_autoload_register-会影响多少性能?](https://www.v2ex.com/t/669920) 

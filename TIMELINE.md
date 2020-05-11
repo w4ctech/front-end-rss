@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -2460,6 +2460,16 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【技术头条】2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13439&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNloXvCIUnXW92W1RazW2WA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-三年-Android-经验面经-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13438&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2UeATT7442Jgnr6NupjF-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-7-个开源的-Spring-Boot-前后端分离项目，一定要收藏！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13437&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFSk45nECXFKAw1xYp8JmOA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-Python-的-51-个秘密曝光，Github-获-20000-star-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13436&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJXMG5XY4t4P9rSOJI4F9Pg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-Python-IDE-优缺点列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13435&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPqJYlacaQRktBo1DlakEXg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-区块链跟银行有什么关系？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13434&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwSP1LdlxJ3jFNEV9o3ST8Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-非常实用的-30-个-Python-技巧，赶紧来收藏！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13433&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft92GQRlNY884JzLVJCW2AA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13432&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6lKKGxq1ucWHphIMpxZH8g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-05-11-2020，建议搞个-Mac-玩玩！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13440&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5mOS3jjZWR4e5iRfP4fvXg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -350,6 +350,9 @@
 - [【JavaScript】2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) 
 - [【JavaScript】2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) 
 - [【JavaScript】2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805) 
+- [【知乎日报】2020-05-11-papi-酱孩子随父姓被骂：今天也是「女权」被污名化的一天](https://www.ershicimi.com/p/dcb8cca517949efe737c7d8ae25ec6e3) 
+- [【知乎日报】2020-05-11-72-分钟普通人变杀人犯，人性从来经不起试探](https://www.ershicimi.com/p/cc3a6bffc65b390d9e76f2ee0542e4fe) 
+- [【知乎日报】2020-05-11-知乎故事-|-四川的猫吃辣吗？](https://www.ershicimi.com/p/f6d3627260fb4322bc8202c3966f150a) 
 - [【知乎日报】2020-05-10-今天，我想让这个「偷东西」的人刷屏](https://www.ershicimi.com/p/9ed561c96c2c1eba0afe446f42bccfb4) 
 - [【知乎日报】2020-05-10-知乎不仅变身知妈乎，还带了两个帮手送福利……](https://www.ershicimi.com/p/98251bae12a41f4569e105f3b43f049a) 
 - [【知乎日报】2020-05-10-知乎故事-|-为什么很多年轻人得尿毒症？](https://www.ershicimi.com/p/bc4bc9fdb700d2bf943244882688c547) 
@@ -384,6 +387,17 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-11-新入-官翻-2019-款-mba-16G+512G](https://www.v2ex.com/t/670736) 
+- [【V2EX】2020-05-11-tesseract-和-pytesseract-识别结果为何完全不同](https://www.v2ex.com/t/670735) 
+- [【V2EX】2020-05-11-下面的-SQL-求分析](https://www.v2ex.com/t/670734) 
+- [【V2EX】2020-05-11-前后给阿里两份简历，工作经历不一致会有问题吗？](https://www.v2ex.com/t/670733) 
+- [【V2EX】2020-05-11-求助：如何将-macos-照片里面的照片，备份到群晖-NAS-里面？](https://www.v2ex.com/t/670732) 
+- [【V2EX】2020-05-11-从昨天到刚刚手机所有谷歌应用全部提示没网](https://www.v2ex.com/t/670731) 
+- [【V2EX】2020-05-11-本科毕业已经有国内大厂的-offer-了，还值得再去读研吗？](https://www.v2ex.com/t/670729) 
+- [【V2EX】2020-05-11-Intel-漏洞新锅](https://www.v2ex.com/t/670728) 
+- [【V2EX】2020-05-11-出个-Garmin-fenix-6x-pro-澳洲版本](https://www.v2ex.com/t/670727) 
+- [【V2EX】2020-05-11-为了一个小众软件，第一次写了个“最佳实践指南”，欢迎各位大佬批评斧正](https://www.v2ex.com/t/670726) 
+- [【V2EX】2020-05-11-有没有什么开箱即用的人脸识别数据库？](https://www.v2ex.com/t/670725) 
 - [【V2EX】2020-05-11-Apple-在-WWDC-2019-里发布的-Apple-Low-Latency-HLS-目前有什么免费开源的实现么？](https://www.v2ex.com/t/670724) 
 - [【V2EX】2020-05-11-连续更新了十天的视频号，最高一个视频-3.5-万播放，收获-1200-粉丝，有什么要问的吗？](https://www.v2ex.com/t/670723) 
 - [【V2EX】2020-05-11-airpods-连接-mac-之后作为麦克风，录音音质特别差](https://www.v2ex.com/t/670721) 

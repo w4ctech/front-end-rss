@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -571,6 +571,9 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-05-11-papi-酱孩子随父姓被骂：今天也是「女权」被污名化的一天](https://www.ershicimi.com/p/dcb8cca517949efe737c7d8ae25ec6e3) 
+- [2020-05-11-72-分钟普通人变杀人犯，人性从来经不起试探](https://www.ershicimi.com/p/cc3a6bffc65b390d9e76f2ee0542e4fe) 
+- [2020-05-11-知乎故事-|-四川的猫吃辣吗？](https://www.ershicimi.com/p/f6d3627260fb4322bc8202c3966f150a) 
 - [2020-05-10-今天，我想让这个「偷东西」的人刷屏](https://www.ershicimi.com/p/9ed561c96c2c1eba0afe446f42bccfb4) 
 - [2020-05-10-知乎不仅变身知妈乎，还带了两个帮手送福利……](https://www.ershicimi.com/p/98251bae12a41f4569e105f3b43f049a) 
 - [2020-05-10-知乎故事-|-为什么很多年轻人得尿毒症？](https://www.ershicimi.com/p/bc4bc9fdb700d2bf943244882688c547) 
@@ -637,6 +640,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-11-新入-官翻-2019-款-mba-16G+512G](https://www.v2ex.com/t/670736) 
+- [2020-05-11-tesseract-和-pytesseract-识别结果为何完全不同](https://www.v2ex.com/t/670735) 
+- [2020-05-11-下面的-SQL-求分析](https://www.v2ex.com/t/670734) 
+- [2020-05-11-前后给阿里两份简历，工作经历不一致会有问题吗？](https://www.v2ex.com/t/670733) 
+- [2020-05-11-求助：如何将-macos-照片里面的照片，备份到群晖-NAS-里面？](https://www.v2ex.com/t/670732) 
+- [2020-05-11-从昨天到刚刚手机所有谷歌应用全部提示没网](https://www.v2ex.com/t/670731) 
+- [2020-05-11-本科毕业已经有国内大厂的-offer-了，还值得再去读研吗？](https://www.v2ex.com/t/670729) 
+- [2020-05-11-Intel-漏洞新锅](https://www.v2ex.com/t/670728) 
+- [2020-05-11-出个-Garmin-fenix-6x-pro-澳洲版本](https://www.v2ex.com/t/670727) 
+- [2020-05-11-为了一个小众软件，第一次写了个“最佳实践指南”，欢迎各位大佬批评斧正](https://www.v2ex.com/t/670726) 
+- [2020-05-11-有没有什么开箱即用的人脸识别数据库？](https://www.v2ex.com/t/670725) 
 - [2020-05-11-Apple-在-WWDC-2019-里发布的-Apple-Low-Latency-HLS-目前有什么免费开源的实现么？](https://www.v2ex.com/t/670724) 
 - [2020-05-11-airpods-连接-mac-之后作为麦克风，录音音质特别差](https://www.v2ex.com/t/670721) 
 - [2020-05-11-又被-Python-尾逗号创建-tuple-坑了一次](https://www.v2ex.com/t/670720) 

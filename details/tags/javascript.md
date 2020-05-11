@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -126,6 +126,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-11-解析+示例-2-种方法，通过-SpreadJS-在前端实现甘特图](https://www.v2ex.com/t/670472) 
 - [2020-05-11-关于-List<T>中-T-想改成变量的问题](https://www.v2ex.com/t/670426) 
 - [2020-05-10-Firefox-是不是不支持正则表达式的“后顾”匹配呢？](https://www.v2ex.com/t/670359) 
 - [2020-05-10-Python-asyncio-问题](https://www.v2ex.com/t/670346) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -549,9 +549,9 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)
+- [【V2EX】目前在招职位：-成都-Java-工程师-厦门前端工程师-北京全栈工程师-海外前端开发、移动端开发、产品经理-全国各地运营、商务-有看机会的可随时与我联系，微信...](https://www.v2ex.com/t/670480)
 - [【V2EX】二十分钟封装，一个-App-前后台-Http-交互的实现](https://www.v2ex.com/t/670443)
 - [【V2EX】有没有将-CGI-Proxy-转化为普通-HTTP-Proxy-的工具呢？](https://www.v2ex.com/t/670356)
-- [【V2EX】请教大家一道算法题？](https://www.v2ex.com/t/670354)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

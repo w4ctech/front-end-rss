@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 10:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 10:30:21，:rocket: 更新条数: +33， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,16 +23,16 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -43,15 +43,15 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -261,6 +261,9 @@
 </summary>
 
 
+- [2020-05-11-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c) ![](assets/new.png)  
+- [2020-05-11-前端代码规范最佳实践](https://www.ershicimi.com/p/658d2b63982559560eb1f0bf94fc7632) ![](assets/new.png)  
+- [2020-05-09-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/a4effe602e7299d9e27409e61e3ed2d4) ![](assets/new.png)  
 - [2020-05-08-Web前端开发必不可少的9个开源框架](https://www.ershicimi.com/p/3003ec186b9f71ecd7b4b74d16a82755)  
 - [2020-05-07-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/d80c38d3a28af885da4e8a63c72f74b0)  
 - [2020-05-07-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0)  
@@ -278,9 +281,6 @@
 - [2020-04-23-Vue-3.0-Beta，重写虚拟DOM，速度显著提升](https://www.ershicimi.com/p/77ac75d6a211b12af78400bd476d13a3)  
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/a42be69386c4cbc02f5bc2820611d1e2)  
 - [2020-04-22-前端精神小伙：React-Hooks-响应式布局](https://www.ershicimi.com/p/a3c3f8cd73b08322d840b917c65eb397)  
-- [2020-04-21-前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)  
-- [2020-04-20-7-天内我面试了-10-家公司，发现-TypeScript-为什么这么吃香](https://www.ershicimi.com/p/9e8a4ad92ab0676e564c6379837d7938)  
-- [2020-04-20-三分钟迁移-Ant-Design-4](https://www.ershicimi.com/p/97b9fbb5ab1614cdacf57039e8d2aabd)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -448,6 +448,7 @@
 </summary>
 
 
+- [2020-05-10-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/21b2e33e9f8f0994c11be9212f35656f) ![](assets/new.png)  
 - [2020-05-09-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/6aec1e15654f63775fa2abc3f8071910)  
 - [2020-05-08-分享一些斩获大厂-offer-的技巧](https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86)  
 - [2020-05-08-昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67)  
@@ -467,7 +468,6 @@
 - [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb)  
 - [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245)  
 - [2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4)  
-- [2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -500,9 +500,9 @@
 </summary>
 
 
-- [2020-05-11-前端工程化---剖析npm的包管理机制（完整版）](https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d) ![](assets/new.png)  
-- [2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed) ![](assets/new.png)  
-- [2020-05-09-前端需要了解的9种设计模式](https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312) ![](assets/new.png)  
+- [2020-05-11-前端工程化---剖析npm的包管理机制（完整版）](https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d)  
+- [2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed)  
+- [2020-05-09-前端需要了解的9种设计模式](https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312)  
 - [2020-05-08-速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf)  
 - [2020-05-07-node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/4e37984168059d18864bdb3db3c454b4)  
@@ -778,9 +778,9 @@
 </summary>
 
 
-- [2020-05-11-大事件！35的程序员竟然失去了面试资格，这是为什么？](https://www.ershicimi.com/p/719593f0243b1798992688dde072f570) ![](assets/new.png)  
-- [2020-05-11-总结：被MySQL-UTF8编码坑的惨痛教训...](https://www.ershicimi.com/p/c49162e019356462d995b319470abad8) ![](assets/new.png)  
-- [2020-05-11-Aloha：一个略屌的分布式任务调度框架](https://www.ershicimi.com/p/6d004e44e5159e4dce94e988c710ca6e) ![](assets/new.png)  
+- [2020-05-11-大事件！35的程序员竟然失去了面试资格，这是为什么？](https://www.ershicimi.com/p/719593f0243b1798992688dde072f570)  
+- [2020-05-11-总结：被MySQL-UTF8编码坑的惨痛教训...](https://www.ershicimi.com/p/c49162e019356462d995b319470abad8)  
+- [2020-05-11-Aloha：一个略屌的分布式任务调度框架](https://www.ershicimi.com/p/6d004e44e5159e4dce94e988c710ca6e)  
 - [2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4)  
 - [2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040)  
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)  
@@ -840,6 +840,8 @@
 </summary>
 
 
+- [2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/c5c65e9de32e3164af856903896e6647) ![](assets/new.png)  
+- [2020-05-09-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/d30ab4f3bf7a82281916bddcb42b51b4) ![](assets/new.png)  
 - [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300)  
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8)  
 - [2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805)  
@@ -1011,26 +1013,26 @@
 </summary>
 
 
-- [2020-05-11-疫情下不能返校的学生党何去何从？](https://www.v2ex.com/t/670412)  
-- [2020-05-11-开源基于-Django-的-BBS-小型社区，于之前写的放在仓库生灰。](https://www.v2ex.com/t/670410)  
-- [2020-05-11-我所理解的程序员内卷化。。](https://www.v2ex.com/t/670409)  
-- [2020-05-11-联想的-r7000-怎么预约呢？一直提示没货](https://www.v2ex.com/t/670407)  
-- [2020-05-11-有没有值得推荐的-Windows-平板？](https://www.v2ex.com/t/670405)  
-- [2020-05-11-做了个匿名社区如何引流呢？匿名社区是不是不好做啊！-2ch4chan](https://www.v2ex.com/t/670404)  
-- [2020-05-11-reactjs,-typescript-中定义-action-type-时，经常看到一种使用方法，-type-&-const-用同一个名字，不知其深意？](https://www.v2ex.com/t/670403)  
-- [2020-05-11-smart-doc-文档工具发布-gradle-插件了](https://www.v2ex.com/t/670402)  
-- [2020-05-11-看了这个帖子-/t/670299-我也去翻了一下我的屏幕线，懂的大佬帮忙看看是什么线怎么用](https://www.v2ex.com/t/670400)  
-- [2020-05-11-小米手机开机一直停留在这界面进不去怎么办？](https://www.v2ex.com/t/670399)  
-- [2020-05-11-上层拼血缘，中层拼关系，底层拼老命，你在哪层](https://www.v2ex.com/t/670398)  
-- [2020-05-11-都-2020-年了，还有这种很蠢的设计吗](https://www.v2ex.com/t/670396)  
-- [2020-05-11-2020-款-macbookpro-低配-2type-c-支持外接-2-个显示器吗？](https://www.v2ex.com/t/670395)  
-- [2020-05-11-谷歌云关机不收费-这东西做游戏加速是不是太好了](https://www.v2ex.com/t/670394)  
-- [2020-05-11-最近公众号载入方式变了？体验急剧下降！](https://www.v2ex.com/t/670392)  
-- [2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391)  
-- [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390)  
-- [2020-05-11-大神求助：-wordpress-sql-数据导入一直出问题](https://www.v2ex.com/t/670389)  
-- [2020-05-11-组个微信群：-echo-"上海程序员内推找工作-wechat-群";](https://www.v2ex.com/t/670388)  
-- [2020-05-11-写了几个符合-amp-协议的网页，放在新建的-amp-文件夹目录下，发现-404，无法找到。](https://www.v2ex.com/t/670387)  
+- [2020-05-11-二十分钟封装，一个-App-前后台-Http-交互的实现](https://www.v2ex.com/t/670443) ![](assets/new.png)  
+- [2020-05-11-佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/670442) ![](assets/new.png)  
+- [2020-05-11-历史上有没有因为上游项目闭源导致下游项目受限的案例呢？大佬来讲讲呗～](https://www.v2ex.com/t/670441) ![](assets/new.png)  
+- [2020-05-11-怎么深入高级-mysql](https://www.v2ex.com/t/670440) ![](assets/new.png)  
+- [2020-05-11-Windows-To-Go-的蓝牙问题，连不上-AirPods！](https://www.v2ex.com/t/670439) ![](assets/new.png)  
+- [2020-05-11-字节跳动成都研发中心一波新岗位来袭，欢迎上车](https://www.v2ex.com/t/670437) ![](assets/new.png)  
+- [2020-05-11-坐标杭州-内推-Python-后端开发-14k-20k](https://www.v2ex.com/t/670436) ![](assets/new.png)  
+- [2020-05-11-端御科技招安全开发工程师~~~钱多速来~~~](https://www.v2ex.com/t/670435) ![](assets/new.png)  
+- [2020-05-11-brew-安装权限问题求救。](https://www.v2ex.com/t/670433) ![](assets/new.png)  
+- [2020-05-11-厦门美图招聘-C++和-Go-开发工程师（全职/实习）](https://www.v2ex.com/t/670432) ![](assets/new.png)  
+- [2020-05-11-针对之前-V-友的想法-'生成一个二维码-然后备注-送他一瓶水'](https://www.v2ex.com/t/670431) ![](assets/new.png)  
+- [2020-05-11-招聘字节跳动深圳要写怎样的文案才能让你投简历呢？！](https://www.v2ex.com/t/670430) ![](assets/new.png)  
+- [2020-05-11-吃瓜途中的问题，私人-kms-激活服务器的原理？](https://www.v2ex.com/t/670429) ![](assets/new.png)  
+- [2020-05-11-ofo-押金未退但显示已免押，钱包的余额也不见了，有老哥解决过这种问题吗](https://www.v2ex.com/t/670428) ![](assets/new.png)  
+- [2020-05-11-关于-List<T>中-T-想改成变量的问题](https://www.v2ex.com/t/670426) ![](assets/new.png)  
+- [2020-05-11-京东自营售假](https://www.v2ex.com/t/670425) ![](assets/new.png)  
+- [2020-05-11-你被生活困住了么？](https://www.v2ex.com/t/670424) ![](assets/new.png)  
+- [2020-05-11-webiron.net-这个网站是记录邮件-ip-相关的黑名单，但是具体细节不清楚，有了解的吗](https://www.v2ex.com/t/670421) ![](assets/new.png)  
+- [2020-05-11-国内有没有类似-CKAN-那样的开源数据管理系统？](https://www.v2ex.com/t/670420) ![](assets/new.png)  
+- [2020-05-11-字节跳动-Data-广告系统内推](https://www.v2ex.com/t/670419) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,11 +1075,15 @@
 </summary>
 
 
-- [2020-05-11-聊聊大数据产品经理](https://toutiao.io/k/ra96xgy) ![](assets/new.png)  
-- [2020-05-11-伪官宣：Envoy-中文指南新鲜出炉](https://toutiao.io/k/xuaz8pr) ![](assets/new.png)  
-- [2020-05-11-Redis-6.0-稳定版发布，支持多线程-IO](https://toutiao.io/k/jdk5y42) ![](assets/new.png)  
-- [2020-05-11-Golang-切片内存应用技巧](https://toutiao.io/k/tha6p4e) ![](assets/new.png)  
-- [2020-05-11-纳尼，Spring-Cloud-Feign-数据竟然丢失了](https://toutiao.io/k/uk1i8vh) ![](assets/new.png)  
+- [2020-05-11-iOS-WebView-对-H5-视频播放的控制](https://toutiao.io/k/hh85tqw) ![](assets/new.png)  
+- [2020-05-11-Java-线程池实践出真知](https://toutiao.io/k/4zqcwnr) ![](assets/new.png)  
+- [2020-05-11-译-etcd-与-Zookeeper、Consul-等其它-k-v-组件的对比](https://toutiao.io/k/nuzadx3) ![](assets/new.png)  
+- [2020-05-11-Go-sword-基于-Go-语言的可视化-Web-管理后台生成工具](https://toutiao.io/k/cjntd2o) ![](assets/new.png)  
+- [2020-05-11-聊聊大数据产品经理](https://toutiao.io/k/ra96xgy)  
+- [2020-05-11-伪官宣：Envoy-中文指南新鲜出炉](https://toutiao.io/k/xuaz8pr)  
+- [2020-05-11-Redis-6.0-稳定版发布，支持多线程-IO](https://toutiao.io/k/jdk5y42)  
+- [2020-05-11-Golang-切片内存应用技巧](https://toutiao.io/k/tha6p4e)  
+- [2020-05-11-纳尼，Spring-Cloud-Feign-数据竟然丢失了](https://toutiao.io/k/uk1i8vh)  
 - [2020-05-11-译-id-software-的编程原则](https://toutiao.io/k/a463te8)  
 - [2020-05-11-制作-Python-版-Jar-包](https://toutiao.io/k/w5u7r0e)  
 - [2020-05-11-如何轻松学习-Kubernetes？](https://toutiao.io/k/vj1yz83)  
@@ -1089,10 +1095,6 @@
 - [2020-05-11-Python-fileinput-模块：命令行工具利器](https://toutiao.io/k/ctadk01)  
 - [2020-05-11-前端项目开发规范意见](https://toutiao.io/k/36yjji7)  
 - [2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb)  
-- [2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3)  
-- [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr)  
-- [2020-05-10-如何在面试中回答-“你最大的缺点是什么？”](https://toutiao.io/k/nb7iwgr)  
-- [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

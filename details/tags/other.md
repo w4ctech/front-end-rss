@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -261,6 +261,9 @@
 - [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) 
 - [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) 
 - [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) 
+- [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d) 
+- [2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425) 
+- [2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684) 
 - [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8) 
 - [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
@@ -613,6 +616,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-11-都-2020-年了，还有这种很蠢的设计吗](https://www.v2ex.com/t/670396) 
+- [2020-05-11-2020-款-macbookpro-低配-2type-c-支持外接-2-个显示器吗？](https://www.v2ex.com/t/670395) 
 - [2020-05-11-最近公众号载入方式变了？体验急剧下降！](https://www.v2ex.com/t/670392) 
 - [2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391) 
 - [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390) 

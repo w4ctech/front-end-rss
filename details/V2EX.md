@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-05-11 07:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-11-都-2020-年了，还有这种很蠢的设计吗](https://www.v2ex.com/t/670396) 
+- [2020-05-11-2020-款-macbookpro-低配-2type-c-支持外接-2-个显示器吗？](https://www.v2ex.com/t/670395) 
+- [2020-05-11-谷歌云关机不收费-这东西做游戏加速是不是太好了](https://www.v2ex.com/t/670394) 
 - [2020-05-11-最近公众号载入方式变了？体验急剧下降！](https://www.v2ex.com/t/670392) 
 - [2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391) 
 - [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390) 

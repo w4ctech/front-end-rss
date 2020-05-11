@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -177,6 +177,10 @@
 - [【前端大学】2020-05-06-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/d1b8fed7619b95a02538154895ed9c0a) 
 - [【前端大学】2020-05-05-微信又添新功能！这个微信群可以学英语，而且全程免费](https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f) 
 - [【前端大学】2020-05-05-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/d5ef9e5ca4ca10d8c13abaa901598ab6) 
+- [【前端之巅】2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d) 
+- [【前端之巅】2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425) 
+- [【前端之巅】2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684) 
+- [【前端之巅】2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3) 
 - [【前端之巅】2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c) 
 - [【前端之巅】2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d) 
 - [【前端之巅】2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad) 
@@ -341,6 +345,9 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-11-都-2020-年了，还有这种很蠢的设计吗](https://www.v2ex.com/t/670396) 
+- [【V2EX】2020-05-11-2020-款-macbookpro-低配-2type-c-支持外接-2-个显示器吗？](https://www.v2ex.com/t/670395) 
+- [【V2EX】2020-05-11-谷歌云关机不收费-这东西做游戏加速是不是太好了](https://www.v2ex.com/t/670394) 
 - [【V2EX】2020-05-11-最近公众号载入方式变了？体验急剧下降！](https://www.v2ex.com/t/670392) 
 - [【V2EX】2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391) 
 - [【V2EX】2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390) 

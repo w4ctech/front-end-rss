@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -569,6 +569,7 @@
 
 
 - [【前端开发】前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/ea679a267e08192aaa41298b6379cb0a)
+- [【前端之巅】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3)
 - [【政采云前端团队】五分钟看懂-Nginx-负载均衡](https://www.ershicimi.com/p/da2571b220d4f1556032767752107794)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
@@ -587,7 +588,6 @@
 - [【V2EX】nginx-配置求助](https://www.v2ex.com/t/666918)
 - [【V2EX】请教个-nginx-端口转发的问题](https://www.v2ex.com/t/666912)
 - [【V2EX】Nginx-是否可以忽略部分错误日志？](https://www.v2ex.com/t/666385)
-- [【V2EX】ubuntu-怎么安装-docker-常规安装好像不行](https://www.v2ex.com/t/666338)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

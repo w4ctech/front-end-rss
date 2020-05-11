@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -382,6 +382,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-11-Python-如何批量合成价格水印图片?](https://www.v2ex.com/t/670692) 
+- [【V2EX】2020-05-11-有点纠结，求-offer-比较](https://www.v2ex.com/t/670691) 
+- [【V2EX】2020-05-11-招聘兼职运维（远程工作）](https://www.v2ex.com/t/670689) 
+- [【V2EX】2020-05-11-极简的-Golang-构建打包工具-bali-1.0-发布](https://www.v2ex.com/t/670688) 
+- [【V2EX】2020-05-11-uwsgi-到底是个啥东西](https://www.v2ex.com/t/670687) 
 - [【V2EX】2020-05-11-群晖-硬盘未初始化-该怎么恢复数据啊](https://www.v2ex.com/t/670686) 
 - [【V2EX】2020-05-11-关于-Bilibili](https://www.v2ex.com/t/670685) 
 - [【V2EX】2020-05-11-云函数-SCF-中如何使用-Layer-实现轻松部署？](https://www.v2ex.com/t/670684) 

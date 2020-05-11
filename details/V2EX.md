@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-11 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-11-Python-如何批量合成价格水印图片?](https://www.v2ex.com/t/670692) 
+- [2020-05-11-有点纠结，求-offer-比较](https://www.v2ex.com/t/670691) 
+- [2020-05-11-招聘兼职运维（远程工作）](https://www.v2ex.com/t/670689) 
+- [2020-05-11-极简的-Golang-构建打包工具-bali-1.0-发布](https://www.v2ex.com/t/670688) 
+- [2020-05-11-uwsgi-到底是个啥东西](https://www.v2ex.com/t/670687) 
 - [2020-05-11-群晖-硬盘未初始化-该怎么恢复数据啊](https://www.v2ex.com/t/670686) 
 - [2020-05-11-关于-Bilibili](https://www.v2ex.com/t/670685) 
 - [2020-05-11-云函数-SCF-中如何使用-Layer-实现轻松部署？](https://www.v2ex.com/t/670684) 

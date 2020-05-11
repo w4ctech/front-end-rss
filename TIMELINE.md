@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -384,6 +384,13 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-11-Apple-在-WWDC-2019-里发布的-Apple-Low-Latency-HLS-目前有什么免费开源的实现么？](https://www.v2ex.com/t/670724) 
+- [【V2EX】2020-05-11-连续更新了十天的视频号，最高一个视频-3.5-万播放，收获-1200-粉丝，有什么要问的吗？](https://www.v2ex.com/t/670723) 
+- [【V2EX】2020-05-11-airpods-连接-mac-之后作为麦克风，录音音质特别差](https://www.v2ex.com/t/670721) 
+- [【V2EX】2020-05-11-又被-Python-尾逗号创建-tuple-坑了一次](https://www.v2ex.com/t/670720) 
+- [【V2EX】2020-05-11-最近淘了个-xbox-ones-手柄，求推荐游戏](https://www.v2ex.com/t/670719) 
+- [【V2EX】2020-05-11-嵌入式行业的问题，有没有做嵌入式工作的或者了解嵌入式行业的同志呀。](https://www.v2ex.com/t/670718) 
+- [【V2EX】2020-05-11-白银福音-一键应用-op.gg/lol.qq.com-推荐装备符文：-ChampR](https://www.v2ex.com/t/670716) 
 - [【V2EX】2020-05-11-iMac-估个价格～～～](https://www.v2ex.com/t/670714) 
 - [【V2EX】2020-05-11-距离上次发帖说没面试已过去将近一个月确切说-21-天](https://www.v2ex.com/t/670710) 
 - [【V2EX】2020-05-11-循环一个数组的时候我能在模板里面进行换行吗？](https://www.v2ex.com/t/670709) 
@@ -2617,6 +2624,7 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【技术头条】2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-11-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13439&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNloXvCIUnXW92W1RazW2WA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 22:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 22:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1016,26 +1016,26 @@
 </summary>
 
 
-- [2020-05-11-iMac-估个价格～～～](https://www.v2ex.com/t/670714) ![](assets/new.png)  
-- [2020-05-11-距离上次发帖说没面试已过去将近一个月确切说-21-天](https://www.v2ex.com/t/670710) ![](assets/new.png)  
-- [2020-05-11-循环一个数组的时候我能在模板里面进行换行吗？](https://www.v2ex.com/t/670709) ![](assets/new.png)  
-- [2020-05-11-大家知道有什么软件可以显示-WiFi-网络连接状态吗？](https://www.v2ex.com/t/670707) ![](assets/new.png)  
-- [2020-05-11-长文预警-前端开发的瓶颈与未来之路](https://www.v2ex.com/t/670706) ![](assets/new.png)  
-- [2020-05-11-CCC-支持在-RecoveryHD-环境里运行吗，会缺少什么依赖吗？](https://www.v2ex.com/t/670705) ![](assets/new.png)  
-- [2020-05-11-买个二手的-Switch-怎么样](https://www.v2ex.com/t/670704) ![](assets/new.png)  
-- [2020-05-11-关于是否跳槽，过来人给点建议吧](https://www.v2ex.com/t/670702) ![](assets/new.png)  
+- [2020-05-11-Apple-在-WWDC-2019-里发布的-Apple-Low-Latency-HLS-目前有什么免费开源的实现么？](https://www.v2ex.com/t/670724) ![](assets/new.png)  
+- [2020-05-11-连续更新了十天的视频号，最高一个视频-3.5-万播放，收获-1200-粉丝，有什么要问的吗？](https://www.v2ex.com/t/670723) ![](assets/new.png)  
+- [2020-05-11-airpods-连接-mac-之后作为麦克风，录音音质特别差](https://www.v2ex.com/t/670721) ![](assets/new.png)  
+- [2020-05-11-又被-Python-尾逗号创建-tuple-坑了一次](https://www.v2ex.com/t/670720) ![](assets/new.png)  
+- [2020-05-11-最近淘了个-xbox-ones-手柄，求推荐游戏](https://www.v2ex.com/t/670719) ![](assets/new.png)  
+- [2020-05-11-嵌入式行业的问题，有没有做嵌入式工作的或者了解嵌入式行业的同志呀。](https://www.v2ex.com/t/670718) ![](assets/new.png)  
+- [2020-05-11-白银福音-一键应用-op.gg/lol.qq.com-推荐装备符文：-ChampR](https://www.v2ex.com/t/670716) ![](assets/new.png)  
+- [2020-05-11-iMac-估个价格～～～](https://www.v2ex.com/t/670714)  
+- [2020-05-11-距离上次发帖说没面试已过去将近一个月确切说-21-天](https://www.v2ex.com/t/670710)  
+- [2020-05-11-循环一个数组的时候我能在模板里面进行换行吗？](https://www.v2ex.com/t/670709)  
+- [2020-05-11-大家知道有什么软件可以显示-WiFi-网络连接状态吗？](https://www.v2ex.com/t/670707)  
+- [2020-05-11-长文预警-前端开发的瓶颈与未来之路](https://www.v2ex.com/t/670706)  
+- [2020-05-11-CCC-支持在-RecoveryHD-环境里运行吗，会缺少什么依赖吗？](https://www.v2ex.com/t/670705)  
+- [2020-05-11-买个二手的-Switch-怎么样](https://www.v2ex.com/t/670704)  
+- [2020-05-11-关于是否跳槽，过来人给点建议吧](https://www.v2ex.com/t/670702)  
 - [2020-05-11-Intel-AX201-能换其他-PCI-e-协议的网卡吗？](https://www.v2ex.com/t/670701)  
 - [2020-05-11-最近收了不少-PHP-简历](https://www.v2ex.com/t/670700)  
 - [2020-05-11-被裁，轮到自己了，求助](https://www.v2ex.com/t/670699)  
 - [2020-05-11-电脑内部短路有维修价值吗？](https://www.v2ex.com/t/670698)  
 - [2020-05-11-财新通-VIP-财新数据通-Lite-pro-7-折扣优惠](https://www.v2ex.com/t/670696)  
-- [2020-05-11-前端娱乐圈-现在有必要学-vue2.0-么？](https://www.v2ex.com/t/670695)  
-- [2020-05-11-求助，关于公司不能访问外网的问题](https://www.v2ex.com/t/670694)  
-- [2020-05-11-路由器推荐个牌子啊-兄弟萌～](https://www.v2ex.com/t/670693)  
-- [2020-05-11-Python-如何批量合成价格水印图片?](https://www.v2ex.com/t/670692)  
-- [2020-05-11-有点纠结，求-offer-比较](https://www.v2ex.com/t/670691)  
-- [2020-05-11-招聘兼职运维（远程工作）](https://www.v2ex.com/t/670689)  
-- [2020-05-11-极简的-Golang-构建打包工具-bali-1.0-发布](https://www.v2ex.com/t/670688)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1047,7 @@
 </summary>
 
 
+- [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13439&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNloXvCIUnXW92W1RazW2WA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1066,7 +1067,6 @@
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-Android-Jetpack-最佳开发姿势-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13424&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Yo_oo89mcbU26EJXMjLoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-28-面试了一个-46-岁程序员，总结了很多-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13423&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfH3KrrBKktoKByASbXp6QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

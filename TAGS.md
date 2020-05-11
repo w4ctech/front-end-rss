@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -440,10 +440,10 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】一个直播服务器需要什么配置](https://www.v2ex.com/t/670467)
 - [【V2EX】佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/670442)
 - [【V2EX】在用-HDR-显示器的同学可以试试这个视频](https://www.v2ex.com/t/670383)
 - [【V2EX】如何检索-A-视频中的片段在-B-视频中出现的时间点？](https://www.v2ex.com/t/670380)
-- [【V2EX】求一个安卓视频播放器](https://www.v2ex.com/t/670371)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

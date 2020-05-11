@@ -6561,6 +6561,116 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "华为云新优惠活动，云耀云机型 2 核 8g1m/年折后 932,4 核 16g1m/3 年折后 1592，",
+        "link": "https://www.v2ex.com/t/670469",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "一个直播服务器需要什么配置",
+        "link": "https://www.v2ex.com/t/670467",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "5 月 11 号了，我的 x 终于认出我来了",
+        "link": "https://www.v2ex.com/t/670466",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "我真是太傻太天真了…",
+        "link": "https://www.v2ex.com/t/670465",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "请教一下服务器（虚拟机）版本信息管理的问题",
+        "link": "https://www.v2ex.com/t/670464",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "疫情下，海归的各种无奈，你有遇到吗？",
+        "link": "https://www.v2ex.com/t/670463",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "源站在美西，用百度云加速节点 ip 速度如何？",
+        "link": "https://www.v2ex.com/t/670461",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "使用 Golang 来控制你的 iOS 设备~",
+        "link": "https://www.v2ex.com/t/670460",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "微信小程序使用 GoEasy 实现 websocket 实时通讯",
+        "link": "https://www.v2ex.com/t/670459",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "危机过后，「表格文档协同」需要具备什么能力？",
+        "link": "https://www.v2ex.com/t/670458",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "2020 macbook air i5 还是新款 macbook pro 13",
+        "link": "https://www.v2ex.com/t/670457",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "快递柜是必然趋势，因为它是丢快递的最佳解决方案",
+        "link": "https://www.v2ex.com/t/670456",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "最近大家工作找的怎么样？",
+        "link": "https://www.v2ex.com/t/670455",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "为什么 PHP 脚本运行的内存限制最小是 2M 呢？ memory_limit 参数已经设置为 1M",
+        "link": "https://www.v2ex.com/t/670454",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "为什么不能用美国手机号验证？",
+        "link": "https://www.v2ex.com/t/670453",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "这个 Drobo 的外形的确很 OK",
+        "link": "https://www.v2ex.com/t/670452",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "求教乐高 土星 5 号 (21309)的购买时机",
+        "link": "https://www.v2ex.com/t/670451",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "[sql 优化] 麻烦大佬看下这段 sql 怎么优化能快点",
+        "link": "https://www.v2ex.com/t/670449",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "现在买 11pro max，是不是 49 入国军。",
+        "link": "https://www.v2ex.com/t/670447",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "分居离婚中，如何老婆分走还贷的部分？",
+        "link": "https://www.v2ex.com/t/670446",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "请问 Apple 官方商店上的 Satechi Aluminum USB-C Multiport Pro，能否用于 iPad Pro 2020？",
+        "link": "https://www.v2ex.com/t/670445",
+        "date": "2020-05-11"
+      },
+      {
+        "title": ".net 非托管内存问题",
+        "link": "https://www.v2ex.com/t/670444",
+        "date": "2020-05-11"
+      },
+      {
         "title": "二十分钟封装，一个 App 前后台 Http 交互的实现",
         "link": "https://www.v2ex.com/t/670443",
         "date": "2020-05-11"
@@ -25844,6 +25954,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "我是如何被逼到向我软件的破解者道歉的？",
+        "link": "https://toutiao.io/k/km1ahiz",
+        "date": "2020-05-11"
+      },
       {
         "title": "iOS WebView 对 H5 视频播放的控制",
         "link": "https://toutiao.io/k/hh85tqw",

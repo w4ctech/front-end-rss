@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 09:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -305,6 +305,8 @@
 - [2020-03-08-关于-vertical-align-你应该知道的一切](https://www.ershicimi.com/p/84253c80d211b42d653806a6ff8250b9) 
 - [2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed) 
+- [2020-05-09-前端需要了解的9种设计模式](https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312) 
 - [2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) 
 - [2020-04-29-浅谈前端工程化趋势](https://www.ershicimi.com/p/45a953fcc19885a50a34ed32748d3b59) 
 - [2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f) 
@@ -408,6 +410,8 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-05-11-总结：被MySQL-UTF8编码坑的惨痛教训...](https://www.ershicimi.com/p/c49162e019356462d995b319470abad8) 
+- [2020-05-11-Aloha：一个略屌的分布式任务调度框架](https://www.ershicimi.com/p/6d004e44e5159e4dce94e988c710ca6e) 
 - [2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4) 
 - [2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965) 
 - [2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850) 
@@ -3667,6 +3671,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-11-聊聊大数据产品经理](https://toutiao.io/k/ra96xgy) 
+- [2020-05-11-伪官宣：Envoy-中文指南新鲜出炉](https://toutiao.io/k/xuaz8pr) 
+- [2020-05-11-Redis-6.0-稳定版发布，支持多线程-IO](https://toutiao.io/k/jdk5y42) 
+- [2020-05-11-Golang-切片内存应用技巧](https://toutiao.io/k/tha6p4e) 
+- [2020-05-11-纳尼，Spring-Cloud-Feign-数据竟然丢失了](https://toutiao.io/k/uk1i8vh) 
 - [2020-05-11-译-id-software-的编程原则](https://toutiao.io/k/a463te8) 
 - [2020-05-11-制作-Python-版-Jar-包](https://toutiao.io/k/w5u7r0e) 
 - [2020-05-11-如何轻松学习-Kubernetes？](https://toutiao.io/k/vj1yz83) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 09:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -217,6 +217,9 @@
 - [【全栈前端精选】2020-05-03-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df) 
 - [【全栈前端精选】2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1) 
 - [【全栈前端精选】2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
+- [【前端宇宙】2020-05-11-前端工程化---剖析npm的包管理机制（完整版）](https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d) 
+- [【前端宇宙】2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed) 
+- [【前端宇宙】2020-05-09-前端需要了解的9种设计模式](https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312) 
 - [【前端宇宙】2020-05-08-速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf) 
 - [【前端宇宙】2020-05-07-node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b) 
 - [【前端宇宙】2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/4e37984168059d18864bdb3db3c454b4) 
@@ -255,6 +258,9 @@
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-11-大事件！35的程序员竟然失去了面试资格，这是为什么？](https://www.ershicimi.com/p/719593f0243b1798992688dde072f570) 
+- [【互联网架构师】2020-05-11-总结：被MySQL-UTF8编码坑的惨痛教训...](https://www.ershicimi.com/p/c49162e019356462d995b319470abad8) 
+- [【互联网架构师】2020-05-11-Aloha：一个略屌的分布式任务调度框架](https://www.ershicimi.com/p/6d004e44e5159e4dce94e988c710ca6e) 
 - [【互联网架构师】2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4) 
 - [【互联网架构师】2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040) 
 - [【互联网架构师】2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
@@ -2343,6 +2349,11 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-11-聊聊大数据产品经理](https://toutiao.io/k/ra96xgy) 
+- [【开发者头条】2020-05-11-伪官宣：Envoy-中文指南新鲜出炉](https://toutiao.io/k/xuaz8pr) 
+- [【开发者头条】2020-05-11-Redis-6.0-稳定版发布，支持多线程-IO](https://toutiao.io/k/jdk5y42) 
+- [【开发者头条】2020-05-11-Golang-切片内存应用技巧](https://toutiao.io/k/tha6p4e) 
+- [【开发者头条】2020-05-11-纳尼，Spring-Cloud-Feign-数据竟然丢失了](https://toutiao.io/k/uk1i8vh) 
 - [【开发者头条】2020-05-11-译-id-software-的编程原则](https://toutiao.io/k/a463te8) 
 - [【开发者头条】2020-05-11-制作-Python-版-Jar-包](https://toutiao.io/k/w5u7r0e) 
 - [【开发者头条】2020-05-11-如何轻松学习-Kubernetes？](https://toutiao.io/k/vj1yz83) 

@@ -2948,6 +2948,21 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "前端工程化 - 剖析npm的包管理机制（完整版）",
+        "link": "https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "20 分钟前，我淘汰了一个前端高级工程师",
+        "link": "https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "前端需要了解的9种设计模式",
+        "link": "https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312",
+        "date": "2020-05-09"
+      },
+      {
         "title": "速来围观 GitHub 重磅推出的四大新功能",
         "link": "https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf",
         "date": "2020-05-08"
@@ -4759,6 +4774,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "大事件！35的程序员竟然失去了面试资格，这是为什么？",
+        "link": "https://www.ershicimi.com/p/719593f0243b1798992688dde072f570",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "总结：被MySQL UTF8编码坑的惨痛教训...",
+        "link": "https://www.ershicimi.com/p/c49162e019356462d995b319470abad8",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Aloha：一个略屌的分布式任务调度框架",
+        "link": "https://www.ershicimi.com/p/6d004e44e5159e4dce94e988c710ca6e",
+        "date": "2020-05-11"
+      },
       {
         "title": "1.5W 字搞懂 Spring Cloud，太牛了！",
         "link": "https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4",
@@ -25659,6 +25689,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "聊聊大数据产品经理",
+        "link": "https://toutiao.io/k/ra96xgy",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "伪官宣：Envoy 中文指南新鲜出炉",
+        "link": "https://toutiao.io/k/xuaz8pr",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Redis 6.0 稳定版发布，支持多线程 IO",
+        "link": "https://toutiao.io/k/jdk5y42",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Golang 切片内存应用技巧",
+        "link": "https://toutiao.io/k/tha6p4e",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "纳尼，Spring Cloud Feign 数据竟然丢失了",
+        "link": "https://toutiao.io/k/uk1i8vh",
+        "date": "2020-05-11"
+      },
       {
         "title": "[译] id software 的编程原则",
         "link": "https://toutiao.io/k/a463te8",

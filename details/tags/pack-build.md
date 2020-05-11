@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -22,6 +22,7 @@
 - [2020-04-21-Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b) 
 - [2020-04-20-用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/c9b0a43ba156bec22c228b099cc1a582) 
 - [2020-03-22-webpack-dev-middleware-源码解读](https://www.ershicimi.com/p/13cb32b699f788a322cf96a4ed75c45c) 
+- [2020-05-11-前端工程化---剖析npm的包管理机制（完整版）](https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d) 
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ac72b38cd88c18aa6969d48d13d974fa) 
 - [2020-04-21-一起来看看-Babel-做了什么](https://www.ershicimi.com/p/8f073bef93e47208d60074750788276b) 
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/57db5df072ebf9eee4ef8679704a4773) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 21:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -605,6 +605,7 @@
 
 
 - [【Vue中文社区】GitHub-上值得收藏的100个精选前端项目！](https://www.ershicimi.com/p/4b4b4be1493ff07f99caee616748d59c)
+- [【前端大全】你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)
 - [【前端迷】前端面试开源项目清单（github仓库，个人网站都有）](https://www.ershicimi.com/p/83b9366b275bf5c08cc800dfc0eb63f7)
 - [【前端迷】GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808)
 - [【全栈前端精选】昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67)
@@ -623,7 +624,6 @@
 - [【掘金前端】如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】Gitlab-CI-是否支持-MR-的测试覆盖率达到某个百分比才可以合并？](https://www.v2ex.com/t/670636)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

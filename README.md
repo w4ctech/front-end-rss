@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 21:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 21:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -231,6 +231,8 @@
 </summary>
 
 
+- [2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) ![](assets/new.png)  
+- [2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961) ![](assets/new.png)  
 - [2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8)  
 - [2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28)  
 - [2020-05-09-面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/4b34e36d6541d19eaebfa855c690a294)  
@@ -249,8 +251,6 @@
 - [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)  
 - [2020-04-27-前端部署的发展历程](https://www.ershicimi.com/p/c50752fdac5c103e54ff5310585b99af)  
 - [2020-04-26-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/a1a0da78d798b6f5c02f78d2e76d1a27)  
-- [2020-04-26-面向对象：眼里是你，心里是你，余生请指教](https://www.ershicimi.com/p/43b944a886a82b7e7f374e4027b95813)  
-- [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1016,14 +1016,14 @@
 </summary>
 
 
-- [2020-05-11-Intel-AX201-能换其他-PCI-e-协议的网卡吗？](https://www.v2ex.com/t/670701) ![](assets/new.png)  
-- [2020-05-11-最近收了不少-PHP-简历](https://www.v2ex.com/t/670700) ![](assets/new.png)  
-- [2020-05-11-被裁，轮到自己了，求助](https://www.v2ex.com/t/670699) ![](assets/new.png)  
-- [2020-05-11-电脑内部短路有维修价值吗？](https://www.v2ex.com/t/670698) ![](assets/new.png)  
-- [2020-05-11-财新通-VIP-财新数据通-Lite-pro-7-折扣优惠](https://www.v2ex.com/t/670696) ![](assets/new.png)  
-- [2020-05-11-前端娱乐圈-现在有必要学-vue2.0-么？](https://www.v2ex.com/t/670695) ![](assets/new.png)  
-- [2020-05-11-求助，关于公司不能访问外网的问题](https://www.v2ex.com/t/670694) ![](assets/new.png)  
-- [2020-05-11-路由器推荐个牌子啊-兄弟萌～](https://www.v2ex.com/t/670693) ![](assets/new.png)  
+- [2020-05-11-Intel-AX201-能换其他-PCI-e-协议的网卡吗？](https://www.v2ex.com/t/670701)  
+- [2020-05-11-最近收了不少-PHP-简历](https://www.v2ex.com/t/670700)  
+- [2020-05-11-被裁，轮到自己了，求助](https://www.v2ex.com/t/670699)  
+- [2020-05-11-电脑内部短路有维修价值吗？](https://www.v2ex.com/t/670698)  
+- [2020-05-11-财新通-VIP-财新数据通-Lite-pro-7-折扣优惠](https://www.v2ex.com/t/670696)  
+- [2020-05-11-前端娱乐圈-现在有必要学-vue2.0-么？](https://www.v2ex.com/t/670695)  
+- [2020-05-11-求助，关于公司不能访问外网的问题](https://www.v2ex.com/t/670694)  
+- [2020-05-11-路由器推荐个牌子啊-兄弟萌～](https://www.v2ex.com/t/670693)  
 - [2020-05-11-Python-如何批量合成价格水印图片?](https://www.v2ex.com/t/670692)  
 - [2020-05-11-有点纠结，求-offer-比较](https://www.v2ex.com/t/670691)  
 - [2020-05-11-招聘兼职运维（远程工作）](https://www.v2ex.com/t/670689)  

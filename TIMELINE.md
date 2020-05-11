@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,7 @@
 - [【Vue中文社区】2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) 
 - [【Vue中文社区】2020-05-05-传说中最经典的外包案例](https://www.ershicimi.com/p/6269ed474407855487c0fa6de4760523) 
 - [【Vue中文社区】2020-05-03-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/7bc3db6b81610cff242e8e5360a6fefc) 
+- [【前端早读课】2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6) 
 - [【前端早读课】2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470) 
 - [【前端早读课】2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a) 
 - [【前端早读课】2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2) 
@@ -2324,6 +2325,10 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-11-Redis-6.0-客户端缓存特性及实践](https://toutiao.io/k/ppar1z5) 
+- [【开发者头条】2020-05-11-Python-3.8-的超酷新功能](https://toutiao.io/k/70j7wmp) 
+- [【开发者头条】2020-05-11-Python-fileinput-模块：命令行工具利器](https://toutiao.io/k/ctadk01) 
+- [【开发者头条】2020-05-11-前端项目开发规范意见](https://toutiao.io/k/36yjji7) 
 - [【开发者头条】2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb) 
 - [【开发者头条】2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3) 
 - [【开发者头条】2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr) 

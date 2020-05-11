@@ -1596,6 +1596,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1941期】为新的Facebook.com重建我们的技术栈",
+        "link": "https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6",
+        "date": "2020-05-11"
+      },
+      {
         "title": "【第1940期】2020前端性能优化清单之六",
         "link": "https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470",
         "date": "2020-05-10"
@@ -25564,6 +25569,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Redis 6.0 客户端缓存特性及实践",
+        "link": "https://toutiao.io/k/ppar1z5",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Python 3.8 的超酷新功能",
+        "link": "https://toutiao.io/k/70j7wmp",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Python fileinput 模块：命令行工具利器",
+        "link": "https://toutiao.io/k/ctadk01",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "前端项目开发规范意见",
+        "link": "https://toutiao.io/k/36yjji7",
+        "date": "2020-05-11"
+      },
       {
         "title": "数据迁移的套路",
         "link": "https://toutiao.io/k/ncgq5yb",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 08:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 08:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,14 +21,14 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -199,6 +199,7 @@
 </summary>
 
 
+- [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6) ![](assets/new.png)  
 - [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)  
 - [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
@@ -218,7 +219,6 @@
 - [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
 - [2020-04-27-【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)  
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)  
-- [2020-04-25-【第1925期】阿里云@城池：如何做职业规划](https://www.ershicimi.com/p/d00dadb49be9e4d9fe23f3d355464143)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -386,10 +386,10 @@
 </summary>
 
 
-- [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d) ![](assets/new.png)  
-- [2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425) ![](assets/new.png)  
-- [2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684) ![](assets/new.png)  
-- [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3) ![](assets/new.png)  
+- [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d)  
+- [2020-05-08-Deno-1.0即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/bec70cbb8adb6fb2b029497a1d5c4425)  
+- [2020-05-08-前端开发的10个Sublime-Text包](https://www.ershicimi.com/p/c9b8eedc7c24838344b2e2c694a48684)  
+- [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3)  
 - [2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c)  
 - [2020-05-07-企业如何基于Serverless构建自己的云上应用-｜-GMTC](https://www.ershicimi.com/p/70d2b378a568f45d956e4300748a0b5d)  
 - [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)  
@@ -1007,9 +1007,9 @@
 </summary>
 
 
-- [2020-05-11-都-2020-年了，还有这种很蠢的设计吗](https://www.v2ex.com/t/670396) ![](assets/new.png)  
-- [2020-05-11-2020-款-macbookpro-低配-2type-c-支持外接-2-个显示器吗？](https://www.v2ex.com/t/670395) ![](assets/new.png)  
-- [2020-05-11-谷歌云关机不收费-这东西做游戏加速是不是太好了](https://www.v2ex.com/t/670394) ![](assets/new.png)  
+- [2020-05-11-都-2020-年了，还有这种很蠢的设计吗](https://www.v2ex.com/t/670396)  
+- [2020-05-11-2020-款-macbookpro-低配-2type-c-支持外接-2-个显示器吗？](https://www.v2ex.com/t/670395)  
+- [2020-05-11-谷歌云关机不收费-这东西做游戏加速是不是太好了](https://www.v2ex.com/t/670394)  
 - [2020-05-11-最近公众号载入方式变了？体验急剧下降！](https://www.v2ex.com/t/670392)  
 - [2020-05-11-wsl2-+-Windows-Terminal-完全可以取代-macOS](https://www.v2ex.com/t/670391)  
 - [2020-05-11-年轻人压力大？马云：“年轻人怕压力就白活了”](https://www.v2ex.com/t/670390)  
@@ -1069,6 +1069,10 @@
 </summary>
 
 
+- [2020-05-11-Redis-6.0-客户端缓存特性及实践](https://toutiao.io/k/ppar1z5) ![](assets/new.png)  
+- [2020-05-11-Python-3.8-的超酷新功能](https://toutiao.io/k/70j7wmp) ![](assets/new.png)  
+- [2020-05-11-Python-fileinput-模块：命令行工具利器](https://toutiao.io/k/ctadk01) ![](assets/new.png)  
+- [2020-05-11-前端项目开发规范意见](https://toutiao.io/k/36yjji7) ![](assets/new.png)  
 - [2020-05-10-数据迁移的套路](https://toutiao.io/k/ncgq5yb)  
 - [2020-05-10-Go-语言-sync-包的应用详解](https://toutiao.io/k/19ctuu3)  
 - [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr)  
@@ -1085,10 +1089,6 @@
 - [2020-05-10-用-jsDelivr-免费加速-GitHub-Pages-的静态资源](https://toutiao.io/k/4vvzn5h)  
 - [2020-05-09-女程序员离职后被索赔百万](https://toutiao.io/k/x39ofgr)  
 - [2020-05-09-Flutter-Web-网站之-ScrollView-+-GridView-优化](https://toutiao.io/k/m1tw49h)  
-- [2020-05-09-当面试官问你什么是-wěi-递归，你该怎么回答？](https://toutiao.io/k/g3y0bw1)  
-- [2020-05-09-研发-Leader-成长手册（三）](https://toutiao.io/k/rttx3ow)  
-- [2020-05-09-攻克数据结构：二叉搜索树](https://toutiao.io/k/rzzj1i8)  
-- [2020-05-09-浅说-Docker-基础知识与核心原理](https://toutiao.io/k/0xzvki4)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

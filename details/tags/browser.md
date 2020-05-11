@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -168,6 +168,7 @@
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-11-Redis-6.0-客户端缓存特性及实践](https://toutiao.io/k/ppar1z5) 
 - [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q) 
 - [2020-05-04-零信任安全架构实践之路](https://toutiao.io/k/2vdnk27) 
 - [2020-05-01-流量分析在安全攻防上的探索实践](https://toutiao.io/k/qe28bew) 

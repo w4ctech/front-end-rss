@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 13:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 13:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -126,9 +126,9 @@
 </summary>
 
 
-- [2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9) ![](assets/new.png)  
-- [2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930) ![](assets/new.png)  
-- [2020-05-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438) ![](assets/new.png)  
+- [2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9)  
+- [2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930)  
+- [2020-05-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438)  
 - [2020-05-09-大厂的小程序高性能之路](https://www.ershicimi.com/p/39c467791a00d406534265129f607fe9)  
 - [2020-05-08-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd)  
 - [2020-05-08-VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575)  
@@ -1075,6 +1075,7 @@
 </summary>
 
 
+- [2020-05-11-【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）](https://toutiao.io/k/odz1hke) ![](assets/new.png)  
 - [2020-05-11-我是如何被逼到向我软件的破解者道歉的？](https://toutiao.io/k/km1ahiz)  
 - [2020-05-11-iOS-WebView-对-H5-视频播放的控制](https://toutiao.io/k/hh85tqw)  
 - [2020-05-11-Java-线程池实践出真知](https://toutiao.io/k/4zqcwnr)  
@@ -1094,7 +1095,6 @@
 - [2020-05-11-Redis-6.0-客户端缓存特性及实践](https://toutiao.io/k/ppar1z5)  
 - [2020-05-11-Python-3.8-的超酷新功能](https://toutiao.io/k/70j7wmp)  
 - [2020-05-11-Python-fileinput-模块：命令行工具利器](https://toutiao.io/k/ctadk01)  
-- [2020-05-11-前端项目开发规范意见](https://toutiao.io/k/36yjji7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

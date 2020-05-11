@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -196,6 +196,8 @@
 - [【前端之巅】2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [【前端之巅】2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
+- [【前端迷】2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/8d784a803dd94716f9f813aaa0c076b4) 
+- [【前端迷】2020-05-11-前端面试开源项目清单（github仓库，个人网站都有）](https://www.ershicimi.com/p/83b9366b275bf5c08cc800dfc0eb63f7) 
 - [【前端迷】2020-05-10-推荐11个优秀的前端公众号](https://www.ershicimi.com/p/cb1d86de75485cc486c6e744c6e1b19c) 
 - [【前端迷】2020-05-10-推荐一个掘金点赞文章分类检索排序的网站](https://www.ershicimi.com/p/1f55f6aed601fe1321a6bac3687d38bf) 
 - [【前端迷】2020-05-09-今年薪资普涨不可能了，前端咋办？](https://www.ershicimi.com/p/8690381a460fc7b60a719fc785479213) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -48,6 +48,8 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-11-「北京」墨刀-2020-前后端招聘「15---30K」](https://www.v2ex.com/t/670635) 
+- [2020-05-11-豆瓣阅读「高级-iOS-工程师」招聘中。期待你的加入！](https://www.v2ex.com/t/670634) 
 - [2020-05-11-北京_音娱时光-PokeKara_日本谷歌总榜-TOP5_招聘-Android-高级工程师25~45K](https://www.v2ex.com/t/670592) 
 - [2020-05-11-北京-望京招聘技术支持](https://www.v2ex.com/t/670548) 
 - [2020-05-11-广州微咔世纪招聘-PHP-/Android/iOS-啦，快来碗里~](https://www.v2ex.com/t/670543) 

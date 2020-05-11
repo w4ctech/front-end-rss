@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -214,6 +214,7 @@
 - [【前端迷】2020-05-04-React-项目性能分析及优化](https://www.ershicimi.com/p/e035498647ac5ceb2eec2ef538222f9e) 
 - [【前端迷】2020-05-03-送给想转行AI的你：3堂人工智能入行教学课（免费领取）](https://www.ershicimi.com/p/9fb3ab95675c53b6bf6118ab02e2ef87) 
 - [【前端迷】2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9) 
+- [【全栈前端精选】2020-05-11-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/9055bdac2e9681cffc5298b35ed62cf8) 
 - [【全栈前端精选】2020-05-10-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/21b2e33e9f8f0994c11be9212f35656f) 
 - [【全栈前端精选】2020-05-09-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/6aec1e15654f63775fa2abc3f8071910) 
 - [【全栈前端精选】2020-05-08-分享一些斩获大厂-offer-的技巧](https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86) 
@@ -266,6 +267,8 @@
 - [【奇舞周刊】2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
+- [【前端日刊】2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
+- [【前端日刊】2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
 - [【互联网架构师】2020-05-11-大事件！35的程序员竟然失去了面试资格，这是为什么？](https://www.ershicimi.com/p/719593f0243b1798992688dde072f570) 
 - [【互联网架构师】2020-05-11-总结：被MySQL-UTF8编码坑的惨痛教训...](https://www.ershicimi.com/p/c49162e019356462d995b319470abad8) 

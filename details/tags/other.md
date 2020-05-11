@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -291,6 +291,7 @@
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 
+- [2020-05-11-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/9055bdac2e9681cffc5298b35ed62cf8) 
 - [2020-05-10-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/21b2e33e9f8f0994c11be9212f35656f) 
 - [2020-05-08-分享一些斩获大厂-offer-的技巧](https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86) 
 - [2020-05-06-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/2b242790142b8cde52599c8ec77997d6) 
@@ -404,6 +405,7 @@
 - [2020-04-19-你也是一边想要放弃，一边进步吗？](https://www.ershicimi.com/p/830ac98b11dba8de5c5a89af30838c9d) 
 - [2020-04-19-CML-源码剖析系列-前言](https://www.ershicimi.com/p/057f43052c2caeddd2aa1a2230b4c315) 
 - [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
+- [2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
 - [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7) 
 - [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212) 

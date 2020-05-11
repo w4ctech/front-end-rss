@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 13:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 14:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -448,6 +448,7 @@
 </summary>
 
 
+- [2020-05-11-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/9055bdac2e9681cffc5298b35ed62cf8) ![](assets/new.png)  
 - [2020-05-10-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/21b2e33e9f8f0994c11be9212f35656f)  
 - [2020-05-09-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/6aec1e15654f63775fa2abc3f8071910)  
 - [2020-05-08-分享一些斩获大厂-offer-的技巧](https://www.ershicimi.com/p/f248bd7b622c5b952870c26f1c0d4e86)  
@@ -467,7 +468,6 @@
 - [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89)  
 - [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb)  
 - [2020-04-25-教你如何写初/高级技术岗位简历](https://www.ershicimi.com/p/59aaa2cf14338811436bafc7bf489245)  
-- [2020-04-24-从-Redux-设计理念到源码分析](https://www.ershicimi.com/p/421655b419ee8edab8e12d41256e70a4)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -736,6 +736,8 @@
 </summary>
 
 
+- [2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) ![](assets/new.png)  
+- [2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) ![](assets/new.png)  
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61)  
 - [2020-04-30-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/07952dd2303bf4f2909a9d5d5f49d9d9)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/49521db0a3b65153bc20efd590e78d63)  
@@ -1075,7 +1077,7 @@
 </summary>
 
 
-- [2020-05-11-【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）](https://toutiao.io/k/odz1hke) ![](assets/new.png)  
+- [2020-05-11-【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）](https://toutiao.io/k/odz1hke)  
 - [2020-05-11-我是如何被逼到向我软件的破解者道歉的？](https://toutiao.io/k/km1ahiz)  
 - [2020-05-11-iOS-WebView-对-H5-视频播放的控制](https://toutiao.io/k/hh85tqw)  
 - [2020-05-11-Java-线程池实践出真知](https://toutiao.io/k/4zqcwnr)  

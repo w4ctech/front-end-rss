@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -15,6 +15,7 @@
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-11-Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498) 
 - [2020-05-10-用-Minio+Nginx-搭建私有图床，配合-Typora-一键插入博客图片](https://www.v2ex.com/t/670158) 
 - [2020-05-09-桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899) 
 - [2020-05-07-请教-docker-TensorFlow/Saving，部署模型的时候怎样配置或者判断显存应该是多少。](https://www.v2ex.com/t/669452) 

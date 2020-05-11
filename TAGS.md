@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -441,9 +441,9 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】虎牙直播-2nd-IPO-Anniversary](https://www.v2ex.com/t/670519)
+- [【V2EX】chrome-有什么插件可以弹出播放并旋转视频播放的？](https://www.v2ex.com/t/670505)
 - [【V2EX】一个直播服务器需要什么配置](https://www.v2ex.com/t/670467)
-- [【V2EX】佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/670442)
-- [【V2EX】在用-HDR-显示器的同学可以试试这个视频](https://www.v2ex.com/t/670383)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -549,9 +549,9 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)
+- [【V2EX】算法题越做越没信心](https://www.v2ex.com/t/670499)
 - [【V2EX】目前在招职位：-成都-Java-工程师-厦门前端工程师-北京全栈工程师-海外前端开发、移动端开发、产品经理-全国各地运营、商务-有看机会的可随时与我联系，微信...](https://www.v2ex.com/t/670480)
 - [【V2EX】二十分钟封装，一个-App-前后台-Http-交互的实现](https://www.v2ex.com/t/670443)
-- [【V2EX】有没有将-CGI-Proxy-转化为普通-HTTP-Proxy-的工具呢？](https://www.v2ex.com/t/670356)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498)
 - [【V2EX】用-Minio+Nginx-搭建私有图床，配合-Typora-一键插入博客图片](https://www.v2ex.com/t/670158)
 - [【V2EX】桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899)
 - [【V2EX】请教-docker-TensorFlow/Saving，部署模型的时候怎样配置或者判断显存应该是多少。](https://www.v2ex.com/t/669452)
@@ -587,7 +588,6 @@
 - [【V2EX】如何在-docker-内部监控某个-container-的上行流量？](https://www.v2ex.com/t/666986)
 - [【V2EX】nginx-配置求助](https://www.v2ex.com/t/666918)
 - [【V2EX】请教个-nginx-端口转发的问题](https://www.v2ex.com/t/666912)
-- [【V2EX】Nginx-是否可以忽略部分错误日志？](https://www.v2ex.com/t/666385)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

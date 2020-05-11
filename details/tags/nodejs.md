@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -11,6 +11,7 @@
 - [2020-04-19-前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8) 
 - [2020-05-07-node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b) 
 - [2020-04-30-抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d) 
+- [2020-05-11-Node.js-搭建一个-API-接口服务实战](https://www.ershicimi.com/p/0565f069f4ed13e243b6634a5ea16934) 
 - [2020-05-08-使用-Nodejs-实现定时爬取微博热搜榜](https://www.ershicimi.com/p/0efab3a54fcf982409460fbffd365a7c) 
 - [2020-05-06-关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b) 
 - [2020-05-05-Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的？](https://www.ershicimi.com/p/e58c21972ddddaafef6c923fdd6a73ee) 

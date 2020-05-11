@@ -2165,6 +2165,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "一年半，三本，收到30K+的offer，你也可以",
+        "link": "https://www.ershicimi.com/p/1a06826b4e149c89c4e2108e61ed8f16",
+        "date": "2020-05-09"
+      },
+      {
+        "title": "h5 小游戏总结及踩坑记录（全是干货~）",
+        "link": "https://www.ershicimi.com/p/00f307a66b50fc7aabe27fd71c1161da",
+        "date": "2020-05-09"
+      },
+      {
         "title": "Vue3.0 Beta 来了，正式版还会远吗？",
         "link": "https://www.ershicimi.com/p/78b9eeb6565d39a2cefc65ac53cc85a2",
         "date": "2020-05-08"
@@ -3039,6 +3049,21 @@
     "title": "前端瓶子君",
     "items": [
       {
+        "title": "领你入门认识二叉树",
+        "link": "https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "包邮免费送 5 本 JavaScript 书籍",
+        "link": "https://www.ershicimi.com/p/6238b067f71a3d93efc700d3a65a4d80",
+        "date": "2020-05-10"
+      },
+      {
+        "title": "一行代码实现一个简单的模板字符串替换",
+        "link": "https://www.ershicimi.com/p/b680cc5554037475c77902f602529377",
+        "date": "2020-05-09"
+      },
+      {
         "title": "前端换肤的N种方案，请收下",
         "link": "https://www.ershicimi.com/p/62051d65190ad5609fb050c628215a04",
         "date": "2020-05-08"
@@ -3126,6 +3151,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "Node.js 搭建一个 API 接口服务(实战)",
+        "link": "https://www.ershicimi.com/p/0565f069f4ed13e243b6634a5ea16934",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "如何实现一个高性能可渲染大数据的Tree组件",
+        "link": "https://www.ershicimi.com/p/d38e900745c463d6dc2064f3ff9c4388",
+        "date": "2020-05-09"
+      },
       {
         "title": "这 2 个坏习惯，让你离大厂越来越远",
         "link": "https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556",
@@ -6455,6 +6490,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "疫情下不能返校的学生党何去何从？",
+        "link": "https://www.v2ex.com/t/670412",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "开源基于 Django 的 BBS 小型社区，于之前写的放在仓库生灰。",
+        "link": "https://www.v2ex.com/t/670410",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "我所理解的程序员内卷化。。",
+        "link": "https://www.v2ex.com/t/670409",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "联想的 r7000 怎么预约呢？一直提示没货",
+        "link": "https://www.v2ex.com/t/670407",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "有没有值得推荐的 Windows 平板？",
+        "link": "https://www.v2ex.com/t/670405",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "做了个匿名社区如何引流呢？匿名社区是不是不好做啊！ 2ch4chan",
+        "link": "https://www.v2ex.com/t/670404",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "reactjs, typescript 中定义 action type 时，经常看到一种使用方法， type & const 用同一个名字，不知其深意？",
+        "link": "https://www.v2ex.com/t/670403",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "smart-doc 文档工具发布 gradle 插件了",
+        "link": "https://www.v2ex.com/t/670402",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "看了这个帖子 /t/670299 我也去翻了一下我的屏幕线，懂的大佬帮忙看看是什么线怎么用",
+        "link": "https://www.v2ex.com/t/670400",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "小米手机开机一直停留在这界面进不去怎么办？",
+        "link": "https://www.v2ex.com/t/670399",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "上层拼血缘，中层拼关系，底层拼老命，你在哪层",
+        "link": "https://www.v2ex.com/t/670398",
+        "date": "2020-05-11"
+      },
       {
         "title": "都 2020 年了，还有这种很蠢的设计吗",
         "link": "https://www.v2ex.com/t/670396",
@@ -25569,6 +25659,36 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[译] id software 的编程原则",
+        "link": "https://toutiao.io/k/a463te8",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "制作 Python 版 Jar 包",
+        "link": "https://toutiao.io/k/w5u7r0e",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "如何轻松学习 Kubernetes？",
+        "link": "https://toutiao.io/k/vj1yz83",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Fastjson 究竟犯了哪些错？",
+        "link": "https://toutiao.io/k/l0o23rf",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Go pprof 与线上事故：一次成功的定位与失败的复现",
+        "link": "https://toutiao.io/k/938wb0j",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "用 Vim 编辑 Markdown 时直接粘贴图片",
+        "link": "https://toutiao.io/k/0ed6uql",
+        "date": "2020-05-11"
+      },
       {
         "title": "Redis 6.0 客户端缓存特性及实践",
         "link": "https://toutiao.io/k/ppar1z5",

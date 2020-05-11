@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 08:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 09:30:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -177,6 +177,7 @@
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
 - [【前端宇宙】node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)
 - [【前端瓶子君】抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)
+- [【程序员成长指北】Node.js-搭建一个-API-接口服务实战](https://www.ershicimi.com/p/0565f069f4ed13e243b6634a5ea16934)
 - [【程序员成长指北】使用-Nodejs-实现定时爬取微博热搜榜](https://www.ershicimi.com/p/0efab3a54fcf982409460fbffd365a7c)
 - [【程序员成长指北】关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b)
 - [【程序员成长指北】Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的？](https://www.ershicimi.com/p/e58c21972ddddaafef6c923fdd6a73ee)
@@ -192,7 +193,6 @@
 - [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
 - [【凹凸实验室】【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/)
 - [【凹凸实验室】跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/)
-- [【凹凸实验室】Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -281,6 +281,7 @@
 
 
 
+- [【前端大学】h5-小游戏总结及踩坑记录（全是干货~）](https://www.ershicimi.com/p/00f307a66b50fc7aabe27fd71c1161da)
 - [【前端迷】C++是如何从代码到游戏的？](https://www.ershicimi.com/p/24a71fb8445451f7d8c0ca9899fc6b7a)
 - [【阮一峰的网络日志】家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)
 - [【凹凸实验室】全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)
@@ -300,7 +301,6 @@
 - [【凹凸实验室】Matter.js-2D-物理引擎试玩报告](https://aotu.io/notes/2017/04/17/Matter-js/)
 - [【凹凸实验室】源码赏析---1K的Firewatch游戏](https://aotu.io/notes/2016/12/04/firewatcher-appreciation/)
 - [【凹凸实验室】createjs开发入门](https://aotu.io/notes/2016/03/01/createjs-get-started/)
-- [【凹凸实验室】js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

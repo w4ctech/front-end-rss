@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【Vue中文社区】2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9) 
+- [【Vue中文社区】2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930) 
+- [【Vue中文社区】2020-05-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438) 
 - [【Vue中文社区】2020-05-09-大厂的小程序高性能之路](https://www.ershicimi.com/p/39c467791a00d406534265129f607fe9) 
 - [【Vue中文社区】2020-05-08-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd) 
 - [【Vue中文社区】2020-05-08-VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575) 

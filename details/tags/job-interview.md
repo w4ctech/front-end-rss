@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9) 
 - [2020-04-27-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/ff2e61705050f9629a4e6cca0476bbd5) 
 - [2020-04-24-搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 

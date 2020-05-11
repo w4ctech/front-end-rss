@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,7 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438)
 - [【Vue中文社区】VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575)
 - [【Vue中文社区】Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f)
 - [【Vue中文社区】「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29)
@@ -94,7 +95,6 @@
 - [【前端早读课】Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)
 - [【前端早读课】【视频】Vue.js作者尤雨溪谈Vue-3.0-Beta现状](https://www.ershicimi.com/p/26fb808e2e02e225bb0890d1e482c89a)
 - [【前端早读课】Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b)
-- [【前端早读课】【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -424,6 +424,7 @@
 
 
 
+- [【Vue中文社区】这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930)
 - [【前端圈】更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d)
 - [【前端圈】视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b)
 - [【前端圈】视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a)
@@ -443,7 +444,6 @@
 - [【V2EX】一个直播服务器需要什么配置](https://www.v2ex.com/t/670467)
 - [【V2EX】佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/670442)
 - [【V2EX】在用-HDR-显示器的同学可以试试这个视频](https://www.v2ex.com/t/670383)
-- [【V2EX】如何检索-A-视频中的片段在-B-视频中出现的时间点？](https://www.v2ex.com/t/670380)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -641,6 +641,7 @@
 
 
 - [【Vue社区】前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1)
+- [【Vue中文社区】Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9)
 - [【Vue中文社区】面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/ff2e61705050f9629a4e6cca0476bbd5)
 - [【Vue中文社区】搞定面试官之如何拿到满意的薪资？](https://www.ershicimi.com/p/02335736245b10f1ee105b123d21b64a)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1)
@@ -659,7 +660,6 @@
 - [【前端开发】前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a)
 - [【前端外刊评论】字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)
 - [【前端外刊评论】招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93)
-- [【前端之巅】5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

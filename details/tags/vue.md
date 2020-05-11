@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,7 @@
 - [2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
 - [2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [2020-05-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438) 
 - [2020-05-08-VuePress搭建技术网站与个人博客](https://www.ershicimi.com/p/577efcb3f2fe9f481345ea7a5b54c575) 
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/dc06dd784232b59065683a6ebf237d6f) 
 - [2020-05-05-「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29) 

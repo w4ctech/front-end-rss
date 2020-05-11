@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 15:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-11 16:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -2490,6 +2490,7 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【技术头条】2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-11-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13439&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNloXvCIUnXW92W1RazW2WA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-11-三年-Android-经验面经-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13438&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2UeATT7442Jgnr6NupjF-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2503,6 +2504,11 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-11-LeetCode-小白入门：简单题目八题合集，每题两解](https://toutiao.io/k/hpkqo39) 
+- [【开发者头条】2020-05-11-面试官问我：TCP-与-UDP-的区别](https://toutiao.io/k/2bvl1le) 
+- [【开发者头条】2020-05-11-关于-Java-两点需要更新的知识](https://toutiao.io/k/2e0afq5) 
+- [【开发者头条】2020-05-11-如何改进面试聊天机器人？](https://toutiao.io/k/9djtt0k) 
+- [【开发者头条】2020-05-11-译-编写高效的-PyTorch-代码技巧（下）](https://toutiao.io/k/bj39azs) 
 - [【开发者头条】2020-05-11-【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）](https://toutiao.io/k/odz1hke) 
 - [【开发者头条】2020-05-11-我是如何被逼到向我软件的破解者道歉的？](https://toutiao.io/k/km1ahiz) 
 - [【开发者头条】2020-05-11-iOS-WebView-对-H5-视频播放的控制](https://toutiao.io/k/hh85tqw) 

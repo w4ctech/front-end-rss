@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-11 15:30:22，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-11 16:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1015,26 +1015,26 @@
 </summary>
 
 
-- [2020-05-11-关于-MacBook-pro-外接键盘连击问题](https://www.v2ex.com/t/670569) ![](assets/new.png)  
-- [2020-05-11-请问迅雷有没有类似无头模式（headless）的功能？](https://www.v2ex.com/t/670568) ![](assets/new.png)  
-- [2020-05-11-走入了人生到现在最迷茫的阶段，恳请各位过来人给点建议。](https://www.v2ex.com/t/670567) ![](assets/new.png)  
-- [2020-05-11-如何选择国产数据库：人大金仓？达梦？南大通用？请-V-友指点](https://www.v2ex.com/t/670566) ![](assets/new.png)  
-- [2020-05-11-mac-远程桌面这么垃圾吗？](https://www.v2ex.com/t/670565) ![](assets/new.png)  
-- [2020-05-11-团队直招-美团-base-北京-高级-Java-研发工程师](https://www.v2ex.com/t/670564) ![](assets/new.png)  
-- [2020-05-11-前/后端在线学习有廖雪峰、RUNOOB，算法有-LeetCode，那么，产品经理和-UI/UE-呢？](https://www.v2ex.com/t/670563) ![](assets/new.png)  
-- [2020-05-11-ie11-打开京东无法登录，迫于网银只能用-ie-浏览器。](https://www.v2ex.com/t/670562) ![](assets/new.png)  
-- [2020-05-11-基于-Emacs-Lisp-的-HTML-模板语言](https://www.v2ex.com/t/670561) ![](assets/new.png)  
-- [2020-05-11-你们-iPad-上的微信稳定吗](https://www.v2ex.com/t/670560) ![](assets/new.png)  
-- [2020-05-11-iOS-电话黑名单上限多少？](https://www.v2ex.com/t/670559) ![](assets/new.png)  
-- [2020-05-11-蚂蚁金服诚聘资深-Java-研发、-Go-研发、容器调度、流量调度-SRE](https://www.v2ex.com/t/670558) ![](assets/new.png)  
-- [2020-05-11-2020-年选购新-Macbook-电脑的个人建议](https://www.v2ex.com/t/670556) ![](assets/new.png)  
-- [2020-05-11-看到有些人说-steam-社区打不开，提供一个社区大佬制作的小工具](https://www.v2ex.com/t/670555) ![](assets/new.png)  
-- [2020-05-11-平安-壹账通-14.5k-和-光汇石油-20k-兄弟们-有过来人吗？该怎么选？](https://www.v2ex.com/t/670553) ![](assets/new.png)  
-- [2020-05-11-Switch-可以输出画面到-iPad-Pro-吗？](https://www.v2ex.com/t/670552) ![](assets/new.png)  
-- [2020-05-11-GWF-封的是-IP-还是域名?](https://www.v2ex.com/t/670551) ![](assets/new.png)  
-- [2020-05-11-什么叫自愈路由系统](https://www.v2ex.com/t/670550) ![](assets/new.png)  
-- [2020-05-11-独立开发小程序，遇到后端问题怎么破？](https://www.v2ex.com/t/670549) ![](assets/new.png)  
-- [2020-05-11-北京-望京招聘技术支持](https://www.v2ex.com/t/670548) ![](assets/new.png)  
+- [2020-05-11-关于-MacBook-pro-外接键盘连击问题](https://www.v2ex.com/t/670569)  
+- [2020-05-11-请问迅雷有没有类似无头模式（headless）的功能？](https://www.v2ex.com/t/670568)  
+- [2020-05-11-走入了人生到现在最迷茫的阶段，恳请各位过来人给点建议。](https://www.v2ex.com/t/670567)  
+- [2020-05-11-如何选择国产数据库：人大金仓？达梦？南大通用？请-V-友指点](https://www.v2ex.com/t/670566)  
+- [2020-05-11-mac-远程桌面这么垃圾吗？](https://www.v2ex.com/t/670565)  
+- [2020-05-11-团队直招-美团-base-北京-高级-Java-研发工程师](https://www.v2ex.com/t/670564)  
+- [2020-05-11-前/后端在线学习有廖雪峰、RUNOOB，算法有-LeetCode，那么，产品经理和-UI/UE-呢？](https://www.v2ex.com/t/670563)  
+- [2020-05-11-ie11-打开京东无法登录，迫于网银只能用-ie-浏览器。](https://www.v2ex.com/t/670562)  
+- [2020-05-11-基于-Emacs-Lisp-的-HTML-模板语言](https://www.v2ex.com/t/670561)  
+- [2020-05-11-你们-iPad-上的微信稳定吗](https://www.v2ex.com/t/670560)  
+- [2020-05-11-iOS-电话黑名单上限多少？](https://www.v2ex.com/t/670559)  
+- [2020-05-11-蚂蚁金服诚聘资深-Java-研发、-Go-研发、容器调度、流量调度-SRE](https://www.v2ex.com/t/670558)  
+- [2020-05-11-2020-年选购新-Macbook-电脑的个人建议](https://www.v2ex.com/t/670556)  
+- [2020-05-11-看到有些人说-steam-社区打不开，提供一个社区大佬制作的小工具](https://www.v2ex.com/t/670555)  
+- [2020-05-11-平安-壹账通-14.5k-和-光汇石油-20k-兄弟们-有过来人吗？该怎么选？](https://www.v2ex.com/t/670553)  
+- [2020-05-11-Switch-可以输出画面到-iPad-Pro-吗？](https://www.v2ex.com/t/670552)  
+- [2020-05-11-GWF-封的是-IP-还是域名?](https://www.v2ex.com/t/670551)  
+- [2020-05-11-什么叫自愈路由系统](https://www.v2ex.com/t/670550)  
+- [2020-05-11-独立开发小程序，遇到后端问题怎么破？](https://www.v2ex.com/t/670549)  
+- [2020-05-11-北京-望京招聘技术支持](https://www.v2ex.com/t/670548)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,6 +1046,7 @@
 </summary>
 
 
+- [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13439&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNloXvCIUnXW92W1RazW2WA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-三年-Android-经验面经-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13438&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2UeATT7442Jgnr6NupjF-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1065,7 +1066,6 @@
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-Android-Jetpack-最佳开发姿势-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13424&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1Yo_oo89mcbU26EJXMjLoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-面试了一个-46-岁程序员，总结了很多-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13423&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfH3KrrBKktoKByASbXp6QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-28-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13422&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUHf3oefGCx9iBMiy8mksw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1077,6 +1077,11 @@
 </summary>
 
 
+- [2020-05-11-LeetCode-小白入门：简单题目八题合集，每题两解](https://toutiao.io/k/hpkqo39) ![](assets/new.png)  
+- [2020-05-11-面试官问我：TCP-与-UDP-的区别](https://toutiao.io/k/2bvl1le) ![](assets/new.png)  
+- [2020-05-11-关于-Java-两点需要更新的知识](https://toutiao.io/k/2e0afq5) ![](assets/new.png)  
+- [2020-05-11-如何改进面试聊天机器人？](https://toutiao.io/k/9djtt0k) ![](assets/new.png)  
+- [2020-05-11-译-编写高效的-PyTorch-代码技巧（下）](https://toutiao.io/k/bj39azs) ![](assets/new.png)  
 - [2020-05-11-【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）](https://toutiao.io/k/odz1hke)  
 - [2020-05-11-我是如何被逼到向我软件的破解者道歉的？](https://toutiao.io/k/km1ahiz)  
 - [2020-05-11-iOS-WebView-对-H5-视频播放的控制](https://toutiao.io/k/hh85tqw)  
@@ -1092,11 +1097,6 @@
 - [2020-05-11-制作-Python-版-Jar-包](https://toutiao.io/k/w5u7r0e)  
 - [2020-05-11-如何轻松学习-Kubernetes？](https://toutiao.io/k/vj1yz83)  
 - [2020-05-11-Fastjson-究竟犯了哪些错？](https://toutiao.io/k/l0o23rf)  
-- [2020-05-11-Go-pprof-与线上事故：一次成功的定位与失败的复现](https://toutiao.io/k/938wb0j)  
-- [2020-05-11-用-Vim-编辑-Markdown-时直接粘贴图片](https://toutiao.io/k/0ed6uql)  
-- [2020-05-11-Redis-6.0-客户端缓存特性及实践](https://toutiao.io/k/ppar1z5)  
-- [2020-05-11-Python-3.8-的超酷新功能](https://toutiao.io/k/70j7wmp)  
-- [2020-05-11-Python-fileinput-模块：命令行工具利器](https://toutiao.io/k/ctadk01)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

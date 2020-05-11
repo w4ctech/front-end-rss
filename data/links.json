@@ -26153,6 +26153,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境 (johnhany.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-11"
+      },
+      {
         "title": "JetPack + 单 Activity 的一些思路 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-05-11"
@@ -26459,6 +26464,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "LeetCode 小白入门：简单题目八题合集，每题两解",
+        "link": "https://toutiao.io/k/hpkqo39",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "面试官问我：TCP 与 UDP 的区别",
+        "link": "https://toutiao.io/k/2bvl1le",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "关于 Java 两点需要更新的知识",
+        "link": "https://toutiao.io/k/2e0afq5",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "如何改进面试聊天机器人？",
+        "link": "https://toutiao.io/k/9djtt0k",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "[译] 编写高效的 PyTorch 代码技巧（下）",
+        "link": "https://toutiao.io/k/bj39azs",
+        "date": "2020-05-11"
+      },
       {
         "title": "【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）",
         "link": "https://toutiao.io/k/odz1hke",

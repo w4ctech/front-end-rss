@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-11 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 17:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -441,9 +441,9 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】急寻一位视频云的总监，-50-岁以内](https://www.v2ex.com/t/670615)
 - [【V2EX】🔥新加坡-🔥技术移民机会🔥中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/670579)
 - [【V2EX】关于-Neditor-的上传图片/视频配置：最近在搞一个-CMS-网站，换了几个富文本编辑器，最终觉得-neditor-比较顺手，但是上传图片/视频的部分不知道该怎么配置参数...](https://www.v2ex.com/t/670544)
-- [【V2EX】虎牙直播-2nd-IPO-Anniversary](https://www.v2ex.com/t/670519)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -549,9 +549,9 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)
+- [【V2EX】九章算法王牌课——九章算法班重磅改版！](https://www.v2ex.com/t/670620)
 - [【V2EX】前/后端在线学习有廖雪峰、RUNOOB，算法有-LeetCode，那么，产品经理和-UI/UE-呢？](https://www.v2ex.com/t/670563)
 - [【V2EX】算法题越做越没信心](https://www.v2ex.com/t/670499)
-- [【V2EX】目前在招职位：-成都-Java-工程师-厦门前端工程师-北京全栈工程师-海外前端开发、移动端开发、产品经理-全国各地运营、商务-有看机会的可随时与我联系，微信...](https://www.v2ex.com/t/670480)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

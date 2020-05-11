@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-11 17:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -33,6 +33,7 @@
 - [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) 
 - [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9) 
 - [2020-04-24-从零实现一个单词对战游戏-二-产品篇:-如何确定项目主题](https://juejin.im/post/5e9da75e518825085d6d0854) 
+- [2020-05-11-为啥现在很少有让人惊艳的手机游戏了？](https://www.v2ex.com/t/670607) 
 - [2020-05-11-广州-网易游戏监控组，-Python-/Golang](https://www.v2ex.com/t/670510) 
 - [2020-05-11-谷歌云关机不收费-这东西做游戏加速是不是太好了](https://www.v2ex.com/t/670394) 
 - [2020-05-10-用-unity3d-开发-ios-游戏，有必要用-macos-吗?](https://www.v2ex.com/t/670347) 

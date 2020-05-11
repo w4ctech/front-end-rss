@@ -6661,6 +6661,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "macbook 可以通过 X11 窗口连接其他 mac 吗？",
+        "link": "https://www.v2ex.com/t/670746",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "clash 如何解决每次订阅更新，自定义的规则都会覆盖这个问题？",
+        "link": "https://www.v2ex.com/t/670745",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "硬盘分区间拷贝文件速度快还是合并分区快？",
+        "link": "https://www.v2ex.com/t/670744",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "面试时可以直接问对方加班多不多吗",
+        "link": "https://www.v2ex.com/t/670743",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "ssh 到 aws 好卡啊，能走 socks5 代理 ssh 吗？",
+        "link": "https://www.v2ex.com/t/670742",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "招行 app 活动转账 0.01 领 8 元话费卷",
+        "link": "https://www.v2ex.com/t/670741",
+        "date": "2020-05-11"
+      },
+      {
         "title": "建立一个“互不屏蔽广告”的博客联盟是否可行？",
         "link": "https://www.v2ex.com/t/670740",
         "date": "2020-05-11"
@@ -27229,6 +27259,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "让天下没有苦逼的运维！试试这个工具吧！",
+        "link": "https://toutiao.io/k/7x43jp7",
+        "date": "2020-05-12"
+      },
       {
         "title": "LeetCode 小白入门：简单题目八题合集，每题两解",
         "link": "https://toutiao.io/k/hpkqo39",

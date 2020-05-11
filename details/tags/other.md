@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-11 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -640,6 +640,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-11-macbook-可以通过-X11-窗口连接其他-mac-吗？](https://www.v2ex.com/t/670746) 
+- [2020-05-11-clash-如何解决每次订阅更新，自定义的规则都会覆盖这个问题？](https://www.v2ex.com/t/670745) 
+- [2020-05-11-硬盘分区间拷贝文件速度快还是合并分区快？](https://www.v2ex.com/t/670744) 
+- [2020-05-11-ssh-到-aws-好卡啊，能走-socks5-代理-ssh-吗？](https://www.v2ex.com/t/670742) 
+- [2020-05-11-招行-app-活动转账-0.01-领-8-元话费卷](https://www.v2ex.com/t/670741) 
 - [2020-05-11-建立一个“互不屏蔽广告”的博客联盟是否可行？](https://www.v2ex.com/t/670740) 
 - [2020-05-11-C-语言_REENTRANT-这个宏](https://www.v2ex.com/t/670739) 
 - [2020-05-11-新入-官翻-2019-款-mba-16G+512G](https://www.v2ex.com/t/670736) 
@@ -3897,6 +3902,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-12-让天下没有苦逼的运维！试试这个工具吧！](https://toutiao.io/k/7x43jp7) 
 - [2020-05-11-LeetCode-小白入门：简单题目八题合集，每题两解](https://toutiao.io/k/hpkqo39) 
 - [2020-05-11-关于-Java-两点需要更新的知识](https://toutiao.io/k/2e0afq5) 
 - [2020-05-11-译-编写高效的-PyTorch-代码技巧（下）](https://toutiao.io/k/bj39azs) 

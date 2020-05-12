@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 15:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 16:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
 - [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835)  
 - [2020-05-12-新加坡采用合并检测法-加大新冠肺炎检测-更正确诊病例总数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOGF9zNj890LLRcC9jNAB200512&isfromapp=1)  
@@ -1025,19 +1026,19 @@
 </summary>
 
 
-- [2020-05-12-应届生-OFFER-比较，快手/美团/shopee](https://www.v2ex.com/t/670930) ![](assets/new.png)  
-- [2020-05-12-看完-Eloquent-Javascript-这本书，找份前端开发工作的难度大吗](https://www.v2ex.com/t/670929) ![](assets/new.png)  
-- [2020-05-12-Pandas-获取数据求助](https://www.v2ex.com/t/670928) ![](assets/new.png)  
-- [2020-05-12-深度学习-是一块-2080s-还是一块-2080ti-好一些](https://www.v2ex.com/t/670927) ![](assets/new.png)  
-- [2020-05-12-ghost-是只有保存分区为-gho-备份的时候才跳过碎片？](https://www.v2ex.com/t/670926) ![](assets/new.png)  
-- [2020-05-12-简单询问一下上海合合信息公司-IT-加班严重吗?](https://www.v2ex.com/t/670925) ![](assets/new.png)  
-- [2020-05-12-大家觉得直播行业怎么样啊，听说很多大厂都加入直播大战了，有了解的吗](https://www.v2ex.com/t/670924) ![](assets/new.png)  
-- [2020-05-12-已经找好下家，但目前的公司打算拖着我。求解。](https://www.v2ex.com/t/670922) ![](assets/new.png)  
-- [2020-05-12-看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921) ![](assets/new.png)  
-- [2020-05-12-electron-中使用-web-worker-处理批量文件上传，如何在主进程暂停-web-worker-中某个文件或者全部文件的上传](https://www.v2ex.com/t/670920) ![](assets/new.png)  
-- [2020-05-12-大家用-MySQL-全文索引的场景多吗?](https://www.v2ex.com/t/670919) ![](assets/new.png)  
-- [2020-05-12-如何显示购票信息](https://www.v2ex.com/t/670918) ![](assets/new.png)  
-- [2020-05-12-社招-杭州-鲸算科技-技术大牛快到碗里来~](https://www.v2ex.com/t/670917) ![](assets/new.png)  
+- [2020-05-12-应届生-OFFER-比较，快手/美团/shopee](https://www.v2ex.com/t/670930)  
+- [2020-05-12-看完-Eloquent-Javascript-这本书，找份前端开发工作的难度大吗](https://www.v2ex.com/t/670929)  
+- [2020-05-12-Pandas-获取数据求助](https://www.v2ex.com/t/670928)  
+- [2020-05-12-深度学习-是一块-2080s-还是一块-2080ti-好一些](https://www.v2ex.com/t/670927)  
+- [2020-05-12-ghost-是只有保存分区为-gho-备份的时候才跳过碎片？](https://www.v2ex.com/t/670926)  
+- [2020-05-12-简单询问一下上海合合信息公司-IT-加班严重吗?](https://www.v2ex.com/t/670925)  
+- [2020-05-12-大家觉得直播行业怎么样啊，听说很多大厂都加入直播大战了，有了解的吗](https://www.v2ex.com/t/670924)  
+- [2020-05-12-已经找好下家，但目前的公司打算拖着我。求解。](https://www.v2ex.com/t/670922)  
+- [2020-05-12-看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921)  
+- [2020-05-12-electron-中使用-web-worker-处理批量文件上传，如何在主进程暂停-web-worker-中某个文件或者全部文件的上传](https://www.v2ex.com/t/670920)  
+- [2020-05-12-大家用-MySQL-全文索引的场景多吗?](https://www.v2ex.com/t/670919)  
+- [2020-05-12-如何显示购票信息](https://www.v2ex.com/t/670918)  
+- [2020-05-12-社招-杭州-鲸算科技-技术大牛快到碗里来~](https://www.v2ex.com/t/670917)  
 - [2020-05-12-请教各位，深圳南山哪里配眼镜比较合适。](https://www.v2ex.com/t/670916)  
 - [2020-05-12-文件上传并存储，有必要分文件夹么？好处是什么？](https://www.v2ex.com/t/670915)  
 - [2020-05-12-头条加班这么夸张的吗？](https://www.v2ex.com/t/670914)  
@@ -1056,7 +1057,7 @@
 </summary>
 
 
-- [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

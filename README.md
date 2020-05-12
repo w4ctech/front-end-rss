@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 00:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 00:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
-- [React中文社区](#react中文社区)![](assets/dot.png)   
+- [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-英国新冠肺炎确诊患者新增3403例-累计确诊226463例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1) ![](assets/new.png)  
 - [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1)  
 - [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1)  
 - [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1)  
@@ -192,7 +195,7 @@
 </summary>
 
 
-- [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) ![](assets/new.png)  
+- [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8)  
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c)  
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88)  
 - [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a)  
@@ -630,7 +633,7 @@
 </summary>
 
 
-- [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/) ![](assets/new.png)  
+- [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
 - [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/)  

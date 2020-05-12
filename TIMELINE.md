@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-13 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-英国新冠肺炎确诊患者新增3403例-累计确诊226463例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1) 

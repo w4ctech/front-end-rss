@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -669,6 +669,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039) 
+- [2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038) 
+- [2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037) 
+- [2020-05-12-拼多多那个苹果原装扩展坞是真的吗？价格-250](https://www.v2ex.com/t/671035) 
+- [2020-05-12-你们平时划水都干什么啊？](https://www.v2ex.com/t/671034) 
+- [2020-05-12-深圳-PHP-感觉有点不好找](https://www.v2ex.com/t/671031) 
+- [2020-05-12-C#如何接触对自身文件夹的占用？](https://www.v2ex.com/t/671030) 
 - [2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026) 
 - [2020-05-12-SE2-好重](https://www.v2ex.com/t/671025) 
 - [2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024) 
@@ -4112,6 +4119,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl) 
 - [2020-05-12-为什么-Mac-地址不需要全球唯一](https://toutiao.io/k/hioqrx0) 
 - [2020-05-12-译-SpEL：Spring-表达式语言](https://toutiao.io/k/q9p3r7d) 
 - [2020-05-12-TCP-和-UDP](https://toutiao.io/k/w3pnxtu) 

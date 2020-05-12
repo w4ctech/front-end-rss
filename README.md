@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 19:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 19:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762) ![](assets/new.png)  
-- [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762)  
+- [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1)  
 - [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
@@ -1030,26 +1030,26 @@
 </summary>
 
 
-- [2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026) ![](assets/new.png)  
-- [2020-05-12-SE2-好重](https://www.v2ex.com/t/671025) ![](assets/new.png)  
-- [2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024) ![](assets/new.png)  
-- [2020-05-12-问个-nuxt-框架的问题](https://www.v2ex.com/t/671023) ![](assets/new.png)  
-- [2020-05-12-Win7-有“本地连接”和"TAP"，“WLAN"，一共三个网络适配器，写-Python-遇上了这个问题困扰，目前无法解决。。。](https://www.v2ex.com/t/671020) ![](assets/new.png)  
-- [2020-05-12-Cloudcone-五月特别促销（大流量）](https://www.v2ex.com/t/671019) ![](assets/new.png)  
+- [2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039) ![](assets/new.png)  
+- [2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038) ![](assets/new.png)  
+- [2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037) ![](assets/new.png)  
+- [2020-05-12-成都-美团外卖成都研发中心大量招聘-前端工程师](https://www.v2ex.com/t/671036) ![](assets/new.png)  
+- [2020-05-12-拼多多那个苹果原装扩展坞是真的吗？价格-250](https://www.v2ex.com/t/671035) ![](assets/new.png)  
+- [2020-05-12-你们平时划水都干什么啊？](https://www.v2ex.com/t/671034) ![](assets/new.png)  
+- [2020-05-12-js-可以获取-iPhone-的设备型号吗？](https://www.v2ex.com/t/671033) ![](assets/new.png)  
+- [2020-05-12-深圳-PHP-感觉有点不好找](https://www.v2ex.com/t/671031) ![](assets/new.png)  
+- [2020-05-12-C#如何接触对自身文件夹的占用？](https://www.v2ex.com/t/671030) ![](assets/new.png)  
+- [2020-05-12-在使用蓝牙耳机的时候-有什么方案可以让手机输出的音频一分二](https://www.v2ex.com/t/671028) ![](assets/new.png)  
+- [2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026)  
+- [2020-05-12-SE2-好重](https://www.v2ex.com/t/671025)  
+- [2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024)  
+- [2020-05-12-问个-nuxt-框架的问题](https://www.v2ex.com/t/671023)  
+- [2020-05-12-Win7-有“本地连接”和"TAP"，“WLAN"，一共三个网络适配器，写-Python-遇上了这个问题困扰，目前无法解决。。。](https://www.v2ex.com/t/671020)  
+- [2020-05-12-Cloudcone-五月特别促销（大流量）](https://www.v2ex.com/t/671019)  
 - [2020-05-12-大家到-apple-直营店要注意被偷偷更换物件。](https://www.v2ex.com/t/671017)  
 - [2020-05-12-大三暑期实习-Offer-选择，腾讯-TEG/阿里云，求前辈们给点建议](https://www.v2ex.com/t/671016)  
 - [2020-05-12-发现一个经常-10w+，但让我迷惑的公众号](https://www.v2ex.com/t/671015)  
 - [2020-05-12-bibibi-献给年轻一代程序猿的演讲-゜-゜つロ-干杯~-bilibili](https://www.v2ex.com/t/671014)  
-- [2020-05-12-mysql-保存族谱应该怎么设计?](https://www.v2ex.com/t/671013)  
-- [2020-05-12-📢字节跳动---飞书内推岗位👏👏👏](https://www.v2ex.com/t/671012)  
-- [2020-05-12-老主板接口转换求助](https://www.v2ex.com/t/671011)  
-- [2020-05-12-django-使用-orm-修改某个数据库字段值时,-save后大约过了三分钟,这个字段的值又回到了修改之前的值.-不是每次都必现的](https://www.v2ex.com/t/671010)  
-- [2020-05-12-我，搞计算机的，一部《键来》献给大家](https://www.v2ex.com/t/671009)  
-- [2020-05-12-最近-16-寸-MacBook-长时间-sleep-后,唤醒就不能播放-HTML5-视频了](https://www.v2ex.com/t/671005)  
-- [2020-05-12-论坛有打算翻出去读书的可以看看这个消息](https://www.v2ex.com/t/671004)  
-- [2020-05-12-宠物社区小程序寻人~~全栈-Vue-前端-UI-来聊！](https://www.v2ex.com/t/671003)  
-- [2020-05-12-threadlocal-到底什么情况下会内存泄漏？](https://www.v2ex.com/t/671002)  
-- [2020-05-12-不懂了问一下，生产环境难道不应该关掉-sourcemap-吗？](https://www.v2ex.com/t/671001)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1092,6 +1092,7 @@
 </summary>
 
 
+- [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl) ![](assets/new.png)  
 - [2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r)  
 - [2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv)  
 - [2020-05-12-为什么-Mac-地址不需要全球唯一](https://toutiao.io/k/hioqrx0)  
@@ -1111,7 +1112,6 @@
 - [2020-05-12-Kotlin-函数式编程和设计模式学习笔记（六）](https://toutiao.io/k/8bgij5k)  
 - [2020-05-12-基于-CAP-模型设计企业级真正高可用的分布式锁](https://toutiao.io/k/6atly2o)  
 - [2020-05-12-GitHub-迎来重大变更：可以直接用-VSCode-编码了](https://toutiao.io/k/gvbrvvx)  
-- [2020-05-12-慎用-ToLower-和-ToUpper，小心把你的系统给拖垮了](https://toutiao.io/k/0q45t09)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

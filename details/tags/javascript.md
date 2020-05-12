@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -127,6 +127,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-12-js-可以获取-iPhone-的设备型号吗？](https://www.v2ex.com/t/671033) 
 - [2020-05-12-Win7-有“本地连接”和"TAP"，“WLAN"，一共三个网络适配器，写-Python-遇上了这个问题困扰，目前无法解决。。。](https://www.v2ex.com/t/671020) 
 - [2020-05-12-最近-16-寸-MacBook-长时间-sleep-后,唤醒就不能播放-HTML5-视频了](https://www.v2ex.com/t/671005) 
 - [2020-05-12-哪位前辈会帝国批量替换的正则表达式呀](https://www.v2ex.com/t/670993) 

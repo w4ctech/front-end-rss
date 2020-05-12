@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-12 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -433,6 +433,16 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039) 
+- [【V2EX】2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038) 
+- [【V2EX】2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037) 
+- [【V2EX】2020-05-12-成都-美团外卖成都研发中心大量招聘-前端工程师](https://www.v2ex.com/t/671036) 
+- [【V2EX】2020-05-12-拼多多那个苹果原装扩展坞是真的吗？价格-250](https://www.v2ex.com/t/671035) 
+- [【V2EX】2020-05-12-你们平时划水都干什么啊？](https://www.v2ex.com/t/671034) 
+- [【V2EX】2020-05-12-js-可以获取-iPhone-的设备型号吗？](https://www.v2ex.com/t/671033) 
+- [【V2EX】2020-05-12-深圳-PHP-感觉有点不好找](https://www.v2ex.com/t/671031) 
+- [【V2EX】2020-05-12-C#如何接触对自身文件夹的占用？](https://www.v2ex.com/t/671030) 
+- [【V2EX】2020-05-12-在使用蓝牙耳机的时候-有什么方案可以让手机输出的音频一分二](https://www.v2ex.com/t/671028) 
 - [【V2EX】2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026) 
 - [【V2EX】2020-05-12-SE2-好重](https://www.v2ex.com/t/671025) 
 - [【V2EX】2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024) 
@@ -2936,6 +2946,7 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl) 
 - [【开发者头条】2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r) 
 - [【开发者头条】2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv) 
 - [【开发者头条】2020-05-12-为什么-Mac-地址不需要全球唯一](https://toutiao.io/k/hioqrx0) 

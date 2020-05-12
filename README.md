@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 01:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 02:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -612,7 +612,7 @@
 </summary>
 
 
-- [2020-05-10-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0) ![](assets/new.png)  
+- [2020-05-10-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0)  
 - [2020-04-17-Nodejs-中基于-Stream-的多文件合并实现](https://www.ershicimi.com/p/537ac76be5a20ec7603b470d2fdfafa4)  
 - [2020-04-15-Node.js-开发者-2020-年度报告](https://www.ershicimi.com/p/60c6d83582f252c19260f71ab577ab10)  
 - [2020-04-14-已经-2020-年了-Deno-现在怎么样了?-|-来自知乎一个回答](https://www.ershicimi.com/p/2fd814347adf358fb707a4655d58cf4e)  
@@ -1040,26 +1040,26 @@
 </summary>
 
 
+- [2020-05-13-有没有个人收藏数据整理打包工具？需要有很多超链接-数据库-文字图片记录](https://www.v2ex.com/t/671103) ![](assets/new.png)  
+- [2020-05-13-寻求一套支付系统](https://www.v2ex.com/t/671102) ![](assets/new.png)  
+- [2020-05-13-有点突发奇想弱弱问问，现在的初中生送啥礼物会是他们没见过的新奇玩意，或者说是他们自己都想攒钱买的（最好是有关学习正能量的）](https://www.v2ex.com/t/671101) ![](assets/new.png)  
+- [2020-05-13-在-5G-加持下，物联网的趋势何在？和前景如何？](https://www.v2ex.com/t/671100) ![](assets/new.png)  
+- [2020-05-13-腾讯的免费企业邮箱完美地体现了其腾讯特性，霸道](https://www.v2ex.com/t/671099) ![](assets/new.png)  
+- [2020-05-13-有没有办法实现-iPhone-照片和-PC（win10）精确同步？](https://www.v2ex.com/t/671097) ![](assets/new.png)  
+- [2020-05-13-iOS13-后支持-3D-touch-的机型也用不了-3Dtouch-了吗？](https://www.v2ex.com/t/671096) ![](assets/new.png)  
+- [2020-05-13-看-CTO-封的框架代码-，忍不住，吐槽……](https://www.v2ex.com/t/671095) ![](assets/new.png)  
+- [2020-05-13-Java-开发工作快-2-年了（实习了大半年去年毕业的）感觉对于自己的学习路线有点迷茫，工作中用到的技术也很老对于找新工作没有什么帮助，虽然有在自学但是可能由...](https://www.v2ex.com/t/671094) ![](assets/new.png)  
+- [2020-05-12-明明没有登陆-Apple-ID，照片却收到垃圾邀请](https://www.v2ex.com/t/671093) ![](assets/new.png)  
+- [2020-05-12-广州游戏宽带无公网-ip，如何挂-pt](https://www.v2ex.com/t/671092) ![](assets/new.png)  
+- [2020-05-12-用了-6-年的-SSD-还能有救么？（三星-840-pro-2013-年）](https://www.v2ex.com/t/671091) ![](assets/new.png)  
+- [2020-05-12-《上海市推进新型基础设施建设行动方案》本节点相关内容选摘](https://www.v2ex.com/t/671090) ![](assets/new.png)  
+- [2020-05-12-两个-offer，-AT/小厂的，有点纠结，路过的大佬帮忙看一下~](https://www.v2ex.com/t/671089) ![](assets/new.png)  
+- [2020-05-12-为什么声破天的-pad-版本没有睡眠倒计时啊，而-ios-有。](https://www.v2ex.com/t/671088) ![](assets/new.png)  
 - [2020-05-12-关于一个线程锁的问题](https://www.v2ex.com/t/671087)  
 - [2020-05-12-小花科技---资深-Java-工程师---自己带团队---待遇从优](https://www.v2ex.com/t/671086)  
 - [2020-05-12-为什么几乎每个鼠标用到一定时间后,都会“单击”变“双击”?](https://www.v2ex.com/t/671085)  
 - [2020-05-12-目前有在沙河，朱辛庄附近的老铁吗？租房情况如何？](https://www.v2ex.com/t/671084)  
 - [2020-05-12-各位的电蚊拍一次充满电能用多久？有几年前的电蚊拍现在还能一次充电超长续航的吗？](https://www.v2ex.com/t/671083)  
-- [2020-05-12-求推荐-venkat-subramaniam-写的书](https://www.v2ex.com/t/671082)  
-- [2020-05-12-iPhone-有什么-app-可以设置每-10-分钟响一次么？](https://www.v2ex.com/t/671081)  
-- [2020-05-12-金融科技招聘-|-技术专场\-50-100-万-北京/上海/深圳](https://www.v2ex.com/t/671080)  
-- [2020-05-12-全麻后遗症](https://www.v2ex.com/t/671079)  
-- [2020-05-12-关于断言的一个疑问，希望可以和懂的人讨论一下，请不吝赐教。](https://www.v2ex.com/t/671078)  
-- [2020-05-12-删除](https://www.v2ex.com/t/671077)  
-- [2020-05-12-抢红包如何动态伸缩机子](https://www.v2ex.com/t/671076)  
-- [2020-05-12-入职-7-天告诉我没加班影响团队](https://www.v2ex.com/t/671075)  
-- [2020-05-12-Android-Studio-的可视化布局编辑器自动改变组件树的层次结构](https://www.v2ex.com/t/671074)  
-- [2020-05-12-基于-groovy-实现公式库](https://www.v2ex.com/t/671073)  
-- [2020-05-12-final-shell-监控命令被当作后门](https://www.v2ex.com/t/671072)  
-- [2020-05-12-iCloud-+-Apple-Music-开车](https://www.v2ex.com/t/671071)  
-- [2020-05-12-今年会出-iPad-Air4-吗？会支持-Apple-Pencil-二代吗？](https://www.v2ex.com/t/671070)  
-- [2020-05-12-求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069)  
-- [2020-05-12-脚感舒服-LOGO-不大的运动鞋推荐一波吧](https://www.v2ex.com/t/671068)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

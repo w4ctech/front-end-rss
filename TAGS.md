@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-13 01:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 02:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -402,13 +402,13 @@
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】iOS13-后支持-3D-touch-的机型也用不了-3Dtouch-了吗？](https://www.v2ex.com/t/671096)
 - [【V2EX】求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069)
 - [【V2EX】后续之前立的写单元测试-Canvas-渲染框架-flag，现在写完开源分享啦](https://www.v2ex.com/t/670168)
 - [【V2EX】Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957)
 - [【V2EX】热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893)
 - [【V2EX】分享一个-demo，单元测试-canvas-的实际渲染，同时欢迎报名组队](https://www.v2ex.com/t/667731)
 - [【V2EX】推荐一个自带-GUI-且支持插件扩展的代码生成器](https://www.v2ex.com/t/667105)
-- [【V2EX】V-站头像是允许-JPG、PNG-和-GIF-的，但是实际上并不能使用-GIF](https://www.v2ex.com/t/666397)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1616,6 +1616,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "深扒 Vue 3.0 革新技术点",
+        "link": "https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "【第1942期】Vue SSR 即时编译技术",
+        "link": "https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e",
+        "date": "2020-05-12"
+      },
+      {
         "title": "【第1941期】为新的Facebook.com重建我们的技术栈",
         "link": "https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6",
         "date": "2020-05-11"
@@ -6660,6 +6670,121 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[base 广州] [及目科技] Web 前端开发工程师（中/高级） [前沿技术] [发展潜力] [未来可期]",
+        "link": "https://www.v2ex.com/t/670776",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "请教一个关于 hugo 渲染 markdown 的问题",
+        "link": "https://www.v2ex.com/t/670775",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "想买个外接显示器求推荐~",
+        "link": "https://www.v2ex.com/t/670773",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "新来的实习生嫌弃电脑配置差",
+        "link": "https://www.v2ex.com/t/670772",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "写 React 的学了一下 Vue，真香",
+        "link": "https://www.v2ex.com/t/670771",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "关于个人发展方向的一些思考和请教",
+        "link": "https://www.v2ex.com/t/670770",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "关于路由器网络的一点疑问",
+        "link": "https://www.v2ex.com/t/670769",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "Windows 文字复制粘贴不完整的问题",
+        "link": "https://www.v2ex.com/t/670768",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "X1C 这个价格怎么样",
+        "link": "https://www.v2ex.com/t/670767",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "家庭网络全局设置部分代理除了路由器按照插件以为还有什么更好的办法？",
+        "link": "https://www.v2ex.com/t/670766",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "求推荐 macbook 上 BetterTouchTool 能够识别出侧键的多侧键鼠标",
+        "link": "https://www.v2ex.com/t/670765",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "MBP 15' 2017 用 Final Cut Pro 剪一个 5 分钟的视频都很卡",
+        "link": "https://www.v2ex.com/t/670763",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "你入职一家公司后是会准备长时间干下去还是总会考虑一段时间后跳槽？",
+        "link": "https://www.v2ex.com/t/670762",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "有点不理解这是什么情况",
+        "link": "https://www.v2ex.com/t/670760",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "surface go 2 明天到货，全职当面板显示实时时钟/天气/日历/邮件/grafana/股票，请推荐",
+        "link": "https://www.v2ex.com/t/670759",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "在国内做独立开发者太难了，半夜支付宝被封",
+        "link": "https://www.v2ex.com/t/670758",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "发现一个网站，无论以什么形式打开或之前已经打开开发者工具都会立即跳转回首页。想问下实现原理和解决方案。",
+        "link": "https://www.v2ex.com/t/670757",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "相同硬件配置组的黑苹果 Mac Pro 香不香？",
+        "link": "https://www.v2ex.com/t/670756",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "Java PHP go 招聘需求排个序？",
+        "link": "https://www.v2ex.com/t/670755",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "Java 新手一个关于 JDBC/QueryRunner 的问题",
+        "link": "https://www.v2ex.com/t/670754",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "外包出去面试就活该被歧视么?",
+        "link": "https://www.v2ex.com/t/670753",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "今年不会有 14 寸 MBP 了",
+        "link": "https://www.v2ex.com/t/670750",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "语雀推出 windows+mac 桌面版",
+        "link": "https://www.v2ex.com/t/670749",
+        "date": "2020-05-12"
+      },
       {
         "title": "腾讯会议怎么通过抓包保存",
         "link": "https://www.v2ex.com/t/670748",
@@ -27269,6 +27394,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "JVM 笔记：性能监控与分析工具",
+        "link": "https://toutiao.io/k/c37uhoz",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "[译] 通过这 6 个很棒的 Webpack 插件提高您的生产力",
+        "link": "https://toutiao.io/k/7463e5y",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "IP 基础知识 “全家桶”，45 张图一套带走",
+        "link": "https://toutiao.io/k/26q34l5",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "大数据和人工智能工程上的一些点",
+        "link": "https://toutiao.io/k/qz57sgk",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "程序员的前景一片灰暗？",
+        "link": "https://toutiao.io/k/ull0p7c",
+        "date": "2020-05-12"
+      },
       {
         "title": "让天下没有苦逼的运维！试试这个工具吧！",
         "link": "https://toutiao.io/k/7x43jp7",

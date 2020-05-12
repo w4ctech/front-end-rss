@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-05-09 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-12-程序员如何学英语，才能无障碍阅读官方文档？丨极客时间](https://www.ershicimi.com/p/478daaf992f5ba25a2c5e17c50fd2960) 
+- [2020-05-12-对开发者而言，新基建的意义是什么？旧基建怎么处理？](https://www.ershicimi.com/p/353d14eec45d9c50bdacf6ce6a5a9dcb) 
+- [2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16) 
+- [2020-05-12-Serverless-实战：3-分钟实现文本敏感词过滤](https://www.ershicimi.com/p/2d6842ea694963f3d5123cb1b0142f4c) 
+- [2020-05-11-6年巨亏390亿后，滴滴终于盈利了](https://www.ershicimi.com/p/148417d03330933951d5d586361f5e67) 
+- [2020-05-11-Mecha：将Mesh进行到底](https://www.ershicimi.com/p/7383a5c60e66a19b3f377122f8cb71f5) 
+- [2020-05-11-你忽略的工程效能提升，是很多优秀研发团队的制胜秘诀丨QCon](https://www.ershicimi.com/p/89690c5079b410ec3f803cabdb31f0d8) 
+- [2020-05-11-SuperCell-的中台你们学不会](https://www.ershicimi.com/p/ae662ca74387d2c67a45cb0429541c4b) 
+- [2020-05-10-马云称年轻人怕压力就白活了；腾讯回应“华为手机提示拦截-QQ-删除照片”；Stack-Overflo](https://www.ershicimi.com/p/891a4d5cd372bf00e4e881b909064962) 
+- [2020-05-10-技术人必读书籍，InfoQ-免费送！](https://www.ershicimi.com/p/055874a72b844f0479209d4dfef5ea58) 
 - [2020-05-09-成人网站泄露-108-亿数据，内含-50-万中国用户](https://www.ershicimi.com/p/c24e45838912c22bbfac48d584be0b55) 
 - [2020-05-09-Deno-1.0-即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/72db2e3843177ab2738147e32f239fb2) 
 - [2020-05-09-没想到竟然会有平台架构无法支撑我所写的代码的一天！丨Q推荐](https://www.ershicimi.com/p/39d4650e0368eb13448f9d0cda996a0f) 

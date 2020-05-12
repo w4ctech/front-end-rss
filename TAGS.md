@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-12 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -359,6 +359,7 @@
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端大学】CSS-渲染原理以及优化策略](https://www.ershicimi.com/p/bb03e8c4edfa3fb00616f7b93a04d15b)
 - [【前端之巅】工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)
+- [【全栈前端精选】认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)
 - [【程序员成长指北】探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531)
 - [【张鑫旭-鑫空间-鑫生活】借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)
@@ -372,7 +373,6 @@
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
 - [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
 - [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
-- [【凹凸实验室】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -577,6 +577,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】如何解决在使用端口映射情况，-dsm-nginx-跳转到内部端口的问题？](https://www.v2ex.com/t/670880)
 - [【V2EX】Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498)
 - [【V2EX】用-Minio+Nginx-搭建私有图床，配合-Typora-一键插入博客图片](https://www.v2ex.com/t/670158)
 - [【V2EX】桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899)
@@ -587,7 +588,6 @@
 - [【V2EX】离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)
 - [【V2EX】Docker-容器中基于-Alpine-Linux-镜像，-kill-命令不起作用？](https://www.v2ex.com/t/667733)
 - [【V2EX】如何在-docker-内部监控某个-container-的上行流量？](https://www.v2ex.com/t/666986)
-- [【V2EX】nginx-配置求助](https://www.v2ex.com/t/666918)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

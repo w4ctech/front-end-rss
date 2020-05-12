@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -43,6 +43,7 @@
 - [2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
 - [2020-05-06-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002) 
 - [2020-05-10-包邮免费送-5-本-JavaScript-书籍](https://www.ershicimi.com/p/6238b067f71a3d93efc700d3a65a4d80) 
+- [2020-05-12-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/70d30bfa33dbeef8b825801947f8208a) 
 - [2020-05-09-如何实现一个高性能可渲染大数据的Tree组件](https://www.ershicimi.com/p/d38e900745c463d6dc2064f3ff9c4388) 
 - [2020-04-26-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/122a8001a1fdded2dbea80af376a2152) 
 - [2020-04-23-介绍几个-JavaScript-设计模式实际应用场景](https://www.ershicimi.com/p/c1ec6fb3fa5fa8e98f4b17d528979320) 
@@ -235,6 +236,7 @@
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-12-Kotlin-函数式编程和设计模式学习笔记（六）](https://toutiao.io/k/8bgij5k) 
 - [2020-05-11-iOS-WebView-对-H5-视频播放的控制](https://toutiao.io/k/hh85tqw) 
 - [2020-05-11-译-etcd-与-Zookeeper、Consul-等其它-k-v-组件的对比](https://toutiao.io/k/nuzadx3) 
 - [2020-05-11-Fastjson-究竟犯了哪些错？](https://toutiao.io/k/l0o23rf) 

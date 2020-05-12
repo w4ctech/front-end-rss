@@ -2220,6 +2220,26 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "【项目实战视频+源码】20w前端程序员疯抢的成长大礼包！",
+        "link": "https://www.ershicimi.com/p/ee043396877b393af5dd518e3d860621",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "高效的编码：我的VS Code设置",
+        "link": "https://www.ershicimi.com/p/0feb81ce566988b0b80c8620a343b8e8",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "做前端3年，从入门到放弃？",
+        "link": "https://www.ershicimi.com/p/20ba9e64fff9deb18218d2c08871db96",
+        "date": "2020-05-11"
+      },
+      {
+        "title": "Web前端开发必不可少的9个开源框架",
+        "link": "https://www.ershicimi.com/p/f17e3ec903ba230e768129864c91d9f5",
+        "date": "2020-05-11"
+      },
+      {
         "title": "一年半，三本，收到30K+的offer，你也可以",
         "link": "https://www.ershicimi.com/p/1a06826b4e149c89c4e2108e61ed8f16",
         "date": "2020-05-09"
@@ -3251,6 +3271,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "前端人只有青铜和王者，你是哪一种？",
+        "link": "https://www.ershicimi.com/p/fe3527ac2f52c31eb3477f9890c38285",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "JavaScript ES2020必知必会新特性",
+        "link": "https://www.ershicimi.com/p/70d30bfa33dbeef8b825801947f8208a",
+        "date": "2020-05-12"
+      },
       {
         "title": "Node.js 搭建一个 API 接口服务(实战)",
         "link": "https://www.ershicimi.com/p/0565f069f4ed13e243b6634a5ea16934",
@@ -6670,6 +6700,46 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "有一种找工作叫“tx 虐我千百遍，我待 tx 如初恋”",
+        "link": "https://www.v2ex.com/t/670786",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "为啥咸鱼上有那么多老母鸡？",
+        "link": "https://www.v2ex.com/t/670784",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "求助:笔记本电脑经常显示有限的网络连接,重启网卡又好了,过一会又出现",
+        "link": "https://www.v2ex.com/t/670783",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "早醒",
+        "link": "https://www.v2ex.com/t/670782",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "感觉 Win 的打印服务逻辑有问题，必须重启打印服务",
+        "link": "https://www.v2ex.com/t/670781",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "看来海底光缆 5 月 29 日才能修好",
+        "link": "https://www.v2ex.com/t/670780",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "我太急，太莽撞了",
+        "link": "https://www.v2ex.com/t/670779",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "脱脂奶粉||低脂奶粉?",
+        "link": "https://www.v2ex.com/t/670777",
+        "date": "2020-05-12"
+      },
       {
         "title": "[base 广州] [及目科技] Web 前端开发工程师（中/高级） [前沿技术] [发展潜力] [未来可期]",
         "link": "https://www.v2ex.com/t/670776",
@@ -27394,6 +27464,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "笑话：大厂都在用的任务调度框架我能不知道吗？？？",
+        "link": "https://toutiao.io/k/vay9bs8",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "这份 Java Web 必读书单，值得所有 Java 工程师一看",
+        "link": "https://toutiao.io/k/2wfcew7",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "Rust vs Go：哪个更受欢迎？",
+        "link": "https://toutiao.io/k/ae5srwg",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "Kotlin 函数式编程和设计模式学习笔记（六）",
+        "link": "https://toutiao.io/k/8bgij5k",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "基于 CAP 模型设计企业级真正高可用的分布式锁",
+        "link": "https://toutiao.io/k/6atly2o",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "GitHub 迎来重大变更：可以直接用 VSCode 编码了",
+        "link": "https://toutiao.io/k/gvbrvvx",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "慎用 ToLower 和 ToUpper，小心把你的系统给拖垮了",
+        "link": "https://toutiao.io/k/0q45t09",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "iOS Appium 自动化测试框架原理简析",
+        "link": "https://toutiao.io/k/kfrja0v",
+        "date": "2020-05-12"
+      },
       {
         "title": "JVM 笔记：性能监控与分析工具",
         "link": "https://toutiao.io/k/c37uhoz",

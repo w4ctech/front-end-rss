@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-12 08:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -430,6 +430,7 @@
 - [【前端圈】视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a)
 - [【前端圈】视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed)
 - [【前端圈】视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138)
+- [【前端大学】【项目实战视频+源码】20w前端程序员疯抢的成长大礼包！](https://www.ershicimi.com/p/ee043396877b393af5dd518e3d860621)
 - [【前端之巅】前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)
 - [【前端迷】视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9)
 - [【Nodejs技术栈】微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0)
@@ -443,7 +444,6 @@
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
 - [【V2EX】MBP-15'-2017-用-Final-Cut-Pro-剪一个-5-分钟的视频都很卡](https://www.v2ex.com/t/670763)
 - [【V2EX】连续更新了十天的视频号，最高一个视频-3.5-万播放，收获-1200-粉丝，有什么要问的吗？](https://www.v2ex.com/t/670723)
-- [【V2EX】急寻一位视频云的总监，-50-岁以内](https://www.v2ex.com/t/670615)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

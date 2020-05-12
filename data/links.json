@@ -3555,6 +3555,11 @@
     "link": "https://www.ershicimi.com/a/10545",
     "items": [
       {
+        "title": "Boa: 在 Node.js 中使用 Python",
+        "link": "https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0",
+        "date": "2020-05-10"
+      },
+      {
         "title": "Nodejs 中基于 Stream 的多文件合并实现",
         "link": "https://www.ershicimi.com/p/537ac76be5a20ec7603b470d2fdfafa4",
         "date": "2020-04-17"

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 00:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 01:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1) ![](assets/new.png)  
-- [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1) ![](assets/new.png)  
-- [2020-05-12-英国新冠肺炎确诊患者新增3403例-累计确诊226463例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1)  
+- [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1)  
+- [2020-05-12-英国新冠肺炎确诊患者新增3403例-累计确诊226463例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1)  
 - [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1)  
 - [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1)  
 - [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1)  
@@ -612,6 +612,7 @@
 </summary>
 
 
+- [2020-05-10-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0) ![](assets/new.png)  
 - [2020-04-17-Nodejs-中基于-Stream-的多文件合并实现](https://www.ershicimi.com/p/537ac76be5a20ec7603b470d2fdfafa4)  
 - [2020-04-15-Node.js-开发者-2020-年度报告](https://www.ershicimi.com/p/60c6d83582f252c19260f71ab577ab10)  
 - [2020-04-14-已经-2020-年了-Deno-现在怎么样了?-|-来自知乎一个回答](https://www.ershicimi.com/p/2fd814347adf358fb707a4655d58cf4e)  

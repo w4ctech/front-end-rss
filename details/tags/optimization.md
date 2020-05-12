@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 17:01:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -25,6 +25,7 @@
 - [2020-04-29-项目不知道如何做性能优化？不妨试一下代码分割](https://www.ershicimi.com/p/ff2cf2e94e2c23273ac49451edbecc44) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [2019-12-03-京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
 - [2016-04-12-前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/) 
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 

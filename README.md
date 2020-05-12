@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 16:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 17:00:21，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -395,8 +395,8 @@
 </summary>
 
 
-- [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f) ![](assets/new.png)  
-- [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073) ![](assets/new.png)  
+- [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)  
+- [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073)  
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
 - [2020-05-11-工程主管有哪些职责？](https://www.ershicimi.com/p/e8183e6f753d90ba9c065703c726fcc0)  
 - [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d)  
@@ -684,6 +684,7 @@
 </summary>
 
 
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
 - [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)  
 - [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/)  
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/)  
@@ -703,7 +704,6 @@
 - [2019-10-31-Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)  
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)  
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)  
-- [2019-10-24-Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,26 +1026,26 @@
 </summary>
 
 
-- [2020-05-12-应届生-OFFER-比较，快手/美团/shopee](https://www.v2ex.com/t/670930)  
-- [2020-05-12-看完-Eloquent-Javascript-这本书，找份前端开发工作的难度大吗](https://www.v2ex.com/t/670929)  
-- [2020-05-12-Pandas-获取数据求助](https://www.v2ex.com/t/670928)  
-- [2020-05-12-深度学习-是一块-2080s-还是一块-2080ti-好一些](https://www.v2ex.com/t/670927)  
-- [2020-05-12-ghost-是只有保存分区为-gho-备份的时候才跳过碎片？](https://www.v2ex.com/t/670926)  
-- [2020-05-12-简单询问一下上海合合信息公司-IT-加班严重吗?](https://www.v2ex.com/t/670925)  
-- [2020-05-12-大家觉得直播行业怎么样啊，听说很多大厂都加入直播大战了，有了解的吗](https://www.v2ex.com/t/670924)  
-- [2020-05-12-已经找好下家，但目前的公司打算拖着我。求解。](https://www.v2ex.com/t/670922)  
-- [2020-05-12-看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921)  
-- [2020-05-12-electron-中使用-web-worker-处理批量文件上传，如何在主进程暂停-web-worker-中某个文件或者全部文件的上传](https://www.v2ex.com/t/670920)  
-- [2020-05-12-大家用-MySQL-全文索引的场景多吗?](https://www.v2ex.com/t/670919)  
-- [2020-05-12-如何显示购票信息](https://www.v2ex.com/t/670918)  
-- [2020-05-12-社招-杭州-鲸算科技-技术大牛快到碗里来~](https://www.v2ex.com/t/670917)  
-- [2020-05-12-请教各位，深圳南山哪里配眼镜比较合适。](https://www.v2ex.com/t/670916)  
-- [2020-05-12-文件上传并存储，有必要分文件夹么？好处是什么？](https://www.v2ex.com/t/670915)  
-- [2020-05-12-头条加班这么夸张的吗？](https://www.v2ex.com/t/670914)  
-- [2020-05-12-一个-blazor-的问题,求指教](https://www.v2ex.com/t/670913)  
-- [2020-05-12-vultr-韩国区服务器已于近期上线](https://www.v2ex.com/t/670912)  
-- [2020-05-12-社招！急招！直推！-腾讯-应用产品开发工程师](https://www.v2ex.com/t/670911)  
-- [2020-05-12-社招内推-快手-2020-年，长期有效](https://www.v2ex.com/t/670910)  
+- [2020-05-12-各位的-web-项目是怎样规划的，都采取了哪些策略？](https://www.v2ex.com/t/670975) ![](assets/new.png)  
+- [2020-05-12-求助，前端如何禁用浏览器提交表单时自动填充？](https://www.v2ex.com/t/670974) ![](assets/new.png)  
+- [2020-05-12-网易云信的霸王条款](https://www.v2ex.com/t/670972) ![](assets/new.png)  
+- [2020-05-12-React-Native-一站式解决方案（一）AsyncStorage](https://www.v2ex.com/t/670971) ![](assets/new.png)  
+- [2020-05-12-坐标上海,本人女,两年工作经验迫于跳槽,求-ui-设计师或交互设计师职位](https://www.v2ex.com/t/670969) ![](assets/new.png)  
+- [2020-05-12-字节跳动内推上海字节跳动电商研发-招聘-后端/前端/测试-开发工程师/Leader](https://www.v2ex.com/t/670968) ![](assets/new.png)  
+- [2020-05-12-岳父可能患癌，请允许我此刻把-V-站当树洞](https://www.v2ex.com/t/670967) ![](assets/new.png)  
+- [2020-05-12-进传统企业做-OA、ERP-怎样？](https://www.v2ex.com/t/670966) ![](assets/new.png)  
+- [2020-05-12-老哥们-golang-写图形化界面-能推荐个框架吗](https://www.v2ex.com/t/670965) ![](assets/new.png)  
+- [2020-05-12-各位帮忙看看我触发啥关键词了？](https://www.v2ex.com/t/670964) ![](assets/new.png)  
+- [2020-05-12-疫情期间，德国找工作直击灵魂三连问，行业还好么，公司还好么，工资还好么……-近期德国-IT-岗位招聘（Web-developer）](https://www.v2ex.com/t/670963) ![](assets/new.png)  
+- [2020-05-12-你们最近都在学什么？](https://www.v2ex.com/t/670962) ![](assets/new.png)  
+- [2020-05-12-没戴头盔，被劝导教育并罚款-50](https://www.v2ex.com/t/670961) ![](assets/new.png)  
+- [2020-05-12-请教大家:用-vultr-的-1c1g-搭了个基于-wordpress-的博客-17ce-一测速-网站就打不开了](https://www.v2ex.com/t/670960) ![](assets/new.png)  
+- [2020-05-12-今天晚上-Winter-给大家直播，聊聊-MVVM](https://www.v2ex.com/t/670959) ![](assets/new.png)  
+- [2020-05-12-求助大佬-js-生成小数点后有一位或两位的随机数](https://www.v2ex.com/t/670958) ![](assets/new.png)  
+- [2020-05-12-微信新版本电脑端左侧栏，手机正在浏览和浮窗内容展示，请问使用场景是什么？](https://www.v2ex.com/t/670957) ![](assets/new.png)  
+- [2020-05-12-深圳还有春招的坑位吗？](https://www.v2ex.com/t/670954) ![](assets/new.png)  
+- [2020-05-12-大咖集结-|-ServerlessDays-·-China-大会嘉宾阵容曝光](https://www.v2ex.com/t/670953) ![](assets/new.png)  
+- [2020-05-12-实习退税进度](https://www.v2ex.com/t/670952) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -3053,6 +3053,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "百度某新员工(应届生)抱怨：前人代码写得像坨*，颠覆了对大厂的认知",
+        "link": "https://www.ershicimi.com/p/108f5f3e47d8deb832dfdcccc771ce54",
+        "date": "2020-05-12"
+      },
+      {
         "title": "前端工程化 - 剖析npm的包管理机制（完整版）",
         "link": "https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d",
         "date": "2020-05-11"
@@ -3168,6 +3173,11 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "主流小程序框架横向对比及使用详解",
+        "link": "https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93",
+        "date": "2020-05-12"
+      },
       {
         "title": "领你入门认识二叉树",
         "link": "https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead",
@@ -6700,6 +6710,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "梦幻西游的号被官方以开挂理由被封，有网易老哥知道解封流程吗",
+        "link": "https://www.v2ex.com/t/670803",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "请教各位大佬，在开发收银终端结账功能时，有啥好的开发逻辑/架构思路吗？",
+        "link": "https://www.v2ex.com/t/670802",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "求组队软件园 D6 附近打羽毛球，或者软件园这边打羽毛球的 qq 群",
+        "link": "https://www.v2ex.com/t/670800",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "多吉有心了，貌似汶川大地震已经被遗忘了。",
+        "link": "https://www.v2ex.com/t/670799",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "外接显示器竖起来，系统里配置旋转 270 度，只要熄屏重新点亮就要重新设置旋转",
+        "link": "https://www.v2ex.com/t/670798",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "crontab 运行 flask 的一个 app 总是执行不成功",
+        "link": "https://www.v2ex.com/t/670795",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "裸金属服务器使用的云存储对比传统存储有什么优势",
+        "link": "https://www.v2ex.com/t/670794",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "2020 年 5 月，现在入手索尼 WF1000XM3 还是 Airpods pro？",
+        "link": "https://www.v2ex.com/t/670793",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "苹果帐号换区时选择「无」付款方式，提示「当前付款方式不正确」？",
+        "link": "https://www.v2ex.com/t/670791",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "chrome 浏览器有单独清理当前域名的缓存插件吗",
+        "link": "https://www.v2ex.com/t/670789",
+        "date": "2020-05-12"
+      },
       {
         "title": "有一种找工作叫“tx 虐我千百遍，我待 tx 如初恋”",
         "link": "https://www.v2ex.com/t/670786",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -315,6 +315,7 @@
 - [2020-03-08-关于-vertical-align-你应该知道的一切](https://www.ershicimi.com/p/84253c80d211b42d653806a6ff8250b9) 
 - [2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-05-12-百度某新员工应届生抱怨：前人代码写得像坨*，颠覆了对大厂的认知](https://www.ershicimi.com/p/108f5f3e47d8deb832dfdcccc771ce54) 
 - [2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed) 
 - [2020-05-09-前端需要了解的9种设计模式](https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312) 
 - [2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) 
@@ -644,6 +645,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-12-梦幻西游的号被官方以开挂理由被封，有网易老哥知道解封流程吗](https://www.v2ex.com/t/670803) 
+- [2020-05-12-请教各位大佬，在开发收银终端结账功能时，有啥好的开发逻辑/架构思路吗？](https://www.v2ex.com/t/670802) 
+- [2020-05-12-求组队软件园-D6-附近打羽毛球，或者软件园这边打羽毛球的-qq-群](https://www.v2ex.com/t/670800) 
+- [2020-05-12-多吉有心了，貌似汶川大地震已经被遗忘了。](https://www.v2ex.com/t/670799) 
+- [2020-05-12-外接显示器竖起来，系统里配置旋转-270-度，只要熄屏重新点亮就要重新设置旋转](https://www.v2ex.com/t/670798) 
+- [2020-05-12-crontab-运行-flask-的一个-app-总是执行不成功](https://www.v2ex.com/t/670795) 
+- [2020-05-12-裸金属服务器使用的云存储对比传统存储有什么优势](https://www.v2ex.com/t/670794) 
+- [2020-05-12-2020-年-5-月，现在入手索尼-WF1000XM3-还是-Airpods-pro？](https://www.v2ex.com/t/670793) 
+- [2020-05-12-苹果帐号换区时选择「无」付款方式，提示「当前付款方式不正确」？](https://www.v2ex.com/t/670791) 
 - [2020-05-12-有一种找工作叫“tx-虐我千百遍，我待-tx-如初恋”](https://www.v2ex.com/t/670786) 
 - [2020-05-12-为啥咸鱼上有那么多老母鸡？](https://www.v2ex.com/t/670784) 
 - [2020-05-12-求助:笔记本电脑经常显示有限的网络连接,重启网卡又好了,过一会又出现](https://www.v2ex.com/t/670783) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -20,6 +20,7 @@
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 
+- [2020-05-12-求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069) 
 - [2020-05-10-后续之前立的写单元测试-Canvas-渲染框架-flag，现在写完开源分享啦](https://www.v2ex.com/t/670168) 
 - [2020-05-06-Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957) 
 - [2020-05-06-热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893) 

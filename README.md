@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 21:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 23:00:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -243,8 +243,8 @@
 </summary>
 
 
-- [2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806) ![](assets/new.png)  
-- [2020-05-12-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/385612a1771b70aa52bc5bb7cef8d513) ![](assets/new.png)  
+- [2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806)  
+- [2020-05-12-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/385612a1771b70aa52bc5bb7cef8d513)  
 - [2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6)  
 - [2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)  
 - [2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8)  
@@ -1001,6 +1001,10 @@
 </summary>
 
 
+- [2020-05-12-12-年过去了，经历过-512-汶川地震的人怎么样了？](https://www.ershicimi.com/p/2307baeecae6345ef8aac07b1ef71e72) ![](assets/new.png)  
+- [2020-05-12-火影忍者次世代动画帷幕，由这个中国广州佬拉开](https://www.ershicimi.com/p/d05755872e2abdfd9991798fdabbca91) ![](assets/new.png)  
+- [2020-05-12-深夜虽然孤独，却适合独立思考](https://www.ershicimi.com/p/5999011e75dc9287838523411ba444c2) ![](assets/new.png)  
+- [2020-05-12-知乎故事-|-人为什么要善良？](https://www.ershicimi.com/p/540790e3ecf23bab90a7578ef41aabe2) ![](assets/new.png)  
 - [2020-05-11-papi-酱孩子随父姓被骂：今天也是「女权」被污名化的一天](https://www.ershicimi.com/p/dcb8cca517949efe737c7d8ae25ec6e3)  
 - [2020-05-11-72-分钟普通人变杀人犯，人性从来经不起试探](https://www.ershicimi.com/p/cc3a6bffc65b390d9e76f2ee0542e4fe)  
 - [2020-05-11-知乎故事-|-四川的猫吃辣吗？](https://www.ershicimi.com/p/f6d3627260fb4322bc8202c3966f150a)  
@@ -1017,10 +1021,6 @@
 - [2020-05-08-知乎故事-|-TA-是我见过最不像混混的混混](https://www.ershicimi.com/p/5420630a13be9da607298985a2fcf3c7)  
 - [2020-05-07-今天想聊聊，我们为什么变成了「知妈乎」](https://www.ershicimi.com/p/162cbcd88c785fec066b4762e4250277)  
 - [2020-05-07-一句话回答：为什么非洲草原似乎都是黄色的？](https://www.ershicimi.com/p/56d7774c6cdcdb1a5d2f86ce817ff827)  
-- [2020-05-07-知乎故事-|-有没有人掉入深层梦境再也醒不来？](https://www.ershicimi.com/p/9eee31444663855c4542571b00c1efd0)  
-- [2020-05-06-警告：你的孩子可能是个「问题儿童」](https://www.ershicimi.com/p/b5c12526c978f48f1539463cf1c9eef9)  
-- [2020-05-06-喝一杯-1-万米水深处的海水会怎么样？](https://www.ershicimi.com/p/47f0140ba954975e73ce93b366c5e9d4)  
-- [2020-05-06-出门看人山人海，不如在家看看这几个公众号](https://www.ershicimi.com/p/f16028c04f76217cc74b1ee1fd4bf45d)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,26 +1032,26 @@
 </summary>
 
 
-- [2020-05-12-打算买个-A2119-的二手，请问有没有鉴别方法？我怕买到假的。](https://www.v2ex.com/t/671051)  
-- [2020-05-12-有类似少数派那样的“专栏”形式的博客主题吗？](https://www.v2ex.com/t/671049)  
-- [2020-05-12-扩散，快到碗里来-深圳香港支付宝前端团队招人](https://www.v2ex.com/t/671048)  
-- [2020-05-12-在一起快-5-年了，没吵过架是什么水平？](https://www.v2ex.com/t/671047)  
-- [2020-05-12-有没有-c-口转-4-个-usb-a-口的转接器？](https://www.v2ex.com/t/671046)  
-- [2020-05-12-有推荐-macOS-上的媒体播放器吗？（需求：支持-HomePod-的-2-秒延迟）](https://www.v2ex.com/t/671045)  
-- [2020-05-12-北京-招聘运维开发-薪资-70w-左右-急！](https://www.v2ex.com/t/671044)  
-- [2020-05-12-看到某推友断言：男程序员普遍都去不可描述的按摩过。所以想在这里做个简单的调查，真相果然如此吗？](https://www.v2ex.com/t/671043)  
-- [2020-05-12-关于-gpw-与毒蝰终极版](https://www.v2ex.com/t/671041)  
-- [2020-05-12-大家的公司有多少人？](https://www.v2ex.com/t/671040)  
-- [2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039)  
-- [2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038)  
-- [2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037)  
-- [2020-05-12-成都-美团外卖成都研发中心大量招聘-前端工程师](https://www.v2ex.com/t/671036)  
-- [2020-05-12-拼多多那个苹果原装扩展坞是真的吗？价格-250](https://www.v2ex.com/t/671035)  
-- [2020-05-12-你们平时划水都干什么啊？](https://www.v2ex.com/t/671034)  
-- [2020-05-12-js-可以获取-iPhone-的设备型号吗？](https://www.v2ex.com/t/671033)  
-- [2020-05-12-深圳-PHP-感觉有点不好找](https://www.v2ex.com/t/671031)  
-- [2020-05-12-C#如何接触对自身文件夹的占用？](https://www.v2ex.com/t/671030)  
-- [2020-05-12-在使用蓝牙耳机的时候-有什么方案可以让手机输出的音频一分二](https://www.v2ex.com/t/671028)  
+- [2020-05-12-金融科技招聘-|-技术专场\-50-100-万-北京/上海/深圳](https://www.v2ex.com/t/671080) ![](assets/new.png)  
+- [2020-05-12-全麻后遗症](https://www.v2ex.com/t/671079) ![](assets/new.png)  
+- [2020-05-12-关于断言的一个疑问，希望可以和懂的人讨论一下，请不吝赐教。](https://www.v2ex.com/t/671078) ![](assets/new.png)  
+- [2020-05-12-删除](https://www.v2ex.com/t/671077) ![](assets/new.png)  
+- [2020-05-12-抢红包如何动态伸缩机子](https://www.v2ex.com/t/671076) ![](assets/new.png)  
+- [2020-05-12-入职-7-天告诉我没加班影响团队](https://www.v2ex.com/t/671075) ![](assets/new.png)  
+- [2020-05-12-Android-Studio-的可视化布局编辑器自动改变组件树的层次结构](https://www.v2ex.com/t/671074) ![](assets/new.png)  
+- [2020-05-12-基于-groovy-实现公式库](https://www.v2ex.com/t/671073) ![](assets/new.png)  
+- [2020-05-12-final-shell-监控命令被当作后门](https://www.v2ex.com/t/671072) ![](assets/new.png)  
+- [2020-05-12-iCloud-+-Apple-Music-开车](https://www.v2ex.com/t/671071) ![](assets/new.png)  
+- [2020-05-12-今年会出-iPad-Air4-吗？会支持-Apple-Pencil-二代吗？](https://www.v2ex.com/t/671070) ![](assets/new.png)  
+- [2020-05-12-求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069) ![](assets/new.png)  
+- [2020-05-12-脚感舒服-LOGO-不大的运动鞋推荐一波吧](https://www.v2ex.com/t/671068) ![](assets/new.png)  
+- [2020-05-12-MySQL-创建完表，整理完关系后怎么用啊？](https://www.v2ex.com/t/671067) ![](assets/new.png)  
+- [2020-05-12-bilibili-的-cdn-又跪了？](https://www.v2ex.com/t/671066) ![](assets/new.png)  
+- [2020-05-12-继前面海外公司账号电汇美金到国内个人账号问题之三，现在海外公司给出的劳工合同不带红头盖章的怎么处理？](https://www.v2ex.com/t/671065) ![](assets/new.png)  
+- [2020-05-12-CSDN-上下载了个-RDP，号称能用在-1809-1909-上结果搞的我桌面坏了](https://www.v2ex.com/t/671062) ![](assets/new.png)  
+- [2020-05-12-所谓的“阿里云工程师”推荐第三方微博客户端，是否算又当又立呢？](https://www.v2ex.com/t/671061) ![](assets/new.png)  
+- [2020-05-12-虚拟公司-招实习生！上限-200-名！](https://www.v2ex.com/t/671059) ![](assets/new.png)  
+- [2020-05-12-有没有这样的数字生成器？](https://www.v2ex.com/t/671058) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1) 
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1) 
 - [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835) 
 - [2020-05-12-国际护士节丨援鄂医疗队队员中护士占比接近70%-其中90后占40%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIJpzouOTZQnsfUhYbYrt200512&isfromapp=1) 
@@ -662,6 +663,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-12-应届生-OFFER-比较，快手/美团/shopee](https://www.v2ex.com/t/670930) 
+- [2020-05-12-Pandas-获取数据求助](https://www.v2ex.com/t/670928) 
+- [2020-05-12-深度学习-是一块-2080s-还是一块-2080ti-好一些](https://www.v2ex.com/t/670927) 
+- [2020-05-12-ghost-是只有保存分区为-gho-备份的时候才跳过碎片？](https://www.v2ex.com/t/670926) 
+- [2020-05-12-简单询问一下上海合合信息公司-IT-加班严重吗?](https://www.v2ex.com/t/670925) 
+- [2020-05-12-已经找好下家，但目前的公司打算拖着我。求解。](https://www.v2ex.com/t/670922) 
+- [2020-05-12-大家用-MySQL-全文索引的场景多吗?](https://www.v2ex.com/t/670919) 
+- [2020-05-12-如何显示购票信息](https://www.v2ex.com/t/670918) 
+- [2020-05-12-社招-杭州-鲸算科技-技术大牛快到碗里来~](https://www.v2ex.com/t/670917) 
 - [2020-05-12-请教各位，深圳南山哪里配眼镜比较合适。](https://www.v2ex.com/t/670916) 
 - [2020-05-12-文件上传并存储，有必要分文件夹么？好处是什么？](https://www.v2ex.com/t/670915) 
 - [2020-05-12-头条加班这么夸张的吗？](https://www.v2ex.com/t/670914) 
@@ -3994,6 +4004,7 @@
 - [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505) 
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
+- [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-YYYY-MM-DD-的黑锅，服务端去背！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13439&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNloXvCIUnXW92W1RazW2WA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

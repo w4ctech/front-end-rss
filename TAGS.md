@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-12 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -442,8 +442,8 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】大家觉得直播行业怎么样啊，听说很多大厂都加入直播大战了，有了解的吗](https://www.v2ex.com/t/670924)
 - [【V2EX】联通手机-app-充-100-元话费送-10-个月腾讯视频会员。](https://www.v2ex.com/t/670866)
-- [【V2EX】MBP-15'-2017-用-Final-Cut-Pro-剪一个-5-分钟的视频都很卡](https://www.v2ex.com/t/670763)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -577,6 +577,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921)
 - [【V2EX】每次部署更新代码，重新编译-Docker-镜像，再更新到生产环境，改动的代码地方很多，但都是比较频繁的小改动。要耗费不少时间，是姿势不对？还是只能这样了?](https://www.v2ex.com/t/670902)
 - [【V2EX】如何解决在使用端口映射情况，-dsm-nginx-跳转到内部端口的问题？](https://www.v2ex.com/t/670880)
 - [【V2EX】Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498)
@@ -587,7 +588,6 @@
 - [【V2EX】CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854)
 - [【V2EX】Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754)
 - [【V2EX】离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)
-- [【V2EX】Docker-容器中基于-Alpine-Linux-镜像，-kill-命令不起作用？](https://www.v2ex.com/t/667733)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

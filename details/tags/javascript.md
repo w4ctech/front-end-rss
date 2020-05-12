@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -127,6 +127,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-12-看完-Eloquent-Javascript-这本书，找份前端开发工作的难度大吗](https://www.v2ex.com/t/670929) 
 - [2020-05-12-关于路由器网络的一点疑问](https://www.v2ex.com/t/670769) 
 - [2020-05-12-家庭网络全局设置部分代理除了路由器按照插件以为还有什么更好的办法？](https://www.v2ex.com/t/670766) 
 - [2020-05-11-Java-字节数组通过-UTF-8-编码成字符串后，无法恢复到原始字节数组](https://www.v2ex.com/t/670738) 

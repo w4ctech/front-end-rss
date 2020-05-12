@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-12 23:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -361,6 +361,7 @@
 - [【前端之巅】工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)
 - [【全栈前端精选】认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)
 - [【程序员成长指北】探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531)
+- [【张鑫旭-鑫空间-鑫生活】快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)
 - [【张鑫旭-鑫空间-鑫生活】借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)
 - [【张鑫旭-鑫空间-鑫生活】了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)
@@ -372,7 +373,6 @@
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
 - [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
-- [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

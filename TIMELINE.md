@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-12 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1) 
@@ -431,6 +433,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026) 
+- [【V2EX】2020-05-12-SE2-好重](https://www.v2ex.com/t/671025) 
+- [【V2EX】2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024) 
+- [【V2EX】2020-05-12-问个-nuxt-框架的问题](https://www.v2ex.com/t/671023) 
+- [【V2EX】2020-05-12-Win7-有“本地连接”和"TAP"，“WLAN"，一共三个网络适配器，写-Python-遇上了这个问题困扰，目前无法解决。。。](https://www.v2ex.com/t/671020) 
+- [【V2EX】2020-05-12-Cloudcone-五月特别促销（大流量）](https://www.v2ex.com/t/671019) 
 - [【V2EX】2020-05-12-大家到-apple-直营店要注意被偷偷更换物件。](https://www.v2ex.com/t/671017) 
 - [【V2EX】2020-05-12-大三暑期实习-Offer-选择，腾讯-TEG/阿里云，求前辈们给点建议](https://www.v2ex.com/t/671016) 
 - [【V2EX】2020-05-12-发现一个经常-10w+，但让我迷惑的公众号](https://www.v2ex.com/t/671015) 

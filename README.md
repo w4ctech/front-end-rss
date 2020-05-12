@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 18:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 19:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762) ![](assets/new.png)  
+- [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1) ![](assets/new.png)  
 - [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
@@ -1028,26 +1030,26 @@
 </summary>
 
 
-- [2020-05-12-大家到-apple-直营店要注意被偷偷更换物件。](https://www.v2ex.com/t/671017) ![](assets/new.png)  
-- [2020-05-12-大三暑期实习-Offer-选择，腾讯-TEG/阿里云，求前辈们给点建议](https://www.v2ex.com/t/671016) ![](assets/new.png)  
-- [2020-05-12-发现一个经常-10w+，但让我迷惑的公众号](https://www.v2ex.com/t/671015) ![](assets/new.png)  
-- [2020-05-12-bibibi-献给年轻一代程序猿的演讲-゜-゜つロ-干杯~-bilibili](https://www.v2ex.com/t/671014) ![](assets/new.png)  
-- [2020-05-12-mysql-保存族谱应该怎么设计?](https://www.v2ex.com/t/671013) ![](assets/new.png)  
-- [2020-05-12-📢字节跳动---飞书内推岗位👏👏👏](https://www.v2ex.com/t/671012) ![](assets/new.png)  
-- [2020-05-12-老主板接口转换求助](https://www.v2ex.com/t/671011) ![](assets/new.png)  
-- [2020-05-12-django-使用-orm-修改某个数据库字段值时,-save后大约过了三分钟,这个字段的值又回到了修改之前的值.-不是每次都必现的](https://www.v2ex.com/t/671010) ![](assets/new.png)  
-- [2020-05-12-我，搞计算机的，一部《键来》献给大家](https://www.v2ex.com/t/671009) ![](assets/new.png)  
-- [2020-05-12-最近-16-寸-MacBook-长时间-sleep-后,唤醒就不能播放-HTML5-视频了](https://www.v2ex.com/t/671005) ![](assets/new.png)  
+- [2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026) ![](assets/new.png)  
+- [2020-05-12-SE2-好重](https://www.v2ex.com/t/671025) ![](assets/new.png)  
+- [2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024) ![](assets/new.png)  
+- [2020-05-12-问个-nuxt-框架的问题](https://www.v2ex.com/t/671023) ![](assets/new.png)  
+- [2020-05-12-Win7-有“本地连接”和"TAP"，“WLAN"，一共三个网络适配器，写-Python-遇上了这个问题困扰，目前无法解决。。。](https://www.v2ex.com/t/671020) ![](assets/new.png)  
+- [2020-05-12-Cloudcone-五月特别促销（大流量）](https://www.v2ex.com/t/671019) ![](assets/new.png)  
+- [2020-05-12-大家到-apple-直营店要注意被偷偷更换物件。](https://www.v2ex.com/t/671017)  
+- [2020-05-12-大三暑期实习-Offer-选择，腾讯-TEG/阿里云，求前辈们给点建议](https://www.v2ex.com/t/671016)  
+- [2020-05-12-发现一个经常-10w+，但让我迷惑的公众号](https://www.v2ex.com/t/671015)  
+- [2020-05-12-bibibi-献给年轻一代程序猿的演讲-゜-゜つロ-干杯~-bilibili](https://www.v2ex.com/t/671014)  
+- [2020-05-12-mysql-保存族谱应该怎么设计?](https://www.v2ex.com/t/671013)  
+- [2020-05-12-📢字节跳动---飞书内推岗位👏👏👏](https://www.v2ex.com/t/671012)  
+- [2020-05-12-老主板接口转换求助](https://www.v2ex.com/t/671011)  
+- [2020-05-12-django-使用-orm-修改某个数据库字段值时,-save后大约过了三分钟,这个字段的值又回到了修改之前的值.-不是每次都必现的](https://www.v2ex.com/t/671010)  
+- [2020-05-12-我，搞计算机的，一部《键来》献给大家](https://www.v2ex.com/t/671009)  
+- [2020-05-12-最近-16-寸-MacBook-长时间-sleep-后,唤醒就不能播放-HTML5-视频了](https://www.v2ex.com/t/671005)  
 - [2020-05-12-论坛有打算翻出去读书的可以看看这个消息](https://www.v2ex.com/t/671004)  
 - [2020-05-12-宠物社区小程序寻人~~全栈-Vue-前端-UI-来聊！](https://www.v2ex.com/t/671003)  
 - [2020-05-12-threadlocal-到底什么情况下会内存泄漏？](https://www.v2ex.com/t/671002)  
 - [2020-05-12-不懂了问一下，生产环境难道不应该关掉-sourcemap-吗？](https://www.v2ex.com/t/671001)  
-- [2020-05-12-上海-ios-有好的坑吗?](https://www.v2ex.com/t/671000)  
-- [2020-05-12-深圳-阿里巴巴-Lazada-国际化赛道，待遇优厚，-Base-深圳阿里中心。-大量-HC-前后端/iOS/Android](https://www.v2ex.com/t/670999)  
-- [2020-05-12-字节跳动飞书业务大量岗位招聘中。六大城市都有岗位哦，面试指导，内推跟进一条龙服务。](https://www.v2ex.com/t/670998)  
-- [2020-05-12-讲座-阿里面试官在线详解前端面试考点](https://www.v2ex.com/t/670997)  
-- [2020-05-12-毕业了下载自己发的论文要收费呐，为啥奇迹文库（qiji.cn/Eprint）也歇菜嘤](https://www.v2ex.com/t/670994)  
-- [2020-05-12-哪位前辈会帝国批量替换的正则表达式呀](https://www.v2ex.com/t/670993)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

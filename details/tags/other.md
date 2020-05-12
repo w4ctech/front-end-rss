@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762) 
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1) 
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1) 
 - [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835) 
@@ -668,6 +669,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026) 
+- [2020-05-12-SE2-好重](https://www.v2ex.com/t/671025) 
+- [2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024) 
+- [2020-05-12-问个-nuxt-框架的问题](https://www.v2ex.com/t/671023) 
+- [2020-05-12-Cloudcone-五月特别促销（大流量）](https://www.v2ex.com/t/671019) 
 - [2020-05-12-大家到-apple-直营店要注意被偷偷更换物件。](https://www.v2ex.com/t/671017) 
 - [2020-05-12-大三暑期实习-Offer-选择，腾讯-TEG/阿里云，求前辈们给点建议](https://www.v2ex.com/t/671016) 
 - [2020-05-12-发现一个经常-10w+，但让我迷惑的公众号](https://www.v2ex.com/t/671015) 

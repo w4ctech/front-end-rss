@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 17:01:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -405,6 +405,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-05-12-最后一天，立省52元！你的青春必须有奇舞团的前端课](https://www.ershicimi.com/p/4a588ca2ef0a81646d5520a316d7abde) 
+- [2020-05-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9aa33d8e3b6e21b0ac443b99512a40bb) 
 - [2020-05-11-Deno-1.0，来了解一下](https://www.ershicimi.com/p/20c461d7e309394183c86ae8a86e2601) 
 - [2020-05-11-最后两天！！留给你学习的时间不多了](https://www.ershicimi.com/p/b63ae480c4fc2f072cd2bb70145c79c6) 
 - [2020-05-11-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/57c687def7a7c4d8fa7b47999a5fc16e) 
@@ -426,6 +428,8 @@
 - [2020-04-19-你也是一边想要放弃，一边进步吗？](https://www.ershicimi.com/p/830ac98b11dba8de5c5a89af30838c9d) 
 - [2020-04-19-CML-源码剖析系列-前言](https://www.ershicimi.com/p/057f43052c2caeddd2aa1a2230b4c315) 
 - [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
+- [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc) 
+- [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327) 
 - [2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
 - [2020-04-28-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/2c8db26674c85519133964c737caaac7) 
 - [2020-04-25-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/e45ac76265ac9f8e71ddefcc84c6382c) 

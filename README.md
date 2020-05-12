@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 17:00:21，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 17:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,9 +39,9 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
-- [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [凹凸实验室](#凹凸实验室)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -684,7 +684,7 @@
 </summary>
 
 
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)  
 - [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)  
 - [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/)  
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/)  
@@ -715,6 +715,8 @@
 </summary>
 
 
+- [2020-05-12-最后一天，立省52元！你的青春必须有奇舞团的前端课](https://www.ershicimi.com/p/4a588ca2ef0a81646d5520a316d7abde) ![](assets/new.png)  
+- [2020-05-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9aa33d8e3b6e21b0ac443b99512a40bb) ![](assets/new.png)  
 - [2020-05-11-Deno-1.0，来了解一下](https://www.ershicimi.com/p/20c461d7e309394183c86ae8a86e2601)  
 - [2020-05-11-最后两天！！留给你学习的时间不多了](https://www.ershicimi.com/p/b63ae480c4fc2f072cd2bb70145c79c6)  
 - [2020-05-11-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/57c687def7a7c4d8fa7b47999a5fc16e)  
@@ -733,8 +735,6 @@
 - [2020-04-30-这个春天，我投了300份简历至今-零-offer](https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523)  
 - [2020-04-29-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/085566f6c8937190443b9da12db2b504)  
 - [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be)  
-- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253)  
-- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -746,6 +746,8 @@
 </summary>
 
 
+- [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc) ![](assets/new.png)  
+- [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327) ![](assets/new.png)  
 - [2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb)  
 - [2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd)  
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61)  
@@ -1026,26 +1028,26 @@
 </summary>
 
 
-- [2020-05-12-各位的-web-项目是怎样规划的，都采取了哪些策略？](https://www.v2ex.com/t/670975) ![](assets/new.png)  
-- [2020-05-12-求助，前端如何禁用浏览器提交表单时自动填充？](https://www.v2ex.com/t/670974) ![](assets/new.png)  
-- [2020-05-12-网易云信的霸王条款](https://www.v2ex.com/t/670972) ![](assets/new.png)  
-- [2020-05-12-React-Native-一站式解决方案（一）AsyncStorage](https://www.v2ex.com/t/670971) ![](assets/new.png)  
-- [2020-05-12-坐标上海,本人女,两年工作经验迫于跳槽,求-ui-设计师或交互设计师职位](https://www.v2ex.com/t/670969) ![](assets/new.png)  
-- [2020-05-12-字节跳动内推上海字节跳动电商研发-招聘-后端/前端/测试-开发工程师/Leader](https://www.v2ex.com/t/670968) ![](assets/new.png)  
-- [2020-05-12-岳父可能患癌，请允许我此刻把-V-站当树洞](https://www.v2ex.com/t/670967) ![](assets/new.png)  
-- [2020-05-12-进传统企业做-OA、ERP-怎样？](https://www.v2ex.com/t/670966) ![](assets/new.png)  
-- [2020-05-12-老哥们-golang-写图形化界面-能推荐个框架吗](https://www.v2ex.com/t/670965) ![](assets/new.png)  
-- [2020-05-12-各位帮忙看看我触发啥关键词了？](https://www.v2ex.com/t/670964) ![](assets/new.png)  
-- [2020-05-12-疫情期间，德国找工作直击灵魂三连问，行业还好么，公司还好么，工资还好么……-近期德国-IT-岗位招聘（Web-developer）](https://www.v2ex.com/t/670963) ![](assets/new.png)  
-- [2020-05-12-你们最近都在学什么？](https://www.v2ex.com/t/670962) ![](assets/new.png)  
-- [2020-05-12-没戴头盔，被劝导教育并罚款-50](https://www.v2ex.com/t/670961) ![](assets/new.png)  
-- [2020-05-12-请教大家:用-vultr-的-1c1g-搭了个基于-wordpress-的博客-17ce-一测速-网站就打不开了](https://www.v2ex.com/t/670960) ![](assets/new.png)  
-- [2020-05-12-今天晚上-Winter-给大家直播，聊聊-MVVM](https://www.v2ex.com/t/670959) ![](assets/new.png)  
-- [2020-05-12-求助大佬-js-生成小数点后有一位或两位的随机数](https://www.v2ex.com/t/670958) ![](assets/new.png)  
-- [2020-05-12-微信新版本电脑端左侧栏，手机正在浏览和浮窗内容展示，请问使用场景是什么？](https://www.v2ex.com/t/670957) ![](assets/new.png)  
-- [2020-05-12-深圳还有春招的坑位吗？](https://www.v2ex.com/t/670954) ![](assets/new.png)  
-- [2020-05-12-大咖集结-|-ServerlessDays-·-China-大会嘉宾阵容曝光](https://www.v2ex.com/t/670953) ![](assets/new.png)  
-- [2020-05-12-实习退税进度](https://www.v2ex.com/t/670952) ![](assets/new.png)  
+- [2020-05-12-各位的-web-项目是怎样规划的，都采取了哪些策略？](https://www.v2ex.com/t/670975)  
+- [2020-05-12-求助，前端如何禁用浏览器提交表单时自动填充？](https://www.v2ex.com/t/670974)  
+- [2020-05-12-网易云信的霸王条款](https://www.v2ex.com/t/670972)  
+- [2020-05-12-React-Native-一站式解决方案（一）AsyncStorage](https://www.v2ex.com/t/670971)  
+- [2020-05-12-坐标上海,本人女,两年工作经验迫于跳槽,求-ui-设计师或交互设计师职位](https://www.v2ex.com/t/670969)  
+- [2020-05-12-字节跳动内推上海字节跳动电商研发-招聘-后端/前端/测试-开发工程师/Leader](https://www.v2ex.com/t/670968)  
+- [2020-05-12-岳父可能患癌，请允许我此刻把-V-站当树洞](https://www.v2ex.com/t/670967)  
+- [2020-05-12-进传统企业做-OA、ERP-怎样？](https://www.v2ex.com/t/670966)  
+- [2020-05-12-老哥们-golang-写图形化界面-能推荐个框架吗](https://www.v2ex.com/t/670965)  
+- [2020-05-12-各位帮忙看看我触发啥关键词了？](https://www.v2ex.com/t/670964)  
+- [2020-05-12-疫情期间，德国找工作直击灵魂三连问，行业还好么，公司还好么，工资还好么……-近期德国-IT-岗位招聘（Web-developer）](https://www.v2ex.com/t/670963)  
+- [2020-05-12-你们最近都在学什么？](https://www.v2ex.com/t/670962)  
+- [2020-05-12-没戴头盔，被劝导教育并罚款-50](https://www.v2ex.com/t/670961)  
+- [2020-05-12-请教大家:用-vultr-的-1c1g-搭了个基于-wordpress-的博客-17ce-一测速-网站就打不开了](https://www.v2ex.com/t/670960)  
+- [2020-05-12-今天晚上-Winter-给大家直播，聊聊-MVVM](https://www.v2ex.com/t/670959)  
+- [2020-05-12-求助大佬-js-生成小数点后有一位或两位的随机数](https://www.v2ex.com/t/670958)  
+- [2020-05-12-微信新版本电脑端左侧栏，手机正在浏览和浮窗内容展示，请问使用场景是什么？](https://www.v2ex.com/t/670957)  
+- [2020-05-12-深圳还有春招的坑位吗？](https://www.v2ex.com/t/670954)  
+- [2020-05-12-大咖集结-|-ServerlessDays-·-China-大会嘉宾阵容曝光](https://www.v2ex.com/t/670953)  
+- [2020-05-12-实习退税进度](https://www.v2ex.com/t/670952)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

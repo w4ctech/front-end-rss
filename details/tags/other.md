@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1) 
+- [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1) 
 - [2020-05-12-国际护士节丨护士许秋英：尽我所能-带给患者更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU9ph9oWgJp8k3pvzusaX200512&isfromapp=1) 
 - [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762) 
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1) 
@@ -673,6 +675,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-12-关于一个线程锁的问题](https://www.v2ex.com/t/671087) 
+- [2020-05-12-小花科技---资深-Java-工程师---自己带团队---待遇从优](https://www.v2ex.com/t/671086) 
+- [2020-05-12-为什么几乎每个鼠标用到一定时间后,都会“单击”变“双击”?](https://www.v2ex.com/t/671085) 
+- [2020-05-12-目前有在沙河，朱辛庄附近的老铁吗？租房情况如何？](https://www.v2ex.com/t/671084) 
+- [2020-05-12-各位的电蚊拍一次充满电能用多久？有几年前的电蚊拍现在还能一次充电超长续航的吗？](https://www.v2ex.com/t/671083) 
+- [2020-05-12-求推荐-venkat-subramaniam-写的书](https://www.v2ex.com/t/671082) 
+- [2020-05-12-iPhone-有什么-app-可以设置每-10-分钟响一次么？](https://www.v2ex.com/t/671081) 
 - [2020-05-12-全麻后遗症](https://www.v2ex.com/t/671079) 
 - [2020-05-12-关于断言的一个疑问，希望可以和懂的人讨论一下，请不吝赐教。](https://www.v2ex.com/t/671078) 
 - [2020-05-12-删除](https://www.v2ex.com/t/671077) 

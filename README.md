@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 23:00:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 23:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1) ![](assets/new.png)  
 - [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨护士许秋英：尽我所能-带给患者更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU9ph9oWgJp8k3pvzusaX200512&isfromapp=1)  
 - [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762)  
@@ -1001,10 +1003,10 @@
 </summary>
 
 
-- [2020-05-12-12-年过去了，经历过-512-汶川地震的人怎么样了？](https://www.ershicimi.com/p/2307baeecae6345ef8aac07b1ef71e72) ![](assets/new.png)  
-- [2020-05-12-火影忍者次世代动画帷幕，由这个中国广州佬拉开](https://www.ershicimi.com/p/d05755872e2abdfd9991798fdabbca91) ![](assets/new.png)  
-- [2020-05-12-深夜虽然孤独，却适合独立思考](https://www.ershicimi.com/p/5999011e75dc9287838523411ba444c2) ![](assets/new.png)  
-- [2020-05-12-知乎故事-|-人为什么要善良？](https://www.ershicimi.com/p/540790e3ecf23bab90a7578ef41aabe2) ![](assets/new.png)  
+- [2020-05-12-12-年过去了，经历过-512-汶川地震的人怎么样了？](https://www.ershicimi.com/p/2307baeecae6345ef8aac07b1ef71e72)  
+- [2020-05-12-火影忍者次世代动画帷幕，由这个中国广州佬拉开](https://www.ershicimi.com/p/d05755872e2abdfd9991798fdabbca91)  
+- [2020-05-12-深夜虽然孤独，却适合独立思考](https://www.ershicimi.com/p/5999011e75dc9287838523411ba444c2)  
+- [2020-05-12-知乎故事-|-人为什么要善良？](https://www.ershicimi.com/p/540790e3ecf23bab90a7578ef41aabe2)  
 - [2020-05-11-papi-酱孩子随父姓被骂：今天也是「女权」被污名化的一天](https://www.ershicimi.com/p/dcb8cca517949efe737c7d8ae25ec6e3)  
 - [2020-05-11-72-分钟普通人变杀人犯，人性从来经不起试探](https://www.ershicimi.com/p/cc3a6bffc65b390d9e76f2ee0542e4fe)  
 - [2020-05-11-知乎故事-|-四川的猫吃辣吗？](https://www.ershicimi.com/p/f6d3627260fb4322bc8202c3966f150a)  
@@ -1032,26 +1034,26 @@
 </summary>
 
 
-- [2020-05-12-金融科技招聘-|-技术专场\-50-100-万-北京/上海/深圳](https://www.v2ex.com/t/671080) ![](assets/new.png)  
-- [2020-05-12-全麻后遗症](https://www.v2ex.com/t/671079) ![](assets/new.png)  
-- [2020-05-12-关于断言的一个疑问，希望可以和懂的人讨论一下，请不吝赐教。](https://www.v2ex.com/t/671078) ![](assets/new.png)  
-- [2020-05-12-删除](https://www.v2ex.com/t/671077) ![](assets/new.png)  
-- [2020-05-12-抢红包如何动态伸缩机子](https://www.v2ex.com/t/671076) ![](assets/new.png)  
-- [2020-05-12-入职-7-天告诉我没加班影响团队](https://www.v2ex.com/t/671075) ![](assets/new.png)  
-- [2020-05-12-Android-Studio-的可视化布局编辑器自动改变组件树的层次结构](https://www.v2ex.com/t/671074) ![](assets/new.png)  
-- [2020-05-12-基于-groovy-实现公式库](https://www.v2ex.com/t/671073) ![](assets/new.png)  
-- [2020-05-12-final-shell-监控命令被当作后门](https://www.v2ex.com/t/671072) ![](assets/new.png)  
-- [2020-05-12-iCloud-+-Apple-Music-开车](https://www.v2ex.com/t/671071) ![](assets/new.png)  
-- [2020-05-12-今年会出-iPad-Air4-吗？会支持-Apple-Pencil-二代吗？](https://www.v2ex.com/t/671070) ![](assets/new.png)  
-- [2020-05-12-求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069) ![](assets/new.png)  
-- [2020-05-12-脚感舒服-LOGO-不大的运动鞋推荐一波吧](https://www.v2ex.com/t/671068) ![](assets/new.png)  
-- [2020-05-12-MySQL-创建完表，整理完关系后怎么用啊？](https://www.v2ex.com/t/671067) ![](assets/new.png)  
-- [2020-05-12-bilibili-的-cdn-又跪了？](https://www.v2ex.com/t/671066) ![](assets/new.png)  
-- [2020-05-12-继前面海外公司账号电汇美金到国内个人账号问题之三，现在海外公司给出的劳工合同不带红头盖章的怎么处理？](https://www.v2ex.com/t/671065) ![](assets/new.png)  
-- [2020-05-12-CSDN-上下载了个-RDP，号称能用在-1809-1909-上结果搞的我桌面坏了](https://www.v2ex.com/t/671062) ![](assets/new.png)  
-- [2020-05-12-所谓的“阿里云工程师”推荐第三方微博客户端，是否算又当又立呢？](https://www.v2ex.com/t/671061) ![](assets/new.png)  
-- [2020-05-12-虚拟公司-招实习生！上限-200-名！](https://www.v2ex.com/t/671059) ![](assets/new.png)  
-- [2020-05-12-有没有这样的数字生成器？](https://www.v2ex.com/t/671058) ![](assets/new.png)  
+- [2020-05-12-关于一个线程锁的问题](https://www.v2ex.com/t/671087) ![](assets/new.png)  
+- [2020-05-12-小花科技---资深-Java-工程师---自己带团队---待遇从优](https://www.v2ex.com/t/671086) ![](assets/new.png)  
+- [2020-05-12-为什么几乎每个鼠标用到一定时间后,都会“单击”变“双击”?](https://www.v2ex.com/t/671085) ![](assets/new.png)  
+- [2020-05-12-目前有在沙河，朱辛庄附近的老铁吗？租房情况如何？](https://www.v2ex.com/t/671084) ![](assets/new.png)  
+- [2020-05-12-各位的电蚊拍一次充满电能用多久？有几年前的电蚊拍现在还能一次充电超长续航的吗？](https://www.v2ex.com/t/671083) ![](assets/new.png)  
+- [2020-05-12-求推荐-venkat-subramaniam-写的书](https://www.v2ex.com/t/671082) ![](assets/new.png)  
+- [2020-05-12-iPhone-有什么-app-可以设置每-10-分钟响一次么？](https://www.v2ex.com/t/671081) ![](assets/new.png)  
+- [2020-05-12-金融科技招聘-|-技术专场\-50-100-万-北京/上海/深圳](https://www.v2ex.com/t/671080)  
+- [2020-05-12-全麻后遗症](https://www.v2ex.com/t/671079)  
+- [2020-05-12-关于断言的一个疑问，希望可以和懂的人讨论一下，请不吝赐教。](https://www.v2ex.com/t/671078)  
+- [2020-05-12-删除](https://www.v2ex.com/t/671077)  
+- [2020-05-12-抢红包如何动态伸缩机子](https://www.v2ex.com/t/671076)  
+- [2020-05-12-入职-7-天告诉我没加班影响团队](https://www.v2ex.com/t/671075)  
+- [2020-05-12-Android-Studio-的可视化布局编辑器自动改变组件树的层次结构](https://www.v2ex.com/t/671074)  
+- [2020-05-12-基于-groovy-实现公式库](https://www.v2ex.com/t/671073)  
+- [2020-05-12-final-shell-监控命令被当作后门](https://www.v2ex.com/t/671072)  
+- [2020-05-12-iCloud-+-Apple-Music-开车](https://www.v2ex.com/t/671071)  
+- [2020-05-12-今年会出-iPad-Air4-吗？会支持-Apple-Pencil-二代吗？](https://www.v2ex.com/t/671070)  
+- [2020-05-12-求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069)  
+- [2020-05-12-脚感舒服-LOGO-不大的运动鞋推荐一波吧](https://www.v2ex.com/t/671068)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

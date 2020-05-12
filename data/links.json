@@ -1970,6 +1970,11 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "你可以这样优化 if-else 代码结构",
+        "link": "https://www.ershicimi.com/p/0e285fd75086b4c139fd1ffd61627657",
+        "date": "2020-05-12"
+      },
+      {
         "title": "你今年还敢和老板谈加薪吗？",
         "link": "https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c",
         "date": "2020-05-11"
@@ -2671,6 +2676,11 @@
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
+      {
+        "title": "动手开发一个适用于公司项目的脚手架",
+        "link": "https://www.ershicimi.com/p/9858c348c3435a92d3a69ef7c55fd006",
+        "date": "2020-05-12"
+      },
       {
         "title": "搞懂 Vue 3.0 三天就够了",
         "link": "https://www.ershicimi.com/p/8d784a803dd94716f9f813aaa0c076b4",
@@ -4940,6 +4950,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "推荐一款 IDEA 生成代码神器，写代码再也不用加班了！",
+        "link": "https://www.ershicimi.com/p/0a9e6cecc2cb950460cea9338e032a6d",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "已经被说“烂”的微服务，到底是个什么鬼？通过拆分实战案例来带你入门。",
+        "link": "https://www.ershicimi.com/p/b10196e25801931decbd9bfb6d25d1eb",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "面试官：你的缺点是什么？这样回答漂亮！",
+        "link": "https://www.ershicimi.com/p/9b17a3631e7baaa22a1ce96bfc3a4865",
+        "date": "2020-05-12"
+      },
+      {
         "title": "大事件！35的程序员竟然失去了面试资格，这是为什么？",
         "link": "https://www.ershicimi.com/p/719593f0243b1798992688dde072f570",
         "date": "2020-05-11"
@@ -6715,6 +6740,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "有硬件小伙伴想接私活的嘛，对车机、功放、蓝牙传输有了解的最好",
+        "link": "https://www.v2ex.com/t/670835",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "关于读写分离",
+        "link": "https://www.v2ex.com/t/670834",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "寻找对宠物方向的产品感兴趣的伙伴 全栈 Vue 前端 UI",
+        "link": "https://www.v2ex.com/t/670833",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "这种类型的图用什么工具可以画？",
+        "link": "https://www.v2ex.com/t/670832",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "iPhone 12 系列参数/售价爆料",
+        "link": "https://www.v2ex.com/t/670831",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "关于排行榜的程序设计",
+        "link": "https://www.v2ex.com/t/670830",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "求助！关于辞退绩效考核",
+        "link": "https://www.v2ex.com/t/670829",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "read 函数第三个参数是不带符号的整型，返回值是带符号的整型，这么设计感觉不合理啊",
+        "link": "https://www.v2ex.com/t/670828",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "天通苑附近有 安卓 待业的朋友吗。。 做兼职也 ok 啊。",
+        "link": "https://www.v2ex.com/t/670827",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "HFish 0.6.2 发布，用这块大屏监测黑客攻击不香吗？",
+        "link": "https://www.v2ex.com/t/670826",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "关于 IDaaS 的想法",
+        "link": "https://www.v2ex.com/t/670825",
+        "date": "2020-05-12"
+      },
       {
         "title": "android 手机怎么设置电话铃声，短信、app 等其他消息静音？",
         "link": "https://www.v2ex.com/t/670824",

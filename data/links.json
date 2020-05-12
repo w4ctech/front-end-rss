@@ -5674,6 +5674,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "前端圈为啥贫富分化越来越严重？",
+        "link": "https://www.ershicimi.com/p/ae1b4e5c8b6a83c2e118ee9b751f837b",
+        "date": "2020-05-12"
+      },
+      {
         "title": "搞懂 Vue 3.0  三天就够了",
         "link": "https://www.ershicimi.com/p/c5c65e9de32e3164af856903896e6647",
         "date": "2020-05-11"
@@ -6710,6 +6715,81 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "android 手机怎么设置电话铃声，短信、app 等其他消息静音？",
+        "link": "https://www.v2ex.com/t/670824",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "请问 shadowrocket iOS 如何配置 app 是否走代理",
+        "link": "https://www.v2ex.com/t/670823",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "奉劝各位，不要去网易，不要去网易",
+        "link": "https://www.v2ex.com/t/670822",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "手上有少量 AWS 想转，怎么让国外用户知道啊",
+        "link": "https://www.v2ex.com/t/670821",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "孩子要不要随父姓这种话题是怎么有热度的？",
+        "link": "https://www.v2ex.com/t/670820",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "手机不支持无线充电，想买无线充电贴片，有人买过吗?",
+        "link": "https://www.v2ex.com/t/670817",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "PHP 小白菜，想寻求突破。",
+        "link": "https://www.v2ex.com/t/670816",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "学 springboot 的时候直接就是 REST（@RestController），现在想补下 ModelAndView 的用法，有什么好的资料么?",
+        "link": "https://www.v2ex.com/t/670815",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "看到周边朋友都结婚了，而自己的婚姻还未确定，有点心烦意乱",
+        "link": "https://www.v2ex.com/t/670813",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "面向职场人的基础技能课程是否有前途？",
+        "link": "https://www.v2ex.com/t/670812",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "突然发现淘宝有 100 块天猫无门槛红包再过 3 天就到期了! 不知道买啥求推荐?",
+        "link": "https://www.v2ex.com/t/670809",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "话说有没有把离线 HTML 转成类似 dash 文档的方法来看，可以方便搜索的？",
+        "link": "https://www.v2ex.com/t/670808",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "请教 jenkins 发布流程的问题",
+        "link": "https://www.v2ex.com/t/670807",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "蓝湖开始收费了",
+        "link": "https://www.v2ex.com/t/670806",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "大家都是从什么地方下载音乐的，发现这几天墨灵音乐不能用了啊，急！",
+        "link": "https://www.v2ex.com/t/670804",
+        "date": "2020-05-12"
+      },
       {
         "title": "梦幻西游的号被官方以开挂理由被封，有网易老哥知道解封流程吗",
         "link": "https://www.v2ex.com/t/670803",
@@ -27524,6 +27604,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "推荐几个堪称教科书级别的 Android 音视频入门项目",
+        "link": "https://toutiao.io/k/pldvja4",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "一口气说出 6 种延时队列的实现方法，面试官也得服",
+        "link": "https://toutiao.io/k/qe29lhr",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "如何在端外投放的场景下实现前端实时 CEP 框架？",
+        "link": "https://toutiao.io/k/607j7uz",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "“我是大厂面试官” Java 集合，你肯定也会被问到这些",
+        "link": "https://toutiao.io/k/brtzw0z",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "我是如何让微博绿洲的启动速度提升 30 %的（二）",
+        "link": "https://toutiao.io/k/5ttu3af",
+        "date": "2020-05-12"
+      },
       {
         "title": "笑话：大厂都在用的任务调度框架我能不知道吗？？？",
         "link": "https://toutiao.io/k/vay9bs8",

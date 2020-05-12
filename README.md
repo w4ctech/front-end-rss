@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 19:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 20:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -1030,26 +1030,26 @@
 </summary>
 
 
-- [2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039) ![](assets/new.png)  
-- [2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038) ![](assets/new.png)  
-- [2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037) ![](assets/new.png)  
-- [2020-05-12-成都-美团外卖成都研发中心大量招聘-前端工程师](https://www.v2ex.com/t/671036) ![](assets/new.png)  
-- [2020-05-12-拼多多那个苹果原装扩展坞是真的吗？价格-250](https://www.v2ex.com/t/671035) ![](assets/new.png)  
-- [2020-05-12-你们平时划水都干什么啊？](https://www.v2ex.com/t/671034) ![](assets/new.png)  
-- [2020-05-12-js-可以获取-iPhone-的设备型号吗？](https://www.v2ex.com/t/671033) ![](assets/new.png)  
-- [2020-05-12-深圳-PHP-感觉有点不好找](https://www.v2ex.com/t/671031) ![](assets/new.png)  
-- [2020-05-12-C#如何接触对自身文件夹的占用？](https://www.v2ex.com/t/671030) ![](assets/new.png)  
-- [2020-05-12-在使用蓝牙耳机的时候-有什么方案可以让手机输出的音频一分二](https://www.v2ex.com/t/671028) ![](assets/new.png)  
-- [2020-05-12-校招新人想问问大佬们都是怎么跳槽的](https://www.v2ex.com/t/671026)  
-- [2020-05-12-SE2-好重](https://www.v2ex.com/t/671025)  
-- [2020-05-12-怎么快速检测-mac-上的软件，是否有-mas-版本呢？](https://www.v2ex.com/t/671024)  
-- [2020-05-12-问个-nuxt-框架的问题](https://www.v2ex.com/t/671023)  
-- [2020-05-12-Win7-有“本地连接”和"TAP"，“WLAN"，一共三个网络适配器，写-Python-遇上了这个问题困扰，目前无法解决。。。](https://www.v2ex.com/t/671020)  
-- [2020-05-12-Cloudcone-五月特别促销（大流量）](https://www.v2ex.com/t/671019)  
-- [2020-05-12-大家到-apple-直营店要注意被偷偷更换物件。](https://www.v2ex.com/t/671017)  
-- [2020-05-12-大三暑期实习-Offer-选择，腾讯-TEG/阿里云，求前辈们给点建议](https://www.v2ex.com/t/671016)  
-- [2020-05-12-发现一个经常-10w+，但让我迷惑的公众号](https://www.v2ex.com/t/671015)  
-- [2020-05-12-bibibi-献给年轻一代程序猿的演讲-゜-゜つロ-干杯~-bilibili](https://www.v2ex.com/t/671014)  
+- [2020-05-12-打算买个-A2119-的二手，请问有没有鉴别方法？我怕买到假的。](https://www.v2ex.com/t/671051) ![](assets/new.png)  
+- [2020-05-12-有类似少数派那样的“专栏”形式的博客主题吗？](https://www.v2ex.com/t/671049) ![](assets/new.png)  
+- [2020-05-12-扩散，快到碗里来-深圳香港支付宝前端团队招人](https://www.v2ex.com/t/671048) ![](assets/new.png)  
+- [2020-05-12-在一起快-5-年了，没吵过架是什么水平？](https://www.v2ex.com/t/671047) ![](assets/new.png)  
+- [2020-05-12-有没有-c-口转-4-个-usb-a-口的转接器？](https://www.v2ex.com/t/671046) ![](assets/new.png)  
+- [2020-05-12-有推荐-macOS-上的媒体播放器吗？（需求：支持-HomePod-的-2-秒延迟）](https://www.v2ex.com/t/671045) ![](assets/new.png)  
+- [2020-05-12-北京-招聘运维开发-薪资-70w-左右-急！](https://www.v2ex.com/t/671044) ![](assets/new.png)  
+- [2020-05-12-看到某推友断言：男程序员普遍都去不可描述的按摩过。所以想在这里做个简单的调查，真相果然如此吗？](https://www.v2ex.com/t/671043) ![](assets/new.png)  
+- [2020-05-12-关于-gpw-与毒蝰终极版](https://www.v2ex.com/t/671041) ![](assets/new.png)  
+- [2020-05-12-大家的公司有多少人？](https://www.v2ex.com/t/671040) ![](assets/new.png)  
+- [2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039)  
+- [2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038)  
+- [2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037)  
+- [2020-05-12-成都-美团外卖成都研发中心大量招聘-前端工程师](https://www.v2ex.com/t/671036)  
+- [2020-05-12-拼多多那个苹果原装扩展坞是真的吗？价格-250](https://www.v2ex.com/t/671035)  
+- [2020-05-12-你们平时划水都干什么啊？](https://www.v2ex.com/t/671034)  
+- [2020-05-12-js-可以获取-iPhone-的设备型号吗？](https://www.v2ex.com/t/671033)  
+- [2020-05-12-深圳-PHP-感觉有点不好找](https://www.v2ex.com/t/671031)  
+- [2020-05-12-C#如何接触对自身文件夹的占用？](https://www.v2ex.com/t/671030)  
+- [2020-05-12-在使用蓝牙耳机的时候-有什么方案可以让手机输出的音频一分二](https://www.v2ex.com/t/671028)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1092,7 +1092,7 @@
 </summary>
 
 
-- [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl) ![](assets/new.png)  
+- [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl)  
 - [2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r)  
 - [2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv)  
 - [2020-05-12-为什么-Mac-地址不需要全球唯一](https://toutiao.io/k/hioqrx0)  

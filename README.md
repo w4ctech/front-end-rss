@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 20:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 21:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-国际护士节丨护士许秋英：尽我所能-带给患者更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU9ph9oWgJp8k3pvzusaX200512&isfromapp=1) ![](assets/new.png)  
 - [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762)  
 - [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1)  
 - [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
@@ -1030,16 +1032,16 @@
 </summary>
 
 
-- [2020-05-12-打算买个-A2119-的二手，请问有没有鉴别方法？我怕买到假的。](https://www.v2ex.com/t/671051) ![](assets/new.png)  
-- [2020-05-12-有类似少数派那样的“专栏”形式的博客主题吗？](https://www.v2ex.com/t/671049) ![](assets/new.png)  
-- [2020-05-12-扩散，快到碗里来-深圳香港支付宝前端团队招人](https://www.v2ex.com/t/671048) ![](assets/new.png)  
-- [2020-05-12-在一起快-5-年了，没吵过架是什么水平？](https://www.v2ex.com/t/671047) ![](assets/new.png)  
-- [2020-05-12-有没有-c-口转-4-个-usb-a-口的转接器？](https://www.v2ex.com/t/671046) ![](assets/new.png)  
-- [2020-05-12-有推荐-macOS-上的媒体播放器吗？（需求：支持-HomePod-的-2-秒延迟）](https://www.v2ex.com/t/671045) ![](assets/new.png)  
-- [2020-05-12-北京-招聘运维开发-薪资-70w-左右-急！](https://www.v2ex.com/t/671044) ![](assets/new.png)  
-- [2020-05-12-看到某推友断言：男程序员普遍都去不可描述的按摩过。所以想在这里做个简单的调查，真相果然如此吗？](https://www.v2ex.com/t/671043) ![](assets/new.png)  
-- [2020-05-12-关于-gpw-与毒蝰终极版](https://www.v2ex.com/t/671041) ![](assets/new.png)  
-- [2020-05-12-大家的公司有多少人？](https://www.v2ex.com/t/671040) ![](assets/new.png)  
+- [2020-05-12-打算买个-A2119-的二手，请问有没有鉴别方法？我怕买到假的。](https://www.v2ex.com/t/671051)  
+- [2020-05-12-有类似少数派那样的“专栏”形式的博客主题吗？](https://www.v2ex.com/t/671049)  
+- [2020-05-12-扩散，快到碗里来-深圳香港支付宝前端团队招人](https://www.v2ex.com/t/671048)  
+- [2020-05-12-在一起快-5-年了，没吵过架是什么水平？](https://www.v2ex.com/t/671047)  
+- [2020-05-12-有没有-c-口转-4-个-usb-a-口的转接器？](https://www.v2ex.com/t/671046)  
+- [2020-05-12-有推荐-macOS-上的媒体播放器吗？（需求：支持-HomePod-的-2-秒延迟）](https://www.v2ex.com/t/671045)  
+- [2020-05-12-北京-招聘运维开发-薪资-70w-左右-急！](https://www.v2ex.com/t/671044)  
+- [2020-05-12-看到某推友断言：男程序员普遍都去不可描述的按摩过。所以想在这里做个简单的调查，真相果然如此吗？](https://www.v2ex.com/t/671043)  
+- [2020-05-12-关于-gpw-与毒蝰终极版](https://www.v2ex.com/t/671041)  
+- [2020-05-12-大家的公司有多少人？](https://www.v2ex.com/t/671040)  
 - [2020-05-12-如何在不关闭-SElinux-的情况下更改-MySQL-的端口？](https://www.v2ex.com/t/671039)  
 - [2020-05-12-好演员为什么要接烂片或者说好导演为什么要拍烂片？](https://www.v2ex.com/t/671038)  
 - [2020-05-12-上海西虹桥徐泾几个新楼盘大家觉得值得上车么？](https://www.v2ex.com/t/671037)  

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 11:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 12:00:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835) ![](assets/new.png)  
+- [2020-05-12-新加坡采用合并检测法-加大新冠肺炎检测-更正确诊病例总数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOGF9zNj890LLRcC9jNAB200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-国际护士节丨援鄂医疗队队员中护士占比接近70%-其中90后占40%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIJpzouOTZQnsfUhYbYrt200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-​墨西哥新增新冠肺炎确诊病例1305例-累计36327例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vtroBqbR9Oi6eo64pCD200512&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,26 +1023,26 @@
 </summary>
 
 
-- [2020-05-12-找一个-UI-小伙伴，一起搞点事情](https://www.v2ex.com/t/670850) ![](assets/new.png)  
-- [2020-05-12-2020-年还存在惊喜吗？](https://www.v2ex.com/t/670849) ![](assets/new.png)  
-- [2020-05-12-不懂就问，请教下一个能支持两万人同时在线访问不瘫痪的网站，而且后端服务器是-Windows-Server-+-IIS，网站程序用-asp.net-写的，需要什么样的配置和带宽？附上...](https://www.v2ex.com/t/670848) ![](assets/new.png)  
-- [2020-05-12-突然发现-teamviewer-远程控制要强制登录账户了!](https://www.v2ex.com/t/670847) ![](assets/new.png)  
-- [2020-05-12-问个关于-Celery-的-Periodic-Tasks-从-Django-Admin-里传递参数的问题](https://www.v2ex.com/t/670845) ![](assets/new.png)  
-- [2020-05-12-一直感觉不出-mybatis-有什么优点](https://www.v2ex.com/t/670844) ![](assets/new.png)  
-- [2020-05-12-定时任务问题](https://www.v2ex.com/t/670843) ![](assets/new.png)  
-- [2020-05-12-上海的同学，有感兴趣的么](https://www.v2ex.com/t/670842) ![](assets/new.png)  
-- [2020-05-12-北京朝阳-C++-Developer，-40-60-万](https://www.v2ex.com/t/670841) ![](assets/new.png)  
-- [2020-05-12-问一个关系数据库连表查询优化问题](https://www.v2ex.com/t/670840) ![](assets/new.png)  
-- [2020-05-12-想逃离北京了](https://www.v2ex.com/t/670839) ![](assets/new.png)  
-- [2020-05-12-读写分离有些模糊，想问下](https://www.v2ex.com/t/670838) ![](assets/new.png)  
-- [2020-05-12-4-月底申请离职，-5-月底交接完，然后独立开发](https://www.v2ex.com/t/670837) ![](assets/new.png)  
-- [2020-05-12-QQ-邮箱挂了吗？？](https://www.v2ex.com/t/670836) ![](assets/new.png)  
-- [2020-05-12-有硬件小伙伴想接私活的嘛，对车机、功放、蓝牙传输有了解的最好](https://www.v2ex.com/t/670835)  
-- [2020-05-12-关于读写分离](https://www.v2ex.com/t/670834)  
-- [2020-05-12-寻找对宠物方向的产品感兴趣的伙伴-全栈-Vue-前端-UI](https://www.v2ex.com/t/670833)  
-- [2020-05-12-这种类型的图用什么工具可以画？](https://www.v2ex.com/t/670832)  
-- [2020-05-12-iPhone-12-系列参数/售价爆料](https://www.v2ex.com/t/670831)  
-- [2020-05-12-关于排行榜的程序设计](https://www.v2ex.com/t/670830)  
+- [2020-05-12-面试题-请用-Python-编写函数-find_string，从文本中搜索并打印内容，要求支持通配符星号和问号。](https://www.v2ex.com/t/670863) ![](assets/new.png)  
+- [2020-05-12-频繁出线上问题的影响](https://www.v2ex.com/t/670862) ![](assets/new.png)  
+- [2020-05-12-现在还有什么办法可以访问-gcr.io/quay.io？](https://www.v2ex.com/t/670861) ![](assets/new.png)  
+- [2020-05-12-拼多多上海招后端，前端，算法，-UI，大量招，我帮助内推哇。社招的、应届毕业生都可以，快来试试](https://www.v2ex.com/t/670860) ![](assets/new.png)  
+- [2020-05-12-真实的李彦宏-VS-虚假的李彦宏](https://www.v2ex.com/t/670859) ![](assets/new.png)  
+- [2020-05-12-CV-面试大题分享：计算机视觉中，有哪几种基本任务？](https://www.v2ex.com/t/670858) ![](assets/new.png)  
+- [2020-05-12-AlibabaProtect.exe-这玩意真是各毒瘤啊~~还不好删了~~](https://www.v2ex.com/t/670857) ![](assets/new.png)  
+- [2020-05-12-公司几个玩的好的同事都去了大公司-现在我感觉自己有点迷惘-不知何去何从](https://www.v2ex.com/t/670856) ![](assets/new.png)  
+- [2020-05-12-问下，真正的大佬们是不是不管需求怎么变化，都能在原有的系统上稍加修改就合适了？](https://www.v2ex.com/t/670855) ![](assets/new.png)  
+- [2020-05-12-ikbc-c87-键盘-Mac-上失灵](https://www.v2ex.com/t/670854) ![](assets/new.png)  
+- [2020-05-12-有微积分大神帮我推导下这个算贫富分化的公式吗](https://www.v2ex.com/t/670852) ![](assets/new.png)  
+- [2020-05-12-transfer.sh-不能用了吗？](https://www.v2ex.com/t/670851) ![](assets/new.png)  
+- [2020-05-12-找一个-UI-小伙伴，一起搞点事情](https://www.v2ex.com/t/670850)  
+- [2020-05-12-2020-年还存在惊喜吗？](https://www.v2ex.com/t/670849)  
+- [2020-05-12-不懂就问，请教下一个能支持两万人同时在线访问不瘫痪的网站，而且后端服务器是-Windows-Server-+-IIS，网站程序用-asp.net-写的，需要什么样的配置和带宽？附上...](https://www.v2ex.com/t/670848)  
+- [2020-05-12-突然发现-teamviewer-远程控制要强制登录账户了!](https://www.v2ex.com/t/670847)  
+- [2020-05-12-问个关于-Celery-的-Periodic-Tasks-从-Django-Admin-里传递参数的问题](https://www.v2ex.com/t/670845)  
+- [2020-05-12-一直感觉不出-mybatis-有什么优点](https://www.v2ex.com/t/670844)  
+- [2020-05-12-定时任务问题](https://www.v2ex.com/t/670843)  
+- [2020-05-12-上海的同学，有感兴趣的么](https://www.v2ex.com/t/670842)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -24,6 +24,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
+- [2020-05-12-拼多多上海招后端，前端，算法，-UI，大量招，我帮助内推哇。社招的、应届毕业生都可以，快来试试](https://www.v2ex.com/t/670860) 
 - [2020-05-11-现在有既能处理-http-服务又能处理-tcp-服务的成熟框架么？](https://www.v2ex.com/t/670648) 
 - [2020-05-11-九章算法王牌课——九章算法班重磅改版！](https://www.v2ex.com/t/670620) 
 - [2020-05-11-前/后端在线学习有廖雪峰、RUNOOB，算法有-LeetCode，那么，产品经理和-UI/UE-呢？](https://www.v2ex.com/t/670563) 

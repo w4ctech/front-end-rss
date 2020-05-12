@@ -1255,7 +1255,33 @@
     "rss": "https://rss.shab.fun/coronavirus/dxy",
     "title": "全国新型肺炎疫情实时动态(丁香园)",
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
-    "items": []
+    "items": [
+      {
+        "title": "超1亿学生复课开学",
+        "link": "http://m.weibo.cn/2803301701/4503705481963835",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "新加坡采用合并检测法 加大新冠肺炎检测 更正确诊病例总数",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOGF9zNj890LLRcC9jNAB200512&isfromapp=1",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "国际护士节丨援鄂医疗队队员中护士占比接近70% 其中90后占40%",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIJpzouOTZQnsfUhYbYrt200512&isfromapp=1",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "国际护士节丨全国护士达445万 其中女性约占97%",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "​墨西哥新增新冠肺炎确诊病例1305例 累计36327例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vtroBqbR9Oi6eo64pCD200512&isfromapp=1",
+        "date": "2020-05-12"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/wechat/ershicimi/9891",
@@ -6740,6 +6766,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[面试题] 请用 Python 编写函数 find_string，从文本中搜索并打印内容，要求支持通配符星号和问号。",
+        "link": "https://www.v2ex.com/t/670863",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "频繁出线上问题的影响",
+        "link": "https://www.v2ex.com/t/670862",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "现在还有什么办法可以访问 gcr.io/quay.io？",
+        "link": "https://www.v2ex.com/t/670861",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "拼多多上海招后端，前端，算法， UI，大量招，我帮助内推哇。社招的、应届毕业生都可以，快来试试",
+        "link": "https://www.v2ex.com/t/670860",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "真实的李彦宏 VS 虚假的李彦宏",
+        "link": "https://www.v2ex.com/t/670859",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "CV 面试大题分享：计算机视觉中，有哪几种基本任务？",
+        "link": "https://www.v2ex.com/t/670858",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "AlibabaProtect.exe 这玩意真是各毒瘤啊~~还不好删了~~",
+        "link": "https://www.v2ex.com/t/670857",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "公司几个玩的好的同事都去了大公司 现在我感觉自己有点迷惘 不知何去何从",
+        "link": "https://www.v2ex.com/t/670856",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "问下，真正的大佬们是不是不管需求怎么变化，都能在原有的系统上稍加修改就合适了？",
+        "link": "https://www.v2ex.com/t/670855",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "ikbc c87 键盘 Mac 上失灵",
+        "link": "https://www.v2ex.com/t/670854",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "有微积分大神帮我推导下这个算贫富分化的公式吗",
+        "link": "https://www.v2ex.com/t/670852",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "transfer.sh 不能用了吗？",
+        "link": "https://www.v2ex.com/t/670851",
+        "date": "2020-05-12"
+      },
       {
         "title": "找一个 UI 小伙伴，一起搞点事情",
         "link": "https://www.v2ex.com/t/670850",

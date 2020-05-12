@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1) 
 - [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1) 
 - [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1) 
 - [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1) 

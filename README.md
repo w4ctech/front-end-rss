@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-12 16:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-12 16:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1) ![](assets/new.png)  
+- [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
 - [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835)  
@@ -395,6 +395,8 @@
 </summary>
 
 
+- [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f) ![](assets/new.png)  
+- [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073) ![](assets/new.png)  
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
 - [2020-05-11-工程主管有哪些职责？](https://www.ershicimi.com/p/e8183e6f753d90ba9c065703c726fcc0)  
 - [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d)  
@@ -413,8 +415,6 @@
 - [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
 - [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
 - [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
-- [2020-04-29-InfoQ-写作平台正式上线！](https://www.ershicimi.com/p/56ca1b7d3e67469c3bf65670bcd4ee5c)  
-- [2020-04-29-我们应该如何度过-2020-的另外-2/3-？-|-极客大学](https://www.ershicimi.com/p/ba6e134e9528b5c9275088c5e332b2db)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

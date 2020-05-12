@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -190,6 +190,7 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd) 
 - [2020-05-08-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/f9b9c2d50c309e1d705f6c46139131bd) 
 - [2020-05-07-免费服务器，它来了](https://www.ershicimi.com/p/299adc022cb8f8a1319ab0e93410f5d3) 
 - [2020-05-06-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebe62d7c491c1a844494cf6e463f01b6) 
@@ -652,6 +653,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-12-上海-北京-声网急招各类开发、运维、测试、架构](https://www.v2ex.com/t/670872) 
+- [2020-05-12-请问-Java-nio2（AIO）里面，读数据的话，-completeHandler-是什么时候触发的？](https://www.v2ex.com/t/670871) 
+- [2020-05-12-AOP-的-around-方法为何执行两次？](https://www.v2ex.com/t/670870) 
+- [2020-05-12-有什么项目练手](https://www.v2ex.com/t/670869) 
+- [2020-05-12-组个微信群：-echo-"东莞-it-互联网程序员内推求职-wechat-群";](https://www.v2ex.com/t/670865) 
+- [2020-05-12-弱弱的问下，你们和同事的关系怎么样？](https://www.v2ex.com/t/670864) 
 - [2020-05-12-频繁出线上问题的影响](https://www.v2ex.com/t/670862) 
 - [2020-05-12-现在还有什么办法可以访问-gcr.io/quay.io？](https://www.v2ex.com/t/670861) 
 - [2020-05-12-真实的李彦宏-VS-虚假的李彦宏](https://www.v2ex.com/t/670859) 

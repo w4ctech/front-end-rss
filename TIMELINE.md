@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-12 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -135,6 +135,8 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-国际护士节丨援鄂医疗队队员中护士占比接近70%-其中90后占40%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIJpzouOTZQnsfUhYbYrt200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-​墨西哥新增新冠肺炎确诊病例1305例-累计36327例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vtroBqbR9Oi6eo64pCD200512&isfromapp=1) 
+- [【Vue中文社区】2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd) 
+- [【Vue中文社区】2020-05-12-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44) 
 - [【Vue中文社区】2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9) 
 - [【Vue中文社区】2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930) 
 - [【Vue中文社区】2020-05-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438) 
@@ -408,6 +410,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-12-北京酒仙桥58-集团中台部门招聘前端工程师](https://www.v2ex.com/t/670873) 
+- [【V2EX】2020-05-12-上海-北京-声网急招各类开发、运维、测试、架构](https://www.v2ex.com/t/670872) 
+- [【V2EX】2020-05-12-请问-Java-nio2（AIO）里面，读数据的话，-completeHandler-是什么时候触发的？](https://www.v2ex.com/t/670871) 
+- [【V2EX】2020-05-12-AOP-的-around-方法为何执行两次？](https://www.v2ex.com/t/670870) 
+- [【V2EX】2020-05-12-有什么项目练手](https://www.v2ex.com/t/670869) 
+- [【V2EX】2020-05-12-腾讯面试官非要我去外包是什么情况](https://www.v2ex.com/t/670867) 
+- [【V2EX】2020-05-12-联通手机-app-充-100-元话费送-10-个月腾讯视频会员。](https://www.v2ex.com/t/670866) 
+- [【V2EX】2020-05-12-组个微信群：-echo-"东莞-it-互联网程序员内推求职-wechat-群";](https://www.v2ex.com/t/670865) 
+- [【V2EX】2020-05-12-弱弱的问下，你们和同事的关系怎么样？](https://www.v2ex.com/t/670864) 
 - [【V2EX】2020-05-12-面试题-请用-Python-编写函数-find_string，从文本中搜索并打印内容，要求支持通配符星号和问号。](https://www.v2ex.com/t/670863) 
 - [【V2EX】2020-05-12-频繁出线上问题的影响](https://www.v2ex.com/t/670862) 
 - [【V2EX】2020-05-12-现在还有什么办法可以访问-gcr.io/quay.io？](https://www.v2ex.com/t/670861) 

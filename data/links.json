@@ -1346,6 +1346,16 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "前端人只有青铜和王者，你是哪一种？",
+        "link": "https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "Nginx 从入门到实践，万字详解！",
+        "link": "https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44",
+        "date": "2020-05-12"
+      },
+      {
         "title": "Google 技术面试全记录",
         "link": "https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9",
         "date": "2020-05-11"
@@ -6766,6 +6776,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[北京酒仙桥]58 集团中台部门招聘前端工程师",
+        "link": "https://www.v2ex.com/t/670873",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "[上海 北京] 声网急招各类开发、运维、测试、架构",
+        "link": "https://www.v2ex.com/t/670872",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "请问 Java nio2（AIO）里面，读数据的话， completeHandler 是什么时候触发的？",
+        "link": "https://www.v2ex.com/t/670871",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "AOP 的 around 方法为何执行两次？",
+        "link": "https://www.v2ex.com/t/670870",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "有什么项目练手",
+        "link": "https://www.v2ex.com/t/670869",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "腾讯面试官非要我去外包是什么情况",
+        "link": "https://www.v2ex.com/t/670867",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "联通手机 app 充 100 元话费送 10 个月腾讯视频会员。",
+        "link": "https://www.v2ex.com/t/670866",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "组个微信群： echo (\"东莞 it 互联网程序员内推求职 wechat 群\");",
+        "link": "https://www.v2ex.com/t/670865",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "弱弱的问下，你们和同事的关系怎么样？",
+        "link": "https://www.v2ex.com/t/670864",
+        "date": "2020-05-12"
+      },
       {
         "title": "[面试题] 请用 Python 编写函数 find_string，从文本中搜索并打印内容，要求支持通配符星号和问号。",
         "link": "https://www.v2ex.com/t/670863",

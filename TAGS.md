@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-12 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -442,8 +442,8 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】联通手机-app-充-100-元话费送-10-个月腾讯视频会员。](https://www.v2ex.com/t/670866)
 - [【V2EX】MBP-15'-2017-用-Final-Cut-Pro-剪一个-5-分钟的视频都很卡](https://www.v2ex.com/t/670763)
-- [【V2EX】连续更新了十天的视频号，最高一个视频-3.5-万播放，收获-1200-粉丝，有什么要问的吗？](https://www.v2ex.com/t/670723)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -568,6 +568,7 @@
 
 
 
+- [【Vue中文社区】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44)
 - [【前端开发】前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/ea679a267e08192aaa41298b6379cb0a)
 - [【前端之巅】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3)
 - [【政采云前端团队】五分钟看懂-Nginx-负载均衡](https://www.ershicimi.com/p/da2571b220d4f1556032767752107794)
@@ -587,7 +588,6 @@
 - [【V2EX】Docker-容器中基于-Alpine-Linux-镜像，-kill-命令不起作用？](https://www.v2ex.com/t/667733)
 - [【V2EX】如何在-docker-内部监控某个-container-的上行流量？](https://www.v2ex.com/t/666986)
 - [【V2EX】nginx-配置求助](https://www.v2ex.com/t/666918)
-- [【V2EX】请教个-nginx-端口转发的问题](https://www.v2ex.com/t/666912)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

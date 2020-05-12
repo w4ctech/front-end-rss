@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-12 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-12 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -49,6 +49,8 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-12-北京酒仙桥58-集团中台部门招聘前端工程师](https://www.v2ex.com/t/670873) 
+- [2020-05-12-腾讯面试官非要我去外包是什么情况](https://www.v2ex.com/t/670867) 
 - [2020-05-12-面试题-请用-Python-编写函数-find_string，从文本中搜索并打印内容，要求支持通配符星号和问号。](https://www.v2ex.com/t/670863) 
 - [2020-05-12-CV-面试大题分享：计算机视觉中，有哪几种基本任务？](https://www.v2ex.com/t/670858) 
 - [2020-05-12-Java-PHP-go-招聘需求排个序？](https://www.v2ex.com/t/670755) 

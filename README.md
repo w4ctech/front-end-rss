@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 20:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 21:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-13-莱索托出现首例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid9kOghGZyIQkesRUxTty200513&isfromapp=1) ![](assets/new.png)  
 - [2020-05-13-津巴布韦副总统：中国抗疫医疗专家组赴津正逢其时-对于津方抗疫将起极大的积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLBgNDkFGj6jSnppxjuT200513&isfromapp=1)  
 - [2020-05-13-外交部：中国赴非医疗组受到非方高度赞扬和肯定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCF6KvMukELE02gXX7l4G200513&isfromapp=1)  
 - [2020-05-13-北京各年级返校复课时间](http://m.weibo.cn/2803301701/4504151494725159)  
@@ -113,7 +114,6 @@
 - [2020-05-12-英国新冠肺炎确诊患者新增3403例-累计确诊226463例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1)  
 - [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1)  
 - [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1)  
-- [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,14 +1044,14 @@
 </summary>
 
 
-- [2020-05-13-请问如何保存密钥比较安全？](https://www.v2ex.com/t/671373) ![](assets/new.png)  
-- [2020-05-13-为什么我测试实际情况和网上一大堆的教程不一样?](https://www.v2ex.com/t/671372) ![](assets/new.png)  
-- [2020-05-13-想请教大佬们一个问题，网站能不能用微信订阅号登陆](https://www.v2ex.com/t/671370) ![](assets/new.png)  
-- [2020-05-13-这种-PHP-判断漏洞-BUG-是不是无解了?](https://www.v2ex.com/t/671369) ![](assets/new.png)  
-- [2020-05-13-PHP-继承问题](https://www.v2ex.com/t/671368) ![](assets/new.png)  
-- [2020-05-13-前端项目动不动几万个包有啥解决方案吗](https://www.v2ex.com/t/671367) ![](assets/new.png)  
-- [2020-05-13-有人知道微信小程序怎么能直接跳转到京东小程序的商品详情页面吗?](https://www.v2ex.com/t/671366) ![](assets/new.png)  
-- [2020-05-13-你们在-boss-上会先跟人沟通清楚再给简历，还是别人要就直接给，然后再电话沟通？](https://www.v2ex.com/t/671365) ![](assets/new.png)  
+- [2020-05-13-请问如何保存密钥比较安全？](https://www.v2ex.com/t/671373)  
+- [2020-05-13-为什么我测试实际情况和网上一大堆的教程不一样?](https://www.v2ex.com/t/671372)  
+- [2020-05-13-想请教大佬们一个问题，网站能不能用微信订阅号登陆](https://www.v2ex.com/t/671370)  
+- [2020-05-13-这种-PHP-判断漏洞-BUG-是不是无解了?](https://www.v2ex.com/t/671369)  
+- [2020-05-13-PHP-继承问题](https://www.v2ex.com/t/671368)  
+- [2020-05-13-前端项目动不动几万个包有啥解决方案吗](https://www.v2ex.com/t/671367)  
+- [2020-05-13-有人知道微信小程序怎么能直接跳转到京东小程序的商品详情页面吗?](https://www.v2ex.com/t/671366)  
+- [2020-05-13-你们在-boss-上会先跟人沟通清楚再给简历，还是别人要就直接给，然后再电话沟通？](https://www.v2ex.com/t/671365)  
 - [2020-05-13-已经可以直接访问了？](https://www.v2ex.com/t/671362)  
 - [2020-05-13-最近帮同事看笔记本电脑](https://www.v2ex.com/t/671361)  
 - [2020-05-13-广州电信宽带连不上-看微博好像是广东省都挂了-电话和微信客服接通不了](https://www.v2ex.com/t/671360)  

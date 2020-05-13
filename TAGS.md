@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-13 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 12:30:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -253,6 +253,8 @@
 - [【奇舞周刊】奇舞周刊第-348-期：-Flutter-Web-最新进展](https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245)
 - [【InfoQ】Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】Flutter-Weekly-Issue-55](https://www.v2ex.com/t/671212)
+- [【V2EX】flutter-高仿微信聊天|flutter/dart-仿微信界面聊天室](https://www.v2ex.com/t/671209)
 - [【V2EX】Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604)
 - [【V2EX】分享一下我整理的-Flutter-项目中常用的-Widget](https://www.v2ex.com/t/669462)
 - [【V2EX】Flutter-Weekly-Issue-54](https://www.v2ex.com/t/668875)
@@ -263,8 +265,6 @@
 - [【V2EX】重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)
 - [【技术头条】Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】Flutter-Web-网站之-ScrollView-+-GridView-优化](https://toutiao.io/k/m1tw49h)
-- [【开发者头条】Flutter-主题切换：让你的-APP-也能一键换肤](https://toutiao.io/k/sra9nsp)
-- [【开发者头条】复杂业务如何保证-Flutter-的高性能高流畅度？](https://toutiao.io/k/y4wv3k1)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -443,8 +443,8 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】3.5mm-接口音频一分二，带切换开关的工具。有推荐吗？](https://www.v2ex.com/t/671216)
 - [【V2EX】佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/671158)
-- [【V2EX】有推荐-macOS-上的媒体播放器吗？（需求：支持-HomePod-的-2-秒延迟）](https://www.v2ex.com/t/671045)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

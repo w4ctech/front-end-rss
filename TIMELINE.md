@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-13 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -196,6 +196,8 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-13-几乎人人都会-Vue？老板凭什么选你？](https://www.ershicimi.com/p/28b4437c2ff99dd4d069cba8d0c3198c) 
+- [【前端大全】2020-05-13-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/fde9523b6cc5c5fd2f60af58ef609b85) 
 - [【前端大全】2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806) 
 - [【前端大全】2020-05-12-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/385612a1771b70aa52bc5bb7cef8d513) 
 - [【前端大全】2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) 
@@ -482,6 +484,18 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-13-迫于买家电-收京东-E-卡](https://www.v2ex.com/t/671385) 
+- [【V2EX】2020-05-13-vscode-有没有粘贴为-markdown-格式的插件啊？](https://www.v2ex.com/t/671384) 
+- [【V2EX】2020-05-13-请教一个-REST-api-设计的问题](https://www.v2ex.com/t/671383) 
+- [【V2EX】2020-05-13-有智库的人开始呼吁拆墙了](https://www.v2ex.com/t/671382) 
+- [【V2EX】2020-05-13-初学-consul-请问为什么有这个服务却得不到服务实例（ServiceInstance）](https://www.v2ex.com/t/671381) 
+- [【V2EX】2020-05-13-3k-预算求黑苹果集显装机方案](https://www.v2ex.com/t/671380) 
+- [【V2EX】2020-05-13-显示文件正在被哪个进程锁定的软件用吗？以前是用-unlock-的](https://www.v2ex.com/t/671379) 
+- [【V2EX】2020-05-13-萌新求教关于-NGINX-反代-github，实现-release-下载加速的问题](https://www.v2ex.com/t/671378) 
+- [【V2EX】2020-05-13-杭州！蚂蚁金服-大数据部！缺前端、数据可视化！](https://www.v2ex.com/t/671377) 
+- [【V2EX】2020-05-13-tcp-协议为什么叫传输控制协议，控制了什么？](https://www.v2ex.com/t/671376) 
+- [【V2EX】2020-05-13-估计是视网膜脱落了](https://www.v2ex.com/t/671375) 
+- [【V2EX】2020-05-13-win10-无法登录-Messenger](https://www.v2ex.com/t/671374) 
 - [【V2EX】2020-05-13-请问如何保存密钥比较安全？](https://www.v2ex.com/t/671373) 
 - [【V2EX】2020-05-13-为什么我测试实际情况和网上一大堆的教程不一样?](https://www.v2ex.com/t/671372) 
 - [【V2EX】2020-05-13-想请教大佬们一个问题，网站能不能用微信订阅号登陆](https://www.v2ex.com/t/671370) 

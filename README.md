@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 21:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 21:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-13-莱索托出现首例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid9kOghGZyIQkesRUxTty200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-莱索托出现首例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid9kOghGZyIQkesRUxTty200513&isfromapp=1)  
 - [2020-05-13-津巴布韦副总统：中国抗疫医疗专家组赴津正逢其时-对于津方抗疫将起极大的积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLBgNDkFGj6jSnppxjuT200513&isfromapp=1)  
 - [2020-05-13-外交部：中国赴非医疗组受到非方高度赞扬和肯定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCF6KvMukELE02gXX7l4G200513&isfromapp=1)  
 - [2020-05-13-北京各年级返校复课时间](http://m.weibo.cn/2803301701/4504151494725159)  
@@ -252,6 +252,8 @@
 </summary>
 
 
+- [2020-05-13-几乎人人都会-Vue？老板凭什么选你？](https://www.ershicimi.com/p/28b4437c2ff99dd4d069cba8d0c3198c) ![](assets/new.png)  
+- [2020-05-13-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/fde9523b6cc5c5fd2f60af58ef609b85) ![](assets/new.png)  
 - [2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806)  
 - [2020-05-12-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/385612a1771b70aa52bc5bb7cef8d513)  
 - [2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6)  
@@ -270,8 +272,6 @@
 - [2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370)  
 - [2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43)  
 - [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff)  
-- [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)  
-- [2020-04-28-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/b6638cfe1e2bc8676594d8020d5546a7)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,6 +1044,18 @@
 </summary>
 
 
+- [2020-05-13-迫于买家电-收京东-E-卡](https://www.v2ex.com/t/671385) ![](assets/new.png)  
+- [2020-05-13-vscode-有没有粘贴为-markdown-格式的插件啊？](https://www.v2ex.com/t/671384) ![](assets/new.png)  
+- [2020-05-13-请教一个-REST-api-设计的问题](https://www.v2ex.com/t/671383) ![](assets/new.png)  
+- [2020-05-13-有智库的人开始呼吁拆墙了](https://www.v2ex.com/t/671382) ![](assets/new.png)  
+- [2020-05-13-初学-consul-请问为什么有这个服务却得不到服务实例（ServiceInstance）](https://www.v2ex.com/t/671381) ![](assets/new.png)  
+- [2020-05-13-3k-预算求黑苹果集显装机方案](https://www.v2ex.com/t/671380) ![](assets/new.png)  
+- [2020-05-13-显示文件正在被哪个进程锁定的软件用吗？以前是用-unlock-的](https://www.v2ex.com/t/671379) ![](assets/new.png)  
+- [2020-05-13-萌新求教关于-NGINX-反代-github，实现-release-下载加速的问题](https://www.v2ex.com/t/671378) ![](assets/new.png)  
+- [2020-05-13-杭州！蚂蚁金服-大数据部！缺前端、数据可视化！](https://www.v2ex.com/t/671377) ![](assets/new.png)  
+- [2020-05-13-tcp-协议为什么叫传输控制协议，控制了什么？](https://www.v2ex.com/t/671376) ![](assets/new.png)  
+- [2020-05-13-估计是视网膜脱落了](https://www.v2ex.com/t/671375) ![](assets/new.png)  
+- [2020-05-13-win10-无法登录-Messenger](https://www.v2ex.com/t/671374) ![](assets/new.png)  
 - [2020-05-13-请问如何保存密钥比较安全？](https://www.v2ex.com/t/671373)  
 - [2020-05-13-为什么我测试实际情况和网上一大堆的教程不一样?](https://www.v2ex.com/t/671372)  
 - [2020-05-13-想请教大佬们一个问题，网站能不能用微信订阅号登陆](https://www.v2ex.com/t/671370)  
@@ -1052,18 +1064,6 @@
 - [2020-05-13-前端项目动不动几万个包有啥解决方案吗](https://www.v2ex.com/t/671367)  
 - [2020-05-13-有人知道微信小程序怎么能直接跳转到京东小程序的商品详情页面吗?](https://www.v2ex.com/t/671366)  
 - [2020-05-13-你们在-boss-上会先跟人沟通清楚再给简历，还是别人要就直接给，然后再电话沟通？](https://www.v2ex.com/t/671365)  
-- [2020-05-13-已经可以直接访问了？](https://www.v2ex.com/t/671362)  
-- [2020-05-13-最近帮同事看笔记本电脑](https://www.v2ex.com/t/671361)  
-- [2020-05-13-广州电信宽带连不上-看微博好像是广东省都挂了-电话和微信客服接通不了](https://www.v2ex.com/t/671360)  
-- [2020-05-13-终端在执行一些耗时较长的命令时结束后能发出一些提示音就好了](https://www.v2ex.com/t/671359)  
-- [2020-05-13-使用第三方-api-间接提供网易云音乐和-QQ-音乐服务会不会进局子？](https://www.v2ex.com/t/671358)  
-- [2020-05-13-DZ-模拟登陆验证码出现-Access-Denied](https://www.v2ex.com/t/671357)  
-- [2020-05-13-做了一个快速开发-Python-代码规范检查的工具，来几个老哥用用试试看？](https://www.v2ex.com/t/671356)  
-- [2020-05-13-问一个-Python-的简单语法区别，-for-i-in-list-和-for-i-in-range-的区别？](https://www.v2ex.com/t/671355)  
-- [2020-05-13-微信读书开始推广告了](https://www.v2ex.com/t/671354)  
-- [2020-05-13-买那个加密货币的也可以从这个角度看：软件是不是去中心化的。](https://www.v2ex.com/t/671353)  
-- [2020-05-13-有靠谱美版-iPhone-购买的渠道吗？谢谢](https://www.v2ex.com/t/671352)  
-- [2020-05-13-DZ-模拟登陆验证码-Access-Denied](https://www.v2ex.com/t/671351)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

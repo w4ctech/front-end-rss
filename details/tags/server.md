@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -16,6 +16,8 @@
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-13-请教一个-REST-api-设计的问题](https://www.v2ex.com/t/671383) 
+- [2020-05-13-萌新求教关于-NGINX-反代-github，实现-release-下载加速的问题](https://www.v2ex.com/t/671378) 
 - [2020-05-13-Mac-上搭建-STF，好多编译不过去，最终还是使用了-Docker-方案](https://www.v2ex.com/t/671344) 
 - [2020-05-13-迫于兼职运维，求助关于-nginx-端口转发的问题](https://www.v2ex.com/t/671285) 
 - [2020-05-12-看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921) 

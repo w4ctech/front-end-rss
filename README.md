@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 10:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 11:00:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -45,13 +45,13 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-中企援建尼日利亚的方舱医院完工并移交当地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1) ![](assets/new.png)  
 - [2020-05-13-吉林火车站暂停办理始发及经由乘车业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1)  
 - [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1)  
 - [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
 - [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835)  
 - [2020-05-12-新加坡采用合并检测法-加大新冠肺炎检测-更正确诊病例总数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOGF9zNj890LLRcC9jNAB200512&isfromapp=1)  
-- [2020-05-12-国际护士节丨援鄂医疗队队员中护士占比接近70%-其中90后占40%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIJpzouOTZQnsfUhYbYrt200512&isfromapp=1)  
-- [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1)  
-- [2020-05-12-​墨西哥新增新冠肺炎确诊病例1305例-累计36327例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vtroBqbR9Oi6eo64pCD200512&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -283,8 +283,8 @@
 </summary>
 
 
-- [2020-05-13-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/cb5b8710f0bb5a208c9a252d5491660e) ![](assets/new.png)  
-- [2020-05-13-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db) ![](assets/new.png)  
+- [2020-05-13-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/cb5b8710f0bb5a208c9a252d5491660e)  
+- [2020-05-13-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db)  
 - [2020-05-12-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/0e285fd75086b4c139fd1ffd61627657)  
 - [2020-05-11-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c)  
 - [2020-05-11-前端代码规范最佳实践](https://www.ershicimi.com/p/658d2b63982559560eb1f0bf94fc7632)  
@@ -553,7 +553,7 @@
 </summary>
 
 
-- [2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707) ![](assets/new.png)  
+- [2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707)  
 - [2020-05-12-主流小程序框架横向对比及使用详解](https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93)  
 - [2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead)  
 - [2020-05-10-包邮免费送-5-本-JavaScript-书籍](https://www.ershicimi.com/p/6238b067f71a3d93efc700d3a65a4d80)  
@@ -869,7 +869,7 @@
 </summary>
 
 
-- [2020-05-13-人人都会VUE？老板凭什么选你？](https://www.ershicimi.com/p/a6c0b219705ef87af63f5920bc886dfe) ![](assets/new.png)  
+- [2020-05-13-人人都会VUE？老板凭什么选你？](https://www.ershicimi.com/p/a6c0b219705ef87af63f5920bc886dfe)  
 - [2020-05-12-前端圈为啥贫富分化越来越严重？](https://www.ershicimi.com/p/ae1b4e5c8b6a83c2e118ee9b751f837b)  
 - [2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/c5c65e9de32e3164af856903896e6647)  
 - [2020-05-09-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/d30ab4f3bf7a82281916bddcb42b51b4)  
@@ -1044,26 +1044,26 @@
 </summary>
 
 
+- [2020-05-13-个人所得税-app-在外区下架了？](https://www.v2ex.com/t/671182) ![](assets/new.png)  
+- [2020-05-13-Adobe-Creative-Cloud-无法更新-，-Mac-OS-版本-10.15.4-19E287](https://www.v2ex.com/t/671181) ![](assets/new.png)  
+- [2020-05-13-有没有托管在香港新世界机房的，大概一个小时前出现无法访问的问题。](https://www.v2ex.com/t/671179) ![](assets/new.png)  
+- [2020-05-13-各位,有在县城发展的不错的么~](https://www.v2ex.com/t/671178) ![](assets/new.png)  
+- [2020-05-13-请教：-关于多个认证中心下的-site-互相登录以及-api-互相调用的问题](https://www.v2ex.com/t/671177) ![](assets/new.png)  
+- [2020-05-13-有没有什么办法,-只接受快递的电话](https://www.v2ex.com/t/671176) ![](assets/new.png)  
+- [2020-05-13-请问各位，有没有前端非常经典的，十分规范的-demo-呢？](https://www.v2ex.com/t/671175) ![](assets/new.png)  
+- [2020-05-13-35-岁，没激情了、没欲望了](https://www.v2ex.com/t/671174) ![](assets/new.png)  
+- [2020-05-13-讲真，一部记录反思这代互联网人的伤痛记忆的小说，是不是已经在路上了](https://www.v2ex.com/t/671173) ![](assets/new.png)  
+- [2020-05-13-深圳推一个深圳的招聘群](https://www.v2ex.com/t/671171) ![](assets/new.png)  
+- [2020-05-13-现在有哪些-iPad-游戏支持-Xbox-手柄的？](https://www.v2ex.com/t/671170) ![](assets/new.png)  
+- [2020-05-13-Vuex-传给-action-的第三个参数是什么](https://www.v2ex.com/t/671169) ![](assets/new.png)  
+- [2020-05-13-关于简历上的工作经历，有几个问题想请教一下大家](https://www.v2ex.com/t/671168) ![](assets/new.png)  
+- [2020-05-13-阿里云的-SSL-免费证书好，还是-Let's-Encrypt-的免费证书好？](https://www.v2ex.com/t/671167) ![](assets/new.png)  
+- [2020-05-13-Windows-怎么查看单-ip-的-tcp-连接数](https://www.v2ex.com/t/671166) ![](assets/new.png)  
+- [2020-05-13-原-html+css+js-的页面项目怎么样-转换成-vue](https://www.v2ex.com/t/671165) ![](assets/new.png)  
+- [2020-05-13-图数据库-Nebula-Graph-是什么](https://www.v2ex.com/t/671164) ![](assets/new.png)  
+- [2020-05-13-小程序-大头菜估价](https://www.v2ex.com/t/671163) ![](assets/new.png)  
 - [2020-05-13-佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/671158)  
 - [2020-05-13-群晖大家是否有用-UPS](https://www.v2ex.com/t/671157)  
-- [2020-05-13-站长必修课：-windows-操作系统查看并分析服务器日志](https://www.v2ex.com/t/671156)  
-- [2020-05-13-有用过互站网的吗评价如何](https://www.v2ex.com/t/671155)  
-- [2020-05-13-不懂就问,同事写后台不会用断点也不学...每次调接口都要好久,怎么劝劝啊...](https://www.v2ex.com/t/671154)  
-- [2020-05-13-老哥们,有什么好用的报表引擎吗？](https://www.v2ex.com/t/671153)  
-- [2020-05-13-杭州、北京-阿里巴巴混合云团队正在热招-P7/P8](https://www.v2ex.com/t/671152)  
-- [2020-05-13-那么多明星入职阿里（高晓松、欧阳娜娜、雷佳音、刘涛等等），也需要坐班吗？](https://www.v2ex.com/t/671150)  
-- [2020-05-13-springboot-写入文件的日志如何输出异常栈](https://www.v2ex.com/t/671149)  
-- [2020-05-13-前端开发-求职，求远程工作，-Vue-全家桶，-Electron，-nodejs-爬虫](https://www.v2ex.com/t/671147)  
-- [2020-05-13-小米手环模拟门禁卡刷卡遇到问题](https://www.v2ex.com/t/671144)  
-- [2020-05-13-北京/前端-求个前端萝卜坑](https://www.v2ex.com/t/671143)  
-- [2020-05-13-iPad-pro-12.9-的双面夹键盘好用吗](https://www.v2ex.com/t/671141)  
-- [2020-05-13-老总要我深夜陪读](https://www.v2ex.com/t/671139)  
-- [2020-05-13-vscode-搜索代码时的这个-BUG-对你的影响大吗？](https://www.v2ex.com/t/671138)  
-- [2020-05-13-微软中国内推！微软-Azure-Rapid-Response-团队招聘啦](https://www.v2ex.com/t/671137)  
-- [2020-05-13-两个月未找到工作，待在家里，发现自己越来越懒了！怎么让自己活跃起来](https://www.v2ex.com/t/671136)  
-- [2020-05-13-新买的-11-pro-突然-Face-ID-失效](https://www.v2ex.com/t/671135)  
-- [2020-05-13-写代码又快又好-bug-少是不是一种罪过?](https://www.v2ex.com/t/671134)  
-- [2020-05-13-语音-SDK-大多都是使用科大讯飞吗，哪一个稳一点？](https://www.v2ex.com/t/671133)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

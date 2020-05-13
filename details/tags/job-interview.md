@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -50,6 +50,7 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-13-深圳推一个深圳的招聘群](https://www.v2ex.com/t/671171) 
 - [2020-05-13-微软中国内推！微软-Azure-Rapid-Response-团队招聘啦](https://www.v2ex.com/t/671137) 
 - [2020-05-13-已内推-31-人拿到-offer-微软-Office-365-远程招聘日，又来啦！](https://www.v2ex.com/t/671115) 
 - [2020-05-12-金融科技招聘-|-技术专场\-50-100-万-北京/上海/深圳](https://www.v2ex.com/t/671080) 

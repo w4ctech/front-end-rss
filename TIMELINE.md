@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 07:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -184,6 +184,8 @@
 - [【Vue中文社区】2020-05-03-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/7bc3db6b81610cff242e8e5360a6fefc) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) 
+- [【前端早读课】2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c) 
 - [【前端早读课】2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04) 
 - [【前端早读课】2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105) 
 - [【前端早读课】2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e) 
@@ -491,6 +493,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444) 
 - [【V2EX】2020-05-14-自己的写日记-app：卡片日记，获得过一些推荐，望能交流体验](https://www.v2ex.com/t/671443) 
 - [【V2EX】2020-05-14-正确的自学方式？？](https://www.v2ex.com/t/671441) 
 - [【V2EX】2020-05-14-迫于买家电-收点京东-E-卡](https://www.v2ex.com/t/671440) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -452,6 +452,7 @@
 - [2020-04-19-你也是一边想要放弃，一边进步吗？](https://www.ershicimi.com/p/830ac98b11dba8de5c5a89af30838c9d) 
 - [2020-04-19-CML-源码剖析系列-前言](https://www.ershicimi.com/p/057f43052c2caeddd2aa1a2230b4c315) 
 - [2020-04-18-还有哪个小可爱不知道来这里学前端呀？](https://www.ershicimi.com/p/eab26bc5890cce15c4c114e361863d71) 
+- [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c) 
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc) 
 - [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327) 
 - [2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
@@ -626,6 +627,9 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575) 
+- [2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11) 
+- [2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df) 
 - [2020-05-12-12-年过去了，经历过-512-汶川地震的人怎么样了？](https://www.ershicimi.com/p/2307baeecae6345ef8aac07b1ef71e72) 
 - [2020-05-12-深夜虽然孤独，却适合独立思考](https://www.ershicimi.com/p/5999011e75dc9287838523411ba444c2) 
 - [2020-05-12-知乎故事-|-人为什么要善良？](https://www.ershicimi.com/p/540790e3ecf23bab90a7578ef41aabe2) 

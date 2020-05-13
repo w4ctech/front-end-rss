@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -12,6 +12,7 @@
 - [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f) 
 - [2020-04-24-当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813) 
 - [2020-05-04-网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1) 
+- [2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707) 
 - [2020-05-07-前端进阶算法6：一看就懂的队列及配套算法题](https://www.ershicimi.com/p/607a1ff2d732f8738151ba55d397e6f4) 
 - [2020-04-28-前端工程师算法学习指南](https://www.ershicimi.com/p/8dc9114b50233fb227386377f2e0509d) 
 - [2020-04-25-前端进阶算法：常见算法题及完美题解](https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24) 

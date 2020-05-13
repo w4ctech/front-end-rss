@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -10,6 +10,7 @@
 - [2020-04-25-GitHub-上值得收藏的100个精选前端项目！](https://www.ershicimi.com/p/4b4b4be1493ff07f99caee616748d59c) 
 - [2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806) 
 - [2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961) 
+- [2020-05-13-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db) 
 - [2020-05-11-前端面试开源项目清单（github仓库，个人网站都有）](https://www.ershicimi.com/p/83b9366b275bf5c08cc800dfc0eb63f7) 
 - [2020-05-08-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808) 
 - [2020-05-08-昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 10:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-13 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -199,6 +199,8 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-13-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/cb5b8710f0bb5a208c9a252d5491660e) 
+- [【前端开发】2020-05-13-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db) 
 - [【前端开发】2020-05-12-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/0e285fd75086b4c139fd1ffd61627657) 
 - [【前端开发】2020-05-11-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c) 
 - [【前端开发】2020-05-11-前端代码规范最佳实践](https://www.ershicimi.com/p/658d2b63982559560eb1f0bf94fc7632) 
@@ -282,6 +284,7 @@
 - [【前端宇宙】2020-05-06-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002) 
 - [【前端宇宙】2020-05-05-5个技巧助你编写更好的React代码](https://www.ershicimi.com/p/da5dfedaf93d0957e106309c9af1f2af) 
 - [【前端宇宙】2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) 
+- [【前端瓶子君】2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707) 
 - [【前端瓶子君】2020-05-12-主流小程序框架横向对比及使用详解](https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93) 
 - [【前端瓶子君】2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead) 
 - [【前端瓶子君】2020-05-10-包邮免费送-5-本-JavaScript-书籍](https://www.ershicimi.com/p/6238b067f71a3d93efc700d3a65a4d80) 
@@ -411,6 +414,7 @@
 - [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【JavaScript】2020-05-13-人人都会VUE？老板凭什么选你？](https://www.ershicimi.com/p/a6c0b219705ef87af63f5920bc886dfe) 
 - [【JavaScript】2020-05-12-前端圈为啥贫富分化越来越严重？](https://www.ershicimi.com/p/ae1b4e5c8b6a83c2e118ee9b751f837b) 
 - [【JavaScript】2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/c5c65e9de32e3164af856903896e6647) 
 - [【JavaScript】2020-05-09-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/d30ab4f3bf7a82281916bddcb42b51b4) 

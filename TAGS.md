@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-14 07:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -578,6 +578,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446)
 - [【V2EX】请教一个-REST-api-设计的问题](https://www.v2ex.com/t/671383)
 - [【V2EX】萌新求教关于-NGINX-反代-github，实现-release-下载加速的问题](https://www.v2ex.com/t/671378)
 - [【V2EX】Mac-上搭建-STF，好多编译不过去，最终还是使用了-Docker-方案](https://www.v2ex.com/t/671344)
@@ -588,7 +589,6 @@
 - [【V2EX】Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498)
 - [【V2EX】用-Minio+Nginx-搭建私有图床，配合-Typora-一键插入博客图片](https://www.v2ex.com/t/670158)
 - [【V2EX】桌面端应用有类似-docker-的搭建开发环境的工具吗？](https://www.v2ex.com/t/669899)
-- [【V2EX】请教-docker-TensorFlow/Saving，部署模型的时候怎样配置或者判断显存应该是多少。](https://www.v2ex.com/t/669452)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

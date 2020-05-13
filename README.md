@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 07:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -221,8 +221,8 @@
 </summary>
 
 
-- [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) ![](assets/new.png)  
-- [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c) ![](assets/new.png)  
+- [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
+- [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
 - [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)  
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e)  
@@ -1045,7 +1045,8 @@
 </summary>
 
 
-- [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444) ![](assets/new.png)  
+- [2020-05-14-请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446) ![](assets/new.png)  
+- [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444)  
 - [2020-05-14-自己的写日记-app：卡片日记，获得过一些推荐，望能交流体验](https://www.v2ex.com/t/671443)  
 - [2020-05-14-正确的自学方式？？](https://www.v2ex.com/t/671441)  
 - [2020-05-14-迫于买家电-收点京东-E-卡](https://www.v2ex.com/t/671440)  
@@ -1064,7 +1065,6 @@
 - [2020-05-13-Unreal-Engine-5-Revealed!-|-Next-Gen-Real-Time-Demo-Running-on-PlayStation-5-感觉过几年就能体验到类似头号玩家的游戏。](https://www.v2ex.com/t/671424)  
 - [2020-05-13-广州联通-58-元低消送的-100M-宽带，可以免费升级到-200M-了，真香。](https://www.v2ex.com/t/671423)  
 - [2020-05-13-业余时间给个人公众号开发了京东返利功能](https://www.v2ex.com/t/671422)  
-- [2020-05-13-安卓-8.1-的系统，-root-后卸载内置程序用什么工具？（无添加，无广告的）](https://www.v2ex.com/t/671421)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

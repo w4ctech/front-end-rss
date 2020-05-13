@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 13:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 14:00:22，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1) ![](assets/new.png)  
 - [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
 - [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
 - [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
 - [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
-- [2020-05-12-超1亿学生复课开学](http://m.weibo.cn/2803301701/4503705481963835)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -470,6 +470,7 @@
 </summary>
 
 
+- [2020-05-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/26e9bbdd4342d0a6a6a41c07691876a7) ![](assets/new.png)  
 - [2020-05-12-认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)  
 - [2020-05-11-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/9055bdac2e9681cffc5298b35ed62cf8)  
 - [2020-05-10-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/21b2e33e9f8f0994c11be9212f35656f)  
@@ -489,7 +490,6 @@
 - [2020-04-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/a5329585912d133b6a113711b3475bb5)  
 - [2020-04-28-Vue-3.0-这个迷人的小妖精，到底好在哪里？](https://www.ershicimi.com/p/3d0afafbf1e1a886393c500356e38136)  
 - [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89)  
-- [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,9 +1044,15 @@
 </summary>
 
 
-- [2020-05-13-发现很多人打电话的时候会手舞足蹈，跟指挥一场交响乐似的，不觉得尴尬么-:dog](https://www.v2ex.com/t/671228) ![](assets/new.png)  
-- [2020-05-13-阿里云-云原生应用平台招聘-云应用平台-/-K8s-/-Serverless-/-DevOps-相关领域专家（后端、前端）](https://www.v2ex.com/t/671227) ![](assets/new.png)  
-- [2020-05-13-win10-虚拟桌面-怎么滚动切换](https://www.v2ex.com/t/671226) ![](assets/new.png)  
+- [2020-05-13-Maven-如何实现动态时间戳版本号](https://www.v2ex.com/t/671239) ![](assets/new.png)  
+- [2020-05-13-怎么感觉-magic-keyboard-还没有-mbp2018-的键盘好用啊](https://www.v2ex.com/t/671237) ![](assets/new.png)  
+- [2020-05-13-哪些信息需要以日志形式记录](https://www.v2ex.com/t/671236) ![](assets/new.png)  
+- [2020-05-13-微信内置浏览器拦截内网网址](https://www.v2ex.com/t/671234) ![](assets/new.png)  
+- [2020-05-13-一加-8-pro-断流严重，严重影响日常工作生活，官方-15-天退货承诺就是扯淡](https://www.v2ex.com/t/671233) ![](assets/new.png)  
+- [2020-05-13-zh.维基百科，国内现在可以直接打开了](https://www.v2ex.com/t/671232) ![](assets/new.png)  
+- [2020-05-13-发现很多人打电话的时候会手舞足蹈，跟指挥一场交响乐似的，不觉得尴尬么-:dog](https://www.v2ex.com/t/671228)  
+- [2020-05-13-阿里云-云原生应用平台招聘-云应用平台-/-K8s-/-Serverless-/-DevOps-相关领域专家（后端、前端）](https://www.v2ex.com/t/671227)  
+- [2020-05-13-win10-虚拟桌面-怎么滚动切换](https://www.v2ex.com/t/671226)  
 - [2020-05-13-做了一个黑客辞典的微信小程序，可以发弹幕吐槽](https://www.v2ex.com/t/671225)  
 - [2020-05-13-换工作选择，求分析](https://www.v2ex.com/t/671224)  
 - [2020-05-13-被小米路由器伤过，最近出的-WIFI6-到底能否再爱一次](https://www.v2ex.com/t/671223)  
@@ -1058,12 +1064,6 @@
 - [2020-05-13-有没有什么比较稳定的正向代理软件](https://www.v2ex.com/t/671215)  
 - [2020-05-13-密码太多了，有什么推荐的密码管理器吗？](https://www.v2ex.com/t/671214)  
 - [2020-05-13-北京朝阳区草房招一个室友啊，不要中介费](https://www.v2ex.com/t/671213)  
-- [2020-05-13-Flutter-Weekly-Issue-55](https://www.v2ex.com/t/671212)  
-- [2020-05-13-美区-Apple-Music+Apple-Arcade+Apple-TV-家庭车](https://www.v2ex.com/t/671211)  
-- [2020-05-13-flutter-高仿微信聊天|flutter/dart-仿微信界面聊天室](https://www.v2ex.com/t/671209)  
-- [2020-05-13-刚提完离职～计划骑行去西藏～求各位大佬指点指点注意事项～或者有没有组队的小伙伴～约起来](https://www.v2ex.com/t/671208)  
-- [2020-05-13-推荐一款-golang-微服务集成框架](https://www.v2ex.com/t/671207)  
-- [2020-05-13-Windows10-本地只能通过-localhost-访问-WSL2-容器？](https://www.v2ex.com/t/671206)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,6 +1106,14 @@
 </summary>
 
 
+- [2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij) ![](assets/new.png)  
+- [2020-05-13-我的安全漏洞观](https://toutiao.io/k/0kysxr9) ![](assets/new.png)  
+- [2020-05-13-漫谈分布式系统（十二）：弱一致性也有用武之地](https://toutiao.io/k/4j0eqoc) ![](assets/new.png)  
+- [2020-05-13-我也不想做中台，但是刀架脖子上了](https://toutiao.io/k/g52z538) ![](assets/new.png)  
+- [2020-05-13-译-我通过了-Google-技术面试，所以你也能行](https://toutiao.io/k/nol17wt) ![](assets/new.png)  
+- [2020-05-13-快速适配-Flutter-之深色模式](https://toutiao.io/k/l6fk6xy) ![](assets/new.png)  
+- [2020-05-13-Python-为什么使用缩进来划分代码块？](https://toutiao.io/k/o4wju7g) ![](assets/new.png)  
+- [2020-05-13-译-谷歌工程实践文档](https://toutiao.io/k/0upd0k6) ![](assets/new.png)  
 - [2020-05-13-2020-版-Kubernetes-快速上手指南，让你所见即所得](https://toutiao.io/k/ey4i3fq)  
 - [2020-05-13-Spring-Cloud-Alibaba（一）：概述与重要组件](https://toutiao.io/k/mn670yu)  
 - [2020-05-13-TestNG-测试用例重跑详解及实践优化](https://toutiao.io/k/a8w1okl)  
@@ -1118,14 +1126,6 @@
 - [2020-05-13-Spring-Boot-基础系列：实现一个自定义配置加载器（应用篇）](https://toutiao.io/k/bbqolio)  
 - [2020-05-13-在-TS-中如何减少重复代码](https://toutiao.io/k/rap281h)  
 - [2020-05-13-入职半年多，Guide-哥总结了这些帮助你领先-90%-程序员的好习惯](https://toutiao.io/k/kpcddcx)  
-- [2020-05-13-IM-服务器设计：如何解决消息的乱序](https://toutiao.io/k/qkmur5o)  
-- [2020-05-13-声明式-declarative-vs-命令式-imperative](https://toutiao.io/k/0kmdg3v)  
-- [2020-05-13-Java-高频面试题：聊一聊-JUC-下的-LinkedBlockingQueue](https://toutiao.io/k/i16ct71)  
-- [2020-05-13-CGO-中传递回调函数和指针](https://toutiao.io/k/8c78ot7)  
-- [2020-05-13-Spring-源码（十一-）：-Spring-AOP-之编程式事务](https://toutiao.io/k/2dxdc4k)  
-- [2020-05-13-数万实例数百-TB-数据量，携程-Redis-治理演进之路](https://toutiao.io/k/r5hqxmk)  
-- [2020-05-13-iOS-APP-灰度发布方案](https://toutiao.io/k/sbvxlv1)  
-- [2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

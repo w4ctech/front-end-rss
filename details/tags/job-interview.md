@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 14:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -176,6 +176,7 @@
 - [2020-04-28-面试了一个-46-岁程序员，总结了很多-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13423&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfH3KrrBKktoKByASbXp6QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-13-译-我通过了-Google-技术面试，所以你也能行](https://toutiao.io/k/nol17wt) 
 - [2020-05-13-面试官：你不懂六大设计原则，回去等通知吧](https://toutiao.io/k/3oi8jlw) 
 - [2020-05-13-Java-高频面试题：聊一聊-JUC-下的-LinkedBlockingQueue](https://toutiao.io/k/i16ct71) 
 - [2020-05-12-一口气说出-6-种延时队列的实现方法，面试官也得服](https://toutiao.io/k/qe29lhr) 

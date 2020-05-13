@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-13 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1) 
@@ -3025,6 +3026,7 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7) 
 - [【开发者头条】2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl) 
 - [【开发者头条】2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r) 
 - [【开发者头条】2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv) 

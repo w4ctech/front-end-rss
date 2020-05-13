@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1)  
 - [2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1)  
 - [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1)  
 - [2020-05-12-英国新冠肺炎确诊患者新增3403例-累计确诊226463例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1)  
@@ -1041,7 +1042,7 @@
 </summary>
 
 
-- [2020-05-13-混合开发-windows-客户端，除了-electron-还有哪些好用的技术框架](https://www.v2ex.com/t/671112) ![](assets/new.png)  
+- [2020-05-13-混合开发-windows-客户端，除了-electron-还有哪些好用的技术框架](https://www.v2ex.com/t/671112)  
 - [2020-05-13-京东天猫淘宝优惠&价格监控微信机器人](https://www.v2ex.com/t/671111)  
 - [2020-05-13-请问怎样制作-ARIMA-接口文件](https://www.v2ex.com/t/671110)  
 - [2020-05-13-半年没有写代码了，工作能适应吗？](https://www.v2ex.com/t/671109)  
@@ -1103,6 +1104,7 @@
 </summary>
 
 
+- [2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7) ![](assets/new.png)  
 - [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl)  
 - [2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r)  
 - [2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv)  
@@ -1122,7 +1124,6 @@
 - [2020-05-12-Rust-vs-Go：哪个更受欢迎？](https://toutiao.io/k/ae5srwg)  
 - [2020-05-12-Kotlin-函数式编程和设计模式学习笔记（六）](https://toutiao.io/k/8bgij5k)  
 - [2020-05-12-基于-CAP-模型设计企业级真正高可用的分布式锁](https://toutiao.io/k/6atly2o)  
-- [2020-05-12-GitHub-迎来重大变更：可以直接用-VSCode-编码了](https://toutiao.io/k/gvbrvvx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

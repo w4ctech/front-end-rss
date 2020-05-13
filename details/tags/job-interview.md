@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 15:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 16:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -50,6 +50,8 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-13-当了-5-年亚马逊面试官，我总结了-5-步-面向对象设计-套路](https://www.v2ex.com/t/671278) 
+- [2020-05-13-帮朋友代发：深圳求职招聘群分享～](https://www.v2ex.com/t/671277) 
 - [2020-05-13-凤凰网-北京-招聘-告别-996-健康生活-欢迎骚扰](https://www.v2ex.com/t/671201) 
 - [2020-05-13-深圳推一个深圳的招聘群](https://www.v2ex.com/t/671171) 
 - [2020-05-13-微软中国内推！微软-Azure-Rapid-Response-团队招聘啦](https://www.v2ex.com/t/671137) 

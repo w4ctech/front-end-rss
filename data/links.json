@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "俄罗斯新增10028例新冠肺炎确诊病例 累计确诊242271例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "国家卫健委：吉林舒兰传染源调查仍在进行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauzWVPOiakGWN2lFk4uK200513&isfromapp=1",
+        "date": "2020-05-13"
+      },
+      {
         "title": "吉林市已经复学的年级一律转为网上授课",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1",
         "date": "2020-05-13"
@@ -7096,6 +7106,106 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "为什么 feign 的源码喜欢一个类文件里面 好多内部类？",
+        "link": "https://www.v2ex.com/t/671282",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "大家使用 aria2 时出现过“操作成功完成”的错误吗？",
+        "link": "https://www.v2ex.com/t/671281",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "昨天试用了一天的为知笔记私服，感觉很棒。",
+        "link": "https://www.v2ex.com/t/671280",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "macOS 网易云音乐卡顿问题",
+        "link": "https://www.v2ex.com/t/671279",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "当了 5 年亚马逊面试官，我总结了 5 步 [面向对象设计] 套路",
+        "link": "https://www.v2ex.com/t/671278",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "帮朋友代发：深圳求职招聘群分享～",
+        "link": "https://www.v2ex.com/t/671277",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "面试官说 缓存都是前端的事，这是真的吗",
+        "link": "https://www.v2ex.com/t/671276",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "MBP15 款外接编写显示器求助",
+        "link": "https://www.v2ex.com/t/671273",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "长寿村的秘密",
+        "link": "https://www.v2ex.com/t/671272",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "OneDrive 本地客户端无法打开",
+        "link": "https://www.v2ex.com/t/671271",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "现在 Vultr 日本还能用吗，用作图床。",
+        "link": "https://www.v2ex.com/t/671270",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "字节跳动飞书业务内推 北京、杭州、武汉、广州、深圳、上海，六大城市",
+        "link": "https://www.v2ex.com/t/671269",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "写了个自动领取起点小说经验值的油候插件，有需要的自取",
+        "link": "https://www.v2ex.com/t/671268",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "联通对注销的手机号重分配后一个微信公众号的 bug",
+        "link": "https://www.v2ex.com/t/671267",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "我就想问下那些加入付费社群的，教发财的，提升自我的，是什么体验，现在发财了吗，提升了吗",
+        "link": "https://www.v2ex.com/t/671266",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "babel-transver 特别慢的原因？",
+        "link": "https://www.v2ex.com/t/671265",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "不懂就问：游戏本适合机器学习吗？",
+        "link": "https://www.v2ex.com/t/671264",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "使用 jquery.validate 插件对动态新增的表单进行校验",
+        "link": "https://www.v2ex.com/t/671262",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "使用图片复制粘贴来搜索谷歌图片的 chrome 扩展",
+        "link": "https://www.v2ex.com/t/671261",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "中国移动的手机置换服务是什么鬼？",
+        "link": "https://www.v2ex.com/t/671259",
+        "date": "2020-05-13"
+      },
       {
         "title": "如果提供 刷 star 服务会有人买吗",
         "link": "https://www.v2ex.com/t/671258",

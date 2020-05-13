@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 15:30:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 16:00:24，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-13-吉林市已经复学的年级一律转为网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-俄罗斯新增10028例新冠肺炎确诊病例-累计确诊242271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-国家卫健委：吉林舒兰传染源调查仍在进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauzWVPOiakGWN2lFk4uK200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-吉林市已经复学的年级一律转为网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1)  
 - [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1)  
 - [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
 - [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-12-国际护士节丨护士许秋英：尽我所能-带给患者更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU9ph9oWgJp8k3pvzusaX200512&isfromapp=1)  
 - [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762)  
 - [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1)  
-- [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
-- [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-05-13-如果提供-刷-star-服务会有人买吗](https://www.v2ex.com/t/671258)  
-- [2020-05-13-面试题分析-Python-里面如何拷贝一个对象？（赋值，浅拷贝，深拷贝的区别）](https://www.v2ex.com/t/671257)  
-- [2020-05-13-除了日常需求，大家还做了什么有高价值的系统或工具？](https://www.v2ex.com/t/671256)  
-- [2020-05-13-上海唐镇-拉卡拉-招人](https://www.v2ex.com/t/671255)  
-- [2020-05-13-入职-8-个月，如果被裁，理论赔偿几个月工资](https://www.v2ex.com/t/671254)  
-- [2020-05-13-万能的-V-友们，请教一个关于本地解析设置-cname-的问题](https://www.v2ex.com/t/671253)  
-- [2020-05-13-今天更新了-mbp，显示器多了个高动态范围（默认开启）](https://www.v2ex.com/t/671252)  
-- [2020-05-13-主从执行计划不一致的问题？有没有大佬详解一下？](https://www.v2ex.com/t/671251)  
-- [2020-05-13-AirpodsPro-最近有合适的车吗](https://www.v2ex.com/t/671250)  
-- [2020-05-13-在-GitHub-上做开源项目，对我到底有什么帮助？](https://www.v2ex.com/t/671249)  
-- [2020-05-13-分享一些远程工作时开会的心得](https://www.v2ex.com/t/671248)  
-- [2020-05-13-是我一个人的问题吗](https://www.v2ex.com/t/671247)  
-- [2020-05-13-如何将现有的-Linux-系统制作成-ISO](https://www.v2ex.com/t/671246)  
-- [2020-05-13-北京-凤凰网-告别-996](https://www.v2ex.com/t/671245)  
-- [2020-05-13-易语言还有什么大的发展方向？](https://www.v2ex.com/t/671244)  
-- [2020-05-13-这显示器算是虚假宣传吗？](https://www.v2ex.com/t/671243)  
-- [2020-05-13-杭州-PHP-/NodeJS-求职](https://www.v2ex.com/t/671242)  
-- [2020-05-13-运营商给了-/64-ipv6-段-和两个互联地址，请教怎么配置？](https://www.v2ex.com/t/671241)  
-- [2020-05-13-开源-上班摸鱼中，我-momomomomo~~基于-vue~手撸了一个杀毒软件~~~](https://www.v2ex.com/t/671240)  
-- [2020-05-13-Maven-如何实现动态时间戳版本号](https://www.v2ex.com/t/671239)  
+- [2020-05-13-为什么-feign-的源码喜欢一个类文件里面-好多内部类？](https://www.v2ex.com/t/671282) ![](assets/new.png)  
+- [2020-05-13-大家使用-aria2-时出现过“操作成功完成”的错误吗？](https://www.v2ex.com/t/671281) ![](assets/new.png)  
+- [2020-05-13-昨天试用了一天的为知笔记私服，感觉很棒。](https://www.v2ex.com/t/671280) ![](assets/new.png)  
+- [2020-05-13-macOS-网易云音乐卡顿问题](https://www.v2ex.com/t/671279) ![](assets/new.png)  
+- [2020-05-13-当了-5-年亚马逊面试官，我总结了-5-步-面向对象设计-套路](https://www.v2ex.com/t/671278) ![](assets/new.png)  
+- [2020-05-13-帮朋友代发：深圳求职招聘群分享～](https://www.v2ex.com/t/671277) ![](assets/new.png)  
+- [2020-05-13-面试官说-缓存都是前端的事，这是真的吗](https://www.v2ex.com/t/671276) ![](assets/new.png)  
+- [2020-05-13-MBP15-款外接编写显示器求助](https://www.v2ex.com/t/671273) ![](assets/new.png)  
+- [2020-05-13-长寿村的秘密](https://www.v2ex.com/t/671272) ![](assets/new.png)  
+- [2020-05-13-OneDrive-本地客户端无法打开](https://www.v2ex.com/t/671271) ![](assets/new.png)  
+- [2020-05-13-现在-Vultr-日本还能用吗，用作图床。](https://www.v2ex.com/t/671270) ![](assets/new.png)  
+- [2020-05-13-字节跳动飞书业务内推-北京、杭州、武汉、广州、深圳、上海，六大城市](https://www.v2ex.com/t/671269) ![](assets/new.png)  
+- [2020-05-13-写了个自动领取起点小说经验值的油候插件，有需要的自取](https://www.v2ex.com/t/671268) ![](assets/new.png)  
+- [2020-05-13-联通对注销的手机号重分配后一个微信公众号的-bug](https://www.v2ex.com/t/671267) ![](assets/new.png)  
+- [2020-05-13-我就想问下那些加入付费社群的，教发财的，提升自我的，是什么体验，现在发财了吗，提升了吗](https://www.v2ex.com/t/671266) ![](assets/new.png)  
+- [2020-05-13-babel-transver-特别慢的原因？](https://www.v2ex.com/t/671265) ![](assets/new.png)  
+- [2020-05-13-不懂就问：游戏本适合机器学习吗？](https://www.v2ex.com/t/671264) ![](assets/new.png)  
+- [2020-05-13-使用-jquery.validate-插件对动态新增的表单进行校验](https://www.v2ex.com/t/671262) ![](assets/new.png)  
+- [2020-05-13-使用图片复制粘贴来搜索谷歌图片的-chrome-扩展](https://www.v2ex.com/t/671261) ![](assets/new.png)  
+- [2020-05-13-中国移动的手机置换服务是什么鬼？](https://www.v2ex.com/t/671259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

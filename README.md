@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 14:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 15:00:22，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
@@ -1044,26 +1044,26 @@
 </summary>
 
 
+- [2020-05-13-如果提供-刷-star-服务会有人买吗](https://www.v2ex.com/t/671258) ![](assets/new.png)  
+- [2020-05-13-面试题分析-Python-里面如何拷贝一个对象？（赋值，浅拷贝，深拷贝的区别）](https://www.v2ex.com/t/671257) ![](assets/new.png)  
+- [2020-05-13-除了日常需求，大家还做了什么有高价值的系统或工具？](https://www.v2ex.com/t/671256) ![](assets/new.png)  
+- [2020-05-13-上海唐镇-拉卡拉-招人](https://www.v2ex.com/t/671255) ![](assets/new.png)  
+- [2020-05-13-入职-8-个月，如果被裁，理论赔偿几个月工资](https://www.v2ex.com/t/671254) ![](assets/new.png)  
+- [2020-05-13-万能的-V-友们，请教一个关于本地解析设置-cname-的问题](https://www.v2ex.com/t/671253) ![](assets/new.png)  
+- [2020-05-13-今天更新了-mbp，显示器多了个高动态范围（默认开启）](https://www.v2ex.com/t/671252) ![](assets/new.png)  
+- [2020-05-13-主从执行计划不一致的问题？有没有大佬详解一下？](https://www.v2ex.com/t/671251) ![](assets/new.png)  
+- [2020-05-13-AirpodsPro-最近有合适的车吗](https://www.v2ex.com/t/671250) ![](assets/new.png)  
+- [2020-05-13-在-GitHub-上做开源项目，对我到底有什么帮助？](https://www.v2ex.com/t/671249) ![](assets/new.png)  
+- [2020-05-13-分享一些远程工作时开会的心得](https://www.v2ex.com/t/671248) ![](assets/new.png)  
+- [2020-05-13-是我一个人的问题吗](https://www.v2ex.com/t/671247) ![](assets/new.png)  
+- [2020-05-13-如何将现有的-Linux-系统制作成-ISO](https://www.v2ex.com/t/671246) ![](assets/new.png)  
+- [2020-05-13-北京-凤凰网-告别-996](https://www.v2ex.com/t/671245) ![](assets/new.png)  
+- [2020-05-13-易语言还有什么大的发展方向？](https://www.v2ex.com/t/671244) ![](assets/new.png)  
+- [2020-05-13-这显示器算是虚假宣传吗？](https://www.v2ex.com/t/671243) ![](assets/new.png)  
+- [2020-05-13-杭州-PHP-/NodeJS-求职](https://www.v2ex.com/t/671242) ![](assets/new.png)  
+- [2020-05-13-运营商给了-/64-ipv6-段-和两个互联地址，请教怎么配置？](https://www.v2ex.com/t/671241) ![](assets/new.png)  
+- [2020-05-13-开源-上班摸鱼中，我-momomomomo~~基于-vue~手撸了一个杀毒软件~~~](https://www.v2ex.com/t/671240) ![](assets/new.png)  
 - [2020-05-13-Maven-如何实现动态时间戳版本号](https://www.v2ex.com/t/671239)  
-- [2020-05-13-怎么感觉-magic-keyboard-还没有-mbp2018-的键盘好用啊](https://www.v2ex.com/t/671237)  
-- [2020-05-13-哪些信息需要以日志形式记录](https://www.v2ex.com/t/671236)  
-- [2020-05-13-微信内置浏览器拦截内网网址](https://www.v2ex.com/t/671234)  
-- [2020-05-13-一加-8-pro-断流严重，严重影响日常工作生活，官方-15-天退货承诺就是扯淡](https://www.v2ex.com/t/671233)  
-- [2020-05-13-zh.维基百科，国内现在可以直接打开了](https://www.v2ex.com/t/671232)  
-- [2020-05-13-发现很多人打电话的时候会手舞足蹈，跟指挥一场交响乐似的，不觉得尴尬么-:dog](https://www.v2ex.com/t/671228)  
-- [2020-05-13-阿里云-云原生应用平台招聘-云应用平台-/-K8s-/-Serverless-/-DevOps-相关领域专家（后端、前端）](https://www.v2ex.com/t/671227)  
-- [2020-05-13-win10-虚拟桌面-怎么滚动切换](https://www.v2ex.com/t/671226)  
-- [2020-05-13-做了一个黑客辞典的微信小程序，可以发弹幕吐槽](https://www.v2ex.com/t/671225)  
-- [2020-05-13-换工作选择，求分析](https://www.v2ex.com/t/671224)  
-- [2020-05-13-被小米路由器伤过，最近出的-WIFI6-到底能否再爱一次](https://www.v2ex.com/t/671223)  
-- [2020-05-13-Spring-Security-管理系统/admin/login-和前端与普通用户交互的/user/login-希望用两个不同的-UserDetailsService，该咋整啊？](https://www.v2ex.com/t/671222)  
-- [2020-05-13-神州专车，我该如何维权？](https://www.v2ex.com/t/671221)  
-- [2020-05-13-支付宝的地区切换到平壤真的有奇效啊](https://www.v2ex.com/t/671219)  
-- [2020-05-13-广州电信-500M-单线双拨，上行叠加下行不叠加？](https://www.v2ex.com/t/671217)  
-- [2020-05-13-3.5mm-接口音频一分二，带切换开关的工具。有推荐吗？](https://www.v2ex.com/t/671216)  
-- [2020-05-13-有没有什么比较稳定的正向代理软件](https://www.v2ex.com/t/671215)  
-- [2020-05-13-密码太多了，有什么推荐的密码管理器吗？](https://www.v2ex.com/t/671214)  
-- [2020-05-13-北京朝阳区草房招一个室友啊，不要中介费](https://www.v2ex.com/t/671213)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,7 +1075,8 @@
 </summary>
 
 
-- [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1094,7 +1095,6 @@
 - [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

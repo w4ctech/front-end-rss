@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 14:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 15:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -128,6 +128,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-13-面试题分析-Python-里面如何拷贝一个对象？（赋值，浅拷贝，深拷贝的区别）](https://www.v2ex.com/t/671257) 
 - [2020-05-13-win10-虚拟桌面-怎么滚动切换](https://www.v2ex.com/t/671226) 
 - [2020-05-13-被小米路由器伤过，最近出的-WIFI6-到底能否再爱一次](https://www.v2ex.com/t/671223) 
 - [2020-05-12-Android-Studio-的可视化布局编辑器自动改变组件树的层次结构](https://www.v2ex.com/t/671074) 

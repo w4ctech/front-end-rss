@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 14:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 15:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -29,6 +29,7 @@
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-05-13-在-GitHub-上做开源项目，对我到底有什么帮助？](https://www.v2ex.com/t/671249) 
 - [2020-05-12-git-里怎么方便地追踪某一行的修改历史](https://www.v2ex.com/t/670941) 
 - [2020-05-11-Gitlab-CI-是否支持-MR-的测试覆盖率达到某个百分比才可以合并？](https://www.v2ex.com/t/670636) 
 - [2020-05-10-关于-logitech-flow](https://www.v2ex.com/t/670258) 

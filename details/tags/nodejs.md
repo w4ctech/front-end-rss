@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 14:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 15:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -36,6 +36,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-13-杭州-PHP-/NodeJS-求职](https://www.v2ex.com/t/671242) 
 - [2020-05-13-混合开发-windows-客户端，除了-electron-还有哪些好用的技术框架](https://www.v2ex.com/t/671112) 
 - [2020-05-12-electron-中使用-web-worker-处理批量文件上传，如何在主进程暂停-web-worker-中某个文件或者全部文件的上传](https://www.v2ex.com/t/670920) 
 - [2020-05-11-electron-中-nls.localize{-key:-'miUndo',-comment:-'&&-denotes-a-mnemonic'-这种"&&"是什么用处？](https://www.v2ex.com/t/670590) 

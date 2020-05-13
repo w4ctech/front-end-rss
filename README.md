@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 02:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 03:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1045,7 +1045,8 @@
 </summary>
 
 
-- [2020-05-14-迫于买家电-收点京东-E-卡](https://www.v2ex.com/t/671440) ![](assets/new.png)  
+- [2020-05-14-正确的自学方式？？](https://www.v2ex.com/t/671441) ![](assets/new.png)  
+- [2020-05-14-迫于买家电-收点京东-E-卡](https://www.v2ex.com/t/671440)  
 - [2020-05-14-用你的-Mweb-来写-PPT-吧，撸了一套-Mweb-的-PPT-主题](https://www.v2ex.com/t/671439)  
 - [2020-05-14-chrome-怎么删除编辑框的下拉记录？](https://www.v2ex.com/t/671438)  
 - [2020-05-14-一种跑在网页中的代理？](https://www.v2ex.com/t/671437)  
@@ -1064,7 +1065,6 @@
 - [2020-05-13-安卓-8.1-的系统，-root-后卸载内置程序用什么工具？（无添加，无广告的）](https://www.v2ex.com/t/671421)  
 - [2020-05-13-怎样通过互联网快速入狱](https://www.v2ex.com/t/671420)  
 - [2020-05-13-一般公司允许把代码拷贝到私人设备上工作吗？](https://www.v2ex.com/t/671419)  
-- [2020-05-13-大家的帖子都被-peizhao2017-收藏了吗？](https://www.v2ex.com/t/671418)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

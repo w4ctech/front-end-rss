@@ -6987,6 +6987,61 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "发现一款 APP 可以读取任意 app 的语音消息并自动播报，这是什么操作？",
+        "link": "https://www.v2ex.com/t/671127",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "[北京]北大高能效中心课题组 EDA 项目招募软件工程师",
+        "link": "https://www.v2ex.com/t/671125",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "[快手] 内推进行时...",
+        "link": "https://www.v2ex.com/t/671124",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "入 mbp16 了，准备把我的小 mini 出掉，这配置能要到多少价？",
+        "link": "https://www.v2ex.com/t/671123",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "现在的安全公司都是这样签合同的？",
+        "link": "https://www.v2ex.com/t/671122",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "关于外行对于程序员的形象认知",
+        "link": "https://www.v2ex.com/t/671121",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "MacBook pro 现在还有涂层问题吗？",
+        "link": "https://www.v2ex.com/t/671120",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "看到很多时候讨论变成争论，我感觉讨论这个词应该换成 观点交换/信息交换 就更好了",
+        "link": "https://www.v2ex.com/t/671119",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "你们会主动承担任务吗，还是都等上级安排？",
+        "link": "https://www.v2ex.com/t/671117",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "slack 挂了。。",
+        "link": "https://www.v2ex.com/t/671116",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "[已内推 31 人拿到 offer] 微软 Office 365 远程招聘日，又来啦！",
+        "link": "https://www.v2ex.com/t/671115",
+        "date": "2020-05-13"
+      },
+      {
         "title": "混合开发 windows 客户端，除了 electron 还有哪些好用的技术框架",
         "link": "https://www.v2ex.com/t/671112",
         "date": "2020-05-13"
@@ -29080,6 +29135,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "为什么数组要从零开始？",
+        "link": "https://toutiao.io/k/m0kj5lp",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "面试官：你不懂六大设计原则，回去等通知吧",
+        "link": "https://toutiao.io/k/3oi8jlw",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "[译] Next.js 和 Nuxt.js 的语法比较，Vue 和 React 的两大 SSR 解决方案",
+        "link": "https://toutiao.io/k/s9cx24y",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "kafka 集群扩容后的数据均衡",
+        "link": "https://toutiao.io/k/h8c9hf1",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "如果平行宇宙也有编程语言",
+        "link": "https://toutiao.io/k/x6fb1v8",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "Spring Boot 基础系列：实现一个自定义配置加载器（应用篇）",
+        "link": "https://toutiao.io/k/bbqolio",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "在 TS 中如何减少重复代码",
+        "link": "https://toutiao.io/k/rap281h",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "入职半年多，Guide 哥总结了这些帮助你领先 90% 程序员的好习惯",
+        "link": "https://toutiao.io/k/kpcddcx",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "IM 服务器设计：如何解决消息的乱序",
+        "link": "https://toutiao.io/k/qkmur5o",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "声明式 (declarative) vs 命令式 (imperative)",
+        "link": "https://toutiao.io/k/0kmdg3v",
+        "date": "2020-05-13"
+      },
       {
         "title": "Java 高频面试题：聊一聊 JUC 下的 LinkedBlockingQueue",
         "link": "https://toutiao.io/k/i16ct71",

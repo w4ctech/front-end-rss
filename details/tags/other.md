@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -679,6 +679,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-13-发现一款-APP-可以读取任意-app-的语音消息并自动播报，这是什么操作？](https://www.v2ex.com/t/671127) 
+- [2020-05-13-北京北大高能效中心课题组-EDA-项目招募软件工程师](https://www.v2ex.com/t/671125) 
+- [2020-05-13-快手-内推进行时...](https://www.v2ex.com/t/671124) 
+- [2020-05-13-入-mbp16-了，准备把我的小-mini-出掉，这配置能要到多少价？](https://www.v2ex.com/t/671123) 
+- [2020-05-13-关于外行对于程序员的形象认知](https://www.v2ex.com/t/671121) 
+- [2020-05-13-MacBook-pro-现在还有涂层问题吗？](https://www.v2ex.com/t/671120) 
+- [2020-05-13-看到很多时候讨论变成争论，我感觉讨论这个词应该换成-观点交换/信息交换-就更好了](https://www.v2ex.com/t/671119) 
+- [2020-05-13-你们会主动承担任务吗，还是都等上级安排？](https://www.v2ex.com/t/671117) 
+- [2020-05-13-slack-挂了。。](https://www.v2ex.com/t/671116) 
 - [2020-05-13-京东天猫淘宝优惠&价格监控微信机器人](https://www.v2ex.com/t/671111) 
 - [2020-05-13-请问怎样制作-ARIMA-接口文件](https://www.v2ex.com/t/671110) 
 - [2020-05-13-半年没有写代码了，工作能适应吗？](https://www.v2ex.com/t/671109) 
@@ -4181,6 +4190,10 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-13-kafka-集群扩容后的数据均衡](https://toutiao.io/k/h8c9hf1) 
+- [2020-05-13-如果平行宇宙也有编程语言](https://toutiao.io/k/x6fb1v8) 
+- [2020-05-13-在-TS-中如何减少重复代码](https://toutiao.io/k/rap281h) 
+- [2020-05-13-IM-服务器设计：如何解决消息的乱序](https://toutiao.io/k/qkmur5o) 
 - [2020-05-13-CGO-中传递回调函数和指针](https://toutiao.io/k/8c78ot7) 
 - [2020-05-13-Spring-源码（十一-）：-Spring-AOP-之编程式事务](https://toutiao.io/k/2dxdc4k) 
 - [2020-05-13-数万实例数百-TB-数据量，携程-Redis-治理演进之路](https://toutiao.io/k/r5hqxmk) 

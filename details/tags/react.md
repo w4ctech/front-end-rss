@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -75,6 +75,7 @@
 - [2020-04-26-滴滴北京-大前端-React-+-Node-招聘](https://www.v2ex.com/t/666232) 
 - [2020-04-24-react+github-pages-搭建的个人首页](https://www.v2ex.com/t/665805) 
 - [2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517) 
+- [2020-05-13-译-Next.js-和-Nuxt.js-的语法比较，Vue-和-React-的两大-SSR-解决方案](https://toutiao.io/k/s9cx24y) 
 - [2020-05-12-pc-pcm-wave-一个简单录音波纹-Preact-组件](https://toutiao.io/k/9yf2mch) 
 - [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr) 
 - [2020-05-06-使用-Reactor-响应式编程](https://toutiao.io/k/05djgxk) 

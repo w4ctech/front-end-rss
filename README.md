@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 09:00:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -220,7 +220,7 @@
 </summary>
 
 
-- [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04) ![](assets/new.png)  
+- [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
 - [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)  
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e)  
 - [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6)  
@@ -1042,6 +1042,17 @@
 </summary>
 
 
+- [2020-05-13-发现一款-APP-可以读取任意-app-的语音消息并自动播报，这是什么操作？](https://www.v2ex.com/t/671127) ![](assets/new.png)  
+- [2020-05-13-北京北大高能效中心课题组-EDA-项目招募软件工程师](https://www.v2ex.com/t/671125) ![](assets/new.png)  
+- [2020-05-13-快手-内推进行时...](https://www.v2ex.com/t/671124) ![](assets/new.png)  
+- [2020-05-13-入-mbp16-了，准备把我的小-mini-出掉，这配置能要到多少价？](https://www.v2ex.com/t/671123) ![](assets/new.png)  
+- [2020-05-13-现在的安全公司都是这样签合同的？](https://www.v2ex.com/t/671122) ![](assets/new.png)  
+- [2020-05-13-关于外行对于程序员的形象认知](https://www.v2ex.com/t/671121) ![](assets/new.png)  
+- [2020-05-13-MacBook-pro-现在还有涂层问题吗？](https://www.v2ex.com/t/671120) ![](assets/new.png)  
+- [2020-05-13-看到很多时候讨论变成争论，我感觉讨论这个词应该换成-观点交换/信息交换-就更好了](https://www.v2ex.com/t/671119) ![](assets/new.png)  
+- [2020-05-13-你们会主动承担任务吗，还是都等上级安排？](https://www.v2ex.com/t/671117) ![](assets/new.png)  
+- [2020-05-13-slack-挂了。。](https://www.v2ex.com/t/671116) ![](assets/new.png)  
+- [2020-05-13-已内推-31-人拿到-offer-微软-Office-365-远程招聘日，又来啦！](https://www.v2ex.com/t/671115) ![](assets/new.png)  
 - [2020-05-13-混合开发-windows-客户端，除了-electron-还有哪些好用的技术框架](https://www.v2ex.com/t/671112)  
 - [2020-05-13-京东天猫淘宝优惠&价格监控微信机器人](https://www.v2ex.com/t/671111)  
 - [2020-05-13-请问怎样制作-ARIMA-接口文件](https://www.v2ex.com/t/671110)  
@@ -1051,17 +1062,6 @@
 - [2020-05-13-有没有个人收藏数据整理打包工具？需要有很多超链接-数据库-文字图片记录](https://www.v2ex.com/t/671103)  
 - [2020-05-13-寻求一套支付系统](https://www.v2ex.com/t/671102)  
 - [2020-05-13-有点突发奇想弱弱问问，现在的初中生送啥礼物会是他们没见过的新奇玩意，或者说是他们自己都想攒钱买的（最好是有关学习正能量的）](https://www.v2ex.com/t/671101)  
-- [2020-05-13-在-5G-加持下，物联网的趋势何在？和前景如何？](https://www.v2ex.com/t/671100)  
-- [2020-05-13-腾讯的免费企业邮箱完美地体现了其腾讯特性，霸道](https://www.v2ex.com/t/671099)  
-- [2020-05-13-有没有办法实现-iPhone-照片和-PC（win10）精确同步？](https://www.v2ex.com/t/671097)  
-- [2020-05-13-iOS13-后支持-3D-touch-的机型也用不了-3Dtouch-了吗？](https://www.v2ex.com/t/671096)  
-- [2020-05-13-看-CTO-封的框架代码-，忍不住，吐槽……](https://www.v2ex.com/t/671095)  
-- [2020-05-13-Java-开发工作快-2-年了（实习了大半年去年毕业的）感觉对于自己的学习路线有点迷茫，工作中用到的技术也很老对于找新工作没有什么帮助，虽然有在自学但是可能由...](https://www.v2ex.com/t/671094)  
-- [2020-05-12-明明没有登陆-Apple-ID，照片却收到垃圾邀请](https://www.v2ex.com/t/671093)  
-- [2020-05-12-广州游戏宽带无公网-ip，如何挂-pt](https://www.v2ex.com/t/671092)  
-- [2020-05-12-用了-6-年的-SSD-还能有救么？（三星-840-pro-2013-年）](https://www.v2ex.com/t/671091)  
-- [2020-05-12-《上海市推进新型基础设施建设行动方案》本节点相关内容选摘](https://www.v2ex.com/t/671090)  
-- [2020-05-12-两个-offer，-AT/小厂的，有点纠结，路过的大佬帮忙看一下~](https://www.v2ex.com/t/671089)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,26 +1104,26 @@
 </summary>
 
 
-- [2020-05-13-Java-高频面试题：聊一聊-JUC-下的-LinkedBlockingQueue](https://toutiao.io/k/i16ct71) ![](assets/new.png)  
-- [2020-05-13-CGO-中传递回调函数和指针](https://toutiao.io/k/8c78ot7) ![](assets/new.png)  
-- [2020-05-13-Spring-源码（十一-）：-Spring-AOP-之编程式事务](https://toutiao.io/k/2dxdc4k) ![](assets/new.png)  
-- [2020-05-13-数万实例数百-TB-数据量，携程-Redis-治理演进之路](https://toutiao.io/k/r5hqxmk) ![](assets/new.png)  
-- [2020-05-13-iOS-APP-灰度发布方案](https://toutiao.io/k/sbvxlv1) ![](assets/new.png)  
+- [2020-05-13-为什么数组要从零开始？](https://toutiao.io/k/m0kj5lp) ![](assets/new.png)  
+- [2020-05-13-面试官：你不懂六大设计原则，回去等通知吧](https://toutiao.io/k/3oi8jlw) ![](assets/new.png)  
+- [2020-05-13-译-Next.js-和-Nuxt.js-的语法比较，Vue-和-React-的两大-SSR-解决方案](https://toutiao.io/k/s9cx24y) ![](assets/new.png)  
+- [2020-05-13-kafka-集群扩容后的数据均衡](https://toutiao.io/k/h8c9hf1) ![](assets/new.png)  
+- [2020-05-13-如果平行宇宙也有编程语言](https://toutiao.io/k/x6fb1v8) ![](assets/new.png)  
+- [2020-05-13-Spring-Boot-基础系列：实现一个自定义配置加载器（应用篇）](https://toutiao.io/k/bbqolio) ![](assets/new.png)  
+- [2020-05-13-在-TS-中如何减少重复代码](https://toutiao.io/k/rap281h) ![](assets/new.png)  
+- [2020-05-13-入职半年多，Guide-哥总结了这些帮助你领先-90%-程序员的好习惯](https://toutiao.io/k/kpcddcx) ![](assets/new.png)  
+- [2020-05-13-IM-服务器设计：如何解决消息的乱序](https://toutiao.io/k/qkmur5o) ![](assets/new.png)  
+- [2020-05-13-声明式-declarative-vs-命令式-imperative](https://toutiao.io/k/0kmdg3v) ![](assets/new.png)  
+- [2020-05-13-Java-高频面试题：聊一聊-JUC-下的-LinkedBlockingQueue](https://toutiao.io/k/i16ct71)  
+- [2020-05-13-CGO-中传递回调函数和指针](https://toutiao.io/k/8c78ot7)  
+- [2020-05-13-Spring-源码（十一-）：-Spring-AOP-之编程式事务](https://toutiao.io/k/2dxdc4k)  
+- [2020-05-13-数万实例数百-TB-数据量，携程-Redis-治理演进之路](https://toutiao.io/k/r5hqxmk)  
+- [2020-05-13-iOS-APP-灰度发布方案](https://toutiao.io/k/sbvxlv1)  
 - [2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7)  
 - [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl)  
 - [2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r)  
 - [2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv)  
 - [2020-05-12-为什么-Mac-地址不需要全球唯一](https://toutiao.io/k/hioqrx0)  
-- [2020-05-12-译-SpEL：Spring-表达式语言](https://toutiao.io/k/q9p3r7d)  
-- [2020-05-12-TCP-和-UDP](https://toutiao.io/k/w3pnxtu)  
-- [2020-05-12-RSA-到底是谁加密？](https://toutiao.io/k/qx0f4h4)  
-- [2020-05-12-pc-pcm-wave-一个简单录音波纹-Preact-组件](https://toutiao.io/k/9yf2mch)  
-- [2020-05-12-前端换肤的-N-种方案，请收下](https://toutiao.io/k/hlu77iw)  
-- [2020-05-12-推荐几个堪称教科书级别的-Android-音视频入门项目](https://toutiao.io/k/pldvja4)  
-- [2020-05-12-一口气说出-6-种延时队列的实现方法，面试官也得服](https://toutiao.io/k/qe29lhr)  
-- [2020-05-12-如何在端外投放的场景下实现前端实时-CEP-框架？](https://toutiao.io/k/607j7uz)  
-- [2020-05-12-“我是大厂面试官”-Java-集合，你肯定也会被问到这些](https://toutiao.io/k/brtzw0z)  
-- [2020-05-12-我是如何让微博绿洲的启动速度提升-30-%的（二）](https://toutiao.io/k/5ttu3af)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

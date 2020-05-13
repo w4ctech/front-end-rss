@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-05-14 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-14-最近在同时学习-Python-和-Ruby-这两门语言](https://www.v2ex.com/t/671431) 
+- [2020-05-14-电池健康使用问题，-2020-年-1-月买的-2019-款-mbp-16-寸，现在电池循环了-105-次了，是不是有点多？电池容量降到了-93%](https://www.v2ex.com/t/671430) 
+- [2020-05-14-Firefox-76.0.1-自动开启-DoH-功能导致-DNS-解析到美国](https://www.v2ex.com/t/671429) 
+- [2020-05-14-（英文）-Python-Daily---订阅-Python-最新消息](https://www.v2ex.com/t/671428) 
+- [2020-05-14-spring-boot-+-spring-security-+-vue-动态权限如何实现](https://www.v2ex.com/t/671427) 
+- [2020-05-14-Springboot-Mongodb-异步方法后插入出现-MongoInterruptedException](https://www.v2ex.com/t/671426) 
 - [2020-05-13-Unreal-Engine-5-Revealed!-|-Next-Gen-Real-Time-Demo-Running-on-PlayStation-5-感觉过几年就能体验到类似头号玩家的游戏。](https://www.v2ex.com/t/671424) 
 - [2020-05-13-广州联通-58-元低消送的-100M-宽带，可以免费升级到-200M-了，真香。](https://www.v2ex.com/t/671423) 
 - [2020-05-13-业余时间给个人公众号开发了京东返利功能](https://www.v2ex.com/t/671422) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -491,6 +491,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-最近在同时学习-Python-和-Ruby-这两门语言](https://www.v2ex.com/t/671431) 
+- [【V2EX】2020-05-14-电池健康使用问题，-2020-年-1-月买的-2019-款-mbp-16-寸，现在电池循环了-105-次了，是不是有点多？电池容量降到了-93%](https://www.v2ex.com/t/671430) 
+- [【V2EX】2020-05-14-Firefox-76.0.1-自动开启-DoH-功能导致-DNS-解析到美国](https://www.v2ex.com/t/671429) 
+- [【V2EX】2020-05-14-（英文）-Python-Daily---订阅-Python-最新消息](https://www.v2ex.com/t/671428) 
+- [【V2EX】2020-05-14-spring-boot-+-spring-security-+-vue-动态权限如何实现](https://www.v2ex.com/t/671427) 
+- [【V2EX】2020-05-14-Springboot-Mongodb-异步方法后插入出现-MongoInterruptedException](https://www.v2ex.com/t/671426) 
 - [【V2EX】2020-05-13-Unreal-Engine-5-Revealed!-|-Next-Gen-Real-Time-Demo-Running-on-PlayStation-5-感觉过几年就能体验到类似头号玩家的游戏。](https://www.v2ex.com/t/671424) 
 - [【V2EX】2020-05-13-广州联通-58-元低消送的-100M-宽带，可以免费升级到-200M-了，真香。](https://www.v2ex.com/t/671423) 
 - [【V2EX】2020-05-13-业余时间给个人公众号开发了京东返利功能](https://www.v2ex.com/t/671422) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -75,6 +75,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-13-前端开发-求职，求远程工作，-Vue-全家桶，-Electron，-nodejs-爬虫](https://www.v2ex.com/t/671147) 
 - [2020-05-12-日常开吹：竹板这么一打，今天夸一夸，为什么我喜欢-Vue](https://www.v2ex.com/t/671052) 
 - [2020-05-12-宠物社区小程序寻人~~全栈-Vue-前端-UI-来聊！](https://www.v2ex.com/t/671003) 
 - [2020-05-12-对宠物项目感兴趣的进来瞧瞧呀-小程序快上线了-还需全栈-Vue-前端-UI](https://www.v2ex.com/t/670990) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -25,6 +25,7 @@
 - [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442) 
 - [2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
 - [2020-04-21-前端面试官：你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/f043159a3f39056accf9d347ce14b21a) 
+- [2020-05-13-Google-技术面试全记录](https://www.ershicimi.com/p/852b8d85b860a2bc029cf2403f02c834) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838) 
@@ -49,6 +50,7 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-13-微软中国内推！微软-Azure-Rapid-Response-团队招聘啦](https://www.v2ex.com/t/671137) 
 - [2020-05-13-已内推-31-人拿到-offer-微软-Office-365-远程招聘日，又来啦！](https://www.v2ex.com/t/671115) 
 - [2020-05-12-金融科技招聘-|-技术专场\-50-100-万-北京/上海/深圳](https://www.v2ex.com/t/671080) 
 - [2020-05-12-北京-招聘运维开发-薪资-70w-左右-急！](https://www.v2ex.com/t/671044) 

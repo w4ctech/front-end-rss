@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "吉林火车站暂停办理始发及经由乘车业务",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1",
+        "date": "2020-05-13"
+      },
+      {
         "title": "加拿大最大的博览会因疫情而被迫取消",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1",
         "date": "2020-05-13"
@@ -3432,6 +3437,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "手把手用 UDP 实现 Node 服务日志归集（附完整源码）",
+        "link": "https://www.ershicimi.com/p/916d1592492eca55210267f8c0586116",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "2年进阿里，3年到P6，在北京，他说觉得自己挺牛的",
+        "link": "https://www.ershicimi.com/p/65f84355fe1890fbbac7ab5dfd5eaf2c",
+        "date": "2020-05-13"
+      },
       {
         "title": "前端人只有青铜和王者，你是哪一种？",
         "link": "https://www.ershicimi.com/p/fe3527ac2f52c31eb3477f9890c38285",
@@ -29135,6 +29150,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "2020 版 Kubernetes 快速上手指南，让你所见即所得",
+        "link": "https://toutiao.io/k/ey4i3fq",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "Spring Cloud Alibaba（一）：概述与重要组件",
+        "link": "https://toutiao.io/k/mn670yu",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "TestNG 测试用例重跑详解及实践优化",
+        "link": "https://toutiao.io/k/a8w1okl",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "Flink SQL 演进过程，解析原理及一些优化策略",
+        "link": "https://toutiao.io/k/q0zdsl2",
+        "date": "2020-05-13"
+      },
       {
         "title": "为什么数组要从零开始？",
         "link": "https://toutiao.io/k/m0kj5lp",

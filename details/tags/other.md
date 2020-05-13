@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-13-吉林火车站暂停办理始发及经由乘车业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1) 
 - [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1) 
 - [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1) 
 - [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1) 
@@ -348,6 +349,7 @@
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad) 
+- [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/65f84355fe1890fbbac7ab5dfd5eaf2c) 
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/fe3527ac2f52c31eb3477f9890c38285) 
 - [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556) 
 - [2020-05-06-“慢”就是原罪，如何实践前端自动化部署？](https://www.ershicimi.com/p/1782433bd70a1fe03dca349dc4dcd3a0) 
@@ -4190,6 +4192,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-13-2020-版-Kubernetes-快速上手指南，让你所见即所得](https://toutiao.io/k/ey4i3fq) 
 - [2020-05-13-kafka-集群扩容后的数据均衡](https://toutiao.io/k/h8c9hf1) 
 - [2020-05-13-如果平行宇宙也有编程语言](https://toutiao.io/k/x6fb1v8) 
 - [2020-05-13-在-TS-中如何减少重复代码](https://toutiao.io/k/rap281h) 

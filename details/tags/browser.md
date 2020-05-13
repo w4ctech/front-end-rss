@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-13-DZ-模拟登陆验证码出现-Access-Denied](https://www.v2ex.com/t/671357) 
+- [2020-05-13-DZ-模拟登陆验证码-Access-Denied](https://www.v2ex.com/t/671351) 
 - [2020-05-13-深圳腾讯云安全招全栈研发（外包岗）薪酬高](https://www.v2ex.com/t/671322) 
 - [2020-05-13-chrome-好烦啊，浏览器的搜索栏怎么关闭提示历史搜索记录？](https://www.v2ex.com/t/671302) 
 - [2020-05-13-面试官说-缓存都是前端的事，这是真的吗](https://www.v2ex.com/t/671276) 

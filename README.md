@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 18:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 20:00:21，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-13-津巴布韦副总统：中国抗疫医疗专家组赴津正逢其时-对于津方抗疫将起极大的积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLBgNDkFGj6jSnppxjuT200513&isfromapp=1) ![](assets/new.png)  
 - [2020-05-13-外交部：中国赴非医疗组受到非方高度赞扬和肯定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCF6KvMukELE02gXX7l4G200513&isfromapp=1)  
 - [2020-05-13-北京各年级返校复课时间](http://m.weibo.cn/2803301701/4504151494725159)  
 - [2020-05-13-俄罗斯新增10028例新冠肺炎确诊病例-累计确诊242271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-12-国际劳工组织：-护士和前线工作者是疫情中的英雄](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1)  
 - [2020-05-12-加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1)  
 - [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1)  
-- [2020-05-12-国际护士节丨护士许秋英：尽我所能-带给患者更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU9ph9oWgJp8k3pvzusaX200512&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-05-13-DevonThink-3-有没有人合买？，-50-美刀一人，只有一个名额。价格-350rmb](https://www.v2ex.com/t/671331) ![](assets/new.png)  
-- [2020-05-13-lighting-到-usb-c-的转接线，主要用于-sidecar](https://www.v2ex.com/t/671330) ![](assets/new.png)  
-- [2020-05-13-坐标杭州-收一辆靠谱的山地自行车](https://www.v2ex.com/t/671328) ![](assets/new.png)  
-- [2020-05-13-机械键盘有半宽键帽么?](https://www.v2ex.com/t/671326) ![](assets/new.png)  
-- [2020-05-13-求大神推荐哪个-IM-接口带自动文字和语音翻译的？海外平台使用](https://www.v2ex.com/t/671325) ![](assets/new.png)  
-- [2020-05-13-小仙女布偶猫](https://www.v2ex.com/t/671323)  
-- [2020-05-13-深圳腾讯云安全招全栈研发（外包岗）薪酬高](https://www.v2ex.com/t/671322)  
-- [2020-05-13-pbt-的键帽时间久了会打油吗](https://www.v2ex.com/t/671321)  
-- [2020-05-13-802.11ad/ax/b-三频无线路由器现在有木有](https://www.v2ex.com/t/671320)  
-- [2020-05-13-antd-vue-的-table，插入了超链接，比如-xx.com，跳转总是变成-localhost/xx.com，变成了二级](https://www.v2ex.com/t/671319)  
-- [2020-05-13-说说-React-和-Vue](https://www.v2ex.com/t/671316)  
-- [2020-05-13-996-公司，眼睛布满了红血丝](https://www.v2ex.com/t/671315)  
-- [2020-05-13-用-vim-的大家如何快速输入i?](https://www.v2ex.com/t/671314)  
-- [2020-05-13-国内现在有远程（在家）办公的公司吗？](https://www.v2ex.com/t/671313)  
-- [2020-05-13-2020-年了，招行专业版现在可以支持-Unicode-了么？](https://www.v2ex.com/t/671312)  
-- [2020-05-13-niz-plum-键盘怎么交换-esc-与`/~-键？](https://www.v2ex.com/t/671311)  
-- [2020-05-13-在北京挂北大口腔和北京口腔的号有啥诀窍么？](https://www.v2ex.com/t/671310)  
-- [2020-05-13-有没有简单的方法将-mp3-文件声音调高？](https://www.v2ex.com/t/671309)  
-- [2020-05-13-成都-抖音-抖音来成都啦！安卓、iOS、后台，工程师、架构师和负责人都有，欢迎找我内推哈～](https://www.v2ex.com/t/671307)  
-- [2020-05-13-今天架构师推荐我们去学习-Flutter-，并说明今后的趋势很有可能是没有那么细分化的前后端了。前端基本可以完成所有工作，只有一个大的后端，处理更深层领域的东...](https://www.v2ex.com/t/671306)  
+- [2020-05-13-已经可以直接访问了？](https://www.v2ex.com/t/671362) ![](assets/new.png)  
+- [2020-05-13-最近帮同事看笔记本电脑](https://www.v2ex.com/t/671361) ![](assets/new.png)  
+- [2020-05-13-广州电信宽带连不上-看微博好像是广东省都挂了-电话和微信客服接通不了](https://www.v2ex.com/t/671360) ![](assets/new.png)  
+- [2020-05-13-终端在执行一些耗时较长的命令时结束后能发出一些提示音就好了](https://www.v2ex.com/t/671359) ![](assets/new.png)  
+- [2020-05-13-使用第三方-api-间接提供网易云音乐和-QQ-音乐服务会不会进局子？](https://www.v2ex.com/t/671358) ![](assets/new.png)  
+- [2020-05-13-DZ-模拟登陆验证码出现-Access-Denied](https://www.v2ex.com/t/671357) ![](assets/new.png)  
+- [2020-05-13-做了一个快速开发-Python-代码规范检查的工具，来几个老哥用用试试看？](https://www.v2ex.com/t/671356) ![](assets/new.png)  
+- [2020-05-13-问一个-Python-的简单语法区别，-for-i-in-list-和-for-i-in-range-的区别？](https://www.v2ex.com/t/671355) ![](assets/new.png)  
+- [2020-05-13-微信读书开始推广告了](https://www.v2ex.com/t/671354) ![](assets/new.png)  
+- [2020-05-13-买那个加密货币的也可以从这个角度看：软件是不是去中心化的。](https://www.v2ex.com/t/671353) ![](assets/new.png)  
+- [2020-05-13-有靠谱美版-iPhone-购买的渠道吗？谢谢](https://www.v2ex.com/t/671352) ![](assets/new.png)  
+- [2020-05-13-DZ-模拟登陆验证码-Access-Denied](https://www.v2ex.com/t/671351) ![](assets/new.png)  
+- [2020-05-13-推荐一个兼职，只限上海地区的-v-友，先到先得](https://www.v2ex.com/t/671350) ![](assets/new.png)  
+- [2020-05-13-20pro13-外接键盘时间长后会不识别有人遇到过吗？另外用绿联的拓展污巨烫](https://www.v2ex.com/t/671349) ![](assets/new.png)  
+- [2020-05-13-这种情况下是否需要分表](https://www.v2ex.com/t/671348) ![](assets/new.png)  
+- [2020-05-13-帮朋友代发：新人前端-offer-抉择-求建议](https://www.v2ex.com/t/671347) ![](assets/new.png)  
+- [2020-05-13-Go-sword-项目更新-：-Gitbook-文档已发布+官方-QQ-群已建立+官网已支持讨论留言](https://www.v2ex.com/t/671346) ![](assets/new.png)  
+- [2020-05-13-大佬们,-ssh-登录另一个主机,-卡在输入密码的界面上.-我想把这个时间设置成-3s-不输入密码就自动断开连接.-这个是-ssh-哪个参数?](https://www.v2ex.com/t/671345) ![](assets/new.png)  
+- [2020-05-13-Mac-上搭建-STF，好多编译不过去，最终还是使用了-Docker-方案](https://www.v2ex.com/t/671344) ![](assets/new.png)  
+- [2020-05-13-Redmi-AC2100-刷-Padavan-固件效果怎么样？](https://www.v2ex.com/t/671343) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

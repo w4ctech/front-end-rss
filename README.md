@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 11:00:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 11:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1) ![](assets/new.png)  
-- [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1) ![](assets/new.png)  
-- [2020-05-13-中企援建尼日利亚的方舱医院完工并移交当地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
+- [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1)  
+- [2020-05-13-中企援建尼日利亚的方舱医院完工并移交当地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1)  
 - [2020-05-13-吉林火车站暂停办理始发及经由乘车业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1)  
 - [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1)  
 - [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1)  
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-05-13-个人所得税-app-在外区下架了？](https://www.v2ex.com/t/671182) ![](assets/new.png)  
-- [2020-05-13-Adobe-Creative-Cloud-无法更新-，-Mac-OS-版本-10.15.4-19E287](https://www.v2ex.com/t/671181) ![](assets/new.png)  
-- [2020-05-13-有没有托管在香港新世界机房的，大概一个小时前出现无法访问的问题。](https://www.v2ex.com/t/671179) ![](assets/new.png)  
-- [2020-05-13-各位,有在县城发展的不错的么~](https://www.v2ex.com/t/671178) ![](assets/new.png)  
-- [2020-05-13-请教：-关于多个认证中心下的-site-互相登录以及-api-互相调用的问题](https://www.v2ex.com/t/671177) ![](assets/new.png)  
-- [2020-05-13-有没有什么办法,-只接受快递的电话](https://www.v2ex.com/t/671176) ![](assets/new.png)  
-- [2020-05-13-请问各位，有没有前端非常经典的，十分规范的-demo-呢？](https://www.v2ex.com/t/671175) ![](assets/new.png)  
-- [2020-05-13-35-岁，没激情了、没欲望了](https://www.v2ex.com/t/671174) ![](assets/new.png)  
-- [2020-05-13-讲真，一部记录反思这代互联网人的伤痛记忆的小说，是不是已经在路上了](https://www.v2ex.com/t/671173) ![](assets/new.png)  
-- [2020-05-13-深圳推一个深圳的招聘群](https://www.v2ex.com/t/671171) ![](assets/new.png)  
-- [2020-05-13-现在有哪些-iPad-游戏支持-Xbox-手柄的？](https://www.v2ex.com/t/671170) ![](assets/new.png)  
-- [2020-05-13-Vuex-传给-action-的第三个参数是什么](https://www.v2ex.com/t/671169) ![](assets/new.png)  
-- [2020-05-13-关于简历上的工作经历，有几个问题想请教一下大家](https://www.v2ex.com/t/671168) ![](assets/new.png)  
-- [2020-05-13-阿里云的-SSL-免费证书好，还是-Let's-Encrypt-的免费证书好？](https://www.v2ex.com/t/671167) ![](assets/new.png)  
-- [2020-05-13-Windows-怎么查看单-ip-的-tcp-连接数](https://www.v2ex.com/t/671166) ![](assets/new.png)  
-- [2020-05-13-原-html+css+js-的页面项目怎么样-转换成-vue](https://www.v2ex.com/t/671165) ![](assets/new.png)  
-- [2020-05-13-图数据库-Nebula-Graph-是什么](https://www.v2ex.com/t/671164) ![](assets/new.png)  
-- [2020-05-13-小程序-大头菜估价](https://www.v2ex.com/t/671163) ![](assets/new.png)  
-- [2020-05-13-佳能医疗-北京-求医学图像算法研究员！](https://www.v2ex.com/t/671158)  
-- [2020-05-13-群晖大家是否有用-UPS](https://www.v2ex.com/t/671157)  
+- [2020-05-13-软件测试工程师-深圳](https://www.v2ex.com/t/671200) ![](assets/new.png)  
+- [2020-05-13-VMware-Fusion-无法安装使用，-Mac-OS-版本-10.15.4-19E287](https://www.v2ex.com/t/671199) ![](assets/new.png)  
+- [2020-05-13-本科不用落户都能买房了？](https://www.v2ex.com/t/671198) ![](assets/new.png)  
+- [2020-05-13-复制一个表格代码到-Typora-去，代码格式就乱了，用-vscode-就没问题，总结：-vscode，永远滴神~~~](https://www.v2ex.com/t/671197) ![](assets/new.png)  
+- [2020-05-13-sov2ex.com-做了些小更新](https://www.v2ex.com/t/671196) ![](assets/new.png)  
+- [2020-05-13-字节跳动飞书-Lark-部门内推了，全国六大研发中心，都行的](https://www.v2ex.com/t/671195) ![](assets/new.png)  
+- [2020-05-13-iPad2018，-iOS12.2，掉电很快，结果发现-Siri-耗电-61%，怎么破？](https://www.v2ex.com/t/671193) ![](assets/new.png)  
+- [2020-05-13-win10-2004-rtm-终于来了](https://www.v2ex.com/t/671191) ![](assets/new.png)  
+- [2020-05-13-v2-有人会背诵陈涉世家吗](https://www.v2ex.com/t/671190) ![](assets/new.png)  
+- [2020-05-13-是你你会怎么做](https://www.v2ex.com/t/671189) ![](assets/new.png)  
+- [2020-05-13-有无推荐女性朋友使用的笔记本，-Windows-向？](https://www.v2ex.com/t/671188) ![](assets/new.png)  
+- [2020-05-13-新手macOS-SwiftUI-鼠标悬浮提示应该怎么写](https://www.v2ex.com/t/671187) ![](assets/new.png)  
+- [2020-05-13-airpods-一代的电池费了怎么搞](https://www.v2ex.com/t/671186) ![](assets/new.png)  
+- [2020-05-13-MacbookPro16-割腿，有解决方法吗？](https://www.v2ex.com/t/671185) ![](assets/new.png)  
+- [2020-05-13-参加了-OPPO-的表盘比赛，设计了一个不一样的表盘](https://www.v2ex.com/t/671184) ![](assets/new.png)  
+- [2020-05-13-请教下-oracle-按照月份分表查询问题](https://www.v2ex.com/t/671183) ![](assets/new.png)  
+- [2020-05-13-个人所得税-app-在外区下架了？](https://www.v2ex.com/t/671182)  
+- [2020-05-13-Adobe-Creative-Cloud-无法更新-，-Mac-OS-版本-10.15.4-19E287](https://www.v2ex.com/t/671181)  
+- [2020-05-13-有没有托管在香港新世界机房的，大概一个小时前出现无法访问的问题。](https://www.v2ex.com/t/671179)  
+- [2020-05-13-各位,有在县城发展的不错的么~](https://www.v2ex.com/t/671178)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

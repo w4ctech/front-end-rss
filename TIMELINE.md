@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 11:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-13 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -465,6 +465,22 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-13-软件测试工程师-深圳](https://www.v2ex.com/t/671200) 
+- [【V2EX】2020-05-13-VMware-Fusion-无法安装使用，-Mac-OS-版本-10.15.4-19E287](https://www.v2ex.com/t/671199) 
+- [【V2EX】2020-05-13-本科不用落户都能买房了？](https://www.v2ex.com/t/671198) 
+- [【V2EX】2020-05-13-复制一个表格代码到-Typora-去，代码格式就乱了，用-vscode-就没问题，总结：-vscode，永远滴神~~~](https://www.v2ex.com/t/671197) 
+- [【V2EX】2020-05-13-sov2ex.com-做了些小更新](https://www.v2ex.com/t/671196) 
+- [【V2EX】2020-05-13-字节跳动飞书-Lark-部门内推了，全国六大研发中心，都行的](https://www.v2ex.com/t/671195) 
+- [【V2EX】2020-05-13-iPad2018，-iOS12.2，掉电很快，结果发现-Siri-耗电-61%，怎么破？](https://www.v2ex.com/t/671193) 
+- [【V2EX】2020-05-13-win10-2004-rtm-终于来了](https://www.v2ex.com/t/671191) 
+- [【V2EX】2020-05-13-v2-有人会背诵陈涉世家吗](https://www.v2ex.com/t/671190) 
+- [【V2EX】2020-05-13-是你你会怎么做](https://www.v2ex.com/t/671189) 
+- [【V2EX】2020-05-13-有无推荐女性朋友使用的笔记本，-Windows-向？](https://www.v2ex.com/t/671188) 
+- [【V2EX】2020-05-13-新手macOS-SwiftUI-鼠标悬浮提示应该怎么写](https://www.v2ex.com/t/671187) 
+- [【V2EX】2020-05-13-airpods-一代的电池费了怎么搞](https://www.v2ex.com/t/671186) 
+- [【V2EX】2020-05-13-MacbookPro16-割腿，有解决方法吗？](https://www.v2ex.com/t/671185) 
+- [【V2EX】2020-05-13-参加了-OPPO-的表盘比赛，设计了一个不一样的表盘](https://www.v2ex.com/t/671184) 
+- [【V2EX】2020-05-13-请教下-oracle-按照月份分表查询问题](https://www.v2ex.com/t/671183) 
 - [【V2EX】2020-05-13-个人所得税-app-在外区下架了？](https://www.v2ex.com/t/671182) 
 - [【V2EX】2020-05-13-Adobe-Creative-Cloud-无法更新-，-Mac-OS-版本-10.15.4-19E287](https://www.v2ex.com/t/671181) 
 - [【V2EX】2020-05-13-有没有托管在香港新世界机房的，大概一个小时前出现无法访问的问题。](https://www.v2ex.com/t/671179) 

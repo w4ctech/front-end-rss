@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1",
+        "date": "2020-05-13"
+      },
+      {
         "title": "英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1",
         "date": "2020-05-13"
@@ -2852,6 +2857,16 @@
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
+      {
+        "title": "公司用 React ，我要不要也学学 Vue ？",
+        "link": "https://www.ershicimi.com/p/448740c6379e4198cbb3bb1878380432",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "移动端开发的兼容适配与性能优化干货分享",
+        "link": "https://www.ershicimi.com/p/37904cf2547febe1f8e3a73031d33730",
+        "date": "2020-05-13"
+      },
       {
         "title": "动手开发一个适用于公司项目的脚手架",
         "link": "https://www.ershicimi.com/p/9858c348c3435a92d3a69ef7c55fd006",
@@ -5186,6 +5201,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "Dubbo 没落了吗？",
+        "link": "https://www.ershicimi.com/p/f56da43961d2f3eb9ee67ecde9f572a5",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "如何画出优秀的架构图？",
+        "link": "https://www.ershicimi.com/p/381d4fcdeaa8376d654a2b2cc7b84e2f",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "耐人寻味的 8 幅Java技术图",
+        "link": "https://www.ershicimi.com/p/42f80197b21959db955e92fc1610b2ef",
+        "date": "2020-05-13"
+      },
+      {
         "title": "推荐一款 IDEA 生成代码神器，写代码再也不用加班了！",
         "link": "https://www.ershicimi.com/p/0a9e6cecc2cb950460cea9338e032a6d",
         "date": "2020-05-12"
@@ -7051,6 +7081,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "刚提完离职～计划骑行去西藏～求各位大佬指点指点注意事项～或者有没有组队的小伙伴～约起来",
+        "link": "https://www.v2ex.com/t/671208",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "推荐一款 golang 微服务集成框架",
+        "link": "https://www.v2ex.com/t/671207",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "Windows10 本地只能通过 localhost 访问 WSL2 容器？",
+        "link": "https://www.v2ex.com/t/671206",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "PHP 监控网页内容更新并下载的问题",
+        "link": "https://www.v2ex.com/t/671204",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "[抖音][客户端 Android] 招人，急缺。上海北京都可以",
+        "link": "https://www.v2ex.com/t/671203",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "凤凰网-北京-招聘 告别 996 健康生活 欢迎骚扰",
+        "link": "https://www.v2ex.com/t/671201",
+        "date": "2020-05-13"
+      },
       {
         "title": "[软件测试工程师] [深圳]",
         "link": "https://www.v2ex.com/t/671200",

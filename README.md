@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 15:00:22，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 15:30:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-13-吉林市已经复学的年级一律转为网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1) ![](assets/new.png)  
 - [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1)  
 - [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
 - [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1)  
 - [2020-05-12-新加坡新增新冠肺炎确诊病例884例-累计确诊24671例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigXqhnMBzvgetxKGjGFrM200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨福建200余名护士重温南丁格尔誓言-致敬白衣天使](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivoUmKyHFZeVWkInrajn6200512&isfromapp=1)  
-- [2020-05-12-“熊妈”的护士日记](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,25 +1044,25 @@
 </summary>
 
 
-- [2020-05-13-如果提供-刷-star-服务会有人买吗](https://www.v2ex.com/t/671258) ![](assets/new.png)  
-- [2020-05-13-面试题分析-Python-里面如何拷贝一个对象？（赋值，浅拷贝，深拷贝的区别）](https://www.v2ex.com/t/671257) ![](assets/new.png)  
-- [2020-05-13-除了日常需求，大家还做了什么有高价值的系统或工具？](https://www.v2ex.com/t/671256) ![](assets/new.png)  
-- [2020-05-13-上海唐镇-拉卡拉-招人](https://www.v2ex.com/t/671255) ![](assets/new.png)  
-- [2020-05-13-入职-8-个月，如果被裁，理论赔偿几个月工资](https://www.v2ex.com/t/671254) ![](assets/new.png)  
-- [2020-05-13-万能的-V-友们，请教一个关于本地解析设置-cname-的问题](https://www.v2ex.com/t/671253) ![](assets/new.png)  
-- [2020-05-13-今天更新了-mbp，显示器多了个高动态范围（默认开启）](https://www.v2ex.com/t/671252) ![](assets/new.png)  
-- [2020-05-13-主从执行计划不一致的问题？有没有大佬详解一下？](https://www.v2ex.com/t/671251) ![](assets/new.png)  
-- [2020-05-13-AirpodsPro-最近有合适的车吗](https://www.v2ex.com/t/671250) ![](assets/new.png)  
-- [2020-05-13-在-GitHub-上做开源项目，对我到底有什么帮助？](https://www.v2ex.com/t/671249) ![](assets/new.png)  
-- [2020-05-13-分享一些远程工作时开会的心得](https://www.v2ex.com/t/671248) ![](assets/new.png)  
-- [2020-05-13-是我一个人的问题吗](https://www.v2ex.com/t/671247) ![](assets/new.png)  
-- [2020-05-13-如何将现有的-Linux-系统制作成-ISO](https://www.v2ex.com/t/671246) ![](assets/new.png)  
-- [2020-05-13-北京-凤凰网-告别-996](https://www.v2ex.com/t/671245) ![](assets/new.png)  
-- [2020-05-13-易语言还有什么大的发展方向？](https://www.v2ex.com/t/671244) ![](assets/new.png)  
-- [2020-05-13-这显示器算是虚假宣传吗？](https://www.v2ex.com/t/671243) ![](assets/new.png)  
-- [2020-05-13-杭州-PHP-/NodeJS-求职](https://www.v2ex.com/t/671242) ![](assets/new.png)  
-- [2020-05-13-运营商给了-/64-ipv6-段-和两个互联地址，请教怎么配置？](https://www.v2ex.com/t/671241) ![](assets/new.png)  
-- [2020-05-13-开源-上班摸鱼中，我-momomomomo~~基于-vue~手撸了一个杀毒软件~~~](https://www.v2ex.com/t/671240) ![](assets/new.png)  
+- [2020-05-13-如果提供-刷-star-服务会有人买吗](https://www.v2ex.com/t/671258)  
+- [2020-05-13-面试题分析-Python-里面如何拷贝一个对象？（赋值，浅拷贝，深拷贝的区别）](https://www.v2ex.com/t/671257)  
+- [2020-05-13-除了日常需求，大家还做了什么有高价值的系统或工具？](https://www.v2ex.com/t/671256)  
+- [2020-05-13-上海唐镇-拉卡拉-招人](https://www.v2ex.com/t/671255)  
+- [2020-05-13-入职-8-个月，如果被裁，理论赔偿几个月工资](https://www.v2ex.com/t/671254)  
+- [2020-05-13-万能的-V-友们，请教一个关于本地解析设置-cname-的问题](https://www.v2ex.com/t/671253)  
+- [2020-05-13-今天更新了-mbp，显示器多了个高动态范围（默认开启）](https://www.v2ex.com/t/671252)  
+- [2020-05-13-主从执行计划不一致的问题？有没有大佬详解一下？](https://www.v2ex.com/t/671251)  
+- [2020-05-13-AirpodsPro-最近有合适的车吗](https://www.v2ex.com/t/671250)  
+- [2020-05-13-在-GitHub-上做开源项目，对我到底有什么帮助？](https://www.v2ex.com/t/671249)  
+- [2020-05-13-分享一些远程工作时开会的心得](https://www.v2ex.com/t/671248)  
+- [2020-05-13-是我一个人的问题吗](https://www.v2ex.com/t/671247)  
+- [2020-05-13-如何将现有的-Linux-系统制作成-ISO](https://www.v2ex.com/t/671246)  
+- [2020-05-13-北京-凤凰网-告别-996](https://www.v2ex.com/t/671245)  
+- [2020-05-13-易语言还有什么大的发展方向？](https://www.v2ex.com/t/671244)  
+- [2020-05-13-这显示器算是虚假宣传吗？](https://www.v2ex.com/t/671243)  
+- [2020-05-13-杭州-PHP-/NodeJS-求职](https://www.v2ex.com/t/671242)  
+- [2020-05-13-运营商给了-/64-ipv6-段-和两个互联地址，请教怎么配置？](https://www.v2ex.com/t/671241)  
+- [2020-05-13-开源-上班摸鱼中，我-momomomomo~~基于-vue~手撸了一个杀毒软件~~~](https://www.v2ex.com/t/671240)  
 - [2020-05-13-Maven-如何实现动态时间戳版本号](https://www.v2ex.com/t/671239)  
 - [......【查看更多】......](./details/V2EX.md)
 
@@ -1075,7 +1075,7 @@
 </summary>
 
 
-- [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

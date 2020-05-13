@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 14:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 14:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -4225,6 +4225,7 @@
 - [2020-04-23-UHD-600-居然不支持-h265-10bit-解码？](https://www.v2ex.com/t/665505) 
 - [2020-04-23-发现了好几家大公司的官网/管理系统后台管理员账号、密码异常简单，如何在保护好自己的情况下告诉他们？](https://www.v2ex.com/t/665503) 
 - [2020-04-23-密码管理工具-Bitwarden-真是个神器啊，免费，好用，还开源，-i-了-i-了](https://www.v2ex.com/t/665502) 
+- [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-JetPack-+-单-Activity-的一些思路-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13441&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdvJUq5rTUaZUUcnBfahqVA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

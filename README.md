@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 14:00:22，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 14:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1)  
 - [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
 - [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
 - [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1)  
@@ -470,7 +470,7 @@
 </summary>
 
 
-- [2020-05-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/26e9bbdd4342d0a6a6a41c07691876a7) ![](assets/new.png)  
+- [2020-05-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/26e9bbdd4342d0a6a6a41c07691876a7)  
 - [2020-05-12-认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)  
 - [2020-05-11-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/9055bdac2e9681cffc5298b35ed62cf8)  
 - [2020-05-10-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/21b2e33e9f8f0994c11be9212f35656f)  
@@ -1044,12 +1044,12 @@
 </summary>
 
 
-- [2020-05-13-Maven-如何实现动态时间戳版本号](https://www.v2ex.com/t/671239) ![](assets/new.png)  
-- [2020-05-13-怎么感觉-magic-keyboard-还没有-mbp2018-的键盘好用啊](https://www.v2ex.com/t/671237) ![](assets/new.png)  
-- [2020-05-13-哪些信息需要以日志形式记录](https://www.v2ex.com/t/671236) ![](assets/new.png)  
-- [2020-05-13-微信内置浏览器拦截内网网址](https://www.v2ex.com/t/671234) ![](assets/new.png)  
-- [2020-05-13-一加-8-pro-断流严重，严重影响日常工作生活，官方-15-天退货承诺就是扯淡](https://www.v2ex.com/t/671233) ![](assets/new.png)  
-- [2020-05-13-zh.维基百科，国内现在可以直接打开了](https://www.v2ex.com/t/671232) ![](assets/new.png)  
+- [2020-05-13-Maven-如何实现动态时间戳版本号](https://www.v2ex.com/t/671239)  
+- [2020-05-13-怎么感觉-magic-keyboard-还没有-mbp2018-的键盘好用啊](https://www.v2ex.com/t/671237)  
+- [2020-05-13-哪些信息需要以日志形式记录](https://www.v2ex.com/t/671236)  
+- [2020-05-13-微信内置浏览器拦截内网网址](https://www.v2ex.com/t/671234)  
+- [2020-05-13-一加-8-pro-断流严重，严重影响日常工作生活，官方-15-天退货承诺就是扯淡](https://www.v2ex.com/t/671233)  
+- [2020-05-13-zh.维基百科，国内现在可以直接打开了](https://www.v2ex.com/t/671232)  
 - [2020-05-13-发现很多人打电话的时候会手舞足蹈，跟指挥一场交响乐似的，不觉得尴尬么-:dog](https://www.v2ex.com/t/671228)  
 - [2020-05-13-阿里云-云原生应用平台招聘-云应用平台-/-K8s-/-Serverless-/-DevOps-相关领域专家（后端、前端）](https://www.v2ex.com/t/671227)  
 - [2020-05-13-win10-虚拟桌面-怎么滚动切换](https://www.v2ex.com/t/671226)  
@@ -1075,6 +1075,7 @@
 </summary>
 
 
+- [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-Windows配置VSCode+CMake+Ninja+Boost.Test的C++开发环境-johnhany.net](https://blogread.cn/news/go.php?idItem=13442&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fvscode-cmake-ninja-boost-test-cpp-on-windows%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1094,7 +1095,6 @@
 - [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13417&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJFXBamu_tdNoZAI1ee33Rw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-04-28-试试-IntelliJ-IDEA-自带的高能神器！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13427&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FS2vTRfFDB3UuZEqIgNr7SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,14 +1106,14 @@
 </summary>
 
 
-- [2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij) ![](assets/new.png)  
-- [2020-05-13-我的安全漏洞观](https://toutiao.io/k/0kysxr9) ![](assets/new.png)  
-- [2020-05-13-漫谈分布式系统（十二）：弱一致性也有用武之地](https://toutiao.io/k/4j0eqoc) ![](assets/new.png)  
-- [2020-05-13-我也不想做中台，但是刀架脖子上了](https://toutiao.io/k/g52z538) ![](assets/new.png)  
-- [2020-05-13-译-我通过了-Google-技术面试，所以你也能行](https://toutiao.io/k/nol17wt) ![](assets/new.png)  
-- [2020-05-13-快速适配-Flutter-之深色模式](https://toutiao.io/k/l6fk6xy) ![](assets/new.png)  
-- [2020-05-13-Python-为什么使用缩进来划分代码块？](https://toutiao.io/k/o4wju7g) ![](assets/new.png)  
-- [2020-05-13-译-谷歌工程实践文档](https://toutiao.io/k/0upd0k6) ![](assets/new.png)  
+- [2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij)  
+- [2020-05-13-我的安全漏洞观](https://toutiao.io/k/0kysxr9)  
+- [2020-05-13-漫谈分布式系统（十二）：弱一致性也有用武之地](https://toutiao.io/k/4j0eqoc)  
+- [2020-05-13-我也不想做中台，但是刀架脖子上了](https://toutiao.io/k/g52z538)  
+- [2020-05-13-译-我通过了-Google-技术面试，所以你也能行](https://toutiao.io/k/nol17wt)  
+- [2020-05-13-快速适配-Flutter-之深色模式](https://toutiao.io/k/l6fk6xy)  
+- [2020-05-13-Python-为什么使用缩进来划分代码块？](https://toutiao.io/k/o4wju7g)  
+- [2020-05-13-译-谷歌工程实践文档](https://toutiao.io/k/0upd0k6)  
 - [2020-05-13-2020-版-Kubernetes-快速上手指南，让你所见即所得](https://toutiao.io/k/ey4i3fq)  
 - [2020-05-13-Spring-Cloud-Alibaba（一）：概述与重要组件](https://toutiao.io/k/mn670yu)  
 - [2020-05-13-TestNG-测试用例重跑详解及实践优化](https://toutiao.io/k/a8w1okl)  

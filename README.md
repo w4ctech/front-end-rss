@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 16:00:24，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 16:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-13-俄罗斯新增10028例新冠肺炎确诊病例-累计确诊242271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1) ![](assets/new.png)  
-- [2020-05-13-国家卫健委：吉林舒兰传染源调查仍在进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauzWVPOiakGWN2lFk4uK200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-北京各年级返校复课时间](http://m.weibo.cn/2803301701/4504151494725159) ![](assets/new.png)  
+- [2020-05-13-俄罗斯新增10028例新冠肺炎确诊病例-累计确诊242271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1)  
+- [2020-05-13-国家卫健委：吉林舒兰传染源调查仍在进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauzWVPOiakGWN2lFk4uK200513&isfromapp=1)  
 - [2020-05-13-吉林市已经复学的年级一律转为网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1)  
 - [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1)  
 - [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-12-俄总统新闻秘书佩斯科夫确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiPUeY3RPU4PxT7vMctrW200512&isfromapp=1)  
 - [2020-05-12-国际护士节丨护士许秋英：尽我所能-带给患者更多希望](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU9ph9oWgJp8k3pvzusaX200512&isfromapp=1)  
 - [2020-05-12-美国一工厂拒绝特朗普到访：健康风险太大，疫情后再说](http://m.weibo.cn/3057540037/4503829125486762)  
-- [2020-05-12-西班牙新增426例新冠肺炎确诊病例-累计确诊228030例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidp7KmG1wFzP1x9DnHNGP200512&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-05-13-我有一招，让你不再越努力越迷茫](https://www.ershicimi.com/p/7e615e1c9386efd73c77d64619ff8652) ![](assets/new.png)  
+- [2020-05-13-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/ef71cff79e5301f436929382ad72e2a2) ![](assets/new.png)  
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd)  
 - [2020-05-12-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44)  
 - [2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9)  
@@ -164,8 +166,6 @@
 - [2020-04-30-一位00后前端2年经验的成长历程](https://www.ershicimi.com/p/af292131b5e5caf9879c0cae6beec0a9)  
 - [2020-04-29-8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)  
 - [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298)  
-- [2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)  
-- [2020-04-28-作为毕业生的我在钉钉这一年的成长之路](https://www.ershicimi.com/p/abbf02a53068ab18076e1c4b05db8ef1)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-05-13-为什么-feign-的源码喜欢一个类文件里面-好多内部类？](https://www.v2ex.com/t/671282) ![](assets/new.png)  
-- [2020-05-13-大家使用-aria2-时出现过“操作成功完成”的错误吗？](https://www.v2ex.com/t/671281) ![](assets/new.png)  
-- [2020-05-13-昨天试用了一天的为知笔记私服，感觉很棒。](https://www.v2ex.com/t/671280) ![](assets/new.png)  
-- [2020-05-13-macOS-网易云音乐卡顿问题](https://www.v2ex.com/t/671279) ![](assets/new.png)  
-- [2020-05-13-当了-5-年亚马逊面试官，我总结了-5-步-面向对象设计-套路](https://www.v2ex.com/t/671278) ![](assets/new.png)  
-- [2020-05-13-帮朋友代发：深圳求职招聘群分享～](https://www.v2ex.com/t/671277) ![](assets/new.png)  
-- [2020-05-13-面试官说-缓存都是前端的事，这是真的吗](https://www.v2ex.com/t/671276) ![](assets/new.png)  
-- [2020-05-13-MBP15-款外接编写显示器求助](https://www.v2ex.com/t/671273) ![](assets/new.png)  
-- [2020-05-13-长寿村的秘密](https://www.v2ex.com/t/671272) ![](assets/new.png)  
-- [2020-05-13-OneDrive-本地客户端无法打开](https://www.v2ex.com/t/671271) ![](assets/new.png)  
-- [2020-05-13-现在-Vultr-日本还能用吗，用作图床。](https://www.v2ex.com/t/671270) ![](assets/new.png)  
-- [2020-05-13-字节跳动飞书业务内推-北京、杭州、武汉、广州、深圳、上海，六大城市](https://www.v2ex.com/t/671269) ![](assets/new.png)  
-- [2020-05-13-写了个自动领取起点小说经验值的油候插件，有需要的自取](https://www.v2ex.com/t/671268) ![](assets/new.png)  
-- [2020-05-13-联通对注销的手机号重分配后一个微信公众号的-bug](https://www.v2ex.com/t/671267) ![](assets/new.png)  
-- [2020-05-13-我就想问下那些加入付费社群的，教发财的，提升自我的，是什么体验，现在发财了吗，提升了吗](https://www.v2ex.com/t/671266) ![](assets/new.png)  
-- [2020-05-13-babel-transver-特别慢的原因？](https://www.v2ex.com/t/671265) ![](assets/new.png)  
-- [2020-05-13-不懂就问：游戏本适合机器学习吗？](https://www.v2ex.com/t/671264) ![](assets/new.png)  
-- [2020-05-13-使用-jquery.validate-插件对动态新增的表单进行校验](https://www.v2ex.com/t/671262) ![](assets/new.png)  
-- [2020-05-13-使用图片复制粘贴来搜索谷歌图片的-chrome-扩展](https://www.v2ex.com/t/671261) ![](assets/new.png)  
-- [2020-05-13-中国移动的手机置换服务是什么鬼？](https://www.v2ex.com/t/671259) ![](assets/new.png)  
+- [2020-05-13-为什么-feign-的源码喜欢一个类文件里面-好多内部类？](https://www.v2ex.com/t/671282)  
+- [2020-05-13-大家使用-aria2-时出现过“操作成功完成”的错误吗？](https://www.v2ex.com/t/671281)  
+- [2020-05-13-昨天试用了一天的为知笔记私服，感觉很棒。](https://www.v2ex.com/t/671280)  
+- [2020-05-13-macOS-网易云音乐卡顿问题](https://www.v2ex.com/t/671279)  
+- [2020-05-13-当了-5-年亚马逊面试官，我总结了-5-步-面向对象设计-套路](https://www.v2ex.com/t/671278)  
+- [2020-05-13-帮朋友代发：深圳求职招聘群分享～](https://www.v2ex.com/t/671277)  
+- [2020-05-13-面试官说-缓存都是前端的事，这是真的吗](https://www.v2ex.com/t/671276)  
+- [2020-05-13-MBP15-款外接编写显示器求助](https://www.v2ex.com/t/671273)  
+- [2020-05-13-长寿村的秘密](https://www.v2ex.com/t/671272)  
+- [2020-05-13-OneDrive-本地客户端无法打开](https://www.v2ex.com/t/671271)  
+- [2020-05-13-现在-Vultr-日本还能用吗，用作图床。](https://www.v2ex.com/t/671270)  
+- [2020-05-13-字节跳动飞书业务内推-北京、杭州、武汉、广州、深圳、上海，六大城市](https://www.v2ex.com/t/671269)  
+- [2020-05-13-写了个自动领取起点小说经验值的油候插件，有需要的自取](https://www.v2ex.com/t/671268)  
+- [2020-05-13-联通对注销的手机号重分配后一个微信公众号的-bug](https://www.v2ex.com/t/671267)  
+- [2020-05-13-我就想问下那些加入付费社群的，教发财的，提升自我的，是什么体验，现在发财了吗，提升了吗](https://www.v2ex.com/t/671266)  
+- [2020-05-13-babel-transver-特别慢的原因？](https://www.v2ex.com/t/671265)  
+- [2020-05-13-不懂就问：游戏本适合机器学习吗？](https://www.v2ex.com/t/671264)  
+- [2020-05-13-使用-jquery.validate-插件对动态新增的表单进行校验](https://www.v2ex.com/t/671262)  
+- [2020-05-13-使用图片复制粘贴来搜索谷歌图片的-chrome-扩展](https://www.v2ex.com/t/671261)  
+- [2020-05-13-中国移动的手机置换服务是什么鬼？](https://www.v2ex.com/t/671259)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

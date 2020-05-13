@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-13 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -253,6 +253,7 @@
 - [【奇舞周刊】奇舞周刊第-348-期：-Flutter-Web-最新进展](https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245)
 - [【InfoQ】Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】今天架构师推荐我们去学习-Flutter-，并说明今后的趋势很有可能是没有那么细分化的前后端了。前端基本可以完成所有工作，只有一个大的后端，处理更深层领域的东...](https://www.v2ex.com/t/671306)
 - [【V2EX】Flutter-Weekly-Issue-55](https://www.v2ex.com/t/671212)
 - [【V2EX】flutter-高仿微信聊天|flutter/dart-仿微信界面聊天室](https://www.v2ex.com/t/671209)
 - [【V2EX】Windows-安装了-flutter-环境，然后用-VS-Code-跑-flutter-项目，-dart.exe-在活动进程里占很大内存，想问下各位大佬有没有遇到这样的问题？](https://www.v2ex.com/t/669604)
@@ -264,7 +265,6 @@
 - [【V2EX】flutter-通栏沉浸状态条|flutter-自定义底部凸起导航栏](https://www.v2ex.com/t/666606)
 - [【V2EX】重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501)
 - [【技术头条】Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】快速适配-Flutter-之深色模式](https://toutiao.io/k/l6fk6xy)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -552,7 +552,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【互联网架构师】HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)
-- [【V2EX】🔥🔥🔥腾讯全国内推🔥🔥🔥2020Q1-财报预计逆势增长！股价创两年新高！继续扩张！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付全...](https://www.v2ex.com/t/670938)
+- [【V2EX】本科毕业生能直接全栈吗？](https://www.v2ex.com/t/671303)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -578,6 +578,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】迫于兼职运维，求助关于-nginx-端口转发的问题](https://www.v2ex.com/t/671285)
 - [【V2EX】看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921)
 - [【V2EX】每次部署更新代码，重新编译-Docker-镜像，再更新到生产环境，改动的代码地方很多，但都是比较频繁的小改动。要耗费不少时间，是姿势不对？还是只能这样了?](https://www.v2ex.com/t/670902)
 - [【V2EX】如何解决在使用端口映射情况，-dsm-nginx-跳转到内部端口的问题？](https://www.v2ex.com/t/670880)
@@ -588,7 +589,6 @@
 - [【V2EX】django-网站-centos-nginx-+uwsgi-环境要在根目录加个-txt-验证一下，有什么办法啊？](https://www.v2ex.com/t/669011)
 - [【V2EX】CCAA-一键安装-AriaNg-+-Aria2-+-FileBrowser，已支持-Docker-部署](https://www.v2ex.com/t/667854)
 - [【V2EX】Kubernetes-可不可以简单理解为-docker+vpn](https://www.v2ex.com/t/667754)
-- [【V2EX】离开-docker-for-mac，体会童年时编程的快乐！](https://www.v2ex.com/t/667748)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

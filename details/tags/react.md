@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -47,6 +47,7 @@
 - [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee) 
 - [2020-04-24-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-24-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-05-13-假如-Vue-是-facebook-开发维护，-React-是尤大个人维护，那评价会翻过来吗？](https://www.v2ex.com/t/671295) 
 - [2020-05-12-React-Native-一站式解决方案（一）AsyncStorage](https://www.v2ex.com/t/670971) 
 - [2020-05-12-写-React-的学了一下-Vue，真香](https://www.v2ex.com/t/670771) 
 - [2020-05-11-希望把逻辑和视图分开，逻辑类的实例改变后，-react-如何通知组件更新？](https://www.v2ex.com/t/670737) 

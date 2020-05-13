@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -16,6 +16,7 @@
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-13-迫于兼职运维，求助关于-nginx-端口转发的问题](https://www.v2ex.com/t/671285) 
 - [2020-05-12-看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921) 
 - [2020-05-12-每次部署更新代码，重新编译-Docker-镜像，再更新到生产环境，改动的代码地方很多，但都是比较频繁的小改动。要耗费不少时间，是姿势不对？还是只能这样了?](https://www.v2ex.com/t/670902) 
 - [2020-05-12-如何解决在使用端口映射情况，-dsm-nginx-跳转到内部端口的问题？](https://www.v2ex.com/t/670880) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -4181,6 +4181,10 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-13-CGO-中传递回调函数和指针](https://toutiao.io/k/8c78ot7) 
+- [2020-05-13-Spring-源码（十一-）：-Spring-AOP-之编程式事务](https://toutiao.io/k/2dxdc4k) 
+- [2020-05-13-数万实例数百-TB-数据量，携程-Redis-治理演进之路](https://toutiao.io/k/r5hqxmk) 
+- [2020-05-13-iOS-APP-灰度发布方案](https://toutiao.io/k/sbvxlv1) 
 - [2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7) 
 - [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl) 
 - [2020-05-12-为什么-Mac-地址不需要全球唯一](https://toutiao.io/k/hioqrx0) 

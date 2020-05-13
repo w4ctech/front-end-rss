@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-13 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-13 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1) ![](assets/new.png)  
+- [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1)  
 - [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1)  
 - [2020-05-12-德国新冠肺炎人均感染指数连续回升并突破1](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3L4HWjJZ9TrXxJQtVZgX200512&isfromapp=1)  
 - [2020-05-12-美国传染病学家福奇警告：强行重启经济可能会导致疫情再次暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXdMi3qkotfSZJh5L1ex200512&isfromapp=1)  
@@ -220,6 +220,7 @@
 </summary>
 
 
+- [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04) ![](assets/new.png)  
 - [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)  
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e)  
 - [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6)  
@@ -239,7 +240,6 @@
 - [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)  
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14)  
 - [2020-04-28-【招聘】可视化网页编辑器-稿定设计](https://www.ershicimi.com/p/0d3889cde0a345376108850154b3d4dc)  
-- [2020-04-27-【第1927期】Web上的图片技巧](https://www.ershicimi.com/p/bfe8a658886f6bac6dbd9e1ced49afc6)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,7 +1104,12 @@
 </summary>
 
 
-- [2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7) ![](assets/new.png)  
+- [2020-05-13-Java-高频面试题：聊一聊-JUC-下的-LinkedBlockingQueue](https://toutiao.io/k/i16ct71) ![](assets/new.png)  
+- [2020-05-13-CGO-中传递回调函数和指针](https://toutiao.io/k/8c78ot7) ![](assets/new.png)  
+- [2020-05-13-Spring-源码（十一-）：-Spring-AOP-之编程式事务](https://toutiao.io/k/2dxdc4k) ![](assets/new.png)  
+- [2020-05-13-数万实例数百-TB-数据量，携程-Redis-治理演进之路](https://toutiao.io/k/r5hqxmk) ![](assets/new.png)  
+- [2020-05-13-iOS-APP-灰度发布方案](https://toutiao.io/k/sbvxlv1) ![](assets/new.png)  
+- [2020-05-13-API-越来越多，没个接口管理工具哪行？试试这款吧！](https://toutiao.io/k/ktvqnz7)  
 - [2020-05-12-任正非：华为没有-996，更没有-007，基层员工想多加班也不行](https://toutiao.io/k/w1iozbl)  
 - [2020-05-12-初学者系列（二）：算法实例-Jupyter-转换为-Python-流程](https://toutiao.io/k/p6lmh7r)  
 - [2020-05-12-数据源管理：基于-DataX-组件，同步数据和源码分析](https://toutiao.io/k/5wideiv)  
@@ -1119,11 +1124,6 @@
 - [2020-05-12-如何在端外投放的场景下实现前端实时-CEP-框架？](https://toutiao.io/k/607j7uz)  
 - [2020-05-12-“我是大厂面试官”-Java-集合，你肯定也会被问到这些](https://toutiao.io/k/brtzw0z)  
 - [2020-05-12-我是如何让微博绿洲的启动速度提升-30-%的（二）](https://toutiao.io/k/5ttu3af)  
-- [2020-05-12-笑话：大厂都在用的任务调度框架我能不知道吗？？？](https://toutiao.io/k/vay9bs8)  
-- [2020-05-12-这份-Java-Web-必读书单，值得所有-Java-工程师一看](https://toutiao.io/k/2wfcew7)  
-- [2020-05-12-Rust-vs-Go：哪个更受欢迎？](https://toutiao.io/k/ae5srwg)  
-- [2020-05-12-Kotlin-函数式编程和设计模式学习笔记（六）](https://toutiao.io/k/8bgij5k)  
-- [2020-05-12-基于-CAP-模型设计企业级真正高可用的分布式锁](https://toutiao.io/k/6atly2o)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

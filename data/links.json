@@ -1727,6 +1727,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1943期】Node使用火焰图优化CPU爆涨",
+        "link": "https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04",
+        "date": "2020-05-13"
+      },
+      {
         "title": "深扒 Vue 3.0 革新技术点",
         "link": "https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105",
         "date": "2020-05-12"
@@ -29075,6 +29080,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Java 高频面试题：聊一聊 JUC 下的 LinkedBlockingQueue",
+        "link": "https://toutiao.io/k/i16ct71",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "CGO 中传递回调函数和指针",
+        "link": "https://toutiao.io/k/8c78ot7",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "Spring 源码（十一 ）： Spring AOP 之编程式事务",
+        "link": "https://toutiao.io/k/2dxdc4k",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "数万实例数百 TB 数据量，携程 Redis 治理演进之路",
+        "link": "https://toutiao.io/k/r5hqxmk",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "iOS APP 灰度发布方案",
+        "link": "https://toutiao.io/k/sbvxlv1",
+        "date": "2020-05-13"
+      },
       {
         "title": "API 越来越多，没个接口管理工具哪行？试试这款吧！",
         "link": "https://toutiao.io/k/ktvqnz7",

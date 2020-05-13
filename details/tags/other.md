@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-13 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-13 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-13-法国劳工部：鼓励复工复产-“部分失业”补贴将逐步缩减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMJiWH1YtbREtw5WGN3gz200513&isfromapp=1) 
 - [2020-05-13-津巴布韦副总统：中国抗疫医疗专家组赴津正逢其时-对于津方抗疫将起极大的积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLBgNDkFGj6jSnppxjuT200513&isfromapp=1) 
 - [2020-05-13-外交部：中国赴非医疗组受到非方高度赞扬和肯定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCF6KvMukELE02gXX7l4G200513&isfromapp=1) 
 - [2020-05-13-北京各年级返校复课时间](http://m.weibo.cn/2803301701/4504151494725159) 

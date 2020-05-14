@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 20:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-​伊朗新增新冠肺炎确诊病例1808例-累计确诊114533例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitdIufHrPfdcwbQNEXaBV200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-​法国药企称新冠疫苗将首供美国？-法官员称“不可接受”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrNVJXQZOVh40iza5fbJ200514&isfromapp=1) 
@@ -533,6 +534,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-Java-后端找工作至今杳无音讯，只能再试试了](https://www.v2ex.com/t/671772) 
+- [【V2EX】2020-05-14-Magic-mouse/苹果鼠标/妙控鼠标-经常断开连接](https://www.v2ex.com/t/671771) 
+- [【V2EX】2020-05-14-杭州-涂鸦智能-我们真的很缺人](https://www.v2ex.com/t/671770) 
+- [【V2EX】2020-05-14-今天第一天入职，被公司的骚操作恶心到了！](https://www.v2ex.com/t/671769) 
+- [【V2EX】2020-05-14-神烦那种动不动写个函数的](https://www.v2ex.com/t/671768) 
 - [【V2EX】2020-05-14-有没有“根据-css-文件”去“自动生成样式案例”作为编写网页参考的办法](https://www.v2ex.com/t/671767) 
 - [【V2EX】2020-05-14-直播-app-怎样有效保活](https://www.v2ex.com/t/671764) 
 - [【V2EX】2020-05-14-一个动端的-HTML5-页面，如何获取用户触摸滑动的轨迹？](https://www.v2ex.com/t/671763) 

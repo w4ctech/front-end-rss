@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 11:00:21，:rocket: 更新条数: +43， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 11:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1) ![](assets/new.png)  
 - [2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html)  
 - [2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html)  
 - [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1)  
 - [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
 - [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
-- [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1)  
-- [2020-05-13-中企援建尼日利亚的方舱医院完工并移交当地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-05-14-苹果公司白送的-B-站视频封面制作器](https://www.v2ex.com/t/671524) ![](assets/new.png)  
-- [2020-05-14-v-友们将远程-oracle-一个用户的所有表以及数据同步到本地-oracle，大家有什么快的办法嘛~](https://www.v2ex.com/t/671523) ![](assets/new.png)  
-- [2020-05-14-Java-，一个实体有-100-个成员变量，现在需要把其中某-30-个变量放到一个-list-里（需要有非空判断，不是空的才放进去，-null-或者""不放进去），怎么写比较简洁](https://www.v2ex.com/t/671521) ![](assets/new.png)  
-- [2020-05-14-泗泾地铁-100m-房子转租](https://www.v2ex.com/t/671518) ![](assets/new.png)  
-- [2020-05-14-Python-通过小票打印机打印中文及二维码](https://www.v2ex.com/t/671517) ![](assets/new.png)  
-- [2020-05-14-spring-项目或-springboot-项目，-jar-包部署和-war-包部署有区别么？有什么坑？](https://www.v2ex.com/t/671516) ![](assets/new.png)  
-- [2020-05-14-内推-微信支付深圳-后台/前端招人哇，欢迎发简历](https://www.v2ex.com/t/671515) ![](assets/new.png)  
-- [2020-05-14-调查一下，你们用数据模型设计-Power-designer-之类的软件吗？](https://www.v2ex.com/t/671512) ![](assets/new.png)  
-- [2020-05-14-迫穷，-6K-转让自用一台-17-款-MacBookPro](https://www.v2ex.com/t/671511) ![](assets/new.png)  
-- [2020-05-14-用纯数据类+普通函数来模拟类，帮助新手理解类和类函数](https://www.v2ex.com/t/671509) ![](assets/new.png)  
-- [2020-05-14-SEOer-该朝哪个方向转型？-SEM-竞价、前端、视频编辑、新媒体运营？](https://www.v2ex.com/t/671508) ![](assets/new.png)  
-- [2020-05-14-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推，实时反馈~](https://www.v2ex.com/t/671507) ![](assets/new.png)  
-- [2020-05-14-今年的就业行情真的是金五银六吗](https://www.v2ex.com/t/671506) ![](assets/new.png)  
-- [2020-05-14-godot-这个开源引擎-适合-新入门的独立游戏入手吗？-没有游戏开发经验-但是考虑到入手正好是-Python-+CPP-刚好和我贴合-只做-2D-策略类战棋游戏-有没有...](https://www.v2ex.com/t/671504) ![](assets/new.png)  
-- [2020-05-14-喜大普奔，-Route53-有中国版了!](https://www.v2ex.com/t/671503) ![](assets/new.png)  
-- [2020-05-14-你们在电脑上上淘宝网会自动跳到淘宝网触屏版吗](https://www.v2ex.com/t/671502) ![](assets/new.png)  
-- [2020-05-14-bili-一套二次元界面给社畜，老年人上课也太怪了](https://www.v2ex.com/t/671501) ![](assets/new.png)  
-- [2020-05-14-煲汤界的黑暗料理](https://www.v2ex.com/t/671500) ![](assets/new.png)  
-- [2020-05-14-北京-奇虎-360-golang-用人部门直招，非猎头，非-HR-诚聘-高级/资深-golang-开发专家-T6/T7/T8](https://www.v2ex.com/t/671499) ![](assets/new.png)  
-- [2020-05-14-golang-微服务集成框架](https://www.v2ex.com/t/671497) ![](assets/new.png)  
+- [2020-05-14-苹果公司白送的-B-站视频封面制作器](https://www.v2ex.com/t/671524)  
+- [2020-05-14-v-友们将远程-oracle-一个用户的所有表以及数据同步到本地-oracle，大家有什么快的办法嘛~](https://www.v2ex.com/t/671523)  
+- [2020-05-14-Java-，一个实体有-100-个成员变量，现在需要把其中某-30-个变量放到一个-list-里（需要有非空判断，不是空的才放进去，-null-或者""不放进去），怎么写比较简洁](https://www.v2ex.com/t/671521)  
+- [2020-05-14-泗泾地铁-100m-房子转租](https://www.v2ex.com/t/671518)  
+- [2020-05-14-Python-通过小票打印机打印中文及二维码](https://www.v2ex.com/t/671517)  
+- [2020-05-14-spring-项目或-springboot-项目，-jar-包部署和-war-包部署有区别么？有什么坑？](https://www.v2ex.com/t/671516)  
+- [2020-05-14-内推-微信支付深圳-后台/前端招人哇，欢迎发简历](https://www.v2ex.com/t/671515)  
+- [2020-05-14-调查一下，你们用数据模型设计-Power-designer-之类的软件吗？](https://www.v2ex.com/t/671512)  
+- [2020-05-14-迫穷，-6K-转让自用一台-17-款-MacBookPro](https://www.v2ex.com/t/671511)  
+- [2020-05-14-用纯数据类+普通函数来模拟类，帮助新手理解类和类函数](https://www.v2ex.com/t/671509)  
+- [2020-05-14-SEOer-该朝哪个方向转型？-SEM-竞价、前端、视频编辑、新媒体运营？](https://www.v2ex.com/t/671508)  
+- [2020-05-14-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推，实时反馈~](https://www.v2ex.com/t/671507)  
+- [2020-05-14-今年的就业行情真的是金五银六吗](https://www.v2ex.com/t/671506)  
+- [2020-05-14-godot-这个开源引擎-适合-新入门的独立游戏入手吗？-没有游戏开发经验-但是考虑到入手正好是-Python-+CPP-刚好和我贴合-只做-2D-策略类战棋游戏-有没有...](https://www.v2ex.com/t/671504)  
+- [2020-05-14-喜大普奔，-Route53-有中国版了!](https://www.v2ex.com/t/671503)  
+- [2020-05-14-你们在电脑上上淘宝网会自动跳到淘宝网触屏版吗](https://www.v2ex.com/t/671502)  
+- [2020-05-14-bili-一套二次元界面给社畜，老年人上课也太怪了](https://www.v2ex.com/t/671501)  
+- [2020-05-14-煲汤界的黑暗料理](https://www.v2ex.com/t/671500)  
+- [2020-05-14-北京-奇虎-360-golang-用人部门直招，非猎头，非-HR-诚聘-高级/资深-golang-开发专家-T6/T7/T8](https://www.v2ex.com/t/671499)  
+- [2020-05-14-golang-微服务集成框架](https://www.v2ex.com/t/671497)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,14 +1107,14 @@
 </summary>
 
 
-- [2020-05-14-Flutter-Web-网站之最简方式实现暗黑主题无缝切换](https://toutiao.io/k/9itvjb2) ![](assets/new.png)  
-- [2020-05-14-JavaScript-ES-2020-必知必会新特性](https://toutiao.io/k/3iifvy6) ![](assets/new.png)  
-- [2020-05-14-如何巧妙回答对用人单位的了解？（面试答题篇-Ⅱ）](https://toutiao.io/k/uiub0h0) ![](assets/new.png)  
-- [2020-05-14-Redis-入门，我是认真的](https://toutiao.io/k/y6btnm1) ![](assets/new.png)  
-- [2020-05-14-又一-P1-故障，锅比脸圆](https://toutiao.io/k/c0aqdqy) ![](assets/new.png)  
-- [2020-05-14-EventBus-源码详细分析：手写-EventBus-核心代码](https://toutiao.io/k/qo26och) ![](assets/new.png)  
-- [2020-05-14-竞价广告排序策略](https://toutiao.io/k/o51b008) ![](assets/new.png)  
-- [2020-05-14-iOS-Sign-With-Apple-实践](https://toutiao.io/k/uvcgewp) ![](assets/new.png)  
+- [2020-05-14-Flutter-Web-网站之最简方式实现暗黑主题无缝切换](https://toutiao.io/k/9itvjb2)  
+- [2020-05-14-JavaScript-ES-2020-必知必会新特性](https://toutiao.io/k/3iifvy6)  
+- [2020-05-14-如何巧妙回答对用人单位的了解？（面试答题篇-Ⅱ）](https://toutiao.io/k/uiub0h0)  
+- [2020-05-14-Redis-入门，我是认真的](https://toutiao.io/k/y6btnm1)  
+- [2020-05-14-又一-P1-故障，锅比脸圆](https://toutiao.io/k/c0aqdqy)  
+- [2020-05-14-EventBus-源码详细分析：手写-EventBus-核心代码](https://toutiao.io/k/qo26och)  
+- [2020-05-14-竞价广告排序策略](https://toutiao.io/k/o51b008)  
+- [2020-05-14-iOS-Sign-With-Apple-实践](https://toutiao.io/k/uvcgewp)  
 - [2020-05-14-技术之外：阅读《墨菲定律》时随手记下的一些普遍规律](https://toutiao.io/k/rheh436)  
 - [2020-05-14-帝都程序猿-996-摸鱼求生指南](https://toutiao.io/k/pw6bj4h)  
 - [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu)  

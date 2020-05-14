@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1) 

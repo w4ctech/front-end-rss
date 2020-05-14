@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1) 
+- [2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1) 
 - [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1) 
 - [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1) 
 - [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1) 

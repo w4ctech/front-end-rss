@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 06:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -20,6 +20,7 @@
 - [2020-04-30-网页外链用了-target="_blank"，结果悲剧了](https://www.ershicimi.com/p/4274659e9eebe8c5f2aedee92c67d5aa) 
 - [2020-04-26-iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8) 
 - [2020-04-17-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1) 
+- [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
 - [2020-05-04-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138) 
 - [2020-04-30-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/e2a99e9a539f9a00809c31574d820b11) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 

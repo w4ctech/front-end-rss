@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 10:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -302,6 +302,8 @@
 - [【全栈前端精选】2020-05-03-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df) 
 - [【全栈前端精选】2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1) 
 - [【全栈前端精选】2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0) 
+- [【前端宇宙】2020-05-14-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/c1847677360f3928af851fb2c1b082a9) 
+- [【前端宇宙】2020-05-14-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/7c3407d8871806d079d3fbc208a3765a) 
 - [【前端宇宙】2020-05-13-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/2e59d0b4435dabaddc68de57903c92b1) 
 - [【前端宇宙】2020-05-12-百度某新员工应届生抱怨：前人代码写得像坨*，颠覆了对大厂的认知](https://www.ershicimi.com/p/108f5f3e47d8deb832dfdcccc771ce54) 
 - [【前端宇宙】2020-05-11-前端工程化---剖析npm的包管理机制（完整版）](https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d) 
@@ -313,6 +315,7 @@
 - [【前端宇宙】2020-05-06-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002) 
 - [【前端宇宙】2020-05-05-5个技巧助你编写更好的React代码](https://www.ershicimi.com/p/da5dfedaf93d0957e106309c9af1f2af) 
 - [【前端宇宙】2020-05-02-神仙大佬们的优质公众号](https://www.ershicimi.com/p/9af3dcc5b0e2daf6b90e9c5897f9f8d4) 
+- [【前端瓶子君】2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4) 
 - [【前端瓶子君】2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707) 
 - [【前端瓶子君】2020-05-12-主流小程序框架横向对比及使用详解](https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93) 
 - [【前端瓶子君】2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead) 

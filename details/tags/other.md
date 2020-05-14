@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -349,6 +349,8 @@
 - [2020-03-08-关于-vertical-align-你应该知道的一切](https://www.ershicimi.com/p/84253c80d211b42d653806a6ff8250b9) 
 - [2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-05-14-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/c1847677360f3928af851fb2c1b082a9) 
+- [2020-05-14-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/7c3407d8871806d079d3fbc208a3765a) 
 - [2020-05-13-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/2e59d0b4435dabaddc68de57903c92b1) 
 - [2020-05-12-百度某新员工应届生抱怨：前人代码写得像坨*，颠覆了对大厂的认知](https://www.ershicimi.com/p/108f5f3e47d8deb832dfdcccc771ce54) 
 - [2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed) 
@@ -360,6 +362,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4) 
 - [2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead) 
 - [2020-05-09-一行代码实现一个简单的模板字符串替换](https://www.ershicimi.com/p/b680cc5554037475c77902f602529377) 
 - [2020-05-08-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/62051d65190ad5609fb050c628215a04) 

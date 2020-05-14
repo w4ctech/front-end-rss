@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 09:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 10:00:22，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -32,8 +32,8 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html) ![](assets/new.png)  
-- [2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html) ![](assets/new.png)  
+- [2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html)  
+- [2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html)  
 - [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1)  
 - [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1)  
 - [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
@@ -522,6 +522,8 @@
 </summary>
 
 
+- [2020-05-14-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/c1847677360f3928af851fb2c1b082a9) ![](assets/new.png)  
+- [2020-05-14-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/7c3407d8871806d079d3fbc208a3765a) ![](assets/new.png)  
 - [2020-05-13-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/2e59d0b4435dabaddc68de57903c92b1)  
 - [2020-05-12-百度某新员工应届生抱怨：前人代码写得像坨*，颠覆了对大厂的认知](https://www.ershicimi.com/p/108f5f3e47d8deb832dfdcccc771ce54)  
 - [2020-05-11-前端工程化---剖析npm的包管理机制（完整版）](https://www.ershicimi.com/p/e4b248cccea77a72475837fdf89b378d)  
@@ -540,8 +542,6 @@
 - [2020-04-27-新手学习-react-迷惑的点完整版](https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3)  
 - [2020-04-26-阿里大佬浅谈大型项目前端架构设计](https://www.ershicimi.com/p/016fca4951e60960931ad56bfdc608e7)  
 - [2020-04-24-别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36)  
-- [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c)  
-- [2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -553,6 +553,7 @@
 </summary>
 
 
+- [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4) ![](assets/new.png)  
 - [2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707)  
 - [2020-05-12-主流小程序框架横向对比及使用详解](https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93)  
 - [2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead)  
@@ -572,7 +573,6 @@
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad)  
 - [2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43)  
 - [2020-04-21-一起来看看-Babel-做了什么](https://www.ershicimi.com/p/8f073bef93e47208d60074750788276b)  
-- [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/57db5df072ebf9eee4ef8679704a4773)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,17 +1045,17 @@
 </summary>
 
 
-- [2020-05-14-这段时间机场的端口一直被封？](https://www.v2ex.com/t/671469) ![](assets/new.png)  
-- [2020-05-14-怎么使用-apisix-灰色发布项目](https://www.v2ex.com/t/671468) ![](assets/new.png)  
-- [2020-05-14-MBP-2013-款，自动切换显卡后，屏幕一闪一闪的，这是哪里出问题了啊？](https://www.v2ex.com/t/671467) ![](assets/new.png)  
-- [2020-05-14-最近在学习用-Django-做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？](https://www.v2ex.com/t/671466) ![](assets/new.png)  
-- [2020-05-14-工作中做-ppt-的场合多吗？什么样的-ppt-是有效且受欢迎的？](https://www.v2ex.com/t/671465) ![](assets/new.png)  
-- [2020-05-14-Service-调用问题](https://www.v2ex.com/t/671464) ![](assets/new.png)  
-- [2020-05-14-被降权后-@livid，他还能看到我-@他吗？](https://www.v2ex.com/t/671463) ![](assets/new.png)  
-- [2020-05-14-谁知道-idea-每年的三个版本有啥区别](https://www.v2ex.com/t/671462) ![](assets/new.png)  
-- [2020-05-14-想讨论一下关于苹果教这类的社会现象。](https://www.v2ex.com/t/671461) ![](assets/new.png)  
-- [2020-05-14-django-连接-oracle-执行-pl_sql-语句，是否能获取控制台打印信息？](https://www.v2ex.com/t/671460) ![](assets/new.png)  
-- [2020-05-14-MBP16-2019-又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热](https://www.v2ex.com/t/671459) ![](assets/new.png)  
+- [2020-05-14-这段时间机场的端口一直被封？](https://www.v2ex.com/t/671469)  
+- [2020-05-14-怎么使用-apisix-灰色发布项目](https://www.v2ex.com/t/671468)  
+- [2020-05-14-MBP-2013-款，自动切换显卡后，屏幕一闪一闪的，这是哪里出问题了啊？](https://www.v2ex.com/t/671467)  
+- [2020-05-14-最近在学习用-Django-做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？](https://www.v2ex.com/t/671466)  
+- [2020-05-14-工作中做-ppt-的场合多吗？什么样的-ppt-是有效且受欢迎的？](https://www.v2ex.com/t/671465)  
+- [2020-05-14-Service-调用问题](https://www.v2ex.com/t/671464)  
+- [2020-05-14-被降权后-@livid，他还能看到我-@他吗？](https://www.v2ex.com/t/671463)  
+- [2020-05-14-谁知道-idea-每年的三个版本有啥区别](https://www.v2ex.com/t/671462)  
+- [2020-05-14-想讨论一下关于苹果教这类的社会现象。](https://www.v2ex.com/t/671461)  
+- [2020-05-14-django-连接-oracle-执行-pl_sql-语句，是否能获取控制台打印信息？](https://www.v2ex.com/t/671460)  
+- [2020-05-14-MBP16-2019-又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热](https://www.v2ex.com/t/671459)  
 - [2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458)  
 - [2020-05-14-中学时代买过的二手数码产品？](https://www.v2ex.com/t/671457)  
 - [2020-05-14-MacBookPro-的正确使用姿势？](https://www.v2ex.com/t/671456)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 15:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 15:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-多重困境下-叙利亚储备生产抗疫药物羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1) 
@@ -521,6 +522,19 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-这款阿里云大带宽服务器配置价格怎么样？](https://www.v2ex.com/t/671638) 
+- [【V2EX】2020-05-14-为什么-itunes-store-的电影资源港区没有台区丰富](https://www.v2ex.com/t/671636) 
+- [【V2EX】2020-05-14-颈椎间盘突出，压迫神经，手指麻，胳膊疼](https://www.v2ex.com/t/671635) 
+- [【V2EX】2020-05-14-求助，大家的网站都在国内备案了吗，感觉备个案特别麻烦](https://www.v2ex.com/t/671634) 
+- [【V2EX】2020-05-14-面试题分析-输入一个字符串返回满足以下条件的字符串-找出与字符串的第一个字母相同的字母，把它们替换成-'*'，除了第一个字母本身以外-例如:-输入'babble...](https://www.v2ex.com/t/671633) 
+- [【V2EX】2020-05-14-各位大佬们，小米路由器能否增加-DDNS-服务商？](https://www.v2ex.com/t/671632) 
+- [【V2EX】2020-05-14-有没有这样一个软件，能规划骑行或者跑步路线呈某个字，或者图形？](https://www.v2ex.com/t/671631) 
+- [【V2EX】2020-05-14-如何创建一个像-voorp-一样污染-google-结果的内容农场？](https://www.v2ex.com/t/671630) 
+- [【V2EX】2020-05-14-各位程序员老哥们有没有接私活的](https://www.v2ex.com/t/671629) 
+- [【V2EX】2020-05-14-上海-阿里云-Teambition-P6/P7-Android/iOS-直招可私我沟通](https://www.v2ex.com/t/671628) 
+- [【V2EX】2020-05-14-electron-集成-sqlite3-打包失败](https://www.v2ex.com/t/671627) 
+- [【V2EX】2020-05-14-除了-Golang,-还有没有其他语言也只要改个参数就能交叉编译，并且纯静态链接](https://www.v2ex.com/t/671626) 
+- [【V2EX】2020-05-14-回收专贴-iPhone-系列二手机](https://www.v2ex.com/t/671625) 
 - [【V2EX】2020-05-14-centos-中文支持问题](https://www.v2ex.com/t/671622) 
 - [【V2EX】2020-05-14-一键生成-Go-语言的管理后台，基于-Vue.js-+iView4.0，代码生成器](https://www.v2ex.com/t/671621) 
 - [【V2EX】2020-05-14-免疫网络暴力和-PUA-的终极认知补丁](https://www.v2ex.com/t/671620) 

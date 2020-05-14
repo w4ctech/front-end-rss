@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -36,6 +36,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-14-electron-集成-sqlite3-打包失败](https://www.v2ex.com/t/671627) 
 - [2020-05-14-node-EventEmitter](https://www.v2ex.com/t/671537) 
 - [2020-05-13-杭州-PHP-/NodeJS-求职](https://www.v2ex.com/t/671242) 
 - [2020-05-13-混合开发-windows-客户端，除了-electron-还有哪些好用的技术框架](https://www.v2ex.com/t/671112) 

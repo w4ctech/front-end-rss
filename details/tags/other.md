@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 15:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 15:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1) 
 - [2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1) 
 - [2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1) 
 - [2020-05-14-多重困境下-叙利亚储备生产抗疫药物羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1) 
@@ -722,6 +723,16 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-14-这款阿里云大带宽服务器配置价格怎么样？](https://www.v2ex.com/t/671638) 
+- [2020-05-14-为什么-itunes-store-的电影资源港区没有台区丰富](https://www.v2ex.com/t/671636) 
+- [2020-05-14-颈椎间盘突出，压迫神经，手指麻，胳膊疼](https://www.v2ex.com/t/671635) 
+- [2020-05-14-求助，大家的网站都在国内备案了吗，感觉备个案特别麻烦](https://www.v2ex.com/t/671634) 
+- [2020-05-14-有没有这样一个软件，能规划骑行或者跑步路线呈某个字，或者图形？](https://www.v2ex.com/t/671631) 
+- [2020-05-14-如何创建一个像-voorp-一样污染-google-结果的内容农场？](https://www.v2ex.com/t/671630) 
+- [2020-05-14-各位程序员老哥们有没有接私活的](https://www.v2ex.com/t/671629) 
+- [2020-05-14-上海-阿里云-Teambition-P6/P7-Android/iOS-直招可私我沟通](https://www.v2ex.com/t/671628) 
+- [2020-05-14-除了-Golang,-还有没有其他语言也只要改个参数就能交叉编译，并且纯静态链接](https://www.v2ex.com/t/671626) 
+- [2020-05-14-回收专贴-iPhone-系列二手机](https://www.v2ex.com/t/671625) 
 - [2020-05-14-centos-中文支持问题](https://www.v2ex.com/t/671622) 
 - [2020-05-14-免疫网络暴力和-PUA-的终极认知补丁](https://www.v2ex.com/t/671620) 
 - [2020-05-14-是不是除了去大公司就只能是外包？](https://www.v2ex.com/t/671618) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 15:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -52,6 +52,8 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-14-有些招聘网站能看到有多少人投递了，大概多少人才算竞争一般？](https://www.v2ex.com/t/671648) 
+- [2020-05-14-广州-Edison.Tech-招聘高级运维工程师-25K-35K-税后](https://www.v2ex.com/t/671643) 
 - [2020-05-14-面试题分析-输入一个字符串返回满足以下条件的字符串-找出与字符串的第一个字母相同的字母，把它们替换成-'*'，除了第一个字母本身以外-例如:-输入'babble...](https://www.v2ex.com/t/671633) 
 - [2020-05-14-腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳/成都](https://www.v2ex.com/t/671619) 
 - [2020-05-14-远程面试-Hillinsight-iOS-高级工程师/架构师](https://www.v2ex.com/t/671612) 

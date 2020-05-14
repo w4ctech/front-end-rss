@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 19:00:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-​法国药企称新冠疫苗将首供美国？-法官员称“不可接受”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrNVJXQZOVh40iza5fbJ200514&isfromapp=1) 
 - [2020-05-14-疫情之下-美国老年人成“牺牲品”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOc2ahbg5LpK3QVsuCi2B200514&isfromapp=1) 
 - [2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1) 
 - [2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1) 
@@ -727,6 +728,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-14-这么多年一直有个疑问？我们请假，但是回来还是要把那些事情干完](https://www.v2ex.com/t/671745) 
+- [2020-05-14-在-qq-邮箱前面加-www-这样能收到邮件吗？](https://www.v2ex.com/t/671744) 
+- [2020-05-14-给网页版微博写了个脚本，可以分享你想分享给别人的微博了](https://www.v2ex.com/t/671743) 
+- [2020-05-14-问个会员问题](https://www.v2ex.com/t/671742) 
+- [2020-05-14-各位有什么好用的客户端推荐吗。](https://www.v2ex.com/t/671741) 
+- [2020-05-14-跟风发一个匿名社区系统-MaskChat](https://www.v2ex.com/t/671740) 
+- [2020-05-14-山东济南联通疑似被劫持](https://www.v2ex.com/t/671739) 
+- [2020-05-14-工位发现-Jerry-的脚印](https://www.v2ex.com/t/671737) 
 - [2020-05-14-macos-10.15.4-新增了人脸识别？](https://www.v2ex.com/t/671736) 
 - [2020-05-14-运营商的一键登录会不会被偷偷用来跟踪用户？](https://www.v2ex.com/t/671734) 
 - [2020-05-14-感觉自己在吃中学时期身体锻炼的老本](https://www.v2ex.com/t/671731) 

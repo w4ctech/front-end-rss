@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 18:00:21，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -732,8 +732,8 @@
 </summary>
 
 
-- [2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d) ![](assets/new.png)  
-- [2020-05-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bdd89b335b89417c9395b7b80c2f5452) ![](assets/new.png)  
+- [2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d)  
+- [2020-05-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bdd89b335b89417c9395b7b80c2f5452)  
 - [2020-05-12-最后一天，立省52元！你的青春必须有奇舞团的前端课](https://www.ershicimi.com/p/4a588ca2ef0a81646d5520a316d7abde)  
 - [2020-05-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9aa33d8e3b6e21b0ac443b99512a40bb)  
 - [2020-05-11-Deno-1.0，来了解一下](https://www.ershicimi.com/p/20c461d7e309394183c86ae8a86e2601)  
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-05-14-简历中一段工作经历多写了一个月，对背调有影响吗？](https://www.v2ex.com/t/671691)  
-- [2020-05-14-成都地区寻-2-名-Java](https://www.v2ex.com/t/671690)  
-- [2020-05-14-有安卓的大佬吗？-content://路径如何转换成可访问-file://路径？](https://www.v2ex.com/t/671689)  
-- [2020-05-14-想明白了，-MBP16-适合这三类人。。。](https://www.v2ex.com/t/671688)  
-- [2020-05-14-请问网盘直链下载助手挂了吗](https://www.v2ex.com/t/671687)  
-- [2020-05-14-macOS-为什么无法控制显示器输出的音频音量？](https://www.v2ex.com/t/671686)  
-- [2020-05-14-佛山地区寻两名-2-3-年的-Java](https://www.v2ex.com/t/671685)  
-- [2020-05-14-上海-比心陪练移动端-Android-/-iOS-内推](https://www.v2ex.com/t/671684)  
-- [2020-05-14-🔥新加坡-🔥技术移民机会🔥中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/671683)  
-- [2020-05-14-逼死强迫症。找到所有的蓝牙机械键盘，都只能适配-Mac-左侧的-Command，空格右侧-Command-的不行。](https://www.v2ex.com/t/671682)  
-- [2020-05-14-分享自己写的-typecho-主题——WINDS](https://www.v2ex.com/t/671681)  
-- [2020-05-14-找了一个月,要入职了....然而去了以后就我一个后端](https://www.v2ex.com/t/671680)  
-- [2020-05-14-减肥中...](https://www.v2ex.com/t/671679)  
-- [2020-05-14-急招!-蚂蚁金服-诚招-Java-/大数据方向技术专家/架构师，-P7P8，上海](https://www.v2ex.com/t/671678)  
-- [2020-05-14-Android-如何实现开机运行脚本](https://www.v2ex.com/t/671677)  
-- [2020-05-14-安卓手机不-root-有方法能实现自动播放下一条吗？](https://www.v2ex.com/t/671676)  
-- [2020-05-14-大家在专心思考的时候，手里喜欢把玩啥？或者有什么好物推荐？](https://www.v2ex.com/t/671675)  
-- [2020-05-14-完全遵照-Effective-Java-里面的要点设计代码可行吗？](https://www.v2ex.com/t/671674)  
-- [2020-05-14-goland-中-scratch-file-的使用问题](https://www.v2ex.com/t/671673)  
-- [2020-05-14-还请各位-V2er-迫害-TheZihanGu-时不要迫害错对象](https://www.v2ex.com/t/671672)  
+- [2020-05-14-计算机类的-高级技师（国家职业资格证书一级）对应哪些证书，有了解的能给些关键词吗？](https://www.v2ex.com/t/671720) ![](assets/new.png)  
+- [2020-05-14-Microsoft365-家庭版新🚗，-36.5-元/人/年，长期车。](https://www.v2ex.com/t/671718) ![](assets/new.png)  
+- [2020-05-14-上海-急招-2-年及以上-golang-工程师，-20k-45k](https://www.v2ex.com/t/671717) ![](assets/new.png)  
+- [2020-05-14-IT-就业、创业“避坑”指南-2020-版](https://www.v2ex.com/t/671716) ![](assets/new.png)  
+- [2020-05-14-公司申请公租房批下来了，但只有零居，在考虑要不要。](https://www.v2ex.com/t/671715) ![](assets/new.png)  
+- [2020-05-14-三本应届生不做开发程序员该如何走下去，两个-Offer-求前辈指条路-：](https://www.v2ex.com/t/671714) ![](assets/new.png)  
+- [2020-05-14-如何从不同的-iPhone-备份中，将照片原件拷贝出来](https://www.v2ex.com/t/671713) ![](assets/new.png)  
+- [2020-05-14-求职数据分析工程师，求带走，求内推](https://www.v2ex.com/t/671712) ![](assets/new.png)  
+- [2020-05-14-为什么网速的单位如此之多，如此之复杂，（其实就是我搞不明白。）](https://www.v2ex.com/t/671710) ![](assets/new.png)  
+- [2020-05-14-深圳联通-dns-劫持？](https://www.v2ex.com/t/671709) ![](assets/new.png)  
+- [2020-05-14-迫于找不到工作,写了一份闪着金光的简历,-求工作](https://www.v2ex.com/t/671707) ![](assets/new.png)  
+- [2020-05-14-换过电池-iPhone-X-经常卡死几十秒，然后-spring-reload-是什么问题](https://www.v2ex.com/t/671705) ![](assets/new.png)  
+- [2020-05-14-福田有房子转租吗，在上梅林上班，最好靠着-4，-9-号线](https://www.v2ex.com/t/671704) ![](assets/new.png)  
+- [2020-05-14-二进制自动升级有什么推荐的工具吗](https://www.v2ex.com/t/671702) ![](assets/new.png)  
+- [2020-05-14-难道就不能模版代码样式他们仨分开写吗？](https://www.v2ex.com/t/671700) ![](assets/new.png)  
+- [2020-05-14-微信支付-顶级产品线-招开发-后端-/-前端-/-高级-中级-各种不限](https://www.v2ex.com/t/671699) ![](assets/new.png)  
+- [2020-05-14-Synchronized-的轻量锁](https://www.v2ex.com/t/671698) ![](assets/new.png)  
+- [2020-05-14-上海居住证求解](https://www.v2ex.com/t/671697) ![](assets/new.png)  
+- [2020-05-14-select-*-from-A-select-c-in-select-c-from-B-limit-10;-数据库会把-c-全部查出来吗](https://www.v2ex.com/t/671696) ![](assets/new.png)  
+- [2020-05-14-请教，测试开发面试互联网，如何提高胜率](https://www.v2ex.com/t/671695) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

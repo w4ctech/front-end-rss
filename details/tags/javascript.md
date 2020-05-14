@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -128,6 +128,9 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-14-Java-，一个实体有-100-个成员变量，现在需要把其中某-30-个变量放到一个-list-里（需要有非空判断，不是空的才放进去，-null-或者""不放进去），怎么写比较简洁](https://www.v2ex.com/t/671521) 
+- [2020-05-14-package-lock.json-与-^~等版本控制方法是违背的吗？](https://www.v2ex.com/t/671483) 
+- [2020-05-14-将一些正在自用的资源加速服务开放出来（Jsdelivr、gFonts、Unsplash、Pexels）](https://www.v2ex.com/t/671482) 
 - [2020-05-14-Springboot-Mongodb-异步方法后插入出现-MongoInterruptedException](https://www.v2ex.com/t/671426) 
 - [2020-05-13-Hotspot-中一个变量槽应该为多少字节？](https://www.v2ex.com/t/671394) 
 - [2020-05-13-802.11ad/ax/b-三频无线路由器现在有木有](https://www.v2ex.com/t/671320) 
@@ -254,6 +257,7 @@
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-14-JavaScript-ES-2020-必知必会新特性](https://toutiao.io/k/3iifvy6) 
 - [2020-05-13-Spring-Cloud-Alibaba（一）：概述与重要组件](https://toutiao.io/k/mn670yu) 
 - [2020-05-13-为什么数组要从零开始？](https://toutiao.io/k/m0kj5lp) 
 - [2020-05-13-声明式-declarative-vs-命令式-imperative](https://toutiao.io/k/0kmdg3v) 

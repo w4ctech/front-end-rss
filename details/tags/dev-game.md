@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -33,6 +33,8 @@
 - [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) 
 - [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9) 
 - [2020-04-24-从零实现一个单词对战游戏-二-产品篇:-如何确定项目主题](https://juejin.im/post/5e9da75e518825085d6d0854) 
+- [2020-05-14-godot-这个开源引擎-适合-新入门的独立游戏入手吗？-没有游戏开发经验-但是考虑到入手正好是-Python-+CPP-刚好和我贴合-只做-2D-策略类战棋游戏-有没有...](https://www.v2ex.com/t/671504) 
+- [2020-05-14-求助，推荐适合休闲放松的-ps4-游戏](https://www.v2ex.com/t/671488) 
 - [2020-05-13-Unreal-Engine-5-Revealed!-|-Next-Gen-Real-Time-Demo-Running-on-PlayStation-5-感觉过几年就能体验到类似头号玩家的游戏。](https://www.v2ex.com/t/671424) 
 - [2020-05-13-WEB-服务器开发转游戏开发，需要注意什么，技术栈差距大不大](https://www.v2ex.com/t/671298) 
 - [2020-05-13-不懂就问：游戏本适合机器学习吗？](https://www.v2ex.com/t/671264) 

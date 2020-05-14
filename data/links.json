@@ -2811,6 +2811,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "Deno 1.0正式发布！这是来自官方团队的安利",
+        "link": "https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "贝壳找房移动端在动态化、模块化、Flutter的经验总结 | GMTC",
+        "link": "https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "TypeScript 3.9正式发布！平均编译时长从26秒缩短至10秒",
+        "link": "https://www.ershicimi.com/p/cbbbd3ec516277f427f07474f27376d3",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "ESLint v7.0.0 发布：不再支持 Node.js v8",
+        "link": "https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710",
+        "date": "2020-05-13"
+      },
+      {
+        "title": "前端究竟怎么学？——我的学习路径和方法 | 极客大学",
+        "link": "https://www.ershicimi.com/p/a13f14f176b769aef0115d87e2c7f3c0",
+        "date": "2020-05-13"
+      },
+      {
         "title": "2020Web开发学习路线图：从前端，到全栈",
         "link": "https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f",
         "date": "2020-05-12"
@@ -7336,6 +7361,101 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "找了一个月,要入职了....然而去了以后就我一个后端",
+        "link": "https://www.v2ex.com/t/671680",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "减肥中...",
+        "link": "https://www.v2ex.com/t/671679",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "急招! [蚂蚁金服] 诚招 Java /大数据方向技术专家/架构师， P7P8，上海",
+        "link": "https://www.v2ex.com/t/671678",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "Android 如何实现开机运行脚本",
+        "link": "https://www.v2ex.com/t/671677",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "安卓手机不 root 有方法能实现自动播放下一条吗？",
+        "link": "https://www.v2ex.com/t/671676",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "大家在专心思考的时候，手里喜欢把玩啥？或者有什么好物推荐？",
+        "link": "https://www.v2ex.com/t/671675",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "完全遵照 Effective Java 里面的要点设计代码可行吗？",
+        "link": "https://www.v2ex.com/t/671674",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "goland 中 scratch file 的使用问题",
+        "link": "https://www.v2ex.com/t/671673",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "还请各位 V2er 迫害 TheZihanGu 时不要迫害错对象",
+        "link": "https://www.v2ex.com/t/671672",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "MC 一个破公益服服务器莫名奇妙被攻击然后封了",
+        "link": "https://www.v2ex.com/t/671671",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "求助各位大佬，后端 Java ，前端 vue，有没有可以在线编辑报告的 demo，没有一点头绪",
+        "link": "https://www.v2ex.com/t/671670",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "如何指定待连接的 L2TP 服务器的端口",
+        "link": "https://www.v2ex.com/t/671669",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "开机自启，大家现在用 systemd 还是 supervisor ？",
+        "link": "https://www.v2ex.com/t/671667",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "MacBook Air 2020 MacBook Pro 2020 怎么选",
+        "link": "https://www.v2ex.com/t/671666",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "[远程面试] Hillinsight-前端高级工程师/架构师",
+        "link": "https://www.v2ex.com/t/671665",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "急！网址被劫持，找人解决，有偿",
+        "link": "https://www.v2ex.com/t/671664",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "求腾讯云优惠券",
+        "link": "https://www.v2ex.com/t/671663",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "你有没有想过你用什么方式处理你的“遗产”？",
+        "link": "https://www.v2ex.com/t/671662",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "[内推]字节跳动，直播中台招人客户端/后端/前端都需要，急！",
+        "link": "https://www.v2ex.com/t/671661",
+        "date": "2020-05-14"
+      },
       {
         "title": "资讯下现在多模块的项目如何结构是什么样的",
         "link": "https://www.v2ex.com/t/671660",

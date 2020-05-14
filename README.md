@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 16:00:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 16:30:21，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -410,6 +410,11 @@
 </summary>
 
 
+- [2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34) ![](assets/new.png)  
+- [2020-05-14-贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0) ![](assets/new.png)  
+- [2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/cbbbd3ec516277f427f07474f27376d3) ![](assets/new.png)  
+- [2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710) ![](assets/new.png)  
+- [2020-05-13-前端究竟怎么学？——我的学习路径和方法-|-极客大学](https://www.ershicimi.com/p/a13f14f176b769aef0115d87e2c7f3c0) ![](assets/new.png)  
 - [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)  
 - [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073)  
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
@@ -425,11 +430,6 @@
 - [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8)  
 - [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb)  
 - [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
-- [2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9)  
-- [2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198)  
-- [2020-04-30-JQuery、Vue、React、Angular，JavaScript框架成本终极对比](https://www.ershicimi.com/p/19e84af6378b0b82c9fb386f395afca4)  
-- [2020-04-30-你值得拥有的前端工程化实践案例分享-|-GMTC](https://www.ershicimi.com/p/f14608b872e30d92a63ac01ae7d4eb00)  
-- [2020-04-29-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/f2e13cfbe3a555e45979d347514c6065)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-05-14-资讯下现在多模块的项目如何结构是什么样的](https://www.v2ex.com/t/671660) ![](assets/new.png)  
-- [2020-05-14-匹配苹果电脑的无线蓝牙机械键盘求推荐。。。](https://www.v2ex.com/t/671659) ![](assets/new.png)  
-- [2020-05-14-Deno-中文手册](https://www.v2ex.com/t/671658) ![](assets/new.png)  
-- [2020-05-14-有没有一直轻微咳嗽的](https://www.v2ex.com/t/671657) ![](assets/new.png)  
-- [2020-05-14-问下懂电信光猫和路由的朋友一个问题（带简易拓扑）](https://www.v2ex.com/t/671656) ![](assets/new.png)  
-- [2020-05-14-关于-Teamviewer-许可的问题](https://www.v2ex.com/t/671655) ![](assets/new.png)  
-- [2020-05-14-请问使用-Vuex-的好处究竟在哪里？](https://www.v2ex.com/t/671654) ![](assets/new.png)  
-- [2020-05-14-IOS-上什么提醒吃药的-App-么？](https://www.v2ex.com/t/671653) ![](assets/new.png)  
-- [2020-05-14-podman-pod-create-遇墙](https://www.v2ex.com/t/671652) ![](assets/new.png)  
-- [2020-05-14-刚毕业不久对以后的选择有点迷茫](https://www.v2ex.com/t/671651) ![](assets/new.png)  
-- [2020-05-14-如何解决电脑安装监控软件问题](https://www.v2ex.com/t/671650) ![](assets/new.png)  
-- [2020-05-14-一个旅行家问题算法题的变种题，各位算法大佬来提供个思路](https://www.v2ex.com/t/671649) ![](assets/new.png)  
-- [2020-05-14-有些招聘网站能看到有多少人投递了，大概多少人才算竞争一般？](https://www.v2ex.com/t/671648) ![](assets/new.png)  
-- [2020-05-14-少数派购买的-TotalFinder-注册码竟然无效，](https://www.v2ex.com/t/671647) ![](assets/new.png)  
-- [2020-05-14-怎么使用-React-hook-二次封装一个富文本组件](https://www.v2ex.com/t/671644) ![](assets/new.png)  
-- [2020-05-14-广州-Edison.Tech-招聘高级运维工程师-25K-35K-税后](https://www.v2ex.com/t/671643) ![](assets/new.png)  
-- [2020-05-14-昨晚视频聊水滴互助,-今天就打电话来,-牛](https://www.v2ex.com/t/671640) ![](assets/new.png)  
-- [2020-05-14-这款阿里云大带宽服务器配置价格怎么样？](https://www.v2ex.com/t/671638)  
-- [2020-05-14-为什么-itunes-store-的电影资源港区没有台区丰富](https://www.v2ex.com/t/671636)  
-- [2020-05-14-颈椎间盘突出，压迫神经，手指麻，胳膊疼](https://www.v2ex.com/t/671635)  
+- [2020-05-14-找了一个月,要入职了....然而去了以后就我一个后端](https://www.v2ex.com/t/671680) ![](assets/new.png)  
+- [2020-05-14-减肥中...](https://www.v2ex.com/t/671679) ![](assets/new.png)  
+- [2020-05-14-急招!-蚂蚁金服-诚招-Java-/大数据方向技术专家/架构师，-P7P8，上海](https://www.v2ex.com/t/671678) ![](assets/new.png)  
+- [2020-05-14-Android-如何实现开机运行脚本](https://www.v2ex.com/t/671677) ![](assets/new.png)  
+- [2020-05-14-安卓手机不-root-有方法能实现自动播放下一条吗？](https://www.v2ex.com/t/671676) ![](assets/new.png)  
+- [2020-05-14-大家在专心思考的时候，手里喜欢把玩啥？或者有什么好物推荐？](https://www.v2ex.com/t/671675) ![](assets/new.png)  
+- [2020-05-14-完全遵照-Effective-Java-里面的要点设计代码可行吗？](https://www.v2ex.com/t/671674) ![](assets/new.png)  
+- [2020-05-14-goland-中-scratch-file-的使用问题](https://www.v2ex.com/t/671673) ![](assets/new.png)  
+- [2020-05-14-还请各位-V2er-迫害-TheZihanGu-时不要迫害错对象](https://www.v2ex.com/t/671672) ![](assets/new.png)  
+- [2020-05-14-MC-一个破公益服服务器莫名奇妙被攻击然后封了](https://www.v2ex.com/t/671671) ![](assets/new.png)  
+- [2020-05-14-求助各位大佬，后端-Java-，前端-vue，有没有可以在线编辑报告的-demo，没有一点头绪](https://www.v2ex.com/t/671670) ![](assets/new.png)  
+- [2020-05-14-如何指定待连接的-L2TP-服务器的端口](https://www.v2ex.com/t/671669) ![](assets/new.png)  
+- [2020-05-14-开机自启，大家现在用-systemd-还是-supervisor-？](https://www.v2ex.com/t/671667) ![](assets/new.png)  
+- [2020-05-14-MacBook-Air-2020-MacBook-Pro-2020-怎么选](https://www.v2ex.com/t/671666) ![](assets/new.png)  
+- [2020-05-14-远程面试-Hillinsight-前端高级工程师/架构师](https://www.v2ex.com/t/671665) ![](assets/new.png)  
+- [2020-05-14-急！网址被劫持，找人解决，有偿](https://www.v2ex.com/t/671664) ![](assets/new.png)  
+- [2020-05-14-求腾讯云优惠券](https://www.v2ex.com/t/671663) ![](assets/new.png)  
+- [2020-05-14-你有没有想过你用什么方式处理你的“遗产”？](https://www.v2ex.com/t/671662) ![](assets/new.png)  
+- [2020-05-14-内推字节跳动，直播中台招人客户端/后端/前端都需要，急！](https://www.v2ex.com/t/671661) ![](assets/new.png)  
+- [2020-05-14-资讯下现在多模块的项目如何结构是什么样的](https://www.v2ex.com/t/671660)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

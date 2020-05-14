@@ -11,16 +11,16 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 14:00:21，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 14:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
-- [React中文社区](#react中文社区)  
+- [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-多重困境下-叙利亚储备生产抗疫药物羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1) ![](assets/new.png)  
 - [2020-05-14-江苏省民政厅：因受新冠肺炎疫情影响，5月20日、21日结婚登记需至少提前2天预约](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2DRtJVic3BM2HmLN9wUX200514&isfromapp=1)  
 - [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1)  
 - [2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-13-俄罗斯新增10028例新冠肺炎确诊病例-累计确诊242271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1)  
 - [2020-05-13-国家卫健委：吉林舒兰传染源调查仍在进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauzWVPOiakGWN2lFk4uK200513&isfromapp=1)  
 - [2020-05-13-吉林市已经复学的年级一律转为网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1)  
-- [2020-05-13-5248.4万卢布-中国诚通援俄防疫物资运抵莫斯科](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEutNZZ3SeLbjisibNLH0200513&isfromapp=1)  
-- [2020-05-13-世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -198,6 +198,8 @@
 </summary>
 
 
+- [2020-05-14-一文达到Mysql实战水平-习题答案](https://www.ershicimi.com/p/541e3bf6cc03ebd608c403da8cd4f8d3) ![](assets/new.png)  
+- [2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) ![](assets/new.png)  
 - [2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8)  
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c)  
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88)  
@@ -470,6 +472,8 @@
 </summary>
 
 
+- [2020-05-14-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e) ![](assets/new.png)  
+- [2020-05-14-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c) ![](assets/new.png)  
 - [2020-05-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/26e9bbdd4342d0a6a6a41c07691876a7)  
 - [2020-05-12-认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)  
 - [2020-05-11-前端换肤的N种方案，请收下](https://www.ershicimi.com/p/9055bdac2e9681cffc5298b35ed62cf8)  
@@ -488,8 +492,6 @@
 - [2020-04-30-实现一个代码编译器（200行JS代码）](https://www.ershicimi.com/p/8166df5d01201f2c9266d6723c729c1a)  
 - [2020-04-29-【THE-LAST-TIME】从-Redux-源码中学习它的范式](https://www.ershicimi.com/p/451fd7d45754ac63eb19da0ab349c856)  
 - [2020-04-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/a5329585912d133b6a113711b3475bb5)  
-- [2020-04-28-Vue-3.0-这个迷人的小妖精，到底好在哪里？](https://www.ershicimi.com/p/3d0afafbf1e1a886393c500356e38136)  
-- [2020-04-27-【PPT】阿里@甑子：《前端智能化实践》——逻辑代码生成](https://www.ershicimi.com/p/7440ae1131910c4dcae7d16b7d4b0e89)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,26 +1047,26 @@
 </summary>
 
 
-- [2020-05-14-不玩游戏基本拿来看视频为主，安卓有什么屏幕好护眼的手机](https://www.v2ex.com/t/671590) ![](assets/new.png)  
-- [2020-05-14-写程序很难吗？](https://www.v2ex.com/t/671589) ![](assets/new.png)  
-- [2020-05-14-杭州相芯科技有了解的吗](https://www.v2ex.com/t/671588) ![](assets/new.png)  
-- [2020-05-14-SparkMEMO-Editor-v0.1.0,-一个简洁的开源跨平台-Markdown-编辑器](https://www.v2ex.com/t/671586) ![](assets/new.png)  
-- [2020-05-14-Google-Voice-问题](https://www.v2ex.com/t/671585) ![](assets/new.png)  
-- [2020-05-14-mbp-16inch-触摸板太大经常误触怎么破](https://www.v2ex.com/t/671584) ![](assets/new.png)  
-- [2020-05-14-三星-Note9-与米-10Pro-拍照对比](https://www.v2ex.com/t/671583) ![](assets/new.png)  
-- [2020-05-14-PHP-curl-超时问题探讨-Operation-timed-out-after-1001-milliseconds-with-0-out-of--1-bytes-received](https://www.v2ex.com/t/671582) ![](assets/new.png)  
-- [2020-05-14-mbp-有没有好用的鼠标](https://www.v2ex.com/t/671580) ![](assets/new.png)  
-- [2020-05-14-BT-反吸血的实现的设想](https://www.v2ex.com/t/671579) ![](assets/new.png)  
-- [2020-05-14-底层程序员的开发效率受上级影响，如何改变？](https://www.v2ex.com/t/671578) ![](assets/new.png)  
-- [2020-05-14-python2-的真要落幕了](https://www.v2ex.com/t/671577) ![](assets/new.png)  
-- [2020-05-14-关于中软国际的华为车联网外包，请有经验的大佬给些建议，拜托了！](https://www.v2ex.com/t/671576) ![](assets/new.png)  
-- [2020-05-14-好像买不到动物之森的卡带了](https://www.v2ex.com/t/671574) ![](assets/new.png)  
-- [2020-05-14-平安车险送了一次免费上门保养，还是被收了点智商税](https://www.v2ex.com/t/671573) ![](assets/new.png)  
-- [2020-05-14-刚才去吃午饭路上捡到-50-块钱…](https://www.v2ex.com/t/671571) ![](assets/new.png)  
-- [2020-05-14-macOS-突然就无法加载-nas-的-smb-共享根目录了](https://www.v2ex.com/t/671570) ![](assets/new.png)  
-- [2020-05-14-有人测试过使用一台-SSD-服务器把-GDRIVE-挂载起来-然后使用-SSH-或者-FTP-备份](https://www.v2ex.com/t/671569) ![](assets/new.png)  
-- [2020-05-14-视频面试-可远程-北美高科技创新公司-Jerry-Ai-软件工程师岗位直推](https://www.v2ex.com/t/671568) ![](assets/new.png)  
-- [2020-05-14-sublime-这个标题栏太恶心了](https://www.v2ex.com/t/671567) ![](assets/new.png)  
+- [2020-05-14-Mac-照片存-iCloud-还是占系统内存](https://www.v2ex.com/t/671604) ![](assets/new.png)  
+- [2020-05-14-新人..来宝地..问问..有没有港区-ICLOUD-或/和-AM-的车..?谢谢！](https://www.v2ex.com/t/671603) ![](assets/new.png)  
+- [2020-05-14-离高考完全自动化阅卷还有多远？](https://www.v2ex.com/t/671601) ![](assets/new.png)  
+- [2020-05-14-iPhone-app-store-无法下载-app，点击获取后就一直在转圈，-WiFi-数据都这样，有网有钱。](https://www.v2ex.com/t/671600) ![](assets/new.png)  
+- [2020-05-14-非招聘帖子,-给大家推荐个思路,-国内就业困难的,-可以出国发展](https://www.v2ex.com/t/671599) ![](assets/new.png)  
+- [2020-05-14-写程序很难吗](https://www.v2ex.com/t/671598) ![](assets/new.png)  
+- [2020-05-14-QQ-浏览器-win10-defender-报毒，允许了依然不可用](https://www.v2ex.com/t/671597) ![](assets/new.png)  
+- [2020-05-14-请问有用-azkaban-调度工具的大神么，请教现在-azkaban-flow2-的配置方法…官方文档现在看着一脸懵逼](https://www.v2ex.com/t/671594) ![](assets/new.png)  
+- [2020-05-14-笔试挂在这道题上面了，求高效解题思路](https://www.v2ex.com/t/671593) ![](assets/new.png)  
+- [2020-05-14-再聊一下-evernote-和为知笔记](https://www.v2ex.com/t/671592) ![](assets/new.png)  
+- [2020-05-14-不玩游戏基本拿来看视频为主，安卓有什么屏幕好护眼的手机](https://www.v2ex.com/t/671590)  
+- [2020-05-14-写程序很难吗？](https://www.v2ex.com/t/671589)  
+- [2020-05-14-杭州相芯科技有了解的吗](https://www.v2ex.com/t/671588)  
+- [2020-05-14-SparkMEMO-Editor-v0.1.0,-一个简洁的开源跨平台-Markdown-编辑器](https://www.v2ex.com/t/671586)  
+- [2020-05-14-Google-Voice-问题](https://www.v2ex.com/t/671585)  
+- [2020-05-14-mbp-16inch-触摸板太大经常误触怎么破](https://www.v2ex.com/t/671584)  
+- [2020-05-14-三星-Note9-与米-10Pro-拍照对比](https://www.v2ex.com/t/671583)  
+- [2020-05-14-PHP-curl-超时问题探讨-Operation-timed-out-after-1001-milliseconds-with-0-out-of--1-bytes-received](https://www.v2ex.com/t/671582)  
+- [2020-05-14-mbp-有没有好用的鼠标](https://www.v2ex.com/t/671580)  
+- [2020-05-14-BT-反吸血的实现的设想](https://www.v2ex.com/t/671579)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,9 +1109,9 @@
 </summary>
 
 
-- [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4) ![](assets/new.png)  
-- [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj) ![](assets/new.png)  
-- [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa) ![](assets/new.png)  
+- [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4)  
+- [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj)  
+- [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa)  
 - [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl)  
 - [2020-05-14-成人网站泄露-108-亿数据后，一个-Elasticsearch-爱好者的思考](https://toutiao.io/k/ow13amu)  
 - [2020-05-14-在小目标检测上另辟蹊径的-SNIP](https://toutiao.io/k/n8jq5wx)  

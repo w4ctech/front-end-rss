@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-14 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -112,6 +112,7 @@
 
 
 - [【前端开发】7-天内我面试了-10-家公司，发现-TypeScript-为什么这么吃香](https://www.ershicimi.com/p/9e8a4ad92ab0676e564c6379837d7938)
+- [【全栈前端精选】TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c)
 - [【全栈前端精选】【万字长文】深入理解-Typescript-高级用法](https://www.ershicimi.com/p/b388ae9f0394ef6fdc78a667e795f3c2)
 - [【程序员成长指北】未来可期的TypeScript](https://www.ershicimi.com/p/2a1d70522d7bf044ff46b5799a796ea6)
 - [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)

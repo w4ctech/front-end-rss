@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-15 00:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1) 
@@ -545,6 +547,14 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830) 
+- [【V2EX】2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829) 
+- [【V2EX】2020-05-14-静息指尖氧饱和度只有-95%，是不是该去医院测新冠了？](https://www.v2ex.com/t/671828) 
+- [【V2EX】2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827) 
+- [【V2EX】2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826) 
+- [【V2EX】2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825) 
+- [【V2EX】2020-05-14-配置英文键盘的国行-mbp-和其他地区有区别吗](https://www.v2ex.com/t/671824) 
+- [【V2EX】2020-05-14-u-安装完-laravel7-后，访问网站出现权限错误](https://www.v2ex.com/t/671823) 
 - [【V2EX】2020-05-14-分别在腾讯云、阿里云开了-2-台配置一样-2U4G-的机器，跑一样的应用，可以感知的腾讯云性能好，是错觉？还是常识？](https://www.v2ex.com/t/671822) 
 - [【V2EX】2020-05-14-公司电脑安装了监控软件，最近因为想要开我没有理由，所以开始想通过这个软件想抓我小辫子~~~](https://www.v2ex.com/t/671821) 
 - [【V2EX】2020-05-14-2020，我真是难上加难](https://www.v2ex.com/t/671820) 

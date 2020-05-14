@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 00:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1) 
+- [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1) 
 - [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1) 
 - [2020-05-14-​法国药企称新冠疫苗将首供美国？-法官员称“不可接受”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrNVJXQZOVh40iza5fbJ200514&isfromapp=1) 
 - [2020-05-14-疫情之下-美国老年人成“牺牲品”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOc2ahbg5LpK3QVsuCi2B200514&isfromapp=1) 
@@ -737,6 +739,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830) 
+- [2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829) 
+- [2020-05-14-静息指尖氧饱和度只有-95%，是不是该去医院测新冠了？](https://www.v2ex.com/t/671828) 
+- [2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827) 
+- [2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826) 
+- [2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825) 
+- [2020-05-14-配置英文键盘的国行-mbp-和其他地区有区别吗](https://www.v2ex.com/t/671824) 
+- [2020-05-14-u-安装完-laravel7-后，访问网站出现权限错误](https://www.v2ex.com/t/671823) 
 - [2020-05-14-公司电脑安装了监控软件，最近因为想要开我没有理由，所以开始想通过这个软件想抓我小辫子~~~](https://www.v2ex.com/t/671821) 
 - [2020-05-14-2020，我真是难上加难](https://www.v2ex.com/t/671820) 
 - [2020-05-14-出售内存条，固态硬盘](https://www.v2ex.com/t/671819) 

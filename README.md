@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 23:30:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 00:00:22，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1) ![](assets/new.png)  
 - [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1)  
 - [2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1)  
 - [2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1)  
 - [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1)  
 - [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
-- [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1)  
-- [2020-05-13-伊拉克新增119例新冠肺炎确诊病例，单日确诊数首次超过100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigbvESYxgX0vmItNW83Lm200513&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-05-14-分别在腾讯云、阿里云开了-2-台配置一样-2U4G-的机器，跑一样的应用，可以感知的腾讯云性能好，是错觉？还是常识？](https://www.v2ex.com/t/671822) ![](assets/new.png)  
-- [2020-05-14-公司电脑安装了监控软件，最近因为想要开我没有理由，所以开始想通过这个软件想抓我小辫子~~~](https://www.v2ex.com/t/671821) ![](assets/new.png)  
-- [2020-05-14-2020，我真是难上加难](https://www.v2ex.com/t/671820) ![](assets/new.png)  
-- [2020-05-14-出售内存条，固态硬盘](https://www.v2ex.com/t/671819) ![](assets/new.png)  
-- [2020-05-14-epicgames-挂了](https://www.v2ex.com/t/671818) ![](assets/new.png)  
-- [2020-05-14-企业微信会自动给客户发消息吗？](https://www.v2ex.com/t/671817) ![](assets/new.png)  
-- [2020-05-14-成都美团外卖成都研发中心大量招聘-Java-开发工程师，机会多多](https://www.v2ex.com/t/671816) ![](assets/new.png)  
-- [2020-05-14-大家怎么看华为-L20-首席安全专家在-GitHub-上发布的-Linux-内核带有很容易被利用的漏洞？-目前华为也表达说这个员工个人行为，不代表公司](https://www.v2ex.com/t/671815) ![](assets/new.png)  
-- [2020-05-14-Deno-正式发布，彻底弄明白和-node-的区别](https://www.v2ex.com/t/671814) ![](assets/new.png)  
-- [2020-05-14-为什么开启代理后会破坏-Firefox-的-ESNI-状态？](https://www.v2ex.com/t/671813) ![](assets/new.png)  
-- [2020-05-14-Omni-Focus-iOS-终于支持了自动化](https://www.v2ex.com/t/671812) ![](assets/new.png)  
-- [2020-05-14-吾爱上发现了一个很好玩的人工智能写作工具，-SmartNovel](https://www.v2ex.com/t/671811) ![](assets/new.png)  
-- [2020-05-14-这个网站有大佬帮忙压测下吗，香港腾讯云的](https://www.v2ex.com/t/671810)  
-- [2020-05-14-有没有离线保存整个网页的方法？-Httrack-不错但是下载速度是-20KB/s-太慢了啊。](https://www.v2ex.com/t/671809)  
-- [2020-05-14-抓了超级课表的注册发现有个参数是加密的……大佬帮忙看下？](https://www.v2ex.com/t/671808)  
-- [2020-05-14-iOS「文件」app-占用-20-多-G，这是为什么](https://www.v2ex.com/t/671806)  
-- [2020-05-14-小伙伴们整的网站，请大家赐教](https://www.v2ex.com/t/671804)  
-- [2020-05-14-一个规划的问题想请教大家，谢谢啦](https://www.v2ex.com/t/671803)  
-- [2020-05-14-求一个可以用-OneDrive-的-ios-markdown-软件](https://www.v2ex.com/t/671802)  
-- [2020-05-14-Uptoc-升级了，支持-oss,cos,qiniu.-还支持-GitHub-Actions](https://www.v2ex.com/t/671801)  
+- [2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830) ![](assets/new.png)  
+- [2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829) ![](assets/new.png)  
+- [2020-05-14-静息指尖氧饱和度只有-95%，是不是该去医院测新冠了？](https://www.v2ex.com/t/671828) ![](assets/new.png)  
+- [2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827) ![](assets/new.png)  
+- [2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826) ![](assets/new.png)  
+- [2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825) ![](assets/new.png)  
+- [2020-05-14-配置英文键盘的国行-mbp-和其他地区有区别吗](https://www.v2ex.com/t/671824) ![](assets/new.png)  
+- [2020-05-14-u-安装完-laravel7-后，访问网站出现权限错误](https://www.v2ex.com/t/671823) ![](assets/new.png)  
+- [2020-05-14-分别在腾讯云、阿里云开了-2-台配置一样-2U4G-的机器，跑一样的应用，可以感知的腾讯云性能好，是错觉？还是常识？](https://www.v2ex.com/t/671822)  
+- [2020-05-14-公司电脑安装了监控软件，最近因为想要开我没有理由，所以开始想通过这个软件想抓我小辫子~~~](https://www.v2ex.com/t/671821)  
+- [2020-05-14-2020，我真是难上加难](https://www.v2ex.com/t/671820)  
+- [2020-05-14-出售内存条，固态硬盘](https://www.v2ex.com/t/671819)  
+- [2020-05-14-epicgames-挂了](https://www.v2ex.com/t/671818)  
+- [2020-05-14-企业微信会自动给客户发消息吗？](https://www.v2ex.com/t/671817)  
+- [2020-05-14-成都美团外卖成都研发中心大量招聘-Java-开发工程师，机会多多](https://www.v2ex.com/t/671816)  
+- [2020-05-14-大家怎么看华为-L20-首席安全专家在-GitHub-上发布的-Linux-内核带有很容易被利用的漏洞？-目前华为也表达说这个员工个人行为，不代表公司](https://www.v2ex.com/t/671815)  
+- [2020-05-14-Deno-正式发布，彻底弄明白和-node-的区别](https://www.v2ex.com/t/671814)  
+- [2020-05-14-为什么开启代理后会破坏-Firefox-的-ESNI-状态？](https://www.v2ex.com/t/671813)  
+- [2020-05-14-Omni-Focus-iOS-终于支持了自动化](https://www.v2ex.com/t/671812)  
+- [2020-05-14-吾爱上发现了一个很好玩的人工智能写作工具，-SmartNovel](https://www.v2ex.com/t/671811)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

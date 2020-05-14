@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 17:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-疫情之下-美国老年人成“牺牲品”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOc2ahbg5LpK3QVsuCi2B200514&isfromapp=1) 
 - [2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1) 
 - [2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1) 
 - [2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1) 
@@ -725,6 +726,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-14-简历中一段工作经历多写了一个月，对背调有影响吗？](https://www.v2ex.com/t/671691) 
+- [2020-05-14-成都地区寻-2-名-Java](https://www.v2ex.com/t/671690) 
+- [2020-05-14-有安卓的大佬吗？-content://路径如何转换成可访问-file://路径？](https://www.v2ex.com/t/671689) 
+- [2020-05-14-想明白了，-MBP16-适合这三类人。。。](https://www.v2ex.com/t/671688) 
+- [2020-05-14-请问网盘直链下载助手挂了吗](https://www.v2ex.com/t/671687) 
+- [2020-05-14-佛山地区寻两名-2-3-年的-Java](https://www.v2ex.com/t/671685) 
+- [2020-05-14-上海-比心陪练移动端-Android-/-iOS-内推](https://www.v2ex.com/t/671684) 
+- [2020-05-14-分享自己写的-typecho-主题——WINDS](https://www.v2ex.com/t/671681) 
 - [2020-05-14-找了一个月,要入职了....然而去了以后就我一个后端](https://www.v2ex.com/t/671680) 
 - [2020-05-14-减肥中...](https://www.v2ex.com/t/671679) 
 - [2020-05-14-急招!-蚂蚁金服-诚招-Java-/大数据方向技术专家/架构师，-P7P8，上海](https://www.v2ex.com/t/671678) 

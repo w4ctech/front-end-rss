@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 17:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-疫情之下-美国老年人成“牺牲品”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOc2ahbg5LpK3QVsuCi2B200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1) 
@@ -527,6 +528,17 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-简历中一段工作经历多写了一个月，对背调有影响吗？](https://www.v2ex.com/t/671691) 
+- [【V2EX】2020-05-14-成都地区寻-2-名-Java](https://www.v2ex.com/t/671690) 
+- [【V2EX】2020-05-14-有安卓的大佬吗？-content://路径如何转换成可访问-file://路径？](https://www.v2ex.com/t/671689) 
+- [【V2EX】2020-05-14-想明白了，-MBP16-适合这三类人。。。](https://www.v2ex.com/t/671688) 
+- [【V2EX】2020-05-14-请问网盘直链下载助手挂了吗](https://www.v2ex.com/t/671687) 
+- [【V2EX】2020-05-14-macOS-为什么无法控制显示器输出的音频音量？](https://www.v2ex.com/t/671686) 
+- [【V2EX】2020-05-14-佛山地区寻两名-2-3-年的-Java](https://www.v2ex.com/t/671685) 
+- [【V2EX】2020-05-14-上海-比心陪练移动端-Android-/-iOS-内推](https://www.v2ex.com/t/671684) 
+- [【V2EX】2020-05-14-🔥新加坡-🔥技术移民机会🔥中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-开发工程师），平台开发工程师，数据开发工程师，-DevOps...](https://www.v2ex.com/t/671683) 
+- [【V2EX】2020-05-14-逼死强迫症。找到所有的蓝牙机械键盘，都只能适配-Mac-左侧的-Command，空格右侧-Command-的不行。](https://www.v2ex.com/t/671682) 
+- [【V2EX】2020-05-14-分享自己写的-typecho-主题——WINDS](https://www.v2ex.com/t/671681) 
 - [【V2EX】2020-05-14-找了一个月,要入职了....然而去了以后就我一个后端](https://www.v2ex.com/t/671680) 
 - [【V2EX】2020-05-14-减肥中...](https://www.v2ex.com/t/671679) 
 - [【V2EX】2020-05-14-急招!-蚂蚁金服-诚招-Java-/大数据方向技术专家/架构师，-P7P8，上海](https://www.v2ex.com/t/671678) 

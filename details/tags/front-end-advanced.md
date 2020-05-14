@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -27,6 +27,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
+- [2020-05-14-求职数据/算法相关,-求指点,-上海](https://www.v2ex.com/t/671733) 
 - [2020-05-14-一个旅行家问题算法题的变种题，各位算法大佬来提供个思路](https://www.v2ex.com/t/671649) 
 - [2020-05-14-拉个群一起推荐-podcast-吧](https://www.v2ex.com/t/671538) 
 - [2020-05-14-Windows-10-现已支持系统级-DOH（DNS-over-HTTPS）](https://www.v2ex.com/t/671525) 

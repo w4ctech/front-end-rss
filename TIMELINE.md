@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -173,6 +173,8 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-国际护士节丨援鄂医疗队队员中护士占比接近70%-其中90后占40%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIJpzouOTZQnsfUhYbYrt200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-12-​墨西哥新增新冠肺炎确诊病例1305例-累计36327例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vtroBqbR9Oi6eo64pCD200512&isfromapp=1) 
+- [【Vue中文社区】2020-05-14-「-如何优雅的使用VUE?-」不可不知的VUE实战技巧](https://www.ershicimi.com/p/535fc7486923a654affb406d326a7268) 
+- [【Vue中文社区】2020-05-14-微信群突然冒出“免费教画画”的女大学生，小心有诈！](https://www.ershicimi.com/p/6d4428777a01a1ff1811321470359288) 
 - [【Vue中文社区】2020-05-13-我有一招，让你不再越努力越迷茫](https://www.ershicimi.com/p/7e615e1c9386efd73c77d64619ff8652) 
 - [【Vue中文社区】2020-05-13-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/ef71cff79e5301f436929382ad72e2a2) 
 - [【Vue中文社区】2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd) 

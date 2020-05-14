@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 23:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -445,6 +445,15 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447) 
+- [【InfoQ】2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a) 
+- [【InfoQ】2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d) 
+- [【InfoQ】2020-05-14-为什么我劝你不要当数据科学家？](https://www.ershicimi.com/p/96c788e3ee9c0f684e06dc736ae546d4) 
+- [【InfoQ】2020-05-13-美将启动出口管制新禁令！被华为钦点的中芯国际能否扛起国产化大旗？](https://www.ershicimi.com/p/16dc8390ee1be9248f6f29c53e1df1c3) 
+- [【InfoQ】2020-05-13-我在GitHub找Bug：如何轻松赚到10000美元](https://www.ershicimi.com/p/51e5e124b077f4013d5a15af40edbb45) 
+- [【InfoQ】2020-05-13-AI-诊断-CT-影像准确率达-96%，医疗AI落地还有哪些挑战与解决方案？|-AICon](https://www.ershicimi.com/p/e4b762930e1c1881082d5e12afe629cc) 
+- [【InfoQ】2020-05-13-快速掌握AI模型应用、工业部署与训练......深度学习开发者峰会干货内容抢鲜看！](https://www.ershicimi.com/p/45edc7ea4a484922ceb51868540967c3) 
+- [【InfoQ】2020-05-13-比特币减半完成，没看到价格上涨的你失望了吗？](https://www.ershicimi.com/p/cfed027ded52c528942415999a2f1038) 
 - [【InfoQ】2020-05-12-程序员如何学英语，才能无障碍阅读官方文档？丨极客时间](https://www.ershicimi.com/p/478daaf992f5ba25a2c5e17c50fd2960) 
 - [【InfoQ】2020-05-12-对开发者而言，新基建的意义是什么？旧基建怎么处理？](https://www.ershicimi.com/p/353d14eec45d9c50bdacf6ce6a5a9dcb) 
 - [【InfoQ】2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16) 

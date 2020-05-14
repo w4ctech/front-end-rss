@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 22:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 23:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -841,6 +841,15 @@
 </summary>
 
 
+- [2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447) ![](assets/new.png)  
+- [2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a) ![](assets/new.png)  
+- [2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d) ![](assets/new.png)  
+- [2020-05-14-为什么我劝你不要当数据科学家？](https://www.ershicimi.com/p/96c788e3ee9c0f684e06dc736ae546d4) ![](assets/new.png)  
+- [2020-05-13-美将启动出口管制新禁令！被华为钦点的中芯国际能否扛起国产化大旗？](https://www.ershicimi.com/p/16dc8390ee1be9248f6f29c53e1df1c3) ![](assets/new.png)  
+- [2020-05-13-我在GitHub找Bug：如何轻松赚到10000美元](https://www.ershicimi.com/p/51e5e124b077f4013d5a15af40edbb45) ![](assets/new.png)  
+- [2020-05-13-AI-诊断-CT-影像准确率达-96%，医疗AI落地还有哪些挑战与解决方案？|-AICon](https://www.ershicimi.com/p/e4b762930e1c1881082d5e12afe629cc) ![](assets/new.png)  
+- [2020-05-13-快速掌握AI模型应用、工业部署与训练......深度学习开发者峰会干货内容抢鲜看！](https://www.ershicimi.com/p/45edc7ea4a484922ceb51868540967c3) ![](assets/new.png)  
+- [2020-05-13-比特币减半完成，没看到价格上涨的你失望了吗？](https://www.ershicimi.com/p/cfed027ded52c528942415999a2f1038) ![](assets/new.png)  
 - [2020-05-12-程序员如何学英语，才能无障碍阅读官方文档？丨极客时间](https://www.ershicimi.com/p/478daaf992f5ba25a2c5e17c50fd2960)  
 - [2020-05-12-对开发者而言，新基建的意义是什么？旧基建怎么处理？](https://www.ershicimi.com/p/353d14eec45d9c50bdacf6ce6a5a9dcb)  
 - [2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16)  
@@ -852,15 +861,6 @@
 - [2020-05-10-马云称年轻人怕压力就白活了；腾讯回应“华为手机提示拦截-QQ-删除照片”；Stack-Overflo](https://www.ershicimi.com/p/891a4d5cd372bf00e4e881b909064962)  
 - [2020-05-10-技术人必读书籍，InfoQ-免费送！](https://www.ershicimi.com/p/055874a72b844f0479209d4dfef5ea58)  
 - [2020-05-09-成人网站泄露-108-亿数据，内含-50-万中国用户](https://www.ershicimi.com/p/c24e45838912c22bbfac48d584be0b55)  
-- [2020-05-09-Deno-1.0-即将发布，你需要知道的都在这里了](https://www.ershicimi.com/p/72db2e3843177ab2738147e32f239fb2)  
-- [2020-05-09-没想到竟然会有平台架构无法支撑我所写的代码的一天！丨Q推荐](https://www.ershicimi.com/p/39d4650e0368eb13448f9d0cda996a0f)  
-- [2020-05-09-雷军再下一城，金山云纳斯达克敲钟上市](https://www.ershicimi.com/p/4ff9d19cd3c66a286730b81fd8c2f93f)  
-- [2020-05-09-为何我们用-Go-而非-Python-来部署机器学习模型？](https://www.ershicimi.com/p/0229f14334c1fe9ff4772a4a0f760e04)  
-- [2020-05-08-Apache-Kafka-迎来了“后浪”](https://www.ershicimi.com/p/503039e2cbf20b1187322459e046e642)  
-- [2020-05-08-美国允许企业跟华为合作-5G](https://www.ershicimi.com/p/d6e949d3e2128e757962848c3c24f787)  
-- [2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)  
-- [2020-05-08-架构师训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/f4a148996b7b712efd37266383fadb33)  
-- [2020-05-08-Netflix-如何在网络不好时提供更安全、更流畅的流媒体体验？](https://www.ershicimi.com/p/9ee1f7ddf3581ec822457e5f2e341ab7)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,13 +1047,13 @@
 </summary>
 
 
-- [2020-05-14-这个网站有大佬帮忙压测下吗，香港腾讯云的](https://www.v2ex.com/t/671810) ![](assets/new.png)  
-- [2020-05-14-有没有离线保存整个网页的方法？-Httrack-不错但是下载速度是-20KB/s-太慢了啊。](https://www.v2ex.com/t/671809) ![](assets/new.png)  
-- [2020-05-14-抓了超级课表的注册发现有个参数是加密的……大佬帮忙看下？](https://www.v2ex.com/t/671808) ![](assets/new.png)  
-- [2020-05-14-iOS「文件」app-占用-20-多-G，这是为什么](https://www.v2ex.com/t/671806) ![](assets/new.png)  
-- [2020-05-14-小伙伴们整的网站，请大家赐教](https://www.v2ex.com/t/671804) ![](assets/new.png)  
-- [2020-05-14-一个规划的问题想请教大家，谢谢啦](https://www.v2ex.com/t/671803) ![](assets/new.png)  
-- [2020-05-14-求一个可以用-OneDrive-的-ios-markdown-软件](https://www.v2ex.com/t/671802) ![](assets/new.png)  
+- [2020-05-14-这个网站有大佬帮忙压测下吗，香港腾讯云的](https://www.v2ex.com/t/671810)  
+- [2020-05-14-有没有离线保存整个网页的方法？-Httrack-不错但是下载速度是-20KB/s-太慢了啊。](https://www.v2ex.com/t/671809)  
+- [2020-05-14-抓了超级课表的注册发现有个参数是加密的……大佬帮忙看下？](https://www.v2ex.com/t/671808)  
+- [2020-05-14-iOS「文件」app-占用-20-多-G，这是为什么](https://www.v2ex.com/t/671806)  
+- [2020-05-14-小伙伴们整的网站，请大家赐教](https://www.v2ex.com/t/671804)  
+- [2020-05-14-一个规划的问题想请教大家，谢谢啦](https://www.v2ex.com/t/671803)  
+- [2020-05-14-求一个可以用-OneDrive-的-ios-markdown-软件](https://www.v2ex.com/t/671802)  
 - [2020-05-14-Uptoc-升级了，支持-oss,cos,qiniu.-还支持-GitHub-Actions](https://www.v2ex.com/t/671801)  
 - [2020-05-14-最近几天抽空在学习-Flutter，收集了一些资料教程，放在语雀,分享给大家-。](https://www.v2ex.com/t/671800)  
 - [2020-05-14-想问下大家-mbp-的内存使用情况](https://www.v2ex.com/t/671799)  

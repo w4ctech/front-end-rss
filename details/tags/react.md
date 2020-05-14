@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -48,6 +48,7 @@
 - [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee) 
 - [2020-04-24-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-24-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-05-14-react-native-easy-app-详解与使用之（二）fetch](https://www.v2ex.com/t/671561) 
 - [2020-05-13-说说-React-和-Vue](https://www.v2ex.com/t/671316) 
 - [2020-05-13-假如-Vue-是-facebook-开发维护，-React-是尤大个人维护，那评价会翻过来吗？](https://www.v2ex.com/t/671295) 
 - [2020-05-12-React-Native-一站式解决方案（一）AsyncStorage](https://www.v2ex.com/t/670971) 
@@ -79,6 +80,7 @@
 - [2020-04-26-滴滴北京-大前端-React-+-Node-招聘](https://www.v2ex.com/t/666232) 
 - [2020-04-24-react+github-pages-搭建的个人首页](https://www.v2ex.com/t/665805) 
 - [2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517) 
+- [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa) 
 - [2020-05-13-译-Next.js-和-Nuxt.js-的语法比较，Vue-和-React-的两大-SSR-解决方案](https://toutiao.io/k/s9cx24y) 
 - [2020-05-12-pc-pcm-wave-一个简单录音波纹-Preact-组件](https://toutiao.io/k/9yf2mch) 
 - [2020-05-10-译-React.js-和-Vue.js-的语法并列比较](https://toutiao.io/k/b3uc1nr) 

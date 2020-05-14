@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,8 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-14-PHP-curl-超时问题探讨-Operation-timed-out-after-1001-milliseconds-with-0-out-of--1-bytes-received](https://www.v2ex.com/t/671582) 
+- [2020-05-14-Chrome-突然出问题了，每次关掉之后所有设置都还原了](https://www.v2ex.com/t/671554) 
 - [2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458) 
 - [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444) 
 - [2020-05-14-chrome-怎么删除编辑框的下拉记录？](https://www.v2ex.com/t/671438) 

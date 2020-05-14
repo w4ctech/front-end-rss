@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 13:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 14:00:21，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-05-14-求上-ns-会员车](https://www.v2ex.com/t/671551)  
-- [2020-05-14-Airpods-Pro-走路-坐车-震动有异响的-赶紧去-AppleStore-直营门店-更换](https://www.v2ex.com/t/671550)  
-- [2020-05-14-来吐槽一下-Apple-Music](https://www.v2ex.com/t/671549)  
-- [2020-05-14-前端批量高亮页面上某些关键字-有什么好的插件吗？](https://www.v2ex.com/t/671548)  
-- [2020-05-14-DJI（大疆创新）无疆者（大佬）（校招）项目内推](https://www.v2ex.com/t/671547)  
-- [2020-05-14-gormt-稳定版发布了mysql-数据库转换工具](https://www.v2ex.com/t/671546)  
-- [2020-05-14-什么是线程池预热？](https://www.v2ex.com/t/671545)  
-- [2020-05-14-各位在用-LaTeX-写-paper-的时候有什么痛楚吗](https://www.v2ex.com/t/671542)  
-- [2020-05-14-想问下大神们前端到底咋转](https://www.v2ex.com/t/671541)  
-- [2020-05-14-提问提问~-app-开发换微信-appid-的问题](https://www.v2ex.com/t/671540)  
-- [2020-05-14-社交类-app-后台用-Java-搭需要会什么-即时通讯用什么技术](https://www.v2ex.com/t/671539)  
-- [2020-05-14-拉个群一起推荐-podcast-吧](https://www.v2ex.com/t/671538)  
-- [2020-05-14-node-EventEmitter](https://www.v2ex.com/t/671537)  
-- [2020-05-14-不会还有人没有-GTA5-吧](https://www.v2ex.com/t/671536)  
-- [2020-05-14-这是要变相裁我吗，求分析，感谢！](https://www.v2ex.com/t/671535)  
-- [2020-05-14-北京天通苑北三区短租到-7-月-5-日](https://www.v2ex.com/t/671534)  
-- [2020-05-14-在自学的不归路上重整旗鼓，尝试建个了以提高效率为宗旨的团队](https://www.v2ex.com/t/671533)  
-- [2020-05-14-给他爱-5-免费送了！-epic-牛牪犇！](https://www.v2ex.com/t/671532)  
-- [2020-05-14-杭州我想做-Python-测试，请问这种简历会有公司要吗？](https://www.v2ex.com/t/671531)  
-- [2020-05-14-每天早晨-mysql-8.0-被关闭一次，不知道为啥](https://www.v2ex.com/t/671530)  
+- [2020-05-14-不玩游戏基本拿来看视频为主，安卓有什么屏幕好护眼的手机](https://www.v2ex.com/t/671590) ![](assets/new.png)  
+- [2020-05-14-写程序很难吗？](https://www.v2ex.com/t/671589) ![](assets/new.png)  
+- [2020-05-14-杭州相芯科技有了解的吗](https://www.v2ex.com/t/671588) ![](assets/new.png)  
+- [2020-05-14-SparkMEMO-Editor-v0.1.0,-一个简洁的开源跨平台-Markdown-编辑器](https://www.v2ex.com/t/671586) ![](assets/new.png)  
+- [2020-05-14-Google-Voice-问题](https://www.v2ex.com/t/671585) ![](assets/new.png)  
+- [2020-05-14-mbp-16inch-触摸板太大经常误触怎么破](https://www.v2ex.com/t/671584) ![](assets/new.png)  
+- [2020-05-14-三星-Note9-与米-10Pro-拍照对比](https://www.v2ex.com/t/671583) ![](assets/new.png)  
+- [2020-05-14-PHP-curl-超时问题探讨-Operation-timed-out-after-1001-milliseconds-with-0-out-of--1-bytes-received](https://www.v2ex.com/t/671582) ![](assets/new.png)  
+- [2020-05-14-mbp-有没有好用的鼠标](https://www.v2ex.com/t/671580) ![](assets/new.png)  
+- [2020-05-14-BT-反吸血的实现的设想](https://www.v2ex.com/t/671579) ![](assets/new.png)  
+- [2020-05-14-底层程序员的开发效率受上级影响，如何改变？](https://www.v2ex.com/t/671578) ![](assets/new.png)  
+- [2020-05-14-python2-的真要落幕了](https://www.v2ex.com/t/671577) ![](assets/new.png)  
+- [2020-05-14-关于中软国际的华为车联网外包，请有经验的大佬给些建议，拜托了！](https://www.v2ex.com/t/671576) ![](assets/new.png)  
+- [2020-05-14-好像买不到动物之森的卡带了](https://www.v2ex.com/t/671574) ![](assets/new.png)  
+- [2020-05-14-平安车险送了一次免费上门保养，还是被收了点智商税](https://www.v2ex.com/t/671573) ![](assets/new.png)  
+- [2020-05-14-刚才去吃午饭路上捡到-50-块钱…](https://www.v2ex.com/t/671571) ![](assets/new.png)  
+- [2020-05-14-macOS-突然就无法加载-nas-的-smb-共享根目录了](https://www.v2ex.com/t/671570) ![](assets/new.png)  
+- [2020-05-14-有人测试过使用一台-SSD-服务器把-GDRIVE-挂载起来-然后使用-SSH-或者-FTP-备份](https://www.v2ex.com/t/671569) ![](assets/new.png)  
+- [2020-05-14-视频面试-可远程-北美高科技创新公司-Jerry-Ai-软件工程师岗位直推](https://www.v2ex.com/t/671568) ![](assets/new.png)  
+- [2020-05-14-sublime-这个标题栏太恶心了](https://www.v2ex.com/t/671567) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,10 +1107,13 @@
 </summary>
 
 
-- [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl) ![](assets/new.png)  
-- [2020-05-14-成人网站泄露-108-亿数据后，一个-Elasticsearch-爱好者的思考](https://toutiao.io/k/ow13amu) ![](assets/new.png)  
-- [2020-05-14-在小目标检测上另辟蹊径的-SNIP](https://toutiao.io/k/n8jq5wx) ![](assets/new.png)  
-- [2020-05-14-译-内核中进行更积极地内存整理-compaction](https://toutiao.io/k/8kqgjff) ![](assets/new.png)  
+- [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4) ![](assets/new.png)  
+- [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj) ![](assets/new.png)  
+- [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa) ![](assets/new.png)  
+- [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl)  
+- [2020-05-14-成人网站泄露-108-亿数据后，一个-Elasticsearch-爱好者的思考](https://toutiao.io/k/ow13amu)  
+- [2020-05-14-在小目标检测上另辟蹊径的-SNIP](https://toutiao.io/k/n8jq5wx)  
+- [2020-05-14-译-内核中进行更积极地内存整理-compaction](https://toutiao.io/k/8kqgjff)  
 - [2020-05-14-Flutter-Web-网站之最简方式实现暗黑主题无缝切换](https://toutiao.io/k/9itvjb2)  
 - [2020-05-14-JavaScript-ES-2020-必知必会新特性](https://toutiao.io/k/3iifvy6)  
 - [2020-05-14-如何巧妙回答对用人单位的了解？（面试答题篇-Ⅱ）](https://toutiao.io/k/uiub0h0)  
@@ -1124,9 +1127,6 @@
 - [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu)  
 - [2020-05-14-用好-require、check、assert，写好-Kotlin-代码](https://toutiao.io/k/scncyn4)  
 - [2020-05-14-十分钟学会使用-Elasticsearch-优雅搭建自己的搜索系统（附源码）](https://toutiao.io/k/b4xv9j0)  
-- [2020-05-14-只需要-6-个步骤，Spring-Boot-集成-shiro，并完成登录](https://toutiao.io/k/qqpjwlg)  
-- [2020-05-14-国密-SSL-通信的调试技巧](https://toutiao.io/k/ld42w7j)  
-- [2020-05-14-当-Python-遇到微信](https://toutiao.io/k/k8f96f4)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

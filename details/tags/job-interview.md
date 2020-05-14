@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -41,6 +41,8 @@
 - [2020-04-27-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/2eb6a0b8eba8a6a272dff8fab4f146e0) 
 - [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-05-14-原创整理：92份面试题，累计3625页，肝的太累了](https://www.ershicimi.com/p/bf5114df8eda0d2c6c00399781977467) 
+- [2020-05-14-面试再问HashMap，求你把这篇文章发给他！](https://www.ershicimi.com/p/53cfc800c88e8ddac1d5c0a2a8aab8f2) 
 - [2020-05-12-面试官：你的缺点是什么？这样回答漂亮！](https://www.ershicimi.com/p/9b17a3631e7baaa22a1ce96bfc3a4865) 
 - [2020-05-08-阿里面试官必问21-个刁钻的HashMap-面试题，这次让你彻底搞懂](https://www.ershicimi.com/p/739e0b0b5c6d8308f4617f90ea18f169) 
 - [2020-05-05-5-个刁钻的-String-面试题！](https://www.ershicimi.com/p/2953707ff74de3dfcc2d959401f8d732) 

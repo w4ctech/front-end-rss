@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 00:00:22，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 01:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1) ![](assets/new.png)  
-- [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1)  
+- [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1)  
 - [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1)  
 - [2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1)  
 - [2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1)  
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830) ![](assets/new.png)  
-- [2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829) ![](assets/new.png)  
-- [2020-05-14-静息指尖氧饱和度只有-95%，是不是该去医院测新冠了？](https://www.v2ex.com/t/671828) ![](assets/new.png)  
-- [2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827) ![](assets/new.png)  
-- [2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826) ![](assets/new.png)  
-- [2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825) ![](assets/new.png)  
-- [2020-05-14-配置英文键盘的国行-mbp-和其他地区有区别吗](https://www.v2ex.com/t/671824) ![](assets/new.png)  
-- [2020-05-14-u-安装完-laravel7-后，访问网站出现权限错误](https://www.v2ex.com/t/671823) ![](assets/new.png)  
+- [2020-05-15-20200515-午夜俱乐部](https://www.v2ex.com/t/671838) ![](assets/new.png)  
+- [2020-05-15-mbp-一个键下面感觉被东西粘住了，有什么比较简单的解决方法吗](https://www.v2ex.com/t/671837) ![](assets/new.png)  
+- [2020-05-15-教同事转前端的可行性](https://www.v2ex.com/t/671835) ![](assets/new.png)  
+- [2020-05-15-北京现在买什么电动车好？](https://www.v2ex.com/t/671834) ![](assets/new.png)  
+- [2020-05-15-求问国内哪里有分享薪资待遇的网站啊？](https://www.v2ex.com/t/671833) ![](assets/new.png)  
+- [2020-05-15-在北京拥有共有产权房是一种什么体验？](https://www.v2ex.com/t/671832) ![](assets/new.png)  
+- [2020-05-15-公司裁员，是拿-n+1，离职原因写辞退，还是拿-n，离职原因写个人原因？](https://www.v2ex.com/t/671831) ![](assets/new.png)  
+- [2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830)  
+- [2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829)  
+- [2020-05-14-静息指尖氧饱和度只有-95%，是不是该去医院测新冠了？](https://www.v2ex.com/t/671828)  
+- [2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827)  
+- [2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826)  
+- [2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825)  
+- [2020-05-14-配置英文键盘的国行-mbp-和其他地区有区别吗](https://www.v2ex.com/t/671824)  
+- [2020-05-14-u-安装完-laravel7-后，访问网站出现权限错误](https://www.v2ex.com/t/671823)  
 - [2020-05-14-分别在腾讯云、阿里云开了-2-台配置一样-2U4G-的机器，跑一样的应用，可以感知的腾讯云性能好，是错觉？还是常识？](https://www.v2ex.com/t/671822)  
 - [2020-05-14-公司电脑安装了监控软件，最近因为想要开我没有理由，所以开始想通过这个软件想抓我小辫子~~~](https://www.v2ex.com/t/671821)  
 - [2020-05-14-2020，我真是难上加难](https://www.v2ex.com/t/671820)  
 - [2020-05-14-出售内存条，固态硬盘](https://www.v2ex.com/t/671819)  
 - [2020-05-14-epicgames-挂了](https://www.v2ex.com/t/671818)  
-- [2020-05-14-企业微信会自动给客户发消息吗？](https://www.v2ex.com/t/671817)  
-- [2020-05-14-成都美团外卖成都研发中心大量招聘-Java-开发工程师，机会多多](https://www.v2ex.com/t/671816)  
-- [2020-05-14-大家怎么看华为-L20-首席安全专家在-GitHub-上发布的-Linux-内核带有很容易被利用的漏洞？-目前华为也表达说这个员工个人行为，不代表公司](https://www.v2ex.com/t/671815)  
-- [2020-05-14-Deno-正式发布，彻底弄明白和-node-的区别](https://www.v2ex.com/t/671814)  
-- [2020-05-14-为什么开启代理后会破坏-Firefox-的-ESNI-状态？](https://www.v2ex.com/t/671813)  
-- [2020-05-14-Omni-Focus-iOS-终于支持了自动化](https://www.v2ex.com/t/671812)  
-- [2020-05-14-吾爱上发现了一个很好玩的人工智能写作工具，-SmartNovel](https://www.v2ex.com/t/671811)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

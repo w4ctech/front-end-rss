@@ -7467,6 +7467,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Laravel 框架能够正常地使用 PHP artisan migrate 进行迁移，但是利用 Eloquent 模型访问数据库时提示 connection refused",
+        "link": "https://www.v2ex.com/t/671848",
+        "date": "2020-05-15"
+      },
+      {
         "title": "有意思的更新: C++程序编译成 wasm 在文档中交互执行",
         "link": "https://www.v2ex.com/t/671847",
         "date": "2020-05-15"

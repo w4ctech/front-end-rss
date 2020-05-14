@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-15 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 07:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848) 
 - [2020-05-15-有意思的更新:-C++程序编译成-wasm-在文档中交互执行](https://www.v2ex.com/t/671847) 
 - [2020-05-15-开发了一个短视频去水印的接口分享给大家](https://www.v2ex.com/t/671846) 
 - [2020-05-15-有没有能联网校对时间并自动修改系统时间的小工具？某个手机刷的-ROM-每次重启之后时间都退回到我刷机的那天：-2019-年-12-月的某日，](https://www.v2ex.com/t/671844) 

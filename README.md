@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 06:30:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 07:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
+- [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -503,7 +503,7 @@
 </summary>
 
 
-- [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) ![](assets/new.png)  
+- [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab)  
 - [2020-04-12-如何设计实现-PC-站点搭建系统](https://www.ershicimi.com/p/b6a199fe08d99a922162157a6bab9e91)  
 - [2020-04-06-通俗易懂的红黑树图解下](https://www.ershicimi.com/p/c7e763eb98519b32583a79569081b4f1)  
 - [2020-03-29-五分钟看懂-Nginx-负载均衡](https://www.ershicimi.com/p/da2571b220d4f1556032767752107794)  
@@ -1048,6 +1048,7 @@
 </summary>
 
 
+- [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848) ![](assets/new.png)  
 - [2020-05-15-有意思的更新:-C++程序编译成-wasm-在文档中交互执行](https://www.v2ex.com/t/671847)  
 - [2020-05-15-开发了一个短视频去水印的接口分享给大家](https://www.v2ex.com/t/671846)  
 - [2020-05-15-有没有能联网校对时间并自动修改系统时间的小工具？某个手机刷的-ROM-每次重启之后时间都退回到我刷机的那天：-2019-年-12-月的某日，](https://www.v2ex.com/t/671844)  
@@ -1067,7 +1068,6 @@
 - [2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827)  
 - [2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826)  
 - [2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825)  
-- [2020-05-14-配置英文键盘的国行-mbp-和其他地区有区别吗](https://www.v2ex.com/t/671824)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 10:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,8 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-14-前后端分离的跨域介绍](https://www.ershicimi.com/p/8b090ed409cfcc15bb9c321957f68256) 
+- [【前端开发】2020-05-14-推荐几个程序员混职场必备的公众号](https://www.ershicimi.com/p/b30f8c996dff92e6d247abadb1680122) 
 - [【前端开发】2020-05-13-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/cb5b8710f0bb5a208c9a252d5491660e) 
 - [【前端开发】2020-05-13-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db) 
 - [【前端开发】2020-05-12-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/0e285fd75086b4c139fd1ffd61627657) 
@@ -327,6 +329,8 @@
 - [【前端瓶子君】2020-05-05-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/ea06851a50afb8c1076a2b6d9c096676) 
 - [【前端瓶子君】2020-05-04-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138) 
 - [【前端瓶子君】2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) 
+- [【程序员成长指北】2020-05-14-工作好几年了，这些前端用法你真的知道吗？](https://www.ershicimi.com/p/fc67000b82c4b63e188bd89c7d07e8a1) 
+- [【程序员成长指北】2020-05-14-移动-Web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/02579c3583636a63a276f637f514ec16) 
 - [【程序员成长指北】2020-05-13-手把手用-UDP-实现-Node-服务日志归集（附完整源码）](https://www.ershicimi.com/p/916d1592492eca55210267f8c0586116) 
 - [【程序员成长指北】2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/65f84355fe1890fbbac7ab5dfd5eaf2c) 
 - [【程序员成长指北】2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/fe3527ac2f52c31eb3477f9890c38285) 

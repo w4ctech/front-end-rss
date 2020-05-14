@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -261,6 +261,7 @@
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) 
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
+- [2020-05-14-推荐几个程序员混职场必备的公众号](https://www.ershicimi.com/p/b30f8c996dff92e6d247abadb1680122) 
 - [2020-05-11-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c) 
 - [2020-05-11-前端代码规范最佳实践](https://www.ershicimi.com/p/658d2b63982559560eb1f0bf94fc7632) 
 - [2020-05-08-Web前端开发必不可少的9个开源框架](https://www.ershicimi.com/p/3003ec186b9f71ecd7b4b74d16a82755) 
@@ -370,6 +371,8 @@
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad) 
+- [2020-05-14-工作好几年了，这些前端用法你真的知道吗？](https://www.ershicimi.com/p/fc67000b82c4b63e188bd89c7d07e8a1) 
+- [2020-05-14-移动-Web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/02579c3583636a63a276f637f514ec16) 
 - [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/65f84355fe1890fbbac7ab5dfd5eaf2c) 
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/fe3527ac2f52c31eb3477f9890c38285) 
 - [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556) 

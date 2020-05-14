@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -79,6 +79,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-14-一键生成-Go-语言的管理后台，基于-Vue.js-+iView4.0，代码生成器](https://www.v2ex.com/t/671621) 
 - [2020-05-14-spring-boot-+-spring-security-+-vue-动态权限如何实现](https://www.v2ex.com/t/671427) 
 - [2020-05-13-antd-vue-的-table，插入了超链接，比如-xx.com，跳转总是变成-localhost/xx.com，变成了二级](https://www.v2ex.com/t/671319) 
 - [2020-05-13-开源-上班摸鱼中，我-momomomomo~~基于-vue~手撸了一个杀毒软件~~~](https://www.v2ex.com/t/671240) 

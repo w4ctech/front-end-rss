@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 15:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1) 
 - [2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1) 
 - [2020-05-14-多重困境下-叙利亚储备生产抗疫药物羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1) 
 - [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1) 
@@ -721,6 +722,18 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-14-centos-中文支持问题](https://www.v2ex.com/t/671622) 
+- [2020-05-14-免疫网络暴力和-PUA-的终极认知补丁](https://www.v2ex.com/t/671620) 
+- [2020-05-14-是不是除了去大公司就只能是外包？](https://www.v2ex.com/t/671618) 
+- [2020-05-14-请教一下，-ubuntu-desktop-系统下如何查看所使用的-smb-版本？](https://www.v2ex.com/t/671617) 
+- [2020-05-14-内推成都-Java-开发工程师（大数据方向）](https://www.v2ex.com/t/671616) 
+- [2020-05-14-阿里内推阿里北京有一波前端-HC，来不及解释了，快上车](https://www.v2ex.com/t/671615) 
+- [2020-05-14-VScode/IDE-如何快速找到未被占用的快捷键？](https://www.v2ex.com/t/671614) 
+- [2020-05-14-米拓企业建站系统-V7.1.0-正式发布，坚持开源-11-年了，可免费用于商业网站，求支持！](https://www.v2ex.com/t/671610) 
+- [2020-05-14-关于中午突然手背部有点疼有感，关于如何用鼠标更健康的问题](https://www.v2ex.com/t/671608) 
+- [2020-05-14-为什么我周围的亲戚都不给我介绍相亲，都-27-岁了](https://www.v2ex.com/t/671607) 
+- [2020-05-14-Java-方法句柄的疑问](https://www.v2ex.com/t/671606) 
+- [2020-05-14-哪里有免费可以白嫖的-app-图标和-app-启动页](https://www.v2ex.com/t/671605) 
 - [2020-05-14-Mac-照片存-iCloud-还是占系统内存](https://www.v2ex.com/t/671604) 
 - [2020-05-14-新人..来宝地..问问..有没有港区-ICLOUD-或/和-AM-的车..?谢谢！](https://www.v2ex.com/t/671603) 
 - [2020-05-14-离高考完全自动化阅卷还有多远？](https://www.v2ex.com/t/671601) 

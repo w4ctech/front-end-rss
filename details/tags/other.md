@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 21:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1) 
 - [2020-05-14-​法国药企称新冠疫苗将首供美国？-法官员称“不可接受”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrNVJXQZOVh40iza5fbJ200514&isfromapp=1) 
 - [2020-05-14-疫情之下-美国老年人成“牺牲品”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOc2ahbg5LpK3QVsuCi2B200514&isfromapp=1) 
 - [2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1) 

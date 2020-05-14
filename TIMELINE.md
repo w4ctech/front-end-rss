@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 21:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-​伊朗新增新冠肺炎确诊病例1808例-累计确诊114533例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitdIufHrPfdcwbQNEXaBV200514&isfromapp=1) 
@@ -375,6 +376,7 @@
 - [【阮一峰的网络日志】2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) 
 - [【奇舞周刊】2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d) 
 - [【奇舞周刊】2020-05-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bdd89b335b89417c9395b7b80c2f5452) 
 - [【奇舞周刊】2020-05-12-最后一天，立省52元！你的青春必须有奇舞团的前端课](https://www.ershicimi.com/p/4a588ca2ef0a81646d5520a316d7abde) 

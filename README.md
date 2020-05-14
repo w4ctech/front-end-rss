@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 20:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 21:00:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-俄文化部部长战胜新冠肺炎-病愈后恢复工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1)  
 - [2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1)  
 - [2020-05-14-​伊朗新增新冠肺炎确诊病例1808例-累计确诊114533例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitdIufHrPfdcwbQNEXaBV200514&isfromapp=1)  
 - [2020-05-14-​法国药企称新冠疫苗将首供美国？-法官员称“不可接受”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrNVJXQZOVh40iza5fbJ200514&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
 - [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1)  
 - [2020-05-13-伊拉克新增119例新冠肺炎确诊病例，单日确诊数首次超过100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigbvESYxgX0vmItNW83Lm200513&isfromapp=1)  
-- [2020-05-13-法国劳工部：鼓励复工复产-“部分失业”补贴将逐步缩减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMJiWH1YtbREtw5WGN3gz200513&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -732,6 +732,7 @@
 </summary>
 
 
+- [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) ![](assets/new.png)  
 - [2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d)  
 - [2020-05-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bdd89b335b89417c9395b7b80c2f5452)  
 - [2020-05-12-最后一天，立省52元！你的青春必须有奇舞团的前端课](https://www.ershicimi.com/p/4a588ca2ef0a81646d5520a316d7abde)  
@@ -751,7 +752,6 @@
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)  
 - [2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268)  
 - [2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95)  
-- [2020-04-30-这个春天，我投了300份简历至今-零-offer](https://www.ershicimi.com/p/6fb1ae0b7b29ebdc4fb21f6c9d04d523)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,11 +1047,11 @@
 </summary>
 
 
-- [2020-05-14-Java-后端找工作至今杳无音讯，只能再试试了](https://www.v2ex.com/t/671772) ![](assets/new.png)  
-- [2020-05-14-Magic-mouse/苹果鼠标/妙控鼠标-经常断开连接](https://www.v2ex.com/t/671771) ![](assets/new.png)  
-- [2020-05-14-杭州-涂鸦智能-我们真的很缺人](https://www.v2ex.com/t/671770) ![](assets/new.png)  
-- [2020-05-14-今天第一天入职，被公司的骚操作恶心到了！](https://www.v2ex.com/t/671769) ![](assets/new.png)  
-- [2020-05-14-神烦那种动不动写个函数的](https://www.v2ex.com/t/671768) ![](assets/new.png)  
+- [2020-05-14-Java-后端找工作至今杳无音讯，只能再试试了](https://www.v2ex.com/t/671772)  
+- [2020-05-14-Magic-mouse/苹果鼠标/妙控鼠标-经常断开连接](https://www.v2ex.com/t/671771)  
+- [2020-05-14-杭州-涂鸦智能-我们真的很缺人](https://www.v2ex.com/t/671770)  
+- [2020-05-14-今天第一天入职，被公司的骚操作恶心到了！](https://www.v2ex.com/t/671769)  
+- [2020-05-14-神烦那种动不动写个函数的](https://www.v2ex.com/t/671768)  
 - [2020-05-14-有没有“根据-css-文件”去“自动生成样式案例”作为编写网页参考的办法](https://www.v2ex.com/t/671767)  
 - [2020-05-14-直播-app-怎样有效保活](https://www.v2ex.com/t/671764)  
 - [2020-05-14-一个动端的-HTML5-页面，如何获取用户触摸滑动的轨迹？](https://www.v2ex.com/t/671763)  

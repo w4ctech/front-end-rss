@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -129,6 +129,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-14-一个动端的-HTML5-页面，如何获取用户触摸滑动的轨迹？](https://www.v2ex.com/t/671763) 
 - [2020-05-14-jsbox-进行-http-请求，怎么拿出-respone-返回体？](https://www.v2ex.com/t/671753) 
 - [2020-05-14-逼死强迫症。找到所有的蓝牙机械键盘，都只能适配-Mac-左侧的-Command，空格右侧-Command-的不行。](https://www.v2ex.com/t/671682) 
 - [2020-05-14-问下懂电信光猫和路由的朋友一个问题（带简易拓扑）](https://www.v2ex.com/t/671656) 

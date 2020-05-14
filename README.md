@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 08:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1) ![](assets/new.png)  
-- [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1)  
+- [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
 - [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1)  
 - [2020-05-13-伊拉克新增119例新冠肺炎确诊病例，单日确诊数首次超过100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigbvESYxgX0vmItNW83Lm200513&isfromapp=1)  
 - [2020-05-13-法国劳工部：鼓励复工复产-“部分失业”补贴将逐步缩减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMJiWH1YtbREtw5WGN3gz200513&isfromapp=1)  
@@ -1045,6 +1045,11 @@
 </summary>
 
 
+- [2020-05-14-Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451) ![](assets/new.png)  
+- [2020-05-14-银行好牛逼](https://www.v2ex.com/t/671450) ![](assets/new.png)  
+- [2020-05-14-Deno-1.0](https://www.v2ex.com/t/671449) ![](assets/new.png)  
+- [2020-05-14-当身体出现了这个信号，请立马停下你手中的代码](https://www.v2ex.com/t/671448) ![](assets/new.png)  
+- [2020-05-14-安卓微信双击“微信”通知红数字后跳转有偏差](https://www.v2ex.com/t/671447) ![](assets/new.png)  
 - [2020-05-14-请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446)  
 - [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444)  
 - [2020-05-14-自己的写日记-app：卡片日记，获得过一些推荐，望能交流体验](https://www.v2ex.com/t/671443)  
@@ -1060,11 +1065,6 @@
 - [2020-05-14-电池健康使用问题，-2020-年-1-月买的-2019-款-mbp-16-寸，现在电池循环了-105-次了，是不是有点多？电池容量降到了-93%](https://www.v2ex.com/t/671430)  
 - [2020-05-14-Firefox-76.0.1-自动开启-DoH-功能导致-DNS-解析到美国](https://www.v2ex.com/t/671429)  
 - [2020-05-14-（英文）-Python-Daily---订阅-Python-最新消息](https://www.v2ex.com/t/671428)  
-- [2020-05-14-spring-boot-+-spring-security-+-vue-动态权限如何实现](https://www.v2ex.com/t/671427)  
-- [2020-05-14-Springboot-Mongodb-异步方法后插入出现-MongoInterruptedException](https://www.v2ex.com/t/671426)  
-- [2020-05-13-Unreal-Engine-5-Revealed!-|-Next-Gen-Real-Time-Demo-Running-on-PlayStation-5-感觉过几年就能体验到类似头号玩家的游戏。](https://www.v2ex.com/t/671424)  
-- [2020-05-13-广州联通-58-元低消送的-100M-宽带，可以免费升级到-200M-了，真香。](https://www.v2ex.com/t/671423)  
-- [2020-05-13-业余时间给个人公众号开发了京东返利功能](https://www.v2ex.com/t/671422)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,8 +1107,9 @@
 </summary>
 
 
-- [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv) ![](assets/new.png)  
-- [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk) ![](assets/new.png)  
+- [2020-05-14-别再暴力匹配字符串了，高效的-KMP-才是真的香](https://toutiao.io/k/7gy6tzh) ![](assets/new.png)  
+- [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv)  
+- [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk)  
 - [2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij)  
 - [2020-05-13-我的安全漏洞观](https://toutiao.io/k/0kysxr9)  
 - [2020-05-13-漫谈分布式系统（十二）：弱一致性也有用武之地](https://toutiao.io/k/4j0eqoc)  
@@ -1126,7 +1127,6 @@
 - [2020-05-13-译-Next.js-和-Nuxt.js-的语法比较，Vue-和-React-的两大-SSR-解决方案](https://toutiao.io/k/s9cx24y)  
 - [2020-05-13-kafka-集群扩容后的数据均衡](https://toutiao.io/k/h8c9hf1)  
 - [2020-05-13-如果平行宇宙也有编程语言](https://toutiao.io/k/x6fb1v8)  
-- [2020-05-13-Spring-Boot-基础系列：实现一个自定义配置加载器（应用篇）](https://toutiao.io/k/bbqolio)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

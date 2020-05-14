@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -250,6 +250,7 @@
 - [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) 
 - [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) 
 - [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
+- [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d) 
 - [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6) 
 - [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826) 
 - [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
@@ -739,6 +740,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852) 
+- [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851) 
+- [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850) 
+- [2020-05-15-pon-无源光网络中，局端发到终端的数据会可能被其他人监听到吗？](https://www.v2ex.com/t/671849) 
 - [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848) 
 - [2020-05-15-有意思的更新:-C++程序编译成-wasm-在文档中交互执行](https://www.v2ex.com/t/671847) 
 - [2020-05-15-有没有能联网校对时间并自动修改系统时间的小工具？某个手机刷的-ROM-每次重启之后时间都退回到我刷机的那天：-2019-年-12-月的某日，](https://www.v2ex.com/t/671844) 

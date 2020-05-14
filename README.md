@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 07:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 07:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -223,6 +223,8 @@
 </summary>
 
 
+- [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f) ![](assets/new.png)  
+- [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d) ![](assets/new.png)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
 - [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
@@ -241,8 +243,6 @@
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
 - [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
-- [2020-04-29-同样是前端面试为何薪资差别这么大？](https://www.ershicimi.com/p/85fd4c8808600a32782378da16d394fe)  
-- [2020-04-29-【第1929期】目标是最完善的微前端解决方案---qiankun-2.0](https://www.ershicimi.com/p/dfb937171b774598ddf6d419f6ab4d39)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,7 +1048,11 @@
 </summary>
 
 
-- [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848) ![](assets/new.png)  
+- [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852) ![](assets/new.png)  
+- [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851) ![](assets/new.png)  
+- [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850) ![](assets/new.png)  
+- [2020-05-15-pon-无源光网络中，局端发到终端的数据会可能被其他人监听到吗？](https://www.v2ex.com/t/671849) ![](assets/new.png)  
+- [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848)  
 - [2020-05-15-有意思的更新:-C++程序编译成-wasm-在文档中交互执行](https://www.v2ex.com/t/671847)  
 - [2020-05-15-开发了一个短视频去水印的接口分享给大家](https://www.v2ex.com/t/671846)  
 - [2020-05-15-有没有能联网校对时间并自动修改系统时间的小工具？某个手机刷的-ROM-每次重启之后时间都退回到我刷机的那天：-2019-年-12-月的某日，](https://www.v2ex.com/t/671844)  
@@ -1064,10 +1068,6 @@
 - [2020-05-15-公司裁员，是拿-n+1，离职原因写辞退，还是拿-n，离职原因写个人原因？](https://www.v2ex.com/t/671831)  
 - [2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830)  
 - [2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829)  
-- [2020-05-14-静息指尖氧饱和度只有-95%，是不是该去医院测新冠了？](https://www.v2ex.com/t/671828)  
-- [2020-05-14-特特特特特特特别焦虑](https://www.v2ex.com/t/671827)  
-- [2020-05-14-django-使用-channels-搭建在线客服疑惑](https://www.v2ex.com/t/671826)  
-- [2020-05-14-UberEat-无条件信任用户的感觉真好](https://www.v2ex.com/t/671825)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

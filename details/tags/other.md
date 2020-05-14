@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -706,6 +706,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-14-中学时代买过的二手数码产品？](https://www.v2ex.com/t/671457) 
+- [2020-05-14-MacBookPro-的正确使用姿势？](https://www.v2ex.com/t/671456) 
+- [2020-05-14-入职后发现薪资没达到承诺的水平该怎么办](https://www.v2ex.com/t/671454) 
+- [2020-05-14-问，如何有成效的提高自己的小酒量？](https://www.v2ex.com/t/671453) 
+- [2020-05-14-同事说他的-PPT-从-PC-到手机，内容发生改变，会事什么原因？](https://www.v2ex.com/t/671452) 
 - [2020-05-14-银行好牛逼](https://www.v2ex.com/t/671450) 
 - [2020-05-14-Deno-1.0](https://www.v2ex.com/t/671449) 
 - [2020-05-14-当身体出现了这个信号，请立马停下你手中的代码](https://www.v2ex.com/t/671448) 
@@ -4425,6 +4430,13 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-14-技术之外：阅读《墨菲定律》时随手记下的一些普遍规律](https://toutiao.io/k/rheh436) 
+- [2020-05-14-帝都程序猿-996-摸鱼求生指南](https://toutiao.io/k/pw6bj4h) 
+- [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu) 
+- [2020-05-14-用好-require、check、assert，写好-Kotlin-代码](https://toutiao.io/k/scncyn4) 
+- [2020-05-14-只需要-6-个步骤，Spring-Boot-集成-shiro，并完成登录](https://toutiao.io/k/qqpjwlg) 
+- [2020-05-14-当-Python-遇到微信](https://toutiao.io/k/k8f96f4) 
+- [2020-05-14-研发辅助神器：Jmock-实践](https://toutiao.io/k/lhx5ae6) 
 - [2020-05-14-别再暴力匹配字符串了，高效的-KMP-才是真的香](https://toutiao.io/k/7gy6tzh) 
 - [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv) 
 - [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk) 

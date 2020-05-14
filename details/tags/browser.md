@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458) 
 - [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444) 
 - [2020-05-14-chrome-怎么删除编辑框的下拉记录？](https://www.v2ex.com/t/671438) 
 - [2020-05-14-Firefox-76.0.1-自动开启-DoH-功能导致-DNS-解析到美国](https://www.v2ex.com/t/671429) 
@@ -192,6 +193,7 @@
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-14-国密-SSL-通信的调试技巧](https://toutiao.io/k/ld42w7j) 
 - [2020-05-13-我的安全漏洞观](https://toutiao.io/k/0kysxr9) 
 - [2020-05-11-Redis-6.0-客户端缓存特性及实践](https://toutiao.io/k/ppar1z5) 
 - [2020-05-10-Kubernetes-中的-Pod-安全策略](https://toutiao.io/k/m2gvg5q) 

@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "扩大新冠肺炎检测规模 新加坡设移动式检测站",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1",
+        "date": "2020-05-14"
+      },
+      {
         "title": "世卫组织：解除封锁需谨慎 避免再次封锁",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1",
         "date": "2020-05-14"
@@ -7201,6 +7206,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "付费请教前端和 Chrome 插件问题",
+        "link": "https://www.v2ex.com/t/671458",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "中学时代买过的二手数码产品？",
+        "link": "https://www.v2ex.com/t/671457",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "MacBookPro 的正确使用姿势？",
+        "link": "https://www.v2ex.com/t/671456",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "入职后发现薪资没达到承诺的水平该怎么办",
+        "link": "https://www.v2ex.com/t/671454",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "问，如何有成效的提高自己的小酒量？",
+        "link": "https://www.v2ex.com/t/671453",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "同事说他的 PPT 从 PC 到手机，内容发生改变，会事什么原因？",
+        "link": "https://www.v2ex.com/t/671452",
+        "date": "2020-05-14"
+      },
       {
         "title": "Canvas 实现图片粒子汇聚效果（可有偿）",
         "link": "https://www.v2ex.com/t/671451",
@@ -30690,6 +30725,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "技术之外：阅读《墨菲定律》时随手记下的一些普遍规律",
+        "link": "https://toutiao.io/k/rheh436",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "帝都程序猿 996 摸鱼求生指南",
+        "link": "https://toutiao.io/k/pw6bj4h",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "如何更优雅地使用 bilibili（b 站）",
+        "link": "https://toutiao.io/k/6x5rqbu",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "用好 require、check、assert，写好 Kotlin 代码",
+        "link": "https://toutiao.io/k/scncyn4",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "十分钟学会使用 Elasticsearch 优雅搭建自己的搜索系统（附源码）",
+        "link": "https://toutiao.io/k/b4xv9j0",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "只需要 6 个步骤，Spring Boot 集成 shiro，并完成登录",
+        "link": "https://toutiao.io/k/qqpjwlg",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "国密 SSL 通信的调试技巧",
+        "link": "https://toutiao.io/k/ld42w7j",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "当 Python 遇到微信",
+        "link": "https://toutiao.io/k/k8f96f4",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "研发辅助神器：Jmock 实践",
+        "link": "https://toutiao.io/k/lhx5ae6",
+        "date": "2020-05-14"
+      },
       {
         "title": "别再暴力匹配字符串了，高效的 KMP 才是真的香",
         "link": "https://toutiao.io/k/7gy6tzh",

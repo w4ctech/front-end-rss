@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 09:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1) ![](assets/new.png)  
 - [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1)  
 - [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
 - [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-13-中企援建尼日利亚的方舱医院完工并移交当地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1)  
 - [2020-05-13-吉林火车站暂停办理始发及经由乘车业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1)  
 - [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1)  
-- [2020-05-13-英国央行副行长：英国很可能进入负利率时代](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibERhIIq6uKWwBehuc2NL200513&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,11 +1045,17 @@
 </summary>
 
 
-- [2020-05-14-Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451) ![](assets/new.png)  
-- [2020-05-14-银行好牛逼](https://www.v2ex.com/t/671450) ![](assets/new.png)  
-- [2020-05-14-Deno-1.0](https://www.v2ex.com/t/671449) ![](assets/new.png)  
-- [2020-05-14-当身体出现了这个信号，请立马停下你手中的代码](https://www.v2ex.com/t/671448) ![](assets/new.png)  
-- [2020-05-14-安卓微信双击“微信”通知红数字后跳转有偏差](https://www.v2ex.com/t/671447) ![](assets/new.png)  
+- [2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458) ![](assets/new.png)  
+- [2020-05-14-中学时代买过的二手数码产品？](https://www.v2ex.com/t/671457) ![](assets/new.png)  
+- [2020-05-14-MacBookPro-的正确使用姿势？](https://www.v2ex.com/t/671456) ![](assets/new.png)  
+- [2020-05-14-入职后发现薪资没达到承诺的水平该怎么办](https://www.v2ex.com/t/671454) ![](assets/new.png)  
+- [2020-05-14-问，如何有成效的提高自己的小酒量？](https://www.v2ex.com/t/671453) ![](assets/new.png)  
+- [2020-05-14-同事说他的-PPT-从-PC-到手机，内容发生改变，会事什么原因？](https://www.v2ex.com/t/671452) ![](assets/new.png)  
+- [2020-05-14-Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451)  
+- [2020-05-14-银行好牛逼](https://www.v2ex.com/t/671450)  
+- [2020-05-14-Deno-1.0](https://www.v2ex.com/t/671449)  
+- [2020-05-14-当身体出现了这个信号，请立马停下你手中的代码](https://www.v2ex.com/t/671448)  
+- [2020-05-14-安卓微信双击“微信”通知红数字后跳转有偏差](https://www.v2ex.com/t/671447)  
 - [2020-05-14-请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446)  
 - [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444)  
 - [2020-05-14-自己的写日记-app：卡片日记，获得过一些推荐，望能交流体验](https://www.v2ex.com/t/671443)  
@@ -1059,12 +1065,6 @@
 - [2020-05-14-chrome-怎么删除编辑框的下拉记录？](https://www.v2ex.com/t/671438)  
 - [2020-05-14-一种跑在网页中的代理？](https://www.v2ex.com/t/671437)  
 - [2020-05-14-杭州大厂的同学来聊聊](https://www.v2ex.com/t/671436)  
-- [2020-05-14-接受自己是个废物后感觉好多了](https://www.v2ex.com/t/671435)  
-- [2020-05-14-playemulator.com-是怎么实现的?](https://www.v2ex.com/t/671434)  
-- [2020-05-14-最近在同时学习-Python-和-Ruby-这两门语言](https://www.v2ex.com/t/671431)  
-- [2020-05-14-电池健康使用问题，-2020-年-1-月买的-2019-款-mbp-16-寸，现在电池循环了-105-次了，是不是有点多？电池容量降到了-93%](https://www.v2ex.com/t/671430)  
-- [2020-05-14-Firefox-76.0.1-自动开启-DoH-功能导致-DNS-解析到美国](https://www.v2ex.com/t/671429)  
-- [2020-05-14-（英文）-Python-Daily---订阅-Python-最新消息](https://www.v2ex.com/t/671428)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,7 +1107,16 @@
 </summary>
 
 
-- [2020-05-14-别再暴力匹配字符串了，高效的-KMP-才是真的香](https://toutiao.io/k/7gy6tzh) ![](assets/new.png)  
+- [2020-05-14-技术之外：阅读《墨菲定律》时随手记下的一些普遍规律](https://toutiao.io/k/rheh436) ![](assets/new.png)  
+- [2020-05-14-帝都程序猿-996-摸鱼求生指南](https://toutiao.io/k/pw6bj4h) ![](assets/new.png)  
+- [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu) ![](assets/new.png)  
+- [2020-05-14-用好-require、check、assert，写好-Kotlin-代码](https://toutiao.io/k/scncyn4) ![](assets/new.png)  
+- [2020-05-14-十分钟学会使用-Elasticsearch-优雅搭建自己的搜索系统（附源码）](https://toutiao.io/k/b4xv9j0) ![](assets/new.png)  
+- [2020-05-14-只需要-6-个步骤，Spring-Boot-集成-shiro，并完成登录](https://toutiao.io/k/qqpjwlg) ![](assets/new.png)  
+- [2020-05-14-国密-SSL-通信的调试技巧](https://toutiao.io/k/ld42w7j) ![](assets/new.png)  
+- [2020-05-14-当-Python-遇到微信](https://toutiao.io/k/k8f96f4) ![](assets/new.png)  
+- [2020-05-14-研发辅助神器：Jmock-实践](https://toutiao.io/k/lhx5ae6) ![](assets/new.png)  
+- [2020-05-14-别再暴力匹配字符串了，高效的-KMP-才是真的香](https://toutiao.io/k/7gy6tzh)  
 - [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv)  
 - [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk)  
 - [2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij)  
@@ -1118,15 +1127,6 @@
 - [2020-05-13-快速适配-Flutter-之深色模式](https://toutiao.io/k/l6fk6xy)  
 - [2020-05-13-Python-为什么使用缩进来划分代码块？](https://toutiao.io/k/o4wju7g)  
 - [2020-05-13-译-谷歌工程实践文档](https://toutiao.io/k/0upd0k6)  
-- [2020-05-13-2020-版-Kubernetes-快速上手指南，让你所见即所得](https://toutiao.io/k/ey4i3fq)  
-- [2020-05-13-Spring-Cloud-Alibaba（一）：概述与重要组件](https://toutiao.io/k/mn670yu)  
-- [2020-05-13-TestNG-测试用例重跑详解及实践优化](https://toutiao.io/k/a8w1okl)  
-- [2020-05-13-Flink-SQL-演进过程，解析原理及一些优化策略](https://toutiao.io/k/q0zdsl2)  
-- [2020-05-13-为什么数组要从零开始？](https://toutiao.io/k/m0kj5lp)  
-- [2020-05-13-面试官：你不懂六大设计原则，回去等通知吧](https://toutiao.io/k/3oi8jlw)  
-- [2020-05-13-译-Next.js-和-Nuxt.js-的语法比较，Vue-和-React-的两大-SSR-解决方案](https://toutiao.io/k/s9cx24y)  
-- [2020-05-13-kafka-集群扩容后的数据均衡](https://toutiao.io/k/h8c9hf1)  
-- [2020-05-13-如果平行宇宙也有编程语言](https://toutiao.io/k/x6fb1v8)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

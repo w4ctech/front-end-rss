@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1) 
@@ -496,6 +498,17 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-14-这段时间机场的端口一直被封？](https://www.v2ex.com/t/671469) 
+- [【V2EX】2020-05-14-怎么使用-apisix-灰色发布项目](https://www.v2ex.com/t/671468) 
+- [【V2EX】2020-05-14-MBP-2013-款，自动切换显卡后，屏幕一闪一闪的，这是哪里出问题了啊？](https://www.v2ex.com/t/671467) 
+- [【V2EX】2020-05-14-最近在学习用-Django-做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？](https://www.v2ex.com/t/671466) 
+- [【V2EX】2020-05-14-工作中做-ppt-的场合多吗？什么样的-ppt-是有效且受欢迎的？](https://www.v2ex.com/t/671465) 
+- [【V2EX】2020-05-14-Service-调用问题](https://www.v2ex.com/t/671464) 
+- [【V2EX】2020-05-14-被降权后-@livid，他还能看到我-@他吗？](https://www.v2ex.com/t/671463) 
+- [【V2EX】2020-05-14-谁知道-idea-每年的三个版本有啥区别](https://www.v2ex.com/t/671462) 
+- [【V2EX】2020-05-14-想讨论一下关于苹果教这类的社会现象。](https://www.v2ex.com/t/671461) 
+- [【V2EX】2020-05-14-django-连接-oracle-执行-pl_sql-语句，是否能获取控制台打印信息？](https://www.v2ex.com/t/671460) 
+- [【V2EX】2020-05-14-MBP16-2019-又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热](https://www.v2ex.com/t/671459) 
 - [【V2EX】2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458) 
 - [【V2EX】2020-05-14-中学时代买过的二手数码产品？](https://www.v2ex.com/t/671457) 
 - [【V2EX】2020-05-14-MacBookPro-的正确使用姿势？](https://www.v2ex.com/t/671456) 

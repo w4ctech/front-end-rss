@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 09:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 09:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1) ![](assets/new.png)  
+- [2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html) ![](assets/new.png)  
+- [2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html) ![](assets/new.png)  
+- [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1)  
 - [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1)  
 - [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
 - [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-13-英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1)  
 - [2020-05-13-教育部：满足三个条件-中小学生在校可以不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1)  
 - [2020-05-13-中企援建尼日利亚的方舱医院完工并移交当地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1)  
-- [2020-05-13-吉林火车站暂停办理始发及经由乘车业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1)  
-- [2020-05-13-加拿大最大的博览会因疫情而被迫取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNRgslWzMcQryedItBTI200513&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458) ![](assets/new.png)  
-- [2020-05-14-中学时代买过的二手数码产品？](https://www.v2ex.com/t/671457) ![](assets/new.png)  
-- [2020-05-14-MacBookPro-的正确使用姿势？](https://www.v2ex.com/t/671456) ![](assets/new.png)  
-- [2020-05-14-入职后发现薪资没达到承诺的水平该怎么办](https://www.v2ex.com/t/671454) ![](assets/new.png)  
-- [2020-05-14-问，如何有成效的提高自己的小酒量？](https://www.v2ex.com/t/671453) ![](assets/new.png)  
-- [2020-05-14-同事说他的-PPT-从-PC-到手机，内容发生改变，会事什么原因？](https://www.v2ex.com/t/671452) ![](assets/new.png)  
+- [2020-05-14-这段时间机场的端口一直被封？](https://www.v2ex.com/t/671469) ![](assets/new.png)  
+- [2020-05-14-怎么使用-apisix-灰色发布项目](https://www.v2ex.com/t/671468) ![](assets/new.png)  
+- [2020-05-14-MBP-2013-款，自动切换显卡后，屏幕一闪一闪的，这是哪里出问题了啊？](https://www.v2ex.com/t/671467) ![](assets/new.png)  
+- [2020-05-14-最近在学习用-Django-做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？](https://www.v2ex.com/t/671466) ![](assets/new.png)  
+- [2020-05-14-工作中做-ppt-的场合多吗？什么样的-ppt-是有效且受欢迎的？](https://www.v2ex.com/t/671465) ![](assets/new.png)  
+- [2020-05-14-Service-调用问题](https://www.v2ex.com/t/671464) ![](assets/new.png)  
+- [2020-05-14-被降权后-@livid，他还能看到我-@他吗？](https://www.v2ex.com/t/671463) ![](assets/new.png)  
+- [2020-05-14-谁知道-idea-每年的三个版本有啥区别](https://www.v2ex.com/t/671462) ![](assets/new.png)  
+- [2020-05-14-想讨论一下关于苹果教这类的社会现象。](https://www.v2ex.com/t/671461) ![](assets/new.png)  
+- [2020-05-14-django-连接-oracle-执行-pl_sql-语句，是否能获取控制台打印信息？](https://www.v2ex.com/t/671460) ![](assets/new.png)  
+- [2020-05-14-MBP16-2019-又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热](https://www.v2ex.com/t/671459) ![](assets/new.png)  
+- [2020-05-14-付费请教前端和-Chrome-插件问题](https://www.v2ex.com/t/671458)  
+- [2020-05-14-中学时代买过的二手数码产品？](https://www.v2ex.com/t/671457)  
+- [2020-05-14-MacBookPro-的正确使用姿势？](https://www.v2ex.com/t/671456)  
+- [2020-05-14-入职后发现薪资没达到承诺的水平该怎么办](https://www.v2ex.com/t/671454)  
+- [2020-05-14-问，如何有成效的提高自己的小酒量？](https://www.v2ex.com/t/671453)  
+- [2020-05-14-同事说他的-PPT-从-PC-到手机，内容发生改变，会事什么原因？](https://www.v2ex.com/t/671452)  
 - [2020-05-14-Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451)  
 - [2020-05-14-银行好牛逼](https://www.v2ex.com/t/671450)  
 - [2020-05-14-Deno-1.0](https://www.v2ex.com/t/671449)  
-- [2020-05-14-当身体出现了这个信号，请立马停下你手中的代码](https://www.v2ex.com/t/671448)  
-- [2020-05-14-安卓微信双击“微信”通知红数字后跳转有偏差](https://www.v2ex.com/t/671447)  
-- [2020-05-14-请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446)  
-- [2020-05-14-Gear-浏览器-v2.0-里程碑更新，已支持中文等多国语言。庆祝周年，送上多枚-Pro-兑换码。](https://www.v2ex.com/t/671444)  
-- [2020-05-14-自己的写日记-app：卡片日记，获得过一些推荐，望能交流体验](https://www.v2ex.com/t/671443)  
-- [2020-05-14-正确的自学方式？？](https://www.v2ex.com/t/671441)  
-- [2020-05-14-迫于买家电-收点京东-E-卡](https://www.v2ex.com/t/671440)  
-- [2020-05-14-用你的-Mweb-来写-PPT-吧，撸了一套-Mweb-的-PPT-主题](https://www.v2ex.com/t/671439)  
-- [2020-05-14-chrome-怎么删除编辑框的下拉记录？](https://www.v2ex.com/t/671438)  
-- [2020-05-14-一种跑在网页中的代理？](https://www.v2ex.com/t/671437)  
-- [2020-05-14-杭州大厂的同学来聊聊](https://www.v2ex.com/t/671436)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,15 +1107,15 @@
 </summary>
 
 
-- [2020-05-14-技术之外：阅读《墨菲定律》时随手记下的一些普遍规律](https://toutiao.io/k/rheh436) ![](assets/new.png)  
-- [2020-05-14-帝都程序猿-996-摸鱼求生指南](https://toutiao.io/k/pw6bj4h) ![](assets/new.png)  
-- [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu) ![](assets/new.png)  
-- [2020-05-14-用好-require、check、assert，写好-Kotlin-代码](https://toutiao.io/k/scncyn4) ![](assets/new.png)  
-- [2020-05-14-十分钟学会使用-Elasticsearch-优雅搭建自己的搜索系统（附源码）](https://toutiao.io/k/b4xv9j0) ![](assets/new.png)  
-- [2020-05-14-只需要-6-个步骤，Spring-Boot-集成-shiro，并完成登录](https://toutiao.io/k/qqpjwlg) ![](assets/new.png)  
-- [2020-05-14-国密-SSL-通信的调试技巧](https://toutiao.io/k/ld42w7j) ![](assets/new.png)  
-- [2020-05-14-当-Python-遇到微信](https://toutiao.io/k/k8f96f4) ![](assets/new.png)  
-- [2020-05-14-研发辅助神器：Jmock-实践](https://toutiao.io/k/lhx5ae6) ![](assets/new.png)  
+- [2020-05-14-技术之外：阅读《墨菲定律》时随手记下的一些普遍规律](https://toutiao.io/k/rheh436)  
+- [2020-05-14-帝都程序猿-996-摸鱼求生指南](https://toutiao.io/k/pw6bj4h)  
+- [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu)  
+- [2020-05-14-用好-require、check、assert，写好-Kotlin-代码](https://toutiao.io/k/scncyn4)  
+- [2020-05-14-十分钟学会使用-Elasticsearch-优雅搭建自己的搜索系统（附源码）](https://toutiao.io/k/b4xv9j0)  
+- [2020-05-14-只需要-6-个步骤，Spring-Boot-集成-shiro，并完成登录](https://toutiao.io/k/qqpjwlg)  
+- [2020-05-14-国密-SSL-通信的调试技巧](https://toutiao.io/k/ld42w7j)  
+- [2020-05-14-当-Python-遇到微信](https://toutiao.io/k/k8f96f4)  
+- [2020-05-14-研发辅助神器：Jmock-实践](https://toutiao.io/k/lhx5ae6)  
 - [2020-05-14-别再暴力匹配字符串了，高效的-KMP-才是真的香](https://toutiao.io/k/7gy6tzh)  
 - [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv)  
 - [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk)  

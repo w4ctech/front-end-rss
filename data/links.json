@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "北京昨日无新增报告新冠肺炎确诊病例，出院1例",
+        "link": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）",
+        "link": "http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html",
+        "date": "2020-05-14"
+      },
+      {
         "title": "扩大新冠肺炎检测规模 新加坡设移动式检测站",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1",
         "date": "2020-05-14"
@@ -7206,6 +7216,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "这段时间机场的端口一直被封？",
+        "link": "https://www.v2ex.com/t/671469",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "怎么使用 apisix 灰色发布项目",
+        "link": "https://www.v2ex.com/t/671468",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "MBP 2013 款，自动切换显卡后，屏幕一闪一闪的，这是哪里出问题了啊？",
+        "link": "https://www.v2ex.com/t/671467",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "最近在学习用 Django 做网站，遇到一个数据库设计的问题。作者表和文章表之间要加一个中间表存放两者关系吗？",
+        "link": "https://www.v2ex.com/t/671466",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "工作中做 ppt 的场合多吗？什么样的 ppt 是有效且受欢迎的？",
+        "link": "https://www.v2ex.com/t/671465",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "Service 调用问题",
+        "link": "https://www.v2ex.com/t/671464",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "被降权后 @livid，他还能看到我 @他吗？",
+        "link": "https://www.v2ex.com/t/671463",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "谁知道 idea 每年的三个版本有啥区别",
+        "link": "https://www.v2ex.com/t/671462",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "想讨论一下关于苹果教这类的社会现象。",
+        "link": "https://www.v2ex.com/t/671461",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "django 连接 oracle 执行 pl_sql 语句，是否能获取控制台打印信息？",
+        "link": "https://www.v2ex.com/t/671460",
+        "date": "2020-05-14"
+      },
+      {
+        "title": "MBP16 2019 又翻车了，突然无响应+风扇狂转+重启，而且盒盖睡眠发热",
+        "link": "https://www.v2ex.com/t/671459",
+        "date": "2020-05-14"
+      },
       {
         "title": "付费请教前端和 Chrome 插件问题",
         "link": "https://www.v2ex.com/t/671458",

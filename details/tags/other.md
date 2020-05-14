@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1) 
+- [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1) 
 - [2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1) 
 - [2020-05-13-法国劳工部：鼓励复工复产-“部分失业”补贴将逐步缩减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMJiWH1YtbREtw5WGN3gz200513&isfromapp=1) 
 - [2020-05-13-津巴布韦副总统：中国抗疫医疗专家组赴津正逢其时-对于津方抗疫将起极大的积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLBgNDkFGj6jSnppxjuT200513&isfromapp=1) 
@@ -4419,6 +4421,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv) 
+- [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk) 
 - [2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij) 
 - [2020-05-13-漫谈分布式系统（十二）：弱一致性也有用武之地](https://toutiao.io/k/4j0eqoc) 
 - [2020-05-13-我也不想做中台，但是刀架脖子上了](https://toutiao.io/k/g52z538) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-14 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-13-德国内政部：将逐步放宽边境管控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD36PiESpVd4MkSpZ5Dvg200513&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-13-伊拉克新增119例新冠肺炎确诊病例，单日确诊数首次超过100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigbvESYxgX0vmItNW83Lm200513&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-13-法国劳工部：鼓励复工复产-“部分失业”补贴将逐步缩减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMJiWH1YtbREtw5WGN3gz200513&isfromapp=1) 
@@ -3342,6 +3344,8 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv) 
+- [【开发者头条】2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk) 
 - [【开发者头条】2020-05-13-译-2020-年计算机视觉学习指南](https://toutiao.io/k/uwo8fij) 
 - [【开发者头条】2020-05-13-我的安全漏洞观](https://toutiao.io/k/0kysxr9) 
 - [【开发者头条】2020-05-13-漫谈分布式系统（十二）：弱一致性也有用武之地](https://toutiao.io/k/4j0eqoc) 

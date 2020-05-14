@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-14 13:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-14 13:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -146,8 +146,8 @@
 </summary>
 
 
-- [2020-05-14-「-如何优雅的使用VUE?-」不可不知的VUE实战技巧](https://www.ershicimi.com/p/535fc7486923a654affb406d326a7268) ![](assets/new.png)  
-- [2020-05-14-微信群突然冒出“免费教画画”的女大学生，小心有诈！](https://www.ershicimi.com/p/6d4428777a01a1ff1811321470359288) ![](assets/new.png)  
+- [2020-05-14-「-如何优雅的使用VUE?-」不可不知的VUE实战技巧](https://www.ershicimi.com/p/535fc7486923a654affb406d326a7268)  
+- [2020-05-14-微信群突然冒出“免费教画画”的女大学生，小心有诈！](https://www.ershicimi.com/p/6d4428777a01a1ff1811321470359288)  
 - [2020-05-13-我有一招，让你不再越努力越迷茫](https://www.ershicimi.com/p/7e615e1c9386efd73c77d64619ff8652)  
 - [2020-05-13-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/ef71cff79e5301f436929382ad72e2a2)  
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd)  
@@ -1107,6 +1107,10 @@
 </summary>
 
 
+- [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl) ![](assets/new.png)  
+- [2020-05-14-成人网站泄露-108-亿数据后，一个-Elasticsearch-爱好者的思考](https://toutiao.io/k/ow13amu) ![](assets/new.png)  
+- [2020-05-14-在小目标检测上另辟蹊径的-SNIP](https://toutiao.io/k/n8jq5wx) ![](assets/new.png)  
+- [2020-05-14-译-内核中进行更积极地内存整理-compaction](https://toutiao.io/k/8kqgjff) ![](assets/new.png)  
 - [2020-05-14-Flutter-Web-网站之最简方式实现暗黑主题无缝切换](https://toutiao.io/k/9itvjb2)  
 - [2020-05-14-JavaScript-ES-2020-必知必会新特性](https://toutiao.io/k/3iifvy6)  
 - [2020-05-14-如何巧妙回答对用人单位的了解？（面试答题篇-Ⅱ）](https://toutiao.io/k/uiub0h0)  
@@ -1123,10 +1127,6 @@
 - [2020-05-14-只需要-6-个步骤，Spring-Boot-集成-shiro，并完成登录](https://toutiao.io/k/qqpjwlg)  
 - [2020-05-14-国密-SSL-通信的调试技巧](https://toutiao.io/k/ld42w7j)  
 - [2020-05-14-当-Python-遇到微信](https://toutiao.io/k/k8f96f4)  
-- [2020-05-14-研发辅助神器：Jmock-实践](https://toutiao.io/k/lhx5ae6)  
-- [2020-05-14-别再暴力匹配字符串了，高效的-KMP-才是真的香](https://toutiao.io/k/7gy6tzh)  
-- [2020-05-14-自从用了这款神器，老板再也不担心我删库跑路了！](https://toutiao.io/k/13aavdv)  
-- [2020-05-14-程序员的五层境界，你在哪层？|-码农周刊第-306-期](https://toutiao.io/k/kjyyolk)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

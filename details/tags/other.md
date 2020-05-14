@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-14 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-14 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -4499,6 +4499,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl) 
+- [2020-05-14-在小目标检测上另辟蹊径的-SNIP](https://toutiao.io/k/n8jq5wx) 
+- [2020-05-14-译-内核中进行更积极地内存整理-compaction](https://toutiao.io/k/8kqgjff) 
 - [2020-05-14-Redis-入门，我是认真的](https://toutiao.io/k/y6btnm1) 
 - [2020-05-14-又一-P1-故障，锅比脸圆](https://toutiao.io/k/c0aqdqy) 
 - [2020-05-14-EventBus-源码详细分析：手写-EventBus-核心代码](https://toutiao.io/k/qo26och) 

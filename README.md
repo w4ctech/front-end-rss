@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 06:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 07:00:23，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -224,6 +224,8 @@
 </summary>
 
 
+- [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) ![](assets/new.png)  
+- [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0) ![](assets/new.png)  
 - [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
 - [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
@@ -242,8 +244,6 @@
 - [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
 - [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
 - [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
-- [2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b)  
-- [2020-04-30-【第1930期】运用-NutUI---快捷开发京东企业业务之酷兜](https://www.ershicimi.com/p/84196c3057cdbc61126fd2dce68e376b)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-05-16-1-张公交卡+1-张签到门禁卡+1-张非签到门禁卡，如果三合一，手环/手表还是淘宝多合一？](https://www.v2ex.com/t/672231) ![](assets/new.png)  
+- [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232) ![](assets/new.png)  
+- [2020-05-16-1-张公交卡+1-张签到门禁卡+1-张非签到门禁卡，如果三合一，手环/手表还是淘宝多合一？](https://www.v2ex.com/t/672231)  
 - [2020-05-16-H3C-路由器开启-DMZ-后为什么-NAT-类型没有变化](https://www.v2ex.com/t/672230)  
 - [2020-05-16-为什么-MIUI12-不放线刷包（fastboot-rom）了](https://www.v2ex.com/t/672229)  
 - [2020-05-16-支付宝小程序开发有什么更方便快捷的调试方式吗](https://www.v2ex.com/t/672227)  
@@ -1071,7 +1072,6 @@
 - [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212)  
 - [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211)  
 - [2020-05-15-不懂就问，移动的光猫自带的无线速度被限制了吗](https://www.v2ex.com/t/672210)  
-- [2020-05-15-各位大佬，朋友被骗了几十万，能不能用技术手段获取到骗子的一些信息？](https://www.v2ex.com/t/672208)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

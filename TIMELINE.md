@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 06:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 07:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -255,6 +255,8 @@
 - [【React中文社区】2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) 
+- [【前端早读课】2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0) 
 - [【前端早读课】2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f) 
 - [【前端早读课】2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d) 
 - [【前端早读课】2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) 
@@ -617,6 +619,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232) 
 - [【V2EX】2020-05-16-1-张公交卡+1-张签到门禁卡+1-张非签到门禁卡，如果三合一，手环/手表还是淘宝多合一？](https://www.v2ex.com/t/672231) 
 - [【V2EX】2020-05-16-H3C-路由器开启-DMZ-后为什么-NAT-类型没有变化](https://www.v2ex.com/t/672230) 
 - [【V2EX】2020-05-16-为什么-MIUI12-不放线刷包（fastboot-rom）了](https://www.v2ex.com/t/672229) 

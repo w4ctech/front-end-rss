@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-15 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -564,6 +564,20 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-15-上周末折腾了好一顿-Hugo，搞出来一些新玩法，写技术文的朋友可以参考](https://www.v2ex.com/t/671927) 
+- [【V2EX】2020-05-15-一个软件的颜色数据转换，已然蒙圈-求助！](https://www.v2ex.com/t/671926) 
+- [【V2EX】2020-05-15-rclone-上传至-google-photo-问题求教](https://www.v2ex.com/t/671925) 
+- [【V2EX】2020-05-15-做了背调拿了-offer，有更好的选择怎么办？可以拒绝报道，去新公司嘛？](https://www.v2ex.com/t/671924) 
+- [【V2EX】2020-05-15-Java-有什么实践或设计模式可以用来减少硬编码？](https://www.v2ex.com/t/671923) 
+- [【V2EX】2020-05-15-请教一个前端问题。。](https://www.v2ex.com/t/671922) 
+- [【V2EX】2020-05-15-北京小米-MIUI-Android-开发工程师内推](https://www.v2ex.com/t/671921) 
+- [【V2EX】2020-05-15-Linksys-WRT32X-jd-目前-849-CNY-是不是好价?](https://www.v2ex.com/t/671920) 
+- [【V2EX】2020-05-15-🔥字节靠谱内推🔥](https://www.v2ex.com/t/671919) 
+- [【V2EX】2020-05-15-各位老哥，电脑每天第一次开机显示器不亮但是能听到进入系统的声音，第二次开机才亮是什么原因](https://www.v2ex.com/t/671918) 
+- [【V2EX】2020-05-15-请问-Java-有类似-golang-的-channel-的类吗？](https://www.v2ex.com/t/671917) 
+- [【V2EX】2020-05-15-mysql-中如何查询某列字符串中包含查询的部分字符串](https://www.v2ex.com/t/671916) 
+- [【V2EX】2020-05-15-互联网是不是已经变成传统行业了](https://www.v2ex.com/t/671914) 
+- [【V2EX】2020-05-15-给大家分享一个-10-秒-撸-6.66-羊毛-的方法](https://www.v2ex.com/t/671913) 
 - [【V2EX】2020-05-15-ant-design-和-iView-选择哪个？](https://www.v2ex.com/t/671912) 
 - [【V2EX】2020-05-15-希腊神话](https://www.v2ex.com/t/671911) 
 - [【V2EX】2020-05-15-延毕生找工作难度有多大，](https://www.v2ex.com/t/671910) 

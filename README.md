@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 01:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 02:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,10 +1052,11 @@
 </summary>
 
 
-- [2020-05-16-JetBrains-系-IDE-将会推出中文翻译](https://www.v2ex.com/t/672224) ![](assets/new.png)  
-- [2020-05-16-业务当中别人的代码出了个-bug，应该是由谁负责呢](https://www.v2ex.com/t/672223) ![](assets/new.png)  
-- [2020-05-16-只会写技术文档，不会写文章](https://www.v2ex.com/t/672222) ![](assets/new.png)  
-- [2020-05-16-分享-提高微信备份速度（转）](https://www.v2ex.com/t/672221) ![](assets/new.png)  
+- [2020-05-16-Slack-国内让墙了吗](https://www.v2ex.com/t/672225) ![](assets/new.png)  
+- [2020-05-16-JetBrains-系-IDE-将会推出中文翻译](https://www.v2ex.com/t/672224)  
+- [2020-05-16-业务当中别人的代码出了个-bug，应该是由谁负责呢](https://www.v2ex.com/t/672223)  
+- [2020-05-16-只会写技术文档，不会写文章](https://www.v2ex.com/t/672222)  
+- [2020-05-16-分享-提高微信备份速度（转）](https://www.v2ex.com/t/672221)  
 - [2020-05-16-局域网内-WiFi-传输可以有多快？](https://www.v2ex.com/t/672219)  
 - [2020-05-16-V2EX-自动加载夜间模式的建议](https://www.v2ex.com/t/672218)  
 - [2020-05-16-钱花了，教训也没买到](https://www.v2ex.com/t/672217)  
@@ -1071,7 +1072,6 @@
 - [2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204)  
 - [2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203)  
 - [2020-05-15-有没有小伙伴一起上这个-NLP-课的,-交流交流?](https://www.v2ex.com/t/672202)  
-- [2020-05-15-从程序员-/-Geek-的角度看，-618-有什么值得入手的产品吗？](https://www.v2ex.com/t/672201)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

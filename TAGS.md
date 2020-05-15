@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-15 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -580,6 +580,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】用-windows-的你们都是怎么装的-docker](https://www.v2ex.com/t/671869)
 - [【V2EX】wdnmd-为什么啊-我的-docker-hub（windows-端）明明设置了镜像-但拉个-rabbitmq-还是拉不下来](https://www.v2ex.com/t/671790)
 - [【V2EX】请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446)
 - [【V2EX】请教一个-REST-api-设计的问题](https://www.v2ex.com/t/671383)
@@ -590,7 +591,6 @@
 - [【V2EX】每次部署更新代码，重新编译-Docker-镜像，再更新到生产环境，改动的代码地方很多，但都是比较频繁的小改动。要耗费不少时间，是姿势不对？还是只能这样了?](https://www.v2ex.com/t/670902)
 - [【V2EX】如何解决在使用端口映射情况，-dsm-nginx-跳转到内部端口的问题？](https://www.v2ex.com/t/670880)
 - [【V2EX】Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498)
-- [【V2EX】用-Minio+Nginx-搭建私有图床，配合-Typora-一键插入博客图片](https://www.v2ex.com/t/670158)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

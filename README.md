@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 09:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 09:30:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,11 +37,11 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-15-阿根廷新冠肺炎病例突破7000例-贫民区疫情传播速度不断加快](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0LFjjr6dqDFcv4Gz8kKt200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-吉林省新增新冠肺炎本地确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLBhbQI9Oi2eF6OSrELb1200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为吉林本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPIt39VDW8zCYzG0fbFHe200515&isfromapp=1) ![](assets/new.png)  
 - [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1)  
 - [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1)  
 - [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1)  
 - [2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1)  
 - [2020-05-14-多重困境下-叙利亚储备生产抗疫药物羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1)  
-- [2020-05-14-江苏省民政厅：因受新冠肺炎疫情影响，5月20日、21日结婚登记需至少提前2天预约](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2DRtJVic3BM2HmLN9wUX200514&isfromapp=1)  
-- [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1)  
-- [2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -663,7 +663,7 @@
 </summary>
 
 
-- [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) ![](assets/new.png)  
+- [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
 - [2020-04-30-科技爱好者周刊：第-105-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)  
 - [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html)  
@@ -765,7 +765,7 @@
 </summary>
 
 
-- [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) ![](assets/new.png)  
+- [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a)  
 - [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c)  
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc)  
 - [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327)  
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-05-15-256-SSD-是不是小了？换成-512-的应该刚好吧，旧-SSD-如何废物利用？](https://www.v2ex.com/t/671866) ![](assets/new.png)  
-- [2020-05-15-为什么国内有些云厂商支持-CentOS-7-却不支持-CentOS-8？](https://www.v2ex.com/t/671864) ![](assets/new.png)  
-- [2020-05-15-电信宽带要了公网-ip，是不是就没有-ipV6-了？坐标：-027····](https://www.v2ex.com/t/671863) ![](assets/new.png)  
-- [2020-05-15-有没有什么值得参考的-Flutter-和-Android-原生开源应用呢？](https://www.v2ex.com/t/671862) ![](assets/new.png)  
+- [2020-05-15-摸了一个二刺螈博客主题](https://www.v2ex.com/t/671879) ![](assets/new.png)  
+- [2020-05-15-有人遇到过-MBP16-使用外接显卡拓展坞在打开-PD-内的-EXCEL-的时候死机吗？](https://www.v2ex.com/t/671878) ![](assets/new.png)  
+- [2020-05-15-阿里雲-cdn-頻繁返回-http-413](https://www.v2ex.com/t/671877) ![](assets/new.png)  
+- [2020-05-15-再见-Office-365，全新-Microsoft-365-高能登场！](https://www.v2ex.com/t/671876) ![](assets/new.png)  
+- [2020-05-15-猫头鹰的散热器能压得住-i7-10700K-吗？](https://www.v2ex.com/t/671873) ![](assets/new.png)  
+- [2020-05-15-人体姿势或动作检测技术探讨和项目合作](https://www.v2ex.com/t/671872) ![](assets/new.png)  
+- [2020-05-15-阿里-DOH-节点舍近求远](https://www.v2ex.com/t/671871) ![](assets/new.png)  
+- [2020-05-15-领了-GTA5-想学学虚幻-4-了-有没有推荐的教程。](https://www.v2ex.com/t/671870) ![](assets/new.png)  
+- [2020-05-15-用-windows-的你们都是怎么装的-docker](https://www.v2ex.com/t/671869) ![](assets/new.png)  
+- [2020-05-15-国外有哪些-im-聊天软件？](https://www.v2ex.com/t/671868) ![](assets/new.png)  
+- [2020-05-15-256-SSD-是不是小了？换成-512-的应该刚好吧，旧-SSD-如何废物利用？](https://www.v2ex.com/t/671866)  
+- [2020-05-15-为什么国内有些云厂商支持-CentOS-7-却不支持-CentOS-8？](https://www.v2ex.com/t/671864)  
+- [2020-05-15-电信宽带要了公网-ip，是不是就没有-ipV6-了？坐标：-027····](https://www.v2ex.com/t/671863)  
+- [2020-05-15-有没有什么值得参考的-Flutter-和-Android-原生开源应用呢？](https://www.v2ex.com/t/671862)  
 - [2020-05-15-asss](https://www.v2ex.com/t/671861)  
 - [2020-05-15-视频面试-可远程办公-北美高科技创新公司-Jerry-Ai-软件工程师直招](https://www.v2ex.com/t/671859)  
 - [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857)  
 - [2020-05-15-mac-上安装了-office2019-可以预览-docx-文件，但是打不开。](https://www.v2ex.com/t/671856)  
 - [2020-05-15-什么用-LVS-的-DR-模式做负载均衡看不到监听端口？](https://www.v2ex.com/t/671855)  
 - [2020-05-15-有下载企业微信回放视频的方法吗](https://www.v2ex.com/t/671854)  
-- [2020-05-15-视频面试-支持远程办公-北美高科技创新公司-Jerry-Ai-软件工程师岗位直推](https://www.v2ex.com/t/671853)  
-- [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852)  
-- [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851)  
-- [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850)  
-- [2020-05-15-pon-无源光网络中，局端发到终端的数据会可能被其他人监听到吗？](https://www.v2ex.com/t/671849)  
-- [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848)  
-- [2020-05-15-有意思的更新:-C++程序编译成-wasm-在文档中交互执行](https://www.v2ex.com/t/671847)  
-- [2020-05-15-开发了一个短视频去水印的接口分享给大家](https://www.v2ex.com/t/671846)  
-- [2020-05-15-有没有能联网校对时间并自动修改系统时间的小工具？某个手机刷的-ROM-每次重启之后时间都退回到我刷机的那天：-2019-年-12-月的某日，](https://www.v2ex.com/t/671844)  
-- [2020-05-15-iPad-实体键盘输入时，如何隐藏最底部的联想词框（含部分快捷键，如前进后退复制粘贴）](https://www.v2ex.com/t/671843)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,15 +1112,16 @@
 </summary>
 
 
-- [2020-05-15-DIY-一个正则匹配引擎](https://toutiao.io/k/1fbel49) ![](assets/new.png)  
-- [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7) ![](assets/new.png)  
-- [2020-05-15-Java-高频面试题：聊一聊-JUC-下的-CopyOnWriteArrayList](https://toutiao.io/k/9n8ls2a) ![](assets/new.png)  
-- [2020-05-15-译-你不知道的-CSS-国际化](https://toutiao.io/k/ieif7me) ![](assets/new.png)  
-- [2020-05-15-在-Go-中使用微服务架构的好处](https://toutiao.io/k/i9ix1gl) ![](assets/new.png)  
-- [2020-05-15-使用-Golang-实现-appium/WebDriverAgent-的客户端库](https://toutiao.io/k/5noafgt) ![](assets/new.png)  
-- [2020-05-15-Android-NestedScrolling-机制（基础篇）](https://toutiao.io/k/bd5lscg) ![](assets/new.png)  
-- [2020-05-15-非常简单的-String-驻留池，你对它真的了解吗?](https://toutiao.io/k/8gl7yf3) ![](assets/new.png)  
-- [2020-05-15-LTUI-v1.7-发布,-一个基于-Lua-的跨平台字符终端-UI-界面库](https://toutiao.io/k/23k3m7s) ![](assets/new.png)  
+- [2020-05-15-译-是时候考虑-Spring-非阻塞编程模式？R2DBC-pk-JDBC-和-WebFlux-pk-Web-MVC-评测数据](https://toutiao.io/k/aee2rhl) ![](assets/new.png)  
+- [2020-05-15-DIY-一个正则匹配引擎](https://toutiao.io/k/1fbel49)  
+- [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7)  
+- [2020-05-15-Java-高频面试题：聊一聊-JUC-下的-CopyOnWriteArrayList](https://toutiao.io/k/9n8ls2a)  
+- [2020-05-15-译-你不知道的-CSS-国际化](https://toutiao.io/k/ieif7me)  
+- [2020-05-15-在-Go-中使用微服务架构的好处](https://toutiao.io/k/i9ix1gl)  
+- [2020-05-15-使用-Golang-实现-appium/WebDriverAgent-的客户端库](https://toutiao.io/k/5noafgt)  
+- [2020-05-15-Android-NestedScrolling-机制（基础篇）](https://toutiao.io/k/bd5lscg)  
+- [2020-05-15-非常简单的-String-驻留池，你对它真的了解吗?](https://toutiao.io/k/8gl7yf3)  
+- [2020-05-15-LTUI-v1.7-发布,-一个基于-Lua-的跨平台字符终端-UI-界面库](https://toutiao.io/k/23k3m7s)  
 - [2020-05-15-迈向-Substrate-的第一步](https://toutiao.io/k/5kjzotk)  
 - [2020-05-15-Java-后端开发学习路线-“光头强版”-发布](https://toutiao.io/k/s1kxp4h)  
 - [2020-05-15-电商平台-Magento-基于-Kubernetes-的容器化实践](https://toutiao.io/k/2xl6v81)  
@@ -1131,7 +1132,6 @@
 - [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4)  
 - [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj)  
 - [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa)  
-- [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

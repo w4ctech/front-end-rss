@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为吉林本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPIt39VDW8zCYzG0fbFHe200515&isfromapp=1) 
 - [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1) 
 - [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1) 
 - [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1) 
@@ -744,6 +745,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-摸了一个二刺螈博客主题](https://www.v2ex.com/t/671879) 
+- [2020-05-15-有人遇到过-MBP16-使用外接显卡拓展坞在打开-PD-内的-EXCEL-的时候死机吗？](https://www.v2ex.com/t/671878) 
+- [2020-05-15-再见-Office-365，全新-Microsoft-365-高能登场！](https://www.v2ex.com/t/671876) 
+- [2020-05-15-猫头鹰的散热器能压得住-i7-10700K-吗？](https://www.v2ex.com/t/671873) 
+- [2020-05-15-人体姿势或动作检测技术探讨和项目合作](https://www.v2ex.com/t/671872) 
+- [2020-05-15-阿里-DOH-节点舍近求远](https://www.v2ex.com/t/671871) 
+- [2020-05-15-领了-GTA5-想学学虚幻-4-了-有没有推荐的教程。](https://www.v2ex.com/t/671870) 
+- [2020-05-15-国外有哪些-im-聊天软件？](https://www.v2ex.com/t/671868) 
 - [2020-05-15-256-SSD-是不是小了？换成-512-的应该刚好吧，旧-SSD-如何废物利用？](https://www.v2ex.com/t/671866) 
 - [2020-05-15-为什么国内有些云厂商支持-CentOS-7-却不支持-CentOS-8？](https://www.v2ex.com/t/671864) 
 - [2020-05-15-电信宽带要了公网-ip，是不是就没有-ipV6-了？坐标：-027····](https://www.v2ex.com/t/671863) 
@@ -4729,6 +4738,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-15-译-是时候考虑-Spring-非阻塞编程模式？R2DBC-pk-JDBC-和-WebFlux-pk-Web-MVC-评测数据](https://toutiao.io/k/aee2rhl) 
 - [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7) 
 - [2020-05-15-在-Go-中使用微服务架构的好处](https://toutiao.io/k/i9ix1gl) 
 - [2020-05-15-使用-Golang-实现-appium/WebDriverAgent-的客户端库](https://toutiao.io/k/5noafgt) 

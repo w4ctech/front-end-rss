@@ -1257,6 +1257,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "阿根廷新冠肺炎病例突破7000例 贫民区疫情传播速度不断加快",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0LFjjr6dqDFcv4Gz8kKt200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "吉林省新增新冠肺炎本地确诊病例4例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLBhbQI9Oi2eF6OSrELb1200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为吉林本土病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPIt39VDW8zCYzG0fbFHe200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
         "title": "美国拉斯维加斯将开始重新开放",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1",
         "date": "2020-05-15"
@@ -7511,6 +7526,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "摸了一个二刺螈博客主题",
+        "link": "https://www.v2ex.com/t/671879",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "有人遇到过 MBP16 使用外接显卡拓展坞在打开 PD 内的 EXCEL 的时候死机吗？",
+        "link": "https://www.v2ex.com/t/671878",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "阿里雲 cdn 頻繁返回 http 413",
+        "link": "https://www.v2ex.com/t/671877",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "再见 Office 365，全新 Microsoft 365 高能登场！",
+        "link": "https://www.v2ex.com/t/671876",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "猫头鹰的散热器能压得住 i7-10700K 吗？",
+        "link": "https://www.v2ex.com/t/671873",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "人体姿势或动作检测技术探讨和项目合作",
+        "link": "https://www.v2ex.com/t/671872",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "阿里 DOH 节点舍近求远",
+        "link": "https://www.v2ex.com/t/671871",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "领了 GTA5 想学学虚幻 4 了 有没有推荐的教程。",
+        "link": "https://www.v2ex.com/t/671870",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "用 windows 的你们都是怎么装的 docker",
+        "link": "https://www.v2ex.com/t/671869",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "国外有哪些 im 聊天软件？",
+        "link": "https://www.v2ex.com/t/671868",
+        "date": "2020-05-15"
+      },
       {
         "title": "256 SSD 是不是小了？换成 512 的应该刚好吧，旧 SSD 如何废物利用？",
         "link": "https://www.v2ex.com/t/671866",
@@ -32680,6 +32745,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[译] 是时候考虑 Spring 非阻塞编程模式？R2DBC pk JDBC 和 WebFlux pk Web MVC 评测数据",
+        "link": "https://toutiao.io/k/aee2rhl",
+        "date": "2020-05-15"
+      },
       {
         "title": "DIY 一个正则匹配引擎",
         "link": "https://toutiao.io/k/1fbel49",

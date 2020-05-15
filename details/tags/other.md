@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1) 
 - [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1) 
 - [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1) 
 - [2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1) 
@@ -699,6 +700,12 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-05-15-知乎高赞：有哪些值得刻意练习的心态？](https://www.ershicimi.com/p/eeabd3bb06bb8cf68d3a20475f876daa) 
+- [2020-05-15-微信里舍不得删的-8-个公众号](https://www.ershicimi.com/p/3e57dd19a49b9d919826406fc8b521f1) 
+- [2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c) 
+- [2020-05-14-史书上轻描淡写的一句话，其实藏着你想象不到的残酷](https://www.ershicimi.com/p/3e513798aa766afcedcff0e8193971b1) 
+- [2020-05-14-袜子内裤到底能不能一起洗？](https://www.ershicimi.com/p/48744cb60ca6761612d79a66a65d8605) 
+- [2020-05-14-知乎故事-|-离婚后不要孩子的女人心狠吗？](https://www.ershicimi.com/p/52d82037244f1e9b90239d8a21bb7d93) 
 - [2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575) 
 - [2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11) 
 - [2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df) 
@@ -774,6 +781,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-为了让快递员送货到家，我把两个快递柜设置成拒收了。](https://www.v2ex.com/t/672205) 
+- [2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204) 
+- [2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203) 
+- [2020-05-15-有没有小伙伴一起上这个-NLP-课的,-交流交流?](https://www.v2ex.com/t/672202) 
 - [2020-05-15-从程序员-/-Geek-的角度看，-618-有什么值得入手的产品吗？](https://www.v2ex.com/t/672201) 
 - [2020-05-15-抖音个人喜欢显示总数有-bug](https://www.v2ex.com/t/672200) 
 - [2020-05-15-Spring-Boot-2.3-is-out](https://www.v2ex.com/t/672198) 

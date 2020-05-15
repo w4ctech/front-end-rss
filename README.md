@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 22:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 23:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1) ![](assets/new.png)  
 - [2020-05-15-海南：1例境外输入无症状感染者转为新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1)  
 - [2020-05-15-韩国104岁新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1)  
 - [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-15-韩日疫情总体趋缓-防疫措施仍要维持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1)  
 - [2020-05-15-“中国下令销毁病毒样本？”-国家卫健委驳蓬佩奥此言论：有意混淆视听！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibVvEPm6qHO1J1kQbvhim200515&isfromapp=1)  
 - [2020-05-15-广东推行家政“安心服务证”-扫码可追溯查询和评价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyp7tgQqoFLC3ObwcAGGR200515&isfromapp=1)  
-- [2020-05-15-疫情趋缓-泰国最大长途汽车客运公司18日起恢复长途客运业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVgvVfBqNYXfa2K136dm5200515&isfromapp=1)  
-- [2020-05-15-武汉进行全员核酸检测-国家卫健委：各地都可动态调整检测策略](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis9kQFc9lfGYjbV7bv0gu200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,6 +1021,12 @@
 </summary>
 
 
+- [2020-05-15-知乎高赞：有哪些值得刻意练习的心态？](https://www.ershicimi.com/p/eeabd3bb06bb8cf68d3a20475f876daa) ![](assets/new.png)  
+- [2020-05-15-微信里舍不得删的-8-个公众号](https://www.ershicimi.com/p/3e57dd19a49b9d919826406fc8b521f1) ![](assets/new.png)  
+- [2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c) ![](assets/new.png)  
+- [2020-05-14-史书上轻描淡写的一句话，其实藏着你想象不到的残酷](https://www.ershicimi.com/p/3e513798aa766afcedcff0e8193971b1) ![](assets/new.png)  
+- [2020-05-14-袜子内裤到底能不能一起洗？](https://www.ershicimi.com/p/48744cb60ca6761612d79a66a65d8605) ![](assets/new.png)  
+- [2020-05-14-知乎故事-|-离婚后不要孩子的女人心狠吗？](https://www.ershicimi.com/p/52d82037244f1e9b90239d8a21bb7d93) ![](assets/new.png)  
 - [2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575)  
 - [2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11)  
 - [2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df)  
@@ -1035,12 +1041,6 @@
 - [2020-05-10-知乎不仅变身知妈乎，还带了两个帮手送福利……](https://www.ershicimi.com/p/98251bae12a41f4569e105f3b43f049a)  
 - [2020-05-10-知乎故事-|-为什么很多年轻人得尿毒症？](https://www.ershicimi.com/p/bc4bc9fdb700d2bf943244882688c547)  
 - [2020-05-09-他他他她她她妈的名场面又来了！](https://www.ershicimi.com/p/4db41509239fb4126e13e2742e02e980)  
-- [2020-05-09-今年最好的母亲节礼物，终于被我发现了](https://www.ershicimi.com/p/046a2b8cc8e4bab676b08f9a5d34c556)  
-- [2020-05-09-朋友圈被刷屏的这些公众号，你关注了几个？](https://www.ershicimi.com/p/432828c9643baa56480c33009beeaab9)  
-- [2020-05-09-知乎故事-|-领证的那天是什么感觉？](https://www.ershicimi.com/p/e9c2a5ce4e3031e375eb7bb4b07f70fa)  
-- [2020-05-08-《女马女马女子里予》——全国妈的争霸实录](https://www.ershicimi.com/p/120f5b2cf70059b7d53096eda6b3e255)  
-- [2020-05-08-清华博士是怎么看动画的？](https://www.ershicimi.com/p/b7cd7f944d22e7b2782af5f0c2529277)  
-- [2020-05-08-学会扬长避短，穿对衣服也能「瘦」十斤](https://www.ershicimi.com/p/6004a20f921ad557825d80e23a3a2705)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,9 +1052,13 @@
 </summary>
 
 
-- [2020-05-15-从程序员-/-Geek-的角度看，-618-有什么值得入手的产品吗？](https://www.v2ex.com/t/672201) ![](assets/new.png)  
-- [2020-05-15-抖音个人喜欢显示总数有-bug](https://www.v2ex.com/t/672200) ![](assets/new.png)  
-- [2020-05-15-明天晚上八点面试绿盟岗位渗透测试，有-V-友了解绿盟吗，怎么样以及面试需要注意什么，本人大三，网络工程的下半年实习了，-base-南昌（华中区）](https://www.v2ex.com/t/672199) ![](assets/new.png)  
+- [2020-05-15-为了让快递员送货到家，我把两个快递柜设置成拒收了。](https://www.v2ex.com/t/672205) ![](assets/new.png)  
+- [2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204) ![](assets/new.png)  
+- [2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203) ![](assets/new.png)  
+- [2020-05-15-有没有小伙伴一起上这个-NLP-课的,-交流交流?](https://www.v2ex.com/t/672202) ![](assets/new.png)  
+- [2020-05-15-从程序员-/-Geek-的角度看，-618-有什么值得入手的产品吗？](https://www.v2ex.com/t/672201)  
+- [2020-05-15-抖音个人喜欢显示总数有-bug](https://www.v2ex.com/t/672200)  
+- [2020-05-15-明天晚上八点面试绿盟岗位渗透测试，有-V-友了解绿盟吗，怎么样以及面试需要注意什么，本人大三，网络工程的下半年实习了，-base-南昌（华中区）](https://www.v2ex.com/t/672199)  
 - [2020-05-15-Spring-Boot-2.3-is-out](https://www.v2ex.com/t/672198)  
 - [2020-05-15-请老铁们推荐一波灭蚊灯](https://www.v2ex.com/t/672197)  
 - [2020-05-15-字节跳动新一轮社招开始啦](https://www.v2ex.com/t/672196)  
@@ -1068,10 +1072,6 @@
 - [2020-05-15-端口受限型-nat-和对称型-nat-无法穿透吗？](https://www.v2ex.com/t/672187)  
 - [2020-05-15-V-友里有做数字货币交易方向产品的吗](https://www.v2ex.com/t/672186)  
 - [2020-05-15-有申请过软著的么，自己去北京登记大厅现场办理，是不是能当场受理？](https://www.v2ex.com/t/672185)  
-- [2020-05-15-屏幕使用时间里面有个旧的已经不用的设备，怎么删除？](https://www.v2ex.com/t/672184)  
-- [2020-05-15-是否有人用过-X-宝上的小厂软路由产品？](https://www.v2ex.com/t/672183)  
-- [2020-05-15-应届生就那么好欺负的吗？校招的悲惨经历](https://www.v2ex.com/t/672182)  
-- [2020-05-15-同样档位的价钱，-AMD-R9-3900x-和-i7-10700k-选谁？](https://www.v2ex.com/t/672181)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

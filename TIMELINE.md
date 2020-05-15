@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 22:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-15 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-海南：1例境外输入无症状感染者转为新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-韩国104岁新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1) 
@@ -563,6 +565,12 @@
 - [【JavaScript】2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) 
 - [【JavaScript】2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) 
 - [【JavaScript】2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805) 
+- [【知乎日报】2020-05-15-知乎高赞：有哪些值得刻意练习的心态？](https://www.ershicimi.com/p/eeabd3bb06bb8cf68d3a20475f876daa) 
+- [【知乎日报】2020-05-15-微信里舍不得删的-8-个公众号](https://www.ershicimi.com/p/3e57dd19a49b9d919826406fc8b521f1) 
+- [【知乎日报】2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c) 
+- [【知乎日报】2020-05-14-史书上轻描淡写的一句话，其实藏着你想象不到的残酷](https://www.ershicimi.com/p/3e513798aa766afcedcff0e8193971b1) 
+- [【知乎日报】2020-05-14-袜子内裤到底能不能一起洗？](https://www.ershicimi.com/p/48744cb60ca6761612d79a66a65d8605) 
+- [【知乎日报】2020-05-14-知乎故事-|-离婚后不要孩子的女人心狠吗？](https://www.ershicimi.com/p/52d82037244f1e9b90239d8a21bb7d93) 
 - [【知乎日报】2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575) 
 - [【知乎日报】2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11) 
 - [【知乎日报】2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df) 
@@ -607,6 +615,10 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-15-为了让快递员送货到家，我把两个快递柜设置成拒收了。](https://www.v2ex.com/t/672205) 
+- [【V2EX】2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204) 
+- [【V2EX】2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203) 
+- [【V2EX】2020-05-15-有没有小伙伴一起上这个-NLP-课的,-交流交流?](https://www.v2ex.com/t/672202) 
 - [【V2EX】2020-05-15-从程序员-/-Geek-的角度看，-618-有什么值得入手的产品吗？](https://www.v2ex.com/t/672201) 
 - [【V2EX】2020-05-15-抖音个人喜欢显示总数有-bug](https://www.v2ex.com/t/672200) 
 - [【V2EX】2020-05-15-明天晚上八点面试绿盟岗位渗透测试，有-V-友了解绿盟吗，怎么样以及面试需要注意什么，本人大三，网络工程的下半年实习了，-base-南昌（华中区）](https://www.v2ex.com/t/672199) 

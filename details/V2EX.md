@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-05-15 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-15-最近在自学乐理，做了个能快速查找调式音阶的小程序](https://www.v2ex.com/t/671992) 
+- [2020-05-15-surfacebook-发烫关机怎么办](https://www.v2ex.com/t/671991) 
+- [2020-05-15-有没有多个-type-c-口的移动电源？](https://www.v2ex.com/t/671990) 
+- [2020-05-15-iOS-上-WhatsApp-消息通知严重延迟](https://www.v2ex.com/t/671989) 
+- [2020-05-15-如何说服领导将管理系统代码从-PHP-重构成-Java](https://www.v2ex.com/t/671987) 
+- [2020-05-15-chrome-在-Mac-的这种问题有碰到过的吗？](https://www.v2ex.com/t/671985) 
+- [2020-05-15-返璞归真，回归薄膜键盘](https://www.v2ex.com/t/671983) 
 - [2020-05-15-nginx-过滤请求功能请教](https://www.v2ex.com/t/671982) 
 - [2020-05-15-澳洲-telstra-访问其他国家网络质量如何？](https://www.v2ex.com/t/671981) 
 - [2020-05-15-也许是全网最低的-MacBook-Pro-渠道价](https://www.v2ex.com/t/671980) 

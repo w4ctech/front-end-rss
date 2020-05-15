@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 00:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 01:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1)  
 - [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1)  
 - [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1)  
 - [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1)  
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-05-16-局域网内-WiFi-传输可以有多快？](https://www.v2ex.com/t/672219) ![](assets/new.png)  
+- [2020-05-16-V2EX-自动加载夜间模式的建议](https://www.v2ex.com/t/672218) ![](assets/new.png)  
+- [2020-05-16-钱花了，教训也没买到](https://www.v2ex.com/t/672217) ![](assets/new.png)  
+- [2020-05-16-没啥。。发错了](https://www.v2ex.com/t/672216) ![](assets/new.png)  
+- [2020-05-15-2020-年-有什么技术或语言可以入手-10-年内保鲜的吗？](https://www.v2ex.com/t/672214) ![](assets/new.png)  
 - [2020-05-15-请教-go-一个继承中有-mutex-问题。](https://www.v2ex.com/t/672213)  
 - [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212)  
 - [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211)  
@@ -1067,11 +1072,6 @@
 - [2020-05-15-明天晚上八点面试绿盟岗位渗透测试，有-V-友了解绿盟吗，怎么样以及面试需要注意什么，本人大三，网络工程的下半年实习了，-base-南昌（华中区）](https://www.v2ex.com/t/672199)  
 - [2020-05-15-Spring-Boot-2.3-is-out](https://www.v2ex.com/t/672198)  
 - [2020-05-15-请老铁们推荐一波灭蚊灯](https://www.v2ex.com/t/672197)  
-- [2020-05-15-字节跳动新一轮社招开始啦](https://www.v2ex.com/t/672196)  
-- [2020-05-15-请问大佬现在香港苹果开发者账号用哪种虚拟卡可以支付？](https://www.v2ex.com/t/672195)  
-- [2020-05-15-如我所料，今天，我被辞了，如何保证拿到-N+1？](https://www.v2ex.com/t/672193)  
-- [2020-05-15-Istio-bookinfo-是如何做到服务发现的？](https://www.v2ex.com/t/672192)  
-- [2020-05-15-对-ddd-的一点疑惑](https://www.v2ex.com/t/672191)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

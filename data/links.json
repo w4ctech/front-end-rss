@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "海南：1例境外输入无症状感染者转为新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
         "title": "韩国104岁新冠肺炎患者治愈出院",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1",
         "date": "2020-05-15"
@@ -7751,6 +7756,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "数据库用多对多关系处理一对多关系，这样可以？",
+        "link": "https://www.v2ex.com/t/672178",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "如何防止 GCP 爆流量 在使用自己行用卡换来的免试用费？",
+        "link": "https://www.v2ex.com/t/672177",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "请问哪里能购买到学习笔记或读书笔记(IT 类)?",
+        "link": "https://www.v2ex.com/t/672176",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "为什么 apple 可以把 mbp 的触摸板做的这么好",
+        "link": "https://www.v2ex.com/t/672175",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "git 一键同步脚本",
+        "link": "https://www.v2ex.com/t/672174",
+        "date": "2020-05-15"
+      },
       {
         "title": "想问下这里有大型 Android app 的开发么，整个项目 200w 行代码以上，你们改下代码增量编译时间是多久。我们项目目前是 30-40s，不知道什么水平",
         "link": "https://www.v2ex.com/t/672173",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-15 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -305,6 +305,7 @@
 - [【前端之巅】2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [【前端之巅】2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
+- [【前端迷】2020-05-15-卧槽，啥情况，极客时间怎么突然免费了?](https://www.ershicimi.com/p/83a6094cfeae44c73a01c09e6fff774c) 
 - [【前端迷】2020-05-14-基于-React、TS的聊天室monorepo实战](https://www.ershicimi.com/p/358684d7dd301e2a13f6bdacadcdcae1) 
 - [【前端迷】2020-05-13-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/448740c6379e4198cbb3bb1878380432) 
 - [【前端迷】2020-05-13-移动端开发的兼容适配与性能优化干货分享](https://www.ershicimi.com/p/37904cf2547febe1f8e3a73031d33730) 
@@ -367,6 +368,7 @@
 - [【前端瓶子君】2020-05-05-我通过了-Google-技术面试，所以你也能行！](https://www.ershicimi.com/p/ea06851a50afb8c1076a2b6d9c096676) 
 - [【前端瓶子君】2020-05-04-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138) 
 - [【前端瓶子君】2020-05-03-Facebook上获赞千万的漫画：《人生的意义》](https://www.ershicimi.com/p/6e4f76bcd6d81a2bba65324b4ab35a5a) 
+- [【程序员成长指北】2020-05-15-无形中提高你工作效率的chrome插件](https://www.ershicimi.com/p/a6a30d1abb795f60cf81a3092faf42d2) 
 - [【程序员成长指北】2020-05-14-工作好几年了，这些前端用法你真的知道吗？](https://www.ershicimi.com/p/fc67000b82c4b63e188bd89c7d07e8a1) 
 - [【程序员成长指北】2020-05-14-移动-Web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/02579c3583636a63a276f637f514ec16) 
 - [【程序员成长指北】2020-05-13-手把手用-UDP-实现-Node-服务日志归集（附完整源码）](https://www.ershicimi.com/p/916d1592492eca55210267f8c0586116) 
@@ -560,6 +562,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-15-🎈正版-优惠购：-Windows10-家庭版/专业版最低仅需-248-元](https://www.v2ex.com/t/671891) 
+- [【V2EX】2020-05-15-字节跳动飞书业务内推](https://www.v2ex.com/t/671890) 
+- [【V2EX】2020-05-15-环保-100-这个网站这么丑的界面-UI-是谁设计的？](https://www.v2ex.com/t/671888) 
+- [【V2EX】2020-05-15-北京某国内-top-AGV-公司-Slam-算法专家-80-100-万/年](https://www.v2ex.com/t/671886) 
+- [【V2EX】2020-05-15-福利分享-限时特价腾讯视频、爱奇艺会员年费-99-元，通通只要-99](https://www.v2ex.com/t/671885) 
+- [【V2EX】2020-05-15-正版-PDF-Expert-for-Mac-仅需-¥99](https://www.v2ex.com/t/671884) 
+- [【V2EX】2020-05-15-话说现在去潮汕玩两天，再回上海，安全吗](https://www.v2ex.com/t/671883) 
+- [【V2EX】2020-05-15-关于-iPhone-命名的问题](https://www.v2ex.com/t/671882) 
+- [【V2EX】2020-05-15-Windows-10-V2004-正式版要来了！修复大量错误、Bug](https://www.v2ex.com/t/671881) 
 - [【V2EX】2020-05-15-摸了一个二刺螈博客主题](https://www.v2ex.com/t/671879) 
 - [【V2EX】2020-05-15-有人遇到过-MBP16-使用外接显卡拓展坞在打开-PD-内的-EXCEL-的时候死机吗？](https://www.v2ex.com/t/671878) 
 - [【V2EX】2020-05-15-阿里雲-cdn-頻繁返回-http-413](https://www.v2ex.com/t/671877) 

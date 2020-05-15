@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -22,6 +22,7 @@
 - [2020-04-17-如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
 - [2020-05-04-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138) 
+- [2020-05-15-无形中提高你工作效率的chrome插件](https://www.ershicimi.com/p/a6a30d1abb795f60cf81a3092faf42d2) 
 - [2020-04-30-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/e2a99e9a539f9a00809c31574d820b11) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
@@ -38,6 +39,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-15-话说现在去潮汕玩两天，再回上海，安全吗](https://www.v2ex.com/t/671883) 
 - [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857) 
 - [2020-05-14-大家怎么看华为-L20-首席安全专家在-GitHub-上发布的-Linux-内核带有很容易被利用的漏洞？-目前华为也表达说这个员工个人行为，不代表公司](https://www.v2ex.com/t/671815) 
 - [2020-05-14-为什么开启代理后会破坏-Firefox-的-ESNI-状态？](https://www.v2ex.com/t/671813) 

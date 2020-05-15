@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -338,6 +338,7 @@
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [2020-05-15-卧槽，啥情况，极客时间怎么突然免费了?](https://www.ershicimi.com/p/83a6094cfeae44c73a01c09e6fff774c) 
 - [2020-05-12-动手开发一个适用于公司项目的脚手架](https://www.ershicimi.com/p/9858c348c3435a92d3a69ef7c55fd006) 
 - [2020-05-10-推荐11个优秀的前端公众号](https://www.ershicimi.com/p/cb1d86de75485cc486c6e744c6e1b19c) 
 - [2020-05-10-推荐一个掘金点赞文章分类检索排序的网站](https://www.ershicimi.com/p/1f55f6aed601fe1321a6bac3687d38bf) 
@@ -745,6 +746,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-🎈正版-优惠购：-Windows10-家庭版/专业版最低仅需-248-元](https://www.v2ex.com/t/671891) 
+- [2020-05-15-字节跳动飞书业务内推](https://www.v2ex.com/t/671890) 
+- [2020-05-15-环保-100-这个网站这么丑的界面-UI-是谁设计的？](https://www.v2ex.com/t/671888) 
+- [2020-05-15-正版-PDF-Expert-for-Mac-仅需-¥99](https://www.v2ex.com/t/671884) 
+- [2020-05-15-关于-iPhone-命名的问题](https://www.v2ex.com/t/671882) 
+- [2020-05-15-Windows-10-V2004-正式版要来了！修复大量错误、Bug](https://www.v2ex.com/t/671881) 
 - [2020-05-15-摸了一个二刺螈博客主题](https://www.v2ex.com/t/671879) 
 - [2020-05-15-有人遇到过-MBP16-使用外接显卡拓展坞在打开-PD-内的-EXCEL-的时候死机吗？](https://www.v2ex.com/t/671878) 
 - [2020-05-15-再见-Office-365，全新-Microsoft-365-高能登场！](https://www.v2ex.com/t/671876) 

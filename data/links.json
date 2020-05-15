@@ -4099,6 +4099,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊：第 107 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html",
+        "date": "2020-05-15"
+      },
+      {
         "title": "科技爱好者周刊：第 106 期",
         "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html",
         "date": "2020-05-08"
@@ -5406,6 +5411,11 @@
     "title": "前端日刊",
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
+      {
+        "title": "Vue SSR 即时编译技术",
+        "link": "https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a",
+        "date": "2020-05-14"
+      },
       {
         "title": "2年进阿里，3年到P6，在北京，他说觉得自己挺牛的",
         "link": "https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c",
@@ -7501,6 +7511,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "256 SSD 是不是小了？换成 512 的应该刚好吧，旧 SSD 如何废物利用？",
+        "link": "https://www.v2ex.com/t/671866",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "为什么国内有些云厂商支持 CentOS 7 却不支持 CentOS 8？",
+        "link": "https://www.v2ex.com/t/671864",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "电信宽带要了公网 ip，是不是就没有 ipV6 了？坐标： 027····",
+        "link": "https://www.v2ex.com/t/671863",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "有没有什么值得参考的 Flutter 和 Android 原生开源应用呢？",
+        "link": "https://www.v2ex.com/t/671862",
+        "date": "2020-05-15"
+      },
       {
         "title": "asss",
         "link": "https://www.v2ex.com/t/671861",
@@ -32650,6 +32680,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "DIY 一个正则匹配引擎",
+        "link": "https://toutiao.io/k/1fbel49",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "Spark 实践：物化视图在 SparkSQL 中的实践",
+        "link": "https://toutiao.io/k/cnwogc7",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "Java 高频面试题：聊一聊 JUC 下的 CopyOnWriteArrayList",
+        "link": "https://toutiao.io/k/9n8ls2a",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "[译] 你不知道的 CSS 国际化",
+        "link": "https://toutiao.io/k/ieif7me",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "在 Go 中使用微服务架构的好处",
+        "link": "https://toutiao.io/k/i9ix1gl",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "使用 Golang 实现 appium/WebDriverAgent 的客户端库",
+        "link": "https://toutiao.io/k/5noafgt",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "Android NestedScrolling 机制（基础篇）",
+        "link": "https://toutiao.io/k/bd5lscg",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "非常简单的 String 驻留池，你对它真的了解吗?",
+        "link": "https://toutiao.io/k/8gl7yf3",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "LTUI v1.7 发布, 一个基于 Lua 的跨平台字符终端 UI 界面库",
+        "link": "https://toutiao.io/k/23k3m7s",
+        "date": "2020-05-15"
+      },
       {
         "title": "迈向 Substrate 的第一步",
         "link": "https://toutiao.io/k/5kjzotk",

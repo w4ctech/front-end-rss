@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 08:30:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 09:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,11 +37,11 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1)  
 - [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1)  
 - [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1)  
 - [2020-05-15-瑞士：感染新冠肺炎人群的免疫力尚不明确](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUBgFpo0DZ40obxRWLump200515&isfromapp=1)  
@@ -663,6 +663,7 @@
 </summary>
 
 
+- [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) ![](assets/new.png)  
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
 - [2020-04-30-科技爱好者周刊：第-105-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)  
 - [2020-04-28-苹果往事：乔布斯和-iPod-的诞生](http://www.ruanyifeng.com/blog/2020/04/ipod-history.html)  
@@ -764,6 +765,7 @@
 </summary>
 
 
+- [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) ![](assets/new.png)  
 - [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c)  
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc)  
 - [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327)  
@@ -1048,13 +1050,17 @@
 </summary>
 
 
-- [2020-05-15-asss](https://www.v2ex.com/t/671861) ![](assets/new.png)  
-- [2020-05-15-视频面试-可远程办公-北美高科技创新公司-Jerry-Ai-软件工程师直招](https://www.v2ex.com/t/671859) ![](assets/new.png)  
-- [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857) ![](assets/new.png)  
-- [2020-05-15-mac-上安装了-office2019-可以预览-docx-文件，但是打不开。](https://www.v2ex.com/t/671856) ![](assets/new.png)  
-- [2020-05-15-什么用-LVS-的-DR-模式做负载均衡看不到监听端口？](https://www.v2ex.com/t/671855) ![](assets/new.png)  
-- [2020-05-15-有下载企业微信回放视频的方法吗](https://www.v2ex.com/t/671854) ![](assets/new.png)  
-- [2020-05-15-视频面试-支持远程办公-北美高科技创新公司-Jerry-Ai-软件工程师岗位直推](https://www.v2ex.com/t/671853) ![](assets/new.png)  
+- [2020-05-15-256-SSD-是不是小了？换成-512-的应该刚好吧，旧-SSD-如何废物利用？](https://www.v2ex.com/t/671866) ![](assets/new.png)  
+- [2020-05-15-为什么国内有些云厂商支持-CentOS-7-却不支持-CentOS-8？](https://www.v2ex.com/t/671864) ![](assets/new.png)  
+- [2020-05-15-电信宽带要了公网-ip，是不是就没有-ipV6-了？坐标：-027····](https://www.v2ex.com/t/671863) ![](assets/new.png)  
+- [2020-05-15-有没有什么值得参考的-Flutter-和-Android-原生开源应用呢？](https://www.v2ex.com/t/671862) ![](assets/new.png)  
+- [2020-05-15-asss](https://www.v2ex.com/t/671861)  
+- [2020-05-15-视频面试-可远程办公-北美高科技创新公司-Jerry-Ai-软件工程师直招](https://www.v2ex.com/t/671859)  
+- [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857)  
+- [2020-05-15-mac-上安装了-office2019-可以预览-docx-文件，但是打不开。](https://www.v2ex.com/t/671856)  
+- [2020-05-15-什么用-LVS-的-DR-模式做负载均衡看不到监听端口？](https://www.v2ex.com/t/671855)  
+- [2020-05-15-有下载企业微信回放视频的方法吗](https://www.v2ex.com/t/671854)  
+- [2020-05-15-视频面试-支持远程办公-北美高科技创新公司-Jerry-Ai-软件工程师岗位直推](https://www.v2ex.com/t/671853)  
 - [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852)  
 - [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851)  
 - [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850)  
@@ -1064,10 +1070,6 @@
 - [2020-05-15-开发了一个短视频去水印的接口分享给大家](https://www.v2ex.com/t/671846)  
 - [2020-05-15-有没有能联网校对时间并自动修改系统时间的小工具？某个手机刷的-ROM-每次重启之后时间都退回到我刷机的那天：-2019-年-12-月的某日，](https://www.v2ex.com/t/671844)  
 - [2020-05-15-iPad-实体键盘输入时，如何隐藏最底部的联想词框（含部分快捷键，如前进后退复制粘贴）](https://www.v2ex.com/t/671843)  
-- [2020-05-15-想到一个打卡的工具，做了一个小程序，但是用户不多，大家帮忙看看是啥原因](https://www.v2ex.com/t/671842)  
-- [2020-05-15-Deno-已來，你來不來？](https://www.v2ex.com/t/671840)  
-- [2020-05-15-20200515-午夜俱乐部](https://www.v2ex.com/t/671838)  
-- [2020-05-15-mbp-一个键下面感觉被东西粘住了，有什么比较简单的解决方法吗](https://www.v2ex.com/t/671837)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1110,26 +1112,26 @@
 </summary>
 
 
-- [2020-05-15-迈向-Substrate-的第一步](https://toutiao.io/k/5kjzotk) ![](assets/new.png)  
-- [2020-05-15-Java-后端开发学习路线-“光头强版”-发布](https://toutiao.io/k/s1kxp4h) ![](assets/new.png)  
-- [2020-05-15-电商平台-Magento-基于-Kubernetes-的容器化实践](https://toutiao.io/k/2xl6v81) ![](assets/new.png)  
-- [2020-05-15-.NET-Core-+-Kubernetes：Deployment](https://toutiao.io/k/2z1vtih) ![](assets/new.png)  
-- [2020-05-15-从三本到-985-再到微软，他做了这些](https://toutiao.io/k/yy1polu) ![](assets/new.png)  
-- [2020-05-15-在搜索引擎广告关键词生成上，算法可以做什么？](https://toutiao.io/k/22akqpo) ![](assets/new.png)  
-- [2020-05-15-Spring-Cloud-Alibaba（二）：Nacos-介绍与环境安装](https://toutiao.io/k/nnsmxyc) ![](assets/new.png)  
+- [2020-05-15-DIY-一个正则匹配引擎](https://toutiao.io/k/1fbel49) ![](assets/new.png)  
+- [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7) ![](assets/new.png)  
+- [2020-05-15-Java-高频面试题：聊一聊-JUC-下的-CopyOnWriteArrayList](https://toutiao.io/k/9n8ls2a) ![](assets/new.png)  
+- [2020-05-15-译-你不知道的-CSS-国际化](https://toutiao.io/k/ieif7me) ![](assets/new.png)  
+- [2020-05-15-在-Go-中使用微服务架构的好处](https://toutiao.io/k/i9ix1gl) ![](assets/new.png)  
+- [2020-05-15-使用-Golang-实现-appium/WebDriverAgent-的客户端库](https://toutiao.io/k/5noafgt) ![](assets/new.png)  
+- [2020-05-15-Android-NestedScrolling-机制（基础篇）](https://toutiao.io/k/bd5lscg) ![](assets/new.png)  
+- [2020-05-15-非常简单的-String-驻留池，你对它真的了解吗?](https://toutiao.io/k/8gl7yf3) ![](assets/new.png)  
+- [2020-05-15-LTUI-v1.7-发布,-一个基于-Lua-的跨平台字符终端-UI-界面库](https://toutiao.io/k/23k3m7s) ![](assets/new.png)  
+- [2020-05-15-迈向-Substrate-的第一步](https://toutiao.io/k/5kjzotk)  
+- [2020-05-15-Java-后端开发学习路线-“光头强版”-发布](https://toutiao.io/k/s1kxp4h)  
+- [2020-05-15-电商平台-Magento-基于-Kubernetes-的容器化实践](https://toutiao.io/k/2xl6v81)  
+- [2020-05-15-.NET-Core-+-Kubernetes：Deployment](https://toutiao.io/k/2z1vtih)  
+- [2020-05-15-从三本到-985-再到微软，他做了这些](https://toutiao.io/k/yy1polu)  
+- [2020-05-15-在搜索引擎广告关键词生成上，算法可以做什么？](https://toutiao.io/k/22akqpo)  
+- [2020-05-15-Spring-Cloud-Alibaba（二）：Nacos-介绍与环境安装](https://toutiao.io/k/nnsmxyc)  
 - [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4)  
 - [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj)  
 - [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa)  
 - [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl)  
-- [2020-05-14-成人网站泄露-108-亿数据后，一个-Elasticsearch-爱好者的思考](https://toutiao.io/k/ow13amu)  
-- [2020-05-14-在小目标检测上另辟蹊径的-SNIP](https://toutiao.io/k/n8jq5wx)  
-- [2020-05-14-译-内核中进行更积极地内存整理-compaction](https://toutiao.io/k/8kqgjff)  
-- [2020-05-14-Flutter-Web-网站之最简方式实现暗黑主题无缝切换](https://toutiao.io/k/9itvjb2)  
-- [2020-05-14-JavaScript-ES-2020-必知必会新特性](https://toutiao.io/k/3iifvy6)  
-- [2020-05-14-如何巧妙回答对用人单位的了解？（面试答题篇-Ⅱ）](https://toutiao.io/k/uiub0h0)  
-- [2020-05-14-Redis-入门，我是认真的](https://toutiao.io/k/y6btnm1)  
-- [2020-05-14-又一-P1-故障，锅比脸圆](https://toutiao.io/k/c0aqdqy)  
-- [2020-05-14-EventBus-源码详细分析：手写-EventBus-核心代码](https://toutiao.io/k/qo26och)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

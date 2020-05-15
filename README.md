@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 19:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 20:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-日本新冠肺炎累计确诊病例达16249例-新增46例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-韩国104岁新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1)  
+- [2020-05-15-日本新冠肺炎累计确诊病例达16249例-新增46例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1)  
+- [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1)  
+- [2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1)  
 - [2020-05-15-西班牙新增新冠肺炎确诊病例549例-累计确诊230183例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFzEPTWMmIbI3CZJwV4C200515&isfromapp=1)  
 - [2020-05-15-日本东京新增9例新冠肺炎确诊病例-每日新增病例首次降至个位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEECdiOsXmynK2QPX5VwS200515&isfromapp=1)  
 - [2020-05-15-日本政府首次认定2位感染新冠肺炎的医疗从业人员为工伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articm6NPOe6wDui9qOt133v200515&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-15-疫情趋缓-泰国最大长途汽车客运公司18日起恢复长途客运业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVgvVfBqNYXfa2K136dm5200515&isfromapp=1)  
 - [2020-05-15-武汉进行全员核酸检测-国家卫健委：各地都可动态调整检测策略](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis9kQFc9lfGYjbV7bv0gu200515&isfromapp=1)  
 - [2020-05-15-为扩大新冠病毒筛查力度-阿联酋迪拜推出移动检测中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinXm8KXtjp7zlMGFyzheO200515&isfromapp=1)  
-- [2020-05-15-辽宁具备新冠病毒核酸检测资质医疗机构增至52家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieuqmHnxVsaDXUS9q307m200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1051,13 +1051,13 @@
 </summary>
 
 
-- [2020-05-15-有没有晚上一直磨牙的](https://www.v2ex.com/t/672150) ![](assets/new.png)  
-- [2020-05-15-Coding-page-是不是挂了。。](https://www.v2ex.com/t/672149) ![](assets/new.png)  
-- [2020-05-15-也许是史上最全的广告拦截规则整理](https://www.v2ex.com/t/672148) ![](assets/new.png)  
-- [2020-05-15-杭州-蚂蚁金服旗下分布式数据库-OceanBase-成立新公司，诚聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/672147) ![](assets/new.png)  
-- [2020-05-15-Chrome-访问网页出现-413-错误](https://www.v2ex.com/t/672146) ![](assets/new.png)  
-- [2020-05-15-wsl-对-win10-有什么互补的基本功能呢](https://www.v2ex.com/t/672145) ![](assets/new.png)  
-- [2020-05-15-V-友们，还有人在玩涂鸦跳跃小游戏嘛，好奇的问问？](https://www.v2ex.com/t/672144) ![](assets/new.png)  
+- [2020-05-15-有没有晚上一直磨牙的](https://www.v2ex.com/t/672150)  
+- [2020-05-15-Coding-page-是不是挂了。。](https://www.v2ex.com/t/672149)  
+- [2020-05-15-也许是史上最全的广告拦截规则整理](https://www.v2ex.com/t/672148)  
+- [2020-05-15-杭州-蚂蚁金服旗下分布式数据库-OceanBase-成立新公司，诚聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/672147)  
+- [2020-05-15-Chrome-访问网页出现-413-错误](https://www.v2ex.com/t/672146)  
+- [2020-05-15-wsl-对-win10-有什么互补的基本功能呢](https://www.v2ex.com/t/672145)  
+- [2020-05-15-V-友们，还有人在玩涂鸦跳跃小游戏嘛，好奇的问问？](https://www.v2ex.com/t/672144)  
 - [2020-05-15-话说刚被丰巢收购的速递易一直收费,-为什么没这么大的声讨?](https://www.v2ex.com/t/672143)  
 - [2020-05-15-iOS-“文件”App-有点疑惑](https://www.v2ex.com/t/672142)  
 - [2020-05-15-亚马逊云没信用卡怎么支付？](https://www.v2ex.com/t/672140)  

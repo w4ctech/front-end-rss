@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 23:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 00:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1)  
 - [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1)  
 - [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1)  
 - [2020-05-15-海南：1例境外输入无症状感染者转为新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-15-国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1)  
 - [2020-05-15-俄罗斯新冠肺炎累计确诊病例达262843例-新增10598例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex2OyUOv9U4z16iL1TBT200515&isfromapp=1)  
 - [2020-05-15-韩日疫情总体趋缓-防疫措施仍要维持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1)  
-- [2020-05-15-“中国下令销毁病毒样本？”-国家卫健委驳蓬佩奥此言论：有意混淆视听！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibVvEPm6qHO1J1kQbvhim200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,12 +1052,12 @@
 </summary>
 
 
-- [2020-05-15-请教-go-一个继承中有-mutex-问题。](https://www.v2ex.com/t/672213) ![](assets/new.png)  
-- [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212) ![](assets/new.png)  
-- [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211) ![](assets/new.png)  
-- [2020-05-15-不懂就问，移动的光猫自带的无线速度被限制了吗](https://www.v2ex.com/t/672210) ![](assets/new.png)  
-- [2020-05-15-各位大佬，朋友被骗了几十万，能不能用技术手段获取到骗子的一些信息？](https://www.v2ex.com/t/672208) ![](assets/new.png)  
-- [2020-05-15-真心请教出路！跟实习公司签三方网签的时候，公司要求先签网签，签完之后谈薪酬。](https://www.v2ex.com/t/672207) ![](assets/new.png)  
+- [2020-05-15-请教-go-一个继承中有-mutex-问题。](https://www.v2ex.com/t/672213)  
+- [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212)  
+- [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211)  
+- [2020-05-15-不懂就问，移动的光猫自带的无线速度被限制了吗](https://www.v2ex.com/t/672210)  
+- [2020-05-15-各位大佬，朋友被骗了几十万，能不能用技术手段获取到骗子的一些信息？](https://www.v2ex.com/t/672208)  
+- [2020-05-15-真心请教出路！跟实习公司签三方网签的时候，公司要求先签网签，签完之后谈薪酬。](https://www.v2ex.com/t/672207)  
 - [2020-05-15-为了让快递员送货到家，我把两个快递柜设置成拒收了。](https://www.v2ex.com/t/672205)  
 - [2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204)  
 - [2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203)  

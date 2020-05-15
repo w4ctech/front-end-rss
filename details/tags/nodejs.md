@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -36,6 +36,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-15-重复造轮子之-Music_Radio----基于-nodejs-的-在线同步音乐播放平台。。](https://www.v2ex.com/t/672157) 
 - [2020-05-15-可以在命令行查看-node.js-官方文档的工具](https://www.v2ex.com/t/672021) 
 - [2020-05-15-electron-在-web-worker-子线程中无法引入-sqlite3](https://www.v2ex.com/t/671942) 
 - [2020-05-14-Deno-正式发布，彻底弄明白和-node-的区别](https://www.v2ex.com/t/671814) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -131,6 +131,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-15-Tag-页面手机未适配？](https://www.v2ex.com/t/672165) 
 - [2020-05-15-不用-CNZZ-插件，自己用-javascript-如何实现获取用户浏览单个网页的时长，浏览到哪个位置？](https://www.v2ex.com/t/672035) 
 - [2020-05-15-浏览器左下角一直闪现-loading-xxx.js-，这个可以不显示吗？](https://www.v2ex.com/t/671956) 
 - [2020-05-15-正则切分字符串的问题](https://www.v2ex.com/t/671899) 

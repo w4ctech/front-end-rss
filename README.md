@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 07:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 08:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-瑞士：感染新冠肺炎人群的免疫力尚不明确](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUBgFpo0DZ40obxRWLump200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过425万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2v79Co5DqYdQ8lri4I3R200515&isfromapp=1) ![](assets/new.png)  
 - [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1)  
 - [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1)  
 - [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1)  
 - [2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1)  
 - [2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html)  
-- [2020-05-14-吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年5月14日公布）](http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202005/t20200514_7217485.html)  
-- [2020-05-14-扩大新冠肺炎检测规模-新加坡设移动式检测站](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNShl3lGTqQguO5FZUSxl200514&isfromapp=1)  
-- [2020-05-14-世卫组织：解除封锁需谨慎-避免再次封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1)  
-- [2020-05-14-加拿大卫生部批准首例新冠病毒抗体的血清学测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -223,8 +223,8 @@
 </summary>
 
 
-- [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f) ![](assets/new.png)  
-- [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d) ![](assets/new.png)  
+- [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
+- [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
 - [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
@@ -1048,10 +1048,10 @@
 </summary>
 
 
-- [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852) ![](assets/new.png)  
-- [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851) ![](assets/new.png)  
-- [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850) ![](assets/new.png)  
-- [2020-05-15-pon-无源光网络中，局端发到终端的数据会可能被其他人监听到吗？](https://www.v2ex.com/t/671849) ![](assets/new.png)  
+- [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852)  
+- [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851)  
+- [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850)  
+- [2020-05-15-pon-无源光网络中，局端发到终端的数据会可能被其他人监听到吗？](https://www.v2ex.com/t/671849)  
 - [2020-05-15-Laravel-框架能够正常地使用-PHP-artisan-migrate-进行迁移，但是利用-Eloquent-模型访问数据库时提示-connection-refused](https://www.v2ex.com/t/671848)  
 - [2020-05-15-有意思的更新:-C++程序编译成-wasm-在文档中交互执行](https://www.v2ex.com/t/671847)  
 - [2020-05-15-开发了一个短视频去水印的接口分享给大家](https://www.v2ex.com/t/671846)  

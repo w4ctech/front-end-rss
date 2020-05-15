@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 23:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 23:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1)  
+- [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1)  
 - [2020-05-15-海南：1例境外输入无症状感染者转为新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1)  
 - [2020-05-15-韩国104岁新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1)  
 - [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-15-俄罗斯新冠肺炎累计确诊病例达262843例-新增10598例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex2OyUOv9U4z16iL1TBT200515&isfromapp=1)  
 - [2020-05-15-韩日疫情总体趋缓-防疫措施仍要维持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1)  
 - [2020-05-15-“中国下令销毁病毒样本？”-国家卫健委驳蓬佩奥此言论：有意混淆视听！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibVvEPm6qHO1J1kQbvhim200515&isfromapp=1)  
-- [2020-05-15-广东推行家政“安心服务证”-扫码可追溯查询和评价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyp7tgQqoFLC3ObwcAGGR200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,12 +1021,12 @@
 </summary>
 
 
-- [2020-05-15-知乎高赞：有哪些值得刻意练习的心态？](https://www.ershicimi.com/p/eeabd3bb06bb8cf68d3a20475f876daa) ![](assets/new.png)  
-- [2020-05-15-微信里舍不得删的-8-个公众号](https://www.ershicimi.com/p/3e57dd19a49b9d919826406fc8b521f1) ![](assets/new.png)  
-- [2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c) ![](assets/new.png)  
-- [2020-05-14-史书上轻描淡写的一句话，其实藏着你想象不到的残酷](https://www.ershicimi.com/p/3e513798aa766afcedcff0e8193971b1) ![](assets/new.png)  
-- [2020-05-14-袜子内裤到底能不能一起洗？](https://www.ershicimi.com/p/48744cb60ca6761612d79a66a65d8605) ![](assets/new.png)  
-- [2020-05-14-知乎故事-|-离婚后不要孩子的女人心狠吗？](https://www.ershicimi.com/p/52d82037244f1e9b90239d8a21bb7d93) ![](assets/new.png)  
+- [2020-05-15-知乎高赞：有哪些值得刻意练习的心态？](https://www.ershicimi.com/p/eeabd3bb06bb8cf68d3a20475f876daa)  
+- [2020-05-15-微信里舍不得删的-8-个公众号](https://www.ershicimi.com/p/3e57dd19a49b9d919826406fc8b521f1)  
+- [2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c)  
+- [2020-05-14-史书上轻描淡写的一句话，其实藏着你想象不到的残酷](https://www.ershicimi.com/p/3e513798aa766afcedcff0e8193971b1)  
+- [2020-05-14-袜子内裤到底能不能一起洗？](https://www.ershicimi.com/p/48744cb60ca6761612d79a66a65d8605)  
+- [2020-05-14-知乎故事-|-离婚后不要孩子的女人心狠吗？](https://www.ershicimi.com/p/52d82037244f1e9b90239d8a21bb7d93)  
 - [2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575)  
 - [2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11)  
 - [2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df)  
@@ -1052,10 +1052,16 @@
 </summary>
 
 
-- [2020-05-15-为了让快递员送货到家，我把两个快递柜设置成拒收了。](https://www.v2ex.com/t/672205) ![](assets/new.png)  
-- [2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204) ![](assets/new.png)  
-- [2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203) ![](assets/new.png)  
-- [2020-05-15-有没有小伙伴一起上这个-NLP-课的,-交流交流?](https://www.v2ex.com/t/672202) ![](assets/new.png)  
+- [2020-05-15-请教-go-一个继承中有-mutex-问题。](https://www.v2ex.com/t/672213) ![](assets/new.png)  
+- [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212) ![](assets/new.png)  
+- [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211) ![](assets/new.png)  
+- [2020-05-15-不懂就问，移动的光猫自带的无线速度被限制了吗](https://www.v2ex.com/t/672210) ![](assets/new.png)  
+- [2020-05-15-各位大佬，朋友被骗了几十万，能不能用技术手段获取到骗子的一些信息？](https://www.v2ex.com/t/672208) ![](assets/new.png)  
+- [2020-05-15-真心请教出路！跟实习公司签三方网签的时候，公司要求先签网签，签完之后谈薪酬。](https://www.v2ex.com/t/672207) ![](assets/new.png)  
+- [2020-05-15-为了让快递员送货到家，我把两个快递柜设置成拒收了。](https://www.v2ex.com/t/672205)  
+- [2020-05-15-各位大佬，我注册了两个-PP-号，两个号之间不能转帐付款吗？](https://www.v2ex.com/t/672204)  
+- [2020-05-15-字节跳动飞书内推！](https://www.v2ex.com/t/672203)  
+- [2020-05-15-有没有小伙伴一起上这个-NLP-课的,-交流交流?](https://www.v2ex.com/t/672202)  
 - [2020-05-15-从程序员-/-Geek-的角度看，-618-有什么值得入手的产品吗？](https://www.v2ex.com/t/672201)  
 - [2020-05-15-抖音个人喜欢显示总数有-bug](https://www.v2ex.com/t/672200)  
 - [2020-05-15-明天晚上八点面试绿盟岗位渗透测试，有-V-友了解绿盟吗，怎么样以及面试需要注意什么，本人大三，网络工程的下半年实习了，-base-南昌（华中区）](https://www.v2ex.com/t/672199)  
@@ -1066,12 +1072,6 @@
 - [2020-05-15-如我所料，今天，我被辞了，如何保证拿到-N+1？](https://www.v2ex.com/t/672193)  
 - [2020-05-15-Istio-bookinfo-是如何做到服务发现的？](https://www.v2ex.com/t/672192)  
 - [2020-05-15-对-ddd-的一点疑惑](https://www.v2ex.com/t/672191)  
-- [2020-05-15-因为疫情没事，我花了两个月时间写了一个新标签页浏览器插件](https://www.v2ex.com/t/672190)  
-- [2020-05-15-求大佬们帮看一看这个黑苹果双系统的配置](https://www.v2ex.com/t/672189)  
-- [2020-05-15-微信红包生成器-APP-被腾讯起诉，被判赔偿-75-万](https://www.v2ex.com/t/672188)  
-- [2020-05-15-端口受限型-nat-和对称型-nat-无法穿透吗？](https://www.v2ex.com/t/672187)  
-- [2020-05-15-V-友里有做数字货币交易方向产品的吗](https://www.v2ex.com/t/672186)  
-- [2020-05-15-有申请过软著的么，自己去北京登记大厅现场办理，是不是能当场受理？](https://www.v2ex.com/t/672185)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

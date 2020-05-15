@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "英国新增新冠肺炎确诊病例3560例 累计236711例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
         "title": "罗马尼亚新增190例新冠肺炎确诊病例 紧急状态降为戒备状态",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1",
         "date": "2020-05-15"
@@ -7801,6 +7806,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "请教 go 一个继承中有 mutex 问题。",
+        "link": "https://www.v2ex.com/t/672213",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?",
+        "link": "https://www.v2ex.com/t/672212",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？",
+        "link": "https://www.v2ex.com/t/672211",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "不懂就问，移动的光猫自带的无线速度被限制了吗",
+        "link": "https://www.v2ex.com/t/672210",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "各位大佬，朋友被骗了几十万，能不能用技术手段获取到骗子的一些信息？",
+        "link": "https://www.v2ex.com/t/672208",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "真心请教出路！跟实习公司签三方网签的时候，公司要求先签网签，签完之后谈薪酬。",
+        "link": "https://www.v2ex.com/t/672207",
+        "date": "2020-05-15"
+      },
       {
         "title": "为了让快递员送货到家，我把两个快递柜设置成拒收了。",
         "link": "https://www.v2ex.com/t/672205",

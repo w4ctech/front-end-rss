@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 12:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 12:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1051,26 +1051,26 @@
 </summary>
 
 
-- [2020-05-15-CODING-敏捷实战系列课第四讲：从头搭建持续集成-DevOps-流水线](https://www.v2ex.com/t/671959) ![](assets/new.png)  
-- [2020-05-15-使用-TypeScript-开发了一个-Tank-游戏](https://www.v2ex.com/t/671958) ![](assets/new.png)  
-- [2020-05-15-部分程序员对这个社会的认知是不是出现了偏差？](https://www.v2ex.com/t/671957) ![](assets/new.png)  
-- [2020-05-15-浏览器左下角一直闪现-loading-xxx.js-，这个可以不显示吗？](https://www.v2ex.com/t/671956) ![](assets/new.png)  
-- [2020-05-15-中文代码快速补全-VS-Code-插件-1.0.4-发布：新添五笔和双拼支持（beta）](https://www.v2ex.com/t/671955) ![](assets/new.png)  
-- [2020-05-15-四惠，远洋天地-一起整租-苦于没找到合适的房子，希望有小伙伴可以一起整租一个](https://www.v2ex.com/t/671954) ![](assets/new.png)  
-- [2020-05-15-有点纠结,请大家来出出主意](https://www.v2ex.com/t/671953) ![](assets/new.png)  
-- [2020-05-15-临时写了一个遍历树的方法，求改成尾递归。](https://www.v2ex.com/t/671952) ![](assets/new.png)  
-- [2020-05-15-为什么-2000-年后各国反垄断法在互联网上都销声匿迹了？](https://www.v2ex.com/t/671951) ![](assets/new.png)  
-- [2020-05-15-写了一个-AppUI-全家桶的开发框架,-专注-Webapp-轻应用快速开发多年,-jquery,vue-都能轻松上手](https://www.v2ex.com/t/671950) ![](assets/new.png)  
-- [2020-05-15-大型视频类网站如何部署服务器](https://www.v2ex.com/t/671949) ![](assets/new.png)  
-- [2020-05-15-腾讯云推-cdn-特惠活动，新购买-5TB-送-5TB-流量折后价格-480，-6-个月有效期，每-G-4.8-分钱（腾讯是按-1000-除的，不是-1024）-需要的可加：-MTg2NjcxMjAzMjE...](https://www.v2ex.com/t/671948) ![](assets/new.png)  
-- [2020-05-15-裁员是企业渡过难关的万金油吗](https://www.v2ex.com/t/671947) ![](assets/new.png)  
-- [2020-05-15-问一下后端的同学为何你们传参都喜欢-int-1234](https://www.v2ex.com/t/671946) ![](assets/new.png)  
-- [2020-05-15-有没有与罗技-MX-master-2-类似，但是模具矮点的蓝牙鼠标？](https://www.v2ex.com/t/671945)  
-- [2020-05-15-淘宝物联卡/流量卡还是随声-WiFi-划算](https://www.v2ex.com/t/671944)  
-- [2020-05-15-electron-在-web-worker-子线程中无法引入-sqlite3](https://www.v2ex.com/t/671942)  
-- [2020-05-15-深圳-移动卡网速比电信卡快么？](https://www.v2ex.com/t/671941)  
-- [2020-05-15-server-2019-当-win10-用有什么坑么](https://www.v2ex.com/t/671939)  
-- [2020-05-15-CODING-敏捷实战系列课第三讲：可视化业务分析](https://www.v2ex.com/t/671936)  
+- [2020-05-15-自用-StrokesPlusNet-手势分享](https://www.v2ex.com/t/671973) ![](assets/new.png)  
+- [2020-05-15-Portainer-是不是无法修改已存在容器的配置？](https://www.v2ex.com/t/671972) ![](assets/new.png)  
+- [2020-05-15-阿里小号-无法开机](https://www.v2ex.com/t/671971) ![](assets/new.png)  
+- [2020-05-15-淘宝监听一开始我觉得很扯，但是直到亲自发生后才开始怀疑](https://www.v2ex.com/t/671969) ![](assets/new.png)  
+- [2020-05-15-知乎反作弊系统的机制是什么？](https://www.v2ex.com/t/671968) ![](assets/new.png)  
+- [2020-05-15-国内互联网环境](https://www.v2ex.com/t/671967) ![](assets/new.png)  
+- [2020-05-15-腾讯优量汇发布公告，-6-月-1-日起不在提供个人服务~~](https://www.v2ex.com/t/671965) ![](assets/new.png)  
+- [2020-05-15-微信小程序预览和真机调试效果不一样啊](https://www.v2ex.com/t/671964) ![](assets/new.png)  
+- [2020-05-15-airdrop-显示在“AppStore/文件中打开”](https://www.v2ex.com/t/671963) ![](assets/new.png)  
+- [2020-05-15-真正的掌握是否趋向于理想化](https://www.v2ex.com/t/671962) ![](assets/new.png)  
+- [2020-05-15-有专门抠人物背景的-api？](https://www.v2ex.com/t/671961) ![](assets/new.png)  
+- [2020-05-15-内推-阿里巴巴国际化部门-AE-技术部-P6-起-前端-Java-客户端-算法都有-HC](https://www.v2ex.com/t/671960) ![](assets/new.png)  
+- [2020-05-15-CODING-敏捷实战系列课第四讲：从头搭建持续集成-DevOps-流水线](https://www.v2ex.com/t/671959)  
+- [2020-05-15-使用-TypeScript-开发了一个-Tank-游戏](https://www.v2ex.com/t/671958)  
+- [2020-05-15-部分程序员对这个社会的认知是不是出现了偏差？](https://www.v2ex.com/t/671957)  
+- [2020-05-15-浏览器左下角一直闪现-loading-xxx.js-，这个可以不显示吗？](https://www.v2ex.com/t/671956)  
+- [2020-05-15-中文代码快速补全-VS-Code-插件-1.0.4-发布：新添五笔和双拼支持（beta）](https://www.v2ex.com/t/671955)  
+- [2020-05-15-四惠，远洋天地-一起整租-苦于没找到合适的房子，希望有小伙伴可以一起整租一个](https://www.v2ex.com/t/671954)  
+- [2020-05-15-有点纠结,请大家来出出主意](https://www.v2ex.com/t/671953)  
+- [2020-05-15-临时写了一个遍历树的方法，求改成尾递归。](https://www.v2ex.com/t/671952)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1113,7 +1113,8 @@
 </summary>
 
 
-- [2020-05-15-你还应该知道的哈希冲突解决策略](https://toutiao.io/k/l9h8sm4) ![](assets/new.png)  
+- [2020-05-15-我为什么用-ES-做-Redis-监控，不用-Prometheus-或-Zabbix？](https://toutiao.io/k/p8s72qa) ![](assets/new.png)  
+- [2020-05-15-你还应该知道的哈希冲突解决策略](https://toutiao.io/k/l9h8sm4)  
 - [2020-05-15-译-是时候考虑-Spring-非阻塞编程模式？R2DBC-pk-JDBC-和-WebFlux-pk-Web-MVC-评测数据](https://toutiao.io/k/aee2rhl)  
 - [2020-05-15-DIY-一个正则匹配引擎](https://toutiao.io/k/1fbel49)  
 - [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7)  
@@ -1132,7 +1133,6 @@
 - [2020-05-15-在搜索引擎广告关键词生成上，算法可以做什么？](https://toutiao.io/k/22akqpo)  
 - [2020-05-15-Spring-Cloud-Alibaba（二）：Nacos-介绍与环境安装](https://toutiao.io/k/nnsmxyc)  
 - [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4)  
-- [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

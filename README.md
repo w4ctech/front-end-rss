@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 17:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 18:00:21，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,12 @@
 </summary>
 
 
-- [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-西班牙新增新冠肺炎确诊病例549例-累计确诊230183例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFzEPTWMmIbI3CZJwV4C200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-日本东京新增9例新冠肺炎确诊病例-每日新增病例首次降至个位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEECdiOsXmynK2QPX5VwS200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-日本政府首次认定2位感染新冠肺炎的医疗从业人员为工伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articm6NPOe6wDui9qOt133v200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-比利时：一级方程式大奖赛比利时站将于8月举办](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC1kKrybmNaRRRoCtlob9200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过430万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPJNZv4Efkdh4CUD95V3u200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1)  
 - [2020-05-15-泰国：将从17日起实施第二阶段“解封”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1)  
 - [2020-05-15-国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1)  
 - [2020-05-15-俄罗斯新冠肺炎累计确诊病例达262843例-新增10598例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex2OyUOv9U4z16iL1TBT200515&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-15-帮扶旅游文化产业、投资基础设施-欧洲多国出台措施恢复经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKGTgx9T9nl53DEVeOyCB200515&isfromapp=1)  
 - [2020-05-15-​宁夏中考笔试时间定于7月18日至20日-同时取消体育测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RrEHqJLUNcBDdOXQ7e8200515&isfromapp=1)  
 - [2020-05-15-损失！马来西亚百货店关门两月-皮具“长毛”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitlRwMPuc2NfDcoevFTL4200515&isfromapp=1)  
-- [2020-05-15-亚行：新冠疫情使全球经济损失可能达8.8万亿美元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSnmGXjgznVQEEEGMX4xy200515&isfromapp=1)  
-- [2020-05-15-西安27家机构可进行核酸检测-支持群众自愿自费检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ22lihuZFtnGDwYpOlv3200515&isfromapp=1)  
-- [2020-05-15-进一步削减经费-东京奥组委对100多个项目进行重新梳理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tUoaw87f0pTS01bgk1x200515&isfromapp=1)  
-- [2020-05-15-陕西开辟绿色通道-定向招聘188名援鄂医务人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJFT8CO73lxGrnHqgMrJt200515&isfromapp=1)  
-- [2020-05-15-财政部-国家税务总局：部分税费减免！支持电影等行业发展](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQAN199TcldDtZuE7OL8200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1051,26 +1051,26 @@
 </summary>
 
 
-- [2020-05-15-为什么我作为一个外行这么喜欢逛你们划水的-v2](https://www.v2ex.com/t/672098) ![](assets/new.png)  
-- [2020-05-15-超级右键使用的问题](https://www.v2ex.com/t/672097) ![](assets/new.png)  
-- [2020-05-15-马上-520-了，该送女孩子什么礼物好呢？](https://www.v2ex.com/t/672096) ![](assets/new.png)  
-- [2020-05-15-都-2020-年了-苹果老一代的-Thunderbolt-Display-MC914-还香不香？](https://www.v2ex.com/t/672095) ![](assets/new.png)  
-- [2020-05-15-vue-项目里面多余的代码怎么删除？](https://www.v2ex.com/t/672094) ![](assets/new.png)  
-- [2020-05-15-大家的-React-和-Vue-是不是都配合-JWT-做登录管理](https://www.v2ex.com/t/672093) ![](assets/new.png)  
-- [2020-05-15-《文明-6》、《无主之地》继《GTA5》之后排队限免](https://www.v2ex.com/t/672092) ![](assets/new.png)  
-- [2020-05-15-感觉某学英语-APP-的线下微信群有托，是我的错觉吗](https://www.v2ex.com/t/672091) ![](assets/new.png)  
-- [2020-05-15-丰巢是如何把自己干没的？](https://www.v2ex.com/t/672090) ![](assets/new.png)  
-- [2020-05-15-关于近期给公司开发居家办法的一些突发奇想](https://www.v2ex.com/t/672089) ![](assets/new.png)  
-- [2020-05-15-Fecmall-Fecyo-1.7.3-真正开源，商用免费授权-版本发布，全面完善微&信&小程序入口-已完成](https://www.v2ex.com/t/672086) ![](assets/new.png)  
-- [2020-05-15-epic-免费领-GTA5-没玩过的抓紧咯](https://www.v2ex.com/t/672085) ![](assets/new.png)  
-- [2020-05-15-推一款新做的旅游小程序](https://www.v2ex.com/t/672084) ![](assets/new.png)  
-- [2020-05-15-spring-boot-如何优雅地实现-RESTful,统一结果封装有没有必要](https://www.v2ex.com/t/672082) ![](assets/new.png)  
-- [2020-05-15-真正开源，商用免费授权-Fecyo-1.7.3-版本发布，全面完善微&信&小程序入口-已完成](https://www.v2ex.com/t/672080) ![](assets/new.png)  
-- [2020-05-15-西安投简历，都是已读](https://www.v2ex.com/t/672079)  
-- [2020-05-15-你们给父母送过什么生日礼物？](https://www.v2ex.com/t/672078)  
-- [2020-05-15-md101/102，升级-16-内存和固态硬盘，模拟-Vware-能跑-gtav-吗？](https://www.v2ex.com/t/672077)  
-- [2020-05-15-现在买-Apple-TV-合适么？还是说等到秋天看看？](https://www.v2ex.com/t/672076)  
-- [2020-05-15-关于-SNPE-平台上-onnx-模型转-dlc-模型](https://www.v2ex.com/t/672075)  
+- [2020-05-15-现在才知道，-Python-里的数字还能用下划线分开](https://www.v2ex.com/t/672132) ![](assets/new.png)  
+- [2020-05-15-搜索引擎网站被-Yahoo-劫持](https://www.v2ex.com/t/672131) ![](assets/new.png)  
+- [2020-05-15-看来以后-4.5-天弹性工作制成为大趋势了，我放弃抵抗](https://www.v2ex.com/t/672130) ![](assets/new.png)  
+- [2020-05-15-npm-插件，抽离*.vue-中的模版代码生成-Scss-代码骨架](https://www.v2ex.com/t/672129) ![](assets/new.png)  
+- [2020-05-15-通过-Python-的-pip-安装的各种包的许可协议有规范吗](https://www.v2ex.com/t/672128) ![](assets/new.png)  
+- [2020-05-15-CODING-敏捷实战系列课第五讲：敏捷中国史](https://www.v2ex.com/t/672127) ![](assets/new.png)  
+- [2020-05-15-为什么这上面我改不了头像🙊](https://www.v2ex.com/t/672126) ![](assets/new.png)  
+- [2020-05-15-恳请大佬们给个-demo](https://www.v2ex.com/t/672125) ![](assets/new.png)  
+- [2020-05-15-哪个行业更锻炼人呢？](https://www.v2ex.com/t/672124) ![](assets/new.png)  
+- [2020-05-15-星巴克为什么不支持微信小程序点餐，技术问题还是品牌的倔强](https://www.v2ex.com/t/672123) ![](assets/new.png)  
+- [2020-05-15-怎样才算真正看过了源码？](https://www.v2ex.com/t/672122) ![](assets/new.png)  
+- [2020-05-15-你觉得哪个职业和程序员最像?](https://www.v2ex.com/t/672121) ![](assets/new.png)  
+- [2020-05-15-TPE-S4-修好了？](https://www.v2ex.com/t/672119) ![](assets/new.png)  
+- [2020-05-15-能给-Microsoft-Edge-Dev-提一些功能建议吗？](https://www.v2ex.com/t/672118) ![](assets/new.png)  
+- [2020-05-15-北京朝阳-高级-FPGA-开发工程师，量化系统硬件加速](https://www.v2ex.com/t/672117) ![](assets/new.png)  
+- [2020-05-15-有这样的浏览器插件么?](https://www.v2ex.com/t/672116) ![](assets/new.png)  
+- [2020-05-15-根据不同参数调用不同方法该怎么设计？](https://www.v2ex.com/t/672114) ![](assets/new.png)  
+- [2020-05-15-网易云音乐-Android-你是浏览器吗？](https://www.v2ex.com/t/672112) ![](assets/new.png)  
+- [2020-05-15-如何入职阿里前端岗？](https://www.v2ex.com/t/672111) ![](assets/new.png)  
+- [2020-05-15-这一天天的，不是在开会，就是在开会的路上](https://www.v2ex.com/t/672110) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

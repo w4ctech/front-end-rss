@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 07:00:23，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 07:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201) ![](assets/new.png)  
+- [2020-05-16-斯洛文尼亚宣布本国新冠疫情结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1)  
 - [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1)  
 - [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1)  
 - [2020-05-15-泰国：将从17日起实施第二阶段“解封”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1)  
 - [2020-05-15-国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1)  
-- [2020-05-15-俄罗斯新冠肺炎累计确诊病例达262843例-新增10598例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex2OyUOv9U4z16iL1TBT200515&isfromapp=1)  
-- [2020-05-15-韩日疫情总体趋缓-防疫措施仍要维持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -224,8 +224,8 @@
 </summary>
 
 
-- [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) ![](assets/new.png)  
-- [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0) ![](assets/new.png)  
+- [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
+- [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)  
 - [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
 - [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232) ![](assets/new.png)  
+- [2020-05-16-window.onload-和-async-的执行顺序有区别吗，哪个先执行？](https://www.v2ex.com/t/672233) ![](assets/new.png)  
+- [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232)  
 - [2020-05-16-1-张公交卡+1-张签到门禁卡+1-张非签到门禁卡，如果三合一，手环/手表还是淘宝多合一？](https://www.v2ex.com/t/672231)  
 - [2020-05-16-H3C-路由器开启-DMZ-后为什么-NAT-类型没有变化](https://www.v2ex.com/t/672230)  
 - [2020-05-16-为什么-MIUI12-不放线刷包（fastboot-rom）了](https://www.v2ex.com/t/672229)  
@@ -1071,7 +1072,6 @@
 - [2020-05-15-请教-go-一个继承中有-mutex-问题。](https://www.v2ex.com/t/672213)  
 - [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212)  
 - [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211)  
-- [2020-05-15-不懂就问，移动的光猫自带的无线速度被限制了吗](https://www.v2ex.com/t/672210)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

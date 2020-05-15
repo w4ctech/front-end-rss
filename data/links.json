@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美疾控中心：美国新冠死亡病例月底预计将超 10 万",
+        "link": "http://m.weibo.cn/2803301701/4505105258928201",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "斯洛文尼亚宣布本国新冠疫情结束",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1",
+        "date": "2020-05-16"
+      },
+      {
         "title": "印度最大贫民窟新增84例新冠肺炎确诊病例 累计确诊1145例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1",
         "date": "2020-05-15"
@@ -7821,6 +7831,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "window.onload 和 async 的执行顺序有区别吗，哪个先执行？",
+        "link": "https://www.v2ex.com/t/672233",
+        "date": "2020-05-16"
+      },
       {
         "title": "分享一个自己做的应用--小蛇搜搜(专搜个人博客)",
         "link": "https://www.v2ex.com/t/672232",

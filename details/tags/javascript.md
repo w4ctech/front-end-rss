@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 07:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 07:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -131,6 +131,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-16-window.onload-和-async-的执行顺序有区别吗，哪个先执行？](https://www.v2ex.com/t/672233) 
 - [2020-05-16-H3C-路由器开启-DMZ-后为什么-NAT-类型没有变化](https://www.v2ex.com/t/672230) 
 - [2020-05-15-是否有人用过-X-宝上的小厂软路由产品？](https://www.v2ex.com/t/672183) 
 - [2020-05-15-Tag-页面手机未适配？](https://www.v2ex.com/t/672165) 

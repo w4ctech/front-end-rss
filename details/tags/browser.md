@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,6 +40,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-15-nginx-过滤请求功能请教](https://www.v2ex.com/t/671982) 
 - [2020-05-15-ant-design-和-iView-选择哪个？](https://www.v2ex.com/t/671912) 
 - [2020-05-15-话说现在去潮汕玩两天，再回上海，安全吗](https://www.v2ex.com/t/671883) 
 - [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857) 

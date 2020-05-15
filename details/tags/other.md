@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,9 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-​宁夏中考笔试时间定于7月18日至20日-同时取消体育测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RrEHqJLUNcBDdOXQ7e8200515&isfromapp=1) 
+- [2020-05-15-损失！马来西亚百货店关门两月-皮具“长毛”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitlRwMPuc2NfDcoevFTL4200515&isfromapp=1) 
+- [2020-05-15-亚行：新冠疫情使全球经济损失可能达8.8万亿美元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSnmGXjgznVQEEEGMX4xy200515&isfromapp=1) 
 - [2020-05-15-西安27家机构可进行核酸检测-支持群众自愿自费检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ22lihuZFtnGDwYpOlv3200515&isfromapp=1) 
 - [2020-05-15-进一步削减经费-东京奥组委对100多个项目进行重新梳理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tUoaw87f0pTS01bgk1x200515&isfromapp=1) 
 - [2020-05-15-财政部-国家税务总局：部分税费减免！支持电影等行业发展](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQAN199TcldDtZuE7OL8200515&isfromapp=1) 
@@ -750,6 +753,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-澳洲-telstra-访问其他国家网络质量如何？](https://www.v2ex.com/t/671981) 
+- [2020-05-15-也许是全网最低的-MacBook-Pro-渠道价](https://www.v2ex.com/t/671980) 
+- [2020-05-15-这次白嫖-GTA5，-Epic-要付出多少流量费用？](https://www.v2ex.com/t/671978) 
+- [2020-05-15-鼻子通气了,真的舒服多了](https://www.v2ex.com/t/671975) 
 - [2020-05-15-自用-StrokesPlusNet-手势分享](https://www.v2ex.com/t/671973) 
 - [2020-05-15-Portainer-是不是无法修改已存在容器的配置？](https://www.v2ex.com/t/671972) 
 - [2020-05-15-阿里小号-无法开机](https://www.v2ex.com/t/671971) 

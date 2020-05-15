@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -43,6 +43,7 @@
 - [2020-04-30-实现一个代码编译器（200行JS代码）](https://www.ershicimi.com/p/8166df5d01201f2c9266d6723c729c1a) 
 - [2020-04-23-前端tree组件，10000个树节点，从14.65s到0.49s](https://www.ershicimi.com/p/610b8fed8f429b4a92cce82174749b2a) 
 - [2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
+- [2020-05-15-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/a92642a666e3872c17ebd33f10a67d9f) 
 - [2020-05-06-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002) 
 - [2020-05-10-包邮免费送-5-本-JavaScript-书籍](https://www.ershicimi.com/p/6238b067f71a3d93efc700d3a65a4d80) 
 - [2020-05-12-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/70d30bfa33dbeef8b825801947f8208a) 

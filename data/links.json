@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "韩国首尔梨泰院夜店相关病例增至153例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijUR2oFyNUDsgns4bWGaV200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "帮扶旅游文化产业、投资基础设施 欧洲多国出台措施恢复经济",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKGTgx9T9nl53DEVeOyCB200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
         "title": "​宁夏中考笔试时间定于7月18日至20日 同时取消体育测试",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RrEHqJLUNcBDdOXQ7e8200515&isfromapp=1",
         "date": "2020-05-15"
@@ -3399,6 +3409,11 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "[译] 为新的Facebook.com重建我们的技术栈",
+        "link": "https://www.ershicimi.com/p/3ea6d0b39e4d728a3fa8ee4737abdea6",
+        "date": "2020-05-15"
+      },
       {
         "title": "你今年还敢和老板谈加薪吗？",
         "link": "https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e",
@@ -7606,6 +7621,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "分享在某宝买电信宽带 1 年后才知道被坑的经历",
+        "link": "https://www.v2ex.com/t/672002",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "今天租客退租，结果发现墙上全是划痕，真是心塞",
+        "link": "https://www.v2ex.com/t/672001",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "有了娃，是买辆车，还是在公司附近租房买房",
+        "link": "https://www.v2ex.com/t/672000",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "廖大又开始“调皮”了(^-^)",
+        "link": "https://www.v2ex.com/t/671999",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "如何更好得 CURD？",
+        "link": "https://www.v2ex.com/t/671998",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "v 友们，哪里能买到靠谱的二手自行车？",
+        "link": "https://www.v2ex.com/t/671997",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "大小周是不是未来的趋势啊？",
+        "link": "https://www.v2ex.com/t/671996",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "是继续待在目前这家公司，还是去新公司？求大家给点意见",
+        "link": "https://www.v2ex.com/t/671994",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "[分享] 一键发送网页文章到 Kindle 的插件/书签按钮",
+        "link": "https://www.v2ex.com/t/671993",
+        "date": "2020-05-15"
+      },
       {
         "title": "最近在自学乐理，做了个能快速查找调式音阶的小程序",
         "link": "https://www.v2ex.com/t/671992",
@@ -33285,6 +33345,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "剑指 offer（十四）：剪绳子",
+        "link": "https://toutiao.io/k/muc00je",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "基于 RecyclerVIew 实现的 WheelView，求 star",
+        "link": "https://toutiao.io/k/nuyzcq8",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "MySQL 竟然无法区分大小写？",
+        "link": "https://toutiao.io/k/lnyj9ew",
+        "date": "2020-05-15"
+      },
       {
         "title": "我为什么用 ES 做 Redis 监控，不用 Prometheus 或 Zabbix？",
         "link": "https://toutiao.io/k/p8s72qa",

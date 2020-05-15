@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -750,6 +750,16 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-CODING-敏捷实战系列课第四讲：从头搭建持续集成-DevOps-流水线](https://www.v2ex.com/t/671959) 
+- [2020-05-15-部分程序员对这个社会的认知是不是出现了偏差？](https://www.v2ex.com/t/671957) 
+- [2020-05-15-中文代码快速补全-VS-Code-插件-1.0.4-发布：新添五笔和双拼支持（beta）](https://www.v2ex.com/t/671955) 
+- [2020-05-15-四惠，远洋天地-一起整租-苦于没找到合适的房子，希望有小伙伴可以一起整租一个](https://www.v2ex.com/t/671954) 
+- [2020-05-15-有点纠结,请大家来出出主意](https://www.v2ex.com/t/671953) 
+- [2020-05-15-临时写了一个遍历树的方法，求改成尾递归。](https://www.v2ex.com/t/671952) 
+- [2020-05-15-为什么-2000-年后各国反垄断法在互联网上都销声匿迹了？](https://www.v2ex.com/t/671951) 
+- [2020-05-15-腾讯云推-cdn-特惠活动，新购买-5TB-送-5TB-流量折后价格-480，-6-个月有效期，每-G-4.8-分钱（腾讯是按-1000-除的，不是-1024）-需要的可加：-MTg2NjcxMjAzMjE...](https://www.v2ex.com/t/671948) 
+- [2020-05-15-裁员是企业渡过难关的万金油吗](https://www.v2ex.com/t/671947) 
+- [2020-05-15-问一下后端的同学为何你们传参都喜欢-int-1234](https://www.v2ex.com/t/671946) 
 - [2020-05-15-淘宝物联卡/流量卡还是随声-WiFi-划算](https://www.v2ex.com/t/671944) 
 - [2020-05-15-深圳-移动卡网速比电信卡快么？](https://www.v2ex.com/t/671941) 
 - [2020-05-15-server-2019-当-win10-用有什么坑么](https://www.v2ex.com/t/671939) 
@@ -4786,6 +4796,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-15-你还应该知道的哈希冲突解决策略](https://toutiao.io/k/l9h8sm4) 
 - [2020-05-15-译-是时候考虑-Spring-非阻塞编程模式？R2DBC-pk-JDBC-和-WebFlux-pk-Web-MVC-评测数据](https://toutiao.io/k/aee2rhl) 
 - [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7) 
 - [2020-05-15-在-Go-中使用微服务架构的好处](https://toutiao.io/k/i9ix1gl) 

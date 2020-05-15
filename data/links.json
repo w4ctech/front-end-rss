@@ -7572,6 +7572,76 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "CODING 敏捷实战系列课第四讲：从头搭建持续集成 DevOps 流水线",
+        "link": "https://www.v2ex.com/t/671959",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "使用 TypeScript 开发了一个 Tank 游戏",
+        "link": "https://www.v2ex.com/t/671958",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "部分程序员对这个社会的认知是不是出现了偏差？",
+        "link": "https://www.v2ex.com/t/671957",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "浏览器左下角一直闪现 [ loading xxx.js ]，这个可以不显示吗？",
+        "link": "https://www.v2ex.com/t/671956",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "中文代码快速补全 VS Code 插件 1.0.4 发布：新添五笔和双拼支持（beta）",
+        "link": "https://www.v2ex.com/t/671955",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "[四惠，远洋天地] [一起整租] 苦于没找到合适的房子，希望有小伙伴可以一起整租一个",
+        "link": "https://www.v2ex.com/t/671954",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "有点纠结,请大家来出出主意",
+        "link": "https://www.v2ex.com/t/671953",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "临时写了一个遍历树的方法，求改成尾递归。",
+        "link": "https://www.v2ex.com/t/671952",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "为什么 2000 年后各国反垄断法在互联网上都销声匿迹了？",
+        "link": "https://www.v2ex.com/t/671951",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "写了一个 AppUI 全家桶的开发框架, 专注 Webapp 轻应用快速开发多年, jquery,vue 都能轻松上手",
+        "link": "https://www.v2ex.com/t/671950",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "大型视频类网站如何部署服务器",
+        "link": "https://www.v2ex.com/t/671949",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "腾讯云推 cdn 特惠活动，新购买 5TB 送 5TB 流量折后价格 480， 6 个月有效期，每 G 4.8 分钱（腾讯是按 1000 除的，不是 1024）\r\n需要的可加： MTg2NjcxMjAzMjE...",
+        "link": "https://www.v2ex.com/t/671948",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "裁员是企业渡过难关的万金油吗",
+        "link": "https://www.v2ex.com/t/671947",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "问一下后端的同学为何你们传参都喜欢 int 1234",
+        "link": "https://www.v2ex.com/t/671946",
+        "date": "2020-05-15"
+      },
+      {
         "title": "有没有与罗技 MX master 2 类似，但是模具矮点的蓝牙鼠标？",
         "link": "https://www.v2ex.com/t/671945",
         "date": "2020-05-15"
@@ -33055,6 +33125,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "你还应该知道的哈希冲突解决策略",
+        "link": "https://toutiao.io/k/l9h8sm4",
+        "date": "2020-05-15"
+      },
       {
         "title": "[译] 是时候考虑 Spring 非阻塞编程模式？R2DBC pk JDBC 和 WebFlux pk Web MVC 评测数据",
         "link": "https://toutiao.io/k/aee2rhl",

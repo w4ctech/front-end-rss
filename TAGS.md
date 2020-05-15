@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-15 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -120,6 +120,7 @@
 - [【Nodejs技术栈】TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569)
 - [【JavaScript】TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】使用-TypeScript-开发了一个-Tank-游戏](https://www.v2ex.com/t/671958)
 - [【V2EX】上海-ARKIE-Web-全栈-/-前端-/-后端-JavaScript-/-TypeScript](https://www.v2ex.com/t/670038)
 - [【V2EX】为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458)
 - [【V2EX】typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178)
@@ -445,8 +446,8 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
+- [【V2EX】大型视频类网站如何部署服务器](https://www.v2ex.com/t/671949)
 - [【V2EX】福利分享-限时特价腾讯视频、爱奇艺会员年费-99-元，通通只要-99](https://www.v2ex.com/t/671885)
-- [【V2EX】视频面试-可远程办公-北美高科技创新公司-Jerry-Ai-软件工程师直招](https://www.v2ex.com/t/671859)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

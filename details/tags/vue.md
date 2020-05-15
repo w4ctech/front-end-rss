@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -80,6 +80,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-15-写了一个-AppUI-全家桶的开发框架,-专注-Webapp-轻应用快速开发多年,-jquery,vue-都能轻松上手](https://www.v2ex.com/t/671950) 
 - [2020-05-14-求助各位大佬，后端-Java-，前端-vue，有没有可以在线编辑报告的-demo，没有一点头绪](https://www.v2ex.com/t/671670) 
 - [2020-05-14-请问使用-Vuex-的好处究竟在哪里？](https://www.v2ex.com/t/671654) 
 - [2020-05-14-一键生成-Go-语言的管理后台，基于-Vue.js-+iView4.0，代码生成器](https://www.v2ex.com/t/671621) 

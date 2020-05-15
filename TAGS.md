@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-15 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -330,6 +330,7 @@
 - [【前端大全】只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)
 - [【前端大全】Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)
 - [【前端大全】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)
+- [【前端开发】10-个很实用的-JavaScript-技巧](https://www.ershicimi.com/p/80c6d0a9a11f7057770b6522f4b95a16)
 - [【前端开发】前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e)
 - [【前端开发】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7)
 - [【前端圈】用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f)
@@ -338,7 +339,6 @@
 - [【前端开发博客】阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee)
 - [【前端开发博客】阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce)
 - [【前端大学】前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/c6bf04b2efff1f953b57956901eaeeb0)
-- [【前端大学】只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -580,6 +580,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】A-系统通过-REST-接口向-B-系统同步数据，怎么才能保证-A-系统和-B-系统数据实时一致呢？](https://www.v2ex.com/t/671907)
 - [【V2EX】用-windows-的你们都是怎么装的-docker](https://www.v2ex.com/t/671869)
 - [【V2EX】wdnmd-为什么啊-我的-docker-hub（windows-端）明明设置了镜像-但拉个-rabbitmq-还是拉不下来](https://www.v2ex.com/t/671790)
 - [【V2EX】请问那个大哥知道如何通过-restful-API-调用智能家电打开关闭操作](https://www.v2ex.com/t/671446)
@@ -590,7 +591,6 @@
 - [【V2EX】看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921)
 - [【V2EX】每次部署更新代码，重新编译-Docker-镜像，再更新到生产环境，改动的代码地方很多，但都是比较频繁的小改动。要耗费不少时间，是姿势不对？还是只能这样了?](https://www.v2ex.com/t/670902)
 - [【V2EX】如何解决在使用端口映射情况，-dsm-nginx-跳转到内部端口的问题？](https://www.v2ex.com/t/670880)
-- [【V2EX】Docker-文件部署在-Ubuntu14/16/18/20-不同的-Linux-版本上，有兼容性的问题吗？](https://www.v2ex.com/t/670498)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

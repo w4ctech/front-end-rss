@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -18,6 +18,7 @@
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53) 
 - [2020-04-23-Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36) 
 - [2020-04-18-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6) 
+- [2020-05-15-10-个很实用的-JavaScript-技巧](https://www.ershicimi.com/p/80c6d0a9a11f7057770b6522f4b95a16) 
 - [2020-04-29-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e) 
 - [2020-04-18-大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
@@ -129,6 +130,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-15-正则切分字符串的问题](https://www.v2ex.com/t/671899) 
 - [2020-05-14-一个动端的-HTML5-页面，如何获取用户触摸滑动的轨迹？](https://www.v2ex.com/t/671763) 
 - [2020-05-14-jsbox-进行-http-请求，怎么拿出-respone-返回体？](https://www.v2ex.com/t/671753) 
 - [2020-05-14-逼死强迫症。找到所有的蓝牙机械键盘，都只能适配-Mac-左侧的-Command，空格右侧-Command-的不行。](https://www.v2ex.com/t/671682) 

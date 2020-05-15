@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -44,6 +44,7 @@
 - [2020-04-24-Webpack那些你不知道的事](https://juejin.im/post/5ea29826e51d45470a4ad63c) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-04-24-构建-JavaScript-吉他效果器](https://javascriptweekly.com/link/63622/web) 
+- [2020-05-15-在思考有没有必要为现有自动化构建系统提供基于-docker-run-的构建方式](https://www.v2ex.com/t/671905) 
 - [2020-05-14-webpack4-太难了，想动态添加、修改源码，仅看文档不阅读-webpack-源码新手似乎无能为力？](https://www.v2ex.com/t/671559) 
 - [2020-05-13-babel-transver-特别慢的原因？](https://www.v2ex.com/t/671265) 
 - [2020-05-11-极简的-Golang-构建打包工具-bali-1.0-发布](https://www.v2ex.com/t/670688) 

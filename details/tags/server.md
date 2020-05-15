@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 15:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -16,6 +16,7 @@
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-15-问问大佬们一个-docker-compose-水平扩展容器挂载目录的问题](https://www.v2ex.com/t/672037) 
 - [2020-05-15-A-系统通过-REST-接口向-B-系统同步数据，怎么才能保证-A-系统和-B-系统数据实时一致呢？](https://www.v2ex.com/t/671907) 
 - [2020-05-15-用-windows-的你们都是怎么装的-docker](https://www.v2ex.com/t/671869) 
 - [2020-05-14-wdnmd-为什么啊-我的-docker-hub（windows-端）明明设置了镜像-但拉个-rabbitmq-还是拉不下来](https://www.v2ex.com/t/671790) 

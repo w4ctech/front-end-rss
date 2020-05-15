@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-15 16:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 16:30:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -612,6 +612,7 @@
 - [【前端大全】小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806)
 - [【前端大全】你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)
 - [【前端开发】GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db)
+- [【前端之巅】开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273)
 - [【前端迷】前端面试开源项目清单（github仓库，个人网站都有）](https://www.ershicimi.com/p/83b9366b275bf5c08cc800dfc0eb63f7)
 - [【前端迷】GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808)
 - [【全栈前端精选】昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67)
@@ -627,7 +628,6 @@
 - [【互联网架构师】这张「二维码」火到了GitHub热榜第一：扫一扫，打破系统边界，文件秒传](https://www.ershicimi.com/p/e89cefddded75359e8cc5a29805b1965)
 - [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [【InfoQ】我在GitHub找Bug：如何轻松赚到10000美元](https://www.ershicimi.com/p/51e5e124b077f4013d5a15af40edbb45)
-- [【InfoQ】刚刚，GitHub重磅发布四大新功能！](https://www.ershicimi.com/p/7f2c733b84ee75a0e7a4a392abbca03a)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

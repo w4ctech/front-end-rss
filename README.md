@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 16:00:22，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 16:30:21，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -94,6 +94,16 @@
 </summary>
 
 
+- [2020-05-15-泰国：将从17日起实施第二阶段“解封”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-俄罗斯新冠肺炎累计确诊病例达262843例-新增10598例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex2OyUOv9U4z16iL1TBT200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-韩日疫情总体趋缓-防疫措施仍要维持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-“中国下令销毁病毒样本？”-国家卫健委驳蓬佩奥此言论：有意混淆视听！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibVvEPm6qHO1J1kQbvhim200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-广东推行家政“安心服务证”-扫码可追溯查询和评价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyp7tgQqoFLC3ObwcAGGR200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-疫情趋缓-泰国最大长途汽车客运公司18日起恢复长途客运业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVgvVfBqNYXfa2K136dm5200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-武汉进行全员核酸检测-国家卫健委：各地都可动态调整检测策略](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis9kQFc9lfGYjbV7bv0gu200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-为扩大新冠病毒筛查力度-阿联酋迪拜推出移动检测中心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinXm8KXtjp7zlMGFyzheO200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-辽宁具备新冠病毒核酸检测资质医疗机构增至52家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieuqmHnxVsaDXUS9q307m200515&isfromapp=1) ![](assets/new.png)  
 - [2020-05-15-韩国首尔梨泰院夜店相关病例增至153例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijUR2oFyNUDsgns4bWGaV200515&isfromapp=1)  
 - [2020-05-15-帮扶旅游文化产业、投资基础设施-欧洲多国出台措施恢复经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKGTgx9T9nl53DEVeOyCB200515&isfromapp=1)  
 - [2020-05-15-​宁夏中考笔试时间定于7月18日至20日-同时取消体育测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RrEHqJLUNcBDdOXQ7e8200515&isfromapp=1)  
@@ -104,16 +114,6 @@
 - [2020-05-15-陕西开辟绿色通道-定向招聘188名援鄂医务人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJFT8CO73lxGrnHqgMrJt200515&isfromapp=1)  
 - [2020-05-15-财政部-国家税务总局：部分税费减免！支持电影等行业发展](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQAN199TcldDtZuE7OL8200515&isfromapp=1)  
 - [2020-05-15-美国前卫生官员出席美国会听证会：美可能面临“现代历史上最黑暗的冬天”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim9oSZuNgtCVTW1gu4xvp200515&isfromapp=1)  
-- [2020-05-15-阿根廷新冠肺炎病例突破7000例-贫民区疫情传播速度不断加快](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0LFjjr6dqDFcv4Gz8kKt200515&isfromapp=1)  
-- [2020-05-15-吉林省新增新冠肺炎本地确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLBhbQI9Oi2eF6OSrELb1200515&isfromapp=1)  
-- [2020-05-15-国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为吉林本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPIt39VDW8zCYzG0fbFHe200515&isfromapp=1)  
-- [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1)  
-- [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1)  
-- [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1)  
-- [2020-05-15-瑞士：感染新冠肺炎人群的免疫力尚不明确](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUBgFpo0DZ40obxRWLump200515&isfromapp=1)  
-- [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过425万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2v79Co5DqYdQ8lri4I3R200515&isfromapp=1)  
-- [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1)  
-- [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -410,6 +410,8 @@
 </summary>
 
 
+- [2020-05-15-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/d5116d3adea2f3b598b7156443450556) ![](assets/new.png)  
+- [2020-05-15-开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273) ![](assets/new.png)  
 - [2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34)  
 - [2020-05-14-贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0)  
 - [2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/cbbbd3ec516277f427f07474f27376d3)  
@@ -428,8 +430,6 @@
 - [2020-05-06-前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)  
 - [2020-05-06-创建Svelte-Web组件](https://www.ershicimi.com/p/1dbd80140105b5f0b75f2c6e7749000a)  
 - [2020-05-06-浅谈前端工程化趋势-|-极客大学](https://www.ershicimi.com/p/6d7acdeac5b9d555f87c7d1a50f8f9d8)  
-- [2020-05-05-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/8bcf07954037bad91b35cb1a5f6611bb)  
-- [2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1051,26 +1051,26 @@
 </summary>
 
 
-- [2020-05-15-有的朋友你如果不主动联系他，那他这辈子都不会主动联系你，这样的朋友还是朋友吗？](https://www.v2ex.com/t/672059) ![](assets/new.png)  
-- [2020-05-15-眼药水好难滴啊](https://www.v2ex.com/t/672057) ![](assets/new.png)  
-- [2020-05-15-ElementUI-访问这么慢,-是饿了么要倒闭了么?](https://www.v2ex.com/t/672056) ![](assets/new.png)  
-- [2020-05-15-请教下-C++类型转换的问题](https://www.v2ex.com/t/672054) ![](assets/new.png)  
-- [2020-05-15-公司对公司打官司，自建邮件服务器里的邮件能作为证据使用吗](https://www.v2ex.com/t/672053) ![](assets/new.png)  
-- [2020-05-15-铂金智慧招聘-增长前端工程师](https://www.v2ex.com/t/672052) ![](assets/new.png)  
-- [2020-05-15-npm-挂了吗-Internal-Service-Error](https://www.v2ex.com/t/672049) ![](assets/new.png)  
-- [2020-05-15-优惠促销-每个小程序都可用的客服消息自动化运营神器！](https://www.v2ex.com/t/672048) ![](assets/new.png)  
-- [2020-05-15-招行-5-月集喵，个人已刷-5-只喵，求组队](https://www.v2ex.com/t/672047) ![](assets/new.png)  
-- [2020-05-15-假设你能让列表里-5-项互联网产品消失，你希望是哪-5-家？](https://www.v2ex.com/t/672045) ![](assets/new.png)  
-- [2020-05-15-MacOS-kernel_task-CPU-占用过高，降频严重-怎么解](https://www.v2ex.com/t/672044) ![](assets/new.png)  
-- [2020-05-15-被字节拒了，第一轮面试就挂了，伤心><](https://www.v2ex.com/t/672043) ![](assets/new.png)  
-- [2020-05-15-给北京环球影城投了简历，几个月了杳无音讯](https://www.v2ex.com/t/672042) ![](assets/new.png)  
-- [2020-05-15-手机号一般用什么加密进行存储？](https://www.v2ex.com/t/672041) ![](assets/new.png)  
-- [2020-05-15-goroutine-的学习感受](https://www.v2ex.com/t/672040)  
-- [2020-05-15-铂金智慧-招聘-增长前端工程师](https://www.v2ex.com/t/672039)  
-- [2020-05-15-杭州-面试母公司，签约子公司问题请教](https://www.v2ex.com/t/672038)  
-- [2020-05-15-问问大佬们一个-docker-compose-水平扩展容器挂载目录的问题](https://www.v2ex.com/t/672037)  
-- [2020-05-15-接到了一个公司的面试邀请邮件，可能是我孤陋寡闻了，但我果断拒绝了](https://www.v2ex.com/t/672036)  
-- [2020-05-15-不用-CNZZ-插件，自己用-javascript-如何实现获取用户浏览单个网页的时长，浏览到哪个位置？](https://www.v2ex.com/t/672035)  
+- [2020-05-15-西安投简历，都是已读](https://www.v2ex.com/t/672079) ![](assets/new.png)  
+- [2020-05-15-你们给父母送过什么生日礼物？](https://www.v2ex.com/t/672078) ![](assets/new.png)  
+- [2020-05-15-md101/102，升级-16-内存和固态硬盘，模拟-Vware-能跑-gtav-吗？](https://www.v2ex.com/t/672077) ![](assets/new.png)  
+- [2020-05-15-现在买-Apple-TV-合适么？还是说等到秋天看看？](https://www.v2ex.com/t/672076) ![](assets/new.png)  
+- [2020-05-15-关于-SNPE-平台上-onnx-模型转-dlc-模型](https://www.v2ex.com/t/672075) ![](assets/new.png)  
+- [2020-05-15-家里陆陆续续也有几十个米家设备了，有没有什么方法绕开米家，自己接入设备，自己做一个中控呀，](https://www.v2ex.com/t/672074) ![](assets/new.png)  
+- [2020-05-15-mysql-索引工作的原理](https://www.v2ex.com/t/672072) ![](assets/new.png)  
+- [2020-05-15-使用了-icloud-drive-后的-mac-进行-time-machine-备份的问题？](https://www.v2ex.com/t/672069) ![](assets/new.png)  
+- [2020-05-15-有人遇到过-macOS10.15.4-菜单栏右上角闪烁的问题吗？](https://www.v2ex.com/t/672068) ![](assets/new.png)  
+- [2020-05-15-问个很尴尬的问题](https://www.v2ex.com/t/672067) ![](assets/new.png)  
+- [2020-05-15-CDN-真的需要防跨域访问吗](https://www.v2ex.com/t/672066) ![](assets/new.png)  
+- [2020-05-15-请问有房托管给自如或者类似机构的么？](https://www.v2ex.com/t/672065) ![](assets/new.png)  
+- [2020-05-15-分享-wordpress-官方提供的演示数据](https://www.v2ex.com/t/672064) ![](assets/new.png)  
+- [2020-05-15-Mac-上流量监控统计](https://www.v2ex.com/t/672063) ![](assets/new.png)  
+- [2020-05-15-中了勒索病毒，发现-git-目录下.git-没有被加密，以后文件可以放在这种文件夹下吗](https://www.v2ex.com/t/672062) ![](assets/new.png)  
+- [2020-05-15-自己做一个开发板有多难？](https://www.v2ex.com/t/672061) ![](assets/new.png)  
+- [2020-05-15-Notion-怎么跳出代码块?](https://www.v2ex.com/t/672060) ![](assets/new.png)  
+- [2020-05-15-有的朋友你如果不主动联系他，那他这辈子都不会主动联系你，这样的朋友还是朋友吗？](https://www.v2ex.com/t/672059)  
+- [2020-05-15-眼药水好难滴啊](https://www.v2ex.com/t/672057)  
+- [2020-05-15-ElementUI-访问这么慢,-是饿了么要倒闭了么?](https://www.v2ex.com/t/672056)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

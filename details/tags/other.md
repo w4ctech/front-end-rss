@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,10 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-西安27家机构可进行核酸检测-支持群众自愿自费检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ22lihuZFtnGDwYpOlv3200515&isfromapp=1) 
+- [2020-05-15-进一步削减经费-东京奥组委对100多个项目进行重新梳理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tUoaw87f0pTS01bgk1x200515&isfromapp=1) 
+- [2020-05-15-财政部-国家税务总局：部分税费减免！支持电影等行业发展](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQAN199TcldDtZuE7OL8200515&isfromapp=1) 
+- [2020-05-15-美国前卫生官员出席美国会听证会：美可能面临“现代历史上最黑暗的冬天”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim9oSZuNgtCVTW1gu4xvp200515&isfromapp=1) 
 - [2020-05-15-国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为吉林本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPIt39VDW8zCYzG0fbFHe200515&isfromapp=1) 
 - [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1) 
 - [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1) 
@@ -746,6 +750,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-淘宝物联卡/流量卡还是随声-WiFi-划算](https://www.v2ex.com/t/671944) 
+- [2020-05-15-深圳-移动卡网速比电信卡快么？](https://www.v2ex.com/t/671941) 
+- [2020-05-15-server-2019-当-win10-用有什么坑么](https://www.v2ex.com/t/671939) 
+- [2020-05-15-CODING-敏捷实战系列课第三讲：可视化业务分析](https://www.v2ex.com/t/671936) 
+- [2020-05-15-出京东-e-卡，-50-面值的](https://www.v2ex.com/t/671934) 
+- [2020-05-15-实现对数据表的增删查改的页面，在后端不能编写-model，不能出现包含表名的字符串常量，标识符的情况下，有哪些实现思路？](https://www.v2ex.com/t/671933) 
+- [2020-05-15-关于递归](https://www.v2ex.com/t/671932) 
+- [2020-05-15-求推荐一个国外的免费/便宜/好用的邮件推荐服务](https://www.v2ex.com/t/671930) 
+- [2020-05-15-技术岗，饿了么和平安怎么选，给的差不多](https://www.v2ex.com/t/671928) 
 - [2020-05-15-上周末折腾了好一顿-Hugo，搞出来一些新玩法，写技术文的朋友可以参考](https://www.v2ex.com/t/671927) 
 - [2020-05-15-一个软件的颜色数据转换，已然蒙圈-求助！](https://www.v2ex.com/t/671926) 
 - [2020-05-15-rclone-上传至-google-photo-问题求教](https://www.v2ex.com/t/671925) 

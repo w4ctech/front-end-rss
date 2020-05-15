@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 11:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 11:30:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-15-西安27家机构可进行核酸检测-支持群众自愿自费检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ22lihuZFtnGDwYpOlv3200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-进一步削减经费-东京奥组委对100多个项目进行重新梳理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tUoaw87f0pTS01bgk1x200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-陕西开辟绿色通道-定向招聘188名援鄂医务人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJFT8CO73lxGrnHqgMrJt200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-财政部-国家税务总局：部分税费减免！支持电影等行业发展](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQAN199TcldDtZuE7OL8200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-美国前卫生官员出席美国会听证会：美可能面临“现代历史上最黑暗的冬天”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim9oSZuNgtCVTW1gu4xvp200515&isfromapp=1) ![](assets/new.png)  
 - [2020-05-15-阿根廷新冠肺炎病例突破7000例-贫民区疫情传播速度不断加快](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0LFjjr6dqDFcv4Gz8kKt200515&isfromapp=1)  
 - [2020-05-15-吉林省新增新冠肺炎本地确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLBhbQI9Oi2eF6OSrELb1200515&isfromapp=1)  
 - [2020-05-15-国家卫健委：31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为吉林本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPIt39VDW8zCYzG0fbFHe200515&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-14-香港新增1例新冠肺炎确诊病例-累计确诊1051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLELFLOUAnlYqrz8wiWi0200514&isfromapp=1)  
 - [2020-05-14-​伊朗新增新冠肺炎确诊病例1808例-累计确诊114533例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitdIufHrPfdcwbQNEXaBV200514&isfromapp=1)  
 - [2020-05-14-​法国药企称新冠疫苗将首供美国？-法官员称“不可接受”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrNVJXQZOVh40iza5fbJ200514&isfromapp=1)  
-- [2020-05-14-疫情之下-美国老年人成“牺牲品”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOc2ahbg5LpK3QVsuCi2B200514&isfromapp=1)  
-- [2020-05-14-世卫组织：新冠病毒可能永远不会消失-各国解除封锁措施需谨慎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAH270JcHcTn70PsIuSt2200514&isfromapp=1)  
-- [2020-05-14-新加坡所有学前教育机构工作者须在6月2日开园前完成新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRUNRTmv5Y7hbZyp9lgBz200514&isfromapp=1)  
-- [2020-05-14-北大清华：毕业年级学生6月6日起分批次分类别自愿返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiASeZP3mAdlhhsZIwaNbv200514&isfromapp=1)  
-- [2020-05-14-多重困境下-叙利亚储备生产抗疫药物羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1051,26 +1051,26 @@
 </summary>
 
 
-- [2020-05-15-上周末折腾了好一顿-Hugo，搞出来一些新玩法，写技术文的朋友可以参考](https://www.v2ex.com/t/671927) ![](assets/new.png)  
-- [2020-05-15-一个软件的颜色数据转换，已然蒙圈-求助！](https://www.v2ex.com/t/671926) ![](assets/new.png)  
-- [2020-05-15-rclone-上传至-google-photo-问题求教](https://www.v2ex.com/t/671925) ![](assets/new.png)  
-- [2020-05-15-做了背调拿了-offer，有更好的选择怎么办？可以拒绝报道，去新公司嘛？](https://www.v2ex.com/t/671924) ![](assets/new.png)  
-- [2020-05-15-Java-有什么实践或设计模式可以用来减少硬编码？](https://www.v2ex.com/t/671923) ![](assets/new.png)  
-- [2020-05-15-请教一个前端问题。。](https://www.v2ex.com/t/671922) ![](assets/new.png)  
-- [2020-05-15-北京小米-MIUI-Android-开发工程师内推](https://www.v2ex.com/t/671921) ![](assets/new.png)  
-- [2020-05-15-Linksys-WRT32X-jd-目前-849-CNY-是不是好价?](https://www.v2ex.com/t/671920) ![](assets/new.png)  
-- [2020-05-15-🔥字节靠谱内推🔥](https://www.v2ex.com/t/671919) ![](assets/new.png)  
-- [2020-05-15-各位老哥，电脑每天第一次开机显示器不亮但是能听到进入系统的声音，第二次开机才亮是什么原因](https://www.v2ex.com/t/671918) ![](assets/new.png)  
-- [2020-05-15-请问-Java-有类似-golang-的-channel-的类吗？](https://www.v2ex.com/t/671917) ![](assets/new.png)  
-- [2020-05-15-mysql-中如何查询某列字符串中包含查询的部分字符串](https://www.v2ex.com/t/671916) ![](assets/new.png)  
-- [2020-05-15-互联网是不是已经变成传统行业了](https://www.v2ex.com/t/671914) ![](assets/new.png)  
-- [2020-05-15-给大家分享一个-10-秒-撸-6.66-羊毛-的方法](https://www.v2ex.com/t/671913) ![](assets/new.png)  
-- [2020-05-15-ant-design-和-iView-选择哪个？](https://www.v2ex.com/t/671912)  
-- [2020-05-15-希腊神话](https://www.v2ex.com/t/671911)  
-- [2020-05-15-延毕生找工作难度有多大，](https://www.v2ex.com/t/671910)  
-- [2020-05-15-求助-关于爬虫相关的问题-有偿](https://www.v2ex.com/t/671909)  
-- [2020-05-15-A-系统通过-REST-接口向-B-系统同步数据，怎么才能保证-A-系统和-B-系统数据实时一致呢？](https://www.v2ex.com/t/671907)  
-- [2020-05-15-如何解决有些国外购物网站会重定向到国内网站,有时中国移动不会重定向,中国电信网络反而会](https://www.v2ex.com/t/671906)  
+- [2020-05-15-有没有与罗技-MX-master-2-类似，但是模具矮点的蓝牙鼠标？](https://www.v2ex.com/t/671945) ![](assets/new.png)  
+- [2020-05-15-淘宝物联卡/流量卡还是随声-WiFi-划算](https://www.v2ex.com/t/671944) ![](assets/new.png)  
+- [2020-05-15-electron-在-web-worker-子线程中无法引入-sqlite3](https://www.v2ex.com/t/671942) ![](assets/new.png)  
+- [2020-05-15-深圳-移动卡网速比电信卡快么？](https://www.v2ex.com/t/671941) ![](assets/new.png)  
+- [2020-05-15-server-2019-当-win10-用有什么坑么](https://www.v2ex.com/t/671939) ![](assets/new.png)  
+- [2020-05-15-CODING-敏捷实战系列课第三讲：可视化业务分析](https://www.v2ex.com/t/671936) ![](assets/new.png)  
+- [2020-05-15-出京东-e-卡，-50-面值的](https://www.v2ex.com/t/671934) ![](assets/new.png)  
+- [2020-05-15-实现对数据表的增删查改的页面，在后端不能编写-model，不能出现包含表名的字符串常量，标识符的情况下，有哪些实现思路？](https://www.v2ex.com/t/671933) ![](assets/new.png)  
+- [2020-05-15-关于递归](https://www.v2ex.com/t/671932) ![](assets/new.png)  
+- [2020-05-15-求推荐一个国外的免费/便宜/好用的邮件推荐服务](https://www.v2ex.com/t/671930) ![](assets/new.png)  
+- [2020-05-15-小程序大头菜估价](https://www.v2ex.com/t/671929) ![](assets/new.png)  
+- [2020-05-15-技术岗，饿了么和平安怎么选，给的差不多](https://www.v2ex.com/t/671928) ![](assets/new.png)  
+- [2020-05-15-上周末折腾了好一顿-Hugo，搞出来一些新玩法，写技术文的朋友可以参考](https://www.v2ex.com/t/671927)  
+- [2020-05-15-一个软件的颜色数据转换，已然蒙圈-求助！](https://www.v2ex.com/t/671926)  
+- [2020-05-15-rclone-上传至-google-photo-问题求教](https://www.v2ex.com/t/671925)  
+- [2020-05-15-做了背调拿了-offer，有更好的选择怎么办？可以拒绝报道，去新公司嘛？](https://www.v2ex.com/t/671924)  
+- [2020-05-15-Java-有什么实践或设计模式可以用来减少硬编码？](https://www.v2ex.com/t/671923)  
+- [2020-05-15-请教一个前端问题。。](https://www.v2ex.com/t/671922)  
+- [2020-05-15-北京小米-MIUI-Android-开发工程师内推](https://www.v2ex.com/t/671921)  
+- [2020-05-15-Linksys-WRT32X-jd-目前-849-CNY-是不是好价?](https://www.v2ex.com/t/671920)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

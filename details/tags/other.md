@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,9 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1) 
+- [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1) 
+- [2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1) 
 - [2020-05-15-比利时：一级方程式大奖赛比利时站将于8月举办](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC1kKrybmNaRRRoCtlob9200515&isfromapp=1) 
 - [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1) 
 - [2020-05-15-泰国：将从17日起实施第二阶段“解封”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1) 
@@ -770,6 +773,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-有没有晚上一直磨牙的](https://www.v2ex.com/t/672150) 
+- [2020-05-15-Coding-page-是不是挂了。。](https://www.v2ex.com/t/672149) 
+- [2020-05-15-也许是史上最全的广告拦截规则整理](https://www.v2ex.com/t/672148) 
+- [2020-05-15-杭州-蚂蚁金服旗下分布式数据库-OceanBase-成立新公司，诚聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/672147) 
+- [2020-05-15-wsl-对-win10-有什么互补的基本功能呢](https://www.v2ex.com/t/672145) 
 - [2020-05-15-话说刚被丰巢收购的速递易一直收费,-为什么没这么大的声讨?](https://www.v2ex.com/t/672143) 
 - [2020-05-15-iOS-“文件”App-有点疑惑](https://www.v2ex.com/t/672142) 
 - [2020-05-15-亚马逊云没信用卡怎么支付？](https://www.v2ex.com/t/672140) 

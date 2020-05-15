@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-15 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-日本新冠肺炎累计确诊病例达16249例-新增46例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-西班牙新增新冠肺炎确诊病例549例-累计确诊230183例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFzEPTWMmIbI3CZJwV4C200515&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-日本东京新增9例新冠肺炎确诊病例-每日新增病例首次降至个位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEECdiOsXmynK2QPX5VwS200515&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-15-日本政府首次认定2位感染新冠肺炎的医疗从业人员为工伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articm6NPOe6wDui9qOt133v200515&isfromapp=1) 
@@ -600,6 +604,13 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-15-有没有晚上一直磨牙的](https://www.v2ex.com/t/672150) 
+- [【V2EX】2020-05-15-Coding-page-是不是挂了。。](https://www.v2ex.com/t/672149) 
+- [【V2EX】2020-05-15-也许是史上最全的广告拦截规则整理](https://www.v2ex.com/t/672148) 
+- [【V2EX】2020-05-15-杭州-蚂蚁金服旗下分布式数据库-OceanBase-成立新公司，诚聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/672147) 
+- [【V2EX】2020-05-15-Chrome-访问网页出现-413-错误](https://www.v2ex.com/t/672146) 
+- [【V2EX】2020-05-15-wsl-对-win10-有什么互补的基本功能呢](https://www.v2ex.com/t/672145) 
+- [【V2EX】2020-05-15-V-友们，还有人在玩涂鸦跳跃小游戏嘛，好奇的问问？](https://www.v2ex.com/t/672144) 
 - [【V2EX】2020-05-15-话说刚被丰巢收购的速递易一直收费,-为什么没这么大的声讨?](https://www.v2ex.com/t/672143) 
 - [【V2EX】2020-05-15-iOS-“文件”App-有点疑惑](https://www.v2ex.com/t/672142) 
 - [【V2EX】2020-05-15-亚马逊云没信用卡怎么支付？](https://www.v2ex.com/t/672140) 

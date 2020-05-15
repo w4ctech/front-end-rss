@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-16 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-16-为什么-MIUI12-不放线刷包（fastboot-rom）了](https://www.v2ex.com/t/672229) 
 - [2020-05-16-支付宝小程序开发有什么更方便快捷的调试方式吗](https://www.v2ex.com/t/672227) 
 - [2020-05-16-公司让我收拾东西回家，那么我现在算带薪还是怎么说？](https://www.v2ex.com/t/672226) 
 - [2020-05-16-Slack-国内让墙了吗](https://www.v2ex.com/t/672225) 

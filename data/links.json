@@ -5661,6 +5661,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "为什么不建议Java程序员用阿里巴巴规范，而使用GoogleGuava编程",
+        "link": "https://www.ershicimi.com/p/9c187488e560388a080d9107aa1589a5",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "用 float 存储金额，老板说损失从工资里扣！",
+        "link": "https://www.ershicimi.com/p/5747eeddb269e6f45126f153b4ab8b4f",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "GitHub重大更新：在线开发上线，是时候卸载IDE了",
+        "link": "https://www.ershicimi.com/p/fcc7021d1f00fe60761575487d7a5011",
+        "date": "2020-05-15"
+      },
+      {
         "title": "原创整理：92份面试题，累计3625页，肝的太累了",
         "link": "https://www.ershicimi.com/p/bf5114df8eda0d2c6c00399781977467",
         "date": "2020-05-14"
@@ -7621,6 +7636,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "如何高效完美的将 PDF 转换成 cvs？",
+        "link": "https://www.v2ex.com/t/672018",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "成都一号线南边有没有房东租房啊",
+        "link": "https://www.v2ex.com/t/672017",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "六年感情毁了，我该如何生活",
+        "link": "https://www.v2ex.com/t/672015",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "leancloud 国际版有域名证书过期了",
+        "link": "https://www.v2ex.com/t/672014",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "你们怎么选择",
+        "link": "https://www.v2ex.com/t/672013",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "[深圳] 招聘一位 Python 工程师，有三年以上经验，薪资 15-25k，要有带团队经验，精通 Python ，会爬虫及数据分析，了解前后端技术，了解 NLP",
+        "link": "https://www.v2ex.com/t/672012",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "关于主播骂人和道德高地的探讨",
+        "link": "https://www.v2ex.com/t/672011",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "说说电信免费提速 200M 的事",
+        "link": "https://www.v2ex.com/t/672010",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "问个独立游戏开发的问题。虚幻五出来后，如果想单独入门游戏开发。现在是不是好的时机。",
+        "link": "https://www.v2ex.com/t/672009",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "想问下外包转入甲方，但外包公司不同意",
+        "link": "https://www.v2ex.com/t/672008",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "mac 键盘洒水",
+        "link": "https://www.v2ex.com/t/672006",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "有没有需要办理招行信用卡的，如果成功办理，可以领个 100 元的红包，如果你刚好需要，可以帮忙跑个量",
+        "link": "https://www.v2ex.com/t/672005",
+        "date": "2020-05-15"
+      },
       {
         "title": "分享在某宝买电信宽带 1 年后才知道被坑的经历",
         "link": "https://www.v2ex.com/t/672002",
@@ -33345,6 +33420,21 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "深度剖析 RabbitMQ 可靠性消息投递以及实践方案",
+        "link": "https://toutiao.io/k/f5pg3wi",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "全平台（Vue、React、微信小程序）任意角度旋转图片裁剪组件",
+        "link": "https://toutiao.io/k/dskvddo",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "PHP 文件包含漏洞利用思路与 Bypass 总结手册（完结）",
+        "link": "https://toutiao.io/k/nrz1f1o",
+        "date": "2020-05-15"
+      },
       {
         "title": "剑指 offer（十四）：剪绳子",
         "link": "https://toutiao.io/k/muc00je",

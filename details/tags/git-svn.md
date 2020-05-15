@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 14:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 14:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -21,6 +21,7 @@
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
+- [2020-05-15-GitHub重大更新：在线开发上线，是时候卸载IDE了](https://www.ershicimi.com/p/fcc7021d1f00fe60761575487d7a5011) 
 - [2020-05-06-一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2) 
 - [2020-05-05-这张「二维码」火到了GitHub热榜第一：扫一扫，打破系统边界，文件秒传](https://www.ershicimi.com/p/e89cefddded75359e8cc5a29805b1965) 
 - [2020-04-30-提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488) 

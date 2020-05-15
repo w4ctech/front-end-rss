@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,7 @@
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857) 
 - [2020-05-14-大家怎么看华为-L20-首席安全专家在-GitHub-上发布的-Linux-内核带有很容易被利用的漏洞？-目前华为也表达说这个员工个人行为，不代表公司](https://www.v2ex.com/t/671815) 
 - [2020-05-14-为什么开启代理后会破坏-Firefox-的-ESNI-状态？](https://www.v2ex.com/t/671813) 
 - [2020-05-14-关于-Teamviewer-许可的问题](https://www.v2ex.com/t/671655) 

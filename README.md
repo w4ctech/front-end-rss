@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-15 08:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-15 08:30:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-瑞士：感染新冠肺炎人群的免疫力尚不明确](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUBgFpo0DZ40obxRWLump200515&isfromapp=1) ![](assets/new.png)  
-- [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过425万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2v79Co5DqYdQ8lri4I3R200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1) ![](assets/new.png)  
+- [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1)  
+- [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1)  
+- [2020-05-15-瑞士：感染新冠肺炎人群的免疫力尚不明确](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUBgFpo0DZ40obxRWLump200515&isfromapp=1)  
+- [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过425万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2v79Co5DqYdQ8lri4I3R200515&isfromapp=1)  
 - [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1)  
 - [2020-05-14-法国总统府：疫苗应当同时提供给所有人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugGHCkN10PUKny1NxuxW200514&isfromapp=1)  
 - [2020-05-14-俄产新冠病毒疫苗将于6月份进行临床试验-并有望9月注册](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-14-江苏省民政厅：因受新冠肺炎疫情影响，5月20日、21日结婚登记需至少提前2天预约](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2DRtJVic3BM2HmLN9wUX200514&isfromapp=1)  
 - [2020-05-14-澳大利亚4月就业人数达40年来最大降幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1)  
 - [2020-05-14-吉林市来沈返沈人员一律隔离观察21天-进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIDygPj2ftTyxW4AEgGNK200514&isfromapp=1)  
-- [2020-05-14-北京昨日无新增报告新冠肺炎确诊病例，出院1例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200514_1897043.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,6 +1048,13 @@
 </summary>
 
 
+- [2020-05-15-asss](https://www.v2ex.com/t/671861) ![](assets/new.png)  
+- [2020-05-15-视频面试-可远程办公-北美高科技创新公司-Jerry-Ai-软件工程师直招](https://www.v2ex.com/t/671859) ![](assets/new.png)  
+- [2020-05-15-做了个微信读书笔记导出的-Chrome-浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的-Markdown-格式](https://www.v2ex.com/t/671857) ![](assets/new.png)  
+- [2020-05-15-mac-上安装了-office2019-可以预览-docx-文件，但是打不开。](https://www.v2ex.com/t/671856) ![](assets/new.png)  
+- [2020-05-15-什么用-LVS-的-DR-模式做负载均衡看不到监听端口？](https://www.v2ex.com/t/671855) ![](assets/new.png)  
+- [2020-05-15-有下载企业微信回放视频的方法吗](https://www.v2ex.com/t/671854) ![](assets/new.png)  
+- [2020-05-15-视频面试-支持远程办公-北美高科技创新公司-Jerry-Ai-软件工程师岗位直推](https://www.v2ex.com/t/671853) ![](assets/new.png)  
 - [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852)  
 - [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851)  
 - [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850)  
@@ -1061,13 +1068,6 @@
 - [2020-05-15-Deno-已來，你來不來？](https://www.v2ex.com/t/671840)  
 - [2020-05-15-20200515-午夜俱乐部](https://www.v2ex.com/t/671838)  
 - [2020-05-15-mbp-一个键下面感觉被东西粘住了，有什么比较简单的解决方法吗](https://www.v2ex.com/t/671837)  
-- [2020-05-15-教同事转前端的可行性](https://www.v2ex.com/t/671835)  
-- [2020-05-15-北京现在买什么电动车好？](https://www.v2ex.com/t/671834)  
-- [2020-05-15-求问国内哪里有分享薪资待遇的网站啊？](https://www.v2ex.com/t/671833)  
-- [2020-05-15-在北京拥有共有产权房是一种什么体验？](https://www.v2ex.com/t/671832)  
-- [2020-05-15-公司裁员，是拿-n+1，离职原因写辞退，还是拿-n，离职原因写个人原因？](https://www.v2ex.com/t/671831)  
-- [2020-05-14-谁领到-GTA5?](https://www.v2ex.com/t/671830)  
-- [2020-05-14-阿里巴巴-天猫国际-前端开发P6/P7](https://www.v2ex.com/t/671829)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1110,6 +1110,13 @@
 </summary>
 
 
+- [2020-05-15-迈向-Substrate-的第一步](https://toutiao.io/k/5kjzotk) ![](assets/new.png)  
+- [2020-05-15-Java-后端开发学习路线-“光头强版”-发布](https://toutiao.io/k/s1kxp4h) ![](assets/new.png)  
+- [2020-05-15-电商平台-Magento-基于-Kubernetes-的容器化实践](https://toutiao.io/k/2xl6v81) ![](assets/new.png)  
+- [2020-05-15-.NET-Core-+-Kubernetes：Deployment](https://toutiao.io/k/2z1vtih) ![](assets/new.png)  
+- [2020-05-15-从三本到-985-再到微软，他做了这些](https://toutiao.io/k/yy1polu) ![](assets/new.png)  
+- [2020-05-15-在搜索引擎广告关键词生成上，算法可以做什么？](https://toutiao.io/k/22akqpo) ![](assets/new.png)  
+- [2020-05-15-Spring-Cloud-Alibaba（二）：Nacos-介绍与环境安装](https://toutiao.io/k/nnsmxyc) ![](assets/new.png)  
 - [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4)  
 - [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj)  
 - [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa)  
@@ -1123,13 +1130,6 @@
 - [2020-05-14-Redis-入门，我是认真的](https://toutiao.io/k/y6btnm1)  
 - [2020-05-14-又一-P1-故障，锅比脸圆](https://toutiao.io/k/c0aqdqy)  
 - [2020-05-14-EventBus-源码详细分析：手写-EventBus-核心代码](https://toutiao.io/k/qo26och)  
-- [2020-05-14-竞价广告排序策略](https://toutiao.io/k/o51b008)  
-- [2020-05-14-iOS-Sign-With-Apple-实践](https://toutiao.io/k/uvcgewp)  
-- [2020-05-14-技术之外：阅读《墨菲定律》时随手记下的一些普遍规律](https://toutiao.io/k/rheh436)  
-- [2020-05-14-帝都程序猿-996-摸鱼求生指南](https://toutiao.io/k/pw6bj4h)  
-- [2020-05-14-如何更优雅地使用-bilibili（b-站）](https://toutiao.io/k/6x5rqbu)  
-- [2020-05-14-用好-require、check、assert，写好-Kotlin-代码](https://toutiao.io/k/scncyn4)  
-- [2020-05-14-十分钟学会使用-Elasticsearch-优雅搭建自己的搜索系统（附源码）](https://toutiao.io/k/b4xv9j0)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

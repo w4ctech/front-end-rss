@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国拉斯维加斯将开始重新开放",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1",
+        "date": "2020-05-15"
+      },
+      {
         "title": "支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1",
         "date": "2020-05-15"
@@ -7496,6 +7501,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "asss",
+        "link": "https://www.v2ex.com/t/671861",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "[视频面试] [可远程办公] 北美高科技创新公司 Jerry Ai 软件工程师直招",
+        "link": "https://www.v2ex.com/t/671859",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "做了个微信读书笔记导出的 Chrome 浏览器插件，解决手机端复制粘贴受限制的问题，还可以导出程序员最喜欢的 Markdown 格式",
+        "link": "https://www.v2ex.com/t/671857",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "mac 上安装了 office2019 可以预览 docx 文件，但是打不开。",
+        "link": "https://www.v2ex.com/t/671856",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "什么用 LVS 的 DR 模式做负载均衡看不到监听端口？",
+        "link": "https://www.v2ex.com/t/671855",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "有下载企业微信回放视频的方法吗",
+        "link": "https://www.v2ex.com/t/671854",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "[视频面试] [支持远程办公] 北美高科技创新公司 Jerry Ai 软件工程师岗位直推",
+        "link": "https://www.v2ex.com/t/671853",
+        "date": "2020-05-15"
+      },
       {
         "title": "建了一个分享创造的电报群",
         "link": "https://www.v2ex.com/t/671852",
@@ -32610,6 +32650,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "迈向 Substrate 的第一步",
+        "link": "https://toutiao.io/k/5kjzotk",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "Java 后端开发学习路线 “光头强版” 发布",
+        "link": "https://toutiao.io/k/s1kxp4h",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "电商平台 Magento 基于 Kubernetes 的容器化实践",
+        "link": "https://toutiao.io/k/2xl6v81",
+        "date": "2020-05-15"
+      },
+      {
+        "title": ".NET Core + Kubernetes：Deployment",
+        "link": "https://toutiao.io/k/2z1vtih",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "从三本到 985 再到微软，他做了这些",
+        "link": "https://toutiao.io/k/yy1polu",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "在搜索引擎广告关键词生成上，算法可以做什么？",
+        "link": "https://toutiao.io/k/22akqpo",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "Spring Cloud Alibaba（二）：Nacos 介绍与环境安装",
+        "link": "https://toutiao.io/k/nnsmxyc",
+        "date": "2020-05-15"
+      },
       {
         "title": "微信社招面经（已拿 offer）",
         "link": "https://toutiao.io/k/bsg4nh4",

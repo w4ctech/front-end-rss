@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-美国拉斯维加斯将开始重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE3Ugc7K1cWl1p2uhUn1c200515&isfromapp=1) 
 - [2020-05-15-支持高校毕业生就业创业：南京市落户政策再放宽，户口迁移指南来啦！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti29PvPNwoLieiI5UL4Tz8200515&isfromapp=1) 
 - [2020-05-15-突尼斯出现创纪录高温天气](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti358CZxhyIx5TP77K3KZ0200515&isfromapp=1) 
 - [2020-05-14-有必要进行全国全员检测吗？国务院联防联控机制专家：不需要！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFxsCkEYpHVcbEHl36bkB200514&isfromapp=1) 
@@ -742,6 +743,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-asss](https://www.v2ex.com/t/671861) 
+- [2020-05-15-mac-上安装了-office2019-可以预览-docx-文件，但是打不开。](https://www.v2ex.com/t/671856) 
+- [2020-05-15-什么用-LVS-的-DR-模式做负载均衡看不到监听端口？](https://www.v2ex.com/t/671855) 
 - [2020-05-15-建了一个分享创造的电报群](https://www.v2ex.com/t/671852) 
 - [2020-05-15-天府软件园旁嘉年华青年城-32-平套一出租，天桥年底修成后中午可步行回去午休。](https://www.v2ex.com/t/671851) 
 - [2020-05-15-求英语讲的编程课程推荐](https://www.v2ex.com/t/671850) 
@@ -4721,6 +4725,12 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-15-迈向-Substrate-的第一步](https://toutiao.io/k/5kjzotk) 
+- [2020-05-15-Java-后端开发学习路线-“光头强版”-发布](https://toutiao.io/k/s1kxp4h) 
+- [2020-05-15-电商平台-Magento-基于-Kubernetes-的容器化实践](https://toutiao.io/k/2xl6v81) 
+- [2020-05-15-.NET-Core-+-Kubernetes：Deployment](https://toutiao.io/k/2z1vtih) 
+- [2020-05-15-从三本到-985-再到微软，他做了这些](https://toutiao.io/k/yy1polu) 
+- [2020-05-15-Spring-Cloud-Alibaba（二）：Nacos-介绍与环境安装](https://toutiao.io/k/nnsmxyc) 
 - [2020-05-14-微信社招面经（已拿-offer）](https://toutiao.io/k/bsg4nh4) 
 - [2020-05-14-蚂蚁金服-SOFAJRaft-优先级选举剖析（特性解析）](https://toutiao.io/k/2e0e0uj) 
 - [2020-05-14-纳尼，当年的毕业设计竟然收到了侵权](https://toutiao.io/k/yt6xktl) 

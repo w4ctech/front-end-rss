@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-15 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1) 
 - [2020-05-15-泰国：将从17日起实施第二阶段“解封”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1) 
 - [2020-05-15-国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1) 
 - [2020-05-15-韩日疫情总体趋缓-防疫措施仍要维持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1) 
@@ -768,6 +769,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-15-为什么我作为一个外行这么喜欢逛你们划水的-v2](https://www.v2ex.com/t/672098) 
+- [2020-05-15-超级右键使用的问题](https://www.v2ex.com/t/672097) 
+- [2020-05-15-马上-520-了，该送女孩子什么礼物好呢？](https://www.v2ex.com/t/672096) 
+- [2020-05-15-《文明-6》、《无主之地》继《GTA5》之后排队限免](https://www.v2ex.com/t/672092) 
+- [2020-05-15-感觉某学英语-APP-的线下微信群有托，是我的错觉吗](https://www.v2ex.com/t/672091) 
+- [2020-05-15-丰巢是如何把自己干没的？](https://www.v2ex.com/t/672090) 
+- [2020-05-15-关于近期给公司开发居家办法的一些突发奇想](https://www.v2ex.com/t/672089) 
+- [2020-05-15-epic-免费领-GTA5-没玩过的抓紧咯](https://www.v2ex.com/t/672085) 
 - [2020-05-15-西安投简历，都是已读](https://www.v2ex.com/t/672079) 
 - [2020-05-15-你们给父母送过什么生日礼物？](https://www.v2ex.com/t/672078) 
 - [2020-05-15-md101/102，升级-16-内存和固态硬盘，模拟-Vware-能跑-gtav-吗？](https://www.v2ex.com/t/672077) 

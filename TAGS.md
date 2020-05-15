@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-15 16:30:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-15 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -581,6 +581,7 @@
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】spring-boot-如何优雅地实现-RESTful,统一结果封装有没有必要](https://www.v2ex.com/t/672082)
 - [【V2EX】问问大佬们一个-docker-compose-水平扩展容器挂载目录的问题](https://www.v2ex.com/t/672037)
 - [【V2EX】A-系统通过-REST-接口向-B-系统同步数据，怎么才能保证-A-系统和-B-系统数据实时一致呢？](https://www.v2ex.com/t/671907)
 - [【V2EX】用-windows-的你们都是怎么装的-docker](https://www.v2ex.com/t/671869)
@@ -591,7 +592,6 @@
 - [【V2EX】Mac-上搭建-STF，好多编译不过去，最终还是使用了-Docker-方案](https://www.v2ex.com/t/671344)
 - [【V2EX】迫于兼职运维，求助关于-nginx-端口转发的问题](https://www.v2ex.com/t/671285)
 - [【V2EX】看了一堆的-Restful-的介绍-还是没太理解](https://www.v2ex.com/t/670921)
-- [【V2EX】每次部署更新代码，重新编译-Docker-镜像，再更新到生产环境，改动的代码地方很多，但都是比较频繁的小改动。要耗费不少时间，是姿势不对？还是只能这样了?](https://www.v2ex.com/t/670902)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

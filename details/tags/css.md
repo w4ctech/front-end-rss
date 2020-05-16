@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -58,6 +58,7 @@
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
 - [2020-05-12-火影忍者次世代动画帷幕，由这个中国广州佬拉开](https://www.ershicimi.com/p/d05755872e2abdfd9991798fdabbca91) 
 - [2020-05-08-清华博士是怎么看动画的？](https://www.ershicimi.com/p/b7cd7f944d22e7b2782af5f0c2529277) 
+- [2020-05-17-css-grid-是未来的趋势吗？如果不是，为什么？是不是不用学-float-定位了？](https://www.v2ex.com/t/672478) 
 - [2020-05-16-现有的-Serverless-平台足够实时聊天的社区应用开发吗？](https://www.v2ex.com/t/672267) 
 - [2020-05-15-都-2020-年了-苹果老一代的-Thunderbolt-Display-MC914-还香不香？](https://www.v2ex.com/t/672095) 
 - [2020-05-14-西安哪里有-Pro-Display-XDR-展示机](https://www.v2ex.com/t/671794) 

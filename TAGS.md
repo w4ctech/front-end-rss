@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-16 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -406,12 +406,12 @@
 - [【奇舞周刊】世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】IMAX-官方即将开始卖-3D-眼镜！](https://www.v2ex.com/t/672269)
 - [【V2EX】Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451)
 - [【V2EX】iOS13-后支持-3D-touch-的机型也用不了-3Dtouch-了吗？](https://www.v2ex.com/t/671096)
 - [【V2EX】求助：-MacVim-8.2-中文字间距过大，设置-guifontwide-也不起作用，有遇到的吗？](https://www.v2ex.com/t/671069)
 - [【V2EX】后续之前立的写单元测试-Canvas-渲染框架-flag，现在写完开源分享啦](https://www.v2ex.com/t/670168)
 - [【V2EX】Go+websocket+protobuf-做的实时在线交互聊天工具，特点是-Canvas+protobuf-格式通信吧~](https://www.v2ex.com/t/668957)
-- [【V2EX】热心翻译了-Google-Java-Style-Guide](https://www.v2ex.com/t/668893)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -447,7 +447,7 @@
 - [【知乎日报】10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf)
 - [【知乎日报】美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5)
 - [【知乎日报】女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517)
-- [【V2EX】ios音视频](https://www.v2ex.com/t/672031)
+- [【V2EX】广州-虎牙直播-内推](https://www.v2ex.com/t/672272)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -582,6 +582,7 @@
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281)
 - [【V2EX】spring-boot-如何优雅地实现-RESTful,统一结果封装有没有必要](https://www.v2ex.com/t/672082)
 - [【V2EX】问问大佬们一个-docker-compose-水平扩展容器挂载目录的问题](https://www.v2ex.com/t/672037)
 - [【V2EX】A-系统通过-REST-接口向-B-系统同步数据，怎么才能保证-A-系统和-B-系统数据实时一致呢？](https://www.v2ex.com/t/671907)
@@ -591,7 +592,6 @@
 - [【V2EX】请教一个-REST-api-设计的问题](https://www.v2ex.com/t/671383)
 - [【V2EX】萌新求教关于-NGINX-反代-github，实现-release-下载加速的问题](https://www.v2ex.com/t/671378)
 - [【V2EX】Mac-上搭建-STF，好多编译不过去，最终还是使用了-Docker-方案](https://www.v2ex.com/t/671344)
-- [【V2EX】迫于兼职运维，求助关于-nginx-端口转发的问题](https://www.v2ex.com/t/671285)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

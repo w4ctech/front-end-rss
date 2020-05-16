@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 07:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 08:00:22，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201) ![](assets/new.png)  
-- [2020-05-16-斯洛文尼亚宣布本国新冠疫情结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-希腊新增40例新冠肺炎确诊病例-累计确诊2810例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201)  
+- [2020-05-16-斯洛文尼亚宣布本国新冠疫情结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1)  
 - [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1)  
 - [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1)  
 - [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-15-比利时：一级方程式大奖赛比利时站将于8月举办](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC1kKrybmNaRRRoCtlob9200515&isfromapp=1)  
 - [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过430万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPJNZv4Efkdh4CUD95V3u200515&isfromapp=1)  
 - [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1)  
-- [2020-05-15-泰国：将从17日起实施第二阶段“解封”措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1)  
-- [2020-05-15-国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -255,6 +255,9 @@
 </summary>
 
 
+- [2020-05-15-2020，前端Vue面试都问啥？](https://www.ershicimi.com/p/8c22f387d9129be07fd6bd65209c5640) ![](assets/new.png)  
+- [2020-05-15-如何实现一个高性能可渲染大数据的Tree组件](https://www.ershicimi.com/p/04f1aa94fdef272001614f77d3a89999) ![](assets/new.png)  
+- [2020-05-14-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/910fb3341149a314e135b9de0ea3b498) ![](assets/new.png)  
 - [2020-05-13-几乎人人都会-Vue？老板凭什么选你？](https://www.ershicimi.com/p/28b4437c2ff99dd4d069cba8d0c3198c)  
 - [2020-05-13-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/fde9523b6cc5c5fd2f60af58ef609b85)  
 - [2020-05-12-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/6f9aefd48b2951ff21875f9342fdb806)  
@@ -272,9 +275,6 @@
 - [2020-05-05-微前端-qiankun-项目实践](https://www.ershicimi.com/p/7da6c8a8e860b0fe641eceb2c8d6f977)  
 - [2020-05-04-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/23d49b08dba8fe456a3d009a9b2a0f68)  
 - [2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46)  
-- [2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370)  
-- [2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43)  
-- [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -735,6 +735,7 @@
 </summary>
 
 
+- [2020-05-15-奇舞周刊第-349-期：优秀网站必须关注的健康指标](https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b) ![](assets/new.png)  
 - [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)  
 - [2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d)  
 - [2020-05-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bdd89b335b89417c9395b7b80c2f5452)  
@@ -754,7 +755,6 @@
 - [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806)  
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)  
 - [2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268)  
-- [2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-05-16-window.onload-和-async-的执行顺序有区别吗，哪个先执行？](https://www.v2ex.com/t/672233) ![](assets/new.png)  
+- [2020-05-16-小程序后台今天提示-服务条款变更：-增加小程序可能会在非微信客户端的环境中运行说明](https://www.v2ex.com/t/672234) ![](assets/new.png)  
+- [2020-05-16-window.onload-和-async-的执行顺序有区别吗，哪个先执行？](https://www.v2ex.com/t/672233)  
 - [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232)  
 - [2020-05-16-1-张公交卡+1-张签到门禁卡+1-张非签到门禁卡，如果三合一，手环/手表还是淘宝多合一？](https://www.v2ex.com/t/672231)  
 - [2020-05-16-H3C-路由器开启-DMZ-后为什么-NAT-类型没有变化](https://www.v2ex.com/t/672230)  
@@ -1071,7 +1072,6 @@
 - [2020-05-15-2020-年-有什么技术或语言可以入手-10-年内保鲜的吗？](https://www.v2ex.com/t/672214)  
 - [2020-05-15-请教-go-一个继承中有-mutex-问题。](https://www.v2ex.com/t/672213)  
 - [2020-05-15-迫于屁股发热量太大,问问那个什么凝胶冰垫有没有用?](https://www.v2ex.com/t/672212)  
-- [2020-05-15-最近装修，想买个烟机灶具套装，有大佬推荐品牌的吗？](https://www.v2ex.com/t/672211)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,6 +1114,15 @@
 </summary>
 
 
+- [2020-05-16-《新版阿里巴巴-Java-开发手册》提到的三目运算符的空指针问题到底是个怎么回事？](https://toutiao.io/k/a2abr8a) ![](assets/new.png)  
+- [2020-05-16-译-Raft-论文（中文版）](https://toutiao.io/k/au7sc8o) ![](assets/new.png)  
+- [2020-05-16-Flutter-在-PLUS-业务中的探索和实践](https://toutiao.io/k/0yr9mfk) ![](assets/new.png)  
+- [2020-05-16-语义解析-Text-to-SQL-技术研究及应用（下篇）](https://toutiao.io/k/5a0jtct) ![](assets/new.png)  
+- [2020-05-16-灵活、高效的云原生集群管理经验：用-K8s-管理-K8s](https://toutiao.io/k/yfbu3ok) ![](assets/new.png)  
+- [2020-05-16-YARN-的介绍及实践探索](https://toutiao.io/k/fio1fu9) ![](assets/new.png)  
+- [2020-05-16-一文了解文件上传全过程（1.8w-字深度解析，进阶必备）](https://toutiao.io/k/8u8rcy7) ![](assets/new.png)  
+- [2020-05-16-译-使用-GraphQL-的-6-个月](https://toutiao.io/k/gzkv2cb) ![](assets/new.png)  
+- [2020-05-16-没有导师的指导，研究生如何阅读文献、提出创见、写论文？](https://toutiao.io/k/b4lkttn) ![](assets/new.png)  
 - [2020-05-15-C++20-新增特性：Hello,-world!](https://toutiao.io/k/9rgag6x)  
 - [2020-05-15-深度剖析-RabbitMQ-可靠性消息投递以及实践方案](https://toutiao.io/k/f5pg3wi)  
 - [2020-05-15-全平台（Vue、React、微信小程序）任意角度旋转图片裁剪组件](https://toutiao.io/k/dskvddo)  
@@ -1125,15 +1134,6 @@
 - [2020-05-15-你还应该知道的哈希冲突解决策略](https://toutiao.io/k/l9h8sm4)  
 - [2020-05-15-译-是时候考虑-Spring-非阻塞编程模式？R2DBC-pk-JDBC-和-WebFlux-pk-Web-MVC-评测数据](https://toutiao.io/k/aee2rhl)  
 - [2020-05-15-DIY-一个正则匹配引擎](https://toutiao.io/k/1fbel49)  
-- [2020-05-15-Spark-实践：物化视图在-SparkSQL-中的实践](https://toutiao.io/k/cnwogc7)  
-- [2020-05-15-Java-高频面试题：聊一聊-JUC-下的-CopyOnWriteArrayList](https://toutiao.io/k/9n8ls2a)  
-- [2020-05-15-译-你不知道的-CSS-国际化](https://toutiao.io/k/ieif7me)  
-- [2020-05-15-在-Go-中使用微服务架构的好处](https://toutiao.io/k/i9ix1gl)  
-- [2020-05-15-使用-Golang-实现-appium/WebDriverAgent-的客户端库](https://toutiao.io/k/5noafgt)  
-- [2020-05-15-Android-NestedScrolling-机制（基础篇）](https://toutiao.io/k/bd5lscg)  
-- [2020-05-15-非常简单的-String-驻留池，你对它真的了解吗?](https://toutiao.io/k/8gl7yf3)  
-- [2020-05-15-LTUI-v1.7-发布,-一个基于-Lua-的跨平台字符终端-UI-界面库](https://toutiao.io/k/23k3m7s)  
-- [2020-05-15-迈向-Substrate-的第一步](https://toutiao.io/k/5kjzotk)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

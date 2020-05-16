@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 07:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 08:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -298,6 +298,7 @@
 - [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) 
 - [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) 
 - [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
+- [2020-05-14-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/910fb3341149a314e135b9de0ea3b498) 
 - [2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) 
 - [2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28) 
 - [2020-05-06-做前端-8-年，看透了裁人的套路](https://www.ershicimi.com/p/99fd6ff0248dd54d425bd26102dfc12e) 
@@ -493,6 +494,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-05-15-奇舞周刊第-349-期：优秀网站必须关注的健康指标](https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b) 
 - [2020-05-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bdd89b335b89417c9395b7b80c2f5452) 
 - [2020-05-12-最后一天，立省52元！你的青春必须有奇舞团的前端课](https://www.ershicimi.com/p/4a588ca2ef0a81646d5520a316d7abde) 
 - [2020-05-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9aa33d8e3b6e21b0ac443b99512a40bb) 
@@ -5008,6 +5010,12 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-16-《新版阿里巴巴-Java-开发手册》提到的三目运算符的空指针问题到底是个怎么回事？](https://toutiao.io/k/a2abr8a) 
+- [2020-05-16-译-Raft-论文（中文版）](https://toutiao.io/k/au7sc8o) 
+- [2020-05-16-语义解析-Text-to-SQL-技术研究及应用（下篇）](https://toutiao.io/k/5a0jtct) 
+- [2020-05-16-灵活、高效的云原生集群管理经验：用-K8s-管理-K8s](https://toutiao.io/k/yfbu3ok) 
+- [2020-05-16-一文了解文件上传全过程（1.8w-字深度解析，进阶必备）](https://toutiao.io/k/8u8rcy7) 
+- [2020-05-16-没有导师的指导，研究生如何阅读文献、提出创见、写论文？](https://toutiao.io/k/b4lkttn) 
 - [2020-05-15-C++20-新增特性：Hello,-world!](https://toutiao.io/k/9rgag6x) 
 - [2020-05-15-深度剖析-RabbitMQ-可靠性消息投递以及实践方案](https://toutiao.io/k/f5pg3wi) 
 - [2020-05-15-PHP-文件包含漏洞利用思路与-Bypass-总结手册（完结）](https://toutiao.io/k/nrz1f1o) 

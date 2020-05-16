@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 08:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -32,6 +32,7 @@
 - [2020-04-24-Vue预渲染插件prerender-spa-plugin使用全记录](https://www.ershicimi.com/p/a9f325eaf3ef61f5294ab59a307ae68b) 
 - [2020-04-22-【第1922期】从vue-router看前端路由的两种实现](https://www.ershicimi.com/p/2d07168ff36cb2c8e6848419d13a4141) 
 - [2020-04-21-【视频】@尤雨溪：State-of-Vue](https://www.ershicimi.com/p/3649526b7069a16db73880eed690ba24) 
+- [2020-05-15-2020，前端Vue面试都问啥？](https://www.ershicimi.com/p/8c22f387d9129be07fd6bd65209c5640) 
 - [2020-05-13-几乎人人都会-Vue？老板凭什么选你？](https://www.ershicimi.com/p/28b4437c2ff99dd4d069cba8d0c3198c) 
 - [2020-05-12-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/385612a1771b70aa52bc5bb7cef8d513) 
 - [2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a) 

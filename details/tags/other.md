@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1) 
 - [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201) 
 - [2020-05-16-斯洛文尼亚宣布本国新冠疫情结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1) 
 - [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1) 
@@ -417,6 +418,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db) 
 - [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4) 
 - [2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead) 
 - [2020-05-09-一行代码实现一个简单的模板字符串替换](https://www.ershicimi.com/p/b680cc5554037475c77902f602529377) 
@@ -792,6 +794,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-16-工作需要，有偿做一个-AI-英文论坛，面向海外](https://www.v2ex.com/t/672252) 
+- [2020-05-16-歌荒各位来推荐一些好歌吧](https://www.v2ex.com/t/672251) 
+- [2020-05-16-MacBookPro-的显示问题](https://www.v2ex.com/t/672249) 
+- [2020-05-16-家用投影仪，求推荐](https://www.v2ex.com/t/672248) 
+- [2020-05-16-事情处理的差不多了，-iOS-求一个上海的萝卜坑](https://www.v2ex.com/t/672246) 
+- [2020-05-16-这里有小米家的工程师吗](https://www.v2ex.com/t/672245) 
+- [2020-05-16-说了丰巢，还有一个速递*被忽略](https://www.v2ex.com/t/672244) 
+- [2020-05-16-求助-iPhone-上-siri-总是无法连接、请稍候](https://www.v2ex.com/t/672241) 
 - [2020-05-16-丰巢今天的短信变了](https://www.v2ex.com/t/672240) 
 - [2020-05-16-各位大佬前辈，如何让-pycharm-使用-vscode-的快捷键（或者有什么插件），之前一直使用-vscode，快捷键一直切换不过来](https://www.v2ex.com/t/672239) 
 - [2020-05-16-YouTubePremium-咖喱区开车找车友](https://www.v2ex.com/t/672238) 

@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-05-16 09:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-16-工作需要，有偿做一个-AI-英文论坛，面向海外](https://www.v2ex.com/t/672252) 
+- [2020-05-16-歌荒各位来推荐一些好歌吧](https://www.v2ex.com/t/672251) 
+- [2020-05-16-Chrome-账号相关插件咨询](https://www.v2ex.com/t/672250) 
+- [2020-05-16-MacBookPro-的显示问题](https://www.v2ex.com/t/672249) 
+- [2020-05-16-家用投影仪，求推荐](https://www.v2ex.com/t/672248) 
+- [2020-05-16-事情处理的差不多了，-iOS-求一个上海的萝卜坑](https://www.v2ex.com/t/672246) 
+- [2020-05-16-这里有小米家的工程师吗](https://www.v2ex.com/t/672245) 
+- [2020-05-16-说了丰巢，还有一个速递*被忽略](https://www.v2ex.com/t/672244) 
+- [2020-05-16-求助-iPhone-上-siri-总是无法连接、请稍候](https://www.v2ex.com/t/672241) 
 - [2020-05-16-丰巢今天的短信变了](https://www.v2ex.com/t/672240) 
 - [2020-05-16-各位大佬前辈，如何让-pycharm-使用-vscode-的快捷键（或者有什么插件），之前一直使用-vscode，快捷键一直切换不过来](https://www.v2ex.com/t/672239) 
 - [2020-05-16-YouTubePremium-咖喱区开车找车友](https://www.v2ex.com/t/672238) 

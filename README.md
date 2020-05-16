@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 16:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1052,11 +1052,11 @@
 </summary>
 
 
-- [2020-05-16-头一次使用降噪耳机，走路戴时感觉咚咚响，是不是所有降噪耳机都这样？](https://www.v2ex.com/t/672359) ![](assets/new.png)  
-- [2020-05-16-不懂就问：-H5-如何打开微信客户端](https://www.v2ex.com/t/672358) ![](assets/new.png)  
-- [2020-05-16-求建议-今天兑买《异度之刃-2》，还是等到-5-月-29-号买《异度之刃决定版》？](https://www.v2ex.com/t/672357) ![](assets/new.png)  
-- [2020-05-16-好一阵子在-ios-上听音乐老闪退](https://www.v2ex.com/t/672356) ![](assets/new.png)  
-- [2020-05-16-技术外包可以和其他公司签保密协议吗](https://www.v2ex.com/t/672355) ![](assets/new.png)  
+- [2020-05-16-头一次使用降噪耳机，走路戴时感觉咚咚响，是不是所有降噪耳机都这样？](https://www.v2ex.com/t/672359)  
+- [2020-05-16-不懂就问：-H5-如何打开微信客户端](https://www.v2ex.com/t/672358)  
+- [2020-05-16-求建议-今天兑买《异度之刃-2》，还是等到-5-月-29-号买《异度之刃决定版》？](https://www.v2ex.com/t/672357)  
+- [2020-05-16-好一阵子在-ios-上听音乐老闪退](https://www.v2ex.com/t/672356)  
+- [2020-05-16-技术外包可以和其他公司签保密协议吗](https://www.v2ex.com/t/672355)  
 - [2020-05-16-laravel-关于异常与事务怎么写代码比较好](https://www.v2ex.com/t/672353)  
 - [2020-05-16-你们是怎么解决-Proxmox-直通-SATA-硬盘不能超过-6-个的限制的？](https://www.v2ex.com/t/672352)  
 - [2020-05-16-腾讯的服务器真是越来越垃圾了](https://www.v2ex.com/t/672351)  
@@ -1083,6 +1083,7 @@
 </summary>
 
 
+- [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1102,7 +1103,6 @@
 - [2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-04-29-条件型业务规则的抽象与实现——从Spring-Profile得到的灵感-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13428&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fidentity-rule-abstraction-implementation%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

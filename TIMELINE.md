@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -4228,6 +4228,7 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【技术头条】2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

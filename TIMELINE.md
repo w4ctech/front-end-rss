@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-吉林市免去-5-名干部职务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MYlOFZuvFp6HvDmwrUM200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-黑龙江从业人员健康证怎么办？核酸检测+抗体检测一个都不能少！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmHulpM3x9hIPmm7bGG5200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-ATM-机里取大米！-多国救助低收入人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifKmsogd69HHZU2xGXj9w200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-孙春兰在吉林调研时强调-再排查、再加固、再落实-坚决防止疫情新燃点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBuUgKikyJSt9P2A5aDCa200516&isfromapp=1) 

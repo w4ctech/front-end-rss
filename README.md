@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 23:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 23:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-吉林市免去-5-名干部职务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MYlOFZuvFp6HvDmwrUM200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-16-黑龙江从业人员健康证怎么办？核酸检测+抗体检测一个都不能少！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmHulpM3x9hIPmm7bGG5200516&isfromapp=1)  
 - [2020-05-16-ATM-机里取大米！-多国救助低收入人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifKmsogd69HHZU2xGXj9w200516&isfromapp=1)  
 - [2020-05-16-孙春兰在吉林调研时强调-再排查、再加固、再落实-坚决防止疫情新燃点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBuUgKikyJSt9P2A5aDCa200516&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html)  
 - [2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1)  
 - [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1)  
-- [2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1)  
-- [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1)  
-- [2020-05-16-希腊新增40例新冠肺炎确诊病例-累计确诊2810例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,11 +1052,11 @@
 </summary>
 
 
-- [2020-05-16-迫于生存，想转让一半琴行的股份](https://www.v2ex.com/t/672454) ![](assets/new.png)  
-- [2020-05-16-人生就是一个不断得到和失去的过程](https://www.v2ex.com/t/672453) ![](assets/new.png)  
-- [2020-05-16-是到甲骨文韩国线路改了还是-v2-跪了？](https://www.v2ex.com/t/672452) ![](assets/new.png)  
-- [2020-05-16-手机自动黑屏菊花，分析日志开头是-jetsamevent，贴一下日志有朋友可以帮忙分析一下是哪方面问题吗？](https://www.v2ex.com/t/672451) ![](assets/new.png)  
-- [2020-05-16-如果对-2K-万条记录的某个字段查重？](https://www.v2ex.com/t/672450) ![](assets/new.png)  
+- [2020-05-16-迫于生存，想转让一半琴行的股份](https://www.v2ex.com/t/672454)  
+- [2020-05-16-人生就是一个不断得到和失去的过程](https://www.v2ex.com/t/672453)  
+- [2020-05-16-是到甲骨文韩国线路改了还是-v2-跪了？](https://www.v2ex.com/t/672452)  
+- [2020-05-16-手机自动黑屏菊花，分析日志开头是-jetsamevent，贴一下日志有朋友可以帮忙分析一下是哪方面问题吗？](https://www.v2ex.com/t/672451)  
+- [2020-05-16-如果对-2K-万条记录的某个字段查重？](https://www.v2ex.com/t/672450)  
 - [2020-05-16-mbp-16-乞丐版和-xps-15-9500-的选择](https://www.v2ex.com/t/672448)  
 - [2020-05-16-有人知道-Chrome-保存的密码，如果源网站更改域名后，怎么迁移原来的密码吗](https://www.v2ex.com/t/672447)  
 - [2020-05-16-广州健身私教课什么价位水平？](https://www.v2ex.com/t/672445)  

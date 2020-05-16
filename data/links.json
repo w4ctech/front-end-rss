@@ -7862,6 +7862,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "各位，有用 tortoise-orm 的吗？",
+        "link": "https://www.v2ex.com/t/672236",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "什么是规模以上企业（规上企业）？",
+        "link": "https://www.v2ex.com/t/672235",
+        "date": "2020-05-16"
+      },
+      {
         "title": "小程序后台今天提示 服务条款变更： 增加小程序可能会在非微信客户端的环境中运行说明",
         "link": "https://www.v2ex.com/t/672234",
         "date": "2020-05-16"
@@ -34580,6 +34590,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Spring 源码（十）：Spring AOP 核心 API",
+        "link": "https://toutiao.io/k/5dpo99t",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "内存迟迟下不去，可能你就差一个 GC.Collect",
+        "link": "https://toutiao.io/k/1gjtcoi",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "[译] Flutter web 最新进展：发掘更多可能",
+        "link": "https://toutiao.io/k/01fvjkt",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "[译] HTML 页面生成器：使用 JavaScript 和 Node 创建 CLI",
+        "link": "https://toutiao.io/k/106h98b",
+        "date": "2020-05-16"
+      },
       {
         "title": "《新版阿里巴巴 Java 开发手册》提到的三目运算符的空指针问题到底是个怎么回事？",
         "link": "https://toutiao.io/k/a2abr8a",

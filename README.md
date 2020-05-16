@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 11:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 12:00:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml) ![](assets/new.png)  
-- [2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html) ![](assets/new.png)  
-- [2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-西班牙、英国等欧洲多国疫情趋缓-管控措施放松](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEQmZZGdVHOTgYgIRExPF200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1)  
+- [2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml)  
+- [2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html)  
+- [2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1)  
 - [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1)  
 - [2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1)  
 - [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1)  
 - [2020-05-15-日本新冠肺炎累计确诊病例达16249例-新增46例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1)  
 - [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1)  
-- [2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-16-公司如何组网?小白一脸懵逼](https://www.v2ex.com/t/672290) ![](assets/new.png)  
-- [2020-05-16-不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题](https://www.v2ex.com/t/672289) ![](assets/new.png)  
-- [2020-05-16-黑苹果，-5k-的预算，-32g-内存，这个配置单可以不？](https://www.v2ex.com/t/672288) ![](assets/new.png)  
-- [2020-05-16-求各位大佬专家们，帮忙在-googleplay-上注册个游戏账户。](https://www.v2ex.com/t/672287) ![](assets/new.png)  
-- [2020-05-16-我不要再-996-了！](https://www.v2ex.com/t/672286) ![](assets/new.png)  
-- [2020-05-16-最近每天-mbp-合盖过夜之后都会-crash-重启](https://www.v2ex.com/t/672285) ![](assets/new.png)  
-- [2020-05-16-iOS-的-Testflight-是不是有什么隐私漏洞？](https://www.v2ex.com/t/672284) ![](assets/new.png)  
-- [2020-05-16-下字幕的时候点击下载链接，出现知乎的外链跳转提示，确定后才开始下载](https://www.v2ex.com/t/672283) ![](assets/new.png)  
-- [2020-05-16-Google-的-2FA-验证现在不支持-OTP-了？](https://www.v2ex.com/t/672282) ![](assets/new.png)  
-- [2020-05-16-不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281)  
-- [2020-05-16-向师父们请教-flask+vue-登录验证的问题](https://www.v2ex.com/t/672280)  
-- [2020-05-16-iPhone-无法发送-iMessage，-你们有碰到吗？](https://www.v2ex.com/t/672279)  
-- [2020-05-16-为什么-win10-defender-老是提醒发现一个威胁，又找不到具体记录](https://www.v2ex.com/t/672278)  
-- [2020-05-16-求职者如果避免小公司-JD-造假](https://www.v2ex.com/t/672273)  
-- [2020-05-16-广州-虎牙直播-内推](https://www.v2ex.com/t/672272)  
-- [2020-05-16-如何识别-b-站某个视频质量，并提取出优质视频链接](https://www.v2ex.com/t/672271)  
-- [2020-05-16-Bilibili，能不能改进一下播放体验？](https://www.v2ex.com/t/672270)  
-- [2020-05-16-IMAX-官方即将开始卖-3D-眼镜！](https://www.v2ex.com/t/672269)  
-- [2020-05-16-Caddy-file_server-怎么样配置多个目录？](https://www.v2ex.com/t/672268)  
-- [2020-05-16-现有的-Serverless-平台足够实时聊天的社区应用开发吗？](https://www.v2ex.com/t/672267)  
+- [2020-05-16-联想拯救者-y9000x-安装使用-archlinux-的体验](https://www.v2ex.com/t/672306) ![](assets/new.png)  
+- [2020-05-16-北京美团推荐算法、后端岗位，充足社招-HC-等你来，欢迎投递简历~~](https://www.v2ex.com/t/672304) ![](assets/new.png)  
+- [2020-05-16-字节跳动-飞书内推，海量-HC～](https://www.v2ex.com/t/672302) ![](assets/new.png)  
+- [2020-05-16-base-深圳-阿里跨境供应链，内推-Java-开发，-p6，-p7，-p8](https://www.v2ex.com/t/672300) ![](assets/new.png)  
+- [2020-05-16-Sprint-boot-菜鸟请教一个微服务架构中对模块进行拆分的问题，望指教](https://www.v2ex.com/t/672299) ![](assets/new.png)  
+- [2020-05-16-又胡思乱想了，没钱没人生](https://www.v2ex.com/t/672298) ![](assets/new.png)  
+- [2020-05-16-请各位帮忙选一下实习：百度-app-和腾讯在线教育](https://www.v2ex.com/t/672297) ![](assets/new.png)  
+- [2020-05-16-译-Ｃ程序员该知道的内存知识-3](https://www.v2ex.com/t/672296) ![](assets/new.png)  
+- [2020-05-16-AdGuard-Home-更新了，增加了筛选最快-IP-的功能](https://www.v2ex.com/t/672295) ![](assets/new.png)  
+- [2020-05-16-基于-Gossip，新节点加入集群如何同步集群中现有数据和同步过程收到的新数据更新？](https://www.v2ex.com/t/672294) ![](assets/new.png)  
+- [2020-05-16-安装-Python3-真难](https://www.v2ex.com/t/672293) ![](assets/new.png)  
+- [2020-05-16-公司如何组网?小白一脸懵逼](https://www.v2ex.com/t/672290)  
+- [2020-05-16-不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题](https://www.v2ex.com/t/672289)  
+- [2020-05-16-黑苹果，-5k-的预算，-32g-内存，这个配置单可以不？](https://www.v2ex.com/t/672288)  
+- [2020-05-16-求各位大佬专家们，帮忙在-googleplay-上注册个游戏账户。](https://www.v2ex.com/t/672287)  
+- [2020-05-16-我不要再-996-了！](https://www.v2ex.com/t/672286)  
+- [2020-05-16-最近每天-mbp-合盖过夜之后都会-crash-重启](https://www.v2ex.com/t/672285)  
+- [2020-05-16-iOS-的-Testflight-是不是有什么隐私漏洞？](https://www.v2ex.com/t/672284)  
+- [2020-05-16-下字幕的时候点击下载链接，出现知乎的外链跳转提示，确定后才开始下载](https://www.v2ex.com/t/672283)  
+- [2020-05-16-Google-的-2FA-验证现在不支持-OTP-了？](https://www.v2ex.com/t/672282)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

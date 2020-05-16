@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-16-西班牙、英国等欧洲多国疫情趋缓-管控措施放松](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEQmZZGdVHOTgYgIRExPF200516&isfromapp=1) 
 - [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1) 
 - [2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1) 
 - [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1) 
@@ -798,6 +799,16 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-16-联想拯救者-y9000x-安装使用-archlinux-的体验](https://www.v2ex.com/t/672306) 
+- [2020-05-16-字节跳动-飞书内推，海量-HC～](https://www.v2ex.com/t/672302) 
+- [2020-05-16-base-深圳-阿里跨境供应链，内推-Java-开发，-p6，-p7，-p8](https://www.v2ex.com/t/672300) 
+- [2020-05-16-Sprint-boot-菜鸟请教一个微服务架构中对模块进行拆分的问题，望指教](https://www.v2ex.com/t/672299) 
+- [2020-05-16-又胡思乱想了，没钱没人生](https://www.v2ex.com/t/672298) 
+- [2020-05-16-请各位帮忙选一下实习：百度-app-和腾讯在线教育](https://www.v2ex.com/t/672297) 
+- [2020-05-16-译-Ｃ程序员该知道的内存知识-3](https://www.v2ex.com/t/672296) 
+- [2020-05-16-AdGuard-Home-更新了，增加了筛选最快-IP-的功能](https://www.v2ex.com/t/672295) 
+- [2020-05-16-基于-Gossip，新节点加入集群如何同步集群中现有数据和同步过程收到的新数据更新？](https://www.v2ex.com/t/672294) 
+- [2020-05-16-安装-Python3-真难](https://www.v2ex.com/t/672293) 
 - [2020-05-16-公司如何组网?小白一脸懵逼](https://www.v2ex.com/t/672290) 
 - [2020-05-16-不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题](https://www.v2ex.com/t/672289) 
 - [2020-05-16-黑苹果，-5k-的预算，-32g-内存，这个配置单可以不？](https://www.v2ex.com/t/672288) 

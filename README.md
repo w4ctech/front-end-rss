@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 19:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 21:00:20，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,11 +94,14 @@
 </summary>
 
 
-- [2020-05-16-国家卫健委：日均能检测150万份-核酸检测能力还需进一步提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3ki9R8PUQCkFMErUA9P200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-新加坡18名“常阳患者”获准出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdEwt5JwEe8TkkPGo7Dm200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-复学4天倒计时！探访武汉南湖中学复学准备情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHOkBDLJcA222X3sx9qq200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-意大利自18日起进一步放开疫情管控-6月3日起开放边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYBUzwT8JeDwnQhTd85f200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-热评丨舒兰“换帅”-再次说明疫情防控不可松懈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiduRsgUFpNskzBBATmRq2200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-黑龙江从业人员健康证怎么办？核酸检测+抗体检测一个都不能少！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmHulpM3x9hIPmm7bGG5200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-ATM-机里取大米！-多国救助低收入人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifKmsogd69HHZU2xGXj9w200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-孙春兰在吉林调研时强调-再排查、再加固、再落实-坚决防止疫情新燃点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBuUgKikyJSt9P2A5aDCa200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-国家卫健委：日均能检测150万份-核酸检测能力还需进一步提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3ki9R8PUQCkFMErUA9P200516&isfromapp=1)  
+- [2020-05-16-新加坡18名“常阳患者”获准出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdEwt5JwEe8TkkPGo7Dm200516&isfromapp=1)  
+- [2020-05-16-复学4天倒计时！探访武汉南湖中学复学准备情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHOkBDLJcA222X3sx9qq200516&isfromapp=1)  
+- [2020-05-16-意大利自18日起进一步放开疫情管控-6月3日起开放边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYBUzwT8JeDwnQhTd85f200516&isfromapp=1)  
+- [2020-05-16-热评丨舒兰“换帅”-再次说明疫情防控不可松懈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiduRsgUFpNskzBBATmRq2200516&isfromapp=1)  
 - [2020-05-16-上海有1例确诊病例今日出院，共计641例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1)  
 - [2020-05-16-18日起-北京公共交通满载率上调15%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1)  
 - [2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1)  
 - [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1)  
 - [2020-05-16-希腊新增40例新冠肺炎确诊病例-累计确诊2810例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1)  
-- [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201)  
-- [2020-05-16-斯洛文尼亚宣布本国新冠疫情结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1)  
-- [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-16-win7-上怎么才能用上-win10-自带的拼音输入法？](https://www.v2ex.com/t/672391)  
-- [2020-05-16-#-elasticsearch-可以替代-mongodb-吗？](https://www.v2ex.com/t/672389)  
-- [2020-05-16-罗技摄像头产品普遍涨价-2-3-倍，良心呢！](https://www.v2ex.com/t/672388)  
-- [2020-05-16-黄金走势瞎画](https://www.v2ex.com/t/672387)  
-- [2020-05-16-重现木兰编程语言（九）——条件语句](https://www.v2ex.com/t/672386)  
-- [2020-05-16-推荐下加密文件夹的软件？不用加密得多严谨，让文件夹无法被随意访问就行。-windows-平台的](https://www.v2ex.com/t/672384)  
-- [2020-05-16-不懂就问，准备入坑-Java-，想问问-Java-与-jsp-与-spring-boot-与-spring-cloud-与-spring-mvc-的关系](https://www.v2ex.com/t/672383)  
-- [2020-05-16-Oracle-的-Java-JRE-最新版本问题？](https://www.v2ex.com/t/672382)  
-- [2020-05-16-请原谅我再水一贴-deno，因为实在太激动了](https://www.v2ex.com/t/672381)  
-- [2020-05-16-搭了个-DoT-服务器玩玩](https://www.v2ex.com/t/672379)  
-- [2020-05-16-谈一下价值观](https://www.v2ex.com/t/672378)  
-- [2020-05-16-iPhone-电池老化降频引发集体诉讼-苹果与原告达成和解协议](https://www.v2ex.com/t/672377)  
-- [2020-05-16-遇到一个快照劫持的问题，就很迷惑](https://www.v2ex.com/t/672376)  
-- [2020-05-16-请教个爬虫传参的问题](https://www.v2ex.com/t/672374)  
-- [2020-05-16-为何我用索尼手机自带的浏览器访问-V2EX-会疯狂闪退？](https://www.v2ex.com/t/672373)  
-- [2020-05-16-怎么在自己的服务器里部署-http://www.geogebra.org-这个网站？](https://www.v2ex.com/t/672372)  
-- [2020-05-16-整租出租-杭州余杭区-合景映月台-中电海康赛银国际阿里旁-四室两厅-120-方](https://www.v2ex.com/t/672371)  
-- [2020-05-16-价格屠夫普？](https://www.v2ex.com/t/672370)  
-- [2020-05-16-合肥：明天下午三点，有一起看脱口秀的吗](https://www.v2ex.com/t/672369)  
-- [2020-05-16-社招-快手-iOS/Android/-Java-后端/算法/大数据开发](https://www.v2ex.com/t/672368)  
+- [2020-05-16-验证码自动识别哪种方式最快，或者有没有比云打码平台之类的人工打码还快的方法？](https://www.v2ex.com/t/672425) ![](assets/new.png)  
+- [2020-05-16-腾讯深圳客户端开发暑期实习期待你的投递~](https://www.v2ex.com/t/672424) ![](assets/new.png)  
+- [2020-05-16-V2EX-发言时，什么情况下需要验证邮件和手机？](https://www.v2ex.com/t/672423) ![](assets/new.png)  
+- [2020-05-16-C++-Discovering-Modern-C++-这本书国内有人在做翻译工作吗](https://www.v2ex.com/t/672420) ![](assets/new.png)  
+- [2020-05-16-根据后缀路径找到前段网址！求助](https://www.v2ex.com/t/672419) ![](assets/new.png)  
+- [2020-05-16-洁悠神有-v-友用过么，不知道什么时候医生开的，药品说明上能物理杀真菌、细菌、病毒。。。。是智商税吗](https://www.v2ex.com/t/672417) ![](assets/new.png)  
+- [2020-05-16-急-广州狸花小奶猫求领养](https://www.v2ex.com/t/672416) ![](assets/new.png)  
+- [2020-05-16-想问问各位大佬，公司一般用什么软件？（OA，-ERP，-POS，-CRM）](https://www.v2ex.com/t/672415) ![](assets/new.png)  
+- [2020-05-16-现在面试一般还是远程吗？（发帖日期-5.16）](https://www.v2ex.com/t/672412) ![](assets/new.png)  
+- [2020-05-16-发现-ipv6-的前缀好像基本上不会变化](https://www.v2ex.com/t/672411) ![](assets/new.png)  
+- [2020-05-16-大家有没有遇到公司强制让发广告到朋友圈](https://www.v2ex.com/t/672410) ![](assets/new.png)  
+- [2020-05-16-前端现在太复杂了，求推荐简单易用的技术方案用来写简单的-web-调试监控工具](https://www.v2ex.com/t/672408) ![](assets/new.png)  
+- [2020-05-16-主板相关](https://www.v2ex.com/t/672407) ![](assets/new.png)  
+- [2020-05-16-老板一袭黑衣，项上一似玉器链子](https://www.v2ex.com/t/672405) ![](assets/new.png)  
+- [2020-05-16-请教一个关于"HTML-转-pdf"的问题](https://www.v2ex.com/t/672404) ![](assets/new.png)  
+- [2020-05-16-开源isystant-lite-查看-iOS-设备-cpu/内存/磁盘/网速/电量-工具🔧app](https://www.v2ex.com/t/672403) ![](assets/new.png)  
+- [2020-05-16-招人辣-腾讯-CSIG-网络高级技术工程师北京/深圳](https://www.v2ex.com/t/672402) ![](assets/new.png)  
+- [2020-05-16-为什么显示器往往不带音箱，但是电视机确带了音箱](https://www.v2ex.com/t/672401) ![](assets/new.png)  
+- [2020-05-16-招聘帖-腾讯-CSIG-容器云高级工程师北京/深圳](https://www.v2ex.com/t/672400) ![](assets/new.png)  
+- [2020-05-16-西二旗,龙泽招租首月无押金，大两室一厅招合租室友](https://www.v2ex.com/t/672399) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

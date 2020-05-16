@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 14:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 14:30:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-16-上海有1例确诊病例今日出院，共计641例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-18日起-北京公共交通满载率上调15%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-16-西班牙、英国等欧洲多国疫情趋缓-管控措施放松](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEQmZZGdVHOTgYgIRExPF200516&isfromapp=1)  
 - [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1)  
 - [2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml)  
@@ -111,9 +114,6 @@
 - [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1)  
 - [2020-05-15-海南：1例境外输入无症状感染者转为新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1)  
 - [2020-05-15-韩国104岁新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1)  
-- [2020-05-15-上海市培训机构可于5月18日起分批恢复线下培训服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1)  
-- [2020-05-15-日本新冠肺炎累计确诊病例达16249例-新增46例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1)  
-- [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,7 +473,7 @@
 </summary>
 
 
-- [2020-05-16-Deno-正式发布，彻底弄明白和-node-的区别](https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a) ![](assets/new.png)  
+- [2020-05-16-Deno-正式发布，彻底弄明白和-node-的区别](https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a)  
 - [2020-05-15-译-为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/3ea6d0b39e4d728a3fa8ee4737abdea6)  
 - [2020-05-14-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e)  
 - [2020-05-14-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c)  
@@ -1052,26 +1052,26 @@
 </summary>
 
 
+- [2020-05-16-求助，需要一张狗狗“雪上加霜”的动图](https://www.v2ex.com/t/672335) ![](assets/new.png)  
+- [2020-05-16-微软的人体工学键盘码代码作图方便吗？](https://www.v2ex.com/t/672334) ![](assets/new.png)  
+- [2020-05-16-如何停止-ios-日历从-Google-calendar-同步？](https://www.v2ex.com/t/672333) ![](assets/new.png)  
+- [2020-05-16-Vue-大牛-Evan尤雨溪-带你学-Vue-3.0](https://www.v2ex.com/t/672332) ![](assets/new.png)  
+- [2020-05-16-线上每天某个时间段频繁-FGC,导致-CPU-异常高](https://www.v2ex.com/t/672331) ![](assets/new.png)  
+- [2020-05-16-gboard-无法安装中文库](https://www.v2ex.com/t/672330) ![](assets/new.png)  
+- [2020-05-16-macOS-Preview-里面的电子签名莫名其妙出现了别人的签名怎么回事？](https://www.v2ex.com/t/672329) ![](assets/new.png)  
+- [2020-05-16-为了下个-10G-的软件，花了-5.9-买了百度云一天不限速，下载稳定在-7-10MB/s，小文件有点不值，速度还是挺香的](https://www.v2ex.com/t/672328) ![](assets/new.png)  
+- [2020-05-16-新开的广东游戏宽带还是全局-cn2-吗？想跳车了](https://www.v2ex.com/t/672327) ![](assets/new.png)  
+- [2020-05-16-Time-Machine-恢复系统失败，然后重装系统，神奇的事情发生了。](https://www.v2ex.com/t/672326) ![](assets/new.png)  
+- [2020-05-16-上海-麦淘亲子，急招-Java-攻城狮](https://www.v2ex.com/t/672325) ![](assets/new.png)  
+- [2020-05-16-跟一个人合作做一个单子，微信经常性隔很久才回复怎么办](https://www.v2ex.com/t/672324) ![](assets/new.png)  
+- [2020-05-16-寻求自建加速-Nintendo-switch-的正确方式？（udp-加速）](https://www.v2ex.com/t/672323) ![](assets/new.png)  
+- [2020-05-16-最近思考的两件事情](https://www.v2ex.com/t/672322) ![](assets/new.png)  
+- [2020-05-16-logstash6.5.4-解析-nginx-日志格式报错](https://www.v2ex.com/t/672321) ![](assets/new.png)  
+- [2020-05-16-刚刚安装了-deno，体验非常好](https://www.v2ex.com/t/672319) ![](assets/new.png)  
+- [2020-05-16-Airpods-pro-为什么不出一个-bose-那种降噪等级控制的功能呢](https://www.v2ex.com/t/672318) ![](assets/new.png)  
+- [2020-05-16-现在-vscdoe-写-vue-不能用-f2-了么](https://www.v2ex.com/t/672317) ![](assets/new.png)  
 - [2020-05-16-滴滴出行-北京、杭州-Android/Go/前端/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/672315)  
 - [2020-05-16-有没有-Apple-TV-用户遇到半夜自动放歌的情况](https://www.v2ex.com/t/672314)  
-- [2020-05-16-微信头像总是白板~~-每次上传了-过一段时间-就又没有了~~-啥原因：头像违规？](https://www.v2ex.com/t/672312)  
-- [2020-05-16-删](https://www.v2ex.com/t/672311)  
-- [2020-05-16-AQS-源码里，为什么-head-和-tail-是个成员变量而不是静态变量啊](https://www.v2ex.com/t/672309)  
-- [2020-05-16-请教学习路线-C#，主要是二次开发](https://www.v2ex.com/t/672307)  
-- [2020-05-16-联想拯救者-y9000x-安装使用-archlinux-的体验](https://www.v2ex.com/t/672306)  
-- [2020-05-16-北京美团推荐算法、后端岗位，充足社招-HC-等你来，欢迎投递简历~~](https://www.v2ex.com/t/672304)  
-- [2020-05-16-字节跳动-飞书内推，海量-HC～](https://www.v2ex.com/t/672302)  
-- [2020-05-16-base-深圳-阿里跨境供应链，内推-Java-开发，-p6，-p7，-p8](https://www.v2ex.com/t/672300)  
-- [2020-05-16-Sprint-boot-菜鸟请教一个微服务架构中对模块进行拆分的问题，望指教](https://www.v2ex.com/t/672299)  
-- [2020-05-16-又胡思乱想了，没钱没人生](https://www.v2ex.com/t/672298)  
-- [2020-05-16-请各位帮忙选一下实习：百度-app-和腾讯在线教育](https://www.v2ex.com/t/672297)  
-- [2020-05-16-译-Ｃ程序员该知道的内存知识-3](https://www.v2ex.com/t/672296)  
-- [2020-05-16-AdGuard-Home-更新了，增加了筛选最快-IP-的功能](https://www.v2ex.com/t/672295)  
-- [2020-05-16-基于-Gossip，新节点加入集群如何同步集群中现有数据和同步过程收到的新数据更新？](https://www.v2ex.com/t/672294)  
-- [2020-05-16-安装-Python3-真难](https://www.v2ex.com/t/672293)  
-- [2020-05-16-公司如何组网?小白一脸懵逼](https://www.v2ex.com/t/672290)  
-- [2020-05-16-不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题](https://www.v2ex.com/t/672289)  
-- [2020-05-16-黑苹果，-5k-的预算，-32g-内存，这个配置单可以不？](https://www.v2ex.com/t/672288)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

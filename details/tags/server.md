@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -17,6 +17,7 @@
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
 - [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-16-logstash6.5.4-解析-nginx-日志格式报错](https://www.v2ex.com/t/672321) 
 - [2020-05-16-不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281) 
 - [2020-05-15-spring-boot-如何优雅地实现-RESTful,统一结果封装有没有必要](https://www.v2ex.com/t/672082) 
 - [2020-05-15-问问大佬们一个-docker-compose-水平扩展容器挂载目录的问题](https://www.v2ex.com/t/672037) 

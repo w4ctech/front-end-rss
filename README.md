@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 21:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 22:30:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -1021,6 +1021,10 @@
 </summary>
 
 
+- [2020-05-16-美国疑似彻底封杀华为，是意向测试还是博弈筹码？](https://www.ershicimi.com/p/741c45c142dba32eead5ee589884787d) ![](assets/new.png)  
+- [2020-05-16-张钧甯：如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/a9bb154a52299a20e16f3e518a8a8011) ![](assets/new.png)  
+- [2020-05-16-知乎神吐槽-|-精神病医院是一个怎样的地方？](https://www.ershicimi.com/p/39753240a384ea3005719f1173ab3741) ![](assets/new.png)  
+- [2020-05-16-知乎故事-|-你身边发生过哪些好人有好报的事？](https://www.ershicimi.com/p/2314c36b80fe419b77f96174b5bdafdb) ![](assets/new.png)  
 - [2020-05-15-知乎高赞：有哪些值得刻意练习的心态？](https://www.ershicimi.com/p/eeabd3bb06bb8cf68d3a20475f876daa)  
 - [2020-05-15-微信里舍不得删的-8-个公众号](https://www.ershicimi.com/p/3e57dd19a49b9d919826406fc8b521f1)  
 - [2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c)  
@@ -1037,10 +1041,6 @@
 - [2020-05-11-papi-酱孩子随父姓被骂：今天也是「女权」被污名化的一天](https://www.ershicimi.com/p/dcb8cca517949efe737c7d8ae25ec6e3)  
 - [2020-05-11-72-分钟普通人变杀人犯，人性从来经不起试探](https://www.ershicimi.com/p/cc3a6bffc65b390d9e76f2ee0542e4fe)  
 - [2020-05-11-知乎故事-|-四川的猫吃辣吗？](https://www.ershicimi.com/p/f6d3627260fb4322bc8202c3966f150a)  
-- [2020-05-10-今天，我想让这个「偷东西」的人刷屏](https://www.ershicimi.com/p/9ed561c96c2c1eba0afe446f42bccfb4)  
-- [2020-05-10-知乎不仅变身知妈乎，还带了两个帮手送福利……](https://www.ershicimi.com/p/98251bae12a41f4569e105f3b43f049a)  
-- [2020-05-10-知乎故事-|-为什么很多年轻人得尿毒症？](https://www.ershicimi.com/p/bc4bc9fdb700d2bf943244882688c547)  
-- [2020-05-09-他他他她她她妈的名场面又来了！](https://www.ershicimi.com/p/4db41509239fb4126e13e2742e02e980)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-16-哔哩哔哩-Android-客户端移除侧边栏](https://www.v2ex.com/t/672428) ![](assets/new.png)  
-- [2020-05-16-有没有只要简单配置查询语句就能展现数据的前端开源项目？](https://www.v2ex.com/t/672427) ![](assets/new.png)  
-- [2020-05-16-小程序-道我-扫码挪车、隐私通话](https://www.v2ex.com/t/672426) ![](assets/new.png)  
+- [2020-05-16-mbp-16-乞丐版和-xps-15-9500-的选择](https://www.v2ex.com/t/672448) ![](assets/new.png)  
+- [2020-05-16-有人知道-Chrome-保存的密码，如果源网站更改域名后，怎么迁移原来的密码吗](https://www.v2ex.com/t/672447) ![](assets/new.png)  
+- [2020-05-16-广州健身私教课什么价位水平？](https://www.v2ex.com/t/672445) ![](assets/new.png)  
+- [2020-05-16-MacBook-Pro-16-寸有多少个-USB-总线？](https://www.v2ex.com/t/672444) ![](assets/new.png)  
+- [2020-05-16-招聘-中移系统集成有限公司-WEB、-Java-...](https://www.v2ex.com/t/672443) ![](assets/new.png)  
+- [2020-05-16-关于二手房，但房产证未过户](https://www.v2ex.com/t/672442) ![](assets/new.png)  
+- [2020-05-16-关于-numpy-的-reshape，请教](https://www.v2ex.com/t/672441) ![](assets/new.png)  
+- [2020-05-16-现在国内一些网站为了推广移动端已经变态到令人发指](https://www.v2ex.com/t/672440) ![](assets/new.png)  
+- [2020-05-16-求推荐重庆主城比较靠谱的驾校](https://www.v2ex.com/t/672439) ![](assets/new.png)  
+- [2020-05-16-RN-和-Flutter-这种跨平台的-UI-方案发展的怎样？](https://www.v2ex.com/t/672437) ![](assets/new.png)  
+- [2020-05-16-菜鸟求问-ZuulFilter-是否跟-Spring-security-中的-WebSecurityConfigurerAdapter-的功能存在重叠？](https://www.v2ex.com/t/672436) ![](assets/new.png)  
+- [2020-05-16-除了-Quasar-以外，还有哪些好用的基于-vue.js-的前端框架？](https://www.v2ex.com/t/672435) ![](assets/new.png)  
+- [2020-05-16-程序员在中年危机到来之前，是该努力提升自己竞争力还是提前谋划另谋出路？](https://www.v2ex.com/t/672434) ![](assets/new.png)  
+- [2020-05-16-已删除](https://www.v2ex.com/t/672433) ![](assets/new.png)  
+- [2020-05-16-go-admin-v1.0.0-版本和文档发布](https://www.v2ex.com/t/672432) ![](assets/new.png)  
+- [2020-05-16-有在拼多多上买过笔记本电脑的不？-上面的笔记本电脑感觉比淘宝，京东便宜些。不知道上面的电脑产品质量杂样？](https://www.v2ex.com/t/672429) ![](assets/new.png)  
+- [2020-05-16-哔哩哔哩-Android-客户端移除侧边栏](https://www.v2ex.com/t/672428)  
+- [2020-05-16-有没有只要简单配置查询语句就能展现数据的前端开源项目？](https://www.v2ex.com/t/672427)  
+- [2020-05-16-小程序-道我-扫码挪车、隐私通话](https://www.v2ex.com/t/672426)  
 - [2020-05-16-验证码自动识别哪种方式最快，或者有没有比云打码平台之类的人工打码还快的方法？](https://www.v2ex.com/t/672425)  
-- [2020-05-16-腾讯深圳客户端开发暑期实习期待你的投递~](https://www.v2ex.com/t/672424)  
-- [2020-05-16-V2EX-发言时，什么情况下需要验证邮件和手机？](https://www.v2ex.com/t/672423)  
-- [2020-05-16-C++-Discovering-Modern-C++-这本书国内有人在做翻译工作吗](https://www.v2ex.com/t/672420)  
-- [2020-05-16-根据后缀路径找到前段网址！求助](https://www.v2ex.com/t/672419)  
-- [2020-05-16-洁悠神有-v-友用过么，不知道什么时候医生开的，药品说明上能物理杀真菌、细菌、病毒。。。。是智商税吗](https://www.v2ex.com/t/672417)  
-- [2020-05-16-急-广州狸花小奶猫求领养](https://www.v2ex.com/t/672416)  
-- [2020-05-16-想问问各位大佬，公司一般用什么软件？（OA，-ERP，-POS，-CRM）](https://www.v2ex.com/t/672415)  
-- [2020-05-16-现在面试一般还是远程吗？（发帖日期-5.16）](https://www.v2ex.com/t/672412)  
-- [2020-05-16-发现-ipv6-的前缀好像基本上不会变化](https://www.v2ex.com/t/672411)  
-- [2020-05-16-大家有没有遇到公司强制让发广告到朋友圈](https://www.v2ex.com/t/672410)  
-- [2020-05-16-前端现在太复杂了，求推荐简单易用的技术方案用来写简单的-web-调试监控工具](https://www.v2ex.com/t/672408)  
-- [2020-05-16-主板相关](https://www.v2ex.com/t/672407)  
-- [2020-05-16-老板一袭黑衣，项上一似玉器链子](https://www.v2ex.com/t/672405)  
-- [2020-05-16-请教一个关于"HTML-转-pdf"的问题](https://www.v2ex.com/t/672404)  
-- [2020-05-16-开源isystant-lite-查看-iOS-设备-cpu/内存/磁盘/网速/电量-工具🔧app](https://www.v2ex.com/t/672403)  
-- [2020-05-16-招人辣-腾讯-CSIG-网络高级技术工程师北京/深圳](https://www.v2ex.com/t/672402)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

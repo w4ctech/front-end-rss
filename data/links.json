@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "北京昨日无新增新冠肺炎确诊病例 出院2例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1",
+        "date": "2020-05-16"
+      },
+      {
         "title": "世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1",
         "date": "2020-05-16"
@@ -6278,6 +6283,46 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制",
+        "link": "https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "讲述者：eBay 不为人知的起源故事",
+        "link": "https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "攀山登顶，华为云Stack如何为政企数字化转型注入新动力？",
+        "link": "https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "Deno 1.0 正式发布！",
+        "link": "https://www.ershicimi.com/p/fe2952180f2f8226548b1b0a482ea1e8",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "字节跳动：“挖”出来的技术战斗力",
+        "link": "https://www.ershicimi.com/p/e4a85c4ec0d6761bf04b331ffa2d56f8",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "华为被指 Linux 内核补丁有漏洞，官方否认参与该项目，称系员工个人项目",
+        "link": "https://www.ershicimi.com/p/527f810d2f9b4bb91acfdeea17f73c9e",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "构建一款能够支撑亿级体量的后台架构都需要注意哪些？",
+        "link": "https://www.ershicimi.com/p/d3d7c58ce276a658810445dbf062e4df",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "手把手教你用 Rust 搭建 REST API",
+        "link": "https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b",
+        "date": "2020-05-15"
+      },
+      {
         "title": "为什么这 10000 家企业的研发人员都在这儿学习？",
         "link": "https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447",
         "date": "2020-05-14"
@@ -7861,6 +7906,21 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "丰巢今天的短信变了",
+        "link": "https://www.v2ex.com/t/672240",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "各位大佬前辈，如何让 pycharm 使用 vscode 的快捷键（或者有什么插件），之前一直使用 vscode，快捷键一直切换不过来",
+        "link": "https://www.v2ex.com/t/672239",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "YouTubePremium 咖喱区开车找车友",
+        "link": "https://www.v2ex.com/t/672238",
+        "date": "2020-05-16"
+      },
       {
         "title": "各位，有用 tortoise-orm 的吗？",
         "link": "https://www.v2ex.com/t/672236",

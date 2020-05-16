@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 08:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-希腊新增40例新冠肺炎确诊病例-累计确诊2810例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201) 
@@ -520,6 +521,14 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484) 
+- [【InfoQ】2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088) 
+- [【InfoQ】2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d) 
+- [【InfoQ】2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/fe2952180f2f8226548b1b0a482ea1e8) 
+- [【InfoQ】2020-05-15-字节跳动：“挖”出来的技术战斗力](https://www.ershicimi.com/p/e4a85c4ec0d6761bf04b331ffa2d56f8) 
+- [【InfoQ】2020-05-15-华为被指-Linux-内核补丁有漏洞，官方否认参与该项目，称系员工个人项目](https://www.ershicimi.com/p/527f810d2f9b4bb91acfdeea17f73c9e) 
+- [【InfoQ】2020-05-15-构建一款能够支撑亿级体量的后台架构都需要注意哪些？](https://www.ershicimi.com/p/d3d7c58ce276a658810445dbf062e4df) 
+- [【InfoQ】2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) 
 - [【InfoQ】2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447) 
 - [【InfoQ】2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a) 
 - [【InfoQ】2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d) 
@@ -627,6 +636,9 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-16-丰巢今天的短信变了](https://www.v2ex.com/t/672240) 
+- [【V2EX】2020-05-16-各位大佬前辈，如何让-pycharm-使用-vscode-的快捷键（或者有什么插件），之前一直使用-vscode，快捷键一直切换不过来](https://www.v2ex.com/t/672239) 
+- [【V2EX】2020-05-16-YouTubePremium-咖喱区开车找车友](https://www.v2ex.com/t/672238) 
 - [【V2EX】2020-05-16-各位，有用-tortoise-orm-的吗？](https://www.v2ex.com/t/672236) 
 - [【V2EX】2020-05-16-什么是规模以上企业（规上企业）？](https://www.v2ex.com/t/672235) 
 - [【V2EX】2020-05-16-小程序后台今天提示-服务条款变更：-增加小程序可能会在非微信客户端的环境中运行说明](https://www.v2ex.com/t/672234) 

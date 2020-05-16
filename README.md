@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 09:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1)  
 - [2020-05-16-希腊新增40例新冠肺炎确诊病例-累计确诊2810例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1)  
 - [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201)  
@@ -113,7 +114,6 @@
 - [2020-05-15-日本政府首次认定2位感染新冠肺炎的医疗从业人员为工伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articm6NPOe6wDui9qOt133v200515&isfromapp=1)  
 - [2020-05-15-比利时：一级方程式大奖赛比利时站将于8月举办](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC1kKrybmNaRRRoCtlob9200515&isfromapp=1)  
 - [2020-05-15-世卫组织：全球新冠肺炎确诊病例超过430万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPJNZv4Efkdh4CUD95V3u200515&isfromapp=1)  
-- [2020-05-15-吉林市：城区客运班线、旅游包车一律禁止出城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -845,6 +845,14 @@
 </summary>
 
 
+- [2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484) ![](assets/new.png)  
+- [2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088) ![](assets/new.png)  
+- [2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d) ![](assets/new.png)  
+- [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/fe2952180f2f8226548b1b0a482ea1e8) ![](assets/new.png)  
+- [2020-05-15-字节跳动：“挖”出来的技术战斗力](https://www.ershicimi.com/p/e4a85c4ec0d6761bf04b331ffa2d56f8) ![](assets/new.png)  
+- [2020-05-15-华为被指-Linux-内核补丁有漏洞，官方否认参与该项目，称系员工个人项目](https://www.ershicimi.com/p/527f810d2f9b4bb91acfdeea17f73c9e) ![](assets/new.png)  
+- [2020-05-15-构建一款能够支撑亿级体量的后台架构都需要注意哪些？](https://www.ershicimi.com/p/d3d7c58ce276a658810445dbf062e4df) ![](assets/new.png)  
+- [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) ![](assets/new.png)  
 - [2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447)  
 - [2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a)  
 - [2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d)  
@@ -857,14 +865,6 @@
 - [2020-05-12-程序员如何学英语，才能无障碍阅读官方文档？丨极客时间](https://www.ershicimi.com/p/478daaf992f5ba25a2c5e17c50fd2960)  
 - [2020-05-12-对开发者而言，新基建的意义是什么？旧基建怎么处理？](https://www.ershicimi.com/p/353d14eec45d9c50bdacf6ce6a5a9dcb)  
 - [2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16)  
-- [2020-05-12-Serverless-实战：3-分钟实现文本敏感词过滤](https://www.ershicimi.com/p/2d6842ea694963f3d5123cb1b0142f4c)  
-- [2020-05-11-6年巨亏390亿后，滴滴终于盈利了](https://www.ershicimi.com/p/148417d03330933951d5d586361f5e67)  
-- [2020-05-11-Mecha：将Mesh进行到底](https://www.ershicimi.com/p/7383a5c60e66a19b3f377122f8cb71f5)  
-- [2020-05-11-你忽略的工程效能提升，是很多优秀研发团队的制胜秘诀丨QCon](https://www.ershicimi.com/p/89690c5079b410ec3f803cabdb31f0d8)  
-- [2020-05-11-SuperCell-的中台你们学不会](https://www.ershicimi.com/p/ae662ca74387d2c67a45cb0429541c4b)  
-- [2020-05-10-马云称年轻人怕压力就白活了；腾讯回应“华为手机提示拦截-QQ-删除照片”；Stack-Overflo](https://www.ershicimi.com/p/891a4d5cd372bf00e4e881b909064962)  
-- [2020-05-10-技术人必读书籍，InfoQ-免费送！](https://www.ershicimi.com/p/055874a72b844f0479209d4dfef5ea58)  
-- [2020-05-09-成人网站泄露-108-亿数据，内含-50-万中国用户](https://www.ershicimi.com/p/c24e45838912c22bbfac48d584be0b55)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,8 +1052,11 @@
 </summary>
 
 
-- [2020-05-16-各位，有用-tortoise-orm-的吗？](https://www.v2ex.com/t/672236) ![](assets/new.png)  
-- [2020-05-16-什么是规模以上企业（规上企业）？](https://www.v2ex.com/t/672235) ![](assets/new.png)  
+- [2020-05-16-丰巢今天的短信变了](https://www.v2ex.com/t/672240) ![](assets/new.png)  
+- [2020-05-16-各位大佬前辈，如何让-pycharm-使用-vscode-的快捷键（或者有什么插件），之前一直使用-vscode，快捷键一直切换不过来](https://www.v2ex.com/t/672239) ![](assets/new.png)  
+- [2020-05-16-YouTubePremium-咖喱区开车找车友](https://www.v2ex.com/t/672238) ![](assets/new.png)  
+- [2020-05-16-各位，有用-tortoise-orm-的吗？](https://www.v2ex.com/t/672236)  
+- [2020-05-16-什么是规模以上企业（规上企业）？](https://www.v2ex.com/t/672235)  
 - [2020-05-16-小程序后台今天提示-服务条款变更：-增加小程序可能会在非微信客户端的环境中运行说明](https://www.v2ex.com/t/672234)  
 - [2020-05-16-window.onload-和-async-的执行顺序有区别吗，哪个先执行？](https://www.v2ex.com/t/672233)  
 - [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232)  
@@ -1069,9 +1072,6 @@
 - [2020-05-16-分享-提高微信备份速度（转）](https://www.v2ex.com/t/672221)  
 - [2020-05-16-局域网内-WiFi-传输可以有多快？](https://www.v2ex.com/t/672219)  
 - [2020-05-16-V2EX-自动加载夜间模式的建议](https://www.v2ex.com/t/672218)  
-- [2020-05-16-钱花了，教训也没买到](https://www.v2ex.com/t/672217)  
-- [2020-05-16-没啥。。发错了](https://www.v2ex.com/t/672216)  
-- [2020-05-15-2020-年-有什么技术或语言可以入手-10-年内保鲜的吗？](https://www.v2ex.com/t/672214)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,10 +1114,10 @@
 </summary>
 
 
-- [2020-05-16-Spring-源码（十）：Spring-AOP-核心-API](https://toutiao.io/k/5dpo99t) ![](assets/new.png)  
-- [2020-05-16-内存迟迟下不去，可能你就差一个-GC.Collect](https://toutiao.io/k/1gjtcoi) ![](assets/new.png)  
-- [2020-05-16-译-Flutter-web-最新进展：发掘更多可能](https://toutiao.io/k/01fvjkt) ![](assets/new.png)  
-- [2020-05-16-译-HTML-页面生成器：使用-JavaScript-和-Node-创建-CLI](https://toutiao.io/k/106h98b) ![](assets/new.png)  
+- [2020-05-16-Spring-源码（十）：Spring-AOP-核心-API](https://toutiao.io/k/5dpo99t)  
+- [2020-05-16-内存迟迟下不去，可能你就差一个-GC.Collect](https://toutiao.io/k/1gjtcoi)  
+- [2020-05-16-译-Flutter-web-最新进展：发掘更多可能](https://toutiao.io/k/01fvjkt)  
+- [2020-05-16-译-HTML-页面生成器：使用-JavaScript-和-Node-创建-CLI](https://toutiao.io/k/106h98b)  
 - [2020-05-16-《新版阿里巴巴-Java-开发手册》提到的三目运算符的空指针问题到底是个怎么回事？](https://toutiao.io/k/a2abr8a)  
 - [2020-05-16-译-Raft-论文（中文版）](https://toutiao.io/k/au7sc8o)  
 - [2020-05-16-Flutter-在-PLUS-业务中的探索和实践](https://toutiao.io/k/0yr9mfk)  

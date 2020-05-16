@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -593,6 +593,12 @@
 - [2020-04-21-译：谷歌OKR指导手册（全文）](https://www.ershicimi.com/p/3dbd719e3cd6184a967edcaf582bf9ed) 
 - [2020-04-21-阿里巴巴：万亿级数据洪峰下的分布式消息引擎](https://www.ershicimi.com/p/ee8a085fba1a0a796253bc37614644ad) 
 - [2020-04-21-高并发之-API-接口，分布式，防刷限流，如何做？](https://www.ershicimi.com/p/8e22467cfc389ba33fde80f1dc3fe90a) 
+- [2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484) 
+- [2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088) 
+- [2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d) 
+- [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/fe2952180f2f8226548b1b0a482ea1e8) 
+- [2020-05-15-字节跳动：“挖”出来的技术战斗力](https://www.ershicimi.com/p/e4a85c4ec0d6761bf04b331ffa2d56f8) 
+- [2020-05-15-华为被指-Linux-内核补丁有漏洞，官方否认参与该项目，称系员工个人项目](https://www.ershicimi.com/p/527f810d2f9b4bb91acfdeea17f73c9e) 
 - [2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447) 
 - [2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a) 
 - [2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d) 
@@ -786,6 +792,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-16-丰巢今天的短信变了](https://www.v2ex.com/t/672240) 
+- [2020-05-16-各位大佬前辈，如何让-pycharm-使用-vscode-的快捷键（或者有什么插件），之前一直使用-vscode，快捷键一直切换不过来](https://www.v2ex.com/t/672239) 
+- [2020-05-16-YouTubePremium-咖喱区开车找车友](https://www.v2ex.com/t/672238) 
 - [2020-05-16-各位，有用-tortoise-orm-的吗？](https://www.v2ex.com/t/672236) 
 - [2020-05-16-什么是规模以上企业（规上企业）？](https://www.v2ex.com/t/672235) 
 - [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232) 

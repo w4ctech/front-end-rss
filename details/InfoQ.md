@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2020-05-14 23:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 09:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484) 
+- [2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088) 
+- [2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d) 
+- [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/fe2952180f2f8226548b1b0a482ea1e8) 
+- [2020-05-15-字节跳动：“挖”出来的技术战斗力](https://www.ershicimi.com/p/e4a85c4ec0d6761bf04b331ffa2d56f8) 
+- [2020-05-15-华为被指-Linux-内核补丁有漏洞，官方否认参与该项目，称系员工个人项目](https://www.ershicimi.com/p/527f810d2f9b4bb91acfdeea17f73c9e) 
+- [2020-05-15-构建一款能够支撑亿级体量的后台架构都需要注意哪些？](https://www.ershicimi.com/p/d3d7c58ce276a658810445dbf062e4df) 
+- [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) 
 - [2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447) 
 - [2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a) 
 - [2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d) 

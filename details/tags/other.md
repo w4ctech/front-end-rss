@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,11 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-16-国家卫健委：日均能检测150万份-核酸检测能力还需进一步提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3ki9R8PUQCkFMErUA9P200516&isfromapp=1) 
+- [2020-05-16-新加坡18名“常阳患者”获准出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdEwt5JwEe8TkkPGo7Dm200516&isfromapp=1) 
+- [2020-05-16-复学4天倒计时！探访武汉南湖中学复学准备情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHOkBDLJcA222X3sx9qq200516&isfromapp=1) 
+- [2020-05-16-意大利自18日起进一步放开疫情管控-6月3日起开放边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYBUzwT8JeDwnQhTd85f200516&isfromapp=1) 
+- [2020-05-16-热评丨舒兰“换帅”-再次说明疫情防控不可松懈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiduRsgUFpNskzBBATmRq2200516&isfromapp=1) 
 - [2020-05-16-上海有1例确诊病例今日出院，共计641例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1) 
 - [2020-05-16-18日起-北京公共交通满载率上调15%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1) 
 - [2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1) 

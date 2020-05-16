@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 18:30:20，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 19:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-16-国家卫健委：日均能检测150万份-核酸检测能力还需进一步提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3ki9R8PUQCkFMErUA9P200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-新加坡18名“常阳患者”获准出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdEwt5JwEe8TkkPGo7Dm200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-复学4天倒计时！探访武汉南湖中学复学准备情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHOkBDLJcA222X3sx9qq200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-意大利自18日起进一步放开疫情管控-6月3日起开放边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYBUzwT8JeDwnQhTd85f200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-热评丨舒兰“换帅”-再次说明疫情防控不可松懈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiduRsgUFpNskzBBATmRq2200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-16-上海有1例确诊病例今日出院，共计641例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1)  
 - [2020-05-16-18日起-北京公共交通满载率上调15%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1)  
 - [2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-16-美疾控中心：美国新冠死亡病例月底预计将超-10-万](http://m.weibo.cn/2803301701/4505105258928201)  
 - [2020-05-16-斯洛文尼亚宣布本国新冠疫情结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1)  
 - [2020-05-15-印度最大贫民窟新增84例新冠肺炎确诊病例-累计确诊1145例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1)  
-- [2020-05-15-英国新增新冠肺炎确诊病例3560例-累计236711例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfVxKszX6ZHvG2gBF7T200515&isfromapp=1)  
-- [2020-05-15-罗马尼亚新增190例新冠肺炎确诊病例-紧急状态降为戒备状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO8r5tPtgE7wLB1nQiTwx200515&isfromapp=1)  
-- [2020-05-15-美国纽约州又有百名儿童感染不明疾病](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1)  
-- [2020-05-15-海南：1例境外输入无症状感染者转为新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1)  
-- [2020-05-15-韩国104岁新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-16-win7-上怎么才能用上-win10-自带的拼音输入法？](https://www.v2ex.com/t/672391) ![](assets/new.png)  
-- [2020-05-16-#-elasticsearch-可以替代-mongodb-吗？](https://www.v2ex.com/t/672389) ![](assets/new.png)  
-- [2020-05-16-罗技摄像头产品普遍涨价-2-3-倍，良心呢！](https://www.v2ex.com/t/672388) ![](assets/new.png)  
-- [2020-05-16-黄金走势瞎画](https://www.v2ex.com/t/672387) ![](assets/new.png)  
-- [2020-05-16-重现木兰编程语言（九）——条件语句](https://www.v2ex.com/t/672386) ![](assets/new.png)  
-- [2020-05-16-推荐下加密文件夹的软件？不用加密得多严谨，让文件夹无法被随意访问就行。-windows-平台的](https://www.v2ex.com/t/672384) ![](assets/new.png)  
-- [2020-05-16-不懂就问，准备入坑-Java-，想问问-Java-与-jsp-与-spring-boot-与-spring-cloud-与-spring-mvc-的关系](https://www.v2ex.com/t/672383) ![](assets/new.png)  
-- [2020-05-16-Oracle-的-Java-JRE-最新版本问题？](https://www.v2ex.com/t/672382) ![](assets/new.png)  
-- [2020-05-16-请原谅我再水一贴-deno，因为实在太激动了](https://www.v2ex.com/t/672381) ![](assets/new.png)  
-- [2020-05-16-搭了个-DoT-服务器玩玩](https://www.v2ex.com/t/672379) ![](assets/new.png)  
-- [2020-05-16-谈一下价值观](https://www.v2ex.com/t/672378) ![](assets/new.png)  
-- [2020-05-16-iPhone-电池老化降频引发集体诉讼-苹果与原告达成和解协议](https://www.v2ex.com/t/672377) ![](assets/new.png)  
-- [2020-05-16-遇到一个快照劫持的问题，就很迷惑](https://www.v2ex.com/t/672376) ![](assets/new.png)  
-- [2020-05-16-请教个爬虫传参的问题](https://www.v2ex.com/t/672374) ![](assets/new.png)  
-- [2020-05-16-为何我用索尼手机自带的浏览器访问-V2EX-会疯狂闪退？](https://www.v2ex.com/t/672373) ![](assets/new.png)  
-- [2020-05-16-怎么在自己的服务器里部署-http://www.geogebra.org-这个网站？](https://www.v2ex.com/t/672372) ![](assets/new.png)  
-- [2020-05-16-整租出租-杭州余杭区-合景映月台-中电海康赛银国际阿里旁-四室两厅-120-方](https://www.v2ex.com/t/672371) ![](assets/new.png)  
-- [2020-05-16-价格屠夫普？](https://www.v2ex.com/t/672370) ![](assets/new.png)  
-- [2020-05-16-合肥：明天下午三点，有一起看脱口秀的吗](https://www.v2ex.com/t/672369) ![](assets/new.png)  
-- [2020-05-16-社招-快手-iOS/Android/-Java-后端/算法/大数据开发](https://www.v2ex.com/t/672368) ![](assets/new.png)  
+- [2020-05-16-win7-上怎么才能用上-win10-自带的拼音输入法？](https://www.v2ex.com/t/672391)  
+- [2020-05-16-#-elasticsearch-可以替代-mongodb-吗？](https://www.v2ex.com/t/672389)  
+- [2020-05-16-罗技摄像头产品普遍涨价-2-3-倍，良心呢！](https://www.v2ex.com/t/672388)  
+- [2020-05-16-黄金走势瞎画](https://www.v2ex.com/t/672387)  
+- [2020-05-16-重现木兰编程语言（九）——条件语句](https://www.v2ex.com/t/672386)  
+- [2020-05-16-推荐下加密文件夹的软件？不用加密得多严谨，让文件夹无法被随意访问就行。-windows-平台的](https://www.v2ex.com/t/672384)  
+- [2020-05-16-不懂就问，准备入坑-Java-，想问问-Java-与-jsp-与-spring-boot-与-spring-cloud-与-spring-mvc-的关系](https://www.v2ex.com/t/672383)  
+- [2020-05-16-Oracle-的-Java-JRE-最新版本问题？](https://www.v2ex.com/t/672382)  
+- [2020-05-16-请原谅我再水一贴-deno，因为实在太激动了](https://www.v2ex.com/t/672381)  
+- [2020-05-16-搭了个-DoT-服务器玩玩](https://www.v2ex.com/t/672379)  
+- [2020-05-16-谈一下价值观](https://www.v2ex.com/t/672378)  
+- [2020-05-16-iPhone-电池老化降频引发集体诉讼-苹果与原告达成和解协议](https://www.v2ex.com/t/672377)  
+- [2020-05-16-遇到一个快照劫持的问题，就很迷惑](https://www.v2ex.com/t/672376)  
+- [2020-05-16-请教个爬虫传参的问题](https://www.v2ex.com/t/672374)  
+- [2020-05-16-为何我用索尼手机自带的浏览器访问-V2EX-会疯狂闪退？](https://www.v2ex.com/t/672373)  
+- [2020-05-16-怎么在自己的服务器里部署-http://www.geogebra.org-这个网站？](https://www.v2ex.com/t/672372)  
+- [2020-05-16-整租出租-杭州余杭区-合景映月台-中电海康赛银国际阿里旁-四室两厅-120-方](https://www.v2ex.com/t/672371)  
+- [2020-05-16-价格屠夫普？](https://www.v2ex.com/t/672370)  
+- [2020-05-16-合肥：明天下午三点，有一起看脱口秀的吗](https://www.v2ex.com/t/672369)  
+- [2020-05-16-社招-快手-iOS/Android/-Java-后端/算法/大数据开发](https://www.v2ex.com/t/672368)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

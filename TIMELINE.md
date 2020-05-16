@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-国家卫健委：日均能检测150万份-核酸检测能力还需进一步提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3ki9R8PUQCkFMErUA9P200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-新加坡18名“常阳患者”获准出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdEwt5JwEe8TkkPGo7Dm200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-复学4天倒计时！探访武汉南湖中学复学准备情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHOkBDLJcA222X3sx9qq200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-意大利自18日起进一步放开疫情管控-6月3日起开放边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYBUzwT8JeDwnQhTd85f200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-热评丨舒兰“换帅”-再次说明疫情防控不可松懈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiduRsgUFpNskzBBATmRq2200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-上海有1例确诊病例今日出院，共计641例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-18日起-北京公共交通满载率上调15%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1) 

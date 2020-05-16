@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -534,6 +534,8 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-05-16-如何不重启热更新线上-Java-代码?](https://www.ershicimi.com/p/748c41e3b9c9d0f0e553b5379c0fdcbd) 
+- [2020-05-16-在滴滴和头条干了-2-年后端开发，太真实…](https://www.ershicimi.com/p/36f6fedd28c196b3b9334419c28e7626) 
 - [2020-05-15-为什么不建议Java程序员用阿里巴巴规范，而使用GoogleGuava编程](https://www.ershicimi.com/p/9c187488e560388a080d9107aa1589a5) 
 - [2020-05-15-用-float-存储金额，老板说损失从工资里扣！](https://www.ershicimi.com/p/5747eeddb269e6f45126f153b4ab8b4f) 
 - [2020-05-14-那些总是写“烂代码”的同学，强烈推荐你使用这款IDEA插件！](https://www.ershicimi.com/p/e8b0aa5bfe5abbd903b9d52f19e29f6d) 
@@ -794,6 +796,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-16-这一套卖得了好多钱哦](https://www.v2ex.com/t/672256) 
+- [2020-05-16-Mac-自带的输入法可以打出「沨」字吗？](https://www.v2ex.com/t/672254) 
+- [2020-05-16-请教一下有关上海宽带的相关经验！](https://www.v2ex.com/t/672253) 
 - [2020-05-16-工作需要，有偿做一个-AI-英文论坛，面向海外](https://www.v2ex.com/t/672252) 
 - [2020-05-16-歌荒各位来推荐一些好歌吧](https://www.v2ex.com/t/672251) 
 - [2020-05-16-MacBookPro-的显示问题](https://www.v2ex.com/t/672249) 

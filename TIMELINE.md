@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -477,6 +477,9 @@
 - [【前端日刊】2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
 - [【前端日刊】2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-16-某生鲜平台面试题：如何保证库存在高并发的场景下是安全的？](https://www.ershicimi.com/p/a1acc7578acbe767350e71bbb94e1bbe) 
+- [【互联网架构师】2020-05-16-如何不重启热更新线上-Java-代码?](https://www.ershicimi.com/p/748c41e3b9c9d0f0e553b5379c0fdcbd) 
+- [【互联网架构师】2020-05-16-在滴滴和头条干了-2-年后端开发，太真实…](https://www.ershicimi.com/p/36f6fedd28c196b3b9334419c28e7626) 
 - [【互联网架构师】2020-05-15-为什么不建议Java程序员用阿里巴巴规范，而使用GoogleGuava编程](https://www.ershicimi.com/p/9c187488e560388a080d9107aa1589a5) 
 - [【互联网架构师】2020-05-15-用-float-存储金额，老板说损失从工资里扣！](https://www.ershicimi.com/p/5747eeddb269e6f45126f153b4ab8b4f) 
 - [【互联网架构师】2020-05-15-GitHub重大更新：在线开发上线，是时候卸载IDE了](https://www.ershicimi.com/p/fcc7021d1f00fe60761575487d7a5011) 
@@ -638,6 +641,9 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-16-这一套卖得了好多钱哦](https://www.v2ex.com/t/672256) 
+- [【V2EX】2020-05-16-Mac-自带的输入法可以打出「沨」字吗？](https://www.v2ex.com/t/672254) 
+- [【V2EX】2020-05-16-请教一下有关上海宽带的相关经验！](https://www.v2ex.com/t/672253) 
 - [【V2EX】2020-05-16-工作需要，有偿做一个-AI-英文论坛，面向海外](https://www.v2ex.com/t/672252) 
 - [【V2EX】2020-05-16-歌荒各位来推荐一些好歌吧](https://www.v2ex.com/t/672251) 
 - [【V2EX】2020-05-16-Chrome-账号相关插件咨询](https://www.v2ex.com/t/672250) 

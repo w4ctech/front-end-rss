@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 09:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 10:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1)  
 - [2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1)  
 - [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1)  
 - [2020-05-16-希腊新增40例新冠肺炎确诊病例-累计确诊2810例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1)  
@@ -557,7 +557,7 @@
 </summary>
 
 
-- [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db) ![](assets/new.png)  
+- [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db)  
 - [2020-05-15-我接触过的前端数据结构与算法](https://www.ershicimi.com/p/310f723762ec8cdd32c9933dda020603)  
 - [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4)  
 - [2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707)  
@@ -814,6 +814,9 @@
 </summary>
 
 
+- [2020-05-16-某生鲜平台面试题：如何保证库存在高并发的场景下是安全的？](https://www.ershicimi.com/p/a1acc7578acbe767350e71bbb94e1bbe) ![](assets/new.png)  
+- [2020-05-16-如何不重启热更新线上-Java-代码?](https://www.ershicimi.com/p/748c41e3b9c9d0f0e553b5379c0fdcbd) ![](assets/new.png)  
+- [2020-05-16-在滴滴和头条干了-2-年后端开发，太真实…](https://www.ershicimi.com/p/36f6fedd28c196b3b9334419c28e7626) ![](assets/new.png)  
 - [2020-05-15-为什么不建议Java程序员用阿里巴巴规范，而使用GoogleGuava编程](https://www.ershicimi.com/p/9c187488e560388a080d9107aa1589a5)  
 - [2020-05-15-用-float-存储金额，老板说损失从工资里扣！](https://www.ershicimi.com/p/5747eeddb269e6f45126f153b4ab8b4f)  
 - [2020-05-15-GitHub重大更新：在线开发上线，是时候卸载IDE了](https://www.ershicimi.com/p/fcc7021d1f00fe60761575487d7a5011)  
@@ -831,9 +834,6 @@
 - [2020-05-11-Aloha：一个略屌的分布式任务调度框架](https://www.ershicimi.com/p/6d004e44e5159e4dce94e988c710ca6e)  
 - [2020-05-10-1.5W-字搞懂-Spring-Cloud，太牛了！](https://www.ershicimi.com/p/aa501c8e8c57257c5b9ba3c2781e18d4)  
 - [2020-05-10-为什么要放弃-JSP-？](https://www.ershicimi.com/p/e8d7c7dd73f6be032156b02c0b289040)  
-- [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda)  
-- [2020-05-09-太扯了！员工拒绝加班被罚1.8万，遭网友热议，人民日报发声了！](https://www.ershicimi.com/p/c35f35646744a16f6fcd1ce03b4ad965)  
-- [2020-05-09-你写得API接口代码真是一坨"屎"，难道不能对返回格式统一处理一下吗？](https://www.ershicimi.com/p/07a8d6c53ab1455f41cba06db1e48850)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,15 +1052,18 @@
 </summary>
 
 
-- [2020-05-16-工作需要，有偿做一个-AI-英文论坛，面向海外](https://www.v2ex.com/t/672252) ![](assets/new.png)  
-- [2020-05-16-歌荒各位来推荐一些好歌吧](https://www.v2ex.com/t/672251) ![](assets/new.png)  
-- [2020-05-16-Chrome-账号相关插件咨询](https://www.v2ex.com/t/672250) ![](assets/new.png)  
-- [2020-05-16-MacBookPro-的显示问题](https://www.v2ex.com/t/672249) ![](assets/new.png)  
-- [2020-05-16-家用投影仪，求推荐](https://www.v2ex.com/t/672248) ![](assets/new.png)  
-- [2020-05-16-事情处理的差不多了，-iOS-求一个上海的萝卜坑](https://www.v2ex.com/t/672246) ![](assets/new.png)  
-- [2020-05-16-这里有小米家的工程师吗](https://www.v2ex.com/t/672245) ![](assets/new.png)  
-- [2020-05-16-说了丰巢，还有一个速递*被忽略](https://www.v2ex.com/t/672244) ![](assets/new.png)  
-- [2020-05-16-求助-iPhone-上-siri-总是无法连接、请稍候](https://www.v2ex.com/t/672241) ![](assets/new.png)  
+- [2020-05-16-这一套卖得了好多钱哦](https://www.v2ex.com/t/672256) ![](assets/new.png)  
+- [2020-05-16-Mac-自带的输入法可以打出「沨」字吗？](https://www.v2ex.com/t/672254) ![](assets/new.png)  
+- [2020-05-16-请教一下有关上海宽带的相关经验！](https://www.v2ex.com/t/672253) ![](assets/new.png)  
+- [2020-05-16-工作需要，有偿做一个-AI-英文论坛，面向海外](https://www.v2ex.com/t/672252)  
+- [2020-05-16-歌荒各位来推荐一些好歌吧](https://www.v2ex.com/t/672251)  
+- [2020-05-16-Chrome-账号相关插件咨询](https://www.v2ex.com/t/672250)  
+- [2020-05-16-MacBookPro-的显示问题](https://www.v2ex.com/t/672249)  
+- [2020-05-16-家用投影仪，求推荐](https://www.v2ex.com/t/672248)  
+- [2020-05-16-事情处理的差不多了，-iOS-求一个上海的萝卜坑](https://www.v2ex.com/t/672246)  
+- [2020-05-16-这里有小米家的工程师吗](https://www.v2ex.com/t/672245)  
+- [2020-05-16-说了丰巢，还有一个速递*被忽略](https://www.v2ex.com/t/672244)  
+- [2020-05-16-求助-iPhone-上-siri-总是无法连接、请稍候](https://www.v2ex.com/t/672241)  
 - [2020-05-16-丰巢今天的短信变了](https://www.v2ex.com/t/672240)  
 - [2020-05-16-各位大佬前辈，如何让-pycharm-使用-vscode-的快捷键（或者有什么插件），之前一直使用-vscode，快捷键一直切换不过来](https://www.v2ex.com/t/672239)  
 - [2020-05-16-YouTubePremium-咖喱区开车找车友](https://www.v2ex.com/t/672238)  
@@ -1069,9 +1072,6 @@
 - [2020-05-16-小程序后台今天提示-服务条款变更：-增加小程序可能会在非微信客户端的环境中运行说明](https://www.v2ex.com/t/672234)  
 - [2020-05-16-window.onload-和-async-的执行顺序有区别吗，哪个先执行？](https://www.v2ex.com/t/672233)  
 - [2020-05-16-分享一个自己做的应用--小蛇搜搜专搜个人博客](https://www.v2ex.com/t/672232)  
-- [2020-05-16-1-张公交卡+1-张签到门禁卡+1-张非签到门禁卡，如果三合一，手环/手表还是淘宝多合一？](https://www.v2ex.com/t/672231)  
-- [2020-05-16-H3C-路由器开启-DMZ-后为什么-NAT-类型没有变化](https://www.v2ex.com/t/672230)  
-- [2020-05-16-为什么-MIUI12-不放线刷包（fastboot-rom）了](https://www.v2ex.com/t/672229)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 23:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 00:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1) ![](assets/new.png)  
-- [2020-05-16-吉林市免去-5-名干部职务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MYlOFZuvFp6HvDmwrUM200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1)  
+- [2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1)  
+- [2020-05-16-吉林市免去-5-名干部职务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MYlOFZuvFp6HvDmwrUM200516&isfromapp=1)  
 - [2020-05-16-黑龙江从业人员健康证怎么办？核酸检测+抗体检测一个都不能少！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmHulpM3x9hIPmm7bGG5200516&isfromapp=1)  
 - [2020-05-16-ATM-机里取大米！-多国救助低收入人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifKmsogd69HHZU2xGXj9w200516&isfromapp=1)  
 - [2020-05-16-孙春兰在吉林调研时强调-再排查、再加固、再落实-坚决防止疫情新燃点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBuUgKikyJSt9P2A5aDCa200516&isfromapp=1)  
@@ -1052,26 +1052,26 @@
 </summary>
 
 
+- [2020-05-16-有朋友睡觉打呼噜甚至憋醒的么？想买个家用呼吸机不知道能不能改善](https://www.v2ex.com/t/672470) ![](assets/new.png)  
+- [2020-05-16-一加-8-Pro，使用手机-QQ-的内置相机之后手电筒变暗？](https://www.v2ex.com/t/672469) ![](assets/new.png)  
+- [2020-05-16-现在帝都的北京移动-4G-的室外、室内信号强度覆盖那么差？](https://www.v2ex.com/t/672468) ![](assets/new.png)  
+- [2020-05-16-米国的程序员如何捍卫自己的权力](https://www.v2ex.com/t/672467) ![](assets/new.png)  
+- [2020-05-16-geekhub-上面的默认颜色-是白色的，怎么调置默认颜色是黑色的，-点那三个换颜色的按钮是改变-body-里面的](https://www.v2ex.com/t/672466) ![](assets/new.png)  
+- [2020-05-16-工作不马上做完就浑身难受怎么办？](https://www.v2ex.com/t/672465) ![](assets/new.png)  
+- [2020-05-16-我来分享一个自己最近做的编曲吧](https://www.v2ex.com/t/672464) ![](assets/new.png)  
+- [2020-05-16-效率工程类的岗位坑不坑](https://www.v2ex.com/t/672462) ![](assets/new.png)  
+- [2020-05-16-请问现在还有-setapp-家庭车嘛，求个车位](https://www.v2ex.com/t/672461) ![](assets/new.png)  
+- [2020-05-16-迫于需要清灰,求推荐-MacBook-2019-16inch-的拆机螺丝刀](https://www.v2ex.com/t/672459) ![](assets/new.png)  
+- [2020-05-16-好奇问一下，外国人或者留学生用-VPN-吗？](https://www.v2ex.com/t/672458) ![](assets/new.png)  
+- [2020-05-16-Play-商店购买还需要单独缴税？](https://www.v2ex.com/t/672457) ![](assets/new.png)  
+- [2020-05-16-淘宝思想监控一开始我觉得很扯，但是直到亲自发生后才开始怀疑](https://www.v2ex.com/t/672456) ![](assets/new.png)  
+- [2020-05-16-由一个讨论低功耗想到的，如果可以把家里所有用电都-APP-图表细化展示](https://www.v2ex.com/t/672455) ![](assets/new.png)  
 - [2020-05-16-迫于生存，想转让一半琴行的股份](https://www.v2ex.com/t/672454)  
 - [2020-05-16-人生就是一个不断得到和失去的过程](https://www.v2ex.com/t/672453)  
 - [2020-05-16-是到甲骨文韩国线路改了还是-v2-跪了？](https://www.v2ex.com/t/672452)  
 - [2020-05-16-手机自动黑屏菊花，分析日志开头是-jetsamevent，贴一下日志有朋友可以帮忙分析一下是哪方面问题吗？](https://www.v2ex.com/t/672451)  
 - [2020-05-16-如果对-2K-万条记录的某个字段查重？](https://www.v2ex.com/t/672450)  
 - [2020-05-16-mbp-16-乞丐版和-xps-15-9500-的选择](https://www.v2ex.com/t/672448)  
-- [2020-05-16-有人知道-Chrome-保存的密码，如果源网站更改域名后，怎么迁移原来的密码吗](https://www.v2ex.com/t/672447)  
-- [2020-05-16-广州健身私教课什么价位水平？](https://www.v2ex.com/t/672445)  
-- [2020-05-16-MacBook-Pro-16-寸有多少个-USB-总线？](https://www.v2ex.com/t/672444)  
-- [2020-05-16-招聘-中移系统集成有限公司-WEB、-Java-...](https://www.v2ex.com/t/672443)  
-- [2020-05-16-关于二手房，但房产证未过户](https://www.v2ex.com/t/672442)  
-- [2020-05-16-关于-numpy-的-reshape，请教](https://www.v2ex.com/t/672441)  
-- [2020-05-16-现在国内一些网站为了推广移动端已经变态到令人发指](https://www.v2ex.com/t/672440)  
-- [2020-05-16-求推荐重庆主城比较靠谱的驾校](https://www.v2ex.com/t/672439)  
-- [2020-05-16-RN-和-Flutter-这种跨平台的-UI-方案发展的怎样？](https://www.v2ex.com/t/672437)  
-- [2020-05-16-菜鸟求问-ZuulFilter-是否跟-Spring-security-中的-WebSecurityConfigurerAdapter-的功能存在重叠？](https://www.v2ex.com/t/672436)  
-- [2020-05-16-除了-Quasar-以外，还有哪些好用的基于-vue.js-的前端框架？](https://www.v2ex.com/t/672435)  
-- [2020-05-16-程序员在中年危机到来之前，是该努力提升自己竞争力还是提前谋划另谋出路？](https://www.v2ex.com/t/672434)  
-- [2020-05-16-已删除](https://www.v2ex.com/t/672433)  
-- [2020-05-16-go-admin-v1.0.0-版本和文档发布](https://www.v2ex.com/t/672432)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

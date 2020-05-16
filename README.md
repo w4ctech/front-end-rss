@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 18:30:20，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-16-头一次使用降噪耳机，走路戴时感觉咚咚响，是不是所有降噪耳机都这样？](https://www.v2ex.com/t/672359)  
-- [2020-05-16-不懂就问：-H5-如何打开微信客户端](https://www.v2ex.com/t/672358)  
-- [2020-05-16-求建议-今天兑买《异度之刃-2》，还是等到-5-月-29-号买《异度之刃决定版》？](https://www.v2ex.com/t/672357)  
-- [2020-05-16-好一阵子在-ios-上听音乐老闪退](https://www.v2ex.com/t/672356)  
-- [2020-05-16-技术外包可以和其他公司签保密协议吗](https://www.v2ex.com/t/672355)  
-- [2020-05-16-laravel-关于异常与事务怎么写代码比较好](https://www.v2ex.com/t/672353)  
-- [2020-05-16-你们是怎么解决-Proxmox-直通-SATA-硬盘不能超过-6-个的限制的？](https://www.v2ex.com/t/672352)  
-- [2020-05-16-腾讯的服务器真是越来越垃圾了](https://www.v2ex.com/t/672351)  
-- [2020-05-16-中了低功耗设备的毒，一路折腾](https://www.v2ex.com/t/672350)  
-- [2020-05-16-MBP2020-纠结要不要上-10-代-CPU](https://www.v2ex.com/t/672347)  
-- [2020-05-16-有人冒用我的手机号淘宝刷单，该怎么办？](https://www.v2ex.com/t/672346)  
-- [2020-05-16-上个月底咸鱼收了小米-cc9-从此踏上了刷机的不归路，好累](https://www.v2ex.com/t/672345)  
-- [2020-05-16-Telegram-的缓存文件可以存放于手机外置-SD-卡吗？](https://www.v2ex.com/t/672344)  
-- [2020-05-16-遇到一个奇葩的问题，开了-SS，就无法用-ssh--p-非-22-端口](https://www.v2ex.com/t/672340)  
-- [2020-05-16-无评论的日志博客网站，是否可以买个用付费-cdn-套餐+中配服务器搭建](https://www.v2ex.com/t/672339)  
-- [2020-05-16-后端开发实习生，项目经历应该怎么写？](https://www.v2ex.com/t/672338)  
-- [2020-05-16-广州经传多赢投资咨询有限公司——正规持牌机构、行业前列、大型集团公司-总监直聘-C++前、后端、移动端、-PHP-后端等岗位。](https://www.v2ex.com/t/672336)  
-- [2020-05-16-求助，需要一张狗狗“雪上加霜”的动图](https://www.v2ex.com/t/672335)  
-- [2020-05-16-微软的人体工学键盘码代码作图方便吗？](https://www.v2ex.com/t/672334)  
-- [2020-05-16-如何停止-ios-日历从-Google-calendar-同步？](https://www.v2ex.com/t/672333)  
+- [2020-05-16-win7-上怎么才能用上-win10-自带的拼音输入法？](https://www.v2ex.com/t/672391) ![](assets/new.png)  
+- [2020-05-16-#-elasticsearch-可以替代-mongodb-吗？](https://www.v2ex.com/t/672389) ![](assets/new.png)  
+- [2020-05-16-罗技摄像头产品普遍涨价-2-3-倍，良心呢！](https://www.v2ex.com/t/672388) ![](assets/new.png)  
+- [2020-05-16-黄金走势瞎画](https://www.v2ex.com/t/672387) ![](assets/new.png)  
+- [2020-05-16-重现木兰编程语言（九）——条件语句](https://www.v2ex.com/t/672386) ![](assets/new.png)  
+- [2020-05-16-推荐下加密文件夹的软件？不用加密得多严谨，让文件夹无法被随意访问就行。-windows-平台的](https://www.v2ex.com/t/672384) ![](assets/new.png)  
+- [2020-05-16-不懂就问，准备入坑-Java-，想问问-Java-与-jsp-与-spring-boot-与-spring-cloud-与-spring-mvc-的关系](https://www.v2ex.com/t/672383) ![](assets/new.png)  
+- [2020-05-16-Oracle-的-Java-JRE-最新版本问题？](https://www.v2ex.com/t/672382) ![](assets/new.png)  
+- [2020-05-16-请原谅我再水一贴-deno，因为实在太激动了](https://www.v2ex.com/t/672381) ![](assets/new.png)  
+- [2020-05-16-搭了个-DoT-服务器玩玩](https://www.v2ex.com/t/672379) ![](assets/new.png)  
+- [2020-05-16-谈一下价值观](https://www.v2ex.com/t/672378) ![](assets/new.png)  
+- [2020-05-16-iPhone-电池老化降频引发集体诉讼-苹果与原告达成和解协议](https://www.v2ex.com/t/672377) ![](assets/new.png)  
+- [2020-05-16-遇到一个快照劫持的问题，就很迷惑](https://www.v2ex.com/t/672376) ![](assets/new.png)  
+- [2020-05-16-请教个爬虫传参的问题](https://www.v2ex.com/t/672374) ![](assets/new.png)  
+- [2020-05-16-为何我用索尼手机自带的浏览器访问-V2EX-会疯狂闪退？](https://www.v2ex.com/t/672373) ![](assets/new.png)  
+- [2020-05-16-怎么在自己的服务器里部署-http://www.geogebra.org-这个网站？](https://www.v2ex.com/t/672372) ![](assets/new.png)  
+- [2020-05-16-整租出租-杭州余杭区-合景映月台-中电海康赛银国际阿里旁-四室两厅-120-方](https://www.v2ex.com/t/672371) ![](assets/new.png)  
+- [2020-05-16-价格屠夫普？](https://www.v2ex.com/t/672370) ![](assets/new.png)  
+- [2020-05-16-合肥：明天下午三点，有一起看脱口秀的吗](https://www.v2ex.com/t/672369) ![](assets/new.png)  
+- [2020-05-16-社招-快手-iOS/Android/-Java-后端/算法/大数据开发](https://www.v2ex.com/t/672368) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,7 +1083,7 @@
 </summary>
 
 
-- [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

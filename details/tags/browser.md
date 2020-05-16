@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-16 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-16-为何我用索尼手机自带的浏览器访问-V2EX-会疯狂闪退？](https://www.v2ex.com/t/672373) 
 - [2020-05-16-Telegram-的缓存文件可以存放于手机外置-SD-卡吗？](https://www.v2ex.com/t/672344) 
 - [2020-05-16-macOS-Preview-里面的电子签名莫名其妙出现了别人的签名怎么回事？](https://www.v2ex.com/t/672329) 
 - [2020-05-16-Chrome-账号相关插件咨询](https://www.v2ex.com/t/672250) 

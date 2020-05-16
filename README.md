@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 12:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 14:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -473,6 +473,7 @@
 </summary>
 
 
+- [2020-05-16-Deno-正式发布，彻底弄明白和-node-的区别](https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a) ![](assets/new.png)  
 - [2020-05-15-译-为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/3ea6d0b39e4d728a3fa8ee4737abdea6)  
 - [2020-05-14-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e)  
 - [2020-05-14-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c)  
@@ -492,7 +493,6 @@
 - [2020-05-02-最新互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0207a8b5a9f12961b1e0db272d4509b1)  
 - [2020-05-01-刘强东，一个农村孩子的自卑！](https://www.ershicimi.com/p/35ddbfbb1f6647e3a213e25c149880e0)  
 - [2020-04-30-实现一个代码编译器（200行JS代码）](https://www.ershicimi.com/p/8166df5d01201f2c9266d6723c729c1a)  
-- [2020-04-29-【THE-LAST-TIME】从-Redux-源码中学习它的范式](https://www.ershicimi.com/p/451fd7d45754ac63eb19da0ab349c856)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,12 +1052,12 @@
 </summary>
 
 
-- [2020-05-16-滴滴出行-北京、杭州-Android/Go/前端/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/672315) ![](assets/new.png)  
-- [2020-05-16-有没有-Apple-TV-用户遇到半夜自动放歌的情况](https://www.v2ex.com/t/672314) ![](assets/new.png)  
-- [2020-05-16-微信头像总是白板~~-每次上传了-过一段时间-就又没有了~~-啥原因：头像违规？](https://www.v2ex.com/t/672312) ![](assets/new.png)  
-- [2020-05-16-删](https://www.v2ex.com/t/672311) ![](assets/new.png)  
-- [2020-05-16-AQS-源码里，为什么-head-和-tail-是个成员变量而不是静态变量啊](https://www.v2ex.com/t/672309) ![](assets/new.png)  
-- [2020-05-16-请教学习路线-C#，主要是二次开发](https://www.v2ex.com/t/672307) ![](assets/new.png)  
+- [2020-05-16-滴滴出行-北京、杭州-Android/Go/前端/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/672315)  
+- [2020-05-16-有没有-Apple-TV-用户遇到半夜自动放歌的情况](https://www.v2ex.com/t/672314)  
+- [2020-05-16-微信头像总是白板~~-每次上传了-过一段时间-就又没有了~~-啥原因：头像违规？](https://www.v2ex.com/t/672312)  
+- [2020-05-16-删](https://www.v2ex.com/t/672311)  
+- [2020-05-16-AQS-源码里，为什么-head-和-tail-是个成员变量而不是静态变量啊](https://www.v2ex.com/t/672309)  
+- [2020-05-16-请教学习路线-C#，主要是二次开发](https://www.v2ex.com/t/672307)  
 - [2020-05-16-联想拯救者-y9000x-安装使用-archlinux-的体验](https://www.v2ex.com/t/672306)  
 - [2020-05-16-北京美团推荐算法、后端岗位，充足社招-HC-等你来，欢迎投递简历~~](https://www.v2ex.com/t/672304)  
 - [2020-05-16-字节跳动-飞书内推，海量-HC～](https://www.v2ex.com/t/672302)  

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-16 11:00:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-16 11:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml) ![](assets/new.png)  
+- [2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html) ![](assets/new.png)  
+- [2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1)  
 - [2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1)  
 - [2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-05-15-日本新冠肺炎累计确诊病例达16249例-新增46例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1)  
 - [2020-05-15-英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1)  
 - [2020-05-15-世界银行再向印度提供10亿美元抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1)  
-- [2020-05-15-西班牙新增新冠肺炎确诊病例549例-累计确诊230183例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFzEPTWMmIbI3CZJwV4C200515&isfromapp=1)  
-- [2020-05-15-日本东京新增9例新冠肺炎确诊病例-每日新增病例首次降至个位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEECdiOsXmynK2QPX5VwS200515&isfromapp=1)  
-- [2020-05-15-日本政府首次认定2位感染新冠肺炎的医疗从业人员为工伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articm6NPOe6wDui9qOt133v200515&isfromapp=1)  
-- [2020-05-15-比利时：一级方程式大奖赛比利时站将于8月举办](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC1kKrybmNaRRRoCtlob9200515&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-16-不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281) ![](assets/new.png)  
-- [2020-05-16-向师父们请教-flask+vue-登录验证的问题](https://www.v2ex.com/t/672280) ![](assets/new.png)  
-- [2020-05-16-iPhone-无法发送-iMessage，-你们有碰到吗？](https://www.v2ex.com/t/672279) ![](assets/new.png)  
-- [2020-05-16-为什么-win10-defender-老是提醒发现一个威胁，又找不到具体记录](https://www.v2ex.com/t/672278) ![](assets/new.png)  
-- [2020-05-16-求职者如果避免小公司-JD-造假](https://www.v2ex.com/t/672273) ![](assets/new.png)  
-- [2020-05-16-广州-虎牙直播-内推](https://www.v2ex.com/t/672272) ![](assets/new.png)  
-- [2020-05-16-如何识别-b-站某个视频质量，并提取出优质视频链接](https://www.v2ex.com/t/672271) ![](assets/new.png)  
-- [2020-05-16-Bilibili，能不能改进一下播放体验？](https://www.v2ex.com/t/672270) ![](assets/new.png)  
-- [2020-05-16-IMAX-官方即将开始卖-3D-眼镜！](https://www.v2ex.com/t/672269) ![](assets/new.png)  
-- [2020-05-16-Caddy-file_server-怎么样配置多个目录？](https://www.v2ex.com/t/672268) ![](assets/new.png)  
-- [2020-05-16-现有的-Serverless-平台足够实时聊天的社区应用开发吗？](https://www.v2ex.com/t/672267) ![](assets/new.png)  
-- [2020-05-16-新人第一帖-想请教下各位关于秋招项目准备的问题](https://www.v2ex.com/t/672266) ![](assets/new.png)  
-- [2020-05-16-这次丰巢抵制运动观后感，是否能为-996-劳动者提供一些抵制企业-996-思路](https://www.v2ex.com/t/672264) ![](assets/new.png)  
-- [2020-05-16-DuckPhp-1.2.4-发布，终极架构，文档完善了](https://www.v2ex.com/t/672263) ![](assets/new.png)  
-- [2020-05-16-深圳腾讯微信支付商户核心开发招人了](https://www.v2ex.com/t/672262) ![](assets/new.png)  
-- [2020-05-16-PDD，-1649-的-iphoneSe-有人抢到吗？](https://www.v2ex.com/t/672261) ![](assets/new.png)  
-- [2020-05-16-coding-服务又又又挂了~~~](https://www.v2ex.com/t/672260) ![](assets/new.png)  
-- [2020-05-16-1password-订阅家庭组-85/年-还有-3-个坑位寻找乘客](https://www.v2ex.com/t/672258) ![](assets/new.png)  
-- [2020-05-16-收购台积电难度大还是收复台湾难度大？](https://www.v2ex.com/t/672257) ![](assets/new.png)  
-- [2020-05-16-这一套卖得了好多钱哦](https://www.v2ex.com/t/672256)  
+- [2020-05-16-公司如何组网?小白一脸懵逼](https://www.v2ex.com/t/672290) ![](assets/new.png)  
+- [2020-05-16-不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题](https://www.v2ex.com/t/672289) ![](assets/new.png)  
+- [2020-05-16-黑苹果，-5k-的预算，-32g-内存，这个配置单可以不？](https://www.v2ex.com/t/672288) ![](assets/new.png)  
+- [2020-05-16-求各位大佬专家们，帮忙在-googleplay-上注册个游戏账户。](https://www.v2ex.com/t/672287) ![](assets/new.png)  
+- [2020-05-16-我不要再-996-了！](https://www.v2ex.com/t/672286) ![](assets/new.png)  
+- [2020-05-16-最近每天-mbp-合盖过夜之后都会-crash-重启](https://www.v2ex.com/t/672285) ![](assets/new.png)  
+- [2020-05-16-iOS-的-Testflight-是不是有什么隐私漏洞？](https://www.v2ex.com/t/672284) ![](assets/new.png)  
+- [2020-05-16-下字幕的时候点击下载链接，出现知乎的外链跳转提示，确定后才开始下载](https://www.v2ex.com/t/672283) ![](assets/new.png)  
+- [2020-05-16-Google-的-2FA-验证现在不支持-OTP-了？](https://www.v2ex.com/t/672282) ![](assets/new.png)  
+- [2020-05-16-不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281)  
+- [2020-05-16-向师父们请教-flask+vue-登录验证的问题](https://www.v2ex.com/t/672280)  
+- [2020-05-16-iPhone-无法发送-iMessage，-你们有碰到吗？](https://www.v2ex.com/t/672279)  
+- [2020-05-16-为什么-win10-defender-老是提醒发现一个威胁，又找不到具体记录](https://www.v2ex.com/t/672278)  
+- [2020-05-16-求职者如果避免小公司-JD-造假](https://www.v2ex.com/t/672273)  
+- [2020-05-16-广州-虎牙直播-内推](https://www.v2ex.com/t/672272)  
+- [2020-05-16-如何识别-b-站某个视频质量，并提取出优质视频链接](https://www.v2ex.com/t/672271)  
+- [2020-05-16-Bilibili，能不能改进一下播放体验？](https://www.v2ex.com/t/672270)  
+- [2020-05-16-IMAX-官方即将开始卖-3D-眼镜！](https://www.v2ex.com/t/672269)  
+- [2020-05-16-Caddy-file_server-怎么样配置多个目录？](https://www.v2ex.com/t/672268)  
+- [2020-05-16-现有的-Serverless-平台足够实时聊天的社区应用开发吗？](https://www.v2ex.com/t/672267)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

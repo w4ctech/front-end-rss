@@ -1257,6 +1257,26 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "吉林省舒兰市全面开展核酸检测工作 目前累计采样近2万人次",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "截至5月15日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况",
+        "link": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "国家疾控专家冯子健： 现阶段武汉无症状感染者传染性很低",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1",
+        "date": "2020-05-16"
+      },
+      {
         "title": "日本东京都公布取消限制措施标准",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1",
         "date": "2020-05-16"
@@ -7931,6 +7951,51 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "公司如何组网?小白一脸懵逼",
+        "link": "https://www.v2ex.com/t/672290",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题",
+        "link": "https://www.v2ex.com/t/672289",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "黑苹果， 5k 的预算， 32g 内存，这个配置单可以不？",
+        "link": "https://www.v2ex.com/t/672288",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "求各位大佬专家们，帮忙在 googleplay 上注册个游戏账户。",
+        "link": "https://www.v2ex.com/t/672287",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "我不要再 996 了！",
+        "link": "https://www.v2ex.com/t/672286",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "最近每天 mbp 合盖过夜之后都会 crash 重启",
+        "link": "https://www.v2ex.com/t/672285",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "iOS 的 Testflight 是不是有什么隐私漏洞？",
+        "link": "https://www.v2ex.com/t/672284",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "下字幕的时候点击下载链接，出现知乎的外链跳转提示，确定后才开始下载",
+        "link": "https://www.v2ex.com/t/672283",
+        "date": "2020-05-16"
+      },
+      {
+        "title": "Google 的 2FA 验证现在不支持 OTP 了？",
+        "link": "https://www.v2ex.com/t/672282",
+        "date": "2020-05-16"
+      },
       {
         "title": "不懂就问，生产环境下的 keepalived+nginx 的问题",
         "link": "https://www.v2ex.com/t/672281",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-16 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-16 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-日本东京都公布取消限制措施标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-北京昨日无新增新冠肺炎确诊病例-出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1) 
@@ -641,6 +645,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-16-公司如何组网?小白一脸懵逼](https://www.v2ex.com/t/672290) 
+- [【V2EX】2020-05-16-不知道这个问题是属于爬虫问题还是属于服务器问题？想请教下，爬二级页面的问题](https://www.v2ex.com/t/672289) 
+- [【V2EX】2020-05-16-黑苹果，-5k-的预算，-32g-内存，这个配置单可以不？](https://www.v2ex.com/t/672288) 
+- [【V2EX】2020-05-16-求各位大佬专家们，帮忙在-googleplay-上注册个游戏账户。](https://www.v2ex.com/t/672287) 
+- [【V2EX】2020-05-16-我不要再-996-了！](https://www.v2ex.com/t/672286) 
+- [【V2EX】2020-05-16-最近每天-mbp-合盖过夜之后都会-crash-重启](https://www.v2ex.com/t/672285) 
+- [【V2EX】2020-05-16-iOS-的-Testflight-是不是有什么隐私漏洞？](https://www.v2ex.com/t/672284) 
+- [【V2EX】2020-05-16-下字幕的时候点击下载链接，出现知乎的外链跳转提示，确定后才开始下载](https://www.v2ex.com/t/672283) 
+- [【V2EX】2020-05-16-Google-的-2FA-验证现在不支持-OTP-了？](https://www.v2ex.com/t/672282) 
 - [【V2EX】2020-05-16-不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281) 
 - [【V2EX】2020-05-16-向师父们请教-flask+vue-登录验证的问题](https://www.v2ex.com/t/672280) 
 - [【V2EX】2020-05-16-iPhone-无法发送-iMessage，-你们有碰到吗？](https://www.v2ex.com/t/672279) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 06:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1) ![](assets/new.png)  
 - [2020-05-16-幼儿园卖烧烤花式自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiadUYpvi10dYI5GeQN0nz200516&isfromapp=1)  
 - [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1)  
 - [2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1)  
 - [2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml)  
 - [2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html)  
-- [2020-05-16-国家疾控专家冯子健：-现阶段武汉无症状感染者传染性很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tMSmnqlANBi3Kp3a164200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-05-17-Mac-软件-notability-桌面端降价至-6-元](https://www.v2ex.com/t/672490) ![](assets/new.png)  
+- [2020-05-17-Basecamp-的远程办公桌](https://www.v2ex.com/t/672491) ![](assets/new.png)  
+- [2020-05-17-Mac-软件-notability-桌面端降价至-6-元](https://www.v2ex.com/t/672490)  
 - [2020-05-17-为什么香橙派等开发板还没电视盒子便宜？](https://www.v2ex.com/t/672489)  
 - [2020-05-17-拒绝-996，你做了什么？](https://www.v2ex.com/t/672488)  
 - [2020-05-17-求一个可以替换掉-2345-看图王的看图软件](https://www.v2ex.com/t/672486)  
@@ -1071,7 +1072,6 @@
 - [2020-05-16-有朋友睡觉打呼噜甚至憋醒的么？想买个家用呼吸机不知道能不能改善](https://www.v2ex.com/t/672470)  
 - [2020-05-16-一加-8-Pro，使用手机-QQ-的内置相机之后手电筒变暗？](https://www.v2ex.com/t/672469)  
 - [2020-05-16-现在帝都的北京移动-4G-的室外、室内信号强度覆盖那么差？](https://www.v2ex.com/t/672468)  
-- [2020-05-16-米国的程序员如何捍卫自己的权力](https://www.v2ex.com/t/672467)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

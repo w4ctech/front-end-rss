@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 14:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-17-巴西确诊超23万，智利防控升级，拉美地区防疫形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWntEiNphTkZgrCdRb2lO200517&isfromapp=1) 
 - [2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1) 
 - [2020-05-17-​5月17日6时至10时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPB0ogi0Y1rRsYbY1rHGb200517&isfromapp=1) 
 - [2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1) 

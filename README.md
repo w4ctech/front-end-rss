@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 14:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 14:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-17-巴西确诊超23万，智利防控升级，拉美地区防疫形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWntEiNphTkZgrCdRb2lO200517&isfromapp=1) ![](assets/new.png)  
 - [2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1)  
 - [2020-05-17-新冠肺炎疫情持续影响，法国经济复苏仍需时日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildEFmwge7AQfExmQAzL8200517&isfromapp=1)  
 - [2020-05-17-​5月17日6时至10时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPB0ogi0Y1rRsYbY1rHGb200517&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-16-国家卫健委：日均能检测150万份-核酸检测能力还需进一步提高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3ki9R8PUQCkFMErUA9P200516&isfromapp=1)  
 - [2020-05-16-新加坡18名“常阳患者”获准出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdEwt5JwEe8TkkPGo7Dm200516&isfromapp=1)  
 - [2020-05-16-复学4天倒计时！探访武汉南湖中学复学准备情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHOkBDLJcA222X3sx9qq200516&isfromapp=1)  
-- [2020-05-16-意大利自18日起进一步放开疫情管控-6月3日起开放边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBYBUzwT8JeDwnQhTd85f200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,15 +1052,15 @@
 </summary>
 
 
-- [2020-05-17-请问一下是否有必要升级到-masOS-Catalina-10.15.4？](https://www.v2ex.com/t/672560) ![](assets/new.png)  
-- [2020-05-17-还是那个-SAP-系统监控平台，薛薇加了点功能](https://www.v2ex.com/t/672559) ![](assets/new.png)  
-- [2020-05-17-称谓变迁：从“站长、美工、程序”到今天的“全栈，前端、后端”](https://www.v2ex.com/t/672557) ![](assets/new.png)  
-- [2020-05-17-中通快递员-惹不起](https://www.v2ex.com/t/672556) ![](assets/new.png)  
-- [2020-05-17-AQS-里-hasQueuedPredecessors-里为啥要先读取-tail-成员啊？](https://www.v2ex.com/t/672555) ![](assets/new.png)  
-- [2020-05-17-从零开始花两天时间用-flutter-写了个离线密码生成器](https://www.v2ex.com/t/672554) ![](assets/new.png)  
-- [2020-05-17-nodejs-程序跑完，进程一直没结束，有什么方法可以分析么？](https://www.v2ex.com/t/672553) ![](assets/new.png)  
-- [2020-05-17-这个-15-款-MBP-能出多少钱？](https://www.v2ex.com/t/672552) ![](assets/new.png)  
-- [2020-05-17-有单口的千兆联通光猫推荐吗？坐标-023](https://www.v2ex.com/t/672551) ![](assets/new.png)  
+- [2020-05-17-请问一下是否有必要升级到-masOS-Catalina-10.15.4？](https://www.v2ex.com/t/672560)  
+- [2020-05-17-还是那个-SAP-系统监控平台，薛薇加了点功能](https://www.v2ex.com/t/672559)  
+- [2020-05-17-称谓变迁：从“站长、美工、程序”到今天的“全栈，前端、后端”](https://www.v2ex.com/t/672557)  
+- [2020-05-17-中通快递员-惹不起](https://www.v2ex.com/t/672556)  
+- [2020-05-17-AQS-里-hasQueuedPredecessors-里为啥要先读取-tail-成员啊？](https://www.v2ex.com/t/672555)  
+- [2020-05-17-从零开始花两天时间用-flutter-写了个离线密码生成器](https://www.v2ex.com/t/672554)  
+- [2020-05-17-nodejs-程序跑完，进程一直没结束，有什么方法可以分析么？](https://www.v2ex.com/t/672553)  
+- [2020-05-17-这个-15-款-MBP-能出多少钱？](https://www.v2ex.com/t/672552)  
+- [2020-05-17-有单口的千兆联通光猫推荐吗？坐标-023](https://www.v2ex.com/t/672551)  
 - [2020-05-17-5.17-国际不再恐同日](https://www.v2ex.com/t/672550)  
 - [2020-05-17-群发短信](https://www.v2ex.com/t/672548)  
 - [2020-05-17-在开源代码中-rm--rf-是为了什么？](https://www.v2ex.com/t/672547)  

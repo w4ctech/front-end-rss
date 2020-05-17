@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 03:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 03:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-05-18-门外汉偷偷问下-table-表里值的问题？](https://www.v2ex.com/t/672722) ![](assets/new.png)  
+- [2020-05-18-求步骤：-MacOS-下-用-VMware-Fusion-将-NTFS-格式移动硬盘用-SMB-挂在到-macOS-系统进行安全读写。](https://www.v2ex.com/t/672723) ![](assets/new.png)  
+- [2020-05-18-门外汉偷偷问下-table-表里值的问题？](https://www.v2ex.com/t/672722)  
 - [2020-05-18-坐标成都寻手游团队寻找成都本地手游团队，有大项目合作，最好能本地见面聊](https://www.v2ex.com/t/672721)  
 - [2020-05-18-8-年码农卖身求个远程工作](https://www.v2ex.com/t/672719)  
 - [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718)  
@@ -1071,7 +1072,6 @@
 - [2020-05-17-如何排查云主机上是否有可疑的挖矿程序？](https://www.v2ex.com/t/672698)  
 - [2020-05-17-2020-应届生的疑惑](https://www.v2ex.com/t/672697)  
 - [2020-05-17-国内原创作者真的太少了。](https://www.v2ex.com/t/672696)  
-- [2020-05-17-elasticsearch-和-clickhouse-哪个更好呢？](https://www.v2ex.com/t/672695)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -837,6 +837,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-离开阿里巴巴](https://www.v2ex.com/t/672647) 
+- [2020-05-17-阿里云的免费服务已经不推荐使用](https://www.v2ex.com/t/672646) 
+- [2020-05-17-裸辞在家，无聊随拍～](https://www.v2ex.com/t/672644) 
+- [2020-05-17-「发布」两个字在公众号后台是违规词](https://www.v2ex.com/t/672642) 
+- [2020-05-17-是不是随便买台-4k-屏的安卓手机+品牌手机-VR-头盔就能最低成本体验-VR？](https://www.v2ex.com/t/672641) 
+- [2020-05-17-请教一个-Java-volatile-字段可见性的问题](https://www.v2ex.com/t/672640) 
+- [2020-05-17-小度人工智能音箱-刷-小爱同学固件-该如何做？是否有教程？](https://www.v2ex.com/t/672638) 
 - [2020-05-17-致-软件开发工作者：免疫网络暴力和-职场-PUA-的终极认知补丁](https://www.v2ex.com/t/672637) 
 - [2020-05-17-AQS-里的-doAcquireInterruptibly，如果已经阻塞在-park-了，是不可能被唤醒的吧？](https://www.v2ex.com/t/672635) 
 - [2020-05-17-发现了一个-nvm-的跨平台替代品-volta](https://www.v2ex.com/t/672634) 

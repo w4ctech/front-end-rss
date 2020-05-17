@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,8 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-17-请问，-mac-系统-chrome-不能打开-pdf-插件了吗？](https://www.v2ex.com/t/672618) 
+- [2020-05-17-最新-Chrome-开发者版本-所有-http2-链接一律报-413](https://www.v2ex.com/t/672617) 
 - [2020-05-17-PHP-爬虫如何降低-cpu-占用，其实只用到一个函数-getimagesize](https://www.v2ex.com/t/672506) 
 - [2020-05-17-疫情过后公司和小区都安装了门禁，大家有没有-nfc-手环推荐或者修改-post-数据的方法](https://www.v2ex.com/t/672499) 
 - [2020-05-17-电脑访问-V2EX-显示-access-denied-cost：-Xms](https://www.v2ex.com/t/672494) 

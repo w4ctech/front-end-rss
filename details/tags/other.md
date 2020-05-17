@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1) 
 - [2020-05-17-武汉市所有医院恢复日常医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1) 
 - [2020-05-17-吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1) 
 - [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1) 
@@ -825,6 +826,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-装修完接宽带的时候才发现屋里的网线是断的](https://www.v2ex.com/t/672512) 
+- [2020-05-17-为什么-ssr-服务器可以连接谷歌？我本地却不可以？](https://www.v2ex.com/t/672511) 
+- [2020-05-17-蓝牙血压计-手机在办公室的手可以搜索到并有配对提示，但是去了医院人很多-就搜不到而且没有配对提示](https://www.v2ex.com/t/672509) 
+- [2020-05-17-MacBook-Pro-16-手托](https://www.v2ex.com/t/672508) 
+- [2020-05-17-「杭州」有赞内推-无-996，大量-HC，-Java-后端，前端，数据开发，测试开发，-SRE-等，靠谱内推](https://www.v2ex.com/t/672507) 
 - [2020-05-17-多个-2.4g-的键盘鼠标-可以绑定同一个接收器吗？](https://www.v2ex.com/t/672504) 
 - [2020-05-17-Adguard-Home-新版新增最快-IP-选择功能](https://www.v2ex.com/t/672503) 
 - [2020-05-17-5-年前生产的内存条能要不？](https://www.v2ex.com/t/672502) 

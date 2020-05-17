@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1",
+        "date": "2020-05-17"
+      },
+      {
         "title": "武汉市所有医院恢复日常医疗服务",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1",
         "date": "2020-05-17"
@@ -8116,6 +8121,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "装修完接宽带的时候才发现屋里的网线是断的",
+        "link": "https://www.v2ex.com/t/672512",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "为什么 ssr 服务器可以连接谷歌？我本地却不可以？",
+        "link": "https://www.v2ex.com/t/672511",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "蓝牙血压计 手机在办公室的手可以搜索到并有配对提示，但是去了医院人很多 就搜不到而且没有配对提示",
+        "link": "https://www.v2ex.com/t/672509",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "MacBook Pro 16 手托",
+        "link": "https://www.v2ex.com/t/672508",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "「杭州」[有赞内推] 无 996，大量 HC， Java 后端，前端，数据开发，测试开发， SRE 等，靠谱内推",
+        "link": "https://www.v2ex.com/t/672507",
+        "date": "2020-05-17"
+      },
       {
         "title": "PHP 爬虫如何降低 cpu 占用，其实只用到一个函数 getimagesize",
         "link": "https://www.v2ex.com/t/672506",

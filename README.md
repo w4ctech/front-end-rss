@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 10:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 11:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1) ![](assets/new.png)  
 - [2020-05-17-武汉市所有医院恢复日常医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1)  
 - [2020-05-17-巴西新冠肺炎累计确诊病例破23万-确诊病例数超意大利跃升全球第5位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiklsrmtSpP0j6YZP5LU8y200517&isfromapp=1)  
 - [2020-05-17-受新冠肺炎疫情影响，秘鲁利马都会区已有超过120万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9MGHWbiWxitXaaHAAe0A200517&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-16-热评丨舒兰“换帅”-再次说明疫情防控不可松懈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiduRsgUFpNskzBBATmRq2200516&isfromapp=1)  
 - [2020-05-16-上海有1例确诊病例今日出院，共计641例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1)  
 - [2020-05-16-18日起-北京公共交通满载率上调15%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1)  
-- [2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,10 +1052,15 @@
 </summary>
 
 
-- [2020-05-17-PHP-爬虫如何降低-cpu-占用，其实只用到一个函数-getimagesize](https://www.v2ex.com/t/672506) ![](assets/new.png)  
-- [2020-05-17-多个-2.4g-的键盘鼠标-可以绑定同一个接收器吗？](https://www.v2ex.com/t/672504) ![](assets/new.png)  
-- [2020-05-17-Adguard-Home-新版新增最快-IP-选择功能](https://www.v2ex.com/t/672503) ![](assets/new.png)  
-- [2020-05-17-5-年前生产的内存条能要不？](https://www.v2ex.com/t/672502) ![](assets/new.png)  
+- [2020-05-17-装修完接宽带的时候才发现屋里的网线是断的](https://www.v2ex.com/t/672512) ![](assets/new.png)  
+- [2020-05-17-为什么-ssr-服务器可以连接谷歌？我本地却不可以？](https://www.v2ex.com/t/672511) ![](assets/new.png)  
+- [2020-05-17-蓝牙血压计-手机在办公室的手可以搜索到并有配对提示，但是去了医院人很多-就搜不到而且没有配对提示](https://www.v2ex.com/t/672509) ![](assets/new.png)  
+- [2020-05-17-MacBook-Pro-16-手托](https://www.v2ex.com/t/672508) ![](assets/new.png)  
+- [2020-05-17-「杭州」有赞内推-无-996，大量-HC，-Java-后端，前端，数据开发，测试开发，-SRE-等，靠谱内推](https://www.v2ex.com/t/672507) ![](assets/new.png)  
+- [2020-05-17-PHP-爬虫如何降低-cpu-占用，其实只用到一个函数-getimagesize](https://www.v2ex.com/t/672506)  
+- [2020-05-17-多个-2.4g-的键盘鼠标-可以绑定同一个接收器吗？](https://www.v2ex.com/t/672504)  
+- [2020-05-17-Adguard-Home-新版新增最快-IP-选择功能](https://www.v2ex.com/t/672503)  
+- [2020-05-17-5-年前生产的内存条能要不？](https://www.v2ex.com/t/672502)  
 - [2020-05-17-什么？-VS-Code-也能写-Java-？听听微软首席开发经理怎么说](https://www.v2ex.com/t/672500)  
 - [2020-05-17-疫情过后公司和小区都安装了门禁，大家有没有-nfc-手环推荐或者修改-post-数据的方法](https://www.v2ex.com/t/672499)  
 - [2020-05-17-阿里腾讯给你发-offer-但是必须-996-你去不？](https://www.v2ex.com/t/672497)  
@@ -1067,11 +1072,6 @@
 - [2020-05-17-Mac-软件-notability-桌面端降价至-6-元](https://www.v2ex.com/t/672490)  
 - [2020-05-17-为什么香橙派等开发板还没电视盒子便宜？](https://www.v2ex.com/t/672489)  
 - [2020-05-17-拒绝-996，你做了什么？](https://www.v2ex.com/t/672488)  
-- [2020-05-17-求一个可以替换掉-2345-看图王的看图软件](https://www.v2ex.com/t/672486)  
-- [2020-05-17-焦虑症最近晚上睡不着，-v-友们有啥调节方式不](https://www.v2ex.com/t/672485)  
-- [2020-05-17-现代社会如何减少被剥削的机会。](https://www.v2ex.com/t/672483)  
-- [2020-05-17-国贸、呼家楼附近求个室友](https://www.v2ex.com/t/672482)  
-- [2020-05-17-iOS/Android-设备成为-Windows-拓展屏](https://www.v2ex.com/t/672480)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

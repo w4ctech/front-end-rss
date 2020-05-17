@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 17:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 17:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1) ![](assets/new.png)  
-- [2020-05-17-8支医疗队500余人已到达吉林市支援](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFZIA1llSmTUUfNUmvOQ200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-首尔梨泰院夜店新冠肺炎确诊病例增至168例，此波疫情已基本得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7z24tu7qjMt2RwfGyiU200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1)  
+- [2020-05-17-8支医疗队500余人已到达吉林市支援](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFZIA1llSmTUUfNUmvOQ200517&isfromapp=1)  
 - [2020-05-17-北京疾控中心：市民户外活动原则上不用戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigQsfcuX3Uzc3eE6czX0v200517&isfromapp=1)  
 - [2020-05-17-巴西确诊超23万，智利防控升级，拉美地区防疫形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWntEiNphTkZgrCdRb2lO200517&isfromapp=1)  
 - [2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-16-吉林市免去-5-名干部职务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MYlOFZuvFp6HvDmwrUM200516&isfromapp=1)  
 - [2020-05-16-黑龙江从业人员健康证怎么办？核酸检测+抗体检测一个都不能少！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmHulpM3x9hIPmm7bGG5200516&isfromapp=1)  
 - [2020-05-16-ATM-机里取大米！-多国救助低收入人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifKmsogd69HHZU2xGXj9w200516&isfromapp=1)  
-- [2020-05-16-孙春兰在吉林调研时强调-再排查、再加固、再落实-坚决防止疫情新燃点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBuUgKikyJSt9P2A5aDCa200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-17-3D-建模电脑清单](https://www.v2ex.com/t/672607) ![](assets/new.png)  
-- [2020-05-17-16-寸-MacBook-Pro-外壳也太脆弱了吧](https://www.v2ex.com/t/672606) ![](assets/new.png)  
-- [2020-05-17-罗技-G304-的接收器，有办法多绑定一个无线键盘吗？](https://www.v2ex.com/t/672605) ![](assets/new.png)  
-- [2020-05-17-我们如今持有的偏见，是否很大程度收到了媒体的影响？](https://www.v2ex.com/t/672604) ![](assets/new.png)  
-- [2020-05-17-Github-Trending-要怎么实现？](https://www.v2ex.com/t/672603) ![](assets/new.png)  
-- [2020-05-17-有多少-V2EX-的朋友购买了非国行-iPhone-11-系列，都是运营商合约机还是无锁版？-供货渠道有哪些，求助。](https://www.v2ex.com/t/672602) ![](assets/new.png)  
-- [2020-05-17-拖地机器人，分享使用体验&求推荐。](https://www.v2ex.com/t/672601) ![](assets/new.png)  
-- [2020-05-17-想知道-香港机房带宽-和-IP-什么价格](https://www.v2ex.com/t/672600) ![](assets/new.png)  
-- [2020-05-17-求个杭州的测试工作，或者大家帮我看看简历可不可以优化下？](https://www.v2ex.com/t/672599) ![](assets/new.png)  
-- [2020-05-17-在家-Solo-的第-3-周](https://www.v2ex.com/t/672598) ![](assets/new.png)  
-- [2020-05-17-安卓手机不-root-有没有有效的隐私保护和反跟踪方案？被跟踪的感觉很不舒服。](https://www.v2ex.com/t/672597) ![](assets/new.png)  
-- [2020-05-17-杭州西湖区蒋村西溪花园竞舟苑招室友](https://www.v2ex.com/t/672596) ![](assets/new.png)  
-- [2020-05-17-程序员第二职业](https://www.v2ex.com/t/672595) ![](assets/new.png)  
-- [2020-05-17-因为考研的原因，一年多没怎么碰代码了，最近才刚刚复试完。前端技术迭代速度太快了，现在该如何快速重拾前端技术？给点建议吧，谢谢了。](https://www.v2ex.com/t/672594) ![](assets/new.png)  
+- [2020-05-17-北京/上海/杭州/深圳-字节跳动内推，大量-HC](https://www.v2ex.com/t/672613) ![](assets/new.png)  
+- [2020-05-17-听说-Web-框架-pyramid-中有-controller，只是听说没见过，类似-Django-中的类视图么，我认为不是，有没有大神了解的，想学习一下控制层的写法](https://www.v2ex.com/t/672612) ![](assets/new.png)  
+- [2020-05-17-SpaceVim-如何开启-Java-代码提示？](https://www.v2ex.com/t/672611) ![](assets/new.png)  
+- [2020-05-17-大家觉得最近-战-66-小新-这样的价格会成为常态日后也经常出现还是过了这村没这店？还有一年毕业，有点担心快毕业的时候再买这样的价格不会再有了。](https://www.v2ex.com/t/672609) ![](assets/new.png)  
+- [2020-05-17-远程，还是双语邦的云-Team----再求优秀-Flutter-程序员](https://www.v2ex.com/t/672608) ![](assets/new.png)  
+- [2020-05-17-3D-建模电脑清单](https://www.v2ex.com/t/672607)  
+- [2020-05-17-16-寸-MacBook-Pro-外壳也太脆弱了吧](https://www.v2ex.com/t/672606)  
+- [2020-05-17-罗技-G304-的接收器，有办法多绑定一个无线键盘吗？](https://www.v2ex.com/t/672605)  
+- [2020-05-17-我们如今持有的偏见，是否很大程度收到了媒体的影响？](https://www.v2ex.com/t/672604)  
+- [2020-05-17-Github-Trending-要怎么实现？](https://www.v2ex.com/t/672603)  
+- [2020-05-17-有多少-V2EX-的朋友购买了非国行-iPhone-11-系列，都是运营商合约机还是无锁版？-供货渠道有哪些，求助。](https://www.v2ex.com/t/672602)  
+- [2020-05-17-拖地机器人，分享使用体验&求推荐。](https://www.v2ex.com/t/672601)  
+- [2020-05-17-想知道-香港机房带宽-和-IP-什么价格](https://www.v2ex.com/t/672600)  
+- [2020-05-17-求个杭州的测试工作，或者大家帮我看看简历可不可以优化下？](https://www.v2ex.com/t/672599)  
+- [2020-05-17-在家-Solo-的第-3-周](https://www.v2ex.com/t/672598)  
+- [2020-05-17-安卓手机不-root-有没有有效的隐私保护和反跟踪方案？被跟踪的感觉很不舒服。](https://www.v2ex.com/t/672597)  
+- [2020-05-17-杭州西湖区蒋村西溪花园竞舟苑招室友](https://www.v2ex.com/t/672596)  
+- [2020-05-17-程序员第二职业](https://www.v2ex.com/t/672595)  
+- [2020-05-17-因为考研的原因，一年多没怎么碰代码了，最近才刚刚复试完。前端技术迭代速度太快了，现在该如何快速重拾前端技术？给点建议吧，谢谢了。](https://www.v2ex.com/t/672594)  
 - [2020-05-17-win2012-被暴力登录，导致正常连接不上怎么办](https://www.v2ex.com/t/672591)  
-- [2020-05-17-关于-6.1-日起-电动车要带头盔](https://www.v2ex.com/t/672590)  
-- [2020-05-17-有小伙伴知道北京哪里可以免费自习呢？首图这种？可以自己带考试资料去看书吗](https://www.v2ex.com/t/672589)  
-- [2020-05-17-今天刚到的-2020MBP13，睡眠唤醒后黑屏](https://www.v2ex.com/t/672588)  
-- [2020-05-17-各位大佬-本科普本非计算机专业-研究生普本计算机专业（非邮电强校）去面试会被歧视吗？或者会简历都过不去吗？最近好焦虑](https://www.v2ex.com/t/672587)  
-- [2020-05-17-mbp16-最近日常风扇转速-4000+是否正常？](https://www.v2ex.com/t/672586)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

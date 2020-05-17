@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -29,6 +29,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
+- [2020-05-17-vscode-中的-vim-插件好像很多命令不支持](https://www.v2ex.com/t/672577) 
 - [2020-05-17-称谓变迁：从“站长、美工、程序”到今天的“全栈，前端、后端”](https://www.v2ex.com/t/672557) 
 - [2020-05-16-#-elasticsearch-可以替代-mongodb-吗？](https://www.v2ex.com/t/672389) 
 - [2020-05-16-怎么在自己的服务器里部署-http://www.geogebra.org-这个网站？](https://www.v2ex.com/t/672372) 

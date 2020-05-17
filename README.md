@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 15:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 15:30:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-17-北京疾控中心：市民户外活动原则上不用戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigQsfcuX3Uzc3eE6czX0v200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-北京疾控中心：市民户外活动原则上不用戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigQsfcuX3Uzc3eE6czX0v200517&isfromapp=1)  
 - [2020-05-17-巴西确诊超23万，智利防控升级，拉美地区防疫形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWntEiNphTkZgrCdRb2lO200517&isfromapp=1)  
 - [2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1)  
 - [2020-05-17-新冠肺炎疫情持续影响，法国经济复苏仍需时日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildEFmwge7AQfExmQAzL8200517&isfromapp=1)  
@@ -1052,26 +1052,26 @@
 </summary>
 
 
+- [2020-05-17-extendscript-吐槽帖](https://www.v2ex.com/t/672578) ![](assets/new.png)  
+- [2020-05-17-vscode-中的-vim-插件好像很多命令不支持](https://www.v2ex.com/t/672577) ![](assets/new.png)  
+- [2020-05-17-bbtec-质量不理想](https://www.v2ex.com/t/672576) ![](assets/new.png)  
+- [2020-05-17-有感于-很烦恼，该去还是留？-帖子，说说我的烦恼](https://www.v2ex.com/t/672575) ![](assets/new.png)  
+- [2020-05-17-我们翻译了-Redux.js-的最新官方文档，-2-个人是如何完成-100-个人的工作量的？](https://www.v2ex.com/t/672574) ![](assets/new.png)  
+- [2020-05-17-现在从天津去北京，需要健康码和隔离么](https://www.v2ex.com/t/672573) ![](assets/new.png)  
+- [2020-05-17-今天是电信节，三大运营商有没有什么活动？](https://www.v2ex.com/t/672572) ![](assets/new.png)  
+- [2020-05-17-iCloud-的数据加密密码是又一个苹果云服务的玄学](https://www.v2ex.com/t/672571) ![](assets/new.png)  
+- [2020-05-17-小米-30w-立式无线充与-air2s-耳机的兼容问题](https://www.v2ex.com/t/672568) ![](assets/new.png)  
+- [2020-05-17-golang-ui-怎么把某个包里面内容返回到-UI-界面呢?](https://www.v2ex.com/t/672567) ![](assets/new.png)  
+- [2020-05-17-spring-开启-SERIALIZABLE-级别事务后其他事务还是可以查询](https://www.v2ex.com/t/672566) ![](assets/new.png)  
+- [2020-05-17-请删除该账号.](https://www.v2ex.com/t/672565) ![](assets/new.png)  
+- [2020-05-17-如何确定字符串显示的宽度](https://www.v2ex.com/t/672564) ![](assets/new.png)  
+- [2020-05-17-请问%config-InlineBackend.figure_format-=-'retina'这个配置能不能写到配置文件里？](https://www.v2ex.com/t/672563) ![](assets/new.png)  
+- [2020-05-17-拒绝-996，那就来-shopee，待遇-work-life-balance-两不误](https://www.v2ex.com/t/672561) ![](assets/new.png)  
 - [2020-05-17-请问一下是否有必要升级到-masOS-Catalina-10.15.4？](https://www.v2ex.com/t/672560)  
 - [2020-05-17-还是那个-SAP-系统监控平台，薛薇加了点功能](https://www.v2ex.com/t/672559)  
 - [2020-05-17-称谓变迁：从“站长、美工、程序”到今天的“全栈，前端、后端”](https://www.v2ex.com/t/672557)  
 - [2020-05-17-中通快递员-惹不起](https://www.v2ex.com/t/672556)  
 - [2020-05-17-AQS-里-hasQueuedPredecessors-里为啥要先读取-tail-成员啊？](https://www.v2ex.com/t/672555)  
-- [2020-05-17-从零开始花两天时间用-flutter-写了个离线密码生成器](https://www.v2ex.com/t/672554)  
-- [2020-05-17-nodejs-程序跑完，进程一直没结束，有什么方法可以分析么？](https://www.v2ex.com/t/672553)  
-- [2020-05-17-这个-15-款-MBP-能出多少钱？](https://www.v2ex.com/t/672552)  
-- [2020-05-17-有单口的千兆联通光猫推荐吗？坐标-023](https://www.v2ex.com/t/672551)  
-- [2020-05-17-5.17-国际不再恐同日](https://www.v2ex.com/t/672550)  
-- [2020-05-17-群发短信](https://www.v2ex.com/t/672548)  
-- [2020-05-17-在开源代码中-rm--rf-是为了什么？](https://www.v2ex.com/t/672547)  
-- [2020-05-17-很烦恼，该去还是留？](https://www.v2ex.com/t/672546)  
-- [2020-05-17-拼多多的-2-人成团的方式，是噱头？还是真有这个需求？](https://www.v2ex.com/t/672545)  
-- [2020-05-17-api-数据返回过滤不需要的字段](https://www.v2ex.com/t/672543)  
-- [2020-05-17-完全-pdf-的技术类书籍，-iPad-/surface-怎么阅读最舒服？](https://www.v2ex.com/t/672542)  
-- [2020-05-17-想办一张副卡，想问下，哪个套餐比较便宜？](https://www.v2ex.com/t/672541)  
-- [2020-05-17-对断舍离的一些总结](https://www.v2ex.com/t/672539)  
-- [2020-05-17-向大家分享一位奇人:桐谷广人](https://www.v2ex.com/t/672538)  
-- [2020-05-17-任正非南华日报采访回答-996，真是搞笑](https://www.v2ex.com/t/672537)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

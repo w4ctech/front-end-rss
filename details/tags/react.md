@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -49,6 +49,7 @@
 - [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee) 
 - [2020-04-24-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-24-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-05-17-我们翻译了-Redux.js-的最新官方文档，-2-个人是如何完成-100-个人的工作量的？](https://www.v2ex.com/t/672574) 
 - [2020-05-15-ant-design-react-和-ant-design-vue-有区别吗](https://www.v2ex.com/t/672163) 
 - [2020-05-15-问一点关于-Hook-的问题](https://www.v2ex.com/t/672138) 
 - [2020-05-15-大家的-React-和-Vue-是不是都配合-JWT-做登录管理](https://www.v2ex.com/t/672093) 

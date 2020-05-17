@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 05:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -12,6 +12,7 @@
 - [2020-04-28-11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b) 
 - [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1) 
 - [2020-04-28-【第1928期】JavaScript-20-年中文版---合纵连横](https://www.ershicimi.com/p/0302858de4b2b47bfd37d0a4e3ba7b14) 
 - [2020-05-15-如何实现一个高性能可渲染大数据的Tree组件](https://www.ershicimi.com/p/04f1aa94fdef272001614f77d3a89999) 

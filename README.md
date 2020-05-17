@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 05:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -224,6 +224,8 @@
 </summary>
 
 
+- [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b) ![](assets/new.png)  
+- [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0) ![](assets/new.png)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
 - [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)  
 - [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
@@ -242,8 +244,6 @@
 - [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)  
 - [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
 - [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
-- [2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470)  
-- [2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,7 @@
 </summary>
 
 
-- [2020-05-18-写-api-文档的工具](https://www.v2ex.com/t/672725) ![](assets/new.png)  
+- [2020-05-18-写-api-文档的工具](https://www.v2ex.com/t/672725)  
 - [2020-05-18-关于广播消息处理的技术方案](https://www.v2ex.com/t/672724)  
 - [2020-05-18-求步骤：-MacOS-下-用-VMware-Fusion-将-NTFS-格式移动硬盘用-SMB-挂在到-macOS-系统进行安全读写。](https://www.v2ex.com/t/672723)  
 - [2020-05-18-门外汉偷偷问下-table-表里值的问题？](https://www.v2ex.com/t/672722)  

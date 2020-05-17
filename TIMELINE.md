@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 05:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -307,6 +307,8 @@
 - [【React中文社区】2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b) 
+- [【前端早读课】2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0) 
 - [【前端早读课】2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) 
 - [【前端早读课】2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0) 
 - [【前端早读课】2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f) 

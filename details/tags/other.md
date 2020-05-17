@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1) 
+- [2020-05-17-8支医疗队500余人已到达吉林市支援](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFZIA1llSmTUUfNUmvOQ200517&isfromapp=1) 
 - [2020-05-17-北京疾控中心：市民户外活动原则上不用戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigQsfcuX3Uzc3eE6czX0v200517&isfromapp=1) 
 - [2020-05-17-巴西确诊超23万，智利防控升级，拉美地区防疫形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWntEiNphTkZgrCdRb2lO200517&isfromapp=1) 
 - [2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1) 
@@ -833,6 +835,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-16-寸-MacBook-Pro-外壳也太脆弱了吧](https://www.v2ex.com/t/672606) 
+- [2020-05-17-罗技-G304-的接收器，有办法多绑定一个无线键盘吗？](https://www.v2ex.com/t/672605) 
+- [2020-05-17-我们如今持有的偏见，是否很大程度收到了媒体的影响？](https://www.v2ex.com/t/672604) 
+- [2020-05-17-有多少-V2EX-的朋友购买了非国行-iPhone-11-系列，都是运营商合约机还是无锁版？-供货渠道有哪些，求助。](https://www.v2ex.com/t/672602) 
+- [2020-05-17-拖地机器人，分享使用体验&求推荐。](https://www.v2ex.com/t/672601) 
+- [2020-05-17-想知道-香港机房带宽-和-IP-什么价格](https://www.v2ex.com/t/672600) 
+- [2020-05-17-在家-Solo-的第-3-周](https://www.v2ex.com/t/672598) 
+- [2020-05-17-安卓手机不-root-有没有有效的隐私保护和反跟踪方案？被跟踪的感觉很不舒服。](https://www.v2ex.com/t/672597) 
+- [2020-05-17-杭州西湖区蒋村西溪花园竞舟苑招室友](https://www.v2ex.com/t/672596) 
+- [2020-05-17-程序员第二职业](https://www.v2ex.com/t/672595) 
+- [2020-05-17-因为考研的原因，一年多没怎么碰代码了，最近才刚刚复试完。前端技术迭代速度太快了，现在该如何快速重拾前端技术？给点建议吧，谢谢了。](https://www.v2ex.com/t/672594) 
 - [2020-05-17-win2012-被暴力登录，导致正常连接不上怎么办](https://www.v2ex.com/t/672591) 
 - [2020-05-17-关于-6.1-日起-电动车要带头盔](https://www.v2ex.com/t/672590) 
 - [2020-05-17-有小伙伴知道北京哪里可以免费自习呢？首图这种？可以自己带考试资料去看书吗](https://www.v2ex.com/t/672589) 

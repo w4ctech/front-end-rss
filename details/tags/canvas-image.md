@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,6 +21,7 @@
 - [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) 
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 
+- [2020-05-17-3D-建模电脑清单](https://www.v2ex.com/t/672607) 
 - [2020-05-17-Swift-on-Server-Deployment-Guide](https://www.v2ex.com/t/672479) 
 - [2020-05-16-IMAX-官方即将开始卖-3D-眼镜！](https://www.v2ex.com/t/672269) 
 - [2020-05-14-Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451) 

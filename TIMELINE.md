@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-17 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-武汉“网红窗帘”将被湖北省博物馆永久收藏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb15rAxZxUPdh1hzyKuR200517&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-北京核酸检测机构增至70家，日检验检测能力最高达51000份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij14b0WsBNpZZBfKle3FD200517&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-世卫组织：全球新冠肺炎确诊病例超过449万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibjBF4L16xG0OVXrAvYD8200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-首尔梨泰院夜店新冠肺炎确诊病例增至168例，此波疫情已基本得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7z24tu7qjMt2RwfGyiU200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-8支医疗队500余人已到达吉林市支援](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFZIA1llSmTUUfNUmvOQ200517&isfromapp=1) 
@@ -691,6 +694,14 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-17-致-软件开发工作者：免疫网络暴力和-职场-PUA-的终极认知补丁](https://www.v2ex.com/t/672637) 
+- [【V2EX】2020-05-17-AQS-里的-doAcquireInterruptibly，如果已经阻塞在-park-了，是不可能被唤醒的吧？](https://www.v2ex.com/t/672635) 
+- [【V2EX】2020-05-17-发现了一个-nvm-的跨平台替代品-volta](https://www.v2ex.com/t/672634) 
+- [【V2EX】2020-05-17-今年-517-电信日还有流量卡可以领吗？](https://www.v2ex.com/t/672633) 
+- [【V2EX】2020-05-17-这是某多多的二手-iPhone-车吗？](https://www.v2ex.com/t/672632) 
+- [【V2EX】2020-05-17-SSR-最近封锁极其厉害](https://www.v2ex.com/t/672631) 
+- [【V2EX】2020-05-17-求教-Mac-OS-的照片（photo）应用的使用方法（从-iPhone-导入），不是很清楚逻辑，麻烦各位帮忙理一下。](https://www.v2ex.com/t/672630) 
+- [【V2EX】2020-05-17-上海电信老套餐精品网提速的福音](https://www.v2ex.com/t/672628) 
 - [【V2EX】2020-05-17-杭州滨江区海康威视附近租房](https://www.v2ex.com/t/672627) 
 - [【V2EX】2020-05-17-写代码的时候应该使用标准的指法吗？](https://www.v2ex.com/t/672626) 
 - [【V2EX】2020-05-17-我研究了一下“战神回家”这个梗](https://www.v2ex.com/t/672625) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-17 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-新冠肺炎疫情持续影响，法国经济复苏仍需时日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildEFmwge7AQfExmQAzL8200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-​5月17日6时至10时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPB0ogi0Y1rRsYbY1rHGb200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1) 
@@ -410,6 +411,7 @@
 - [【前端迷】2020-05-04-React-项目性能分析及优化](https://www.ershicimi.com/p/e035498647ac5ceb2eec2ef538222f9e) 
 - [【前端迷】2020-05-03-送给想转行AI的你：3堂人工智能入行教学课（免费领取）](https://www.ershicimi.com/p/9fb3ab95675c53b6bf6118ab02e2ef87) 
 - [【前端迷】2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9) 
+- [【全栈前端精选】2020-05-17-推荐一位从外包走进腾讯的朋友](https://www.ershicimi.com/p/b34cf71e94f71ab287d43e7a22663e79) 
 - [【全栈前端精选】2020-05-16-Deno-正式发布，彻底弄明白和-node-的区别](https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a) 
 - [【全栈前端精选】2020-05-15-译-为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/3ea6d0b39e4d728a3fa8ee4737abdea6) 
 - [【全栈前端精选】2020-05-14-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e) 
@@ -684,6 +686,10 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-17-5.17-国际不再恐同日](https://www.v2ex.com/t/672550) 
+- [【V2EX】2020-05-17-群发短信](https://www.v2ex.com/t/672548) 
+- [【V2EX】2020-05-17-在开源代码中-rm--rf-是为了什么？](https://www.v2ex.com/t/672547) 
+- [【V2EX】2020-05-17-很烦恼，该去还是留？](https://www.v2ex.com/t/672546) 
 - [【V2EX】2020-05-17-拼多多的-2-人成团的方式，是噱头？还是真有这个需求？](https://www.v2ex.com/t/672545) 
 - [【V2EX】2020-05-17-api-数据返回过滤不需要的字段](https://www.v2ex.com/t/672543) 
 - [【V2EX】2020-05-17-完全-pdf-的技术类书籍，-iPad-/surface-怎么阅读最舒服？](https://www.v2ex.com/t/672542) 

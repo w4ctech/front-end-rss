@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1",
+        "date": "2020-05-17"
+      },
+      {
         "title": "新冠肺炎疫情持续影响，法国经济复苏仍需时日",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildEFmwge7AQfExmQAzL8200517&isfromapp=1",
         "date": "2020-05-17"
@@ -3769,6 +3774,11 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "推荐一位从外包走进腾讯的朋友",
+        "link": "https://www.ershicimi.com/p/b34cf71e94f71ab287d43e7a22663e79",
+        "date": "2020-05-17"
+      },
       {
         "title": "Deno 正式发布，彻底弄明白和 node 的区别",
         "link": "https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a",
@@ -8146,6 +8156,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "5.17 国际不再恐同日",
+        "link": "https://www.v2ex.com/t/672550",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "群发短信",
+        "link": "https://www.v2ex.com/t/672548",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "在开源代码中 rm -rf 是为了什么？",
+        "link": "https://www.v2ex.com/t/672547",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "很烦恼，该去还是留？",
+        "link": "https://www.v2ex.com/t/672546",
+        "date": "2020-05-17"
+      },
       {
         "title": "拼多多的 2 人成团的方式，是噱头？还是真有这个需求？",
         "link": "https://www.v2ex.com/t/672545",

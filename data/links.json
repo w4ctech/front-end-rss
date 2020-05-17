@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "日本新增新冠肺炎确诊病例27例，累计16337例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1",
+        "date": "2020-05-18"
+      },
+      {
         "title": "印度18日起将再实施两周全国封锁，铁路民航等仍停运",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1",
         "date": "2020-05-17"
@@ -8251,6 +8256,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "8 年码农卖身求个远程工作",
+        "link": "https://www.v2ex.com/t/672719",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "微信小程序 DownloadTask.onProgressUpdate 安卓真机调试无法获取数据",
+        "link": "https://www.v2ex.com/t/672718",
+        "date": "2020-05-18"
+      },
       {
         "title": "《后浪》程序员版",
         "link": "https://www.v2ex.com/t/672713",

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-18 00:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-18-8-年码农卖身求个远程工作](https://www.v2ex.com/t/672719) 
+- [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718) 
 - [2020-05-18-《后浪》程序员版](https://www.v2ex.com/t/672713) 
 - [2020-05-18-请教如何实现-SNMPV3-只允许对方获取某几个-OID-信息](https://www.v2ex.com/t/672711) 
 - [2020-05-18-V-站苹果用户这么多，是不是也可以集体诉讼一下？](https://www.v2ex.com/t/672710) 

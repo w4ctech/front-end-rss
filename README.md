@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 00:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 01:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-18-日本新增新冠肺炎确诊病例27例，累计16337例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1) ![](assets/new.png)  
 - [2020-05-17-印度18日起将再实施两周全国封锁，铁路民航等仍停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1)  
 - [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过452万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1)  
 - [2020-05-17-荷兰新增新冠肺炎确诊病例125例-累计确诊43995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHZru0L4nsi6RKC5iyTR200517&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-17-新冠肺炎疫情持续影响，法国经济复苏仍需时日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildEFmwge7AQfExmQAzL8200517&isfromapp=1)  
 - [2020-05-17-​5月17日6时至10时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPB0ogi0Y1rRsYbY1rHGb200517&isfromapp=1)  
 - [2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1)  
-- [2020-05-17-武汉市所有医院恢复日常医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,10 +1052,12 @@
 </summary>
 
 
-- [2020-05-18-《后浪》程序员版](https://www.v2ex.com/t/672713) ![](assets/new.png)  
-- [2020-05-18-请教如何实现-SNMPV3-只允许对方获取某几个-OID-信息](https://www.v2ex.com/t/672711) ![](assets/new.png)  
-- [2020-05-18-V-站苹果用户这么多，是不是也可以集体诉讼一下？](https://www.v2ex.com/t/672710) ![](assets/new.png)  
-- [2020-05-17-咨询一个问题,你们会同时记住-2-或-3-套以上-IDE/工具的快捷键吗?](https://www.v2ex.com/t/672709) ![](assets/new.png)  
+- [2020-05-18-8-年码农卖身求个远程工作](https://www.v2ex.com/t/672719) ![](assets/new.png)  
+- [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718) ![](assets/new.png)  
+- [2020-05-18-《后浪》程序员版](https://www.v2ex.com/t/672713)  
+- [2020-05-18-请教如何实现-SNMPV3-只允许对方获取某几个-OID-信息](https://www.v2ex.com/t/672711)  
+- [2020-05-18-V-站苹果用户这么多，是不是也可以集体诉讼一下？](https://www.v2ex.com/t/672710)  
+- [2020-05-17-咨询一个问题,你们会同时记住-2-或-3-套以上-IDE/工具的快捷键吗?](https://www.v2ex.com/t/672709)  
 - [2020-05-17-QQ-音乐-UWP-没法下载-VIP-歌曲了](https://www.v2ex.com/t/672707)  
 - [2020-05-17-写了一个喂养宝宝记录的-macOS-的-APP](https://www.v2ex.com/t/672706)  
 - [2020-05-17-日本-WIFI-无法访问大部分国内网站](https://www.v2ex.com/t/672705)  
@@ -1070,8 +1072,6 @@
 - [2020-05-17-elasticsearch-和-clickhouse-哪个更好呢？](https://www.v2ex.com/t/672695)  
 - [2020-05-17-Gentoo-LiveCD-重新打包-iso-方式，学费-500RMB](https://www.v2ex.com/t/672694)  
 - [2020-05-17-弃码从商见闻](https://www.v2ex.com/t/672692)  
-- [2020-05-17-如何设计一个短链接系统？我发现微博的短链接是-8-位，按照-62-进制，能保存二百万亿个链接，请问这个关联关系怎么存储的？](https://www.v2ex.com/t/672691)  
-- [2020-05-17-手淫近-8-年，压力越大频率越多，无法戒掉](https://www.v2ex.com/t/672690)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

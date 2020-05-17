@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -839,6 +839,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-2017-款-MBP-电池鼓包天才吧维修记录](https://www.v2ex.com/t/672659) 
+- [2020-05-17-感觉现在找工作这么难吗？](https://www.v2ex.com/t/672658) 
+- [2020-05-17-群晖的-Drive-for-MAC-始终会有-10%左右的-cpu-占用？](https://www.v2ex.com/t/672657) 
+- [2020-05-17-各位,16-寸外接-4k-屏鼠标会间歇性卡顿](https://www.v2ex.com/t/672656) 
 - [2020-05-17-这个投广告多少钱？](https://www.v2ex.com/t/672655) 
 - [2020-05-17-各位能推荐一个养眼的-Linux-桌面环境吗？](https://www.v2ex.com/t/672652) 
 - [2020-05-17-setapp-还只剩一个位置](https://www.v2ex.com/t/672648) 
@@ -5336,6 +5340,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as) 
 - [2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3) 
 - [2020-05-17-Java-并发编程（三）：MESI、内存屏障](https://toutiao.io/k/8rwevgs) 
 - [2020-05-17-优酷-Mac-迁移-Swift-实践](https://toutiao.io/k/w0el7vj) 

@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "受新冠肺炎疫情影响，秘鲁利马都会区已有超过120万人失业",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9MGHWbiWxitXaaHAAe0A200517&isfromapp=1",
+        "date": "2020-05-17"
+      },
+      {
+        "title": "吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1",
+        "date": "2020-05-17"
+      },
+      {
         "title": "土耳其向31个国家和地区开放医疗旅游",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1",
         "date": "2020-05-17"
@@ -5634,6 +5644,11 @@
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
+      {
+        "title": "Node.js 中的 stream 模块详解",
+        "link": "https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447",
+        "date": "2020-05-16"
+      },
       {
         "title": "奇舞周刊第 349 期：优秀网站必须关注的健康指标",
         "link": "https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b",

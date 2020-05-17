@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 08:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-受新冠肺炎疫情影响，秘鲁利马都会区已有超过120万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9MGHWbiWxitXaaHAAe0A200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1)  
 - [2020-05-16-幼儿园卖烧烤花式自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiadUYpvi10dYI5GeQN0nz200516&isfromapp=1)  
 - [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1)  
 - [2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-16-5月13日吉林市通报的确诊病例4在长行程轨迹公布](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1)  
 - [2020-05-16-西班牙、英国等欧洲多国疫情趋缓-管控措施放松](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEQmZZGdVHOTgYgIRExPF200516&isfromapp=1)  
 - [2020-05-16-吉林省舒兰市全面开展核酸检测工作-目前累计采样近2万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy6AB907otXMK22AH0R5q200516&isfromapp=1)  
-- [2020-05-16-截至5月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/407096.jhtml)  
-- [2020-05-16-2020年5月15日西藏自治区新型冠状病毒肺炎疫情情况](http://wjw.xizang.gov.cn/xwzx/wsjkdt/202005/t20200516_140661.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -735,6 +735,7 @@
 </summary>
 
 
+- [2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447) ![](assets/new.png)  
 - [2020-05-15-奇舞周刊第-349-期：优秀网站必须关注的健康指标](https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b)  
 - [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)  
 - [2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d)  
@@ -754,7 +755,6 @@
 - [2020-05-06-大佬在线答疑，开启你的快乐前端之旅](https://www.ershicimi.com/p/da60f12583a8fd40294aaaa778fb9963)  
 - [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806)  
 - [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)  
-- [2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,7 @@
 </summary>
 
 
-- [2020-05-17-Basecamp-的远程办公桌](https://www.v2ex.com/t/672491) ![](assets/new.png)  
+- [2020-05-17-Basecamp-的远程办公桌](https://www.v2ex.com/t/672491)  
 - [2020-05-17-Mac-软件-notability-桌面端降价至-6-元](https://www.v2ex.com/t/672490)  
 - [2020-05-17-为什么香橙派等开发板还没电视盒子便宜？](https://www.v2ex.com/t/672489)  
 - [2020-05-17-拒绝-996，你做了什么？](https://www.v2ex.com/t/672488)  

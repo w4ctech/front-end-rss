@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-17 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-受新冠肺炎疫情影响，秘鲁利马都会区已有超过120万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9MGHWbiWxitXaaHAAe0A200517&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-幼儿园卖烧烤花式自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiadUYpvi10dYI5GeQN0nz200516&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1) 
@@ -471,6 +473,7 @@
 - [【阮一峰的网络日志】2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447) 
 - [【奇舞周刊】2020-05-15-奇舞周刊第-349-期：优秀网站必须关注的健康指标](https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b) 
 - [【奇舞周刊】2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) 
 - [【奇舞周刊】2020-05-13-花式解说防抖函数debounce的实现](https://www.ershicimi.com/p/a96df88f7426ce3a79b27ad2dd0ce73d) 

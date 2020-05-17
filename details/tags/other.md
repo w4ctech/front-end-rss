@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-17-吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1) 
 - [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1) 
 - [2020-05-16-幼儿园卖烧烤花式自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiadUYpvi10dYI5GeQN0nz200516&isfromapp=1) 
 - [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1) 

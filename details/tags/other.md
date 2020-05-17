@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -278,6 +278,7 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/7b312dbd3d6f7b1d0d8f3ed48528c917) 
 - [2020-05-14-微信群突然冒出“免费教画画”的女大学生，小心有诈！](https://www.ershicimi.com/p/6d4428777a01a1ff1811321470359288) 
 - [2020-05-13-我有一招，让你不再越努力越迷茫](https://www.ershicimi.com/p/7e615e1c9386efd73c77d64619ff8652) 
 - [2020-05-13-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/ef71cff79e5301f436929382ad72e2a2) 
@@ -322,6 +323,7 @@
 - [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) 
 - [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) 
 - [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
+- [2020-05-16-520，还单着的人怎么过？](https://www.ershicimi.com/p/9a17cfd269d3d8e7a39161b66f7d04e5) 
 - [2020-05-14-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/910fb3341149a314e135b9de0ea3b498) 
 - [2020-05-11-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/b4663e39ae2bc89b5b6c937a4fc3f4c6) 
 - [2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28) 
@@ -827,6 +829,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-向大家分享一位奇人:桐谷广人](https://www.v2ex.com/t/672538) 
+- [2020-05-17-任正非南华日报采访回答-996，真是搞笑](https://www.v2ex.com/t/672537) 
+- [2020-05-17-建议-V2EX-建立一个站内搜索引擎](https://www.v2ex.com/t/672535) 
 - [2020-05-17-安卓下有什么写作-app-可以发布文章到-wordpress？](https://www.v2ex.com/t/672533) 
 - [2020-05-17-想找一类软件，搜索不知道如何下手](https://www.v2ex.com/t/672532) 
 - [2020-05-17-验证微软账户的手机号究竟在哪里可以看到？](https://www.v2ex.com/t/672530) 

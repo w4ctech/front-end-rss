@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-17-伊朗低感染风险城市上升至218个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzIcRYnzb33CdnnffFoC200517&isfromapp=1) 
+- [2020-05-17-北京将保持“3+2”的市级救治体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOArNuhJ5HU6pZyJpyoK7200517&isfromapp=1) 
 - [2020-05-17-武汉“网红窗帘”将被湖北省博物馆永久收藏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb15rAxZxUPdh1hzyKuR200517&isfromapp=1) 
 - [2020-05-17-北京核酸检测机构增至70家，日检验检测能力最高达51000份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij14b0WsBNpZZBfKle3FD200517&isfromapp=1) 
 - [2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1) 
@@ -837,6 +839,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-setapp-还只剩一个位置](https://www.v2ex.com/t/672648) 
 - [2020-05-17-离开阿里巴巴](https://www.v2ex.com/t/672647) 
 - [2020-05-17-阿里云的免费服务已经不推荐使用](https://www.v2ex.com/t/672646) 
 - [2020-05-17-裸辞在家，无聊随拍～](https://www.v2ex.com/t/672644) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 19:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 20:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-17-伊朗低感染风险城市上升至218个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzIcRYnzb33CdnnffFoC200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-北京将保持“3+2”的市级救治体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOArNuhJ5HU6pZyJpyoK7200517&isfromapp=1) ![](assets/new.png)  
 - [2020-05-17-武汉“网红窗帘”将被湖北省博物馆永久收藏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb15rAxZxUPdh1hzyKuR200517&isfromapp=1)  
 - [2020-05-17-北京核酸检测机构增至70家，日检验检测能力最高达51000份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij14b0WsBNpZZBfKle3FD200517&isfromapp=1)  
 - [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过449万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibjBF4L16xG0OVXrAvYD8200517&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-17-吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1)  
 - [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1)  
 - [2020-05-16-幼儿园卖烧烤花式自救](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiadUYpvi10dYI5GeQN0nz200516&isfromapp=1)  
-- [2020-05-16-土耳其-23-个省实施强制口罩令，不佩戴口罩者将被处以行政罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVojk1N3wZx7wWoBwujY200516&isfromapp=1)  
-- [2020-05-16-六条跨京冀公交线路明后天陆续恢复全线运营](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWeWAM4y6hzEQIrHCcG6200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,15 +1052,17 @@
 </summary>
 
 
-- [2020-05-17-离开阿里巴巴](https://www.v2ex.com/t/672647) ![](assets/new.png)  
-- [2020-05-17-阿里云的免费服务已经不推荐使用](https://www.v2ex.com/t/672646) ![](assets/new.png)  
-- [2020-05-17-裸辞在家，无聊随拍～](https://www.v2ex.com/t/672644) ![](assets/new.png)  
-- [2020-05-17-广州移动给的-IPV6-是真的吗？为啥-https://ipv6-test.com/都显示-Not-supported-了？](https://www.v2ex.com/t/672643) ![](assets/new.png)  
-- [2020-05-17-「发布」两个字在公众号后台是违规词](https://www.v2ex.com/t/672642) ![](assets/new.png)  
-- [2020-05-17-是不是随便买台-4k-屏的安卓手机+品牌手机-VR-头盔就能最低成本体验-VR？](https://www.v2ex.com/t/672641) ![](assets/new.png)  
-- [2020-05-17-请教一个-Java-volatile-字段可见性的问题](https://www.v2ex.com/t/672640) ![](assets/new.png)  
-- [2020-05-17-高山上盖庙还嫌低，面对面坐下还想你。谁有这首歌的音频或者视频或者链接](https://www.v2ex.com/t/672639) ![](assets/new.png)  
-- [2020-05-17-小度人工智能音箱-刷-小爱同学固件-该如何做？是否有教程？](https://www.v2ex.com/t/672638) ![](assets/new.png)  
+- [2020-05-17-跑-Docker-的软路由方案咨询](https://www.v2ex.com/t/672650) ![](assets/new.png)  
+- [2020-05-17-setapp-还只剩一个位置](https://www.v2ex.com/t/672648) ![](assets/new.png)  
+- [2020-05-17-离开阿里巴巴](https://www.v2ex.com/t/672647)  
+- [2020-05-17-阿里云的免费服务已经不推荐使用](https://www.v2ex.com/t/672646)  
+- [2020-05-17-裸辞在家，无聊随拍～](https://www.v2ex.com/t/672644)  
+- [2020-05-17-广州移动给的-IPV6-是真的吗？为啥-https://ipv6-test.com/都显示-Not-supported-了？](https://www.v2ex.com/t/672643)  
+- [2020-05-17-「发布」两个字在公众号后台是违规词](https://www.v2ex.com/t/672642)  
+- [2020-05-17-是不是随便买台-4k-屏的安卓手机+品牌手机-VR-头盔就能最低成本体验-VR？](https://www.v2ex.com/t/672641)  
+- [2020-05-17-请教一个-Java-volatile-字段可见性的问题](https://www.v2ex.com/t/672640)  
+- [2020-05-17-高山上盖庙还嫌低，面对面坐下还想你。谁有这首歌的音频或者视频或者链接](https://www.v2ex.com/t/672639)  
+- [2020-05-17-小度人工智能音箱-刷-小爱同学固件-该如何做？是否有教程？](https://www.v2ex.com/t/672638)  
 - [2020-05-17-致-软件开发工作者：免疫网络暴力和-职场-PUA-的终极认知补丁](https://www.v2ex.com/t/672637)  
 - [2020-05-17-AQS-里的-doAcquireInterruptibly，如果已经阻塞在-park-了，是不可能被唤醒的吧？](https://www.v2ex.com/t/672635)  
 - [2020-05-17-发现了一个-nvm-的跨平台替代品-volta](https://www.v2ex.com/t/672634)  
@@ -1070,8 +1072,6 @@
 - [2020-05-17-求教-Mac-OS-的照片（photo）应用的使用方法（从-iPhone-导入），不是很清楚逻辑，麻烦各位帮忙理一下。](https://www.v2ex.com/t/672630)  
 - [2020-05-17-上海电信老套餐精品网提速的福音](https://www.v2ex.com/t/672628)  
 - [2020-05-17-杭州滨江区海康威视附近租房](https://www.v2ex.com/t/672627)  
-- [2020-05-17-写代码的时候应该使用标准的指法吗？](https://www.v2ex.com/t/672626)  
-- [2020-05-17-我研究了一下“战神回家”这个梗](https://www.v2ex.com/t/672625)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

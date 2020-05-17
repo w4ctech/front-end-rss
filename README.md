@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 01:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 02:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-18-日本新增新冠肺炎确诊病例27例，累计16337例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-日本新增新冠肺炎确诊病例27例，累计16337例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1)  
 - [2020-05-17-印度18日起将再实施两周全国封锁，铁路民航等仍停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1)  
 - [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过452万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1)  
 - [2020-05-17-荷兰新增新冠肺炎确诊病例125例-累计确诊43995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHZru0L4nsi6RKC5iyTR200517&isfromapp=1)  
@@ -1052,8 +1052,9 @@
 </summary>
 
 
-- [2020-05-18-8-年码农卖身求个远程工作](https://www.v2ex.com/t/672719) ![](assets/new.png)  
-- [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718) ![](assets/new.png)  
+- [2020-05-18-坐标成都寻手游团队寻找成都本地手游团队，有大项目合作，最好能本地见面聊](https://www.v2ex.com/t/672721) ![](assets/new.png)  
+- [2020-05-18-8-年码农卖身求个远程工作](https://www.v2ex.com/t/672719)  
+- [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718)  
 - [2020-05-18-《后浪》程序员版](https://www.v2ex.com/t/672713)  
 - [2020-05-18-请教如何实现-SNMPV3-只允许对方获取某几个-OID-信息](https://www.v2ex.com/t/672711)  
 - [2020-05-18-V-站苹果用户这么多，是不是也可以集体诉讼一下？](https://www.v2ex.com/t/672710)  
@@ -1071,7 +1072,6 @@
 - [2020-05-17-国内原创作者真的太少了。](https://www.v2ex.com/t/672696)  
 - [2020-05-17-elasticsearch-和-clickhouse-哪个更好呢？](https://www.v2ex.com/t/672695)  
 - [2020-05-17-Gentoo-LiveCD-重新打包-iso-方式，学费-500RMB](https://www.v2ex.com/t/672694)  
-- [2020-05-17-弃码从商见闻](https://www.v2ex.com/t/672692)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

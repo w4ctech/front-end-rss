@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 23:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 23:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-17-印度18日起将再实施两周全国封锁，铁路民航等仍停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过452万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1) ![](assets/new.png)  
 - [2020-05-17-荷兰新增新冠肺炎确诊病例125例-累计确诊43995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHZru0L4nsi6RKC5iyTR200517&isfromapp=1)  
 - [2020-05-17-粤港澳正商讨互认检疫措施和病毒检测结果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3yIKV2iWtsVxqyK8RQ61200517&isfromapp=1)  
 - [2020-05-17-香港新增3宗新冠肺炎输入病例，患者均由巴基斯坦回港](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuUco97J6ToMimSnQsIV1200517&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-17-​5月17日6时至10时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPB0ogi0Y1rRsYbY1rHGb200517&isfromapp=1)  
 - [2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1)  
 - [2020-05-17-武汉市所有医院恢复日常医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1)  
-- [2020-05-17-巴西新冠肺炎累计确诊病例破23万-确诊病例数超意大利跃升全球第5位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiklsrmtSpP0j6YZP5LU8y200517&isfromapp=1)  
-- [2020-05-17-受新冠肺炎疫情影响，秘鲁利马都会区已有超过120万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9MGHWbiWxitXaaHAAe0A200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-17-2020-应届生的疑惑](https://www.v2ex.com/t/672697) ![](assets/new.png)  
-- [2020-05-17-国内原创作者真的太少了。](https://www.v2ex.com/t/672696) ![](assets/new.png)  
-- [2020-05-17-elasticsearch-和-clickhouse-哪个更好呢？](https://www.v2ex.com/t/672695) ![](assets/new.png)  
-- [2020-05-17-Gentoo-LiveCD-重新打包-iso-方式，学费-500RMB](https://www.v2ex.com/t/672694) ![](assets/new.png)  
-- [2020-05-17-弃码从商见闻](https://www.v2ex.com/t/672692) ![](assets/new.png)  
-- [2020-05-17-如何设计一个短链接系统？我发现微博的短链接是-8-位，按照-62-进制，能保存二百万亿个链接，请问这个关联关系怎么存储的？](https://www.v2ex.com/t/672691) ![](assets/new.png)  
-- [2020-05-17-手淫近-8-年，压力越大频率越多，无法戒掉](https://www.v2ex.com/t/672690) ![](assets/new.png)  
-- [2020-05-17-芒果-tv-导致-mac-风扇发疯怎么回事](https://www.v2ex.com/t/672689) ![](assets/new.png)  
-- [2020-05-17-北京---台北互联前几天还走上海的，这两天换广州了，大神们看一下这个图，是国内段炸了吗？](https://www.v2ex.com/t/672688) ![](assets/new.png)  
-- [2020-05-17-128g-的-mbp-用户们平时是怎么更新-xcode-的](https://www.v2ex.com/t/672687) ![](assets/new.png)  
+- [2020-05-17-杭州租房，开源项目-15star-以上，物业费我出](https://www.v2ex.com/t/672703) ![](assets/new.png)  
+- [2020-05-17-已认证的订阅号，如何实现微信页面的微信登录？](https://www.v2ex.com/t/672702) ![](assets/new.png)  
+- [2020-05-17-做技术年纪大了，老婆嫌弃挣钱少\不上进](https://www.v2ex.com/t/672700) ![](assets/new.png)  
+- [2020-05-17-是不是可以开始学-deno-了?-"在开源代码中-rm--rf-是为了什么？"有感](https://www.v2ex.com/t/672699) ![](assets/new.png)  
+- [2020-05-17-如何排查云主机上是否有可疑的挖矿程序？](https://www.v2ex.com/t/672698) ![](assets/new.png)  
+- [2020-05-17-2020-应届生的疑惑](https://www.v2ex.com/t/672697)  
+- [2020-05-17-国内原创作者真的太少了。](https://www.v2ex.com/t/672696)  
+- [2020-05-17-elasticsearch-和-clickhouse-哪个更好呢？](https://www.v2ex.com/t/672695)  
+- [2020-05-17-Gentoo-LiveCD-重新打包-iso-方式，学费-500RMB](https://www.v2ex.com/t/672694)  
+- [2020-05-17-弃码从商见闻](https://www.v2ex.com/t/672692)  
+- [2020-05-17-如何设计一个短链接系统？我发现微博的短链接是-8-位，按照-62-进制，能保存二百万亿个链接，请问这个关联关系怎么存储的？](https://www.v2ex.com/t/672691)  
+- [2020-05-17-手淫近-8-年，压力越大频率越多，无法戒掉](https://www.v2ex.com/t/672690)  
+- [2020-05-17-芒果-tv-导致-mac-风扇发疯怎么回事](https://www.v2ex.com/t/672689)  
+- [2020-05-17-北京---台北互联前几天还走上海的，这两天换广州了，大神们看一下这个图，是国内段炸了吗？](https://www.v2ex.com/t/672688)  
+- [2020-05-17-128g-的-mbp-用户们平时是怎么更新-xcode-的](https://www.v2ex.com/t/672687)  
 - [2020-05-17-有没有双向情感障碍的老铁](https://www.v2ex.com/t/672686)  
 - [2020-05-17-蚂蚁金服-招资深-Java-、c++研发、运维](https://www.v2ex.com/t/672685)  
 - [2020-05-17-cookiecutter-看看这个问题有碰到或者会的吗，这个问题太困扰我了。](https://www.v2ex.com/t/672684)  
 - [2020-05-17-给大家分享一个我自己开发的微信机器人](https://www.v2ex.com/t/672683)  
 - [2020-05-17-求助为何-ping-和-traceroute-结果差距巨大](https://www.v2ex.com/t/672682)  
-- [2020-05-17-有了解东芝-756900C-的同志么](https://www.v2ex.com/t/672681)  
-- [2020-05-17-杭州还有什么不加班或者非常少的工作嘛。。](https://www.v2ex.com/t/672680)  
-- [2020-05-17-KVM-下的-win7-虚拟机怎么使用-USB3.0?](https://www.v2ex.com/t/672679)  
-- [2020-05-17-github-官方文档里-“基本看板”-的英文是-"Basic-kanban"](https://www.v2ex.com/t/672678)  
-- [2020-05-17-大家在用漫步者的电脑音响吗？听说可以传家](https://www.v2ex.com/t/672677)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

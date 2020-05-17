@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-17 21:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-17 21:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-17-荷兰新增新冠肺炎确诊病例125例-累计确诊43995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHZru0L4nsi6RKC5iyTR200517&isfromapp=1) ![](assets/new.png)  
+- [2020-05-17-粤港澳正商讨互认检疫措施和病毒检测结果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3yIKV2iWtsVxqyK8RQ61200517&isfromapp=1) ![](assets/new.png)  
 - [2020-05-17-香港新增3宗新冠肺炎输入病例，患者均由巴基斯坦回港](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuUco97J6ToMimSnQsIV1200517&isfromapp=1)  
 - [2020-05-17-伊朗低感染风险城市上升至218个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzIcRYnzb33CdnnffFoC200517&isfromapp=1)  
 - [2020-05-17-北京将保持“3+2”的市级救治体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOArNuhJ5HU6pZyJpyoK7200517&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-17-武汉市所有医院恢复日常医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1)  
 - [2020-05-17-巴西新冠肺炎累计确诊病例破23万-确诊病例数超意大利跃升全球第5位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiklsrmtSpP0j6YZP5LU8y200517&isfromapp=1)  
 - [2020-05-17-受新冠肺炎疫情影响，秘鲁利马都会区已有超过120万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9MGHWbiWxitXaaHAAe0A200517&isfromapp=1)  
-- [2020-05-17-吉林市来沈返沈人员指定宾馆集中隔离观察21天，进行3次核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia6xSNcMNOJhHaf4sKWlZ200517&isfromapp=1)  
-- [2020-05-17-土耳其向31个国家和地区开放医疗旅游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ0TLg2XMkYf2RQUAFCrx200516&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,11 +1052,14 @@
 </summary>
 
 
-- [2020-05-17-Selecting-a-Memory-Efficient-IDE:-Eclipse-or-IntelliJ-or-GCeasy?](https://www.v2ex.com/t/672660) ![](assets/new.png)  
-- [2020-05-17-2017-款-MBP-电池鼓包天才吧维修记录](https://www.v2ex.com/t/672659) ![](assets/new.png)  
-- [2020-05-17-感觉现在找工作这么难吗？](https://www.v2ex.com/t/672658) ![](assets/new.png)  
-- [2020-05-17-群晖的-Drive-for-MAC-始终会有-10%左右的-cpu-占用？](https://www.v2ex.com/t/672657) ![](assets/new.png)  
-- [2020-05-17-各位,16-寸外接-4k-屏鼠标会间歇性卡顿](https://www.v2ex.com/t/672656) ![](assets/new.png)  
+- [2020-05-17-有关互联网跳槽，非临时工作的，谁换工作有我多？](https://www.v2ex.com/t/672663) ![](assets/new.png)  
+- [2020-05-17-各位大佬帮我看看这个-USB-无线网卡的速度正常吗？](https://www.v2ex.com/t/672662) ![](assets/new.png)  
+- [2020-05-17-panzura-公司怎么样？成都地区有哪些外企？](https://www.v2ex.com/t/672661) ![](assets/new.png)  
+- [2020-05-17-Selecting-a-Memory-Efficient-IDE:-Eclipse-or-IntelliJ-or-GCeasy?](https://www.v2ex.com/t/672660)  
+- [2020-05-17-2017-款-MBP-电池鼓包天才吧维修记录](https://www.v2ex.com/t/672659)  
+- [2020-05-17-感觉现在找工作这么难吗？](https://www.v2ex.com/t/672658)  
+- [2020-05-17-群晖的-Drive-for-MAC-始终会有-10%左右的-cpu-占用？](https://www.v2ex.com/t/672657)  
+- [2020-05-17-各位,16-寸外接-4k-屏鼠标会间歇性卡顿](https://www.v2ex.com/t/672656)  
 - [2020-05-17-这个投广告多少钱？](https://www.v2ex.com/t/672655)  
 - [2020-05-17-求组合的算法问题](https://www.v2ex.com/t/672653)  
 - [2020-05-17-各位能推荐一个养眼的-Linux-桌面环境吗？](https://www.v2ex.com/t/672652)  
@@ -1069,9 +1072,6 @@
 - [2020-05-17-「发布」两个字在公众号后台是违规词](https://www.v2ex.com/t/672642)  
 - [2020-05-17-是不是随便买台-4k-屏的安卓手机+品牌手机-VR-头盔就能最低成本体验-VR？](https://www.v2ex.com/t/672641)  
 - [2020-05-17-请教一个-Java-volatile-字段可见性的问题](https://www.v2ex.com/t/672640)  
-- [2020-05-17-高山上盖庙还嫌低，面对面坐下还想你。谁有这首歌的音频或者视频或者链接](https://www.v2ex.com/t/672639)  
-- [2020-05-17-小度人工智能音箱-刷-小爱同学固件-该如何做？是否有教程？](https://www.v2ex.com/t/672638)  
-- [2020-05-17-致-软件开发工作者：免疫网络暴力和-职场-PUA-的终极认知补丁](https://www.v2ex.com/t/672637)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,7 +1114,7 @@
 </summary>
 
 
-- [2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as) ![](assets/new.png)  
+- [2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as)  
 - [2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3)  
 - [2020-05-17-RecyclerView.ItemAnimator-源码解析](https://toutiao.io/k/xhm72i6)  
 - [2020-05-17-Java-并发编程（三）：MESI、内存屏障](https://toutiao.io/k/8rwevgs)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-17 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -181,6 +181,7 @@
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
 - [【全栈前端精选】Deno-正式发布，彻底弄明白和-node-的区别](https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a)
 - [【前端宇宙】node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)
+- [【前端瓶子君】推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/a2999829905f028385ecd93ff177782f)
 - [【前端瓶子君】抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)
 - [【程序员成长指北】手把手用-UDP-实现-Node-服务日志归集（附完整源码）](https://www.ershicimi.com/p/916d1592492eca55210267f8c0586116)
 - [【程序员成长指北】Node.js-搭建一个-API-接口服务实战](https://www.ershicimi.com/p/0565f069f4ed13e243b6634a5ea16934)
@@ -195,7 +196,6 @@
 - [【Nodejs技术栈】Node.js-开发者-2020-年度报告](https://www.ershicimi.com/p/60c6d83582f252c19260f71ab577ab10)
 - [【Nodejs技术栈】Node.js-源码解析-util.promisify-如何将-Callback-转为-Promis](https://www.ershicimi.com/p/fd94b7a810b424fa2d8163ef956d15c1)
 - [【Nodejs技术栈】Nodejs-Stream-pipe-的使用与实现原理分析](https://www.ershicimi.com/p/b1b3453ecbc755a1f58cea113934067a)
-- [【Nodejs技术栈】看优酷-Nodejs-重构之路-Serverless-SSR-未来可期](https://www.ershicimi.com/p/1a875ec10b90a89b46ee5f488b5528ac)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

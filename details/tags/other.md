@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-17 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-17 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -389,6 +389,7 @@
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [2020-05-16-了不起的-Deno-入门教程](https://www.ershicimi.com/p/aaa2d9cf5e053ad9972d5d3f1c14454f) 
 - [2020-05-15-卧槽，啥情况，极客时间怎么突然免费了?](https://www.ershicimi.com/p/83a6094cfeae44c73a01c09e6fff774c) 
 - [2020-05-12-动手开发一个适用于公司项目的脚手架](https://www.ershicimi.com/p/9858c348c3435a92d3a69ef7c55fd006) 
 - [2020-05-10-推荐11个优秀的前端公众号](https://www.ershicimi.com/p/cb1d86de75485cc486c6e744c6e1b19c) 
@@ -438,6 +439,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-17-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/93c317170e8489947260ba5d95f3aa04) 
 - [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db) 
 - [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4) 
 - [2020-05-11-领你入门认识二叉树](https://www.ershicimi.com/p/b2f99b32e8c36c6da8a931a38282fead) 
@@ -820,6 +822,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-17-什么？-VS-Code-也能写-Java-？听听微软首席开发经理怎么说](https://www.v2ex.com/t/672500) 
+- [2020-05-17-阿里腾讯给你发-offer-但是必须-996-你去不？](https://www.v2ex.com/t/672497) 
 - [2020-05-17-维护了五年多的-Hexo-主题-Icarus-又大版本更新啦](https://www.v2ex.com/t/672495) 
 - [2020-05-17-外资企业加班少？-这到底是真是假，收到了两个-offer。在考虑去哪个。](https://www.v2ex.com/t/672493) 
 - [2020-05-17-Basecamp-的远程办公桌](https://www.v2ex.com/t/672491) 
@@ -5211,6 +5215,12 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3) 
+- [2020-05-17-Java-并发编程（三）：MESI、内存屏障](https://toutiao.io/k/8rwevgs) 
+- [2020-05-17-优酷-Mac-迁移-Swift-实践](https://toutiao.io/k/w0el7vj) 
+- [2020-05-17-完了！CPU-一味求快出事儿了](https://toutiao.io/k/fcb5p9y) 
+- [2020-05-17-用-Golang-写一个语言（编译器，虚拟机）](https://toutiao.io/k/5sgitpf) 
+- [2020-05-17-给你的-ERC777-代币制作一个自己的专属账本](https://toutiao.io/k/viwizf7) 
 - [2020-05-17-Go-Web-小技巧（四）：在单个仓库中支持多个-go-mod-模块](https://toutiao.io/k/dy7b75m) 
 - [2020-05-16-Spring-源码（十）：Spring-AOP-核心-API](https://toutiao.io/k/5dpo99t) 
 - [2020-05-16-内存迟迟下不去，可能你就差一个-GC.Collect](https://toutiao.io/k/1gjtcoi) 

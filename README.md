@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 05:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,8 @@
 </summary>
 
 
-- [2020-05-19-请问接下来怎么操作？](https://www.v2ex.com/t/673075) ![](assets/new.png)  
+- [2020-05-19-海外-15-年高级数据工程师博士开群-群名：地球村🌎,-提供留学就业生活交流不是非要出国的,-也交流被动收入](https://www.v2ex.com/t/673076) ![](assets/new.png)  
+- [2020-05-19-请问接下来怎么操作？](https://www.v2ex.com/t/673075)  
 - [2020-05-19-请问-PyQT5-中，如何处理-undo-和-redo？](https://www.v2ex.com/t/673073)  
 - [2020-05-19-创造被动收入：程序员可以尝试开发的高价值订阅产品](https://www.v2ex.com/t/673071)  
 - [2020-05-19-为何抓包的这个动态发布-api-没有用户信息-超级课表的接口-!Imgurhttps://i.imgur.com/B14t6x3.png](https://www.v2ex.com/t/673070)  
@@ -1076,7 +1077,6 @@
 - [2020-05-19-🎨-Neumorphism（新拟态）风格的-UI-框架-alpha-版本发布啦-~-样式部分纯-CSS，支持-Web-和小程序，简单易用，感谢大家关注和支持-~](https://www.v2ex.com/t/673054)  
 - [2020-05-18-在-debian-中用-docker-版本的-tensorflow-gpu-失效问题](https://www.v2ex.com/t/673051)  
 - [2020-05-18-想组一台-AMD-的黑果，请问一下，-AMD-的黑果现在还有什么坑么？](https://www.v2ex.com/t/673050)  
-- [2020-05-18-有没有可同时使用-Kindle、京东读书、微信读书……的墨水屏电子书阅读设备？](https://www.v2ex.com/t/673049)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

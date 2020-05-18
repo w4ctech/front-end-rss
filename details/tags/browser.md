@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-18-请问-chrome-如何拦截指定文件下载](https://www.v2ex.com/t/672744) 
 - [2020-05-18-求步骤：-MacOS-下-用-VMware-Fusion-将-NTFS-格式移动硬盘用-SMB-挂在到-macOS-系统进行安全读写。](https://www.v2ex.com/t/672723) 
 - [2020-05-17-cookiecutter-看看这个问题有碰到或者会的吗，这个问题太困扰我了。](https://www.v2ex.com/t/672684) 
 - [2020-05-17-在某台服务器上搭建了-websocket-服务，请问如何对其进行-20w-连接的压力测试呢？](https://www.v2ex.com/t/672673) 

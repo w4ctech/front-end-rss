@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "科威特新增新冠肺炎确诊病例841例 累计确诊15691例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyVgDWyRVniGNj4LZXya1200518&isfromapp=1",
+        "date": "2020-05-18"
+      },
+      {
         "title": "英国增加新冠肺炎潜在症状 建议丧失嗅觉或味觉民众居家隔离",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWGcCAOo2nIHmgaW0iEH200518&isfromapp=1",
         "date": "2020-05-18"
@@ -8531,6 +8536,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "Python 中 del users[user]没有删除，反倒另外一个元素被删除了，这是为什么",
+        "link": "https://www.v2ex.com/t/673010",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "[北京+深圳] 字节跳动-核心业务-招聘高级前端开发工程师",
+        "link": "https://www.v2ex.com/t/673009",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "个人网站该如何做推广？",
+        "link": "https://www.v2ex.com/t/673008",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "大家都用什么方式看新闻",
+        "link": "https://www.v2ex.com/t/673007",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "有没有大佬使用过组态王软件，小弟求助！（急）",
+        "link": "https://www.v2ex.com/t/673006",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "如何让微博浏览器实现自动登录？",
+        "link": "https://www.v2ex.com/t/673005",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "求推荐路由器，玩游戏不卡，大伙帮忙看看",
+        "link": "https://www.v2ex.com/t/673004",
+        "date": "2020-05-18"
+      },
       {
         "title": "windows 版 CheatSheet",
         "link": "https://www.v2ex.com/t/673003",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 10:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -359,6 +359,11 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-18-大错特错，算法对前端开发同样重要！](https://www.ershicimi.com/p/ad0be4a6b4947642451f3c14a60c2302) 
+- [【前端开发】2020-05-18-JavaScript设计模式](https://www.ershicimi.com/p/d41fb6f09e67ff092900bfc3660f4015) 
+- [【前端开发】2020-05-17-面试官问了一下三次握手，我甩出这张脑图，他服了！](https://www.ershicimi.com/p/b35ac7adf6b1a0add9818a9c322554ab) 
+- [【前端开发】2020-05-16-修复100年前北京晚清影像，和马斯克谈两亿的项目，AI技术的底层逻辑是什么？](https://www.ershicimi.com/p/9bc9d62d1a0b3feb66de364bbd0dbb58) 
+- [【前端开发】2020-05-16-如何自我评估前端段位及进阶方式（纯干货）](https://www.ershicimi.com/p/451d9d765c9ba5fd7763abee42b554c1) 
 - [【前端开发】2020-05-15-10-个很实用的-JavaScript-技巧](https://www.ershicimi.com/p/80c6d0a9a11f7057770b6522f4b95a16) 
 - [【前端开发】2020-05-14-前后端分离的跨域介绍](https://www.ershicimi.com/p/8b090ed409cfcc15bb9c321957f68256) 
 - [【前端开发】2020-05-14-推荐几个程序员混职场必备的公众号](https://www.ershicimi.com/p/b30f8c996dff92e6d247abadb1680122) 
@@ -662,6 +667,8 @@
 - [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【JavaScript】2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [【JavaScript】2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
 - [【JavaScript】2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [【JavaScript】2020-05-13-人人都会VUE？老板凭什么选你？](https://www.ershicimi.com/p/a6c0b219705ef87af63f5920bc886dfe) 
 - [【JavaScript】2020-05-12-前端圈为啥贫富分化越来越严重？](https://www.ershicimi.com/p/ae1b4e5c8b6a83c2e118ee9b751f837b) 

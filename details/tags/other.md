@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -348,6 +348,8 @@
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) 
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
+- [2020-05-16-修复100年前北京晚清影像，和马斯克谈两亿的项目，AI技术的底层逻辑是什么？](https://www.ershicimi.com/p/9bc9d62d1a0b3feb66de364bbd0dbb58) 
+- [2020-05-16-如何自我评估前端段位及进阶方式（纯干货）](https://www.ershicimi.com/p/451d9d765c9ba5fd7763abee42b554c1) 
 - [2020-05-14-推荐几个程序员混职场必备的公众号](https://www.ershicimi.com/p/b30f8c996dff92e6d247abadb1680122) 
 - [2020-05-11-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c) 
 - [2020-05-11-前端代码规范最佳实践](https://www.ershicimi.com/p/658d2b63982559560eb1f0bf94fc7632) 

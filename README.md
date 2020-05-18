@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 08:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 09:00:49，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-18-国家卫健委：新增新冠肺炎确诊病例7例-境外输入4例，本土3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-阿根廷新冠肺炎确诊病例总数超过8000-将对贫民区进行全面筛查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-内蒙古18日最新通报：新增4例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDvptnsWEnfWRQrn9al3U200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-捷克国家紧急状态5月18日正式结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiywB0Lvup44zslKGfKc6b200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-秘鲁新冠肺炎确诊病例累计超过9万例，紧急状态结束后或继续维持限制性举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFnrZSTXIEYhq07h8mPUn200518&isfromapp=1) ![](assets/new.png)  
 - [2020-05-18-日本新增新冠肺炎确诊病例27例，累计16337例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1)  
 - [2020-05-17-印度18日起将再实施两周全国封锁，铁路民航等仍停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1)  
 - [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过452万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1)  
 - [2020-05-17-8支医疗队500余人已到达吉林市支援](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFZIA1llSmTUUfNUmvOQ200517&isfromapp=1)  
 - [2020-05-17-北京疾控中心：市民户外活动原则上不用戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigQsfcuX3Uzc3eE6czX0v200517&isfromapp=1)  
-- [2020-05-17-巴西确诊超23万，智利防控升级，拉美地区防疫形势严峻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWntEiNphTkZgrCdRb2lO200517&isfromapp=1)  
-- [2020-05-17-死猪“堆积成山”，市场却无肉可卖，美国肉类食品供应链断裂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA8HxwOYiVqJGrhlbkx2d200517&isfromapp=1)  
-- [2020-05-17-新冠肺炎疫情持续影响，法国经济复苏仍需时日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildEFmwge7AQfExmQAzL8200517&isfromapp=1)  
-- [2020-05-17-​5月17日6时至10时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPB0ogi0Y1rRsYbY1rHGb200517&isfromapp=1)  
-- [2020-05-17-吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,7 @@
 </summary>
 
 
+- [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1102,7 +1103,6 @@
 - [2020-05-11-2020，建议搞个-Mac-玩玩！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13440&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5mOS3jjZWR4e5iRfP4fvXg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,11 +1114,17 @@
 </summary>
 
 
-- [2020-05-18-在快应用中使用-RxJS](https://toutiao.io/k/l91fh0w) ![](assets/new.png)  
-- [2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e) ![](assets/new.png)  
-- [2020-05-18-嫌-OSS-查询太慢？看我们如何将速度提升-10-倍](https://toutiao.io/k/1jgb0yr) ![](assets/new.png)  
-- [2020-05-18-译-如何写出简洁的-CQRS-代码？](https://toutiao.io/k/ybjlu1t) ![](assets/new.png)  
-- [2020-05-18-必看必会的模型推理加速技巧：融合-BN-和-Conv-层](https://toutiao.io/k/76ld287) ![](assets/new.png)  
+- [2020-05-18-这样的-API-网关查询接口优化，我是被迫的](https://toutiao.io/k/1eb4uwg) ![](assets/new.png)  
+- [2020-05-18-假如时光倒流，我要这样学编程](https://toutiao.io/k/pff6ej1) ![](assets/new.png)  
+- [2020-05-18-我去，你竟然还不会用-synchronized](https://toutiao.io/k/lcd4wzl) ![](assets/new.png)  
+- [2020-05-18-Flink-1.10-细粒度资源管理解析](https://toutiao.io/k/rpzuxs0) ![](assets/new.png)  
+- [2020-05-18-前端开发的瓶颈与未来之路](https://toutiao.io/k/k5x4ge5) ![](assets/new.png)  
+- [2020-05-18-如何自定义-org-mode-中的动态块](https://toutiao.io/k/cizfpww) ![](assets/new.png)  
+- [2020-05-18-在快应用中使用-RxJS](https://toutiao.io/k/l91fh0w)  
+- [2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e)  
+- [2020-05-18-嫌-OSS-查询太慢？看我们如何将速度提升-10-倍](https://toutiao.io/k/1jgb0yr)  
+- [2020-05-18-译-如何写出简洁的-CQRS-代码？](https://toutiao.io/k/ybjlu1t)  
+- [2020-05-18-必看必会的模型推理加速技巧：融合-BN-和-Conv-层](https://toutiao.io/k/76ld287)  
 - [2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as)  
 - [2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3)  
 - [2020-05-17-RecyclerView.ItemAnimator-源码解析](https://toutiao.io/k/xhm72i6)  
@@ -1128,12 +1134,6 @@
 - [2020-05-17-手写-LRU-Least-Recently-Used](https://toutiao.io/k/xkvh15x)  
 - [2020-05-17-组件化的一个新想法](https://toutiao.io/k/2gi5rd2)  
 - [2020-05-17-用-Golang-写一个语言（编译器，虚拟机）](https://toutiao.io/k/5sgitpf)  
-- [2020-05-17-给你的-ERC777-代币制作一个自己的专属账本](https://toutiao.io/k/viwizf7)  
-- [2020-05-17-Etcd-使用-go-module-的灾难](https://toutiao.io/k/zp4ulbi)  
-- [2020-05-17-Kata-Containers-创始人：安全容器导论](https://toutiao.io/k/szh4be4)  
-- [2020-05-17-用深度学习实现-2D-到-3D-的转换](https://toutiao.io/k/qsj2j6y)  
-- [2020-05-17-Go-Web-小技巧（四）：在单个仓库中支持多个-go-mod-模块](https://toutiao.io/k/dy7b75m)  
-- [2020-05-16-Spring-源码（十）：Spring-AOP-核心-API](https://toutiao.io/k/5dpo99t)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

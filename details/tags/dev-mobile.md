@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -17,6 +17,7 @@
 - [2020-05-08-奇舞周刊第-348-期：-Flutter-Web-最新进展](https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245) 
 - [2020-05-08-Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152) 
 - [2020-04-23-Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d) 
+- [2020-05-18-有支持-PWA-的快递查询服务嘛？](https://www.v2ex.com/t/672921) 
 - [2020-05-17-远程，还是双语邦的云-Team----再求优秀-Flutter-程序员](https://www.v2ex.com/t/672608) 
 - [2020-05-17-从零开始花两天时间用-flutter-写了个离线密码生成器](https://www.v2ex.com/t/672554) 
 - [2020-05-16-RN-和-Flutter-这种跨平台的-UI-方案发展的怎样？](https://www.v2ex.com/t/672437) 

@@ -3546,6 +3546,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "我们用React重构了Facebook.com的技术栈",
+        "link": "https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "AngularJS迁移之战",
+        "link": "https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "前端周报：Deno 1.0 正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter 将永久性",
+        "link": "https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b",
+        "date": "2020-05-17"
+      },
+      {
         "title": "作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术",
         "link": "https://www.ershicimi.com/p/d5116d3adea2f3b598b7156443450556",
         "date": "2020-05-15"
@@ -8486,6 +8501,116 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "内推 互联网行业",
+        "link": "https://www.v2ex.com/t/672929",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "我 2018 年的时候来这里求助过意见， 2020 年产品重新出发一次",
+        "link": "https://www.v2ex.com/t/672928",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "[请教] gitlab-cicd 中，无法触发构建",
+        "link": "https://www.v2ex.com/t/672927",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "英伟达的显卡好还是 AMD 得显卡好?",
+        "link": "https://www.v2ex.com/t/672926",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "看到隔壁联想小新充电主板坏了，查了一下笔记本可靠性排名",
+        "link": "https://www.v2ex.com/t/672925",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "[当当 520 活动] 图书 4 折优惠活动又来了，满 400 减 230。",
+        "link": "https://www.v2ex.com/t/672924",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "需求十分明确，求大佬们给一个最有性价比的 nas 方案",
+        "link": "https://www.v2ex.com/t/672923",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "[上海][腾讯][ PHP /golang]这还是一条有诚意的招聘帖",
+        "link": "https://www.v2ex.com/t/672922",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "有支持 PWA 的快递查询服务嘛？",
+        "link": "https://www.v2ex.com/t/672921",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "求推荐个最便宜的在线音频播放硬件方案",
+        "link": "https://www.v2ex.com/t/672920",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "最近 qp bc 行业攻击好像又多了",
+        "link": "https://www.v2ex.com/t/672919",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "你身边有没有超级软萌可爱的妹子？但实际上是男的？",
+        "link": "https://www.v2ex.com/t/672918",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "[广州] 虎牙直播",
+        "link": "https://www.v2ex.com/t/672917",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "梯子今天第三次被封",
+        "link": "https://www.v2ex.com/t/672916",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "自己一个不完整的私人项目放到 github 上莫名其妙被很多人 fork 怎么办？怎么阻止被人 fork?",
+        "link": "https://www.v2ex.com/t/672914",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "Android 开发技术周报 Issue#280",
+        "link": "https://www.v2ex.com/t/672913",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "苹果日报报道香港再出发时误用了 ArchLinux 的 logo.",
+        "link": "https://www.v2ex.com/t/672912",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "今年借钱的人变多了",
+        "link": "https://www.v2ex.com/t/672911",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "48°C 小米 10Pro.",
+        "link": "https://www.v2ex.com/t/672910",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "MacBook Pro 最近睡眠唤醒假死，开机提示：电脑关机是因为发生了问题",
+        "link": "https://www.v2ex.com/t/672909",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "给甲方出一个私有化部署系统环境要求，不知道该申请多少台机器合适？",
+        "link": "https://www.v2ex.com/t/672907",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "请教各位大佬，关于离职空档期",
+        "link": "https://www.v2ex.com/t/672906",
+        "date": "2020-05-18"
+      },
       {
         "title": "有人用过 HackMD 吗？",
         "link": "https://www.v2ex.com/t/672903",

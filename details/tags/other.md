@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1) 
 - [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1) 
 - [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1) 
 - [2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1) 
@@ -868,6 +869,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-18-清理机械键盘多久一次](https://www.v2ex.com/t/672981) 
+- [2020-05-18-急-Mac-powerpoint-排练计时-打开是演示者视图！](https://www.v2ex.com/t/672980) 
+- [2020-05-18-请问有没有这样一个定时任务框架？](https://www.v2ex.com/t/672979) 
+- [2020-05-18-有什么截图软件带有定时截图功能？](https://www.v2ex.com/t/672978) 
+- [2020-05-18-现在网上获客成本越来越高,为什么一些公司不推出可以推广的客服系统呢](https://www.v2ex.com/t/672977) 
+- [2020-05-18-目前找工作这么难吗？](https://www.v2ex.com/t/672976) 
+- [2020-05-18-求外呼平台推荐~~~-打电话的那种,-正规正规的.](https://www.v2ex.com/t/672975) 
 - [2020-05-18-关于-IDEA-中-DeBug-的一个疑问，望解答](https://www.v2ex.com/t/672973) 
 - [2020-05-18-CKA-现在还值得考吗](https://www.v2ex.com/t/672970) 
 - [2020-05-18-我司女厕天天能捡到手机，这是什么操作？](https://www.v2ex.com/t/672969) 

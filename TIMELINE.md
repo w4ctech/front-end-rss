@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1) 
@@ -756,6 +757,14 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-18-清理机械键盘多久一次](https://www.v2ex.com/t/672981) 
+- [【V2EX】2020-05-18-急-Mac-powerpoint-排练计时-打开是演示者视图！](https://www.v2ex.com/t/672980) 
+- [【V2EX】2020-05-18-请问有没有这样一个定时任务框架？](https://www.v2ex.com/t/672979) 
+- [【V2EX】2020-05-18-有什么截图软件带有定时截图功能？](https://www.v2ex.com/t/672978) 
+- [【V2EX】2020-05-18-现在网上获客成本越来越高,为什么一些公司不推出可以推广的客服系统呢](https://www.v2ex.com/t/672977) 
+- [【V2EX】2020-05-18-目前找工作这么难吗？](https://www.v2ex.com/t/672976) 
+- [【V2EX】2020-05-18-求外呼平台推荐~~~-打电话的那种,-正规正规的.](https://www.v2ex.com/t/672975) 
+- [【V2EX】2020-05-18-代发深圳招聘-Java-后台](https://www.v2ex.com/t/672974) 
 - [【V2EX】2020-05-18-关于-IDEA-中-DeBug-的一个疑问，望解答](https://www.v2ex.com/t/672973) 
 - [【V2EX】2020-05-18-写了一个-xkcd-的微信小程序](https://www.v2ex.com/t/672971) 
 - [【V2EX】2020-05-18-CKA-现在还值得考吗](https://www.v2ex.com/t/672970) 

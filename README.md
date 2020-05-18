@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 06:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,9 @@
 </summary>
 
 
-- [2020-05-19-VUE-创始人尤雨溪曾经被阿里-hr-以不好用为由拒过…](https://www.v2ex.com/t/673078) ![](assets/new.png)  
+- [2020-05-19-昨天加了个-HR-微信，她说低于-3-年的-简历-她都不看？那我该怎么办？](https://www.v2ex.com/t/673080) ![](assets/new.png)  
+- [2020-05-19-我仿佛是个-NT，想伸手一个关于-angular-的-demo](https://www.v2ex.com/t/673079) ![](assets/new.png)  
+- [2020-05-19-VUE-创始人尤雨溪曾经被阿里-hr-以不好用为由拒过…](https://www.v2ex.com/t/673078)  
 - [2020-05-19-海外-15-年高级数据工程师博士开群-群名：地球村🌎,-提供留学就业生活交流不是非要出国的,-也交流被动收入](https://www.v2ex.com/t/673076)  
 - [2020-05-19-请问接下来怎么操作？](https://www.v2ex.com/t/673075)  
 - [2020-05-19-请问-PyQT5-中，如何处理-undo-和-redo？](https://www.v2ex.com/t/673073)  
@@ -1075,8 +1077,6 @@
 - [2020-05-19-vscode-突然不能输出调试内容的详细信息](https://www.v2ex.com/t/673057)  
 - [2020-05-19-有什么私有云是没有-WEB-界面的吗](https://www.v2ex.com/t/673056)  
 - [2020-05-19-MBP13_2020_低配和高配风扇数量不一样??](https://www.v2ex.com/t/673055)  
-- [2020-05-19-🎨-Neumorphism（新拟态）风格的-UI-框架-alpha-版本发布啦-~-样式部分纯-CSS，支持-Web-和小程序，简单易用，感谢大家关注和支持-~](https://www.v2ex.com/t/673054)  
-- [2020-05-18-在-debian-中用-docker-版本的-tensorflow-gpu-失效问题](https://www.v2ex.com/t/673051)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

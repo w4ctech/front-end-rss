@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 01:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 01:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1)  
 - [2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1)  
 - [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1)  
 - [2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1)  
@@ -1057,6 +1057,11 @@
 </summary>
 
 
+- [2020-05-19-idea2019.1-导入-eureka-源码使用-gradle-构建半天死活不成功](https://www.v2ex.com/t/673066) ![](assets/new.png)  
+- [2020-05-19-玩-Ultimate-Frisbee-的过来聊聊](https://www.v2ex.com/t/673065) ![](assets/new.png)  
+- [2020-05-19-求-Apple-Music-换区建议-&-换区有办法保留歌单吗？](https://www.v2ex.com/t/673063) ![](assets/new.png)  
+- [2020-05-19-有听过严慕来的《来念书》播客的朋友吗？](https://www.v2ex.com/t/673062) ![](assets/new.png)  
+- [2020-05-19-大家认为-zerotier-的缺点有哪些？](https://www.v2ex.com/t/673061) ![](assets/new.png)  
 - [2020-05-19-街边拿着微信二维码声称自己开奶昔店求关注的背后，到底是什么猫腻？](https://www.v2ex.com/t/673059)  
 - [2020-05-19-爬虫：微信读书笔记工具，-markdown-导出，可自定义导出格式，欢迎-star~](https://www.v2ex.com/t/673058)  
 - [2020-05-19-vscode-突然不能输出调试内容的详细信息](https://www.v2ex.com/t/673057)  
@@ -1072,11 +1077,6 @@
 - [2020-05-18-类似托管服务，用户创建应用自动配置一个子域名，然后在这个子域名上跑他上传的代码](https://www.v2ex.com/t/673044)  
 - [2020-05-18-买了两台测试手机，红米-NOTE4X，装了-ANDROID-6，时间长了经常重启](https://www.v2ex.com/t/673043)  
 - [2020-05-18-你们谈的-996-算加班工资吗？](https://www.v2ex.com/t/673042)  
-- [2020-05-18-紧急求助：因口罩佩戴问题，被离职。想请大家分析下下面具体情况，给予帮助，不胜感激。](https://www.v2ex.com/t/673039)  
-- [2020-05-18-flask-本地环境-测试-post-加载慢](https://www.v2ex.com/t/673038)  
-- [2020-05-18-DNSmasq-功能-asuswrt-官方固件里有吗？还是说必须要刷梅林固件？](https://www.v2ex.com/t/673037)  
-- [2020-05-18-请教如何在-Linux-下自定义配置-SNMP？](https://www.v2ex.com/t/673036)  
-- [2020-05-18-请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。](https://www.v2ex.com/t/673035)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -31,6 +31,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-18-北京-美团-推荐算法、后端岗位，大量社招-HC-等你来，欢迎投递简历~~](https://www.v2ex.com/t/672796) 
 - [2020-05-17-elasticsearch-和-clickhouse-哪个更好呢？](https://www.v2ex.com/t/672695) 
 - [2020-05-17-求组合的算法问题](https://www.v2ex.com/t/672653) 
 - [2020-05-17-广州移动给的-IPV6-是真的吗？为啥-https://ipv6-test.com/都显示-Not-supported-了？](https://www.v2ex.com/t/672643) 

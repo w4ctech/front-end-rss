@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 11:00:21，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 11:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-18-韩国新增新冠肺炎确诊病例15例，累计确诊11065例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvXnzqnHbv0ZOKkkp9Gm200518&isfromapp=1) ![](assets/new.png)  
 - [2020-05-18-国家卫健委：新增新冠肺炎确诊病例7例-境外输入4例，本土3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1)  
 - [2020-05-18-阿根廷新冠肺炎确诊病例总数超过8000-将对贫民区进行全面筛查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1)  
 - [2020-05-18-内蒙古18日最新通报：新增4例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDvptnsWEnfWRQrn9al3U200518&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-17-首尔梨泰院夜店新冠肺炎确诊病例增至168例，此波疫情已基本得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7z24tu7qjMt2RwfGyiU200517&isfromapp=1)  
 - [2020-05-17-国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1)  
 - [2020-05-17-8支医疗队500余人已到达吉林市支援](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFZIA1llSmTUUfNUmvOQ200517&isfromapp=1)  
-- [2020-05-17-北京疾控中心：市民户外活动原则上不用戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigQsfcuX3Uzc3eE6czX0v200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -557,7 +557,7 @@
 </summary>
 
 
-- [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/bbaaf5422ba4a7cb0eb92db3cba88951) ![](assets/new.png)  
+- [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/bbaaf5422ba4a7cb0eb92db3cba88951)  
 - [2020-05-17-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/a2999829905f028385ecd93ff177782f)  
 - [2020-05-17-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/93c317170e8489947260ba5d95f3aa04)  
 - [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db)  
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-18-你很需要的，一个一键导出「有道云笔记」所有笔记的功能](https://www.v2ex.com/t/672790) ![](assets/new.png)  
-- [2020-05-18-美国出台新的管制措施，向台积电施压，企图断供部分芯片。“战争”已经摆在了桌面上，我们这一代正在见证一段非常重要的历史，经历了几十年的和平发展，到今天我...](https://www.v2ex.com/t/672789) ![](assets/new.png)  
-- [2020-05-18-安卓设备唯一表示-用什么呢-IMEI-吗](https://www.v2ex.com/t/672788) ![](assets/new.png)  
-- [2020-05-18-关于-Chrome-使用-flash-时的一些问题！](https://www.v2ex.com/t/672787) ![](assets/new.png)  
-- [2020-05-18-Debian10-的-iptables-redirect-规则](https://www.v2ex.com/t/672785) ![](assets/new.png)  
-- [2020-05-18-你们有遇到过不同面积的房间当做同一户型出租的吗？](https://www.v2ex.com/t/672784) ![](assets/new.png)  
-- [2020-05-18-某-BAT-巨头，周日-23-点左右突然打电话过来面试……](https://www.v2ex.com/t/672782) ![](assets/new.png)  
-- [2020-05-18-如何快捷生成文本表格？](https://www.v2ex.com/t/672781) ![](assets/new.png)  
-- [2020-05-18-安德玛官网全场六折折扣码转让，可自己下单](https://www.v2ex.com/t/672780) ![](assets/new.png)  
-- [2020-05-18-提问一个关于-git-很低级的问题](https://www.v2ex.com/t/672779) ![](assets/new.png)  
-- [2020-05-18-我一个后台使用了新的框架，开发了一周，然后基本完工了，然后技术主管让使用回旧框架。主管是不是很无能啊](https://www.v2ex.com/t/672778) ![](assets/new.png)  
-- [2020-05-18-细节做得挺好的](https://www.v2ex.com/t/672777) ![](assets/new.png)  
-- [2020-05-18-授权接口给其他公司该如何设计？](https://www.v2ex.com/t/672776) ![](assets/new.png)  
-- [2020-05-18-程序员如何有第二笔收入来源？](https://www.v2ex.com/t/672775) ![](assets/new.png)  
-- [2020-05-18-招.NET-软件工程师、软件测试工程师、嵌入式工程师、物联网工程师、项目经理](https://www.v2ex.com/t/672774) ![](assets/new.png)  
-- [2020-05-18-问个问题，淘宝卖的那些-0-打扰微信清粉用的什么骚操作？可以做到-0-打扰](https://www.v2ex.com/t/672773) ![](assets/new.png)  
-- [2020-05-18-有没有适合-mbp-侧边使用的小巧的-type-c-to-type--c-的数据线或者转换器？](https://www.v2ex.com/t/672772) ![](assets/new.png)  
-- [2020-05-18-大锅们，求一个股票-Chrome-插件！](https://www.v2ex.com/t/672770) ![](assets/new.png)  
-- [2020-05-18-雷军开始远程施法了](https://www.v2ex.com/t/672769) ![](assets/new.png)  
-- [2020-05-18-996-和-955-的区别.](https://www.v2ex.com/t/672767) ![](assets/new.png)  
+- [2020-05-18-CalDigit-TS3-Plus-2-代视频输出问题](https://www.v2ex.com/t/672811) ![](assets/new.png)  
+- [2020-05-18-base-杭州有赞内推~测试&-Java-~待遇不错双休呀](https://www.v2ex.com/t/672809) ![](assets/new.png)  
+- [2020-05-18-Dcat-Admin-v1.4.0-发布，对后端开发者友好的高颜值后台系统构建工具，新增多应用以及行内编辑等功能](https://www.v2ex.com/t/672807) ![](assets/new.png)  
+- [2020-05-18-npm-淘宝镜像站挂了吗?](https://www.v2ex.com/t/672806) ![](assets/new.png)  
+- [2020-05-18-微信支付-顶级产品线-招开发-后端-/-前端-/-高级-中级-各种不限](https://www.v2ex.com/t/672805) ![](assets/new.png)  
+- [2020-05-18-深圳内推-明源云-前端（react）+后端（-PHP-，-Go）双休-单周下午茶等优秀福利等你！](https://www.v2ex.com/t/672803) ![](assets/new.png)  
+- [2020-05-18-现在便宜快递都不送上门了？](https://www.v2ex.com/t/672802) ![](assets/new.png)  
+- [2020-05-18-天府三街上班，房子租哪里比较好？另：有两室户的房源吗？](https://www.v2ex.com/t/672801) ![](assets/new.png)  
+- [2020-05-18-想问问各位见多识广的-Ver，是否有读取/解析-CDR-的开源项目或者付费项目](https://www.v2ex.com/t/672800) ![](assets/new.png)  
+- [2020-05-18-求推荐一个显示器](https://www.v2ex.com/t/672798) ![](assets/new.png)  
+- [2020-05-18-Serverless-Dashboard-设计解读与实战](https://www.v2ex.com/t/672797) ![](assets/new.png)  
+- [2020-05-18-北京-美团-推荐算法、后端岗位，大量社招-HC-等你来，欢迎投递简历~~](https://www.v2ex.com/t/672796) ![](assets/new.png)  
+- [2020-05-18-直播分享-Web-应用图片优化｜又拍云-Open-Talk-系列公开课](https://www.v2ex.com/t/672795) ![](assets/new.png)  
+- [2020-05-18-业务-or-技术，如何选择](https://www.v2ex.com/t/672792) ![](assets/new.png)  
+- [2020-05-18-深圳移动-5G-究竟有多快](https://www.v2ex.com/t/672791) ![](assets/new.png)  
+- [2020-05-18-你很需要的，一个一键导出「有道云笔记」所有笔记的功能](https://www.v2ex.com/t/672790)  
+- [2020-05-18-美国出台新的管制措施，向台积电施压，企图断供部分芯片。“战争”已经摆在了桌面上，我们这一代正在见证一段非常重要的历史，经历了几十年的和平发展，到今天我...](https://www.v2ex.com/t/672789)  
+- [2020-05-18-安卓设备唯一表示-用什么呢-IMEI-吗](https://www.v2ex.com/t/672788)  
+- [2020-05-18-关于-Chrome-使用-flash-时的一些问题！](https://www.v2ex.com/t/672787)  
+- [2020-05-18-Debian10-的-iptables-redirect-规则](https://www.v2ex.com/t/672785)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

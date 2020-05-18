@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 18:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 19:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-第73届世界卫生大会今天开幕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1)  
 - [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1)  
 - [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1)  
 - [2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-17-荷兰新增新冠肺炎确诊病例125例-累计确诊43995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHZru0L4nsi6RKC5iyTR200517&isfromapp=1)  
 - [2020-05-17-粤港澳正商讨互认检疫措施和病毒检测结果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3yIKV2iWtsVxqyK8RQ61200517&isfromapp=1)  
 - [2020-05-17-香港新增3宗新冠肺炎输入病例，患者均由巴基斯坦回港](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuUco97J6ToMimSnQsIV1200517&isfromapp=1)  
-- [2020-05-17-伊朗低感染风险城市上升至218个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzIcRYnzb33CdnnffFoC200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -735,6 +735,8 @@
 </summary>
 
 
+- [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) ![](assets/new.png)  
+- [2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec) ![](assets/new.png)  
 - [2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447)  
 - [2020-05-15-奇舞周刊第-349-期：优秀网站必须关注的健康指标](https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b)  
 - [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)  
@@ -753,8 +755,6 @@
 - [2020-05-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/f5b7656f5977dc4f306c2f6a8feface1)  
 - [2020-05-06-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/bdcde0abac5f28af9c81114032cf362f)  
 - [2020-05-06-大佬在线答疑，开启你的快乐前端之旅](https://www.ershicimi.com/p/da60f12583a8fd40294aaaa778fb9963)  
-- [2020-05-03-奇舞团面试官被群面，这里的17道面试题你也遇到过吗？](https://www.ershicimi.com/p/ac2083b5b4b0aa5c6b6fe563639d9806)  
-- [2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1054,26 +1054,26 @@
 </summary>
 
 
-- [2020-05-18-清理机械键盘多久一次](https://www.v2ex.com/t/672981) ![](assets/new.png)  
-- [2020-05-18-急-Mac-powerpoint-排练计时-打开是演示者视图！](https://www.v2ex.com/t/672980) ![](assets/new.png)  
-- [2020-05-18-请问有没有这样一个定时任务框架？](https://www.v2ex.com/t/672979) ![](assets/new.png)  
-- [2020-05-18-有什么截图软件带有定时截图功能？](https://www.v2ex.com/t/672978) ![](assets/new.png)  
-- [2020-05-18-现在网上获客成本越来越高,为什么一些公司不推出可以推广的客服系统呢](https://www.v2ex.com/t/672977) ![](assets/new.png)  
-- [2020-05-18-目前找工作这么难吗？](https://www.v2ex.com/t/672976) ![](assets/new.png)  
-- [2020-05-18-求外呼平台推荐~~~-打电话的那种,-正规正规的.](https://www.v2ex.com/t/672975) ![](assets/new.png)  
-- [2020-05-18-代发深圳招聘-Java-后台](https://www.v2ex.com/t/672974) ![](assets/new.png)  
+- [2020-05-18-同学亲戚找人做外包，不知道能力够不够去做](https://www.v2ex.com/t/672988) ![](assets/new.png)  
+- [2020-05-18-求推荐一款在-mac-下好用的鼠标](https://www.v2ex.com/t/672987) ![](assets/new.png)  
+- [2020-05-18-新手问个关于数据库的幼稚问题](https://www.v2ex.com/t/672986) ![](assets/new.png)  
+- [2020-05-18-找前端外包，开发表单生成器](https://www.v2ex.com/t/672985) ![](assets/new.png)  
+- [2020-05-18-迫于贫穷，求推荐个性价比高的蓝牙耳机，-500-以内](https://www.v2ex.com/t/672984) ![](assets/new.png)  
+- [2020-05-18-老弟又来烦各位老哥了--三网运营商基站定位](https://www.v2ex.com/t/672983) ![](assets/new.png)  
+- [2020-05-18-看着华为再次被针对，国家发声表示对美国的谴责](https://www.v2ex.com/t/672982) ![](assets/new.png)  
+- [2020-05-18-清理机械键盘多久一次](https://www.v2ex.com/t/672981)  
+- [2020-05-18-急-Mac-powerpoint-排练计时-打开是演示者视图！](https://www.v2ex.com/t/672980)  
+- [2020-05-18-请问有没有这样一个定时任务框架？](https://www.v2ex.com/t/672979)  
+- [2020-05-18-有什么截图软件带有定时截图功能？](https://www.v2ex.com/t/672978)  
+- [2020-05-18-现在网上获客成本越来越高,为什么一些公司不推出可以推广的客服系统呢](https://www.v2ex.com/t/672977)  
+- [2020-05-18-目前找工作这么难吗？](https://www.v2ex.com/t/672976)  
+- [2020-05-18-求外呼平台推荐~~~-打电话的那种,-正规正规的.](https://www.v2ex.com/t/672975)  
+- [2020-05-18-代发深圳招聘-Java-后台](https://www.v2ex.com/t/672974)  
 - [2020-05-18-关于-IDEA-中-DeBug-的一个疑问，望解答](https://www.v2ex.com/t/672973)  
 - [2020-05-18-写了一个-xkcd-的微信小程序](https://www.v2ex.com/t/672971)  
 - [2020-05-18-CKA-现在还值得考吗](https://www.v2ex.com/t/672970)  
 - [2020-05-18-我司女厕天天能捡到手机，这是什么操作？](https://www.v2ex.com/t/672969)  
 - [2020-05-18-深圳知名手机厂商求一名安全攻防专家，待遇-100-150-左右，欢迎咨询](https://www.v2ex.com/t/672968)  
-- [2020-05-18-送几个-jc-订阅链接-一月-50G-只能白嫖一个月哈](https://www.v2ex.com/t/672967)  
-- [2020-05-18-最近发现两个很好用的小工具，求推荐类似的](https://www.v2ex.com/t/672966)  
-- [2020-05-18-Apple-Trade-In-换购计划支持-Android-设备](https://www.v2ex.com/t/672965)  
-- [2020-05-18-做一个-Serverless-SSR-需要几步？](https://www.v2ex.com/t/672964)  
-- [2020-05-18-我的一年独立开发经历](https://www.v2ex.com/t/672962)  
-- [2020-05-18-有什么开源软件可以自动发现软件系统架构？](https://www.v2ex.com/t/672961)  
-- [2020-05-18-老妈经常打电话说“手机提示她让去领钱”，-每次老妈都很激动，其实我知道这都是“垃圾-app”恶意广告。-请问有没有什么技术手段可以还老妈一个清爽的手机。她...](https://www.v2ex.com/t/672959)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

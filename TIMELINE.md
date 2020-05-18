@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-第73届世界卫生大会今天开幕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1) 
@@ -546,6 +547,8 @@
 - [【阮一峰的网络日志】2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
+- [【奇舞周刊】2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec) 
 - [【奇舞周刊】2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447) 
 - [【奇舞周刊】2020-05-15-奇舞周刊第-349-期：优秀网站必须关注的健康指标](https://www.ershicimi.com/p/d2e720eb85d70875337ea031aafea93b) 
 - [【奇舞周刊】2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) 
@@ -757,6 +760,13 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-18-同学亲戚找人做外包，不知道能力够不够去做](https://www.v2ex.com/t/672988) 
+- [【V2EX】2020-05-18-求推荐一款在-mac-下好用的鼠标](https://www.v2ex.com/t/672987) 
+- [【V2EX】2020-05-18-新手问个关于数据库的幼稚问题](https://www.v2ex.com/t/672986) 
+- [【V2EX】2020-05-18-找前端外包，开发表单生成器](https://www.v2ex.com/t/672985) 
+- [【V2EX】2020-05-18-迫于贫穷，求推荐个性价比高的蓝牙耳机，-500-以内](https://www.v2ex.com/t/672984) 
+- [【V2EX】2020-05-18-老弟又来烦各位老哥了--三网运营商基站定位](https://www.v2ex.com/t/672983) 
+- [【V2EX】2020-05-18-看着华为再次被针对，国家发声表示对美国的谴责](https://www.v2ex.com/t/672982) 
 - [【V2EX】2020-05-18-清理机械键盘多久一次](https://www.v2ex.com/t/672981) 
 - [【V2EX】2020-05-18-急-Mac-powerpoint-排练计时-打开是演示者视图！](https://www.v2ex.com/t/672980) 
 - [【V2EX】2020-05-18-请问有没有这样一个定时任务框架？](https://www.v2ex.com/t/672979) 

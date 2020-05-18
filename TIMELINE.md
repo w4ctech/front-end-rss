@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 12:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -338,6 +338,9 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
+- [【前端大全】2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f) 
+- [【前端大全】2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091) 
 - [【前端大全】2020-05-16-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/ff3b61d47f68ff8b5f83e1b39385f912) 
 - [【前端大全】2020-05-16-520，还单着的人怎么过？](https://www.ershicimi.com/p/9a17cfd269d3d8e7a39161b66f7d04e5) 
 - [【前端大全】2020-05-15-2020，前端Vue面试都问啥？](https://www.ershicimi.com/p/8c22f387d9129be07fd6bd65209c5640) 

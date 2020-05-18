@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -278,10 +278,12 @@
 - [2020-04-24-关于-js-函数返回值的一个小问题](https://www.v2ex.com/t/665550) 
 - [2020-04-24-ajax-异步返回的页面中，加载外部-vendor.js，要怎么实现呢？](https://www.v2ex.com/t/665515) 
 - [2020-04-23-请教一个-JS-异常处理和代码执行的问题](https://www.v2ex.com/t/665509) 
+- [2020-05-18-利用-ViewBinding-和反射封装的基类，从此再也不用-findViewById-了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13461&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_7JGaJuUSd8SFQbTl6zwLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-18-Swift-使用-Observe-监测页面滚动](https://toutiao.io/k/hjkqgtk) 
 - [2020-05-18-史上最强-JavaScript-闭包原理详解：从入门到放弃](https://toutiao.io/k/rmayc49) 
 - [2020-05-18-在快应用中使用-RxJS](https://toutiao.io/k/l91fh0w) 
 - [2020-05-17-组件化的一个新想法](https://toutiao.io/k/2gi5rd2) 

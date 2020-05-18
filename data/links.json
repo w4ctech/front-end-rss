@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "福建5月20日起下调新冠病毒检测临时项目价格 严禁扩大收费范围",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1",
+        "date": "2020-05-18"
+      },
+      {
         "title": "天津初高中非毕业班以及小学高年级复课",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilhlsO28JpJdsTJPK5nQu200518&isfromapp=1",
         "date": "2020-05-18"
@@ -3994,6 +3999,11 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "前端源码架构在拍卖详情页上的探索",
+        "link": "https://www.ershicimi.com/p/6e08bd14d5465619c85aeaafeae8bf6e",
+        "date": "2020-05-18"
+      },
       {
         "title": "推荐一位从外包走进腾讯的朋友",
         "link": "https://www.ershicimi.com/p/b34cf71e94f71ab287d43e7a22663e79",
@@ -37344,6 +37354,56 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "利用 ViewBinding 和反射封装的基类，从此再也不用 findViewById 了 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13461&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_7JGaJuUSd8SFQbTl6zwLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "什么是整洁的代码 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13460&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoAIp27uEL9EhT1-8-dKRVg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "开发了一款软件，完成了舔狗的绝地反杀（代码开源） (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13459&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwFuj3CkS95WqHfGxHJEwPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "Flutter 添加到现有项目 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13458&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYOgBWQ8-eNri528j_OY-Sw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "这款神器，能把 Python 代码执行过程看地一清二楚 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13457&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FA69xawJBNLI3dy7t7zh-kg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "Android app后台回到前台时的监听 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13456&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVn3jETV-1kVa2FzS2eE4SA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "编写高性能 Java 代码的最佳实践 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13455&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fl9f4IQwXbEeQsOjKYrEOFQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "7大 Python 特殊技巧提升数据分析能力 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13454&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDHZbO96D-X7ECRUFdzhsVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "程序员无休止加班的真正原因 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13453&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyjTzq81xGBJEkXvSloowFA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "哈哈，太真实了！除了《颈椎康复指南》，还有这 9 本书 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13452&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi6VHEYkZ_b2dJn0Q4xCBFQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-18"
+      },
+      {
         "title": "有了这 4 款工具，老板再也不怕我写烂SQL了 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13451&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81tsAyJJMrXpVhB1cCfzMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-05-18"
@@ -37700,6 +37760,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "虽然简单但确不能不会的推荐算法重点回顾",
+        "link": "https://toutiao.io/k/xy2u775",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "可怕！CPU竟成了黑客的帮凶",
+        "link": "https://toutiao.io/k/gkjbs5l",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "LeetCode (24)：两两交换链表中的节点",
+        "link": "https://toutiao.io/k/fega0w5",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "深入学习 Three.js 核心对象（一）：Object3D",
+        "link": "https://toutiao.io/k/j1mgl5b",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "Kafka 精进：Producer 端核心参数及调优建议",
+        "link": "https://toutiao.io/k/cq83s9d",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "C# 并发编程之初识并行编程",
+        "link": "https://toutiao.io/k/didt0vo",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "Docker 网络实现",
+        "link": "https://toutiao.io/k/p4xgycl",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "Swift 使用 Observe 监测页面滚动",
+        "link": "https://toutiao.io/k/hjkqgtk",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "如何在无人机上部署 YOLOv4 物体检测器",
+        "link": "https://toutiao.io/k/vzz5hxn",
+        "date": "2020-05-18"
+      },
       {
         "title": "常用 Linux 发行版操作系统大盘点",
         "link": "https://toutiao.io/k/94sacqx",

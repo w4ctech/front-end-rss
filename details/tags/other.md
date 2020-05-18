@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -600,6 +600,7 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-05-17-中国IT行业薪资：与销售相比，程序员真得很“穷”](https://www.ershicimi.com/p/57da96ff0fe410445efd2777c989edea) 
 - [2020-05-18-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/19211b25c9334c3c7039b2ed1e7ba02e) 
 - [2020-05-18-这是我看过关于-volatile-最好的文章](https://www.ershicimi.com/p/dc7a0f181cb6fbdf3ee603a57872d95b) 
 - [2020-05-18-程序员除了写代码，还应重视哪些方面？](https://www.ershicimi.com/p/1c9972a0d0f1f84aec391d3b06919f00) 
@@ -878,6 +879,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-请问-PyQT5-中，如何处理-undo-和-redo？](https://www.v2ex.com/t/673073) 
+- [2020-05-19-创造被动收入：程序员可以尝试开发的高价值订阅产品](https://www.v2ex.com/t/673071) 
 - [2020-05-19-有人统计过自己在一天内使用键盘按键的频率和总次数么?](https://www.v2ex.com/t/673069) 
 - [2020-05-19-第一次知道笔记本电脑盖子的开法还有讲究](https://www.v2ex.com/t/673068) 
 - [2020-05-19-玩-Ultimate-Frisbee-的过来聊聊](https://www.v2ex.com/t/673065) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -42,6 +42,7 @@
 - [2020-04-27-【招聘】诚聘小程序云开发工程师远程-技术大牛到碗里来](https://mp.weixin.qq.com/s/22cc8pUofvhZOaHnbmsKJQ) 
 - [2020-04-24-从零实现一个单词对战游戏-五-实战篇1:-小程序开发环境搭建](https://juejin.im/post/5ea19782e51d4546d83b2791) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-05-18-缺人：微信云开发后端，我正在做一个，授权式的商品信息交流小程序，保密式的互联网。](https://www.v2ex.com/t/672896) 
 - [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718) 
 - [2020-05-17-只要找到比-CityOnRail-更强的地铁小程序，奖励-1000-元！没找到也有奖励，最高奖《Cyberpunk-2077》,3-套！](https://www.v2ex.com/t/672531) 
 - [2020-05-16-小程序-道我-扫码挪车、隐私通话](https://www.v2ex.com/t/672426) 

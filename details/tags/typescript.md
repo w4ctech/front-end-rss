@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -17,6 +17,7 @@
 - [2020-04-28-TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569) 
 - [2020-04-21-TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281) 
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
+- [2020-05-18-vscode-里-typescript-具体的类型定义怎么显示](https://www.v2ex.com/t/672892) 
 - [2020-05-15-使用-TypeScript-开发了一个-Tank-游戏](https://www.v2ex.com/t/671958) 
 - [2020-05-09-上海-ARKIE-Web-全栈-/-前端-/-后端-JavaScript-/-TypeScript](https://www.v2ex.com/t/670038) 
 - [2020-05-04-为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458) 

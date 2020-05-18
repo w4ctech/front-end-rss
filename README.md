@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 09:00:49，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 09:30:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,15 +26,15 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-05-18-国家卫健委：新增新冠肺炎确诊病例7例-境外输入4例，本土3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1) ![](assets/new.png)  
-- [2020-05-18-阿根廷新冠肺炎确诊病例总数超过8000-将对贫民区进行全面筛查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1) ![](assets/new.png)  
-- [2020-05-18-内蒙古18日最新通报：新增4例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDvptnsWEnfWRQrn9al3U200518&isfromapp=1) ![](assets/new.png)  
-- [2020-05-18-捷克国家紧急状态5月18日正式结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiywB0Lvup44zslKGfKc6b200518&isfromapp=1) ![](assets/new.png)  
-- [2020-05-18-秘鲁新冠肺炎确诊病例累计超过9万例，紧急状态结束后或继续维持限制性举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFnrZSTXIEYhq07h8mPUn200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-国家卫健委：新增新冠肺炎确诊病例7例-境外输入4例，本土3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1)  
+- [2020-05-18-阿根廷新冠肺炎确诊病例总数超过8000-将对贫民区进行全面筛查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1)  
+- [2020-05-18-内蒙古18日最新通报：新增4例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDvptnsWEnfWRQrn9al3U200518&isfromapp=1)  
+- [2020-05-18-捷克国家紧急状态5月18日正式结束](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiywB0Lvup44zslKGfKc6b200518&isfromapp=1)  
+- [2020-05-18-秘鲁新冠肺炎确诊病例累计超过9万例，紧急状态结束后或继续维持限制性举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFnrZSTXIEYhq07h8mPUn200518&isfromapp=1)  
 - [2020-05-18-日本新增新冠肺炎确诊病例27例，累计16337例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1)  
 - [2020-05-17-印度18日起将再实施两周全国封锁，铁路民航等仍停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1)  
 - [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过452万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1)  
@@ -359,6 +359,15 @@
 </summary>
 
 
+- [2020-05-18-作为前端工程师，工作3年，这些用法竟然还不知道！](https://www.ershicimi.com/p/5b7a604d56ac17b7cb98e6eb8a83afe0) ![](assets/new.png)  
+- [2020-05-18-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/dfe0ce8e98eb8b8506c44bc7af9a3456) ![](assets/new.png)  
+- [2020-05-17-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/8feec67e32cb3ae2b77c53a0eca6838a) ![](assets/new.png)  
+- [2020-05-17-前后端分离的跨域介绍](https://www.ershicimi.com/p/9db126c7434703d90a621a162b9fa07a) ![](assets/new.png)  
+- [2020-05-16-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/e11d37c9432ebccc8e4b9305e640d55f) ![](assets/new.png)  
+- [2020-05-16-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/8896e6f1940dbb1dee7bd03b25345311) ![](assets/new.png)  
+- [2020-05-15-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/07073e2582433996e1f21383b676c9d1) ![](assets/new.png)  
+- [2020-05-14-记一次-微前端qiankun项目实践!!!防踩坑指南](https://www.ershicimi.com/p/51ea6499d4edf7c4cecb8f04363d902b) ![](assets/new.png)  
+- [2020-05-14-20个免费的设计资源-UI套件背景图标CSS框架](https://www.ershicimi.com/p/5a91aca583e17998beef9aa892239243) ![](assets/new.png)  
 - [2020-05-13-速领！500强企业都在听的英语资源搞到了！](https://www.ershicimi.com/p/dfc8a243abdbe92ec3a1435bde225a83)  
 - [2020-05-13-Google-技术面试全记录](https://www.ershicimi.com/p/852b8d85b860a2bc029cf2403f02c834)  
 - [2020-05-12-【项目实战视频+源码】20w前端程序员疯抢的成长大礼包！](https://www.ershicimi.com/p/ee043396877b393af5dd518e3d860621)  
@@ -370,15 +379,6 @@
 - [2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/78b9eeb6565d39a2cefc65ac53cc85a2)  
 - [2020-05-08-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/c6bf04b2efff1f953b57956901eaeeb0)  
 - [2020-05-07-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/8bae95a4a0e3dc569f2e988dbd8fa1b2)  
-- [2020-05-07-【每天两小时】手撸象棋的第一天](https://www.ershicimi.com/p/9fd0935749413916f3051fa6106c15ad)  
-- [2020-05-06-建议阅读：前端未来新方向](https://www.ershicimi.com/p/c633e1e27e9bfc9ebbcb5b96555ddd9a)  
-- [2020-05-06-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/d1b8fed7619b95a02538154895ed9c0a)  
-- [2020-05-05-微信又添新功能！这个微信群可以学英语，而且全程免费](https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f)  
-- [2020-05-05-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/d5ef9e5ca4ca10d8c13abaa901598ab6)  
-- [2020-04-30-只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad)  
-- [2020-04-30-案例｜原生手写一个轮播图——渐隐渐显版](https://www.ershicimi.com/p/88203e2f5f9dfd1fdefc52782f8c4dcc)  
-- [2020-04-29-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/243f871c105d6970dfd2dd2a4e99f240)  
-- [2020-04-29-Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -526,6 +526,8 @@
 </summary>
 
 
+- [2020-05-18-Recoil---Facebook-官方-React-状态管理器](https://www.ershicimi.com/p/3bccaaa828d2f935b36c40d7eb4cb9c4) ![](assets/new.png)  
+- [2020-05-17-精挑细选了几个优秀的前端公众号分享给你](https://www.ershicimi.com/p/c5c54bc36c9854c7b11d7bf37aad6af7) ![](assets/new.png)  
 - [2020-05-15-简单几步让你的-JS-写得更漂亮](https://www.ershicimi.com/p/a92642a666e3872c17ebd33f10a67d9f)  
 - [2020-05-14-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/c1847677360f3928af851fb2c1b082a9)  
 - [2020-05-14-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/7c3407d8871806d079d3fbc208a3765a)  
@@ -544,8 +546,6 @@
 - [2020-04-29-影视剧经典镜头完美诠释程序员日常生活](https://www.ershicimi.com/p/c6bce2a523511bcb2c03ba713239192f)  
 - [2020-04-28-一位阿里P7的面试经验分享](https://www.ershicimi.com/p/755110c5b0f9f2a925a1feda4d80b2f3)  
 - [2020-04-27-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/3ecd87f00e3fd38b78f29b4b29762ef8)  
-- [2020-04-27-新手学习-react-迷惑的点完整版](https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3)  
-- [2020-04-26-阿里大佬浅谈大型项目前端架构设计](https://www.ershicimi.com/p/016fca4951e60960931ad56bfdc608e7)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -588,6 +588,10 @@
 </summary>
 
 
+- [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/843b6fa76233a4da0b0ff541b8d1b06c) ![](assets/new.png)  
+- [2020-05-18-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/0adc698ac36af783e59900929d92cc0c) ![](assets/new.png)  
+- [2020-05-17-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/74b31746a78a304767c48751df2564c2) ![](assets/new.png)  
+- [2020-05-16-Deno-1.0正式发布！它能替代-NodeJS-吗？对比](https://www.ershicimi.com/p/3508ec9633a0ba456f6f4b1a477fbf54) ![](assets/new.png)  
 - [2020-05-15-无形中提高你工作效率的chrome插件](https://www.ershicimi.com/p/a6a30d1abb795f60cf81a3092faf42d2)  
 - [2020-05-14-工作好几年了，这些前端用法你真的知道吗？](https://www.ershicimi.com/p/fc67000b82c4b63e188bd89c7d07e8a1)  
 - [2020-05-14-移动-Web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/02579c3583636a63a276f637f514ec16)  
@@ -604,10 +608,6 @@
 - [2020-05-06-关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b)  
 - [2020-05-05-微前端-qiankun-项目实践-!!!-防踩坑指南](https://www.ershicimi.com/p/17fc463eebd5d855798447de052ae007)  
 - [2020-05-05-Node部署和运维工作量降低80%，腾讯NOW直播是怎么做到的？](https://www.ershicimi.com/p/e58c21972ddddaafef6c923fdd6a73ee)  
-- [2020-05-04-node_modules-困境](https://www.ershicimi.com/p/ac45cbfb0b5b7ae1dc8598e347e0913c)  
-- [2020-04-30-chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/e2a99e9a539f9a00809c31574d820b11)  
-- [2020-04-30-在-Node-中通过-Async-Hooks-实现请求作用域](https://www.ershicimi.com/p/31943c80b93ba00f9f374a9cb8538dc0)  
-- [2020-04-29-一直在极客时间上花钱学习的我，终于发现了免费领课的方法！](https://www.ershicimi.com/p/7297620d678092ef1e87edab5fceeb3b)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,17 @@
 </summary>
 
 
+- [2020-05-18-自建前端监控系统-React+MongoDB+Node.js+Koa2](https://www.v2ex.com/t/672739) ![](assets/new.png)  
+- [2020-05-18-写了一个照片信息识别的程序，可以在地图上显示照片的-GPS-信息](https://www.v2ex.com/t/672736) ![](assets/new.png)  
+- [2020-05-18-早上自行车通勤摔了一跤，回忆上次摔跤。。。好像想不起来了，大家说说自己上一次摔跤是什么时候吧](https://www.v2ex.com/t/672735) ![](assets/new.png)  
+- [2020-05-18-Linux](https://www.v2ex.com/t/672734) ![](assets/new.png)  
+- [2020-05-18-.NET-程序员的-Playground-：-LINQPad](https://www.v2ex.com/t/672733) ![](assets/new.png)  
+- [2020-05-18-小米-10pro-从车库出来-100%断流…](https://www.v2ex.com/t/672732) ![](assets/new.png)  
+- [2020-05-18-弄了一个-gcr.io-镜像仓库同步到-docker-hub-的工具](https://www.v2ex.com/t/672731) ![](assets/new.png)  
+- [2020-05-18-求助帖，万兆网卡局域网传输速度只有-10Mb/s-！？](https://www.v2ex.com/t/672730) ![](assets/new.png)  
+- [2020-05-18-请问群内有谁熟悉怎样调整-freebsd-针对进程的-max_open_files-的限制吗？](https://www.v2ex.com/t/672729) ![](assets/new.png)  
+- [2020-05-18-团队-全职在线接单](https://www.v2ex.com/t/672728) ![](assets/new.png)  
+- [2020-05-18-FreeNAS-01-是时候给我的-14+盘位的-NAS-装一个专业-NAS-系统了](https://www.v2ex.com/t/672727) ![](assets/new.png)  
 - [2020-05-18-请问各位大佬有没有办法获取搜索引擎收录某网站的所有页面？](https://www.v2ex.com/t/672726)  
 - [2020-05-18-写-api-文档的工具](https://www.v2ex.com/t/672725)  
 - [2020-05-18-关于广播消息处理的技术方案](https://www.v2ex.com/t/672724)  
@@ -1061,17 +1072,6 @@
 - [2020-05-18-8-年码农卖身求个远程工作](https://www.v2ex.com/t/672719)  
 - [2020-05-18-微信小程序-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据](https://www.v2ex.com/t/672718)  
 - [2020-05-18-《后浪》程序员版](https://www.v2ex.com/t/672713)  
-- [2020-05-18-请教如何实现-SNMPV3-只允许对方获取某几个-OID-信息](https://www.v2ex.com/t/672711)  
-- [2020-05-18-V-站苹果用户这么多，是不是也可以集体诉讼一下？](https://www.v2ex.com/t/672710)  
-- [2020-05-17-咨询一个问题,你们会同时记住-2-或-3-套以上-IDE/工具的快捷键吗?](https://www.v2ex.com/t/672709)  
-- [2020-05-17-QQ-音乐-UWP-没法下载-VIP-歌曲了](https://www.v2ex.com/t/672707)  
-- [2020-05-17-写了一个喂养宝宝记录的-macOS-的-APP](https://www.v2ex.com/t/672706)  
-- [2020-05-17-日本-WIFI-无法访问大部分国内网站](https://www.v2ex.com/t/672705)  
-- [2020-05-17-关于一个-Docker-容器宕机后，容器再次启动因-mq-问题启动失败的问题](https://www.v2ex.com/t/672704)  
-- [2020-05-17-杭州租房，开源项目-15star-以上，物业费我出](https://www.v2ex.com/t/672703)  
-- [2020-05-17-已认证的订阅号，如何实现微信页面的微信登录？](https://www.v2ex.com/t/672702)  
-- [2020-05-17-做技术年纪大了，老婆嫌弃挣钱少\不上进](https://www.v2ex.com/t/672700)  
-- [2020-05-17-是不是可以开始学-deno-了?-"在开源代码中-rm--rf-是为了什么？"有感](https://www.v2ex.com/t/672699)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,7 +1083,7 @@
 </summary>
 
 
-- [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1114,12 +1114,12 @@
 </summary>
 
 
-- [2020-05-18-这样的-API-网关查询接口优化，我是被迫的](https://toutiao.io/k/1eb4uwg) ![](assets/new.png)  
-- [2020-05-18-假如时光倒流，我要这样学编程](https://toutiao.io/k/pff6ej1) ![](assets/new.png)  
-- [2020-05-18-我去，你竟然还不会用-synchronized](https://toutiao.io/k/lcd4wzl) ![](assets/new.png)  
-- [2020-05-18-Flink-1.10-细粒度资源管理解析](https://toutiao.io/k/rpzuxs0) ![](assets/new.png)  
-- [2020-05-18-前端开发的瓶颈与未来之路](https://toutiao.io/k/k5x4ge5) ![](assets/new.png)  
-- [2020-05-18-如何自定义-org-mode-中的动态块](https://toutiao.io/k/cizfpww) ![](assets/new.png)  
+- [2020-05-18-这样的-API-网关查询接口优化，我是被迫的](https://toutiao.io/k/1eb4uwg)  
+- [2020-05-18-假如时光倒流，我要这样学编程](https://toutiao.io/k/pff6ej1)  
+- [2020-05-18-我去，你竟然还不会用-synchronized](https://toutiao.io/k/lcd4wzl)  
+- [2020-05-18-Flink-1.10-细粒度资源管理解析](https://toutiao.io/k/rpzuxs0)  
+- [2020-05-18-前端开发的瓶颈与未来之路](https://toutiao.io/k/k5x4ge5)  
+- [2020-05-18-如何自定义-org-mode-中的动态块](https://toutiao.io/k/cizfpww)  
 - [2020-05-18-在快应用中使用-RxJS](https://toutiao.io/k/l91fh0w)  
 - [2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e)  
 - [2020-05-18-嫌-OSS-查询太慢？看我们如何将速度提升-10-倍](https://toutiao.io/k/1jgb0yr)  

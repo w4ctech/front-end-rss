@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 09:00:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -14,6 +14,7 @@
 - [2020-04-17-在生产环境中使你的-npm-i-速度提升-50%](https://www.ershicimi.com/p/af802e91dd3370142de5be6241e2a483) 
 - [2020-05-09-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/a4effe602e7299d9e27409e61e3ed2d4) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
+- [2020-05-18-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/dfe0ce8e98eb8b8506c44bc7af9a3456) 
 - [2020-04-29-Webpack-5-Module-Federation:-JavaScript-架构的变革者](https://www.ershicimi.com/p/d5b66e874f7be3abf06f69aac0521703) 
 - [2020-04-22-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/04e75103218a126a3ec5cf4ba3c2d7ba) 
 - [2020-04-20-前端面试必考的「-Webpack详解-」都在这了](https://www.ershicimi.com/p/ae52fabfb7b18e0c2e6a2e155c1fba64) 

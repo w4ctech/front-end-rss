@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 22:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 23:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1) ![](assets/new.png)  
 - [2020-05-18-科威特新增新冠肺炎确诊病例841例-累计确诊15691例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyVgDWyRVniGNj4LZXya1200518&isfromapp=1)  
 - [2020-05-18-英国增加新冠肺炎潜在症状-建议丧失嗅觉或味觉民众居家隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWGcCAOo2nIHmgaW0iEH200518&isfromapp=1)  
 - [2020-05-18-第73届世界卫生大会今天开幕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-18-秘鲁新冠肺炎确诊病例累计超过9万例，紧急状态结束后或继续维持限制性举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFnrZSTXIEYhq07h8mPUn200518&isfromapp=1)  
 - [2020-05-18-日本新增新冠肺炎确诊病例27例，累计16337例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1)  
 - [2020-05-17-印度18日起将再实施两周全国封锁，铁路民航等仍停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1)  
-- [2020-05-17-世卫组织：全球新冠肺炎确诊病例超过452万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1)  
-- [2020-05-17-荷兰新增新冠肺炎确诊病例125例-累计确诊43995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHZru0L4nsi6RKC5iyTR200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,6 +1026,9 @@
 </summary>
 
 
+- [2020-05-18-有哪些大家不说，但十分重要的社会「潜规则」？](https://www.ershicimi.com/p/84656072f6acca0f1b369b7ee5c97580) ![](assets/new.png)  
+- [2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b) ![](assets/new.png)  
+- [2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af) ![](assets/new.png)  
 - [2020-05-17-本周知乎热榜-|-小区致信抵制丰巢被刷屏，李佳琦能否成功申请「ohmygod-买它」商标？](https://www.ershicimi.com/p/ac751bc7cdbafeff9520e50be50559fe)  
 - [2020-05-17-年度史诗级「剧作」：开学](https://www.ershicimi.com/p/419865e579a1e98240ae57794cab73f5)  
 - [2020-05-17-为什么「渣男」容易招女人喜欢？](https://www.ershicimi.com/p/32f366318bd0f5a629fe91df17e4a35d)  
@@ -1043,9 +1046,6 @@
 - [2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575)  
 - [2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11)  
 - [2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df)  
-- [2020-05-12-12-年过去了，经历过-512-汶川地震的人怎么样了？](https://www.ershicimi.com/p/2307baeecae6345ef8aac07b1ef71e72)  
-- [2020-05-12-火影忍者次世代动画帷幕，由这个中国广州佬拉开](https://www.ershicimi.com/p/d05755872e2abdfd9991798fdabbca91)  
-- [2020-05-12-深夜虽然孤独，却适合独立思考](https://www.ershicimi.com/p/5999011e75dc9287838523411ba444c2)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,12 +1057,12 @@
 </summary>
 
 
-- [2020-05-18-请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。](https://www.v2ex.com/t/673035) ![](assets/new.png)  
-- [2020-05-18-正在做一个开源-WebRTC-项目，有感兴趣的小伙伴吗。](https://www.v2ex.com/t/673033) ![](assets/new.png)  
-- [2020-05-18-生物冰袋给-Mac-mini-降温](https://www.v2ex.com/t/673031) ![](assets/new.png)  
-- [2020-05-18-独立开发者是如何搞定-UI-的？](https://www.v2ex.com/t/673030) ![](assets/new.png)  
-- [2020-05-18-关于前端的闭包和事件解绑问题](https://www.v2ex.com/t/673029) ![](assets/new.png)  
-- [2020-05-18-想问下各位关于实习和秋招的看法](https://www.v2ex.com/t/673028) ![](assets/new.png)  
+- [2020-05-18-请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。](https://www.v2ex.com/t/673035)  
+- [2020-05-18-正在做一个开源-WebRTC-项目，有感兴趣的小伙伴吗。](https://www.v2ex.com/t/673033)  
+- [2020-05-18-生物冰袋给-Mac-mini-降温](https://www.v2ex.com/t/673031)  
+- [2020-05-18-独立开发者是如何搞定-UI-的？](https://www.v2ex.com/t/673030)  
+- [2020-05-18-关于前端的闭包和事件解绑问题](https://www.v2ex.com/t/673029)  
+- [2020-05-18-想问下各位关于实习和秋招的看法](https://www.v2ex.com/t/673028)  
 - [2020-05-18-iMac-配一个-eGPU-是不是属于吃饱了撑的没事干，^_^](https://www.v2ex.com/t/673027)  
 - [2020-05-18-自荐静态文件部署工具，可以配合-hexo、hugo、vuepress-等使用](https://www.v2ex.com/t/673026)  
 - [2020-05-18-似乎广东联通对阿里云国际版不太友好？](https://www.v2ex.com/t/673025)  

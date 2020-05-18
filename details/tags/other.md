@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1) 
+- [2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1) 
 - [2020-05-18-第73届世界卫生大会今天开幕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1) 
 - [2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1) 
 - [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1) 
@@ -784,6 +786,9 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-05-18-有哪些大家不说，但十分重要的社会「潜规则」？](https://www.ershicimi.com/p/84656072f6acca0f1b369b7ee5c97580) 
+- [2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b) 
+- [2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af) 
 - [2020-05-17-本周知乎热榜-|-小区致信抵制丰巢被刷屏，李佳琦能否成功申请「ohmygod-买它」商标？](https://www.ershicimi.com/p/ac751bc7cdbafeff9520e50be50559fe) 
 - [2020-05-17-年度史诗级「剧作」：开学](https://www.ershicimi.com/p/419865e579a1e98240ae57794cab73f5) 
 - [2020-05-17-为什么「渣男」容易招女人喜欢？](https://www.ershicimi.com/p/32f366318bd0f5a629fe91df17e4a35d) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -871,6 +871,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-18-windows-版-CheatSheet](https://www.v2ex.com/t/673003) 
+- [2020-05-18-聊一下这几天找工作的经历。](https://www.v2ex.com/t/673002) 
+- [2020-05-18-macbook-pro-屏幕竟然能自我修复，佩服佩服！](https://www.v2ex.com/t/673001) 
+- [2020-05-18-django-orm-求指教子查询-Subquery-中如何拿到-外部查询-某个值](https://www.v2ex.com/t/673000) 
+- [2020-05-18-说一下我心目中理想的-MacBook-Pro。。。会有么](https://www.v2ex.com/t/672998) 
 - [2020-05-18-决赛圈-offer-选择，求各位大佬指点迷津](https://www.v2ex.com/t/672997) 
 - [2020-05-18-不过-ios、mac-开发，能不能不安装-xcode？要怎么操作？](https://www.v2ex.com/t/672993) 
 - [2020-05-18-我-Macbook-Pro-16-寸的-F1-F8-按键哪儿去了？](https://www.v2ex.com/t/672990) 

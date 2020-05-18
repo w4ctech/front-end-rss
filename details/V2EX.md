@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-05-18 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 20:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-18-windows-版-CheatSheet](https://www.v2ex.com/t/673003) 
+- [2020-05-18-聊一下这几天找工作的经历。](https://www.v2ex.com/t/673002) 
+- [2020-05-18-macbook-pro-屏幕竟然能自我修复，佩服佩服！](https://www.v2ex.com/t/673001) 
+- [2020-05-18-django-orm-求指教子查询-Subquery-中如何拿到-外部查询-某个值](https://www.v2ex.com/t/673000) 
+- [2020-05-18-云服务器-HTTPS-无法访问](https://www.v2ex.com/t/672999) 
+- [2020-05-18-说一下我心目中理想的-MacBook-Pro。。。会有么](https://www.v2ex.com/t/672998) 
 - [2020-05-18-决赛圈-offer-选择，求各位大佬指点迷津](https://www.v2ex.com/t/672997) 
 - [2020-05-18-c++11-std::thread-和-std::bind-请教，成员函数的参数是另一个成员函数](https://www.v2ex.com/t/672995) 
 - [2020-05-18-不过-ios、mac-开发，能不能不安装-xcode？要怎么操作？](https://www.v2ex.com/t/672993) 

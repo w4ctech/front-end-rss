@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-福建5月20日起下调新冠病毒检测临时项目价格-严禁扩大收费范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-天津初高中非毕业班以及小学高年级复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilhlsO28JpJdsTJPK5nQu200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-回家！161名海外学子从加拿大乘包机抵达沈阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL97te32FZyianrSFpjIy200518&isfromapp=1) 

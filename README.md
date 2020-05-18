@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 13:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 13:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-05-18-🔥长期有效：字节跳动-上海-前端工程师](https://www.v2ex.com/t/672843) ![](assets/new.png)  
-- [2020-05-18-来安利一下老婆小店新出的挂耳包](https://www.v2ex.com/t/672842) ![](assets/new.png)  
-- [2020-05-18-为什么那么多高学历的人都不屑于去考老师?](https://www.v2ex.com/t/672841) ![](assets/new.png)  
-- [2020-05-18-之前一个-有赞-招聘的帖子-怎么没了?](https://www.v2ex.com/t/672840) ![](assets/new.png)  
-- [2020-05-18-对于自身无过滤功能的云存储，有什么获取最近更新的文件的好方式吗？](https://www.v2ex.com/t/672839) ![](assets/new.png)  
-- [2020-05-18-上海居家搬家有哪些靠谱的搬家公司？](https://www.v2ex.com/t/672838) ![](assets/new.png)  
-- [2020-05-18-最近闲来无事撸了一个试玩导航，希望指教。](https://www.v2ex.com/t/672837) ![](assets/new.png)  
-- [2020-05-18-Spotify-港区合租](https://www.v2ex.com/t/672836) ![](assets/new.png)  
-- [2020-05-18-在工作上，如何保持技术上的成长性？](https://www.v2ex.com/t/672835) ![](assets/new.png)  
-- [2020-05-18-mbp14-上半年还有希望出么?](https://www.v2ex.com/t/672834) ![](assets/new.png)  
-- [2020-05-18-阳台有鸟搭窝，有没有什么自动给鸟拍照的方案？](https://www.v2ex.com/t/672833) ![](assets/new.png)  
+- [2020-05-18-没有用处的知识分享-劳动力市场的买方垄断](https://www.v2ex.com/t/672851) ![](assets/new.png)  
+- [2020-05-18-最近你们的梯子还好用嘛](https://www.v2ex.com/t/672848) ![](assets/new.png)  
+- [2020-05-18-请帮我看看为啥我这个代码不对呢？](https://www.v2ex.com/t/672846) ![](assets/new.png)  
+- [2020-05-18-别怪直男癌的礼物了：不是直男审美，是淘宝总给直男推荐直男审美。](https://www.v2ex.com/t/672845) ![](assets/new.png)  
+- [2020-05-18-当当书粉节，花-170-买-400-的书！](https://www.v2ex.com/t/672844) ![](assets/new.png)  
+- [2020-05-18-🔥长期有效：字节跳动-上海-前端工程师](https://www.v2ex.com/t/672843)  
+- [2020-05-18-来安利一下老婆小店新出的挂耳包](https://www.v2ex.com/t/672842)  
+- [2020-05-18-为什么那么多高学历的人都不屑于去考老师?](https://www.v2ex.com/t/672841)  
+- [2020-05-18-之前一个-有赞-招聘的帖子-怎么没了?](https://www.v2ex.com/t/672840)  
+- [2020-05-18-对于自身无过滤功能的云存储，有什么获取最近更新的文件的好方式吗？](https://www.v2ex.com/t/672839)  
+- [2020-05-18-上海居家搬家有哪些靠谱的搬家公司？](https://www.v2ex.com/t/672838)  
+- [2020-05-18-最近闲来无事撸了一个试玩导航，希望指教。](https://www.v2ex.com/t/672837)  
+- [2020-05-18-Spotify-港区合租](https://www.v2ex.com/t/672836)  
+- [2020-05-18-在工作上，如何保持技术上的成长性？](https://www.v2ex.com/t/672835)  
+- [2020-05-18-mbp14-上半年还有希望出么?](https://www.v2ex.com/t/672834)  
+- [2020-05-18-阳台有鸟搭窝，有没有什么自动给鸟拍照的方案？](https://www.v2ex.com/t/672833)  
 - [2020-05-18-实现了一个钉钉机器人命令行，可以方便在命令行中发送通知](https://www.v2ex.com/t/672832)  
 - [2020-05-18-请教一下各位大佬-做一个-vue-的官网-使用-nuxt-做-ssr-怎么实现-做好线上项目的最好](https://www.v2ex.com/t/672831)  
 - [2020-05-18-大家找工作是看技术栈还是看行业](https://www.v2ex.com/t/672830)  
 - [2020-05-18-Music_Radio----基于-nodejs-的-在线同步点歌听歌台](https://www.v2ex.com/t/672828)  
-- [2020-05-18-最近墙是不是高了很多？](https://www.v2ex.com/t/672827)  
-- [2020-05-18-无锡字节跳动内推-想回无锡的同学不要错过这个机会](https://www.v2ex.com/t/672826)  
-- [2020-05-18-今天打开-Mac-发现一个奇怪的问题：不联网打开-app-会-block-住](https://www.v2ex.com/t/672825)  
-- [2020-05-18-杭州字节跳动-前端基础工程内推](https://www.v2ex.com/t/672824)  
-- [2020-05-18-一般-USB-C-扩展坞上面的扩展-USB-口,-能-10W-对外供电么?](https://www.v2ex.com/t/672823)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,8 @@
 </summary>
 
 
+- [2020-05-18-有了这-4-款工具，老板再也不怕我写烂SQL了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13451&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81tsAyJJMrXpVhB1cCfzMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-18-进阶必备！35-个-Java-代码优化细节-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13450&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLk2hknAp0uZy4q9X_zX7jw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1101,8 +1103,6 @@
 - [2020-05-11-非常实用的-30-个-Python-技巧，赶紧来收藏！！！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13433&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft92GQRlNY884JzLVJCW2AA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13432&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6lKKGxq1ucWHphIMpxZH8g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-11-2020，建议搞个-Mac-玩玩！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13440&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5mOS3jjZWR4e5iRfP4fvXg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

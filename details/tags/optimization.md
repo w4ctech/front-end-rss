@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -76,6 +76,7 @@
 - [2020-04-25-Python-3.9-性能优化：更快的-list、dict-和-range-等内置类型](https://www.v2ex.com/t/665941) 
 - [2020-04-24-求助-Zerotier-性能堪忧，求大佬指点迷津](https://www.v2ex.com/t/665785) 
 - [2020-04-24-做了个前端项目健康检测和性能分析工具🔧](https://www.v2ex.com/t/665746) 
+- [2020-05-18-进阶必备！35-个-Java-代码优化细节-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13450&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLk2hknAp0uZy4q9X_zX7jw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-JVM源码分析之JDK8下的僵尸无法回收类加载器-club.perfma.com](https://blogread.cn/news/go.php?idItem=13396&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F435892%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-SQL-性能优化梳理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13392&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ff4sQJUM6eep26iMZDO9Sag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-18-这样的-API-网关查询接口优化，我是被迫的](https://toutiao.io/k/1eb4uwg) 

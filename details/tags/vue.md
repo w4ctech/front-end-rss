@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 05:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -83,6 +83,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-19-VUE-创始人尤雨溪曾经被阿里-hr-以不好用为由拒过…](https://www.v2ex.com/t/673078) 
 - [2020-05-18-自荐静态文件部署工具，可以配合-hexo、hugo、vuepress-等使用](https://www.v2ex.com/t/673026) 
 - [2020-05-18-请教一下各位大佬-做一个-vue-的官网-使用-nuxt-做-ssr-怎么实现-做好线上项目的最好](https://www.v2ex.com/t/672831) 
 - [2020-05-18-2016-年的-vue-demo-升级到-SSR-版本了](https://www.v2ex.com/t/672747) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -136,6 +136,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-18-c++11-std::thread-和-std::bind-请教，成员函数的参数是另一个成员函数](https://www.v2ex.com/t/672995) 
 - [2020-05-18-找前端外包，开发表单生成器](https://www.v2ex.com/t/672985) 
 - [2020-05-18-请问下各位大佬，编译后部署怎么访问不了其他路由](https://www.v2ex.com/t/672743) 
 - [2020-05-17-跑-Docker-的软路由方案咨询](https://www.v2ex.com/t/672650) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -871,6 +871,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-18-决赛圈-offer-选择，求各位大佬指点迷津](https://www.v2ex.com/t/672997) 
+- [2020-05-18-不过-ios、mac-开发，能不能不安装-xcode？要怎么操作？](https://www.v2ex.com/t/672993) 
+- [2020-05-18-我-Macbook-Pro-16-寸的-F1-F8-按键哪儿去了？](https://www.v2ex.com/t/672990) 
+- [2020-05-18-Windows10-2004-版本新输入法最直观的变化](https://www.v2ex.com/t/672989) 
 - [2020-05-18-同学亲戚找人做外包，不知道能力够不够去做](https://www.v2ex.com/t/672988) 
 - [2020-05-18-求推荐一款在-mac-下好用的鼠标](https://www.v2ex.com/t/672987) 
 - [2020-05-18-新手问个关于数据库的幼稚问题](https://www.v2ex.com/t/672986) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -234,6 +234,7 @@
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e) 
 - [2020-05-17-RecyclerView.ItemAnimator-源码解析](https://toutiao.io/k/xhm72i6) 
 - [2020-05-17-Kata-Containers-创始人：安全容器导论](https://toutiao.io/k/szh4be4) 
 - [2020-05-15-基于-RecyclerVIew-实现的-WheelView，求-star](https://toutiao.io/k/nuyzcq8) 

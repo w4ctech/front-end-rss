@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -5392,6 +5392,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-18-嫌-OSS-查询太慢？看我们如何将速度提升-10-倍](https://toutiao.io/k/1jgb0yr) 
+- [2020-05-18-译-如何写出简洁的-CQRS-代码？](https://toutiao.io/k/ybjlu1t) 
+- [2020-05-18-必看必会的模型推理加速技巧：融合-BN-和-Conv-层](https://toutiao.io/k/76ld287) 
 - [2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as) 
 - [2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3) 
 - [2020-05-17-Java-并发编程（三）：MESI、内存屏障](https://toutiao.io/k/8rwevgs) 

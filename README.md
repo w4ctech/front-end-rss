@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 08:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1052,7 +1052,7 @@
 </summary>
 
 
-- [2020-05-18-请问各位大佬有没有办法获取搜索引擎收录某网站的所有页面？](https://www.v2ex.com/t/672726) ![](assets/new.png)  
+- [2020-05-18-请问各位大佬有没有办法获取搜索引擎收录某网站的所有页面？](https://www.v2ex.com/t/672726)  
 - [2020-05-18-写-api-文档的工具](https://www.v2ex.com/t/672725)  
 - [2020-05-18-关于广播消息处理的技术方案](https://www.v2ex.com/t/672724)  
 - [2020-05-18-求步骤：-MacOS-下-用-VMware-Fusion-将-NTFS-格式移动硬盘用-SMB-挂在到-macOS-系统进行安全读写。](https://www.v2ex.com/t/672723)  
@@ -1114,6 +1114,11 @@
 </summary>
 
 
+- [2020-05-18-在快应用中使用-RxJS](https://toutiao.io/k/l91fh0w) ![](assets/new.png)  
+- [2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e) ![](assets/new.png)  
+- [2020-05-18-嫌-OSS-查询太慢？看我们如何将速度提升-10-倍](https://toutiao.io/k/1jgb0yr) ![](assets/new.png)  
+- [2020-05-18-译-如何写出简洁的-CQRS-代码？](https://toutiao.io/k/ybjlu1t) ![](assets/new.png)  
+- [2020-05-18-必看必会的模型推理加速技巧：融合-BN-和-Conv-层](https://toutiao.io/k/76ld287) ![](assets/new.png)  
 - [2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as)  
 - [2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3)  
 - [2020-05-17-RecyclerView.ItemAnimator-源码解析](https://toutiao.io/k/xhm72i6)  
@@ -1129,11 +1134,6 @@
 - [2020-05-17-用深度学习实现-2D-到-3D-的转换](https://toutiao.io/k/qsj2j6y)  
 - [2020-05-17-Go-Web-小技巧（四）：在单个仓库中支持多个-go-mod-模块](https://toutiao.io/k/dy7b75m)  
 - [2020-05-16-Spring-源码（十）：Spring-AOP-核心-API](https://toutiao.io/k/5dpo99t)  
-- [2020-05-16-内存迟迟下不去，可能你就差一个-GC.Collect](https://toutiao.io/k/1gjtcoi)  
-- [2020-05-16-译-Flutter-web-最新进展：发掘更多可能](https://toutiao.io/k/01fvjkt)  
-- [2020-05-16-译-HTML-页面生成器：使用-JavaScript-和-Node-创建-CLI](https://toutiao.io/k/106h98b)  
-- [2020-05-16-《新版阿里巴巴-Java-开发手册》提到的三目运算符的空指针问题到底是个怎么回事？](https://toutiao.io/k/a2abr8a)  
-- [2020-05-16-译-Raft-论文（中文版）](https://toutiao.io/k/au7sc8o)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

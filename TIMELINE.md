@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -4607,6 +4607,11 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-18-在快应用中使用-RxJS](https://toutiao.io/k/l91fh0w) 
+- [【开发者头条】2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e) 
+- [【开发者头条】2020-05-18-嫌-OSS-查询太慢？看我们如何将速度提升-10-倍](https://toutiao.io/k/1jgb0yr) 
+- [【开发者头条】2020-05-18-译-如何写出简洁的-CQRS-代码？](https://toutiao.io/k/ybjlu1t) 
+- [【开发者头条】2020-05-18-必看必会的模型推理加速技巧：融合-BN-和-Conv-层](https://toutiao.io/k/76ld287) 
 - [【开发者头条】2020-05-17-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as) 
 - [【开发者头条】2020-05-17-你想不到吧，秒杀系统也有这么多种](https://toutiao.io/k/4p3mmg3) 
 - [【开发者头条】2020-05-17-RecyclerView.ItemAnimator-源码解析](https://toutiao.io/k/xhm72i6) 

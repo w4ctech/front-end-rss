@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 00:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 00:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1)  
 - [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1)  
 - [2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1)  
 - [2020-05-18-科威特新增新冠肺炎确诊病例841例-累计确诊15691例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyVgDWyRVniGNj4LZXya1200518&isfromapp=1)  
@@ -1057,26 +1057,26 @@
 </summary>
 
 
-- [2020-05-18-在-debian-中用-docker-版本的-tensorflow-gpu-失效问题](https://www.v2ex.com/t/673051) ![](assets/new.png)  
-- [2020-05-18-想组一台-AMD-的黑果，请问一下，-AMD-的黑果现在还有什么坑么？](https://www.v2ex.com/t/673050) ![](assets/new.png)  
-- [2020-05-18-有没有可同时使用-Kindle、京东读书、微信读书……的墨水屏电子书阅读设备？](https://www.v2ex.com/t/673049) ![](assets/new.png)  
-- [2020-05-18-蚂蚁金服数据库平台开发社招-Java-/-Python-/Go](https://www.v2ex.com/t/673047) ![](assets/new.png)  
-- [2020-05-18-有木有好用一些，轻量一些的项目管理工具，-tower-真的好难用](https://www.v2ex.com/t/673046) ![](assets/new.png)  
-- [2020-05-18-to_csvf'{self.output_dir}/{row"code"}.{row"code_name"}.csv',-index=False这里面的-code_name-中包含*这里报错要怎么处理啊。](https://www.v2ex.com/t/673045) ![](assets/new.png)  
-- [2020-05-18-类似托管服务，用户创建应用自动配置一个子域名，然后在这个子域名上跑他上传的代码](https://www.v2ex.com/t/673044) ![](assets/new.png)  
-- [2020-05-18-买了两台测试手机，红米-NOTE4X，装了-ANDROID-6，时间长了经常重启](https://www.v2ex.com/t/673043) ![](assets/new.png)  
-- [2020-05-18-你们谈的-996-算加班工资吗？](https://www.v2ex.com/t/673042) ![](assets/new.png)  
-- [2020-05-18-紧急求助：因口罩佩戴问题，被离职。想请大家分析下下面具体情况，给予帮助，不胜感激。](https://www.v2ex.com/t/673039) ![](assets/new.png)  
-- [2020-05-18-flask-本地环境-测试-post-加载慢](https://www.v2ex.com/t/673038) ![](assets/new.png)  
-- [2020-05-18-DNSmasq-功能-asuswrt-官方固件里有吗？还是说必须要刷梅林固件？](https://www.v2ex.com/t/673037) ![](assets/new.png)  
-- [2020-05-18-请教如何在-Linux-下自定义配置-SNMP？](https://www.v2ex.com/t/673036) ![](assets/new.png)  
+- [2020-05-19-街边拿着微信二维码声称自己开奶昔店求关注的背后，到底是什么猫腻？](https://www.v2ex.com/t/673059) ![](assets/new.png)  
+- [2020-05-19-爬虫：微信读书笔记工具，-markdown-导出，可自定义导出格式，欢迎-star~](https://www.v2ex.com/t/673058) ![](assets/new.png)  
+- [2020-05-19-vscode-突然不能输出调试内容的详细信息](https://www.v2ex.com/t/673057) ![](assets/new.png)  
+- [2020-05-19-有什么私有云是没有-WEB-界面的吗](https://www.v2ex.com/t/673056) ![](assets/new.png)  
+- [2020-05-19-MBP13_2020_低配和高配风扇数量不一样??](https://www.v2ex.com/t/673055) ![](assets/new.png)  
+- [2020-05-19-🎨-Neumorphism（新拟态）风格的-UI-框架-alpha-版本发布啦-~-样式部分纯-CSS，支持-Web-和小程序，简单易用，感谢大家关注和支持-~](https://www.v2ex.com/t/673054) ![](assets/new.png)  
+- [2020-05-18-在-debian-中用-docker-版本的-tensorflow-gpu-失效问题](https://www.v2ex.com/t/673051)  
+- [2020-05-18-想组一台-AMD-的黑果，请问一下，-AMD-的黑果现在还有什么坑么？](https://www.v2ex.com/t/673050)  
+- [2020-05-18-有没有可同时使用-Kindle、京东读书、微信读书……的墨水屏电子书阅读设备？](https://www.v2ex.com/t/673049)  
+- [2020-05-18-蚂蚁金服数据库平台开发社招-Java-/-Python-/Go](https://www.v2ex.com/t/673047)  
+- [2020-05-18-有木有好用一些，轻量一些的项目管理工具，-tower-真的好难用](https://www.v2ex.com/t/673046)  
+- [2020-05-18-to_csvf'{self.output_dir}/{row"code"}.{row"code_name"}.csv',-index=False这里面的-code_name-中包含*这里报错要怎么处理啊。](https://www.v2ex.com/t/673045)  
+- [2020-05-18-类似托管服务，用户创建应用自动配置一个子域名，然后在这个子域名上跑他上传的代码](https://www.v2ex.com/t/673044)  
+- [2020-05-18-买了两台测试手机，红米-NOTE4X，装了-ANDROID-6，时间长了经常重启](https://www.v2ex.com/t/673043)  
+- [2020-05-18-你们谈的-996-算加班工资吗？](https://www.v2ex.com/t/673042)  
+- [2020-05-18-紧急求助：因口罩佩戴问题，被离职。想请大家分析下下面具体情况，给予帮助，不胜感激。](https://www.v2ex.com/t/673039)  
+- [2020-05-18-flask-本地环境-测试-post-加载慢](https://www.v2ex.com/t/673038)  
+- [2020-05-18-DNSmasq-功能-asuswrt-官方固件里有吗？还是说必须要刷梅林固件？](https://www.v2ex.com/t/673037)  
+- [2020-05-18-请教如何在-Linux-下自定义配置-SNMP？](https://www.v2ex.com/t/673036)  
 - [2020-05-18-请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。](https://www.v2ex.com/t/673035)  
-- [2020-05-18-正在做一个开源-WebRTC-项目，有感兴趣的小伙伴吗。](https://www.v2ex.com/t/673033)  
-- [2020-05-18-生物冰袋给-Mac-mini-降温](https://www.v2ex.com/t/673031)  
-- [2020-05-18-独立开发者是如何搞定-UI-的？](https://www.v2ex.com/t/673030)  
-- [2020-05-18-关于前端的闭包和事件解绑问题](https://www.v2ex.com/t/673029)  
-- [2020-05-18-想问下各位关于实习和秋招的看法](https://www.v2ex.com/t/673028)  
-- [2020-05-18-iMac-配一个-eGPU-是不是属于吃饱了撑的没事干，^_^](https://www.v2ex.com/t/673027)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

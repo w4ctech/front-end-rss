@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -32,6 +32,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-18-在-debian-中用-docker-版本的-tensorflow-gpu-失效问题](https://www.v2ex.com/t/673051) 
 - [2020-05-18-iMac-配一个-eGPU-是不是属于吃饱了撑的没事干，^_^](https://www.v2ex.com/t/673027) 
 - [2020-05-18-云服务器-HTTPS-无法访问](https://www.v2ex.com/t/672999) 
 - [2020-05-18-https-SSL-握手时间过长，大于-3-秒](https://www.v2ex.com/t/672952) 

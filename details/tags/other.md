@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -878,6 +878,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-18-想组一台-AMD-的黑果，请问一下，-AMD-的黑果现在还有什么坑么？](https://www.v2ex.com/t/673050) 
+- [2020-05-18-有没有可同时使用-Kindle、京东读书、微信读书……的墨水屏电子书阅读设备？](https://www.v2ex.com/t/673049) 
+- [2020-05-18-蚂蚁金服数据库平台开发社招-Java-/-Python-/Go](https://www.v2ex.com/t/673047) 
+- [2020-05-18-有木有好用一些，轻量一些的项目管理工具，-tower-真的好难用](https://www.v2ex.com/t/673046) 
+- [2020-05-18-to_csvf'{self.output_dir}/{row"code"}.{row"code_name"}.csv',-index=False这里面的-code_name-中包含*这里报错要怎么处理啊。](https://www.v2ex.com/t/673045) 
+- [2020-05-18-类似托管服务，用户创建应用自动配置一个子域名，然后在这个子域名上跑他上传的代码](https://www.v2ex.com/t/673044) 
+- [2020-05-18-买了两台测试手机，红米-NOTE4X，装了-ANDROID-6，时间长了经常重启](https://www.v2ex.com/t/673043) 
+- [2020-05-18-你们谈的-996-算加班工资吗？](https://www.v2ex.com/t/673042) 
+- [2020-05-18-紧急求助：因口罩佩戴问题，被离职。想请大家分析下下面具体情况，给予帮助，不胜感激。](https://www.v2ex.com/t/673039) 
+- [2020-05-18-DNSmasq-功能-asuswrt-官方固件里有吗？还是说必须要刷梅林固件？](https://www.v2ex.com/t/673037) 
+- [2020-05-18-请教如何在-Linux-下自定义配置-SNMP？](https://www.v2ex.com/t/673036) 
 - [2020-05-18-请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。](https://www.v2ex.com/t/673035) 
 - [2020-05-18-生物冰袋给-Mac-mini-降温](https://www.v2ex.com/t/673031) 
 - [2020-05-18-独立开发者是如何搞定-UI-的？](https://www.v2ex.com/t/673030) 

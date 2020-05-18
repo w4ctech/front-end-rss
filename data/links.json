@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国得克萨斯州养老院新冠肺炎死亡病例超过500例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1",
+        "date": "2020-05-18"
+      },
+      {
         "title": "​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1",
         "date": "2020-05-18"
@@ -8576,6 +8581,71 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "在 debian 中用 docker 版本的 tensorflow-gpu 失效问题",
+        "link": "https://www.v2ex.com/t/673051",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "想组一台 AMD 的黑果，请问一下， AMD 的黑果现在还有什么坑么？",
+        "link": "https://www.v2ex.com/t/673050",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "有没有可同时使用 Kindle、京东读书、微信读书……的墨水屏电子书阅读设备？",
+        "link": "https://www.v2ex.com/t/673049",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "蚂蚁金服数据库平台开发社招 Java / Python /Go",
+        "link": "https://www.v2ex.com/t/673047",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "有木有好用一些，轻量一些的项目管理工具， tower 真的好难用",
+        "link": "https://www.v2ex.com/t/673046",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "to_csv(f'{self.output_dir}/{row[\"code\"]}.{row[\"code_name\"]}.csv', index=False)这里面的 code_name 中包含*这里报错要怎么处理啊。",
+        "link": "https://www.v2ex.com/t/673045",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "类似托管服务，用户创建应用自动配置一个子域名，然后在这个子域名上跑他上传的代码",
+        "link": "https://www.v2ex.com/t/673044",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "买了两台测试手机，红米 NOTE4X，装了 ANDROID 6，时间长了经常重启",
+        "link": "https://www.v2ex.com/t/673043",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "你们谈的 996 算加班工资吗？",
+        "link": "https://www.v2ex.com/t/673042",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "紧急求助：因口罩佩戴问题，被离职。想请大家分析下下面具体情况，给予帮助，不胜感激。",
+        "link": "https://www.v2ex.com/t/673039",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "flask 本地环境 测试 post 加载慢",
+        "link": "https://www.v2ex.com/t/673038",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "DNSmasq 功能 asuswrt 官方固件里有吗？还是说必须要刷梅林固件？",
+        "link": "https://www.v2ex.com/t/673037",
+        "date": "2020-05-18"
+      },
+      {
+        "title": "请教如何在 Linux 下自定义配置 SNMP？",
+        "link": "https://www.v2ex.com/t/673036",
+        "date": "2020-05-18"
+      },
       {
         "title": "请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。",
         "link": "https://www.v2ex.com/t/673035",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-科威特新增新冠肺炎确诊病例841例-累计确诊15691例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyVgDWyRVniGNj4LZXya1200518&isfromapp=1) 
@@ -770,6 +771,19 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-18-在-debian-中用-docker-版本的-tensorflow-gpu-失效问题](https://www.v2ex.com/t/673051) 
+- [【V2EX】2020-05-18-想组一台-AMD-的黑果，请问一下，-AMD-的黑果现在还有什么坑么？](https://www.v2ex.com/t/673050) 
+- [【V2EX】2020-05-18-有没有可同时使用-Kindle、京东读书、微信读书……的墨水屏电子书阅读设备？](https://www.v2ex.com/t/673049) 
+- [【V2EX】2020-05-18-蚂蚁金服数据库平台开发社招-Java-/-Python-/Go](https://www.v2ex.com/t/673047) 
+- [【V2EX】2020-05-18-有木有好用一些，轻量一些的项目管理工具，-tower-真的好难用](https://www.v2ex.com/t/673046) 
+- [【V2EX】2020-05-18-to_csvf'{self.output_dir}/{row"code"}.{row"code_name"}.csv',-index=False这里面的-code_name-中包含*这里报错要怎么处理啊。](https://www.v2ex.com/t/673045) 
+- [【V2EX】2020-05-18-类似托管服务，用户创建应用自动配置一个子域名，然后在这个子域名上跑他上传的代码](https://www.v2ex.com/t/673044) 
+- [【V2EX】2020-05-18-买了两台测试手机，红米-NOTE4X，装了-ANDROID-6，时间长了经常重启](https://www.v2ex.com/t/673043) 
+- [【V2EX】2020-05-18-你们谈的-996-算加班工资吗？](https://www.v2ex.com/t/673042) 
+- [【V2EX】2020-05-18-紧急求助：因口罩佩戴问题，被离职。想请大家分析下下面具体情况，给予帮助，不胜感激。](https://www.v2ex.com/t/673039) 
+- [【V2EX】2020-05-18-flask-本地环境-测试-post-加载慢](https://www.v2ex.com/t/673038) 
+- [【V2EX】2020-05-18-DNSmasq-功能-asuswrt-官方固件里有吗？还是说必须要刷梅林固件？](https://www.v2ex.com/t/673037) 
+- [【V2EX】2020-05-18-请教如何在-Linux-下自定义配置-SNMP？](https://www.v2ex.com/t/673036) 
 - [【V2EX】2020-05-18-请大家推荐数字货币和区块链相关的资讯站点、推特微博等社交平台的区块链相关账号。](https://www.v2ex.com/t/673035) 
 - [【V2EX】2020-05-18-正在做一个开源-WebRTC-项目，有感兴趣的小伙伴吗。](https://www.v2ex.com/t/673033) 
 - [【V2EX】2020-05-18-生物冰袋给-Mac-mini-降温](https://www.v2ex.com/t/673031) 

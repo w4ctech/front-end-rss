@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 16:30:21，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 17:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1) ![](assets/new.png)  
 - [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1)  
 - [2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1)  
 - [2020-05-18-福建5月20日起下调新冠病毒检测临时项目价格-严禁扩大收费范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-17-香港新增3宗新冠肺炎输入病例，患者均由巴基斯坦回港](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuUco97J6ToMimSnQsIV1200517&isfromapp=1)  
 - [2020-05-17-伊朗低感染风险城市上升至218个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUzIcRYnzb33CdnnffFoC200517&isfromapp=1)  
 - [2020-05-17-北京将保持“3+2”的市级救治体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOArNuhJ5HU6pZyJpyoK7200517&isfromapp=1)  
-- [2020-05-17-武汉“网红窗帘”将被湖北省博物馆永久收藏](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb15rAxZxUPdh1hzyKuR200517&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,9 +411,9 @@
 </summary>
 
 
-- [2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56) ![](assets/new.png)  
-- [2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba) ![](assets/new.png)  
-- [2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b) ![](assets/new.png)  
+- [2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56)  
+- [2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba)  
+- [2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b)  
 - [2020-05-15-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/d5116d3adea2f3b598b7156443450556)  
 - [2020-05-15-开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273)  
 - [2020-05-14-Deno-1.0正式发布！这是来自官方团队的安利](https://www.ershicimi.com/p/371532ae90e5b44a580d33b32cac6f34)  
@@ -1054,26 +1054,26 @@
 </summary>
 
 
-- [2020-05-18-内推-互联网行业](https://www.v2ex.com/t/672929) ![](assets/new.png)  
-- [2020-05-18-我-2018-年的时候来这里求助过意见，-2020-年产品重新出发一次](https://www.v2ex.com/t/672928) ![](assets/new.png)  
-- [2020-05-18-请教-gitlab-cicd-中，无法触发构建](https://www.v2ex.com/t/672927) ![](assets/new.png)  
-- [2020-05-18-英伟达的显卡好还是-AMD-得显卡好?](https://www.v2ex.com/t/672926) ![](assets/new.png)  
-- [2020-05-18-看到隔壁联想小新充电主板坏了，查了一下笔记本可靠性排名](https://www.v2ex.com/t/672925) ![](assets/new.png)  
-- [2020-05-18-当当-520-活动-图书-4-折优惠活动又来了，满-400-减-230。](https://www.v2ex.com/t/672924) ![](assets/new.png)  
-- [2020-05-18-需求十分明确，求大佬们给一个最有性价比的-nas-方案](https://www.v2ex.com/t/672923) ![](assets/new.png)  
-- [2020-05-18-上海腾讯-PHP-/golang这还是一条有诚意的招聘帖](https://www.v2ex.com/t/672922) ![](assets/new.png)  
-- [2020-05-18-有支持-PWA-的快递查询服务嘛？](https://www.v2ex.com/t/672921) ![](assets/new.png)  
-- [2020-05-18-求推荐个最便宜的在线音频播放硬件方案](https://www.v2ex.com/t/672920) ![](assets/new.png)  
-- [2020-05-18-最近-qp-bc-行业攻击好像又多了](https://www.v2ex.com/t/672919) ![](assets/new.png)  
-- [2020-05-18-你身边有没有超级软萌可爱的妹子？但实际上是男的？](https://www.v2ex.com/t/672918) ![](assets/new.png)  
-- [2020-05-18-广州-虎牙直播](https://www.v2ex.com/t/672917) ![](assets/new.png)  
-- [2020-05-18-梯子今天第三次被封](https://www.v2ex.com/t/672916) ![](assets/new.png)  
-- [2020-05-18-自己一个不完整的私人项目放到-github-上莫名其妙被很多人-fork-怎么办？怎么阻止被人-fork?](https://www.v2ex.com/t/672914) ![](assets/new.png)  
-- [2020-05-18-Android-开发技术周报-Issue#280](https://www.v2ex.com/t/672913) ![](assets/new.png)  
-- [2020-05-18-苹果日报报道香港再出发时误用了-ArchLinux-的-logo.](https://www.v2ex.com/t/672912) ![](assets/new.png)  
-- [2020-05-18-今年借钱的人变多了](https://www.v2ex.com/t/672911) ![](assets/new.png)  
-- [2020-05-18-48°C-小米-10Pro.](https://www.v2ex.com/t/672910) ![](assets/new.png)  
-- [2020-05-18-MacBook-Pro-最近睡眠唤醒假死，开机提示：电脑关机是因为发生了问题](https://www.v2ex.com/t/672909) ![](assets/new.png)  
+- [2020-05-18-为了方便交流分享-macOS-使用技巧、找人拼车、二手闲置转卖等，我建了一个-Telegram-群组](https://www.v2ex.com/t/672944) ![](assets/new.png)  
+- [2020-05-18-有没有靠谱的发卡平台](https://www.v2ex.com/t/672943) ![](assets/new.png)  
+- [2020-05-18-sql-必知必会和-mysql-必知必会-看哪个?](https://www.v2ex.com/t/672942) ![](assets/new.png)  
+- [2020-05-18-大佬们问一下-安卓手机浏览器系统默认主页是在哪存的](https://www.v2ex.com/t/672940) ![](assets/new.png)  
+- [2020-05-18-想搞个网站，不知道该写什么？](https://www.v2ex.com/t/672939) ![](assets/new.png)  
+- [2020-05-18-北京-Go-出海信息聚合高速成长-startup---高级后端工程师](https://www.v2ex.com/t/672938) ![](assets/new.png)  
+- [2020-05-18-大家来讨论一下缓存你们是怎么管理批量失效缓存问题和-tag-问题,-又是如何实现的?](https://www.v2ex.com/t/672937) ![](assets/new.png)  
+- [2020-05-18-打算印象笔记转-Notion](https://www.v2ex.com/t/672936) ![](assets/new.png)  
+- [2020-05-18-关于个税、社保公积金主体变更](https://www.v2ex.com/t/672935) ![](assets/new.png)  
+- [2020-05-18-VMware-Win10-共享文件夹如何设置？需要把-windows-的文件夹映射到-Mac-的-Finder](https://www.v2ex.com/t/672934) ![](assets/new.png)  
+- [2020-05-18-有-V-友一起合买机场吗?-半年亲测稳定](https://www.v2ex.com/t/672933) ![](assets/new.png)  
+- [2020-05-18-google-photo-能不能搜寻没有被添加到相册的照片/视频](https://www.v2ex.com/t/672932) ![](assets/new.png)  
+- [2020-05-18-有人出-iPad-Pro12.9-寸吗，最好是-2018-款-最低容量的。](https://www.v2ex.com/t/672930) ![](assets/new.png)  
+- [2020-05-18-内推-互联网行业](https://www.v2ex.com/t/672929)  
+- [2020-05-18-我-2018-年的时候来这里求助过意见，-2020-年产品重新出发一次](https://www.v2ex.com/t/672928)  
+- [2020-05-18-请教-gitlab-cicd-中，无法触发构建](https://www.v2ex.com/t/672927)  
+- [2020-05-18-英伟达的显卡好还是-AMD-得显卡好?](https://www.v2ex.com/t/672926)  
+- [2020-05-18-看到隔壁联想小新充电主板坏了，查了一下笔记本可靠性排名](https://www.v2ex.com/t/672925)  
+- [2020-05-18-当当-520-活动-图书-4-折优惠活动又来了，满-400-减-230。](https://www.v2ex.com/t/672924)  
+- [2020-05-18-需求十分明确，求大佬们给一个最有性价比的-nas-方案](https://www.v2ex.com/t/672923)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1) 
 - [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1) 
 - [2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1) 
 - [2020-05-18-福建5月20日起下调新冠病毒检测临时项目价格-严禁扩大收费范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1) 
@@ -867,6 +868,16 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-18-为了方便交流分享-macOS-使用技巧、找人拼车、二手闲置转卖等，我建了一个-Telegram-群组](https://www.v2ex.com/t/672944) 
+- [2020-05-18-有没有靠谱的发卡平台](https://www.v2ex.com/t/672943) 
+- [2020-05-18-sql-必知必会和-mysql-必知必会-看哪个?](https://www.v2ex.com/t/672942) 
+- [2020-05-18-想搞个网站，不知道该写什么？](https://www.v2ex.com/t/672939) 
+- [2020-05-18-北京-Go-出海信息聚合高速成长-startup---高级后端工程师](https://www.v2ex.com/t/672938) 
+- [2020-05-18-打算印象笔记转-Notion](https://www.v2ex.com/t/672936) 
+- [2020-05-18-关于个税、社保公积金主体变更](https://www.v2ex.com/t/672935) 
+- [2020-05-18-VMware-Win10-共享文件夹如何设置？需要把-windows-的文件夹映射到-Mac-的-Finder](https://www.v2ex.com/t/672934) 
+- [2020-05-18-有-V-友一起合买机场吗?-半年亲测稳定](https://www.v2ex.com/t/672933) 
+- [2020-05-18-有人出-iPad-Pro12.9-寸吗，最好是-2018-款-最低容量的。](https://www.v2ex.com/t/672930) 
 - [2020-05-18-内推-互联网行业](https://www.v2ex.com/t/672929) 
 - [2020-05-18-我-2018-年的时候来这里求助过意见，-2020-年产品重新出发一次](https://www.v2ex.com/t/672928) 
 - [2020-05-18-英伟达的显卡好还是-AMD-得显卡好?](https://www.v2ex.com/t/672926) 

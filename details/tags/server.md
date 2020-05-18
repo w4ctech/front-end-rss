@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -17,6 +17,7 @@
 - [2020-04-30-Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc) 
 - [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-18-新版-docker-desktop-win10-配置界面开启-kubernetes-就卡住咋解决？](https://www.v2ex.com/t/672766) 
 - [2020-05-18-弄了一个-gcr.io-镜像仓库同步到-docker-hub-的工具](https://www.v2ex.com/t/672731) 
 - [2020-05-17-关于一个-Docker-容器宕机后，容器再次启动因-mq-问题启动失败的问题](https://www.v2ex.com/t/672704) 
 - [2020-05-16-logstash6.5.4-解析-nginx-日志格式报错](https://www.v2ex.com/t/672321) 

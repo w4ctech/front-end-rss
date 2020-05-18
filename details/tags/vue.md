@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-18 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -58,6 +58,7 @@
 - [2020-04-28-Vue-3.0-这个迷人的小妖精，到底好在哪里？](https://www.ershicimi.com/p/3d0afafbf1e1a886393c500356e38136) 
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/4e37984168059d18864bdb3db3c454b4) 
 - [2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48) 
+- [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/bbaaf5422ba4a7cb0eb92db3cba88951) 
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e882fcda5c9d0796fa18c6daab354015) 
 - [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/843b6fa76233a4da0b0ff541b8d1b06c) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 

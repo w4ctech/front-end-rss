@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-18 15:30:21，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-18 16:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1) ![](assets/new.png)  
+- [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1)  
 - [2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1)  
 - [2020-05-18-福建5月20日起下调新冠病毒检测临时项目价格-严禁扩大收费范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1)  
 - [2020-05-18-天津初高中非毕业班以及小学高年级复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilhlsO28JpJdsTJPK5nQu200518&isfromapp=1)  
@@ -766,6 +766,8 @@
 </summary>
 
 
+- [2020-05-16-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/0329bb46458b6da90418beacc7814c29) ![](assets/new.png)  
+- [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/b7f57bce9d551db2baf401f44e988281) ![](assets/new.png)  
 - [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a)  
 - [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c)  
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc)  
@@ -1052,26 +1054,26 @@
 </summary>
 
 
-- [2020-05-18-有人用过-HackMD-吗？](https://www.v2ex.com/t/672903) ![](assets/new.png)  
-- [2020-05-18-啥时候-IDEA-支持一下触屏？](https://www.v2ex.com/t/672902) ![](assets/new.png)  
-- [2020-05-18-大家对爱情还有想法吗？](https://www.v2ex.com/t/672901) ![](assets/new.png)  
-- [2020-05-18-女朋友整天让我陪着她，我几乎没有自由时间了怎么办？](https://www.v2ex.com/t/672900) ![](assets/new.png)  
-- [2020-05-18-Macbook-Pro-用扩展坞接网线打开网页巨慢](https://www.v2ex.com/t/672899) ![](assets/new.png)  
-- [2020-05-18-写-Jenkins-插件，遇到一个在-slave-节点无法创建文件的问题](https://www.v2ex.com/t/672898) ![](assets/new.png)  
-- [2020-05-18-缺人：微信云开发后端，我正在做一个，授权式的商品信息交流小程序，保密式的互联网。](https://www.v2ex.com/t/672896) ![](assets/new.png)  
-- [2020-05-18-Apple-只通过系统更新的渠道升级预装软件是不是限制了这些软件？](https://www.v2ex.com/t/672895) ![](assets/new.png)  
-- [2020-05-18-Deno1.0-新特性了解一下-视频版](https://www.v2ex.com/t/672894) ![](assets/new.png)  
-- [2020-05-18-为啥《Don't-Starve》是一款好游戏](https://www.v2ex.com/t/672893) ![](assets/new.png)  
-- [2020-05-18-vscode-里-typescript-具体的类型定义怎么显示](https://www.v2ex.com/t/672892) ![](assets/new.png)  
-- [2020-05-18-分享一个-fork-自别人-自己修改的-基于-telegram-的图片服务.](https://www.v2ex.com/t/672891) ![](assets/new.png)  
-- [2020-05-18-哪些原因让你不得不使用国区-Apple-ID？](https://www.v2ex.com/t/672890) ![](assets/new.png)  
-- [2020-05-18-🔥🔥要不要加入我们背水一战？鹅厂-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付岗全能内推!](https://www.v2ex.com/t/672889) ![](assets/new.png)  
-- [2020-05-18-React-的-SSR-实例](https://www.v2ex.com/t/672888) ![](assets/new.png)  
-- [2020-05-18-如何对比自己水平低的技术协作者保持一颗同理心？](https://www.v2ex.com/t/672887) ![](assets/new.png)  
-- [2020-05-18-LG-UltraFine-4K-自动亮度老是漂移](https://www.v2ex.com/t/672886) ![](assets/new.png)  
-- [2020-05-18-全栈求职，非新手，有多年项目经验](https://www.v2ex.com/t/672885) ![](assets/new.png)  
-- [2020-05-18-连续打卡-100-天得咪咕-Kindle-的可行性有多大？](https://www.v2ex.com/t/672884) ![](assets/new.png)  
-- [2020-05-18-慎重提醒-小米-65W-氮化镓充电头把联想小新-pro13-冲坏了主板](https://www.v2ex.com/t/672883) ![](assets/new.png)  
+- [2020-05-18-有人用过-HackMD-吗？](https://www.v2ex.com/t/672903)  
+- [2020-05-18-啥时候-IDEA-支持一下触屏？](https://www.v2ex.com/t/672902)  
+- [2020-05-18-大家对爱情还有想法吗？](https://www.v2ex.com/t/672901)  
+- [2020-05-18-女朋友整天让我陪着她，我几乎没有自由时间了怎么办？](https://www.v2ex.com/t/672900)  
+- [2020-05-18-Macbook-Pro-用扩展坞接网线打开网页巨慢](https://www.v2ex.com/t/672899)  
+- [2020-05-18-写-Jenkins-插件，遇到一个在-slave-节点无法创建文件的问题](https://www.v2ex.com/t/672898)  
+- [2020-05-18-缺人：微信云开发后端，我正在做一个，授权式的商品信息交流小程序，保密式的互联网。](https://www.v2ex.com/t/672896)  
+- [2020-05-18-Apple-只通过系统更新的渠道升级预装软件是不是限制了这些软件？](https://www.v2ex.com/t/672895)  
+- [2020-05-18-Deno1.0-新特性了解一下-视频版](https://www.v2ex.com/t/672894)  
+- [2020-05-18-为啥《Don't-Starve》是一款好游戏](https://www.v2ex.com/t/672893)  
+- [2020-05-18-vscode-里-typescript-具体的类型定义怎么显示](https://www.v2ex.com/t/672892)  
+- [2020-05-18-分享一个-fork-自别人-自己修改的-基于-telegram-的图片服务.](https://www.v2ex.com/t/672891)  
+- [2020-05-18-哪些原因让你不得不使用国区-Apple-ID？](https://www.v2ex.com/t/672890)  
+- [2020-05-18-🔥🔥要不要加入我们背水一战？鹅厂-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付岗全能内推!](https://www.v2ex.com/t/672889)  
+- [2020-05-18-React-的-SSR-实例](https://www.v2ex.com/t/672888)  
+- [2020-05-18-如何对比自己水平低的技术协作者保持一颗同理心？](https://www.v2ex.com/t/672887)  
+- [2020-05-18-LG-UltraFine-4K-自动亮度老是漂移](https://www.v2ex.com/t/672886)  
+- [2020-05-18-全栈求职，非新手，有多年项目经验](https://www.v2ex.com/t/672885)  
+- [2020-05-18-连续打卡-100-天得咪咕-Kindle-的可行性有多大？](https://www.v2ex.com/t/672884)  
+- [2020-05-18-慎重提醒-小米-65W-氮化镓充电头把联想小新-pro13-冲坏了主板](https://www.v2ex.com/t/672883)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

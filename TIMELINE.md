@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-18 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-18 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -563,6 +563,8 @@
 - [【奇舞周刊】2020-05-02-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74) 
 - [【奇舞周刊】2020-05-02-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/04bc7c68195b9122e9180d57a7e57268) 
 - [【奇舞周刊】2020-05-01-在这个五一，重启前端学习之旅](https://www.ershicimi.com/p/dc5f49317ac896aaacc9355e1ba22b95) 
+- [【前端日刊】2020-05-16-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/0329bb46458b6da90418beacc7814c29) 
+- [【前端日刊】2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/b7f57bce9d551db2baf401f44e988281) 
 - [【前端日刊】2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) 
 - [【前端日刊】2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c) 
 - [【前端日刊】2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc) 

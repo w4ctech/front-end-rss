@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-20 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-20-三级域名如何设置权威-DNS-服务器](https://www.v2ex.com/t/673447) 
 - [2020-05-20-notion-永久免费？](https://www.v2ex.com/t/673446) 
 - [2020-05-20-警察叔叔也推广阿里钱盾](https://www.v2ex.com/t/673445) 
 - [2020-05-20-DocRun-有趣功能之Mini-OJ](https://www.v2ex.com/t/673444) 

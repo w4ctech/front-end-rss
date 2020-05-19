@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 01:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 01:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,13 +1057,15 @@
 </summary>
 
 
-- [2020-05-20-良心云的企业用户-2c8g5m-服务器可以免费升级到-4-核了.](https://www.v2ex.com/t/673434) ![](assets/new.png)  
-- [2020-05-20-请问是否有平台提供全国疫情风险等级的汇总？](https://www.v2ex.com/t/673433) ![](assets/new.png)  
-- [2020-05-20-这算不算是双标行为呢？](https://www.v2ex.com/t/673432) ![](assets/new.png)  
-- [2020-05-20-关于国内大学的出口带宽大小问题](https://www.v2ex.com/t/673431) ![](assets/new.png)  
-- [2020-05-20-超棒的全平台知识管理（笔记）软件-——-Notion-宣布对个人用户免费了](https://www.v2ex.com/t/673429) ![](assets/new.png)  
-- [2020-05-20-京东-149=两年-Plus+1-年腾讯视频](https://www.v2ex.com/t/673428) ![](assets/new.png)  
-- [2020-05-20-求职-艰难的一年...Golang/-Python-/DevOps/运维/网络-4-年经验-远程兼职/全职工作-望大佬进来看看...](https://www.v2ex.com/t/673427) ![](assets/new.png)  
+- [2020-05-20-小程序起名踩坑分享](https://www.v2ex.com/t/673438) ![](assets/new.png)  
+- [2020-05-20-我们的青春年华--DIY-和游戏](https://www.v2ex.com/t/673437) ![](assets/new.png)  
+- [2020-05-20-良心云的企业用户-2c8g5m-服务器可以免费升级到-4-核了.](https://www.v2ex.com/t/673434)  
+- [2020-05-20-请问是否有平台提供全国疫情风险等级的汇总？](https://www.v2ex.com/t/673433)  
+- [2020-05-20-这算不算是双标行为呢？](https://www.v2ex.com/t/673432)  
+- [2020-05-20-关于国内大学的出口带宽大小问题](https://www.v2ex.com/t/673431)  
+- [2020-05-20-超棒的全平台知识管理（笔记）软件-——-Notion-宣布对个人用户免费了](https://www.v2ex.com/t/673429)  
+- [2020-05-20-京东-149=两年-Plus+1-年腾讯视频](https://www.v2ex.com/t/673428)  
+- [2020-05-20-求职-艰难的一年...Golang/-Python-/DevOps/运维/网络-4-年经验-远程兼职/全职工作-望大佬进来看看...](https://www.v2ex.com/t/673427)  
 - [2020-05-20-想学开锁，请问怎么买到工具](https://www.v2ex.com/t/673421)  
 - [2020-05-20-Notion-2.8,-now-free-for-personal-use](https://www.v2ex.com/t/673420)  
 - [2020-05-20-Shopee-SZ-为什么会有那么多人要通过-V2EX-发声](https://www.v2ex.com/t/673419)  
@@ -1075,8 +1077,6 @@
 - [2020-05-19-北上广联通国内段均阵亡......](https://www.v2ex.com/t/673408)  
 - [2020-05-19-有需要整租一室户的-v-友吗？-11-号线御桥地铁站](https://www.v2ex.com/t/673407)  
 - [2020-05-19-请教个方案，关于-go，关于插件，](https://www.v2ex.com/t/673406)  
-- [2020-05-19-招聘:-AI-量化投资公司--Data-Engineer--40-60-万+奖金-北京](https://www.v2ex.com/t/673405)  
-- [2020-05-19-迫于太菜，请各位大佬帮忙改改简历](https://www.v2ex.com/t/673404)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

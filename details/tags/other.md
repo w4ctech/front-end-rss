@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-19-北美观察丨5000亿救助至今闲置-美国会调查出炉引关注](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifgk4CZoS0DErbygJuBfm200519&isfromapp=1) 
 - [2020-05-19-吉林5月19日最新通报：新增5例本地确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit46maq2wrnMzvMrHmHmx200519&isfromapp=1) 
 - [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1) 
 - [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409) 

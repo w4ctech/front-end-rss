@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 11:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 11:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-北美观察丨5000亿救助至今闲置-美国会调查出炉引关注](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifgk4CZoS0DErbygJuBfm200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-吉林5月19日最新通报：新增5例本地确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit46maq2wrnMzvMrHmHmx200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-特朗普：我天天吃抗疟疾药羟氯喹-应对新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAUY7mdUwJp9QsvzzdGZu200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1) 

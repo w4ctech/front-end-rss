@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 17:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 17:30:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-刚果（金）新增新冠肺炎确诊病例91例-累计确诊1629例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixXiDJUZuKrVlmLDFR3uK200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1) 
@@ -579,6 +580,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/) 
 - [【阮一峰的网络日志】2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) 
 - [【阮一峰的网络日志】2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 
+- [【凹凸实验室】2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/19/koa-demo/) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
 - [【奇舞周刊】2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
@@ -810,6 +812,16 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-19-马上-618-求大家配个主机](https://www.v2ex.com/t/673305) 
+- [【V2EX】2020-05-19-各位面试时怎么看待笔试？](https://www.v2ex.com/t/673304) 
+- [【V2EX】2020-05-19-求-出游回家后，批量群发照片-的方案（面向中老年人）](https://www.v2ex.com/t/673302) 
+- [【V2EX】2020-05-19-西安-移动研究院-云计算开发-招聘若干](https://www.v2ex.com/t/673301) 
+- [【V2EX】2020-05-19-有用花呗的-V-友在个人征信报告上看到相关信息了吗？](https://www.v2ex.com/t/673300) 
+- [【V2EX】2020-05-19-跟小区大妈发生矛盾了，烦请大家帮忙支支招](https://www.v2ex.com/t/673299) 
+- [【V2EX】2020-05-19-我想问问这句诗是什么意思？出处？](https://www.v2ex.com/t/673298) 
+- [【V2EX】2020-05-19-通过回帖、购物记录、评论等属性来对每个“用户”做画像](https://www.v2ex.com/t/673297) 
+- [【V2EX】2020-05-19-购买-MBP-16-的合适时机](https://www.v2ex.com/t/673296) 
+- [【V2EX】2020-05-19-虎牙直播帐号被封了，说要-2031-年之后才能直播，怎么破？](https://www.v2ex.com/t/673293) 
 - [【V2EX】2020-05-19-腾讯社招-腾讯-IMWEB-团队招聘前端、高级前端工程师！快速安排面试！欢迎加入！](https://www.v2ex.com/t/673292) 
 - [【V2EX】2020-05-19-广州招-Python-服务端开发](https://www.v2ex.com/t/673291) 
 - [【V2EX】2020-05-19-##-被-Python-带偏了来求职，跪求各位大神给点建议](https://www.v2ex.com/t/673289) 

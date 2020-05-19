@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 17:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 17:30:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1) 
 - [2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1) 
 - [2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1) 
 - [2020-05-19-黑龙江高校毕业年级6月1日起返校](http://m.weibo.cn/2656274875/4506265869234168) 
@@ -901,6 +902,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-马上-618-求大家配个主机](https://www.v2ex.com/t/673305) 
+- [2020-05-19-求-出游回家后，批量群发照片-的方案（面向中老年人）](https://www.v2ex.com/t/673302) 
+- [2020-05-19-有用花呗的-V-友在个人征信报告上看到相关信息了吗？](https://www.v2ex.com/t/673300) 
+- [2020-05-19-跟小区大妈发生矛盾了，烦请大家帮忙支支招](https://www.v2ex.com/t/673299) 
+- [2020-05-19-我想问问这句诗是什么意思？出处？](https://www.v2ex.com/t/673298) 
+- [2020-05-19-通过回帖、购物记录、评论等属性来对每个“用户”做画像](https://www.v2ex.com/t/673297) 
+- [2020-05-19-购买-MBP-16-的合适时机](https://www.v2ex.com/t/673296) 
 - [2020-05-19-广州招-Python-服务端开发](https://www.v2ex.com/t/673291) 
 - [2020-05-19-##-被-Python-带偏了来求职，跪求各位大神给点建议](https://www.v2ex.com/t/673289) 
 - [2020-05-19-go-的常用包都要学一下吗](https://www.v2ex.com/t/673287) 

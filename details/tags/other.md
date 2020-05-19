@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 16:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 16:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -901,6 +901,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-Apple-出了新款彩虹表带](https://www.v2ex.com/t/673281) 
+- [2020-05-19-ff](https://www.v2ex.com/t/673280) 
+- [2020-05-19-icloud2T-家庭发车了月付-11.4/月，留-V](https://www.v2ex.com/t/673278) 
+- [2020-05-19-合着阿里的价值观就是说一套做一套呗，高层根本就没价值观这个东西，窃钩者诛，窃国者侯啊](https://www.v2ex.com/t/673276) 
+- [2020-05-19-问下-Mac-mini-用来编程如何？](https://www.v2ex.com/t/673275) 
+- [2020-05-19-京东的延保只换不修服务怎么样？](https://www.v2ex.com/t/673274) 
 - [2020-05-19-求推荐好用的-ETL-工具，支持-Mac？](https://www.v2ex.com/t/673272) 
 - [2020-05-19-杭州人才码来了，请问你是几等马🐎](https://www.v2ex.com/t/673271) 
 - [2020-05-19-直接把-kafka-放置在公网收集数据合适么](https://www.v2ex.com/t/673269) 

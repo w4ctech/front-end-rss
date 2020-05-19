@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 23:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 23:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-19-英国养老院新冠肺炎死亡病例超过11000例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1) ![](assets/new.png)  
-- [2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-英国养老院新冠肺炎死亡病例超过11000例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1)  
+- [2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1)  
 - [2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1)  
 - [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1)  
 - [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1)  
@@ -1026,10 +1026,10 @@
 </summary>
 
 
-- [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) ![](assets/new.png)  
-- [2020-05-19-当你的眼睛拥有-50-倍超稳远摄超能力时，你最想看到什么？](https://www.ershicimi.com/p/192547920f87165e19b41878c196c857) ![](assets/new.png)  
-- [2020-05-19-越简单，越高级：10-张图带你见识人间百态](https://www.ershicimi.com/p/26284fd7edf6bb4197fff6f574ab2d92) ![](assets/new.png)  
-- [2020-05-19-知乎故事-|-年轻人为什么会腰疼？](https://www.ershicimi.com/p/389ca5460e03214fbdab30a4f917f84c) ![](assets/new.png)  
+- [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9)  
+- [2020-05-19-当你的眼睛拥有-50-倍超稳远摄超能力时，你最想看到什么？](https://www.ershicimi.com/p/192547920f87165e19b41878c196c857)  
+- [2020-05-19-越简单，越高级：10-张图带你见识人间百态](https://www.ershicimi.com/p/26284fd7edf6bb4197fff6f574ab2d92)  
+- [2020-05-19-知乎故事-|-年轻人为什么会腰疼？](https://www.ershicimi.com/p/389ca5460e03214fbdab30a4f917f84c)  
 - [2020-05-18-有哪些大家不说，但十分重要的社会「潜规则」？](https://www.ershicimi.com/p/84656072f6acca0f1b369b7ee5c97580)  
 - [2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b)  
 - [2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af)  
@@ -1057,6 +1057,17 @@
 </summary>
 
 
+- [2020-05-19-小程序-开发的小程序没用户使用？快来这里自荐呀，搞着玩的小程序也行呀](https://www.v2ex.com/t/673402) ![](assets/new.png)  
+- [2020-05-19-你们的-caldigit-ts3-plus-发热厉害吗，或者除了这个大家有更好的推荐吗](https://www.v2ex.com/t/673401) ![](assets/new.png)  
+- [2020-05-19-Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399) ![](assets/new.png)  
+- [2020-05-19-如何批量替换-MySQL-中-PHP-序列化后的数据](https://www.v2ex.com/t/673397) ![](assets/new.png)  
+- [2020-05-19-求助，请问做游戏脚本犯法吗](https://www.v2ex.com/t/673396) ![](assets/new.png)  
+- [2020-05-19-pixel-2-换机](https://www.v2ex.com/t/673395) ![](assets/new.png)  
+- [2020-05-19-源代码里面右键->检查里-的代码不一样](https://www.v2ex.com/t/673394) ![](assets/new.png)  
+- [2020-05-19-使用-happybase-调用-put-方法时出错，别的都不会报错](https://www.v2ex.com/t/673391) ![](assets/new.png)  
+- [2020-05-19-二手-80D（单机身）香吗？](https://www.v2ex.com/t/673390) ![](assets/new.png)  
+- [2020-05-19-为什么拼多多上-switch-只卖-1689？这里面没有猫腻吗？](https://www.v2ex.com/t/673389) ![](assets/new.png)  
+- [2020-05-19-请教如何对齐](https://www.v2ex.com/t/673388) ![](assets/new.png)  
 - [2020-05-19-PHP-转-go，没面试邀请](https://www.v2ex.com/t/673386)  
 - [2020-05-19-深圳/长沙腾讯云前端-招人啦！](https://www.v2ex.com/t/673384)  
 - [2020-05-19-纠结-签了竞业协议-又不想换行业又想要钱](https://www.v2ex.com/t/673381)  
@@ -1066,17 +1077,6 @@
 - [2020-05-19-安卓手机端有没有简简单单的-sock5-客户端](https://www.v2ex.com/t/673376)  
 - [2020-05-19-为什么很多国内税务软件都会扫出来病毒？](https://www.v2ex.com/t/673375)  
 - [2020-05-19-rust-如何实现闭包-Vec？](https://www.v2ex.com/t/673374)  
-- [2020-05-19-要不要找代缴社保的？](https://www.v2ex.com/t/673373)  
-- [2020-05-19-淘宝-55-买了个-PDF-expert-Mac-激活码，应该没啥问题吧？](https://www.v2ex.com/t/673372)  
-- [2020-05-19-准备-618-购新电脑求推荐](https://www.v2ex.com/t/673371)  
-- [2020-05-19-阿里社招-杭州/新加坡-国际化方向招人](https://www.v2ex.com/t/673369)  
-- [2020-05-19-云浏览器概念？](https://www.v2ex.com/t/673368)  
-- [2020-05-19-一加真的可以透视？](https://www.v2ex.com/t/673367)  
-- [2020-05-19-有接触过天猫精灵技能开发的大佬吗？有偿求帮忙开发一个技能](https://www.v2ex.com/t/673366)  
-- [2020-05-19-有遇到丰巢开错柜子的吗](https://www.v2ex.com/t/673363)  
-- [2020-05-19-我终于写好简历啦-烦请-V-友帮忙提提意见](https://www.v2ex.com/t/673362)  
-- [2020-05-19-1900！急转浦东新区浦三路-817-弄大次卧-靠近-7-号线杨高南路-离徐家汇较近-非中介非平台](https://www.v2ex.com/t/673361)  
-- [2020-05-19-阿里巴巴-天猫海外技术部-国际化战略部门-服务端、前端、算法、客户端招人啦](https://www.v2ex.com/t/673360)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

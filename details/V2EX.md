@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-20 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) 
 - [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450) 
 - [2020-05-20-WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449) 
 - [2020-05-20-有没有好用的云手机的产品，或者能否自己搭建云手机平台](https://www.v2ex.com/t/673448) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 07:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1060,7 +1060,8 @@
 </summary>
 
 
-- [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450) ![](assets/new.png)  
+- [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) ![](assets/new.png)  
+- [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450)  
 - [2020-05-20-WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449)  
 - [2020-05-20-有没有好用的云手机的产品，或者能否自己搭建云手机平台](https://www.v2ex.com/t/673448)  
 - [2020-05-20-三级域名如何设置权威-DNS-服务器](https://www.v2ex.com/t/673447)  
@@ -1079,7 +1080,6 @@
 - [2020-05-20-超棒的全平台知识管理（笔记）软件-——-Notion-宣布对个人用户免费了](https://www.v2ex.com/t/673429)  
 - [2020-05-20-京东-149=两年-Plus+1-年腾讯视频](https://www.v2ex.com/t/673428)  
 - [2020-05-20-求职-艰难的一年...Golang/-Python-/DevOps/运维/网络-4-年经验-远程兼职/全职工作-望大佬进来看看...](https://www.v2ex.com/t/673427)  
-- [2020-05-20-想学开锁，请问怎么买到工具](https://www.v2ex.com/t/673421)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

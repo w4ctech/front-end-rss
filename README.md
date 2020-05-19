@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 08:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 09:00:21，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-吉林5月19日最新通报：新增5例本地确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit46maq2wrnMzvMrHmHmx200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-特朗普：我天天吃抗疟疾药羟氯喹-应对新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAUY7mdUwJp9QsvzzdGZu200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1)  
 - [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1)  
 - [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409)  
 - [2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-18-天津初高中非毕业班以及小学高年级复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilhlsO28JpJdsTJPK5nQu200518&isfromapp=1)  
 - [2020-05-18-回家！161名海外学子从加拿大乘包机抵达沈阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL97te32FZyianrSFpjIy200518&isfromapp=1)  
 - [2020-05-18-韩国新增新冠肺炎确诊病例15例，累计确诊11065例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvXnzqnHbv0ZOKkkp9Gm200518&isfromapp=1)  
-- [2020-05-18-国家卫健委：新增新冠肺炎确诊病例7例-境外输入4例，本土3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1)  
-- [2020-05-18-阿根廷新冠肺炎确诊病例总数超过8000-将对贫民区进行全面筛查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -850,6 +850,16 @@
 </summary>
 
 
+- [2020-05-19-工作方法不对，10-年努力白费-|-极客时间](https://www.ershicimi.com/p/32a256a766350171fb5825a3e126746d) ![](assets/new.png)  
+- [2020-05-19-华为回应美国出口管制新规：无底线且蛮横，予以强烈反对](https://www.ershicimi.com/p/fd6528af4afeca63cc9f62b169a8f7ae) ![](assets/new.png)  
+- [2020-05-19-功能无法停止交付，遗留的技术债务问题怎么解决](https://www.ershicimi.com/p/fdc37f31e0e2e4a646060540f167614e) ![](assets/new.png)  
+- [2020-05-19-这家打造了首个5G云VR平台的企业，技术上到底藏了哪些高招？](https://www.ershicimi.com/p/1f29b9ee7f839e594ed2445913bfae41) ![](assets/new.png)  
+- [2020-05-19-深入剖析实现比特币减半的十五行代码](https://www.ershicimi.com/p/732405e0de55192c21bca205d8f0f5b0) ![](assets/new.png)  
+- [2020-05-18-科技公司忙上市：金山云们想出去，出去的京东们想回来](https://www.ershicimi.com/p/d84bf5bf02cd85864d55a3b95ac5cf1e) ![](assets/new.png)  
+- [2020-05-18-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/5ba0b55fb7f5d8c2129898af13a9b9de) ![](assets/new.png)  
+- [2020-05-18-腾讯海量业务架构演进-|-ArchSummit](https://www.ershicimi.com/p/1c8a5f419c2ab346f65d2b5821b5c9af) ![](assets/new.png)  
+- [2020-05-18-全面解析-Netflix-的微服务架构设计](https://www.ershicimi.com/p/0a4b89f7b164a08aa5c8f31b68f8fc14) ![](assets/new.png)  
+- [2020-05-18-我们怎样将官网的加载时间缩短-1.7-秒？](https://www.ershicimi.com/p/a3340e9f111914ecedda780025e52328) ![](assets/new.png)  
 - [2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484)  
 - [2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088)  
 - [2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d)  
@@ -860,16 +870,6 @@
 - [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)  
 - [2020-05-14-为什么这-10000-家企业的研发人员都在这儿学习？](https://www.ershicimi.com/p/26df2ec79f1eadbe1a3d5a9f00858447)  
 - [2020-05-14-网易新闻App架构重构实践：DDD正走向流行](https://www.ershicimi.com/p/79df8e1febf3a72bf40b876ba74f2b2a)  
-- [2020-05-14-技术债务墙：让技术债务无所遁形](https://www.ershicimi.com/p/47438cc56fd0d20e713d610253cdaa3d)  
-- [2020-05-14-为什么我劝你不要当数据科学家？](https://www.ershicimi.com/p/96c788e3ee9c0f684e06dc736ae546d4)  
-- [2020-05-13-美将启动出口管制新禁令！被华为钦点的中芯国际能否扛起国产化大旗？](https://www.ershicimi.com/p/16dc8390ee1be9248f6f29c53e1df1c3)  
-- [2020-05-13-我在GitHub找Bug：如何轻松赚到10000美元](https://www.ershicimi.com/p/51e5e124b077f4013d5a15af40edbb45)  
-- [2020-05-13-AI-诊断-CT-影像准确率达-96%，医疗AI落地还有哪些挑战与解决方案？|-AICon](https://www.ershicimi.com/p/e4b762930e1c1881082d5e12afe629cc)  
-- [2020-05-13-快速掌握AI模型应用、工业部署与训练......深度学习开发者峰会干货内容抢鲜看！](https://www.ershicimi.com/p/45edc7ea4a484922ceb51868540967c3)  
-- [2020-05-13-比特币减半完成，没看到价格上涨的你失望了吗？](https://www.ershicimi.com/p/cfed027ded52c528942415999a2f1038)  
-- [2020-05-12-程序员如何学英语，才能无障碍阅读官方文档？丨极客时间](https://www.ershicimi.com/p/478daaf992f5ba25a2c5e17c50fd2960)  
-- [2020-05-12-对开发者而言，新基建的意义是什么？旧基建怎么处理？](https://www.ershicimi.com/p/353d14eec45d9c50bdacf6ce6a5a9dcb)  
-- [2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,11 +1057,11 @@
 </summary>
 
 
-- [2020-05-19-快手-北上深杭州-内推进行时...](https://www.v2ex.com/t/673090) ![](assets/new.png)  
-- [2020-05-19-CF-给自动分配的-IP-和其他-CF-的-IP-有什么区别？](https://www.v2ex.com/t/673089) ![](assets/new.png)  
-- [2020-05-19-中央空调在什么情况下会让室内温度升高](https://www.v2ex.com/t/673087) ![](assets/new.png)  
-- [2020-05-19-「小账本」v0.5：全新设计、流畅动画、简易记账、数据统计](https://www.v2ex.com/t/673086) ![](assets/new.png)  
-- [2020-05-19-apple-watch-6.2.5-released](https://www.v2ex.com/t/673085) ![](assets/new.png)  
+- [2020-05-19-快手-北上深杭州-内推进行时...](https://www.v2ex.com/t/673090)  
+- [2020-05-19-CF-给自动分配的-IP-和其他-CF-的-IP-有什么区别？](https://www.v2ex.com/t/673089)  
+- [2020-05-19-中央空调在什么情况下会让室内温度升高](https://www.v2ex.com/t/673087)  
+- [2020-05-19-「小账本」v0.5：全新设计、流畅动画、简易记账、数据统计](https://www.v2ex.com/t/673086)  
+- [2020-05-19-apple-watch-6.2.5-released](https://www.v2ex.com/t/673085)  
 - [2020-05-19-html-图片滚轮放大缩小,出了点问题,谁帮忙看一下](https://www.v2ex.com/t/673084)  
 - [2020-05-19-PostgreSQL-中如何模拟-MySQL-的-order-by-FIELD功能？](https://www.v2ex.com/t/673083)  
 - [2020-05-19-想请教个机械键盘的问题，如何更好的定位键位](https://www.v2ex.com/t/673082)  
@@ -1119,13 +1119,19 @@
 </summary>
 
 
-- [2020-05-19-有了这款工具，我再也不怕写文档啦！](https://toutiao.io/k/uo04qa1) ![](assets/new.png)  
-- [2020-05-19-架构设计：分布式系统调度，Zookeeper-集群化管理](https://toutiao.io/k/6n79lb0) ![](assets/new.png)  
-- [2020-05-19-人工智能在系统领域面临的挑战：伯克利视角](https://toutiao.io/k/91oa22u) ![](assets/new.png)  
-- [2020-05-19-你知道么？原来我们每一次上网，都是场大型协议互签会](https://toutiao.io/k/wkwsahe) ![](assets/new.png)  
-- [2020-05-19-译-除了-iconfont，还有这-10-个开源-SVG-图标库](https://toutiao.io/k/bxlbmj8) ![](assets/new.png)  
-- [2020-05-19-花椒敏感词系统架构详细](https://toutiao.io/k/dzdh1np) ![](assets/new.png)  
-- [2020-05-19-史上最全的-JavaScript-模块化方案和工具](https://toutiao.io/k/hazuhod) ![](assets/new.png)  
+- [2020-05-19-Java-多线程启动为什么调用-start-方法而不是-run-方法？](https://toutiao.io/k/v6xgcg4) ![](assets/new.png)  
+- [2020-05-19-Spring-Boot-Admin-简介及实践](https://toutiao.io/k/9zqy36r) ![](assets/new.png)  
+- [2020-05-19-我肝了一个月，给你写出了这本-Java-开发手册](https://toutiao.io/k/icr9jz6) ![](assets/new.png)  
+- [2020-05-19-Go-语言实现的小型、动态、快速、安全的脚本语言](https://toutiao.io/k/4wxxro8) ![](assets/new.png)  
+- [2020-05-19-尝尝鲜：Spark-3.1-自适应执行计划](https://toutiao.io/k/1tggwao) ![](assets/new.png)  
+- [2020-05-19-Dataway-虽然很棒但还缺些移动互联网的气息](https://toutiao.io/k/0lfh3c4) ![](assets/new.png)  
+- [2020-05-19-有了这款工具，我再也不怕写文档啦！](https://toutiao.io/k/uo04qa1)  
+- [2020-05-19-架构设计：分布式系统调度，Zookeeper-集群化管理](https://toutiao.io/k/6n79lb0)  
+- [2020-05-19-人工智能在系统领域面临的挑战：伯克利视角](https://toutiao.io/k/91oa22u)  
+- [2020-05-19-你知道么？原来我们每一次上网，都是场大型协议互签会](https://toutiao.io/k/wkwsahe)  
+- [2020-05-19-译-除了-iconfont，还有这-10-个开源-SVG-图标库](https://toutiao.io/k/bxlbmj8)  
+- [2020-05-19-花椒敏感词系统架构详细](https://toutiao.io/k/dzdh1np)  
+- [2020-05-19-史上最全的-JavaScript-模块化方案和工具](https://toutiao.io/k/hazuhod)  
 - [2020-05-18-虽然简单但确不能不会的推荐算法重点回顾](https://toutiao.io/k/xy2u775)  
 - [2020-05-18-可怕！CPU竟成了黑客的帮凶](https://toutiao.io/k/gkjbs5l)  
 - [2020-05-18-LeetCode-24：两两交换链表中的节点](https://toutiao.io/k/fega0w5)  
@@ -1133,12 +1139,6 @@
 - [2020-05-18-Kafka-精进：Producer-端核心参数及调优建议](https://toutiao.io/k/cq83s9d)  
 - [2020-05-18-C#-并发编程之初识并行编程](https://toutiao.io/k/didt0vo)  
 - [2020-05-18-Docker-网络实现](https://toutiao.io/k/p4xgycl)  
-- [2020-05-18-Swift-使用-Observe-监测页面滚动](https://toutiao.io/k/hjkqgtk)  
-- [2020-05-18-如何在无人机上部署-YOLOv4-物体检测器](https://toutiao.io/k/vzz5hxn)  
-- [2020-05-18-常用-Linux-发行版操作系统大盘点](https://toutiao.io/k/94sacqx)  
-- [2020-05-18-团队敏捷实践：使用-semantic-release-自动管理发布版本](https://toutiao.io/k/po9l21d)  
-- [2020-05-18-如何快速实现-Spring-Boot-技术栈-API-文档生成](https://toutiao.io/k/lpmziiv)  
-- [2020-05-18-史上最强-JavaScript-闭包原理详解：从入门到放弃](https://toutiao.io/k/rmayc49)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

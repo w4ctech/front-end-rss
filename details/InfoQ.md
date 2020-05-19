@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-05-16 09:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-19-工作方法不对，10-年努力白费-|-极客时间](https://www.ershicimi.com/p/32a256a766350171fb5825a3e126746d) 
+- [2020-05-19-华为回应美国出口管制新规：无底线且蛮横，予以强烈反对](https://www.ershicimi.com/p/fd6528af4afeca63cc9f62b169a8f7ae) 
+- [2020-05-19-功能无法停止交付，遗留的技术债务问题怎么解决](https://www.ershicimi.com/p/fdc37f31e0e2e4a646060540f167614e) 
+- [2020-05-19-这家打造了首个5G云VR平台的企业，技术上到底藏了哪些高招？](https://www.ershicimi.com/p/1f29b9ee7f839e594ed2445913bfae41) 
+- [2020-05-19-深入剖析实现比特币减半的十五行代码](https://www.ershicimi.com/p/732405e0de55192c21bca205d8f0f5b0) 
+- [2020-05-18-科技公司忙上市：金山云们想出去，出去的京东们想回来](https://www.ershicimi.com/p/d84bf5bf02cd85864d55a3b95ac5cf1e) 
+- [2020-05-18-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/5ba0b55fb7f5d8c2129898af13a9b9de) 
+- [2020-05-18-腾讯海量业务架构演进-|-ArchSummit](https://www.ershicimi.com/p/1c8a5f419c2ab346f65d2b5821b5c9af) 
+- [2020-05-18-全面解析-Netflix-的微服务架构设计](https://www.ershicimi.com/p/0a4b89f7b164a08aa5c8f31b68f8fc14) 
+- [2020-05-18-我们怎样将官网的加载时间缩短-1.7-秒？](https://www.ershicimi.com/p/a3340e9f111914ecedda780025e52328) 
 - [2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484) 
 - [2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088) 
 - [2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d) 

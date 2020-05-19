@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 19:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 20:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1)  
 - [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1)  
 - [2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1)  
 - [2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1)  
@@ -1057,26 +1057,26 @@
 </summary>
 
 
-- [2020-05-19-想注册一个手机小号，有什么靠谱一点的吗？](https://www.v2ex.com/t/673340) ![](assets/new.png)  
-- [2020-05-19-显卡驱动频繁停止响应并恢复是什么硬件导致的？](https://www.v2ex.com/t/673339) ![](assets/new.png)  
-- [2020-05-19-300-平别墅空调方案如何选择？](https://www.v2ex.com/t/673338) ![](assets/new.png)  
-- [2020-05-19-用最少的钱最大程度的剥削,资本家的嗜血性在现阶段的招聘展现的淋漓尽致](https://www.v2ex.com/t/673337) ![](assets/new.png)  
-- [2020-05-19-MySQL-文档打不开了？](https://www.v2ex.com/t/673336) ![](assets/new.png)  
+- [2020-05-19-今天-juejin.im-一会不能登录，一会不能保存文章，你们遇到了吗](https://www.v2ex.com/t/673353) ![](assets/new.png)  
+- [2020-05-19-flutter-怎么释放事件](https://www.v2ex.com/t/673351) ![](assets/new.png)  
+- [2020-05-19-code.csdn.net-去哪了？](https://www.v2ex.com/t/673350) ![](assets/new.png)  
+- [2020-05-19-🔥上海小破站视频云团队招后端实习生啦！](https://www.v2ex.com/t/673349) ![](assets/new.png)  
+- [2020-05-19-多吉搜索-dogedoge-搜索结果](https://www.v2ex.com/t/673348) ![](assets/new.png)  
+- [2020-05-19-B-站直播写代码基于测试驱动的程序设计与问题求解](https://www.v2ex.com/t/673347) ![](assets/new.png)  
+- [2020-05-19-关于-vbox，-wls-内存占用的问题](https://www.v2ex.com/t/673346) ![](assets/new.png)  
+- [2020-05-19-🔥🔥🔥长期有效：字节跳动-上海-前端工程师](https://www.v2ex.com/t/673343) ![](assets/new.png)  
+- [2020-05-19-动森二维码生成器-for-Aseprite](https://www.v2ex.com/t/673342) ![](assets/new.png)  
+- [2020-05-19-OpenGL:-如何将-FrameBuffer-数据直接传递给-NVENC？](https://www.v2ex.com/t/673341) ![](assets/new.png)  
+- [2020-05-19-想注册一个手机小号，有什么靠谱一点的吗？](https://www.v2ex.com/t/673340)  
+- [2020-05-19-显卡驱动频繁停止响应并恢复是什么硬件导致的？](https://www.v2ex.com/t/673339)  
+- [2020-05-19-300-平别墅空调方案如何选择？](https://www.v2ex.com/t/673338)  
+- [2020-05-19-用最少的钱最大程度的剥削,资本家的嗜血性在现阶段的招聘展现的淋漓尽致](https://www.v2ex.com/t/673337)  
+- [2020-05-19-MySQL-文档打不开了？](https://www.v2ex.com/t/673336)  
 - [2020-05-19-深圳-字节跳动-Android-开发-字节跳动深圳飞书团队诚招-Android-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673335)  
 - [2020-05-19-不懂就问，电视剧的数据库应该如何建表和关联](https://www.v2ex.com/t/673334)  
 - [2020-05-19-深圳-字节跳动-iOS-开发-字节跳动深圳飞书团队招聘-iOS-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673332)  
 - [2020-05-19-北京/上海/广州-金融/游戏/法律-NLP-专场，总包-50-150-万/年](https://www.v2ex.com/t/673331)  
 - [2020-05-19-你们过生日都是过公历还是农历？](https://www.v2ex.com/t/673329)  
-- [2020-05-19-MBP16-用了三个月，小毛病不断，又锁频-1GHz](https://www.v2ex.com/t/673328)  
-- [2020-05-19-郑州-内推，坐标郑州，中原银行，科技条线](https://www.v2ex.com/t/673327)  
-- [2020-05-19-新来的-iOSer-怎么也没想到](https://www.v2ex.com/t/673326)  
-- [2020-05-19-不知道最近怎么回事，-mac-的-chrome-总是莫名其妙多出一个-bright-start-的插件，然后首页和搜索引擎就被劫持成-qsearch。](https://www.v2ex.com/t/673325)  
-- [2020-05-19-求助！不会-Java-却找到了大厂开发的实习，面对秋招还有必要学-Java-吗？](https://www.v2ex.com/t/673323)  
-- [2020-05-19-打算买一个-thinkpad，但又不知道该买什么型号的。](https://www.v2ex.com/t/673321)  
-- [2020-05-19-不知道就问：有没有游戏笔记本那样的-mini-主机？](https://www.v2ex.com/t/673320)  
-- [2020-05-19-有人用过北京移动的承诺话费送宽带么?](https://www.v2ex.com/t/673319)  
-- [2020-05-19-公司招前端,-双休哦~](https://www.v2ex.com/t/673318)  
-- [2020-05-19-老王-VPN、蚂蚁-VPN-的用户要小心了！](https://www.v2ex.com/t/673317)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

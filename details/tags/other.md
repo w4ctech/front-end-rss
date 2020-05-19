@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 13:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1) 
 - [2020-05-19-黑龙江高校毕业年级6月1日起返校](http://m.weibo.cn/2656274875/4506265869234168) 
 - [2020-05-19-张文宏说天热可以开空调戴口罩](http://m.weibo.cn/3057540037/4506250082258986) 
 - [2020-05-19-这些行业的人士请注意！到内地工作后返回香港现可申请豁免强制检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFwwQyag7N75YeGVXTlFh200519&isfromapp=1) 

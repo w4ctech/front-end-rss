@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 13:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 13:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1) ![](assets/new.png)  
 - [2020-05-19-黑龙江高校毕业年级6月1日起返校](http://m.weibo.cn/2656274875/4506265869234168)  
 - [2020-05-19-张文宏说天热可以开空调戴口罩](http://m.weibo.cn/3057540037/4506250082258986)  
 - [2020-05-19-这些行业的人士请注意！到内地工作后返回香港现可申请豁免强制检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFwwQyag7N75YeGVXTlFh200519&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1)  
 - [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1)  
 - [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1)  
-- [2020-05-18-舒兰市进一步加强疫情防控-实行最严格管控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,11 +1057,11 @@
 </summary>
 
 
-- [2020-05-19-iOS-上群晖-DS-file-打开含有中文的-txt-文档显示乱码](https://www.v2ex.com/t/673198) ![](assets/new.png)  
-- [2020-05-19-对于在公司内吃饭旁边人吧唧嘴的一些牢骚](https://www.v2ex.com/t/673197) ![](assets/new.png)  
-- [2020-05-19-带-type-c-的显示器怎么选？](https://www.v2ex.com/t/673194) ![](assets/new.png)  
-- [2020-05-19-关于找工作的一些体会](https://www.v2ex.com/t/673193) ![](assets/new.png)  
-- [2020-05-19-是否有-frps-的-serverless-版本](https://www.v2ex.com/t/673192) ![](assets/new.png)  
+- [2020-05-19-iOS-上群晖-DS-file-打开含有中文的-txt-文档显示乱码](https://www.v2ex.com/t/673198)  
+- [2020-05-19-对于在公司内吃饭旁边人吧唧嘴的一些牢骚](https://www.v2ex.com/t/673197)  
+- [2020-05-19-带-type-c-的显示器怎么选？](https://www.v2ex.com/t/673194)  
+- [2020-05-19-关于找工作的一些体会](https://www.v2ex.com/t/673193)  
+- [2020-05-19-是否有-frps-的-serverless-版本](https://www.v2ex.com/t/673192)  
 - [2020-05-19-所以程序员团体是可以被直接罚款的？](https://www.v2ex.com/t/673191)  
 - [2020-05-19-请问一个关于正确提问的问题](https://www.v2ex.com/t/673190)  
 - [2020-05-19-北京联通-IPTV-开通央视-3568-了](https://www.v2ex.com/t/673189)  

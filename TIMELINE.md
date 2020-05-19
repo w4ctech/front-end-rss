@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1) 
@@ -774,6 +776,9 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-19-html-图片滚轮放大缩小,出了点问题,谁帮忙看一下](https://www.v2ex.com/t/673084) 
+- [【V2EX】2020-05-19-PostgreSQL-中如何模拟-MySQL-的-order-by-FIELD功能？](https://www.v2ex.com/t/673083) 
+- [【V2EX】2020-05-19-想请教个机械键盘的问题，如何更好的定位键位](https://www.v2ex.com/t/673082) 
 - [【V2EX】2020-05-19-昨天加了个-HR-微信，她说低于-3-年的-简历-她都不看？那我该怎么办？](https://www.v2ex.com/t/673080) 
 - [【V2EX】2020-05-19-我仿佛是个-NT，想伸手一个关于-angular-的-demo](https://www.v2ex.com/t/673079) 
 - [【V2EX】2020-05-19-VUE-创始人尤雨溪曾经被阿里-hr-以不好用为由拒过…](https://www.v2ex.com/t/673078) 

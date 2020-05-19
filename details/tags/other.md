@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1) 
+- [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409) 
 - [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1) 
 - [2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1) 
 - [2020-05-18-第73届世界卫生大会今天开幕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1) 
@@ -879,6 +881,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-html-图片滚轮放大缩小,出了点问题,谁帮忙看一下](https://www.v2ex.com/t/673084) 
+- [2020-05-19-想请教个机械键盘的问题，如何更好的定位键位](https://www.v2ex.com/t/673082) 
 - [2020-05-19-昨天加了个-HR-微信，她说低于-3-年的-简历-她都不看？那我该怎么办？](https://www.v2ex.com/t/673080) 
 - [2020-05-19-我仿佛是个-NT，想伸手一个关于-angular-的-demo](https://www.v2ex.com/t/673079) 
 - [2020-05-19-海外-15-年高级数据工程师博士开群-群名：地球村🌎,-提供留学就业生活交流不是非要出国的,-也交流被动收入](https://www.v2ex.com/t/673076) 

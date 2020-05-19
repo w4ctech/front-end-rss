@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-19-PostgreSQL-中如何模拟-MySQL-的-order-by-FIELD功能？](https://www.v2ex.com/t/673083) 
 - [2020-05-19-大家认为-zerotier-的缺点有哪些？](https://www.v2ex.com/t/673061) 
 - [2020-05-19-vscode-突然不能输出调试内容的详细信息](https://www.v2ex.com/t/673057) 
 - [2020-05-18-spring-cloud-通过-ribbon-被负载均衡到具体微服务的请求的请求头中-cookie-为啥没了？](https://www.v2ex.com/t/673021) 

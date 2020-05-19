@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 18:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1) 
@@ -585,6 +586,8 @@
 - [【凹凸实验室】2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/19/koa-demo/) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566) 
+- [【奇舞周刊】2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183) 
 - [【奇舞周刊】2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [【奇舞周刊】2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec) 
 - [【奇舞周刊】2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447) 
@@ -814,6 +817,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-19-深圳-字节跳动-Android-开发-字节跳动深圳飞书团队诚招-Android-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673335) 
+- [【V2EX】2020-05-19-不懂就问，电视剧的数据库应该如何建表和关联](https://www.v2ex.com/t/673334) 
+- [【V2EX】2020-05-19-深圳-字节跳动-iOS-开发-字节跳动深圳飞书团队招聘-iOS-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673332) 
+- [【V2EX】2020-05-19-北京/上海/广州-金融/游戏/法律-NLP-专场，总包-50-150-万/年](https://www.v2ex.com/t/673331) 
+- [【V2EX】2020-05-19-你们过生日都是过公历还是农历？](https://www.v2ex.com/t/673329) 
 - [【V2EX】2020-05-19-MBP16-用了三个月，小毛病不断，又锁频-1GHz](https://www.v2ex.com/t/673328) 
 - [【V2EX】2020-05-19-郑州-内推，坐标郑州，中原银行，科技条线](https://www.v2ex.com/t/673327) 
 - [【V2EX】2020-05-19-新来的-iOSer-怎么也没想到](https://www.v2ex.com/t/673326) 

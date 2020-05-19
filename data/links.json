@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "日本新增24例新冠肺炎确诊病例 累计确诊16391例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1",
+        "date": "2020-05-19"
+      },
+      {
         "title": "外交部：美方未批准 导致接留学生临时航班被迫推迟",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1",
         "date": "2020-05-19"
@@ -6205,6 +6210,16 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "10个案例让你彻底理解React hooks的渲染逻辑",
+        "link": "https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "来奇舞团吧，让自己过得快乐一点",
+        "link": "https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183",
+        "date": "2020-05-19"
+      },
+      {
         "title": "犀牛书作者：最该忘记的JavaScript特性",
         "link": "https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50",
         "date": "2020-05-18"
@@ -8796,6 +8811,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[深圳] [字节跳动] [Android 开发] \r\n字节跳动深圳飞书团队诚招 Android 开发工程师~~\r\n想荐你，到飞书！",
+        "link": "https://www.v2ex.com/t/673335",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "不懂就问，电视剧的数据库应该如何建表和关联",
+        "link": "https://www.v2ex.com/t/673334",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "[深圳] [字节跳动] [iOS 开发] \r\n字节跳动深圳飞书团队招聘 iOS 开发工程师~~\r\n想荐你，到飞书！",
+        "link": "https://www.v2ex.com/t/673332",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "[北京/上海/广州] [金融/游戏/法律] NLP 专场，总包 50-150 万/年",
+        "link": "https://www.v2ex.com/t/673331",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "你们过生日都是过公历还是农历？",
+        "link": "https://www.v2ex.com/t/673329",
+        "date": "2020-05-19"
+      },
       {
         "title": "MBP16 用了三个月，小毛病不断，又锁频 1GHz",
         "link": "https://www.v2ex.com/t/673328",

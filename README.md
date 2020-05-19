@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 23:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 00:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,26 +1057,26 @@
 </summary>
 
 
-- [2020-05-19-小程序-开发的小程序没用户使用？快来这里自荐呀，搞着玩的小程序也行呀](https://www.v2ex.com/t/673402) ![](assets/new.png)  
-- [2020-05-19-你们的-caldigit-ts3-plus-发热厉害吗，或者除了这个大家有更好的推荐吗](https://www.v2ex.com/t/673401) ![](assets/new.png)  
-- [2020-05-19-Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399) ![](assets/new.png)  
-- [2020-05-19-如何批量替换-MySQL-中-PHP-序列化后的数据](https://www.v2ex.com/t/673397) ![](assets/new.png)  
-- [2020-05-19-求助，请问做游戏脚本犯法吗](https://www.v2ex.com/t/673396) ![](assets/new.png)  
-- [2020-05-19-pixel-2-换机](https://www.v2ex.com/t/673395) ![](assets/new.png)  
-- [2020-05-19-源代码里面右键->检查里-的代码不一样](https://www.v2ex.com/t/673394) ![](assets/new.png)  
-- [2020-05-19-使用-happybase-调用-put-方法时出错，别的都不会报错](https://www.v2ex.com/t/673391) ![](assets/new.png)  
-- [2020-05-19-二手-80D（单机身）香吗？](https://www.v2ex.com/t/673390) ![](assets/new.png)  
-- [2020-05-19-为什么拼多多上-switch-只卖-1689？这里面没有猫腻吗？](https://www.v2ex.com/t/673389) ![](assets/new.png)  
-- [2020-05-19-请教如何对齐](https://www.v2ex.com/t/673388) ![](assets/new.png)  
-- [2020-05-19-PHP-转-go，没面试邀请](https://www.v2ex.com/t/673386)  
-- [2020-05-19-深圳/长沙腾讯云前端-招人啦！](https://www.v2ex.com/t/673384)  
-- [2020-05-19-纠结-签了竞业协议-又不想换行业又想要钱](https://www.v2ex.com/t/673381)  
-- [2020-05-19-我这种自学一年编程，无工作经验，快-28-的人在杭州是不是根本找不到工作](https://www.v2ex.com/t/673380)  
-- [2020-05-19-菜鸟请教一个-mysql-问题](https://www.v2ex.com/t/673379)  
-- [2020-05-19-什么问题？只要微信一崩，整个电脑就处于无响应的状态。](https://www.v2ex.com/t/673377)  
-- [2020-05-19-安卓手机端有没有简简单单的-sock5-客户端](https://www.v2ex.com/t/673376)  
-- [2020-05-19-为什么很多国内税务软件都会扫出来病毒？](https://www.v2ex.com/t/673375)  
-- [2020-05-19-rust-如何实现闭包-Vec？](https://www.v2ex.com/t/673374)  
+- [2020-05-19-Apple-Music-勾选自动下载无效，如何解决？](https://www.v2ex.com/t/673417) ![](assets/new.png)  
+- [2020-05-19-一个可生成短链接的公众号，官方接口，无广告](https://www.v2ex.com/t/673416) ![](assets/new.png)  
+- [2020-05-19-大家知不知道短租该怎么出租呢？](https://www.v2ex.com/t/673413) ![](assets/new.png)  
+- [2020-05-19-访问公司内网，必须要安装奇安信天擎，怎么绕开](https://www.v2ex.com/t/673409) ![](assets/new.png)  
+- [2020-05-19-北上广联通国内段均阵亡......](https://www.v2ex.com/t/673408) ![](assets/new.png)  
+- [2020-05-19-有需要整租一室户的-v-友吗？-11-号线御桥地铁站](https://www.v2ex.com/t/673407) ![](assets/new.png)  
+- [2020-05-19-请教个方案，关于-go，关于插件，](https://www.v2ex.com/t/673406) ![](assets/new.png)  
+- [2020-05-19-招聘:-AI-量化投资公司--Data-Engineer--40-60-万+奖金-北京](https://www.v2ex.com/t/673405) ![](assets/new.png)  
+- [2020-05-19-迫于太菜，请各位大佬帮忙改改简历](https://www.v2ex.com/t/673404) ![](assets/new.png)  
+- [2020-05-19-小程序-开发的小程序没用户使用？快来这里自荐呀，搞着玩的小程序也行呀](https://www.v2ex.com/t/673402)  
+- [2020-05-19-你们的-caldigit-ts3-plus-发热厉害吗，或者除了这个大家有更好的推荐吗](https://www.v2ex.com/t/673401)  
+- [2020-05-19-Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399)  
+- [2020-05-19-如何批量替换-MySQL-中-PHP-序列化后的数据](https://www.v2ex.com/t/673397)  
+- [2020-05-19-求助，请问做游戏脚本犯法吗](https://www.v2ex.com/t/673396)  
+- [2020-05-19-pixel-2-换机](https://www.v2ex.com/t/673395)  
+- [2020-05-19-源代码里面右键->检查里-的代码不一样](https://www.v2ex.com/t/673394)  
+- [2020-05-19-使用-happybase-调用-put-方法时出错，别的都不会报错](https://www.v2ex.com/t/673391)  
+- [2020-05-19-二手-80D（单机身）香吗？](https://www.v2ex.com/t/673390)  
+- [2020-05-19-为什么拼多多上-switch-只卖-1689？这里面没有猫腻吗？](https://www.v2ex.com/t/673389)  
+- [2020-05-19-请教如何对齐](https://www.v2ex.com/t/673388)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

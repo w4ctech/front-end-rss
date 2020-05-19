@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-20 04:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 05:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -409,12 +409,12 @@
 - [【奇舞周刊】世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449)
 - [【V2EX】为何抓包的这个动态发布-api-没有用户信息-超级课表的接口-!Imgurhttps://i.imgur.com/B14t6x3.png](https://www.v2ex.com/t/673070)
 - [【V2EX】3D-建模电脑清单](https://www.v2ex.com/t/672607)
 - [【V2EX】Swift-on-Server-Deployment-Guide](https://www.v2ex.com/t/672479)
 - [【V2EX】IMAX-官方即将开始卖-3D-眼镜！](https://www.v2ex.com/t/672269)
 - [【V2EX】Canvas-实现图片粒子汇聚效果（可有偿）](https://www.v2ex.com/t/671451)
-- [【V2EX】iOS13-后支持-3D-touch-的机型也用不了-3Dtouch-了吗？](https://www.v2ex.com/t/671096)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

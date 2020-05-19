@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 05:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1057,7 +1057,8 @@
 </summary>
 
 
-- [2020-05-20-有没有好用的云手机的产品，或者能否自己搭建云手机平台](https://www.v2ex.com/t/673448) ![](assets/new.png)  
+- [2020-05-20-WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449) ![](assets/new.png)  
+- [2020-05-20-有没有好用的云手机的产品，或者能否自己搭建云手机平台](https://www.v2ex.com/t/673448)  
 - [2020-05-20-三级域名如何设置权威-DNS-服务器](https://www.v2ex.com/t/673447)  
 - [2020-05-20-notion-永久免费？](https://www.v2ex.com/t/673446)  
 - [2020-05-20-警察叔叔也推广阿里钱盾](https://www.v2ex.com/t/673445)  
@@ -1076,7 +1077,6 @@
 - [2020-05-20-求职-艰难的一年...Golang/-Python-/DevOps/运维/网络-4-年经验-远程兼职/全职工作-望大佬进来看看...](https://www.v2ex.com/t/673427)  
 - [2020-05-20-想学开锁，请问怎么买到工具](https://www.v2ex.com/t/673421)  
 - [2020-05-20-Notion-2.8,-now-free-for-personal-use](https://www.v2ex.com/t/673420)  
-- [2020-05-20-Shopee-SZ-为什么会有那么多人要通过-V2EX-发声](https://www.v2ex.com/t/673419)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

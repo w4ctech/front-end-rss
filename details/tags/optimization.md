@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -22,6 +22,7 @@
 - [2020-05-06-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/d1b8fed7619b95a02538154895ed9c0a) 
 - [2020-04-22-我怎样将网站的加载时间减少-67%？](https://www.ershicimi.com/p/8a7e45afc4ca90e189a119557f045562) 
 - [2020-04-18-Web前端性能优化原理问题](https://www.ershicimi.com/p/24fc2a2edd2bbb1cac8f447e46db8ee1) 
+- [2020-05-19-如何进行-web-性能监控-？](https://www.ershicimi.com/p/5bb22dd966de73d033b1727cb074fe43) 
 - [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb) 
 - [2020-04-29-项目不知道如何做性能优化？不妨试一下代码分割](https://www.ershicimi.com/p/ff2cf2e94e2c23273ac49451edbecc44) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 

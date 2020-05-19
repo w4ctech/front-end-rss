@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-05-17 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 14:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-05-18-手拉手带你开启Vue3.0+Vite开发新世界！](https://www.ershicimi.com/p/c6a06383d7f2087ce89cc5aad2ff1137) 
+- [2020-05-18-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/72f0be288304b368f857faf1f743d695) 
+- [2020-05-17-PWA-渐进式：你需要先搞懂这些](https://www.ershicimi.com/p/b265c28ce2535f17f6ff28cf80b9ae15) 
 - [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/7b312dbd3d6f7b1d0d8f3ed48528c917) 
 - [2020-05-15-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cf3540b93d763893158ae1ece6ce9fc3) 
 - [2020-05-15-别问小程序有哪些框架了，一次性告诉你](https://www.ershicimi.com/p/20553e0fb6b27e435492266aba33f458) 

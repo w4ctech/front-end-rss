@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-17-PWA-渐进式：你需要先搞懂这些](https://www.ershicimi.com/p/b265c28ce2535f17f6ff28cf80b9ae15) 
 - [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c) 
 - [2020-05-14-贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0) 
 - [2020-05-07-Flutter-1.17重磅发布：多个新增特性及增强，2020年首个稳定版](https://www.ershicimi.com/p/3c6676c37297eebeffe08945609c7e5c) 

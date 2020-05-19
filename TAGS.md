@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-20 05:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 05:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -117,6 +117,7 @@
 - [【全栈前端精选】TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c)
 - [【全栈前端精选】【万字长文】深入理解-Typescript-高级用法](https://www.ershicimi.com/p/b388ae9f0394ef6fdc78a667e795f3c2)
 - [【程序员成长指北】未来可期的TypeScript](https://www.ershicimi.com/p/2a1d70522d7bf044ff46b5799a796ea6)
+- [【Nodejs技术栈】TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)
 - [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)
 - [【Nodejs技术栈】TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569)
 - [【JavaScript】TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)
@@ -368,6 +369,7 @@
 - [【前端之巅】工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)
 - [【全栈前端精选】认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)
 - [【程序员成长指北】探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531)
+- [【Nodejs技术栈】Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572)
 - [【张鑫旭-鑫空间-鑫生活】快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)
 - [【张鑫旭-鑫空间-鑫生活】借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)
@@ -378,7 +380,6 @@
 - [【张鑫旭-鑫空间-鑫生活】关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)
 - [【张鑫旭-鑫空间-鑫生活】深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
-- [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

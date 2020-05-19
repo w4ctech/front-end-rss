@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 22:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 23:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-19-英国养老院新冠肺炎死亡病例超过11000例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1) ![](assets/new.png)  
 - [2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1)  
 - [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1)  
 - [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1)  
 - [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1)  
 - [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409)  
-- [2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1)  
-- [2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,6 +1026,10 @@
 </summary>
 
 
+- [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) ![](assets/new.png)  
+- [2020-05-19-当你的眼睛拥有-50-倍超稳远摄超能力时，你最想看到什么？](https://www.ershicimi.com/p/192547920f87165e19b41878c196c857) ![](assets/new.png)  
+- [2020-05-19-越简单，越高级：10-张图带你见识人间百态](https://www.ershicimi.com/p/26284fd7edf6bb4197fff6f574ab2d92) ![](assets/new.png)  
+- [2020-05-19-知乎故事-|-年轻人为什么会腰疼？](https://www.ershicimi.com/p/389ca5460e03214fbdab30a4f917f84c) ![](assets/new.png)  
 - [2020-05-18-有哪些大家不说，但十分重要的社会「潜规则」？](https://www.ershicimi.com/p/84656072f6acca0f1b369b7ee5c97580)  
 - [2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b)  
 - [2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af)  
@@ -1042,10 +1046,6 @@
 - [2020-05-15-知乎故事-|-我年薪-7-万，妻子却要送孩子去学费-5-万的学校](https://www.ershicimi.com/p/91ed6048f15c1e55363842d7be1a987c)  
 - [2020-05-14-史书上轻描淡写的一句话，其实藏着你想象不到的残酷](https://www.ershicimi.com/p/3e513798aa766afcedcff0e8193971b1)  
 - [2020-05-14-袜子内裤到底能不能一起洗？](https://www.ershicimi.com/p/48744cb60ca6761612d79a66a65d8605)  
-- [2020-05-14-知乎故事-|-离婚后不要孩子的女人心狠吗？](https://www.ershicimi.com/p/52d82037244f1e9b90239d8a21bb7d93)  
-- [2020-05-13-知乎好问题：有哪些年轻人「千万不能碰」的东西？](https://www.ershicimi.com/p/9e22cb85662857b76104b98031db1575)  
-- [2020-05-13-用勺子挖掉一块脑组织会失去意识吗？](https://www.ershicimi.com/p/01a0460db00b0a09bbb215eaf3c0ce11)  
-- [2020-05-13-知乎故事-|-如果唐朝人拿到一篇现代文章……](https://www.ershicimi.com/p/2ae516681b43230dffb2cd66b5b751df)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,11 +1057,11 @@
 </summary>
 
 
-- [2020-05-19-PHP-转-go，没面试邀请](https://www.v2ex.com/t/673386) ![](assets/new.png)  
-- [2020-05-19-深圳/长沙腾讯云前端-招人啦！](https://www.v2ex.com/t/673384) ![](assets/new.png)  
-- [2020-05-19-纠结-签了竞业协议-又不想换行业又想要钱](https://www.v2ex.com/t/673381) ![](assets/new.png)  
-- [2020-05-19-我这种自学一年编程，无工作经验，快-28-的人在杭州是不是根本找不到工作](https://www.v2ex.com/t/673380) ![](assets/new.png)  
-- [2020-05-19-菜鸟请教一个-mysql-问题](https://www.v2ex.com/t/673379) ![](assets/new.png)  
+- [2020-05-19-PHP-转-go，没面试邀请](https://www.v2ex.com/t/673386)  
+- [2020-05-19-深圳/长沙腾讯云前端-招人啦！](https://www.v2ex.com/t/673384)  
+- [2020-05-19-纠结-签了竞业协议-又不想换行业又想要钱](https://www.v2ex.com/t/673381)  
+- [2020-05-19-我这种自学一年编程，无工作经验，快-28-的人在杭州是不是根本找不到工作](https://www.v2ex.com/t/673380)  
+- [2020-05-19-菜鸟请教一个-mysql-问题](https://www.v2ex.com/t/673379)  
 - [2020-05-19-什么问题？只要微信一崩，整个电脑就处于无响应的状态。](https://www.v2ex.com/t/673377)  
 - [2020-05-19-安卓手机端有没有简简单单的-sock5-客户端](https://www.v2ex.com/t/673376)  
 - [2020-05-19-为什么很多国内税务软件都会扫出来病毒？](https://www.v2ex.com/t/673375)  

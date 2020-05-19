@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-英国养老院新冠肺炎死亡病例超过11000例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1) 
@@ -758,6 +760,10 @@
 - [【JavaScript】2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/97bc06cd97d32ecfabca9210a85f2300) 
 - [【JavaScript】2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) 
 - [【JavaScript】2020-05-06-“webpack就是把文件打包！”你也这样认为吗？](https://www.ershicimi.com/p/123ec673756b855bf618ba6218535805) 
+- [【知乎日报】2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [【知乎日报】2020-05-19-当你的眼睛拥有-50-倍超稳远摄超能力时，你最想看到什么？](https://www.ershicimi.com/p/192547920f87165e19b41878c196c857) 
+- [【知乎日报】2020-05-19-越简单，越高级：10-张图带你见识人间百态](https://www.ershicimi.com/p/26284fd7edf6bb4197fff6f574ab2d92) 
+- [【知乎日报】2020-05-19-知乎故事-|-年轻人为什么会腰疼？](https://www.ershicimi.com/p/389ca5460e03214fbdab30a4f917f84c) 
 - [【知乎日报】2020-05-18-有哪些大家不说，但十分重要的社会「潜规则」？](https://www.ershicimi.com/p/84656072f6acca0f1b369b7ee5c97580) 
 - [【知乎日报】2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b) 
 - [【知乎日报】2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af) 

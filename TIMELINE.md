@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1) 
@@ -818,6 +819,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-19-有接触过天猫精灵技能开发的大佬吗？有偿求帮忙开发一个技能](https://www.v2ex.com/t/673366) 
+- [【V2EX】2020-05-19-有遇到丰巢开错柜子的吗](https://www.v2ex.com/t/673363) 
+- [【V2EX】2020-05-19-我终于写好简历啦-烦请-V-友帮忙提提意见](https://www.v2ex.com/t/673362) 
+- [【V2EX】2020-05-19-1900！急转浦东新区浦三路-817-弄大次卧-靠近-7-号线杨高南路-离徐家汇较近-非中介非平台](https://www.v2ex.com/t/673361) 
+- [【V2EX】2020-05-19-阿里巴巴-天猫海外技术部-国际化战略部门-服务端、前端、算法、客户端招人啦](https://www.v2ex.com/t/673360) 
+- [【V2EX】2020-05-19-北京电信的宽带访问阿里云的北京服务器节点，要被折腾哭了](https://www.v2ex.com/t/673359) 
+- [【V2EX】2020-05-19-一年一度（？）的-CS193p-来了](https://www.v2ex.com/t/673358) 
+- [【V2EX】2020-05-19-天翼云盘很坑](https://www.v2ex.com/t/673357) 
+- [【V2EX】2020-05-19-今天面了一家公司恶心到我了](https://www.v2ex.com/t/673355) 
 - [【V2EX】2020-05-19-今天-juejin.im-一会不能登录，一会不能保存文章，你们遇到了吗](https://www.v2ex.com/t/673353) 
 - [【V2EX】2020-05-19-flutter-怎么释放事件](https://www.v2ex.com/t/673351) 
 - [【V2EX】2020-05-19-code.csdn.net-去哪了？](https://www.v2ex.com/t/673350) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 08:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1) ![](assets/new.png)  
-- [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409) ![](assets/new.png)  
+- [2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1)  
+- [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409)  
 - [2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1)  
 - [2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1)  
 - [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-18-韩国新增新冠肺炎确诊病例15例，累计确诊11065例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvXnzqnHbv0ZOKkkp9Gm200518&isfromapp=1)  
 - [2020-05-18-国家卫健委：新增新冠肺炎确诊病例7例-境外输入4例，本土3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1)  
 - [2020-05-18-阿根廷新冠肺炎确诊病例总数超过8000-将对贫民区进行全面筛查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1)  
-- [2020-05-18-内蒙古18日最新通报：新增4例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDvptnsWEnfWRQrn9al3U200518&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,9 +1057,14 @@
 </summary>
 
 
-- [2020-05-19-html-图片滚轮放大缩小,出了点问题,谁帮忙看一下](https://www.v2ex.com/t/673084) ![](assets/new.png)  
-- [2020-05-19-PostgreSQL-中如何模拟-MySQL-的-order-by-FIELD功能？](https://www.v2ex.com/t/673083) ![](assets/new.png)  
-- [2020-05-19-想请教个机械键盘的问题，如何更好的定位键位](https://www.v2ex.com/t/673082) ![](assets/new.png)  
+- [2020-05-19-快手-北上深杭州-内推进行时...](https://www.v2ex.com/t/673090) ![](assets/new.png)  
+- [2020-05-19-CF-给自动分配的-IP-和其他-CF-的-IP-有什么区别？](https://www.v2ex.com/t/673089) ![](assets/new.png)  
+- [2020-05-19-中央空调在什么情况下会让室内温度升高](https://www.v2ex.com/t/673087) ![](assets/new.png)  
+- [2020-05-19-「小账本」v0.5：全新设计、流畅动画、简易记账、数据统计](https://www.v2ex.com/t/673086) ![](assets/new.png)  
+- [2020-05-19-apple-watch-6.2.5-released](https://www.v2ex.com/t/673085) ![](assets/new.png)  
+- [2020-05-19-html-图片滚轮放大缩小,出了点问题,谁帮忙看一下](https://www.v2ex.com/t/673084)  
+- [2020-05-19-PostgreSQL-中如何模拟-MySQL-的-order-by-FIELD功能？](https://www.v2ex.com/t/673083)  
+- [2020-05-19-想请教个机械键盘的问题，如何更好的定位键位](https://www.v2ex.com/t/673082)  
 - [2020-05-19-昨天加了个-HR-微信，她说低于-3-年的-简历-她都不看？那我该怎么办？](https://www.v2ex.com/t/673080)  
 - [2020-05-19-我仿佛是个-NT，想伸手一个关于-angular-的-demo](https://www.v2ex.com/t/673079)  
 - [2020-05-19-VUE-创始人尤雨溪曾经被阿里-hr-以不好用为由拒过…](https://www.v2ex.com/t/673078)  
@@ -1072,11 +1077,6 @@
 - [2020-05-19-第一次知道笔记本电脑盖子的开法还有讲究](https://www.v2ex.com/t/673068)  
 - [2020-05-19-idea2019.1-导入-eureka-源码使用-gradle-构建半天死活不成功](https://www.v2ex.com/t/673066)  
 - [2020-05-19-玩-Ultimate-Frisbee-的过来聊聊](https://www.v2ex.com/t/673065)  
-- [2020-05-19-求-Apple-Music-换区建议-&-换区有办法保留歌单吗？](https://www.v2ex.com/t/673063)  
-- [2020-05-19-有听过严慕来的《来念书》播客的朋友吗？](https://www.v2ex.com/t/673062)  
-- [2020-05-19-大家认为-zerotier-的缺点有哪些？](https://www.v2ex.com/t/673061)  
-- [2020-05-19-街边拿着微信二维码声称自己开奶昔店求关注的背后，到底是什么猫腻？](https://www.v2ex.com/t/673059)  
-- [2020-05-19-爬虫：微信读书笔记工具，-markdown-导出，可自定义导出格式，欢迎-star~](https://www.v2ex.com/t/673058)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,6 +1119,13 @@
 </summary>
 
 
+- [2020-05-19-有了这款工具，我再也不怕写文档啦！](https://toutiao.io/k/uo04qa1) ![](assets/new.png)  
+- [2020-05-19-架构设计：分布式系统调度，Zookeeper-集群化管理](https://toutiao.io/k/6n79lb0) ![](assets/new.png)  
+- [2020-05-19-人工智能在系统领域面临的挑战：伯克利视角](https://toutiao.io/k/91oa22u) ![](assets/new.png)  
+- [2020-05-19-你知道么？原来我们每一次上网，都是场大型协议互签会](https://toutiao.io/k/wkwsahe) ![](assets/new.png)  
+- [2020-05-19-译-除了-iconfont，还有这-10-个开源-SVG-图标库](https://toutiao.io/k/bxlbmj8) ![](assets/new.png)  
+- [2020-05-19-花椒敏感词系统架构详细](https://toutiao.io/k/dzdh1np) ![](assets/new.png)  
+- [2020-05-19-史上最全的-JavaScript-模块化方案和工具](https://toutiao.io/k/hazuhod) ![](assets/new.png)  
 - [2020-05-18-虽然简单但确不能不会的推荐算法重点回顾](https://toutiao.io/k/xy2u775)  
 - [2020-05-18-可怕！CPU竟成了黑客的帮凶](https://toutiao.io/k/gkjbs5l)  
 - [2020-05-18-LeetCode-24：两两交换链表中的节点](https://toutiao.io/k/fega0w5)  
@@ -1132,13 +1139,6 @@
 - [2020-05-18-团队敏捷实践：使用-semantic-release-自动管理发布版本](https://toutiao.io/k/po9l21d)  
 - [2020-05-18-如何快速实现-Spring-Boot-技术栈-API-文档生成](https://toutiao.io/k/lpmziiv)  
 - [2020-05-18-史上最强-JavaScript-闭包原理详解：从入门到放弃](https://toutiao.io/k/rmayc49)  
-- [2020-05-18-深度：从零编写一个微前端框架](https://toutiao.io/k/tjzh3p8)  
-- [2020-05-18-在培训机构花了好几万学-Java，当了程序员还被鄙视，这是招谁惹谁了](https://toutiao.io/k/isb3llh)  
-- [2020-05-18-天猫精灵-App-首页信息流是怎样实现的](https://toutiao.io/k/fzrejtt)  
-- [2020-05-18-一道-Block-面试题的深入挖掘](https://toutiao.io/k/jdd81kk)  
-- [2020-05-18-这样的-API-网关查询接口优化，我是被迫的](https://toutiao.io/k/1eb4uwg)  
-- [2020-05-18-假如时光倒流，我要这样学编程](https://toutiao.io/k/pff6ej1)  
-- [2020-05-18-我去，你竟然还不会用-synchronized](https://toutiao.io/k/lcd4wzl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

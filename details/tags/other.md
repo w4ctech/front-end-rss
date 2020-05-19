@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 08:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -881,6 +881,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-快手-北上深杭州-内推进行时...](https://www.v2ex.com/t/673090) 
+- [2020-05-19-CF-给自动分配的-IP-和其他-CF-的-IP-有什么区别？](https://www.v2ex.com/t/673089) 
+- [2020-05-19-中央空调在什么情况下会让室内温度升高](https://www.v2ex.com/t/673087) 
+- [2020-05-19-apple-watch-6.2.5-released](https://www.v2ex.com/t/673085) 
 - [2020-05-19-html-图片滚轮放大缩小,出了点问题,谁帮忙看一下](https://www.v2ex.com/t/673084) 
 - [2020-05-19-想请教个机械键盘的问题，如何更好的定位键位](https://www.v2ex.com/t/673082) 
 - [2020-05-19-昨天加了个-HR-微信，她说低于-3-年的-简历-她都不看？那我该怎么办？](https://www.v2ex.com/t/673080) 
@@ -5661,6 +5665,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-19-有了这款工具，我再也不怕写文档啦！](https://toutiao.io/k/uo04qa1) 
+- [2020-05-19-架构设计：分布式系统调度，Zookeeper-集群化管理](https://toutiao.io/k/6n79lb0) 
+- [2020-05-19-人工智能在系统领域面临的挑战：伯克利视角](https://toutiao.io/k/91oa22u) 
+- [2020-05-19-你知道么？原来我们每一次上网，都是场大型协议互签会](https://toutiao.io/k/wkwsahe) 
+- [2020-05-19-花椒敏感词系统架构详细](https://toutiao.io/k/dzdh1np) 
 - [2020-05-18-可怕！CPU竟成了黑客的帮凶](https://toutiao.io/k/gkjbs5l) 
 - [2020-05-18-LeetCode-24：两两交换链表中的节点](https://toutiao.io/k/fega0w5) 
 - [2020-05-18-Kafka-精进：Producer-端核心参数及调优建议](https://toutiao.io/k/cq83s9d) 

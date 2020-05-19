@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "智利新冠肺炎累计确诊46059例 首都大区强制隔离或再延长",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1",
+        "date": "2020-05-19"
+      },
+      {
         "title": "​摩洛哥宣布将紧急状态延长至6月10日",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1",
         "date": "2020-05-19"
@@ -8606,6 +8611,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "快手-北上深杭州-内推进行时...",
+        "link": "https://www.v2ex.com/t/673090",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "CF 给自动分配的 IP 和其他 CF 的 IP 有什么区别？",
+        "link": "https://www.v2ex.com/t/673089",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "中央空调在什么情况下会让室内温度升高",
+        "link": "https://www.v2ex.com/t/673087",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "「小账本」v0.5：全新设计、流畅动画、简易记账、数据统计",
+        "link": "https://www.v2ex.com/t/673086",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "apple watch 6.2.5 released",
+        "link": "https://www.v2ex.com/t/673085",
+        "date": "2020-05-19"
+      },
       {
         "title": "html 图片滚轮放大缩小,出了点问题,谁帮忙看一下",
         "link": "https://www.v2ex.com/t/673084",
@@ -38870,6 +38900,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "有了这款工具，我再也不怕写文档啦！",
+        "link": "https://toutiao.io/k/uo04qa1",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "架构设计：分布式系统调度，Zookeeper 集群化管理",
+        "link": "https://toutiao.io/k/6n79lb0",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "人工智能在系统领域面临的挑战：伯克利视角",
+        "link": "https://toutiao.io/k/91oa22u",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "你知道么？原来我们每一次上网，都是场大型协议互签会",
+        "link": "https://toutiao.io/k/wkwsahe",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "[译] 除了 iconfont，还有这 10 个开源 SVG 图标库",
+        "link": "https://toutiao.io/k/bxlbmj8",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "花椒敏感词系统架构详细",
+        "link": "https://toutiao.io/k/dzdh1np",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "史上最全的 JavaScript 模块化方案和工具",
+        "link": "https://toutiao.io/k/hazuhod",
+        "date": "2020-05-19"
+      },
       {
         "title": "虽然简单但确不能不会的推荐算法重点回顾",
         "link": "https://toutiao.io/k/xy2u775",

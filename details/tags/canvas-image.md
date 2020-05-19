@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 08:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -34,5 +34,6 @@
 - [2020-04-30-分享一个-demo，单元测试-canvas-的实际渲染，同时欢迎报名组队](https://www.v2ex.com/t/667731) 
 - [2020-04-28-推荐一个自带-GUI-且支持插件扩展的代码生成器](https://www.v2ex.com/t/667105) 
 - [2020-04-26-V-站头像是允许-JPG、PNG-和-GIF-的，但是实际上并不能使用-GIF](https://www.v2ex.com/t/666397) 
+- [2020-05-19-译-除了-iconfont，还有这-10-个开源-SVG-图标库](https://toutiao.io/k/bxlbmj8) 
 - [2020-05-17-用深度学习实现-2D-到-3D-的转换](https://toutiao.io/k/qsj2j6y) 
 - [2020-05-13-入职半年多，Guide-哥总结了这些帮助你领先-90%-程序员的好习惯](https://toutiao.io/k/kpcddcx) 

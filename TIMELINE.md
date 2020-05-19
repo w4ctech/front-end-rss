@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1) 
@@ -817,6 +818,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-19-想注册一个手机小号，有什么靠谱一点的吗？](https://www.v2ex.com/t/673340) 
+- [【V2EX】2020-05-19-显卡驱动频繁停止响应并恢复是什么硬件导致的？](https://www.v2ex.com/t/673339) 
+- [【V2EX】2020-05-19-300-平别墅空调方案如何选择？](https://www.v2ex.com/t/673338) 
+- [【V2EX】2020-05-19-用最少的钱最大程度的剥削,资本家的嗜血性在现阶段的招聘展现的淋漓尽致](https://www.v2ex.com/t/673337) 
+- [【V2EX】2020-05-19-MySQL-文档打不开了？](https://www.v2ex.com/t/673336) 
 - [【V2EX】2020-05-19-深圳-字节跳动-Android-开发-字节跳动深圳飞书团队诚招-Android-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673335) 
 - [【V2EX】2020-05-19-不懂就问，电视剧的数据库应该如何建表和关联](https://www.v2ex.com/t/673334) 
 - [【V2EX】2020-05-19-深圳-字节跳动-iOS-开发-字节跳动深圳飞书团队招聘-iOS-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673332) 

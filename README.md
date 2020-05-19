@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 19:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 19:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1)  
 - [2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1)  
 - [2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1)  
 - [2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-19-世卫组织：全球新冠肺炎超过461万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1)  
 - [2020-05-18-美国得克萨斯州养老院新冠肺炎死亡病例超过500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtildN5GLAYjpAWCZBkYnNV200518&isfromapp=1)  
 - [2020-05-18-​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1)  
-- [2020-05-18-携手抗疫，中国企业与埃塞俄比亚共战疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -738,8 +738,8 @@
 </summary>
 
 
-- [2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566) ![](assets/new.png)  
-- [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183) ![](assets/new.png)  
+- [2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566)  
+- [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183)  
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50)  
 - [2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec)  
 - [2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447)  
@@ -1057,11 +1057,16 @@
 </summary>
 
 
-- [2020-05-19-深圳-字节跳动-Android-开发-字节跳动深圳飞书团队诚招-Android-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673335) ![](assets/new.png)  
-- [2020-05-19-不懂就问，电视剧的数据库应该如何建表和关联](https://www.v2ex.com/t/673334) ![](assets/new.png)  
-- [2020-05-19-深圳-字节跳动-iOS-开发-字节跳动深圳飞书团队招聘-iOS-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673332) ![](assets/new.png)  
-- [2020-05-19-北京/上海/广州-金融/游戏/法律-NLP-专场，总包-50-150-万/年](https://www.v2ex.com/t/673331) ![](assets/new.png)  
-- [2020-05-19-你们过生日都是过公历还是农历？](https://www.v2ex.com/t/673329) ![](assets/new.png)  
+- [2020-05-19-想注册一个手机小号，有什么靠谱一点的吗？](https://www.v2ex.com/t/673340) ![](assets/new.png)  
+- [2020-05-19-显卡驱动频繁停止响应并恢复是什么硬件导致的？](https://www.v2ex.com/t/673339) ![](assets/new.png)  
+- [2020-05-19-300-平别墅空调方案如何选择？](https://www.v2ex.com/t/673338) ![](assets/new.png)  
+- [2020-05-19-用最少的钱最大程度的剥削,资本家的嗜血性在现阶段的招聘展现的淋漓尽致](https://www.v2ex.com/t/673337) ![](assets/new.png)  
+- [2020-05-19-MySQL-文档打不开了？](https://www.v2ex.com/t/673336) ![](assets/new.png)  
+- [2020-05-19-深圳-字节跳动-Android-开发-字节跳动深圳飞书团队诚招-Android-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673335)  
+- [2020-05-19-不懂就问，电视剧的数据库应该如何建表和关联](https://www.v2ex.com/t/673334)  
+- [2020-05-19-深圳-字节跳动-iOS-开发-字节跳动深圳飞书团队招聘-iOS-开发工程师~~-想荐你，到飞书！](https://www.v2ex.com/t/673332)  
+- [2020-05-19-北京/上海/广州-金融/游戏/法律-NLP-专场，总包-50-150-万/年](https://www.v2ex.com/t/673331)  
+- [2020-05-19-你们过生日都是过公历还是农历？](https://www.v2ex.com/t/673329)  
 - [2020-05-19-MBP16-用了三个月，小毛病不断，又锁频-1GHz](https://www.v2ex.com/t/673328)  
 - [2020-05-19-郑州-内推，坐标郑州，中原银行，科技条线](https://www.v2ex.com/t/673327)  
 - [2020-05-19-新来的-iOSer-怎么也没想到](https://www.v2ex.com/t/673326)  
@@ -1072,11 +1077,6 @@
 - [2020-05-19-有人用过北京移动的承诺话费送宽带么?](https://www.v2ex.com/t/673319)  
 - [2020-05-19-公司招前端,-双休哦~](https://www.v2ex.com/t/673318)  
 - [2020-05-19-老王-VPN、蚂蚁-VPN-的用户要小心了！](https://www.v2ex.com/t/673317)  
-- [2020-05-19-最近准备在老家盖房子，轻钢结构和砖混的哪个好？](https://www.v2ex.com/t/673316)  
-- [2020-05-19-腾讯社招-腾讯-IMWEB-团队招聘前端、高级前端工程师！快速安排面试！欢迎来玩！](https://www.v2ex.com/t/673315)  
-- [2020-05-19-公司搬家后宽带运营商漫天要价，打算用-4G/5G-了，但是好像没法方便的连接打印机](https://www.v2ex.com/t/673314)  
-- [2020-05-19-Ipv4-访问-Ipv6-地址](https://www.v2ex.com/t/673312)  
-- [2020-05-19-三星的-Buds+确实还不错（附一些感受）](https://www.v2ex.com/t/673311)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

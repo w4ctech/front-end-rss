@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 11:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -460,6 +460,8 @@
 - [【前端之巅】2020-05-04-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/ae59670a1fbe045c5e5955132c03bb58) 
 - [【前端之巅】2020-05-03-前端周报：两行代码险些搞垮-JavaScript-生态；B-站知名UP主被勒索；库克：iPhone](https://www.ershicimi.com/p/27e42d5e65d2bda9396549ed3b594ef9) 
 - [【前端之巅】2020-05-01-前端干货精选，助你走上前端之巅](https://www.ershicimi.com/p/e87198ca3174a954616844f4232a5198) 
+- [【前端迷】2020-05-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/553e6dca24d157a8b83b7ad7f1567bae) 
+- [【前端迷】2020-05-19-两年前端蚂蚁字节滴滴面试经历总结](https://www.ershicimi.com/p/861979fd727762bf50d9314bb3d557f6) 
 - [【前端迷】2020-05-18-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/87cf9387a65127e8c5bb3fd1de619fed) 
 - [【前端迷】2020-05-16-了不起的-Deno-入门教程](https://www.ershicimi.com/p/aaa2d9cf5e053ad9972d5d3f1c14454f) 
 - [【前端迷】2020-05-15-卧槽，啥情况，极客时间怎么突然免费了?](https://www.ershicimi.com/p/83a6094cfeae44c73a01c09e6fff774c) 

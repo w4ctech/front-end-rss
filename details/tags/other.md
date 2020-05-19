@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -430,6 +430,7 @@
 - [2020-04-24-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/90b1ebdac2ac24fb02c066f8804c92de) 
 - [2020-04-22-前端工程师的未来在哪里？-|-极客大学](https://www.ershicimi.com/p/81b253610d7761863d25b01296960047) 
 - [2020-04-20-人工智能风口下，企业级应用该如何落地-AI？](https://www.ershicimi.com/p/51007326c12006fa32b054cc303ccfc2) 
+- [2020-05-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/553e6dca24d157a8b83b7ad7f1567bae) 
 - [2020-05-16-了不起的-Deno-入门教程](https://www.ershicimi.com/p/aaa2d9cf5e053ad9972d5d3f1c14454f) 
 - [2020-05-15-卧槽，啥情况，极客时间怎么突然免费了?](https://www.ershicimi.com/p/83a6094cfeae44c73a01c09e6fff774c) 
 - [2020-05-12-动手开发一个适用于公司项目的脚手架](https://www.ershicimi.com/p/9858c348c3435a92d3a69ef7c55fd006) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 11:30:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 12:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-19-北美观察丨5000亿救助至今闲置-美国会调查出炉引关注](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifgk4CZoS0DErbygJuBfm200519&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-北美观察丨5000亿救助至今闲置-美国会调查出炉引关注](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifgk4CZoS0DErbygJuBfm200519&isfromapp=1)  
 - [2020-05-19-吉林5月19日最新通报：新增5例本地确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit46maq2wrnMzvMrHmHmx200519&isfromapp=1)  
 - [2020-05-19-特朗普：我天天吃抗疟疾药羟氯喹-应对新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAUY7mdUwJp9QsvzzdGZu200519&isfromapp=1)  
 - [2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1)  
@@ -445,6 +445,8 @@
 </summary>
 
 
+- [2020-05-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/553e6dca24d157a8b83b7ad7f1567bae) ![](assets/new.png)  
+- [2020-05-19-两年前端蚂蚁字节滴滴面试经历总结](https://www.ershicimi.com/p/861979fd727762bf50d9314bb3d557f6) ![](assets/new.png)  
 - [2020-05-18-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/87cf9387a65127e8c5bb3fd1de619fed)  
 - [2020-05-16-了不起的-Deno-入门教程](https://www.ershicimi.com/p/aaa2d9cf5e053ad9972d5d3f1c14454f)  
 - [2020-05-15-卧槽，啥情况，极客时间怎么突然免费了?](https://www.ershicimi.com/p/83a6094cfeae44c73a01c09e6fff774c)  
@@ -463,8 +465,6 @@
 - [2020-05-06-9个不错的前端开源项目](https://www.ershicimi.com/p/7abeffa835c459365215815d95e92cee)  
 - [2020-05-05-全球第三前端团队（体验技术部招前端了！](https://www.ershicimi.com/p/e4064e7e65847593a573b945be2ae5f1)  
 - [2020-05-05-面试题：Vue中$nextTick原理](https://www.ershicimi.com/p/62e42c223887101bb1df100384ce3470)  
-- [2020-05-04-网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1)  
-- [2020-05-04-React-项目性能分析及优化](https://www.ershicimi.com/p/e035498647ac5ceb2eec2ef538222f9e)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

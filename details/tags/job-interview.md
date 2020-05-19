@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,6 +32,7 @@
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838) 
 - [2020-04-20-5道颇具挑战性的前端面试题](https://www.ershicimi.com/p/5d07589739d13b8c2052d8c2891d98a4) 
+- [2020-05-19-两年前端蚂蚁字节滴滴面试经历总结](https://www.ershicimi.com/p/861979fd727762bf50d9314bb3d557f6) 
 - [2020-04-27-阿里盒马前端校招面试，你要的答案来了](https://www.ershicimi.com/p/eb2763447619b6e90cba43204d14bbd0) 
 - [2020-04-21-从若干个方向谈一谈前端面试需要准备哪些东西](https://www.ershicimi.com/p/0d7206e939065d7b4612e1f5a6963f47) 
 - [2020-04-18-一张图阐述下的最近面试现状](https://www.ershicimi.com/p/50aa271c513d6520c423cf63ac588779) 

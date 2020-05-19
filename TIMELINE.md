@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 17:30:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-刚果（金）新增新冠肺炎确诊病例91例-累计确诊1629例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixXiDJUZuKrVlmLDFR3uK200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1) 
@@ -812,6 +814,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-19-最近准备在老家盖房子，轻钢结构和砖混的哪个好？](https://www.v2ex.com/t/673316) 
+- [【V2EX】2020-05-19-腾讯社招-腾讯-IMWEB-团队招聘前端、高级前端工程师！快速安排面试！欢迎来玩！](https://www.v2ex.com/t/673315) 
+- [【V2EX】2020-05-19-公司搬家后宽带运营商漫天要价，打算用-4G/5G-了，但是好像没法方便的连接打印机](https://www.v2ex.com/t/673314) 
+- [【V2EX】2020-05-19-Ipv4-访问-Ipv6-地址](https://www.v2ex.com/t/673312) 
+- [【V2EX】2020-05-19-三星的-Buds+确实还不错（附一些感受）](https://www.v2ex.com/t/673311) 
+- [【V2EX】2020-05-19-要独自修改一个巨大的文件，我该怎么办？](https://www.v2ex.com/t/673310) 
+- [【V2EX】2020-05-19-deno-怎么发送接收-udp？](https://www.v2ex.com/t/673309) 
+- [【V2EX】2020-05-19-求帮忙选择虚拟化方案（基于最新-Win-10-2004-正式版）](https://www.v2ex.com/t/673307) 
+- [【V2EX】2020-05-19-icloud2T-家庭发车了](https://www.v2ex.com/t/673306) 
 - [【V2EX】2020-05-19-马上-618-求大家配个主机](https://www.v2ex.com/t/673305) 
 - [【V2EX】2020-05-19-各位面试时怎么看待笔试？](https://www.v2ex.com/t/673304) 
 - [【V2EX】2020-05-19-求-出游回家后，批量群发照片-的方案（面向中老年人）](https://www.v2ex.com/t/673302) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 17:30:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1) 
 - [2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1) 
 - [2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1) 
 - [2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1) 
@@ -902,6 +903,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-最近准备在老家盖房子，轻钢结构和砖混的哪个好？](https://www.v2ex.com/t/673316) 
+- [2020-05-19-公司搬家后宽带运营商漫天要价，打算用-4G/5G-了，但是好像没法方便的连接打印机](https://www.v2ex.com/t/673314) 
+- [2020-05-19-Ipv4-访问-Ipv6-地址](https://www.v2ex.com/t/673312) 
+- [2020-05-19-三星的-Buds+确实还不错（附一些感受）](https://www.v2ex.com/t/673311) 
+- [2020-05-19-要独自修改一个巨大的文件，我该怎么办？](https://www.v2ex.com/t/673310) 
+- [2020-05-19-deno-怎么发送接收-udp？](https://www.v2ex.com/t/673309) 
+- [2020-05-19-求帮忙选择虚拟化方案（基于最新-Win-10-2004-正式版）](https://www.v2ex.com/t/673307) 
+- [2020-05-19-icloud2T-家庭发车了](https://www.v2ex.com/t/673306) 
 - [2020-05-19-马上-618-求大家配个主机](https://www.v2ex.com/t/673305) 
 - [2020-05-19-求-出游回家后，批量群发照片-的方案（面向中老年人）](https://www.v2ex.com/t/673302) 
 - [2020-05-19-有用花呗的-V-友在个人征信报告上看到相关信息了吗？](https://www.v2ex.com/t/673300) 

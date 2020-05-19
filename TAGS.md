@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-19 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -622,6 +622,7 @@
 - [【全栈前端精选】小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/ba6d63d622cb150af6a4bcc0e88d3833)
 - [【前端宇宙】速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf)
 - [【前端宇宙】别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36)
+- [【前端瓶子君】GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/6d955956e3d4efead6dc535939b4e6a6)
 - [【阮一峰的网络日志】git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
@@ -629,7 +630,6 @@
 - [【互联网架构师】GitHub重大更新：在线开发上线，是时候卸载IDE了](https://www.ershicimi.com/p/fcc7021d1f00fe60761575487d7a5011)
 - [【互联网架构师】一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2)
 - [【互联网架构师】这张「二维码」火到了GitHub热榜第一：扫一扫，打破系统边界，文件秒传](https://www.ershicimi.com/p/e89cefddded75359e8cc5a29805b1965)
-- [【互联网架构师】提高github下载速度的方法「100%有效」可达到2MB/s](https://www.ershicimi.com/p/d15716165594c9df0422302d169d9488)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

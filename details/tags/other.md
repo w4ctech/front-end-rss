@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -482,6 +482,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-19-在前端重构中获取到的一些经验总结](https://www.ershicimi.com/p/27c0d2452222f830e63e4c078442f298) 
 - [2020-05-17-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/93c317170e8489947260ba5d95f3aa04) 
 - [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db) 
 - [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4) 
@@ -5687,6 +5688,10 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-19-IO-模型知多少（代码篇）](https://toutiao.io/k/pnlb8lw) 
+- [2020-05-19-数据与广告（二十）：oCPX-大势下标签定向的发展演化](https://toutiao.io/k/1cw94wd) 
+- [2020-05-19-Map-集合怎么也有这么多坑？一不小心又踩了好几个](https://toutiao.io/k/85eqh79) 
+- [2020-05-19-分布式存储系统的大体架构](https://toutiao.io/k/si6q63c) 
 - [2020-05-19-Java-并发编程那些事儿（一）：任务与线程](https://toutiao.io/k/9w9ahw2) 
 - [2020-05-19-为什么-IPv6-难以取代-IPv4](https://toutiao.io/k/pgi3tul) 
 - [2020-05-19-Java-多线程启动为什么调用-start-方法而不是-run-方法？](https://toutiao.io/k/v6xgcg4) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-19 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -385,6 +385,7 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-19-推倒Node重做，Deno-1.0来了](https://www.ershicimi.com/p/a688ac435aa5f3f8730aed209a8e04ca) 
 - [【前端开发】2020-05-18-大错特错，算法对前端开发同样重要！](https://www.ershicimi.com/p/ad0be4a6b4947642451f3c14a60c2302) 
 - [【前端开发】2020-05-18-JavaScript设计模式](https://www.ershicimi.com/p/d41fb6f09e67ff092900bfc3660f4015) 
 - [【前端开发】2020-05-17-面试官问了一下三次握手，我甩出这张脑图，他服了！](https://www.ershicimi.com/p/b35ac7adf6b1a0add9818a9c322554ab) 

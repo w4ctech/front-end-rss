@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 16:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 17:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,8 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-19-DownloadTask.onProgressUpdate-安卓真机调试无法获取数据，求大佬指教](https://www.v2ex.com/t/673288) 
+- [2020-05-19-调用第三方-api-数据安全问题探讨](https://www.v2ex.com/t/673285) 
 - [2020-05-19-有没有网站可以查看各种浏览器可以支持哪些域名后缀](https://www.v2ex.com/t/673200) 
 - [2020-05-19-code-viewer-不能用了吗？-手机和-pad-上有啥好用的看代码的软件…](https://www.v2ex.com/t/673134) 
 - [2020-05-19-是不是只要我把网站服务器-ssh-端口关了，就绝对安全了？](https://www.v2ex.com/t/673119) 

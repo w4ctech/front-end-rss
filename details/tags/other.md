@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -346,6 +346,8 @@
 - [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) 
 - [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) 
 - [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
+- [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) 
+- [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc) 
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) 
 - [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d) 
 - [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6) 
@@ -910,6 +912,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) 
 - [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) 
 - [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450) 
 - [2020-05-20-有没有好用的云手机的产品，或者能否自己搭建云手机平台](https://www.v2ex.com/t/673448) 

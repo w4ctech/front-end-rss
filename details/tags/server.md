@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -8,6 +8,7 @@
 
 
 - [2020-05-12-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44) 
+- [2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46) 
 - [2020-04-19-前端高级进阶：使用-docker-高效部署你的前端应用](https://www.ershicimi.com/p/ea679a267e08192aaa41298b6379cb0a) 
 - [2020-05-08-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史](https://www.ershicimi.com/p/687c2e0dd10449de6652b8ecbbd7d1e3) 
 - [2020-03-29-五分钟看懂-Nginx-负载均衡](https://www.ershicimi.com/p/da2571b220d4f1556032767752107794) 

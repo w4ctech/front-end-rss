@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -10,6 +10,7 @@
 - [2020-05-15-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cf3540b93d763893158ae1ece6ce9fc3) 
 - [2020-04-29-推荐7个低调务实的前端公众号-|-算法-面试](https://www.ershicimi.com/p/00a3abdc5d3e97ad29988979f27bd298) 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
+- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) 
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8) 
 - [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
 - [2020-05-18-大错特错，算法对前端开发同样重要！](https://www.ershicimi.com/p/ad0be4a6b4947642451f3c14a60c2302) 

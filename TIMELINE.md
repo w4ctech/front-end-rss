@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 07:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -353,6 +353,11 @@
 - [【React中文社区】2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012) 
+- [【前端早读课】2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) 
+- [【前端早读课】2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) 
+- [【前端早读课】2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46) 
+- [【前端早读课】2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc) 
 - [【前端早读课】2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b) 
 - [【前端早读课】2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0) 
 - [【前端早读课】2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) 
@@ -828,6 +833,8 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454) 
+- [【V2EX】2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) 
 - [【V2EX】2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) 
 - [【V2EX】2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450) 
 - [【V2EX】2020-05-20-WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449) 

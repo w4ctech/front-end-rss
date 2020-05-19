@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 07:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 07:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -227,6 +227,11 @@
 </summary>
 
 
+- [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012) ![](assets/new.png)  
+- [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) ![](assets/new.png)  
+- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) ![](assets/new.png)  
+- [2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46) ![](assets/new.png)  
+- [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc) ![](assets/new.png)  
 - [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)  
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
@@ -242,11 +247,6 @@
 - [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)  
 - [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
 - [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
-- [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/691c3ffe711afada5ca897a6ea860126)  
-- [2020-05-07-【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)  
-- [2020-05-06-【第1936期】2020前端性能优化清单之三](https://www.ershicimi.com/p/73a677abd3a371da2abce8f1ccc78b9b)  
-- [2020-05-05-【第1935期】2020前端性能优化清单之二](https://www.ershicimi.com/p/3ce79865d833837a2e7773b589989660)  
-- [2020-05-04-【第1934期】前端最佳实践之可维护性](https://www.ershicimi.com/p/af863b07aebb766ef53ee55b1d1fe826)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,7 +1060,9 @@
 </summary>
 
 
-- [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) ![](assets/new.png)  
+- [2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454) ![](assets/new.png)  
+- [2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) ![](assets/new.png)  
+- [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452)  
 - [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450)  
 - [2020-05-20-WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449)  
 - [2020-05-20-有没有好用的云手机的产品，或者能否自己搭建云手机平台](https://www.v2ex.com/t/673448)  
@@ -1078,8 +1080,6 @@
 - [2020-05-20-这算不算是双标行为呢？](https://www.v2ex.com/t/673432)  
 - [2020-05-20-关于国内大学的出口带宽大小问题](https://www.v2ex.com/t/673431)  
 - [2020-05-20-超棒的全平台知识管理（笔记）软件-——-Notion-宣布对个人用户免费了](https://www.v2ex.com/t/673429)  
-- [2020-05-20-京东-149=两年-Plus+1-年腾讯视频](https://www.v2ex.com/t/673428)  
-- [2020-05-20-求职-艰难的一年...Golang/-Python-/DevOps/运维/网络-4-年经验-远程兼职/全职工作-望大佬进来看看...](https://www.v2ex.com/t/673427)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -136,6 +136,7 @@
 - [2020-04-24-dinoql：对本地-JavaScript-对象进行-GraphQL-风格查询](https://javascriptweekly.com/link/63638/web) 
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-19-为什么在-Go-数组array被设计成值，而不跟-C/C++或-Java-一样，设计为一个引用？](https://www.v2ex.com/t/673135) 
 - [2020-05-18-关于前端的闭包和事件解绑问题](https://www.v2ex.com/t/673029) 
 - [2020-05-18-c++11-std::thread-和-std::bind-请教，成员函数的参数是另一个成员函数](https://www.v2ex.com/t/672995) 
 - [2020-05-18-找前端外包，开发表单生成器](https://www.v2ex.com/t/672985) 

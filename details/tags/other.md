@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-19 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-19 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -891,6 +891,18 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-19-MySQL-数据库数据被清空后重新创建了，有大佬知道怎么恢复吗，有偿（没有开启日志，没有备份）](https://www.v2ex.com/t/673104) 
+- [2020-05-19-wox-和-listary-的比较？](https://www.v2ex.com/t/673103) 
+- [2020-05-19-FFMpeg-只显示一行当前状态](https://www.v2ex.com/t/673102) 
+- [2020-05-19-嗯，我就是那个屋里装修预埋的全光路的，感觉现在好麻烦~~~-三组千兆光收发器，费电不说，感觉还不方便](https://www.v2ex.com/t/673101) 
+- [2020-05-19-某团单车系统报错](https://www.v2ex.com/t/673100) 
+- [2020-05-19-提离职申请后被留-3-个星期正常吗???](https://www.v2ex.com/t/673099) 
+- [2020-05-19-这就是美团外卖所谓的“匿名评价”吗？](https://www.v2ex.com/t/673098) 
+- [2020-05-19-感觉对于家用车来说，-0-80km/h-加速时间比-0-100km/h-更有参考价值](https://www.v2ex.com/t/673096) 
+- [2020-05-19-把-Python-Web-项目打包为-EXE-可执行文件，实现了免安装部署一键启动的-MrDoc](https://www.v2ex.com/t/673095) 
+- [2020-05-19-幻-14-终于上市了，听说是板载-8G-内存](https://www.v2ex.com/t/673094) 
+- [2020-05-19-19-毕业的，坐标北京，试用期给-9k，上-12-天修-2-天，是个-15-50-人的小公司，大家见不建议去？](https://www.v2ex.com/t/673092) 
+- [2020-05-19-看版上有想赚第二份收入的，我有个想法靠谱吗](https://www.v2ex.com/t/673091) 
 - [2020-05-19-快手-北上深杭州-内推进行时...](https://www.v2ex.com/t/673090) 
 - [2020-05-19-CF-给自动分配的-IP-和其他-CF-的-IP-有什么区别？](https://www.v2ex.com/t/673089) 
 - [2020-05-19-中央空调在什么情况下会让室内温度升高](https://www.v2ex.com/t/673087) 
@@ -5675,6 +5687,8 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-19-Java-并发编程那些事儿（一）：任务与线程](https://toutiao.io/k/9w9ahw2) 
+- [2020-05-19-为什么-IPv6-难以取代-IPv4](https://toutiao.io/k/pgi3tul) 
 - [2020-05-19-Java-多线程启动为什么调用-start-方法而不是-run-方法？](https://toutiao.io/k/v6xgcg4) 
 - [2020-05-19-Spring-Boot-Admin-简介及实践](https://toutiao.io/k/9zqy36r) 
 - [2020-05-19-我肝了一个月，给你写出了这本-Java-开发手册](https://toutiao.io/k/icr9jz6) 

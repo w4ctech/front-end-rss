@@ -3336,6 +3336,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "都说Vue面试难，到底问什么问题了？",
+        "link": "https://www.ershicimi.com/p/2177c52f8c35f79368e8d80a915c0465",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "推倒 Node 重做，Deno 1.0 来了",
+        "link": "https://www.ershicimi.com/p/35ee501866210cb8425f9cea8e50b9de",
+        "date": "2020-05-19"
+      },
+      {
         "title": "作为前端工程师，工作3年，这些用法竟然还不知道！",
         "link": "https://www.ershicimi.com/p/5b7a604d56ac17b7cb98e6eb8a83afe0",
         "date": "2020-05-18"
@@ -4364,6 +4374,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "React组件逻辑复用的那些事儿",
+        "link": "https://www.ershicimi.com/p/a784ca8e726c2e55a76d7b34f75f7663",
+        "date": "2020-05-19"
+      },
+      {
         "title": "Recoil - Facebook 官方 React 状态管理器",
         "link": "https://www.ershicimi.com/p/3bccaaa828d2f935b36c40d7eb4cb9c4",
         "date": "2020-05-18"
@@ -4657,6 +4672,11 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "Node使用火焰图优化CPU爆涨",
+        "link": "https://www.ershicimi.com/p/c32b1aea612230dff5e9757cb8f9f8c4",
+        "date": "2020-05-19"
+      },
       {
         "title": "Vue3.0 Beta 来了，正式版还会远吗？",
         "link": "https://www.ershicimi.com/p/843b6fa76233a4da0b0ff541b8d1b06c",
@@ -8671,6 +8691,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "MySQL 数据库数据被清空后重新创建了，有大佬知道怎么恢复吗，有偿（没有开启日志，没有备份）",
+        "link": "https://www.v2ex.com/t/673104",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "wox 和 listary 的比较？",
+        "link": "https://www.v2ex.com/t/673103",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "FFMpeg 只显示一行当前状态",
+        "link": "https://www.v2ex.com/t/673102",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "嗯，我就是那个屋里装修预埋的全光路的，感觉现在好麻烦~~~ 三组千兆光收发器，费电不说，感觉还不方便",
+        "link": "https://www.v2ex.com/t/673101",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "某团单车系统报错",
+        "link": "https://www.v2ex.com/t/673100",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "提离职申请后被留 3 个星期正常吗???",
+        "link": "https://www.v2ex.com/t/673099",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "这就是美团外卖所谓的“匿名评价”吗？",
+        "link": "https://www.v2ex.com/t/673098",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "感觉对于家用车来说， 0-80km/h 加速时间比 0-100km/h 更有参考价值",
+        "link": "https://www.v2ex.com/t/673096",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "把 Python Web 项目打包为 EXE 可执行文件，实现了免安装部署一键启动的 MrDoc",
+        "link": "https://www.v2ex.com/t/673095",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "幻 14 终于上市了，听说是板载 8G 内存",
+        "link": "https://www.v2ex.com/t/673094",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "19 毕业的，坐标北京，试用期给 9k，上 12 天修 2 天，是个 15-50 人的小公司，大家见不建议去？",
+        "link": "https://www.v2ex.com/t/673092",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "看版上有想赚第二份收入的，我有个想法靠谱吗",
+        "link": "https://www.v2ex.com/t/673091",
+        "date": "2020-05-19"
+      },
       {
         "title": "快手-北上深杭州-内推进行时...",
         "link": "https://www.v2ex.com/t/673090",
@@ -38960,6 +39040,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Java 并发编程那些事儿（一）：任务与线程",
+        "link": "https://toutiao.io/k/9w9ahw2",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "为什么 IPv6 难以取代 IPv4",
+        "link": "https://toutiao.io/k/pgi3tul",
+        "date": "2020-05-19"
+      },
       {
         "title": "Java 多线程启动为什么调用 start() 方法而不是 run() 方法？",
         "link": "https://toutiao.io/k/v6xgcg4",

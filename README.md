@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-19 14:00:21，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-19 15:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1) ![](assets/new.png)  
 - [2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1)  
 - [2020-05-19-黑龙江高校毕业年级6月1日起返校](http://m.weibo.cn/2656274875/4506265869234168)  
 - [2020-05-19-张文宏说天热可以开空调戴口罩](http://m.weibo.cn/3057540037/4506250082258986)  
@@ -113,7 +114,6 @@
 - [2020-05-18-第73届世界卫生大会今天开幕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1)  
 - [2020-05-18-权威发布！上海市中小学放暑假时间定了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1)  
 - [2020-05-18-阿联酋进一步放宽疫情限制措施-重开公园和海滩人行道](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihtsc1wl9A3vIWZWOpvGF200518&isfromapp=1)  
-- [2020-05-18-与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,9 +146,9 @@
 </summary>
 
 
-- [2020-05-18-手拉手带你开启Vue3.0+Vite开发新世界！](https://www.ershicimi.com/p/c6a06383d7f2087ce89cc5aad2ff1137) ![](assets/new.png)  
-- [2020-05-18-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/72f0be288304b368f857faf1f743d695) ![](assets/new.png)  
-- [2020-05-17-PWA-渐进式：你需要先搞懂这些](https://www.ershicimi.com/p/b265c28ce2535f17f6ff28cf80b9ae15) ![](assets/new.png)  
+- [2020-05-18-手拉手带你开启Vue3.0+Vite开发新世界！](https://www.ershicimi.com/p/c6a06383d7f2087ce89cc5aad2ff1137)  
+- [2020-05-18-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/72f0be288304b368f857faf1f743d695)  
+- [2020-05-17-PWA-渐进式：你需要先搞懂这些](https://www.ershicimi.com/p/b265c28ce2535f17f6ff28cf80b9ae15)  
 - [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/7b312dbd3d6f7b1d0d8f3ed48528c917)  
 - [2020-05-15-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cf3540b93d763893158ae1ece6ce9fc3)  
 - [2020-05-15-别问小程序有哪些框架了，一次性告诉你](https://www.ershicimi.com/p/20553e0fb6b27e435492266aba33f458)  
@@ -476,7 +476,7 @@
 </summary>
 
 
-- [2020-05-19-如何进行-web-性能监控-？](https://www.ershicimi.com/p/5bb22dd966de73d033b1727cb074fe43) ![](assets/new.png)  
+- [2020-05-19-如何进行-web-性能监控-？](https://www.ershicimi.com/p/5bb22dd966de73d033b1727cb074fe43)  
 - [2020-05-18-前端源码架构在拍卖详情页上的探索](https://www.ershicimi.com/p/6e08bd14d5465619c85aeaafeae8bf6e)  
 - [2020-05-17-推荐一位从外包走进腾讯的朋友](https://www.ershicimi.com/p/b34cf71e94f71ab287d43e7a22663e79)  
 - [2020-05-16-Deno-正式发布，彻底弄明白和-node-的区别](https://www.ershicimi.com/p/6ec19a7ab3fdc52042922a893747ec8a)  
@@ -1057,25 +1057,25 @@
 </summary>
 
 
-- [2020-05-19-给-Openstack-贡献代码到底有多难？](https://www.v2ex.com/t/673218) ![](assets/new.png)  
-- [2020-05-19-想请教个问题，我想做一个云盘，怎么防止被追踪到云盘的-IP？](https://www.v2ex.com/t/673217) ![](assets/new.png)  
-- [2020-05-19-无聊时该学什么啊？兄弟们指点迷津啊！](https://www.v2ex.com/t/673216) ![](assets/new.png)  
-- [2020-05-19-mactex-卸载](https://www.v2ex.com/t/673215) ![](assets/new.png)  
-- [2020-05-19-社招内推伴鱼少儿英语-Base-北京](https://www.v2ex.com/t/673214) ![](assets/new.png)  
-- [2020-05-19-滴滴的推送真是烦人](https://www.v2ex.com/t/673213) ![](assets/new.png)  
-- [2020-05-19-某域名注册商提供的-$399-买断-.com-域名服务](https://www.v2ex.com/t/673212) ![](assets/new.png)  
-- [2020-05-19-移动网络无法连接登陆-epic，老哥们有无解决方法？](https://www.v2ex.com/t/673211) ![](assets/new.png)  
-- [2020-05-19-作为一个开发，除了开发工作外，如何在项目里提升自己的重要性](https://www.v2ex.com/t/673210) ![](assets/new.png)  
-- [2020-05-19-工作了这么久，你们身体都有什么“毛病”吗？](https://www.v2ex.com/t/673209) ![](assets/new.png)  
-- [2020-05-19-教人赚钱真的这么赚钱吗？](https://www.v2ex.com/t/673208) ![](assets/new.png)  
-- [2020-05-19-最近大家的机场还能用么？](https://www.v2ex.com/t/673207) ![](assets/new.png)  
-- [2020-05-19-Microsoft-Build-,-Free-Digital-Event](https://www.v2ex.com/t/673206) ![](assets/new.png)  
-- [2020-05-19-问下各位戴眼镜的朋友，在哪验光配镜好呢？](https://www.v2ex.com/t/673205) ![](assets/new.png)  
-- [2020-05-19-头条北京-头条研发-服务端研发工程师-社招/校招/实习-招聘](https://www.v2ex.com/t/673204) ![](assets/new.png)  
-- [2020-05-19-有哪些中文字体是-Linux-、Mac、windows-上同时默认安装的](https://www.v2ex.com/t/673203) ![](assets/new.png)  
-- [2020-05-19-Windows-上-system-virtual-方案選擇（類似-chrrot](https://www.v2ex.com/t/673202) ![](assets/new.png)  
-- [2020-05-19-北京到美西已-OK？](https://www.v2ex.com/t/673201) ![](assets/new.png)  
-- [2020-05-19-有没有网站可以查看各种浏览器可以支持哪些域名后缀](https://www.v2ex.com/t/673200) ![](assets/new.png)  
+- [2020-05-19-给-Openstack-贡献代码到底有多难？](https://www.v2ex.com/t/673218)  
+- [2020-05-19-想请教个问题，我想做一个云盘，怎么防止被追踪到云盘的-IP？](https://www.v2ex.com/t/673217)  
+- [2020-05-19-无聊时该学什么啊？兄弟们指点迷津啊！](https://www.v2ex.com/t/673216)  
+- [2020-05-19-mactex-卸载](https://www.v2ex.com/t/673215)  
+- [2020-05-19-社招内推伴鱼少儿英语-Base-北京](https://www.v2ex.com/t/673214)  
+- [2020-05-19-滴滴的推送真是烦人](https://www.v2ex.com/t/673213)  
+- [2020-05-19-某域名注册商提供的-$399-买断-.com-域名服务](https://www.v2ex.com/t/673212)  
+- [2020-05-19-移动网络无法连接登陆-epic，老哥们有无解决方法？](https://www.v2ex.com/t/673211)  
+- [2020-05-19-作为一个开发，除了开发工作外，如何在项目里提升自己的重要性](https://www.v2ex.com/t/673210)  
+- [2020-05-19-工作了这么久，你们身体都有什么“毛病”吗？](https://www.v2ex.com/t/673209)  
+- [2020-05-19-教人赚钱真的这么赚钱吗？](https://www.v2ex.com/t/673208)  
+- [2020-05-19-最近大家的机场还能用么？](https://www.v2ex.com/t/673207)  
+- [2020-05-19-Microsoft-Build-,-Free-Digital-Event](https://www.v2ex.com/t/673206)  
+- [2020-05-19-问下各位戴眼镜的朋友，在哪验光配镜好呢？](https://www.v2ex.com/t/673205)  
+- [2020-05-19-头条北京-头条研发-服务端研发工程师-社招/校招/实习-招聘](https://www.v2ex.com/t/673204)  
+- [2020-05-19-有哪些中文字体是-Linux-、Mac、windows-上同时默认安装的](https://www.v2ex.com/t/673203)  
+- [2020-05-19-Windows-上-system-virtual-方案選擇（類似-chrrot](https://www.v2ex.com/t/673202)  
+- [2020-05-19-北京到美西已-OK？](https://www.v2ex.com/t/673201)  
+- [2020-05-19-有没有网站可以查看各种浏览器可以支持哪些域名后缀](https://www.v2ex.com/t/673200)  
 - [2020-05-19-iOS-上群晖-DS-file-打开含有中文的-txt-文档显示乱码](https://www.v2ex.com/t/673198)  
 - [......【查看更多】......](./details/V2EX.md)
 
@@ -1119,14 +1119,14 @@
 </summary>
 
 
-- [2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50) ![](assets/new.png)  
-- [2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr) ![](assets/new.png)  
-- [2020-05-19-一个美观可定制主题的服务器监控小程序](https://toutiao.io/k/0lo2wh7) ![](assets/new.png)  
-- [2020-05-19-Traefik-2.0-两层-Traffic-应用实践](https://toutiao.io/k/f7u8hwh) ![](assets/new.png)  
-- [2020-05-19-图的表示与遍历](https://toutiao.io/k/dzwdnrv) ![](assets/new.png)  
-- [2020-05-19-C语言之指针](https://toutiao.io/k/5kh82pf) ![](assets/new.png)  
-- [2020-05-19-译-利用-BPF-来检查-kernel-数据结构内容](https://toutiao.io/k/huex34t) ![](assets/new.png)  
-- [2020-05-19-国际标准化组织发展史](https://toutiao.io/k/hoqbyja) ![](assets/new.png)  
+- [2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50)  
+- [2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr)  
+- [2020-05-19-一个美观可定制主题的服务器监控小程序](https://toutiao.io/k/0lo2wh7)  
+- [2020-05-19-Traefik-2.0-两层-Traffic-应用实践](https://toutiao.io/k/f7u8hwh)  
+- [2020-05-19-图的表示与遍历](https://toutiao.io/k/dzwdnrv)  
+- [2020-05-19-C语言之指针](https://toutiao.io/k/5kh82pf)  
+- [2020-05-19-译-利用-BPF-来检查-kernel-数据结构内容](https://toutiao.io/k/huex34t)  
+- [2020-05-19-国际标准化组织发展史](https://toutiao.io/k/hoqbyja)  
 - [2020-05-19-IO-模型知多少（代码篇）](https://toutiao.io/k/pnlb8lw)  
 - [2020-05-19-数据与广告（二十）：oCPX-大势下标签定向的发展演化](https://toutiao.io/k/1cw94wd)  
 - [2020-05-19-腾讯-Elasticsearch-海量规模背后的内核优化剖析](https://toutiao.io/k/i3k2quk)  

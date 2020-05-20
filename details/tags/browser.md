@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-20-iframe-嵌套如何解决页面通信的跨域问题](https://www.v2ex.com/t/673592) 
 - [2020-05-20-chrome-浏览器在手机上不同步密码的问题你们遇到过吗？](https://www.v2ex.com/t/673574) 
 - [2020-05-20-美区-Paypal-绑定-美区-Apple-id-作为支付方面安全吗？](https://www.v2ex.com/t/673496) 
 - [2020-05-20-winget-香香香](https://www.v2ex.com/t/673455) 
@@ -261,6 +262,7 @@
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-20-如何优雅地调试段错误](https://toutiao.io/k/fsv1g9a) 
 - [2020-05-19-Go-语言实现的小型、动态、快速、安全的脚本语言](https://toutiao.io/k/4wxxro8) 
 - [2020-05-18-带你-100%-地了解-Redis-6.0-的客户端缓存](https://toutiao.io/k/fofzh8e) 
 - [2020-05-17-RecyclerView.ItemAnimator-源码解析](https://toutiao.io/k/xhm72i6) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -55,6 +55,7 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-20-接收简历到邀约面试一般多久](https://www.v2ex.com/t/673594) 
 - [2020-05-19-招聘:-AI-量化投资公司--Data-Engineer--40-60-万+奖金-北京](https://www.v2ex.com/t/673405) 
 - [2020-05-19-PHP-转-go，没面试邀请](https://www.v2ex.com/t/673386) 
 - [2020-05-19-用最少的钱最大程度的剥削,资本家的嗜血性在现阶段的招聘展现的淋漓尽致](https://www.v2ex.com/t/673337) 

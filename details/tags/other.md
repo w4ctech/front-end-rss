@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -324,6 +324,7 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-19-一个二十多岁的程序员提前下班了](https://www.ershicimi.com/p/917e06e15479527e3e0b7cda2b037c6a) 
 - [2020-05-18-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/72f0be288304b368f857faf1f743d695) 
 - [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/7b312dbd3d6f7b1d0d8f3ed48528c917) 
 - [2020-05-14-微信群突然冒出“免费教画画”的女大学生，小心有诈！](https://www.ershicimi.com/p/6d4428777a01a1ff1811321470359288) 
@@ -932,6 +933,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-20-Paypal-还有这个功能？](https://www.v2ex.com/t/673698) 
+- [2020-05-20-Windows-Terminal-1.0-微软大杀器终于在-MS-Build-上发布了](https://www.v2ex.com/t/673697) 
+- [2020-05-20-彩云天气-PRO-安卓版一定要配合华为市场一起用，能不能单独使用呀？](https://www.v2ex.com/t/673696) 
+- [2020-05-20-体验了下国内公司/产品的账户注销流程-知乎，拉勾，赶集](https://www.v2ex.com/t/673694) 
+- [2020-05-20-🎈『活动』Internet-Download-Manager-IDM-极速下载工具](https://www.v2ex.com/t/673691) 
+- [2020-05-20-关于-SQL-Server-监控的问题](https://www.v2ex.com/t/673689) 
+- [2020-05-20-闲鱼上-999-的锐龙-3600-能不能买？](https://www.v2ex.com/t/673688) 
+- [2020-05-20-MacBook-隔空投送到-iphone11-总是失败](https://www.v2ex.com/t/673686) 
+- [2020-05-20-一到节日就掉头发，到底要送程序员男朋友什么礼物](https://www.v2ex.com/t/673685) 
+- [2020-05-20-上-es-版-cpu-翻车了](https://www.v2ex.com/t/673684) 
+- [2020-05-20-杭州下沙开发区有没有出租的](https://www.v2ex.com/t/673682) 
 - [2020-05-20-关闭-6-个月微信个性化推送的广告](https://www.v2ex.com/t/673679) 
 - [2020-05-20-骑驴找马是不是不太好？](https://www.v2ex.com/t/673676) 
 - [2020-05-20-应届生，郑州税前-8k13-薪怎么样啊](https://www.v2ex.com/t/673675) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-20 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,7 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】漫谈Vue3.0的最新技术](https://www.ershicimi.com/p/893d65722b8fbe4de29e39714149c9ac)
 - [【Vue中文社区】手拉手带你开启Vue3.0+Vite开发新世界！](https://www.ershicimi.com/p/c6a06383d7f2087ce89cc5aad2ff1137)
 - [【Vue中文社区】「-如何优雅的使用VUE?-」不可不知的VUE实战技巧](https://www.ershicimi.com/p/535fc7486923a654affb406d326a7268)
 - [【Vue中文社区】Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438)
@@ -94,7 +95,6 @@
 - [【Vue中文社区】12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755)
 - [【Vue中文社区】从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296)
 - [【Vue中文社区】重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6)
-- [【前端早读课】深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -145,6 +145,8 @@
 
 
 
+- [【Vue中文社区】用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/550067a66a0947076fe972655063afa1)
+- [【Vue中文社区】Npm-依赖处理的进化史](https://www.ershicimi.com/p/515d191430cb120d491b0f5335dbd8fd)
 - [【Vue中文社区】轻松优化你的webpack](https://www.ershicimi.com/p/9086220bd36fb6f0ab4cfdeeb8c4de2c)
 - [【Vue中文社区】用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/6bf6dbdf5ef8597e68ab74bcf52fabb3)
 - [【React中文社区】一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6)
@@ -163,8 +165,6 @@
 - [【前端迷】用-Webpack给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/b80df1b1e06bf7ec89fb3ce786da825a)
 - [【前端迷】webpack的几个常见loader源码浅析，以及动手实现一个md2html-loader](https://www.ershicimi.com/p/1b79be08035d903ff042d1822da51eb3)
 - [【全栈前端精选】Webpack-新功能-Module-Federation-深入解析](https://www.ershicimi.com/p/6e199278d786924db288b094f4d0ce3b)
-- [【全栈前端精选】用-Webpack-给自己“打包”，争取做个前端高手](https://www.ershicimi.com/p/c9b0a43ba156bec22c228b099cc1a582)
-- [【政采云前端团队】webpack-dev-middleware-源码解读](https://www.ershicimi.com/p/13cb32b699f788a322cf96a4ed75c45c)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -9167,6 +9167,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "大家会不会看到算法题就恶心？",
+        "link": "https://www.v2ex.com/t/673837",
+        "date": "2020-05-21"
+      },
+      {
         "title": "去年写的一个小 library —— Django 3 不需要额外 worker 的后台任务处理",
         "link": "https://www.v2ex.com/t/673836",
         "date": "2020-05-21"

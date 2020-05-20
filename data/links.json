@@ -1257,6 +1257,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "特朗普称服用羟氯喹是个人选择",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY07Sd5f43Op9fdUAwW6F200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "疫情持续蔓延 中东各国升级防控措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5rVRE432HgijpqQD3TR3200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "土耳其15个省市继续实施旅行限制令 违者罚款",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjevQk6D1x1I3A8cwweD200519&isfromapp=1",
+        "date": "2020-05-19"
+      },
+      {
         "title": "英国养老院新冠肺炎死亡病例超过11000例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1",
         "date": "2020-05-19"
@@ -8891,6 +8906,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "有没有什么工具能比较准确的检测任意网站每天的访问量？",
+        "link": "https://www.v2ex.com/t/673456",
+        "date": "2020-05-20"
+      },
       {
         "title": "winget 香香香",
         "link": "https://www.v2ex.com/t/673455",
@@ -40615,6 +40635,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "10个 解放双手的 IDEA 插件，能自动生成的绝不手写",
+        "link": "https://toutiao.io/k/4ck074k",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "JVM 源码分析之自定义类加载器如何拉长 YGC",
+        "link": "https://toutiao.io/k/nzss8y0",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "Go 语言计时器的使用详解",
+        "link": "https://toutiao.io/k/z0dbza0",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "Android 旗舰机标配的高帧屏 (120Hz)，对各位 App 开发者有什么影响？",
+        "link": "https://toutiao.io/k/9fyadh2",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "零学习成本：使用 Web 标准开发动态化 Flutter 应用",
+        "link": "https://toutiao.io/k/55c94vf",
+        "date": "2020-05-20"
+      },
       {
         "title": "无需编程，也能制作精美页面？没错，这款工具可以！",
         "link": "https://toutiao.io/k/vozg5r6",

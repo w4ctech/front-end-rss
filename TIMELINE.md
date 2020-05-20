@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 08:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-特朗普称服用羟氯喹是个人选择](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY07Sd5f43Op9fdUAwW6F200520&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-疫情持续蔓延-中东各国升级防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5rVRE432HgijpqQD3TR3200520&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-土耳其15个省市继续实施旅行限制令-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjevQk6D1x1I3A8cwweD200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-英国养老院新冠肺炎死亡病例超过11000例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1) 
@@ -833,6 +836,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-20-有没有什么工具能比较准确的检测任意网站每天的访问量？](https://www.v2ex.com/t/673456) 
 - [【V2EX】2020-05-20-winget-香香香](https://www.v2ex.com/t/673455) 
 - [【V2EX】2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454) 
 - [【V2EX】2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) 
@@ -5334,6 +5338,11 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-20-10个-解放双手的-IDEA-插件，能自动生成的绝不手写](https://toutiao.io/k/4ck074k) 
+- [【开发者头条】2020-05-20-JVM-源码分析之自定义类加载器如何拉长-YGC](https://toutiao.io/k/nzss8y0) 
+- [【开发者头条】2020-05-20-Go-语言计时器的使用详解](https://toutiao.io/k/z0dbza0) 
+- [【开发者头条】2020-05-20-Android-旗舰机标配的高帧屏-120Hz，对各位-App-开发者有什么影响？](https://toutiao.io/k/9fyadh2) 
+- [【开发者头条】2020-05-20-零学习成本：使用-Web-标准开发动态化-Flutter-应用](https://toutiao.io/k/55c94vf) 
 - [【开发者头条】2020-05-20-无需编程，也能制作精美页面？没错，这款工具可以！](https://toutiao.io/k/vozg5r6) 
 - [【开发者头条】2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50) 
 - [【开发者头条】2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr) 

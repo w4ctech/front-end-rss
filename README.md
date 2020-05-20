@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 08:30:22，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-20-特朗普称服用羟氯喹是个人选择](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY07Sd5f43Op9fdUAwW6F200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-20-疫情持续蔓延-中东各国升级防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5rVRE432HgijpqQD3TR3200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-19-土耳其15个省市继续实施旅行限制令-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjevQk6D1x1I3A8cwweD200519&isfromapp=1) ![](assets/new.png)  
 - [2020-05-19-英国养老院新冠肺炎死亡病例超过11000例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikx6WdKuCUCZqDpDQaRxA200519&isfromapp=1)  
 - [2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1)  
 - [2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-19-北美观察丨5000亿救助至今闲置-美国会调查出炉引关注](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifgk4CZoS0DErbygJuBfm200519&isfromapp=1)  
 - [2020-05-19-吉林5月19日最新通报：新增5例本地确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit46maq2wrnMzvMrHmHmx200519&isfromapp=1)  
 - [2020-05-19-特朗普：我天天吃抗疟疾药羟氯喹-应对新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAUY7mdUwJp9QsvzzdGZu200519&isfromapp=1)  
-- [2020-05-19-智利新冠肺炎累计确诊46059例-首都大区强制隔离或再延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaxYA3SRSqrzQX2gXqZq200519&isfromapp=1)  
-- [2020-05-19-​摩洛哥宣布将紧急状态延长至6月10日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidbfY2iRc3T9mQRfUd45F200519&isfromapp=1)  
-- [2020-05-19-美国新冠感染病例超过150万](http://m.weibo.cn/2803301701/4506183618955409)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,7 +1060,8 @@
 </summary>
 
 
-- [2020-05-20-winget-香香香](https://www.v2ex.com/t/673455) ![](assets/new.png)  
+- [2020-05-20-有没有什么工具能比较准确的检测任意网站每天的访问量？](https://www.v2ex.com/t/673456) ![](assets/new.png)  
+- [2020-05-20-winget-香香香](https://www.v2ex.com/t/673455)  
 - [2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454)  
 - [2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453)  
 - [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452)  
@@ -1079,7 +1080,6 @@
 - [2020-05-20-良心云的企业用户-2c8g5m-服务器可以免费升级到-4-核了.](https://www.v2ex.com/t/673434)  
 - [2020-05-20-请问是否有平台提供全国疫情风险等级的汇总？](https://www.v2ex.com/t/673433)  
 - [2020-05-20-这算不算是双标行为呢？](https://www.v2ex.com/t/673432)  
-- [2020-05-20-关于国内大学的出口带宽大小问题](https://www.v2ex.com/t/673431)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,7 +1122,12 @@
 </summary>
 
 
-- [2020-05-20-无需编程，也能制作精美页面？没错，这款工具可以！](https://toutiao.io/k/vozg5r6) ![](assets/new.png)  
+- [2020-05-20-10个-解放双手的-IDEA-插件，能自动生成的绝不手写](https://toutiao.io/k/4ck074k) ![](assets/new.png)  
+- [2020-05-20-JVM-源码分析之自定义类加载器如何拉长-YGC](https://toutiao.io/k/nzss8y0) ![](assets/new.png)  
+- [2020-05-20-Go-语言计时器的使用详解](https://toutiao.io/k/z0dbza0) ![](assets/new.png)  
+- [2020-05-20-Android-旗舰机标配的高帧屏-120Hz，对各位-App-开发者有什么影响？](https://toutiao.io/k/9fyadh2) ![](assets/new.png)  
+- [2020-05-20-零学习成本：使用-Web-标准开发动态化-Flutter-应用](https://toutiao.io/k/55c94vf) ![](assets/new.png)  
+- [2020-05-20-无需编程，也能制作精美页面？没错，这款工具可以！](https://toutiao.io/k/vozg5r6)  
 - [2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50)  
 - [2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr)  
 - [2020-05-19-一个美观可定制主题的服务器监控小程序](https://toutiao.io/k/0lo2wh7)  
@@ -1137,11 +1142,6 @@
 - [2020-05-19-Map-集合怎么也有这么多坑？一不小心又踩了好几个](https://toutiao.io/k/85eqh79)  
 - [2020-05-19-分布式存储系统的大体架构](https://toutiao.io/k/si6q63c)  
 - [2020-05-19-Java-并发编程那些事儿（一）：任务与线程](https://toutiao.io/k/9w9ahw2)  
-- [2020-05-19-为什么-IPv6-难以取代-IPv4](https://toutiao.io/k/pgi3tul)  
-- [2020-05-19-Java-多线程启动为什么调用-start-方法而不是-run-方法？](https://toutiao.io/k/v6xgcg4)  
-- [2020-05-19-Spring-Boot-Admin-简介及实践](https://toutiao.io/k/9zqy36r)  
-- [2020-05-19-我肝了一个月，给你写出了这本-Java-开发手册](https://toutiao.io/k/icr9jz6)  
-- [2020-05-19-Go-语言实现的小型、动态、快速、安全的脚本语言](https://toutiao.io/k/4wxxro8)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

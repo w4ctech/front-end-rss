@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 08:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,9 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-20-特朗普称服用羟氯喹是个人选择](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY07Sd5f43Op9fdUAwW6F200520&isfromapp=1) 
+- [2020-05-20-疫情持续蔓延-中东各国升级防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5rVRE432HgijpqQD3TR3200520&isfromapp=1) 
+- [2020-05-19-土耳其15个省市继续实施旅行限制令-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjevQk6D1x1I3A8cwweD200519&isfromapp=1) 
 - [2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1) 
 - [2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1) 
 - [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1) 
@@ -912,6 +915,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-20-有没有什么工具能比较准确的检测任意网站每天的访问量？](https://www.v2ex.com/t/673456) 
 - [2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) 
 - [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) 
 - [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450) 
@@ -5923,6 +5927,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-20-10个-解放双手的-IDEA-插件，能自动生成的绝不手写](https://toutiao.io/k/4ck074k) 
+- [2020-05-20-Go-语言计时器的使用详解](https://toutiao.io/k/z0dbza0) 
+- [2020-05-20-Android-旗舰机标配的高帧屏-120Hz，对各位-App-开发者有什么影响？](https://toutiao.io/k/9fyadh2) 
 - [2020-05-20-无需编程，也能制作精美页面？没错，这款工具可以！](https://toutiao.io/k/vozg5r6) 
 - [2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50) 
 - [2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr) 

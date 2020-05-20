@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 19:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 19:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1) ![](assets/new.png)  
 - [2020-05-20-南非新增新冠肺炎确诊病例767例-累计17200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOFn5dbCGAUFpYfl1nkv200520&isfromapp=1)  
 - [2020-05-20-外交部：中方与140个国家参与“新冠疫情决议”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI3gQooHvgv4orDazyGZn200520&isfromapp=1)  
 - [2020-05-20-两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1)  
 - [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1)  
 - [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1)  
-- [2020-05-19-外交部：美方未批准-导致接留学生临时航班被迫推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAkeBjuRkaSMRJ6iVW1E200519&isfromapp=1)  
-- [2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -741,8 +741,8 @@
 </summary>
 
 
-- [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0) ![](assets/new.png)  
-- [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee) ![](assets/new.png)  
+- [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0)  
+- [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee)  
 - [2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566)  
 - [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183)  
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50)  
@@ -1060,13 +1060,13 @@
 </summary>
 
 
-- [2020-05-20-求安卓工程师长期合作，项目多多，不限工作地点（杭州的最好）。只关注解决问题的的能力~-酬劳好说！联系我-vx:-MTg3NTgwNjM4NTA=](https://www.v2ex.com/t/673740) ![](assets/new.png)  
-- [2020-05-20-2020-现在还有没有加载下一页的浏览器扩展脚本，有那些现在还好用呢？似乎-super_preloaderPlus_one.js-super_prefetcher.js-不太灵光了。](https://www.v2ex.com/t/673739) ![](assets/new.png)  
-- [2020-05-20-「自由职业者平台」有搞头吗](https://www.v2ex.com/t/673738) ![](assets/new.png)  
-- [2020-05-20-小米-ax3600-+ax1800-无线中继体验](https://www.v2ex.com/t/673737) ![](assets/new.png)  
-- [2020-05-20-突然想到一个问题啊，为什么-520-大多是男送礼物给女？](https://www.v2ex.com/t/673736) ![](assets/new.png)  
-- [2020-05-20-把-VSCode-变成-RSS-阅读器](https://www.v2ex.com/t/673734) ![](assets/new.png)  
-- [2020-05-20-生化环材劝退专业在杭州好找工作吗？](https://www.v2ex.com/t/673733) ![](assets/new.png)  
+- [2020-05-20-求安卓工程师长期合作，项目多多，不限工作地点（杭州的最好）。只关注解决问题的的能力~-酬劳好说！联系我-vx:-MTg3NTgwNjM4NTA=](https://www.v2ex.com/t/673740)  
+- [2020-05-20-2020-现在还有没有加载下一页的浏览器扩展脚本，有那些现在还好用呢？似乎-super_preloaderPlus_one.js-super_prefetcher.js-不太灵光了。](https://www.v2ex.com/t/673739)  
+- [2020-05-20-「自由职业者平台」有搞头吗](https://www.v2ex.com/t/673738)  
+- [2020-05-20-小米-ax3600-+ax1800-无线中继体验](https://www.v2ex.com/t/673737)  
+- [2020-05-20-突然想到一个问题啊，为什么-520-大多是男送礼物给女？](https://www.v2ex.com/t/673736)  
+- [2020-05-20-把-VSCode-变成-RSS-阅读器](https://www.v2ex.com/t/673734)  
+- [2020-05-20-生化环材劝退专业在杭州好找工作吗？](https://www.v2ex.com/t/673733)  
 - [2020-05-20-CI/CD-流程自由度高一些好,还是固定化流程好](https://www.v2ex.com/t/673732)  
 - [2020-05-20-啊，手快-rm-了，怎么从进程恢复源文件](https://www.v2ex.com/t/673730)  
 - [2020-05-20-有用-GoLand-2020-的没，问个问题](https://www.v2ex.com/t/673729)  

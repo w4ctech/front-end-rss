@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1) 
 - [2020-05-20-外交部：中方与140个国家参与“新冠疫情决议”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI3gQooHvgv4orDazyGZn200520&isfromapp=1) 
 - [2020-05-20-俄外长：不应将抗疫政治化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiufJa9ZmDq2w0ko8pckKl200520&isfromapp=1) 
 - [2020-05-20-上海今天上午新增1例确诊病例-并公布其活动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhOrrNA6MpGNTLxhgq8R200520&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -11,6 +11,7 @@
 - [2020-05-09-大厂的小程序高性能之路](https://www.ershicimi.com/p/39c467791a00d406534265129f607fe9) 
 - [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
 - [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
+- [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) 
 - [2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) 
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4) 
 - [2020-05-12-主流小程序框架横向对比及使用详解](https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93) 
@@ -42,6 +43,7 @@
 - [2020-04-27-【招聘】诚聘小程序云开发工程师远程-技术大牛到碗里来](https://mp.weixin.qq.com/s/22cc8pUofvhZOaHnbmsKJQ) 
 - [2020-04-24-从零实现一个单词对战游戏-五-实战篇1:-小程序开发环境搭建](https://juejin.im/post/5ea19782e51d4546d83b2791) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-05-20-大家有什么小程序的交流群开发群吗？求拉](https://www.v2ex.com/t/673680) 
 - [2020-05-20-蹲完小程序的开发-来蹲-APP-的开发-#宠物社区产品#](https://www.v2ex.com/t/673642) 
 - [2020-05-20-2020-多端开发的主流技术是什么?-RN/FLUTTER/TARO-选哪个?](https://www.v2ex.com/t/673614) 
 - [2020-05-20-小程序起名踩坑分享](https://www.v2ex.com/t/673438) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -936,6 +936,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-20-南昌有程序员的群吗？](https://www.v2ex.com/t/673744) 
+- [2020-05-20-微软-Powertoys-昨晚更新，新功能有望替代-auto_hotkey。](https://www.v2ex.com/t/673743) 
+- [2020-05-20-饿了么这样宣传？](https://www.v2ex.com/t/673742) 
+- [2020-05-20-上海电信精品网怎么办理](https://www.v2ex.com/t/673741) 
 - [2020-05-20-求安卓工程师长期合作，项目多多，不限工作地点（杭州的最好）。只关注解决问题的的能力~-酬劳好说！联系我-vx:-MTg3NTgwNjM4NTA=](https://www.v2ex.com/t/673740) 
 - [2020-05-20-「自由职业者平台」有搞头吗](https://www.v2ex.com/t/673738) 
 - [2020-05-20-小米-ax3600-+ax1800-无线中继体验](https://www.v2ex.com/t/673737) 

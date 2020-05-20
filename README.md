@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 19:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 20:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1) ![](assets/new.png)  
-- [2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1)  
+- [2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1)  
 - [2020-05-20-南非新增新冠肺炎确诊病例767例-累计17200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOFn5dbCGAUFpYfl1nkv200520&isfromapp=1)  
 - [2020-05-20-外交部：中方与140个国家参与“新冠疫情决议”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI3gQooHvgv4orDazyGZn200520&isfromapp=1)  
 - [2020-05-20-两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1)  
@@ -1060,6 +1060,12 @@
 </summary>
 
 
+- [2020-05-20-竞技世界-竞技游戏的前行者-海量岗位-初、中、高级-各种职位「北京」「待遇绝对匹配能力」](https://www.v2ex.com/t/673747) ![](assets/new.png)  
+- [2020-05-20-职位内推杭州滴滴出行旗下-小桔车服-招聘高级/资深前端](https://www.v2ex.com/t/673745) ![](assets/new.png)  
+- [2020-05-20-南昌有程序员的群吗？](https://www.v2ex.com/t/673744) ![](assets/new.png)  
+- [2020-05-20-微软-Powertoys-昨晚更新，新功能有望替代-auto_hotkey。](https://www.v2ex.com/t/673743) ![](assets/new.png)  
+- [2020-05-20-饿了么这样宣传？](https://www.v2ex.com/t/673742) ![](assets/new.png)  
+- [2020-05-20-上海电信精品网怎么办理](https://www.v2ex.com/t/673741) ![](assets/new.png)  
 - [2020-05-20-求安卓工程师长期合作，项目多多，不限工作地点（杭州的最好）。只关注解决问题的的能力~-酬劳好说！联系我-vx:-MTg3NTgwNjM4NTA=](https://www.v2ex.com/t/673740)  
 - [2020-05-20-2020-现在还有没有加载下一页的浏览器扩展脚本，有那些现在还好用呢？似乎-super_preloaderPlus_one.js-super_prefetcher.js-不太灵光了。](https://www.v2ex.com/t/673739)  
 - [2020-05-20-「自由职业者平台」有搞头吗](https://www.v2ex.com/t/673738)  
@@ -1074,12 +1080,6 @@
 - [2020-05-20-小白菜求装机配置，要求能-60-帧率运行-GTA5-就行](https://www.v2ex.com/t/673727)  
 - [2020-05-20-使用两年的-mbp2017-无-bar-只剩-87%的电池健康度是否正常](https://www.v2ex.com/t/673726)  
 - [2020-05-20-当-MySQL-需要根据聚合的结果排序时，应该如何处理？](https://www.v2ex.com/t/673725)  
-- [2020-05-20-nio-多路复用使用线程池的一个疑问？](https://www.v2ex.com/t/673724)  
-- [2020-05-20-用-VSCode-写-MarkDown-有点抓狂-Markdown-Paste-到底怎么才生效？](https://www.v2ex.com/t/673723)  
-- [2020-05-20-我想问下大家，提醒事项这种-app-用的多吗？](https://www.v2ex.com/t/673722)  
-- [2020-05-20-话说-PHP-分布式事务有什么解决方案？](https://www.v2ex.com/t/673720)  
-- [2020-05-20-有在银行总行做运维的吗，求分享上班日常体验](https://www.v2ex.com/t/673719)  
-- [2020-05-20-招募-杭州-GoLang-开发工程师](https://www.v2ex.com/t/673718)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

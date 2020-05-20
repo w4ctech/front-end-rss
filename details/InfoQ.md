@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-19 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 15:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b) 
+- [2020-05-20-从程序员到CTO都应该了解的技术趋势和选型建议](https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062) 
+- [2020-05-20-618将至，电商企业如何构建“新基建”应对流量洪峰？](https://www.ershicimi.com/p/6082541e63a06cd2d1c6cc0ecec698a0) 
+- [2020-05-20-从x86到ARM，C和C++实现90%代码自动迁移的方法论](https://www.ershicimi.com/p/78117d8eae5bdbd89f6f09a539da47f1) 
+- [2020-05-20-最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304) 
 - [2020-05-19-工作方法不对，10-年努力白费-|-极客时间](https://www.ershicimi.com/p/32a256a766350171fb5825a3e126746d) 
 - [2020-05-19-华为回应美国出口管制新规：无底线且蛮横，予以强烈反对](https://www.ershicimi.com/p/fd6528af4afeca63cc9f62b169a8f7ae) 
 - [2020-05-19-功能无法停止交付，遗留的技术债务问题怎么解决](https://www.ershicimi.com/p/fdc37f31e0e2e4a646060540f167614e) 

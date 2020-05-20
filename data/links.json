@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "俄外长：不应将抗疫政治化",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiufJa9ZmDq2w0ko8pckKl200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "上海今天上午新增1例确诊病例 并公布其活动轨迹",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhOrrNA6MpGNTLxhgq8R200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
         "title": "印度新增新冠肺炎确诊病例5611例 累计确诊106750例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilLIaxFKbq12xRyEneHV1200520&isfromapp=1",
         "date": "2020-05-20"
@@ -7223,6 +7233,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "Zoom停止中国个人用户注册，研发重心向美国转移",
+        "link": "https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "从程序员到CTO都应该了解的技术趋势和选型建议",
+        "link": "https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "618将至，电商企业如何构建“新基建”应对流量洪峰？",
+        "link": "https://www.ershicimi.com/p/6082541e63a06cd2d1c6cc0ecec698a0",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "从x86到ARM，C和C++实现90%代码自动迁移的方法论",
+        "link": "https://www.ershicimi.com/p/78117d8eae5bdbd89f6f09a539da47f1",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "最终，我选择了 GraphQL 作为企业 API 网关",
+        "link": "https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304",
+        "date": "2020-05-20"
+      },
+      {
         "title": "工作方法不对，10 年努力白费 | 极客时间",
         "link": "https://www.ershicimi.com/p/32a256a766350171fb5825a3e126746d",
         "date": "2020-05-19"
@@ -8991,6 +9026,111 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "求 V 友们推荐一家靠谱的 mbp 换屏淘宝店",
+        "link": "https://www.v2ex.com/t/673652",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "同事和我 mac 不一样 但是老是借用的充电器 他用我的充电时电源很烫 请问有影响吗",
+        "link": "https://www.v2ex.com/t/673651",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "我的出路在哪里？无穷尽的迷茫",
+        "link": "https://www.v2ex.com/t/673650",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "数据库有新的记录，我就需要调某接口推送消息，这个该怎么做？",
+        "link": "https://www.v2ex.com/t/673649",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "求职遇到一个问题",
+        "link": "https://www.v2ex.com/t/673648",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "有人知道 36Kr 下面的 Next 产品为什么关站",
+        "link": "https://www.v2ex.com/t/673647",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "请问有什么好用的积分商城吗？",
+        "link": "https://www.v2ex.com/t/673646",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "Serverless 架构下， 3 分钟实现文本敏感词过滤",
+        "link": "https://www.v2ex.com/t/673645",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "如今 26 了，终于下定决心改名字了",
+        "link": "https://www.v2ex.com/t/673644",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "蹲完小程序的开发 来蹲 APP 的开发 #宠物社区产品#",
+        "link": "https://www.v2ex.com/t/673642",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "北京联通的爱奇艺 5 折包年套餐可以办理原续原包年了",
+        "link": "https://www.v2ex.com/t/673640",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "PHP Hyperf 框架和 swoole4 有用过的吗？",
+        "link": "https://www.v2ex.com/t/673639",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "Serverless SSR 在企业应用中的落地探索",
+        "link": "https://www.v2ex.com/t/673638",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "使用 iframe 的 src 向内嵌的页面传递参数，内部使用 href 发现 hash 部分丢失",
+        "link": "https://www.v2ex.com/t/673637",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "国企运维 谈谈体验？",
+        "link": "https://www.v2ex.com/t/673633",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "如何防止电脑屏幕不被拍照和截图？",
+        "link": "https://www.v2ex.com/t/673632",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "阿里云数据库云原生内核团队实习内推，有转正机会",
+        "link": "https://www.v2ex.com/t/673631",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "electron web worker 将上传返回的状态信息插入和更新到数据库中，查询效果比较低",
+        "link": "https://www.v2ex.com/t/673630",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "不同品牌的无线路由有办法实现无线漫游吗？",
+        "link": "https://www.v2ex.com/t/673629",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "大家对 腾讯全资子公司的感官是怎样的，面试难度会降低吗？薪水福利呢？对未来的加持呢？",
+        "link": "https://www.v2ex.com/t/673628",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "想买一把双模 hhkb，有没有大佬知道哪个渠道最便宜呢？",
+        "link": "https://www.v2ex.com/t/673627",
+        "date": "2020-05-20"
+      },
       {
         "title": "重现木兰编程语言（十）——比较、循环，一个语法设计特色",
         "link": "https://www.v2ex.com/t/673626",
@@ -41390,6 +41530,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[译] Keras vs PyTorch，哪一个更适合做深度学习？",
+        "link": "https://toutiao.io/k/a0joflo",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "Python 接口覆盖率集成 GITLAB CI/CD",
+        "link": "https://toutiao.io/k/r4m8bq4",
+        "date": "2020-05-20"
+      },
       {
         "title": "彻底解决 gcr、quay、DockerHub 镜像下载难题",
         "link": "https://toutiao.io/k/0fh4qen",

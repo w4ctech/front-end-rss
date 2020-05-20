@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-20 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -586,6 +586,7 @@
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
+- [【InfoQ】最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304)
 - [【InfoQ】手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
 - [【V2EX】Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399)
@@ -596,7 +597,6 @@
 - [【V2EX】关于一个-Docker-容器宕机后，容器再次启动因-mq-问题启动失败的问题](https://www.v2ex.com/t/672704)
 - [【V2EX】logstash6.5.4-解析-nginx-日志格式报错](https://www.v2ex.com/t/672321)
 - [【V2EX】不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281)
-- [【V2EX】spring-boot-如何优雅地实现-RESTful,统一结果封装有没有必要](https://www.v2ex.com/t/672082)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

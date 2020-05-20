@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 13:30:21，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 14:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 
@@ -1060,25 +1060,25 @@
 </summary>
 
 
-- [2020-05-20-MacBook-开盖后触控板无法使用，解锁后跳出蓝牙设置助理窗口](https://www.v2ex.com/t/673601) ![](assets/new.png)  
-- [2020-05-20-各位拉了千兆的-GPON-光衰都是多少](https://www.v2ex.com/t/673599) ![](assets/new.png)  
-- [2020-05-20-试试投票功能，你现在所使用的密码管理工具](https://www.v2ex.com/t/673598) ![](assets/new.png)  
-- [2020-05-20-终于离开了工作三年的公司，终究还是会有点不舍。](https://www.v2ex.com/t/673597) ![](assets/new.png)  
-- [2020-05-20-互联网出身的不喜欢-db-层面的逻辑,纯当存数据。偏好-mysql；企业服务应用的喜欢在-db-层面搞,还有专门的存储过程开发。偏好-oracle,SQLserver。](https://www.v2ex.com/t/673595) ![](assets/new.png)  
-- [2020-05-20-接收简历到邀约面试一般多久](https://www.v2ex.com/t/673594) ![](assets/new.png)  
-- [2020-05-20-感觉大佬们在电梯跟前总会讨论电梯的调度算法](https://www.v2ex.com/t/673593) ![](assets/new.png)  
-- [2020-05-20-iframe-嵌套如何解决页面通信的跨域问题](https://www.v2ex.com/t/673592) ![](assets/new.png)  
-- [2020-05-20-Sprotect-加壳和网络验证服务](https://www.v2ex.com/t/673590) ![](assets/new.png)  
-- [2020-05-20-618-求推荐轻薄静音手感好延迟低无线键盘](https://www.v2ex.com/t/673589) ![](assets/new.png)  
-- [2020-05-20-cherry-mx-board-1.0-tkl-macOS-无法识别](https://www.v2ex.com/t/673588) ![](assets/new.png)  
-- [2020-05-20-咪咕-kindle-连续阅读-100-天全额返还-468-元，想听听你们的讨论](https://www.v2ex.com/t/673587) ![](assets/new.png)  
-- [2020-05-20-搞了个无聊的小玩意儿，中文域名，解析已经做了是泛解析，自动截取域名最后一级。有今天表白需要解析的朋友嘛？](https://www.v2ex.com/t/673586) ![](assets/new.png)  
-- [2020-05-20-哪里有保持更新的好笑图来源？](https://www.v2ex.com/t/673584) ![](assets/new.png)  
-- [2020-05-20-v-友们现在清北校园，市民可以入内参观么？](https://www.v2ex.com/t/673583) ![](assets/new.png)  
-- [2020-05-20-有主题回复收益，为什么没有主题收藏收益呢？](https://www.v2ex.com/t/673582) ![](assets/new.png)  
-- [2020-05-20-hi，字节跳动前端工程师内推，-base-北京-杭州-都可](https://www.v2ex.com/t/673581) ![](assets/new.png)  
-- [2020-05-20-想入个-2080ti-O11G-大家觉得怎么样？](https://www.v2ex.com/t/673580) ![](assets/new.png)  
-- [2020-05-20-究竟究竟究竟要怎样才能禁止手机安装-apk！](https://www.v2ex.com/t/673579) ![](assets/new.png)  
+- [2020-05-20-MacBook-开盖后触控板无法使用，解锁后跳出蓝牙设置助理窗口](https://www.v2ex.com/t/673601)  
+- [2020-05-20-各位拉了千兆的-GPON-光衰都是多少](https://www.v2ex.com/t/673599)  
+- [2020-05-20-试试投票功能，你现在所使用的密码管理工具](https://www.v2ex.com/t/673598)  
+- [2020-05-20-终于离开了工作三年的公司，终究还是会有点不舍。](https://www.v2ex.com/t/673597)  
+- [2020-05-20-互联网出身的不喜欢-db-层面的逻辑,纯当存数据。偏好-mysql；企业服务应用的喜欢在-db-层面搞,还有专门的存储过程开发。偏好-oracle,SQLserver。](https://www.v2ex.com/t/673595)  
+- [2020-05-20-接收简历到邀约面试一般多久](https://www.v2ex.com/t/673594)  
+- [2020-05-20-感觉大佬们在电梯跟前总会讨论电梯的调度算法](https://www.v2ex.com/t/673593)  
+- [2020-05-20-iframe-嵌套如何解决页面通信的跨域问题](https://www.v2ex.com/t/673592)  
+- [2020-05-20-Sprotect-加壳和网络验证服务](https://www.v2ex.com/t/673590)  
+- [2020-05-20-618-求推荐轻薄静音手感好延迟低无线键盘](https://www.v2ex.com/t/673589)  
+- [2020-05-20-cherry-mx-board-1.0-tkl-macOS-无法识别](https://www.v2ex.com/t/673588)  
+- [2020-05-20-咪咕-kindle-连续阅读-100-天全额返还-468-元，想听听你们的讨论](https://www.v2ex.com/t/673587)  
+- [2020-05-20-搞了个无聊的小玩意儿，中文域名，解析已经做了是泛解析，自动截取域名最后一级。有今天表白需要解析的朋友嘛？](https://www.v2ex.com/t/673586)  
+- [2020-05-20-哪里有保持更新的好笑图来源？](https://www.v2ex.com/t/673584)  
+- [2020-05-20-v-友们现在清北校园，市民可以入内参观么？](https://www.v2ex.com/t/673583)  
+- [2020-05-20-有主题回复收益，为什么没有主题收藏收益呢？](https://www.v2ex.com/t/673582)  
+- [2020-05-20-hi，字节跳动前端工程师内推，-base-北京-杭州-都可](https://www.v2ex.com/t/673581)  
+- [2020-05-20-想入个-2080ti-O11G-大家觉得怎么样？](https://www.v2ex.com/t/673580)  
+- [2020-05-20-究竟究竟究竟要怎样才能禁止手机安装-apk！](https://www.v2ex.com/t/673579)  
 - [2020-05-20-求助:-Windows-ReFS-文件系统让我怀疑人生了](https://www.v2ex.com/t/673578)  
 - [......【查看更多】......](./details/V2EX.md)
 
@@ -1122,10 +1122,12 @@
 </summary>
 
 
-- [2020-05-20-应用开发的流程](https://toutiao.io/k/l85t0c3) ![](assets/new.png)  
-- [2020-05-20-云原生时代消息中间件的演进路线](https://toutiao.io/k/pwjocz2) ![](assets/new.png)  
-- [2020-05-20-CMake-指定编译器](https://toutiao.io/k/5arzxa8) ![](assets/new.png)  
-- [2020-05-20-如何优雅地调试段错误](https://toutiao.io/k/fsv1g9a) ![](assets/new.png)  
+- [2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen) ![](assets/new.png)  
+- [2020-05-20-Java-线程通信之-wait/notify-机制](https://toutiao.io/k/29ntynx) ![](assets/new.png)  
+- [2020-05-20-应用开发的流程](https://toutiao.io/k/l85t0c3)  
+- [2020-05-20-云原生时代消息中间件的演进路线](https://toutiao.io/k/pwjocz2)  
+- [2020-05-20-CMake-指定编译器](https://toutiao.io/k/5arzxa8)  
+- [2020-05-20-如何优雅地调试段错误](https://toutiao.io/k/fsv1g9a)  
 - [2020-05-20-如何克服面试紧张心理-？（面试答题篇Ⅲ）](https://toutiao.io/k/aaxwn0j)  
 - [2020-05-20-CPU-瞒着内存竟干出这种事](https://toutiao.io/k/rub2q9c)  
 - [2020-05-20-WebP-方案分析与实践](https://toutiao.io/k/iqcjhxb)  
@@ -1140,8 +1142,6 @@
 - [2020-05-20-初探在-WSL-中设置-Vim-前端开发环境](https://toutiao.io/k/06kr719)  
 - [2020-05-20-Istio-网关之南北向流量管理（内含服务网格专家亲自解答）](https://toutiao.io/k/1zdryje)  
 - [2020-05-20-Mecha：将-Mesh-进行到底](https://toutiao.io/k/fzj1aqz)  
-- [2020-05-20-10个-解放双手的-IDEA-插件，能自动生成的绝不手写](https://toutiao.io/k/4ck074k)  
-- [2020-05-20-JVM-源码分析之自定义类加载器如何拉长-YGC](https://toutiao.io/k/nzss8y0)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

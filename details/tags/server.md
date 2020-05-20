@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -57,6 +57,7 @@
 - [2020-04-25-nginx-无法停止](https://www.v2ex.com/t/665936) 
 - [2020-04-24-nginx-配置遇到的一个怪事，请教各位](https://www.v2ex.com/t/665745) 
 - [2020-04-24-GraphQL-测试实践-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13398&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fgraphql-test-practice%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen) 
 - [2020-05-18-Docker-网络实现](https://toutiao.io/k/p4xgycl) 
 - [2020-05-16-译-使用-GraphQL-的-6-个月](https://toutiao.io/k/gzkv2cb) 
 - [2020-05-10-Nginx-从入门到实践，万字详解](https://toutiao.io/k/htwrw8g) 

@@ -9167,6 +9167,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Jest 写 unit test，如何 mock 同一个文件中被调用的函数？",
+        "link": "https://www.v2ex.com/t/673841",
+        "date": "2020-05-21"
+      },
+      {
         "title": "为什么我的表单 post 了一个数字，后台接收到之后变成了 string？",
         "link": "https://www.v2ex.com/t/673840",
         "date": "2020-05-21"

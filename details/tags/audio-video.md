@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-20-两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1) 
 - [2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0) 

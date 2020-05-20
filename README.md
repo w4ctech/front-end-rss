@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 15:30:21，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 16:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,16 +44,16 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-20-俄外长：不应将抗疫政治化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiufJa9ZmDq2w0ko8pckKl200520&isfromapp=1) ![](assets/new.png)  
-- [2020-05-20-上海今天上午新增1例确诊病例-并公布其活动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhOrrNA6MpGNTLxhgq8R200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-20-两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-20-俄外长：不应将抗疫政治化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiufJa9ZmDq2w0ko8pckKl200520&isfromapp=1)  
+- [2020-05-20-上海今天上午新增1例确诊病例-并公布其活动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhOrrNA6MpGNTLxhgq8R200520&isfromapp=1)  
 - [2020-05-20-印度新增新冠肺炎确诊病例5611例-累计确诊106750例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilLIaxFKbq12xRyEneHV1200520&isfromapp=1)  
 - [2020-05-20-最高降85%！黑龙江精神类药物大幅降价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLIZB80gSQ80dkRnmoPu9200520&isfromapp=1)  
 - [2020-05-20-隔着玻璃亲吻的战疫情侣结婚啦](http://m.weibo.cn/2803301701/4506602382230549)  
@@ -113,7 +114,6 @@
 - [2020-05-19-确诊感染新冠肺炎的俄罗斯总理米舒斯京重回总理岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin9bHhned0Pf6nc18yYdz200519&isfromapp=1)  
 - [2020-05-19-​欧盟、俄罗斯等国在世卫大会提出决议草案-外交部：望该决议获得通过并得到全面贯彻](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLwj3DeBSHj9MDay6W8u9200519&isfromapp=1)  
 - [2020-05-19-刚果（金）新增新冠肺炎确诊病例91例-累计确诊1629例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixXiDJUZuKrVlmLDFR3uK200519&isfromapp=1)  
-- [2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -853,11 +853,11 @@
 </summary>
 
 
-- [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b) ![](assets/new.png)  
-- [2020-05-20-从程序员到CTO都应该了解的技术趋势和选型建议](https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062) ![](assets/new.png)  
-- [2020-05-20-618将至，电商企业如何构建“新基建”应对流量洪峰？](https://www.ershicimi.com/p/6082541e63a06cd2d1c6cc0ecec698a0) ![](assets/new.png)  
-- [2020-05-20-从x86到ARM，C和C++实现90%代码自动迁移的方法论](https://www.ershicimi.com/p/78117d8eae5bdbd89f6f09a539da47f1) ![](assets/new.png)  
-- [2020-05-20-最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304) ![](assets/new.png)  
+- [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b)  
+- [2020-05-20-从程序员到CTO都应该了解的技术趋势和选型建议](https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062)  
+- [2020-05-20-618将至，电商企业如何构建“新基建”应对流量洪峰？](https://www.ershicimi.com/p/6082541e63a06cd2d1c6cc0ecec698a0)  
+- [2020-05-20-从x86到ARM，C和C++实现90%代码自动迁移的方法论](https://www.ershicimi.com/p/78117d8eae5bdbd89f6f09a539da47f1)  
+- [2020-05-20-最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304)  
 - [2020-05-19-工作方法不对，10-年努力白费-|-极客时间](https://www.ershicimi.com/p/32a256a766350171fb5825a3e126746d)  
 - [2020-05-19-华为回应美国出口管制新规：无底线且蛮横，予以强烈反对](https://www.ershicimi.com/p/fd6528af4afeca63cc9f62b169a8f7ae)  
 - [2020-05-19-功能无法停止交付，遗留的技术债务问题怎么解决](https://www.ershicimi.com/p/fdc37f31e0e2e4a646060540f167614e)  
@@ -1060,26 +1060,26 @@
 </summary>
 
 
-- [2020-05-20-求-V-友们推荐一家靠谱的-mbp-换屏淘宝店](https://www.v2ex.com/t/673652) ![](assets/new.png)  
-- [2020-05-20-同事和我-mac-不一样-但是老是借用的充电器-他用我的充电时电源很烫-请问有影响吗](https://www.v2ex.com/t/673651) ![](assets/new.png)  
-- [2020-05-20-我的出路在哪里？无穷尽的迷茫](https://www.v2ex.com/t/673650) ![](assets/new.png)  
-- [2020-05-20-数据库有新的记录，我就需要调某接口推送消息，这个该怎么做？](https://www.v2ex.com/t/673649) ![](assets/new.png)  
-- [2020-05-20-求职遇到一个问题](https://www.v2ex.com/t/673648) ![](assets/new.png)  
-- [2020-05-20-有人知道-36Kr-下面的-Next-产品为什么关站](https://www.v2ex.com/t/673647) ![](assets/new.png)  
-- [2020-05-20-请问有什么好用的积分商城吗？](https://www.v2ex.com/t/673646) ![](assets/new.png)  
-- [2020-05-20-Serverless-架构下，-3-分钟实现文本敏感词过滤](https://www.v2ex.com/t/673645) ![](assets/new.png)  
-- [2020-05-20-如今-26-了，终于下定决心改名字了](https://www.v2ex.com/t/673644) ![](assets/new.png)  
-- [2020-05-20-蹲完小程序的开发-来蹲-APP-的开发-#宠物社区产品#](https://www.v2ex.com/t/673642) ![](assets/new.png)  
-- [2020-05-20-北京联通的爱奇艺-5-折包年套餐可以办理原续原包年了](https://www.v2ex.com/t/673640) ![](assets/new.png)  
-- [2020-05-20-PHP-Hyperf-框架和-swoole4-有用过的吗？](https://www.v2ex.com/t/673639) ![](assets/new.png)  
-- [2020-05-20-Serverless-SSR-在企业应用中的落地探索](https://www.v2ex.com/t/673638) ![](assets/new.png)  
-- [2020-05-20-使用-iframe-的-src-向内嵌的页面传递参数，内部使用-href-发现-hash-部分丢失](https://www.v2ex.com/t/673637) ![](assets/new.png)  
-- [2020-05-20-国企运维-谈谈体验？](https://www.v2ex.com/t/673633) ![](assets/new.png)  
-- [2020-05-20-如何防止电脑屏幕不被拍照和截图？](https://www.v2ex.com/t/673632) ![](assets/new.png)  
-- [2020-05-20-阿里云数据库云原生内核团队实习内推，有转正机会](https://www.v2ex.com/t/673631) ![](assets/new.png)  
-- [2020-05-20-electron-web-worker-将上传返回的状态信息插入和更新到数据库中，查询效果比较低](https://www.v2ex.com/t/673630) ![](assets/new.png)  
-- [2020-05-20-不同品牌的无线路由有办法实现无线漫游吗？](https://www.v2ex.com/t/673629) ![](assets/new.png)  
-- [2020-05-20-大家对-腾讯全资子公司的感官是怎样的，面试难度会降低吗？薪水福利呢？对未来的加持呢？](https://www.v2ex.com/t/673628) ![](assets/new.png)  
+- [2020-05-20-求-V-友们推荐一家靠谱的-mbp-换屏淘宝店](https://www.v2ex.com/t/673652)  
+- [2020-05-20-同事和我-mac-不一样-但是老是借用的充电器-他用我的充电时电源很烫-请问有影响吗](https://www.v2ex.com/t/673651)  
+- [2020-05-20-我的出路在哪里？无穷尽的迷茫](https://www.v2ex.com/t/673650)  
+- [2020-05-20-数据库有新的记录，我就需要调某接口推送消息，这个该怎么做？](https://www.v2ex.com/t/673649)  
+- [2020-05-20-求职遇到一个问题](https://www.v2ex.com/t/673648)  
+- [2020-05-20-有人知道-36Kr-下面的-Next-产品为什么关站](https://www.v2ex.com/t/673647)  
+- [2020-05-20-请问有什么好用的积分商城吗？](https://www.v2ex.com/t/673646)  
+- [2020-05-20-Serverless-架构下，-3-分钟实现文本敏感词过滤](https://www.v2ex.com/t/673645)  
+- [2020-05-20-如今-26-了，终于下定决心改名字了](https://www.v2ex.com/t/673644)  
+- [2020-05-20-蹲完小程序的开发-来蹲-APP-的开发-#宠物社区产品#](https://www.v2ex.com/t/673642)  
+- [2020-05-20-北京联通的爱奇艺-5-折包年套餐可以办理原续原包年了](https://www.v2ex.com/t/673640)  
+- [2020-05-20-PHP-Hyperf-框架和-swoole4-有用过的吗？](https://www.v2ex.com/t/673639)  
+- [2020-05-20-Serverless-SSR-在企业应用中的落地探索](https://www.v2ex.com/t/673638)  
+- [2020-05-20-使用-iframe-的-src-向内嵌的页面传递参数，内部使用-href-发现-hash-部分丢失](https://www.v2ex.com/t/673637)  
+- [2020-05-20-国企运维-谈谈体验？](https://www.v2ex.com/t/673633)  
+- [2020-05-20-如何防止电脑屏幕不被拍照和截图？](https://www.v2ex.com/t/673632)  
+- [2020-05-20-阿里云数据库云原生内核团队实习内推，有转正机会](https://www.v2ex.com/t/673631)  
+- [2020-05-20-electron-web-worker-将上传返回的状态信息插入和更新到数据库中，查询效果比较低](https://www.v2ex.com/t/673630)  
+- [2020-05-20-不同品牌的无线路由有办法实现无线漫游吗？](https://www.v2ex.com/t/673629)  
+- [2020-05-20-大家对-腾讯全资子公司的感官是怎样的，面试难度会降低吗？薪水福利呢？对未来的加持呢？](https://www.v2ex.com/t/673628)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 </summary>
 
 
-- [2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo) ![](assets/new.png)  
-- [2020-05-20-Python-接口覆盖率集成-GITLAB-CI/CD](https://toutiao.io/k/r4m8bq4) ![](assets/new.png)  
+- [2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo)  
+- [2020-05-20-Python-接口覆盖率集成-GITLAB-CI/CD](https://toutiao.io/k/r4m8bq4)  
 - [2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen)  
 - [2020-05-20-Java-线程通信之-wait/notify-机制](https://toutiao.io/k/29ntynx)  
 - [2020-05-20-应用开发的流程](https://toutiao.io/k/l85t0c3)  

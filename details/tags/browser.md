@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,6 +47,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-20-Mac-新手，安装了-edge-浏览器之后登录微软账号提示出错，请问是什么原因导致的？](https://www.v2ex.com/t/673772) 
 - [2020-05-20-北京-奇虎-360-核心业务-安全大脑-诚聘-高级/资深-Web-前端/后端/服务端开发工程师](https://www.v2ex.com/t/673760) 
 - [2020-05-20-微软给-Win-带来自家的包管理器-winget，代替-scoop-和-choco](https://www.v2ex.com/t/673704) 
 - [2020-05-20-iframe-嵌套如何解决页面通信的跨域问题](https://www.v2ex.com/t/673592) 

@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 20:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 21:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-20-日本4月便利店销售额减少10.6%-创​跌幅纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8gOgHrqk4EVoalBdWJZ200520&isfromapp=1) ![](assets/new.png)  
 - [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1)  
 - [2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1)  
 - [2020-05-20-南非新增新冠肺炎确诊病例767例-累计17200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOFn5dbCGAUFpYfl1nkv200520&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-19-新加坡不会延长新冠病毒阻断措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOo7oxu7JULjUZD3Ai0oJ200519&isfromapp=1)  
 - [2020-05-19-香港全国人大代表和全国政协委员检测结果全部为阴性-将前往北京参加全国两会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOn9dm0swalDqqCQs2JwY200519&isfromapp=1)  
 - [2020-05-19-广东要求每个县​5月底前至少具备一家独立开展核酸检测县级医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqkMMKoDT8BPHZYK7ajdw200519&isfromapp=1)  
-- [2020-05-19-日本新增24例新冠肺炎确诊病例-累计确诊16391例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkhF3FlOvfJLl963IT8A200519&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -258,6 +258,10 @@
 </summary>
 
 
+- [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) ![](assets/new.png)  
+- [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) ![](assets/new.png)  
+- [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) ![](assets/new.png)  
+- [2020-05-19-面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～](https://www.ershicimi.com/p/29a38618f120b8a95bec7919e4e3f54f) ![](assets/new.png)  
 - [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5)  
 - [2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f)  
 - [2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091)  
@@ -274,10 +278,6 @@
 - [2020-05-11-你可能已经忽略的-git-commit-规范](https://www.ershicimi.com/p/2dd70744f7834a7aacdb4be9d9623961)  
 - [2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8)  
 - [2020-05-10-前端开发的第一款情侣衫长什么样？](https://www.ershicimi.com/p/350248f3582de73ef6639b5b516b5a28)  
-- [2020-05-09-面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/4b34e36d6541d19eaebfa855c690a294)  
-- [2020-05-08-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/8010f1af8eb364b24290c495bef1fb3a)  
-- [2020-05-08-5-个技巧助你编写更好的-React-代码](https://www.ershicimi.com/p/1133e9ab6affda43e066cf2187b91d6a)  
-- [2020-05-07-「面试心理学」面试前的思考](https://www.ershicimi.com/p/c348c54e3ecc2c988d10af960cfdb442)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,26 +1060,26 @@
 </summary>
 
 
-- [2020-05-20-字节跳动飞书北京、杭州、武汉、广州、深圳、上海-六地诚招各个方向的研发岗位，海量-hc，极速响应~](https://www.v2ex.com/t/673754) ![](assets/new.png)  
-- [2020-05-20-盛趣游戏](https://www.v2ex.com/t/673753) ![](assets/new.png)  
-- [2020-05-20-实习生项目经历应该怎么写？](https://www.v2ex.com/t/673752) ![](assets/new.png)  
-- [2020-05-20-就品质而言，华为、小米、联想，谁家的-笔记本、台式机-更耐用呢？](https://www.v2ex.com/t/673751) ![](assets/new.png)  
-- [2020-05-20-有一个发现不知道对不对](https://www.v2ex.com/t/673750) ![](assets/new.png)  
-- [2020-05-20-安卓微信-7.0.14-出现复制链接后链接不对问题](https://www.v2ex.com/t/673749) ![](assets/new.png)  
-- [2020-05-20-既然-macbook-电池那么容易鼓，苹果为什么没有出相关措施，帮助用户避免呢？莫非他们希望用户电脑早点坏，好买新的？](https://www.v2ex.com/t/673748) ![](assets/new.png)  
+- [2020-05-20-有偿求助-Ocserv-白名单问题](https://www.v2ex.com/t/673763) ![](assets/new.png)  
+- [2020-05-20-上海-张江高科-OpsMind-诚招-Golang-后端工程师、交付工程师](https://www.v2ex.com/t/673762) ![](assets/new.png)  
+- [2020-05-20-北京-奇虎-360-核心业务-安全大脑-诚聘-高级/资深-Web-前端/后端/服务端开发工程师](https://www.v2ex.com/t/673760) ![](assets/new.png)  
+- [2020-05-20-竞技世界-海量-HC-初、中、高级-各种职位「北京」「待遇绝对匹配能力」](https://www.v2ex.com/t/673759) ![](assets/new.png)  
+- [2020-05-20-V2-坚持每天签到。签到了三四年年。](https://www.v2ex.com/t/673758) ![](assets/new.png)  
+- [2020-05-20-电路板-很便宜吗？](https://www.v2ex.com/t/673756) ![](assets/new.png)  
+- [2020-05-20-极客返利|极客时间-《微信小程序全栈开发实战》新人几乎免费送](https://www.v2ex.com/t/673755) ![](assets/new.png)  
+- [2020-05-20-字节跳动飞书北京、杭州、武汉、广州、深圳、上海-六地诚招各个方向的研发岗位，海量-hc，极速响应~](https://www.v2ex.com/t/673754)  
+- [2020-05-20-盛趣游戏](https://www.v2ex.com/t/673753)  
+- [2020-05-20-实习生项目经历应该怎么写？](https://www.v2ex.com/t/673752)  
+- [2020-05-20-就品质而言，华为、小米、联想，谁家的-笔记本、台式机-更耐用呢？](https://www.v2ex.com/t/673751)  
+- [2020-05-20-有一个发现不知道对不对](https://www.v2ex.com/t/673750)  
+- [2020-05-20-安卓微信-7.0.14-出现复制链接后链接不对问题](https://www.v2ex.com/t/673749)  
+- [2020-05-20-既然-macbook-电池那么容易鼓，苹果为什么没有出相关措施，帮助用户避免呢？莫非他们希望用户电脑早点坏，好买新的？](https://www.v2ex.com/t/673748)  
 - [2020-05-20-竞技世界-竞技游戏的前行者-海量岗位-初、中、高级-各种职位「北京」「待遇绝对匹配能力」](https://www.v2ex.com/t/673747)  
 - [2020-05-20-职位内推杭州滴滴出行旗下-小桔车服-招聘高级/资深前端](https://www.v2ex.com/t/673745)  
 - [2020-05-20-南昌有程序员的群吗？](https://www.v2ex.com/t/673744)  
 - [2020-05-20-微软-Powertoys-昨晚更新，新功能有望替代-auto_hotkey。](https://www.v2ex.com/t/673743)  
 - [2020-05-20-饿了么这样宣传？](https://www.v2ex.com/t/673742)  
 - [2020-05-20-上海电信精品网怎么办理](https://www.v2ex.com/t/673741)  
-- [2020-05-20-求安卓工程师长期合作，项目多多，不限工作地点（杭州的最好）。只关注解决问题的的能力~-酬劳好说！联系我-vx:-MTg3NTgwNjM4NTA=](https://www.v2ex.com/t/673740)  
-- [2020-05-20-2020-现在还有没有加载下一页的浏览器扩展脚本，有那些现在还好用呢？似乎-super_preloaderPlus_one.js-super_prefetcher.js-不太灵光了。](https://www.v2ex.com/t/673739)  
-- [2020-05-20-「自由职业者平台」有搞头吗](https://www.v2ex.com/t/673738)  
-- [2020-05-20-小米-ax3600-+ax1800-无线中继体验](https://www.v2ex.com/t/673737)  
-- [2020-05-20-突然想到一个问题啊，为什么-520-大多是男送礼物给女？](https://www.v2ex.com/t/673736)  
-- [2020-05-20-把-VSCode-变成-RSS-阅读器](https://www.v2ex.com/t/673734)  
-- [2020-05-20-生化环材劝退专业在杭州好找工作吗？](https://www.v2ex.com/t/673733)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-日本4月便利店销售额减少10.6%-创​跌幅纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8gOgHrqk4EVoalBdWJZ200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-南非新增新冠肺炎确诊病例767例-累计17200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOFn5dbCGAUFpYfl1nkv200520&isfromapp=1) 
@@ -400,6 +401,10 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
+- [【前端大全】2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
+- [【前端大全】2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) 
+- [【前端大全】2020-05-19-面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～](https://www.ershicimi.com/p/29a38618f120b8a95bec7919e4e3f54f) 
 - [【前端大全】2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
 - [【前端大全】2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f) 
 - [【前端大全】2020-05-17-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/64c3506edac068c75fe0853e0c3c1091) 
@@ -876,6 +881,13 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-20-有偿求助-Ocserv-白名单问题](https://www.v2ex.com/t/673763) 
+- [【V2EX】2020-05-20-上海-张江高科-OpsMind-诚招-Golang-后端工程师、交付工程师](https://www.v2ex.com/t/673762) 
+- [【V2EX】2020-05-20-北京-奇虎-360-核心业务-安全大脑-诚聘-高级/资深-Web-前端/后端/服务端开发工程师](https://www.v2ex.com/t/673760) 
+- [【V2EX】2020-05-20-竞技世界-海量-HC-初、中、高级-各种职位「北京」「待遇绝对匹配能力」](https://www.v2ex.com/t/673759) 
+- [【V2EX】2020-05-20-V2-坚持每天签到。签到了三四年年。](https://www.v2ex.com/t/673758) 
+- [【V2EX】2020-05-20-电路板-很便宜吗？](https://www.v2ex.com/t/673756) 
+- [【V2EX】2020-05-20-极客返利|极客时间-《微信小程序全栈开发实战》新人几乎免费送](https://www.v2ex.com/t/673755) 
 - [【V2EX】2020-05-20-字节跳动飞书北京、杭州、武汉、广州、深圳、上海-六地诚招各个方向的研发岗位，海量-hc，极速响应~](https://www.v2ex.com/t/673754) 
 - [【V2EX】2020-05-20-盛趣游戏](https://www.v2ex.com/t/673753) 
 - [【V2EX】2020-05-20-实习生项目经历应该怎么写？](https://www.v2ex.com/t/673752) 

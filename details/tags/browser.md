@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -11,6 +11,7 @@
 - [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html) 
 - [2020-04-24-Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec) 
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7) 
+- [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) 
 - [2020-05-18-无形中提高工作效率的-Chrome-插件](https://www.ershicimi.com/p/ca0247ae5fc7144323c6f621e694574f) 
 - [2020-05-10-我最终还是从-Chrome-换到了-Firefox](https://www.ershicimi.com/p/93218fde20c18c2adede0b62d75d5bb8) 
 - [2020-04-30-手写一个-WebSocket-协议](https://www.ershicimi.com/p/1a9632129d84499b4ef7a4f57345e2ff) 
@@ -46,6 +47,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-20-北京-奇虎-360-核心业务-安全大脑-诚聘-高级/资深-Web-前端/后端/服务端开发工程师](https://www.v2ex.com/t/673760) 
 - [2020-05-20-微软给-Win-带来自家的包管理器-winget，代替-scoop-和-choco](https://www.v2ex.com/t/673704) 
 - [2020-05-20-iframe-嵌套如何解决页面通信的跨域问题](https://www.v2ex.com/t/673592) 
 - [2020-05-20-chrome-浏览器在手机上不同步密码的问题你们遇到过吗？](https://www.v2ex.com/t/673574) 

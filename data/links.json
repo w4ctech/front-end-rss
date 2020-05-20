@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "日本4月便利店销售额减少10.6% 创​跌幅纪录",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8gOgHrqk4EVoalBdWJZ200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
         "title": "国际锐评丨无惧疫情“大考” 中国经济加速恢复",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1",
         "date": "2020-05-20"
@@ -3013,6 +3018,26 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "程序员一大误区：盲目求追新技术，说的是你吗？",
+        "link": "https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "执行上下文/作用域链/闭包/一等公民",
+        "link": "https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "趣图：揭秘 Chrome 怪兽吃内存的样子",
+        "link": "https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～",
+        "link": "https://www.ershicimi.com/p/29a38618f120b8a95bec7919e4e3f54f",
+        "date": "2020-05-19"
+      },
       {
         "title": "前端就不需要掌握算法与数据结构？",
         "link": "https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5",
@@ -9106,6 +9131,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "有偿求助 Ocserv 白名单问题",
+        "link": "https://www.v2ex.com/t/673763",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "[上海-张江高科] OpsMind 诚招 Golang 后端工程师、交付工程师",
+        "link": "https://www.v2ex.com/t/673762",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "[北京] [奇虎 360] [核心业务] [安全大脑] 诚聘 高级/资深 Web 前端/后端/服务端开发工程师",
+        "link": "https://www.v2ex.com/t/673760",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "竞技世界 海量 HC 初、中、高级 各种职位「北京」「待遇绝对匹配能力」",
+        "link": "https://www.v2ex.com/t/673759",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "V2 坚持每天签到。签到了三四年年。",
+        "link": "https://www.v2ex.com/t/673758",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "电路板 很便宜吗？",
+        "link": "https://www.v2ex.com/t/673756",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "极客返利|极客时间 《微信小程序全栈开发实战》新人几乎免费送",
+        "link": "https://www.v2ex.com/t/673755",
+        "date": "2020-05-20"
+      },
       {
         "title": "[字节跳动飞书][北京、杭州、武汉、广州、深圳、上海] 六地诚招各个方向的研发岗位，海量 hc，极速响应~",
         "link": "https://www.v2ex.com/t/673754",

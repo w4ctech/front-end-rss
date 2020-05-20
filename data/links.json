@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "南非新增新冠肺炎确诊病例767例 累计17200例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOFn5dbCGAUFpYfl1nkv200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "外交部：中方与140个国家参与“新冠疫情决议”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI3gQooHvgv4orDazyGZn200520&isfromapp=1",
+        "date": "2020-05-20"
+      },
+      {
         "title": "两会采访方式有变化！网络视频采访成为大会新亮点",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1",
         "date": "2020-05-20"
@@ -9076,6 +9086,71 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "请问 zuul2 和 spring-cloud-gateway 这种基于 netty 的非阻塞技术的网关，是否意味着 `@Autowired HttpServletRequest request` 再也用不了了？",
+        "link": "https://www.v2ex.com/t/673711",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "刚刚刷了下 boss，感觉自己老了",
+        "link": "https://www.v2ex.com/t/673710",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "这里好冷清，想问下有没有什么 angular 论坛比较火热的？",
+        "link": "https://www.v2ex.com/t/673709",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "拥有 20 个小区快递代收点资源，怎么变现？",
+        "link": "https://www.v2ex.com/t/673708",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "note.pad++的官网新闻把我给弄懵了",
+        "link": "https://www.v2ex.com/t/673707",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "奋斗 B 之都 公司欠薪 疫情失业 30 岁码农何去何从？",
+        "link": "https://www.v2ex.com/t/673706",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "无法把绿色背景、白色图标的图像设为微信头像，是个例还是微信就这么霸道？",
+        "link": "https://www.v2ex.com/t/673705",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "微软给 Win 带来自家的包管理器 winget，代替 scoop 和 choco",
+        "link": "https://www.v2ex.com/t/673704",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "全栈工程师必备技能，使用 severless 云服务快速掌握小程序开发能力",
+        "link": "https://www.v2ex.com/t/673703",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "企业数字化转型：用 SpreadJS 打造互通互链的电力系统物联网",
+        "link": "https://www.v2ex.com/t/673702",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "分享一个替代 TagLyst 标签功能的 Quicker 动作",
+        "link": "https://www.v2ex.com/t/673701",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "请问下对 C++离线 sdk 做授权以及加密/混淆，有什么好的方案吗？？",
+        "link": "https://www.v2ex.com/t/673700",
+        "date": "2020-05-20"
+      },
+      {
+        "title": "关于 double 和 float，这篇文章描述的够清楚吗？",
+        "link": "https://www.v2ex.com/t/673699",
+        "date": "2020-05-20"
+      },
       {
         "title": "Paypal 还有这个功能？",
         "link": "https://www.v2ex.com/t/673698",

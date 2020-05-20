@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -40,6 +40,7 @@
 - [2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-05-20-在-Docker-centos-7.8-容器中安装-gitea-和直接使用-gitea-容器，性能有差别吗？](https://www.v2ex.com/t/673499) 
 - [2020-05-18-flask-本地环境-测试-post-加载慢](https://www.v2ex.com/t/673038) 
 - [2020-05-17-前端打算跳槽,大佬们能帮忙看看简历哪里需要优化吗？感激不尽](https://www.v2ex.com/t/672672) 
 - [2020-05-17-求个杭州的测试工作，或者大家帮我看看简历可不可以优化下？](https://www.v2ex.com/t/672599) 

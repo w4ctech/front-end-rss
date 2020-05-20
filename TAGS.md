@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-20 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -264,6 +264,7 @@
 - [【奇舞周刊】奇舞周刊第-348-期：-Flutter-Web-最新进展](https://www.ershicimi.com/p/d06ff0caff8e0fa0aad8d277626d6245)
 - [【InfoQ】Flutter-1.17-重磅发布：多个新增特性及增强，2020-年首个稳定版](https://www.ershicimi.com/p/ddf42d1bee3e08b1354dd76611296152)
 - [【InfoQ】Flutter有局限，拥抱Swift！优酷Mac迁移Swift实践](https://www.ershicimi.com/p/b8d8f68b17b449c070c7754e7fe6e39d)
+- [【V2EX】Flutter-Weekly-Issue-56](https://www.v2ex.com/t/673577)
 - [【V2EX】flutter-怎么释放事件](https://www.v2ex.com/t/673351)
 - [【V2EX】有支持-PWA-的快递查询服务嘛？](https://www.v2ex.com/t/672921)
 - [【V2EX】远程，还是双语邦的云-Team----再求优秀-Flutter-程序员](https://www.v2ex.com/t/672608)
@@ -272,7 +273,6 @@
 - [【V2EX】有没有什么值得参考的-Flutter-和-Android-原生开源应用呢？](https://www.v2ex.com/t/671862)
 - [【V2EX】最近几天抽空在学习-Flutter，收集了一些资料教程，放在语雀,分享给大家-。](https://www.v2ex.com/t/671800)
 - [【V2EX】送三本《PWA-入门与实践》](https://www.v2ex.com/t/671752)
-- [【V2EX】学了-Flutter-后做项目练手，结果发现我掉坑里了](https://www.v2ex.com/t/671694)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -24,6 +24,7 @@
 - [2020-04-18-Web前端性能优化原理问题](https://www.ershicimi.com/p/24fc2a2edd2bbb1cac8f447e46db8ee1) 
 - [2020-05-19-如何进行-web-性能监控-？](https://www.ershicimi.com/p/5bb22dd966de73d033b1727cb074fe43) 
 - [2020-04-26-移动端体验优化经验总结与实践](https://www.ershicimi.com/p/a37bb1c23216fcd10b9264f028a9feeb) 
+- [2020-05-20-web性能优化监控分析神器【Web-Performance-Timing-API】](https://www.ershicimi.com/p/07d8cff3c0e0e7a823470948a4085967) 
 - [2020-04-29-项目不知道如何做性能优化？不妨试一下代码分割](https://www.ershicimi.com/p/ff2cf2e94e2c23273ac49451edbecc44) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 

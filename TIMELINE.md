@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -833,6 +833,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-20-winget-香香香](https://www.v2ex.com/t/673455) 
 - [【V2EX】2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454) 
 - [【V2EX】2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) 
 - [【V2EX】2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452) 
@@ -5333,6 +5334,7 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-20-无需编程，也能制作精美页面？没错，这款工具可以！](https://toutiao.io/k/vozg5r6) 
 - [【开发者头条】2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50) 
 - [【开发者头条】2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr) 
 - [【开发者头条】2020-05-19-一个美观可定制主题的服务器监控小程序](https://toutiao.io/k/0lo2wh7) 

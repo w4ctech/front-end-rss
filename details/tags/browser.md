@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-20-winget-香香香](https://www.v2ex.com/t/673455) 
 - [2020-05-20-WinUI-3.0-Preview-1-发布了，现在可以用于-Win32-应用](https://www.v2ex.com/t/673418) 
 - [2020-05-19-云浏览器概念？](https://www.v2ex.com/t/673368) 
 - [2020-05-19-不知道最近怎么回事，-mac-的-chrome-总是莫名其妙多出一个-bright-start-的插件，然后首页和搜索引擎就被劫持成-qsearch。](https://www.v2ex.com/t/673325) 

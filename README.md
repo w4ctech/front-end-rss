@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 07:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -227,11 +227,11 @@
 </summary>
 
 
-- [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012) ![](assets/new.png)  
-- [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) ![](assets/new.png)  
-- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) ![](assets/new.png)  
-- [2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46) ![](assets/new.png)  
-- [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc) ![](assets/new.png)  
+- [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)  
+- [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a)  
+- [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a)  
+- [2020-05-19-【第1949期】-代码之上：落地-GraphQL-背后的故事](https://www.ershicimi.com/p/f8318feba083898c7a6a41e728a5db46)  
+- [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc)  
 - [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)  
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
@@ -1060,8 +1060,9 @@
 </summary>
 
 
-- [2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454) ![](assets/new.png)  
-- [2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453) ![](assets/new.png)  
+- [2020-05-20-winget-香香香](https://www.v2ex.com/t/673455) ![](assets/new.png)  
+- [2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454)  
+- [2020-05-20-一个线上/线下网课互助学习模式：全网网课学习的二手贩子](https://www.v2ex.com/t/673453)  
 - [2020-05-20-Windows-官方软件包管理器推出](https://www.v2ex.com/t/673452)  
 - [2020-05-20-虚幻引擎-5，-4K-画质-PS5-实机演示](https://www.v2ex.com/t/673450)  
 - [2020-05-20-WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449)  
@@ -1079,7 +1080,6 @@
 - [2020-05-20-请问是否有平台提供全国疫情风险等级的汇总？](https://www.v2ex.com/t/673433)  
 - [2020-05-20-这算不算是双标行为呢？](https://www.v2ex.com/t/673432)  
 - [2020-05-20-关于国内大学的出口带宽大小问题](https://www.v2ex.com/t/673431)  
-- [2020-05-20-超棒的全平台知识管理（笔记）软件-——-Notion-宣布对个人用户免费了](https://www.v2ex.com/t/673429)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,6 +1122,7 @@
 </summary>
 
 
+- [2020-05-20-无需编程，也能制作精美页面？没错，这款工具可以！](https://toutiao.io/k/vozg5r6) ![](assets/new.png)  
 - [2020-05-19-复杂风控场景下，如何打造一款高效的规则引擎](https://toutiao.io/k/ane6e50)  
 - [2020-05-19-CODING-敏捷实战系列课第五讲：敏捷中国史](https://toutiao.io/k/9h6ersr)  
 - [2020-05-19-一个美观可定制主题的服务器监控小程序](https://toutiao.io/k/0lo2wh7)  
@@ -1141,7 +1142,6 @@
 - [2020-05-19-Spring-Boot-Admin-简介及实践](https://toutiao.io/k/9zqy36r)  
 - [2020-05-19-我肝了一个月，给你写出了这本-Java-开发手册](https://toutiao.io/k/icr9jz6)  
 - [2020-05-19-Go-语言实现的小型、动态、快速、安全的脚本语言](https://toutiao.io/k/4wxxro8)  
-- [2020-05-19-尝尝鲜：Spark-3.1-自适应执行计划](https://toutiao.io/k/1tggwao)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

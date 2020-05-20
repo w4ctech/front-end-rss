@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,9 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1) 
+- [2020-05-20-西班牙政府强制6岁以上民众佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRYPuTQnBfDugfKYoOswp200520&isfromapp=1) 
+- [2020-05-20-韩国复课第一天-多所学校“喊停”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTGySfcNgXMMjgxjEeIlB200520&isfromapp=1) 
 - [2020-05-20-日本4月便利店销售额减少10.6%-创​跌幅纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8gOgHrqk4EVoalBdWJZ200520&isfromapp=1) 
 - [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1) 
 - [2020-05-20-外交部：中方与140个国家参与“新冠疫情决议”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI3gQooHvgv4orDazyGZn200520&isfromapp=1) 
@@ -942,6 +945,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-20-求职-珠三角求一份硬件测试工程师职位](https://www.v2ex.com/t/673806) 
+- [2020-05-20-如何看待微信读书开始给无限阅读卡用户推送广告](https://www.v2ex.com/t/673805) 
+- [2020-05-20-有什么办法可以迁移-Google-Photo-的照片](https://www.v2ex.com/t/673804) 
+- [2020-05-20-秒杀的系统设计](https://www.v2ex.com/t/673803) 
+- [2020-05-20-毕业快一年了，如何才能系统性地来总结自己呢？](https://www.v2ex.com/t/673801) 
 - [2020-05-20-电脑端微信登陆之后，手机微信提醒不及时或者不提醒](https://www.v2ex.com/t/673800) 
 - [2020-05-20-华硕-AC86U-有线断连，是少设置什么吗？](https://www.v2ex.com/t/673799) 
 - [2020-05-20-有没有可能做一台同时运行双系统的-PC-机？](https://www.v2ex.com/t/673798) 

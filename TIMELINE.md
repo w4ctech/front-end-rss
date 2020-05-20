@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-西班牙政府强制6岁以上民众佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRYPuTQnBfDugfKYoOswp200520&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-韩国复课第一天-多所学校“喊停”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTGySfcNgXMMjgxjEeIlB200520&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-电视主播+电商主播-全国“双播”直播带货邀请赛火热开启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisIlAil879yhN13nfUzAE200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-日本4月便利店销售额减少10.6%-创​跌幅纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8gOgHrqk4EVoalBdWJZ200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1) 
@@ -884,6 +888,13 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-20-终于把京东送的腾讯视频会员绑定到了老婆账号上……](https://www.v2ex.com/t/673807) 
+- [【V2EX】2020-05-20-求职-珠三角求一份硬件测试工程师职位](https://www.v2ex.com/t/673806) 
+- [【V2EX】2020-05-20-如何看待微信读书开始给无限阅读卡用户推送广告](https://www.v2ex.com/t/673805) 
+- [【V2EX】2020-05-20-有什么办法可以迁移-Google-Photo-的照片](https://www.v2ex.com/t/673804) 
+- [【V2EX】2020-05-20-秒杀的系统设计](https://www.v2ex.com/t/673803) 
+- [【V2EX】2020-05-20-elasticsearch-IK-分词怎么无效呀？](https://www.v2ex.com/t/673802) 
+- [【V2EX】2020-05-20-毕业快一年了，如何才能系统性地来总结自己呢？](https://www.v2ex.com/t/673801) 
 - [【V2EX】2020-05-20-电脑端微信登陆之后，手机微信提醒不及时或者不提醒](https://www.v2ex.com/t/673800) 
 - [【V2EX】2020-05-20-华硕-AC86U-有线断连，是少设置什么吗？](https://www.v2ex.com/t/673799) 
 - [【V2EX】2020-05-20-有没有可能做一台同时运行双系统的-PC-机？](https://www.v2ex.com/t/673798) 

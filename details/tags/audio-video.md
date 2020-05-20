@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-20-电视主播+电商主播-全国“双播”直播带货邀请赛火热开启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisIlAil879yhN13nfUzAE200520&isfromapp=1) 
 - [2020-05-20-两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1) 
 - [2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
@@ -28,6 +29,7 @@
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-20-终于把京东送的腾讯视频会员绑定到了老婆账号上……](https://www.v2ex.com/t/673807) 
 - [2020-05-20-杭州-招个-3-年左右，热爱学习的，最好熟悉-OpenGL、音视频的-Android-同事](https://www.v2ex.com/t/673779) 
 - [2020-05-20-无法把绿色背景、白色图标的图像设为微信头像，是个例还是微信就这么霸道？](https://www.v2ex.com/t/673705) 
 - [2020-05-20-出京东-plus-联名腾讯视频-vip](https://www.v2ex.com/t/673611) 

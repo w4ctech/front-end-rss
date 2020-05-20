@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -33,6 +33,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-20-elasticsearch-IK-分词怎么无效呀？](https://www.v2ex.com/t/673802) 
 - [2020-05-20-用-VSCode-写-MarkDown-有点抓狂-Markdown-Paste-到底怎么才生效？](https://www.v2ex.com/t/673723) 
 - [2020-05-20-请问-zuul2-和-spring-cloud-gateway-这种基于-netty-的非阻塞技术的网关，是否意味着-`@Autowired-HttpServletRequest-request`-再也用不了了？](https://www.v2ex.com/t/673711) 
 - [2020-05-20-机器学习算法评估指标——2D-目标检测](https://www.v2ex.com/t/673690) 

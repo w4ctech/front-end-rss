@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 03:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 04:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -945,6 +945,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-《命令与征服》重置版将以-GPL-3.0-协议开放部分源代码](https://www.v2ex.com/t/673834) 
+- [2020-05-21-可远程兼职：招-PHP-／-Linux-工程师](https://www.v2ex.com/t/673833) 
+- [2020-05-21-iOS-13.5-released](https://www.v2ex.com/t/673832) 
 - [2020-05-21-Evernote-导入-Notion-失败何故呢？](https://www.v2ex.com/t/673831) 
 - [2020-05-21-V-站的隐私设置-不被搜索引擎收录这个选项貌似不咋好使](https://www.v2ex.com/t/673830) 
 - [2020-05-21-setapp-车位一个](https://www.v2ex.com/t/673829) 

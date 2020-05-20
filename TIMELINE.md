@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 03:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-21 04:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -888,6 +888,9 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-21-《命令与征服》重置版将以-GPL-3.0-协议开放部分源代码](https://www.v2ex.com/t/673834) 
+- [【V2EX】2020-05-21-可远程兼职：招-PHP-／-Linux-工程师](https://www.v2ex.com/t/673833) 
+- [【V2EX】2020-05-21-iOS-13.5-released](https://www.v2ex.com/t/673832) 
 - [【V2EX】2020-05-21-Evernote-导入-Notion-失败何故呢？](https://www.v2ex.com/t/673831) 
 - [【V2EX】2020-05-21-V-站的隐私设置-不被搜索引擎收录这个选项貌似不咋好使](https://www.v2ex.com/t/673830) 
 - [【V2EX】2020-05-21-setapp-车位一个](https://www.v2ex.com/t/673829) 

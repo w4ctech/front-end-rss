@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 14:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 14:30:21，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -476,6 +476,8 @@
 </summary>
 
 
+- [2020-05-20-Node.js-搭建一个-API-接口服务实战](https://www.ershicimi.com/p/d4415ff744f216f39b3764ce395d20a3) ![](assets/new.png)  
+- [2020-05-20-出镜率最高的大佬公众号](https://www.ershicimi.com/p/3bf31285df46a171bb22ef4d686c7c1e) ![](assets/new.png)  
 - [2020-05-19-如何进行-web-性能监控-？](https://www.ershicimi.com/p/5bb22dd966de73d033b1727cb074fe43)  
 - [2020-05-18-前端源码架构在拍卖详情页上的探索](https://www.ershicimi.com/p/6e08bd14d5465619c85aeaafeae8bf6e)  
 - [2020-05-17-推荐一位从外包走进腾讯的朋友](https://www.ershicimi.com/p/b34cf71e94f71ab287d43e7a22663e79)  
@@ -494,8 +496,6 @@
 - [2020-05-06-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/2b242790142b8cde52599c8ec77997d6)  
 - [2020-05-06-【万字长文】深入理解-Typescript-高级用法](https://www.ershicimi.com/p/b388ae9f0394ef6fdc78a667e795f3c2)  
 - [2020-05-05-12个前端必会-H5-问题及解决方法](https://www.ershicimi.com/p/b347b11b68c0c4a8fd1b3231fa670fda)  
-- [2020-05-04-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/ba6d63d622cb150af6a4bcc0e88d3833)  
-- [2020-05-03-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,26 +1060,26 @@
 </summary>
 
 
-- [2020-05-20-MacBook-开盖后触控板无法使用，解锁后跳出蓝牙设置助理窗口](https://www.v2ex.com/t/673601)  
-- [2020-05-20-各位拉了千兆的-GPON-光衰都是多少](https://www.v2ex.com/t/673599)  
-- [2020-05-20-试试投票功能，你现在所使用的密码管理工具](https://www.v2ex.com/t/673598)  
-- [2020-05-20-终于离开了工作三年的公司，终究还是会有点不舍。](https://www.v2ex.com/t/673597)  
-- [2020-05-20-互联网出身的不喜欢-db-层面的逻辑,纯当存数据。偏好-mysql；企业服务应用的喜欢在-db-层面搞,还有专门的存储过程开发。偏好-oracle,SQLserver。](https://www.v2ex.com/t/673595)  
-- [2020-05-20-接收简历到邀约面试一般多久](https://www.v2ex.com/t/673594)  
-- [2020-05-20-感觉大佬们在电梯跟前总会讨论电梯的调度算法](https://www.v2ex.com/t/673593)  
-- [2020-05-20-iframe-嵌套如何解决页面通信的跨域问题](https://www.v2ex.com/t/673592)  
-- [2020-05-20-Sprotect-加壳和网络验证服务](https://www.v2ex.com/t/673590)  
-- [2020-05-20-618-求推荐轻薄静音手感好延迟低无线键盘](https://www.v2ex.com/t/673589)  
-- [2020-05-20-cherry-mx-board-1.0-tkl-macOS-无法识别](https://www.v2ex.com/t/673588)  
-- [2020-05-20-咪咕-kindle-连续阅读-100-天全额返还-468-元，想听听你们的讨论](https://www.v2ex.com/t/673587)  
-- [2020-05-20-搞了个无聊的小玩意儿，中文域名，解析已经做了是泛解析，自动截取域名最后一级。有今天表白需要解析的朋友嘛？](https://www.v2ex.com/t/673586)  
-- [2020-05-20-哪里有保持更新的好笑图来源？](https://www.v2ex.com/t/673584)  
-- [2020-05-20-v-友们现在清北校园，市民可以入内参观么？](https://www.v2ex.com/t/673583)  
-- [2020-05-20-有主题回复收益，为什么没有主题收藏收益呢？](https://www.v2ex.com/t/673582)  
-- [2020-05-20-hi，字节跳动前端工程师内推，-base-北京-杭州-都可](https://www.v2ex.com/t/673581)  
-- [2020-05-20-想入个-2080ti-O11G-大家觉得怎么样？](https://www.v2ex.com/t/673580)  
-- [2020-05-20-究竟究竟究竟要怎样才能禁止手机安装-apk！](https://www.v2ex.com/t/673579)  
-- [2020-05-20-求助:-Windows-ReFS-文件系统让我怀疑人生了](https://www.v2ex.com/t/673578)  
+- [2020-05-20-重现木兰编程语言（十）——比较、循环，一个语法设计特色](https://www.v2ex.com/t/673626) ![](assets/new.png)  
+- [2020-05-20-想装一台式机，求一个攒机清单](https://www.v2ex.com/t/673625) ![](assets/new.png)  
+- [2020-05-20-从-Python-启动另一个程序，这个程序在单独窗口运行，而不是在当前窗口，就是实现双击打开的效果](https://www.v2ex.com/t/673624) ![](assets/new.png)  
+- [2020-05-20-矩池云如何一键切换切换软件源](https://www.v2ex.com/t/673623) ![](assets/new.png)  
+- [2020-05-20-带无线充电的-USB-C-扩展坞有人用过么](https://www.v2ex.com/t/673622) ![](assets/new.png)  
+- [2020-05-20-v2-首贴，有些迷茫，请教一下各位](https://www.v2ex.com/t/673621) ![](assets/new.png)  
+- [2020-05-20-为什么总感觉-hotmail-比-gmail-慢一拍？不论是网页加载，还是页面内操作](https://www.v2ex.com/t/673620) ![](assets/new.png)  
+- [2020-05-20-艺卓的-ev2450-真的有用吗？](https://www.v2ex.com/t/673619) ![](assets/new.png)  
+- [2020-05-20-有没有人知道浙江速网电子商务有限公司](https://www.v2ex.com/t/673618) ![](assets/new.png)  
+- [2020-05-20-各位新买的-macbook，底座上的-4-个黑色圆角，-对角线位置能互相看到吗？怀疑电池鼓了](https://www.v2ex.com/t/673617) ![](assets/new.png)  
+- [2020-05-20-请问-Python-如何高效的在大量文本里面搜索匹配大量词](https://www.v2ex.com/t/673615) ![](assets/new.png)  
+- [2020-05-20-2020-多端开发的主流技术是什么?-RN/FLUTTER/TARO-选哪个?](https://www.v2ex.com/t/673614) ![](assets/new.png)  
+- [2020-05-20-毛不易-x-B-站-新歌《后浪》，不知道大家听完怎么想的？](https://www.v2ex.com/t/673613) ![](assets/new.png)  
+- [2020-05-20-出京东-plus-联名腾讯视频-vip](https://www.v2ex.com/t/673611) ![](assets/new.png)  
+- [2020-05-20-蚂蚁金服诚聘资深-Java-研发、-Go-研发、容器调度、流量调度-SRE（周末双休）](https://www.v2ex.com/t/673610) ![](assets/new.png)  
+- [2020-05-20-ntt-是他们自己国内也炸吗](https://www.v2ex.com/t/673609) ![](assets/new.png)  
+- [2020-05-20-A-股分红是不是圈套](https://www.v2ex.com/t/673608) ![](assets/new.png)  
+- [2020-05-20-70-出一个京东送的-TX-视频会员](https://www.v2ex.com/t/673607) ![](assets/new.png)  
+- [2020-05-20-难顶，一个人独处久了，不知道和异性聊什么。](https://www.v2ex.com/t/673606) ![](assets/new.png)  
+- [2020-05-20-友情提醒-出京东联名腾讯会员的注意了](https://www.v2ex.com/t/673605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1091,6 +1091,7 @@
 </summary>
 
 
+- [2020-05-20-读懂这几个关键词，你就能了解-Docker-啦-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13463&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F142224080%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-19-从X86指令深扒JVM的位移操作-club.perfma.com](https://blogread.cn/news/go.php?idItem=13462&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F620015%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-18-利用-ViewBinding-和反射封装的基类，从此再也不用-findViewById-了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13461&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_7JGaJuUSd8SFQbTl6zwLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-18-什么是整洁的代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13460&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoAIp27uEL9EhT1-8-dKRVg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1110,7 +1111,6 @@
 - [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 </summary>
 
 
-- [2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen) ![](assets/new.png)  
-- [2020-05-20-Java-线程通信之-wait/notify-机制](https://toutiao.io/k/29ntynx) ![](assets/new.png)  
+- [2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen)  
+- [2020-05-20-Java-线程通信之-wait/notify-机制](https://toutiao.io/k/29ntynx)  
 - [2020-05-20-应用开发的流程](https://toutiao.io/k/l85t0c3)  
 - [2020-05-20-云原生时代消息中间件的演进路线](https://toutiao.io/k/pwjocz2)  
 - [2020-05-20-CMake-指定编译器](https://toutiao.io/k/5arzxa8)  

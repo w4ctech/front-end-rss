@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -27,6 +27,8 @@
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 
 - [2020-04-21-女婴因「趴睡训练」憋死，谁是这场「杀人直播」的始作俑者？](https://www.ershicimi.com/p/c15d40eb3490443c3867a3081496d517) 
+- [2020-05-20-出京东-plus-联名腾讯视频-vip](https://www.v2ex.com/t/673611) 
+- [2020-05-20-70-出一个京东送的-TX-视频会员](https://www.v2ex.com/t/673607) 
 - [2020-05-20-发布一个开源-Android-短视频-SDK,-满足-Android-音视频大部分需求-github:-https://github.com/wlanjie/trinity](https://www.v2ex.com/t/673557) 
 - [2020-05-20-有没有啥硬件能够微信视频的，之前看到微信有个叫啥的？](https://www.v2ex.com/t/673547) 
 - [2020-05-20-在线视频压缩---极速视频压缩---2G-视频-5-分钟压缩完](https://www.v2ex.com/t/673505) 

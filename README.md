@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-20 12:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-20 13:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-20-印度新增新冠肺炎确诊病例5611例-累计确诊106750例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilLIaxFKbq12xRyEneHV1200520&isfromapp=1) ![](assets/new.png)  
+- [2020-05-20-最高降85%！黑龙江精神类药物大幅降价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLIZB80gSQ80dkRnmoPu9200520&isfromapp=1) ![](assets/new.png)  
 - [2020-05-20-隔着玻璃亲吻的战疫情侣结婚啦](http://m.weibo.cn/2803301701/4506602382230549)  
 - [2020-05-20-韩国高三年级学生今起返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijqbdSB0x8mzgGi0RLtzW200520&isfromapp=1)  
 - [2020-05-20-澳门特区全国人大代表和全国政协委员启程赴京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPmpPmfHy6d1ngPP4sNk200520&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-19-央视快评丨携手共建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8bL0K4K7kd6KGExWCRI3200519&isfromapp=1)  
 - [2020-05-19-日本或将禁止转卖酒精消毒液等防疫用品](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cVKfwcz3dcZ5cUu10uD200519&isfromapp=1)  
 - [2020-05-19-黑龙江高校毕业年级6月1日起返校](http://m.weibo.cn/2656274875/4506265869234168)  
-- [2020-05-19-张文宏说天热可以开空调戴口罩](http://m.weibo.cn/3057540037/4506250082258986)  
-- [2020-05-19-这些行业的人士请注意！到内地工作后返回香港现可申请豁免强制检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFwwQyag7N75YeGVXTlFh200519&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,12 +1060,12 @@
 </summary>
 
 
-- [2020-05-20-求助:-Windows-ReFS-文件系统让我怀疑人生了](https://www.v2ex.com/t/673578) ![](assets/new.png)  
-- [2020-05-20-Flutter-Weekly-Issue-56](https://www.v2ex.com/t/673577) ![](assets/new.png)  
-- [2020-05-20-上海-米哈游社招内推～-520-快乐](https://www.v2ex.com/t/673575) ![](assets/new.png)  
-- [2020-05-20-chrome-浏览器在手机上不同步密码的问题你们遇到过吗？](https://www.v2ex.com/t/673574) ![](assets/new.png)  
-- [2020-05-20-腾讯-TIM-占-CPU-一半，有没有什么办法？](https://www.v2ex.com/t/673572) ![](assets/new.png)  
-- [2020-05-20-字节跳动北京诚招各类研发工程师后端前端APP算法推荐工程测开，-HC-充足，职位长期有效](https://www.v2ex.com/t/673571) ![](assets/new.png)  
+- [2020-05-20-求助:-Windows-ReFS-文件系统让我怀疑人生了](https://www.v2ex.com/t/673578)  
+- [2020-05-20-Flutter-Weekly-Issue-56](https://www.v2ex.com/t/673577)  
+- [2020-05-20-上海-米哈游社招内推～-520-快乐](https://www.v2ex.com/t/673575)  
+- [2020-05-20-chrome-浏览器在手机上不同步密码的问题你们遇到过吗？](https://www.v2ex.com/t/673574)  
+- [2020-05-20-腾讯-TIM-占-CPU-一半，有没有什么办法？](https://www.v2ex.com/t/673572)  
+- [2020-05-20-字节跳动北京诚招各类研发工程师后端前端APP算法推荐工程测开，-HC-充足，职位长期有效](https://www.v2ex.com/t/673571)  
 - [2020-05-20-lintcode-题解-一致性哈希-II-·-Consistent-Hashing-II](https://www.v2ex.com/t/673570)  
 - [2020-05-20-Apple-教育优惠可以和折抵优惠一起使用吗？](https://www.v2ex.com/t/673569)  
 - [2020-05-20-大家是如何预防恶意诋毁自己的网友或者现实中的人](https://www.v2ex.com/t/673568)  

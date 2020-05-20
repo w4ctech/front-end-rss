@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-20 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-印度新增新冠肺炎确诊病例5611例-累计确诊106750例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilLIaxFKbq12xRyEneHV1200520&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-最高降85%！黑龙江精神类药物大幅降价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLIZB80gSQ80dkRnmoPu9200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-隔着玻璃亲吻的战疫情侣结婚啦](http://m.weibo.cn/2803301701/4506602382230549) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-韩国高三年级学生今起返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijqbdSB0x8mzgGi0RLtzW200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-澳门特区全国人大代表和全国政协委员启程赴京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPmpPmfHy6d1ngPP4sNk200520&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-20 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-20 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-20-最高降85%！黑龙江精神类药物大幅降价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLIZB80gSQ80dkRnmoPu9200520&isfromapp=1) 
 - [2020-05-20-隔着玻璃亲吻的战疫情侣结婚啦](http://m.weibo.cn/2803301701/4506602382230549) 
 - [2020-05-20-韩国高三年级学生今起返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijqbdSB0x8mzgGi0RLtzW200520&isfromapp=1) 
 - [2020-05-20-澳门特区全国人大代表和全国政协委员启程赴京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPmpPmfHy6d1ngPP4sNk200520&isfromapp=1) 

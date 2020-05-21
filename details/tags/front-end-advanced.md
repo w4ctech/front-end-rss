@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,6 +17,7 @@
 - [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f) 
 - [2020-04-24-当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813) 
 - [2020-05-04-网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1) 
+- [2020-05-21-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/7ac59b591315b060373ebd2fceb1c862) 
 - [2020-05-21-刷题两个月，终于进了梦寐以求的大厂，数据结构与算法太重要了！](https://www.ershicimi.com/p/6f986d8ed2f0cfafc6683ff57fe92fc8) 
 - [2020-05-15-我接触过的前端数据结构与算法](https://www.ershicimi.com/p/310f723762ec8cdd32c9933dda020603) 
 - [2020-05-13-前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707) 
@@ -34,6 +35,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-21-家宽-HTTPS-TLS-握手之后会有-15-秒的等待，是被运营商劣化了么？](https://www.v2ex.com/t/673974) 
 - [2020-05-21-请问-Mac-的外置-egpu-体验怎么样？](https://www.v2ex.com/t/673951) 
 - [2020-05-21-百度内推-🔥🔥算法/工程/产品/设计/运营各类岗位急速内推，实时反馈~~](https://www.v2ex.com/t/673907) 
 - [2020-05-21-常数算法复杂度问题](https://www.v2ex.com/t/673890) 

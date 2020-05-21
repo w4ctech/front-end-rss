@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-21 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -411,12 +411,12 @@
 - [【奇舞周刊】世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】远程职位-产品经理、高级-3D-软件工程师以及更多精选岗位](https://www.v2ex.com/t/673981)
 - [【V2EX】WSL-2-计划支持-Linux-GUI-应用-可和-Windows-应用同时使用](https://www.v2ex.com/t/673604)
 - [【V2EX】WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454)
 - [【V2EX】WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449)
 - [【V2EX】为何抓包的这个动态发布-api-没有用户信息-超级课表的接口-!Imgurhttps://i.imgur.com/B14t6x3.png](https://www.v2ex.com/t/673070)
 - [【V2EX】3D-建模电脑清单](https://www.v2ex.com/t/672607)
-- [【V2EX】Swift-on-Server-Deployment-Guide](https://www.v2ex.com/t/672479)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -551,6 +551,7 @@
 - [【前端之巅】2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)
 - [【前端之巅】当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813)
 - [【前端迷】网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1)
+- [【全栈前端精选】全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/7ac59b591315b060373ebd2fceb1c862)
 - [【前端瓶子君】刷题两个月，终于进了梦寐以求的大厂，数据结构与算法太重要了！](https://www.ershicimi.com/p/6f986d8ed2f0cfafc6683ff57fe92fc8)
 - [【前端瓶子君】我接触过的前端数据结构与算法](https://www.ershicimi.com/p/310f723762ec8cdd32c9933dda020603)
 - [【前端瓶子君】前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707)
@@ -560,7 +561,6 @@
 - [【前端瓶子君】前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43)
 - [【前端瓶子君】去大厂面试问我算法，我该怎么办？](https://www.ershicimi.com/p/26dfe376c652a76ddeed36a02bf63786)
 - [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
-- [【凹凸实验室】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

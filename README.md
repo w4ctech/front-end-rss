@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 23:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 23:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-21-柬埔寨新冠肺炎病例“清零”一个多月后再次发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbPT3FRaVg4UxSK0V5Dy200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-俄外交部：欧盟对俄罗斯传播新冠疫情虚假信息的指责手段卑劣](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw8Ph0Gm1qm34ZE3AB7Ng200521&isfromapp=1) ![](assets/new.png)  
 - [2020-05-21-印度最大贫民窟新增47例新冠肺炎确诊病例-累计1425例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq59RWtbRWTb2ZK7dyLrW200521&isfromapp=1)  
 - [2020-05-21-法新社：欧洲已经有超过17万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC5bnlij5tB6NYcyxX7t7200521&isfromapp=1)  
 - [2020-05-21-​英国将向民众提供免费新冠病毒抗体测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivH1kvixoq3MLoTtN1g1W200521&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-21-湖北武汉7万余名初三学生正式返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir7zEJpGx3VAk9ZeBjB4x200521&isfromapp=1)  
 - [2020-05-21-世卫称尚未发现羟氯喹对治疗新冠肺炎有效](http://m.weibo.cn/3057540037/4506964786472859)  
 - [2020-05-21-世卫组织称超120个新冠疫苗正在开发](http://m.weibo.cn/3057540037/4506949688036580)  
-- [2020-05-21-第十届世界家庭医生日云直播活动在上海举行](http://wsjkw.sh.gov.cn/xwfb/20200520/b45df353891d4bec8db048ae97562117.html)  
-- [2020-05-21-截至5月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202005/7be4e0b23c9441dcb9d0f6e6c0b1f4ae.shtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1029,9 +1029,9 @@
 </summary>
 
 
-- [2020-05-21-知乎好问题：抖音是否正在摧毁当代女性的价值观？](https://www.ershicimi.com/p/a9bafadf2c6303f6827245c08727c65a) ![](assets/new.png)  
-- [2020-05-21-视频有奖征集活动-|-今天也是爱你的一天](https://www.ershicimi.com/p/a78dfab9b31ad51d865a81d78708beac) ![](assets/new.png)  
-- [2020-05-21-知乎故事-|-每个女生都有被偷走的那-10-年](https://www.ershicimi.com/p/ce6d89198c6ba8e6f0e36105f394f441) ![](assets/new.png)  
+- [2020-05-21-知乎好问题：抖音是否正在摧毁当代女性的价值观？](https://www.ershicimi.com/p/a9bafadf2c6303f6827245c08727c65a)  
+- [2020-05-21-视频有奖征集活动-|-今天也是爱你的一天](https://www.ershicimi.com/p/a78dfab9b31ad51d865a81d78708beac)  
+- [2020-05-21-知乎故事-|-每个女生都有被偷走的那-10-年](https://www.ershicimi.com/p/ce6d89198c6ba8e6f0e36105f394f441)  
 - [2020-05-20-我-也-爱-你](https://www.ershicimi.com/p/0108618e83b768e5f988d539011a7b82)  
 - [2020-05-20-单身的人就不能过-520-了吗？！](https://www.ershicimi.com/p/c1b64e55945503ec539a7344c72cf11d)  
 - [2020-05-20-知乎故事-|-情侣太早同居会怎么样？](https://www.ershicimi.com/p/aff36c26633c51606ee6a7b6e533ad9c)  
@@ -1060,26 +1060,26 @@
 </summary>
 
 
-- [2020-05-21-Python-爬虫的活，有感兴趣接活的么。](https://www.v2ex.com/t/674199) ![](assets/new.png)  
-- [2020-05-21-询价，去年-11-月购入的-mbp-16-寸-能卖多少](https://www.v2ex.com/t/674198) ![](assets/new.png)  
-- [2020-05-21-&*这种写法是什么意思？](https://www.v2ex.com/t/674197) ![](assets/new.png)  
-- [2020-05-21-关于-golang-在-mac-上的环境变量设置](https://www.v2ex.com/t/674196) ![](assets/new.png)  
-- [2020-05-21-hexo-简约主题-hexo-theme-pureness](https://www.v2ex.com/t/674195) ![](assets/new.png)  
-- [2020-05-21-上海电信-4g-网络居然是-Full-cone](https://www.v2ex.com/t/674194) ![](assets/new.png)  
-- [2020-05-21-2016-16-Macbook-pro,-16G+256G-出手](https://www.v2ex.com/t/674192) ![](assets/new.png)  
-- [2020-05-21-Python-的-re.sub-正则替换问题](https://www.v2ex.com/t/674191) ![](assets/new.png)  
-- [2020-05-21-有些库的-_init__.py-中-__version__-=-'1.1.0-SNAPSHOT'-，这个-SNAPSHOT-是指什么意思呢？](https://www.v2ex.com/t/674190) ![](assets/new.png)  
-- [2020-05-21-一个老朋友，半年没联系了，果然是永远不会主动联系我](https://www.v2ex.com/t/674189) ![](assets/new.png)  
+- [2020-05-21-做运维开发或-DevOps-的出来冒个泡呗~你们平常都做些什么？是不是经常和技术开发的同事吵架？](https://www.v2ex.com/t/674207) ![](assets/new.png)  
+- [2020-05-21-听说还有人没有文明-5？](https://www.v2ex.com/t/674205) ![](assets/new.png)  
+- [2020-05-21-《文明-6》（本体）白嫖](https://www.v2ex.com/t/674204) ![](assets/new.png)  
+- [2020-05-21-阿里云国际版注册完后，为什么-2.5-的优惠套餐显示没有优惠？](https://www.v2ex.com/t/674203) ![](assets/new.png)  
+- [2020-05-21-好尴尬，-6-个月试用期最后几天被辞退，这样做合理么？](https://www.v2ex.com/t/674202) ![](assets/new.png)  
+- [2020-05-21-Python-爬虫的活，有感兴趣接活的么。](https://www.v2ex.com/t/674199)  
+- [2020-05-21-询价，去年-11-月购入的-mbp-16-寸-能卖多少](https://www.v2ex.com/t/674198)  
+- [2020-05-21-&*这种写法是什么意思？](https://www.v2ex.com/t/674197)  
+- [2020-05-21-关于-golang-在-mac-上的环境变量设置](https://www.v2ex.com/t/674196)  
+- [2020-05-21-hexo-简约主题-hexo-theme-pureness](https://www.v2ex.com/t/674195)  
+- [2020-05-21-上海电信-4g-网络居然是-Full-cone](https://www.v2ex.com/t/674194)  
+- [2020-05-21-2016-16-Macbook-pro,-16G+256G-出手](https://www.v2ex.com/t/674192)  
+- [2020-05-21-Python-的-re.sub-正则替换问题](https://www.v2ex.com/t/674191)  
+- [2020-05-21-有些库的-_init__.py-中-__version__-=-'1.1.0-SNAPSHOT'-，这个-SNAPSHOT-是指什么意思呢？](https://www.v2ex.com/t/674190)  
+- [2020-05-21-一个老朋友，半年没联系了，果然是永远不会主动联系我](https://www.v2ex.com/t/674189)  
 - [2020-05-21-FCN-正式发布定制路由器固件](https://www.v2ex.com/t/674188)  
 - [2020-05-21-初学-Git-产生的疑问](https://www.v2ex.com/t/674187)  
 - [2020-05-21-cuckoo（一款基于桌面通知的定时提醒工具）1.3.0-发布，略微改善了使用方式，欢迎各位指教。](https://www.v2ex.com/t/674186)  
 - [2020-05-21-百度搜索的在吗？杨超越被封杀了？](https://www.v2ex.com/t/674185)  
 - [2020-05-21-Win10-2004-如何禁用-modern-standby](https://www.v2ex.com/t/674184)  
-- [2020-05-21-求助帖：-HackMD-如何添加-GA-数据分析？](https://www.v2ex.com/t/674182)  
-- [2020-05-21-说说我最近几天-xsm、一加-8-双持的感受](https://www.v2ex.com/t/674181)  
-- [2020-05-21-阿里云域名抢注竞价真是为了钱什么都干的出来](https://www.v2ex.com/t/674180)  
-- [2020-05-21-没人觉得-Google-ADs-很恶心吗？](https://www.v2ex.com/t/674179)  
-- [2020-05-21-Chrome-Help，-chrome-浏览器下载文件失败，打开下载管理器插件显示这种图标，把插件关闭后就没有反应](https://www.v2ex.com/t/674178)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

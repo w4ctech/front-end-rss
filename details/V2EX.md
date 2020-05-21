@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-21 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-21-Spring-出现循环依赖-Is-there-an-unresolvable-circular-reference?-哪种解决方式最好？](https://www.v2ex.com/t/673844) 
 - [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843) 
 - [2020-05-21-Jest-写-unit-test，如何-mock-同一个文件中被调用的函数？](https://www.v2ex.com/t/673841) 
 - [2020-05-21-为什么我的表单-post-了一个数字，后台接收到之后变成了-string？](https://www.v2ex.com/t/673840) 

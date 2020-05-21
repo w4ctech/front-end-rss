@@ -9182,6 +9182,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Spring 出现循环依赖 (Is there an unresolvable circular reference?) 哪种解决方式最好？",
+        "link": "https://www.v2ex.com/t/673844",
+        "date": "2020-05-21"
+      },
+      {
         "title": "中小企业，新三板上市算是智商税吗？",
         "link": "https://www.v2ex.com/t/673843",
         "date": "2020-05-21"
@@ -42480,6 +42485,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "简单而面试中又常见的知识点：JS 执行机制",
+        "link": "https://toutiao.io/k/dbafpcs",
+        "date": "2020-05-21"
+      },
       {
         "title": "有了这款低代码开发工具，Java 开发者可以告别 996 啦！",
         "link": "https://toutiao.io/k/47ah64g",

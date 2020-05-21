@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 08:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479) ![](assets/new.png)  
-- [2020-05-21-世卫组织：全球新增57804例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1) ![](assets/new.png)  
-- [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479)  
+- [2020-05-21-世卫组织：全球新增57804例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1)  
+- [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1)  
 - [2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1)  
 - [2020-05-20-西班牙政府强制6岁以上民众佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRYPuTQnBfDugfKYoOswp200520&isfromapp=1)  
 - [2020-05-20-韩国复课第一天-多所学校“喊停”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTGySfcNgXMMjgxjEeIlB200520&isfromapp=1)  
@@ -1060,7 +1060,8 @@
 </summary>
 
 
-- [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843) ![](assets/new.png)  
+- [2020-05-21-Spring-出现循环依赖-Is-there-an-unresolvable-circular-reference?-哪种解决方式最好？](https://www.v2ex.com/t/673844) ![](assets/new.png)  
+- [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843)  
 - [2020-05-21-Jest-写-unit-test，如何-mock-同一个文件中被调用的函数？](https://www.v2ex.com/t/673841)  
 - [2020-05-21-为什么我的表单-post-了一个数字，后台接收到之后变成了-string？](https://www.v2ex.com/t/673840)  
 - [2020-05-21-求推荐一款好吃的面粉.-听说多吃面食好,-看到-求推荐一款好吃的大米,-那么多回复,我也想问问](https://www.v2ex.com/t/673839)  
@@ -1079,7 +1080,6 @@
 - [2020-05-21-自如刚通过空气质量检测释放的房子能住吗？](https://www.v2ex.com/t/673824)  
 - [2020-05-21-有什么方法可以清理-venv-中，当前项目依赖的库文件？](https://www.v2ex.com/t/673823)  
 - [2020-05-21-有大疆-DJI-的同学麽？问个问题。](https://www.v2ex.com/t/673822)  
-- [2020-05-21-vue-萌新求助，关于-template-的一个小问题](https://www.v2ex.com/t/673821)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,7 +1122,8 @@
 </summary>
 
 
-- [2020-05-21-有了这款低代码开发工具，Java-开发者可以告别-996-啦！](https://toutiao.io/k/47ah64g) ![](assets/new.png)  
+- [2020-05-21-简单而面试中又常见的知识点：JS-执行机制](https://toutiao.io/k/dbafpcs) ![](assets/new.png)  
+- [2020-05-21-有了这款低代码开发工具，Java-开发者可以告别-996-啦！](https://toutiao.io/k/47ah64g)  
 - [2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo)  
 - [2020-05-20-Python-接口覆盖率集成-GITLAB-CI/CD](https://toutiao.io/k/r4m8bq4)  
 - [2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen)  
@@ -1141,7 +1142,6 @@
 - [2020-05-20-副业实战之知乎好物推荐开篇](https://toutiao.io/k/bbvzrnr)  
 - [2020-05-20-大厂面试过程复盘（微信/阿里/头条，附答案篇）](https://toutiao.io/k/etupxa6)  
 - [2020-05-20-Kitty-Cloud-HTTP/RPC-的全局异常处理](https://toutiao.io/k/2ba4ck9)  
-- [2020-05-20-知道-MDC，那-NDC-是什么？这个知识有点冷](https://toutiao.io/k/kprhio5)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

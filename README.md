@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 03:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1060,7 +1060,8 @@
 </summary>
 
 
-- [2020-05-22-统计一下多少公司的前端项目用-parceljs-？而不是-webpack](https://www.v2ex.com/t/674228) ![](assets/new.png)  
+- [2020-05-22-手机平板电脑电视各大视频应用都出现画面与声音不匹配的问题](https://www.v2ex.com/t/674229) ![](assets/new.png)  
+- [2020-05-22-统计一下多少公司的前端项目用-parceljs-？而不是-webpack](https://www.v2ex.com/t/674228)  
 - [2020-05-22-ffmpeg-HLS-切片这么耗硬盘-I/O-吗？](https://www.v2ex.com/t/674227)  
 - [2020-05-22-LastPass-和-KeePass-都默认只有用户名而无邮箱选项，导致不同登录方式时会重复添加条目](https://www.v2ex.com/t/674226)  
 - [2020-05-22-IE8-下-JS-动态更改-img-标签的-src-值，内存泄漏，求助！](https://www.v2ex.com/t/674225)  
@@ -1079,7 +1080,6 @@
 - [2020-05-21-自研-CDN-的难度在哪里？为什么都是大厂才搞自研-CDN,网上的-CDN-教程也很少,哪里有相关技术参考的吗？](https://www.v2ex.com/t/674209)  
 - [2020-05-21-做运维开发或-DevOps-的出来冒个泡呗~你们平常都做些什么？是不是经常和技术开发的同事吵架？](https://www.v2ex.com/t/674207)  
 - [2020-05-21-听说还有人没有文明-5？](https://www.v2ex.com/t/674205)  
-- [2020-05-21-《文明-6》（本体）白嫖](https://www.v2ex.com/t/674204)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

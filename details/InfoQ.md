@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-20 15:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 00:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6) 
+- [2020-05-21-远程期间，开发者工作时间更长、节奏更快-|-GitHub特别版报告](https://www.ershicimi.com/p/29663d8ca637b6957cc889e812ef4829) 
+- [2020-05-21-端侧AI：从探索尝试到逐步展开-|-GMTC](https://www.ershicimi.com/p/9cb53496536987a829a0a23f3e54d3a8) 
+- [2020-05-21-当流量突变时，系统中的负载保护应如何应对？](https://www.ershicimi.com/p/b6ffe17213478235b59b0b358c56ee08) 
+- [2020-05-21-不要再依赖-CommonJS-了](https://www.ershicimi.com/p/28d19a807b8ccc5449a9e3ab7c5f22ab) 
 - [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b) 
 - [2020-05-20-从程序员到CTO都应该了解的技术趋势和选型建议](https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062) 
 - [2020-05-20-618将至，电商企业如何构建“新基建”应对流量洪峰？](https://www.ershicimi.com/p/6082541e63a06cd2d1c6cc0ecec698a0) 

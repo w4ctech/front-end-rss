@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 23:30:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 00:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,8 +94,12 @@
 </summary>
 
 
-- [2020-05-21-柬埔寨新冠肺炎病例“清零”一个多月后再次发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbPT3FRaVg4UxSK0V5Dy200521&isfromapp=1) ![](assets/new.png)  
-- [2020-05-21-俄外交部：欧盟对俄罗斯传播新冠疫情虚假信息的指责手段卑劣](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw8Ph0Gm1qm34ZE3AB7Ng200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-张业遂：中美关系正处在一个重要关口](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwKmSxepC6DNu9hrG3X6y200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-上海浦东机场核酸检测方舱采样室投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM9kEkAwNwLDVVnRHBPki200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-新加坡教育部部长：新加坡小学生与学龄前儿童开学后将获得防护面罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MReuvFk712Gr8xnYkpB200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-​西班牙新冠肺炎确诊病例累计达233037例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJtRI6zbT1ml0IGFHTFR200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-柬埔寨新冠肺炎病例“清零”一个多月后再次发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbPT3FRaVg4UxSK0V5Dy200521&isfromapp=1)  
+- [2020-05-21-俄外交部：欧盟对俄罗斯传播新冠疫情虚假信息的指责手段卑劣](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw8Ph0Gm1qm34ZE3AB7Ng200521&isfromapp=1)  
 - [2020-05-21-印度最大贫民窟新增47例新冠肺炎确诊病例-累计1425例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq59RWtbRWTb2ZK7dyLrW200521&isfromapp=1)  
 - [2020-05-21-法新社：欧洲已经有超过17万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC5bnlij5tB6NYcyxX7t7200521&isfromapp=1)  
 - [2020-05-21-​英国将向民众提供免费新冠病毒抗体测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivH1kvixoq3MLoTtN1g1W200521&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-05-21-新加坡新增448例新冠肺炎确诊病例-累计达29812例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOa4a89swjVySkXGwwd2j200521&isfromapp=1)  
 - [2020-05-21-​阿曼政府继续“解禁”-允许重开游艇码头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifxq383RfWmBV8nI1CCA9200521&isfromapp=1)  
 - [2020-05-21-京津30家医疗机构被纳入河北石家庄医保定点范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEcFanopxGpSrpxefPg200521&isfromapp=1)  
-- [2020-05-21-受新冠肺炎疫情影响-日本累计失业人数接近1万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVBfZ5OCz8yMs80TvZun5200521&isfromapp=1)  
-- [2020-05-21-湖北武汉7万余名初三学生正式返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir7zEJpGx3VAk9ZeBjB4x200521&isfromapp=1)  
-- [2020-05-21-世卫称尚未发现羟氯喹对治疗新冠肺炎有效](http://m.weibo.cn/3057540037/4506964786472859)  
-- [2020-05-21-世卫组织称超120个新冠疫苗正在开发](http://m.weibo.cn/3057540037/4506949688036580)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -853,6 +853,11 @@
 </summary>
 
 
+- [2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6) ![](assets/new.png)  
+- [2020-05-21-远程期间，开发者工作时间更长、节奏更快-|-GitHub特别版报告](https://www.ershicimi.com/p/29663d8ca637b6957cc889e812ef4829) ![](assets/new.png)  
+- [2020-05-21-端侧AI：从探索尝试到逐步展开-|-GMTC](https://www.ershicimi.com/p/9cb53496536987a829a0a23f3e54d3a8) ![](assets/new.png)  
+- [2020-05-21-当流量突变时，系统中的负载保护应如何应对？](https://www.ershicimi.com/p/b6ffe17213478235b59b0b358c56ee08) ![](assets/new.png)  
+- [2020-05-21-不要再依赖-CommonJS-了](https://www.ershicimi.com/p/28d19a807b8ccc5449a9e3ab7c5f22ab) ![](assets/new.png)  
 - [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b)  
 - [2020-05-20-从程序员到CTO都应该了解的技术趋势和选型建议](https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062)  
 - [2020-05-20-618将至，电商企业如何构建“新基建”应对流量洪峰？](https://www.ershicimi.com/p/6082541e63a06cd2d1c6cc0ecec698a0)  
@@ -868,11 +873,6 @@
 - [2020-05-18-腾讯海量业务架构演进-|-ArchSummit](https://www.ershicimi.com/p/1c8a5f419c2ab346f65d2b5821b5c9af)  
 - [2020-05-18-全面解析-Netflix-的微服务架构设计](https://www.ershicimi.com/p/0a4b89f7b164a08aa5c8f31b68f8fc14)  
 - [2020-05-18-我们怎样将官网的加载时间缩短-1.7-秒？](https://www.ershicimi.com/p/a3340e9f111914ecedda780025e52328)  
-- [2020-05-16-硝烟四起！台积电答应在美建厂，特朗普政府却对华为升级管制](https://www.ershicimi.com/p/0d03dfed24613bac9b48546853305484)  
-- [2020-05-16-讲述者：eBay-不为人知的起源故事](https://www.ershicimi.com/p/0c6fdd651735931ace5ac9e9f0f7b088)  
-- [2020-05-16-攀山登顶，华为云Stack如何为政企数字化转型注入新动力？](https://www.ershicimi.com/p/6eebcb6fe9f01916b7bae4742fe6d69d)  
-- [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/fe2952180f2f8226548b1b0a482ea1e8)  
-- [2020-05-15-字节跳动：“挖”出来的技术战斗力](https://www.ershicimi.com/p/e4a85c4ec0d6761bf04b331ffa2d56f8)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,11 +1060,15 @@
 </summary>
 
 
-- [2020-05-21-做运维开发或-DevOps-的出来冒个泡呗~你们平常都做些什么？是不是经常和技术开发的同事吵架？](https://www.v2ex.com/t/674207) ![](assets/new.png)  
-- [2020-05-21-听说还有人没有文明-5？](https://www.v2ex.com/t/674205) ![](assets/new.png)  
-- [2020-05-21-《文明-6》（本体）白嫖](https://www.v2ex.com/t/674204) ![](assets/new.png)  
-- [2020-05-21-阿里云国际版注册完后，为什么-2.5-的优惠套餐显示没有优惠？](https://www.v2ex.com/t/674203) ![](assets/new.png)  
-- [2020-05-21-好尴尬，-6-个月试用期最后几天被辞退，这样做合理么？](https://www.v2ex.com/t/674202) ![](assets/new.png)  
+- [2020-05-21-如果公司不符合个人职业规划，值得待下去吗？](https://www.v2ex.com/t/674213) ![](assets/new.png)  
+- [2020-05-21-迫于离开杭州，转租滨江单间](https://www.v2ex.com/t/674211) ![](assets/new.png)  
+- [2020-05-21-2019：要是再裸辞我是狗。-2020：汪汪汪](https://www.v2ex.com/t/674210) ![](assets/new.png)  
+- [2020-05-21-自研-CDN-的难度在哪里？为什么都是大厂才搞自研-CDN,网上的-CDN-教程也很少,哪里有相关技术参考的吗？](https://www.v2ex.com/t/674209) ![](assets/new.png)  
+- [2020-05-21-做运维开发或-DevOps-的出来冒个泡呗~你们平常都做些什么？是不是经常和技术开发的同事吵架？](https://www.v2ex.com/t/674207)  
+- [2020-05-21-听说还有人没有文明-5？](https://www.v2ex.com/t/674205)  
+- [2020-05-21-《文明-6》（本体）白嫖](https://www.v2ex.com/t/674204)  
+- [2020-05-21-阿里云国际版注册完后，为什么-2.5-的优惠套餐显示没有优惠？](https://www.v2ex.com/t/674203)  
+- [2020-05-21-好尴尬，-6-个月试用期最后几天被辞退，这样做合理么？](https://www.v2ex.com/t/674202)  
 - [2020-05-21-Python-爬虫的活，有感兴趣接活的么。](https://www.v2ex.com/t/674199)  
 - [2020-05-21-询价，去年-11-月购入的-mbp-16-寸-能卖多少](https://www.v2ex.com/t/674198)  
 - [2020-05-21-&*这种写法是什么意思？](https://www.v2ex.com/t/674197)  
@@ -1076,10 +1080,6 @@
 - [2020-05-21-有些库的-_init__.py-中-__version__-=-'1.1.0-SNAPSHOT'-，这个-SNAPSHOT-是指什么意思呢？](https://www.v2ex.com/t/674190)  
 - [2020-05-21-一个老朋友，半年没联系了，果然是永远不会主动联系我](https://www.v2ex.com/t/674189)  
 - [2020-05-21-FCN-正式发布定制路由器固件](https://www.v2ex.com/t/674188)  
-- [2020-05-21-初学-Git-产生的疑问](https://www.v2ex.com/t/674187)  
-- [2020-05-21-cuckoo（一款基于桌面通知的定时提醒工具）1.3.0-发布，略微改善了使用方式，欢迎各位指教。](https://www.v2ex.com/t/674186)  
-- [2020-05-21-百度搜索的在吗？杨超越被封杀了？](https://www.v2ex.com/t/674185)  
-- [2020-05-21-Win10-2004-如何禁用-modern-standby](https://www.v2ex.com/t/674184)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

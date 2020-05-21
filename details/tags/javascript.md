@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 00:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -103,6 +103,7 @@
 - [2020-05-08-为什么我们公司强制弃坑Fastjson了？主推...](https://www.ershicimi.com/p/f2de3db167a55220ed2f7fce830bcf2e) 
 - [2020-05-06-try-catch-处理异常太烦人了,我已经不用了](https://www.ershicimi.com/p/bfe804a5223fbf7e87b759b670433419) 
 - [2020-04-30-变量命名还在谷歌百度翻译？OUT啦!分享一个我日常工作中常用的变量命名神器！](https://www.ershicimi.com/p/c258e98f52c90eac18727afe58b4f249) 
+- [2020-05-21-不要再依赖-CommonJS-了](https://www.ershicimi.com/p/28d19a807b8ccc5449a9e3ab7c5f22ab) 
 - [2020-05-05-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/ec1520bf8f915077b4b12f484084831c) 
 - [2020-04-30-追逐业务变量，创新的路子如何越走越宽？](https://www.ershicimi.com/p/733b018b27e125a65c8bca7a7ca19ad9) 
 - [2020-04-30-两行代码险些搞垮-JavaScript-生态，受影响项目超百万](https://www.ershicimi.com/p/8510b547d695a97de15904e106c8dcef) 

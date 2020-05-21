@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-21 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-苏丹新增410例新冠肺炎确诊病例-累计3138例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP5xJZVXBTY4I5hLQraDC200521&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-土耳其伊斯坦布尔城市综合医院正式开放-将提供2682张床位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFOHWrx1p7ZHICwMvPou200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-哈尔滨防疫“五关三卡”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMR6DyI6hnkf9BoyPf6Rw200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-日本对大阪、京都、兵库等地解除“紧急事态宣言”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3W0ESiirdOBS4WtD2xsb200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-伊拉克卫生部宣布对伊特定地区展开流行病学调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLV0EDx0hIkO4cuIL8jRA200521&isfromapp=1) 
@@ -923,6 +926,16 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-21-15-款-mbp-开发安卓风扇太响了](https://www.v2ex.com/t/674164) 
+- [【V2EX】2020-05-21-iPhone-如何快速发送内容到-windows-电脑?](https://www.v2ex.com/t/674163) 
+- [【V2EX】2020-05-21-入职选电脑-MBP-13-还是-15？](https://www.v2ex.com/t/674162) 
+- [【V2EX】2020-05-21-团队直招-字节跳动---头条客户端平台架构团队直招](https://www.v2ex.com/t/674161) 
+- [【V2EX】2020-05-21-想做手机-APP-产品了-咨询下-是选择-Android-平台还是-iOS-平台-主要想挣钱~](https://www.v2ex.com/t/674160) 
+- [【V2EX】2020-05-21-准备下了班去摆地摊，现在卖什么好？夏天在城乡结合处，下午与晚上有时间](https://www.v2ex.com/t/674159) 
+- [【V2EX】2020-05-21-关于路由器设置-DMZ-和-UPnP-的一些疑问](https://www.v2ex.com/t/674158) 
+- [【V2EX】2020-05-21-Windows-10-Pro-for-Workstations-工作站](https://www.v2ex.com/t/674157) 
+- [【V2EX】2020-05-21-在-macOS-下面，如何高效率在程序中打开文件？](https://www.v2ex.com/t/674156) 
+- [【V2EX】2020-05-21-联通-IPv6-的国际路由为何这么绕？](https://www.v2ex.com/t/674155) 
 - [【V2EX】2020-05-21-字节跳动飞书业务强力招人~~拿简历来砸我吧](https://www.v2ex.com/t/674154) 
 - [【V2EX】2020-05-21-Chrome-83-正式版支持标签页分组](https://www.v2ex.com/t/674153) 
 - [【V2EX】2020-05-21-今天翻不过去，各位老铁呢？](https://www.v2ex.com/t/674152) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 20:30:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 21:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-苏丹新增410例新冠肺炎确诊病例-累计3138例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP5xJZVXBTY4I5hLQraDC200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-土耳其伊斯坦布尔城市综合医院正式开放-将提供2682张床位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFOHWrx1p7ZHICwMvPou200521&isfromapp=1) ![](assets/new.png)  
 - [2020-05-21-哈尔滨防疫“五关三卡”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMR6DyI6hnkf9BoyPf6Rw200521&isfromapp=1)  
 - [2020-05-21-日本对大阪、京都、兵库等地解除“紧急事态宣言”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3W0ESiirdOBS4WtD2xsb200521&isfromapp=1)  
 - [2020-05-21-伊拉克卫生部宣布对伊特定地区展开流行病学调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLV0EDx0hIkO4cuIL8jRA200521&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-21-世卫组织：全球新增57804例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1)  
 - [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1)  
 - [2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1)  
-- [2020-05-20-西班牙政府强制6岁以上民众佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRYPuTQnBfDugfKYoOswp200520&isfromapp=1)  
-- [2020-05-20-韩国复课第一天-多所学校“喊停”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTGySfcNgXMMjgxjEeIlB200520&isfromapp=1)  
-- [2020-05-20-电视主播+电商主播-全国“双播”直播带货邀请赛火热开启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisIlAil879yhN13nfUzAE200520&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,26 +1060,26 @@
 </summary>
 
 
-- [2020-05-21-字节跳动飞书业务强力招人~~拿简历来砸我吧](https://www.v2ex.com/t/674154) ![](assets/new.png)  
-- [2020-05-21-Chrome-83-正式版支持标签页分组](https://www.v2ex.com/t/674153) ![](assets/new.png)  
-- [2020-05-21-今天翻不过去，各位老铁呢？](https://www.v2ex.com/t/674152) ![](assets/new.png)  
-- [2020-05-21-杭州|北京阿里巴巴急求全栈开发简历](https://www.v2ex.com/t/674151) ![](assets/new.png)  
-- [2020-05-21-请教一下，-Padavan-固件如何实现启动后每隔三天执行一次命令](https://www.v2ex.com/t/674150) ![](assets/new.png)  
-- [2020-05-21-项目太久，操作慢如老爷车，怎么提速](https://www.v2ex.com/t/674149) ![](assets/new.png)  
-- [2020-05-21-IDEA-代码折叠功能，我是最后知道的吗？](https://www.v2ex.com/t/674148) ![](assets/new.png)  
-- [2020-05-21-更新了最新版系统后-Xr-副卡无服务](https://www.v2ex.com/t/674145) ![](assets/new.png)  
-- [2020-05-21-有人知道-hp-1020NW-用的这个驱动是什么版本吗-官网的都下了都不对](https://www.v2ex.com/t/674144) ![](assets/new.png)  
-- [2020-05-21-老版本-Linux-（红帽-6.2）下大家用什么-C++远程调试工具？](https://www.v2ex.com/t/674142) ![](assets/new.png)  
-- [2020-05-21-北京新浪微博招聘-Java-后端开发工程师](https://www.v2ex.com/t/674141) ![](assets/new.png)  
-- [2020-05-21-那些被暴打的-“传统武术”-的-“掌门”-被打前难道真的不知道自己啥水平？](https://www.v2ex.com/t/674139) ![](assets/new.png)  
-- [2020-05-21-求推荐好用的语言交换网站，最好是有相互批改文章的](https://www.v2ex.com/t/674138) ![](assets/new.png)  
-- [2020-05-21-字节跳动北京/上海/杭州/广州/....-求前端方向简历-hc-很多哟](https://www.v2ex.com/t/674137) ![](assets/new.png)  
-- [2020-05-21-（萌新求问）-Python-我安装的是-3.8.3，但是在-Python-下安装-virtualenv,显示-Permission-denied?提示我无权限。这怎么解决？](https://www.v2ex.com/t/674136) ![](assets/new.png)  
-- [2020-05-21-希望已为人父或者将来为人父的人可以进来看一下](https://www.v2ex.com/t/674133) ![](assets/new.png)  
-- [2020-05-21-像-PHP-这种不常驻内存的语言写日志的时候不会有并发等待文件锁的问题吗？](https://www.v2ex.com/t/674132) ![](assets/new.png)  
-- [2020-05-21-刚接触-vue，求个范例。](https://www.v2ex.com/t/674131) ![](assets/new.png)  
-- [2020-05-21-上海外企-找个-devops-伙伴](https://www.v2ex.com/t/674130) ![](assets/new.png)  
-- [2020-05-21-询价出-2018-macbookpro-13-寸-8g-256](https://www.v2ex.com/t/674129) ![](assets/new.png)  
+- [2020-05-21-15-款-mbp-开发安卓风扇太响了](https://www.v2ex.com/t/674164) ![](assets/new.png)  
+- [2020-05-21-iPhone-如何快速发送内容到-windows-电脑?](https://www.v2ex.com/t/674163) ![](assets/new.png)  
+- [2020-05-21-入职选电脑-MBP-13-还是-15？](https://www.v2ex.com/t/674162) ![](assets/new.png)  
+- [2020-05-21-团队直招-字节跳动---头条客户端平台架构团队直招](https://www.v2ex.com/t/674161) ![](assets/new.png)  
+- [2020-05-21-想做手机-APP-产品了-咨询下-是选择-Android-平台还是-iOS-平台-主要想挣钱~](https://www.v2ex.com/t/674160) ![](assets/new.png)  
+- [2020-05-21-准备下了班去摆地摊，现在卖什么好？夏天在城乡结合处，下午与晚上有时间](https://www.v2ex.com/t/674159) ![](assets/new.png)  
+- [2020-05-21-关于路由器设置-DMZ-和-UPnP-的一些疑问](https://www.v2ex.com/t/674158) ![](assets/new.png)  
+- [2020-05-21-Windows-10-Pro-for-Workstations-工作站](https://www.v2ex.com/t/674157) ![](assets/new.png)  
+- [2020-05-21-在-macOS-下面，如何高效率在程序中打开文件？](https://www.v2ex.com/t/674156) ![](assets/new.png)  
+- [2020-05-21-联通-IPv6-的国际路由为何这么绕？](https://www.v2ex.com/t/674155) ![](assets/new.png)  
+- [2020-05-21-字节跳动飞书业务强力招人~~拿简历来砸我吧](https://www.v2ex.com/t/674154)  
+- [2020-05-21-Chrome-83-正式版支持标签页分组](https://www.v2ex.com/t/674153)  
+- [2020-05-21-今天翻不过去，各位老铁呢？](https://www.v2ex.com/t/674152)  
+- [2020-05-21-杭州|北京阿里巴巴急求全栈开发简历](https://www.v2ex.com/t/674151)  
+- [2020-05-21-请教一下，-Padavan-固件如何实现启动后每隔三天执行一次命令](https://www.v2ex.com/t/674150)  
+- [2020-05-21-项目太久，操作慢如老爷车，怎么提速](https://www.v2ex.com/t/674149)  
+- [2020-05-21-IDEA-代码折叠功能，我是最后知道的吗？](https://www.v2ex.com/t/674148)  
+- [2020-05-21-更新了最新版系统后-Xr-副卡无服务](https://www.v2ex.com/t/674145)  
+- [2020-05-21-有人知道-hp-1020NW-用的这个驱动是什么版本吗-官网的都下了都不对](https://www.v2ex.com/t/674144)  
+- [2020-05-21-老版本-Linux-（红帽-6.2）下大家用什么-C++远程调试工具？](https://www.v2ex.com/t/674142)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

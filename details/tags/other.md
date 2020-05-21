@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1) 
+- [2020-05-21-土耳其伊斯坦布尔城市综合医院正式开放-将提供2682张床位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFOHWrx1p7ZHICwMvPou200521&isfromapp=1) 
 - [2020-05-21-哈尔滨防疫“五关三卡”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMR6DyI6hnkf9BoyPf6Rw200521&isfromapp=1) 
 - [2020-05-21-日本对大阪、京都、兵库等地解除“紧急事态宣言”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3W0ESiirdOBS4WtD2xsb200521&isfromapp=1) 
 - [2020-05-21-伊拉克卫生部宣布对伊特定地区展开流行病学调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLV0EDx0hIkO4cuIL8jRA200521&isfromapp=1) 
@@ -964,6 +966,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-15-款-mbp-开发安卓风扇太响了](https://www.v2ex.com/t/674164) 
+- [2020-05-21-iPhone-如何快速发送内容到-windows-电脑?](https://www.v2ex.com/t/674163) 
+- [2020-05-21-入职选电脑-MBP-13-还是-15？](https://www.v2ex.com/t/674162) 
+- [2020-05-21-团队直招-字节跳动---头条客户端平台架构团队直招](https://www.v2ex.com/t/674161) 
+- [2020-05-21-想做手机-APP-产品了-咨询下-是选择-Android-平台还是-iOS-平台-主要想挣钱~](https://www.v2ex.com/t/674160) 
+- [2020-05-21-准备下了班去摆地摊，现在卖什么好？夏天在城乡结合处，下午与晚上有时间](https://www.v2ex.com/t/674159) 
+- [2020-05-21-Windows-10-Pro-for-Workstations-工作站](https://www.v2ex.com/t/674157) 
+- [2020-05-21-在-macOS-下面，如何高效率在程序中打开文件？](https://www.v2ex.com/t/674156) 
 - [2020-05-21-字节跳动飞书业务强力招人~~拿简历来砸我吧](https://www.v2ex.com/t/674154) 
 - [2020-05-21-今天翻不过去，各位老铁呢？](https://www.v2ex.com/t/674152) 
 - [2020-05-21-请教一下，-Padavan-固件如何实现启动后每隔三天执行一次命令](https://www.v2ex.com/t/674150) 

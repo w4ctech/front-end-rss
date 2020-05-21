@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -142,6 +142,8 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-21-关于路由器设置-DMZ-和-UPnP-的一些疑问](https://www.v2ex.com/t/674158) 
+- [2020-05-21-联通-IPv6-的国际路由为何这么绕？](https://www.v2ex.com/t/674155) 
 - [2020-05-21-Python3-里怎么让一个包含-while-循环的异步函数不断运行，而不阻塞正常的代码流程](https://www.v2ex.com/t/674125) 
 - [2020-05-21-夜间模式下投票选项的文字看不清，需要适配](https://www.v2ex.com/t/674111) 
 - [2020-05-21-类似-p5.js-的-canvas-绘图轮子有哪些](https://www.v2ex.com/t/674101) 

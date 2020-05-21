@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 09:00:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 09:30:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-21-上海新增1例湖北来沪确诊病例](http://m.weibo.cn/2656274875/4506932915174746) ![](assets/new.png)  
+- [2020-05-21-第十届世界家庭医生日云直播活动在上海举行](http://wsjkw.sh.gov.cn/xwfb/20200520/b45df353891d4bec8db048ae97562117.html) ![](assets/new.png)  
+- [2020-05-21-截至5月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202005/7be4e0b23c9441dcb9d0f6e6c0b1f4ae.shtml) ![](assets/new.png)  
+- [2020-05-21-上海新增1例湖北来沪确诊病例](http://m.weibo.cn/2656274875/4506932915174746)  
 - [2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479)  
 - [2020-05-21-世卫组织：全球新增57804例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1)  
 - [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-20-上海今天上午新增1例确诊病例-并公布其活动轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhOrrNA6MpGNTLxhgq8R200520&isfromapp=1)  
 - [2020-05-20-印度新增新冠肺炎确诊病例5611例-累计确诊106750例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilLIaxFKbq12xRyEneHV1200520&isfromapp=1)  
 - [2020-05-20-最高降85%！黑龙江精神类药物大幅降价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLIZB80gSQ80dkRnmoPu9200520&isfromapp=1)  
-- [2020-05-20-隔着玻璃亲吻的战疫情侣结婚啦](http://m.weibo.cn/2803301701/4506602382230549)  
-- [2020-05-20-韩国高三年级学生今起返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijqbdSB0x8mzgGi0RLtzW200520&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -362,6 +362,8 @@
 </summary>
 
 
+- [2020-05-21-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/ba7632d04063306b0e8b6ad672c075b8) ![](assets/new.png)  
+- [2020-05-21-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/75bf21a8cd17588ea57a9a5fdf5030dd) ![](assets/new.png)  
 - [2020-05-20-低至1899元！在线GET戴尔官网办公神器OptiPlex台式机，即刻开始高效办公！](https://www.ershicimi.com/p/64e0aa25b8a52a2dc779473f6d85f0bb)  
 - [2020-05-20-【地狱难度】面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/a39279ce9fadcf2c8d0a6d7918ddabd6)  
 - [2020-05-19-都说Vue面试难，到底问什么问题了？](https://www.ershicimi.com/p/2177c52f8c35f79368e8d80a915c0465)  
@@ -380,8 +382,6 @@
 - [2020-05-12-【项目实战视频+源码】20w前端程序员疯抢的成长大礼包！](https://www.ershicimi.com/p/ee043396877b393af5dd518e3d860621)  
 - [2020-05-12-高效的编码：我的VS-Code设置](https://www.ershicimi.com/p/0feb81ce566988b0b80c8620a343b8e8)  
 - [2020-05-11-做前端3年，从入门到放弃？](https://www.ershicimi.com/p/20ba9e64fff9deb18218d2c08871db96)  
-- [2020-05-11-Web前端开发必不可少的9个开源框架](https://www.ershicimi.com/p/f17e3ec903ba230e768129864c91d9f5)  
-- [2020-05-09-一年半，三本，收到30K+的offer，你也可以](https://www.ershicimi.com/p/1a06826b4e149c89c4e2108e61ed8f16)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -591,6 +591,8 @@
 </summary>
 
 
+- [2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) ![](assets/new.png)  
+- [2020-05-21-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/6a33e1a04d4f90c93d1f71534e7f9690) ![](assets/new.png)  
 - [2020-05-20-一文了解文件上传全过程（长文深度解析，进阶必备）](https://www.ershicimi.com/p/798f54bac9c6502e59f21627089832e8)  
 - [2020-05-19-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/c32b1aea612230dff5e9757cb8f9f8c4)  
 - [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/843b6fa76233a4da0b0ff541b8d1b06c)  
@@ -609,8 +611,6 @@
 - [2020-05-08-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/f2f09e70dff3d7b79104701c0a712556)  
 - [2020-05-08-使用-Nodejs-实现定时爬取微博热搜榜](https://www.ershicimi.com/p/0efab3a54fcf982409460fbffd365a7c)  
 - [2020-05-07-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531)  
-- [2020-05-06-“慢”就是原罪，如何实践前端自动化部署？](https://www.ershicimi.com/p/1782433bd70a1fe03dca349dc4dcd3a0)  
-- [2020-05-06-关于NodeJS工作原理的五个误解](https://www.ershicimi.com/p/e7877b7a28134ff86df4f40585e0871b)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,9 +1060,16 @@
 </summary>
 
 
-- [2020-05-21-40-次模拟面试的经验分享](https://www.v2ex.com/t/673847) ![](assets/new.png)  
-- [2020-05-21-看样子今年经济不景气，租房市场都要完啊？](https://www.v2ex.com/t/673846) ![](assets/new.png)  
-- [2020-05-21-怎样保存-html5-网页离线浏览](https://www.v2ex.com/t/673845) ![](assets/new.png)  
+- [2020-05-21-库克发功了？-iPhoneX-频繁没信号！](https://www.v2ex.com/t/673857) ![](assets/new.png)  
+- [2020-05-21-ubuntu18.04-磁盘前-8m-数据被破坏有办法恢复后续数据目录结构吗](https://www.v2ex.com/t/673856) ![](assets/new.png)  
+- [2020-05-21-有没有那种优惠券换优惠券的平台？](https://www.v2ex.com/t/673855) ![](assets/new.png)  
+- [2020-05-21-迫于贫穷，想问下电信有什么好的资费套餐](https://www.v2ex.com/t/673854) ![](assets/new.png)  
+- [2020-05-21-excel-中了宏病毒，-excel-下加了一个-reg_multi_sz，-vUpAV5!MKKSkEXCELFiles>tW{~$4Qc@II=l2xaTO5-/e](https://www.v2ex.com/t/673853) ![](assets/new.png)  
+- [2020-05-21-macOS-10.15.4-现在建议升吗？问题还多吗？](https://www.v2ex.com/t/673852) ![](assets/new.png)  
+- [2020-05-21-我算是发现什么叫-tm-后浪了](https://www.v2ex.com/t/673851) ![](assets/new.png)  
+- [2020-05-21-40-次模拟面试的经验分享](https://www.v2ex.com/t/673847)  
+- [2020-05-21-看样子今年经济不景气，租房市场都要完啊？](https://www.v2ex.com/t/673846)  
+- [2020-05-21-怎样保存-html5-网页离线浏览](https://www.v2ex.com/t/673845)  
 - [2020-05-21-Spring-出现循环依赖-Is-there-an-unresolvable-circular-reference?-哪种解决方式最好？](https://www.v2ex.com/t/673844)  
 - [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843)  
 - [2020-05-21-Jest-写-unit-test，如何-mock-同一个文件中被调用的函数？](https://www.v2ex.com/t/673841)  
@@ -1073,13 +1080,6 @@
 - [2020-05-21-去年写的一个小-library-——-Django-3-不需要额外-worker-的后台任务处理](https://www.v2ex.com/t/673836)  
 - [2020-05-21-《命令与征服》重置版将以-GPL-3.0-协议开放部分源代码](https://www.v2ex.com/t/673834)  
 - [2020-05-21-可远程兼职：招-PHP-／-Linux-工程师](https://www.v2ex.com/t/673833)  
-- [2020-05-21-iOS-13.5-released](https://www.v2ex.com/t/673832)  
-- [2020-05-21-Evernote-导入-Notion-失败何故呢？](https://www.v2ex.com/t/673831)  
-- [2020-05-21-V-站的隐私设置-不被搜索引擎收录这个选项貌似不咋好使](https://www.v2ex.com/t/673830)  
-- [2020-05-21-setapp-车位一个](https://www.v2ex.com/t/673829)  
-- [2020-05-21-支付宝运动上的走路线这个功能是如何实现的？](https://www.v2ex.com/t/673828)  
-- [2020-05-21-iOS-13.5-更新了](https://www.v2ex.com/t/673826)  
-- [2020-05-21-这周-Java-面试的面后感。](https://www.v2ex.com/t/673825)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,19 +1122,19 @@
 </summary>
 
 
-- [2020-05-21-十个超级实用的-git-命令](https://toutiao.io/k/wwwv4wa) ![](assets/new.png)  
-- [2020-05-21-MySQL-常见-6-个考题在实际工作中的运用](https://toutiao.io/k/ptu2uvb) ![](assets/new.png)  
-- [2020-05-21-数据迁移（二）：如何快速迁移](https://toutiao.io/k/v6b6x2n) ![](assets/new.png)  
-- [2020-05-21-Zookeeper-如何保证分布式系统数据一致性](https://toutiao.io/k/got8gax) ![](assets/new.png)  
-- [2020-05-21-如何在-Kubernetes-中创建一个自定义-Controller?](https://toutiao.io/k/qluqqcg) ![](assets/new.png)  
-- [2020-05-21-Java-类隔离加载的正确姿势](https://toutiao.io/k/aj1bpjx) ![](assets/new.png)  
-- [2020-05-21-广告行业中那些趣事（十）：推荐系统中不得不说的-DSSM-双塔模型](https://toutiao.io/k/9v5muff) ![](assets/new.png)  
-- [2020-05-21-微信小程序无法加载：SSL-配置修改](https://toutiao.io/k/hpy5kkh) ![](assets/new.png)  
-- [2020-05-21-Java-并发编程那些事儿（二）：锁](https://toutiao.io/k/il0ttvo) ![](assets/new.png)  
-- [2020-05-21-Python-实现排序算法](https://toutiao.io/k/bzfd6ig) ![](assets/new.png)  
-- [2020-05-21-同样是开发，为什么你不如别人？](https://toutiao.io/k/edlf6tx) ![](assets/new.png)  
-- [2020-05-21-读懂这几个关键词，你就能了解-Docker-啦](https://toutiao.io/k/043xn08) ![](assets/new.png)  
-- [2020-05-21-从-0-实现-React（二）：组件更新](https://toutiao.io/k/9jnsm88) ![](assets/new.png)  
+- [2020-05-21-十个超级实用的-git-命令](https://toutiao.io/k/wwwv4wa)  
+- [2020-05-21-MySQL-常见-6-个考题在实际工作中的运用](https://toutiao.io/k/ptu2uvb)  
+- [2020-05-21-数据迁移（二）：如何快速迁移](https://toutiao.io/k/v6b6x2n)  
+- [2020-05-21-Zookeeper-如何保证分布式系统数据一致性](https://toutiao.io/k/got8gax)  
+- [2020-05-21-如何在-Kubernetes-中创建一个自定义-Controller?](https://toutiao.io/k/qluqqcg)  
+- [2020-05-21-Java-类隔离加载的正确姿势](https://toutiao.io/k/aj1bpjx)  
+- [2020-05-21-广告行业中那些趣事（十）：推荐系统中不得不说的-DSSM-双塔模型](https://toutiao.io/k/9v5muff)  
+- [2020-05-21-微信小程序无法加载：SSL-配置修改](https://toutiao.io/k/hpy5kkh)  
+- [2020-05-21-Java-并发编程那些事儿（二）：锁](https://toutiao.io/k/il0ttvo)  
+- [2020-05-21-Python-实现排序算法](https://toutiao.io/k/bzfd6ig)  
+- [2020-05-21-同样是开发，为什么你不如别人？](https://toutiao.io/k/edlf6tx)  
+- [2020-05-21-读懂这几个关键词，你就能了解-Docker-啦](https://toutiao.io/k/043xn08)  
+- [2020-05-21-从-0-实现-React（二）：组件更新](https://toutiao.io/k/9jnsm88)  
 - [2020-05-21-简单而面试中又常见的知识点：JS-执行机制](https://toutiao.io/k/dbafpcs)  
 - [2020-05-21-有了这款低代码开发工具，Java-开发者可以告别-996-啦！](https://toutiao.io/k/47ah64g)  
 - [2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo)  

@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "第十届世界家庭医生日云直播活动在上海举行",
+        "link": "http://wsjkw.sh.gov.cn/xwfb/20200520/b45df353891d4bec8db048ae97562117.html",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "截至5月20日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://www.nhc.gov.cn/xcs/yqtb/202005/7be4e0b23c9441dcb9d0f6e6c0b1f4ae.shtml",
+        "date": "2020-05-21"
+      },
+      {
         "title": "上海新增1例湖北来沪确诊病例",
         "link": "http://m.weibo.cn/2656274875/4506932915174746",
         "date": "2020-05-21"
@@ -3616,6 +3626,16 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "大厂必备、前端高薪指南！",
+        "link": "https://www.ershicimi.com/p/ba7632d04063306b0e8b6ad672c075b8",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "Node使用火焰图优化CPU爆涨",
+        "link": "https://www.ershicimi.com/p/75bf21a8cd17588ea57a9a5fdf5030dd",
+        "date": "2020-05-21"
+      },
+      {
         "title": "低至1899元！在线GET戴尔官网办公神器OptiPlex台式机，即刻开始高效办公！",
         "link": "https://www.ershicimi.com/p/64e0aa25b8a52a2dc779473f6d85f0bb",
         "date": "2020-05-20"
@@ -5047,6 +5067,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "做前端，如何克服新技术焦虑？",
+        "link": "https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "JSON.stringify() 的 5 个秘密特性",
+        "link": "https://www.ershicimi.com/p/6a33e1a04d4f90c93d1f71534e7f9690",
+        "date": "2020-05-21"
+      },
       {
         "title": "一文了解文件上传全过程（长文深度解析，进阶必备）",
         "link": "https://www.ershicimi.com/p/798f54bac9c6502e59f21627089832e8",
@@ -9186,6 +9216,41 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "库克发功了？ iPhoneX 频繁没信号！",
+        "link": "https://www.v2ex.com/t/673857",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "ubuntu18.04 磁盘前 8m 数据被破坏有办法恢复后续数据目录结构吗",
+        "link": "https://www.v2ex.com/t/673856",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "有没有那种优惠券换优惠券的平台？",
+        "link": "https://www.v2ex.com/t/673855",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "迫于贫穷，想问下电信有什么好的资费套餐",
+        "link": "https://www.v2ex.com/t/673854",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "excel 中了宏病毒， excel 下加了一个 reg_multi_sz， vUpAV5!MKKSkEXCELFiles>tW{~$4Q]c@II=l2xaTO5 /e",
+        "link": "https://www.v2ex.com/t/673853",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "macOS 10.15.4 现在建议升吗？问题还多吗？",
+        "link": "https://www.v2ex.com/t/673852",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "我算是发现什么叫 tm 后浪了",
+        "link": "https://www.v2ex.com/t/673851",
+        "date": "2020-05-21"
+      },
       {
         "title": "40 次模拟面试的经验分享",
         "link": "https://www.v2ex.com/t/673847",

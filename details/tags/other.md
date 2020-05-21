@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -413,6 +413,7 @@
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-05-21-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/ba7632d04063306b0e8b6ad672c075b8) 
 - [2020-05-18-作为前端工程师，工作3年，这些用法竟然还不知道！](https://www.ershicimi.com/p/5b7a604d56ac17b7cb98e6eb8a83afe0) 
 - [2020-05-16-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/e11d37c9432ebccc8e4b9305e640d55f) 
 - [2020-05-15-Facebook-前端技术栈重构分享](https://www.ershicimi.com/p/07073e2582433996e1f21383b676c9d1) 
@@ -535,6 +536,7 @@
 - [2020-04-29-如何优雅处理前端异常？](https://www.ershicimi.com/p/89096e287a93dfbc7a6b102376c4fd51) 
 - [2020-04-27-Array-原型方法源码实现大解密](https://www.ershicimi.com/p/e5e6a4b13607cefd11128d6961183d1a) 
 - [2020-04-24-聊一聊去大厂需要掌握的那些知识](https://www.ershicimi.com/p/a263b818fe0938d751bb371bfb9360ad) 
+- [2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) 
 - [2020-05-20-一文了解文件上传全过程（长文深度解析，进阶必备）](https://www.ershicimi.com/p/798f54bac9c6502e59f21627089832e8) 
 - [2020-05-18-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/0adc698ac36af783e59900929d92cc0c) 
 - [2020-05-17-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/74b31746a78a304767c48751df2564c2) 
@@ -948,6 +950,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-库克发功了？-iPhoneX-频繁没信号！](https://www.v2ex.com/t/673857) 
+- [2020-05-21-ubuntu18.04-磁盘前-8m-数据被破坏有办法恢复后续数据目录结构吗](https://www.v2ex.com/t/673856) 
+- [2020-05-21-有没有那种优惠券换优惠券的平台？](https://www.v2ex.com/t/673855) 
+- [2020-05-21-迫于贫穷，想问下电信有什么好的资费套餐](https://www.v2ex.com/t/673854) 
+- [2020-05-21-excel-中了宏病毒，-excel-下加了一个-reg_multi_sz，-vUpAV5!MKKSkEXCELFiles>tW{~$4Qc@II=l2xaTO5-/e](https://www.v2ex.com/t/673853) 
+- [2020-05-21-macOS-10.15.4-现在建议升吗？问题还多吗？](https://www.v2ex.com/t/673852) 
+- [2020-05-21-我算是发现什么叫-tm-后浪了](https://www.v2ex.com/t/673851) 
 - [2020-05-21-看样子今年经济不景气，租房市场都要完啊？](https://www.v2ex.com/t/673846) 
 - [2020-05-21-Spring-出现循环依赖-Is-there-an-unresolvable-circular-reference?-哪种解决方式最好？](https://www.v2ex.com/t/673844) 
 - [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843) 

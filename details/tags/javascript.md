@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -142,6 +142,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-21-FCN-正式发布定制路由器固件](https://www.v2ex.com/t/674188) 
 - [2020-05-21-openwrt-终于合并了红米-AC2100-路由器的-PR](https://www.v2ex.com/t/674175) 
 - [2020-05-21-关于路由器设置-DMZ-和-UPnP-的一些疑问](https://www.v2ex.com/t/674158) 
 - [2020-05-21-联通-IPv6-的国际路由为何这么绕？](https://www.v2ex.com/t/674155) 

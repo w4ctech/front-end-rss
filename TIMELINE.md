@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-21 22:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-印度最大贫民窟新增47例新冠肺炎确诊病例-累计1425例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq59RWtbRWTb2ZK7dyLrW200521&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-法新社：欧洲已经有超过17万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC5bnlij5tB6NYcyxX7t7200521&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-​英国将向民众提供免费新冠病毒抗体测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivH1kvixoq3MLoTtN1g1W200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-2020短池游泳世锦赛延期一年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWRRQp6uSvsnp1tP94onK200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-联合国秘书长古特雷斯：结束非洲疫情对全球至关重要](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQuD8JZu3mTKgWAoX3h6J200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1) 
@@ -928,6 +931,14 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-21-FCN-正式发布定制路由器固件](https://www.v2ex.com/t/674188) 
+- [【V2EX】2020-05-21-初学-Git-产生的疑问](https://www.v2ex.com/t/674187) 
+- [【V2EX】2020-05-21-cuckoo（一款基于桌面通知的定时提醒工具）1.3.0-发布，略微改善了使用方式，欢迎各位指教。](https://www.v2ex.com/t/674186) 
+- [【V2EX】2020-05-21-百度搜索的在吗？杨超越被封杀了？](https://www.v2ex.com/t/674185) 
+- [【V2EX】2020-05-21-Win10-2004-如何禁用-modern-standby](https://www.v2ex.com/t/674184) 
+- [【V2EX】2020-05-21-求助帖：-HackMD-如何添加-GA-数据分析？](https://www.v2ex.com/t/674182) 
+- [【V2EX】2020-05-21-说说我最近几天-xsm、一加-8-双持的感受](https://www.v2ex.com/t/674181) 
+- [【V2EX】2020-05-21-阿里云域名抢注竞价真是为了钱什么都干的出来](https://www.v2ex.com/t/674180) 
 - [【V2EX】2020-05-21-没人觉得-Google-ADs-很恶心吗？](https://www.v2ex.com/t/674179) 
 - [【V2EX】2020-05-21-Chrome-Help，-chrome-浏览器下载文件失败，打开下载管理器插件显示这种图标，把插件关闭后就没有反应](https://www.v2ex.com/t/674178) 
 - [【V2EX】2020-05-21-体感摄像头……选哪个好？](https://www.v2ex.com/t/674177) 

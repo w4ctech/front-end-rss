@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 16:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 16:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-21-新加坡新增448例新冠肺炎确诊病例-累计达29812例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOa4a89swjVySkXGwwd2j200521&isfromapp=1) ![](assets/new.png)  
-- [2020-05-21-​阿曼政府继续“解禁”-允许重开游艇码头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifxq383RfWmBV8nI1CCA9200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-新加坡新增448例新冠肺炎确诊病例-累计达29812例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOa4a89swjVySkXGwwd2j200521&isfromapp=1)  
+- [2020-05-21-​阿曼政府继续“解禁”-允许重开游艇码头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifxq383RfWmBV8nI1CCA9200521&isfromapp=1)  
 - [2020-05-21-京津30家医疗机构被纳入河北石家庄医保定点范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEcFanopxGpSrpxefPg200521&isfromapp=1)  
 - [2020-05-21-受新冠肺炎疫情影响-日本累计失业人数接近1万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVBfZ5OCz8yMs80TvZun5200521&isfromapp=1)  
 - [2020-05-21-湖北武汉7万余名初三学生正式返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir7zEJpGx3VAk9ZeBjB4x200521&isfromapp=1)  
@@ -414,6 +414,8 @@
 </summary>
 
 
+- [2020-05-21-不用框架2周写一个电商网站，同济软工系前端小作业引热议](https://www.ershicimi.com/p/1c02bc22d6a3c52854bf5301c55226bb) ![](assets/new.png)  
+- [2020-05-21-JavaScript原型：关于对象的深入研究](https://www.ershicimi.com/p/247955499df22f039f3e8b60d7383eb7) ![](assets/new.png)  
 - [2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf)  
 - [2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d)  
 - [2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886)  
@@ -432,8 +434,6 @@
 - [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)  
 - [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073)  
 - [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
-- [2020-05-11-工程主管有哪些职责？](https://www.ershicimi.com/p/e8183e6f753d90ba9c065703c726fcc0)  
-- [2020-05-10-前端周报：Android-11-Beta-版下月发布；黑客操纵僵尸网络只为下载动漫；成人网站泄露10](https://www.ershicimi.com/p/09b1de212488b922c6cc184d1ca54d9d)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,20 +1060,20 @@
 </summary>
 
 
-- [2020-05-21-我喜欢的那个`今日热榜`不在了](https://www.v2ex.com/t/674042) ![](assets/new.png)  
-- [2020-05-21-rabbitmq-某个消费者去消费某个队列的时候，它消费的速度是怎么样的要怎么看呢](https://www.v2ex.com/t/674041) ![](assets/new.png)  
-- [2020-05-21-有人知道数据或者文件的储存成本一般是多少么？](https://www.v2ex.com/t/674040) ![](assets/new.png)  
-- [2020-05-21-大佬们求个视频存储播放方案](https://www.v2ex.com/t/674038) ![](assets/new.png)  
-- [2020-05-21-关于正则表达式](https://www.v2ex.com/t/674036) ![](assets/new.png)  
-- [2020-05-21-请问聚合网站如何控制一下外链？](https://www.v2ex.com/t/674034) ![](assets/new.png)  
-- [2020-05-21-身边是不是有这么些朋友，他/她很宅，除了公司和家两点一线，很少有多余的社交](https://www.v2ex.com/t/674033) ![](assets/new.png)  
-- [2020-05-21-遇到了一个关于连接-Mongodb-的怪事，帮判断一下](https://www.v2ex.com/t/674031) ![](assets/new.png)  
-- [2020-05-21-有没有集成-bugly-被-play-暂停后申诉成功的？](https://www.v2ex.com/t/674030) ![](assets/new.png)  
-- [2020-05-21-eGPU-Mantiz-能带得动-5700XT-吗，体验怎么样](https://www.v2ex.com/t/674029) ![](assets/new.png)  
-- [2020-05-21-咱们-V-站大神有懂-Final-cut-pro-三件套的吗](https://www.v2ex.com/t/674028) ![](assets/new.png)  
-- [2020-05-21-在-android10-上微信之类-app-也拿不到-imei-了？](https://www.v2ex.com/t/674027) ![](assets/new.png)  
-- [2020-05-21-想了解一下-35-以上的程序员.都去哪了做什么了.](https://www.v2ex.com/t/674026) ![](assets/new.png)  
-- [2020-05-21-福豹厂招人-上海-杭州--Java-/k8s/Go](https://www.v2ex.com/t/674024) ![](assets/new.png)  
+- [2020-05-21-我喜欢的那个`今日热榜`不在了](https://www.v2ex.com/t/674042)  
+- [2020-05-21-rabbitmq-某个消费者去消费某个队列的时候，它消费的速度是怎么样的要怎么看呢](https://www.v2ex.com/t/674041)  
+- [2020-05-21-有人知道数据或者文件的储存成本一般是多少么？](https://www.v2ex.com/t/674040)  
+- [2020-05-21-大佬们求个视频存储播放方案](https://www.v2ex.com/t/674038)  
+- [2020-05-21-关于正则表达式](https://www.v2ex.com/t/674036)  
+- [2020-05-21-请问聚合网站如何控制一下外链？](https://www.v2ex.com/t/674034)  
+- [2020-05-21-身边是不是有这么些朋友，他/她很宅，除了公司和家两点一线，很少有多余的社交](https://www.v2ex.com/t/674033)  
+- [2020-05-21-遇到了一个关于连接-Mongodb-的怪事，帮判断一下](https://www.v2ex.com/t/674031)  
+- [2020-05-21-有没有集成-bugly-被-play-暂停后申诉成功的？](https://www.v2ex.com/t/674030)  
+- [2020-05-21-eGPU-Mantiz-能带得动-5700XT-吗，体验怎么样](https://www.v2ex.com/t/674029)  
+- [2020-05-21-咱们-V-站大神有懂-Final-cut-pro-三件套的吗](https://www.v2ex.com/t/674028)  
+- [2020-05-21-在-android10-上微信之类-app-也拿不到-imei-了？](https://www.v2ex.com/t/674027)  
+- [2020-05-21-想了解一下-35-以上的程序员.都去哪了做什么了.](https://www.v2ex.com/t/674026)  
+- [2020-05-21-福豹厂招人-上海-杭州--Java-/k8s/Go](https://www.v2ex.com/t/674024)  
 - [2020-05-21-Web-前端开发，下面哪款-CPU-更合适一些？](https://www.v2ex.com/t/674023)  
 - [2020-05-21-求助，如何提高自己的画图表达能力？比如架构设计图、数据库模型等](https://www.v2ex.com/t/674022)  
 - [2020-05-21-今年辞职跟-3-个朋友开始创业，方向是奢侈品相关，不知道有没有老哥是这个行业的，可以进来聊一聊。](https://www.v2ex.com/t/674021)  

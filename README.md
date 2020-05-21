@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 00:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 01:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-05-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/36ebfd56d024dbb473b3564d6c31f051) ![](assets/new.png)  
+- [2020-05-21-我在阿里是怎么工作的——写在阿里入职一周年](https://www.ershicimi.com/p/2fba3e6f25e34a317e32eca6c65dc07f) ![](assets/new.png)  
 - [2020-05-20-漫谈Vue3.0的最新技术](https://www.ershicimi.com/p/893d65722b8fbe4de29e39714149c9ac)  
 - [2020-05-20-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/550067a66a0947076fe972655063afa1)  
 - [2020-05-19-Npm-依赖处理的进化史](https://www.ershicimi.com/p/515d191430cb120d491b0f5335dbd8fd)  
@@ -164,8 +166,6 @@
 - [2020-05-12-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44)  
 - [2020-05-11-Google-技术面试全记录](https://www.ershicimi.com/p/045361c36c0f956adf311b5f484b72d9)  
 - [2020-05-11-这个视频只有程序员能看懂](https://www.ershicimi.com/p/3a12606200ca342435cc31cf40000930)  
-- [2020-05-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/036ec6b3098715448e58da4a6409e438)  
-- [2020-05-09-大厂的小程序高性能之路](https://www.ershicimi.com/p/39c467791a00d406534265129f607fe9)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,12 +1060,12 @@
 </summary>
 
 
-- [2020-05-22-bug?-在-Firefox-的设置的搜索框里，无法输入中文](https://www.v2ex.com/t/674219) ![](assets/new.png)  
-- [2020-05-22-hello-大家好，打个招呼](https://www.v2ex.com/t/674218) ![](assets/new.png)  
-- [2020-05-22-20200522-午夜俱乐部](https://www.v2ex.com/t/674217) ![](assets/new.png)  
-- [2020-05-22-继-GTA5-之后，-epic-要来送文明-6-了](https://www.v2ex.com/t/674216) ![](assets/new.png)  
-- [2020-05-22-分享一个疫情期间写的学英语-web](https://www.v2ex.com/t/674215) ![](assets/new.png)  
-- [2020-05-21-可转债的买入机会又来了](https://www.v2ex.com/t/674214) ![](assets/new.png)  
+- [2020-05-22-bug?-在-Firefox-的设置的搜索框里，无法输入中文](https://www.v2ex.com/t/674219)  
+- [2020-05-22-hello-大家好，打个招呼](https://www.v2ex.com/t/674218)  
+- [2020-05-22-20200522-午夜俱乐部](https://www.v2ex.com/t/674217)  
+- [2020-05-22-继-GTA5-之后，-epic-要来送文明-6-了](https://www.v2ex.com/t/674216)  
+- [2020-05-22-分享一个疫情期间写的学英语-web](https://www.v2ex.com/t/674215)  
+- [2020-05-21-可转债的买入机会又来了](https://www.v2ex.com/t/674214)  
 - [2020-05-21-如果公司不符合个人职业规划，值得待下去吗？](https://www.v2ex.com/t/674213)  
 - [2020-05-21-迫于离开杭州，转租滨江单间](https://www.v2ex.com/t/674211)  
 - [2020-05-21-2019：要是再裸辞我是狗。-2020：汪汪汪](https://www.v2ex.com/t/674210)  

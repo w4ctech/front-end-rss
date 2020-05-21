@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -349,6 +349,8 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/36ebfd56d024dbb473b3564d6c31f051) 
+- [2020-05-21-我在阿里是怎么工作的——写在阿里入职一周年](https://www.ershicimi.com/p/2fba3e6f25e34a317e32eca6c65dc07f) 
 - [2020-05-19-一个二十多岁的程序员提前下班了](https://www.ershicimi.com/p/917e06e15479527e3e0b7cda2b037c6a) 
 - [2020-05-18-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/72f0be288304b368f857faf1f743d695) 
 - [2020-05-16-Deno-1.0-正式发布！](https://www.ershicimi.com/p/7b312dbd3d6f7b1d0d8f3ed48528c917) 

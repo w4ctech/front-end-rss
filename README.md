@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 21:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 22:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-21-2020短池游泳世锦赛延期一年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWRRQp6uSvsnp1tP94onK200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-联合国秘书长古特雷斯：结束非洲疫情对全球至关重要](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQuD8JZu3mTKgWAoX3h6J200521&isfromapp=1) ![](assets/new.png)  
 - [2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1)  
 - [2020-05-21-苏丹新增410例新冠肺炎确诊病例-累计3138例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP5xJZVXBTY4I5hLQraDC200521&isfromapp=1)  
 - [2020-05-21-土耳其伊斯坦布尔城市综合医院正式开放-将提供2682张床位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFOHWrx1p7ZHICwMvPou200521&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-21-上海新增1例湖北来沪确诊病例](http://m.weibo.cn/2656274875/4506932915174746)  
 - [2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479)  
 - [2020-05-21-世卫组织：全球新增57804例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1)  
-- [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1)  
-- [2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,11 +1060,19 @@
 </summary>
 
 
-- [2020-05-21-Chrome-新出的群组折叠功能，有人用过并成功的吗？](https://www.v2ex.com/t/674170) ![](assets/new.png)  
-- [2020-05-21-似乎好像大概-macOS-的内置中文输入法的-“全/半角”选项无效啊.](https://www.v2ex.com/t/674169) ![](assets/new.png)  
-- [2020-05-21-自由职业前端求组队中](https://www.v2ex.com/t/674168) ![](assets/new.png)  
-- [2020-05-21-计划做一个结合日历和看板的小应用](https://www.v2ex.com/t/674167) ![](assets/new.png)  
-- [2020-05-21-Powertoys-v0.18-新加入-Powertoys-Run](https://www.v2ex.com/t/674165) ![](assets/new.png)  
+- [2020-05-21-没人觉得-Google-ADs-很恶心吗？](https://www.v2ex.com/t/674179) ![](assets/new.png)  
+- [2020-05-21-Chrome-Help，-chrome-浏览器下载文件失败，打开下载管理器插件显示这种图标，把插件关闭后就没有反应](https://www.v2ex.com/t/674178) ![](assets/new.png)  
+- [2020-05-21-体感摄像头……选哪个好？](https://www.v2ex.com/t/674177) ![](assets/new.png)  
+- [2020-05-21-猫头鹰-NH-L9i-和-Intel-原装扇相比，哪个安静？](https://www.v2ex.com/t/674176) ![](assets/new.png)  
+- [2020-05-21-openwrt-终于合并了红米-AC2100-路由器的-PR](https://www.v2ex.com/t/674175) ![](assets/new.png)  
+- [2020-05-21-问问北京疫情管控情况](https://www.v2ex.com/t/674174) ![](assets/new.png)  
+- [2020-05-21-刚本地-commit-了，又有些修修补补，不想提交一个新的-coomit，也不想-git-reset---soft，有更方便快捷的方式么？](https://www.v2ex.com/t/674173) ![](assets/new.png)  
+- [2020-05-21-渣渣的两个-offer，现在很纠结，希望各位给点意见](https://www.v2ex.com/t/674171) ![](assets/new.png)  
+- [2020-05-21-Chrome-新出的群组折叠功能，有人用过并成功的吗？](https://www.v2ex.com/t/674170)  
+- [2020-05-21-似乎好像大概-macOS-的内置中文输入法的-“全/半角”选项无效啊.](https://www.v2ex.com/t/674169)  
+- [2020-05-21-自由职业前端求组队中](https://www.v2ex.com/t/674168)  
+- [2020-05-21-计划做一个结合日历和看板的小应用](https://www.v2ex.com/t/674167)  
+- [2020-05-21-Powertoys-v0.18-新加入-Powertoys-Run](https://www.v2ex.com/t/674165)  
 - [2020-05-21-15-款-mbp-开发安卓风扇太响了](https://www.v2ex.com/t/674164)  
 - [2020-05-21-iPhone-如何快速发送内容到-windows-电脑?](https://www.v2ex.com/t/674163)  
 - [2020-05-21-入职选电脑-MBP-13-还是-15？](https://www.v2ex.com/t/674162)  
@@ -1072,14 +1080,6 @@
 - [2020-05-21-想做手机-APP-产品了-咨询下-是选择-Android-平台还是-iOS-平台-主要想挣钱~](https://www.v2ex.com/t/674160)  
 - [2020-05-21-准备下了班去摆地摊，现在卖什么好？夏天在城乡结合处，下午与晚上有时间](https://www.v2ex.com/t/674159)  
 - [2020-05-21-关于路由器设置-DMZ-和-UPnP-的一些疑问](https://www.v2ex.com/t/674158)  
-- [2020-05-21-Windows-10-Pro-for-Workstations-工作站](https://www.v2ex.com/t/674157)  
-- [2020-05-21-在-macOS-下面，如何高效率在程序中打开文件？](https://www.v2ex.com/t/674156)  
-- [2020-05-21-联通-IPv6-的国际路由为何这么绕？](https://www.v2ex.com/t/674155)  
-- [2020-05-21-字节跳动飞书业务强力招人~~拿简历来砸我吧](https://www.v2ex.com/t/674154)  
-- [2020-05-21-Chrome-83-正式版支持标签页分组](https://www.v2ex.com/t/674153)  
-- [2020-05-21-今天翻不过去，各位老铁呢？](https://www.v2ex.com/t/674152)  
-- [2020-05-21-杭州|北京阿里巴巴急求全栈开发简历](https://www.v2ex.com/t/674151)  
-- [2020-05-21-请教一下，-Padavan-固件如何实现启动后每隔三天执行一次命令](https://www.v2ex.com/t/674150)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

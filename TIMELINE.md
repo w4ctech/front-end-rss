@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-21 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-2020短池游泳世锦赛延期一年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWRRQp6uSvsnp1tP94onK200521&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-联合国秘书长古特雷斯：结束非洲疫情对全球至关重要](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQuD8JZu3mTKgWAoX3h6J200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-苏丹新增410例新冠肺炎确诊病例-累计3138例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP5xJZVXBTY4I5hLQraDC200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-土耳其伊斯坦布尔城市综合医院正式开放-将提供2682张床位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFOHWrx1p7ZHICwMvPou200521&isfromapp=1) 
@@ -926,6 +928,14 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-21-没人觉得-Google-ADs-很恶心吗？](https://www.v2ex.com/t/674179) 
+- [【V2EX】2020-05-21-Chrome-Help，-chrome-浏览器下载文件失败，打开下载管理器插件显示这种图标，把插件关闭后就没有反应](https://www.v2ex.com/t/674178) 
+- [【V2EX】2020-05-21-体感摄像头……选哪个好？](https://www.v2ex.com/t/674177) 
+- [【V2EX】2020-05-21-猫头鹰-NH-L9i-和-Intel-原装扇相比，哪个安静？](https://www.v2ex.com/t/674176) 
+- [【V2EX】2020-05-21-openwrt-终于合并了红米-AC2100-路由器的-PR](https://www.v2ex.com/t/674175) 
+- [【V2EX】2020-05-21-问问北京疫情管控情况](https://www.v2ex.com/t/674174) 
+- [【V2EX】2020-05-21-刚本地-commit-了，又有些修修补补，不想提交一个新的-coomit，也不想-git-reset---soft，有更方便快捷的方式么？](https://www.v2ex.com/t/674173) 
+- [【V2EX】2020-05-21-渣渣的两个-offer，现在很纠结，希望各位给点意见](https://www.v2ex.com/t/674171) 
 - [【V2EX】2020-05-21-Chrome-新出的群组折叠功能，有人用过并成功的吗？](https://www.v2ex.com/t/674170) 
 - [【V2EX】2020-05-21-似乎好像大概-macOS-的内置中文输入法的-“全/半角”选项无效啊.](https://www.v2ex.com/t/674169) 
 - [【V2EX】2020-05-21-自由职业前端求组队中](https://www.v2ex.com/t/674168) 

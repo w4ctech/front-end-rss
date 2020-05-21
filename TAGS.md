@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-21 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -589,14 +589,14 @@
 - [【InfoQ】最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304)
 - [【InfoQ】手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】alpine-Linux-跑-docker？](https://www.v2ex.com/t/673940)
+- [【V2EX】有关-Nginx-的疑惑](https://www.v2ex.com/t/673936)
 - [【V2EX】Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399)
 - [【V2EX】nginx-日志记录，怎么给不同的网站-自定义不同的-log_format？](https://www.v2ex.com/t/673260)
 - [【V2EX】docker-如何选择适合镜像](https://www.v2ex.com/t/672992)
 - [【V2EX】新版-docker-desktop-win10-配置界面开启-kubernetes-就卡住咋解决？](https://www.v2ex.com/t/672766)
 - [【V2EX】弄了一个-gcr.io-镜像仓库同步到-docker-hub-的工具](https://www.v2ex.com/t/672731)
 - [【V2EX】关于一个-Docker-容器宕机后，容器再次启动因-mq-问题启动失败的问题](https://www.v2ex.com/t/672704)
-- [【V2EX】logstash6.5.4-解析-nginx-日志格式报错](https://www.v2ex.com/t/672321)
-- [【V2EX】不懂就问，生产环境下的-keepalived+nginx-的问题](https://www.v2ex.com/t/672281)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -619,6 +619,7 @@
 - [【前端开发】GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db)
 - [【前端大学】GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/8feec67e32cb3ae2b77c53a0eca6838a)
 - [【前端之巅】开源项目被-GitHub-要求下架：上游项目闭源了？](https://www.ershicimi.com/p/26da62af3035f8eb4a71fb67e7480273)
+- [【前端迷】推荐几个github高star项目持有者的前端公众号](https://www.ershicimi.com/p/9efade8e9713513841b70656618e4dd3)
 - [【前端迷】前端面试开源项目清单（github仓库，个人网站都有）](https://www.ershicimi.com/p/83b9366b275bf5c08cc800dfc0eb63f7)
 - [【前端迷】GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/04a59c21d7bc7b7e0a3b2f39eba83808)
 - [【全栈前端精选】昨天GitHub迎来重大更新](https://www.ershicimi.com/p/7c1c724025fdb4cf9dfaf8285a9ceb67)
@@ -632,7 +633,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【互联网架构师】GitHub重大更新：在线开发上线，是时候卸载IDE了](https://www.ershicimi.com/p/fcc7021d1f00fe60761575487d7a5011)
 - [【互联网架构师】一次登录，终身免费：GitHub宣布向所有人免费开放所有核心功能](https://www.ershicimi.com/p/08ac1adde3efb56a97bbe87831d1fdc2)
-- [【互联网架构师】这张「二维码」火到了GitHub热榜第一：扫一扫，打破系统边界，文件秒传](https://www.ershicimi.com/p/e89cefddded75359e8cc5a29805b1965)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -143,6 +143,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-22-IE8-下-JS-动态更改-img-标签的-src-值，内存泄漏，求助！](https://www.v2ex.com/t/674225) 
 - [2020-05-21-关于-golang-在-mac-上的环境变量设置](https://www.v2ex.com/t/674196) 
 - [2020-05-21-Python-的-re.sub-正则替换问题](https://www.v2ex.com/t/674191) 
 - [2020-05-21-FCN-正式发布定制路由器固件](https://www.v2ex.com/t/674188) 

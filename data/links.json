@@ -9462,6 +9462,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "统计一下多少公司的前端项目用 parceljs ？而不是 webpack",
+        "link": "https://www.v2ex.com/t/674228",
+        "date": "2020-05-22"
+      },
+      {
         "title": "ffmpeg HLS 切片这么耗硬盘 I/O 吗？",
         "link": "https://www.v2ex.com/t/674227",
         "date": "2020-05-22"

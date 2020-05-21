@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 19:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 20:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1060,14 +1060,14 @@
 </summary>
 
 
-- [2020-05-21-大家-今天-有遇到-调用音频录制,闪退的-APP-？](https://www.v2ex.com/t/674128) ![](assets/new.png)  
-- [2020-05-21-分享我用-Deno-写的静态网站生成器---Pagic](https://www.v2ex.com/t/674127) ![](assets/new.png)  
-- [2020-05-21-mac-上，怎么用自定义快捷键覆盖-软件的快捷键呢？](https://www.v2ex.com/t/674126) ![](assets/new.png)  
-- [2020-05-21-Python3-里怎么让一个包含-while-循环的异步函数不断运行，而不阻塞正常的代码流程](https://www.v2ex.com/t/674125) ![](assets/new.png)  
-- [2020-05-21-C#-.NET5-“非程序员”的福报](https://www.v2ex.com/t/674124) ![](assets/new.png)  
-- [2020-05-21-15-款-15-寸-mbp-升级求助](https://www.v2ex.com/t/674123) ![](assets/new.png)  
-- [2020-05-21-北京-望京-阿里巴巴-Android-实习生-|-Android-开发专家-招聘，同学们快来快来！](https://www.v2ex.com/t/674122) ![](assets/new.png)  
-- [2020-05-21-有经常用共享汽车的-v-友吗](https://www.v2ex.com/t/674121) ![](assets/new.png)  
+- [2020-05-21-大家-今天-有遇到-调用音频录制,闪退的-APP-？](https://www.v2ex.com/t/674128)  
+- [2020-05-21-分享我用-Deno-写的静态网站生成器---Pagic](https://www.v2ex.com/t/674127)  
+- [2020-05-21-mac-上，怎么用自定义快捷键覆盖-软件的快捷键呢？](https://www.v2ex.com/t/674126)  
+- [2020-05-21-Python3-里怎么让一个包含-while-循环的异步函数不断运行，而不阻塞正常的代码流程](https://www.v2ex.com/t/674125)  
+- [2020-05-21-C#-.NET5-“非程序员”的福报](https://www.v2ex.com/t/674124)  
+- [2020-05-21-15-款-15-寸-mbp-升级求助](https://www.v2ex.com/t/674123)  
+- [2020-05-21-北京-望京-阿里巴巴-Android-实习生-|-Android-开发专家-招聘，同学们快来快来！](https://www.v2ex.com/t/674122)  
+- [2020-05-21-有经常用共享汽车的-v-友吗](https://www.v2ex.com/t/674121)  
 - [2020-05-21-Win10-2004-正式版更新内容体验](https://www.v2ex.com/t/674120)  
 - [2020-05-21-如何打破目前窘境](https://www.v2ex.com/t/674119)  
 - [2020-05-21-想问一个关于-Vue-设计模式的可能不是问题的问题](https://www.v2ex.com/t/674118)  
@@ -1091,6 +1091,7 @@
 </summary>
 
 
+- [2020-05-21-Category:-Front-End-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-20-读懂这几个关键词，你就能了解-Docker-啦-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13463&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F142224080%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-19-从X86指令深扒JVM的位移操作-club.perfma.com](https://blogread.cn/news/go.php?idItem=13462&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F620015%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-18-利用-ViewBinding-和反射封装的基类，从此再也不用-findViewById-了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13461&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_7JGaJuUSd8SFQbTl6zwLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1110,7 +1111,6 @@
 - [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-利用最近的闲暇，重新上线了-MPAA-电影分级插件-old-panda.com](https://blogread.cn/news/go.php?idItem=13446&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F11%2Fmpaa-rating-extension-ii%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-13-检查网上下载“学习资料”的完整性，用这招就够了-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13445&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F140394493%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-12-进程物理内存远大于Xmx的问题分析-club.perfma.com](https://blogread.cn/news/go.php?idItem=13444&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F610838%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

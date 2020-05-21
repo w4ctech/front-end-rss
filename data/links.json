@@ -1257,6 +1257,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "上海新增1例湖北来沪确诊病例",
+        "link": "http://m.weibo.cn/2656274875/4506932915174746",
+        "date": "2020-05-21"
+      },
+      {
         "title": "巴西新增逾1.9万例确诊病例",
         "link": "http://m.weibo.cn/3057540037/4506913511798479",
         "date": "2020-05-21"
@@ -9181,6 +9186,21 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "40 次模拟面试的经验分享",
+        "link": "https://www.v2ex.com/t/673847",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "看样子今年经济不景气，租房市场都要完啊？",
+        "link": "https://www.v2ex.com/t/673846",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "怎样保存 html5 网页离线浏览",
+        "link": "https://www.v2ex.com/t/673845",
+        "date": "2020-05-21"
+      },
       {
         "title": "Spring 出现循环依赖 (Is there an unresolvable circular reference?) 哪种解决方式最好？",
         "link": "https://www.v2ex.com/t/673844",
@@ -42485,6 +42505,71 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "十个超级实用的 git 命令",
+        "link": "https://toutiao.io/k/wwwv4wa",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "MySQL 常见 6 个考题在实际工作中的运用",
+        "link": "https://toutiao.io/k/ptu2uvb",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "数据迁移（二）：如何快速迁移",
+        "link": "https://toutiao.io/k/v6b6x2n",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "Zookeeper 如何保证分布式系统数据一致性",
+        "link": "https://toutiao.io/k/got8gax",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "如何在 Kubernetes 中创建一个自定义 Controller?",
+        "link": "https://toutiao.io/k/qluqqcg",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "Java 类隔离加载的正确姿势",
+        "link": "https://toutiao.io/k/aj1bpjx",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "广告行业中那些趣事（十）：推荐系统中不得不说的 DSSM 双塔模型",
+        "link": "https://toutiao.io/k/9v5muff",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "微信小程序无法加载：SSL 配置修改",
+        "link": "https://toutiao.io/k/hpy5kkh",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "Java 并发编程那些事儿（二）：锁",
+        "link": "https://toutiao.io/k/il0ttvo",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "Python 实现排序算法",
+        "link": "https://toutiao.io/k/bzfd6ig",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "同样是开发，为什么你不如别人？",
+        "link": "https://toutiao.io/k/edlf6tx",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "读懂这几个关键词，你就能了解 Docker 啦",
+        "link": "https://toutiao.io/k/043xn08",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "从 0 实现 React（二）：组件更新",
+        "link": "https://toutiao.io/k/9jnsm88",
+        "date": "2020-05-21"
+      },
       {
         "title": "简单而面试中又常见的知识点：JS 执行机制",
         "link": "https://toutiao.io/k/dbafpcs",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -99,6 +99,7 @@
 - [2020-04-24-react+github-pages-搭建的个人首页](https://www.v2ex.com/t/665805) 
 - [2020-04-24-有什么-react-的-ui-库，是响应式的呢？类似-bootstrap-的响应式](https://www.v2ex.com/t/665517) 
 - [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-21-从-0-实现-React（二）：组件更新](https://toutiao.io/k/9jnsm88) 
 - [2020-05-15-全平台（Vue、React、微信小程序）任意角度旋转图片裁剪组件](https://toutiao.io/k/dskvddo) 
 - [2020-05-14-80-行代码实现-Preact-Transition-组件](https://toutiao.io/k/ngznvqa) 
 - [2020-05-13-译-Next.js-和-Nuxt.js-的语法比较，Vue-和-React-的两大-SSR-解决方案](https://toutiao.io/k/s9cx24y) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-21-上海新增1例湖北来沪确诊病例](http://m.weibo.cn/2656274875/4506932915174746) 
 - [2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479) 
 - [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1) 
 - [2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1) 
@@ -947,6 +948,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-看样子今年经济不景气，租房市场都要完啊？](https://www.v2ex.com/t/673846) 
 - [2020-05-21-Spring-出现循环依赖-Is-there-an-unresolvable-circular-reference?-哪种解决方式最好？](https://www.v2ex.com/t/673844) 
 - [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843) 
 - [2020-05-21-Jest-写-unit-test，如何-mock-同一个文件中被调用的函数？](https://www.v2ex.com/t/673841) 
@@ -6205,6 +6207,13 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-21-MySQL-常见-6-个考题在实际工作中的运用](https://toutiao.io/k/ptu2uvb) 
+- [2020-05-21-数据迁移（二）：如何快速迁移](https://toutiao.io/k/v6b6x2n) 
+- [2020-05-21-Zookeeper-如何保证分布式系统数据一致性](https://toutiao.io/k/got8gax) 
+- [2020-05-21-如何在-Kubernetes-中创建一个自定义-Controller?](https://toutiao.io/k/qluqqcg) 
+- [2020-05-21-广告行业中那些趣事（十）：推荐系统中不得不说的-DSSM-双塔模型](https://toutiao.io/k/9v5muff) 
+- [2020-05-21-Java-并发编程那些事儿（二）：锁](https://toutiao.io/k/il0ttvo) 
+- [2020-05-21-同样是开发，为什么你不如别人？](https://toutiao.io/k/edlf6tx) 
 - [2020-05-21-有了这款低代码开发工具，Java-开发者可以告别-996-啦！](https://toutiao.io/k/47ah64g) 
 - [2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo) 
 - [2020-05-20-Java-线程通信之-wait/notify-机制](https://toutiao.io/k/29ntynx) 

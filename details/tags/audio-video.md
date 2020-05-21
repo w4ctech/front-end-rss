@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -26,6 +26,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-05-21-视频有奖征集活动-|-今天也是爱你的一天](https://www.ershicimi.com/p/a78dfab9b31ad51d865a81d78708beac) 
 - [2020-05-06-中奖名单-|-现金红包、防晒霜和视频会员年卡](https://www.ershicimi.com/p/7e2f36ca93fae57aa775cea02444c190) 
 - [2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [2020-04-29-美国公布-UFO-视频？！这次真的被证实了吗？](https://www.ershicimi.com/p/e88d5a28b0da826023f24f3ee510a9c5) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-21 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-世卫组织：全球新增57804例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-西班牙政府强制6岁以上民众佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRYPuTQnBfDugfKYoOswp200520&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-20-韩国复课第一天-多所学校“喊停”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTGySfcNgXMMjgxjEeIlB200520&isfromapp=1) 
@@ -888,6 +891,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843) 
 - [【V2EX】2020-05-21-Jest-写-unit-test，如何-mock-同一个文件中被调用的函数？](https://www.v2ex.com/t/673841) 
 - [【V2EX】2020-05-21-为什么我的表单-post-了一个数字，后台接收到之后变成了-string？](https://www.v2ex.com/t/673840) 
 - [【V2EX】2020-05-21-求推荐一款好吃的面粉.-听说多吃面食好,-看到-求推荐一款好吃的大米,-那么多回复,我也想问问](https://www.v2ex.com/t/673839) 
@@ -5703,6 +5707,7 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-21-有了这款低代码开发工具，Java-开发者可以告别-996-啦！](https://toutiao.io/k/47ah64g) 
 - [【开发者头条】2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo) 
 - [【开发者头条】2020-05-20-Python-接口覆盖率集成-GITLAB-CI/CD](https://toutiao.io/k/r4m8bq4) 
 - [【开发者头条】2020-05-20-彻底解决-gcr、quay、DockerHub-镜像下载难题](https://toutiao.io/k/0fh4qen) 

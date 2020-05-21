@@ -1257,6 +1257,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "巴西新增逾1.9万例确诊病例",
+        "link": "http://m.weibo.cn/3057540037/4506913511798479",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "世卫组织：全球新增57804例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifARP6MEN83nnZFpmSbwh200521&isfromapp=1",
+        "date": "2020-05-21"
+      },
+      {
+        "title": "泰国疫情缓解 监狱系统将恢复探监",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1",
+        "date": "2020-05-21"
+      },
+      {
         "title": "土耳其国防部长：156名军人新冠病毒检测呈阳性 均已接受治疗或隔离",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1",
         "date": "2020-05-20"
@@ -9166,6 +9181,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "中小企业，新三板上市算是智商税吗？",
+        "link": "https://www.v2ex.com/t/673843",
+        "date": "2020-05-21"
+      },
       {
         "title": "Jest 写 unit test，如何 mock 同一个文件中被调用的函数？",
         "link": "https://www.v2ex.com/t/673841",
@@ -42460,6 +42480,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "有了这款低代码开发工具，Java 开发者可以告别 996 啦！",
+        "link": "https://toutiao.io/k/47ah64g",
+        "date": "2020-05-21"
+      },
       {
         "title": "[译] Keras vs PyTorch，哪一个更适合做深度学习？",
         "link": "https://toutiao.io/k/a0joflo",

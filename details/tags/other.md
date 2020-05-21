@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-21-巴西新增逾1.9万例确诊病例](http://m.weibo.cn/3057540037/4506913511798479) 
+- [2020-05-21-泰国疫情缓解-监狱系统将恢复探监](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0ziaJAMsuku0yozPRZUZ200521&isfromapp=1) 
 - [2020-05-20-土耳其国防部长：156名军人新冠病毒检测呈阳性-均已接受治疗或隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhaRD0Z5zBgCv3Sy6N6M200520&isfromapp=1) 
 - [2020-05-20-西班牙政府强制6岁以上民众佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRYPuTQnBfDugfKYoOswp200520&isfromapp=1) 
 - [2020-05-20-韩国复课第一天-多所学校“喊停”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTGySfcNgXMMjgxjEeIlB200520&isfromapp=1) 
@@ -945,6 +947,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-中小企业，新三板上市算是智商税吗？](https://www.v2ex.com/t/673843) 
 - [2020-05-21-Jest-写-unit-test，如何-mock-同一个文件中被调用的函数？](https://www.v2ex.com/t/673841) 
 - [2020-05-21-求推荐一款好吃的面粉.-听说多吃面食好,-看到-求推荐一款好吃的大米,-那么多回复,我也想问问](https://www.v2ex.com/t/673839) 
 - [2020-05-21-有的基金为什么不支持定投？](https://www.v2ex.com/t/673838) 
@@ -6201,6 +6204,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-21-有了这款低代码开发工具，Java-开发者可以告别-996-啦！](https://toutiao.io/k/47ah64g) 
 - [2020-05-20-译-Keras-vs-PyTorch，哪一个更适合做深度学习？](https://toutiao.io/k/a0joflo) 
 - [2020-05-20-Java-线程通信之-wait/notify-机制](https://toutiao.io/k/29ntynx) 
 - [2020-05-20-应用开发的流程](https://toutiao.io/k/l85t0c3) 

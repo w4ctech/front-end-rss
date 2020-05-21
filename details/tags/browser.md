@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 00:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,6 +47,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-22-bug?-在-Firefox-的设置的搜索框里，无法输入中文](https://www.v2ex.com/t/674219) 
 - [2020-05-21-Chrome-Help，-chrome-浏览器下载文件失败，打开下载管理器插件显示这种图标，把插件关闭后就没有反应](https://www.v2ex.com/t/674178) 
 - [2020-05-21-Chrome-新出的群组折叠功能，有人用过并成功的吗？](https://www.v2ex.com/t/674170) 
 - [2020-05-21-Chrome-83-正式版支持标签页分组](https://www.v2ex.com/t/674153) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -383,6 +383,9 @@
 - [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) 
 - [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) 
 - [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
+- [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) 
+- [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed) 
+- [2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed) 
 - [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) 
 - [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc) 
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35) 
@@ -980,6 +983,7 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-22-有没有-侧边栏自定义搜索引擎跳转拓展?](https://www.v2ex.com/t/674231) 
 - [2020-05-22-父母也认为-996-是福报](https://www.v2ex.com/t/674230) 
 - [2020-05-22-ffmpeg-HLS-切片这么耗硬盘-I/O-吗？](https://www.v2ex.com/t/674227) 
 - [2020-05-22-关于-k8s-中-flannel-的-SubnetLen-有人了解过吗？](https://www.v2ex.com/t/674223) 

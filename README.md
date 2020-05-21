@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 07:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -227,6 +227,10 @@
 </summary>
 
 
+- [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) ![](assets/new.png)  
+- [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed) ![](assets/new.png)  
+- [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e) ![](assets/new.png)  
+- [2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed) ![](assets/new.png)  
 - [2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)  
 - [2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a)  
 - [2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a)  
@@ -243,10 +247,6 @@
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
 - [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)  
 - [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e)  
-- [2020-05-11-【第1941期】为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/9555e15ad143382a5250b13550fe55d6)  
-- [2020-05-10-【第1940期】2020前端性能优化清单之六](https://www.ershicimi.com/p/5bbda786ca3c2f684668a567cee14470)  
-- [2020-05-09-【第1939期】2020前端性能优化清单之五](https://www.ershicimi.com/p/7760e694caf8504a3a5a71854655b60a)  
-- [2020-05-08-【第1938期】2020前端性能优化清单之四](https://www.ershicimi.com/p/aa83d0d4d93639fa7695e25b057221c2)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,7 +1060,8 @@
 </summary>
 
 
-- [2020-05-22-父母也认为-996-是福报](https://www.v2ex.com/t/674230) ![](assets/new.png)  
+- [2020-05-22-有没有-侧边栏自定义搜索引擎跳转拓展?](https://www.v2ex.com/t/674231) ![](assets/new.png)  
+- [2020-05-22-父母也认为-996-是福报](https://www.v2ex.com/t/674230)  
 - [2020-05-22-手机平板电脑电视各大视频应用都出现画面与声音不匹配的问题](https://www.v2ex.com/t/674229)  
 - [2020-05-22-统计一下多少公司的前端项目用-parceljs-？而不是-webpack](https://www.v2ex.com/t/674228)  
 - [2020-05-22-ffmpeg-HLS-切片这么耗硬盘-I/O-吗？](https://www.v2ex.com/t/674227)  
@@ -1079,7 +1080,6 @@
 - [2020-05-21-迫于离开杭州，转租滨江单间](https://www.v2ex.com/t/674211)  
 - [2020-05-21-2019：要是再裸辞我是狗。-2020：汪汪汪](https://www.v2ex.com/t/674210)  
 - [2020-05-21-自研-CDN-的难度在哪里？为什么都是大厂才搞自研-CDN,网上的-CDN-教程也很少,哪里有相关技术参考的吗？](https://www.v2ex.com/t/674209)  
-- [2020-05-21-做运维开发或-DevOps-的出来冒个泡呗~你们平常都做些什么？是不是经常和技术开发的同事吵架？](https://www.v2ex.com/t/674207)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

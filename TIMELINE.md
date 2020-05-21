@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 07:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-22 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -409,6 +409,10 @@
 - [【React中文社区】2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) 
+- [【前端早读课】2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed) 
+- [【前端早读课】2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e) 
+- [【前端早读课】2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed) 
 - [【前端早读课】2020-05-20-【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012) 
 - [【前端早读课】2020-05-20-【活动】“前端智造，内容新生”，腾讯2020-TLC大会它来了](https://www.ershicimi.com/p/8fbb4c2292f388e5f25be023219a053a) 
 - [【前端早读课】2020-05-19-前端怎样快速入门数据结构和算法？](https://www.ershicimi.com/p/cdf87f92954928178020f9ae220a5d9a) 
@@ -947,6 +951,7 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-22-有没有-侧边栏自定义搜索引擎跳转拓展?](https://www.v2ex.com/t/674231) 
 - [【V2EX】2020-05-22-父母也认为-996-是福报](https://www.v2ex.com/t/674230) 
 - [【V2EX】2020-05-22-手机平板电脑电视各大视频应用都出现画面与声音不匹配的问题](https://www.v2ex.com/t/674229) 
 - [【V2EX】2020-05-22-统计一下多少公司的前端项目用-parceljs-？而不是-webpack](https://www.v2ex.com/t/674228) 

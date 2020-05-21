@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-22 07:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -220,6 +220,7 @@
 
 - [【Vue中文社区】别问小程序有哪些框架了，一次性告诉你](https://www.ershicimi.com/p/20553e0fb6b27e435492266aba33f458)
 - [【Vue中文社区】大厂的小程序高性能之路](https://www.ershicimi.com/p/39c467791a00d406534265129f607fe9)
+- [【前端早读课】别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端之巅】百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1)
@@ -237,7 +238,6 @@
 - [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
 - [【凹凸实验室】Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)
 - [【凹凸实验室】小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/)
-- [【凹凸实验室】决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

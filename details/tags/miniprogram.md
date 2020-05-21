@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -9,6 +9,7 @@
 
 - [2020-05-15-别问小程序有哪些框架了，一次性告诉你](https://www.ershicimi.com/p/20553e0fb6b27e435492266aba33f458) 
 - [2020-05-09-大厂的小程序高性能之路](https://www.ershicimi.com/p/39c467791a00d406534265129f607fe9) 
+- [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e) 
 - [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 
 - [2019-10-11-视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b) 
 - [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) 

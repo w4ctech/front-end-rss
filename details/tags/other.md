@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -966,6 +966,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-似乎好像大概-macOS-的内置中文输入法的-“全/半角”选项无效啊.](https://www.v2ex.com/t/674169) 
+- [2020-05-21-自由职业前端求组队中](https://www.v2ex.com/t/674168) 
+- [2020-05-21-计划做一个结合日历和看板的小应用](https://www.v2ex.com/t/674167) 
+- [2020-05-21-Powertoys-v0.18-新加入-Powertoys-Run](https://www.v2ex.com/t/674165) 
 - [2020-05-21-15-款-mbp-开发安卓风扇太响了](https://www.v2ex.com/t/674164) 
 - [2020-05-21-iPhone-如何快速发送内容到-windows-电脑?](https://www.v2ex.com/t/674163) 
 - [2020-05-21-入职选电脑-MBP-13-还是-15？](https://www.v2ex.com/t/674162) 

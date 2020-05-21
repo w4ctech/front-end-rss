@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -142,6 +142,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-21-sanic-+-tortoise-orm-+-arq-异步任务-这个组合怎么样](https://www.v2ex.com/t/674074) 
 - [2020-05-21-初学-GO，怎么判断一个变量是否未初始化/是否为空](https://www.v2ex.com/t/674053) 
 - [2020-05-21-关于正则表达式](https://www.v2ex.com/t/674036) 
 - [2020-05-21-js-错误对象-err.stack-用“console-控制台输出”与“实际字符串”不一致问题](https://www.v2ex.com/t/673897) 

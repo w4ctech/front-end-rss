@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-21 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -551,6 +551,7 @@
 - [【前端之巅】2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)
 - [【前端之巅】当程序员掌握算法后，会变得有多强？-|-极客大学](https://www.ershicimi.com/p/70fb49c1d17681e1ded13dfee0112813)
 - [【前端迷】网商银行招聘前端开发、全栈开发、无线开发](https://www.ershicimi.com/p/68d03d1221fcbd060d69542733a74ec1)
+- [【前端瓶子君】刷题两个月，终于进了梦寐以求的大厂，数据结构与算法太重要了！](https://www.ershicimi.com/p/6f986d8ed2f0cfafc6683ff57fe92fc8)
 - [【前端瓶子君】我接触过的前端数据结构与算法](https://www.ershicimi.com/p/310f723762ec8cdd32c9933dda020603)
 - [【前端瓶子君】前端进阶算法7：小白都可以看懂的树与二叉树](https://www.ershicimi.com/p/8f0556c0bc0df4d22431c7dc2f4c5707)
 - [【前端瓶子君】前端进阶算法6：一看就懂的队列及配套算法题](https://www.ershicimi.com/p/607a1ff2d732f8738151ba55d397e6f4)
@@ -560,7 +561,6 @@
 - [【前端瓶子君】去大厂面试问我算法，我该怎么办？](https://www.ershicimi.com/p/26dfe376c652a76ddeed36a02bf63786)
 - [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
 - [【凹凸实验室】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
-- [【凹凸实验室】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

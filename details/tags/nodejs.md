@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -54,6 +54,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-21-有-node.js-大佬可以发我一个已编译好的-node-ffi？](https://www.v2ex.com/t/673871) 
 - [2020-05-20-electron-web-worker-将上传返回的状态信息插入和更新到数据库中，查询效果比较低](https://www.v2ex.com/t/673630) 
 - [2020-05-18-北京-招聘-Electron-工程师](https://www.v2ex.com/t/672949) 
 - [2020-05-18-Music_Radio----基于-nodejs-的-在线同步点歌听歌台](https://www.v2ex.com/t/672828) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-21 15:00:21，:rocket: 更新条数: +33， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-21 16:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-05-21-京津30家医疗机构被纳入河北石家庄医保定点范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEcFanopxGpSrpxefPg200521&isfromapp=1) ![](assets/new.png)  
-- [2020-05-21-受新冠肺炎疫情影响-日本累计失业人数接近1万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVBfZ5OCz8yMs80TvZun5200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-新加坡新增448例新冠肺炎确诊病例-累计达29812例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOa4a89swjVySkXGwwd2j200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-​阿曼政府继续“解禁”-允许重开游艇码头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifxq383RfWmBV8nI1CCA9200521&isfromapp=1) ![](assets/new.png)  
+- [2020-05-21-京津30家医疗机构被纳入河北石家庄医保定点范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEcFanopxGpSrpxefPg200521&isfromapp=1)  
+- [2020-05-21-受新冠肺炎疫情影响-日本累计失业人数接近1万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVBfZ5OCz8yMs80TvZun5200521&isfromapp=1)  
 - [2020-05-21-湖北武汉7万余名初三学生正式返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir7zEJpGx3VAk9ZeBjB4x200521&isfromapp=1)  
 - [2020-05-21-世卫称尚未发现羟氯喹对治疗新冠肺炎有效](http://m.weibo.cn/3057540037/4506964786472859)  
 - [2020-05-21-世卫组织称超120个新冠疫苗正在开发](http://m.weibo.cn/3057540037/4506949688036580)  
@@ -112,8 +114,6 @@
 - [2020-05-20-日本4月便利店销售额减少10.6%-创​跌幅纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8gOgHrqk4EVoalBdWJZ200520&isfromapp=1)  
 - [2020-05-20-国际锐评丨无惧疫情“大考”-中国经济加速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVT0FurtMnoz4hrfOSoDH200520&isfromapp=1)  
 - [2020-05-20-孟加拉国新增1617例新冠肺炎确诊病例-累计确诊26738例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlbDJTwoC13ryHLbzM2f200520&isfromapp=1)  
-- [2020-05-20-南非新增新冠肺炎确诊病例767例-累计17200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOFn5dbCGAUFpYfl1nkv200520&isfromapp=1)  
-- [2020-05-20-外交部：中方与140个国家参与“新冠疫情决议”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI3gQooHvgv4orDazyGZn200520&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1060,26 +1060,26 @@
 </summary>
 
 
-- [2020-05-21-Web-前端开发，下面哪款-CPU-更合适一些？](https://www.v2ex.com/t/674023) ![](assets/new.png)  
-- [2020-05-21-求助，如何提高自己的画图表达能力？比如架构设计图、数据库模型等](https://www.v2ex.com/t/674022) ![](assets/new.png)  
-- [2020-05-21-今年辞职跟-3-个朋友开始创业，方向是奢侈品相关，不知道有没有老哥是这个行业的，可以进来聊一聊。](https://www.v2ex.com/t/674021) ![](assets/new.png)  
-- [2020-05-21-USB-耳机如何转-MacBook-Pro-16-的-3.5mm-耳机插口](https://www.v2ex.com/t/674019) ![](assets/new.png)  
-- [2020-05-21-发现很便宜的滴滴云](https://www.v2ex.com/t/674018) ![](assets/new.png)  
-- [2020-05-21-发个牢骚:-恢复健身好痛苦](https://www.v2ex.com/t/674017) ![](assets/new.png)  
-- [2020-05-21-认真脸-吐槽苹果的品控](https://www.v2ex.com/t/674016) ![](assets/new.png)  
-- [2020-05-21-广州-虎牙直播-内推-实习/社招-都有](https://www.v2ex.com/t/674015) ![](assets/new.png)  
-- [2020-05-21-看到资讯-EA-将在-GPL-下公开红警和泰伯利亚黎明源代码](https://www.v2ex.com/t/674014) ![](assets/new.png)  
-- [2020-05-21-使用-vue-的-ui-框架遇到的一个问题](https://www.v2ex.com/t/674013) ![](assets/new.png)  
-- [2020-05-21-有没有大佬遇到过使用-Chrome-内核的浏览器点一下链接但是打开-2-3-个相同页面](https://www.v2ex.com/t/674012) ![](assets/new.png)  
-- [2020-05-21-小时候看过一个动画片忘记叫什么名字了](https://www.v2ex.com/t/674011) ![](assets/new.png)  
-- [2020-05-21-找工作的一些困惑](https://www.v2ex.com/t/674010) ![](assets/new.png)  
-- [2020-05-21-收到财通证券科技部-offer，-hr-说后续可能-995，求证内部开发人员](https://www.v2ex.com/t/674009) ![](assets/new.png)  
-- [2020-05-21-亦庄-求-PHP-中高级开发*1-iOS*1-Android*1](https://www.v2ex.com/t/674008) ![](assets/new.png)  
-- [2020-05-21-第一次装机，请大家帮忙看下](https://www.v2ex.com/t/674007) ![](assets/new.png)  
-- [2020-05-21-造了一款<在线黑白老照片上色工具>](https://www.v2ex.com/t/674006) ![](assets/new.png)  
-- [2020-05-21-求职北京两年工作经验求职](https://www.v2ex.com/t/674005) ![](assets/new.png)  
-- [2020-05-21-本人大三法学生，想要以后从事互联网行业，烦请各位-V-友能指条路](https://www.v2ex.com/t/674004) ![](assets/new.png)  
-- [2020-05-21-深圳-AfterShip-办公室环境大揭秘----别人家的公司](https://www.v2ex.com/t/674002) ![](assets/new.png)  
+- [2020-05-21-我喜欢的那个`今日热榜`不在了](https://www.v2ex.com/t/674042) ![](assets/new.png)  
+- [2020-05-21-rabbitmq-某个消费者去消费某个队列的时候，它消费的速度是怎么样的要怎么看呢](https://www.v2ex.com/t/674041) ![](assets/new.png)  
+- [2020-05-21-有人知道数据或者文件的储存成本一般是多少么？](https://www.v2ex.com/t/674040) ![](assets/new.png)  
+- [2020-05-21-大佬们求个视频存储播放方案](https://www.v2ex.com/t/674038) ![](assets/new.png)  
+- [2020-05-21-关于正则表达式](https://www.v2ex.com/t/674036) ![](assets/new.png)  
+- [2020-05-21-请问聚合网站如何控制一下外链？](https://www.v2ex.com/t/674034) ![](assets/new.png)  
+- [2020-05-21-身边是不是有这么些朋友，他/她很宅，除了公司和家两点一线，很少有多余的社交](https://www.v2ex.com/t/674033) ![](assets/new.png)  
+- [2020-05-21-遇到了一个关于连接-Mongodb-的怪事，帮判断一下](https://www.v2ex.com/t/674031) ![](assets/new.png)  
+- [2020-05-21-有没有集成-bugly-被-play-暂停后申诉成功的？](https://www.v2ex.com/t/674030) ![](assets/new.png)  
+- [2020-05-21-eGPU-Mantiz-能带得动-5700XT-吗，体验怎么样](https://www.v2ex.com/t/674029) ![](assets/new.png)  
+- [2020-05-21-咱们-V-站大神有懂-Final-cut-pro-三件套的吗](https://www.v2ex.com/t/674028) ![](assets/new.png)  
+- [2020-05-21-在-android10-上微信之类-app-也拿不到-imei-了？](https://www.v2ex.com/t/674027) ![](assets/new.png)  
+- [2020-05-21-想了解一下-35-以上的程序员.都去哪了做什么了.](https://www.v2ex.com/t/674026) ![](assets/new.png)  
+- [2020-05-21-福豹厂招人-上海-杭州--Java-/k8s/Go](https://www.v2ex.com/t/674024) ![](assets/new.png)  
+- [2020-05-21-Web-前端开发，下面哪款-CPU-更合适一些？](https://www.v2ex.com/t/674023)  
+- [2020-05-21-求助，如何提高自己的画图表达能力？比如架构设计图、数据库模型等](https://www.v2ex.com/t/674022)  
+- [2020-05-21-今年辞职跟-3-个朋友开始创业，方向是奢侈品相关，不知道有没有老哥是这个行业的，可以进来聊一聊。](https://www.v2ex.com/t/674021)  
+- [2020-05-21-USB-耳机如何转-MacBook-Pro-16-的-3.5mm-耳机插口](https://www.v2ex.com/t/674019)  
+- [2020-05-21-发现很便宜的滴滴云](https://www.v2ex.com/t/674018)  
+- [2020-05-21-发个牢骚:-恢复健身好痛苦](https://www.v2ex.com/t/674017)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,13 +1122,13 @@
 </summary>
 
 
-- [2020-05-21-Python-的缩进是不是反人类的设计？](https://toutiao.io/k/u0jn62o) ![](assets/new.png)  
-- [2020-05-21-更聪明地学习，而不是苦读：《如何高效学习》](https://toutiao.io/k/y3l2flz) ![](assets/new.png)  
-- [2020-05-21-携程火车票-Rematch-框架实践](https://toutiao.io/k/ycfwq45) ![](assets/new.png)  
-- [2020-05-21-AWK-tips-之移动文件中的指定行](https://toutiao.io/k/4lzylv8) ![](assets/new.png)  
-- [2020-05-21-一个学习-Koa-源码的例子](https://toutiao.io/k/219q6fv) ![](assets/new.png)  
-- [2020-05-21-走进-Golang-之-Channel-的使用](https://toutiao.io/k/bmzzm61) ![](assets/new.png)  
-- [2020-05-21-Lucene-索引文件的生成（十六）：dvm&&dvd](https://toutiao.io/k/8ejmks0) ![](assets/new.png)  
+- [2020-05-21-Python-的缩进是不是反人类的设计？](https://toutiao.io/k/u0jn62o)  
+- [2020-05-21-更聪明地学习，而不是苦读：《如何高效学习》](https://toutiao.io/k/y3l2flz)  
+- [2020-05-21-携程火车票-Rematch-框架实践](https://toutiao.io/k/ycfwq45)  
+- [2020-05-21-AWK-tips-之移动文件中的指定行](https://toutiao.io/k/4lzylv8)  
+- [2020-05-21-一个学习-Koa-源码的例子](https://toutiao.io/k/219q6fv)  
+- [2020-05-21-走进-Golang-之-Channel-的使用](https://toutiao.io/k/bmzzm61)  
+- [2020-05-21-Lucene-索引文件的生成（十六）：dvm&&dvd](https://toutiao.io/k/8ejmks0)  
 - [2020-05-21-Spring-Boot-使用-JSR303-实现参数验证](https://toutiao.io/k/8ek7nin)  
 - [2020-05-21-玩转-KCP（三）：流量控制](https://toutiao.io/k/gucwde0)  
 - [2020-05-21-为了保护小姐姐的眼睛，我用自动化做了一款语音机器人](https://toutiao.io/k/y0ozx7z)  

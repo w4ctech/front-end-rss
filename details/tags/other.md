@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-21 15:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-21 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-21-​阿曼政府继续“解禁”-允许重开游艇码头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifxq383RfWmBV8nI1CCA9200521&isfromapp=1) 
 - [2020-05-21-京津30家医疗机构被纳入河北石家庄医保定点范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEcFanopxGpSrpxefPg200521&isfromapp=1) 
 - [2020-05-21-湖北武汉7万余名初三学生正式返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir7zEJpGx3VAk9ZeBjB4x200521&isfromapp=1) 
 - [2020-05-21-世卫组织称超120个新冠疫苗正在开发](http://m.weibo.cn/3057540037/4506949688036580) 
@@ -959,6 +960,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-21-我喜欢的那个`今日热榜`不在了](https://www.v2ex.com/t/674042) 
+- [2020-05-21-rabbitmq-某个消费者去消费某个队列的时候，它消费的速度是怎么样的要怎么看呢](https://www.v2ex.com/t/674041) 
+- [2020-05-21-有人知道数据或者文件的储存成本一般是多少么？](https://www.v2ex.com/t/674040) 
+- [2020-05-21-请问聚合网站如何控制一下外链？](https://www.v2ex.com/t/674034) 
+- [2020-05-21-身边是不是有这么些朋友，他/她很宅，除了公司和家两点一线，很少有多余的社交](https://www.v2ex.com/t/674033) 
+- [2020-05-21-遇到了一个关于连接-Mongodb-的怪事，帮判断一下](https://www.v2ex.com/t/674031) 
+- [2020-05-21-有没有集成-bugly-被-play-暂停后申诉成功的？](https://www.v2ex.com/t/674030) 
+- [2020-05-21-咱们-V-站大神有懂-Final-cut-pro-三件套的吗](https://www.v2ex.com/t/674028) 
+- [2020-05-21-在-android10-上微信之类-app-也拿不到-imei-了？](https://www.v2ex.com/t/674027) 
+- [2020-05-21-想了解一下-35-以上的程序员.都去哪了做什么了.](https://www.v2ex.com/t/674026) 
+- [2020-05-21-福豹厂招人-上海-杭州--Java-/k8s/Go](https://www.v2ex.com/t/674024) 
 - [2020-05-21-Web-前端开发，下面哪款-CPU-更合适一些？](https://www.v2ex.com/t/674023) 
 - [2020-05-21-求助，如何提高自己的画图表达能力？比如架构设计图、数据库模型等](https://www.v2ex.com/t/674022) 
 - [2020-05-21-今年辞职跟-3-个朋友开始创业，方向是奢侈品相关，不知道有没有老哥是这个行业的，可以进来聊一聊。](https://www.v2ex.com/t/674021) 

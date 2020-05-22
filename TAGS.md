@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-22 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -434,6 +434,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】环印度洋联盟举办抗击疫情专题视频会议-多国呼吁合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHE9jk3qiJZyyohrPGIMY200522&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】第十届世界家庭医生日云直播活动在上海举行](http://wsjkw.sh.gov.cn/xwfb/20200520/b45df353891d4bec8db048ae97562117.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】电视主播+电商主播-全国“双播”直播带货邀请赛火热开启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisIlAil879yhN13nfUzAE200520&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1)
@@ -453,7 +454,6 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【知乎日报】视频有奖征集活动-|-今天也是爱你的一天](https://www.ershicimi.com/p/a78dfab9b31ad51d865a81d78708beac)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

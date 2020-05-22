@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-05-22-环印度洋联盟举办抗击疫情专题视频会议-多国呼吁合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHE9jk3qiJZyyohrPGIMY200522&isfromapp=1) 
 - [2020-05-21-第十届世界家庭医生日云直播活动在上海举行](http://wsjkw.sh.gov.cn/xwfb/20200520/b45df353891d4bec8db048ae97562117.html) 
 - [2020-05-20-电视主播+电商主播-全国“双播”直播带货邀请赛火热开启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisIlAil879yhN13nfUzAE200520&isfromapp=1) 
 - [2020-05-20-两会采访方式有变化！网络视频采访成为大会新亮点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLttE4RhufThx4Cko06X200520&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -20,6 +20,7 @@
 - [2020-05-04-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/ba6d63d622cb150af6a4bcc0e88d3833) 
 - [2020-05-08-速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf) 
 - [2020-04-24-别再乱提交代码了，看下大厂-Git-提交规范是怎么做的！](https://www.ershicimi.com/p/ba10eee9822f8715fcec4f99e542be36) 
+- [2020-05-22-小姐姐用动图展示-10-个-Git-命令](https://www.ershicimi.com/p/766237f05770413843c90f89756c347f) 
 - [2020-05-19-GitHub-里面可以直接用-VS-Code了，真香！](https://www.ershicimi.com/p/6d955956e3d4efead6dc535939b4e6a6) 
 - [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) 
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 

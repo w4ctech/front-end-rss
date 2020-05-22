@@ -4974,6 +4974,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "程序猿惯用口头禅，你被击中了吗？",
+        "link": "https://www.ershicimi.com/p/20eb8967a59f5bb3470b5920e99ac5f4",
+        "date": "2020-05-22"
+      },
+      {
         "title": "内部泄露版！互联网大厂的薪资和职级一览",
         "link": "https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16",
         "date": "2020-05-21"
@@ -5144,6 +5149,11 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "小姐姐用动图展示 10 个 Git 命令",
+        "link": "https://www.ershicimi.com/p/766237f05770413843c90f89756c347f",
+        "date": "2020-05-22"
+      },
       {
         "title": "刷题两个月，终于进了梦寐以求的大厂，数据结构与算法太重要了！",
         "link": "https://www.ershicimi.com/p/6f986d8ed2f0cfafc6683ff57fe92fc8",
@@ -9526,6 +9536,61 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "话说， it 行业你们见过周围同事退休吗？",
+        "link": "https://www.v2ex.com/t/674266",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Gunnar 那种防蓝光的护目镜有用吗？",
+        "link": "https://www.v2ex.com/t/674265",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "你们的 MBP，蓝牙同时连两个设备，会经常出现重连的现象吗",
+        "link": "https://www.v2ex.com/t/674263",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Java 后端如何入门",
+        "link": "https://www.v2ex.com/t/674261",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "求指教，数据库同步工具（或脚本）的选择",
+        "link": "https://www.v2ex.com/t/674260",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "请教大家一个问题，如果黑客通过 CND 来分发恶意文件的话，是不是可以很好的隐藏身份~",
+        "link": "https://www.v2ex.com/t/674258",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "最近你在用什么渠道了解新闻/消息？",
+        "link": "https://www.v2ex.com/t/674257",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "如何同步更新冗余字段",
+        "link": "https://www.v2ex.com/t/674256",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "想弄一台饮料自动售货机放小区，求问设备都怎么弄啊？",
+        "link": "https://www.v2ex.com/t/674255",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "国内会不会对同性群体的包容度越来越高",
+        "link": "https://www.v2ex.com/t/674253",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "有人知道智联招聘的前端 L5，是什么待遇吗？还有这公司怎么样？加班多吗？",
+        "link": "https://www.v2ex.com/t/674252",
+        "date": "2020-05-22"
+      },
       {
         "title": "我是站长，网站有个烂饭可以恰，问问你们的意见",
         "link": "https://www.v2ex.com/t/674251",
@@ -44124,6 +44189,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "程序员不仅要写好代码，还有写好博客 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-22"
+      },
+      {
         "title": "Category: Front-End | 晚晴幽草轩 (www.jeffjade.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-05-21"
@@ -44545,6 +44615,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "glog C++ 版本代码分析",
+        "link": "https://toutiao.io/k/m8ao56u",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "为什么集群需要 Overlay 网络",
+        "link": "https://toutiao.io/k/szgoqpp",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "学会阅读源码后，我觉得自己 better 了",
+        "link": "https://toutiao.io/k/gi743h0",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Apache Kafka 不需要管理员：删除 Apache ZooKeeper 的依赖",
+        "link": "https://toutiao.io/k/rmiuyhv",
+        "date": "2020-05-22"
+      },
       {
         "title": "Python 实现黑客帝国代码雨效果",
         "link": "https://toutiao.io/k/zeivfaf",

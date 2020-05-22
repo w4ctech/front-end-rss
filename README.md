@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 08:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 09:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -670,6 +670,7 @@
 </summary>
 
 
+- [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) ![](assets/new.png)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
 - [2020-04-30-科技爱好者周刊：第-105-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html)  
@@ -1060,8 +1061,16 @@
 </summary>
 
 
-- [2020-05-22-java9-以上的版本收费是到底怎样的情况？](https://www.v2ex.com/t/674238) ![](assets/new.png)  
-- [2020-05-22-visual-studio-for-mac-安装问题。](https://www.v2ex.com/t/674237) ![](assets/new.png)  
+- [2020-05-22-微软-Build-大会发布大量开发工具与服务！编码、协作、发布，体验都不错](https://www.v2ex.com/t/674246) ![](assets/new.png)  
+- [2020-05-22-每天上班如上坟，心情沮丧，该如何调节？](https://www.v2ex.com/t/674245) ![](assets/new.png)  
+- [2020-05-22-裸辞的第-22-天](https://www.v2ex.com/t/674244) ![](assets/new.png)  
+- [2020-05-22-搞了一个“云桌面”，还挺好玩的，但是不知道有什么用](https://www.v2ex.com/t/674243) ![](assets/new.png)  
+- [2020-05-22-推广下自己的开源项目：分布式调度与计算框架—OhMyScheduler](https://www.v2ex.com/t/674242) ![](assets/new.png)  
+- [2020-05-22-MacBook-Pro-的设计应该改改了](https://www.v2ex.com/t/674241) ![](assets/new.png)  
+- [2020-05-22-windows->windows-远程控制有啥推荐的软件吗?-teamviewer-和向日葵除外.](https://www.v2ex.com/t/674240) ![](assets/new.png)  
+- [2020-05-22-有人参加-kindle-咪咕版-0-元购活动吗？](https://www.v2ex.com/t/674239) ![](assets/new.png)  
+- [2020-05-22-java9-以上的版本收费是到底怎样的情况？](https://www.v2ex.com/t/674238)  
+- [2020-05-22-visual-studio-for-mac-安装问题。](https://www.v2ex.com/t/674237)  
 - [2020-05-22-用-wordpress-和-woocommerce-给人做了个购物站，最近总有莫名的访问链接，求解](https://www.v2ex.com/t/674235)  
 - [2020-05-22-4-月新购的-19-款-MacBook-Pro-连-FQ-总会时不时断网。（似乎之前帖子发错了）](https://www.v2ex.com/t/674234)  
 - [2020-05-22-历史大数据，这个域名值得购买吗？](https://www.v2ex.com/t/674233)  
@@ -1072,14 +1081,6 @@
 - [2020-05-22-ffmpeg-HLS-切片这么耗硬盘-I/O-吗？](https://www.v2ex.com/t/674227)  
 - [2020-05-22-LastPass-和-KeePass-都默认只有用户名而无邮箱选项，导致不同登录方式时会重复添加条目](https://www.v2ex.com/t/674226)  
 - [2020-05-22-IE8-下-JS-动态更改-img-标签的-src-值，内存泄漏，求助！](https://www.v2ex.com/t/674225)  
-- [2020-05-22-关于-k8s-中-flannel-的-SubnetLen-有人了解过吗？](https://www.v2ex.com/t/674223)  
-- [2020-05-22-第一次用-authy，英语渣，请问这两个有什么区别？](https://www.v2ex.com/t/674222)  
-- [2020-05-22-用-vue-写了验证码，据说-99%的人都无法通过验证](https://www.v2ex.com/t/674221)  
-- [2020-05-22-bug?-在-Firefox-的设置的搜索框里，无法输入中文](https://www.v2ex.com/t/674219)  
-- [2020-05-22-hello-大家好，打个招呼](https://www.v2ex.com/t/674218)  
-- [2020-05-22-20200522-午夜俱乐部](https://www.v2ex.com/t/674217)  
-- [2020-05-22-继-GTA5-之后，-epic-要来送文明-6-了](https://www.v2ex.com/t/674216)  
-- [2020-05-22-分享一个疫情期间写的学英语-web](https://www.v2ex.com/t/674215)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,26 +1123,26 @@
 </summary>
 
 
-- [2020-05-22-不就看一下-Java-后端开发书架吗？这有啥不行](https://toutiao.io/k/ywfkkkj) ![](assets/new.png)  
-- [2020-05-22-万字长文教你对抗邪恶的爬虫](https://toutiao.io/k/m6fc60e) ![](assets/new.png)  
-- [2020-05-22-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e) ![](assets/new.png)  
-- [2020-05-22-追了多年的开发框架，你还认识指针吗？](https://toutiao.io/k/aodf7mr) ![](assets/new.png)  
-- [2020-05-22-动画：深度解析-JVM-运行时数据区之线程独占区](https://toutiao.io/k/tch0hw6) ![](assets/new.png)  
-- [2020-05-22-以业务为核心的云原生体系建设](https://toutiao.io/k/hsqubbs) ![](assets/new.png)  
-- [2020-05-22-代表-Java-未来的-ZGC-深度剖析，牛逼](https://toutiao.io/k/7ng6t06) ![](assets/new.png)  
-- [2020-05-22-阿里-3-轮面试都问了-RecyclerView](https://toutiao.io/k/xwtusda) ![](assets/new.png)  
+- [2020-05-22-Python-实现黑客帝国代码雨效果](https://toutiao.io/k/zeivfaf) ![](assets/new.png)  
+- [2020-05-22-译-2020-年开源数据库行业状态报告](https://toutiao.io/k/wihybd6) ![](assets/new.png)  
+- [2020-05-22-算法工程师的数学基础：信息论](https://toutiao.io/k/41ldw4s) ![](assets/new.png)  
+- [2020-05-22-耗时-3-周！7000+-字的-Spring-事务总结来啦](https://toutiao.io/k/ug2que4) ![](assets/new.png)  
+- [2020-05-22-React-Concurrent-Mode-之-Suspense-实践](https://toutiao.io/k/tsbe9ar) ![](assets/new.png)  
+- [2020-05-22-译-让-Emacs-再次流行](https://toutiao.io/k/jy9t209) ![](assets/new.png)  
+- [2020-05-22-Hackintosh（黑苹果）折腾](https://toutiao.io/k/qsyudhq) ![](assets/new.png)  
+- [2020-05-22-不就看一下-Java-后端开发书架吗？这有啥不行](https://toutiao.io/k/ywfkkkj)  
+- [2020-05-22-万字长文教你对抗邪恶的爬虫](https://toutiao.io/k/m6fc60e)  
+- [2020-05-22-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e)  
+- [2020-05-22-追了多年的开发框架，你还认识指针吗？](https://toutiao.io/k/aodf7mr)  
+- [2020-05-22-动画：深度解析-JVM-运行时数据区之线程独占区](https://toutiao.io/k/tch0hw6)  
+- [2020-05-22-以业务为核心的云原生体系建设](https://toutiao.io/k/hsqubbs)  
+- [2020-05-22-代表-Java-未来的-ZGC-深度剖析，牛逼](https://toutiao.io/k/7ng6t06)  
+- [2020-05-22-阿里-3-轮面试都问了-RecyclerView](https://toutiao.io/k/xwtusda)  
 - [2020-05-21-Python-的缩进是不是反人类的设计？](https://toutiao.io/k/u0jn62o)  
 - [2020-05-21-更聪明地学习，而不是苦读：《如何高效学习》](https://toutiao.io/k/y3l2flz)  
 - [2020-05-21-携程火车票-Rematch-框架实践](https://toutiao.io/k/ycfwq45)  
 - [2020-05-21-AWK-tips-之移动文件中的指定行](https://toutiao.io/k/4lzylv8)  
 - [2020-05-21-一个学习-Koa-源码的例子](https://toutiao.io/k/219q6fv)  
-- [2020-05-21-走进-Golang-之-Channel-的使用](https://toutiao.io/k/bmzzm61)  
-- [2020-05-21-Lucene-索引文件的生成（十六）：dvm&&dvd](https://toutiao.io/k/8ejmks0)  
-- [2020-05-21-Spring-Boot-使用-JSR303-实现参数验证](https://toutiao.io/k/8ek7nin)  
-- [2020-05-21-玩转-KCP（三）：流量控制](https://toutiao.io/k/gucwde0)  
-- [2020-05-21-为了保护小姐姐的眼睛，我用自动化做了一款语音机器人](https://toutiao.io/k/y0ozx7z)  
-- [2020-05-21-RSA-加密算法是怎么回事？难懂吗？](https://toutiao.io/k/g28pya3)  
-- [2020-05-21-Flutter-Weekly-Issue-56](https://toutiao.io/k/ryxuue3)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -5624,6 +5624,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊：第 108 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html",
+        "date": "2020-05-22"
+      },
+      {
         "title": "科技爱好者周刊：第 107 期",
         "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html",
         "date": "2020-05-15"
@@ -9481,6 +9486,46 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "微软 Build 大会发布大量开发工具与服务！编码、协作、发布，体验都不错",
+        "link": "https://www.v2ex.com/t/674246",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "每天上班如上坟，心情沮丧，该如何调节？",
+        "link": "https://www.v2ex.com/t/674245",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "裸辞的第 22 天",
+        "link": "https://www.v2ex.com/t/674244",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "搞了一个“云桌面”，还挺好玩的，但是不知道有什么用",
+        "link": "https://www.v2ex.com/t/674243",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "推广下自己的开源项目：分布式调度与计算框架—OhMyScheduler",
+        "link": "https://www.v2ex.com/t/674242",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "MacBook Pro 的设计应该改改了",
+        "link": "https://www.v2ex.com/t/674241",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "windows->windows 远程控制有啥推荐的软件吗? teamviewer 和向日葵除外.",
+        "link": "https://www.v2ex.com/t/674240",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "有人参加 kindle 咪咕版 0 元购活动吗？",
+        "link": "https://www.v2ex.com/t/674239",
+        "date": "2020-05-22"
+      },
       {
         "title": "java9 以上的版本收费是到底怎样的情况？",
         "link": "https://www.v2ex.com/t/674238",
@@ -44440,6 +44485,41 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Python 实现黑客帝国代码雨效果",
+        "link": "https://toutiao.io/k/zeivfaf",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "[译] 2020 年开源数据库行业状态报告",
+        "link": "https://toutiao.io/k/wihybd6",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "算法工程师的数学基础：信息论",
+        "link": "https://toutiao.io/k/41ldw4s",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "耗时 3 周！7000+ 字的 Spring 事务总结来啦",
+        "link": "https://toutiao.io/k/ug2que4",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "React Concurrent Mode 之 Suspense 实践",
+        "link": "https://toutiao.io/k/tsbe9ar",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "[译] 让 Emacs 再次流行",
+        "link": "https://toutiao.io/k/jy9t209",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Hackintosh（黑苹果）折腾",
+        "link": "https://toutiao.io/k/qsyudhq",
+        "date": "2020-05-22"
+      },
       {
         "title": "不就看一下 Java 后端开发书架吗？这有啥不行",
         "link": "https://toutiao.io/k/ywfkkkj",

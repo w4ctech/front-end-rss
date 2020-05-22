@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,6 +21,7 @@
 - [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) 
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 
+- [2020-05-22-北京-竞技世界-核心业务-诚聘高级-C++服务器开发/高级-Unity-开发/高级-3D-场景设计师/大数据工程师](https://www.v2ex.com/t/674325) 
 - [2020-05-21-远程职位-产品经理、高级-3D-软件工程师以及更多精选岗位](https://www.v2ex.com/t/673981) 
 - [2020-05-20-WSL-2-计划支持-Linux-GUI-应用-可和-Windows-应用同时使用](https://www.v2ex.com/t/673604) 
 - [2020-05-20-WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454) 

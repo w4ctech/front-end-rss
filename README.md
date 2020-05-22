@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 02:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 04:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
+- [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -507,8 +507,8 @@
 </summary>
 
 
-- [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) ![](assets/new.png)  
-- [2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) ![](assets/new.png)  
+- [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518)  
+- [2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7)  
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab)  
 - [2020-04-12-如何设计实现-PC-站点搭建系统](https://www.ershicimi.com/p/b6a199fe08d99a922162157a6bab9e91)  
 - [2020-04-06-通俗易懂的红黑树图解下](https://www.ershicimi.com/p/c7e763eb98519b32583a79569081b4f1)  
@@ -1065,6 +1065,7 @@
 </summary>
 
 
+- [2020-05-23-有没有被青云那个破活动坑的？](https://www.v2ex.com/t/674554) ![](assets/new.png)  
 - [2020-05-23-头条搜索-前端-大量招人](https://www.v2ex.com/t/674553)  
 - [2020-05-23-windows-官方的包管理工具大家觉得咋样？](https://www.v2ex.com/t/674551)  
 - [2020-05-23-广州移动宽带同一地址两条宽带，网关居然不一样？](https://www.v2ex.com/t/674549)  
@@ -1084,7 +1085,6 @@
 - [2020-05-22-求职前端工作，可远程在家办公](https://www.v2ex.com/t/674533)  
 - [2020-05-22-selenium-standalone-安装时，无法下载-chromedriver，怎么办？](https://www.v2ex.com/t/674532)  
 - [2020-05-22-为什么妙控键盘-For-iPad-Pro-12.9-一直没货啊](https://www.v2ex.com/t/674530)  
-- [2020-05-22-4k-显示器选-27-寸还是-32-寸，支架旋转和-usbc-是否必须？](https://www.v2ex.com/t/674529)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

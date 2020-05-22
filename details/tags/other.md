@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1008,6 +1008,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-23-有个发现，不知道其他人注意到没有](https://www.v2ex.com/t/674556) 
+- [2020-05-23-来来来，看过来！这才是终极版的《bibibi-献给年轻一代程序猿的演讲》-゜-゜つロ-干杯~-bilibili](https://www.v2ex.com/t/674555) 
 - [2020-05-23-有没有被青云那个破活动坑的？](https://www.v2ex.com/t/674554) 
 - [2020-05-23-头条搜索-前端-大量招人](https://www.v2ex.com/t/674553) 
 - [2020-05-23-windows-官方的包管理工具大家觉得咋样？](https://www.v2ex.com/t/674551) 

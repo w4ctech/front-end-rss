@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -56,6 +56,7 @@
 - [2020-04-26-JDK-各版本1~14特性总结，面试再也不怕了](https://www.ershicimi.com/p/5c0063a55c96091704f07b4d32e3efef) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-22-西安-亚米网-招聘高级-Java-开发工程师](https://www.v2ex.com/t/674407) 
 - [2020-05-22-机器学习策略研究员招聘](https://www.v2ex.com/t/674384) 
 - [2020-05-22-「成都」-黑帕云招聘前后端工程师，-15-30K](https://www.v2ex.com/t/674379) 
 - [2020-05-22-深圳知名量化对冲基金招聘策略研究员](https://www.v2ex.com/t/674368) 

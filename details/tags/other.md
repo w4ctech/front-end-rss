@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -517,6 +517,7 @@
 - [2020-04-24-移动-web-最佳实践（干货长文，建议收藏）](https://www.ershicimi.com/p/01a12cde382fad19482e097788cf2f57) 
 - [2020-04-23-前端实战：2天写出28亿浏览量的页面](https://www.ershicimi.com/p/9f783aaca46171f071b78bf3b5129b50) 
 - [2020-04-22-前端高级进阶：2020怎样才能更值钱？](https://www.ershicimi.com/p/85d418d4a9f7b8305cd32e4438cd80d3) 
+- [2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56) 
 - [2020-05-21-阿里技术专家告诉你，如何画出优秀的架构图？](https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467) 
 - [2020-05-20-出镜率最高的大佬公众号](https://www.ershicimi.com/p/3bf31285df46a171bb22ef4d686c7c1e) 
 - [2020-05-18-前端源码架构在拍卖详情页上的探索](https://www.ershicimi.com/p/6e08bd14d5465619c85aeaafeae8bf6e) 
@@ -998,6 +999,10 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-22-如果-ios-越狱了，是不是就不需要卡贴了？](https://www.v2ex.com/t/674350) 
+- [2020-05-22-2017mbp-轻微进水正常使用，还能走键盘计划吗？](https://www.v2ex.com/t/674347) 
+- [2020-05-22-公司来了新同事](https://www.v2ex.com/t/674346) 
+- [2020-05-22-求教一下这个键盘是什么牌子什么型号](https://www.v2ex.com/t/674345) 
 - [2020-05-22-分享多抓鱼的猫助写的一篇回答，关于第一份工作的选择](https://www.v2ex.com/t/674343) 
 - [2020-05-22-请问创造者日报是数据库出问题了吗？](https://www.v2ex.com/t/674342) 
 - [2020-05-22-有没有玩皇室战争的，求换-3-张电法](https://www.v2ex.com/t/674341) 
@@ -6580,6 +6585,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-22-晓得嘛？混合推荐系统速览和技巧锦囊](https://toutiao.io/k/4ip2nap) 
+- [2020-05-22-kafka-分区数和吞吐量的关系](https://toutiao.io/k/yxr1yeq) 
+- [2020-05-22-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/5at2n7e) 
+- [2020-05-22-Java-线程池讲解：针对-IO-密集型任务](https://toutiao.io/k/x7sub9k) 
+- [2020-05-22-Dubbo-对-Spring-Cloud-说：来老弟，我要拥抱你](https://toutiao.io/k/6s76jm4) 
 - [2020-05-22-Spring-Cloud-系列：Eureka-注册中心初体验](https://toutiao.io/k/uqxhd1q) 
 - [2020-05-22-glog-C++-版本代码分析](https://toutiao.io/k/m8ao56u) 
 - [2020-05-22-为什么集群需要-Overlay-网络](https://toutiao.io/k/szgoqpp) 

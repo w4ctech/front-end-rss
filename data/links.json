@@ -4730,6 +4730,16 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "做前端，如何克服新技术焦虑？",
+        "link": "https://www.ershicimi.com/p/d16e604d947433940981d828908cba56",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "如何实现一个React水印组件",
+        "link": "https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210",
+        "date": "2020-05-22"
+      },
+      {
         "title": "阿里技术专家告诉你，如何画出优秀的架构图？",
         "link": "https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467",
         "date": "2020-05-21"
@@ -9586,6 +9596,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "如果 ios 越狱了，是不是就不需要卡贴了？",
+        "link": "https://www.v2ex.com/t/674350",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "2017mbp 轻微进水正常使用，还能走键盘计划吗？",
+        "link": "https://www.v2ex.com/t/674347",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "公司来了新同事",
+        "link": "https://www.v2ex.com/t/674346",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "求教一下这个键盘是什么牌子什么型号",
+        "link": "https://www.v2ex.com/t/674345",
+        "date": "2020-05-22"
+      },
       {
         "title": "分享多抓鱼的猫助写的一篇回答，关于第一份工作的选择",
         "link": "https://www.v2ex.com/t/674343",
@@ -44975,6 +45005,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "晓得嘛？混合推荐系统速览和技巧锦囊",
+        "link": "https://toutiao.io/k/4ip2nap",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "深入学习 Three.js 核心对象之（三）：Material",
+        "link": "https://toutiao.io/k/6h1f743",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "kafka 分区数和吞吐量的关系",
+        "link": "https://toutiao.io/k/yxr1yeq",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Service Mesh 高可用在企业级生产中的实践",
+        "link": "https://toutiao.io/k/5at2n7e",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "聊聊 Python 做微信小程序自动化，那些踩过的坑？",
+        "link": "https://toutiao.io/k/6yl2g8k",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Java 线程池讲解：针对 IO 密集型任务",
+        "link": "https://toutiao.io/k/x7sub9k",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Dubbo 对 Spring Cloud 说：来老弟，我要拥抱你",
+        "link": "https://toutiao.io/k/6s76jm4",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Presto 查询执行过程和索引条件下推分析",
+        "link": "https://toutiao.io/k/gv55jde",
+        "date": "2020-05-22"
+      },
       {
         "title": "Spring Cloud 系列：Eureka 注册中心初体验",
         "link": "https://toutiao.io/k/uqxhd1q",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -50,6 +50,7 @@
 - [2020-05-16-Node.js-中的-stream-模块详解](https://www.ershicimi.com/p/20db7338527beacb0c3b897849a9b447) 
 - [2020-05-22-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/f13148581b75d6cca439958609c53da2) 
 - [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/b7f57bce9d551db2baf401f44e988281) 
+- [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774) 
 - [2020-05-20-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/3ffe5ea768d19808f49f3017f2dec2b9) 
 - [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 

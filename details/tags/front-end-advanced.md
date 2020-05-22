@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -35,6 +35,7 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-22-周日讲座-疫情下，面试-BAT、TMD-算法岗该如何准备？](https://www.v2ex.com/t/674449) 
 - [2020-05-22-听说现在又出来一个新的-editor---neovim？有没有兄弟在使用这个的？](https://www.v2ex.com/t/674427) 
 - [2020-05-22-令牌桶限流算法最大放行量的一点疑问？](https://www.v2ex.com/t/674329) 
 - [2020-05-22-各位师傅，-elasticsearch-如何进行大量数据的去重？](https://www.v2ex.com/t/674314) 

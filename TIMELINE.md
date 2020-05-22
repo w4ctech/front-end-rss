@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-世卫组织总干事：全球新冠肺炎确诊病例超过500万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-西班牙首都马德里将于25日进入紧急状态降级的第一阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmdQyGHvSvqw4rG3GFLT200522&isfromapp=1) 

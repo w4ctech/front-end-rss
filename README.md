@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 00:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 00:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-22-世卫组织总干事：全球新冠肺炎确诊病例超过500万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1) ![](assets/new.png)  
 - [2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1)  
 - [2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1)  
 - [2020-05-22-西班牙首都马德里将于25日进入紧急状态降级的第一阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmdQyGHvSvqw4rG3GFLT200522&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-22-罗杰：在战疫一线-对90后刮目相看](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticL6Kk27zIG1o0w3zgzuV200522&isfromapp=1)  
 - [2020-05-22-上调退休人员基本养老金-提高城乡居民基础养老金最低标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQSBUMUviqa280EzUfNoQ200522&isfromapp=1)  
 - [2020-05-22-苏里南大选将如期举行-防疫举措将适时调整](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK9dpUJ25z9dS0B5Imsdy200522&isfromapp=1)  
-- [2020-05-22-联合国各国代表“云聚一堂”-共庆首个“国际茶日”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih6FoO3SHdPYF1skLlfYe200522&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1063,10 +1063,10 @@
 </summary>
 
 
-- [2020-05-22-求推荐水冷](https://www.v2ex.com/t/674542) ![](assets/new.png)  
-- [2020-05-22-有没有类似“视频床”之类的东西](https://www.v2ex.com/t/674541) ![](assets/new.png)  
-- [2020-05-22-请教一下，内网无线传输速率忽慢忽快是什么原因导致的？](https://www.v2ex.com/t/674540) ![](assets/new.png)  
-- [2020-05-22-忽然想起来，煎蛋网站长没事吧？](https://www.v2ex.com/t/674539) ![](assets/new.png)  
+- [2020-05-22-求推荐水冷](https://www.v2ex.com/t/674542)  
+- [2020-05-22-有没有类似“视频床”之类的东西](https://www.v2ex.com/t/674541)  
+- [2020-05-22-请教一下，内网无线传输速率忽慢忽快是什么原因导致的？](https://www.v2ex.com/t/674540)  
+- [2020-05-22-忽然想起来，煎蛋网站长没事吧？](https://www.v2ex.com/t/674539)  
 - [2020-05-22-简历似乎被人卖了...](https://www.v2ex.com/t/674538)  
 - [2020-05-22-心率测量频率重要吗](https://www.v2ex.com/t/674537)  
 - [2020-05-22-豆瓣手机客户端太难用了，有第三方客户端吗](https://www.v2ex.com/t/674536)  

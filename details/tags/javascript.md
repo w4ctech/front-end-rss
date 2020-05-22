@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -145,6 +145,9 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-22-自己撸的一个超快的-Js-打包器](https://www.v2ex.com/t/674468) 
+- [2020-05-22-2016-款-mbp-电源适配器可以给手机充电吗](https://www.v2ex.com/t/674464) 
+- [2020-05-22-全栈-JS-&-Go-求职（成都-或-远程）](https://www.v2ex.com/t/674455) 
 - [2020-05-22-apply_async-如何调用-class-而不是-func](https://www.v2ex.com/t/674435) 
 - [2020-05-22-VSCode-里面，如何统一快速的查看文件中的-变量，-class,-function-结构信息？](https://www.v2ex.com/t/674393) 
 - [2020-05-22-请教下各位菊苣，-最近在弄动态表单，动态流程这些东西。感觉入了大坑，想听听各位菊苣的看法。](https://www.v2ex.com/t/674370) 

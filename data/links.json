@@ -7201,6 +7201,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "重磅！！Redis 6.0.0 已发布，有史以来改变最大的版本",
+        "link": "https://www.ershicimi.com/p/2840c8005bb41387310bc29f8f39dfd7",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "终于找全啦！一二线城市知名互联网公司名单！对着找就对了...",
+        "link": "https://www.ershicimi.com/p/81c469ee22d2241187e1c457f70bc5c6",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "不要网上乱拷贝代码了！一段网上找的代码把公司服务器崩了！",
+        "link": "https://www.ershicimi.com/p/66df0b10998c68a1623851a1f1b99211",
+        "date": "2020-05-22"
+      },
+      {
         "title": "一打开IntelliJ IDEA，电脑卡的要死，该如何优化内存呢？",
         "link": "https://www.ershicimi.com/p/ec0073e0c2b3559ff77864bc081c14ab",
         "date": "2020-05-21"
@@ -9546,6 +9561,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "面试过后，没有回复，你会不会想去问一下？",
+        "link": "https://www.v2ex.com/t/674300",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "mbp2018 15.4 系统在使用迅雷下载文件的时候，出现电脑卡死卡顿情况，请问有遇到同样问题的小伙伴吗",
+        "link": "https://www.v2ex.com/t/674299",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "如果是招聘旺季，想批量社招，某个岗位挂在招聘网站上多久才能招到人？",
+        "link": "https://www.v2ex.com/t/674296",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "弹性伸缩拓展出来的服务器如何连接跑在原本实例上的数据库",
+        "link": "https://www.v2ex.com/t/674295",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "java8 的内存模型疑问。",
+        "link": "https://www.v2ex.com/t/674294",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "关于京东的价格保护政策的想法",
+        "link": "https://www.v2ex.com/t/674293",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "如果你对面的兄弟穿拖鞋脚味道很重你会怎么办?",
+        "link": "https://www.v2ex.com/t/674290",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "腾讯 IMWeb 团队招聘 web 前端开发工程师， base 深圳 /成都",
+        "link": "https://www.v2ex.com/t/674289",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "mysql 自带的主动同步，同步 binlog 时不会对主库的表进行锁表吧？",
+        "link": "https://www.v2ex.com/t/674288",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "😪简历投不出去求各位 dalao 指条路",
+        "link": "https://www.v2ex.com/t/674286",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "黑铝+nike 彩虹表带",
+        "link": "https://www.v2ex.com/t/674285",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "Google voice 可以注册的国内外平台汇总",
+        "link": "https://www.v2ex.com/t/674284",
+        "date": "2020-05-22"
+      },
       {
         "title": "大家所学的专业都是什么？",
         "link": "https://www.v2ex.com/t/674283",
@@ -44263,6 +44338,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "一个导致JVM物理内存消耗大的Bug (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-22"
+      },
       {
         "title": "程序员不仅要写好代码，还有写好博客 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

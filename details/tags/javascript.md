@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,6 +31,7 @@
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
+- [2020-05-22-从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/9a309f30d422d773e4deea046de4c611) 
 - [2020-05-08-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/c6bf04b2efff1f953b57956901eaeeb0) 
 - [2020-04-30-只有2行代码的库，坑了数百万JS项目](https://www.ershicimi.com/p/2149808306ae874a8f95bc8e29af53ad) 
 - [2020-04-23-ECMAScript-2020新增特性](https://www.ershicimi.com/p/6da91e5e034f9101cce39719083b301e) 
@@ -143,6 +144,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-22-有哪些-js-插件，能把-js-前端的数据转成文件下载的？](https://www.v2ex.com/t/674247) 
 - [2020-05-22-IE8-下-JS-动态更改-img-标签的-src-值，内存泄漏，求助！](https://www.v2ex.com/t/674225) 
 - [2020-05-21-关于-golang-在-mac-上的环境变量设置](https://www.v2ex.com/t/674196) 
 - [2020-05-21-Python-的-re.sub-正则替换问题](https://www.v2ex.com/t/674191) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -47,6 +47,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-22-Today-Widget-应该搞个安全分级](https://www.v2ex.com/t/674338) 
 - [2020-05-22-Macbook-Pro-用-Chrome-打开网页花屏](https://www.v2ex.com/t/674328) 
 - [2020-05-22-有关-iPad-的浏览器-Safari-或者-Chrome-访问相关网页](https://www.v2ex.com/t/674309) 
 - [2020-05-22-windows->windows-远程控制有啥推荐的软件吗?-teamviewer-和向日葵除外.](https://www.v2ex.com/t/674240) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -983,6 +983,8 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-22-java9-以上的版本收费是到底怎样的情况？](https://www.v2ex.com/t/674238) 
+- [2020-05-22-visual-studio-for-mac-安装问题。](https://www.v2ex.com/t/674237) 
 - [2020-05-22-用-wordpress-和-woocommerce-给人做了个购物站，最近总有莫名的访问链接，求解](https://www.v2ex.com/t/674235) 
 - [2020-05-22-4-月新购的-19-款-MacBook-Pro-连-FQ-总会时不时断网。（似乎之前帖子发错了）](https://www.v2ex.com/t/674234) 
 - [2020-05-22-历史大数据，这个域名值得购买吗？](https://www.v2ex.com/t/674233) 
@@ -6497,6 +6499,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-22-不就看一下-Java-后端开发书架吗？这有啥不行](https://toutiao.io/k/ywfkkkj) 
+- [2020-05-22-万字长文教你对抗邪恶的爬虫](https://toutiao.io/k/m6fc60e) 
+- [2020-05-22-追了多年的开发框架，你还认识指针吗？](https://toutiao.io/k/aodf7mr) 
+- [2020-05-22-以业务为核心的云原生体系建设](https://toutiao.io/k/hsqubbs) 
+- [2020-05-22-代表-Java-未来的-ZGC-深度剖析，牛逼](https://toutiao.io/k/7ng6t06) 
 - [2020-05-21-Python-的缩进是不是反人类的设计？](https://toutiao.io/k/u0jn62o) 
 - [2020-05-21-更聪明地学习，而不是苦读：《如何高效学习》](https://toutiao.io/k/y3l2flz) 
 - [2020-05-21-携程火车票-Rematch-框架实践](https://toutiao.io/k/ycfwq45) 

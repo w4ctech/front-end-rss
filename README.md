@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 08:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1060,9 +1060,11 @@
 </summary>
 
 
-- [2020-05-22-用-wordpress-和-woocommerce-给人做了个购物站，最近总有莫名的访问链接，求解](https://www.v2ex.com/t/674235) ![](assets/new.png)  
-- [2020-05-22-4-月新购的-19-款-MacBook-Pro-连-FQ-总会时不时断网。（似乎之前帖子发错了）](https://www.v2ex.com/t/674234) ![](assets/new.png)  
-- [2020-05-22-历史大数据，这个域名值得购买吗？](https://www.v2ex.com/t/674233) ![](assets/new.png)  
+- [2020-05-22-java9-以上的版本收费是到底怎样的情况？](https://www.v2ex.com/t/674238) ![](assets/new.png)  
+- [2020-05-22-visual-studio-for-mac-安装问题。](https://www.v2ex.com/t/674237) ![](assets/new.png)  
+- [2020-05-22-用-wordpress-和-woocommerce-给人做了个购物站，最近总有莫名的访问链接，求解](https://www.v2ex.com/t/674235)  
+- [2020-05-22-4-月新购的-19-款-MacBook-Pro-连-FQ-总会时不时断网。（似乎之前帖子发错了）](https://www.v2ex.com/t/674234)  
+- [2020-05-22-历史大数据，这个域名值得购买吗？](https://www.v2ex.com/t/674233)  
 - [2020-05-22-有没有-侧边栏自定义搜索引擎跳转拓展?](https://www.v2ex.com/t/674231)  
 - [2020-05-22-父母也认为-996-是福报](https://www.v2ex.com/t/674230)  
 - [2020-05-22-手机平板电脑电视各大视频应用都出现画面与声音不匹配的问题](https://www.v2ex.com/t/674229)  
@@ -1078,8 +1080,6 @@
 - [2020-05-22-20200522-午夜俱乐部](https://www.v2ex.com/t/674217)  
 - [2020-05-22-继-GTA5-之后，-epic-要来送文明-6-了](https://www.v2ex.com/t/674216)  
 - [2020-05-22-分享一个疫情期间写的学英语-web](https://www.v2ex.com/t/674215)  
-- [2020-05-21-可转债的买入机会又来了](https://www.v2ex.com/t/674214)  
-- [2020-05-21-如果公司不符合个人职业规划，值得待下去吗？](https://www.v2ex.com/t/674213)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,6 +1122,14 @@
 </summary>
 
 
+- [2020-05-22-不就看一下-Java-后端开发书架吗？这有啥不行](https://toutiao.io/k/ywfkkkj) ![](assets/new.png)  
+- [2020-05-22-万字长文教你对抗邪恶的爬虫](https://toutiao.io/k/m6fc60e) ![](assets/new.png)  
+- [2020-05-22-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e) ![](assets/new.png)  
+- [2020-05-22-追了多年的开发框架，你还认识指针吗？](https://toutiao.io/k/aodf7mr) ![](assets/new.png)  
+- [2020-05-22-动画：深度解析-JVM-运行时数据区之线程独占区](https://toutiao.io/k/tch0hw6) ![](assets/new.png)  
+- [2020-05-22-以业务为核心的云原生体系建设](https://toutiao.io/k/hsqubbs) ![](assets/new.png)  
+- [2020-05-22-代表-Java-未来的-ZGC-深度剖析，牛逼](https://toutiao.io/k/7ng6t06) ![](assets/new.png)  
+- [2020-05-22-阿里-3-轮面试都问了-RecyclerView](https://toutiao.io/k/xwtusda) ![](assets/new.png)  
 - [2020-05-21-Python-的缩进是不是反人类的设计？](https://toutiao.io/k/u0jn62o)  
 - [2020-05-21-更聪明地学习，而不是苦读：《如何高效学习》](https://toutiao.io/k/y3l2flz)  
 - [2020-05-21-携程火车票-Rematch-框架实践](https://toutiao.io/k/ycfwq45)  
@@ -1134,14 +1142,6 @@
 - [2020-05-21-为了保护小姐姐的眼睛，我用自动化做了一款语音机器人](https://toutiao.io/k/y0ozx7z)  
 - [2020-05-21-RSA-加密算法是怎么回事？难懂吗？](https://toutiao.io/k/g28pya3)  
 - [2020-05-21-Flutter-Weekly-Issue-56](https://toutiao.io/k/ryxuue3)  
-- [2020-05-21-一种回放式压测工具的设计](https://toutiao.io/k/2089i2l)  
-- [2020-05-21-十个超级实用的-git-命令](https://toutiao.io/k/wwwv4wa)  
-- [2020-05-21-MySQL-常见-6-个考题在实际工作中的运用](https://toutiao.io/k/ptu2uvb)  
-- [2020-05-21-数据迁移（二）：如何快速迁移](https://toutiao.io/k/v6b6x2n)  
-- [2020-05-21-Zookeeper-如何保证分布式系统数据一致性](https://toutiao.io/k/got8gax)  
-- [2020-05-21-如何在-Kubernetes-中创建一个自定义-Controller?](https://toutiao.io/k/qluqqcg)  
-- [2020-05-21-Java-类隔离加载的正确姿势](https://toutiao.io/k/aj1bpjx)  
-- [2020-05-21-广告行业中那些趣事（十）：推荐系统中不得不说的-DSSM-双塔模型](https://toutiao.io/k/9v5muff)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

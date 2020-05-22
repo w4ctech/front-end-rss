@@ -9482,6 +9482,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "java9 以上的版本收费是到底怎样的情况？",
+        "link": "https://www.v2ex.com/t/674238",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "visual studio for mac 安装问题。",
+        "link": "https://www.v2ex.com/t/674237",
+        "date": "2020-05-22"
+      },
+      {
         "title": "用 wordpress 和 woocommerce 给人做了个购物站，最近总有莫名的访问链接，求解",
         "link": "https://www.v2ex.com/t/674235",
         "date": "2020-05-22"
@@ -44430,6 +44440,46 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "不就看一下 Java 后端开发书架吗？这有啥不行",
+        "link": "https://toutiao.io/k/ywfkkkj",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "万字长文教你对抗邪恶的爬虫",
+        "link": "https://toutiao.io/k/m6fc60e",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "看完这篇操作系统，和面试官扯皮就没问题了",
+        "link": "https://toutiao.io/k/1hdaa4e",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "追了多年的开发框架，你还认识指针吗？",
+        "link": "https://toutiao.io/k/aodf7mr",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "动画：深度解析 JVM 运行时数据区之线程独占区",
+        "link": "https://toutiao.io/k/tch0hw6",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "以业务为核心的云原生体系建设",
+        "link": "https://toutiao.io/k/hsqubbs",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "代表 Java 未来的 ZGC 深度剖析，牛逼",
+        "link": "https://toutiao.io/k/7ng6t06",
+        "date": "2020-05-22"
+      },
+      {
+        "title": "阿里 3 轮面试都问了 RecyclerView",
+        "link": "https://toutiao.io/k/xwtusda",
+        "date": "2020-05-22"
+      },
       {
         "title": "Python 的缩进是不是反人类的设计？",
         "link": "https://toutiao.io/k/u0jn62o",

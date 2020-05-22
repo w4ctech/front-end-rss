@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-22 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -35,6 +35,8 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-22-各位师傅，-elasticsearch-如何进行大量数据的去重？](https://www.v2ex.com/t/674314) 
+- [2020-05-22-notion-被抄袭了？界面神似-https://hanzhou.work](https://www.v2ex.com/t/674305) 
 - [2020-05-22-LastPass-和-KeePass-都默认只有用户名而无邮箱选项，导致不同登录方式时会重复添加条目](https://www.v2ex.com/t/674226) 
 - [2020-05-21-杭州|北京阿里巴巴急求全栈开发简历](https://www.v2ex.com/t/674151) 
 - [2020-05-21-阿里云国际版用于建机场，上-HTTPS-就直接被阻断，求解决方法](https://www.v2ex.com/t/674080) 

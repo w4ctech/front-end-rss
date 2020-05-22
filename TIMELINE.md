@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-22 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-22 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-西班牙首都马德里将于25日进入紧急状态降级的第一阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmdQyGHvSvqw4rG3GFLT200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-国际移民组织：基于事实和科学-反对仇外、歧视和污名化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMSpwY18Tj9nmPHCFH0R200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-美媒：美国总统曾暗示美国流感比新冠疫情严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZIzYoUiXc3p8EmhBEy8200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-环印度洋联盟举办抗击疫情专题视频会议-多国呼吁合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHE9jk3qiJZyyohrPGIMY200522&isfromapp=1) 
@@ -989,6 +992,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-22-简历似乎被人卖了...](https://www.v2ex.com/t/674538) 
+- [【V2EX】2020-05-22-心率测量频率重要吗](https://www.v2ex.com/t/674537) 
+- [【V2EX】2020-05-22-豆瓣手机客户端太难用了，有第三方客户端吗](https://www.v2ex.com/t/674536) 
+- [【V2EX】2020-05-22-系统如何使用-chrome-插件的代理？](https://www.v2ex.com/t/674534) 
+- [【V2EX】2020-05-22-求职前端工作，可远程在家办公](https://www.v2ex.com/t/674533) 
+- [【V2EX】2020-05-22-selenium-standalone-安装时，无法下载-chromedriver，怎么办？](https://www.v2ex.com/t/674532) 
 - [【V2EX】2020-05-22-为什么妙控键盘-For-iPad-Pro-12.9-一直没货啊](https://www.v2ex.com/t/674530) 
 - [【V2EX】2020-05-22-4k-显示器选-27-寸还是-32-寸，支架旋转和-usbc-是否必须？](https://www.v2ex.com/t/674529) 
 - [【V2EX】2020-05-22-手写-JIT-编译器,-三天时间能学会吗狗头,-第一天?](https://www.v2ex.com/t/674528) 

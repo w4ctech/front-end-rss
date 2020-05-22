@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-22 14:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-22 14:30:21，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-22-马来西亚再度严格禁止进行跨州移动-以防新冠肺炎疫情的蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eqJTb6pDsJLpupjoZWj200522&isfromapp=1) ![](assets/new.png)  
+- [2020-05-22-日本消费者物价指数自2016年以来首度下跌](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqyBuyaDYCNTVntgfvc4M200522&isfromapp=1) ![](assets/new.png)  
+- [2020-05-22-澳大利亚新南威尔士州餐馆待客数量将上调至50人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4z6gDHqQD2zKMeNXHn8200522&isfromapp=1) ![](assets/new.png)  
 - [2020-05-22-国家网信办启动2020“清朗”专项行动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisle0HxXkrFpUgVGzG81n200522&isfromapp=1)  
 - [2020-05-22-罗杰：在战疫一线-对90后刮目相看](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticL6Kk27zIG1o0w3zgzuV200522&isfromapp=1)  
 - [2020-05-22-上调退休人员基本养老金-提高城乡居民基础养老金最低标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQSBUMUviqa280EzUfNoQ200522&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-21-印度最大贫民窟新增47例新冠肺炎确诊病例-累计1425例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq59RWtbRWTb2ZK7dyLrW200521&isfromapp=1)  
 - [2020-05-21-法新社：欧洲已经有超过17万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC5bnlij5tB6NYcyxX7t7200521&isfromapp=1)  
 - [2020-05-21-​英国将向民众提供免费新冠病毒抗体测试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivH1kvixoq3MLoTtN1g1W200521&isfromapp=1)  
-- [2020-05-21-2020短池游泳世锦赛延期一年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWRRQp6uSvsnp1tP94onK200521&isfromapp=1)  
-- [2020-05-21-联合国秘书长古特雷斯：结束非洲疫情对全球至关重要](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQuD8JZu3mTKgWAoX3h6J200521&isfromapp=1)  
-- [2020-05-21-​巴西教育部宣布今年巴西“高考”因新冠疫情影响推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie7Aw45pNlXxH21QV2Y75200521&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,26 +1061,26 @@
 </summary>
 
 
-- [2020-05-22-快手-RD-内推，长期有效](https://www.v2ex.com/t/674360) ![](assets/new.png)  
-- [2020-05-22-Junior/Senior-C++-Developer-招聘](https://www.v2ex.com/t/674359) ![](assets/new.png)  
-- [2020-05-22-从技术角度讲，是否有可能建立（或已经有）类似-P2P-+-Tor-的匿名聊天/邮件工具？](https://www.v2ex.com/t/674358) ![](assets/new.png)  
-- [2020-05-22-一起写一个-Linux-初版的-git-吧！](https://www.v2ex.com/t/674356) ![](assets/new.png)  
-- [2020-05-22-多地办公-+-可远程-15k-50k/月-招-C++、前端、测试、PM、IT-技术支持](https://www.v2ex.com/t/674355) ![](assets/new.png)  
-- [2020-05-22-歌荒中~有没有好歌分享的](https://www.v2ex.com/t/674354) ![](assets/new.png)  
-- [2020-05-22-13-号线回龙观地铁站-整租开间，出租](https://www.v2ex.com/t/674353) ![](assets/new.png)  
-- [2020-05-22-臀脑分离为老板说话的人已经销声匿迹，忽悠别人还有翻身机会的哪年会停止？](https://www.v2ex.com/t/674352) ![](assets/new.png)  
-- [2020-05-22-如果-ios-越狱了，是不是就不需要卡贴了？](https://www.v2ex.com/t/674350)  
-- [2020-05-22-2017mbp-轻微进水正常使用，还能走键盘计划吗？](https://www.v2ex.com/t/674347)  
-- [2020-05-22-公司来了新同事](https://www.v2ex.com/t/674346)  
-- [2020-05-22-求教一下这个键盘是什么牌子什么型号](https://www.v2ex.com/t/674345)  
-- [2020-05-22-分享多抓鱼的猫助写的一篇回答，关于第一份工作的选择](https://www.v2ex.com/t/674343)  
-- [2020-05-22-请问创造者日报是数据库出问题了吗？](https://www.v2ex.com/t/674342)  
-- [2020-05-22-有没有玩皇室战争的，求换-3-张电法](https://www.v2ex.com/t/674341)  
-- [2020-05-22-在-hk-签一个不限速不限量的套餐需要多少钱？](https://www.v2ex.com/t/674340)  
-- [2020-05-22-type-c-口遇到的问题试试重置-smc-把](https://www.v2ex.com/t/674339)  
-- [2020-05-22-Today-Widget-应该搞个安全分级](https://www.v2ex.com/t/674338)  
-- [2020-05-22-现在越狱是怎么个情况啊](https://www.v2ex.com/t/674337)  
-- [2020-05-22-我开源的-Jetpack-MVVM-项目被-6000-元的课程-拿去给-2300-名学员讲课-……](https://www.v2ex.com/t/674335)  
+- [2020-05-22-机器学习策略研究员招聘](https://www.v2ex.com/t/674384) ![](assets/new.png)  
+- [2020-05-22-最近的区块链如火如荼不知道大家有没有一些普通程序员可以搭建的开源区块链呢](https://www.v2ex.com/t/674383) ![](assets/new.png)  
+- [2020-05-22-闲鱼交易二手-MBP-16-寸，怎么验机](https://www.v2ex.com/t/674382) ![](assets/new.png)  
+- [2020-05-22-拼多多买了百亿补贴的-iPad-pro-12.9，安全下车](https://www.v2ex.com/t/674381) ![](assets/new.png)  
+- [2020-05-22-程序员找对象，会有职业的偏好么？](https://www.v2ex.com/t/674380) ![](assets/new.png)  
+- [2020-05-22-「成都」-黑帕云招聘前后端工程师，-15-30K](https://www.v2ex.com/t/674379) ![](assets/new.png)  
+- [2020-05-22-马上-618-了，-5000-预算攒个主机，求大佬给个推荐](https://www.v2ex.com/t/674378) ![](assets/new.png)  
+- [2020-05-22-Devonthink-3-Pro-Server（原价-400-刀）开车，-600RMB-多行，总共开-10-个位置。](https://www.v2ex.com/t/674377) ![](assets/new.png)  
+- [2020-05-22-为什么国外的-Stack-Overflow-里面没有那种把-jdk-源码某个函数翻来覆去研究的问题？](https://www.v2ex.com/t/674376) ![](assets/new.png)  
+- [2020-05-22-推荐-极客时间的英语课程——「互联网人的英语私教课」](https://www.v2ex.com/t/674375) ![](assets/new.png)  
+- [2020-05-22-求职-深圳-Java-后端-专科-现已离职](https://www.v2ex.com/t/674373) ![](assets/new.png)  
+- [2020-05-22-2020-晒键盘](https://www.v2ex.com/t/674372) ![](assets/new.png)  
+- [2020-05-22-这个-class-命名好可爱](https://www.v2ex.com/t/674371) ![](assets/new.png)  
+- [2020-05-22-请教下各位菊苣，-最近在弄动态表单，动态流程这些东西。感觉入了大坑，想听听各位菊苣的看法。](https://www.v2ex.com/t/674370) ![](assets/new.png)  
+- [2020-05-22-深圳知名量化对冲基金招聘策略研究员](https://www.v2ex.com/t/674368) ![](assets/new.png)  
+- [2020-05-22-为什么微云和百度网盘这些网盘下载-ISO-文件，很容易出现-MD5-错误？](https://www.v2ex.com/t/674365) ![](assets/new.png)  
+- [2020-05-22-才发现-macOS-app-store-下载的-app-和账号是绑定的](https://www.v2ex.com/t/674363) ![](assets/new.png)  
+- [2020-05-22-大家一天中有效工作时长是多久啊？](https://www.v2ex.com/t/674362) ![](assets/new.png)  
+- [2020-05-22-iOS-就寝-提前醒了怎么关？](https://www.v2ex.com/t/674361) ![](assets/new.png)  
+- [2020-05-22-快手-RD-内推，长期有效](https://www.v2ex.com/t/674360)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 12:30:22，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 13:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1065,13 +1065,17 @@
 </summary>
 
 
-- [2020-05-23-听说三星手机程序出-bug-了！](https://www.v2ex.com/t/674636) ![](assets/new.png)  
-- [2020-05-23-出一些-Google-Voice-靓号-/-GV-靓号](https://www.v2ex.com/t/674634) ![](assets/new.png)  
-- [2020-05-23-Fecmall-免费商用-在线出售电子书籍-PDF（虚拟产品）以及实物书籍的-B2C-商城](https://www.v2ex.com/t/674631) ![](assets/new.png)  
-- [2020-05-23-安卓哪个浏览器可以使用-chrome-插件](https://www.v2ex.com/t/674629) ![](assets/new.png)  
-- [2020-05-23-求免费薅的-jdk-8u202--Linux--x64-下载地址](https://www.v2ex.com/t/674628) ![](assets/new.png)  
-- [2020-05-23-我想设计一个改编歌词的软件，应该用什么编程平台？](https://www.v2ex.com/t/674627) ![](assets/new.png)  
-- [2020-05-23-淘宝上二手的-CCFL-显示器嗡嗡的响是什么问题？](https://www.v2ex.com/t/674626) ![](assets/new.png)  
+- [2020-05-23-睡前听物（互相推荐）](https://www.v2ex.com/t/674641) ![](assets/new.png)  
+- [2020-05-23-关闭支付宝首页的淘宝广告](https://www.v2ex.com/t/674640) ![](assets/new.png)  
+- [2020-05-23-提醒一下，-PowerToys-新的-release-已经可以使用-PowerToys-Run-了](https://www.v2ex.com/t/674638) ![](assets/new.png)  
+- [2020-05-23-dell-3219-还是-dell-2720](https://www.v2ex.com/t/674637) ![](assets/new.png)  
+- [2020-05-23-听说三星手机程序出-bug-了！](https://www.v2ex.com/t/674636)  
+- [2020-05-23-出一些-Google-Voice-靓号-/-GV-靓号](https://www.v2ex.com/t/674634)  
+- [2020-05-23-Fecmall-免费商用-在线出售电子书籍-PDF（虚拟产品）以及实物书籍的-B2C-商城](https://www.v2ex.com/t/674631)  
+- [2020-05-23-安卓哪个浏览器可以使用-chrome-插件](https://www.v2ex.com/t/674629)  
+- [2020-05-23-求免费薅的-jdk-8u202--Linux--x64-下载地址](https://www.v2ex.com/t/674628)  
+- [2020-05-23-我想设计一个改编歌词的软件，应该用什么编程平台？](https://www.v2ex.com/t/674627)  
+- [2020-05-23-淘宝上二手的-CCFL-显示器嗡嗡的响是什么问题？](https://www.v2ex.com/t/674626)  
 - [2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625)  
 - [2020-05-23-滴滴出行-北京、杭州-前端/Android/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/674624)  
 - [2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623)  
@@ -1081,10 +1085,6 @@
 - [2020-05-23-求教一下-win10-的-wsl2-的安装问题](https://www.v2ex.com/t/674619)  
 - [2020-05-23-低调安利一款基于-gitops-的运维自动化产品](https://www.v2ex.com/t/674618)  
 - [2020-05-23-HTTP-状态码与喵了个咪的关系](https://www.v2ex.com/t/674617)  
-- [2020-05-23-你的-Mac-需要一款-快速、轻巧、易用的-PDF-编辑器以及性价比十足的-NTFS-for-Mac-助手](https://www.v2ex.com/t/674615)  
-- [2020-05-23-求问哪个版本的-Linux-可以扩展屏，-Windows-用-AS+虚拟机写-Flutter-可太卡了。](https://www.v2ex.com/t/674613)  
-- [2020-05-23-Dig101-Go-之如何在函数内修改指针](https://www.v2ex.com/t/674612)  
-- [2020-05-23-照抄-Notion-界面、代码、接口的产品：寒舟-hanzhou.work](https://www.v2ex.com/t/674611)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,7 +1096,7 @@
 </summary>
 
 
-- [2020-05-23-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-23-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

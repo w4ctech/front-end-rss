@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 19:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 20:00:20，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-23-《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-印度央行再度降息以缓解疫情冲击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4vejPHtYnWGpfTilFsc200523&isfromapp=1) ![](assets/new.png)  
 - [2020-05-23-专访陈静瑜：给新冠肺炎危重症患者做肺移植是「举全国之力」](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPTMFj2sYcP6LV8YhAMMf200523&isfromapp=1)  
 - [2020-05-23-​莫斯科完成超-5-万次新冠病毒抗体测试，12%-受检市民获得抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGunkn2CRQbZYhhtxsmSA200523&isfromapp=1)  
 - [2020-05-23-复航！武夷山机场-6-月-1-日起恢复​北京航线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipnSXFDt9IgLLe5QsMGFt200523&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1)  
 - [2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1)  
 - [2020-05-22-世卫组织总干事：全球新冠肺炎确诊病例超过500万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1)  
-- [2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1)  
-- [2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -744,7 +744,7 @@
 </summary>
 
 
-- [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d) ![](assets/new.png)  
+- [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d)  
 - [2020-05-22-奇舞周刊第-350-期：前端状态管理设计，优雅与妥协的艺术](https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56)  
 - [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0)  
 - [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee)  
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-23-阿里巴巴-CRO-技术部社招-P6P7-皆有-HC，流程迅速！](https://www.v2ex.com/t/674720)  
-- [2020-05-23-经验：在淘宝或者发卡网买的-Google-Voice，一定要转到自己的谷歌账号上](https://www.v2ex.com/t/674719)  
-- [2020-05-23-上海的程序员同胞们一起加个群，内推，面试啥的一起交流，互相学习也方便点！](https://www.v2ex.com/t/674717)  
-- [2020-05-23-如何把玩技术的和产品运营搭配起来搞事情，靠社群好像真的无解](https://www.v2ex.com/t/674715)  
-- [2020-05-23-求教：如何将-Manjaro-的-Terminal-提示信息改为英文？](https://www.v2ex.com/t/674714)  
-- [2020-05-23-Zerotier-网络配置疑问。。。](https://www.v2ex.com/t/674713)  
-- [2020-05-23-推荐一款-JEKYLL-主题](https://www.v2ex.com/t/674712)  
-- [2020-05-23-现在还有人写实体信吗？](https://www.v2ex.com/t/674711)  
-- [2020-05-23-所谓的评论都是人在发的吗？](https://www.v2ex.com/t/674709)  
-- [2020-05-23-请教如何查询谷歌账号的注册时间呢？](https://www.v2ex.com/t/674708)  
-- [2020-05-23-TG-上遇到的诈骗网站](https://www.v2ex.com/t/674707)  
-- [2020-05-23-zoom-的替代品、视频会议软件的选择之一：-Jitsi-Meet-是一个完全加密，-100%-开源的视频会议解决方案。无需注册帐号，无限时免费使用。](https://www.v2ex.com/t/674706)  
-- [2020-05-23-感觉-NAS（如群晖）就应该只放文件，-Docker-和虚拟机没必要](https://www.v2ex.com/t/674705)  
-- [2020-05-23-校招-offer-选择，阿里-vs-头条，技术栈-vs-户口](https://www.v2ex.com/t/674704)  
-- [2020-05-23-有字节跳动的同学吗，飞书会议的音频延时巨大](https://www.v2ex.com/t/674703)  
-- [2020-05-23-有没有集中预览网页上所有图片的插件？](https://www.v2ex.com/t/674702)  
-- [2020-05-23-你们的-Chrome-有这种问题吗？](https://www.v2ex.com/t/674700)  
-- [2020-05-23-小白请教有关局域网的问题](https://www.v2ex.com/t/674699)  
-- [2020-05-23-是否可以用-DNA-酶-判断病毒的遗传物质是-DNA-还是-RNA？](https://www.v2ex.com/t/674698)  
-- [2020-05-23-不懂就问有什么推荐的电视机顶盒](https://www.v2ex.com/t/674697)  
+- [2020-05-23-杭州-Java-求职，有没有杭州的小伙伴公司招人呀，求内推！](https://www.v2ex.com/t/674751) ![](assets/new.png)  
+- [2020-05-23-求助-央视频-视频抓取-蓝光视频下载方法](https://www.v2ex.com/t/674749) ![](assets/new.png)  
+- [2020-05-23-多少人失业了](https://www.v2ex.com/t/674748) ![](assets/new.png)  
+- [2020-05-23-safari-暗黑模式插件-dark-mode-for-safari-有问题](https://www.v2ex.com/t/674747) ![](assets/new.png)  
+- [2020-05-23-vue-directive-上下文问题](https://www.v2ex.com/t/674746) ![](assets/new.png)  
+- [2020-05-23-京东黑钱新套路：几个月前买的东西，从未发货，却显示我已签收，交易成功。](https://www.v2ex.com/t/674745) ![](assets/new.png)  
+- [2020-05-23-注册过公司的-V-友们，注册地址都是怎么搞定的呀](https://www.v2ex.com/t/674744) ![](assets/new.png)  
+- [2020-05-23-workerman-高仿-QQ-实战](https://www.v2ex.com/t/674743) ![](assets/new.png)  
+- [2020-05-23-不懂-AmpliFi-套装的设计逻辑，硬编码，互相锁定，其中一个不能和其他设备组网](https://www.v2ex.com/t/674742) ![](assets/new.png)  
+- [2020-05-23-求推荐不用鼠标的-PC-网游](https://www.v2ex.com/t/674741) ![](assets/new.png)  
+- [2020-05-23-iPad-app-删除后重新下载怎么恢复-icloud-的备份数据？](https://www.v2ex.com/t/674740) ![](assets/new.png)  
+- [2020-05-23-shell-随机数问题，这种情况要如何产生概率相同的分布？](https://www.v2ex.com/t/674739) ![](assets/new.png)  
+- [2020-05-23-怎么用华为云部署-node-服务器？](https://www.v2ex.com/t/674738) ![](assets/new.png)  
+- [2020-05-23-MBP16-寸-外接显示器黑屏是哪里出问题了？](https://www.v2ex.com/t/674736) ![](assets/new.png)  
+- [2020-05-23-不加班的你，如何拓展自己的人际边界和知识边界？](https://www.v2ex.com/t/674735) ![](assets/new.png)  
+- [2020-05-23-坐标深圳,-Shopee-招聘啦!-此内推贴长期有效](https://www.v2ex.com/t/674733) ![](assets/new.png)  
+- [2020-05-23-给-MX-Player-加了个弹幕功能](https://www.v2ex.com/t/674731) ![](assets/new.png)  
+- [2020-05-23-风行会员-9.9-一年，这个价格要啥自行车。](https://www.v2ex.com/t/674730) ![](assets/new.png)  
+- [2020-05-23-Edge-所有功能都很流畅，除了微软自己的-UI-组件很卡](https://www.v2ex.com/t/674728) ![](assets/new.png)  
+- [2020-05-23-tcp-要如何联调好呢？](https://www.v2ex.com/t/674727) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

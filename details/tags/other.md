@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1) 
 - [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1) 
 - [2020-05-23-印度央行再度降息以缓解疫情冲击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4vejPHtYnWGpfTilFsc200523&isfromapp=1) 
 - [2020-05-23-​莫斯科完成超-5-万次新冠病毒抗体测试，12%-受检市民获得抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGunkn2CRQbZYhhtxsmSA200523&isfromapp=1) 

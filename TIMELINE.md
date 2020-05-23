@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-24 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-荷兰新增新冠肺炎确诊病例176例，累计45064例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1) 

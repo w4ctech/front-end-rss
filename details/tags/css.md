@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 18:30:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -50,6 +50,7 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
+- [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d) 
 - [2020-05-09-Serverless-掀起新的前端技术变革](https://www.ershicimi.com/p/0f8da70f73db5c404ebaf3f1423d29b9) 
 - [2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) 
 - [2020-05-12-Serverless-实战：3-分钟实现文本敏感词过滤](https://www.ershicimi.com/p/2d6842ea694963f3d5123cb1b0142f4c) 

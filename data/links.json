@@ -7085,6 +7085,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "深入解析 EventLoop 和浏览器渲染、帧动画、空闲回调的关系",
+        "link": "https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d",
+        "date": "2020-05-23"
+      },
+      {
         "title": "奇舞周刊第 350 期：前端状态管理设计，优雅与妥协的艺术",
         "link": "https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56",
         "date": "2020-05-22"

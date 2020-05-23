@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 18:30:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -761,6 +761,7 @@
 - [【凹凸实验室】2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/19/koa-demo/) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d) 
 - [【奇舞周刊】2020-05-22-奇舞周刊第-350-期：前端状态管理设计，优雅与妥协的艺术](https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56) 
 - [【奇舞周刊】2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0) 
 - [【奇舞周刊】2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 00:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 01:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1) ![](assets/new.png)  
-- [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1)  
+- [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1)  
 - [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1)  
 - [2020-05-23-荷兰新增新冠肺炎确诊病例176例，累计45064例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1)  
 - [2020-05-23-《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1)  
@@ -1065,26 +1065,26 @@
 </summary>
 
 
+- [2020-05-24-Mac-上移动硬盘异常退出后无法正常工作](https://www.v2ex.com/t/674806) ![](assets/new.png)  
+- [2020-05-24-如果面试没下文，你们还会重新再投这公司吗？](https://www.v2ex.com/t/674804) ![](assets/new.png)  
+- [2020-05-24-gv-号码申请不到了啊！](https://www.v2ex.com/t/674803) ![](assets/new.png)  
+- [2020-05-24-新博客备案后合法合规注意事项？](https://www.v2ex.com/t/674802) ![](assets/new.png)  
+- [2020-05-24-下半年大四，想找后台开发工作，准备什么技术栈比较有竞争力？](https://www.v2ex.com/t/674801) ![](assets/new.png)  
+- [2020-05-23-阿里巴巴供应链团队长期招聘-Java-工程师](https://www.v2ex.com/t/674800) ![](assets/new.png)  
+- [2020-05-23-被四块-10TB-的硬盘吵的失眠，该怎么办？](https://www.v2ex.com/t/674798) ![](assets/new.png)  
+- [2020-05-23-新版-edge-小游戏](https://www.v2ex.com/t/674797) ![](assets/new.png)  
+- [2020-05-23-iPhone-官方回收折抵，体验很不错](https://www.v2ex.com/t/674796) ![](assets/new.png)  
+- [2020-05-23-手写-JIT-编译器,-三天时间能学会吗狗头,-第二天?](https://www.v2ex.com/t/674795) ![](assets/new.png)  
+- [2020-05-23-为什么哈萨克斯坦访问香港网站，要绕一大圈？](https://www.v2ex.com/t/674794) ![](assets/new.png)  
+- [2020-05-23-关于找工作问题](https://www.v2ex.com/t/674793) ![](assets/new.png)  
+- [2020-05-23-作为资深-md-工程师，安利一个高颜值的文档神器](https://www.v2ex.com/t/674792) ![](assets/new.png)  
+- [2020-05-23-open-jdk14，各位用哪个版本的，用的怎么样？](https://www.v2ex.com/t/674791) ![](assets/new.png)  
+- [2020-05-23-微软的-Edge-更新到-83-之后的扩展同步支持同步的是哪部分的扩展？](https://www.v2ex.com/t/674790) ![](assets/new.png)  
+- [2020-05-23-Microsoft-Edge-的更新方式](https://www.v2ex.com/t/674788) ![](assets/new.png)  
 - [2020-05-23-现在成都联通家宽国际出口质量怎么样？](https://www.v2ex.com/t/674787)  
 - [2020-05-23-🔥🔥背水一战是一个调侃，鹅厂各部门人才奇缺，持续驻版内推🔥🔥提供-0-接触自助内推方式，避免你的害羞](https://www.v2ex.com/t/674786)  
 - [2020-05-23-有了解-Windows10-空间音效的吗,-搞了个小测试](https://www.v2ex.com/t/674784)  
 - [2020-05-23-Standard-notes-是如何实现加密，任何人都不可见的？](https://www.v2ex.com/t/674783)  
-- [2020-05-23-请问这种邮件对方是怎么发送的。](https://www.v2ex.com/t/674781)  
-- [2020-05-23-接近-deadline,发现产品给的业务逻辑走不通,我傻逼了](https://www.v2ex.com/t/674780)  
-- [2020-05-23-所谓的自定义-Cloudflare-节点，真的有效果吗？](https://www.v2ex.com/t/674779)  
-- [2020-05-23-想成为“掘金小册”作者，一直没搭理，是停了么？](https://www.v2ex.com/t/674777)  
-- [2020-05-23-上海闵行捡到只流浪猫，寻找合适的主人](https://www.v2ex.com/t/674774)  
-- [2020-05-23-下学期大四，暑假开始实习，是选择呆在二线（南昌）还是去大城市，实习这年去不同城市会有什么区别吗对于职业发展来说，本人在南昌读书收到了南昌的-offer](https://www.v2ex.com/t/674772)  
-- [2020-05-23-为什么-114-的两组-DNS-的-TTL-一直在动态变化？](https://www.v2ex.com/t/674771)  
-- [2020-05-23-世纪公园现在还限流么？](https://www.v2ex.com/t/674770)  
-- [2020-05-23-这段-smali-代码里,-p2-到底是什么啊？-K.a-的最终结果是什么啊](https://www.v2ex.com/t/674769)  
-- [2020-05-23-「杭州」阿里巴巴政务钉钉事业部急招-P6/P7-前端开发岗位，-HC-不设上限](https://www.v2ex.com/t/674768)  
-- [2020-05-23-如何描述价格上穿移动平均线呢。](https://www.v2ex.com/t/674767)  
-- [2020-05-23-新装的-manjaro，所有网络相关的命令都会被卡住](https://www.v2ex.com/t/674766)  
-- [2020-05-23-罗技哪款适合喜欢小巧便捷键盘的人购买的？！](https://www.v2ex.com/t/674765)  
-- [2020-05-23-局域网读写-Linux](https://www.v2ex.com/t/674763)  
-- [2020-05-23-杭州-世界第一的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/674762)  
-- [2020-05-23-休闲一年，去深圳找工作怎么样](https://www.v2ex.com/t/674761)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

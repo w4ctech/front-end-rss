@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 21:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 22:30:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1) ![](assets/new.png)  
-- [2020-05-23-荷兰新增新冠肺炎确诊病例176例，累计45064例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1)  
+- [2020-05-23-荷兰新增新冠肺炎确诊病例176例，累计45064例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1)  
 - [2020-05-23-《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1)  
 - [2020-05-23-印度央行再度降息以缓解疫情冲击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4vejPHtYnWGpfTilFsc200523&isfromapp=1)  
 - [2020-05-23-专访陈静瑜：给新冠肺炎危重症患者做肺移植是「举全国之力」](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPTMFj2sYcP6LV8YhAMMf200523&isfromapp=1)  
@@ -1034,6 +1034,12 @@
 </summary>
 
 
+- [2020-05-23-知乎神吐槽-|-你们麻醉后说过什么蠢话？](https://www.ershicimi.com/p/38d0551ad366775e67d80b553684b705) ![](assets/new.png)  
+- [2020-05-23-读书到底有多重要？这是我听过的最好的答案](https://www.ershicimi.com/p/45064df7849d4e65e96a9d5bfaa077a2) ![](assets/new.png)  
+- [2020-05-23-知乎故事-|-将军出征回来了，他还带回一个怀孕的女子](https://www.ershicimi.com/p/3e0f31c7b421a6d71ddead499893cb71) ![](assets/new.png)  
+- [2020-05-22-你最最最最尴尬的一次经历是怎样的？](https://www.ershicimi.com/p/5fc7a5f75d8faa735cf0aa901b8d0c11) ![](assets/new.png)  
+- [2020-05-22-为什么优秀的人，都把闹钟定在早晨-5：57-？](https://www.ershicimi.com/p/61891493ca0fa928fd01a51920c649a7) ![](assets/new.png)  
+- [2020-05-22-知乎故事-|-如果人能代替另一个人上厕所，世界会怎么样？](https://www.ershicimi.com/p/a4fc703700d478c2513a18bba8220692) ![](assets/new.png)  
 - [2020-05-21-知乎好问题：抖音是否正在摧毁当代女性的价值观？](https://www.ershicimi.com/p/a9bafadf2c6303f6827245c08727c65a)  
 - [2020-05-21-视频有奖征集活动-|-今天也是爱你的一天](https://www.ershicimi.com/p/a78dfab9b31ad51d865a81d78708beac)  
 - [2020-05-21-知乎故事-|-每个女生都有被偷走的那-10-年](https://www.ershicimi.com/p/ce6d89198c6ba8e6f0e36105f394f441)  
@@ -1048,12 +1054,6 @@
 - [2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b)  
 - [2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af)  
 - [2020-05-17-本周知乎热榜-|-小区致信抵制丰巢被刷屏，李佳琦能否成功申请「ohmygod-买它」商标？](https://www.ershicimi.com/p/ac751bc7cdbafeff9520e50be50559fe)  
-- [2020-05-17-年度史诗级「剧作」：开学](https://www.ershicimi.com/p/419865e579a1e98240ae57794cab73f5)  
-- [2020-05-17-为什么「渣男」容易招女人喜欢？](https://www.ershicimi.com/p/32f366318bd0f5a629fe91df17e4a35d)  
-- [2020-05-17-知乎故事-|-查出罕见病以后，男友跟我分手了](https://www.ershicimi.com/p/ba35fbe89278931d4fab65086db70a93)  
-- [2020-05-16-美国疑似彻底封杀华为，是意向测试还是博弈筹码？](https://www.ershicimi.com/p/741c45c142dba32eead5ee589884787d)  
-- [2020-05-16-张钧甯：如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/a9bb154a52299a20e16f3e518a8a8011)  
-- [2020-05-16-知乎神吐槽-|-精神病医院是一个怎样的地方？](https://www.ershicimi.com/p/39753240a384ea3005719f1173ab3741)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-23-杭州-Java-求职，有没有杭州的小伙伴公司招人呀，求内推！](https://www.v2ex.com/t/674751)  
-- [2020-05-23-求助-央视频-视频抓取-蓝光视频下载方法](https://www.v2ex.com/t/674749)  
-- [2020-05-23-多少人失业了](https://www.v2ex.com/t/674748)  
-- [2020-05-23-safari-暗黑模式插件-dark-mode-for-safari-有问题](https://www.v2ex.com/t/674747)  
-- [2020-05-23-vue-directive-上下文问题](https://www.v2ex.com/t/674746)  
-- [2020-05-23-京东黑钱新套路：几个月前买的东西，从未发货，却显示我已签收，交易成功。](https://www.v2ex.com/t/674745)  
-- [2020-05-23-注册过公司的-V-友们，注册地址都是怎么搞定的呀](https://www.v2ex.com/t/674744)  
-- [2020-05-23-workerman-高仿-QQ-实战](https://www.v2ex.com/t/674743)  
-- [2020-05-23-不懂-AmpliFi-套装的设计逻辑，硬编码，互相锁定，其中一个不能和其他设备组网](https://www.v2ex.com/t/674742)  
-- [2020-05-23-求推荐不用鼠标的-PC-网游](https://www.v2ex.com/t/674741)  
-- [2020-05-23-iPad-app-删除后重新下载怎么恢复-icloud-的备份数据？](https://www.v2ex.com/t/674740)  
-- [2020-05-23-shell-随机数问题，这种情况要如何产生概率相同的分布？](https://www.v2ex.com/t/674739)  
-- [2020-05-23-怎么用华为云部署-node-服务器？](https://www.v2ex.com/t/674738)  
-- [2020-05-23-MBP16-寸-外接显示器黑屏是哪里出问题了？](https://www.v2ex.com/t/674736)  
-- [2020-05-23-不加班的你，如何拓展自己的人际边界和知识边界？](https://www.v2ex.com/t/674735)  
-- [2020-05-23-坐标深圳,-Shopee-招聘啦!-此内推贴长期有效](https://www.v2ex.com/t/674733)  
-- [2020-05-23-给-MX-Player-加了个弹幕功能](https://www.v2ex.com/t/674731)  
-- [2020-05-23-风行会员-9.9-一年，这个价格要啥自行车。](https://www.v2ex.com/t/674730)  
-- [2020-05-23-Edge-所有功能都很流畅，除了微软自己的-UI-组件很卡](https://www.v2ex.com/t/674728)  
-- [2020-05-23-tcp-要如何联调好呢？](https://www.v2ex.com/t/674727)  
+- [2020-05-23-所谓的自定义-Cloudflare-节点，真的有效果吗？](https://www.v2ex.com/t/674779) ![](assets/new.png)  
+- [2020-05-23-想成为“掘金小册”作者，一直没搭理，是停了么？](https://www.v2ex.com/t/674777) ![](assets/new.png)  
+- [2020-05-23-上海闵行捡到只流浪猫，寻找合适的主人](https://www.v2ex.com/t/674774) ![](assets/new.png)  
+- [2020-05-23-下学期大四，暑假开始实习，是选择呆在二线（南昌）还是去大城市，实习这年去不同城市会有什么区别吗对于职业发展来说，本人在南昌读书收到了南昌的-offer](https://www.v2ex.com/t/674772) ![](assets/new.png)  
+- [2020-05-23-为什么-114-的两组-DNS-的-TTL-一直在动态变化？](https://www.v2ex.com/t/674771) ![](assets/new.png)  
+- [2020-05-23-世纪公园现在还限流么？](https://www.v2ex.com/t/674770) ![](assets/new.png)  
+- [2020-05-23-这段-smali-代码里,-p2-到底是什么啊？-K.a-的最终结果是什么啊](https://www.v2ex.com/t/674769) ![](assets/new.png)  
+- [2020-05-23-「杭州」阿里巴巴政务钉钉事业部急招-P6/P7-前端开发岗位，-HC-不设上限](https://www.v2ex.com/t/674768) ![](assets/new.png)  
+- [2020-05-23-如何描述价格上穿移动平均线呢。](https://www.v2ex.com/t/674767) ![](assets/new.png)  
+- [2020-05-23-新装的-manjaro，所有网络相关的命令都会被卡住](https://www.v2ex.com/t/674766) ![](assets/new.png)  
+- [2020-05-23-罗技哪款适合喜欢小巧便捷键盘的人购买的？！](https://www.v2ex.com/t/674765) ![](assets/new.png)  
+- [2020-05-23-局域网读写-Linux](https://www.v2ex.com/t/674763) ![](assets/new.png)  
+- [2020-05-23-杭州-世界第一的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/674762) ![](assets/new.png)  
+- [2020-05-23-休闲一年，去深圳找工作怎么样](https://www.v2ex.com/t/674761) ![](assets/new.png)  
+- [2020-05-23-如何测量地球的年龄？](https://www.v2ex.com/t/674760) ![](assets/new.png)  
+- [2020-05-23-时隔一年，我决定在杭州买房，请教下买房前需要做哪些准备？](https://www.v2ex.com/t/674759) ![](assets/new.png)  
+- [2020-05-23-想做微信小程序接入京东-CPS-赚点钱，遇到了两个问题死活解决不了](https://www.v2ex.com/t/674758) ![](assets/new.png)  
+- [2020-05-23-有没有在互联网创业的小伙伴？大家一起出来加个朋友交流交流吧,看看大家有没有合作机会~](https://www.v2ex.com/t/674757) ![](assets/new.png)  
+- [2020-05-23-Jest-如何测试在-A-函数中调用的-B-函数？](https://www.v2ex.com/t/674756) ![](assets/new.png)  
+- [2020-05-23-FreeNAS-02：深入-SMB-服务使用](https://www.v2ex.com/t/674755) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

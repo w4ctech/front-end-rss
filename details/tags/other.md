@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 11:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -428,6 +428,7 @@
 - [2020-04-20-【第1920期】如何监控网页的卡顿？](https://www.ershicimi.com/p/87ea49415ef18cd3c38a8f0f5c0e3dae) 
 - [2020-04-20-【送书】阅读丈量世界！423世界图书日之人邮社前端书单，你阅读了吗？](https://www.ershicimi.com/p/5664bcee9496cae3345404aaa9a161c5) 
 - [2020-04-19-【第1919期】有效的用户引导策略&排坑](https://www.ershicimi.com/p/119be8099e86cf2e6a40f752deb37eec) 
+- [2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6) 
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
 - [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
@@ -1026,6 +1027,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625) 
+- [2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623) 
+- [2020-05-23-过去一年你觉得买的最值的东西是什么？](https://www.v2ex.com/t/674622) 
+- [2020-05-23-别人欠我钱不还，我起诉后还能做什么？](https://www.v2ex.com/t/674621) 
+- [2020-05-23-快-618-了，想入手一台显示器。但选择困难症犯了，有点犹豫。希望大家给点意见](https://www.v2ex.com/t/674620) 
+- [2020-05-23-求教一下-win10-的-wsl2-的安装问题](https://www.v2ex.com/t/674619) 
+- [2020-05-23-你的-Mac-需要一款-快速、轻巧、易用的-PDF-编辑器以及性价比十足的-NTFS-for-Mac-助手](https://www.v2ex.com/t/674615) 
 - [2020-05-23-Dig101-Go-之如何在函数内修改指针](https://www.v2ex.com/t/674612) 
 - [2020-05-23-照抄-Notion-界面、代码、接口的产品：寒舟-hanzhou.work](https://www.v2ex.com/t/674611) 
 - [2020-05-23-北京-/-深圳的-Offer-应该比成都高百分之多少？](https://www.v2ex.com/t/674610) 

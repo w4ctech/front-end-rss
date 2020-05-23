@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 11:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -9,6 +9,7 @@
 
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0) 
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04) 
+- [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) 
 - [2020-05-16-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/ff3b61d47f68ff8b5f83e1b39385f912) 
 - [2020-05-19-推倒Node重做，Deno-1.0来了](https://www.ershicimi.com/p/a688ac435aa5f3f8730aed209a8e04ca) 
 - [2020-05-21-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/75bf21a8cd17588ea57a9a5fdf5030dd) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 11:30:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 12:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -480,6 +480,8 @@
 - [【前端早读课】2020-05-03-【第1933期】钉钉前端团队负责人@贵重：技术团队-TL-如何培养人才？](https://www.ershicimi.com/p/6c2542a221f930b51758ef2e8f5f9470) 
 - [【前端早读课】2020-05-02-【第1932期】2020前端性能优化清单之一](https://www.ershicimi.com/p/dc5473f162c9acd66ffcbb7233417c57) 
 - [【前端早读课】2020-05-01-【第1931期】注重产品思维的软件工程师](https://www.ershicimi.com/p/b9ee792cfc9dce68fa58cd9ce83ed00b) 
+- [【前端大全】2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6) 
+- [【前端大全】2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) 
 - [【前端大全】2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [【前端大全】2020-05-21-面向对象：不太爱运动的女孩，需要有个人带哦](https://www.ershicimi.com/p/123edbd1acc88db9f988b4c0fa1cef59) 
 - [【前端大全】2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
@@ -1027,6 +1029,17 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625) 
+- [【V2EX】2020-05-23-滴滴出行-北京、杭州-前端/Android/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/674624) 
+- [【V2EX】2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623) 
+- [【V2EX】2020-05-23-过去一年你觉得买的最值的东西是什么？](https://www.v2ex.com/t/674622) 
+- [【V2EX】2020-05-23-别人欠我钱不还，我起诉后还能做什么？](https://www.v2ex.com/t/674621) 
+- [【V2EX】2020-05-23-快-618-了，想入手一台显示器。但选择困难症犯了，有点犹豫。希望大家给点意见](https://www.v2ex.com/t/674620) 
+- [【V2EX】2020-05-23-求教一下-win10-的-wsl2-的安装问题](https://www.v2ex.com/t/674619) 
+- [【V2EX】2020-05-23-低调安利一款基于-gitops-的运维自动化产品](https://www.v2ex.com/t/674618) 
+- [【V2EX】2020-05-23-HTTP-状态码与喵了个咪的关系](https://www.v2ex.com/t/674617) 
+- [【V2EX】2020-05-23-你的-Mac-需要一款-快速、轻巧、易用的-PDF-编辑器以及性价比十足的-NTFS-for-Mac-助手](https://www.v2ex.com/t/674615) 
+- [【V2EX】2020-05-23-求问哪个版本的-Linux-可以扩展屏，-Windows-用-AS+虚拟机写-Flutter-可太卡了。](https://www.v2ex.com/t/674613) 
 - [【V2EX】2020-05-23-Dig101-Go-之如何在函数内修改指针](https://www.v2ex.com/t/674612) 
 - [【V2EX】2020-05-23-照抄-Notion-界面、代码、接口的产品：寒舟-hanzhou.work](https://www.v2ex.com/t/674611) 
 - [【V2EX】2020-05-23-北京-/-深圳的-Offer-应该比成都高百分之多少？](https://www.v2ex.com/t/674610) 

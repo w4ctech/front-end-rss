@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-22 00:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 11:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-23-美国贸易管制黑名单再次新增；瑞幸厦门裁员50%，多为研发人员；iOS-13.5正式版：优化口罩解锁体](https://www.ershicimi.com/p/d34ac3b6b65eacd6e134623771d38ff4) 
+- [2020-05-23-技术人必看书籍免费送，再也不是中奖绝缘体](https://www.ershicimi.com/p/f971d3e650497db3c1ba3a547d5d7140) 
 - [2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6) 
 - [2020-05-21-远程期间，开发者工作时间更长、节奏更快-|-GitHub特别版报告](https://www.ershicimi.com/p/29663d8ca637b6957cc889e812ef4829) 
 - [2020-05-21-端侧AI：从探索尝试到逐步展开-|-GMTC](https://www.ershicimi.com/p/9cb53496536987a829a0a23f3e54d3a8) 

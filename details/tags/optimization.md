@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -37,6 +37,7 @@
 - [2020-05-07-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/bdbda737fe8bb01c3570a2f6e7d7ae8f) 
 - [2020-05-21-一打开IntelliJ-IDEA，电脑卡的要死，该如何优化内存呢？](https://www.ershicimi.com/p/ec0073e0c2b3559ff77864bc081c14ab) 
 - [2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) 
+- [2020-05-23-美国贸易管制黑名单再次新增；瑞幸厦门裁员50%，多为研发人员；iOS-13.5正式版：优化口罩解锁体](https://www.ershicimi.com/p/d34ac3b6b65eacd6e134623771d38ff4) 
 - [2020-05-18-我们怎样将官网的加载时间缩短-1.7-秒？](https://www.ershicimi.com/p/a3340e9f111914ecedda780025e52328) 
 - [2020-05-12-HTTP/3-与-HTTP/2-的性能对比](https://www.ershicimi.com/p/de1607f298b4466ac351fb11685ada16) 
 - [2020-04-28-晋升、面试中绕不开的性能优化问题，这次有攻略了！丨极客时间](https://www.ershicimi.com/p/4b780e35f32e5fe84a15a43b1efb9249) 

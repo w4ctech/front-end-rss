@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 11:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -854,6 +854,8 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-23-美国贸易管制黑名单再次新增；瑞幸厦门裁员50%，多为研发人员；iOS-13.5正式版：优化口罩解锁体](https://www.ershicimi.com/p/d34ac3b6b65eacd6e134623771d38ff4) 
+- [【InfoQ】2020-05-23-技术人必看书籍免费送，再也不是中奖绝缘体](https://www.ershicimi.com/p/f971d3e650497db3c1ba3a547d5d7140) 
 - [【InfoQ】2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6) 
 - [【InfoQ】2020-05-21-远程期间，开发者工作时间更长、节奏更快-|-GitHub特别版报告](https://www.ershicimi.com/p/29663d8ca637b6957cc889e812ef4829) 
 - [【InfoQ】2020-05-21-端侧AI：从探索尝试到逐步展开-|-GMTC](https://www.ershicimi.com/p/9cb53496536987a829a0a23f3e54d3a8) 
@@ -1016,6 +1018,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-23-话说-douyu-或者-bilibili-这种模式下使用版权音乐使自己盈利属于侵权么？](https://www.v2ex.com/t/674602) 
+- [【V2EX】2020-05-23-请问-4G+频段-1A-3C/3A-41A/39A-41C/39C-41A-中-A/C-的字母表示的什么含义？与载波聚合CA相关的缩写吗？](https://www.v2ex.com/t/674601) 
+- [【V2EX】2020-05-23-h|k-同胞真的好惨啊。。。](https://www.v2ex.com/t/674600) 
+- [【V2EX】2020-05-23-为什么我的谷歌地图不能正常使用？](https://www.v2ex.com/t/674599) 
+- [【V2EX】2020-05-23-有没有-App-安装来源追踪工具](https://www.v2ex.com/t/674597) 
+- [【V2EX】2020-05-23-快到-6.18-了，有没有什么最值得买的东西？](https://www.v2ex.com/t/674595) 
 - [【V2EX】2020-05-23-Paypal-收到外币是转换成美金好还是不转好？](https://www.v2ex.com/t/674594) 
 - [【V2EX】2020-05-23-尴尬的方言](https://www.v2ex.com/t/674593) 
 - [【V2EX】2020-05-23-iOS-設備降級問題](https://www.v2ex.com/t/674592) 

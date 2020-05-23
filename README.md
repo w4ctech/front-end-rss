@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 10:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 11:00:22，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,9 +21,9 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -227,8 +227,8 @@
 </summary>
 
 
-- [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) ![](assets/new.png)  
-- [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) ![](assets/new.png)  
+- [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
+- [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  
 - [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed)  
 - [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)  
@@ -289,8 +289,8 @@
 </summary>
 
 
-- [2020-05-23-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e) ![](assets/new.png)  
-- [2020-05-23-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799) ![](assets/new.png)  
+- [2020-05-23-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e)  
+- [2020-05-23-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799)  
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469)  
 - [2020-05-22-你真的懂Promise吗](https://www.ershicimi.com/p/1c2869c86b5e41e3e71907438c60d06b)  
 - [2020-05-21-几乎人人都会Vue，老板凭什么选你？](https://www.ershicimi.com/p/41705c3ac39150cb2de8dff4f3daef67)  
@@ -858,6 +858,8 @@
 </summary>
 
 
+- [2020-05-23-美国贸易管制黑名单再次新增；瑞幸厦门裁员50%，多为研发人员；iOS-13.5正式版：优化口罩解锁体](https://www.ershicimi.com/p/d34ac3b6b65eacd6e134623771d38ff4) ![](assets/new.png)  
+- [2020-05-23-技术人必看书籍免费送，再也不是中奖绝缘体](https://www.ershicimi.com/p/f971d3e650497db3c1ba3a547d5d7140) ![](assets/new.png)  
 - [2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6)  
 - [2020-05-21-远程期间，开发者工作时间更长、节奏更快-|-GitHub特别版报告](https://www.ershicimi.com/p/29663d8ca637b6957cc889e812ef4829)  
 - [2020-05-21-端侧AI：从探索尝试到逐步展开-|-GMTC](https://www.ershicimi.com/p/9cb53496536987a829a0a23f3e54d3a8)  
@@ -876,8 +878,6 @@
 - [2020-05-18-科技公司忙上市：金山云们想出去，出去的京东们想回来](https://www.ershicimi.com/p/d84bf5bf02cd85864d55a3b95ac5cf1e)  
 - [2020-05-18-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/5ba0b55fb7f5d8c2129898af13a9b9de)  
 - [2020-05-18-腾讯海量业务架构演进-|-ArchSummit](https://www.ershicimi.com/p/1c8a5f419c2ab346f65d2b5821b5c9af)  
-- [2020-05-18-全面解析-Netflix-的微服务架构设计](https://www.ershicimi.com/p/0a4b89f7b164a08aa5c8f31b68f8fc14)  
-- [2020-05-18-我们怎样将官网的加载时间缩短-1.7-秒？](https://www.ershicimi.com/p/a3340e9f111914ecedda780025e52328)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-23-Paypal-收到外币是转换成美金好还是不转好？](https://www.v2ex.com/t/674594) ![](assets/new.png)  
-- [2020-05-23-尴尬的方言](https://www.v2ex.com/t/674593) ![](assets/new.png)  
-- [2020-05-23-iOS-設備降級問題](https://www.v2ex.com/t/674592) ![](assets/new.png)  
-- [2020-05-23-罗技鼠标-DUOLINK-必须配合罗技键盘使用吗？](https://www.v2ex.com/t/674591) ![](assets/new.png)  
-- [2020-05-23-求助-2020-MBP-13-寸-蓝牙耳机连接不上](https://www.v2ex.com/t/674589) ![](assets/new.png)  
-- [2020-05-23-tun2socks-如何对特定进程进行代理啊](https://www.v2ex.com/t/674588) ![](assets/new.png)  
-- [2020-05-23-头条搜索-前端-大量招人](https://www.v2ex.com/t/674587) ![](assets/new.png)  
-- [2020-05-23-19-款-mbp-还能用磁铁的方法关闭内屏吗？](https://www.v2ex.com/t/674586) ![](assets/new.png)  
+- [2020-05-23-话说-douyu-或者-bilibili-这种模式下使用版权音乐使自己盈利属于侵权么？](https://www.v2ex.com/t/674602) ![](assets/new.png)  
+- [2020-05-23-请问-4G+频段-1A-3C/3A-41A/39A-41C/39C-41A-中-A/C-的字母表示的什么含义？与载波聚合CA相关的缩写吗？](https://www.v2ex.com/t/674601) ![](assets/new.png)  
+- [2020-05-23-h|k-同胞真的好惨啊。。。](https://www.v2ex.com/t/674600) ![](assets/new.png)  
+- [2020-05-23-为什么我的谷歌地图不能正常使用？](https://www.v2ex.com/t/674599) ![](assets/new.png)  
+- [2020-05-23-有没有-App-安装来源追踪工具](https://www.v2ex.com/t/674597) ![](assets/new.png)  
+- [2020-05-23-快到-6.18-了，有没有什么最值得买的东西？](https://www.v2ex.com/t/674595) ![](assets/new.png)  
+- [2020-05-23-Paypal-收到外币是转换成美金好还是不转好？](https://www.v2ex.com/t/674594)  
+- [2020-05-23-尴尬的方言](https://www.v2ex.com/t/674593)  
+- [2020-05-23-iOS-設備降級問題](https://www.v2ex.com/t/674592)  
+- [2020-05-23-罗技鼠标-DUOLINK-必须配合罗技键盘使用吗？](https://www.v2ex.com/t/674591)  
+- [2020-05-23-求助-2020-MBP-13-寸-蓝牙耳机连接不上](https://www.v2ex.com/t/674589)  
+- [2020-05-23-tun2socks-如何对特定进程进行代理啊](https://www.v2ex.com/t/674588)  
+- [2020-05-23-头条搜索-前端-大量招人](https://www.v2ex.com/t/674587)  
+- [2020-05-23-19-款-mbp-还能用磁铁的方法关闭内屏吗？](https://www.v2ex.com/t/674586)  
 - [2020-05-23-neovim-最新版支持高亮复制的内容了](https://www.v2ex.com/t/674585)  
 - [2020-05-23-小白用-Linux-用哪个好，既能折腾，又能傻瓜式使用，而且稳定？](https://www.v2ex.com/t/674584)  
 - [2020-05-23-公司来了个"大佬"-大家来判断下是不是真大佬](https://www.v2ex.com/t/674581)  
 - [2020-05-23-「杭州」不亦乐乎科技（杭州）有限责任公司招聘-android-开发-15K-30K,14-薪（可应届）](https://www.v2ex.com/t/674580)  
 - [2020-05-23-大家-有看到-CTM-的两地月费计划吗](https://www.v2ex.com/t/674579)  
 - [2020-05-23-怎样快速分析-PHP-代码的业务逻辑?](https://www.v2ex.com/t/674578)  
-- [2020-05-23-请教注册过公司或者个体工商户的哥哥们](https://www.v2ex.com/t/674577)  
-- [2020-05-23-高级-3D-软件工程师](https://www.v2ex.com/t/674576)  
-- [2020-05-23-8*9=64，请站长删号](https://www.v2ex.com/t/674575)  
-- [2020-05-23-终于知道沟通成本为什么也叫成本了](https://www.v2ex.com/t/674573)  
-- [2020-05-23-请教一下，-html5-在不用<video>tag-的情况下如何开启摄像头定时捕获图像](https://www.v2ex.com/t/674572)  
-- [2020-05-23-请问谁有瑞昱-ALC256M-的-datasheet-或-profile](https://www.v2ex.com/t/674571)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,7 +1127,7 @@
 </summary>
 
 
-- [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6) ![](assets/new.png)  
+- [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6)  
 - [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j)  
 - [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564)  
 - [2020-05-23-剑指-offer（31：栈的压入、弹出序列](https://toutiao.io/k/dzff8cx)  

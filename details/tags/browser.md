@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 11:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,8 @@
 - [2020-05-17-如果网站的-Cookie-特别多特别大，会发生什么情况？](https://www.ershicimi.com/p/0831678713b6f043ee78156c7ab2b753) 
 - [2020-05-17-如果网站的-Cookie-特别多特别大，会发生什么情况？](https://www.ershicimi.com/p/cc89de3b6fed7e45ab4ea597f2bb47d5) 
 - [2020-05-16-某生鲜平台面试题：如何保证库存在高并发的场景下是安全的？](https://www.ershicimi.com/p/a1acc7578acbe767350e71bbb94e1bbe) 
+- [2020-05-23-2020-年最强大的远程调试工具](https://www.ershicimi.com/p/89addfe36b641296fbc1fe45c57048a9) 
+- [2020-05-22-做不好-Code-Review-的-6-大原因](https://www.ershicimi.com/p/619c6bc8fb687f3b7cd2eb7e974d4975) 
 - [2020-05-08-Netflix-如何在网络不好时提供更安全、更流畅的流媒体体验？](https://www.ershicimi.com/p/9ee1f7ddf3581ec822457e5f2e341ab7) 
 - [2020-05-05-搞定这些缓存问题，再也不怕和面试官-battle-了](https://www.ershicimi.com/p/ece6b2014e3c9482c7ef97b88de3493f) 
 - [2020-04-28-浏览器隐私安全排名：Brave-得分最高、微软-Edge-最低](https://www.ershicimi.com/p/f29333d871001c8a2521bf2763099105) 

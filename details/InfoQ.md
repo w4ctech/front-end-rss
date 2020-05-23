@@ -1,10 +1,17 @@
-:alarm_clock: 更新时间: 2020-05-23 11:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 11:30:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-23-2020-年最强大的远程调试工具](https://www.ershicimi.com/p/89addfe36b641296fbc1fe45c57048a9) 
+- [2020-05-23-数据分析师到底值多少钱？](https://www.ershicimi.com/p/0fead74c45036c96da79608a0da43662) 
+- [2020-05-22-工作十年后，逃离银行业加入互联网，有必要吗？](https://www.ershicimi.com/p/5bf4587a07f39d691b03c5502d96869c) 
+- [2020-05-22-半年筹备，三个月迁移，揭秘华新水泥的公有云迁移之路](https://www.ershicimi.com/p/7d225d8006f13a6e8f994bc2b8c41745) 
+- [2020-05-22-补“芯”造“魂”，聚焦开源时代的算力提升-|-Q推荐](https://www.ershicimi.com/p/0244ce79d1922083af3f6e1cb6456b2e) 
+- [2020-05-22-全面AI时代，什么样的人才可以成为“抢手货”？|-Q推荐](https://www.ershicimi.com/p/05de189494e2e1c3c87f1bed5cf98c04) 
+- [2020-05-22-做不好-Code-Review-的-6-大原因](https://www.ershicimi.com/p/619c6bc8fb687f3b7cd2eb7e974d4975) 
 - [2020-05-23-美国贸易管制黑名单再次新增；瑞幸厦门裁员50%，多为研发人员；iOS-13.5正式版：优化口罩解锁体](https://www.ershicimi.com/p/d34ac3b6b65eacd6e134623771d38ff4) 
 - [2020-05-23-技术人必看书籍免费送，再也不是中奖绝缘体](https://www.ershicimi.com/p/f971d3e650497db3c1ba3a547d5d7140) 
 - [2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6) 

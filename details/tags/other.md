@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-23-国家卫健委：昨日无新增确诊病例-新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQUyuRz8q15G4NiZhYlJu200523&isfromapp=1) 
 - [2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1) 
 - [2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1) 
 - [2020-05-22-西班牙首都马德里将于25日进入紧急状态降级的第一阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmdQyGHvSvqw4rG3GFLT200522&isfromapp=1) 
@@ -6727,6 +6728,13 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-23-Java-并发编程那些事儿（三）：ThreadLocal-原子性与可见性](https://toutiao.io/k/bgmvb41) 
+- [2020-05-23-Java-多线程中使用-JDK-自带工具类实现计数器](https://toutiao.io/k/97ipj0d) 
+- [2020-05-23-为什么腾讯-QQ-的大数据平台选择了这款数据库？](https://toutiao.io/k/sz9f1u0) 
+- [2020-05-23-回溯法、分支限界法两种思想帮你轻松搞定旅行售货员问题-TSP](https://toutiao.io/k/wpdifuy) 
+- [2020-05-23-Spring-Cloud-Alibaba（四）：使用-Nacos-作为注册中心](https://toutiao.io/k/kt4pv1p) 
+- [2020-05-23-从赌博中的概率到-AI-中的概率](https://toutiao.io/k/uldc3bv) 
+- [2020-05-23-Python-绘制-Android-CPU-和内存增长曲线](https://toutiao.io/k/eguc0eb) 
 - [2020-05-22-晓得嘛？混合推荐系统速览和技巧锦囊](https://toutiao.io/k/4ip2nap) 
 - [2020-05-22-kafka-分区数和吞吐量的关系](https://toutiao.io/k/yxr1yeq) 
 - [2020-05-22-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/5at2n7e) 

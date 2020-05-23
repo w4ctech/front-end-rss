@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "阿根廷新冠肺炎确诊病例超过1万 或将继续延长全民强制隔离",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMV1VnGYlxPWL9OoQrLUs200523&isfromapp=1",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "国家卫健委：昨日无新增确诊病例 新增治愈出院3例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQUyuRz8q15G4NiZhYlJu200523&isfromapp=1",
+        "date": "2020-05-23"
+      },
+      {
         "title": "加拿大新增1138例新冠肺炎确诊病例 累计82480例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1",
         "date": "2020-05-23"
@@ -45970,6 +45980,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "Java 并发编程那些事儿（三）：ThreadLocal 原子性与可见性",
+        "link": "https://toutiao.io/k/bgmvb41",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "Java 多线程中使用 JDK 自带工具类实现计数器",
+        "link": "https://toutiao.io/k/97ipj0d",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "为什么腾讯 QQ 的大数据平台选择了这款数据库？",
+        "link": "https://toutiao.io/k/sz9f1u0",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "回溯法、分支限界法两种思想帮你轻松搞定旅行售货员问题 (TSP)",
+        "link": "https://toutiao.io/k/wpdifuy",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "不要轻易使用 Alpine 镜像来构建 Docker 镜像，有坑",
+        "link": "https://toutiao.io/k/ciuqd6g",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "Spring Cloud Alibaba（四）：使用 Nacos 作为注册中心",
+        "link": "https://toutiao.io/k/kt4pv1p",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "GitHub 项目推荐：可视化 GAN 的训练过程",
+        "link": "https://toutiao.io/k/vtpn9gk",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "从赌博中的概率到 AI 中的概率",
+        "link": "https://toutiao.io/k/uldc3bv",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "花椒前端 TypeScript 实践总结",
+        "link": "https://toutiao.io/k/jq844wf",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "Python 绘制 Android CPU 和内存增长曲线",
+        "link": "https://toutiao.io/k/eguc0eb",
+        "date": "2020-05-23"
+      },
       {
         "title": "晓得嘛？混合推荐系统速览和技巧锦囊",
         "link": "https://toutiao.io/k/4ip2nap",

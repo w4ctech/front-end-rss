@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-23 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -129,6 +129,7 @@
 - [【V2EX】上海-ARKIE-Web-全栈-/-前端-/-后端-JavaScript-/-TypeScript](https://www.v2ex.com/t/670038)
 - [【V2EX】为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458)
 - [【V2EX】typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178)
+- [【开发者头条】花椒前端-TypeScript-实践总结](https://toutiao.io/k/jq844wf)
 - [【开发者头条】深入理解-Typescript-高级用法](https://toutiao.io/k/b0gj30z)
 - [......【查看更多】......](./details/tags/typescript.md)
 

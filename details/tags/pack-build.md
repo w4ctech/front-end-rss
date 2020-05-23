@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -81,6 +81,7 @@
 - [2020-04-28-xmake-v2.3.3-发布,-新增-iOS/MacOS-Framework-和-App-构建支持](https://www.v2ex.com/t/666795) 
 - [2020-04-27-一个单行代码的-npm-库，竟然让数百万个-JavaScript-项目崩溃了](https://www.v2ex.com/t/666742) 
 - [2020-04-26-前端有什么推介的组件可以做到可视化的构建树形结构吗](https://www.v2ex.com/t/666115) 
+- [2020-05-23-不要轻易使用-Alpine-镜像来构建-Docker-镜像，有坑](https://toutiao.io/k/ciuqd6g) 
 - [2020-05-16-YARN-的介绍及实践探索](https://toutiao.io/k/fio1fu9) 
 - [2020-05-12-译-通过这-6-个很棒的-Webpack-插件提高您的生产力](https://toutiao.io/k/7463e5y) 
 - [2020-05-05-构建企业级研发安全编码规范](https://toutiao.io/k/lt3xls8) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 08:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 09:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,10 +94,12 @@
 </summary>
 
 
-- [2020-05-23-加拿大新增1138例新冠肺炎确诊病例-累计82480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1) ![](assets/new.png)  
-- [2020-05-23-智利累计确诊61857例新冠肺炎病例-将向困难家庭发放救助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1) ![](assets/new.png)  
-- [2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1) ![](assets/new.png)  
-- [2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-阿根廷新冠肺炎确诊病例超过1万-或将继续延长全民强制隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMV1VnGYlxPWL9OoQrLUs200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-国家卫健委：昨日无新增确诊病例-新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQUyuRz8q15G4NiZhYlJu200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-加拿大新增1138例新冠肺炎确诊病例-累计82480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1)  
+- [2020-05-23-智利累计确诊61857例新冠肺炎病例-将向困难家庭发放救助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1)  
+- [2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1)  
+- [2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1)  
 - [2020-05-22-世卫组织总干事：全球新冠肺炎确诊病例超过500万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1)  
 - [2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1)  
 - [2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-22-​德国新增460例新冠肺炎确诊病例-累计达177212例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibzclgrL4T4jKtUL4puZG200522&isfromapp=1)  
 - [2020-05-22-国际货币基金组织将对约旦提供3.96亿美元紧急财政援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwjFcjMQctPIkIGMCZAv3200522&isfromapp=1)  
 - [2020-05-22-马来西亚再度严格禁止进行跨州移动-以防新冠肺炎疫情的蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eqJTb6pDsJLpupjoZWj200522&isfromapp=1)  
-- [2020-05-22-日本消费者物价指数自2016年以来首度下跌](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqyBuyaDYCNTVntgfvc4M200522&isfromapp=1)  
-- [2020-05-22-澳大利亚新南威尔士州餐馆待客数量将上调至50人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4z6gDHqQD2zKMeNXHn8200522&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,11 +1065,11 @@
 </summary>
 
 
-- [2020-05-23-rk460-和-gtx1030-哪款可以更好的支持-4k-视频？](https://www.v2ex.com/t/674565) ![](assets/new.png)  
-- [2020-05-23-想问一下-iPad-除了当辅屏，有什么购买的意义？](https://www.v2ex.com/t/674564) ![](assets/new.png)  
-- [2020-05-23-朋友圈贴代码，你们有遇到吗，什么操作](https://www.v2ex.com/t/674563) ![](assets/new.png)  
-- [2020-05-23-关于家庭组网的问题](https://www.v2ex.com/t/674561) ![](assets/new.png)  
-- [2020-05-23-30-出头低端码农最近求职感悟，已入职](https://www.v2ex.com/t/674560) ![](assets/new.png)  
+- [2020-05-23-rk460-和-gtx1030-哪款可以更好的支持-4k-视频？](https://www.v2ex.com/t/674565)  
+- [2020-05-23-想问一下-iPad-除了当辅屏，有什么购买的意义？](https://www.v2ex.com/t/674564)  
+- [2020-05-23-朋友圈贴代码，你们有遇到吗，什么操作](https://www.v2ex.com/t/674563)  
+- [2020-05-23-关于家庭组网的问题](https://www.v2ex.com/t/674561)  
+- [2020-05-23-30-出头低端码农最近求职感悟，已入职](https://www.v2ex.com/t/674560)  
 - [2020-05-23-是不是国产软件黙默的在为墙提供服务](https://www.v2ex.com/t/674559)  
 - [2020-05-23-有喜欢玩动森服装设计的吗？](https://www.v2ex.com/t/674558)  
 - [2020-05-23-有个发现，不知道其他人注意到没有](https://www.v2ex.com/t/674556)  
@@ -1096,7 +1096,7 @@
 </summary>
 
 
-- [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-21-Category:-Front-End-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1127,6 +1127,16 @@
 </summary>
 
 
+- [2020-05-23-Java-并发编程那些事儿（三）：ThreadLocal-原子性与可见性](https://toutiao.io/k/bgmvb41) ![](assets/new.png)  
+- [2020-05-23-Java-多线程中使用-JDK-自带工具类实现计数器](https://toutiao.io/k/97ipj0d) ![](assets/new.png)  
+- [2020-05-23-为什么腾讯-QQ-的大数据平台选择了这款数据库？](https://toutiao.io/k/sz9f1u0) ![](assets/new.png)  
+- [2020-05-23-回溯法、分支限界法两种思想帮你轻松搞定旅行售货员问题-TSP](https://toutiao.io/k/wpdifuy) ![](assets/new.png)  
+- [2020-05-23-不要轻易使用-Alpine-镜像来构建-Docker-镜像，有坑](https://toutiao.io/k/ciuqd6g) ![](assets/new.png)  
+- [2020-05-23-Spring-Cloud-Alibaba（四）：使用-Nacos-作为注册中心](https://toutiao.io/k/kt4pv1p) ![](assets/new.png)  
+- [2020-05-23-GitHub-项目推荐：可视化-GAN-的训练过程](https://toutiao.io/k/vtpn9gk) ![](assets/new.png)  
+- [2020-05-23-从赌博中的概率到-AI-中的概率](https://toutiao.io/k/uldc3bv) ![](assets/new.png)  
+- [2020-05-23-花椒前端-TypeScript-实践总结](https://toutiao.io/k/jq844wf) ![](assets/new.png)  
+- [2020-05-23-Python-绘制-Android-CPU-和内存增长曲线](https://toutiao.io/k/eguc0eb) ![](assets/new.png)  
 - [2020-05-22-晓得嘛？混合推荐系统速览和技巧锦囊](https://toutiao.io/k/4ip2nap)  
 - [2020-05-22-深入学习-Three.js-核心对象之（三）：Material](https://toutiao.io/k/6h1f743)  
 - [2020-05-22-kafka-分区数和吞吐量的关系](https://toutiao.io/k/yxr1yeq)  
@@ -1137,16 +1147,6 @@
 - [2020-05-22-Presto-查询执行过程和索引条件下推分析](https://toutiao.io/k/gv55jde)  
 - [2020-05-22-Spring-Cloud-系列：Eureka-注册中心初体验](https://toutiao.io/k/uqxhd1q)  
 - [2020-05-22-glog-C++-版本代码分析](https://toutiao.io/k/m8ao56u)  
-- [2020-05-22-为什么集群需要-Overlay-网络](https://toutiao.io/k/szgoqpp)  
-- [2020-05-22-学会阅读源码后，我觉得自己-better-了](https://toutiao.io/k/gi743h0)  
-- [2020-05-22-Apache-Kafka-不需要管理员：删除-Apache-ZooKeeper-的依赖](https://toutiao.io/k/rmiuyhv)  
-- [2020-05-22-Python-实现黑客帝国代码雨效果](https://toutiao.io/k/zeivfaf)  
-- [2020-05-22-译-2020-年开源数据库行业状态报告](https://toutiao.io/k/wihybd6)  
-- [2020-05-22-算法工程师的数学基础：信息论](https://toutiao.io/k/41ldw4s)  
-- [2020-05-22-耗时-3-周！7000+-字的-Spring-事务总结来啦](https://toutiao.io/k/ug2que4)  
-- [2020-05-22-React-Concurrent-Mode-之-Suspense-实践](https://toutiao.io/k/tsbe9ar)  
-- [2020-05-22-译-让-Emacs-再次流行](https://toutiao.io/k/jy9t209)  
-- [2020-05-22-Hackintosh（黑苹果）折腾](https://toutiao.io/k/qsyudhq)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

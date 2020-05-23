@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-阿根廷新冠肺炎确诊病例超过1万-或将继续延长全民强制隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMV1VnGYlxPWL9OoQrLUs200523&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-国家卫健委：昨日无新增确诊病例-新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQUyuRz8q15G4NiZhYlJu200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-加拿大新增1138例新冠肺炎确诊病例-累计82480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-智利累计确诊61857例新冠肺炎病例-将向困难家庭发放救助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1) 
@@ -6405,6 +6407,16 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-23-Java-并发编程那些事儿（三）：ThreadLocal-原子性与可见性](https://toutiao.io/k/bgmvb41) 
+- [【开发者头条】2020-05-23-Java-多线程中使用-JDK-自带工具类实现计数器](https://toutiao.io/k/97ipj0d) 
+- [【开发者头条】2020-05-23-为什么腾讯-QQ-的大数据平台选择了这款数据库？](https://toutiao.io/k/sz9f1u0) 
+- [【开发者头条】2020-05-23-回溯法、分支限界法两种思想帮你轻松搞定旅行售货员问题-TSP](https://toutiao.io/k/wpdifuy) 
+- [【开发者头条】2020-05-23-不要轻易使用-Alpine-镜像来构建-Docker-镜像，有坑](https://toutiao.io/k/ciuqd6g) 
+- [【开发者头条】2020-05-23-Spring-Cloud-Alibaba（四）：使用-Nacos-作为注册中心](https://toutiao.io/k/kt4pv1p) 
+- [【开发者头条】2020-05-23-GitHub-项目推荐：可视化-GAN-的训练过程](https://toutiao.io/k/vtpn9gk) 
+- [【开发者头条】2020-05-23-从赌博中的概率到-AI-中的概率](https://toutiao.io/k/uldc3bv) 
+- [【开发者头条】2020-05-23-花椒前端-TypeScript-实践总结](https://toutiao.io/k/jq844wf) 
+- [【开发者头条】2020-05-23-Python-绘制-Android-CPU-和内存增长曲线](https://toutiao.io/k/eguc0eb) 
 - [【开发者头条】2020-05-22-晓得嘛？混合推荐系统速览和技巧锦囊](https://toutiao.io/k/4ip2nap) 
 - [【开发者头条】2020-05-22-深入学习-Three.js-核心对象之（三）：Material](https://toutiao.io/k/6h1f743) 
 - [【开发者头条】2020-05-22-kafka-分区数和吞吐量的关系](https://toutiao.io/k/yxr1yeq) 

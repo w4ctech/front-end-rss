@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 07:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 08:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-05-23-加拿大新增1138例新冠肺炎确诊病例-累计82480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-智利累计确诊61857例新冠肺炎病例-将向困难家庭发放救助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1) ![](assets/new.png)  
 - [2020-05-22-世卫组织总干事：全球新冠肺炎确诊病例超过500万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1)  
 - [2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1)  
 - [2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-05-22-马来西亚再度严格禁止进行跨州移动-以防新冠肺炎疫情的蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eqJTb6pDsJLpupjoZWj200522&isfromapp=1)  
 - [2020-05-22-日本消费者物价指数自2016年以来首度下跌](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqyBuyaDYCNTVntgfvc4M200522&isfromapp=1)  
 - [2020-05-22-澳大利亚新南威尔士州餐馆待客数量将上调至50人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4z6gDHqQD2zKMeNXHn8200522&isfromapp=1)  
-- [2020-05-22-国家网信办启动2020“清朗”专项行动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisle0HxXkrFpUgVGzG81n200522&isfromapp=1)  
-- [2020-05-22-罗杰：在战疫一线-对90后刮目相看](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticL6Kk27zIG1o0w3zgzuV200522&isfromapp=1)  
-- [2020-05-22-上调退休人员基本养老金-提高城乡居民基础养老金最低标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQSBUMUviqa280EzUfNoQ200522&isfromapp=1)  
-- [2020-05-22-苏里南大选将如期举行-防疫举措将适时调整](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK9dpUJ25z9dS0B5Imsdy200522&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,13 @@
 </summary>
 
 
-- [2020-05-23-是不是国产软件黙默的在为墙提供服务](https://www.v2ex.com/t/674559) ![](assets/new.png)  
-- [2020-05-23-有喜欢玩动森服装设计的吗？](https://www.v2ex.com/t/674558) ![](assets/new.png)  
+- [2020-05-23-rk460-和-gtx1030-哪款可以更好的支持-4k-视频？](https://www.v2ex.com/t/674565) ![](assets/new.png)  
+- [2020-05-23-想问一下-iPad-除了当辅屏，有什么购买的意义？](https://www.v2ex.com/t/674564) ![](assets/new.png)  
+- [2020-05-23-朋友圈贴代码，你们有遇到吗，什么操作](https://www.v2ex.com/t/674563) ![](assets/new.png)  
+- [2020-05-23-关于家庭组网的问题](https://www.v2ex.com/t/674561) ![](assets/new.png)  
+- [2020-05-23-30-出头低端码农最近求职感悟，已入职](https://www.v2ex.com/t/674560) ![](assets/new.png)  
+- [2020-05-23-是不是国产软件黙默的在为墙提供服务](https://www.v2ex.com/t/674559)  
+- [2020-05-23-有喜欢玩动森服装设计的吗？](https://www.v2ex.com/t/674558)  
 - [2020-05-23-有个发现，不知道其他人注意到没有](https://www.v2ex.com/t/674556)  
 - [2020-05-23-来来来，看过来！这才是终极版的《bibibi-献给年轻一代程序猿的演讲》-゜-゜つロ-干杯~-bilibili](https://www.v2ex.com/t/674555)  
 - [2020-05-23-有没有被青云那个破活动坑的？](https://www.v2ex.com/t/674554)  
@@ -1080,11 +1085,6 @@
 - [2020-05-23-你们-13.5-的-4G-信号稳定吗？卡不卡？](https://www.v2ex.com/t/674543)  
 - [2020-05-22-求推荐水冷](https://www.v2ex.com/t/674542)  
 - [2020-05-22-有没有类似“视频床”之类的东西](https://www.v2ex.com/t/674541)  
-- [2020-05-22-请教一下，内网无线传输速率忽慢忽快是什么原因导致的？](https://www.v2ex.com/t/674540)  
-- [2020-05-22-忽然想起来，煎蛋网站长没事吧？](https://www.v2ex.com/t/674539)  
-- [2020-05-22-简历似乎被人卖了...](https://www.v2ex.com/t/674538)  
-- [2020-05-22-心率测量频率重要吗](https://www.v2ex.com/t/674537)  
-- [2020-05-22-豆瓣手机客户端太难用了，有第三方客户端吗](https://www.v2ex.com/t/674536)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,6 +1096,7 @@
 </summary>
 
 
+- [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-21-Category:-Front-End-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1115,7 +1116,6 @@
 - [2020-05-18-进阶必备！35-个-Java-代码优化细节-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13450&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLk2hknAp0uZy4q9X_zX7jw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-15-种草Cypress和TestCafe，QA同学一定想了解的Web-UI自动化测试工具-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13447&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-automated-testing-cypress-testcafe%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

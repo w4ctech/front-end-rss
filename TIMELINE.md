@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 07:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-加拿大新增1138例新冠肺炎确诊病例-累计82480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-智利累计确诊61857例新冠肺炎病例-将向困难家庭发放救助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-世卫组织总干事：全球新冠肺炎确诊病例超过500万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-世卫组织：全球新冠肺炎确诊病例超过499万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-22-英国新增3287例新冠肺炎确诊病例-,累计254195例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1) 
@@ -997,6 +1001,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-23-rk460-和-gtx1030-哪款可以更好的支持-4k-视频？](https://www.v2ex.com/t/674565) 
+- [【V2EX】2020-05-23-想问一下-iPad-除了当辅屏，有什么购买的意义？](https://www.v2ex.com/t/674564) 
+- [【V2EX】2020-05-23-朋友圈贴代码，你们有遇到吗，什么操作](https://www.v2ex.com/t/674563) 
+- [【V2EX】2020-05-23-关于家庭组网的问题](https://www.v2ex.com/t/674561) 
+- [【V2EX】2020-05-23-30-出头低端码农最近求职感悟，已入职](https://www.v2ex.com/t/674560) 
 - [【V2EX】2020-05-23-是不是国产软件黙默的在为墙提供服务](https://www.v2ex.com/t/674559) 
 - [【V2EX】2020-05-23-有喜欢玩动森服装设计的吗？](https://www.v2ex.com/t/674558) 
 - [【V2EX】2020-05-23-有个发现，不知道其他人注意到没有](https://www.v2ex.com/t/674556) 
@@ -6357,6 +6366,7 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【技术头条】2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-21-Category:-Front-End-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -1257,6 +1257,26 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "加拿大新增1138例新冠肺炎确诊病例 累计82480例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "智利累计确诊61857例新冠肺炎病例 将向困难家庭发放救助",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1",
+        "date": "2020-05-23"
+      },
+      {
         "title": "世卫组织总干事：全球新冠肺炎确诊病例超过500万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1",
         "date": "2020-05-22"
@@ -9711,6 +9731,31 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "rk460 和 gtx1030 哪款可以更好的支持 4k 视频？",
+        "link": "https://www.v2ex.com/t/674565",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "想问一下 iPad 除了当辅屏，有什么购买的意义？",
+        "link": "https://www.v2ex.com/t/674564",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "朋友圈贴代码，你们有遇到吗，什么操作",
+        "link": "https://www.v2ex.com/t/674563",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "关于家庭组网的问题",
+        "link": "https://www.v2ex.com/t/674561",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "30 出头低端码农最近求职感悟，已入职",
+        "link": "https://www.v2ex.com/t/674560",
+        "date": "2020-05-23"
+      },
       {
         "title": "是不是国产软件黙默的在为墙提供服务",
         "link": "https://www.v2ex.com/t/674559",
@@ -45488,6 +45533,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "如何实现 git 命令行的联想功能 (old-panda.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-23"
+      },
       {
         "title": "一个导致JVM物理内存消耗大的Bug (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

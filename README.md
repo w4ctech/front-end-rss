@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 12:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 12:30:22，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -258,8 +258,8 @@
 </summary>
 
 
-- [2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6) ![](assets/new.png)  
-- [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) ![](assets/new.png)  
+- [2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6)  
+- [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270)  
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58)  
 - [2020-05-21-面向对象：不太爱运动的女孩，需要有个人带哦](https://www.ershicimi.com/p/123edbd1acc88db9f988b4c0fa1cef59)  
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba)  
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625) ![](assets/new.png)  
-- [2020-05-23-滴滴出行-北京、杭州-前端/Android/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/674624) ![](assets/new.png)  
-- [2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623) ![](assets/new.png)  
-- [2020-05-23-过去一年你觉得买的最值的东西是什么？](https://www.v2ex.com/t/674622) ![](assets/new.png)  
-- [2020-05-23-别人欠我钱不还，我起诉后还能做什么？](https://www.v2ex.com/t/674621) ![](assets/new.png)  
-- [2020-05-23-快-618-了，想入手一台显示器。但选择困难症犯了，有点犹豫。希望大家给点意见](https://www.v2ex.com/t/674620) ![](assets/new.png)  
-- [2020-05-23-求教一下-win10-的-wsl2-的安装问题](https://www.v2ex.com/t/674619) ![](assets/new.png)  
-- [2020-05-23-低调安利一款基于-gitops-的运维自动化产品](https://www.v2ex.com/t/674618) ![](assets/new.png)  
-- [2020-05-23-HTTP-状态码与喵了个咪的关系](https://www.v2ex.com/t/674617) ![](assets/new.png)  
-- [2020-05-23-你的-Mac-需要一款-快速、轻巧、易用的-PDF-编辑器以及性价比十足的-NTFS-for-Mac-助手](https://www.v2ex.com/t/674615) ![](assets/new.png)  
-- [2020-05-23-求问哪个版本的-Linux-可以扩展屏，-Windows-用-AS+虚拟机写-Flutter-可太卡了。](https://www.v2ex.com/t/674613) ![](assets/new.png)  
+- [2020-05-23-听说三星手机程序出-bug-了！](https://www.v2ex.com/t/674636) ![](assets/new.png)  
+- [2020-05-23-出一些-Google-Voice-靓号-/-GV-靓号](https://www.v2ex.com/t/674634) ![](assets/new.png)  
+- [2020-05-23-Fecmall-免费商用-在线出售电子书籍-PDF（虚拟产品）以及实物书籍的-B2C-商城](https://www.v2ex.com/t/674631) ![](assets/new.png)  
+- [2020-05-23-安卓哪个浏览器可以使用-chrome-插件](https://www.v2ex.com/t/674629) ![](assets/new.png)  
+- [2020-05-23-求免费薅的-jdk-8u202--Linux--x64-下载地址](https://www.v2ex.com/t/674628) ![](assets/new.png)  
+- [2020-05-23-我想设计一个改编歌词的软件，应该用什么编程平台？](https://www.v2ex.com/t/674627) ![](assets/new.png)  
+- [2020-05-23-淘宝上二手的-CCFL-显示器嗡嗡的响是什么问题？](https://www.v2ex.com/t/674626) ![](assets/new.png)  
+- [2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625)  
+- [2020-05-23-滴滴出行-北京、杭州-前端/Android/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/674624)  
+- [2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623)  
+- [2020-05-23-过去一年你觉得买的最值的东西是什么？](https://www.v2ex.com/t/674622)  
+- [2020-05-23-别人欠我钱不还，我起诉后还能做什么？](https://www.v2ex.com/t/674621)  
+- [2020-05-23-快-618-了，想入手一台显示器。但选择困难症犯了，有点犹豫。希望大家给点意见](https://www.v2ex.com/t/674620)  
+- [2020-05-23-求教一下-win10-的-wsl2-的安装问题](https://www.v2ex.com/t/674619)  
+- [2020-05-23-低调安利一款基于-gitops-的运维自动化产品](https://www.v2ex.com/t/674618)  
+- [2020-05-23-HTTP-状态码与喵了个咪的关系](https://www.v2ex.com/t/674617)  
+- [2020-05-23-你的-Mac-需要一款-快速、轻巧、易用的-PDF-编辑器以及性价比十足的-NTFS-for-Mac-助手](https://www.v2ex.com/t/674615)  
+- [2020-05-23-求问哪个版本的-Linux-可以扩展屏，-Windows-用-AS+虚拟机写-Flutter-可太卡了。](https://www.v2ex.com/t/674613)  
 - [2020-05-23-Dig101-Go-之如何在函数内修改指针](https://www.v2ex.com/t/674612)  
 - [2020-05-23-照抄-Notion-界面、代码、接口的产品：寒舟-hanzhou.work](https://www.v2ex.com/t/674611)  
-- [2020-05-23-北京-/-深圳的-Offer-应该比成都高百分之多少？](https://www.v2ex.com/t/674610)  
-- [2020-05-23-请问诸位公司都是如何管理-PSD-和-icon-切图的啊](https://www.v2ex.com/t/674609)  
-- [2020-05-23-「泼冷水」你在用-2K-分辨率显示器吗？](https://www.v2ex.com/t/674608)  
-- [2020-05-23-关于本论坛的基本使用问题](https://www.v2ex.com/t/674607)  
-- [2020-05-23-昨晚又失眠了，问下有什么饮食记录的-app](https://www.v2ex.com/t/674605)  
-- [2020-05-23-创业项目前期用户怎么管理](https://www.v2ex.com/t/674604)  
-- [2020-05-23-在同样实现功能和-robust-的情况下，你倾向于如何写代码？](https://www.v2ex.com/t/674603)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,6 +1096,7 @@
 </summary>
 
 
+- [2020-05-23-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1115,7 +1116,6 @@
 - [2020-05-18-有了这-4-款工具，老板再也不怕我写烂SQL了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13451&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81tsAyJJMrXpVhB1cCfzMA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-18-进阶必备！35-个-Java-代码优化细节-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13450&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLk2hknAp0uZy4q9X_zX7jw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-18-仿小红书长图片自动循环滚动效果实现-（附完整源码）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13449&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fv7c29W4VvuJ4Q9XjxRGD5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-16-React-Concurrent-Mode-之-Suspense-实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13448&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483680%26amp%3Bidx%3D1%26amp%3Bsn%3Ddbe5d302ed44447d72b9cae107134657%26amp%3Bchksm%3De903473bde74ce2d12530d0ad7eb445942c38d23aeb48809a2ac6dc5b84eb7059217b13c762c%26amp%3Btoken%3D293628476%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

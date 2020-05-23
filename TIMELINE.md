@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 12:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-23 12:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1029,6 +1029,13 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-23-听说三星手机程序出-bug-了！](https://www.v2ex.com/t/674636) 
+- [【V2EX】2020-05-23-出一些-Google-Voice-靓号-/-GV-靓号](https://www.v2ex.com/t/674634) 
+- [【V2EX】2020-05-23-Fecmall-免费商用-在线出售电子书籍-PDF（虚拟产品）以及实物书籍的-B2C-商城](https://www.v2ex.com/t/674631) 
+- [【V2EX】2020-05-23-安卓哪个浏览器可以使用-chrome-插件](https://www.v2ex.com/t/674629) 
+- [【V2EX】2020-05-23-求免费薅的-jdk-8u202--Linux--x64-下载地址](https://www.v2ex.com/t/674628) 
+- [【V2EX】2020-05-23-我想设计一个改编歌词的软件，应该用什么编程平台？](https://www.v2ex.com/t/674627) 
+- [【V2EX】2020-05-23-淘宝上二手的-CCFL-显示器嗡嗡的响是什么问题？](https://www.v2ex.com/t/674626) 
 - [【V2EX】2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625) 
 - [【V2EX】2020-05-23-滴滴出行-北京、杭州-前端/Android/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/674624) 
 - [【V2EX】2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623) 
@@ -6444,6 +6451,7 @@
 - [【V2EX】2020-05-01-公司裁员操作绝了，这种情况我是不是能去劳动仲裁？](https://www.v2ex.com/t/667790) 
 - [【V2EX】2020-05-01-家庭-Office365，明年-529-到期每人-50](https://www.v2ex.com/t/667789) 
 - [【V2EX】2020-05-01-一家-200-人得公司-24k，-年终-1-个月-左右，一家是独角兽公司-22k，年终-0--6-个月，-大家建议哪一家，具体情况没入职也不确定。](https://www.v2ex.com/t/667788) 
+- [【技术头条】2020-05-23-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

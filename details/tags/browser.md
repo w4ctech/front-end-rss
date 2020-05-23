@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 12:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -50,6 +50,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-23-安卓哪个浏览器可以使用-chrome-插件](https://www.v2ex.com/t/674629) 
 - [2020-05-23-HTTP-状态码与喵了个咪的关系](https://www.v2ex.com/t/674617) 
 - [2020-05-22-系统如何使用-chrome-插件的代理？](https://www.v2ex.com/t/674534) 
 - [2020-05-22-selenium-standalone-安装时，无法下载-chromedriver，怎么办？](https://www.v2ex.com/t/674532) 
@@ -292,6 +293,7 @@
 - [2020-04-24-求教圈-X-配合-safari-搜索引擎的配置问题](https://www.v2ex.com/t/665605) 
 - [2020-04-24-Mac-系统-Chrome-浏览器-DNS-被劫持了怎么办？](https://www.v2ex.com/t/665539) 
 - [2020-04-23-「发生了-SSL-错误，无法建立与该服务器的安全连接。」不知道是代理服务器的问题，还是软件问题](https://www.v2ex.com/t/665504) 
+- [2020-05-23-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-28-Postwoman-替代-Postman-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13425&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fgp6Gx0m2uYmBXOuu2Wy5Hw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-22-阿里-3-轮面试都问了-RecyclerView](https://toutiao.io/k/xwtusda) 
 - [2020-05-20-如何优雅地调试段错误](https://toutiao.io/k/fsv1g9a) 

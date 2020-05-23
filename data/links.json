@@ -9872,6 +9872,41 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "听说三星手机程序出 bug 了！",
+        "link": "https://www.v2ex.com/t/674636",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "出一些 Google Voice 靓号 / GV 靓号",
+        "link": "https://www.v2ex.com/t/674634",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "Fecmall [ 免费商用] 在线出售电子书籍 PDF（虚拟产品）以及实物书籍的 B2C 商城",
+        "link": "https://www.v2ex.com/t/674631",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "安卓哪个浏览器可以使用 chrome 插件",
+        "link": "https://www.v2ex.com/t/674629",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "求免费薅的 jdk-8u202- Linux -x64 下载地址",
+        "link": "https://www.v2ex.com/t/674628",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "我想设计一个改编歌词的软件，应该用什么编程平台？",
+        "link": "https://www.v2ex.com/t/674627",
+        "date": "2020-05-23"
+      },
+      {
+        "title": "淘宝上二手的 CCFL 显示器嗡嗡的响是什么问题？",
+        "link": "https://www.v2ex.com/t/674626",
+        "date": "2020-05-23"
+      },
+      {
         "title": "从开发角度上来讲 感觉 Win 和 Mac 系统差距越来越小了~",
         "link": "https://www.v2ex.com/t/674625",
         "date": "2020-05-23"
@@ -45923,6 +45958,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "(2)你真的会用Chrome devtool吗? (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-23"
+      },
       {
         "title": "如何实现 git 命令行的联想功能 (old-panda.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 12:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1027,6 +1027,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-23-听说三星手机程序出-bug-了！](https://www.v2ex.com/t/674636) 
+- [2020-05-23-出一些-Google-Voice-靓号-/-GV-靓号](https://www.v2ex.com/t/674634) 
+- [2020-05-23-Fecmall-免费商用-在线出售电子书籍-PDF（虚拟产品）以及实物书籍的-B2C-商城](https://www.v2ex.com/t/674631) 
+- [2020-05-23-求免费薅的-jdk-8u202--Linux--x64-下载地址](https://www.v2ex.com/t/674628) 
+- [2020-05-23-我想设计一个改编歌词的软件，应该用什么编程平台？](https://www.v2ex.com/t/674627) 
+- [2020-05-23-淘宝上二手的-CCFL-显示器嗡嗡的响是什么问题？](https://www.v2ex.com/t/674626) 
 - [2020-05-23-从开发角度上来讲-感觉-Win-和-Mac-系统差距越来越小了~](https://www.v2ex.com/t/674625) 
 - [2020-05-23-关于相对论里面的双生子佯谬](https://www.v2ex.com/t/674623) 
 - [2020-05-23-过去一年你觉得买的最值的东西是什么？](https://www.v2ex.com/t/674622) 

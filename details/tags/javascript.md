@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -147,6 +147,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-23-请教一下，-html5-在不用<video>tag-的情况下如何开启摄像头定时捕获图像](https://www.v2ex.com/t/674572) 
 - [2020-05-22-自己撸的一个超快的-Js-打包器](https://www.v2ex.com/t/674468) 
 - [2020-05-22-2016-款-mbp-电源适配器可以给手机充电吗](https://www.v2ex.com/t/674464) 
 - [2020-05-22-全栈-JS-&-Go-求职（成都-或-远程）](https://www.v2ex.com/t/674455) 

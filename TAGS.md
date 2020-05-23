@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-23 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,7 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】@Winter:基于Vue3.0聊聊架构](https://www.ershicimi.com/p/e3ffb81830f5661f95554a7f91c5aea4)
 - [【Vue中文社区】漫谈Vue3.0的最新技术](https://www.ershicimi.com/p/893d65722b8fbe4de29e39714149c9ac)
 - [【Vue中文社区】手拉手带你开启Vue3.0+Vite开发新世界！](https://www.ershicimi.com/p/c6a06383d7f2087ce89cc5aad2ff1137)
 - [【Vue中文社区】「-如何优雅的使用VUE?-」不可不知的VUE实战技巧](https://www.ershicimi.com/p/535fc7486923a654affb406d326a7268)
@@ -94,7 +95,6 @@
 - [【Vue中文社区】大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23)
 - [【Vue中文社区】12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755)
 - [【Vue中文社区】从0到1，带你尝鲜Vue3.0](https://www.ershicimi.com/p/fcac2aff6bd592ce397295e8a1ddd296)
-- [【Vue中文社区】重磅！Vue-3.0-发布公测版](https://www.ershicimi.com/p/3b3d631bcae0f67cc8af4f5ea0f3c2b6)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

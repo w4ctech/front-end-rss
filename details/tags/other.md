@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-23-乌拉圭疫情控制良好-将分地区分阶段复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPg3ldFHlTZO93E9gB37c200523&isfromapp=1) 
 - [2020-05-23-国家卫健委：昨日无新增确诊病例-新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQUyuRz8q15G4NiZhYlJu200523&isfromapp=1) 
 - [2020-05-23-世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1) 
 - [2020-05-23-美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1) 
@@ -366,6 +367,7 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-22-程序员编程时戴耳机是在听什么？](https://www.ershicimi.com/p/632a430af28972e96d87e20510987590) 
 - [2020-05-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/36ebfd56d024dbb473b3564d6c31f051) 
 - [2020-05-21-我在阿里是怎么工作的——写在阿里入职一周年](https://www.ershicimi.com/p/2fba3e6f25e34a317e32eca6c65dc07f) 
 - [2020-05-19-一个二十多岁的程序员提前下班了](https://www.ershicimi.com/p/917e06e15479527e3e0b7cda2b037c6a) 
@@ -455,6 +457,7 @@
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-05-23-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/f5056ef6d187b0cc90942163a546e8ea) 
 - [2020-05-21-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/ba7632d04063306b0e8b6ad672c075b8) 
 - [2020-05-18-作为前端工程师，工作3年，这些用法竟然还不知道！](https://www.ershicimi.com/p/5b7a604d56ac17b7cb98e6eb8a83afe0) 
 - [2020-05-16-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/e11d37c9432ebccc8e4b9305e640d55f) 
@@ -572,6 +575,8 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 
+- [2020-05-23-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/2f5e766fa0bcfd8eb8510070c9cfe5b2) 
 - [2020-05-20-如何“取巧”实现一个微前端沙箱？](https://www.ershicimi.com/p/aa5bc6ad66b7ee729d5b3d570fd759bf) 
 - [2020-05-19-在前端重构中获取到的一些经验总结](https://www.ershicimi.com/p/27c0d2452222f830e63e4c078442f298) 
 - [2020-05-17-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/93c317170e8489947260ba5d95f3aa04) 

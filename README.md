@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 01:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 07:00:16，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-24-Mac-上移动硬盘异常退出后无法正常工作](https://www.v2ex.com/t/674806) ![](assets/new.png)  
-- [2020-05-24-如果面试没下文，你们还会重新再投这公司吗？](https://www.v2ex.com/t/674804) ![](assets/new.png)  
-- [2020-05-24-gv-号码申请不到了啊！](https://www.v2ex.com/t/674803) ![](assets/new.png)  
-- [2020-05-24-新博客备案后合法合规注意事项？](https://www.v2ex.com/t/674802) ![](assets/new.png)  
-- [2020-05-24-下半年大四，想找后台开发工作，准备什么技术栈比较有竞争力？](https://www.v2ex.com/t/674801) ![](assets/new.png)  
-- [2020-05-23-阿里巴巴供应链团队长期招聘-Java-工程师](https://www.v2ex.com/t/674800) ![](assets/new.png)  
-- [2020-05-23-被四块-10TB-的硬盘吵的失眠，该怎么办？](https://www.v2ex.com/t/674798) ![](assets/new.png)  
-- [2020-05-23-新版-edge-小游戏](https://www.v2ex.com/t/674797) ![](assets/new.png)  
-- [2020-05-23-iPhone-官方回收折抵，体验很不错](https://www.v2ex.com/t/674796) ![](assets/new.png)  
-- [2020-05-23-手写-JIT-编译器,-三天时间能学会吗狗头,-第二天?](https://www.v2ex.com/t/674795) ![](assets/new.png)  
-- [2020-05-23-为什么哈萨克斯坦访问香港网站，要绕一大圈？](https://www.v2ex.com/t/674794) ![](assets/new.png)  
-- [2020-05-23-关于找工作问题](https://www.v2ex.com/t/674793) ![](assets/new.png)  
-- [2020-05-23-作为资深-md-工程师，安利一个高颜值的文档神器](https://www.v2ex.com/t/674792) ![](assets/new.png)  
-- [2020-05-23-open-jdk14，各位用哪个版本的，用的怎么样？](https://www.v2ex.com/t/674791) ![](assets/new.png)  
-- [2020-05-23-微软的-Edge-更新到-83-之后的扩展同步支持同步的是哪部分的扩展？](https://www.v2ex.com/t/674790) ![](assets/new.png)  
-- [2020-05-23-Microsoft-Edge-的更新方式](https://www.v2ex.com/t/674788) ![](assets/new.png)  
-- [2020-05-23-现在成都联通家宽国际出口质量怎么样？](https://www.v2ex.com/t/674787)  
-- [2020-05-23-🔥🔥背水一战是一个调侃，鹅厂各部门人才奇缺，持续驻版内推🔥🔥提供-0-接触自助内推方式，避免你的害羞](https://www.v2ex.com/t/674786)  
-- [2020-05-23-有了解-Windows10-空间音效的吗,-搞了个小测试](https://www.v2ex.com/t/674784)  
-- [2020-05-23-Standard-notes-是如何实现加密，任何人都不可见的？](https://www.v2ex.com/t/674783)  
+- [2020-05-24-unc0ver-5.0-正式发布，支持全设备最新系统版本越狱-iOS8-以来第一个-0day-越狱](https://www.v2ex.com/t/674816) ![](assets/new.png)  
+- [2020-05-24-增肌粉的品牌问题？](https://www.v2ex.com/t/674815) ![](assets/new.png)  
+- [2020-05-24-所有的创新和新意会有一天枯竭吗？](https://www.v2ex.com/t/674814) ![](assets/new.png)  
+- [2020-05-24-求问：哪一个音乐.P.T.站支持精确搜索某一首确定的音乐？为了点击率顺便推荐几首超棒的音乐。](https://www.v2ex.com/t/674813) ![](assets/new.png)  
+- [2020-05-24-开始五年的程序员生涯](https://www.v2ex.com/t/674812) ![](assets/new.png)  
+- [2020-05-24-杏子免单抽奖结果贴,以及一些想说的话.](https://www.v2ex.com/t/674808) ![](assets/new.png)  
+- [2020-05-24-被-jvm-编译器蠢哭了](https://www.v2ex.com/t/674807) ![](assets/new.png)  
+- [2020-05-24-Mac-上移动硬盘异常退出后无法正常工作](https://www.v2ex.com/t/674806)  
+- [2020-05-24-如果面试没下文，你们还会重新再投这公司吗？](https://www.v2ex.com/t/674804)  
+- [2020-05-24-gv-号码申请不到了啊！](https://www.v2ex.com/t/674803)  
+- [2020-05-24-新博客备案后合法合规注意事项？](https://www.v2ex.com/t/674802)  
+- [2020-05-24-下半年大四，想找后台开发工作，准备什么技术栈比较有竞争力？](https://www.v2ex.com/t/674801)  
+- [2020-05-23-阿里巴巴供应链团队长期招聘-Java-工程师](https://www.v2ex.com/t/674800)  
+- [2020-05-23-被四块-10TB-的硬盘吵的失眠，该怎么办？](https://www.v2ex.com/t/674798)  
+- [2020-05-23-新版-edge-小游戏](https://www.v2ex.com/t/674797)  
+- [2020-05-23-iPhone-官方回收折抵，体验很不错](https://www.v2ex.com/t/674796)  
+- [2020-05-23-手写-JIT-编译器,-三天时间能学会吗狗头,-第二天?](https://www.v2ex.com/t/674795)  
+- [2020-05-23-为什么哈萨克斯坦访问香港网站，要绕一大圈？](https://www.v2ex.com/t/674794)  
+- [2020-05-23-关于找工作问题](https://www.v2ex.com/t/674793)  
+- [2020-05-23-作为资深-md-工程师，安利一个高颜值的文档神器](https://www.v2ex.com/t/674792)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

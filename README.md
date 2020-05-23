@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-23 10:00:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-23 10:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,9 +21,9 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -227,6 +227,8 @@
 </summary>
 
 
+- [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) ![](assets/new.png)  
+- [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) ![](assets/new.png)  
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  
 - [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed)  
 - [2020-05-21-别再纠结前端了，小程序开发这么做](https://www.ershicimi.com/p/09ce6bb27e29dfc909eb2736bb9ff46e)  
@@ -245,8 +247,6 @@
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
 - [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
-- [2020-05-12-深扒-Vue-3.0-革新技术点](https://www.ershicimi.com/p/f512e47d9d4b4196d527207aa9745105)  
-- [2020-05-12-【第1942期】Vue-SSR-即时编译技术](https://www.ershicimi.com/p/601fe7f36806022756d0310a1187666e)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -289,6 +289,8 @@
 </summary>
 
 
+- [2020-05-23-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e) ![](assets/new.png)  
+- [2020-05-23-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799) ![](assets/new.png)  
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469)  
 - [2020-05-22-你真的懂Promise吗](https://www.ershicimi.com/p/1c2869c86b5e41e3e71907438c60d06b)  
 - [2020-05-21-几乎人人都会Vue，老板凭什么选你？](https://www.ershicimi.com/p/41705c3ac39150cb2de8dff4f3daef67)  
@@ -307,8 +309,6 @@
 - [2020-05-13-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/cb5b8710f0bb5a208c9a252d5491660e)  
 - [2020-05-13-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/5b0840c2b33daa982088ea48239d07db)  
 - [2020-05-12-你可以这样优化-if-else-代码结构](https://www.ershicimi.com/p/0e285fd75086b4c139fd1ffd61627657)  
-- [2020-05-11-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/e79ed8472f4e0cce7cb5844d4ce5592c)  
-- [2020-05-11-前端代码规范最佳实践](https://www.ershicimi.com/p/658d2b63982559560eb1f0bf94fc7632)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-23-neovim-最新版支持高亮复制的内容了](https://www.v2ex.com/t/674585) ![](assets/new.png)  
-- [2020-05-23-小白用-Linux-用哪个好，既能折腾，又能傻瓜式使用，而且稳定？](https://www.v2ex.com/t/674584) ![](assets/new.png)  
-- [2020-05-23-公司来了个"大佬"-大家来判断下是不是真大佬](https://www.v2ex.com/t/674581) ![](assets/new.png)  
-- [2020-05-23-「杭州」不亦乐乎科技（杭州）有限责任公司招聘-android-开发-15K-30K,14-薪（可应届）](https://www.v2ex.com/t/674580) ![](assets/new.png)  
-- [2020-05-23-大家-有看到-CTM-的两地月费计划吗](https://www.v2ex.com/t/674579) ![](assets/new.png)  
-- [2020-05-23-怎样快速分析-PHP-代码的业务逻辑?](https://www.v2ex.com/t/674578) ![](assets/new.png)  
-- [2020-05-23-请教注册过公司或者个体工商户的哥哥们](https://www.v2ex.com/t/674577) ![](assets/new.png)  
-- [2020-05-23-高级-3D-软件工程师](https://www.v2ex.com/t/674576) ![](assets/new.png)  
-- [2020-05-23-8*9=64，请站长删号](https://www.v2ex.com/t/674575) ![](assets/new.png)  
-- [2020-05-23-终于知道沟通成本为什么也叫成本了](https://www.v2ex.com/t/674573) ![](assets/new.png)  
-- [2020-05-23-请教一下，-html5-在不用<video>tag-的情况下如何开启摄像头定时捕获图像](https://www.v2ex.com/t/674572) ![](assets/new.png)  
-- [2020-05-23-请问谁有瑞昱-ALC256M-的-datasheet-或-profile](https://www.v2ex.com/t/674571) ![](assets/new.png)  
-- [2020-05-23-android:-同一个-xml-布局文件，放在两个不同的项目之中，在-android-studio-中预览的效果不一样，颜色深浅相差很多。](https://www.v2ex.com/t/674570) ![](assets/new.png)  
-- [2020-05-23-初中毕业读技师学院还是中专、职校好？](https://www.v2ex.com/t/674569) ![](assets/new.png)  
-- [2020-05-23-HTTP/3-现在进展如何？](https://www.v2ex.com/t/674567) ![](assets/new.png)  
-- [2020-05-23-《入栈》献给失业季的程序员们](https://www.v2ex.com/t/674566) ![](assets/new.png)  
-- [2020-05-23-rk460-和-gtx1030-哪款可以更好的支持-4k-视频？](https://www.v2ex.com/t/674565)  
-- [2020-05-23-想问一下-iPad-除了当辅屏，有什么购买的意义？](https://www.v2ex.com/t/674564)  
-- [2020-05-23-朋友圈贴代码，你们有遇到吗，什么操作](https://www.v2ex.com/t/674563)  
-- [2020-05-23-关于家庭组网的问题](https://www.v2ex.com/t/674561)  
+- [2020-05-23-Paypal-收到外币是转换成美金好还是不转好？](https://www.v2ex.com/t/674594) ![](assets/new.png)  
+- [2020-05-23-尴尬的方言](https://www.v2ex.com/t/674593) ![](assets/new.png)  
+- [2020-05-23-iOS-設備降級問題](https://www.v2ex.com/t/674592) ![](assets/new.png)  
+- [2020-05-23-罗技鼠标-DUOLINK-必须配合罗技键盘使用吗？](https://www.v2ex.com/t/674591) ![](assets/new.png)  
+- [2020-05-23-求助-2020-MBP-13-寸-蓝牙耳机连接不上](https://www.v2ex.com/t/674589) ![](assets/new.png)  
+- [2020-05-23-tun2socks-如何对特定进程进行代理啊](https://www.v2ex.com/t/674588) ![](assets/new.png)  
+- [2020-05-23-头条搜索-前端-大量招人](https://www.v2ex.com/t/674587) ![](assets/new.png)  
+- [2020-05-23-19-款-mbp-还能用磁铁的方法关闭内屏吗？](https://www.v2ex.com/t/674586) ![](assets/new.png)  
+- [2020-05-23-neovim-最新版支持高亮复制的内容了](https://www.v2ex.com/t/674585)  
+- [2020-05-23-小白用-Linux-用哪个好，既能折腾，又能傻瓜式使用，而且稳定？](https://www.v2ex.com/t/674584)  
+- [2020-05-23-公司来了个"大佬"-大家来判断下是不是真大佬](https://www.v2ex.com/t/674581)  
+- [2020-05-23-「杭州」不亦乐乎科技（杭州）有限责任公司招聘-android-开发-15K-30K,14-薪（可应届）](https://www.v2ex.com/t/674580)  
+- [2020-05-23-大家-有看到-CTM-的两地月费计划吗](https://www.v2ex.com/t/674579)  
+- [2020-05-23-怎样快速分析-PHP-代码的业务逻辑?](https://www.v2ex.com/t/674578)  
+- [2020-05-23-请教注册过公司或者个体工商户的哥哥们](https://www.v2ex.com/t/674577)  
+- [2020-05-23-高级-3D-软件工程师](https://www.v2ex.com/t/674576)  
+- [2020-05-23-8*9=64，请站长删号](https://www.v2ex.com/t/674575)  
+- [2020-05-23-终于知道沟通成本为什么也叫成本了](https://www.v2ex.com/t/674573)  
+- [2020-05-23-请教一下，-html5-在不用<video>tag-的情况下如何开启摄像头定时捕获图像](https://www.v2ex.com/t/674572)  
+- [2020-05-23-请问谁有瑞昱-ALC256M-的-datasheet-或-profile](https://www.v2ex.com/t/674571)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,11 +1127,12 @@
 </summary>
 
 
-- [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j) ![](assets/new.png)  
-- [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564) ![](assets/new.png)  
-- [2020-05-23-剑指-offer（31：栈的压入、弹出序列](https://toutiao.io/k/dzff8cx) ![](assets/new.png)  
-- [2020-05-23-应用-AST-技术实现自动化升级-React-15-至-React-16-的解决方案](https://toutiao.io/k/xnoxled) ![](assets/new.png)  
-- [2020-05-23-Serverless-选型：深度解读-Serverless-架构及平台选择](https://toutiao.io/k/qnhn0z4) ![](assets/new.png)  
+- [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6) ![](assets/new.png)  
+- [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j)  
+- [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564)  
+- [2020-05-23-剑指-offer（31：栈的压入、弹出序列](https://toutiao.io/k/dzff8cx)  
+- [2020-05-23-应用-AST-技术实现自动化升级-React-15-至-React-16-的解决方案](https://toutiao.io/k/xnoxled)  
+- [2020-05-23-Serverless-选型：深度解读-Serverless-架构及平台选择](https://toutiao.io/k/qnhn0z4)  
 - [2020-05-23-Java-并发编程那些事儿（三）：ThreadLocal-原子性与可见性](https://toutiao.io/k/bgmvb41)  
 - [2020-05-23-Java-多线程中使用-JDK-自带工具类实现计数器](https://toutiao.io/k/97ipj0d)  
 - [2020-05-23-为什么腾讯-QQ-的大数据平台选择了这款数据库？](https://toutiao.io/k/sz9f1u0)  
@@ -1146,7 +1147,6 @@
 - [2020-05-22-深入学习-Three.js-核心对象之（三）：Material](https://toutiao.io/k/6h1f743)  
 - [2020-05-22-kafka-分区数和吞吐量的关系](https://toutiao.io/k/yxr1yeq)  
 - [2020-05-22-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/5at2n7e)  
-- [2020-05-22-聊聊-Python-做微信小程序自动化，那些踩过的坑？](https://toutiao.io/k/6yl2g8k)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

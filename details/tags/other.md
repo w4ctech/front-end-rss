@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-23 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-23 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -402,6 +402,8 @@
 - [2019-11-28-来自蚂蚁金服的前端项目最佳实践](https://www.ershicimi.com/p/aae2f8cef34dd39021c9bd7050993a7c) 
 - [2019-11-15-推荐几个公众号](https://www.ershicimi.com/p/a3828f970288d59160cda21828777128) 
 - [2019-11-14-推荐几个公众号](https://www.ershicimi.com/p/126b6a8d127d2a6f3eb0af6fb8a72a45) 
+- [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) 
+- [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) 
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) 
 - [2020-05-22-【图书】软件困局：为什么聪明的程序员会写出糟糕的代码](https://www.ershicimi.com/p/a13927aa8eb5c1a5dbe72fc0ddea46ed) 
 - [2020-05-21-【第1951期】Lighthouse-测试内幕](https://www.ershicimi.com/p/6d8daac5b5fddbf709e6566ccca6b9ed) 
@@ -1016,6 +1018,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-23-Paypal-收到外币是转换成美金好还是不转好？](https://www.v2ex.com/t/674594) 
+- [2020-05-23-尴尬的方言](https://www.v2ex.com/t/674593) 
+- [2020-05-23-iOS-設備降級問題](https://www.v2ex.com/t/674592) 
+- [2020-05-23-罗技鼠标-DUOLINK-必须配合罗技键盘使用吗？](https://www.v2ex.com/t/674591) 
+- [2020-05-23-求助-2020-MBP-13-寸-蓝牙耳机连接不上](https://www.v2ex.com/t/674589) 
+- [2020-05-23-tun2socks-如何对特定进程进行代理啊](https://www.v2ex.com/t/674588) 
+- [2020-05-23-头条搜索-前端-大量招人](https://www.v2ex.com/t/674587) 
+- [2020-05-23-19-款-mbp-还能用磁铁的方法关闭内屏吗？](https://www.v2ex.com/t/674586) 
 - [2020-05-23-小白用-Linux-用哪个好，既能折腾，又能傻瓜式使用，而且稳定？](https://www.v2ex.com/t/674584) 
 - [2020-05-23-公司来了个"大佬"-大家来判断下是不是真大佬](https://www.v2ex.com/t/674581) 
 - [2020-05-23-大家-有看到-CTM-的两地月费计划吗](https://www.v2ex.com/t/674579) 
@@ -6744,6 +6754,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6) 
 - [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564) 
 - [2020-05-23-剑指-offer（31：栈的压入、弹出序列](https://toutiao.io/k/dzff8cx) 
 - [2020-05-23-Java-并发编程那些事儿（三）：ThreadLocal-原子性与可见性](https://toutiao.io/k/bgmvb41) 

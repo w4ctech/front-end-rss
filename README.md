@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 22:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 23:30:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-荷兰新增新冠肺炎确诊病例172例，累计确诊45236例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2geNv7OjFwKldDJNxSNV200524&isfromapp=1) ![](assets/new.png)  
 - [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1)  
 - [2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1)  
 - [2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1)  
 - [2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1)  
 - [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1)  
-- [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1)  
-- [2020-05-23-荷兰新增新冠肺炎确诊病例176例，累计45064例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,10 +1034,10 @@
 </summary>
 
 
-- [2020-05-24-本周知乎热榜-|-华为紧急下单了，骑电动车要戴头盔了，失联女翼装飞行员被找到了](https://www.ershicimi.com/p/b3f6c11e9614ef1f613e3474965fc002) ![](assets/new.png)  
-- [2020-05-24-有哪些礼物，过了很久你却依然保存至今？](https://www.ershicimi.com/p/4168028c7105ad9b8e6f113860bc1ee5) ![](assets/new.png)  
-- [2020-05-24-2020，口碑极佳的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/f07cbac25ffb5764cb9c7b0601f9f18d) ![](assets/new.png)  
-- [2020-05-24-知乎故事-|-我给老婆备注了全名，还把她屏蔽了](https://www.ershicimi.com/p/5c79e9a349f1b695bb7793f5432c1825) ![](assets/new.png)  
+- [2020-05-24-本周知乎热榜-|-华为紧急下单了，骑电动车要戴头盔了，失联女翼装飞行员被找到了](https://www.ershicimi.com/p/b3f6c11e9614ef1f613e3474965fc002)  
+- [2020-05-24-有哪些礼物，过了很久你却依然保存至今？](https://www.ershicimi.com/p/4168028c7105ad9b8e6f113860bc1ee5)  
+- [2020-05-24-2020，口碑极佳的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/f07cbac25ffb5764cb9c7b0601f9f18d)  
+- [2020-05-24-知乎故事-|-我给老婆备注了全名，还把她屏蔽了](https://www.ershicimi.com/p/5c79e9a349f1b695bb7793f5432c1825)  
 - [2020-05-23-知乎神吐槽-|-你们麻醉后说过什么蠢话？](https://www.ershicimi.com/p/38d0551ad366775e67d80b553684b705)  
 - [2020-05-23-读书到底有多重要？这是我听过的最好的答案](https://www.ershicimi.com/p/45064df7849d4e65e96a9d5bfaa077a2)  
 - [2020-05-23-知乎故事-|-将军出征回来了，他还带回一个怀孕的女子](https://www.ershicimi.com/p/3e0f31c7b421a6d71ddead499893cb71)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-24-疫情形势好转之后能够出现报复性消费？国家发改委：恢复性消费是肯定的](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFv0EicoKVNQd9wSoWJcJ200524&isfromapp=1) 
+- [2020-05-24-中国政府抗疫医疗专家组抵达秘鲁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS17lFDUM1DEAKHpo3gII200524&isfromapp=1) 
 - [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233) 
 - [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1) 
 - [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1) 

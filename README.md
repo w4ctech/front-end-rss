@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 23:30:18，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 00:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1) ![](assets/new.png)  
-- [2020-05-24-荷兰新增新冠肺炎确诊病例172例，累计确诊45236例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2geNv7OjFwKldDJNxSNV200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-日本新增42例新冠肺炎确诊病例，累计确诊16611例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHve4Rlp3aBypeILRonz200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1)  
+- [2020-05-24-荷兰新增新冠肺炎确诊病例172例，累计确诊45236例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2geNv7OjFwKldDJNxSNV200524&isfromapp=1)  
 - [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1)  
 - [2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1)  
 - [2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1)  
 - [2020-05-24-欧洲感染新冠病毒人数超200万-俄英西意法五国占比超2/3](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1)  
 - [2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1)  
-- [2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1)  
-- [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

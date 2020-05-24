@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 07:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -6877,6 +6877,7 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f) 
 - [【开发者头条】2020-05-24-如何使用-frp-实现内网穿透](https://toutiao.io/k/np929ps) 
 - [【开发者头条】2020-05-24-使用-cquery：C++-language-server](https://toutiao.io/k/obv13oa) 
 - [【开发者头条】2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 07:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -227,7 +227,7 @@
 </summary>
 
 
-- [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48) ![](assets/new.png)  
+- [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
@@ -1127,6 +1127,7 @@
 </summary>
 
 
+- [2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f) ![](assets/new.png)  
 - [2020-05-24-如何使用-frp-实现内网穿透](https://toutiao.io/k/np929ps)  
 - [2020-05-24-使用-cquery：C++-language-server](https://toutiao.io/k/obv13oa)  
 - [2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic)  
@@ -1146,7 +1147,6 @@
 - [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6)  
 - [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j)  
 - [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564)  
-- [2020-05-23-剑指-offer（31：栈的压入、弹出序列](https://toutiao.io/k/dzff8cx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

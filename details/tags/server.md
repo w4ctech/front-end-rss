@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 17:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -20,6 +20,7 @@
 - [2020-05-20-最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304) 
 - [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-24-各位遇到过-docker-国内镜像加速器配置好了-实际上-P-用没有的情况么](https://www.v2ex.com/t/674939) 
 - [2020-05-24-docker-的-nginx-怎么编译增加模块?](https://www.v2ex.com/t/674918) 
 - [2020-05-23-感觉-NAS（如群晖）就应该只放文件，-Docker-和虚拟机没必要](https://www.v2ex.com/t/674705) 
 - [2020-05-22-想请教一个-Nginx-反向代理跳转的问题](https://www.v2ex.com/t/674498) 

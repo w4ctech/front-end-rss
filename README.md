@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 01:00:11，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 01:30:17，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-24-今天发现服务器变成了挖矿肉鸡](https://www.v2ex.com/t/674996)  
-- [2020-05-24-etcd-做服务发现，如果集群挂了，调用服务怎么办](https://www.v2ex.com/t/674995)  
-- [2020-05-24-用-Swift-写了一个路由组件,-可以做组件化解耦的中心路由控制](https://www.v2ex.com/t/674994)  
-- [2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993)  
-- [2020-05-24-想从成都来深圳](https://www.v2ex.com/t/674991)  
-- [2020-05-24-字节跳动飞书内推，最近疯狂招人，欢迎大佬们投递](https://www.v2ex.com/t/674990)  
-- [2020-05-24-遇到一个非常蛋疼的键盘问题](https://www.v2ex.com/t/674989)  
-- [2020-05-24-自动汉化漫画的工具-默墨汉化](https://www.v2ex.com/t/674988)  
-- [2020-05-24-有没有通过语音或文字在音频文件内搜索信息的-app？](https://www.v2ex.com/t/674987)  
-- [2020-05-24-有没有根据睡姿动态模拟枕头的床垫？](https://www.v2ex.com/t/674986)  
-- [2020-05-24-要去昆明了，有什么蘑菇推荐](https://www.v2ex.com/t/674985)  
-- [2020-05-24-有哪些针对于-Java-web-后端的实用且独具特点的开源项目，各位推荐一下？](https://www.v2ex.com/t/674984)  
-- [2020-05-24-迫于老婆卖水果太佛系，帮忙做个推广，欢迎扫码加微信群，每天都有特价促销产品，主推生鲜水果，另外也有点...](https://www.v2ex.com/t/674983)  
-- [2020-05-24-gbdt-每一轮为什么是在拟合负梯度](https://www.v2ex.com/t/674982)  
-- [2020-05-24-预感自己会被裁员，大家觉得最近工作好找吗](https://www.v2ex.com/t/674981)  
-- [2020-05-24-做了一个微信公众号文章转-PDF-的网站-http://wechat2pdf.com](https://www.v2ex.com/t/674979)  
-- [2020-05-24-请问-Python-用-Subprocess-启动程序，程序启动了两个进程，如何获得这两个进程的-PID](https://www.v2ex.com/t/674978)  
-- [2020-05-24-我的-taobao-重定向-302-死循环了.-119.29.29.29-223.5.5.5-是被污染了吗](https://www.v2ex.com/t/674977)  
-- [2020-05-24-成都美团外卖成都研发中心大量招聘-Java-开发工程师](https://www.v2ex.com/t/674975)  
-- [2020-05-24-出-领势-Velop-AC1300-Mesh-路由器，价格-350-元](https://www.v2ex.com/t/674974)  
+- [2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049) ![](assets/new.png)  
+- [2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048) ![](assets/new.png)  
+- [2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047) ![](assets/new.png)  
+- [2020-05-25-周末，我把网站加入了开放创业-Open-Startup](https://www.v2ex.com/t/675046) ![](assets/new.png)  
+- [2020-05-25-三星在中国这回是要化成灰了麽？](https://www.v2ex.com/t/675045) ![](assets/new.png)  
+- [2020-05-25-大家看过猿浪吗？-B-站献给程序员的视频](https://www.v2ex.com/t/675044) ![](assets/new.png)  
+- [2020-05-25-Gboard-的简体中文还能正常使用吗？](https://www.v2ex.com/t/675043) ![](assets/new.png)  
+- [2020-05-25-请教一下大神，-Quiver-的网页剪辑如何把里面的图片在-quiver-本地化？有解决方案吗？](https://www.v2ex.com/t/675042) ![](assets/new.png)  
+- [2020-05-24-iOS-上有什么比较好的可以下载网页视频的方法？](https://www.v2ex.com/t/675041) ![](assets/new.png)  
+- [2020-05-24-写了一个域名文本验证的平台，常用于微信公众号、广告联盟业务域名验证](https://www.v2ex.com/t/675040) ![](assets/new.png)  
+- [2020-05-24-有玩大疆机甲大师-EP-的朋友不？我最近做了个-SDK，和-OpenCV-搭配做了个守门员](https://www.v2ex.com/t/675038) ![](assets/new.png)  
+- [2020-05-24-iPad-mini（第-5-代）充电问题求助](https://www.v2ex.com/t/675037) ![](assets/new.png)  
+- [2020-05-24-上海电信-4g-网络可以是-full-conenat1，手机热点是-nat3，如何设置成-nat1比如-dmz-啥的？](https://www.v2ex.com/t/675036) ![](assets/new.png)  
+- [2020-05-24-请问软件开发类高级证书，具体指的是哪些证书](https://www.v2ex.com/t/675034) ![](assets/new.png)  
+- [2020-05-24-有没有能注销个人存在于互联网的所有账号](https://www.v2ex.com/t/675032) ![](assets/new.png)  
+- [2020-05-24-做了个区块链-Hacker-News-社区](https://www.v2ex.com/t/675031) ![](assets/new.png)  
+- [2020-05-24-JupyterLab-插件功能小贴士](https://www.v2ex.com/t/675030) ![](assets/new.png)  
+- [2020-05-24-北京-奇虎-360-美国商务部认证高科技企业-核心业务-安全大脑-持续热招-诚聘-高级/资深-Web-前...](https://www.v2ex.com/t/675029) ![](assets/new.png)  
+- [2020-05-24-iCloud-邮箱没退信？](https://www.v2ex.com/t/675027) ![](assets/new.png)  
+- [2020-05-24-`${#varname}`-是怎么让-让-hexo-部署挂掉的??](https://www.v2ex.com/t/675026) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,18 +1096,18 @@
 </summary>
 
 
-- [2020-05-25-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13479&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjoV6T1pvjQySUFCPmUHwoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-趁手利器，FSuper-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13477&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZy4xiyHZA4jgbmOlv7fKrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-Android-9.0-Launcher启动详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13475&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbpDQJKjyQz_nbuTzmdY-sA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-大神碉堡！99-行代码实现的神奇效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13474&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMo1D3vTUjNwd-7SVf7sYpw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-字节跳动-前端面经（4轮技术面+hr面）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13473&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQmC9zWMDisPHo6ZEvYJizg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-秒懂-区块链-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13472&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpAfJZtK6bww6lzNxty_qrw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-必学的-10-大顶级-Python-库！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13471&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeqmAgZY6lNU2irSEKkWr_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-频频被点名的“区块链”，到底是个啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13470&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCQ4h0GxACuGsagDDT76y5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-05-25-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-25-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13479&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjoV6T1pvjQySUFCPmUHwoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-趁手利器，FSuper-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13477&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZy4xiyHZA4jgbmOlv7fKrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-Android-9.0-Launcher启动详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13475&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbpDQJKjyQz_nbuTzmdY-sA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-大神碉堡！99-行代码实现的神奇效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13474&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMo1D3vTUjNwd-7SVf7sYpw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-字节跳动-前端面经（4轮技术面+hr面）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13473&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQmC9zWMDisPHo6ZEvYJizg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-秒懂-区块链-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13472&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpAfJZtK6bww6lzNxty_qrw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-必学的-10-大顶级-Python-库！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13471&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeqmAgZY6lNU2irSEKkWr_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-频频被点名的“区块链”，到底是个啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13470&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCQ4h0GxACuGsagDDT76y5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-05-25-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-23-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

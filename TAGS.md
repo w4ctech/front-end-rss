@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-24 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -587,6 +587,7 @@
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
 - [【奇舞周刊】Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/acb379d6f5a6207ed9fe5f99cde7df74)
+- [【互联网架构师】Spring-Boot-2.3.0-发布：支持Java14、打包Docker镜像、优雅关机配置...](https://www.ershicimi.com/p/b4c080feda51b2c21f5f08fdd4db08c5)
 - [【互联网架构师】Pandownload作者被抓后，我决定用docker搭建一款私有网盘](https://www.ershicimi.com/p/bc7108c3af557ea905f806f16bf261cc)
 - [【InfoQ】最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304)
 - [【InfoQ】手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)
@@ -598,7 +599,6 @@
 - [【V2EX】有关-Nginx-的疑惑](https://www.v2ex.com/t/673936)
 - [【V2EX】Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399)
 - [【V2EX】nginx-日志记录，怎么给不同的网站-自定义不同的-log_format？](https://www.v2ex.com/t/673260)
-- [【V2EX】docker-如何选择适合镜像](https://www.v2ex.com/t/672992)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

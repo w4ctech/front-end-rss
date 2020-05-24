@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1053,6 +1053,9 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-24-早期创业团队的-web-技术栈选择-Java-vs-Elixir](https://www.v2ex.com/t/674907) 
+- [2020-05-24-金山云和腾讯云使用-notes](https://www.v2ex.com/t/674906) 
+- [2020-05-24-有深圳同学打算创业的交流下](https://www.v2ex.com/t/674905) 
 - [2020-05-24-出点京东直充话费，和京东自营自发的东西](https://www.v2ex.com/t/674904) 
 - [2020-05-24-现在有办法让-iPhone-x-升级到-ios12-么](https://www.v2ex.com/t/674902) 
 - [2020-05-24-检验仪器画散点图显示求助](https://www.v2ex.com/t/674900) 

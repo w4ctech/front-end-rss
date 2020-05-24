@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 21:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 22:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1) ![](assets/new.png)  
-- [2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1)  
+- [2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1)  
 - [2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1)  
 - [2020-05-24-海外中国公民求助绿色通道：外交部12308领保热线24小时运转](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1)  
 - [2020-05-24-王毅：中欧班列疫情期间开行提升24%，运送近8000吨防疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7teEMEYYVqm69HjWnGWW200524&isfromapp=1)  
@@ -1034,6 +1034,10 @@
 </summary>
 
 
+- [2020-05-24-本周知乎热榜-|-华为紧急下单了，骑电动车要戴头盔了，失联女翼装飞行员被找到了](https://www.ershicimi.com/p/b3f6c11e9614ef1f613e3474965fc002) ![](assets/new.png)  
+- [2020-05-24-有哪些礼物，过了很久你却依然保存至今？](https://www.ershicimi.com/p/4168028c7105ad9b8e6f113860bc1ee5) ![](assets/new.png)  
+- [2020-05-24-2020，口碑极佳的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/f07cbac25ffb5764cb9c7b0601f9f18d) ![](assets/new.png)  
+- [2020-05-24-知乎故事-|-我给老婆备注了全名，还把她屏蔽了](https://www.ershicimi.com/p/5c79e9a349f1b695bb7793f5432c1825) ![](assets/new.png)  
 - [2020-05-23-知乎神吐槽-|-你们麻醉后说过什么蠢话？](https://www.ershicimi.com/p/38d0551ad366775e67d80b553684b705)  
 - [2020-05-23-读书到底有多重要？这是我听过的最好的答案](https://www.ershicimi.com/p/45064df7849d4e65e96a9d5bfaa077a2)  
 - [2020-05-23-知乎故事-|-将军出征回来了，他还带回一个怀孕的女子](https://www.ershicimi.com/p/3e0f31c7b421a6d71ddead499893cb71)  
@@ -1050,10 +1054,6 @@
 - [2020-05-19-当你的眼睛拥有-50-倍超稳远摄超能力时，你最想看到什么？](https://www.ershicimi.com/p/192547920f87165e19b41878c196c857)  
 - [2020-05-19-越简单，越高级：10-张图带你见识人间百态](https://www.ershicimi.com/p/26284fd7edf6bb4197fff6f574ab2d92)  
 - [2020-05-19-知乎故事-|-年轻人为什么会腰疼？](https://www.ershicimi.com/p/389ca5460e03214fbdab30a4f917f84c)  
-- [2020-05-18-有哪些大家不说，但十分重要的社会「潜规则」？](https://www.ershicimi.com/p/84656072f6acca0f1b369b7ee5c97580)  
-- [2020-05-18-发现-15-岁的孩子半夜偷穿丝袜，家长该如何做？](https://www.ershicimi.com/p/eb44ea67c8ae192dba42cd2acea8e09b)  
-- [2020-05-18-知乎故事-|-男生洗澡很久不出来会在干嘛？](https://www.ershicimi.com/p/de8bca263c7cd088bd912c96919ed5af)  
-- [2020-05-17-本周知乎热榜-|-小区致信抵制丰巢被刷屏，李佳琦能否成功申请「ohmygod-买它」商标？](https://www.ershicimi.com/p/ac751bc7cdbafeff9520e50be50559fe)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,8 +1065,8 @@
 </summary>
 
 
-- [2020-05-24-今天发现服务器变成了挖矿肉鸡](https://www.v2ex.com/t/674996) ![](assets/new.png)  
-- [2020-05-24-etcd-做服务发现，如果集群挂了，调用服务怎么办](https://www.v2ex.com/t/674995) ![](assets/new.png)  
+- [2020-05-24-今天发现服务器变成了挖矿肉鸡](https://www.v2ex.com/t/674996)  
+- [2020-05-24-etcd-做服务发现，如果集群挂了，调用服务怎么办](https://www.v2ex.com/t/674995)  
 - [2020-05-24-用-Swift-写了一个路由组件,-可以做组件化解耦的中心路由控制](https://www.v2ex.com/t/674994)  
 - [2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993)  
 - [2020-05-24-想从成都来深圳](https://www.v2ex.com/t/674991)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 01:30:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 07:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -480,6 +480,7 @@
 - [【React中文社区】2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48) 
 - [【前端早读课】2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220) 
 - [【前端早读课】2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) 
 - [【前端早读课】2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) 

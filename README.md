@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 01:30:17，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 07:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -227,6 +227,7 @@
 </summary>
 
 
+- [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48) ![](assets/new.png)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
@@ -246,7 +247,6 @@
 - [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
 - [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
-- [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049) ![](assets/new.png)  
-- [2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048) ![](assets/new.png)  
-- [2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047) ![](assets/new.png)  
-- [2020-05-25-周末，我把网站加入了开放创业-Open-Startup](https://www.v2ex.com/t/675046) ![](assets/new.png)  
-- [2020-05-25-三星在中国这回是要化成灰了麽？](https://www.v2ex.com/t/675045) ![](assets/new.png)  
-- [2020-05-25-大家看过猿浪吗？-B-站献给程序员的视频](https://www.v2ex.com/t/675044) ![](assets/new.png)  
-- [2020-05-25-Gboard-的简体中文还能正常使用吗？](https://www.v2ex.com/t/675043) ![](assets/new.png)  
-- [2020-05-25-请教一下大神，-Quiver-的网页剪辑如何把里面的图片在-quiver-本地化？有解决方案吗？](https://www.v2ex.com/t/675042) ![](assets/new.png)  
-- [2020-05-24-iOS-上有什么比较好的可以下载网页视频的方法？](https://www.v2ex.com/t/675041) ![](assets/new.png)  
-- [2020-05-24-写了一个域名文本验证的平台，常用于微信公众号、广告联盟业务域名验证](https://www.v2ex.com/t/675040) ![](assets/new.png)  
-- [2020-05-24-有玩大疆机甲大师-EP-的朋友不？我最近做了个-SDK，和-OpenCV-搭配做了个守门员](https://www.v2ex.com/t/675038) ![](assets/new.png)  
-- [2020-05-24-iPad-mini（第-5-代）充电问题求助](https://www.v2ex.com/t/675037) ![](assets/new.png)  
-- [2020-05-24-上海电信-4g-网络可以是-full-conenat1，手机热点是-nat3，如何设置成-nat1比如-dmz-啥的？](https://www.v2ex.com/t/675036) ![](assets/new.png)  
-- [2020-05-24-请问软件开发类高级证书，具体指的是哪些证书](https://www.v2ex.com/t/675034) ![](assets/new.png)  
-- [2020-05-24-有没有能注销个人存在于互联网的所有账号](https://www.v2ex.com/t/675032) ![](assets/new.png)  
-- [2020-05-24-做了个区块链-Hacker-News-社区](https://www.v2ex.com/t/675031) ![](assets/new.png)  
-- [2020-05-24-JupyterLab-插件功能小贴士](https://www.v2ex.com/t/675030) ![](assets/new.png)  
-- [2020-05-24-北京-奇虎-360-美国商务部认证高科技企业-核心业务-安全大脑-持续热招-诚聘-高级/资深-Web-前...](https://www.v2ex.com/t/675029) ![](assets/new.png)  
-- [2020-05-24-iCloud-邮箱没退信？](https://www.v2ex.com/t/675027) ![](assets/new.png)  
-- [2020-05-24-`${#varname}`-是怎么让-让-hexo-部署挂掉的??](https://www.v2ex.com/t/675026) ![](assets/new.png)  
+- [2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049)  
+- [2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048)  
+- [2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047)  
+- [2020-05-25-周末，我把网站加入了开放创业-Open-Startup](https://www.v2ex.com/t/675046)  
+- [2020-05-25-三星在中国这回是要化成灰了麽？](https://www.v2ex.com/t/675045)  
+- [2020-05-25-大家看过猿浪吗？-B-站献给程序员的视频](https://www.v2ex.com/t/675044)  
+- [2020-05-25-Gboard-的简体中文还能正常使用吗？](https://www.v2ex.com/t/675043)  
+- [2020-05-25-请教一下大神，-Quiver-的网页剪辑如何把里面的图片在-quiver-本地化？有解决方案吗？](https://www.v2ex.com/t/675042)  
+- [2020-05-24-iOS-上有什么比较好的可以下载网页视频的方法？](https://www.v2ex.com/t/675041)  
+- [2020-05-24-写了一个域名文本验证的平台，常用于微信公众号、广告联盟业务域名验证](https://www.v2ex.com/t/675040)  
+- [2020-05-24-有玩大疆机甲大师-EP-的朋友不？我最近做了个-SDK，和-OpenCV-搭配做了个守门员](https://www.v2ex.com/t/675038)  
+- [2020-05-24-iPad-mini（第-5-代）充电问题求助](https://www.v2ex.com/t/675037)  
+- [2020-05-24-上海电信-4g-网络可以是-full-conenat1，手机热点是-nat3，如何设置成-nat1比如-dmz-啥的？](https://www.v2ex.com/t/675036)  
+- [2020-05-24-请问软件开发类高级证书，具体指的是哪些证书](https://www.v2ex.com/t/675034)  
+- [2020-05-24-有没有能注销个人存在于互联网的所有账号](https://www.v2ex.com/t/675032)  
+- [2020-05-24-做了个区块链-Hacker-News-社区](https://www.v2ex.com/t/675031)  
+- [2020-05-24-JupyterLab-插件功能小贴士](https://www.v2ex.com/t/675030)  
+- [2020-05-24-北京-奇虎-360-美国商务部认证高科技企业-核心业务-安全大脑-持续热招-诚聘-高级/资深-Web-前...](https://www.v2ex.com/t/675029)  
+- [2020-05-24-iCloud-邮箱没退信？](https://www.v2ex.com/t/675027)  
+- [2020-05-24-`${#varname}`-是怎么让-让-hexo-部署挂掉的??](https://www.v2ex.com/t/675026)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

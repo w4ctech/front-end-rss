@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-25 01:30:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 07:00:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -332,6 +332,7 @@
 - [【Vue中文社区】11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)
 - [【React中文社区】Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4)
 - [【React中文社区】Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa)
+- [【前端早读课】【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)
 - [【前端早读课】【第1950期】从-ES2015-开始，JavaScript-对象属性顺序变得可以预测](https://www.ershicimi.com/p/91a9cb954f9b8f42ff235e27bf7ab012)
 - [【前端早读课】【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)
 - [【前端早读课】【第1937期】Continuation-在-JS-中的应用](https://www.ershicimi.com/p/cdc968b8cc627c674cfc6111e75201c1)
@@ -346,7 +347,6 @@
 - [【前端开发】JavaScript设计模式](https://www.ershicimi.com/p/d41fb6f09e67ff092900bfc3660f4015)
 - [【前端开发】10-个很实用的-JavaScript-技巧](https://www.ershicimi.com/p/80c6d0a9a11f7057770b6522f4b95a16)
 - [【前端开发】前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/171e8535bab4694fad0c12fa441f806e)
-- [【前端开发】大厂是怎么做移动端适配的](https://www.ershicimi.com/p/08dce5eece7deb854d1f58281ceddfb7)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

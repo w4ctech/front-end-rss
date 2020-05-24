@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 01:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -101,6 +101,7 @@
 - [2020-04-24-对自己的网站进行版本控制的话现在基本还是在用-svn-吗？](https://www.v2ex.com/t/665697) 
 - [2020-04-24-大家项目-git-换行怎么设置？](https://www.v2ex.com/t/665581) 
 - [2020-04-24-无法正常在-facebook-分享-github-pages-的链接](https://www.v2ex.com/t/665577) 
+- [2020-05-25-Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-11-Python-的-51-个秘密曝光，Github-获-20000-star-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13436&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJXMG5XY4t4P9rSOJI4F9Pg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-28-重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13421&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEe0WURUKzOMq7LtT0uZdZg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

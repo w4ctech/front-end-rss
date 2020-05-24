@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-24 20:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -509,6 +509,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://china.caixin.com/2020-04-13/101541775.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1)
 - [【Vue中文社区】Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec)
 - [【前端早读课】【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7)
@@ -526,7 +527,6 @@
 - [【前端大学】前后端分离的跨域介绍](https://www.ershicimi.com/p/9db126c7434703d90a621a162b9fa07a)
 - [【全栈前端精选】如何处理浏览器的断网情况？](https://www.ershicimi.com/p/47b49d947a36b0e824064c80b26195c1)
 - [【政采云前端团队】图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab)
-- [【前端瓶子君】chrome-开发者工具的-11-个骚技巧](https://www.ershicimi.com/p/70b3a96880ca7398251299dfaa0c7138)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

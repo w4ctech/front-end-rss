@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-24 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-24-今天发现服务器变成了挖矿肉鸡](https://www.v2ex.com/t/674996) 
+- [2020-05-24-etcd-做服务发现，如果集群挂了，调用服务怎么办](https://www.v2ex.com/t/674995) 
 - [2020-05-24-用-Swift-写了一个路由组件,-可以做组件化解耦的中心路由控制](https://www.v2ex.com/t/674994) 
 - [2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993) 
 - [2020-05-24-想从成都来深圳](https://www.v2ex.com/t/674991) 

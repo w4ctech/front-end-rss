@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 20:30:21，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 21:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1) ![](assets/new.png)  
 - [2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1)  
 - [2020-05-24-海外中国公民求助绿色通道：外交部12308领保热线24小时运转](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1)  
 - [2020-05-24-王毅：中欧班列疫情期间开行提升24%，运送近8000吨防疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7teEMEYYVqm69HjWnGWW200524&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1)  
 - [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1)  
 - [2020-05-23-荷兰新增新冠肺炎确诊病例176例，累计45064例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1)  
-- [2020-05-23-《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1)  
-- [2020-05-23-印度央行再度降息以缓解疫情冲击](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4vejPHtYnWGpfTilFsc200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-24-用-Swift-写了一个路由组件,-可以做组件化解耦的中心路由控制](https://www.v2ex.com/t/674994) ![](assets/new.png)  
-- [2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993) ![](assets/new.png)  
-- [2020-05-24-想从成都来深圳](https://www.v2ex.com/t/674991) ![](assets/new.png)  
-- [2020-05-24-字节跳动飞书内推，最近疯狂招人，欢迎大佬们投递](https://www.v2ex.com/t/674990) ![](assets/new.png)  
-- [2020-05-24-遇到一个非常蛋疼的键盘问题](https://www.v2ex.com/t/674989) ![](assets/new.png)  
-- [2020-05-24-自动汉化漫画的工具-默墨汉化](https://www.v2ex.com/t/674988) ![](assets/new.png)  
-- [2020-05-24-有没有通过语音或文字在音频文件内搜索信息的-app？](https://www.v2ex.com/t/674987) ![](assets/new.png)  
-- [2020-05-24-有没有根据睡姿动态模拟枕头的床垫？](https://www.v2ex.com/t/674986) ![](assets/new.png)  
-- [2020-05-24-要去昆明了，有什么蘑菇推荐](https://www.v2ex.com/t/674985) ![](assets/new.png)  
-- [2020-05-24-有哪些针对于-Java-web-后端的实用且独具特点的开源项目，各位推荐一下？](https://www.v2ex.com/t/674984) ![](assets/new.png)  
-- [2020-05-24-迫于老婆卖水果太佛系，帮忙做个推广，欢迎扫码加微信群，每天都有特价促销产品，主推生鲜水果，另外也有点...](https://www.v2ex.com/t/674983) ![](assets/new.png)  
-- [2020-05-24-gbdt-每一轮为什么是在拟合负梯度](https://www.v2ex.com/t/674982) ![](assets/new.png)  
-- [2020-05-24-预感自己会被裁员，大家觉得最近工作好找吗](https://www.v2ex.com/t/674981) ![](assets/new.png)  
-- [2020-05-24-做了一个微信公众号文章转-PDF-的网站-http://wechat2pdf.com](https://www.v2ex.com/t/674979) ![](assets/new.png)  
-- [2020-05-24-请问-Python-用-Subprocess-启动程序，程序启动了两个进程，如何获得这两个进程的-PID](https://www.v2ex.com/t/674978) ![](assets/new.png)  
-- [2020-05-24-我的-taobao-重定向-302-死循环了.-119.29.29.29-223.5.5.5-是被污染了吗](https://www.v2ex.com/t/674977) ![](assets/new.png)  
-- [2020-05-24-成都美团外卖成都研发中心大量招聘-Java-开发工程师](https://www.v2ex.com/t/674975) ![](assets/new.png)  
-- [2020-05-24-出-领势-Velop-AC1300-Mesh-路由器，价格-350-元](https://www.v2ex.com/t/674974) ![](assets/new.png)  
-- [2020-05-24-springboot-的-docker-镜像要连-mysql-redis（都不是-docker-而是装在系统上），该怎么做？](https://www.v2ex.com/t/674973) ![](assets/new.png)  
-- [2020-05-24-求大佬帮安装一个-mastodon，有偿！](https://www.v2ex.com/t/674972) ![](assets/new.png)  
+- [2020-05-24-今天发现服务器变成了挖矿肉鸡](https://www.v2ex.com/t/674996) ![](assets/new.png)  
+- [2020-05-24-etcd-做服务发现，如果集群挂了，调用服务怎么办](https://www.v2ex.com/t/674995) ![](assets/new.png)  
+- [2020-05-24-用-Swift-写了一个路由组件,-可以做组件化解耦的中心路由控制](https://www.v2ex.com/t/674994)  
+- [2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993)  
+- [2020-05-24-想从成都来深圳](https://www.v2ex.com/t/674991)  
+- [2020-05-24-字节跳动飞书内推，最近疯狂招人，欢迎大佬们投递](https://www.v2ex.com/t/674990)  
+- [2020-05-24-遇到一个非常蛋疼的键盘问题](https://www.v2ex.com/t/674989)  
+- [2020-05-24-自动汉化漫画的工具-默墨汉化](https://www.v2ex.com/t/674988)  
+- [2020-05-24-有没有通过语音或文字在音频文件内搜索信息的-app？](https://www.v2ex.com/t/674987)  
+- [2020-05-24-有没有根据睡姿动态模拟枕头的床垫？](https://www.v2ex.com/t/674986)  
+- [2020-05-24-要去昆明了，有什么蘑菇推荐](https://www.v2ex.com/t/674985)  
+- [2020-05-24-有哪些针对于-Java-web-后端的实用且独具特点的开源项目，各位推荐一下？](https://www.v2ex.com/t/674984)  
+- [2020-05-24-迫于老婆卖水果太佛系，帮忙做个推广，欢迎扫码加微信群，每天都有特价促销产品，主推生鲜水果，另外也有点...](https://www.v2ex.com/t/674983)  
+- [2020-05-24-gbdt-每一轮为什么是在拟合负梯度](https://www.v2ex.com/t/674982)  
+- [2020-05-24-预感自己会被裁员，大家觉得最近工作好找吗](https://www.v2ex.com/t/674981)  
+- [2020-05-24-做了一个微信公众号文章转-PDF-的网站-http://wechat2pdf.com](https://www.v2ex.com/t/674979)  
+- [2020-05-24-请问-Python-用-Subprocess-启动程序，程序启动了两个进程，如何获得这两个进程的-PID](https://www.v2ex.com/t/674978)  
+- [2020-05-24-我的-taobao-重定向-302-死循环了.-119.29.29.29-223.5.5.5-是被污染了吗](https://www.v2ex.com/t/674977)  
+- [2020-05-24-成都美团外卖成都研发中心大量招聘-Java-开发工程师](https://www.v2ex.com/t/674975)  
+- [2020-05-24-出-领势-Velop-AC1300-Mesh-路由器，价格-350-元](https://www.v2ex.com/t/674974)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

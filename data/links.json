@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1",
+        "date": "2020-05-24"
+      },
+      {
+        "title": "白俄罗斯新冠肺炎确诊病例累计超过36198例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1",
+        "date": "2020-05-24"
+      },
+      {
         "title": "德国法兰克福出现聚集性疫情，超40人确诊",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1",
         "date": "2020-05-24"
@@ -10096,6 +10106,16 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "今天发现服务器变成了挖矿肉鸡",
+        "link": "https://www.v2ex.com/t/674996",
+        "date": "2020-05-24"
+      },
+      {
+        "title": "etcd 做服务发现，如果集群挂了，调用服务怎么办",
+        "link": "https://www.v2ex.com/t/674995",
+        "date": "2020-05-24"
+      },
       {
         "title": "用 Swift 写了一个路由组件, 可以做组件化解耦的中心路由控制",
         "link": "https://www.v2ex.com/t/674994",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-24 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-海外中国公民求助绿色通道：外交部12308领保热线24小时运转](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-王毅：中欧班列疫情期间开行提升24%，运送近8000吨防疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7teEMEYYVqm69HjWnGWW200524&isfromapp=1) 
@@ -1074,6 +1076,8 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-24-今天发现服务器变成了挖矿肉鸡](https://www.v2ex.com/t/674996) 
+- [【V2EX】2020-05-24-etcd-做服务发现，如果集群挂了，调用服务怎么办](https://www.v2ex.com/t/674995) 
 - [【V2EX】2020-05-24-用-Swift-写了一个路由组件,-可以做组件化解耦的中心路由控制](https://www.v2ex.com/t/674994) 
 - [【V2EX】2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993) 
 - [【V2EX】2020-05-24-想从成都来深圳](https://www.v2ex.com/t/674991) 

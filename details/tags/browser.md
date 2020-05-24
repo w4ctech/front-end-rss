@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -9,6 +9,7 @@
 
 - [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://china.caixin.com/2020-04-13/101541775.html) 
 - [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html) 
+- [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1) 
 - [2020-05-23-《柳叶刀》刊文指出：美总统推荐药不安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1) 
 - [2020-04-24-Chrome右键来个生成二维码](https://www.ershicimi.com/p/24176417b609354c58c97634b36e8aec) 
 - [2020-04-26-【第1926期】缓存控制中的-stale-while-revalidate](https://www.ershicimi.com/p/e51238a59977cf0abf8d04861867a0f7) 

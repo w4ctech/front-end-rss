@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 07:00:16，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941) ![](assets/new.png)  
+- [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-欧洲感染新冠病毒人数超200万-俄英西意法五国占比超2/3](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1) ![](assets/new.png)  
 - [2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1)  
 - [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1)  
 - [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-23-匈牙利前总理：中国疫情得到控制-经济将快速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfja4UCt5yfFDUsRH3lF200523&isfromapp=1)  
 - [2020-05-23-霍乱、登革热、疟疾等多种传染病在也门同时暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5USIRAIq2WGYurVFgj33200523&isfromapp=1)  
 - [2020-05-23-乌拉圭疫情控制良好-将分地区分阶段复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPg3ldFHlTZO93E9gB37c200523&isfromapp=1)  
-- [2020-05-23-欧洲多国新冠肺炎疫情持续趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3pr2SeWbFwtC0drYBVpm200523&isfromapp=1)  
-- [2020-05-23-前NBA球星尤因确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3JhTNDnwstnQmvS7zLHp200523&isfromapp=1)  
-- [2020-05-23-阿根廷新冠肺炎确诊病例超过1万-或将继续延长全民强制隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMV1VnGYlxPWL9OoQrLUs200523&isfromapp=1)  
-- [2020-05-23-国家卫健委：昨日无新增确诊病例-新增治愈出院3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQUyuRz8q15G4NiZhYlJu200523&isfromapp=1)  
-- [2020-05-23-加拿大新增1138例新冠肺炎确诊病例-累计82480例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -227,6 +227,7 @@
 </summary>
 
 
+- [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220) ![](assets/new.png)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  
@@ -246,7 +247,6 @@
 - [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
 - [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
 - [2020-05-14-【图书】PWA入门与实践](https://www.ershicimi.com/p/3eb2b0c729d8330c19705a452520a37c)  
-- [2020-05-13-【第1943期】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/e5037a76e4f482428460cb732e4d4f04)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,13 +1065,13 @@
 </summary>
 
 
-- [2020-05-24-unc0ver-5.0-正式发布，支持全设备最新系统版本越狱-iOS8-以来第一个-0day-越狱](https://www.v2ex.com/t/674816) ![](assets/new.png)  
-- [2020-05-24-增肌粉的品牌问题？](https://www.v2ex.com/t/674815) ![](assets/new.png)  
-- [2020-05-24-所有的创新和新意会有一天枯竭吗？](https://www.v2ex.com/t/674814) ![](assets/new.png)  
-- [2020-05-24-求问：哪一个音乐.P.T.站支持精确搜索某一首确定的音乐？为了点击率顺便推荐几首超棒的音乐。](https://www.v2ex.com/t/674813) ![](assets/new.png)  
-- [2020-05-24-开始五年的程序员生涯](https://www.v2ex.com/t/674812) ![](assets/new.png)  
-- [2020-05-24-杏子免单抽奖结果贴,以及一些想说的话.](https://www.v2ex.com/t/674808) ![](assets/new.png)  
-- [2020-05-24-被-jvm-编译器蠢哭了](https://www.v2ex.com/t/674807) ![](assets/new.png)  
+- [2020-05-24-unc0ver-5.0-正式发布，支持全设备最新系统版本越狱-iOS8-以来第一个-0day-越狱](https://www.v2ex.com/t/674816)  
+- [2020-05-24-增肌粉的品牌问题？](https://www.v2ex.com/t/674815)  
+- [2020-05-24-所有的创新和新意会有一天枯竭吗？](https://www.v2ex.com/t/674814)  
+- [2020-05-24-求问：哪一个音乐.P.T.站支持精确搜索某一首确定的音乐？为了点击率顺便推荐几首超棒的音乐。](https://www.v2ex.com/t/674813)  
+- [2020-05-24-开始五年的程序员生涯](https://www.v2ex.com/t/674812)  
+- [2020-05-24-杏子免单抽奖结果贴,以及一些想说的话.](https://www.v2ex.com/t/674808)  
+- [2020-05-24-被-jvm-编译器蠢哭了](https://www.v2ex.com/t/674807)  
 - [2020-05-24-Mac-上移动硬盘异常退出后无法正常工作](https://www.v2ex.com/t/674806)  
 - [2020-05-24-如果面试没下文，你们还会重新再投这公司吗？](https://www.v2ex.com/t/674804)  
 - [2020-05-24-gv-号码申请不到了啊！](https://www.v2ex.com/t/674803)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 07:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-24 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-欧洲感染新冠病毒人数超200万-俄英西意法五国占比超2/3](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1) 
@@ -458,6 +463,7 @@
 - [【React中文社区】2020-05-13-一文达到Mysql实战水平](https://www.ershicimi.com/p/f0acfb4c01e6e94632d6f778ab0e7048) 
 - [【React中文社区】2020-05-12-一文掌握Linux实战技能-系统管理篇](https://www.ershicimi.com/p/c0928c6788d3cd2b151112bdc46af9f8) 
 - [【React中文社区】2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
+- [【前端早读课】2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220) 
 - [【前端早读课】2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) 
 - [【前端早读课】2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) 
 - [【前端早读课】2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) 

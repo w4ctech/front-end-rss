@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-24 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -6658,6 +6658,20 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic) 
+- [【开发者头条】2020-05-24-比尔·盖茨-2020-夏季主推书单-&-其他值得阅读的书](https://toutiao.io/k/gthg7hu) 
+- [【开发者头条】2020-05-24-Java-并发编程：线程间通信，等待/通知机制](https://toutiao.io/k/tu7dagf) 
+- [【开发者头条】2020-05-24-C语言探索之旅（第一部分第二课）：工欲善其事，必先利其器](https://toutiao.io/k/hipce55) 
+- [【开发者头条】2020-05-24-想方便快捷的分享/收藏图片？试试免费好用的微博/B站图床](https://toutiao.io/k/7s9zjse) 
+- [【开发者头条】2020-05-24-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw) 
+- [【开发者头条】2020-05-24-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51) 
+- [【开发者头条】2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg) 
+- [【开发者头条】2020-05-24-项目中这样统计方法耗时不香吗？](https://toutiao.io/k/ap1zbqz) 
+- [【开发者头条】2020-05-24-企业级持续交付系统-CircleCI-是怎么炼成的（三）：带你-4-步创建入门级-workflow](https://toutiao.io/k/bm0v7v6) 
+- [【开发者头条】2020-05-24-深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk) 
+- [【开发者头条】2020-05-24-进阶：那些你必须搞懂的网络基础](https://toutiao.io/k/12dlxy1) 
+- [【开发者头条】2020-05-24-Spark-join-种类（>3-种）及-join-选择依据](https://toutiao.io/k/aazm0tv) 
+- [【开发者头条】2020-05-24-重写-500-Lines-or-Less-项目：Web-Server](https://toutiao.io/k/rwyn2m7) 
 - [【开发者头条】2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6) 
 - [【开发者头条】2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j) 
 - [【开发者头条】2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564) 

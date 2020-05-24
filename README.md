@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 09:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233) ![](assets/new.png)  
+- [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233)  
 - [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1)  
 - [2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941)  
 - [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1)  
@@ -1127,26 +1127,26 @@
 </summary>
 
 
+- [2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic) ![](assets/new.png)  
+- [2020-05-24-比尔·盖茨-2020-夏季主推书单-&-其他值得阅读的书](https://toutiao.io/k/gthg7hu) ![](assets/new.png)  
+- [2020-05-24-Java-并发编程：线程间通信，等待/通知机制](https://toutiao.io/k/tu7dagf) ![](assets/new.png)  
+- [2020-05-24-C语言探索之旅（第一部分第二课）：工欲善其事，必先利其器](https://toutiao.io/k/hipce55) ![](assets/new.png)  
+- [2020-05-24-想方便快捷的分享/收藏图片？试试免费好用的微博/B站图床](https://toutiao.io/k/7s9zjse) ![](assets/new.png)  
+- [2020-05-24-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw) ![](assets/new.png)  
+- [2020-05-24-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51) ![](assets/new.png)  
+- [2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg) ![](assets/new.png)  
+- [2020-05-24-项目中这样统计方法耗时不香吗？](https://toutiao.io/k/ap1zbqz) ![](assets/new.png)  
+- [2020-05-24-企业级持续交付系统-CircleCI-是怎么炼成的（三）：带你-4-步创建入门级-workflow](https://toutiao.io/k/bm0v7v6) ![](assets/new.png)  
+- [2020-05-24-深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk) ![](assets/new.png)  
+- [2020-05-24-进阶：那些你必须搞懂的网络基础](https://toutiao.io/k/12dlxy1) ![](assets/new.png)  
+- [2020-05-24-Spark-join-种类（>3-种）及-join-选择依据](https://toutiao.io/k/aazm0tv) ![](assets/new.png)  
+- [2020-05-24-重写-500-Lines-or-Less-项目：Web-Server](https://toutiao.io/k/rwyn2m7) ![](assets/new.png)  
 - [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6)  
 - [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j)  
 - [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564)  
 - [2020-05-23-剑指-offer（31：栈的压入、弹出序列](https://toutiao.io/k/dzff8cx)  
 - [2020-05-23-应用-AST-技术实现自动化升级-React-15-至-React-16-的解决方案](https://toutiao.io/k/xnoxled)  
 - [2020-05-23-Serverless-选型：深度解读-Serverless-架构及平台选择](https://toutiao.io/k/qnhn0z4)  
-- [2020-05-23-Java-并发编程那些事儿（三）：ThreadLocal-原子性与可见性](https://toutiao.io/k/bgmvb41)  
-- [2020-05-23-Java-多线程中使用-JDK-自带工具类实现计数器](https://toutiao.io/k/97ipj0d)  
-- [2020-05-23-为什么腾讯-QQ-的大数据平台选择了这款数据库？](https://toutiao.io/k/sz9f1u0)  
-- [2020-05-23-回溯法、分支限界法两种思想帮你轻松搞定旅行售货员问题-TSP](https://toutiao.io/k/wpdifuy)  
-- [2020-05-23-不要轻易使用-Alpine-镜像来构建-Docker-镜像，有坑](https://toutiao.io/k/ciuqd6g)  
-- [2020-05-23-Spring-Cloud-Alibaba（四）：使用-Nacos-作为注册中心](https://toutiao.io/k/kt4pv1p)  
-- [2020-05-23-GitHub-项目推荐：可视化-GAN-的训练过程](https://toutiao.io/k/vtpn9gk)  
-- [2020-05-23-从赌博中的概率到-AI-中的概率](https://toutiao.io/k/uldc3bv)  
-- [2020-05-23-花椒前端-TypeScript-实践总结](https://toutiao.io/k/jq844wf)  
-- [2020-05-23-Python-绘制-Android-CPU-和内存增长曲线](https://toutiao.io/k/eguc0eb)  
-- [2020-05-22-晓得嘛？混合推荐系统速览和技巧锦囊](https://toutiao.io/k/4ip2nap)  
-- [2020-05-22-深入学习-Three.js-核心对象之（三）：Material](https://toutiao.io/k/6h1f743)  
-- [2020-05-22-kafka-分区数和吞吐量的关系](https://toutiao.io/k/yxr1yeq)  
-- [2020-05-22-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/5at2n7e)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

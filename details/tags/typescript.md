@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -25,5 +25,6 @@
 - [2020-05-09-上海-ARKIE-Web-全栈-/-前端-/-后端-JavaScript-/-TypeScript](https://www.v2ex.com/t/670038) 
 - [2020-05-04-为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458) 
 - [2020-04-26-typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178) 
+- [2020-05-24-深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk) 
 - [2020-05-23-花椒前端-TypeScript-实践总结](https://toutiao.io/k/jq844wf) 
 - [2020-05-20-深入理解-Typescript-高级用法](https://toutiao.io/k/b0gj30z) 

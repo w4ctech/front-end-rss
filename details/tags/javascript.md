@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -147,6 +147,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-24-ARMBIAN-作为路由器配置-IPv6-网络失败](https://www.v2ex.com/t/674894) 
 - [2020-05-24-AngularJS-官网似乎故障了](https://www.v2ex.com/t/674864) 
 - [2020-05-24-如何对前端开源组件进行修改，并重新发布后，在项目汇中引用](https://www.v2ex.com/t/674850) 
 - [2020-05-23-workerman-高仿-QQ-实战](https://www.v2ex.com/t/674743) 

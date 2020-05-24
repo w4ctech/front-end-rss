@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -94,11 +94,12 @@
 </summary>
 
 
-- [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1) ![](assets/new.png)  
-- [2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941) ![](assets/new.png)  
-- [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1) ![](assets/new.png)  
-- [2020-05-24-欧洲感染新冠病毒人数超200万-俄英西意法五国占比超2/3](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1) ![](assets/new.png)  
-- [2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233) ![](assets/new.png)  
+- [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1)  
+- [2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941)  
+- [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1)  
+- [2020-05-24-欧洲感染新冠病毒人数超200万-俄英西意法五国占比超2/3](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1)  
+- [2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1)  
 - [2020-05-23-世卫组织：全球新冠肺炎确诊病例超510万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1)  
 - [2020-05-23-澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1)  
 - [2020-05-23-传播链曝光！韩国首尔夜店关联确诊病例已超200例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE9uAKW592VpA0UJrP21u200523&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-23-世卫组织：南美已经成为疫情的新震中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikmXjZflWxXmf0H4ShRgn200523&isfromapp=1)  
 - [2020-05-23-匈牙利前总理：中国疫情得到控制-经济将快速恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfja4UCt5yfFDUsRH3lF200523&isfromapp=1)  
 - [2020-05-23-霍乱、登革热、疟疾等多种传染病在也门同时暴发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5USIRAIq2WGYurVFgj33200523&isfromapp=1)  
-- [2020-05-23-乌拉圭疫情控制良好-将分地区分阶段复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPg3ldFHlTZO93E9gB37c200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -227,7 +227,7 @@
 </summary>
 
 
-- [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220) ![](assets/new.png)  
+- [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  

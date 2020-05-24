@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -57,6 +57,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-24-nodejs-探索人类本质-实现微信群聊管理，公众号文章链接转发复读机](https://www.v2ex.com/t/674861) 
 - [2020-05-23-怎么用华为云部署-node-服务器？](https://www.v2ex.com/t/674738) 
 - [2020-05-22-Deno-会在短期内取代-Node-吗？](https://www.v2ex.com/t/674250) 
 - [2020-05-21-有-node.js-大佬可以发我一个已编译好的-node-ffi？](https://www.v2ex.com/t/673871) 

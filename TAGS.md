@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-24 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -592,13 +592,13 @@
 - [【InfoQ】最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304)
 - [【InfoQ】手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】docker-的-nginx-怎么编译增加模块?](https://www.v2ex.com/t/674918)
 - [【V2EX】感觉-NAS（如群晖）就应该只放文件，-Docker-和虚拟机没必要](https://www.v2ex.com/t/674705)
 - [【V2EX】想请教一个-Nginx-反向代理跳转的问题](https://www.v2ex.com/t/674498)
 - [【V2EX】liqiubase-更改了-xml-文件导致-docker-里面的-mysql-全都初始化了，有什么回滚的方法么](https://www.v2ex.com/t/674113)
 - [【V2EX】alpine-Linux-跑-docker？](https://www.v2ex.com/t/673940)
 - [【V2EX】有关-Nginx-的疑惑](https://www.v2ex.com/t/673936)
 - [【V2EX】Nginx-能否反代-ocserv-達到使用同一端口](https://www.v2ex.com/t/673399)
-- [【V2EX】nginx-日志记录，怎么给不同的网站-自定义不同的-log_format？](https://www.v2ex.com/t/673260)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

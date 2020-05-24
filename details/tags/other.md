@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-24 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -380,6 +380,7 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-23-好用到叫出声！强烈推荐-10-款-Mac-软件！](https://www.ershicimi.com/p/2d5225e118209e946875c80e244bafe5) 
 - [2020-05-22-程序员编程时戴耳机是在听什么？](https://www.ershicimi.com/p/632a430af28972e96d87e20510987590) 
 - [2020-05-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/36ebfd56d024dbb473b3564d6c31f051) 
 - [2020-05-21-我在阿里是怎么工作的——写在阿里入职一周年](https://www.ershicimi.com/p/2fba3e6f25e34a317e32eca6c65dc07f) 
@@ -1046,6 +1047,17 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-24-Kodi+Plex-on-raspberry-pi-遇到问题](https://www.v2ex.com/t/674839) 
+- [2020-05-24-是否在深圳买房的思考](https://www.v2ex.com/t/674836) 
+- [2020-05-24-🔥内推字节跳动---后端开发工程师（-Python-&Golang）-发展最快的汽车类咨询平台-懂车帝喊你投简历啦！](https://www.v2ex.com/t/674835) 
+- [2020-05-24-Telegram-/-电报如何隐藏电话号码？](https://www.v2ex.com/t/674834) 
+- [2020-05-24-Microsoft-365-/-Office-365-全局管理员被封？不能新建-/-管理子账号，怎么办？](https://www.v2ex.com/t/674833) 
+- [2020-05-24-做了一个在线制作简历的网站：<橙子简历>，求关注+推荐](https://www.v2ex.com/t/674832) 
+- [2020-05-24-降噪耳机是不是可以直接买索尼](https://www.v2ex.com/t/674831) 
+- [2020-05-24-PHP-加密?](https://www.v2ex.com/t/674826) 
+- [2020-05-24-求助！关于-OCSP-装订的问题。](https://www.v2ex.com/t/674824) 
+- [2020-05-24-数据采集遇到困难了](https://www.v2ex.com/t/674823) 
+- [2020-05-24-如何在-MBP-16-寸上，使用全民-K-歌等音乐软件？](https://www.v2ex.com/t/674821) 
 - [2020-05-24-unc0ver-5.0-正式发布，支持全设备最新系统版本越狱-iOS8-以来第一个-0day-越狱](https://www.v2ex.com/t/674816) 
 - [2020-05-24-增肌粉的品牌问题？](https://www.v2ex.com/t/674815) 
 - [2020-05-24-所有的创新和新意会有一天枯竭吗？](https://www.v2ex.com/t/674814) 

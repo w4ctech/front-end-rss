@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 09:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 10:00:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-05-23-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/0d22f23628a3b907629792b43bf96eb6) ![](assets/new.png)  
+- [2020-05-23-好用到叫出声！强烈推荐-10-款-Mac-软件！](https://www.ershicimi.com/p/2d5225e118209e946875c80e244bafe5) ![](assets/new.png)  
 - [2020-05-22-@Winter:基于Vue3.0聊聊架构](https://www.ershicimi.com/p/e3ffb81830f5661f95554a7f91c5aea4)  
 - [2020-05-22-程序员编程时戴耳机是在听什么？](https://www.ershicimi.com/p/632a430af28972e96d87e20510987590)  
 - [2020-05-21-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/36ebfd56d024dbb473b3564d6c31f051)  
@@ -164,8 +166,6 @@
 - [2020-05-14-微信群突然冒出“免费教画画”的女大学生，小心有诈！](https://www.ershicimi.com/p/6d4428777a01a1ff1811321470359288)  
 - [2020-05-13-我有一招，让你不再越努力越迷茫](https://www.ershicimi.com/p/7e615e1c9386efd73c77d64619ff8652)  
 - [2020-05-13-2020年加班工资新规定：1.5倍、2倍、3倍，终于理清楚了！](https://www.ershicimi.com/p/ef71cff79e5301f436929382ad72e2a2)  
-- [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/3dcfa4a1c27883756ed9b9fa8838f0cd)  
-- [2020-05-12-Nginx-从入门到实践，万字详解！](https://www.ershicimi.com/p/5216e94e985acd1a9772c7d12f638f44)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
+- [2020-05-24-Kodi+Plex-on-raspberry-pi-遇到问题](https://www.v2ex.com/t/674839) ![](assets/new.png)  
+- [2020-05-24-是否在深圳买房的思考](https://www.v2ex.com/t/674836) ![](assets/new.png)  
+- [2020-05-24-🔥内推字节跳动---后端开发工程师（-Python-&Golang）-发展最快的汽车类咨询平台-懂车帝喊你投简历啦！](https://www.v2ex.com/t/674835) ![](assets/new.png)  
+- [2020-05-24-Telegram-/-电报如何隐藏电话号码？](https://www.v2ex.com/t/674834) ![](assets/new.png)  
+- [2020-05-24-Microsoft-365-/-Office-365-全局管理员被封？不能新建-/-管理子账号，怎么办？](https://www.v2ex.com/t/674833) ![](assets/new.png)  
+- [2020-05-24-做了一个在线制作简历的网站：<橙子简历>，求关注+推荐](https://www.v2ex.com/t/674832) ![](assets/new.png)  
+- [2020-05-24-降噪耳机是不是可以直接买索尼](https://www.v2ex.com/t/674831) ![](assets/new.png)  
+- [2020-05-24-有没有大佬尝试过-quibi-的视频怎么下载？](https://www.v2ex.com/t/674827) ![](assets/new.png)  
+- [2020-05-24-PHP-加密?](https://www.v2ex.com/t/674826) ![](assets/new.png)  
+- [2020-05-24-是否可以把二进制数据编码到可播放的视频文件？](https://www.v2ex.com/t/674825) ![](assets/new.png)  
+- [2020-05-24-求助！关于-OCSP-装订的问题。](https://www.v2ex.com/t/674824) ![](assets/new.png)  
+- [2020-05-24-数据采集遇到困难了](https://www.v2ex.com/t/674823) ![](assets/new.png)  
+- [2020-05-24-3.5-年.NET-全栈开发，杭州、上海有坑不？](https://www.v2ex.com/t/674822) ![](assets/new.png)  
+- [2020-05-24-如何在-MBP-16-寸上，使用全民-K-歌等音乐软件？](https://www.v2ex.com/t/674821) ![](assets/new.png)  
 - [2020-05-24-unc0ver-5.0-正式发布，支持全设备最新系统版本越狱-iOS8-以来第一个-0day-越狱](https://www.v2ex.com/t/674816)  
 - [2020-05-24-增肌粉的品牌问题？](https://www.v2ex.com/t/674815)  
 - [2020-05-24-所有的创新和新意会有一天枯竭吗？](https://www.v2ex.com/t/674814)  
 - [2020-05-24-求问：哪一个音乐.P.T.站支持精确搜索某一首确定的音乐？为了点击率顺便推荐几首超棒的音乐。](https://www.v2ex.com/t/674813)  
 - [2020-05-24-开始五年的程序员生涯](https://www.v2ex.com/t/674812)  
 - [2020-05-24-杏子免单抽奖结果贴,以及一些想说的话.](https://www.v2ex.com/t/674808)  
-- [2020-05-24-被-jvm-编译器蠢哭了](https://www.v2ex.com/t/674807)  
-- [2020-05-24-Mac-上移动硬盘异常退出后无法正常工作](https://www.v2ex.com/t/674806)  
-- [2020-05-24-如果面试没下文，你们还会重新再投这公司吗？](https://www.v2ex.com/t/674804)  
-- [2020-05-24-gv-号码申请不到了啊！](https://www.v2ex.com/t/674803)  
-- [2020-05-24-新博客备案后合法合规注意事项？](https://www.v2ex.com/t/674802)  
-- [2020-05-24-下半年大四，想找后台开发工作，准备什么技术栈比较有竞争力？](https://www.v2ex.com/t/674801)  
-- [2020-05-23-阿里巴巴供应链团队长期招聘-Java-工程师](https://www.v2ex.com/t/674800)  
-- [2020-05-23-被四块-10TB-的硬盘吵的失眠，该怎么办？](https://www.v2ex.com/t/674798)  
-- [2020-05-23-新版-edge-小游戏](https://www.v2ex.com/t/674797)  
-- [2020-05-23-iPhone-官方回收折抵，体验很不错](https://www.v2ex.com/t/674796)  
-- [2020-05-23-手写-JIT-编译器,-三天时间能学会吗狗头,-第二天?](https://www.v2ex.com/t/674795)  
-- [2020-05-23-为什么哈萨克斯坦访问香港网站，要绕一大圈？](https://www.v2ex.com/t/674794)  
-- [2020-05-23-关于找工作问题](https://www.v2ex.com/t/674793)  
-- [2020-05-23-作为资深-md-工程师，安利一个高颜值的文档神器](https://www.v2ex.com/t/674792)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,20 +1127,20 @@
 </summary>
 
 
-- [2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic) ![](assets/new.png)  
-- [2020-05-24-比尔·盖茨-2020-夏季主推书单-&-其他值得阅读的书](https://toutiao.io/k/gthg7hu) ![](assets/new.png)  
-- [2020-05-24-Java-并发编程：线程间通信，等待/通知机制](https://toutiao.io/k/tu7dagf) ![](assets/new.png)  
-- [2020-05-24-C语言探索之旅（第一部分第二课）：工欲善其事，必先利其器](https://toutiao.io/k/hipce55) ![](assets/new.png)  
-- [2020-05-24-想方便快捷的分享/收藏图片？试试免费好用的微博/B站图床](https://toutiao.io/k/7s9zjse) ![](assets/new.png)  
-- [2020-05-24-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw) ![](assets/new.png)  
-- [2020-05-24-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51) ![](assets/new.png)  
-- [2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg) ![](assets/new.png)  
-- [2020-05-24-项目中这样统计方法耗时不香吗？](https://toutiao.io/k/ap1zbqz) ![](assets/new.png)  
-- [2020-05-24-企业级持续交付系统-CircleCI-是怎么炼成的（三）：带你-4-步创建入门级-workflow](https://toutiao.io/k/bm0v7v6) ![](assets/new.png)  
-- [2020-05-24-深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk) ![](assets/new.png)  
-- [2020-05-24-进阶：那些你必须搞懂的网络基础](https://toutiao.io/k/12dlxy1) ![](assets/new.png)  
-- [2020-05-24-Spark-join-种类（>3-种）及-join-选择依据](https://toutiao.io/k/aazm0tv) ![](assets/new.png)  
-- [2020-05-24-重写-500-Lines-or-Less-项目：Web-Server](https://toutiao.io/k/rwyn2m7) ![](assets/new.png)  
+- [2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic)  
+- [2020-05-24-比尔·盖茨-2020-夏季主推书单-&-其他值得阅读的书](https://toutiao.io/k/gthg7hu)  
+- [2020-05-24-Java-并发编程：线程间通信，等待/通知机制](https://toutiao.io/k/tu7dagf)  
+- [2020-05-24-C语言探索之旅（第一部分第二课）：工欲善其事，必先利其器](https://toutiao.io/k/hipce55)  
+- [2020-05-24-想方便快捷的分享/收藏图片？试试免费好用的微博/B站图床](https://toutiao.io/k/7s9zjse)  
+- [2020-05-24-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw)  
+- [2020-05-24-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51)  
+- [2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg)  
+- [2020-05-24-项目中这样统计方法耗时不香吗？](https://toutiao.io/k/ap1zbqz)  
+- [2020-05-24-企业级持续交付系统-CircleCI-是怎么炼成的（三）：带你-4-步创建入门级-workflow](https://toutiao.io/k/bm0v7v6)  
+- [2020-05-24-深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk)  
+- [2020-05-24-进阶：那些你必须搞懂的网络基础](https://toutiao.io/k/12dlxy1)  
+- [2020-05-24-Spark-join-种类（>3-种）及-join-选择依据](https://toutiao.io/k/aazm0tv)  
+- [2020-05-24-重写-500-Lines-or-Less-项目：Web-Server](https://toutiao.io/k/rwyn2m7)  
 - [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6)  
 - [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j)  
 - [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564)  

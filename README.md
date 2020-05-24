@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-24 14:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-24 14:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-24-缅甸新冠肺炎确诊病例中超过一半为无症状患者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifIpDUlsKp8tl1uXcB7BH200524&isfromapp=1) ![](assets/new.png)  
+- [2020-05-24-巴西圣保罗“小长假”隔离效果欠佳，市政府或考虑“封城令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFSfb9TTqViwuLdFXMTcz200524&isfromapp=1) ![](assets/new.png)  
 - [2020-05-24-疫情形势好转之后能够出现报复性消费？国家发改委：恢复性消费是肯定的](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFv0EicoKVNQd9wSoWJcJ200524&isfromapp=1)  
 - [2020-05-24-中国政府抗疫医疗专家组抵达秘鲁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS17lFDUM1DEAKHpo3gII200524&isfromapp=1)  
 - [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233)  
@@ -112,8 +114,6 @@
 - [2020-05-23-​莫斯科完成超-5-万次新冠病毒抗体测试，12%-受检市民获得抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGunkn2CRQbZYhhtxsmSA200523&isfromapp=1)  
 - [2020-05-23-复航！武夷山机场-6-月-1-日起恢复​北京航线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipnSXFDt9IgLLe5QsMGFt200523&isfromapp=1)  
 - [2020-05-23-张文宏介绍新冠疫苗进展](http://m.weibo.cn/2803301701/4507774081710236)  
-- [2020-05-23-缅甸连续超过五天无本地新增新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5FpmGzlESrMSmyJdstgI200523&isfromapp=1)  
-- [2020-05-23-世卫组织：南美已经成为疫情的新震中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikmXjZflWxXmf0H4ShRgn200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,14 +1065,14 @@
 </summary>
 
 
-- [2020-05-24-找工作的困扰](https://www.v2ex.com/t/674893) ![](assets/new.png)  
-- [2020-05-24-Devonthink-3-Pro-Server（原价-400-刀）开车，-600RMB-就行，总共开-10-个位置。](https://www.v2ex.com/t/674892) ![](assets/new.png)  
-- [2020-05-24-如何给-youtube-反馈问题?](https://www.v2ex.com/t/674890) ![](assets/new.png)  
-- [2020-05-24-爱奇艺星钻-VIP-会员年卡半价特惠-238-元，奇异果电视通用](https://www.v2ex.com/t/674889) ![](assets/new.png)  
-- [2020-05-24-欢迎投递字节跳动飞书团队，大力招人中](https://www.v2ex.com/t/674888) ![](assets/new.png)  
-- [2020-05-24-mac-上有什么开源的框架，能在此基础上写自定义的插件吗？](https://www.v2ex.com/t/674887) ![](assets/new.png)  
-- [2020-05-24-为什么要干掉那些喜欢卖弄细枝末节的家伙.](https://www.v2ex.com/t/674886) ![](assets/new.png)  
-- [2020-05-24-想加入一个技术氛围比较好的微信群](https://www.v2ex.com/t/674884) ![](assets/new.png)  
+- [2020-05-24-找工作的困扰](https://www.v2ex.com/t/674893)  
+- [2020-05-24-Devonthink-3-Pro-Server（原价-400-刀）开车，-600RMB-就行，总共开-10-个位置。](https://www.v2ex.com/t/674892)  
+- [2020-05-24-如何给-youtube-反馈问题?](https://www.v2ex.com/t/674890)  
+- [2020-05-24-爱奇艺星钻-VIP-会员年卡半价特惠-238-元，奇异果电视通用](https://www.v2ex.com/t/674889)  
+- [2020-05-24-欢迎投递字节跳动飞书团队，大力招人中](https://www.v2ex.com/t/674888)  
+- [2020-05-24-mac-上有什么开源的框架，能在此基础上写自定义的插件吗？](https://www.v2ex.com/t/674887)  
+- [2020-05-24-为什么要干掉那些喜欢卖弄细枝末节的家伙.](https://www.v2ex.com/t/674886)  
+- [2020-05-24-想加入一个技术氛围比较好的微信群](https://www.v2ex.com/t/674884)  
 - [2020-05-24-考研基本确定上岸了，关于研究方向和导师选择有太多迷茫想请教各位](https://www.v2ex.com/t/674882)  
 - [2020-05-24-在北上深，拿着首付吃利息交房租不香吗？](https://www.v2ex.com/t/674881)  
 - [2020-05-24-滴滴出行，拼团-3-元购-5-张-5-元券](https://www.v2ex.com/t/674880)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-24 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-24 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-缅甸新冠肺炎确诊病例中超过一半为无症状患者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifIpDUlsKp8tl1uXcB7BH200524&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-巴西圣保罗“小长假”隔离效果欠佳，市政府或考虑“封城令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFSfb9TTqViwuLdFXMTcz200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-疫情形势好转之后能够出现报复性消费？国家发改委：恢复性消费是肯定的](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFv0EicoKVNQd9wSoWJcJ200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-中国政府抗疫医疗专家组抵达秘鲁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS17lFDUM1DEAKHpo3gII200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233) 

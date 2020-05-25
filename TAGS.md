@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-25 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 20:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -448,13 +448,13 @@
 - [【前端圈】视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed)
 - [【前端圈】视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138)
 - [【前端大学】【项目实战视频+源码】20w前端程序员疯抢的成长大礼包！](https://www.ershicimi.com/p/ee043396877b393af5dd518e3d860621)
+- [【前端之巅】缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21)
 - [【前端之巅】前端越管越宽，腾讯Now直播如何把监控体系做到极致？](https://www.ershicimi.com/p/de42396b809f71d79e4e253d175983ad)
 - [【前端迷】视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9)
 - [【Nodejs技术栈】微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
-- [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

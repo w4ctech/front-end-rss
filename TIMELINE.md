@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-外交部：将在力所能及范围内继续对非洲提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOsnJZqH7VLU1yrjVZzMu200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1) 
@@ -643,6 +645,10 @@
 - [【前端大学】2020-05-06-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/d1b8fed7619b95a02538154895ed9c0a) 
 - [【前端大学】2020-05-05-微信又添新功能！这个微信群可以学英语，而且全程免费](https://www.ershicimi.com/p/d3bf99ffeb6b534859ead2f3f402807f) 
 - [【前端大学】2020-05-05-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/d5ef9e5ca4ca10d8c13abaa901598ab6) 
+- [【前端之巅】2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae) 
+- [【前端之巅】2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869) 
+- [【前端之巅】2020-05-22-缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21) 
+- [【前端之巅】2020-05-22-牛逼的架构师，从很久以前就开始牛逼了...-|-极客时间](https://www.ershicimi.com/p/c09fd661afc7e30e68b73f73723122ba) 
 - [【前端之巅】2020-05-21-不用框架2周写一个电商网站，同济软工系前端小作业引热议](https://www.ershicimi.com/p/1c02bc22d6a3c52854bf5301c55226bb) 
 - [【前端之巅】2020-05-21-JavaScript原型：关于对象的深入研究](https://www.ershicimi.com/p/247955499df22f039f3e8b60d7383eb7) 
 - [【前端之巅】2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf) 

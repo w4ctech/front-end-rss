@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1) 
 - [2020-05-25-外交部：将在力所能及范围内继续对非洲提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOsnJZqH7VLU1yrjVZzMu200525&isfromapp=1) 
 - [2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml) 
 - [2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1) 
@@ -532,6 +533,9 @@
 - [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) 
 - [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) 
 - [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) 
+- [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae) 
+- [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869) 
+- [2020-05-22-牛逼的架构师，从很久以前就开始牛逼了...-|-极客时间](https://www.ershicimi.com/p/c09fd661afc7e30e68b73f73723122ba) 
 - [2020-05-21-不用框架2周写一个电商网站，同济软工系前端小作业引热议](https://www.ershicimi.com/p/1c02bc22d6a3c52854bf5301c55226bb) 
 - [2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d) 
 - [2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886) 

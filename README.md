@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 19:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 20:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-25-外交部：将在力所能及范围内继续对非洲提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOsnJZqH7VLU1yrjVZzMu200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-外交部：将在力所能及范围内继续对非洲提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOsnJZqH7VLU1yrjVZzMu200525&isfromapp=1)  
 - [2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml)  
 - [2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1)  
 - [2020-05-25-伊拉克疫情突然恶化-议会呼吁恢复全面宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKitCWnRqoVPtRQ6Prxp200525&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-25-阿根廷新冠肺炎确诊病例累计12076例-首都地区加强防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1)  
 - [2020-05-25-内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1)  
 - [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1)  
-- [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1)  
-- [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -414,6 +414,10 @@
 </summary>
 
 
+- [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae) ![](assets/new.png)  
+- [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869) ![](assets/new.png)  
+- [2020-05-22-缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21) ![](assets/new.png)  
+- [2020-05-22-牛逼的架构师，从很久以前就开始牛逼了...-|-极客时间](https://www.ershicimi.com/p/c09fd661afc7e30e68b73f73723122ba) ![](assets/new.png)  
 - [2020-05-21-不用框架2周写一个电商网站，同济软工系前端小作业引热议](https://www.ershicimi.com/p/1c02bc22d6a3c52854bf5301c55226bb)  
 - [2020-05-21-JavaScript原型：关于对象的深入研究](https://www.ershicimi.com/p/247955499df22f039f3e8b60d7383eb7)  
 - [2020-05-20-Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf)  
@@ -430,10 +434,6 @@
 - [2020-05-14-贝壳找房移动端在动态化、模块化、Flutter的经验总结-|-GMTC](https://www.ershicimi.com/p/318d5fb765531582642d1a9e3c22d4f0)  
 - [2020-05-13-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/cbbbd3ec516277f427f07474f27376d3)  
 - [2020-05-13-ESLint-v7.0.0-发布：不再支持-Node.js-v8](https://www.ershicimi.com/p/65681eb8c10af492a930a4feaa73f710)  
-- [2020-05-13-前端究竟怎么学？——我的学习路径和方法-|-极客大学](https://www.ershicimi.com/p/a13f14f176b769aef0115d87e2c7f3c0)  
-- [2020-05-12-2020Web开发学习路线图：从前端，到全栈](https://www.ershicimi.com/p/a85f6e96ae2a73100dd7d9a92fe6610f)  
-- [2020-05-12-10个10倍提升编程技能的有用技巧](https://www.ershicimi.com/p/e9bfb369f5d91ec4d03b47bf86914073)  
-- [2020-05-11-技术招聘已经变味了](https://www.ershicimi.com/p/6cd8c64a1541dea63d004405dad11838)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

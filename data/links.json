@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "南非全国从6月1日起进入三级防控状态",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎累计确诊5206614例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1",
+        "date": "2020-05-25"
+      },
+      {
         "title": "白宫经济顾问：美国5月失业率将达20%，6月会更高",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1",
         "date": "2020-05-24"
@@ -10151,6 +10161,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "专门为机器学习与 AI 技术交流而建立的社区 AskGo",
+        "link": "https://www.v2ex.com/t/675062",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "想问大家个问题？",
+        "link": "https://www.v2ex.com/t/675061",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "到底什么原因导致 wsl 上 PHP 无法用 fastcgi 呢",
+        "link": "https://www.v2ex.com/t/675060",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "PHP 高级开发工程师，兼职，底薪+利润分红",
+        "link": "https://www.v2ex.com/t/675059",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "关于 coding.net 的 cloud studio",
+        "link": "https://www.v2ex.com/t/675058",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "顺丰、京东和四通一达为区别，就是取快递的时候代收点的人态度好 1%！",
+        "link": "https://www.v2ex.com/t/675057",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "MBP 16 寸上使用 Caldigit ts3 plus",
+        "link": "https://www.v2ex.com/t/675056",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "快来玩吧！ imByteCat MC 基岩版原版生存！",
+        "link": "https://www.v2ex.com/t/675054",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "[月经贴] golang 能否完全替代 c++？",
+        "link": "https://www.v2ex.com/t/675052",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "没面试上，但很想去，你还会再投吗？",
+        "link": "https://www.v2ex.com/t/675050",
+        "date": "2020-05-25"
+      },
       {
         "title": "目前来看这份黑苹果配置单怎么样？",
         "link": "https://www.v2ex.com/t/675049",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -185,6 +185,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1) 
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1) 
 - [2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1) 
 - [2020-05-24-海外中国公民求助绿色通道：外交部12308领保热线24小时运转](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1) 
@@ -1062,6 +1063,13 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-25-专门为机器学习与-AI-技术交流而建立的社区-AskGo](https://www.v2ex.com/t/675062) 
+- [2020-05-25-想问大家个问题？](https://www.v2ex.com/t/675061) 
+- [2020-05-25-PHP-高级开发工程师，兼职，底薪+利润分红](https://www.v2ex.com/t/675059) 
+- [2020-05-25-关于-coding.net-的-cloud-studio](https://www.v2ex.com/t/675058) 
+- [2020-05-25-顺丰、京东和四通一达为区别，就是取快递的时候代收点的人态度好-1%！](https://www.v2ex.com/t/675057) 
+- [2020-05-25-快来玩吧！-imByteCat-MC-基岩版原版生存！](https://www.v2ex.com/t/675054) 
+- [2020-05-25-月经贴-golang-能否完全替代-c++？](https://www.v2ex.com/t/675052) 
 - [2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049) 
 - [2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048) 
 - [2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047) 

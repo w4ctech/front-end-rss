@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 08:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1) ![](assets/new.png)  
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
 - [2020-05-24-日本新增42例新冠肺炎确诊病例，累计确诊16611例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHve4Rlp3aBypeILRonz200524&isfromapp=1)  
 - [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1)  
 - [2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941)  
 - [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1)  
-- [2020-05-24-欧洲感染新冠病毒人数超200万-俄英西意法五国占比超2/3](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1)  
-- [2020-05-24-巴西或将通过法案以减少原住民感染新冠肺炎的风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,6 +1065,16 @@
 </summary>
 
 
+- [2020-05-25-专门为机器学习与-AI-技术交流而建立的社区-AskGo](https://www.v2ex.com/t/675062) ![](assets/new.png)  
+- [2020-05-25-想问大家个问题？](https://www.v2ex.com/t/675061) ![](assets/new.png)  
+- [2020-05-25-到底什么原因导致-wsl-上-PHP-无法用-fastcgi-呢](https://www.v2ex.com/t/675060) ![](assets/new.png)  
+- [2020-05-25-PHP-高级开发工程师，兼职，底薪+利润分红](https://www.v2ex.com/t/675059) ![](assets/new.png)  
+- [2020-05-25-关于-coding.net-的-cloud-studio](https://www.v2ex.com/t/675058) ![](assets/new.png)  
+- [2020-05-25-顺丰、京东和四通一达为区别，就是取快递的时候代收点的人态度好-1%！](https://www.v2ex.com/t/675057) ![](assets/new.png)  
+- [2020-05-25-MBP-16-寸上使用-Caldigit-ts3-plus](https://www.v2ex.com/t/675056) ![](assets/new.png)  
+- [2020-05-25-快来玩吧！-imByteCat-MC-基岩版原版生存！](https://www.v2ex.com/t/675054) ![](assets/new.png)  
+- [2020-05-25-月经贴-golang-能否完全替代-c++？](https://www.v2ex.com/t/675052) ![](assets/new.png)  
+- [2020-05-25-没面试上，但很想去，你还会再投吗？](https://www.v2ex.com/t/675050) ![](assets/new.png)  
 - [2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049)  
 - [2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048)  
 - [2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047)  
@@ -1075,16 +1085,6 @@
 - [2020-05-25-请教一下大神，-Quiver-的网页剪辑如何把里面的图片在-quiver-本地化？有解决方案吗？](https://www.v2ex.com/t/675042)  
 - [2020-05-24-iOS-上有什么比较好的可以下载网页视频的方法？](https://www.v2ex.com/t/675041)  
 - [2020-05-24-写了一个域名文本验证的平台，常用于微信公众号、广告联盟业务域名验证](https://www.v2ex.com/t/675040)  
-- [2020-05-24-有玩大疆机甲大师-EP-的朋友不？我最近做了个-SDK，和-OpenCV-搭配做了个守门员](https://www.v2ex.com/t/675038)  
-- [2020-05-24-iPad-mini（第-5-代）充电问题求助](https://www.v2ex.com/t/675037)  
-- [2020-05-24-上海电信-4g-网络可以是-full-conenat1，手机热点是-nat3，如何设置成-nat1比如-dmz-啥的？](https://www.v2ex.com/t/675036)  
-- [2020-05-24-请问软件开发类高级证书，具体指的是哪些证书](https://www.v2ex.com/t/675034)  
-- [2020-05-24-有没有能注销个人存在于互联网的所有账号](https://www.v2ex.com/t/675032)  
-- [2020-05-24-做了个区块链-Hacker-News-社区](https://www.v2ex.com/t/675031)  
-- [2020-05-24-JupyterLab-插件功能小贴士](https://www.v2ex.com/t/675030)  
-- [2020-05-24-北京-奇虎-360-美国商务部认证高科技企业-核心业务-安全大脑-持续热招-诚聘-高级/资深-Web-前...](https://www.v2ex.com/t/675029)  
-- [2020-05-24-iCloud-邮箱没退信？](https://www.v2ex.com/t/675027)  
-- [2020-05-24-`${#varname}`-是怎么让-让-hexo-部署挂掉的??](https://www.v2ex.com/t/675026)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,7 +1127,7 @@
 </summary>
 
 
-- [2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f) ![](assets/new.png)  
+- [2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f)  
 - [2020-05-24-如何使用-frp-实现内网穿透](https://toutiao.io/k/np929ps)  
 - [2020-05-24-使用-cquery：C++-language-server](https://toutiao.io/k/obv13oa)  
 - [2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic)  

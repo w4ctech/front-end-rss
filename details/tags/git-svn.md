@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -37,6 +37,7 @@
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-05-25-MBP-16-寸上使用-Caldigit-ts3-plus](https://www.v2ex.com/t/675056) 
 - [2020-05-24-刚来上海工作，话说-V-友们都用啥宽带，哪个运营商有上行高点的宽带，访问-Github-速度快点！](https://www.v2ex.com/t/674856) 
 - [2020-05-23-低调安利一款基于-gitops-的运维自动化产品](https://www.v2ex.com/t/674618) 
 - [2020-05-22-一起写一个-Linux-初版的-git-吧！](https://www.v2ex.com/t/674356) 

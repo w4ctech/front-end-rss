@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-日本新增42例新冠肺炎确诊病例，累计确诊16611例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHve4Rlp3aBypeILRonz200524&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1) 
@@ -1085,6 +1087,16 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-25-专门为机器学习与-AI-技术交流而建立的社区-AskGo](https://www.v2ex.com/t/675062) 
+- [【V2EX】2020-05-25-想问大家个问题？](https://www.v2ex.com/t/675061) 
+- [【V2EX】2020-05-25-到底什么原因导致-wsl-上-PHP-无法用-fastcgi-呢](https://www.v2ex.com/t/675060) 
+- [【V2EX】2020-05-25-PHP-高级开发工程师，兼职，底薪+利润分红](https://www.v2ex.com/t/675059) 
+- [【V2EX】2020-05-25-关于-coding.net-的-cloud-studio](https://www.v2ex.com/t/675058) 
+- [【V2EX】2020-05-25-顺丰、京东和四通一达为区别，就是取快递的时候代收点的人态度好-1%！](https://www.v2ex.com/t/675057) 
+- [【V2EX】2020-05-25-MBP-16-寸上使用-Caldigit-ts3-plus](https://www.v2ex.com/t/675056) 
+- [【V2EX】2020-05-25-快来玩吧！-imByteCat-MC-基岩版原版生存！](https://www.v2ex.com/t/675054) 
+- [【V2EX】2020-05-25-月经贴-golang-能否完全替代-c++？](https://www.v2ex.com/t/675052) 
+- [【V2EX】2020-05-25-没面试上，但很想去，你还会再投吗？](https://www.v2ex.com/t/675050) 
 - [【V2EX】2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049) 
 - [【V2EX】2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048) 
 - [【V2EX】2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047) 

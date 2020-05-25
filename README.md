@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 18:00:20，:rocket: 更新条数: +45， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1) ![](assets/new.png)  
-- [2020-05-25-伊拉克疫情突然恶化-议会呼吁恢复全面宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKitCWnRqoVPtRQ6Prxp200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml) ![](assets/new.png)  
+- [2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1)  
+- [2020-05-25-伊拉克疫情突然恶化-议会呼吁恢复全面宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKitCWnRqoVPtRQ6Prxp200525&isfromapp=1)  
 - [2020-05-25-俄罗斯新增新冠肺炎确诊病例8946例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6fvq5PYRt7PcWOvMSbR200525&isfromapp=1)  
 - [2020-05-25-刚果（金）新增156例新冠肺炎确诊病例-累计确诊2297例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR340UUT8Rx71Dygbna6u200525&isfromapp=1)  
 - [2020-05-25-中国驻印度大使馆：协助确有困难的留学生、游客等搭乘临时航班回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7m3fqPFtHodRJ0bs2Qi200525&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1)  
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
 - [2020-05-24-日本新增42例新冠肺炎确诊病例，累计确诊16611例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHve4Rlp3aBypeILRonz200524&isfromapp=1)  
-- [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-25-面对一个被动端口是-5000-65535-的-NT-SERVER-FTP，怎样才能保证安全？](https://www.v2ex.com/t/675230)  
-- [2020-05-25-国内技术书盗版现状](https://www.v2ex.com/t/675228)  
-- [2020-05-25-AI-量化投资公司--DevOps-Engineer--40-60-万+奖金-北京](https://www.v2ex.com/t/675227)  
-- [2020-05-25-Work-collaboration-unicorn-Notion-is-blocked-in-China](https://www.v2ex.com/t/675226)  
-- [2020-05-25-有没有和俺一样的？](https://www.v2ex.com/t/675225)  
-- [2020-05-25-有还没有补税的童鞋么，这个月缴费期限就截至么](https://www.v2ex.com/t/675224)  
-- [2020-05-25-微软：正式发布针对-.NET-Core-的-Winform-设计器](https://www.v2ex.com/t/675223)  
-- [2020-05-25-联想办公台式机该如何升级显卡玩游戏？](https://www.v2ex.com/t/675221)  
-- [2020-05-25-杭州求职-求个杭州-Java-坑位](https://www.v2ex.com/t/675217)  
-- [2020-05-25-招商银行-APP-抽奖-10-元话费](https://www.v2ex.com/t/675216)  
-- [2020-05-25-微博国际版，你们的夜间模式自动切换何时能修复](https://www.v2ex.com/t/675215)  
-- [2020-05-25-一加-8-or-iPhone-xs](https://www.v2ex.com/t/675214)  
-- [2020-05-25-在-V2-发帖子一直很谨慎-只要发了字数都不少-有时候主题沉底是咋回事](https://www.v2ex.com/t/675212)  
-- [2020-05-25-南京内推-联蔚科技-诚聘资深前端开发工程师！](https://www.v2ex.com/t/675211)  
-- [2020-05-25-有在郑州工作的小伙伴吗？互联网环境怎么样？](https://www.v2ex.com/t/675210)  
-- [2020-05-25-双-apple-ID-的你是否也出现大量应用重复更新的问题？](https://www.v2ex.com/t/675209)  
-- [2020-05-25-Linux-桌面开发用什么？](https://www.v2ex.com/t/675208)  
-- [2020-05-25-wx-上收藏的表情专辑全没了，是什么原因](https://www.v2ex.com/t/675207)  
-- [2020-05-25-萌新求教，爬网页反混淆需要学-js-那些方面的知识？](https://www.v2ex.com/t/675204)  
-- [2020-05-25-各位大佬们，想问下在上海能骑摩托车嘛？](https://www.v2ex.com/t/675203)  
+- [2020-05-25-Container---为-Go-语言而生的运行时依赖注入容器](https://www.v2ex.com/t/675338) ![](assets/new.png)  
+- [2020-05-25-Swap-用成这样是不是内存不足的表现](https://www.v2ex.com/t/675337) ![](assets/new.png)  
+- [2020-05-25-关于-Python-的-asyncio-协程的问题。](https://www.v2ex.com/t/675336) ![](assets/new.png)  
+- [2020-05-25-有没有用-gan-65-的充电器配合-type-c-转-magsafe2-给-15-寸-mbp-充电的](https://www.v2ex.com/t/675335) ![](assets/new.png)  
+- [2020-05-25-国外域名注册商是不是基本都没办法给域名做实名认证？](https://www.v2ex.com/t/675333) ![](assets/new.png)  
+- [2020-05-25-公司现在乱打绩效，并且在发工资之前不进行面谈，现在让签字怎么破？](https://www.v2ex.com/t/675332) ![](assets/new.png)  
+- [2020-05-25-没有示例的开源项目都是耍流氓](https://www.v2ex.com/t/675331) ![](assets/new.png)  
+- [2020-05-25-继打架之后，现在又来长时间舔毛](https://www.v2ex.com/t/675329) ![](assets/new.png)  
+- [2020-05-25-你们美服-LOL-延迟多少？](https://www.v2ex.com/t/675328) ![](assets/new.png)  
+- [2020-05-25-福豹厂-数字政务中台部社招](https://www.v2ex.com/t/675327) ![](assets/new.png)  
+- [2020-05-25-发现一个可以在线预览-Windows-Terminal-主题的工具页](https://www.v2ex.com/t/675326) ![](assets/new.png)  
+- [2020-05-25-小米和-360-的行车记录仪哪个好~](https://www.v2ex.com/t/675325) ![](assets/new.png)  
+- [2020-05-25-CheckPermission:-_bluetooth-code-=-10](https://www.v2ex.com/t/675324) ![](assets/new.png)  
+- [2020-05-25-azure-被计费了咋办？](https://www.v2ex.com/t/675323) ![](assets/new.png)  
+- [2020-05-25-幕言，一个专注于字幕/文本语音合成配音的线上工具！支持多人配音、字幕同步、小语种配音！](https://www.v2ex.com/t/675322) ![](assets/new.png)  
+- [2020-05-25-入职了一个工作环境比较差，工资还可以的公司，应该向老板提要求，还是直接找下家](https://www.v2ex.com/t/675321) ![](assets/new.png)  
+- [2020-05-25-武汉-跟谁学武汉研发中学招各级别前端/-Java-/测试欢迎一线老乡们回汉](https://www.v2ex.com/t/675320) ![](assets/new.png)  
+- [2020-05-25-我的同事的编程技能实在是太弱了](https://www.v2ex.com/t/675319) ![](assets/new.png)  
+- [2020-05-25-AMD-4800U-装-Ubuntu20.04-声音异常](https://www.v2ex.com/t/675318) ![](assets/new.png)  
+- [2020-05-25-各位公司内部沟通有用-Microsoft-Teams-的吗](https://www.v2ex.com/t/675316) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

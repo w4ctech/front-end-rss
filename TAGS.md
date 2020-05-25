@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-25 17:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -592,13 +592,13 @@
 - [【InfoQ】最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304)
 - [【InfoQ】手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b)
 - [【InfoQ】在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657)
+- [【V2EX】请问如何设置-rewrite，才能使得-Nginx-二级目录如果是大写跳转为小写？](https://www.v2ex.com/t/675289)
 - [【V2EX】springboot-的-docker-镜像要连-mysql-redis（都不是-docker-而是装在系统上），该怎么做？](https://www.v2ex.com/t/674973)
 - [【V2EX】各位遇到过-docker-国内镜像加速器配置好了-实际上-P-用没有的情况么](https://www.v2ex.com/t/674939)
 - [【V2EX】docker-的-nginx-怎么编译增加模块?](https://www.v2ex.com/t/674918)
 - [【V2EX】感觉-NAS（如群晖）就应该只放文件，-Docker-和虚拟机没必要](https://www.v2ex.com/t/674705)
 - [【V2EX】想请教一个-Nginx-反向代理跳转的问题](https://www.v2ex.com/t/674498)
 - [【V2EX】liqiubase-更改了-xml-文件导致-docker-里面的-mysql-全都初始化了，有什么回滚的方法么](https://www.v2ex.com/t/674113)
-- [【V2EX】alpine-Linux-跑-docker？](https://www.v2ex.com/t/673940)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

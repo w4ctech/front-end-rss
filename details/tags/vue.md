@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -93,6 +93,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-25-http://admin.evue.top/#/shop/feature-create](https://www.v2ex.com/t/675313) 
 - [2020-05-24-vuemastery-课程，需要的上车](https://www.v2ex.com/t/674993) 
 - [2020-05-23-vue-directive-上下文问题](https://www.v2ex.com/t/674746) 
 - [2020-05-22-用-vue-写了验证码，据说-99%的人都无法通过验证](https://www.v2ex.com/t/674221) 

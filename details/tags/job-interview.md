@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -60,6 +60,7 @@
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-25-「北京」Jump｜-Switch-，-IOS-端招聘「15K-20K」「1-3-年工作经验」](https://www.v2ex.com/t/675375) 
 - [2020-05-25-招聘贴-Red-Hat-深圳-Technical-Account-Manager---OpenShift](https://www.v2ex.com/t/675301) 
 - [2020-05-25-招聘造飞机,面试放卫星,工作拧螺丝](https://www.v2ex.com/t/675300) 
 - [2020-05-25-问下，如果面试腾讯全资子公司的岗位，会影响到-面试腾讯集团的岗位吗？](https://www.v2ex.com/t/675191) 

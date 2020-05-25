@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-斯里兰卡新冠肺炎确诊病例升至1141例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJARW9VQ57aWbyq1vzEi200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-公共假期来临美国多州海滩人满为患-佛州一海滩附近发生枪击多人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiawQ2oPSJnfT5I1i7AYBo200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-巴西联邦政府包机将750万个口罩从中国运至巴西](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjQUXLjWhAdvAgnVFr2k200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-内蒙古满洲里铁路口岸进出境中欧班列突破1100列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBWthTovtOkgzVaFX7oZ200525&isfromapp=1) 
@@ -1114,6 +1115,16 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-25-使用云开发，开发一款《识图-Ai》小程序](https://www.v2ex.com/t/675174) 
+- [【V2EX】2020-05-25-关于阿里云服务器安装显卡驱动类型的](https://www.v2ex.com/t/675173) 
+- [【V2EX】2020-05-25-高速增长期-前七牛-CTO-OpsMind-诚招-Golang-后端工程师、交付工程师](https://www.v2ex.com/t/675171) 
+- [【V2EX】2020-05-25-一个知识版权的问题-能不能在网站上公开分享编程技术类的-PDF-电子书资源](https://www.v2ex.com/t/675170) 
+- [【V2EX】2020-05-25-高德地图商户信息虚假问题，如何举报](https://www.v2ex.com/t/675168) 
+- [【V2EX】2020-05-25-fuun.fun-|-收集有趣（v-站人均一个导航站](https://www.v2ex.com/t/675167) 
+- [【V2EX】2020-05-25-北京-Jump-iOS-移动端招人啦～](https://www.v2ex.com/t/675165) 
+- [【V2EX】2020-05-25-DataGrip-License-要过期了，-Windows-下有啥免费替换-GUI-推荐吗？](https://www.v2ex.com/t/675164) 
+- [【V2EX】2020-05-25-在公司待的恶心，想裸辞](https://www.v2ex.com/t/675163) 
+- [【V2EX】2020-05-25-论坛是建在国内还是国外呢？](https://www.v2ex.com/t/675162) 
 - [【V2EX】2020-05-25-关于买-macbook-的发票问题](https://www.v2ex.com/t/675161) 
 - [【V2EX】2020-05-25-有关于前后端项目的理解，有些不明白之处](https://www.v2ex.com/t/675160) 
 - [【V2EX】2020-05-25-618-有什么推荐的东西可以买吗](https://www.v2ex.com/t/675159) 

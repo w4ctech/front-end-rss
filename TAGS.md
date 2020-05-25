@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-25 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -413,12 +413,12 @@
 - [【奇舞周刊】世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a)
 - [【掘金前端】canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0)
 - [【掘金前端】前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795)
+- [【V2EX】DataGrip-License-要过期了，-Windows-下有啥免费替换-GUI-推荐吗？](https://www.v2ex.com/t/675164)
 - [【V2EX】高级-3D-软件工程师](https://www.v2ex.com/t/674576)
 - [【V2EX】北京-竞技世界-核心业务-诚聘高级-C++服务器开发/高级-Unity-开发/高级-3D-场景设计师/大数据工程师](https://www.v2ex.com/t/674325)
 - [【V2EX】远程职位-产品经理、高级-3D-软件工程师以及更多精选岗位](https://www.v2ex.com/t/673981)
 - [【V2EX】WSL-2-计划支持-Linux-GUI-应用-可和-Windows-应用同时使用](https://www.v2ex.com/t/673604)
 - [【V2EX】WSL-将会支持-GPU-Compute-workflows、-Linux-GUI-app](https://www.v2ex.com/t/673454)
-- [【V2EX】WSL-将会支持运行-Linux-GUI-程序和使用-GPU](https://www.v2ex.com/t/673449)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 16:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-05-25-俄罗斯新增新冠肺炎确诊病例8946例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6fvq5PYRt7PcWOvMSbR200525&isfromapp=1) ![](assets/new.png)  
-- [2020-05-25-刚果（金）新增156例新冠肺炎确诊病例-累计确诊2297例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR340UUT8Rx71Dygbna6u200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-伊拉克疫情突然恶化-议会呼吁恢复全面宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKitCWnRqoVPtRQ6Prxp200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-俄罗斯新增新冠肺炎确诊病例8946例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6fvq5PYRt7PcWOvMSbR200525&isfromapp=1)  
+- [2020-05-25-刚果（金）新增156例新冠肺炎确诊病例-累计确诊2297例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR340UUT8Rx71Dygbna6u200525&isfromapp=1)  
 - [2020-05-25-中国驻印度大使馆：协助确有困难的留学生、游客等搭乘临时航班回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7m3fqPFtHodRJ0bs2Qi200525&isfromapp=1)  
 - [2020-05-25-湖北各高校毕业年级6月8日起按错时错峰、自愿原则返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipkWv6oxVlORJWShIUCzS200525&isfromapp=1)  
 - [2020-05-25-疫情期间特事特办-司法部为常态化疫情防控新阶段提供有力法治保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwElhgY1DPMY1EOHtE39S200525&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
 - [2020-05-24-日本新增42例新冠肺炎确诊病例，累计确诊16611例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHve4Rlp3aBypeILRonz200524&isfromapp=1)  
 - [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1)  
-- [2020-05-24-荷兰新增新冠肺炎确诊病例172例，累计确诊45236例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2geNv7OjFwKldDJNxSNV200524&isfromapp=1)  
-- [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

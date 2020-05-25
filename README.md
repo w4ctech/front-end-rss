@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 21:00:20，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 22:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1)  
 - [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1)  
 - [2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1)  
 - [2020-05-25-外交部：将在力所能及范围内继续对非洲提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOsnJZqH7VLU1yrjVZzMu200525&isfromapp=1)  
@@ -775,6 +775,7 @@
 </summary>
 
 
+- [2020-05-24-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/743e58355264389fe5a998efae24590e) ![](assets/new.png)  
 - [2020-05-22-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/f13148581b75d6cca439958609c53da2)  
 - [2020-05-21-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0)  
 - [2020-05-16-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/0329bb46458b6da90418beacc7814c29)  
@@ -794,7 +795,6 @@
 - [2020-04-24-13个-npm-快速使用开发技巧](https://www.ershicimi.com/p/eb895dd5c69fbb4948821d421ec29a30)  
 - [2020-04-22-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/f6d257bb68e27b43467d686ade748212)  
 - [2020-04-21-JavaScript稳居第一，VS-Code最热门，开发者热议话题大曝光！](https://www.ershicimi.com/p/9076edc047d4892a41bec90fb0055acf)  
-- [2020-04-20-Webpack-咋还成了区分优秀程序员的标准了？](https://www.ershicimi.com/p/cd690708ca652fd072995d067a9ab2ca)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-25-招聘-网站安全](https://www.v2ex.com/t/675396) ![](assets/new.png)  
-- [2020-05-25-视网膜脱落手术归来，分享历程](https://www.v2ex.com/t/675395) ![](assets/new.png)  
-- [2020-05-25-CTRL-+-W](https://www.v2ex.com/t/675394) ![](assets/new.png)  
-- [2020-05-25-大家最近有项目遇到攻击吗](https://www.v2ex.com/t/675391) ![](assets/new.png)  
-- [2020-05-25-娃娃的吸引力是啥？](https://www.v2ex.com/t/675390) ![](assets/new.png)  
-- [2020-05-25-生活是一直变幻无常，还是偶尔如此？](https://www.v2ex.com/t/675389) ![](assets/new.png)  
-- [2020-05-25-求助，关于-pydrive](https://www.v2ex.com/t/675388) ![](assets/new.png)  
-- [2020-05-25-「反泼冷水」继续选购适合你的-2k-显示器吧，不要被错误信息误导](https://www.v2ex.com/t/675387) ![](assets/new.png)  
-- [2020-05-25-在-iOS-端的-Apple-Music-对于自建的-智能歌单/playlist-显示封面图](https://www.v2ex.com/t/675386) ![](assets/new.png)  
-- [2020-05-25-迅雷的离线下载功能已经被阉割了。不建议大家开超级会员。](https://www.v2ex.com/t/675384) ![](assets/new.png)  
-- [2020-05-25-有了解上海抖音（ttiikkttookk）内部情况的大佬么](https://www.v2ex.com/t/675383) ![](assets/new.png)  
-- [2020-05-25-是不是可以放弃浏览器“书签”这种产品了？](https://www.v2ex.com/t/675382) ![](assets/new.png)  
-- [2020-05-25-2020-年-PHP-是否将会逐渐被取代？](https://www.v2ex.com/t/675381) ![](assets/new.png)  
-- [2020-05-25-远程连接到公司内网-Ocserv-或者-WireGuard...](https://www.v2ex.com/t/675380) ![](assets/new.png)  
-- [2020-05-25-想请问下，有会前端语言熟悉-SVG-交互跟布局的朋友嘛~](https://www.v2ex.com/t/675379) ![](assets/new.png)  
-- [2020-05-25-长期有效：字节跳动-上海-前端工程师](https://www.v2ex.com/t/675378) ![](assets/new.png)  
-- [2020-05-25-阿里-CTO-线-技术风险部-天猫超市&新零售终端-招-Java-开发、测试开发](https://www.v2ex.com/t/675377) ![](assets/new.png)  
-- [2020-05-25-“嘿-Siri”如何应对多个设备的讨论](https://www.v2ex.com/t/675376) ![](assets/new.png)  
-- [2020-05-25-「北京」Jump｜-Switch-，-IOS-端招聘「15K-20K」「1-3-年工作经验」](https://www.v2ex.com/t/675375) ![](assets/new.png)  
-- [2020-05-25-江苏联通和教育网在南京上海都没有互联互通啊，要跑到成都和重庆转一圈？](https://www.v2ex.com/t/675374) ![](assets/new.png)  
+- [2020-05-25-招聘-网站安全](https://www.v2ex.com/t/675396)  
+- [2020-05-25-视网膜脱落手术归来，分享历程](https://www.v2ex.com/t/675395)  
+- [2020-05-25-CTRL-+-W](https://www.v2ex.com/t/675394)  
+- [2020-05-25-大家最近有项目遇到攻击吗](https://www.v2ex.com/t/675391)  
+- [2020-05-25-娃娃的吸引力是啥？](https://www.v2ex.com/t/675390)  
+- [2020-05-25-生活是一直变幻无常，还是偶尔如此？](https://www.v2ex.com/t/675389)  
+- [2020-05-25-求助，关于-pydrive](https://www.v2ex.com/t/675388)  
+- [2020-05-25-「反泼冷水」继续选购适合你的-2k-显示器吧，不要被错误信息误导](https://www.v2ex.com/t/675387)  
+- [2020-05-25-在-iOS-端的-Apple-Music-对于自建的-智能歌单/playlist-显示封面图](https://www.v2ex.com/t/675386)  
+- [2020-05-25-迅雷的离线下载功能已经被阉割了。不建议大家开超级会员。](https://www.v2ex.com/t/675384)  
+- [2020-05-25-有了解上海抖音（ttiikkttookk）内部情况的大佬么](https://www.v2ex.com/t/675383)  
+- [2020-05-25-是不是可以放弃浏览器“书签”这种产品了？](https://www.v2ex.com/t/675382)  
+- [2020-05-25-2020-年-PHP-是否将会逐渐被取代？](https://www.v2ex.com/t/675381)  
+- [2020-05-25-远程连接到公司内网-Ocserv-或者-WireGuard...](https://www.v2ex.com/t/675380)  
+- [2020-05-25-想请问下，有会前端语言熟悉-SVG-交互跟布局的朋友嘛~](https://www.v2ex.com/t/675379)  
+- [2020-05-25-长期有效：字节跳动-上海-前端工程师](https://www.v2ex.com/t/675378)  
+- [2020-05-25-阿里-CTO-线-技术风险部-天猫超市&新零售终端-招-Java-开发、测试开发](https://www.v2ex.com/t/675377)  
+- [2020-05-25-“嘿-Siri”如何应对多个设备的讨论](https://www.v2ex.com/t/675376)  
+- [2020-05-25-「北京」Jump｜-Switch-，-IOS-端招聘「15K-20K」「1-3-年工作经验」](https://www.v2ex.com/t/675375)  
+- [2020-05-25-江苏联通和教育网在南京上海都没有互联互通啊，要跑到成都和重庆转一圈？](https://www.v2ex.com/t/675374)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

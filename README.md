@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 08:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 09:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-25-阿根廷新冠肺炎确诊病例累计12076例-首都地区加强防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1) ![](assets/new.png)  
 - [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1)  
 - [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1)  
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-24-中国政府抗疫医疗专家组抵达秘鲁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS17lFDUM1DEAKHpo3gII200524&isfromapp=1)  
 - [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233)  
 - [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1)  
-- [2020-05-24-美国新冠肺炎确诊数超161万例](http://m.weibo.cn/2656274875/4507997281328941)  
-- [2020-05-24-赞比亚信息与广播部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,26 +1127,26 @@
 </summary>
 
 
-- [2020-05-25-彻底搞懂-React-源码调度原理（Concurrent-模式）](https://toutiao.io/k/5hghlsi) ![](assets/new.png)  
-- [2020-05-25-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq) ![](assets/new.png)  
-- [2020-05-25-RecyclerView.ItemAnimator-实现动画效果](https://toutiao.io/k/woshk0f) ![](assets/new.png)  
-- [2020-05-25-目标检测：高斯-YoloV3-值得学习应用](https://toutiao.io/k/lt9sp40) ![](assets/new.png)  
-- [2020-05-25-Google-技术写作课笔记-2020](https://toutiao.io/k/e1lop5v) ![](assets/new.png)  
-- [2020-05-25-AVL：自平衡二叉查找树](https://toutiao.io/k/lugeii9) ![](assets/new.png)  
-- [2020-05-25-译-Deno-1.0，来了解一下](https://toutiao.io/k/e6fo5ei) ![](assets/new.png)  
-- [2020-05-25-HDFS-原理：一文读懂-HDFS-架构与设计](https://toutiao.io/k/nfjgybv) ![](assets/new.png)  
-- [2020-05-25-GitLab-Runner-+-Helm-实现-PHP-程序自动化构建与部署最佳实践](https://toutiao.io/k/jp3etiv) ![](assets/new.png)  
+- [2020-05-25-DialogFragment-引起的内存泄露](https://toutiao.io/k/zs99i4g) ![](assets/new.png)  
+- [2020-05-25-中通-RASP-安全防护方案初探](https://toutiao.io/k/hiyxmqo) ![](assets/new.png)  
+- [2020-05-25-拼多多和酷家乐面试总结（已拿-offer）](https://toutiao.io/k/fp7twf8) ![](assets/new.png)  
+- [2020-05-25-用-Vim-保存文件和-Echo-命令到底有什么不同？](https://toutiao.io/k/cabmiz3) ![](assets/new.png)  
+- [2020-05-25-用直方图展示阅读时间分布情况](https://toutiao.io/k/iv988k0) ![](assets/new.png)  
+- [2020-05-25-彻底搞懂-React-源码调度原理（Concurrent-模式）](https://toutiao.io/k/5hghlsi)  
+- [2020-05-25-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq)  
+- [2020-05-25-RecyclerView.ItemAnimator-实现动画效果](https://toutiao.io/k/woshk0f)  
+- [2020-05-25-目标检测：高斯-YoloV3-值得学习应用](https://toutiao.io/k/lt9sp40)  
+- [2020-05-25-Google-技术写作课笔记-2020](https://toutiao.io/k/e1lop5v)  
+- [2020-05-25-AVL：自平衡二叉查找树](https://toutiao.io/k/lugeii9)  
+- [2020-05-25-译-Deno-1.0，来了解一下](https://toutiao.io/k/e6fo5ei)  
+- [2020-05-25-HDFS-原理：一文读懂-HDFS-架构与设计](https://toutiao.io/k/nfjgybv)  
+- [2020-05-25-GitLab-Runner-+-Helm-实现-PHP-程序自动化构建与部署最佳实践](https://toutiao.io/k/jp3etiv)  
 - [2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f)  
 - [2020-05-24-如何使用-frp-实现内网穿透](https://toutiao.io/k/np929ps)  
 - [2020-05-24-使用-cquery：C++-language-server](https://toutiao.io/k/obv13oa)  
 - [2020-05-24-Go-项目的布局：你是怎么组织你的-Go-代码的？](https://toutiao.io/k/zsu6iic)  
 - [2020-05-24-比尔·盖茨-2020-夏季主推书单-&-其他值得阅读的书](https://toutiao.io/k/gthg7hu)  
 - [2020-05-24-Java-并发编程：线程间通信，等待/通知机制](https://toutiao.io/k/tu7dagf)  
-- [2020-05-24-C语言探索之旅（第一部分第二课）：工欲善其事，必先利其器](https://toutiao.io/k/hipce55)  
-- [2020-05-24-想方便快捷的分享/收藏图片？试试免费好用的微博/B站图床](https://toutiao.io/k/7s9zjse)  
-- [2020-05-24-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw)  
-- [2020-05-24-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51)  
-- [2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

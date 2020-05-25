@@ -1257,6 +1257,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "阿根廷新冠肺炎确诊病例累计12076例 首都地区加强防控措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1",
+        "date": "2020-05-25"
+      },
+      {
         "title": "南非全国从6月1日起进入三级防控状态",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1",
         "date": "2020-05-25"
@@ -48390,6 +48400,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "DialogFragment 引起的内存泄露",
+        "link": "https://toutiao.io/k/zs99i4g",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "中通 RASP 安全防护方案初探",
+        "link": "https://toutiao.io/k/hiyxmqo",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "拼多多和酷家乐面试总结（已拿 offer）",
+        "link": "https://toutiao.io/k/fp7twf8",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "用 Vim 保存文件和 Echo 命令到底有什么不同？",
+        "link": "https://toutiao.io/k/cabmiz3",
+        "date": "2020-05-25"
+      },
+      {
+        "title": "用直方图展示阅读时间分布情况",
+        "link": "https://toutiao.io/k/iv988k0",
+        "date": "2020-05-25"
+      },
       {
         "title": "彻底搞懂 React 源码调度原理（Concurrent 模式）",
         "link": "https://toutiao.io/k/5hghlsi",

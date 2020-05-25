@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -193,6 +193,7 @@
 - [2020-04-24-海量-hc,-字节跳动招聘，抖音，头条，西瓜，教育等你来-https://job.toutiao.com/s/TnVADp](https://www.v2ex.com/t/665613) 
 - [2020-04-24-连-5G-Wi-Fi-下，蓝牙鼠标-MX-MASTER-2S-卡顿厉害](https://www.v2ex.com/t/665590) 
 - [2020-04-24-🔥🔥腾讯-内推-🔥🔥全球-社招5000+-hc-火热内推中,包进度反馈！-ToB、ToC-前后端研发/算法/产品/运营/设计/项目管理/售前/交付通通有!🔥🔥](https://www.v2ex.com/t/665579) 
+- [2020-05-25-用-Vim-保存文件和-Echo-命令到底有什么不同？](https://toutiao.io/k/cabmiz3) 
 - [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j) 
 - [2020-05-22-算法工程师的数学基础：信息论](https://toutiao.io/k/41ldw4s) 
 - [2020-05-21-RSA-加密算法是怎么回事？难懂吗？](https://toutiao.io/k/g28pya3) 

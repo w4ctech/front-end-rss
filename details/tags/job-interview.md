@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -60,6 +60,8 @@
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-25-问下，如果面试腾讯全资子公司的岗位，会影响到-面试腾讯集团的岗位吗？](https://www.v2ex.com/t/675191) 
+- [2020-05-25-现在简历赛选比面试都难呀…](https://www.v2ex.com/t/675182) 
 - [2020-05-25-上海IPO-之前互联网公司招聘前端、golang-职位](https://www.v2ex.com/t/675143) 
 - [2020-05-25-没面试上，但很想去，你还会再投吗？](https://www.v2ex.com/t/675050) 
 - [2020-05-24-成都美团外卖成都研发中心大量招聘-Java-开发工程师](https://www.v2ex.com/t/674975) 

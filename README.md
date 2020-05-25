@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 09:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 09:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-05-25-阿根廷新冠肺炎确诊病例累计12076例-首都地区加强防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1) ![](assets/new.png)  
-- [2020-05-25-内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-智利新冠肺炎确诊病例超6.9万，全国医疗资源几近极限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ1RFIKehFu2xNxdASTDL200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-截至5月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202005/6dfa144edbb743b6898ff5f6a6206b3a.shtml) ![](assets/new.png)  
+- [2020-05-25-阿根廷新冠肺炎确诊病例累计12076例-首都地区加强防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1)  
+- [2020-05-25-内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1)  
 - [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1)  
 - [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1)  
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-24-巴西圣保罗“小长假”隔离效果欠佳，市政府或考虑“封城令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFSfb9TTqViwuLdFXMTcz200524&isfromapp=1)  
 - [2020-05-24-疫情形势好转之后能够出现报复性消费？国家发改委：恢复性消费是肯定的](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFv0EicoKVNQd9wSoWJcJ200524&isfromapp=1)  
 - [2020-05-24-中国政府抗疫医疗专家组抵达秘鲁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS17lFDUM1DEAKHpo3gII200524&isfromapp=1)  
-- [2020-05-24-国家卫健委：5月23日新增确诊病例3例](http://m.weibo.cn/3057540037/4508022532121233)  
-- [2020-05-24-毛里求斯总统：中国的支持彰显团结精神](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -531,6 +531,8 @@
 </summary>
 
 
+- [2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0) ![](assets/new.png)  
+- [2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1) ![](assets/new.png)  
 - [2020-05-22-程序猿惯用口头禅，你被击中了吗？](https://www.ershicimi.com/p/20eb8967a59f5bb3470b5920e99ac5f4)  
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16)  
 - [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10)  
@@ -549,8 +551,6 @@
 - [2020-05-08-速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf)  
 - [2020-05-07-node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)  
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/4e37984168059d18864bdb3db3c454b4)  
-- [2020-05-06-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/fb089acf213487537d0dda7a1fef0002)  
-- [2020-05-05-5个技巧助你编写更好的React代码](https://www.ershicimi.com/p/da5dfedaf93d0957e106309c9af1f2af)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1127,11 +1127,11 @@
 </summary>
 
 
-- [2020-05-25-DialogFragment-引起的内存泄露](https://toutiao.io/k/zs99i4g) ![](assets/new.png)  
-- [2020-05-25-中通-RASP-安全防护方案初探](https://toutiao.io/k/hiyxmqo) ![](assets/new.png)  
-- [2020-05-25-拼多多和酷家乐面试总结（已拿-offer）](https://toutiao.io/k/fp7twf8) ![](assets/new.png)  
-- [2020-05-25-用-Vim-保存文件和-Echo-命令到底有什么不同？](https://toutiao.io/k/cabmiz3) ![](assets/new.png)  
-- [2020-05-25-用直方图展示阅读时间分布情况](https://toutiao.io/k/iv988k0) ![](assets/new.png)  
+- [2020-05-25-DialogFragment-引起的内存泄露](https://toutiao.io/k/zs99i4g)  
+- [2020-05-25-中通-RASP-安全防护方案初探](https://toutiao.io/k/hiyxmqo)  
+- [2020-05-25-拼多多和酷家乐面试总结（已拿-offer）](https://toutiao.io/k/fp7twf8)  
+- [2020-05-25-用-Vim-保存文件和-Echo-命令到底有什么不同？](https://toutiao.io/k/cabmiz3)  
+- [2020-05-25-用直方图展示阅读时间分布情况](https://toutiao.io/k/iv988k0)  
 - [2020-05-25-彻底搞懂-React-源码调度原理（Concurrent-模式）](https://toutiao.io/k/5hghlsi)  
 - [2020-05-25-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq)  
 - [2020-05-25-RecyclerView.ItemAnimator-实现动画效果](https://toutiao.io/k/woshk0f)  

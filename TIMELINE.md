@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-智利新冠肺炎确诊病例超6.9万，全国医疗资源几近极限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ1RFIKehFu2xNxdASTDL200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-截至5月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202005/6dfa144edbb743b6898ff5f6a6206b3a.shtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-阿根廷新冠肺炎确诊病例累计12076例-首都地区加强防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1) 
@@ -712,6 +714,8 @@
 - [【政采云前端团队】2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [【政采云前端团队】2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) 
 - [【政采云前端团队】2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [【前端宇宙】2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0) 
+- [【前端宇宙】2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1) 
 - [【前端宇宙】2020-05-22-程序猿惯用口头禅，你被击中了吗？](https://www.ershicimi.com/p/20eb8967a59f5bb3470b5920e99ac5f4) 
 - [【前端宇宙】2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16) 
 - [【前端宇宙】2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10) 

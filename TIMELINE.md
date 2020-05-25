@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 14:30:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-中国驻印度大使馆：协助确有困难的留学生、游客等搭乘临时航班回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7m3fqPFtHodRJ0bs2Qi200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-湖北各高校毕业年级6月8日起按错时错峰、自愿原则返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipkWv6oxVlORJWShIUCzS200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-疫情期间特事特办-司法部为常态化疫情防控新阶段提供有力法治保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwElhgY1DPMY1EOHtE39S200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-斯里兰卡新冠肺炎确诊病例升至1141例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJARW9VQ57aWbyq1vzEi200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-公共假期来临美国多州海滩人满为患-佛州一海滩附近发生枪击多人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiawQ2oPSJnfT5I1i7AYBo200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-巴西联邦政府包机将750万个口罩从中国运至巴西](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjQUXLjWhAdvAgnVFr2k200525&isfromapp=1) 

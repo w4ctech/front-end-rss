@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 14:30:12，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 15:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-25-中国驻印度大使馆：协助确有困难的留学生、游客等搭乘临时航班回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7m3fqPFtHodRJ0bs2Qi200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-湖北各高校毕业年级6月8日起按错时错峰、自愿原则返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipkWv6oxVlORJWShIUCzS200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-疫情期间特事特办-司法部为常态化疫情防控新阶段提供有力法治保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwElhgY1DPMY1EOHtE39S200525&isfromapp=1) ![](assets/new.png)  
 - [2020-05-25-斯里兰卡新冠肺炎确诊病例升至1141例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJARW9VQ57aWbyq1vzEi200525&isfromapp=1)  
 - [2020-05-25-公共假期来临美国多州海滩人满为患-佛州一海滩附近发生枪击多人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiawQ2oPSJnfT5I1i7AYBo200525&isfromapp=1)  
 - [2020-05-25-巴西联邦政府包机将750万个口罩从中国运至巴西](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjQUXLjWhAdvAgnVFr2k200525&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-24-首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1)  
 - [2020-05-24-白俄罗斯新冠肺炎确诊病例累计超过36198例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1)  
 - [2020-05-24-德国法兰克福出现聚集性疫情，超40人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1)  
-- [2020-05-24-海外中国公民求助绿色通道：外交部12308领保热线24小时运转](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1)  
-- [2020-05-24-王毅：中欧班列疫情期间开行提升24%，运送近8000吨防疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7teEMEYYVqm69HjWnGWW200524&isfromapp=1)  
-- [2020-05-24-阿联酋华人爱心社为1000名外籍劳工发放“爱心包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixaJWLD6hmKKJMSLUlyHE200524&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1065,16 +1065,16 @@
 </summary>
 
 
-- [2020-05-25-面对一个被动端口是-5000-65535-的-NT-SERVER-FTP，怎样才能保证安全？](https://www.v2ex.com/t/675230) ![](assets/new.png)  
-- [2020-05-25-国内技术书盗版现状](https://www.v2ex.com/t/675228) ![](assets/new.png)  
-- [2020-05-25-AI-量化投资公司--DevOps-Engineer--40-60-万+奖金-北京](https://www.v2ex.com/t/675227) ![](assets/new.png)  
-- [2020-05-25-Work-collaboration-unicorn-Notion-is-blocked-in-China](https://www.v2ex.com/t/675226) ![](assets/new.png)  
-- [2020-05-25-有没有和俺一样的？](https://www.v2ex.com/t/675225) ![](assets/new.png)  
-- [2020-05-25-有还没有补税的童鞋么，这个月缴费期限就截至么](https://www.v2ex.com/t/675224) ![](assets/new.png)  
-- [2020-05-25-微软：正式发布针对-.NET-Core-的-Winform-设计器](https://www.v2ex.com/t/675223) ![](assets/new.png)  
-- [2020-05-25-联想办公台式机该如何升级显卡玩游戏？](https://www.v2ex.com/t/675221) ![](assets/new.png)  
-- [2020-05-25-杭州求职-求个杭州-Java-坑位](https://www.v2ex.com/t/675217) ![](assets/new.png)  
-- [2020-05-25-招商银行-APP-抽奖-10-元话费](https://www.v2ex.com/t/675216) ![](assets/new.png)  
+- [2020-05-25-面对一个被动端口是-5000-65535-的-NT-SERVER-FTP，怎样才能保证安全？](https://www.v2ex.com/t/675230)  
+- [2020-05-25-国内技术书盗版现状](https://www.v2ex.com/t/675228)  
+- [2020-05-25-AI-量化投资公司--DevOps-Engineer--40-60-万+奖金-北京](https://www.v2ex.com/t/675227)  
+- [2020-05-25-Work-collaboration-unicorn-Notion-is-blocked-in-China](https://www.v2ex.com/t/675226)  
+- [2020-05-25-有没有和俺一样的？](https://www.v2ex.com/t/675225)  
+- [2020-05-25-有还没有补税的童鞋么，这个月缴费期限就截至么](https://www.v2ex.com/t/675224)  
+- [2020-05-25-微软：正式发布针对-.NET-Core-的-Winform-设计器](https://www.v2ex.com/t/675223)  
+- [2020-05-25-联想办公台式机该如何升级显卡玩游戏？](https://www.v2ex.com/t/675221)  
+- [2020-05-25-杭州求职-求个杭州-Java-坑位](https://www.v2ex.com/t/675217)  
+- [2020-05-25-招商银行-APP-抽奖-10-元话费](https://www.v2ex.com/t/675216)  
 - [2020-05-25-微博国际版，你们的夜间模式自动切换何时能修复](https://www.v2ex.com/t/675215)  
 - [2020-05-25-一加-8-or-iPhone-xs](https://www.v2ex.com/t/675214)  
 - [2020-05-25-在-V2-发帖子一直很谨慎-只要发了字数都不少-有时候主题沉底是咋回事](https://www.v2ex.com/t/675212)  

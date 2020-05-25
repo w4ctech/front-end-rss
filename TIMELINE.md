@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-26 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -130,6 +130,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-俄罗斯将从6月1日起解除对境内游的限制性措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-世卫组织：全球新冠肺炎确诊病例超过530万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-多位驻华大使齐发声：全球合力抗疫-中国担当受赞扬](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFAdXX6Xfj0uqAMCQi7yH200525&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-伊朗外交部发言人：美国没有资格评判其他国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioEOW6BF5Qg0SHVicNExu200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1) 

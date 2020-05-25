@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 23:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 00:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-25-俄罗斯将从6月1日起解除对境内游的限制性措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-世卫组织：全球新冠肺炎确诊病例超过530万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-多位驻华大使齐发声：全球合力抗疫-中国担当受赞扬](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFAdXX6Xfj0uqAMCQi7yH200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-伊朗外交部发言人：美国没有资格评判其他国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioEOW6BF5Qg0SHVicNExu200525&isfromapp=1) ![](assets/new.png)  
 - [2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1)  
 - [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1)  
 - [2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-25-斯里兰卡新冠肺炎确诊病例升至1141例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJARW9VQ57aWbyq1vzEi200525&isfromapp=1)  
 - [2020-05-25-公共假期来临美国多州海滩人满为患-佛州一海滩附近发生枪击多人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiawQ2oPSJnfT5I1i7AYBo200525&isfromapp=1)  
 - [2020-05-25-巴西联邦政府包机将750万个口罩从中国运至巴西](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjQUXLjWhAdvAgnVFr2k200525&isfromapp=1)  
-- [2020-05-25-内蒙古满洲里铁路口岸进出境中欧班列突破1100列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBWthTovtOkgzVaFX7oZ200525&isfromapp=1)  
-- [2020-05-25-智利新冠肺炎确诊病例超6.9万，全国医疗资源几近极限](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ1RFIKehFu2xNxdASTDL200525&isfromapp=1)  
-- [2020-05-25-截至5月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202005/6dfa144edbb743b6898ff5f6a6206b3a.shtml)  
-- [2020-05-25-阿根廷新冠肺炎确诊病例累计12076例-首都地区加强防控措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1)  
-- [2020-05-25-内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1034,10 +1034,10 @@
 </summary>
 
 
-- [2020-05-25-有一种动物的粪便好吃又有营养，想到这我不禁……](https://www.ershicimi.com/p/4c6aac8ad1ac39fbb33fe9ab299827a3) ![](assets/new.png)  
-- [2020-05-25-这种「自杀式仰卧起坐」，你还在做吗？](https://www.ershicimi.com/p/3ee7322399fc72d745ecaeee976ca5fa) ![](assets/new.png)  
-- [2020-05-25-钟南山、雷军、姚明、张文宏、雷佳、郎朗首次跨界「云问答」](https://www.ershicimi.com/p/e1184ff2384227bbd7eba9e6e3fa49fb) ![](assets/new.png)  
-- [2020-05-25-知乎故事-|-男生认为女同事坐自己车后排是不礼貌的行为吗？](https://www.ershicimi.com/p/4058fb2fcc5003ce27729b67fc452fa9) ![](assets/new.png)  
+- [2020-05-25-有一种动物的粪便好吃又有营养，想到这我不禁……](https://www.ershicimi.com/p/4c6aac8ad1ac39fbb33fe9ab299827a3)  
+- [2020-05-25-这种「自杀式仰卧起坐」，你还在做吗？](https://www.ershicimi.com/p/3ee7322399fc72d745ecaeee976ca5fa)  
+- [2020-05-25-钟南山、雷军、姚明、张文宏、雷佳、郎朗首次跨界「云问答」](https://www.ershicimi.com/p/e1184ff2384227bbd7eba9e6e3fa49fb)  
+- [2020-05-25-知乎故事-|-男生认为女同事坐自己车后排是不礼貌的行为吗？](https://www.ershicimi.com/p/4058fb2fcc5003ce27729b67fc452fa9)  
 - [2020-05-24-本周知乎热榜-|-华为紧急下单了，骑电动车要戴头盔了，失联女翼装飞行员被找到了](https://www.ershicimi.com/p/b3f6c11e9614ef1f613e3474965fc002)  
 - [2020-05-24-有哪些礼物，过了很久你却依然保存至今？](https://www.ershicimi.com/p/4168028c7105ad9b8e6f113860bc1ee5)  
 - [2020-05-24-2020，口碑极佳的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/f07cbac25ffb5764cb9c7b0601f9f18d)  

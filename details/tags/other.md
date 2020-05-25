@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -468,6 +468,7 @@
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) 
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
+- [2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241) 
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2020-05-20-重磅福利！戴尔官网新品高能上市，商务台式机低至1899元，还送千元好礼！](https://www.ershicimi.com/p/e72cf08d4f6ebdd665d458eeb3d758fe) 
 - [2020-05-20-阿里巴巴盒马前端上岸总结](https://www.ershicimi.com/p/49945dfc5ed07fcb1828a489a2a5e953) 
@@ -486,6 +487,7 @@
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-05-25-阿里巴巴员工都在听的英语课，我帮你免费弄来了！](https://www.ershicimi.com/p/00a435acc03e1921c2616dd7c6b6e455) 
 - [2020-05-23-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/f5056ef6d187b0cc90942163a546e8ea) 
 - [2020-05-21-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/ba7632d04063306b0e8b6ad672c075b8) 
 - [2020-05-18-作为前端工程师，工作3年，这些用法竟然还不知道！](https://www.ershicimi.com/p/5b7a604d56ac17b7cb98e6eb8a83afe0) 

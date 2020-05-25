@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -33,6 +33,8 @@
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
+- [2020-05-25-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/03bfc1404951fdd4edd89eae1b1b605e) 
+- [2020-05-24-一起探讨-JavaScript-的对象](https://www.ershicimi.com/p/c7d67e50a9cb02dcec5fcea1dafc27d6) 
 - [2020-05-23-Continuation-在-JS-中的应用](https://www.ershicimi.com/p/1f9bcf5a6e69177b3a555f09cf3788e9) 
 - [2020-05-22-从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/9a309f30d422d773e4deea046de4c611) 
 - [2020-05-08-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/c6bf04b2efff1f953b57956901eaeeb0) 

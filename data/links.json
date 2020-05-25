@@ -48809,6 +48809,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "从零搭建深度学习框架（二）用Python实现计算图和自动微分 (johnhany.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-25"
+      },
+      {
         "title": "kotlin协程实战：用协程实现动态权限请求 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-05-25"

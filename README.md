@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 18:00:20，:rocket: 更新条数: +45， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 18:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml) ![](assets/new.png)  
+- [2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml)  
 - [2020-05-25-日本职业棒球联赛本季度比赛将采取无观众形式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8jop5fZjsq3Fmo1Idmsd200525&isfromapp=1)  
 - [2020-05-25-伊拉克疫情突然恶化-议会呼吁恢复全面宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKitCWnRqoVPtRQ6Prxp200525&isfromapp=1)  
 - [2020-05-25-俄罗斯新增新冠肺炎确诊病例8946例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6fvq5PYRt7PcWOvMSbR200525&isfromapp=1)  
@@ -1065,26 +1065,26 @@
 </summary>
 
 
-- [2020-05-25-Container---为-Go-语言而生的运行时依赖注入容器](https://www.v2ex.com/t/675338) ![](assets/new.png)  
-- [2020-05-25-Swap-用成这样是不是内存不足的表现](https://www.v2ex.com/t/675337) ![](assets/new.png)  
-- [2020-05-25-关于-Python-的-asyncio-协程的问题。](https://www.v2ex.com/t/675336) ![](assets/new.png)  
-- [2020-05-25-有没有用-gan-65-的充电器配合-type-c-转-magsafe2-给-15-寸-mbp-充电的](https://www.v2ex.com/t/675335) ![](assets/new.png)  
-- [2020-05-25-国外域名注册商是不是基本都没办法给域名做实名认证？](https://www.v2ex.com/t/675333) ![](assets/new.png)  
-- [2020-05-25-公司现在乱打绩效，并且在发工资之前不进行面谈，现在让签字怎么破？](https://www.v2ex.com/t/675332) ![](assets/new.png)  
-- [2020-05-25-没有示例的开源项目都是耍流氓](https://www.v2ex.com/t/675331) ![](assets/new.png)  
-- [2020-05-25-继打架之后，现在又来长时间舔毛](https://www.v2ex.com/t/675329) ![](assets/new.png)  
-- [2020-05-25-你们美服-LOL-延迟多少？](https://www.v2ex.com/t/675328) ![](assets/new.png)  
-- [2020-05-25-福豹厂-数字政务中台部社招](https://www.v2ex.com/t/675327) ![](assets/new.png)  
-- [2020-05-25-发现一个可以在线预览-Windows-Terminal-主题的工具页](https://www.v2ex.com/t/675326) ![](assets/new.png)  
-- [2020-05-25-小米和-360-的行车记录仪哪个好~](https://www.v2ex.com/t/675325) ![](assets/new.png)  
-- [2020-05-25-CheckPermission:-_bluetooth-code-=-10](https://www.v2ex.com/t/675324) ![](assets/new.png)  
-- [2020-05-25-azure-被计费了咋办？](https://www.v2ex.com/t/675323) ![](assets/new.png)  
-- [2020-05-25-幕言，一个专注于字幕/文本语音合成配音的线上工具！支持多人配音、字幕同步、小语种配音！](https://www.v2ex.com/t/675322) ![](assets/new.png)  
-- [2020-05-25-入职了一个工作环境比较差，工资还可以的公司，应该向老板提要求，还是直接找下家](https://www.v2ex.com/t/675321) ![](assets/new.png)  
-- [2020-05-25-武汉-跟谁学武汉研发中学招各级别前端/-Java-/测试欢迎一线老乡们回汉](https://www.v2ex.com/t/675320) ![](assets/new.png)  
-- [2020-05-25-我的同事的编程技能实在是太弱了](https://www.v2ex.com/t/675319) ![](assets/new.png)  
-- [2020-05-25-AMD-4800U-装-Ubuntu20.04-声音异常](https://www.v2ex.com/t/675318) ![](assets/new.png)  
-- [2020-05-25-各位公司内部沟通有用-Microsoft-Teams-的吗](https://www.v2ex.com/t/675316) ![](assets/new.png)  
+- [2020-05-25-Container---为-Go-语言而生的运行时依赖注入容器](https://www.v2ex.com/t/675338)  
+- [2020-05-25-Swap-用成这样是不是内存不足的表现](https://www.v2ex.com/t/675337)  
+- [2020-05-25-关于-Python-的-asyncio-协程的问题。](https://www.v2ex.com/t/675336)  
+- [2020-05-25-有没有用-gan-65-的充电器配合-type-c-转-magsafe2-给-15-寸-mbp-充电的](https://www.v2ex.com/t/675335)  
+- [2020-05-25-国外域名注册商是不是基本都没办法给域名做实名认证？](https://www.v2ex.com/t/675333)  
+- [2020-05-25-公司现在乱打绩效，并且在发工资之前不进行面谈，现在让签字怎么破？](https://www.v2ex.com/t/675332)  
+- [2020-05-25-没有示例的开源项目都是耍流氓](https://www.v2ex.com/t/675331)  
+- [2020-05-25-继打架之后，现在又来长时间舔毛](https://www.v2ex.com/t/675329)  
+- [2020-05-25-你们美服-LOL-延迟多少？](https://www.v2ex.com/t/675328)  
+- [2020-05-25-福豹厂-数字政务中台部社招](https://www.v2ex.com/t/675327)  
+- [2020-05-25-发现一个可以在线预览-Windows-Terminal-主题的工具页](https://www.v2ex.com/t/675326)  
+- [2020-05-25-小米和-360-的行车记录仪哪个好~](https://www.v2ex.com/t/675325)  
+- [2020-05-25-CheckPermission:-_bluetooth-code-=-10](https://www.v2ex.com/t/675324)  
+- [2020-05-25-azure-被计费了咋办？](https://www.v2ex.com/t/675323)  
+- [2020-05-25-幕言，一个专注于字幕/文本语音合成配音的线上工具！支持多人配音、字幕同步、小语种配音！](https://www.v2ex.com/t/675322)  
+- [2020-05-25-入职了一个工作环境比较差，工资还可以的公司，应该向老板提要求，还是直接找下家](https://www.v2ex.com/t/675321)  
+- [2020-05-25-武汉-跟谁学武汉研发中学招各级别前端/-Java-/测试欢迎一线老乡们回汉](https://www.v2ex.com/t/675320)  
+- [2020-05-25-我的同事的编程技能实在是太弱了](https://www.v2ex.com/t/675319)  
+- [2020-05-25-AMD-4800U-装-Ubuntu20.04-声音异常](https://www.v2ex.com/t/675318)  
+- [2020-05-25-各位公司内部沟通有用-Microsoft-Teams-的吗](https://www.v2ex.com/t/675316)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,6 +1096,7 @@
 </summary>
 
 
+- [2020-05-25-从零搭建深度学习框架（二）用Python实现计算图和自动微分-johnhany.net](https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-25-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-25-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13479&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjoV6T1pvjQySUFCPmUHwoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-25-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1115,7 +1116,6 @@
 - [2020-05-21-Category:-Front-End-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-20-读懂这几个关键词，你就能了解-Docker-啦-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13463&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F142224080%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-19-从X86指令深扒JVM的位移操作-club.perfma.com](https://blogread.cn/news/go.php?idItem=13462&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F620015%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-18-利用-ViewBinding-和反射封装的基类，从此再也不用-findViewById-了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13461&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_7JGaJuUSd8SFQbTl6zwLw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

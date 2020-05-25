@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-25 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -863,6 +863,12 @@
 - [【前端日刊】2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
 - [【前端日刊】2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [【互联网架构师】2020-05-25-String-也能做性能优化，我只能说牛逼！](https://www.ershicimi.com/p/ba8e0171c54494edc1a0d5ea5ef79535) 
+- [【互联网架构师】2020-05-25-基于SpringCloud开发的分布式系统，遇到爬虫、接口盗刷怎么办？](https://www.ershicimi.com/p/a85e0fa4ebc13a41af308a370f0486dc) 
+- [【互联网架构师】2020-05-24-你这API设计的真”辣鸡“，简直没法看！](https://www.ershicimi.com/p/ebee46a677b1259495410da9d05d2429) 
+- [【互联网架构师】2020-05-24-世纪之战：Python和Java，到底学哪个更好？](https://www.ershicimi.com/p/ae79d839e1db7ddbc3fb09788d3c1f48) 
+- [【互联网架构师】2020-05-24-图解-Spring-循环依赖，写得太好了！](https://www.ershicimi.com/p/2924997a3ee2cf827752ec770d2fe4da) 
 - [【互联网架构师】2020-05-23-原创整理：92份面试题，累计3625页，肝的太累了！](https://www.ershicimi.com/p/e718882eeb178ba5ddd5886c82dea8d4) 
 - [【互联网架构师】2020-05-23-六个好用的程序员开发在线工具](https://www.ershicimi.com/p/546ed7f392b6b7b7759439f09c566eab) 
 - [【互联网架构师】2020-05-23-Spring-Boot-2.3.0-发布：支持Java14、打包Docker镜像、优雅关机配置...](https://www.ershicimi.com/p/b4c080feda51b2c21f5f08fdd4db08c5) 
@@ -1115,6 +1121,12 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-25-小众好用搜索引擎求推荐](https://www.v2ex.com/t/675181) 
+- [【V2EX】2020-05-25-有机后浪-焦虑迷茫期，不知未来路在何方~](https://www.v2ex.com/t/675179) 
+- [【V2EX】2020-05-25-迫于菊花很脆弱，求推荐智能马桶盖](https://www.v2ex.com/t/675178) 
+- [【V2EX】2020-05-25-大家会不会用-id-作为-代码唯一标识，或者枚举的值。比如直接取公司这条数据的-id=1-代表这个公司](https://www.v2ex.com/t/675177) 
+- [【V2EX】2020-05-25-一步步手写-http-底层客户端](https://www.v2ex.com/t/675176) 
+- [【V2EX】2020-05-25-寻找目前正在上海找计算机工作的-v-友么](https://www.v2ex.com/t/675175) 
 - [【V2EX】2020-05-25-使用云开发，开发一款《识图-Ai》小程序](https://www.v2ex.com/t/675174) 
 - [【V2EX】2020-05-25-关于阿里云服务器安装显卡驱动类型的](https://www.v2ex.com/t/675173) 
 - [【V2EX】2020-05-25-高速增长期-前七牛-CTO-OpsMind-诚招-Golang-后端工程师、交付工程师](https://www.v2ex.com/t/675171) 

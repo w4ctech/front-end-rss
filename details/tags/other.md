@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -749,6 +749,11 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-05-25-基于SpringCloud开发的分布式系统，遇到爬虫、接口盗刷怎么办？](https://www.ershicimi.com/p/a85e0fa4ebc13a41af308a370f0486dc) 
+- [2020-05-24-你这API设计的真”辣鸡“，简直没法看！](https://www.ershicimi.com/p/ebee46a677b1259495410da9d05d2429) 
+- [2020-05-24-世纪之战：Python和Java，到底学哪个更好？](https://www.ershicimi.com/p/ae79d839e1db7ddbc3fb09788d3c1f48) 
+- [2020-05-24-图解-Spring-循环依赖，写得太好了！](https://www.ershicimi.com/p/2924997a3ee2cf827752ec770d2fe4da) 
 - [2020-05-23-六个好用的程序员开发在线工具](https://www.ershicimi.com/p/546ed7f392b6b7b7759439f09c566eab) 
 - [2020-05-22-重磅！！Redis-6.0.0-已发布，有史以来改变最大的版本](https://www.ershicimi.com/p/2840c8005bb41387310bc29f8f39dfd7) 
 - [2020-05-22-终于找全啦！一二线城市知名互联网公司名单！对着找就对了...](https://www.ershicimi.com/p/81c469ee22d2241187e1c457f70bc5c6) 
@@ -1077,6 +1082,11 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-25-小众好用搜索引擎求推荐](https://www.v2ex.com/t/675181) 
+- [2020-05-25-有机后浪-焦虑迷茫期，不知未来路在何方~](https://www.v2ex.com/t/675179) 
+- [2020-05-25-迫于菊花很脆弱，求推荐智能马桶盖](https://www.v2ex.com/t/675178) 
+- [2020-05-25-大家会不会用-id-作为-代码唯一标识，或者枚举的值。比如直接取公司这条数据的-id=1-代表这个公司](https://www.v2ex.com/t/675177) 
+- [2020-05-25-寻找目前正在上海找计算机工作的-v-友么](https://www.v2ex.com/t/675175) 
 - [2020-05-25-关于阿里云服务器安装显卡驱动类型的](https://www.v2ex.com/t/675173) 
 - [2020-05-25-高速增长期-前七牛-CTO-OpsMind-诚招-Golang-后端工程师、交付工程师](https://www.v2ex.com/t/675171) 
 - [2020-05-25-一个知识版权的问题-能不能在网站上公开分享编程技术类的-PDF-电子书资源](https://www.v2ex.com/t/675170) 

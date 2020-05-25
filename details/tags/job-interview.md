@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -276,6 +276,7 @@
 - [2020-04-28-面试了一个-46-岁程序员，总结了很多-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13423&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfH3KrrBKktoKByASbXp6QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-精选Android中高级面试题----终局之篇：高级干货-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13397&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGEEFC-OZtFqP4V7-11SIA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13384&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQdLAS62liM8RUC0OTa5P-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-25-面试官让我用-channel-实现-sync-包里的同步锁，是不是故意为难我？](https://toutiao.io/k/a3x9xuc) 
 - [2020-05-25-拼多多和酷家乐面试总结（已拿-offer）](https://toutiao.io/k/fp7twf8) 
 - [2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg) 
 - [2020-05-22-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e) 

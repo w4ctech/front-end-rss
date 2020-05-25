@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -42,6 +42,7 @@
 - [2020-04-23-重学安卓：你上不了-Flutter-的车，只因缺了这把钥匙-🔑](https://www.v2ex.com/t/665501) 
 - [2020-05-18-Flutter-添加到现有项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13458&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYOgBWQ8-eNri528j_OY-Sw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-26-Flutter-Platform-View：在-Flutter-中使用Android、iOS的原生-View-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13408&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMgVXVuP-hQk8oglUkVlDow%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-25-Flutter-State-Management-状态管理全面分析](https://toutiao.io/k/21uomwh) 
 - [2020-05-21-Flutter-Weekly-Issue-56](https://toutiao.io/k/ryxuue3) 
 - [2020-05-20-零学习成本：使用-Web-标准开发动态化-Flutter-应用](https://toutiao.io/k/55c94vf) 
 - [2020-05-16-译-Flutter-web-最新进展：发掘更多可能](https://toutiao.io/k/01fvjkt) 

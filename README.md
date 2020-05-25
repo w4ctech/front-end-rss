@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-25 08:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-25 08:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1) ![](assets/new.png)  
-- [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1) ![](assets/new.png)  
+- [2020-05-25-南非全国从6月1日起进入三级防控状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1)  
+- [2020-05-25-世卫组织：全球新冠肺炎累计确诊5206614例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1)  
 - [2020-05-24-白宫经济顾问：美国5月失业率将达20%，6月会更高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1)  
 - [2020-05-24-日本新增42例新冠肺炎确诊病例，累计确诊16611例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHve4Rlp3aBypeILRonz200524&isfromapp=1)  
 - [2020-05-24-印度最大贫民窟新增新冠肺炎确诊病例27例-累计确诊1541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmhOxHoNjQozExjOG3Js200524&isfromapp=1)  
@@ -1065,16 +1065,16 @@
 </summary>
 
 
-- [2020-05-25-专门为机器学习与-AI-技术交流而建立的社区-AskGo](https://www.v2ex.com/t/675062) ![](assets/new.png)  
-- [2020-05-25-想问大家个问题？](https://www.v2ex.com/t/675061) ![](assets/new.png)  
-- [2020-05-25-到底什么原因导致-wsl-上-PHP-无法用-fastcgi-呢](https://www.v2ex.com/t/675060) ![](assets/new.png)  
-- [2020-05-25-PHP-高级开发工程师，兼职，底薪+利润分红](https://www.v2ex.com/t/675059) ![](assets/new.png)  
-- [2020-05-25-关于-coding.net-的-cloud-studio](https://www.v2ex.com/t/675058) ![](assets/new.png)  
-- [2020-05-25-顺丰、京东和四通一达为区别，就是取快递的时候代收点的人态度好-1%！](https://www.v2ex.com/t/675057) ![](assets/new.png)  
-- [2020-05-25-MBP-16-寸上使用-Caldigit-ts3-plus](https://www.v2ex.com/t/675056) ![](assets/new.png)  
-- [2020-05-25-快来玩吧！-imByteCat-MC-基岩版原版生存！](https://www.v2ex.com/t/675054) ![](assets/new.png)  
-- [2020-05-25-月经贴-golang-能否完全替代-c++？](https://www.v2ex.com/t/675052) ![](assets/new.png)  
-- [2020-05-25-没面试上，但很想去，你还会再投吗？](https://www.v2ex.com/t/675050) ![](assets/new.png)  
+- [2020-05-25-专门为机器学习与-AI-技术交流而建立的社区-AskGo](https://www.v2ex.com/t/675062)  
+- [2020-05-25-想问大家个问题？](https://www.v2ex.com/t/675061)  
+- [2020-05-25-到底什么原因导致-wsl-上-PHP-无法用-fastcgi-呢](https://www.v2ex.com/t/675060)  
+- [2020-05-25-PHP-高级开发工程师，兼职，底薪+利润分红](https://www.v2ex.com/t/675059)  
+- [2020-05-25-关于-coding.net-的-cloud-studio](https://www.v2ex.com/t/675058)  
+- [2020-05-25-顺丰、京东和四通一达为区别，就是取快递的时候代收点的人态度好-1%！](https://www.v2ex.com/t/675057)  
+- [2020-05-25-MBP-16-寸上使用-Caldigit-ts3-plus](https://www.v2ex.com/t/675056)  
+- [2020-05-25-快来玩吧！-imByteCat-MC-基岩版原版生存！](https://www.v2ex.com/t/675054)  
+- [2020-05-25-月经贴-golang-能否完全替代-c++？](https://www.v2ex.com/t/675052)  
+- [2020-05-25-没面试上，但很想去，你还会再投吗？](https://www.v2ex.com/t/675050)  
 - [2020-05-25-目前来看这份黑苹果配置单怎么样？](https://www.v2ex.com/t/675049)  
 - [2020-05-25-notion-刚被像素级借鉴，然后就被墙](https://www.v2ex.com/t/675048)  
 - [2020-05-25-brew-卸载重装后之前的服务还在吗？](https://www.v2ex.com/t/675047)  
@@ -1127,6 +1127,15 @@
 </summary>
 
 
+- [2020-05-25-彻底搞懂-React-源码调度原理（Concurrent-模式）](https://toutiao.io/k/5hghlsi) ![](assets/new.png)  
+- [2020-05-25-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq) ![](assets/new.png)  
+- [2020-05-25-RecyclerView.ItemAnimator-实现动画效果](https://toutiao.io/k/woshk0f) ![](assets/new.png)  
+- [2020-05-25-目标检测：高斯-YoloV3-值得学习应用](https://toutiao.io/k/lt9sp40) ![](assets/new.png)  
+- [2020-05-25-Google-技术写作课笔记-2020](https://toutiao.io/k/e1lop5v) ![](assets/new.png)  
+- [2020-05-25-AVL：自平衡二叉查找树](https://toutiao.io/k/lugeii9) ![](assets/new.png)  
+- [2020-05-25-译-Deno-1.0，来了解一下](https://toutiao.io/k/e6fo5ei) ![](assets/new.png)  
+- [2020-05-25-HDFS-原理：一文读懂-HDFS-架构与设计](https://toutiao.io/k/nfjgybv) ![](assets/new.png)  
+- [2020-05-25-GitLab-Runner-+-Helm-实现-PHP-程序自动化构建与部署最佳实践](https://toutiao.io/k/jp3etiv) ![](assets/new.png)  
 - [2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f)  
 - [2020-05-24-如何使用-frp-实现内网穿透](https://toutiao.io/k/np929ps)  
 - [2020-05-24-使用-cquery：C++-language-server](https://toutiao.io/k/obv13oa)  
@@ -1138,15 +1147,6 @@
 - [2020-05-24-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw)  
 - [2020-05-24-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51)  
 - [2020-05-24-我说我精通字符串，面试官竟然问我-Java-中的-String-有没有长度限制！？](https://toutiao.io/k/ina6jjg)  
-- [2020-05-24-项目中这样统计方法耗时不香吗？](https://toutiao.io/k/ap1zbqz)  
-- [2020-05-24-企业级持续交付系统-CircleCI-是怎么炼成的（三）：带你-4-步创建入门级-workflow](https://toutiao.io/k/bm0v7v6)  
-- [2020-05-24-深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk)  
-- [2020-05-24-进阶：那些你必须搞懂的网络基础](https://toutiao.io/k/12dlxy1)  
-- [2020-05-24-Spark-join-种类（>3-种）及-join-选择依据](https://toutiao.io/k/aazm0tv)  
-- [2020-05-24-重写-500-Lines-or-Less-项目：Web-Server](https://toutiao.io/k/rwyn2m7)  
-- [2020-05-23-第-006-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/cw463g6)  
-- [2020-05-23-数据结构和算法（第一部分第五课）：算法复杂度实践](https://toutiao.io/k/crpk37j)  
-- [2020-05-23-Mybatis-开发，你用-xml-还是注解？我-pick-...](https://toutiao.io/k/e30k564)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

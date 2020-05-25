@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7095,6 +7095,12 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-25-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq) 
+- [2020-05-25-目标检测：高斯-YoloV3-值得学习应用](https://toutiao.io/k/lt9sp40) 
+- [2020-05-25-Google-技术写作课笔记-2020](https://toutiao.io/k/e1lop5v) 
+- [2020-05-25-AVL：自平衡二叉查找树](https://toutiao.io/k/lugeii9) 
+- [2020-05-25-译-Deno-1.0，来了解一下](https://toutiao.io/k/e6fo5ei) 
+- [2020-05-25-HDFS-原理：一文读懂-HDFS-架构与设计](https://toutiao.io/k/nfjgybv) 
 - [2020-05-25-你以为只要努力就够了吗？](https://toutiao.io/k/focw50f) 
 - [2020-05-24-如何使用-frp-实现内网穿透](https://toutiao.io/k/np929ps) 
 - [2020-05-24-使用-cquery：C++-language-server](https://toutiao.io/k/obv13oa) 

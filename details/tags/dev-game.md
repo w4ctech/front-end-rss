@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-25 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-25 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -33,6 +33,7 @@
 - [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) 
 - [2020-04-25-云时代的游戏变革，2020-Google-游戏开发者峰会热点回顾-|-Q推荐](https://www.ershicimi.com/p/4a2175162bfee660fd354f3bdf82b6e9) 
 - [2020-04-24-从零实现一个单词对战游戏-二-产品篇:-如何确定项目主题](https://juejin.im/post/5e9da75e518825085d6d0854) 
+- [2020-05-25-直播+游戏项目急招！](https://www.v2ex.com/t/675154) 
 - [2020-05-24-一用-BT-软件，游戏就掉线](https://www.v2ex.com/t/674879) 
 - [2020-05-23-新版-edge-小游戏](https://www.v2ex.com/t/674797) 
 - [2020-05-23-阿里巴巴集团旗下游戏公司简悦《Area-F2》抄袭育碧游戏《彩虹六号:围攻》](https://www.v2ex.com/t/674650) 
@@ -101,6 +102,7 @@
 - [2020-04-25-上海-漕河泾Garena游戏公司招聘技术、美术、产品、运营、职能等岗位～长期有效！](https://www.v2ex.com/t/666087) 
 - [2020-04-25-原生-Javascript-开发超速贪吃蛇小游戏](https://www.v2ex.com/t/665933) 
 - [2020-04-24-PC-用千元内带麦的无线游戏耳机有什么推荐的吗？](https://www.v2ex.com/t/665578) 
+- [2020-05-25-教你用-C++-在-Unreal-中为游戏增加实时音视频互动](https://toutiao.io/k/f7xjqes) 
 - [2020-05-22-深入学习-Three.js-核心对象之（三）：Material](https://toutiao.io/k/6h1f743) 
 - [2020-05-18-深入学习-Three.js-核心对象（一）：Object3D](https://toutiao.io/k/j1mgl5b) 
 - [2020-05-03-译-ERC721-使用教程：实现一个打怪游戏](https://toutiao.io/k/4p4tfo3) 

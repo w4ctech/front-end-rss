@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-26-香港国际机场将于6月1日恢复转机服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1) 
 - [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1) 
 - [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245) 
 - [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1) 
@@ -784,6 +785,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-26-瓶子君邀你进群学习啦](https://www.ershicimi.com/p/10b7a1ece24abc0e29686cff48c4e829) 
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82) 
 - [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 
 - [2020-05-23-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/2f5e766fa0bcfd8eb8510070c9cfe5b2) 

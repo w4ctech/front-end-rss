@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 09:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -54,6 +54,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-26-最新版-Edge-已经可以同步扩展了](https://www.v2ex.com/t/675478) 
 - [2020-05-25-招聘-网站安全](https://www.v2ex.com/t/675396) 
 - [2020-05-25-是不是可以放弃浏览器“书签”这种产品了？](https://www.v2ex.com/t/675382) 
 - [2020-05-25-giturl-和-commit-键值对存数据库，怎么设计表查询效率比较好？](https://www.v2ex.com/t/675371) 

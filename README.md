@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 16:30:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1) ![](assets/new.png)  
-- [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-广西援鄂医疗队员梁小霞逝世-此前在武汉协和医院工作时晕倒昏迷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgesA0MrtC04NzXhAv94200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1)  
+- [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1)  
 - [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1)  
 - [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1)  
 - [2020-05-26-香港国际机场将于6月1日恢复转机服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-25-伊朗外交部发言人：美国没有资格评判其他国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioEOW6BF5Qg0SHVicNExu200525&isfromapp=1)  
 - [2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1)  
 - [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1)  
-- [2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

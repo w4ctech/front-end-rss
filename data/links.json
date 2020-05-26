@@ -11487,6 +11487,96 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "请问底软转行怎么选？",
+        "link": "https://www.v2ex.com/t/675506",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "看了 b 乎热搜天价彩礼的问题,有人说本质归于重男轻女,产生个疑问",
+        "link": "https://www.v2ex.com/t/675504",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "现在 IT 人，是否有什么证书值得考取一下的呢？",
+        "link": "https://www.v2ex.com/t/675502",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "Python 如何实现一个和属性值相关的单例？",
+        "link": "https://www.v2ex.com/t/675501",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "从事 iOS 工作 3 年了，现在突然有点迷茫了？不知道的路该怎么走了。请各位给小弟一点点人生建议。",
+        "link": "https://www.v2ex.com/t/675499",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "EDGE 浏览器这同步书签到底是什么毛病？",
+        "link": "https://www.v2ex.com/t/675498",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "Golang 关于语法的一点疑惑",
+        "link": "https://www.v2ex.com/t/675497",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "袋鼠数据库管理工具(DBKangaroo) 0.24.1 发布",
+        "link": "https://www.v2ex.com/t/675495",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "请教大佬如何辨别字符串区别",
+        "link": "https://www.v2ex.com/t/675494",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "蚂蚁金服，上海， Java 研发方向 P7P8",
+        "link": "https://www.v2ex.com/t/675492",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "出事故后第二年车保险真的会贵吗？",
+        "link": "https://www.v2ex.com/t/675491",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "如何才能证明自己不是活在精神病或者植物人的世界里？",
+        "link": "https://www.v2ex.com/t/675490",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "招商银行 App 签到页面出现了控制台，这个属于生产事故吗？",
+        "link": "https://www.v2ex.com/t/675489",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "坚果云 Mac 版本无法关闭“开机启动”",
+        "link": "https://www.v2ex.com/t/675488",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "关于联通地铁站移动数据通信",
+        "link": "https://www.v2ex.com/t/675486",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "基于 Vue CSR 的微前端实现方案",
+        "link": "https://www.v2ex.com/t/675484",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "中文技术文档是否有写作规范？",
+        "link": "https://www.v2ex.com/t/675483",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "2020 年建立个人博客网站意义大么?",
+        "link": "https://www.v2ex.com/t/675482",
+        "date": "2020-05-26"
+      },
+      {
         "title": "建议疫情归国留学生可入高职高专",
         "link": "https://www.v2ex.com/t/675480",
         "date": "2020-05-26"
@@ -50453,6 +50543,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "为批量图片添加外阴影效果 (www.jeffjade.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13482&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F05%2F25%2F164-adding-shadow-effect-to-batch-image%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-26"
+      },
       {
         "title": "从零搭建深度学习框架（二）用Python实现计算图和自动微分 (johnhany.net)",
         "link": "https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

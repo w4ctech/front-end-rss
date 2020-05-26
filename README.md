@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 19:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 20:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1) ![](assets/new.png)  
-- [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283) ![](assets/new.png)  
-- [2020-05-26-菲律宾新增新冠肺炎确诊病例350例-累计确诊14669例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijAICxFL1rhRIbyx1RHg7200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1)  
+- [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283)  
+- [2020-05-26-菲律宾新增新冠肺炎确诊病例350例-累计确诊14669例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijAICxFL1rhRIbyx1RHg7200526&isfromapp=1)  
 - [2020-05-26-广西援鄂医疗队员梁小霞逝世-此前在武汉协和医院工作时晕倒昏迷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgesA0MrtC04NzXhAv94200526&isfromapp=1)  
 - [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1)  
 - [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1)  
@@ -859,6 +859,15 @@
 </summary>
 
 
+- [2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd) ![](assets/new.png)  
+- [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) ![](assets/new.png)  
+- [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) ![](assets/new.png)  
+- [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) ![](assets/new.png)  
+- [2020-05-25-击败三星、诺基亚后，“非洲机皇”传音的困局](https://www.ershicimi.com/p/a2e598973111c88a7a715c1b2ff53f55) ![](assets/new.png)  
+- [2020-05-25-300天350个版本，路孚特旗舰移动产品“0”到“1”的交付之路](https://www.ershicimi.com/p/0b0473cb1027c113e243eb89d964076e) ![](assets/new.png)  
+- [2020-05-25-隐私计算和联邦学习技术在多场景的落地实践-|-QCon](https://www.ershicimi.com/p/d58a50d070346b62358e3dfa51bfa0a6) ![](assets/new.png)  
+- [2020-05-25-这是一篇工程师对产品经理的吐槽](https://www.ershicimi.com/p/1d6a072429d94e2db6ac636967860a1a) ![](assets/new.png)  
+- [2020-05-25-Slack-的开发环境是如何演进的？](https://www.ershicimi.com/p/4202bf4893ab27c3e116134be74874eb) ![](assets/new.png)  
 - [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407)  
 - [2020-05-24-技术招聘已经变味了](https://www.ershicimi.com/p/26c847bbf9f868d3c43e32ccd5e92cd6)  
 - [2020-05-24-参与InfoQ写作平台创作，免费领取InfoQ编辑部内训课程](https://www.ershicimi.com/p/4845911c71c136e223b347fbbe742a51)  
@@ -870,15 +879,6 @@
 - [2020-05-22-半年筹备，三个月迁移，揭秘华新水泥的公有云迁移之路](https://www.ershicimi.com/p/7d225d8006f13a6e8f994bc2b8c41745)  
 - [2020-05-22-补“芯”造“魂”，聚焦开源时代的算力提升-|-Q推荐](https://www.ershicimi.com/p/0244ce79d1922083af3f6e1cb6456b2e)  
 - [2020-05-22-全面AI时代，什么样的人才可以成为“抢手货”？|-Q推荐](https://www.ershicimi.com/p/05de189494e2e1c3c87f1bed5cf98c04)  
-- [2020-05-22-做不好-Code-Review-的-6-大原因](https://www.ershicimi.com/p/619c6bc8fb687f3b7cd2eb7e974d4975)  
-- [2020-05-23-美国贸易管制黑名单再次新增；瑞幸厦门裁员50%，多为研发人员；iOS-13.5正式版：优化口罩解锁体](https://www.ershicimi.com/p/d34ac3b6b65eacd6e134623771d38ff4)  
-- [2020-05-23-技术人必看书籍免费送，再也不是中奖绝缘体](https://www.ershicimi.com/p/f971d3e650497db3c1ba3a547d5d7140)  
-- [2020-05-21-利好信息不断，国产基础软件的变局到了吗？](https://www.ershicimi.com/p/e1dcc221b5e10ab701b98c93f9b986d6)  
-- [2020-05-21-远程期间，开发者工作时间更长、节奏更快-|-GitHub特别版报告](https://www.ershicimi.com/p/29663d8ca637b6957cc889e812ef4829)  
-- [2020-05-21-端侧AI：从探索尝试到逐步展开-|-GMTC](https://www.ershicimi.com/p/9cb53496536987a829a0a23f3e54d3a8)  
-- [2020-05-21-当流量突变时，系统中的负载保护应如何应对？](https://www.ershicimi.com/p/b6ffe17213478235b59b0b358c56ee08)  
-- [2020-05-21-不要再依赖-CommonJS-了](https://www.ershicimi.com/p/28d19a807b8ccc5449a9e3ab7c5f22ab)  
-- [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

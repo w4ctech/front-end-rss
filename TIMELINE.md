@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-26 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1057,6 +1057,15 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd) 
+- [【InfoQ】2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
+- [【InfoQ】2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) 
+- [【InfoQ】2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) 
+- [【InfoQ】2020-05-25-击败三星、诺基亚后，“非洲机皇”传音的困局](https://www.ershicimi.com/p/a2e598973111c88a7a715c1b2ff53f55) 
+- [【InfoQ】2020-05-25-300天350个版本，路孚特旗舰移动产品“0”到“1”的交付之路](https://www.ershicimi.com/p/0b0473cb1027c113e243eb89d964076e) 
+- [【InfoQ】2020-05-25-隐私计算和联邦学习技术在多场景的落地实践-|-QCon](https://www.ershicimi.com/p/d58a50d070346b62358e3dfa51bfa0a6) 
+- [【InfoQ】2020-05-25-这是一篇工程师对产品经理的吐槽](https://www.ershicimi.com/p/1d6a072429d94e2db6ac636967860a1a) 
+- [【InfoQ】2020-05-25-Slack-的开发环境是如何演进的？](https://www.ershicimi.com/p/4202bf4893ab27c3e116134be74874eb) 
 - [【InfoQ】2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
 - [【InfoQ】2020-05-24-技术招聘已经变味了](https://www.ershicimi.com/p/26c847bbf9f868d3c43e32ccd5e92cd6) 
 - [【InfoQ】2020-05-24-参与InfoQ写作平台创作，免费领取InfoQ编辑部内训课程](https://www.ershicimi.com/p/4845911c71c136e223b347fbbe742a51) 

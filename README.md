@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 00:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 00:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1) ![](assets/new.png)  
 - [2020-05-26-世卫和中国一同展开病毒起源调查：赞扬中国的开放态度](http://m.weibo.cn/3057540037/4508927725983811)  
 - [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1)  
 - [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283)  
@@ -111,9 +114,6 @@
 - [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1)  
 - [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1)  
 - [2020-05-26-英国将从6月15日起重新开放非必需零售店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1)  
-- [2020-05-25-俄罗斯将从6月1日起解除对境内游的限制性措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1)  
-- [2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1)  
-- [2020-05-25-世卫组织：全球新冠肺炎确诊病例超过530万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,9 +1066,14 @@
 </summary>
 
 
-- [2020-05-26-想了解一下-C++工作-3-年工资一般能给到多少？](https://www.v2ex.com/t/675784) ![](assets/new.png)  
-- [2020-05-26-bash-里面有匿名管道吗？](https://www.v2ex.com/t/675783) ![](assets/new.png)  
-- [2020-05-26-请问有啥网盘，符合国内上传快，国外下载快的呢](https://www.v2ex.com/t/675781) ![](assets/new.png)  
+- [2020-05-27-树莓派使用-HC-SR04-模块超声波测距，距离有问题](https://www.v2ex.com/t/675789) ![](assets/new.png)  
+- [2020-05-27-准备北漂了,-六号线哪里租房便宜,-想租个次卧](https://www.v2ex.com/t/675788) ![](assets/new.png)  
+- [2020-05-27-Windows-里面的公用网络和专用网络区别究竟是啥？](https://www.v2ex.com/t/675787) ![](assets/new.png)  
+- [2020-05-27-这网络的锅哪个背?](https://www.v2ex.com/t/675786) ![](assets/new.png)  
+- [2020-05-27-深圳极客宽带（游戏宽带）公网-IP-被收回了，投诉无用](https://www.v2ex.com/t/675785) ![](assets/new.png)  
+- [2020-05-26-想了解一下-C++工作-3-年工资一般能给到多少？](https://www.v2ex.com/t/675784)  
+- [2020-05-26-bash-里面有匿名管道吗？](https://www.v2ex.com/t/675783)  
+- [2020-05-26-请问有啥网盘，符合国内上传快，国外下载快的呢](https://www.v2ex.com/t/675781)  
 - [2020-05-26-新手，手撸一个工具帮助处理-multi-repo-项目，希望有所帮助。](https://www.v2ex.com/t/675779)  
 - [2020-05-26-卖二手除了闲鱼还能用什么？](https://www.v2ex.com/t/675778)  
 - [2020-05-26-咸鱼了太久，在职海投了一波，给自己安排了一天三面，感觉全都凉凉，说不沮丧是不可能的](https://www.v2ex.com/t/675776)  
@@ -1081,11 +1086,6 @@
 - [2020-05-26-寻：资深区块链-PHP-兼职，要求：必须在杭州！待遇面谈！靠谱责任感强！](https://www.v2ex.com/t/675769)  
 - [2020-05-26-Java-使用-Spring-iinitialize-的项目无法通过-IDEA-的启动按钮启动。](https://www.v2ex.com/t/675768)  
 - [2020-05-26-求助-请问-chrome-浏览器的地址栏用的字体是什么呢?](https://www.v2ex.com/t/675767)  
-- [2020-05-26-家用娱乐影音本想换-18-款-MBP，求分析](https://www.v2ex.com/t/675766)  
-- [2020-05-26-关于宽带和路由的问题](https://www.v2ex.com/t/675763)  
-- [2020-05-26-图案锁屏的安全性如何](https://www.v2ex.com/t/675761)  
-- [2020-05-26-为什么女儿更粘我，明明我带她最少？](https://www.v2ex.com/t/675760)  
-- [2020-05-26-Python-B-文件里的每行数据匹配-A-文件里的内容-逻辑问题](https://www.v2ex.com/t/675759)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

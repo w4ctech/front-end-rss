@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-27 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-26-世卫和中国一同展开病毒起源调查：赞扬中国的开放态度](http://m.weibo.cn/3057540037/4508927725983811) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283) 
@@ -1262,6 +1265,11 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-27-树莓派使用-HC-SR04-模块超声波测距，距离有问题](https://www.v2ex.com/t/675789) 
+- [【V2EX】2020-05-27-准备北漂了,-六号线哪里租房便宜,-想租个次卧](https://www.v2ex.com/t/675788) 
+- [【V2EX】2020-05-27-Windows-里面的公用网络和专用网络区别究竟是啥？](https://www.v2ex.com/t/675787) 
+- [【V2EX】2020-05-27-这网络的锅哪个背?](https://www.v2ex.com/t/675786) 
+- [【V2EX】2020-05-27-深圳极客宽带（游戏宽带）公网-IP-被收回了，投诉无用](https://www.v2ex.com/t/675785) 
 - [【V2EX】2020-05-26-想了解一下-C++工作-3-年工资一般能给到多少？](https://www.v2ex.com/t/675784) 
 - [【V2EX】2020-05-26-bash-里面有匿名管道吗？](https://www.v2ex.com/t/675783) 
 - [【V2EX】2020-05-26-请问有啥网盘，符合国内上传快，国外下载快的呢](https://www.v2ex.com/t/675781) 

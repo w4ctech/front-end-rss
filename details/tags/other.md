@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1) 
 - [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245) 
 - [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1) 
 - [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1) 
@@ -1253,6 +1254,15 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-26-问问各位大佬，-100-人左右公司有必要弄正版系统吗？](https://www.v2ex.com/t/675463) 
+- [2020-05-26-notion-恢复正常，可以直接连接了](https://www.v2ex.com/t/675462) 
+- [2020-05-26-Apple-Pay-深圳通](https://www.v2ex.com/t/675461) 
+- [2020-05-26-用绿联-PD18W-快充-给-iPhone11-充电-之前充电是两声-现在只有一声了-啥情况](https://www.v2ex.com/t/675460) 
+- [2020-05-26-SQL-请教：两张同样的表，-ID-唯一，如何-select？](https://www.v2ex.com/t/675459) 
+- [2020-05-26-小书匠-8.1.0-更新发布,-在强大的-markdown-编辑器基础下,提供了功能更加完善的文章管理能力](https://www.v2ex.com/t/675458) 
+- [2020-05-26-你对工作中遇到的精致的利己主义者是什么态度？](https://www.v2ex.com/t/675455) 
+- [2020-05-26-谈谈第一次做水果电商赚了多少钱,我都做错了什么,做对了什么,](https://www.v2ex.com/t/675454) 
+- [2020-05-26-刚才北京地震了。。。](https://www.v2ex.com/t/675453) 
 - [2020-05-26-选移动端还是前端？](https://www.v2ex.com/t/675452) 
 - [2020-05-26-混-V-站以来，你记住了哪些人的-ID？](https://www.v2ex.com/t/675451) 
 - [2020-05-26-北京/上海/杭州/武汉/深圳/广州字节跳动飞书业务内推](https://www.v2ex.com/t/675450) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 08:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,11 +94,12 @@
 </summary>
 
 
-- [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245) ![](assets/new.png)  
-- [2020-05-26-世卫组织称不应假设新冠肺炎有季节性特点](http://m.weibo.cn/2803301701/4508727699427321) ![](assets/new.png)  
-- [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1) ![](assets/new.png)  
-- [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1) ![](assets/new.png)  
-- [2020-05-26-英国将从6月15日起重新开放非必需零售店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245)  
+- [2020-05-26-世卫组织称不应假设新冠肺炎有季节性特点](http://m.weibo.cn/2803301701/4508727699427321)  
+- [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1)  
+- [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1)  
+- [2020-05-26-英国将从6月15日起重新开放非必需零售店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1)  
 - [2020-05-25-俄罗斯将从6月1日起解除对境内游的限制性措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1)  
 - [2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1)  
 - [2020-05-25-世卫组织：全球新冠肺炎确诊病例超过530万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-25-伊拉克疫情突然恶化-议会呼吁恢复全面宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKitCWnRqoVPtRQ6Prxp200525&isfromapp=1)  
 - [2020-05-25-俄罗斯新增新冠肺炎确诊病例8946例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6fvq5PYRt7PcWOvMSbR200525&isfromapp=1)  
 - [2020-05-25-刚果（金）新增156例新冠肺炎确诊病例-累计确诊2297例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR340UUT8Rx71Dygbna6u200525&isfromapp=1)  
-- [2020-05-25-中国驻印度大使馆：协助确有困难的留学生、游客等搭乘临时航班回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7m3fqPFtHodRJ0bs2Qi200525&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,6 +1066,15 @@
 </summary>
 
 
+- [2020-05-26-问问各位大佬，-100-人左右公司有必要弄正版系统吗？](https://www.v2ex.com/t/675463) ![](assets/new.png)  
+- [2020-05-26-notion-恢复正常，可以直接连接了](https://www.v2ex.com/t/675462) ![](assets/new.png)  
+- [2020-05-26-Apple-Pay-深圳通](https://www.v2ex.com/t/675461) ![](assets/new.png)  
+- [2020-05-26-用绿联-PD18W-快充-给-iPhone11-充电-之前充电是两声-现在只有一声了-啥情况](https://www.v2ex.com/t/675460) ![](assets/new.png)  
+- [2020-05-26-SQL-请教：两张同样的表，-ID-唯一，如何-select？](https://www.v2ex.com/t/675459) ![](assets/new.png)  
+- [2020-05-26-小书匠-8.1.0-更新发布,-在强大的-markdown-编辑器基础下,提供了功能更加完善的文章管理能力](https://www.v2ex.com/t/675458) ![](assets/new.png)  
+- [2020-05-26-你对工作中遇到的精致的利己主义者是什么态度？](https://www.v2ex.com/t/675455) ![](assets/new.png)  
+- [2020-05-26-谈谈第一次做水果电商赚了多少钱,我都做错了什么,做对了什么,](https://www.v2ex.com/t/675454) ![](assets/new.png)  
+- [2020-05-26-刚才北京地震了。。。](https://www.v2ex.com/t/675453) ![](assets/new.png)  
 - [2020-05-26-选移动端还是前端？](https://www.v2ex.com/t/675452)  
 - [2020-05-26-混-V-站以来，你记住了哪些人的-ID？](https://www.v2ex.com/t/675451)  
 - [2020-05-26-北京/上海/杭州/武汉/深圳/广州字节跳动飞书业务内推](https://www.v2ex.com/t/675450)  
@@ -1077,15 +1086,6 @@
 - [2020-05-25-感觉追赶证书很累，例如-MCSE-这些](https://www.v2ex.com/t/675443)  
 - [2020-05-25-Python-内存的一个问题](https://www.v2ex.com/t/675442)  
 - [2020-05-25--Java-工程师-2-4-年-Java-后端研发经验，学历本科以上。](https://www.v2ex.com/t/675441)  
-- [2020-05-25-网页文字游戏创作-有没有小伙伴一起来做？](https://www.v2ex.com/t/675440)  
-- [2020-05-25-阿里云的-IPv6-地址，国外是无法访问吗？](https://www.v2ex.com/t/675439)  
-- [2020-05-25-关于在职求职的一些疑问](https://www.v2ex.com/t/675438)  
-- [2020-05-25-有没有人分享过-Swift-版的-iOS-面试题/面经？](https://www.v2ex.com/t/675437)  
-- [2020-05-25-关于一个文档工具的咨询](https://www.v2ex.com/t/675436)  
-- [2020-05-25-拼夕夕上不到-7k-的索尼-55x9500h-靠谱吗？](https://www.v2ex.com/t/675434)  
-- [2020-05-25-一个-Android-APP-关联启动的方案探讨](https://www.v2ex.com/t/675433)  
-- [2020-05-25-咨询一下，家宽有-80-和-443-端口，如果用-443-端口会不会被封？](https://www.v2ex.com/t/675432)  
-- [2020-05-25-「北京」百度-APP-技术平台部-PHP-/GO-研发工程师-业务中台体系](https://www.v2ex.com/t/675430)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

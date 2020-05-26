@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-26 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -826,6 +826,7 @@
 - [【政采云前端团队】2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [【政采云前端团队】2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) 
 - [【政采云前端团队】2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [【前端宇宙】2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6) 
 - [【前端宇宙】2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0) 
 - [【前端宇宙】2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1) 
 - [【前端宇宙】2020-05-22-程序猿惯用口头禅，你被击中了吗？](https://www.ershicimi.com/p/20eb8967a59f5bb3470b5920e99ac5f4) 
@@ -7275,6 +7276,10 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi) 
+- [【开发者头条】2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk) 
+- [【开发者头条】2020-05-26-Android-P-内联优化导致的一个诡异-Bug](https://toutiao.io/k/qmj08du) 
+- [【开发者头条】2020-05-26-Kafka-时间轮的原理和实现](https://toutiao.io/k/6xndmnd) 
 - [【开发者头条】2020-05-26-深入理解-JS-对象隐式类型转换的过程](https://toutiao.io/k/6uxgh48) 
 - [【开发者头条】2020-05-26-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo) 
 - [【开发者头条】2020-05-26-理解-Java-8-中的时间-API](https://toutiao.io/k/w0z3qwr) 

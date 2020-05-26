@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 05:00:12，:rocket: 更新条数: +187， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -63,26 +63,26 @@
 </summary>
 
 
-- [2020-05-25-【境内疫情观察】内蒙古新增10例境外输入病例（5月24日）](http://database.caixin.com/2020-05-25/101558529.html) ![](assets/new.png)  
-- [2020-05-25-深圳学生复阳未现传染性-密接师生已解除隔离](http://china.caixin.com/2020-05-25/101558605.html) ![](assets/new.png)  
-- [2020-05-25-英国少数族裔新冠死亡率高于整体-外来医护处境成焦点](http://international.caixin.com/2020-05-25/101558697.html) ![](assets/new.png)  
-- [2020-05-25-最新疫情：全国新冠累计确诊82985例-内蒙古新增境外输入10例](http://china.caixin.com/2020-05-25/101558403.html) ![](assets/new.png)  
-- [2020-05-25-最新海外疫情：新冠感染者增至近529万-累计死亡超34万](http://international.caixin.com/2020-05-25/101558609.html) ![](assets/new.png)  
-- [2020-05-25-大流行手记|5月25日：宗教活动解禁-德国一教堂现集体感染](http://www.caixin.com/2020-05-25/101558777.html) ![](assets/new.png)  
-- [2020-05-24-大流行手记|5月24日：非洲感染破十万人，各国防疫步调不一](http://www.caixin.com/2020-05-24/101558343.html) ![](assets/new.png)  
-- [2020-05-24-【境内疫情观察】全国新增3例确诊病例（5月23日）](http://database.caixin.com/2020-05-24/101558138.html) ![](assets/new.png)  
-- [2020-05-24-大流行手记|5月23日：美国大规模新冠疫苗人体试验或提速](http://www.caixin.com/2020-05-24/101558090.html) ![](assets/new.png)  
-- [2020-05-23-【境内疫情观察】全国31省区市首次0新增（5月22日）](http://database.caixin.com/2020-05-23/101557913.html) ![](assets/new.png)  
-- [2020-05-22-大流行手记|5月22日：英国4月财政赤字创新高](http://www.caixin.com/2020-05-22/101557758.html) ![](assets/new.png)  
-- [2020-05-22-【境内疫情观察】四川新增2例境外输入病例（5月21日）](http://database.caixin.com/2020-05-22/101557437.html) ![](assets/new.png)  
-- [2020-05-22-77名诺奖得主抗议中美科研经费遭砍-殃及蝙蝠病毒研究](http://international.caixin.com/2020-05-22/101557599.html) ![](assets/new.png)  
-- [2020-05-21-大流行手记|5月21日：日本经济受重创-拟下周解封首都圈](http://www.caixin.com/2020-05-21/101557158.html) ![](assets/new.png)  
-- [2020-05-21-【境内疫情观察】上海新增1例湖北来沪病例（5月20日）](http://database.caixin.com/2020-05-21/101556868.html) ![](assets/new.png)  
-- [2020-05-21-大流行手记|5月20日：应对饥荒风险，粮农组织拟筹资3.5亿美元](http://www.caixin.com/2020-05-21/101556663.html) ![](assets/new.png)  
-- [2020-05-20-【境内疫情观察】吉林新增4例本土病例（5月19日）](http://database.caixin.com/2020-05-20/101556242.html) ![](assets/new.png)  
-- [2020-05-19-大流行手记|5月19日：拉美疫情加速狂奔](http://www.caixin.com/2020-05-19/101556081.html) ![](assets/new.png)  
-- [2020-05-19-【境内疫情观察】内蒙古新增3例境外输入病例（5月18日）](http://database.caixin.com/2020-05-19/101555789.html) ![](assets/new.png)  
-- [2020-05-18-大流行手记|5月18日:非洲确诊近8.5万人-中国援助加码](http://www.caixin.com/2020-05-18/101555555.html) ![](assets/new.png)  
+- [2020-05-25-【境内疫情观察】内蒙古新增10例境外输入病例（5月24日）](http://database.caixin.com/2020-05-25/101558529.html)  
+- [2020-05-25-深圳学生复阳未现传染性-密接师生已解除隔离](http://china.caixin.com/2020-05-25/101558605.html)  
+- [2020-05-25-英国少数族裔新冠死亡率高于整体-外来医护处境成焦点](http://international.caixin.com/2020-05-25/101558697.html)  
+- [2020-05-25-最新疫情：全国新冠累计确诊82985例-内蒙古新增境外输入10例](http://china.caixin.com/2020-05-25/101558403.html)  
+- [2020-05-25-最新海外疫情：新冠感染者增至近529万-累计死亡超34万](http://international.caixin.com/2020-05-25/101558609.html)  
+- [2020-05-25-大流行手记|5月25日：宗教活动解禁-德国一教堂现集体感染](http://www.caixin.com/2020-05-25/101558777.html)  
+- [2020-05-24-大流行手记|5月24日：非洲感染破十万人，各国防疫步调不一](http://www.caixin.com/2020-05-24/101558343.html)  
+- [2020-05-24-【境内疫情观察】全国新增3例确诊病例（5月23日）](http://database.caixin.com/2020-05-24/101558138.html)  
+- [2020-05-24-大流行手记|5月23日：美国大规模新冠疫苗人体试验或提速](http://www.caixin.com/2020-05-24/101558090.html)  
+- [2020-05-23-【境内疫情观察】全国31省区市首次0新增（5月22日）](http://database.caixin.com/2020-05-23/101557913.html)  
+- [2020-05-22-大流行手记|5月22日：英国4月财政赤字创新高](http://www.caixin.com/2020-05-22/101557758.html)  
+- [2020-05-22-【境内疫情观察】四川新增2例境外输入病例（5月21日）](http://database.caixin.com/2020-05-22/101557437.html)  
+- [2020-05-22-77名诺奖得主抗议中美科研经费遭砍-殃及蝙蝠病毒研究](http://international.caixin.com/2020-05-22/101557599.html)  
+- [2020-05-21-大流行手记|5月21日：日本经济受重创-拟下周解封首都圈](http://www.caixin.com/2020-05-21/101557158.html)  
+- [2020-05-21-【境内疫情观察】上海新增1例湖北来沪病例（5月20日）](http://database.caixin.com/2020-05-21/101556868.html)  
+- [2020-05-21-大流行手记|5月20日：应对饥荒风险，粮农组织拟筹资3.5亿美元](http://www.caixin.com/2020-05-21/101556663.html)  
+- [2020-05-20-【境内疫情观察】吉林新增4例本土病例（5月19日）](http://database.caixin.com/2020-05-20/101556242.html)  
+- [2020-05-19-大流行手记|5月19日：拉美疫情加速狂奔](http://www.caixin.com/2020-05-19/101556081.html)  
+- [2020-05-19-【境内疫情观察】内蒙古新增3例境外输入病例（5月18日）](http://database.caixin.com/2020-05-19/101555789.html)  
+- [2020-05-18-大流行手记|5月18日:非洲确诊近8.5万人-中国援助加码](http://www.caixin.com/2020-05-18/101555555.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245) ![](assets/new.png)  
+- [2020-05-26-世卫组织称不应假设新冠肺炎有季节性特点](http://m.weibo.cn/2803301701/4508727699427321) ![](assets/new.png)  
+- [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-英国将从6月15日起重新开放非必需零售店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1) ![](assets/new.png)  
 - [2020-05-25-俄罗斯将从6月1日起解除对境内游的限制性措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1)  
 - [2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1)  
 - [2020-05-25-世卫组织：全球新冠肺炎确诊病例超过530万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-25-俄罗斯新增新冠肺炎确诊病例8946例-累计超35万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6fvq5PYRt7PcWOvMSbR200525&isfromapp=1)  
 - [2020-05-25-刚果（金）新增156例新冠肺炎确诊病例-累计确诊2297例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR340UUT8Rx71Dygbna6u200525&isfromapp=1)  
 - [2020-05-25-中国驻印度大使馆：协助确有困难的留学生、游客等搭乘临时航班回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7m3fqPFtHodRJ0bs2Qi200525&isfromapp=1)  
-- [2020-05-25-湖北各高校毕业年级6月8日起按错时错峰、自愿原则返校](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipkWv6oxVlORJWShIUCzS200525&isfromapp=1)  
-- [2020-05-25-疫情期间特事特办-司法部为常态化疫情防控新阶段提供有力法治保障](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwElhgY1DPMY1EOHtE39S200525&isfromapp=1)  
-- [2020-05-25-斯里兰卡新冠肺炎确诊病例升至1141例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJARW9VQ57aWbyq1vzEi200525&isfromapp=1)  
-- [2020-05-25-公共假期来临美国多州海滩人满为患-佛州一海滩附近发生枪击多人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiawQ2oPSJnfT5I1i7AYBo200525&isfromapp=1)  
-- [2020-05-25-巴西联邦政府包机将750万个口罩从中国运至巴西](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjQUXLjWhAdvAgnVFr2k200525&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

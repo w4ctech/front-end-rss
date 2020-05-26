@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 05:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,10 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245) 
+- [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1) 
+- [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1) 
+- [2020-05-26-英国将从6月15日起重新开放非必需零售店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1) 
 - [2020-05-25-俄罗斯将从6月1日起解除对境内游的限制性措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1) 
 - [2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1) 
 - [2020-05-25-多位驻华大使齐发声：全球合力抗疫-中国担当受赞扬](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFAdXX6Xfj0uqAMCQi7yH200525&isfromapp=1) 

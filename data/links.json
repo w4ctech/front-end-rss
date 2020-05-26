@@ -3956,6 +3956,16 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "收藏吧 | 前端常用60余种工具方法",
+        "link": "https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "推荐几位朋友圈出镜率极高的大佬",
+        "link": "https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461",
+        "date": "2020-05-26"
+      },
+      {
         "title": "上万课程免费学？这波羊毛不薅太亏了！",
         "link": "https://www.ershicimi.com/p/7d08ce53a5dcd7a8482cbddf0160b48f",
         "date": "2020-05-25"
@@ -7002,6 +7012,11 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "我和大佬之间差一个JS工具函数大全..(建议收藏)",
+        "link": "https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb",
+        "date": "2020-05-26"
+      },
       {
         "title": "Vue3.0来了，看看尤大大画的重点",
         "link": "https://www.ershicimi.com/p/16ad94dbe0bc186cb44bedddf1d0f17f",
@@ -50870,6 +50885,81 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "深入理解 JS 对象隐式类型转换的过程",
+        "link": "https://toutiao.io/k/6uxgh48",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "2 年 6 个月 11 天，外包到阿里的修仙之路",
+        "link": "https://toutiao.io/k/nje9qfo",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "理解 Java 8 中的时间 API",
+        "link": "https://toutiao.io/k/w0z3qwr",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "如何实现 git 命令行的联想功能",
+        "link": "https://toutiao.io/k/nr8t1an",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "如何部署 Scala 代码",
+        "link": "https://toutiao.io/k/dgwby6c",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "Android Bitmap 详解：关于 Bitmap 你所要知道的一切",
+        "link": "https://toutiao.io/k/mqsjkuy",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "Pagic：用 Deno 写的静态网站生成器",
+        "link": "https://toutiao.io/k/4svqnao",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "手撕 Webpack：创建自己的 library",
+        "link": "https://toutiao.io/k/tj9uy2r",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "前端也能轻松年薪 20w+？超详细前端入门攻略拿去",
+        "link": "https://toutiao.io/k/axzvu7k",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "React Hooks 踩坑分享",
+        "link": "https://toutiao.io/k/uby7w2h",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "项目中如何实现 SQL 耗时监控？",
+        "link": "https://toutiao.io/k/8bwt873",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "一文读懂阿里大中台、小前台战略",
+        "link": "https://toutiao.io/k/kn2w13c",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "Kotlin Coroutines Flow 系列（五）",
+        "link": "https://toutiao.io/k/gncow0j",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "想读懂 YOLOV4，你需要先了解下列技术（一）",
+        "link": "https://toutiao.io/k/ujc8pcy",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "Tekton 的工作原理",
+        "link": "https://toutiao.io/k/3qvabsk",
+        "date": "2020-05-26"
+      },
       {
         "title": "[译] 只用 3 步构建 Go Docker 最小镜像",
         "link": "https://toutiao.io/k/ce0hboo",

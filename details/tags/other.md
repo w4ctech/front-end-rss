@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 09:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -553,6 +553,8 @@
 - [2020-05-12-国际护士节丨全国护士达445万-其中女性约占97%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipScUv0Ke4Jvav5PqWiEP200512&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-26-收藏吧-|-前端常用60余种工具方法](https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c) 
+- [2020-05-26-推荐几位朋友圈出镜率极高的大佬](https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461) 
 - [2020-05-25-上万课程免费学？这波羊毛不薅太亏了！](https://www.ershicimi.com/p/7d08ce53a5dcd7a8482cbddf0160b48f) 
 - [2020-05-25-张一鸣：高级人才的五个基本素质](https://www.ershicimi.com/p/518091185a035a329fa2aa5241772934) 
 - [2020-05-23-好用到叫出声！强烈推荐-10-款-Mac-软件！](https://www.ershicimi.com/p/2d5225e118209e946875c80e244bafe5) 
@@ -7483,6 +7485,17 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-26-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo) 
+- [2020-05-26-理解-Java-8-中的时间-API](https://toutiao.io/k/w0z3qwr) 
+- [2020-05-26-如何部署-Scala-代码](https://toutiao.io/k/dgwby6c) 
+- [2020-05-26-Android-Bitmap-详解：关于-Bitmap-你所要知道的一切](https://toutiao.io/k/mqsjkuy) 
+- [2020-05-26-Pagic：用-Deno-写的静态网站生成器](https://toutiao.io/k/4svqnao) 
+- [2020-05-26-前端也能轻松年薪-20w+？超详细前端入门攻略拿去](https://toutiao.io/k/axzvu7k) 
+- [2020-05-26-项目中如何实现-SQL-耗时监控？](https://toutiao.io/k/8bwt873) 
+- [2020-05-26-一文读懂阿里大中台、小前台战略](https://toutiao.io/k/kn2w13c) 
+- [2020-05-26-Kotlin-Coroutines-Flow-系列（五）](https://toutiao.io/k/gncow0j) 
+- [2020-05-26-想读懂-YOLOV4，你需要先了解下列技术（一）](https://toutiao.io/k/ujc8pcy) 
+- [2020-05-26-Tekton-的工作原理](https://toutiao.io/k/3qvabsk) 
 - [2020-05-25-玩转-KCP（二）：流模式和消息模式](https://toutiao.io/k/b23jihi) 
 - [2020-05-25-Spring-Context-继承关系及对-Bean-的影响](https://toutiao.io/k/itxkt7m) 
 - [2020-05-25-漫谈分布式系统（十三）：再探分布式事务](https://toutiao.io/k/fpo394q) 

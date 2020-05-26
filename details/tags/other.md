@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 11:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1256,6 +1256,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-26-关于-oss-上删除资源的问题！](https://www.v2ex.com/t/675522) 
+- [2020-05-26-大家是否遇到，-Let's-Encrypt-免费证书更新失败](https://www.v2ex.com/t/675521) 
+- [2020-05-26-你们-APP-用户发的内容过滤用的哪家](https://www.v2ex.com/t/675520) 
+- [2020-05-26-等前端深入业务层,后端下沉到底层设施环境之后...](https://www.v2ex.com/t/675519) 
+- [2020-05-26-在问与答中发布新主题提示需要注册满-720-天？](https://www.v2ex.com/t/675518) 
+- [2020-05-26-有多少-DOTA2-玩家？-TI10-本子发售了！](https://www.v2ex.com/t/675517) 
+- [2020-05-26-有没有可以把-PDF-页面平铺开的阅读软件？](https://www.v2ex.com/t/675515) 
+- [2020-05-26-好惨啊~~~~](https://www.v2ex.com/t/675514) 
 - [2020-05-26-请问底软转行怎么选？](https://www.v2ex.com/t/675506) 
 - [2020-05-26-看了-b-乎热搜天价彩礼的问题,有人说本质归于重男轻女,产生个疑问](https://www.v2ex.com/t/675504) 
 - [2020-05-26-现在-IT-人，是否有什么证书值得考取一下的呢？](https://www.v2ex.com/t/675502) 
@@ -7513,6 +7521,7 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-26-如何用大数据-+-AI-实现实时美声，让用户的声音更动听](https://toutiao.io/k/0zunzgn) 
 - [2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi) 
 - [2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk) 
 - [2020-05-26-Kafka-时间轮的原理和实现](https://toutiao.io/k/6xndmnd) 

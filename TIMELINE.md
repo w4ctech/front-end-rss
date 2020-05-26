@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-26 11:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -650,6 +650,7 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf) 
 - [【前端开发】2020-05-25-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32) 
 - [【前端开发】2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241) 
 - [【前端开发】2020-05-23-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e) 
@@ -1225,6 +1226,16 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-26-有偿需求咨询H5-站点搭建配合微信小程序](https://www.v2ex.com/t/675523) 
+- [【V2EX】2020-05-26-关于-oss-上删除资源的问题！](https://www.v2ex.com/t/675522) 
+- [【V2EX】2020-05-26-大家是否遇到，-Let's-Encrypt-免费证书更新失败](https://www.v2ex.com/t/675521) 
+- [【V2EX】2020-05-26-你们-APP-用户发的内容过滤用的哪家](https://www.v2ex.com/t/675520) 
+- [【V2EX】2020-05-26-等前端深入业务层,后端下沉到底层设施环境之后...](https://www.v2ex.com/t/675519) 
+- [【V2EX】2020-05-26-在问与答中发布新主题提示需要注册满-720-天？](https://www.v2ex.com/t/675518) 
+- [【V2EX】2020-05-26-有多少-DOTA2-玩家？-TI10-本子发售了！](https://www.v2ex.com/t/675517) 
+- [【V2EX】2020-05-26-有没有可以把-PDF-页面平铺开的阅读软件？](https://www.v2ex.com/t/675515) 
+- [【V2EX】2020-05-26-好惨啊~~~~](https://www.v2ex.com/t/675514) 
+- [【V2EX】2020-05-26-上海-智能机器人算法工程师招聘](https://www.v2ex.com/t/675513) 
 - [【V2EX】2020-05-26-请问底软转行怎么选？](https://www.v2ex.com/t/675506) 
 - [【V2EX】2020-05-26-看了-b-乎热搜天价彩礼的问题,有人说本质归于重男轻女,产生个疑问](https://www.v2ex.com/t/675504) 
 - [【V2EX】2020-05-26-现在-IT-人，是否有什么证书值得考取一下的呢？](https://www.v2ex.com/t/675502) 
@@ -7295,6 +7306,7 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-26-如何用大数据-+-AI-实现实时美声，让用户的声音更动听](https://toutiao.io/k/0zunzgn) 
 - [【开发者头条】2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi) 
 - [【开发者头条】2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk) 
 - [【开发者头条】2020-05-26-Android-P-内联优化导致的一个诡异-Bug](https://toutiao.io/k/qmj08du) 

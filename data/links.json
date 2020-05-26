@@ -4991,6 +4991,11 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "如何衡量一个人的 JavaScript 水平？",
+        "link": "https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf",
+        "date": "2020-05-26"
+      },
+      {
         "title": "面试前端岗，你被要求手写源码了吗？",
         "link": "https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32",
         "date": "2020-05-25"
@@ -11486,6 +11491,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "[有偿需求咨询]H5 站点搭建配合微信小程序",
+        "link": "https://www.v2ex.com/t/675523",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "关于 oss 上删除资源的问题！",
+        "link": "https://www.v2ex.com/t/675522",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "大家是否遇到， Let's Encrypt 免费证书更新失败",
+        "link": "https://www.v2ex.com/t/675521",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "你们 APP 用户发的内容过滤用的哪家",
+        "link": "https://www.v2ex.com/t/675520",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "等前端深入业务层,后端下沉到底层设施环境之后...",
+        "link": "https://www.v2ex.com/t/675519",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "在问与答中发布新主题提示需要注册满 720 天？",
+        "link": "https://www.v2ex.com/t/675518",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "有多少 DOTA2 玩家？ TI10 本子发售了！",
+        "link": "https://www.v2ex.com/t/675517",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "有没有可以把 PDF 页面平铺开的阅读软件？",
+        "link": "https://www.v2ex.com/t/675515",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "好惨啊~~~~",
+        "link": "https://www.v2ex.com/t/675514",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "[上海] 智能机器人算法工程师招聘",
+        "link": "https://www.v2ex.com/t/675513",
+        "date": "2020-05-26"
+      },
       {
         "title": "请问底软转行怎么选？",
         "link": "https://www.v2ex.com/t/675506",
@@ -51055,6 +51110,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "如何用大数据 + AI 实现实时美声，让用户的声音更动听",
+        "link": "https://toutiao.io/k/0zunzgn",
+        "date": "2020-05-26"
+      },
       {
         "title": "了不起的 Deno 入门教程",
         "link": "https://toutiao.io/k/oihlpwi",

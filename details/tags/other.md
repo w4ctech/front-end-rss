@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 13:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7560,6 +7560,11 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-26-数据与广告（二十一）：关于品牌广告，奔涌吧后浪](https://toutiao.io/k/5jvca8k) 
+- [2020-05-26-LevelDB-完全解析（九）：写操作](https://toutiao.io/k/tq3fzpu) 
+- [2020-05-26-协程中的取消和异常：核心概念介绍](https://toutiao.io/k/fr0gbrr) 
+- [2020-05-26-哈达玛矩阵指导下的在线哈希学习新方法](https://toutiao.io/k/86kfa7x) 
+- [2020-05-26-美团无人配送-CVPR-2020-论文-CenterMask-解读](https://toutiao.io/k/a9t7orb) 
 - [2020-05-26-如何用大数据-+-AI-实现实时美声，让用户的声音更动听](https://toutiao.io/k/0zunzgn) 
 - [2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi) 
 - [2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk) 

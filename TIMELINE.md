@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 13:30:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-26 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -7358,6 +7358,13 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-26-数据与广告（二十一）：关于品牌广告，奔涌吧后浪](https://toutiao.io/k/5jvca8k) 
+- [【开发者头条】2020-05-26-LevelDB-完全解析（九）：写操作](https://toutiao.io/k/tq3fzpu) 
+- [【开发者头条】2020-05-26-协程中的取消和异常：核心概念介绍](https://toutiao.io/k/fr0gbrr) 
+- [【开发者头条】2020-05-26-面试官：不会看-Explain-执行计划，简历敢写-SQL-优化？](https://toutiao.io/k/ui57ja5) 
+- [【开发者头条】2020-05-26-最短路径算法：Bellman-Ford-算法](https://toutiao.io/k/t8ehw3f) 
+- [【开发者头条】2020-05-26-哈达玛矩阵指导下的在线哈希学习新方法](https://toutiao.io/k/86kfa7x) 
+- [【开发者头条】2020-05-26-美团无人配送-CVPR-2020-论文-CenterMask-解读](https://toutiao.io/k/a9t7orb) 
 - [【开发者头条】2020-05-26-如何用大数据-+-AI-实现实时美声，让用户的声音更动听](https://toutiao.io/k/0zunzgn) 
 - [【开发者头条】2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi) 
 - [【开发者头条】2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk) 

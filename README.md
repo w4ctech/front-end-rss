@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 13:30:14，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 14:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1)  
 - [2020-05-26-香港国际机场将于6月1日恢复转机服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1)  
 - [2020-05-26-上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院4例](http://wsjkw.sh.gov.cn/xwfb/20200526/b13066232b8a4001b0da3e85292fc243.html)  
 - [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1)  
@@ -1066,26 +1066,26 @@
 </summary>
 
 
-- [2020-05-26-说说看你装修的时候最后悔的三件事吧？](https://www.v2ex.com/t/675576) ![](assets/new.png)  
-- [2020-05-26-Gse-v0.50.0-发布了,-Go-高性能分词,-大幅度更新](https://www.v2ex.com/t/675574) ![](assets/new.png)  
-- [2020-05-26-我有一个-hetazhu-和-TA-住的域名。大家有什么好的想法](https://www.v2ex.com/t/675573) ![](assets/new.png)  
-- [2020-05-26-迫于百度网盘太慢，求-ps-2019/2020-的下载链接，不要百度，速度越快越好](https://www.v2ex.com/t/675572) ![](assets/new.png)  
-- [2020-05-26-MVU（Mode-View-Update）想请教一下各位对这种模式的了解](https://www.v2ex.com/t/675571) ![](assets/new.png)  
-- [2020-05-26-年近-30，没有-20k-的-Java-是不是没有未来？](https://www.v2ex.com/t/675570) ![](assets/new.png)  
-- [2020-05-26-大家在求职过程过有遇到这样的情况吗？](https://www.v2ex.com/t/675568) ![](assets/new.png)  
-- [2020-05-26-求推荐国内-google-font-镜像](https://www.v2ex.com/t/675567) ![](assets/new.png)  
-- [2020-05-26-求大佬推荐一款软路由配置，能跑千兆](https://www.v2ex.com/t/675566) ![](assets/new.png)  
-- [2020-05-26-干货满满-给大家分享个-Java-工具库，绝对能提高你的工作效率](https://www.v2ex.com/t/675564) ![](assets/new.png)  
-- [2020-05-26-求问，-618-的-500-价位键盘有何推荐？](https://www.v2ex.com/t/675560) ![](assets/new.png)  
-- [2020-05-26-「北京」「贝壳找房-VR-团队-」「后端-PHP-、前端-」-急招组内直推。](https://www.v2ex.com/t/675559) ![](assets/new.png)  
-- [2020-05-26-深圳有什么推荐的牙科医院吗](https://www.v2ex.com/t/675558) ![](assets/new.png)  
-- [2020-05-26-LeanCloud-开始周期性远程工作了！](https://www.v2ex.com/t/675556) ![](assets/new.png)  
-- [2020-05-26-怎么看待强行加塞的行为？](https://www.v2ex.com/t/675555) ![](assets/new.png)  
-- [2020-05-26-gitee-码云私有仓库不可靠啊！配置文件的帐号密码一样泄漏！](https://www.v2ex.com/t/675553) ![](assets/new.png)  
-- [2020-05-26-回到乡下，过上自给自足的生活有没有可行性？](https://www.v2ex.com/t/675552) ![](assets/new.png)  
-- [2020-05-26-Optional.ofNullablemap.get"xxx".orElse"".toString;有更简洁-Map-取值-toString-方法吗](https://www.v2ex.com/t/675550) ![](assets/new.png)  
-- [2020-05-26-问一个-pycharm-中使用-git-的问题](https://www.v2ex.com/t/675549) ![](assets/new.png)  
-- [2020-05-26-有人用微软日历吗？](https://www.v2ex.com/t/675548) ![](assets/new.png)  
+- [2020-05-26-说说看你装修的时候最后悔的三件事吧？](https://www.v2ex.com/t/675576)  
+- [2020-05-26-Gse-v0.50.0-发布了,-Go-高性能分词,-大幅度更新](https://www.v2ex.com/t/675574)  
+- [2020-05-26-我有一个-hetazhu-和-TA-住的域名。大家有什么好的想法](https://www.v2ex.com/t/675573)  
+- [2020-05-26-迫于百度网盘太慢，求-ps-2019/2020-的下载链接，不要百度，速度越快越好](https://www.v2ex.com/t/675572)  
+- [2020-05-26-MVU（Mode-View-Update）想请教一下各位对这种模式的了解](https://www.v2ex.com/t/675571)  
+- [2020-05-26-年近-30，没有-20k-的-Java-是不是没有未来？](https://www.v2ex.com/t/675570)  
+- [2020-05-26-大家在求职过程过有遇到这样的情况吗？](https://www.v2ex.com/t/675568)  
+- [2020-05-26-求推荐国内-google-font-镜像](https://www.v2ex.com/t/675567)  
+- [2020-05-26-求大佬推荐一款软路由配置，能跑千兆](https://www.v2ex.com/t/675566)  
+- [2020-05-26-干货满满-给大家分享个-Java-工具库，绝对能提高你的工作效率](https://www.v2ex.com/t/675564)  
+- [2020-05-26-求问，-618-的-500-价位键盘有何推荐？](https://www.v2ex.com/t/675560)  
+- [2020-05-26-「北京」「贝壳找房-VR-团队-」「后端-PHP-、前端-」-急招组内直推。](https://www.v2ex.com/t/675559)  
+- [2020-05-26-深圳有什么推荐的牙科医院吗](https://www.v2ex.com/t/675558)  
+- [2020-05-26-LeanCloud-开始周期性远程工作了！](https://www.v2ex.com/t/675556)  
+- [2020-05-26-怎么看待强行加塞的行为？](https://www.v2ex.com/t/675555)  
+- [2020-05-26-gitee-码云私有仓库不可靠啊！配置文件的帐号密码一样泄漏！](https://www.v2ex.com/t/675553)  
+- [2020-05-26-回到乡下，过上自给自足的生活有没有可行性？](https://www.v2ex.com/t/675552)  
+- [2020-05-26-Optional.ofNullablemap.get"xxx".orElse"".toString;有更简洁-Map-取值-toString-方法吗](https://www.v2ex.com/t/675550)  
+- [2020-05-26-问一个-pycharm-中使用-git-的问题](https://www.v2ex.com/t/675549)  
+- [2020-05-26-有人用微软日历吗？](https://www.v2ex.com/t/675548)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,6 +1128,13 @@
 </summary>
 
 
+- [2020-05-26-数据与广告（二十一）：关于品牌广告，奔涌吧后浪](https://toutiao.io/k/5jvca8k) ![](assets/new.png)  
+- [2020-05-26-LevelDB-完全解析（九）：写操作](https://toutiao.io/k/tq3fzpu) ![](assets/new.png)  
+- [2020-05-26-协程中的取消和异常：核心概念介绍](https://toutiao.io/k/fr0gbrr) ![](assets/new.png)  
+- [2020-05-26-面试官：不会看-Explain-执行计划，简历敢写-SQL-优化？](https://toutiao.io/k/ui57ja5) ![](assets/new.png)  
+- [2020-05-26-最短路径算法：Bellman-Ford-算法](https://toutiao.io/k/t8ehw3f) ![](assets/new.png)  
+- [2020-05-26-哈达玛矩阵指导下的在线哈希学习新方法](https://toutiao.io/k/86kfa7x) ![](assets/new.png)  
+- [2020-05-26-美团无人配送-CVPR-2020-论文-CenterMask-解读](https://toutiao.io/k/a9t7orb) ![](assets/new.png)  
 - [2020-05-26-如何用大数据-+-AI-实现实时美声，让用户的声音更动听](https://toutiao.io/k/0zunzgn)  
 - [2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi)  
 - [2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk)  
@@ -1141,13 +1148,6 @@
 - [2020-05-26-Android-Bitmap-详解：关于-Bitmap-你所要知道的一切](https://toutiao.io/k/mqsjkuy)  
 - [2020-05-26-Pagic：用-Deno-写的静态网站生成器](https://toutiao.io/k/4svqnao)  
 - [2020-05-26-手撕-Webpack：创建自己的-library](https://toutiao.io/k/tj9uy2r)  
-- [2020-05-26-前端也能轻松年薪-20w+？超详细前端入门攻略拿去](https://toutiao.io/k/axzvu7k)  
-- [2020-05-26-React-Hooks-踩坑分享](https://toutiao.io/k/uby7w2h)  
-- [2020-05-26-项目中如何实现-SQL-耗时监控？](https://toutiao.io/k/8bwt873)  
-- [2020-05-26-一文读懂阿里大中台、小前台战略](https://toutiao.io/k/kn2w13c)  
-- [2020-05-26-Kotlin-Coroutines-Flow-系列（五）](https://toutiao.io/k/gncow0j)  
-- [2020-05-26-想读懂-YOLOV4，你需要先了解下列技术（一）](https://toutiao.io/k/ujc8pcy)  
-- [2020-05-26-Tekton-的工作原理](https://toutiao.io/k/3qvabsk)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

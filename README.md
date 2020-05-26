@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 18:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 19:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283) ![](assets/new.png)  
+- [2020-05-26-菲律宾新增新冠肺炎确诊病例350例-累计确诊14669例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijAICxFL1rhRIbyx1RHg7200526&isfromapp=1) ![](assets/new.png)  
 - [2020-05-26-广西援鄂医疗队员梁小霞逝世-此前在武汉协和医院工作时晕倒昏迷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgesA0MrtC04NzXhAv94200526&isfromapp=1)  
 - [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1)  
 - [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-25-俄罗斯总统新闻秘书佩斯科夫康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1)  
 - [2020-05-25-世卫组织：全球新冠肺炎确诊病例超过530万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1)  
 - [2020-05-25-多位驻华大使齐发声：全球合力抗疫-中国担当受赞扬](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFAdXX6Xfj0uqAMCQi7yH200525&isfromapp=1)  
-- [2020-05-25-伊朗外交部发言人：美国没有资格评判其他国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioEOW6BF5Qg0SHVicNExu200525&isfromapp=1)  
-- [2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1)  
-- [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -445,7 +445,7 @@
 </summary>
 
 
-- [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113) ![](assets/new.png)  
+- [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113)  
 - [2020-05-25-面了5家挂了5家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/04e51d49767fe94256de7478af75e85d)  
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643)  
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803)  
@@ -714,8 +714,8 @@
 </summary>
 
 
-- [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)  
+- [2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)  
 - [2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/19/koa-demo/)  
 - [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)  
 - [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 15:30:21，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 16:30:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1)  
 - [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1)  
 - [2020-05-26-香港国际机场将于6月1日恢复转机服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1)  
 - [2020-05-26-上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院4例](http://wsjkw.sh.gov.cn/xwfb/20200526/b13066232b8a4001b0da3e85292fc243.html)  
@@ -112,8 +114,6 @@
 - [2020-05-25-荷兰新增新冠肺炎确诊病例209例-累计确诊45445例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1)  
 - [2020-05-25-外交部：新冠病毒疫苗研发不是中美之争-而是人类与病毒之争](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1)  
 - [2020-05-25-卡塔尔新增1751例新冠肺炎确诊病例-累计确诊45465例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1)  
-- [2020-05-25-外交部：将在力所能及范围内继续对非洲提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOsnJZqH7VLU1yrjVZzMu200525&isfromapp=1)  
-- [2020-05-25-全国人大代表王水平：建议建立常态化的基层疫情综合防控机制](http://hc.jiangxi.gov.cn/doc/2020/05/25/143766.shtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -476,7 +476,7 @@
 </summary>
 
 
-- [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc) ![](assets/new.png)  
+- [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)  
 - [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720)  
 - [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7)  
 - [2020-05-24-前端需要了解的9种设计模式](https://www.ershicimi.com/p/6f13e387d6c5dea43d1eb90a2452f07d)  
@@ -1066,26 +1066,26 @@
 </summary>
 
 
-- [2020-05-26-各位有熟悉-dataX-的么？](https://www.v2ex.com/t/675634) ![](assets/new.png)  
-- [2020-05-26-Chrome-更新版本了，客户端的上传文件功能有一部分失效了](https://www.v2ex.com/t/675633) ![](assets/new.png)  
-- [2020-05-26-不玩游戏的手机推荐？](https://www.v2ex.com/t/675632) ![](assets/new.png)  
-- [2020-05-26-有专科小伙伴准备自考本科的吗](https://www.v2ex.com/t/675630) ![](assets/new.png)  
-- [2020-05-26-解决-iOS-下-Gboard-无法安装简体中文](https://www.v2ex.com/t/675628) ![](assets/new.png)  
-- [2020-05-26-一个统计学问题](https://www.v2ex.com/t/675627) ![](assets/new.png)  
-- [2020-05-26-大量数据，-Mysql-多规则，优先排序的问题](https://www.v2ex.com/t/675626) ![](assets/new.png)  
-- [2020-05-26-MacBookPro-2018-13-寸电池鼓包了](https://www.v2ex.com/t/675624) ![](assets/new.png)  
-- [2020-05-26-北京美团商家金融服务-招聘高级前端工程师](https://www.v2ex.com/t/675623) ![](assets/new.png)  
-- [2020-05-26-关于-aes-算法的使用问题](https://www.v2ex.com/t/675622) ![](assets/new.png)  
-- [2020-05-26-在吸引异性时的那一点点欺骗到底是下意识的，还是技术性的？](https://www.v2ex.com/t/675621) ![](assets/new.png)  
-- [2020-05-26-Java-的容器中有-有序双端队列-吗？](https://www.v2ex.com/t/675620) ![](assets/new.png)  
-- [2020-05-26-都说「站在用户角度做产品」到底应该怎么站？](https://www.v2ex.com/t/675618) ![](assets/new.png)  
-- [2020-05-26-致所有-UserScript-开发者与用户，请检查你开发/使用的脚本是否有这样的漏洞。](https://www.v2ex.com/t/675616) ![](assets/new.png)  
-- [2020-05-26-工作后，如何才能静下心来学习？](https://www.v2ex.com/t/675615) ![](assets/new.png)  
-- [2020-05-26-作为一个程序猿,怎么才能不让自己长胡子?](https://www.v2ex.com/t/675613) ![](assets/new.png)  
-- [2020-05-26-区块链新书求支持](https://www.v2ex.com/t/675611) ![](assets/new.png)  
-- [2020-05-26-SpringCloud-&-vue.js-开发的阅读类微服务实战项目，适合入门微服务的同学](https://www.v2ex.com/t/675610) ![](assets/new.png)  
-- [2020-05-26-服务端-rbac-权限验证，是否有必要进行增加性能优化？](https://www.v2ex.com/t/675608) ![](assets/new.png)  
-- [2020-05-26-考研复试凉了，现在还有校招吗？](https://www.v2ex.com/t/675607) ![](assets/new.png)  
+- [2020-05-26-各位有熟悉-dataX-的么？](https://www.v2ex.com/t/675634)  
+- [2020-05-26-Chrome-更新版本了，客户端的上传文件功能有一部分失效了](https://www.v2ex.com/t/675633)  
+- [2020-05-26-不玩游戏的手机推荐？](https://www.v2ex.com/t/675632)  
+- [2020-05-26-有专科小伙伴准备自考本科的吗](https://www.v2ex.com/t/675630)  
+- [2020-05-26-解决-iOS-下-Gboard-无法安装简体中文](https://www.v2ex.com/t/675628)  
+- [2020-05-26-一个统计学问题](https://www.v2ex.com/t/675627)  
+- [2020-05-26-大量数据，-Mysql-多规则，优先排序的问题](https://www.v2ex.com/t/675626)  
+- [2020-05-26-MacBookPro-2018-13-寸电池鼓包了](https://www.v2ex.com/t/675624)  
+- [2020-05-26-北京美团商家金融服务-招聘高级前端工程师](https://www.v2ex.com/t/675623)  
+- [2020-05-26-关于-aes-算法的使用问题](https://www.v2ex.com/t/675622)  
+- [2020-05-26-在吸引异性时的那一点点欺骗到底是下意识的，还是技术性的？](https://www.v2ex.com/t/675621)  
+- [2020-05-26-Java-的容器中有-有序双端队列-吗？](https://www.v2ex.com/t/675620)  
+- [2020-05-26-都说「站在用户角度做产品」到底应该怎么站？](https://www.v2ex.com/t/675618)  
+- [2020-05-26-致所有-UserScript-开发者与用户，请检查你开发/使用的脚本是否有这样的漏洞。](https://www.v2ex.com/t/675616)  
+- [2020-05-26-工作后，如何才能静下心来学习？](https://www.v2ex.com/t/675615)  
+- [2020-05-26-作为一个程序猿,怎么才能不让自己长胡子?](https://www.v2ex.com/t/675613)  
+- [2020-05-26-区块链新书求支持](https://www.v2ex.com/t/675611)  
+- [2020-05-26-SpringCloud-&-vue.js-开发的阅读类微服务实战项目，适合入门微服务的同学](https://www.v2ex.com/t/675610)  
+- [2020-05-26-服务端-rbac-权限验证，是否有必要进行增加性能优化？](https://www.v2ex.com/t/675608)  
+- [2020-05-26-考研复试凉了，现在还有校招吗？](https://www.v2ex.com/t/675607)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

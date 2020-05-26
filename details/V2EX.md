@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-05-27 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802) 
+- [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800) 
+- [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798) 
 - [2020-05-27-字节跳动-核心部门直推-快速约面-速拿-offer!](https://www.v2ex.com/t/675797) 
 - [2020-05-27-也写了个网络临时记录本，-note.mk](https://www.v2ex.com/t/675796) 
 - [2020-05-27-关于在线训练机器学习模型的想法](https://www.v2ex.com/t/675795) 

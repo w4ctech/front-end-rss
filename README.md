@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-26 12:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-26 13:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,8 +43,8 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -828,6 +828,9 @@
 </summary>
 
 
+- [2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6) ![](assets/new.png)  
+- [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) ![](assets/new.png)  
+- [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) ![](assets/new.png)  
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef)  
 - [2020-05-25-String-也能做性能优化，我只能说牛逼！](https://www.ershicimi.com/p/ba8e0171c54494edc1a0d5ea5ef79535)  
 - [2020-05-25-基于SpringCloud开发的分布式系统，遇到爬虫、接口盗刷怎么办？](https://www.ershicimi.com/p/a85e0fa4ebc13a41af308a370f0486dc)  
@@ -845,9 +848,6 @@
 - [2020-05-21-离职补偿的N、N+1、2N、2N+1，到底都有什么区别？](https://www.ershicimi.com/p/b898daa80345ef0eceb6773a2ad2c15b)  
 - [2020-05-20-碉堡了，独家首发Java核心知识点总结，超全！](https://www.ershicimi.com/p/a4a8799c4c059ffa9d30702010d8e8cf)  
 - [2020-05-17-如果网站的-Cookie-特别多特别大，会发生什么情况？](https://www.ershicimi.com/p/0831678713b6f043ee78156c7ab2b753)  
-- [2020-05-17-中国IT行业薪资：与销售相比，程序员真得很“穷”](https://www.ershicimi.com/p/57da96ff0fe410445efd2777c989edea)  
-- [2020-05-18-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/19211b25c9334c3c7039b2ed1e7ba02e)  
-- [2020-05-18-这是我看过关于-volatile-最好的文章](https://www.ershicimi.com/p/dc7a0f181cb6fbdf3ee603a57872d95b)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -859,6 +859,7 @@
 </summary>
 
 
+- [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) ![](assets/new.png)  
 - [2020-05-24-技术招聘已经变味了](https://www.ershicimi.com/p/26c847bbf9f868d3c43e32ccd5e92cd6)  
 - [2020-05-24-参与InfoQ写作平台创作，免费领取InfoQ编辑部内训课程](https://www.ershicimi.com/p/4845911c71c136e223b347fbbe742a51)  
 - [2020-05-24-我们用-React-重构了-Facebook.com-的技术栈](https://www.ershicimi.com/p/5220f129a04ac50561c73e48d76adb52)  
@@ -878,7 +879,6 @@
 - [2020-05-21-当流量突变时，系统中的负载保护应如何应对？](https://www.ershicimi.com/p/b6ffe17213478235b59b0b358c56ee08)  
 - [2020-05-21-不要再依赖-CommonJS-了](https://www.ershicimi.com/p/28d19a807b8ccc5449a9e3ab7c5f22ab)  
 - [2020-05-20-Zoom停止中国个人用户注册，研发重心向美国转移](https://www.ershicimi.com/p/73df7a817eaa75e2df37e33116ddae4b)  
-- [2020-05-20-从程序员到CTO都应该了解的技术趋势和选型建议](https://www.ershicimi.com/p/84e2fb98cfa61ec09918b1208a895062)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1097,7 +1097,7 @@
 </summary>
 
 
-- [2020-05-26-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-26-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-26-为批量图片添加外阴影效果-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13482&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F05%2F25%2F164-adding-shadow-effect-to-batch-image%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-25-从零搭建深度学习框架（二）用Python实现计算图和自动微分-johnhany.net](https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-25-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

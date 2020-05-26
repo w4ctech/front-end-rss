@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-24 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
 - [2020-05-24-技术招聘已经变味了](https://www.ershicimi.com/p/26c847bbf9f868d3c43e32ccd5e92cd6) 
 - [2020-05-24-参与InfoQ写作平台创作，免费领取InfoQ编辑部内训课程](https://www.ershicimi.com/p/4845911c71c136e223b347fbbe742a51) 
 - [2020-05-24-我们用-React-重构了-Facebook.com-的技术栈](https://www.ershicimi.com/p/5220f129a04ac50561c73e48d76adb52) 

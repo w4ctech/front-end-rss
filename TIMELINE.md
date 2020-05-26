@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-26 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -969,6 +969,9 @@
 - [【前端日刊】2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
 - [【前端日刊】2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6) 
+- [【互联网架构师】2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
+- [【互联网架构师】2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [【互联网架构师】2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
 - [【互联网架构师】2020-05-25-String-也能做性能优化，我只能说牛逼！](https://www.ershicimi.com/p/ba8e0171c54494edc1a0d5ea5ef79535) 
 - [【互联网架构师】2020-05-25-基于SpringCloud开发的分布式系统，遇到爬虫、接口盗刷怎么办？](https://www.ershicimi.com/p/a85e0fa4ebc13a41af308a370f0486dc) 
@@ -1042,6 +1045,7 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
 - [【InfoQ】2020-05-24-技术招聘已经变味了](https://www.ershicimi.com/p/26c847bbf9f868d3c43e32ccd5e92cd6) 
 - [【InfoQ】2020-05-24-参与InfoQ写作平台创作，免费领取InfoQ编辑部内训课程](https://www.ershicimi.com/p/4845911c71c136e223b347fbbe742a51) 
 - [【InfoQ】2020-05-24-我们用-React-重构了-Facebook.com-的技术栈](https://www.ershicimi.com/p/5220f129a04ac50561c73e48d76adb52) 

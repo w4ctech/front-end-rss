@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -35,6 +35,7 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-05-07-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/bdbda737fe8bb01c3570a2f6e7d7ae8f) 
+- [2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6) 
 - [2020-05-25-String-也能做性能优化，我只能说牛逼！](https://www.ershicimi.com/p/ba8e0171c54494edc1a0d5ea5ef79535) 
 - [2020-05-21-一打开IntelliJ-IDEA，电脑卡的要死，该如何优化内存呢？](https://www.ershicimi.com/p/ec0073e0c2b3559ff77864bc081c14ab) 
 - [2020-05-07-慢查询优化，我终于在生产踩到了这个坑！！](https://www.ershicimi.com/p/64588a374608d291dca0d6e41f3939ba) 

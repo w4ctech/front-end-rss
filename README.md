@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 00:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 01:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1) ![](assets/new.png)  
-- [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1) ![](assets/new.png)  
-- [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1) ![](assets/new.png)  
+- [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1)  
+- [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1)  
+- [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1)  
 - [2020-05-26-世卫和中国一同展开病毒起源调查：赞扬中国的开放态度](http://m.weibo.cn/3057540037/4508927725983811)  
 - [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1)  
 - [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283)  
@@ -1066,11 +1066,16 @@
 </summary>
 
 
-- [2020-05-27-树莓派使用-HC-SR04-模块超声波测距，距离有问题](https://www.v2ex.com/t/675789) ![](assets/new.png)  
-- [2020-05-27-准备北漂了,-六号线哪里租房便宜,-想租个次卧](https://www.v2ex.com/t/675788) ![](assets/new.png)  
-- [2020-05-27-Windows-里面的公用网络和专用网络区别究竟是啥？](https://www.v2ex.com/t/675787) ![](assets/new.png)  
-- [2020-05-27-这网络的锅哪个背?](https://www.v2ex.com/t/675786) ![](assets/new.png)  
-- [2020-05-27-深圳极客宽带（游戏宽带）公网-IP-被收回了，投诉无用](https://www.v2ex.com/t/675785) ![](assets/new.png)  
+- [2020-05-27-关于在线训练机器学习模型的想法](https://www.v2ex.com/t/675795) ![](assets/new.png)  
+- [2020-05-27-苹果钱包里面交易记录更新机制](https://www.v2ex.com/t/675794) ![](assets/new.png)  
+- [2020-05-27-如何迭代-rust-标准库](https://www.v2ex.com/t/675793) ![](assets/new.png)  
+- [2020-05-27-有些微信小程序的作者我也是无语](https://www.v2ex.com/t/675791) ![](assets/new.png)  
+- [2020-05-27-你有用钱解决不了的烦心事吗？](https://www.v2ex.com/t/675790) ![](assets/new.png)  
+- [2020-05-27-树莓派使用-HC-SR04-模块超声波测距，距离有问题](https://www.v2ex.com/t/675789)  
+- [2020-05-27-准备北漂了,-六号线哪里租房便宜,-想租个次卧](https://www.v2ex.com/t/675788)  
+- [2020-05-27-Windows-里面的公用网络和专用网络区别究竟是啥？](https://www.v2ex.com/t/675787)  
+- [2020-05-27-这网络的锅哪个背?](https://www.v2ex.com/t/675786)  
+- [2020-05-27-深圳极客宽带（游戏宽带）公网-IP-被收回了，投诉无用](https://www.v2ex.com/t/675785)  
 - [2020-05-26-想了解一下-C++工作-3-年工资一般能给到多少？](https://www.v2ex.com/t/675784)  
 - [2020-05-26-bash-里面有匿名管道吗？](https://www.v2ex.com/t/675783)  
 - [2020-05-26-请问有啥网盘，符合国内上传快，国外下载快的呢](https://www.v2ex.com/t/675781)  
@@ -1081,11 +1086,6 @@
 - [2020-05-26-寻找合作伙伴，建设一个基于价值传递的共享平台](https://www.v2ex.com/t/675774)  
 - [2020-05-26-国内是否有可以替代-SCADE-的产品？](https://www.v2ex.com/t/675773)  
 - [2020-05-26-System-limit-for-number-of-file-watchers-reached,-我想知道当前打开了多少-file-watchers](https://www.v2ex.com/t/675772)  
-- [2020-05-26-在国内玩-KOREA-股票怎么玩？](https://www.v2ex.com/t/675771)  
-- [2020-05-26-npm-怎么越来越慢了](https://www.v2ex.com/t/675770)  
-- [2020-05-26-寻：资深区块链-PHP-兼职，要求：必须在杭州！待遇面谈！靠谱责任感强！](https://www.v2ex.com/t/675769)  
-- [2020-05-26-Java-使用-Spring-iinitialize-的项目无法通过-IDEA-的启动按钮启动。](https://www.v2ex.com/t/675768)  
-- [2020-05-26-求助-请问-chrome-浏览器的地址栏用的字体是什么呢?](https://www.v2ex.com/t/675767)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

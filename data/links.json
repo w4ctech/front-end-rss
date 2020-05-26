@@ -2192,6 +2192,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院4例",
+        "link": "http://wsjkw.sh.gov.cn/xwfb/20200526/b13066232b8a4001b0da3e85292fc243.html",
+        "date": "2020-05-26"
+      },
+      {
         "title": "美国加州公共卫生部公布关于零售商店和教堂的重开指南",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1",
         "date": "2020-05-26"
@@ -5355,6 +5360,16 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/892",
     "title": "前端大学",
     "items": [
+      {
+        "title": "几乎人人都会vue，老板凭什么选你？",
+        "link": "https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "javascript 近乎神话般的概念：闭包",
+        "link": "https://www.ershicimi.com/p/0181385d9f9f88c56b3f566a71c20d64",
+        "date": "2020-05-26"
+      },
       {
         "title": "阿里巴巴员工都在听的英语课，我帮你免费弄来了！",
         "link": "https://www.ershicimi.com/p/00a435acc03e1921c2616dd7c6b6e455",
@@ -11491,6 +11506,71 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "2020 年，现在是买卖/置换的时机吗？",
+        "link": "https://www.v2ex.com/t/675537",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "技术图书防盗版思路",
+        "link": "https://www.v2ex.com/t/675536",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "出 9400F + z170-ar 华硕豪华大板 1200 包邮",
+        "link": "https://www.v2ex.com/t/675534",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "“蓉贝”软件人才软件资深工程师寻找创业或者工作机会 [成都｜其他一线城市]",
+        "link": "https://www.v2ex.com/t/675533",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "618 入手 AW5 还值得吗？",
+        "link": "https://www.v2ex.com/t/675532",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "有没有知道微信支付的风控规则",
+        "link": "https://www.v2ex.com/t/675531",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "产品名称征集 有奖征集",
+        "link": "https://www.v2ex.com/t/675530",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "编程的风气就是一帮所谓的高手带坏的",
+        "link": "https://www.v2ex.com/t/675529",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "请教牛人，怎么才能下载淘宝 app 店铺海报，太谢谢了",
+        "link": "https://www.v2ex.com/t/675528",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "你们有没有觉得 v2 的登陆验证码反人类?我每次都要输入好多次,明明感觉输入的是对的,但是就是告诉你验证码错误",
+        "link": "https://www.v2ex.com/t/675527",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "有没有像我一样特别受不了风扇噪音的？",
+        "link": "https://www.v2ex.com/t/675526",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "hikari 连接池求助",
+        "link": "https://www.v2ex.com/t/675525",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "测试谷歌内购提示交易遭拒应该要怎么解决？我信用卡跟礼品卡都试过了",
+        "link": "https://www.v2ex.com/t/675524",
+        "date": "2020-05-26"
+      },
       {
         "title": "[有偿需求咨询]H5 站点搭建配合微信小程序",
         "link": "https://www.v2ex.com/t/675523",

@@ -6093,6 +6093,11 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "基于 Express 应用框架的技术方案选型浅谈",
+        "link": "https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113",
+        "date": "2020-05-26"
+      },
+      {
         "title": "面了5家挂了5家，我太难了！前端工程师还能找到工作吗？",
         "link": "https://www.ershicimi.com/p/04e51d49767fe94256de7478af75e85d",
         "date": "2020-05-25"
@@ -7557,6 +7562,16 @@
     "title": "凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Taro 3.0 RC：React/Vue/Nerv 任你选",
+        "link": "https://aotu.io/notes/2020/05/25/taro-3-rc/",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "一个学习 Koa 源码的例子",
+        "link": "https://aotu.io/notes/2020/05/18/koa-demo/",
+        "date": "2020-05-19"
+      },
       {
         "title": "一个学习 Koa 源码的例子",
         "link": "https://aotu.io/notes/2020/05/19/koa-demo/",

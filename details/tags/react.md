@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -37,6 +37,7 @@
 - [2020-05-05-5个技巧助你编写更好的React代码](https://www.ershicimi.com/p/da5dfedaf93d0957e106309c9af1f2af) 
 - [2020-04-27-新手学习-react-迷惑的点完整版](https://www.ershicimi.com/p/adfd828eda962fed6da7086b326687f3) 
 - [2020-04-30-在-Node-中通过-Async-Hooks-实现请求作用域](https://www.ershicimi.com/p/31943c80b93ba00f9f374a9cb8538dc0) 
+- [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/) 
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/) 
 - [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 

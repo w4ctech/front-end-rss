@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 03:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 07:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -227,6 +227,9 @@
 </summary>
 
 
+- [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf) ![](assets/new.png)  
+- [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682) ![](assets/new.png)  
+- [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de) ![](assets/new.png)  
 - [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
@@ -244,9 +247,6 @@
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
 - [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)  
-- [2020-05-15-【第1945期】彻底搞懂React源码调度原理（Concurrent模式）](https://www.ershicimi.com/p/5e944e756603951b7c2eeec372c5434f)  
-- [2020-05-15-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/22aef10d26d74eec36fcf3e6c41ec85d)  
-- [2020-05-14-【第1944期】HTTP/3原理与实践](https://www.ershicimi.com/p/78f157dab79a6aac653d26ac98447af8)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,9 +1066,9 @@
 </summary>
 
 
-- [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802) ![](assets/new.png)  
-- [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800) ![](assets/new.png)  
-- [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798) ![](assets/new.png)  
+- [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802)  
+- [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800)  
+- [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798)  
 - [2020-05-27-字节跳动-核心部门直推-快速约面-速拿-offer!](https://www.v2ex.com/t/675797)  
 - [2020-05-27-也写了个网络临时记录本，-note.mk](https://www.v2ex.com/t/675796)  
 - [2020-05-27-关于在线训练机器学习模型的想法](https://www.v2ex.com/t/675795)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,6 +21,7 @@
 - [2020-05-14-世界尽收一屏，即视3D地球应约而来](https://www.ershicimi.com/p/da317e6c281012a7b40ad4d703f1404a) 
 - [2020-04-24-canvas图片换色（转加自我总结）](https://juejin.im/post/5ea2abb2518825736e57f9b0) 
 - [2020-04-24-前端小白的第一篇笔记（svg路径跑圈简单实现）](https://juejin.im/post/5ea24a105188257397288795) 
+- [2020-05-26-Unity3D-是否支持在性能不足时强制固定-FPS-拉长时间？](https://www.v2ex.com/t/675722) 
 - [2020-05-25-想请问下，有会前端语言熟悉-SVG-交互跟布局的朋友嘛~](https://www.v2ex.com/t/675379) 
 - [2020-05-25-DataGrip-License-要过期了，-Windows-下有啥免费替换-GUI-推荐吗？](https://www.v2ex.com/t/675164) 
 - [2020-05-23-高级-3D-软件工程师](https://www.v2ex.com/t/674576) 

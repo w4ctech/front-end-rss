@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -157,6 +157,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-26-关于宽带和路由的问题](https://www.v2ex.com/t/675763) 
 - [2020-05-26-求大佬推荐一款软路由配置，能跑千兆](https://www.v2ex.com/t/675566) 
 - [2020-05-26-网卡和路由器的关系](https://www.v2ex.com/t/675542) 
 - [2020-05-25-关于-Python-的-asyncio-协程的问题。](https://www.v2ex.com/t/675336) 

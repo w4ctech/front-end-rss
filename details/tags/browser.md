@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -54,6 +54,9 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-26-Chrome-更新版本了，客户端的上传文件功能有一部分失效了](https://www.v2ex.com/t/675633) 
+- [2020-05-26-向日葵,Teamviewer-类-远程办公,远程控制类产品,大家主要比较看重哪一方面呢?](https://www.v2ex.com/t/675605) 
+- [2020-05-26-在线等,-急-Chrome-两次崩溃后如何恢复之前打开的会话？](https://www.v2ex.com/t/675599) 
 - [2020-05-26-MVU（Mode-View-Update）想请教一下各位对这种模式的了解](https://www.v2ex.com/t/675571) 
 - [2020-05-26-Optional.ofNullablemap.get"xxx".orElse"".toString;有更简洁-Map-取值-toString-方法吗](https://www.v2ex.com/t/675550) 
 - [2020-05-26-EDGE-浏览器这同步书签到底是什么毛病？](https://www.v2ex.com/t/675498) 

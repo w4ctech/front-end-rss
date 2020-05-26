@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -37,6 +37,7 @@
 - [2020-04-25-如何通过-Github-Action-薅腾讯云云开发的羊毛](https://juejin.im/post/5ea3b5cde51d4546d83b29d6) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-05-26-上海电信企业宽带-github，-v2ex，-maven-repo-阵亡？](https://www.v2ex.com/t/675588) 
 - [2020-05-26-gitee-码云私有仓库不可靠啊！配置文件的帐号密码一样泄漏！](https://www.v2ex.com/t/675553) 
 - [2020-05-26-问一个-pycharm-中使用-git-的问题](https://www.v2ex.com/t/675549) 
 - [2020-05-25-vscode-和-Logitech-Options-冲突了](https://www.v2ex.com/t/675121) 

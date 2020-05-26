@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -37,6 +37,8 @@
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-05-10-HTTPS-的工作原理](https://www.ershicimi.com/p/018c735493410bd5b2e9ccb04ec59bda) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-26-关于-aes-算法的使用问题](https://www.v2ex.com/t/675622) 
+- [2020-05-26-拼多多商家端团队大量招人中，-Java-，前端，安卓，-ios，算法](https://www.v2ex.com/t/675602) 
 - [2020-05-26-上海-智能机器人算法工程师招聘](https://www.v2ex.com/t/675513) 
 - [2020-05-25-一步步手写-http-底层客户端](https://www.v2ex.com/t/675176) 
 - [2020-05-25-到底什么原因导致-wsl-上-PHP-无法用-fastcgi-呢](https://www.v2ex.com/t/675060) 

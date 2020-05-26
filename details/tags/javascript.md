@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-26 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -54,6 +54,7 @@
 - [2020-05-13-移动端开发的兼容适配与性能优化干货分享](https://www.ershicimi.com/p/37904cf2547febe1f8e3a73031d33730) 
 - [2020-04-26-《JavaScript编程精解》第3版中文版重磅来袭！这次送5本。](https://www.ershicimi.com/p/c0efda4b24e0f1d93d17f94d47ebfe19) 
 - [2020-04-22-Service-Worker控制缓存实战](https://www.ershicimi.com/p/81dd60f97555a647735766ee33c40f54) 
+- [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc) 
 - [2020-05-07-移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/dde6b1da240b9737ece0c395cb95ed31) 
 - [2020-05-05-12个前端必会-H5-问题及解决方法](https://www.ershicimi.com/p/b347b11b68c0c4a8fd1b3231fa670fda) 
 - [2020-05-03-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/66ef66641d79f4e1ead56303038722df) 

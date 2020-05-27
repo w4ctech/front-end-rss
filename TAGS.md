@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-27 09:00:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 09:30:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -345,8 +345,8 @@
 - [【前端大全】只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/926f6c945ac3d07587b3a1737d533e53)
 - [【前端大全】Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)
 - [【前端大全】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)
+- [【前端开发】前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)
 - [【前端开发】如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)
-- [【前端开发】你真的懂Promise吗](https://www.ershicimi.com/p/1c2869c86b5e41e3e71907438c60d06b)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -373,6 +373,7 @@
 - [【前端之巅】工业级-Serverless-平台需要具备这些能力](https://www.ershicimi.com/p/7a9b83e91207e0e080648d36b12ba6f0)
 - [【前端迷】深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/1e3a677ee97fc2a7f3cd957824264530)
 - [【全栈前端精选】认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)
+- [【前端宇宙】相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e)
 - [【程序员成长指北】探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/5f9b197fcb3e871cacbf84d284add531)
 - [【Nodejs技术栈】Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572)
 - [【张鑫旭-鑫空间-鑫生活】快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)
@@ -382,7 +383,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)
-- [【张鑫旭-鑫空间-鑫生活】关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

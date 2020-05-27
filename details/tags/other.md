@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 09:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 09:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -645,6 +645,7 @@
 - [2020-04-25-一个简洁、有趣的无限下拉方案](https://www.ershicimi.com/p/ebc879b43ab43aa40776ac616c6f933c) 
 - [2020-04-24-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/1f46847056123203a754d6070f8211d3) 
 - [2020-04-20-前端如何在繁忙的业务中提升自己](https://www.ershicimi.com/p/dbef3f0b33126ead9d51637c72d66f8e) 
+- [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477) 
 - [2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241) 
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2020-05-20-重磅福利！戴尔官网新品高能上市，商务台式机低至1899元，还送千元好礼！](https://www.ershicimi.com/p/e72cf08d4f6ebdd665d458eeb3d758fe) 
@@ -828,6 +829,7 @@
 - [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
 - [2020-04-14-已经-2020-年了-Deno-现在怎么样了?-|-来自知乎一个回答](https://www.ershicimi.com/p/2fd814347adf358fb707a4655d58cf4e) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) 
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) 
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 

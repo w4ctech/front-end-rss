@@ -5096,6 +5096,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "做前端 8 年，看透了裁人的套路。。",
+        "link": "https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "前端渣渣的我再也不敢说我会写Button组件了",
+        "link": "https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d",
+        "date": "2020-05-27"
+      },
+      {
         "title": "如何衡量一个人的 JavaScript 水平？",
         "link": "https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf",
         "date": "2020-05-26"
@@ -6759,6 +6769,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "相见恨晚的 Git 命令动画演示，一看就懂！",
+        "link": "https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e",
+        "date": "2020-05-27"
+      },
+      {
         "title": "JSON.stringify() 的 5 个秘密特性",
         "link": "https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6",
         "date": "2020-05-26"
@@ -7523,6 +7538,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "软件吃软件，编程工作会越来越多吗？",
+        "link": "http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html",
+        "date": "2020-05-27"
+      },
       {
         "title": "科技爱好者周刊：第 108 期",
         "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html",

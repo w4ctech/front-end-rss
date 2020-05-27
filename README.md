@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 09:00:16，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 09:30:14，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -32,12 +32,12 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -289,6 +289,8 @@
 </summary>
 
 
+- [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477) ![](assets/new.png)  
+- [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d) ![](assets/new.png)  
 - [2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)  
 - [2020-05-25-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32)  
 - [2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241)  
@@ -307,8 +309,6 @@
 - [2020-05-16-修复100年前北京晚清影像，和马斯克谈两亿的项目，AI技术的底层逻辑是什么？](https://www.ershicimi.com/p/9bc9d62d1a0b3feb66de364bbd0dbb58)  
 - [2020-05-16-如何自我评估前端段位及进阶方式（纯干货）](https://www.ershicimi.com/p/451d9d765c9ba5fd7763abee42b554c1)  
 - [2020-05-15-10-个很实用的-JavaScript-技巧](https://www.ershicimi.com/p/80c6d0a9a11f7057770b6522f4b95a16)  
-- [2020-05-14-前后端分离的跨域介绍](https://www.ershicimi.com/p/8b090ed409cfcc15bb9c321957f68256)  
-- [2020-05-14-推荐几个程序员混职场必备的公众号](https://www.ershicimi.com/p/b30f8c996dff92e6d247abadb1680122)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -532,6 +532,7 @@
 </summary>
 
 
+- [2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e) ![](assets/new.png)  
 - [2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6)  
 - [2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0)  
 - [2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1)  
@@ -551,7 +552,6 @@
 - [2020-05-09-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/172877ebe662f001b4a69180cbcdc5ed)  
 - [2020-05-09-前端需要了解的9种设计模式](https://www.ershicimi.com/p/be9a9b22d58f79b20f1227bf82dfc312)  
 - [2020-05-08-速来围观-GitHub-重磅推出的四大新功能](https://www.ershicimi.com/p/0b7cb05fe5f83d8f11077eed49b4afbf)  
-- [2020-05-07-node_modules-困境](https://www.ershicimi.com/p/08818dcd440089e05a9fd6dbab6c719b)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -673,6 +673,7 @@
 </summary>
 
 
+- [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) ![](assets/new.png)  
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
@@ -1066,11 +1067,11 @@
 </summary>
 
 
-- [2020-05-27-非家庭成员合伙购买“家庭版”会员这种行为正确么？](https://www.v2ex.com/t/675822) ![](assets/new.png)  
-- [2020-05-27-v2ex-被墙了？](https://www.v2ex.com/t/675821) ![](assets/new.png)  
-- [2020-05-27-Node.js-一行一行地读取文本文件](https://www.v2ex.com/t/675820) ![](assets/new.png)  
-- [2020-05-27-可以在-for-循环里，添加-btn.addEventListener"click",-function{...}-事件吗？](https://www.v2ex.com/t/675819) ![](assets/new.png)  
-- [2020-05-27-脑洞大开：现代社会人类是不是蛋生更合适？](https://www.v2ex.com/t/675818) ![](assets/new.png)  
+- [2020-05-27-非家庭成员合伙购买“家庭版”会员这种行为正确么？](https://www.v2ex.com/t/675822)  
+- [2020-05-27-v2ex-被墙了？](https://www.v2ex.com/t/675821)  
+- [2020-05-27-Node.js-一行一行地读取文本文件](https://www.v2ex.com/t/675820)  
+- [2020-05-27-可以在-for-循环里，添加-btn.addEventListener"click",-function{...}-事件吗？](https://www.v2ex.com/t/675819)  
+- [2020-05-27-脑洞大开：现代社会人类是不是蛋生更合适？](https://www.v2ex.com/t/675818)  
 - [2020-05-27-Charles-抓包问题请教](https://www.v2ex.com/t/675816)  
 - [2020-05-27-新的-APK-加固方法?](https://www.v2ex.com/t/675814)  
 - [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811)  

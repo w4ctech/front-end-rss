@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 09:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-27 09:30:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -671,6 +671,8 @@
 - [【前端大全】2020-05-03-前端性能优化之谈谈常见的性能指标及上报策略](https://www.ershicimi.com/p/069991cd4f2dfabc8d537057a69dfe46) 
 - [【前端大全】2020-05-02-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/aa297213dda31d574c78426775afe370) 
 - [【前端大全】2020-05-01-高频前端面试题](https://www.ershicimi.com/p/64cb9648a7da680c063aad9b0e1a2d43) 
+- [【前端开发】2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477) 
+- [【前端开发】2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d) 
 - [【前端开发】2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf) 
 - [【前端开发】2020-05-25-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32) 
 - [【前端开发】2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241) 
@@ -852,6 +854,7 @@
 - [【政采云前端团队】2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [【政采云前端团队】2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) 
 - [【政采云前端团队】2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [【前端宇宙】2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e) 
 - [【前端宇宙】2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6) 
 - [【前端宇宙】2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0) 
 - [【前端宇宙】2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1) 
@@ -941,6 +944,7 @@
 - [【Nodejs技术栈】2020-05-10-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0) 
 - [【张鑫旭-鑫空间-鑫生活】2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/) 
+- [【阮一峰的网络日志】2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 
 - [【阮一峰的网络日志】2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) 
 - [【阮一峰的网络日志】2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) 
 - [【阮一峰的网络日志】2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html) 

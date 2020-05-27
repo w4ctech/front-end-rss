@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 05:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -227,6 +227,7 @@
 </summary>
 
 
+- [2020-05-28-【第1958期】前端状态管理设计——优雅与妥协的艺术](https://www.ershicimi.com/p/17c31945dd39b0065dd2ba289d8714f5) ![](assets/new.png)  
 - [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)  
 - [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)  
 - [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)  
@@ -246,7 +247,6 @@
 - [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)  
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
 - [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
-- [2020-05-16-【视频】@Winter:聊聊架构---MVVM模式](https://www.ershicimi.com/p/8a4d5d271c423ab3ed017c3654b9afd0)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,16 +1069,16 @@
 </summary>
 
 
-- [2020-05-28-Cloudflare-官方测速](https://www.v2ex.com/t/676172) ![](assets/new.png)  
-- [2020-05-28-工作中科班出身和转专业的人的表现是否有差距？](https://www.v2ex.com/t/676171) ![](assets/new.png)  
-- [2020-05-28-macOS-QQ-“防止睡眠”怎么改成“否”？](https://www.v2ex.com/t/676170) ![](assets/new.png)  
-- [2020-05-28-Pompeo,-"Hong-Kong-is-no-longer-autonomous-from-China"](https://www.v2ex.com/t/676169) ![](assets/new.png)  
-- [2020-05-28-Aeron-Chair-值得拥有](https://www.v2ex.com/t/676168) ![](assets/new.png)  
-- [2020-05-28-网页版微博上的广告屏蔽](https://www.v2ex.com/t/676167) ![](assets/new.png)  
-- [2020-05-28-有没有一个/组正则表达式,其体现了正则的所有功能特性?](https://www.v2ex.com/t/676166) ![](assets/new.png)  
-- [2020-05-28-Android-10-体验有感](https://www.v2ex.com/t/676165) ![](assets/new.png)  
-- [2020-05-28-现在买-MacBook-Pro-2019-16-寸合适吗，还是等等-2020-的-16-寸？](https://www.v2ex.com/t/676164) ![](assets/new.png)  
-- [2020-05-28-求助伦勃朗这个-400-亿的画怎么弄成图片保存下来](https://www.v2ex.com/t/676162) ![](assets/new.png)  
+- [2020-05-28-Cloudflare-官方测速](https://www.v2ex.com/t/676172)  
+- [2020-05-28-工作中科班出身和转专业的人的表现是否有差距？](https://www.v2ex.com/t/676171)  
+- [2020-05-28-macOS-QQ-“防止睡眠”怎么改成“否”？](https://www.v2ex.com/t/676170)  
+- [2020-05-28-Pompeo,-"Hong-Kong-is-no-longer-autonomous-from-China"](https://www.v2ex.com/t/676169)  
+- [2020-05-28-Aeron-Chair-值得拥有](https://www.v2ex.com/t/676168)  
+- [2020-05-28-网页版微博上的广告屏蔽](https://www.v2ex.com/t/676167)  
+- [2020-05-28-有没有一个/组正则表达式,其体现了正则的所有功能特性?](https://www.v2ex.com/t/676166)  
+- [2020-05-28-Android-10-体验有感](https://www.v2ex.com/t/676165)  
+- [2020-05-28-现在买-MacBook-Pro-2019-16-寸合适吗，还是等等-2020-的-16-寸？](https://www.v2ex.com/t/676164)  
+- [2020-05-28-求助伦勃朗这个-400-亿的画怎么弄成图片保存下来](https://www.v2ex.com/t/676162)  
 - [2020-05-28-自如的租约信息里的签约时长好像都是一年，这意味着我这种短租三个月的租不了吗。。。](https://www.v2ex.com/t/676161)  
 - [2020-05-28-只靠工资留在深圳可能吗？](https://www.v2ex.com/t/676160)  
 - [2020-05-28-又一个-flarum-做的社区-IPFS-中文社区](https://www.v2ex.com/t/676158)  

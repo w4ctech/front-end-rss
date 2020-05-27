@@ -2192,6 +2192,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "伊朗新增新冠肺炎确诊病例2080例 累计141591例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
         "title": "印尼新增686例新冠肺炎确诊病例 累计23851例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1",
         "date": "2020-05-27"
@@ -8774,6 +8779,11 @@
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
+      {
+        "title": "《JavaScript 20 年》中文版之创立标准",
+        "link": "https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539",
+        "date": "2020-05-26"
+      },
       {
         "title": "React源码揭秘(三)：Diff算法详解",
         "link": "https://www.ershicimi.com/p/c452b8749f4d5fc93e770e60850d6b86",

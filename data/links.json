@@ -6198,6 +6198,11 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "前端模块化详解(完整版)",
+        "link": "https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3",
+        "date": "2020-05-27"
+      },
+      {
         "title": "基于 Express 应用框架的技术方案选型浅谈",
         "link": "https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113",
         "date": "2020-05-26"
@@ -7202,6 +7207,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "微前端在小米 CRM 系统的实践",
+        "link": "https://www.ershicimi.com/p/ee7f43e7530131dc8eb0d9a821d71446",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "推荐几个出镜率超高的大佬公众号",
+        "link": "https://www.ershicimi.com/p/7b5d9ffb64ebacf0ada6021acbb643ab",
+        "date": "2020-05-27"
+      },
       {
         "title": "我和大佬之间差一个JS工具函数大全..(建议收藏)",
         "link": "https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb",
@@ -51953,6 +51968,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "新一代BDD框架Gauge+Taiko (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-27"
+      },
       {
         "title": "JVM源码分析之Attach机制实现完全解读 (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

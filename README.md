@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 12:00:21，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 12:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,12 +29,12 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1)  
+- [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1)  
+- [2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1)  
 - [2020-05-27-秘鲁第二大城市恢复公共交通后出现多处人群聚集情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1)  
 - [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1)  
 - [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1)  
@@ -445,6 +445,7 @@
 </summary>
 
 
+- [2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3) ![](assets/new.png)  
 - [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113)  
 - [2020-05-25-面了5家挂了5家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/04e51d49767fe94256de7478af75e85d)  
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643)  
@@ -464,7 +465,6 @@
 - [2020-05-13-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/448740c6379e4198cbb3bb1878380432)  
 - [2020-05-13-移动端开发的兼容适配与性能优化干货分享](https://www.ershicimi.com/p/37904cf2547febe1f8e3a73031d33730)  
 - [2020-05-12-动手开发一个适用于公司项目的脚手架](https://www.ershicimi.com/p/9858c348c3435a92d3a69ef7c55fd006)  
-- [2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/8d784a803dd94716f9f813aaa0c076b4)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -594,6 +594,8 @@
 </summary>
 
 
+- [2020-05-27-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/ee7f43e7530131dc8eb0d9a821d71446) ![](assets/new.png)  
+- [2020-05-27-推荐几个出镜率超高的大佬公众号](https://www.ershicimi.com/p/7b5d9ffb64ebacf0ada6021acbb643ab) ![](assets/new.png)  
 - [2020-05-26-我和大佬之间差一个JS工具函数大全..建议收藏](https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb)  
 - [2020-05-25-Vue3.0来了，看看尤大大画的重点](https://www.ershicimi.com/p/16ad94dbe0bc186cb44bedddf1d0f17f)  
 - [2020-05-25-Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec)  
@@ -612,8 +614,6 @@
 - [2020-05-13-手把手用-UDP-实现-Node-服务日志归集（附完整源码）](https://www.ershicimi.com/p/916d1592492eca55210267f8c0586116)  
 - [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/65f84355fe1890fbbac7ab5dfd5eaf2c)  
 - [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/fe3527ac2f52c31eb3477f9890c38285)  
-- [2020-05-12-JavaScript-ES2020必知必会新特性](https://www.ershicimi.com/p/70d30bfa33dbeef8b825801947f8208a)  
-- [2020-05-11-Node.js-搭建一个-API-接口服务实战](https://www.ershicimi.com/p/0565f069f4ed13e243b6634a5ea16934)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,18 +1067,18 @@
 </summary>
 
 
-- [2020-05-27-貌似找到攻击我们短信接口的-ip-了，如何继续深挖？](https://www.v2ex.com/t/675919) ![](assets/new.png)  
-- [2020-05-27-Flutter-Weekly-Issue-57](https://www.v2ex.com/t/675918) ![](assets/new.png)  
-- [2020-05-27-想问一下运维方面的学习有相关视频教程吗？](https://www.v2ex.com/t/675917) ![](assets/new.png)  
-- [2020-05-27-大佬们，有个权限问题](https://www.v2ex.com/t/675916) ![](assets/new.png)  
-- [2020-05-27-弱弱的问一句，大三的现在还找得到这个暑假的实习吗](https://www.v2ex.com/t/675915) ![](assets/new.png)  
-- [2020-05-27-云函数-SCF-与对象存储实现-WordCount](https://www.v2ex.com/t/675914) ![](assets/new.png)  
-- [2020-05-27-Apple-watch-如何优雅的递给地铁工作人员](https://www.v2ex.com/t/675913) ![](assets/new.png)  
-- [2020-05-27-哈哈哈，有用的东西没人讨论.](https://www.v2ex.com/t/675912) ![](assets/new.png)  
-- [2020-05-27-面试前付费咨询公司信息的应用](https://www.v2ex.com/t/675911) ![](assets/new.png)  
-- [2020-05-27-uk.maven.org-NXDOMAIN](https://www.v2ex.com/t/675910) ![](assets/new.png)  
-- [2020-05-27-我把-12-年研发的源码开放出来了，大家指导下。](https://www.v2ex.com/t/675909) ![](assets/new.png)  
-- [2020-05-27-作为半独立开发的这两年](https://www.v2ex.com/t/675908) ![](assets/new.png)  
+- [2020-05-27-貌似找到攻击我们短信接口的-ip-了，如何继续深挖？](https://www.v2ex.com/t/675919)  
+- [2020-05-27-Flutter-Weekly-Issue-57](https://www.v2ex.com/t/675918)  
+- [2020-05-27-想问一下运维方面的学习有相关视频教程吗？](https://www.v2ex.com/t/675917)  
+- [2020-05-27-大佬们，有个权限问题](https://www.v2ex.com/t/675916)  
+- [2020-05-27-弱弱的问一句，大三的现在还找得到这个暑假的实习吗](https://www.v2ex.com/t/675915)  
+- [2020-05-27-云函数-SCF-与对象存储实现-WordCount](https://www.v2ex.com/t/675914)  
+- [2020-05-27-Apple-watch-如何优雅的递给地铁工作人员](https://www.v2ex.com/t/675913)  
+- [2020-05-27-哈哈哈，有用的东西没人讨论.](https://www.v2ex.com/t/675912)  
+- [2020-05-27-面试前付费咨询公司信息的应用](https://www.v2ex.com/t/675911)  
+- [2020-05-27-uk.maven.org-NXDOMAIN](https://www.v2ex.com/t/675910)  
+- [2020-05-27-我把-12-年研发的源码开放出来了，大家指导下。](https://www.v2ex.com/t/675909)  
+- [2020-05-27-作为半独立开发的这两年](https://www.v2ex.com/t/675908)  
 - [2020-05-27-我喜欢苹果的一个原因你们肯定想不到](https://www.v2ex.com/t/675905)  
 - [2020-05-27-有啥好用-Linux-运维管理工具](https://www.v2ex.com/t/675904)  
 - [2020-05-27-职位名后面加个编码是不是外包？](https://www.v2ex.com/t/675903)  
@@ -1098,6 +1098,7 @@
 </summary>
 
 
+- [2020-05-27-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-26-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-26-为批量图片添加外阴影效果-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13482&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F05%2F25%2F164-adding-shadow-effect-to-batch-image%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-25-从零搭建深度学习框架（二）用Python实现计算图和自动微分-johnhany.net](https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1117,7 +1118,6 @@
 - [2020-05-23-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-22-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-21-Category:-Front-End-|-晚晴幽草轩-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13464&url=https%3A%2F%2Fwww.jeffjade.com%2Fcategories%2FFront-End%2Fpage%2F2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,18 +1129,18 @@
 </summary>
 
 
-- [2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u) ![](assets/new.png)  
-- [2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up) ![](assets/new.png)  
-- [2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0) ![](assets/new.png)  
-- [2020-05-27-一波-N-折的携程酒店-Swift-Objc-混编实践](https://toutiao.io/k/hb1p5ip) ![](assets/new.png)  
-- [2020-05-27-再来聊一聊-Parquet-列式存储格式](https://toutiao.io/k/ez71gak) ![](assets/new.png)  
-- [2020-05-27-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq) ![](assets/new.png)  
-- [2020-05-27-深入解析-Event-Loop-和浏览器渲染、帧动画、空闲回调的关系](https://toutiao.io/k/aqeh3sq) ![](assets/new.png)  
-- [2020-05-27-重磅！Apache-Flink-1.11-功能抢先看](https://toutiao.io/k/q44te9m) ![](assets/new.png)  
-- [2020-05-27-如何快速批量导入非-Oracle-DB-格式的数据：splloader](https://toutiao.io/k/mljeo99) ![](assets/new.png)  
-- [2020-05-27-sentinel-使用及控制台升级改造](https://toutiao.io/k/w96yeeo) ![](assets/new.png)  
-- [2020-05-27-你真的会用-Chrome-DevTools-吗（二）](https://toutiao.io/k/p7vr43c) ![](assets/new.png)  
-- [2020-05-27-Android-插件化技术的演进之路](https://toutiao.io/k/x0qi163) ![](assets/new.png)  
+- [2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u)  
+- [2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up)  
+- [2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0)  
+- [2020-05-27-一波-N-折的携程酒店-Swift-Objc-混编实践](https://toutiao.io/k/hb1p5ip)  
+- [2020-05-27-再来聊一聊-Parquet-列式存储格式](https://toutiao.io/k/ez71gak)  
+- [2020-05-27-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  
+- [2020-05-27-深入解析-Event-Loop-和浏览器渲染、帧动画、空闲回调的关系](https://toutiao.io/k/aqeh3sq)  
+- [2020-05-27-重磅！Apache-Flink-1.11-功能抢先看](https://toutiao.io/k/q44te9m)  
+- [2020-05-27-如何快速批量导入非-Oracle-DB-格式的数据：splloader](https://toutiao.io/k/mljeo99)  
+- [2020-05-27-sentinel-使用及控制台升级改造](https://toutiao.io/k/w96yeeo)  
+- [2020-05-27-你真的会用-Chrome-DevTools-吗（二）](https://toutiao.io/k/p7vr43c)  
+- [2020-05-27-Android-插件化技术的演进之路](https://toutiao.io/k/x0qi163)  
 - [2020-05-27-kafka-分区数过多引发的弊端](https://toutiao.io/k/laku5ic)  
 - [2020-05-27-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
 - [2020-05-27-Android-死锁初探](https://toutiao.io/k/jod2vke)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-27 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 13:30:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -190,6 +190,7 @@
 - [【前端开发】推倒Node重做，Deno-1.0来了](https://www.ershicimi.com/p/a688ac435aa5f3f8730aed209a8e04ca)
 - [【前端大学】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/75bf21a8cd17588ea57a9a5fdf5030dd)
 - [【前端大学】推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/35ee501866210cb8425f9cea8e50b9de)
+- [【前端之巅】Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e)
 - [【前端之巅】Electron-9.0.0发布！带来三项重大改进，不再支持Electron-6](https://www.ershicimi.com/p/a3b1de0509f2c4e1095633f6d0b04bdf)
 - [【前端之巅】Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/d8deeb84678a329e801fe6ecac3a8a67)
 - [【前端之巅】前端周报：-Node.js2020年开发者调查报告发布；谷歌强制要求Android11支持无缝更新；](https://www.ershicimi.com/p/e1013d18c4b0ae10c21ff49e26e4e5a8)
@@ -202,7 +203,6 @@
 - [【前端瓶子君】抛弃jenkins，使用node从零搭建自动化部署管理平台](https://www.ershicimi.com/p/c9bfedc55d59153b6c962179b2e1251d)
 - [【程序员成长指北】Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec)
 - [【程序员成长指北】Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/c32b1aea612230dff5e9757cb8f9f8c4)
-- [【程序员成长指北】Deno-1.0正式发布！它能替代-NodeJS-吗？对比](https://www.ershicimi.com/p/3508ec9633a0ba456f6f4b1a477fbf54)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -525,8 +525,8 @@
 - [【前端开发】iPad-Pro变生产力工具，你还缺这个轻量级浏览器端代码编辑器](https://www.ershicimi.com/p/3e72c6cc96fcbb7a44ef9e5c17b000d8)
 - [【前端大学】低至1899元！在线GET戴尔官网办公神器OptiPlex台式机，即刻开始高效办公！](https://www.ershicimi.com/p/64e0aa25b8a52a2dc779473f6d85f0bb)
 - [【前端大学】前后端分离的跨域介绍](https://www.ershicimi.com/p/9db126c7434703d90a621a162b9fa07a)
+- [【前端之巅】8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)
 - [【前端迷】常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643)
-- [【全栈前端精选】10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

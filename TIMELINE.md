@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-27 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -832,6 +832,7 @@
 - [【前端迷】2020-05-04-React-项目性能分析及优化](https://www.ershicimi.com/p/e035498647ac5ceb2eec2ef538222f9e) 
 - [【前端迷】2020-05-03-送给想转行AI的你：3堂人工智能入行教学课（免费领取）](https://www.ershicimi.com/p/9fb3ab95675c53b6bf6118ab02e2ef87) 
 - [【前端迷】2020-05-01-视频教程-搭建带有CDN加速的免费图床](https://www.ershicimi.com/p/7fab3c9d05034f04385443282ab244f9) 
+- [【全栈前端精选】2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9) 
 - [【全栈前端精选】2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc) 
 - [【全栈前端精选】2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720) 
 - [【全栈前端精选】2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7) 

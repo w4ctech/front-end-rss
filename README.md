@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 18:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-俄罗斯新增新冠肺炎确诊病例8338例-累计370680例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7oqKCMJ18eQqdxFejBw200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1)  
+- [2020-05-27-俄罗斯新增新冠肺炎确诊病例8338例-累计370680例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7oqKCMJ18eQqdxFejBw200527&isfromapp=1)  
 - [2020-05-27-黑龙江省27日疫情通报：省内无新增确诊病例-新增无症状感染者5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHcqKJjDJEh69bHJLeS0q200527&isfromapp=1)  
 - [2020-05-27-美国加州州立监狱接连暴发新冠肺炎疫情-致9名服刑人员死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1)  
 - [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1)  
@@ -476,6 +476,7 @@
 </summary>
 
 
+- [2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9) ![](assets/new.png)  
 - [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)  
 - [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720)  
 - [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7)  
@@ -495,7 +496,6 @@
 - [2020-05-14-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e)  
 - [2020-05-14-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c)  
 - [2020-05-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/26e9bbdd4342d0a6a6a41c07691876a7)  
-- [2020-05-12-认真介绍-CSS-原理](https://www.ershicimi.com/p/956a257f8c8f974d402baea157b92ee3)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

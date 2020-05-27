@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -15,6 +15,7 @@
 - [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1) 
 - [2020-04-19-付嘉兴：百度小程序框架性能优化实践](https://www.ershicimi.com/p/de1fd0830172724aee91b64b534ed522) 
 - [2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/3108c7a7c82ac5db9189cacc231090b4) 
+- [2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9) 
 - [2020-05-12-主流小程序框架横向对比及使用详解](https://www.ershicimi.com/p/71065ba13ebb717df474142881d84f93) 
 - [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) 
 - [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) 

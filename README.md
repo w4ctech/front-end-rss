@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-05-27-黑龙江省27日疫情通报：省内无新增确诊病例-新增无症状感染者5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHcqKJjDJEh69bHJLeS0q200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-俄罗斯新增新冠肺炎确诊病例8338例-累计370680例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7oqKCMJ18eQqdxFejBw200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-黑龙江省27日疫情通报：省内无新增确诊病例-新增无症状感染者5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHcqKJjDJEh69bHJLeS0q200527&isfromapp=1)  
 - [2020-05-27-美国加州州立监狱接连暴发新冠肺炎疫情-致9名服刑人员死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1)  
 - [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1)  
 - [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-26-菲律宾新增新冠肺炎确诊病例350例-累计确诊14669例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijAICxFL1rhRIbyx1RHg7200526&isfromapp=1)  
 - [2020-05-26-广西援鄂医疗队员梁小霞逝世-此前在武汉协和医院工作时晕倒昏迷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgesA0MrtC04NzXhAv94200526&isfromapp=1)  
 - [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1)  
-- [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1)  
-- [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

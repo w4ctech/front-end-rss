@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 16:31:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -94,6 +94,7 @@
 - [2020-04-24-用vue-cli+Electron开发一个跨平台的桌面应用____篇二（简化项目、安装Element）](https://juejin.im/post/5ea0f557f265da47e75284d1) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-04-24-结构化-Vuex-模块，以实现关联、速度和灵活性](https://javascriptweekly.com/link/63628/web) 
+- [2020-05-27-vue+element-input-被-chrome-认为是用户名输入框](https://www.v2ex.com/t/675991) 
 - [2020-05-26-SpringCloud-&-vue.js-开发的阅读类微服务实战项目，适合入门微服务的同学](https://www.v2ex.com/t/675610) 
 - [2020-05-26-基于-Vue-CSR-的微前端实现方案](https://www.v2ex.com/t/675484) 
 - [2020-05-25-http://admin.evue.top/#/shop/feature-create](https://www.v2ex.com/t/675313) 

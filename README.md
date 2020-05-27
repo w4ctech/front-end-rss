@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 16:31:58，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-27-黑龙江省27日疫情通报：省内无新增确诊病例-新增无症状感染者5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHcqKJjDJEh69bHJLeS0q200527&isfromapp=1) ![](assets/new.png)  
 - [2020-05-27-美国加州州立监狱接连暴发新冠肺炎疫情-致9名服刑人员死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1)  
 - [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1)  
 - [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-26-新加坡新增新冠肺炎确诊病例383例-累计确诊32343例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEYbhbsNN6hLL9mhGpFyP200526&isfromapp=1)  
 - [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1)  
 - [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1)  
-- [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,26 +1067,26 @@
 </summary>
 
 
-- [2020-05-27-如何将子组件的值暴露到父组件中?](https://www.v2ex.com/t/676027) ![](assets/new.png)  
-- [2020-05-27-发现-V2EX-的一个小-BUG](https://www.v2ex.com/t/676026) ![](assets/new.png)  
-- [2020-05-27-有什么书推荐的吗，技术相关和非技术相关都可以？](https://www.v2ex.com/t/676022) ![](assets/new.png)  
-- [2020-05-27-专科+双非非全日制硕士的学历能过大厂简历关吗?](https://www.v2ex.com/t/676021) ![](assets/new.png)  
-- [2020-05-27-通过人人秀的打赏功能可以尽量减少被打赏人的个人信息的公开](https://www.v2ex.com/t/676020) ![](assets/new.png)  
-- [2020-05-27-想趁-618-换个路由器，求推荐](https://www.v2ex.com/t/676019) ![](assets/new.png)  
-- [2020-05-27-iPhone-256G-用完了，直接-DFU-刷成新机，不走-iCloud，现在巨流畅](https://www.v2ex.com/t/676018) ![](assets/new.png)  
-- [2020-05-27-那些从来都不运动的程序员，-30-岁之后怎么样了？](https://www.v2ex.com/t/676017) ![](assets/new.png)  
-- [2020-05-27-有啥开源的适合做图片服务器的服务器源码呢](https://www.v2ex.com/t/676016) ![](assets/new.png)  
-- [2020-05-27-国内企业站看不起-wordpress-吗？](https://www.v2ex.com/t/676015) ![](assets/new.png)  
-- [2020-05-27-为啥大型互联网公司都在面算法？](https://www.v2ex.com/t/676013) ![](assets/new.png)  
-- [2020-05-27-无线充电器都是问题多多啊](https://www.v2ex.com/t/676012) ![](assets/new.png)  
-- [2020-05-27-如何用金币给自己的帖子置顶？](https://www.v2ex.com/t/676011) ![](assets/new.png)  
-- [2020-05-27-各位大佬，我女朋友创建了一个淘宝优惠卷购物群，她让我拉至少-50-人进群，不然晚上回去要跪键盘了😭](https://www.v2ex.com/t/676010) ![](assets/new.png)  
-- [2020-05-27-特别想去的一家公司做了笔试题后已经十天了还没回应，是不是已经宣布没希望了](https://www.v2ex.com/t/676008) ![](assets/new.png)  
-- [2020-05-27-找-UI-设计一套网站图标,大概-20-个左右,需要多少钱](https://www.v2ex.com/t/676007) ![](assets/new.png)  
-- [2020-05-27-高手分享《快三怎么看走势图》简单高效](https://www.v2ex.com/t/676006) ![](assets/new.png)  
-- [2020-05-27-跨境电商外企-GOAT-Group-找一个资深运维开发/SRE/DevOps-工程师，薪资-open-可谈。](https://www.v2ex.com/t/676005) ![](assets/new.png)  
-- [2020-05-27-有开通过京东小额贷款的朋友么，求点经验](https://www.v2ex.com/t/676004) ![](assets/new.png)  
-- [2020-05-27-如何在工作之余创造收入阿，有点喘不过气了](https://www.v2ex.com/t/676003) ![](assets/new.png)  
+- [2020-05-27-如何将子组件的值暴露到父组件中?](https://www.v2ex.com/t/676027)  
+- [2020-05-27-发现-V2EX-的一个小-BUG](https://www.v2ex.com/t/676026)  
+- [2020-05-27-有什么书推荐的吗，技术相关和非技术相关都可以？](https://www.v2ex.com/t/676022)  
+- [2020-05-27-专科+双非非全日制硕士的学历能过大厂简历关吗?](https://www.v2ex.com/t/676021)  
+- [2020-05-27-通过人人秀的打赏功能可以尽量减少被打赏人的个人信息的公开](https://www.v2ex.com/t/676020)  
+- [2020-05-27-想趁-618-换个路由器，求推荐](https://www.v2ex.com/t/676019)  
+- [2020-05-27-iPhone-256G-用完了，直接-DFU-刷成新机，不走-iCloud，现在巨流畅](https://www.v2ex.com/t/676018)  
+- [2020-05-27-那些从来都不运动的程序员，-30-岁之后怎么样了？](https://www.v2ex.com/t/676017)  
+- [2020-05-27-有啥开源的适合做图片服务器的服务器源码呢](https://www.v2ex.com/t/676016)  
+- [2020-05-27-国内企业站看不起-wordpress-吗？](https://www.v2ex.com/t/676015)  
+- [2020-05-27-为啥大型互联网公司都在面算法？](https://www.v2ex.com/t/676013)  
+- [2020-05-27-无线充电器都是问题多多啊](https://www.v2ex.com/t/676012)  
+- [2020-05-27-如何用金币给自己的帖子置顶？](https://www.v2ex.com/t/676011)  
+- [2020-05-27-各位大佬，我女朋友创建了一个淘宝优惠卷购物群，她让我拉至少-50-人进群，不然晚上回去要跪键盘了😭](https://www.v2ex.com/t/676010)  
+- [2020-05-27-特别想去的一家公司做了笔试题后已经十天了还没回应，是不是已经宣布没希望了](https://www.v2ex.com/t/676008)  
+- [2020-05-27-找-UI-设计一套网站图标,大概-20-个左右,需要多少钱](https://www.v2ex.com/t/676007)  
+- [2020-05-27-高手分享《快三怎么看走势图》简单高效](https://www.v2ex.com/t/676006)  
+- [2020-05-27-跨境电商外企-GOAT-Group-找一个资深运维开发/SRE/DevOps-工程师，薪资-open-可谈。](https://www.v2ex.com/t/676005)  
+- [2020-05-27-有开通过京东小额贷款的朋友么，求点经验](https://www.v2ex.com/t/676004)  
+- [2020-05-27-如何在工作之余创造收入阿，有点喘不过气了](https://www.v2ex.com/t/676003)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

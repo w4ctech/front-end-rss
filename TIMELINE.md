@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 16:31:59。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-27 17:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-黑龙江省27日疫情通报：省内无新增确诊病例-新增无症状感染者5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHcqKJjDJEh69bHJLeS0q200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-美国加州州立监狱接连暴发新冠肺炎疫情-致9名服刑人员死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 16:31:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-27-黑龙江省27日疫情通报：省内无新增确诊病例-新增无症状感染者5例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHcqKJjDJEh69bHJLeS0q200527&isfromapp=1) 
 - [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1) 
 - [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1) 
 - [2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1) 

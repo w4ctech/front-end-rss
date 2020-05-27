@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 22:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 23:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-27-世卫组织：全球新冠肺炎确诊病例超548万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifbizluej2cQZ3FrheQR2200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-波兰政府公布第四阶段“解封”计划-5月30日起室外公共场所取消“口罩令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRKj0LH4iDHNg0BgwdKY200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-​数据显示美国每日死亡人数比往年增加10%以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0mMcQoIrbTgRYjDDyNDB200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-受疫情影响-泰国“亚洲最大跳蚤市场”宣告破产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPygmeVzd4vUpbTZjuJsY200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-受到新冠肺炎疫情影响-泰国首都曼谷房地产销售下滑两层多-商品房空置率近五年最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilh6zvLXmMY9kLC5sKM0e200527&isfromapp=1) ![](assets/new.png)  
 - [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1)  
 - [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1)  
 - [2020-05-27-​英国将对新冠肺炎患者开展使用抗病毒药物伦地西韦的新试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDPcOIxH2WESzSA5Xab8200527&isfromapp=1)  
 - [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1)  
-- [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1)  
-- [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1)  
-- [2020-05-26-世卫和中国一同展开病毒起源调查：赞扬中国的开放态度](http://m.weibo.cn/3057540037/4508927725983811)  
-- [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1)  
-- [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -891,8 +891,8 @@
 </summary>
 
 
-- [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e) ![](assets/new.png)  
-- [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) ![](assets/new.png)  
+- [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)  
+- [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5)  
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231)  
 - [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774)  
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)  

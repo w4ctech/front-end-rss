@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-27 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1097,6 +1097,11 @@
 - [【互联网架构师】2020-05-01-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/0b24ea13ddcae73bbc9d7ebf8876767e) 
 - [【互联网架构师】2020-05-01-推荐几款压箱底的IDEA插件，撸码利器](https://www.ershicimi.com/p/e43928b0558e1ff997be6babd0911fde) 
 - [【互联网架构师】2020-05-01-史上最便捷搭建RocketMQ服务器的方法](https://www.ershicimi.com/p/87a2393ab277753fec3149935686de44) 
+- [【InfoQ】2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) 
+- [【InfoQ】2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) 
+- [【InfoQ】2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) 
+- [【InfoQ】2020-05-27-华为5年100万鲲鹏开发者，四川鲲鹏开发者嘉年华来了！](https://www.ershicimi.com/p/2865d5892c426ec8b12db3d48705a741) 
+- [【InfoQ】2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) 
 - [【InfoQ】2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd) 
 - [【InfoQ】2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [【InfoQ】2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) 

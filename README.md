@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 20:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 21:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
 - [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1)  
 - [2020-05-27-俄罗斯新增新冠肺炎确诊病例8338例-累计370680例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7oqKCMJ18eQqdxFejBw200527&isfromapp=1)  
@@ -860,6 +860,11 @@
 </summary>
 
 
+- [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) ![](assets/new.png)  
+- [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) ![](assets/new.png)  
+- [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) ![](assets/new.png)  
+- [2020-05-27-华为5年100万鲲鹏开发者，四川鲲鹏开发者嘉年华来了！](https://www.ershicimi.com/p/2865d5892c426ec8b12db3d48705a741) ![](assets/new.png)  
+- [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) ![](assets/new.png)  
 - [2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd)  
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a)  
 - [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad)  
@@ -875,11 +880,6 @@
 - [2020-05-24-我们用-React-重构了-Facebook.com-的技术栈](https://www.ershicimi.com/p/5220f129a04ac50561c73e48d76adb52)  
 - [2020-05-24-不用框架-2-周写一个电商网站，同济软工系前端小作业引热议](https://www.ershicimi.com/p/c07e395f376806a05660eaee42068b13)  
 - [2020-05-23-2020-年最强大的远程调试工具](https://www.ershicimi.com/p/89addfe36b641296fbc1fe45c57048a9)  
-- [2020-05-23-数据分析师到底值多少钱？](https://www.ershicimi.com/p/0fead74c45036c96da79608a0da43662)  
-- [2020-05-22-工作十年后，逃离银行业加入互联网，有必要吗？](https://www.ershicimi.com/p/5bf4587a07f39d691b03c5502d96869c)  
-- [2020-05-22-半年筹备，三个月迁移，揭秘华新水泥的公有云迁移之路](https://www.ershicimi.com/p/7d225d8006f13a6e8f994bc2b8c41745)  
-- [2020-05-22-补“芯”造“魂”，聚焦开源时代的算力提升-|-Q推荐](https://www.ershicimi.com/p/0244ce79d1922083af3f6e1cb6456b2e)  
-- [2020-05-22-全面AI时代，什么样的人才可以成为“抢手货”？|-Q推荐](https://www.ershicimi.com/p/05de189494e2e1c3c87f1bed5cf98c04)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

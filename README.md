@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 11:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 11:30:22，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -563,7 +563,7 @@
 </summary>
 
 
-- [2020-05-27-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495) ![](assets/new.png)  
+- [2020-05-27-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495)  
 - [2020-05-26-据说，80%的人都搞不懂哈希算法](https://www.ershicimi.com/p/db579140f0f341b89661e4bc25a105c6)  
 - [2020-05-26-瓶子君邀你进群学习啦](https://www.ershicimi.com/p/10b7a1ece24abc0e29686cff48c4e829)  
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82)  
@@ -1067,26 +1067,26 @@
 </summary>
 
 
-- [2020-05-27-非家庭成员合伙购买“家庭版”会员这种行为正确么？](https://www.v2ex.com/t/675822)  
-- [2020-05-27-v2ex-被墙了？](https://www.v2ex.com/t/675821)  
-- [2020-05-27-Node.js-一行一行地读取文本文件](https://www.v2ex.com/t/675820)  
-- [2020-05-27-可以在-for-循环里，添加-btn.addEventListener"click",-function{...}-事件吗？](https://www.v2ex.com/t/675819)  
-- [2020-05-27-脑洞大开：现代社会人类是不是蛋生更合适？](https://www.v2ex.com/t/675818)  
-- [2020-05-27-Charles-抓包问题请教](https://www.v2ex.com/t/675816)  
-- [2020-05-27-新的-APK-加固方法?](https://www.v2ex.com/t/675814)  
-- [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811)  
-- [2020-05-27-在某些-app-注册账号后，就有营销人员打电话过来，这么做算不算泄露用户隐私?](https://www.v2ex.com/t/675809)  
-- [2020-05-27-分享《快-3-稳中技巧》倍投公式](https://www.v2ex.com/t/675808)  
-- [2020-05-27-关于-filebeat-和-logstash](https://www.v2ex.com/t/675807)  
-- [2020-05-27-关于-Arthas](https://www.v2ex.com/t/675806)  
-- [2020-05-27-mac-os-10.15.5-发布](https://www.v2ex.com/t/675805)  
-- [2020-05-27-10.15.5-的正式版更新来了,-先锋队又可以来说说了](https://www.v2ex.com/t/675804)  
-- [2020-05-27-南京可爱云网络科技有限公司---招募运维-+-PHP-工程师](https://www.v2ex.com/t/675803)  
-- [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802)  
-- [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800)  
-- [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798)  
-- [2020-05-27-字节跳动-核心部门直推-快速约面-速拿-offer!](https://www.v2ex.com/t/675797)  
-- [2020-05-27-也写了个网络临时记录本，-note.mk](https://www.v2ex.com/t/675796)  
+- [2020-05-27-我喜欢苹果的一个原因你们肯定想不到](https://www.v2ex.com/t/675905) ![](assets/new.png)  
+- [2020-05-27-有啥好用-Linux-运维管理工具](https://www.v2ex.com/t/675904) ![](assets/new.png)  
+- [2020-05-27-职位名后面加个编码是不是外包？](https://www.v2ex.com/t/675903) ![](assets/new.png)  
+- [2020-05-27-社招那个工作压力大的蚂蚁金服来招人了-前端-P6&P7-可-base-京沪杭](https://www.v2ex.com/t/675902) ![](assets/new.png)  
+- [2020-05-27-北京洛斯达科技有限公司有老哥了解吗](https://www.v2ex.com/t/675901) ![](assets/new.png)  
+- [2020-05-27-struts2-在一个工程（project）里面-写两套登录逻辑-有什么问题吗？](https://www.v2ex.com/t/675900) ![](assets/new.png)  
+- [2020-05-27-有一个上百-G-的-Oracle-数据库，要整体迁移至-MySql，麻烦各位大佬给个思路](https://www.v2ex.com/t/675899) ![](assets/new.png)  
+- [2020-05-27-建了个小公司技术管理群-有兴趣来聊](https://www.v2ex.com/t/675898) ![](assets/new.png)  
+- [2020-05-27-docker-image-outdated-schema1-manifest-format](https://www.v2ex.com/t/675897) ![](assets/new.png)  
+- [2020-05-27-miui-优化-怎么判断有没有打开的?](https://www.v2ex.com/t/675896) ![](assets/new.png)  
+- [2020-05-27-微信-H5-小游戏-外包-有能接的么](https://www.v2ex.com/t/675895) ![](assets/new.png)  
+- [2020-05-27-rabbitMq-为什么不直接使用-TCP-发送消息，而是虚拟-channel？](https://www.v2ex.com/t/675894) ![](assets/new.png)  
+- [2020-05-27-内推-作业帮-前端开发](https://www.v2ex.com/t/675893) ![](assets/new.png)  
+- [2020-05-27-关于国外博彩网站国内是否正常运营，如何举报](https://www.v2ex.com/t/675892) ![](assets/new.png)  
+- [2020-05-27-hive-是否支持从-hdfs-以外的数据源读取数据？](https://www.v2ex.com/t/675891) ![](assets/new.png)  
+- [2020-05-27-那你能帮帮我吗-装机配置清单-求建议](https://www.v2ex.com/t/675890) ![](assets/new.png)  
+- [2020-05-27-上海-张江-前七牛-CTO-OpsMind-诚招-后端工程师、前端工程师、交付工程师、运维开发工程师](https://www.v2ex.com/t/675889) ![](assets/new.png)  
+- [2020-05-27-有没有国内能用的家长控制软件推荐？](https://www.v2ex.com/t/675888) ![](assets/new.png)  
+- [2020-05-27-想不通，今年失业没工资至今，还要补去年的-5000-个税！](https://www.v2ex.com/t/675886) ![](assets/new.png)  
+- [2020-05-27-摄影大佬们，从-a6000-升级，-a6600-还是-A7R3](https://www.v2ex.com/t/675885) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

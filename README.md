@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 08:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 08:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-​英国将对新冠肺炎患者开展使用抗病毒药物伦地西韦的新试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDPcOIxH2WESzSA5Xab8200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-秘鲁第二大城市恢复公共交通后出现多处人群聚集情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1)  
+- [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1)  
+- [2020-05-27-​英国将对新冠肺炎患者开展使用抗病毒药物伦地西韦的新试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDPcOIxH2WESzSA5Xab8200527&isfromapp=1)  
 - [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1)  
 - [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1)  
 - [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-26-上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院4例](http://wsjkw.sh.gov.cn/xwfb/20200526/b13066232b8a4001b0da3e85292fc243.html)  
 - [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1)  
 - [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245)  
-- [2020-05-26-世卫组织称不应假设新冠肺炎有季节性特点](http://m.weibo.cn/2803301701/4508727699427321)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1066,14 +1066,16 @@
 </summary>
 
 
-- [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811) ![](assets/new.png)  
-- [2020-05-27-在某些-app-注册账号后，就有营销人员打电话过来，这么做算不算泄露用户隐私?](https://www.v2ex.com/t/675809) ![](assets/new.png)  
-- [2020-05-27-分享《快-3-稳中技巧》倍投公式](https://www.v2ex.com/t/675808) ![](assets/new.png)  
-- [2020-05-27-关于-filebeat-和-logstash](https://www.v2ex.com/t/675807) ![](assets/new.png)  
-- [2020-05-27-关于-Arthas](https://www.v2ex.com/t/675806) ![](assets/new.png)  
-- [2020-05-27-mac-os-10.15.5-发布](https://www.v2ex.com/t/675805) ![](assets/new.png)  
-- [2020-05-27-10.15.5-的正式版更新来了,-先锋队又可以来说说了](https://www.v2ex.com/t/675804) ![](assets/new.png)  
-- [2020-05-27-南京可爱云网络科技有限公司---招募运维-+-PHP-工程师](https://www.v2ex.com/t/675803) ![](assets/new.png)  
+- [2020-05-27-Charles-抓包问题请教](https://www.v2ex.com/t/675816) ![](assets/new.png)  
+- [2020-05-27-新的-APK-加固方法?](https://www.v2ex.com/t/675814) ![](assets/new.png)  
+- [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811)  
+- [2020-05-27-在某些-app-注册账号后，就有营销人员打电话过来，这么做算不算泄露用户隐私?](https://www.v2ex.com/t/675809)  
+- [2020-05-27-分享《快-3-稳中技巧》倍投公式](https://www.v2ex.com/t/675808)  
+- [2020-05-27-关于-filebeat-和-logstash](https://www.v2ex.com/t/675807)  
+- [2020-05-27-关于-Arthas](https://www.v2ex.com/t/675806)  
+- [2020-05-27-mac-os-10.15.5-发布](https://www.v2ex.com/t/675805)  
+- [2020-05-27-10.15.5-的正式版更新来了,-先锋队又可以来说说了](https://www.v2ex.com/t/675804)  
+- [2020-05-27-南京可爱云网络科技有限公司---招募运维-+-PHP-工程师](https://www.v2ex.com/t/675803)  
 - [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802)  
 - [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800)  
 - [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798)  
@@ -1084,8 +1086,6 @@
 - [2020-05-27-如何迭代-rust-标准库](https://www.v2ex.com/t/675793)  
 - [2020-05-27-有些微信小程序的作者我也是无语](https://www.v2ex.com/t/675791)  
 - [2020-05-27-你有用钱解决不了的烦心事吗？](https://www.v2ex.com/t/675790)  
-- [2020-05-27-树莓派使用-HC-SR04-模块超声波测距，距离有问题](https://www.v2ex.com/t/675789)  
-- [2020-05-27-准备北漂了,-六号线哪里租房便宜,-想租个次卧](https://www.v2ex.com/t/675788)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -2192,6 +2192,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "英国新增2013例新冠肺炎确诊病例 累计达267240例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "俄罗斯多地部队恢复胜利日阅兵彩排",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "疫情形势趋缓 泰国清迈周日夜市重新开放",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSb8KoArJOGKIzbFVtdpm200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
         "title": "世卫组织：全球新冠肺炎确诊病例超548万",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifbizluej2cQZ3FrheQR2200527&isfromapp=1",
         "date": "2020-05-27"
@@ -7606,6 +7631,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "CSS columns轻松实现两端对齐布局效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/",
+        "date": "2020-05-27"
+      },
       {
         "title": "快速了解CSS display:flow-root声明",
         "link": "https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-28 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-英国新增2013例新冠肺炎确诊病例-累计达267240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-俄罗斯多地部队恢复胜利日阅兵彩排](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-疫情形势趋缓-泰国清迈周日夜市重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSb8KoArJOGKIzbFVtdpm200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-世卫组织：全球新冠肺炎确诊病例超548万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifbizluej2cQZ3FrheQR2200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-波兰政府公布第四阶段“解封”计划-5月30日起室外公共场所取消“口罩令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRKj0LH4iDHNg0BgwdKY200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-​数据显示美国每日死亡人数比往年增加10%以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0mMcQoIrbTgRYjDDyNDB200527&isfromapp=1) 
@@ -969,6 +974,7 @@
 - [【Nodejs技术栈】2020-05-17-推荐一个一直研究-Nodejs-源码的同学](https://www.ershicimi.com/p/789c758740ad9b3ecad10381ffff7dfa) 
 - [【Nodejs技术栈】2020-05-14-Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572) 
 - [【Nodejs技术栈】2020-05-10-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0) 
+- [【张鑫旭-鑫空间-鑫生活】2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/) 
 - [【阮一峰的网络日志】2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 

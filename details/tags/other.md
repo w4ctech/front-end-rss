@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,9 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1) 
+- [2020-05-27-俄罗斯多地部队恢复胜利日阅兵彩排](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1) 
+- [2020-05-27-疫情形势趋缓-泰国清迈周日夜市重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSb8KoArJOGKIzbFVtdpm200527&isfromapp=1) 
 - [2020-05-27-波兰政府公布第四阶段“解封”计划-5月30日起室外公共场所取消“口罩令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRKj0LH4iDHNg0BgwdKY200527&isfromapp=1) 
 - [2020-05-27-​数据显示美国每日死亡人数比往年增加10%以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0mMcQoIrbTgRYjDDyNDB200527&isfromapp=1) 
 - [2020-05-27-受疫情影响-泰国“亚洲最大跳蚤市场”宣告破产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPygmeVzd4vUpbTZjuJsY200527&isfromapp=1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 23:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 00:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -94,11 +94,16 @@
 </summary>
 
 
-- [2020-05-27-世卫组织：全球新冠肺炎确诊病例超548万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifbizluej2cQZ3FrheQR2200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-波兰政府公布第四阶段“解封”计划-5月30日起室外公共场所取消“口罩令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRKj0LH4iDHNg0BgwdKY200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-​数据显示美国每日死亡人数比往年增加10%以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0mMcQoIrbTgRYjDDyNDB200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-受疫情影响-泰国“亚洲最大跳蚤市场”宣告破产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPygmeVzd4vUpbTZjuJsY200527&isfromapp=1) ![](assets/new.png)  
-- [2020-05-27-受到新冠肺炎疫情影响-泰国首都曼谷房地产销售下滑两层多-商品房空置率近五年最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilh6zvLXmMY9kLC5sKM0e200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-英国新增2013例新冠肺炎确诊病例-累计达267240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-俄罗斯多地部队恢复胜利日阅兵彩排](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-疫情形势趋缓-泰国清迈周日夜市重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSb8KoArJOGKIzbFVtdpm200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-世卫组织：全球新冠肺炎确诊病例超548万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifbizluej2cQZ3FrheQR2200527&isfromapp=1)  
+- [2020-05-27-波兰政府公布第四阶段“解封”计划-5月30日起室外公共场所取消“口罩令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRKj0LH4iDHNg0BgwdKY200527&isfromapp=1)  
+- [2020-05-27-​数据显示美国每日死亡人数比往年增加10%以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0mMcQoIrbTgRYjDDyNDB200527&isfromapp=1)  
+- [2020-05-27-受疫情影响-泰国“亚洲最大跳蚤市场”宣告破产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPygmeVzd4vUpbTZjuJsY200527&isfromapp=1)  
+- [2020-05-27-受到新冠肺炎疫情影响-泰国首都曼谷房地产销售下滑两层多-商品房空置率近五年最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilh6zvLXmMY9kLC5sKM0e200527&isfromapp=1)  
 - [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1)  
 - [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1)  
 - [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1)  
 - [2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1)  
-- [2020-05-27-秘鲁第二大城市恢复公共交通后出现多处人群聚集情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1)  
-- [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1)  
-- [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1)  
-- [2020-05-27-​英国将对新冠肺炎患者开展使用抗病毒药物伦地西韦的新试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDPcOIxH2WESzSA5Xab8200527&isfromapp=1)  
-- [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -650,6 +650,7 @@
 </summary>
 
 
+- [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) ![](assets/new.png)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
 - [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 01:30:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 04:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)  
+- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -507,6 +507,7 @@
 </summary>
 
 
+- [2020-05-27-那些一票难求的高质量前端公众号](https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238) ![](assets/new.png)  
 - [2020-05-24-这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149)  
 - [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518)  
 - [2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7)  
@@ -1037,10 +1038,10 @@
 </summary>
 
 
-- [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730) ![](assets/new.png)  
-- [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7) ![](assets/new.png)  
-- [2020-05-27-比勤奋更能决定你人生的，是你的选择](https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2) ![](assets/new.png)  
-- [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) ![](assets/new.png)  
+- [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730)  
+- [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7)  
+- [2020-05-27-比勤奋更能决定你人生的，是你的选择](https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2)  
+- [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a)  
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7)  
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83)  
 - [2020-05-26-如果你没时间学习，请一定要逼自己做这件事](https://www.ershicimi.com/p/734e1eaa4a474ad2dd9d8d378ef388cc)  
@@ -1068,26 +1069,26 @@
 </summary>
 
 
-- [2020-05-28-自如的租约信息里的签约时长好像都是一年，这意味着我这种短租三个月的租不了吗。。。](https://www.v2ex.com/t/676161) ![](assets/new.png)  
-- [2020-05-28-只靠工资留在深圳可能吗？](https://www.v2ex.com/t/676160) ![](assets/new.png)  
-- [2020-05-28-又一个-flarum-做的社区-IPFS-中文社区](https://www.v2ex.com/t/676158) ![](assets/new.png)  
-- [2020-05-28-如何判断一个公司的测试开发是偏开发还是偏点点点呢?](https://www.v2ex.com/t/676155) ![](assets/new.png)  
-- [2020-05-28-请教下-macbookpro-2014-跟-2020-的性能差别有多少](https://www.v2ex.com/t/676154) ![](assets/new.png)  
-- [2020-05-27-使用-google-云遇到问题，有哪位能帮忙解答一下](https://www.v2ex.com/t/676152) ![](assets/new.png)  
-- [2020-05-27-求教大佬，-Java-运行-jar-的时候，读取不到配置文件](https://www.v2ex.com/t/676150) ![](assets/new.png)  
-- [2020-05-27-HHKB-SW4-设置无效](https://www.v2ex.com/t/676149) ![](assets/new.png)  
-- [2020-05-27-如何让手写笔笔尖不打滑？](https://www.v2ex.com/t/676148) ![](assets/new.png)  
-- [2020-05-27-求职-上海-web-前端-大专-vue.js-经验多、React.js-经验少](https://www.v2ex.com/t/676147) ![](assets/new.png)  
-- [2020-05-27-求助：关于两台-2000-以内的-4K-显示器的选择困难](https://www.v2ex.com/t/676146) ![](assets/new.png)  
-- [2020-05-27-有没有什么简单、性能也还过得去的-匹配-CIDR-集合（包含-IPv6-的-CIDR）的算法推荐？](https://www.v2ex.com/t/676145) ![](assets/new.png)  
-- [2020-05-27-SpaceX-发射直播有老哥看吗？激动否！](https://www.v2ex.com/t/676144) ![](assets/new.png)  
-- [2020-05-27-为了规避面试难度转向前端是否可行？](https://www.v2ex.com/t/676143) ![](assets/new.png)  
-- [2020-05-27-生日快乐](https://www.v2ex.com/t/676142) ![](assets/new.png)  
-- [2020-05-27-Mac-系统下把文件系统设置为大小写敏感的都有什么坑？](https://www.v2ex.com/t/676141) ![](assets/new.png)  
-- [2020-05-27-工作后真的不好找女（男）朋友了吗？](https://www.v2ex.com/t/676140) ![](assets/new.png)  
-- [2020-05-27-我想做一个很厉害的计时软件-提高在家工作效率](https://www.v2ex.com/t/676139) ![](assets/new.png)  
-- [2020-05-27-拼多多内推-工资高、发展快、股价猛！](https://www.v2ex.com/t/676138) ![](assets/new.png)  
-- [2020-05-27-使用-Visual-Studio-Code-在-macOS-中创建-.NET-Core-解决方案](https://www.v2ex.com/t/676137) ![](assets/new.png)  
+- [2020-05-28-自如的租约信息里的签约时长好像都是一年，这意味着我这种短租三个月的租不了吗。。。](https://www.v2ex.com/t/676161)  
+- [2020-05-28-只靠工资留在深圳可能吗？](https://www.v2ex.com/t/676160)  
+- [2020-05-28-又一个-flarum-做的社区-IPFS-中文社区](https://www.v2ex.com/t/676158)  
+- [2020-05-28-如何判断一个公司的测试开发是偏开发还是偏点点点呢?](https://www.v2ex.com/t/676155)  
+- [2020-05-28-请教下-macbookpro-2014-跟-2020-的性能差别有多少](https://www.v2ex.com/t/676154)  
+- [2020-05-27-使用-google-云遇到问题，有哪位能帮忙解答一下](https://www.v2ex.com/t/676152)  
+- [2020-05-27-求教大佬，-Java-运行-jar-的时候，读取不到配置文件](https://www.v2ex.com/t/676150)  
+- [2020-05-27-HHKB-SW4-设置无效](https://www.v2ex.com/t/676149)  
+- [2020-05-27-如何让手写笔笔尖不打滑？](https://www.v2ex.com/t/676148)  
+- [2020-05-27-求职-上海-web-前端-大专-vue.js-经验多、React.js-经验少](https://www.v2ex.com/t/676147)  
+- [2020-05-27-求助：关于两台-2000-以内的-4K-显示器的选择困难](https://www.v2ex.com/t/676146)  
+- [2020-05-27-有没有什么简单、性能也还过得去的-匹配-CIDR-集合（包含-IPv6-的-CIDR）的算法推荐？](https://www.v2ex.com/t/676145)  
+- [2020-05-27-SpaceX-发射直播有老哥看吗？激动否！](https://www.v2ex.com/t/676144)  
+- [2020-05-27-为了规避面试难度转向前端是否可行？](https://www.v2ex.com/t/676143)  
+- [2020-05-27-生日快乐](https://www.v2ex.com/t/676142)  
+- [2020-05-27-Mac-系统下把文件系统设置为大小写敏感的都有什么坑？](https://www.v2ex.com/t/676141)  
+- [2020-05-27-工作后真的不好找女（男）朋友了吗？](https://www.v2ex.com/t/676140)  
+- [2020-05-27-我想做一个很厉害的计时软件-提高在家工作效率](https://www.v2ex.com/t/676139)  
+- [2020-05-27-拼多多内推-工资高、发展快、股价猛！](https://www.v2ex.com/t/676138)  
+- [2020-05-27-使用-Visual-Studio-Code-在-macOS-中创建-.NET-Core-解决方案](https://www.v2ex.com/t/676137)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 21:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 21:30:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1) ![](assets/new.png)  
 - [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
 - [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-26-世卫和中国一同展开病毒起源调查：赞扬中国的开放态度](http://m.weibo.cn/3057540037/4508927725983811)  
 - [2020-05-26-巴斯德研究所发现多数新冠肺炎轻症患者数周内也可获得免疫能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU6z32z8Dh6AqxymZuDma200526&isfromapp=1)  
 - [2020-05-26-美国百岁老兵从新冠肺炎中康复，与病毒抗争58天](http://m.weibo.cn/3057540037/4508892493030283)  
-- [2020-05-26-菲律宾新增新冠肺炎确诊病例350例-累计确诊14669例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijAICxFL1rhRIbyx1RHg7200526&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -860,11 +860,11 @@
 </summary>
 
 
-- [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) ![](assets/new.png)  
-- [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) ![](assets/new.png)  
-- [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) ![](assets/new.png)  
-- [2020-05-27-华为5年100万鲲鹏开发者，四川鲲鹏开发者嘉年华来了！](https://www.ershicimi.com/p/2865d5892c426ec8b12db3d48705a741) ![](assets/new.png)  
-- [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) ![](assets/new.png)  
+- [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6)  
+- [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380)  
+- [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75)  
+- [2020-05-27-华为5年100万鲲鹏开发者，四川鲲鹏开发者嘉年华来了！](https://www.ershicimi.com/p/2865d5892c426ec8b12db3d48705a741)  
+- [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775)  
 - [2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd)  
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a)  
 - [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad)  
@@ -1067,26 +1067,26 @@
 </summary>
 
 
+- [2020-05-27-拼多多-2020-届“校招补录-客户端研发专场”内推-2021-届暑期实习生内推](https://www.v2ex.com/t/676115) ![](assets/new.png)  
+- [2020-05-27-今天聊一聊传统意义上的副业收入](https://www.v2ex.com/t/676112) ![](assets/new.png)  
+- [2020-05-27-chromebook-激活不了-google-play，难受](https://www.v2ex.com/t/676110) ![](assets/new.png)  
+- [2020-05-27-送-Apple-Watch-啦！-阿里巴巴-淘系技术部-淘宝特价版技术团队招人帖！~~](https://www.v2ex.com/t/676109) ![](assets/new.png)  
+- [2020-05-27-有什么途径找到本地的微软经销商联系方式？](https://www.v2ex.com/t/676108) ![](assets/new.png)  
+- [2020-05-27-北京/远程-思码逸-Merico-招聘前后端开发，共同定义软件开发的未来！](https://www.v2ex.com/t/676107) ![](assets/new.png)  
+- [2020-05-27-即将抵达深圳-|-腾讯大厦附近租房-|-兄弟萌给个建议呗](https://www.v2ex.com/t/676106) ![](assets/new.png)  
+- [2020-05-27-现在快递公司都知道你的姓名、公司和手机号的吗？](https://www.v2ex.com/t/676105) ![](assets/new.png)  
+- [2020-05-27-有没有按键省力的鼠标，求推荐？](https://www.v2ex.com/t/676103) ![](assets/new.png)  
+- [2020-05-27-非家庭成员买"家庭版",国内也有,不过是反过来的,家庭成员合伙购买"非家庭版"](https://www.v2ex.com/t/676102) ![](assets/new.png)  
+- [2020-05-27-关于帝都联通-4G-Band-的问题](https://www.v2ex.com/t/676101) ![](assets/new.png)  
+- [2020-05-27-资深-Python-/Go-开发，求远程工作或兼职均可](https://www.v2ex.com/t/676100) ![](assets/new.png)  
+- [2020-05-27-杭州-天猫海外技术部-P6+/P7-HC-充足-远程面试/最快两周走完](https://www.v2ex.com/t/676097) ![](assets/new.png)  
+- [2020-05-27-有谁公司买过正版的-WPS-吗？请教！](https://www.v2ex.com/t/676093) ![](assets/new.png)  
+- [2020-05-27-无线下的-samba-问题，求助](https://www.v2ex.com/t/676092) ![](assets/new.png)  
+- [2020-05-27-Mac-mini-2018-升级-10.15.5-后无法开机](https://www.v2ex.com/t/676091) ![](assets/new.png)  
+- [2020-05-27-v-友朋都是在哪里投简历了](https://www.v2ex.com/t/676090) ![](assets/new.png)  
+- [2020-05-27-上海-米哈游-内推米忽悠招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各...](https://www.v2ex.com/t/676089) ![](assets/new.png)  
 - [2020-05-27-深圳、北京-腾讯-招聘网络开发工程师](https://www.v2ex.com/t/676088)  
 - [2020-05-27-果真不能相信库克这个基佬-妈蛋-10.15.5-又尿裤子了](https://www.v2ex.com/t/676086)  
-- [2020-05-27-现在入-y9000x-划算不](https://www.v2ex.com/t/676085)  
-- [2020-05-27-暗网卖的-iPhone-系列产品一律-5-折，可信吗？](https://www.v2ex.com/t/676084)  
-- [2020-05-27-忙一天和划水一天，就已经是不同的生活了](https://www.v2ex.com/t/676083)  
-- [2020-05-27-请问华为-Q2PRO-的用户关于子路由](https://www.v2ex.com/t/676081)  
-- [2020-05-27-你的看法-你觉得百度经验为什么做不起来？](https://www.v2ex.com/t/676080)  
-- [2020-05-27-base-深圳-阿里跨境供应链，内推-Java-开发，坐标深圳阿里中心](https://www.v2ex.com/t/676078)  
-- [2020-05-27-哪有一个好用的控制-modal-组件的-hooks？](https://www.v2ex.com/t/676074)  
-- [2020-05-27-为了规避面试难度而学-golang，这样做可以吗](https://www.v2ex.com/t/676073)  
-- [2020-05-27-为什么深圳的手机信号这么差，比一些二三线城市的都不如](https://www.v2ex.com/t/676072)  
-- [2020-05-27-这是老了的表现吗？](https://www.v2ex.com/t/676071)  
-- [2020-05-27-iOS-定位权限,-While-Using-和-Always-到底有什么区别?](https://www.v2ex.com/t/676069)  
-- [2020-05-27-寻天府三街附近三个月短租的室友（我手里还没房子）预算一千以内](https://www.v2ex.com/t/676068)  
-- [2020-05-27-Mac-iCloud-云盘-能不能释放本地空间？](https://www.v2ex.com/t/676067)  
-- [2020-05-27-『2-折优惠』🔥PDF-Expert-–-编辑、批注、签名-PDF](https://www.v2ex.com/t/676066)  
-- [2020-05-27-上海得物（毒）移动端-基础架构-IOS-开发（25-50K）](https://www.v2ex.com/t/676065)  
-- [2020-05-27-今年没被录用的原因+1](https://www.v2ex.com/t/676064)  
-- [2020-05-27-微信的消息撤回逻辑挺有意思的](https://www.v2ex.com/t/676063)  
-- [2020-05-27-幻灯片配上讲解做成培训视频用什么软件比较好？](https://www.v2ex.com/t/676062)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

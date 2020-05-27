@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 14:30:21，:rocket: 更新条数: +44， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 15:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-27-美国加州州立监狱接连暴发新冠肺炎疫情-致9名服刑人员死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1) ![](assets/new.png)  
 - [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1)  
 - [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1)  
 - [2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-26-德国新冠肺炎确诊病例达179002例-死亡8302例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUTwpRBTaIlDunIh3anJv200526&isfromapp=1)  
 - [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1)  
 - [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1)  
-- [2020-05-26-香港国际机场将于6月1日恢复转机服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -829,9 +829,9 @@
 </summary>
 
 
-- [2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243) ![](assets/new.png)  
-- [2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b) ![](assets/new.png)  
-- [2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95) ![](assets/new.png)  
+- [2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243)  
+- [2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b)  
+- [2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95)  
 - [2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)  
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664)  
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07)  
@@ -1067,26 +1067,26 @@
 </summary>
 
 
-- [2020-05-27-618-智能电视-华为还是小米？](https://www.v2ex.com/t/675969) ![](assets/new.png)  
-- [2020-05-27-有大佬买过当贝投影仪吗？-618-活动最近预约了当贝-f3](https://www.v2ex.com/t/675968) ![](assets/new.png)  
-- [2020-05-27-1080ti、p106-等显卡算力免费发放](https://www.v2ex.com/t/675967) ![](assets/new.png)  
-- [2020-05-27-请问前端那种可视化大屏该如何用-CSS-布局](https://www.v2ex.com/t/675966) ![](assets/new.png)  
-- [2020-05-27-老哥们，北京联通是不是虚假宣传](https://www.v2ex.com/t/675965) ![](assets/new.png)  
-- [2020-05-27-这种情况只使用国内-DNS-是否就够了？](https://www.v2ex.com/t/675964) ![](assets/new.png)  
-- [2020-05-27-思维导图行业标杆-招聘前端开发工程师（级别不限、可-Base-深圳或远程办公）](https://www.v2ex.com/t/675963) ![](assets/new.png)  
-- [2020-05-27-做了个-iOS-的粤语输入法，欢迎试用体验](https://www.v2ex.com/t/675961) ![](assets/new.png)  
-- [2020-05-27-大佬们，个人开发的小程序图片存储用什么比较好呢？](https://www.v2ex.com/t/675959) ![](assets/new.png)  
-- [2020-05-27-iPhone-存储空间中“其他”引发的各种麻烦](https://www.v2ex.com/t/675958) ![](assets/new.png)  
-- [2020-05-27-6.18-朋友想配一个台式机，大伙进来看看，这样配置可以吗？](https://www.v2ex.com/t/675957) ![](assets/new.png)  
-- [2020-05-27-关于密码学作业的一个问题](https://www.v2ex.com/t/675956) ![](assets/new.png)  
-- [2020-05-27-留守儿童教育问题是真的难啊](https://www.v2ex.com/t/675955) ![](assets/new.png)  
-- [2020-05-27-javascript-通过-iframe-提交然后删除包含本身-iframe-的父元素，-Chrome-升级后提交事件不再执行](https://www.v2ex.com/t/675954) ![](assets/new.png)  
-- [2020-05-27-创业失败找工作三个月失利后的一点心得](https://www.v2ex.com/t/675953) ![](assets/new.png)  
-- [2020-05-27-年前至今构思的两个比较完善的创意，贴出来大家抨击一下激发激发灵感](https://www.v2ex.com/t/675951) ![](assets/new.png)  
-- [2020-05-27-果汁排行榜“深度进化”了，这次能有“好果汁”吃了？](https://www.v2ex.com/t/675950) ![](assets/new.png)  
-- [2020-05-27-mx-4&&信越-7921](https://www.v2ex.com/t/675949) ![](assets/new.png)  
-- [2020-05-27-你们会在-PDD-买东西吗](https://www.v2ex.com/t/675948) ![](assets/new.png)  
-- [2020-05-27-发个小帖子---考公准备](https://www.v2ex.com/t/675947) ![](assets/new.png)  
+- [2020-05-27-618-智能电视-华为还是小米？](https://www.v2ex.com/t/675969)  
+- [2020-05-27-有大佬买过当贝投影仪吗？-618-活动最近预约了当贝-f3](https://www.v2ex.com/t/675968)  
+- [2020-05-27-1080ti、p106-等显卡算力免费发放](https://www.v2ex.com/t/675967)  
+- [2020-05-27-请问前端那种可视化大屏该如何用-CSS-布局](https://www.v2ex.com/t/675966)  
+- [2020-05-27-老哥们，北京联通是不是虚假宣传](https://www.v2ex.com/t/675965)  
+- [2020-05-27-这种情况只使用国内-DNS-是否就够了？](https://www.v2ex.com/t/675964)  
+- [2020-05-27-思维导图行业标杆-招聘前端开发工程师（级别不限、可-Base-深圳或远程办公）](https://www.v2ex.com/t/675963)  
+- [2020-05-27-做了个-iOS-的粤语输入法，欢迎试用体验](https://www.v2ex.com/t/675961)  
+- [2020-05-27-大佬们，个人开发的小程序图片存储用什么比较好呢？](https://www.v2ex.com/t/675959)  
+- [2020-05-27-iPhone-存储空间中“其他”引发的各种麻烦](https://www.v2ex.com/t/675958)  
+- [2020-05-27-6.18-朋友想配一个台式机，大伙进来看看，这样配置可以吗？](https://www.v2ex.com/t/675957)  
+- [2020-05-27-关于密码学作业的一个问题](https://www.v2ex.com/t/675956)  
+- [2020-05-27-留守儿童教育问题是真的难啊](https://www.v2ex.com/t/675955)  
+- [2020-05-27-javascript-通过-iframe-提交然后删除包含本身-iframe-的父元素，-Chrome-升级后提交事件不再执行](https://www.v2ex.com/t/675954)  
+- [2020-05-27-创业失败找工作三个月失利后的一点心得](https://www.v2ex.com/t/675953)  
+- [2020-05-27-年前至今构思的两个比较完善的创意，贴出来大家抨击一下激发激发灵感](https://www.v2ex.com/t/675951)  
+- [2020-05-27-果汁排行榜“深度进化”了，这次能有“好果汁”吃了？](https://www.v2ex.com/t/675950)  
+- [2020-05-27-mx-4&&信越-7921](https://www.v2ex.com/t/675949)  
+- [2020-05-27-你们会在-PDD-买东西吗](https://www.v2ex.com/t/675948)  
+- [2020-05-27-发个小帖子---考公准备](https://www.v2ex.com/t/675947)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,6 +1129,11 @@
 </summary>
 
 
+- [2020-05-27-30-分钟学会-PCA-主成分分析](https://toutiao.io/k/aj97fwp) ![](assets/new.png)  
+- [2020-05-27-.NET-Core-+-Kubernetes：Service](https://toutiao.io/k/91d4lfa) ![](assets/new.png)  
+- [2020-05-27-Python-小技巧：如何批量更新已安装的库？](https://toutiao.io/k/jxwfmxu) ![](assets/new.png)  
+- [2020-05-27-flask-restful:-Web-Backend-Api-On-Python3-With-Flask-Restful](https://toutiao.io/k/12ya795) ![](assets/new.png)  
+- [2020-05-27-移动端的点击事件和基于-:active-实现的按钮点击态](https://toutiao.io/k/dk09q5w) ![](assets/new.png)  
 - [2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u)  
 - [2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up)  
 - [2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0)  
@@ -1144,11 +1149,6 @@
 - [2020-05-27-kafka-分区数过多引发的弊端](https://toutiao.io/k/laku5ic)  
 - [2020-05-27-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
 - [2020-05-27-Android-死锁初探](https://toutiao.io/k/jod2vke)  
-- [2020-05-27-Spring-Boot-基础系列：SpEL-语法扫盲与查询手册](https://toutiao.io/k/8bnzexd)  
-- [2020-05-27-Lighthouse-测试内幕](https://toutiao.io/k/vlkczva)  
-- [2020-05-27-Talos-读写一致性](https://toutiao.io/k/0htg9rg)  
-- [2020-05-27-Runtime-应用之-Sunglasses-崩溃排查工具实践-iOS](https://toutiao.io/k/9qh4ayd)  
-- [2020-05-27-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

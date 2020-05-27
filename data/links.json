@@ -2192,6 +2192,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国加州州立监狱接连暴发新冠肺炎疫情 致9名服刑人员死亡",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
         "title": "首部解密国家紧急医学救援队的科教片《移动医院》看片会举行",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1",
         "date": "2020-05-27"
@@ -52735,6 +52740,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "30 分钟学会 PCA 主成分分析",
+        "link": "https://toutiao.io/k/aj97fwp",
+        "date": "2020-05-27"
+      },
+      {
+        "title": ".NET Core + Kubernetes：Service",
+        "link": "https://toutiao.io/k/91d4lfa",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "Python 小技巧：如何批量更新已安装的库？",
+        "link": "https://toutiao.io/k/jxwfmxu",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "flask-restful: Web-Backend Api On Python3 With Flask-Restful",
+        "link": "https://toutiao.io/k/12ya795",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "移动端的点击事件和基于 :active 实现的按钮点击态",
+        "link": "https://toutiao.io/k/dk09q5w",
+        "date": "2020-05-27"
+      },
       {
         "title": "数据源管理：OLAP 查询引擎，ClickHouse 集群化管理",
         "link": "https://toutiao.io/k/1fh1v7u",

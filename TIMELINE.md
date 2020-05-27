@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-27 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-美国加州州立监狱接连暴发新冠肺炎疫情-致9名服刑人员死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1) 
@@ -7631,6 +7632,11 @@
 - [【技术头条】2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-07-类初始化死锁导致线程被打爆！打爆！爆！-club.perfma.com](https://blogread.cn/news/go.php?idItem=13430&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F558410%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-06-前端项目开发规范意见-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13429&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F04%2F30%2F163-front-end-project-development-specification-opinion%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-27-30-分钟学会-PCA-主成分分析](https://toutiao.io/k/aj97fwp) 
+- [【开发者头条】2020-05-27-.NET-Core-+-Kubernetes：Service](https://toutiao.io/k/91d4lfa) 
+- [【开发者头条】2020-05-27-Python-小技巧：如何批量更新已安装的库？](https://toutiao.io/k/jxwfmxu) 
+- [【开发者头条】2020-05-27-flask-restful:-Web-Backend-Api-On-Python3-With-Flask-Restful](https://toutiao.io/k/12ya795) 
+- [【开发者头条】2020-05-27-移动端的点击事件和基于-:active-实现的按钮点击态](https://toutiao.io/k/dk09q5w) 
 - [【开发者头条】2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u) 
 - [【开发者头条】2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up) 
 - [【开发者头条】2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0) 

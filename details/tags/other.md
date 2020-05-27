@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7771,6 +7771,9 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-27-30-分钟学会-PCA-主成分分析](https://toutiao.io/k/aj97fwp) 
+- [2020-05-27-.NET-Core-+-Kubernetes：Service](https://toutiao.io/k/91d4lfa) 
+- [2020-05-27-Python-小技巧：如何批量更新已安装的库？](https://toutiao.io/k/jxwfmxu) 
 - [2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u) 
 - [2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0) 
 - [2020-05-27-一波-N-折的携程酒店-Swift-Objc-混编实践](https://toutiao.io/k/hb1p5ip) 

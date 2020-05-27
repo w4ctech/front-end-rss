@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 09:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -159,6 +159,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-27-可以在-for-循环里，添加-btn.addEventListener"click",-function{...}-事件吗？](https://www.v2ex.com/t/675819) 
 - [2020-05-26-关于宽带和路由的问题](https://www.v2ex.com/t/675763) 
 - [2020-05-26-求大佬推荐一款软路由配置，能跑千兆](https://www.v2ex.com/t/675566) 
 - [2020-05-26-网卡和路由器的关系](https://www.v2ex.com/t/675542) 

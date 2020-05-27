@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 08:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 09:00:16，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-27-秘鲁第二大城市恢复公共交通后出现多处人群聚集情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-秘鲁第二大城市恢复公共交通后出现多处人群聚集情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1)  
 - [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1)  
 - [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1)  
 - [2020-05-27-​英国将对新冠肺炎患者开展使用抗病毒药物伦地西韦的新试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDPcOIxH2WESzSA5Xab8200527&isfromapp=1)  
@@ -1066,8 +1066,13 @@
 </summary>
 
 
-- [2020-05-27-Charles-抓包问题请教](https://www.v2ex.com/t/675816) ![](assets/new.png)  
-- [2020-05-27-新的-APK-加固方法?](https://www.v2ex.com/t/675814) ![](assets/new.png)  
+- [2020-05-27-非家庭成员合伙购买“家庭版”会员这种行为正确么？](https://www.v2ex.com/t/675822) ![](assets/new.png)  
+- [2020-05-27-v2ex-被墙了？](https://www.v2ex.com/t/675821) ![](assets/new.png)  
+- [2020-05-27-Node.js-一行一行地读取文本文件](https://www.v2ex.com/t/675820) ![](assets/new.png)  
+- [2020-05-27-可以在-for-循环里，添加-btn.addEventListener"click",-function{...}-事件吗？](https://www.v2ex.com/t/675819) ![](assets/new.png)  
+- [2020-05-27-脑洞大开：现代社会人类是不是蛋生更合适？](https://www.v2ex.com/t/675818) ![](assets/new.png)  
+- [2020-05-27-Charles-抓包问题请教](https://www.v2ex.com/t/675816)  
+- [2020-05-27-新的-APK-加固方法?](https://www.v2ex.com/t/675814)  
 - [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811)  
 - [2020-05-27-在某些-app-注册账号后，就有营销人员打电话过来，这么做算不算泄露用户隐私?](https://www.v2ex.com/t/675809)  
 - [2020-05-27-分享《快-3-稳中技巧》倍投公式](https://www.v2ex.com/t/675808)  
@@ -1081,11 +1086,6 @@
 - [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798)  
 - [2020-05-27-字节跳动-核心部门直推-快速约面-速拿-offer!](https://www.v2ex.com/t/675797)  
 - [2020-05-27-也写了个网络临时记录本，-note.mk](https://www.v2ex.com/t/675796)  
-- [2020-05-27-关于在线训练机器学习模型的想法](https://www.v2ex.com/t/675795)  
-- [2020-05-27-苹果钱包里面交易记录更新机制](https://www.v2ex.com/t/675794)  
-- [2020-05-27-如何迭代-rust-标准库](https://www.v2ex.com/t/675793)  
-- [2020-05-27-有些微信小程序的作者我也是无语](https://www.v2ex.com/t/675791)  
-- [2020-05-27-你有用钱解决不了的烦心事吗？](https://www.v2ex.com/t/675790)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

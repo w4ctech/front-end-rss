@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,8 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1) 
+- [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1) 
 - [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1) 
 - [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1) 
 - [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1) 
@@ -1280,6 +1282,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811) 
+- [2020-05-27-在某些-app-注册账号后，就有营销人员打电话过来，这么做算不算泄露用户隐私?](https://www.v2ex.com/t/675809) 
+- [2020-05-27-分享《快-3-稳中技巧》倍投公式](https://www.v2ex.com/t/675808) 
+- [2020-05-27-关于-filebeat-和-logstash](https://www.v2ex.com/t/675807) 
+- [2020-05-27-关于-Arthas](https://www.v2ex.com/t/675806) 
+- [2020-05-27-mac-os-10.15.5-发布](https://www.v2ex.com/t/675805) 
+- [2020-05-27-10.15.5-的正式版更新来了,-先锋队又可以来说说了](https://www.v2ex.com/t/675804) 
+- [2020-05-27-南京可爱云网络科技有限公司---招募运维-+-PHP-工程师](https://www.v2ex.com/t/675803) 
 - [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802) 
 - [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800) 
 - [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798) 

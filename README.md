@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 07:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 08:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-​英国将对新冠肺炎患者开展使用抗病毒药物伦地西韦的新试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDPcOIxH2WESzSA5Xab8200527&isfromapp=1) ![](assets/new.png)  
 - [2020-05-26-​纽约市新冠病毒日检测能力将于-8-月提升至每日-5-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIgsxToHk4GEGPtSVg3s200526&isfromapp=1)  
 - [2020-05-26-美国纽交所交易大厅已于-26-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1)  
 - [2020-05-26-教育部考试中心：取消-6-月托福、雅思等海外考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1)  
 - [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245)  
 - [2020-05-26-世卫组织称不应假设新冠肺炎有季节性特点](http://m.weibo.cn/2803301701/4508727699427321)  
-- [2020-05-26-美国提前至26日执行“巴西旅行禁令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYONij9HoNBAHhP7BZvgq200526&isfromapp=1)  
-- [2020-05-26-叙利亚宣布取消宵禁并放松疫情管制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1)  
-- [2020-05-26-英国将从6月15日起重新开放非必需零售店](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -227,9 +227,9 @@
 </summary>
 
 
-- [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf) ![](assets/new.png)  
-- [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682) ![](assets/new.png)  
-- [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de) ![](assets/new.png)  
+- [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)  
+- [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)  
+- [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)  
 - [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
@@ -1066,6 +1066,14 @@
 </summary>
 
 
+- [2020-05-27-最近迷上了服务器，求滋醒](https://www.v2ex.com/t/675811) ![](assets/new.png)  
+- [2020-05-27-在某些-app-注册账号后，就有营销人员打电话过来，这么做算不算泄露用户隐私?](https://www.v2ex.com/t/675809) ![](assets/new.png)  
+- [2020-05-27-分享《快-3-稳中技巧》倍投公式](https://www.v2ex.com/t/675808) ![](assets/new.png)  
+- [2020-05-27-关于-filebeat-和-logstash](https://www.v2ex.com/t/675807) ![](assets/new.png)  
+- [2020-05-27-关于-Arthas](https://www.v2ex.com/t/675806) ![](assets/new.png)  
+- [2020-05-27-mac-os-10.15.5-发布](https://www.v2ex.com/t/675805) ![](assets/new.png)  
+- [2020-05-27-10.15.5-的正式版更新来了,-先锋队又可以来说说了](https://www.v2ex.com/t/675804) ![](assets/new.png)  
+- [2020-05-27-南京可爱云网络科技有限公司---招募运维-+-PHP-工程师](https://www.v2ex.com/t/675803) ![](assets/new.png)  
 - [2020-05-27-大家一般多久换电脑？感觉-mac-用户用的都是比较新的型号](https://www.v2ex.com/t/675802)  
 - [2020-05-27-拿了个很不错的-package-缺点是对方是-pornhub...](https://www.v2ex.com/t/675800)  
 - [2020-05-27-发现-Linux-软-raid-容量好像不正确，少了-2TB-左右容量](https://www.v2ex.com/t/675798)  
@@ -1078,14 +1086,6 @@
 - [2020-05-27-你有用钱解决不了的烦心事吗？](https://www.v2ex.com/t/675790)  
 - [2020-05-27-树莓派使用-HC-SR04-模块超声波测距，距离有问题](https://www.v2ex.com/t/675789)  
 - [2020-05-27-准备北漂了,-六号线哪里租房便宜,-想租个次卧](https://www.v2ex.com/t/675788)  
-- [2020-05-27-Windows-里面的公用网络和专用网络区别究竟是啥？](https://www.v2ex.com/t/675787)  
-- [2020-05-27-这网络的锅哪个背?](https://www.v2ex.com/t/675786)  
-- [2020-05-27-深圳极客宽带（游戏宽带）公网-IP-被收回了，投诉无用](https://www.v2ex.com/t/675785)  
-- [2020-05-26-想了解一下-C++工作-3-年工资一般能给到多少？](https://www.v2ex.com/t/675784)  
-- [2020-05-26-bash-里面有匿名管道吗？](https://www.v2ex.com/t/675783)  
-- [2020-05-26-请问有啥网盘，符合国内上传快，国外下载快的呢](https://www.v2ex.com/t/675781)  
-- [2020-05-26-新手，手撸一个工具帮助处理-multi-repo-项目，希望有所帮助。](https://www.v2ex.com/t/675779)  
-- [2020-05-26-卖二手除了闲鱼还能用什么？](https://www.v2ex.com/t/675778)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

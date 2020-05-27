@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 00:30:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 01:30:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1)  
 - [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1)  
 - [2020-05-27-英国新增2013例新冠肺炎确诊病例-累计达267240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1)  
 - [2020-05-27-芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1)  
@@ -1037,6 +1037,10 @@
 </summary>
 
 
+- [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730) ![](assets/new.png)  
+- [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7) ![](assets/new.png)  
+- [2020-05-27-比勤奋更能决定你人生的，是你的选择](https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2) ![](assets/new.png)  
+- [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) ![](assets/new.png)  
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7)  
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83)  
 - [2020-05-26-如果你没时间学习，请一定要逼自己做这件事](https://www.ershicimi.com/p/734e1eaa4a474ad2dd9d8d378ef388cc)  
@@ -1053,10 +1057,6 @@
 - [2020-05-23-读书到底有多重要？这是我听过的最好的答案](https://www.ershicimi.com/p/45064df7849d4e65e96a9d5bfaa077a2)  
 - [2020-05-23-知乎故事-|-将军出征回来了，他还带回一个怀孕的女子](https://www.ershicimi.com/p/3e0f31c7b421a6d71ddead499893cb71)  
 - [2020-05-22-你最最最最尴尬的一次经历是怎样的？](https://www.ershicimi.com/p/5fc7a5f75d8faa735cf0aa901b8d0c11)  
-- [2020-05-22-为什么优秀的人，都把闹钟定在早晨-5：57-？](https://www.ershicimi.com/p/61891493ca0fa928fd01a51920c649a7)  
-- [2020-05-22-知乎故事-|-如果人能代替另一个人上厕所，世界会怎么样？](https://www.ershicimi.com/p/a4fc703700d478c2513a18bba8220692)  
-- [2020-05-21-知乎好问题：抖音是否正在摧毁当代女性的价值观？](https://www.ershicimi.com/p/a9bafadf2c6303f6827245c08727c65a)  
-- [2020-05-21-视频有奖征集活动-|-今天也是爱你的一天](https://www.ershicimi.com/p/a78dfab9b31ad51d865a81d78708beac)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1068,26 +1068,26 @@
 </summary>
 
 
-- [2020-05-27-拼多多-2020-届“校招补录-客户端研发专场”内推-2021-届暑期实习生内推](https://www.v2ex.com/t/676115)  
-- [2020-05-27-今天聊一聊传统意义上的副业收入](https://www.v2ex.com/t/676112)  
-- [2020-05-27-chromebook-激活不了-google-play，难受](https://www.v2ex.com/t/676110)  
-- [2020-05-27-送-Apple-Watch-啦！-阿里巴巴-淘系技术部-淘宝特价版技术团队招人帖！~~](https://www.v2ex.com/t/676109)  
-- [2020-05-27-有什么途径找到本地的微软经销商联系方式？](https://www.v2ex.com/t/676108)  
-- [2020-05-27-北京/远程-思码逸-Merico-招聘前后端开发，共同定义软件开发的未来！](https://www.v2ex.com/t/676107)  
-- [2020-05-27-即将抵达深圳-|-腾讯大厦附近租房-|-兄弟萌给个建议呗](https://www.v2ex.com/t/676106)  
-- [2020-05-27-现在快递公司都知道你的姓名、公司和手机号的吗？](https://www.v2ex.com/t/676105)  
-- [2020-05-27-有没有按键省力的鼠标，求推荐？](https://www.v2ex.com/t/676103)  
-- [2020-05-27-非家庭成员买"家庭版",国内也有,不过是反过来的,家庭成员合伙购买"非家庭版"](https://www.v2ex.com/t/676102)  
-- [2020-05-27-关于帝都联通-4G-Band-的问题](https://www.v2ex.com/t/676101)  
-- [2020-05-27-资深-Python-/Go-开发，求远程工作或兼职均可](https://www.v2ex.com/t/676100)  
-- [2020-05-27-杭州-天猫海外技术部-P6+/P7-HC-充足-远程面试/最快两周走完](https://www.v2ex.com/t/676097)  
-- [2020-05-27-有谁公司买过正版的-WPS-吗？请教！](https://www.v2ex.com/t/676093)  
-- [2020-05-27-无线下的-samba-问题，求助](https://www.v2ex.com/t/676092)  
-- [2020-05-27-Mac-mini-2018-升级-10.15.5-后无法开机](https://www.v2ex.com/t/676091)  
-- [2020-05-27-v-友朋都是在哪里投简历了](https://www.v2ex.com/t/676090)  
-- [2020-05-27-上海-米哈游-内推米忽悠招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各...](https://www.v2ex.com/t/676089)  
-- [2020-05-27-深圳、北京-腾讯-招聘网络开发工程师](https://www.v2ex.com/t/676088)  
-- [2020-05-27-果真不能相信库克这个基佬-妈蛋-10.15.5-又尿裤子了](https://www.v2ex.com/t/676086)  
+- [2020-05-28-自如的租约信息里的签约时长好像都是一年，这意味着我这种短租三个月的租不了吗。。。](https://www.v2ex.com/t/676161) ![](assets/new.png)  
+- [2020-05-28-只靠工资留在深圳可能吗？](https://www.v2ex.com/t/676160) ![](assets/new.png)  
+- [2020-05-28-又一个-flarum-做的社区-IPFS-中文社区](https://www.v2ex.com/t/676158) ![](assets/new.png)  
+- [2020-05-28-如何判断一个公司的测试开发是偏开发还是偏点点点呢?](https://www.v2ex.com/t/676155) ![](assets/new.png)  
+- [2020-05-28-请教下-macbookpro-2014-跟-2020-的性能差别有多少](https://www.v2ex.com/t/676154) ![](assets/new.png)  
+- [2020-05-27-使用-google-云遇到问题，有哪位能帮忙解答一下](https://www.v2ex.com/t/676152) ![](assets/new.png)  
+- [2020-05-27-求教大佬，-Java-运行-jar-的时候，读取不到配置文件](https://www.v2ex.com/t/676150) ![](assets/new.png)  
+- [2020-05-27-HHKB-SW4-设置无效](https://www.v2ex.com/t/676149) ![](assets/new.png)  
+- [2020-05-27-如何让手写笔笔尖不打滑？](https://www.v2ex.com/t/676148) ![](assets/new.png)  
+- [2020-05-27-求职-上海-web-前端-大专-vue.js-经验多、React.js-经验少](https://www.v2ex.com/t/676147) ![](assets/new.png)  
+- [2020-05-27-求助：关于两台-2000-以内的-4K-显示器的选择困难](https://www.v2ex.com/t/676146) ![](assets/new.png)  
+- [2020-05-27-有没有什么简单、性能也还过得去的-匹配-CIDR-集合（包含-IPv6-的-CIDR）的算法推荐？](https://www.v2ex.com/t/676145) ![](assets/new.png)  
+- [2020-05-27-SpaceX-发射直播有老哥看吗？激动否！](https://www.v2ex.com/t/676144) ![](assets/new.png)  
+- [2020-05-27-为了规避面试难度转向前端是否可行？](https://www.v2ex.com/t/676143) ![](assets/new.png)  
+- [2020-05-27-生日快乐](https://www.v2ex.com/t/676142) ![](assets/new.png)  
+- [2020-05-27-Mac-系统下把文件系统设置为大小写敏感的都有什么坑？](https://www.v2ex.com/t/676141) ![](assets/new.png)  
+- [2020-05-27-工作后真的不好找女（男）朋友了吗？](https://www.v2ex.com/t/676140) ![](assets/new.png)  
+- [2020-05-27-我想做一个很厉害的计时软件-提高在家工作效率](https://www.v2ex.com/t/676139) ![](assets/new.png)  
+- [2020-05-27-拼多多内推-工资高、发展快、股价猛！](https://www.v2ex.com/t/676138) ![](assets/new.png)  
+- [2020-05-27-使用-Visual-Studio-Code-在-macOS-中创建-.NET-Core-解决方案](https://www.v2ex.com/t/676137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 00:30:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -56,6 +56,8 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-27-Chrome-将网站静音需要右击，如何像-Safari-那样单击解决？](https://www.v2ex.com/t/676133) 
+- [2020-05-27-nginx-的-basic-认证密码校验怎样做才更安全？](https://www.v2ex.com/t/676124) 
 - [2020-05-27-chromebook-激活不了-google-play，难受](https://www.v2ex.com/t/676110) 
 - [2020-05-27-AmpliFi-Alien-美区，有限货源，现在](https://www.v2ex.com/t/676059) 
 - [2020-05-27-chrome-云考场有权限能看到我的-mac-桌面吗？](https://www.v2ex.com/t/676042) 

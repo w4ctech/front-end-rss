@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 13:30:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -56,6 +56,7 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-27-迫于-mac-=>-chrome,-iPhone-=>-safari-写了个-apple-script-实现-mac-端-chrome-=>-safari-的同步](https://www.v2ex.com/t/675929) 
 - [2020-05-26-求助-请问-chrome-浏览器的地址栏用的字体是什么呢?](https://www.v2ex.com/t/675767) 
 - [2020-05-26-图案锁屏的安全性如何](https://www.v2ex.com/t/675761) 
 - [2020-05-26-Chrome-更新版本了，客户端的上传文件功能有一部分失效了](https://www.v2ex.com/t/675633) 

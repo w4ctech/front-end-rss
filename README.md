@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 13:30:16，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 14:30:21，:rocket: 更新条数: +44， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -414,11 +414,11 @@
 </summary>
 
 
-- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91) ![](assets/new.png)  
-- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) ![](assets/new.png)  
-- [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e) ![](assets/new.png)  
-- [2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29) ![](assets/new.png)  
-- [2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be) ![](assets/new.png)  
+- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
+- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)  
+- [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e)  
+- [2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29)  
+- [2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be)  
 - [2020-05-24-前端周报：微软发布-Windows-包管理器；Facebook一半员工未来将永久远程办公；一加回应透](https://www.ershicimi.com/p/824beb86967904736556f67062cc85ae)  
 - [2020-05-22-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/c730e4ff6e69e9d239491b62457d2869)  
 - [2020-05-22-缩短70%开发周期，淘宝直播智能玩法工程化方案](https://www.ershicimi.com/p/045f1f9d2914572924bb5ef79150dc21)  
@@ -829,6 +829,9 @@
 </summary>
 
 
+- [2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243) ![](assets/new.png)  
+- [2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b) ![](assets/new.png)  
+- [2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95) ![](assets/new.png)  
 - [2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)  
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664)  
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07)  
@@ -846,9 +849,6 @@
 - [2020-05-22-不要网上乱拷贝代码了！一段网上找的代码把公司服务器崩了！](https://www.ershicimi.com/p/66df0b10998c68a1623851a1f1b99211)  
 - [2020-05-21-一打开IntelliJ-IDEA，电脑卡的要死，该如何优化内存呢？](https://www.ershicimi.com/p/ec0073e0c2b3559ff77864bc081c14ab)  
 - [2020-05-21-为什么-Java-不支持类多重继承？](https://www.ershicimi.com/p/3d9ea7d5cde39f570a3bc61a4ad8398e)  
-- [2020-05-21-离职补偿的N、N+1、2N、2N+1，到底都有什么区别？](https://www.ershicimi.com/p/b898daa80345ef0eceb6773a2ad2c15b)  
-- [2020-05-20-碉堡了，独家首发Java核心知识点总结，超全！](https://www.ershicimi.com/p/a4a8799c4c059ffa9d30702010d8e8cf)  
-- [2020-05-17-如果网站的-Cookie-特别多特别大，会发生什么情况？](https://www.ershicimi.com/p/0831678713b6f043ee78156c7ab2b753)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,26 +1067,26 @@
 </summary>
 
 
-- [2020-05-27-貌似找到攻击我们短信接口的-ip-了，如何继续深挖？](https://www.v2ex.com/t/675919)  
-- [2020-05-27-Flutter-Weekly-Issue-57](https://www.v2ex.com/t/675918)  
-- [2020-05-27-想问一下运维方面的学习有相关视频教程吗？](https://www.v2ex.com/t/675917)  
-- [2020-05-27-大佬们，有个权限问题](https://www.v2ex.com/t/675916)  
-- [2020-05-27-弱弱的问一句，大三的现在还找得到这个暑假的实习吗](https://www.v2ex.com/t/675915)  
-- [2020-05-27-云函数-SCF-与对象存储实现-WordCount](https://www.v2ex.com/t/675914)  
-- [2020-05-27-Apple-watch-如何优雅的递给地铁工作人员](https://www.v2ex.com/t/675913)  
-- [2020-05-27-哈哈哈，有用的东西没人讨论.](https://www.v2ex.com/t/675912)  
-- [2020-05-27-面试前付费咨询公司信息的应用](https://www.v2ex.com/t/675911)  
-- [2020-05-27-uk.maven.org-NXDOMAIN](https://www.v2ex.com/t/675910)  
-- [2020-05-27-我把-12-年研发的源码开放出来了，大家指导下。](https://www.v2ex.com/t/675909)  
-- [2020-05-27-作为半独立开发的这两年](https://www.v2ex.com/t/675908)  
-- [2020-05-27-我喜欢苹果的一个原因你们肯定想不到](https://www.v2ex.com/t/675905)  
-- [2020-05-27-有啥好用-Linux-运维管理工具](https://www.v2ex.com/t/675904)  
-- [2020-05-27-职位名后面加个编码是不是外包？](https://www.v2ex.com/t/675903)  
-- [2020-05-27-社招那个工作压力大的蚂蚁金服来招人了-前端-P6&P7-可-base-京沪杭](https://www.v2ex.com/t/675902)  
-- [2020-05-27-北京洛斯达科技有限公司有老哥了解吗](https://www.v2ex.com/t/675901)  
-- [2020-05-27-struts2-在一个工程（project）里面-写两套登录逻辑-有什么问题吗？](https://www.v2ex.com/t/675900)  
-- [2020-05-27-有一个上百-G-的-Oracle-数据库，要整体迁移至-MySql，麻烦各位大佬给个思路](https://www.v2ex.com/t/675899)  
-- [2020-05-27-建了个小公司技术管理群-有兴趣来聊](https://www.v2ex.com/t/675898)  
+- [2020-05-27-618-智能电视-华为还是小米？](https://www.v2ex.com/t/675969) ![](assets/new.png)  
+- [2020-05-27-有大佬买过当贝投影仪吗？-618-活动最近预约了当贝-f3](https://www.v2ex.com/t/675968) ![](assets/new.png)  
+- [2020-05-27-1080ti、p106-等显卡算力免费发放](https://www.v2ex.com/t/675967) ![](assets/new.png)  
+- [2020-05-27-请问前端那种可视化大屏该如何用-CSS-布局](https://www.v2ex.com/t/675966) ![](assets/new.png)  
+- [2020-05-27-老哥们，北京联通是不是虚假宣传](https://www.v2ex.com/t/675965) ![](assets/new.png)  
+- [2020-05-27-这种情况只使用国内-DNS-是否就够了？](https://www.v2ex.com/t/675964) ![](assets/new.png)  
+- [2020-05-27-思维导图行业标杆-招聘前端开发工程师（级别不限、可-Base-深圳或远程办公）](https://www.v2ex.com/t/675963) ![](assets/new.png)  
+- [2020-05-27-做了个-iOS-的粤语输入法，欢迎试用体验](https://www.v2ex.com/t/675961) ![](assets/new.png)  
+- [2020-05-27-大佬们，个人开发的小程序图片存储用什么比较好呢？](https://www.v2ex.com/t/675959) ![](assets/new.png)  
+- [2020-05-27-iPhone-存储空间中“其他”引发的各种麻烦](https://www.v2ex.com/t/675958) ![](assets/new.png)  
+- [2020-05-27-6.18-朋友想配一个台式机，大伙进来看看，这样配置可以吗？](https://www.v2ex.com/t/675957) ![](assets/new.png)  
+- [2020-05-27-关于密码学作业的一个问题](https://www.v2ex.com/t/675956) ![](assets/new.png)  
+- [2020-05-27-留守儿童教育问题是真的难啊](https://www.v2ex.com/t/675955) ![](assets/new.png)  
+- [2020-05-27-javascript-通过-iframe-提交然后删除包含本身-iframe-的父元素，-Chrome-升级后提交事件不再执行](https://www.v2ex.com/t/675954) ![](assets/new.png)  
+- [2020-05-27-创业失败找工作三个月失利后的一点心得](https://www.v2ex.com/t/675953) ![](assets/new.png)  
+- [2020-05-27-年前至今构思的两个比较完善的创意，贴出来大家抨击一下激发激发灵感](https://www.v2ex.com/t/675951) ![](assets/new.png)  
+- [2020-05-27-果汁排行榜“深度进化”了，这次能有“好果汁”吃了？](https://www.v2ex.com/t/675950) ![](assets/new.png)  
+- [2020-05-27-mx-4&&信越-7921](https://www.v2ex.com/t/675949) ![](assets/new.png)  
+- [2020-05-27-你们会在-PDD-买东西吗](https://www.v2ex.com/t/675948) ![](assets/new.png)  
+- [2020-05-27-发个小帖子---考公准备](https://www.v2ex.com/t/675947) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

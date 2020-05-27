@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 21:30:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 22:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -45,13 +45,13 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1)  
 - [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
 - [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1)  
@@ -891,6 +891,8 @@
 </summary>
 
 
+- [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e) ![](assets/new.png)  
+- [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) ![](assets/new.png)  
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231)  
 - [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774)  
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)  
@@ -909,8 +911,6 @@
 - [2020-04-30-Web上的图片技巧](https://www.ershicimi.com/p/fd04924b593211e6c2cec0af4a594376)  
 - [2020-04-29-只有-2-行代码的库，坑了数百万-JS-项目](https://www.ershicimi.com/p/5228bf493683eb5721d917bd1125a2b6)  
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b)  
-- [2020-04-27-第一期:前端九条bug分享](https://www.ershicimi.com/p/ae0c0220f38048d90a878fc77611423a)  
-- [2020-04-26-工作流一目了然，看小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/37eb4bd41ba93dc3d5c912e8de8b1dcb)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,24 +1067,24 @@
 </summary>
 
 
-- [2020-05-27-拼多多-2020-届“校招补录-客户端研发专场”内推-2021-届暑期实习生内推](https://www.v2ex.com/t/676115) ![](assets/new.png)  
-- [2020-05-27-今天聊一聊传统意义上的副业收入](https://www.v2ex.com/t/676112) ![](assets/new.png)  
-- [2020-05-27-chromebook-激活不了-google-play，难受](https://www.v2ex.com/t/676110) ![](assets/new.png)  
-- [2020-05-27-送-Apple-Watch-啦！-阿里巴巴-淘系技术部-淘宝特价版技术团队招人帖！~~](https://www.v2ex.com/t/676109) ![](assets/new.png)  
-- [2020-05-27-有什么途径找到本地的微软经销商联系方式？](https://www.v2ex.com/t/676108) ![](assets/new.png)  
-- [2020-05-27-北京/远程-思码逸-Merico-招聘前后端开发，共同定义软件开发的未来！](https://www.v2ex.com/t/676107) ![](assets/new.png)  
-- [2020-05-27-即将抵达深圳-|-腾讯大厦附近租房-|-兄弟萌给个建议呗](https://www.v2ex.com/t/676106) ![](assets/new.png)  
-- [2020-05-27-现在快递公司都知道你的姓名、公司和手机号的吗？](https://www.v2ex.com/t/676105) ![](assets/new.png)  
-- [2020-05-27-有没有按键省力的鼠标，求推荐？](https://www.v2ex.com/t/676103) ![](assets/new.png)  
-- [2020-05-27-非家庭成员买"家庭版",国内也有,不过是反过来的,家庭成员合伙购买"非家庭版"](https://www.v2ex.com/t/676102) ![](assets/new.png)  
-- [2020-05-27-关于帝都联通-4G-Band-的问题](https://www.v2ex.com/t/676101) ![](assets/new.png)  
-- [2020-05-27-资深-Python-/Go-开发，求远程工作或兼职均可](https://www.v2ex.com/t/676100) ![](assets/new.png)  
-- [2020-05-27-杭州-天猫海外技术部-P6+/P7-HC-充足-远程面试/最快两周走完](https://www.v2ex.com/t/676097) ![](assets/new.png)  
-- [2020-05-27-有谁公司买过正版的-WPS-吗？请教！](https://www.v2ex.com/t/676093) ![](assets/new.png)  
-- [2020-05-27-无线下的-samba-问题，求助](https://www.v2ex.com/t/676092) ![](assets/new.png)  
-- [2020-05-27-Mac-mini-2018-升级-10.15.5-后无法开机](https://www.v2ex.com/t/676091) ![](assets/new.png)  
-- [2020-05-27-v-友朋都是在哪里投简历了](https://www.v2ex.com/t/676090) ![](assets/new.png)  
-- [2020-05-27-上海-米哈游-内推米忽悠招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各...](https://www.v2ex.com/t/676089) ![](assets/new.png)  
+- [2020-05-27-拼多多-2020-届“校招补录-客户端研发专场”内推-2021-届暑期实习生内推](https://www.v2ex.com/t/676115)  
+- [2020-05-27-今天聊一聊传统意义上的副业收入](https://www.v2ex.com/t/676112)  
+- [2020-05-27-chromebook-激活不了-google-play，难受](https://www.v2ex.com/t/676110)  
+- [2020-05-27-送-Apple-Watch-啦！-阿里巴巴-淘系技术部-淘宝特价版技术团队招人帖！~~](https://www.v2ex.com/t/676109)  
+- [2020-05-27-有什么途径找到本地的微软经销商联系方式？](https://www.v2ex.com/t/676108)  
+- [2020-05-27-北京/远程-思码逸-Merico-招聘前后端开发，共同定义软件开发的未来！](https://www.v2ex.com/t/676107)  
+- [2020-05-27-即将抵达深圳-|-腾讯大厦附近租房-|-兄弟萌给个建议呗](https://www.v2ex.com/t/676106)  
+- [2020-05-27-现在快递公司都知道你的姓名、公司和手机号的吗？](https://www.v2ex.com/t/676105)  
+- [2020-05-27-有没有按键省力的鼠标，求推荐？](https://www.v2ex.com/t/676103)  
+- [2020-05-27-非家庭成员买"家庭版",国内也有,不过是反过来的,家庭成员合伙购买"非家庭版"](https://www.v2ex.com/t/676102)  
+- [2020-05-27-关于帝都联通-4G-Band-的问题](https://www.v2ex.com/t/676101)  
+- [2020-05-27-资深-Python-/Go-开发，求远程工作或兼职均可](https://www.v2ex.com/t/676100)  
+- [2020-05-27-杭州-天猫海外技术部-P6+/P7-HC-充足-远程面试/最快两周走完](https://www.v2ex.com/t/676097)  
+- [2020-05-27-有谁公司买过正版的-WPS-吗？请教！](https://www.v2ex.com/t/676093)  
+- [2020-05-27-无线下的-samba-问题，求助](https://www.v2ex.com/t/676092)  
+- [2020-05-27-Mac-mini-2018-升级-10.15.5-后无法开机](https://www.v2ex.com/t/676091)  
+- [2020-05-27-v-友朋都是在哪里投简历了](https://www.v2ex.com/t/676090)  
+- [2020-05-27-上海-米哈游-内推米忽悠招人啦～-开发、测试、运营、产品、美术等等互联网公司常用职位都有招人，欢迎各...](https://www.v2ex.com/t/676089)  
 - [2020-05-27-深圳、北京-腾讯-招聘网络开发工程师](https://www.v2ex.com/t/676088)  
 - [2020-05-27-果真不能相信库克这个基佬-妈蛋-10.15.5-又尿裤子了](https://www.v2ex.com/t/676086)  
 - [......【查看更多】......](./details/V2EX.md)

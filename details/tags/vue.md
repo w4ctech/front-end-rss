@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -81,6 +81,7 @@
 - [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) 
 - [2020-04-23-尤雨溪-B-站直播，Vue-3.0-Beta-是一个值得体验的全新版本](https://www.ershicimi.com/p/f189b5b78e917f7c9924b655c3a5b3f9) 
 - [2020-04-21-只会-Vue-的前端工程师是没有前途的-|-极客大学](https://www.ershicimi.com/p/f5fe12aaecbb19edd3f30a16e6e495dd) 
+- [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
 - [2020-05-13-人人都会VUE？老板凭什么选你？](https://www.ershicimi.com/p/a6c0b219705ef87af63f5920bc886dfe) 
 - [2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/c5c65e9de32e3164af856903896e6647) 
 - [2020-05-07-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/ee657a223e4153ba0fa0aea8d1b4fcf8) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 09:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -216,6 +216,7 @@
 - [2020-04-24-BiliBili-直播-发现部分观众总比另一部慢-3~6-秒的样子？清缓存、乃至换浏览器无用。何解？是电信线路优化问题？](https://www.v2ex.com/t/665541) 
 - [2020-04-24-视频剪辑器免费版](https://www.v2ex.com/t/665516) 
 - [2020-05-09-MP4-视频“只闻其声，不见其人”，是怎么回事呢？-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13431&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F139233777%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-27-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v) 
 - [2020-05-12-推荐几个堪称教科书级别的-Android-音视频入门项目](https://toutiao.io/k/pldvja4) 
 - [2020-05-11-【线上直播】风口直击，泛娱乐社交行业最新玩法分享（一）](https://toutiao.io/k/odz1hke) 
 - [2020-05-08-YOLT：大尺寸图像目标检测的解决方案](https://toutiao.io/k/757g2fk) 

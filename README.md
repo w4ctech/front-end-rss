@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 09:30:14，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 10:00:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,21 +23,21 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -289,8 +289,8 @@
 </summary>
 
 
-- [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477) ![](assets/new.png)  
-- [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d) ![](assets/new.png)  
+- [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477)  
+- [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)  
 - [2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)  
 - [2020-05-25-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32)  
 - [2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241)  
@@ -362,6 +362,8 @@
 </summary>
 
 
+- [2020-05-27-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5) ![](assets/new.png)  
+- [2020-05-27-Wireshark抓包使用指南](https://www.ershicimi.com/p/7910a7c2f559c9e17e40c543a609a445) ![](assets/new.png)  
 - [2020-05-26-几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d)  
 - [2020-05-26-javascript-近乎神话般的概念：闭包](https://www.ershicimi.com/p/0181385d9f9f88c56b3f566a71c20d64)  
 - [2020-05-25-阿里巴巴员工都在听的英语课，我帮你免费弄来了！](https://www.ershicimi.com/p/00a435acc03e1921c2616dd7c6b6e455)  
@@ -380,8 +382,6 @@
 - [2020-05-19-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/35ee501866210cb8425f9cea8e50b9de)  
 - [2020-05-18-作为前端工程师，工作3年，这些用法竟然还不知道！](https://www.ershicimi.com/p/5b7a604d56ac17b7cb98e6eb8a83afe0)  
 - [2020-05-18-用-esbuild-让你的构建压缩性能翻倍](https://www.ershicimi.com/p/dfe0ce8e98eb8b8506c44bc7af9a3456)  
-- [2020-05-17-GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师-|-中文版](https://www.ershicimi.com/p/8feec67e32cb3ae2b77c53a0eca6838a)  
-- [2020-05-17-前后端分离的跨域介绍](https://www.ershicimi.com/p/9db126c7434703d90a621a162b9fa07a)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -532,7 +532,7 @@
 </summary>
 
 
-- [2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e) ![](assets/new.png)  
+- [2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e)  
 - [2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6)  
 - [2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0)  
 - [2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1)  
@@ -673,7 +673,7 @@
 </summary>
 
 
-- [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) ![](assets/new.png)  
+- [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
 - [2020-05-08-科技爱好者周刊：第-106-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html)  
@@ -1129,6 +1129,14 @@
 </summary>
 
 
+- [2020-05-27-kafka-分区数过多引发的弊端](https://toutiao.io/k/laku5ic) ![](assets/new.png)  
+- [2020-05-27-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l) ![](assets/new.png)  
+- [2020-05-27-Android-死锁初探](https://toutiao.io/k/jod2vke) ![](assets/new.png)  
+- [2020-05-27-Spring-Boot-基础系列：SpEL-语法扫盲与查询手册](https://toutiao.io/k/8bnzexd) ![](assets/new.png)  
+- [2020-05-27-Lighthouse-测试内幕](https://toutiao.io/k/vlkczva) ![](assets/new.png)  
+- [2020-05-27-Talos-读写一致性](https://toutiao.io/k/0htg9rg) ![](assets/new.png)  
+- [2020-05-27-Runtime-应用之-Sunglasses-崩溃排查工具实践-iOS](https://toutiao.io/k/9qh4ayd) ![](assets/new.png)  
+- [2020-05-27-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v) ![](assets/new.png)  
 - [2020-05-26-数据与广告（二十一）：关于品牌广告，奔涌吧后浪](https://toutiao.io/k/5jvca8k)  
 - [2020-05-26-LevelDB-完全解析（九）：写操作](https://toutiao.io/k/tq3fzpu)  
 - [2020-05-26-协程中的取消和异常：核心概念介绍](https://toutiao.io/k/fr0gbrr)  
@@ -1141,14 +1149,6 @@
 - [2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk)  
 - [2020-05-26-Android-P-内联优化导致的一个诡异-Bug](https://toutiao.io/k/qmj08du)  
 - [2020-05-26-Kafka-时间轮的原理和实现](https://toutiao.io/k/6xndmnd)  
-- [2020-05-26-深入理解-JS-对象隐式类型转换的过程](https://toutiao.io/k/6uxgh48)  
-- [2020-05-26-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo)  
-- [2020-05-26-理解-Java-8-中的时间-API](https://toutiao.io/k/w0z3qwr)  
-- [2020-05-26-如何实现-git-命令行的联想功能](https://toutiao.io/k/nr8t1an)  
-- [2020-05-26-如何部署-Scala-代码](https://toutiao.io/k/dgwby6c)  
-- [2020-05-26-Android-Bitmap-详解：关于-Bitmap-你所要知道的一切](https://toutiao.io/k/mqsjkuy)  
-- [2020-05-26-Pagic：用-Deno-写的静态网站生成器](https://toutiao.io/k/4svqnao)  
-- [2020-05-26-手撕-Webpack：创建自己的-library](https://toutiao.io/k/tj9uy2r)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

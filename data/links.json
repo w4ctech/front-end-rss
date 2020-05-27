@@ -2192,6 +2192,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "首部解密国家紧急医学救援队的科教片《移动医院》看片会举行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "中国医疗专家组在秘鲁交流抗疫经验",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "俄罗斯总统普京：专家认为俄罗斯疫情高峰已过",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1",
+        "date": "2020-05-27"
+      },
+      {
         "title": "秘鲁第二大城市恢复公共交通后出现多处人群聚集情况",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1",
         "date": "2020-05-27"
@@ -11756,6 +11771,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "貌似找到攻击我们短信接口的 ip 了，如何继续深挖？",
+        "link": "https://www.v2ex.com/t/675919",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "Flutter Weekly Issue 57",
+        "link": "https://www.v2ex.com/t/675918",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "想问一下运维方面的学习有相关视频教程吗？",
+        "link": "https://www.v2ex.com/t/675917",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "大佬们，有个权限问题",
+        "link": "https://www.v2ex.com/t/675916",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "弱弱的问一句，大三的现在还找得到这个暑假的实习吗",
+        "link": "https://www.v2ex.com/t/675915",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "云函数 SCF 与对象存储实现 WordCount",
+        "link": "https://www.v2ex.com/t/675914",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "Apple watch 如何优雅的递给地铁工作人员",
+        "link": "https://www.v2ex.com/t/675913",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "哈哈哈，有用的东西没人讨论.",
+        "link": "https://www.v2ex.com/t/675912",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "面试前付费咨询公司信息的应用",
+        "link": "https://www.v2ex.com/t/675911",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "uk.maven.org NXDOMAIN",
+        "link": "https://www.v2ex.com/t/675910",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "我把 12 年研发的源码开放出来了，大家指导下。",
+        "link": "https://www.v2ex.com/t/675909",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "作为半独立开发的这两年",
+        "link": "https://www.v2ex.com/t/675908",
+        "date": "2020-05-27"
+      },
       {
         "title": "我喜欢苹果的一个原因你们肯定想不到",
         "link": "https://www.v2ex.com/t/675905",
@@ -52395,6 +52470,66 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "数据源管理：OLAP 查询引擎，ClickHouse 集群化管理",
+        "link": "https://toutiao.io/k/1fh1v7u",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "icejs：企业级前端研发框架的演进与实践",
+        "link": "https://toutiao.io/k/lysa2up",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "请查收这份 “位运算” 的装逼指南",
+        "link": "https://toutiao.io/k/nwgvnr0",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "一波 N 折的携程酒店 Swift-Objc 混编实践",
+        "link": "https://toutiao.io/k/hb1p5ip",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "再来聊一聊 Parquet 列式存储格式",
+        "link": "https://toutiao.io/k/ez71gak",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "不懂 Redis Cluster 原理，我被同事 diss 了",
+        "link": "https://toutiao.io/k/040b1wq",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "深入解析 Event Loop 和浏览器渲染、帧动画、空闲回调的关系",
+        "link": "https://toutiao.io/k/aqeh3sq",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "重磅！Apache Flink 1.11 功能抢先看",
+        "link": "https://toutiao.io/k/q44te9m",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "如何快速批量导入非 Oracle DB 格式的数据：splloader",
+        "link": "https://toutiao.io/k/mljeo99",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "sentinel 使用及控制台升级改造",
+        "link": "https://toutiao.io/k/w96yeeo",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "你真的会用 Chrome DevTools 吗（二）",
+        "link": "https://toutiao.io/k/p7vr43c",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "Android 插件化技术的演进之路",
+        "link": "https://toutiao.io/k/x0qi163",
+        "date": "2020-05-27"
+      },
       {
         "title": "kafka 分区数过多引发的弊端",
         "link": "https://toutiao.io/k/laku5ic",

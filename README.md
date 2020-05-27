@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-27 11:30:22，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-27 12:00:21，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-05-27-首部解密国家紧急医学救援队的科教片《移动医院》看片会举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqPNKYf0U7NWvK7WirpDW200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-中国医疗专家组在秘鲁交流抗疫经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6r4G16AOpwFYsZG76yyu200527&isfromapp=1) ![](assets/new.png)  
+- [2020-05-27-俄罗斯总统普京：专家认为俄罗斯疫情高峰已过](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1) ![](assets/new.png)  
 - [2020-05-27-秘鲁第二大城市恢复公共交通后出现多处人群聚集情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1)  
 - [2020-05-27-中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1)  
 - [2020-05-27-土耳其四天“禁足令”结束，近4.8万人未遵守禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-26-首尔梨泰院夜店疫情发生7次传播-相关确诊病例升至255例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1)  
 - [2020-05-26-泰国新增3例新冠肺炎确诊病例-累计确诊3045例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1)  
 - [2020-05-26-香港国际机场将于6月1日恢复转机服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1)  
-- [2020-05-26-上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院4例](http://wsjkw.sh.gov.cn/xwfb/20200526/b13066232b8a4001b0da3e85292fc243.html)  
-- [2020-05-26-美国加州公共卫生部公布关于零售商店和教堂的重开指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6SFRzisPmIA8L0JWBAOB200526&isfromapp=1)  
-- [2020-05-26-世卫提醒各国应警惕第二波疫情](http://m.weibo.cn/2656274875/4508730472204245)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,26 +1067,26 @@
 </summary>
 
 
-- [2020-05-27-我喜欢苹果的一个原因你们肯定想不到](https://www.v2ex.com/t/675905) ![](assets/new.png)  
-- [2020-05-27-有啥好用-Linux-运维管理工具](https://www.v2ex.com/t/675904) ![](assets/new.png)  
-- [2020-05-27-职位名后面加个编码是不是外包？](https://www.v2ex.com/t/675903) ![](assets/new.png)  
-- [2020-05-27-社招那个工作压力大的蚂蚁金服来招人了-前端-P6&P7-可-base-京沪杭](https://www.v2ex.com/t/675902) ![](assets/new.png)  
-- [2020-05-27-北京洛斯达科技有限公司有老哥了解吗](https://www.v2ex.com/t/675901) ![](assets/new.png)  
-- [2020-05-27-struts2-在一个工程（project）里面-写两套登录逻辑-有什么问题吗？](https://www.v2ex.com/t/675900) ![](assets/new.png)  
-- [2020-05-27-有一个上百-G-的-Oracle-数据库，要整体迁移至-MySql，麻烦各位大佬给个思路](https://www.v2ex.com/t/675899) ![](assets/new.png)  
-- [2020-05-27-建了个小公司技术管理群-有兴趣来聊](https://www.v2ex.com/t/675898) ![](assets/new.png)  
-- [2020-05-27-docker-image-outdated-schema1-manifest-format](https://www.v2ex.com/t/675897) ![](assets/new.png)  
-- [2020-05-27-miui-优化-怎么判断有没有打开的?](https://www.v2ex.com/t/675896) ![](assets/new.png)  
-- [2020-05-27-微信-H5-小游戏-外包-有能接的么](https://www.v2ex.com/t/675895) ![](assets/new.png)  
-- [2020-05-27-rabbitMq-为什么不直接使用-TCP-发送消息，而是虚拟-channel？](https://www.v2ex.com/t/675894) ![](assets/new.png)  
-- [2020-05-27-内推-作业帮-前端开发](https://www.v2ex.com/t/675893) ![](assets/new.png)  
-- [2020-05-27-关于国外博彩网站国内是否正常运营，如何举报](https://www.v2ex.com/t/675892) ![](assets/new.png)  
-- [2020-05-27-hive-是否支持从-hdfs-以外的数据源读取数据？](https://www.v2ex.com/t/675891) ![](assets/new.png)  
-- [2020-05-27-那你能帮帮我吗-装机配置清单-求建议](https://www.v2ex.com/t/675890) ![](assets/new.png)  
-- [2020-05-27-上海-张江-前七牛-CTO-OpsMind-诚招-后端工程师、前端工程师、交付工程师、运维开发工程师](https://www.v2ex.com/t/675889) ![](assets/new.png)  
-- [2020-05-27-有没有国内能用的家长控制软件推荐？](https://www.v2ex.com/t/675888) ![](assets/new.png)  
-- [2020-05-27-想不通，今年失业没工资至今，还要补去年的-5000-个税！](https://www.v2ex.com/t/675886) ![](assets/new.png)  
-- [2020-05-27-摄影大佬们，从-a6000-升级，-a6600-还是-A7R3](https://www.v2ex.com/t/675885) ![](assets/new.png)  
+- [2020-05-27-貌似找到攻击我们短信接口的-ip-了，如何继续深挖？](https://www.v2ex.com/t/675919) ![](assets/new.png)  
+- [2020-05-27-Flutter-Weekly-Issue-57](https://www.v2ex.com/t/675918) ![](assets/new.png)  
+- [2020-05-27-想问一下运维方面的学习有相关视频教程吗？](https://www.v2ex.com/t/675917) ![](assets/new.png)  
+- [2020-05-27-大佬们，有个权限问题](https://www.v2ex.com/t/675916) ![](assets/new.png)  
+- [2020-05-27-弱弱的问一句，大三的现在还找得到这个暑假的实习吗](https://www.v2ex.com/t/675915) ![](assets/new.png)  
+- [2020-05-27-云函数-SCF-与对象存储实现-WordCount](https://www.v2ex.com/t/675914) ![](assets/new.png)  
+- [2020-05-27-Apple-watch-如何优雅的递给地铁工作人员](https://www.v2ex.com/t/675913) ![](assets/new.png)  
+- [2020-05-27-哈哈哈，有用的东西没人讨论.](https://www.v2ex.com/t/675912) ![](assets/new.png)  
+- [2020-05-27-面试前付费咨询公司信息的应用](https://www.v2ex.com/t/675911) ![](assets/new.png)  
+- [2020-05-27-uk.maven.org-NXDOMAIN](https://www.v2ex.com/t/675910) ![](assets/new.png)  
+- [2020-05-27-我把-12-年研发的源码开放出来了，大家指导下。](https://www.v2ex.com/t/675909) ![](assets/new.png)  
+- [2020-05-27-作为半独立开发的这两年](https://www.v2ex.com/t/675908) ![](assets/new.png)  
+- [2020-05-27-我喜欢苹果的一个原因你们肯定想不到](https://www.v2ex.com/t/675905)  
+- [2020-05-27-有啥好用-Linux-运维管理工具](https://www.v2ex.com/t/675904)  
+- [2020-05-27-职位名后面加个编码是不是外包？](https://www.v2ex.com/t/675903)  
+- [2020-05-27-社招那个工作压力大的蚂蚁金服来招人了-前端-P6&P7-可-base-京沪杭](https://www.v2ex.com/t/675902)  
+- [2020-05-27-北京洛斯达科技有限公司有老哥了解吗](https://www.v2ex.com/t/675901)  
+- [2020-05-27-struts2-在一个工程（project）里面-写两套登录逻辑-有什么问题吗？](https://www.v2ex.com/t/675900)  
+- [2020-05-27-有一个上百-G-的-Oracle-数据库，要整体迁移至-MySql，麻烦各位大佬给个思路](https://www.v2ex.com/t/675899)  
+- [2020-05-27-建了个小公司技术管理群-有兴趣来聊](https://www.v2ex.com/t/675898)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,6 +1129,18 @@
 </summary>
 
 
+- [2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u) ![](assets/new.png)  
+- [2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up) ![](assets/new.png)  
+- [2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0) ![](assets/new.png)  
+- [2020-05-27-一波-N-折的携程酒店-Swift-Objc-混编实践](https://toutiao.io/k/hb1p5ip) ![](assets/new.png)  
+- [2020-05-27-再来聊一聊-Parquet-列式存储格式](https://toutiao.io/k/ez71gak) ![](assets/new.png)  
+- [2020-05-27-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq) ![](assets/new.png)  
+- [2020-05-27-深入解析-Event-Loop-和浏览器渲染、帧动画、空闲回调的关系](https://toutiao.io/k/aqeh3sq) ![](assets/new.png)  
+- [2020-05-27-重磅！Apache-Flink-1.11-功能抢先看](https://toutiao.io/k/q44te9m) ![](assets/new.png)  
+- [2020-05-27-如何快速批量导入非-Oracle-DB-格式的数据：splloader](https://toutiao.io/k/mljeo99) ![](assets/new.png)  
+- [2020-05-27-sentinel-使用及控制台升级改造](https://toutiao.io/k/w96yeeo) ![](assets/new.png)  
+- [2020-05-27-你真的会用-Chrome-DevTools-吗（二）](https://toutiao.io/k/p7vr43c) ![](assets/new.png)  
+- [2020-05-27-Android-插件化技术的演进之路](https://toutiao.io/k/x0qi163) ![](assets/new.png)  
 - [2020-05-27-kafka-分区数过多引发的弊端](https://toutiao.io/k/laku5ic)  
 - [2020-05-27-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
 - [2020-05-27-Android-死锁初探](https://toutiao.io/k/jod2vke)  
@@ -1137,18 +1149,6 @@
 - [2020-05-27-Talos-读写一致性](https://toutiao.io/k/0htg9rg)  
 - [2020-05-27-Runtime-应用之-Sunglasses-崩溃排查工具实践-iOS](https://toutiao.io/k/9qh4ayd)  
 - [2020-05-27-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v)  
-- [2020-05-26-数据与广告（二十一）：关于品牌广告，奔涌吧后浪](https://toutiao.io/k/5jvca8k)  
-- [2020-05-26-LevelDB-完全解析（九）：写操作](https://toutiao.io/k/tq3fzpu)  
-- [2020-05-26-协程中的取消和异常：核心概念介绍](https://toutiao.io/k/fr0gbrr)  
-- [2020-05-26-面试官：不会看-Explain-执行计划，简历敢写-SQL-优化？](https://toutiao.io/k/ui57ja5)  
-- [2020-05-26-最短路径算法：Bellman-Ford-算法](https://toutiao.io/k/t8ehw3f)  
-- [2020-05-26-哈达玛矩阵指导下的在线哈希学习新方法](https://toutiao.io/k/86kfa7x)  
-- [2020-05-26-美团无人配送-CVPR-2020-论文-CenterMask-解读](https://toutiao.io/k/a9t7orb)  
-- [2020-05-26-如何用大数据-+-AI-实现实时美声，让用户的声音更动听](https://toutiao.io/k/0zunzgn)  
-- [2020-05-26-了不起的-Deno-入门教程](https://toutiao.io/k/oihlpwi)  
-- [2020-05-26-浅谈千万级系统重构之浅谈-MySQL-数据库分库分表那些事](https://toutiao.io/k/2lup3hk)  
-- [2020-05-26-Android-P-内联优化导致的一个诡异-Bug](https://toutiao.io/k/qmj08du)  
-- [2020-05-26-Kafka-时间轮的原理和实现](https://toutiao.io/k/6xndmnd)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

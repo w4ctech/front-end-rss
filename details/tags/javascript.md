@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -160,6 +160,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-27-uk.maven.org-NXDOMAIN](https://www.v2ex.com/t/675910) 
 - [2020-05-27-可以在-for-循环里，添加-btn.addEventListener"click",-function{...}-事件吗？](https://www.v2ex.com/t/675819) 
 - [2020-05-26-关于宽带和路由的问题](https://www.v2ex.com/t/675763) 
 - [2020-05-26-求大佬推荐一款软路由配置，能跑千兆](https://www.v2ex.com/t/675566) 
@@ -369,6 +370,7 @@
 - [2020-05-11-在快应用中使用-RxJS-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13443&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-rxjs-in-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-又抓了一个导致频繁GC的鬼--数组动态扩容-club.perfma.com](https://blogread.cn/news/go.php?idItem=13402&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F123281%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-异步函数的两个视角-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13395&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fasync-function-perspectives%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up) 
 - [2020-05-26-深入理解-JS-对象隐式类型转换的过程](https://toutiao.io/k/6uxgh48) 
 - [2020-05-25-花式解说防抖函数-debounce-的实现](https://toutiao.io/k/dyjno4g) 
 - [2020-05-21-Spring-Boot-使用-JSR303-实现参数验证](https://toutiao.io/k/8ek7nin) 

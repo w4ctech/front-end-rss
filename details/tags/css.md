@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-27 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-27 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -109,6 +109,7 @@
 - [2020-04-25-Serverless-Framework-一键部署正式发布](https://www.v2ex.com/t/666030) 
 - [2020-04-24-首届-ServerlessDays-·-China-大会来啦！](https://www.v2ex.com/t/665800) 
 - [2020-04-24-Mac-安装-Swoole-报错：-error:-no-member-named-'isless'-in-the-global-namespace-using-::isless;](https://www.v2ex.com/t/665718) 
+- [2020-05-27-深入解析-Event-Loop-和浏览器渲染、帧动画、空闲回调的关系](https://toutiao.io/k/aqeh3sq) 
 - [2020-05-25-RecyclerView.ItemAnimator-实现动画效果](https://toutiao.io/k/woshk0f) 
 - [2020-05-24-重写-500-Lines-or-Less-项目：Web-Server](https://toutiao.io/k/rwyn2m7) 
 - [2020-05-23-Serverless-选型：深度解读-Serverless-架构及平台选择](https://toutiao.io/k/qnhn0z4) 

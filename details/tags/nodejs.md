@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -37,6 +37,8 @@
 - [2020-05-04-node_modules-困境](https://www.ershicimi.com/p/ac45cbfb0b5b7ae1dc8598e347e0913c) 
 - [2020-04-28-为-Node.js-应用建立一个更安全的沙箱环境](https://www.ershicimi.com/p/b2a79e4b9fa064dbb092674f6e44d9d6) 
 - [2020-04-22-我是如何把node接口耗时降低23%的](https://www.ershicimi.com/p/fc2cb10594d5d1cd2073d1f383cfb232) 
+- [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) 
+- [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) 
 - [2020-05-17-推荐一个一直研究-Nodejs-源码的同学](https://www.ershicimi.com/p/789c758740ad9b3ecad10381ffff7dfa) 
 - [2020-05-10-Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0) 
 - [2020-04-17-Nodejs-中基于-Stream-的多文件合并实现](https://www.ershicimi.com/p/537ac76be5a20ec7603b470d2fdfafa4) 

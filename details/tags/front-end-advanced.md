@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -30,6 +30,7 @@
 - [2020-04-25-前端进阶算法：常见算法题及完美题解](https://www.ershicimi.com/p/db122c85f70d4ca8107ed095134e1f24) 
 - [2020-04-22-前端进阶算法5：吊打面试官之数据结构栈（+leetcode刷题）](https://www.ershicimi.com/p/a2a84459650333ce6bfe05756087cd43) 
 - [2020-04-18-去大厂面试问我算法，我该怎么办？](https://www.ershicimi.com/p/26dfe376c652a76ddeed36a02bf63786) 
+- [2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
 - [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
 - [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-05-20 05:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4) 
+- [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) 
+- [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) 
+- [2020-05-20-Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2) 
 - [2020-05-17-TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2) 
 - [2020-05-17-推荐一个一直研究-Nodejs-源码的同学](https://www.ershicimi.com/p/789c758740ad9b3ecad10381ffff7dfa) 
 - [2020-05-14-Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572) 

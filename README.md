@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 01:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 01:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -626,6 +626,10 @@
 </summary>
 
 
+- [2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4) ![](assets/new.png)  
+- [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) ![](assets/new.png)  
+- [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) ![](assets/new.png)  
+- [2020-05-20-Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2) ![](assets/new.png)  
 - [2020-05-17-TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)  
 - [2020-05-17-推荐一个一直研究-Nodejs-源码的同学](https://www.ershicimi.com/p/789c758740ad9b3ecad10381ffff7dfa)  
 - [2020-05-14-Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572)  
@@ -1038,10 +1042,10 @@
 </summary>
 
 
-- [2020-05-28-8-个看似简单的心理学小技巧，学会了却能受益终生](https://www.ershicimi.com/p/5d4d8726f8a2fdf5d121c3c8de5d857f) ![](assets/new.png)  
-- [2020-05-28-知乎好问题：如何看待首个国产-HPV-疫苗获批上市，定价-329-元一支？](https://www.ershicimi.com/p/6ca5493dfc7aeb3ed006c97cc77aa74d) ![](assets/new.png)  
-- [2020-05-28-如何开启一段不尴尬的聊天？](https://www.ershicimi.com/p/74753e942af7ab587ddaf1b22db194f4) ![](assets/new.png)  
-- [2020-05-28-知乎故事-|-和异性合租是种怎样的体验？](https://www.ershicimi.com/p/401c5805fc73f91bbc341411acc6b08c) ![](assets/new.png)  
+- [2020-05-28-8-个看似简单的心理学小技巧，学会了却能受益终生](https://www.ershicimi.com/p/5d4d8726f8a2fdf5d121c3c8de5d857f)  
+- [2020-05-28-知乎好问题：如何看待首个国产-HPV-疫苗获批上市，定价-329-元一支？](https://www.ershicimi.com/p/6ca5493dfc7aeb3ed006c97cc77aa74d)  
+- [2020-05-28-如何开启一段不尴尬的聊天？](https://www.ershicimi.com/p/74753e942af7ab587ddaf1b22db194f4)  
+- [2020-05-28-知乎故事-|-和异性合租是种怎样的体验？](https://www.ershicimi.com/p/401c5805fc73f91bbc341411acc6b08c)  
 - [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730)  
 - [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7)  
 - [2020-05-27-比勤奋更能决定你人生的，是你的选择](https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2)  

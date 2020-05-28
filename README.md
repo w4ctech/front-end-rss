@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 00:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 00:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-28-世卫组织：全球新冠肺炎超过559万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1) ![](assets/new.png)  
 - [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1)  
 - [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1)  
 - [2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1)  
 - [2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1)  
 - [2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1)  
-- [2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,14 +1069,16 @@
 </summary>
 
 
-- [2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490) ![](assets/new.png)  
-- [2020-05-28-社区/论坛类的是不是不太行了，怎么还没看见前后端分离的成熟产品呢？](https://www.v2ex.com/t/676489) ![](assets/new.png)  
-- [2020-05-28-怎么解决-Siri-不能处理"给我爸爸打电话"的指令-有视频演示](https://www.v2ex.com/t/676488) ![](assets/new.png)  
-- [2020-05-28-NextCloud-Docker-遇到问题](https://www.v2ex.com/t/676487) ![](assets/new.png)  
-- [2020-05-28-更新数据库后是直接更新缓存还是删除缓存？](https://www.v2ex.com/t/676486) ![](assets/new.png)  
-- [2020-05-28-用-scrapy-+selenium-练习采集，怎么都输出一些这个，是哪里设置的不对？](https://www.v2ex.com/t/676485) ![](assets/new.png)  
-- [2020-05-28-Lacie-移动硬盘-Type-C/USB3.1-可以插在智能电视上用吗？电视接口有-USB-2-和-USB-3-接口，客服说是只能电...](https://www.v2ex.com/t/676484) ![](assets/new.png)  
-- [2020-05-28-200M-的宽带足够在线看蓝光原盘吗](https://www.v2ex.com/t/676483) ![](assets/new.png)  
+- [2020-05-29-20200528-午夜俱乐部](https://www.v2ex.com/t/676493) ![](assets/new.png)  
+- [2020-05-29-想搞个-2021-届实习校招交流群](https://www.v2ex.com/t/676492) ![](assets/new.png)  
+- [2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490)  
+- [2020-05-28-社区/论坛类的是不是不太行了，怎么还没看见前后端分离的成熟产品呢？](https://www.v2ex.com/t/676489)  
+- [2020-05-28-怎么解决-Siri-不能处理"给我爸爸打电话"的指令-有视频演示](https://www.v2ex.com/t/676488)  
+- [2020-05-28-NextCloud-Docker-遇到问题](https://www.v2ex.com/t/676487)  
+- [2020-05-28-更新数据库后是直接更新缓存还是删除缓存？](https://www.v2ex.com/t/676486)  
+- [2020-05-28-用-scrapy-+selenium-练习采集，怎么都输出一些这个，是哪里设置的不对？](https://www.v2ex.com/t/676485)  
+- [2020-05-28-Lacie-移动硬盘-Type-C/USB3.1-可以插在智能电视上用吗？电视接口有-USB-2-和-USB-3-接口，客服说是只能电...](https://www.v2ex.com/t/676484)  
+- [2020-05-28-200M-的宽带足够在线看蓝光原盘吗](https://www.v2ex.com/t/676483)  
 - [2020-05-28-北京-脉脉-内推-不-996，成功入职有大奖拿](https://www.v2ex.com/t/676482)  
 - [2020-05-28-我的工作经历及我为什么选择创业（上）](https://www.v2ex.com/t/676481)  
 - [2020-05-28-秒控键盘-2-适合码代码吗？](https://www.v2ex.com/t/676480)  
@@ -1087,8 +1089,6 @@
 - [2020-05-28-HTML-页面加入点击的一个特效，页面的按钮就不可点击了，求助！](https://www.v2ex.com/t/676475)  
 - [2020-05-28-想离职，求给点勇气。](https://www.v2ex.com/t/676474)  
 - [2020-05-28-关于知乎优化团队](https://www.v2ex.com/t/676473)  
-- [2020-05-28-自学编程-9-年，想学算法，有可以推荐的书吗？](https://www.v2ex.com/t/676472)  
-- [2020-05-28-618-搞这套配置是否-49-年入国军?](https://www.v2ex.com/t/676471)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

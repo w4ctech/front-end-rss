@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-世卫组织：全球新冠肺炎超过559万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1) 
@@ -1371,6 +1372,8 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-29-20200528-午夜俱乐部](https://www.v2ex.com/t/676493) 
+- [【V2EX】2020-05-29-想搞个-2021-届实习校招交流群](https://www.v2ex.com/t/676492) 
 - [【V2EX】2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490) 
 - [【V2EX】2020-05-28-社区/论坛类的是不是不太行了，怎么还没看见前后端分离的成熟产品呢？](https://www.v2ex.com/t/676489) 
 - [【V2EX】2020-05-28-怎么解决-Siri-不能处理"给我爸爸打电话"的指令-有视频演示](https://www.v2ex.com/t/676488) 

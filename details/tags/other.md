@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-28-中国抗疫专家组与赤道几内亚卫生部门进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwcncvEDTGtyJdTsYXW4200528&isfromapp=1) 
 - [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1) 
 - [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1) 
 - [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1) 
@@ -1331,6 +1332,14 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-28-运维开发-深圳-全职-偏应用运维或者-devops-开发](https://www.v2ex.com/t/676345) 
+- [2020-05-28-公司跳板机如何用-pycharm-远程开发？](https://www.v2ex.com/t/676344) 
+- [2020-05-28-悄悄的，留下我的博客。](https://www.v2ex.com/t/676343) 
+- [2020-05-28-小米-ax1800-和华为-ax3-选哪款？](https://www.v2ex.com/t/676342) 
+- [2020-05-28-每天最宝贵的时间，困在一个几平米的工位上，获得廉价的收入](https://www.v2ex.com/t/676341) 
+- [2020-05-28-滨江海创基地求自由职业者或者创业者了，免费提供场地](https://www.v2ex.com/t/676340) 
+- [2020-05-28-请问有什么手机支持-Wi-Fi-Easy-Connect-的？](https://www.v2ex.com/t/676339) 
+- [2020-05-28-airpods2-连接-mbp-听歌卡顿，有人遇到同款问题吗](https://www.v2ex.com/t/676338) 
 - [2020-05-28-2-折优惠」🔰Windows10-家庭版/专业版-Office-365/2019/2016](https://www.v2ex.com/t/676337) 
 - [2020-05-28-小弟请教关于-PHP-.ini-配置不生效的问题](https://www.v2ex.com/t/676335) 
 - [2020-05-28-求问，有没有待机长的备用手机推荐？](https://www.v2ex.com/t/676334) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-28 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1061,6 +1061,9 @@
 - [【前端日刊】2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
 - [【前端日刊】2020-05-09-四年前端在CSS面试上跪了/ㄒoㄒ/~~](https://www.ershicimi.com/p/070cbd8e6a391caa3ae66fe2c5954bcd) 
 - [【前端日刊】2020-05-07-你知道小程序最后上线的代码是什么样子吗？](https://www.ershicimi.com/p/11472fe57cdbb9c62ec7ce0f80397e61) 
+- [【互联网架构师】2020-05-28-华为搜索引擎面世，百度搜索有点危险了！](https://www.ershicimi.com/p/e306b0e1892dededcbd037ae79097c09) 
+- [【互联网架构师】2020-05-28-Java-处理-Exception-的-9-个最佳实践！](https://www.ershicimi.com/p/bbbddb8f25887070dacd3b1d792abab7) 
+- [【互联网架构师】2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61) 
 - [【互联网架构师】2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243) 
 - [【互联网架构师】2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b) 
 - [【互联网架构师】2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95) 

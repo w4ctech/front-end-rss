@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-28-英国载客量最大航空公司计划削减近三分之一工作岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidF6MFq5ZR9RyGvw6DqyQ200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-英国载客量最大航空公司计划削减近三分之一工作岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidF6MFq5ZR9RyGvw6DqyQ200528&isfromapp=1)  
 - [2020-05-28-中国抗疫专家组与赤道几内亚卫生部门进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwcncvEDTGtyJdTsYXW4200528&isfromapp=1)  
 - [2020-05-28-拉美新冠肺炎确诊病例超84万例-多国延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRIjuwIIWCsYD6BfpiGaf200528&isfromapp=1)  
 - [2020-05-28-印度新增新冠肺炎确诊病例6566例-累计158333例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1)  
@@ -831,6 +831,9 @@
 </summary>
 
 
+- [2020-05-28-华为搜索引擎面世，百度搜索有点危险了！](https://www.ershicimi.com/p/e306b0e1892dededcbd037ae79097c09) ![](assets/new.png)  
+- [2020-05-28-Java-处理-Exception-的-9-个最佳实践！](https://www.ershicimi.com/p/bbbddb8f25887070dacd3b1d792abab7) ![](assets/new.png)  
+- [2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61) ![](assets/new.png)  
 - [2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243)  
 - [2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b)  
 - [2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95)  
@@ -848,9 +851,6 @@
 - [2020-05-23-Spring-Boot-2.3.0-发布：支持Java14、打包Docker镜像、优雅关机配置...](https://www.ershicimi.com/p/b4c080feda51b2c21f5f08fdd4db08c5)  
 - [2020-05-22-重磅！！Redis-6.0.0-已发布，有史以来改变最大的版本](https://www.ershicimi.com/p/2840c8005bb41387310bc29f8f39dfd7)  
 - [2020-05-22-终于找全啦！一二线城市知名互联网公司名单！对着找就对了...](https://www.ershicimi.com/p/81c469ee22d2241187e1c457f70bc5c6)  
-- [2020-05-22-不要网上乱拷贝代码了！一段网上找的代码把公司服务器崩了！](https://www.ershicimi.com/p/66df0b10998c68a1623851a1f1b99211)  
-- [2020-05-21-一打开IntelliJ-IDEA，电脑卡的要死，该如何优化内存呢？](https://www.ershicimi.com/p/ec0073e0c2b3559ff77864bc081c14ab)  
-- [2020-05-21-为什么-Java-不支持类多重继承？](https://www.ershicimi.com/p/3d9ea7d5cde39f570a3bc61a4ad8398e)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

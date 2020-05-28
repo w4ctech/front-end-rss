@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 03:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -227,6 +227,7 @@
 </summary>
 
 
+- [2020-05-29-【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12) ![](assets/new.png)  
 - [2020-05-28-【第1958期】前端状态管理设计——优雅与妥协的艺术](https://www.ershicimi.com/p/17c31945dd39b0065dd2ba289d8714f5)  
 - [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)  
 - [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)  
@@ -246,7 +247,6 @@
 - [2020-05-19-【图书】计算机简史](https://www.ershicimi.com/p/2b6a69e8dad2ced9908b0229129ce4bc)  
 - [2020-05-18-【第1948期】从前端角度彻底搞懂-DIP、IoC、DI、JS](https://www.ershicimi.com/p/b845b8174c2361934bb995f6a77c4e9b)  
 - [2020-05-17-【第1947期】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/c03f6d5488e843253629135e9601d4d0)  
-- [2020-05-16-【第1946期】NutUI官网开发关键技术揭秘](https://www.ershicimi.com/p/2914cba86647fa4a2d4e4d85956a9c35)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,8 +1073,8 @@
 </summary>
 
 
-- [2020-05-29-TikTok-是逗音吗，在有图比上狂砸广告啊](https://www.v2ex.com/t/676506) ![](assets/new.png)  
-- [2020-05-29-字节跳动-全岗位日常实习招聘，有转正机会无笔试，快上车！](https://www.v2ex.com/t/676505) ![](assets/new.png)  
+- [2020-05-29-TikTok-是逗音吗，在有图比上狂砸广告啊](https://www.v2ex.com/t/676506)  
+- [2020-05-29-字节跳动-全岗位日常实习招聘，有转正机会无笔试，快上车！](https://www.v2ex.com/t/676505)  
 - [2020-05-29-Golang-学习项目](https://www.v2ex.com/t/676504)  
 - [2020-05-29-如果你突然有了-1-亿元，你拿这钱做的第一件事是什么？](https://www.v2ex.com/t/676503)  
 - [2020-05-29-字节跳动-监控团队招人啦-上海北京杭州-~~~~~~](https://www.v2ex.com/t/676502)  

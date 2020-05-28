@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -164,6 +164,7 @@
 - [2020-04-26-小白提问：-vue-table-的-key](https://www.v2ex.com/t/666194) 
 - [2020-04-24-尝试用-Vue.js-开发网页小游戏的过程](https://www.v2ex.com/t/665644) 
 - [2020-04-24-springboot-&-vue.js-搭建的前后端分离管理后台~](https://www.v2ex.com/t/665612) 
+- [2020-05-28-基于-Vue-SSR-的微架构在-FOLLOWME-5.0-实践](https://toutiao.io/k/zi0g1da) 
 - [2020-05-08-译-Vue-3-中的-Vue-Router-初探](https://toutiao.io/k/vtvsc0y) 
 - [2020-05-07-译-如何在-Vue-3-中使用生命周期函数](https://toutiao.io/k/f4hs7uk) 
 - [2020-05-04-gin-vue-admin：基于-Gin-+-Vue-搭建的后台管理系统框架](https://toutiao.io/k/elwnnt2) 

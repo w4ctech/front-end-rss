@@ -53781,6 +53781,106 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "架构设计：接口幂等性原则，防重复提交 Token 管理",
+        "link": "https://toutiao.io/k/445816s",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "我画了 25 张图展示线程池工作原理和实现原理",
+        "link": "https://toutiao.io/k/29afo7u",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "程序员，你的业余时间是怎么被浪费掉的？| 码农周刊第 307 期",
+        "link": "https://toutiao.io/k/8wuxk7s",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "如何预防 Elasticsearch 服务器入侵事件的发生",
+        "link": "https://toutiao.io/k/5cu5e78",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "分布式场景下基于重试机制的一致性解决方案",
+        "link": "https://toutiao.io/k/v9ayiee",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[译] 欢迎使用 C# 9.0",
+        "link": "https://toutiao.io/k/auwyk3t",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "Spring Boot Admin 实现服务健康预警",
+        "link": "https://toutiao.io/k/yx45j5j",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "一言难尽，Jpa 这个功能差点让我丢了工作",
+        "link": "https://toutiao.io/k/ltqg840",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "基于 Ceph 对象存储构建实践",
+        "link": "https://toutiao.io/k/xe4ksn1",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "三年前端寒冬入大厂，收获蚂蚁、字节 Offer 面经分享",
+        "link": "https://toutiao.io/k/u9ge7lv",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "Java 并发编程那些事儿（五）：闭锁、栅栏、信号量",
+        "link": "https://toutiao.io/k/n5tfshv",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "MongoDB 是如何保障数据真正写入的",
+        "link": "https://toutiao.io/k/tlivpu8",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "基于 Vue SSR 的微架构在 FOLLOWME 5.0 实践",
+        "link": "https://toutiao.io/k/zi0g1da",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "Fish-Lottie：纯 Dart 如何实现一个高性能动画框架？",
+        "link": "https://toutiao.io/k/n3t8g3s",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "女性求职者如何回答面试官的敏感问题？（面试答题篇 Ⅳ）",
+        "link": "https://toutiao.io/k/lexgdm6",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "如何在 ClickHouse 中避免深度分页问题",
+        "link": "https://toutiao.io/k/lxq7l0j",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "作为一个 32 岁工程师，我已不再焦虑。你呢？",
+        "link": "https://toutiao.io/k/8121gvd",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "MySQL 的 crash-safe 原理解析",
+        "link": "https://toutiao.io/k/9k9tyty",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "持久化：DDD 务实篇（一）",
+        "link": "https://toutiao.io/k/ib8v8oa",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "HBase 原理：HBase Compaction 介绍与参数调优",
+        "link": "https://toutiao.io/k/vmh0ef6",
+        "date": "2020-05-28"
+      },
+      {
         "title": "30 分钟学会 PCA 主成分分析",
         "link": "https://toutiao.io/k/aj97fwp",
         "date": "2020-05-27"

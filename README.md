@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 13:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 13:30:21，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-28-印度新增新冠肺炎确诊病例6566例-累计158333例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-印度新增新冠肺炎确诊病例6566例-累计158333例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1)  
 - [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1)  
 - [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1)  
 - [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1)  
@@ -1131,26 +1131,26 @@
 </summary>
 
 
-- [2020-05-27-30-分钟学会-PCA-主成分分析](https://toutiao.io/k/aj97fwp)  
-- [2020-05-27-.NET-Core-+-Kubernetes：Service](https://toutiao.io/k/91d4lfa)  
-- [2020-05-27-Python-小技巧：如何批量更新已安装的库？](https://toutiao.io/k/jxwfmxu)  
-- [2020-05-27-flask-restful:-Web-Backend-Api-On-Python3-With-Flask-Restful](https://toutiao.io/k/12ya795)  
-- [2020-05-27-移动端的点击事件和基于-:active-实现的按钮点击态](https://toutiao.io/k/dk09q5w)  
-- [2020-05-27-数据源管理：OLAP-查询引擎，ClickHouse-集群化管理](https://toutiao.io/k/1fh1v7u)  
-- [2020-05-27-icejs：企业级前端研发框架的演进与实践](https://toutiao.io/k/lysa2up)  
-- [2020-05-27-请查收这份-“位运算”-的装逼指南](https://toutiao.io/k/nwgvnr0)  
-- [2020-05-27-一波-N-折的携程酒店-Swift-Objc-混编实践](https://toutiao.io/k/hb1p5ip)  
-- [2020-05-27-再来聊一聊-Parquet-列式存储格式](https://toutiao.io/k/ez71gak)  
-- [2020-05-27-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  
-- [2020-05-27-深入解析-Event-Loop-和浏览器渲染、帧动画、空闲回调的关系](https://toutiao.io/k/aqeh3sq)  
-- [2020-05-27-重磅！Apache-Flink-1.11-功能抢先看](https://toutiao.io/k/q44te9m)  
-- [2020-05-27-如何快速批量导入非-Oracle-DB-格式的数据：splloader](https://toutiao.io/k/mljeo99)  
-- [2020-05-27-sentinel-使用及控制台升级改造](https://toutiao.io/k/w96yeeo)  
-- [2020-05-27-你真的会用-Chrome-DevTools-吗（二）](https://toutiao.io/k/p7vr43c)  
-- [2020-05-27-Android-插件化技术的演进之路](https://toutiao.io/k/x0qi163)  
-- [2020-05-27-kafka-分区数过多引发的弊端](https://toutiao.io/k/laku5ic)  
-- [2020-05-27-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
-- [2020-05-27-Android-死锁初探](https://toutiao.io/k/jod2vke)  
+- [2020-05-28-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s) ![](assets/new.png)  
+- [2020-05-28-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u) ![](assets/new.png)  
+- [2020-05-28-程序员，你的业余时间是怎么被浪费掉的？|-码农周刊第-307-期](https://toutiao.io/k/8wuxk7s) ![](assets/new.png)  
+- [2020-05-28-如何预防-Elasticsearch-服务器入侵事件的发生](https://toutiao.io/k/5cu5e78) ![](assets/new.png)  
+- [2020-05-28-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee) ![](assets/new.png)  
+- [2020-05-28-译-欢迎使用-C#-9.0](https://toutiao.io/k/auwyk3t) ![](assets/new.png)  
+- [2020-05-28-Spring-Boot-Admin-实现服务健康预警](https://toutiao.io/k/yx45j5j) ![](assets/new.png)  
+- [2020-05-28-一言难尽，Jpa-这个功能差点让我丢了工作](https://toutiao.io/k/ltqg840) ![](assets/new.png)  
+- [2020-05-28-基于-Ceph-对象存储构建实践](https://toutiao.io/k/xe4ksn1) ![](assets/new.png)  
+- [2020-05-28-三年前端寒冬入大厂，收获蚂蚁、字节-Offer-面经分享](https://toutiao.io/k/u9ge7lv) ![](assets/new.png)  
+- [2020-05-28-Java-并发编程那些事儿（五）：闭锁、栅栏、信号量](https://toutiao.io/k/n5tfshv) ![](assets/new.png)  
+- [2020-05-28-MongoDB-是如何保障数据真正写入的](https://toutiao.io/k/tlivpu8) ![](assets/new.png)  
+- [2020-05-28-基于-Vue-SSR-的微架构在-FOLLOWME-5.0-实践](https://toutiao.io/k/zi0g1da) ![](assets/new.png)  
+- [2020-05-28-Fish-Lottie：纯-Dart-如何实现一个高性能动画框架？](https://toutiao.io/k/n3t8g3s) ![](assets/new.png)  
+- [2020-05-28-女性求职者如何回答面试官的敏感问题？（面试答题篇-Ⅳ）](https://toutiao.io/k/lexgdm6) ![](assets/new.png)  
+- [2020-05-28-如何在-ClickHouse-中避免深度分页问题](https://toutiao.io/k/lxq7l0j) ![](assets/new.png)  
+- [2020-05-28-作为一个-32-岁工程师，我已不再焦虑。你呢？](https://toutiao.io/k/8121gvd) ![](assets/new.png)  
+- [2020-05-28-MySQL-的-crash-safe-原理解析](https://toutiao.io/k/9k9tyty) ![](assets/new.png)  
+- [2020-05-28-持久化：DDD-务实篇（一）](https://toutiao.io/k/ib8v8oa) ![](assets/new.png)  
+- [2020-05-28-HBase-原理：HBase-Compaction-介绍与参数调优](https://toutiao.io/k/vmh0ef6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

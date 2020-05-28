@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 13:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 13:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -7922,6 +7922,21 @@
 - [2020-04-24-计算机技能需求新排名：Python-排第-3-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13385&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAvKLm00k3NhorYj0LxgZQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13383&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfhD63xqWod5qTvgCPRslcQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-04-24-2020年了，Android后台保活还有戏吗？看我如何优雅的实现-www.52im.net](https://blogread.cn/news/go.php?idItem=13382&url=http%3A%2F%2Fwww.52im.net%2Fthread-2881-1-1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-28-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s) 
+- [2020-05-28-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u) 
+- [2020-05-28-程序员，你的业余时间是怎么被浪费掉的？|-码农周刊第-307-期](https://toutiao.io/k/8wuxk7s) 
+- [2020-05-28-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee) 
+- [2020-05-28-译-欢迎使用-C#-9.0](https://toutiao.io/k/auwyk3t) 
+- [2020-05-28-Spring-Boot-Admin-实现服务健康预警](https://toutiao.io/k/yx45j5j) 
+- [2020-05-28-一言难尽，Jpa-这个功能差点让我丢了工作](https://toutiao.io/k/ltqg840) 
+- [2020-05-28-三年前端寒冬入大厂，收获蚂蚁、字节-Offer-面经分享](https://toutiao.io/k/u9ge7lv) 
+- [2020-05-28-Java-并发编程那些事儿（五）：闭锁、栅栏、信号量](https://toutiao.io/k/n5tfshv) 
+- [2020-05-28-MongoDB-是如何保障数据真正写入的](https://toutiao.io/k/tlivpu8) 
+- [2020-05-28-如何在-ClickHouse-中避免深度分页问题](https://toutiao.io/k/lxq7l0j) 
+- [2020-05-28-作为一个-32-岁工程师，我已不再焦虑。你呢？](https://toutiao.io/k/8121gvd) 
+- [2020-05-28-MySQL-的-crash-safe-原理解析](https://toutiao.io/k/9k9tyty) 
+- [2020-05-28-持久化：DDD-务实篇（一）](https://toutiao.io/k/ib8v8oa) 
+- [2020-05-28-HBase-原理：HBase-Compaction-介绍与参数调优](https://toutiao.io/k/vmh0ef6) 
 - [2020-05-27-30-分钟学会-PCA-主成分分析](https://toutiao.io/k/aj97fwp) 
 - [2020-05-27-.NET-Core-+-Kubernetes：Service](https://toutiao.io/k/91d4lfa) 
 - [2020-05-27-Python-小技巧：如何批量更新已安装的库？](https://toutiao.io/k/jxwfmxu) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,7 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-28-英国载客量最大航空公司计划削减近三分之一工作岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidF6MFq5ZR9RyGvw6DqyQ200528&isfromapp=1) 
 - [2020-05-28-中国抗疫专家组与赤道几内亚卫生部门进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwcncvEDTGtyJdTsYXW4200528&isfromapp=1) 
 - [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1) 
 - [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1) 

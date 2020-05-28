@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -20,6 +20,7 @@
 - [2020-05-20-最终，我选择了-GraphQL-作为企业-API-网关](https://www.ershicimi.com/p/27ba196dbfcdca0e3469f01b52f50304) 
 - [2020-05-15-手把手教你用-Rust-搭建-REST-API](https://www.ershicimi.com/p/8676de5d859798e8d7832d28e947c31b) 
 - [2020-04-29-在这里，NGINX-创始人-Igor-Sysoev-将亲述-NGINX-的诞生史丨Q推荐](https://www.ershicimi.com/p/c2873c1fb5a8c0e60304151609767657) 
+- [2020-05-28-NextCloud-Docker-遇到问题](https://www.v2ex.com/t/676487) 
 - [2020-05-27-docker-image-outdated-schema1-manifest-format](https://www.v2ex.com/t/675897) 
 - [2020-05-25-请问如何设置-rewrite，才能使得-Nginx-二级目录如果是大写跳转为小写？](https://www.v2ex.com/t/675289) 
 - [2020-05-24-springboot-的-docker-镜像要连-mysql-redis（都不是-docker-而是装在系统上），该怎么做？](https://www.v2ex.com/t/674973) 

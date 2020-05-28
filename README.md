@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 23:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 00:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1)  
 - [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1)  
 - [2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1)  
 - [2020-05-28-中国政府赴阿尔及利亚抗疫医疗专家组结束在阿行程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSvsRoeW8RsIRYyVtlqC200528&isfromapp=1)  
@@ -1069,6 +1069,14 @@
 </summary>
 
 
+- [2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490) ![](assets/new.png)  
+- [2020-05-28-社区/论坛类的是不是不太行了，怎么还没看见前后端分离的成熟产品呢？](https://www.v2ex.com/t/676489) ![](assets/new.png)  
+- [2020-05-28-怎么解决-Siri-不能处理"给我爸爸打电话"的指令-有视频演示](https://www.v2ex.com/t/676488) ![](assets/new.png)  
+- [2020-05-28-NextCloud-Docker-遇到问题](https://www.v2ex.com/t/676487) ![](assets/new.png)  
+- [2020-05-28-更新数据库后是直接更新缓存还是删除缓存？](https://www.v2ex.com/t/676486) ![](assets/new.png)  
+- [2020-05-28-用-scrapy-+selenium-练习采集，怎么都输出一些这个，是哪里设置的不对？](https://www.v2ex.com/t/676485) ![](assets/new.png)  
+- [2020-05-28-Lacie-移动硬盘-Type-C/USB3.1-可以插在智能电视上用吗？电视接口有-USB-2-和-USB-3-接口，客服说是只能电...](https://www.v2ex.com/t/676484) ![](assets/new.png)  
+- [2020-05-28-200M-的宽带足够在线看蓝光原盘吗](https://www.v2ex.com/t/676483) ![](assets/new.png)  
 - [2020-05-28-北京-脉脉-内推-不-996，成功入职有大奖拿](https://www.v2ex.com/t/676482)  
 - [2020-05-28-我的工作经历及我为什么选择创业（上）](https://www.v2ex.com/t/676481)  
 - [2020-05-28-秒控键盘-2-适合码代码吗？](https://www.v2ex.com/t/676480)  
@@ -1081,14 +1089,6 @@
 - [2020-05-28-关于知乎优化团队](https://www.v2ex.com/t/676473)  
 - [2020-05-28-自学编程-9-年，想学算法，有可以推荐的书吗？](https://www.v2ex.com/t/676472)  
 - [2020-05-28-618-搞这套配置是否-49-年入国军?](https://www.v2ex.com/t/676471)  
-- [2020-05-28-继数据收集问题后，再次有与-WinGet-相关的激烈讨论登上-Hacker-News-首页](https://www.v2ex.com/t/676468)  
-- [2020-05-28-服务器上行带宽对应的是上传还是下载？](https://www.v2ex.com/t/676467)  
-- [2020-05-28-请给有一点-IT-基础的人（非程序员）解释一下为什么-google-play-service-的存在与否能影响到-app-的消息收...](https://www.v2ex.com/t/676466)  
-- [2020-05-28-腾讯云的轻量应用服务器-Lighthouse-多少人申请了内测？](https://www.v2ex.com/t/676464)  
-- [2020-05-28-小白想趁着-618-组个黑苹果,请各位前辈指点一下,我的配置如下](https://www.v2ex.com/t/676463)  
-- [2020-05-28-管理-chrome-的收藏夹（书签）有什么妙招或好插件或好思路么?](https://www.v2ex.com/t/676462)  
-- [2020-05-28-韩国的线路是出问题了吗，今天？](https://www.v2ex.com/t/676461)  
-- [2020-05-28-做些个人项目放到简历里帮助大吗？](https://www.v2ex.com/t/676460)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

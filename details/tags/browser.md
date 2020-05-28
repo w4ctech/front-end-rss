@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -57,6 +57,8 @@
 - [2020-05-14-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/5e601db639fa2b30d1c7e3df094ef52d) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-04-24-Cash：用于现代浏览器的-jQuery-微型替代](https://javascriptweekly.com/link/63633/web) 
+- [2020-05-28-更新数据库后是直接更新缓存还是删除缓存？](https://www.v2ex.com/t/676486) 
+- [2020-05-28-Lacie-移动硬盘-Type-C/USB3.1-可以插在智能电视上用吗？电视接口有-USB-2-和-USB-3-接口，客服说是只能电...](https://www.v2ex.com/t/676484) 
 - [2020-05-28-继数据收集问题后，再次有与-WinGet-相关的激烈讨论登上-Hacker-News-首页](https://www.v2ex.com/t/676468) 
 - [2020-05-28-管理-chrome-的收藏夹（书签）有什么妙招或好插件或好思路么?](https://www.v2ex.com/t/676462) 
 - [2020-05-28-菜鸡一个-怎么做能安全度过试用期呢？](https://www.v2ex.com/t/676399) 

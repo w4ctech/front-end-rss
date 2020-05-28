@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 10:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 10:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1)  
 - [2020-05-28-根据丁香园数据，美国新冠死亡人数超-10-万]()  
 - [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1)  
 - [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1)  
@@ -289,6 +289,7 @@
 </summary>
 
 
+- [2020-05-28-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/6cefc7b7fe1df4975b064ca642f12abb) ![](assets/new.png)  
 - [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477)  
 - [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)  
 - [2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)  
@@ -308,7 +309,6 @@
 - [2020-05-17-面试官问了一下三次握手，我甩出这张脑图，他服了！](https://www.ershicimi.com/p/b35ac7adf6b1a0add9818a9c322554ab)  
 - [2020-05-16-修复100年前北京晚清影像，和马斯克谈两亿的项目，AI技术的底层逻辑是什么？](https://www.ershicimi.com/p/9bc9d62d1a0b3feb66de364bbd0dbb58)  
 - [2020-05-16-如何自我评估前端段位及进阶方式（纯干货）](https://www.ershicimi.com/p/451d9d765c9ba5fd7763abee42b554c1)  
-- [2020-05-15-10-个很实用的-JavaScript-技巧](https://www.ershicimi.com/p/80c6d0a9a11f7057770b6522f4b95a16)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -564,6 +564,8 @@
 </summary>
 
 
+- [2020-05-28-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7) ![](assets/new.png)  
+- [2020-05-28-鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8) ![](assets/new.png)  
 - [2020-05-27-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495)  
 - [2020-05-26-据说，80%的人都搞不懂哈希算法](https://www.ershicimi.com/p/db579140f0f341b89661e4bc25a105c6)  
 - [2020-05-26-瓶子君邀你进群学习啦](https://www.ershicimi.com/p/10b7a1ece24abc0e29686cff48c4e829)  
@@ -582,8 +584,6 @@
 - [2020-05-17-推倒-Node-重做，Deno-1.0-来了](https://www.ershicimi.com/p/a2999829905f028385ecd93ff177782f)  
 - [2020-05-17-我的VS-Code设置，助你每天少加班1小时](https://www.ershicimi.com/p/93c317170e8489947260ba5d95f3aa04)  
 - [2020-05-16-推荐几个业内大佬的公众号](https://www.ershicimi.com/p/cb259a704663c42792297d16858379db)  
-- [2020-05-15-我接触过的前端数据结构与算法](https://www.ershicimi.com/p/310f723762ec8cdd32c9933dda020603)  
-- [2020-05-14-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/34596dd7543c10f7558ce2057ee7bbf4)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

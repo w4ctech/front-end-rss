@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -820,6 +820,7 @@
 - [2020-04-23-薅羊毛啦，免费领取极客时间800元的课程！](https://www.ershicimi.com/p/be9fb64bd4e290c9e2817d3e1a912e5c) 
 - [2020-04-22-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b43eaa20a21f749138df40d86790e60e) 
 - [2020-04-18-当互联网码农遇见国企老同学](https://www.ershicimi.com/p/d03ba82ff5ad309f02a6c0b063145e4f) 
+- [2020-05-28-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7) 
 - [2020-05-26-瓶子君邀你进群学习啦](https://www.ershicimi.com/p/10b7a1ece24abc0e29686cff48c4e829) 
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82) 
 - [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-28 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -737,6 +737,8 @@
 - [【前端开发】2020-05-07-当浏览器全面禁用三方-Cookie](https://www.ershicimi.com/p/0fb42be83785241463d269b25c6eeff0) 
 - [【前端开发】2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e6965b23fb85194383ef42c27d5ba7e6) 
 - [【前端开发】2020-05-06-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f336468678022d093b027ed5971ed29a) 
+- [【前端大学】2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21) 
+- [【前端大学】2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11) 
 - [【前端大学】2020-05-27-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5) 
 - [【前端大学】2020-05-27-Wireshark抓包使用指南](https://www.ershicimi.com/p/7910a7c2f559c9e17e40c543a609a445) 
 - [【前端大学】2020-05-26-几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d) 
@@ -897,6 +899,8 @@
 - [【政采云前端团队】2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [【政采云前端团队】2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) 
 - [【政采云前端团队】2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [【前端宇宙】2020-05-28-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4) 
+- [【前端宇宙】2020-05-28-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/7c05ee49a0978993cd705d2303524f9c) 
 - [【前端宇宙】2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e) 
 - [【前端宇宙】2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6) 
 - [【前端宇宙】2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0) 
@@ -1230,6 +1234,7 @@
 - [【InfoQ】2020-05-02-Zoom-最大的竞争对手来了](https://www.ershicimi.com/p/034a9707d76c069d1dbc3a681508b7eb) 
 - [【InfoQ】2020-05-01-大疆-2020-难飞](https://www.ershicimi.com/p/a190fde60a845d6354781af3213acd4a) 
 - [【InfoQ】2020-05-01-五一劳动节，这份勋章颁给谁？](https://www.ershicimi.com/p/26f93e9b48b16f76a85759cba2a6c973) 
+- [【JavaScript】2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [【JavaScript】2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e) 
 - [【JavaScript】2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
 - [【JavaScript】2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 

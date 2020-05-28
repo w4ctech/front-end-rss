@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -684,6 +684,7 @@
 - [2020-04-19-这个专业的学生还未出校门，年薪就从30万到80万！](https://www.ershicimi.com/p/46519b45b89d88687ef17fb05adeb10a) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21) 
 - [2020-05-27-Wireshark抓包使用指南](https://www.ershicimi.com/p/7910a7c2f559c9e17e40c543a609a445) 
 - [2020-05-25-阿里巴巴员工都在听的英语课，我帮你免费弄来了！](https://www.ershicimi.com/p/00a435acc03e1921c2616dd7c6b6e455) 
 - [2020-05-23-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/f5056ef6d187b0cc90942163a546e8ea) 
@@ -800,6 +801,7 @@
 - [2020-03-08-关于-vertical-align-你应该知道的一切](https://www.ershicimi.com/p/84253c80d211b42d653806a6ff8250b9) 
 - [2020-04-29-不搞虚的，这个五一节，我们免费发书](https://www.ershicimi.com/p/ed4671891e5b0d931eacbb927e8f0c7a) 
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
+- [2020-05-28-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/7c05ee49a0978993cd705d2303524f9c) 
 - [2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0) 
 - [2020-05-25-了不起的-Deno-入门教程](https://www.ershicimi.com/p/4e5cd4060aa961deeb58f17bc3d994c1) 
 - [2020-05-22-程序猿惯用口头禅，你被击中了吗？](https://www.ershicimi.com/p/20eb8967a59f5bb3470b5920e99ac5f4) 
@@ -1159,6 +1161,7 @@
 - [2020-04-22-对话七牛云CEO许式伟：在极客与商业的夹缝中蜕变](https://www.ershicimi.com/p/d1a90386395d3ad5de52653c5ca78a05) 
 - [2020-04-21-特殊时期下的特殊大会，微软向全球开发者与企业传递了什么？](https://www.ershicimi.com/p/0864f8e2116aa6543a3e461bb105c039) 
 - [2020-04-21-最全的DevOps工具集合，再也不怕选型了！](https://www.ershicimi.com/p/e52237aea69f75a1c29ba33c70014074) 
+- [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
 - [2020-05-12-前端圈为啥贫富分化越来越严重？](https://www.ershicimi.com/p/ae1b4e5c8b6a83c2e118ee9b751f837b) 

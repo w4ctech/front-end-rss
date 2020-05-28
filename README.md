@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 21:00:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 22:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-28-中国政府赴阿尔及利亚抗疫医疗专家组结束在阿行程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSvsRoeW8RsIRYyVtlqC200528&isfromapp=1) ![](assets/new.png)  
 - [2020-05-28-世界卫生组织欧洲办事处：没有人是安全的-直到每个人都安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikqExRxYsFjEQnynQCknG200528&isfromapp=1)  
 - [2020-05-28-孟加拉国新冠肺炎定点医院发生火灾-已致5人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXa46jBVa9cTk37u5yuSt200528&isfromapp=1)  
 - [2020-05-28-印尼新增687例新冠肺炎确诊病例-累计24538例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKjTUpvl1rh1na8RUXmEs200528&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1)  
 - [2020-05-27-英国新增2013例新冠肺炎确诊病例-累计达267240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1)  
 - [2020-05-27-芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1)  
-- [2020-05-27-俄罗斯多地部队恢复胜利日阅兵彩排](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -414,6 +414,11 @@
 </summary>
 
 
+- [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](https://www.ershicimi.com/p/73af0f0ccd56559288e320c697d43ba0) ![](assets/new.png)  
+- [2020-05-28-每个程序员都曾犯过的10大经典错误](https://www.ershicimi.com/p/6bfeb784f67f85a586ee6430ad85bac7) ![](assets/new.png)  
+- [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831) ![](assets/new.png)  
+- [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) ![](assets/new.png)  
+- [2020-05-27-移动端风头正旺，但我选择开发-PC-端小程序](https://www.ershicimi.com/p/23165ab3e116591bf793395719891d9b) ![](assets/new.png)  
 - [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)  
 - [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e)  
@@ -429,11 +434,6 @@
 - [2020-05-20-基于-Web-技术栈的动态化跨平台漫谈](https://www.ershicimi.com/p/b121e200133bfcbe173cab61148bcf4d)  
 - [2020-05-20-如何从零开始搭建前端监控平台？](https://www.ershicimi.com/p/81430b5fca2564884272b2cacba9f886)  
 - [2020-05-19-不要再依赖CommonJS了](https://www.ershicimi.com/p/49e9de534b557ecea35f69b90cb35368)  
-- [2020-05-19-百度智能小程序的秒开之路-|-GMTC](https://www.ershicimi.com/p/b4b0bca8398a24f51c5180aa59aef6f1)  
-- [2020-05-18-我们用React重构了Facebook.com的技术栈](https://www.ershicimi.com/p/71b14f177b4383ba0f78779f6f5f9a56)  
-- [2020-05-18-AngularJS迁移之战](https://www.ershicimi.com/p/4051e162d014632025567d60a43773ba)  
-- [2020-05-17-前端周报：Deno-1.0-正式发布；特斯拉APP大面积宕机，众多车主被困；Twitter-将永久性](https://www.ershicimi.com/p/d4972cb98a2e820389c846efafa0bc5b)  
-- [2020-05-15-作为字节跳动第六名前端，谈谈公司扁平化架构育人的道与术](https://www.ershicimi.com/p/d5116d3adea2f3b598b7156443450556)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,18 +1069,18 @@
 </summary>
 
 
-- [2020-05-28-给个人主页加了一个样式，简直不要太好看了](https://www.v2ex.com/t/676442) ![](assets/new.png)  
-- [2020-05-28-V-友们！求问个和公司注册地址相关的事情](https://www.v2ex.com/t/676441) ![](assets/new.png)  
-- [2020-05-28-发现一个诈骗网站](https://www.v2ex.com/t/676440) ![](assets/new.png)  
-- [2020-05-28-低价位电视盒子有什么推荐的吗？](https://www.v2ex.com/t/676439) ![](assets/new.png)  
-- [2020-05-28-人工智能超算中心招聘-Python-工程师](https://www.v2ex.com/t/676437) ![](assets/new.png)  
-- [2020-05-28-支付宝-靠谱团队-组内直招-获得蚂蚁年度大奖次数最多的靠谱团队,真诚招聘](https://www.v2ex.com/t/676436) ![](assets/new.png)  
-- [2020-05-28-健身房销售真的很恐怖吗？](https://www.v2ex.com/t/676435) ![](assets/new.png)  
-- [2020-05-28-一加-7，最近总收到垃圾彩信，自带的拦截无效，求解！](https://www.v2ex.com/t/676434) ![](assets/new.png)  
-- [2020-05-28-淘系技术部招聘，-淘宝特价版-业务，求-Java-/iOS/Android/前端/测试（P6/P7/P8），高福利！](https://www.v2ex.com/t/676433) ![](assets/new.png)  
-- [2020-05-28-有朋友要找工作吗,-需要一个-c-或者-go-方面的人才,-熟悉-Linux-API,-开发-Linux-底层软件-,-公司产品为-nas-网络存储.](https://www.v2ex.com/t/676432) ![](assets/new.png)  
-- [2020-05-28-微软-edge-内置的「冲浪」游戏还挺有意思的。类似-chrome-的恐龙游戏。](https://www.v2ex.com/t/676431) ![](assets/new.png)  
-- [2020-05-28-花生壳原理及一点点内网穿透的启发](https://www.v2ex.com/t/676430) ![](assets/new.png)  
+- [2020-05-28-给个人主页加了一个样式，简直不要太好看了](https://www.v2ex.com/t/676442)  
+- [2020-05-28-V-友们！求问个和公司注册地址相关的事情](https://www.v2ex.com/t/676441)  
+- [2020-05-28-发现一个诈骗网站](https://www.v2ex.com/t/676440)  
+- [2020-05-28-低价位电视盒子有什么推荐的吗？](https://www.v2ex.com/t/676439)  
+- [2020-05-28-人工智能超算中心招聘-Python-工程师](https://www.v2ex.com/t/676437)  
+- [2020-05-28-支付宝-靠谱团队-组内直招-获得蚂蚁年度大奖次数最多的靠谱团队,真诚招聘](https://www.v2ex.com/t/676436)  
+- [2020-05-28-健身房销售真的很恐怖吗？](https://www.v2ex.com/t/676435)  
+- [2020-05-28-一加-7，最近总收到垃圾彩信，自带的拦截无效，求解！](https://www.v2ex.com/t/676434)  
+- [2020-05-28-淘系技术部招聘，-淘宝特价版-业务，求-Java-/iOS/Android/前端/测试（P6/P7/P8），高福利！](https://www.v2ex.com/t/676433)  
+- [2020-05-28-有朋友要找工作吗,-需要一个-c-或者-go-方面的人才,-熟悉-Linux-API,-开发-Linux-底层软件-,-公司产品为-nas-网络存储.](https://www.v2ex.com/t/676432)  
+- [2020-05-28-微软-edge-内置的「冲浪」游戏还挺有意思的。类似-chrome-的恐龙游戏。](https://www.v2ex.com/t/676431)  
+- [2020-05-28-花生壳原理及一点点内网穿透的启发](https://www.v2ex.com/t/676430)  
 - [2020-05-28-谈谈咖啡](https://www.v2ex.com/t/676429)  
 - [2020-05-28-Github-Timeline-怎么看到自己的操作](https://www.v2ex.com/t/676428)  
 - [2020-05-28-用微博知乎等的榜单接口写个热搜聚合小程序，能审核通过吗](https://www.v2ex.com/t/676426)  

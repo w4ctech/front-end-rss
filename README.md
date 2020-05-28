@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 08:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1) ![](assets/new.png)  
-- [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1) ![](assets/new.png)  
-- [2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1) ![](assets/new.png)  
-- [2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-根据丁香园数据，美国新冠死亡人数超-10-万]() ![](assets/new.png)  
+- [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1)  
+- [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1)  
+- [2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1)  
+- [2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1)  
 - [2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1)  
 - [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1)  
 - [2020-05-27-英国新增2013例新冠肺炎确诊病例-累计达267240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
 - [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1)  
-- [2020-05-27-俄罗斯新增新冠肺炎确诊病例8338例-累计370680例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv7oqKCMJ18eQqdxFejBw200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,15 +1069,15 @@
 </summary>
 
 
-- [2020-05-28-PS4-国行版，-2020.5.27-更新系统以后，正式终结后门](https://www.v2ex.com/t/676181) ![](assets/new.png)  
-- [2020-05-28-Spotlight-无法搜索-numbers-里的内容](https://www.v2ex.com/t/676180) ![](assets/new.png)  
-- [2020-05-28-如何将程序坞将固定在两个显示器接壤处？](https://www.v2ex.com/t/676179) ![](assets/new.png)  
-- [2020-05-28-杭州-马云公益基金会---招聘技术支持工程师](https://www.v2ex.com/t/676178) ![](assets/new.png)  
-- [2020-05-28-SpringCloud-&-vue.js-开发的（小说-App）微服务实战项目](https://www.v2ex.com/t/676177) ![](assets/new.png)  
-- [2020-05-28-作为行人你有闯过红灯或横穿过马路没走斑马线吗？](https://www.v2ex.com/t/676176) ![](assets/new.png)  
-- [2020-05-28-秘迹搜索打不开了，密码管理器也闪退](https://www.v2ex.com/t/676175) ![](assets/new.png)  
-- [2020-05-28-Stack-Overflow-2020-开发者调查发布](https://www.v2ex.com/t/676174) ![](assets/new.png)  
-- [2020-05-28-使用不同字体区分变量名和表达式](https://www.v2ex.com/t/676173) ![](assets/new.png)  
+- [2020-05-28-PS4-国行版，-2020.5.27-更新系统以后，正式终结后门](https://www.v2ex.com/t/676181)  
+- [2020-05-28-Spotlight-无法搜索-numbers-里的内容](https://www.v2ex.com/t/676180)  
+- [2020-05-28-如何将程序坞将固定在两个显示器接壤处？](https://www.v2ex.com/t/676179)  
+- [2020-05-28-杭州-马云公益基金会---招聘技术支持工程师](https://www.v2ex.com/t/676178)  
+- [2020-05-28-SpringCloud-&-vue.js-开发的（小说-App）微服务实战项目](https://www.v2ex.com/t/676177)  
+- [2020-05-28-作为行人你有闯过红灯或横穿过马路没走斑马线吗？](https://www.v2ex.com/t/676176)  
+- [2020-05-28-秘迹搜索打不开了，密码管理器也闪退](https://www.v2ex.com/t/676175)  
+- [2020-05-28-Stack-Overflow-2020-开发者调查发布](https://www.v2ex.com/t/676174)  
+- [2020-05-28-使用不同字体区分变量名和表达式](https://www.v2ex.com/t/676173)  
 - [2020-05-28-Cloudflare-官方测速](https://www.v2ex.com/t/676172)  
 - [2020-05-28-工作中科班出身和转专业的人的表现是否有差距？](https://www.v2ex.com/t/676171)  
 - [2020-05-28-macOS-QQ-“防止睡眠”怎么改成“否”？](https://www.v2ex.com/t/676170)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -63,6 +63,7 @@
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-29-字节跳动-全岗位日常实习招聘，有转正机会无笔试，快上车！](https://www.v2ex.com/t/676505) 
 - [2020-05-28-人工智能超算中心招聘-Python-工程师](https://www.v2ex.com/t/676437) 
 - [2020-05-28-支付宝-靠谱团队-组内直招-获得蚂蚁年度大奖次数最多的靠谱团队,真诚招聘](https://www.v2ex.com/t/676436) 
 - [2020-05-28-淘系技术部招聘，-淘宝特价版-业务，求-Java-/iOS/Android/前端/测试（P6/P7/P8），高福利！](https://www.v2ex.com/t/676433) 

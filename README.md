@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 11:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 12:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,13 +26,13 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1) ![](assets/new.png)  
 - [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1)  
 - [2020-05-28-根据丁香园数据，美国新冠死亡人数超-10-万]()  
 - [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-27-受疫情影响-泰国“亚洲最大跳蚤市场”宣告破产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPygmeVzd4vUpbTZjuJsY200527&isfromapp=1)  
 - [2020-05-27-受到新冠肺炎疫情影响-泰国首都曼谷房地产销售下滑两层多-商品房空置率近五年最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilh6zvLXmMY9kLC5sKM0e200527&isfromapp=1)  
 - [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1)  
-- [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
-- [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -362,8 +362,8 @@
 </summary>
 
 
-- [2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21) ![](assets/new.png)  
-- [2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11) ![](assets/new.png)  
+- [2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21)  
+- [2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11)  
 - [2020-05-27-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5)  
 - [2020-05-27-Wireshark抓包使用指南](https://www.ershicimi.com/p/7910a7c2f559c9e17e40c543a609a445)  
 - [2020-05-26-几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d)  
@@ -533,8 +533,8 @@
 </summary>
 
 
-- [2020-05-28-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4) ![](assets/new.png)  
-- [2020-05-28-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/7c05ee49a0978993cd705d2303524f9c) ![](assets/new.png)  
+- [2020-05-28-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4)  
+- [2020-05-28-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/7c05ee49a0978993cd705d2303524f9c)  
 - [2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e)  
 - [2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6)  
 - [2020-05-25-面了-4-家挂了-4-家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/d51e6d77f0fc412663fb3b2fb779aac0)  
@@ -893,7 +893,7 @@
 </summary>
 
 
-- [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) ![](assets/new.png)  
+- [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec)  
 - [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)  
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5)  
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231)  

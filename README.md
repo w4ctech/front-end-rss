@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 09:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 10:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1) ![](assets/new.png)  
 - [2020-05-28-根据丁香园数据，美国新冠死亡人数超-10-万]()  
 - [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1)  
 - [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1)  
 - [2020-05-27-美国新冠肺炎死亡人数逼近10万-残酷现实冲击民众](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1)  
 - [2020-05-27-伊朗新增新冠肺炎确诊病例2080例-累计141591例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1)  
-- [2020-05-27-印尼新增686例新冠肺炎确诊病例-累计23851例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij9gvLNzODTMXra0Jj6e9200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,10 +146,10 @@
 </summary>
 
 
-- [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7) ![](assets/new.png)  
-- [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe) ![](assets/new.png)  
-- [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443) ![](assets/new.png)  
-- [2020-05-27-程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b) ![](assets/new.png)  
+- [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)  
+- [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe)  
+- [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443)  
+- [2020-05-27-程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b)  
 - [2020-05-26-收藏吧-|-前端常用60余种工具方法](https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c)  
 - [2020-05-26-推荐几位朋友圈出镜率极高的大佬](https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461)  
 - [2020-05-25-上万课程免费学？这波羊毛不薅太亏了！](https://www.ershicimi.com/p/7d08ce53a5dcd7a8482cbddf0160b48f)  

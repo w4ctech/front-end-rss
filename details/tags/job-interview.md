@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 19:30:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -63,6 +63,7 @@
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
 - [2020-04-28-无情面试官：你会手写源码吗？](https://www.ershicimi.com/p/bca5dcee4e46c25d2723b73159b3239b) 
 - [2020-04-22-搞定面试官之如何拿到自己满意的薪资](https://www.ershicimi.com/p/ec0ad61be8e7ad19726c72f66f417d77) 
+- [2020-05-28-广州-头条-招聘产品负责人、产品总监啦](https://www.v2ex.com/t/676401) 
 - [2020-05-28-腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳-/武汉](https://www.v2ex.com/t/676321) 
 - [2020-05-28-这几天是有-HR-的-KPI-考核么？招聘电话疯狂打，也不看看合适不合适？](https://www.v2ex.com/t/676312) 
 - [2020-05-28-为了规避面试难度转向测试是否可行？](https://www.v2ex.com/t/676290) 

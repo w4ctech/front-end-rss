@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 19:30:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -163,6 +163,7 @@
 - [2020-04-24-使用-JavaScript-重新加载页面的-535-种方法](https://javascriptweekly.com/link/63639/web) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-19-知乎高赞：你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/76f616fb0974ea7851108892efc82aa9) 
+- [2020-05-28-股份制银行互联网理财场景中-TiDB-的选型和应用适配实战](https://www.v2ex.com/t/676395) 
 - [2020-05-28-1000+-LeetCode-JS-版本](https://www.v2ex.com/t/676326) 
 - [2020-05-28-使用-SpreadJS-开发在线问卷系统，构筑-CCP（云数据采集）平台](https://www.v2ex.com/t/676305) 
 - [2020-05-28-我给自己-GitHub-库内-省市区-坐标和边界范围-数据写了一个转换成-shp、geojson、sql-小工具](https://www.v2ex.com/t/676283) 

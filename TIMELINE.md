@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-28 13:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-印度新增新冠肺炎确诊病例6566例-累计158333例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1) 

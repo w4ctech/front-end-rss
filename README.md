@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 12:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 13:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1) ![](assets/new.png)  
-- [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-印度新增新冠肺炎确诊病例6566例-累计158333例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1)  
+- [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1)  
 - [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1)  
 - [2020-05-28-根据丁香园数据，美国新冠死亡人数超-10-万]()  
 - [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-27-​数据显示美国每日死亡人数比往年增加10%以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0mMcQoIrbTgRYjDDyNDB200527&isfromapp=1)  
 - [2020-05-27-受疫情影响-泰国“亚洲最大跳蚤市场”宣告破产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPygmeVzd4vUpbTZjuJsY200527&isfromapp=1)  
 - [2020-05-27-受到新冠肺炎疫情影响-泰国首都曼谷房地产销售下滑两层多-商品房空置率近五年最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilh6zvLXmMY9kLC5sKM0e200527&isfromapp=1)  
-- [2020-05-27-​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

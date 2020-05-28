@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 18:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-05-28-孟加拉国新冠肺炎定点医院发生火灾-已致5人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXa46jBVa9cTk37u5yuSt200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-印尼新增687例新冠肺炎确诊病例-累计24538例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKjTUpvl1rh1na8RUXmEs200528&isfromapp=1) ![](assets/new.png)  
 - [2020-05-28-英国载客量最大航空公司计划削减近三分之一工作岗位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidF6MFq5ZR9RyGvw6DqyQ200528&isfromapp=1)  
 - [2020-05-28-中国抗疫专家组与赤道几内亚卫生部门进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwcncvEDTGtyJdTsYXW4200528&isfromapp=1)  
 - [2020-05-28-拉美新冠肺炎确诊病例超84万例-多国延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRIjuwIIWCsYD6BfpiGaf200528&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-27-芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1)  
 - [2020-05-27-俄罗斯多地部队恢复胜利日阅兵彩排](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1)  
 - [2020-05-27-疫情形势趋缓-泰国清迈周日夜市重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSb8KoArJOGKIzbFVtdpm200527&isfromapp=1)  
-- [2020-05-27-世卫组织：全球新冠肺炎确诊病例超548万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifbizluej2cQZ3FrheQR2200527&isfromapp=1)  
-- [2020-05-27-波兰政府公布第四阶段“解封”计划-5月30日起室外公共场所取消“口罩令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuRKj0LH4iDHNg0BgwdKY200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -831,9 +831,9 @@
 </summary>
 
 
-- [2020-05-28-华为搜索引擎面世，百度搜索有点危险了！](https://www.ershicimi.com/p/e306b0e1892dededcbd037ae79097c09) ![](assets/new.png)  
-- [2020-05-28-Java-处理-Exception-的-9-个最佳实践！](https://www.ershicimi.com/p/bbbddb8f25887070dacd3b1d792abab7) ![](assets/new.png)  
-- [2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61) ![](assets/new.png)  
+- [2020-05-28-华为搜索引擎面世，百度搜索有点危险了！](https://www.ershicimi.com/p/e306b0e1892dededcbd037ae79097c09)  
+- [2020-05-28-Java-处理-Exception-的-9-个最佳实践！](https://www.ershicimi.com/p/bbbddb8f25887070dacd3b1d792abab7)  
+- [2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61)  
 - [2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243)  
 - [2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b)  
 - [2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95)  

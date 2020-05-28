@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-28 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,6 +122,7 @@
 - [【Nodejs技术栈】TypeScript-面向对象程序设计（OOP）](https://www.ershicimi.com/p/2ea4c067b144aabd58d8411d0d077569)
 - [【JavaScript】TypeScript为什么这么吃香？真的值得吗？](https://www.ershicimi.com/p/42e24c29e93e27f12459d19a4d2cd281)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】关于-typescript-里的泛型（Generics），不太理解为什么要这么繁琐？](https://www.v2ex.com/t/676318)
 - [【V2EX】esbuild,-一个用-GO-语言写的-Javascript-和-Typescript-打包，压缩工具，比-Webpack-快接近-100-倍](https://www.v2ex.com/t/674110)
 - [【V2EX】用-Typescript-写的一个类-V2EX-开源社区-Nobibi](https://www.v2ex.com/t/673178)
 - [【V2EX】vscode-里-typescript-具体的类型定义怎么显示](https://www.v2ex.com/t/672892)
@@ -130,7 +131,6 @@
 - [【V2EX】为什么我的.js-文件，会报错提示-TypeScript-1005-的问题？](https://www.v2ex.com/t/668458)
 - [【V2EX】typescript-的-tsconfig.json-不起作用?](https://www.v2ex.com/t/666178)
 - [【开发者头条】深入理解-Typescript-高级用法](https://toutiao.io/k/9oda2lk)
-- [【开发者头条】花椒前端-TypeScript-实践总结](https://toutiao.io/k/jq844wf)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

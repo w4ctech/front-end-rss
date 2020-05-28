@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 14:00:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 14:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,12 +29,12 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
-- [全栈前端精选](#全栈前端精选)  
+- [前端迷](#前端迷)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -445,8 +445,8 @@
 </summary>
 
 
-- [2020-05-28-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/7038f270a029dea59c7fd5e7bfbe7aeb) ![](assets/new.png)  
-- [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) ![](assets/new.png)  
+- [2020-05-28-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/7038f270a029dea59c7fd5e7bfbe7aeb)  
+- [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63)  
 - [2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3)  
 - [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113)  
 - [2020-05-25-面了5家挂了5家，我太难了！前端工程师还能找到工作吗？](https://www.ershicimi.com/p/04e51d49767fe94256de7478af75e85d)  
@@ -476,6 +476,7 @@
 </summary>
 
 
+- [2020-05-28-TS-常见问题、难点整理（60多个）](https://www.ershicimi.com/p/9eead0a7eac70f5978e6b88b5817e6cf) ![](assets/new.png)  
 - [2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9)  
 - [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)  
 - [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720)  
@@ -495,7 +496,6 @@
 - [2020-05-15-译-为新的Facebook.com重建我们的技术栈](https://www.ershicimi.com/p/3ea6d0b39e4d728a3fa8ee4737abdea6)  
 - [2020-05-14-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/efd26fcddace08598ae3410c69bd761e)  
 - [2020-05-14-TypeScript-3.9正式发布！平均编译时长从26秒缩短至10秒](https://www.ershicimi.com/p/63826a1b209f62fb1660867cb4caa12c)  
-- [2020-05-13-2020-校招，我是如何拿到小米、京东、字节大厂前端offer](https://www.ershicimi.com/p/26e9bbdd4342d0a6a6a41c07691876a7)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -595,8 +595,8 @@
 </summary>
 
 
-- [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b) ![](assets/new.png)  
-- [2020-05-28-撸羊毛！满400减230的购书活动不要错过哦！](https://www.ershicimi.com/p/137e2df24dc8e32161ec6cbb58908e25) ![](assets/new.png)  
+- [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b)  
+- [2020-05-28-撸羊毛！满400减230的购书活动不要错过哦！](https://www.ershicimi.com/p/137e2df24dc8e32161ec6cbb58908e25)  
 - [2020-05-27-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/ee7f43e7530131dc8eb0d9a821d71446)  
 - [2020-05-27-推荐几个出镜率超高的大佬公众号](https://www.ershicimi.com/p/7b5d9ffb64ebacf0ada6021acbb643ab)  
 - [2020-05-26-我和大佬之间差一个JS工具函数大全..建议收藏](https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb)  
@@ -1069,26 +1069,26 @@
 </summary>
 
 
-- [2020-05-28-免单羊毛群，都是些免单的小东西，需要的进群](https://www.v2ex.com/t/676293) ![](assets/new.png)  
-- [2020-05-28-ThinkPHP-应用服务市场上线~欢迎来撩](https://www.v2ex.com/t/676291) ![](assets/new.png)  
-- [2020-05-28-为了规避面试难度转向测试是否可行？](https://www.v2ex.com/t/676290) ![](assets/new.png)  
-- [2020-05-28-深圳乐信-NASDAQ-上市公司-招-前端](https://www.v2ex.com/t/676289) ![](assets/new.png)  
-- [2020-05-28-杭州，一个不到-20-人的小公司，先实习-3500，不交公积金，该不该去](https://www.v2ex.com/t/676288) ![](assets/new.png)  
-- [2020-05-28-天啊-被苹果的售后震撼到了](https://www.v2ex.com/t/676287) ![](assets/new.png)  
-- [2020-05-28-最科学的方式获取-AWS-连接最快的区域](https://www.v2ex.com/t/676286) ![](assets/new.png)  
-- [2020-05-28-杭州-社招-蚂蚁金服前端招聘，人海茫茫，但求有缘！](https://www.v2ex.com/t/676285) ![](assets/new.png)  
-- [2020-05-28-精力不足如何破解？](https://www.v2ex.com/t/676284) ![](assets/new.png)  
-- [2020-05-28-我给自己-GitHub-库内-省市区-坐标和边界范围-数据写了一个转换成-shp、geojson、sql-小工具](https://www.v2ex.com/t/676283) ![](assets/new.png)  
-- [2020-05-28-好未来-直属重点产品线-yach-团队-前端/安卓](https://www.v2ex.com/t/676282) ![](assets/new.png)  
-- [2020-05-28-免单羊毛群](https://www.v2ex.com/t/676281) ![](assets/new.png)  
-- [2020-05-28-上海九号线群组](https://www.v2ex.com/t/676280) ![](assets/new.png)  
-- [2020-05-28-宁波房贷要加-60-个基点](https://www.v2ex.com/t/676278) ![](assets/new.png)  
-- [2020-05-28-升级了-10.15.5，电池里面没有-电池健康按钮……](https://www.v2ex.com/t/676277) ![](assets/new.png)  
-- [2020-05-28-免单-0-元福利群](https://www.v2ex.com/t/676276) ![](assets/new.png)  
-- [2020-05-28-蒸烤一体机好用吗](https://www.v2ex.com/t/676275) ![](assets/new.png)  
-- [2020-05-28-哪些数据库适合这种场景？-clickhouse？-Doris-?](https://www.v2ex.com/t/676274) ![](assets/new.png)  
-- [2020-05-28-打算扔掉小米净水器，换-DIY，请问哪家的最好？](https://www.v2ex.com/t/676273) ![](assets/new.png)  
-- [2020-05-28-Macbookpro-提示修理电池，不管他会怎么样？](https://www.v2ex.com/t/676270) ![](assets/new.png)  
+- [2020-05-28-免单羊毛群，都是些免单的小东西，需要的进群](https://www.v2ex.com/t/676293)  
+- [2020-05-28-ThinkPHP-应用服务市场上线~欢迎来撩](https://www.v2ex.com/t/676291)  
+- [2020-05-28-为了规避面试难度转向测试是否可行？](https://www.v2ex.com/t/676290)  
+- [2020-05-28-深圳乐信-NASDAQ-上市公司-招-前端](https://www.v2ex.com/t/676289)  
+- [2020-05-28-杭州，一个不到-20-人的小公司，先实习-3500，不交公积金，该不该去](https://www.v2ex.com/t/676288)  
+- [2020-05-28-天啊-被苹果的售后震撼到了](https://www.v2ex.com/t/676287)  
+- [2020-05-28-最科学的方式获取-AWS-连接最快的区域](https://www.v2ex.com/t/676286)  
+- [2020-05-28-杭州-社招-蚂蚁金服前端招聘，人海茫茫，但求有缘！](https://www.v2ex.com/t/676285)  
+- [2020-05-28-精力不足如何破解？](https://www.v2ex.com/t/676284)  
+- [2020-05-28-我给自己-GitHub-库内-省市区-坐标和边界范围-数据写了一个转换成-shp、geojson、sql-小工具](https://www.v2ex.com/t/676283)  
+- [2020-05-28-好未来-直属重点产品线-yach-团队-前端/安卓](https://www.v2ex.com/t/676282)  
+- [2020-05-28-免单羊毛群](https://www.v2ex.com/t/676281)  
+- [2020-05-28-上海九号线群组](https://www.v2ex.com/t/676280)  
+- [2020-05-28-宁波房贷要加-60-个基点](https://www.v2ex.com/t/676278)  
+- [2020-05-28-升级了-10.15.5，电池里面没有-电池健康按钮……](https://www.v2ex.com/t/676277)  
+- [2020-05-28-免单-0-元福利群](https://www.v2ex.com/t/676276)  
+- [2020-05-28-蒸烤一体机好用吗](https://www.v2ex.com/t/676275)  
+- [2020-05-28-哪些数据库适合这种场景？-clickhouse？-Doris-?](https://www.v2ex.com/t/676274)  
+- [2020-05-28-打算扔掉小米净水器，换-DIY，请问哪家的最好？](https://www.v2ex.com/t/676273)  
+- [2020-05-28-Macbookpro-提示修理电池，不管他会怎么样？](https://www.v2ex.com/t/676270)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,6 +1131,11 @@
 </summary>
 
 
+- [2020-05-28-MySQL-三万字精华总结-+-面试-100-问，吊打面试官绰绰有余](https://toutiao.io/k/eakc3v8) ![](assets/new.png)  
+- [2020-05-28-稳定性五件套：限流的原理和实现](https://toutiao.io/k/w6hr684) ![](assets/new.png)  
+- [2020-05-28-LeetCode-141：环形链表](https://toutiao.io/k/fjgu01s) ![](assets/new.png)  
+- [2020-05-28-Serverless-SSR-技术在「腾讯在线教育」的实践](https://toutiao.io/k/bcs5358) ![](assets/new.png)  
+- [2020-05-28-Swift-和-Kotlin-获取代码执行行数和文件名](https://toutiao.io/k/8suvq4a) ![](assets/new.png)  
 - [2020-05-28-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s)  
 - [2020-05-28-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u)  
 - [2020-05-28-程序员，你的业余时间是怎么被浪费掉的？|-码农周刊第-307-期](https://toutiao.io/k/8wuxk7s)  
@@ -1146,11 +1151,6 @@
 - [2020-05-28-基于-Vue-SSR-的微架构在-FOLLOWME-5.0-实践](https://toutiao.io/k/zi0g1da)  
 - [2020-05-28-Fish-Lottie：纯-Dart-如何实现一个高性能动画框架？](https://toutiao.io/k/n3t8g3s)  
 - [2020-05-28-女性求职者如何回答面试官的敏感问题？（面试答题篇-Ⅳ）](https://toutiao.io/k/lexgdm6)  
-- [2020-05-28-如何在-ClickHouse-中避免深度分页问题](https://toutiao.io/k/lxq7l0j)  
-- [2020-05-28-作为一个-32-岁工程师，我已不再焦虑。你呢？](https://toutiao.io/k/8121gvd)  
-- [2020-05-28-MySQL-的-crash-safe-原理解析](https://toutiao.io/k/9k9tyty)  
-- [2020-05-28-持久化：DDD-务实篇（一）](https://toutiao.io/k/ib8v8oa)  
-- [2020-05-28-HBase-原理：HBase-Compaction-介绍与参数调优](https://toutiao.io/k/vmh0ef6)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

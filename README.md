@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 23:00:13，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-28 23:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1) ![](assets/new.png)  
-- [2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1)  
+- [2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1)  
 - [2020-05-28-中国政府赴阿尔及利亚抗疫医疗专家组结束在阿行程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSvsRoeW8RsIRYyVtlqC200528&isfromapp=1)  
 - [2020-05-28-世界卫生组织欧洲办事处：没有人是安全的-直到每个人都安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikqExRxYsFjEQnynQCknG200528&isfromapp=1)  
 - [2020-05-28-孟加拉国新冠肺炎定点医院发生火灾-已致5人死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXa46jBVa9cTk37u5yuSt200528&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1)  
 - [2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1)  
 - [2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1)  
-- [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,26 +1069,26 @@
 </summary>
 
 
-- [2020-05-28-北京-脉脉-内推-不-996，成功入职有大奖拿](https://www.v2ex.com/t/676482) ![](assets/new.png)  
-- [2020-05-28-我的工作经历及我为什么选择创业（上）](https://www.v2ex.com/t/676481) ![](assets/new.png)  
-- [2020-05-28-秒控键盘-2-适合码代码吗？](https://www.v2ex.com/t/676480) ![](assets/new.png)  
-- [2020-05-28-请问，-SQLAlchemy-无外键约束的多对多关系模型该怎么写啊？](https://www.v2ex.com/t/676479) ![](assets/new.png)  
-- [2020-05-28-MBP-16inch-15.5.4-睡眠/合盖发热-有什么解决方案么](https://www.v2ex.com/t/676478) ![](assets/new.png)  
-- [2020-05-28-请教-Java-Runtime.exec"sh--x-xx.sh"无效的问题](https://www.v2ex.com/t/676477) ![](assets/new.png)  
-- [2020-05-28-「独立作品」InfoHub-简洁轻巧的科技、社区、娱乐、财经等综合资讯中心](https://www.v2ex.com/t/676476) ![](assets/new.png)  
-- [2020-05-28-HTML-页面加入点击的一个特效，页面的按钮就不可点击了，求助！](https://www.v2ex.com/t/676475) ![](assets/new.png)  
-- [2020-05-28-想离职，求给点勇气。](https://www.v2ex.com/t/676474) ![](assets/new.png)  
-- [2020-05-28-关于知乎优化团队](https://www.v2ex.com/t/676473) ![](assets/new.png)  
-- [2020-05-28-自学编程-9-年，想学算法，有可以推荐的书吗？](https://www.v2ex.com/t/676472) ![](assets/new.png)  
-- [2020-05-28-618-搞这套配置是否-49-年入国军?](https://www.v2ex.com/t/676471) ![](assets/new.png)  
-- [2020-05-28-继数据收集问题后，再次有与-WinGet-相关的激烈讨论登上-Hacker-News-首页](https://www.v2ex.com/t/676468) ![](assets/new.png)  
-- [2020-05-28-服务器上行带宽对应的是上传还是下载？](https://www.v2ex.com/t/676467) ![](assets/new.png)  
-- [2020-05-28-请给有一点-IT-基础的人（非程序员）解释一下为什么-google-play-service-的存在与否能影响到-app-的消息收...](https://www.v2ex.com/t/676466) ![](assets/new.png)  
-- [2020-05-28-腾讯云的轻量应用服务器-Lighthouse-多少人申请了内测？](https://www.v2ex.com/t/676464) ![](assets/new.png)  
-- [2020-05-28-小白想趁着-618-组个黑苹果,请各位前辈指点一下,我的配置如下](https://www.v2ex.com/t/676463) ![](assets/new.png)  
-- [2020-05-28-管理-chrome-的收藏夹（书签）有什么妙招或好插件或好思路么?](https://www.v2ex.com/t/676462) ![](assets/new.png)  
-- [2020-05-28-韩国的线路是出问题了吗，今天？](https://www.v2ex.com/t/676461) ![](assets/new.png)  
-- [2020-05-28-做些个人项目放到简历里帮助大吗？](https://www.v2ex.com/t/676460) ![](assets/new.png)  
+- [2020-05-28-北京-脉脉-内推-不-996，成功入职有大奖拿](https://www.v2ex.com/t/676482)  
+- [2020-05-28-我的工作经历及我为什么选择创业（上）](https://www.v2ex.com/t/676481)  
+- [2020-05-28-秒控键盘-2-适合码代码吗？](https://www.v2ex.com/t/676480)  
+- [2020-05-28-请问，-SQLAlchemy-无外键约束的多对多关系模型该怎么写啊？](https://www.v2ex.com/t/676479)  
+- [2020-05-28-MBP-16inch-15.5.4-睡眠/合盖发热-有什么解决方案么](https://www.v2ex.com/t/676478)  
+- [2020-05-28-请教-Java-Runtime.exec"sh--x-xx.sh"无效的问题](https://www.v2ex.com/t/676477)  
+- [2020-05-28-「独立作品」InfoHub-简洁轻巧的科技、社区、娱乐、财经等综合资讯中心](https://www.v2ex.com/t/676476)  
+- [2020-05-28-HTML-页面加入点击的一个特效，页面的按钮就不可点击了，求助！](https://www.v2ex.com/t/676475)  
+- [2020-05-28-想离职，求给点勇气。](https://www.v2ex.com/t/676474)  
+- [2020-05-28-关于知乎优化团队](https://www.v2ex.com/t/676473)  
+- [2020-05-28-自学编程-9-年，想学算法，有可以推荐的书吗？](https://www.v2ex.com/t/676472)  
+- [2020-05-28-618-搞这套配置是否-49-年入国军?](https://www.v2ex.com/t/676471)  
+- [2020-05-28-继数据收集问题后，再次有与-WinGet-相关的激烈讨论登上-Hacker-News-首页](https://www.v2ex.com/t/676468)  
+- [2020-05-28-服务器上行带宽对应的是上传还是下载？](https://www.v2ex.com/t/676467)  
+- [2020-05-28-请给有一点-IT-基础的人（非程序员）解释一下为什么-google-play-service-的存在与否能影响到-app-的消息收...](https://www.v2ex.com/t/676466)  
+- [2020-05-28-腾讯云的轻量应用服务器-Lighthouse-多少人申请了内测？](https://www.v2ex.com/t/676464)  
+- [2020-05-28-小白想趁着-618-组个黑苹果,请各位前辈指点一下,我的配置如下](https://www.v2ex.com/t/676463)  
+- [2020-05-28-管理-chrome-的收藏夹（书签）有什么妙招或好插件或好思路么?](https://www.v2ex.com/t/676462)  
+- [2020-05-28-韩国的线路是出问题了吗，今天？](https://www.v2ex.com/t/676461)  
+- [2020-05-28-做些个人项目放到简历里帮助大吗？](https://www.v2ex.com/t/676460)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

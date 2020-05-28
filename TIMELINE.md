@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 23:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-28 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-中国政府赴阿尔及利亚抗疫医疗专家组结束在阿行程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSvsRoeW8RsIRYyVtlqC200528&isfromapp=1) 

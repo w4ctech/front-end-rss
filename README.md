@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 01:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 02:00:13，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
+- [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -626,10 +626,10 @@
 </summary>
 
 
-- [2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4) ![](assets/new.png)  
-- [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) ![](assets/new.png)  
-- [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) ![](assets/new.png)  
-- [2020-05-20-Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2) ![](assets/new.png)  
+- [2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4)  
+- [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606)  
+- [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c)  
+- [2020-05-20-Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2)  
 - [2020-05-17-TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)  
 - [2020-05-17-推荐一个一直研究-Nodejs-源码的同学](https://www.ershicimi.com/p/789c758740ad9b3ecad10381ffff7dfa)  
 - [2020-05-14-Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572)  
@@ -1073,6 +1073,14 @@
 </summary>
 
 
+- [2020-05-29-字节跳动-监控团队招人啦-上海北京杭州-~~~~~~](https://www.v2ex.com/t/676502) ![](assets/new.png)  
+- [2020-05-29-搭建-openstack-开发环境，安装-devstack-始终报没有-neutron-agent-和-neutron-l3-包](https://www.v2ex.com/t/676501) ![](assets/new.png)  
+- [2020-05-29-继续白嫖：-Epic-再送一款游戏《Borderlands:The-Handsome-Collection》《无主之地：帅杰克合集》](https://www.v2ex.com/t/676499) ![](assets/new.png)  
+- [2020-05-29-现在（2020.06）从「Evernote-国际版」导入到「印象笔记」最简便的方式是？](https://www.v2ex.com/t/676498) ![](assets/new.png)  
+- [2020-05-29-如何对-windows-中某一桌面挂件（无背景窗口）的输出进行录屏](https://www.v2ex.com/t/676497) ![](assets/new.png)  
+- [2020-05-29-Chrome-打不开知乎www.zhihu.com，-Firefox-可以](https://www.v2ex.com/t/676496) ![](assets/new.png)  
+- [2020-05-29-如果你有一个教师女朋友，让她来试试-期末评语智能生成器-，减负利器](https://www.v2ex.com/t/676495) ![](assets/new.png)  
+- [2020-05-29-从“如果我把英语学好，是不是就可以去国外做个程序员？”一帖有感](https://www.v2ex.com/t/676494) ![](assets/new.png)  
 - [2020-05-29-20200528-午夜俱乐部](https://www.v2ex.com/t/676493)  
 - [2020-05-29-想搞个-2021-届实习校招交流群](https://www.v2ex.com/t/676492)  
 - [2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490)  
@@ -1085,14 +1093,6 @@
 - [2020-05-28-200M-的宽带足够在线看蓝光原盘吗](https://www.v2ex.com/t/676483)  
 - [2020-05-28-北京-脉脉-内推-不-996，成功入职有大奖拿](https://www.v2ex.com/t/676482)  
 - [2020-05-28-我的工作经历及我为什么选择创业（上）](https://www.v2ex.com/t/676481)  
-- [2020-05-28-秒控键盘-2-适合码代码吗？](https://www.v2ex.com/t/676480)  
-- [2020-05-28-请问，-SQLAlchemy-无外键约束的多对多关系模型该怎么写啊？](https://www.v2ex.com/t/676479)  
-- [2020-05-28-MBP-16inch-15.5.4-睡眠/合盖发热-有什么解决方案么](https://www.v2ex.com/t/676478)  
-- [2020-05-28-请教-Java-Runtime.exec"sh--x-xx.sh"无效的问题](https://www.v2ex.com/t/676477)  
-- [2020-05-28-「独立作品」InfoHub-简洁轻巧的科技、社区、娱乐、财经等综合资讯中心](https://www.v2ex.com/t/676476)  
-- [2020-05-28-HTML-页面加入点击的一个特效，页面的按钮就不可点击了，求助！](https://www.v2ex.com/t/676475)  
-- [2020-05-28-想离职，求给点勇气。](https://www.v2ex.com/t/676474)  
-- [2020-05-28-关于知乎优化团队](https://www.v2ex.com/t/676473)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

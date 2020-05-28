@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,8 @@
 - [2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
 - [2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7) 
+- [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443) 
 - [2020-05-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56) 
 - [2020-05-22-@Winter:基于Vue3.0聊聊架构](https://www.ershicimi.com/p/e3ffb81830f5661f95554a7f91c5aea4) 
 - [2020-05-20-漫谈Vue3.0的最新技术](https://www.ershicimi.com/p/893d65722b8fbe4de29e39714149c9ac) 

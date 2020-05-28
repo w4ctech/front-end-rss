@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-28 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,8 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)
+- [【Vue中文社区】Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443)
 - [【Vue中文社区】Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56)
 - [【Vue中文社区】@Winter:基于Vue3.0聊聊架构](https://www.ershicimi.com/p/e3ffb81830f5661f95554a7f91c5aea4)
 - [【Vue中文社区】漫谈Vue3.0的最新技术](https://www.ershicimi.com/p/893d65722b8fbe4de29e39714149c9ac)
@@ -93,8 +95,6 @@
 - [【Vue中文社区】「vue模块化按需编译，突破编译瓶颈」实战篇](https://www.ershicimi.com/p/3e0cd312318de2c83e4b79b0a55adc29)
 - [【Vue中文社区】10个Vue开发技巧](https://www.ershicimi.com/p/c44e3c0a0e74968abef9f1e4b70c0aa9)
 - [【Vue中文社区】尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/d77a3fa6ae2ea3e933c4c56d586fb9dd)
-- [【Vue中文社区】大白话理解Vuex](https://www.ershicimi.com/p/e6a0cdb915f9921d1a27a05fe0436c23)
-- [【Vue中文社区】12个Vue.js开发技巧和窍门](https://www.ershicimi.com/p/8a65e743f19f43f15460a91dd9c54755)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -328,6 +328,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】研究：酶切位点插入事件非独有-新冠病毒源于自然重组](http://science.caixin.com/2020-03-10/101526576.html)
+- [【Vue中文社区】收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe)
 - [【Vue中文社区】70%以上业务由H5开发，手机QQ-Hybrid-的架构如何优化演进？](https://www.ershicimi.com/p/a627429c120591e60517d38faaf24335)
 - [【Vue中文社区】8个原生JS知识点-|-面试高频](https://www.ershicimi.com/p/7ce200559f6e85a61fb3909cf2387c33)
 - [【Vue中文社区】11个JavaScript小技巧](https://www.ershicimi.com/p/49b1a8764068fa908cccb0f388878184)
@@ -346,7 +347,6 @@
 - [【前端大全】Javascript-代码是如何被压缩的](https://www.ershicimi.com/p/9687c2c51598384f403d20e5dd29fa36)
 - [【前端大全】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/139442c199da69fc90c52c54dd239cf6)
 - [【前端开发】前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)
-- [【前端开发】如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

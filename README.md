@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 00:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 01:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-05-28-世卫组织：全球新冠肺炎超过559万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1) ![](assets/new.png)  
+- [2020-05-28-世卫组织：全球新冠肺炎超过559万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1)  
 - [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1)  
 - [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1)  
 - [2020-05-28-加强新冠肺炎疫情防控，中非共和国将进一步采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1)  
@@ -1038,6 +1038,10 @@
 </summary>
 
 
+- [2020-05-28-8-个看似简单的心理学小技巧，学会了却能受益终生](https://www.ershicimi.com/p/5d4d8726f8a2fdf5d121c3c8de5d857f) ![](assets/new.png)  
+- [2020-05-28-知乎好问题：如何看待首个国产-HPV-疫苗获批上市，定价-329-元一支？](https://www.ershicimi.com/p/6ca5493dfc7aeb3ed006c97cc77aa74d) ![](assets/new.png)  
+- [2020-05-28-如何开启一段不尴尬的聊天？](https://www.ershicimi.com/p/74753e942af7ab587ddaf1b22db194f4) ![](assets/new.png)  
+- [2020-05-28-知乎故事-|-和异性合租是种怎样的体验？](https://www.ershicimi.com/p/401c5805fc73f91bbc341411acc6b08c) ![](assets/new.png)  
 - [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730)  
 - [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7)  
 - [2020-05-27-比勤奋更能决定你人生的，是你的选择](https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2)  
@@ -1054,10 +1058,6 @@
 - [2020-05-24-有哪些礼物，过了很久你却依然保存至今？](https://www.ershicimi.com/p/4168028c7105ad9b8e6f113860bc1ee5)  
 - [2020-05-24-2020，口碑极佳的-8-个公众号，你关注了吗？](https://www.ershicimi.com/p/f07cbac25ffb5764cb9c7b0601f9f18d)  
 - [2020-05-24-知乎故事-|-我给老婆备注了全名，还把她屏蔽了](https://www.ershicimi.com/p/5c79e9a349f1b695bb7793f5432c1825)  
-- [2020-05-23-知乎神吐槽-|-你们麻醉后说过什么蠢话？](https://www.ershicimi.com/p/38d0551ad366775e67d80b553684b705)  
-- [2020-05-23-读书到底有多重要？这是我听过的最好的答案](https://www.ershicimi.com/p/45064df7849d4e65e96a9d5bfaa077a2)  
-- [2020-05-23-知乎故事-|-将军出征回来了，他还带回一个怀孕的女子](https://www.ershicimi.com/p/3e0f31c7b421a6d71ddead499893cb71)  
-- [2020-05-22-你最最最最尴尬的一次经历是怎样的？](https://www.ershicimi.com/p/5fc7a5f75d8faa735cf0aa901b8d0c11)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1069,8 +1069,8 @@
 </summary>
 
 
-- [2020-05-29-20200528-午夜俱乐部](https://www.v2ex.com/t/676493) ![](assets/new.png)  
-- [2020-05-29-想搞个-2021-届实习校招交流群](https://www.v2ex.com/t/676492) ![](assets/new.png)  
+- [2020-05-29-20200528-午夜俱乐部](https://www.v2ex.com/t/676493)  
+- [2020-05-29-想搞个-2021-届实习校招交流群](https://www.v2ex.com/t/676492)  
 - [2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490)  
 - [2020-05-28-社区/论坛类的是不是不太行了，怎么还没看见前后端分离的成熟产品呢？](https://www.v2ex.com/t/676489)  
 - [2020-05-28-怎么解决-Siri-不能处理"给我爸爸打电话"的指令-有视频演示](https://www.v2ex.com/t/676488)  

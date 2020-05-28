@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-28 08:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【境内疫情观察】19个省份已连续15日无新增确诊病例（4月30日）](http://database.caixin.com/2020-05-01/101549542.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-【国际疫情透视】美国纽约州累计确诊数突破30万（4月30日）](http://database.caixin.com/2020-05-01/101549612.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-05-01-湖北应急响应级别降为二级-内地31省份全部调整完毕](http://china.caixin.com/2020-05-01/101549603.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-27-英国新增2013例新冠肺炎确诊病例-累计达267240例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivT9n4wdZa9DEDCHSiqlU200527&isfromapp=1) 
@@ -1327,6 +1331,15 @@
 - [【知乎日报】2020-05-01-知乎高赞：看起来「三观极歪」的琼瑶作品，为什么能火遍大江南北？](https://www.ershicimi.com/p/08ec933327d911ced4c53b22dfd2bd26) 
 - [【知乎日报】2020-05-01-10000-元/人？知乎视频豪砸重金招募视频创作者！](https://www.ershicimi.com/p/677678947f71ffb24b534f7188e26bcf) 
 - [【知乎日报】2020-05-01-知乎故事-|-婆婆可以偏心到什么程度？](https://www.ershicimi.com/p/84409a3e817d222f3e216c1919d734ce) 
+- [【V2EX】2020-05-28-PS4-国行版，-2020.5.27-更新系统以后，正式终结后门](https://www.v2ex.com/t/676181) 
+- [【V2EX】2020-05-28-Spotlight-无法搜索-numbers-里的内容](https://www.v2ex.com/t/676180) 
+- [【V2EX】2020-05-28-如何将程序坞将固定在两个显示器接壤处？](https://www.v2ex.com/t/676179) 
+- [【V2EX】2020-05-28-杭州-马云公益基金会---招聘技术支持工程师](https://www.v2ex.com/t/676178) 
+- [【V2EX】2020-05-28-SpringCloud-&-vue.js-开发的（小说-App）微服务实战项目](https://www.v2ex.com/t/676177) 
+- [【V2EX】2020-05-28-作为行人你有闯过红灯或横穿过马路没走斑马线吗？](https://www.v2ex.com/t/676176) 
+- [【V2EX】2020-05-28-秘迹搜索打不开了，密码管理器也闪退](https://www.v2ex.com/t/676175) 
+- [【V2EX】2020-05-28-Stack-Overflow-2020-开发者调查发布](https://www.v2ex.com/t/676174) 
+- [【V2EX】2020-05-28-使用不同字体区分变量名和表达式](https://www.v2ex.com/t/676173) 
 - [【V2EX】2020-05-28-Cloudflare-官方测速](https://www.v2ex.com/t/676172) 
 - [【V2EX】2020-05-28-工作中科班出身和转专业的人的表现是否有差距？](https://www.v2ex.com/t/676171) 
 - [【V2EX】2020-05-28-macOS-QQ-“防止睡眠”怎么改成“否”？](https://www.v2ex.com/t/676170) 

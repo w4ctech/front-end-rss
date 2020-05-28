@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 08:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -329,6 +329,10 @@
 - [2020-01-24-武汉疑似患者受关注-确诊难待解决](http://china.caixin.com/2020-01-24/101508017.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://china.caixin.com/2020-01-23/101507543.html) 
 - [2020-01-23-管轶：去过武汉请自我隔离](http://china.caixin.com/2020-01-23/101507672.html) 
+- [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1) 
+- [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1) 
+- [2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1) 
+- [2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1) 
 - [2020-05-27-疫情趋缓-瑞士宣布解除“紧急状态”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1) 
 - [2020-05-27-英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1) 
 - [2020-05-27-俄罗斯多地部队恢复胜利日阅兵彩排](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1) 
@@ -1315,6 +1319,12 @@
 - [2020-04-22-知乎故事-|-小时候，父母总觉得他「不是人」](https://www.ershicimi.com/p/6ca924de0a6bb708c49d1ea1839bd74c) 
 - [2020-04-21-重要通知：知乎母婴创作者训练营第二期启动招募了！](https://www.ershicimi.com/p/82ee5c44a8149cee6fb5e15e6a9a11f4) 
 - [2020-04-21-有时选择比努力更重要，真正拉开你我差距的是……](https://www.ershicimi.com/p/fdc043b14d2f121021a480c7f6a2f433) 
+- [2020-05-28-PS4-国行版，-2020.5.27-更新系统以后，正式终结后门](https://www.v2ex.com/t/676181) 
+- [2020-05-28-Spotlight-无法搜索-numbers-里的内容](https://www.v2ex.com/t/676180) 
+- [2020-05-28-如何将程序坞将固定在两个显示器接壤处？](https://www.v2ex.com/t/676179) 
+- [2020-05-28-作为行人你有闯过红灯或横穿过马路没走斑马线吗？](https://www.v2ex.com/t/676176) 
+- [2020-05-28-秘迹搜索打不开了，密码管理器也闪退](https://www.v2ex.com/t/676175) 
+- [2020-05-28-Stack-Overflow-2020-开发者调查发布](https://www.v2ex.com/t/676174) 
 - [2020-05-28-Cloudflare-官方测速](https://www.v2ex.com/t/676172) 
 - [2020-05-28-工作中科班出身和转专业的人的表现是否有差距？](https://www.v2ex.com/t/676171) 
 - [2020-05-28-macOS-QQ-“防止睡眠”怎么改成“否”？](https://www.v2ex.com/t/676170) 

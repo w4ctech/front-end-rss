@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -61,6 +61,7 @@
 - [2020-04-24-React实现一个添加商品规格SKU，生成合并表格的功能](https://juejin.im/post/5ea2841b51882573793e93ee) 
 - [2020-04-24-WebStorm-中-React,-Angular-和-Vue.js-的最佳体验](https://javascriptweekly.com/link/63605/web) 
 - [2020-04-24-▶-React-Hooks-实操介绍](https://javascriptweekly.com/link/63630/web) 
+- [2020-05-28-深圳内推-明源云-前端（react）+后端（-PHP-，-Go）双休-单周下午茶等优秀福利等你！](https://www.v2ex.com/t/676263) 
 - [2020-05-27-求职-上海-web-前端-大专-vue.js-经验多、React.js-经验少](https://www.v2ex.com/t/676147) 
 - [2020-05-27-哪有一个好用的控制-modal-组件的-hooks？](https://www.v2ex.com/t/676074) 
 - [2020-05-27-Robotgo-v0.90.0-发布了,-Go-跨平台-GUI-自动化.-大幅度更新,-更并发和现代的-hook-API-和多屏支持等](https://www.v2ex.com/t/675936) 

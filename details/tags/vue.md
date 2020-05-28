@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-28 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-28 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -63,6 +63,7 @@
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2020-04-26-前端周报：尤雨溪B站直播安利Vue3.0Beta；iPhone爆严重漏洞，影响超5亿手机；快手回应网](https://www.ershicimi.com/p/5ef7aeee8c20fb047c5405aa31ba7e1e) 
 - [2020-04-22-尤雨溪B站直播，Vue-3.0-Beta是一个值得体验的全新版本](https://www.ershicimi.com/p/9b60fcdf7da48f835e25f5e68281e626) 
+- [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) 
 - [2020-05-11-搞懂-Vue-3.0-三天就够了](https://www.ershicimi.com/p/8d784a803dd94716f9f813aaa0c076b4) 
 - [2020-05-05-面试题：Vue中$nextTick原理](https://www.ershicimi.com/p/62e42c223887101bb1df100384ce3470) 
 - [2020-04-27-推荐7个脸生但优秀的前端公众号（主vue，LeetCode前端算法，面试，源码解析方向）](https://www.ershicimi.com/p/dbcd05a5e887d9123095638c98ac9c3c) 
@@ -72,6 +73,7 @@
 - [2020-04-23-抄笔记：尤雨溪在Vue3.0-Beta直播里聊到了这些…](https://www.ershicimi.com/p/0d4b939f499f28641bab9e0cf2dfea48) 
 - [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/bbaaf5422ba4a7cb0eb92db3cba88951) 
 - [2020-05-06-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/e882fcda5c9d0796fa18c6daab354015) 
+- [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b) 
 - [2020-05-25-Vue3.0来了，看看尤大大画的重点](https://www.ershicimi.com/p/16ad94dbe0bc186cb44bedddf1d0f17f) 
 - [2020-05-18-Vue3.0-Beta-来了，正式版还会远吗？](https://www.ershicimi.com/p/843b6fa76233a4da0b0ff541b8d1b06c) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 

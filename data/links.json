@@ -6398,6 +6398,16 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "这 2 个坏习惯，让你离大厂越来越远",
+        "link": "https://www.ershicimi.com/p/7038f270a029dea59c7fd5e7bfbe7aeb",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "请你说说 Vue 中 slot 和 slot-scope 的原理",
+        "link": "https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63",
+        "date": "2020-05-28"
+      },
+      {
         "title": "前端模块化详解(完整版)",
         "link": "https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3",
         "date": "2020-05-27"
@@ -7437,6 +7447,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "带你五步学会Vue SSR",
+        "link": "https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "撸羊毛！满400减230的购书活动不要错过哦！",
+        "link": "https://www.ershicimi.com/p/137e2df24dc8e32161ec6cbb58908e25",
+        "date": "2020-05-28"
+      },
       {
         "title": "微前端在小米 CRM 系统的实践",
         "link": "https://www.ershicimi.com/p/ee7f43e7530131dc8eb0d9a821d71446",
@@ -12101,6 +12121,196 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "免单羊毛群，都是些免单的小东西，需要的进群",
+        "link": "https://www.v2ex.com/t/676293",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "ThinkPHP 应用服务市场上线~欢迎来撩",
+        "link": "https://www.v2ex.com/t/676291",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "为了规避面试难度转向测试是否可行？",
+        "link": "https://www.v2ex.com/t/676290",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[深圳][乐信] NASDAQ 上市公司 招 前端",
+        "link": "https://www.v2ex.com/t/676289",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "杭州，一个不到 20 人的小公司，先实习 3500，不交公积金，该不该去",
+        "link": "https://www.v2ex.com/t/676288",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "天啊 被苹果的售后震撼到了",
+        "link": "https://www.v2ex.com/t/676287",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "最科学的方式获取 AWS 连接最快的区域",
+        "link": "https://www.v2ex.com/t/676286",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[杭州] [社招] 蚂蚁金服前端招聘，人海茫茫，但求有缘！",
+        "link": "https://www.v2ex.com/t/676285",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "精力不足如何破解？",
+        "link": "https://www.v2ex.com/t/676284",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "我给自己 GitHub 库内 省市区 坐标和边界范围 数据写了一个转换成 shp、geojson、sql 小工具",
+        "link": "https://www.v2ex.com/t/676283",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[好未来] 直属重点产品线-yach 团队-前端/安卓",
+        "link": "https://www.v2ex.com/t/676282",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "免单羊毛群",
+        "link": "https://www.v2ex.com/t/676281",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "上海九号线群组",
+        "link": "https://www.v2ex.com/t/676280",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "宁波房贷要加 60 个基点",
+        "link": "https://www.v2ex.com/t/676278",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "升级了 10.15.5，电池里面没有 电池健康按钮……",
+        "link": "https://www.v2ex.com/t/676277",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "免单 0 元福利群",
+        "link": "https://www.v2ex.com/t/676276",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "蒸烤一体机好用吗",
+        "link": "https://www.v2ex.com/t/676275",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "哪些数据库适合这种场景？ clickhouse？ Doris ?",
+        "link": "https://www.v2ex.com/t/676274",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "打算扔掉小米净水器，换 DIY，请问哪家的最好？",
+        "link": "https://www.v2ex.com/t/676273",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "Macbookpro 提示修理电池，不管他会怎么样？",
+        "link": "https://www.v2ex.com/t/676270",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "2020 年 5 月 28 日，买.com 域名在哪买划算?",
+        "link": "https://www.v2ex.com/t/676268",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "专科，要不要提升学历。",
+        "link": "https://www.v2ex.com/t/676267",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "rust 如何实现向下转型？",
+        "link": "https://www.v2ex.com/t/676266",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[不懂就来问] Java 基础 关于面向对象中的 多态 说说你的看法",
+        "link": "https://www.v2ex.com/t/676264",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[深圳内推] [明源云] 前端（react）+后端（ PHP ， Go）双休 单周下午茶等优秀福利等你！",
+        "link": "https://www.v2ex.com/t/676263",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "PVE 下群晖和 Windows 最佳的通信方式是什么？",
+        "link": "https://www.v2ex.com/t/676261",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "为什么 Linux 密码过期了，基于 key 的 ssh 也不能登录了？",
+        "link": "https://www.v2ex.com/t/676260",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "有面试需求的同学可以来瞅瞅",
+        "link": "https://www.v2ex.com/t/676258",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "[ 北京-广州奥格公司 ]内推 项目实施工程师 8-10K",
+        "link": "https://www.v2ex.com/t/676257",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "我不知道这个 null 的值究竟是什么？ 谢谢各位解答",
+        "link": "https://www.v2ex.com/t/676256",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "江湖救急啦！各种知道有没有什么按键器能通过程序控制他远程按下键盘的键",
+        "link": "https://www.v2ex.com/t/676255",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "图像数据集制作 tfrecord 文件时的问题请教",
+        "link": "https://www.v2ex.com/t/676254",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "京造 jz763 扩展 4k30hz 和 2k 60hz",
+        "link": "https://www.v2ex.com/t/676253",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "收一个 姓名测试打分或起名的程序",
+        "link": "https://www.v2ex.com/t/676251",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "有双休的阿里金融部门，社招 678Java",
+        "link": "https://www.v2ex.com/t/676250",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "个人果然不能搞 dns 服务",
+        "link": "https://www.v2ex.com/t/676249",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "有带哥用过 dropzone.js 吗?请教个问题",
+        "link": "https://www.v2ex.com/t/676248",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "非全研究生上岸，分享一下经验和看法",
+        "link": "https://www.v2ex.com/t/676246",
+        "date": "2020-05-28"
+      },
       {
         "title": "PS4 国行版， 2020.5.27 更新系统以后，正式终结后门",
         "link": "https://www.v2ex.com/t/676181",

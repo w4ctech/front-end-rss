@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 17:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -332,6 +332,8 @@
 - [【JavaScript】2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
 - [【JavaScript】2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
 - [【JavaScript】2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
+- [【掘金前端】2020-05-29-ZooTeam-前端周刊｜第-84-期](https://juejin.im/post/5ed0d4bde51d457875601aa5) 
+- [【掘金前端】2020-05-29-PC端-车险行业的车牌号输入-·-语雀](https://www.yuque.com/docs/share/925b804f-2ee1-47dd-b7ab-7640ded577f0?#) 
 - [【掘金前端】2020-05-29-突然上手Angular](https://juejin.im/post/5ed077c051882543023c0120) 
 - [【掘金前端】2020-05-29-angular8-日常开发填坑指南](https://juejin.im/post/5ed080ebe51d45788325f27e) 
 - [【掘金前端】2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) 

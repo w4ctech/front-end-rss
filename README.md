@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 17:00:14，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1)  
 - [2020-05-29-宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1)  
 - [2020-05-29-​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1)  
 - [2020-05-29-拉美新冠肺炎确诊病例超88万，多国或延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1)  
@@ -589,7 +589,7 @@
 </summary>
 
 
-- [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0) ![](assets/new.png)  
+- [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0)  
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539)  
 - [2020-05-25-React源码揭秘三：Diff算法详解](https://www.ershicimi.com/p/c452b8749f4d5fc93e770e60850d6b86)  
 - [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d)  
@@ -716,11 +716,13 @@
 </summary>
 
 
-- [2020-05-29-突然上手Angular](https://juejin.im/post/5ed077c051882543023c0120) ![](assets/new.png)  
-- [2020-05-29-angular8-日常开发填坑指南](https://juejin.im/post/5ed080ebe51d45788325f27e) ![](assets/new.png)  
-- [2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) ![](assets/new.png)  
-- [2020-05-29-名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6) ![](assets/new.png)  
-- [2020-05-29-一个函数让你彻底了解闭包和函数柯里化](https://juejin.im/post/5ed0855c5188253684676ff6) ![](assets/new.png)  
+- [2020-05-29-ZooTeam-前端周刊｜第-84-期](https://juejin.im/post/5ed0d4bde51d457875601aa5) ![](assets/new.png)  
+- [2020-05-29-PC端-车险行业的车牌号输入-·-语雀](https://www.yuque.com/docs/share/925b804f-2ee1-47dd-b7ab-7640ded577f0?#) ![](assets/new.png)  
+- [2020-05-29-突然上手Angular](https://juejin.im/post/5ed077c051882543023c0120)  
+- [2020-05-29-angular8-日常开发填坑指南](https://juejin.im/post/5ed080ebe51d45788325f27e)  
+- [2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88)  
+- [2020-05-29-名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6)  
+- [2020-05-29-一个函数让你彻底了解闭包和函数柯里化](https://juejin.im/post/5ed0855c5188253684676ff6)  
 - [2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4)  
 - [2020-05-29-基于promise对axios进行再次封装（兼容前端主流框架）](https://juejin.im/post/5ed078e451882542e8541466)  
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)  

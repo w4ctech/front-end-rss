@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -132,6 +132,7 @@
 
 - [【前端开发】揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
+- [【前端宇宙】是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/b3b5e5fd453bfbd05d914af154bd502f)
 - [【凹凸实验室】ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/)
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
@@ -389,6 +390,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-/...](https://www.v2ex.com/t/676716)
 - [【V2EX】如何搭建低延时、交互式的在线教育平台？（内附视频回放）](https://www.v2ex.com/t/676590)
 - [【开发者头条】用-WebRTC-的-Insertable-Streams-API-把元数据添加到媒体帧](https://toutiao.io/k/dggpr64)
 - [......【查看更多】......](./details/tags/audio-video.md)
@@ -453,8 +455,8 @@
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【InfoQ】Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】为什么后端开发都喜欢自己定义-responseCode？-HTTP-状态码不够用吗？](https://www.v2ex.com/t/676678)
-- [【V2EX】突然发现-Teamviewer-连接居然要手机号了？！](https://www.v2ex.com/t/676593)
+- [【V2EX】chrome-插件-V2EX-plus-的-快捷键怎么关闭啊？](https://www.v2ex.com/t/676710)
+- [【V2EX】mac-如何查看-ie-浏览器才能查看的网页](https://www.v2ex.com/t/676705)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -487,6 +489,7 @@
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
 - [【V2EX】纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627)
 - [【V2EX】北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559)
+- [【开发者头条】基于-DNN-的推荐算法介绍](https://toutiao.io/k/7omj94e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -617,6 +620,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】多国开始复工复产，政府推刺激计划提振经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​日本拟修改节假日法律-在奥运会开闭幕式期间创造连休假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1)
@@ -636,7 +640,6 @@
 - [【Vue中文社区】张一鸣：高级人才的五个基本素质](https://www.ershicimi.com/p/518091185a035a329fa2aa5241772934)
 - [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d)
 - [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7cb870d3a2d9c3ec72013289bb6db6e3)
-- [【React中文社区】一文掌握GO语言实战技能三](https://www.ershicimi.com/p/46cac625ac351e226dc4486f2397cb50)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

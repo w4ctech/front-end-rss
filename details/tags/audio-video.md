@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -19,5 +19,6 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
+- [2020-05-29-🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-/...](https://www.v2ex.com/t/676716) 
 - [2020-05-29-如何搭建低延时、交互式的在线教育平台？（内附视频回放）](https://www.v2ex.com/t/676590) 
 - [2020-05-29-用-WebRTC-的-Insertable-Streams-API-把元数据添加到媒体帧](https://toutiao.io/k/dggpr64) 

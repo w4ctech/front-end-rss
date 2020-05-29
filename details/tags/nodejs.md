@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -64,6 +64,7 @@
 - [2020-04-26-V8引擎详解（一）——概述](https://juejin.im/post/5ea3dd52f265da47b35c88f0) 
 - [2020-04-26-Node-事件循环机制](https://juejin.im/post/5ea3ecb9518825737f1a8703) 
 - [2020-04-24-Node.js-日志记录指南](https://javascriptweekly.com/link/63625/web) 
+- [2020-05-29-请教各位-Node.js-大佬一个问题](https://www.v2ex.com/t/676509) 
 - [2020-05-27-Node.js-一行一行地读取文本文件](https://www.v2ex.com/t/675820) 
 - [2020-05-26-MindMaster-Pro-亿图思维导图-v8.0-永久激活破解版附注册机](https://www.v2ex.com/t/675741) 
 - [2020-05-24-nodejs-探索人类本质-实现微信群聊管理，公众号文章链接转发复读机](https://www.v2ex.com/t/674861) 

@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 08:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-05-29-中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-巴西为应对疫情推出的紧急援助计划或将有所延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-受疫情影响-美国波士顿马拉松赛124年来首次被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-确诊病例超12万-非洲多国调整防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8wKZnu00HhEsgeCAmbi0200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) ![](assets/new.png)  
 - [2020-05-28-世卫组织：全球新冠肺炎超过559万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1)  
 - [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1)  
 - [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-05-28-美国：政策存矛盾-鼓励失业者重返岗位遇难题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1)  
 - [2020-05-28-英格兰将启动新冠病毒检测和追踪体系](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1)  
 - [2020-05-28-福建昨日新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1)  
-- [2020-05-28-根据丁香园数据，美国新冠死亡人数超-10-万]()  
-- [2020-05-28-刚果（布）总理穆安巴感谢中国医疗专家组](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJxwVmoZqorFAW67zZKi200528&isfromapp=1)  
-- [2020-05-28-埃及阿斯旺省副省长确认感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1)  
-- [2020-05-28-德国将逐步解除全球旅行警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1)  
-- [2020-05-28-莫斯科市政府：延长居家隔离制度至6月14日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -227,7 +227,7 @@
 </summary>
 
 
-- [2020-05-29-【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12) ![](assets/new.png)  
+- [2020-05-29-【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12)  
 - [2020-05-28-【第1958期】前端状态管理设计——优雅与妥协的艺术](https://www.ershicimi.com/p/17c31945dd39b0065dd2ba289d8714f5)  
 - [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf)  
 - [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)  
@@ -1073,6 +1073,17 @@
 </summary>
 
 
+- [2020-05-29-C++-代码自动分割线生成工具？](https://www.v2ex.com/t/676517) ![](assets/new.png)  
+- [2020-05-29-为啥京东和淘宝-Web-网站的界面那么丑，是不是都被战略放弃了](https://www.v2ex.com/t/676516) ![](assets/new.png)  
+- [2020-05-29-记得安卓上的微信来了一条通知推送，点开就能直达这个通知的内容，但是苹果的微信通知点开之后是打开微信，然后再找到通知内容。](https://www.v2ex.com/t/676515) ![](assets/new.png)  
+- [2020-05-29-为了规避刷题的痛苦，转为产品经理是否可行](https://www.v2ex.com/t/676514) ![](assets/new.png)  
+- [2020-05-29-守望先锋也白嫖喜加一了](https://www.v2ex.com/t/676513) ![](assets/new.png)  
+- [2020-05-29-这个时间点是是直接入手-MacBook-Pro-16-寸-2019-款，还是等今年-2020-的新款？](https://www.v2ex.com/t/676512) ![](assets/new.png)  
+- [2020-05-29-出国定居后公积金能取出来吗？](https://www.v2ex.com/t/676511) ![](assets/new.png)  
+- [2020-05-29-花为推出电子脚拷](https://www.v2ex.com/t/676510) ![](assets/new.png)  
+- [2020-05-29-请教各位-Node.js-大佬一个问题](https://www.v2ex.com/t/676509) ![](assets/new.png)  
+- [2020-05-29-深圳南山-，非-IT-公司数岗待领。](https://www.v2ex.com/t/676508) ![](assets/new.png)  
+- [2020-05-29-深圳南山-965-保险行业招聘前端两位](https://www.v2ex.com/t/676507) ![](assets/new.png)  
 - [2020-05-29-TikTok-是逗音吗，在有图比上狂砸广告啊](https://www.v2ex.com/t/676506)  
 - [2020-05-29-字节跳动-全岗位日常实习招聘，有转正机会无笔试，快上车！](https://www.v2ex.com/t/676505)  
 - [2020-05-29-Golang-学习项目](https://www.v2ex.com/t/676504)  
@@ -1082,17 +1093,6 @@
 - [2020-05-29-继续白嫖：-Epic-再送一款游戏《Borderlands:The-Handsome-Collection》《无主之地：帅杰克合集》](https://www.v2ex.com/t/676499)  
 - [2020-05-29-现在（2020.06）从「Evernote-国际版」导入到「印象笔记」最简便的方式是？](https://www.v2ex.com/t/676498)  
 - [2020-05-29-如何对-windows-中某一桌面挂件（无背景窗口）的输出进行录屏](https://www.v2ex.com/t/676497)  
-- [2020-05-29-Chrome-打不开知乎www.zhihu.com，-Firefox-可以](https://www.v2ex.com/t/676496)  
-- [2020-05-29-如果你有一个教师女朋友，让她来试试-期末评语智能生成器-，减负利器](https://www.v2ex.com/t/676495)  
-- [2020-05-29-从“如果我把英语学好，是不是就可以去国外做个程序员？”一帖有感](https://www.v2ex.com/t/676494)  
-- [2020-05-29-20200528-午夜俱乐部](https://www.v2ex.com/t/676493)  
-- [2020-05-29-想搞个-2021-届实习校招交流群](https://www.v2ex.com/t/676492)  
-- [2020-05-28-微博评论全是菠菜，不管管吗？](https://www.v2ex.com/t/676490)  
-- [2020-05-28-社区/论坛类的是不是不太行了，怎么还没看见前后端分离的成熟产品呢？](https://www.v2ex.com/t/676489)  
-- [2020-05-28-怎么解决-Siri-不能处理"给我爸爸打电话"的指令-有视频演示](https://www.v2ex.com/t/676488)  
-- [2020-05-28-NextCloud-Docker-遇到问题](https://www.v2ex.com/t/676487)  
-- [2020-05-28-更新数据库后是直接更新缓存还是删除缓存？](https://www.v2ex.com/t/676486)  
-- [2020-05-28-用-scrapy-+selenium-练习采集，怎么都输出一些这个，是哪里设置的不对？](https://www.v2ex.com/t/676485)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

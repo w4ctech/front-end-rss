@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 01:00:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 01:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -391,6 +391,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】火爆招聘中上海/杭州阿里云-视频基础技术团队-视频-AI-工程开发](https://www.v2ex.com/t/676860)
 - [【V2EX】Mac-OS-有什么视频转换软件吗？只想转变格式-不想动内容。](https://www.v2ex.com/t/676849)
 - [【V2EX】油管这点太烦人了，不如国内视频站。](https://www.v2ex.com/t/676839)
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招音视频资深/专家级工程师](https://www.v2ex.com/t/676770)
@@ -579,9 +580,9 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)
 - [【JavaScript】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)
+- [【V2EX】第一次面试就被刷了，找个工作好难啊](https://www.v2ex.com/t/676858)
 - [【V2EX】问个问题，面试了一家企业，说是周五给回信，结果也没有给回信，这个要不要打电话问一下呢？有没有必要呢？...](https://www.v2ex.com/t/676814)
 - [【V2EX】招聘-Golang-工程师一枚，弹性上班，加班非常少](https://www.v2ex.com/t/676564)
-- [【开发者头条】推荐-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

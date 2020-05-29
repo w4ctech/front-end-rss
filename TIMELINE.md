@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1) 
@@ -183,6 +185,7 @@
 - [【前端开发】2020-05-23-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e) 
 - [【前端开发】2020-05-23-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799) 
 - [【前端开发】2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
+- [【前端大学】2020-05-29-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/bfaaaa69d9eb0ee6d81f79ae1b98c43c) 
 - [【前端大学】2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21) 
 - [【前端大学】2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11) 
 - [【前端大学】2020-05-27-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5) 
@@ -206,6 +209,7 @@
 - [【前端之巅】2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e) 
 - [【前端之巅】2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29) 
 - [【前端之巅】2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be) 
+- [【前端迷】2020-05-29-工作中常用的JavaScript工具函数](https://www.ershicimi.com/p/4919a2dd80458e365ac18a1e0884a161) 
 - [【前端迷】2020-05-28-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/7038f270a029dea59c7fd5e7bfbe7aeb) 
 - [【前端迷】2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) 
 - [【前端迷】2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3) 

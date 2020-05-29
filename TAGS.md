@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -295,11 +295,11 @@
 - [【前端大学】JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/03bfc1404951fdd4edd89eae1b1b605e)
 - [【前端大学】一起探讨-JavaScript-的对象](https://www.ershicimi.com/p/c7d67e50a9cb02dcec5fcea1dafc27d6)
 - [【前端外刊评论】从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc)
+- [【前端迷】工作中常用的JavaScript工具函数](https://www.ershicimi.com/p/4919a2dd80458e365ac18a1e0884a161)
 - [【前端迷】前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3)
 - [【全栈前端精选】75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)
 - [【政采云前端团队】福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518)
 - [【政采云前端团队】JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423)
-- [【前端宇宙】JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -477,6 +477,7 @@
 
 
 - [【前端大全】前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5)
+- [【前端大学】华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/bfaaaa69d9eb0ee6d81f79ae1b98c43c)
 - [【前端大学】https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11)
 - [【前端瓶子君】平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495)
 - [【前端瓶子君】据说，80%的人都搞不懂哈希算法](https://www.ershicimi.com/p/db579140f0f341b89661e4bc25a105c6)
@@ -610,6 +611,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】拉美新冠肺炎确诊病例超88万，多国或延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
@@ -625,6 +627,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1)
@@ -644,7 +647,6 @@
 - [【Vue中文社区】推荐几位朋友圈出镜率极高的大佬](https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461)
 - [【Vue中文社区】上万课程免费学？这波羊毛不薅太亏了！](https://www.ershicimi.com/p/7d08ce53a5dcd7a8482cbddf0160b48f)
 - [【Vue中文社区】张一鸣：高级人才的五个基本素质](https://www.ershicimi.com/p/518091185a035a329fa2aa5241772934)
-- [【VUE全家桶】【程序员必看】女生必买口红TOP-10](https://www.ershicimi.com/p/7f04a7f7cbbc0e306f3b5a85808e240d)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

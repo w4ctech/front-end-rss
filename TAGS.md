@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 20:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -459,7 +459,7 @@
 - [【InfoQ】Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a)
 - [【掘金前端】websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】最新一波活动，安全产品免费使用，诚邀-v2-小伙伴参加](https://www.v2ex.com/t/676776)
+- [【V2EX】使-firefox-拥有-chromium-风格的右键菜单](https://www.v2ex.com/t/676805)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -575,9 +575,9 @@
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【JavaScript】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)
 - [【JavaScript】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)
+- [【V2EX】问个问题，面试了一家企业，说是周五给回信，结果也没有给回信，这个要不要打电话问一下呢？有没有必要呢？...](https://www.v2ex.com/t/676814)
 - [【V2EX】招聘-Golang-工程师一枚，弹性上班，加班非常少](https://www.v2ex.com/t/676564)
 - [【开发者头条】推荐-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e)
-- [【开发者头条】推荐-拼多多和酷家乐面试总结（已拿-Offer）](https://toutiao.io/k/fp7twf8)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -629,6 +629,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】印度人脸口罩亮相-这次手机能识别吗？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】日本北九州市疫情抬头-当地严阵以待](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】南京市浦口区永宁小学3名学生出现发热症状-官方通报来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4COgQYYlwiKnjNnKe1Pe200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1)
@@ -646,9 +649,6 @@
 - [【Vue社区】手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8)
 - [【Vue中文社区】程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b)
 - [【Vue中文社区】收藏吧-|-前端常用60余种工具方法](https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c)
-- [【Vue中文社区】推荐几位朋友圈出镜率极高的大佬](https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461)
-- [【Vue中文社区】上万课程免费学？这波羊毛不薅太亏了！](https://www.ershicimi.com/p/7d08ce53a5dcd7a8482cbddf0160b48f)
-- [【Vue中文社区】张一鸣：高级人才的五个基本素质](https://www.ershicimi.com/p/518091185a035a329fa2aa5241772934)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

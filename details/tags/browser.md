@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -26,6 +26,7 @@
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-05-29-使-firefox-拥有-chromium-风格的右键菜单](https://www.v2ex.com/t/676805) 
 - [2020-05-29-最新一波活动，安全产品免费使用，诚邀-v2-小伙伴参加](https://www.v2ex.com/t/676776) 
 - [2020-05-29-字节跳动安全岗位内推](https://www.v2ex.com/t/676762) 
 - [2020-05-29-chrome-插件-V2EX-plus-的-快捷键怎么关闭啊？](https://www.v2ex.com/t/676710) 

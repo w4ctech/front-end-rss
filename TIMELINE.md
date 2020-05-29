@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-印度人脸口罩亮相-这次手机能识别吗？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-日本北九州市疫情抬头-当地严阵以待](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-南京市浦口区永宁小学3名学生出现发热症状-官方通报来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4COgQYYlwiKnjNnKe1Pe200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-世卫组织：全球新冠肺炎确诊病例超过565万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1) 
@@ -373,6 +376,30 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-29-<meta-name="referrer"-content="no-referrer"-/>-效果问题](https://www.v2ex.com/t/676829) 
+- [【V2EX】2020-05-29-显卡坞外接显示器的升-15.5-要小心.](https://www.v2ex.com/t/676828) 
+- [【V2EX】2020-05-29-求远程办公的前端坑](https://www.v2ex.com/t/676827) 
+- [【V2EX】2020-05-29-程序员赏金任务平台](https://www.v2ex.com/t/676826) 
+- [【V2EX】2020-05-29-有没有在滴滴或者其他网约车公司的同学，请教一个数据量的问题](https://www.v2ex.com/t/676825) 
+- [【V2EX】2020-05-29-HashiCorp-禁止中国公司使用其企业级的产品的声明？是否是试水？](https://www.v2ex.com/t/676824) 
+- [【V2EX】2020-05-29-请问有人能推荐一个-SS-的安装脚本和配置参数吗？](https://www.v2ex.com/t/676823) 
+- [【V2EX】2020-05-29-你怎样设置一个个性又不被占用的-ID？](https://www.v2ex.com/t/676822) 
+- [【V2EX】2020-05-29-量子论测量问题与康德的第四谬误推理批判](https://www.v2ex.com/t/676820) 
+- [【V2EX】2020-05-29-第一次租房-过几天去看房-确认了就付租金了-请问各位看房的时候什么地方该着重注意？谢谢](https://www.v2ex.com/t/676819) 
+- [【V2EX】2020-05-29-618-哪家买-iPhone11-划算啊？](https://www.v2ex.com/t/676818) 
+- [【V2EX】2020-05-29-听说微信可以修改微信号了~~](https://www.v2ex.com/t/676816) 
+- [【V2EX】2020-05-29-营销短信的轰炸问题](https://www.v2ex.com/t/676815) 
+- [【V2EX】2020-05-29-问个问题，面试了一家企业，说是周五给回信，结果也没有给回信，这个要不要打电话问一下呢？有没有必要呢？...](https://www.v2ex.com/t/676814) 
+- [【V2EX】2020-05-29-「实习+校招」-字节跳动-懂车帝-创新业务线-SaaS-后台开发工程师](https://www.v2ex.com/t/676813) 
+- [【V2EX】2020-05-29-出树莓派-3B+,-255](https://www.v2ex.com/t/676812) 
+- [【V2EX】2020-05-29-实在受不了家里拉跨的网络](https://www.v2ex.com/t/676811) 
+- [【V2EX】2020-05-29-淘宝-app-的推送，已经在走流氓路线了吗？](https://www.v2ex.com/t/676810) 
+- [【V2EX】2020-05-29-正则或疑问](https://www.v2ex.com/t/676809) 
+- [【V2EX】2020-05-29-进击的巨人最终季-PV-他来了他迈着脚步来了！](https://www.v2ex.com/t/676808) 
+- [【V2EX】2020-05-29-go-溢价这么高你们为啥觉得不好呢](https://www.v2ex.com/t/676807) 
+- [【V2EX】2020-05-29-问个外包的问题](https://www.v2ex.com/t/676806) 
+- [【V2EX】2020-05-29-使-firefox-拥有-chromium-风格的右键菜单](https://www.v2ex.com/t/676805) 
+- [【V2EX】2020-05-29-请问大家怎么看待数据分析这一岗位，是否真的很有前途！](https://www.v2ex.com/t/676804) 
 - [【V2EX】2020-05-29-用-try...except...提高代码的稳定性，是否是好习惯？](https://www.v2ex.com/t/676803) 
 - [【V2EX】2020-05-29-苏州现在工作好找吗?](https://www.v2ex.com/t/676801) 
 - [【V2EX】2020-05-29-深圳联通准备硬刚](https://www.v2ex.com/t/676800) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -18,5 +18,8 @@
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
 - [2020-05-28-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e) 
+- [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
+- [2020-05-29-招聘-Golang-工程师一枚，弹性上班，加班非常少](https://www.v2ex.com/t/676564) 
 - [2020-05-29-字节跳动面试题：用户在线波峰计算](https://toutiao.io/k/0bjeo45) 
 - [2020-05-29-推荐-大厂面试过程复盘（微信/阿里/头条，附答案篇）](https://toutiao.io/k/etupxa6) 

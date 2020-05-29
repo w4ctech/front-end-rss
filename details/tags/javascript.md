@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -8,6 +8,17 @@
 
 
 - [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe) 
+- [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf) 
+- [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de) 
+- [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48) 
+- [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
+- [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
+- [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
+- [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
+- [2020-05-26-javascript-近乎神话般的概念：闭包](https://www.ershicimi.com/p/0181385d9f9f88c56b3f566a71c20d64) 
+- [2020-05-25-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/03bfc1404951fdd4edd89eae1b1b605e) 
+- [2020-05-24-一起探讨-JavaScript-的对象](https://www.ershicimi.com/p/c7d67e50a9cb02dcec5fcea1dafc27d6) 
+- [2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3) 
 - [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
 - [2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6) 
@@ -42,6 +53,8 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
+- [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573) 
+- [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552) 
 - [2020-05-29-我去，你竟然还不会用-this-关键字](https://toutiao.io/k/5sd3l9w) 
 - [2020-05-29-编译原理：从-0-写一个-js-解释器](https://toutiao.io/k/w6pctdl) 
 - [2020-05-29-译-JavaScript-vs-Dart-两者之间的比较](https://toutiao.io/k/zt4705v) 

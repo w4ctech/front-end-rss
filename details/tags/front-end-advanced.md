@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,6 +8,7 @@
 
 
 - [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
+- [2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11) 
 - [2020-05-27-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495) 
 - [2020-05-26-据说，80%的人都搞不懂哈希算法](https://www.ershicimi.com/p/db579140f0f341b89661e4bc25a105c6) 
 - [2020-05-25-前端进阶算法：头条正在面的哈希表问题](https://www.ershicimi.com/p/477f08f1c0e0dd47e8921e850a88cfbb) 
@@ -19,3 +20,5 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-05-29-北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559) 

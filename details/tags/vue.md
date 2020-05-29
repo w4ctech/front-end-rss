@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -19,6 +19,13 @@
 - [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443) 
 - [2020-05-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56) 
 - [2020-05-23-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7) 
+- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
+- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
+- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
+- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-05-26-几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d) 
+- [2020-05-24-【纯干货】Vue仿蘑菇街商城项目vue+koa+mongodb）](https://www.ershicimi.com/p/df14669b76bd3ee2124a3095061c087f) 
+- [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) 
 - [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b) 
 - [2020-05-25-Vue3.0来了，看看尤大大画的重点](https://www.ershicimi.com/p/16ad94dbe0bc186cb44bedddf1d0f17f) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
@@ -26,3 +33,4 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
+- [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 

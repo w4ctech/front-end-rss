@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -10,6 +10,7 @@
 - [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) 
 - [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) 
 - [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e) 
+- [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113) 
 - [2020-05-25-Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec) 
 - [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) 
 - [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) 
@@ -22,3 +23,6 @@
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
+- [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774) 
+- [2020-05-20-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/3ffe5ea768d19808f49f3017f2dec2b9) 
+- [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 

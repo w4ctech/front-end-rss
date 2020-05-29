@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -25,3 +25,4 @@
 - [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0) 
 - [2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
+- [2020-05-29-能力更新-React-Native-SDK-内测版发布](https://www.v2ex.com/t/676612) 

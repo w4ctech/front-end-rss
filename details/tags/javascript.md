@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,6 +31,7 @@
 - [2020-05-26-我和大佬之间差一个JS工具函数大全..建议收藏](https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb) 
 - [2020-05-21-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/6a33e1a04d4f90c93d1f71534e7f9690) 
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2018-10-22-单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/) 
 - [2017-11-27-网页适配-iPhoneX，就是这么简单](https://aotu.io/notes/2017/11/27/iphonex/) 
 - [2017-11-06-H5动画：轨迹移动](https://aotu.io/notes/2017/11/06/path-animation/) 

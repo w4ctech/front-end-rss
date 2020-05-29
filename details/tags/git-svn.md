@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,4 +14,5 @@
 - [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-05-29-GitHub-换新图标了](https://www.v2ex.com/t/676594) 
 - [2020-05-29-推荐-十个超级实用的-git-命令](https://toutiao.io/k/wwwv4wa) 

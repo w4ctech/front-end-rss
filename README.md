@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 12:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 12:30:14，:rocket: 更新条数: +58， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -38,22 +38,22 @@
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,9 +74,9 @@
 </summary>
 
 
-- [2020-05-29-​日本拟修改节假日法律-在奥运会开闭幕式期间创造连休假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1) ![](assets/new.png)  
-- [2020-05-29-中国政府抗疫医疗专家组抵达苏丹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1) ![](assets/new.png)  
-- [2020-05-29-受疫情冲击-亚洲多国政府出台经济援助计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-​日本拟修改节假日法律-在奥运会开闭幕式期间创造连休假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1)  
+- [2020-05-29-中国政府抗疫医疗专家组抵达苏丹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1)  
+- [2020-05-29-受疫情冲击-亚洲多国政府出台经济援助计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1)  
 - [2020-05-29-中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1)  
 - [2020-05-29-巴西为应对疫情推出的紧急援助计划或将有所延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1)  
 - [2020-05-29-受疫情影响-美国波士顿马拉松赛124年来首次被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1)  
@@ -366,16 +366,16 @@
 </summary>
 
 
-- [2020-05-28-TS-常见问题、难点整理（60多个）](https://www.ershicimi.com/p/9eead0a7eac70f5978e6b88b5817e6cf) ![](assets/new.png)  
-- [2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9) ![](assets/new.png)  
-- [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc) ![](assets/new.png)  
-- [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720) ![](assets/new.png)  
-- [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7) ![](assets/new.png)  
-- [2020-05-24-前端需要了解的9种设计模式](https://www.ershicimi.com/p/6f13e387d6c5dea43d1eb90a2452f07d) ![](assets/new.png)  
-- [2020-05-23-如果郭德纲是个互联网人](https://www.ershicimi.com/p/5cce690b423f0278f50f88e993ee1abe) ![](assets/new.png)  
-- [2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56) ![](assets/new.png)  
-- [2020-05-22-如何实现一个React水印组件](https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210) ![](assets/new.png)  
-- [2020-05-21-阿里技术专家告诉你，如何画出优秀的架构图？](https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467) ![](assets/new.png)  
+- [2020-05-28-TS-常见问题、难点整理（60多个）](https://www.ershicimi.com/p/9eead0a7eac70f5978e6b88b5817e6cf)  
+- [2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9)  
+- [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)  
+- [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720)  
+- [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7)  
+- [2020-05-24-前端需要了解的9种设计模式](https://www.ershicimi.com/p/6f13e387d6c5dea43d1eb90a2452f07d)  
+- [2020-05-23-如果郭德纲是个互联网人](https://www.ershicimi.com/p/5cce690b423f0278f50f88e993ee1abe)  
+- [2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56)  
+- [2020-05-22-如何实现一个React水印组件](https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210)  
+- [2020-05-21-阿里技术专家告诉你，如何画出优秀的架构图？](https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -527,6 +527,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -590,6 +600,16 @@
 </summary>
 
 
+- [2020-05-24-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/743e58355264389fe5a998efae24590e) ![](assets/new.png)  
+- [2020-05-22-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/f13148581b75d6cca439958609c53da2) ![](assets/new.png)  
+- [2020-05-21-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0) ![](assets/new.png)  
+- [2020-05-16-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/0329bb46458b6da90418beacc7814c29) ![](assets/new.png)  
+- [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/b7f57bce9d551db2baf401f44e988281) ![](assets/new.png)  
+- [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) ![](assets/new.png)  
+- [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c) ![](assets/new.png)  
+- [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc) ![](assets/new.png)  
+- [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327) ![](assets/new.png)  
+- [2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -685,7 +705,7 @@
 </summary>
 
 
-- [2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4) ![](assets/new.png)  
+- [2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4)  
 - [2020-05-29-基于promise对axios进行再次封装（兼容前端主流框架）](https://juejin.im/post/5ed078e451882542e8541466)  
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)  
 - [2020-05-29-前端面试官：请使用二分法搜索旋转数组](https://juejin.im/post/5ecfea3451882522c368f5f6)  
@@ -776,26 +796,26 @@
 </summary>
 
 
-- [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573)  
-- [2020-05-29-一个安装-PHP--memcached-扩展的问题](https://www.v2ex.com/t/676572)  
-- [2020-05-29-加入微信-招开发-后端-/-前端-/-高级-中级](https://www.v2ex.com/t/676571)  
-- [2020-05-29-he.net-操作域名返回首页](https://www.v2ex.com/t/676570)  
-- [2020-05-29-BBR-PLUS-自动停止加速模块-怎么解决](https://www.v2ex.com/t/676569)  
-- [2020-05-29-AirPods-Pro-右耳只要动一动，就有揉搓塑料袋的声音，这个去蓝精灵吧能免费修么？](https://www.v2ex.com/t/676568)  
-- [2020-05-29-怎么才能注销账号](https://www.v2ex.com/t/676567)  
-- [2020-05-29-哪里能找到-大学里-那种系统学习计算机技术的相关课程呢](https://www.v2ex.com/t/676566)  
-- [2020-05-29-招聘-Golang-工程师一枚，弹性上班，加班非常少](https://www.v2ex.com/t/676564)  
-- [2020-05-29-关于离职，求建议](https://www.v2ex.com/t/676563)  
-- [2020-05-29-关于-springboot-项目模块划分的疑问](https://www.v2ex.com/t/676562)  
-- [2020-05-29-大佬们，来说说-你们解决的奇葩-bug](https://www.v2ex.com/t/676561)  
-- [2020-05-29-mbp-只用-typec-连接显示器](https://www.v2ex.com/t/676560)  
-- [2020-05-29-北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559)  
-- [2020-05-29-手机文本搜索-APP](https://www.v2ex.com/t/676558)  
-- [2020-05-29-如何看待数理和计算机基础对程序员的作用？](https://www.v2ex.com/t/676556)  
-- [2020-05-29-X570-还是等-B550?](https://www.v2ex.com/t/676555)  
-- [2020-05-29-问下后端大佬们都是这么设计下载文件接口的吗?](https://www.v2ex.com/t/676553)  
-- [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552)  
-- [2020-05-29-前端自动化测试有必要吗？](https://www.v2ex.com/t/676550)  
+- [2020-05-29-小白寻找懂-PHP-的大佬，在下有点问题想请教。。](https://www.v2ex.com/t/676631) ![](assets/new.png)  
+- [2020-05-29-更换手机号带来的麻烦苹果&企鹅](https://www.v2ex.com/t/676630) ![](assets/new.png)  
+- [2020-05-29-如果说谎话真的原地爆炸，那这个世界会是什么样？](https://www.v2ex.com/t/676629) ![](assets/new.png)  
+- [2020-05-29-纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627) ![](assets/new.png)  
+- [2020-05-29-过敏性鼻炎患者，有试过舌下脱敏疗法的朋友吗？](https://www.v2ex.com/t/676625) ![](assets/new.png)  
+- [2020-05-29-杭州-快速内推-世界领先的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/676622) ![](assets/new.png)  
+- [2020-05-29-毕业两年转开发，无项目经验，以“xx-商城”做跳板是否可行？](https://www.v2ex.com/t/676621) ![](assets/new.png)  
+- [2020-05-29-有的有一个类似-Rss-模式的针对短信的-App](https://www.v2ex.com/t/676618) ![](assets/new.png)  
+- [2020-05-29-k2-键盘用起来怎么样](https://www.v2ex.com/t/676617) ![](assets/new.png)  
+- [2020-05-29-工作时间写的开源项目属于公司吗？](https://www.v2ex.com/t/676616) ![](assets/new.png)  
+- [2020-05-29-25-岁程序员焕发第二春，想去学街舞](https://www.v2ex.com/t/676613) ![](assets/new.png)  
+- [2020-05-29-能力更新-React-Native-SDK-内测版发布](https://www.v2ex.com/t/676612) ![](assets/new.png)  
+- [2020-05-29-公司准备集中开发一个月（997），怕坚持不下去=-=](https://www.v2ex.com/t/676611) ![](assets/new.png)  
+- [2020-05-29-mac-布局的京造-K1-无线键盘千万别买](https://www.v2ex.com/t/676610) ![](assets/new.png)  
+- [2020-05-29-现在的软件要收集你电脑里的小姐姐和其他内容了](https://www.v2ex.com/t/676609) ![](assets/new.png)  
+- [2020-05-29-上班摸鱼时做出来的摸鱼导航-233](https://www.v2ex.com/t/676608) ![](assets/new.png)  
+- [2020-05-29-失去了才觉得可惜..80-块钱-2-核-4G-内存-5M-带宽-50G-硬盘-20IP.哪里找啊](https://www.v2ex.com/t/676607) ![](assets/new.png)  
+- [2020-05-29-MBP-风扇一直高转速怎么办](https://www.v2ex.com/t/676606) ![](assets/new.png)  
+- [2020-05-29-如何判断-callable-隐含参数-self-是自己？](https://www.v2ex.com/t/676605) ![](assets/new.png)  
+- [2020-05-29-求助如何纠正猫猫咬人](https://www.v2ex.com/t/676604) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -818,6 +838,8 @@
 </summary>
 
 
+- [2020-05-29-推荐-不就看一下-Java-后端开发书架吗？这有啥不行](https://toutiao.io/k/ywfkkkj) ![](assets/new.png)  
+- [2020-05-29-推荐-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e) ![](assets/new.png)  
 - [2020-05-29-推荐-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as)  
 - [2020-05-29-推荐-拼多多和酷家乐面试总结（已拿-Offer）](https://toutiao.io/k/fp7twf8)  
 - [2020-05-29-推荐-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq)  
@@ -836,8 +858,6 @@
 - [2020-05-29-Python-为什么不用分号作终止符？](https://toutiao.io/k/ywqwrot)  
 - [2020-05-29-基于-Pytest-豆瓣自动化测试（一）](https://toutiao.io/k/rzpe5o4)  
 - [2020-05-29-iOS-渲染原理解析](https://toutiao.io/k/x719z3d)  
-- [2020-05-29-ServiceRank：使用马科夫链对微服务进行影响力评分](https://toutiao.io/k/12wlk8m)  
-- [2020-05-29-字节跳动面试题：用户在线波峰计算](https://toutiao.io/k/0bjeo45)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -26,6 +26,7 @@
 - [2020-05-26-几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d) 
 - [2020-05-24-【纯干货】Vue仿蘑菇街商城项目vue+koa+mongodb）](https://www.ershicimi.com/p/df14669b76bd3ee2124a3095061c087f) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe) 
 - [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) 
 - [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b) 
 - [2020-05-25-Vue3.0来了，看看尤大大画的重点](https://www.ershicimi.com/p/16ad94dbe0bc186cb44bedddf1d0f17f) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 17:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -57,8 +57,8 @@
 - [【奇舞周刊】从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0)
 - [【奇舞周刊】10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566)
 - [【前端e进阶】早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08)
+- [【掘金前端】学习React哲学的一次实践](https://juejin.im/post/5ed0d0546fb9a047eb398787)
 - [【掘金前端】玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88)
-- [【掘金前端】名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -94,7 +94,7 @@
 - [【前端大学】几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d)
 - [【前端大学】【纯干货】Vue仿蘑菇街商城项目vue+koa+mongodb）](https://www.ershicimi.com/p/df14669b76bd3ee2124a3095061c087f)
 - [【前端外刊评论】使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2)
-- [【前端迷】请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63)
+- [【前端之巅】尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -317,6 +317,7 @@
 
 
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
+- [【前端之巅】云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)
 - [【前端迷】深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/1e3a677ee97fc2a7f3cd957824264530)
 - [【前端宇宙】相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e)
 - [【Nodejs技术栈】Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2)
@@ -335,7 +336,6 @@
 - [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [【凹凸实验室】一个例子上手SVG动画](https://aotu.io/notes/2017/05/04/example-for-svg-animation/)
 - [【凹凸实验室】使用-Snap.svg-制作动画](https://aotu.io/notes/2017/01/22/snapsvg/)
-- [【凹凸实验室】sass-svg-一个内联-SVG-的-SASS-库](https://aotu.io/notes/2017/01/19/sass-svg/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -391,6 +391,8 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招音视频资深/专家级工程师](https://www.v2ex.com/t/676770)
+- [【V2EX】不用-sdk-开发一个视频聊天系统应该从哪方面入手](https://www.v2ex.com/t/676741)
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-/...](https://www.v2ex.com/t/676716)
 - [【V2EX】如何搭建低延时、交互式的在线教育平台？（内附视频回放）](https://www.v2ex.com/t/676590)
 - [【开发者头条】用-WebRTC-的-Insertable-Streams-API-把元数据添加到媒体帧](https://toutiao.io/k/dggpr64)
@@ -456,8 +458,8 @@
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【InfoQ】Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】chrome-插件-V2EX-plus-的-快捷键怎么关闭啊？](https://www.v2ex.com/t/676710)
-- [【V2EX】mac-如何查看-ie-浏览器才能查看的网页](https://www.v2ex.com/t/676705)
+- [【V2EX】最新一波活动，安全产品免费使用，诚邀-v2-小伙伴参加](https://www.v2ex.com/t/676776)
+- [【V2EX】字节跳动安全岗位内推](https://www.v2ex.com/t/676762)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -488,6 +490,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
+- [【V2EX】杭州-内推有红包🧧海拍客急招算法专家、搜索专家](https://www.v2ex.com/t/676786)
 - [【V2EX】纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627)
 - [【V2EX】北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559)
 - [【开发者头条】基于-DNN-的推荐算法介绍](https://toutiao.io/k/7omj94e)
@@ -509,6 +512,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【V2EX】docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

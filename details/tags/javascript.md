@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -60,6 +60,9 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
+- [2020-05-29-uni-app开发H5-第三方微信授权登录的实现](https://juejin.im/post/5ece318c6fb9a047d245cae6) 
+- [2020-05-29-是天使还是魔鬼？重新思考jsx](https://juejin.im/post/5ed0bf47e51d4578540fd356) 
+- [2020-05-29-24个ES6方法，用来解决实际开发的JS问题！！](https://juejin.im/post/5ed08019e51d45786973c2e9) 
 - [2020-05-29-基于promise对axios进行再次封装（兼容前端主流框架）](https://juejin.im/post/5ed078e451882542e8541466) 
 - [2020-05-29-前端面试官：请使用二分法搜索旋转数组](https://juejin.im/post/5ecfea3451882522c368f5f6) 
 - [2020-05-29-转行学前端的第-51-天-:-了解-ECMAScript-Math对象一](https://juejin.im/post/5ecfdd31f265da77126fba62) 
@@ -73,6 +76,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-05-29-提问-声明一个成员变量，在局部方法中初始化，是否有线程安全问题？](https://www.v2ex.com/t/676763) 
 - [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573) 
 - [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552) 
 - [2020-05-29-我去，你竟然还不会用-this-关键字](https://toutiao.io/k/5sd3l9w) 

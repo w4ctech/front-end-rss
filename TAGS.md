@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -457,9 +457,9 @@
 - [【前端日刊】趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0)
 - [【前端e进阶】关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717)
 - [【InfoQ】Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a)
+- [【掘金前端】websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】最新一波活动，安全产品免费使用，诚邀-v2-小伙伴参加](https://www.v2ex.com/t/676776)
-- [【V2EX】字节跳动安全岗位内推](https://www.v2ex.com/t/676762)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

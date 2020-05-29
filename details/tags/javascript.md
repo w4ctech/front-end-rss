@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -61,6 +61,7 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
+- [2020-05-29-webworker-使用实记](https://juejin.im/post/5ed0cc0151882543216f00f8) 
 - [2020-05-29-uni-app开发H5-第三方微信授权登录的实现](https://juejin.im/post/5ece318c6fb9a047d245cae6) 
 - [2020-05-29-是天使还是魔鬼？重新思考jsx](https://juejin.im/post/5ed0bf47e51d4578540fd356) 
 - [2020-05-29-24个ES6方法，用来解决实际开发的JS问题！！](https://juejin.im/post/5ed08019e51d45786973c2e9) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -195,6 +195,8 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-05-29-useRef使用总结](https://juejin.im/post/5ed0a516f265da76ba7b0d66) 
+- [2020-05-29-nuxt入门踩坑记录](https://juejin.im/post/5ed0b81df265da76d109e4c3) 
 - [2020-05-29-不知道怎么提高代码可扩展性？来看看优秀框架源码中的这几种设计模式吧!](https://juejin.im/post/5ed0a2286fb9a047e02ef121) 
 - [2020-05-29-ZooTeam-前端周刊｜第-84-期](https://juejin.im/post/5ed0d4bde51d457875601aa5) 
 - [2020-05-29-PC端-车险行业的车牌号输入-·-语雀](https://www.yuque.com/docs/share/925b804f-2ee1-47dd-b7ab-7640ded577f0?#) 
@@ -230,6 +232,11 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-29-用-try...except...提高代码的稳定性，是否是好习惯？](https://www.v2ex.com/t/676803) 
+- [2020-05-29-苏州现在工作好找吗?](https://www.v2ex.com/t/676801) 
+- [2020-05-29-深圳联通准备硬刚](https://www.v2ex.com/t/676800) 
+- [2020-05-29-北京-脉脉-内推-非-996，成功入职有大奖拿](https://www.v2ex.com/t/676799) 
+- [2020-05-29-求简历，-shopee-内推](https://www.v2ex.com/t/676798) 
 - [2020-05-29-shopee-内推](https://www.v2ex.com/t/676797) 
 - [2020-05-29-hashicorp-旗下软件（Terraform/Consul/Vagrant-等）禁止在中国使用](https://www.v2ex.com/t/676795) 
 - [2020-05-29-MIUI-11-是否无法导入-Fiddler-根证书？](https://www.v2ex.com/t/676793) 

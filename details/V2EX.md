@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-29-用-try...except...提高代码的稳定性，是否是好习惯？](https://www.v2ex.com/t/676803) 
+- [2020-05-29-苏州现在工作好找吗?](https://www.v2ex.com/t/676801) 
+- [2020-05-29-深圳联通准备硬刚](https://www.v2ex.com/t/676800) 
+- [2020-05-29-北京-脉脉-内推-非-996，成功入职有大奖拿](https://www.v2ex.com/t/676799) 
+- [2020-05-29-求简历，-shopee-内推](https://www.v2ex.com/t/676798) 
 - [2020-05-29-shopee-内推](https://www.v2ex.com/t/676797) 
 - [2020-05-29-老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796) 
 - [2020-05-29-hashicorp-旗下软件（Terraform/Consul/Vagrant-等）禁止在中国使用](https://www.v2ex.com/t/676795) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -875,6 +875,7 @@
 - [2020-04-20-你需要知道的7个前端关键技能](https://www.ershicimi.com/p/325ab50c8ff50459cf489b05bdfb91f5) 
 - [2020-04-14-已经-2020-年了-Deno-现在怎么样了?-|-来自知乎一个回答](https://www.ershicimi.com/p/2fd814347adf358fb707a4655d58cf4e) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) 
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) 
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html) 

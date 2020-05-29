@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 08:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-05-29-中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1) ![](assets/new.png)  
-- [2020-05-29-巴西为应对疫情推出的紧急援助计划或将有所延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1) ![](assets/new.png)  
-- [2020-05-29-受疫情影响-美国波士顿马拉松赛124年来首次被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1) ![](assets/new.png)  
-- [2020-05-29-确诊病例超12万-非洲多国调整防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8wKZnu00HhEsgeCAmbi0200529&isfromapp=1) ![](assets/new.png)  
-- [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) ![](assets/new.png)  
+- [2020-05-29-中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1)  
+- [2020-05-29-巴西为应对疫情推出的紧急援助计划或将有所延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1)  
+- [2020-05-29-受疫情影响-美国波士顿马拉松赛124年来首次被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1)  
+- [2020-05-29-确诊病例超12万-非洲多国调整防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8wKZnu00HhEsgeCAmbi0200529&isfromapp=1)  
+- [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1)  
 - [2020-05-28-世卫组织：全球新冠肺炎超过559万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1)  
 - [2020-05-28-巴西失业率达12.6%，新增失业人数490万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1)  
 - [2020-05-28-印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1)  
@@ -679,6 +679,7 @@
 </summary>
 
 
+- [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) ![](assets/new.png)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
@@ -1073,17 +1074,17 @@
 </summary>
 
 
-- [2020-05-29-C++-代码自动分割线生成工具？](https://www.v2ex.com/t/676517) ![](assets/new.png)  
-- [2020-05-29-为啥京东和淘宝-Web-网站的界面那么丑，是不是都被战略放弃了](https://www.v2ex.com/t/676516) ![](assets/new.png)  
-- [2020-05-29-记得安卓上的微信来了一条通知推送，点开就能直达这个通知的内容，但是苹果的微信通知点开之后是打开微信，然后再找到通知内容。](https://www.v2ex.com/t/676515) ![](assets/new.png)  
-- [2020-05-29-为了规避刷题的痛苦，转为产品经理是否可行](https://www.v2ex.com/t/676514) ![](assets/new.png)  
-- [2020-05-29-守望先锋也白嫖喜加一了](https://www.v2ex.com/t/676513) ![](assets/new.png)  
-- [2020-05-29-这个时间点是是直接入手-MacBook-Pro-16-寸-2019-款，还是等今年-2020-的新款？](https://www.v2ex.com/t/676512) ![](assets/new.png)  
-- [2020-05-29-出国定居后公积金能取出来吗？](https://www.v2ex.com/t/676511) ![](assets/new.png)  
-- [2020-05-29-花为推出电子脚拷](https://www.v2ex.com/t/676510) ![](assets/new.png)  
-- [2020-05-29-请教各位-Node.js-大佬一个问题](https://www.v2ex.com/t/676509) ![](assets/new.png)  
-- [2020-05-29-深圳南山-，非-IT-公司数岗待领。](https://www.v2ex.com/t/676508) ![](assets/new.png)  
-- [2020-05-29-深圳南山-965-保险行业招聘前端两位](https://www.v2ex.com/t/676507) ![](assets/new.png)  
+- [2020-05-29-C++-代码自动分割线生成工具？](https://www.v2ex.com/t/676517)  
+- [2020-05-29-为啥京东和淘宝-Web-网站的界面那么丑，是不是都被战略放弃了](https://www.v2ex.com/t/676516)  
+- [2020-05-29-记得安卓上的微信来了一条通知推送，点开就能直达这个通知的内容，但是苹果的微信通知点开之后是打开微信，然后再找到通知内容。](https://www.v2ex.com/t/676515)  
+- [2020-05-29-为了规避刷题的痛苦，转为产品经理是否可行](https://www.v2ex.com/t/676514)  
+- [2020-05-29-守望先锋也白嫖喜加一了](https://www.v2ex.com/t/676513)  
+- [2020-05-29-这个时间点是是直接入手-MacBook-Pro-16-寸-2019-款，还是等今年-2020-的新款？](https://www.v2ex.com/t/676512)  
+- [2020-05-29-出国定居后公积金能取出来吗？](https://www.v2ex.com/t/676511)  
+- [2020-05-29-花为推出电子脚拷](https://www.v2ex.com/t/676510)  
+- [2020-05-29-请教各位-Node.js-大佬一个问题](https://www.v2ex.com/t/676509)  
+- [2020-05-29-深圳南山-，非-IT-公司数岗待领。](https://www.v2ex.com/t/676508)  
+- [2020-05-29-深圳南山-965-保险行业招聘前端两位](https://www.v2ex.com/t/676507)  
 - [2020-05-29-TikTok-是逗音吗，在有图比上狂砸广告啊](https://www.v2ex.com/t/676506)  
 - [2020-05-29-字节跳动-全岗位日常实习招聘，有转正机会无笔试，快上车！](https://www.v2ex.com/t/676505)  
 - [2020-05-29-Golang-学习项目](https://www.v2ex.com/t/676504)  

@@ -11,6 +11,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​今天起，广州学生在校园内可不戴口罩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1",
+        "date": "2020-05-29"
+      },
+      {
         "title": "拉美新冠肺炎确诊病例超88万，多国或延长隔离措施",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1",
         "date": "2020-05-29"
@@ -988,6 +993,16 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "手写async await的最简实现（20行搞定）！阿里字节面试必考",
+        "link": "https://www.ershicimi.com/p/acb63ddde2cf6a1c6b02f8cb51260f33",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "24张图，九大数据结构安排得明明白白！",
+        "link": "https://www.ershicimi.com/p/42ed7d0f7463e9a8e58831368d6cc344",
+        "date": "2020-05-29"
+      },
       {
         "title": "微前端在小米 CRM 系统的实践",
         "link": "https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7",

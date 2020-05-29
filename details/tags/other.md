@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 12:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -271,6 +271,21 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-05-29-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-为批量图片添加外阴影效果-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13482&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F05%2F25%2F164-adding-shadow-effect-to-batch-image%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-从零搭建深度学习框架（二）用Python实现计算图和自动微分-johnhany.net](https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13479&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjoV6T1pvjQySUFCPmUHwoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-趁手利器，FSuper-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13477&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZy4xiyHZA4jgbmOlv7fKrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-Android-9.0-Launcher启动详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13475&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbpDQJKjyQz_nbuTzmdY-sA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-大神碉堡！99-行代码实现的神奇效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13474&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMo1D3vTUjNwd-7SVf7sYpw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-字节跳动-前端面经（4轮技术面+hr面）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13473&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQmC9zWMDisPHo6ZEvYJizg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-秒懂-区块链-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13472&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpAfJZtK6bww6lzNxty_qrw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-必学的-10-大顶级-Python-库！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13471&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeqmAgZY6lNU2irSEKkWr_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-频频被点名的“区块链”，到底是个啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13470&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCQ4h0GxACuGsagDDT76y5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-推荐-不就看一下-Java-后端开发书架吗？这有啥不行](https://toutiao.io/k/ywfkkkj) 
 - [2020-05-29-推荐-什么，秒杀系统也有这么多种](https://toutiao.io/k/zt6b6as) 
 - [2020-05-29-推荐-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq) 

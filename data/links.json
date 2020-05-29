@@ -11,6 +11,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "拉美新冠肺炎确诊病例超88万，多国或延长隔离措施",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "多国开始复工复产，政府推刺激计划提振经济",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1",
+        "date": "2020-05-29"
+      },
+      {
         "title": "​日本拟修改节假日法律 在奥运会开闭幕式期间创造连休假期",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1",
         "date": "2020-05-29"
@@ -2906,13 +2916,164 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/198",
     "title": "知乎日报",
     "link": "https://www.ershicimi.com/a/198",
-    "items": []
+    "items": [
+      {
+        "title": "8 个看似简单的心理学小技巧，学会了却能受益终生",
+        "link": "https://www.ershicimi.com/p/5d4d8726f8a2fdf5d121c3c8de5d857f",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "知乎好问题：如何看待首个国产 HPV 疫苗获批上市，定价 329 元一支？",
+        "link": "https://www.ershicimi.com/p/6ca5493dfc7aeb3ed006c97cc77aa74d",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "如何开启一段不尴尬的聊天？",
+        "link": "https://www.ershicimi.com/p/74753e942af7ab587ddaf1b22db194f4",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "知乎故事 | 和异性合租是种怎样的体验？",
+        "link": "https://www.ershicimi.com/p/401c5805fc73f91bbc341411acc6b08c",
+        "date": "2020-05-28"
+      },
+      {
+        "title": "知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？",
+        "link": "https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "姚明：疫情让人看到个人渺小，汇成集体力量无限 | 两会云问答",
+        "link": "https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "比勤奋更能决定你人生的，是你的选择",
+        "link": "https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "知乎故事 | 和平分手是怎样一种体验？",
+        "link": "https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a",
+        "date": "2020-05-27"
+      },
+      {
+        "title": "何鸿燊从不赌钱，为何会被称为「赌王」？",
+        "link": "https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7",
+        "date": "2020-05-26"
+      },
+      {
+        "title": "618 神攻略 | 为了让你 618 更豪横，我们把百万购物基金准备好了",
+        "link": "https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83",
+        "date": "2020-05-26"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/v2ex/topics/latest",
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "微信号可以更改了",
+        "link": "https://www.v2ex.com/t/676689",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "[关于外包] 第一次进外包该注意什么？",
+        "link": "https://www.v2ex.com/t/676688",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "路上遇到借钱的大家会怎么做呢？",
+        "link": "https://www.v2ex.com/t/676687",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "坐标北京，诚招海外增长运营， 30K-60K 等你来拿，欢迎详聊～～～",
+        "link": "https://www.v2ex.com/t/676685",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "上海电信宽带最近有什么活动吗?",
+        "link": "https://www.v2ex.com/t/676684",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "有已经入了 ROG 幻 14 的小伙伴吗来说说感受如何?顺便求个靠谱代购渠道",
+        "link": "https://www.v2ex.com/t/676683",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "大家是如何骑驴找马的",
+        "link": "https://www.v2ex.com/t/676682",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "杭州-阿里系创业公司-前端 [招募中]",
+        "link": "https://www.v2ex.com/t/676681",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "坐标北京，诚招海外增长运营， 30k-60k 等你来拿，欢迎详聊～～～",
+        "link": "https://www.v2ex.com/t/676680",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "为什么后端开发都喜欢自己定义 responseCode？ HTTP 状态码不够用吗？",
+        "link": "https://www.v2ex.com/t/676678",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "13 寸 MBP 使用官方转换器 HDMI 可以 4k60Hz?",
+        "link": "https://www.v2ex.com/t/676676",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "京东系统升级把购物车商品全清空了？",
+        "link": "https://www.v2ex.com/t/676675",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "iPhone 11 两天内死机后自动重启 3 次",
+        "link": "https://www.v2ex.com/t/676674",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "下大雨水浸街的时候，大家会穿凉鞋/拖鞋上班吗？",
+        "link": "https://www.v2ex.com/t/676671",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "Node.js 有哪些好用的后端框架？最好带有脚手架",
+        "link": "https://www.v2ex.com/t/676667",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "关于小公司组网的问题",
+        "link": "https://www.v2ex.com/t/676666",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "Android 开发高手们，如何从 apk 文件中读取打包的文件？",
+        "link": "https://www.v2ex.com/t/676664",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "第一次见天猫 apple 官方旗舰店搞大促，坐等 pdd 再降价。",
+        "link": "https://www.v2ex.com/t/676663",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "百度翻译的文档翻译功能挂了",
+        "link": "https://www.v2ex.com/t/676662",
+        "date": "2020-05-29"
+      },
+      {
+        "title": "大家是怎么看转场动画的？",
+        "link": "https://www.v2ex.com/t/676660",
+        "date": "2020-05-29"
+      },
       {
         "title": "杭州 Java 应届求职",
         "link": "https://www.v2ex.com/t/676657",
@@ -3390,6 +3551,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "以深度学习为例理解22种设计模式（一）创建型模式 (johnhany.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-29"
+      },
       {
         "title": "新一代BDD框架Gauge+Taiko (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -25,6 +25,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-05-29-为什么后端开发都喜欢自己定义-responseCode？-HTTP-状态码不够用吗？](https://www.v2ex.com/t/676678) 
 - [2020-05-29-突然发现-Teamviewer-连接居然要手机号了？！](https://www.v2ex.com/t/676593) 
 - [2020-05-29-zerotier-cli-listpeers-有几个看不懂的-LEAF，求解](https://www.v2ex.com/t/676589) 
 - [2020-05-29-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

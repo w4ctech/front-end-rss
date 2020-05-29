@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-29 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 17:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1) 
 - [2020-05-29-宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1) 
 - [2020-05-29-​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1) 
 - [2020-05-29-多国开始复工复产，政府推刺激计划提振经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1) 
@@ -155,6 +156,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0) 
 - [2020-05-22-奇舞周刊第-350-期：前端状态管理设计，优雅与妥协的艺术](https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56) 
 - [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee) 
 - [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183) 
@@ -191,6 +193,9 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-05-29-突然上手Angular](https://juejin.im/post/5ed077c051882543023c0120) 
+- [2020-05-29-angular8-日常开发填坑指南](https://juejin.im/post/5ed080ebe51d45788325f27e) 
+- [2020-05-29-一个函数让你彻底了解闭包和函数柯里化](https://juejin.im/post/5ed0855c5188253684676ff6) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
 - [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 

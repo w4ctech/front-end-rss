@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 17:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-拉美新冠肺炎确诊病例超88万，多国或延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1) 
@@ -280,6 +281,7 @@
 - [【凹凸实验室】2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0) 
 - [【奇舞周刊】2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [【奇舞周刊】2020-05-25-React源码揭秘三：Diff算法详解](https://www.ershicimi.com/p/c452b8749f4d5fc93e770e60850d6b86) 
 - [【奇舞周刊】2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d) 
@@ -330,6 +332,11 @@
 - [【JavaScript】2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
 - [【JavaScript】2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
 - [【JavaScript】2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
+- [【掘金前端】2020-05-29-突然上手Angular](https://juejin.im/post/5ed077c051882543023c0120) 
+- [【掘金前端】2020-05-29-angular8-日常开发填坑指南](https://juejin.im/post/5ed080ebe51d45788325f27e) 
+- [【掘金前端】2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) 
+- [【掘金前端】2020-05-29-名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6) 
+- [【掘金前端】2020-05-29-一个函数让你彻底了解闭包和函数柯里化](https://juejin.im/post/5ed0855c5188253684676ff6) 
 - [【掘金前端】2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4) 
 - [【掘金前端】2020-05-29-基于promise对axios进行再次封装（兼容前端主流框架）](https://juejin.im/post/5ed078e451882542e8541466) 
 - [【掘金前端】2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 

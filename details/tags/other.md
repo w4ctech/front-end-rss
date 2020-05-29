@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-29 23:30:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-29-​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1) 
 - [2020-05-29-加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1) 
 - [2020-05-29-印度人脸口罩亮相-这次手机能识别吗？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1) 
 - [2020-05-29-日本北九州市疫情抬头-当地严阵以待](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1) 

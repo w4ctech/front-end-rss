@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 02:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 04:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -391,6 +391,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865)
 - [【V2EX】火爆招聘中上海/杭州阿里云-视频基础技术团队-视频-AI-工程开发](https://www.v2ex.com/t/676860)
 - [【V2EX】Mac-OS-有什么视频转换软件吗？只想转变格式-不想动内容。](https://www.v2ex.com/t/676849)
 - [【V2EX】油管这点太烦人了，不如国内视频站。](https://www.v2ex.com/t/676839)
@@ -398,7 +399,6 @@
 - [【V2EX】不用-sdk-开发一个视频聊天系统应该从哪方面入手](https://www.v2ex.com/t/676741)
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-/...](https://www.v2ex.com/t/676716)
 - [【V2EX】如何搭建低延时、交互式的在线教育平台？（内附视频回放）](https://www.v2ex.com/t/676590)
-- [【开发者头条】用-WebRTC-的-Insertable-Streams-API-把元数据添加到媒体帧](https://toutiao.io/k/dggpr64)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

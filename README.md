@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 02:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -858,7 +858,8 @@
 </summary>
 
 
-- [2020-05-30-你愿意在穷人区里当富人还是愿意在富人区里当穷人?](https://www.v2ex.com/t/676864) ![](assets/new.png)  
+- [2020-05-30-远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865) ![](assets/new.png)  
+- [2020-05-30-你愿意在穷人区里当富人还是愿意在富人区里当穷人?](https://www.v2ex.com/t/676864)  
 - [2020-05-30-这些技能清单是不是太菜了,-17-年毕业](https://www.v2ex.com/t/676863)  
 - [2020-05-30-Notion-Emoji](https://www.v2ex.com/t/676862)  
 - [2020-05-30-估算了这辈子能看多少小时小电影，觉得人生苦短](https://www.v2ex.com/t/676861)  
@@ -877,7 +878,6 @@
 - [2020-05-29-VMware-Workstation-15.5.5-已经支持与-Win10-Hyper-V-共存了](https://www.v2ex.com/t/676844)  
 - [2020-05-29-大家有没有智能批量修改文件名的方法或技巧](https://www.v2ex.com/t/676843)  
 - [2020-05-29-VMWare-安装-macOS-虚拟机使用-Surge-作为代理网关，其他设备要连这个网关该怎么设置啊？有没有大佬搞过](https://www.v2ex.com/t/676842)  
-- [2020-05-29-在看-UMAP-的原理，发现完全不懂很多概念，有谁能推荐一本拓扑学的入门书吗？](https://www.v2ex.com/t/676841)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

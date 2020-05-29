@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 13:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -66,6 +66,7 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-05-29-如何建立自己的前端知识体系？](https://www.ershicimi.com/p/51e09e6b1f7b77ecca789e5c63df5afb) 
 - [2020-05-28-TS-常见问题、难点整理（60多个）](https://www.ershicimi.com/p/9eead0a7eac70f5978e6b88b5817e6cf) 
 - [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720) 
 - [2020-05-24-前端需要了解的9种设计模式](https://www.ershicimi.com/p/6f13e387d6c5dea43d1eb90a2452f07d) 

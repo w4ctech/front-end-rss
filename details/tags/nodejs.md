@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 13:30:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -11,6 +11,7 @@
 - [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) 
 - [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e) 
 - [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113) 
+- [2020-05-29-《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b) 
 - [2020-05-25-Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec) 
 - [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) 
 - [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) 

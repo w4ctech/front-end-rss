@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -491,6 +491,7 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
+- [【V2EX】老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796)
 - [【V2EX】杭州-内推有红包🧧海拍客急招算法专家、搜索专家](https://www.v2ex.com/t/676786)
 - [【V2EX】纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627)
 - [【V2EX】北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559)

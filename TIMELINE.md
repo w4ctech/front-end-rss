@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -367,6 +367,14 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-29-shopee-内推](https://www.v2ex.com/t/676797) 
+- [【V2EX】2020-05-29-老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796) 
+- [【V2EX】2020-05-29-hashicorp-旗下软件（Terraform/Consul/Vagrant-等）禁止在中国使用](https://www.v2ex.com/t/676795) 
+- [【V2EX】2020-05-29-MIUI-11-是否无法导入-Fiddler-根证书？](https://www.v2ex.com/t/676793) 
+- [【V2EX】2020-05-29-jd-与-tb-的差距](https://www.v2ex.com/t/676792) 
+- [【V2EX】2020-05-29-有会引流的吗](https://www.v2ex.com/t/676791) 
+- [【V2EX】2020-05-29-有热爱户外运动的小伙伴吗～-求带，求认领，求加入组织！没有组织的我想建一个群～](https://www.v2ex.com/t/676790) 
+- [【V2EX】2020-05-29-vcpkg-维护团队能力不足啊](https://www.v2ex.com/t/676789) 
 - [【V2EX】2020-05-29-windows-recv-函数内存增加？](https://www.v2ex.com/t/676788) 
 - [【V2EX】2020-05-29-杭州-内推有红包🧧海拍客急招算法专家、搜索专家](https://www.v2ex.com/t/676786) 
 - [【V2EX】2020-05-29-有台闲置的戴尔-R610-双路-X5670，可以做啥对得起电费的事呢](https://www.v2ex.com/t/676785) 

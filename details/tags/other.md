@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -230,6 +230,13 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-29-shopee-内推](https://www.v2ex.com/t/676797) 
+- [2020-05-29-hashicorp-旗下软件（Terraform/Consul/Vagrant-等）禁止在中国使用](https://www.v2ex.com/t/676795) 
+- [2020-05-29-MIUI-11-是否无法导入-Fiddler-根证书？](https://www.v2ex.com/t/676793) 
+- [2020-05-29-jd-与-tb-的差距](https://www.v2ex.com/t/676792) 
+- [2020-05-29-有会引流的吗](https://www.v2ex.com/t/676791) 
+- [2020-05-29-有热爱户外运动的小伙伴吗～-求带，求认领，求加入组织！没有组织的我想建一个群～](https://www.v2ex.com/t/676790) 
+- [2020-05-29-vcpkg-维护团队能力不足啊](https://www.v2ex.com/t/676789) 
 - [2020-05-29-windows-recv-函数内存增加？](https://www.v2ex.com/t/676788) 
 - [2020-05-29-有台闲置的戴尔-R610-双路-X5670，可以做啥对得起电费的事呢](https://www.v2ex.com/t/676785) 
 - [2020-05-29-各位前辈，工作选择遇到难题，感觉到了人生的十字路口，理想与现实的问题。。](https://www.v2ex.com/t/676784) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -376,6 +376,9 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-29-请教一下，现在微信公众号（企业号）认证后，小程序能复用认证吗？](https://www.v2ex.com/t/676834) 
+- [【V2EX】2020-05-29-6-万美元---1-万平方米---纽约的土地](https://www.v2ex.com/t/676833) 
+- [【V2EX】2020-05-29-淘宝便宜内存条能买啊？](https://www.v2ex.com/t/676832) 
 - [【V2EX】2020-05-29-<meta-name="referrer"-content="no-referrer"-/>-效果问题](https://www.v2ex.com/t/676829) 
 - [【V2EX】2020-05-29-显卡坞外接显示器的升-15.5-要小心.](https://www.v2ex.com/t/676828) 
 - [【V2EX】2020-05-29-求远程办公的前端坑](https://www.v2ex.com/t/676827) 

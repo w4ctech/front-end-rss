@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-29 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 23:30:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-29-加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1) 
 - [2020-05-29-印度人脸口罩亮相-这次手机能识别吗？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1) 
 - [2020-05-29-日本北九州市疫情抬头-当地严阵以待](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1) 
 - [2020-05-29-南京市浦口区永宁小学3名学生出现发热症状-官方通报来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4COgQYYlwiKnjNnKe1Pe200529&isfromapp=1) 
@@ -239,6 +240,19 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-29-前端内推-嘿！这儿是京东深圳凹凸实验室，不来看看吗？](https://www.v2ex.com/t/676854) 
+- [2020-05-29-网上申办上海新版社保卡，设备小米-8，支付宝一直提示此设备不支持刷脸，请更换设备后再试](https://www.v2ex.com/t/676853) 
+- [2020-05-29-弟弟考上了研究生，送他一台电脑，买什么好呢](https://www.v2ex.com/t/676851) 
+- [2020-05-29-AppleScript-使用-keystroke-时无法输入中文](https://www.v2ex.com/t/676847) 
+- [2020-05-29-分享一个热乎的-Python-教程](https://www.v2ex.com/t/676846) 
+- [2020-05-29-说说你们第一次装黑苹果的感受](https://www.v2ex.com/t/676845) 
+- [2020-05-29-VMware-Workstation-15.5.5-已经支持与-Win10-Hyper-V-共存了](https://www.v2ex.com/t/676844) 
+- [2020-05-29-大家有没有智能批量修改文件名的方法或技巧](https://www.v2ex.com/t/676843) 
+- [2020-05-29-VMWare-安装-macOS-虚拟机使用-Surge-作为代理网关，其他设备要连这个网关该怎么设置啊？有没有大佬搞过](https://www.v2ex.com/t/676842) 
+- [2020-05-29-在看-UMAP-的原理，发现完全不懂很多概念，有谁能推荐一本拓扑学的入门书吗？](https://www.v2ex.com/t/676841) 
+- [2020-05-29-字节跳动飞书业务内推咯~](https://www.v2ex.com/t/676838) 
+- [2020-05-29-买微单相机送女朋友，索尼-a6400-合适吗？](https://www.v2ex.com/t/676836) 
+- [2020-05-29-请问，我写了一个工业软件，如何商业化？](https://www.v2ex.com/t/676835) 
 - [2020-05-29-6-万美元---1-万平方米---纽约的土地](https://www.v2ex.com/t/676833) 
 - [2020-05-29-淘宝便宜内存条能买啊？](https://www.v2ex.com/t/676832) 
 - [2020-05-29-<meta-name="referrer"-content="no-referrer"-/>-效果问题](https://www.v2ex.com/t/676829) 

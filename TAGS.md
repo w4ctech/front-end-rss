@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 13:30:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -417,6 +417,7 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【互联网架构师】不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】有没有可能，通过一个性能比较好的防火墙和自签的证书，实现广告过滤等功能](https://www.v2ex.com/t/676651)
 - [【V2EX】不解就问：台式机性能过剩可以用来干啥？](https://www.v2ex.com/t/676548)
 - [......【查看更多】......](./details/tags/optimization.md)
 

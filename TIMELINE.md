@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-29 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-世卫组织：全球新冠肺炎确诊病例超过565万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1) 

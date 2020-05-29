@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-29 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 20:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -612,6 +612,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过565万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】拉美新冠肺炎确诊病例超88万，多国或延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)

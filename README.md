@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 19:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 20:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-05-29-世卫组织：全球新冠肺炎确诊病例超过565万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1) ![](assets/new.png)  
 - [2020-05-29-法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1)  
 - [2020-05-29-香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1)  
 - [2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1)  
@@ -723,11 +724,11 @@
 </summary>
 
 
-- [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) ![](assets/new.png)  
-- [2020-05-29-flex布局的那些事儿](https://juejin.im/post/5ed0ca4f6fb9a047fc30a272) ![](assets/new.png)  
-- [2020-05-29-useRef使用总结](https://juejin.im/post/5ed0a516f265da76ba7b0d66) ![](assets/new.png)  
-- [2020-05-29-nuxt入门踩坑记录](https://juejin.im/post/5ed0b81df265da76d109e4c3) ![](assets/new.png)  
-- [2020-05-29-webworker-使用实记](https://juejin.im/post/5ed0cc0151882543216f00f8) ![](assets/new.png)  
+- [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196)  
+- [2020-05-29-flex布局的那些事儿](https://juejin.im/post/5ed0ca4f6fb9a047fc30a272)  
+- [2020-05-29-useRef使用总结](https://juejin.im/post/5ed0a516f265da76ba7b0d66)  
+- [2020-05-29-nuxt入门踩坑记录](https://juejin.im/post/5ed0b81df265da76d109e4c3)  
+- [2020-05-29-webworker-使用实记](https://juejin.im/post/5ed0cc0151882543216f00f8)  
 - [2020-05-29-uni-app开发H5-第三方微信授权登录的实现](https://juejin.im/post/5ece318c6fb9a047d245cae6)  
 - [2020-05-29-是天使还是魔鬼？重新思考jsx](https://juejin.im/post/5ed0bf47e51d4578540fd356)  
 - [2020-05-29-不知道怎么提高代码可扩展性？来看看优秀框架源码中的这几种设计模式吧!](https://juejin.im/post/5ed0a2286fb9a047e02ef121)  
@@ -838,11 +839,11 @@
 </summary>
 
 
-- [2020-05-29-用-try...except...提高代码的稳定性，是否是好习惯？](https://www.v2ex.com/t/676803) ![](assets/new.png)  
-- [2020-05-29-苏州现在工作好找吗?](https://www.v2ex.com/t/676801) ![](assets/new.png)  
-- [2020-05-29-深圳联通准备硬刚](https://www.v2ex.com/t/676800) ![](assets/new.png)  
-- [2020-05-29-北京-脉脉-内推-非-996，成功入职有大奖拿](https://www.v2ex.com/t/676799) ![](assets/new.png)  
-- [2020-05-29-求简历，-shopee-内推](https://www.v2ex.com/t/676798) ![](assets/new.png)  
+- [2020-05-29-用-try...except...提高代码的稳定性，是否是好习惯？](https://www.v2ex.com/t/676803)  
+- [2020-05-29-苏州现在工作好找吗?](https://www.v2ex.com/t/676801)  
+- [2020-05-29-深圳联通准备硬刚](https://www.v2ex.com/t/676800)  
+- [2020-05-29-北京-脉脉-内推-非-996，成功入职有大奖拿](https://www.v2ex.com/t/676799)  
+- [2020-05-29-求简历，-shopee-内推](https://www.v2ex.com/t/676798)  
 - [2020-05-29-shopee-内推](https://www.v2ex.com/t/676797)  
 - [2020-05-29-老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796)  
 - [2020-05-29-hashicorp-旗下软件（Terraform/Consul/Vagrant-等）禁止在中国使用](https://www.v2ex.com/t/676795)  

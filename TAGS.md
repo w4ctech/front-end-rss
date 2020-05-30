@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -622,6 +622,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增3例新冠肺炎确诊病例-累计确诊1082例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiet9s3LkVIT6p2w7ERuZl200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】秘鲁单日新增6506例新冠肺炎确诊病例-卫生部称有望研制国产核酸检测试剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9DHYSirppzekD7Jqw7iU200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​巴西新增新冠肺炎确诊病例26928例-累计确诊人数超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e7uleyztdI3i3mwhIbI200530&isfromapp=1)
@@ -644,6 +645,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1)
@@ -662,8 +665,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】多国开始复工复产，政府推刺激计划提振经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​日本拟修改节假日法律-在奥运会开闭幕式期间创造连休假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

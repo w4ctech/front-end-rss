@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-30 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1) 
+- [2020-05-30-安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1) 
 - [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1) 
 - [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1) 
 - [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1) 

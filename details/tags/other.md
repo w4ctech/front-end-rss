@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -268,6 +268,16 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-30-远程监控工具](https://www.v2ex.com/t/677030) 
+- [2020-05-30-2017-13-寸的-mbp-左侧-aption-键失灵有人遇到过吗？](https://www.v2ex.com/t/677026) 
+- [2020-05-30-AMD-CPU-适合程序员用做日常开发吗？](https://www.v2ex.com/t/677024) 
+- [2020-05-30-群晖-moments-给家人账户分享相册，家人账户能看到相册却看不到照片](https://www.v2ex.com/t/677023) 
+- [2020-05-30-花了一天时间撸了个-V2EX-翻版。。。](https://www.v2ex.com/t/677022) 
+- [2020-05-30-安卓-office365-不显示楷体怎么办](https://www.v2ex.com/t/677020) 
+- [2020-05-30-日常工作购买-mbp-还是-windows-笔记本](https://www.v2ex.com/t/677017) 
+- [2020-05-30-有没有办法实现论坛发帖有回复时，提醒自己？](https://www.v2ex.com/t/677016) 
+- [2020-05-30-mbp-外接显示器老师没信号是怎么回事啊](https://www.v2ex.com/t/677015) 
+- [2020-05-30-迫于想换个-AirPods-Pro-或者-QC35II-或者别的啥……](https://www.v2ex.com/t/677013) 
 - [2020-05-30-Microsoft-365-家庭版发车-46.5-元/年/人](https://www.v2ex.com/t/677011) 
 - [2020-05-30-深/广求职二战失败,408-弟弟在线求-Java-坑](https://www.v2ex.com/t/677007) 
 - [2020-05-30-jetpack-实践时的疑问，比较复杂的页面-Livedata-要怎么用才好？](https://www.v2ex.com/t/677006) 

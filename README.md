@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 08:30:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -74,6 +74,13 @@
 </summary>
 
 
+- [2020-05-30-受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-秘鲁单日新增6506例新冠肺炎确诊病例-卫生部称有望研制国产核酸检测试剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9DHYSirppzekD7Jqw7iU200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-​巴西新增新冠肺炎确诊病例26928例-累计确诊人数超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e7uleyztdI3i3mwhIbI200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-哥伦比亚累计确诊新冠肺炎确诊病例26688例-4月份失业率接近20%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigliqwVliqV5YUPJpjNaN200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-南非主流媒体发文：“一带一路”倡议将成为全球经济复苏催化剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVOBysAzAsUTrUFubKdNo200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-南非主流媒体：各国应借鉴中国抗疫成功经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijYA6rdbRMD4EmYI8JxLk200530&isfromapp=1) ![](assets/new.png)  
 - [2020-05-29-​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1)  
 - [2020-05-29-加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1)  
 - [2020-05-29-圭亚那新冠肺炎确诊病例恐激增-养老院成感染集中地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic9tlOICwtXShbrTWoguG200529&isfromapp=1)  
@@ -87,13 +94,6 @@
 - [2020-05-29-宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1)  
 - [2020-05-29-​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1)  
 - [2020-05-29-拉美新冠肺炎确诊病例超88万，多国或延长隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1)  
-- [2020-05-29-多国开始复工复产，政府推刺激计划提振经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1)  
-- [2020-05-29-​日本拟修改节假日法律-在奥运会开闭幕式期间创造连休假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1)  
-- [2020-05-29-中国政府抗疫医疗专家组抵达苏丹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1)  
-- [2020-05-29-受疫情冲击-亚洲多国政府出台经济援助计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1)  
-- [2020-05-29-中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1)  
-- [2020-05-29-巴西为应对疫情推出的紧急援助计划或将有所延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1)  
-- [2020-05-29-受疫情影响-美国波士顿马拉松赛124年来首次被取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -675,6 +675,9 @@
 </summary>
 
 
+- [2020-05-29-靠，竟然有如此沙雕的代码注释！](https://www.ershicimi.com/p/3644a32a24412a5fdadd168693cde65b) ![](assets/new.png)  
+- [2020-05-29-一次-MySQL-索引面试，被面试官怼的体无完肤！](https://www.ershicimi.com/p/bc61b331df480f935bba8d1f70262962) ![](assets/new.png)  
+- [2020-05-29-30-分钟学会如何使用-Shiro](https://www.ershicimi.com/p/f81d17ae13b1d52945f0cd70d6b592a6) ![](assets/new.png)  
 - [2020-05-28-华为搜索引擎面世，百度搜索有点危险了！](https://www.ershicimi.com/p/e306b0e1892dededcbd037ae79097c09)  
 - [2020-05-28-Java-处理-Exception-的-9-个最佳实践！](https://www.ershicimi.com/p/bbbddb8f25887070dacd3b1d792abab7)  
 - [2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61)  
@@ -858,6 +861,11 @@
 </summary>
 
 
+- [2020-05-30-求推荐-立式无线充电器，支持三星快充](https://www.v2ex.com/t/676871) ![](assets/new.png)  
+- [2020-05-30-Java-求职](https://www.v2ex.com/t/676870) ![](assets/new.png)  
+- [2020-05-30-SpringDataJPA-@Query-动态参数](https://www.v2ex.com/t/676869) ![](assets/new.png)  
+- [2020-05-30-租房能要个税申报吗？](https://www.v2ex.com/t/676867) ![](assets/new.png)  
+- [2020-05-30-每天重复类似的梦是什么体验？](https://www.v2ex.com/t/676866) ![](assets/new.png)  
 - [2020-05-30-远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865)  
 - [2020-05-30-你愿意在穷人区里当富人还是愿意在富人区里当穷人?](https://www.v2ex.com/t/676864)  
 - [2020-05-30-这些技能清单是不是太菜了,-17-年毕业](https://www.v2ex.com/t/676863)  
@@ -873,11 +881,6 @@
 - [2020-05-29-Mac-OS-有什么视频转换软件吗？只想转变格式-不想动内容。](https://www.v2ex.com/t/676849)  
 - [2020-05-29-罗技（Logitech）iK1053-iPad-蓝牙键盘，-479-元，好用吗？](https://www.v2ex.com/t/676848)  
 - [2020-05-29-AppleScript-使用-keystroke-时无法输入中文](https://www.v2ex.com/t/676847)  
-- [2020-05-29-分享一个热乎的-Python-教程](https://www.v2ex.com/t/676846)  
-- [2020-05-29-说说你们第一次装黑苹果的感受](https://www.v2ex.com/t/676845)  
-- [2020-05-29-VMware-Workstation-15.5.5-已经支持与-Win10-Hyper-V-共存了](https://www.v2ex.com/t/676844)  
-- [2020-05-29-大家有没有智能批量修改文件名的方法或技巧](https://www.v2ex.com/t/676843)  
-- [2020-05-29-VMWare-安装-macOS-虚拟机使用-Surge-作为代理网关，其他设备要连这个网关该怎么设置啊？有没有大佬搞过](https://www.v2ex.com/t/676842)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -920,11 +923,11 @@
 </summary>
 
 
-- [2020-05-30-机器学习项目是如何开发和部署的？](https://toutiao.io/k/t9maz11) ![](assets/new.png)  
-- [2020-05-30-译-AV1-vs-HEVC：WebRTC-编解码器之争卷土重来？（四）](https://toutiao.io/k/lc63ydh) ![](assets/new.png)  
-- [2020-05-30-Kafka系列（八）：一网打尽常用脚本及配置，宜收藏落灰](https://toutiao.io/k/sshbxbf) ![](assets/new.png)  
-- [2020-05-30-一次漫长的-Dubbo-网关内存泄露排查经历](https://toutiao.io/k/rtfen2n) ![](assets/new.png)  
-- [2020-05-30-面向-Model-编程的前端架构设计](https://toutiao.io/k/665efbj) ![](assets/new.png)  
+- [2020-05-30-机器学习项目是如何开发和部署的？](https://toutiao.io/k/t9maz11)  
+- [2020-05-30-译-AV1-vs-HEVC：WebRTC-编解码器之争卷土重来？（四）](https://toutiao.io/k/lc63ydh)  
+- [2020-05-30-Kafka系列（八）：一网打尽常用脚本及配置，宜收藏落灰](https://toutiao.io/k/sshbxbf)  
+- [2020-05-30-一次漫长的-Dubbo-网关内存泄露排查经历](https://toutiao.io/k/rtfen2n)  
+- [2020-05-30-面向-Model-编程的前端架构设计](https://toutiao.io/k/665efbj)  
 - [2020-05-30-推荐-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo)  
 - [2020-05-29-译-图说-AI-发展史](https://toutiao.io/k/b1qnv0p)  
 - [2020-05-29-开发一个大型后台管理系统，应该用前后端分离的技术方案吗？](https://toutiao.io/k/c0cbtlo)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-30 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,13 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-秘鲁单日新增6506例新冠肺炎确诊病例-卫生部称有望研制国产核酸检测试剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9DHYSirppzekD7Jqw7iU200530&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-​巴西新增新冠肺炎确诊病例26928例-累计确诊人数超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e7uleyztdI3i3mwhIbI200530&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-哥伦比亚累计确诊新冠肺炎确诊病例26688例-4月份失业率接近20%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigliqwVliqV5YUPJpjNaN200530&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-南非主流媒体发文：“一带一路”倡议将成为全球经济复苏催化剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVOBysAzAsUTrUFubKdNo200530&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-南非主流媒体：各国应借鉴中国抗疫成功经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijYA6rdbRMD4EmYI8JxLk200530&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-29-圭亚那新冠肺炎确诊病例恐激增-养老院成感染集中地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic9tlOICwtXShbrTWoguG200529&isfromapp=1) 
@@ -326,6 +333,9 @@
 - [【前端日刊】2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc) 
 - [【前端日刊】2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327) 
 - [【前端日刊】2020-05-10-资深前端工程师：裁人后，我总结了-7-个必备技能](https://www.ershicimi.com/p/4595f06b0e8772017bc6a402bd8ce1fb) 
+- [【互联网架构师】2020-05-29-靠，竟然有如此沙雕的代码注释！](https://www.ershicimi.com/p/3644a32a24412a5fdadd168693cde65b) 
+- [【互联网架构师】2020-05-29-一次-MySQL-索引面试，被面试官怼的体无完肤！](https://www.ershicimi.com/p/bc61b331df480f935bba8d1f70262962) 
+- [【互联网架构师】2020-05-29-30-分钟学会如何使用-Shiro](https://www.ershicimi.com/p/f81d17ae13b1d52945f0cd70d6b592a6) 
 - [【互联网架构师】2020-05-28-华为搜索引擎面世，百度搜索有点危险了！](https://www.ershicimi.com/p/e306b0e1892dededcbd037ae79097c09) 
 - [【互联网架构师】2020-05-28-Java-处理-Exception-的-9-个最佳实践！](https://www.ershicimi.com/p/bbbddb8f25887070dacd3b1d792abab7) 
 - [【互联网架构师】2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61) 
@@ -394,6 +404,11 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-30-求推荐-立式无线充电器，支持三星快充](https://www.v2ex.com/t/676871) 
+- [【V2EX】2020-05-30-Java-求职](https://www.v2ex.com/t/676870) 
+- [【V2EX】2020-05-30-SpringDataJPA-@Query-动态参数](https://www.v2ex.com/t/676869) 
+- [【V2EX】2020-05-30-租房能要个税申报吗？](https://www.v2ex.com/t/676867) 
+- [【V2EX】2020-05-30-每天重复类似的梦是什么体验？](https://www.v2ex.com/t/676866) 
 - [【V2EX】2020-05-30-远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865) 
 - [【V2EX】2020-05-30-你愿意在穷人区里当富人还是愿意在富人区里当穷人?](https://www.v2ex.com/t/676864) 
 - [【V2EX】2020-05-30-这些技能清单是不是太菜了,-17-年毕业](https://www.v2ex.com/t/676863) 

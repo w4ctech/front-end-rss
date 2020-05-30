@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 02:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-31 06:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -438,6 +438,10 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-31-结束五年的程序员生涯](https://www.v2ex.com/t/677103) 
+- [【V2EX】2020-05-31-SpaceX-成功完成首次载人发射任务](https://www.v2ex.com/t/677102) 
+- [【V2EX】2020-05-31-关于超六屏蔽线的-nas-布线，很多不懂](https://www.v2ex.com/t/677101) 
+- [【V2EX】2020-05-31-Netflix---《Space-Force》](https://www.v2ex.com/t/677100) 
 - [【V2EX】2020-05-31-如果人不在当地，找工作影响大不大](https://www.v2ex.com/t/677099) 
 - [【V2EX】2020-05-31-刚刚做了一个好可怕的梦](https://www.v2ex.com/t/677098) 
 - [【V2EX】2020-05-31-搞到深夜撸了一个网站，只需三毛钱就可以为梦想多一份祝福和祈祷](https://www.v2ex.com/t/677097) 

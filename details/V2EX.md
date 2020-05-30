@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-05-30 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-30-关于-kfc-宅急送的困惑](https://www.v2ex.com/t/676920) 
+- [2020-05-30-收到了人生中第一个-GitHub-Sponsor-🎉](https://www.v2ex.com/t/676919) 
+- [2020-05-30-有办法获取到运营商所有在售套餐资费么？](https://www.v2ex.com/t/676918) 
 - [2020-05-30-Apple-Pay-八達通-即將到來](https://www.v2ex.com/t/676915) 
 - [2020-05-30-美国为什么要宣布退出世卫组织](https://www.v2ex.com/t/676914) 
 - [2020-05-30-#米哈游#-#二次元#-#社招#-#上海#-米哈游内推专场~](https://www.v2ex.com/t/676912) 

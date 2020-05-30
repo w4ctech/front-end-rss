@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-30 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1) 
 - [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1) 
 - [2020-05-30-安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1) 
 - [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1) 

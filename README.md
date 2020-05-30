@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 20:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 21:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,7 +74,9 @@
 </summary>
 
 
-- [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)  
 - [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1)  
 - [2020-05-30-安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1)  
 - [2020-05-30-香港新增3例新冠肺炎确诊病例-累计确诊1082例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiet9s3LkVIT6p2w7ERuZl200530&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-05-30-南非主流媒体发文：“一带一路”倡议将成为全球经济复苏催化剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVOBysAzAsUTrUFubKdNo200530&isfromapp=1)  
 - [2020-05-30-南非主流媒体：各国应借鉴中国抗疫成功经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijYA6rdbRMD4EmYI8JxLk200530&isfromapp=1)  
 - [2020-05-29-​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1)  
-- [2020-05-29-加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1)  
-- [2020-05-29-圭亚那新冠肺炎确诊病例恐激增-养老院成感染集中地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic9tlOICwtXShbrTWoguG200529&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -873,8 +873,8 @@
 </summary>
 
 
-- [2020-05-30-关于价值投资的讨论](https://www.v2ex.com/t/677032) ![](assets/new.png)  
-- [2020-05-30-垃圾分类已经实行一段时间了，垃圾处理人员还是喜欢自己分类？](https://www.v2ex.com/t/677031) ![](assets/new.png)  
+- [2020-05-30-关于价值投资的讨论](https://www.v2ex.com/t/677032)  
+- [2020-05-30-垃圾分类已经实行一段时间了，垃圾处理人员还是喜欢自己分类？](https://www.v2ex.com/t/677031)  
 - [2020-05-30-远程监控工具](https://www.v2ex.com/t/677030)  
 - [2020-05-30-前端关于-vscode-的自动保存搭配-eslint-的-autoFix-格式化时有概率把代码搞乱的问题](https://www.v2ex.com/t/677029)  
 - [2020-05-30-Android-Chrome-发送到桌面的网页，可以更改图标吗](https://www.v2ex.com/t/677028)  

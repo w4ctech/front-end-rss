@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,8 @@
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-05-30-管理-chrome-扩展程序的插件有知道的么](https://www.v2ex.com/t/677038) 
+- [2020-05-30-面对-ZF-部门提供的不安全的系统提交资料](https://www.v2ex.com/t/677035) 
 - [2020-05-30-Android-Chrome-发送到桌面的网页，可以更改图标吗](https://www.v2ex.com/t/677028) 
 - [2020-05-30-Labview](https://www.v2ex.com/t/677021) 
 - [2020-05-30-京东-618-叠蛋糕-Python-脚本，不用浏览器](https://www.v2ex.com/t/677014) 

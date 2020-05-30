@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 21:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 22:00:21，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,8 +74,8 @@
 </summary>
 
 
-- [2020-05-30-联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1) ![](assets/new.png)  
-- [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1)  
+- [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1)  
 - [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)  
 - [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1)  
 - [2020-05-30-安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1)  
@@ -873,26 +873,26 @@
 </summary>
 
 
+- [2020-05-30-关于-Notion-与其他在线服务](https://www.v2ex.com/t/677059) ![](assets/new.png)  
+- [2020-05-30-Z490-攒机求助](https://www.v2ex.com/t/677057) ![](assets/new.png)  
+- [2020-05-30-阿里云内推杭州北京流程快-Python-/go/-Java-技术专家](https://www.v2ex.com/t/677056) ![](assets/new.png)  
+- [2020-05-30-求推荐可以直接连接-Google-Home-在中国可以买到的智能设备](https://www.v2ex.com/t/677053) ![](assets/new.png)  
+- [2020-05-30-请教硬件大佬，台式机外接硬盘底座有什么坑么？](https://www.v2ex.com/t/677051) ![](assets/new.png)  
+- [2020-05-30-ES-集群优化，求大佬指点一下](https://www.v2ex.com/t/677050) ![](assets/new.png)  
+- [2020-05-30-qq-邮箱出了简历制作的新功能？](https://www.v2ex.com/t/677048) ![](assets/new.png)  
+- [2020-05-30-请问-IDEA-的代理设置里-proxy-authentication-是什么东西？我试过我在服务商网站登录的账号密码也没用。。。](https://www.v2ex.com/t/677047) ![](assets/new.png)  
+- [2020-05-30-这样的反广告提示怎么屏蔽](https://www.v2ex.com/t/677044) ![](assets/new.png)  
+- [2020-05-30-微信规范-IOS-端公众号内虚拟支付行为](https://www.v2ex.com/t/677043) ![](assets/new.png)  
+- [2020-05-30-开个美区印度车](https://www.v2ex.com/t/677042) ![](assets/new.png)  
+- [2020-05-30-关于域名投资的三本书](https://www.v2ex.com/t/677041) ![](assets/new.png)  
+- [2020-05-30-电信的-Qos-也太严重了，看完这个测速结果，想换联通了](https://www.v2ex.com/t/677039) ![](assets/new.png)  
+- [2020-05-30-管理-chrome-扩展程序的插件有知道的么](https://www.v2ex.com/t/677038) ![](assets/new.png)  
+- [2020-05-30-iPhone-&-Android，-VMware-Workstation-虚拟机](https://www.v2ex.com/t/677037) ![](assets/new.png)  
+- [2020-05-30-关于-Angular-和-Rmote-SSH-配合使用的问题](https://www.v2ex.com/t/677036) ![](assets/new.png)  
+- [2020-05-30-面对-ZF-部门提供的不安全的系统提交资料](https://www.v2ex.com/t/677035) ![](assets/new.png)  
+- [2020-05-30-有没有大佬研究过-k8s-的-hpa-功能？](https://www.v2ex.com/t/677034) ![](assets/new.png)  
 - [2020-05-30-关于价值投资的讨论](https://www.v2ex.com/t/677032)  
 - [2020-05-30-垃圾分类已经实行一段时间了，垃圾处理人员还是喜欢自己分类？](https://www.v2ex.com/t/677031)  
-- [2020-05-30-远程监控工具](https://www.v2ex.com/t/677030)  
-- [2020-05-30-前端关于-vscode-的自动保存搭配-eslint-的-autoFix-格式化时有概率把代码搞乱的问题](https://www.v2ex.com/t/677029)  
-- [2020-05-30-Android-Chrome-发送到桌面的网页，可以更改图标吗](https://www.v2ex.com/t/677028)  
-- [2020-05-30-2017-13-寸的-mbp-左侧-aption-键失灵有人遇到过吗？](https://www.v2ex.com/t/677026)  
-- [2020-05-30-AMD-CPU-适合程序员用做日常开发吗？](https://www.v2ex.com/t/677024)  
-- [2020-05-30-群晖-moments-给家人账户分享相册，家人账户能看到相册却看不到照片](https://www.v2ex.com/t/677023)  
-- [2020-05-30-花了一天时间撸了个-V2EX-翻版。。。](https://www.v2ex.com/t/677022)  
-- [2020-05-30-Labview](https://www.v2ex.com/t/677021)  
-- [2020-05-30-安卓-office365-不显示楷体怎么办](https://www.v2ex.com/t/677020)  
-- [2020-05-30-vue-如何自适应调整嵌入的-iframe-的大小，让用户完全感觉不出有-iframe-这个东西？](https://www.v2ex.com/t/677018)  
-- [2020-05-30-日常工作购买-mbp-还是-windows-笔记本](https://www.v2ex.com/t/677017)  
-- [2020-05-30-有没有办法实现论坛发帖有回复时，提醒自己？](https://www.v2ex.com/t/677016)  
-- [2020-05-30-mbp-外接显示器老师没信号是怎么回事啊](https://www.v2ex.com/t/677015)  
-- [2020-05-30-京东-618-叠蛋糕-Python-脚本，不用浏览器](https://www.v2ex.com/t/677014)  
-- [2020-05-30-迫于想换个-AirPods-Pro-或者-QC35II-或者别的啥……](https://www.v2ex.com/t/677013)  
-- [2020-05-30-EDIFIER-漫步者-S880-如何,放在-70CM-深的桌面上,配合-PC-使用感觉如何](https://www.v2ex.com/t/677012)  
-- [2020-05-30-Microsoft-365-家庭版发车-46.5-元/年/人](https://www.v2ex.com/t/677011)  
-- [2020-05-30-深/广求职二战失败,408-弟弟在线求-Java-坑](https://www.v2ex.com/t/677007)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

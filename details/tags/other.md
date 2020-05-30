@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -106,6 +106,7 @@
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16) 
 - [2020-05-20-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/38c66d93c7202b5e4e26a0df6a992ffd) 
 - [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10) 
+- [2020-05-30-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/c33a6794a7299ab672bb8c1bd216413a) 
 - [2020-05-29-24张图，九大数据结构安排得明明白白！](https://www.ershicimi.com/p/42ed7d0f7463e9a8e58831368d6cc344) 
 - [2020-05-28-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7) 
 - [2020-05-26-瓶子君邀你进群学习啦](https://www.ershicimi.com/p/10b7a1ece24abc0e29686cff48c4e829) 
@@ -259,6 +260,14 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-30-深圳出租房屋经历](https://www.v2ex.com/t/676891) 
+- [2020-05-30-白宫关于停止某些中国学生和研究人员非移民入境的公告](https://www.v2ex.com/t/676890) 
+- [2020-05-30-airpods2-现在啥价格了](https://www.v2ex.com/t/676888) 
+- [2020-05-30-su-user--c-"xxx"能实现免密码执行吗](https://www.v2ex.com/t/676887) 
+- [2020-05-30-关于命名：-onXXX-和-handleXXX-怎么区分](https://www.v2ex.com/t/676886) 
+- [2020-05-30-在职拿到外包的-offer，去不去？](https://www.v2ex.com/t/676885) 
+- [2020-05-30-看上了-Thinkpad-X395，请问有坑么](https://www.v2ex.com/t/676883) 
+- [2020-05-30-实习相关:请问测试岗的工作如何](https://www.v2ex.com/t/676881) 
 - [2020-05-30-广州天朗明居-个人房源转租-精装修-无中介费-4000-非中介](https://www.v2ex.com/t/676880) 
 - [2020-05-30-求助帖：-MBP-连接宽带-wifi，速度很慢，尝试网上各种方法都不行](https://www.v2ex.com/t/676879) 
 - [2020-05-30-有没有办法获得不同地区的-DNS-解析结果？](https://www.v2ex.com/t/676878) 

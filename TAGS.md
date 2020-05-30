@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 20:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -623,6 +623,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港新增3例新冠肺炎确诊病例-累计确诊1082例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiet9s3LkVIT6p2w7ERuZl200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】秘鲁单日新增6506例新冠肺炎确诊病例-卫生部称有望研制国产核酸检测试剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9DHYSirppzekD7Jqw7iU200530&isfromapp=1)

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-05-30 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-05-30-关于价值投资的讨论](https://www.v2ex.com/t/677032) 
+- [2020-05-30-垃圾分类已经实行一段时间了，垃圾处理人员还是喜欢自己分类？](https://www.v2ex.com/t/677031) 
 - [2020-05-30-远程监控工具](https://www.v2ex.com/t/677030) 
 - [2020-05-30-前端关于-vscode-的自动保存搭配-eslint-的-autoFix-格式化时有概率把代码搞乱的问题](https://www.v2ex.com/t/677029) 
 - [2020-05-30-Android-Chrome-发送到桌面的网页，可以更改图标吗](https://www.v2ex.com/t/677028) 

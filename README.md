@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 17:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 18:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,9 +74,9 @@
 </summary>
 
 
-- [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1) ![](assets/new.png)  
-- [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1) ![](assets/new.png)  
-- [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1)  
+- [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1)  
+- [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1)  
 - [2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)  
 - [2020-05-30-国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)  
 - [2020-05-30-5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1)  
@@ -873,26 +873,26 @@
 </summary>
 
 
+- [2020-05-30-EDIFIER-漫步者-S880-如何,放在-70CM-深的桌面上,配合-PC-使用感觉如何](https://www.v2ex.com/t/677012) ![](assets/new.png)  
+- [2020-05-30-Microsoft-365-家庭版发车-46.5-元/年/人](https://www.v2ex.com/t/677011) ![](assets/new.png)  
+- [2020-05-30-深/广求职二战失败,408-弟弟在线求-Java-坑](https://www.v2ex.com/t/677007) ![](assets/new.png)  
+- [2020-05-30-jetpack-实践时的疑问，比较复杂的页面-Livedata-要怎么用才好？](https://www.v2ex.com/t/677006) ![](assets/new.png)  
+- [2020-05-30-昆明后台开发-Offer-比较，求各位指点](https://www.v2ex.com/t/677005) ![](assets/new.png)  
+- [2020-05-30-感觉现在大部分程序员都很浮躁，肤浅？](https://www.v2ex.com/t/677003) ![](assets/new.png)  
+- [2020-05-30-最近辞职的人好多啊](https://www.v2ex.com/t/677002) ![](assets/new.png)  
+- [2020-05-30-一个-jvm-怎么同时运行多个-jar-包，有什么方案吗？](https://www.v2ex.com/t/677001) ![](assets/new.png)  
+- [2020-05-30-iPhone-Photography-School---iOS-工程师](https://www.v2ex.com/t/677000) ![](assets/new.png)  
+- [2020-05-30-又来教张小龙做微信之举报跳转链接](https://www.v2ex.com/t/676999) ![](assets/new.png)  
+- [2020-05-30-关于笔记本风扇的问题](https://www.v2ex.com/t/676998) ![](assets/new.png)  
+- [2020-05-30-大家谁知道-SVG-的-stroke-dasharray、stroke-dashoffset-属性，具体是什么意思？](https://www.v2ex.com/t/676997) ![](assets/new.png)  
+- [2020-05-30-32-位处理器的安卓手机不换，影响会很严重吗？](https://www.v2ex.com/t/676996) ![](assets/new.png)  
+- [2020-05-30-Mac-下如何知道某个文件是哪个应用创建的？](https://www.v2ex.com/t/676995) ![](assets/new.png)  
+- [2020-05-30-使用-call方法调用函数-和-将作用域-this-直接作参数传入有什么区别?](https://www.v2ex.com/t/676994) ![](assets/new.png)  
+- [2020-05-30-借人账号登录哔哩哔哩，然后大会员没了](https://www.v2ex.com/t/676992) ![](assets/new.png)  
+- [2020-05-30-程序猿们,-除了编程,-你们还有啥可以拿的出手的技能,-最近蕉绿了](https://www.v2ex.com/t/676991) ![](assets/new.png)  
+- [2020-05-30-如何区分词库的哪些词是-事务搜索词，信息搜索词，导航搜索词](https://www.v2ex.com/t/676990) ![](assets/new.png)  
+- [2020-05-30-求推荐好用的红黑双色中性笔](https://www.v2ex.com/t/676989) ![](assets/new.png)  
 - [2020-05-30-你的个人项目放在哪儿，阿里云还是腾讯云？](https://www.v2ex.com/t/676987)  
-- [2020-05-30-印象笔记的-Markdown-Note-的全局字体大小能设置吗？](https://www.v2ex.com/t/676986)  
-- [2020-05-30-支付宝花呗重复扣款？](https://www.v2ex.com/t/676983)  
-- [2020-05-30-远程-EasyPractice---VueJS-工程师](https://www.v2ex.com/t/676982)  
-- [2020-05-30-来未来科技（浙江）有限公司招聘若干高级前端工程师-base-杭州余杭](https://www.v2ex.com/t/676981)  
-- [2020-05-30-请教各位大佬关于-switch-联机](https://www.v2ex.com/t/676980)  
-- [2020-05-30-iOS:-想请教一下喜马拉雅当前版本（6.6.66）中订阅节目详情页面的实现逻辑](https://www.v2ex.com/t/676979)  
-- [2020-05-30-APP-是如何突破-iOS-限制后台运行的？](https://www.v2ex.com/t/676978)  
-- [2020-05-30-被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976)  
-- [2020-05-30-对于前端，网站/网页，-nginx-以及-node-总是迷糊，有没有兄弟姐妹帮忙解释得简单明白一点？](https://www.v2ex.com/t/676975)  
-- [2020-05-30-想找一些讲述道观或寺庙里修行者的视频，请大家有看过的推荐一下](https://www.v2ex.com/t/676974)  
-- [2020-05-30-求教-nfs-服务器挂载报-Connection-refused-的问题](https://www.v2ex.com/t/676973)  
-- [2020-05-30-短视频-快手/-北京、深圳、杭州、上海-客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/676972)  
-- [2020-05-30-成都-蛋壳-坑](https://www.v2ex.com/t/676971)  
-- [2020-05-30-Java-多线程问题](https://www.v2ex.com/t/676970)  
-- [2020-05-30-搜狗输入法开始弹窗-618-广告了](https://www.v2ex.com/t/676969)  
-- [2020-05-30-需要-Python-朋友，](https://www.v2ex.com/t/676968)  
-- [2020-05-30-求大佬们推荐一个不断流的路由器](https://www.v2ex.com/t/676967)  
-- [2020-05-30-有什么掌机可以完美支持合金弹头？](https://www.v2ex.com/t/676966)  
-- [2020-05-30-老生常谈-4k-显示器推荐哪款这次-618-上车](https://www.v2ex.com/t/676965)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

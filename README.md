@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 17:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 17:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,6 +74,9 @@
 </summary>
 
 
+- [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1) ![](assets/new.png)  
 - [2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)  
 - [2020-05-30-国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)  
 - [2020-05-30-5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-05-29-日本北九州市疫情抬头-当地严阵以待](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1)  
 - [2020-05-29-南京市浦口区永宁小学3名学生出现发热症状-官方通报来了！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4COgQYYlwiKnjNnKe1Pe200529&isfromapp=1)  
 - [2020-05-29-世卫组织：全球新冠肺炎确诊病例超过565万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1)  
-- [2020-05-29-法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1)  
-- [2020-05-29-香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1)  
-- [2020-05-29-直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -873,9 +873,9 @@
 </summary>
 
 
-- [2020-05-30-你的个人项目放在哪儿，阿里云还是腾讯云？](https://www.v2ex.com/t/676987) ![](assets/new.png)  
-- [2020-05-30-印象笔记的-Markdown-Note-的全局字体大小能设置吗？](https://www.v2ex.com/t/676986) ![](assets/new.png)  
-- [2020-05-30-支付宝花呗重复扣款？](https://www.v2ex.com/t/676983) ![](assets/new.png)  
+- [2020-05-30-你的个人项目放在哪儿，阿里云还是腾讯云？](https://www.v2ex.com/t/676987)  
+- [2020-05-30-印象笔记的-Markdown-Note-的全局字体大小能设置吗？](https://www.v2ex.com/t/676986)  
+- [2020-05-30-支付宝花呗重复扣款？](https://www.v2ex.com/t/676983)  
 - [2020-05-30-远程-EasyPractice---VueJS-工程师](https://www.v2ex.com/t/676982)  
 - [2020-05-30-来未来科技（浙江）有限公司招聘若干高级前端工程师-base-杭州余杭](https://www.v2ex.com/t/676981)  
 - [2020-05-30-请教各位大佬关于-switch-联机](https://www.v2ex.com/t/676980)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 17:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -643,6 +643,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1)
@@ -660,9 +663,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】​今天起，广州学生在校园内可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】多国开始复工复产，政府推刺激计划提振经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​日本拟修改节假日法律-在奥运会开闭幕式期间创造连休假期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】中国政府抗疫医疗专家组抵达苏丹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】受疫情冲击-亚洲多国政府出台经济援助计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

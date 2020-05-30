@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-05-30 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1) 
+- [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1) 
+- [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1) 
 - [2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1) 
 - [2020-05-30-国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1) 
 - [2020-05-30-受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,7 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-05-21-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-05-29-6-个实用的-Code-Review-实践技巧](https://www.ershicimi.com/p/750ee7d3cc3b512e073611c653a1f94b) 
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 

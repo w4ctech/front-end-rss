@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 04:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -464,6 +464,10 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-05-30-机器学习项目是如何开发和部署的？](https://toutiao.io/k/t9maz11) 
+- [2020-05-30-Kafka系列（八）：一网打尽常用脚本及配置，宜收藏落灰](https://toutiao.io/k/sshbxbf) 
+- [2020-05-30-一次漫长的-Dubbo-网关内存泄露排查经历](https://toutiao.io/k/rtfen2n) 
+- [2020-05-30-面向-Model-编程的前端架构设计](https://toutiao.io/k/665efbj) 
 - [2020-05-30-推荐-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo) 
 - [2020-05-29-译-图说-AI-发展史](https://toutiao.io/k/b1qnv0p) 
 - [2020-05-29-开发一个大型后台管理系统，应该用前后端分离的技术方案吗？](https://toutiao.io/k/c0cbtlo) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 04:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-30 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -858,7 +858,7 @@
 </summary>
 
 
-- [2020-05-30-远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865) ![](assets/new.png)  
+- [2020-05-30-远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865)  
 - [2020-05-30-你愿意在穷人区里当富人还是愿意在富人区里当穷人?](https://www.v2ex.com/t/676864)  
 - [2020-05-30-这些技能清单是不是太菜了,-17-年毕业](https://www.v2ex.com/t/676863)  
 - [2020-05-30-Notion-Emoji](https://www.v2ex.com/t/676862)  
@@ -920,6 +920,11 @@
 </summary>
 
 
+- [2020-05-30-机器学习项目是如何开发和部署的？](https://toutiao.io/k/t9maz11) ![](assets/new.png)  
+- [2020-05-30-译-AV1-vs-HEVC：WebRTC-编解码器之争卷土重来？（四）](https://toutiao.io/k/lc63ydh) ![](assets/new.png)  
+- [2020-05-30-Kafka系列（八）：一网打尽常用脚本及配置，宜收藏落灰](https://toutiao.io/k/sshbxbf) ![](assets/new.png)  
+- [2020-05-30-一次漫长的-Dubbo-网关内存泄露排查经历](https://toutiao.io/k/rtfen2n) ![](assets/new.png)  
+- [2020-05-30-面向-Model-编程的前端架构设计](https://toutiao.io/k/665efbj) ![](assets/new.png)  
 - [2020-05-30-推荐-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo)  
 - [2020-05-29-译-图说-AI-发展史](https://toutiao.io/k/b1qnv0p)  
 - [2020-05-29-开发一个大型后台管理系统，应该用前后端分离的技术方案吗？](https://toutiao.io/k/c0cbtlo)  
@@ -935,11 +940,6 @@
 - [2020-05-29-推荐-拼多多和酷家乐面试总结（已拿-Offer）](https://toutiao.io/k/fp7twf8)  
 - [2020-05-29-推荐-换个角度入门-K8s](https://toutiao.io/k/9a7dfpq)  
 - [2020-05-29-推荐-基于消息队列的分布式事务解决方案](https://toutiao.io/k/0yvffiw)  
-- [2020-05-29-程序员，你的业余时间是怎么被浪费掉的？|-码农周刊第-307-期](https://toutiao.io/k/8wuxk7s)  
-- [2020-05-29-用-WebRTC-的-Insertable-Streams-API-把元数据添加到媒体帧](https://toutiao.io/k/dggpr64)  
-- [2020-05-29-如何利用-Python-爬虫实现给微信群发新闻早报？](https://toutiao.io/k/ah7vngu)  
-- [2020-05-29-由一次安全扫描引发的思考：如何保障-API-接口的安全性？](https://toutiao.io/k/09ze6d2)  
-- [2020-05-29-使用-PHP-获取网站-SSL-证书信息](https://toutiao.io/k/6kqkl7a)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,6 +11,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "世卫组织：全球新冠肺炎确诊病例超581万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifedvTgJSJ1aEOqDrhwT0200530&isfromapp=1",
+        "date": "2020-05-30"
+      },
+      {
+        "title": "中国抗疫医疗专家组再次同赤几方进行工作交流",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1",
+        "date": "2020-05-30"
+      },
+      {
+        "title": "菲律宾两大航空公司6月起恢复部分航班运行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1",
+        "date": "2020-05-30"
+      },
+      {
         "title": "联合国马里维和任务区2名维和官兵感染新冠肺炎病故",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1",
         "date": "2020-05-30"
@@ -5593,6 +5608,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] B站的视频，都是怎么推荐的",
+        "link": "https://toutiao.io/k/r93dn0v",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "[推荐] 一文讲透 Git 底层数据结构和原理",
+        "link": "https://toutiao.io/k/8ps7l8l",
+        "date": "2020-05-31"
+      },
       {
         "title": "美团配送 A/B 评估体系建设与实践",
         "link": "https://toutiao.io/k/cvnijlb",

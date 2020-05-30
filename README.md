@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-30 23:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 00:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,6 +74,9 @@
 </summary>
 
 
+- [2020-05-30-世卫组织：全球新冠肺炎确诊病例超581万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifedvTgJSJ1aEOqDrhwT0200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-30-菲律宾两大航空公司6月起恢复部分航班运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1) ![](assets/new.png)  
 - [2020-05-30-联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1)  
 - [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1)  
 - [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-05-30-​巴西新增新冠肺炎确诊病例26928例-累计确诊人数超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e7uleyztdI3i3mwhIbI200530&isfromapp=1)  
 - [2020-05-30-哥伦比亚累计确诊新冠肺炎确诊病例26688例-4月份失业率接近20%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigliqwVliqV5YUPJpjNaN200530&isfromapp=1)  
 - [2020-05-30-加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1)  
-- [2020-05-30-南非主流媒体发文：“一带一路”倡议将成为全球经济复苏催化剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVOBysAzAsUTrUFubKdNo200530&isfromapp=1)  
-- [2020-05-30-南非主流媒体：各国应借鉴中国抗疫成功经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijYA6rdbRMD4EmYI8JxLk200530&isfromapp=1)  
-- [2020-05-29-​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -873,10 +873,10 @@
 </summary>
 
 
-- [2020-05-30-从技术上来说，如何实现每次-MC-必定出风剑呢？](https://www.v2ex.com/t/677081) ![](assets/new.png)  
-- [2020-05-30-2020-年还有做-WordPress-二开的吗](https://www.v2ex.com/t/677080) ![](assets/new.png)  
-- [2020-05-30-发现自己一直只使用左手拇指在敲空格键，空格键左右两边高度不一致了，右边敲击都有点卡住的感觉了](https://www.v2ex.com/t/677079) ![](assets/new.png)  
-- [2020-05-30-查自己外网-ip，得到两种结果，是什么原因？](https://www.v2ex.com/t/677078) ![](assets/new.png)  
+- [2020-05-30-从技术上来说，如何实现每次-MC-必定出风剑呢？](https://www.v2ex.com/t/677081)  
+- [2020-05-30-2020-年还有做-WordPress-二开的吗](https://www.v2ex.com/t/677080)  
+- [2020-05-30-发现自己一直只使用左手拇指在敲空格键，空格键左右两边高度不一致了，右边敲击都有点卡住的感觉了](https://www.v2ex.com/t/677079)  
+- [2020-05-30-查自己外网-ip，得到两种结果，是什么原因？](https://www.v2ex.com/t/677078)  
 - [2020-05-30-上海合租！-环球港附近有合租吗，一起整租也是可以的。](https://www.v2ex.com/t/677077)  
 - [2020-05-30-云产品，双-11-和-618-哪个优惠力度大？](https://www.v2ex.com/t/677076)  
 - [2020-05-30-请教一个-MX-记录的问题，能不能不同的子域名交给不同的邮箱服务器处理](https://www.v2ex.com/t/677075)  
@@ -935,6 +935,8 @@
 </summary>
 
 
+- [2020-05-31-推荐-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v) ![](assets/new.png)  
+- [2020-05-31-推荐-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l) ![](assets/new.png)  
 - [2020-05-30-美团配送-A/B-评估体系建设与实践](https://toutiao.io/k/cvnijlb)  
 - [2020-05-30-LevelDB-完全解析（十）：读操作之-Iterator](https://toutiao.io/k/fq97rr7)  
 - [2020-05-30-Java-并发编程那些事儿（六）：Executor-框架及线程池](https://toutiao.io/k/n4e3smu)  
@@ -953,8 +955,6 @@
 - [2020-05-30-面向-Model-编程的前端架构设计](https://toutiao.io/k/665efbj)  
 - [2020-05-30-推荐-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo)  
 - [2020-05-29-译-图说-AI-发展史](https://toutiao.io/k/b1qnv0p)  
-- [2020-05-29-开发一个大型后台管理系统，应该用前后端分离的技术方案吗？](https://toutiao.io/k/c0cbtlo)  
-- [2020-05-29-浅谈扩展字段设计](https://toutiao.io/k/leo7oz4)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 10:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-30 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-30-受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1) 
@@ -417,6 +418,18 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-30-吐槽一下国内大部分院校的设计专业](https://www.v2ex.com/t/676906) 
+- [【V2EX】2020-05-30-618-有什么云主机优惠嘛？](https://www.v2ex.com/t/676905) 
+- [【V2EX】2020-05-30-码农的一天](https://www.v2ex.com/t/676904) 
+- [【V2EX】2020-05-30-YouTube-订阅印度后，自动续订的时候还要再切-ip-续订么？](https://www.v2ex.com/t/676901) 
+- [【V2EX】2020-05-30-这些互联网公司是不是对自己的系统过度自信了？](https://www.v2ex.com/t/676900) 
+- [【V2EX】2020-05-30-erp-系统提示音播放](https://www.v2ex.com/t/676898) 
+- [【V2EX】2020-05-30-tg-上有个线路爆炸频道，不更新了](https://www.v2ex.com/t/676897) 
+- [【V2EX】2020-05-30-杭州-阿里系创业公司-前端-招募中](https://www.v2ex.com/t/676896) 
+- [【V2EX】2020-05-30-台灯有什么推荐？](https://www.v2ex.com/t/676895) 
+- [【V2EX】2020-05-30-推荐一个-macOS-上的全功能截图工具：-CleanShot-X](https://www.v2ex.com/t/676894) 
+- [【V2EX】2020-05-30-win10-2004-版本的稳定性怎么样？](https://www.v2ex.com/t/676893) 
+- [【V2EX】2020-05-30-关于-react-hooks-一个可能跟性能有关的疑问](https://www.v2ex.com/t/676892) 
 - [【V2EX】2020-05-30-深圳出租房屋经历](https://www.v2ex.com/t/676891) 
 - [【V2EX】2020-05-30-白宫关于停止某些中国学生和研究人员非移民入境的公告](https://www.v2ex.com/t/676890) 
 - [【V2EX】2020-05-30-airpods2-现在啥价格了](https://www.v2ex.com/t/676888) 

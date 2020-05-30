@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -641,6 +641,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1)
@@ -660,7 +661,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】中国政府抗疫医疗专家组抵达苏丹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】受疫情冲击-亚洲多国政府出台经济援助计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】中国抗疫医疗专家组在秘活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴西为应对疫情推出的紧急援助计划或将有所延长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

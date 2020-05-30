@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-30 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -393,14 +393,14 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976)
+- [【V2EX】想找一些讲述道观或寺庙里修行者的视频，请大家有看过的推荐一下](https://www.v2ex.com/t/676974)
+- [【V2EX】短视频-快手/-北京、深圳、杭州、上海-客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/676972)
 - [【V2EX】远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865)
 - [【V2EX】火爆招聘中上海/杭州阿里云-视频基础技术团队-视频-AI-工程开发](https://www.v2ex.com/t/676860)
 - [【V2EX】Mac-OS-有什么视频转换软件吗？只想转变格式-不想动内容。](https://www.v2ex.com/t/676849)
 - [【V2EX】油管这点太烦人了，不如国内视频站。](https://www.v2ex.com/t/676839)
 - [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招音视频资深/专家级工程师](https://www.v2ex.com/t/676770)
-- [【V2EX】不用-sdk-开发一个视频聊天系统应该从哪方面入手](https://www.v2ex.com/t/676741)
-- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发（Server-/...](https://www.v2ex.com/t/676716)
-- [【V2EX】如何搭建低延时、交互式的在线教育平台？（内附视频回放）](https://www.v2ex.com/t/676590)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -497,11 +497,11 @@
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
+- [【V2EX】滴滴出行-北京、杭州-Android/前端/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀...](https://www.v2ex.com/t/676958)
 - [【V2EX】老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796)
 - [【V2EX】杭州-内推有红包🧧海拍客急招算法专家、搜索专家](https://www.v2ex.com/t/676786)
 - [【V2EX】纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627)
 - [【V2EX】北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559)
-- [【开发者头条】基于-DNN-的推荐算法介绍](https://toutiao.io/k/7omj94e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -585,7 +585,7 @@
 - [【InfoQ】招聘需求恢复95%：全力扶持“后浪”，“前浪”只能自己挣扎](https://www.ershicimi.com/p/ad4137d79c3436f9c221da3c864050c1)
 - [【JavaScript】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)
 - [【JavaScript】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)
-- [【V2EX】第一次面试就被刷了，找个工作好难啊](https://www.v2ex.com/t/676858)
+- [【V2EX】来未来科技（浙江）有限公司招聘若干高级前端工程师-base-杭州余杭](https://www.v2ex.com/t/676981)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

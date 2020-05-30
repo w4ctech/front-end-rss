@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-30 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-30 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -29,4 +29,5 @@
 - [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774) 
 - [2020-05-20-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/3ffe5ea768d19808f49f3017f2dec2b9) 
 - [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
+- [2020-05-30-对于前端，网站/网页，-nginx-以及-node-总是迷糊，有没有兄弟姐妹帮忙解释得简单明白一点？](https://www.v2ex.com/t/676975) 
 - [2020-05-29-Node.js-有哪些好用的后端框架？最好带有脚手架](https://www.v2ex.com/t/676667) 

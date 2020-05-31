@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-31 13:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 14:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -660,6 +660,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国：疫情蔓延、失业率飙升、大规模抗议活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid3GEIXhClgxxaqpMJe3y200531&isfromapp=1)
@@ -679,7 +680,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】南非主流媒体发文：“一带一路”倡议将成为全球经济复苏催化剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVOBysAzAsUTrUFubKdNo200530&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】南非主流媒体：各国应借鉴中国抗疫成功经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijYA6rdbRMD4EmYI8JxLk200530&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

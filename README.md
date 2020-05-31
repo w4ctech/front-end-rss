@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 13:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 14:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1) ![](assets/new.png)  
 - [2020-05-31-上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)  
 - [2020-05-31-天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1)  
 - [2020-05-31-美国：疫情蔓延、失业率飙升、大规模抗议活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid3GEIXhClgxxaqpMJe3y200531&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)  
 - [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1)  
 - [2020-05-30-安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1)  
-- [2020-05-30-香港新增3例新冠肺炎确诊病例-累计确诊1082例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiet9s3LkVIT6p2w7ERuZl200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -708,15 +708,15 @@
 </summary>
 
 
-- [2020-05-31-全球仅10%的开发者从不加班；淘宝回应用户账号被禁用-980-年;苹果宣布首次以官方形式参与天猫61](https://www.ershicimi.com/p/32a8ffe151d005d23be58ad8cba293af) ![](assets/new.png)  
-- [2020-05-31-Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12) ![](assets/new.png)  
-- [2020-05-31-聘高管、换名字，Facebook-却是要用-Libra-卖广告](https://www.ershicimi.com/p/93a87b43f925efa3e0f3771fce106db4) ![](assets/new.png)  
-- [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a) ![](assets/new.png)  
-- [2020-05-30-2020年后端高薪攻略-|-课程推荐](https://www.ershicimi.com/p/5d877135fd6c6bbc145a16af029901e3) ![](assets/new.png)  
-- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/f98567f4a9d97a3957c346e49e58d4c9) ![](assets/new.png)  
-- [2020-05-30-6位图灵奖获得者、10多位院士在线“教学”，这套关于“人工智能下一个十年”的课程免费提供给你](https://www.ershicimi.com/p/7f692b1f32c7fafcddf9fb959baa2cfb) ![](assets/new.png)  
-- [2020-05-30-我们为什么停用微服务？](https://www.ershicimi.com/p/43e46ebf9916916893779416fc0ceabb) ![](assets/new.png)  
-- [2020-05-30-再也不需要打包器！Snowpack-2.0-发布，让打包速度快-10-倍的神奇工具](https://www.ershicimi.com/p/4cbbaf69edde6d80a066b9ae79eda9cc) ![](assets/new.png)  
+- [2020-05-31-全球仅10%的开发者从不加班；淘宝回应用户账号被禁用-980-年;苹果宣布首次以官方形式参与天猫61](https://www.ershicimi.com/p/32a8ffe151d005d23be58ad8cba293af)  
+- [2020-05-31-Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)  
+- [2020-05-31-聘高管、换名字，Facebook-却是要用-Libra-卖广告](https://www.ershicimi.com/p/93a87b43f925efa3e0f3771fce106db4)  
+- [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a)  
+- [2020-05-30-2020年后端高薪攻略-|-课程推荐](https://www.ershicimi.com/p/5d877135fd6c6bbc145a16af029901e3)  
+- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/f98567f4a9d97a3957c346e49e58d4c9)  
+- [2020-05-30-6位图灵奖获得者、10多位院士在线“教学”，这套关于“人工智能下一个十年”的课程免费提供给你](https://www.ershicimi.com/p/7f692b1f32c7fafcddf9fb959baa2cfb)  
+- [2020-05-30-我们为什么停用微服务？](https://www.ershicimi.com/p/43e46ebf9916916893779416fc0ceabb)  
+- [2020-05-30-再也不需要打包器！Snowpack-2.0-发布，让打包速度快-10-倍的神奇工具](https://www.ershicimi.com/p/4cbbaf69edde6d80a066b9ae79eda9cc)  
 - [2020-05-29-亚马逊大崩溃](https://www.ershicimi.com/p/e628740a9c5c2ba571dc10db09da234f)  
 - [2020-05-29-千元礼包免费送，InfoQ陪你过六一](https://www.ershicimi.com/p/021c642be32365c50ac20f1e54e2f34c)  
 - [2020-05-29-机器学习项目复杂繁琐-，该如何构建安全的机器学习环境？](https://www.ershicimi.com/p/ad2fedeb886ae3a8b5e0057cc13d2a0f)  
@@ -880,14 +880,19 @@
 </summary>
 
 
-- [2020-05-31-某-ray-被发现可以通过简单的字符串匹配](https://www.v2ex.com/t/677165) ![](assets/new.png)  
-- [2020-05-31-分享一下自己用-7-块钱搭建自动发卡网站的过程](https://www.v2ex.com/t/677164) ![](assets/new.png)  
-- [2020-05-31-使用-iterm-过程中的两个小问题](https://www.v2ex.com/t/677163) ![](assets/new.png)  
-- [2020-05-31-炒饭划水网站历时半年，炒饭终于有自己的-LOGO-了](https://www.v2ex.com/t/677162) ![](assets/new.png)  
-- [2020-05-31-巴哈姆特动画疯-一个不错的动漫网站](https://www.v2ex.com/t/677161) ![](assets/new.png)  
-- [2020-05-31-现在各个大厂加班的情况怎么样](https://www.v2ex.com/t/677159) ![](assets/new.png)  
-- [2020-05-31-都在说-35-转行，在-HN-上看到美帝-74-岁老码农现身说法，工作-57-年没退休计划，给大家打个鸡血](https://www.v2ex.com/t/677157) ![](assets/new.png)  
-- [2020-05-31-关于爬虫异步多线程的问题](https://www.v2ex.com/t/677155) ![](assets/new.png)  
+- [2020-05-31-关于-“Sign-in-with-Apple”-安全漏洞的疑问](https://www.v2ex.com/t/677173) ![](assets/new.png)  
+- [2020-05-31-应届-Offer-比较：阿里-VS-字节](https://www.v2ex.com/t/677172) ![](assets/new.png)  
+- [2020-05-31-MongoDB-Aggregation-Pipeline-并没有使用索引](https://www.v2ex.com/t/677171) ![](assets/new.png)  
+- [2020-05-31-MacBook-Pro-16-寸-电池生产日期晚于今天](https://www.v2ex.com/t/677169) ![](assets/new.png)  
+- [2020-05-31-京东金融信用卡还款提示还款成功未到账](https://www.v2ex.com/t/677168) ![](assets/new.png)  
+- [2020-05-31-某-ray-被发现可以通过简单的字符串匹配](https://www.v2ex.com/t/677165)  
+- [2020-05-31-分享一下自己用-7-块钱搭建自动发卡网站的过程](https://www.v2ex.com/t/677164)  
+- [2020-05-31-使用-iterm-过程中的两个小问题](https://www.v2ex.com/t/677163)  
+- [2020-05-31-炒饭划水网站历时半年，炒饭终于有自己的-LOGO-了](https://www.v2ex.com/t/677162)  
+- [2020-05-31-巴哈姆特动画疯-一个不错的动漫网站](https://www.v2ex.com/t/677161)  
+- [2020-05-31-现在各个大厂加班的情况怎么样](https://www.v2ex.com/t/677159)  
+- [2020-05-31-都在说-35-转行，在-HN-上看到美帝-74-岁老码农现身说法，工作-57-年没退休计划，给大家打个鸡血](https://www.v2ex.com/t/677157)  
+- [2020-05-31-关于爬虫异步多线程的问题](https://www.v2ex.com/t/677155)  
 - [2020-05-31-你们上一次蓝屏是什么时候？](https://www.v2ex.com/t/677154)  
 - [2020-05-31-找球友-长宁区伊犁路附近有球友吗](https://www.v2ex.com/t/677152)  
 - [2020-05-31-onedrive-学校邮箱账户如何更改密码？莫名其妙的密码就不对了，点重置密码也显示无权，必须要联系管理员，...](https://www.v2ex.com/t/677151)  
@@ -895,11 +900,6 @@
 - [2020-05-31-迫于昨天提问的帖子感触良久，想换一份-Python-工作了，专专有坑坑吗](https://www.v2ex.com/t/677148)  
 - [2020-05-31-有没有想回山西太原的程序员](https://www.v2ex.com/t/677147)  
 - [2020-05-31-怎么知道是百度云盘还是电信屏蔽了下载](https://www.v2ex.com/t/677146)  
-- [2020-05-31-出国读研究生除了美国还能去哪里比较好?](https://www.v2ex.com/t/677145)  
-- [2020-05-31-求助，米-6-连华硕路由器-AC86U-经常-DNS-解析失败](https://www.v2ex.com/t/677144)  
-- [2020-05-31-学会双拼后会忘记全拼的打字节奏吗?](https://www.v2ex.com/t/677143)  
-- [2020-05-31-同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142)  
-- [2020-05-31-618-想入显示器，咨询老哥们一点问题](https://www.v2ex.com/t/677141)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

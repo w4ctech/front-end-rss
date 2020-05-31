@@ -330,6 +330,16 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "程序员一大误区：盲目求追新技术，说的是你吗",
+        "link": "https://www.ershicimi.com/p/d9d65c361472cb8be993372fdc7fb500",
+        "date": "2020-05-30"
+      },
+      {
+        "title": "尤雨溪自述：打造Vue 3背后的故事",
+        "link": "https://www.ershicimi.com/p/aaabe49c87630d352ab0655e77488985",
+        "date": "2020-05-30"
+      },
+      {
         "title": "Vue版的团队代码规范",
         "link": "https://www.ershicimi.com/p/d732ece6aff3153e9f1b5c67fbdc6a4d",
         "date": "2020-05-29"
@@ -834,6 +844,16 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/892",
     "title": "前端大学",
     "items": [
+      {
+        "title": "10个Vue开发技巧助力成为更好的工程师",
+        "link": "https://www.ershicimi.com/p/a2a7b2b29e9cc6b98bf198f0542e210d",
+        "date": "2020-05-30"
+      },
+      {
+        "title": "一次Linux系统被攻击的分析过程",
+        "link": "https://www.ershicimi.com/p/46d1f0348dc80136c2962fb753235a83",
+        "date": "2020-05-30"
+      },
       {
         "title": "华为WEB前端全栈成长计划招募",
         "link": "https://www.ershicimi.com/p/bfaaaa69d9eb0ee6d81f79ae1b98c43c",
@@ -3499,6 +3519,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "谷歌浏览器安装谷歌上网助手，最近失效了！",
+        "link": "https://www.v2ex.com/t/677120",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "一个选择，各位能给点建议吗？",
+        "link": "https://www.v2ex.com/t/677119",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "不花钱心里难受",
+        "link": "https://www.v2ex.com/t/677118",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "有人能做我的技术导师吗",
+        "link": "https://www.v2ex.com/t/677116",
+        "date": "2020-05-31"
+      },
       {
         "title": "木兰编程语言体验版更新：中文交互环境、调用 Python 库",
         "link": "https://www.v2ex.com/t/677114",

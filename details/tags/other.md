@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -42,6 +42,7 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-05-30-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/d9d65c361472cb8be993372fdc7fb500) 
 - [2020-05-27-程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b) 
 - [2020-05-26-收藏吧-|-前端常用60余种工具方法](https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c) 
 - [2020-05-26-推荐几位朋友圈出镜率极高的大佬](https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461) 
@@ -78,6 +79,7 @@
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-05-30-一次Linux系统被攻击的分析过程](https://www.ershicimi.com/p/46d1f0348dc80136c2962fb753235a83) 
 - [2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21) 
 - [2020-05-27-Wireshark抓包使用指南](https://www.ershicimi.com/p/7910a7c2f559c9e17e40c543a609a445) 
 - [2020-05-25-阿里巴巴员工都在听的英语课，我帮你免费弄来了！](https://www.ershicimi.com/p/00a435acc03e1921c2616dd7c6b6e455) 
@@ -277,6 +279,9 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-31-一个选择，各位能给点建议吗？](https://www.v2ex.com/t/677119) 
+- [2020-05-31-不花钱心里难受](https://www.v2ex.com/t/677118) 
+- [2020-05-31-有人能做我的技术导师吗](https://www.v2ex.com/t/677116) 
 - [2020-05-31-木兰编程语言体验版更新：中文交互环境、调用-Python-库](https://www.v2ex.com/t/677114) 
 - [2020-05-31-哔哩哔哩-iPad-就不搞一个竖屏模式](https://www.v2ex.com/t/677112) 
 - [2020-05-31-还在-996-的朋友们你们再顶一会儿](https://www.v2ex.com/t/677110) 

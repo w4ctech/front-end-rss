@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,6 +29,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-05-31-谷歌浏览器安装谷歌上网助手，最近失效了！](https://www.v2ex.com/t/677120) 
 - [2020-05-30-管理-chrome-扩展程序的插件有知道的么](https://www.v2ex.com/t/677038) 
 - [2020-05-30-面对-ZF-部门提供的不安全的系统提交资料](https://www.v2ex.com/t/677035) 
 - [2020-05-30-Android-Chrome-发送到桌面的网页，可以更改图标吗](https://www.v2ex.com/t/677028) 

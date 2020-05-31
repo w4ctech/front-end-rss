@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,7 @@
 - [2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
 - [2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [2020-05-30-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/aaabe49c87630d352ab0655e77488985) 
 - [2020-05-29-Vue版的团队代码规范](https://www.ershicimi.com/p/d732ece6aff3153e9f1b5c67fbdc6a4d) 
 - [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7) 
 - [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443) 
@@ -24,6 +25,7 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-05-30-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/a2a7b2b29e9cc6b98bf198f0542e210d) 
 - [2020-05-26-几乎人人都会vue，老板凭什么选你？](https://www.ershicimi.com/p/150381de81d795d13ac21cb87e0a5d4d) 
 - [2020-05-24-【纯干货】Vue仿蘑菇街商城项目vue+koa+mongodb）](https://www.ershicimi.com/p/df14669b76bd3ee2124a3095061c087f) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 

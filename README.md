@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 18:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-05-31-以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1) ![](assets/new.png)  
 - [2020-05-31-张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1)  
 - [2020-05-31-俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1)  
 - [2020-05-31-英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-05-30-中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1)  
 - [2020-05-30-菲律宾两大航空公司6月起恢复部分航班运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1)  
 - [2020-05-30-联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1)  
-- [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -882,10 +882,10 @@
 </summary>
 
 
-- [2020-05-31-使用三年的-mbp-2017-挂了](https://www.v2ex.com/t/677232) ![](assets/new.png)  
-- [2020-05-31-今天-mbp-的蓝牙触控板突然变得特别卡，蓝牙键盘也是一样的问题](https://www.v2ex.com/t/677230) ![](assets/new.png)  
-- [2020-05-31-支持替换请求内容的软件](https://www.v2ex.com/t/677229) ![](assets/new.png)  
-- [2020-05-31-工作-4-年，现在老家有个机会，望各位给点建议](https://www.v2ex.com/t/677227) ![](assets/new.png)  
+- [2020-05-31-使用三年的-mbp-2017-挂了](https://www.v2ex.com/t/677232)  
+- [2020-05-31-今天-mbp-的蓝牙触控板突然变得特别卡，蓝牙键盘也是一样的问题](https://www.v2ex.com/t/677230)  
+- [2020-05-31-支持替换请求内容的软件](https://www.v2ex.com/t/677229)  
+- [2020-05-31-工作-4-年，现在老家有个机会，望各位给点建议](https://www.v2ex.com/t/677227)  
 - [2020-05-31-最近准备找工作了，发现好多知识复习不完啊。求指导](https://www.v2ex.com/t/677226)  
 - [2020-05-31-求有国内-CN2-线路的-v-友帮忙测试一下到-cloudflare-的连接。](https://www.v2ex.com/t/677225)  
 - [2020-05-31-笔记本电脑无线网卡遇到的一个很奇怪的问题](https://www.v2ex.com/t/677224)  

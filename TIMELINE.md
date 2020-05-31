@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 06:00:16。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-01 07:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,28 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【V2EX】2020-06-01-阿里云-CDN-有没有类似-CF-的-Page-rules-的功能？](https://www.v2ex.com/t/677340) 
+- [【V2EX】2020-06-01-京东实名还要银行卡号？](https://www.v2ex.com/t/677339) 
+- [【V2EX】2020-06-01-Google-Cloud-无缘无故收了我-100-美元](https://www.v2ex.com/t/677338) 
+- [【V2EX】2020-06-01-MacBook-Pro-在插着电源的情况下会降到-90%电量再充满](https://www.v2ex.com/t/677337) 
+- [【V2EX】2020-06-01-frp-内网穿透的安全性如何？如果是明文传输是否有安全隐患？](https://www.v2ex.com/t/677336) 
+- [【V2EX】2020-06-01-关于安装-Debian-虚拟机的正确姿势？](https://www.v2ex.com/t/677335) 
+- [【V2EX】2020-06-01-freenas-现在英特尔-X710-DA4-网卡和光模块不兼容](https://www.v2ex.com/t/677334) 
+- [【V2EX】2020-06-01-想提升自己学历的话是要报成教吗？有人有经验吗，已有大专](https://www.v2ex.com/t/677332) 
+- [【V2EX】2020-06-01-20200601-午夜俱乐部](https://www.v2ex.com/t/677331) 
+- [【V2EX】2020-06-01-如何梳理整理知识？](https://www.v2ex.com/t/677330) 
+- [【V2EX】2020-06-01-@Livid-2020-生日快乐🎂🎁](https://www.v2ex.com/t/677328) 
+- [【V2EX】2020-06-01-罗技-G304-京东价格-169](https://www.v2ex.com/t/677327) 
+- [【V2EX】2020-06-01-淘宝购物订单记录丢失问题](https://www.v2ex.com/t/677326) 
+- [【V2EX】2020-06-01-V-友有了解什么按月或者按季买的宽带吗？倒不用很快。实习短租三个月，很多看上的房子都没有自带宽带，有点头大。](https://www.v2ex.com/t/677325) 
+- [【V2EX】2020-06-01-ios-有什么办法可以根据时间来是否允许应用通知](https://www.v2ex.com/t/677324) 
+- [【V2EX】2020-06-01-腾讯云阿里云选哪个？做一个视频网站需要什么样配置的服务器？](https://www.v2ex.com/t/677323) 
+- [【V2EX】2020-06-01-pc-在什么样的状态才能称为"待机"状态？](https://www.v2ex.com/t/677322) 
+- [【V2EX】2020-06-01-Windows-To-Go-系统无法查看到内置-Boot-Camp-磁盘](https://www.v2ex.com/t/677321) 
+- [【V2EX】2020-06-01-现在还有以前那种-socks-http-的代理服务器吗？](https://www.v2ex.com/t/677319) 
+- [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
+- [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
+- [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
 - [【开发者头条】2020-06-01-推荐-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s) 
 - [【开发者头条】2020-06-01-推荐-MySQL-三万字精华总结-+-面试-100-问，吊打面试官绰绰有余](https://toutiao.io/k/eakc3v8) 
 - [【开发者头条】2020-06-01-推荐-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u) 

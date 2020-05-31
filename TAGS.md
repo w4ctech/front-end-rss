@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-01 06:00:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 07:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -400,11 +400,11 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】腾讯云阿里云选哪个？做一个视频网站需要什么样配置的服务器？](https://www.v2ex.com/t/677323)
 - [【V2EX】如何加速网络视频学习](https://www.v2ex.com/t/677205)
 - [【V2EX】求助，熊猫-TV-关闭后，还能找到之前的直播数据吗](https://www.v2ex.com/t/677191)
 - [【V2EX】同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142)
 - [【V2EX】Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104)
-- [【V2EX】被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -505,10 +505,10 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【InfoQ】算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
+- [【V2EX】现在还有以前那种-socks-http-的代理服务器吗？](https://www.v2ex.com/t/677319)
 - [【V2EX】占用-GPU-的服务如何解决并发？](https://www.v2ex.com/t/677256)
 - [【V2EX】在局域网里怎么镜像-HTTPs-流量？](https://www.v2ex.com/t/677200)
 - [【V2EX】滴滴出行-北京、杭州-Android/前端/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀...](https://www.v2ex.com/t/676958)
-- [【V2EX】老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

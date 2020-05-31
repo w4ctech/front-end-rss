@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 06:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -32,6 +32,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-01-frp-内网穿透的安全性如何？如果是明文传输是否有安全隐患？](https://www.v2ex.com/t/677336) 
 - [2020-05-31-Chrome-隐藏拓展程序](https://www.v2ex.com/t/677288) 
 - [2020-05-31-电梯里的电子广告牌调试信息里-Wi-Fi-模式“探针模式”是什么意思？](https://www.v2ex.com/t/677278) 
 - [2020-05-31-远程调试用腾讯云-1m-带宽的助理好好还是树莓派-8G-好？](https://www.v2ex.com/t/677250) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 06:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -43,6 +43,7 @@
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
 - [2020-05-31-Vue-框架写的项目，如何优雅的实现伪静态？](https://www.v2ex.com/t/677215) 
 - [2020-05-31-vue3-源码全解析](https://www.v2ex.com/t/677180) 
 - [2020-05-30-vue-如何自适应调整嵌入的-iframe-的大小，让用户完全感觉不出有-iframe-这个东西？](https://www.v2ex.com/t/677018) 

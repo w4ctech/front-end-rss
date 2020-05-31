@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 08:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,8 +74,10 @@
 </summary>
 
 
-- [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1) ![](assets/new.png)  
-- [2020-05-31-英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535) ![](assets/new.png)  
+- [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1)  
+- [2020-05-31-英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1)  
 - [2020-05-31-秘鲁新冠肺炎单日新增病例首次超过7000例-确诊病例突破15万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1)  
 - [2020-05-31-​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1)  
 - [2020-05-30-​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1)  
 - [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1)  
 - [2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)  
-- [2020-05-30-国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)  
-- [2020-05-30-5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -873,10 +873,10 @@
 </summary>
 
 
-- [2020-05-31-有多个-VPS-的话如何实现高可用呢。。](https://www.v2ex.com/t/677107) ![](assets/new.png)  
-- [2020-05-31-CSS-或-JS-能实现如图的-div-层叠吗？](https://www.v2ex.com/t/677106) ![](assets/new.png)  
-- [2020-05-31-Golang-中用什么来替代-Zstd-?](https://www.v2ex.com/t/677105) ![](assets/new.png)  
-- [2020-05-31-Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104) ![](assets/new.png)  
+- [2020-05-31-有多个-VPS-的话如何实现高可用呢。。](https://www.v2ex.com/t/677107)  
+- [2020-05-31-CSS-或-JS-能实现如图的-div-层叠吗？](https://www.v2ex.com/t/677106)  
+- [2020-05-31-Golang-中用什么来替代-Zstd-?](https://www.v2ex.com/t/677105)  
+- [2020-05-31-Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104)  
 - [2020-05-31-结束五年的程序员生涯](https://www.v2ex.com/t/677103)  
 - [2020-05-31-SpaceX-成功完成首次载人发射任务](https://www.v2ex.com/t/677102)  
 - [2020-05-31-关于超六屏蔽线的-nas-布线，很多不懂](https://www.v2ex.com/t/677101)  

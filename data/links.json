@@ -11,6 +11,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "上课啦！宁夏30.4万名1至3年级小学生返校复课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "天津新增1例境外输入无症状感染者 全程实施闭环管理",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "美国：疫情蔓延、失业率飙升、大规模抗议活动",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid3GEIXhClgxxaqpMJe3y200531&isfromapp=1",
+        "date": "2020-05-31"
+      },
+      {
         "title": "2020年5月30日河北省新型冠状病毒肺炎疫情情况",
         "link": "http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml",
         "date": "2020-05-31"
@@ -515,6 +530,16 @@
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
+      {
+        "title": "【第1961期】如何用Canvas拍出JDer's工作照",
+        "link": "https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "【第1960期】解读新一代 Web 性能体验和质量指标",
+        "link": "https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64",
+        "date": "2020-05-30"
+      },
       {
         "title": "【第1959期】面向 Model 编程的前端架构设计",
         "link": "https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12",
@@ -1051,6 +1076,11 @@
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
+      {
+        "title": "IT互联网这么火，为什么还有计算机专业毕业生找不到工作？",
+        "link": "https://www.ershicimi.com/p/a5f5bc7bfe22c66e4afda0aebef03f7a",
+        "date": "2020-05-30"
+      },
       {
         "title": "工作中常用的JavaScript工具函数",
         "link": "https://www.ershicimi.com/p/4919a2dd80458e365ac18a1e0884a161",

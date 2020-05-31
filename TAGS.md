@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-31 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 12:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -354,6 +354,7 @@
 
 
 
+- [【前端早读课】【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)
 - [【凹凸实验室】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
 - [【凹凸实验室】十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/)
 - [【凹凸实验室】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)
@@ -419,6 +420,7 @@
 
 
 
+- [【前端早读课】【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64)
 - [【前端大全】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
@@ -657,6 +659,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国：疫情蔓延、失业率飙升、大规模抗议活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid3GEIXhClgxxaqpMJe3y200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1)
@@ -674,9 +679,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】南非主流媒体发文：“一带一路”倡议将成为全球经济复苏催化剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVOBysAzAsUTrUFubKdNo200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】南非主流媒体：各国应借鉴中国抗疫成功经验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijYA6rdbRMD4EmYI8JxLk200530&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】印度人脸口罩亮相-这次手机能识别吗？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

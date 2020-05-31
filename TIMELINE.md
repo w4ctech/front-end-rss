@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 07:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-01 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) 
+- [【V2EX】2020-06-01-关于内存选购](https://www.v2ex.com/t/677342) 
 - [【V2EX】2020-06-01-阿里云-CDN-有没有类似-CF-的-Page-rules-的功能？](https://www.v2ex.com/t/677340) 
 - [【V2EX】2020-06-01-京东实名还要银行卡号？](https://www.v2ex.com/t/677339) 
 - [【V2EX】2020-06-01-Google-Cloud-无缘无故收了我-100-美元](https://www.v2ex.com/t/677338) 

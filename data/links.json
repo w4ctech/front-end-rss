@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "北京40多万名学生今天返校复课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1",
+        "date": "2020-06-01"
+      },
+      {
         "title": "阿塞拜疆新增新冠肺炎确诊病例248例，累计确诊5494例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVFwFJhH5cQ4qj8dFsX2200531&isfromapp=1",
         "date": "2020-05-31"
@@ -8830,6 +8840,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "关于内存选购",
+        "link": "https://www.v2ex.com/t/677342",
+        "date": "2020-06-01"
+      },
       {
         "title": "阿里云 CDN 有没有类似 CF 的 Page rules 的功能？",
         "link": "https://www.v2ex.com/t/677340",

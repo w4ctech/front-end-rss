@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-06-01 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-06-01-关于内存选购](https://www.v2ex.com/t/677342) 
 - [2020-06-01-阿里云-CDN-有没有类似-CF-的-Page-rules-的功能？](https://www.v2ex.com/t/677340) 
 - [2020-06-01-京东实名还要银行卡号？](https://www.v2ex.com/t/677339) 
 - [2020-06-01-Google-Cloud-无缘无故收了我-100-美元](https://www.v2ex.com/t/677338) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-31 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 17:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -398,13 +398,13 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】如何加速网络视频学习](https://www.v2ex.com/t/677205)
+- [【V2EX】求助，熊猫-TV-关闭后，还能找到之前的直播数据吗](https://www.v2ex.com/t/677191)
 - [【V2EX】同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142)
 - [【V2EX】Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104)
 - [【V2EX】被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976)
 - [【V2EX】想找一些讲述道观或寺庙里修行者的视频，请大家有看过的推荐一下](https://www.v2ex.com/t/676974)
 - [【V2EX】短视频-快手/-北京、深圳、杭州、上海-客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/676972)
-- [【V2EX】远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865)
-- [【V2EX】火爆招聘中上海/杭州阿里云-视频基础技术团队-视频-AI-工程开发](https://www.v2ex.com/t/676860)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -505,10 +505,10 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【InfoQ】算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
+- [【V2EX】在局域网里怎么镜像-HTTPs-流量？](https://www.v2ex.com/t/677200)
 - [【V2EX】滴滴出行-北京、杭州-Android/前端/Go/-Java-/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，优秀...](https://www.v2ex.com/t/676958)
 - [【V2EX】老铁们考虑「有赞」吗？内推走起！前端/后端/测试/Android/iOS/算法](https://www.v2ex.com/t/676796)
 - [【V2EX】杭州-内推有红包🧧海拍客急招算法专家、搜索专家](https://www.v2ex.com/t/676786)
-- [【V2EX】纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -527,6 +527,8 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【V2EX】OpenResty-持续运行内存不会回收](https://www.v2ex.com/t/677203)
+- [【V2EX】请问可以在-docker-Linux-上开发-c/c++吗？](https://www.v2ex.com/t/677181)
 - [【V2EX】docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -593,7 +595,7 @@
 - [【InfoQ】招聘需求恢复95%：全力扶持“后浪”，“前浪”只能自己挣扎](https://www.ershicimi.com/p/ad4137d79c3436f9c221da3c864050c1)
 - [【JavaScript】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)
 - [【JavaScript】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)
-- [【V2EX】来未来科技（浙江）有限公司招聘若干高级前端工程师-base-杭州余杭](https://www.v2ex.com/t/676981)
+- [【V2EX】最近招聘的时候觉得大家都是一家培训机构出来的吧？简历都一个样](https://www.v2ex.com/t/677194)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -629,6 +631,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】2020年5月30日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535)
@@ -660,6 +663,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)
@@ -679,7 +683,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】加拿大新增906例新冠病毒感染病例-累计确诊89418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijjGbNi5l2QKMwt3fO4zg200530&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

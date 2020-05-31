@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -20,6 +20,8 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
+- [2020-05-31-如何加速网络视频学习](https://www.v2ex.com/t/677205) 
+- [2020-05-31-求助，熊猫-TV-关闭后，还能找到之前的直播数据吗](https://www.v2ex.com/t/677191) 
 - [2020-05-31-同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142) 
 - [2020-05-31-Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104) 
 - [2020-05-30-被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976) 

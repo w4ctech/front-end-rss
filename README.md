@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 16:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 17:30:20，:rocket: 更新条数: +45， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -74,6 +74,8 @@
 </summary>
 
 
+- [2020-05-31-张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1) ![](assets/new.png)  
 - [2020-05-31-英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1)  
 - [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)  
 - [2020-05-31-上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-05-30-菲律宾两大航空公司6月起恢复部分航班运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1)  
 - [2020-05-30-联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1)  
 - [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1)  
-- [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)  
-- [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -882,26 +882,26 @@
 </summary>
 
 
-- [2020-05-31-关于-“Sign-in-with-Apple”-安全漏洞的疑问](https://www.v2ex.com/t/677173)  
-- [2020-05-31-应届-Offer-比较：阿里-VS-字节](https://www.v2ex.com/t/677172)  
-- [2020-05-31-MongoDB-Aggregation-Pipeline-并没有使用索引](https://www.v2ex.com/t/677171)  
-- [2020-05-31-MacBook-Pro-16-寸-电池生产日期晚于今天](https://www.v2ex.com/t/677169)  
-- [2020-05-31-京东金融信用卡还款提示还款成功未到账](https://www.v2ex.com/t/677168)  
-- [2020-05-31-某-ray-被发现可以通过简单的字符串匹配](https://www.v2ex.com/t/677165)  
-- [2020-05-31-分享一下自己用-7-块钱搭建自动发卡网站的过程](https://www.v2ex.com/t/677164)  
-- [2020-05-31-使用-iterm-过程中的两个小问题](https://www.v2ex.com/t/677163)  
-- [2020-05-31-炒饭划水网站历时半年，炒饭终于有自己的-LOGO-了](https://www.v2ex.com/t/677162)  
-- [2020-05-31-巴哈姆特动画疯-一个不错的动漫网站](https://www.v2ex.com/t/677161)  
-- [2020-05-31-现在各个大厂加班的情况怎么样](https://www.v2ex.com/t/677159)  
-- [2020-05-31-都在说-35-转行，在-HN-上看到美帝-74-岁老码农现身说法，工作-57-年没退休计划，给大家打个鸡血](https://www.v2ex.com/t/677157)  
-- [2020-05-31-关于爬虫异步多线程的问题](https://www.v2ex.com/t/677155)  
-- [2020-05-31-你们上一次蓝屏是什么时候？](https://www.v2ex.com/t/677154)  
-- [2020-05-31-找球友-长宁区伊犁路附近有球友吗](https://www.v2ex.com/t/677152)  
-- [2020-05-31-onedrive-学校邮箱账户如何更改密码？莫名其妙的密码就不对了，点重置密码也显示无权，必须要联系管理员，...](https://www.v2ex.com/t/677151)  
-- [2020-05-31-H3C-技术真-TM-无语](https://www.v2ex.com/t/677150)  
-- [2020-05-31-迫于昨天提问的帖子感触良久，想换一份-Python-工作了，专专有坑坑吗](https://www.v2ex.com/t/677148)  
-- [2020-05-31-有没有想回山西太原的程序员](https://www.v2ex.com/t/677147)  
-- [2020-05-31-怎么知道是百度云盘还是电信屏蔽了下载](https://www.v2ex.com/t/677146)  
+- [2020-05-31-最近准备找工作了，发现好多知识复习不完啊。求指导](https://www.v2ex.com/t/677226) ![](assets/new.png)  
+- [2020-05-31-求有国内-CN2-线路的-v-友帮忙测试一下到-cloudflare-的连接。](https://www.v2ex.com/t/677225) ![](assets/new.png)  
+- [2020-05-31-笔记本电脑无线网卡遇到的一个很奇怪的问题](https://www.v2ex.com/t/677224) ![](assets/new.png)  
+- [2020-05-31-chrome-空置一段时间很卡](https://www.v2ex.com/t/677223) ![](assets/new.png)  
+- [2020-05-31-Python-爬虫有什么学习资料](https://www.v2ex.com/t/677222) ![](assets/new.png)  
+- [2020-05-31-京东的-plus-超级生活卡值得买吗？](https://www.v2ex.com/t/677221) ![](assets/new.png)  
+- [2020-05-31-刚入职的公司，我在-C-盘下发现了一个小秘密，或许只有-HR-知道。](https://www.v2ex.com/t/677220) ![](assets/new.png)  
+- [2020-05-31-可以买-55-寸的电视当显示器用吗？](https://www.v2ex.com/t/677219) ![](assets/new.png)  
+- [2020-05-31-Ngrok-代理群晖-SMB-服务需要转发哪些端口？](https://www.v2ex.com/t/677217) ![](assets/new.png)  
+- [2020-05-31-朋友需要起一个跟红酒有关的品牌名称，各位有啥好想法吗？](https://www.v2ex.com/t/677216) ![](assets/new.png)  
+- [2020-05-31-Vue-框架写的项目，如何优雅的实现伪静态？](https://www.v2ex.com/t/677215) ![](assets/new.png)  
+- [2020-05-31-普通的-spring-项目可以用.yml-当配置文件吗？具体怎么实现？](https://www.v2ex.com/t/677214) ![](assets/new.png)  
+- [2020-05-31-618！-4-K-显示器求推荐](https://www.v2ex.com/t/677213) ![](assets/new.png)  
+- [2020-05-31-域名被墙如何解决：](https://www.v2ex.com/t/677212) ![](assets/new.png)  
+- [2020-05-31-高情商和内存抖动的关系](https://www.v2ex.com/t/677210) ![](assets/new.png)  
+- [2020-05-31-熙牛医疗科技（浙江）-内推-杭州前端-Java-测试](https://www.v2ex.com/t/677209) ![](assets/new.png)  
+- [2020-05-31-最近装修，全屋整装有什么坑吗？](https://www.v2ex.com/t/677208) ![](assets/new.png)  
+- [2020-05-31-推广几个作品](https://www.v2ex.com/t/677207) ![](assets/new.png)  
+- [2020-05-31-字节跳动-番茄小说直招-内推-深圳-北京-广州-校招/实习生-社招-iOS/Android-客户端](https://www.v2ex.com/t/677206) ![](assets/new.png)  
+- [2020-05-31-如何加速网络视频学习](https://www.v2ex.com/t/677205) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -944,7 +944,7 @@
 </summary>
 
 
-- [2020-05-31-推荐-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq) ![](assets/new.png)  
+- [2020-05-31-推荐-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  
 - [2020-05-31-推荐-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51)  
 - [2020-05-31-为什么系统调用会消耗较多资源](https://toutiao.io/k/lfcq1ha)  
 - [2020-05-31-限流算法原理剖析](https://toutiao.io/k/v4f0jid)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 21:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,6 +29,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-05-31-远程调试用腾讯云-1m-带宽的助理好好还是树莓派-8G-好？](https://www.v2ex.com/t/677250) 
+- [2020-05-31-定时拉取-github-仓库的-markdown-并自动渲染？](https://www.v2ex.com/t/677246) 
 - [2020-05-31-支持替换请求内容的软件](https://www.v2ex.com/t/677229) 
 - [2020-05-31-chrome-空置一段时间很卡](https://www.v2ex.com/t/677223) 
 - [2020-05-31-关于-“Sign-in-with-Apple”-安全漏洞的疑问](https://www.v2ex.com/t/677173) 

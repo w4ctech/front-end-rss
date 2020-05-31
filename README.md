@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 20:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 21:00:20，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,7 +74,8 @@
 </summary>
 
 
-- [2020-05-31-阿联酋新增661例新冠肺炎确诊病例-累计确诊34557例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-荷兰新增新冠肺炎确诊病例185例，累计确诊46442例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articw9yMqwTZ6Szo6pwdsEc200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-阿联酋新增661例新冠肺炎确诊病例-累计确诊34557例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1)  
 - [2020-05-31-以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1)  
 - [2020-05-31-张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1)  
 - [2020-05-31-俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-05-30-​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1)  
 - [2020-05-30-世卫组织：全球新冠肺炎确诊病例超581万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifedvTgJSJ1aEOqDrhwT0200530&isfromapp=1)  
 - [2020-05-30-中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1)  
-- [2020-05-30-菲律宾两大航空公司6月起恢复部分航班运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -882,26 +882,26 @@
 </summary>
 
 
-- [2020-05-31-使用三年的-mbp-2017-挂了](https://www.v2ex.com/t/677232)  
-- [2020-05-31-今天-mbp-的蓝牙触控板突然变得特别卡，蓝牙键盘也是一样的问题](https://www.v2ex.com/t/677230)  
-- [2020-05-31-支持替换请求内容的软件](https://www.v2ex.com/t/677229)  
-- [2020-05-31-工作-4-年，现在老家有个机会，望各位给点建议](https://www.v2ex.com/t/677227)  
-- [2020-05-31-最近准备找工作了，发现好多知识复习不完啊。求指导](https://www.v2ex.com/t/677226)  
-- [2020-05-31-求有国内-CN2-线路的-v-友帮忙测试一下到-cloudflare-的连接。](https://www.v2ex.com/t/677225)  
-- [2020-05-31-笔记本电脑无线网卡遇到的一个很奇怪的问题](https://www.v2ex.com/t/677224)  
-- [2020-05-31-chrome-空置一段时间很卡](https://www.v2ex.com/t/677223)  
-- [2020-05-31-Python-爬虫有什么学习资料](https://www.v2ex.com/t/677222)  
-- [2020-05-31-京东的-plus-超级生活卡值得买吗？](https://www.v2ex.com/t/677221)  
-- [2020-05-31-刚入职的公司，我在-C-盘下发现了一个小秘密，或许只有-HR-知道。](https://www.v2ex.com/t/677220)  
-- [2020-05-31-可以买-55-寸的电视当显示器用吗？](https://www.v2ex.com/t/677219)  
-- [2020-05-31-Ngrok-代理群晖-SMB-服务需要转发哪些端口？](https://www.v2ex.com/t/677217)  
-- [2020-05-31-朋友需要起一个跟红酒有关的品牌名称，各位有啥好想法吗？](https://www.v2ex.com/t/677216)  
-- [2020-05-31-Vue-框架写的项目，如何优雅的实现伪静态？](https://www.v2ex.com/t/677215)  
-- [2020-05-31-普通的-spring-项目可以用.yml-当配置文件吗？具体怎么实现？](https://www.v2ex.com/t/677214)  
-- [2020-05-31-618！-4-K-显示器求推荐](https://www.v2ex.com/t/677213)  
-- [2020-05-31-域名被墙如何解决：](https://www.v2ex.com/t/677212)  
-- [2020-05-31-高情商和内存抖动的关系](https://www.v2ex.com/t/677210)  
-- [2020-05-31-熙牛医疗科技（浙江）-内推-杭州前端-Java-测试](https://www.v2ex.com/t/677209)  
+- [2020-05-31-阿里国际化事业部诚招-Java-技术栈开发工程师/技术专家](https://www.v2ex.com/t/677276) ![](assets/new.png)  
+- [2020-05-31-求助:-微信群名称如何获取并保存到本地](https://www.v2ex.com/t/677275) ![](assets/new.png)  
+- [2020-05-31-ssh-proxyjump](https://www.v2ex.com/t/677274) ![](assets/new.png)  
+- [2020-05-31-618-当天跟之前的活动有差别么？](https://www.v2ex.com/t/677273) ![](assets/new.png)  
+- [2020-05-31-慢速循环造成-gc-exceeded-limit，-Outofmemory](https://www.v2ex.com/t/677272) ![](assets/new.png)  
+- [2020-05-31-这个动效怎么实现的呢？](https://www.v2ex.com/t/677271) ![](assets/new.png)  
+- [2020-05-31-在武汉买房，公积金组合贷，要求我在北京开无房证明，但是北京不给外地人开这个？不知道有么有-v-友遇到这...](https://www.v2ex.com/t/677269) ![](assets/new.png)  
+- [2020-05-31-冲动注册了个域名，但是不知道要用来做什么](https://www.v2ex.com/t/677268) ![](assets/new.png)  
+- [2020-05-31-拆迁合同都签了，但是钱一直没给，一年多了，请问有什么办法可以催吗](https://www.v2ex.com/t/677264) ![](assets/new.png)  
+- [2020-05-31-google-账号无法恢复](https://www.v2ex.com/t/677263) ![](assets/new.png)  
+- [2020-05-31-现在安卓开发都在用-kotlin-吗？](https://www.v2ex.com/t/677262) ![](assets/new.png)  
+- [2020-05-31-淘宝的百亿补贴是不是“假”的？](https://www.v2ex.com/t/677261) ![](assets/new.png)  
+- [2020-05-31-自己搭建-nas，-22ssh和-445samba端口速度非常慢，求分析](https://www.v2ex.com/t/677260) ![](assets/new.png)  
+- [2020-05-31-你们多久请一次假，平均一个月请一次/天过不过分？](https://www.v2ex.com/t/677258) ![](assets/new.png)  
+- [2020-05-31-写了一个微信-QQ-链接屏蔽监控工具，可加域名池，可用-API-回调](https://www.v2ex.com/t/677257) ![](assets/new.png)  
+- [2020-05-31-占用-GPU-的服务如何解决并发？](https://www.v2ex.com/t/677256) ![](assets/new.png)  
+- [2020-05-31-求推荐一个黑苹果用的键盘](https://www.v2ex.com/t/677255) ![](assets/new.png)  
+- [2020-05-31-基于-Windows-系统运行的-Linux-虚拟机，用什么工具比较稳定？](https://www.v2ex.com/t/677254) ![](assets/new.png)  
+- [2020-05-31-研究生读论文有必要买-iPad-吗？](https://www.v2ex.com/t/677253) ![](assets/new.png)  
+- [2020-05-31-远程调试用腾讯云-1m-带宽的助理好好还是树莓派-8G-好？](https://www.v2ex.com/t/677250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

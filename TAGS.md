@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-31 22:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 23:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -596,7 +596,7 @@
 - [【InfoQ】招聘需求恢复95%：全力扶持“后浪”，“前浪”只能自己挣扎](https://www.ershicimi.com/p/ad4137d79c3436f9c221da3c864050c1)
 - [【JavaScript】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)
 - [【JavaScript】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)
-- [【V2EX】最近招聘的时候觉得大家都是一家培训机构出来的吧？简历都一个样](https://www.v2ex.com/t/677194)
+- [【掘金前端】第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

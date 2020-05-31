@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -248,6 +248,7 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-05-31-编写邮件模板的注意事项](https://juejin.im/post/5ed39d86518825434b1fc377) 
 - [2020-05-30-一文读懂-YAML](https://juejin.im/post/5ed2723c6fb9a047ee4c4bb8) 
 - [2020-05-30-SpringCloud源码解读之Feign一](https://juejin.im/post/5ed2081e5188254344768351) 
 - [2020-05-30-【前后端分离】如何从0到1写接口（1）？](https://juejin.im/post/5ed203da6fb9a047fb52288c) 

@@ -6012,6 +6012,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "有态度的前沿技术解析，第22期技术雷达 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-05-31"
+      },
+      {
         "title": "以深度学习为例理解22种设计模式（一）创建型模式 (johnhany.net)",
         "link": "https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-05-29"

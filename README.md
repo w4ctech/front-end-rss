@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 14:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)  
 - [2020-05-31-上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)  
 - [2020-05-31-天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1)  
 - [2020-05-31-美国：疫情蔓延、失业率飙升、大规模抗议活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid3GEIXhClgxxaqpMJe3y200531&isfromapp=1)  
@@ -880,11 +880,11 @@
 </summary>
 
 
-- [2020-05-31-关于-“Sign-in-with-Apple”-安全漏洞的疑问](https://www.v2ex.com/t/677173) ![](assets/new.png)  
-- [2020-05-31-应届-Offer-比较：阿里-VS-字节](https://www.v2ex.com/t/677172) ![](assets/new.png)  
-- [2020-05-31-MongoDB-Aggregation-Pipeline-并没有使用索引](https://www.v2ex.com/t/677171) ![](assets/new.png)  
-- [2020-05-31-MacBook-Pro-16-寸-电池生产日期晚于今天](https://www.v2ex.com/t/677169) ![](assets/new.png)  
-- [2020-05-31-京东金融信用卡还款提示还款成功未到账](https://www.v2ex.com/t/677168) ![](assets/new.png)  
+- [2020-05-31-关于-“Sign-in-with-Apple”-安全漏洞的疑问](https://www.v2ex.com/t/677173)  
+- [2020-05-31-应届-Offer-比较：阿里-VS-字节](https://www.v2ex.com/t/677172)  
+- [2020-05-31-MongoDB-Aggregation-Pipeline-并没有使用索引](https://www.v2ex.com/t/677171)  
+- [2020-05-31-MacBook-Pro-16-寸-电池生产日期晚于今天](https://www.v2ex.com/t/677169)  
+- [2020-05-31-京东金融信用卡还款提示还款成功未到账](https://www.v2ex.com/t/677168)  
 - [2020-05-31-某-ray-被发现可以通过简单的字符串匹配](https://www.v2ex.com/t/677165)  
 - [2020-05-31-分享一下自己用-7-块钱搭建自动发卡网站的过程](https://www.v2ex.com/t/677164)  
 - [2020-05-31-使用-iterm-过程中的两个小问题](https://www.v2ex.com/t/677163)  
@@ -911,6 +911,7 @@
 </summary>
 
 
+- [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-29-以深度学习为例理解22种设计模式（一）创建型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -930,7 +931,6 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-31 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-05-31 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-05-31-2020年5月30日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-31-国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-31-全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1) 
@@ -450,6 +451,23 @@
 - [【知乎日报】2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [【知乎日报】2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [【知乎日报】2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [【V2EX】2020-05-31-同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142) 
+- [【V2EX】2020-05-31-618-想入显示器，咨询老哥们一点问题](https://www.v2ex.com/t/677141) 
+- [【V2EX】2020-05-31-2020-年了，问下小程序如何播放-base64-的背景音频？](https://www.v2ex.com/t/677139) 
+- [【V2EX】2020-05-31-求推荐笔记本支架方案能够在外接键盘下离屏幕较近。](https://www.v2ex.com/t/677137) 
+- [【V2EX】2020-05-31-扫描仪-佳能的-5600F-如何-虽然有点老了-但是三方软件还是能驱动-看起来挺高清的](https://www.v2ex.com/t/677136) 
+- [【V2EX】2020-05-31-好奇地问个问题，家电维修师傅的“电路水平”是不是比较厉害？](https://www.v2ex.com/t/677135) 
+- [【V2EX】2020-05-31-求-telegran-bot-开发交流群推荐](https://www.v2ex.com/t/677134) 
+- [【V2EX】2020-05-31-饿了么、抖音-pojie-flask+frida-rpc](https://www.v2ex.com/t/677133) 
+- [【V2EX】2020-05-31-北京线下体验购买显示器一般去哪里？](https://www.v2ex.com/t/677132) 
+- [【V2EX】2020-05-31-有哪些-APP-广告联盟推荐下，个人开发者可以接入的](https://www.v2ex.com/t/677130) 
+- [【V2EX】2020-05-31-请问图片里边的这个元素，我用-selenium-为什么无论如何都定位不到这个元素？](https://www.v2ex.com/t/677129) 
+- [【V2EX】2020-05-31-我发现一个域名很适合马斯克的龙飞船](https://www.v2ex.com/t/677127) 
+- [【V2EX】2020-05-31-越狱遇到一件奇怪的事情，以前完美越狱时添加的源怎么还在？设备都不在了。](https://www.v2ex.com/t/677126) 
+- [【V2EX】2020-05-31-MacBook-Pro-13''-2020-低配版升级内存价格翻倍](https://www.v2ex.com/t/677125) 
+- [【V2EX】2020-05-31-Mac-黑苹果-早上起来硬盘识别不到，求救](https://www.v2ex.com/t/677124) 
+- [【V2EX】2020-05-31-优酷-vip-就是个屁](https://www.v2ex.com/t/677122) 
+- [【V2EX】2020-05-31-大佬们看源码除了用-IDE-之外，还有什么方便的工具吗？](https://www.v2ex.com/t/677121) 
 - [【V2EX】2020-05-31-谷歌浏览器安装谷歌上网助手，最近失效了！](https://www.v2ex.com/t/677120) 
 - [【V2EX】2020-05-31-一个选择，各位能给点建议吗？](https://www.v2ex.com/t/677119) 
 - [【V2EX】2020-05-31-不花钱心里难受](https://www.v2ex.com/t/677118) 
@@ -910,6 +928,7 @@
 - [【技术头条】2020-05-29-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-05-31-推荐-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51) 
 - [【开发者头条】2020-05-31-为什么系统调用会消耗较多资源](https://toutiao.io/k/lfcq1ha) 
 - [【开发者头条】2020-05-31-限流算法原理剖析](https://toutiao.io/k/v4f0jid) 
 - [【开发者头条】2020-05-31-安装-PHP-MongoDB-扩展](https://toutiao.io/k/h2ar7ld) 

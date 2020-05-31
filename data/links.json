@@ -11,6 +11,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "2020年5月30日河北省新型冠状病毒肺炎疫情情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml",
+        "date": "2020-05-31"
+      },
+      {
         "title": "国家卫健委：5月30日新增2例新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1",
         "date": "2020-05-31"
@@ -3520,6 +3525,91 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "同一部电影不同播放器播放效果差很远，应该怎么调？",
+        "link": "https://www.v2ex.com/t/677142",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "618 想入显示器，咨询老哥们一点问题",
+        "link": "https://www.v2ex.com/t/677141",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "2020 年了，问下小程序如何播放 base64 的背景音频？",
+        "link": "https://www.v2ex.com/t/677139",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "求推荐笔记本支架方案能够在外接键盘下离屏幕较近。",
+        "link": "https://www.v2ex.com/t/677137",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "扫描仪 佳能的 5600F 如何 虽然有点老了 但是三方软件还是能驱动 看起来挺高清的",
+        "link": "https://www.v2ex.com/t/677136",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "好奇地问个问题，家电维修师傅的“电路水平”是不是比较厉害？",
+        "link": "https://www.v2ex.com/t/677135",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "求 telegran bot 开发交流群推荐",
+        "link": "https://www.v2ex.com/t/677134",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "饿了么、抖音 pojie-flask+frida-rpc",
+        "link": "https://www.v2ex.com/t/677133",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "北京线下体验购买显示器一般去哪里？",
+        "link": "https://www.v2ex.com/t/677132",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "有哪些 APP 广告联盟推荐下，个人开发者可以接入的",
+        "link": "https://www.v2ex.com/t/677130",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "请问图片里边的这个元素，我用 selenium 为什么无论如何都定位不到这个元素？",
+        "link": "https://www.v2ex.com/t/677129",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "我发现一个域名很适合马斯克的龙飞船",
+        "link": "https://www.v2ex.com/t/677127",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "越狱遇到一件奇怪的事情，以前完美越狱时添加的源怎么还在？设备都不在了。",
+        "link": "https://www.v2ex.com/t/677126",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "MacBook Pro 13'' 2020 低配版升级内存价格翻倍",
+        "link": "https://www.v2ex.com/t/677125",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "Mac 黑苹果 早上起来硬盘识别不到，求救",
+        "link": "https://www.v2ex.com/t/677124",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "优酷 vip 就是个屁",
+        "link": "https://www.v2ex.com/t/677122",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "大佬们看源码除了用 IDE 之外，还有什么方便的工具吗？",
+        "link": "https://www.v2ex.com/t/677121",
+        "date": "2020-05-31"
+      },
+      {
         "title": "谷歌浏览器安装谷歌上网助手，最近失效了！",
         "link": "https://www.v2ex.com/t/677120",
         "date": "2020-05-31"
@@ -5833,6 +5923,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 领域驱动设计 (DDD) 实践之路（三）：如何设计聚合",
+        "link": "https://toutiao.io/k/x7mod51",
+        "date": "2020-05-31"
+      },
       {
         "title": "为什么系统调用会消耗较多资源",
         "link": "https://toutiao.io/k/lfcq1ha",

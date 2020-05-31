@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 10:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 11:30:21，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-05-31-2020年5月30日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml) ![](assets/new.png)  
 - [2020-05-31-国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1)  
 - [2020-05-31-全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535)  
 - [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-05-30-因曝光医院防护不力被开除，美国医生对医院提起诉讼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibrMsVjhgaH9i1dwXCUOF200530&isfromapp=1)  
 - [2020-05-30-5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1)  
 - [2020-05-30-疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1)  
-- [2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -126,8 +126,8 @@
 </summary>
 
 
-- [2020-05-30-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/d9d65c361472cb8be993372fdc7fb500) ![](assets/new.png)  
-- [2020-05-30-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/aaabe49c87630d352ab0655e77488985) ![](assets/new.png)  
+- [2020-05-30-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/d9d65c361472cb8be993372fdc7fb500)  
+- [2020-05-30-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/aaabe49c87630d352ab0655e77488985)  
 - [2020-05-29-Vue版的团队代码规范](https://www.ershicimi.com/p/d732ece6aff3153e9f1b5c67fbdc6a4d)  
 - [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)  
 - [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe)  
@@ -306,8 +306,8 @@
 </summary>
 
 
-- [2020-05-30-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/a2a7b2b29e9cc6b98bf198f0542e210d) ![](assets/new.png)  
-- [2020-05-30-一次Linux系统被攻击的分析过程](https://www.ershicimi.com/p/46d1f0348dc80136c2962fb753235a83) ![](assets/new.png)  
+- [2020-05-30-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/a2a7b2b29e9cc6b98bf198f0542e210d)  
+- [2020-05-30-一次Linux系统被攻击的分析过程](https://www.ershicimi.com/p/46d1f0348dc80136c2962fb753235a83)  
 - [2020-05-29-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/bfaaaa69d9eb0ee6d81f79ae1b98c43c)  
 - [2020-05-28-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/70bce801a515143564e6e877b4f06c21)  
 - [2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11)  
@@ -877,26 +877,26 @@
 </summary>
 
 
-- [2020-05-31-谷歌浏览器安装谷歌上网助手，最近失效了！](https://www.v2ex.com/t/677120) ![](assets/new.png)  
-- [2020-05-31-一个选择，各位能给点建议吗？](https://www.v2ex.com/t/677119) ![](assets/new.png)  
-- [2020-05-31-不花钱心里难受](https://www.v2ex.com/t/677118) ![](assets/new.png)  
-- [2020-05-31-有人能做我的技术导师吗](https://www.v2ex.com/t/677116) ![](assets/new.png)  
-- [2020-05-31-木兰编程语言体验版更新：中文交互环境、调用-Python-库](https://www.v2ex.com/t/677114)  
-- [2020-05-31-分享一个文档内容搜索软件吧-DocFetcher](https://www.v2ex.com/t/677113)  
-- [2020-05-31-哔哩哔哩-iPad-就不搞一个竖屏模式](https://www.v2ex.com/t/677112)  
-- [2020-05-31-还在-996-的朋友们你们再顶一会儿](https://www.v2ex.com/t/677110)  
-- [2020-05-31-iMac-屏幕变得灰蒙蒙，是该退役了吗？](https://www.v2ex.com/t/677109)  
-- [2020-05-31-有多个-VPS-的话如何实现高可用呢。。](https://www.v2ex.com/t/677107)  
-- [2020-05-31-CSS-或-JS-能实现如图的-div-层叠吗？](https://www.v2ex.com/t/677106)  
-- [2020-05-31-Golang-中用什么来替代-Zstd-?](https://www.v2ex.com/t/677105)  
-- [2020-05-31-Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104)  
-- [2020-05-31-结束五年的程序员生涯](https://www.v2ex.com/t/677103)  
-- [2020-05-31-SpaceX-成功完成首次载人发射任务](https://www.v2ex.com/t/677102)  
-- [2020-05-31-关于超六屏蔽线的-nas-布线，很多不懂](https://www.v2ex.com/t/677101)  
-- [2020-05-31-Netflix---《Space-Force》](https://www.v2ex.com/t/677100)  
-- [2020-05-31-如果人不在当地，找工作影响大不大](https://www.v2ex.com/t/677099)  
-- [2020-05-31-刚刚做了一个好可怕的梦](https://www.v2ex.com/t/677098)  
-- [2020-05-31-搞到深夜撸了一个网站，只需三毛钱就可以为梦想多一份祝福和祈祷](https://www.v2ex.com/t/677097)  
+- [2020-05-31-同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142) ![](assets/new.png)  
+- [2020-05-31-618-想入显示器，咨询老哥们一点问题](https://www.v2ex.com/t/677141) ![](assets/new.png)  
+- [2020-05-31-2020-年了，问下小程序如何播放-base64-的背景音频？](https://www.v2ex.com/t/677139) ![](assets/new.png)  
+- [2020-05-31-求推荐笔记本支架方案能够在外接键盘下离屏幕较近。](https://www.v2ex.com/t/677137) ![](assets/new.png)  
+- [2020-05-31-扫描仪-佳能的-5600F-如何-虽然有点老了-但是三方软件还是能驱动-看起来挺高清的](https://www.v2ex.com/t/677136) ![](assets/new.png)  
+- [2020-05-31-好奇地问个问题，家电维修师傅的“电路水平”是不是比较厉害？](https://www.v2ex.com/t/677135) ![](assets/new.png)  
+- [2020-05-31-求-telegran-bot-开发交流群推荐](https://www.v2ex.com/t/677134) ![](assets/new.png)  
+- [2020-05-31-饿了么、抖音-pojie-flask+frida-rpc](https://www.v2ex.com/t/677133) ![](assets/new.png)  
+- [2020-05-31-北京线下体验购买显示器一般去哪里？](https://www.v2ex.com/t/677132) ![](assets/new.png)  
+- [2020-05-31-有哪些-APP-广告联盟推荐下，个人开发者可以接入的](https://www.v2ex.com/t/677130) ![](assets/new.png)  
+- [2020-05-31-请问图片里边的这个元素，我用-selenium-为什么无论如何都定位不到这个元素？](https://www.v2ex.com/t/677129) ![](assets/new.png)  
+- [2020-05-31-我发现一个域名很适合马斯克的龙飞船](https://www.v2ex.com/t/677127) ![](assets/new.png)  
+- [2020-05-31-越狱遇到一件奇怪的事情，以前完美越狱时添加的源怎么还在？设备都不在了。](https://www.v2ex.com/t/677126) ![](assets/new.png)  
+- [2020-05-31-MacBook-Pro-13''-2020-低配版升级内存价格翻倍](https://www.v2ex.com/t/677125) ![](assets/new.png)  
+- [2020-05-31-Mac-黑苹果-早上起来硬盘识别不到，求救](https://www.v2ex.com/t/677124) ![](assets/new.png)  
+- [2020-05-31-优酷-vip-就是个屁](https://www.v2ex.com/t/677122) ![](assets/new.png)  
+- [2020-05-31-大佬们看源码除了用-IDE-之外，还有什么方便的工具吗？](https://www.v2ex.com/t/677121) ![](assets/new.png)  
+- [2020-05-31-谷歌浏览器安装谷歌上网助手，最近失效了！](https://www.v2ex.com/t/677120)  
+- [2020-05-31-一个选择，各位能给点建议吗？](https://www.v2ex.com/t/677119)  
+- [2020-05-31-不花钱心里难受](https://www.v2ex.com/t/677118)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -939,6 +939,7 @@
 </summary>
 
 
+- [2020-05-31-推荐-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51) ![](assets/new.png)  
 - [2020-05-31-为什么系统调用会消耗较多资源](https://toutiao.io/k/lfcq1ha)  
 - [2020-05-31-限流算法原理剖析](https://toutiao.io/k/v4f0jid)  
 - [2020-05-31-安装-PHP-MongoDB-扩展](https://toutiao.io/k/h2ar7ld)  
@@ -958,7 +959,6 @@
 - [2020-05-31-推荐-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
 - [2020-05-30-美团配送-A/B-评估体系建设与实践](https://toutiao.io/k/cvnijlb)  
 - [2020-05-30-LevelDB-完全解析（十）：读操作之-Iterator](https://toutiao.io/k/fq97rr7)  
-- [2020-05-30-Java-并发编程那些事儿（六）：Executor-框架及线程池](https://toutiao.io/k/n4e3smu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

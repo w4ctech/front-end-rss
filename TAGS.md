@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-31 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,6 +395,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】同一部电影不同播放器播放效果差很远，应该怎么调？](https://www.v2ex.com/t/677142)
 - [【V2EX】Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104)
 - [【V2EX】被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976)
 - [【V2EX】想找一些讲述道观或寺庙里修行者的视频，请大家有看过的推荐一下](https://www.v2ex.com/t/676974)
@@ -402,7 +403,6 @@
 - [【V2EX】远程办公-视频面试-Jerry-Ai-全栈工程师,-数据工程师岗位直推](https://www.v2ex.com/t/676865)
 - [【V2EX】火爆招聘中上海/杭州阿里云-视频基础技术团队-视频-AI-工程开发](https://www.v2ex.com/t/676860)
 - [【V2EX】Mac-OS-有什么视频转换软件吗？只想转变格式-不想动内容。](https://www.v2ex.com/t/676849)
-- [【V2EX】油管这点太烦人了，不如国内视频站。](https://www.v2ex.com/t/676839)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -626,6 +626,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020年5月30日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535)
 - [【全国新型肺炎疫情实时动态(丁香园)】英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1)

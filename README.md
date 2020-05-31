@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 22:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 22:30:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -856,6 +856,15 @@
 </summary>
 
 
+- [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) ![](assets/new.png)  
+- [2020-05-31-钟南山：经此一疫，你形成哪些健康的生活方式？你有哪些健身故事？-|-两会云问答](https://www.ershicimi.com/p/85a0ec41cf1fa44eb2ee0023d5e69a1f) ![](assets/new.png)  
+- [2020-05-31-张文宏问抗疫取得成效的原因，网友回答都提到了两个字-|-两会云问答](https://www.ershicimi.com/p/e413ee58461001ea27e7778896d7e19e) ![](assets/new.png)  
+- [2020-05-31-知乎故事-|-你在男朋友手机里发现过什么秘密？](https://www.ershicimi.com/p/bca959aa146a97a4051c7ef3e442c3c9) ![](assets/new.png)  
+- [2020-05-30-知乎神吐槽-|-医生是不是有一些「黑话」？](https://www.ershicimi.com/p/6debb2dba8e941e71b25985e290b16a1) ![](assets/new.png)  
+- [2020-05-30-我在这部悬疑犯罪片里感受到了前所未有的真实](https://www.ershicimi.com/p/6783e54e725b200a63968e06e573aeda) ![](assets/new.png)  
+- [2020-05-30-雷佳：已离开农村的你，能为曾经贫困的家乡做些什么？|-两会云问答](https://www.ershicimi.com/p/b4b5dba71ccd41fee7694a9e0c6fbccc) ![](assets/new.png)  
+- [2020-05-30-中奖名单-|-冯唐签名纸质书《成事》](https://www.ershicimi.com/p/be18595052beca4a85d3b9b840de1f9f) ![](assets/new.png)  
+- [2020-05-30-知乎故事-|-朋友的哪些行为让你不想承认自己认识-ta？](https://www.ershicimi.com/p/56d5c6f659e233f0f18998f63a3c2cdf) ![](assets/new.png)  
 - [2020-05-29-长大以后，我发现了绝对不能深交的-8-种人](https://www.ershicimi.com/p/d7fd71e27065babd440ef9a99c19a5bf)  
 - [2020-05-29-导演亲自答：怎样评价蓝兔与黑小虎的爱情？](https://www.ershicimi.com/p/b40b0b81cd842a5afec911cac9f7e388)  
 - [2020-05-29-年轻时当第三者的女人，最后都怎样了？](https://www.ershicimi.com/p/7ab1b05f2066f9e1a4e7e48b7a5a5eab)  
@@ -867,10 +876,6 @@
 - [2020-05-28-知乎故事-|-和异性合租是种怎样的体验？](https://www.ershicimi.com/p/401c5805fc73f91bbc341411acc6b08c)  
 - [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730)  
 - [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7)  
-- [2020-05-27-比勤奋更能决定你人生的，是你的选择](https://www.ershicimi.com/p/ea4837e2376bc391e0599a9d194b50e2)  
-- [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a)  
-- [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7)  
-- [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -882,26 +887,26 @@
 </summary>
 
 
-- [2020-05-31-得了痔疮怎么办？](https://www.v2ex.com/t/677292) ![](assets/new.png)  
-- [2020-05-31-请教一个前端路由问题](https://www.v2ex.com/t/677291) ![](assets/new.png)  
-- [2020-05-31-深圳电信禁用-pptp-了吗？](https://www.v2ex.com/t/677289) ![](assets/new.png)  
-- [2020-05-31-Chrome-隐藏拓展程序](https://www.v2ex.com/t/677288) ![](assets/new.png)  
-- [2020-05-31-emui-更新后不能用-Google-账户登入-Google-联系人了？](https://www.v2ex.com/t/677286) ![](assets/new.png)  
-- [2020-05-31-用-GitHub-的-issues-做工单系统咋样？](https://www.v2ex.com/t/677285) ![](assets/new.png)  
-- [2020-05-31-抑郁症后遗症致不会说话该怎么办](https://www.v2ex.com/t/677283) ![](assets/new.png)  
+- [2020-05-31-冲动注册域名系列](https://www.v2ex.com/t/677300) ![](assets/new.png)  
+- [2020-05-31-考虑入一台-2012-Mac-mini-放在办公室](https://www.v2ex.com/t/677299) ![](assets/new.png)  
+- [2020-05-31-刚实习的程序员，请教一下大佬们。](https://www.v2ex.com/t/677297) ![](assets/new.png)  
+- [2020-05-31-有人用-cloudflare-吗？我添加信用卡就报错。](https://www.v2ex.com/t/677296) ![](assets/new.png)  
+- [2020-05-31-字节跳动技术实习生极速内推！转正率高达-81%！](https://www.v2ex.com/t/677295) ![](assets/new.png)  
+- [2020-05-31-V-站为什么没有“软件”这个节点](https://www.v2ex.com/t/677294) ![](assets/new.png)  
+- [2020-05-31-618-活动要开始了，问下各位大佬显卡相关问题？](https://www.v2ex.com/t/677293) ![](assets/new.png)  
+- [2020-05-31-得了痔疮怎么办？](https://www.v2ex.com/t/677292)  
+- [2020-05-31-请教一个前端路由问题](https://www.v2ex.com/t/677291)  
+- [2020-05-31-深圳电信禁用-pptp-了吗？](https://www.v2ex.com/t/677289)  
+- [2020-05-31-Chrome-隐藏拓展程序](https://www.v2ex.com/t/677288)  
+- [2020-05-31-emui-更新后不能用-Google-账户登入-Google-联系人了？](https://www.v2ex.com/t/677286)  
+- [2020-05-31-用-GitHub-的-issues-做工单系统咋样？](https://www.v2ex.com/t/677285)  
+- [2020-05-31-抑郁症后遗症致不会说话该怎么办](https://www.v2ex.com/t/677283)  
 - [2020-05-31-618-到了,-面对茫茫多的垃圾短信,-有什么好的办法?](https://www.v2ex.com/t/677282)  
 - [2020-05-31-朋友们最近一台开发用的电脑用了多久？](https://www.v2ex.com/t/677281)  
 - [2020-05-31-WIN10-没有收到-2004-更新的朋友可以试试官方的易升](https://www.v2ex.com/t/677280)  
 - [2020-05-31-无聊的时候会自己跟自己玩一个游戏](https://www.v2ex.com/t/677279)  
 - [2020-05-31-电梯里的电子广告牌调试信息里-Wi-Fi-模式“探针模式”是什么意思？](https://www.v2ex.com/t/677278)  
 - [2020-05-31-福禄克万用表好在哪？值得买吗？](https://www.v2ex.com/t/677277)  
-- [2020-05-31-阿里国际化事业部诚招-Java-技术栈开发工程师/技术专家](https://www.v2ex.com/t/677276)  
-- [2020-05-31-求助:-微信群名称如何获取并保存到本地](https://www.v2ex.com/t/677275)  
-- [2020-05-31-ssh-proxyjump](https://www.v2ex.com/t/677274)  
-- [2020-05-31-618-当天跟之前的活动有差别么？](https://www.v2ex.com/t/677273)  
-- [2020-05-31-慢速循环造成-gc-exceeded-limit，-Outofmemory](https://www.v2ex.com/t/677272)  
-- [2020-05-31-这个动效怎么实现的呢？](https://www.v2ex.com/t/677271)  
-- [2020-05-31-在武汉买房，公积金组合贷，要求我在北京开无房证明，但是北京不给外地人开这个？不知道有么有-v-友遇到这...](https://www.v2ex.com/t/677269)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

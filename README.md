@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 00:00:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 00:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,6 +74,9 @@
 </summary>
 
 
+- [2020-05-31-阿塞拜疆新增新冠肺炎确诊病例248例，累计确诊5494例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVFwFJhH5cQ4qj8dFsX2200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-圭亚那养老院感染新冠病毒风险加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFp180wu2JK10vrYxuKO0200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-西班牙首相桑切斯将再次延长国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticUVw17LlWkyuyaWGEREY200531&isfromapp=1) ![](assets/new.png)  
 - [2020-05-31-荷兰新增新冠肺炎确诊病例185例，累计确诊46442例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articw9yMqwTZ6Szo6pwdsEc200531&isfromapp=1)  
 - [2020-05-31-阿联酋新增661例新冠肺炎确诊病例-累计确诊34557例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1)  
 - [2020-05-31-以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-05-31-英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1)  
 - [2020-05-31-秘鲁新冠肺炎单日新增病例首次超过7000例-确诊病例突破15万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1)  
 - [2020-05-31-​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1)  
-- [2020-05-30-​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1)  
-- [2020-05-30-世卫组织：全球新冠肺炎确诊病例超581万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifedvTgJSJ1aEOqDrhwT0200530&isfromapp=1)  
-- [2020-05-30-中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -887,18 +887,18 @@
 </summary>
 
 
-- [2020-05-31-加密后的磁盘（比如说格式为-APFS，加密）假如数据丢失，能恢复原数据吗？](https://www.v2ex.com/t/677315) ![](assets/new.png)  
-- [2020-05-31-有-Surface-Laptop-系列的用户可以分享一下使用感受吗？](https://www.v2ex.com/t/677314) ![](assets/new.png)  
-- [2020-05-31-现在这个时间点适合出去旅游吗？](https://www.v2ex.com/t/677312) ![](assets/new.png)  
-- [2020-05-31-中国有什么偏向于技术极客的公司嘛？](https://www.v2ex.com/t/677311) ![](assets/new.png)  
-- [2020-05-31-2016-款-MacBook-Pro-电池鼓包，去陆家嘴直营店免费换电池了](https://www.v2ex.com/t/677310) ![](assets/new.png)  
-- [2020-05-31-旧的-CZ80-和新的-CZ800-谁更稳？](https://www.v2ex.com/t/677309) ![](assets/new.png)  
-- [2020-05-31-非研发岗互联网公司，去哪里发找工作贴氛围比较好啊](https://www.v2ex.com/t/677307) ![](assets/new.png)  
-- [2020-05-31-二十年后，很多年轻人可以在互联网上搜索到他们父母的各种图文影像资料。有抬杠的，有爆粗口的，有举报的，有抄袭的，有卖图包的……](https://www.v2ex.com/t/677306) ![](assets/new.png)  
-- [2020-05-31-如果人一辈子只有一次“性冲动”，你打算怎么办？](https://www.v2ex.com/t/677305) ![](assets/new.png)  
-- [2020-05-31-刚办的联通宽带，上行突然飙到-150-兆](https://www.v2ex.com/t/677304) ![](assets/new.png)  
-- [2020-05-31-G-Suite-开始屏蔽中国大陆-IP-地址了？](https://www.v2ex.com/t/677303) ![](assets/new.png)  
-- [2020-05-31-eclispe-动态-web-项目](https://www.v2ex.com/t/677302) ![](assets/new.png)  
+- [2020-05-31-加密后的磁盘（比如说格式为-APFS，加密）假如数据丢失，能恢复原数据吗？](https://www.v2ex.com/t/677315)  
+- [2020-05-31-有-Surface-Laptop-系列的用户可以分享一下使用感受吗？](https://www.v2ex.com/t/677314)  
+- [2020-05-31-现在这个时间点适合出去旅游吗？](https://www.v2ex.com/t/677312)  
+- [2020-05-31-中国有什么偏向于技术极客的公司嘛？](https://www.v2ex.com/t/677311)  
+- [2020-05-31-2016-款-MacBook-Pro-电池鼓包，去陆家嘴直营店免费换电池了](https://www.v2ex.com/t/677310)  
+- [2020-05-31-旧的-CZ80-和新的-CZ800-谁更稳？](https://www.v2ex.com/t/677309)  
+- [2020-05-31-非研发岗互联网公司，去哪里发找工作贴氛围比较好啊](https://www.v2ex.com/t/677307)  
+- [2020-05-31-二十年后，很多年轻人可以在互联网上搜索到他们父母的各种图文影像资料。有抬杠的，有爆粗口的，有举报的，有抄袭的，有卖图包的……](https://www.v2ex.com/t/677306)  
+- [2020-05-31-如果人一辈子只有一次“性冲动”，你打算怎么办？](https://www.v2ex.com/t/677305)  
+- [2020-05-31-刚办的联通宽带，上行突然飙到-150-兆](https://www.v2ex.com/t/677304)  
+- [2020-05-31-G-Suite-开始屏蔽中国大陆-IP-地址了？](https://www.v2ex.com/t/677303)  
+- [2020-05-31-eclispe-动态-web-项目](https://www.v2ex.com/t/677302)  
 - [2020-05-31-冲动注册域名系列](https://www.v2ex.com/t/677300)  
 - [2020-05-31-考虑入一台-2012-Mac-mini-放在办公室](https://www.v2ex.com/t/677299)  
 - [2020-05-31-刚实习的程序员，请教一下大佬们。](https://www.v2ex.com/t/677297)  
@@ -949,6 +949,8 @@
 </summary>
 
 
+- [2020-06-01-推荐-MySQL-三万字精华总结-+-面试-100-问，吊打面试官绰绰有余](https://toutiao.io/k/eakc3v8) ![](assets/new.png)  
+- [2020-06-01-推荐-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u) ![](assets/new.png)  
 - [2020-05-31-推荐-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  
 - [2020-05-31-推荐-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51)  
 - [2020-05-31-为什么系统调用会消耗较多资源](https://toutiao.io/k/lfcq1ha)  
@@ -967,8 +969,6 @@
 - [2020-05-31-百步穿杨：看我如何在-App-中-getshell](https://toutiao.io/k/xnefj3c)  
 - [2020-05-31-何鸿燊的不败筹码：凯利公式](https://toutiao.io/k/ofy4bq5)  
 - [2020-05-31-推荐-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v)  
-- [2020-05-31-推荐-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
-- [2020-05-30-美团配送-A/B-评估体系建设与实践](https://toutiao.io/k/cvnijlb)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

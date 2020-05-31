@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-01 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 00:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -632,6 +632,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增新冠肺炎确诊病例248例，累计确诊5494例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVFwFJhH5cQ4qj8dFsX2200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】荷兰新增新冠肺炎确诊病例185例，累计确诊46442例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articw9yMqwTZ6Szo6pwdsEc200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿联酋新增661例新冠肺炎确诊病例-累计确诊34557例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1)
@@ -651,7 +652,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚累计确诊新冠肺炎确诊病例26688例-4月份失业率接近20%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigliqwVliqV5YUPJpjNaN200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】圭亚那新冠肺炎确诊病例恐激增-养老院成感染集中地](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic9tlOICwtXShbrTWoguG200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过565万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -666,6 +666,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】圭亚那养老院感染新冠病毒风险加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFp180wu2JK10vrYxuKO0200531&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】西班牙首相桑切斯将再次延长国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticUVw17LlWkyuyaWGEREY200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)
@@ -684,8 +686,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】5-月-29-日起广州师生在校期间可不戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Dbq72cPqVHvs6URYZNx200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情逐渐趋缓，欧洲多国宣布财政补贴和解封计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1cpqEHSCilNgGsKtNVow200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

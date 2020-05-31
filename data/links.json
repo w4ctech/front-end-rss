@@ -3201,6 +3201,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "Vue 3教程（适用于Vue 2用户）",
+        "link": "https://juejin.im/post/5ed3cf61f265da76da29db34",
+        "date": "2020-05-31"
+      },
+      {
         "title": "【收藏】你不知道的css技巧",
         "link": "https://juejin.im/post/5ed3c27ee51d455f9a6368c9",
         "date": "2020-05-31"

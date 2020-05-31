@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-31 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1) 
 - [2020-05-31-​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1) 
 - [2020-05-30-​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1) 
 - [2020-05-30-中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1) 
@@ -276,6 +277,8 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-05-31-有多个-VPS-的话如何实现高可用呢。。](https://www.v2ex.com/t/677107) 
+- [2020-05-31-Golang-中用什么来替代-Zstd-?](https://www.v2ex.com/t/677105) 
 - [2020-05-31-结束五年的程序员生涯](https://www.v2ex.com/t/677103) 
 - [2020-05-31-SpaceX-成功完成首次载人发射任务](https://www.v2ex.com/t/677102) 
 - [2020-05-31-关于超六屏蔽线的-nas-布线，很多不懂](https://www.v2ex.com/t/677101) 

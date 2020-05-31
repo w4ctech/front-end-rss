@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-05-31 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,6 +395,7 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104)
 - [【V2EX】被老师要求拍手持身份证并-xxx-的视频](https://www.v2ex.com/t/676976)
 - [【V2EX】想找一些讲述道观或寺庙里修行者的视频，请大家有看过的推荐一下](https://www.v2ex.com/t/676974)
 - [【V2EX】短视频-快手/-北京、深圳、杭州、上海-客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/676972)
@@ -402,7 +403,6 @@
 - [【V2EX】火爆招聘中上海/杭州阿里云-视频基础技术团队-视频-AI-工程开发](https://www.v2ex.com/t/676860)
 - [【V2EX】Mac-OS-有什么视频转换软件吗？只想转变格式-不想动内容。](https://www.v2ex.com/t/676849)
 - [【V2EX】油管这点太烦人了，不如国内视频站。](https://www.v2ex.com/t/676839)
-- [【V2EX】🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招音视频资深/专家级工程师](https://www.v2ex.com/t/676770)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -625,6 +625,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】秘鲁新冠肺炎单日新增病例首次超过7000例-确诊病例突破15万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超581万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifedvTgJSJ1aEOqDrhwT0200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】联合国马里维和任务区2名维和官兵感染新冠肺炎病故](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1)
@@ -652,6 +653,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1)
@@ -671,7 +673,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】​受疫情影响-巴西今年第一季度国内生产总值下降1.5％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】加拿大今年一季度经济表现为2009年以来最差](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度人脸口罩亮相-这次手机能识别吗？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】日本北九州市疫情抬头-当地严阵以待](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

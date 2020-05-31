@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,9 +74,11 @@
 </summary>
 
 
-- [2020-05-31-秘鲁新冠肺炎单日新增病例首次超过7000例-确诊病例突破15万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1) ![](assets/new.png)  
-- [2020-05-31-​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1) ![](assets/new.png)  
-- [2020-05-30-​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1) ![](assets/new.png)  
+- [2020-05-31-秘鲁新冠肺炎单日新增病例首次超过7000例-确诊病例突破15万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1)  
+- [2020-05-31-​英国政府允许从6月1日开始恢复封闭式竞技体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1)  
+- [2020-05-30-​意大利卫生部长：需要一个更强有力的世卫组织-美国“退群”后果严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidN3Kng67quv7xRuOlIkk200530&isfromapp=1)  
 - [2020-05-30-世卫组织：全球新冠肺炎确诊病例超581万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifedvTgJSJ1aEOqDrhwT0200530&isfromapp=1)  
 - [2020-05-30-中国抗疫医疗专家组再次同赤几方进行工作交流](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRtzh9H6OweKgRoMUFmDK200530&isfromapp=1)  
 - [2020-05-30-菲律宾两大航空公司6月起恢复部分航班运行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-05-30-新冠疫情进一步暴发-巴西中小企业如何“求生”？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1)  
 - [2020-05-30-国家大剧院6月2日起将对公众有序限流开放参观-医护人员免票](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1)  
 - [2020-05-30-5月29日广东新增新冠肺炎确诊病例1例-为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1)  
-- [2020-05-30-受抗议活动影响-美国白宫不许人员出入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1)  
-- [2020-05-30-秘鲁单日新增6506例新冠肺炎确诊病例-卫生部称有望研制国产核酸检测试剂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9DHYSirppzekD7Jqw7iU200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -873,6 +873,10 @@
 </summary>
 
 
+- [2020-05-31-有多个-VPS-的话如何实现高可用呢。。](https://www.v2ex.com/t/677107) ![](assets/new.png)  
+- [2020-05-31-CSS-或-JS-能实现如图的-div-层叠吗？](https://www.v2ex.com/t/677106) ![](assets/new.png)  
+- [2020-05-31-Golang-中用什么来替代-Zstd-?](https://www.v2ex.com/t/677105) ![](assets/new.png)  
+- [2020-05-31-Mac-OS-仅转格式,视频内容不变-比如-MKV-转-mp4）的解决方法以及讨论。](https://www.v2ex.com/t/677104) ![](assets/new.png)  
 - [2020-05-31-结束五年的程序员生涯](https://www.v2ex.com/t/677103)  
 - [2020-05-31-SpaceX-成功完成首次载人发射任务](https://www.v2ex.com/t/677102)  
 - [2020-05-31-关于超六屏蔽线的-nas-布线，很多不懂](https://www.v2ex.com/t/677101)  
@@ -889,10 +893,6 @@
 - [2020-05-30-Windows-应用商店中的网易云音乐更新了](https://www.v2ex.com/t/677085)  
 - [2020-05-30-wsl2-怎么设置才能走-clash-的代理？](https://www.v2ex.com/t/677083)  
 - [2020-05-30-从技术上来说，如何实现每次-MC-必定出风剑呢？](https://www.v2ex.com/t/677081)  
-- [2020-05-30-2020-年还有做-WordPress-二开的吗](https://www.v2ex.com/t/677080)  
-- [2020-05-30-发现自己一直只使用左手拇指在敲空格键，空格键左右两边高度不一致了，右边敲击都有点卡住的感觉了](https://www.v2ex.com/t/677079)  
-- [2020-05-30-查自己外网-ip，得到两种结果，是什么原因？](https://www.v2ex.com/t/677078)  
-- [2020-05-30-上海合租！-环球港附近有合租吗，一起整租也是可以的。](https://www.v2ex.com/t/677077)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

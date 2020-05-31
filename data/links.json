@@ -11,6 +11,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国确诊病例超过176万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "英国新增新冠肺炎确诊病例2445例 累计确诊272826例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1",
+        "date": "2020-05-31"
+      },
+      {
         "title": "秘鲁新冠肺炎单日新增病例首次超过7000例 确诊病例突破15万人",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1",
         "date": "2020-05-31"
@@ -3479,6 +3489,26 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "有多个 VPS 的话如何实现高可用呢。。",
+        "link": "https://www.v2ex.com/t/677107",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "CSS 或 JS 能实现如图的 div 层叠吗？",
+        "link": "https://www.v2ex.com/t/677106",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "Golang 中用什么来替代 Zstd ?",
+        "link": "https://www.v2ex.com/t/677105",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "Mac OS 仅转格式,视频内容不变( 比如 MKV 转 mp4）的解决方法以及讨论。",
+        "link": "https://www.v2ex.com/t/677104",
+        "date": "2020-05-31"
+      },
       {
         "title": "结束五年的程序员生涯",
         "link": "https://www.v2ex.com/t/677103",

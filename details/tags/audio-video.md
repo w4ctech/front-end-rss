@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 03:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 06:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-03-10-习近平去了武汉！（附视频）](http://china.caixin.com/2020-03-10/101526295.html) 
+- [2020-02-04-疫情中湖北孩子们怎样学习？在线直播课面临挑战](http://china.caixin.com/2020-02-04/101511523.html) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2019-10-13-更新视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/f249e57512400a250ea14690a5a5959d) 
 - [2019-10-12-视频贵重带来《钉钉前端团队演进之路》！](https://www.ershicimi.com/p/c8c7fa8831fa6a691667b562d12be93b) 

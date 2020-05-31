@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 03:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 06:00:16，:rocket: 更新条数: +1018， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -63,6 +63,26 @@
 </summary>
 
 
+- [2020-05-31-香港再增两宗本地新冠病例-疑出现集体感染](http://china.caixin.com/2020-05-31/101561261.html) ![](assets/new.png)  
+- [2020-05-31-最新疫情：全国新冠累计确诊83001例-新增境外输入确诊病例2例](http://china.caixin.com/2020-05-31/101561202.html) ![](assets/new.png)  
+- [2020-05-31-最新海外疫情:新冠感染者增至超593万-累计死亡超36.4万](http://international.caixin.com/2020-05-31/101561203.html) ![](assets/new.png)  
+- [2020-05-31-【境内疫情观察】山东新增2例境外输入病例（5月30日）](http://database.caixin.com/2020-05-31/101561210.html) ![](assets/new.png)  
+- [2020-05-30-特稿|迟到的工亡补助：武汉退休返聘医生新冠牺牲留遗憾](http://china.caixin.com/2020-05-30/101561148.html) ![](assets/new.png)  
+- [2020-05-30-日本忧第二波疫情卷土重来-局部地区现感染数反弹](http://international.caixin.com/2020-05-30/101561143.html) ![](assets/new.png)  
+- [2020-05-30-大流行手记|5月30日：英国公布疫后复苏安排，小学将分步复课](http://www.caixin.com/2020-05-30/101561166.html) ![](assets/new.png)  
+- [2020-05-30-【境内疫情观察】全国新增4例境外输入病例（5月29日）](http://database.caixin.com/2020-05-30/101561091.html) ![](assets/new.png)  
+- [2020-05-29-大流行手记|5月29日:非洲恐低估疫情-英超意甲拟重启](http://www.caixin.com/2020-05-29/101560895.html) ![](assets/new.png)  
+- [2020-05-29-【境内疫情观察】全国单日无新增确诊、死亡和疑似病例（5月28日）](http://database.caixin.com/2020-05-29/101560567.html) ![](assets/new.png)  
+- [2020-05-28-大流行手记|5月28日：WHO呼吁大流行期间保障母乳喂养](http://www.caixin.com/2020-05-28/101560393.html) ![](assets/new.png)  
+- [2020-05-28-【境内疫情观察】全国新增2例境外输入病例（5月27日）](http://database.caixin.com/2020-05-28/101560075.html) ![](assets/new.png)  
+- [2020-05-27-大流行手记|5月27日：韩国450余所学校再推迟线下开学](http://www.caixin.com/2020-05-27/101559855.html) ![](assets/new.png)  
+- [2020-05-27-【境内疫情观察】上海新增1例境外输入病例（5月26日）](http://database.caixin.com/2020-05-27/101559472.html) ![](assets/new.png)  
+- [2020-05-26-大流行手记|5月26日：纽交所重启交易大厅](http://www.caixin.com/2020-05-26/101559276.html) ![](assets/new.png)  
+- [2020-05-26-【境内疫情观察】全国新增7例境外输入病例（5月25日）](http://database.caixin.com/2020-05-26/101558996.html) ![](assets/new.png)  
+- [2020-05-26-武汉新冠检测大会战收尾-混检已筛出两百余感染者](http://china.caixin.com/2020-05-26/101558822.html) ![](assets/new.png)  
+- [2020-05-26-广西援鄂护士梁小霞不幸逝世](http://china.caixin.com/2020-05-26/101559249.html) ![](assets/new.png)  
+- [2020-05-25-【境内疫情观察】内蒙古新增10例境外输入病例（5月24日）](http://database.caixin.com/2020-05-25/101558529.html) ![](assets/new.png)  
+- [2020-05-25-大流行手记|5月25日：宗教活动解禁-德国一教堂现集体感染](http://www.caixin.com/2020-05-25/101558777.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -949,7 +969,7 @@
 </summary>
 
 
-- [2020-06-01-推荐-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s) ![](assets/new.png)  
+- [2020-06-01-推荐-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s)  
 - [2020-06-01-推荐-MySQL-三万字精华总结-+-面试-100-问，吊打面试官绰绰有余](https://toutiao.io/k/eakc3v8)  
 - [2020-06-01-推荐-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u)  
 - [2020-05-31-推荐-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  

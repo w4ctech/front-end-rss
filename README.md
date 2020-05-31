@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 15:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-05-31-英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1) ![](assets/new.png)  
 - [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)  
 - [2020-05-31-上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)  
 - [2020-05-31-天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-05-30-土耳其6月1日起复飞国内航班，所有省市解除旅行禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1)  
 - [2020-05-30-布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9nZeIawi7DlNkGi4jLv200530&isfromapp=1)  
 - [2020-05-30-机组人员新冠病毒检测结果呈阳性，印度飞往莫斯科的撤侨飞机半路折返](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1)  
-- [2020-05-30-安徽合肥：一确诊病例出现“复阳”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ltQPF16YPh30jE2Kj21200530&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -400,6 +400,8 @@
 </summary>
 
 
+- [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519) ![](assets/new.png)  
+- [2020-05-31-淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6) ![](assets/new.png)  
 - [2020-05-30-我的VS-Code设置，高效编码！](https://www.ershicimi.com/p/9f7b3801200cdeab85977e00b2831bd0)  
 - [2020-05-29-如何建立自己的前端知识体系？](https://www.ershicimi.com/p/51e09e6b1f7b77ecca789e5c63df5afb)  
 - [2020-05-29-《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b)  
@@ -911,7 +913,7 @@
 </summary>
 
 
-- [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-以深度学习为例理解22种设计模式（一）创建型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

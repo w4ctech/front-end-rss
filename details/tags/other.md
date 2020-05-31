@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-05-31 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-05-31-英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1) 
 - [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1) 
 - [2020-05-31-上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1) 
 - [2020-05-31-天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1) 
@@ -105,6 +106,7 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519) 
 - [2020-05-30-我的VS-Code设置，高效编码！](https://www.ershicimi.com/p/9f7b3801200cdeab85977e00b2831bd0) 
 - [2020-05-29-如何建立自己的前端知识体系？](https://www.ershicimi.com/p/51e09e6b1f7b77ecca789e5c63df5afb) 
 - [2020-05-28-TS-常见问题、难点整理（60多个）](https://www.ershicimi.com/p/9eead0a7eac70f5978e6b88b5817e6cf) 

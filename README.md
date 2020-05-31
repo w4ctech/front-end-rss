@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-31 08:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-31 09:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,8 +74,8 @@
 </summary>
 
 
-- [2020-05-31-国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1) ![](assets/new.png)  
-- [2020-05-31-全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535) ![](assets/new.png)  
+- [2020-05-31-国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1)  
+- [2020-05-31-全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535)  
 - [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1)  
 - [2020-05-31-英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1)  
 - [2020-05-31-秘鲁新冠肺炎单日新增病例首次超过7000例-确诊病例突破15万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1)  
@@ -935,26 +935,26 @@
 </summary>
 
 
+- [2020-05-31-为什么系统调用会消耗较多资源](https://toutiao.io/k/lfcq1ha) ![](assets/new.png)  
+- [2020-05-31-限流算法原理剖析](https://toutiao.io/k/v4f0jid) ![](assets/new.png)  
+- [2020-05-31-安装-PHP-MongoDB-扩展](https://toutiao.io/k/h2ar7ld) ![](assets/new.png)  
+- [2020-05-31-Kubectl-exec-背后到底发生了什么？](https://toutiao.io/k/wxc5yoi) ![](assets/new.png)  
+- [2020-05-31-Container：为-Go-语言而生的运行时依赖注入容器](https://toutiao.io/k/ai34agq) ![](assets/new.png)  
+- [2020-05-31-用-Windows-Terminal-替换你的盗版远程管理软件？](https://toutiao.io/k/37nhzok) ![](assets/new.png)  
+- [2020-05-31-译-Go-编译器内核：给-Go-新增一个语句（一）](https://toutiao.io/k/n0oxyow) ![](assets/new.png)  
+- [2020-05-31-Golang-程序调试工具介绍-gdb-vs-dlv](https://toutiao.io/k/q6tc3kk) ![](assets/new.png)  
+- [2020-05-31-软件开发为什么离不开文档？](https://toutiao.io/k/hdg2smd) ![](assets/new.png)  
+- [2020-05-31-浅析-Hive/Spark-SQL-读文件时的输入任务划分](https://toutiao.io/k/x0mxygk) ![](assets/new.png)  
+- [2020-05-31-Circle-Loss：从统一的相似性对的优化角度进行深度特征学习](https://toutiao.io/k/uuuuklw) ![](assets/new.png)  
+- [2020-05-31-苹果强制要求更换启动方式的解决方案](https://toutiao.io/k/a99tq3i) ![](assets/new.png)  
+- [2020-05-31-网络编程基础：TCP-如何保证可靠性](https://toutiao.io/k/d5yryrb) ![](assets/new.png)  
+- [2020-05-31-百步穿杨：看我如何在-App-中-getshell](https://toutiao.io/k/xnefj3c) ![](assets/new.png)  
+- [2020-05-31-何鸿燊的不败筹码：凯利公式](https://toutiao.io/k/ofy4bq5) ![](assets/new.png)  
 - [2020-05-31-推荐-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v)  
 - [2020-05-31-推荐-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)  
 - [2020-05-30-美团配送-A/B-评估体系建设与实践](https://toutiao.io/k/cvnijlb)  
 - [2020-05-30-LevelDB-完全解析（十）：读操作之-Iterator](https://toutiao.io/k/fq97rr7)  
 - [2020-05-30-Java-并发编程那些事儿（六）：Executor-框架及线程池](https://toutiao.io/k/n4e3smu)  
-- [2020-05-30-实力解剖一枚挖矿脚本，风骚操作亮瞎双眼](https://toutiao.io/k/rk86072)  
-- [2020-05-30-Go-并发编程里的数据竞争以及解决之道](https://toutiao.io/k/j7183no)  
-- [2020-05-30-线上故障处理手册](https://toutiao.io/k/9rhs8as)  
-- [2020-05-30-你不知道的-WeakMap](https://toutiao.io/k/c86qtdk)  
-- [2020-05-30-HashiCorp-禁止其企业软件在中国使用](https://toutiao.io/k/ncalhh6)  
-- [2020-05-30-MySQL-的奇怪问题：varchar-与数值比较](https://toutiao.io/k/8hvtb1e)  
-- [2020-05-30-不一定知道的-iOS-中的-JS](https://toutiao.io/k/eipwrbf)  
-- [2020-05-30-译-Grab-熔断器设计：如何应对突发打车峰值](https://toutiao.io/k/6aaool2)  
-- [2020-05-30-机器学习项目是如何开发和部署的？](https://toutiao.io/k/t9maz11)  
-- [2020-05-30-译-AV1-vs-HEVC：WebRTC-编解码器之争卷土重来？（四）](https://toutiao.io/k/lc63ydh)  
-- [2020-05-30-Kafka系列（八）：一网打尽常用脚本及配置，宜收藏落灰](https://toutiao.io/k/sshbxbf)  
-- [2020-05-30-一次漫长的-Dubbo-网关内存泄露排查经历](https://toutiao.io/k/rtfen2n)  
-- [2020-05-30-面向-Model-编程的前端架构设计](https://toutiao.io/k/665efbj)  
-- [2020-05-30-推荐-2-年-6-个月-11-天，外包到阿里的修仙之路](https://toutiao.io/k/nje9qfo)  
-- [2020-05-29-译-图说-AI-发展史](https://toutiao.io/k/b1qnv0p)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-05-30 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-31 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-05-31-全球仅10%的开发者从不加班；淘宝回应用户账号被禁用-980-年;苹果宣布首次以官方形式参与天猫61](https://www.ershicimi.com/p/32a8ffe151d005d23be58ad8cba293af) 
+- [2020-05-31-Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12) 
+- [2020-05-31-聘高管、换名字，Facebook-却是要用-Libra-卖广告](https://www.ershicimi.com/p/93a87b43f925efa3e0f3771fce106db4) 
+- [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a) 
+- [2020-05-30-2020年后端高薪攻略-|-课程推荐](https://www.ershicimi.com/p/5d877135fd6c6bbc145a16af029901e3) 
+- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/f98567f4a9d97a3957c346e49e58d4c9) 
+- [2020-05-30-6位图灵奖获得者、10多位院士在线“教学”，这套关于“人工智能下一个十年”的课程免费提供给你](https://www.ershicimi.com/p/7f692b1f32c7fafcddf9fb959baa2cfb) 
+- [2020-05-30-我们为什么停用微服务？](https://www.ershicimi.com/p/43e46ebf9916916893779416fc0ceabb) 
+- [2020-05-30-再也不需要打包器！Snowpack-2.0-发布，让打包速度快-10-倍的神奇工具](https://www.ershicimi.com/p/4cbbaf69edde6d80a066b9ae79eda9cc) 
 - [2020-05-29-亚马逊大崩溃](https://www.ershicimi.com/p/e628740a9c5c2ba571dc10db09da234f) 
 - [2020-05-29-千元礼包免费送，InfoQ陪你过六一](https://www.ershicimi.com/p/021c642be32365c50ac20f1e54e2f34c) 
 - [2020-05-29-机器学习项目复杂繁琐-，该如何构建安全的机器学习环境？](https://www.ershicimi.com/p/ad2fedeb886ae3a8b5e0057cc13d2a0f) 

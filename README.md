@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 01:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 03:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -762,7 +762,7 @@
 </summary>
 
 
-- [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) ![](assets/new.png)  
+- [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34)  
 - [2020-05-31-【收藏】你不知道的css技巧](https://juejin.im/post/5ed3c27ee51d455f9a6368c9)  
 - [2020-05-31-js从原始数据类型到深浅拷贝（个人笔记）](https://juejin.im/post/5ed3664de51d45783e17b12a)  
 - [2020-05-31-H5加载Android本地路径图片](https://juejin.im/post/5ed3b78d6fb9a047a226979f)  
@@ -949,6 +949,7 @@
 </summary>
 
 
+- [2020-06-01-推荐-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s) ![](assets/new.png)  
 - [2020-06-01-推荐-MySQL-三万字精华总结-+-面试-100-问，吊打面试官绰绰有余](https://toutiao.io/k/eakc3v8)  
 - [2020-06-01-推荐-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u)  
 - [2020-05-31-推荐-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  
@@ -968,7 +969,6 @@
 - [2020-05-31-网络编程基础：TCP-如何保证可靠性](https://toutiao.io/k/d5yryrb)  
 - [2020-05-31-百步穿杨：看我如何在-App-中-getshell](https://toutiao.io/k/xnefj3c)  
 - [2020-05-31-何鸿燊的不败筹码：凯利公式](https://toutiao.io/k/ofy4bq5)  
-- [2020-05-31-推荐-B站的视频，都是怎么推荐的](https://toutiao.io/k/r93dn0v)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -6824,6 +6824,11 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "[推荐] 架构设计：接口幂等性原则，防重复提交 Token 管理",
+        "link": "https://toutiao.io/k/445816s",
+        "date": "2020-06-01"
+      },
+      {
         "title": "[推荐] MySQL 三万字精华总结 + 面试 100 问，吊打面试官绰绰有余",
         "link": "https://toutiao.io/k/eakc3v8",
         "date": "2020-06-01"

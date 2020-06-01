@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 00:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,6 +32,8 @@
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-01-字节跳动飞书社招内推专场-六大城市！海量岗位！极速面试！有问必答！](https://www.v2ex.com/t/677645) 
+- [2020-06-01-一道字节面试题解](https://www.v2ex.com/t/677624) 
 - [2020-06-01-第四期德国-IT-岗位招聘之-IT-Administrators-三连](https://www.v2ex.com/t/677612) 
 - [2020-06-01-如何入职阿里后端开发岗—面试高频考点-HashMap-实战解析](https://www.v2ex.com/t/677585) 
 - [2020-06-01-知名量化对冲基金-对外技术负责人招聘](https://www.v2ex.com/t/677537) 

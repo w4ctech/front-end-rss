@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,8 @@
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
+- [2020-06-01-关于promise的一些总结](https://juejin.im/post/5ed49ab4f265da770678d536) 
+- [2020-06-01-用js实现css的文字两端对齐效果](https://juejin.im/post/5ed4b212e51d457859655ed6) 
 - [2020-06-01-安排函数防抖与节流](https://juejin.im/post/5ed46e4e51882543194ecc29) 
 - [2020-05-31-js从原始数据类型到深浅拷贝（个人笔记）](https://juejin.im/post/5ed3664de51d45783e17b12a) 
 - [2020-05-31-H5加载Android本地路径图片](https://juejin.im/post/5ed3b78d6fb9a047a226979f) 
@@ -93,6 +95,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-01-SEO-的角度来说，是不是只让蜘蛛爬-html-就行了，没必要让其爬-css-和-js-文件？](https://www.v2ex.com/t/677534) 
 - [2020-06-01-淘宝-618-活动，开火车的。auto.js-自动](https://www.v2ex.com/t/677403) 
 - [2020-06-01-系统设计面试如何设计异步的-request-处理系统，每过-K-秒或者每积攒-K-个-request-时要对-requests-做处...](https://www.v2ex.com/t/677400) 
 - [2020-06-01-组件如何实现追加元素的自动实例化](https://www.v2ex.com/t/677389) 

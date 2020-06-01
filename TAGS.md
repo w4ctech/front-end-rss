@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-01 15:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 16:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -515,8 +515,8 @@
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
 - [【InfoQ】算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
+- [【掘金前端】前端面试：http专场，你需要懂的知识](https://juejin.im/post/5ed0d289e51d45783d0ea4b7)
 - [【V2EX】解决了古董-Android-手机在-Win10-下不能-fastboot-的问题](https://www.v2ex.com/t/677481)
-- [【V2EX】北京-and-西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/677362)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -30,6 +30,7 @@
 - [2020-05-28-招聘需求恢复95%：全力扶持“后浪”，“前浪”只能自己挣扎](https://www.ershicimi.com/p/ad4137d79c3436f9c221da3c864050c1) 
 - [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e) 
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 
+- [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
 - [2020-06-01-深圳-EMQ-招聘-嵌入式-Linux-系统工程师](https://www.v2ex.com/t/677493) 
 - [2020-05-31-最近招聘的时候觉得大家都是一家培训机构出来的吧？简历都一个样](https://www.v2ex.com/t/677194) 

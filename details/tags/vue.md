@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -47,6 +47,8 @@
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-01-关于-Vue-框架创建项目后，-build-项目时如何无缝对接后端接口的问题](https://www.v2ex.com/t/677546) 
+- [2020-06-01-只会-vue、小程序、uni-app，入职维护-jsp](https://www.v2ex.com/t/677538) 
 - [2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
 - [2020-05-31-Vue-框架写的项目，如何优雅的实现伪静态？](https://www.v2ex.com/t/677215) 
 - [2020-05-31-vue3-源码全解析](https://www.v2ex.com/t/677180) 

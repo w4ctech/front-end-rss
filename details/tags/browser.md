@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2020-05-26-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74) 
 - [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) 
 - [2020-05-29-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/0804e565a5a749e6781a364b41fdd645) 
+- [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352) 
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) 
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643) 
 - [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7) 
@@ -34,6 +35,10 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-01-Chrome-访问个别网站连接已重置,其他浏览器正常](https://www.v2ex.com/t/677558) 
+- [2020-06-01-Java-的-JNDI-rmi-现在还有在被经常使用吗?-现在听到这些名词都是在安全漏洞上了...](https://www.v2ex.com/t/677549) 
+- [2020-06-01-有没有做手机消息推送的老哥，-getui.com-是病毒还是有某些国内厂商在用？](https://www.v2ex.com/t/677542) 
+- [2020-06-01-postgreSQL-和-mongoDB，进行百万行以内的查询，哪个更合适？](https://www.v2ex.com/t/677541) 
 - [2020-06-01-网站-把内容生成-html-存在硬盘还是用-redis-或者-memcached-的缓存快？](https://www.v2ex.com/t/677500) 
 - [2020-06-01-快速测试-SpringMvc-接口,-跟-PostMan-说再见!](https://www.v2ex.com/t/677494) 
 - [2020-06-01-五月的最后一个周末写了个-Chrome-插件](https://www.v2ex.com/t/677473) 

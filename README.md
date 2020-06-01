@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 00:00:15，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 00:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-01-华盛顿特区市长宣布开始为期两天宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1) ![](assets/new.png)  
 - [2020-06-01-巴西里约热内卢将继续维持限制令,时间至少一周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1)  
 - [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过605万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1)  
 - [2020-06-01-沙特新增1881例新冠肺炎确诊病例，累计确诊87142例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRb7wJhkYSAaeYW1kqEhr200601&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-31-圭亚那养老院感染新冠病毒风险加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFp180wu2JK10vrYxuKO0200531&isfromapp=1)  
 - [2020-05-31-西班牙首相桑切斯将再次延长国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticUVw17LlWkyuyaWGEREY200531&isfromapp=1)  
 - [2020-05-31-荷兰新增新冠肺炎确诊病例185例，累计确诊46442例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articw9yMqwTZ6Szo6pwdsEc200531&isfromapp=1)  
-- [2020-05-31-阿联酋新增661例新冠肺炎确诊病例-累计确诊34557例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1)  
-- [2020-05-31-以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -923,6 +923,9 @@
 </summary>
 
 
+- [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) ![](assets/new.png)  
+- [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) ![](assets/new.png)  
+- [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) ![](assets/new.png)  
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10)  
 - [2020-05-31-钟南山：经此一疫，你形成哪些健康的生活方式？你有哪些健身故事？-|-两会云问答](https://www.ershicimi.com/p/85a0ec41cf1fa44eb2ee0023d5e69a1f)  
 - [2020-05-31-张文宏问抗疫取得成效的原因，网友回答都提到了两个字-|-两会云问答](https://www.ershicimi.com/p/e413ee58461001ea27e7778896d7e19e)  
@@ -940,9 +943,6 @@
 - [2020-05-28-8-个看似简单的心理学小技巧，学会了却能受益终生](https://www.ershicimi.com/p/5d4d8726f8a2fdf5d121c3c8de5d857f)  
 - [2020-05-28-知乎好问题：如何看待首个国产-HPV-疫苗获批上市，定价-329-元一支？](https://www.ershicimi.com/p/6ca5493dfc7aeb3ed006c97cc77aa74d)  
 - [2020-05-28-如何开启一段不尴尬的聊天？](https://www.ershicimi.com/p/74753e942af7ab587ddaf1b22db194f4)  
-- [2020-05-28-知乎故事-|-和异性合租是种怎样的体验？](https://www.ershicimi.com/p/401c5805fc73f91bbc341411acc6b08c)  
-- [2020-05-27-知乎好问题：有哪些地方让你去了以后感叹「世界上竟然还有这种存在」？](https://www.ershicimi.com/p/d28597ba0456d01737a635b938975730)  
-- [2020-05-27-姚明：疫情让人看到个人渺小，汇成集体力量无限-|-两会云问答](https://www.ershicimi.com/p/2438e84375f47017f045594eb74ec8d7)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,26 +954,26 @@
 </summary>
 
 
-- [2020-06-01-刚刚发现微博昵称不能为-0x7fffffff，提示错误信息“昵称为全数字”](https://www.v2ex.com/t/677656) ![](assets/new.png)  
-- [2020-06-01-浙江移动是不是又抽风了，最近百度都上不去](https://www.v2ex.com/t/677655) ![](assets/new.png)  
-- [2020-06-01-LEDE-路由器问题](https://www.v2ex.com/t/677654) ![](assets/new.png)  
-- [2020-06-01-iPad-电量疑问](https://www.v2ex.com/t/677653) ![](assets/new.png)  
-- [2020-06-01-小米手机也开始推-618-广告了！？](https://www.v2ex.com/t/677652) ![](assets/new.png)  
-- [2020-06-01-从安卓转移到-iPhone-的最佳方式是什么？](https://www.v2ex.com/t/677651) ![](assets/new.png)  
-- [2020-06-01-求分享下杀死蟑螂的方法？](https://www.v2ex.com/t/677650) ![](assets/new.png)  
-- [2020-06-01-有什么方法可以确认-pip-uninstall-xxx-是安全的，不会破坏现有的项目及环境-venv？](https://www.v2ex.com/t/677649) ![](assets/new.png)  
-- [2020-06-01-免费的图床站点是如何盈利的或者是用爱发电?](https://www.v2ex.com/t/677648) ![](assets/new.png)  
-- [2020-06-01-随航（Sidecar）Apple-Pencil-能否模拟鼠标右键？](https://www.v2ex.com/t/677647) ![](assets/new.png)  
-- [2020-06-01-你要找的个人数据云盘](https://www.v2ex.com/t/677646) ![](assets/new.png)  
-- [2020-06-01-字节跳动飞书社招内推专场-六大城市！海量岗位！极速面试！有问必答！](https://www.v2ex.com/t/677645) ![](assets/new.png)  
-- [2020-06-01-有没有谁试过-zoho-企业免费邮箱最多可以发多少封邮件？](https://www.v2ex.com/t/677643) ![](assets/new.png)  
-- [2020-06-01-网页背景图片如何自适应，不拉伸，不显示不全，+repeat](https://www.v2ex.com/t/677640) ![](assets/new.png)  
-- [2020-06-01-有没有银行或者懂的人](https://www.v2ex.com/t/677637) ![](assets/new.png)  
-- [2020-06-01-向各位师父请教工作和考研的问题](https://www.v2ex.com/t/677636) ![](assets/new.png)  
-- [2020-06-01-AirPods-和-HUAWEI-watch-八字不合？](https://www.v2ex.com/t/677635) ![](assets/new.png)  
-- [2020-06-01-各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634) ![](assets/new.png)  
-- [2020-06-01-多租户-word-模版导出方案](https://www.v2ex.com/t/677633) ![](assets/new.png)  
-- [2020-06-01-pdd-的-mac-air-4750](https://www.v2ex.com/t/677632) ![](assets/new.png)  
+- [2020-06-01-刚刚发现微博昵称不能为-0x7fffffff，提示错误信息“昵称为全数字”](https://www.v2ex.com/t/677656)  
+- [2020-06-01-浙江移动是不是又抽风了，最近百度都上不去](https://www.v2ex.com/t/677655)  
+- [2020-06-01-LEDE-路由器问题](https://www.v2ex.com/t/677654)  
+- [2020-06-01-iPad-电量疑问](https://www.v2ex.com/t/677653)  
+- [2020-06-01-小米手机也开始推-618-广告了！？](https://www.v2ex.com/t/677652)  
+- [2020-06-01-从安卓转移到-iPhone-的最佳方式是什么？](https://www.v2ex.com/t/677651)  
+- [2020-06-01-求分享下杀死蟑螂的方法？](https://www.v2ex.com/t/677650)  
+- [2020-06-01-有什么方法可以确认-pip-uninstall-xxx-是安全的，不会破坏现有的项目及环境-venv？](https://www.v2ex.com/t/677649)  
+- [2020-06-01-免费的图床站点是如何盈利的或者是用爱发电?](https://www.v2ex.com/t/677648)  
+- [2020-06-01-随航（Sidecar）Apple-Pencil-能否模拟鼠标右键？](https://www.v2ex.com/t/677647)  
+- [2020-06-01-你要找的个人数据云盘](https://www.v2ex.com/t/677646)  
+- [2020-06-01-字节跳动飞书社招内推专场-六大城市！海量岗位！极速面试！有问必答！](https://www.v2ex.com/t/677645)  
+- [2020-06-01-有没有谁试过-zoho-企业免费邮箱最多可以发多少封邮件？](https://www.v2ex.com/t/677643)  
+- [2020-06-01-网页背景图片如何自适应，不拉伸，不显示不全，+repeat](https://www.v2ex.com/t/677640)  
+- [2020-06-01-有没有银行或者懂的人](https://www.v2ex.com/t/677637)  
+- [2020-06-01-向各位师父请教工作和考研的问题](https://www.v2ex.com/t/677636)  
+- [2020-06-01-AirPods-和-HUAWEI-watch-八字不合？](https://www.v2ex.com/t/677635)  
+- [2020-06-01-各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634)  
+- [2020-06-01-多租户-word-模版导出方案](https://www.v2ex.com/t/677633)  
+- [2020-06-01-pdd-的-mac-air-4750](https://www.v2ex.com/t/677632)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

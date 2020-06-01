@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 00:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-01-华盛顿特区市长宣布开始为期两天宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1) 
+- [2020-06-01-6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1) 
 - [2020-06-01-巴西里约热内卢将继续维持限制令,时间至少一周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1) 
 - [2020-06-01-中国抗疫医疗专家组总结与刚果（布）合作抗疫成果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15JDYSeRzfi3xhipyo5x200601&isfromapp=1) 
 - [2020-06-01-上海现有最后1例本地确诊病例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHv7FSKfWrjVbiJ97OWn200601&isfromapp=1) 
@@ -1152,6 +1154,9 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
+- [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
+- [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
 - [2020-05-31-钟南山：经此一疫，你形成哪些健康的生活方式？你有哪些健身故事？-|-两会云问答](https://www.ershicimi.com/p/85a0ec41cf1fa44eb2ee0023d5e69a1f) 
 - [2020-05-31-张文宏问抗疫取得成效的原因，网友回答都提到了两个字-|-两会云问答](https://www.ershicimi.com/p/e413ee58461001ea27e7778896d7e19e) 
 - [2020-05-31-知乎故事-|-你在男朋友手机里发现过什么秘密？](https://www.ershicimi.com/p/bca959aa146a97a4051c7ef3e442c3c9) 

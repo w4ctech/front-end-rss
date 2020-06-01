@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 09:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 09:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -909,10 +909,10 @@
 </summary>
 
 
-- [2020-06-01-城市创卫,没法丢垃圾了](https://www.v2ex.com/t/677354) ![](assets/new.png)  
-- [2020-06-01-18-款-MBP，-19-年-2-月份买的，最近发现有个雷电口坏了，还保修吗？](https://www.v2ex.com/t/677353) ![](assets/new.png)  
-- [2020-06-01-618-促销！-Internet-Download-Manager-IDM-下载神器！一年版仅需-34-元！团购仅需-29-元！机不可失时不再来！](https://www.v2ex.com/t/677352) ![](assets/new.png)  
-- [2020-06-01-周末去工地打工是否可行？](https://www.v2ex.com/t/677351) ![](assets/new.png)  
+- [2020-06-01-城市创卫,没法丢垃圾了](https://www.v2ex.com/t/677354)  
+- [2020-06-01-18-款-MBP，-19-年-2-月份买的，最近发现有个雷电口坏了，还保修吗？](https://www.v2ex.com/t/677353)  
+- [2020-06-01-618-促销！-Internet-Download-Manager-IDM-下载神器！一年版仅需-34-元！团购仅需-29-元！机不可失时不再来！](https://www.v2ex.com/t/677352)  
+- [2020-06-01-周末去工地打工是否可行？](https://www.v2ex.com/t/677351)  
 - [2020-06-01-为什么大部分人用-win-to-go-而不是-boot-camp-打游戏](https://www.v2ex.com/t/677350)  
 - [2020-06-01-企业的-ios-开发环境有什么好的安全措施吗？](https://www.v2ex.com/t/677349)  
 - [2020-06-01-迫于-618，-97-收京东卡](https://www.v2ex.com/t/677348)  
@@ -940,6 +940,7 @@
 </summary>
 
 
+- [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-以深度学习为例理解22种设计模式（一）创建型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -959,7 +960,6 @@
 - [2020-05-29-频频被点名的“区块链”，到底是个啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13470&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCQ4h0GxACuGsagDDT76y5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -971,6 +971,16 @@
 </summary>
 
 
+- [2020-06-01-什么？终止一个容器竟然用了-10-秒钟，这不能忍](https://toutiao.io/k/vydmx9o) ![](assets/new.png)  
+- [2020-06-01-携程异地多活：MySQL-实时双向（多向）复制实践](https://toutiao.io/k/1w0utx4) ![](assets/new.png)  
+- [2020-06-01-面试三轮我倒在了一道-SQL-题上：SQL-性能优化](https://toutiao.io/k/olunz8i) ![](assets/new.png)  
+- [2020-06-01-Flutter：利用-ClipPath-实现任意形状-Widget](https://toutiao.io/k/wsf5d2l) ![](assets/new.png)  
+- [2020-06-01-Eureka-实例注册状态保持-STARTING-的问题排查](https://toutiao.io/k/1xilhe5) ![](assets/new.png)  
+- [2020-06-01-玩转-KCP（四）：FEC（前向纠错）](https://toutiao.io/k/wwt911i) ![](assets/new.png)  
+- [2020-06-01-.Net-Core-实现区块链初探](https://toutiao.io/k/r46uq18) ![](assets/new.png)  
+- [2020-06-01-​TCP-拥塞控制详解](https://toutiao.io/k/kzuixsn) ![](assets/new.png)  
+- [2020-06-01-Redis-安全学习小记](https://toutiao.io/k/lswtis9) ![](assets/new.png)  
+- [2020-06-01-Golang-源码学习调度逻辑（三）：工作线程的执行流程与调度循环](https://toutiao.io/k/rvguhqd) ![](assets/new.png)  
 - [2020-06-01-稳定性五件套：熔断的原理和实现](https://toutiao.io/k/gqv4tav)  
 - [2020-06-01-为什么阿里巴巴开发手册中强制要求接口返回值不允许使用枚举？](https://toutiao.io/k/fozem7p)  
 - [2020-06-01-Order-by-优化](https://toutiao.io/k/3ppxe3c)  
@@ -981,16 +991,6 @@
 - [2020-06-01-推荐-我画了-25-张图展示线程池工作原理和实现原理](https://toutiao.io/k/29afo7u)  
 - [2020-05-31-推荐-不懂-Redis-Cluster-原理，我被同事-diss-了](https://toutiao.io/k/040b1wq)  
 - [2020-05-31-推荐-领域驱动设计-DDD-实践之路（三）：如何设计聚合](https://toutiao.io/k/x7mod51)  
-- [2020-05-31-为什么系统调用会消耗较多资源](https://toutiao.io/k/lfcq1ha)  
-- [2020-05-31-限流算法原理剖析](https://toutiao.io/k/v4f0jid)  
-- [2020-05-31-安装-PHP-MongoDB-扩展](https://toutiao.io/k/h2ar7ld)  
-- [2020-05-31-Kubectl-exec-背后到底发生了什么？](https://toutiao.io/k/wxc5yoi)  
-- [2020-05-31-Container：为-Go-语言而生的运行时依赖注入容器](https://toutiao.io/k/ai34agq)  
-- [2020-05-31-用-Windows-Terminal-替换你的盗版远程管理软件？](https://toutiao.io/k/37nhzok)  
-- [2020-05-31-译-Go-编译器内核：给-Go-新增一个语句（一）](https://toutiao.io/k/n0oxyow)  
-- [2020-05-31-Golang-程序调试工具介绍-gdb-vs-dlv](https://toutiao.io/k/q6tc3kk)  
-- [2020-05-31-软件开发为什么离不开文档？](https://toutiao.io/k/hdg2smd)  
-- [2020-05-31-浅析-Hive/Spark-SQL-读文件时的输入任务划分](https://toutiao.io/k/x0mxygk)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

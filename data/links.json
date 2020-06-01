@@ -11993,6 +11993,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "炸裂！万字长文推倒HTTP，我在字节跳动等你！ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-01"
+      },
+      {
         "title": "有态度的前沿技术解析，第22期技术雷达 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-05-31"
@@ -12109,6 +12114,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "什么？终止一个容器竟然用了 10 秒钟，这不能忍",
+        "link": "https://toutiao.io/k/vydmx9o",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "携程异地多活：MySQL 实时双向（多向）复制实践",
+        "link": "https://toutiao.io/k/1w0utx4",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "面试三轮我倒在了一道 SQL 题上：SQL 性能优化",
+        "link": "https://toutiao.io/k/olunz8i",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Flutter：利用 ClipPath 实现任意形状 Widget",
+        "link": "https://toutiao.io/k/wsf5d2l",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Eureka 实例注册状态保持 STARTING 的问题排查",
+        "link": "https://toutiao.io/k/1xilhe5",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "玩转 KCP（四）：FEC（前向纠错）",
+        "link": "https://toutiao.io/k/wwt911i",
+        "date": "2020-06-01"
+      },
+      {
+        "title": ".Net Core 实现区块链初探",
+        "link": "https://toutiao.io/k/r46uq18",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "​TCP 拥塞控制详解",
+        "link": "https://toutiao.io/k/kzuixsn",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Redis 安全学习小记",
+        "link": "https://toutiao.io/k/lswtis9",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Golang 源码学习调度逻辑（三）：工作线程的执行流程与调度循环",
+        "link": "https://toutiao.io/k/rvguhqd",
+        "date": "2020-06-01"
+      },
       {
         "title": "稳定性五件套：熔断的原理和实现",
         "link": "https://toutiao.io/k/gqv4tav",

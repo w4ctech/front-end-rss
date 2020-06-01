@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 22:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 23:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-01-巴西里约热内卢将继续维持限制令,时间至少一周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过605万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1) ![](assets/new.png)  
 - [2020-06-01-沙特新增1881例新冠肺炎确诊病例，累计确诊87142例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRb7wJhkYSAaeYW1kqEhr200601&isfromapp=1)  
 - [2020-06-01-中国抗疫医疗专家组总结与刚果（布）合作抗疫成果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15JDYSeRzfi3xhipyo5x200601&isfromapp=1)  
 - [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过601万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieEvvNZDb3EHZcJNpUgsQ200601&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-31-荷兰新增新冠肺炎确诊病例185例，累计确诊46442例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articw9yMqwTZ6Szo6pwdsEc200531&isfromapp=1)  
 - [2020-05-31-阿联酋新增661例新冠肺炎确诊病例-累计确诊34557例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1)  
 - [2020-05-31-以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1)  
-- [2020-05-31-张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1)  
-- [2020-05-31-俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -985,7 +985,7 @@
 </summary>
 
 
-- [2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

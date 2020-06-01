@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,6 +17,7 @@
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643) 
 - [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [2020-05-30-你值得拥有的-UI-调试技巧](https://www.ershicimi.com/p/82e994e4efe1014b3f845b411600c58b) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -33,6 +34,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-01-想找一份图形渲染-引擎开发-技术美术方面的远程工作](https://www.v2ex.com/t/677418) 
+- [2020-06-01-Firefox-不经确认就开始下载的问题…](https://www.v2ex.com/t/677414) 
 - [2020-06-01-PostgreSQL-有没有办法统计每个-SQL-执行的次数](https://www.v2ex.com/t/677366) 
 - [2020-06-01-企业的-ios-开发环境有什么好的安全措施吗？](https://www.v2ex.com/t/677349) 
 - [2020-06-01-frp-内网穿透的安全性如何？如果是明文传输是否有安全隐患？](https://www.v2ex.com/t/677336) 

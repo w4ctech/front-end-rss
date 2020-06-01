@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 13:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 14:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -434,6 +434,7 @@
 </summary>
 
 
+- [2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) ![](assets/new.png)  
 - [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519)  
 - [2020-05-31-淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6)  
 - [2020-05-30-我的VS-Code设置，高效编码！](https://www.ershicimi.com/p/9f7b3801200cdeab85977e00b2831bd0)  
@@ -820,11 +821,11 @@
 </summary>
 
 
-- [2020-06-01-从需求到开发实现1+2=3](https://juejin.im/post/5ed3b06851882543137362ba) ![](assets/new.png)  
-- [2020-06-01-Yiming君的VUE世界观](https://juejin.im/post/5ed3b7f0e51d4578732e714e) ![](assets/new.png)  
-- [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) ![](assets/new.png)  
-- [2020-06-01-安排函数防抖与节流](https://juejin.im/post/5ed46e4e51882543194ecc29) ![](assets/new.png)  
-- [2020-06-01-动态规划之截气球](https://juejin.im/post/5ed3b427e51d45789302a357) ![](assets/new.png)  
+- [2020-06-01-从需求到开发实现1+2=3](https://juejin.im/post/5ed3b06851882543137362ba)  
+- [2020-06-01-Yiming君的VUE世界观](https://juejin.im/post/5ed3b7f0e51d4578732e714e)  
+- [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475)  
+- [2020-06-01-安排函数防抖与节流](https://juejin.im/post/5ed46e4e51882543194ecc29)  
+- [2020-06-01-动态规划之截气球](https://juejin.im/post/5ed3b427e51d45789302a357)  
 - [2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677)  
 - [2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9)  
 - [2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)  

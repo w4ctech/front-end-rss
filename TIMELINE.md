@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-01 14:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,7 @@
 - [【前端大学】2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 
 - [【前端大学】2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
 - [【前端宇宙】2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3) 
 - [【前端宇宙】2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 

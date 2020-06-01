@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 17:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-01 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-世卫组织：全球新冠肺炎确诊病例超过601万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieEvvNZDb3EHZcJNpUgsQ200601&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-香港新增3例新冠肺炎确诊病例，累计确诊1087例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2H2gZD1pri63xK8YIoXq200601&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-上海现有最后1例本地确诊病例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHv7FSKfWrjVbiJ97OWn200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-截至5月31日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/408532.jhtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万中小学生重返课堂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPkO85YX6LOYAHMDj5V9H200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-日本1至3月产业经常利益下降32%-为10年半以来最大跌幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1) 

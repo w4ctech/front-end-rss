@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 17:30:20，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 18:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过601万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieEvvNZDb3EHZcJNpUgsQ200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-香港新增3例新冠肺炎确诊病例，累计确诊1087例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2H2gZD1pri63xK8YIoXq200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-上海现有最后1例本地确诊病例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHv7FSKfWrjVbiJ97OWn200601&isfromapp=1) ![](assets/new.png)  
 - [2020-06-01-截至5月31日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/408532.jhtml)  
 - [2020-06-01-北京40多万中小学生重返课堂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPkO85YX6LOYAHMDj5V9H200601&isfromapp=1)  
 - [2020-06-01-日本1至3月产业经常利益下降32%-为10年半以来最大跌幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-05-31-俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1)  
 - [2020-05-31-英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1)  
 - [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)  
-- [2020-05-31-上课啦！宁夏30.4万名1至3年级小学生返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmtCcLY3yhEItQkxhS39200531&isfromapp=1)  
-- [2020-05-31-天津新增1例境外输入无症状感染者-全程实施闭环管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiMkwSwM1J0Uto7bHkBfK200531&isfromapp=1)  
-- [2020-05-31-美国：疫情蔓延、失业率飙升、大规模抗议活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid3GEIXhClgxxaqpMJe3y200531&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -385,11 +385,11 @@
 </summary>
 
 
-- [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) ![](assets/new.png)  
-- [2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) ![](assets/new.png)  
-- [2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516) ![](assets/new.png)  
-- [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352) ![](assets/new.png)  
-- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/ced8ad44398a06d5dc2139bb288b061b) ![](assets/new.png)  
+- [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3)  
+- [2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f)  
+- [2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516)  
+- [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352)  
+- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/ced8ad44398a06d5dc2139bb288b061b)  
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe)  
 - [2020-05-29-Android-Studio-4.0发布：全新的-Motion-编辑器及众多更新](https://www.ershicimi.com/p/14f666e03304c01d8fd48334908ce54b)  
 - [2020-05-29-云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)  
@@ -954,26 +954,26 @@
 </summary>
 
 
-- [2020-06-01-上车吗？广州外包群，群里接单，发包都有都有...](https://www.v2ex.com/t/677565) ![](assets/new.png)  
-- [2020-06-01-选择前端/后端的问题](https://www.v2ex.com/t/677564) ![](assets/new.png)  
-- [2020-06-01-求助，系统设置中的软件更新无法点击](https://www.v2ex.com/t/677563) ![](assets/new.png)  
-- [2020-06-01-北京海淀-长亭科技-后端开发-Go-or-Python-](https://www.v2ex.com/t/677562) ![](assets/new.png)  
-- [2020-06-01-win-to-go-现在最新支持-win-几，丐版-128Mac-跃跃欲试](https://www.v2ex.com/t/677561) ![](assets/new.png)  
-- [2020-06-01-IOS-捷径/快捷指令/Workflow-终极扫盲指南](https://www.v2ex.com/t/677560) ![](assets/new.png)  
-- [2020-06-01-Chrome-访问个别网站连接已重置,其他浏览器正常](https://www.v2ex.com/t/677558) ![](assets/new.png)  
-- [2020-06-01-请教广州安卓大佬](https://www.v2ex.com/t/677557) ![](assets/new.png)  
-- [2020-06-01-第-2-天-|-用-Node.js-转账-ETH](https://www.v2ex.com/t/677556) ![](assets/new.png)  
-- [2020-06-01-19-款-mbp-13-寸丐版现在值几个钱？](https://www.v2ex.com/t/677555) ![](assets/new.png)  
-- [2020-06-01-想知道-花卷科技-和-安畅-什么关系](https://www.v2ex.com/t/677554) ![](assets/new.png)  
-- [2020-06-01-PhpStorm-识别不了-JSX-？](https://www.v2ex.com/t/677552) ![](assets/new.png)  
-- [2020-06-01-小团队-接私活。-设计、后端开发、爬虫均可](https://www.v2ex.com/t/677551) ![](assets/new.png)  
-- [2020-06-01-3-年-Java-开发，在找工作，大佬们有空帮忙过过简历，提提建议，感激不尽](https://www.v2ex.com/t/677550) ![](assets/new.png)  
-- [2020-06-01-Java-的-JNDI-rmi-现在还有在被经常使用吗?-现在听到这些名词都是在安全漏洞上了...](https://www.v2ex.com/t/677549) ![](assets/new.png)  
-- [2020-06-01-恰逢京东-618，问一下优衣库/HM/ZARA-等品牌为啥在京东没有旗舰店？](https://www.v2ex.com/t/677547) ![](assets/new.png)  
-- [2020-06-01-关于-Vue-框架创建项目后，-build-项目时如何无缝对接后端接口的问题](https://www.v2ex.com/t/677546) ![](assets/new.png)  
-- [2020-06-01-surface-的接班人？联想的-Duet，-6999-首发他来了~](https://www.v2ex.com/t/677545) ![](assets/new.png)  
-- [2020-06-01-六一儿童节快乐！](https://www.v2ex.com/t/677544) ![](assets/new.png)  
-- [2020-06-01-转租_酒仙桥电子城_北窑地小区_2415_次卧_相遇转租_双周保洁](https://www.v2ex.com/t/677543) ![](assets/new.png)  
+- [2020-06-01-上车吗？广州外包群，群里接单，发包都有都有...](https://www.v2ex.com/t/677565)  
+- [2020-06-01-选择前端/后端的问题](https://www.v2ex.com/t/677564)  
+- [2020-06-01-求助，系统设置中的软件更新无法点击](https://www.v2ex.com/t/677563)  
+- [2020-06-01-北京海淀-长亭科技-后端开发-Go-or-Python-](https://www.v2ex.com/t/677562)  
+- [2020-06-01-win-to-go-现在最新支持-win-几，丐版-128Mac-跃跃欲试](https://www.v2ex.com/t/677561)  
+- [2020-06-01-IOS-捷径/快捷指令/Workflow-终极扫盲指南](https://www.v2ex.com/t/677560)  
+- [2020-06-01-Chrome-访问个别网站连接已重置,其他浏览器正常](https://www.v2ex.com/t/677558)  
+- [2020-06-01-请教广州安卓大佬](https://www.v2ex.com/t/677557)  
+- [2020-06-01-第-2-天-|-用-Node.js-转账-ETH](https://www.v2ex.com/t/677556)  
+- [2020-06-01-19-款-mbp-13-寸丐版现在值几个钱？](https://www.v2ex.com/t/677555)  
+- [2020-06-01-想知道-花卷科技-和-安畅-什么关系](https://www.v2ex.com/t/677554)  
+- [2020-06-01-PhpStorm-识别不了-JSX-？](https://www.v2ex.com/t/677552)  
+- [2020-06-01-小团队-接私活。-设计、后端开发、爬虫均可](https://www.v2ex.com/t/677551)  
+- [2020-06-01-3-年-Java-开发，在找工作，大佬们有空帮忙过过简历，提提建议，感激不尽](https://www.v2ex.com/t/677550)  
+- [2020-06-01-Java-的-JNDI-rmi-现在还有在被经常使用吗?-现在听到这些名词都是在安全漏洞上了...](https://www.v2ex.com/t/677549)  
+- [2020-06-01-恰逢京东-618，问一下优衣库/HM/ZARA-等品牌为啥在京东没有旗舰店？](https://www.v2ex.com/t/677547)  
+- [2020-06-01-关于-Vue-框架创建项目后，-build-项目时如何无缝对接后端接口的问题](https://www.v2ex.com/t/677546)  
+- [2020-06-01-surface-的接班人？联想的-Duet，-6999-首发他来了~](https://www.v2ex.com/t/677545)  
+- [2020-06-01-六一儿童节快乐！](https://www.v2ex.com/t/677544)  
+- [2020-06-01-转租_酒仙桥电子城_北窑地小区_2415_次卧_相遇转租_双周保洁](https://www.v2ex.com/t/677543)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

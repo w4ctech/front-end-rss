@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 01:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -190,6 +190,14 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-02-今天在-zfb-充话费发现到账居然不是面值](https://www.v2ex.com/t/677668) 
+- [【V2EX】2020-06-02-修改开源软件引用-jar-包版本是否受开源协议约束？](https://www.v2ex.com/t/677666) 
+- [【V2EX】2020-06-02-apnic-的-asn-可以在国内广播吗？](https://www.v2ex.com/t/677665) 
+- [【V2EX】2020-06-02-一年经验的-Android-开发应该具备怎样的水平？](https://www.v2ex.com/t/677664) 
+- [【V2EX】2020-06-02-我给自己的小程序设计了分享海报，发出来请大家点评，希望可以多提点意见。](https://www.v2ex.com/t/677662) 
+- [【V2EX】2020-06-02-关于云服务器和-vs-code-的-remote-ssh-以及-angular-或者是-ember，想请教一下有经验的大佬](https://www.v2ex.com/t/677660) 
+- [【V2EX】2020-06-02-判断各厂移动浏览器、PC-浏览器请求头-User-Agent-比较靠谱的方式是什么？](https://www.v2ex.com/t/677659) 
+- [【V2EX】2020-06-02-Ping-IP-可以连通，-Ping-域名无法连通，可能是什么原因导致的？](https://www.v2ex.com/t/677658) 
 - [【V2EX】2020-06-01-刚刚发现微博昵称不能为-0x7fffffff，提示错误信息“昵称为全数字”](https://www.v2ex.com/t/677656) 
 - [【V2EX】2020-06-01-浙江移动是不是又抽风了，最近百度都上不去](https://www.v2ex.com/t/677655) 
 - [【V2EX】2020-06-01-LEDE-路由器问题](https://www.v2ex.com/t/677654) 

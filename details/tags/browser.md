@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-02-判断各厂移动浏览器、PC-浏览器请求头-User-Agent-比较靠谱的方式是什么？](https://www.v2ex.com/t/677659) 
 - [2020-06-01-有什么方法可以确认-pip-uninstall-xxx-是安全的，不会破坏现有的项目及环境-venv？](https://www.v2ex.com/t/677649) 
 - [2020-06-01-chrome-有什么能下载或-cp-百度文库的扩展、油猴脚本么？](https://www.v2ex.com/t/677623) 
 - [2020-06-01-劫持导致浏览器将搜索词识别为网址](https://www.v2ex.com/t/677586) 

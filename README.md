@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 01:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 01:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -829,11 +829,11 @@
 </summary>
 
 
-- [2020-06-01-官宣！阿里Fx-Team-正式成立啦~](https://juejin.im/post/5ed507b3f265da77057e3499) ![](assets/new.png)  
-- [2020-06-01-动态刻度可视化组件实现](https://juejin.im/post/5ed4f85bf265da770e1bca9d) ![](assets/new.png)  
-- [2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e) ![](assets/new.png)  
-- [2020-06-01-Event-Loop事件循环机制--图文并茂详解](https://juejin.im/post/5ed4c5496fb9a047e70593bd) ![](assets/new.png)  
-- [2020-06-01-Vue的class语法与常规语法对照表](https://juejin.im/post/5ed4cfd86fb9a047ff1aafe5) ![](assets/new.png)  
+- [2020-06-01-官宣！阿里Fx-Team-正式成立啦~](https://juejin.im/post/5ed507b3f265da77057e3499)  
+- [2020-06-01-动态刻度可视化组件实现](https://juejin.im/post/5ed4f85bf265da770e1bca9d)  
+- [2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e)  
+- [2020-06-01-Event-Loop事件循环机制--图文并茂详解](https://juejin.im/post/5ed4c5496fb9a047e70593bd)  
+- [2020-06-01-Vue的class语法与常规语法对照表](https://juejin.im/post/5ed4cfd86fb9a047ff1aafe5)  
 - [2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e)  
 - [2020-06-01-第九届前端早早聊大会-|-前端搞文档](https://www.huodongxing.com/go/tl9)  
 - [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c)  
@@ -954,6 +954,14 @@
 </summary>
 
 
+- [2020-06-02-今天在-zfb-充话费发现到账居然不是面值](https://www.v2ex.com/t/677668) ![](assets/new.png)  
+- [2020-06-02-修改开源软件引用-jar-包版本是否受开源协议约束？](https://www.v2ex.com/t/677666) ![](assets/new.png)  
+- [2020-06-02-apnic-的-asn-可以在国内广播吗？](https://www.v2ex.com/t/677665) ![](assets/new.png)  
+- [2020-06-02-一年经验的-Android-开发应该具备怎样的水平？](https://www.v2ex.com/t/677664) ![](assets/new.png)  
+- [2020-06-02-我给自己的小程序设计了分享海报，发出来请大家点评，希望可以多提点意见。](https://www.v2ex.com/t/677662) ![](assets/new.png)  
+- [2020-06-02-关于云服务器和-vs-code-的-remote-ssh-以及-angular-或者是-ember，想请教一下有经验的大佬](https://www.v2ex.com/t/677660) ![](assets/new.png)  
+- [2020-06-02-判断各厂移动浏览器、PC-浏览器请求头-User-Agent-比较靠谱的方式是什么？](https://www.v2ex.com/t/677659) ![](assets/new.png)  
+- [2020-06-02-Ping-IP-可以连通，-Ping-域名无法连通，可能是什么原因导致的？](https://www.v2ex.com/t/677658) ![](assets/new.png)  
 - [2020-06-01-刚刚发现微博昵称不能为-0x7fffffff，提示错误信息“昵称为全数字”](https://www.v2ex.com/t/677656)  
 - [2020-06-01-浙江移动是不是又抽风了，最近百度都上不去](https://www.v2ex.com/t/677655)  
 - [2020-06-01-LEDE-路由器问题](https://www.v2ex.com/t/677654)  
@@ -966,14 +974,6 @@
 - [2020-06-01-随航（Sidecar）Apple-Pencil-能否模拟鼠标右键？](https://www.v2ex.com/t/677647)  
 - [2020-06-01-你要找的个人数据云盘](https://www.v2ex.com/t/677646)  
 - [2020-06-01-字节跳动飞书社招内推专场-六大城市！海量岗位！极速面试！有问必答！](https://www.v2ex.com/t/677645)  
-- [2020-06-01-有没有谁试过-zoho-企业免费邮箱最多可以发多少封邮件？](https://www.v2ex.com/t/677643)  
-- [2020-06-01-网页背景图片如何自适应，不拉伸，不显示不全，+repeat](https://www.v2ex.com/t/677640)  
-- [2020-06-01-有没有银行或者懂的人](https://www.v2ex.com/t/677637)  
-- [2020-06-01-向各位师父请教工作和考研的问题](https://www.v2ex.com/t/677636)  
-- [2020-06-01-AirPods-和-HUAWEI-watch-八字不合？](https://www.v2ex.com/t/677635)  
-- [2020-06-01-各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634)  
-- [2020-06-01-多租户-word-模版导出方案](https://www.v2ex.com/t/677633)  
-- [2020-06-01-pdd-的-mac-air-4750](https://www.v2ex.com/t/677632)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

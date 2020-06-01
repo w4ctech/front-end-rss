@@ -9296,6 +9296,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "今天在 zfb 充话费发现到账居然不是面值",
+        "link": "https://www.v2ex.com/t/677668",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "修改开源软件引用 jar 包版本是否受开源协议约束？",
+        "link": "https://www.v2ex.com/t/677666",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "apnic 的 asn 可以在国内广播吗？",
+        "link": "https://www.v2ex.com/t/677665",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "一年经验的 Android 开发应该具备怎样的水平？",
+        "link": "https://www.v2ex.com/t/677664",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "我给自己的小程序设计了分享海报，发出来请大家点评，希望可以多提点意见。",
+        "link": "https://www.v2ex.com/t/677662",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "关于云服务器和 vs code 的 remote ssh 以及 angular 或者是 ember，想请教一下有经验的大佬",
+        "link": "https://www.v2ex.com/t/677660",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "判断各厂移动浏览器、PC 浏览器请求头 User-Agent 比较靠谱的方式是什么？",
+        "link": "https://www.v2ex.com/t/677659",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "Ping IP 可以连通， Ping 域名无法连通，可能是什么原因导致的？",
+        "link": "https://www.v2ex.com/t/677658",
+        "date": "2020-06-02"
+      },
+      {
         "title": "刚刚发现微博昵称不能为 0x7fffffff，提示错误信息“昵称为全数字”",
         "link": "https://www.v2ex.com/t/677656",
         "date": "2020-06-01"

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -11,6 +11,7 @@
 - [2020-03-02-刑满释放者自汉返京确诊事件续：湖北司法厅长等16人受处分](http://china.caixin.com/2020-03-02/101523043.html) 
 - [2020-01-24-WHO决定不将新冠肺炎疫情定性为国际突发公共卫生事件](http://international.caixin.com/2020-01-24/101507977.html) 
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](http://www.caixin.com/2020-01-23/101507521.html) 
+- [2020-06-01-十个超级实用的-ES6-特性](https://www.ershicimi.com/p/9845e887c0a78745192e971623536397) 
 - [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe) 
 - [2020-05-27-【第1957期】JavaScript-20-年中文版---改革遗恨](https://www.ershicimi.com/p/9fc720f817f6b3b898e1645c309e7adf) 
 - [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de) 
@@ -67,6 +68,7 @@
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
+- [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
 - [2020-05-31-js从原始数据类型到深浅拷贝（个人笔记）](https://juejin.im/post/5ed3664de51d45783e17b12a) 
 - [2020-05-31-H5加载Android本地路径图片](https://juejin.im/post/5ed3b78d6fb9a047a226979f) 
 - [2020-05-29-webworker-使用实记](https://juejin.im/post/5ed0cc0151882543216f00f8) 
@@ -87,6 +89,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-01-fastjson-又爆-bug-了!快来看看是否受影响](https://www.v2ex.com/t/677367) 
 - [2020-06-01-要从公司辞职了，有没有可以远程办公的机会，多年知名大企业工作经验，技术栈-Java-，-javascript](https://www.v2ex.com/t/677344) 
 - [2020-05-31-请教一个前端路由问题](https://www.v2ex.com/t/677291) 
 - [2020-05-31-关于爬虫异步多线程的问题](https://www.v2ex.com/t/677155) 

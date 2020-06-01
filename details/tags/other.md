@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) 
 - [2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
 - [2020-05-31-圭亚那养老院感染新冠病毒风险加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFp180wu2JK10vrYxuKO0200531&isfromapp=1) 
 - [2020-05-31-西班牙首相桑切斯将再次延长国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticUVw17LlWkyuyaWGEREY200531&isfromapp=1) 
@@ -905,6 +906,7 @@
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) 
 - [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) 
+- [2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b) 
 - [2020-05-29-【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12) 
 - [2020-05-28-【第1958期】前端状态管理设计——优雅与妥协的艺术](https://www.ershicimi.com/p/17c31945dd39b0065dd2ba289d8714f5) 
 - [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682) 
@@ -1143,6 +1145,7 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-01-蚂蚁森林脚本，感觉被针对了...](https://www.v2ex.com/t/677343) 
 - [2020-06-01-关于内存选购](https://www.v2ex.com/t/677342) 
 - [2020-06-01-阿里云-CDN-有没有类似-CF-的-Page-rules-的功能？](https://www.v2ex.com/t/677340) 
 - [2020-06-01-京东实名还要银行卡号？](https://www.v2ex.com/t/677339) 

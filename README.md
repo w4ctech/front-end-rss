@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) ![](assets/new.png)  
-- [2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-巴西新冠肺炎累计确诊人数超51万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVwcZ2jz8mAfi4c9ygRDc200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1)  
+- [2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1)  
 - [2020-05-31-阿塞拜疆新增新冠肺炎确诊病例248例，累计确诊5494例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVFwFJhH5cQ4qj8dFsX2200531&isfromapp=1)  
 - [2020-05-31-圭亚那养老院感染新冠病毒风险加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFp180wu2JK10vrYxuKO0200531&isfromapp=1)  
 - [2020-05-31-西班牙首相桑切斯将再次延长国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticUVw17LlWkyuyaWGEREY200531&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-31-2020年5月30日河北省新型冠状病毒肺炎疫情情况](http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml)  
 - [2020-05-31-国家卫健委：5月30日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1)  
 - [2020-05-31-全球新冠肺炎确诊累计超600万](http://m.weibo.cn/2803301701/4510538611090535)  
-- [2020-05-31-美国确诊病例超过176万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTPFfHdqV1uXEAbaJU8c200531&isfromapp=1)  
-- [2020-05-31-英国新增新冠肺炎确诊病例2445例-累计确诊272826例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -211,6 +211,8 @@
 </summary>
 
 
+- [2020-06-01-【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f) ![](assets/new.png)  
+- [2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b) ![](assets/new.png)  
 - [2020-05-31-【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)  
 - [2020-05-30-【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64)  
 - [2020-05-29-【第1959期】面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/0314ae5d574e30db3c64aa20975f8a12)  
@@ -907,7 +909,9 @@
 </summary>
 
 
-- [2020-06-01-关于内存选购](https://www.v2ex.com/t/677342) ![](assets/new.png)  
+- [2020-06-01-要从公司辞职了，有没有可以远程办公的机会，多年知名大企业工作经验，技术栈-Java-，-javascript](https://www.v2ex.com/t/677344) ![](assets/new.png)  
+- [2020-06-01-蚂蚁森林脚本，感觉被针对了...](https://www.v2ex.com/t/677343) ![](assets/new.png)  
+- [2020-06-01-关于内存选购](https://www.v2ex.com/t/677342)  
 - [2020-06-01-阿里云-CDN-有没有类似-CF-的-Page-rules-的功能？](https://www.v2ex.com/t/677340)  
 - [2020-06-01-京东实名还要银行卡号？](https://www.v2ex.com/t/677339)  
 - [2020-06-01-Google-Cloud-无缘无故收了我-100-美元](https://www.v2ex.com/t/677338)  
@@ -925,8 +929,6 @@
 - [2020-06-01-ios-有什么办法可以根据时间来是否允许应用通知](https://www.v2ex.com/t/677324)  
 - [2020-06-01-腾讯云阿里云选哪个？做一个视频网站需要什么样配置的服务器？](https://www.v2ex.com/t/677323)  
 - [2020-06-01-pc-在什么样的状态才能称为"待机"状态？](https://www.v2ex.com/t/677322)  
-- [2020-06-01-Windows-To-Go-系统无法查看到内置-Boot-Camp-磁盘](https://www.v2ex.com/t/677321)  
-- [2020-06-01-现在还有以前那种-socks-http-的代理服务器吗？](https://www.v2ex.com/t/677319)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

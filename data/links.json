@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "截至5月31日24时新型冠状病毒肺炎疫情最新情况",
+        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/408532.jhtml",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "北京40多万中小学生重返课堂",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPkO85YX6LOYAHMDj5V9H200601&isfromapp=1",
+        "date": "2020-06-01"
+      },
+      {
         "title": "日本1至3月产业经常利益下降32% 为10年半以来最大跌幅",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1",
         "date": "2020-06-01"
@@ -8521,6 +8531,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "关于Git rebase你必须要知道的几件事",
+        "link": "https://juejin.im/post/5ed47d006fb9a047da363b62",
+        "date": "2020-06-01"
+      },
       {
         "title": "从需求到开发实现1+2=3",
         "link": "https://juejin.im/post/5ed3b06851882543137362ba",

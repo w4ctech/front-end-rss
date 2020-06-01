@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 11:30:21，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-01-日本1至3月产业经常利益下降32%-为10年半以来最大跌幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-日本1至3月产业经常利益下降32%-为10年半以来最大跌幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1)  
 - [2020-06-01-巴西新冠肺炎累计确诊人数超51万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVwcZ2jz8mAfi4c9ygRDc200601&isfromapp=1)  
 - [2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1)  
 - [2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1)  
@@ -481,11 +481,11 @@
 </summary>
 
 
-- [2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3) ![](assets/new.png)  
-- [2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73) ![](assets/new.png)  
-- [2020-05-31-最近面试高级前端工程师的一些感受](https://www.ershicimi.com/p/92df06afc91b976c1f00d0fd120f9af6) ![](assets/new.png)  
-- [2020-05-31-前端常用的60余种工具方法](https://www.ershicimi.com/p/c53fa67e2b71fcf1333f860f71e00bbf) ![](assets/new.png)  
-- [2020-05-30-你值得拥有的-UI-调试技巧](https://www.ershicimi.com/p/82e994e4efe1014b3f845b411600c58b) ![](assets/new.png)  
+- [2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3)  
+- [2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73)  
+- [2020-05-31-最近面试高级前端工程师的一些感受](https://www.ershicimi.com/p/92df06afc91b976c1f00d0fd120f9af6)  
+- [2020-05-31-前端常用的60余种工具方法](https://www.ershicimi.com/p/c53fa67e2b71fcf1333f860f71e00bbf)  
+- [2020-05-30-你值得拥有的-UI-调试技巧](https://www.ershicimi.com/p/82e994e4efe1014b3f845b411600c58b)  
 - [2020-05-29-是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/b3b5e5fd453bfbd05d914af154bd502f)  
 - [2020-05-28-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4)  
 - [2020-05-28-2020年5月程序员工资统计，平均14542元](https://www.ershicimi.com/p/7c05ee49a0978993cd705d2303524f9c)  
@@ -945,26 +945,26 @@
 </summary>
 
 
-- [2020-06-01-上海，蚂蚁金服，-Java-研发方向-P7P8](https://www.v2ex.com/t/677419) ![](assets/new.png)  
-- [2020-06-01-想找一份图形渲染-引擎开发-技术美术方面的远程工作](https://www.v2ex.com/t/677418) ![](assets/new.png)  
-- [2020-06-01-CML-Chameleon-周报-2020''-|-5.25---5.29](https://www.v2ex.com/t/677415) ![](assets/new.png)  
-- [2020-06-01-Firefox-不经确认就开始下载的问题…](https://www.v2ex.com/t/677414) ![](assets/new.png)  
-- [2020-06-01-副业月入-4-万实战分享！](https://www.v2ex.com/t/677413) ![](assets/new.png)  
-- [2020-06-01-安卓系统登陆的各个-app-账户为什么会被系统统一管理而且还能同步联系人](https://www.v2ex.com/t/677412) ![](assets/new.png)  
-- [2020-06-01-访问国外资源哪个手机流量卡比较好？](https://www.v2ex.com/t/677410) ![](assets/new.png)  
-- [2020-06-01-今年京东有什么值得入手的商品吗？](https://www.v2ex.com/t/677409) ![](assets/new.png)  
-- [2020-06-01-被明示自己提离职走人，无良企业裁员想不给赔偿，我该准备什么](https://www.v2ex.com/t/677407) ![](assets/new.png)  
-- [2020-06-01-安卓开发者用了-极光推送-SDK-的看过来](https://www.v2ex.com/t/677406) ![](assets/new.png)  
-- [2020-06-01-现在豆瓣上没有开放的-API-了吗？](https://www.v2ex.com/t/677405) ![](assets/new.png)  
-- [2020-06-01-新手装机求助，需要几个机箱风扇？](https://www.v2ex.com/t/677404) ![](assets/new.png)  
-- [2020-06-01-淘宝-618-活动，开火车的。auto.js-自动](https://www.v2ex.com/t/677403) ![](assets/new.png)  
-- [2020-06-01-简历，请各位大佬帮忙提点润色下，多谢](https://www.v2ex.com/t/677401) ![](assets/new.png)  
-- [2020-06-01-系统设计面试如何设计异步的-request-处理系统，每过-K-秒或者每积攒-K-个-request-时要对-requests-做处...](https://www.v2ex.com/t/677400) ![](assets/new.png)  
-- [2020-06-01-iPhone-X-第三方维修换了个所谓的原装屏，但是晚上用另外一个手机拍，出现水波纹，是不是被忽悠了？](https://www.v2ex.com/t/677398) ![](assets/new.png)  
-- [2020-06-01-找工作现在的行情到底肿么样呀？没工作的我，现在慌的一批](https://www.v2ex.com/t/677397) ![](assets/new.png)  
-- [2020-06-01-不更新微信的情况下，有没有办法使用新版的小程序？](https://www.v2ex.com/t/677394) ![](assets/new.png)  
-- [2020-06-01-祝大家儿童节快乐，童心永存！](https://www.v2ex.com/t/677393) ![](assets/new.png)  
-- [2020-06-01-迫于-618，-96-收-5k-京东卡，走闲鱼](https://www.v2ex.com/t/677391) ![](assets/new.png)  
+- [2020-06-01-上海，蚂蚁金服，-Java-研发方向-P7P8](https://www.v2ex.com/t/677419)  
+- [2020-06-01-想找一份图形渲染-引擎开发-技术美术方面的远程工作](https://www.v2ex.com/t/677418)  
+- [2020-06-01-CML-Chameleon-周报-2020''-|-5.25---5.29](https://www.v2ex.com/t/677415)  
+- [2020-06-01-Firefox-不经确认就开始下载的问题…](https://www.v2ex.com/t/677414)  
+- [2020-06-01-副业月入-4-万实战分享！](https://www.v2ex.com/t/677413)  
+- [2020-06-01-安卓系统登陆的各个-app-账户为什么会被系统统一管理而且还能同步联系人](https://www.v2ex.com/t/677412)  
+- [2020-06-01-访问国外资源哪个手机流量卡比较好？](https://www.v2ex.com/t/677410)  
+- [2020-06-01-今年京东有什么值得入手的商品吗？](https://www.v2ex.com/t/677409)  
+- [2020-06-01-被明示自己提离职走人，无良企业裁员想不给赔偿，我该准备什么](https://www.v2ex.com/t/677407)  
+- [2020-06-01-安卓开发者用了-极光推送-SDK-的看过来](https://www.v2ex.com/t/677406)  
+- [2020-06-01-现在豆瓣上没有开放的-API-了吗？](https://www.v2ex.com/t/677405)  
+- [2020-06-01-新手装机求助，需要几个机箱风扇？](https://www.v2ex.com/t/677404)  
+- [2020-06-01-淘宝-618-活动，开火车的。auto.js-自动](https://www.v2ex.com/t/677403)  
+- [2020-06-01-简历，请各位大佬帮忙提点润色下，多谢](https://www.v2ex.com/t/677401)  
+- [2020-06-01-系统设计面试如何设计异步的-request-处理系统，每过-K-秒或者每积攒-K-个-request-时要对-requests-做处...](https://www.v2ex.com/t/677400)  
+- [2020-06-01-iPhone-X-第三方维修换了个所谓的原装屏，但是晚上用另外一个手机拍，出现水波纹，是不是被忽悠了？](https://www.v2ex.com/t/677398)  
+- [2020-06-01-找工作现在的行情到底肿么样呀？没工作的我，现在慌的一批](https://www.v2ex.com/t/677397)  
+- [2020-06-01-不更新微信的情况下，有没有办法使用新版的小程序？](https://www.v2ex.com/t/677394)  
+- [2020-06-01-祝大家儿童节快乐，童心永存！](https://www.v2ex.com/t/677393)  
+- [2020-06-01-迫于-618，-96-收-5k-京东卡，走闲鱼](https://www.v2ex.com/t/677391)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1007,6 +1007,7 @@
 </summary>
 
 
+- [2020-06-01-推荐-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee) ![](assets/new.png)  
 - [2020-06-01-了不起的-Deno-实战教程](https://toutiao.io/k/ghx3c1n)  
 - [2020-06-01-数据挖掘实操：用文本挖掘剖析近-5-万首《全唐诗》](https://toutiao.io/k/ba0iioh)  
 - [2020-06-01-一进制存在吗？为什么？](https://toutiao.io/k/7mpj1ky)  
@@ -1026,7 +1027,6 @@
 - [2020-06-01-Order-by-优化](https://toutiao.io/k/3ppxe3c)  
 - [2020-06-01-Nacos-源码分析（二）：获取配置流程](https://toutiao.io/k/bpbwpp6)  
 - [2020-06-01-深度解读-Flink-1.11：流批一体-Hive-数仓](https://toutiao.io/k/u0gwszz)  
-- [2020-06-01-推荐-架构设计：接口幂等性原则，防重复提交-Token-管理](https://toutiao.io/k/445816s)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

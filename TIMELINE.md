@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-01 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -231,6 +231,7 @@
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-01-推荐-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee) 
 - [【开发者头条】2020-06-01-了不起的-Deno-实战教程](https://toutiao.io/k/ghx3c1n) 
 - [【开发者头条】2020-06-01-数据挖掘实操：用文本挖掘剖析近-5-万首《全唐诗》](https://toutiao.io/k/ba0iioh) 
 - [【开发者头条】2020-06-01-一进制存在吗？为什么？](https://toutiao.io/k/7mpj1ky) 

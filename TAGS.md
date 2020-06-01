@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 01:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 03:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -438,6 +438,7 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
+- [【奇舞周刊】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/c25ed8437e6857fcd834baef439bc72b)
 - [【互联网架构师】不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)
 - [【掘金前端】如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
@@ -446,7 +447,6 @@
 - [【V2EX】有没有可能，通过一个性能比较好的防火墙和自签的证书，实现广告过滤等功能](https://www.v2ex.com/t/676651)
 - [【V2EX】不解就问：台式机性能过剩可以用来干啥？](https://www.v2ex.com/t/676548)
 - [【开发者头条】推荐-面试官：不会看-Explain-执行计划，简历敢写-SQL-优化？](https://toutiao.io/k/ui57ja5)
-- [【开发者头条】面试三轮我倒在了一道-SQL-题上：SQL-性能优化](https://toutiao.io/k/olunz8i)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

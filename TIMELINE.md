@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 03:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -157,6 +157,7 @@
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
 - [【程序员成长指北】2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
+- [【奇舞周刊】2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
@@ -190,6 +191,11 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-02-根据文件名分组合并文件-Java-，新手，希望大神给个提醒](https://www.v2ex.com/t/677674) 
+- [【V2EX】2020-06-02-有没有喜欢叔本华的？](https://www.v2ex.com/t/677672) 
+- [【V2EX】2020-06-02-这应该是在看爱奇艺吧。](https://www.v2ex.com/t/677671) 
+- [【V2EX】2020-06-02-问一个问题，话说在华为上过班的话，去外企，他们介意吗？](https://www.v2ex.com/t/677670) 
+- [【V2EX】2020-06-02-广州瀚智-ERP-软件服务商，实施的怎么样？](https://www.v2ex.com/t/677669) 
 - [【V2EX】2020-06-02-今天在-zfb-充话费发现到账居然不是面值](https://www.v2ex.com/t/677668) 
 - [【V2EX】2020-06-02-修改开源软件引用-jar-包版本是否受开源协议约束？](https://www.v2ex.com/t/677666) 
 - [【V2EX】2020-06-02-apnic-的-asn-可以在国内广播吗？](https://www.v2ex.com/t/677665) 
@@ -829,6 +835,8 @@
 - [【凹凸实验室】2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
 - [【凹凸实验室】2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
 - [【凹凸实验室】2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) 
+- [【奇舞周刊】2020-05-30-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/c25ed8437e6857fcd834baef439bc72b) 
+- [【奇舞周刊】2020-05-29-奇舞周刊第-351-期：面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/449035f2b0a36e75ba68b4f78e61d7da) 
 - [【奇舞周刊】2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0) 
 - [【奇舞周刊】2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [【奇舞周刊】2020-05-25-React源码揭秘三：Diff算法详解](https://www.ershicimi.com/p/c452b8749f4d5fc93e770e60850d6b86) 

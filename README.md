@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 01:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 03:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -676,6 +676,9 @@
 </summary>
 
 
+- [2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) ![](assets/new.png)  
+- [2020-05-30-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/c25ed8437e6857fcd834baef439bc72b) ![](assets/new.png)  
+- [2020-05-29-奇舞周刊第-351-期：面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/449035f2b0a36e75ba68b4f78e61d7da) ![](assets/new.png)  
 - [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0)  
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539)  
 - [2020-05-25-React源码揭秘三：Diff算法详解](https://www.ershicimi.com/p/c452b8749f4d5fc93e770e60850d6b86)  
@@ -954,14 +957,19 @@
 </summary>
 
 
-- [2020-06-02-今天在-zfb-充话费发现到账居然不是面值](https://www.v2ex.com/t/677668) ![](assets/new.png)  
-- [2020-06-02-修改开源软件引用-jar-包版本是否受开源协议约束？](https://www.v2ex.com/t/677666) ![](assets/new.png)  
-- [2020-06-02-apnic-的-asn-可以在国内广播吗？](https://www.v2ex.com/t/677665) ![](assets/new.png)  
-- [2020-06-02-一年经验的-Android-开发应该具备怎样的水平？](https://www.v2ex.com/t/677664) ![](assets/new.png)  
-- [2020-06-02-我给自己的小程序设计了分享海报，发出来请大家点评，希望可以多提点意见。](https://www.v2ex.com/t/677662) ![](assets/new.png)  
-- [2020-06-02-关于云服务器和-vs-code-的-remote-ssh-以及-angular-或者是-ember，想请教一下有经验的大佬](https://www.v2ex.com/t/677660) ![](assets/new.png)  
-- [2020-06-02-判断各厂移动浏览器、PC-浏览器请求头-User-Agent-比较靠谱的方式是什么？](https://www.v2ex.com/t/677659) ![](assets/new.png)  
-- [2020-06-02-Ping-IP-可以连通，-Ping-域名无法连通，可能是什么原因导致的？](https://www.v2ex.com/t/677658) ![](assets/new.png)  
+- [2020-06-02-根据文件名分组合并文件-Java-，新手，希望大神给个提醒](https://www.v2ex.com/t/677674) ![](assets/new.png)  
+- [2020-06-02-有没有喜欢叔本华的？](https://www.v2ex.com/t/677672) ![](assets/new.png)  
+- [2020-06-02-这应该是在看爱奇艺吧。](https://www.v2ex.com/t/677671) ![](assets/new.png)  
+- [2020-06-02-问一个问题，话说在华为上过班的话，去外企，他们介意吗？](https://www.v2ex.com/t/677670) ![](assets/new.png)  
+- [2020-06-02-广州瀚智-ERP-软件服务商，实施的怎么样？](https://www.v2ex.com/t/677669) ![](assets/new.png)  
+- [2020-06-02-今天在-zfb-充话费发现到账居然不是面值](https://www.v2ex.com/t/677668)  
+- [2020-06-02-修改开源软件引用-jar-包版本是否受开源协议约束？](https://www.v2ex.com/t/677666)  
+- [2020-06-02-apnic-的-asn-可以在国内广播吗？](https://www.v2ex.com/t/677665)  
+- [2020-06-02-一年经验的-Android-开发应该具备怎样的水平？](https://www.v2ex.com/t/677664)  
+- [2020-06-02-我给自己的小程序设计了分享海报，发出来请大家点评，希望可以多提点意见。](https://www.v2ex.com/t/677662)  
+- [2020-06-02-关于云服务器和-vs-code-的-remote-ssh-以及-angular-或者是-ember，想请教一下有经验的大佬](https://www.v2ex.com/t/677660)  
+- [2020-06-02-判断各厂移动浏览器、PC-浏览器请求头-User-Agent-比较靠谱的方式是什么？](https://www.v2ex.com/t/677659)  
+- [2020-06-02-Ping-IP-可以连通，-Ping-域名无法连通，可能是什么原因导致的？](https://www.v2ex.com/t/677658)  
 - [2020-06-01-刚刚发现微博昵称不能为-0x7fffffff，提示错误信息“昵称为全数字”](https://www.v2ex.com/t/677656)  
 - [2020-06-01-浙江移动是不是又抽风了，最近百度都上不去](https://www.v2ex.com/t/677655)  
 - [2020-06-01-LEDE-路由器问题](https://www.v2ex.com/t/677654)  
@@ -969,11 +977,6 @@
 - [2020-06-01-小米手机也开始推-618-广告了！？](https://www.v2ex.com/t/677652)  
 - [2020-06-01-从安卓转移到-iPhone-的最佳方式是什么？](https://www.v2ex.com/t/677651)  
 - [2020-06-01-求分享下杀死蟑螂的方法？](https://www.v2ex.com/t/677650)  
-- [2020-06-01-有什么方法可以确认-pip-uninstall-xxx-是安全的，不会破坏现有的项目及环境-venv？](https://www.v2ex.com/t/677649)  
-- [2020-06-01-免费的图床站点是如何盈利的或者是用爱发电?](https://www.v2ex.com/t/677648)  
-- [2020-06-01-随航（Sidecar）Apple-Pencil-能否模拟鼠标右键？](https://www.v2ex.com/t/677647)  
-- [2020-06-01-你要找的个人数据云盘](https://www.v2ex.com/t/677646)  
-- [2020-06-01-字节跳动飞书社招内推专场-六大城市！海量岗位！极速面试！有问必答！](https://www.v2ex.com/t/677645)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

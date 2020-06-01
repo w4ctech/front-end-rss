@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 07:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1874,6 +1874,11 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-02-如何在选择一门编程语言后，进行深入造化？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13492&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9cmNqXpksMVtx7zIaRZztA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-02-7-款-Python-开源框架的优劣总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13491&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1z3zuIwwaf6SFYEPym5dFA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-02-网络常见的-9-大命令，非常实用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13490&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_B0kcnGUzqUdT0b5lmdhsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

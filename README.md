@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 07:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 07:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -957,9 +957,9 @@
 </summary>
 
 
-- [2020-06-02-如何很好的提升英语能力呢？](https://www.v2ex.com/t/677677) ![](assets/new.png)  
-- [2020-06-02-请推荐一个超清带鱼屏](https://www.v2ex.com/t/677676) ![](assets/new.png)  
-- [2020-06-02-macOS-10.15.5-出了一个补充更新，大家醒来又可以更新了](https://www.v2ex.com/t/677675) ![](assets/new.png)  
+- [2020-06-02-如何很好的提升英语能力呢？](https://www.v2ex.com/t/677677)  
+- [2020-06-02-请推荐一个超清带鱼屏](https://www.v2ex.com/t/677676)  
+- [2020-06-02-macOS-10.15.5-出了一个补充更新，大家醒来又可以更新了](https://www.v2ex.com/t/677675)  
 - [2020-06-02-根据文件名分组合并文件-Java-，新手，希望大神给个提醒](https://www.v2ex.com/t/677674)  
 - [2020-06-02-有没有喜欢叔本华的？](https://www.v2ex.com/t/677672)  
 - [2020-06-02-这应该是在看爱奇艺吧。](https://www.v2ex.com/t/677671)  
@@ -988,6 +988,12 @@
 </summary>
 
 
+- [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-02-如何在选择一门编程语言后，进行深入造化？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13492&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9cmNqXpksMVtx7zIaRZztA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-02-7-款-Python-开源框架的优劣总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13491&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1z3zuIwwaf6SFYEPym5dFA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-02-网络常见的-9-大命令，非常实用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13490&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_B0kcnGUzqUdT0b5lmdhsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1002,12 +1008,6 @@
 - [2020-05-29-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-趁手利器，FSuper-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13477&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FZy4xiyHZA4jgbmOlv7fKrA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-Android-9.0-Launcher启动详解-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13475&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbpDQJKjyQz_nbuTzmdY-sA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-大神碉堡！99-行代码实现的神奇效果-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13474&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMo1D3vTUjNwd-7SVf7sYpw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-字节跳动-前端面经（4轮技术面+hr面）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13473&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQmC9zWMDisPHo6ZEvYJizg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-秒懂-区块链-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13472&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpAfJZtK6bww6lzNxty_qrw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-必学的-10-大顶级-Python-库！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13471&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FeqmAgZY6lNU2irSEKkWr_w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-频频被点名的“区块链”，到底是个啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13470&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCQ4h0GxACuGsagDDT76y5g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

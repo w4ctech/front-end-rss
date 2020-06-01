@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-01 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 13:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -442,9 +442,9 @@
 - [【V2EX】ES-集群优化，求大佬指点一下](https://www.v2ex.com/t/677050)
 - [【V2EX】有没有可能，通过一个性能比较好的防火墙和自签的证书，实现广告过滤等功能](https://www.v2ex.com/t/676651)
 - [【V2EX】不解就问：台式机性能过剩可以用来干啥？](https://www.v2ex.com/t/676548)
+- [【开发者头条】推荐-面试官：不会看-Explain-执行计划，简历敢写-SQL-优化？](https://toutiao.io/k/ui57ja5)
 - [【开发者头条】面试三轮我倒在了一道-SQL-题上：SQL-性能优化](https://toutiao.io/k/olunz8i)
 - [【开发者头条】Order-by-优化](https://toutiao.io/k/3ppxe3c)
-- [【开发者头条】Circle-Loss：从统一的相似性对的优化角度进行深度特征学习](https://toutiao.io/k/uuuuklw)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

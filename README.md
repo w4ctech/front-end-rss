@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 13:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1007,7 +1007,8 @@
 </summary>
 
 
-- [2020-06-01-推荐-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee) ![](assets/new.png)  
+- [2020-06-01-推荐-面试官：不会看-Explain-执行计划，简历敢写-SQL-优化？](https://toutiao.io/k/ui57ja5) ![](assets/new.png)  
+- [2020-06-01-推荐-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee)  
 - [2020-06-01-了不起的-Deno-实战教程](https://toutiao.io/k/ghx3c1n)  
 - [2020-06-01-数据挖掘实操：用文本挖掘剖析近-5-万首《全唐诗》](https://toutiao.io/k/ba0iioh)  
 - [2020-06-01-一进制存在吗？为什么？](https://toutiao.io/k/7mpj1ky)  
@@ -1026,7 +1027,6 @@
 - [2020-06-01-为什么阿里巴巴开发手册中强制要求接口返回值不允许使用枚举？](https://toutiao.io/k/fozem7p)  
 - [2020-06-01-Order-by-优化](https://toutiao.io/k/3ppxe3c)  
 - [2020-06-01-Nacos-源码分析（二）：获取配置流程](https://toutiao.io/k/bpbwpp6)  
-- [2020-06-01-深度解读-Flink-1.11：流批一体-Hive-数仓](https://toutiao.io/k/u0gwszz)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

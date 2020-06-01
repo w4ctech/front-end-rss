@@ -8617,6 +8617,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "官宣！阿里F(x) Team 正式成立啦~",
+        "link": "https://juejin.im/post/5ed507b3f265da77057e3499",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "动态刻度可视化组件实现",
+        "link": "https://juejin.im/post/5ed4f85bf265da770e1bca9d",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "GitHub 上周 JavaScript 趋势榜项目",
+        "link": "https://juejin.im/post/5ed4cc6d6fb9a047d070d35e",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Event Loop事件循环机制--图文并茂详解",
+        "link": "https://juejin.im/post/5ed4c5496fb9a047e70593bd",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Vue的class语法与常规语法对照表",
+        "link": "https://juejin.im/post/5ed4cfd86fb9a047ff1aafe5",
+        "date": "2020-06-01"
+      },
+      {
         "title": "js手写字符串的替换函数",
         "link": "https://juejin.im/post/5ed4cd76f265da76cb3bee2e",
         "date": "2020-06-01"

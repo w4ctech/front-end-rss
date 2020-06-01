@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 01:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -162,6 +162,11 @@
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-01-官宣！阿里Fx-Team-正式成立啦~](https://juejin.im/post/5ed507b3f265da77057e3499) 
+- [【掘金前端】2020-06-01-动态刻度可视化组件实现](https://juejin.im/post/5ed4f85bf265da770e1bca9d) 
+- [【掘金前端】2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e) 
+- [【掘金前端】2020-06-01-Event-Loop事件循环机制--图文并茂详解](https://juejin.im/post/5ed4c5496fb9a047e70593bd) 
+- [【掘金前端】2020-06-01-Vue的class语法与常规语法对照表](https://juejin.im/post/5ed4cfd86fb9a047ff1aafe5) 
 - [【掘金前端】2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e) 
 - [【掘金前端】2020-06-01-第九届前端早早聊大会-|-前端搞文档](https://www.huodongxing.com/go/tl9) 
 - [【掘金前端】2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c) 

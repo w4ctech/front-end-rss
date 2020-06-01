@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,9 @@
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
+- [2020-06-01-动态刻度可视化组件实现](https://juejin.im/post/5ed4f85bf265da770e1bca9d) 
+- [2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e) 
+- [2020-06-01-Event-Loop事件循环机制--图文并茂详解](https://juejin.im/post/5ed4c5496fb9a047e70593bd) 
 - [2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e) 
 - [2020-06-01-三步完成A+规范Promise，平均一行代码一句注释上](https://juejin.im/post/5ed4bba9f265da770678d5a9) 
 - [2020-06-01-高频面试题：JavaScript事件循环机制解析](https://juejin.im/post/5ed4c94ce51d4510a17894a1) 

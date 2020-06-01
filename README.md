@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 00:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 01:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,11 +46,11 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-01-华盛顿特区市长宣布开始为期两天宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1) ![](assets/new.png)  
-- [2020-06-01-6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-华盛顿特区市长宣布开始为期两天宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1)  
+- [2020-06-01-6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1)  
 - [2020-06-01-巴西里约热内卢将继续维持限制令,时间至少一周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1)  
 - [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过605万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1)  
 - [2020-06-01-沙特新增1881例新冠肺炎确诊病例，累计确诊87142例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRb7wJhkYSAaeYW1kqEhr200601&isfromapp=1)  
@@ -829,6 +829,11 @@
 </summary>
 
 
+- [2020-06-01-官宣！阿里Fx-Team-正式成立啦~](https://juejin.im/post/5ed507b3f265da77057e3499) ![](assets/new.png)  
+- [2020-06-01-动态刻度可视化组件实现](https://juejin.im/post/5ed4f85bf265da770e1bca9d) ![](assets/new.png)  
+- [2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e) ![](assets/new.png)  
+- [2020-06-01-Event-Loop事件循环机制--图文并茂详解](https://juejin.im/post/5ed4c5496fb9a047e70593bd) ![](assets/new.png)  
+- [2020-06-01-Vue的class语法与常规语法对照表](https://juejin.im/post/5ed4cfd86fb9a047ff1aafe5) ![](assets/new.png)  
 - [2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e)  
 - [2020-06-01-第九届前端早早聊大会-|-前端搞文档](https://www.huodongxing.com/go/tl9)  
 - [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c)  
@@ -844,11 +849,6 @@
 - [2020-06-01-从需求到开发实现1+2=3](https://juejin.im/post/5ed3b06851882543137362ba)  
 - [2020-06-01-Yiming君的VUE世界观](https://juejin.im/post/5ed3b7f0e51d4578732e714e)  
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475)  
-- [2020-06-01-安排函数防抖与节流](https://juejin.im/post/5ed46e4e51882543194ecc29)  
-- [2020-06-01-动态规划之截气球](https://juejin.im/post/5ed3b427e51d45789302a357)  
-- [2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677)  
-- [2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9)  
-- [2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -923,9 +923,9 @@
 </summary>
 
 
-- [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) ![](assets/new.png)  
-- [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) ![](assets/new.png)  
-- [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) ![](assets/new.png)  
+- [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57)  
+- [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542)  
+- [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870)  
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10)  
 - [2020-05-31-钟南山：经此一疫，你形成哪些健康的生活方式？你有哪些健身故事？-|-两会云问答](https://www.ershicimi.com/p/85a0ec41cf1fa44eb2ee0023d5e69a1f)  
 - [2020-05-31-张文宏问抗疫取得成效的原因，网友回答都提到了两个字-|-两会云问答](https://www.ershicimi.com/p/e413ee58461001ea27e7778896d7e19e)  

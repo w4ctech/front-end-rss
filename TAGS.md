@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-01 19:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 21:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -405,11 +405,11 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】快手内推-直播-iOS-客户端](https://www.v2ex.com/t/677604)
 - [【V2EX】CSDN-学院视频怎么下载](https://www.v2ex.com/t/677595)
 - [【V2EX】6.1-活动特价-腾讯视频会员年费-99-元，官网活动](https://www.v2ex.com/t/677370)
 - [【V2EX】腾讯云阿里云选哪个？做一个视频网站需要什么样配置的服务器？](https://www.v2ex.com/t/677323)
 - [【V2EX】如何加速网络视频学习](https://www.v2ex.com/t/677205)
-- [【V2EX】求助，熊猫-TV-关闭后，还能找到之前的直播数据吗](https://www.v2ex.com/t/677191)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

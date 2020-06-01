@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 19:30:20，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 21:00:20，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -829,11 +829,11 @@
 </summary>
 
 
-- [2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e) ![](assets/new.png)  
-- [2020-06-01-第九届前端早早聊大会-|-前端搞文档](https://www.huodongxing.com/go/tl9) ![](assets/new.png)  
-- [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c) ![](assets/new.png)  
-- [2020-06-01-三步完成A+规范Promise，平均一行代码一句注释上](https://juejin.im/post/5ed4bba9f265da770678d5a9) ![](assets/new.png)  
-- [2020-06-01-高频面试题：JavaScript事件循环机制解析](https://juejin.im/post/5ed4c94ce51d4510a17894a1) ![](assets/new.png)  
+- [2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e)  
+- [2020-06-01-第九届前端早早聊大会-|-前端搞文档](https://www.huodongxing.com/go/tl9)  
+- [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c)  
+- [2020-06-01-三步完成A+规范Promise，平均一行代码一句注释上](https://juejin.im/post/5ed4bba9f265da770678d5a9)  
+- [2020-06-01-高频面试题：JavaScript事件循环机制解析](https://juejin.im/post/5ed4c94ce51d4510a17894a1)  
 - [2020-06-01-【深度揭秘】你不知道的-JS-强制类型转换知识](https://juejin.im/post/5ed4bbe0e51d45787161aa16)  
 - [2020-06-01-关于promise的一些总结](https://juejin.im/post/5ed49ab4f265da770678d536)  
 - [2020-06-01-简易版MyRouter的实现](https://juejin.im/post/5ed49539e51d45785a7cb679)  
@@ -954,26 +954,26 @@
 </summary>
 
 
-- [2020-06-01-hyperV-如何设置网卡不会每次开机都变更-IP-?](https://www.v2ex.com/t/677596) ![](assets/new.png)  
-- [2020-06-01-CSDN-学院视频怎么下载](https://www.v2ex.com/t/677595) ![](assets/new.png)  
-- [2020-06-01-家有两条移动千兆宽带怎么叠加组网](https://www.v2ex.com/t/677594) ![](assets/new.png)  
-- [2020-06-01-2020-年，可以学什么新东西为未来做准备](https://www.v2ex.com/t/677593) ![](assets/new.png)  
-- [2020-06-01-Android-app-打开顺序？](https://www.v2ex.com/t/677591) ![](assets/new.png)  
-- [2020-06-01-求推荐-完美兼容-2015-款-mbp13-的第三方固态](https://www.v2ex.com/t/677589) ![](assets/new.png)  
-- [2020-06-01-IQOO-Z1-和-iPhone-se-不知道怎么选？](https://www.v2ex.com/t/677588) ![](assets/new.png)  
-- [2020-06-01-4K-显示器-确实-比-2K-的舒服](https://www.v2ex.com/t/677587) ![](assets/new.png)  
-- [2020-06-01-劫持导致浏览器将搜索词识别为网址](https://www.v2ex.com/t/677586) ![](assets/new.png)  
-- [2020-06-01-如何入职阿里后端开发岗—面试高频考点-HashMap-实战解析](https://www.v2ex.com/t/677585) ![](assets/new.png)  
-- [2020-06-01-macos-10.15.5-idea-2019.3.2-睡眠崩溃](https://www.v2ex.com/t/677583) ![](assets/new.png)  
-- [2020-06-01-推荐-内有优惠-极客时间上新好课《编译原理实战课》](https://www.v2ex.com/t/677582) ![](assets/new.png)  
-- [2020-06-01-有没有大佬可以指导一下论坛的回帖提醒怎么做？](https://www.v2ex.com/t/677580) ![](assets/new.png)  
-- [2020-06-01-AMD-跑深度学习](https://www.v2ex.com/t/677579) ![](assets/new.png)  
-- [2020-06-01-求推荐下实用的原型界面设计工具](https://www.v2ex.com/t/677578) ![](assets/new.png)  
-- [2020-06-01-求教公积金提取额度政策](https://www.v2ex.com/t/677577) ![](assets/new.png)  
-- [2020-06-01-大家上级分配任务是一天分配多次（干完就分配），还是一天分配一次](https://www.v2ex.com/t/677576) ![](assets/new.png)  
-- [2020-06-01-IOS-捷径/快捷指令/Workflow-终极扫盲](https://www.v2ex.com/t/677575) ![](assets/new.png)  
-- [2020-06-01-国外网站中的-disqus-评论大家是怎么用-Google-翻译的](https://www.v2ex.com/t/677574) ![](assets/new.png)  
-- [2020-06-01-又看到了副业月入-XX-的帖子，我想问下有人还记得-James-吗？](https://www.v2ex.com/t/677573) ![](assets/new.png)  
+- [2020-06-01-求助-iPad-air-3-屏幕一直保持亮着的状态，不会自动熄灭](https://www.v2ex.com/t/677616) ![](assets/new.png)  
+- [2020-06-01-树莓派-4b-读写指示灯损坏。](https://www.v2ex.com/t/677615) ![](assets/new.png)  
+- [2020-06-01-某耀智慧屏-55-寸已到货](https://www.v2ex.com/t/677614) ![](assets/new.png)  
+- [2020-06-01-拼多多火热内推-Base-上海，大量-HC，内推-前端、-Java-、产品岗位](https://www.v2ex.com/t/677613) ![](assets/new.png)  
+- [2020-06-01-第四期德国-IT-岗位招聘之-IT-Administrators-三连](https://www.v2ex.com/t/677612) ![](assets/new.png)  
+- [2020-06-01-后台管理系统导出数据拖死业务,-是否应该彻底分开两块系统?](https://www.v2ex.com/t/677609) ![](assets/new.png)  
+- [2020-06-01-让设计展示稿更清晰——给需要制作设计展示稿的入门设计师的建议](https://www.v2ex.com/t/677608) ![](assets/new.png)  
+- [2020-06-01-有大佬可以帮我解决一下-thymeleaf-的问题吗？](https://www.v2ex.com/t/677607) ![](assets/new.png)  
+- [2020-06-01-有通过标签管理代码的开发软件么？](https://www.v2ex.com/t/677606) ![](assets/new.png)  
+- [2020-06-01-快手内推-直播-iOS-客户端](https://www.v2ex.com/t/677604) ![](assets/new.png)  
+- [2020-06-01-PipeHub-|-做了一个微信消息推送平台-求试用](https://www.v2ex.com/t/677602) ![](assets/new.png)  
+- [2020-06-01-这个-json-怎么能解密？](https://www.v2ex.com/t/677601) ![](assets/new.png)  
+- [2020-06-01-有在深圳的朋友没，我想问问深圳雷漫网络科技有限公司，有熟悉的吗](https://www.v2ex.com/t/677600) ![](assets/new.png)  
+- [2020-06-01-有培训机构需要-AI-教学系统的吗？](https://www.v2ex.com/t/677599) ![](assets/new.png)  
+- [2020-06-01-macOS-升级到-10.15.5-19F96-后，发现显示器的亮度调节有时候会失效](https://www.v2ex.com/t/677597) ![](assets/new.png)  
+- [2020-06-01-hyperV-如何设置网卡不会每次开机都变更-IP-?](https://www.v2ex.com/t/677596)  
+- [2020-06-01-CSDN-学院视频怎么下载](https://www.v2ex.com/t/677595)  
+- [2020-06-01-家有两条移动千兆宽带怎么叠加组网](https://www.v2ex.com/t/677594)  
+- [2020-06-01-2020-年，可以学什么新东西为未来做准备](https://www.v2ex.com/t/677593)  
+- [2020-06-01-Android-app-打开顺序？](https://www.v2ex.com/t/677591)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -985,7 +985,7 @@
 </summary>
 
 
-- [2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-以深度学习为例理解22种设计模式（一）创建型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

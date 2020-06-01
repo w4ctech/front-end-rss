@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-01 21:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-01 22:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-01-沙特新增1881例新冠肺炎确诊病例，累计确诊87142例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRb7wJhkYSAaeYW1kqEhr200601&isfromapp=1) ![](assets/new.png)  
+- [2020-06-01-中国抗疫医疗专家组总结与刚果（布）合作抗疫成果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15JDYSeRzfi3xhipyo5x200601&isfromapp=1) ![](assets/new.png)  
 - [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过601万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieEvvNZDb3EHZcJNpUgsQ200601&isfromapp=1)  
 - [2020-06-01-香港新增3例新冠肺炎确诊病例，累计确诊1087例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2H2gZD1pri63xK8YIoXq200601&isfromapp=1)  
 - [2020-06-01-上海现有最后1例本地确诊病例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHv7FSKfWrjVbiJ97OWn200601&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-05-31-以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1)  
 - [2020-05-31-张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1)  
 - [2020-05-31-俄罗斯新冠肺炎确诊病例超过40万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1)  
-- [2020-05-31-英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1)  
-- [2020-05-31-5月份中国非制造业商务活动指数为53.6%，回升力度有所增强](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -954,12 +954,12 @@
 </summary>
 
 
-- [2020-06-01-node:7804-UnhandledPromiseRejectionWarning:-Error:-connect-ETIMEDOUT](https://www.v2ex.com/t/677622) ![](assets/new.png)  
-- [2020-06-01-selinux-问题](https://www.v2ex.com/t/677621) ![](assets/new.png)  
-- [2020-06-01-问一下各大影视-app-电视版的码率](https://www.v2ex.com/t/677620) ![](assets/new.png)  
-- [2020-06-01-微信小程序开发工具的深色主题叫什么名字?](https://www.v2ex.com/t/677619) ![](assets/new.png)  
-- [2020-06-01-offer-请教](https://www.v2ex.com/t/677618) ![](assets/new.png)  
-- [2020-06-01-🔥-618！免费抽奖！软购商城-Internet-Download-Manager-IDM-一年版！*20-份！新的一个月，抽一把，看看...](https://www.v2ex.com/t/677617) ![](assets/new.png)  
+- [2020-06-01-node:7804-UnhandledPromiseRejectionWarning:-Error:-connect-ETIMEDOUT](https://www.v2ex.com/t/677622)  
+- [2020-06-01-selinux-问题](https://www.v2ex.com/t/677621)  
+- [2020-06-01-问一下各大影视-app-电视版的码率](https://www.v2ex.com/t/677620)  
+- [2020-06-01-微信小程序开发工具的深色主题叫什么名字?](https://www.v2ex.com/t/677619)  
+- [2020-06-01-offer-请教](https://www.v2ex.com/t/677618)  
+- [2020-06-01-🔥-618！免费抽奖！软购商城-Internet-Download-Manager-IDM-一年版！*20-份！新的一个月，抽一把，看看...](https://www.v2ex.com/t/677617)  
 - [2020-06-01-求助-iPad-air-3-屏幕一直保持亮着的状态，不会自动熄灭](https://www.v2ex.com/t/677616)  
 - [2020-06-01-树莓派-4b-读写指示灯损坏。](https://www.v2ex.com/t/677615)  
 - [2020-06-01-某耀智慧屏-55-寸已到货](https://www.v2ex.com/t/677614)  

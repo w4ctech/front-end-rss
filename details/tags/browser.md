@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -35,6 +35,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-01-劫持导致浏览器将搜索词识别为网址](https://www.v2ex.com/t/677586) 
+- [2020-06-01-Chrome83-禁了第三方-cookies-之后，淘宝开始疯狂抽风……](https://www.v2ex.com/t/677571) 
 - [2020-06-01-Chrome-访问个别网站连接已重置,其他浏览器正常](https://www.v2ex.com/t/677558) 
 - [2020-06-01-Java-的-JNDI-rmi-现在还有在被经常使用吗?-现在听到这些名词都是在安全漏洞上了...](https://www.v2ex.com/t/677549) 
 - [2020-06-01-有没有做手机消息推送的老哥，-getui.com-是病毒还是有某些国内厂商在用？](https://www.v2ex.com/t/677542) 

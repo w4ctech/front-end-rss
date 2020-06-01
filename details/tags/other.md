@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1097,6 +1097,7 @@
 - [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) 
 - [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) 
 - [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
+- [2020-05-30-前端常用60余种工具方法](https://www.ershicimi.com/p/d2ddc63cc8d1cd8a92453143c976740f) 
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
@@ -1705,6 +1706,10 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-01-了不起的-Deno-实战教程](https://toutiao.io/k/ghx3c1n) 
+- [2020-06-01-数据挖掘实操：用文本挖掘剖析近-5-万首《全唐诗》](https://toutiao.io/k/ba0iioh) 
+- [2020-06-01-一进制存在吗？为什么？](https://toutiao.io/k/7mpj1ky) 
+- [2020-06-01-C语言探索之旅：第一部分练习题](https://toutiao.io/k/cpn11f5) 
 - [2020-06-01-什么？终止一个容器竟然用了-10-秒钟，这不能忍](https://toutiao.io/k/vydmx9o) 
 - [2020-06-01-携程异地多活：MySQL-实时双向（多向）复制实践](https://toutiao.io/k/1w0utx4) 
 - [2020-06-01-Eureka-实例注册状态保持-STARTING-的问题排查](https://toutiao.io/k/1xilhe5) 

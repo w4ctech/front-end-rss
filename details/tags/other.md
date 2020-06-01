@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1053,6 +1053,9 @@
 - [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee) 
 - [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183) 
 - [2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec) 
+- [2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
+- [2020-05-31-前端常用60余种工具方法](https://www.ershicimi.com/p/1c49f3a14f9c68d9f5b187302976d387) 
+- [2020-05-29-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/952ad312291d1f8e8acefdbaa1efc317) 
 - [2020-05-24-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/743e58355264389fe5a998efae24590e) 
 - [2020-05-16-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/0329bb46458b6da90418beacc7814c29) 
 - [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c) 
@@ -1787,6 +1790,9 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-01-70-招助你提升用户转化率（上）](https://toutiao.io/k/jq5hx1s) 
+- [2020-06-01-Istio-1.6：迈向极简主义](https://toutiao.io/k/n0fv408) 
+- [2020-06-01-推荐-项目中如何实现-SQL-耗时监控？](https://toutiao.io/k/8bwt873) 
 - [2020-06-01-推荐-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/v9ayiee) 
 - [2020-06-01-了不起的-Deno-实战教程](https://toutiao.io/k/ghx3c1n) 
 - [2020-06-01-数据挖掘实操：用文本挖掘剖析近-5-万首《全唐诗》](https://toutiao.io/k/ba0iioh) 

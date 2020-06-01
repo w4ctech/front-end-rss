@@ -8077,6 +8077,21 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "程序员一大误区：盲目求追新技术，说的是你吗",
+        "link": "https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "前端常用60余种工具方法",
+        "link": "https://www.ershicimi.com/p/1c49f3a14f9c68d9f5b187302976d387",
+        "date": "2020-05-31"
+      },
+      {
+        "title": "裁了一个 3 年前端经验的人，给大家提提醒",
+        "link": "https://www.ershicimi.com/p/952ad312291d1f8e8acefdbaa1efc317",
+        "date": "2020-05-29"
+      },
+      {
         "title": "20 分钟前，我淘汰了一个前端高级工程师",
         "link": "https://www.ershicimi.com/p/743e58355264389fe5a998efae24590e",
         "date": "2020-05-24"
@@ -8531,6 +8546,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "【深度揭秘】你不知道的 JS 强制类型转换知识",
+        "link": "https://juejin.im/post/5ed4bbe0e51d45787161aa16",
+        "date": "2020-06-01"
+      },
       {
         "title": "关于promise的一些总结",
         "link": "https://juejin.im/post/5ed49ab4f265da770678d536",
@@ -12934,6 +12954,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "70 招助你提升用户转化率（上）",
+        "link": "https://toutiao.io/k/jq5hx1s",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "一篇有趣的负载均衡算法实现",
+        "link": "https://toutiao.io/k/ss2qs60",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "TensorFlow.js 微信小程序插件开始支持 WebAssembly",
+        "link": "https://toutiao.io/k/xmtgeru",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "Istio 1.6：迈向极简主义",
+        "link": "https://toutiao.io/k/n0fv408",
+        "date": "2020-06-01"
+      },
+      {
+        "title": "[推荐] 项目中如何实现 SQL 耗时监控？",
+        "link": "https://toutiao.io/k/8bwt873",
+        "date": "2020-06-01"
+      },
       {
         "title": "[推荐] 面试官：不会看 Explain 执行计划，简历敢写 SQL 优化？",
         "link": "https://toutiao.io/k/ui57ja5",

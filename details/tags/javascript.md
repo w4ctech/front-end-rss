@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-01 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-01 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -72,6 +72,7 @@
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
+- [2020-06-01-【深度揭秘】你不知道的-JS-强制类型转换知识](https://juejin.im/post/5ed4bbe0e51d45787161aa16) 
 - [2020-06-01-关于promise的一些总结](https://juejin.im/post/5ed49ab4f265da770678d536) 
 - [2020-06-01-用js实现css的文字两端对齐效果](https://juejin.im/post/5ed4b212e51d457859655ed6) 
 - [2020-06-01-安排函数防抖与节流](https://juejin.im/post/5ed46e4e51882543194ecc29) 

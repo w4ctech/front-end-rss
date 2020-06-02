@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 16:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 17:00:11，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,10 +94,10 @@
 </summary>
 
 
-- [2020-06-02-俄罗斯新增新冠肺炎确诊病例8863例-累计超42万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZPJniITh2FBEY3He9wF200602&isfromapp=1) ![](assets/new.png)  
-- [2020-06-02-国家卫健委：进一步加强学校传染病防控监督工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGFUgaiRfmJum0JqhLNY200602&isfromapp=1) ![](assets/new.png)  
-- [2020-06-02-日本北九州新冠肺炎疫情持续反弹，医院出现集体感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHtTTqnQiiZZEpjy0clGN200602&isfromapp=1) ![](assets/new.png)  
-- [2020-06-02-印度新增8171例新冠肺炎确诊病例，累计达198706例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioqXtWOaKjHxL8LPMWJB9200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-俄罗斯新增新冠肺炎确诊病例8863例-累计超42万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZPJniITh2FBEY3He9wF200602&isfromapp=1)  
+- [2020-06-02-国家卫健委：进一步加强学校传染病防控监督工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGFUgaiRfmJum0JqhLNY200602&isfromapp=1)  
+- [2020-06-02-日本北九州新冠肺炎疫情持续反弹，医院出现集体感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHtTTqnQiiZZEpjy0clGN200602&isfromapp=1)  
+- [2020-06-02-印度新增8171例新冠肺炎确诊病例，累计达198706例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioqXtWOaKjHxL8LPMWJB9200602&isfromapp=1)  
 - [2020-06-02-举报防疫措施不当-日本东京报警电话增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1)  
 - [2020-06-02-武汉中心医院感染新冠肺炎医生胡卫峰今晨去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1)  
 - [2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1)  
@@ -845,6 +845,11 @@
 </summary>
 
 
+- [2020-06-02-特殊不可见字符导致excel数据校验出错](https://juejin.im/post/5ed5fa756fb9a047e25d6828) ![](assets/new.png)  
+- [2020-06-02-我这废柴怎么可能逆袭的一生、第四天](https://juejin.im/post/5ed4bdc6e51d4578740f6892) ![](assets/new.png)  
+- [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) ![](assets/new.png)  
+- [2020-06-02-Vue项目中常用的一些第三方库](https://juejin.im/post/5ed60026f265da76b559ab7e) ![](assets/new.png)  
+- [2020-06-02-关于Vue-Loading-chunk-{n}-failed的一些思考](https://juejin.im/post/5ed600db518825430f54c806) ![](assets/new.png)  
 - [2020-06-02-你不知道的-Blob](https://juejin.im/post/5ed5d3fe518825430956c139)  
 - [2020-06-02-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://juejin.im/post/5ed5cbaef265da76d109ea3a)  
 - [2020-06-02-凉凉-腾讯前端实习-腾讯文档一面](https://juejin.im/post/5ed4faf56fb9a047d11273ff)  
@@ -860,11 +865,6 @@
 - [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c)  
 - [2020-06-01-三步完成A+规范Promise，平均一行代码一句注释上](https://juejin.im/post/5ed4bba9f265da770678d5a9)  
 - [2020-06-01-高频面试题：JavaScript事件循环机制解析](https://juejin.im/post/5ed4c94ce51d4510a17894a1)  
-- [2020-06-01-【深度揭秘】你不知道的-JS-强制类型转换知识](https://juejin.im/post/5ed4bbe0e51d45787161aa16)  
-- [2020-06-01-关于promise的一些总结](https://juejin.im/post/5ed49ab4f265da770678d536)  
-- [2020-06-01-简易版MyRouter的实现](https://juejin.im/post/5ed49539e51d45785a7cb679)  
-- [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8)  
-- [2020-06-01-用js实现css的文字两端对齐效果](https://juejin.im/post/5ed4b212e51d457859655ed6)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

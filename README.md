@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 22:00:15，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 23:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -244,11 +244,11 @@
 </summary>
 
 
-- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) ![](assets/new.png)  
-- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) ![](assets/new.png)  
-- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) ![](assets/new.png)  
-- [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) ![](assets/new.png)  
-- [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43) ![](assets/new.png)  
+- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e)  
+- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f)  
+- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06)  
+- [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e)  
+- [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43)  
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/0b5fc7c665853c8160097d340656ffd3)  
 - [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20)  
 - [2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f)  
@@ -942,6 +942,10 @@
 </summary>
 
 
+- [2020-06-02-还记得《庆余年》的超前点播吗？知乎用户把爱奇艺告了，赢了](https://www.ershicimi.com/p/f0eb973282b02f6213eb3b535123ae02) ![](assets/new.png)  
+- [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) ![](assets/new.png)  
+- [2020-06-02-含泪播种的人一定能含笑收获](https://www.ershicimi.com/p/461d69183f009225f38c8b6112d050ba) ![](assets/new.png)  
+- [2020-06-02-知乎故事-|-刚出生就被医院判死刑的婴儿值得倾家荡产去救吗？](https://www.ershicimi.com/p/a06a5eefba3d482a73ecac7e04f457d7) ![](assets/new.png)  
 - [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57)  
 - [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542)  
 - [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870)  
@@ -958,10 +962,6 @@
 - [2020-05-29-导演亲自答：怎样评价蓝兔与黑小虎的爱情？](https://www.ershicimi.com/p/b40b0b81cd842a5afec911cac9f7e388)  
 - [2020-05-29-年轻时当第三者的女人，最后都怎样了？](https://www.ershicimi.com/p/7ab1b05f2066f9e1a4e7e48b7a5a5eab)  
 - [2020-05-29-郎朗：实现梦想没有捷径，努力也是一种天赋-|-两会云问答](https://www.ershicimi.com/p/dd335da8139469e7655b7cdb08994aed)  
-- [2020-05-29-知乎故事-|-焦虑症患者被强制停药会怎样？](https://www.ershicimi.com/p/c6c2e348204caa6a5df9cc8f35af6914)  
-- [2020-05-28-8-个看似简单的心理学小技巧，学会了却能受益终生](https://www.ershicimi.com/p/5d4d8726f8a2fdf5d121c3c8de5d857f)  
-- [2020-05-28-知乎好问题：如何看待首个国产-HPV-疫苗获批上市，定价-329-元一支？](https://www.ershicimi.com/p/6ca5493dfc7aeb3ed006c97cc77aa74d)  
-- [2020-05-28-如何开启一段不尴尬的聊天？](https://www.ershicimi.com/p/74753e942af7ab587ddaf1b22db194f4)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

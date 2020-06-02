@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1217,6 +1217,8 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-03-nasa-外宣能让-20-万薪水-google/apple-工程师跳槽-spacex8-万做火箭，太厉害了](https://www.v2ex.com/t/678064) 
+- [2020-06-03-吐槽一下「提醒事项」Reminders](https://www.v2ex.com/t/678063) 
 - [2020-06-03-固态硬盘的提速的正确姿势是什么？](https://www.v2ex.com/t/678062) 
 - [2020-06-03-求问-Notion-Web-Clipper](https://www.v2ex.com/t/678060) 
 - [2020-06-03-上海“电商+社区”独角兽，-iOS-高资开发坑位](https://www.v2ex.com/t/678058) 

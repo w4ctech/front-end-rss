@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1906,6 +1906,7 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-如何在选择一门编程语言后，进行深入造化？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13492&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9cmNqXpksMVtx7zIaRZztA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -1930,6 +1931,7 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-02-后疫情时期，活下来了，但你还好吗？](https://toutiao.io/k/9guxfem) 
 - [2020-06-02-写代码不只是撸起袖子就干，还要有设计图](https://toutiao.io/k/1f3d6p2) 
 - [2020-06-02-深入浅出-Spring-MVC](https://toutiao.io/k/i0m6gog) 
 - [2020-06-02-Mockito：提高单元测试效率利器](https://toutiao.io/k/vr7l3uu) 

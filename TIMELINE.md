@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -173,6 +173,7 @@
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
 - [【程序员成长指北】2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
 - [【奇舞周刊】2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) 
+- [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
@@ -496,6 +497,7 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -505,6 +507,7 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-02-后疫情时期，活下来了，但你还好吗？](https://toutiao.io/k/9guxfem) 
 - [【开发者头条】2020-06-02-写代码不只是撸起袖子就干，还要有设计图](https://toutiao.io/k/1f3d6p2) 
 - [【开发者头条】2020-06-02-译-面向开发人员的-12-个最佳-GUI-Git-客户端](https://toutiao.io/k/4ljvin0) 
 - [【开发者头条】2020-06-02-深入浅出-Spring-MVC](https://toutiao.io/k/i0m6gog) 

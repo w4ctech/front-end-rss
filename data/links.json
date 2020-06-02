@@ -8242,6 +8242,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "小程序瀑布流组件:支持翻页与图片懒加载",
+        "link": "https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78",
+        "date": "2020-06-02"
+      },
+      {
         "title": "程序员一大误区：盲目求追新技术，说的是你吗",
         "link": "https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c",
         "date": "2020-06-01"
@@ -13808,6 +13813,11 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "分享一个新出炉的JVM里不痛不痒的BUG(Attach机制相关) (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-02"
+      },
+      {
         "title": "130 个相见恨晚的超实用网站，一次性分享出来 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-06-02"
@@ -13969,6 +13979,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "后疫情时期，活下来了，但你还好吗？",
+        "link": "https://toutiao.io/k/9guxfem",
+        "date": "2020-06-02"
+      },
       {
         "title": "写代码不只是撸起袖子就干，还要有设计图",
         "link": "https://toutiao.io/k/1f3d6p2",

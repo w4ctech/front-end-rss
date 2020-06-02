@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -29,6 +29,7 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-06-01-从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1) 
 - [2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [2020-06-02-react-手把手教你构建一个简单的ssr环境](https://juejin.im/post/5ed5f8d2f265da770d3dbd39) 
 - [2020-05-30-理解-redux-thunk-源码](https://juejin.im/post/5ed2435bf265da76be12a6a4) 
 - [2020-05-29-学习React哲学的一次实践](https://juejin.im/post/5ed0d0546fb9a047eb398787) 
 - [2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) 

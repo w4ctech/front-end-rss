@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 19:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 19:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -43,10 +43,10 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -216,9 +216,9 @@
 </summary>
 
 
-- [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9) ![](assets/new.png)  
-- [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767) ![](assets/new.png)  
-- [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da) ![](assets/new.png)  
+- [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)  
+- [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)  
+- [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da)  
 - [2020-06-01-【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f)  
 - [2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b)  
 - [2020-05-31-【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)  
@@ -761,6 +761,9 @@
 </summary>
 
 
+- [2020-06-02-2020年只有外包公司给面试机会，-Why?](https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416) ![](assets/new.png)  
+- [2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07) ![](assets/new.png)  
+- [2020-06-02-Java-最坑爹的-10-大功能点！](https://www.ershicimi.com/p/be78e00d276c789786c3f93ea760fd7b) ![](assets/new.png)  
 - [2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c)  
 - [2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4)  
 - [2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)  
@@ -778,9 +781,6 @@
 - [2020-05-28-阿里推荐的Redis使用规范，Redis就要这么用](https://www.ershicimi.com/p/6c8e869b9375087b584edeb08d331a61)  
 - [2020-05-27-Java-泛型背后的原理是什么？](https://www.ershicimi.com/p/73ba47cc4043d3789866a1d3e0278243)  
 - [2020-05-27-Spring-Boot-打的包为什么能直接运行？](https://www.ershicimi.com/p/e9116e12ce7985b5051a4ff712b30b3b)  
-- [2020-05-27-常用Maven插件终极大全，速度收藏！](https://www.ershicimi.com/p/2f3e566eb62f5b0d10a883714d3c4c95)  
-- [2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)  
-- [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -848,6 +848,11 @@
 </summary>
 
 
+- [2020-06-02-基于axios二次封装，适用vue项目](https://juejin.im/post/5ed6061c6fb9a0479e4d35b5) ![](assets/new.png)  
+- [2020-06-02-postcss-插件开发：批量自动化移动端1px解决方案](https://juejin.im/post/5ed61100e51d45783d0eaac8) ![](assets/new.png)  
+- [2020-06-02-重温JavaScript中内置Date属性](https://juejin.im/post/5ed231a0f265da76c01bd773) ![](assets/new.png)  
+- [2020-06-02-使用-Flutter-绘制图表（一）柱状图📊](https://juejin.im/post/5ed6195151882542eb3ee75b) ![](assets/new.png)  
+- [2020-06-02-react-手把手教你构建一个简单的ssr环境](https://juejin.im/post/5ed5f8d2f265da770d3dbd39) ![](assets/new.png)  
 - [2020-06-02-特殊不可见字符导致excel数据校验出错](https://juejin.im/post/5ed5fa756fb9a047e25d6828)  
 - [2020-06-02-我这废柴怎么可能逆袭的一生、第四天](https://juejin.im/post/5ed4bdc6e51d4578740f6892)  
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e)  
@@ -863,11 +868,6 @@
 - [2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e)  
 - [2020-06-01-Event-Loop事件循环机制--图文并茂详解](https://juejin.im/post/5ed4c5496fb9a047e70593bd)  
 - [2020-06-01-Vue的class语法与常规语法对照表](https://juejin.im/post/5ed4cfd86fb9a047ff1aafe5)  
-- [2020-06-01-js手写字符串的替换函数](https://juejin.im/post/5ed4cd76f265da76cb3bee2e)  
-- [2020-06-01-第九届前端早早聊大会-|-前端搞文档](https://www.huodongxing.com/go/tl9)  
-- [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c)  
-- [2020-06-01-三步完成A+规范Promise，平均一行代码一句注释上](https://juejin.im/post/5ed4bba9f265da770678d5a9)  
-- [2020-06-01-高频面试题：JavaScript事件循环机制解析](https://juejin.im/post/5ed4c94ce51d4510a17894a1)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

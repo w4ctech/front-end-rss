@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-四川新增2例新冠肺炎确诊病例-原为境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-世卫组织：部分国家解除封锁措施后出现病例增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigT3D3ZqjeZQFm2BSrcOx200602&isfromapp=1) 
@@ -195,6 +196,16 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-02-现在还有什么办法降到-10.3.3-吗](https://www.v2ex.com/t/677689) 
+- [【V2EX】2020-06-02-浏览器被劫持，导航站反复横跳？](https://www.v2ex.com/t/677688) 
+- [【V2EX】2020-06-02-v2ex-手机-google-账号登录时无法选择账号](https://www.v2ex.com/t/677687) 
+- [【V2EX】2020-06-02-路由器会坏吗？k2p](https://www.v2ex.com/t/677686) 
+- [【V2EX】2020-06-02-关于-SKU-多维选择算法的一些讨论](https://www.v2ex.com/t/677685) 
+- [【V2EX】2020-06-02-Tensorflow-有没有入门书籍推荐](https://www.v2ex.com/t/677684) 
+- [【V2EX】2020-06-02-Pay-八达通来了](https://www.v2ex.com/t/677683) 
+- [【V2EX】2020-06-02-想以程序员题材为主直播什么内容比较好？](https://www.v2ex.com/t/677682) 
+- [【V2EX】2020-06-02-岗位：腾讯-IEG-平台项目经理-坐标：重庆-，求答疑~](https://www.v2ex.com/t/677681) 
+- [【V2EX】2020-06-02-淘宝百亿补贴有-2749-的-se，需要抢券，不过评论说有配件被换](https://www.v2ex.com/t/677680) 
 - [【V2EX】2020-06-02-如何很好的提升英语能力呢？](https://www.v2ex.com/t/677677) 
 - [【V2EX】2020-06-02-请推荐一个超清带鱼屏](https://www.v2ex.com/t/677676) 
 - [【V2EX】2020-06-02-macOS-10.15.5-出了一个补充更新，大家醒来又可以更新了](https://www.v2ex.com/t/677675) 

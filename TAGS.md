@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 08:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -407,11 +407,11 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】想以程序员题材为主直播什么内容比较好？](https://www.v2ex.com/t/677682)
 - [【V2EX】快手内推-直播-iOS-客户端](https://www.v2ex.com/t/677604)
 - [【V2EX】CSDN-学院视频怎么下载](https://www.v2ex.com/t/677595)
 - [【V2EX】6.1-活动特价-腾讯视频会员年费-99-元，官网活动](https://www.v2ex.com/t/677370)
 - [【V2EX】腾讯云阿里云选哪个？做一个视频网站需要什么样配置的服务器？](https://www.v2ex.com/t/677323)
-- [【V2EX】如何加速网络视频学习](https://www.v2ex.com/t/677205)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -519,7 +519,7 @@
 - [【InfoQ】算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a)
 - [【JavaScript】这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)
 - [【掘金前端】前端面试：http专场，你需要懂的知识](https://juejin.im/post/5ed0d289e51d45783d0ea4b7)
-- [【V2EX】解决了古董-Android-手机在-Win10-下不能-fastboot-的问题](https://www.v2ex.com/t/677481)
+- [【V2EX】关于-SKU-多维选择算法的一些讨论](https://www.v2ex.com/t/677685)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

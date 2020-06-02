@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 08:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 09:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447) ![](assets/new.png)  
-- [2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046) ![](assets/new.png)  
-- [2020-06-02-世卫组织：部分国家解除封锁措施后出现病例增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigT3D3ZqjeZQFm2BSrcOx200602&isfromapp=1) ![](assets/new.png)  
-- [2020-06-02-世卫组织：新冠病毒变异不会导致传播能力变化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichsUlwQ1fJImlDkM5bqG200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-四川新增2例新冠肺炎确诊病例-原为境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447)  
+- [2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046)  
+- [2020-06-02-世卫组织：部分国家解除封锁措施后出现病例增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigT3D3ZqjeZQFm2BSrcOx200602&isfromapp=1)  
+- [2020-06-02-世卫组织：新冠病毒变异不会导致传播能力变化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichsUlwQ1fJImlDkM5bqG200602&isfromapp=1)  
 - [2020-06-01-华盛顿特区市长宣布开始为期两天宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1)  
 - [2020-06-01-6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1)  
 - [2020-06-01-巴西里约热内卢将继续维持限制令,时间至少一周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-01-巴西新冠肺炎累计确诊人数超51万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVwcZ2jz8mAfi4c9ygRDc200601&isfromapp=1)  
 - [2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1)  
 - [2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1)  
-- [2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -958,6 +958,16 @@
 </summary>
 
 
+- [2020-06-02-现在还有什么办法降到-10.3.3-吗](https://www.v2ex.com/t/677689) ![](assets/new.png)  
+- [2020-06-02-浏览器被劫持，导航站反复横跳？](https://www.v2ex.com/t/677688) ![](assets/new.png)  
+- [2020-06-02-v2ex-手机-google-账号登录时无法选择账号](https://www.v2ex.com/t/677687) ![](assets/new.png)  
+- [2020-06-02-路由器会坏吗？k2p](https://www.v2ex.com/t/677686) ![](assets/new.png)  
+- [2020-06-02-关于-SKU-多维选择算法的一些讨论](https://www.v2ex.com/t/677685) ![](assets/new.png)  
+- [2020-06-02-Tensorflow-有没有入门书籍推荐](https://www.v2ex.com/t/677684) ![](assets/new.png)  
+- [2020-06-02-Pay-八达通来了](https://www.v2ex.com/t/677683) ![](assets/new.png)  
+- [2020-06-02-想以程序员题材为主直播什么内容比较好？](https://www.v2ex.com/t/677682) ![](assets/new.png)  
+- [2020-06-02-岗位：腾讯-IEG-平台项目经理-坐标：重庆-，求答疑~](https://www.v2ex.com/t/677681) ![](assets/new.png)  
+- [2020-06-02-淘宝百亿补贴有-2749-的-se，需要抢券，不过评论说有配件被换](https://www.v2ex.com/t/677680) ![](assets/new.png)  
 - [2020-06-02-如何很好的提升英语能力呢？](https://www.v2ex.com/t/677677)  
 - [2020-06-02-请推荐一个超清带鱼屏](https://www.v2ex.com/t/677676)  
 - [2020-06-02-macOS-10.15.5-出了一个补充更新，大家醒来又可以更新了](https://www.v2ex.com/t/677675)  
@@ -968,16 +978,6 @@
 - [2020-06-02-广州瀚智-ERP-软件服务商，实施的怎么样？](https://www.v2ex.com/t/677669)  
 - [2020-06-02-今天在-zfb-充话费发现到账居然不是面值](https://www.v2ex.com/t/677668)  
 - [2020-06-02-修改开源软件引用-jar-包版本是否受开源协议约束？](https://www.v2ex.com/t/677666)  
-- [2020-06-02-apnic-的-asn-可以在国内广播吗？](https://www.v2ex.com/t/677665)  
-- [2020-06-02-一年经验的-Android-开发应该具备怎样的水平？](https://www.v2ex.com/t/677664)  
-- [2020-06-02-我给自己的小程序设计了分享海报，发出来请大家点评，希望可以多提点意见。](https://www.v2ex.com/t/677662)  
-- [2020-06-02-关于云服务器和-vs-code-的-remote-ssh-以及-angular-或者是-ember，想请教一下有经验的大佬](https://www.v2ex.com/t/677660)  
-- [2020-06-02-判断各厂移动浏览器、PC-浏览器请求头-User-Agent-比较靠谱的方式是什么？](https://www.v2ex.com/t/677659)  
-- [2020-06-02-Ping-IP-可以连通，-Ping-域名无法连通，可能是什么原因导致的？](https://www.v2ex.com/t/677658)  
-- [2020-06-01-刚刚发现微博昵称不能为-0x7fffffff，提示错误信息“昵称为全数字”](https://www.v2ex.com/t/677656)  
-- [2020-06-01-浙江移动是不是又抽风了，最近百度都上不去](https://www.v2ex.com/t/677655)  
-- [2020-06-01-LEDE-路由器问题](https://www.v2ex.com/t/677654)  
-- [2020-06-01-iPad-电量疑问](https://www.v2ex.com/t/677653)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

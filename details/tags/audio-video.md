@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -22,6 +22,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
+- [2020-06-02-想以程序员题材为主直播什么内容比较好？](https://www.v2ex.com/t/677682) 
 - [2020-06-01-快手内推-直播-iOS-客户端](https://www.v2ex.com/t/677604) 
 - [2020-06-01-CSDN-学院视频怎么下载](https://www.v2ex.com/t/677595) 
 - [2020-06-01-6.1-活动特价-腾讯视频会员年费-99-元，官网活动](https://www.v2ex.com/t/677370) 

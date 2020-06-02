@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 11:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 12:00:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-02-举报防疫措施不当-日本东京报警电话增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-武汉中心医院感染新冠肺炎医生胡卫峰今晨去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1) ![](assets/new.png)  
 - [2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1)  
 - [2020-06-02-四川新增2例新冠肺炎确诊病例-原为境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1)  
 - [2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447)  
@@ -112,8 +114,6 @@
 - [2020-06-01-截至5月31日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/408532.jhtml)  
 - [2020-06-01-北京40多万中小学生重返课堂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPkO85YX6LOYAHMDj5V9H200601&isfromapp=1)  
 - [2020-06-01-日本1至3月产业经常利益下降32%-为10年半以来最大跌幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1)  
-- [2020-06-01-巴西新冠肺炎累计确诊人数超51万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVwcZ2jz8mAfi4c9ygRDc200601&isfromapp=1)  
-- [2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -711,7 +711,7 @@
 </summary>
 
 
-- [2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) ![](assets/new.png)  
+- [2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78)  
 - [2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c)  
 - [2020-05-31-前端常用60余种工具方法](https://www.ershicimi.com/p/1c49f3a14f9c68d9f5b187302976d387)  
 - [2020-05-29-裁了一个-3-年前端经验的人，给大家提提醒](https://www.ershicimi.com/p/952ad312291d1f8e8acefdbaa1efc317)  
@@ -969,26 +969,26 @@
 </summary>
 
 
-- [2020-06-02-请问有在掌阅北京的大佬吗-这个公司加班情况怎么样](https://www.v2ex.com/t/677718)  
-- [2020-06-02-在线求救-apple-watch4-续航崩了，重启无效](https://www.v2ex.com/t/677716)  
-- [2020-06-02-Master2s-无法分段滚动](https://www.v2ex.com/t/677714)  
-- [2020-06-02-求大家帮忙想条路](https://www.v2ex.com/t/677713)  
-- [2020-06-02-去同仁验光-连瞳距都不给测](https://www.v2ex.com/t/677712)  
-- [2020-06-02-有大佬懂视频流-PS-流解析-h264-数据的过程吗](https://www.v2ex.com/t/677710)  
-- [2020-06-02-小弟最近接到一个任务，做一个需求变更管理的产品，请教大家有没有脑图之类的资料](https://www.v2ex.com/t/677709)  
-- [2020-06-02-太久没写-django，问询一个快捷键](https://www.v2ex.com/t/677708)  
-- [2020-06-02-乌鸫科技，阿里全资子公司，真海量-HC](https://www.v2ex.com/t/677707)  
-- [2020-06-02-深圳内推-明源云客-前端（任意框架）后端（-PHP-，-Go）双休-单周下午茶等优秀福利等你！](https://www.v2ex.com/t/677706)  
-- [2020-06-02-被爱奇艺恶心到了](https://www.v2ex.com/t/677705)  
-- [2020-06-02-2019-往届生-求大家帮忙指点一条路](https://www.v2ex.com/t/677703)  
-- [2020-06-02-Linux-主机在线文件管理工具](https://www.v2ex.com/t/677702)  
-- [2020-06-02-某猫-618-列车发车了](https://www.v2ex.com/t/677700)  
-- [2020-06-02-某宝某东上真的存在抢鞋抢限量的-bot-吗？](https://www.v2ex.com/t/677699)  
-- [2020-06-02-我喜欢苹果有一个原因你们绝对想不到](https://www.v2ex.com/t/677698)  
-- [2020-06-02-迫于电信误操作注销手机号，特来询问怎么维护自身权益索得赔偿](https://www.v2ex.com/t/677697)  
-- [2020-06-02-淘宝-618-赛车，快上车](https://www.v2ex.com/t/677696)  
-- [2020-06-02-支付宝的健康码页面是哪个沙雕产品设计的](https://www.v2ex.com/t/677695)  
-- [2020-06-02-win10-2004-版本的微软拼音输入法是不是不好用？](https://www.v2ex.com/t/677693)  
+- [2020-06-02-V-友们平时穿什么鞋啊，推荐一下。](https://www.v2ex.com/t/677793) ![](assets/new.png)  
+- [2020-06-02-做千万级数据处理的单机配置求助](https://www.v2ex.com/t/677792) ![](assets/new.png)  
+- [2020-06-02-请问各位图中情况是不是海关已经放行了呢？](https://www.v2ex.com/t/677791) ![](assets/new.png)  
+- [2020-06-02-求助-所有浏览器都访问不了-Google-系的网站了](https://www.v2ex.com/t/677790) ![](assets/new.png)  
+- [2020-06-02-让照片动起来的技术是？](https://www.v2ex.com/t/677789) ![](assets/new.png)  
+- [2020-06-02-请教一下-MediaCodec-解码视频流问题](https://www.v2ex.com/t/677785) ![](assets/new.png)  
+- [2020-06-02-在这能租到六道口的一居室吗？](https://www.v2ex.com/t/677784) ![](assets/new.png)  
+- [2020-06-02-现在去北京找工作，能找到出租的房子吗？](https://www.v2ex.com/t/677783) ![](assets/new.png)  
+- [2020-06-02-再分享一下自用的小工具-Bark-,给你的-iPhone-发自定义推送](https://www.v2ex.com/t/677782) ![](assets/new.png)  
+- [2020-06-02-上海-eBay-Hiring---拒绝-996!](https://www.v2ex.com/t/677781) ![](assets/new.png)  
+- [2020-06-02-求问各位大佬，饿了吗故意打错怎么领大额券](https://www.v2ex.com/t/677780) ![](assets/new.png)  
+- [2020-06-02-这以后要是不挂-dl，永远不能用-cloudflare-了吗-V2EX-以前还能正常访问，现在必须挂-dl](https://www.v2ex.com/t/677779) ![](assets/new.png)  
+- [2020-06-02-面试用-zoom，微信视频的，不怕候选者在线查么？？](https://www.v2ex.com/t/677777) ![](assets/new.png)  
+- [2020-06-02-用-Python-写一个-Fortran-->-Julia-的翻译器，求大神指点](https://www.v2ex.com/t/677776) ![](assets/new.png)  
+- [2020-06-02-外企-Coupang-上海招人啦](https://www.v2ex.com/t/677775) ![](assets/new.png)  
+- [2020-06-02-在用又拍云产品的请注意！又拍云推出原创技术征文活动，缺把-filco-键盘的把握住机会](https://www.v2ex.com/t/677774) ![](assets/new.png)  
+- [2020-06-02-给个建议，笔记本还是台式机](https://www.v2ex.com/t/677773) ![](assets/new.png)  
+- [2020-06-02-京造-k2-和-k6-怎么选，另外有没有人用过给个建议？](https://www.v2ex.com/t/677772) ![](assets/new.png)  
+- [2020-06-02-MAC-无故重启有遇到的么](https://www.v2ex.com/t/677771) ![](assets/new.png)  
+- [2020-06-02-大家用-iPad-看视频会觉得比较模糊吗？](https://www.v2ex.com/t/677770) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1000,7 +1000,7 @@
 </summary>
 
 
-- [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1031,7 +1031,7 @@
 </summary>
 
 
-- [2020-06-02-后疫情时期，活下来了，但你还好吗？](https://toutiao.io/k/9guxfem) ![](assets/new.png)  
+- [2020-06-02-后疫情时期，活下来了，但你还好吗？](https://toutiao.io/k/9guxfem)  
 - [2020-06-02-写代码不只是撸起袖子就干，还要有设计图](https://toutiao.io/k/1f3d6p2)  
 - [2020-06-02-译-面向开发人员的-12-个最佳-GUI-Git-客户端](https://toutiao.io/k/4ljvin0)  
 - [2020-06-02-深入浅出-Spring-MVC](https://toutiao.io/k/i0m6gog)  

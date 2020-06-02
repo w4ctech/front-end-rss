@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,9 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-02-捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1) 
+- [2020-06-02-巴西里约州州长：该州限制令将延期至6月5日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1) 
+- [2020-06-02-俄罗斯政府推出730亿美元经济复苏计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVanTPjIT9Eh19T1wGNhK200602&isfromapp=1) 
 - [2020-06-02-为防控疫情-阿联酋首都将实施人员流动限制禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimEvfRo2MtG2YYKApZDPs200602&isfromapp=1) 
 - [2020-06-02-国家卫健委：进一步加强学校传染病防控监督工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGFUgaiRfmJum0JqhLNY200602&isfromapp=1) 
 - [2020-06-02-举报防疫措施不当-日本东京报警电话增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 23:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 23:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-02-捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-巴西里约州州长：该州限制令将延期至6月5日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-俄罗斯政府推出730亿美元经济复苏计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVanTPjIT9Eh19T1wGNhK200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-联合国人权事务高级专员：新冠肺炎疫情暴露了长期被忽视的不平等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOwu8pb9PnfrfwCaObm3K200602&isfromapp=1) ![](assets/new.png)  
 - [2020-06-02-​印度最大贫民窟新增新冠肺炎确诊病例25例-累计达1830例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1)  
 - [2020-06-02-香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1)  
 - [2020-06-02-为防控疫情-阿联酋首都将实施人员流动限制禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimEvfRo2MtG2YYKApZDPs200602&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046)  
 - [2020-06-02-世卫组织：部分国家解除封锁措施后出现病例增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigT3D3ZqjeZQFm2BSrcOx200602&isfromapp=1)  
 - [2020-06-02-世卫组织：新冠病毒变异不会导致传播能力变化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichsUlwQ1fJImlDkM5bqG200602&isfromapp=1)  
-- [2020-06-01-华盛顿特区市长宣布开始为期两天宵禁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1)  
-- [2020-06-01-6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1)  
-- [2020-06-01-巴西里约热内卢将继续维持限制令,时间至少一周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1)  
-- [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过605万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -942,10 +942,10 @@
 </summary>
 
 
-- [2020-06-02-还记得《庆余年》的超前点播吗？知乎用户把爱奇艺告了，赢了](https://www.ershicimi.com/p/f0eb973282b02f6213eb3b535123ae02) ![](assets/new.png)  
-- [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) ![](assets/new.png)  
-- [2020-06-02-含泪播种的人一定能含笑收获](https://www.ershicimi.com/p/461d69183f009225f38c8b6112d050ba) ![](assets/new.png)  
-- [2020-06-02-知乎故事-|-刚出生就被医院判死刑的婴儿值得倾家荡产去救吗？](https://www.ershicimi.com/p/a06a5eefba3d482a73ecac7e04f457d7) ![](assets/new.png)  
+- [2020-06-02-还记得《庆余年》的超前点播吗？知乎用户把爱奇艺告了，赢了](https://www.ershicimi.com/p/f0eb973282b02f6213eb3b535123ae02)  
+- [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)  
+- [2020-06-02-含泪播种的人一定能含笑收获](https://www.ershicimi.com/p/461d69183f009225f38c8b6112d050ba)  
+- [2020-06-02-知乎故事-|-刚出生就被医院判死刑的婴儿值得倾家荡产去救吗？](https://www.ershicimi.com/p/a06a5eefba3d482a73ecac7e04f457d7)  
 - [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57)  
 - [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542)  
 - [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 02:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 06:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -973,8 +973,12 @@
 </summary>
 
 
-- [2020-06-03-nasa-外宣能让-20-万薪水-google/apple-工程师跳槽-spacex8-万做火箭，太厉害了](https://www.v2ex.com/t/678064) ![](assets/new.png)  
-- [2020-06-03-吐槽一下「提醒事项」Reminders](https://www.v2ex.com/t/678063) ![](assets/new.png)  
+- [2020-06-03-程序员可以怎么穿搭?能推荐一些你私藏的优质店铺吗](https://www.v2ex.com/t/678068) ![](assets/new.png)  
+- [2020-06-03-经验分享贴-虚拟化请使用-HyperV，它是香的！](https://www.v2ex.com/t/678067) ![](assets/new.png)  
+- [2020-06-03-（问题本身已解决）WSL1-长期运行（网络相关？）任务会导致主系统-socket-耗尽？](https://www.v2ex.com/t/678066) ![](assets/new.png)  
+- [2020-06-03-Humble-bundle-又卖书了](https://www.v2ex.com/t/678065) ![](assets/new.png)  
+- [2020-06-03-nasa-外宣能让-20-万薪水-google/apple-工程师跳槽-spacex8-万做火箭，太厉害了](https://www.v2ex.com/t/678064)  
+- [2020-06-03-吐槽一下「提醒事项」Reminders](https://www.v2ex.com/t/678063)  
 - [2020-06-03-固态硬盘的提速的正确姿势是什么？](https://www.v2ex.com/t/678062)  
 - [2020-06-03-用-ffmpeg-直播-h.264-acc-推流，原生安卓-10-的-chrome-用-video.js-无法播放，有解决方案吗?](https://www.v2ex.com/t/678061)  
 - [2020-06-03-求问-Notion-Web-Clipper](https://www.v2ex.com/t/678060)  
@@ -989,10 +993,6 @@
 - [2020-06-02-微信模板消息推送问题](https://www.v2ex.com/t/678047)  
 - [2020-06-02-关于安卓电视盒](https://www.v2ex.com/t/678046)  
 - [2020-06-02-做了一个在线简历编辑器，可以导出-pdf](https://www.v2ex.com/t/678045)  
-- [2020-06-02-深圳-C/C++-求内推-C/C++岗位](https://www.v2ex.com/t/678044)  
-- [2020-06-02-是我的问题？-四川电信，-office-365-我就没安装舒坦过](https://www.v2ex.com/t/678043)  
-- [2020-06-02-新买的-hhkb-type-s-左下角和右下角能往下按，是正常的？](https://www.v2ex.com/t/678041)  
-- [2020-06-02-远程全职-招聘全职-Java-工程师](https://www.v2ex.com/t/678038)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

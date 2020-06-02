@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 02:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-03 06:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -267,6 +267,10 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-03-程序员可以怎么穿搭?能推荐一些你私藏的优质店铺吗](https://www.v2ex.com/t/678068) 
+- [【V2EX】2020-06-03-经验分享贴-虚拟化请使用-HyperV，它是香的！](https://www.v2ex.com/t/678067) 
+- [【V2EX】2020-06-03-（问题本身已解决）WSL1-长期运行（网络相关？）任务会导致主系统-socket-耗尽？](https://www.v2ex.com/t/678066) 
+- [【V2EX】2020-06-03-Humble-bundle-又卖书了](https://www.v2ex.com/t/678065) 
 - [【V2EX】2020-06-03-nasa-外宣能让-20-万薪水-google/apple-工程师跳槽-spacex8-万做火箭，太厉害了](https://www.v2ex.com/t/678064) 
 - [【V2EX】2020-06-03-吐槽一下「提醒事项」Reminders](https://www.v2ex.com/t/678063) 
 - [【V2EX】2020-06-03-固态硬盘的提速的正确姿势是什么？](https://www.v2ex.com/t/678062) 

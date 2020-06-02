@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -22,6 +22,7 @@
 - [2020-05-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56) 
 - [2020-05-27-前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465) 
 - [2020-05-23-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7) 
+- [2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8) 
 - [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 

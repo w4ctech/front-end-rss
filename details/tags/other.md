@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1) 
 - [2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447) 
 - [2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046) 
 - [2020-06-02-世卫组织：部分国家解除封锁措施后出现病例增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigT3D3ZqjeZQFm2BSrcOx200602&isfromapp=1) 
@@ -933,6 +934,7 @@
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
 - [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
+- [2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1) 
 - [2020-05-30-NLP工程师平均月薪3W起，如何从文本情感分析入坑NLP？](https://www.ershicimi.com/p/bc4f6d7abfb46f19511864a08c2d09f1) 
 - [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477) 
 - [2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241) 
@@ -1186,6 +1188,14 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-02-某猫-618-列车发车了](https://www.v2ex.com/t/677700) 
+- [2020-06-02-某宝某东上真的存在抢鞋抢限量的-bot-吗？](https://www.v2ex.com/t/677699) 
+- [2020-06-02-我喜欢苹果有一个原因你们绝对想不到](https://www.v2ex.com/t/677698) 
+- [2020-06-02-迫于电信误操作注销手机号，特来询问怎么维护自身权益索得赔偿](https://www.v2ex.com/t/677697) 
+- [2020-06-02-淘宝-618-赛车，快上车](https://www.v2ex.com/t/677696) 
+- [2020-06-02-支付宝的健康码页面是哪个沙雕产品设计的](https://www.v2ex.com/t/677695) 
+- [2020-06-02-win10-2004-版本的微软拼音输入法是不是不好用？](https://www.v2ex.com/t/677693) 
+- [2020-06-02-setapp-发车，剩下一个人的车位](https://www.v2ex.com/t/677691) 
 - [2020-06-02-现在还有什么办法降到-10.3.3-吗](https://www.v2ex.com/t/677689) 
 - [2020-06-02-v2ex-手机-google-账号登录时无法选择账号](https://www.v2ex.com/t/677687) 
 - [2020-06-02-Tensorflow-有没有入门书籍推荐](https://www.v2ex.com/t/677684) 

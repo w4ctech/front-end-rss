@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-四川新增2例新冠肺炎确诊病例-原为境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046) 
@@ -148,6 +149,8 @@
 - [【Vue中文社区】2020-06-01-让你纵横-GitHub-的五大神器](https://www.ershicimi.com/p/46b2d8ce4335dc0a439bdaf2d632d082) 
 - [【前端早读课】2020-06-01-【第1962期】巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/8e3d157322cb9fac545c519a7ff5283f) 
 - [【前端早读课】2020-06-01-【活动】6.1过节了，送三个月语雀会员](https://www.ershicimi.com/p/a0cd62d82686b39825970819ab6bcb8b) 
+- [【前端开发】2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1) 
+- [【前端开发】2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8) 
 - [【前端开发】2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49) 
 - [【前端开发】2020-06-01-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b) 
 - [【前端大学】2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 
@@ -196,6 +199,15 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-02-某猫-618-列车发车了](https://www.v2ex.com/t/677700) 
+- [【V2EX】2020-06-02-某宝某东上真的存在抢鞋抢限量的-bot-吗？](https://www.v2ex.com/t/677699) 
+- [【V2EX】2020-06-02-我喜欢苹果有一个原因你们绝对想不到](https://www.v2ex.com/t/677698) 
+- [【V2EX】2020-06-02-迫于电信误操作注销手机号，特来询问怎么维护自身权益索得赔偿](https://www.v2ex.com/t/677697) 
+- [【V2EX】2020-06-02-淘宝-618-赛车，快上车](https://www.v2ex.com/t/677696) 
+- [【V2EX】2020-06-02-支付宝的健康码页面是哪个沙雕产品设计的](https://www.v2ex.com/t/677695) 
+- [【V2EX】2020-06-02-win10-2004-版本的微软拼音输入法是不是不好用？](https://www.v2ex.com/t/677693) 
+- [【V2EX】2020-06-02-赶上-618，做了个小程序，可以将自己计划要买的东西和大家分享一下](https://www.v2ex.com/t/677692) 
+- [【V2EX】2020-06-02-setapp-发车，剩下一个人的车位](https://www.v2ex.com/t/677691) 
 - [【V2EX】2020-06-02-现在还有什么办法降到-10.3.3-吗](https://www.v2ex.com/t/677689) 
 - [【V2EX】2020-06-02-浏览器被劫持，导航站反复横跳？](https://www.v2ex.com/t/677688) 
 - [【V2EX】2020-06-02-v2ex-手机-google-账号登录时无法选择账号](https://www.v2ex.com/t/677687) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -90,11 +90,11 @@
 - [【Vue中文社区】Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56)
 - [【前端大全】前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465)
 - [【前端大全】Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7)
+- [【前端开发】Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8)
 - [【前端开发博客】vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8)
 - [【前端开发博客】vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602)
 - [【前端开发博客】vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36)
 - [【前端开发博客】vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c)
-- [【前端大学】10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/a2a7b2b29e9cc6b98bf198f0542e210d)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

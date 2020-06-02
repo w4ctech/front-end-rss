@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-02-ActionView---v1.11.2-发布，更好用的团队敏捷开发工具。](https://www.v2ex.com/t/677995) 
 - [2020-06-02-思考个问题，-Java-如何通过-websocket-和-RabbitMq-集群实现复杂聊天系统呢](https://www.v2ex.com/t/677937) 
 - [2020-06-02-手机一直想越裕，但又觉得没啥必要，大家说说越完后会有安全问题吗，钱包-btc-啥的](https://www.v2ex.com/t/677854) 
 - [2020-06-02-请教一下攒机，渲染用的，-1w5-预算，这样配合适吗？](https://www.v2ex.com/t/677797) 

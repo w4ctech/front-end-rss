@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​印度最大贫民窟新增新冠肺炎确诊病例25例  累计达1830例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1",
+        "date": "2020-06-02"
+      },
+      {
         "title": "香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1",
         "date": "2020-06-02"
@@ -9600,6 +9605,216 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "rsyslog 本身支持配置自动归档吗？",
+        "link": "https://www.v2ex.com/t/678008",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "为什么 node 项目的依赖都要放在 node_modules 下，而不整个中心依赖库？",
+        "link": "https://www.v2ex.com/t/678007",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "为什么有些单线程的进程在任务管理器里实际占用双线程甚至更多线程？",
+        "link": "https://www.v2ex.com/t/678006",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "我们现在的生活，是不是已经被科技绑架了？",
+        "link": "https://www.v2ex.com/t/678005",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "之前有个在 Telegram 上一起拼车 office365 的以为叫 Zimabeer 的用户，如果你看到这条消息请联系我一下",
+        "link": "https://www.v2ex.com/t/678004",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "windows 和 mac 上 iOS 13.5 越狱教程",
+        "link": "https://www.v2ex.com/t/678002",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[阿里巴巴][ICBU][杭州、北京内推]组内 Java 工程师直聘，海量 hc",
+        "link": "https://www.v2ex.com/t/678001",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "CPU 密集型的操作是否只能横向堆机器，从软件层面上没有什么好的解决方案么？",
+        "link": "https://www.v2ex.com/t/678000",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "实在受不了 iPhone 还是 lightning 接口",
+        "link": "https://www.v2ex.com/t/677999",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "如何方便快捷地转换歌曲格式？",
+        "link": "https://www.v2ex.com/t/677998",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "上海房产中介卖差价如何维权!",
+        "link": "https://www.v2ex.com/t/677997",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "golang 面试题之 为什么这种更快呢?",
+        "link": "https://www.v2ex.com/t/677996",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "ActionView - v1.11.2 发布，更好用的团队敏捷开发工具。",
+        "link": "https://www.v2ex.com/t/677995",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "Python 需要一次性做大量的正则匹配是否有什么优化的思路",
+        "link": "https://www.v2ex.com/t/677994",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[腾讯云] [成都] 招聘 k8s 开发和容器解决方案架构师",
+        "link": "https://www.v2ex.com/t/677993",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "618 马上到了，求推荐 2000 左右值得入手的安卓手机",
+        "link": "https://www.v2ex.com/t/677992",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "和心理防御性强的人相处是什么体验",
+        "link": "https://www.v2ex.com/t/677991",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "各位老哥们，广州有哪些驾校可以推荐下呀",
+        "link": "https://www.v2ex.com/t/677990",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[滴滴出行-北京、杭州内推] Android/前端/ Java /Go/算法/iOS/ PHP /C++等各类职位大量招聘，月 25k-60k，...",
+        "link": "https://www.v2ex.com/t/677989",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "广东学车的朋友有在用车学堂或者小乔初驾等吗",
+        "link": "https://www.v2ex.com/t/677988",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "海淀 16 号线温阳路附近转租正规次卧，无隔断",
+        "link": "https://www.v2ex.com/t/677987",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "有没有好用的多标签文件管理软件推荐?",
+        "link": "https://www.v2ex.com/t/677985",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "电池鼓包是产品质量问题，不应该根据保修年限判断维修费",
+        "link": "https://www.v2ex.com/t/677984",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "想组个 itx 黑苹果 各位大佬看下配置如何",
+        "link": "https://www.v2ex.com/t/677983",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "如果你即将结婚，有没有考虑自己写一个 H5 的请柬",
+        "link": "https://www.v2ex.com/t/677982",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "既然空调一关一开更费电，那么人离开多久可以不关？",
+        "link": "https://www.v2ex.com/t/677981",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "早上顺丰上门取件 为啥小程序现在也没看到支付邮费的地方？",
+        "link": "https://www.v2ex.com/t/677979",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[深圳]微信支付招聘后台开发同学，欢迎有意向的同学一起来建设国民级应用！",
+        "link": "https://www.v2ex.com/t/677978",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[百度][部门直招][北京] PHP /GO 研发工程师，急！",
+        "link": "https://www.v2ex.com/t/677977",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "杭州装修求推荐设计师（机构）",
+        "link": "https://www.v2ex.com/t/677976",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "用 Notion 记录了下自己每个月的订阅服务",
+        "link": "https://www.v2ex.com/t/677975",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "求语言推介",
+        "link": "https://www.v2ex.com/t/677973",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "goproxy.cn 崩了？拉了几个包都是 504 bad gateway？",
+        "link": "https://www.v2ex.com/t/677972",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "讨论一下/dev/shm？",
+        "link": "https://www.v2ex.com/t/677971",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "失业 50 天，面了 10 家公司，唯二的 offer 也主动拒了",
+        "link": "https://www.v2ex.com/t/677969",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "公司的 vue 代码 全是 html 文件， 没有 vuex router ，同事一人开发的，看了快两天已一头雾水，该如何是好",
+        "link": "https://www.v2ex.com/t/677968",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "想入个显示器求打醒",
+        "link": "https://www.v2ex.com/t/677966",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[leetcode/lintcode 题解] 滴滴面试题：字符删除",
+        "link": "https://www.v2ex.com/t/677965",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "「北京」「美餐网」招聘 Web 前端 / Golang 开发 / Android 开发 / 运维（AWS）/ BI 工程师",
+        "link": "https://www.v2ex.com/t/677962",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[关于离职证明] 上家公司给了但是被弄丢了，新公司入职需要，咋办？",
+        "link": "https://www.v2ex.com/t/677961",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "clickhouse ，单机变集群改怎么迁移数据",
+        "link": "https://www.v2ex.com/t/677960",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "喜闻乐见，爱奇艺判赔",
+        "link": "https://www.v2ex.com/t/677959",
+        "date": "2020-06-02"
+      },
       {
         "title": "关于小米扫拖一体机器人",
         "link": "https://www.v2ex.com/t/677947",

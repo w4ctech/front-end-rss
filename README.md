@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 00:00:13，:rocket: 更新条数: +33， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 00:30:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-02-美国纽约市长宣布延长宵禁至7日晚](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtingzDz6RdYDmwNJtRH2pT200602&isfromapp=1) ![](assets/new.png)  
 - [2020-06-02-捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1)  
 - [2020-06-02-巴西里约州州长：该州限制令将延期至6月5日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1)  
 - [2020-06-02-俄罗斯政府推出730亿美元经济复苏计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVanTPjIT9Eh19T1wGNhK200602&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447)  
 - [2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046)  
 - [2020-06-02-世卫组织：部分国家解除封锁措施后出现病例增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigT3D3ZqjeZQFm2BSrcOx200602&isfromapp=1)  
-- [2020-06-02-世卫组织：新冠病毒变异不会导致传播能力变化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtichsUlwQ1fJImlDkM5bqG200602&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -973,26 +973,26 @@
 </summary>
 
 
-- [2020-06-02-招聘点播技术，外包也-ok](https://www.v2ex.com/t/678055) ![](assets/new.png)  
-- [2020-06-02-有没有可以用来练习-Java-性能监控与调优的小项目，求推荐！](https://www.v2ex.com/t/678054) ![](assets/new.png)  
-- [2020-06-02-mac-外接两个同型号显示器，排列和旋转的问题](https://www.v2ex.com/t/678052) ![](assets/new.png)  
-- [2020-06-02-请教一下，-AFP-协议可以直接暴露到公网吗？会和-SMB-一样有安全问题吗](https://www.v2ex.com/t/678049) ![](assets/new.png)  
-- [2020-06-02-这样的视频网站，你会支持吗？](https://www.v2ex.com/t/678048) ![](assets/new.png)  
-- [2020-06-02-微信模板消息推送问题](https://www.v2ex.com/t/678047) ![](assets/new.png)  
-- [2020-06-02-关于安卓电视盒](https://www.v2ex.com/t/678046) ![](assets/new.png)  
-- [2020-06-02-做了一个在线简历编辑器，可以导出-pdf](https://www.v2ex.com/t/678045) ![](assets/new.png)  
-- [2020-06-02-深圳-C/C++-求内推-C/C++岗位](https://www.v2ex.com/t/678044) ![](assets/new.png)  
-- [2020-06-02-是我的问题？-四川电信，-office-365-我就没安装舒坦过](https://www.v2ex.com/t/678043) ![](assets/new.png)  
-- [2020-06-02-新买的-hhkb-type-s-左下角和右下角能往下按，是正常的？](https://www.v2ex.com/t/678041) ![](assets/new.png)  
-- [2020-06-02-远程全职-招聘全职-Java-工程师](https://www.v2ex.com/t/678038) ![](assets/new.png)  
-- [2020-06-02-为什么我的-spark-没有比-hadoop-快](https://www.v2ex.com/t/678037) ![](assets/new.png)  
-- [2020-06-02-Mac-OS-下有什么方式可以支持类-windows-的拖动窗口分屏？](https://www.v2ex.com/t/678036) ![](assets/new.png)  
-- [2020-06-02-发票收集](https://www.v2ex.com/t/678035) ![](assets/new.png)  
-- [2020-06-02-字节跳动直播电商-部门直招北京/杭州急招-前端/后端/客户端-工程师，真海量-HC！](https://www.v2ex.com/t/678034) ![](assets/new.png)  
-- [2020-06-02-618-beats-beats-studio3-才-1498-solo-九百多-感觉可以入手啊，活动还剩一天。](https://www.v2ex.com/t/678032) ![](assets/new.png)  
-- [2020-06-02-当微信小程序遇到云开发，再加上一个类似-ColorUI-的模板，人人都能做小程序了](https://www.v2ex.com/t/678030) ![](assets/new.png)  
-- [2020-06-02-大佬们-推荐个无线耳机吧-谢过啦](https://www.v2ex.com/t/678029) ![](assets/new.png)  
-- [2020-06-02-请教下大家，你们的-4K-显示器-屏幕-是否发热量大，屏幕面板相对比较烫呢？](https://www.v2ex.com/t/678027) ![](assets/new.png)  
+- [2020-06-02-招聘点播技术，外包也-ok](https://www.v2ex.com/t/678055)  
+- [2020-06-02-有没有可以用来练习-Java-性能监控与调优的小项目，求推荐！](https://www.v2ex.com/t/678054)  
+- [2020-06-02-mac-外接两个同型号显示器，排列和旋转的问题](https://www.v2ex.com/t/678052)  
+- [2020-06-02-请教一下，-AFP-协议可以直接暴露到公网吗？会和-SMB-一样有安全问题吗](https://www.v2ex.com/t/678049)  
+- [2020-06-02-这样的视频网站，你会支持吗？](https://www.v2ex.com/t/678048)  
+- [2020-06-02-微信模板消息推送问题](https://www.v2ex.com/t/678047)  
+- [2020-06-02-关于安卓电视盒](https://www.v2ex.com/t/678046)  
+- [2020-06-02-做了一个在线简历编辑器，可以导出-pdf](https://www.v2ex.com/t/678045)  
+- [2020-06-02-深圳-C/C++-求内推-C/C++岗位](https://www.v2ex.com/t/678044)  
+- [2020-06-02-是我的问题？-四川电信，-office-365-我就没安装舒坦过](https://www.v2ex.com/t/678043)  
+- [2020-06-02-新买的-hhkb-type-s-左下角和右下角能往下按，是正常的？](https://www.v2ex.com/t/678041)  
+- [2020-06-02-远程全职-招聘全职-Java-工程师](https://www.v2ex.com/t/678038)  
+- [2020-06-02-为什么我的-spark-没有比-hadoop-快](https://www.v2ex.com/t/678037)  
+- [2020-06-02-Mac-OS-下有什么方式可以支持类-windows-的拖动窗口分屏？](https://www.v2ex.com/t/678036)  
+- [2020-06-02-发票收集](https://www.v2ex.com/t/678035)  
+- [2020-06-02-字节跳动直播电商-部门直招北京/杭州急招-前端/后端/客户端-工程师，真海量-HC！](https://www.v2ex.com/t/678034)  
+- [2020-06-02-618-beats-beats-studio3-才-1498-solo-九百多-感觉可以入手啊，活动还剩一天。](https://www.v2ex.com/t/678032)  
+- [2020-06-02-当微信小程序遇到云开发，再加上一个类似-ColorUI-的模板，人人都能做小程序了](https://www.v2ex.com/t/678030)  
+- [2020-06-02-大佬们-推荐个无线耳机吧-谢过啦](https://www.v2ex.com/t/678029)  
+- [2020-06-02-请教下大家，你们的-4K-显示器-屏幕-是否发热量大，屏幕面板相对比较烫呢？](https://www.v2ex.com/t/678027)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

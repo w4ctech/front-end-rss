@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 16:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,10 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-俄罗斯新增新冠肺炎确诊病例8863例-累计超42万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZPJniITh2FBEY3He9wF200602&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-国家卫健委：进一步加强学校传染病防控监督工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGFUgaiRfmJum0JqhLNY200602&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-日本北九州新冠肺炎疫情持续反弹，医院出现集体感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHtTTqnQiiZZEpjy0clGN200602&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-印度新增8171例新冠肺炎确诊病例，累计达198706例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioqXtWOaKjHxL8LPMWJB9200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-举报防疫措施不当-日本东京报警电话增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-武汉中心医院感染新冠肺炎医生胡卫峰今晨去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1) 

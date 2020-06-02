@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 15:30:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 16:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-02-俄罗斯新增新冠肺炎确诊病例8863例-累计超42万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ZPJniITh2FBEY3He9wF200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-国家卫健委：进一步加强学校传染病防控监督工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGFUgaiRfmJum0JqhLNY200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-日本北九州新冠肺炎疫情持续反弹，医院出现集体感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHtTTqnQiiZZEpjy0clGN200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-印度新增8171例新冠肺炎确诊病例，累计达198706例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioqXtWOaKjHxL8LPMWJB9200602&isfromapp=1) ![](assets/new.png)  
 - [2020-06-02-举报防疫措施不当-日本东京报警电话增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1)  
 - [2020-06-02-武汉中心医院感染新冠肺炎医生胡卫峰今晨去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1)  
 - [2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-01-中国抗疫医疗专家组总结与刚果（布）合作抗疫成果](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15JDYSeRzfi3xhipyo5x200601&isfromapp=1)  
 - [2020-06-01-世卫组织：全球新冠肺炎确诊病例超过601万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieEvvNZDb3EHZcJNpUgsQ200601&isfromapp=1)  
 - [2020-06-01-香港新增3例新冠肺炎确诊病例，累计确诊1087例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2H2gZD1pri63xK8YIoXq200601&isfromapp=1)  
-- [2020-06-01-上海现有最后1例本地确诊病例治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHv7FSKfWrjVbiJ97OWn200601&isfromapp=1)  
-- [2020-06-01-截至5月31日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/408532.jhtml)  
-- [2020-06-01-北京40多万中小学生重返课堂](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPkO85YX6LOYAHMDj5V9H200601&isfromapp=1)  
-- [2020-06-01-日本1至3月产业经常利益下降32%-为10年半以来最大跌幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -970,26 +970,26 @@
 </summary>
 
 
-- [2020-06-02-icloud-mail-临时解决方案](https://www.v2ex.com/t/677872) ![](assets/new.png)  
-- [2020-06-02-Mac-下-iCloud-同步会自动删除本机源文件问题](https://www.v2ex.com/t/677871) ![](assets/new.png)  
-- [2020-06-02-docker-部署-laravel-应用可以执行初始化脚本吗？](https://www.v2ex.com/t/677870) ![](assets/new.png)  
-- [2020-06-02-一个高效并且有红包奖励的报修管理平台](https://www.v2ex.com/t/677869) ![](assets/new.png)  
-- [2020-06-02-困扰已久的-windows-远程登录问题](https://www.v2ex.com/t/677868) ![](assets/new.png)  
-- [2020-06-02-菜刀案板有推荐么？北京王麻子咋样？](https://www.v2ex.com/t/677867) ![](assets/new.png)  
-- [2020-06-02-刚需电子产品真的适合一步到位](https://www.v2ex.com/t/677866) ![](assets/new.png)  
-- [2020-06-02-推荐一个配套项目被人拿去卖课-1000W-的原创优质专栏](https://www.v2ex.com/t/677865) ![](assets/new.png)  
-- [2020-06-02-AlpineLinux-3.12-发布](https://www.v2ex.com/t/677864) ![](assets/new.png)  
-- [2020-06-02-第一次折腾电视请教一下](https://www.v2ex.com/t/677863) ![](assets/new.png)  
-- [2020-06-02-求助-楼下在修地铁，租的房子，不能大动，请问有啥能隔音的东西吗，预算在-500-以下](https://www.v2ex.com/t/677862) ![](assets/new.png)  
-- [2020-06-02-现在用-win-本的虚拟机装-mac-系统，有没有啥问题？](https://www.v2ex.com/t/677861) ![](assets/new.png)  
-- [2020-06-02-视频加密-音频保护工具-Video-DRM-Protection-Pro](https://www.v2ex.com/t/677859) ![](assets/new.png)  
-- [2020-06-02-深圳/北京腾讯智慧医疗招聘-C++\web-前端\iOS-开发，北京校招-5-名-C++/web-前端实习生](https://www.v2ex.com/t/677858) ![](assets/new.png)  
-- [2020-06-02-Pixel-2-2020-6-月-Full-OTA-文件似乎有问题](https://www.v2ex.com/t/677857) ![](assets/new.png)  
-- [2020-06-02-字节跳动成都效率工程产品研发中心，你在成都落脚最好的地方](https://www.v2ex.com/t/677856) ![](assets/new.png)  
-- [2020-06-02-现在前端开发是不是流行不写分号收尾？](https://www.v2ex.com/t/677855) ![](assets/new.png)  
-- [2020-06-02-手机一直想越裕，但又觉得没啥必要，大家说说越完后会有安全问题吗，钱包-btc-啥的](https://www.v2ex.com/t/677854) ![](assets/new.png)  
-- [2020-06-02-想知道导航条为什么的很多都是用-ul->-li->-a](https://www.v2ex.com/t/677853) ![](assets/new.png)  
-- [2020-06-02-实践了一个减脂方案，相比其他的方法，简直不要太友好](https://www.v2ex.com/t/677852) ![](assets/new.png)  
+- [2020-06-02-icloud-mail-临时解决方案](https://www.v2ex.com/t/677872)  
+- [2020-06-02-Mac-下-iCloud-同步会自动删除本机源文件问题](https://www.v2ex.com/t/677871)  
+- [2020-06-02-docker-部署-laravel-应用可以执行初始化脚本吗？](https://www.v2ex.com/t/677870)  
+- [2020-06-02-一个高效并且有红包奖励的报修管理平台](https://www.v2ex.com/t/677869)  
+- [2020-06-02-困扰已久的-windows-远程登录问题](https://www.v2ex.com/t/677868)  
+- [2020-06-02-菜刀案板有推荐么？北京王麻子咋样？](https://www.v2ex.com/t/677867)  
+- [2020-06-02-刚需电子产品真的适合一步到位](https://www.v2ex.com/t/677866)  
+- [2020-06-02-推荐一个配套项目被人拿去卖课-1000W-的原创优质专栏](https://www.v2ex.com/t/677865)  
+- [2020-06-02-AlpineLinux-3.12-发布](https://www.v2ex.com/t/677864)  
+- [2020-06-02-第一次折腾电视请教一下](https://www.v2ex.com/t/677863)  
+- [2020-06-02-求助-楼下在修地铁，租的房子，不能大动，请问有啥能隔音的东西吗，预算在-500-以下](https://www.v2ex.com/t/677862)  
+- [2020-06-02-现在用-win-本的虚拟机装-mac-系统，有没有啥问题？](https://www.v2ex.com/t/677861)  
+- [2020-06-02-视频加密-音频保护工具-Video-DRM-Protection-Pro](https://www.v2ex.com/t/677859)  
+- [2020-06-02-深圳/北京腾讯智慧医疗招聘-C++\web-前端\iOS-开发，北京校招-5-名-C++/web-前端实习生](https://www.v2ex.com/t/677858)  
+- [2020-06-02-Pixel-2-2020-6-月-Full-OTA-文件似乎有问题](https://www.v2ex.com/t/677857)  
+- [2020-06-02-字节跳动成都效率工程产品研发中心，你在成都落脚最好的地方](https://www.v2ex.com/t/677856)  
+- [2020-06-02-现在前端开发是不是流行不写分号收尾？](https://www.v2ex.com/t/677855)  
+- [2020-06-02-手机一直想越裕，但又觉得没啥必要，大家说说越完后会有安全问题吗，钱包-btc-啥的](https://www.v2ex.com/t/677854)  
+- [2020-06-02-想知道导航条为什么的很多都是用-ul->-li->-a](https://www.v2ex.com/t/677853)  
+- [2020-06-02-实践了一个减脂方案，相比其他的方法，简直不要太友好](https://www.v2ex.com/t/677852)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

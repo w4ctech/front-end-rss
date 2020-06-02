@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 18:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 19:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -39,6 +39,7 @@
 
 
 
+- [【前端早读课】【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)
 - [【前端开发】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e)
 - [【前端大学】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5)
 - [【前端迷】redux原理解析，看这篇就够了](https://www.ershicimi.com/p/58f9295e2d55a5ece604c552e37fe058)
@@ -58,7 +59,6 @@
 - [【奇舞周刊】从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0)
 - [【奇舞周刊】10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566)
 - [【前端e进阶】早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08)
-- [【InfoQ】从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -612,6 +612,7 @@
 - [【VUE全家桶】【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378)
+- [【前端早读课】【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)
 - [【前端开发】做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49)
 - [【前端开发】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/6cefc7b7fe1df4975b064ca642f12abb)
 - [【前端开发】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32)
@@ -620,7 +621,6 @@
 - [【前端宇宙】最近面试高级前端工程师的一些感受](https://www.ershicimi.com/p/92df06afc91b976c1f00d0fd120f9af6)
 - [【前端宇宙】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4)
 - [【程序员成长指北】大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a)
-- [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 22:00:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -8,6 +8,8 @@
 
 
 - [2020-06-01-让你纵横-GitHub-的五大神器](https://www.ershicimi.com/p/46b2d8ce4335dc0a439bdaf2d632d082) 
+- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) 
+- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [2020-05-28-鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8) 
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 

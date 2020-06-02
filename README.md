@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 21:00:20，:rocket: 更新条数: +43， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 22:00:15，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-02-​印度最大贫民窟新增新冠肺炎确诊病例25例-累计达1830例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1) ![](assets/new.png)  
+- [2020-06-02-​印度最大贫民窟新增新冠肺炎确诊病例25例-累计达1830例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1)  
 - [2020-06-02-香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1)  
 - [2020-06-02-为防控疫情-阿联酋首都将实施人员流动限制禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimEvfRo2MtG2YYKApZDPs200602&isfromapp=1)  
 - [2020-06-02-尼日利亚新冠肺炎确诊病例累计达10578例，尼进入放宽限制第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNDuttYIzyPN3pZs8unbO200602&isfromapp=1)  
@@ -244,6 +244,11 @@
 </summary>
 
 
+- [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) ![](assets/new.png)  
+- [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) ![](assets/new.png)  
+- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) ![](assets/new.png)  
+- [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) ![](assets/new.png)  
+- [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43) ![](assets/new.png)  
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/0b5fc7c665853c8160097d340656ffd3)  
 - [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20)  
 - [2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f)  
@@ -259,11 +264,6 @@
 - [2020-05-22-前端工程师三大核心能力都有啥？进来自检一下](https://www.ershicimi.com/p/d6716adddb9c173358cb146dbd4a20e6)  
 - [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270)  
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58)  
-- [2020-05-21-面向对象：不太爱运动的女孩，需要有个人带哦](https://www.ershicimi.com/p/123edbd1acc88db9f988b4c0fa1cef59)  
-- [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba)  
-- [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19)  
-- [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96)  
-- [2020-05-19-面向对象：希望找一个聊得来，相处自然舒服的人，走完这一生～](https://www.ershicimi.com/p/29a38618f120b8a95bec7919e4e3f54f)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -973,26 +973,26 @@
 </summary>
 
 
-- [2020-06-02-rsyslog-本身支持配置自动归档吗？](https://www.v2ex.com/t/678008) ![](assets/new.png)  
-- [2020-06-02-为什么-node-项目的依赖都要放在-node_modules-下，而不整个中心依赖库？](https://www.v2ex.com/t/678007) ![](assets/new.png)  
-- [2020-06-02-为什么有些单线程的进程在任务管理器里实际占用双线程甚至更多线程？](https://www.v2ex.com/t/678006) ![](assets/new.png)  
-- [2020-06-02-我们现在的生活，是不是已经被科技绑架了？](https://www.v2ex.com/t/678005) ![](assets/new.png)  
-- [2020-06-02-之前有个在-Telegram-上一起拼车-office365-的以为叫-Zimabeer-的用户，如果你看到这条消息请联系我一下](https://www.v2ex.com/t/678004) ![](assets/new.png)  
-- [2020-06-02-windows-和-mac-上-iOS-13.5-越狱教程](https://www.v2ex.com/t/678002) ![](assets/new.png)  
-- [2020-06-02-阿里巴巴ICBU杭州、北京内推组内-Java-工程师直聘，海量-hc](https://www.v2ex.com/t/678001) ![](assets/new.png)  
-- [2020-06-02-CPU-密集型的操作是否只能横向堆机器，从软件层面上没有什么好的解决方案么？](https://www.v2ex.com/t/678000) ![](assets/new.png)  
-- [2020-06-02-实在受不了-iPhone-还是-lightning-接口](https://www.v2ex.com/t/677999) ![](assets/new.png)  
-- [2020-06-02-如何方便快捷地转换歌曲格式？](https://www.v2ex.com/t/677998) ![](assets/new.png)  
-- [2020-06-02-上海房产中介卖差价如何维权!](https://www.v2ex.com/t/677997) ![](assets/new.png)  
-- [2020-06-02-golang-面试题之-为什么这种更快呢?](https://www.v2ex.com/t/677996) ![](assets/new.png)  
-- [2020-06-02-ActionView---v1.11.2-发布，更好用的团队敏捷开发工具。](https://www.v2ex.com/t/677995) ![](assets/new.png)  
-- [2020-06-02-Python-需要一次性做大量的正则匹配是否有什么优化的思路](https://www.v2ex.com/t/677994) ![](assets/new.png)  
-- [2020-06-02-腾讯云-成都-招聘-k8s-开发和容器解决方案架构师](https://www.v2ex.com/t/677993) ![](assets/new.png)  
-- [2020-06-02-618-马上到了，求推荐-2000-左右值得入手的安卓手机](https://www.v2ex.com/t/677992) ![](assets/new.png)  
-- [2020-06-02-和心理防御性强的人相处是什么体验](https://www.v2ex.com/t/677991) ![](assets/new.png)  
-- [2020-06-02-各位老哥们，广州有哪些驾校可以推荐下呀](https://www.v2ex.com/t/677990) ![](assets/new.png)  
-- [2020-06-02-滴滴出行-北京、杭州内推-Android/前端/-Java-/Go/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，...](https://www.v2ex.com/t/677989) ![](assets/new.png)  
-- [2020-06-02-广东学车的朋友有在用车学堂或者小乔初驾等吗](https://www.v2ex.com/t/677988) ![](assets/new.png)  
+- [2020-06-02-rsyslog-本身支持配置自动归档吗？](https://www.v2ex.com/t/678008)  
+- [2020-06-02-为什么-node-项目的依赖都要放在-node_modules-下，而不整个中心依赖库？](https://www.v2ex.com/t/678007)  
+- [2020-06-02-为什么有些单线程的进程在任务管理器里实际占用双线程甚至更多线程？](https://www.v2ex.com/t/678006)  
+- [2020-06-02-我们现在的生活，是不是已经被科技绑架了？](https://www.v2ex.com/t/678005)  
+- [2020-06-02-之前有个在-Telegram-上一起拼车-office365-的以为叫-Zimabeer-的用户，如果你看到这条消息请联系我一下](https://www.v2ex.com/t/678004)  
+- [2020-06-02-windows-和-mac-上-iOS-13.5-越狱教程](https://www.v2ex.com/t/678002)  
+- [2020-06-02-阿里巴巴ICBU杭州、北京内推组内-Java-工程师直聘，海量-hc](https://www.v2ex.com/t/678001)  
+- [2020-06-02-CPU-密集型的操作是否只能横向堆机器，从软件层面上没有什么好的解决方案么？](https://www.v2ex.com/t/678000)  
+- [2020-06-02-实在受不了-iPhone-还是-lightning-接口](https://www.v2ex.com/t/677999)  
+- [2020-06-02-如何方便快捷地转换歌曲格式？](https://www.v2ex.com/t/677998)  
+- [2020-06-02-上海房产中介卖差价如何维权!](https://www.v2ex.com/t/677997)  
+- [2020-06-02-golang-面试题之-为什么这种更快呢?](https://www.v2ex.com/t/677996)  
+- [2020-06-02-ActionView---v1.11.2-发布，更好用的团队敏捷开发工具。](https://www.v2ex.com/t/677995)  
+- [2020-06-02-Python-需要一次性做大量的正则匹配是否有什么优化的思路](https://www.v2ex.com/t/677994)  
+- [2020-06-02-腾讯云-成都-招聘-k8s-开发和容器解决方案架构师](https://www.v2ex.com/t/677993)  
+- [2020-06-02-618-马上到了，求推荐-2000-左右值得入手的安卓手机](https://www.v2ex.com/t/677992)  
+- [2020-06-02-和心理防御性强的人相处是什么体验](https://www.v2ex.com/t/677991)  
+- [2020-06-02-各位老哥们，广州有哪些驾校可以推荐下呀](https://www.v2ex.com/t/677990)  
+- [2020-06-02-滴滴出行-北京、杭州内推-Android/前端/-Java-/Go/算法/iOS/-PHP-/C++等各类职位大量招聘，月-25k-60k，...](https://www.v2ex.com/t/677989)  
+- [2020-06-02-广东学车的朋友有在用车学堂或者小乔初驾等吗](https://www.v2ex.com/t/677988)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

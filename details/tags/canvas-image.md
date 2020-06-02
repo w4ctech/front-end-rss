@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -22,3 +22,4 @@
 - [2020-05-30-WebGL-光照](https://juejin.im/post/5ed0fad051882542e722f2b4) 
 - [2020-06-01-各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634) 
 - [2020-05-30-大家谁知道-SVG-的-stroke-dasharray、stroke-dashoffset-属性，具体是什么意思？](https://www.v2ex.com/t/676997) 
+- [2020-06-02-译-面向开发人员的-12-个最佳-GUI-Git-客户端](https://toutiao.io/k/4ljvin0) 

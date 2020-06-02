@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2020-05-26-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74) 
 - [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) 
 - [2020-05-29-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/0804e565a5a749e6781a364b41fdd645) 
+- [2020-06-02-前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/54c42d2df559d5d3bef2df7ef843c839) 
 - [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352) 
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) 
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643) 
@@ -84,6 +85,7 @@
 - [2020-05-29-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-02-巧用-Kotlin-反射实现按值取名，调试做到多快好省](https://toutiao.io/k/tpcg5l4) 
 - [2020-06-01-Redis-安全学习小记](https://toutiao.io/k/lswtis9) 
 - [2020-05-31-Golang-程序调试工具介绍-gdb-vs-dlv](https://toutiao.io/k/q6tc3kk) 
 - [2020-05-31-百步穿杨：看我如何在-App-中-getshell](https://toutiao.io/k/xnefj3c) 

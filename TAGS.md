@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 09:30:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -329,6 +329,7 @@
 - [【前端开发】中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b)
 - [【前端开发】面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/792fc039e330d6f7870aa5e815495aa0)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
+- [【前端大学】中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684)
 - [【前端之巅】云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)
 - [【前端迷】深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/1e3a677ee97fc2a7f3cd957824264530)
 - [【前端宇宙】相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e)
@@ -344,7 +345,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
-- [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -376,6 +376,7 @@
 - [【掘金前端】WebGL-光照](https://juejin.im/post/5ed0fad051882542e722f2b4)
 - [【V2EX】各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634)
 - [【V2EX】大家谁知道-SVG-的-stroke-dasharray、stroke-dashoffset-属性，具体是什么意思？](https://www.v2ex.com/t/676997)
+- [【开发者头条】译-面向开发人员的-12-个最佳-GUI-Git-客户端](https://toutiao.io/k/4ljvin0)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -407,11 +408,11 @@
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
+- [【V2EX】有大佬懂视频流-PS-流解析-h264-数据的过程吗](https://www.v2ex.com/t/677710)
 - [【V2EX】想以程序员题材为主直播什么内容比较好？](https://www.v2ex.com/t/677682)
 - [【V2EX】快手内推-直播-iOS-客户端](https://www.v2ex.com/t/677604)
 - [【V2EX】CSDN-学院视频怎么下载](https://www.v2ex.com/t/677595)
 - [【V2EX】6.1-活动特价-腾讯视频会员年费-99-元，官网活动](https://www.v2ex.com/t/677370)
-- [【V2EX】腾讯云阿里云选哪个？做一个视频网站需要什么样配置的服务器？](https://www.v2ex.com/t/677323)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -470,6 +471,7 @@
 - [【前端大全】Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74)
 - [【前端大全】趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96)
 - [【前端开发】还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/0804e565a5a749e6781a364b41fdd645)
+- [【前端大学】前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/54c42d2df559d5d3bef2df7ef843c839)
 - [【前端之巅】前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352)
 - [【前端之巅】8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)
 - [【前端迷】常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643)
@@ -483,7 +485,6 @@
 - [【凹凸实验室】手把手教你搭建ngrok服务－轻松外网调试本机站点](https://aotu.io/notes/2016/02/19/ngrok/)
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
-- [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -577,6 +578,7 @@
 - [【V2EX】GitHub-换新图标了](https://www.v2ex.com/t/676594)
 - [【技术头条】Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】iOS-开发者资源大全-GitHub，值得收藏](https://toutiao.io/k/fxq7g1i)
 - [【开发者头条】推荐-一文讲透-Git-底层数据结构和原理](https://toutiao.io/k/8ps7l8l)
 - [【开发者头条】推荐-十个超级实用的-git-命令](https://toutiao.io/k/wwwv4wa)
 - [......【查看更多】......](./details/tags/git-svn.md)
@@ -597,6 +599,7 @@
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://china.caixin.com/2020-02-22/101519091.html)
 - [【Vue社区】前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1)
+- [【Vue中文社区】阿里巴巴前端面试经验分享](https://www.ershicimi.com/p/7c5ee4e85db75525c34aaef8b0459e5e)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e)
@@ -614,7 +617,6 @@
 - [【前端宇宙】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4)
 - [【前端e进阶】前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82)
 - [【互联网架构师】一个很艰难的-Java-核心面试问题！](https://www.ershicimi.com/p/4d5a529a417a77c20708d467f71202e8)
-- [【互联网架构师】一次-MySQL-索引面试，被面试官怼的体无完肤！](https://www.ershicimi.com/p/bc61b331df480f935bba8d1f70262962)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

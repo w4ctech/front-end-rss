@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 06:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-03 07:30:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-03-加拿大新增705例新冠肺炎确诊病例-累计92410例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWNGr0tBY3lK9FiHVidX200603&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-美国纽约市长宣布延长宵禁至7日晚](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtingzDz6RdYDmwNJtRH2pT200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-02-巴西里约州州长：该州限制令将延期至6月5日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1) 
@@ -267,6 +268,7 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-03-iCloud-Drive-文档和桌面数据同步还正常么](https://www.v2ex.com/t/678070) 
 - [【V2EX】2020-06-03-程序员可以怎么穿搭?能推荐一些你私藏的优质店铺吗](https://www.v2ex.com/t/678068) 
 - [【V2EX】2020-06-03-经验分享贴-虚拟化请使用-HyperV，它是香的！](https://www.v2ex.com/t/678067) 
 - [【V2EX】2020-06-03-（问题本身已解决）WSL1-长期运行（网络相关？）任务会导致主系统-socket-耗尽？](https://www.v2ex.com/t/678066) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 08:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -778,6 +778,7 @@
 - [【全栈前端精选】2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56) 
 - [【全栈前端精选】2020-05-22-如何实现一个React水印组件](https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210) 
 - [【全栈前端精选】2020-05-21-阿里技术专家告诉你，如何画出优秀的架构图？](https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467) 
+- [【政采云前端团队】2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
 - [【政采云前端团队】2020-05-27-那些一票难求的高质量前端公众号](https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238) 
 - [【政采云前端团队】2020-05-24-这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149) 
 - [【政采云前端团队】2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 

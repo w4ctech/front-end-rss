@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 00:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -23,6 +23,8 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
 - [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) 
+- [2020-06-02-这样的视频网站，你会支持吗？](https://www.v2ex.com/t/678048) 
+- [2020-06-02-字节跳动直播电商-部门直招北京/杭州急招-前端/后端/客户端-工程师，真海量-HC！](https://www.v2ex.com/t/678034) 
 - [2020-06-02-实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/677916) 
 - [2020-06-02-视频加密-音频保护工具-Video-DRM-Protection-Pro](https://www.v2ex.com/t/677859) 
 - [2020-06-02-请教一下-MediaCodec-解码视频流问题](https://www.v2ex.com/t/677785) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 13:00:13，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 14:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -445,6 +445,7 @@
 </summary>
 
 
+- [2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) ![](assets/new.png)  
 - [2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b)  
 - [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519)  
 - [2020-05-31-淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6)  
@@ -969,19 +970,19 @@
 </summary>
 
 
-- [2020-06-02-其推荐一个-iPad-pro12.9-的支架](https://www.v2ex.com/t/677810) ![](assets/new.png)  
-- [2020-06-02-中国科学院生态环境研究中心-招聘模型/gis-开发工程师（可解决户口）](https://www.v2ex.com/t/677808) ![](assets/new.png)  
-- [2020-06-02-昨天北京联通升级了系统，导致-651-错误](https://www.v2ex.com/t/677807) ![](assets/new.png)  
-- [2020-06-02-该怎么选？](https://www.v2ex.com/t/677805) ![](assets/new.png)  
-- [2020-06-02-深圳码隆科技-高级软件架构师-35k-45k](https://www.v2ex.com/t/677803) ![](assets/new.png)  
-- [2020-06-02-新手-mac-下-mongoimport-：-zsh:-command-not-found:-mongoimport](https://www.v2ex.com/t/677802) ![](assets/new.png)  
-- [2020-06-02-现在还有隐私可言吗](https://www.v2ex.com/t/677801) ![](assets/new.png)  
-- [2020-06-02-想请大家推荐一款可以装下-iPad-Pro-11'-的包](https://www.v2ex.com/t/677800) ![](assets/new.png)  
-- [2020-06-02-最近家里的别墅在装修，需要画线路图](https://www.v2ex.com/t/677799) ![](assets/new.png)  
-- [2020-06-02-2020-macbook-air-发热的问题](https://www.v2ex.com/t/677798) ![](assets/new.png)  
-- [2020-06-02-请教一下攒机，渲染用的，-1w5-预算，这样配合适吗？](https://www.v2ex.com/t/677797) ![](assets/new.png)  
-- [2020-06-02-让实习生去重构核心模块，是什么操作](https://www.v2ex.com/t/677796) ![](assets/new.png)  
-- [2020-06-02-犹豫要不要组一台-ITX-主机](https://www.v2ex.com/t/677794) ![](assets/new.png)  
+- [2020-06-02-其推荐一个-iPad-pro12.9-的支架](https://www.v2ex.com/t/677810)  
+- [2020-06-02-中国科学院生态环境研究中心-招聘模型/gis-开发工程师（可解决户口）](https://www.v2ex.com/t/677808)  
+- [2020-06-02-昨天北京联通升级了系统，导致-651-错误](https://www.v2ex.com/t/677807)  
+- [2020-06-02-该怎么选？](https://www.v2ex.com/t/677805)  
+- [2020-06-02-深圳码隆科技-高级软件架构师-35k-45k](https://www.v2ex.com/t/677803)  
+- [2020-06-02-新手-mac-下-mongoimport-：-zsh:-command-not-found:-mongoimport](https://www.v2ex.com/t/677802)  
+- [2020-06-02-现在还有隐私可言吗](https://www.v2ex.com/t/677801)  
+- [2020-06-02-想请大家推荐一款可以装下-iPad-Pro-11'-的包](https://www.v2ex.com/t/677800)  
+- [2020-06-02-最近家里的别墅在装修，需要画线路图](https://www.v2ex.com/t/677799)  
+- [2020-06-02-2020-macbook-air-发热的问题](https://www.v2ex.com/t/677798)  
+- [2020-06-02-请教一下攒机，渲染用的，-1w5-预算，这样配合适吗？](https://www.v2ex.com/t/677797)  
+- [2020-06-02-让实习生去重构核心模块，是什么操作](https://www.v2ex.com/t/677796)  
+- [2020-06-02-犹豫要不要组一台-ITX-主机](https://www.v2ex.com/t/677794)  
 - [2020-06-02-V-友们平时穿什么鞋啊，推荐一下。](https://www.v2ex.com/t/677793)  
 - [2020-06-02-做千万级数据处理的单机配置求助](https://www.v2ex.com/t/677792)  
 - [2020-06-02-请问各位图中情况是不是海关已经放行了呢？](https://www.v2ex.com/t/677791)  
@@ -1031,6 +1032,10 @@
 </summary>
 
 
+- [2020-06-02-用-Python-写一个经典飞机大战](https://toutiao.io/k/q7tuo0x) ![](assets/new.png)  
+- [2020-06-02-译-为什么-Go-不提供这些功能：语法糖的代价](https://toutiao.io/k/sv4lyrf) ![](assets/new.png)  
+- [2020-06-02-利用光学成像原理手动调整树莓派摄像头对焦](https://toutiao.io/k/jak2ct4) ![](assets/new.png)  
+- [2020-06-02-万字长文让你在-Linux-系统中游刃有余](https://toutiao.io/k/4rgecnb) ![](assets/new.png)  
 - [2020-06-02-后疫情时期，活下来了，但你还好吗？](https://toutiao.io/k/9guxfem)  
 - [2020-06-02-写代码不只是撸起袖子就干，还要有设计图](https://toutiao.io/k/1f3d6p2)  
 - [2020-06-02-译-面向开发人员的-12-个最佳-GUI-Git-客户端](https://toutiao.io/k/4ljvin0)  
@@ -1047,10 +1052,6 @@
 - [2020-06-02-一文读懂-Java-多线程](https://toutiao.io/k/adch1ei)  
 - [2020-06-02-GreenDao-在-Android-项目中的实践总结](https://toutiao.io/k/25blyu1)  
 - [2020-06-01-70-招助你提升用户转化率（上）](https://toutiao.io/k/jq5hx1s)  
-- [2020-06-01-一篇有趣的负载均衡算法实现](https://toutiao.io/k/ss2qs60)  
-- [2020-06-01-TensorFlow.js-微信小程序插件开始支持-WebAssembly](https://toutiao.io/k/xmtgeru)  
-- [2020-06-01-Istio-1.6：迈向极简主义](https://toutiao.io/k/n0fv408)  
-- [2020-06-01-推荐-项目中如何实现-SQL-耗时监控？](https://toutiao.io/k/8bwt873)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

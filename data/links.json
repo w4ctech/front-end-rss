@@ -6535,6 +6535,11 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "未来可期的HTTP/3",
+        "link": "https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867",
+        "date": "2020-06-02"
+      },
+      {
         "title": "如何实现一个下载进度条/播放进度条",
         "link": "https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b",
         "date": "2020-06-01"
@@ -14269,6 +14274,26 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "用 Python 写一个经典飞机大战",
+        "link": "https://toutiao.io/k/q7tuo0x",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "[译] 为什么 Go 不提供这些功能：语法糖的代价",
+        "link": "https://toutiao.io/k/sv4lyrf",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "利用光学成像原理手动调整树莓派摄像头对焦",
+        "link": "https://toutiao.io/k/jak2ct4",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "万字长文让你在 Linux 系统中游刃有余",
+        "link": "https://toutiao.io/k/4rgecnb",
+        "date": "2020-06-02"
+      },
       {
         "title": "后疫情时期，活下来了，但你还好吗？",
         "link": "https://toutiao.io/k/9guxfem",

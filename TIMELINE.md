@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 12:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-02 13:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -215,6 +215,19 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-02-其推荐一个-iPad-pro12.9-的支架](https://www.v2ex.com/t/677810) 
+- [【V2EX】2020-06-02-中国科学院生态环境研究中心-招聘模型/gis-开发工程师（可解决户口）](https://www.v2ex.com/t/677808) 
+- [【V2EX】2020-06-02-昨天北京联通升级了系统，导致-651-错误](https://www.v2ex.com/t/677807) 
+- [【V2EX】2020-06-02-该怎么选？](https://www.v2ex.com/t/677805) 
+- [【V2EX】2020-06-02-深圳码隆科技-高级软件架构师-35k-45k](https://www.v2ex.com/t/677803) 
+- [【V2EX】2020-06-02-新手-mac-下-mongoimport-：-zsh:-command-not-found:-mongoimport](https://www.v2ex.com/t/677802) 
+- [【V2EX】2020-06-02-现在还有隐私可言吗](https://www.v2ex.com/t/677801) 
+- [【V2EX】2020-06-02-想请大家推荐一款可以装下-iPad-Pro-11'-的包](https://www.v2ex.com/t/677800) 
+- [【V2EX】2020-06-02-最近家里的别墅在装修，需要画线路图](https://www.v2ex.com/t/677799) 
+- [【V2EX】2020-06-02-2020-macbook-air-发热的问题](https://www.v2ex.com/t/677798) 
+- [【V2EX】2020-06-02-请教一下攒机，渲染用的，-1w5-预算，这样配合适吗？](https://www.v2ex.com/t/677797) 
+- [【V2EX】2020-06-02-让实习生去重构核心模块，是什么操作](https://www.v2ex.com/t/677796) 
+- [【V2EX】2020-06-02-犹豫要不要组一台-ITX-主机](https://www.v2ex.com/t/677794) 
 - [【V2EX】2020-06-02-V-友们平时穿什么鞋啊，推荐一下。](https://www.v2ex.com/t/677793) 
 - [【V2EX】2020-06-02-做千万级数据处理的单机配置求助](https://www.v2ex.com/t/677792) 
 - [【V2EX】2020-06-02-请问各位图中情况是不是海关已经放行了呢？](https://www.v2ex.com/t/677791) 

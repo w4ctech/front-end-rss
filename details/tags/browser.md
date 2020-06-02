@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-02 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 13:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-02-请教一下攒机，渲染用的，-1w5-预算，这样配合适吗？](https://www.v2ex.com/t/677797) 
 - [2020-06-02-求助-所有浏览器都访问不了-Google-系的网站了](https://www.v2ex.com/t/677790) 
 - [2020-06-02-目前最新版本的-Chrome-for-iOS-快捷键是-Bug-吗？还是故意为之？](https://www.v2ex.com/t/677744) 
 - [2020-06-02-浏览器被劫持，导航站反复横跳？](https://www.v2ex.com/t/677688) 

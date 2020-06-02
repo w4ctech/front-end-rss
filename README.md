@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-02 12:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-02 13:00:13，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -844,11 +844,11 @@
 </summary>
 
 
-- [2020-06-02-你不知道的-Blob](https://juejin.im/post/5ed5d3fe518825430956c139) ![](assets/new.png)  
-- [2020-06-02-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://juejin.im/post/5ed5cbaef265da76d109ea3a) ![](assets/new.png)  
-- [2020-06-02-凉凉-腾讯前端实习-腾讯文档一面](https://juejin.im/post/5ed4faf56fb9a047d11273ff) ![](assets/new.png)  
-- [2020-06-02-实现基于Vue的面包屑导航+链接可跳转组件](https://juejin.im/post/5ed5b5d5f265da76c26e6dd2) ![](assets/new.png)  
-- [2020-06-02-Redis-你了解-Redis-的三种集群模式吗？](https://juejin.im/post/5ed51964e51d457889261c13) ![](assets/new.png)  
+- [2020-06-02-你不知道的-Blob](https://juejin.im/post/5ed5d3fe518825430956c139)  
+- [2020-06-02-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://juejin.im/post/5ed5cbaef265da76d109ea3a)  
+- [2020-06-02-凉凉-腾讯前端实习-腾讯文档一面](https://juejin.im/post/5ed4faf56fb9a047d11273ff)  
+- [2020-06-02-实现基于Vue的面包屑导航+链接可跳转组件](https://juejin.im/post/5ed5b5d5f265da76c26e6dd2)  
+- [2020-06-02-Redis-你了解-Redis-的三种集群模式吗？](https://juejin.im/post/5ed51964e51d457889261c13)  
 - [2020-06-01-官宣！阿里Fx-Team-正式成立啦~](https://juejin.im/post/5ed507b3f265da77057e3499)  
 - [2020-06-01-动态刻度可视化组件实现](https://juejin.im/post/5ed4f85bf265da770e1bca9d)  
 - [2020-06-01-GitHub-上周-JavaScript-趋势榜项目](https://juejin.im/post/5ed4cc6d6fb9a047d070d35e)  
@@ -969,6 +969,19 @@
 </summary>
 
 
+- [2020-06-02-其推荐一个-iPad-pro12.9-的支架](https://www.v2ex.com/t/677810) ![](assets/new.png)  
+- [2020-06-02-中国科学院生态环境研究中心-招聘模型/gis-开发工程师（可解决户口）](https://www.v2ex.com/t/677808) ![](assets/new.png)  
+- [2020-06-02-昨天北京联通升级了系统，导致-651-错误](https://www.v2ex.com/t/677807) ![](assets/new.png)  
+- [2020-06-02-该怎么选？](https://www.v2ex.com/t/677805) ![](assets/new.png)  
+- [2020-06-02-深圳码隆科技-高级软件架构师-35k-45k](https://www.v2ex.com/t/677803) ![](assets/new.png)  
+- [2020-06-02-新手-mac-下-mongoimport-：-zsh:-command-not-found:-mongoimport](https://www.v2ex.com/t/677802) ![](assets/new.png)  
+- [2020-06-02-现在还有隐私可言吗](https://www.v2ex.com/t/677801) ![](assets/new.png)  
+- [2020-06-02-想请大家推荐一款可以装下-iPad-Pro-11'-的包](https://www.v2ex.com/t/677800) ![](assets/new.png)  
+- [2020-06-02-最近家里的别墅在装修，需要画线路图](https://www.v2ex.com/t/677799) ![](assets/new.png)  
+- [2020-06-02-2020-macbook-air-发热的问题](https://www.v2ex.com/t/677798) ![](assets/new.png)  
+- [2020-06-02-请教一下攒机，渲染用的，-1w5-预算，这样配合适吗？](https://www.v2ex.com/t/677797) ![](assets/new.png)  
+- [2020-06-02-让实习生去重构核心模块，是什么操作](https://www.v2ex.com/t/677796) ![](assets/new.png)  
+- [2020-06-02-犹豫要不要组一台-ITX-主机](https://www.v2ex.com/t/677794) ![](assets/new.png)  
 - [2020-06-02-V-友们平时穿什么鞋啊，推荐一下。](https://www.v2ex.com/t/677793)  
 - [2020-06-02-做千万级数据处理的单机配置求助](https://www.v2ex.com/t/677792)  
 - [2020-06-02-请问各位图中情况是不是海关已经放行了呢？](https://www.v2ex.com/t/677791)  
@@ -976,19 +989,6 @@
 - [2020-06-02-让照片动起来的技术是？](https://www.v2ex.com/t/677789)  
 - [2020-06-02-请教一下-MediaCodec-解码视频流问题](https://www.v2ex.com/t/677785)  
 - [2020-06-02-在这能租到六道口的一居室吗？](https://www.v2ex.com/t/677784)  
-- [2020-06-02-现在去北京找工作，能找到出租的房子吗？](https://www.v2ex.com/t/677783)  
-- [2020-06-02-再分享一下自用的小工具-Bark-,给你的-iPhone-发自定义推送](https://www.v2ex.com/t/677782)  
-- [2020-06-02-上海-eBay-Hiring---拒绝-996!](https://www.v2ex.com/t/677781)  
-- [2020-06-02-求问各位大佬，饿了吗故意打错怎么领大额券](https://www.v2ex.com/t/677780)  
-- [2020-06-02-这以后要是不挂-dl，永远不能用-cloudflare-了吗-V2EX-以前还能正常访问，现在必须挂-dl](https://www.v2ex.com/t/677779)  
-- [2020-06-02-面试用-zoom，微信视频的，不怕候选者在线查么？？](https://www.v2ex.com/t/677777)  
-- [2020-06-02-用-Python-写一个-Fortran-->-Julia-的翻译器，求大神指点](https://www.v2ex.com/t/677776)  
-- [2020-06-02-外企-Coupang-上海招人啦](https://www.v2ex.com/t/677775)  
-- [2020-06-02-在用又拍云产品的请注意！又拍云推出原创技术征文活动，缺把-filco-键盘的把握住机会](https://www.v2ex.com/t/677774)  
-- [2020-06-02-给个建议，笔记本还是台式机](https://www.v2ex.com/t/677773)  
-- [2020-06-02-京造-k2-和-k6-怎么选，另外有没有人用过给个建议？](https://www.v2ex.com/t/677772)  
-- [2020-06-02-MAC-无故重启有遇到的么](https://www.v2ex.com/t/677771)  
-- [2020-06-02-大家用-iPad-看视频会觉得比较模糊吗？](https://www.v2ex.com/t/677770)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

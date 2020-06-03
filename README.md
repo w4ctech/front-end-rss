@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 22:30:15，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 23:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -609,6 +609,7 @@
 </summary>
 
 
+- [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) ![](assets/new.png)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
@@ -982,26 +983,26 @@
 </summary>
 
 
-- [2020-06-03-你们都用-eizo-的什么型号？](https://www.v2ex.com/t/678401) ![](assets/new.png)  
-- [2020-06-03-写了个-B-站搜索弹幕并提示在进度条上的油猴脚本](https://www.v2ex.com/t/678400) ![](assets/new.png)  
-- [2020-06-03-分享-TOP-互联网公司级别及对应薪酬](https://www.v2ex.com/t/678399) ![](assets/new.png)  
-- [2020-06-03-用三句话总结你出生到现在的经历和成就！](https://www.v2ex.com/t/678398) ![](assets/new.png)  
-- [2020-06-03-请问-windows-下编辑代码，-Linux-下直接可编译运行的最优方案有哪些呀？](https://www.v2ex.com/t/678395) ![](assets/new.png)  
-- [2020-06-03-时间管理与日常提醒小工具：报时时钟](https://www.v2ex.com/t/678394) ![](assets/new.png)  
-- [2020-06-03-寻求-UI-设计师合作](https://www.v2ex.com/t/678393) ![](assets/new.png)  
-- [2020-06-03-深圳有免费的法律援助吗？](https://www.v2ex.com/t/678392) ![](assets/new.png)  
-- [2020-06-03-重庆社交-APP-创业公司-主打私有化部署服务+红包对接服务来-1-Java-1-运维-1-IOS](https://www.v2ex.com/t/678391) ![](assets/new.png)  
-- [2020-06-03-从-macos-10.15.5-降级到了-10.13.6-的几点感受](https://www.v2ex.com/t/678390) ![](assets/new.png)  
-- [2020-06-03-发现一个-p2p-文件传送工具：-ShareDrop-类似苹果的-AirDrop](https://www.v2ex.com/t/678389) ![](assets/new.png)  
-- [2020-06-03-帮老爸卖樱桃啦，正宗的烟台大樱桃，好吃不贵。](https://www.v2ex.com/t/678388) ![](assets/new.png)  
-- [2020-06-03-iPhone-接收消息提醒延迟是何原因](https://www.v2ex.com/t/678386) ![](assets/new.png)  
-- [2020-06-03-从功利一点的角度来看，哪些书（视频等）对于面试时回答操作系统方便的问题更有帮助？](https://www.v2ex.com/t/678385) ![](assets/new.png)  
-- [2020-06-03-明天选择实习的部门，请问中间件部门和业务部门哪一个在秋招的时候更有利啊?](https://www.v2ex.com/t/678384) ![](assets/new.png)  
-- [2020-06-03-请教大神们，怎么在本地把-PDF-批量处理转成-TXT-格式](https://www.v2ex.com/t/678383) ![](assets/new.png)  
-- [2020-06-03-程序员，是回三线城市江西，还是在上海](https://www.v2ex.com/t/678382) ![](assets/new.png)  
-- [2020-06-03-在线文件-MD5-计算、验证-www.metools.info](https://www.v2ex.com/t/678381) ![](assets/new.png)  
-- [2020-06-03-送妹妹一副无线耳机，-AirPods-2-还是-AirPods-pro？](https://www.v2ex.com/t/678380) ![](assets/new.png)  
-- [2020-06-03-DIY-了一台三屏移动工作站](https://www.v2ex.com/t/678379) ![](assets/new.png)  
+- [2020-06-03-你们都用-eizo-的什么型号？](https://www.v2ex.com/t/678401)  
+- [2020-06-03-写了个-B-站搜索弹幕并提示在进度条上的油猴脚本](https://www.v2ex.com/t/678400)  
+- [2020-06-03-分享-TOP-互联网公司级别及对应薪酬](https://www.v2ex.com/t/678399)  
+- [2020-06-03-用三句话总结你出生到现在的经历和成就！](https://www.v2ex.com/t/678398)  
+- [2020-06-03-请问-windows-下编辑代码，-Linux-下直接可编译运行的最优方案有哪些呀？](https://www.v2ex.com/t/678395)  
+- [2020-06-03-时间管理与日常提醒小工具：报时时钟](https://www.v2ex.com/t/678394)  
+- [2020-06-03-寻求-UI-设计师合作](https://www.v2ex.com/t/678393)  
+- [2020-06-03-深圳有免费的法律援助吗？](https://www.v2ex.com/t/678392)  
+- [2020-06-03-重庆社交-APP-创业公司-主打私有化部署服务+红包对接服务来-1-Java-1-运维-1-IOS](https://www.v2ex.com/t/678391)  
+- [2020-06-03-从-macos-10.15.5-降级到了-10.13.6-的几点感受](https://www.v2ex.com/t/678390)  
+- [2020-06-03-发现一个-p2p-文件传送工具：-ShareDrop-类似苹果的-AirDrop](https://www.v2ex.com/t/678389)  
+- [2020-06-03-帮老爸卖樱桃啦，正宗的烟台大樱桃，好吃不贵。](https://www.v2ex.com/t/678388)  
+- [2020-06-03-iPhone-接收消息提醒延迟是何原因](https://www.v2ex.com/t/678386)  
+- [2020-06-03-从功利一点的角度来看，哪些书（视频等）对于面试时回答操作系统方便的问题更有帮助？](https://www.v2ex.com/t/678385)  
+- [2020-06-03-明天选择实习的部门，请问中间件部门和业务部门哪一个在秋招的时候更有利啊?](https://www.v2ex.com/t/678384)  
+- [2020-06-03-请教大神们，怎么在本地把-PDF-批量处理转成-TXT-格式](https://www.v2ex.com/t/678383)  
+- [2020-06-03-程序员，是回三线城市江西，还是在上海](https://www.v2ex.com/t/678382)  
+- [2020-06-03-在线文件-MD5-计算、验证-www.metools.info](https://www.v2ex.com/t/678381)  
+- [2020-06-03-送妹妹一副无线耳机，-AirPods-2-还是-AirPods-pro？](https://www.v2ex.com/t/678380)  
+- [2020-06-03-DIY-了一台三屏移动工作站](https://www.v2ex.com/t/678379)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,6 +40,7 @@
 - [2020-05-31-Promise/async/Generator实现原理解析](https://www.ershicimi.com/p/a62d09698b568728bfb8147d8e202f80) 
 - [2020-05-29-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/acb63ddde2cf6a1c6b02f8cb51260f33) 
 - [2020-05-24-我和大佬之间差一个JS工具函数大全...](https://www.ershicimi.com/p/5c05c6aaae9e431784dbaea0bd8d004e) 
+- [2020-06-03-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/e6ec2cf5a18df9be3188c8a0c465aa0b) 
 - [2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
 - [2020-05-26-我和大佬之间差一个JS工具函数大全..建议收藏](https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb) 
 - [2020-05-21-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/6a33e1a04d4f90c93d1f71534e7f9690) 

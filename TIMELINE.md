@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-03 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -191,6 +191,7 @@
 - [【前端之巅】2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) 
 - [【前端之巅】2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa) 
 - [【全栈前端精选】2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
 - [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
 - [【前端宇宙】2020-06-03-开发人员各种鄙视链](https://www.ershicimi.com/p/5ace4a02971968a90a11fbbb42077eab) 

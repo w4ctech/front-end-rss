@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 16:30:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-03-韩国中小学返校复课率超七成-防疫形势依旧紧张](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gh2LePjQl6m7hTdF1m8200603&isfromapp=1) 
+- [2020-06-03-美明尼苏达州国民警卫队一人新冠病毒检测呈阳性-全员将检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJU9KJMhPmplAmNlv28s200603&isfromapp=1) 
 - [2020-06-03-世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1) 
 - [2020-06-03-特朗普称共和党大会将更换地点召开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1) 
 - [2020-06-02-美国纽约市长宣布延长宵禁至7日晚](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtingzDz6RdYDmwNJtRH2pT200602&isfromapp=1) 

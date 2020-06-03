@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 07:30:12，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-03-加拿大新增705例新冠肺炎确诊病例-累计92410例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWNGr0tBY3lK9FiHVidX200603&isfromapp=1) ![](assets/new.png)  
+- [2020-06-03-非洲观察丨新冠肺炎疫情对中非关系有何影响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticN2RiG4XDOHE1mkpjCDl200603&isfromapp=1) ![](assets/new.png)  
+- [2020-06-03-加拿大新增705例新冠肺炎确诊病例-累计92410例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWNGr0tBY3lK9FiHVidX200603&isfromapp=1)  
 - [2020-06-02-美国纽约市长宣布延长宵禁至7日晚](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtingzDz6RdYDmwNJtRH2pT200602&isfromapp=1)  
 - [2020-06-02-捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1)  
 - [2020-06-02-巴西里约州州长：该州限制令将延期至6月5日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1)  
 - [2020-06-02-四川新增2例新冠肺炎确诊病例-原为境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1)  
 - [2020-06-02-巴西新冠病毒感染病例超52万例](http://m.weibo.cn/3057540037/4511267430083447)  
-- [2020-06-02-美国新冠病毒感染病例超180万例](http://m.weibo.cn/3057540037/4511257749096046)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -973,7 +973,7 @@
 </summary>
 
 
-- [2020-06-03-iCloud-Drive-文档和桌面数据同步还正常么](https://www.v2ex.com/t/678070) ![](assets/new.png)  
+- [2020-06-03-iCloud-Drive-文档和桌面数据同步还正常么](https://www.v2ex.com/t/678070)  
 - [2020-06-03-程序员可以怎么穿搭?能推荐一些你私藏的优质店铺吗](https://www.v2ex.com/t/678068)  
 - [2020-06-03-经验分享贴-虚拟化请使用-HyperV，它是香的！](https://www.v2ex.com/t/678067)  
 - [2020-06-03-（问题本身已解决）WSL1-长期运行（网络相关？）任务会导致主系统-socket-耗尽？](https://www.v2ex.com/t/678066)  

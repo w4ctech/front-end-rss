@@ -8330,6 +8330,16 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "Chrome DevTools中的这些骚操作，你都知道吗？",
+        "link": "https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58",
+        "date": "2020-06-02"
+      },
+      {
+        "title": "来奇舞团吧，让自己过得快乐一点",
+        "link": "https://www.ershicimi.com/p/714e50112a5c306fffe1ad3b14296399",
+        "date": "2020-06-02"
+      },
+      {
         "title": "未来的JavaScript记录与元组",
         "link": "https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119",
         "date": "2020-06-01"
@@ -15934,6 +15944,56 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "TF1 到 TF2，你的在线推理很可能内存爆炸",
+        "link": "https://toutiao.io/k/59ubs8y",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "爱奇艺业务安全风控体系的建设实践",
+        "link": "https://toutiao.io/k/fcl08or",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "吐血输出：2 万字长文带你细细盘点五种负载均衡策略",
+        "link": "https://toutiao.io/k/slrail7",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "改掉这些坏习惯，还怕写不出健壮的代码？（一）",
+        "link": "https://toutiao.io/k/q0vuccb",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "系统梳理一下锁",
+        "link": "https://toutiao.io/k/vfiq4qu",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "再推荐 5 款私藏的优质 Chrome 插件",
+        "link": "https://toutiao.io/k/mpk8c0l",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "基于 Python 豆瓣自动化测试（二）",
+        "link": "https://toutiao.io/k/k21tlb8",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "手撕 Webpack：HtmlWebpackPlugin 插件使用",
+        "link": "https://toutiao.io/k/yo19a8x",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "[译] 和 iOS 开发聊聊越狱",
+        "link": "https://toutiao.io/k/qststl2",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "SSO 里面的 SAML 和 OIDC 到底讲了啥",
+        "link": "https://toutiao.io/k/5qcndaz",
+        "date": "2020-06-03"
+      },
       {
         "title": "控制理论学习书单推荐",
         "link": "https://toutiao.io/k/gagzqhu",

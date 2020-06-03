@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58) 
 - [2020-05-21-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-05-29-6-个实用的-Code-Review-实践技巧](https://www.ershicimi.com/p/750ee7d3cc3b512e073611c653a1f94b) 
@@ -98,6 +99,8 @@
 - [2020-05-29-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-2你真的会用Chrome-devtool吗?-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13468&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI0MjA2MjE5Ng%3D%3D%26amp%3Bmid%3D2247483694%26amp%3Bidx%3D1%26amp%3Bsn%3D3031d591f834c33f1a27a580821f07ad%26amp%3Bchksm%3De9034735de74ce23fbd6861a12bd4b472b25ef98221e3c7772db7ab7921ca120b0da488a6a5a%26amp%3Btoken%3D1910516074%26amp%3Blang%3Dzh_CN%23rd%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-03-爱奇艺业务安全风控体系的建设实践](https://toutiao.io/k/fcl08or) 
+- [2020-06-03-再推荐-5-款私藏的优质-Chrome-插件](https://toutiao.io/k/mpk8c0l) 
 - [2020-06-03-可以-Postman-也可以-cURL，进来领略下-cURL-的独门绝技](https://toutiao.io/k/thewbql) 
 - [2020-06-02-巧用-Kotlin-反射实现按值取名，调试做到多快好省](https://toutiao.io/k/tpcg5l4) 
 - [2020-06-01-Redis-安全学习小记](https://toutiao.io/k/lswtis9) 

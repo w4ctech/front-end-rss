@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -19,3 +19,4 @@
 - [2020-05-29-机器学习项目复杂繁琐-，该如何构建安全的机器学习环境？](https://www.ershicimi.com/p/ad2fedeb886ae3a8b5e0057cc13d2a0f) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
 - [2020-05-30-前端关于-vscode-的自动保存搭配-eslint-的-autoFix-格式化时有概率把代码搞乱的问题](https://www.v2ex.com/t/677029) 
+- [2020-06-03-手撕-Webpack：HtmlWebpackPlugin-插件使用](https://toutiao.io/k/yo19a8x) 

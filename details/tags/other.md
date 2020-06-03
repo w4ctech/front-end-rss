@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1074,6 +1074,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-06-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/714e50112a5c306fffe1ad3b14296399) 
 - [2020-05-29-奇舞周刊第-351-期：面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/449035f2b0a36e75ba68b4f78e61d7da) 
 - [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0) 
 - [2020-05-22-奇舞周刊第-350-期：前端状态管理设计，优雅与妥协的艺术](https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56) 
@@ -2203,6 +2204,13 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-03-TF1-到-TF2，你的在线推理很可能内存爆炸](https://toutiao.io/k/59ubs8y) 
+- [2020-06-03-吐血输出：2-万字长文带你细细盘点五种负载均衡策略](https://toutiao.io/k/slrail7) 
+- [2020-06-03-改掉这些坏习惯，还怕写不出健壮的代码？（一）](https://toutiao.io/k/q0vuccb) 
+- [2020-06-03-系统梳理一下锁](https://toutiao.io/k/vfiq4qu) 
+- [2020-06-03-基于-Python-豆瓣自动化测试（二）](https://toutiao.io/k/k21tlb8) 
+- [2020-06-03-译-和-iOS-开发聊聊越狱](https://toutiao.io/k/qststl2) 
+- [2020-06-03-SSO-里面的-SAML-和-OIDC-到底讲了啥](https://toutiao.io/k/5qcndaz) 
 - [2020-06-03-控制理论学习书单推荐](https://toutiao.io/k/gagzqhu) 
 - [2020-06-03-译-Kubernetes-治理，你应该知道的](https://toutiao.io/k/ryuzsm7) 
 - [2020-06-03-70-招助你提升用户转化率（下）](https://toutiao.io/k/rsbtea9) 

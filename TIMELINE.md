@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 13:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-03 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -204,6 +204,8 @@
 - [【程序员成长指北】2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
 - [【程序员成长指北】2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
+- [【奇舞周刊】2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58) 
+- [【奇舞周刊】2020-06-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/714e50112a5c306fffe1ad3b14296399) 
 - [【奇舞周刊】2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) 
 - [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
@@ -897,6 +899,16 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-03-TF1-到-TF2，你的在线推理很可能内存爆炸](https://toutiao.io/k/59ubs8y) 
+- [【开发者头条】2020-06-03-爱奇艺业务安全风控体系的建设实践](https://toutiao.io/k/fcl08or) 
+- [【开发者头条】2020-06-03-吐血输出：2-万字长文带你细细盘点五种负载均衡策略](https://toutiao.io/k/slrail7) 
+- [【开发者头条】2020-06-03-改掉这些坏习惯，还怕写不出健壮的代码？（一）](https://toutiao.io/k/q0vuccb) 
+- [【开发者头条】2020-06-03-系统梳理一下锁](https://toutiao.io/k/vfiq4qu) 
+- [【开发者头条】2020-06-03-再推荐-5-款私藏的优质-Chrome-插件](https://toutiao.io/k/mpk8c0l) 
+- [【开发者头条】2020-06-03-基于-Python-豆瓣自动化测试（二）](https://toutiao.io/k/k21tlb8) 
+- [【开发者头条】2020-06-03-手撕-Webpack：HtmlWebpackPlugin-插件使用](https://toutiao.io/k/yo19a8x) 
+- [【开发者头条】2020-06-03-译-和-iOS-开发聊聊越狱](https://toutiao.io/k/qststl2) 
+- [【开发者头条】2020-06-03-SSO-里面的-SAML-和-OIDC-到底讲了啥](https://toutiao.io/k/5qcndaz) 
 - [【开发者头条】2020-06-03-控制理论学习书单推荐](https://toutiao.io/k/gagzqhu) 
 - [【开发者头条】2020-06-03-记一次接口性能优化实践总结：优化接口性能的八个建议](https://toutiao.io/k/7zc4jdv) 
 - [【开发者头条】2020-06-03-译-Kubernetes-治理，你应该知道的](https://toutiao.io/k/ryuzsm7) 

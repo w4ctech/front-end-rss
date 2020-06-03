@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 20:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 22:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-03-沙特新增2171例新冠肺炎确诊病例-累计确诊病例突破九万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuj6uw3LgVtIBuaztkkX4200603&isfromapp=1) ![](assets/new.png)  
+- [2020-06-03-国务院联防联控机制联络组推动武汉市继续做好核酸检测和治愈患者康复相关工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5I4pZfffQXu5tXQGFpkz200603&isfromapp=1) ![](assets/new.png)  
 - [2020-06-03-针对驻美留学生：中国驻休斯敦总领事馆发布关于6月4日休斯敦—天津临时航班有关通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0KgeXaqkEngnUfL4dsms200603&isfromapp=1)  
 - [2020-06-03-​比利时新增新冠肺炎确诊病例70例-累计确诊58685例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6VgwymsJl3hcvjFLmsoY200603&isfromapp=1)  
 - [2020-06-03-俄罗斯新增8536例新冠肺炎确诊病例-累计超43万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNEcYkxz4SxXJXv8mggtR200603&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-02-联合国人权事务高级专员：新冠肺炎疫情暴露了长期被忽视的不平等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOwu8pb9PnfrfwCaObm3K200602&isfromapp=1)  
 - [2020-06-02-​印度最大贫民窟新增新冠肺炎确诊病例25例-累计达1830例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1)  
 - [2020-06-02-香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1)  
-- [2020-06-02-为防控疫情-阿联酋首都将实施人员流动限制禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimEvfRo2MtG2YYKApZDPs200602&isfromapp=1)  
-- [2020-06-02-尼日利亚新冠肺炎确诊病例累计达10578例，尼进入放宽限制第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNDuttYIzyPN3pZs8unbO200602&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -982,21 +982,21 @@
 </summary>
 
 
-- [2020-06-03-WebAssembly-周报](https://www.v2ex.com/t/678366) ![](assets/new.png)  
-- [2020-06-03-这里有网易企业邮箱的代理商吗？](https://www.v2ex.com/t/678365) ![](assets/new.png)  
-- [2020-06-03-有没有除去远程连接的多平台单键鼠无缝操作的方案？](https://www.v2ex.com/t/678363) ![](assets/new.png)  
-- [2020-06-03-关于热帖那个手机被偷/抢的帖子](https://www.v2ex.com/t/678362) ![](assets/new.png)  
-- [2020-06-03-迫于豆瓣电影搜索-api-不能用，还有可行脚本吗？](https://www.v2ex.com/t/678360) ![](assets/new.png)  
-- [2020-06-03-习惯了在-mac-上面按-caps-lock-切换英文和中文,改用搜狗输入法后要怎么设置才可以达到类似效果呢?](https://www.v2ex.com/t/678358) ![](assets/new.png)  
-- [2020-06-03-应届生入职一个月要不要离职](https://www.v2ex.com/t/678355) ![](assets/new.png)  
-- [2020-06-03-老铁们，上海工作三年，薪资待遇大约是多少](https://www.v2ex.com/t/678354) ![](assets/new.png)  
-- [2020-06-03-为什么这种新型骗术越来越猖獗了?-不怕当场挨揍吗?](https://www.v2ex.com/t/678352) ![](assets/new.png)  
-- [2020-06-03-请注意，硅谷-AI-外企来抓人啦！](https://www.v2ex.com/t/678350) ![](assets/new.png)  
-- [2020-06-03-成都字节跳动产品研发中心，你在成都落脚最好的地方](https://www.v2ex.com/t/678347) ![](assets/new.png)  
-- [2020-06-03-我在长沙摆地摊月入-10-万，你在写字楼里吹空调焦虑还贷](https://www.v2ex.com/t/678346) ![](assets/new.png)  
-- [2020-06-03-安卓版的-edge-和-macos-版的-edge-登陆同一个账号并没有同步数据啊](https://www.v2ex.com/t/678345) ![](assets/new.png)  
-- [2020-06-03-请教大佬们一个数据库的查询问题](https://www.v2ex.com/t/678344) ![](assets/new.png)  
-- [2020-06-03-犹豫了好久还是请教一下大家闲鱼低价-bose-音响的套路](https://www.v2ex.com/t/678343) ![](assets/new.png)  
+- [2020-06-03-WebAssembly-周报](https://www.v2ex.com/t/678366)  
+- [2020-06-03-这里有网易企业邮箱的代理商吗？](https://www.v2ex.com/t/678365)  
+- [2020-06-03-有没有除去远程连接的多平台单键鼠无缝操作的方案？](https://www.v2ex.com/t/678363)  
+- [2020-06-03-关于热帖那个手机被偷/抢的帖子](https://www.v2ex.com/t/678362)  
+- [2020-06-03-迫于豆瓣电影搜索-api-不能用，还有可行脚本吗？](https://www.v2ex.com/t/678360)  
+- [2020-06-03-习惯了在-mac-上面按-caps-lock-切换英文和中文,改用搜狗输入法后要怎么设置才可以达到类似效果呢?](https://www.v2ex.com/t/678358)  
+- [2020-06-03-应届生入职一个月要不要离职](https://www.v2ex.com/t/678355)  
+- [2020-06-03-老铁们，上海工作三年，薪资待遇大约是多少](https://www.v2ex.com/t/678354)  
+- [2020-06-03-为什么这种新型骗术越来越猖獗了?-不怕当场挨揍吗?](https://www.v2ex.com/t/678352)  
+- [2020-06-03-请注意，硅谷-AI-外企来抓人啦！](https://www.v2ex.com/t/678350)  
+- [2020-06-03-成都字节跳动产品研发中心，你在成都落脚最好的地方](https://www.v2ex.com/t/678347)  
+- [2020-06-03-我在长沙摆地摊月入-10-万，你在写字楼里吹空调焦虑还贷](https://www.v2ex.com/t/678346)  
+- [2020-06-03-安卓版的-edge-和-macos-版的-edge-登陆同一个账号并没有同步数据啊](https://www.v2ex.com/t/678345)  
+- [2020-06-03-请教大佬们一个数据库的查询问题](https://www.v2ex.com/t/678344)  
+- [2020-06-03-犹豫了好久还是请教一下大家闲鱼低价-bose-音响的套路](https://www.v2ex.com/t/678343)  
 - [2020-06-03-如何使用使用-iptables-将特定流量通过局域网内某代理服务器](https://www.v2ex.com/t/678342)  
 - [2020-06-03-kubernetes-上的-mysql-主从模式是否有必要](https://www.v2ex.com/t/678340)  
 - [2020-06-03-域名被注册局锁定，原因是跳转到色情](https://www.v2ex.com/t/678339)  

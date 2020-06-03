@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 01:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 04:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-03-比利时公布解禁第三阶段相关措施-允许民众每周接触家庭成员外10人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1) ![](assets/new.png)  
-- [2020-06-03-马耳他卫生部官员谈“抗疫”成功经验：很早与中国建立联系对话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMf5uoCT39ntOu3VVwset200603&isfromapp=1) ![](assets/new.png)  
+- [2020-06-03-比利时公布解禁第三阶段相关措施-允许民众每周接触家庭成员外10人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1)  
+- [2020-06-03-马耳他卫生部官员谈“抗疫”成功经验：很早与中国建立联系对话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMf5uoCT39ntOu3VVwset200603&isfromapp=1)  
 - [2020-06-03-沙特新增2171例新冠肺炎确诊病例-累计确诊病例突破九万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuj6uw3LgVtIBuaztkkX4200603&isfromapp=1)  
 - [2020-06-03-国务院联防联控机制联络组推动武汉市继续做好核酸检测和治愈患者康复相关工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5I4pZfffQXu5tXQGFpkz200603&isfromapp=1)  
 - [2020-06-03-针对驻美留学生：中国驻休斯敦总领事馆发布关于6月4日休斯敦—天津临时航班有关通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0KgeXaqkEngnUfL4dsms200603&isfromapp=1)  
@@ -983,6 +983,14 @@
 </summary>
 
 
+- [2020-06-04-MIT-6.824-Lab1-并行测试部分如何过？](https://www.v2ex.com/t/678446) ![](assets/new.png)  
+- [2020-06-04-求助，-Dell-Vistro-3681-有什么办法安装虚拟机吗？-ESXI-也好。。。PXE-也好（ーー；）](https://www.v2ex.com/t/678445) ![](assets/new.png)  
+- [2020-06-04-github-也参与进来了](https://www.v2ex.com/t/678444) ![](assets/new.png)  
+- [2020-06-04-求教，-21-届-Java-现在想找实习要学到什么水平](https://www.v2ex.com/t/678443) ![](assets/new.png)  
+- [2020-06-04-新的-Mac-Bundle-出了](https://www.v2ex.com/t/678442) ![](assets/new.png)  
+- [2020-06-04-20200604-午夜俱乐部](https://www.v2ex.com/t/678441) ![](assets/new.png)  
+- [2020-06-04-emui-如何让通知持续显示在锁屏上？](https://www.v2ex.com/t/678440) ![](assets/new.png)  
+- [2020-06-04-字节跳动-深圳北京游戏团队招聘，程序/美术/策划，实习社招均有岗位](https://www.v2ex.com/t/678439) ![](assets/new.png)  
 - [2020-06-04-有没有卖过车老哥的指导一下，想把车卖了。](https://www.v2ex.com/t/678438)  
 - [2020-06-04-juejin-挂掉了？](https://www.v2ex.com/t/678437)  
 - [2020-06-04-饿了么骑手小哥想花-0.5-元吃我价值-16-块的外卖！](https://www.v2ex.com/t/678436)  
@@ -995,14 +1003,6 @@
 - [2020-06-04-有些时候觉得死亡并不可怕](https://www.v2ex.com/t/678429)  
 - [2020-06-04-电脑前面板的-USB-C-能用来干什么？](https://www.v2ex.com/t/678428)  
 - [2020-06-03-MBP-经常性连不上-iPhone-热点，请问各位有解决方法吗？](https://www.v2ex.com/t/678426)  
-- [2020-06-03-Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425)  
-- [2020-06-03-各位生活中有拖延症吗？有什么好的战拖方法可以分享吗？](https://www.v2ex.com/t/678424)  
-- [2020-06-03-听说枸杞养肝明目，求推荐品牌或店铺](https://www.v2ex.com/t/678423)  
-- [2020-06-03-为啥-AQS-里，独占锁的释放里，是判断-h.waitStatus-!=-0-而不是-h.waitStatus-==-SIGNAL-呢](https://www.v2ex.com/t/678422)  
-- [2020-06-03-有平安的大佬可以内推大数据开发的没？](https://www.v2ex.com/t/678421)  
-- [2020-06-03-新加坡-Shopee-直招基础设施开发，后台开发和-SRE！随时同步面试进度！](https://www.v2ex.com/t/678420)  
-- [2020-06-03-搜狗拼音现在会在-Win10-右下角生成一个像-QQ-那样的闪烁图标，打开就是浏览器打开，根本没有点击“不再弹出”的地方](https://www.v2ex.com/t/678419)  
-- [2020-06-03-做了个资源搜索引擎，想学习编程的同学可以来这找资料](https://www.v2ex.com/t/678418)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

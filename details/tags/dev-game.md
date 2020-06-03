@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 04:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,6 +27,7 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-06-04-字节跳动-深圳北京游戏团队招聘，程序/美术/策划，实习社招均有岗位](https://www.v2ex.com/t/678439) 
 - [2020-06-03-《全面战争传奇：特洛伊》首发-epic-，发售首日即可免费领取游戏！](https://www.v2ex.com/t/678168) 
 - [2020-06-03-最近入手了-PS4，求游戏推荐~](https://www.v2ex.com/t/678113) 
 - [2020-06-03-纯玩游戏，-3700x+2070s-和-3600+2080s，哪个好？](https://www.v2ex.com/t/678099) 

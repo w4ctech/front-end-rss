@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 04:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-04-中东疫情观察丨多国放松防控促经济-恐面临疫情反复风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijktG27CHGIjtZrZUsf5m200604&isfromapp=1) 
 - [2020-06-03-比利时公布解禁第三阶段相关措施-允许民众每周接触家庭成员外10人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1) 
 - [2020-06-03-马耳他卫生部官员谈“抗疫”成功经验：很早与中国建立联系对话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMf5uoCT39ntOu3VVwset200603&isfromapp=1) 
 - [2020-06-03-国务院联防联控机制联络组推动武汉市继续做好核酸检测和治愈患者康复相关工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5I4pZfffQXu5tXQGFpkz200603&isfromapp=1) 
@@ -1237,6 +1238,10 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-04-个人感觉-iPad-Pro-12.9-尺寸对于-MarginNote-来说正好](https://www.v2ex.com/t/678453) 
+- [2020-06-04-请问问美国签证中心的面谈预约如果我取消超过三次是需要重新缴费的吗，我之前申请加急被拒了，但是他说每一...](https://www.v2ex.com/t/678452) 
+- [2020-06-04-前端工程师也能给火箭写代码了🚀](https://www.v2ex.com/t/678449) 
+- [2020-06-04-如果有消噪内裤你会买吗](https://www.v2ex.com/t/678447) 
 - [2020-06-04-MIT-6.824-Lab1-并行测试部分如何过？](https://www.v2ex.com/t/678446) 
 - [2020-06-04-求助，-Dell-Vistro-3681-有什么办法安装虚拟机吗？-ESXI-也好。。。PXE-也好（ーー；）](https://www.v2ex.com/t/678445) 
 - [2020-06-04-求教，-21-届-Java-现在想找实习要学到什么水平](https://www.v2ex.com/t/678443) 

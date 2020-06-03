@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-03 23:30:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 01:00:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -240,6 +240,7 @@
 - [【掘金前端】Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71)
 - [【掘金前端】使用-Flutter-绘制图表（一）柱状图📊](https://juejin.im/post/5ed6195151882542eb3ee75b)
 - [【掘金前端】Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4)
+- [【V2EX】Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425)
 - [【技术头条】Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】从无到有，闲鱼-Flutter-一体化演进之路](https://toutiao.io/k/638kmo3)
 - [【开发者头条】Flutter：利用-ClipPath-实现任意形状-Widget](https://toutiao.io/k/wsf5d2l)
@@ -584,6 +585,7 @@
 - [【掘金前端】关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】有类似于-github-gitee-coding-gitlab-部署静态网站的吗？](https://www.v2ex.com/t/678431)
 - [【V2EX】写了个-GitHub-Action-帮助有多个域名,甚至在不同服务商的自动化批量申请证书工作流.](https://www.v2ex.com/t/678176)
 - [【V2EX】VS-Code-畅游-Github-的新方式：-Remote-Github](https://www.v2ex.com/t/677345)
 - [【V2EX】用-GitHub-的-issues-做工单系统咋样？](https://www.v2ex.com/t/677285)
@@ -591,7 +593,6 @@
 - [【V2EX】罗技（Logitech）iK1053-iPad-蓝牙键盘，-479-元，好用吗？](https://www.v2ex.com/t/676848)
 - [【V2EX】GitHub-换新图标了](https://www.v2ex.com/t/676594)
 - [【技术头条】Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

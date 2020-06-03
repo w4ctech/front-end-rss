@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 23:30:16，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 01:00:11，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -801,11 +801,11 @@
 </summary>
 
 
-- [2020-06-03-美团凶猛：市值破千亿，顶3个百度、1.6个京东，万亿小目标还会远吗？](https://www.ershicimi.com/p/d4874c247ab4d99da568b0cd55db4c33) ![](assets/new.png)  
-- [2020-06-03-刚刚晋升为-Apache-顶级项目的-Hudi-如何在数据湖上玩转增量处理](https://www.ershicimi.com/p/1fde56e82cb9778efcaa8c9f3d6a55e4) ![](assets/new.png)  
-- [2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249) ![](assets/new.png)  
-- [2020-06-03-C语言太复杂？CUDA-Python也能实现并行计算加速！|-Q推荐](https://www.ershicimi.com/p/d77b4b0e3b5669826e0c7e87bd1833a0) ![](assets/new.png)  
-- [2020-06-03-Sign-in-with-Apple-被曝零日漏洞，可远程劫持任意用户帐号](https://www.ershicimi.com/p/abd8f88a24dda293921f705c7a0ed1c6) ![](assets/new.png)  
+- [2020-06-03-美团凶猛：市值破千亿，顶3个百度、1.6个京东，万亿小目标还会远吗？](https://www.ershicimi.com/p/d4874c247ab4d99da568b0cd55db4c33)  
+- [2020-06-03-刚刚晋升为-Apache-顶级项目的-Hudi-如何在数据湖上玩转增量处理](https://www.ershicimi.com/p/1fde56e82cb9778efcaa8c9f3d6a55e4)  
+- [2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249)  
+- [2020-06-03-C语言太复杂？CUDA-Python也能实现并行计算加速！|-Q推荐](https://www.ershicimi.com/p/d77b4b0e3b5669826e0c7e87bd1833a0)  
+- [2020-06-03-Sign-in-with-Apple-被曝零日漏洞，可远程劫持任意用户帐号](https://www.ershicimi.com/p/abd8f88a24dda293921f705c7a0ed1c6)  
 - [2020-06-02-从编译原理出发，看看你和资深-coder-差在哪儿？|-极客时间](https://www.ershicimi.com/p/9a308a2609c111631d7437d574bc5816)  
 - [2020-06-02-使用-Kubernetes-最常见的-10-个错误](https://www.ershicimi.com/p/4449226cb42b86dbc67c9d5d9cb59187)  
 - [2020-06-02-GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)  
@@ -983,26 +983,26 @@
 </summary>
 
 
-- [2020-06-03-你们都用-eizo-的什么型号？](https://www.v2ex.com/t/678401)  
-- [2020-06-03-写了个-B-站搜索弹幕并提示在进度条上的油猴脚本](https://www.v2ex.com/t/678400)  
-- [2020-06-03-分享-TOP-互联网公司级别及对应薪酬](https://www.v2ex.com/t/678399)  
-- [2020-06-03-用三句话总结你出生到现在的经历和成就！](https://www.v2ex.com/t/678398)  
-- [2020-06-03-请问-windows-下编辑代码，-Linux-下直接可编译运行的最优方案有哪些呀？](https://www.v2ex.com/t/678395)  
-- [2020-06-03-时间管理与日常提醒小工具：报时时钟](https://www.v2ex.com/t/678394)  
-- [2020-06-03-寻求-UI-设计师合作](https://www.v2ex.com/t/678393)  
-- [2020-06-03-深圳有免费的法律援助吗？](https://www.v2ex.com/t/678392)  
-- [2020-06-03-重庆社交-APP-创业公司-主打私有化部署服务+红包对接服务来-1-Java-1-运维-1-IOS](https://www.v2ex.com/t/678391)  
-- [2020-06-03-从-macos-10.15.5-降级到了-10.13.6-的几点感受](https://www.v2ex.com/t/678390)  
-- [2020-06-03-发现一个-p2p-文件传送工具：-ShareDrop-类似苹果的-AirDrop](https://www.v2ex.com/t/678389)  
-- [2020-06-03-帮老爸卖樱桃啦，正宗的烟台大樱桃，好吃不贵。](https://www.v2ex.com/t/678388)  
-- [2020-06-03-iPhone-接收消息提醒延迟是何原因](https://www.v2ex.com/t/678386)  
-- [2020-06-03-从功利一点的角度来看，哪些书（视频等）对于面试时回答操作系统方便的问题更有帮助？](https://www.v2ex.com/t/678385)  
-- [2020-06-03-明天选择实习的部门，请问中间件部门和业务部门哪一个在秋招的时候更有利啊?](https://www.v2ex.com/t/678384)  
-- [2020-06-03-请教大神们，怎么在本地把-PDF-批量处理转成-TXT-格式](https://www.v2ex.com/t/678383)  
-- [2020-06-03-程序员，是回三线城市江西，还是在上海](https://www.v2ex.com/t/678382)  
-- [2020-06-03-在线文件-MD5-计算、验证-www.metools.info](https://www.v2ex.com/t/678381)  
-- [2020-06-03-送妹妹一副无线耳机，-AirPods-2-还是-AirPods-pro？](https://www.v2ex.com/t/678380)  
-- [2020-06-03-DIY-了一台三屏移动工作站](https://www.v2ex.com/t/678379)  
+- [2020-06-04-有没有卖过车老哥的指导一下，想把车卖了。](https://www.v2ex.com/t/678438) ![](assets/new.png)  
+- [2020-06-04-juejin-挂掉了？](https://www.v2ex.com/t/678437) ![](assets/new.png)  
+- [2020-06-04-饿了么骑手小哥想花-0.5-元吃我价值-16-块的外卖！](https://www.v2ex.com/t/678436) ![](assets/new.png)  
+- [2020-06-04-苹果官网有返利活动?](https://www.v2ex.com/t/678435) ![](assets/new.png)  
+- [2020-06-04-个人用户下载-Oracle-应该选择哪个版本？版本间有什么区别吗？](https://www.v2ex.com/t/678434) ![](assets/new.png)  
+- [2020-06-04-众包评测？](https://www.v2ex.com/t/678433) ![](assets/new.png)  
+- [2020-06-04-百度内部云招聘前端开发工程师](https://www.v2ex.com/t/678432) ![](assets/new.png)  
+- [2020-06-04-有类似于-github-gitee-coding-gitlab-部署静态网站的吗？](https://www.v2ex.com/t/678431) ![](assets/new.png)  
+- [2020-06-04-上海张江-Pre-A-AI-产品公司招聘：-Python-技术专家，-5-年+经验，给予股权（0.2%）](https://www.v2ex.com/t/678430) ![](assets/new.png)  
+- [2020-06-04-有些时候觉得死亡并不可怕](https://www.v2ex.com/t/678429) ![](assets/new.png)  
+- [2020-06-04-电脑前面板的-USB-C-能用来干什么？](https://www.v2ex.com/t/678428) ![](assets/new.png)  
+- [2020-06-03-MBP-经常性连不上-iPhone-热点，请问各位有解决方法吗？](https://www.v2ex.com/t/678426) ![](assets/new.png)  
+- [2020-06-03-Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425) ![](assets/new.png)  
+- [2020-06-03-各位生活中有拖延症吗？有什么好的战拖方法可以分享吗？](https://www.v2ex.com/t/678424) ![](assets/new.png)  
+- [2020-06-03-听说枸杞养肝明目，求推荐品牌或店铺](https://www.v2ex.com/t/678423) ![](assets/new.png)  
+- [2020-06-03-为啥-AQS-里，独占锁的释放里，是判断-h.waitStatus-!=-0-而不是-h.waitStatus-==-SIGNAL-呢](https://www.v2ex.com/t/678422) ![](assets/new.png)  
+- [2020-06-03-有平安的大佬可以内推大数据开发的没？](https://www.v2ex.com/t/678421) ![](assets/new.png)  
+- [2020-06-03-新加坡-Shopee-直招基础设施开发，后台开发和-SRE！随时同步面试进度！](https://www.v2ex.com/t/678420) ![](assets/new.png)  
+- [2020-06-03-搜狗拼音现在会在-Win10-右下角生成一个像-QQ-那样的闪烁图标，打开就是浏览器打开，根本没有点击“不再弹出”的地方](https://www.v2ex.com/t/678419) ![](assets/new.png)  
+- [2020-06-03-做了个资源搜索引擎，想学习编程的同学可以来这找资料](https://www.v2ex.com/t/678418) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

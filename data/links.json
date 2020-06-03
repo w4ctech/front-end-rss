@@ -6804,6 +6804,11 @@
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
       {
+        "title": "开发人员各种鄙视链",
+        "link": "https://www.ershicimi.com/p/5ace4a02971968a90a11fbbb42077eab",
+        "date": "2020-06-03"
+      },
+      {
         "title": "这些神仙代码库值得每一个前端开发者收藏",
         "link": "https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288",
         "date": "2020-06-02"
@@ -8911,6 +8916,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "前端进阶算法9：看完这篇，再也不怕堆排序、Top K、中位数问题面试了",
+        "link": "https://juejin.im/post/5ed6eb78e51d45785c694dee",
+        "date": "2020-06-03"
+      },
       {
         "title": "fultter中使用dio实现网络上传总结",
         "link": "https://juejin.im/post/5ed677dbf265da76fe6cd660",

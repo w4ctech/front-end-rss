@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 10:31:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -53,6 +53,7 @@
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-03-vue-有没有一种工具可以快速-copy&paste-一个-vue-示例？](https://www.v2ex.com/t/678133) 
 - [2020-06-02-公司的-vue-代码-全是-html-文件，-没有-vuex-router-，同事一人开发的，看了快两天已一头雾水，该如何是好](https://www.v2ex.com/t/677968) 
 - [2020-06-01-关于-Vue-框架创建项目后，-build-项目时如何无缝对接后端接口的问题](https://www.v2ex.com/t/677546) 
 - [2020-06-01-只会-vue、小程序、uni-app，入职维护-jsp](https://www.v2ex.com/t/677538) 

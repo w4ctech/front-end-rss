@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "特朗普称共和党大会将更换地点召开",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1",
+        "date": "2020-06-03"
+      },
+      {
         "title": "非洲观察丨新冠肺炎疫情对中非关系有何影响",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticN2RiG4XDOHE1mkpjCDl200603&isfromapp=1",
         "date": "2020-06-03"
@@ -8850,6 +8855,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "前端开发进阶手册.pdf",
+        "link": "https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a",
+        "date": "2020-06-03"
+      },
+      {
         "title": "HTTP/3 来了 ！未来可期",
         "link": "https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c",
         "date": "2020-06-02"
@@ -9730,6 +9740,191 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "爱奇艺 | 腾讯视频 | 优酷 | QQ 音乐...98 一年，返 20 京东 E 卡",
+        "link": "https://www.v2ex.com/t/678139",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "大佬们现在 GCP 不能第三方 ssh 直接 root+密码登录了么",
+        "link": "https://www.v2ex.com/t/678138",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "狗东正在让美女直播卖云...",
+        "link": "https://www.v2ex.com/t/678137",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "[远程工作] Shopify 中国 资深 Ruby 全栈开发",
+        "link": "https://www.v2ex.com/t/678136",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "玛德，腰带突然断了，哪种方式可以快速网购送到公司，在线等，着急！",
+        "link": "https://www.v2ex.com/t/678134",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "vue 有没有一种工具可以快速 copy&paste 一个 vue 示例？",
+        "link": "https://www.v2ex.com/t/678133",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "各路 V 友，自撸自用的网络框架希望有多核 cpu 服务器同好，帮忙压测一下小报文调度性能～",
+        "link": "https://www.v2ex.com/t/678131",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "有在重庆上班的小伙伴嘛",
+        "link": "https://www.v2ex.com/t/678130",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "网关系统是什么。起到什么作用。看了公司部署的项目，好像一个后台项目都配了一个 网关系统",
+        "link": "https://www.v2ex.com/t/678129",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "smart-doc 支持 dubbo rpc 文档的生成了",
+        "link": "https://www.v2ex.com/t/678126",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "Drag and Drop 升级 catalina 无法使用，有无替代插件？",
+        "link": "https://www.v2ex.com/t/678125",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "把别人车蹭了",
+        "link": "https://www.v2ex.com/t/678124",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "Shopify 中国 --资深 Ruby 全栈开发（支持远程）| 全球最受欢迎的电商平台之一「无涯合作招聘」",
+        "link": "https://www.v2ex.com/t/678123",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "为什么 Java 面试对中间件就 redis 喜欢问的深入",
+        "link": "https://www.v2ex.com/t/678121",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "工作选择相关，继续写代码还是回家乡的职业学校??",
+        "link": "https://www.v2ex.com/t/678119",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "mbp 对开发人员的帮助真的有那么大吗？",
+        "link": "https://www.v2ex.com/t/678118",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "坐标深圳，最近牙痛，想去口腔科看看，但是三甲及三级医院都无号可挂，这可怎么办呢？",
+        "link": "https://www.v2ex.com/t/678117",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "百度自己的程序都讨厌他们的 sdk",
+        "link": "https://www.v2ex.com/t/678115",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "mac 16 自动重启",
+        "link": "https://www.v2ex.com/t/678114",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "最近入手了 PS4，求游戏推荐~",
+        "link": "https://www.v2ex.com/t/678113",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "手痒煮了个学费米，大家看看怎么样？",
+        "link": "https://www.v2ex.com/t/678111",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "DIS 一下万能五笔输入法",
+        "link": "https://www.v2ex.com/t/678110",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "[最好上海/杭州] 新人求职 C/C++/ Python 相关岗 或者后端/算法相关",
+        "link": "https://www.v2ex.com/t/678109",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "discuz 怎么监听发帖的操作啊",
+        "link": "https://www.v2ex.com/t/678107",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "做了一个和老板对着干的产品，上班摸鱼的好去处",
+        "link": "https://www.v2ex.com/t/678106",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "iphonex 升级 ios13.5.1 后严重降频...",
+        "link": "https://www.v2ex.com/t/678105",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "[求助] iStat Menus，传感器只显示 SSD，其他都没有",
+        "link": "https://www.v2ex.com/t/678102",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "微信支付订单查询的返参怎么这么奇葩？",
+        "link": "https://www.v2ex.com/t/678101",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "纯玩游戏， 3700x+2070s 和 3600+2080s，哪个好？",
+        "link": "https://www.v2ex.com/t/678099",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "小白问一个关于微信聊天窗口时间的问题",
+        "link": "https://www.v2ex.com/t/678098",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "我想开发一个应用程序。",
+        "link": "https://www.v2ex.com/t/678097",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "一不留神，都快 30 岁了。",
+        "link": "https://www.v2ex.com/t/678096",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "MAC 屏幕上方出现会跳的细灰线",
+        "link": "https://www.v2ex.com/t/678095",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "电商直播的沟通效率真的很高吗？交流方式很错位",
+        "link": "https://www.v2ex.com/t/678093",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "最近几个月看短视频，发现越来越多的人用各种缩写做字幕了",
+        "link": "https://www.v2ex.com/t/678092",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "现在深圳办电信宽带有什么比较优惠的吗？",
+        "link": "https://www.v2ex.com/t/678091",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "开启省电模式，待机一晚 8 小时从 59%的电掉到 2%",
+        "link": "https://www.v2ex.com/t/678090",
+        "date": "2020-06-03"
+      },
       {
         "title": "iCloud Drive 文档和桌面数据同步还正常么",
         "link": "https://www.v2ex.com/t/678070",

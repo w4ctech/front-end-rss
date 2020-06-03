@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-03 10:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 10:31:08。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,10 +412,10 @@
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
 - [【知乎日报】来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)
-- [【V2EX】这样的视频网站，你会支持吗？](https://www.v2ex.com/t/678048)
-- [【V2EX】字节跳动直播电商-部门直招北京/杭州急招-前端/后端/客户端-工程师，真海量-HC！](https://www.v2ex.com/t/678034)
-- [【V2EX】实习-微软亚洲研究院-基于强化学习的实时视频通讯优化实习生](https://www.v2ex.com/t/677916)
-- [【V2EX】视频加密-音频保护工具-Video-DRM-Protection-Pro](https://www.v2ex.com/t/677859)
+- [【V2EX】爱奇艺-|-腾讯视频-|-优酷-|-QQ-音乐...98-一年，返-20-京东-E-卡](https://www.v2ex.com/t/678139)
+- [【V2EX】狗东正在让美女直播卖云...](https://www.v2ex.com/t/678137)
+- [【V2EX】电商直播的沟通效率真的很高吗？交流方式很错位](https://www.v2ex.com/t/678093)
+- [【V2EX】最近几个月看短视频，发现越来越多的人用各种缩写做字幕了](https://www.v2ex.com/t/678092)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -448,10 +448,10 @@
 - [【互联网架构师】不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)
 - [【掘金前端】如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】各路-V-友，自撸自用的网络框架希望有多核-cpu-服务器同好，帮忙压测一下小报文调度性能～](https://www.v2ex.com/t/678131)
 - [【V2EX】有没有可以用来练习-Java-性能监控与调优的小项目，求推荐！](https://www.v2ex.com/t/678054)
 - [【V2EX】实习-微软亚洲研究院-机器学习系统网络优化实习生](https://www.v2ex.com/t/677909)
 - [【V2EX】PG-库，查询优化。](https://www.v2ex.com/t/677846)
-- [【V2EX】GcExcel：比-Apache-POI-速度更快、性能更高](https://www.v2ex.com/t/677824)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

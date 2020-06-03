@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-03 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-03-世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-03-受新冠肺炎疫情影响，圭亚那再次延长防控疫情紧急措施实施时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijJP9VaSvc8WxTvWgDaO0200603&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-03-特朗普称共和党大会将更换地点召开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-03-非洲观察丨新冠肺炎疫情对中非关系有何影响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticN2RiG4XDOHE1mkpjCDl200603&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-03-加拿大新增705例新冠肺炎确诊病例-累计92410例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWNGr0tBY3lK9FiHVidX200603&isfromapp=1) 

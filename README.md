@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-03 11:30:21，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-03 12:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-03-世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1) ![](assets/new.png)  
+- [2020-06-03-受新冠肺炎疫情影响，圭亚那再次延长防控疫情紧急措施实施时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijJP9VaSvc8WxTvWgDaO0200603&isfromapp=1) ![](assets/new.png)  
 - [2020-06-03-特朗普称共和党大会将更换地点召开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1)  
 - [2020-06-03-非洲观察丨新冠肺炎疫情对中非关系有何影响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticN2RiG4XDOHE1mkpjCDl200603&isfromapp=1)  
 - [2020-06-03-加拿大新增705例新冠肺炎确诊病例-累计92410例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWNGr0tBY3lK9FiHVidX200603&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-02-印度新增8171例新冠肺炎确诊病例，累计达198706例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioqXtWOaKjHxL8LPMWJB9200602&isfromapp=1)  
 - [2020-06-02-举报防疫措施不当-日本东京报警电话增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1)  
 - [2020-06-02-武汉中心医院感染新冠肺炎医生胡卫峰今晨去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1)  
-- [2020-06-02-巴西情报机构强调社会隔离重要性-各地仍准备逐步放开隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1)  
-- [2020-06-02-四川新增2例新冠肺炎确诊病例-原为境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -977,26 +977,26 @@
 </summary>
 
 
-- [2020-06-03-小米手机能接网线么？](https://www.v2ex.com/t/678171) ![](assets/new.png)  
-- [2020-06-03-腾讯云有点套路啊~](https://www.v2ex.com/t/678170) ![](assets/new.png)  
-- [2020-06-03-坐标上海,-求个前端的坑。](https://www.v2ex.com/t/678169) ![](assets/new.png)  
-- [2020-06-03-《全面战争传奇：特洛伊》首发-epic-，发售首日即可免费领取游戏！](https://www.v2ex.com/t/678168) ![](assets/new.png)  
-- [2020-06-03-除了苹果手表，现在有什么长续航，合适运动、心率和睡眠的手表推荐？](https://www.v2ex.com/t/678167) ![](assets/new.png)  
-- [2020-06-03-大家保养一般都去-4S-点还是其它连锁的汽车保养机构？](https://www.v2ex.com/t/678166) ![](assets/new.png)  
-- [2020-06-03-一文读懂图数据库-Nebula-Graph-访问控制实现原理](https://www.v2ex.com/t/678165) ![](assets/new.png)  
-- [2020-06-03-PHP-strtotime-1900-年前的日期在不同系统值不一样](https://www.v2ex.com/t/678164) ![](assets/new.png)  
-- [2020-06-03-把用户信息用-hash-存-redis-怎么一次性取出来-禁用-getall-了](https://www.v2ex.com/t/678163) ![](assets/new.png)  
-- [2020-06-03-昨天女朋友手机被偷了，突然觉得-MIUI-的定位和锁定系统是不是可以做的更好](https://www.v2ex.com/t/678162) ![](assets/new.png)  
-- [2020-06-03-作为一家人的共同爱好，腾讯视频-VIP-一直是购买的服务。仅限今天6-月-3-日秒杀价-5-折-99-元-VIP-年卡。自己已购买，之前每月-15-元续费现在关闭了，省了不少...](https://www.v2ex.com/t/678161) ![](assets/new.png)  
-- [2020-06-03-求大佬推荐一款背包-用来放-mbp-16](https://www.v2ex.com/t/678160) ![](assets/new.png)  
-- [2020-06-03-有没有啥好用的日常记账-app?](https://www.v2ex.com/t/678159) ![](assets/new.png)  
-- [2020-06-03-team-viewer-走代理安全吗，以及-wol-唤醒的几个问题](https://www.v2ex.com/t/678157) ![](assets/new.png)  
-- [2020-06-03-写了一个-Jetbrains-插件,-支持-选中-JSON-或者建表语句转换成-struct-定义](https://www.v2ex.com/t/678155) ![](assets/new.png)  
-- [2020-06-03-🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发工程师，平台开发工程师（云平台，中间件，分布式），数据/大数据...](https://www.v2ex.com/t/678154) ![](assets/new.png)  
-- [2020-06-03-上车吗？深圳项目外包群，群里接单，发包都有都有...](https://www.v2ex.com/t/678153) ![](assets/new.png)  
-- [2020-06-03-go-操作-mongodb-执行聚合查询，并根据时间过滤](https://www.v2ex.com/t/678151) ![](assets/new.png)  
-- [2020-06-03-OdysseyRa1n](https://www.v2ex.com/t/678150) ![](assets/new.png)  
-- [2020-06-03-内推&自荐-字节跳动-懂车帝-后端开发工程师](https://www.v2ex.com/t/678149) ![](assets/new.png)  
+- [2020-06-03-小米手机能接网线么？](https://www.v2ex.com/t/678171)  
+- [2020-06-03-腾讯云有点套路啊~](https://www.v2ex.com/t/678170)  
+- [2020-06-03-坐标上海,-求个前端的坑。](https://www.v2ex.com/t/678169)  
+- [2020-06-03-《全面战争传奇：特洛伊》首发-epic-，发售首日即可免费领取游戏！](https://www.v2ex.com/t/678168)  
+- [2020-06-03-除了苹果手表，现在有什么长续航，合适运动、心率和睡眠的手表推荐？](https://www.v2ex.com/t/678167)  
+- [2020-06-03-大家保养一般都去-4S-点还是其它连锁的汽车保养机构？](https://www.v2ex.com/t/678166)  
+- [2020-06-03-一文读懂图数据库-Nebula-Graph-访问控制实现原理](https://www.v2ex.com/t/678165)  
+- [2020-06-03-PHP-strtotime-1900-年前的日期在不同系统值不一样](https://www.v2ex.com/t/678164)  
+- [2020-06-03-把用户信息用-hash-存-redis-怎么一次性取出来-禁用-getall-了](https://www.v2ex.com/t/678163)  
+- [2020-06-03-昨天女朋友手机被偷了，突然觉得-MIUI-的定位和锁定系统是不是可以做的更好](https://www.v2ex.com/t/678162)  
+- [2020-06-03-作为一家人的共同爱好，腾讯视频-VIP-一直是购买的服务。仅限今天6-月-3-日秒杀价-5-折-99-元-VIP-年卡。自己已购买，之前每月-15-元续费现在关闭了，省了不少...](https://www.v2ex.com/t/678161)  
+- [2020-06-03-求大佬推荐一款背包-用来放-mbp-16](https://www.v2ex.com/t/678160)  
+- [2020-06-03-有没有啥好用的日常记账-app?](https://www.v2ex.com/t/678159)  
+- [2020-06-03-team-viewer-走代理安全吗，以及-wol-唤醒的几个问题](https://www.v2ex.com/t/678157)  
+- [2020-06-03-写了一个-Jetbrains-插件,-支持-选中-JSON-或者建表语句转换成-struct-定义](https://www.v2ex.com/t/678155)  
+- [2020-06-03-🔥🔥🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发工程师，平台开发工程师（云平台，中间件，分布式），数据/大数据...](https://www.v2ex.com/t/678154)  
+- [2020-06-03-上车吗？深圳项目外包群，群里接单，发包都有都有...](https://www.v2ex.com/t/678153)  
+- [2020-06-03-go-操作-mongodb-执行聚合查询，并根据时间过滤](https://www.v2ex.com/t/678151)  
+- [2020-06-03-OdysseyRa1n](https://www.v2ex.com/t/678150)  
+- [2020-06-03-内推&自荐-字节跳动-懂车帝-后端开发工程师](https://www.v2ex.com/t/678149)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

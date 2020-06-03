@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -30,6 +30,7 @@
 - [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774) 
 - [2020-05-20-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/3ffe5ea768d19808f49f3017f2dec2b9) 
 - [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
+- [2020-06-03-electron打包你的h5应用成桌面应用](https://juejin.im/post/5ed640cc6fb9a0479c56d271) 
 - [2020-06-02-为什么-node-项目的依赖都要放在-node_modules-下，而不整个中心依赖库？](https://www.v2ex.com/t/678007) 
 - [2020-06-01-node:7804-UnhandledPromiseRejectionWarning:-Error:-connect-ETIMEDOUT](https://www.v2ex.com/t/677622) 
 - [2020-06-01-第-2-天-|-用-Node.js-转账-ETH](https://www.v2ex.com/t/677556) 

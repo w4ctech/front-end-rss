@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-03 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -234,6 +234,7 @@
 
 
 
+- [【掘金前端】Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71)
 - [【掘金前端】使用-Flutter-绘制图表（一）柱状图📊](https://juejin.im/post/5ed6195151882542eb3ee75b)
 - [【掘金前端】Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4)
 - [【技术头条】Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

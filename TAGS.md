@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-03 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -413,12 +413,12 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【掘金前端】自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
 - [【知乎日报】来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)
 - [【V2EX】请问-Android-实现类似西瓜视频自动抢福袋的功能是用什么技术](https://www.v2ex.com/t/678337)
 - [【V2EX】ffmpeg-转换-h265-4k-视频的问题，尺寸小于-1280-就-ok！](https://www.v2ex.com/t/678324)
 - [【V2EX】dp-1.4-视频线有推荐的吗？](https://www.v2ex.com/t/678319)
-- [【V2EX】作为一家人的共同爱好，腾讯视频-VIP-一直是购买的服务。仅限今天6-月-3-日秒杀价-5-折-99-元-VIP-年卡。自己已购买，之前每月-15-元续费现在关闭了，省了不少...](https://www.v2ex.com/t/678161)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-03 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-03 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -76,6 +76,8 @@
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
+- [2020-06-03-一文带你了解js数据储存及深复制（深拷贝）与浅复制浅拷贝](https://juejin.im/post/5ed757ea51882543040ae1a6) 
+- [2020-06-03-js的BOM与DOM知识](https://juejin.im/post/5ed76d6a6fb9a047ce7c5bad) 
 - [2020-06-03-正确的将Promise链重构为async函数](https://juejin.im/post/5ed747195188254316148496) 
 - [2020-06-03-2020才开始总结系列一:-防抖、节流](https://juejin.im/post/5ed70dd8518825365d47e3fe) 
 - [2020-06-03-JS避坑-如何优雅地遍历对象](https://juejin.im/post/5ed712f8e51d45783d0eac44) 

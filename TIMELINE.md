@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 10:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 11:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -195,6 +195,9 @@
 - [【前端大全】2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [【前端大全】2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
 - [【前端大全】2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
+- [【前端开发】2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6) 
+- [【前端开发】2020-06-04-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a) 
+- [【前端开发】2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0) 
 - [【前端开发】2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1) 
 - [【前端开发】2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8) 
 - [【前端开发】2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49) 
@@ -1087,6 +1090,12 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa) 
+- [【开发者头条】2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl) 
+- [【开发者头条】2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l) 
+- [【开发者头条】2020-06-04-简单粗暴，容量大，效果好，1750-亿参数的-GPT-3](https://toutiao.io/k/k77k4eb) 
+- [【开发者头条】2020-06-04-Lucene-索引文件的生成（二十）：dvm&&dvd](https://toutiao.io/k/6488alv) 
+- [【开发者头条】2020-06-04-摆摊吧，互联网人！](https://toutiao.io/k/tlmex1a) 
 - [【开发者头条】2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45) 
 - [【开发者头条】2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2) 
 - [【开发者头条】2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz) 

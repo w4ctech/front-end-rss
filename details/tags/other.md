@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 10:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 11:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -953,6 +953,8 @@
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
 - [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
+- [2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6) 
+- [2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0) 
 - [2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1) 
 - [2020-05-30-NLP工程师平均月薪3W起，如何从文本情感分析入坑NLP？](https://www.ershicimi.com/p/bc4f6d7abfb46f19511864a08c2d09f1) 
 - [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477) 
@@ -2339,6 +2341,12 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa) 
+- [2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl) 
+- [2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l) 
+- [2020-06-04-简单粗暴，容量大，效果好，1750-亿参数的-GPT-3](https://toutiao.io/k/k77k4eb) 
+- [2020-06-04-Lucene-索引文件的生成（二十）：dvm&&dvd](https://toutiao.io/k/6488alv) 
+- [2020-06-04-摆摊吧，互联网人！](https://toutiao.io/k/tlmex1a) 
 - [2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45) 
 - [2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz) 
 - [2020-06-04-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/fhfbmiv) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-04 10:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 11:00:14。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -308,6 +308,7 @@
 - [【前端早读课】【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)
 - [【前端大全】JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37)
 - [【前端大全】JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/489386fe087d137fe88a6bc2d4434e13)
+- [【前端开发】JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a)
 - [【前端开发】前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)
 - [【前端开发】如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)
 - [【前端圈】用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f)
@@ -316,7 +317,6 @@
 - [【前端开发博客】阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee)
 - [【前端开发博客】阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce)
 - [【前端大学】javascript-近乎神话般的概念：闭包](https://www.ershicimi.com/p/0181385d9f9f88c56b3f566a71c20d64)
-- [【前端大学】JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/03bfc1404951fdd4edd89eae1b1b605e)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

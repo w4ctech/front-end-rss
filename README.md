@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 10:00:22，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 11:00:13，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -275,6 +275,9 @@
 </summary>
 
 
+- [2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6) ![](assets/new.png)  
+- [2020-06-04-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a) ![](assets/new.png)  
+- [2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0) ![](assets/new.png)  
 - [2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1)  
 - [2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8)  
 - [2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49)  
@@ -501,7 +504,7 @@
 </summary>
 
 
-- [2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027) ![](assets/new.png)  
+- [2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027)  
 - [2020-06-03-开发人员各种鄙视链](https://www.ershicimi.com/p/5ace4a02971968a90a11fbbb42077eab)  
 - [2020-06-02-这些神仙代码库值得每一个前端开发者收藏](https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288)  
 - [2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3)  
@@ -984,26 +987,26 @@
 </summary>
 
 
-- [2020-06-04-B-站从此以后就是托马斯小火车的天下了](https://www.v2ex.com/t/678489) ![](assets/new.png)  
-- [2020-06-04-tkinter-用-withdraw-隐藏主界面作为登录原理是否是一个好办法？](https://www.v2ex.com/t/678488) ![](assets/new.png)  
-- [2020-06-04-有没有拼单的网站？](https://www.v2ex.com/t/678487) ![](assets/new.png)  
-- [2020-06-04-Windows-有什么好的电子阅读软件，-EPUB-等](https://www.v2ex.com/t/678486) ![](assets/new.png)  
-- [2020-06-04-618-任务栏小广告，可让我逮住你了](https://www.v2ex.com/t/678485) ![](assets/new.png)  
-- [2020-06-04-夏天到了，-Hei“凤梨”也到来了~性价比高](https://www.v2ex.com/t/678484) ![](assets/new.png)  
-- [2020-06-04-如何隐藏第三方网站的-url](https://www.v2ex.com/t/678482) ![](assets/new.png)  
-- [2020-06-04-打算买个示波器，-Keysight-DSOX1204G-和-Rigol-MSO5104-求推荐](https://www.v2ex.com/t/678481) ![](assets/new.png)  
-- [2020-06-04-PC-版微信小程序如何伪装位置？](https://www.v2ex.com/t/678479) ![](assets/new.png)  
-- [2020-06-04-macbook-插入电源一瞬间发出很大很大的嗡嗡声](https://www.v2ex.com/t/678477) ![](assets/new.png)  
-- [2020-06-04-有没有办法在国区-apple-music-添加-bill-board-之类的榜歌单？](https://www.v2ex.com/t/678475) ![](assets/new.png)  
-- [2020-06-04-microsoft-graph-授权问题](https://www.v2ex.com/t/678474) ![](assets/new.png)  
-- [2020-06-04-Shopee-内推-快来了解下，一年内股价翻倍的公司](https://www.v2ex.com/t/678473) ![](assets/new.png)  
-- [2020-06-04-最近手机好几次提示让更新-apple-id-设置-会是什么问题啊](https://www.v2ex.com/t/678472) ![](assets/new.png)  
-- [2020-06-04-生态社区市场总监（地点：上海/北京），薪水-OPEN，不加班](https://www.v2ex.com/t/678471) ![](assets/new.png)  
-- [2020-06-04-请问-MBP2019-15-寸如何能够流畅播放-VP9-或者-AV1-编码的-8K-60fps-视频](https://www.v2ex.com/t/678468) ![](assets/new.png)  
-- [2020-06-04-为什么觉得-iPad-屏幕-比-MacBook-清晰那么多呢？](https://www.v2ex.com/t/678467) ![](assets/new.png)  
-- [2020-06-04-618-快到了，各种软件、APP-又开始小动作了~](https://www.v2ex.com/t/678466) ![](assets/new.png)  
-- [2020-06-04-近视-200-度左右要不要带眼镜](https://www.v2ex.com/t/678462) ![](assets/new.png)  
-- [2020-06-04-萌新求教，-virtualenv-+-vscode-虚拟环境问题](https://www.v2ex.com/t/678461) ![](assets/new.png)  
+- [2020-06-04-B-站从此以后就是托马斯小火车的天下了](https://www.v2ex.com/t/678489)  
+- [2020-06-04-tkinter-用-withdraw-隐藏主界面作为登录原理是否是一个好办法？](https://www.v2ex.com/t/678488)  
+- [2020-06-04-有没有拼单的网站？](https://www.v2ex.com/t/678487)  
+- [2020-06-04-Windows-有什么好的电子阅读软件，-EPUB-等](https://www.v2ex.com/t/678486)  
+- [2020-06-04-618-任务栏小广告，可让我逮住你了](https://www.v2ex.com/t/678485)  
+- [2020-06-04-夏天到了，-Hei“凤梨”也到来了~性价比高](https://www.v2ex.com/t/678484)  
+- [2020-06-04-如何隐藏第三方网站的-url](https://www.v2ex.com/t/678482)  
+- [2020-06-04-打算买个示波器，-Keysight-DSOX1204G-和-Rigol-MSO5104-求推荐](https://www.v2ex.com/t/678481)  
+- [2020-06-04-PC-版微信小程序如何伪装位置？](https://www.v2ex.com/t/678479)  
+- [2020-06-04-macbook-插入电源一瞬间发出很大很大的嗡嗡声](https://www.v2ex.com/t/678477)  
+- [2020-06-04-有没有办法在国区-apple-music-添加-bill-board-之类的榜歌单？](https://www.v2ex.com/t/678475)  
+- [2020-06-04-microsoft-graph-授权问题](https://www.v2ex.com/t/678474)  
+- [2020-06-04-Shopee-内推-快来了解下，一年内股价翻倍的公司](https://www.v2ex.com/t/678473)  
+- [2020-06-04-最近手机好几次提示让更新-apple-id-设置-会是什么问题啊](https://www.v2ex.com/t/678472)  
+- [2020-06-04-生态社区市场总监（地点：上海/北京），薪水-OPEN，不加班](https://www.v2ex.com/t/678471)  
+- [2020-06-04-请问-MBP2019-15-寸如何能够流畅播放-VP9-或者-AV1-编码的-8K-60fps-视频](https://www.v2ex.com/t/678468)  
+- [2020-06-04-为什么觉得-iPad-屏幕-比-MacBook-清晰那么多呢？](https://www.v2ex.com/t/678467)  
+- [2020-06-04-618-快到了，各种软件、APP-又开始小动作了~](https://www.v2ex.com/t/678466)  
+- [2020-06-04-近视-200-度左右要不要带眼镜](https://www.v2ex.com/t/678462)  
+- [2020-06-04-萌新求教，-virtualenv-+-vscode-虚拟环境问题](https://www.v2ex.com/t/678461)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,6 +1049,12 @@
 </summary>
 
 
+- [2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa) ![](assets/new.png)  
+- [2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl) ![](assets/new.png)  
+- [2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l) ![](assets/new.png)  
+- [2020-06-04-简单粗暴，容量大，效果好，1750-亿参数的-GPT-3](https://toutiao.io/k/k77k4eb) ![](assets/new.png)  
+- [2020-06-04-Lucene-索引文件的生成（二十）：dvm&&dvd](https://toutiao.io/k/6488alv) ![](assets/new.png)  
+- [2020-06-04-摆摊吧，互联网人！](https://toutiao.io/k/tlmex1a) ![](assets/new.png)  
 - [2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45)  
 - [2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2)  
 - [2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz)  
@@ -1060,12 +1069,6 @@
 - [2020-06-04-Flutter-Provider-迄今为止最深、最全、最新的源码分析](https://toutiao.io/k/xx9y4l6)  
 - [2020-06-04-Spark-3.0-自适应查询优化介绍，在运行时加速-Spark-SQL-的执行性能](https://toutiao.io/k/31mutme)  
 - [2020-06-04-ASP.NET-Core-数据保护（Data-Protection-集群场景）（下）](https://toutiao.io/k/dfvfy95)  
-- [2020-06-04-Sula：可能是西湖区最好用的-antd-配置框架](https://toutiao.io/k/prxt5mw)  
-- [2020-06-03-TF1-到-TF2，你的在线推理很可能内存爆炸](https://toutiao.io/k/59ubs8y)  
-- [2020-06-03-爱奇艺业务安全风控体系的建设实践](https://toutiao.io/k/fcl08or)  
-- [2020-06-03-吐血输出：2-万字长文带你细细盘点五种负载均衡策略](https://toutiao.io/k/slrail7)  
-- [2020-06-03-改掉这些坏习惯，还怕写不出健壮的代码？（一）](https://toutiao.io/k/q0vuccb)  
-- [2020-06-03-系统梳理一下锁](https://toutiao.io/k/vfiq4qu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

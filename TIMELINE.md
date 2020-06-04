@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 12:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -184,6 +184,9 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) 
+- [【Vue中文社区】2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb) 
+- [【Vue中文社区】2020-06-03-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d37cc6afd558bacb0d8ca2c7168c4f0d) 
+- [【Vue中文社区】2020-06-03-改善CSS的10种最佳做法](https://www.ershicimi.com/p/96b206c286d6e9db4059467791ffeac1) 
 - [【Vue中文社区】2020-06-02-前端开发进阶手册.pdf](https://www.ershicimi.com/p/e238b880a276e199b89500b50b452f31) 
 - [【Vue中文社区】2020-06-02-阿里巴巴前端面试经验分享](https://www.ershicimi.com/p/7c5ee4e85db75525c34aaef8b0459e5e) 
 - [【Vue中文社区】2020-06-01-十个超级实用的-ES6-特性](https://www.ershicimi.com/p/9845e887c0a78745192e971623536397) 
@@ -224,9 +227,13 @@
 - [【前端宇宙】2020-06-02-这些神仙代码库值得每一个前端开发者收藏](https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288) 
 - [【前端宇宙】2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3) 
 - [【前端宇宙】2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73) 
+- [【前端瓶子君】2020-06-04-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/7a6f7cff7a8abc91917ea2f3526dc19b) 
+- [【前端瓶子君】2020-06-04-Vue-项目性能优化—实践指南（网上最全-/-详细）](https://www.ershicimi.com/p/8db99c8a9123501d21a565b588e8d8ec) 
 - [【前端瓶子君】2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [【前端瓶子君】2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
+- [【程序员成长指北】2020-06-04-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/3b0d627db9b759bd473d3650cbdb432d) 
+- [【程序员成长指北】2020-06-04-Web-上的多种图片技巧](https://www.ershicimi.com/p/697f0386d2aaac7f10a1a0a45fab1b11) 
 - [【程序员成长指北】2020-06-03-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/e6ec2cf5a18df9be3188c8a0c465aa0b) 
 - [【程序员成长指北】2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
@@ -1082,6 +1089,7 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

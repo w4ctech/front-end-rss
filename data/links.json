@@ -5796,6 +5796,21 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "每一个技术人的梦想大概就是能够得到一份大厂的 offer，像阿里、腾讯、字节跳动等各方面要明显优普通",
+        "link": "https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "1000+个项目的10大JavaScript错误（以及如何避免）",
+        "link": "https://www.ershicimi.com/p/d37cc6afd558bacb0d8ca2c7168c4f0d",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "改善CSS的10种最佳做法",
+        "link": "https://www.ershicimi.com/p/96b206c286d6e9db4059467791ffeac1",
+        "date": "2020-06-03"
+      },
+      {
         "title": "前端开发进阶手册.pdf",
         "link": "https://www.ershicimi.com/p/e238b880a276e199b89500b50b452f31",
         "date": "2020-06-02"
@@ -7055,6 +7070,16 @@
     "title": "前端瓶子君",
     "items": [
       {
+        "title": "大厂必备、前端高薪指南！",
+        "link": "https://www.ershicimi.com/p/7a6f7cff7a8abc91917ea2f3526dc19b",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "Vue 项目性能优化—实践指南（网上最全 / 详细）",
+        "link": "https://www.ershicimi.com/p/8db99c8a9123501d21a565b588e8d8ec",
+        "date": "2020-06-04"
+      },
+      {
         "title": "前端进阶算法：看完这篇，再也不怕堆排序、Top K、中位数问题面试了",
         "link": "https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7",
         "date": "2020-06-03"
@@ -7147,6 +7172,16 @@
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
     "items": [
+      {
+        "title": "做前端，如何克服新技术焦虑？",
+        "link": "https://www.ershicimi.com/p/3b0d627db9b759bd473d3650cbdb432d",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "Web 上的多种图片技巧",
+        "link": "https://www.ershicimi.com/p/697f0386d2aaac7f10a1a0a45fab1b11",
+        "date": "2020-06-04"
+      },
       {
         "title": "手写async await的最简实现（20行搞定）！阿里字节面试必考",
         "link": "https://www.ershicimi.com/p/e6ec2cf5a18df9be3188c8a0c465aa0b",
@@ -16742,6 +16777,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "以深度学习为例理解22种设计模式（二）结构型模式 (johnhany.net)",
+        "link": "https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-04"
+      },
       {
         "title": "分享一个新出炉的JVM里不痛不痒的BUG(Attach机制相关) (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 12:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -917,6 +917,7 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb) 
 - [2020-06-02-前端开发进阶手册.pdf](https://www.ershicimi.com/p/e238b880a276e199b89500b50b452f31) 
 - [2020-05-30-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/d9d65c361472cb8be993372fdc7fb500) 
 - [2020-05-27-程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b) 
@@ -1017,6 +1018,7 @@
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16) 
 - [2020-05-20-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/38c66d93c7202b5e4e26a0df6a992ffd) 
 - [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10) 
+- [2020-06-04-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/7a6f7cff7a8abc91917ea2f3526dc19b) 
 - [2020-05-30-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/c33a6794a7299ab672bb8c1bd216413a) 
 - [2020-05-29-24张图，九大数据结构安排得明明白白！](https://www.ershicimi.com/p/42ed7d0f7463e9a8e58831368d6cc344) 
 - [2020-05-28-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7) 
@@ -1024,6 +1026,8 @@
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82) 
 - [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 
 - [2020-05-23-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/2f5e766fa0bcfd8eb8510070c9cfe5b2) 
+- [2020-06-04-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/3b0d627db9b759bd473d3650cbdb432d) 
+- [2020-06-04-Web-上的多种图片技巧](https://www.ershicimi.com/p/697f0386d2aaac7f10a1a0a45fab1b11) 
 - [2020-05-30-7-个前端进大厂的必备的技能，你还缺啥？](https://www.ershicimi.com/p/07b78429882e1b064a2be24d5b020425) 
 - [2020-05-30-前端最佳实践之可维护性](https://www.ershicimi.com/p/40c330c05bfb99695a4eac64a092ed1b) 
 - [2020-05-28-撸羊毛！满400减230的购书活动不要错过哦！](https://www.ershicimi.com/p/137e2df24dc8e32161ec6cbb58908e25) 
@@ -2316,6 +2320,7 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

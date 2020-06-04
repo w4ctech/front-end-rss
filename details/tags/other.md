@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-04-中国贸促会：疫情期间，7274份不可抗力证明对国际合同履约和纠纷解决起到积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTq6Uqc1ts7ZWVNiNjMdx200604&isfromapp=1) 
+- [2020-06-04-篮协：CBA联赛将于6月20日复赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiss0ztFmweUjszVRM4yzX200604&isfromapp=1) 
 - [2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1) 
 - [2020-06-04-中东疫情观察丨多国放松防控促经济-恐面临疫情反复风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijktG27CHGIjtZrZUsf5m200604&isfromapp=1) 
 - [2020-06-03-比利时公布解禁第三阶段相关措施-允许民众每周接触家庭成员外10人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1) 
@@ -1114,6 +1116,9 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-06-04-再见Navicat！-IDEA的这个兄弟真的很香！我粉了...](https://www.ershicimi.com/p/fcbfe6a195115092d8a0e109eb938deb) 
+- [2020-06-04-你还精通MySQL，竟然连bin-log、redo-log都不知道！](https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1) 
+- [2020-06-03-最受欢迎Java数据库访问框架DAO层](https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8) 
 - [2020-06-02-Java-最坑爹的-10-大功能点！](https://www.ershicimi.com/p/be78e00d276c789786c3f93ea760fd7b) 
 - [2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
@@ -2408,6 +2413,11 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-04-全面了解风控数据体系](https://toutiao.io/k/t7p0hfu) 
+- [2020-06-04-Druid-在爱奇艺的实践和技术演进](https://toutiao.io/k/3o7421t) 
+- [2020-06-04-没人比我更懂微服务：Go-微服务框架-Jupiter](https://toutiao.io/k/3epcn24) 
+- [2020-06-04-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/4o2bf22) 
+- [2020-06-04-深入-vite-原理：尤大最新力作到底是如何实现的？](https://toutiao.io/k/2ylpucc) 
 - [2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa) 
 - [2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl) 
 - [2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l) 

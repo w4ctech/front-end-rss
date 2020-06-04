@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "中国贸促会：疫情期间，7274份不可抗力证明对国际合同履约和纠纷解决起到积极作用",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTq6Uqc1ts7ZWVNiNjMdx200604&isfromapp=1",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "篮协：CBA联赛将于6月20日复赛",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiss0ztFmweUjszVRM4yzX200604&isfromapp=1",
+        "date": "2020-06-04"
+      },
+      {
         "title": "​朝鲜中小学开学复课 复课学生均已佩戴口罩",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1",
         "date": "2020-06-04"
@@ -8750,6 +8760,36 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "面试遇到“一问三不知”的，真替他老东家捏把汗",
+        "link": "https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "再见Navicat！ IDEA的这个兄弟真的很香！我粉了...",
+        "link": "https://www.ershicimi.com/p/fcbfe6a195115092d8a0e109eb938deb",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "你还精通MySQL，竟然连bin log、redo log都不知道！",
+        "link": "https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "IntelliJ IDEA 调试技巧，比 Eclipse 强太多了！",
+        "link": "https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "最受欢迎Java数据库访问框架(DAO层)",
+        "link": "https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8",
+        "date": "2020-06-03"
+      },
+      {
+        "title": "Dubbo 2.7.7 发布，FastJson 升级了！",
+        "link": "https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327",
+        "date": "2020-06-03"
+      },
       {
         "title": "2020年只有外包公司给面试机会， Why?",
         "link": "https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416",
@@ -17369,6 +17409,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "全面了解风控数据体系",
+        "link": "https://toutiao.io/k/t7p0hfu",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "Druid 在爱奇艺的实践和技术演进",
+        "link": "https://toutiao.io/k/3o7421t",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "没人比我更懂微服务：Go 微服务框架 Jupiter",
+        "link": "https://toutiao.io/k/3epcn24",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "Service Mesh 高可用在企业级生产中的实践",
+        "link": "https://toutiao.io/k/4o2bf22",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "深入 vite 原理：尤大最新力作到底是如何实现的？",
+        "link": "https://toutiao.io/k/2ylpucc",
+        "date": "2020-06-04"
+      },
       {
         "title": "ES 系列（三）：ES 的数据类型详解",
         "link": "https://toutiao.io/k/b7gtlwa",

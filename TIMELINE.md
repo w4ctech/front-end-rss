@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-中国贸促会：疫情期间，7274份不可抗力证明对国际合同履约和纠纷解决起到积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTq6Uqc1ts7ZWVNiNjMdx200604&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-篮协：CBA联赛将于6月20日复赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiss0ztFmweUjszVRM4yzX200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1) 
@@ -249,6 +251,12 @@
 - [【奇舞周刊】2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) 
 - [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
+- [【互联网架构师】2020-06-04-面试遇到“一问三不知”的，真替他老东家捏把汗](https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358) 
+- [【互联网架构师】2020-06-04-再见Navicat！-IDEA的这个兄弟真的很香！我粉了...](https://www.ershicimi.com/p/fcbfe6a195115092d8a0e109eb938deb) 
+- [【互联网架构师】2020-06-04-你还精通MySQL，竟然连bin-log、redo-log都不知道！](https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1) 
+- [【互联网架构师】2020-06-03-IntelliJ-IDEA-调试技巧，比-Eclipse-强太多了！](https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b) 
+- [【互联网架构师】2020-06-03-最受欢迎Java数据库访问框架DAO层](https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8) 
+- [【互联网架构师】2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327) 
 - [【互联网架构师】2020-06-02-2020年只有外包公司给面试机会，-Why?](https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416) 
 - [【互联网架构师】2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07) 
 - [【互联网架构师】2020-06-02-Java-最坑爹的-10-大功能点！](https://www.ershicimi.com/p/be78e00d276c789786c3f93ea760fd7b) 
@@ -1184,6 +1192,11 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-04-全面了解风控数据体系](https://toutiao.io/k/t7p0hfu) 
+- [【开发者头条】2020-06-04-Druid-在爱奇艺的实践和技术演进](https://toutiao.io/k/3o7421t) 
+- [【开发者头条】2020-06-04-没人比我更懂微服务：Go-微服务框架-Jupiter](https://toutiao.io/k/3epcn24) 
+- [【开发者头条】2020-06-04-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/4o2bf22) 
+- [【开发者头条】2020-06-04-深入-vite-原理：尤大最新力作到底是如何实现的？](https://toutiao.io/k/2ylpucc) 
 - [【开发者头条】2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa) 
 - [【开发者头条】2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl) 
 - [【开发者头条】2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l) 

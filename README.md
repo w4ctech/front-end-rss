@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 06:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-05-加拿大新增641例新冠肺炎确诊病例-累计93726例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOQMlNf9iGJGwWjERYlC200605&isfromapp=1) ![](assets/new.png)  
 - [2020-06-04-专访钟南山院士：中国没有瞒报疫情-我们用事实说话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EFDYt2rPhYANqOongch200604&isfromapp=1)  
 - [2020-06-04-九成国内航班恢复-上海虹桥机场国内航班量环比增长超50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqxj076GMBkKMHE9Gwj9W200604&isfromapp=1)  
 - [2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-04-苏里南新冠肺炎疫情传播加速-将启动全国封锁隔离令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artids2EhwwM7c9W72SMMVdi200604&isfromapp=1)  
 - [2020-06-04-乌拉圭新冠肺炎病例零新增-与巴西政府加强边境地区防疫合作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXS8CROJYd2dG1YGWtnd200604&isfromapp=1)  
 - [2020-06-04-加拿大新增705例新冠肺炎确诊病例-累计93085例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy7gp6gJgf4xv1dmMsDbl200604&isfromapp=1)  
-- [2020-06-04-截至6月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/0dc98090cd1e4c7388b77432fa1db9dc.shtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1001,26 +1001,26 @@
 </summary>
 
 
-- [2020-06-05-冥王峡谷怎么安装-Linux](https://www.v2ex.com/t/678797) ![](assets/new.png)  
-- [2020-06-05-客户给我提了一个奇葩需求，让程序被意外关闭的时候及时回滚数据。](https://www.v2ex.com/t/678796) ![](assets/new.png)  
-- [2020-06-05-程序员最大的幻觉就是以为自己是精英阶层](https://www.v2ex.com/t/678795) ![](assets/new.png)  
-- [2020-06-05-妈妈再也不用担心我的黑苹果配置了](https://www.v2ex.com/t/678794) ![](assets/new.png)  
-- [2020-06-05-大家在这里都是怎么用搜索功能的？](https://www.v2ex.com/t/678793) ![](assets/new.png)  
-- [2020-06-05-深夜来吐一波槽](https://www.v2ex.com/t/678792) ![](assets/new.png)  
-- [2020-06-05-目前-10-代酷睿+B460-主板，黑苹果有坑吗？](https://www.v2ex.com/t/678791) ![](assets/new.png)  
-- [2020-06-05-原生-Android10-难道真没有能用的通话录音软件了吗？以前用-ACR](https://www.v2ex.com/t/678788) ![](assets/new.png)  
-- [2020-06-05-这就是移动宽带吗？-i-了-i-了](https://www.v2ex.com/t/678787) ![](assets/new.png)  
-- [2020-06-05-广东电信-200M，-B-站暂停或者快进都要转圈圈](https://www.v2ex.com/t/678786) ![](assets/new.png)  
-- [2020-06-05-为什么有的前端网页打印时出现的是乱码？](https://www.v2ex.com/t/678784) ![](assets/new.png)  
-- [2020-06-05-求助！关于阿里内推的流程问题](https://www.v2ex.com/t/678782) ![](assets/new.png)  
-- [2020-06-05-如何克服电子产品磨损后带来的心理障碍？](https://www.v2ex.com/t/678781) ![](assets/new.png)  
-- [2020-06-05-迫于没钱。。收个-iPad](https://www.v2ex.com/t/678779) ![](assets/new.png)  
-- [2020-06-05-大四应届，一份建行-offer，一份传统行业-offerc-c#](https://www.v2ex.com/t/678778) ![](assets/new.png)  
-- [2020-06-05-新买的华为荣耀-x10-用不了-google-play，求大佬指点](https://www.v2ex.com/t/678777) ![](assets/new.png)  
-- [2020-06-05-对，还是我，还在努力寻找地表更强的-CityOnRail](https://www.v2ex.com/t/678776) ![](assets/new.png)  
-- [2020-06-05-从找工作的角度看，现在还要不要学-Objective-C-呢？](https://www.v2ex.com/t/678775) ![](assets/new.png)  
-- [2020-06-05-求推荐一款屏幕护眼效果好的手机](https://www.v2ex.com/t/678774) ![](assets/new.png)  
-- [2020-06-05-为什么有些网站很喜欢在-URL-塞一大堆参数？](https://www.v2ex.com/t/678773) ![](assets/new.png)  
+- [2020-06-05-冥王峡谷怎么安装-Linux](https://www.v2ex.com/t/678797)  
+- [2020-06-05-客户给我提了一个奇葩需求，让程序被意外关闭的时候及时回滚数据。](https://www.v2ex.com/t/678796)  
+- [2020-06-05-程序员最大的幻觉就是以为自己是精英阶层](https://www.v2ex.com/t/678795)  
+- [2020-06-05-妈妈再也不用担心我的黑苹果配置了](https://www.v2ex.com/t/678794)  
+- [2020-06-05-大家在这里都是怎么用搜索功能的？](https://www.v2ex.com/t/678793)  
+- [2020-06-05-深夜来吐一波槽](https://www.v2ex.com/t/678792)  
+- [2020-06-05-目前-10-代酷睿+B460-主板，黑苹果有坑吗？](https://www.v2ex.com/t/678791)  
+- [2020-06-05-原生-Android10-难道真没有能用的通话录音软件了吗？以前用-ACR](https://www.v2ex.com/t/678788)  
+- [2020-06-05-这就是移动宽带吗？-i-了-i-了](https://www.v2ex.com/t/678787)  
+- [2020-06-05-广东电信-200M，-B-站暂停或者快进都要转圈圈](https://www.v2ex.com/t/678786)  
+- [2020-06-05-为什么有的前端网页打印时出现的是乱码？](https://www.v2ex.com/t/678784)  
+- [2020-06-05-求助！关于阿里内推的流程问题](https://www.v2ex.com/t/678782)  
+- [2020-06-05-如何克服电子产品磨损后带来的心理障碍？](https://www.v2ex.com/t/678781)  
+- [2020-06-05-迫于没钱。。收个-iPad](https://www.v2ex.com/t/678779)  
+- [2020-06-05-大四应届，一份建行-offer，一份传统行业-offerc-c#](https://www.v2ex.com/t/678778)  
+- [2020-06-05-新买的华为荣耀-x10-用不了-google-play，求大佬指点](https://www.v2ex.com/t/678777)  
+- [2020-06-05-对，还是我，还在努力寻找地表更强的-CityOnRail](https://www.v2ex.com/t/678776)  
+- [2020-06-05-从找工作的角度看，现在还要不要学-Objective-C-呢？](https://www.v2ex.com/t/678775)  
+- [2020-06-05-求推荐一款屏幕护眼效果好的手机](https://www.v2ex.com/t/678774)  
+- [2020-06-05-为什么有些网站很喜欢在-URL-塞一大堆参数？](https://www.v2ex.com/t/678773)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

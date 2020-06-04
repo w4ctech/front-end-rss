@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-贵阳一例新冠肺炎出院确诊病例疑似“复阳”？官方通报：排除复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti49mJwDDXrkwGa7dwcXv6200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-切实为人民健康提供有力保障——习近平总书记在专家学者座谈会上的重要讲话在社会各界引起热烈反响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU20dnXR4KlInTaC3PurZ200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-中央应对新冠肺炎疫情工作领导小组会议要求提升能力精准做好常态化防控-进一步加强疫苗药物和检测试剂研发工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCxL761sWHDHInDPxnaF9200604&isfromapp=1) 

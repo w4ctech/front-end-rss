@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-04 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 10:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -420,9 +420,9 @@
 - [【掘金前端】自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
 - [【知乎日报】来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)
+- [【V2EX】请问-MBP2019-15-寸如何能够流畅播放-VP9-或者-AV1-编码的-8K-60fps-视频](https://www.v2ex.com/t/678468)
 - [【V2EX】今天是我录制股票投资短视频满一个月，求关注求吐槽](https://www.v2ex.com/t/678448)
 - [【V2EX】从功利一点的角度来看，哪些书（视频等）对于面试时回答操作系统方便的问题更有帮助？](https://www.v2ex.com/t/678385)
-- [【V2EX】请问-Android-实现类似西瓜视频自动抢福袋的功能是用什么技术](https://www.v2ex.com/t/678337)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

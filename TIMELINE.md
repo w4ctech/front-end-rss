@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 11:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​墨西哥新增3912例新冠肺炎确诊病例-累计达101238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-苏里南新冠肺炎疫情传播加速-将启动全国封锁隔离令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artids2EhwwM7c9W72SMMVdi200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-乌拉圭新冠肺炎病例零新增-与巴西政府加强边境地区防疫合作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXS8CROJYd2dG1YGWtnd200604&isfromapp=1) 

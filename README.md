@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 11:00:13，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 11:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1) ![](assets/new.png)  
 - [2020-06-04-​墨西哥新增3912例新冠肺炎确诊病例-累计达101238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1)  
 - [2020-06-04-苏里南新冠肺炎疫情传播加速-将启动全国封锁隔离令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artids2EhwwM7c9W72SMMVdi200604&isfromapp=1)  
 - [2020-06-04-乌拉圭新冠肺炎病例零新增-与巴西政府加强边境地区防疫合作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXS8CROJYd2dG1YGWtnd200604&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-03-美明尼苏达州国民警卫队一人新冠病毒检测呈阳性-全员将检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJU9KJMhPmplAmNlv28s200603&isfromapp=1)  
 - [2020-06-03-印度新增新冠肺炎确诊病例8909例-累计确诊超20万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSipAR8ncHyTyKUuXy4rw200603&isfromapp=1)  
 - [2020-06-03-世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1)  
-- [2020-06-03-受新冠肺炎疫情影响，圭亚那再次延长防控疫情紧急措施实施时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijJP9VaSvc8WxTvWgDaO0200603&isfromapp=1)  
-- [2020-06-03-特朗普称共和党大会将更换地点召开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -275,9 +275,9 @@
 </summary>
 
 
-- [2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6) ![](assets/new.png)  
-- [2020-06-04-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a) ![](assets/new.png)  
-- [2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0) ![](assets/new.png)  
+- [2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6)  
+- [2020-06-04-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a)  
+- [2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0)  
 - [2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1)  
 - [2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8)  
 - [2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49)  
@@ -1049,12 +1049,12 @@
 </summary>
 
 
-- [2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa) ![](assets/new.png)  
-- [2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl) ![](assets/new.png)  
-- [2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l) ![](assets/new.png)  
-- [2020-06-04-简单粗暴，容量大，效果好，1750-亿参数的-GPT-3](https://toutiao.io/k/k77k4eb) ![](assets/new.png)  
-- [2020-06-04-Lucene-索引文件的生成（二十）：dvm&&dvd](https://toutiao.io/k/6488alv) ![](assets/new.png)  
-- [2020-06-04-摆摊吧，互联网人！](https://toutiao.io/k/tlmex1a) ![](assets/new.png)  
+- [2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa)  
+- [2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl)  
+- [2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l)  
+- [2020-06-04-简单粗暴，容量大，效果好，1750-亿参数的-GPT-3](https://toutiao.io/k/k77k4eb)  
+- [2020-06-04-Lucene-索引文件的生成（二十）：dvm&&dvd](https://toutiao.io/k/6488alv)  
+- [2020-06-04-摆摊吧，互联网人！](https://toutiao.io/k/tlmex1a)  
 - [2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45)  
 - [2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2)  
 - [2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz)  

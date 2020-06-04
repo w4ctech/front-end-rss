@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 12:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -19,6 +19,7 @@
 - [2020-06-01-关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-06-04-GitHub:我在阿里做技术面试官的一些经验](https://www.v2ex.com/t/678525) 
 - [2020-06-04-github-也参与进来了](https://www.v2ex.com/t/678444) 
 - [2020-06-04-有类似于-github-gitee-coding-gitlab-部署静态网站的吗？](https://www.v2ex.com/t/678431) 
 - [2020-06-03-写了个-GitHub-Action-帮助有多个域名,甚至在不同服务商的自动化批量申请证书工作流.](https://www.v2ex.com/t/678176) 

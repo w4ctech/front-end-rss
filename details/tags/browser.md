@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 12:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -13,6 +13,7 @@
 - [2020-05-26-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74) 
 - [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) 
 - [2020-05-29-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/0804e565a5a749e6781a364b41fdd645) 
+- [2020-06-04-简单聊聊-WebSocket](https://www.ershicimi.com/p/1a63003e4303cc2b5ded5173846ab013) 
 - [2020-06-02-前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/54c42d2df559d5d3bef2df7ef843c839) 
 - [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352) 
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) 

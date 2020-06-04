@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 12:00:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -22,6 +22,7 @@
 - [2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49) 
 - [2020-05-28-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/6cefc7b7fe1df4975b064ca642f12abb) 
 - [2020-05-25-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32) 
+- [2020-06-04-前端面试越来越难，你还在原地踏步？](https://www.ershicimi.com/p/d55f60e513904c427d5c73f528c53734) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2020-05-31-最近面试高级前端工程师的一些感受](https://www.ershicimi.com/p/92df06afc91b976c1f00d0fd120f9af6) 

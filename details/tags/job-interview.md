@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -40,6 +40,7 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-04-第四期德国-IT-岗位招聘之-C++-Software-Developer](https://www.v2ex.com/t/678634) 
 - [2020-06-04-面试时候问“优缺点”，怎么回答](https://www.v2ex.com/t/678603) 
 - [2020-06-04-广州-招聘前端开发实习生](https://www.v2ex.com/t/678599) 
 - [2020-06-04-网易杭州招聘爬虫实习生](https://www.v2ex.com/t/678566) 

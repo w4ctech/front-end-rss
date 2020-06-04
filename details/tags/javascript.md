@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -33,6 +33,7 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) 
 - [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838) 
+- [2020-06-04-手写20行代码实现async-await](https://www.ershicimi.com/p/712340662fe278b3a5c764a511ed5797) 
 - [2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
 - [2020-05-29-工作中常用的JavaScript工具函数](https://www.ershicimi.com/p/4919a2dd80458e365ac18a1e0884a161) 
 - [2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 18:00:21，:rocket: 更新条数: +46， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,8 +28,8 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
-- [前端迷](#前端迷)  
+- [前端之巅](#前端之巅)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-04-​法国2020年国庆日传统阅兵仪式取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOxdsWqU3m5wnHQHLeFiH200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-印尼新增585例新冠肺炎确诊病例-累计达28818例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigeFUmwoMI9k4KuT0Etzg200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-​沙特将对外出不戴口罩的外籍居民处以驱逐出境的惩罚](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTqkokZHXdwfT5gxaxOU7200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-​香港新增5例新冠肺炎确诊病例皆为输入病例-累计确诊1098例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizGbWNX57a1uqRgeqXg4c200604&isfromapp=1) ![](assets/new.png)  
 - [2020-06-04-中国贸促会：疫情期间，7274份不可抗力证明对国际合同履约和纠纷解决起到积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTq6Uqc1ts7ZWVNiNjMdx200604&isfromapp=1)  
 - [2020-06-04-篮协：CBA联赛将于6月20日复赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiss0ztFmweUjszVRM4yzX200604&isfromapp=1)  
 - [2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-03-马耳他卫生部官员谈“抗疫”成功经验：很早与中国建立联系对话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMf5uoCT39ntOu3VVwset200603&isfromapp=1)  
 - [2020-06-03-沙特新增2171例新冠肺炎确诊病例-累计确诊病例突破九万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuj6uw3LgVtIBuaztkkX4200603&isfromapp=1)  
 - [2020-06-03-国务院联防联控机制联络组推动武汉市继续做好核酸检测和治愈患者康复相关工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5I4pZfffQXu5tXQGFpkz200603&isfromapp=1)  
-- [2020-06-03-针对驻美留学生：中国驻休斯敦总领事馆发布关于6月4日休斯敦—天津临时航班有关通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0KgeXaqkEngnUfL4dsms200603&isfromapp=1)  
-- [2020-06-03-​比利时新增新冠肺炎确诊病例70例-累计确诊58685例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6VgwymsJl3hcvjFLmsoY200603&isfromapp=1)  
-- [2020-06-03-俄罗斯新增8536例新冠肺炎确诊病例-累计超43万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNEcYkxz4SxXJXv8mggtR200603&isfromapp=1)  
-- [2020-06-03-韩国中小学返校复课率超七成-防疫形势依旧紧张](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gh2LePjQl6m7hTdF1m8200603&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -402,8 +402,8 @@
 </summary>
 
 
-- [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be) ![](assets/new.png)  
-- [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) ![](assets/new.png)  
+- [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be)  
+- [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a)  
 - [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838)  
 - [2020-06-03-跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7)  
 - [2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9)  
@@ -433,6 +433,10 @@
 </summary>
 
 
+- [2020-06-04-前端开发进阶手册](https://www.ershicimi.com/p/f0695b78aaa515084e5aba27932e23db) ![](assets/new.png)  
+- [2020-06-04-手写20行代码实现async-await](https://www.ershicimi.com/p/712340662fe278b3a5c764a511ed5797) ![](assets/new.png)  
+- [2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) ![](assets/new.png)  
+- [2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14) ![](assets/new.png)  
 - [2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d)  
 - [2020-05-31-redux原理解析，看这篇就够了](https://www.ershicimi.com/p/58f9295e2d55a5ece604c552e37fe058)  
 - [2020-05-30-IT互联网这么火，为什么还有计算机专业毕业生找不到工作？](https://www.ershicimi.com/p/a5f5bc7bfe22c66e4afda0aebef03f7a)  
@@ -997,26 +1001,26 @@
 </summary>
 
 
-- [2020-06-04-字节飞书招人啦！](https://www.v2ex.com/t/678608)  
-- [2020-06-04-微信支付已经可以查询微信支付分了](https://www.v2ex.com/t/678607)  
-- [2020-06-04-京东购物信息被卖，接到诈骗电话，有大佬出面教训一下么？](https://www.v2ex.com/t/678606)  
-- [2020-06-04-你们的-AdMob-还好吗？](https://www.v2ex.com/t/678605)  
-- [2020-06-04-青岛毕业生-2020-应届生，已经网签。但是-5.29-号突然公司决定解散所有技术团队，包括实习生。](https://www.v2ex.com/t/678604)  
-- [2020-06-04-面试时候问“优缺点”，怎么回答](https://www.v2ex.com/t/678603)  
-- [2020-06-04-手机淘宝-待收货-角标显示不正确](https://www.v2ex.com/t/678602)  
-- [2020-06-04-2020-年-6-月，半价-HomePod-是否值得购买？](https://www.v2ex.com/t/678601)  
-- [2020-06-04-广州-招聘前端开发实习生](https://www.v2ex.com/t/678599)  
-- [2020-06-04-现在这个行情，三年-Java-开发，-19k-薪资，算高还是正常水平](https://www.v2ex.com/t/678598)  
-- [2020-06-04-给大佬们请安.......hive-中日跑-2-亿条数据，那么这张表该怎么设计？谢谢了~](https://www.v2ex.com/t/678596)  
-- [2020-06-04-2020-年-6-月，-16-寸-MBP-还值得入手吗？](https://www.v2ex.com/t/678595)  
-- [2020-06-04-这段代码中,位运算,和-byte-是用来做什么的](https://www.v2ex.com/t/678594)  
-- [2020-06-04-知道一个人的手机号-就可以查询他的手机和微信通讯录-这是真的吗](https://www.v2ex.com/t/678592)  
-- [2020-06-04-14-天通关<美团&字节&快手&网易&B-站>2020-算法真题](https://www.v2ex.com/t/678591)  
-- [2020-06-04-关于-apple-的教育优惠，有些问题想要请教](https://www.v2ex.com/t/678589)  
-- [2020-06-04-哪个版本的-Win10-适合装在虚拟机](https://www.v2ex.com/t/678588)  
-- [2020-06-04-50-万的嫁妆是什么概念](https://www.v2ex.com/t/678586)  
-- [2020-06-04-想搭建一个一般家用软路由，有什么好的硬件推荐吗](https://www.v2ex.com/t/678585)  
-- [2020-06-04-Python-接口接口](https://www.v2ex.com/t/678583)  
+- [2020-06-04-排版好啦，麻烦大佬们看下](https://www.v2ex.com/t/678672) ![](assets/new.png)  
+- [2020-06-04-免费车-领取宝塔手机-App-管理服务器一年](https://www.v2ex.com/t/678670) ![](assets/new.png)  
+- [2020-06-04-换了-U2720QM，-Dell-品控一言难尽](https://www.v2ex.com/t/678669) ![](assets/new.png)  
+- [2020-06-04-关于-MacBook-WiFi-蜜汁慢的问题](https://www.v2ex.com/t/678668) ![](assets/new.png)  
+- [2020-06-04-社招&内推-字节跳动-懂车帝-后端开发工程师发展最快的汽车类资讯平台向你招手哦～](https://www.v2ex.com/t/678667) ![](assets/new.png)  
+- [2020-06-04-cap-是啥？分布式锁怎么实现？分布式事务怎么搞？](https://www.v2ex.com/t/678666) ![](assets/new.png)  
+- [2020-06-04-资深工程师们，搜狗输入法的弹出广告有没有好的去除方法？-ShowInfo.exe](https://www.v2ex.com/t/678665) ![](assets/new.png)  
+- [2020-06-04-请教-Android-大佬一个问题-,-app-已经获取到-root-权限-,-如何自动获取动态权限](https://www.v2ex.com/t/678664) ![](assets/new.png)  
+- [2020-06-04-洗衣机金属内胆，感觉衣物很易被磨破](https://www.v2ex.com/t/678663) ![](assets/new.png)  
+- [2020-06-04-对不起，各位老铁们，今天要连续发两个帖子，麻烦看下](https://www.v2ex.com/t/678662) ![](assets/new.png)  
+- [2020-06-04-iPad2018-锁屏状态下莫名其妙发热、导致电量快速耗尽，-iOS12.2，求解决办法。](https://www.v2ex.com/t/678657) ![](assets/new.png)  
+- [2020-06-04-迫于被迫敏捷，被迫流程-KPI-化，问问有没有什么-Jira-的小工具或者助手工具](https://www.v2ex.com/t/678656) ![](assets/new.png)  
+- [2020-06-04-MacBookPro-外接显示器频繁唤醒](https://www.v2ex.com/t/678654) ![](assets/new.png)  
+- [2020-06-04-Java-哪里下源码搭站啊](https://www.v2ex.com/t/678653) ![](assets/new.png)  
+- [2020-06-04-我一直用的都是安卓手机，想体验一下-iPhone-。哪一款算是经典款](https://www.v2ex.com/t/678652) ![](assets/new.png)  
+- [2020-06-04-Tencent-腾讯社招后台海量-hc-等你来投！所有岗位均真实、可靠！职级-3-1-以上！](https://www.v2ex.com/t/678651) ![](assets/new.png)  
+- [2020-06-04-护照已经不能用来破解-12306-行程冲突了](https://www.v2ex.com/t/678650) ![](assets/new.png)  
+- [2020-06-04-想买个-ikbc-W200-静音红轴](https://www.v2ex.com/t/678649) ![](assets/new.png)  
+- [2020-06-04-有出-ipad2019-或-iPad-air3-或-iPad-pro-2018（第三代）的吗？带价来](https://www.v2ex.com/t/678647) ![](assets/new.png)  
+- [2020-06-04-一个-deno-react-app-demo](https://www.v2ex.com/t/678646) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

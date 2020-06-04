@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 14:30:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 15:30:21，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1) ![](assets/new.png)  
 - [2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1)  
 - [2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1)  
 - [2020-06-04-​墨西哥新增3912例新冠肺炎确诊病例-累计达101238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-03-韩国中小学返校复课率超七成-防疫形势依旧紧张](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gh2LePjQl6m7hTdF1m8200603&isfromapp=1)  
 - [2020-06-03-美明尼苏达州国民警卫队一人新冠病毒检测呈阳性-全员将检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFJU9KJMhPmplAmNlv28s200603&isfromapp=1)  
 - [2020-06-03-印度新增新冠肺炎确诊病例8909例-累计确诊超20万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSipAR8ncHyTyKUuXy4rw200603&isfromapp=1)  
-- [2020-06-03-世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -458,8 +458,8 @@
 </summary>
 
 
-- [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da) ![](assets/new.png)  
-- [2020-06-04-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7) ![](assets/new.png)  
+- [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da)  
+- [2020-06-04-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7)  
 - [2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa)  
 - [2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867)  
 - [2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b)  
@@ -997,26 +997,26 @@
 </summary>
 
 
-- [2020-06-04-有没有懂-LevelDB-的大神，问个关于-levelDB-的-cache-的问题](https://www.v2ex.com/t/678578) ![](assets/new.png)  
-- [2020-06-04-关于-EX2780Q、27GL850-这两款显示器的纠结](https://www.v2ex.com/t/678577) ![](assets/new.png)  
-- [2020-06-04-求推荐性价比高些的显示器，需求：程序员家里想买一个显示器方便回家外接笔记本使用。](https://www.v2ex.com/t/678576) ![](assets/new.png)  
-- [2020-06-04-elasticsearch-多字段聚合求助](https://www.v2ex.com/t/678575) ![](assets/new.png)  
-- [2020-06-04-请教大家一个-js-问题：给-scrollTop-赋值在移动端滚动条没有响应](https://www.v2ex.com/t/678574) ![](assets/new.png)  
-- [2020-06-04-小程序里面能不能跳转至聊天界面？](https://www.v2ex.com/t/678571) ![](assets/new.png)  
-- [2020-06-04-「伟途亦可思-3.0.0」加上了手动切换-dark-mod,-加了几种主题颜色，界面加载优化等-~-还没上架，忍不住先发...](https://www.v2ex.com/t/678570) ![](assets/new.png)  
-- [2020-06-04-房屋装修用-POE、AC-一体还是单独买？](https://www.v2ex.com/t/678569) ![](assets/new.png)  
-- [2020-06-04-网易杭州招聘爬虫实习生](https://www.v2ex.com/t/678566) ![](assets/new.png)  
-- [2020-06-04-北京移动-10-元-10G-貌似没有了？](https://www.v2ex.com/t/678564) ![](assets/new.png)  
-- [2020-06-04-开源中国-502-了？](https://www.v2ex.com/t/678562) ![](assets/new.png)  
-- [2020-06-04-pdd-的百亿补贴怎么样，各位买了的都安全下车了吗？](https://www.v2ex.com/t/678561) ![](assets/new.png)  
-- [2020-06-04-宝塔面板-618-组队领-APP-插件，上车上车~](https://www.v2ex.com/t/678560) ![](assets/new.png)  
-- [2020-06-04-手机-Kiwi-浏览器如何扫二维码](https://www.v2ex.com/t/678558) ![](assets/new.png)  
-- [2020-06-04-GitHub-可以开课了](https://www.v2ex.com/t/678557) ![](assets/new.png)  
-- [2020-06-04-预算-1w-左右-主做视频包装-大佬们帮忙看下黑苹果配置？](https://www.v2ex.com/t/678556) ![](assets/new.png)  
-- [2020-06-04-百度移动收录的网址突然成了过去的老域名……](https://www.v2ex.com/t/678554)  
-- [2020-06-04-各位的-Steam-账号准备跑路吗](https://www.v2ex.com/t/678553)  
-- [2020-06-04-飞利浦剃须刀-5-系型号好多,求推荐一款型号](https://www.v2ex.com/t/678552)  
-- [2020-06-04-今天-L-兔-TP-连上几分钟就断网，你们也这样么？](https://www.v2ex.com/t/678551)  
+- [2020-06-04-字节飞书招人啦！](https://www.v2ex.com/t/678608) ![](assets/new.png)  
+- [2020-06-04-微信支付已经可以查询微信支付分了](https://www.v2ex.com/t/678607) ![](assets/new.png)  
+- [2020-06-04-京东购物信息被卖，接到诈骗电话，有大佬出面教训一下么？](https://www.v2ex.com/t/678606) ![](assets/new.png)  
+- [2020-06-04-你们的-AdMob-还好吗？](https://www.v2ex.com/t/678605) ![](assets/new.png)  
+- [2020-06-04-青岛毕业生-2020-应届生，已经网签。但是-5.29-号突然公司决定解散所有技术团队，包括实习生。](https://www.v2ex.com/t/678604) ![](assets/new.png)  
+- [2020-06-04-面试时候问“优缺点”，怎么回答](https://www.v2ex.com/t/678603) ![](assets/new.png)  
+- [2020-06-04-手机淘宝-待收货-角标显示不正确](https://www.v2ex.com/t/678602) ![](assets/new.png)  
+- [2020-06-04-2020-年-6-月，半价-HomePod-是否值得购买？](https://www.v2ex.com/t/678601) ![](assets/new.png)  
+- [2020-06-04-广州-招聘前端开发实习生](https://www.v2ex.com/t/678599) ![](assets/new.png)  
+- [2020-06-04-现在这个行情，三年-Java-开发，-19k-薪资，算高还是正常水平](https://www.v2ex.com/t/678598) ![](assets/new.png)  
+- [2020-06-04-给大佬们请安.......hive-中日跑-2-亿条数据，那么这张表该怎么设计？谢谢了~](https://www.v2ex.com/t/678596) ![](assets/new.png)  
+- [2020-06-04-2020-年-6-月，-16-寸-MBP-还值得入手吗？](https://www.v2ex.com/t/678595) ![](assets/new.png)  
+- [2020-06-04-这段代码中,位运算,和-byte-是用来做什么的](https://www.v2ex.com/t/678594) ![](assets/new.png)  
+- [2020-06-04-知道一个人的手机号-就可以查询他的手机和微信通讯录-这是真的吗](https://www.v2ex.com/t/678592) ![](assets/new.png)  
+- [2020-06-04-14-天通关<美团&字节&快手&网易&B-站>2020-算法真题](https://www.v2ex.com/t/678591) ![](assets/new.png)  
+- [2020-06-04-关于-apple-的教育优惠，有些问题想要请教](https://www.v2ex.com/t/678589) ![](assets/new.png)  
+- [2020-06-04-哪个版本的-Win10-适合装在虚拟机](https://www.v2ex.com/t/678588) ![](assets/new.png)  
+- [2020-06-04-50-万的嫁妆是什么概念](https://www.v2ex.com/t/678586) ![](assets/new.png)  
+- [2020-06-04-想搭建一个一般家用软路由，有什么好的硬件推荐吗](https://www.v2ex.com/t/678585) ![](assets/new.png)  
+- [2020-06-04-Python-接口接口](https://www.v2ex.com/t/678583) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 14:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-04-​墨西哥新增3912例新冠肺炎确诊病例-累计达101238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1) 
@@ -339,6 +340,27 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-04-字节飞书招人啦！](https://www.v2ex.com/t/678608) 
+- [【V2EX】2020-06-04-微信支付已经可以查询微信支付分了](https://www.v2ex.com/t/678607) 
+- [【V2EX】2020-06-04-京东购物信息被卖，接到诈骗电话，有大佬出面教训一下么？](https://www.v2ex.com/t/678606) 
+- [【V2EX】2020-06-04-你们的-AdMob-还好吗？](https://www.v2ex.com/t/678605) 
+- [【V2EX】2020-06-04-青岛毕业生-2020-应届生，已经网签。但是-5.29-号突然公司决定解散所有技术团队，包括实习生。](https://www.v2ex.com/t/678604) 
+- [【V2EX】2020-06-04-面试时候问“优缺点”，怎么回答](https://www.v2ex.com/t/678603) 
+- [【V2EX】2020-06-04-手机淘宝-待收货-角标显示不正确](https://www.v2ex.com/t/678602) 
+- [【V2EX】2020-06-04-2020-年-6-月，半价-HomePod-是否值得购买？](https://www.v2ex.com/t/678601) 
+- [【V2EX】2020-06-04-广州-招聘前端开发实习生](https://www.v2ex.com/t/678599) 
+- [【V2EX】2020-06-04-现在这个行情，三年-Java-开发，-19k-薪资，算高还是正常水平](https://www.v2ex.com/t/678598) 
+- [【V2EX】2020-06-04-给大佬们请安.......hive-中日跑-2-亿条数据，那么这张表该怎么设计？谢谢了~](https://www.v2ex.com/t/678596) 
+- [【V2EX】2020-06-04-2020-年-6-月，-16-寸-MBP-还值得入手吗？](https://www.v2ex.com/t/678595) 
+- [【V2EX】2020-06-04-这段代码中,位运算,和-byte-是用来做什么的](https://www.v2ex.com/t/678594) 
+- [【V2EX】2020-06-04-知道一个人的手机号-就可以查询他的手机和微信通讯录-这是真的吗](https://www.v2ex.com/t/678592) 
+- [【V2EX】2020-06-04-14-天通关<美团&字节&快手&网易&B-站>2020-算法真题](https://www.v2ex.com/t/678591) 
+- [【V2EX】2020-06-04-关于-apple-的教育优惠，有些问题想要请教](https://www.v2ex.com/t/678589) 
+- [【V2EX】2020-06-04-哪个版本的-Win10-适合装在虚拟机](https://www.v2ex.com/t/678588) 
+- [【V2EX】2020-06-04-50-万的嫁妆是什么概念](https://www.v2ex.com/t/678586) 
+- [【V2EX】2020-06-04-想搭建一个一般家用软路由，有什么好的硬件推荐吗](https://www.v2ex.com/t/678585) 
+- [【V2EX】2020-06-04-Python-接口接口](https://www.v2ex.com/t/678583) 
+- [【V2EX】2020-06-04-问一下近视眼手术](https://www.v2ex.com/t/678582) 
 - [【V2EX】2020-06-04-有没有懂-LevelDB-的大神，问个关于-levelDB-的-cache-的问题](https://www.v2ex.com/t/678578) 
 - [【V2EX】2020-06-04-关于-EX2780Q、27GL850-这两款显示器的纠结](https://www.v2ex.com/t/678577) 
 - [【V2EX】2020-06-04-求推荐性价比高些的显示器，需求：程序员家里想买一个显示器方便回家外接笔记本使用。](https://www.v2ex.com/t/678576) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-04-pdd-的百亿补贴怎么样，各位买了的都安全下车了吗？](https://www.v2ex.com/t/678561) 
+- [2020-06-04-手机-Kiwi-浏览器如何扫二维码](https://www.v2ex.com/t/678558) 
 - [2020-06-04-如何隐藏第三方网站的-url](https://www.v2ex.com/t/678482) 
 - [2020-06-04-都-2020-年了，为啥如此重要的网站还只是支持-IE-浏览器](https://www.v2ex.com/t/678451) 
 - [2020-06-03-搜狗拼音现在会在-Win10-右下角生成一个像-QQ-那样的闪烁图标，打开就是浏览器打开，根本没有点击“不再弹出”的地方](https://www.v2ex.com/t/678419) 

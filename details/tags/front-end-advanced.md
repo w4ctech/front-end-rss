@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -31,6 +31,7 @@
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
 - [2020-06-03-前端进阶算法9：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://juejin.im/post/5ed6eb78e51d45785c694dee) 
 - [2020-06-01-前端面试：http专场，你需要懂的知识](https://juejin.im/post/5ed0d289e51d45783d0ea4b7) 
+- [2020-06-04-elasticsearch-多字段聚合求助](https://www.v2ex.com/t/678575) 
 - [2020-06-03-WebAssembly-周报](https://www.v2ex.com/t/678366) 
 - [2020-06-03-九章算法班-正式课程-6/7-开课啦，快抓住最后上车的机会~](https://www.v2ex.com/t/678334) 
 - [2020-06-03-社招-猿辅导在线教育前端/后端/算法研究岗位招人啦！](https://www.v2ex.com/t/678328) 

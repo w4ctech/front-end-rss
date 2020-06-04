@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -988,6 +988,7 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da) 
 - [2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa) 
 - [2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
 - [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519) 
@@ -1245,6 +1246,13 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-04-有没有懂-LevelDB-的大神，问个关于-levelDB-的-cache-的问题](https://www.v2ex.com/t/678578) 
+- [2020-06-04-关于-EX2780Q、27GL850-这两款显示器的纠结](https://www.v2ex.com/t/678577) 
+- [2020-06-04-求推荐性价比高些的显示器，需求：程序员家里想买一个显示器方便回家外接笔记本使用。](https://www.v2ex.com/t/678576) 
+- [2020-06-04-房屋装修用-POE、AC-一体还是单独买？](https://www.v2ex.com/t/678569) 
+- [2020-06-04-北京移动-10-元-10G-貌似没有了？](https://www.v2ex.com/t/678564) 
+- [2020-06-04-开源中国-502-了？](https://www.v2ex.com/t/678562) 
+- [2020-06-04-宝塔面板-618-组队领-APP-插件，上车上车~](https://www.v2ex.com/t/678560) 
 - [2020-06-04-百度移动收录的网址突然成了过去的老域名……](https://www.v2ex.com/t/678554) 
 - [2020-06-04-各位的-Steam-账号准备跑路吗](https://www.v2ex.com/t/678553) 
 - [2020-06-04-飞利浦剃须刀-5-系型号好多,求推荐一款型号](https://www.v2ex.com/t/678552) 

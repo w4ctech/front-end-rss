@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -370,6 +370,14 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-04-某云音乐把播放顺序也砍了吗？](https://www.v2ex.com/t/678752) 
+- [【V2EX】2020-06-04-自建-FreeNAS-一个月的使用体验杂谈](https://www.v2ex.com/t/678751) 
+- [【V2EX】2020-06-04-家里的光猫在客厅，书房墙上有网口，请问家里怎样设置上网?](https://www.v2ex.com/t/678750) 
+- [【V2EX】2020-06-04-朋友天降横财（拆迁），突然问我现在做什么生意好](https://www.v2ex.com/t/678748) 
+- [【V2EX】2020-06-04-关于域名续费问题](https://www.v2ex.com/t/678747) 
+- [【V2EX】2020-06-04-深圳深圳湾前端（React）、-Java-后台招聘](https://www.v2ex.com/t/678746) 
+- [【V2EX】2020-06-04-watch-点击世界环境日挑战奖章的消息就死机重启](https://www.v2ex.com/t/678744) 
+- [【V2EX】2020-06-04-关于-bt-下载的问题、端口堵塞](https://www.v2ex.com/t/678741) 
 - [【V2EX】2020-06-04-618-马上到了，想问京东购买-Magic-keyboard-和-trackpad-值么](https://www.v2ex.com/t/678739) 
 - [【V2EX】2020-06-04-PHPer-毕业两年，恳请大佬指点一下迷津，感谢](https://www.v2ex.com/t/678738) 
 - [【V2EX】2020-06-04-科技园上班的小伙伴都住哪边啊？](https://www.v2ex.com/t/678735) 
@@ -1294,6 +1302,10 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-04-从此免费看-VIP-视频！用-Python-爬虫攻破-VIP-防线-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13499&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSq1Hvmw7UgFjBCWTqqq22A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-04-为啥程序员下班后只关显示器从不关电脑？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13498&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmX-IGacmDKsFTOvhKKFeNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

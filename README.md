@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 23:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 23:30:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,9 +50,9 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -970,14 +970,14 @@
 </summary>
 
 
-- [2020-06-04-北京瘫，上海滩，都不如帮助后浪来摆摊](https://www.ershicimi.com/p/da85251135da6b420014842261b27cc0) ![](assets/new.png)  
-- [2020-06-04-注意到这几件事，你的摆摊生涯就成功了一半](https://www.ershicimi.com/p/8bfea7528cc9722e858ac569f7df9866) ![](assets/new.png)  
-- [2020-06-04-地摊经济现在看起来能成立，实际吃到了-2-个红利](https://www.ershicimi.com/p/17fc20f10dbab3ee4e30951b640576ac) ![](assets/new.png)  
-- [2020-06-04-知乎故事-|-城管眼中的摆摊](https://www.ershicimi.com/p/85af81032ea48e8ab0bb9e974ae1d63a) ![](assets/new.png)  
-- [2020-06-03-知乎好问题：为什么有的人年纪轻轻却「没有上进心，只想躲在舒适区」？](https://www.ershicimi.com/p/ef61af378519d4b7cad96560386f15c8) ![](assets/new.png)  
-- [2020-06-03-为什么中国不推广按钮式红绿灯？](https://www.ershicimi.com/p/7287bc091d3025b70d9cd6d5bc22c261) ![](assets/new.png)  
-- [2020-06-03-你关注的圈子，暴露了你的生活方式](https://www.ershicimi.com/p/700bda93896b354ed6b14f2334266a73) ![](assets/new.png)  
-- [2020-06-03-知乎故事-|-我，和男朋友一起睡，尿床了](https://www.ershicimi.com/p/e3a3040dfbc33447c635be7a3276b0e7) ![](assets/new.png)  
+- [2020-06-04-北京瘫，上海滩，都不如帮助后浪来摆摊](https://www.ershicimi.com/p/da85251135da6b420014842261b27cc0)  
+- [2020-06-04-注意到这几件事，你的摆摊生涯就成功了一半](https://www.ershicimi.com/p/8bfea7528cc9722e858ac569f7df9866)  
+- [2020-06-04-地摊经济现在看起来能成立，实际吃到了-2-个红利](https://www.ershicimi.com/p/17fc20f10dbab3ee4e30951b640576ac)  
+- [2020-06-04-知乎故事-|-城管眼中的摆摊](https://www.ershicimi.com/p/85af81032ea48e8ab0bb9e974ae1d63a)  
+- [2020-06-03-知乎好问题：为什么有的人年纪轻轻却「没有上进心，只想躲在舒适区」？](https://www.ershicimi.com/p/ef61af378519d4b7cad96560386f15c8)  
+- [2020-06-03-为什么中国不推广按钮式红绿灯？](https://www.ershicimi.com/p/7287bc091d3025b70d9cd6d5bc22c261)  
+- [2020-06-03-你关注的圈子，暴露了你的生活方式](https://www.ershicimi.com/p/700bda93896b354ed6b14f2334266a73)  
+- [2020-06-03-知乎故事-|-我，和男朋友一起睡，尿床了](https://www.ershicimi.com/p/e3a3040dfbc33447c635be7a3276b0e7)  
 - [2020-06-02-还记得《庆余年》的超前点播吗？知乎用户把爱奇艺告了，赢了](https://www.ershicimi.com/p/f0eb973282b02f6213eb3b535123ae02)  
 - [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)  
 - [2020-06-02-含泪播种的人一定能含笑收获](https://www.ershicimi.com/p/461d69183f009225f38c8b6112d050ba)  
@@ -1001,6 +1001,14 @@
 </summary>
 
 
+- [2020-06-04-某云音乐把播放顺序也砍了吗？](https://www.v2ex.com/t/678752) ![](assets/new.png)  
+- [2020-06-04-自建-FreeNAS-一个月的使用体验杂谈](https://www.v2ex.com/t/678751) ![](assets/new.png)  
+- [2020-06-04-家里的光猫在客厅，书房墙上有网口，请问家里怎样设置上网?](https://www.v2ex.com/t/678750) ![](assets/new.png)  
+- [2020-06-04-朋友天降横财（拆迁），突然问我现在做什么生意好](https://www.v2ex.com/t/678748) ![](assets/new.png)  
+- [2020-06-04-关于域名续费问题](https://www.v2ex.com/t/678747) ![](assets/new.png)  
+- [2020-06-04-深圳深圳湾前端（React）、-Java-后台招聘](https://www.v2ex.com/t/678746) ![](assets/new.png)  
+- [2020-06-04-watch-点击世界环境日挑战奖章的消息就死机重启](https://www.v2ex.com/t/678744) ![](assets/new.png)  
+- [2020-06-04-关于-bt-下载的问题、端口堵塞](https://www.v2ex.com/t/678741) ![](assets/new.png)  
 - [2020-06-04-618-马上到了，想问京东购买-Magic-keyboard-和-trackpad-值么](https://www.v2ex.com/t/678739)  
 - [2020-06-04-PHPer-毕业两年，恳请大佬指点一下迷津，感谢](https://www.v2ex.com/t/678738)  
 - [2020-06-04-科技园上班的小伙伴都住哪边啊？](https://www.v2ex.com/t/678735)  
@@ -1013,14 +1021,6 @@
 - [2020-06-04-客观讨论一下和领导相处的问题](https://www.v2ex.com/t/678726)  
 - [2020-06-04-花钱去学唱歌,会不会太败家了...](https://www.v2ex.com/t/678725)  
 - [2020-06-04-Android-Jetpack-架构开发组件化应用实战](https://www.v2ex.com/t/678724)  
-- [2020-06-04-北京，硕士，-34，工作-4-年多，安卓-1-年，-web2-年多，前端-1-年多，-Java-，-spring-系，-react-系都可，现在税前年薪-30，是多是少？要不要跳槽？](https://www.v2ex.com/t/678723)  
-- [2020-06-04-西部数码香港高防服务器怎么样啊，和-CF-比哪个更好。](https://www.v2ex.com/t/678722)  
-- [2020-06-04-如何在手机上彻底禁用微信的位置获取？](https://www.v2ex.com/t/678721)  
-- [2020-06-04-对-cdn-工作原理的一点疑惑](https://www.v2ex.com/t/678720)  
-- [2020-06-04-纯萌新写的-Hugo-博客主题最近完工了,-分享一下顺便向大家请教下关于懒加载的问题](https://www.v2ex.com/t/678719)  
-- [2020-06-04-为什么从备用机里面拔下来的硬盘（有系统分区）插到另外一台电脑里面不能打开？](https://www.v2ex.com/t/678718)  
-- [2020-06-04-最近遇到的两件事](https://www.v2ex.com/t/678716)  
-- [2020-06-04-为什么-vue-项目木打包后必须部署在服务器或本地起一个-web-服务才能运行？](https://www.v2ex.com/t/678715)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1032,10 @@
 </summary>
 
 
+- [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-04-从此免费看-VIP-视频！用-Python-爬虫攻破-VIP-防线-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13499&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSq1Hvmw7UgFjBCWTqqq22A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-04-为啥程序员下班后只关显示器从不关电脑？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13498&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmX-IGacmDKsFTOvhKKFeNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1048,10 +1052,6 @@
 - [2020-05-29-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-为批量图片添加外阴影效果-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13482&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F05%2F25%2F164-adding-shadow-effect-to-batch-image%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-从零搭建深度学习框架（二）用Python实现计算图和自动微分-johnhany.net](https://blogread.cn/news/go.php?idItem=13481&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdeep-learning-framework-2-computational-graph-py%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-kotlin协程实战：用协程实现动态权限请求-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13480&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FE-ETqvQ41UjeYMP91jAeuA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-主流的-Python-IDE，你选对了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13479&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjoV6T1pvjQySUFCPmUHwoQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-Chrome-80发布，新特性将对用户产生深远影响-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13478&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFHngcOa56JoslCzhpycJ2g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

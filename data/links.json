@@ -10216,6 +10216,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "某云音乐把播放顺序也砍了吗？",
+        "link": "https://www.v2ex.com/t/678752",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "自建 FreeNAS 一个月的使用体验杂谈",
+        "link": "https://www.v2ex.com/t/678751",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "家里的光猫在客厅，书房墙上有网口，请问家里怎样设置上网?",
+        "link": "https://www.v2ex.com/t/678750",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "朋友天降横财（拆迁），突然问我现在做什么生意好",
+        "link": "https://www.v2ex.com/t/678748",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "关于域名续费问题",
+        "link": "https://www.v2ex.com/t/678747",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "[深圳][深圳湾]前端（React）、 Java 后台招聘",
+        "link": "https://www.v2ex.com/t/678746",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "watch 点击世界环境日挑战奖章的消息就死机重启",
+        "link": "https://www.v2ex.com/t/678744",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "关于 bt 下载的问题、端口堵塞",
+        "link": "https://www.v2ex.com/t/678741",
+        "date": "2020-06-04"
+      },
+      {
         "title": "618 马上到了，想问京东购买 Magic keyboard 和 trackpad 值么",
         "link": "https://www.v2ex.com/t/678739",
         "date": "2020-06-04"
@@ -17802,6 +17842,26 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "一位阿里 P7 的面试经验分享 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "在 Windows 上运行 Linux (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "从此免费看 VIP 视频！用 Python 爬虫攻破 VIP 防线 (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13499&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSq1Hvmw7UgFjBCWTqqq22A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-04"
+      },
+      {
+        "title": "为啥程序员下班后只关显示器从不关电脑？ (mp.weixin.qq.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13498&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmX-IGacmDKsFTOvhKKFeNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-04"
+      },
       {
         "title": "以深度学习为例理解22种设计模式（二）结构型模式 (johnhany.net)",
         "link": "https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

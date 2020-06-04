@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1266,6 +1266,13 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-04-某云音乐把播放顺序也砍了吗？](https://www.v2ex.com/t/678752) 
+- [2020-06-04-自建-FreeNAS-一个月的使用体验杂谈](https://www.v2ex.com/t/678751) 
+- [2020-06-04-家里的光猫在客厅，书房墙上有网口，请问家里怎样设置上网?](https://www.v2ex.com/t/678750) 
+- [2020-06-04-朋友天降横财（拆迁），突然问我现在做什么生意好](https://www.v2ex.com/t/678748) 
+- [2020-06-04-关于域名续费问题](https://www.v2ex.com/t/678747) 
+- [2020-06-04-watch-点击世界环境日挑战奖章的消息就死机重启](https://www.v2ex.com/t/678744) 
+- [2020-06-04-关于-bt-下载的问题、端口堵塞](https://www.v2ex.com/t/678741) 
 - [2020-06-04-618-马上到了，想问京东购买-Magic-keyboard-和-trackpad-值么](https://www.v2ex.com/t/678739) 
 - [2020-06-04-PHPer-毕业两年，恳请大佬指点一下迷津，感谢](https://www.v2ex.com/t/678738) 
 - [2020-06-04-科技园上班的小伙伴都住哪边啊？](https://www.v2ex.com/t/678735) 
@@ -2473,6 +2480,8 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-04-为啥程序员下班后只关显示器从不关电脑？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13498&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmX-IGacmDKsFTOvhKKFeNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

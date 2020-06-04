@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 21:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 22:30:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1)  
 - [2020-06-04-贵阳一例新冠肺炎出院确诊病例疑似“复阳”？官方通报：排除复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti49mJwDDXrkwGa7dwcXv6200604&isfromapp=1)  
 - [2020-06-04-切实为人民健康提供有力保障——习近平总书记在专家学者座谈会上的重要讲话在社会各界引起热烈反响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU20dnXR4KlInTaC3PurZ200604&isfromapp=1)  
 - [2020-06-04-中央应对新冠肺炎疫情工作领导小组会议要求提升能力精准做好常态化防控-进一步加强疫苗药物和检测试剂研发工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCxL761sWHDHInDPxnaF9200604&isfromapp=1)  
@@ -1001,26 +1001,26 @@
 </summary>
 
 
+- [2020-06-04-618-马上到了，想问京东购买-Magic-keyboard-和-trackpad-值么](https://www.v2ex.com/t/678739) ![](assets/new.png)  
+- [2020-06-04-PHPer-毕业两年，恳请大佬指点一下迷津，感谢](https://www.v2ex.com/t/678738) ![](assets/new.png)  
+- [2020-06-04-科技园上班的小伙伴都住哪边啊？](https://www.v2ex.com/t/678735) ![](assets/new.png)  
+- [2020-06-04-最近打算突击通关一批游戏](https://www.v2ex.com/t/678734) ![](assets/new.png)  
+- [2020-06-04-kibana7.7.0-中日志无法实时更新](https://www.v2ex.com/t/678733) ![](assets/new.png)  
+- [2020-06-04-想请教一下如何高效地甄别用户上传数据的唯一性](https://www.v2ex.com/t/678732) ![](assets/new.png)  
+- [2020-06-04-Apple-EPP-员工折扣计划-闲鱼上-是否靠谱](https://www.v2ex.com/t/678731) ![](assets/new.png)  
+- [2020-06-04-长期有效：字节跳动-上海-前端工程师🔥](https://www.v2ex.com/t/678729) ![](assets/new.png)  
+- [2020-06-04-请问如何将手机改造成无情的抖音机器？](https://www.v2ex.com/t/678728) ![](assets/new.png)  
+- [2020-06-04-客观讨论一下和领导相处的问题](https://www.v2ex.com/t/678726) ![](assets/new.png)  
+- [2020-06-04-花钱去学唱歌,会不会太败家了...](https://www.v2ex.com/t/678725) ![](assets/new.png)  
+- [2020-06-04-Android-Jetpack-架构开发组件化应用实战](https://www.v2ex.com/t/678724) ![](assets/new.png)  
+- [2020-06-04-北京，硕士，-34，工作-4-年多，安卓-1-年，-web2-年多，前端-1-年多，-Java-，-spring-系，-react-系都可，现在税前年薪-30，是多是少？要不要跳槽？](https://www.v2ex.com/t/678723) ![](assets/new.png)  
+- [2020-06-04-西部数码香港高防服务器怎么样啊，和-CF-比哪个更好。](https://www.v2ex.com/t/678722) ![](assets/new.png)  
 - [2020-06-04-如何在手机上彻底禁用微信的位置获取？](https://www.v2ex.com/t/678721)  
 - [2020-06-04-对-cdn-工作原理的一点疑惑](https://www.v2ex.com/t/678720)  
 - [2020-06-04-纯萌新写的-Hugo-博客主题最近完工了,-分享一下顺便向大家请教下关于懒加载的问题](https://www.v2ex.com/t/678719)  
 - [2020-06-04-为什么从备用机里面拔下来的硬盘（有系统分区）插到另外一台电脑里面不能打开？](https://www.v2ex.com/t/678718)  
 - [2020-06-04-最近遇到的两件事](https://www.v2ex.com/t/678716)  
 - [2020-06-04-为什么-vue-项目木打包后必须部署在服务器或本地起一个-web-服务才能运行？](https://www.v2ex.com/t/678715)  
-- [2020-06-04-阿里云何时释放酷盘数据？](https://www.v2ex.com/t/678714)  
-- [2020-06-04-golang-面试之协程比线程更轻量级?](https://www.v2ex.com/t/678713)  
-- [2020-06-04-win7-还有人在用吗-？-装-win10-不习惯还是想换回-win7-谁有干净的-oem-合集-iso](https://www.v2ex.com/t/678712)  
-- [2020-06-04-北京丰台科技园招聘-Java-开发工程师](https://www.v2ex.com/t/678711)  
-- [2020-06-04-明基-ScreenBar-Plus-显示器工作卧室宿舍书桌屏幕挂灯护眼智能台灯-这个如何](https://www.v2ex.com/t/678710)  
-- [2020-06-04-房东之前说好不涨租金，签合同的时候临时反悔怎么办](https://www.v2ex.com/t/678708)  
-- [2020-06-04-自动切换-CPU-算法挖当前利润最高的数字货币的矿池，欢迎闲置-CPU-来赚零花钱](https://www.v2ex.com/t/678707)  
-- [2020-06-04-字节跳动内推-抖音研发团队入驻成都，大量-offer-等你-pick](https://www.v2ex.com/t/678706)  
-- [2020-06-04-最近做了一款拙劣的小程序，咖啡百科大全。](https://www.v2ex.com/t/678705)  
-- [2020-06-04-陌陌业务线招人，缺-iOS-高级工程师，最好工作经验-5-年+（不是硬性指标），底下放了岗位职责和要求。-不-996，加班工资该拿拿。其他福利，你们想要啥，就直...](https://www.v2ex.com/t/678704)  
-- [2020-06-04-上海公积金能不能还异地（杭州）的贷款或者定期取出来？](https://www.v2ex.com/t/678703)  
-- [2020-06-04-请问-skype-充值如何取消与“时光谱（gmw.cn）”的绑定？](https://www.v2ex.com/t/678702)  
-- [2020-06-04-老哥们，炒美股如何开户？？](https://www.v2ex.com/t/678701)  
-- [2020-06-04-搜狗广告任务栏图标](https://www.v2ex.com/t/678700)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

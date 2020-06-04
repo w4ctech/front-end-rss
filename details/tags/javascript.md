@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -117,6 +117,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-04-Android-Jetpack-架构开发组件化应用实战](https://www.v2ex.com/t/678724) 
 - [2020-06-04-想搭建一个一般家用软路由，有什么好的硬件推荐吗](https://www.v2ex.com/t/678585) 
 - [2020-06-04-请教大家一个-js-问题：给-scrollTop-赋值在移动端滚动条没有响应](https://www.v2ex.com/t/678574) 
 - [2020-06-04-nestjs-在本地开发时，禁用认证服务？](https://www.v2ex.com/t/678523) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 16:30:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 17:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-04-中国贸促会：疫情期间，7274份不可抗力证明对国际合同履约和纠纷解决起到积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTq6Uqc1ts7ZWVNiNjMdx200604&isfromapp=1) ![](assets/new.png)  
-- [2020-06-04-篮协：CBA联赛将于6月20日复赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiss0ztFmweUjszVRM4yzX200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-中国贸促会：疫情期间，7274份不可抗力证明对国际合同履约和纠纷解决起到积极作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTq6Uqc1ts7ZWVNiNjMdx200604&isfromapp=1)  
+- [2020-06-04-篮协：CBA联赛将于6月20日复赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiss0ztFmweUjszVRM4yzX200604&isfromapp=1)  
 - [2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1)  
 - [2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1)  
 - [2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1)  
@@ -402,6 +402,8 @@
 </summary>
 
 
+- [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be) ![](assets/new.png)  
+- [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) ![](assets/new.png)  
 - [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838)  
 - [2020-06-03-跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7)  
 - [2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9)  
@@ -420,8 +422,6 @@
 - [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f)  
 - [2020-05-27-移动端风头正旺，但我选择开发-PC-端小程序](https://www.ershicimi.com/p/23165ab3e116591bf793395719891d9b)  
 - [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
-- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)  
-- [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -784,12 +784,12 @@
 </summary>
 
 
-- [2020-06-04-面试遇到“一问三不知”的，真替他老东家捏把汗](https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358) ![](assets/new.png)  
-- [2020-06-04-再见Navicat！-IDEA的这个兄弟真的很香！我粉了...](https://www.ershicimi.com/p/fcbfe6a195115092d8a0e109eb938deb) ![](assets/new.png)  
-- [2020-06-04-你还精通MySQL，竟然连bin-log、redo-log都不知道！](https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1) ![](assets/new.png)  
-- [2020-06-03-IntelliJ-IDEA-调试技巧，比-Eclipse-强太多了！](https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b) ![](assets/new.png)  
-- [2020-06-03-最受欢迎Java数据库访问框架DAO层](https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8) ![](assets/new.png)  
-- [2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327) ![](assets/new.png)  
+- [2020-06-04-面试遇到“一问三不知”的，真替他老东家捏把汗](https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358)  
+- [2020-06-04-再见Navicat！-IDEA的这个兄弟真的很香！我粉了...](https://www.ershicimi.com/p/fcbfe6a195115092d8a0e109eb938deb)  
+- [2020-06-04-你还精通MySQL，竟然连bin-log、redo-log都不知道！](https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1)  
+- [2020-06-03-IntelliJ-IDEA-调试技巧，比-Eclipse-强太多了！](https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b)  
+- [2020-06-03-最受欢迎Java数据库访问框架DAO层](https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8)  
+- [2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327)  
 - [2020-06-02-2020年只有外包公司给面试机会，-Why?](https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416)  
 - [2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07)  
 - [2020-06-02-Java-最坑爹的-10-大功能点！](https://www.ershicimi.com/p/be78e00d276c789786c3f93ea760fd7b)  
@@ -1059,11 +1059,11 @@
 </summary>
 
 
-- [2020-06-04-全面了解风控数据体系](https://toutiao.io/k/t7p0hfu) ![](assets/new.png)  
-- [2020-06-04-Druid-在爱奇艺的实践和技术演进](https://toutiao.io/k/3o7421t) ![](assets/new.png)  
-- [2020-06-04-没人比我更懂微服务：Go-微服务框架-Jupiter](https://toutiao.io/k/3epcn24) ![](assets/new.png)  
-- [2020-06-04-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/4o2bf22) ![](assets/new.png)  
-- [2020-06-04-深入-vite-原理：尤大最新力作到底是如何实现的？](https://toutiao.io/k/2ylpucc) ![](assets/new.png)  
+- [2020-06-04-全面了解风控数据体系](https://toutiao.io/k/t7p0hfu)  
+- [2020-06-04-Druid-在爱奇艺的实践和技术演进](https://toutiao.io/k/3o7421t)  
+- [2020-06-04-没人比我更懂微服务：Go-微服务框架-Jupiter](https://toutiao.io/k/3epcn24)  
+- [2020-06-04-Service-Mesh-高可用在企业级生产中的实践](https://toutiao.io/k/4o2bf22)  
+- [2020-06-04-深入-vite-原理：尤大最新力作到底是如何实现的？](https://toutiao.io/k/2ylpucc)  
 - [2020-06-04-ES-系列（三）：ES-的数据类型详解](https://toutiao.io/k/b7gtlwa)  
 - [2020-06-04-现代-C++：右值引用、移动语意、完美转发](https://toutiao.io/k/jmxn4vl)  
 - [2020-06-04-如何建立一套好的软件开发流程？](https://toutiao.io/k/n3e0o0l)  

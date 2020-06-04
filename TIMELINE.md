@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-04 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-04 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1057,6 +1057,21 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45) 
+- [【开发者头条】2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2) 
+- [【开发者头条】2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz) 
+- [【开发者头条】2020-06-04-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/fhfbmiv) 
+- [【开发者头条】2020-06-04-图解-Promise-实现原理（四）：Promise-静态方法实现](https://toutiao.io/k/4zlxgvy) 
+- [【开发者头条】2020-06-04-分享一个新出炉的-JVM-里不痛不痒的-BUG（Attach-机制相关）](https://toutiao.io/k/5ni5k6q) 
+- [【开发者头条】2020-06-04-译-使用-Chrome-DevTools-优化网站速度](https://toutiao.io/k/53q7e2w) 
+- [【开发者头条】2020-06-04-理解-K8s-资源更新机制，从一个-OpenKruise-用户疑问开始](https://toutiao.io/k/ltxnkt3) 
+- [【开发者头条】2020-06-04-“手把手”-的性能优化文章来了](https://toutiao.io/k/nlu6kl1) 
+- [【开发者头条】2020-06-04-GitHub-热点速览-Vol.22：如何打造超级技术栈](https://toutiao.io/k/x2b81nd) 
+- [【开发者头条】2020-06-04-C#-之-LINQ-简析](https://toutiao.io/k/mpbw2hi) 
+- [【开发者头条】2020-06-04-Flutter-Provider-迄今为止最深、最全、最新的源码分析](https://toutiao.io/k/xx9y4l6) 
+- [【开发者头条】2020-06-04-Spark-3.0-自适应查询优化介绍，在运行时加速-Spark-SQL-的执行性能](https://toutiao.io/k/31mutme) 
+- [【开发者头条】2020-06-04-ASP.NET-Core-数据保护（Data-Protection-集群场景）（下）](https://toutiao.io/k/dfvfy95) 
+- [【开发者头条】2020-06-04-Sula：可能是西湖区最好用的-antd-配置框架](https://toutiao.io/k/prxt5mw) 
 - [【开发者头条】2020-06-03-TF1-到-TF2，你的在线推理很可能内存爆炸](https://toutiao.io/k/59ubs8y) 
 - [【开发者头条】2020-06-03-爱奇艺业务安全风控体系的建设实践](https://toutiao.io/k/fcl08or) 
 - [【开发者头条】2020-06-03-吐血输出：2-万字长文带你细细盘点五种负载均衡策略](https://toutiao.io/k/slrail7) 

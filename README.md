@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-04 09:00:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-04 09:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-04-​墨西哥新增3912例新冠肺炎确诊病例-累计达101238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-苏里南新冠肺炎疫情传播加速-将启动全国封锁隔离令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artids2EhwwM7c9W72SMMVdi200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-乌拉圭新冠肺炎病例零新增-与巴西政府加强边境地区防疫合作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXS8CROJYd2dG1YGWtnd200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-加拿大新增705例新冠肺炎确诊病例-累计93085例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy7gp6gJgf4xv1dmMsDbl200604&isfromapp=1) ![](assets/new.png)  
+- [2020-06-04-截至6月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/0dc98090cd1e4c7388b77432fa1db9dc.shtml) ![](assets/new.png)  
 - [2020-06-04-智利新冠肺炎确诊病例破11万-政府呼吁民众自觉遵守居家隔离令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiltUG8wnHSpsMKS7cZ4NE200604&isfromapp=1)  
 - [2020-06-04-中东疫情观察丨多国放松防控促经济-恐面临疫情反复风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijktG27CHGIjtZrZUsf5m200604&isfromapp=1)  
 - [2020-06-03-比利时公布解禁第三阶段相关措施-允许民众每周接触家庭成员外10人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-03-世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1)  
 - [2020-06-03-受新冠肺炎疫情影响，圭亚那再次延长防控疫情紧急措施实施时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijJP9VaSvc8WxTvWgDaO0200603&isfromapp=1)  
 - [2020-06-03-特朗普称共和党大会将更换地点召开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1)  
-- [2020-06-03-非洲观察丨新冠肺炎疫情对中非关系有何影响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticN2RiG4XDOHE1mkpjCDl200603&isfromapp=1)  
-- [2020-06-03-加拿大新增705例新冠肺炎确诊病例-累计92410例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWNGr0tBY3lK9FiHVidX200603&isfromapp=1)  
-- [2020-06-02-美国纽约市长宣布延长宵禁至7日晚](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtingzDz6RdYDmwNJtRH2pT200602&isfromapp=1)  
-- [2020-06-02-捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1)  
-- [2020-06-02-巴西里约州州长：该州限制令将延期至6月5日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,21 +1045,21 @@
 </summary>
 
 
-- [2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45) ![](assets/new.png)  
-- [2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2) ![](assets/new.png)  
-- [2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz) ![](assets/new.png)  
-- [2020-06-04-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/fhfbmiv) ![](assets/new.png)  
-- [2020-06-04-图解-Promise-实现原理（四）：Promise-静态方法实现](https://toutiao.io/k/4zlxgvy) ![](assets/new.png)  
-- [2020-06-04-分享一个新出炉的-JVM-里不痛不痒的-BUG（Attach-机制相关）](https://toutiao.io/k/5ni5k6q) ![](assets/new.png)  
-- [2020-06-04-译-使用-Chrome-DevTools-优化网站速度](https://toutiao.io/k/53q7e2w) ![](assets/new.png)  
-- [2020-06-04-理解-K8s-资源更新机制，从一个-OpenKruise-用户疑问开始](https://toutiao.io/k/ltxnkt3) ![](assets/new.png)  
-- [2020-06-04-“手把手”-的性能优化文章来了](https://toutiao.io/k/nlu6kl1) ![](assets/new.png)  
-- [2020-06-04-GitHub-热点速览-Vol.22：如何打造超级技术栈](https://toutiao.io/k/x2b81nd) ![](assets/new.png)  
-- [2020-06-04-C#-之-LINQ-简析](https://toutiao.io/k/mpbw2hi) ![](assets/new.png)  
-- [2020-06-04-Flutter-Provider-迄今为止最深、最全、最新的源码分析](https://toutiao.io/k/xx9y4l6) ![](assets/new.png)  
-- [2020-06-04-Spark-3.0-自适应查询优化介绍，在运行时加速-Spark-SQL-的执行性能](https://toutiao.io/k/31mutme) ![](assets/new.png)  
-- [2020-06-04-ASP.NET-Core-数据保护（Data-Protection-集群场景）（下）](https://toutiao.io/k/dfvfy95) ![](assets/new.png)  
-- [2020-06-04-Sula：可能是西湖区最好用的-antd-配置框架](https://toutiao.io/k/prxt5mw) ![](assets/new.png)  
+- [2020-06-04-架构师技术图谱，助你早日成为架构师！|-码农周刊第-308-期](https://toutiao.io/k/nqdnr45)  
+- [2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2)  
+- [2020-06-04-为什么-Linux-默认页大小是-4KB](https://toutiao.io/k/e6d34oz)  
+- [2020-06-04-分布式场景下基于重试机制的一致性解决方案](https://toutiao.io/k/fhfbmiv)  
+- [2020-06-04-图解-Promise-实现原理（四）：Promise-静态方法实现](https://toutiao.io/k/4zlxgvy)  
+- [2020-06-04-分享一个新出炉的-JVM-里不痛不痒的-BUG（Attach-机制相关）](https://toutiao.io/k/5ni5k6q)  
+- [2020-06-04-译-使用-Chrome-DevTools-优化网站速度](https://toutiao.io/k/53q7e2w)  
+- [2020-06-04-理解-K8s-资源更新机制，从一个-OpenKruise-用户疑问开始](https://toutiao.io/k/ltxnkt3)  
+- [2020-06-04-“手把手”-的性能优化文章来了](https://toutiao.io/k/nlu6kl1)  
+- [2020-06-04-GitHub-热点速览-Vol.22：如何打造超级技术栈](https://toutiao.io/k/x2b81nd)  
+- [2020-06-04-C#-之-LINQ-简析](https://toutiao.io/k/mpbw2hi)  
+- [2020-06-04-Flutter-Provider-迄今为止最深、最全、最新的源码分析](https://toutiao.io/k/xx9y4l6)  
+- [2020-06-04-Spark-3.0-自适应查询优化介绍，在运行时加速-Spark-SQL-的执行性能](https://toutiao.io/k/31mutme)  
+- [2020-06-04-ASP.NET-Core-数据保护（Data-Protection-集群场景）（下）](https://toutiao.io/k/dfvfy95)  
+- [2020-06-04-Sula：可能是西湖区最好用的-antd-配置框架](https://toutiao.io/k/prxt5mw)  
 - [2020-06-03-TF1-到-TF2，你的在线推理很可能内存爆炸](https://toutiao.io/k/59ubs8y)  
 - [2020-06-03-爱奇艺业务安全风控体系的建设实践](https://toutiao.io/k/fcl08or)  
 - [2020-06-03-吐血输出：2-万字长文带你细细盘点五种负载均衡策略](https://toutiao.io/k/slrail7)  

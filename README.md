@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 16:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 18:00:21，:rocket: 更新条数: +33， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-05-法国科学委员会：法国新冠肺炎疫情已得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1) ![](assets/new.png)  
-- [2020-06-05-德国新增507例新冠肺炎确诊病例-累计确诊183271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizk4DqZkkxMftSag5jlTb200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-中国人民解放军向20国军队提供防疫物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-法国科学委员会：法国新冠肺炎疫情已得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1)  
+- [2020-06-05-德国新增507例新冠肺炎确诊病例-累计确诊183271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizk4DqZkkxMftSag5jlTb200605&isfromapp=1)  
 - [2020-06-05-武汉全面推行“分餐制”-将命名100家“卫生文明酒店”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbAEiSHk75XIp8XMeANF200605&isfromapp=1)  
 - [2020-06-05-牡丹江扩大核酸检测范围-已完成690421人采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCeyz5nULrxz51oAZmEz200605&isfromapp=1)  
 - [2020-06-05-西班牙7月将重开与法葡陆地边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2QyAHRNey4B3Nf88TCg200605&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-04-贵阳一例新冠肺炎出院确诊病例疑似“复阳”？官方通报：排除复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti49mJwDDXrkwGa7dwcXv6200604&isfromapp=1)  
 - [2020-06-04-切实为人民健康提供有力保障——习近平总书记在专家学者座谈会上的重要讲话在社会各界引起热烈反响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU20dnXR4KlInTaC3PurZ200604&isfromapp=1)  
 - [2020-06-04-中央应对新冠肺炎疫情工作领导小组会议要求提升能力精准做好常态化防控-进一步加强疫苗药物和检测试剂研发工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCxL761sWHDHInDPxnaF9200604&isfromapp=1)  
-- [2020-06-04-​法国2020年国庆日传统阅兵仪式取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOxdsWqU3m5wnHQHLeFiH200604&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,26 +1013,26 @@
 </summary>
 
 
-- [2020-06-05-请问-BS-架构地后台管理系统怎么限制用户登陆来源](https://www.v2ex.com/t/679006)  
-- [2020-06-05-网易云音乐-UWP-被放弃了，现在微软商店下载的是-Win32-版本](https://www.v2ex.com/t/679005)  
-- [2020-06-05-2417u-转-typec-最佳方案?](https://www.v2ex.com/t/679004)  
-- [2020-06-05-求建议，华为-Mate30，这个手机有在用的嘛，现在-3599-打算入手](https://www.v2ex.com/t/679003)  
-- [2020-06-05-在-V2EX-上展示自己的博客地址是高危行为，我的博客-2-天收到了-6-万恶意访问请求](https://www.v2ex.com/t/679001)  
-- [2020-06-05-大佬们的微信支付分都是多少哇，刚看了下才不到-700-分，是不是不及格呢](https://www.v2ex.com/t/679000)  
-- [2020-06-05-ES-中大量重复数据的合并方案讨论](https://www.v2ex.com/t/678999)  
-- [2020-06-05-字节跳动-飞书-社招](https://www.v2ex.com/t/678998)  
-- [2020-06-05-彩云科技-致力于-AI-驱动改变世界的那家公司寻找-UE-设计师和产品经理](https://www.v2ex.com/t/678997)  
-- [2020-06-05-说一个你们想不到的我讨厌苹果的理由](https://www.v2ex.com/t/678995)  
-- [2020-06-05-开源中国的动弹为何下架了？](https://www.v2ex.com/t/678994)  
-- [2020-06-05-怎么搭建一个简单的国内-http-代理服务](https://www.v2ex.com/t/678993)  
-- [2020-06-05-问一下各位大厂同学部门架构问题啊](https://www.v2ex.com/t/678992)  
-- [2020-06-05-今天被网易-or-暴雪坑死了](https://www.v2ex.com/t/678991)  
-- [2020-06-05-分享一个将任意图片拼接成长截图还能无限裁剪的小程序](https://www.v2ex.com/t/678990)  
-- [2020-06-05-北京海淀-长亭科技（阿里云全资子公司）-后端开发-Go、-Python-](https://www.v2ex.com/t/678989)  
-- [2020-06-05-木兰编程语言改写之前的猜数字演示，有点意思~](https://www.v2ex.com/t/678988)  
-- [2020-06-05-求助-我是知名-Android-App「冰箱-IceBox」的独立开发者，最近接连-4-次被-Google-Play-下架了](https://www.v2ex.com/t/678987)  
-- [2020-06-05-招聘：-Python-开发工程师/C++开发工程师（年薪-30-万起~~）](https://www.v2ex.com/t/678986)  
-- [2020-06-05-有-1-米左右的被动雷电-3-线吗](https://www.v2ex.com/t/678984)  
+- [2020-06-05-字节跳动内推-成都字节海量-HC-等你来，基础架构团队，抖音团队和-people-团队](https://www.v2ex.com/t/679052) ![](assets/new.png)  
+- [2020-06-05-请教各位大佬关于硬盘文件系统的问题](https://www.v2ex.com/t/679051) ![](assets/new.png)  
+- [2020-06-05-Java-和-web-全栈该怎么选？](https://www.v2ex.com/t/679049) ![](assets/new.png)  
+- [2020-06-05-你会用你公司的产品么？](https://www.v2ex.com/t/679048) ![](assets/new.png)  
+- [2020-06-05-9-折话费福利，-50-元人均可领。（第二波车）](https://www.v2ex.com/t/679047) ![](assets/new.png)  
+- [2020-06-05-windows-下-docker-怎么让容器内网络和其他主机的网络连通](https://www.v2ex.com/t/679046) ![](assets/new.png)  
+- [2020-06-05-各位大佬有什么学习网站推荐的吗？来分享下吧](https://www.v2ex.com/t/679045) ![](assets/new.png)  
+- [2020-06-05-制作-USB-启动盘终级方案](https://www.v2ex.com/t/679044) ![](assets/new.png)  
+- [2020-06-05-显示器不知如何选-很难受了](https://www.v2ex.com/t/679042) ![](assets/new.png)  
+- [2020-06-05-各位最近有在天津买房上车的吗?-一起来聊聊呀](https://www.v2ex.com/t/679039) ![](assets/new.png)  
+- [2020-06-05-问一下大家，-ios-开发本地数据库存储如何选型？](https://www.v2ex.com/t/679038) ![](assets/new.png)  
+- [2020-06-05-平时经常使用-vim-的兄弟姐妹们，你们用什么键当-leader？](https://www.v2ex.com/t/679037) ![](assets/new.png)  
+- [2020-06-05-年轻人的第一次被裁员。。。](https://www.v2ex.com/t/679036) ![](assets/new.png)  
+- [2020-06-05-MacBook-pro-接扩展坞连机械键盘，机械键盘不定时失灵，有人遇到过吗](https://www.v2ex.com/t/679034) ![](assets/new.png)  
+- [2020-06-05-Docker-Hub-的冷门-image-未被国内-registry-mirror-缓存导致无法加速问题](https://www.v2ex.com/t/679033) ![](assets/new.png)  
+- [2020-06-05-AWS-中国区EC2/RDS/Elasticache-计算器分享-https://cloud.engineerdraft.com/](https://www.v2ex.com/t/679030) ![](assets/new.png)  
+- [2020-06-05-问个-vue-基础问题](https://www.v2ex.com/t/679028) ![](assets/new.png)  
+- [2020-06-05-求助-Chrome-为什么没有滚动条](https://www.v2ex.com/t/679027) ![](assets/new.png)  
+- [2020-06-05-想买-niz-键盘,有没有来解毒的?](https://www.v2ex.com/t/679026) ![](assets/new.png)  
+- [2020-06-05-现在-https-也污染？](https://www.v2ex.com/t/679025) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

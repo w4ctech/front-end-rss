@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-05-Docker-Hub-的冷门-image-未被国内-registry-mirror-缓存导致无法加速问题](https://www.v2ex.com/t/679033) 
 - [2020-06-05-在-V2EX-上展示自己的博客地址是高危行为，我的博客-2-天收到了-6-万恶意访问请求](https://www.v2ex.com/t/679001) 
 - [2020-06-05-请教各位老哥们，单位因为网络安全原因又严格了网络策略，导致无法使用-ssh](https://www.v2ex.com/t/678981) 
 - [2020-06-05-为什么有些网站很喜欢在-URL-塞一大堆参数？](https://www.v2ex.com/t/678773) 

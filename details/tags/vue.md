@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 12:00:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -34,6 +34,7 @@
 - [2020-05-24-【纯干货】Vue仿蘑菇街商城项目vue+koa+mongodb）](https://www.ershicimi.com/p/df14669b76bd3ee2124a3095061c087f) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe) 
+- [2020-06-05-Vue-项目性能优化实践](https://www.ershicimi.com/p/81a808d4f44cade8044ae348c4562d38) 
 - [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) 
 - [2020-06-04-Vue-项目性能优化—实践指南（网上最全-/-详细）](https://www.ershicimi.com/p/8db99c8a9123501d21a565b588e8d8ec) 
 - [2020-05-31-实战Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/c3a2f68d2f817d1d5e033b718367fe2c) 

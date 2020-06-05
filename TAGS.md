@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-05 21:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 21:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -420,12 +420,12 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【InfoQ】留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718)
+- [【掘金前端】HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d)
 - [【掘金前端】自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7)
 - [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
 - [【知乎日报】来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)
 - [【V2EX】如何用代码表示图像上的一个范围？并看一个点是否在该范围内？](https://www.v2ex.com/t/679023)
-- [【V2EX】预算-1w-左右-主做视频包装-大佬们帮忙看下黑苹果配置？](https://www.v2ex.com/t/678556)
-- [【V2EX】请问-MBP2019-15-寸如何能够流畅播放-VP9-或者-AV1-编码的-8K-60fps-视频](https://www.v2ex.com/t/678468)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1168,6 +1168,13 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b) 
+- [2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1) 
+- [2020-06-05-程序员要如何拥抱新技术？腾讯云+社区以实战经验为你解锁答案-|-Q推荐](https://www.ershicimi.com/p/cfcc3bbb92c1620555045a0483824b3a) 
+- [2020-06-05-要不要实行永久远程办公？支付巨头-Stripe-实施一年后表示真香](https://www.ershicimi.com/p/78ad79e091772ace3a79d3cae5933f6a) 
+- [2020-06-04-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/85d05d8e6e5e2b5e476691d1ddc3580c) 
+- [2020-06-04-Java-已经走过了25周年，还有什么值得期待？](https://www.ershicimi.com/p/f77067d25b531709f402e9434ed94b02) 
+- [2020-06-04-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/870b887da5dadbe28e057785f879469c) 
 - [2020-06-03-美团凶猛：市值破千亿，顶3个百度、1.6个京东，万亿小目标还会远吗？](https://www.ershicimi.com/p/d4874c247ab4d99da568b0cd55db4c33) 
 - [2020-06-03-刚刚晋升为-Apache-顶级项目的-Hudi-如何在数据湖上玩转增量处理](https://www.ershicimi.com/p/1fde56e82cb9778efcaa8c9f3d6a55e4) 
 - [2020-06-03-C语言太复杂？CUDA-Python也能实现并行计算加速！|-Q推荐](https://www.ershicimi.com/p/d77b4b0e3b5669826e0c7e87bd1833a0) 
@@ -1204,6 +1211,8 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-05-35岁以后，在阿里做前端是怎样一种体验](https://juejin.im/post/5eda0031e51d4578892621e4) 
+- [2020-06-05-不知道怎么提高代码质量？来看看这几种设计模式吧！](https://juejin.im/post/5ed9fcca518825430d042527) 
 - [2020-06-05-Math.atan2用法及应用场景](https://juejin.im/post/5ed9ce1a6fb9a047eb399116) 
 - [2020-06-04-Web-三维组态的仿真运用案例：民航飞机的数据监控](https://juejin.im/post/5ed61cfce51d45783f10f9f6) 
 - [2020-06-03-哪些UI库支持暗模式？](https://juejin.im/post/5ed7b44ef265da770709d154) 

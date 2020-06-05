@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 21:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 21:30:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,9 +44,9 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-05-二级→三级！京津冀下调应急响应级别-二级响应级别省份仅剩2个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-二级→三级！京津冀下调应急响应级别-二级响应级别省份仅剩2个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1)  
 - [2020-06-05-卢旺达对与刚果（金）接壤的部分地区实行“封城”举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1)  
 - [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html)  
 - [2020-06-05-伊朗新增新冠肺炎确诊病例2886例-累计确诊167156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1)  
@@ -831,6 +831,15 @@
 </summary>
 
 
+- [2020-06-05-留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718) ![](assets/new.png)  
+- [2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b) ![](assets/new.png)  
+- [2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1) ![](assets/new.png)  
+- [2020-06-05-程序员要如何拥抱新技术？腾讯云+社区以实战经验为你解锁答案-|-Q推荐](https://www.ershicimi.com/p/cfcc3bbb92c1620555045a0483824b3a) ![](assets/new.png)  
+- [2020-06-05-要不要实行永久远程办公？支付巨头-Stripe-实施一年后表示真香](https://www.ershicimi.com/p/78ad79e091772ace3a79d3cae5933f6a) ![](assets/new.png)  
+- [2020-06-04-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/85d05d8e6e5e2b5e476691d1ddc3580c) ![](assets/new.png)  
+- [2020-06-04-Java-已经走过了25周年，还有什么值得期待？](https://www.ershicimi.com/p/f77067d25b531709f402e9434ed94b02) ![](assets/new.png)  
+- [2020-06-04-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/870b887da5dadbe28e057785f879469c) ![](assets/new.png)  
+- [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) ![](assets/new.png)  
 - [2020-06-03-美团凶猛：市值破千亿，顶3个百度、1.6个京东，万亿小目标还会远吗？](https://www.ershicimi.com/p/d4874c247ab4d99da568b0cd55db4c33)  
 - [2020-06-03-刚刚晋升为-Apache-顶级项目的-Hudi-如何在数据湖上玩转增量处理](https://www.ershicimi.com/p/1fde56e82cb9778efcaa8c9f3d6a55e4)  
 - [2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249)  
@@ -842,15 +851,6 @@
 - [2020-06-02-能轻松处理万亿量级业务数据的-TiDB-究竟是什么？|-Q推荐](https://www.ershicimi.com/p/45c144420d1b958a16a6f15c07adccef)  
 - [2020-06-02-4个好用的Linux监控工具](https://www.ershicimi.com/p/ce7f334461b6fe01365d8e0dccc63edc)  
 - [2020-06-01-什么？你的团队没有100人，那就不要用微服务了！](https://www.ershicimi.com/p/5a74800e9a60c92292eb05a839e7d6e2)  
-- [2020-06-01-开扒-SpaceX-飞船技术栈，程序员搞了个-3D-版飞船生成器过瘾](https://www.ershicimi.com/p/a56dc386185d1d7c9c2f5e7f2463de64)  
-- [2020-06-01-连微服务都没经历，直接上中台，可行么？|-ArchSummit](https://www.ershicimi.com/p/a60427088a6041610887a1c5a29d8acf)  
-- [2020-06-01-从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1)  
-- [2020-05-31-全球仅10%的开发者从不加班；淘宝回应用户账号被禁用-980-年;苹果宣布首次以官方形式参与天猫61](https://www.ershicimi.com/p/32a8ffe151d005d23be58ad8cba293af)  
-- [2020-05-31-Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)  
-- [2020-05-31-聘高管、换名字，Facebook-却是要用-Libra-卖广告](https://www.ershicimi.com/p/93a87b43f925efa3e0f3771fce106db4)  
-- [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a)  
-- [2020-05-30-2020年后端高薪攻略-|-课程推荐](https://www.ershicimi.com/p/5d877135fd6c6bbc145a16af029901e3)  
-- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/f98567f4a9d97a3957c346e49e58d4c9)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -888,6 +888,11 @@
 </summary>
 
 
+- [2020-06-05-是时候放弃react-router，拥抱route状态化了](https://juejin.im/post/5eda00dee51d45784b1302c6) ![](assets/new.png)  
+- [2020-06-05-HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d) ![](assets/new.png)  
+- [2020-06-05-35岁以后，在阿里做前端是怎样一种体验](https://juejin.im/post/5eda0031e51d4578892621e4) ![](assets/new.png)  
+- [2020-06-05-不知道怎么提高代码质量？来看看这几种设计模式吧！](https://juejin.im/post/5ed9fcca518825430d042527) ![](assets/new.png)  
+- [2020-06-05-html篇--这可能是目前较为全面的html面试知识点了吧](https://juejin.im/post/5ed1c2cae51d45784635a50d) ![](assets/new.png)  
 - [2020-06-05-总结面试中-promise-相关题目的套路](https://juejin.im/post/5ed9a49351882543413c13be)  
 - [2020-06-05-Web安全之CSRF实例解析](https://juejin.im/post/5ed9b20cf265da76ee1f5794)  
 - [2020-06-05-javascript-阻断程序运行](https://juejin.im/post/5ed9b417f265da76fc45329b)  
@@ -903,11 +908,6 @@
 - [2020-06-03-VUE使用typescript搭建项目](https://juejin.im/post/5ed75c54e51d4578a2555751)  
 - [2020-06-03-自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7)  
 - [2020-06-03-js的BOM与DOM知识](https://juejin.im/post/5ed76d6a6fb9a047ce7c5bad)  
-- [2020-06-03-解析Vue-Router源码](https://juejin.im/post/5ed74468e51d457882668ed5)  
-- [2020-06-03-websoket初体验](https://juejin.im/post/5ed73efc6fb9a047f012728a)  
-- [2020-06-03-正确的将Promise链重构为async函数](https://juejin.im/post/5ed747195188254316148496)  
-- [2020-06-03-WebSocket学习入门](https://juejin.im/post/5ed6f94bf265da77186a69ed)  
-- [2020-06-03-2020才开始总结系列一:-防抖、节流](https://juejin.im/post/5ed70dd8518825365d47e3fe)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

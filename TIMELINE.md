@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -327,6 +327,15 @@
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [【InfoQ】2020-06-05-留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718) 
+- [【InfoQ】2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b) 
+- [【InfoQ】2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1) 
+- [【InfoQ】2020-06-05-程序员要如何拥抱新技术？腾讯云+社区以实战经验为你解锁答案-|-Q推荐](https://www.ershicimi.com/p/cfcc3bbb92c1620555045a0483824b3a) 
+- [【InfoQ】2020-06-05-要不要实行永久远程办公？支付巨头-Stripe-实施一年后表示真香](https://www.ershicimi.com/p/78ad79e091772ace3a79d3cae5933f6a) 
+- [【InfoQ】2020-06-04-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/85d05d8e6e5e2b5e476691d1ddc3580c) 
+- [【InfoQ】2020-06-04-Java-已经走过了25周年，还有什么值得期待？](https://www.ershicimi.com/p/f77067d25b531709f402e9434ed94b02) 
+- [【InfoQ】2020-06-04-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/870b887da5dadbe28e057785f879469c) 
+- [【InfoQ】2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
 - [【InfoQ】2020-06-03-美团凶猛：市值破千亿，顶3个百度、1.6个京东，万亿小目标还会远吗？](https://www.ershicimi.com/p/d4874c247ab4d99da568b0cd55db4c33) 
 - [【InfoQ】2020-06-03-刚刚晋升为-Apache-顶级项目的-Hudi-如何在数据湖上玩转增量处理](https://www.ershicimi.com/p/1fde56e82cb9778efcaa8c9f3d6a55e4) 
 - [【InfoQ】2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249) 
@@ -344,6 +353,11 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-05-是时候放弃react-router，拥抱route状态化了](https://juejin.im/post/5eda00dee51d45784b1302c6) 
+- [【掘金前端】2020-06-05-HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d) 
+- [【掘金前端】2020-06-05-35岁以后，在阿里做前端是怎样一种体验](https://juejin.im/post/5eda0031e51d4578892621e4) 
+- [【掘金前端】2020-06-05-不知道怎么提高代码质量？来看看这几种设计模式吧！](https://juejin.im/post/5ed9fcca518825430d042527) 
+- [【掘金前端】2020-06-05-html篇--这可能是目前较为全面的html面试知识点了吧](https://juejin.im/post/5ed1c2cae51d45784635a50d) 
 - [【掘金前端】2020-06-05-总结面试中-promise-相关题目的套路](https://juejin.im/post/5ed9a49351882543413c13be) 
 - [【掘金前端】2020-06-05-Web安全之CSRF实例解析](https://juejin.im/post/5ed9b20cf265da76ee1f5794) 
 - [【掘金前端】2020-06-05-javascript-阻断程序运行](https://juejin.im/post/5ed9b417f265da76fc45329b) 

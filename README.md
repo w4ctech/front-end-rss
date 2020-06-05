@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 23:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 00:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-荷兰新增新冠肺炎确诊病例210例-累计确诊47152例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1) ![](assets/new.png)  
 - [2020-06-05-二级→三级！京津冀下调应急响应级别-二级响应级别省份仅剩2个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1)  
 - [2020-06-05-卢旺达对与刚果（金）接壤的部分地区实行“封城”举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1)  
 - [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html)  
@@ -111,9 +114,6 @@
 - [2020-06-05-四川省新型冠状病毒肺炎疫情最新情况（6月5日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/6/5/8f68345aa9f846af8916190cbcb6b0ec.shtml)  
 - [2020-06-05-国家卫健委：4日新增新冠肺炎确诊病例5例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXRJN9Jc3n7cqy6XnoXBS200605&isfromapp=1)  
 - [2020-06-05-埃及一议员确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTrASzhlIg0mlgNlalQf0200605&isfromapp=1)  
-- [2020-06-05-加拿大新增641例新冠肺炎确诊病例-累计93726例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOQMlNf9iGJGwWjERYlC200605&isfromapp=1)  
-- [2020-06-04-专访钟南山院士：中国没有瞒报疫情-我们用事实说话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EFDYt2rPhYANqOongch200604&isfromapp=1)  
-- [2020-06-04-九成国内航班恢复-上海虹桥机场国内航班量环比增长超50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqxj076GMBkKMHE9Gwj9W200604&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -982,10 +982,10 @@
 </summary>
 
 
-- [2020-06-05-知乎高赞：为什么男朋友在我生气时，不哄我而讲道理？](https://www.ershicimi.com/p/a2905f101b3f36b0c1d7ac0fb857250c) ![](assets/new.png)  
-- [2020-06-05-618-剁手之前看过这个，感觉自己赚了一个亿](https://www.ershicimi.com/p/43ae023de5a0db0ecce2b881adf65430) ![](assets/new.png)  
-- [2020-06-05-为什么总有一些人喜欢熬夜晚睡？](https://www.ershicimi.com/p/18fe2c7b36fcd82fd891a2bb0405e634) ![](assets/new.png)  
-- [2020-06-05-知乎故事-|-备孕多年终于怀孕是一种怎样的感觉？](https://www.ershicimi.com/p/1f9ed6d5d54b0a7493a3f4503f1a928a) ![](assets/new.png)  
+- [2020-06-05-知乎高赞：为什么男朋友在我生气时，不哄我而讲道理？](https://www.ershicimi.com/p/a2905f101b3f36b0c1d7ac0fb857250c)  
+- [2020-06-05-618-剁手之前看过这个，感觉自己赚了一个亿](https://www.ershicimi.com/p/43ae023de5a0db0ecce2b881adf65430)  
+- [2020-06-05-为什么总有一些人喜欢熬夜晚睡？](https://www.ershicimi.com/p/18fe2c7b36fcd82fd891a2bb0405e634)  
+- [2020-06-05-知乎故事-|-备孕多年终于怀孕是一种怎样的感觉？](https://www.ershicimi.com/p/1f9ed6d5d54b0a7493a3f4503f1a928a)  
 - [2020-06-04-北京瘫，上海滩，都不如帮助后浪来摆摊](https://www.ershicimi.com/p/da85251135da6b420014842261b27cc0)  
 - [2020-06-04-注意到这几件事，你的摆摊生涯就成功了一半](https://www.ershicimi.com/p/8bfea7528cc9722e858ac569f7df9866)  
 - [2020-06-04-地摊经济现在看起来能成立，实际吃到了-2-个红利](https://www.ershicimi.com/p/17fc20f10dbab3ee4e30951b640576ac)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 16:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-法国科学委员会：法国新冠肺炎疫情已得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-德国新增507例新冠肺炎确诊病例-累计确诊183271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizk4DqZkkxMftSag5jlTb200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-武汉全面推行“分餐制”-将命名100家“卫生文明酒店”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbAEiSHk75XIp8XMeANF200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-牡丹江扩大核酸检测范围-已完成690421人采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCeyz5nULrxz51oAZmEz200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-西班牙7月将重开与法葡陆地边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2QyAHRNey4B3Nf88TCg200605&isfromapp=1) 

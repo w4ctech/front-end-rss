@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -35,6 +35,7 @@
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
 - [2020-06-03-前端进阶算法9：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://juejin.im/post/5ed6eb78e51d45785c694dee) 
 - [2020-06-01-前端面试：http专场，你需要懂的知识](https://juejin.im/post/5ed0d289e51d45783d0ea4b7) 
+- [2020-06-05-Golang-从基础到实战到源码分析系列-https://github.com/jiujuan/go-collection](https://www.v2ex.com/t/678961) 
 - [2020-06-05-手机刷机失败后-发现-fastboot-好像也进不去了-有啥办法吗](https://www.v2ex.com/t/678823) 
 - [2020-06-04-自动切换-CPU-算法挖当前利润最高的数字货币的矿池，欢迎闲置-CPU-来赚零花钱](https://www.v2ex.com/t/678707) 
 - [2020-06-04-fastdfs-成功部署之后,添加-fastdht-去重功能失败](https://www.v2ex.com/t/678678) 

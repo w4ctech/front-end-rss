@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 09:30:20，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-05-四川省4日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidnroDXNMvSOpPVUqFFWl200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-四川省新型冠状病毒肺炎疫情最新情况（6月5日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/6/5/8f68345aa9f846af8916190cbcb6b0ec.shtml) ![](assets/new.png)  
+- [2020-06-05-国家卫健委：4日新增新冠肺炎确诊病例5例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXRJN9Jc3n7cqy6XnoXBS200605&isfromapp=1) ![](assets/new.png)  
 - [2020-06-05-埃及一议员确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTrASzhlIg0mlgNlalQf0200605&isfromapp=1)  
 - [2020-06-05-加拿大新增641例新冠肺炎确诊病例-累计93726例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOQMlNf9iGJGwWjERYlC200605&isfromapp=1)  
 - [2020-06-04-专访钟南山院士：中国没有瞒报疫情-我们用事实说话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EFDYt2rPhYANqOongch200604&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-04-​朝鲜中小学开学复课-复课学生均已佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1)  
 - [2020-06-04-巴西新冠肺炎确诊病例超58万-总统任命临时卫生部长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1)  
 - [2020-06-04-​美国加州3日新增新冠肺炎确诊病例近2000例-累计近12万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1)  
-- [2020-06-04-​墨西哥新增3912例新冠肺炎确诊病例-累计达101238例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1)  
-- [2020-06-04-苏里南新冠肺炎疫情传播加速-将启动全国封锁隔离令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artids2EhwwM7c9W72SMMVdi200604&isfromapp=1)  
-- [2020-06-04-乌拉圭新冠肺炎病例零新增-与巴西政府加强边境地区防疫合作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXS8CROJYd2dG1YGWtnd200604&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -649,7 +649,7 @@
 </summary>
 
 
-- [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) ![](assets/new.png)  
+- [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
 - [2020-05-22-科技爱好者周刊（第-108-期）：阵地战与奇袭战](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
@@ -1002,26 +1002,26 @@
 </summary>
 
 
-- [2020-06-05-冥王峡谷怎么安装-Linux](https://www.v2ex.com/t/678797)  
-- [2020-06-05-客户给我提了一个奇葩需求，让程序被意外关闭的时候及时回滚数据。](https://www.v2ex.com/t/678796)  
-- [2020-06-05-程序员最大的幻觉就是以为自己是精英阶层](https://www.v2ex.com/t/678795)  
-- [2020-06-05-妈妈再也不用担心我的黑苹果配置了](https://www.v2ex.com/t/678794)  
-- [2020-06-05-大家在这里都是怎么用搜索功能的？](https://www.v2ex.com/t/678793)  
-- [2020-06-05-深夜来吐一波槽](https://www.v2ex.com/t/678792)  
-- [2020-06-05-目前-10-代酷睿+B460-主板，黑苹果有坑吗？](https://www.v2ex.com/t/678791)  
-- [2020-06-05-原生-Android10-难道真没有能用的通话录音软件了吗？以前用-ACR](https://www.v2ex.com/t/678788)  
-- [2020-06-05-这就是移动宽带吗？-i-了-i-了](https://www.v2ex.com/t/678787)  
-- [2020-06-05-广东电信-200M，-B-站暂停或者快进都要转圈圈](https://www.v2ex.com/t/678786)  
-- [2020-06-05-为什么有的前端网页打印时出现的是乱码？](https://www.v2ex.com/t/678784)  
-- [2020-06-05-求助！关于阿里内推的流程问题](https://www.v2ex.com/t/678782)  
-- [2020-06-05-如何克服电子产品磨损后带来的心理障碍？](https://www.v2ex.com/t/678781)  
-- [2020-06-05-迫于没钱。。收个-iPad](https://www.v2ex.com/t/678779)  
-- [2020-06-05-大四应届，一份建行-offer，一份传统行业-offerc-c#](https://www.v2ex.com/t/678778)  
-- [2020-06-05-新买的华为荣耀-x10-用不了-google-play，求大佬指点](https://www.v2ex.com/t/678777)  
-- [2020-06-05-对，还是我，还在努力寻找地表更强的-CityOnRail](https://www.v2ex.com/t/678776)  
-- [2020-06-05-从找工作的角度看，现在还要不要学-Objective-C-呢？](https://www.v2ex.com/t/678775)  
-- [2020-06-05-求推荐一款屏幕护眼效果好的手机](https://www.v2ex.com/t/678774)  
-- [2020-06-05-为什么有些网站很喜欢在-URL-塞一大堆参数？](https://www.v2ex.com/t/678773)  
+- [2020-06-05-如何使用-finder-搜索隐藏的文件/文件夹?](https://www.v2ex.com/t/678832) ![](assets/new.png)  
+- [2020-06-05-杭州-内推急招-蚂蚁金服旗下世界领先的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空...](https://www.v2ex.com/t/678831) ![](assets/new.png)  
+- [2020-06-05-帮不懂互联网的朋友开发小程序，微信认证一般怎么处理](https://www.v2ex.com/t/678829) ![](assets/new.png)  
+- [2020-06-05-最新版本的-gboard-没有震动反馈了](https://www.v2ex.com/t/678828) ![](assets/new.png)  
+- [2020-06-05-给老爸的-iPhone6-换电池-求推荐牌子](https://www.v2ex.com/t/678827) ![](assets/new.png)  
+- [2020-06-05-大家好，请教一下微信小游戏如何自己做埋点统计？](https://www.v2ex.com/t/678826) ![](assets/new.png)  
+- [2020-06-05-为啥我看不了“新买的华为荣耀-x10-用不了-google-play，求大佬指点”？](https://www.v2ex.com/t/678825) ![](assets/new.png)  
+- [2020-06-05-手机刷机失败后-发现-fastboot-好像也进不去了-有啥办法吗](https://www.v2ex.com/t/678823) ![](assets/new.png)  
+- [2020-06-05-有哪些金融类社区推荐？](https://www.v2ex.com/t/678822) ![](assets/new.png)  
+- [2020-06-05-如何把-HKKB-硬改成蓝牙连接呢](https://www.v2ex.com/t/678821) ![](assets/new.png)  
+- [2020-06-05-深圳地铁-5-号线故障！小伙伴们还好吗？](https://www.v2ex.com/t/678820) ![](assets/new.png)  
+- [2020-06-05-北京在线蹲一个-Java-小哥哥](https://www.v2ex.com/t/678819) ![](assets/new.png)  
+- [2020-06-05-更新了-macos-新系统以后就这样了，求大佬帮忙解决](https://www.v2ex.com/t/678818) ![](assets/new.png)  
+- [2020-06-05-求-QQ-音乐豪华绿优惠渠道](https://www.v2ex.com/t/678816) ![](assets/new.png)  
+- [2020-06-05-发现-dns04.com-全部无法-ping-通，大伙正常吗？](https://www.v2ex.com/t/678814) ![](assets/new.png)  
+- [2020-06-05-bwg-的-19.9-和-29.9-的还值得续不](https://www.v2ex.com/t/678813) ![](assets/new.png)  
+- [2020-06-05-免费领取阿里云-50-元无门槛代金券](https://www.v2ex.com/t/678812) ![](assets/new.png)  
+- [2020-06-05-请教高手一个桌面截屏回溯功能的实现](https://www.v2ex.com/t/678811) ![](assets/new.png)  
+- [2020-06-05-大噶吼~有没有用-RX5700-的老哥，可否进来帮个忙。](https://www.v2ex.com/t/678810) ![](assets/new.png)  
+- [2020-06-05-摆摊吧—后浪，结合热点我抢注域名做了一个互联网在线摆摊单页，不知道有没有创意](https://www.v2ex.com/t/678809) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

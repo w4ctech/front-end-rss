@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-03-【第1964期】从React-Hooks看React的本质](https://www.ershicimi.com/p/3f582d4f5df54d463c59b486bffbbe7f) 
 - [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9) 
 - [2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60) 
 - [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
@@ -32,6 +33,7 @@
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-06-01-从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1) 
 - [2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [2020-06-05-移除react项目中prop-types代码](https://juejin.im/post/5ed9bce6f265da76d3187f82) 
 - [2020-06-03-小卢碎碎念之-React-Hooks](https://juejin.im/post/5ed7124351882543281f6f8d) 
 - [2020-06-02-react-hooks与class组件对比🚀](https://juejin.im/post/5ed663c2518825430d0421d7) 
 - [2020-06-02-react-手把手教你构建一个简单的ssr环境](https://juejin.im/post/5ed5f8d2f265da770d3dbd39) 

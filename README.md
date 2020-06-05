@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 15:00:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-05-武汉全面推行“分餐制”-将命名100家“卫生文明酒店”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbAEiSHk75XIp8XMeANF200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-武汉全面推行“分餐制”-将命名100家“卫生文明酒店”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbAEiSHk75XIp8XMeANF200605&isfromapp=1)  
 - [2020-06-05-牡丹江扩大核酸检测范围-已完成690421人采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCeyz5nULrxz51oAZmEz200605&isfromapp=1)  
 - [2020-06-05-西班牙7月将重开与法葡陆地边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2QyAHRNey4B3Nf88TCg200605&isfromapp=1)  
 - [2020-06-05-东京不举行奥运会倒计时一周年纪念活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwH4C8Oet4gCLiTv9GibP200605&isfromapp=1)  
@@ -219,6 +219,12 @@
 </summary>
 
 
+- [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493) ![](assets/new.png)  
+- [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7) ![](assets/new.png)  
+- [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840) ![](assets/new.png)  
+- [2020-06-04-【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf) ![](assets/new.png)  
+- [2020-06-03-前端开发进阶手册](https://www.ershicimi.com/p/1147e62229b8325df2c96189172dda76) ![](assets/new.png)  
+- [2020-06-03-【第1964期】从React-Hooks看React的本质](https://www.ershicimi.com/p/3f582d4f5df54d463c59b486bffbbe7f) ![](assets/new.png)  
 - [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)  
 - [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)  
 - [2020-06-02-【英】HTML-mailto-link](https://www.ershicimi.com/p/1c664873e79f6834375a60aed21c84da)  
@@ -233,9 +239,6 @@
 - [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)  
 - [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
 - [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
-- [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980)  
-- [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7)  
-- [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -464,6 +467,8 @@
 </summary>
 
 
+- [2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9) ![](assets/new.png)  
+- [2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57) ![](assets/new.png)  
 - [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da)  
 - [2020-06-04-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7)  
 - [2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa)  
@@ -482,8 +487,6 @@
 - [2020-05-24-前端需要了解的9种设计模式](https://www.ershicimi.com/p/6f13e387d6c5dea43d1eb90a2452f07d)  
 - [2020-05-23-如果郭德纲是个互联网人](https://www.ershicimi.com/p/5cce690b423f0278f50f88e993ee1abe)  
 - [2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56)  
-- [2020-05-22-如何实现一个React水印组件](https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210)  
-- [2020-05-21-阿里技术专家告诉你，如何画出优秀的架构图？](https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -882,6 +885,11 @@
 </summary>
 
 
+- [2020-06-05-总结面试中-promise-相关题目的套路](https://juejin.im/post/5ed9a49351882543413c13be) ![](assets/new.png)  
+- [2020-06-05-Web安全之CSRF实例解析](https://juejin.im/post/5ed9b20cf265da76ee1f5794) ![](assets/new.png)  
+- [2020-06-05-javascript-阻断程序运行](https://juejin.im/post/5ed9b417f265da76fc45329b) ![](assets/new.png)  
+- [2020-06-05-移除react项目中prop-types代码](https://juejin.im/post/5ed9bce6f265da76d3187f82) ![](assets/new.png)  
+- [2020-06-05-Math.atan2用法及应用场景](https://juejin.im/post/5ed9ce1a6fb9a047eb399116) ![](assets/new.png)  
 - [2020-06-04-svg高级应用及动画](https://juejin.im/post/5ed7b9e6e51d4578a475fb58)  
 - [2020-06-04-Web-三维组态的仿真运用案例：民航飞机的数据监控](https://juejin.im/post/5ed61cfce51d45783f10f9f6)  
 - [2020-06-04-🚩四年前端带你理解路由懒加载的原理](https://juejin.im/post/5ed7b687518825432632981e)  
@@ -897,11 +905,6 @@
 - [2020-06-03-正确的将Promise链重构为async函数](https://juejin.im/post/5ed747195188254316148496)  
 - [2020-06-03-WebSocket学习入门](https://juejin.im/post/5ed6f94bf265da77186a69ed)  
 - [2020-06-03-2020才开始总结系列一:-防抖、节流](https://juejin.im/post/5ed70dd8518825365d47e3fe)  
-- [2020-06-03-小卢碎碎念之-React-Hooks](https://juejin.im/post/5ed7124351882543281f6f8d)  
-- [2020-06-03-fullcalendar-严格按照给定顺序排序的一种实现](https://juejin.im/post/5ed70b306fb9a047a2269cfc)  
-- [2020-06-03-JS避坑-如何优雅地遍历对象](https://juejin.im/post/5ed712f8e51d45783d0eac44)  
-- [2020-06-03-electron打包你的h5应用成桌面应用](https://juejin.im/post/5ed640cc6fb9a0479c56d271)  
-- [2020-06-03-Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

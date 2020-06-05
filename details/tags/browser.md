@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,6 +37,7 @@
 - [2020-05-29-6-个实用的-Code-Review-实践技巧](https://www.ershicimi.com/p/750ee7d3cc3b512e073611c653a1f94b) 
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2020-05-31-一文让你彻底搞懂-WebSocket-的原理](https://www.ershicimi.com/p/5d970232d91b0533d2d0e23d13067cb7) 
+- [2020-06-05-Web安全之CSRF实例解析](https://juejin.im/post/5ed9b20cf265da76ee1f5794) 
 - [2020-06-03-WebSocket学习入门](https://juejin.im/post/5ed6f94bf265da77186a69ed) 
 - [2020-06-02-web安全之XSS实例解析](https://juejin.im/post/5ed66e48518825365d47e358) 
 - [2020-06-02-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://juejin.im/post/5ed5cbaef265da76d109ea3a) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 21:30:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 23:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,13 +44,13 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -831,15 +831,15 @@
 </summary>
 
 
-- [2020-06-05-留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718) ![](assets/new.png)  
-- [2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b) ![](assets/new.png)  
-- [2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1) ![](assets/new.png)  
-- [2020-06-05-程序员要如何拥抱新技术？腾讯云+社区以实战经验为你解锁答案-|-Q推荐](https://www.ershicimi.com/p/cfcc3bbb92c1620555045a0483824b3a) ![](assets/new.png)  
-- [2020-06-05-要不要实行永久远程办公？支付巨头-Stripe-实施一年后表示真香](https://www.ershicimi.com/p/78ad79e091772ace3a79d3cae5933f6a) ![](assets/new.png)  
-- [2020-06-04-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/85d05d8e6e5e2b5e476691d1ddc3580c) ![](assets/new.png)  
-- [2020-06-04-Java-已经走过了25周年，还有什么值得期待？](https://www.ershicimi.com/p/f77067d25b531709f402e9434ed94b02) ![](assets/new.png)  
-- [2020-06-04-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/870b887da5dadbe28e057785f879469c) ![](assets/new.png)  
-- [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) ![](assets/new.png)  
+- [2020-06-05-留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718)  
+- [2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b)  
+- [2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1)  
+- [2020-06-05-程序员要如何拥抱新技术？腾讯云+社区以实战经验为你解锁答案-|-Q推荐](https://www.ershicimi.com/p/cfcc3bbb92c1620555045a0483824b3a)  
+- [2020-06-05-要不要实行永久远程办公？支付巨头-Stripe-实施一年后表示真香](https://www.ershicimi.com/p/78ad79e091772ace3a79d3cae5933f6a)  
+- [2020-06-04-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/85d05d8e6e5e2b5e476691d1ddc3580c)  
+- [2020-06-04-Java-已经走过了25周年，还有什么值得期待？](https://www.ershicimi.com/p/f77067d25b531709f402e9434ed94b02)  
+- [2020-06-04-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/870b887da5dadbe28e057785f879469c)  
+- [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa)  
 - [2020-06-03-美团凶猛：市值破千亿，顶3个百度、1.6个京东，万亿小目标还会远吗？](https://www.ershicimi.com/p/d4874c247ab4d99da568b0cd55db4c33)  
 - [2020-06-03-刚刚晋升为-Apache-顶级项目的-Hudi-如何在数据湖上玩转增量处理](https://www.ershicimi.com/p/1fde56e82cb9778efcaa8c9f3d6a55e4)  
 - [2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249)  
@@ -888,11 +888,11 @@
 </summary>
 
 
-- [2020-06-05-是时候放弃react-router，拥抱route状态化了](https://juejin.im/post/5eda00dee51d45784b1302c6) ![](assets/new.png)  
-- [2020-06-05-HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d) ![](assets/new.png)  
-- [2020-06-05-35岁以后，在阿里做前端是怎样一种体验](https://juejin.im/post/5eda0031e51d4578892621e4) ![](assets/new.png)  
-- [2020-06-05-不知道怎么提高代码质量？来看看这几种设计模式吧！](https://juejin.im/post/5ed9fcca518825430d042527) ![](assets/new.png)  
-- [2020-06-05-html篇--这可能是目前较为全面的html面试知识点了吧](https://juejin.im/post/5ed1c2cae51d45784635a50d) ![](assets/new.png)  
+- [2020-06-05-是时候放弃react-router，拥抱route状态化了](https://juejin.im/post/5eda00dee51d45784b1302c6)  
+- [2020-06-05-HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d)  
+- [2020-06-05-35岁以后，在阿里做前端是怎样一种体验](https://juejin.im/post/5eda0031e51d4578892621e4)  
+- [2020-06-05-不知道怎么提高代码质量？来看看这几种设计模式吧！](https://juejin.im/post/5ed9fcca518825430d042527)  
+- [2020-06-05-html篇--这可能是目前较为全面的html面试知识点了吧](https://juejin.im/post/5ed1c2cae51d45784635a50d)  
 - [2020-06-05-总结面试中-promise-相关题目的套路](https://juejin.im/post/5ed9a49351882543413c13be)  
 - [2020-06-05-Web安全之CSRF实例解析](https://juejin.im/post/5ed9b20cf265da76ee1f5794)  
 - [2020-06-05-javascript-阻断程序运行](https://juejin.im/post/5ed9b417f265da76fc45329b)  
@@ -982,6 +982,10 @@
 </summary>
 
 
+- [2020-06-05-知乎高赞：为什么男朋友在我生气时，不哄我而讲道理？](https://www.ershicimi.com/p/a2905f101b3f36b0c1d7ac0fb857250c) ![](assets/new.png)  
+- [2020-06-05-618-剁手之前看过这个，感觉自己赚了一个亿](https://www.ershicimi.com/p/43ae023de5a0db0ecce2b881adf65430) ![](assets/new.png)  
+- [2020-06-05-为什么总有一些人喜欢熬夜晚睡？](https://www.ershicimi.com/p/18fe2c7b36fcd82fd891a2bb0405e634) ![](assets/new.png)  
+- [2020-06-05-知乎故事-|-备孕多年终于怀孕是一种怎样的感觉？](https://www.ershicimi.com/p/1f9ed6d5d54b0a7493a3f4503f1a928a) ![](assets/new.png)  
 - [2020-06-04-北京瘫，上海滩，都不如帮助后浪来摆摊](https://www.ershicimi.com/p/da85251135da6b420014842261b27cc0)  
 - [2020-06-04-注意到这几件事，你的摆摊生涯就成功了一半](https://www.ershicimi.com/p/8bfea7528cc9722e858ac569f7df9866)  
 - [2020-06-04-地摊经济现在看起来能成立，实际吃到了-2-个红利](https://www.ershicimi.com/p/17fc20f10dbab3ee4e30951b640576ac)  
@@ -998,10 +1002,6 @@
 - [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542)  
 - [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870)  
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10)  
-- [2020-05-31-钟南山：经此一疫，你形成哪些健康的生活方式？你有哪些健身故事？-|-两会云问答](https://www.ershicimi.com/p/85a0ec41cf1fa44eb2ee0023d5e69a1f)  
-- [2020-05-31-张文宏问抗疫取得成效的原因，网友回答都提到了两个字-|-两会云问答](https://www.ershicimi.com/p/e413ee58461001ea27e7778896d7e19e)  
-- [2020-05-31-知乎故事-|-你在男朋友手机里发现过什么秘密？](https://www.ershicimi.com/p/bca959aa146a97a4051c7ef3e442c3c9)  
-- [2020-05-30-知乎神吐槽-|-医生是不是有一些「黑话」？](https://www.ershicimi.com/p/6debb2dba8e941e71b25985e290b16a1)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

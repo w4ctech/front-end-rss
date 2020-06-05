@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "伊朗新增新冠肺炎确诊病例2886例 累计确诊167156例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1",
+        "date": "2020-06-05"
+      },
+      {
         "title": "中国人民解放军向20国军队提供防疫物资援助",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1",
         "date": "2020-06-05"
@@ -19112,6 +19117,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "DevOps实施的五个关键点 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-05"
+      },
       {
         "title": "一位阿里 P7 的面试经验分享 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

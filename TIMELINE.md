@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 10:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -256,6 +256,7 @@
 - [【全栈前端精选】2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa) 
 - [【全栈前端精选】2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
 - [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
+- [【前端宇宙】2020-06-05-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/649ee833e226ffbd657e636314e6481d) 
 - [【前端宇宙】2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027) 
 - [【前端宇宙】2020-06-03-开发人员各种鄙视链](https://www.ershicimi.com/p/5ace4a02971968a90a11fbbb42077eab) 
 - [【前端宇宙】2020-06-02-这些神仙代码库值得每一个前端开发者收藏](https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288) 

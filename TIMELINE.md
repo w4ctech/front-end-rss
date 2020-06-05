@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-二级→三级！京津冀下调应急响应级别-二级响应级别省份仅剩2个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-卢旺达对与刚果（金）接壤的部分地区实行“封城”举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-伊朗新增新冠肺炎确诊病例2886例-累计确诊167156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1049,6 +1049,7 @@
 - [2020-05-22-不可错过的实用前端工具](https://www.ershicimi.com/p/3262dfba4696ddb8d8f9b63d72368141) 
 - [2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) 
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 
 - [2020-05-22-科技爱好者周刊（第-108-期）：阵地战与奇袭战](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html) 

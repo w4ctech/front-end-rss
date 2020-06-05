@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -267,6 +267,7 @@
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
 - [【程序员成长指北】2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
+- [【阮一峰的网络日志】2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [【奇舞周刊】2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58) 
 - [【奇舞周刊】2020-06-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/714e50112a5c306fffe1ad3b14296399) 
 - [【奇舞周刊】2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) 

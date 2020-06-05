@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 11:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,10 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-西班牙7月将重开与法葡陆地边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2QyAHRNey4B3Nf88TCg200605&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-东京不举行奥运会倒计时一周年纪念活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwH4C8Oet4gCLiTv9GibP200605&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-英国新冠肺炎确诊病例超28万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuhwmOGQUw2VLhAtCGJTP200605&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-湖北省新冠肺炎现有确诊病例清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwigytBajnEwCcBXxKy24200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-四川省4日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidnroDXNMvSOpPVUqFFWl200605&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-四川省新型冠状病毒肺炎疫情最新情况（6月5日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/6/5/8f68345aa9f846af8916190cbcb6b0ec.shtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-05-国家卫健委：4日新增新冠肺炎确诊病例5例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXRJN9Jc3n7cqy6XnoXBS200605&isfromapp=1) 
@@ -1416,6 +1420,25 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-05-改掉这些坏习惯，还怕写不出优雅的代码？（二）](https://toutiao.io/k/29n9osh) 
+- [【开发者头条】2020-06-05-全（小区局域）网最强-TCP/IP-拥塞控制总结](https://toutiao.io/k/3vappqq) 
+- [【开发者头条】2020-06-05-MongoDB-技术从-0-到-1+](https://toutiao.io/k/jc7qnjq) 
+- [【开发者头条】2020-06-05-Raft-共识算法](https://toutiao.io/k/dydhr64) 
+- [【开发者头条】2020-06-05-StackOverflow-2020-开发者报告精粹](https://toutiao.io/k/rq0mlj1) 
+- [【开发者头条】2020-06-05-Spring-Boot-代码生成器，从此不用手撸代码](https://toutiao.io/k/9e853fq) 
+- [【开发者头条】2020-06-05-静态网站架构的演进和最佳实践](https://toutiao.io/k/7iyoomy) 
+- [【开发者头条】2020-06-05-Netty-核心源码解读（开篇）](https://toutiao.io/k/wlce4oz) 
+- [【开发者头条】2020-06-05-这几道经典例题帮你轻松搞透贪心算法](https://toutiao.io/k/dg182qt) 
+- [【开发者头条】2020-06-05-来自-1000+-个项目的-10-大-JavaScript-错误（以及如何避免）](https://toutiao.io/k/ve4pbhn) 
+- [【开发者头条】2020-06-05-漫谈分布式系统（十五）：扩展性的最后障碍](https://toutiao.io/k/y6w7ma0) 
+- [【开发者头条】2020-06-05-你不知道的-Blob](https://toutiao.io/k/32rkqen) 
+- [【开发者头条】2020-06-05-一文带你彻底厘清-Isito-中的证书工作机制](https://toutiao.io/k/3l5hxf6) 
+- [【开发者头条】2020-06-05-译-为什么-Kubernetes-如此受欢迎？你学了吗？](https://toutiao.io/k/95aamj1) 
+- [【开发者头条】2020-06-05-对于单例模式面试官会怎样提问呢？你又该如何回答呢？](https://toutiao.io/k/lb5rflp) 
+- [【开发者头条】2020-06-05-面试官：兄弟，说说-Java-的-static-关键字吧](https://toutiao.io/k/nbm92x5) 
+- [【开发者头条】2020-06-05-过滤器和拦截器的-6-个区别，别再傻傻分不清了](https://toutiao.io/k/s38bn8t) 
+- [【开发者头条】2020-06-05-程序员都惧怕的故障域](https://toutiao.io/k/1ge2cpb) 
+- [【开发者头条】2020-06-05-记录几种-XSS-绕过方式](https://toutiao.io/k/2f2ek0i) 
 - [【开发者头条】2020-06-04-全面了解风控数据体系](https://toutiao.io/k/t7p0hfu) 
 - [【开发者头条】2020-06-04-Druid-在爱奇艺的实践和技术演进](https://toutiao.io/k/3o7421t) 
 - [【开发者头条】2020-06-04-没人比我更懂微服务：Go-微服务框架-Jupiter](https://toutiao.io/k/3epcn24) 

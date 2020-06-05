@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 11:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -86,6 +86,8 @@
 - [2020-05-29-问个问题，面试了一家企业，说是周五给回信，结果也没有给回信，这个要不要打电话问一下呢？有没有必要呢？...](https://www.v2ex.com/t/676814) 
 - [2020-05-29-招聘-Golang-工程师一枚，弹性上班，加班非常少](https://www.v2ex.com/t/676564) 
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-05-对于单例模式面试官会怎样提问呢？你又该如何回答呢？](https://toutiao.io/k/lb5rflp) 
+- [2020-06-05-面试官：兄弟，说说-Java-的-static-关键字吧](https://toutiao.io/k/nbm92x5) 
 - [2020-06-01-推荐-MySQL-三万字精华总结-+-面试-100-问，吊打面试官绰绰有余](https://toutiao.io/k/eakc3v8) 
 - [2020-05-29-推荐-看完这篇操作系统，和面试官扯皮就没问题了](https://toutiao.io/k/1hdaa4e) 
 - [2020-05-29-推荐-拼多多和酷家乐面试总结（已拿-Offer）](https://toutiao.io/k/fp7twf8) 

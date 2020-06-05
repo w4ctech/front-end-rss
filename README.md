@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 19:30:12，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html) ![](assets/new.png)  
+- [2020-06-05-卢旺达对与刚果（金）接壤的部分地区实行“封城”举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html)  
 - [2020-06-05-伊朗新增新冠肺炎确诊病例2886例-累计确诊167156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1)  
 - [2020-06-05-中国人民解放军向20国军队提供防疫物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1)  
 - [2020-06-05-法国科学委员会：法国新冠肺炎疫情已得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-04-专访钟南山院士：中国没有瞒报疫情-我们用事实说话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EFDYt2rPhYANqOongch200604&isfromapp=1)  
 - [2020-06-04-九成国内航班恢复-上海虹桥机场国内航班量环比增长超50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqxj076GMBkKMHE9Gwj9W200604&isfromapp=1)  
 - [2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1)  
-- [2020-06-04-贵阳一例新冠肺炎出院确诊病例疑似“复阳”？官方通报：排除复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti49mJwDDXrkwGa7dwcXv6200604&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

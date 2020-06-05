@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-05 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-05 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-05-伊朗新增新冠肺炎确诊病例2886例-累计确诊167156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html) ![](assets/new.png)  
+- [2020-06-05-伊朗新增新冠肺炎确诊病例2886例-累计确诊167156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1)  
 - [2020-06-05-中国人民解放军向20国军队提供防疫物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1)  
 - [2020-06-05-法国科学委员会：法国新冠肺炎疫情已得到控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1)  
 - [2020-06-05-德国新增507例新冠肺炎确诊病例-累计确诊183271例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizk4DqZkkxMftSag5jlTb200605&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-04-九成国内航班恢复-上海虹桥机场国内航班量环比增长超50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqxj076GMBkKMHE9Gwj9W200604&isfromapp=1)  
 - [2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1)  
 - [2020-06-04-贵阳一例新冠肺炎出院确诊病例疑似“复阳”？官方通报：排除复阳](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti49mJwDDXrkwGa7dwcXv6200604&isfromapp=1)  
-- [2020-06-04-切实为人民健康提供有力保障——习近平总书记在专家学者座谈会上的重要讲话在社会各界引起热烈反响](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU20dnXR4KlInTaC3PurZ200604&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,7 +1044,7 @@
 </summary>
 
 
-- [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-从此免费看-VIP-视频！用-Python-爬虫攻破-VIP-防线-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13499&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSq1Hvmw7UgFjBCWTqqq22A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

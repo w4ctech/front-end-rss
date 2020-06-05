@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 10:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -27,6 +27,7 @@
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2020-05-31-最近面试高级前端工程师的一些感受](https://www.ershicimi.com/p/92df06afc91b976c1f00d0fd120f9af6) 
 - [2020-05-28-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/eadc0c07bbfba9372e5b56733af5e9e4) 
+- [2020-06-05-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/c920766fad1ccced6f29d9929f310717) 
 - [2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-06-04-面试遇到“一问三不知”的，真替他老东家捏把汗](https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358) 
@@ -40,6 +41,7 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-05-西安外企-招聘中高级-Java-后端-15-25k、前端-12-17k](https://www.v2ex.com/t/678840) 
 - [2020-06-04-一次尴尬的面试经历](https://www.v2ex.com/t/678763) 
 - [2020-06-04-golang-面试之协程比线程更轻量级?](https://www.v2ex.com/t/678713) 
 - [2020-06-04-北京丰台科技园招聘-Java-开发工程师](https://www.v2ex.com/t/678711) 

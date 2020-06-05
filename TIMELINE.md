@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -227,6 +227,7 @@
 - [【Vue中文社区】2020-06-02-阿里巴巴前端面试经验分享](https://www.ershicimi.com/p/7c5ee4e85db75525c34aaef8b0459e5e) 
 - [【Vue中文社区】2020-06-01-十个超级实用的-ES6-特性](https://www.ershicimi.com/p/9845e887c0a78745192e971623536397) 
 - [【Vue中文社区】2020-06-01-让你纵横-GitHub-的五大神器](https://www.ershicimi.com/p/46b2d8ce4335dc0a439bdaf2d632d082) 
+- [【前端早读课】2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) 
 - [【前端早读课】2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493) 
 - [【前端早读课】2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7) 
 - [【前端早读课】2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840) 

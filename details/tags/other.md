@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -956,6 +956,7 @@
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) 
 - [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) 
+- [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) 
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493) 
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7) 
 - [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840) 

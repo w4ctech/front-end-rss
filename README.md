@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 00:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1) ![](assets/new.png)  
-- [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1) ![](assets/new.png)  
-- [2020-06-05-荷兰新增新冠肺炎确诊病例210例-累计确诊47152例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1) ![](assets/new.png)  
+- [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1)  
+- [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1)  
+- [2020-06-05-荷兰新增新冠肺炎确诊病例210例-累计确诊47152例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1)  
 - [2020-06-05-二级→三级！京津冀下调应急响应级别-二级响应级别省份仅剩2个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1)  
 - [2020-06-05-卢旺达对与刚果（金）接壤的部分地区实行“封城”举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1)  
 - [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html)  
@@ -219,6 +219,7 @@
 </summary>
 
 
+- [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) ![](assets/new.png)  
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)  
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)  
 - [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)  
@@ -238,7 +239,6 @@
 - [2020-05-26-「推荐」前端高级进阶必备这些技能](https://www.ershicimi.com/p/3bfaa218e0efa960ab6bb1b12d82f682)  
 - [2020-05-26-【第1956期】JavaScript可视化：Promise和Async/Await](https://www.ershicimi.com/p/c8b786a52f91f2cf273b5a4e960e75de)  
 - [2020-05-25-【第1955期】前端组件库本地开发调试的自动化流程实现](https://www.ershicimi.com/p/010dad320a2b50df313f13fc741efb48)  
-- [2020-05-24-【第1954期】-图解ChunkSplitPlugin](https://www.ershicimi.com/p/740db1fb4f69c021fcf65c8d73272220)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

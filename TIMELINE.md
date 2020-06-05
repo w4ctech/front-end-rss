@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-05 11:00:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -269,6 +269,8 @@
 - [【前端瓶子君】2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [【前端瓶子君】2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
+- [【程序员成长指北】2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22) 
+- [【程序员成长指北】2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/db13b22f5f88783cefa30ecb83dd20a3) 
 - [【程序员成长指北】2020-06-04-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/3b0d627db9b759bd473d3650cbdb432d) 
 - [【程序员成长指北】2020-06-04-Web-上的多种图片技巧](https://www.ershicimi.com/p/697f0386d2aaac7f10a1a0a45fab1b11) 
 - [【程序员成长指北】2020-06-03-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/e6ec2cf5a18df9be3188c8a0c465aa0b) 

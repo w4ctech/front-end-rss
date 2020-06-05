@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-05-埃及一议员确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTrASzhlIg0mlgNlalQf0200605&isfromapp=1) 
 - [2020-06-04-专访钟南山院士：中国没有瞒报疫情-我们用事实说话](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EFDYt2rPhYANqOongch200604&isfromapp=1) 
 - [2020-06-04-九成国内航班恢复-上海虹桥机场国内航班量环比增长超50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqxj076GMBkKMHE9Gwj9W200604&isfromapp=1) 
 - [2020-06-04-​欧洲央行：将“大流行病紧急购买项目”规模扩大至1.35万亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPBLemgZkJjBYDB2tBhWL200604&isfromapp=1) 
@@ -1181,6 +1182,8 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-04-Web-三维组态的仿真运用案例：民航飞机的数据监控](https://juejin.im/post/5ed61cfce51d45783f10f9f6) 
+- [2020-06-03-哪些UI库支持暗模式？](https://juejin.im/post/5ed7b44ef265da770709d154) 
 - [2020-06-03-前端实习凉凉面](https://juejin.im/post/5ed760ee6fb9a047e51d801f) 
 - [2020-06-03-websoket初体验](https://juejin.im/post/5ed73efc6fb9a047f012728a) 
 - [2020-06-03-fullcalendar-严格按照给定顺序排序的一种实现](https://juejin.im/post/5ed70b306fb9a047a2269cfc) 

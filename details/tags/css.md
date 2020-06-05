@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -51,6 +51,7 @@
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
 - [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d) 
 - [2020-05-28-云计算的下一站：Serverless的2020发展前瞻-|-Q推荐](https://www.ershicimi.com/p/d05b95abac46c376552c23e101fa435f) 
+- [2020-06-04-svg高级应用及动画](https://juejin.im/post/5ed7b9e6e51d4578a475fb58) 
 - [2020-06-02-postcss-插件开发：批量自动化移动端1px解决方案](https://juejin.im/post/5ed61100e51d45783d0eaac8) 
 - [2020-06-01-requestAnimationFrame的应用](https://juejin.im/post/5ed4c0a3518825433139f61c) 
 - [2020-05-31-【收藏】你不知道的css技巧](https://juejin.im/post/5ed3c27ee51d455f9a6368c9) 

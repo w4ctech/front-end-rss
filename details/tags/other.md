@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-05 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-05 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-05-武汉全面推行“分餐制”-将命名100家“卫生文明酒店”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbAEiSHk75XIp8XMeANF200605&isfromapp=1) 
 - [2020-06-05-牡丹江扩大核酸检测范围-已完成690421人采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCeyz5nULrxz51oAZmEz200605&isfromapp=1) 
 - [2020-06-05-西班牙7月将重开与法葡陆地边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2QyAHRNey4B3Nf88TCg200605&isfromapp=1) 
 - [2020-06-05-东京不举行奥运会倒计时一周年纪念活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwH4C8Oet4gCLiTv9GibP200605&isfromapp=1) 

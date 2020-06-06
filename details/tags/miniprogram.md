@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 03:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -38,6 +38,7 @@
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
+- [2020-06-06-小程序实战十二-分包加载](https://juejin.im/post/5edb75366fb9a047a96a8130) 
 - [2020-05-30-京东小程序-Taro-开发对比原生开发测评](https://juejin.im/post/5eb370715188256d703f4063) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
 - [2020-06-06-『挽尊』我坚持每天下班撸码撸出一个没用的小程序，只为证明我不是伸手党，我可以自己一个人坚持下去](https://www.v2ex.com/t/679205) 

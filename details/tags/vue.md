@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 03:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -48,6 +48,8 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
+- [2020-06-06-快速搭建-vue-组件方案-vue-general-components](https://juejin.im/post/5edb6086e51d450d800a35d1) 
+- [2020-06-06-vue路由权限校验](https://juejin.im/post/5ec88be86fb9a047ab2c0e95) 
 - [2020-06-05-Spring-Boot+Vue前后端分离微信公众号网页授权解决方案](https://juejin.im/post/5eda731151882542f346fe6d) 
 - [2020-06-03-VUE使用typescript搭建项目](https://juejin.im/post/5ed75c54e51d4578a2555751) 
 - [2020-06-03-解析Vue-Router源码](https://juejin.im/post/5ed74468e51d457882668ed5) 

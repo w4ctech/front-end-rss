@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 22:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 00:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1) ![](assets/new.png)  
 - [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1)  
 - [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1)  
 - [2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1)  
 - [2020-06-06-美国超半数新冠肺炎死亡病例来自养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1)  
 - [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1)  
-- [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -987,9 +987,9 @@
 </summary>
 
 
-- [2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947) ![](assets/new.png)  
-- [2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3) ![](assets/new.png)  
-- [2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80) ![](assets/new.png)  
+- [2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947)  
+- [2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3)  
+- [2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80)  
 - [2020-06-05-知乎高赞：为什么男朋友在我生气时，不哄我而讲道理？](https://www.ershicimi.com/p/a2905f101b3f36b0c1d7ac0fb857250c)  
 - [2020-06-05-618-剁手之前看过这个，感觉自己赚了一个亿](https://www.ershicimi.com/p/43ae023de5a0db0ecce2b881adf65430)  
 - [2020-06-05-为什么总有一些人喜欢熬夜晚睡？](https://www.ershicimi.com/p/18fe2c7b36fcd82fd891a2bb0405e634)  

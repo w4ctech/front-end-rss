@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 22:00:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 22:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -987,6 +987,9 @@
 </summary>
 
 
+- [2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947) ![](assets/new.png)  
+- [2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3) ![](assets/new.png)  
+- [2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80) ![](assets/new.png)  
 - [2020-06-05-知乎高赞：为什么男朋友在我生气时，不哄我而讲道理？](https://www.ershicimi.com/p/a2905f101b3f36b0c1d7ac0fb857250c)  
 - [2020-06-05-618-剁手之前看过这个，感觉自己赚了一个亿](https://www.ershicimi.com/p/43ae023de5a0db0ecce2b881adf65430)  
 - [2020-06-05-为什么总有一些人喜欢熬夜晚睡？](https://www.ershicimi.com/p/18fe2c7b36fcd82fd891a2bb0405e634)  
@@ -1004,9 +1007,6 @@
 - [2020-06-02-含泪播种的人一定能含笑收获](https://www.ershicimi.com/p/461d69183f009225f38c8b6112d050ba)  
 - [2020-06-02-知乎故事-|-刚出生就被医院判死刑的婴儿值得倾家荡产去救吗？](https://www.ershicimi.com/p/a06a5eefba3d482a73ecac7e04f457d7)  
 - [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57)  
-- [2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542)  
-- [2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870)  
-- [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,26 +1018,26 @@
 </summary>
 
 
-- [2020-06-06-标-题:-内推-字节跳动-抖音-后台核心研发工程师](https://www.v2ex.com/t/679272) ![](assets/new.png)  
-- [2020-06-06-QQ-音乐是否存在针对性地将一些歌曲设置为-VIP-才能听完整的？](https://www.v2ex.com/t/679271) ![](assets/new.png)  
-- [2020-06-06-Android-手机-root-求助高手（1000-元奖励）](https://www.v2ex.com/t/679270) ![](assets/new.png)  
-- [2020-06-06-一个用-Django-写公司内部系统的运维狗怎么能提高数据的设计水平？](https://www.v2ex.com/t/679269) ![](assets/new.png)  
-- [2020-06-06-最近准备搞一个微信公众号接入一个商城，微店有人搞过吗？（店是针对本地的一个饮用水商城，不在乎推广）](https://www.v2ex.com/t/679267) ![](assets/new.png)  
-- [2020-06-06-低性能家庭网络改进求建议](https://www.v2ex.com/t/679264) ![](assets/new.png)  
-- [2020-06-06-苹果手机闹钟最长时间](https://www.v2ex.com/t/679263) ![](assets/new.png)  
-- [2020-06-06-爱思助手-有-Mac-版本了](https://www.v2ex.com/t/679261) ![](assets/new.png)  
-- [2020-06-06-mac-触控板如何切换非全屏应用？](https://www.v2ex.com/t/679260) ![](assets/new.png)  
-- [2020-06-06-DEVONthink-To-Go-0202-年-iPad-iPhone-上超实用的文档管理工具](https://www.v2ex.com/t/679259) ![](assets/new.png)  
-- [2020-06-06-大二计算机学生，求发展建议](https://www.v2ex.com/t/679258) ![](assets/new.png)  
-- [2020-06-06-新站你们是怎么推广的喔?](https://www.v2ex.com/t/679256) ![](assets/new.png)  
-- [2020-06-06-怎么感觉-filco-茶轴没我-100-多的青轴爽](https://www.v2ex.com/t/679255) ![](assets/new.png)  
-- [2020-06-06-问下这个-SQL-怎么写，订单表获取每个用户最后三个商品种类统计，另外，送一个洗牙券](https://www.v2ex.com/t/679254) ![](assets/new.png)  
-- [2020-06-06-校招-offer-比较：字节-ios-和电信-21cn-Java](https://www.v2ex.com/t/679253) ![](assets/new.png)  
-- [2020-06-06-戒断反应好难熬，有谁可以告诉我怎么度过吗？](https://www.v2ex.com/t/679252) ![](assets/new.png)  
-- [2020-06-06-一个很酷的音乐播放器](https://www.v2ex.com/t/679250) ![](assets/new.png)  
-- [2020-06-06-字节跳动国际化团队-Helo-招新啦！深圳！](https://www.v2ex.com/t/679249) ![](assets/new.png)  
-- [2020-06-06-FreeNAS-请问-6-块-2T-的硬盘采用什么方案？](https://www.v2ex.com/t/679248) ![](assets/new.png)  
-- [2020-06-06-MacOS-电源图标迷惑行为](https://www.v2ex.com/t/679247) ![](assets/new.png)  
+- [2020-06-06-标-题:-内推-字节跳动-抖音-后台核心研发工程师](https://www.v2ex.com/t/679272)  
+- [2020-06-06-QQ-音乐是否存在针对性地将一些歌曲设置为-VIP-才能听完整的？](https://www.v2ex.com/t/679271)  
+- [2020-06-06-Android-手机-root-求助高手（1000-元奖励）](https://www.v2ex.com/t/679270)  
+- [2020-06-06-一个用-Django-写公司内部系统的运维狗怎么能提高数据的设计水平？](https://www.v2ex.com/t/679269)  
+- [2020-06-06-最近准备搞一个微信公众号接入一个商城，微店有人搞过吗？（店是针对本地的一个饮用水商城，不在乎推广）](https://www.v2ex.com/t/679267)  
+- [2020-06-06-低性能家庭网络改进求建议](https://www.v2ex.com/t/679264)  
+- [2020-06-06-苹果手机闹钟最长时间](https://www.v2ex.com/t/679263)  
+- [2020-06-06-爱思助手-有-Mac-版本了](https://www.v2ex.com/t/679261)  
+- [2020-06-06-mac-触控板如何切换非全屏应用？](https://www.v2ex.com/t/679260)  
+- [2020-06-06-DEVONthink-To-Go-0202-年-iPad-iPhone-上超实用的文档管理工具](https://www.v2ex.com/t/679259)  
+- [2020-06-06-大二计算机学生，求发展建议](https://www.v2ex.com/t/679258)  
+- [2020-06-06-新站你们是怎么推广的喔?](https://www.v2ex.com/t/679256)  
+- [2020-06-06-怎么感觉-filco-茶轴没我-100-多的青轴爽](https://www.v2ex.com/t/679255)  
+- [2020-06-06-问下这个-SQL-怎么写，订单表获取每个用户最后三个商品种类统计，另外，送一个洗牙券](https://www.v2ex.com/t/679254)  
+- [2020-06-06-校招-offer-比较：字节-ios-和电信-21cn-Java](https://www.v2ex.com/t/679253)  
+- [2020-06-06-戒断反应好难熬，有谁可以告诉我怎么度过吗？](https://www.v2ex.com/t/679252)  
+- [2020-06-06-一个很酷的音乐播放器](https://www.v2ex.com/t/679250)  
+- [2020-06-06-字节跳动国际化团队-Helo-招新啦！深圳！](https://www.v2ex.com/t/679249)  
+- [2020-06-06-FreeNAS-请问-6-块-2T-的硬盘采用什么方案？](https://www.v2ex.com/t/679248)  
+- [2020-06-06-MacOS-电源图标迷惑行为](https://www.v2ex.com/t/679247)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

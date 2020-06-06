@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -468,6 +468,9 @@
 - [【掘金前端】2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677) 
 - [【掘金前端】2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9) 
 - [【掘金前端】2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
+- [【知乎日报】2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947) 
+- [【知乎日报】2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3) 
+- [【知乎日报】2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80) 
 - [【知乎日报】2020-06-05-知乎高赞：为什么男朋友在我生气时，不哄我而讲道理？](https://www.ershicimi.com/p/a2905f101b3f36b0c1d7ac0fb857250c) 
 - [【知乎日报】2020-06-05-618-剁手之前看过这个，感觉自己赚了一个亿](https://www.ershicimi.com/p/43ae023de5a0db0ecce2b881adf65430) 
 - [【知乎日报】2020-06-05-为什么总有一些人喜欢熬夜晚睡？](https://www.ershicimi.com/p/18fe2c7b36fcd82fd891a2bb0405e634) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 03:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 04:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-疫情下非洲线上购物发展迅猛，电子支付成新宠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-哈萨克斯坦总统新闻秘书确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC4ls333XqaPJKakEY67L200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1) 

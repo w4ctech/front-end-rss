@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -307,6 +307,7 @@
 - [【全栈前端精选】2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
 - [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
 - [【政采云前端团队】2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
+- [【前端宇宙】2020-06-06-京东618大促来啦，程序员畅销书籍走起！每满100减50，还有专属优惠码送你哦！](https://www.ershicimi.com/p/8728b8abec017cda3512df855658dbc4) 
 - [【前端宇宙】2020-06-05-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/649ee833e226ffbd657e636314e6481d) 
 - [【前端宇宙】2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027) 
 - [【前端宇宙】2020-06-03-开发人员各种鄙视链](https://www.ershicimi.com/p/5ace4a02971968a90a11fbbb42077eab) 

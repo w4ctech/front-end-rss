@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 00:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 02:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1)  
 - [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1)  
 - [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1)  
 - [2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1)  
@@ -521,6 +521,7 @@
 </summary>
 
 
+- [2020-06-06-京东618大促来啦，程序员畅销书籍走起！每满100减50，还有专属优惠码送你哦！](https://www.ershicimi.com/p/8728b8abec017cda3512df855658dbc4) ![](assets/new.png)  
 - [2020-06-05-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/649ee833e226ffbd657e636314e6481d)  
 - [2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027)  
 - [2020-06-03-开发人员各种鄙视链](https://www.ershicimi.com/p/5ace4a02971968a90a11fbbb42077eab)  
@@ -540,7 +541,6 @@
 - [2020-05-22-程序猿惯用口头禅，你被击中了吗？](https://www.ershicimi.com/p/20eb8967a59f5bb3470b5920e99ac5f4)  
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16)  
 - [2020-05-20-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/38c66d93c7202b5e4e26a0df6a992ffd)  
-- [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

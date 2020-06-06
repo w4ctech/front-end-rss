@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,11 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-民航单日运输旅客量回升破百万-恢复至疫情前六成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-阿根廷累计新冠肺炎确诊病例21037例-首都地区放宽隔离限制-将逐户排查病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-巴西新增新冠肺炎确诊病例30830例-累计确诊645771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45pWnzrThPP3lrIR1EtF200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-韩国新增新冠肺炎确诊病例51例-累计确诊11719例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioC2YaUS3w2CpgfCwo9y9200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1) 

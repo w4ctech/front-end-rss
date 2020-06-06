@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 08:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-关心旅非同胞-中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-世卫组织：全球新冠肺炎确诊病例新增118526例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1) 

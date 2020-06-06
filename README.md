@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -94,10 +94,13 @@
 </summary>
 
 
-- [2020-06-06-关心旅非同胞-中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-世卫组织：全球新冠肺炎确诊病例新增118526例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-美国超半数新冠肺炎死亡病例来自养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-关心旅非同胞-中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1)  
+- [2020-06-06-世卫组织：全球新冠肺炎确诊病例新增118526例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1)  
+- [2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1)  
+- [2020-06-06-美国超半数新冠肺炎死亡病例来自养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1)  
 - [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1)  
 - [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1)  
 - [2020-06-05-荷兰新增新冠肺炎确诊病例210例-累计确诊47152例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-05-武汉全面推行“分餐制”-将命名100家“卫生文明酒店”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbAEiSHk75XIp8XMeANF200605&isfromapp=1)  
 - [2020-06-05-牡丹江扩大核酸检测范围-已完成690421人采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCeyz5nULrxz51oAZmEz200605&isfromapp=1)  
 - [2020-06-05-西班牙7月将重开与法葡陆地边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2QyAHRNey4B3Nf88TCg200605&isfromapp=1)  
-- [2020-06-05-东京不举行奥运会倒计时一周年纪念活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwH4C8Oet4gCLiTv9GibP200605&isfromapp=1)  
-- [2020-06-05-英国新冠肺炎确诊病例超28万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuhwmOGQUw2VLhAtCGJTP200605&isfromapp=1)  
-- [2020-06-05-湖北省新冠肺炎现有确诊病例清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwigytBajnEwCcBXxKy24200605&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -250,8 +250,8 @@
 </summary>
 
 
-- [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) ![](assets/new.png)  
-- [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) ![](assets/new.png)  
+- [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117)  
+- [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c)  
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)  
 - [2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3)  
 - [2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1) 
+- [2020-06-06-3小时带货额近14亿！北京消费季启动-央视Boys再合体-邀你买买买](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrBalZbygQUPJxTa28ZQ200606&isfromapp=1) 
 - [2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1) 
 - [2020-06-06-民航单日运输旅客量回升破百万-恢复至疫情前六成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1) 
 - [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1) 

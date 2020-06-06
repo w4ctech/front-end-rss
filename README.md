@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 19:00:20，:rocket: 更新条数: +37， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 19:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-香港新增3例新冠肺炎确诊病例-累计确诊1105例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0S7b2XRrPcn2Ns2OvME200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-俄罗斯新增新冠肺炎确诊病例8855例-累计确诊458689例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsAEJ0s9w51GfFWsYM8t200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-3小时带货额近14亿！北京消费季启动-央视Boys再合体-邀你买买买](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrBalZbygQUPJxTa28ZQ200606&isfromapp=1) ![](assets/new.png)  
 - [2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1)  
 - [2020-06-06-民航单日运输旅客量回升破百万-恢复至疫情前六成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1)  
 - [2020-06-06-阿根廷累计新冠肺炎确诊病例21037例-首都地区放宽隔离限制-将逐户排查病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1)  
 - [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1)  
 - [2020-06-05-荷兰新增新冠肺炎确诊病例210例-累计确诊47152例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1)  
-- [2020-06-05-二级→三级！京津冀下调应急响应级别-二级响应级别省份仅剩2个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1)  
-- [2020-06-05-卢旺达对与刚果（金）接壤的部分地区实行“封城”举措](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1)  
-- [2020-06-05-6月5日6时至13时-天津新增2例境外输入无症状感染者-全程实施闭环管理](http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html)  
-- [2020-06-05-伊朗新增新冠肺炎确诊病例2886例-累计确诊167156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1)  
-- [2020-06-05-中国人民解放军向20国军队提供防疫物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,26 +1018,26 @@
 </summary>
 
 
-- [2020-06-06-周末经典语句摘抄-对称性作用](https://www.v2ex.com/t/679242) ![](assets/new.png)  
-- [2020-06-06-现在哪个云买-2U4G5M3-年的主机比较划算？注册了个套路云新用户，买这个配置的共享型是-2051￥。找代理买会比这个更便宜吗？](https://www.v2ex.com/t/679241) ![](assets/new.png)  
-- [2020-06-06-电脑突然睡眠无法唤醒，各位巨佬救救小妹吧...](https://www.v2ex.com/t/679240) ![](assets/new.png)  
-- [2020-06-06-各位大佬，我又来咨询问题了。我朋友面试时填的工作经历信息简历上也是推后了和离职证明上的实际离职日期不一样隔了三个月，入职时怎么办啊](https://www.v2ex.com/t/679239) ![](assets/new.png)  
-- [2020-06-06-V2EX-的-captive.v2ex.co-不可用](https://www.v2ex.com/t/679238) ![](assets/new.png)  
-- [2020-06-06-关于-SpringBoot-中日志自定义-Logback-配置的问题](https://www.v2ex.com/t/679237) ![](assets/new.png)  
-- [2020-06-06-wsl2-Ubuntu-18.04-安装桌面系统](https://www.v2ex.com/t/679236) ![](assets/new.png)  
-- [2020-06-06-麻烦懂-ios-的进来帮忙看下](https://www.v2ex.com/t/679233) ![](assets/new.png)  
-- [2020-06-06-遇到一个-mysql-问题，如果解决问题红包-50-元。](https://www.v2ex.com/t/679232) ![](assets/new.png)  
-- [2020-06-06-送一波-zClock-兑换码](https://www.v2ex.com/t/679229) ![](assets/new.png)  
-- [2020-06-06-970-pro-从-xfs-格式化到-ext4-随机读写只有-190MB/s](https://www.v2ex.com/t/679227) ![](assets/new.png)  
-- [2020-06-06-短视频-快手/-北京、深圳、杭州、上海-算法、数据、客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/679226) ![](assets/new.png)  
-- [2020-06-06-如何获取-Microsoft-Store-内购物品的-product-id?](https://www.v2ex.com/t/679225) ![](assets/new.png)  
-- [2020-06-06-拼夕夕的-airports2-有人上车过么？](https://www.v2ex.com/t/679224) ![](assets/new.png)  
-- [2020-06-06-Typescript-香吗?](https://www.v2ex.com/t/679223) ![](assets/new.png)  
-- [2020-06-06-怎么知道-Windows-电脑当前是否有声音输出？](https://www.v2ex.com/t/679222) ![](assets/new.png)  
-- [2020-06-06-Fweibo---不知不觉运行了半年的开源开放微博系统](https://www.v2ex.com/t/679221) ![](assets/new.png)  
-- [2020-06-06-jwt-和传统的-session、cookie-的争议](https://www.v2ex.com/t/679220) ![](assets/new.png)  
-- [2020-06-06-我不太清楚-P2P-的原理，理论上不需要服务器，-P2P-的通讯软件无法被监控？](https://www.v2ex.com/t/679217) ![](assets/new.png)  
-- [2020-06-06-求教-Golang-的一个问题](https://www.v2ex.com/t/679216) ![](assets/new.png)  
+- [2020-06-06-周末经典语句摘抄-对称性作用](https://www.v2ex.com/t/679242)  
+- [2020-06-06-现在哪个云买-2U4G5M3-年的主机比较划算？注册了个套路云新用户，买这个配置的共享型是-2051￥。找代理买会比这个更便宜吗？](https://www.v2ex.com/t/679241)  
+- [2020-06-06-电脑突然睡眠无法唤醒，各位巨佬救救小妹吧...](https://www.v2ex.com/t/679240)  
+- [2020-06-06-各位大佬，我又来咨询问题了。我朋友面试时填的工作经历信息简历上也是推后了和离职证明上的实际离职日期不一样隔了三个月，入职时怎么办啊](https://www.v2ex.com/t/679239)  
+- [2020-06-06-V2EX-的-captive.v2ex.co-不可用](https://www.v2ex.com/t/679238)  
+- [2020-06-06-关于-SpringBoot-中日志自定义-Logback-配置的问题](https://www.v2ex.com/t/679237)  
+- [2020-06-06-wsl2-Ubuntu-18.04-安装桌面系统](https://www.v2ex.com/t/679236)  
+- [2020-06-06-麻烦懂-ios-的进来帮忙看下](https://www.v2ex.com/t/679233)  
+- [2020-06-06-遇到一个-mysql-问题，如果解决问题红包-50-元。](https://www.v2ex.com/t/679232)  
+- [2020-06-06-送一波-zClock-兑换码](https://www.v2ex.com/t/679229)  
+- [2020-06-06-970-pro-从-xfs-格式化到-ext4-随机读写只有-190MB/s](https://www.v2ex.com/t/679227)  
+- [2020-06-06-短视频-快手/-北京、深圳、杭州、上海-算法、数据、客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/679226)  
+- [2020-06-06-如何获取-Microsoft-Store-内购物品的-product-id?](https://www.v2ex.com/t/679225)  
+- [2020-06-06-拼夕夕的-airports2-有人上车过么？](https://www.v2ex.com/t/679224)  
+- [2020-06-06-Typescript-香吗?](https://www.v2ex.com/t/679223)  
+- [2020-06-06-怎么知道-Windows-电脑当前是否有声音输出？](https://www.v2ex.com/t/679222)  
+- [2020-06-06-Fweibo---不知不觉运行了半年的开源开放微博系统](https://www.v2ex.com/t/679221)  
+- [2020-06-06-jwt-和传统的-session、cookie-的争议](https://www.v2ex.com/t/679220)  
+- [2020-06-06-我不太清楚-P2P-的原理，理论上不需要服务器，-P2P-的通讯软件无法被监控？](https://www.v2ex.com/t/679217)  
+- [2020-06-06-求教-Golang-的一个问题](https://www.v2ex.com/t/679216)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

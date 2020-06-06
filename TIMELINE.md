@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,11 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-香港新增3例新冠肺炎确诊病例-累计确诊1105例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0S7b2XRrPcn2Ns2OvME200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-俄罗斯新增新冠肺炎确诊病例8855例-累计确诊458689例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsAEJ0s9w51GfFWsYM8t200606&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-3小时带货额近14亿！北京消费季启动-央视Boys再合体-邀你买买买](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrBalZbygQUPJxTa28ZQ200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-民航单日运输旅客量回升破百万-恢复至疫情前六成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-06-阿根廷累计新冠肺炎确诊病例21037例-首都地区放宽隔离限制-将逐户排查病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1) 

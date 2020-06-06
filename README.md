@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 21:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 22:00:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -805,9 +805,9 @@
 </summary>
 
 
-- [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea) ![](assets/new.png)  
-- [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17) ![](assets/new.png)  
-- [2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e) ![](assets/new.png)  
+- [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea)  
+- [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17)  
+- [2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e)  
 - [2020-06-05-卧槽！二维码要被扫完了吗？疫情期间竟用掉了1400亿个！](https://www.ershicimi.com/p/c56004000e3642a2fd83cce159f3c88a)  
 - [2020-06-05-Dubbo-的心跳设计，值得学习！](https://www.ershicimi.com/p/3f23956ac9938add551b9c7e7889235d)  
 - [2020-06-05-推荐一个滴滴开源的跨端整体解决方案！](https://www.ershicimi.com/p/345c4cb02e48d693ca103128e915db95)  
@@ -1018,26 +1018,26 @@
 </summary>
 
 
-- [2020-06-06-周末经典语句摘抄-对称性作用](https://www.v2ex.com/t/679242)  
-- [2020-06-06-现在哪个云买-2U4G5M3-年的主机比较划算？注册了个套路云新用户，买这个配置的共享型是-2051￥。找代理买会比这个更便宜吗？](https://www.v2ex.com/t/679241)  
-- [2020-06-06-电脑突然睡眠无法唤醒，各位巨佬救救小妹吧...](https://www.v2ex.com/t/679240)  
-- [2020-06-06-各位大佬，我又来咨询问题了。我朋友面试时填的工作经历信息简历上也是推后了和离职证明上的实际离职日期不一样隔了三个月，入职时怎么办啊](https://www.v2ex.com/t/679239)  
-- [2020-06-06-V2EX-的-captive.v2ex.co-不可用](https://www.v2ex.com/t/679238)  
-- [2020-06-06-关于-SpringBoot-中日志自定义-Logback-配置的问题](https://www.v2ex.com/t/679237)  
-- [2020-06-06-wsl2-Ubuntu-18.04-安装桌面系统](https://www.v2ex.com/t/679236)  
-- [2020-06-06-麻烦懂-ios-的进来帮忙看下](https://www.v2ex.com/t/679233)  
-- [2020-06-06-遇到一个-mysql-问题，如果解决问题红包-50-元。](https://www.v2ex.com/t/679232)  
-- [2020-06-06-送一波-zClock-兑换码](https://www.v2ex.com/t/679229)  
-- [2020-06-06-970-pro-从-xfs-格式化到-ext4-随机读写只有-190MB/s](https://www.v2ex.com/t/679227)  
-- [2020-06-06-短视频-快手/-北京、深圳、杭州、上海-算法、数据、客户端、后台、测试、产品-UI-等](https://www.v2ex.com/t/679226)  
-- [2020-06-06-如何获取-Microsoft-Store-内购物品的-product-id?](https://www.v2ex.com/t/679225)  
-- [2020-06-06-拼夕夕的-airports2-有人上车过么？](https://www.v2ex.com/t/679224)  
-- [2020-06-06-Typescript-香吗?](https://www.v2ex.com/t/679223)  
-- [2020-06-06-怎么知道-Windows-电脑当前是否有声音输出？](https://www.v2ex.com/t/679222)  
-- [2020-06-06-Fweibo---不知不觉运行了半年的开源开放微博系统](https://www.v2ex.com/t/679221)  
-- [2020-06-06-jwt-和传统的-session、cookie-的争议](https://www.v2ex.com/t/679220)  
-- [2020-06-06-我不太清楚-P2P-的原理，理论上不需要服务器，-P2P-的通讯软件无法被监控？](https://www.v2ex.com/t/679217)  
-- [2020-06-06-求教-Golang-的一个问题](https://www.v2ex.com/t/679216)  
+- [2020-06-06-标-题:-内推-字节跳动-抖音-后台核心研发工程师](https://www.v2ex.com/t/679272) ![](assets/new.png)  
+- [2020-06-06-QQ-音乐是否存在针对性地将一些歌曲设置为-VIP-才能听完整的？](https://www.v2ex.com/t/679271) ![](assets/new.png)  
+- [2020-06-06-Android-手机-root-求助高手（1000-元奖励）](https://www.v2ex.com/t/679270) ![](assets/new.png)  
+- [2020-06-06-一个用-Django-写公司内部系统的运维狗怎么能提高数据的设计水平？](https://www.v2ex.com/t/679269) ![](assets/new.png)  
+- [2020-06-06-最近准备搞一个微信公众号接入一个商城，微店有人搞过吗？（店是针对本地的一个饮用水商城，不在乎推广）](https://www.v2ex.com/t/679267) ![](assets/new.png)  
+- [2020-06-06-低性能家庭网络改进求建议](https://www.v2ex.com/t/679264) ![](assets/new.png)  
+- [2020-06-06-苹果手机闹钟最长时间](https://www.v2ex.com/t/679263) ![](assets/new.png)  
+- [2020-06-06-爱思助手-有-Mac-版本了](https://www.v2ex.com/t/679261) ![](assets/new.png)  
+- [2020-06-06-mac-触控板如何切换非全屏应用？](https://www.v2ex.com/t/679260) ![](assets/new.png)  
+- [2020-06-06-DEVONthink-To-Go-0202-年-iPad-iPhone-上超实用的文档管理工具](https://www.v2ex.com/t/679259) ![](assets/new.png)  
+- [2020-06-06-大二计算机学生，求发展建议](https://www.v2ex.com/t/679258) ![](assets/new.png)  
+- [2020-06-06-新站你们是怎么推广的喔?](https://www.v2ex.com/t/679256) ![](assets/new.png)  
+- [2020-06-06-怎么感觉-filco-茶轴没我-100-多的青轴爽](https://www.v2ex.com/t/679255) ![](assets/new.png)  
+- [2020-06-06-问下这个-SQL-怎么写，订单表获取每个用户最后三个商品种类统计，另外，送一个洗牙券](https://www.v2ex.com/t/679254) ![](assets/new.png)  
+- [2020-06-06-校招-offer-比较：字节-ios-和电信-21cn-Java](https://www.v2ex.com/t/679253) ![](assets/new.png)  
+- [2020-06-06-戒断反应好难熬，有谁可以告诉我怎么度过吗？](https://www.v2ex.com/t/679252) ![](assets/new.png)  
+- [2020-06-06-一个很酷的音乐播放器](https://www.v2ex.com/t/679250) ![](assets/new.png)  
+- [2020-06-06-字节跳动国际化团队-Helo-招新啦！深圳！](https://www.v2ex.com/t/679249) ![](assets/new.png)  
+- [2020-06-06-FreeNAS-请问-6-块-2T-的硬盘采用什么方案？](https://www.v2ex.com/t/679248) ![](assets/new.png)  
+- [2020-06-06-MacOS-电源图标迷惑行为](https://www.v2ex.com/t/679247) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

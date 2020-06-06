@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1177,6 +1177,9 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309) 
+- [2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e) 
+- [2020-06-06-技术债务就像俄罗斯方块，你永远都赢不了！](https://www.ershicimi.com/p/10a960b2f4e2509e2b79a3321293d34e) 
 - [2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b) 
 - [2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1) 
 - [2020-06-05-程序员要如何拥抱新技术？腾讯云+社区以实战经验为你解锁答案-|-Q推荐](https://www.ershicimi.com/p/cfcc3bbb92c1620555045a0483824b3a) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 12:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 12:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-民航单日运输旅客量回升破百万-恢复至疫情前六成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-阿根廷累计新冠肺炎确诊病例21037例-首都地区放宽隔离限制-将逐户排查病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-巴西新增新冠肺炎确诊病例30830例-累计确诊645771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45pWnzrThPP3lrIR1EtF200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-韩国新增新冠肺炎确诊病例51例-累计确诊11719例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioC2YaUS3w2CpgfCwo9y9200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1)  
+- [2020-06-06-民航单日运输旅客量回升破百万-恢复至疫情前六成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1)  
+- [2020-06-06-阿根廷累计新冠肺炎确诊病例21037例-首都地区放宽隔离限制-将逐户排查病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1)  
+- [2020-06-06-巴西新增新冠肺炎确诊病例30830例-累计确诊645771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45pWnzrThPP3lrIR1EtF200606&isfromapp=1)  
+- [2020-06-06-韩国新增新冠肺炎确诊病例51例-累计确诊11719例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioC2YaUS3w2CpgfCwo9y9200606&isfromapp=1)  
 - [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1)  
 - [2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1)  
 - [2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1)  
@@ -836,6 +836,11 @@
 </summary>
 
 
+- [2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309) ![](assets/new.png)  
+- [2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e) ![](assets/new.png)  
+- [2020-06-06-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/4fed631426197806bf80075765d00d8c) ![](assets/new.png)  
+- [2020-06-06-技术债务就像俄罗斯方块，你永远都赢不了！](https://www.ershicimi.com/p/10a960b2f4e2509e2b79a3321293d34e) ![](assets/new.png)  
+- [2020-06-06-4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c) ![](assets/new.png)  
 - [2020-06-05-留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718)  
 - [2020-06-05-万丈高楼平地起：Walmart-如何打造平台开发团队](https://www.ershicimi.com/p/03d523930d8c84735d804c8c4cea223b)  
 - [2020-06-05-从处理器到操作系统，新基建下全面重塑算力生态](https://www.ershicimi.com/p/f294e759c54d3d7e3a28aa1966da3ea1)  
@@ -851,11 +856,6 @@
 - [2020-06-03-C语言太复杂？CUDA-Python也能实现并行计算加速！|-Q推荐](https://www.ershicimi.com/p/d77b4b0e3b5669826e0c7e87bd1833a0)  
 - [2020-06-03-Sign-in-with-Apple-被曝零日漏洞，可远程劫持任意用户帐号](https://www.ershicimi.com/p/abd8f88a24dda293921f705c7a0ed1c6)  
 - [2020-06-02-从编译原理出发，看看你和资深-coder-差在哪儿？|-极客时间](https://www.ershicimi.com/p/9a308a2609c111631d7437d574bc5816)  
-- [2020-06-02-使用-Kubernetes-最常见的-10-个错误](https://www.ershicimi.com/p/4449226cb42b86dbc67c9d5d9cb59187)  
-- [2020-06-02-GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)  
-- [2020-06-02-能轻松处理万亿量级业务数据的-TiDB-究竟是什么？|-Q推荐](https://www.ershicimi.com/p/45c144420d1b958a16a6f15c07adccef)  
-- [2020-06-02-4个好用的Linux监控工具](https://www.ershicimi.com/p/ce7f334461b6fe01365d8e0dccc63edc)  
-- [2020-06-01-什么？你的团队没有100人，那就不要用微服务了！](https://www.ershicimi.com/p/5a74800e9a60c92292eb05a839e7d6e2)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

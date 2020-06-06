@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-06 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -590,6 +590,7 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
+- [【InfoQ】4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c)
 - [【InfoQ】GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)
 - [【InfoQ】GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775)
 - [【掘金前端】关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62)
@@ -602,7 +603,6 @@
 - [【V2EX】写了个-GitHub-Action-帮助有多个域名,甚至在不同服务商的自动化批量申请证书工作流.](https://www.v2ex.com/t/678176)
 - [【V2EX】VS-Code-畅游-Github-的新方式：-Remote-Github](https://www.v2ex.com/t/677345)
 - [【V2EX】用-GitHub-的-issues-做工单系统咋样？](https://www.v2ex.com/t/677285)
-- [【V2EX】收到了人生中第一个-GitHub-Sponsor-🎉](https://www.v2ex.com/t/676919)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

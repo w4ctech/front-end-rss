@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -315,6 +315,9 @@
 - [【程序员成长指北】2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
 - [【程序员成长指北】2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
+- [【Nodejs技术栈】2020-06-04-使用-Nodejs-开发的-SpaceX-API-开源了！](https://www.ershicimi.com/p/6a27f07dddeec88b4e1edc78928f022b) 
+- [【Nodejs技术栈】2020-06-03-从零开始搭建企业级私有鉴权-NPM-仓库](https://www.ershicimi.com/p/534d15d47d0706190d1490e0c87d2d72) 
+- [【Nodejs技术栈】2020-06-01-基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [【阮一峰的网络日志】2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [【奇舞周刊】2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3) 
@@ -2081,6 +2084,8 @@
 - [【程序员成长指北】2020-05-22-不可错过的实用前端工具](https://www.ershicimi.com/p/3262dfba4696ddb8d8f9b63d72368141) 
 - [【程序员成长指北】2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) 
 - [【程序员成长指北】2020-05-21-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/6a33e1a04d4f90c93d1f71534e7f9690) 
+- [【Nodejs技术栈】2020-05-31-微视频｜记录日常一篇文章的发布过程](https://www.ershicimi.com/p/766631ad7cb16a4ada17cd68e2a7ddaa) 
+- [【Nodejs技术栈】2020-05-30-在-Nodejs-中-ES-Modules-使用入门讲解](https://www.ershicimi.com/p/8bc787b0012d1120c08b36aadb7c74c5) 
 - [【Nodejs技术栈】2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4) 
 - [【Nodejs技术栈】2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606) 
 - [【Nodejs技术栈】2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c) 

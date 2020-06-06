@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 09:00:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 09:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -614,6 +614,11 @@
 </summary>
 
 
+- [2020-06-04-使用-Nodejs-开发的-SpaceX-API-开源了！](https://www.ershicimi.com/p/6a27f07dddeec88b4e1edc78928f022b) ![](assets/new.png)  
+- [2020-06-03-从零开始搭建企业级私有鉴权-NPM-仓库](https://www.ershicimi.com/p/534d15d47d0706190d1490e0c87d2d72) ![](assets/new.png)  
+- [2020-06-01-基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4) ![](assets/new.png)  
+- [2020-05-31-微视频｜记录日常一篇文章的发布过程](https://www.ershicimi.com/p/766631ad7cb16a4ada17cd68e2a7ddaa) ![](assets/new.png)  
+- [2020-05-30-在-Nodejs-中-ES-Modules-使用入门讲解](https://www.ershicimi.com/p/8bc787b0012d1120c08b36aadb7c74c5) ![](assets/new.png)  
 - [2020-05-27-推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4)  
 - [2020-05-27-Node-使用火焰图优化-CPU-爆涨](https://www.ershicimi.com/p/0e3183f857274588e26be2a616670606)  
 - [2020-05-24-Nodejs-v14.3.0-发布支持顶级-Await-和-REPL-增强功能](https://www.ershicimi.com/p/f0b3d70c021f2394db8703a831a1464c)  
@@ -1075,20 +1080,20 @@
 </summary>
 
 
-- [2020-06-06-积木法搭建-iOS-应用：VIPER](https://toutiao.io/k/ihl8vqy) ![](assets/new.png)  
-- [2020-06-06-Java-并发编程那些事儿（七）：取消及关闭](https://toutiao.io/k/8ktbvdp) ![](assets/new.png)  
-- [2020-06-06-Apache-Flink-误用之痛](https://toutiao.io/k/5ktivf0) ![](assets/new.png)  
-- [2020-06-06-即将发布的-Flink-1.11-新特性：流批一体的-Hive-数仓](https://toutiao.io/k/t7cek5l) ![](assets/new.png)  
-- [2020-06-06-基于-DDD-的-Golang-实现](https://toutiao.io/k/lfkrz83) ![](assets/new.png)  
-- [2020-06-06-Python-为什么没有-main-函数？为什么我不推荐写-main-函数？](https://toutiao.io/k/34m0ejb) ![](assets/new.png)  
-- [2020-06-06-攻击无处不在，区块链里三种常见的攻击类型](https://toutiao.io/k/e45j35z) ![](assets/new.png)  
-- [2020-06-06-Flutter-Weekly-Issue-58](https://toutiao.io/k/6ukxpmm) ![](assets/new.png)  
-- [2020-06-06-Spug-开源运维平台新功能更新](https://toutiao.io/k/swgezz8) ![](assets/new.png)  
-- [2020-06-06-以太坊中-GraphQL-简介及使用](https://toutiao.io/k/wjzb8sl) ![](assets/new.png)  
-- [2020-06-06-如何正确地谈薪？面试答题篇（Ⅴ）](https://toutiao.io/k/bygodbj) ![](assets/new.png)  
-- [2020-06-06-技术管理者标准管理模板](https://toutiao.io/k/31my9be) ![](assets/new.png)  
-- [2020-06-06-CVPR2020-|-SCNet：自校正卷积网络，无复杂度增加换来性能提升](https://toutiao.io/k/4af4nzg) ![](assets/new.png)  
-- [2020-06-06-一次线上-JVM-问题的排查：一把无人持有的锁](https://toutiao.io/k/cp13h47) ![](assets/new.png)  
+- [2020-06-06-积木法搭建-iOS-应用：VIPER](https://toutiao.io/k/ihl8vqy)  
+- [2020-06-06-Java-并发编程那些事儿（七）：取消及关闭](https://toutiao.io/k/8ktbvdp)  
+- [2020-06-06-Apache-Flink-误用之痛](https://toutiao.io/k/5ktivf0)  
+- [2020-06-06-即将发布的-Flink-1.11-新特性：流批一体的-Hive-数仓](https://toutiao.io/k/t7cek5l)  
+- [2020-06-06-基于-DDD-的-Golang-实现](https://toutiao.io/k/lfkrz83)  
+- [2020-06-06-Python-为什么没有-main-函数？为什么我不推荐写-main-函数？](https://toutiao.io/k/34m0ejb)  
+- [2020-06-06-攻击无处不在，区块链里三种常见的攻击类型](https://toutiao.io/k/e45j35z)  
+- [2020-06-06-Flutter-Weekly-Issue-58](https://toutiao.io/k/6ukxpmm)  
+- [2020-06-06-Spug-开源运维平台新功能更新](https://toutiao.io/k/swgezz8)  
+- [2020-06-06-以太坊中-GraphQL-简介及使用](https://toutiao.io/k/wjzb8sl)  
+- [2020-06-06-如何正确地谈薪？面试答题篇（Ⅴ）](https://toutiao.io/k/bygodbj)  
+- [2020-06-06-技术管理者标准管理模板](https://toutiao.io/k/31my9be)  
+- [2020-06-06-CVPR2020-|-SCNet：自校正卷积网络，无复杂度增加换来性能提升](https://toutiao.io/k/4af4nzg)  
+- [2020-06-06-一次线上-JVM-问题的排查：一把无人持有的锁](https://toutiao.io/k/cp13h47)  
 - [2020-06-05-推荐-万字长文教你对抗邪恶的爬虫](https://toutiao.io/k/m6fc60e)  
 - [2020-06-05-改掉这些坏习惯，还怕写不出优雅的代码？（二）](https://toutiao.io/k/29n9osh)  
 - [2020-06-05-全（小区局域）网最强-TCP/IP-拥塞控制总结](https://toutiao.io/k/3vappqq)  

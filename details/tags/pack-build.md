@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -13,6 +13,7 @@
 - [2020-06-04-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7) 
 - [2020-05-29-是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/b3b5e5fd453bfbd05d914af154bd502f) 
 - [2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
+- [2020-06-03-从零开始搭建企业级私有鉴权-NPM-仓库](https://www.ershicimi.com/p/534d15d47d0706190d1490e0c87d2d72) 
 - [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 

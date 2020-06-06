@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-06 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -35,6 +35,7 @@
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
 - [2020-06-03-前端进阶算法9：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://juejin.im/post/5ed6eb78e51d45785c694dee) 
 - [2020-06-01-前端面试：http专场，你需要懂的知识](https://juejin.im/post/5ed0d289e51d45783d0ea4b7) 
+- [2020-06-06-为什么-油管的-推荐算法-这么烂](https://www.v2ex.com/t/679160) 
 - [2020-06-05-Java-和-web-全栈该怎么选？](https://www.v2ex.com/t/679049) 
 - [2020-06-05-平时经常使用-vim-的兄弟姐妹们，你们用什么键当-leader？](https://www.v2ex.com/t/679037) 
 - [2020-06-05-AWS-中国区EC2/RDS/Elasticache-计算器分享-https://cloud.engineerdraft.com/](https://www.v2ex.com/t/679030) 

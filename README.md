@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 09:00:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1) ![](assets/new.png)  
-- [2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1)  
+- [2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1)  
+- [2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1)  
 - [2020-06-06-关心旅非同胞-中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1)  
 - [2020-06-06-世卫组织：全球新冠肺炎确诊病例新增118526例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1)  
 - [2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1)  
@@ -1075,26 +1075,26 @@
 </summary>
 
 
+- [2020-06-06-积木法搭建-iOS-应用：VIPER](https://toutiao.io/k/ihl8vqy) ![](assets/new.png)  
+- [2020-06-06-Java-并发编程那些事儿（七）：取消及关闭](https://toutiao.io/k/8ktbvdp) ![](assets/new.png)  
+- [2020-06-06-Apache-Flink-误用之痛](https://toutiao.io/k/5ktivf0) ![](assets/new.png)  
+- [2020-06-06-即将发布的-Flink-1.11-新特性：流批一体的-Hive-数仓](https://toutiao.io/k/t7cek5l) ![](assets/new.png)  
+- [2020-06-06-基于-DDD-的-Golang-实现](https://toutiao.io/k/lfkrz83) ![](assets/new.png)  
+- [2020-06-06-Python-为什么没有-main-函数？为什么我不推荐写-main-函数？](https://toutiao.io/k/34m0ejb) ![](assets/new.png)  
+- [2020-06-06-攻击无处不在，区块链里三种常见的攻击类型](https://toutiao.io/k/e45j35z) ![](assets/new.png)  
+- [2020-06-06-Flutter-Weekly-Issue-58](https://toutiao.io/k/6ukxpmm) ![](assets/new.png)  
+- [2020-06-06-Spug-开源运维平台新功能更新](https://toutiao.io/k/swgezz8) ![](assets/new.png)  
+- [2020-06-06-以太坊中-GraphQL-简介及使用](https://toutiao.io/k/wjzb8sl) ![](assets/new.png)  
+- [2020-06-06-如何正确地谈薪？面试答题篇（Ⅴ）](https://toutiao.io/k/bygodbj) ![](assets/new.png)  
+- [2020-06-06-技术管理者标准管理模板](https://toutiao.io/k/31my9be) ![](assets/new.png)  
+- [2020-06-06-CVPR2020-|-SCNet：自校正卷积网络，无复杂度增加换来性能提升](https://toutiao.io/k/4af4nzg) ![](assets/new.png)  
+- [2020-06-06-一次线上-JVM-问题的排查：一把无人持有的锁](https://toutiao.io/k/cp13h47) ![](assets/new.png)  
 - [2020-06-05-推荐-万字长文教你对抗邪恶的爬虫](https://toutiao.io/k/m6fc60e)  
 - [2020-06-05-改掉这些坏习惯，还怕写不出优雅的代码？（二）](https://toutiao.io/k/29n9osh)  
 - [2020-06-05-全（小区局域）网最强-TCP/IP-拥塞控制总结](https://toutiao.io/k/3vappqq)  
 - [2020-06-05-MongoDB-技术从-0-到-1+](https://toutiao.io/k/jc7qnjq)  
 - [2020-06-05-Raft-共识算法](https://toutiao.io/k/dydhr64)  
 - [2020-06-05-StackOverflow-2020-开发者报告精粹](https://toutiao.io/k/rq0mlj1)  
-- [2020-06-05-Spring-Boot-代码生成器，从此不用手撸代码](https://toutiao.io/k/9e853fq)  
-- [2020-06-05-静态网站架构的演进和最佳实践](https://toutiao.io/k/7iyoomy)  
-- [2020-06-05-Netty-核心源码解读（开篇）](https://toutiao.io/k/wlce4oz)  
-- [2020-06-05-这几道经典例题帮你轻松搞透贪心算法](https://toutiao.io/k/dg182qt)  
-- [2020-06-05-来自-1000+-个项目的-10-大-JavaScript-错误（以及如何避免）](https://toutiao.io/k/ve4pbhn)  
-- [2020-06-05-漫谈分布式系统（十五）：扩展性的最后障碍](https://toutiao.io/k/y6w7ma0)  
-- [2020-06-05-你不知道的-Blob](https://toutiao.io/k/32rkqen)  
-- [2020-06-05-一文带你彻底厘清-Isito-中的证书工作机制](https://toutiao.io/k/3l5hxf6)  
-- [2020-06-05-译-为什么-Kubernetes-如此受欢迎？你学了吗？](https://toutiao.io/k/95aamj1)  
-- [2020-06-05-对于单例模式面试官会怎样提问呢？你又该如何回答呢？](https://toutiao.io/k/lb5rflp)  
-- [2020-06-05-面试官：兄弟，说说-Java-的-static-关键字吧](https://toutiao.io/k/nbm92x5)  
-- [2020-06-05-过滤器和拦截器的-6-个区别，别再傻傻分不清了](https://toutiao.io/k/s38bn8t)  
-- [2020-06-05-程序员都惧怕的故障域](https://toutiao.io/k/1ge2cpb)  
-- [2020-06-05-记录几种-XSS-绕过方式](https://toutiao.io/k/2f2ek0i)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

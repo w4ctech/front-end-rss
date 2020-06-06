@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 04:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-07-疫情下非洲线上购物发展迅猛，电子支付成新宠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1) ![](assets/new.png)  
-- [2020-06-07-哈萨克斯坦总统新闻秘书确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC4ls333XqaPJKakEY67L200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-疫情下非洲线上购物发展迅猛，电子支付成新宠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1)  
+- [2020-06-07-哈萨克斯坦总统新闻秘书确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC4ls333XqaPJKakEY67L200607&isfromapp=1)  
 - [2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1)  
 - [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1)  
 - [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1)  
 - [2020-06-06-关心旅非同胞-中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1)  
 - [2020-06-06-世卫组织：全球新冠肺炎确诊病例新增118526例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1)  
-- [2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

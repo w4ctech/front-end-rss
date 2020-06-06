@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 08:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端早读课](#前端早读课)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-06-关心旅非同胞-中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-世卫组织：全球新冠肺炎确诊病例新增118526例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-美国超半数新冠肺炎死亡病例来自养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1) ![](assets/new.png)  
 - [2020-06-05-英国新增新冠肺炎确诊病例1650例-累计确诊283311例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1)  
 - [2020-06-05-加拿大5月份失业率创40年来最高纪录,高达13.7％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1)  
 - [2020-06-05-荷兰新增新冠肺炎确诊病例210例-累计确诊47152例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-05-东京不举行奥运会倒计时一周年纪念活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwH4C8Oet4gCLiTv9GibP200605&isfromapp=1)  
 - [2020-06-05-英国新冠肺炎确诊病例超28万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuhwmOGQUw2VLhAtCGJTP200605&isfromapp=1)  
 - [2020-06-05-湖北省新冠肺炎现有确诊病例清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwigytBajnEwCcBXxKy24200605&isfromapp=1)  
-- [2020-06-05-四川省4日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidnroDXNMvSOpPVUqFFWl200605&isfromapp=1)  
-- [2020-06-05-四川省新型冠状病毒肺炎疫情最新情况（6月5日发布）](http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/6/5/8f68345aa9f846af8916190cbcb6b0ec.shtml)  
-- [2020-06-05-国家卫健委：4日新增新冠肺炎确诊病例5例-均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXRJN9Jc3n7cqy6XnoXBS200605&isfromapp=1)  
-- [2020-06-05-埃及一议员确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTrASzhlIg0mlgNlalQf0200605&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,7 +219,7 @@
 </summary>
 
 
-- [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) ![](assets/new.png)  
+- [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)  
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)  
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)  
 - [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)  
@@ -250,6 +250,8 @@
 </summary>
 
 
+- [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) ![](assets/new.png)  
+- [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) ![](assets/new.png)  
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)  
 - [2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3)  
 - [2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60)  
@@ -268,8 +270,6 @@
 - [2020-05-26-面向对象：带点文艺的理工女，寻找真诚上进的你](https://www.ershicimi.com/p/a99c242ab5083719dbd0afed684885d0)  
 - [2020-05-25-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/eb9c53b67264e6009ce4b0329e663871)  
 - [2020-05-25-JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37)  
-- [2020-05-24-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/489386fe087d137fe88a6bc2d4434e13)  
-- [2020-05-23-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

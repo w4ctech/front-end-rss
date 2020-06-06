@@ -5102,6 +5102,26 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "关心旅非同胞 中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1",
+        "date": "2020-06-06"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎确诊病例新增118526例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1",
+        "date": "2020-06-06"
+      },
+      {
+        "title": "巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1",
+        "date": "2020-06-06"
+      },
+      {
+        "title": "美国超半数新冠肺炎死亡病例来自养老院",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1",
+        "date": "2020-06-06"
+      },
+      {
         "title": "英国新增新冠肺炎确诊病例1650例 累计确诊283311例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1",
         "date": "2020-06-05"
@@ -6323,6 +6343,16 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "前端开发进阶手册",
+        "link": "https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117",
+        "date": "2020-06-05"
+      },
+      {
+        "title": "原生 JS 封装拖动验证滑块你会吗？",
+        "link": "https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c",
+        "date": "2020-06-05"
+      },
       {
         "title": "尤雨溪：重头来过的 Vue 3 带来了什么？",
         "link": "https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832",

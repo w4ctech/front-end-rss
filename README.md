@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-06 20:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-06 21:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1) ![](assets/new.png)  
+- [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1)  
 - [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1)  
 - [2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1)  
 - [2020-06-06-香港新增3例新冠肺炎确诊病例-累计确诊1105例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0S7b2XRrPcn2Ns2OvME200606&isfromapp=1)  
@@ -805,6 +805,9 @@
 </summary>
 
 
+- [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea) ![](assets/new.png)  
+- [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17) ![](assets/new.png)  
+- [2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e) ![](assets/new.png)  
 - [2020-06-05-卧槽！二维码要被扫完了吗？疫情期间竟用掉了1400亿个！](https://www.ershicimi.com/p/c56004000e3642a2fd83cce159f3c88a)  
 - [2020-06-05-Dubbo-的心跳设计，值得学习！](https://www.ershicimi.com/p/3f23956ac9938add551b9c7e7889235d)  
 - [2020-06-05-推荐一个滴滴开源的跨端整体解决方案！](https://www.ershicimi.com/p/345c4cb02e48d693ca103128e915db95)  
@@ -822,9 +825,6 @@
 - [2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)  
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d)  
 - [2020-05-31-图解-MySQL-索引：B-树、B+树，终于搞清楚了！](https://www.ershicimi.com/p/bf3dbedc7ac978aca0b61c8bbb5a1715)  
-- [2020-05-31-一个很艰难的-Java-核心面试问题！](https://www.ershicimi.com/p/4d5a529a417a77c20708d467f71202e8)  
-- [2020-05-30-厉害，Spring-Boot-2.3.0-刚刚发布了！](https://www.ershicimi.com/p/ecb950bed2975d411dbf836dfee4c614)  
-- [2020-05-30-非常强悍的-RabbitMQ-总结，写得真好！](https://www.ershicimi.com/p/3e033b8ff6b404e635e9b73252a1b026)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

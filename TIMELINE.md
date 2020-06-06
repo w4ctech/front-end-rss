@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-06 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-06 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -340,6 +340,9 @@
 - [【前端日刊】2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d) 
 - [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
+- [【互联网架构师】2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea) 
+- [【互联网架构师】2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17) 
+- [【互联网架构师】2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e) 
 - [【互联网架构师】2020-06-05-卧槽！二维码要被扫完了吗？疫情期间竟用掉了1400亿个！](https://www.ershicimi.com/p/c56004000e3642a2fd83cce159f3c88a) 
 - [【互联网架构师】2020-06-05-Dubbo-的心跳设计，值得学习！](https://www.ershicimi.com/p/3f23956ac9938add551b9c7e7889235d) 
 - [【互联网架构师】2020-06-05-推荐一个滴滴开源的跨端整体解决方案！](https://www.ershicimi.com/p/345c4cb02e48d693ca103128e915db95) 

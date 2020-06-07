@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-伊朗新增新冠肺炎确诊病例2364例，累计确诊171789例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-世卫组织：全球新冠肺炎确诊病例超675万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-吉林市最后2名新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1) 
@@ -414,6 +415,11 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-07-手摸手Electron-+-Vue实战教程（三）](https://juejin.im/post/5edcc259f265da76d9261a20) 
+- [【掘金前端】2020-06-07-对少儿编程的一点看法和-blockly-开发的一点心得](https://juejin.im/post/5edb810851882542eb3eecd0) 
+- [【掘金前端】2020-06-07-React-Hooks：正确运用Memoization（记忆化）解决性能问题](https://juejin.im/post/5ed6114251882542fb06d83e) 
+- [【掘金前端】2020-06-07-以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438) 
+- [【掘金前端】2020-06-07-前端职业规划---如何从一线开发转职架构师](https://juejin.im/post/5edc987b6fb9a047ae453526) 
 - [【掘金前端】2020-06-07-前端面试---如何考察候选人的架构能力](https://juejin.im/post/5edb81f251882543194ed48a) 
 - [【掘金前端】2020-06-07-Navigation-Timing-API-入门](https://juejin.im/post/5edc6b16e51d45784f801279) 
 - [【掘金前端】2020-06-07-Dart---抽象类的实例化](https://juejin.im/post/5edc79bf6fb9a047eb399384) 

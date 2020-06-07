@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "伊朗新增新冠肺炎确诊病例2364例，累计确诊171789例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1",
+        "date": "2020-06-07"
+      },
+      {
         "title": "世卫组织：全球新冠肺炎确诊病例超675万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1",
         "date": "2020-06-07"
@@ -9906,6 +9911,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "手摸手Electron + Vue实战教程（三）",
+        "link": "https://juejin.im/post/5edcc259f265da76d9261a20",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "对少儿编程的一点看法和 blockly 开发的一点心得",
+        "link": "https://juejin.im/post/5edb810851882542eb3eecd0",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "React Hooks：正确运用Memoization（记忆化）解决性能问题",
+        "link": "https://juejin.im/post/5ed6114251882542fb06d83e",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "以游戏玩家的视角开启设计模式",
+        "link": "https://juejin.im/post/5edcb5a5e51d457863403438",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "前端职业规划 - 如何从一线开发转职架构师",
+        "link": "https://juejin.im/post/5edc987b6fb9a047ae453526",
+        "date": "2020-06-07"
+      },
       {
         "title": "前端面试 - 如何考察候选人的架构能力",
         "link": "https://juejin.im/post/5edb81f251882543194ed48a",

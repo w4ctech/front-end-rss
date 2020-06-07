@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 09:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1)  
 - [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
 - [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
 - [2020-06-07-希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1)  
@@ -1018,6 +1018,10 @@
 </summary>
 
 
+- [2020-06-07-请教一下各位，淘宝，京东卖的-office365-家庭版都是世纪互联运营的吗？](https://www.v2ex.com/t/679333) ![](assets/new.png)  
+- [2020-06-07-Fluent-UI-的文档和库应该如何选择？](https://www.v2ex.com/t/679331) ![](assets/new.png)  
+- [2020-06-07-快手-9-周年宣传片《看见》中门对狙-B-站](https://www.v2ex.com/t/679330) ![](assets/new.png)  
+- [2020-06-07-昨天买了命令与征服-remastered](https://www.v2ex.com/t/679328) ![](assets/new.png)  
 - [2020-06-07-Apple-Watch-如何添加-SMIME-证书？](https://www.v2ex.com/t/679327)  
 - [2020-06-07-想给网站加一个彩蛋，判断-IE-浏览器访问，则输出的数据为前一天的。](https://www.v2ex.com/t/679326)  
 - [2020-06-07-昨晚用树脂修复了挡风玻璃破损，效果不错。](https://www.v2ex.com/t/679325)  
@@ -1034,10 +1038,6 @@
 - [2020-06-07-win10-xming-新窗口不置前](https://www.v2ex.com/t/679310)  
 - [2020-06-07-公司是否应当在配备办公区域配备心脏除颤器等急救设备](https://www.v2ex.com/t/679309)  
 - [2020-06-07-这样的摆摊小程序，你们会支持吗？](https://www.v2ex.com/t/679308)  
-- [2020-06-07-现在有哪些偏技术的产品岗位吗？](https://www.v2ex.com/t/679306)  
-- [2020-06-07-请问-vue-项目-怎么测试-单-js-文件（import-语法-node-执行会出错）](https://www.v2ex.com/t/679303)  
-- [2020-06-07-发现一个-AirPods-连接的-bug](https://www.v2ex.com/t/679302)  
-- [2020-06-07-iPad-Pro-换新保修预计到期不是一年？](https://www.v2ex.com/t/679300)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

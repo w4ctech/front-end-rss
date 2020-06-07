@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-科技部：当然要溯源，目的只有一个：科学应对新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套](http://m.weibo.cn/2803301701/4513138404609313) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-科技部：中国疫苗完成研制和临床试验后，将作为公共产品向全球提供](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIKn6NzNy928sWuhabziE200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1) 

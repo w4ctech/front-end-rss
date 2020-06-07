@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 16:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 17:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-吉林市最后2名新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1)  
 - [2020-06-07-国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1)  
 - [2020-06-07-科技部：当然要溯源，目的只有一个：科学应对新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1)  
 - [2020-06-07-白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套](http://m.weibo.cn/2803301701/4513138404609313)  
@@ -113,7 +114,6 @@
 - [2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1)  
 - [2020-06-06-香港新增3例新冠肺炎确诊病例-累计确诊1105例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0S7b2XRrPcn2Ns2OvME200606&isfromapp=1)  
 - [2020-06-06-俄罗斯新增新冠肺炎确诊病例8855例-累计确诊458689例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsAEJ0s9w51GfFWsYM8t200606&isfromapp=1)  
-- [2020-06-06-3小时带货额近14亿！北京消费季启动-央视Boys再合体-邀你买买买](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrBalZbygQUPJxTa28ZQ200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -467,9 +467,9 @@
 </summary>
 
 
-- [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5) ![](assets/new.png)  
-- [2020-06-07-我在阿里是怎么工作的，写在阿里入职一周年](https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06) ![](assets/new.png)  
-- [2020-06-06-七大热门小程序框架横评，谁是性能之王](https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f) ![](assets/new.png)  
+- [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5)  
+- [2020-06-07-我在阿里是怎么工作的，写在阿里入职一周年](https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06)  
+- [2020-06-06-七大热门小程序框架横评，谁是性能之王](https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f)  
 - [2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9)  
 - [2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57)  
 - [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da)  

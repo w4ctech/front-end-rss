@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 08:30:21，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767) ![](assets/new.png)  
+- [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
 - [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
 - [2020-06-07-希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1)  
 - [2020-06-07-疫情下非洲线上购物发展迅猛，电子支付成新宠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-06-韩国新增新冠肺炎确诊病例51例-累计确诊11719例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioC2YaUS3w2CpgfCwo9y9200606&isfromapp=1)  
 - [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1)  
 - [2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1)  
-- [2020-06-06-厄瓜多尔“复苏”加速-近半数地区降低防疫级别](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,26 +1018,26 @@
 </summary>
 
 
-- [2020-06-07-Apple-Watch-如何添加-SMIME-证书？](https://www.v2ex.com/t/679327) ![](assets/new.png)  
-- [2020-06-07-想给网站加一个彩蛋，判断-IE-浏览器访问，则输出的数据为前一天的。](https://www.v2ex.com/t/679326) ![](assets/new.png)  
-- [2020-06-07-昨晚用树脂修复了挡风玻璃破损，效果不错。](https://www.v2ex.com/t/679325) ![](assets/new.png)  
-- [2020-06-07-初三编程小白请教各位前辈，初学学什么语言好？](https://www.v2ex.com/t/679323) ![](assets/new.png)  
-- [2020-06-07-路由器品牌](https://www.v2ex.com/t/679322) ![](assets/new.png)  
-- [2020-06-07-Launcher-里突然冒出了-Launcher-的图标？～-什么鬼？](https://www.v2ex.com/t/679321) ![](assets/new.png)  
-- [2020-06-07-刚才-V2EX-掉线了，，](https://www.v2ex.com/t/679319) ![](assets/new.png)  
-- [2020-06-07-外包或兼职相关](https://www.v2ex.com/t/679317) ![](assets/new.png)  
-- [2020-06-07-世界上第亿好用的记账-APP，又又又更新了](https://www.v2ex.com/t/679316) ![](assets/new.png)  
-- [2020-06-07-开个贴记录刷《算法导论》的过程](https://www.v2ex.com/t/679315) ![](assets/new.png)  
-- [2020-06-07-通过路由器插件实现游戏加速，有什么建议吗？](https://www.v2ex.com/t/679313) ![](assets/new.png)  
-- [2020-06-07-不懂就问--PS5-还能走后台么？](https://www.v2ex.com/t/679312) ![](assets/new.png)  
-- [2020-06-07-2020-更新了-Mac-os-Catalina-10.15-我要崩溃了。](https://www.v2ex.com/t/679311) ![](assets/new.png)  
-- [2020-06-07-win10-xming-新窗口不置前](https://www.v2ex.com/t/679310) ![](assets/new.png)  
-- [2020-06-07-公司是否应当在配备办公区域配备心脏除颤器等急救设备](https://www.v2ex.com/t/679309) ![](assets/new.png)  
-- [2020-06-07-这样的摆摊小程序，你们会支持吗？](https://www.v2ex.com/t/679308) ![](assets/new.png)  
-- [2020-06-07-现在有哪些偏技术的产品岗位吗？](https://www.v2ex.com/t/679306) ![](assets/new.png)  
-- [2020-06-07-请问-vue-项目-怎么测试-单-js-文件（import-语法-node-执行会出错）](https://www.v2ex.com/t/679303) ![](assets/new.png)  
-- [2020-06-07-发现一个-AirPods-连接的-bug](https://www.v2ex.com/t/679302) ![](assets/new.png)  
-- [2020-06-07-iPad-Pro-换新保修预计到期不是一年？](https://www.v2ex.com/t/679300) ![](assets/new.png)  
+- [2020-06-07-Apple-Watch-如何添加-SMIME-证书？](https://www.v2ex.com/t/679327)  
+- [2020-06-07-想给网站加一个彩蛋，判断-IE-浏览器访问，则输出的数据为前一天的。](https://www.v2ex.com/t/679326)  
+- [2020-06-07-昨晚用树脂修复了挡风玻璃破损，效果不错。](https://www.v2ex.com/t/679325)  
+- [2020-06-07-初三编程小白请教各位前辈，初学学什么语言好？](https://www.v2ex.com/t/679323)  
+- [2020-06-07-路由器品牌](https://www.v2ex.com/t/679322)  
+- [2020-06-07-Launcher-里突然冒出了-Launcher-的图标？～-什么鬼？](https://www.v2ex.com/t/679321)  
+- [2020-06-07-刚才-V2EX-掉线了，，](https://www.v2ex.com/t/679319)  
+- [2020-06-07-外包或兼职相关](https://www.v2ex.com/t/679317)  
+- [2020-06-07-世界上第亿好用的记账-APP，又又又更新了](https://www.v2ex.com/t/679316)  
+- [2020-06-07-开个贴记录刷《算法导论》的过程](https://www.v2ex.com/t/679315)  
+- [2020-06-07-通过路由器插件实现游戏加速，有什么建议吗？](https://www.v2ex.com/t/679313)  
+- [2020-06-07-不懂就问--PS5-还能走后台么？](https://www.v2ex.com/t/679312)  
+- [2020-06-07-2020-更新了-Mac-os-Catalina-10.15-我要崩溃了。](https://www.v2ex.com/t/679311)  
+- [2020-06-07-win10-xming-新窗口不置前](https://www.v2ex.com/t/679310)  
+- [2020-06-07-公司是否应当在配备办公区域配备心脏除颤器等急救设备](https://www.v2ex.com/t/679309)  
+- [2020-06-07-这样的摆摊小程序，你们会支持吗？](https://www.v2ex.com/t/679308)  
+- [2020-06-07-现在有哪些偏技术的产品岗位吗？](https://www.v2ex.com/t/679306)  
+- [2020-06-07-请问-vue-项目-怎么测试-单-js-文件（import-语法-node-执行会出错）](https://www.v2ex.com/t/679303)  
+- [2020-06-07-发现一个-AirPods-连接的-bug](https://www.v2ex.com/t/679302)  
+- [2020-06-07-iPad-Pro-换新保修预计到期不是一年？](https://www.v2ex.com/t/679300)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

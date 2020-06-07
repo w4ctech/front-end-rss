@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 16:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 16:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-科技部：当然要溯源，目的只有一个：科学应对新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套](http://m.weibo.cn/2803301701/4513138404609313) 
@@ -314,6 +315,9 @@
 - [【前端迷】2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) 
 - [【前端迷】2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5) 
+- [【全栈前端精选】2020-06-07-我在阿里是怎么工作的，写在阿里入职一周年](https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06) 
+- [【全栈前端精选】2020-06-06-七大热门小程序框架横评，谁是性能之王](https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f) 
 - [【全栈前端精选】2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9) 
 - [【全栈前端精选】2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57) 
 - [【全栈前端精选】2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da) 

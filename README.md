@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 16:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 16:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1) ![](assets/new.png)  
 - [2020-06-07-国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1)  
 - [2020-06-07-科技部：当然要溯源，目的只有一个：科学应对新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1)  
 - [2020-06-07-白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套](http://m.weibo.cn/2803301701/4513138404609313)  
@@ -113,7 +114,6 @@
 - [2020-06-06-香港新增3例新冠肺炎确诊病例-累计确诊1105例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0S7b2XRrPcn2Ns2OvME200606&isfromapp=1)  
 - [2020-06-06-俄罗斯新增新冠肺炎确诊病例8855例-累计确诊458689例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsAEJ0s9w51GfFWsYM8t200606&isfromapp=1)  
 - [2020-06-06-3小时带货额近14亿！北京消费季启动-央视Boys再合体-邀你买买买](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrBalZbygQUPJxTa28ZQ200606&isfromapp=1)  
-- [2020-06-06-日本北九州市疫情反弹-感染路径不明者占约4成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -467,6 +467,9 @@
 </summary>
 
 
+- [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5) ![](assets/new.png)  
+- [2020-06-07-我在阿里是怎么工作的，写在阿里入职一周年](https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06) ![](assets/new.png)  
+- [2020-06-06-七大热门小程序框架横评，谁是性能之王](https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f) ![](assets/new.png)  
 - [2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9)  
 - [2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57)  
 - [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da)  
@@ -484,9 +487,6 @@
 - [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)  
 - [2020-05-25-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/fc07d99a10b321c3038225894d1b3720)  
 - [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7)  
-- [2020-05-24-前端需要了解的9种设计模式](https://www.ershicimi.com/p/6f13e387d6c5dea43d1eb90a2452f07d)  
-- [2020-05-23-如果郭德纲是个互联网人](https://www.ershicimi.com/p/5cce690b423f0278f50f88e993ee1abe)  
-- [2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -893,11 +893,11 @@
 </summary>
 
 
-- [2020-06-07-前端面试---如何考察候选人的架构能力](https://juejin.im/post/5edb81f251882543194ed48a) ![](assets/new.png)  
-- [2020-06-07-Navigation-Timing-API-入门](https://juejin.im/post/5edc6b16e51d45784f801279) ![](assets/new.png)  
-- [2020-06-07-Dart---抽象类的实例化](https://juejin.im/post/5edc79bf6fb9a047eb399384) ![](assets/new.png)  
-- [2020-06-07-一篇文章带你了解【图】的结构及相关【算法】](https://juejin.im/post/5edb95ea5188254313736c35) ![](assets/new.png)  
-- [2020-06-07-ThreeJS-——-机房Demo（二）](https://juejin.im/post/5edbab70f265da76f9171d62) ![](assets/new.png)  
+- [2020-06-07-前端面试---如何考察候选人的架构能力](https://juejin.im/post/5edb81f251882543194ed48a)  
+- [2020-06-07-Navigation-Timing-API-入门](https://juejin.im/post/5edc6b16e51d45784f801279)  
+- [2020-06-07-Dart---抽象类的实例化](https://juejin.im/post/5edc79bf6fb9a047eb399384)  
+- [2020-06-07-一篇文章带你了解【图】的结构及相关【算法】](https://juejin.im/post/5edb95ea5188254313736c35)  
+- [2020-06-07-ThreeJS-——-机房Demo（二）](https://juejin.im/post/5edbab70f265da76f9171d62)  
 - [2020-06-06-快速搭建-vue-组件方案-vue-general-components](https://juejin.im/post/5edb6086e51d450d800a35d1)  
 - [2020-06-06-vue路由权限校验](https://juejin.im/post/5ec88be86fb9a047ab2c0e95)  
 - [2020-06-06-2020你应该知道的前端知识](https://juejin.im/post/5edb5d7d6fb9a04797068720)  

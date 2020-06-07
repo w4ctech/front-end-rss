@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1040,6 +1040,8 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5) 
+- [2020-06-07-我在阿里是怎么工作的，写在阿里入职一周年](https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06) 
 - [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da) 
 - [2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa) 
 - [2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 

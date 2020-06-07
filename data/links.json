@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1",
+        "date": "2020-06-07"
+      },
+      {
         "title": "国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1",
         "date": "2020-06-07"
@@ -7284,6 +7289,21 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "前端真的有资深工程师吗？",
+        "link": "https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "我在阿里是怎么工作的，写在阿里入职一周年",
+        "link": "https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "七大热门小程序框架横评，谁是性能之王",
+        "link": "https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f",
+        "date": "2020-06-06"
+      },
       {
         "title": "【实战】Canvas实现图片上标注、缩放、移动和保存历史状态",
         "link": "https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 23:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 00:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-07-印度最大贫民窟新增新冠肺炎确诊病例13例-累计确诊1912例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0hxUl6kX8HvqLmWff6W200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-香港7日新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiRQ4vTa9Y7nOcosTkt1k200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-印度最大贫民窟新增新冠肺炎确诊病例13例-累计确诊1912例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0hxUl6kX8HvqLmWff6W200607&isfromapp=1)  
 - [2020-06-07-阿联酋乱扔口罩将面临高额罚款-汽车中丢弃将被禁止驾车一年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipZEG2rKIUprrxm89Jowv200607&isfromapp=1)  
 - [2020-06-07-伊朗新增新冠肺炎确诊病例2364例，累计确诊171789例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1)  
 - [2020-06-07-世卫组织：全球新冠肺炎确诊病例超675万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-07-疫情下非洲线上购物发展迅猛，电子支付成新宠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1)  
 - [2020-06-07-哈萨克斯坦总统新闻秘书确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC4ls333XqaPJKakEY67L200607&isfromapp=1)  
 - [2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1)  
-- [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -640,7 +640,7 @@
 </summary>
 
 
-- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) ![](assets/new.png)  
+- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  

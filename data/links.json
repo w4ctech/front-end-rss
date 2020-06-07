@@ -11051,6 +11051,216 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[开源] EasySelect - 快速提取网页元素的 CSS 选择器。为了上架 Chrome 扩展商店，含泪交给 Google 5 刀保护费",
+        "link": "https://www.v2ex.com/t/679539",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "在线摆摊日记来啦！随便搞了一下，将就用用~",
+        "link": "https://www.v2ex.com/t/679538",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "CU 南方出口炸了？",
+        "link": "https://www.v2ex.com/t/679537",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "开发了一款仿 reg007 的网站，目前已添加至近 500 个网站。单次查询需要几十分钟，求优化方案？",
+        "link": "https://www.v2ex.com/t/679536",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "腾讯云主机最近隔三差五来短信提示被 DDoS 攻击",
+        "link": "https://www.v2ex.com/t/679535",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "有没有咖啡杯推荐一个？",
+        "link": "https://www.v2ex.com/t/679534",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "apkpure 疑似放淘口令入剪贴板",
+        "link": "https://www.v2ex.com/t/679533",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "maven 项目 pom.xml 中的 pluginManagement 是怎么回事？",
+        "link": "https://www.v2ex.com/t/679532",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "为什么 AQS 里共享锁的释放里，不需要判断 head 后继节点是不是共享锁节点？",
+        "link": "https://www.v2ex.com/t/679531",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "又一个依赖注入的实现（Go）",
+        "link": "https://www.v2ex.com/t/679530",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "程序员如何为自己的 Github 项目选择开源许可证 ？",
+        "link": "https://www.v2ex.com/t/679529",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "[成都][字节跳动] 基础架构团队招新，前端，后端，测试岗位都有，全程跟踪，随时查进度",
+        "link": "https://www.v2ex.com/t/679527",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "考上研究生没选上啥老师想再考一年？",
+        "link": "https://www.v2ex.com/t/679526",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "发现 CNNIC 的互联网报告现在用思源字体了",
+        "link": "https://www.v2ex.com/t/679525",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "为什么淘宝账号不能修改？官方还这么嚣张？",
+        "link": "https://www.v2ex.com/t/679524",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "一个划水工程师的 10 年总结",
+        "link": "https://www.v2ex.com/t/679523",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "失业的半个月， Java 开发找工作，求工作机会",
+        "link": "https://www.v2ex.com/t/679522",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "BWG 偷偷取消了 USCA_8 的 CN2 网络",
+        "link": "https://www.v2ex.com/t/679520",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "iPad 连接罗技 m720，屏幕键盘弹不出来，应该是鼠标被识别为键盘了。但最近发现有时候能弹出来，不知道有啥规律，能稳定弹出屏幕键盘吗？",
+        "link": "https://www.v2ex.com/t/679519",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "[7 折预告] IntelliJ IDEA 官方中文包发布 & 数码荔枝 618",
+        "link": "https://www.v2ex.com/t/679518",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "多邻国网页版的 forum 也没了，想看看关于题目的讨论也看不到了。",
+        "link": "https://www.v2ex.com/t/679517",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "有关 apache strom 的几个基本概念",
+        "link": "https://www.v2ex.com/t/679516",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "uPic 打不开了, 是不是升级系统不兼容, 暂时传图不方便了",
+        "link": "https://www.v2ex.com/t/679515",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "[提问] 刚接触 golang，想问一下为什么不能序列化 html 包里面的 Node 类型？",
+        "link": "https://www.v2ex.com/t/679514",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "想把 2015mbp 换个大点的 ssd，求推荐个兼容性好点的",
+        "link": "https://www.v2ex.com/t/679513",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "zerotier 连不上 moon? 还有类似可用来连内网远程桌面的吗？",
+        "link": "https://www.v2ex.com/t/679512",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "撸了个一键导出、备份「有道云笔记」所有笔记的脚本，需要请自取 ↓",
+        "link": "https://www.v2ex.com/t/679511",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "现在转 golang 到趋势变缓了吗？",
+        "link": "https://www.v2ex.com/t/679509",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "你都知道哪些独立开发者？",
+        "link": "https://www.v2ex.com/t/679508",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "Mac 下如何删除 u 盘隐藏分区恢复 u 盘容量",
+        "link": "https://www.v2ex.com/t/679507",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "为啥实际应用中 Javascript 都是长这样子的？",
+        "link": "https://www.v2ex.com/t/679506",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "[广州/深圳] Java 开发找工作，简历地址 http://jl.lzhpo.com",
+        "link": "https://www.v2ex.com/t/679505",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "win10 录屏 用 xbox 还是 GeForce 还是其他？",
+        "link": "https://www.v2ex.com/t/679504",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "二本应届生，选择做网络还是前端好？",
+        "link": "https://www.v2ex.com/t/679502",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "vuex 和把全局数据挂到$parent 下有什么区别？",
+        "link": "https://www.v2ex.com/t/679501",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "救救孩子吧！如何用循环写出 n 对括号的所有组合情况？",
+        "link": "https://www.v2ex.com/t/679500",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "作为前浪的你，是否有离婚的想法或者已经离婚了，为什么呢",
+        "link": "https://www.v2ex.com/t/679497",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "深圳 Apple 直营店预约不上，能直接去现场维修吗？",
+        "link": "https://www.v2ex.com/t/679496",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "我是如何用 5 天时间在 uniapp 插件市场停止更新的",
+        "link": "https://www.v2ex.com/t/679495",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "Vue 写前端，有办法接管 iframe 当中的内容吗？",
+        "link": "https://www.v2ex.com/t/679494",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "请教一下如何快速开发嵌入式设备的 web 管理页面",
+        "link": "https://www.v2ex.com/t/679492",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "请问 APFS 怎么实现多密钥？怎么单独给文件加密？ 磁盘已经格式化为 APFS（加密）",
+        "link": "https://www.v2ex.com/t/679491",
+        "date": "2020-06-07"
+      },
+      {
         "title": "请教一下各位，淘宝，京东卖的 office365 家庭版都是世纪互联运营的吗？",
         "link": "https://www.v2ex.com/t/679333",
         "date": "2020-06-07"

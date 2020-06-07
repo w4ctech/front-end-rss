@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-08 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 01:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -462,10 +462,10 @@
 - [【互联网架构师】不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)
 - [【掘金前端】如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】开发了一款仿-reg007-的网站，目前已添加至近-500-个网站。单次查询需要几十分钟，求优化方案？](https://www.v2ex.com/t/679536)
 - [【V2EX】低性能家庭网络改进求建议](https://www.v2ex.com/t/679264)
 - [【V2EX】🔰-6•18-特惠-『IDM-极速下载工具永久➕cFosSpeed-网络优化-加速工具永久➕Advanced-SystemCare-13-Pro-清理优化工具一年』-历史搭配低价❗❗](https://www.v2ex.com/t/679178)
 - [【V2EX】为什么-DIY-U-盘-性能更好-也不算贵?-大厂难道不能做的更好-成本更低吗?](https://www.v2ex.com/t/679102)
-- [【V2EX】杭州-可远程-秘猿科技-招聘区块链工程师/前端开发/运维开发/性能工程师/测试开发工程师/研究员等](https://www.v2ex.com/t/678902)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -598,13 +598,13 @@
 - [【掘金前端】关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】程序员如何为自己的-Github-项目选择开源许可证-？](https://www.v2ex.com/t/679529)
 - [【V2EX】求一个-Github-大图标！](https://www.v2ex.com/t/679170)
 - [【V2EX】GitHub-可以开课了](https://www.v2ex.com/t/678557)
 - [【V2EX】GitHub:我在阿里做技术面试官的一些经验](https://www.v2ex.com/t/678525)
 - [【V2EX】github-也参与进来了](https://www.v2ex.com/t/678444)
 - [【V2EX】有类似于-github-gitee-coding-gitlab-部署静态网站的吗？](https://www.v2ex.com/t/678431)
 - [【V2EX】写了个-GitHub-Action-帮助有多个域名,甚至在不同服务商的自动化批量申请证书工作流.](https://www.v2ex.com/t/678176)
-- [【V2EX】VS-Code-畅游-Github-的新方式：-Remote-Github](https://www.v2ex.com/t/677345)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

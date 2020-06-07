@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 17:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-世卫组织：全球新冠肺炎确诊病例超675万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-吉林市最后2名新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-07-国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1) 
@@ -334,6 +335,7 @@
 - [【前端宇宙】2020-06-02-这些神仙代码库值得每一个前端开发者收藏](https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288) 
 - [【前端宇宙】2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3) 
 - [【前端宇宙】2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73) 
+- [【前端瓶子君】2020-06-06-推荐一个从国企到阿里，单项目20000+star的大佬](https://www.ershicimi.com/p/2be4fbd58d7fc017d08a16d2d01eb087) 
 - [【前端瓶子君】2020-06-05-编程到底难在哪里？来自Google大佬的解答](https://www.ershicimi.com/p/63b877e7d03c861e890b3e396b9988fa) 
 - [【前端瓶子君】2020-06-05-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/c920766fad1ccced6f29d9929f310717) 
 - [【前端瓶子君】2020-06-04-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/7a6f7cff7a8abc91917ea2f3526dc19b) 

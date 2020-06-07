@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 11:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 11:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365) ![](assets/new.png)  
-- [2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278) ![](assets/new.png)  
+- [2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365)  
+- [2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278)  
 - [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1)  
 - [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
 - [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
@@ -281,6 +281,7 @@
 </summary>
 
 
+- [2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a) ![](assets/new.png)  
 - [2020-06-06-手写一个WebSocket协议-7000字](https://www.ershicimi.com/p/3812a70a0a806c2648e4b6a27e1d780e)  
 - [2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/868596d76a0164113ebaf38217a68a3b)  
 - [2020-06-05-了不起的-Deno-入门教程](https://www.ershicimi.com/p/1c9c2d0779a5b71861ceb7b91156e1ea)  
@@ -300,7 +301,6 @@
 - [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)  
 - [2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf)  
 - [2020-05-25-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32)  
-- [2020-05-25-VSCode-没了这些插件，感觉代码都不会写了](https://www.ershicimi.com/p/7c8169728030c0f9a2f279985be6d241)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

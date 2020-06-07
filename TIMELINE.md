@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -277,6 +277,7 @@
 - [【前端大全】2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [【前端大全】2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
 - [【前端大全】2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
+- [【前端开发】2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a) 
 - [【前端开发】2020-06-06-手写一个WebSocket协议-7000字](https://www.ershicimi.com/p/3812a70a0a806c2648e4b6a27e1d780e) 
 - [【前端开发】2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/868596d76a0164113ebaf38217a68a3b) 
 - [【前端开发】2020-06-05-了不起的-Deno-入门教程](https://www.ershicimi.com/p/1c9c2d0779a5b71861ceb7b91156e1ea) 

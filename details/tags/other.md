@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -997,6 +997,7 @@
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
 - [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
+- [2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a) 
 - [2020-06-05-了不起的-Deno-入门教程](https://www.ershicimi.com/p/1c9c2d0779a5b71861ceb7b91156e1ea) 
 - [2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6) 
 - [2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0) 

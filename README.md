@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 20:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 20:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-07-伊朗新增新冠肺炎确诊病例2364例，累计确诊171789例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-阿联酋乱扔口罩将面临高额罚款-汽车中丢弃将被禁止驾车一年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipZEG2rKIUprrxm89Jowv200607&isfromapp=1) ![](assets/new.png)  
+- [2020-06-07-伊朗新增新冠肺炎确诊病例2364例，累计确诊171789例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1)  
 - [2020-06-07-世卫组织：全球新冠肺炎确诊病例超675万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1)  
 - [2020-06-07-吉林市最后2名新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1)  
 - [2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-06-英国新冠肺炎累计确诊-284868-例，累计死亡-40465-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1)  
 - [2020-06-06-燕归！首批湖北籍大学生搭乘高铁返京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1)  
 - [2020-06-06-139天！邱海波终于回家了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFBarRzB87SoCXeAwJXV200606&isfromapp=1)  
-- [2020-06-06-新加坡新增新冠肺炎确诊病例344例-累计确诊37527例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -893,11 +893,11 @@
 </summary>
 
 
-- [2020-06-07-手摸手Electron-+-Vue实战教程（三）](https://juejin.im/post/5edcc259f265da76d9261a20) ![](assets/new.png)  
-- [2020-06-07-对少儿编程的一点看法和-blockly-开发的一点心得](https://juejin.im/post/5edb810851882542eb3eecd0) ![](assets/new.png)  
-- [2020-06-07-React-Hooks：正确运用Memoization（记忆化）解决性能问题](https://juejin.im/post/5ed6114251882542fb06d83e) ![](assets/new.png)  
-- [2020-06-07-以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438) ![](assets/new.png)  
-- [2020-06-07-前端职业规划---如何从一线开发转职架构师](https://juejin.im/post/5edc987b6fb9a047ae453526) ![](assets/new.png)  
+- [2020-06-07-手摸手Electron-+-Vue实战教程（三）](https://juejin.im/post/5edcc259f265da76d9261a20)  
+- [2020-06-07-对少儿编程的一点看法和-blockly-开发的一点心得](https://juejin.im/post/5edb810851882542eb3eecd0)  
+- [2020-06-07-React-Hooks：正确运用Memoization（记忆化）解决性能问题](https://juejin.im/post/5ed6114251882542fb06d83e)  
+- [2020-06-07-以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438)  
+- [2020-06-07-前端职业规划---如何从一线开发转职架构师](https://juejin.im/post/5edc987b6fb9a047ae453526)  
 - [2020-06-07-前端面试---如何考察候选人的架构能力](https://juejin.im/post/5edb81f251882543194ed48a)  
 - [2020-06-07-Navigation-Timing-API-入门](https://juejin.im/post/5edc6b16e51d45784f801279)  
 - [2020-06-07-Dart---抽象类的实例化](https://juejin.im/post/5edc79bf6fb9a047eb399384)  

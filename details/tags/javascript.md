@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -124,6 +124,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-07-路由器品牌](https://www.v2ex.com/t/679322) 
 - [2020-06-06-在前端有办法监测到耳机插拔的事件吗？](https://www.v2ex.com/t/679105) 
 - [2020-06-05-求助-Chrome-为什么没有滚动条](https://www.v2ex.com/t/679027) 
 - [2020-06-05-请问各位-V-友，从-H5-页面访问服务端接口，服务端如何判断请求是合法的](https://www.v2ex.com/t/679011) 

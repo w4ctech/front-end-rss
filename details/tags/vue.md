@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -62,6 +62,7 @@
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-07-请问-vue-项目-怎么测试-单-js-文件（import-语法-node-执行会出错）](https://www.v2ex.com/t/679303) 
 - [2020-06-06-vue-如何实现全局登录组件？](https://www.v2ex.com/t/679163) 
 - [2020-06-05-问个-vue-基础问题](https://www.v2ex.com/t/679028) 
 - [2020-06-04-为什么-vue-项目木打包后必须部署在服务器或本地起一个-web-服务才能运行？](https://www.v2ex.com/t/678715) 

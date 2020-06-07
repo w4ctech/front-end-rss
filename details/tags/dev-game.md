@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -27,6 +27,7 @@
 - [2016-01-14-js游戏开发初级入门](https://aotu.io/notes/2016/01/14/introduction-to-JS-game-development/) 
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
+- [2020-06-07-通过路由器插件实现游戏加速，有什么建议吗？](https://www.v2ex.com/t/679313) 
 - [2020-06-06-初来-V-站，分享一个-Python-&pygame-开发的植物大战僵尸游戏，代码开源，并配有图文及视频教程，欢迎大家来学习交流。](https://www.v2ex.com/t/679244) 
 - [2020-06-05-大家好，请教一下微信小游戏如何自己做埋点统计？](https://www.v2ex.com/t/678826) 
 - [2020-06-04-最近打算突击通关一批游戏](https://www.v2ex.com/t/678734) 

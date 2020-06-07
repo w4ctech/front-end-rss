@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -42,6 +42,7 @@
 - [2020-05-29-学习React哲学的一次实践](https://juejin.im/post/5ed0d0546fb9a047eb398787) 
 - [2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) 
 - [2020-05-29-名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6) 
+- [2020-06-06-客户端-react-native-有没有必要进行额外的图片下载管理](https://www.v2ex.com/t/679285) 
 - [2020-06-04-深圳深圳湾前端（React）、-Java-后台招聘](https://www.v2ex.com/t/678746) 
 - [2020-06-04-北京，硕士，-34，工作-4-年多，安卓-1-年，-web2-年多，前端-1-年多，-Java-，-spring-系，-react-系都可，现在税前年薪-30，是多是少？要不要跳槽？](https://www.v2ex.com/t/678723) 
 - [2020-06-04-一个-deno-react-app-demo](https://www.v2ex.com/t/678646) 

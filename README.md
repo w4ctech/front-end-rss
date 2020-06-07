@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 09:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 10:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b) ![](assets/new.png)  
+- [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa) ![](assets/new.png)  
 - [2020-06-05-大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a)  
 - [2020-06-05-酷炫的命令行终端！Windows-Terminal-1.0-终于正式发布！](https://www.ershicimi.com/p/e50543643859c8ad5ae00aa1c4820d34)  
 - [2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb)  
@@ -164,8 +166,6 @@
 - [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443)  
 - [2020-05-27-程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b)  
 - [2020-05-26-收藏吧-|-前端常用60余种工具方法](https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c)  
-- [2020-05-26-推荐几位朋友圈出镜率极高的大佬](https://www.ershicimi.com/p/a6c2772b310c9b8054679c0bab840461)  
-- [2020-05-25-上万课程免费学？这波羊毛不薅太亏了！](https://www.ershicimi.com/p/7d08ce53a5dcd7a8482cbddf0160b48f)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1018,10 +1018,10 @@
 </summary>
 
 
-- [2020-06-07-请教一下各位，淘宝，京东卖的-office365-家庭版都是世纪互联运营的吗？](https://www.v2ex.com/t/679333) ![](assets/new.png)  
-- [2020-06-07-Fluent-UI-的文档和库应该如何选择？](https://www.v2ex.com/t/679331) ![](assets/new.png)  
-- [2020-06-07-快手-9-周年宣传片《看见》中门对狙-B-站](https://www.v2ex.com/t/679330) ![](assets/new.png)  
-- [2020-06-07-昨天买了命令与征服-remastered](https://www.v2ex.com/t/679328) ![](assets/new.png)  
+- [2020-06-07-请教一下各位，淘宝，京东卖的-office365-家庭版都是世纪互联运营的吗？](https://www.v2ex.com/t/679333)  
+- [2020-06-07-Fluent-UI-的文档和库应该如何选择？](https://www.v2ex.com/t/679331)  
+- [2020-06-07-快手-9-周年宣传片《看见》中门对狙-B-站](https://www.v2ex.com/t/679330)  
+- [2020-06-07-昨天买了命令与征服-remastered](https://www.v2ex.com/t/679328)  
 - [2020-06-07-Apple-Watch-如何添加-SMIME-证书？](https://www.v2ex.com/t/679327)  
 - [2020-06-07-想给网站加一个彩蛋，判断-IE-浏览器访问，则输出的数据为前一天的。](https://www.v2ex.com/t/679326)  
 - [2020-06-07-昨晚用树脂修复了挡风玻璃破损，效果不错。](https://www.v2ex.com/t/679325)  

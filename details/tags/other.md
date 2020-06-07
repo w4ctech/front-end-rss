@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -950,6 +950,8 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b) 
+- [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa) 
 - [2020-06-05-酷炫的命令行终端！Windows-Terminal-1.0-终于正式发布！](https://www.ershicimi.com/p/e50543643859c8ad5ae00aa1c4820d34) 
 - [2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb) 
 - [2020-06-02-前端开发进阶手册.pdf](https://www.ershicimi.com/p/e238b880a276e199b89500b50b452f31) 

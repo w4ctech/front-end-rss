@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-06-05 10:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b) 
+- [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa) 
 - [2020-06-05-大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a) 
 - [2020-06-05-酷炫的命令行终端！Windows-Terminal-1.0-终于正式发布！](https://www.ershicimi.com/p/e50543643859c8ad5ae00aa1c4820d34) 
 - [2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb) 

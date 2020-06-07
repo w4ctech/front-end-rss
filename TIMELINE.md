@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-07 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -243,6 +243,8 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) 
+- [【Vue中文社区】2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b) 
+- [【Vue中文社区】2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa) 
 - [【Vue中文社区】2020-06-05-大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a) 
 - [【Vue中文社区】2020-06-05-酷炫的命令行终端！Windows-Terminal-1.0-终于正式发布！](https://www.ershicimi.com/p/e50543643859c8ad5ae00aa1c4820d34) 
 - [【Vue中文社区】2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb) 

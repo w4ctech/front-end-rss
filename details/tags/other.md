@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-07 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-07 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1243,6 +1243,8 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-07-Navigation-Timing-API-入门](https://juejin.im/post/5edc6b16e51d45784f801279) 
+- [2020-06-07-Dart---抽象类的实例化](https://juejin.im/post/5edc79bf6fb9a047eb399384) 
 - [2020-06-06-2020你应该知道的前端知识](https://juejin.im/post/5edb5d7d6fb9a04797068720) 
 - [2020-06-05-35岁以后，在阿里做前端是怎样一种体验](https://juejin.im/post/5eda0031e51d4578892621e4) 
 - [2020-06-05-不知道怎么提高代码质量？来看看这几种设计模式吧！](https://juejin.im/post/5ed9fcca518825430d042527) 

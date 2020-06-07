@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-07 10:30:20，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-07 11:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365) ![](assets/new.png)  
+- [2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278) ![](assets/new.png)  
 - [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1)  
 - [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
 - [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-06-阿根廷累计新冠肺炎确诊病例21037例-首都地区放宽隔离限制-将逐户排查病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1)  
 - [2020-06-06-巴西新增新冠肺炎确诊病例30830例-累计确诊645771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45pWnzrThPP3lrIR1EtF200606&isfromapp=1)  
 - [2020-06-06-韩国新增新冠肺炎确诊病例51例-累计确诊11719例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioC2YaUS3w2CpgfCwo9y9200606&isfromapp=1)  
-- [2020-06-06-世卫组织更新口罩使用指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1)  
-- [2020-06-06-美国加州新冠肺炎确诊病例不断增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1080,20 +1080,20 @@
 </summary>
 
 
-- [2020-06-07-我是一个线程，篮球场上的小野马](https://toutiao.io/k/n99s0ww) ![](assets/new.png)  
-- [2020-06-07-RocketMQ-初识](https://toutiao.io/k/o85zvdd) ![](assets/new.png)  
-- [2020-06-07-vite：一种尤雨溪开发的新的、更快地-Web-开发工具](https://toutiao.io/k/b11y4nl) ![](assets/new.png)  
-- [2020-06-07-公司里那些-35-岁以上的人都去哪了？](https://toutiao.io/k/fgq1unz) ![](assets/new.png)  
-- [2020-06-07-现代-C++：自动类型推导](https://toutiao.io/k/k8kaghe) ![](assets/new.png)  
-- [2020-06-07-译-Go-中基于-IP-地址的-HTTP-限流](https://toutiao.io/k/zjlugb2) ![](assets/new.png)  
-- [2020-06-07-QUIC/HTTP3-协议说明与站点构建](https://toutiao.io/k/y5rby10) ![](assets/new.png)  
-- [2020-06-07-讲讲用户的流失预警](https://toutiao.io/k/60b3vzq) ![](assets/new.png)  
-- [2020-06-07-数据分析：基于智能标签，精准管理数据](https://toutiao.io/k/uw4znmg) ![](assets/new.png)  
-- [2020-06-07-微前端在小米-CRM-系统的实践](https://toutiao.io/k/0006wt0) ![](assets/new.png)  
-- [2020-06-07-QQ-音乐-PB-级-ClickHouse-实时数据平台架构演进之路](https://toutiao.io/k/7g24z36) ![](assets/new.png)  
-- [2020-06-07-主机安全：洋葱-Webshell-检测实践与思考](https://toutiao.io/k/6txdxbc) ![](assets/new.png)  
-- [2020-06-07-AppleScript-介绍](https://toutiao.io/k/p6kk7t6) ![](assets/new.png)  
-- [2020-06-07-译-零知识证明-circom-及-snarkjs-入门教程](https://toutiao.io/k/as4s6zx) ![](assets/new.png)  
+- [2020-06-07-我是一个线程，篮球场上的小野马](https://toutiao.io/k/n99s0ww)  
+- [2020-06-07-RocketMQ-初识](https://toutiao.io/k/o85zvdd)  
+- [2020-06-07-vite：一种尤雨溪开发的新的、更快地-Web-开发工具](https://toutiao.io/k/b11y4nl)  
+- [2020-06-07-公司里那些-35-岁以上的人都去哪了？](https://toutiao.io/k/fgq1unz)  
+- [2020-06-07-现代-C++：自动类型推导](https://toutiao.io/k/k8kaghe)  
+- [2020-06-07-译-Go-中基于-IP-地址的-HTTP-限流](https://toutiao.io/k/zjlugb2)  
+- [2020-06-07-QUIC/HTTP3-协议说明与站点构建](https://toutiao.io/k/y5rby10)  
+- [2020-06-07-讲讲用户的流失预警](https://toutiao.io/k/60b3vzq)  
+- [2020-06-07-数据分析：基于智能标签，精准管理数据](https://toutiao.io/k/uw4znmg)  
+- [2020-06-07-微前端在小米-CRM-系统的实践](https://toutiao.io/k/0006wt0)  
+- [2020-06-07-QQ-音乐-PB-级-ClickHouse-实时数据平台架构演进之路](https://toutiao.io/k/7g24z36)  
+- [2020-06-07-主机安全：洋葱-Webshell-检测实践与思考](https://toutiao.io/k/6txdxbc)  
+- [2020-06-07-AppleScript-介绍](https://toutiao.io/k/p6kk7t6)  
+- [2020-06-07-译-零知识证明-circom-及-snarkjs-入门教程](https://toutiao.io/k/as4s6zx)  
 - [2020-06-06-你对-this-的理解正确吗？有趣又神奇的-this-对象](https://toutiao.io/k/z5vd5ex)  
 - [2020-06-06-积木法搭建-iOS-应用：VIPER](https://toutiao.io/k/ihl8vqy)  
 - [2020-06-06-Java-并发编程那些事儿（七）：取消及关闭](https://toutiao.io/k/8ktbvdp)  

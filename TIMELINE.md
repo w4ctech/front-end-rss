@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-08 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-​伊朗新增2043例新冠肺炎确诊病例-累计173832例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZsTSO7wfNMJXKGbm4Ndg200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1) 

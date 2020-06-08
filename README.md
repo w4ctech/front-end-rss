@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 20:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-​伊朗新增2043例新冠肺炎确诊病例-累计173832例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZsTSO7wfNMJXKGbm4Ndg200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1)  
 - [2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1)  
 - [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1)  
 - [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1)  
 - [2020-06-07-国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1)  
 - [2020-06-07-科技部：当然要溯源，目的只有一个：科学应对新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1)  
-- [2020-06-07-白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套](http://m.weibo.cn/2803301701/4513138404609313)  
-- [2020-06-07-科技部：中国疫苗完成研制和临床试验后，将作为公共产品向全球提供](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIKn6NzNy928sWuhabziE200607&isfromapp=1)  
-- [2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

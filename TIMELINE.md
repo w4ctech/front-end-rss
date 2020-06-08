@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-世卫组织总干事：全球新冠肺炎确诊病例近700万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-武汉市300名无症状感染者的病毒培养结果全为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-英国新增新冠肺炎确诊病例1205例-累计确诊287399例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihXXSq7fnHKTWwyVrfgMq200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1) 
@@ -367,6 +369,7 @@
 - [【全栈前端精选】2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa) 
 - [【全栈前端精选】2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
 - [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
+- [【政采云前端团队】2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) 
 - [【政采云前端团队】2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
 - [【前端宇宙】2020-06-08-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459) 
 - [【前端宇宙】2020-06-08-如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df) 
@@ -446,6 +449,14 @@
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [【InfoQ】2020-06-08-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/8afa59b780a425cf27f47a8e71bd6f9a) 
+- [【InfoQ】2020-06-08-何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a) 
+- [【InfoQ】2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38) 
+- [【InfoQ】2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
+- [【InfoQ】2020-06-07-Reddit-联合创始人离职；微信回应监听用户：假的；B站6月发射卫星用于科普-|-Q资讯](https://www.ershicimi.com/p/a036f73a1a1d754fcd8d960da1cd9310) 
+- [【InfoQ】2020-06-07-腾讯摆摊招聘，你就也想去摆地摊了？](https://www.ershicimi.com/p/ef77cb68b9b0c6e9735b4a28fd7943e3) 
+- [【InfoQ】2020-06-07-技术硬核还不够？互联网企业出海指南来了！-|-Q推荐](https://www.ershicimi.com/p/2be889da7879d7e7fbfd6a87aa47da9e) 
+- [【InfoQ】2020-06-07-以太坊都这么堵了，Eth-2.0-在干嘛呢？](https://www.ershicimi.com/p/ae647850fbd1d140fb4e1eb073e20b95) 
 - [【InfoQ】2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309) 
 - [【InfoQ】2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e) 
 - [【InfoQ】2020-06-06-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/4fed631426197806bf80075765d00d8c) 
@@ -478,6 +489,11 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-08-10+个很酷的Vue.js组件，模板和demo示例](https://juejin.im/post/5ede493a6fb9a047aa660181) 
+- [【掘金前端】2020-06-08-译使用-JavaScript-实现一个高效的-LRU-cache](https://juejin.im/post/5ede0b105188254308131319) 
+- [【掘金前端】2020-06-08-跟着大佬学习vue的diff算法](https://juejin.im/post/5edcc4ebe51d4578724e442d) 
+- [【掘金前端】2020-06-08-单个-Unicode-字符的-js-匹配规则](https://juejin.im/post/5edde196f265da76e81a41c1) 
+- [【掘金前端】2020-06-08-前端错误监控sdk初步实践](https://juejin.im/post/5ede26aae51d45789e0d9bde) 
 - [【掘金前端】2020-06-08-Serverless-在大规模数据处理的实践](https://juejin.im/post/5eddc6a96fb9a047dc2ccea8) 
 - [【掘金前端】2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07) 
 - [【掘金前端】2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e) 

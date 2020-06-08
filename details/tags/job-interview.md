@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -42,6 +42,7 @@
 - [2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07) 
 - [2020-05-31-一个很艰难的-Java-核心面试问题！](https://www.ershicimi.com/p/4d5a529a417a77c20708d467f71202e8) 
 - [2020-05-29-一次-MySQL-索引面试，被面试官怼的体无完肤！](https://www.ershicimi.com/p/bc61b331df480f935bba8d1f70262962) 
+- [2020-06-07-腾讯摆摊招聘，你就也想去摆地摊了？](https://www.ershicimi.com/p/ef77cb68b9b0c6e9735b4a28fd7943e3) 
 - [2020-05-28-招聘需求恢复95%：全力扶持“后浪”，“前浪”只能自己挣扎](https://www.ershicimi.com/p/ad4137d79c3436f9c221da3c864050c1) 
 - [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e) 
 - [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4) 

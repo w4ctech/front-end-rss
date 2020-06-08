@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -85,7 +85,10 @@
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327) 
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
+- [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-08-译使用-JavaScript-实现一个高效的-LRU-cache](https://juejin.im/post/5ede0b105188254308131319) 
+- [2020-06-08-单个-Unicode-字符的-js-匹配规则](https://juejin.im/post/5edde196f265da76e81a41c1) 
 - [2020-06-08-ES6入门教程-读书笔记](https://juejin.im/post/5edd9455f265da77057e3d50) 
 - [2020-06-08-2020年这些🍔"正则"应该被收藏更新,-63条](https://juejin.im/post/5edd89936fb9a047970688a8) 
 - [2020-06-06-面试题目一（考点：变量，函数提升，this指向，原型，优先级）](https://juejin.im/post/5edba715f265da76f6531bd3) 

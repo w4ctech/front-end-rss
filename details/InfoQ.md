@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2020-06-06 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-08-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/8afa59b780a425cf27f47a8e71bd6f9a) 
+- [2020-06-08-何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a) 
+- [2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38) 
+- [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
+- [2020-06-07-Reddit-联合创始人离职；微信回应监听用户：假的；B站6月发射卫星用于科普-|-Q资讯](https://www.ershicimi.com/p/a036f73a1a1d754fcd8d960da1cd9310) 
+- [2020-06-07-腾讯摆摊招聘，你就也想去摆地摊了？](https://www.ershicimi.com/p/ef77cb68b9b0c6e9735b4a28fd7943e3) 
+- [2020-06-07-技术硬核还不够？互联网企业出海指南来了！-|-Q推荐](https://www.ershicimi.com/p/2be889da7879d7e7fbfd6a87aa47da9e) 
+- [2020-06-07-以太坊都这么堵了，Eth-2.0-在干嘛呢？](https://www.ershicimi.com/p/ae647850fbd1d140fb4e1eb073e20b95) 
 - [2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309) 
 - [2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e) 
 - [2020-06-06-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/4fed631426197806bf80075765d00d8c) 

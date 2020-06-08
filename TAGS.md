@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-09 00:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -117,6 +117,7 @@
 - [【程序员成长指北】AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c)
 - [【Nodejs技术栈】TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)
 - [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)
+- [【InfoQ】何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a)
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)
 - [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
@@ -589,6 +590,7 @@
 - [【Vue中文社区】让你纵横-GitHub-的五大神器](https://www.ershicimi.com/p/46b2d8ce4335dc0a439bdaf2d632d082)
 - [【前端大全】这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e)
 - [【前端大全】Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f)
+- [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【前端瓶子君】鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
@@ -605,7 +607,6 @@
 - [【V2EX】GitHub-可以开课了](https://www.v2ex.com/t/678557)
 - [【V2EX】GitHub:我在阿里做技术面试官的一些经验](https://www.v2ex.com/t/678525)
 - [【V2EX】github-也参与进来了](https://www.v2ex.com/t/678444)
-- [【V2EX】有类似于-github-gitee-coding-gitlab-部署静态网站的吗？](https://www.v2ex.com/t/678431)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

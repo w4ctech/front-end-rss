@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-08-武汉市300名无症状感染者的病毒培养结果全为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1) 
 - [2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1) 
 - [2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1) 
 - [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1) 
@@ -1234,6 +1235,11 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-08-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/8afa59b780a425cf27f47a8e71bd6f9a) 
+- [2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38) 
+- [2020-06-07-Reddit-联合创始人离职；微信回应监听用户：假的；B站6月发射卫星用于科普-|-Q资讯](https://www.ershicimi.com/p/a036f73a1a1d754fcd8d960da1cd9310) 
+- [2020-06-07-技术硬核还不够？互联网企业出海指南来了！-|-Q推荐](https://www.ershicimi.com/p/2be889da7879d7e7fbfd6a87aa47da9e) 
+- [2020-06-07-以太坊都这么堵了，Eth-2.0-在干嘛呢？](https://www.ershicimi.com/p/ae647850fbd1d140fb4e1eb073e20b95) 
 - [2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309) 
 - [2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e) 
 - [2020-06-06-技术债务就像俄罗斯方块，你永远都赢不了！](https://www.ershicimi.com/p/10a960b2f4e2509e2b79a3321293d34e) 
@@ -1281,6 +1287,7 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-08-前端错误监控sdk初步实践](https://juejin.im/post/5ede26aae51d45789e0d9bde) 
 - [2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07) 
 - [2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e) 
 - [2020-06-07-对少儿编程的一点看法和-blockly-开发的一点心得](https://juejin.im/post/5edb810851882542eb3eecd0) 

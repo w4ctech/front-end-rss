@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-08 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -305,6 +305,11 @@
 - [【前端开发】2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8) 
 - [【前端开发】2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49) 
 - [【前端开发】2020-06-01-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b) 
+- [【前端大学】2020-06-08-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/e37b4bff894c51d3ee78f9cdec998477) 
+- [【前端大学】2020-06-07-关于Vue3.0-看这一篇就够了！（内含源码福利）](https://www.ershicimi.com/p/1e7285d3934b2fc0aae06fe8f3fa6c3a) 
+- [【前端大学】2020-06-07-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/6d0cdc43a5a764089b9d945d9b681a9f) 
+- [【前端大学】2020-06-06-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/e37eb203ed9b9db2cf286e3c170de9c2) 
+- [【前端大学】2020-06-06-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/a0e3b921c9c561320ad9547eb7baa398) 
 - [【前端大学】2020-06-05-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/4e386a5781da55e5f7a929753f9bf09f) 
 - [【前端大学】2020-06-04-前端面试越来越难，你还在原地踏步？](https://www.ershicimi.com/p/d55f60e513904c427d5c73f528c53734) 
 - [【前端大学】2020-06-04-简单聊聊-WebSocket](https://www.ershicimi.com/p/1a63003e4303cc2b5ded5173846ab013) 

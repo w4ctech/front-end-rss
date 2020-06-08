@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 21:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 23:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-08-世卫组织：全球新冠肺炎确诊病例超过691万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-世卫组织：全球新冠肺炎确诊病例超过691万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1)  
 - [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1)  
 - [2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1)  
 - [2020-06-08-​伊朗新增2043例新冠肺炎确诊病例-累计173832例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZsTSO7wfNMJXKGbm4Ndg200608&isfromapp=1)  
@@ -731,6 +731,12 @@
 </summary>
 
 
+- [2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd) ![](assets/new.png)  
+- [2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950) ![](assets/new.png)  
+- [2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5) ![](assets/new.png)  
+- [2020-06-05-奇舞周刊第-352-期：支付宝小程序-V8-Worker-技术演进](https://www.ershicimi.com/p/26a5fb46fa04dd8c40dbeb763153173e) ![](assets/new.png)  
+- [2020-06-05-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/11bc194f83e78ab5b99b354a0777f44a) ![](assets/new.png)  
+- [2020-06-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/924e3ee4ac9ce94b5cead299e8ac12ce) ![](assets/new.png)  
 - [2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3)  
 - [2020-06-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1f7fac02805dea9532a1ad33a5ec89e8)  
 - [2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58)  
@@ -745,10 +751,6 @@
 - [2020-05-22-奇舞周刊第-350-期：前端状态管理设计，优雅与妥协的艺术](https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56)  
 - [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0)  
 - [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee)  
-- [2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566)  
-- [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183)  
-- [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50)  
-- [2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

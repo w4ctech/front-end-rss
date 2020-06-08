@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-08 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -404,6 +404,12 @@
 - [【阮一峰的网络日志】2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) 
+- [【奇舞周刊】2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd) 
+- [【奇舞周刊】2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950) 
+- [【奇舞周刊】2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5) 
+- [【奇舞周刊】2020-06-05-奇舞周刊第-352-期：支付宝小程序-V8-Worker-技术演进](https://www.ershicimi.com/p/26a5fb46fa04dd8c40dbeb763153173e) 
+- [【奇舞周刊】2020-06-05-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/11bc194f83e78ab5b99b354a0777f44a) 
+- [【奇舞周刊】2020-06-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/924e3ee4ac9ce94b5cead299e8ac12ce) 
 - [【奇舞周刊】2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3) 
 - [【奇舞周刊】2020-06-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1f7fac02805dea9532a1ad33a5ec89e8) 
 - [【奇舞周刊】2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58) 

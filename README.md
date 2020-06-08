@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 00:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
+- [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -44,9 +44,9 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,8 +94,12 @@
 </summary>
 
 
-- [2020-06-08-世卫组织总干事：全球新冠肺炎确诊病例近700万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1) ![](assets/new.png)  
-- [2020-06-08-武汉市300名无症状感染者的病毒培养结果全为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316) ![](assets/new.png)  
+- [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-世卫组织总干事：全球新冠肺炎确诊病例近700万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1)  
+- [2020-06-08-武汉市300名无症状感染者的病毒培养结果全为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1)  
 - [2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1)  
 - [2020-06-08-英国新增新冠肺炎确诊病例1205例-累计确诊287399例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihXXSq7fnHKTWwyVrfgMq200608&isfromapp=1)  
 - [2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
 - [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1)  
 - [2020-06-08-上海6月7日无新增本地新冠肺炎确诊病例-新增境外输入1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1)  
-- [2020-06-08-走基层助抗疫-援圣普抗疫医疗专家组走访地方开展工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1)  
-- [2020-06-07-香港7日新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiRQ4vTa9Y7nOcosTkt1k200607&isfromapp=1)  
-- [2020-06-07-印度最大贫民窟新增新冠肺炎确诊病例13例-累计确诊1912例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0hxUl6kX8HvqLmWff6W200607&isfromapp=1)  
-- [2020-06-07-阿联酋乱扔口罩将面临高额罚款-汽车中丢弃将被禁止驾车一年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipZEG2rKIUprrxm89Jowv200607&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -499,7 +499,7 @@
 </summary>
 
 
-- [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) ![](assets/new.png)  
+- [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)  
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a)  
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)  
 - [2020-05-27-那些一票难求的高质量前端公众号](https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238)  
@@ -842,14 +842,14 @@
 </summary>
 
 
-- [2020-06-08-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/8afa59b780a425cf27f47a8e71bd6f9a) ![](assets/new.png)  
-- [2020-06-08-何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a) ![](assets/new.png)  
-- [2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38) ![](assets/new.png)  
-- [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) ![](assets/new.png)  
-- [2020-06-07-Reddit-联合创始人离职；微信回应监听用户：假的；B站6月发射卫星用于科普-|-Q资讯](https://www.ershicimi.com/p/a036f73a1a1d754fcd8d960da1cd9310) ![](assets/new.png)  
-- [2020-06-07-腾讯摆摊招聘，你就也想去摆地摊了？](https://www.ershicimi.com/p/ef77cb68b9b0c6e9735b4a28fd7943e3) ![](assets/new.png)  
-- [2020-06-07-技术硬核还不够？互联网企业出海指南来了！-|-Q推荐](https://www.ershicimi.com/p/2be889da7879d7e7fbfd6a87aa47da9e) ![](assets/new.png)  
-- [2020-06-07-以太坊都这么堵了，Eth-2.0-在干嘛呢？](https://www.ershicimi.com/p/ae647850fbd1d140fb4e1eb073e20b95) ![](assets/new.png)  
+- [2020-06-08-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/8afa59b780a425cf27f47a8e71bd6f9a)  
+- [2020-06-08-何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a)  
+- [2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38)  
+- [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1)  
+- [2020-06-07-Reddit-联合创始人离职；微信回应监听用户：假的；B站6月发射卫星用于科普-|-Q资讯](https://www.ershicimi.com/p/a036f73a1a1d754fcd8d960da1cd9310)  
+- [2020-06-07-腾讯摆摊招聘，你就也想去摆地摊了？](https://www.ershicimi.com/p/ef77cb68b9b0c6e9735b4a28fd7943e3)  
+- [2020-06-07-技术硬核还不够？互联网企业出海指南来了！-|-Q推荐](https://www.ershicimi.com/p/2be889da7879d7e7fbfd6a87aa47da9e)  
+- [2020-06-07-以太坊都这么堵了，Eth-2.0-在干嘛呢？](https://www.ershicimi.com/p/ae647850fbd1d140fb4e1eb073e20b95)  
 - [2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309)  
 - [2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e)  
 - [2020-06-06-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/4fed631426197806bf80075765d00d8c)  
@@ -900,11 +900,11 @@
 </summary>
 
 
-- [2020-06-08-10+个很酷的Vue.js组件，模板和demo示例](https://juejin.im/post/5ede493a6fb9a047aa660181) ![](assets/new.png)  
-- [2020-06-08-译使用-JavaScript-实现一个高效的-LRU-cache](https://juejin.im/post/5ede0b105188254308131319) ![](assets/new.png)  
-- [2020-06-08-跟着大佬学习vue的diff算法](https://juejin.im/post/5edcc4ebe51d4578724e442d) ![](assets/new.png)  
-- [2020-06-08-单个-Unicode-字符的-js-匹配规则](https://juejin.im/post/5edde196f265da76e81a41c1) ![](assets/new.png)  
-- [2020-06-08-前端错误监控sdk初步实践](https://juejin.im/post/5ede26aae51d45789e0d9bde) ![](assets/new.png)  
+- [2020-06-08-10+个很酷的Vue.js组件，模板和demo示例](https://juejin.im/post/5ede493a6fb9a047aa660181)  
+- [2020-06-08-译使用-JavaScript-实现一个高效的-LRU-cache](https://juejin.im/post/5ede0b105188254308131319)  
+- [2020-06-08-跟着大佬学习vue的diff算法](https://juejin.im/post/5edcc4ebe51d4578724e442d)  
+- [2020-06-08-单个-Unicode-字符的-js-匹配规则](https://juejin.im/post/5edde196f265da76e81a41c1)  
+- [2020-06-08-前端错误监控sdk初步实践](https://juejin.im/post/5ede26aae51d45789e0d9bde)  
 - [2020-06-08-Serverless-在大规模数据处理的实践](https://juejin.im/post/5eddc6a96fb9a047dc2ccea8)  
 - [2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07)  
 - [2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e)  

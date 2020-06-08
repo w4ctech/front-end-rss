@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1) ![](assets/new.png)  
 - [2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1)  
 - [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1)  
 - [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-07-白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套](http://m.weibo.cn/2803301701/4513138404609313)  
 - [2020-06-07-科技部：中国疫苗完成研制和临床试验后，将作为公共产品向全球提供](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIKn6NzNy928sWuhabziE200607&isfromapp=1)  
 - [2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365)  
-- [2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -700,8 +700,8 @@
 </summary>
 
 
-- [2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)  
+- [2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)  
 - [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)  
 - [2020-05-19-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)  
 - [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)  
@@ -1053,7 +1053,7 @@
 </summary>
 
 
-- [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

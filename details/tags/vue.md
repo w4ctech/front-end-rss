@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -84,3 +84,4 @@
 - [2020-05-31-vue3-源码全解析](https://www.v2ex.com/t/677180) 
 - [2020-05-30-vue-如何自适应调整嵌入的-iframe-的大小，让用户完全感觉不出有-iframe-这个东西？](https://www.v2ex.com/t/677018) 
 - [2020-05-30-远程-EasyPractice---VueJS-工程师](https://www.v2ex.com/t/676982) 
+- [2020-06-08-基于-Vue-SSR-的微前端、微服务、轻量级的解决方案](https://toutiao.io/k/0nfldu0) 

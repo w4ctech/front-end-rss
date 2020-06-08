@@ -6746,6 +6746,16 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "【全网首发】京东商业化数据分析师培养计划",
+        "link": "https://www.ershicimi.com/p/2c8cfe484eef173e8757936716918a06",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "2020 高频前端面试题+答案",
+        "link": "https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7",
+        "date": "2020-06-08"
+      },
+      {
         "title": "包邮送书！前端开发值得看的书单",
         "link": "https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a",
         "date": "2020-06-07"
@@ -21239,6 +21249,91 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "图书：Go 语法树入门",
+        "link": "https://toutiao.io/k/2e64lq9",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "微服务 API 网关 Kong 实践",
+        "link": "https://toutiao.io/k/cqb12y3",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "给你 5 分钟白漂：我的常用在线工具网站",
+        "link": "https://toutiao.io/k/5z3osw9",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "聊聊对领域模型的思考",
+        "link": "https://toutiao.io/k/fkgg3be",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "如何阅读一份源代码？（2020 年版）",
+        "link": "https://toutiao.io/k/4qhid3b",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "美团 MySQL 数据库巡检系统的设计与应用",
+        "link": "https://toutiao.io/k/27agf9h",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "基于 Vue SSR 的微前端、微服务、轻量级的解决方案",
+        "link": "https://toutiao.io/k/0nfldu0",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "Kubernetes 中 HostPath 的风险和防范",
+        "link": "https://toutiao.io/k/kdpltjc",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "用 Python 制作一个艺术签名小工具，给自己设计一个优雅的签名",
+        "link": "https://toutiao.io/k/9eejsym",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "纯 CSS3 实现打字/输入的效果",
+        "link": "https://toutiao.io/k/olq343f",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "前端架构 101：在谈论它们之前我们需要达成的共识",
+        "link": "https://toutiao.io/k/wghmn9z",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "如何把设计问题转化为数学问题（方法论）",
+        "link": "https://toutiao.io/k/qyvfz81",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "中国程序员如何升职加薪，也许我们该学学印度人",
+        "link": "https://toutiao.io/k/4tp92hb",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "Java 基础（七）：常量、变量和数据类型",
+        "link": "https://toutiao.io/k/xf775iv",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "在以太坊生成随机数的几种方式（含代码）",
+        "link": "https://toutiao.io/k/dvrf2ci",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "以深度学习为例理解 22 种设计模式（二）：结构型模式",
+        "link": "https://toutiao.io/k/ks43gn5",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "通过剔除上下文依赖减弱封装的耦合性",
+        "link": "https://toutiao.io/k/7zj141v",
+        "date": "2020-06-08"
+      },
       {
         "title": "我是一个线程，篮球场上的小野马",
         "link": "https://toutiao.io/k/n99s0ww",

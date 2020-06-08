@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 11:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 11:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1) ![](assets/new.png)  
 - [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1)  
 - [2020-06-08-上海6月7日无新增本地新冠肺炎确诊病例-新增境外输入1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1)  
 - [2020-06-08-走基层助抗疫-援圣普抗疫医疗专家组走访地方开展工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1)  
 - [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
 - [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
-- [2020-06-07-希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,10 +146,10 @@
 </summary>
 
 
-- [2020-06-08-手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249) ![](assets/new.png)  
-- [2020-06-08-Flex布局，真香](https://www.ershicimi.com/p/9ccce43f2f0d003d274288a2c1d99bf6) ![](assets/new.png)  
-- [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1) ![](assets/new.png)  
-- [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18) ![](assets/new.png)  
+- [2020-06-08-手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249)  
+- [2020-06-08-Flex布局，真香](https://www.ershicimi.com/p/9ccce43f2f0d003d274288a2c1d99bf6)  
+- [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1)  
+- [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18)  
 - [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b)  
 - [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa)  
 - [2020-06-05-大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a)  
@@ -989,10 +989,10 @@
 </summary>
 
 
-- [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa) ![](assets/new.png)  
-- [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b) ![](assets/new.png)  
-- [2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333) ![](assets/new.png)  
-- [2020-06-07-知乎故事-|-主人睡着后，狗子在干啥？](https://www.ershicimi.com/p/6a1c1b9dc4c30da60cff87dcc63c5433) ![](assets/new.png)  
+- [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa)  
+- [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b)  
+- [2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333)  
+- [2020-06-07-知乎故事-|-主人睡着后，狗子在干啥？](https://www.ershicimi.com/p/6a1c1b9dc4c30da60cff87dcc63c5433)  
 - [2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947)  
 - [2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3)  
 - [2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80)  

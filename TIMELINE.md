@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-08 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-上海6月7日无新增本地新冠肺炎确诊病例-新增境外输入1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-走基层助抗疫-援圣普抗疫医疗专家组走访地方开展工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1) 

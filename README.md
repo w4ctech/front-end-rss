@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 14:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 14:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -583,7 +583,7 @@
 </summary>
 
 
-- [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385) ![](assets/new.png)  
+- [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)  
 - [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45)  
 - [2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22)  
 - [2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/db13b22f5f88783cefa30ecb83dd20a3)  
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1071,7 +1072,6 @@
 - [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-以深度学习为例理解22种设计模式（一）创建型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-05-29-新一代BDD框架Gauge+Taiko-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13484&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fbdd-gauge-taiko%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-JVM源码分析之Attach机制实现完全解读-club.perfma.com](https://blogread.cn/news/go.php?idItem=13483&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F654239%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -958,6 +958,8 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1) 
+- [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18) 
 - [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b) 
 - [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa) 
 - [2020-06-05-酷炫的命令行终端！Windows-Terminal-1.0-终于正式发布！](https://www.ershicimi.com/p/e50543643859c8ad5ae00aa1c4820d34) 
@@ -1314,6 +1316,10 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa) 
+- [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b) 
+- [2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333) 
+- [2020-06-07-知乎故事-|-主人睡着后，狗子在干啥？](https://www.ershicimi.com/p/6a1c1b9dc4c30da60cff87dcc63c5433) 
 - [2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947) 
 - [2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3) 
 - [2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80) 

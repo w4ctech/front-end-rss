@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 10:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 11:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -45,12 +45,12 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -146,6 +146,10 @@
 </summary>
 
 
+- [2020-06-08-手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249) ![](assets/new.png)  
+- [2020-06-08-Flex布局，真香](https://www.ershicimi.com/p/9ccce43f2f0d003d274288a2c1d99bf6) ![](assets/new.png)  
+- [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1) ![](assets/new.png)  
+- [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18) ![](assets/new.png)  
 - [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b)  
 - [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa)  
 - [2020-06-05-大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a)  
@@ -162,10 +166,6 @@
 - [2020-05-30-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/aaabe49c87630d352ab0655e77488985)  
 - [2020-05-29-Vue版的团队代码规范](https://www.ershicimi.com/p/d732ece6aff3153e9f1b5c67fbdc6a4d)  
 - [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)  
-- [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe)  
-- [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443)  
-- [2020-05-27-程序猿12个人艰不拆的真相](https://www.ershicimi.com/p/7fadfd4bb22d4533527e2a97406e465b)  
-- [2020-05-26-收藏吧-|-前端常用60余种工具方法](https://www.ershicimi.com/p/d81dfc8f9781ba848300131970b53c5c)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -868,7 +868,7 @@
 </summary>
 
 
-- [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90) ![](assets/new.png)  
+- [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90)  
 - [2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a)  
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c)  
 - [2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e)  
@@ -989,6 +989,10 @@
 </summary>
 
 
+- [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa) ![](assets/new.png)  
+- [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b) ![](assets/new.png)  
+- [2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333) ![](assets/new.png)  
+- [2020-06-07-知乎故事-|-主人睡着后，狗子在干啥？](https://www.ershicimi.com/p/6a1c1b9dc4c30da60cff87dcc63c5433) ![](assets/new.png)  
 - [2020-06-06-知乎神吐槽-|-你对空姐提出过最奇怪的要求是什么?](https://www.ershicimi.com/p/46f54fc3b9a42d977e35e4db92d99947)  
 - [2020-06-06-10-条广为流传的「经期谣言」，你中招了吗？](https://www.ershicimi.com/p/91bb994df8bb940f3b3a788a609fabe3)  
 - [2020-06-06-知乎故事-|-住「凶宅」是种怎样的体验？](https://www.ershicimi.com/p/a3109b30f6348582fc5b415dc71cee80)  
@@ -1005,10 +1009,6 @@
 - [2020-06-03-你关注的圈子，暴露了你的生活方式](https://www.ershicimi.com/p/700bda93896b354ed6b14f2334266a73)  
 - [2020-06-03-知乎故事-|-我，和男朋友一起睡，尿床了](https://www.ershicimi.com/p/e3a3040dfbc33447c635be7a3276b0e7)  
 - [2020-06-02-还记得《庆余年》的超前点播吗？知乎用户把爱奇艺告了，赢了](https://www.ershicimi.com/p/f0eb973282b02f6213eb3b535123ae02)  
-- [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb)  
-- [2020-06-02-含泪播种的人一定能含笑收获](https://www.ershicimi.com/p/461d69183f009225f38c8b6112d050ba)  
-- [2020-06-02-知乎故事-|-刚出生就被医院判死刑的婴儿值得倾家荡产去救吗？](https://www.ershicimi.com/p/a06a5eefba3d482a73ecac7e04f457d7)  
-- [2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

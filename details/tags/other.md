@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1) 
+- [2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1) 
 - [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1) 
 - [2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1) 
 - [2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1) 

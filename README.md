@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 23:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 00:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-英国新增新冠肺炎确诊病例1205例-累计确诊287399例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihXXSq7fnHKTWwyVrfgMq200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1) ![](assets/new.png)  
 - [2020-06-08-世卫组织：全球新冠肺炎确诊病例超过691万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1)  
 - [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1)  
 - [2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-07-阿联酋乱扔口罩将面临高额罚款-汽车中丢弃将被禁止驾车一年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipZEG2rKIUprrxm89Jowv200607&isfromapp=1)  
 - [2020-06-07-伊朗新增新冠肺炎确诊病例2364例，累计确诊171789例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1)  
 - [2020-06-07-世卫组织：全球新冠肺炎确诊病例超675万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1)  
-- [2020-06-07-吉林市最后2名新冠肺炎患者治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1)  
-- [2020-06-07-俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1)  
-- [2020-06-07-国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -731,12 +731,12 @@
 </summary>
 
 
-- [2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd) ![](assets/new.png)  
-- [2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950) ![](assets/new.png)  
-- [2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5) ![](assets/new.png)  
-- [2020-06-05-奇舞周刊第-352-期：支付宝小程序-V8-Worker-技术演进](https://www.ershicimi.com/p/26a5fb46fa04dd8c40dbeb763153173e) ![](assets/new.png)  
-- [2020-06-05-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/11bc194f83e78ab5b99b354a0777f44a) ![](assets/new.png)  
-- [2020-06-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/924e3ee4ac9ce94b5cead299e8ac12ce) ![](assets/new.png)  
+- [2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd)  
+- [2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950)  
+- [2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5)  
+- [2020-06-05-奇舞周刊第-352-期：支付宝小程序-V8-Worker-技术演进](https://www.ershicimi.com/p/26a5fb46fa04dd8c40dbeb763153173e)  
+- [2020-06-05-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/11bc194f83e78ab5b99b354a0777f44a)  
+- [2020-06-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/924e3ee4ac9ce94b5cead299e8ac12ce)  
 - [2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3)  
 - [2020-06-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1f7fac02805dea9532a1ad33a5ec89e8)  
 - [2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58)  

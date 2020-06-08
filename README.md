@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 10:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 10:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -354,11 +354,11 @@
 </summary>
 
 
-- [2020-06-08-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/e37b4bff894c51d3ee78f9cdec998477) ![](assets/new.png)  
-- [2020-06-07-关于Vue3.0-看这一篇就够了！（内含源码福利）](https://www.ershicimi.com/p/1e7285d3934b2fc0aae06fe8f3fa6c3a) ![](assets/new.png)  
-- [2020-06-07-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/6d0cdc43a5a764089b9d945d9b681a9f) ![](assets/new.png)  
-- [2020-06-06-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/e37eb203ed9b9db2cf286e3c170de9c2) ![](assets/new.png)  
-- [2020-06-06-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/a0e3b921c9c561320ad9547eb7baa398) ![](assets/new.png)  
+- [2020-06-08-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/e37b4bff894c51d3ee78f9cdec998477)  
+- [2020-06-07-关于Vue3.0-看这一篇就够了！（内含源码福利）](https://www.ershicimi.com/p/1e7285d3934b2fc0aae06fe8f3fa6c3a)  
+- [2020-06-07-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/6d0cdc43a5a764089b9d945d9b681a9f)  
+- [2020-06-06-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/e37eb203ed9b9db2cf286e3c170de9c2)  
+- [2020-06-06-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/a0e3b921c9c561320ad9547eb7baa398)  
 - [2020-06-05-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/4e386a5781da55e5f7a929753f9bf09f)  
 - [2020-06-04-前端面试越来越难，你还在原地踏步？](https://www.ershicimi.com/p/d55f60e513904c427d5c73f528c53734)  
 - [2020-06-04-简单聊聊-WebSocket](https://www.ershicimi.com/p/1a63003e4303cc2b5ded5173846ab013)  
@@ -868,6 +868,7 @@
 </summary>
 
 
+- [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90) ![](assets/new.png)  
 - [2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a)  
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c)  
 - [2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e)  

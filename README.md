@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 11:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 12:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,12 +41,12 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
 - [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1)  
 - [2020-06-08-上海6月7日无新增本地新冠肺炎确诊病例-新增境外输入1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1)  
 - [2020-06-08-走基层助抗疫-援圣普抗疫医疗专家组走访地方开展工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278)  
 - [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1)  
 - [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
-- [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -759,6 +759,7 @@
 </summary>
 
 
+- [2020-06-08-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68b6db5155cd6d30da4bbfe2f140d4b7) ![](assets/new.png)  
 - [2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d)  
 - [2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78)  
 - [2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c)  
@@ -895,6 +896,11 @@
 </summary>
 
 
+- [2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07) ![](assets/new.png)  
+- [2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e) ![](assets/new.png)  
+- [2020-06-08-看到赚到！重读vue2.0风格指南，我整理了这些关键规则](https://juejin.im/post/5edafece51882542e3023545) ![](assets/new.png)  
+- [2020-06-08-ES6入门教程-读书笔记](https://juejin.im/post/5edd9455f265da77057e3d50) ![](assets/new.png)  
+- [2020-06-08-vue3响应式系统流程分析与实现](https://juejin.im/post/5edb93caf265da771526eeda) ![](assets/new.png)  
 - [2020-06-08-1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)  
 - [2020-06-08-2020年这些🍔"正则"应该被收藏更新,-63条](https://juejin.im/post/5edd89936fb9a047970688a8)  
 - [2020-06-08-一份值得收藏的-Git-异常处理清单](https://juejin.im/post/5edcf3a36fb9a047fa04fbc3)  
@@ -910,11 +916,6 @@
 - [2020-06-07-一篇文章带你了解【图】的结构及相关【算法】](https://juejin.im/post/5edb95ea5188254313736c35)  
 - [2020-06-07-ThreeJS-——-机房Demo（二）](https://juejin.im/post/5edbab70f265da76f9171d62)  
 - [2020-06-06-快速搭建-vue-组件方案-vue-general-components](https://juejin.im/post/5edb6086e51d450d800a35d1)  
-- [2020-06-06-vue路由权限校验](https://juejin.im/post/5ec88be86fb9a047ab2c0e95)  
-- [2020-06-06-2020你应该知道的前端知识](https://juejin.im/post/5edb5d7d6fb9a04797068720)  
-- [2020-06-06-面试题目一（考点：变量，函数提升，this指向，原型，优先级）](https://juejin.im/post/5edba715f265da76f6531bd3)  
-- [2020-06-06-小程序实战十二-分包加载](https://juejin.im/post/5edb75366fb9a047a96a8130)  
-- [2020-06-06-霖呆呆的中大厂面试记录及2年前端薪资对比附赠学习方法](https://juejin.im/post/5eda38ebf265da7700281d57)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

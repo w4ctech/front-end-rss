@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1166,6 +1166,7 @@
 - [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee) 
 - [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183) 
 - [2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec) 
+- [2020-06-08-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68b6db5155cd6d30da4bbfe2f140d4b7) 
 - [2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d) 
 - [2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
 - [2020-05-31-前端常用60余种工具方法](https://www.ershicimi.com/p/1c49f3a14f9c68d9f5b187302976d387) 
@@ -1256,6 +1257,8 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07) 
+- [2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e) 
 - [2020-06-07-对少儿编程的一点看法和-blockly-开发的一点心得](https://juejin.im/post/5edb810851882542eb3eecd0) 
 - [2020-06-07-前端职业规划---如何从一线开发转职架构师](https://juejin.im/post/5edc987b6fb9a047ae453526) 
 - [2020-06-07-Navigation-Timing-API-入门](https://juejin.im/post/5edc6b16e51d45784f801279) 

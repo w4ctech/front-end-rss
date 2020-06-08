@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "巴西累计新冠肺炎确诊病例超69万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1",
+        "date": "2020-06-08"
+      },
+      {
         "title": "新西兰连续17天无新增新冠肺炎确诊病例 现存病例已“清零”",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1",
         "date": "2020-06-08"
@@ -9307,6 +9312,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "前端真的有资深工程师吗？",
+        "link": "https://www.ershicimi.com/p/68b6db5155cd6d30da4bbfe2f140d4b7",
+        "date": "2020-06-08"
+      },
+      {
         "title": "网传：程序员35岁以后都去送外卖了？",
         "link": "https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d",
         "date": "2020-06-05"
@@ -10016,6 +10026,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "转行学前端的第 60 天 : 了解 BOM navigator 对象相关",
+        "link": "https://juejin.im/post/5edcf519518825431f7c6e07",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "体验微前端（qiankun）",
+        "link": "https://juejin.im/post/5ed70bf35188254348576b4e",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "看到赚到！重读vue2.0风格指南，我整理了这些关键规则",
+        "link": "https://juejin.im/post/5edafece51882542e3023545",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "ES6入门教程-读书笔记",
+        "link": "https://juejin.im/post/5edd9455f265da77057e3d50",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "vue3响应式系统流程分析与实现",
+        "link": "https://juejin.im/post/5edb93caf265da771526eeda",
+        "date": "2020-06-08"
+      },
       {
         "title": "1.2W | 了不起的 TypeScript 入门教程",
         "link": "https://juejin.im/post/5edd8ad8f265da76fc45362c",

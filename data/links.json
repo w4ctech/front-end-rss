@@ -8283,6 +8283,16 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "从 SQL 到 MongoDB 之聚合篇",
+        "link": "https://aotu.io/notes/2020/06/07/sql-to-mongo-2/",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "从 SQL 到 MongoDB 之概念篇",
+        "link": "https://aotu.io/notes/2020/06/07/sql-to-mongo-1/",
+        "date": "2020-06-08"
+      },
+      {
         "title": "Taro 3.0 RC：React/Vue/Nerv 任你选",
         "link": "https://aotu.io/notes/2020/05/25/taro-3-rc/",
         "date": "2020-05-26"
@@ -21167,6 +21177,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "谁说区块链保护隐私的？ (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-08"
+      },
       {
         "title": "以深度学习为例理解22种设计模式（三）行为模式 (johnhany.net)",
         "link": "https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

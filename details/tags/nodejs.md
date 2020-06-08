@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -33,6 +33,7 @@
 - [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774) 
 - [2020-05-20-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/3ffe5ea768d19808f49f3017f2dec2b9) 
 - [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/dc6ec6a67311c9df9fba32dd5d5a08fd) 
+- [2020-06-07-ArcBlock-正在热招-Node.js-全栈工程师](https://juejin.im/post/5edd7576518825365d47e971) 
 - [2020-06-03-electron打包你的h5应用成桌面应用](https://juejin.im/post/5ed640cc6fb9a0479c56d271) 
 - [2020-06-07-提问-刚接触-golang，想问一下为什么不能序列化-html-包里面的-Node-类型？](https://www.v2ex.com/t/679514) 
 - [2020-06-06-上海-C-轮-NLP-方向公司，招-Java-各阶段-、自动化测试、-Python-、大数据、Electron-、算法等各路大佬](https://www.v2ex.com/t/679206) 

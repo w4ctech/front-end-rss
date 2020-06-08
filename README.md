@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 09:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-上海6月7日无新增本地新冠肺炎确诊病例-新增境外输入1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1) ![](assets/new.png)  
 - [2020-06-08-走基层助抗疫-援圣普抗疫医疗专家组走访地方开展工作](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1)  
 - [2020-06-07-香港7日新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiRQ4vTa9Y7nOcosTkt1k200607&isfromapp=1)  
 - [2020-06-07-印度最大贫民窟新增新冠肺炎确诊病例13例-累计确诊1912例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0hxUl6kX8HvqLmWff6W200607&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-07-美媒称抗议持续加剧疫情传播](http://m.weibo.cn/2656274875/4513094523707767)  
 - [2020-06-07-中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1)  
 - [2020-06-07-希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1)  
-- [2020-06-07-疫情下非洲线上购物发展迅猛，电子支付成新宠](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1)  
-- [2020-06-07-哈萨克斯坦总统新闻秘书确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC4ls333XqaPJKakEY67L200607&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -219,9 +219,9 @@
 </summary>
 
 
-- [2020-06-08-【第1969期】NutUI-视频组件开发心得](https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3) ![](assets/new.png)  
-- [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405) ![](assets/new.png)  
-- [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6) ![](assets/new.png)  
+- [2020-06-08-【第1969期】NutUI-视频组件开发心得](https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3)  
+- [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405)  
+- [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6)  
 - [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e)  
 - [2020-06-05-【第1966期】前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/05d3a07bcd20b19004f7236398b5e493)  
 - [2020-06-05-Sula---可能是西湖区最好用的antd配置框架](https://www.ershicimi.com/p/1a42e4d5f94d852426db751fab45b0b7)  
@@ -894,6 +894,10 @@
 </summary>
 
 
+- [2020-06-08-1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c) ![](assets/new.png)  
+- [2020-06-08-2020年这些🍔"正则"应该被收藏更新,-63条](https://juejin.im/post/5edd89936fb9a047970688a8) ![](assets/new.png)  
+- [2020-06-08-一份值得收藏的-Git-异常处理清单](https://juejin.im/post/5edcf3a36fb9a047fa04fbc3) ![](assets/new.png)  
+- [2020-06-07-ArcBlock-正在热招-Node.js-全栈工程师](https://juejin.im/post/5edd7576518825365d47e971) ![](assets/new.png)  
 - [2020-06-07-手摸手Electron-+-Vue实战教程（三）](https://juejin.im/post/5edcc259f265da76d9261a20)  
 - [2020-06-07-对少儿编程的一点看法和-blockly-开发的一点心得](https://juejin.im/post/5edb810851882542eb3eecd0)  
 - [2020-06-07-React-Hooks：正确运用Memoization（记忆化）解决性能问题](https://juejin.im/post/5ed6114251882542fb06d83e)  
@@ -910,10 +914,6 @@
 - [2020-06-06-面试题目一（考点：变量，函数提升，this指向，原型，优先级）](https://juejin.im/post/5edba715f265da76f6531bd3)  
 - [2020-06-06-小程序实战十二-分包加载](https://juejin.im/post/5edb75366fb9a047a96a8130)  
 - [2020-06-06-霖呆呆的中大厂面试记录及2年前端薪资对比附赠学习方法](https://juejin.im/post/5eda38ebf265da7700281d57)  
-- [2020-06-06-这些-CSS-伪类，你可能还不知道，可以用起来了！](https://juejin.im/post/5edad972f265da76e46e5c97)  
-- [2020-06-05-Spring-Boot+Vue前后端分离微信公众号网页授权解决方案](https://juejin.im/post/5eda731151882542f346fe6d)  
-- [2020-06-05-是时候放弃react-router，拥抱route状态化了](https://juejin.im/post/5eda00dee51d45784b1302c6)  
-- [2020-06-05-HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "国家卫健委：昨日新增确诊病例4例 均为境外输入病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "上海6月7日无新增本地新冠肺炎确诊病例 新增境外输入1例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1",
+        "date": "2020-06-08"
+      },
+      {
         "title": "走基层助抗疫 援圣普抗疫医疗专家组走访地方开展工作",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1",
         "date": "2020-06-08"
@@ -9951,6 +9961,26 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "1.2W | 了不起的 TypeScript 入门教程",
+        "link": "https://juejin.im/post/5edd8ad8f265da76fc45362c",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "2020年这些🍔\"正则\"应该被收藏(更新, 63条)",
+        "link": "https://juejin.im/post/5edd89936fb9a047970688a8",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "一份值得收藏的 Git 异常处理清单",
+        "link": "https://juejin.im/post/5edcf3a36fb9a047fa04fbc3",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "ArcBlock 正在热招 Node.js 全栈工程师",
+        "link": "https://juejin.im/post/5edd7576518825365d47e971",
+        "date": "2020-06-07"
+      },
       {
         "title": "手摸手Electron + Vue实战教程（三）",
         "link": "https://juejin.im/post/5edcc259f265da76d9261a20",

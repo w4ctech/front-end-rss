@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-08 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -118,6 +118,7 @@
 - [【Nodejs技术栈】TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)
 - [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)
+- [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [【V2EX】Typescript-香吗?](https://www.v2ex.com/t/679223)
 - [......【查看更多】......](./details/tags/typescript.md)
@@ -595,6 +596,7 @@
 - [【InfoQ】4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c)
 - [【InfoQ】GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)
 - [【InfoQ】GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775)
+- [【掘金前端】一份值得收藏的-Git-异常处理清单](https://juejin.im/post/5edcf3a36fb9a047fa04fbc3)
 - [【掘金前端】关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
@@ -604,7 +606,6 @@
 - [【V2EX】GitHub:我在阿里做技术面试官的一些经验](https://www.v2ex.com/t/678525)
 - [【V2EX】github-也参与进来了](https://www.v2ex.com/t/678444)
 - [【V2EX】有类似于-github-gitee-coding-gitlab-部署静态网站的吗？](https://www.v2ex.com/t/678431)
-- [【V2EX】写了个-GitHub-Action-帮助有多个域名,甚至在不同服务商的自动化批量申请证书工作流.](https://www.v2ex.com/t/678176)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

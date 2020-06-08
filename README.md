@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 15:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 16:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1) ![](assets/new.png)  
 - [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1)  
 - [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
 - [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-07-科技部：中国疫苗完成研制和临床试验后，将作为公共产品向全球提供](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIKn6NzNy928sWuhabziE200607&isfromapp=1)  
 - [2020-06-07-中国境内新冠肺炎累计治愈率94.3%](http://m.weibo.cn/2803301701/4513126656223365)  
 - [2020-06-07-全国中高风险地区再度清零](http://m.weibo.cn/2803301701/4513102233044278)  
-- [2020-06-07-吉林市发布公告，公路卡点一律取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -437,6 +437,9 @@
 </summary>
 
 
+- [2020-06-08-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6fb10b91a7852b05406dea9248568d4d) ![](assets/new.png)  
+- [2020-06-08-vite-的启动链路以及背后的部分原理](https://www.ershicimi.com/p/3f73e23cee5bb0b77a7c9e6d2f488b3f) ![](assets/new.png)  
+- [2020-06-07-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/c35087e96676df0889fdca8f22588600) ![](assets/new.png)  
 - [2020-06-05-Vue-项目性能优化实践](https://www.ershicimi.com/p/81a808d4f44cade8044ae348c4562d38)  
 - [2020-06-04-前端开发进阶手册](https://www.ershicimi.com/p/f0695b78aaa515084e5aba27932e23db)  
 - [2020-06-04-手写20行代码实现async-await](https://www.ershicimi.com/p/712340662fe278b3a5c764a511ed5797)  
@@ -454,8 +457,6 @@
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643)  
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803)  
 - [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/1e3a677ee97fc2a7f3cd957824264530)  
-- [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba)  
-- [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -807,12 +808,12 @@
 </summary>
 
 
-- [2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b) ![](assets/new.png)  
-- [2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd) ![](assets/new.png)  
-- [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699) ![](assets/new.png)  
-- [2020-06-07-互联网公司忽悠员工的黑话，套路太深了。。](https://www.ershicimi.com/p/9a566238583308069488745dd860f6d0) ![](assets/new.png)  
-- [2020-06-07-你们要的Windows-IDEA-快捷键终极大全，速度收藏！](https://www.ershicimi.com/p/16bddda3c1b4a9c20c64c5f2cd103c8c) ![](assets/new.png)  
-- [2020-06-07-代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496) ![](assets/new.png)  
+- [2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b)  
+- [2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd)  
+- [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699)  
+- [2020-06-07-互联网公司忽悠员工的黑话，套路太深了。。](https://www.ershicimi.com/p/9a566238583308069488745dd860f6d0)  
+- [2020-06-07-你们要的Windows-IDEA-快捷键终极大全，速度收藏！](https://www.ershicimi.com/p/16bddda3c1b4a9c20c64c5f2cd103c8c)  
+- [2020-06-07-代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496)  
 - [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea)  
 - [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17)  
 - [2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e)  
@@ -1083,6 +1084,11 @@
 </summary>
 
 
+- [2020-06-08-LeetCode-232：用栈实现队列](https://toutiao.io/k/pnm00da) ![](assets/new.png)  
+- [2020-06-08-开源：分布式-ID-生成器](https://toutiao.io/k/ydz3exe) ![](assets/new.png)  
+- [2020-06-08-花了快-2-个月！自己动手写了一个简单的-RPC-框架](https://toutiao.io/k/a4epezu) ![](assets/new.png)  
+- [2020-06-08-进大厂要做哪些准备（文末附京东、美团、滴滴等新鲜面试真题）](https://toutiao.io/k/6n4l4us) ![](assets/new.png)  
+- [2020-06-08-浅谈设计模式系列之单例模式](https://toutiao.io/k/opcyr30) ![](assets/new.png)  
 - [2020-06-08-图书：Go-语法树入门](https://toutiao.io/k/2e64lq9)  
 - [2020-06-08-微服务-API-网关-Kong-实践](https://toutiao.io/k/cqb12y3)  
 - [2020-06-08-给你-5-分钟白漂：我的常用在线工具网站](https://toutiao.io/k/5z3osw9)  
@@ -1098,11 +1104,6 @@
 - [2020-06-08-中国程序员如何升职加薪，也许我们该学学印度人](https://toutiao.io/k/4tp92hb)  
 - [2020-06-08-Java-基础（七）：常量、变量和数据类型](https://toutiao.io/k/xf775iv)  
 - [2020-06-08-在以太坊生成随机数的几种方式（含代码）](https://toutiao.io/k/dvrf2ci)  
-- [2020-06-08-以深度学习为例理解-22-种设计模式（二）：结构型模式](https://toutiao.io/k/ks43gn5)  
-- [2020-06-08-通过剔除上下文依赖减弱封装的耦合性](https://toutiao.io/k/7zj141v)  
-- [2020-06-07-我是一个线程，篮球场上的小野马](https://toutiao.io/k/n99s0ww)  
-- [2020-06-07-RocketMQ-初识](https://toutiao.io/k/o85zvdd)  
-- [2020-06-07-vite：一种尤雨溪开发的新的、更快地-Web-开发工具](https://toutiao.io/k/b11y4nl)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

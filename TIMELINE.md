@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-08 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1) 
@@ -338,6 +339,9 @@
 - [【前端之巅】2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
 - [【前端之巅】2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) 
 - [【前端之巅】2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516) 
+- [【前端迷】2020-06-08-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6fb10b91a7852b05406dea9248568d4d) 
+- [【前端迷】2020-06-08-vite-的启动链路以及背后的部分原理](https://www.ershicimi.com/p/3f73e23cee5bb0b77a7c9e6d2f488b3f) 
+- [【前端迷】2020-06-07-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/c35087e96676df0889fdca8f22588600) 
 - [【前端迷】2020-06-05-Vue-项目性能优化实践](https://www.ershicimi.com/p/81a808d4f44cade8044ae348c4562d38) 
 - [【前端迷】2020-06-04-前端开发进阶手册](https://www.ershicimi.com/p/f0695b78aaa515084e5aba27932e23db) 
 - [【前端迷】2020-06-04-手写20行代码实现async-await](https://www.ershicimi.com/p/712340662fe278b3a5c764a511ed5797) 
@@ -1977,6 +1981,11 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-08-LeetCode-232：用栈实现队列](https://toutiao.io/k/pnm00da) 
+- [【开发者头条】2020-06-08-开源：分布式-ID-生成器](https://toutiao.io/k/ydz3exe) 
+- [【开发者头条】2020-06-08-花了快-2-个月！自己动手写了一个简单的-RPC-框架](https://toutiao.io/k/a4epezu) 
+- [【开发者头条】2020-06-08-进大厂要做哪些准备（文末附京东、美团、滴滴等新鲜面试真题）](https://toutiao.io/k/6n4l4us) 
+- [【开发者头条】2020-06-08-浅谈设计模式系列之单例模式](https://toutiao.io/k/opcyr30) 
 - [【开发者头条】2020-06-08-图书：Go-语法树入门](https://toutiao.io/k/2e64lq9) 
 - [【开发者头条】2020-06-08-微服务-API-网关-Kong-实践](https://toutiao.io/k/cqb12y3) 
 - [【开发者头条】2020-06-08-给你-5-分钟白漂：我的常用在线工具网站](https://toutiao.io/k/5z3osw9) 

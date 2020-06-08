@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "海南三亚6月7日新增输入确诊病例系个人出行",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1",
+        "date": "2020-06-08"
+      },
+      {
         "title": "菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1",
         "date": "2020-06-08"
@@ -7332,6 +7337,21 @@
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
+      {
+        "title": "资深前端，到底解决了普通前端做不到的哪些问题？",
+        "link": "https://www.ershicimi.com/p/6fb10b91a7852b05406dea9248568d4d",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "vite 的启动链路以及背后的部分原理",
+        "link": "https://www.ershicimi.com/p/3f73e23cee5bb0b77a7c9e6d2f488b3f",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "推荐一个本科双非不到两年进阿里的前端大佬",
+        "link": "https://www.ershicimi.com/p/c35087e96676df0889fdca8f22588600",
+        "date": "2020-06-07"
+      },
       {
         "title": "Vue 项目性能优化实践",
         "link": "https://www.ershicimi.com/p/81a808d4f44cade8044ae348c4562d38",
@@ -21344,6 +21364,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "LeetCode (232)：用栈实现队列",
+        "link": "https://toutiao.io/k/pnm00da",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "开源：分布式 ID 生成器",
+        "link": "https://toutiao.io/k/ydz3exe",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "花了快 2 个月！自己动手写了一个简单的 RPC 框架",
+        "link": "https://toutiao.io/k/a4epezu",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "进大厂要做哪些准备（文末附京东、美团、滴滴等新鲜面试真题）",
+        "link": "https://toutiao.io/k/6n4l4us",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "浅谈设计模式系列之单例模式",
+        "link": "https://toutiao.io/k/opcyr30",
+        "date": "2020-06-08"
+      },
       {
         "title": "图书：Go 语法树入门",
         "link": "https://toutiao.io/k/2e64lq9",

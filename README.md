@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 15:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-08 15:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1) ![](assets/new.png)  
+- [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1)  
 - [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
 - [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
 - [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1)  
@@ -552,9 +552,9 @@
 </summary>
 
 
-- [2020-06-08-Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/ec9c41c9afe715269a6bd2160ece0ad9) ![](assets/new.png)  
-- [2020-06-08-一位前端-P7-大佬的面试经验分享](https://www.ershicimi.com/p/a564e42b829f35b507a5a5e9967d67b9) ![](assets/new.png)  
-- [2020-06-07-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/84286b7d9670a5a349718d80e775ff2e) ![](assets/new.png)  
+- [2020-06-08-Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/ec9c41c9afe715269a6bd2160ece0ad9)  
+- [2020-06-08-一位前端-P7-大佬的面试经验分享](https://www.ershicimi.com/p/a564e42b829f35b507a5a5e9967d67b9)  
+- [2020-06-07-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/84286b7d9670a5a349718d80e775ff2e)  
 - [2020-06-06-推荐一个从国企到阿里，单项目20000+star的大佬](https://www.ershicimi.com/p/2be4fbd58d7fc017d08a16d2d01eb087)  
 - [2020-06-05-编程到底难在哪里？来自Google大佬的解答](https://www.ershicimi.com/p/63b877e7d03c861e890b3e396b9988fa)  
 - [2020-06-05-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/c920766fad1ccced6f29d9929f310717)  
@@ -807,6 +807,12 @@
 </summary>
 
 
+- [2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b) ![](assets/new.png)  
+- [2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd) ![](assets/new.png)  
+- [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699) ![](assets/new.png)  
+- [2020-06-07-互联网公司忽悠员工的黑话，套路太深了。。](https://www.ershicimi.com/p/9a566238583308069488745dd860f6d0) ![](assets/new.png)  
+- [2020-06-07-你们要的Windows-IDEA-快捷键终极大全，速度收藏！](https://www.ershicimi.com/p/16bddda3c1b4a9c20c64c5f2cd103c8c) ![](assets/new.png)  
+- [2020-06-07-代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496) ![](assets/new.png)  
 - [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea)  
 - [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17)  
 - [2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e)  
@@ -821,12 +827,6 @@
 - [2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327)  
 - [2020-06-02-2020年只有外包公司给面试机会，-Why?](https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416)  
 - [2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07)  
-- [2020-06-02-Java-最坑爹的-10-大功能点！](https://www.ershicimi.com/p/be78e00d276c789786c3f93ea760fd7b)  
-- [2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c)  
-- [2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4)  
-- [2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)  
-- [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d)  
-- [2020-05-31-图解-MySQL-索引：B-树、B+树，终于搞清楚了！](https://www.ershicimi.com/p/bf3dbedc7ac978aca0b61c8bbb5a1715)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

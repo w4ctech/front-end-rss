@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-08 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -325,6 +325,9 @@
 - [【前端大学】2020-06-02-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684) 
 - [【前端大学】2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 
 - [【前端大学】2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e) 
+- [【前端之巅】2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) 
+- [【前端之巅】2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145) 
+- [【前端之巅】2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677) 
 - [【前端之巅】2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be) 
 - [【前端之巅】2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) 
 - [【前端之巅】2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838) 
@@ -351,6 +354,9 @@
 - [【全栈前端精选】2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
 - [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
 - [【政采云前端团队】2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
+- [【前端宇宙】2020-06-08-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459) 
+- [【前端宇宙】2020-06-08-如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df) 
+- [【前端宇宙】2020-06-07-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/3fd6c138e6f35a6710846713a4bf147c) 
 - [【前端宇宙】2020-06-06-京东618大促来啦，程序员畅销书籍走起！每满100减50，还有专属优惠码送你哦！](https://www.ershicimi.com/p/8728b8abec017cda3512df855658dbc4) 
 - [【前端宇宙】2020-06-05-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/649ee833e226ffbd657e636314e6481d) 
 - [【前端宇宙】2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027) 
@@ -440,6 +446,7 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-08-Serverless-在大规模数据处理的实践](https://juejin.im/post/5eddc6a96fb9a047dc2ccea8) 
 - [【掘金前端】2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07) 
 - [【掘金前端】2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e) 
 - [【掘金前端】2020-06-08-看到赚到！重读vue2.0风格指南，我整理了这些关键规则](https://juejin.im/post/5edafece51882542e3023545) 

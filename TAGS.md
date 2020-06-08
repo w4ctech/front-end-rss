@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-08 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-08 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -451,6 +451,7 @@
 - [【前端大全】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5)
 - [【前端开发】前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f)
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
+- [【前端宇宙】如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
 - [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
@@ -466,7 +467,6 @@
 - [【V2EX】开发了一款仿-reg007-的网站，目前已添加至近-500-个网站。单次查询需要几十分钟，求优化方案？](https://www.v2ex.com/t/679536)
 - [【V2EX】低性能家庭网络改进求建议](https://www.v2ex.com/t/679264)
 - [【V2EX】🔰-6•18-特惠-『IDM-极速下载工具永久➕cFosSpeed-网络优化-加速工具永久➕Advanced-SystemCare-13-Pro-清理优化工具一年』-历史搭配低价❗❗](https://www.v2ex.com/t/679178)
-- [【V2EX】为什么-DIY-U-盘-性能更好-也不算贵?-大厂难道不能做的更好-成本更低吗?](https://www.v2ex.com/t/679102)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -7186,6 +7186,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端周报：微信正式支持修改微信号；一张壁纸使 Android 手机集体变砖；谷歌下架 Remove",
+        "link": "https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c",
+        "date": "2020-06-07"
+      },
+      {
+        "title": "白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...",
+        "link": "https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145",
+        "date": "2020-06-05"
+      },
+      {
+        "title": "最快的 Google Fonts",
+        "link": "https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677",
+        "date": "2020-06-05"
+      },
+      {
         "title": "何时使用TypeScript：常见场景的详细介绍",
         "link": "https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be",
         "date": "2020-06-04"
@@ -7613,6 +7628,21 @@
     "title": "前端宇宙",
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
+      {
+        "title": "不会 Vue 的前端工程师是没有前途的！",
+        "link": "https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "如何进行 web 性能监控 ？",
+        "link": "https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "2020 年 6 月编程语言排行榜",
+        "link": "https://www.ershicimi.com/p/3fd6c138e6f35a6710846713a4bf147c",
+        "date": "2020-06-07"
+      },
       {
         "title": "京东618大促来啦，程序员畅销书籍走起！每满100减50，还有专属优惠码送你哦！",
         "link": "https://www.ershicimi.com/p/8728b8abec017cda3512df855658dbc4",
@@ -10036,6 +10066,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "Serverless 在大规模数据处理的实践",
+        "link": "https://juejin.im/post/5eddc6a96fb9a047dc2ccea8",
+        "date": "2020-06-08"
+      },
       {
         "title": "转行学前端的第 60 天 : 了解 BOM navigator 对象相关",
         "link": "https://juejin.im/post/5edcf519518825431f7c6e07",

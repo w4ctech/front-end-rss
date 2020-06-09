@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-09 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 14:30:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -531,6 +531,7 @@
 - [【前端迷】华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e)
 - [【全栈前端精选】全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57)
 - [【全栈前端精选】未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867)
+- [【前端瓶子君】不会算法的前端程序员究竟能走多远？](https://www.ershicimi.com/p/a7dbd425d6b2e70df41763530f579f6d)
 - [【前端瓶子君】前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7)
 - [【前端瓶子君】为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63)
 - [【前端瓶子君】平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495)
@@ -541,7 +542,6 @@
 - [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
 - [【凹凸实验室】GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/)
 - [【凹凸实验室】vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/)
-- [【凹凸实验室】Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 13:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 14:30:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,8 +33,8 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -554,6 +554,8 @@
 </summary>
 
 
+- [2020-06-09-不会算法的前端程序员究竟能走多远？](https://www.ershicimi.com/p/a7dbd425d6b2e70df41763530f579f6d) ![](assets/new.png)  
+- [2020-06-09-前端代码规范最佳实践](https://www.ershicimi.com/p/e60d337a1d0554a5c2ad657738467f5b) ![](assets/new.png)  
 - [2020-06-08-Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/ec9c41c9afe715269a6bd2160ece0ad9)  
 - [2020-06-08-一位前端-P7-大佬的面试经验分享](https://www.ershicimi.com/p/a564e42b829f35b507a5a5e9967d67b9)  
 - [2020-06-07-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/84286b7d9670a5a349718d80e775ff2e)  
@@ -572,8 +574,6 @@
 - [2020-05-28-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7)  
 - [2020-05-28-鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8)  
 - [2020-05-27-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495)  
-- [2020-05-26-据说，80%的人都搞不懂哈希算法](https://www.ershicimi.com/p/db579140f0f341b89661e4bc25a105c6)  
-- [2020-05-26-瓶子君邀你进群学习啦](https://www.ershicimi.com/p/10b7a1ece24abc0e29686cff48c4e829)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -585,8 +585,8 @@
 </summary>
 
 
-- [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d) ![](assets/new.png)  
-- [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887) ![](assets/new.png)  
+- [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d)  
+- [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887)  
 - [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)  
 - [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45)  
 - [2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22)  

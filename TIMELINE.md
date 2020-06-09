@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -501,6 +501,7 @@
 - [【InfoQ】2020-06-01-开扒-SpaceX-飞船技术栈，程序员搞了个-3D-版飞船生成器过瘾](https://www.ershicimi.com/p/a56dc386185d1d7c9c2f5e7f2463de64) 
 - [【InfoQ】2020-06-01-连微服务都没经历，直接上中台，可行么？|-ArchSummit](https://www.ershicimi.com/p/a60427088a6041610887a1c5a29d8acf) 
 - [【InfoQ】2020-06-01-从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1) 
+- [【JavaScript】2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457) 
 - [【JavaScript】2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90) 
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 

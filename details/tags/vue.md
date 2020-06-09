@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -57,6 +57,7 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
+- [2020-06-09-Vue的MVVM实现原理](https://juejin.im/post/5edefb32518825431373704c) 
 - [2020-06-08-10+个很酷的Vue.js组件，模板和demo示例](https://juejin.im/post/5ede493a6fb9a047aa660181) 
 - [2020-06-08-跟着大佬学习vue的diff算法](https://juejin.im/post/5edcc4ebe51d4578724e442d) 
 - [2020-06-08-看到赚到！重读vue2.0风格指南，我整理了这些关键规则](https://juejin.im/post/5edafece51882542e3023545) 

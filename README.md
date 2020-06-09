@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 09:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499) ![](assets/new.png)  
+- [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1)  
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
 - [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1)  
 - [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1)  
 - [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
 - [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
-- [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,6 +1056,16 @@
 </summary>
 
 
+- [2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-精选了国内外-6-个接私活的网站，供大家赚钱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13512&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmLrS6KXXrl2WRRwk5dyu3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13511&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvH2h_w6224Xn8blOPxLGPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-200页！Python学习知识手册-下载！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13510&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR1m6aDCcOI-FAXp1Iq3gUg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-有史以来最受欢迎的-25-本编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13509&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLGPRCi5_iWyzmQzWER7maw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-记一次-Python-Web-接口优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13508&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK90boT3xupEiixeQuYi2yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-去你丫的算法！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13507&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81oZTWWkBwG7OUabUFJ9Dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-有了这款-IDEA-插件，你可能只需要写-30%-的代码！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13506&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb2qmTiXzsFxYzcWOhriEsQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-每个程序员都必须知道的8种通用数据结构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13505&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDSQjHoK7xWmmXLk_mGg-zQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1066,16 +1076,6 @@
 - [2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-02-130-个相见恨晚的超实用网站，一次性分享出来-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13495&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FStfbBkw6zd9diBDqIRuGzQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-02-宅家半个月，我总结出读万卷书的-7-大方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13493&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F8iOfoYDOH0upZbxjrH6ZxQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-02-如何在选择一门编程语言后，进行深入造化？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13492&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9cmNqXpksMVtx7zIaRZztA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-02-7-款-Python-开源框架的优劣总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13491&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1z3zuIwwaf6SFYEPym5dFA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-02-网络常见的-9-大命令，非常实用！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13490&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_B0kcnGUzqUdT0b5lmdhsA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-31-有态度的前沿技术解析，第22期技术雷达-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13486&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fthoughtworks-techradar-vol-22%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-05-29-以深度学习为例理解22种设计模式（一）创建型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13485&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-1-creational-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

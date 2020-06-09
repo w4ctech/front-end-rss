@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1) 
@@ -2006,6 +2007,16 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-精选了国内外-6-个接私活的网站，供大家赚钱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13512&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmLrS6KXXrl2WRRwk5dyu3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13511&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvH2h_w6224Xn8blOPxLGPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-200页！Python学习知识手册-下载！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13510&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR1m6aDCcOI-FAXp1Iq3gUg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-有史以来最受欢迎的-25-本编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13509&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLGPRCi5_iWyzmQzWER7maw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-记一次-Python-Web-接口优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13508&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK90boT3xupEiixeQuYi2yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-去你丫的算法！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13507&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81oZTWWkBwG7OUabUFJ9Dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-有了这款-IDEA-插件，你可能只需要写-30%-的代码！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13506&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb2qmTiXzsFxYzcWOhriEsQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-09-每个程序员都必须知道的8种通用数据结构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13505&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDSQjHoK7xWmmXLk_mGg-zQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

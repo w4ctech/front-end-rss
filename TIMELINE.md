@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -358,6 +358,11 @@
 - [【前端大学】2020-06-02-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684) 
 - [【前端大学】2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 
 - [【前端大学】2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e) 
+- [【前端之巅】2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) 
+- [【前端之巅】2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6) 
+- [【前端之巅】2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b) 
+- [【前端之巅】2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963) 
+- [【前端之巅】2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) 
 - [【前端之巅】2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) 
 - [【前端之巅】2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145) 
 - [【前端之巅】2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677) 
@@ -436,6 +441,8 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [【阮一峰的网络日志】2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
+- [【凹凸实验室】2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/) 
+- [【凹凸实验室】2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) 
 - [【奇舞周刊】2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1054,6 +1054,8 @@
 - [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) 
 - [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) 
 - [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) 
+- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) 
+- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) 
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) 
 - [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145) 
 - [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677) 

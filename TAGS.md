@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-09 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -45,6 +45,7 @@
 - [【前端大全】2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e)
 - [【前端开发】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e)
 - [【前端大学】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5)
+- [【前端之巅】前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)
 - [【前端之巅】跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7)
 - [【前端迷】redux原理解析，看这篇就够了](https://www.ershicimi.com/p/58f9295e2d55a5ece604c552e37fe058)
 - [【全栈前端精选】如何实现一个React水印组件](https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210)
@@ -58,7 +59,6 @@
 - [【凹凸实验室】Nerv---京东高性能前端框架](https://aotu.io/notes/2018/03/22/nerv/)
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
-- [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -350,6 +350,7 @@
 - [【前端开发】面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/792fc039e330d6f7870aa5e815495aa0)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端大学】中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684)
+- [【前端之巅】Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6)
 - [【前端之巅】云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)
 - [【前端迷】深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/1e3a677ee97fc2a7f3cd957824264530)
 - [【全栈前端精选】探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249)
@@ -362,7 +363,6 @@
 - [【张鑫旭-鑫空间-鑫生活】快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)
 - [【张鑫旭-鑫空间-鑫生活】借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)
-- [【张鑫旭-鑫空间-鑫生活】了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -382,6 +382,7 @@
 - [【前端早读课】【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)
 - [【全栈前端精选】【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
+- [【凹凸实验室】牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/)
 - [【凹凸实验室】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
 - [【凹凸实验室】十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/)
 - [【凹凸实验室】canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/)

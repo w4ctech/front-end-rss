@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 16:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 16:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -39,11 +39,11 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534) ![](assets/new.png)  
-- [2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html) ![](assets/new.png)  
+- [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1)  
+- [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534)  
+- [2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html)  
 - [2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1)  
 - [2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1)  
 - [2020-06-09-巴西新冠肺炎累计确诊人数超70万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1)  
@@ -406,6 +406,11 @@
 </summary>
 
 
+- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) ![](assets/new.png)  
+- [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6) ![](assets/new.png)  
+- [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b) ![](assets/new.png)  
+- [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963) ![](assets/new.png)  
+- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) ![](assets/new.png)  
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c)  
 - [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145)  
 - [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677)  
@@ -421,11 +426,6 @@
 - [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352)  
 - [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/ced8ad44398a06d5dc2139bb288b061b)  
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe)  
-- [2020-05-29-Android-Studio-4.0发布：全新的-Motion-编辑器及众多更新](https://www.ershicimi.com/p/14f666e03304c01d8fd48334908ce54b)  
-- [2020-05-29-云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)  
-- [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](https://www.ershicimi.com/p/73af0f0ccd56559288e320c697d43ba0)  
-- [2020-05-28-每个程序员都曾犯过的10大经典错误](https://www.ershicimi.com/p/6bfeb784f67f85a586ee6430ad85bac7)  
-- [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -701,6 +701,8 @@
 </summary>
 
 
+- [2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
 - [2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)  
 - [2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)  
 - [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)  
@@ -719,8 +721,6 @@
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)  
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)  
 - [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)  
-- [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)  
-- [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -811,9 +811,9 @@
 </summary>
 
 
-- [2020-06-09-「一键卸载中国应用」app登顶国外榜首，却被中国网友玩坏](https://www.ershicimi.com/p/9fdb7706c2a2be7325d60c3a5e69edf0) ![](assets/new.png)  
-- [2020-06-09-while-true-和-for-;;-哪个更快？](https://www.ershicimi.com/p/acbb24aa8c6eb450a49bec8feb2f29ec) ![](assets/new.png)  
-- [2020-06-09-提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8) ![](assets/new.png)  
+- [2020-06-09-「一键卸载中国应用」app登顶国外榜首，却被中国网友玩坏](https://www.ershicimi.com/p/9fdb7706c2a2be7325d60c3a5e69edf0)  
+- [2020-06-09-while-true-和-for-;;-哪个更快？](https://www.ershicimi.com/p/acbb24aa8c6eb450a49bec8feb2f29ec)  
+- [2020-06-09-提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8)  
 - [2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b)  
 - [2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd)  
 - [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699)  

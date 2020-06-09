@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -10,6 +10,7 @@
 - [2020-05-31-【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50) 
 - [2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
+- [2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
 - [2018-10-18-十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/) 
 - [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/) 

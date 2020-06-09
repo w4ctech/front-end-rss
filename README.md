@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 19:30:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 20:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-09-北京昌平：养老机构落实防控措施有序开放探视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-北京昌平：养老机构落实防控措施有序开放探视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1)  
 - [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1)  
 - [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1)  
 - [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534)  
@@ -1026,26 +1026,26 @@
 </summary>
 
 
-- [2020-06-09-将-Suica-添加到-iPhone-之后，申请-Apple-Card-按钮消失了](https://www.v2ex.com/t/680114) ![](assets/new.png)  
-- [2020-06-09-作为个人用户,-有哪些长时间保存数据的介质?](https://www.v2ex.com/t/680113) ![](assets/new.png)  
-- [2020-06-09-Openshift-4.4-离线环境部署教程](https://www.v2ex.com/t/680110) ![](assets/new.png)  
-- [2020-06-09-Centos-下有没有可以打开网页并正常运行的工具？](https://www.v2ex.com/t/680109) ![](assets/new.png)  
-- [2020-06-09-还可以回归计算机行业嘛？](https://www.v2ex.com/t/680108) ![](assets/new.png)  
-- [2020-06-09-V2-是咋啦？还是我的网络有问题，老是弹出-Cloudflare-的-DDOS-保护页面，还要“我是人”验证](https://www.v2ex.com/t/680106) ![](assets/new.png)  
-- [2020-06-09-求大佬推荐一个-4G-路由器](https://www.v2ex.com/t/680105) ![](assets/new.png)  
-- [2020-06-09-APP-自动脚本求问](https://www.v2ex.com/t/680104) ![](assets/new.png)  
-- [2020-06-09-大佬们看看简历-北京-期望薪资写个多少合适](https://www.v2ex.com/t/680103) ![](assets/new.png)  
-- [2020-06-09-购买-1-个多月的-16-寸-pro-奇葩经过](https://www.v2ex.com/t/680102) ![](assets/new.png)  
-- [2020-06-09-求推荐个正常坐着能靠到头枕的椅子，能靠着头枕写代码的那种](https://www.v2ex.com/t/680099) ![](assets/new.png)  
-- [2020-06-09-辞职两周有感于执行力较差且无聊，建了个程序员辞职交流群试下有没有人来～](https://www.v2ex.com/t/680098) ![](assets/new.png)  
-- [2020-06-09-线上云笔记安全吗？](https://www.v2ex.com/t/680097) ![](assets/new.png)  
-- [2020-06-09-前端输出静态代码太痛苦，我搞了自动化工具](https://www.v2ex.com/t/680096) ![](assets/new.png)  
-- [2020-06-09-新手求推荐家用路由器](https://www.v2ex.com/t/680095) ![](assets/new.png)  
-- [2020-06-09-动态变化的-js-如何逆向](https://www.v2ex.com/t/680094) ![](assets/new.png)  
-- [2020-06-09-上海/北京/杭州-量化-C++-不加班，一个月年假](https://www.v2ex.com/t/680093) ![](assets/new.png)  
-- [2020-06-09-如何反编译写好的前端代码?](https://www.v2ex.com/t/680092) ![](assets/new.png)  
-- [2020-06-09-美区购买礼品卡，出现这个提示是啥情况？](https://www.v2ex.com/t/680090) ![](assets/new.png)  
-- [2020-06-09-有提供数据合规解决方案的吗？](https://www.v2ex.com/t/680088) ![](assets/new.png)  
+- [2020-06-09-将-Suica-添加到-iPhone-之后，申请-Apple-Card-按钮消失了](https://www.v2ex.com/t/680114)  
+- [2020-06-09-作为个人用户,-有哪些长时间保存数据的介质?](https://www.v2ex.com/t/680113)  
+- [2020-06-09-Openshift-4.4-离线环境部署教程](https://www.v2ex.com/t/680110)  
+- [2020-06-09-Centos-下有没有可以打开网页并正常运行的工具？](https://www.v2ex.com/t/680109)  
+- [2020-06-09-还可以回归计算机行业嘛？](https://www.v2ex.com/t/680108)  
+- [2020-06-09-V2-是咋啦？还是我的网络有问题，老是弹出-Cloudflare-的-DDOS-保护页面，还要“我是人”验证](https://www.v2ex.com/t/680106)  
+- [2020-06-09-求大佬推荐一个-4G-路由器](https://www.v2ex.com/t/680105)  
+- [2020-06-09-APP-自动脚本求问](https://www.v2ex.com/t/680104)  
+- [2020-06-09-大佬们看看简历-北京-期望薪资写个多少合适](https://www.v2ex.com/t/680103)  
+- [2020-06-09-购买-1-个多月的-16-寸-pro-奇葩经过](https://www.v2ex.com/t/680102)  
+- [2020-06-09-求推荐个正常坐着能靠到头枕的椅子，能靠着头枕写代码的那种](https://www.v2ex.com/t/680099)  
+- [2020-06-09-辞职两周有感于执行力较差且无聊，建了个程序员辞职交流群试下有没有人来～](https://www.v2ex.com/t/680098)  
+- [2020-06-09-线上云笔记安全吗？](https://www.v2ex.com/t/680097)  
+- [2020-06-09-前端输出静态代码太痛苦，我搞了自动化工具](https://www.v2ex.com/t/680096)  
+- [2020-06-09-新手求推荐家用路由器](https://www.v2ex.com/t/680095)  
+- [2020-06-09-动态变化的-js-如何逆向](https://www.v2ex.com/t/680094)  
+- [2020-06-09-上海/北京/杭州-量化-C++-不加班，一个月年假](https://www.v2ex.com/t/680093)  
+- [2020-06-09-如何反编译写好的前端代码?](https://www.v2ex.com/t/680092)  
+- [2020-06-09-美区购买礼品卡，出现这个提示是啥情况？](https://www.v2ex.com/t/680090)  
+- [2020-06-09-有提供数据合规解决方案的吗？](https://www.v2ex.com/t/680088)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,6 +1088,11 @@
 </summary>
 
 
+- [2020-06-09-译-涨见识了，在终端执行-Python-代码的-6-种方式](https://toutiao.io/k/xhrbo8k) ![](assets/new.png)  
+- [2020-06-09-译-iOS-架构谈：剖析-Uber-的-RIB-架构](https://toutiao.io/k/f5aikb7) ![](assets/new.png)  
+- [2020-06-09-Hot-Reload-究竟是怎么实现的？](https://toutiao.io/k/7rqi5mi) ![](assets/new.png)  
+- [2020-06-09-Java-一个-int-值，只能表示一个数值吗？](https://toutiao.io/k/r3qiue9) ![](assets/new.png)  
+- [2020-06-09-MapboxGL-简析（二）：变换](https://toutiao.io/k/imuddxi) ![](assets/new.png)  
 - [2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz)  
 - [2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0)  
 - [2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup)  
@@ -1103,11 +1108,6 @@
 - [2020-06-09-使用-Akka-Actor-来替换-Java-的-Synchronized-同步代码](https://toutiao.io/k/7c34iw0)  
 - [2020-06-09-Linux-内核系列简析进程生命周期：从生到死的这一生（二）](https://toutiao.io/k/bhk4xtd)  
 - [2020-06-09-银行需要分布式数据库吗？](https://toutiao.io/k/evkj5pt)  
-- [2020-06-09-值得你拥有的新一代分布式调度与计算框架：OhMyScheduler](https://toutiao.io/k/p48y9ey)  
-- [2020-06-09-CMake-系列（二）：第三方依赖管理](https://toutiao.io/k/8jp5spi)  
-- [2020-06-08-LeetCode-232：用栈实现队列](https://toutiao.io/k/pnm00da)  
-- [2020-06-08-开源：分布式-ID-生成器](https://toutiao.io/k/ydz3exe)  
-- [2020-06-08-花了快-2-个月！自己动手写了一个简单的-RPC-框架](https://toutiao.io/k/a4epezu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

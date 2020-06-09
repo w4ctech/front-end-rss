@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 19:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 20:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -2155,6 +2155,11 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-09-译-涨见识了，在终端执行-Python-代码的-6-种方式](https://toutiao.io/k/xhrbo8k) 
+- [【开发者头条】2020-06-09-译-iOS-架构谈：剖析-Uber-的-RIB-架构](https://toutiao.io/k/f5aikb7) 
+- [【开发者头条】2020-06-09-Hot-Reload-究竟是怎么实现的？](https://toutiao.io/k/7rqi5mi) 
+- [【开发者头条】2020-06-09-Java-一个-int-值，只能表示一个数值吗？](https://toutiao.io/k/r3qiue9) 
+- [【开发者头条】2020-06-09-MapboxGL-简析（二）：变换](https://toutiao.io/k/imuddxi) 
 - [【开发者头条】2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz) 
 - [【开发者头条】2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0) 
 - [【开发者头条】2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup) 

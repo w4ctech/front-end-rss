@@ -7600,6 +7600,11 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "探索 Serverless 中的前端开发模式(多场景)",
+        "link": "https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249",
+        "date": "2020-06-09"
+      },
+      {
         "title": "改善CSS的10种最佳做法",
         "link": "https://www.ershicimi.com/p/44eeb58a40a8f2d0eb5598c3ab50b91b",
         "date": "2020-06-08"
@@ -21682,6 +21687,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "JDK8在泛型类型推导上的变化 (club.perfma.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-09"
+      },
       {
         "title": "16 个怪异的代码注释，想用的拿走 (mp.weixin.qq.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

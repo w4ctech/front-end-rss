@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 15:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 16:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534) ![](assets/new.png)  
+- [2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html) ![](assets/new.png)  
 - [2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1)  
 - [2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1)  
 - [2020-06-09-巴西新冠肺炎累计确诊人数超70万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-08-世卫组织：全球新冠肺炎确诊病例超过691万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1)  
 - [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1)  
 - [2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1)  
-- [2020-06-08-​伊朗新增2043例新冠肺炎确诊病例-累计173832例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZsTSO7wfNMJXKGbm4Ndg200608&isfromapp=1)  
-- [2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1)  
-- [2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,7 +468,7 @@
 </summary>
 
 
-- [2020-06-09-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249) ![](assets/new.png)  
+- [2020-06-09-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249)  
 - [2020-06-08-改善CSS的10种最佳做法](https://www.ershicimi.com/p/44eeb58a40a8f2d0eb5598c3ab50b91b)  
 - [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5)  
 - [2020-06-07-我在阿里是怎么工作的，写在阿里入职一周年](https://www.ershicimi.com/p/bc1692cc83ee6f2837f27dea11c65c06)  
@@ -811,6 +811,9 @@
 </summary>
 
 
+- [2020-06-09-「一键卸载中国应用」app登顶国外榜首，却被中国网友玩坏](https://www.ershicimi.com/p/9fdb7706c2a2be7325d60c3a5e69edf0) ![](assets/new.png)  
+- [2020-06-09-while-true-和-for-;;-哪个更快？](https://www.ershicimi.com/p/acbb24aa8c6eb450a49bec8feb2f29ec) ![](assets/new.png)  
+- [2020-06-09-提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8) ![](assets/new.png)  
 - [2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b)  
 - [2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd)  
 - [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699)  
@@ -828,9 +831,6 @@
 - [2020-06-04-你还精通MySQL，竟然连bin-log、redo-log都不知道！](https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1)  
 - [2020-06-03-IntelliJ-IDEA-调试技巧，比-Eclipse-强太多了！](https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b)  
 - [2020-06-03-最受欢迎Java数据库访问框架DAO层](https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8)  
-- [2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327)  
-- [2020-06-02-2020年只有外包公司给面试机会，-Why?](https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416)  
-- [2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1057,7 +1057,7 @@
 </summary>
 
 
-- [2020-06-09-JDK8在泛型类型推导上的变化-club.perfma.com](https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-JDK8在泛型类型推导上的变化-club.perfma.com](https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-精选了国内外-6-个接私活的网站，供大家赚钱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13512&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmLrS6KXXrl2WRRwk5dyu3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-巴西新冠肺炎累计确诊人数超70万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1) 
@@ -450,6 +453,9 @@
 - [【前端日刊】2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d) 
 - [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
+- [【互联网架构师】2020-06-09-「一键卸载中国应用」app登顶国外榜首，却被中国网友玩坏](https://www.ershicimi.com/p/9fdb7706c2a2be7325d60c3a5e69edf0) 
+- [【互联网架构师】2020-06-09-while-true-和-for-;;-哪个更快？](https://www.ershicimi.com/p/acbb24aa8c6eb450a49bec8feb2f29ec) 
+- [【互联网架构师】2020-06-09-提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8) 
 - [【互联网架构师】2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b) 
 - [【互联网架构师】2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd) 
 - [【互联网架构师】2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699) 

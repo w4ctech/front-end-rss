@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1) 
 - [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499) 
 - [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1) 
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316) 
@@ -969,6 +970,7 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-09-用好这7个VS-Code插件，效率蹭蹭涨](https://www.ershicimi.com/p/590d124690aa4dbda3b13898dba721f4) 
 - [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1) 
 - [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18) 
 - [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b) 
@@ -1021,6 +1023,8 @@
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
 - [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
+- [2020-06-09-前端真的有资深工程师吗？](https://www.ershicimi.com/p/d246cf2ef0ff50a3d518129bc922de7d) 
+- [2020-06-09-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/dc8da15e31b965a016b5cc233a550d21) 
 - [2020-06-08-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/2c8cfe484eef173e8757936716918a06) 
 - [2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a) 
 - [2020-06-05-了不起的-Deno-入门教程](https://www.ershicimi.com/p/1c9c2d0779a5b71861ceb7b91156e1ea) 

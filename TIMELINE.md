@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-巴西新冠肺炎累计确诊人数超70万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316) 
@@ -279,6 +281,8 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) 
+- [【Vue中文社区】2020-06-09-蒋豪群:-聊聊Vue3-周边配套](https://www.ershicimi.com/p/238a2692041b19c4d8f70b2ab1a63029) 
+- [【Vue中文社区】2020-06-09-用好这7个VS-Code插件，效率蹭蹭涨](https://www.ershicimi.com/p/590d124690aa4dbda3b13898dba721f4) 
 - [【Vue中文社区】2020-06-08-手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249) 
 - [【Vue中文社区】2020-06-08-Flex布局，真香](https://www.ershicimi.com/p/9ccce43f2f0d003d274288a2c1d99bf6) 
 - [【Vue中文社区】2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1) 
@@ -321,6 +325,8 @@
 - [【前端大全】2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [【前端大全】2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
 - [【前端大全】2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
+- [【前端开发】2020-06-09-前端真的有资深工程师吗？](https://www.ershicimi.com/p/d246cf2ef0ff50a3d518129bc922de7d) 
+- [【前端开发】2020-06-09-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/dc8da15e31b965a016b5cc233a550d21) 
 - [【前端开发】2020-06-08-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/2c8cfe484eef173e8757936716918a06) 
 - [【前端开发】2020-06-08-2020-高频前端面试题+答案](https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7) 
 - [【前端开发】2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a) 

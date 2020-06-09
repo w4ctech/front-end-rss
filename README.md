@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 11:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 12:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)  
+- [前端大全](#前端大全)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-巴西新冠肺炎累计确诊人数超70万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1) ![](assets/new.png)  
 - [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499)  
 - [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1)  
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
@@ -112,8 +114,6 @@
 - [2020-06-08-辽宁国家紧急医学救援队110天转战三地抗击疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1)  
 - [2020-06-08-海南三亚6月7日新增输入确诊病例系个人出行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1)  
 - [2020-06-08-菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1)  
-- [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
-- [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-06-09-蒋豪群:-聊聊Vue3-周边配套](https://www.ershicimi.com/p/238a2692041b19c4d8f70b2ab1a63029) ![](assets/new.png)  
+- [2020-06-09-用好这7个VS-Code插件，效率蹭蹭涨](https://www.ershicimi.com/p/590d124690aa4dbda3b13898dba721f4) ![](assets/new.png)  
 - [2020-06-08-手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249)  
 - [2020-06-08-Flex布局，真香](https://www.ershicimi.com/p/9ccce43f2f0d003d274288a2c1d99bf6)  
 - [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1)  
@@ -164,8 +166,6 @@
 - [2020-05-31-Vue-项目性能优化—实践指南（网上最全-/-详细）](https://www.ershicimi.com/p/65ddd0f9664b147ddacdaa2418fc966e)  
 - [2020-05-30-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/d9d65c361472cb8be993372fdc7fb500)  
 - [2020-05-30-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/aaabe49c87630d352ab0655e77488985)  
-- [2020-05-29-Vue版的团队代码规范](https://www.ershicimi.com/p/d732ece6aff3153e9f1b5c67fbdc6a4d)  
-- [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -250,9 +250,9 @@
 </summary>
 
 
-- [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93) ![](assets/new.png)  
-- [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb) ![](assets/new.png)  
-- [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2) ![](assets/new.png)  
+- [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93)  
+- [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb)  
+- [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2)  
 - [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117)  
 - [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c)  
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)  
@@ -281,6 +281,8 @@
 </summary>
 
 
+- [2020-06-09-前端真的有资深工程师吗？](https://www.ershicimi.com/p/d246cf2ef0ff50a3d518129bc922de7d) ![](assets/new.png)  
+- [2020-06-09-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/dc8da15e31b965a016b5cc233a550d21) ![](assets/new.png)  
 - [2020-06-08-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/2c8cfe484eef173e8757936716918a06)  
 - [2020-06-08-2020-高频前端面试题+答案](https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7)  
 - [2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a)  
@@ -299,8 +301,6 @@
 - [2020-05-30-前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f)  
 - [2020-05-29-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/0804e565a5a749e6781a364b41fdd645)  
 - [2020-05-28-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/6cefc7b7fe1df4975b064ca642f12abb)  
-- [2020-05-27-做前端-8-年，看透了裁人的套路。。](https://www.ershicimi.com/p/4d4350a3eed7b89d2e12d06d6ec5b477)  
-- [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1087,23 +1087,23 @@
 </summary>
 
 
-- [2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz) ![](assets/new.png)  
-- [2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0) ![](assets/new.png)  
-- [2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup) ![](assets/new.png)  
-- [2020-06-09-IDEA-插件推荐：让你写出好代码的神器](https://toutiao.io/k/xa8ozx9) ![](assets/new.png)  
-- [2020-06-09-译-25-个提升开发幸福感的-VSCode-扩展](https://toutiao.io/k/6xlhabo) ![](assets/new.png)  
-- [2020-06-09-程序员可迁移技能的培养](https://toutiao.io/k/mfkt1xo) ![](assets/new.png)  
-- [2020-06-09-DevOps-实施的五个关键点](https://toutiao.io/k/t09603v) ![](assets/new.png)  
-- [2020-06-09-《寒雁周刊》第-1-期](https://toutiao.io/k/uey347y) ![](assets/new.png)  
-- [2020-06-09-Android-避坑指南，发现了一个极度不安全的操作](https://toutiao.io/k/2teequt) ![](assets/new.png)  
-- [2020-06-09-Lin-UI：一套设计精良的微信小程序组件库](https://toutiao.io/k/48bjki8) ![](assets/new.png)  
-- [2020-06-09-译-BeyondProd：Google-云原生安全模型-2019](https://toutiao.io/k/ojg769q) ![](assets/new.png)  
-- [2020-06-09-没了-IDE，你的-Java-项目还能-Run-起来吗？](https://toutiao.io/k/vhyy5cb) ![](assets/new.png)  
-- [2020-06-09-使用-Akka-Actor-来替换-Java-的-Synchronized-同步代码](https://toutiao.io/k/7c34iw0) ![](assets/new.png)  
-- [2020-06-09-Linux-内核系列简析进程生命周期：从生到死的这一生（二）](https://toutiao.io/k/bhk4xtd) ![](assets/new.png)  
-- [2020-06-09-银行需要分布式数据库吗？](https://toutiao.io/k/evkj5pt) ![](assets/new.png)  
-- [2020-06-09-值得你拥有的新一代分布式调度与计算框架：OhMyScheduler](https://toutiao.io/k/p48y9ey) ![](assets/new.png)  
-- [2020-06-09-CMake-系列（二）：第三方依赖管理](https://toutiao.io/k/8jp5spi) ![](assets/new.png)  
+- [2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz)  
+- [2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0)  
+- [2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup)  
+- [2020-06-09-IDEA-插件推荐：让你写出好代码的神器](https://toutiao.io/k/xa8ozx9)  
+- [2020-06-09-译-25-个提升开发幸福感的-VSCode-扩展](https://toutiao.io/k/6xlhabo)  
+- [2020-06-09-程序员可迁移技能的培养](https://toutiao.io/k/mfkt1xo)  
+- [2020-06-09-DevOps-实施的五个关键点](https://toutiao.io/k/t09603v)  
+- [2020-06-09-《寒雁周刊》第-1-期](https://toutiao.io/k/uey347y)  
+- [2020-06-09-Android-避坑指南，发现了一个极度不安全的操作](https://toutiao.io/k/2teequt)  
+- [2020-06-09-Lin-UI：一套设计精良的微信小程序组件库](https://toutiao.io/k/48bjki8)  
+- [2020-06-09-译-BeyondProd：Google-云原生安全模型-2019](https://toutiao.io/k/ojg769q)  
+- [2020-06-09-没了-IDE，你的-Java-项目还能-Run-起来吗？](https://toutiao.io/k/vhyy5cb)  
+- [2020-06-09-使用-Akka-Actor-来替换-Java-的-Synchronized-同步代码](https://toutiao.io/k/7c34iw0)  
+- [2020-06-09-Linux-内核系列简析进程生命周期：从生到死的这一生（二）](https://toutiao.io/k/bhk4xtd)  
+- [2020-06-09-银行需要分布式数据库吗？](https://toutiao.io/k/evkj5pt)  
+- [2020-06-09-值得你拥有的新一代分布式调度与计算框架：OhMyScheduler](https://toutiao.io/k/p48y9ey)  
+- [2020-06-09-CMake-系列（二）：第三方依赖管理](https://toutiao.io/k/8jp5spi)  
 - [2020-06-08-LeetCode-232：用栈实现队列](https://toutiao.io/k/pnm00da)  
 - [2020-06-08-开源：分布式-ID-生成器](https://toutiao.io/k/ydz3exe)  
 - [2020-06-08-花了快-2-个月！自己动手写了一个简单的-RPC-框架](https://toutiao.io/k/a4epezu)  

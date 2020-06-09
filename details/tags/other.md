@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 14:30:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1) 
 - [2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1) 
 - [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499) 
 - [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1) 
@@ -1037,6 +1038,7 @@
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-06-09-作用域与闭包---最简解释器实现](https://www.ershicimi.com/p/d928abf90570a9c197831a56962542d8) 
 - [2020-06-08-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/e37b4bff894c51d3ee78f9cdec998477) 
 - [2020-06-05-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/4e386a5781da55e5f7a929753f9bf09f) 
 - [2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 

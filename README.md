@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 20:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 21:00:20，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -1026,26 +1026,26 @@
 </summary>
 
 
+- [2020-06-09-Ubuntu-的-do-release-upgrade-工具，还没放出升级-20.04-的信息吗？](https://www.v2ex.com/t/680130) ![](assets/new.png)  
+- [2020-06-09-有没有好用的-sourceMap-解压工具可以推荐一下？](https://www.v2ex.com/t/680129) ![](assets/new.png)  
+- [2020-06-09-双通道导致的蓝屏问题](https://www.v2ex.com/t/680128) ![](assets/new.png)  
+- [2020-06-09-迫于自己是个菜鸡，女朋友在武汉工作。本菜鸡想明年回武汉进一个稍微大一点的厂。比如小米。但是学历是渣渣本科。怎么刷面试题刷进去。有没有大佬指点一下？](https://www.v2ex.com/t/680126) ![](assets/new.png)  
+- [2020-06-09-2345-这家公司，怎么样？](https://www.v2ex.com/t/680125) ![](assets/new.png)  
+- [2020-06-09-北京20-50K58-同城-Java-后端开发-社招内推，急招~~~](https://www.v2ex.com/t/680124) ![](assets/new.png)  
+- [2020-06-09-maven-私服-deploy-时卡住](https://www.v2ex.com/t/680123) ![](assets/new.png)  
+- [2020-06-09-QQ-音乐客户端登录提示登录出错？！](https://www.v2ex.com/t/680122) ![](assets/new.png)  
+- [2020-06-09-coding-的代码仓库挂了？](https://www.v2ex.com/t/680121) ![](assets/new.png)  
+- [2020-06-09-阿里云有知道怎么续费服务器返利的吗？](https://www.v2ex.com/t/680120) ![](assets/new.png)  
+- [2020-06-09-向老哥们请教三个问题，-PDD-百亿补贴购买的-mbp13-稳不稳？店铺开的发票苹果认不认？是否会影响后续的保修？](https://www.v2ex.com/t/680119) ![](assets/new.png)  
+- [2020-06-09-探讨一下超星提前查看试卷的操作](https://www.v2ex.com/t/680118) ![](assets/new.png)  
+- [2020-06-09-数码荔枝-618-jetbrains-家-68-折](https://www.v2ex.com/t/680117) ![](assets/new.png)  
+- [2020-06-09-拼多多还有副站？？](https://www.v2ex.com/t/680116) ![](assets/new.png)  
+- [2020-06-09-讨论你对互联网造词的感觉如何？](https://www.v2ex.com/t/680115) ![](assets/new.png)  
 - [2020-06-09-将-Suica-添加到-iPhone-之后，申请-Apple-Card-按钮消失了](https://www.v2ex.com/t/680114)  
 - [2020-06-09-作为个人用户,-有哪些长时间保存数据的介质?](https://www.v2ex.com/t/680113)  
 - [2020-06-09-Openshift-4.4-离线环境部署教程](https://www.v2ex.com/t/680110)  
 - [2020-06-09-Centos-下有没有可以打开网页并正常运行的工具？](https://www.v2ex.com/t/680109)  
 - [2020-06-09-还可以回归计算机行业嘛？](https://www.v2ex.com/t/680108)  
-- [2020-06-09-V2-是咋啦？还是我的网络有问题，老是弹出-Cloudflare-的-DDOS-保护页面，还要“我是人”验证](https://www.v2ex.com/t/680106)  
-- [2020-06-09-求大佬推荐一个-4G-路由器](https://www.v2ex.com/t/680105)  
-- [2020-06-09-APP-自动脚本求问](https://www.v2ex.com/t/680104)  
-- [2020-06-09-大佬们看看简历-北京-期望薪资写个多少合适](https://www.v2ex.com/t/680103)  
-- [2020-06-09-购买-1-个多月的-16-寸-pro-奇葩经过](https://www.v2ex.com/t/680102)  
-- [2020-06-09-求推荐个正常坐着能靠到头枕的椅子，能靠着头枕写代码的那种](https://www.v2ex.com/t/680099)  
-- [2020-06-09-辞职两周有感于执行力较差且无聊，建了个程序员辞职交流群试下有没有人来～](https://www.v2ex.com/t/680098)  
-- [2020-06-09-线上云笔记安全吗？](https://www.v2ex.com/t/680097)  
-- [2020-06-09-前端输出静态代码太痛苦，我搞了自动化工具](https://www.v2ex.com/t/680096)  
-- [2020-06-09-新手求推荐家用路由器](https://www.v2ex.com/t/680095)  
-- [2020-06-09-动态变化的-js-如何逆向](https://www.v2ex.com/t/680094)  
-- [2020-06-09-上海/北京/杭州-量化-C++-不加班，一个月年假](https://www.v2ex.com/t/680093)  
-- [2020-06-09-如何反编译写好的前端代码?](https://www.v2ex.com/t/680092)  
-- [2020-06-09-美区购买礼品卡，出现这个提示是啥情况？](https://www.v2ex.com/t/680090)  
-- [2020-06-09-有提供数据合规解决方案的吗？](https://www.v2ex.com/t/680088)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1088,11 +1088,11 @@
 </summary>
 
 
-- [2020-06-09-译-涨见识了，在终端执行-Python-代码的-6-种方式](https://toutiao.io/k/xhrbo8k) ![](assets/new.png)  
-- [2020-06-09-译-iOS-架构谈：剖析-Uber-的-RIB-架构](https://toutiao.io/k/f5aikb7) ![](assets/new.png)  
-- [2020-06-09-Hot-Reload-究竟是怎么实现的？](https://toutiao.io/k/7rqi5mi) ![](assets/new.png)  
-- [2020-06-09-Java-一个-int-值，只能表示一个数值吗？](https://toutiao.io/k/r3qiue9) ![](assets/new.png)  
-- [2020-06-09-MapboxGL-简析（二）：变换](https://toutiao.io/k/imuddxi) ![](assets/new.png)  
+- [2020-06-09-译-涨见识了，在终端执行-Python-代码的-6-种方式](https://toutiao.io/k/xhrbo8k)  
+- [2020-06-09-译-iOS-架构谈：剖析-Uber-的-RIB-架构](https://toutiao.io/k/f5aikb7)  
+- [2020-06-09-Hot-Reload-究竟是怎么实现的？](https://toutiao.io/k/7rqi5mi)  
+- [2020-06-09-Java-一个-int-值，只能表示一个数值吗？](https://toutiao.io/k/r3qiue9)  
+- [2020-06-09-MapboxGL-简析（二）：变换](https://toutiao.io/k/imuddxi)  
 - [2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz)  
 - [2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0)  
 - [2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup)  

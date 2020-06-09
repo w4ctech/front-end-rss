@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1) 
 - [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534) 
 - [2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html) 
 - [2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 16:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1) ![](assets/new.png)  
 - [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1)  
 - [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534)  
 - [2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html)  
@@ -113,7 +114,6 @@
 - [2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1)  
 - [2020-06-08-世卫组织：全球新冠肺炎确诊病例超过691万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1)  
 - [2020-06-08-中国赴孟加拉国抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1)  
-- [2020-06-08-牡丹江核酸检测排查-7天检测超65万人检出19例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEyBlbPaFExB7At7wbNN5200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -406,11 +406,11 @@
 </summary>
 
 
-- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) ![](assets/new.png)  
-- [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6) ![](assets/new.png)  
-- [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b) ![](assets/new.png)  
-- [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963) ![](assets/new.png)  
-- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) ![](assets/new.png)  
+- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f)  
+- [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6)  
+- [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)  
+- [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963)  
+- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46)  
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c)  
 - [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145)  
 - [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677)  
@@ -701,8 +701,8 @@
 </summary>
 
 
-- [2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/)  
+- [2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/)  
 - [2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)  
 - [2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)  
 - [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)  

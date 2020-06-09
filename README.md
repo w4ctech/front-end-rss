@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 03:30:20，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 05:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -901,6 +901,11 @@
 </summary>
 
 
+- [2020-06-09-想要试试Electron-，不如看看这篇爬坑总结](https://juejin.im/post/5ede23c6e51d45783f11023d) ![](assets/new.png)  
+- [2020-06-09-关于浏览器的Cookie与Storage的细枝末节](https://juejin.im/post/5edf8941e51d45786672c36e) ![](assets/new.png)  
+- [2020-06-09-小白分享：基于vue-cli从零搭建一个Vue项目-Vcharts](https://juejin.im/post/5edf93646fb9a047ee4c5b4b) ![](assets/new.png)  
+- [2020-06-09-React-测试-+-Vue-测试-+-小程序测试](https://juejin.im/post/5edf887b51882542ee694d29) ![](assets/new.png)  
+- [2020-06-09-20个你值得了解的Angular开源项目](https://juejin.im/post/5edf916a6fb9a047e6080dd9) ![](assets/new.png)  
 - [2020-06-09-VUE-cli跨域-proxyTable](https://juejin.im/post/5ed7363451882543116e2f25)  
 - [2020-06-09-当后端一次性丢给你10万条数据,-作为前端工程师的你,要怎么处理?](https://juejin.im/post/5edf34c4f265da76e609ed00)  
 - [2020-06-09-前端架构-101（四）：MVC的不足与Flux的崛起](https://juejin.im/post/5edf814451882543485774d6)  
@@ -916,11 +921,6 @@
 - [2020-06-08-译使用-JavaScript-实现一个高效的-LRU-cache](https://juejin.im/post/5ede0b105188254308131319)  
 - [2020-06-08-跟着大佬学习vue的diff算法](https://juejin.im/post/5edcc4ebe51d4578724e442d)  
 - [2020-06-08-单个-Unicode-字符的-js-匹配规则](https://juejin.im/post/5edde196f265da76e81a41c1)  
-- [2020-06-08-前端错误监控sdk初步实践](https://juejin.im/post/5ede26aae51d45789e0d9bde)  
-- [2020-06-08-Serverless-在大规模数据处理的实践](https://juejin.im/post/5eddc6a96fb9a047dc2ccea8)  
-- [2020-06-08-转行学前端的第-60-天-:-了解-BOM-navigator-对象相关](https://juejin.im/post/5edcf519518825431f7c6e07)  
-- [2020-06-08-体验微前端（qiankun）](https://juejin.im/post/5ed70bf35188254348576b4e)  
-- [2020-06-08-看到赚到！重读vue2.0风格指南，我整理了这些关键规则](https://juejin.im/post/5edafece51882542e3023545)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,26 +1026,26 @@
 </summary>
 
 
-- [2020-06-10-老哥们，迫于马桶频繁堵塞，请教下有没有技巧可以传授下](https://www.v2ex.com/t/680201) ![](assets/new.png)  
-- [2020-06-10-广州招聘-Web-全栈-20K-40K](https://www.v2ex.com/t/680199) ![](assets/new.png)  
-- [2020-06-10-关于上海电信访问外网速度退订问题，以后决定再也不用电信的东西。](https://www.v2ex.com/t/680198) ![](assets/new.png)  
-- [2020-06-10-i7-8700-核显能带的动-4k-显示器吗](https://www.v2ex.com/t/680197) ![](assets/new.png)  
-- [2020-06-10-记一次使用共享单车的糟糕体验，讨论一下从业务流程上如何避免此类事故的发生](https://www.v2ex.com/t/680196) ![](assets/new.png)  
-- [2020-06-10-Shopee新加坡-直招计算平台,流量调度平台,DevOps-平台开发和-SRE](https://www.v2ex.com/t/680195) ![](assets/new.png)  
-- [2020-06-10-腾讯视频好价-89-一年](https://www.v2ex.com/t/680194) ![](assets/new.png)  
-- [2020-06-10-被人拉黑了之后怎么继续关注他？](https://www.v2ex.com/t/680193) ![](assets/new.png)  
-- [2020-06-10-618-打算配置一台-PC，希望大家给点建议。（可以降低成本的那种）](https://www.v2ex.com/t/680192) ![](assets/new.png)  
-- [2020-06-10-写前端搞的有点精神分裂](https://www.v2ex.com/t/680191) ![](assets/new.png)  
-- [2020-06-10-Grit:-The-power-of-passion-and-perseverance-毅力：热情和坚持的力量](https://www.v2ex.com/t/680190) ![](assets/new.png)  
-- [2020-06-10-Fluent-UI-是我用过的最难受的-React-库，没有之一！](https://www.v2ex.com/t/680185) ![](assets/new.png)  
-- [2020-06-09-为啥-AQS-的-CondtionObject-的-firstWaiter-不需要是-volatile-的？](https://www.v2ex.com/t/680184) ![](assets/new.png)  
-- [2020-06-09-新开一个线程启动-websocket-服务端](https://www.v2ex.com/t/680183) ![](assets/new.png)  
-- [2020-06-09-个人博客分享（Laravel-+-Bootstrap-+-Vue-+-Docker）](https://www.v2ex.com/t/680182) ![](assets/new.png)  
-- [2020-06-09-不迫，收台-6sp，内存成色无要求，越便宜越-hao](https://www.v2ex.com/t/680181) ![](assets/new.png)  
-- [2020-06-09-再打扰下大家，寻找合伙人/投资人](https://www.v2ex.com/t/680180) ![](assets/new.png)  
-- [2020-06-09-什么是计算机呢？](https://www.v2ex.com/t/680179) ![](assets/new.png)  
-- [2020-06-09-求助大佬们一个路径规划的问题](https://www.v2ex.com/t/680178) ![](assets/new.png)  
-- [2020-06-09-据说印象笔记恶意抢注了-Notion-这个商标？如果是真的，那就过于恶心了吧……](https://www.v2ex.com/t/680176) ![](assets/new.png)  
+- [2020-06-10-老哥们，迫于马桶频繁堵塞，请教下有没有技巧可以传授下](https://www.v2ex.com/t/680201)  
+- [2020-06-10-广州招聘-Web-全栈-20K-40K](https://www.v2ex.com/t/680199)  
+- [2020-06-10-关于上海电信访问外网速度退订问题，以后决定再也不用电信的东西。](https://www.v2ex.com/t/680198)  
+- [2020-06-10-i7-8700-核显能带的动-4k-显示器吗](https://www.v2ex.com/t/680197)  
+- [2020-06-10-记一次使用共享单车的糟糕体验，讨论一下从业务流程上如何避免此类事故的发生](https://www.v2ex.com/t/680196)  
+- [2020-06-10-Shopee新加坡-直招计算平台,流量调度平台,DevOps-平台开发和-SRE](https://www.v2ex.com/t/680195)  
+- [2020-06-10-腾讯视频好价-89-一年](https://www.v2ex.com/t/680194)  
+- [2020-06-10-被人拉黑了之后怎么继续关注他？](https://www.v2ex.com/t/680193)  
+- [2020-06-10-618-打算配置一台-PC，希望大家给点建议。（可以降低成本的那种）](https://www.v2ex.com/t/680192)  
+- [2020-06-10-写前端搞的有点精神分裂](https://www.v2ex.com/t/680191)  
+- [2020-06-10-Grit:-The-power-of-passion-and-perseverance-毅力：热情和坚持的力量](https://www.v2ex.com/t/680190)  
+- [2020-06-10-Fluent-UI-是我用过的最难受的-React-库，没有之一！](https://www.v2ex.com/t/680185)  
+- [2020-06-09-为啥-AQS-的-CondtionObject-的-firstWaiter-不需要是-volatile-的？](https://www.v2ex.com/t/680184)  
+- [2020-06-09-新开一个线程启动-websocket-服务端](https://www.v2ex.com/t/680183)  
+- [2020-06-09-个人博客分享（Laravel-+-Bootstrap-+-Vue-+-Docker）](https://www.v2ex.com/t/680182)  
+- [2020-06-09-不迫，收台-6sp，内存成色无要求，越便宜越-hao](https://www.v2ex.com/t/680181)  
+- [2020-06-09-再打扰下大家，寻找合伙人/投资人](https://www.v2ex.com/t/680180)  
+- [2020-06-09-什么是计算机呢？](https://www.v2ex.com/t/680179)  
+- [2020-06-09-求助大佬们一个路径规划的问题](https://www.v2ex.com/t/680178)  
+- [2020-06-09-据说印象笔记恶意抢注了-Notion-这个商标？如果是真的，那就过于恶心了吧……](https://www.v2ex.com/t/680176)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 03:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-10 05:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -57,6 +57,7 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
+- [2020-06-09-小白分享：基于vue-cli从零搭建一个Vue项目-Vcharts](https://juejin.im/post/5edf93646fb9a047ee4c5b4b) 
 - [2020-06-09-VUE-cli跨域-proxyTable](https://juejin.im/post/5ed7363451882543116e2f25) 
 - [2020-06-09-Vue的MVVM实现原理](https://juejin.im/post/5edefb32518825431373704c) 
 - [2020-06-08-10+个很酷的Vue.js组件，模板和demo示例](https://juejin.im/post/5ede493a6fb9a047aa660181) 

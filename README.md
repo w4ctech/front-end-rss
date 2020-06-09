@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 22:30:20，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 23:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-中国驻纽约总领馆：再次提醒中国公民注意美国出入境限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-非洲新冠肺炎确诊病例逼近-20-万，确诊病例以南非最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-美-22-州确诊病例数大幅反弹，佛罗里达州新增病例增幅达-46%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-世卫组织：全球新冠肺炎确诊病例超过-700-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1) ![](assets/new.png)  
 - [2020-06-09-北京昌平：养老机构落实防控措施有序开放探视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1)  
 - [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1)  
 - [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
 - [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
 - [2020-06-08-世卫组织总干事：全球新冠肺炎确诊病例近700万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1)  
-- [2020-06-08-武汉市300名无症状感染者的病毒培养结果全为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1)  
-- [2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1)  
-- [2020-06-08-英国新增新冠肺炎确诊病例1205例-累计确诊287399例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihXXSq7fnHKTWwyVrfgMq200608&isfromapp=1)  
-- [2020-06-08-湖北高校毕业生今起分批返校，「防疫」和「就业“是两大重点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1)  
-- [2020-06-08-世卫组织：全球新冠肺炎确诊病例超过691万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1026,26 +1026,26 @@
 </summary>
 
 
-- [2020-06-09-网页版（PC-上）高德地图是怎么通过浏览器（Chrome）实现定位的？](https://www.v2ex.com/t/680156) ![](assets/new.png)  
-- [2020-06-09-618-求推荐机械键盘](https://www.v2ex.com/t/680155) ![](assets/new.png)  
-- [2020-06-09-speedtest.net-测速网站上没有北京移动和北京电信的测速节点了？](https://www.v2ex.com/t/680154) ![](assets/new.png)  
-- [2020-06-09-好几年都没有看到计算棒了](https://www.v2ex.com/t/680153) ![](assets/new.png)  
-- [2020-06-09-求问各位-v-友，-Java-目前的工作岗位哪个方向工资高一点呀。比如-web-后端开发等，想选一个方向来学习。](https://www.v2ex.com/t/680152) ![](assets/new.png)  
-- [2020-06-09-实习三个月，越来越对生活和未来失望。](https://www.v2ex.com/t/680151) ![](assets/new.png)  
-- [2020-06-09-大家是不是都不写单元测试？](https://www.v2ex.com/t/680150) ![](assets/new.png)  
-- [2020-06-09-关于-iOS-杀后台问题。为什么-4G-ram-杀后台情况明显比-3G-ram-小？](https://www.v2ex.com/t/680149) ![](assets/new.png)  
-- [2020-06-09-数据库设计方案咨询](https://www.v2ex.com/t/680147) ![](assets/new.png)  
-- [2020-06-09-不懂就要问，远程-gdb-调试-C++的时候，-Xshell-刷新问题。](https://www.v2ex.com/t/680144) ![](assets/new.png)  
-- [2020-06-09-我们应该追求钱还是追求问题？](https://www.v2ex.com/t/680143) ![](assets/new.png)  
-- [2020-06-09-一种特别的居住方式，大家看看造价如何](https://www.v2ex.com/t/680142) ![](assets/new.png)  
-- [2020-06-09-你心目中-IKEA-产品-TOP3-？](https://www.v2ex.com/t/680141) ![](assets/new.png)  
-- [2020-06-09-大家实际工作中是不是都不写单元测试？](https://www.v2ex.com/t/680140) ![](assets/new.png)  
-- [2020-06-09-你们周末无聊都会去哪--逛/一个人待？](https://www.v2ex.com/t/680138) ![](assets/new.png)  
-- [2020-06-09-Google-Android-系统的相机照片目录-DCIM-下为何会产生如此之大的缓存文件呢？](https://www.v2ex.com/t/680137) ![](assets/new.png)  
-- [2020-06-09-摄影小白，求推荐一个-1-万-3-以下的套机](https://www.v2ex.com/t/680136) ![](assets/new.png)  
-- [2020-06-09-8-层嵌套，-400-多行代码的函数。。。](https://www.v2ex.com/t/680135) ![](assets/new.png)  
-- [2020-06-09-再谈外包](https://www.v2ex.com/t/680134) ![](assets/new.png)  
-- [2020-06-09-求教一個-chrome-筆記本使用的問題，可能比較弱智，求解答。。](https://www.v2ex.com/t/680133) ![](assets/new.png)  
+- [2020-06-09-网页版（PC-上）高德地图是怎么通过浏览器（Chrome）实现定位的？](https://www.v2ex.com/t/680156)  
+- [2020-06-09-618-求推荐机械键盘](https://www.v2ex.com/t/680155)  
+- [2020-06-09-speedtest.net-测速网站上没有北京移动和北京电信的测速节点了？](https://www.v2ex.com/t/680154)  
+- [2020-06-09-好几年都没有看到计算棒了](https://www.v2ex.com/t/680153)  
+- [2020-06-09-求问各位-v-友，-Java-目前的工作岗位哪个方向工资高一点呀。比如-web-后端开发等，想选一个方向来学习。](https://www.v2ex.com/t/680152)  
+- [2020-06-09-实习三个月，越来越对生活和未来失望。](https://www.v2ex.com/t/680151)  
+- [2020-06-09-大家是不是都不写单元测试？](https://www.v2ex.com/t/680150)  
+- [2020-06-09-关于-iOS-杀后台问题。为什么-4G-ram-杀后台情况明显比-3G-ram-小？](https://www.v2ex.com/t/680149)  
+- [2020-06-09-数据库设计方案咨询](https://www.v2ex.com/t/680147)  
+- [2020-06-09-不懂就要问，远程-gdb-调试-C++的时候，-Xshell-刷新问题。](https://www.v2ex.com/t/680144)  
+- [2020-06-09-我们应该追求钱还是追求问题？](https://www.v2ex.com/t/680143)  
+- [2020-06-09-一种特别的居住方式，大家看看造价如何](https://www.v2ex.com/t/680142)  
+- [2020-06-09-你心目中-IKEA-产品-TOP3-？](https://www.v2ex.com/t/680141)  
+- [2020-06-09-大家实际工作中是不是都不写单元测试？](https://www.v2ex.com/t/680140)  
+- [2020-06-09-你们周末无聊都会去哪--逛/一个人待？](https://www.v2ex.com/t/680138)  
+- [2020-06-09-Google-Android-系统的相机照片目录-DCIM-下为何会产生如此之大的缓存文件呢？](https://www.v2ex.com/t/680137)  
+- [2020-06-09-摄影小白，求推荐一个-1-万-3-以下的套机](https://www.v2ex.com/t/680136)  
+- [2020-06-09-8-层嵌套，-400-多行代码的函数。。。](https://www.v2ex.com/t/680135)  
+- [2020-06-09-再谈外包](https://www.v2ex.com/t/680134)  
+- [2020-06-09-求教一個-chrome-筆記本使用的問題，可能比較弱智，求解答。。](https://www.v2ex.com/t/680133)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

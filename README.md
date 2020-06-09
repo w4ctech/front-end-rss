@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 11:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 11:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -22,7 +22,7 @@
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -250,6 +250,9 @@
 </summary>
 
 
+- [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93) ![](assets/new.png)  
+- [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb) ![](assets/new.png)  
+- [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2) ![](assets/new.png)  
 - [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117)  
 - [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c)  
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)  
@@ -267,9 +270,6 @@
 - [2020-05-27-前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465)  
 - [2020-05-27-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5)  
 - [2020-05-26-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74)  
-- [2020-05-26-面向对象：带点文艺的理工女，寻找真诚上进的你](https://www.ershicimi.com/p/a99c242ab5083719dbd0afed684885d0)  
-- [2020-05-25-如何快速掌握前端三大件源码](https://www.ershicimi.com/p/eb9c53b67264e6009ce4b0329e663871)  
-- [2020-05-25-JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -523,7 +523,7 @@
 </summary>
 
 
-- [2020-06-09-5分钟教你使用console.log发布公司的招聘信息](https://www.ershicimi.com/p/f607f701c77fc2809d474ac097cd02c6) ![](assets/new.png)  
+- [2020-06-09-5分钟教你使用console.log发布公司的招聘信息](https://www.ershicimi.com/p/f607f701c77fc2809d474ac097cd02c6)  
 - [2020-06-08-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459)  
 - [2020-06-08-如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df)  
 - [2020-06-07-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/3fd6c138e6f35a6710846713a4bf147c)  
@@ -1087,26 +1087,26 @@
 </summary>
 
 
+- [2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz) ![](assets/new.png)  
+- [2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0) ![](assets/new.png)  
+- [2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup) ![](assets/new.png)  
+- [2020-06-09-IDEA-插件推荐：让你写出好代码的神器](https://toutiao.io/k/xa8ozx9) ![](assets/new.png)  
+- [2020-06-09-译-25-个提升开发幸福感的-VSCode-扩展](https://toutiao.io/k/6xlhabo) ![](assets/new.png)  
+- [2020-06-09-程序员可迁移技能的培养](https://toutiao.io/k/mfkt1xo) ![](assets/new.png)  
+- [2020-06-09-DevOps-实施的五个关键点](https://toutiao.io/k/t09603v) ![](assets/new.png)  
+- [2020-06-09-《寒雁周刊》第-1-期](https://toutiao.io/k/uey347y) ![](assets/new.png)  
+- [2020-06-09-Android-避坑指南，发现了一个极度不安全的操作](https://toutiao.io/k/2teequt) ![](assets/new.png)  
+- [2020-06-09-Lin-UI：一套设计精良的微信小程序组件库](https://toutiao.io/k/48bjki8) ![](assets/new.png)  
+- [2020-06-09-译-BeyondProd：Google-云原生安全模型-2019](https://toutiao.io/k/ojg769q) ![](assets/new.png)  
+- [2020-06-09-没了-IDE，你的-Java-项目还能-Run-起来吗？](https://toutiao.io/k/vhyy5cb) ![](assets/new.png)  
+- [2020-06-09-使用-Akka-Actor-来替换-Java-的-Synchronized-同步代码](https://toutiao.io/k/7c34iw0) ![](assets/new.png)  
+- [2020-06-09-Linux-内核系列简析进程生命周期：从生到死的这一生（二）](https://toutiao.io/k/bhk4xtd) ![](assets/new.png)  
+- [2020-06-09-银行需要分布式数据库吗？](https://toutiao.io/k/evkj5pt) ![](assets/new.png)  
+- [2020-06-09-值得你拥有的新一代分布式调度与计算框架：OhMyScheduler](https://toutiao.io/k/p48y9ey) ![](assets/new.png)  
+- [2020-06-09-CMake-系列（二）：第三方依赖管理](https://toutiao.io/k/8jp5spi) ![](assets/new.png)  
 - [2020-06-08-LeetCode-232：用栈实现队列](https://toutiao.io/k/pnm00da)  
 - [2020-06-08-开源：分布式-ID-生成器](https://toutiao.io/k/ydz3exe)  
 - [2020-06-08-花了快-2-个月！自己动手写了一个简单的-RPC-框架](https://toutiao.io/k/a4epezu)  
-- [2020-06-08-进大厂要做哪些准备（文末附京东、美团、滴滴等新鲜面试真题）](https://toutiao.io/k/6n4l4us)  
-- [2020-06-08-浅谈设计模式系列之单例模式](https://toutiao.io/k/opcyr30)  
-- [2020-06-08-图书：Go-语法树入门](https://toutiao.io/k/2e64lq9)  
-- [2020-06-08-微服务-API-网关-Kong-实践](https://toutiao.io/k/cqb12y3)  
-- [2020-06-08-给你-5-分钟白漂：我的常用在线工具网站](https://toutiao.io/k/5z3osw9)  
-- [2020-06-08-聊聊对领域模型的思考](https://toutiao.io/k/fkgg3be)  
-- [2020-06-08-如何阅读一份源代码？（2020-年版）](https://toutiao.io/k/4qhid3b)  
-- [2020-06-08-美团-MySQL-数据库巡检系统的设计与应用](https://toutiao.io/k/27agf9h)  
-- [2020-06-08-基于-Vue-SSR-的微前端、微服务、轻量级的解决方案](https://toutiao.io/k/0nfldu0)  
-- [2020-06-08-Kubernetes-中-HostPath-的风险和防范](https://toutiao.io/k/kdpltjc)  
-- [2020-06-08-用-Python-制作一个艺术签名小工具，给自己设计一个优雅的签名](https://toutiao.io/k/9eejsym)  
-- [2020-06-08-纯-CSS3-实现打字/输入的效果](https://toutiao.io/k/olq343f)  
-- [2020-06-08-前端架构-101：在谈论它们之前我们需要达成的共识](https://toutiao.io/k/wghmn9z)  
-- [2020-06-08-如何把设计问题转化为数学问题（方法论）](https://toutiao.io/k/qyvfz81)  
-- [2020-06-08-中国程序员如何升职加薪，也许我们该学学印度人](https://toutiao.io/k/4tp92hb)  
-- [2020-06-08-Java-基础（七）：常量、变量和数据类型](https://toutiao.io/k/xf775iv)  
-- [2020-06-08-在以太坊生成随机数的几种方式（含代码）](https://toutiao.io/k/dvrf2ci)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

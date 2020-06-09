@@ -6674,6 +6674,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "同样是 3 年经验，为什么有的人就是资深开发？",
+        "link": "https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "前端常用 60 余种工具方法",
+        "link": "https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb",
+        "date": "2020-06-08"
+      },
+      {
+        "title": "通俗易懂的 TypeScript 入门教程",
+        "link": "https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2",
+        "date": "2020-06-07"
+      },
+      {
         "title": "前端开发进阶手册",
         "link": "https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117",
         "date": "2020-06-05"
@@ -21849,6 +21864,91 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "WebRTC + MongoDB + Vue + Docker：全栈用开源项目，实现一个 Slack",
+        "link": "https://toutiao.io/k/rmh9pcz",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "如何拿到阿里 P8 Offer：候选人视角谈面试",
+        "link": "https://toutiao.io/k/nkrp3e0",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "推荐 4 个基于 Java 语言的开源 Leetcode 题解！算法面试不愁了",
+        "link": "https://toutiao.io/k/vrqppup",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "IDEA 插件推荐：让你写出好代码的神器",
+        "link": "https://toutiao.io/k/xa8ozx9",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "[译] 25 个提升开发幸福感的 VSCode 扩展",
+        "link": "https://toutiao.io/k/6xlhabo",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "程序员可迁移技能的培养",
+        "link": "https://toutiao.io/k/mfkt1xo",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "DevOps 实施的五个关键点",
+        "link": "https://toutiao.io/k/t09603v",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "《寒雁周刊》第 1 期",
+        "link": "https://toutiao.io/k/uey347y",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "Android 避坑指南，发现了一个极度不安全的操作",
+        "link": "https://toutiao.io/k/2teequt",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "Lin UI：一套设计精良的微信小程序组件库",
+        "link": "https://toutiao.io/k/48bjki8",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "[译] BeyondProd：Google 云原生安全模型 (2019)",
+        "link": "https://toutiao.io/k/ojg769q",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "没了 IDE，你的 Java 项目还能 Run 起来吗？",
+        "link": "https://toutiao.io/k/vhyy5cb",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "使用 Akka Actor 来替换 Java 的 Synchronized 同步代码",
+        "link": "https://toutiao.io/k/7c34iw0",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "Linux 内核系列简析进程生命周期：从生到死的这一生（二）",
+        "link": "https://toutiao.io/k/bhk4xtd",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "银行需要分布式数据库吗？",
+        "link": "https://toutiao.io/k/evkj5pt",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "值得你拥有的新一代分布式调度与计算框架：OhMyScheduler",
+        "link": "https://toutiao.io/k/p48y9ey",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "CMake 系列（二）：第三方依赖管理",
+        "link": "https://toutiao.io/k/8jp5spi",
+        "date": "2020-06-09"
+      },
       {
         "title": "LeetCode (232)：用栈实现队列",
         "link": "https://toutiao.io/k/pnm00da",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1009,6 +1009,8 @@
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) 
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) 
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) 
+- [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93) 
+- [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb) 
 - [2020-06-05-前端开发进阶手册](https://www.ershicimi.com/p/4d0d303bc6e3e37524446389fd7e3117) 
 - [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
 - [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20) 
@@ -3057,6 +3059,17 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-09-IDEA-插件推荐：让你写出好代码的神器](https://toutiao.io/k/xa8ozx9) 
+- [2020-06-09-译-25-个提升开发幸福感的-VSCode-扩展](https://toutiao.io/k/6xlhabo) 
+- [2020-06-09-程序员可迁移技能的培养](https://toutiao.io/k/mfkt1xo) 
+- [2020-06-09-DevOps-实施的五个关键点](https://toutiao.io/k/t09603v) 
+- [2020-06-09-《寒雁周刊》第-1-期](https://toutiao.io/k/uey347y) 
+- [2020-06-09-没了-IDE，你的-Java-项目还能-Run-起来吗？](https://toutiao.io/k/vhyy5cb) 
+- [2020-06-09-使用-Akka-Actor-来替换-Java-的-Synchronized-同步代码](https://toutiao.io/k/7c34iw0) 
+- [2020-06-09-Linux-内核系列简析进程生命周期：从生到死的这一生（二）](https://toutiao.io/k/bhk4xtd) 
+- [2020-06-09-银行需要分布式数据库吗？](https://toutiao.io/k/evkj5pt) 
+- [2020-06-09-值得你拥有的新一代分布式调度与计算框架：OhMyScheduler](https://toutiao.io/k/p48y9ey) 
+- [2020-06-09-CMake-系列（二）：第三方依赖管理](https://toutiao.io/k/8jp5spi) 
 - [2020-06-08-LeetCode-232：用栈实现队列](https://toutiao.io/k/pnm00da) 
 - [2020-06-08-开源：分布式-ID-生成器](https://toutiao.io/k/ydz3exe) 
 - [2020-06-08-花了快-2-个月！自己动手写了一个简单的-RPC-框架](https://toutiao.io/k/a4epezu) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 09:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 10:30:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499) ![](assets/new.png)  
+- [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499)  
 - [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1)  
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
 - [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1)  
@@ -1025,26 +1025,26 @@
 </summary>
 
 
-- [2020-06-08-offershow-被玩坏了](https://www.v2ex.com/t/679577)  
-- [2020-06-08-家里的花生油店，想在朋友圈卖卖油，可行吗？](https://www.v2ex.com/t/679576)  
-- [2020-06-08-如果有其他高级语言的开发经验（c#,-Java-），再去学-c++开发，那么要注意什么关键地方？](https://www.v2ex.com/t/679574)  
-- [2020-06-08-Android-InterfaceLoader-新库发布，欢迎点赞拍砖](https://www.v2ex.com/t/679573)  
-- [2020-06-08-年终奖比同期同事少得多，可与找老板问问原因吗？](https://www.v2ex.com/t/679572)  
-- [2020-06-08-利用-mitmproxy-实现抖音-Cookie，设备-ID-获取一](https://www.v2ex.com/t/679571)  
-- [2020-06-08-北京-诚招私域流量社交平台增长运营-月薪-30k—60k](https://www.v2ex.com/t/679570)  
-- [2020-06-08-杭州-内推-&-急招-蚂蚁金服旗下世界领先的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空间大，大量-HC](https://www.v2ex.com/t/679569)  
-- [2020-06-08-Beego-再出发](https://www.v2ex.com/t/679567)  
-- [2020-06-08-iPhone-存储空间一直被“其他”占满，备份恢复后可破](https://www.v2ex.com/t/679565)  
-- [2020-06-08-分享下你们正在使用的输入法皮肤？](https://www.v2ex.com/t/679564)  
-- [2020-06-08-百度翻译一接入-CarPlay-就强行启动](https://www.v2ex.com/t/679563)  
-- [2020-06-08-难道涨工资真的只有换工作一条路？](https://www.v2ex.com/t/679562)  
-- [2020-06-08-请问国内公司有用-GCP-或者-gsuite-的吗？](https://www.v2ex.com/t/679561)  
-- [2020-06-08-Office-365-家庭版拼车，-45-一位](https://www.v2ex.com/t/679559)  
-- [2020-06-08-我怎么感觉人体工学椅还没沙发坐得舒服，有没有真正的人体工学椅？](https://www.v2ex.com/t/679557)  
-- [2020-06-08-2020-年了为什么-Twitter-还限制-140-字？](https://www.v2ex.com/t/679556)  
-- [2020-06-08-各位对于港股打新怎么看?有参与过吗?](https://www.v2ex.com/t/679555)  
-- [2020-06-08-大家好，我们做了一个「稍后阅读」iOS-app，可以把网页永久存在你的-iOS-设备（和-iCloud）上，现在邀请大家来内测～](https://www.v2ex.com/t/679554)  
-- [2020-06-08-你值得拥有的新一代分布式调度与计算框架：-OhMyScheduler](https://www.v2ex.com/t/679553)  
+- [2020-06-09-新手请教-composer-2-个项目依赖怎么合并?](https://www.v2ex.com/t/679904) ![](assets/new.png)  
+- [2020-06-09-windows-1903-累计更新-01-一直更新失败有人遇到或解决了吗？](https://www.v2ex.com/t/679903) ![](assets/new.png)  
+- [2020-06-09-react-native-easy-app-开源库分享](https://www.v2ex.com/t/679902) ![](assets/new.png)  
+- [2020-06-09-需要开发一个管理系统，涉及业务流程、权限、统计图表、业务大屏及小程序端的业务审批，有兴趣的大拿可以和我联系：）-我的-V-信：-flywa66](https://www.v2ex.com/t/679901) ![](assets/new.png)  
+- [2020-06-09-外卖红包群，迫于每天找红包比较麻烦，欢迎经常点外卖的-V-友进群](https://www.v2ex.com/t/679900) ![](assets/new.png)  
+- [2020-06-09-有什么低成本的人体感应开关方案可以控制风扇的开关？](https://www.v2ex.com/t/679899) ![](assets/new.png)  
+- [2020-06-09-求推荐摄像头控制软件](https://www.v2ex.com/t/679898) ![](assets/new.png)  
+- [2020-06-09-开发能在多大程度上帮助运维减轻半夜被叫起的负担？](https://www.v2ex.com/t/679896) ![](assets/new.png)  
+- [2020-06-09-有没有同时发布-微博-和-twitter-的工具？](https://www.v2ex.com/t/679895) ![](assets/new.png)  
+- [2020-06-09-P6+/P7/P8，上海，-Java-/大数据，蚂蚁金服](https://www.v2ex.com/t/679894) ![](assets/new.png)  
+- [2020-06-09-springboot-也改用-gradle-了](https://www.v2ex.com/t/679893) ![](assets/new.png)  
+- [2020-06-09-求助-通过商品名称或者商品品类-查询到-对应的发票大类名称？](https://www.v2ex.com/t/679892) ![](assets/new.png)  
+- [2020-06-09-广州/杭州/上海网易内推网易长期可以社招内推，想换工作的大佬看过来😏](https://www.v2ex.com/t/679891) ![](assets/new.png)  
+- [2020-06-09-new-FileOutputStreamfile;文件已存的话会导致在-Tomcat-闪退，是啥原因啊？](https://www.v2ex.com/t/679890) ![](assets/new.png)  
+- [2020-06-09-iphone6s-手机蓝牙一直转圈打不开](https://www.v2ex.com/t/679889) ![](assets/new.png)  
+- [2020-06-09-vscode-output-channel-里面-path-如何可以点击呢](https://www.v2ex.com/t/679887) ![](assets/new.png)  
+- [2020-06-09-骑单车撑伞被罚-50](https://www.v2ex.com/t/679885) ![](assets/new.png)  
+- [2020-06-09-wordpress-如何实现文章图片内容自动分页？](https://www.v2ex.com/t/679884) ![](assets/new.png)  
+- [2020-06-09-比考公务员难多了](https://www.v2ex.com/t/679883) ![](assets/new.png)  
+- [2020-06-09-历时半年多，和朋友一起翻译了一本求职面试的书](https://www.v2ex.com/t/679881) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1056,16 +1056,16 @@
 </summary>
 
 
-- [2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-精选了国内外-6-个接私活的网站，供大家赚钱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13512&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmLrS6KXXrl2WRRwk5dyu3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13511&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvH2h_w6224Xn8blOPxLGPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-200页！Python学习知识手册-下载！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13510&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR1m6aDCcOI-FAXp1Iq3gUg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-有史以来最受欢迎的-25-本编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13509&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLGPRCi5_iWyzmQzWER7maw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-记一次-Python-Web-接口优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13508&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK90boT3xupEiixeQuYi2yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-去你丫的算法！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13507&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81oZTWWkBwG7OUabUFJ9Dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-有了这款-IDEA-插件，你可能只需要写-30%-的代码！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13506&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb2qmTiXzsFxYzcWOhriEsQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-09-每个程序员都必须知道的8种通用数据结构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13505&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDSQjHoK7xWmmXLk_mGg-zQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-精选了国内外-6-个接私活的网站，供大家赚钱！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13512&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmLrS6KXXrl2WRRwk5dyu3g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-程序员不应该错过的-7-大导航-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13511&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvH2h_w6224Xn8blOPxLGPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-200页！Python学习知识手册-下载！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13510&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FR1m6aDCcOI-FAXp1Iq3gUg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-有史以来最受欢迎的-25-本编程书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13509&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLGPRCi5_iWyzmQzWER7maw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-记一次-Python-Web-接口优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13508&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK90boT3xupEiixeQuYi2yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-去你丫的算法！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13507&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81oZTWWkBwG7OUabUFJ9Dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-有了这款-IDEA-插件，你可能只需要写-30%-的代码！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13506&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb2qmTiXzsFxYzcWOhriEsQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-09-每个程序员都必须知道的8种通用数据结构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13505&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDSQjHoK7xWmmXLk_mGg-zQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

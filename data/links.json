@@ -10487,6 +10487,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "VUE-cli跨域 proxyTable",
+        "link": "https://juejin.im/post/5ed7363451882543116e2f25",
+        "date": "2020-06-09"
+      },
+      {
         "title": "当后端一次性丢给你10万条数据, 作为前端工程师的你,要怎么处理?",
         "link": "https://juejin.im/post/5edf34c4f265da76e609ed00",
         "date": "2020-06-09"

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 03:30:20，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1)  
+- [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1)  
 - [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1)  
 - [2020-06-09-中国驻纽约总领馆：再次提醒中国公民注意美国出入境限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1)  
 - [2020-06-09-非洲新冠肺炎确诊病例逼近-20-万，确诊病例以南非最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1)  
@@ -1026,26 +1026,26 @@
 </summary>
 
 
-- [2020-06-09-网页版（PC-上）高德地图是怎么通过浏览器（Chrome）实现定位的？](https://www.v2ex.com/t/680156)  
-- [2020-06-09-618-求推荐机械键盘](https://www.v2ex.com/t/680155)  
-- [2020-06-09-speedtest.net-测速网站上没有北京移动和北京电信的测速节点了？](https://www.v2ex.com/t/680154)  
-- [2020-06-09-好几年都没有看到计算棒了](https://www.v2ex.com/t/680153)  
-- [2020-06-09-求问各位-v-友，-Java-目前的工作岗位哪个方向工资高一点呀。比如-web-后端开发等，想选一个方向来学习。](https://www.v2ex.com/t/680152)  
-- [2020-06-09-实习三个月，越来越对生活和未来失望。](https://www.v2ex.com/t/680151)  
-- [2020-06-09-大家是不是都不写单元测试？](https://www.v2ex.com/t/680150)  
-- [2020-06-09-关于-iOS-杀后台问题。为什么-4G-ram-杀后台情况明显比-3G-ram-小？](https://www.v2ex.com/t/680149)  
-- [2020-06-09-数据库设计方案咨询](https://www.v2ex.com/t/680147)  
-- [2020-06-09-不懂就要问，远程-gdb-调试-C++的时候，-Xshell-刷新问题。](https://www.v2ex.com/t/680144)  
-- [2020-06-09-我们应该追求钱还是追求问题？](https://www.v2ex.com/t/680143)  
-- [2020-06-09-一种特别的居住方式，大家看看造价如何](https://www.v2ex.com/t/680142)  
-- [2020-06-09-你心目中-IKEA-产品-TOP3-？](https://www.v2ex.com/t/680141)  
-- [2020-06-09-大家实际工作中是不是都不写单元测试？](https://www.v2ex.com/t/680140)  
-- [2020-06-09-你们周末无聊都会去哪--逛/一个人待？](https://www.v2ex.com/t/680138)  
-- [2020-06-09-Google-Android-系统的相机照片目录-DCIM-下为何会产生如此之大的缓存文件呢？](https://www.v2ex.com/t/680137)  
-- [2020-06-09-摄影小白，求推荐一个-1-万-3-以下的套机](https://www.v2ex.com/t/680136)  
-- [2020-06-09-8-层嵌套，-400-多行代码的函数。。。](https://www.v2ex.com/t/680135)  
-- [2020-06-09-再谈外包](https://www.v2ex.com/t/680134)  
-- [2020-06-09-求教一個-chrome-筆記本使用的問題，可能比較弱智，求解答。。](https://www.v2ex.com/t/680133)  
+- [2020-06-10-老哥们，迫于马桶频繁堵塞，请教下有没有技巧可以传授下](https://www.v2ex.com/t/680201) ![](assets/new.png)  
+- [2020-06-10-广州招聘-Web-全栈-20K-40K](https://www.v2ex.com/t/680199) ![](assets/new.png)  
+- [2020-06-10-关于上海电信访问外网速度退订问题，以后决定再也不用电信的东西。](https://www.v2ex.com/t/680198) ![](assets/new.png)  
+- [2020-06-10-i7-8700-核显能带的动-4k-显示器吗](https://www.v2ex.com/t/680197) ![](assets/new.png)  
+- [2020-06-10-记一次使用共享单车的糟糕体验，讨论一下从业务流程上如何避免此类事故的发生](https://www.v2ex.com/t/680196) ![](assets/new.png)  
+- [2020-06-10-Shopee新加坡-直招计算平台,流量调度平台,DevOps-平台开发和-SRE](https://www.v2ex.com/t/680195) ![](assets/new.png)  
+- [2020-06-10-腾讯视频好价-89-一年](https://www.v2ex.com/t/680194) ![](assets/new.png)  
+- [2020-06-10-被人拉黑了之后怎么继续关注他？](https://www.v2ex.com/t/680193) ![](assets/new.png)  
+- [2020-06-10-618-打算配置一台-PC，希望大家给点建议。（可以降低成本的那种）](https://www.v2ex.com/t/680192) ![](assets/new.png)  
+- [2020-06-10-写前端搞的有点精神分裂](https://www.v2ex.com/t/680191) ![](assets/new.png)  
+- [2020-06-10-Grit:-The-power-of-passion-and-perseverance-毅力：热情和坚持的力量](https://www.v2ex.com/t/680190) ![](assets/new.png)  
+- [2020-06-10-Fluent-UI-是我用过的最难受的-React-库，没有之一！](https://www.v2ex.com/t/680185) ![](assets/new.png)  
+- [2020-06-09-为啥-AQS-的-CondtionObject-的-firstWaiter-不需要是-volatile-的？](https://www.v2ex.com/t/680184) ![](assets/new.png)  
+- [2020-06-09-新开一个线程启动-websocket-服务端](https://www.v2ex.com/t/680183) ![](assets/new.png)  
+- [2020-06-09-个人博客分享（Laravel-+-Bootstrap-+-Vue-+-Docker）](https://www.v2ex.com/t/680182) ![](assets/new.png)  
+- [2020-06-09-不迫，收台-6sp，内存成色无要求，越便宜越-hao](https://www.v2ex.com/t/680181) ![](assets/new.png)  
+- [2020-06-09-再打扰下大家，寻找合伙人/投资人](https://www.v2ex.com/t/680180) ![](assets/new.png)  
+- [2020-06-09-什么是计算机呢？](https://www.v2ex.com/t/680179) ![](assets/new.png)  
+- [2020-06-09-求助大佬们一个路径规划的问题](https://www.v2ex.com/t/680178) ![](assets/new.png)  
+- [2020-06-09-据说印象笔记恶意抢注了-Notion-这个商标？如果是真的，那就过于恶心了吧……](https://www.v2ex.com/t/680176) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

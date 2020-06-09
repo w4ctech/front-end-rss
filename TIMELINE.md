@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -602,6 +602,10 @@
 - [【掘金前端】2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677) 
 - [【掘金前端】2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9) 
 - [【掘金前端】2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
+- [【知乎日报】2020-06-08-我听过最糟糕的育儿建议：他还是个孩子](https://www.ershicimi.com/p/53b5773763356cc1f83f3cbfd87c7ac2) 
+- [【知乎日报】2020-06-08-盘点母乳中的神奇物质，妈妈必看](https://www.ershicimi.com/p/4edfd87569b1dfb4469caf341946f0ad) 
+- [【知乎日报】2020-06-08-你知道咸蛋是什么鸡生的吗？](https://www.ershicimi.com/p/82c90215bdd0a1c0112d7008fb49e2e4) 
+- [【知乎日报】2020-06-08-知乎故事-|-你中了彩票去领奖那天发生了什么？](https://www.ershicimi.com/p/f2b352f398daaf1614596ed5b4d71ba1) 
 - [【知乎日报】2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa) 
 - [【知乎日报】2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b) 
 - [【知乎日报】2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333) 

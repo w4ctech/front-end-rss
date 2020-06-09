@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 08:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,10 +94,10 @@
 </summary>
 
 
-- [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316) ![](assets/new.png)  
-- [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
+- [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1)  
+- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
+- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
 - [2020-06-08-世卫组织总干事：全球新冠肺炎确诊病例近700万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1)  
 - [2020-06-08-武汉市300名无症状感染者的病毒培养结果全为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1)  
 - [2020-06-08-武汉至北京客运航班复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1)  
@@ -994,6 +994,10 @@
 </summary>
 
 
+- [2020-06-08-我听过最糟糕的育儿建议：他还是个孩子](https://www.ershicimi.com/p/53b5773763356cc1f83f3cbfd87c7ac2) ![](assets/new.png)  
+- [2020-06-08-盘点母乳中的神奇物质，妈妈必看](https://www.ershicimi.com/p/4edfd87569b1dfb4469caf341946f0ad) ![](assets/new.png)  
+- [2020-06-08-你知道咸蛋是什么鸡生的吗？](https://www.ershicimi.com/p/82c90215bdd0a1c0112d7008fb49e2e4) ![](assets/new.png)  
+- [2020-06-08-知乎故事-|-你中了彩票去领奖那天发生了什么？](https://www.ershicimi.com/p/f2b352f398daaf1614596ed5b4d71ba1) ![](assets/new.png)  
 - [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa)  
 - [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b)  
 - [2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333)  
@@ -1010,10 +1014,6 @@
 - [2020-06-04-地摊经济现在看起来能成立，实际吃到了-2-个红利](https://www.ershicimi.com/p/17fc20f10dbab3ee4e30951b640576ac)  
 - [2020-06-04-知乎故事-|-城管眼中的摆摊](https://www.ershicimi.com/p/85af81032ea48e8ab0bb9e974ae1d63a)  
 - [2020-06-03-知乎好问题：为什么有的人年纪轻轻却「没有上进心，只想躲在舒适区」？](https://www.ershicimi.com/p/ef61af378519d4b7cad96560386f15c8)  
-- [2020-06-03-为什么中国不推广按钮式红绿灯？](https://www.ershicimi.com/p/7287bc091d3025b70d9cd6d5bc22c261)  
-- [2020-06-03-你关注的圈子，暴露了你的生活方式](https://www.ershicimi.com/p/700bda93896b354ed6b14f2334266a73)  
-- [2020-06-03-知乎故事-|-我，和男朋友一起睡，尿床了](https://www.ershicimi.com/p/e3a3040dfbc33447c635be7a3276b0e7)  
-- [2020-06-02-还记得《庆余年》的超前点播吗？知乎用户把爱奇艺告了，赢了](https://www.ershicimi.com/p/f0eb973282b02f6213eb3b535123ae02)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

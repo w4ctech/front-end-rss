@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 13:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 13:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -45,7 +45,7 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -585,6 +585,8 @@
 </summary>
 
 
+- [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d) ![](assets/new.png)  
+- [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887) ![](assets/new.png)  
 - [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)  
 - [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45)  
 - [2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22)  
@@ -603,8 +605,6 @@
 - [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b)  
 - [2020-05-28-撸羊毛！满400减230的购书活动不要错过哦！](https://www.ershicimi.com/p/137e2df24dc8e32161ec6cbb58908e25)  
 - [2020-05-27-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/ee7f43e7530131dc8eb0d9a821d71446)  
-- [2020-05-27-推荐几个出镜率超高的大佬公众号](https://www.ershicimi.com/p/7b5d9ffb64ebacf0ada6021acbb643ab)  
-- [2020-05-26-我和大佬之间差一个JS工具函数大全..建议收藏](https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -873,7 +873,7 @@
 </summary>
 
 
-- [2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457) ![](assets/new.png)  
+- [2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457)  
 - [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90)  
 - [2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a)  
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c)  

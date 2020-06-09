@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -43,6 +43,7 @@
 - [2020-06-08-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459) 
 - [2020-06-08-Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/ec9c41c9afe715269a6bd2160ece0ad9) 
 - [2020-06-04-Vue-项目性能优化—实践指南（网上最全-/-详细）](https://www.ershicimi.com/p/8db99c8a9123501d21a565b588e8d8ec) 
+- [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887) 
 - [2020-05-31-实战Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/c3a2f68d2f817d1d5e033b718367fe2c) 
 - [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b) 
 - [2020-05-25-Vue3.0来了，看看尤大大画的重点](https://www.ershicimi.com/p/16ad94dbe0bc186cb44bedddf1d0f17f) 

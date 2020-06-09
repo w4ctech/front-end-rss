@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 13:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1117,6 +1117,7 @@
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82) 
 - [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 
 - [2020-05-23-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/2f5e766fa0bcfd8eb8510070c9cfe5b2) 
+- [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d) 
 - [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45) 
 - [2020-06-04-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/3b0d627db9b759bd473d3650cbdb432d) 
 - [2020-06-04-Web-上的多种图片技巧](https://www.ershicimi.com/p/697f0386d2aaac7f10a1a0a45fab1b11) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-09 13:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-09 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -408,6 +408,8 @@
 - [【前端瓶子君】2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [【前端瓶子君】2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
+- [【程序员成长指北】2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d) 
+- [【程序员成长指北】2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887) 
 - [【程序员成长指北】2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385) 
 - [【程序员成长指北】2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45) 
 - [【程序员成长指北】2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22) 

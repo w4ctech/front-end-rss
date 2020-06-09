@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 08:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1) ![](assets/new.png)  
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
 - [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1)  
 - [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-08-巴西累计新冠肺炎确诊病例超69万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1)  
 - [2020-06-08-新西兰连续17天无新增新冠肺炎确诊病例-现存病例已“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1)  
 - [2020-06-08-国家卫健委：昨日新增确诊病例4例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1)  
-- [2020-06-08-上海6月7日无新增本地新冠肺炎确诊病例-新增境外输入1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -994,10 +994,10 @@
 </summary>
 
 
-- [2020-06-08-我听过最糟糕的育儿建议：他还是个孩子](https://www.ershicimi.com/p/53b5773763356cc1f83f3cbfd87c7ac2) ![](assets/new.png)  
-- [2020-06-08-盘点母乳中的神奇物质，妈妈必看](https://www.ershicimi.com/p/4edfd87569b1dfb4469caf341946f0ad) ![](assets/new.png)  
-- [2020-06-08-你知道咸蛋是什么鸡生的吗？](https://www.ershicimi.com/p/82c90215bdd0a1c0112d7008fb49e2e4) ![](assets/new.png)  
-- [2020-06-08-知乎故事-|-你中了彩票去领奖那天发生了什么？](https://www.ershicimi.com/p/f2b352f398daaf1614596ed5b4d71ba1) ![](assets/new.png)  
+- [2020-06-08-我听过最糟糕的育儿建议：他还是个孩子](https://www.ershicimi.com/p/53b5773763356cc1f83f3cbfd87c7ac2)  
+- [2020-06-08-盘点母乳中的神奇物质，妈妈必看](https://www.ershicimi.com/p/4edfd87569b1dfb4469caf341946f0ad)  
+- [2020-06-08-你知道咸蛋是什么鸡生的吗？](https://www.ershicimi.com/p/82c90215bdd0a1c0112d7008fb49e2e4)  
+- [2020-06-08-知乎故事-|-你中了彩票去领奖那天发生了什么？](https://www.ershicimi.com/p/f2b352f398daaf1614596ed5b4d71ba1)  
 - [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa)  
 - [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b)  
 - [2020-06-07-如果你没空看书，我强烈建议你做这件事](https://www.ershicimi.com/p/fa6183d3032622200131b1a550856333)  

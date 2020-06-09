@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-09 23:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,13 @@
 </summary>
 
 
-- [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-中国驻纽约总领馆：再次提醒中国公民注意美国出入境限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-非洲新冠肺炎确诊病例逼近-20-万，确诊病例以南非最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-美-22-州确诊病例数大幅反弹，佛罗里达州新增病例增幅达-46%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1) ![](assets/new.png)  
-- [2020-06-09-世卫组织：全球新冠肺炎确诊病例超过-700-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1) ![](assets/new.png)  
+- [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1)  
+- [2020-06-09-中国驻纽约总领馆：再次提醒中国公民注意美国出入境限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1)  
+- [2020-06-09-非洲新冠肺炎确诊病例逼近-20-万，确诊病例以南非最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1)  
+- [2020-06-09-美-22-州确诊病例数大幅反弹，佛罗里达州新增病例增幅达-46%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1)  
+- [2020-06-09-世卫组织：全球新冠肺炎确诊病例超过-700-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1)  
 - [2020-06-09-北京昌平：养老机构落实防控措施有序开放探视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1)  
 - [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1)  
 - [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
 - [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1)  
 - [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
-- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
-- [2020-06-08-世卫组织总干事：全球新冠肺炎确诊病例近700万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

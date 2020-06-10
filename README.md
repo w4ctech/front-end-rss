@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 16:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-10-祝福毕业生！百所高校举行云毕业典礼](https://m.weibo.cn/2803301701/4514228143589311) ![](assets/new.png)  
+- [2020-06-10-以色列新冠肺炎确诊病例累计达18268例-美联航续签旧金山至特拉维夫的航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKUKLT9gCdpyQ85Gpe3If200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-印度新增新冠肺炎确诊病例9985例-累计确诊276583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qFmLjcESWTmLgyUpOIp200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-祝福毕业生！百所高校举行云毕业典礼](https://m.weibo.cn/2803301701/4514228143589311)  
 - [2020-06-10-6月12日辽宁大连幼儿园复园！参与幼儿园复园运转活动的所有教职工需进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeQ1RfKdwiTrMDfsXRK0200610&isfromapp=1)  
 - [2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1)  
 - [2020-06-10-智利新冠肺炎确诊病例累计突破14万-足协宣布将在7月底重启国内足球赛事](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-09-北京昌平：养老机构落实防控措施有序开放探视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1)  
 - [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1)  
 - [2020-06-09-​俄罗斯新冠肺炎确诊病例累计超48万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1)  
-- [2020-06-09-湖北又一地！鄂州开展核酸检测筛查](https://m.weibo.cn/2803301701/4513919836764534)  
-- [2020-06-09-上海有1例确诊病例今日出院，共计665例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html)  
-- [2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

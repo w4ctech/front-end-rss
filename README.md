@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 05:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-10-美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1) ![](assets/new.png)  
 - [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1)  
 - [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1)  
 - [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499)  
 - [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1)  
 - [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
-- [2020-06-09-世卫组织强调巴西需要确保新冠肺炎疫情数据的透明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1)  
-- [2020-06-09-两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -901,11 +901,11 @@
 </summary>
 
 
-- [2020-06-09-想要试试Electron-，不如看看这篇爬坑总结](https://juejin.im/post/5ede23c6e51d45783f11023d) ![](assets/new.png)  
-- [2020-06-09-关于浏览器的Cookie与Storage的细枝末节](https://juejin.im/post/5edf8941e51d45786672c36e) ![](assets/new.png)  
-- [2020-06-09-小白分享：基于vue-cli从零搭建一个Vue项目-Vcharts](https://juejin.im/post/5edf93646fb9a047ee4c5b4b) ![](assets/new.png)  
-- [2020-06-09-React-测试-+-Vue-测试-+-小程序测试](https://juejin.im/post/5edf887b51882542ee694d29) ![](assets/new.png)  
-- [2020-06-09-20个你值得了解的Angular开源项目](https://juejin.im/post/5edf916a6fb9a047e6080dd9) ![](assets/new.png)  
+- [2020-06-09-想要试试Electron-，不如看看这篇爬坑总结](https://juejin.im/post/5ede23c6e51d45783f11023d)  
+- [2020-06-09-关于浏览器的Cookie与Storage的细枝末节](https://juejin.im/post/5edf8941e51d45786672c36e)  
+- [2020-06-09-小白分享：基于vue-cli从零搭建一个Vue项目-Vcharts](https://juejin.im/post/5edf93646fb9a047ee4c5b4b)  
+- [2020-06-09-React-测试-+-Vue-测试-+-小程序测试](https://juejin.im/post/5edf887b51882542ee694d29)  
+- [2020-06-09-20个你值得了解的Angular开源项目](https://juejin.im/post/5edf916a6fb9a047e6080dd9)  
 - [2020-06-09-VUE-cli跨域-proxyTable](https://juejin.im/post/5ed7363451882543116e2f25)  
 - [2020-06-09-当后端一次性丢给你10万条数据,-作为前端工程师的你,要怎么处理?](https://juejin.im/post/5edf34c4f265da76e609ed00)  
 - [2020-06-09-前端架构-101（四）：MVC的不足与Flux的崛起](https://juejin.im/post/5edf814451882543485774d6)  

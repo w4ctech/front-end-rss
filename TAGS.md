@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-11 02:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-11 05:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -247,6 +247,7 @@
 - [【前端之巅】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185)
 - [【InfoQ】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249)
 - [【JavaScript】BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457)
+- [【掘金前端】Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8)
 - [【掘金前端】Flutter-中-GestureDetector-的使用误区](https://juejin.im/post/5edf1fa7f265da76c960a799)
 - [【掘金前端】Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71)
 - [【掘金前端】使用-Flutter-绘制图表（一）柱状图📊](https://juejin.im/post/5ed6195151882542eb3ee75b)

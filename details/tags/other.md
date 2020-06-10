@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-10 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-10-6月12日辽宁大连幼儿园复园！参与幼儿园复园运转活动的所有教职工需进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeQ1RfKdwiTrMDfsXRK0200610&isfromapp=1) 
 - [2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1) 
 - [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1) 
 - [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1) 
@@ -1313,6 +1314,7 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-10-初探-Quasar](https://juejin.im/post/5ee04f976fb9a047e02f0342) 
 - [2020-06-09-20个你值得了解的Angular开源项目](https://juejin.im/post/5edf916a6fb9a047e6080dd9) 
 - [2020-06-09-当后端一次性丢给你10万条数据,-作为前端工程师的你,要怎么处理?](https://juejin.im/post/5edf34c4f265da76e609ed00) 
 - [2020-06-09-前端架构-101（四）：MVC的不足与Flux的崛起](https://juejin.im/post/5edf814451882543485774d6) 

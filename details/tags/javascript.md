@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-10 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -90,6 +90,8 @@
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-10-前端也要懂物理-——-惯性滚动篇](https://juejin.im/post/5ee0514b6fb9a047a32750f8) 
+- [2020-06-10-函数防抖和节流](https://juejin.im/post/5edf2d516fb9a047cf333a5c) 
 - [2020-06-09-深入浅出javascript-（1）——-变量提升](https://juejin.im/post/5ede2b30f265da770709d776) 
 - [2020-06-09-没有比这个更详细的手写防抖函数了吧](https://juejin.im/post/5edefe326fb9a047b90dba94) 
 - [2020-06-08-译使用-JavaScript-实现一个高效的-LRU-cache](https://juejin.im/post/5ede0b105188254308131319) 

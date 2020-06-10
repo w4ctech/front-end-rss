@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 21:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 02:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,13 @@
 </summary>
 
 
-- [2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1) ![](assets/new.png)  
-- [2020-06-10-韩首都圈或面临疫情暴发风险，520所学校停课](https://m.weibo.cn/3057540037/4514338374122970) ![](assets/new.png)  
+- [2020-06-10-日本新增38例新冠肺炎确诊病例-累计确诊17306例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vwbMzVYvTUjTBlDrcX7200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-德国内政部长：将继续接收难民-15日起开放与多国边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKumsZGYovhUEzRMhCuF2200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-6月10日6时至18时-天津新增1例境外输入确诊病例](http://wsjk.tj.gov.cn/art/2020/6/10/art_87_73915.html) ![](assets/new.png)  
+- [2020-06-10-沙特新增3717例新冠肺炎确诊病例-累计确诊112288例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUcFg1ETlHjy6FvKkmoU7200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-​英国：年底前国家医疗卫生系统的等候病人人数可能多达1000万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHaPUkZAoGbyDIbUl2RjI200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1)  
+- [2020-06-10-韩首都圈或面临疫情暴发风险，520所学校停课](https://m.weibo.cn/3057540037/4514338374122970)  
 - [2020-06-10-巴基斯坦新冠肺炎疫情快速蔓延-世卫组织强烈建议实施严格封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1)  
 - [2020-06-10-以色列新冠肺炎确诊病例累计达18268例-美联航续签旧金山至特拉维夫的航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKUKLT9gCdpyQ85Gpe3If200610&isfromapp=1)  
 - [2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1)  
 - [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1)  
 - [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1)  
-- [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1)  
-- [2020-06-09-中国驻纽约总领馆：再次提醒中国公民注意美国出入境限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1)  
-- [2020-06-09-非洲新冠肺炎确诊病例逼近-20-万，确诊病例以南非最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1)  
-- [2020-06-09-美-22-州确诊病例数大幅反弹，佛罗里达州新增病例增幅达-46%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1)  
-- [2020-06-09-世卫组织：全球新冠肺炎确诊病例超过-700-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

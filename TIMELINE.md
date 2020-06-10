@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-10 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-韩首都圈或面临疫情暴发风险，520所学校停课](https://m.weibo.cn/3057540037/4514338374122970) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-巴基斯坦新冠肺炎疫情快速蔓延-世卫组织强烈建议实施严格封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-以色列新冠肺炎确诊病例累计达18268例-美联航续签旧金山至特拉维夫的航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKUKLT9gCdpyQ85Gpe3If200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1) 

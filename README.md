@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 21:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-10-巴基斯坦新冠肺炎疫情快速蔓延-世卫组织强烈建议实施严格封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-韩首都圈或面临疫情暴发风险，520所学校停课](https://m.weibo.cn/3057540037/4514338374122970) ![](assets/new.png)  
+- [2020-06-10-巴基斯坦新冠肺炎疫情快速蔓延-世卫组织强烈建议实施严格封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1)  
 - [2020-06-10-以色列新冠肺炎确诊病例累计达18268例-美联航续签旧金山至特拉维夫的航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKUKLT9gCdpyQ85Gpe3If200610&isfromapp=1)  
 - [2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1)  
 - [2020-06-10-印度新增新冠肺炎确诊病例9985例-累计确诊276583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qFmLjcESWTmLgyUpOIp200610&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-09-非洲新冠肺炎确诊病例逼近-20-万，确诊病例以南非最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1)  
 - [2020-06-09-美-22-州确诊病例数大幅反弹，佛罗里达州新增病例增幅达-46%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1)  
 - [2020-06-09-世卫组织：全球新冠肺炎确诊病例超过-700-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1)  
-- [2020-06-09-北京昌平：养老机构落实防控措施有序开放探视](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1)  
-- [2020-06-09-突尼斯已连续5日无新增确诊病例-宣布全国解除宵禁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUYpsawvtGvTTGeo0t8Xt200609&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

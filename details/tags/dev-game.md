@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-10 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) 
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [2018-01-28-H5游戏开发：FC小蜜蜂](https://aotu.io/notes/2018/01/28/galaxian/) 
 - [2018-01-17-H5游戏开发：消灭星星](https://aotu.io/notes/2018/01/17/popstar/) 

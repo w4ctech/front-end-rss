@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-10 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -451,6 +451,7 @@
 - [【Nodejs技术栈】2020-06-01-基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
+- [【阮一峰的网络日志】2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) 
 - [【阮一峰的网络日志】2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [【凹凸实验室】2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/) 
 - [【凹凸实验室】2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 

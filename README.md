@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-10-美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1) ![](assets/new.png)  
-- [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1)  
+- [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1)  
 - [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1)  
 - [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1)  
 - [2020-06-09-沙特新增-3288-例新冠肺炎确诊病例，累计确诊超-10-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1)  
@@ -665,6 +665,7 @@
 </summary>
 
 
+- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) ![](assets/new.png)  
 - [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  

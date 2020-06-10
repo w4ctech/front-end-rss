@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-10 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-祝福毕业生！百所高校举行云毕业典礼](https://m.weibo.cn/2803301701/4514228143589311) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-6月12日辽宁大连幼儿园复园！参与幼儿园复园运转活动的所有教职工需进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeQ1RfKdwiTrMDfsXRK0200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-智利新冠肺炎确诊病例累计突破14万-足协宣布将在7月底重启国内足球赛事](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1) 

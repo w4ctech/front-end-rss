@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-10 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-10 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-智利新冠肺炎确诊病例累计突破14万-足协宣布将在7月底重启国内足球赛事](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-国家卫健委：昨日新增3例新冠肺炎确诊病例-新增1例疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWTz29sLlDxTbC8RkPLr8200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1) 

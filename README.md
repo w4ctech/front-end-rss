@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-10 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-10 10:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-智利新冠肺炎确诊病例累计突破14万-足协宣布将在7月底重启国内足球赛事](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1) ![](assets/new.png)  
+- [2020-06-10-国家卫健委：昨日新增3例新冠肺炎确诊病例-新增1例疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWTz29sLlDxTbC8RkPLr8200610&isfromapp=1) ![](assets/new.png)  
 - [2020-06-10-美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1)  
 - [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1)  
 - [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-09-阿布扎比酋长国宣布延长一周人员流动禁令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1)  
 - [2020-06-09-200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1)  
 - [2020-06-09-巴西新冠肺炎累计确诊人数超70万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1)  
-- [2020-06-09-好消息！北京本地确诊清零](http://m.weibo.cn/2803301701/4513829009101499)  
-- [2020-06-09-广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1)  
-- [2020-06-09-世卫组织称全球新冠疫情正在恶化](http://m.weibo.cn/2803301701/4513796414574316)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -665,7 +665,7 @@
 </summary>
 
 
-- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) ![](assets/new.png)  
+- [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
 - [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 09:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 11:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,14 @@
 </summary>
 
 
-- [2020-06-11-联合国开发计划署：国际社会必须联合抵制虚假疫情信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1) ![](assets/new.png)  
-- [2020-06-11-秘鲁政府允许新冠疫情高风险地区建筑业复工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1) ![](assets/new.png)  
-- [2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1) ![](assets/new.png)  
-- [2020-06-11-世卫组织总干事：所有国家在疫苗研发上应采用相同的规程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1) ![](assets/new.png)  
-- [2020-06-11-全球智库抗疫合作云论坛丨与会专家：“化危为机”需全球增进国家治理经验共享](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti690WrhdKmHiOKmfY03wC200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-疫情后期逆势增长-5月我国快递业务量同比增长超四成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-微视频丨率先解禁！突尼斯发布防疫短片重启旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-联合国开发计划署：国际社会必须联合抵制虚假疫情信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1)  
+- [2020-06-11-秘鲁政府允许新冠疫情高风险地区建筑业复工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1)  
+- [2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1)  
+- [2020-06-11-世卫组织总干事：所有国家在疫苗研发上应采用相同的规程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1)  
+- [2020-06-11-全球智库抗疫合作云论坛丨与会专家：“化危为机”需全球增进国家治理经验共享](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti690WrhdKmHiOKmfY03wC200611&isfromapp=1)  
 - [2020-06-10-日本新增38例新冠肺炎确诊病例-累计确诊17306例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vwbMzVYvTUjTBlDrcX7200610&isfromapp=1)  
 - [2020-06-10-德国内政部长：将继续接收难民-15日起开放与多国边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKumsZGYovhUEzRMhCuF2200610&isfromapp=1)  
 - [2020-06-10-6月10日6时至18时-天津新增1例境外输入确诊病例](http://wsjk.tj.gov.cn/art/2020/6/10/art_87_73915.html)  
@@ -111,9 +114,6 @@
 - [2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1)  
 - [2020-06-10-印度新增新冠肺炎确诊病例9985例-累计确诊276583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qFmLjcESWTmLgyUpOIp200610&isfromapp=1)  
 - [2020-06-10-祝福毕业生！百所高校举行云毕业典礼](https://m.weibo.cn/2803301701/4514228143589311)  
-- [2020-06-10-6月12日辽宁大连幼儿园复园！参与幼儿园复园运转活动的所有教职工需进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeQ1RfKdwiTrMDfsXRK0200610&isfromapp=1)  
-- [2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1)  
-- [2020-06-10-智利新冠肺炎确诊病例累计突破14万-足协宣布将在7月底重启国内足球赛事](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

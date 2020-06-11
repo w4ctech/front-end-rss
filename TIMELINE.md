@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-11 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-11 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-11-疫情后期逆势增长-5月我国快递业务量同比增长超四成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-11-微视频丨率先解禁！突尼斯发布防疫短片重启旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-11-联合国开发计划署：国际社会必须联合抵制虚假疫情信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-11-秘鲁政府允许新冠疫情高风险地区建筑业复工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 20:30:20，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-11-北京新增确诊病例的两名密接者核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-非洲新冠肺炎确诊病例逼近21万，面临经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BKmjmmyWpgbV1wzswE2200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-世卫组织：全球新冠肺炎确诊病例超725万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinTbTeZIAd8OaJrax3Wyc200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-北京新增确诊病例的两名密接者核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1)  
 - [2020-06-11-联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息](https://m.weibo.cn/3057540037/4514656913274943)  
 - [2020-06-11-当“抗议-”遇到“抗疫#”-新冠肺炎病例迅速上升](https://m.weibo.cn/3057540037/4514647539648228)  
 - [2020-06-11-巴基斯坦新增5834例新冠肺炎确诊病例-累计确诊119536例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7hTteNj3EO9cs3XyKpXW200611&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-10-德国内政部长：将继续接收难民-15日起开放与多国边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKumsZGYovhUEzRMhCuF2200610&isfromapp=1)  
 - [2020-06-10-6月10日6时至18时-天津新增1例境外输入确诊病例](http://wsjk.tj.gov.cn/art/2020/6/10/art_87_73915.html)  
 - [2020-06-10-沙特新增3717例新冠肺炎确诊病例-累计确诊112288例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUcFg1ETlHjy6FvKkmoU7200610&isfromapp=1)  
-- [2020-06-10-​英国：年底前国家医疗卫生系统的等候病人人数可能多达1000万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHaPUkZAoGbyDIbUl2RjI200610&isfromapp=1)  
-- [2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1089,26 +1089,26 @@
 </summary>
 
 
-- [2020-06-09-译-涨见识了，在终端执行-Python-代码的-6-种方式](https://toutiao.io/k/xhrbo8k)  
-- [2020-06-09-译-iOS-架构谈：剖析-Uber-的-RIB-架构](https://toutiao.io/k/f5aikb7)  
-- [2020-06-09-Hot-Reload-究竟是怎么实现的？](https://toutiao.io/k/7rqi5mi)  
-- [2020-06-09-Java-一个-int-值，只能表示一个数值吗？](https://toutiao.io/k/r3qiue9)  
-- [2020-06-09-MapboxGL-简析（二）：变换](https://toutiao.io/k/imuddxi)  
-- [2020-06-09-WebRTC-+-MongoDB-+-Vue-+-Docker：全栈用开源项目，实现一个-Slack](https://toutiao.io/k/rmh9pcz)  
-- [2020-06-09-如何拿到阿里-P8-Offer：候选人视角谈面试](https://toutiao.io/k/nkrp3e0)  
-- [2020-06-09-推荐-4-个基于-Java-语言的开源-Leetcode-题解！算法面试不愁了](https://toutiao.io/k/vrqppup)  
-- [2020-06-09-IDEA-插件推荐：让你写出好代码的神器](https://toutiao.io/k/xa8ozx9)  
-- [2020-06-09-译-25-个提升开发幸福感的-VSCode-扩展](https://toutiao.io/k/6xlhabo)  
-- [2020-06-09-程序员可迁移技能的培养](https://toutiao.io/k/mfkt1xo)  
-- [2020-06-09-DevOps-实施的五个关键点](https://toutiao.io/k/t09603v)  
-- [2020-06-09-《寒雁周刊》第-1-期](https://toutiao.io/k/uey347y)  
-- [2020-06-09-Android-避坑指南，发现了一个极度不安全的操作](https://toutiao.io/k/2teequt)  
-- [2020-06-09-Lin-UI：一套设计精良的微信小程序组件库](https://toutiao.io/k/48bjki8)  
-- [2020-06-09-译-BeyondProd：Google-云原生安全模型-2019](https://toutiao.io/k/ojg769q)  
-- [2020-06-09-没了-IDE，你的-Java-项目还能-Run-起来吗？](https://toutiao.io/k/vhyy5cb)  
-- [2020-06-09-使用-Akka-Actor-来替换-Java-的-Synchronized-同步代码](https://toutiao.io/k/7c34iw0)  
-- [2020-06-09-Linux-内核系列简析进程生命周期：从生到死的这一生（二）](https://toutiao.io/k/bhk4xtd)  
-- [2020-06-09-银行需要分布式数据库吗？](https://toutiao.io/k/evkj5pt)  
+- [2020-06-11-应用开发的流程](https://toutiao.io/k/6xftl3z) ![](assets/new.png)  
+- [2020-06-11-摆摊吧，程序员](https://toutiao.io/k/o0ayly5) ![](assets/new.png)  
+- [2020-06-11-并发题的解题思路以及-Go-语言调度器工作原理](https://toutiao.io/k/kxe830a) ![](assets/new.png)  
+- [2020-06-11-爱奇艺网络协程编写高并发应用实践](https://toutiao.io/k/0zlqh2o) ![](assets/new.png)  
+- [2020-06-11-OPcache：提升-PHP-性能的利器](https://toutiao.io/k/nycpr5q) ![](assets/new.png)  
+- [2020-06-11-译-解密为何-Go-能从众多语言中脱颖而出](https://toutiao.io/k/krdal24) ![](assets/new.png)  
+- [2020-06-11-Shell-中傻傻分不清楚的-TOP-3](https://toutiao.io/k/efwu60j) ![](assets/new.png)  
+- [2020-06-11-Linux-权限维持与提权](https://toutiao.io/k/muptv7h) ![](assets/new.png)  
+- [2020-06-11-一键备份微博并导出生成-PDF，顺便用-Python-分析微博账号数据](https://toutiao.io/k/qgt6522) ![](assets/new.png)  
+- [2020-06-11-译-惊艳！可视化的-js：动态图演示-Promises-&-Async/Await-的过程](https://toutiao.io/k/t7o2qa3) ![](assets/new.png)  
+- [2020-06-11-通过不断地失败来避免失败，携程混沌工程实践](https://toutiao.io/k/wipb0rx) ![](assets/new.png)  
+- [2020-06-11-架构思考：业务快速增长时的容量问题](https://toutiao.io/k/ubsvprc) ![](assets/new.png)  
+- [2020-06-11-AV1、H.265-与-Janus-的爱恨情仇（一）](https://toutiao.io/k/sh4e87q) ![](assets/new.png)  
+- [2020-06-11-跨城实践中，腾讯如何应用-Apache-Pulsar](https://toutiao.io/k/tu8664a) ![](assets/new.png)  
+- [2020-06-11-用-three.js-玩转高数可视化](https://toutiao.io/k/lmd9cao) ![](assets/new.png)  
+- [2020-06-11-casrserver-分离计算内核](https://toutiao.io/k/i3w4ow7) ![](assets/new.png)  
+- [2020-06-11-实战：如何使用-JavaScript-访问设备前后摄像头](https://toutiao.io/k/62hehc9) ![](assets/new.png)  
+- [2020-06-11-InsightFace-力作：RetinaFace-单阶段人脸检测器](https://toutiao.io/k/n7kucqu) ![](assets/new.png)  
+- [2020-06-11-虚拟内存简介](https://toutiao.io/k/6hqd134) ![](assets/new.png)  
+- [2020-06-11-译-Envoy-实战：几种常见负载均衡算法的性能比较](https://toutiao.io/k/lbi2nwl) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

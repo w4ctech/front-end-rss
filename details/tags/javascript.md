@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-11 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-11 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -191,6 +191,8 @@
 - [2020-05-29-提问-声明一个成员变量，在局部方法中初始化，是否有线程安全问题？](https://www.v2ex.com/t/676763) 
 - [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573) 
 - [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552) 
+- [2020-06-11-译-惊艳！可视化的-js：动态图演示-Promises-&-Async/Await-的过程](https://toutiao.io/k/t7o2qa3) 
+- [2020-06-11-实战：如何使用-JavaScript-访问设备前后摄像头](https://toutiao.io/k/62hehc9) 
 - [2020-06-08-Java-基础（七）：常量、变量和数据类型](https://toutiao.io/k/xf775iv) 
 - [2020-06-07-译-零知识证明-circom-及-snarkjs-入门教程](https://toutiao.io/k/as4s6zx) 
 - [2020-06-06-你对-this-的理解正确吗？有趣又神奇的-this-对象](https://toutiao.io/k/z5vd5ex) 

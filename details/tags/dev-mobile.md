@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 05:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -15,6 +15,7 @@
 - [2020-06-03-Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71) 
 - [2020-06-02-使用-Flutter-绘制图表（一）柱状图📊](https://juejin.im/post/5ed6195151882542eb3ee75b) 
 - [2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4) 
+- [2020-06-11-对于-U3D-Stopwatch-ElapsedTick-的疑惑](https://www.v2ex.com/t/680811) 
 - [2020-06-03-Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425) 
 - [2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-06-Flutter-Weekly-Issue-58](https://toutiao.io/k/6ukxpmm) 

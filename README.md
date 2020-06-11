@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 00:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 05:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1) ![](assets/new.png)  
-- [2020-06-11-印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1) ![](assets/new.png)  
-- [2020-06-11-世卫组织：全球新冠肺炎确诊病例超过727万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1)  
+- [2020-06-11-印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1)  
+- [2020-06-11-世卫组织：全球新冠肺炎确诊病例超过727万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1)  
 - [2020-06-11-美国首次申请失业救济人数仍在高位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIlP75Da8V0C9B01UOnJj200611&isfromapp=1)  
 - [2020-06-11-非洲新冠肺炎确诊病例逼近21万，面临经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BKmjmmyWpgbV1wzswE2200611&isfromapp=1)  
 - [2020-06-11-世卫组织：全球新冠肺炎确诊病例超725万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinTbTeZIAd8OaJrax3Wyc200611&isfromapp=1)  
@@ -1027,26 +1027,26 @@
 </summary>
 
 
-- [2020-06-11-腾讯云低延时直播系统架构设计与弱网优化实践](https://www.v2ex.com/t/680626)  
-- [2020-06-11-来挑战-AWS-中国区成本优化-10-道题](https://www.v2ex.com/t/680624)  
-- [2020-06-11-闲来无事-想到的哈希冲突-解决方案-思路](https://www.v2ex.com/t/680623)  
-- [2020-06-11-现在新的-MBR-内置的固态盘是用什么颗粒的？有-V-友碰到过在正常使用下固态盘寿终的情况吗？](https://www.v2ex.com/t/680622)  
-- [2020-06-11-请问各位大佬，-windows-下可以实现这种-ip-转发的效果吗](https://www.v2ex.com/t/680621)  
-- [2020-06-11-unity-开发-3d-游戏普遍用什么配置的主机](https://www.v2ex.com/t/680620)  
-- [2020-06-11-独立开发出月收入大于月薪的产品，是不是一件很难且需要运气的事情？](https://www.v2ex.com/t/680618)  
-- [2020-06-11-用-pages-和-numbers-特别容易出现彩虹球，重装系统后改善了几天，又开始了，严重影响效率，求解](https://www.v2ex.com/t/680617)  
-- [2020-06-11-为什么不分青红皂白的爆公司名？](https://www.v2ex.com/t/680616)  
-- [2020-06-11-找大佬求助，-ubuntu-16.04-中木马了，杀不干净](https://www.v2ex.com/t/680615)  
-- [2020-06-11-迫于弟弟出来打暑假工，求推荐](https://www.v2ex.com/t/680612)  
-- [2020-06-11-室友离开北京转租-10-平次卧--自如的房子,西二旗智学院](https://www.v2ex.com/t/680611)  
-- [2020-06-11-这里有几个小公司的-HC，分别是-Golang、-Java-以及前端](https://www.v2ex.com/t/680610)  
-- [2020-06-11-被-MyBatis-缓存坑了，各位可以来了解下](https://www.v2ex.com/t/680609)  
-- [2020-06-11-产品/设计爸爸](https://www.v2ex.com/t/680608)  
-- [2020-06-11-Java-后台防重复提交一般怎么做的？](https://www.v2ex.com/t/680607)  
-- [2020-06-11-Apache2.4-+-mod_wsgi-+-Flask-的问题](https://www.v2ex.com/t/680606)  
-- [2020-06-11-求推荐办公室的小风扇，给人用的。](https://www.v2ex.com/t/680605)  
-- [2020-06-11-iPhone-编辑文本，到底怎么操作才能全部选中？](https://www.v2ex.com/t/680603)  
-- [2020-06-11-字节跳动靠谱内推！](https://www.v2ex.com/t/680601)  
+- [2020-06-12-PlayStation-5-登场](https://www.v2ex.com/t/680850) ![](assets/new.png)  
+- [2020-06-12-6-月-12-日零时，-steam-上架了战地-1，-3，-5-该买哪个](https://www.v2ex.com/t/680849) ![](assets/new.png)  
+- [2020-06-12-怎么跟上时代？-h5-页面提示下载-app](https://www.v2ex.com/t/680848) ![](assets/new.png)  
+- [2020-06-12-体脂秤有必要买-8-电极的那种吗？](https://www.v2ex.com/t/680847) ![](assets/new.png)  
+- [2020-06-12-方言音频分类机器学习请教](https://www.v2ex.com/t/680846) ![](assets/new.png)  
+- [2020-06-12-人脸识别门禁系统，你们都用了么？](https://www.v2ex.com/t/680845) ![](assets/new.png)  
+- [2020-06-12-日本首都圈、大阪以外的地方生活成本怎么样？](https://www.v2ex.com/t/680844) ![](assets/new.png)  
+- [2020-06-12-RDP-复制文件，是走的虚拟-USB2.0-吗？为什么速度那么慢？](https://www.v2ex.com/t/680843) ![](assets/new.png)  
+- [2020-06-12-关于-mysql-的书有什么推荐的吗](https://www.v2ex.com/t/680842) ![](assets/new.png)  
+- [2020-06-12-请问-200-块能收你们的泡面专用盖吗？](https://www.v2ex.com/t/680841) ![](assets/new.png)  
+- [2020-06-11-笔记应用-Roam-Research-开放注册了](https://www.v2ex.com/t/680840) ![](assets/new.png)  
+- [2020-06-11-微信总被封号是什么原因？懵](https://www.v2ex.com/t/680839) ![](assets/new.png)  
+- [2020-06-11-网商银行，保密项目组，急招若干技术（P5/6/7/8），-base（北京/杭州），有意者欢迎自荐或推荐](https://www.v2ex.com/t/680838) ![](assets/new.png)  
+- [2020-06-11-mac-设置空密码](https://www.v2ex.com/t/680837) ![](assets/new.png)  
+- [2020-06-11-iikira/BaiduPCS-Go-仓库被删了?](https://www.v2ex.com/t/680836) ![](assets/new.png)  
+- [2020-06-11-求问各位-V-友，现在校招面试中-Java-后端方向的知识必备的都有哪些方面呢？](https://www.v2ex.com/t/680835) ![](assets/new.png)  
+- [2020-06-11-Webpack-如何打包-React+TypeScript-多页面？](https://www.v2ex.com/t/680834) ![](assets/new.png)  
+- [2020-06-11-618-想买一台办公笔记本，目前来看，小新-air14-是最优解么？](https://www.v2ex.com/t/680831) ![](assets/new.png)  
+- [2020-06-11-嵌入式行业的“经验积累”都有啥？嵌入式行业的同志们进来指导下](https://www.v2ex.com/t/680830) ![](assets/new.png)  
+- [2020-06-11-qemu-在-windows-下怎样直通-USB？](https://www.v2ex.com/t/680829) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

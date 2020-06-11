@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 21:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 00:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-11-美国首次申请失业救济人数仍在高位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIlP75Da8V0C9B01UOnJj200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-世卫组织：全球新冠肺炎确诊病例超过727万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-美国首次申请失业救济人数仍在高位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIlP75Da8V0C9B01UOnJj200611&isfromapp=1)  
 - [2020-06-11-非洲新冠肺炎确诊病例逼近21万，面临经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BKmjmmyWpgbV1wzswE2200611&isfromapp=1)  
 - [2020-06-11-世卫组织：全球新冠肺炎确诊病例超725万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinTbTeZIAd8OaJrax3Wyc200611&isfromapp=1)  
 - [2020-06-11-北京新增确诊病例的两名密接者核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1)  
 - [2020-06-11-世卫组织总干事：所有国家在疫苗研发上应采用相同的规程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1)  
 - [2020-06-11-全球智库抗疫合作云论坛丨与会专家：“化危为机”需全球增进国家治理经验共享](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti690WrhdKmHiOKmfY03wC200611&isfromapp=1)  
-- [2020-06-10-日本新增38例新冠肺炎确诊病例-累计确诊17306例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vwbMzVYvTUjTBlDrcX7200610&isfromapp=1)  
-- [2020-06-10-德国内政部长：将继续接收难民-15日起开放与多国边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKumsZGYovhUEzRMhCuF2200610&isfromapp=1)  
-- [2020-06-10-6月10日6时至18时-天津新增1例境外输入确诊病例](http://wsjk.tj.gov.cn/art/2020/6/10/art_87_73915.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

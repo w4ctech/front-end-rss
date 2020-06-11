@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-11 05:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-11 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,11 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-11-联合国开发计划署：国际社会必须联合抵制虚假疫情信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1) 
+- [2020-06-11-秘鲁政府允许新冠疫情高风险地区建筑业复工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1) 
+- [2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1) 
+- [2020-06-11-世卫组织总干事：所有国家在疫苗研发上应采用相同的规程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1) 
+- [2020-06-11-全球智库抗疫合作云论坛丨与会专家：“化危为机”需全球增进国家治理经验共享](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti690WrhdKmHiOKmfY03wC200611&isfromapp=1) 
 - [2020-06-10-德国内政部长：将继续接收难民-15日起开放与多国边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKumsZGYovhUEzRMhCuF2200610&isfromapp=1) 
 - [2020-06-10-6月10日6时至18时-天津新增1例境外输入确诊病例](http://wsjk.tj.gov.cn/art/2020/6/10/art_87_73915.html) 
 - [2020-06-10-​英国：年底前国家医疗卫生系统的等候病人人数可能多达1000万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHaPUkZAoGbyDIbUl2RjI200610&isfromapp=1) 

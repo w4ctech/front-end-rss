@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 05:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 09:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-11-联合国开发计划署：国际社会必须联合抵制虚假疫情信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-秘鲁政府允许新冠疫情高风险地区建筑业复工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-世卫组织总干事：所有国家在疫苗研发上应采用相同的规程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-全球智库抗疫合作云论坛丨与会专家：“化危为机”需全球增进国家治理经验共享](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti690WrhdKmHiOKmfY03wC200611&isfromapp=1) ![](assets/new.png)  
 - [2020-06-10-日本新增38例新冠肺炎确诊病例-累计确诊17306例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vwbMzVYvTUjTBlDrcX7200610&isfromapp=1)  
 - [2020-06-10-德国内政部长：将继续接收难民-15日起开放与多国边境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKumsZGYovhUEzRMhCuF2200610&isfromapp=1)  
 - [2020-06-10-6月10日6时至18时-天津新增1例境外输入确诊病例](http://wsjk.tj.gov.cn/art/2020/6/10/art_87_73915.html)  
@@ -109,11 +114,6 @@
 - [2020-06-10-6月12日辽宁大连幼儿园复园！参与幼儿园复园运转活动的所有教职工需进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaeQ1RfKdwiTrMDfsXRK0200610&isfromapp=1)  
 - [2020-06-10-中国政府赴巴勒斯坦抗疫医疗专家组今日启程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1)  
 - [2020-06-10-智利新冠肺炎确诊病例累计突破14万-足协宣布将在7月底重启国内足球赛事](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1)  
-- [2020-06-10-国家卫健委：昨日新增3例新冠肺炎确诊病例-新增1例疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWTz29sLlDxTbC8RkPLr8200610&isfromapp=1)  
-- [2020-06-10-美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1)  
-- [2020-06-10-厄瓜多尔：复工期间首都现人群聚集-防疫专家发出风险警告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1)  
-- [2020-06-09-布隆迪总统皮埃尔·恩库伦齐扎病逝](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21IJtf5MCvvCPJAzxPkC200609&isfromapp=1)  
-- [2020-06-09-巴西主流媒体首次联合公布新冠肺炎疫情每日统计数据](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -902,11 +902,11 @@
 </summary>
 
 
-- [2020-06-10-手把手带你撸个属于自己react项目|webpack+babel+typescript+eslint](https://juejin.im/post/5ee0e6e0e51d4510a178a3eb) ![](assets/new.png)  
-- [2020-06-10-Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8) ![](assets/new.png)  
-- [2020-06-10-2020前端春招面经总结！](https://juejin.im/post/5ee09789518825430b3083db) ![](assets/new.png)  
-- [2020-06-10-解析vue双向绑定原理](https://juejin.im/post/5ee045fbf265da76d85d1dce) ![](assets/new.png)  
-- [2020-06-10-JavaScript-基本类型和引用类型](https://juejin.im/post/5ee09c89518825432f5a0c59) ![](assets/new.png)  
+- [2020-06-10-手把手带你撸个属于自己react项目|webpack+babel+typescript+eslint](https://juejin.im/post/5ee0e6e0e51d4510a178a3eb)  
+- [2020-06-10-Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8)  
+- [2020-06-10-2020前端春招面经总结！](https://juejin.im/post/5ee09789518825430b3083db)  
+- [2020-06-10-解析vue双向绑定原理](https://juejin.im/post/5ee045fbf265da76d85d1dce)  
+- [2020-06-10-JavaScript-基本类型和引用类型](https://juejin.im/post/5ee09c89518825432f5a0c59)  
 - [2020-06-10-前端也要懂物理-——-惯性滚动篇](https://juejin.im/post/5ee0514b6fb9a047a32750f8)  
 - [2020-06-10-初探-Quasar](https://juejin.im/post/5ee04f976fb9a047e02f0342)  
 - [2020-06-10-函数防抖和节流](https://juejin.im/post/5edf2d516fb9a047cf333a5c)  

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 12:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 14:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-11-印度新增9996例新冠肺炎确诊病例-累计确诊286579例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopBpyEl8qZz57osDjSVU200611&isfromapp=1) ![](assets/new.png)  
 - [2020-06-11-上海新增6例境外输入](https://m.weibo.cn/3057540037/4514577625139584)  
 - [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1)  
 - [2020-06-11-疫情后期逆势增长-5月我国快递业务量同比增长超四成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-10-巴基斯坦新冠肺炎疫情快速蔓延-世卫组织强烈建议实施严格封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1)  
 - [2020-06-10-以色列新冠肺炎确诊病例累计达18268例-美联航续签旧金山至特拉维夫的航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKUKLT9gCdpyQ85Gpe3If200610&isfromapp=1)  
 - [2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1)  
-- [2020-06-10-印度新增新冠肺炎确诊病例9985例-累计确诊276583例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qFmLjcESWTmLgyUpOIp200610&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,26 +1027,26 @@
 </summary>
 
 
-- [2020-06-11-腾讯云低延时直播系统架构设计与弱网优化实践](https://www.v2ex.com/t/680626) ![](assets/new.png)  
-- [2020-06-11-来挑战-AWS-中国区成本优化-10-道题](https://www.v2ex.com/t/680624) ![](assets/new.png)  
-- [2020-06-11-闲来无事-想到的哈希冲突-解决方案-思路](https://www.v2ex.com/t/680623) ![](assets/new.png)  
-- [2020-06-11-现在新的-MBR-内置的固态盘是用什么颗粒的？有-V-友碰到过在正常使用下固态盘寿终的情况吗？](https://www.v2ex.com/t/680622) ![](assets/new.png)  
-- [2020-06-11-请问各位大佬，-windows-下可以实现这种-ip-转发的效果吗](https://www.v2ex.com/t/680621) ![](assets/new.png)  
-- [2020-06-11-unity-开发-3d-游戏普遍用什么配置的主机](https://www.v2ex.com/t/680620) ![](assets/new.png)  
-- [2020-06-11-独立开发出月收入大于月薪的产品，是不是一件很难且需要运气的事情？](https://www.v2ex.com/t/680618) ![](assets/new.png)  
-- [2020-06-11-用-pages-和-numbers-特别容易出现彩虹球，重装系统后改善了几天，又开始了，严重影响效率，求解](https://www.v2ex.com/t/680617) ![](assets/new.png)  
-- [2020-06-11-为什么不分青红皂白的爆公司名？](https://www.v2ex.com/t/680616) ![](assets/new.png)  
-- [2020-06-11-找大佬求助，-ubuntu-16.04-中木马了，杀不干净](https://www.v2ex.com/t/680615) ![](assets/new.png)  
-- [2020-06-11-迫于弟弟出来打暑假工，求推荐](https://www.v2ex.com/t/680612) ![](assets/new.png)  
-- [2020-06-11-室友离开北京转租-10-平次卧--自如的房子,西二旗智学院](https://www.v2ex.com/t/680611) ![](assets/new.png)  
-- [2020-06-11-这里有几个小公司的-HC，分别是-Golang、-Java-以及前端](https://www.v2ex.com/t/680610) ![](assets/new.png)  
-- [2020-06-11-被-MyBatis-缓存坑了，各位可以来了解下](https://www.v2ex.com/t/680609) ![](assets/new.png)  
-- [2020-06-11-产品/设计爸爸](https://www.v2ex.com/t/680608) ![](assets/new.png)  
-- [2020-06-11-Java-后台防重复提交一般怎么做的？](https://www.v2ex.com/t/680607) ![](assets/new.png)  
-- [2020-06-11-Apache2.4-+-mod_wsgi-+-Flask-的问题](https://www.v2ex.com/t/680606) ![](assets/new.png)  
-- [2020-06-11-求推荐办公室的小风扇，给人用的。](https://www.v2ex.com/t/680605) ![](assets/new.png)  
-- [2020-06-11-iPhone-编辑文本，到底怎么操作才能全部选中？](https://www.v2ex.com/t/680603) ![](assets/new.png)  
-- [2020-06-11-字节跳动靠谱内推！](https://www.v2ex.com/t/680601) ![](assets/new.png)  
+- [2020-06-11-腾讯云低延时直播系统架构设计与弱网优化实践](https://www.v2ex.com/t/680626)  
+- [2020-06-11-来挑战-AWS-中国区成本优化-10-道题](https://www.v2ex.com/t/680624)  
+- [2020-06-11-闲来无事-想到的哈希冲突-解决方案-思路](https://www.v2ex.com/t/680623)  
+- [2020-06-11-现在新的-MBR-内置的固态盘是用什么颗粒的？有-V-友碰到过在正常使用下固态盘寿终的情况吗？](https://www.v2ex.com/t/680622)  
+- [2020-06-11-请问各位大佬，-windows-下可以实现这种-ip-转发的效果吗](https://www.v2ex.com/t/680621)  
+- [2020-06-11-unity-开发-3d-游戏普遍用什么配置的主机](https://www.v2ex.com/t/680620)  
+- [2020-06-11-独立开发出月收入大于月薪的产品，是不是一件很难且需要运气的事情？](https://www.v2ex.com/t/680618)  
+- [2020-06-11-用-pages-和-numbers-特别容易出现彩虹球，重装系统后改善了几天，又开始了，严重影响效率，求解](https://www.v2ex.com/t/680617)  
+- [2020-06-11-为什么不分青红皂白的爆公司名？](https://www.v2ex.com/t/680616)  
+- [2020-06-11-找大佬求助，-ubuntu-16.04-中木马了，杀不干净](https://www.v2ex.com/t/680615)  
+- [2020-06-11-迫于弟弟出来打暑假工，求推荐](https://www.v2ex.com/t/680612)  
+- [2020-06-11-室友离开北京转租-10-平次卧--自如的房子,西二旗智学院](https://www.v2ex.com/t/680611)  
+- [2020-06-11-这里有几个小公司的-HC，分别是-Golang、-Java-以及前端](https://www.v2ex.com/t/680610)  
+- [2020-06-11-被-MyBatis-缓存坑了，各位可以来了解下](https://www.v2ex.com/t/680609)  
+- [2020-06-11-产品/设计爸爸](https://www.v2ex.com/t/680608)  
+- [2020-06-11-Java-后台防重复提交一般怎么做的？](https://www.v2ex.com/t/680607)  
+- [2020-06-11-Apache2.4-+-mod_wsgi-+-Flask-的问题](https://www.v2ex.com/t/680606)  
+- [2020-06-11-求推荐办公室的小风扇，给人用的。](https://www.v2ex.com/t/680605)  
+- [2020-06-11-iPhone-编辑文本，到底怎么操作才能全部选中？](https://www.v2ex.com/t/680603)  
+- [2020-06-11-字节跳动靠谱内推！](https://www.v2ex.com/t/680601)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

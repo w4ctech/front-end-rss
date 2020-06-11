@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 05:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-哥伦比亚累计45212例新冠肺炎确诊病例-首都重症监护床位占用率超过50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOgrLQPwd5sMlJtIGfVSI200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-秘鲁新冠肺炎确诊病例超过21万例-其中包括近万名警察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwd2m8eFu7zRYpi97ZkX5200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-瑞士日内瓦标志性大喷泉重新启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1) ![](assets/new.png)  
 - [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1)  
 - [2020-06-11-印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1)  
 - [2020-06-11-世卫组织：全球新冠肺炎确诊病例超过727万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1)  
 - [2020-06-11-疫情后期逆势增长-5月我国快递业务量同比增长超四成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1)  
 - [2020-06-11-微视频丨率先解禁！突尼斯发布防疫短片重启旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1)  
-- [2020-06-11-联合国开发计划署：国际社会必须联合抵制虚假疫情信息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1)  
-- [2020-06-11-秘鲁政府允许新冠疫情高风险地区建筑业复工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1)  
-- [2020-06-11-受新冠疫情影响-2020年赞比亚国际贸易展会将推迟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1)  
-- [2020-06-11-世卫组织总干事：所有国家在疫苗研发上应采用相同的规程](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1)  
-- [2020-06-11-全球智库抗疫合作云论坛丨与会专家：“化危为机”需全球增进国家治理经验共享](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti690WrhdKmHiOKmfY03wC200611&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1027,26 +1027,26 @@
 </summary>
 
 
-- [2020-06-12-PlayStation-5-登场](https://www.v2ex.com/t/680850) ![](assets/new.png)  
-- [2020-06-12-6-月-12-日零时，-steam-上架了战地-1，-3，-5-该买哪个](https://www.v2ex.com/t/680849) ![](assets/new.png)  
-- [2020-06-12-怎么跟上时代？-h5-页面提示下载-app](https://www.v2ex.com/t/680848) ![](assets/new.png)  
-- [2020-06-12-体脂秤有必要买-8-电极的那种吗？](https://www.v2ex.com/t/680847) ![](assets/new.png)  
-- [2020-06-12-方言音频分类机器学习请教](https://www.v2ex.com/t/680846) ![](assets/new.png)  
-- [2020-06-12-人脸识别门禁系统，你们都用了么？](https://www.v2ex.com/t/680845) ![](assets/new.png)  
-- [2020-06-12-日本首都圈、大阪以外的地方生活成本怎么样？](https://www.v2ex.com/t/680844) ![](assets/new.png)  
-- [2020-06-12-RDP-复制文件，是走的虚拟-USB2.0-吗？为什么速度那么慢？](https://www.v2ex.com/t/680843) ![](assets/new.png)  
-- [2020-06-12-关于-mysql-的书有什么推荐的吗](https://www.v2ex.com/t/680842) ![](assets/new.png)  
-- [2020-06-12-请问-200-块能收你们的泡面专用盖吗？](https://www.v2ex.com/t/680841) ![](assets/new.png)  
-- [2020-06-11-笔记应用-Roam-Research-开放注册了](https://www.v2ex.com/t/680840) ![](assets/new.png)  
-- [2020-06-11-微信总被封号是什么原因？懵](https://www.v2ex.com/t/680839) ![](assets/new.png)  
-- [2020-06-11-网商银行，保密项目组，急招若干技术（P5/6/7/8），-base（北京/杭州），有意者欢迎自荐或推荐](https://www.v2ex.com/t/680838) ![](assets/new.png)  
-- [2020-06-11-mac-设置空密码](https://www.v2ex.com/t/680837) ![](assets/new.png)  
-- [2020-06-11-iikira/BaiduPCS-Go-仓库被删了?](https://www.v2ex.com/t/680836) ![](assets/new.png)  
-- [2020-06-11-求问各位-V-友，现在校招面试中-Java-后端方向的知识必备的都有哪些方面呢？](https://www.v2ex.com/t/680835) ![](assets/new.png)  
-- [2020-06-11-Webpack-如何打包-React+TypeScript-多页面？](https://www.v2ex.com/t/680834) ![](assets/new.png)  
-- [2020-06-11-618-想买一台办公笔记本，目前来看，小新-air14-是最优解么？](https://www.v2ex.com/t/680831) ![](assets/new.png)  
-- [2020-06-11-嵌入式行业的“经验积累”都有啥？嵌入式行业的同志们进来指导下](https://www.v2ex.com/t/680830) ![](assets/new.png)  
-- [2020-06-11-qemu-在-windows-下怎样直通-USB？](https://www.v2ex.com/t/680829) ![](assets/new.png)  
+- [2020-06-12-PlayStation-5-登场](https://www.v2ex.com/t/680850)  
+- [2020-06-12-6-月-12-日零时，-steam-上架了战地-1，-3，-5-该买哪个](https://www.v2ex.com/t/680849)  
+- [2020-06-12-怎么跟上时代？-h5-页面提示下载-app](https://www.v2ex.com/t/680848)  
+- [2020-06-12-体脂秤有必要买-8-电极的那种吗？](https://www.v2ex.com/t/680847)  
+- [2020-06-12-方言音频分类机器学习请教](https://www.v2ex.com/t/680846)  
+- [2020-06-12-人脸识别门禁系统，你们都用了么？](https://www.v2ex.com/t/680845)  
+- [2020-06-12-日本首都圈、大阪以外的地方生活成本怎么样？](https://www.v2ex.com/t/680844)  
+- [2020-06-12-RDP-复制文件，是走的虚拟-USB2.0-吗？为什么速度那么慢？](https://www.v2ex.com/t/680843)  
+- [2020-06-12-关于-mysql-的书有什么推荐的吗](https://www.v2ex.com/t/680842)  
+- [2020-06-12-请问-200-块能收你们的泡面专用盖吗？](https://www.v2ex.com/t/680841)  
+- [2020-06-11-笔记应用-Roam-Research-开放注册了](https://www.v2ex.com/t/680840)  
+- [2020-06-11-微信总被封号是什么原因？懵](https://www.v2ex.com/t/680839)  
+- [2020-06-11-网商银行，保密项目组，急招若干技术（P5/6/7/8），-base（北京/杭州），有意者欢迎自荐或推荐](https://www.v2ex.com/t/680838)  
+- [2020-06-11-mac-设置空密码](https://www.v2ex.com/t/680837)  
+- [2020-06-11-iikira/BaiduPCS-Go-仓库被删了?](https://www.v2ex.com/t/680836)  
+- [2020-06-11-求问各位-V-友，现在校招面试中-Java-后端方向的知识必备的都有哪些方面呢？](https://www.v2ex.com/t/680835)  
+- [2020-06-11-Webpack-如何打包-React+TypeScript-多页面？](https://www.v2ex.com/t/680834)  
+- [2020-06-11-618-想买一台办公笔记本，目前来看，小新-air14-是最优解么？](https://www.v2ex.com/t/680831)  
+- [2020-06-11-嵌入式行业的“经验积累”都有啥？嵌入式行业的同志们进来指导下](https://www.v2ex.com/t/680830)  
+- [2020-06-11-qemu-在-windows-下怎样直通-USB？](https://www.v2ex.com/t/680829)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-11 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-11 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-11-北京新增确诊病例的两名密接者核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1) 
 - [2020-06-11-联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息](https://m.weibo.cn/3057540037/4514656913274943) 
 - [2020-06-11-上海新增6例境外输入](https://m.weibo.cn/3057540037/4514577625139584) 
 - [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1) 

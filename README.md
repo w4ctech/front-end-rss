@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 16:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-06-11-联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息](https://m.weibo.cn/3057540037/4514656913274943) ![](assets/new.png)  
-- [2020-06-11-当“抗议-”遇到“抗疫#”-新冠肺炎病例迅速上升](https://m.weibo.cn/3057540037/4514647539648228) ![](assets/new.png)  
-- [2020-06-11-巴基斯坦新增5834例新冠肺炎确诊病例-累计确诊119536例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7hTteNj3EO9cs3XyKpXW200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-北京新增确诊病例的两名密接者核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息](https://m.weibo.cn/3057540037/4514656913274943)  
+- [2020-06-11-当“抗议-”遇到“抗疫#”-新冠肺炎病例迅速上升](https://m.weibo.cn/3057540037/4514647539648228)  
+- [2020-06-11-巴基斯坦新增5834例新冠肺炎确诊病例-累计确诊119536例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7hTteNj3EO9cs3XyKpXW200611&isfromapp=1)  
 - [2020-06-11-印度新增9996例新冠肺炎确诊病例-累计确诊286579例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopBpyEl8qZz57osDjSVU200611&isfromapp=1)  
 - [2020-06-11-上海新增6例境外输入](https://m.weibo.cn/3057540037/4514577625139584)  
 - [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-10-沙特新增3717例新冠肺炎确诊病例-累计确诊112288例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUcFg1ETlHjy6FvKkmoU7200610&isfromapp=1)  
 - [2020-06-10-​英国：年底前国家医疗卫生系统的等候病人人数可能多达1000万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHaPUkZAoGbyDIbUl2RjI200610&isfromapp=1)  
 - [2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1)  
-- [2020-06-10-韩首都圈或面临疫情暴发风险，520所学校停课](https://m.weibo.cn/3057540037/4514338374122970)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

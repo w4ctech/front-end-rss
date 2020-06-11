@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-11 14:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-11 16:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-11-印度新增9996例新冠肺炎确诊病例-累计确诊286579例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopBpyEl8qZz57osDjSVU200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息](https://m.weibo.cn/3057540037/4514656913274943) ![](assets/new.png)  
+- [2020-06-11-当“抗议-”遇到“抗疫#”-新冠肺炎病例迅速上升](https://m.weibo.cn/3057540037/4514647539648228) ![](assets/new.png)  
+- [2020-06-11-巴基斯坦新增5834例新冠肺炎确诊病例-累计确诊119536例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7hTteNj3EO9cs3XyKpXW200611&isfromapp=1) ![](assets/new.png)  
+- [2020-06-11-印度新增9996例新冠肺炎确诊病例-累计确诊286579例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopBpyEl8qZz57osDjSVU200611&isfromapp=1)  
 - [2020-06-11-上海新增6例境外输入](https://m.weibo.cn/3057540037/4514577625139584)  
 - [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1)  
 - [2020-06-11-疫情后期逆势增长-5月我国快递业务量同比增长超四成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-10-​英国：年底前国家医疗卫生系统的等候病人人数可能多达1000万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHaPUkZAoGbyDIbUl2RjI200610&isfromapp=1)  
 - [2020-06-10-中国篮协：取消2019-2020赛季WCBA联赛后续比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1)  
 - [2020-06-10-韩首都圈或面临疫情暴发风险，520所学校停课](https://m.weibo.cn/3057540037/4514338374122970)  
-- [2020-06-10-巴基斯坦新冠肺炎疫情快速蔓延-世卫组织强烈建议实施严格封锁措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1)  
-- [2020-06-10-以色列新冠肺炎确诊病例累计达18268例-美联航续签旧金山至特拉维夫的航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKUKLT9gCdpyQ85Gpe3If200610&isfromapp=1)  
-- [2020-06-10-韩国首都圈集体感染频发-520所学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL77kRLP3zfeTxs3XES0g200610&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

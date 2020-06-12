@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,6 +17,7 @@
 - [2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) 
 - [2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57) 
 - [2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
+- [2020-06-10-前端瀑布流布局如何应用动态规划和贪心算法](https://www.ershicimi.com/p/9f08ef5e8eda8401234cd9c12a2a4245) 
 - [2020-06-09-不会算法的前端程序员究竟能走多远？](https://www.ershicimi.com/p/a7dbd425d6b2e70df41763530f579f6d) 
 - [2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 

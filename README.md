@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 23:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 01:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,10 +33,10 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)  
+- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -555,6 +555,11 @@
 </summary>
 
 
+- [2020-06-12-vue项目部署的最佳实践](https://www.ershicimi.com/p/020d13a4319c1f7a5cc972d8cd6e382a) ![](assets/new.png)  
+- [2020-06-12-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/f1d4e515b193c80b6b8d1e55bb45b242) ![](assets/new.png)  
+- [2020-06-11-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/22e0444887eb3262dc8fac05d656913c) ![](assets/new.png)  
+- [2020-06-10-面试官：HTTPS就安全了吗？会被抓包吗？我竟然回答不上来...](https://www.ershicimi.com/p/ce8469e8b8a2a10e62abd12b6f8a094d) ![](assets/new.png)  
+- [2020-06-10-前端瀑布流布局如何应用动态规划和贪心算法](https://www.ershicimi.com/p/9f08ef5e8eda8401234cd9c12a2a4245) ![](assets/new.png)  
 - [2020-06-09-不会算法的前端程序员究竟能走多远？](https://www.ershicimi.com/p/a7dbd425d6b2e70df41763530f579f6d)  
 - [2020-06-09-前端代码规范最佳实践](https://www.ershicimi.com/p/e60d337a1d0554a5c2ad657738467f5b)  
 - [2020-06-08-Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/ec9c41c9afe715269a6bd2160ece0ad9)  
@@ -570,11 +575,6 @@
 - [2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63)  
 - [2020-05-31-Promise/async/Generator实现原理解析](https://www.ershicimi.com/p/a62d09698b568728bfb8147d8e202f80)  
 - [2020-05-30-推荐一位技术大佬，手握-16000-Star-项目，且已出版书籍](https://www.ershicimi.com/p/c33a6794a7299ab672bb8c1bd216413a)  
-- [2020-05-29-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/acb63ddde2cf6a1c6b02f8cb51260f33)  
-- [2020-05-29-24张图，九大数据结构安排得明明白白！](https://www.ershicimi.com/p/42ed7d0f7463e9a8e58831368d6cc344)  
-- [2020-05-28-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/f45191ecb7e3e17700049b047946ddd7)  
-- [2020-05-28-鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8)  
-- [2020-05-27-平庸前端码农之蜕变-—-AST](https://www.ershicimi.com/p/9d8cdf3ea464b0729c2a95bef31eb495)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -643,7 +643,7 @@
 </summary>
 
 
-- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
+- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 23:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-13 01:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -531,6 +531,11 @@
 - [【前端宇宙】2020-06-02-这些神仙代码库值得每一个前端开发者收藏](https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288) 
 - [【前端宇宙】2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3) 
 - [【前端宇宙】2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73) 
+- [【前端瓶子君】2020-06-12-vue项目部署的最佳实践](https://www.ershicimi.com/p/020d13a4319c1f7a5cc972d8cd6e382a) 
+- [【前端瓶子君】2020-06-12-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/f1d4e515b193c80b6b8d1e55bb45b242) 
+- [【前端瓶子君】2020-06-11-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/22e0444887eb3262dc8fac05d656913c) 
+- [【前端瓶子君】2020-06-10-面试官：HTTPS就安全了吗？会被抓包吗？我竟然回答不上来...](https://www.ershicimi.com/p/ce8469e8b8a2a10e62abd12b6f8a094d) 
+- [【前端瓶子君】2020-06-10-前端瀑布流布局如何应用动态规划和贪心算法](https://www.ershicimi.com/p/9f08ef5e8eda8401234cd9c12a2a4245) 
 - [【前端瓶子君】2020-06-09-不会算法的前端程序员究竟能走多远？](https://www.ershicimi.com/p/a7dbd425d6b2e70df41763530f579f6d) 
 - [【前端瓶子君】2020-06-09-前端代码规范最佳实践](https://www.ershicimi.com/p/e60d337a1d0554a5c2ad657738467f5b) 
 - [【前端瓶子君】2020-06-08-Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/ec9c41c9afe715269a6bd2160ece0ad9) 

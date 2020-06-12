@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 01:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -49,6 +49,7 @@
 - [2020-04-26-JS-图片压缩](https://www.ershicimi.com/p/4c0884049172bc6ade550e218fee2423) 
 - [2020-06-09-5分钟教你使用console.log发布公司的招聘信息](https://www.ershicimi.com/p/f607f701c77fc2809d474ac097cd02c6) 
 - [2020-05-26-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/5712892a646f5192853ba791213ef6a6) 
+- [2020-06-11-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/22e0444887eb3262dc8fac05d656913c) 
 - [2020-06-07-前端同学经常忽视的一个-JavaScript-面试题](https://www.ershicimi.com/p/84286b7d9670a5a349718d80e775ff2e) 
 - [2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [2020-05-31-Promise/async/Generator实现原理解析](https://www.ershicimi.com/p/a62d09698b568728bfb8147d8e202f80) 

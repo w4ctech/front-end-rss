@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-12 17:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 19:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,8 +404,8 @@
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【InfoQ】开扒-SpaceX-飞船技术栈，程序员搞了个-3D-版飞船生成器过瘾](https://www.ershicimi.com/p/a56dc386185d1d7c9c2f5e7f2463de64)
+- [【掘金前端】一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)
 - [【掘金前端】WebGL-光照](https://juejin.im/post/5ed0fad051882542e722f2b4)
-- [【V2EX】各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,9 @@
 - [2020-04-19-前端文档站点搭建方案](https://www.ershicimi.com/p/d8f9cbb42ec0fea660ce9ff47cda0325) 
 - [2020-04-12-如何设计实现-PC-站点搭建系统](https://www.ershicimi.com/p/b6a199fe08d99a922162157a6bab9e91) 
 - [2020-04-06-通俗易懂的红黑树图解下](https://www.ershicimi.com/p/c7e763eb98519b32583a79569081b4f1) 
+- [2020-06-12-VS-Code为什么能这么牛？](https://www.ershicimi.com/p/bcc24bee903ade3fff3a32b7310b418c) 
+- [2020-06-11-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/9d7ed25457a43336b88269a24084bf47) 
+- [2020-06-10-在大公司做程序员-vs-在小公司做程序员](https://www.ershicimi.com/p/22c51d1f1df1d757766ac9da1e7092ff) 
 - [2020-06-07-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/3fd6c138e6f35a6710846713a4bf147c) 
 - [2020-06-06-京东618大促来啦，程序员畅销书籍走起！每满100减50，还有专属优惠码送你哦！](https://www.ershicimi.com/p/8728b8abec017cda3512df855658dbc4) 
 - [2020-06-04-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/43ab76e740ef8cc5e6dc150153a06027) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 22:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-12 23:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -517,6 +517,9 @@
 - [【政采云前端团队】2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) 
 - [【政采云前端团队】2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) 
 - [【政采云前端团队】2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
+- [【前端宇宙】2020-06-12-VS-Code为什么能这么牛？](https://www.ershicimi.com/p/bcc24bee903ade3fff3a32b7310b418c) 
+- [【前端宇宙】2020-06-11-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/9d7ed25457a43336b88269a24084bf47) 
+- [【前端宇宙】2020-06-10-在大公司做程序员-vs-在小公司做程序员](https://www.ershicimi.com/p/22c51d1f1df1d757766ac9da1e7092ff) 
 - [【前端宇宙】2020-06-09-5分钟教你使用console.log发布公司的招聘信息](https://www.ershicimi.com/p/f607f701c77fc2809d474ac097cd02c6) 
 - [【前端宇宙】2020-06-08-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459) 
 - [【前端宇宙】2020-06-08-如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df) 

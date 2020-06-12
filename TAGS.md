@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-12 13:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 14:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -361,13 +361,13 @@
 - [【全栈前端精选】探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249)
 - [【全栈前端精选】改善CSS的10种最佳做法](https://www.ershicimi.com/p/44eeb58a40a8f2d0eb5598c3ab50b91b)
 - [【前端宇宙】相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e)
+- [【程序员成长指北】你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876)
 - [【Nodejs技术栈】Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2)
 - [【Nodejs技术栈】Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572)
 - [【张鑫旭-鑫空间-鑫生活】CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)
 - [【张鑫旭-鑫空间-鑫生活】CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)
 - [【张鑫旭-鑫空间-鑫生活】快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)
 - [【张鑫旭-鑫空间-鑫生活】借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)
-- [【张鑫旭-鑫空间-鑫生活】CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -567,6 +567,7 @@
 - [【Vue中文社区】大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【互联网架构师】Redis+Nginx+设计模式+Spring全家桶+Dubbo+阿里P8技术精选文档](https://www.ershicimi.com/p/579ee8a1d9d2888c45c4d75fc9d0b385)
 - [【互联网架构师】如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)
 - [【V2EX】windows-下-docker-怎么让容器内网络和其他主机的网络连通](https://www.v2ex.com/t/679046)
 - [【V2EX】docker-问题求救](https://www.v2ex.com/t/678639)
@@ -604,6 +605,7 @@
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
+- [【互联网架构师】收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b)
 - [【InfoQ】4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c)
 - [【InfoQ】GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)
 - [【InfoQ】GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775)
@@ -614,7 +616,6 @@
 - [【V2EX】程序员如何为自己的-Github-项目选择开源许可证-？](https://www.v2ex.com/t/679529)
 - [【V2EX】求一个-Github-大图标！](https://www.v2ex.com/t/679170)
 - [【V2EX】GitHub-可以开课了](https://www.v2ex.com/t/678557)
-- [【V2EX】GitHub:我在阿里做技术面试官的一些经验](https://www.v2ex.com/t/678525)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

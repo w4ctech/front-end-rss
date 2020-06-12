@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 13:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 14:00:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,13 +28,13 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-墨西哥新增4790例新冠肺炎确诊病例-累计超13万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-智利新冠肺炎确诊人数超过15万-政府向困难家庭发放补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-阿根廷新增1386例新冠肺炎确诊病例-全国仅一省尚未发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1)  
+- [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1)  
+- [2020-06-12-墨西哥新增4790例新冠肺炎确诊病例-累计超13万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1)  
+- [2020-06-12-智利新冠肺炎确诊人数超过15万-政府向困难家庭发放补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1)  
+- [2020-06-12-阿根廷新增1386例新冠肺炎确诊病例-全国仅一省尚未发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1)  
 - [2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1)  
 - [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598)  
 - [2020-06-12-上海11日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1)  
@@ -406,11 +406,11 @@
 </summary>
 
 
-- [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5) ![](assets/new.png)  
-- [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782) ![](assets/new.png)  
-- [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c) ![](assets/new.png)  
-- [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd) ![](assets/new.png)  
-- [2020-06-10-编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74) ![](assets/new.png)  
+- [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5)  
+- [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)  
+- [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)  
+- [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd)  
+- [2020-06-10-编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74)  
 - [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f)  
 - [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6)  
 - [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)  
@@ -585,6 +585,10 @@
 </summary>
 
 
+- [2020-06-12-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d0e2be76cf7a75e5963e0f7873f5281a) ![](assets/new.png)  
+- [2020-06-11-关于这个时间，前端找工作的建议](https://www.ershicimi.com/p/2f375907c50ddbf659ad16b0ff80f35b) ![](assets/new.png)  
+- [2020-06-11-你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876) ![](assets/new.png)  
+- [2020-06-10-如何快速搭建好看的个人博客完整配置与源码](https://www.ershicimi.com/p/0d276bb0e1d0b58d148af80e2811a5e3) ![](assets/new.png)  
 - [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d)  
 - [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887)  
 - [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)  
@@ -601,10 +605,6 @@
 - [2020-05-30-7-个前端进大厂的必备的技能，你还缺啥？](https://www.ershicimi.com/p/07b78429882e1b064a2be24d5b020425)  
 - [2020-05-30-前端最佳实践之可维护性](https://www.ershicimi.com/p/40c330c05bfb99695a4eac64a092ed1b)  
 - [2020-05-29-花椒前端-TypeScript-实践总结优缺点简要分析](https://www.ershicimi.com/p/b8d2fde01f4ce5cd6b5d1d8211423f80)  
-- [2020-05-29-AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c)  
-- [2020-05-28-带你五步学会Vue-SSR](https://www.ershicimi.com/p/262846491688ab7bd1086d2e0b86c52b)  
-- [2020-05-28-撸羊毛！满400减230的购书活动不要错过哦！](https://www.ershicimi.com/p/137e2df24dc8e32161ec6cbb58908e25)  
-- [2020-05-27-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/ee7f43e7530131dc8eb0d9a821d71446)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -813,6 +813,15 @@
 </summary>
 
 
+- [2020-06-12-收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b) ![](assets/new.png)  
+- [2020-06-12-她发明了可以“喝的饭”，估值已超过10亿美金！从此每天多睡半小时....](https://www.ershicimi.com/p/eaaa9ea345a2c802858e59554e7eca4e) ![](assets/new.png)  
+- [2020-06-12-知乎部署系统演进](https://www.ershicimi.com/p/2d2bc3c82e3669dbc91069df23685d00) ![](assets/new.png)  
+- [2020-06-11-后端精进，先消化这几块！](https://www.ershicimi.com/p/8c1b1fda6986e500802ae0812b9c2880) ![](assets/new.png)  
+- [2020-06-11-看完这篇，你也是字符编码大神！](https://www.ershicimi.com/p/0152f9609b218d3b3d146a622f516f84) ![](assets/new.png)  
+- [2020-06-11-RabbitMQ-消费端限流、TTL、死信队列](https://www.ershicimi.com/p/323ae8c7829afd751ac181c7a92eeb77) ![](assets/new.png)  
+- [2020-06-10-Redis+Nginx+设计模式+Spring全家桶+Dubbo+阿里P8技术精选文档](https://www.ershicimi.com/p/579ee8a1d9d2888c45c4d75fc9d0b385) ![](assets/new.png)  
+- [2020-06-10-难道你不好奇？Thread.sleep0：线程休眠0秒有什么意义！](https://www.ershicimi.com/p/be60166897444ae043ef79c8e7bdba29) ![](assets/new.png)  
+- [2020-06-10-怎么找出消耗-CPU-的罪魁祸首？！](https://www.ershicimi.com/p/af19f46a7f6b0f28bbd881d62fb6aa78) ![](assets/new.png)  
 - [2020-06-09-「一键卸载中国应用」app登顶国外榜首，却被中国网友玩坏](https://www.ershicimi.com/p/9fdb7706c2a2be7325d60c3a5e69edf0)  
 - [2020-06-09-while-true-和-for-;;-哪个更快？](https://www.ershicimi.com/p/acbb24aa8c6eb450a49bec8feb2f29ec)  
 - [2020-06-09-提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8)  
@@ -824,15 +833,6 @@
 - [2020-06-07-代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496)  
 - [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea)  
 - [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17)  
-- [2020-06-06-别用Date了，Java8新特性之日期处理，现在学会也不迟！](https://www.ershicimi.com/p/9fe84cb24319ca86364ab028a035b00e)  
-- [2020-06-05-卧槽！二维码要被扫完了吗？疫情期间竟用掉了1400亿个！](https://www.ershicimi.com/p/c56004000e3642a2fd83cce159f3c88a)  
-- [2020-06-05-Dubbo-的心跳设计，值得学习！](https://www.ershicimi.com/p/3f23956ac9938add551b9c7e7889235d)  
-- [2020-06-05-推荐一个滴滴开源的跨端整体解决方案！](https://www.ershicimi.com/p/345c4cb02e48d693ca103128e915db95)  
-- [2020-06-04-面试遇到“一问三不知”的，真替他老东家捏把汗](https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358)  
-- [2020-06-04-再见Navicat！-IDEA的这个兄弟真的很香！我粉了...](https://www.ershicimi.com/p/fcbfe6a195115092d8a0e109eb938deb)  
-- [2020-06-04-你还精通MySQL，竟然连bin-log、redo-log都不知道！](https://www.ershicimi.com/p/b662647cb5bfcf97b3064bb7a0c6fde1)  
-- [2020-06-03-IntelliJ-IDEA-调试技巧，比-Eclipse-强太多了！](https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b)  
-- [2020-06-03-最受欢迎Java数据库访问框架DAO层](https://www.ershicimi.com/p/c83fff804552f71590a334fd641fa6d8)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

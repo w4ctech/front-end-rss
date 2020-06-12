@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -20,6 +20,7 @@
 - [2020-06-09-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249) 
 - [2020-06-08-改善CSS的10种最佳做法](https://www.ershicimi.com/p/44eeb58a40a8f2d0eb5598c3ab50b91b) 
 - [2020-05-27-相见恨晚的-Git-命令动画演示，一看就懂！](https://www.ershicimi.com/p/d61b9dabf03fbd9923b4f66aed064e7e) 
+- [2020-06-11-你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876) 
 - [2020-05-20-Serverless，标准化，Midway-FaaS-以及近况](https://www.ershicimi.com/p/4ee7f73a7826710825a929ee078890a2) 
 - [2020-05-14-Serverless-时代前端避坑指南](https://www.ershicimi.com/p/287953d6ac6f054cff6de4bb1a3b6572) 
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 

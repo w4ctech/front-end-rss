@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -10,6 +10,7 @@
 - [2020-05-31-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/78f6e94519ee6260b2ef1cb22fe60f43) 
 - [2020-05-18-前端就不需要掌握算法与数据结构？](https://www.ershicimi.com/p/6f18b26fa9e7a73def6d8dbd1e5591f5) 
 - [2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/868596d76a0164113ebaf38217a68a3b) 
+- [2020-06-12-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/5270f29c21aefd9f7dc459f73133e763) 
 - [2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e) 
 - [2020-05-29-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/bfaaaa69d9eb0ee6d81f79ae1b98c43c) 
 - [2020-05-28-https-原理分析---带着疑问层层深入](https://www.ershicimi.com/p/a9ece58a2abf36273cd30c5f448cba11) 

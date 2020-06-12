@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1079,6 +1079,10 @@
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-06-11-“我那个工资5000的程序员朋友，三年存下了50万”](https://www.ershicimi.com/p/a36d5da6acb9abbf677a9e4b5298b0a6) 
+- [2020-06-11-可扩展的前端----常见模式](https://www.ershicimi.com/p/0764fef6c6ec72b65c421d41a917a910) 
+- [2020-06-10-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/27bb74d90f50412d5f2c4be94637d4f7) 
+- [2020-06-10-可扩展的前端----架构基础](https://www.ershicimi.com/p/b5e382c514e535cb8ba8ab4e45017a10) 
 - [2020-06-09-作用域与闭包---最简解释器实现](https://www.ershicimi.com/p/d928abf90570a9c197831a56962542d8) 
 - [2020-06-08-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/e37b4bff894c51d3ee78f9cdec998477) 
 - [2020-06-05-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/4e386a5781da55e5f7a929753f9bf09f) 

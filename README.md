@@ -11,26 +11,26 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 13:00:20，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 13:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-墨西哥新增4790例新冠肺炎确诊病例-累计超13万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-智利新冠肺炎确诊人数超过15万-政府向困难家庭发放补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-阿根廷新增1386例新冠肺炎确诊病例-全国仅一省尚未发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1) ![](assets/new.png)  
 - [2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1)  
 - [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598)  
 - [2020-06-12-上海11日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1)  
 - [2020-06-11-印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1)  
 - [2020-06-11-世卫组织：全球新冠肺炎确诊病例超过727万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1)  
-- [2020-06-11-美国首次申请失业救济人数仍在高位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIlP75Da8V0C9B01UOnJj200611&isfromapp=1)  
-- [2020-06-11-非洲新冠肺炎确诊病例逼近21万，面临经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BKmjmmyWpgbV1wzswE2200611&isfromapp=1)  
-- [2020-06-11-世卫组织：全球新冠肺炎确诊病例超725万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinTbTeZIAd8OaJrax3Wyc200611&isfromapp=1)  
-- [2020-06-11-北京新增确诊病例的两名密接者核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1)  
-- [2020-06-11-联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息](https://m.weibo.cn/3057540037/4514656913274943)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,10 +281,10 @@
 </summary>
 
 
-- [2020-06-12-10个Vue开发技巧](https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993) ![](assets/new.png)  
-- [2020-06-11-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/91661a7fc643a772bcf89017c136f923) ![](assets/new.png)  
-- [2020-06-11-高效的编码：我的VS-Code设置](https://www.ershicimi.com/p/b6e8636caa6c7ac93fa7224bbd397944) ![](assets/new.png)  
-- [2020-06-10-卧槽！当当网又又又可以-4-折买书了！！跟我一起薅羊毛了！](https://www.ershicimi.com/p/d7dc8e3fd05213826c5d21abdb61df53) ![](assets/new.png)  
+- [2020-06-12-10个Vue开发技巧](https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993)  
+- [2020-06-11-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/91661a7fc643a772bcf89017c136f923)  
+- [2020-06-11-高效的编码：我的VS-Code设置](https://www.ershicimi.com/p/b6e8636caa6c7ac93fa7224bbd397944)  
+- [2020-06-10-卧槽！当当网又又又可以-4-折买书了！！跟我一起薅羊毛了！](https://www.ershicimi.com/p/d7dc8e3fd05213826c5d21abdb61df53)  
 - [2020-06-09-前端真的有资深工程师吗？](https://www.ershicimi.com/p/d246cf2ef0ff50a3d518129bc922de7d)  
 - [2020-06-09-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/dc8da15e31b965a016b5cc233a550d21)  
 - [2020-06-08-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/2c8cfe484eef173e8757936716918a06)  
@@ -406,6 +406,11 @@
 </summary>
 
 
+- [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5) ![](assets/new.png)  
+- [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782) ![](assets/new.png)  
+- [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c) ![](assets/new.png)  
+- [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd) ![](assets/new.png)  
+- [2020-06-10-编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74) ![](assets/new.png)  
 - [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f)  
 - [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6)  
 - [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)  
@@ -421,11 +426,6 @@
 - [2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9)  
 - [2020-06-02-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185)  
 - [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3)  
-- [2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f)  
-- [2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516)  
-- [2020-05-30-前端周报：微软新品被指剽窃，开源项目宣告终结；全球仅-10%开发者从不加班；七成-Chromium](https://www.ershicimi.com/p/072b363402a5a3398779c02ddc981352)  
-- [2020-05-30-数十年变革，技术给我们带来了什么？|-中国技术力量特别策划](https://www.ershicimi.com/p/ced8ad44398a06d5dc2139bb288b061b)  
-- [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,9 +468,9 @@
 </summary>
 
 
-- [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52) ![](assets/new.png)  
-- [2020-06-10-剖析-Vue3.0-框架及源码](https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663) ![](assets/new.png)  
-- [2020-06-10-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7) ![](assets/new.png)  
+- [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52)  
+- [2020-06-10-剖析-Vue3.0-框架及源码](https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663)  
+- [2020-06-10-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7)  
 - [2020-06-09-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249)  
 - [2020-06-08-改善CSS的10种最佳做法](https://www.ershicimi.com/p/44eeb58a40a8f2d0eb5598c3ab50b91b)  
 - [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5)  
@@ -1090,26 +1090,26 @@
 </summary>
 
 
-- [2020-06-12-程序员摆地摊到底该卖什么？|-码农周刊第-309-期](https://toutiao.io/k/ipzx355) ![](assets/new.png)  
-- [2020-06-12-为什么数据库不应该使用外键](https://toutiao.io/k/7rytvnu) ![](assets/new.png)  
-- [2020-06-12-无异常日志，就不能排查问题了？](https://toutiao.io/k/g16u928) ![](assets/new.png)  
-- [2020-06-12-计算机视觉经典书籍推荐](https://toutiao.io/k/ne5wdik) ![](assets/new.png)  
-- [2020-06-12-吐血整理：机器学习的-30-个基本概念，都在这里了（手绘图解）](https://toutiao.io/k/4ym2gk3) ![](assets/new.png)  
-- [2020-06-12-恕我直言，我怀疑你并不会用-Java-枚举](https://toutiao.io/k/1kluxcl) ![](assets/new.png)  
-- [2020-06-12-RocketMQ-很慢？引出了一个未解之谜](https://toutiao.io/k/on8p6pf) ![](assets/new.png)  
-- [2020-06-12-Spring-Cloud-Alibaba（六）：Spring-Cloud-Alibaba-Sentinel-实现限流降级](https://toutiao.io/k/11skuj8) ![](assets/new.png)  
-- [2020-06-12-理解贝叶斯优化](https://toutiao.io/k/29xvvte) ![](assets/new.png)  
-- [2020-06-12-Java-并发编程那些事儿（八）：死锁](https://toutiao.io/k/5pr9ify) ![](assets/new.png)  
-- [2020-06-12-被迫重构代码，这次我干掉了-if-else](https://toutiao.io/k/dlzvi2o) ![](assets/new.png)  
-- [2020-06-12-4-年-Kylin-老玩家，汽车之家最佳实践大揭秘](https://toutiao.io/k/8hmct0f) ![](assets/new.png)  
-- [2020-06-12-如何-5-分钟零代码实现豆瓣小组爬虫](https://toutiao.io/k/i71k5nn) ![](assets/new.png)  
-- [2020-06-12-WebAssembly-简介及原理](https://toutiao.io/k/ldjp4jh) ![](assets/new.png)  
-- [2020-06-12-iOS-隐形水印之-LSB-实现](https://toutiao.io/k/bs4bv49) ![](assets/new.png)  
-- [2020-06-12-Java-异步的-2-种方式分析](https://toutiao.io/k/3sylp2g) ![](assets/new.png)  
-- [2020-06-12-HBase-不停机升级在滴滴的实践](https://toutiao.io/k/21hio9s) ![](assets/new.png)  
-- [2020-06-12-PBFT-共识算法](https://toutiao.io/k/b3ttx6v) ![](assets/new.png)  
-- [2020-06-12-将-Flutter-集成到现有项目（iOS---Framework-篇）](https://toutiao.io/k/4c0vc5v) ![](assets/new.png)  
-- [2020-06-12-Golang-语言之字符串操作](https://toutiao.io/k/hzy29pi) ![](assets/new.png)  
+- [2020-06-12-程序员摆地摊到底该卖什么？|-码农周刊第-309-期](https://toutiao.io/k/ipzx355)  
+- [2020-06-12-为什么数据库不应该使用外键](https://toutiao.io/k/7rytvnu)  
+- [2020-06-12-无异常日志，就不能排查问题了？](https://toutiao.io/k/g16u928)  
+- [2020-06-12-计算机视觉经典书籍推荐](https://toutiao.io/k/ne5wdik)  
+- [2020-06-12-吐血整理：机器学习的-30-个基本概念，都在这里了（手绘图解）](https://toutiao.io/k/4ym2gk3)  
+- [2020-06-12-恕我直言，我怀疑你并不会用-Java-枚举](https://toutiao.io/k/1kluxcl)  
+- [2020-06-12-RocketMQ-很慢？引出了一个未解之谜](https://toutiao.io/k/on8p6pf)  
+- [2020-06-12-Spring-Cloud-Alibaba（六）：Spring-Cloud-Alibaba-Sentinel-实现限流降级](https://toutiao.io/k/11skuj8)  
+- [2020-06-12-理解贝叶斯优化](https://toutiao.io/k/29xvvte)  
+- [2020-06-12-Java-并发编程那些事儿（八）：死锁](https://toutiao.io/k/5pr9ify)  
+- [2020-06-12-被迫重构代码，这次我干掉了-if-else](https://toutiao.io/k/dlzvi2o)  
+- [2020-06-12-4-年-Kylin-老玩家，汽车之家最佳实践大揭秘](https://toutiao.io/k/8hmct0f)  
+- [2020-06-12-如何-5-分钟零代码实现豆瓣小组爬虫](https://toutiao.io/k/i71k5nn)  
+- [2020-06-12-WebAssembly-简介及原理](https://toutiao.io/k/ldjp4jh)  
+- [2020-06-12-iOS-隐形水印之-LSB-实现](https://toutiao.io/k/bs4bv49)  
+- [2020-06-12-Java-异步的-2-种方式分析](https://toutiao.io/k/3sylp2g)  
+- [2020-06-12-HBase-不停机升级在滴滴的实践](https://toutiao.io/k/21hio9s)  
+- [2020-06-12-PBFT-共识算法](https://toutiao.io/k/b3ttx6v)  
+- [2020-06-12-将-Flutter-集成到现有项目（iOS---Framework-篇）](https://toutiao.io/k/4c0vc5v)  
+- [2020-06-12-Golang-语言之字符串操作](https://toutiao.io/k/hzy29pi)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

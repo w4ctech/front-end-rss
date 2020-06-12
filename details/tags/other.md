@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1) 
+- [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1) 
 - [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598) 
 - [2020-06-12-阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1) 
 - [2020-06-12-巴西疫情“重灾区”圣保罗市重新开放购物中心-部分街区出现人群拥挤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1) 
@@ -1091,6 +1093,7 @@
 - [2019-12-18-SEE-Conf-大会邀请函-|-体验美好，玩转数据](https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486) 
 - [2019-12-16-准备好，力扣官方-App-来了！](https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab) 
 - [2019-12-10-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0) 
+- [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5) 
 - [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) 
 - [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46) 
 - [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) 

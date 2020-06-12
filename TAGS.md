@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-12 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 13:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -45,6 +45,7 @@
 - [【前端大全】2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e)
 - [【前端开发】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e)
 - [【前端大学】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5)
+- [【前端之巅】编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74)
 - [【前端之巅】前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)
 - [【前端之巅】跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7)
 - [【前端迷】redux原理解析，看这篇就够了](https://www.ershicimi.com/p/58f9295e2d55a5ece604c552e37fe058)
@@ -58,7 +59,6 @@
 - [【凹凸实验室】Nerv实战---京东首页改版小结](https://aotu.io/notes/2018/04/24/jdindex_2017/)
 - [【凹凸实验室】Nerv---京东高性能前端框架](https://aotu.io/notes/2018/03/22/nerv/)
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
-- [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -459,6 +459,8 @@
 - [【前端早读课】【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64)
 - [【前端大全】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5)
 - [【前端开发】前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f)
+- [【前端之巅】日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)
+- [【前端之巅】​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端宇宙】如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
@@ -474,8 +476,6 @@
 - [【互联网架构师】为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd)
 - [【互联网架构师】代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496)
 - [【互联网架构师】不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6)
-- [【掘金前端】如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5)
-- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

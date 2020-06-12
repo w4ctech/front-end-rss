@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 13:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-12 13:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,11 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-墨西哥新增4790例新冠肺炎确诊病例-累计超13万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-智利新冠肺炎确诊人数超过15万-政府向困难家庭发放补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-阿根廷新增1386例新冠肺炎确诊病例-全国仅一省尚未发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-上海11日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1) 
@@ -421,6 +426,11 @@
 - [【前端大学】2020-06-02-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684) 
 - [【前端大学】2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 
 - [【前端大学】2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e) 
+- [【前端之巅】2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5) 
+- [【前端之巅】2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782) 
+- [【前端之巅】2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c) 
+- [【前端之巅】2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd) 
+- [【前端之巅】2020-06-10-编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74) 
 - [【前端之巅】2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f) 
 - [【前端之巅】2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6) 
 - [【前端之巅】2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -10,6 +10,8 @@
 - [2020-05-30-【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64) 
 - [2020-05-27-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5) 
 - [2020-05-30-前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f) 
+- [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782) 
+- [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c) 
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb) 
 - [2020-06-08-如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 

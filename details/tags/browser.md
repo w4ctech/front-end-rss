@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,6 +10,7 @@
 - [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://china.caixin.com/2020-04-13/101541775.html) 
 - [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://china.caixin.com/2020-02-07/101512825.html) 
+- [2020-06-12-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/e1a7d93229307417d98f850f89d2a543) 
 - [2020-05-26-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74) 
 - [2020-05-19-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/14124a97b8d900faf7e480160ca51d96) 
 - [2020-06-06-手写一个WebSocket协议-7000字](https://www.ershicimi.com/p/3812a70a0a806c2648e4b6a27e1d780e) 

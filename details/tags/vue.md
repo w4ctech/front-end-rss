@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -26,6 +26,8 @@
 - [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443) 
 - [2020-05-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56) 
 - [2020-06-12-【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873) 
+- [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/bb263461b38696a14d5693bc398059ec) 
+- [2020-06-09-走进-Vue-3.0-vs-Vue-2.0-的性能PK](https://www.ershicimi.com/p/0c10004172129408ed7e8749451c9962) 
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832) 
 - [2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3) 
 - [2020-05-27-前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465) 
@@ -44,6 +46,7 @@
 - [2020-05-24-【纯干货】Vue仿蘑菇街商城项目vue+koa+mongodb）](https://www.ershicimi.com/p/df14669b76bd3ee2124a3095061c087f) 
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe) 
+- [2020-06-11-动手实践去实现-Vue-2.0-的核心原理](https://www.ershicimi.com/p/1bd715c468d871ba7e4eeee378904a88) 
 - [2020-06-09-vue后台项目中遇到的技术难点以及解决方案](https://www.ershicimi.com/p/894b6d6e98a72611f0e66b55ef8ad512) 
 - [2020-06-05-Vue-项目性能优化实践](https://www.ershicimi.com/p/81a808d4f44cade8044ae348c4562d38) 
 - [2020-05-28-请你说说-Vue-中-slot-和-slot-scope-的原理](https://www.ershicimi.com/p/4b20987ec159b9176423bb752bce9f63) 

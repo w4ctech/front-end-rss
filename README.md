@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 19:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 20:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)  
+- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-​香港新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1)  
+- [2020-06-12-​香港新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1)  
 - [2020-06-12-北京通报6月12日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1)  
 - [2020-06-12-英国4月份经济下降20.4%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1)  
 - [2020-06-12-天津12日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1)  
@@ -499,6 +499,7 @@
 </summary>
 
 
+- [2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) ![](assets/new.png)  
 - [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)  
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a)  
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)  
@@ -903,11 +904,11 @@
 </summary>
 
 
-- [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21) ![](assets/new.png)  
-- [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4) ![](assets/new.png)  
-- [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0) ![](assets/new.png)  
-- [2020-06-12-【踩坑】微信端vue+vant+better-scroll-，目前基本填平欢迎讨论~](https://juejin.im/post/5ee33c90e51d45789e0da430) ![](assets/new.png)  
-- [2020-06-12-Angular-HttpClient-30分钟轻松上手](https://juejin.im/post/5ee344586fb9a0479673478e) ![](assets/new.png)  
+- [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
+- [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  
+- [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0)  
+- [2020-06-12-【踩坑】微信端vue+vant+better-scroll-，目前基本填平欢迎讨论~](https://juejin.im/post/5ee33c90e51d45789e0da430)  
+- [2020-06-12-Angular-HttpClient-30分钟轻松上手](https://juejin.im/post/5ee344586fb9a0479673478e)  
 - [2020-06-10-手把手带你撸个属于自己react项目|webpack+babel+typescript+eslint](https://juejin.im/post/5ee0e6e0e51d4510a178a3eb)  
 - [2020-06-10-Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8)  
 - [2020-06-10-2020前端春招面经总结！](https://juejin.im/post/5ee09789518825430b3083db)  

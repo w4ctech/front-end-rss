@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 23:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 23:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -32,11 +32,11 @@
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
-- [前端宇宙](#前端宇宙)![](assets/dot.png)   
+- [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -524,9 +524,9 @@
 </summary>
 
 
-- [2020-06-12-VS-Code为什么能这么牛？](https://www.ershicimi.com/p/bcc24bee903ade3fff3a32b7310b418c) ![](assets/new.png)  
-- [2020-06-11-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/9d7ed25457a43336b88269a24084bf47) ![](assets/new.png)  
-- [2020-06-10-在大公司做程序员-vs-在小公司做程序员](https://www.ershicimi.com/p/22c51d1f1df1d757766ac9da1e7092ff) ![](assets/new.png)  
+- [2020-06-12-VS-Code为什么能这么牛？](https://www.ershicimi.com/p/bcc24bee903ade3fff3a32b7310b418c)  
+- [2020-06-11-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/9d7ed25457a43336b88269a24084bf47)  
+- [2020-06-10-在大公司做程序员-vs-在小公司做程序员](https://www.ershicimi.com/p/22c51d1f1df1d757766ac9da1e7092ff)  
 - [2020-06-09-5分钟教你使用console.log发布公司的招聘信息](https://www.ershicimi.com/p/f607f701c77fc2809d474ac097cd02c6)  
 - [2020-06-08-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/baa3337b315e47ac8932927c08b26459)  
 - [2020-06-08-如何进行-web-性能监控-？](https://www.ershicimi.com/p/11882e86ea682fa51214bff82cbef2df)  
@@ -643,6 +643,7 @@
 </summary>
 
 
+- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  

@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "北京通报6月12日新增2例新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "英国4月份经济下降20.4%",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
         "title": "天津12日通报：新增1例境外输入新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1",
         "date": "2020-06-12"
@@ -23512,6 +23522,26 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "容器化技术在数据中心的实践 (www.upyun.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "颠倒图片的凶手就是！ (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "如何为 Ghost 博客添加归档页 (quickapp.lovejade.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "一项改变游戏规则的技术 - Flutter (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-12"
+      },
       {
         "title": "JDK8在泛型类型推导上的变化 (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

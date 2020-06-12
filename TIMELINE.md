@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-12 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-北京通报6月12日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-英国4月份经济下降20.4%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-天津12日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1) 
@@ -2434,6 +2436,10 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-12-如何为-Ghost-博客添加归档页-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-12-一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-09-JDK8在泛型类型推导上的变化-club.perfma.com](https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

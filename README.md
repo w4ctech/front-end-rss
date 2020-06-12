@@ -11,25 +11,25 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 15:30:20，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 16:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -50,10 +50,10 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-12-北京通报6月12日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-英国4月份经济下降20.4%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1) ![](assets/new.png)  
 - [2020-06-12-天津12日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1)  
 - [2020-06-12-南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1)  
 - [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1)  
 - [2020-06-12-哥伦比亚累计45212例新冠肺炎确诊病例-首都重症监护床位占用率超过50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOgrLQPwd5sMlJtIGfVSI200612&isfromapp=1)  
 - [2020-06-12-秘鲁新冠肺炎确诊病例超过21万例-其中包括近万名警察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwd2m8eFu7zRYpi97ZkX5200612&isfromapp=1)  
-- [2020-06-12-瑞士日内瓦标志性大喷泉重新启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1)  
-- [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -250,13 +250,13 @@
 </summary>
 
 
-- [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/bb263461b38696a14d5693bc398059ec) ![](assets/new.png)  
-- [2020-06-12-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/e1a7d93229307417d98f850f89d2a543) ![](assets/new.png)  
-- [2020-06-11-你不知道的-Blob](https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3) ![](assets/new.png)  
-- [2020-06-10-前端越来越后端化，工程化？2020-年你到底需要注意些什么？](https://www.ershicimi.com/p/259c423144e24ee5cbe99483f0db6578) ![](assets/new.png)  
-- [2020-06-10-了不起的-tsconfig.json-指南](https://www.ershicimi.com/p/4cd32f4ea9fed32062262e5042053234) ![](assets/new.png)  
-- [2020-06-09-走进-Vue-3.0-vs-Vue-2.0-的性能PK](https://www.ershicimi.com/p/0c10004172129408ed7e8749451c9962) ![](assets/new.png)  
-- [2020-06-09-前端如何在项目中做出亮点](https://www.ershicimi.com/p/e7945eb4e8181e0cb16fb3d027c1e44c) ![](assets/new.png)  
+- [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/bb263461b38696a14d5693bc398059ec)  
+- [2020-06-12-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/e1a7d93229307417d98f850f89d2a543)  
+- [2020-06-11-你不知道的-Blob](https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3)  
+- [2020-06-10-前端越来越后端化，工程化？2020-年你到底需要注意些什么？](https://www.ershicimi.com/p/259c423144e24ee5cbe99483f0db6578)  
+- [2020-06-10-了不起的-tsconfig.json-指南](https://www.ershicimi.com/p/4cd32f4ea9fed32062262e5042053234)  
+- [2020-06-09-走进-Vue-3.0-vs-Vue-2.0-的性能PK](https://www.ershicimi.com/p/0c10004172129408ed7e8749451c9962)  
+- [2020-06-09-前端如何在项目中做出亮点](https://www.ershicimi.com/p/e7945eb4e8181e0cb16fb3d027c1e44c)  
 - [2020-06-08-同样是-3-年经验，为什么有的人就是资深开发？](https://www.ershicimi.com/p/4ffc9c2394b3af41b991573cbe850a93)  
 - [2020-06-08-前端常用-60-余种工具方法](https://www.ershicimi.com/p/b382ea8c45e22b6de1364165d41711cb)  
 - [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2)  
@@ -437,10 +437,10 @@
 </summary>
 
 
-- [2020-06-12-SVG实现一个优雅的提示框](https://www.ershicimi.com/p/6c7744fd096514cdb6b48f0f2151108e) ![](assets/new.png)  
-- [2020-06-11-动手实践去实现-Vue-2.0-的核心原理](https://www.ershicimi.com/p/1bd715c468d871ba7e4eeee378904a88) ![](assets/new.png)  
-- [2020-06-10-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/9e7d349329e3841372853d9e3b84c0b3) ![](assets/new.png)  
-- [2020-06-10-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6) ![](assets/new.png)  
+- [2020-06-12-SVG实现一个优雅的提示框](https://www.ershicimi.com/p/6c7744fd096514cdb6b48f0f2151108e)  
+- [2020-06-11-动手实践去实现-Vue-2.0-的核心原理](https://www.ershicimi.com/p/1bd715c468d871ba7e4eeee378904a88)  
+- [2020-06-10-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/9e7d349329e3841372853d9e3b84c0b3)  
+- [2020-06-10-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6)  
 - [2020-06-09-vue后台项目中遇到的技术难点以及解决方案](https://www.ershicimi.com/p/894b6d6e98a72611f0e66b55ef8ad512)  
 - [2020-06-08-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6fb10b91a7852b05406dea9248568d4d)  
 - [2020-06-08-vite-的启动链路以及背后的部分原理](https://www.ershicimi.com/p/3f73e23cee5bb0b77a7c9e6d2f488b3f)  
@@ -997,16 +997,16 @@
 </summary>
 
 
-- [2020-06-11-这个存在了-300-年的瘦身骗术，求求你别再相信了](https://www.ershicimi.com/p/bdb59317bea2356ac33302e938d317fb) ![](assets/new.png)  
-- [2020-06-11-导演的水平会影响演员的演技吗？](https://www.ershicimi.com/p/de747e096ab11f025b1dae7c23a18db7) ![](assets/new.png)  
-- [2020-06-11-地铁上的上班族都在看什么？](https://www.ershicimi.com/p/154cd1c76020a0069f2aaa6bb0ec4dcc) ![](assets/new.png)  
-- [2020-06-11-知乎故事-|-青梅竹马真的能在一起吗？](https://www.ershicimi.com/p/e9bdab0237738a917de432f19cae19c4) ![](assets/new.png)  
-- [2020-06-10-那些只有资深从业者才知道的「行业内幕」，第一个就颠覆认知](https://www.ershicimi.com/p/b0d06182f74f2f3389fdc6b1ad1143ce) ![](assets/new.png)  
-- [2020-06-10-为什么只有人类在吃东西的时候需要另外加盐？](https://www.ershicimi.com/p/39cd22213be154076e6a28e0eef54d3e) ![](assets/new.png)  
-- [2020-06-10-网友分享最细思极恐的几个小故事……](https://www.ershicimi.com/p/b648c0b0d30e9c696882253b543b57f7) ![](assets/new.png)  
-- [2020-06-10-知乎故事-|-贫贱夫妻百事哀能哀到什么地步？](https://www.ershicimi.com/p/8fdbc3bc22ff9fd65a0b53196bbd2437) ![](assets/new.png)  
-- [2020-06-09-在学校「一战成名」的体验，只有经历过的人才懂……](https://www.ershicimi.com/p/586c989c0fca59056364fce9557a27bc) ![](assets/new.png)  
-- [2020-06-09-为什么《让我们荡起双桨》有一种淡淡的哀伤？](https://www.ershicimi.com/p/5aa4cd208ca97e8efa93e7b57fdd9dfa) ![](assets/new.png)  
+- [2020-06-11-这个存在了-300-年的瘦身骗术，求求你别再相信了](https://www.ershicimi.com/p/bdb59317bea2356ac33302e938d317fb)  
+- [2020-06-11-导演的水平会影响演员的演技吗？](https://www.ershicimi.com/p/de747e096ab11f025b1dae7c23a18db7)  
+- [2020-06-11-地铁上的上班族都在看什么？](https://www.ershicimi.com/p/154cd1c76020a0069f2aaa6bb0ec4dcc)  
+- [2020-06-11-知乎故事-|-青梅竹马真的能在一起吗？](https://www.ershicimi.com/p/e9bdab0237738a917de432f19cae19c4)  
+- [2020-06-10-那些只有资深从业者才知道的「行业内幕」，第一个就颠覆认知](https://www.ershicimi.com/p/b0d06182f74f2f3389fdc6b1ad1143ce)  
+- [2020-06-10-为什么只有人类在吃东西的时候需要另外加盐？](https://www.ershicimi.com/p/39cd22213be154076e6a28e0eef54d3e)  
+- [2020-06-10-网友分享最细思极恐的几个小故事……](https://www.ershicimi.com/p/b648c0b0d30e9c696882253b543b57f7)  
+- [2020-06-10-知乎故事-|-贫贱夫妻百事哀能哀到什么地步？](https://www.ershicimi.com/p/8fdbc3bc22ff9fd65a0b53196bbd2437)  
+- [2020-06-09-在学校「一战成名」的体验，只有经历过的人才懂……](https://www.ershicimi.com/p/586c989c0fca59056364fce9557a27bc)  
+- [2020-06-09-为什么《让我们荡起双桨》有一种淡淡的哀伤？](https://www.ershicimi.com/p/5aa4cd208ca97e8efa93e7b57fdd9dfa)  
 - [2020-06-08-我听过最糟糕的育儿建议：他还是个孩子](https://www.ershicimi.com/p/53b5773763356cc1f83f3cbfd87c7ac2)  
 - [2020-06-08-盘点母乳中的神奇物质，妈妈必看](https://www.ershicimi.com/p/4edfd87569b1dfb4469caf341946f0ad)  
 - [2020-06-08-你知道咸蛋是什么鸡生的吗？](https://www.ershicimi.com/p/82c90215bdd0a1c0112d7008fb49e2e4)  
@@ -1059,6 +1059,10 @@
 </summary>
 
 
+- [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-12-如何为-Ghost-博客添加归档页-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-12-一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-09-JDK8在泛型类型推导上的变化-club.perfma.com](https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1075,10 +1079,6 @@
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-04-从此免费看-VIP-视频！用-Python-爬虫攻破-VIP-防线-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13499&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSq1Hvmw7UgFjBCWTqqq22A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-04-为啥程序员下班后只关显示器从不关电脑？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13498&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmX-IGacmDKsFTOvhKKFeNw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-04-以深度学习为例理解22种设计模式（二）结构型模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13497&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-2-structural-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-02-分享一个新出炉的JVM里不痛不痒的BUGAttach机制相关-club.perfma.com](https://blogread.cn/news/go.php?idItem=13496&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F671637%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,10 +1090,10 @@
 </summary>
 
 
-- [2020-06-12-熬夜之作：一文带你了解-Cat-分布式监控](https://toutiao.io/k/oswj2ss) ![](assets/new.png)  
-- [2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1) ![](assets/new.png)  
-- [2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu) ![](assets/new.png)  
-- [2020-06-12-Spring-自定义事件](https://toutiao.io/k/y3zrwr8) ![](assets/new.png)  
+- [2020-06-12-熬夜之作：一文带你了解-Cat-分布式监控](https://toutiao.io/k/oswj2ss)  
+- [2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1)  
+- [2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu)  
+- [2020-06-12-Spring-自定义事件](https://toutiao.io/k/y3zrwr8)  
 - [2020-06-12-程序员摆地摊到底该卖什么？|-码农周刊第-309-期](https://toutiao.io/k/ipzx355)  
 - [2020-06-12-为什么数据库不应该使用外键](https://toutiao.io/k/7rytvnu)  
 - [2020-06-12-无异常日志，就不能排查问题了？](https://toutiao.io/k/g16u928)  

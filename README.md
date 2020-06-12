@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,12 @@
 </summary>
 
 
-- [2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-哥伦比亚累计45212例新冠肺炎确诊病例-首都重症监护床位占用率超过50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOgrLQPwd5sMlJtIGfVSI200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-秘鲁新冠肺炎确诊病例超过21万例-其中包括近万名警察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwd2m8eFu7zRYpi97ZkX5200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-瑞士日内瓦标志性大喷泉重新启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-中国驻利比里亚使馆向在利华人华侨发放“健康包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1) ![](assets/new.png)  
+- [2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1)  
+- [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1)  
+- [2020-06-12-哥伦比亚累计45212例新冠肺炎确诊病例-首都重症监护床位占用率超过50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOgrLQPwd5sMlJtIGfVSI200612&isfromapp=1)  
+- [2020-06-12-秘鲁新冠肺炎确诊病例超过21万例-其中包括近万名警察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwd2m8eFu7zRYpi97ZkX5200612&isfromapp=1)  
+- [2020-06-12-瑞士日内瓦标志性大喷泉重新启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1)  
 - [2020-06-11-国家卫健委：发热门诊就诊患者必须进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1)  
 - [2020-06-11-印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1)  
 - [2020-06-11-世卫组织：全球新冠肺炎确诊病例超过727万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-11-上海新增6例境外输入](https://m.weibo.cn/3057540037/4514577625139584)  
 - [2020-06-11-用电数据变化看经济-湖北5月用电量同比增速由负转正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1)  
 - [2020-06-11-疫情后期逆势增长-5月我国快递业务量同比增长超四成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1)  
-- [2020-06-11-微视频丨率先解禁！突尼斯发布防疫短片重启旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

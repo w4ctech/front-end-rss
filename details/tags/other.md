@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-12-中国驻利比里亚使馆向在利华人华侨发放“健康包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1) 
 - [2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1) 
 - [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1) 
 - [2020-06-12-瑞士日内瓦标志性大喷泉重新启动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 02:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -45,14 +45,14 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [JavaScript](#javascript)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-13-巴西累计确诊病例逾82万例-死亡人数居世界第二](https://m.weibo.cn/3057540037/4515249375784265) ![](assets/new.png)  
+- [2020-06-13-​新冠肺炎疫情危机或使全球赤贫人口增至11亿](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00meQmK1c2B26Nx5EygK200613&isfromapp=1) ![](assets/new.png)  
 - [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1)  
 - [2020-06-12-​香港新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1)  
 - [2020-06-12-北京通报6月12日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-12-阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1)  
 - [2020-06-12-巴西疫情“重灾区”圣保罗市重新开放购物中心-部分街区出现人群拥挤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1)  
 - [2020-06-12-中国驻利比里亚使馆向在利华人华侨发放“健康包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1)  
-- [2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1)  
-- [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -877,6 +877,9 @@
 </summary>
 
 
+- [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727) ![](assets/new.png)  
+- [2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c) ![](assets/new.png)  
+- [2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a) ![](assets/new.png)  
 - [2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457)  
 - [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90)  
 - [2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a)  
@@ -905,7 +908,7 @@
 </summary>
 
 
-- [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7) ![](assets/new.png)  
+- [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7)  
 - [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  
 - [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0)  
@@ -1061,7 +1064,7 @@
 </summary>
 
 
-- [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-如何为-Ghost-博客添加归档页-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

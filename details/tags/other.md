@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-13-巴西累计确诊病例逾82万例-死亡人数居世界第二](https://m.weibo.cn/3057540037/4515249375784265) 
 - [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1) 
 - [2020-06-12-英国4月份经济下降20.4%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1) 
 - [2020-06-12-南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1) 
@@ -1384,6 +1385,7 @@
 - [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) 
 - [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) 
 - [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
+- [2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c) 
 - [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90) 
 - [2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [2020-05-30-前端常用60余种工具方法](https://www.ershicimi.com/p/d2ddc63cc8d1cd8a92453143c976740f) 

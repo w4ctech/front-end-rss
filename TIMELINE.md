@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 02:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-13 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-13-巴西累计确诊病例逾82万例-死亡人数居世界第二](https://m.weibo.cn/3057540037/4515249375784265) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-13-​新冠肺炎疫情危机或使全球赤贫人口增至11亿](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00meQmK1c2B26Nx5EygK200613&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-​香港新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-北京通报6月12日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1) 
@@ -681,6 +683,9 @@
 - [【InfoQ】2020-06-01-开扒-SpaceX-飞船技术栈，程序员搞了个-3D-版飞船生成器过瘾](https://www.ershicimi.com/p/a56dc386185d1d7c9c2f5e7f2463de64) 
 - [【InfoQ】2020-06-01-连微服务都没经历，直接上中台，可行么？|-ArchSummit](https://www.ershicimi.com/p/a60427088a6041610887a1c5a29d8acf) 
 - [【InfoQ】2020-06-01-从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1) 
+- [【JavaScript】2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727) 
+- [【JavaScript】2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c) 
+- [【JavaScript】2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a) 
 - [【JavaScript】2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457) 
 - [【JavaScript】2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90) 
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 

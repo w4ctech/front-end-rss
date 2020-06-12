@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -67,6 +67,8 @@
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a) 
+- [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727) 
+- [2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
 - [2020-06-12-【踩坑】微信端vue+vant+better-scroll-，目前基本填平欢迎讨论~](https://juejin.im/post/5ee33c90e51d45789e0da430) 
 - [2020-06-10-解析vue双向绑定原理](https://juejin.im/post/5ee045fbf265da76d85d1dce) 

@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-06-09 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-12-阿里、字节跳动们“搭台”，罗永浩、董明珠们“唱戏”](https://www.ershicimi.com/p/1e3fbd10ea2164a5b9c79a74de26e6c9) 
+- [2020-06-12-TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d) 
+- [2020-06-12-用创新改变世界，华为昇腾重新定义AI开发体验-|-Q推荐](https://www.ershicimi.com/p/045128284238d5c0c12b960efa049610) 
+- [2020-06-12-怎样优化一个-Go-服务以减少-40%-的-CPU-使用率？](https://www.ershicimi.com/p/de92b8c9d8bd0a218af67081e9520b14) 
+- [2020-06-11-字节跳动禁止中国员工访问海外产品代码库，“内外有别”保平安？](https://www.ershicimi.com/p/b491ec2822cfd26416cd83e7a6ef3146) 
+- [2020-06-11-清凉一夏，AirPods/雷蛇鼠标免费派送中！|-InfoQ-感恩回馈](https://www.ershicimi.com/p/2ae99ef4deb51e80d0910e5ca4603ad7) 
+- [2020-06-11-3年经验程序员，成长速度如何超越-80%-的同龄人？](https://www.ershicimi.com/p/2773a58c25e4bce2a9f57becee0026e5) 
+- [2020-06-11-2020年-DevOps-领域值得推荐的工具](https://www.ershicimi.com/p/f8a2fdbb0d5783f7cd951c8b1bd9d360) 
+- [2020-06-11-为什么你的服务会变慢？](https://www.ershicimi.com/p/9d3351e6ce96abbc57c404de1364abc2) 
+- [2020-06-10-见证历史：“blacklist”等表述将逐渐从源代码中消失！](https://www.ershicimi.com/p/d7898c35c7d130da56c080ff6d92f5fd) 
 - [2020-06-08-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/8afa59b780a425cf27f47a8e71bd6f9a) 
 - [2020-06-08-何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a) 
 - [2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38) 

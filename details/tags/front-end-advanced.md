@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 02:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -85,6 +85,7 @@
 - [2020-05-29-杭州-内推有红包🧧海拍客急招算法专家、搜索专家](https://www.v2ex.com/t/676786) 
 - [2020-05-29-纯兴趣学习-web-开发，需要考虑算法问题吗？](https://www.v2ex.com/t/676627) 
 - [2020-05-29-北京/西安-中国移动研究院-内推社招-中国移动研究院社会招聘，前端、后端、大数据，产品、算法、架构师，职位众多，欢迎简历砸来！](https://www.v2ex.com/t/676559) 
+- [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-09-去你丫的算法！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13507&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81oZTWWkBwG7OUabUFJ9Dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-12-WebAssembly-简介及原理](https://toutiao.io/k/ldjp4jh) 

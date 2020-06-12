@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 02:00:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 02:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -905,6 +905,7 @@
 </summary>
 
 
+- [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7) ![](assets/new.png)  
 - [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  
 - [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0)  
@@ -924,7 +925,6 @@
 - [2020-06-09-关于浏览器的Cookie与Storage的细枝末节](https://juejin.im/post/5edf8941e51d45786672c36e)  
 - [2020-06-09-小白分享：基于vue-cli从零搭建一个Vue项目-Vcharts](https://juejin.im/post/5edf93646fb9a047ee4c5b4b)  
 - [2020-06-09-React-测试-+-Vue-测试-+-小程序测试](https://juejin.im/post/5edf887b51882542ee694d29)  
-- [2020-06-09-20个你值得了解的Angular开源项目](https://juejin.im/post/5edf916a6fb9a047e6080dd9)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -999,10 +999,10 @@
 </summary>
 
 
-- [2020-06-12-周杰伦这杯夏日特调-Mojito-，我先干了！](https://www.ershicimi.com/p/805961be0f4165276ae8a38ea587d75a) ![](assets/new.png)  
-- [2020-06-12-DNA-和-RNA-是什么味道的？](https://www.ershicimi.com/p/d54f50e2b4fbcf0e1d69bba44ca50c6b) ![](assets/new.png)  
-- [2020-06-12-分不清「外婆」与「姥姥」，就别想搞懂中国](https://www.ershicimi.com/p/73ed1ff4acb131933007765af396dab5) ![](assets/new.png)  
-- [2020-06-12-知乎故事-|-姐弟组合的家庭对姐姐的伤害能有多大？](https://www.ershicimi.com/p/d05f639d78f1fbf9ebc24297a2c46d46) ![](assets/new.png)  
+- [2020-06-12-周杰伦这杯夏日特调-Mojito-，我先干了！](https://www.ershicimi.com/p/805961be0f4165276ae8a38ea587d75a)  
+- [2020-06-12-DNA-和-RNA-是什么味道的？](https://www.ershicimi.com/p/d54f50e2b4fbcf0e1d69bba44ca50c6b)  
+- [2020-06-12-分不清「外婆」与「姥姥」，就别想搞懂中国](https://www.ershicimi.com/p/73ed1ff4acb131933007765af396dab5)  
+- [2020-06-12-知乎故事-|-姐弟组合的家庭对姐姐的伤害能有多大？](https://www.ershicimi.com/p/d05f639d78f1fbf9ebc24297a2c46d46)  
 - [2020-06-11-这个存在了-300-年的瘦身骗术，求求你别再相信了](https://www.ershicimi.com/p/bdb59317bea2356ac33302e938d317fb)  
 - [2020-06-11-导演的水平会影响演员的演技吗？](https://www.ershicimi.com/p/de747e096ab11f025b1dae7c23a18db7)  
 - [2020-06-11-地铁上的上班族都在看什么？](https://www.ershicimi.com/p/154cd1c76020a0069f2aaa6bb0ec4dcc)  
@@ -1030,26 +1030,26 @@
 </summary>
 
 
-- [2020-06-13-1Password-macOS-版本现在还有永久授权吗?](https://www.v2ex.com/t/681140) ![](assets/new.png)  
-- [2020-06-13-有没有游戏本的外置电源/UPS-推荐](https://www.v2ex.com/t/681139) ![](assets/new.png)  
-- [2020-06-13-请-v-友们帮我看看我定制的桌子价格划算吗！](https://www.v2ex.com/t/681138) ![](assets/new.png)  
-- [2020-06-13-Deskmini-310-黑苹果主机，请各位看看有什么问题](https://www.v2ex.com/t/681137) ![](assets/new.png)  
-- [2020-06-13-手机上怎么让-Gmail-正常发送最新通知](https://www.v2ex.com/t/681136) ![](assets/new.png)  
-- [2020-06-13-Chrome-终于走出这一步了……](https://www.v2ex.com/t/681135) ![](assets/new.png)  
-- [2020-06-13-一个关于-iconfont-的问题](https://www.v2ex.com/t/681133) ![](assets/new.png)  
-- [2020-06-13-一个纯-RN-项目，要改成和原生混合，难度和用原生重写有什么区别？](https://www.v2ex.com/t/681132) ![](assets/new.png)  
-- [2020-06-13-前端小白请教一个关于-React-多页面的问题](https://www.v2ex.com/t/681131) ![](assets/new.png)  
-- [2020-06-13-硬件白痴请教大家一个关于路由器的问题](https://www.v2ex.com/t/681129) ![](assets/new.png)  
-- [2020-06-13-HTTP-PATCH-的问题](https://www.v2ex.com/t/681127) ![](assets/new.png)  
-- [2020-06-12-遇到一个需要双向认证的-https-网站,请教如何导出客户端证书](https://www.v2ex.com/t/681126) ![](assets/new.png)  
-- [2020-06-12-问老哥们一个-go-gorm-的问题](https://www.v2ex.com/t/681125) ![](assets/new.png)  
-- [2020-06-12-深圳地铁和腾讯有啥交易？](https://www.v2ex.com/t/681123) ![](assets/new.png)  
-- [2020-06-12-多个文件移动到多个文件夹](https://www.v2ex.com/t/681121) ![](assets/new.png)  
-- [2020-06-12-光谷社区这个论坛怎么那么喜欢城市之争呢](https://www.v2ex.com/t/681120) ![](assets/new.png)  
-- [2020-06-12-使用-Kotlin-进行-Android-蓝牙通讯](https://www.v2ex.com/t/681118) ![](assets/new.png)  
-- [2020-06-12-一个困扰了很久的问题，服务器会导致的网页默认字体显示不同吗？](https://www.v2ex.com/t/681117) ![](assets/new.png)  
-- [2020-06-12-win10-极其呕心-计划任务-经常-被操作员拒绝-然后跑不了](https://www.v2ex.com/t/681116) ![](assets/new.png)  
-- [2020-06-12-为什么说现在组装电脑不合适？另外，卧式机箱求推荐？](https://www.v2ex.com/t/681115) ![](assets/new.png)  
+- [2020-06-13-1Password-macOS-版本现在还有永久授权吗?](https://www.v2ex.com/t/681140)  
+- [2020-06-13-有没有游戏本的外置电源/UPS-推荐](https://www.v2ex.com/t/681139)  
+- [2020-06-13-请-v-友们帮我看看我定制的桌子价格划算吗！](https://www.v2ex.com/t/681138)  
+- [2020-06-13-Deskmini-310-黑苹果主机，请各位看看有什么问题](https://www.v2ex.com/t/681137)  
+- [2020-06-13-手机上怎么让-Gmail-正常发送最新通知](https://www.v2ex.com/t/681136)  
+- [2020-06-13-Chrome-终于走出这一步了……](https://www.v2ex.com/t/681135)  
+- [2020-06-13-一个关于-iconfont-的问题](https://www.v2ex.com/t/681133)  
+- [2020-06-13-一个纯-RN-项目，要改成和原生混合，难度和用原生重写有什么区别？](https://www.v2ex.com/t/681132)  
+- [2020-06-13-前端小白请教一个关于-React-多页面的问题](https://www.v2ex.com/t/681131)  
+- [2020-06-13-硬件白痴请教大家一个关于路由器的问题](https://www.v2ex.com/t/681129)  
+- [2020-06-13-HTTP-PATCH-的问题](https://www.v2ex.com/t/681127)  
+- [2020-06-12-遇到一个需要双向认证的-https-网站,请教如何导出客户端证书](https://www.v2ex.com/t/681126)  
+- [2020-06-12-问老哥们一个-go-gorm-的问题](https://www.v2ex.com/t/681125)  
+- [2020-06-12-深圳地铁和腾讯有啥交易？](https://www.v2ex.com/t/681123)  
+- [2020-06-12-多个文件移动到多个文件夹](https://www.v2ex.com/t/681121)  
+- [2020-06-12-光谷社区这个论坛怎么那么喜欢城市之争呢](https://www.v2ex.com/t/681120)  
+- [2020-06-12-使用-Kotlin-进行-Android-蓝牙通讯](https://www.v2ex.com/t/681118)  
+- [2020-06-12-一个困扰了很久的问题，服务器会导致的网页默认字体显示不同吗？](https://www.v2ex.com/t/681117)  
+- [2020-06-12-win10-极其呕心-计划任务-经常-被操作员拒绝-然后跑不了](https://www.v2ex.com/t/681116)  
+- [2020-06-12-为什么说现在组装电脑不合适？另外，卧式机箱求推荐？](https://www.v2ex.com/t/681115)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1061,6 +1061,7 @@
 </summary>
 
 
+- [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-如何为-Ghost-博客添加归档页-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1080,7 +1081,6 @@
 - [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-04-在-Windows-上运行-Linux-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13500&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFBJy_JMVc5X4TaAutt46XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

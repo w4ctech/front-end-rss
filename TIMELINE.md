@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 02:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-13 02:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -686,6 +686,7 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7) 
 - [【掘金前端】2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21) 
 - [【掘金前端】2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4) 
 - [【掘金前端】2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0) 
@@ -2555,6 +2556,7 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-12-如何为-Ghost-博客添加归档页-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

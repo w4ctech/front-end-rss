@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "天津12日通报：新增1例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
         "title": "品牌强国行动丨益海嘉里：稳价保供支援战“疫” 加大力度投资中国",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1",
         "date": "2020-06-12"
@@ -6621,6 +6631,36 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "除了 Vue，前端开发还需掌握哪些核心能力？",
+        "link": "https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "19个前端开发人员的救生工具",
+        "link": "https://www.ershicimi.com/p/00e557a501656edaeed8ce0e5b972613",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "10+个很酷的VueJS组件，模板和实验示例",
+        "link": "https://www.ershicimi.com/p/783b0d2163f5d9f638e39a2861d16ce3",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "10个宝藏网站，你一定用的上",
+        "link": "https://www.ershicimi.com/p/693c60c8477b33f1f9bc85fd78bc748b",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "Vue最佳实践，你能举一反三么？",
+        "link": "https://www.ershicimi.com/p/c7de578c101f79a8ca81ecb98938e32e",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "前端工程师如何处理10万条数据",
+        "link": "https://www.ershicimi.com/p/b2a61184e9aeaff82d39661a22663588",
+        "date": "2020-06-10"
+      },
+      {
         "title": "蒋豪群: 聊聊Vue3 周边配套",
         "link": "https://www.ershicimi.com/p/238a2692041b19c4d8f70b2ab1a63029",
         "date": "2020-06-09"
@@ -6891,6 +6931,51 @@
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
+      {
+        "title": "【第1973期】SVG 图标制作指南",
+        "link": "https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "【视频】@蒋豪群：聊聊Vue3周边项目",
+        "link": "https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "【早读】20200612",
+        "link": "https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "【第1972期】可扩展的前端 -- 常见模式",
+        "link": "https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "【招聘】字节跳动 - 终端架构部门 - 前端工程师（社招/实习）",
+        "link": "https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "【第1971期】可扩展的前端 -- 架构基础",
+        "link": "https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "【招聘】百度智能办公团队招T5前端啦~",
+        "link": "https://www.ershicimi.com/p/76f274c10de5695677deee3b02f7e40f",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "如何用Echarts快速生成一张疫情地图？",
+        "link": "https://www.ershicimi.com/p/865ab4d3c88497503ec52f5ddfe7b954",
+        "date": "2020-06-09"
+      },
+      {
+        "title": "【第1970期】作用域与闭包 - 最简解释器实现",
+        "link": "https://www.ershicimi.com/p/b321236ebd274dbf87489491ae604b7d",
+        "date": "2020-06-09"
+      },
       {
         "title": "【第1969期】NutUI 视频组件开发心得",
         "link": "https://www.ershicimi.com/p/5f1bf8bbffb6309a0b3dc64e34298cf3",

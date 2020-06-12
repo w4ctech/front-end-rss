@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -18,6 +18,8 @@
 - [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) 
 - [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) 
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
+- [2020-06-11-【招聘】字节跳动---终端架构部门---前端工程师（社招/实习）](https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa) 
+- [2020-06-10-【招聘】百度智能办公团队招T5前端啦~](https://www.ershicimi.com/p/76f274c10de5695677deee3b02f7e40f) 
 - [2020-06-04-【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf) 
 - [2020-06-02-【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767) 
 - [2020-06-08-2020-高频前端面试题+答案](https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7) 

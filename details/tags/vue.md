@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,9 @@
 - [2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
 - [2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a) 
+- [2020-06-11-10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/783b0d2163f5d9f638e39a2861d16ce3) 
+- [2020-06-10-Vue最佳实践，你能举一反三么？](https://www.ershicimi.com/p/c7de578c101f79a8ca81ecb98938e32e) 
 - [2020-06-09-蒋豪群:-聊聊Vue3-周边配套](https://www.ershicimi.com/p/238a2692041b19c4d8f70b2ab1a63029) 
 - [2020-06-08-手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249) 
 - [2020-05-31-Vue-项目性能优化—实践指南（网上最全-/-详细）](https://www.ershicimi.com/p/65ddd0f9664b147ddacdaa2418fc966e) 
@@ -22,6 +25,7 @@
 - [2020-05-28-面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7) 
 - [2020-05-27-Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443) 
 - [2020-05-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56) 
+- [2020-06-12-【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873) 
 - [2020-06-04-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832) 
 - [2020-06-03-没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3) 
 - [2020-05-27-前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465) 

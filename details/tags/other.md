@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-12-南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1) 
 - [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1) 
 - [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1) 
 - [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598) 
@@ -1009,6 +1010,9 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-12-19个前端开发人员的救生工具](https://www.ershicimi.com/p/00e557a501656edaeed8ce0e5b972613) 
+- [2020-06-11-10个宝藏网站，你一定用的上](https://www.ershicimi.com/p/693c60c8477b33f1f9bc85fd78bc748b) 
+- [2020-06-10-前端工程师如何处理10万条数据](https://www.ershicimi.com/p/b2a61184e9aeaff82d39661a22663588) 
 - [2020-06-09-用好这7个VS-Code插件，效率蹭蹭涨](https://www.ershicimi.com/p/590d124690aa4dbda3b13898dba721f4) 
 - [2020-06-07-前端如何在项目中做出亮点](https://www.ershicimi.com/p/9f9f488126c5e59cf514c7e1222ff4d1) 
 - [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18) 
@@ -1034,6 +1038,11 @@
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) 
 - [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) 
+- [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6) 
+- [2020-06-11-【第1972期】可扩展的前端----常见模式](https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032) 
+- [2020-06-10-【第1971期】可扩展的前端----架构基础](https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed) 
+- [2020-06-09-如何用Echarts快速生成一张疫情地图？](https://www.ershicimi.com/p/865ab4d3c88497503ec52f5ddfe7b954) 
+- [2020-06-09-【第1970期】作用域与闭包---最简解释器实现](https://www.ershicimi.com/p/b321236ebd274dbf87489491ae604b7d) 
 - [2020-06-07-【第1968期】前端架构101：MVC启示录---模块的职责，作用域和通信](https://www.ershicimi.com/p/31d15aa86fbcfdf19ba77d74d9d47405) 
 - [2020-06-07-掌门前端破茧成蝶之：低代码开发工具——魔方](https://www.ershicimi.com/p/cb057a91e545dbf92cbe78fa212b88c6) 
 - [2020-06-06-【第1967期】前端架构-101：-MVC-初探](https://www.ershicimi.com/p/1a5ea2705eb2dc5f75ad0dcefd4c074e) 

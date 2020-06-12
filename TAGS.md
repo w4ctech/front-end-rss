@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,9 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a)
+- [【Vue中文社区】10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/783b0d2163f5d9f638e39a2861d16ce3)
+- [【Vue中文社区】Vue最佳实践，你能举一反三么？](https://www.ershicimi.com/p/c7de578c101f79a8ca81ecb98938e32e)
 - [【Vue中文社区】蒋豪群:-聊聊Vue3-周边配套](https://www.ershicimi.com/p/238a2692041b19c4d8f70b2ab1a63029)
 - [【Vue中文社区】手把手带你实操Vue新手项目：从-0-开发代办事项-WebApp](https://www.ershicimi.com/p/f4e32d6614bdedb143eb5ccba3c94249)
 - [【Vue中文社区】Vue-项目性能优化—实践指南（网上最全-/-详细）](https://www.ershicimi.com/p/65ddd0f9664b147ddacdaa2418fc966e)
@@ -90,11 +93,8 @@
 - [【Vue中文社区】面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)
 - [【Vue中文社区】Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443)
 - [【Vue中文社区】Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56)
+- [【前端早读课】【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873)
 - [【前端大全】尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/71e45a8cdca29b899a15f2fdff2d8832)
-- [【前端大全】没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3)
-- [【前端大全】前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465)
-- [【前端大全】Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7)
-- [【前端开发】10个Vue开发技巧](https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -384,6 +384,7 @@
 
 
 
+- [【前端早读课】【第1973期】SVG-图标制作指南](https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c)
 - [【前端早读课】【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50)
 - [【全栈前端精选】【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
@@ -403,7 +404,6 @@
 - [【掘金前端】WebGL-光照](https://juejin.im/post/5ed0fad051882542e722f2b4)
 - [【V2EX】各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634)
 - [【V2EX】大家谁知道-SVG-的-stroke-dasharray、stroke-dashoffset-属性，具体是什么意思？](https://www.v2ex.com/t/676997)
-- [【开发者头条】译-面向开发人员的-12-个最佳-GUI-Git-客户端](https://toutiao.io/k/4ljvin0)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -643,6 +643,8 @@
 - [【VUE全家桶】【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378)
+- [【前端早读课】【招聘】字节跳动---终端架构部门---前端工程师（社招/实习）](https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa)
+- [【前端早读课】【招聘】百度智能办公团队招T5前端啦~](https://www.ershicimi.com/p/76f274c10de5695677deee3b02f7e40f)
 - [【前端早读课】【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf)
 - [【前端早读课】【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)
 - [【前端开发】2020-高频前端面试题+答案](https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7)
@@ -650,8 +652,6 @@
 - [【前端开发】前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/6cefc7b7fe1df4975b064ca642f12abb)
 - [【前端开发】面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/0b41665ef3480648e6288d0c0bf96c32)
 - [【前端大学】前端面试越来越难，你还在原地踏步？](https://www.ershicimi.com/p/d55f60e513904c427d5c73f528c53734)
-- [【前端外刊评论】字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4)
-- [【前端外刊评论】招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

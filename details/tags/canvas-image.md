@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-12-【第1973期】SVG-图标制作指南](https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c) 
 - [2020-05-31-【第1961期】如何用Canvas拍出JDer's工作照](https://www.ershicimi.com/p/fb012e1f11566440cdadac0cfe16bc50) 
 - [2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9) 
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 

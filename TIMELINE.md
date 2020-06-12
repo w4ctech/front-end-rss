@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 08:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-12 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,10 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-上海11日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-巴西2000余名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARUMtrHy9CNPdmT3ZxGo200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-巴西疫情“重灾区”圣保罗市重新开放购物中心-部分街区出现人群拥挤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-中国驻利比里亚使馆向在利华人华侨发放“健康包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1) 
@@ -493,6 +497,7 @@
 - [【Nodejs技术栈】2020-06-01-基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
+- [【阮一峰的网络日志】2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html) 
 - [【阮一峰的网络日志】2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html) 
 - [【阮一峰的网络日志】2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [【凹凸实验室】2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/) 

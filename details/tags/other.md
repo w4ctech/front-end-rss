@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-12-阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1) 
+- [2020-06-12-巴西疫情“重灾区”圣保罗市重新开放购物中心-部分街区出现人群拥挤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1) 
 - [2020-06-12-中国驻利比里亚使馆向在利华人华侨发放“健康包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1) 
 - [2020-06-12-沙特宣布恢复体育赛事和活动的时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsxcQCbShWGADEDYutHp200612&isfromapp=1) 
 - [2020-06-12-病例不断增加-美国休斯顿可能再颁“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti624YCFO3gm9Td9r7xMXA200612&isfromapp=1) 
@@ -1167,6 +1169,7 @@
 - [2020-05-22-不可错过的实用前端工具](https://www.ershicimi.com/p/3262dfba4696ddb8d8f9b63d72368141) 
 - [2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html) 
 - [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html) 
 - [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) 
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html) 

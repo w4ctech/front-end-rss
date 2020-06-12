@@ -5102,6 +5102,26 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "上海11日新增5例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "巴西2000余名原住民确诊新冠肺炎",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARUMtrHy9CNPdmT3ZxGo200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "巴西疫情“重灾区”圣保罗市重新开放购物中心 部分街区出现人群拥挤",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1",
+        "date": "2020-06-12"
+      },
+      {
         "title": "中国驻利比里亚使馆向在利华人华侨发放“健康包”",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1",
         "date": "2020-06-12"
@@ -8683,6 +8703,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 111 期）：智能电视的误区",
+        "link": "http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html",
+        "date": "2020-06-12"
+      },
       {
         "title": "Epic Games 研究：Fortnite 和游戏行业的未来",
         "link": "http://www.ruanyifeng.com/blog/2020/06/epic-games.html",

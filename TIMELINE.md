@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-12 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -567,6 +567,12 @@
 - [【凹凸实验室】2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) 
+- [【奇舞周刊】2020-06-10-狄洛尼三角剖分](https://www.ershicimi.com/p/35a51a8b2f48a771537b1653c4868518) 
+- [【奇舞周刊】2020-06-10-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/fbaf071261c0e103a655f1defc6daca6) 
+- [【奇舞周刊】2020-06-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/5068b73d624e6f48c740f53218e52206) 
+- [【奇舞周刊】2020-06-09-【前端冷知识】如何写一个用GPU来抽奖的程序](https://www.ershicimi.com/p/9fb9af012b0180646d185dcb36bd75f1) 
+- [【奇舞周刊】2020-06-09-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/91fd61790db196f6bd0a98492d851448) 
+- [【奇舞周刊】2020-06-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ac07bb21ed29e0fb404116fbaf5b8570) 
 - [【奇舞周刊】2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd) 
 - [【奇舞周刊】2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950) 
 - [【奇舞周刊】2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5) 

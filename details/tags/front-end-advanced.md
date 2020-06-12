@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -32,6 +32,7 @@
 - [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
+- [2020-06-09-【前端冷知识】如何写一个用GPU来抽奖的程序](https://www.ershicimi.com/p/9fb9af012b0180646d185dcb36bd75f1) 
 - [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a) 
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 

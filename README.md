@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 20:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 21:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
+- [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -499,7 +499,7 @@
 </summary>
 
 
-- [2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) ![](assets/new.png)  
+- [2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949)  
 - [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)  
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a)  
 - [2020-05-31-如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)  
@@ -735,6 +735,12 @@
 </summary>
 
 
+- [2020-06-10-狄洛尼三角剖分](https://www.ershicimi.com/p/35a51a8b2f48a771537b1653c4868518) ![](assets/new.png)  
+- [2020-06-10-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/fbaf071261c0e103a655f1defc6daca6) ![](assets/new.png)  
+- [2020-06-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/5068b73d624e6f48c740f53218e52206) ![](assets/new.png)  
+- [2020-06-09-【前端冷知识】如何写一个用GPU来抽奖的程序](https://www.ershicimi.com/p/9fb9af012b0180646d185dcb36bd75f1) ![](assets/new.png)  
+- [2020-06-09-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/91fd61790db196f6bd0a98492d851448) ![](assets/new.png)  
+- [2020-06-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ac07bb21ed29e0fb404116fbaf5b8570) ![](assets/new.png)  
 - [2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd)  
 - [2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950)  
 - [2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5)  
@@ -749,12 +755,6 @@
 - [2020-05-30-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/c25ed8437e6857fcd834baef439bc72b)  
 - [2020-05-29-奇舞周刊第-351-期：面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/449035f2b0a36e75ba68b4f78e61d7da)  
 - [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0)  
-- [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539)  
-- [2020-05-25-React源码揭秘三：Diff算法详解](https://www.ershicimi.com/p/c452b8749f4d5fc93e770e60850d6b86)  
-- [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d)  
-- [2020-05-22-奇舞周刊第-350-期：前端状态管理设计，优雅与妥协的艺术](https://www.ershicimi.com/p/729efeced0becc2335352f4855b1bc56)  
-- [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0)  
-- [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,26 +11,26 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-12 10:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-12 13:00:20，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1) ![](assets/new.png)  
-- [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598) ![](assets/new.png)  
+- [2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1)  
+- [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598)  
 - [2020-06-12-上海11日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1)  
 - [2020-06-12-巴西2000余名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARUMtrHy9CNPdmT3ZxGo200612&isfromapp=1)  
 - [2020-06-12-阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1)  
@@ -281,6 +281,10 @@
 </summary>
 
 
+- [2020-06-12-10个Vue开发技巧](https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993) ![](assets/new.png)  
+- [2020-06-11-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/91661a7fc643a772bcf89017c136f923) ![](assets/new.png)  
+- [2020-06-11-高效的编码：我的VS-Code设置](https://www.ershicimi.com/p/b6e8636caa6c7ac93fa7224bbd397944) ![](assets/new.png)  
+- [2020-06-10-卧槽！当当网又又又可以-4-折买书了！！跟我一起薅羊毛了！](https://www.ershicimi.com/p/d7dc8e3fd05213826c5d21abdb61df53) ![](assets/new.png)  
 - [2020-06-09-前端真的有资深工程师吗？](https://www.ershicimi.com/p/d246cf2ef0ff50a3d518129bc922de7d)  
 - [2020-06-09-为什么你的网页需要-CSP?](https://www.ershicimi.com/p/dc8da15e31b965a016b5cc233a550d21)  
 - [2020-06-08-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/2c8cfe484eef173e8757936716918a06)  
@@ -297,10 +301,6 @@
 - [2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49)  
 - [2020-06-01-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b)  
 - [2020-05-31-面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/792fc039e330d6f7870aa5e815495aa0)  
-- [2020-05-30-NLP工程师平均月薪3W起，如何从文本情感分析入坑NLP？](https://www.ershicimi.com/p/bc4f6d7abfb46f19511864a08c2d09f1)  
-- [2020-05-30-前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f)  
-- [2020-05-29-还分不清-Cookie、Session、Token、JWT？](https://www.ershicimi.com/p/0804e565a5a749e6781a364b41fdd645)  
-- [2020-05-28-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/6cefc7b7fe1df4975b064ca642f12abb)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,6 +468,9 @@
 </summary>
 
 
+- [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52) ![](assets/new.png)  
+- [2020-06-10-剖析-Vue3.0-框架及源码](https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663) ![](assets/new.png)  
+- [2020-06-10-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7) ![](assets/new.png)  
 - [2020-06-09-探索-Serverless-中的前端开发模式多场景](https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249)  
 - [2020-06-08-改善CSS的10种最佳做法](https://www.ershicimi.com/p/44eeb58a40a8f2d0eb5598c3ab50b91b)  
 - [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5)  
@@ -485,9 +488,6 @@
 - [2020-05-30-我的VS-Code设置，高效编码！](https://www.ershicimi.com/p/9f7b3801200cdeab85977e00b2831bd0)  
 - [2020-05-29-如何建立自己的前端知识体系？](https://www.ershicimi.com/p/51e09e6b1f7b77ecca789e5c63df5afb)  
 - [2020-05-29-《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b)  
-- [2020-05-28-TS-常见问题、难点整理（60多个）](https://www.ershicimi.com/p/9eead0a7eac70f5978e6b88b5817e6cf)  
-- [2020-05-27-京喜小程序的高性能打造之路](https://www.ershicimi.com/p/78fb5e52ce1026af3dad0170204e8aa9)  
-- [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1090,26 +1090,26 @@
 </summary>
 
 
-- [2020-06-11-应用开发的流程](https://toutiao.io/k/6xftl3z)  
-- [2020-06-11-摆摊吧，程序员](https://toutiao.io/k/o0ayly5)  
-- [2020-06-11-并发题的解题思路以及-Go-语言调度器工作原理](https://toutiao.io/k/kxe830a)  
-- [2020-06-11-爱奇艺网络协程编写高并发应用实践](https://toutiao.io/k/0zlqh2o)  
-- [2020-06-11-OPcache：提升-PHP-性能的利器](https://toutiao.io/k/nycpr5q)  
-- [2020-06-11-译-解密为何-Go-能从众多语言中脱颖而出](https://toutiao.io/k/krdal24)  
-- [2020-06-11-Shell-中傻傻分不清楚的-TOP-3](https://toutiao.io/k/efwu60j)  
-- [2020-06-11-Linux-权限维持与提权](https://toutiao.io/k/muptv7h)  
-- [2020-06-11-一键备份微博并导出生成-PDF，顺便用-Python-分析微博账号数据](https://toutiao.io/k/qgt6522)  
-- [2020-06-11-译-惊艳！可视化的-js：动态图演示-Promises-&-Async/Await-的过程](https://toutiao.io/k/t7o2qa3)  
-- [2020-06-11-通过不断地失败来避免失败，携程混沌工程实践](https://toutiao.io/k/wipb0rx)  
-- [2020-06-11-架构思考：业务快速增长时的容量问题](https://toutiao.io/k/ubsvprc)  
-- [2020-06-11-AV1、H.265-与-Janus-的爱恨情仇（一）](https://toutiao.io/k/sh4e87q)  
-- [2020-06-11-跨城实践中，腾讯如何应用-Apache-Pulsar](https://toutiao.io/k/tu8664a)  
-- [2020-06-11-用-three.js-玩转高数可视化](https://toutiao.io/k/lmd9cao)  
-- [2020-06-11-casrserver-分离计算内核](https://toutiao.io/k/i3w4ow7)  
-- [2020-06-11-实战：如何使用-JavaScript-访问设备前后摄像头](https://toutiao.io/k/62hehc9)  
-- [2020-06-11-InsightFace-力作：RetinaFace-单阶段人脸检测器](https://toutiao.io/k/n7kucqu)  
-- [2020-06-11-虚拟内存简介](https://toutiao.io/k/6hqd134)  
-- [2020-06-11-译-Envoy-实战：几种常见负载均衡算法的性能比较](https://toutiao.io/k/lbi2nwl)  
+- [2020-06-12-程序员摆地摊到底该卖什么？|-码农周刊第-309-期](https://toutiao.io/k/ipzx355) ![](assets/new.png)  
+- [2020-06-12-为什么数据库不应该使用外键](https://toutiao.io/k/7rytvnu) ![](assets/new.png)  
+- [2020-06-12-无异常日志，就不能排查问题了？](https://toutiao.io/k/g16u928) ![](assets/new.png)  
+- [2020-06-12-计算机视觉经典书籍推荐](https://toutiao.io/k/ne5wdik) ![](assets/new.png)  
+- [2020-06-12-吐血整理：机器学习的-30-个基本概念，都在这里了（手绘图解）](https://toutiao.io/k/4ym2gk3) ![](assets/new.png)  
+- [2020-06-12-恕我直言，我怀疑你并不会用-Java-枚举](https://toutiao.io/k/1kluxcl) ![](assets/new.png)  
+- [2020-06-12-RocketMQ-很慢？引出了一个未解之谜](https://toutiao.io/k/on8p6pf) ![](assets/new.png)  
+- [2020-06-12-Spring-Cloud-Alibaba（六）：Spring-Cloud-Alibaba-Sentinel-实现限流降级](https://toutiao.io/k/11skuj8) ![](assets/new.png)  
+- [2020-06-12-理解贝叶斯优化](https://toutiao.io/k/29xvvte) ![](assets/new.png)  
+- [2020-06-12-Java-并发编程那些事儿（八）：死锁](https://toutiao.io/k/5pr9ify) ![](assets/new.png)  
+- [2020-06-12-被迫重构代码，这次我干掉了-if-else](https://toutiao.io/k/dlzvi2o) ![](assets/new.png)  
+- [2020-06-12-4-年-Kylin-老玩家，汽车之家最佳实践大揭秘](https://toutiao.io/k/8hmct0f) ![](assets/new.png)  
+- [2020-06-12-如何-5-分钟零代码实现豆瓣小组爬虫](https://toutiao.io/k/i71k5nn) ![](assets/new.png)  
+- [2020-06-12-WebAssembly-简介及原理](https://toutiao.io/k/ldjp4jh) ![](assets/new.png)  
+- [2020-06-12-iOS-隐形水印之-LSB-实现](https://toutiao.io/k/bs4bv49) ![](assets/new.png)  
+- [2020-06-12-Java-异步的-2-种方式分析](https://toutiao.io/k/3sylp2g) ![](assets/new.png)  
+- [2020-06-12-HBase-不停机升级在滴滴的实践](https://toutiao.io/k/21hio9s) ![](assets/new.png)  
+- [2020-06-12-PBFT-共识算法](https://toutiao.io/k/b3ttx6v) ![](assets/new.png)  
+- [2020-06-12-将-Flutter-集成到现有项目（iOS---Framework-篇）](https://toutiao.io/k/4c0vc5v) ![](assets/new.png)  
+- [2020-06-12-Golang-语言之字符串操作](https://toutiao.io/k/hzy29pi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-12 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-12 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -94,7 +94,7 @@
 - [【前端大全】没想到-Vue3.0-这么奇妙，感谢尤大](https://www.ershicimi.com/p/29efcb3572b547ff0ecd9b247a3e22c3)
 - [【前端大全】前端面试之-Vue-向技巧总结](https://www.ershicimi.com/p/9b47b55c56279e0c1fdf0275ade1a465)
 - [【前端大全】Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/d53d9091fbef7bde632955cf47f069a7)
-- [【前端开发】Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8)
+- [【前端开发】10个Vue开发技巧](https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -255,6 +255,7 @@
 - [【V2EX】对于-U3D-Stopwatch-ElapsedTick-的疑惑](https://www.v2ex.com/t/680811)
 - [【V2EX】Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425)
 - [【技术头条】Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】将-Flutter-集成到现有项目（iOS---Framework-篇）](https://toutiao.io/k/4c0vc5v)
 - [【开发者头条】Flutter-Weekly-Issue-58](https://toutiao.io/k/6ukxpmm)
 - [【开发者头条】Flutter-Provider-迄今为止最深、最全、最新的源码分析](https://toutiao.io/k/xx9y4l6)
 - [【开发者头条】从无到有，闲鱼-Flutter-一体化演进之路](https://toutiao.io/k/638kmo3)
@@ -597,6 +598,7 @@
 - [【Vue中文社区】让你纵横-GitHub-的五大神器](https://www.ershicimi.com/p/46b2d8ce4335dc0a439bdaf2d632d082)
 - [【前端大全】这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e)
 - [【前端大全】Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f)
+- [【全栈前端精选】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7)
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【前端瓶子君】鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
@@ -613,7 +615,6 @@
 - [【V2EX】求一个-Github-大图标！](https://www.v2ex.com/t/679170)
 - [【V2EX】GitHub-可以开课了](https://www.v2ex.com/t/678557)
 - [【V2EX】GitHub:我在阿里做技术面试官的一些经验](https://www.v2ex.com/t/678525)
-- [【V2EX】github-也参与进来了](https://www.v2ex.com/t/678444)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

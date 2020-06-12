@@ -7186,6 +7186,26 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "10个Vue开发技巧",
+        "link": "https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "前端越来越后端化，工程化？2020年你到底需要注意些什么？",
+        "link": "https://www.ershicimi.com/p/91661a7fc643a772bcf89017c136f923",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "高效的编码：我的VS Code设置",
+        "link": "https://www.ershicimi.com/p/b6e8636caa6c7ac93fa7224bbd397944",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "卧槽！当当网又又又可以 4 折买书了！！跟我一起薅羊毛了！",
+        "link": "https://www.ershicimi.com/p/d7dc8e3fd05213826c5d21abdb61df53",
+        "date": "2020-06-10"
+      },
+      {
         "title": "前端真的有资深工程师吗？",
         "link": "https://www.ershicimi.com/p/d246cf2ef0ff50a3d518129bc922de7d",
         "date": "2020-06-09"
@@ -7934,6 +7954,21 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "Hybrid 应用中 H5 与 Native 通信的那点事儿",
+        "link": "https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52",
+        "date": "2020-06-11"
+      },
+      {
+        "title": "剖析 Vue3.0 框架及源码",
+        "link": "https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663",
+        "date": "2020-06-10"
+      },
+      {
+        "title": "一份值得收藏的 Git 异常处理清单",
+        "link": "https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7",
+        "date": "2020-06-10"
+      },
       {
         "title": "探索 Serverless 中的前端开发模式(多场景)",
         "link": "https://www.ershicimi.com/p/760e22fae02afeddb878080b323b9249",
@@ -23404,6 +23439,106 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "程序员摆地摊到底该卖什么？| 码农周刊第 309 期",
+        "link": "https://toutiao.io/k/ipzx355",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "为什么数据库不应该使用外键",
+        "link": "https://toutiao.io/k/7rytvnu",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "无异常日志，就不能排查问题了？",
+        "link": "https://toutiao.io/k/g16u928",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "计算机视觉经典书籍推荐",
+        "link": "https://toutiao.io/k/ne5wdik",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "吐血整理：机器学习的 30 个基本概念，都在这里了（手绘图解）",
+        "link": "https://toutiao.io/k/4ym2gk3",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "恕我直言，我怀疑你并不会用 Java 枚举",
+        "link": "https://toutiao.io/k/1kluxcl",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "RocketMQ 很慢？引出了一个未解之谜",
+        "link": "https://toutiao.io/k/on8p6pf",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "Spring Cloud Alibaba（六）：Spring Cloud Alibaba Sentinel 实现限流降级",
+        "link": "https://toutiao.io/k/11skuj8",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "理解贝叶斯优化",
+        "link": "https://toutiao.io/k/29xvvte",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "Java 并发编程那些事儿（八）：死锁",
+        "link": "https://toutiao.io/k/5pr9ify",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "被迫重构代码，这次我干掉了 if-else",
+        "link": "https://toutiao.io/k/dlzvi2o",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "4 年 Kylin 老玩家，汽车之家最佳实践大揭秘",
+        "link": "https://toutiao.io/k/8hmct0f",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "如何 5 分钟零代码实现豆瓣小组爬虫",
+        "link": "https://toutiao.io/k/i71k5nn",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "WebAssembly 简介及原理",
+        "link": "https://toutiao.io/k/ldjp4jh",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "iOS 隐形水印之 LSB 实现",
+        "link": "https://toutiao.io/k/bs4bv49",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "Java 异步的 2 种方式分析",
+        "link": "https://toutiao.io/k/3sylp2g",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "HBase 不停机升级在滴滴的实践",
+        "link": "https://toutiao.io/k/21hio9s",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "PBFT 共识算法",
+        "link": "https://toutiao.io/k/b3ttx6v",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "将 Flutter 集成到现有项目（iOS - Framework 篇）",
+        "link": "https://toutiao.io/k/4c0vc5v",
+        "date": "2020-06-12"
+      },
+      {
+        "title": "Golang 语言之字符串操作",
+        "link": "https://toutiao.io/k/hzy29pi",
+        "date": "2020-06-12"
+      },
       {
         "title": "应用开发的流程",
         "link": "https://toutiao.io/k/6xftl3z",

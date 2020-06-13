@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 09:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 10:30:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1) ![](assets/new.png)  
-- [2020-06-13-广东13日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiej8gZI8CthdiuiaMPdS2200613&isfromapp=1) ![](assets/new.png)  
-- [2020-06-13-韩国决定延长首都圈强化版防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiudL7HwY3e4oUW9qpBMij200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1)  
+- [2020-06-13-广东13日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiej8gZI8CthdiuiaMPdS2200613&isfromapp=1)  
+- [2020-06-13-韩国决定延长首都圈强化版防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiudL7HwY3e4oUW9qpBMij200613&isfromapp=1)  
 - [2020-06-13-巴西累计确诊病例逾82万例-死亡人数居世界第二](https://m.weibo.cn/3057540037/4515249375784265)  
 - [2020-06-13-​新冠肺炎疫情危机或使全球赤贫人口增至11亿](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00meQmK1c2B26Nx5EygK200613&isfromapp=1)  
 - [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1)  
@@ -1097,6 +1097,18 @@
 </summary>
 
 
+- [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd) ![](assets/new.png)  
+- [2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz) ![](assets/new.png)  
+- [2020-06-13-改掉这些坏习惯，还怕写不出健壮的代码？（四）](https://toutiao.io/k/mxmd1e3) ![](assets/new.png)  
+- [2020-06-13-什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft) ![](assets/new.png)  
+- [2020-06-13-看完这篇，数据同步还不会，能怪谁](https://toutiao.io/k/z3cstzf) ![](assets/new.png)  
+- [2020-06-13-原子操作和互斥锁的区别](https://toutiao.io/k/dvk6o95) ![](assets/new.png)  
+- [2020-06-13-译-Python-3.9-beta-2-版本发布了，看看这-7-个新的-PEP-都是什么？](https://toutiao.io/k/yxr4jw8) ![](assets/new.png)  
+- [2020-06-13-译-urllib.parse-文档：这里有关于-URL-的一切](https://toutiao.io/k/82xqhy5) ![](assets/new.png)  
+- [2020-06-13-ZLT-MP-v3.7.0-发布](https://toutiao.io/k/eu36r25) ![](assets/new.png)  
+- [2020-06-13-Java-8-中有趣酷炫的小技巧](https://toutiao.io/k/9zrzodw) ![](assets/new.png)  
+- [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f) ![](assets/new.png)  
+- [2020-06-13-你可能并不理解-i++-和-++i](https://toutiao.io/k/aeltan4) ![](assets/new.png)  
 - [2020-06-12-熬夜之作：一文带你了解-Cat-分布式监控](https://toutiao.io/k/oswj2ss)  
 - [2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1)  
 - [2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu)  
@@ -1105,18 +1117,6 @@
 - [2020-06-12-为什么数据库不应该使用外键](https://toutiao.io/k/7rytvnu)  
 - [2020-06-12-无异常日志，就不能排查问题了？](https://toutiao.io/k/g16u928)  
 - [2020-06-12-计算机视觉经典书籍推荐](https://toutiao.io/k/ne5wdik)  
-- [2020-06-12-吐血整理：机器学习的-30-个基本概念，都在这里了（手绘图解）](https://toutiao.io/k/4ym2gk3)  
-- [2020-06-12-恕我直言，我怀疑你并不会用-Java-枚举](https://toutiao.io/k/1kluxcl)  
-- [2020-06-12-RocketMQ-很慢？引出了一个未解之谜](https://toutiao.io/k/on8p6pf)  
-- [2020-06-12-Spring-Cloud-Alibaba（六）：Spring-Cloud-Alibaba-Sentinel-实现限流降级](https://toutiao.io/k/11skuj8)  
-- [2020-06-12-理解贝叶斯优化](https://toutiao.io/k/29xvvte)  
-- [2020-06-12-Java-并发编程那些事儿（八）：死锁](https://toutiao.io/k/5pr9ify)  
-- [2020-06-12-被迫重构代码，这次我干掉了-if-else](https://toutiao.io/k/dlzvi2o)  
-- [2020-06-12-4-年-Kylin-老玩家，汽车之家最佳实践大揭秘](https://toutiao.io/k/8hmct0f)  
-- [2020-06-12-如何-5-分钟零代码实现豆瓣小组爬虫](https://toutiao.io/k/i71k5nn)  
-- [2020-06-12-WebAssembly-简介及原理](https://toutiao.io/k/ldjp4jh)  
-- [2020-06-12-iOS-隐形水印之-LSB-实现](https://toutiao.io/k/bs4bv49)  
-- [2020-06-12-Java-异步的-2-种方式分析](https://toutiao.io/k/3sylp2g)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-13 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -2600,6 +2600,18 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd) 
+- [【开发者头条】2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz) 
+- [【开发者头条】2020-06-13-改掉这些坏习惯，还怕写不出健壮的代码？（四）](https://toutiao.io/k/mxmd1e3) 
+- [【开发者头条】2020-06-13-什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft) 
+- [【开发者头条】2020-06-13-看完这篇，数据同步还不会，能怪谁](https://toutiao.io/k/z3cstzf) 
+- [【开发者头条】2020-06-13-原子操作和互斥锁的区别](https://toutiao.io/k/dvk6o95) 
+- [【开发者头条】2020-06-13-译-Python-3.9-beta-2-版本发布了，看看这-7-个新的-PEP-都是什么？](https://toutiao.io/k/yxr4jw8) 
+- [【开发者头条】2020-06-13-译-urllib.parse-文档：这里有关于-URL-的一切](https://toutiao.io/k/82xqhy5) 
+- [【开发者头条】2020-06-13-ZLT-MP-v3.7.0-发布](https://toutiao.io/k/eu36r25) 
+- [【开发者头条】2020-06-13-Java-8-中有趣酷炫的小技巧](https://toutiao.io/k/9zrzodw) 
+- [【开发者头条】2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f) 
+- [【开发者头条】2020-06-13-你可能并不理解-i++-和-++i](https://toutiao.io/k/aeltan4) 
 - [【开发者头条】2020-06-12-熬夜之作：一文带你了解-Cat-分布式监控](https://toutiao.io/k/oswj2ss) 
 - [【开发者头条】2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1) 
 - [【开发者头条】2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu) 

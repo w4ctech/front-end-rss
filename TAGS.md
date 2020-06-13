@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-13 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -582,6 +582,7 @@
 - [【V2EX】OpenResty-持续运行内存不会回收](https://www.v2ex.com/t/677203)
 - [【V2EX】请问可以在-docker-Linux-上开发-c/c++吗？](https://www.v2ex.com/t/677181)
 - [【V2EX】docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753)
+- [【开发者头条】什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft)
 - [【开发者头条】以太坊中-GraphQL-简介及使用](https://toutiao.io/k/wjzb8sl)
 - [......【查看更多】......](./details/tags/server.md)
 

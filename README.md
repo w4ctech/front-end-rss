@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 14:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-13-北京将对新发地农贸批发市场有关人员开展核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1) ![](assets/new.png)  
-- [2020-06-13-北京新发地市场已有45人咽拭子阳性-已有40件环境阳性样本](https://m.weibo.cn/3057540037/4515315273659688) ![](assets/new.png)  
+- [2020-06-13-新发地市场暂时休市期间-北京启动应急交易保供措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-北京将对新发地农贸批发市场有关人员开展核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1)  
+- [2020-06-13-北京新发地市场已有45人咽拭子阳性-已有40件环境阳性样本](https://m.weibo.cn/3057540037/4515315273659688)  
 - [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1)  
 - [2020-06-13-广东13日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiej8gZI8CthdiuiaMPdS2200613&isfromapp=1)  
 - [2020-06-13-韩国决定延长首都圈强化版防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiudL7HwY3e4oUW9qpBMij200613&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-12-智利新冠肺炎确诊人数超过15万-政府向困难家庭发放补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1)  
 - [2020-06-12-阿根廷新增1386例新冠肺炎确诊病例-全国仅一省尚未发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1)  
 - [2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1)  
-- [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

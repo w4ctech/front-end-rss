@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 09:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 09:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-广东13日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiej8gZI8CthdiuiaMPdS2200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-韩国决定延长首都圈强化版防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiudL7HwY3e4oUW9qpBMij200613&isfromapp=1) ![](assets/new.png)  
 - [2020-06-13-巴西累计确诊病例逾82万例-死亡人数居世界第二](https://m.weibo.cn/3057540037/4515249375784265)  
 - [2020-06-13-​新冠肺炎疫情危机或使全球赤贫人口增至11亿](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00meQmK1c2B26Nx5EygK200613&isfromapp=1)  
 - [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-12-上海新增境外输入确诊病例5例](https://m.weibo.cn/3057540037/4514911252989598)  
 - [2020-06-12-上海11日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1)  
 - [2020-06-12-巴西2000余名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARUMtrHy9CNPdmT3ZxGo200612&isfromapp=1)  
-- [2020-06-12-阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1)  
-- [2020-06-12-巴西疫情“重灾区”圣保罗市重新开放购物中心-部分街区出现人群拥挤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1)  
-- [2020-06-12-中国驻利比里亚使馆向在利华人华侨发放“健康包”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidjzhHctpgLXkbkkWRQEN200612&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -767,8 +767,8 @@
 </summary>
 
 
-- [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8) ![](assets/new.png)  
-- [2020-06-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/aebf19567f4905c6d6c060eed20bc66e) ![](assets/new.png)  
+- [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8)  
+- [2020-06-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/aebf19567f4905c6d6c060eed20bc66e)  
 - [2020-06-08-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68b6db5155cd6d30da4bbfe2f140d4b7)  
 - [2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d)  
 - [2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78)  

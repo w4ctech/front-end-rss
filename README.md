@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 19:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 20:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1) ![](assets/new.png)  
-- [2020-06-13-英媒：新冠肺炎疫情前六个月-政府解散防大流行病委员会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1) ![](assets/new.png)  
-- [2020-06-13-​俄罗斯新增新冠肺炎确诊病例8706例-累计超52万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1)  
+- [2020-06-13-英媒：新冠肺炎疫情前六个月-政府解散防大流行病委员会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1)  
+- [2020-06-13-​俄罗斯新增新冠肺炎确诊病例8706例-累计超52万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1)  
 - [2020-06-13-新发地市场暂时休市期间-北京启动应急交易保供措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1)  
 - [2020-06-13-北京将对新发地农贸批发市场有关人员开展核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1)  
 - [2020-06-13-北京新发地市场已有45人咽拭子阳性-已有40件环境阳性样本](https://m.weibo.cn/3057540037/4515315273659688)  
@@ -910,6 +910,11 @@
 </summary>
 
 
+- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195) ![](assets/new.png)  
+- [2020-06-13-React新旧版本生命周期变化](https://juejin.im/post/5ee49a13f265da771526faf5) ![](assets/new.png)  
+- [2020-06-13-设计一款简单实用的-image-组件](https://juejin.im/post/5ee47f1f6fb9a048021482c2) ![](assets/new.png)  
+- [2020-06-13-React-Hooks-温故而知新](https://juejin.im/post/5ee37ae0e51d4578a255665b) ![](assets/new.png)  
+- [2020-06-13-DOM事件模型和事件委托](https://juejin.im/post/5ee311abe51d4578810b6698) ![](assets/new.png)  
 - [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7)  
 - [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  
@@ -925,11 +930,6 @@
 - [2020-06-10-初探-Quasar](https://juejin.im/post/5ee04f976fb9a047e02f0342)  
 - [2020-06-10-函数防抖和节流](https://juejin.im/post/5edf2d516fb9a047cf333a5c)  
 - [2020-06-10-2020年，你可能需要基于Vue的微服务架构实践，在服务端或客户端聚合子服务](https://juejin.im/post/5ee04f5351882543240412bb)  
-- [2020-06-10-从零实现React的Fiber架构](https://juejin.im/post/5ec3e7a6f265da76d925fbd7)  
-- [2020-06-09-想要试试Electron-，不如看看这篇爬坑总结](https://juejin.im/post/5ede23c6e51d45783f11023d)  
-- [2020-06-09-关于浏览器的Cookie与Storage的细枝末节](https://juejin.im/post/5edf8941e51d45786672c36e)  
-- [2020-06-09-小白分享：基于vue-cli从零搭建一个Vue项目-Vcharts](https://juejin.im/post/5edf93646fb9a047ee4c5b4b)  
-- [2020-06-09-React-测试-+-Vue-测试-+-小程序测试](https://juejin.im/post/5edf887b51882542ee694d29)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

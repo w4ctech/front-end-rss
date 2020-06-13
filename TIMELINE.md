@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-13 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -606,6 +606,9 @@
 - [【前端日刊】2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d) 
 - [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
+- [【互联网架构师】2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) 
+- [【互联网架构师】2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) 
+- [【互联网架构师】2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) 
 - [【互联网架构师】2020-06-12-收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b) 
 - [【互联网架构师】2020-06-12-她发明了可以“喝的饭”，估值已超过10亿美金！从此每天多睡半小时....](https://www.ershicimi.com/p/eaaa9ea345a2c802858e59554e7eca4e) 
 - [【互联网架构师】2020-06-12-知乎部署系统演进](https://www.ershicimi.com/p/2d2bc3c82e3669dbc91069df23685d00) 

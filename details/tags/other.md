@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1293,6 +1293,9 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) 
+- [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) 
+- [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) 
 - [2020-06-12-她发明了可以“喝的饭”，估值已超过10亿美金！从此每天多睡半小时....](https://www.ershicimi.com/p/eaaa9ea345a2c802858e59554e7eca4e) 
 - [2020-06-12-知乎部署系统演进](https://www.ershicimi.com/p/2d2bc3c82e3669dbc91069df23685d00) 
 - [2020-06-11-后端精进，先消化这几块！](https://www.ershicimi.com/p/8c1b1fda6986e500802ae0812b9c2880) 

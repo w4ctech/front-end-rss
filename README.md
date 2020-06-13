@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 10:30:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 12:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -817,6 +817,9 @@
 </summary>
 
 
+- [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) ![](assets/new.png)  
+- [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) ![](assets/new.png)  
+- [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) ![](assets/new.png)  
 - [2020-06-12-收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b)  
 - [2020-06-12-她发明了可以“喝的饭”，估值已超过10亿美金！从此每天多睡半小时....](https://www.ershicimi.com/p/eaaa9ea345a2c802858e59554e7eca4e)  
 - [2020-06-12-知乎部署系统演进](https://www.ershicimi.com/p/2d2bc3c82e3669dbc91069df23685d00)  
@@ -834,9 +837,6 @@
 - [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699)  
 - [2020-06-07-互联网公司忽悠员工的黑话，套路太深了。。](https://www.ershicimi.com/p/9a566238583308069488745dd860f6d0)  
 - [2020-06-07-你们要的Windows-IDEA-快捷键终极大全，速度收藏！](https://www.ershicimi.com/p/16bddda3c1b4a9c20c64c5f2cd103c8c)  
-- [2020-06-07-代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496)  
-- [2020-06-06-现在的学生太厉害了！一位同学冒着挂科的风险给大家写得-Spring-Cloud-入门总结，通俗易懂](https://www.ershicimi.com/p/f3f0ad394b7e5007a3820027d08abdea)  
-- [2020-06-06-JVM-怎么判断对象已经死了？](https://www.ershicimi.com/p/ea8cf464aa300179f0922723e977bf17)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1097,18 +1097,18 @@
 </summary>
 
 
-- [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd) ![](assets/new.png)  
-- [2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz) ![](assets/new.png)  
-- [2020-06-13-改掉这些坏习惯，还怕写不出健壮的代码？（四）](https://toutiao.io/k/mxmd1e3) ![](assets/new.png)  
-- [2020-06-13-什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft) ![](assets/new.png)  
-- [2020-06-13-看完这篇，数据同步还不会，能怪谁](https://toutiao.io/k/z3cstzf) ![](assets/new.png)  
-- [2020-06-13-原子操作和互斥锁的区别](https://toutiao.io/k/dvk6o95) ![](assets/new.png)  
-- [2020-06-13-译-Python-3.9-beta-2-版本发布了，看看这-7-个新的-PEP-都是什么？](https://toutiao.io/k/yxr4jw8) ![](assets/new.png)  
-- [2020-06-13-译-urllib.parse-文档：这里有关于-URL-的一切](https://toutiao.io/k/82xqhy5) ![](assets/new.png)  
-- [2020-06-13-ZLT-MP-v3.7.0-发布](https://toutiao.io/k/eu36r25) ![](assets/new.png)  
-- [2020-06-13-Java-8-中有趣酷炫的小技巧](https://toutiao.io/k/9zrzodw) ![](assets/new.png)  
-- [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f) ![](assets/new.png)  
-- [2020-06-13-你可能并不理解-i++-和-++i](https://toutiao.io/k/aeltan4) ![](assets/new.png)  
+- [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd)  
+- [2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz)  
+- [2020-06-13-改掉这些坏习惯，还怕写不出健壮的代码？（四）](https://toutiao.io/k/mxmd1e3)  
+- [2020-06-13-什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft)  
+- [2020-06-13-看完这篇，数据同步还不会，能怪谁](https://toutiao.io/k/z3cstzf)  
+- [2020-06-13-原子操作和互斥锁的区别](https://toutiao.io/k/dvk6o95)  
+- [2020-06-13-译-Python-3.9-beta-2-版本发布了，看看这-7-个新的-PEP-都是什么？](https://toutiao.io/k/yxr4jw8)  
+- [2020-06-13-译-urllib.parse-文档：这里有关于-URL-的一切](https://toutiao.io/k/82xqhy5)  
+- [2020-06-13-ZLT-MP-v3.7.0-发布](https://toutiao.io/k/eu36r25)  
+- [2020-06-13-Java-8-中有趣酷炫的小技巧](https://toutiao.io/k/9zrzodw)  
+- [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f)  
+- [2020-06-13-你可能并不理解-i++-和-++i](https://toutiao.io/k/aeltan4)  
 - [2020-06-12-熬夜之作：一文带你了解-Cat-分布式监控](https://toutiao.io/k/oswj2ss)  
 - [2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1)  
 - [2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu)  

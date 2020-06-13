@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 20:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 21:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-13-北京密云：对6名密接者集中隔离观察，新冠病毒核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitel0BYJKGpp1h2da44xA200613&isfromapp=1) ![](assets/new.png)  
 - [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1)  
 - [2020-06-13-英媒：新冠肺炎疫情前六个月-政府解散防大流行病委员会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1)  
 - [2020-06-13-​俄罗斯新增新冠肺炎确诊病例8706例-累计超52万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-12-南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1)  
 - [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1)  
 - [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1)  
-- [2020-06-12-墨西哥新增4790例新冠肺炎确诊病例-累计超13万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -910,11 +910,11 @@
 </summary>
 
 
-- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195) ![](assets/new.png)  
-- [2020-06-13-React新旧版本生命周期变化](https://juejin.im/post/5ee49a13f265da771526faf5) ![](assets/new.png)  
-- [2020-06-13-设计一款简单实用的-image-组件](https://juejin.im/post/5ee47f1f6fb9a048021482c2) ![](assets/new.png)  
-- [2020-06-13-React-Hooks-温故而知新](https://juejin.im/post/5ee37ae0e51d4578a255665b) ![](assets/new.png)  
-- [2020-06-13-DOM事件模型和事件委托](https://juejin.im/post/5ee311abe51d4578810b6698) ![](assets/new.png)  
+- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195)  
+- [2020-06-13-React新旧版本生命周期变化](https://juejin.im/post/5ee49a13f265da771526faf5)  
+- [2020-06-13-设计一款简单实用的-image-组件](https://juejin.im/post/5ee47f1f6fb9a048021482c2)  
+- [2020-06-13-React-Hooks-温故而知新](https://juejin.im/post/5ee37ae0e51d4578a255665b)  
+- [2020-06-13-DOM事件模型和事件委托](https://juejin.im/post/5ee311abe51d4578810b6698)  
 - [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7)  
 - [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  

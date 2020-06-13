@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-13 19:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-13-新发地市场暂时休市期间-北京启动应急交易保供措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-英媒：新冠肺炎疫情前六个月-政府解散防大流行病委员会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-​俄罗斯新增新冠肺炎确诊病例8706例-累计超52万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1) ![](assets/new.png)  
+- [2020-06-13-新发地市场暂时休市期间-北京启动应急交易保供措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1)  
 - [2020-06-13-北京将对新发地农贸批发市场有关人员开展核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1)  
 - [2020-06-13-北京新发地市场已有45人咽拭子阳性-已有40件环境阳性样本](https://m.weibo.cn/3057540037/4515315273659688)  
 - [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-12-品牌强国行动丨益海嘉里：稳价保供支援战“疫”-加大力度投资中国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0pEnL6l96kXssZFRQ0I200612&isfromapp=1)  
 - [2020-06-12-疫情恢复计划通过-古巴将逐步恢复生产和社会经济活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1)  
 - [2020-06-12-墨西哥新增4790例新冠肺炎确诊病例-累计超13万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1)  
-- [2020-06-12-智利新冠肺炎确诊人数超过15万-政府向困难家庭发放补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1)  
-- [2020-06-12-阿根廷新增1386例新冠肺炎确诊病例-全国仅一省尚未发现感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1)  
-- [2020-06-12-北京昨日新增报告1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

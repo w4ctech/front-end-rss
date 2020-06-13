@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "世卫组织：全球新冠肺炎确诊病例超过755万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1",
+        "date": "2020-06-13"
+      },
+      {
         "title": "北京密云：对6名密接者集中隔离观察，新冠病毒核酸检测均为阴性",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitel0BYJKGpp1h2da44xA200613&isfromapp=1",
         "date": "2020-06-13"
@@ -24534,6 +24539,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "一项改变游戏规则的技术：Flutter",
+        "link": "https://toutiao.io/k/8v5n80n",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "使用 Java 语言开发人工智能服务应用",
+        "link": "https://toutiao.io/k/iqcbmlq",
+        "date": "2020-06-13"
+      },
       {
         "title": "这 10 行比较字符串相等的代码给我整懵了，不信你也来看看",
         "link": "https://toutiao.io/k/kf0o4hd",

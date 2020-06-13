@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-13 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -19,6 +19,7 @@
 - [2020-06-03-Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425) 
 - [2020-06-12-一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-13-一项改变游戏规则的技术：Flutter](https://toutiao.io/k/8v5n80n) 
 - [2020-06-12-将-Flutter-集成到现有项目（iOS---Framework-篇）](https://toutiao.io/k/4c0vc5v) 
 - [2020-06-06-Flutter-Weekly-Issue-58](https://toutiao.io/k/6ukxpmm) 
 - [2020-06-04-Flutter-Provider-迄今为止最深、最全、最新的源码分析](https://toutiao.io/k/xx9y4l6) 

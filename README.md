@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 11:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 12:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,9 +94,12 @@
 </summary>
 
 
-- [2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787) ![](assets/new.png)  
-- [2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-陕西新增2例境外输入病例及3例无症状感染者](https://m.weibo.cn/2803301701/4515674812822539) ![](assets/new.png)  
+- [2020-06-14-湖北昨日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787)  
+- [2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1)  
+- [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1)  
 - [2020-06-14-​巴西新冠肺炎确诊病例累计超85万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1)  
 - [2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1)  
 - [2020-06-14-也门新增73例新冠肺炎确诊病例-疫情逐步加剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-13-北京将对新发地农贸批发市场有关人员开展核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1)  
 - [2020-06-13-北京新发地市场已有45人咽拭子阳性-已有40件环境阳性样本](https://m.weibo.cn/3057540037/4515315273659688)  
 - [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1)  
-- [2020-06-13-广东13日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiej8gZI8CthdiuiaMPdS2200613&isfromapp=1)  
-- [2020-06-13-韩国决定延长首都圈强化版防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiudL7HwY3e4oUW9qpBMij200613&isfromapp=1)  
-- [2020-06-13-巴西累计确诊病例逾82万例-死亡人数居世界第二](https://m.weibo.cn/3057540037/4515249375784265)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -910,11 +910,11 @@
 </summary>
 
 
-- [2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f) ![](assets/new.png)  
-- [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0) ![](assets/new.png)  
-- [2020-06-13-深入浅出WebAssembly5-Memory](https://juejin.im/post/5ee43c2df265da76ba7b256f) ![](assets/new.png)  
-- [2020-06-13-深入浅出WebAssembly6-Binary-Format](https://juejin.im/post/5ee43e79f265da76f75bf2a7) ![](assets/new.png)  
-- [2020-06-13-深入浅出WebAssembly7-Future](https://juejin.im/post/5ee4404be51d45789e0da51d) ![](assets/new.png)  
+- [2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f)  
+- [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0)  
+- [2020-06-13-深入浅出WebAssembly5-Memory](https://juejin.im/post/5ee43c2df265da76ba7b256f)  
+- [2020-06-13-深入浅出WebAssembly6-Binary-Format](https://juejin.im/post/5ee43e79f265da76f75bf2a7)  
+- [2020-06-13-深入浅出WebAssembly7-Future](https://juejin.im/post/5ee4404be51d45789e0da51d)  
 - [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195)  
 - [2020-06-13-React新旧版本生命周期变化](https://juejin.im/post/5ee49a13f265da771526faf5)  
 - [2020-06-13-设计一款简单实用的-image-组件](https://juejin.im/post/5ee47f1f6fb9a048021482c2)  

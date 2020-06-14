@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -77,4 +77,5 @@
 - [2020-06-01-Shanghai-Ericsson-云计算产品支持工程师/-专家](https://www.v2ex.com/t/677498) 
 - [2020-05-31-巴哈姆特动画疯-一个不错的动漫网站](https://www.v2ex.com/t/677161) 
 - [2020-05-29-大家是怎么看转场动画的？](https://www.v2ex.com/t/676660) 
+- [2020-06-14-CSS-的-background-属性到底有哪些用法？这篇文章帮你全部总结了](https://toutiao.io/k/gl2qvdc) 
 - [2020-06-08-纯-CSS3-实现打字/输入的效果](https://toutiao.io/k/olq343f) 

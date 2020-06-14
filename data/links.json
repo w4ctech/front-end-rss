@@ -7042,6 +7042,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1974期】前端架构101：MVC的不足与Flux的崛起",
+        "link": "https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "【早读】小程序工程化探索：大规模场景下的问题和解决方案",
+        "link": "https://www.ershicimi.com/p/f2ffe412ed7dcac30eb51809f3472f8b",
+        "date": "2020-06-13"
+      },
+      {
         "title": "【第1973期】SVG 图标制作指南",
         "link": "https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c",
         "date": "2020-06-12"
@@ -10907,6 +10917,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部",
+        "link": "https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "深度解析：分布式存储系统实现快照隔离的常见时钟方案",
+        "link": "https://www.ershicimi.com/p/02fe8c110b44b00fe63734ba7744f757",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "为什么必须将代码从x86迁移到ARM，这篇文章给你答案",
+        "link": "https://www.ershicimi.com/p/0ebb4256d2b418e226fce369daa47e86",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "阿里云蒋江伟：我们致力于为世界提供70%的算力",
+        "link": "https://www.ershicimi.com/p/8cc804c43041a04ec0bf80dc5c087536",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "研究了 50 篇论文后，他发现 AI 领域的某些进步其实就是炒作",
+        "link": "https://www.ershicimi.com/p/18b2e4cde4fd105dff22f6d4cbf9fabb",
+        "date": "2020-06-13"
+      },
       {
         "title": "阿里、字节跳动们“搭台”，罗永浩、董明珠们“唱戏”",
         "link": "https://www.ershicimi.com/p/1e3fbd10ea2164a5b9c79a74de26e6c9",
@@ -24844,6 +24879,76 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "一个神秘 URL 酿大祸，差点让我背锅",
+        "link": "https://toutiao.io/k/8wof0nr",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "前端高级进阶：前端部署的发展历程",
+        "link": "https://toutiao.io/k/2ko6nm3",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "Why Asio?",
+        "link": "https://toutiao.io/k/924yku4",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "Git 的 cherry-pick 命令还没用过？快来看看它的厉害",
+        "link": "https://toutiao.io/k/o0tytvb",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "用户网络行为画像知识点纪要",
+        "link": "https://toutiao.io/k/d5wfsw9",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "Lucene 索引文件的生成（二十一）：dvm && dvd",
+        "link": "https://toutiao.io/k/ps72jxe",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "以深度学习为例理解 22 种设计模式（三）：行为模式",
+        "link": "https://toutiao.io/k/1x7hm47",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "《动手学深度学习》新增 PyTorch 实现",
+        "link": "https://toutiao.io/k/3v1176m",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "CSS 的 background 属性到底有哪些用法？这篇文章帮你全部总结了",
+        "link": "https://toutiao.io/k/gl2qvdc",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "[译] 是时候考虑搭建自己的站点了：Hugo 和 GitHub Pages 为你助力",
+        "link": "https://toutiao.io/k/dkry75o",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "OPPO 内核性能追踪平台技术实践：记一次奇怪的 IO 100% 忙问题定位过程",
+        "link": "https://toutiao.io/k/bnu9c7b",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "eBPF 技术实践：高性能 ACL",
+        "link": "https://toutiao.io/k/5nezsfd",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "漫谈分布式系统（十六）：搞定 worker 的性能问题",
+        "link": "https://toutiao.io/k/ki8la2g",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "终于有一个 Java 可以用的微信机器人了",
+        "link": "https://toutiao.io/k/rgy505e",
+        "date": "2020-06-14"
+      },
       {
         "title": "[推荐] 面向开发人员的 Docker 入门级实战，真香",
         "link": "https://toutiao.io/k/7wk3ylq",

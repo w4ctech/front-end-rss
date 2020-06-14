@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -41,6 +41,8 @@
 - [2020-05-29-GitHub-换新图标了](https://www.v2ex.com/t/676594) 
 - [2020-05-29-Git-如何优雅地回退代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13476&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvjXBdLw_L0dW8l5SKnyeGw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-如何实现-git-命令行的联想功能-old-panda.com](https://blogread.cn/news/go.php?idItem=13467&url=https%3A%2F%2Fold-panda.com%2F2020%2F05%2F22%2Flevenshtein-distance%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-14-Git-的-cherry-pick-命令还没用过？快来看看它的厉害](https://toutiao.io/k/o0tytvb) 
+- [2020-06-14-译-是时候考虑搭建自己的站点了：Hugo-和-GitHub-Pages-为你助力](https://toutiao.io/k/dkry75o) 
 - [2020-06-04-Github-Pages-访问太慢？通过-Netlify-免费加速](https://toutiao.io/k/0sahen2) 
 - [2020-06-04-GitHub-热点速览-Vol.22：如何打造超级技术栈](https://toutiao.io/k/x2b81nd) 
 - [2020-06-03-Tech-与-Team：再聊-Git-Flow](https://toutiao.io/k/ipxbdhd) 

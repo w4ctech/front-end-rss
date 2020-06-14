@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-06-12 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-13-GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部](https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212) 
+- [2020-06-13-深度解析：分布式存储系统实现快照隔离的常见时钟方案](https://www.ershicimi.com/p/02fe8c110b44b00fe63734ba7744f757) 
+- [2020-06-13-为什么必须将代码从x86迁移到ARM，这篇文章给你答案](https://www.ershicimi.com/p/0ebb4256d2b418e226fce369daa47e86) 
+- [2020-06-13-阿里云蒋江伟：我们致力于为世界提供70%的算力](https://www.ershicimi.com/p/8cc804c43041a04ec0bf80dc5c087536) 
+- [2020-06-13-研究了-50-篇论文后，他发现-AI-领域的某些进步其实就是炒作](https://www.ershicimi.com/p/18b2e4cde4fd105dff22f6d4cbf9fabb) 
 - [2020-06-12-阿里、字节跳动们“搭台”，罗永浩、董明珠们“唱戏”](https://www.ershicimi.com/p/1e3fbd10ea2164a5b9c79a74de26e6c9) 
 - [2020-06-12-TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d) 
 - [2020-06-12-用创新改变世界，华为昇腾重新定义AI开发体验-|-Q推荐](https://www.ershicimi.com/p/045128284238d5c0c12b960efa049610) 

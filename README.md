@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 08:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 09:00:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,7 +21,7 @@
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
@@ -44,16 +44,16 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -219,6 +219,8 @@
 </summary>
 
 
+- [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33) ![](assets/new.png)  
+- [2020-06-13-【早读】小程序工程化探索：大规模场景下的问题和解决方案](https://www.ershicimi.com/p/f2ffe412ed7dcac30eb51809f3472f8b) ![](assets/new.png)  
 - [2020-06-12-【第1973期】SVG-图标制作指南](https://www.ershicimi.com/p/176b27e610d64cfe4ab6385f2bdf943c)  
 - [2020-06-12-【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873)  
 - [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6)  
@@ -237,8 +239,6 @@
 - [2020-06-04-【第1965期】前端架构-101：在谈论它们之前我们需要达成的共识](https://www.ershicimi.com/p/e78a22f3e51226f1182a189e79d1f840)  
 - [2020-06-04-【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf)  
 - [2020-06-03-前端开发进阶手册](https://www.ershicimi.com/p/1147e62229b8325df2c96189172dda76)  
-- [2020-06-03-【第1964期】从React-Hooks看React的本质](https://www.ershicimi.com/p/3f582d4f5df54d463c59b486bffbbe7f)  
-- [2020-06-02-【第1963期】探索-React-的内在-—-Fiber-&-Algebraic-Effects](https://www.ershicimi.com/p/b55256f271ae6ed114aef87a47c551b9)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -848,6 +848,11 @@
 </summary>
 
 
+- [2020-06-13-GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部](https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212) ![](assets/new.png)  
+- [2020-06-13-深度解析：分布式存储系统实现快照隔离的常见时钟方案](https://www.ershicimi.com/p/02fe8c110b44b00fe63734ba7744f757) ![](assets/new.png)  
+- [2020-06-13-为什么必须将代码从x86迁移到ARM，这篇文章给你答案](https://www.ershicimi.com/p/0ebb4256d2b418e226fce369daa47e86) ![](assets/new.png)  
+- [2020-06-13-阿里云蒋江伟：我们致力于为世界提供70%的算力](https://www.ershicimi.com/p/8cc804c43041a04ec0bf80dc5c087536) ![](assets/new.png)  
+- [2020-06-13-研究了-50-篇论文后，他发现-AI-领域的某些进步其实就是炒作](https://www.ershicimi.com/p/18b2e4cde4fd105dff22f6d4cbf9fabb) ![](assets/new.png)  
 - [2020-06-12-阿里、字节跳动们“搭台”，罗永浩、董明珠们“唱戏”](https://www.ershicimi.com/p/1e3fbd10ea2164a5b9c79a74de26e6c9)  
 - [2020-06-12-TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d)  
 - [2020-06-12-用创新改变世界，华为昇腾重新定义AI开发体验-|-Q推荐](https://www.ershicimi.com/p/045128284238d5c0c12b960efa049610)  
@@ -863,11 +868,6 @@
 - [2020-06-08-2020年InfoQ趋势报告：运维领域-|-QCon](https://www.ershicimi.com/p/d798b5b39b88f14b0dcaff69a2d88e38)  
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1)  
 - [2020-06-07-Reddit-联合创始人离职；微信回应监听用户：假的；B站6月发射卫星用于科普-|-Q资讯](https://www.ershicimi.com/p/a036f73a1a1d754fcd8d960da1cd9310)  
-- [2020-06-07-腾讯摆摊招聘，你就也想去摆地摊了？](https://www.ershicimi.com/p/ef77cb68b9b0c6e9735b4a28fd7943e3)  
-- [2020-06-07-技术硬核还不够？互联网企业出海指南来了！-|-Q推荐](https://www.ershicimi.com/p/2be889da7879d7e7fbfd6a87aa47da9e)  
-- [2020-06-07-以太坊都这么堵了，Eth-2.0-在干嘛呢？](https://www.ershicimi.com/p/ae647850fbd1d140fb4e1eb073e20b95)  
-- [2020-06-06-中国5G商用这一年：1800亿投入、20万基站、3600万用户](https://www.ershicimi.com/p/4333959b77374010e6e1d1dceab6e309)  
-- [2020-06-06-技术圈Top10书籍，免费送！](https://www.ershicimi.com/p/a5c49964ba1fd6bf7e5fd7987258c56e)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1035,12 +1035,12 @@
 </summary>
 
 
-- [2020-06-14-为什么-SoftEther-服务器不需要-TUN/TAP-设备和-ip_forward-也能工作](https://www.v2ex.com/t/681373) ![](assets/new.png)  
-- [2020-06-14-MrDoc-0.5.3-版本发布，一个基于-Python-编写的开源-Markdown-在线文档系统](https://www.v2ex.com/t/681372) ![](assets/new.png)  
-- [2020-06-14-有没有本地音乐库转线上音乐库的方案?](https://www.v2ex.com/t/681371) ![](assets/new.png)  
-- [2020-06-14-做了个-30-分钟的音乐串烧，欢迎大家在写代码的时候听听看](https://www.v2ex.com/t/681370) ![](assets/new.png)  
-- [2020-06-14-分享一个我的美食网站](https://www.v2ex.com/t/681369) ![](assets/new.png)  
-- [2020-06-14-一个失败的-「Fibonacci-Number」，想请教下为什么代理没有「正确使用」递归内部的缓存结果。](https://www.v2ex.com/t/681368) ![](assets/new.png)  
+- [2020-06-14-为什么-SoftEther-服务器不需要-TUN/TAP-设备和-ip_forward-也能工作](https://www.v2ex.com/t/681373)  
+- [2020-06-14-MrDoc-0.5.3-版本发布，一个基于-Python-编写的开源-Markdown-在线文档系统](https://www.v2ex.com/t/681372)  
+- [2020-06-14-有没有本地音乐库转线上音乐库的方案?](https://www.v2ex.com/t/681371)  
+- [2020-06-14-做了个-30-分钟的音乐串烧，欢迎大家在写代码的时候听听看](https://www.v2ex.com/t/681370)  
+- [2020-06-14-分享一个我的美食网站](https://www.v2ex.com/t/681369)  
+- [2020-06-14-一个失败的-「Fibonacci-Number」，想请教下为什么代理没有「正确使用」递归内部的缓存结果。](https://www.v2ex.com/t/681368)  
 - [2020-06-14-skim-在-macOS-10.14.6-中无法打开其他-PDF-软件创建的-notes](https://www.v2ex.com/t/681367)  
 - [2020-06-14-win10-的锅?](https://www.v2ex.com/t/681365)  
 - [2020-06-14-有人玩-SMC-吗？](https://www.v2ex.com/t/681364)  
@@ -1097,26 +1097,26 @@
 </summary>
 
 
+- [2020-06-14-一个神秘-URL-酿大祸，差点让我背锅](https://toutiao.io/k/8wof0nr) ![](assets/new.png)  
+- [2020-06-14-前端高级进阶：前端部署的发展历程](https://toutiao.io/k/2ko6nm3) ![](assets/new.png)  
+- [2020-06-14-Why-Asio?](https://toutiao.io/k/924yku4) ![](assets/new.png)  
+- [2020-06-14-Git-的-cherry-pick-命令还没用过？快来看看它的厉害](https://toutiao.io/k/o0tytvb) ![](assets/new.png)  
+- [2020-06-14-用户网络行为画像知识点纪要](https://toutiao.io/k/d5wfsw9) ![](assets/new.png)  
+- [2020-06-14-Lucene-索引文件的生成（二十一）：dvm-&&-dvd](https://toutiao.io/k/ps72jxe) ![](assets/new.png)  
+- [2020-06-14-以深度学习为例理解-22-种设计模式（三）：行为模式](https://toutiao.io/k/1x7hm47) ![](assets/new.png)  
+- [2020-06-14-《动手学深度学习》新增-PyTorch-实现](https://toutiao.io/k/3v1176m) ![](assets/new.png)  
+- [2020-06-14-CSS-的-background-属性到底有哪些用法？这篇文章帮你全部总结了](https://toutiao.io/k/gl2qvdc) ![](assets/new.png)  
+- [2020-06-14-译-是时候考虑搭建自己的站点了：Hugo-和-GitHub-Pages-为你助力](https://toutiao.io/k/dkry75o) ![](assets/new.png)  
+- [2020-06-14-OPPO-内核性能追踪平台技术实践：记一次奇怪的-IO-100%-忙问题定位过程](https://toutiao.io/k/bnu9c7b) ![](assets/new.png)  
+- [2020-06-14-eBPF-技术实践：高性能-ACL](https://toutiao.io/k/5nezsfd) ![](assets/new.png)  
+- [2020-06-14-漫谈分布式系统（十六）：搞定-worker-的性能问题](https://toutiao.io/k/ki8la2g) ![](assets/new.png)  
+- [2020-06-14-终于有一个-Java-可以用的微信机器人了](https://toutiao.io/k/rgy505e) ![](assets/new.png)  
 - [2020-06-14-推荐-面向开发人员的-Docker-入门级实战，真香](https://toutiao.io/k/7wk3ylq)  
 - [2020-06-14-推荐-架构设计：异步处理流程，多种实现模式详解](https://toutiao.io/k/64ynvdx)  
 - [2020-06-13-一项改变游戏规则的技术：Flutter](https://toutiao.io/k/8v5n80n)  
 - [2020-06-13-使用-Java-语言开发人工智能服务应用](https://toutiao.io/k/iqcbmlq)  
 - [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd)  
 - [2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz)  
-- [2020-06-13-改掉这些坏习惯，还怕写不出健壮的代码？（四）](https://toutiao.io/k/mxmd1e3)  
-- [2020-06-13-什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft)  
-- [2020-06-13-看完这篇，数据同步还不会，能怪谁](https://toutiao.io/k/z3cstzf)  
-- [2020-06-13-原子操作和互斥锁的区别](https://toutiao.io/k/dvk6o95)  
-- [2020-06-13-译-Python-3.9-beta-2-版本发布了，看看这-7-个新的-PEP-都是什么？](https://toutiao.io/k/yxr4jw8)  
-- [2020-06-13-译-urllib.parse-文档：这里有关于-URL-的一切](https://toutiao.io/k/82xqhy5)  
-- [2020-06-13-ZLT-MP-v3.7.0-发布](https://toutiao.io/k/eu36r25)  
-- [2020-06-13-Java-8-中有趣酷炫的小技巧](https://toutiao.io/k/9zrzodw)  
-- [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f)  
-- [2020-06-13-你可能并不理解-i++-和-++i](https://toutiao.io/k/aeltan4)  
-- [2020-06-12-熬夜之作：一文带你了解-Cat-分布式监控](https://toutiao.io/k/oswj2ss)  
-- [2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1)  
-- [2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu)  
-- [2020-06-12-Spring-自定义事件](https://toutiao.io/k/y3zrwr8)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

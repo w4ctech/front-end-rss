@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1051,6 +1051,7 @@
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) 
 - [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) 
+- [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33) 
 - [2020-06-12-【早读】20200612](https://www.ershicimi.com/p/88492c17c06f90d505810b335a2702b6) 
 - [2020-06-11-【第1972期】可扩展的前端----常见模式](https://www.ershicimi.com/p/f744a5b940d83434272c44e11dd0c032) 
 - [2020-06-10-【第1971期】可扩展的前端----架构基础](https://www.ershicimi.com/p/c05769587144d72cd5677a6d0a40dbed) 
@@ -1344,6 +1345,10 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-13-深度解析：分布式存储系统实现快照隔离的常见时钟方案](https://www.ershicimi.com/p/02fe8c110b44b00fe63734ba7744f757) 
+- [2020-06-13-为什么必须将代码从x86迁移到ARM，这篇文章给你答案](https://www.ershicimi.com/p/0ebb4256d2b418e226fce369daa47e86) 
+- [2020-06-13-阿里云蒋江伟：我们致力于为世界提供70%的算力](https://www.ershicimi.com/p/8cc804c43041a04ec0bf80dc5c087536) 
+- [2020-06-13-研究了-50-篇论文后，他发现-AI-领域的某些进步其实就是炒作](https://www.ershicimi.com/p/18b2e4cde4fd105dff22f6d4cbf9fabb) 
 - [2020-06-12-阿里、字节跳动们“搭台”，罗永浩、董明珠们“唱戏”](https://www.ershicimi.com/p/1e3fbd10ea2164a5b9c79a74de26e6c9) 
 - [2020-06-12-用创新改变世界，华为昇腾重新定义AI开发体验-|-Q推荐](https://www.ershicimi.com/p/045128284238d5c0c12b960efa049610) 
 - [2020-06-11-字节跳动禁止中国员工访问海外产品代码库，“内外有别”保平安？](https://www.ershicimi.com/p/b491ec2822cfd26416cd83e7a6ef3146) 
@@ -3465,6 +3470,13 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-14-前端高级进阶：前端部署的发展历程](https://toutiao.io/k/2ko6nm3) 
+- [2020-06-14-Why-Asio?](https://toutiao.io/k/924yku4) 
+- [2020-06-14-用户网络行为画像知识点纪要](https://toutiao.io/k/d5wfsw9) 
+- [2020-06-14-Lucene-索引文件的生成（二十一）：dvm-&&-dvd](https://toutiao.io/k/ps72jxe) 
+- [2020-06-14-以深度学习为例理解-22-种设计模式（三）：行为模式](https://toutiao.io/k/1x7hm47) 
+- [2020-06-14-《动手学深度学习》新增-PyTorch-实现](https://toutiao.io/k/3v1176m) 
+- [2020-06-14-终于有一个-Java-可以用的微信机器人了](https://toutiao.io/k/rgy505e) 
 - [2020-06-13-使用-Java-语言开发人工智能服务应用](https://toutiao.io/k/iqcbmlq) 
 - [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd) 
 - [2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz) 

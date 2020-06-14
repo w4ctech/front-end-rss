@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 07:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-14-​巴西新冠肺炎确诊病例累计超85万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-也门新增73例新冠肺炎确诊病例-疫情逐步加剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1) ![](assets/new.png)  
 - [2020-06-13-受新冠疫情影响，世界最大规模农业科技博览会取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1)  
 - [2020-06-13-​意大利卫生部部长：已签订新冠病毒疫苗供应合同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0VBZSpYBidLosq7zHBJ200613&isfromapp=1)  
 - [2020-06-13-世卫组织：全球新冠肺炎确诊病例超过755万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-13-​新冠肺炎疫情危机或使全球赤贫人口增至11亿](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00meQmK1c2B26Nx5EygK200613&isfromapp=1)  
 - [2020-06-12-东京奥组委：已确定约8成比赛场馆明年将继续使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1)  
 - [2020-06-12-​香港新增1例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1)  
-- [2020-06-12-北京通报6月12日新增2例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1)  
-- [2020-06-12-英国4月份经济下降20.4%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1)  
-- [2020-06-12-天津12日通报：新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1035,13 +1035,13 @@
 </summary>
 
 
-- [2020-06-14-skim-在-macOS-10.14.6-中无法打开其他-PDF-软件创建的-notes](https://www.v2ex.com/t/681367) ![](assets/new.png)  
-- [2020-06-14-win10-的锅?](https://www.v2ex.com/t/681365) ![](assets/new.png)  
-- [2020-06-14-有人玩-SMC-吗？](https://www.v2ex.com/t/681364) ![](assets/new.png)  
-- [2020-06-14-职业规划问题-程序员或者研发经理升职加薪了，但要走纯管理或者项目管理，基本无实操，老哥们觉得行不行？](https://www.v2ex.com/t/681363) ![](assets/new.png)  
-- [2020-06-14-远程美国公司兼职-诚聘有经验的-iOS-程序员，-时间灵活，待遇优厚](https://www.v2ex.com/t/681362) ![](assets/new.png)  
-- [2020-06-14-iOS-初学者想做个-Markdown-编辑器，请问会有什么坑？](https://www.v2ex.com/t/681361) ![](assets/new.png)  
-- [2020-06-14-半夜醒来睡不着,干嘛好呢.](https://www.v2ex.com/t/681360) ![](assets/new.png)  
+- [2020-06-14-skim-在-macOS-10.14.6-中无法打开其他-PDF-软件创建的-notes](https://www.v2ex.com/t/681367)  
+- [2020-06-14-win10-的锅?](https://www.v2ex.com/t/681365)  
+- [2020-06-14-有人玩-SMC-吗？](https://www.v2ex.com/t/681364)  
+- [2020-06-14-职业规划问题-程序员或者研发经理升职加薪了，但要走纯管理或者项目管理，基本无实操，老哥们觉得行不行？](https://www.v2ex.com/t/681363)  
+- [2020-06-14-远程美国公司兼职-诚聘有经验的-iOS-程序员，-时间灵活，待遇优厚](https://www.v2ex.com/t/681362)  
+- [2020-06-14-iOS-初学者想做个-Markdown-编辑器，请问会有什么坑？](https://www.v2ex.com/t/681361)  
+- [2020-06-14-半夜醒来睡不着,干嘛好呢.](https://www.v2ex.com/t/681360)  
 - [2020-06-14-C#NULL-检查运算符（?.）和泛型](https://www.v2ex.com/t/681359)  
 - [2020-06-14-计算机考研应该怎么准备呢-求过来人指点](https://www.v2ex.com/t/681358)  
 - [2020-06-14-听说国内的-MATLAB-已经用不了了？](https://www.v2ex.com/t/681357)  
@@ -1097,6 +1097,8 @@
 </summary>
 
 
+- [2020-06-14-推荐-面向开发人员的-Docker-入门级实战，真香](https://toutiao.io/k/7wk3ylq) ![](assets/new.png)  
+- [2020-06-14-推荐-架构设计：异步处理流程，多种实现模式详解](https://toutiao.io/k/64ynvdx) ![](assets/new.png)  
 - [2020-06-13-一项改变游戏规则的技术：Flutter](https://toutiao.io/k/8v5n80n)  
 - [2020-06-13-使用-Java-语言开发人工智能服务应用](https://toutiao.io/k/iqcbmlq)  
 - [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd)  
@@ -1115,8 +1117,6 @@
 - [2020-06-12-前端也能轻松年薪-20w+？超详细攻略下篇来了](https://toutiao.io/k/ko220s1)  
 - [2020-06-12-程序员的函数](https://toutiao.io/k/k1uakvu)  
 - [2020-06-12-Spring-自定义事件](https://toutiao.io/k/y3zrwr8)  
-- [2020-06-12-程序员摆地摊到底该卖什么？|-码农周刊第-309-期](https://toutiao.io/k/ipzx355)  
-- [2020-06-12-为什么数据库不应该使用外键](https://toutiao.io/k/7rytvnu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

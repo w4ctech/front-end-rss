@@ -5102,6 +5102,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​巴西新冠肺炎确诊病例累计超85万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "美国确诊病例超过206万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "也门新增73例新冠肺炎确诊病例 疫情逐步加剧",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1",
+        "date": "2020-06-14"
+      },
+      {
         "title": "受新冠疫情影响，世界最大规模农业科技博览会取消",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1",
         "date": "2020-06-13"
@@ -24799,6 +24814,16 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[推荐] 面向开发人员的 Docker 入门级实战，真香",
+        "link": "https://toutiao.io/k/7wk3ylq",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "[推荐] 架构设计：异步处理流程，多种实现模式详解",
+        "link": "https://toutiao.io/k/64ynvdx",
+        "date": "2020-06-14"
+      },
       {
         "title": "一项改变游戏规则的技术：Flutter",
         "link": "https://toutiao.io/k/8v5n80n",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-14 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,9 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-​巴西新冠肺炎确诊病例累计超85万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-也门新增73例新冠肺炎确诊病例-疫情逐步加剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1) 
@@ -728,6 +731,11 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f) 
+- [【掘金前端】2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0) 
+- [【掘金前端】2020-06-13-深入浅出WebAssembly5-Memory](https://juejin.im/post/5ee43c2df265da76ba7b256f) 
+- [【掘金前端】2020-06-13-深入浅出WebAssembly6-Binary-Format](https://juejin.im/post/5ee43e79f265da76f75bf2a7) 
+- [【掘金前端】2020-06-13-深入浅出WebAssembly7-Future](https://juejin.im/post/5ee4404be51d45789e0da51d) 
 - [【掘金前端】2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195) 
 - [【掘金前端】2020-06-13-React新旧版本生命周期变化](https://juejin.im/post/5ee49a13f265da771526faf5) 
 - [【掘金前端】2020-06-13-设计一款简单实用的-image-组件](https://juejin.im/post/5ee47f1f6fb9a048021482c2) 

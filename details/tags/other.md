@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787) 
+- [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1) 
 - [2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1) 
 - [2020-06-13-受新冠疫情影响，世界最大规模农业科技博览会取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1) 
 - [2020-06-13-​意大利卫生部部长：已签订新冠病毒疫苗供应合同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0VBZSpYBidLosq7zHBJ200613&isfromapp=1) 

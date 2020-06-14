@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 22:30:21，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 23:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-国家卫健委：目前北京疫情十分严峻存不确定性-防控措施落实四扩大四加强和四早](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1) ![](assets/new.png)  
 - [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1)  
 - [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1)  
 - [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1)  
 - [2020-06-14-​巴西新冠肺炎确诊病例累计超85万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1)  
 - [2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1)  
-- [2020-06-14-也门新增73例新冠肺炎确诊病例-疫情逐步加剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1)  
-- [2020-06-13-受新冠疫情影响，世界最大规模农业科技博览会取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1039,26 +1039,26 @@
 </summary>
 
 
-- [2020-06-14-阿里云国际香港节点走-PCCW-了](https://www.v2ex.com/t/681515) ![](assets/new.png)  
-- [2020-06-14-回顾《东东不死传说》这款游戏真是玩一次笑一次](https://www.v2ex.com/t/681514) ![](assets/new.png)  
-- [2020-06-14-请教一个很怪异的-css3-问题,关于-transform](https://www.v2ex.com/t/681513) ![](assets/new.png)  
-- [2020-06-14-2.week-独立开发第二周](https://www.v2ex.com/t/681512) ![](assets/new.png)  
-- [2020-06-14-树一定满足一对多的关系吗？](https://www.v2ex.com/t/681507) ![](assets/new.png)  
-- [2020-06-14-Netflix-自用车，土区，招长期车位招-1-人（加我共四人拼车），-17/月，月结！](https://www.v2ex.com/t/681505) ![](assets/new.png)  
-- [2020-06-14-YouTube-为什么能做到只推送我感兴趣的视频？](https://www.v2ex.com/t/681504) ![](assets/new.png)  
-- [2020-06-14-应该怎么自学-Java-后端啊？](https://www.v2ex.com/t/681500) ![](assets/new.png)  
-- [2020-06-14-马克思-星链计划申请](https://www.v2ex.com/t/681498) ![](assets/new.png)  
-- [2020-06-14-你们会因为自己参与的项目不再运行而感到悲伤吗？](https://www.v2ex.com/t/681496) ![](assets/new.png)  
-- [2020-06-14-iCloud-Drive-在-iOS-Files-里打开，图片都没有预览的吗？](https://www.v2ex.com/t/681495) ![](assets/new.png)  
-- [2020-06-14-问一个-dx11-的问题，我的渲染在一些机器上是黑色](https://www.v2ex.com/t/681494) ![](assets/new.png)  
-- [2020-06-14-URL-的历史](https://www.v2ex.com/t/681493) ![](assets/new.png)  
-- [2020-06-14-k8s-集群负载均衡](https://www.v2ex.com/t/681492) ![](assets/new.png)  
-- [2020-06-14-怎么主动向-Google-举抱垃圾站和采集站？](https://www.v2ex.com/t/681491) ![](assets/new.png)  
-- [2020-06-14-我不要加班了，-JoJo!-求一家北京-955-的公司](https://www.v2ex.com/t/681490) ![](assets/new.png)  
-- [2020-06-14-android-平板-64G-够用吗？](https://www.v2ex.com/t/681486) ![](assets/new.png)  
-- [2020-06-14-CAD-CAD-CAD-文件浏览器哪家强？](https://www.v2ex.com/t/681485) ![](assets/new.png)  
-- [2020-06-14-请问一下五和这边有转租么](https://www.v2ex.com/t/681484) ![](assets/new.png)  
-- [2020-06-14-求推荐预算-5k-的合适做设计的本本？](https://www.v2ex.com/t/681483) ![](assets/new.png)  
+- [2020-06-14-阿里云国际香港节点走-PCCW-了](https://www.v2ex.com/t/681515)  
+- [2020-06-14-回顾《东东不死传说》这款游戏真是玩一次笑一次](https://www.v2ex.com/t/681514)  
+- [2020-06-14-请教一个很怪异的-css3-问题,关于-transform](https://www.v2ex.com/t/681513)  
+- [2020-06-14-2.week-独立开发第二周](https://www.v2ex.com/t/681512)  
+- [2020-06-14-树一定满足一对多的关系吗？](https://www.v2ex.com/t/681507)  
+- [2020-06-14-Netflix-自用车，土区，招长期车位招-1-人（加我共四人拼车），-17/月，月结！](https://www.v2ex.com/t/681505)  
+- [2020-06-14-YouTube-为什么能做到只推送我感兴趣的视频？](https://www.v2ex.com/t/681504)  
+- [2020-06-14-应该怎么自学-Java-后端啊？](https://www.v2ex.com/t/681500)  
+- [2020-06-14-马克思-星链计划申请](https://www.v2ex.com/t/681498)  
+- [2020-06-14-你们会因为自己参与的项目不再运行而感到悲伤吗？](https://www.v2ex.com/t/681496)  
+- [2020-06-14-iCloud-Drive-在-iOS-Files-里打开，图片都没有预览的吗？](https://www.v2ex.com/t/681495)  
+- [2020-06-14-问一个-dx11-的问题，我的渲染在一些机器上是黑色](https://www.v2ex.com/t/681494)  
+- [2020-06-14-URL-的历史](https://www.v2ex.com/t/681493)  
+- [2020-06-14-k8s-集群负载均衡](https://www.v2ex.com/t/681492)  
+- [2020-06-14-怎么主动向-Google-举抱垃圾站和采集站？](https://www.v2ex.com/t/681491)  
+- [2020-06-14-我不要加班了，-JoJo!-求一家北京-955-的公司](https://www.v2ex.com/t/681490)  
+- [2020-06-14-android-平板-64G-够用吗？](https://www.v2ex.com/t/681486)  
+- [2020-06-14-CAD-CAD-CAD-文件浏览器哪家强？](https://www.v2ex.com/t/681485)  
+- [2020-06-14-请问一下五和这边有转租么](https://www.v2ex.com/t/681484)  
+- [2020-06-14-求推荐预算-5k-的合适做设计的本本？](https://www.v2ex.com/t/681483)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

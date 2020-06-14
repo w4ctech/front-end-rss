@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 21:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1)  
 - [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1)  
 - [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
 - [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1)  
@@ -914,6 +914,7 @@
 </summary>
 
 
+- [2020-06-14-初谈-CSS-预处理器](https://juejin.im/post/5ee625c46fb9a047f47ce127) ![](assets/new.png)  
 - [2020-06-14-《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb)  
 - [2020-06-14-使用Node.js和JSON搭建简单的动态服务器](https://juejin.im/post/5ee58c926fb9a047ae454143)  
 - [2020-06-14-Unity学习—JobSystem](https://juejin.im/post/5ee503b6518825431437699e)  
@@ -933,7 +934,6 @@
 - [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7)  
 - [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  
-- [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

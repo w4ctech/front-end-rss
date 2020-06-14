@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 21:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 21:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1)  
 - [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
 - [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1)  
 - [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1)  
 - [2020-06-14-也门新增73例新冠肺炎确诊病例-疫情逐步加剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1)  
 - [2020-06-13-受新冠疫情影响，世界最大规模农业科技博览会取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1)  
-- [2020-06-13-​意大利卫生部部长：已签订新冠病毒疫苗供应合同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0VBZSpYBidLosq7zHBJ200613&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

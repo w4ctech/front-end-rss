@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 17:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1) ![](assets/new.png)  
 - [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
 - [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1)  
 - [2020-06-14-北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-13-世卫组织：全球新冠肺炎确诊病例超过755万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1)  
 - [2020-06-13-北京密云：对6名密接者集中隔离观察，新冠病毒核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitel0BYJKGpp1h2da44xA200613&isfromapp=1)  
 - [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1)  
-- [2020-06-13-英媒：新冠肺炎疫情前六个月-政府解散防大流行病委员会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1)  
-- [2020-06-13-​俄罗斯新增新冠肺炎确诊病例8706例-累计超52万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,7 +468,7 @@
 </summary>
 
 
-- [2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be) ![](assets/new.png)  
+- [2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be)  
 - [2020-06-12-手把手封装React-按需渲染组件](https://www.ershicimi.com/p/b1e7819e765f842e907b2488498e5f15)  
 - [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52)  
 - [2020-06-10-剖析-Vue3.0-框架及源码](https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663)  

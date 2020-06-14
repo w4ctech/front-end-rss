@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 06:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-15-北京海淀启动对玉泉东市场周边社区封闭管理-附近学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1) ![](assets/new.png)  
 - [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1)  
 - [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1)  
 - [2020-06-14-国家卫健委：目前北京疫情十分严峻存不确定性-防控措施落实四扩大四加强和四早](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787)  
 - [2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1)  
 - [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1)  
-- [2020-06-14-​巴西新冠肺炎确诊病例累计超85万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,11 +914,11 @@
 </summary>
 
 
-- [2020-06-14-三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108) ![](assets/new.png)  
-- [2020-06-14-vue源码阅读第三篇，渲染代码块生成](https://juejin.im/post/5ee64758f265da76cf6e6677) ![](assets/new.png)  
-- [2020-06-14-浏览器如何运行-JavaScript](https://juejin.im/post/5ee60ccdf265da76bc7613c7) ![](assets/new.png)  
-- [2020-06-14-小程序实战十三-抽离公共组件](https://juejin.im/post/5ee60596f265da76db2c34fd) ![](assets/new.png)  
-- [2020-06-14-JS基础一-畅游promise世界](https://juejin.im/post/5ee5f30bf265da76db2c34ed) ![](assets/new.png)  
+- [2020-06-14-三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108)  
+- [2020-06-14-vue源码阅读第三篇，渲染代码块生成](https://juejin.im/post/5ee64758f265da76cf6e6677)  
+- [2020-06-14-浏览器如何运行-JavaScript](https://juejin.im/post/5ee60ccdf265da76bc7613c7)  
+- [2020-06-14-小程序实战十三-抽离公共组件](https://juejin.im/post/5ee60596f265da76db2c34fd)  
+- [2020-06-14-JS基础一-畅游promise世界](https://juejin.im/post/5ee5f30bf265da76db2c34ed)  
 - [2020-06-14-初谈-CSS-预处理器](https://juejin.im/post/5ee625c46fb9a047f47ce127)  
 - [2020-06-14-《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb)  
 - [2020-06-14-使用Node.js和JSON搭建简单的动态服务器](https://juejin.im/post/5ee58c926fb9a047ae454143)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 06:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -73,6 +73,7 @@
 - [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727) 
 - [2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
+- [2020-06-14-vue源码阅读第三篇，渲染代码块生成](https://juejin.im/post/5ee64758f265da76cf6e6677) 
 - [2020-06-14-使用基于Vue.js和Hbuilder的混合模式移动开发打造属于自己的移动App](https://juejin.im/post/5ee5744e51882536846788e4) 
 - [2020-06-12-【踩坑】微信端vue+vant+better-scroll-，目前基本填平欢迎讨论~](https://juejin.im/post/5ee33c90e51d45789e0da430) 
 - [2020-06-10-解析vue双向绑定原理](https://juejin.im/post/5ee045fbf265da76d85d1dce) 

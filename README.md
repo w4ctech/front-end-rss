@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 17:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 17:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
+- [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1)  
 - [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
 - [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1)  
 - [2020-06-14-北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1)  
@@ -1039,26 +1039,26 @@
 </summary>
 
 
-- [2020-06-14-为什么-SoftEther-服务器不需要-TUN/TAP-设备和-ip_forward-也能工作](https://www.v2ex.com/t/681373)  
-- [2020-06-14-MrDoc-0.5.3-版本发布，一个基于-Python-编写的开源-Markdown-在线文档系统](https://www.v2ex.com/t/681372)  
-- [2020-06-14-有没有本地音乐库转线上音乐库的方案?](https://www.v2ex.com/t/681371)  
-- [2020-06-14-做了个-30-分钟的音乐串烧，欢迎大家在写代码的时候听听看](https://www.v2ex.com/t/681370)  
-- [2020-06-14-分享一个我的美食网站](https://www.v2ex.com/t/681369)  
-- [2020-06-14-一个失败的-「Fibonacci-Number」，想请教下为什么代理没有「正确使用」递归内部的缓存结果。](https://www.v2ex.com/t/681368)  
-- [2020-06-14-skim-在-macOS-10.14.6-中无法打开其他-PDF-软件创建的-notes](https://www.v2ex.com/t/681367)  
-- [2020-06-14-win10-的锅?](https://www.v2ex.com/t/681365)  
-- [2020-06-14-有人玩-SMC-吗？](https://www.v2ex.com/t/681364)  
-- [2020-06-14-职业规划问题-程序员或者研发经理升职加薪了，但要走纯管理或者项目管理，基本无实操，老哥们觉得行不行？](https://www.v2ex.com/t/681363)  
-- [2020-06-14-远程美国公司兼职-诚聘有经验的-iOS-程序员，-时间灵活，待遇优厚](https://www.v2ex.com/t/681362)  
-- [2020-06-14-iOS-初学者想做个-Markdown-编辑器，请问会有什么坑？](https://www.v2ex.com/t/681361)  
-- [2020-06-14-半夜醒来睡不着,干嘛好呢.](https://www.v2ex.com/t/681360)  
-- [2020-06-14-C#NULL-检查运算符（?.）和泛型](https://www.v2ex.com/t/681359)  
-- [2020-06-14-计算机考研应该怎么准备呢-求过来人指点](https://www.v2ex.com/t/681358)  
-- [2020-06-14-听说国内的-MATLAB-已经用不了了？](https://www.v2ex.com/t/681357)  
-- [2020-06-14-求资源，简单生活-365-天-纪录片](https://www.v2ex.com/t/681356)  
-- [2020-06-14-随便聊，-blacklist-改为-blocklist-了，那-whitelist-改为啥比较合适=-=](https://www.v2ex.com/t/681355)  
-- [2020-06-14-推荐台湾电影《阳光普照》](https://www.v2ex.com/t/681354)  
-- [2020-06-14-为什么-Reddit-网页这么卡](https://www.v2ex.com/t/681353)  
+- [2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467) ![](assets/new.png)  
+- [2020-06-14-笔记本打算复活成群晖+软路由，-win10-虚拟群晖+软路由还是直接群晖好呢](https://www.v2ex.com/t/681466) ![](assets/new.png)  
+- [2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465) ![](assets/new.png)  
+- [2020-06-14-有人知道-Mac-iCloud-云盘触发下载机制是什么吗？](https://www.v2ex.com/t/681464) ![](assets/new.png)  
+- [2020-06-14-关于抽象类与接口](https://www.v2ex.com/t/681463) ![](assets/new.png)  
+- [2020-06-14-Java-动态代理类如何查看字节码](https://www.v2ex.com/t/681462) ![](assets/new.png)  
+- [2020-06-14-有没有“反向”Server-酱-的服务？](https://www.v2ex.com/t/681461) ![](assets/new.png)  
+- [2020-06-14-新版的-chrome-切换-tab-经常焦点跑到网页外，大家有遇到过吗？](https://www.v2ex.com/t/681460) ![](assets/new.png)  
+- [2020-06-14-更新用非当前登录的-Apple-ID-购买的App,-跳出来的“请输入密码”窗口似乎不会再展示当时的邮箱了。](https://www.v2ex.com/t/681459) ![](assets/new.png)  
+- [2020-06-14-docker、docker-compose-部署-gitlab,如何配置-https,让-git-clone-地址与域名一样不带端口号](https://www.v2ex.com/t/681458) ![](assets/new.png)  
+- [2020-06-14-有人知道-airpots-是用的什么系统驱动的吗？](https://www.v2ex.com/t/681457) ![](assets/new.png)  
+- [2020-06-14-现阶段不下百度网盘全家桶桌面版下几-g-大文件的最好办法是？](https://www.v2ex.com/t/681456) ![](assets/new.png)  
+- [2020-06-14-大家见过电脑等设备自己启动的事情吗？](https://www.v2ex.com/t/681455) ![](assets/new.png)  
+- [2020-06-14-基于什么原因，手机音乐-app-不能调节-app-内音量？](https://www.v2ex.com/t/681454) ![](assets/new.png)  
+- [2020-06-14-怀疑家里被攻击了](https://www.v2ex.com/t/681453) ![](assets/new.png)  
+- [2020-06-14-转租-朝阳区花家地南里主卧转租](https://www.v2ex.com/t/681451) ![](assets/new.png)  
+- [2020-06-14-golang-有没有更动态化,更强大的反射?](https://www.v2ex.com/t/681449) ![](assets/new.png)  
+- [2020-06-14-Go-之如何操作结构体的非导出字段](https://www.v2ex.com/t/681448) ![](assets/new.png)  
+- [2020-06-14-请问在南山西丽这找房子租，两房一厅价位大概是多少额？](https://www.v2ex.com/t/681447) ![](assets/new.png)  
+- [2020-06-14-Android-11-Beta-版本很低调地上线了](https://www.v2ex.com/t/681446) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

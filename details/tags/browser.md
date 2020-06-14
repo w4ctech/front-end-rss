@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,6 +53,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-14-新版的-chrome-切换-tab-经常焦点跑到网页外，大家有遇到过吗？](https://www.v2ex.com/t/681460) 
+- [2020-06-14-微信支付对接银行服务商报-当前页面-url-未注册](https://www.v2ex.com/t/681422) 
 - [2020-06-14-一个失败的-「Fibonacci-Number」，想请教下为什么代理没有「正确使用」递归内部的缓存结果。](https://www.v2ex.com/t/681368) 
 - [2020-06-13-Chrome-终于走出这一步了……](https://www.v2ex.com/t/681135) 
 - [2020-06-12-问一个显卡、SSD-和-PCIE-插槽相关的问题](https://www.v2ex.com/t/681112) 

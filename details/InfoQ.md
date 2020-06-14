@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-06-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) 
+- [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
+- [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) 
+- [2020-06-14-低门槛+高效率，Python助力CUDA轻松实践-|-Q推荐](https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8) 
+- [2020-06-14-分析了上千张照片发现：R-语言程序员最快乐，Java-开发者最年轻](https://www.ershicimi.com/p/9fe49a6797ef7e8df81ea8f989623eb3) 
 - [2020-06-13-GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部](https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212) 
 - [2020-06-13-深度解析：分布式存储系统实现快照隔离的常见时钟方案](https://www.ershicimi.com/p/02fe8c110b44b00fe63734ba7744f757) 
 - [2020-06-13-为什么必须将代码从x86迁移到ARM，这篇文章给你答案](https://www.ershicimi.com/p/0ebb4256d2b418e226fce369daa47e86) 

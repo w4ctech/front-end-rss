@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1023,6 +1023,7 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-13-赠书-|-前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/cceb169953aa27d4b74e507da0e9db07) 
 - [2020-06-12-19个前端开发人员的救生工具](https://www.ershicimi.com/p/00e557a501656edaeed8ce0e5b972613) 
 - [2020-06-11-10个宝藏网站，你一定用的上](https://www.ershicimi.com/p/693c60c8477b33f1f9bc85fd78bc748b) 
 - [2020-06-10-前端工程师如何处理10万条数据](https://www.ershicimi.com/p/b2a61184e9aeaff82d39661a22663588) 
@@ -1345,6 +1346,10 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) 
+- [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) 
+- [2020-06-14-低门槛+高效率，Python助力CUDA轻松实践-|-Q推荐](https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8) 
+- [2020-06-14-分析了上千张照片发现：R-语言程序员最快乐，Java-开发者最年轻](https://www.ershicimi.com/p/9fe49a6797ef7e8df81ea8f989623eb3) 
 - [2020-06-13-深度解析：分布式存储系统实现快照隔离的常见时钟方案](https://www.ershicimi.com/p/02fe8c110b44b00fe63734ba7744f757) 
 - [2020-06-13-为什么必须将代码从x86迁移到ARM，这篇文章给你答案](https://www.ershicimi.com/p/0ebb4256d2b418e226fce369daa47e86) 
 - [2020-06-13-阿里云蒋江伟：我们致力于为世界提供70%的算力](https://www.ershicimi.com/p/8cc804c43041a04ec0bf80dc5c087536) 

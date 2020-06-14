@@ -6741,6 +6741,16 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "从零构建前端 ESLint 工作流（2020手把手版）",
+        "link": "https://www.ershicimi.com/p/052c3586c4af668856e135a83d061d9b",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "赠书 | 前端人的最佳跨平台解决方案",
+        "link": "https://www.ershicimi.com/p/cceb169953aa27d4b74e507da0e9db07",
+        "date": "2020-06-13"
+      },
+      {
         "title": "除了 Vue，前端开发还需掌握哪些核心能力？",
         "link": "https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a",
         "date": "2020-06-12"
@@ -8689,6 +8699,16 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "推荐一位 github 项目 9K star 的 BAT 前端大佬",
+        "link": "https://www.ershicimi.com/p/fc6dc943bc97f89235897429e47fcc91",
+        "date": "2020-06-13"
+      },
+      {
+        "title": "Chrome 运行时性能瓶颈分析",
+        "link": "https://www.ershicimi.com/p/4d4543a511ce5dd1524e364705ff8e85",
+        "date": "2020-06-13"
+      },
       {
         "title": "vue项目部署的最佳实践",
         "link": "https://www.ershicimi.com/p/020d13a4319c1f7a5cc972d8cd6e382a",
@@ -10917,6 +10937,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB",
+        "link": "https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "用了6个月的GraphQL，真香！",
+        "link": "https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "写了 5 年 Java，这些坑还是没躲过…… | 极客时间",
+        "link": "https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "低门槛+高效率，Python助力CUDA轻松实践 | Q推荐",
+        "link": "https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "分析了上千张照片发现：R 语言程序员最快乐，Java 开发者最年轻",
+        "link": "https://www.ershicimi.com/p/9fe49a6797ef7e8df81ea8f989623eb3",
+        "date": "2020-06-14"
+      },
       {
         "title": "GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部",
         "link": "https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212",

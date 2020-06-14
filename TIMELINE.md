@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-14 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -532,6 +532,7 @@
 - [【前端迷】2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) 
 - [【前端迷】2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be) 
 - [【全栈前端精选】2020-06-12-手把手封装React-按需渲染组件](https://www.ershicimi.com/p/b1e7819e765f842e907b2488498e5f15) 
 - [【全栈前端精选】2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52) 
 - [【全栈前端精选】2020-06-10-剖析-Vue3.0-框架及源码](https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 14:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 14:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,11 +26,11 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,10 +94,10 @@
 </summary>
 
 
-- [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-陕西新增境外输入确诊病例2例-，新增境外输入无症状感染者3例，本地连续115天无新增](http://sxwjw.shaanxi.gov.cn/art/2020/6/14/art_9_71063.html) ![](assets/new.png)  
+- [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
+- [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1)  
+- [2020-06-14-北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1)  
+- [2020-06-14-陕西新增境外输入确诊病例2例-，新增境外输入无症状感染者3例，本地连续115天无新增](http://sxwjw.shaanxi.gov.cn/art/2020/6/14/art_9_71063.html)  
 - [2020-06-14-陕西新增2例境外输入病例及3例无症状感染者](https://m.weibo.cn/2803301701/4515674812822539)  
 - [2020-06-14-湖北昨日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1)  
 - [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1)  
@@ -354,8 +354,8 @@
 </summary>
 
 
-- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/c197a09d6f623c77181fba0c189471aa) ![](assets/new.png)  
-- [2020-06-13-那些不常见，但却非常实用的css属性整理不易](https://www.ershicimi.com/p/f54e249579d2f5246017dfb37df84694) ![](assets/new.png)  
+- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/c197a09d6f623c77181fba0c189471aa)  
+- [2020-06-13-那些不常见，但却非常实用的css属性整理不易](https://www.ershicimi.com/p/f54e249579d2f5246017dfb37df84694)  
 - [2020-06-12-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/5270f29c21aefd9f7dc459f73133e763)  
 - [2020-06-12-巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/719c15f24d7f8d25ab0a33b4dd7a4303)  
 - [2020-06-11-“我那个工资5000的程序员朋友，三年存下了50万”](https://www.ershicimi.com/p/a36d5da6acb9abbf677a9e4b5298b0a6)  
@@ -468,6 +468,7 @@
 </summary>
 
 
+- [2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be) ![](assets/new.png)  
 - [2020-06-12-手把手封装React-按需渲染组件](https://www.ershicimi.com/p/b1e7819e765f842e907b2488498e5f15)  
 - [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52)  
 - [2020-06-10-剖析-Vue3.0-框架及源码](https://www.ershicimi.com/p/e231e45aefa4d3a69ec8f504ef7b0663)  
@@ -487,7 +488,6 @@
 - [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519)  
 - [2020-05-31-淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6)  
 - [2020-05-30-我的VS-Code设置，高效编码！](https://www.ershicimi.com/p/9f7b3801200cdeab85977e00b2831bd0)  
-- [2020-05-29-如何建立自己的前端知识体系？](https://www.ershicimi.com/p/51e09e6b1f7b77ecca789e5c63df5afb)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

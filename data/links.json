@@ -11527,6 +11527,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "使用基于Vue.js和Hbuilder的混合模式移动开发打造属于自己的移动App",
+        "link": "https://juejin.im/post/5ee5744e51882536846788e4",
+        "date": "2020-06-14"
+      },
+      {
         "title": "100 行 js 代码下载抖音无水印视频",
         "link": "https://juejin.im/post/5ee4f035e51d4578615af59f",
         "date": "2020-06-14"

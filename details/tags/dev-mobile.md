@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -10,6 +10,7 @@
 - [2020-06-02-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185) 
 - [2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249) 
 - [2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457) 
+- [2020-06-14-《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb) 
 - [2020-06-10-Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8) 
 - [2020-06-09-Flutter-中-GestureDetector-的使用误区](https://juejin.im/post/5edf1fa7f265da76c960a799) 
 - [2020-06-03-Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71) 

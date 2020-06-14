@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 19:00:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 20:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
+- [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1)  
 - [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
 - [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1)  
 - [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
@@ -914,6 +914,11 @@
 </summary>
 
 
+- [2020-06-14-《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb) ![](assets/new.png)  
+- [2020-06-14-使用Node.js和JSON搭建简单的动态服务器](https://juejin.im/post/5ee58c926fb9a047ae454143) ![](assets/new.png)  
+- [2020-06-14-Unity学习—JobSystem](https://juejin.im/post/5ee503b6518825431437699e) ![](assets/new.png)  
+- [2020-06-14-15-个很有用的自定义-React-Hooks](https://juejin.im/post/5ee4c33ae51d4578762017c7) ![](assets/new.png)  
+- [2020-06-14-从零学习webpack4.0模块打包工具](https://juejin.im/post/5ee4bdb3f265da76ee1f65a5) ![](assets/new.png)  
 - [2020-06-14-使用基于Vue.js和Hbuilder的混合模式移动开发打造属于自己的移动App](https://juejin.im/post/5ee5744e51882536846788e4)  
 - [2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f)  
 - [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0)  
@@ -929,11 +934,6 @@
 - [2020-06-12-ZooTeam-前端周刊｜第-86-期](https://juejin.im/post/5ee3463c51882542f56f7d21)  
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)  
 - [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0)  
-- [2020-06-12-【踩坑】微信端vue+vant+better-scroll-，目前基本填平欢迎讨论~](https://juejin.im/post/5ee33c90e51d45789e0da430)  
-- [2020-06-12-Angular-HttpClient-30分钟轻松上手](https://juejin.im/post/5ee344586fb9a0479673478e)  
-- [2020-06-10-手把手带你撸个属于自己react项目|webpack+babel+typescript+eslint](https://juejin.im/post/5ee0e6e0e51d4510a178a3eb)  
-- [2020-06-10-Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8)  
-- [2020-06-10-2020前端春招面经总结！](https://juejin.im/post/5ee09789518825430b3083db)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1039,16 +1039,16 @@
 </summary>
 
 
-- [2020-06-14-请教下-一对-N-数据表同步的场景怎么提高并发性能](https://www.v2ex.com/t/681479) ![](assets/new.png)  
-- [2020-06-14-error:-invalid-conversion-from-‘const-char*’-to-‘char’--fpermissive](https://www.v2ex.com/t/681478) ![](assets/new.png)  
-- [2020-06-14-为啥-Anaconda-安装-redis-py-包之后，到-Python-里-import-的时候名字变成-redis-了](https://www.v2ex.com/t/681476) ![](assets/new.png)  
-- [2020-06-14-在-Google-Trends-里头比较了一下自-2004-年起-2020-年期间主流几个密码管理软件的趋势](https://www.v2ex.com/t/681475) ![](assets/new.png)  
-- [2020-06-14-京东装机店库内组装服务靠谱吗？](https://www.v2ex.com/t/681473) ![](assets/new.png)  
-- [2020-06-14-不懂就问-啥区别？](https://www.v2ex.com/t/681472) ![](assets/new.png)  
-- [2020-06-14-理发店被坑，我的维权经历（直通国家信访局）](https://www.v2ex.com/t/681471) ![](assets/new.png)  
-- [2020-06-14-fastjson-现在还推荐使用吗？](https://www.v2ex.com/t/681470) ![](assets/new.png)  
-- [2020-06-14-15'-2015-款-MBP-能用-PD-快冲吗？](https://www.v2ex.com/t/681469) ![](assets/new.png)  
-- [2020-06-14-Bilibili-的评论的静默删除着实恶心人](https://www.v2ex.com/t/681468) ![](assets/new.png)  
+- [2020-06-14-请教下-一对-N-数据表同步的场景怎么提高并发性能](https://www.v2ex.com/t/681479)  
+- [2020-06-14-error:-invalid-conversion-from-‘const-char*’-to-‘char’--fpermissive](https://www.v2ex.com/t/681478)  
+- [2020-06-14-为啥-Anaconda-安装-redis-py-包之后，到-Python-里-import-的时候名字变成-redis-了](https://www.v2ex.com/t/681476)  
+- [2020-06-14-在-Google-Trends-里头比较了一下自-2004-年起-2020-年期间主流几个密码管理软件的趋势](https://www.v2ex.com/t/681475)  
+- [2020-06-14-京东装机店库内组装服务靠谱吗？](https://www.v2ex.com/t/681473)  
+- [2020-06-14-不懂就问-啥区别？](https://www.v2ex.com/t/681472)  
+- [2020-06-14-理发店被坑，我的维权经历（直通国家信访局）](https://www.v2ex.com/t/681471)  
+- [2020-06-14-fastjson-现在还推荐使用吗？](https://www.v2ex.com/t/681470)  
+- [2020-06-14-15'-2015-款-MBP-能用-PD-快冲吗？](https://www.v2ex.com/t/681469)  
+- [2020-06-14-Bilibili-的评论的静默删除着实恶心人](https://www.v2ex.com/t/681468)  
 - [2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467)  
 - [2020-06-14-笔记本打算复活成群晖+软路由，-win10-虚拟群晖+软路由还是直接群晖好呢](https://www.v2ex.com/t/681466)  
 - [2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465)  

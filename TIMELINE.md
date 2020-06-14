@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-14 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1) 
@@ -950,6 +952,16 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-14-请教下-一对-N-数据表同步的场景怎么提高并发性能](https://www.v2ex.com/t/681479) 
+- [【V2EX】2020-06-14-error:-invalid-conversion-from-‘const-char*’-to-‘char’--fpermissive](https://www.v2ex.com/t/681478) 
+- [【V2EX】2020-06-14-为啥-Anaconda-安装-redis-py-包之后，到-Python-里-import-的时候名字变成-redis-了](https://www.v2ex.com/t/681476) 
+- [【V2EX】2020-06-14-在-Google-Trends-里头比较了一下自-2004-年起-2020-年期间主流几个密码管理软件的趋势](https://www.v2ex.com/t/681475) 
+- [【V2EX】2020-06-14-京东装机店库内组装服务靠谱吗？](https://www.v2ex.com/t/681473) 
+- [【V2EX】2020-06-14-不懂就问-啥区别？](https://www.v2ex.com/t/681472) 
+- [【V2EX】2020-06-14-理发店被坑，我的维权经历（直通国家信访局）](https://www.v2ex.com/t/681471) 
+- [【V2EX】2020-06-14-fastjson-现在还推荐使用吗？](https://www.v2ex.com/t/681470) 
+- [【V2EX】2020-06-14-15'-2015-款-MBP-能用-PD-快冲吗？](https://www.v2ex.com/t/681469) 
+- [【V2EX】2020-06-14-Bilibili-的评论的静默删除着实恶心人](https://www.v2ex.com/t/681468) 
 - [【V2EX】2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467) 
 - [【V2EX】2020-06-14-笔记本打算复活成群晖+软路由，-win10-虚拟群晖+软路由还是直接群晖好呢](https://www.v2ex.com/t/681466) 
 - [【V2EX】2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1) 
+- [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1) 
 - [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1) 
 - [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1) 
 - [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1) 
@@ -1571,6 +1573,13 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-14-error:-invalid-conversion-from-‘const-char*’-to-‘char’--fpermissive](https://www.v2ex.com/t/681478) 
+- [2020-06-14-在-Google-Trends-里头比较了一下自-2004-年起-2020-年期间主流几个密码管理软件的趋势](https://www.v2ex.com/t/681475) 
+- [2020-06-14-京东装机店库内组装服务靠谱吗？](https://www.v2ex.com/t/681473) 
+- [2020-06-14-不懂就问-啥区别？](https://www.v2ex.com/t/681472) 
+- [2020-06-14-理发店被坑，我的维权经历（直通国家信访局）](https://www.v2ex.com/t/681471) 
+- [2020-06-14-15'-2015-款-MBP-能用-PD-快冲吗？](https://www.v2ex.com/t/681469) 
+- [2020-06-14-Bilibili-的评论的静默删除着实恶心人](https://www.v2ex.com/t/681468) 
 - [2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467) 
 - [2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465) 
 - [2020-06-14-有人知道-Mac-iCloud-云盘触发下载机制是什么吗？](https://www.v2ex.com/t/681464) 

@@ -5102,6 +5102,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "印度德里计划改造酒店，增加2万张病床",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1",
+        "date": "2020-06-14"
+      },
+      {
         "title": "世卫组织：全球新冠肺炎确诊病例超过763万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1",
         "date": "2020-06-14"
@@ -13125,6 +13135,56 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "请教下 一对 N 数据表同步的场景怎么提高并发性能",
+        "link": "https://www.v2ex.com/t/681479",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "error: invalid conversion from ‘const char*’ to ‘char’ [-fpermissive]",
+        "link": "https://www.v2ex.com/t/681478",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "为啥 Anaconda 安装 redis-py 包之后，到 Python 里 import 的时候名字变成 redis 了",
+        "link": "https://www.v2ex.com/t/681476",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "在 Google Trends 里头比较了一下自 2004 年起 2020 年期间主流几个密码管理软件的趋势",
+        "link": "https://www.v2ex.com/t/681475",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "京东装机店库内组装服务靠谱吗？",
+        "link": "https://www.v2ex.com/t/681473",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "不懂就问 啥区别？",
+        "link": "https://www.v2ex.com/t/681472",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "理发店被坑，我的维权经历（直通国家信访局）",
+        "link": "https://www.v2ex.com/t/681471",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "fastjson 现在还推荐使用吗？",
+        "link": "https://www.v2ex.com/t/681470",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "15' 2015 款 MBP 能用 PD 快冲吗？",
+        "link": "https://www.v2ex.com/t/681469",
+        "date": "2020-06-14"
+      },
+      {
+        "title": "Bilibili 的评论的静默删除着实恶心人",
+        "link": "https://www.v2ex.com/t/681468",
+        "date": "2020-06-14"
+      },
       {
         "title": "有没有哪款笔记本电脑的显示效果可以和 MBP 的显示效果媲美？",
         "link": "https://www.v2ex.com/t/681467",

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 18:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 19:00:20，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -43,15 +43,15 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1) ![](assets/new.png)  
 - [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
 - [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1)  
 - [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-13-受新冠疫情影响，世界最大规模农业科技博览会取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1)  
 - [2020-06-13-​意大利卫生部部长：已签订新冠病毒疫苗供应合同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0VBZSpYBidLosq7zHBJ200613&isfromapp=1)  
 - [2020-06-13-世卫组织：全球新冠肺炎确诊病例超过755万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1)  
-- [2020-06-13-北京密云：对6名密接者集中隔离观察，新冠病毒核酸检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitel0BYJKGpp1h2da44xA200613&isfromapp=1)  
-- [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -821,9 +821,9 @@
 </summary>
 
 
-- [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) ![](assets/new.png)  
-- [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) ![](assets/new.png)  
-- [2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591) ![](assets/new.png)  
+- [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9)  
+- [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272)  
+- [2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591)  
 - [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff)  
 - [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5)  
 - [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802)  
@@ -1008,10 +1008,10 @@
 </summary>
 
 
-- [2020-06-13-现在世界上只有两种人：爱上《乘风破浪的姐姐》的人和没看过它的人](https://www.ershicimi.com/p/50a435a6e092b059be43e8bcffb3aec6) ![](assets/new.png)  
-- [2020-06-13-孩子撞见父母在房间「开车」？你当下的回答，将改变孩子的一生](https://www.ershicimi.com/p/1af97f313366fc1793d891a21d5a0911) ![](assets/new.png)  
-- [2020-06-13-经典恐怖片大赏来了](https://www.ershicimi.com/p/fb3fc29a5cfdc173b394eaf9ba8cdb0a) ![](assets/new.png)  
-- [2020-06-13-知乎故事-|-女人的第六感究竟可怕到什么程度？](https://www.ershicimi.com/p/6342732e785446ec55142bcc33055ce8) ![](assets/new.png)  
+- [2020-06-13-现在世界上只有两种人：爱上《乘风破浪的姐姐》的人和没看过它的人](https://www.ershicimi.com/p/50a435a6e092b059be43e8bcffb3aec6)  
+- [2020-06-13-孩子撞见父母在房间「开车」？你当下的回答，将改变孩子的一生](https://www.ershicimi.com/p/1af97f313366fc1793d891a21d5a0911)  
+- [2020-06-13-经典恐怖片大赏来了](https://www.ershicimi.com/p/fb3fc29a5cfdc173b394eaf9ba8cdb0a)  
+- [2020-06-13-知乎故事-|-女人的第六感究竟可怕到什么程度？](https://www.ershicimi.com/p/6342732e785446ec55142bcc33055ce8)  
 - [2020-06-12-周杰伦这杯夏日特调-Mojito-，我先干了！](https://www.ershicimi.com/p/805961be0f4165276ae8a38ea587d75a)  
 - [2020-06-12-DNA-和-RNA-是什么味道的？](https://www.ershicimi.com/p/d54f50e2b4fbcf0e1d69bba44ca50c6b)  
 - [2020-06-12-分不清「外婆」与「姥姥」，就别想搞懂中国](https://www.ershicimi.com/p/73ed1ff4acb131933007765af396dab5)  
@@ -1039,6 +1039,16 @@
 </summary>
 
 
+- [2020-06-14-请教下-一对-N-数据表同步的场景怎么提高并发性能](https://www.v2ex.com/t/681479) ![](assets/new.png)  
+- [2020-06-14-error:-invalid-conversion-from-‘const-char*’-to-‘char’--fpermissive](https://www.v2ex.com/t/681478) ![](assets/new.png)  
+- [2020-06-14-为啥-Anaconda-安装-redis-py-包之后，到-Python-里-import-的时候名字变成-redis-了](https://www.v2ex.com/t/681476) ![](assets/new.png)  
+- [2020-06-14-在-Google-Trends-里头比较了一下自-2004-年起-2020-年期间主流几个密码管理软件的趋势](https://www.v2ex.com/t/681475) ![](assets/new.png)  
+- [2020-06-14-京东装机店库内组装服务靠谱吗？](https://www.v2ex.com/t/681473) ![](assets/new.png)  
+- [2020-06-14-不懂就问-啥区别？](https://www.v2ex.com/t/681472) ![](assets/new.png)  
+- [2020-06-14-理发店被坑，我的维权经历（直通国家信访局）](https://www.v2ex.com/t/681471) ![](assets/new.png)  
+- [2020-06-14-fastjson-现在还推荐使用吗？](https://www.v2ex.com/t/681470) ![](assets/new.png)  
+- [2020-06-14-15'-2015-款-MBP-能用-PD-快冲吗？](https://www.v2ex.com/t/681469) ![](assets/new.png)  
+- [2020-06-14-Bilibili-的评论的静默删除着实恶心人](https://www.v2ex.com/t/681468) ![](assets/new.png)  
 - [2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467)  
 - [2020-06-14-笔记本打算复活成群晖+软路由，-win10-虚拟群晖+软路由还是直接群晖好呢](https://www.v2ex.com/t/681466)  
 - [2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465)  
@@ -1049,16 +1059,6 @@
 - [2020-06-14-新版的-chrome-切换-tab-经常焦点跑到网页外，大家有遇到过吗？](https://www.v2ex.com/t/681460)  
 - [2020-06-14-更新用非当前登录的-Apple-ID-购买的App,-跳出来的“请输入密码”窗口似乎不会再展示当时的邮箱了。](https://www.v2ex.com/t/681459)  
 - [2020-06-14-docker、docker-compose-部署-gitlab,如何配置-https,让-git-clone-地址与域名一样不带端口号](https://www.v2ex.com/t/681458)  
-- [2020-06-14-有人知道-airpots-是用的什么系统驱动的吗？](https://www.v2ex.com/t/681457)  
-- [2020-06-14-现阶段不下百度网盘全家桶桌面版下几-g-大文件的最好办法是？](https://www.v2ex.com/t/681456)  
-- [2020-06-14-大家见过电脑等设备自己启动的事情吗？](https://www.v2ex.com/t/681455)  
-- [2020-06-14-基于什么原因，手机音乐-app-不能调节-app-内音量？](https://www.v2ex.com/t/681454)  
-- [2020-06-14-怀疑家里被攻击了](https://www.v2ex.com/t/681453)  
-- [2020-06-14-转租-朝阳区花家地南里主卧转租](https://www.v2ex.com/t/681451)  
-- [2020-06-14-golang-有没有更动态化,更强大的反射?](https://www.v2ex.com/t/681449)  
-- [2020-06-14-Go-之如何操作结构体的非导出字段](https://www.v2ex.com/t/681448)  
-- [2020-06-14-请问在南山西丽这找房子租，两房一厅价位大概是多少额？](https://www.v2ex.com/t/681447)  
-- [2020-06-14-Android-11-Beta-版本很低调地上线了](https://www.v2ex.com/t/681446)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

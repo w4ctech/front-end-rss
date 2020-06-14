@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 20:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 21:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1) ![](assets/new.png)  
 - [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
 - [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1)  
 - [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-14-也门新增73例新冠肺炎确诊病例-疫情逐步加剧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1)  
 - [2020-06-13-受新冠疫情影响，世界最大规模农业科技博览会取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXyi4csd2yZJcFNqLSnQ200613&isfromapp=1)  
 - [2020-06-13-​意大利卫生部部长：已签订新冠病毒疫苗供应合同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0VBZSpYBidLosq7zHBJ200613&isfromapp=1)  
-- [2020-06-13-世卫组织：全球新冠肺炎确诊病例超过755万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,11 +914,11 @@
 </summary>
 
 
-- [2020-06-14-《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb) ![](assets/new.png)  
-- [2020-06-14-使用Node.js和JSON搭建简单的动态服务器](https://juejin.im/post/5ee58c926fb9a047ae454143) ![](assets/new.png)  
-- [2020-06-14-Unity学习—JobSystem](https://juejin.im/post/5ee503b6518825431437699e) ![](assets/new.png)  
-- [2020-06-14-15-个很有用的自定义-React-Hooks](https://juejin.im/post/5ee4c33ae51d4578762017c7) ![](assets/new.png)  
-- [2020-06-14-从零学习webpack4.0模块打包工具](https://juejin.im/post/5ee4bdb3f265da76ee1f65a5) ![](assets/new.png)  
+- [2020-06-14-《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb)  
+- [2020-06-14-使用Node.js和JSON搭建简单的动态服务器](https://juejin.im/post/5ee58c926fb9a047ae454143)  
+- [2020-06-14-Unity学习—JobSystem](https://juejin.im/post/5ee503b6518825431437699e)  
+- [2020-06-14-15-个很有用的自定义-React-Hooks](https://juejin.im/post/5ee4c33ae51d4578762017c7)  
+- [2020-06-14-从零学习webpack4.0模块打包工具](https://juejin.im/post/5ee4bdb3f265da76ee1f65a5)  
 - [2020-06-14-使用基于Vue.js和Hbuilder的混合模式移动开发打造属于自己的移动App](https://juejin.im/post/5ee5744e51882536846788e4)  
 - [2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f)  
 - [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0)  

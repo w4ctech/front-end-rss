@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-14 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -595,6 +595,10 @@
 - [【程序员成长指北】2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
 - [【程序员成长指北】2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6) 
 - [【程序员成长指北】2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
+- [【Nodejs技术栈】2020-06-11-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/289a118175799d0fc404525e7dd52256) 
+- [【Nodejs技术栈】2020-06-10-云函数-SCF-Node.js-Runtime-最佳实践](https://www.ershicimi.com/p/123d0ba40e888570627ccfcddb786860) 
+- [【Nodejs技术栈】2020-06-09-走进-Vue-3.0-vs-Vue-2.0-的性能-PK](https://www.ershicimi.com/p/c347f2eff682472c8483a292c02d1e2b) 
+- [【Nodejs技术栈】2020-06-08-华为-WEB-前端全栈成长计划招募](https://www.ershicimi.com/p/e607050f4bb79c0ce11b5cac351a781d) 
 - [【Nodejs技术栈】2020-06-04-使用-Nodejs-开发的-SpaceX-API-开源了！](https://www.ershicimi.com/p/6a27f07dddeec88b4e1edc78928f022b) 
 - [【Nodejs技术栈】2020-06-03-从零开始搭建企业级私有鉴权-NPM-仓库](https://www.ershicimi.com/p/534d15d47d0706190d1490e0c87d2d72) 
 - [【Nodejs技术栈】2020-06-01-基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4) 

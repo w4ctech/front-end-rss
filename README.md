@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 12:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 12:30:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -35,7 +35,7 @@
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
-- [Nodejs技术栈](#nodejs技术栈)  
+- [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-14-陕西新增2例境外输入病例及3例无症状感染者](https://m.weibo.cn/2803301701/4515674812822539) ![](assets/new.png)  
-- [2020-06-14-湖北昨日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1) ![](assets/new.png)  
-- [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-陕西新增2例境外输入病例及3例无症状感染者](https://m.weibo.cn/2803301701/4515674812822539)  
+- [2020-06-14-湖北昨日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1)  
+- [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1)  
 - [2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787)  
 - [2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1)  
 - [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1)  
@@ -617,6 +617,10 @@
 </summary>
 
 
+- [2020-06-11-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/289a118175799d0fc404525e7dd52256) ![](assets/new.png)  
+- [2020-06-10-云函数-SCF-Node.js-Runtime-最佳实践](https://www.ershicimi.com/p/123d0ba40e888570627ccfcddb786860) ![](assets/new.png)  
+- [2020-06-09-走进-Vue-3.0-vs-Vue-2.0-的性能-PK](https://www.ershicimi.com/p/c347f2eff682472c8483a292c02d1e2b) ![](assets/new.png)  
+- [2020-06-08-华为-WEB-前端全栈成长计划招募](https://www.ershicimi.com/p/e607050f4bb79c0ce11b5cac351a781d) ![](assets/new.png)  
 - [2020-06-04-使用-Nodejs-开发的-SpaceX-API-开源了！](https://www.ershicimi.com/p/6a27f07dddeec88b4e1edc78928f022b)  
 - [2020-06-03-从零开始搭建企业级私有鉴权-NPM-仓库](https://www.ershicimi.com/p/534d15d47d0706190d1490e0c87d2d72)  
 - [2020-06-01-基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-14 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 12:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -184,6 +184,8 @@
 - [【全栈前端精选】《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b)
 - [【程序员成长指北】Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)
 - [【程序员成长指北】Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec)
+- [【Nodejs技术栈】基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/289a118175799d0fc404525e7dd52256)
+- [【Nodejs技术栈】云函数-SCF-Node.js-Runtime-最佳实践](https://www.ershicimi.com/p/123d0ba40e888570627ccfcddb786860)
 - [【Nodejs技术栈】使用-Nodejs-开发的-SpaceX-API-开源了！](https://www.ershicimi.com/p/6a27f07dddeec88b4e1edc78928f022b)
 - [【Nodejs技术栈】基于-SFF-一站式-Nodejs-服务管理平台实践](https://www.ershicimi.com/p/e46ab2133b84786eaca439590e69c4d4)
 - [【Nodejs技术栈】在-Nodejs-中-ES-Modules-使用入门讲解](https://www.ershicimi.com/p/8bc787b0012d1120c08b36aadb7c74c5)
@@ -193,8 +195,6 @@
 - [【Nodejs技术栈】Boa:-在-Node.js-中使用-Python](https://www.ershicimi.com/p/e5f0afa4a3d3b7717bfeda0f43f5cde0)
 - [【凹凸实验室】一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/)
 - [【凹凸实验室】Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/)
-- [【凹凸实验室】【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/)
-- [【凹凸实验室】跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -551,8 +551,8 @@
 - [【前端瓶子君】据说，80%的人都搞不懂哈希算法](https://www.ershicimi.com/p/db579140f0f341b89661e4bc25a105c6)
 - [【前端瓶子君】前端进阶算法：头条正在面的哈希表问题](https://www.ershicimi.com/p/477f08f1c0e0dd47e8921e850a88cfbb)
 - [【程序员成长指北】华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/db13b22f5f88783cefa30ecb83dd20a3)
+- [【Nodejs技术栈】华为-WEB-前端全栈成长计划招募](https://www.ershicimi.com/p/e607050f4bb79c0ce11b5cac351a781d)
 - [【Nodejs技术栈】推荐一位实力超强的全栈大佬](https://www.ershicimi.com/p/86adee75d0a43e96619a385c969a6ad4)
-- [【凹凸实验室】波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

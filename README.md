@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 13:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 14:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1) ![](assets/new.png)  
+- [2020-06-14-陕西新增境外输入确诊病例2例-，新增境外输入无症状感染者3例，本地连续115天无新增](http://sxwjw.shaanxi.gov.cn/art/2020/6/14/art_9_71063.html) ![](assets/new.png)  
 - [2020-06-14-陕西新增2例境外输入病例及3例无症状感染者](https://m.weibo.cn/2803301701/4515674812822539)  
 - [2020-06-14-湖北昨日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1)  
 - [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-13-四川经营冰鲜海鲜市场紧急启动高级别防控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1)  
 - [2020-06-13-英媒：新冠肺炎疫情前六个月-政府解散防大流行病委员会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1)  
 - [2020-06-13-​俄罗斯新增新冠肺炎确诊病例8706例-累计超52万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1)  
-- [2020-06-13-新发地市场暂时休市期间-北京启动应急交易保供措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1)  
-- [2020-06-13-北京将对新发地农贸批发市场有关人员开展核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1)  
-- [2020-06-13-北京新发地市场已有45人咽拭子阳性-已有40件环境阳性样本](https://m.weibo.cn/3057540037/4515315273659688)  
-- [2020-06-13-北京：对新发地批发市场所有人员进行核酸检测-排查周边场所](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -354,6 +354,8 @@
 </summary>
 
 
+- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/c197a09d6f623c77181fba0c189471aa) ![](assets/new.png)  
+- [2020-06-13-那些不常见，但却非常实用的css属性整理不易](https://www.ershicimi.com/p/f54e249579d2f5246017dfb37df84694) ![](assets/new.png)  
 - [2020-06-12-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/5270f29c21aefd9f7dc459f73133e763)  
 - [2020-06-12-巧用-display:-contents-增强页面语义](https://www.ershicimi.com/p/719c15f24d7f8d25ab0a33b4dd7a4303)  
 - [2020-06-11-“我那个工资5000的程序员朋友，三年存下了50万”](https://www.ershicimi.com/p/a36d5da6acb9abbf677a9e4b5298b0a6)  
@@ -372,8 +374,6 @@
 - [2020-06-04-简单聊聊-WebSocket](https://www.ershicimi.com/p/1a63003e4303cc2b5ded5173846ab013)  
 - [2020-06-02-前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/54c42d2df559d5d3bef2df7ef843c839)  
 - [2020-06-02-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684)  
-- [2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83)  
-- [2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,7 +914,7 @@
 </summary>
 
 
-- [2020-06-14-使用基于Vue.js和Hbuilder的混合模式移动开发打造属于自己的移动App](https://juejin.im/post/5ee5744e51882536846788e4) ![](assets/new.png)  
+- [2020-06-14-使用基于Vue.js和Hbuilder的混合模式移动开发打造属于自己的移动App](https://juejin.im/post/5ee5744e51882536846788e4)  
 - [2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f)  
 - [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0)  
 - [2020-06-13-深入浅出WebAssembly5-Memory](https://juejin.im/post/5ee43c2df265da76ba7b256f)  

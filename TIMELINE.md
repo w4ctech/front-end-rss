@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-14 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -644,6 +644,9 @@
 - [【前端日刊】2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d) 
 - [【前端日刊】2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
 - [【前端日刊】2020-06-01-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/8afb5d45a80ed4af56c92198030c0b3c) 
+- [【互联网架构师】2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) 
+- [【互联网架构师】2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) 
+- [【互联网架构师】2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591) 
 - [【互联网架构师】2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) 
 - [【互联网架构师】2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) 
 - [【互联网架构师】2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) 
@@ -899,6 +902,10 @@
 - [【掘金前端】2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677) 
 - [【掘金前端】2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9) 
 - [【掘金前端】2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
+- [【知乎日报】2020-06-13-现在世界上只有两种人：爱上《乘风破浪的姐姐》的人和没看过它的人](https://www.ershicimi.com/p/50a435a6e092b059be43e8bcffb3aec6) 
+- [【知乎日报】2020-06-13-孩子撞见父母在房间「开车」？你当下的回答，将改变孩子的一生](https://www.ershicimi.com/p/1af97f313366fc1793d891a21d5a0911) 
+- [【知乎日报】2020-06-13-经典恐怖片大赏来了](https://www.ershicimi.com/p/fb3fc29a5cfdc173b394eaf9ba8cdb0a) 
+- [【知乎日报】2020-06-13-知乎故事-|-女人的第六感究竟可怕到什么程度？](https://www.ershicimi.com/p/6342732e785446ec55142bcc33055ce8) 
 - [【知乎日报】2020-06-12-周杰伦这杯夏日特调-Mojito-，我先干了！](https://www.ershicimi.com/p/805961be0f4165276ae8a38ea587d75a) 
 - [【知乎日报】2020-06-12-DNA-和-RNA-是什么味道的？](https://www.ershicimi.com/p/d54f50e2b4fbcf0e1d69bba44ca50c6b) 
 - [【知乎日报】2020-06-12-分不清「外婆」与「姥姥」，就别想搞懂中国](https://www.ershicimi.com/p/73ed1ff4acb131933007765af396dab5) 

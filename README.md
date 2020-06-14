@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-14 17:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-14 18:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,15 +43,15 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -821,6 +821,9 @@
 </summary>
 
 
+- [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) ![](assets/new.png)  
+- [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) ![](assets/new.png)  
+- [2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591) ![](assets/new.png)  
 - [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff)  
 - [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5)  
 - [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802)  
@@ -838,9 +841,6 @@
 - [2020-06-09-提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8)  
 - [2020-06-08-强烈推荐-16-款-IDEA-插件，让你的开发速度飞起来！](https://www.ershicimi.com/p/bf192c37b23db5dd8123e90955d08d5b)  
 - [2020-06-08-为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd)  
-- [2020-06-08-Spring-Boot-2.3-优雅停机来了，新特性真香！！](https://www.ershicimi.com/p/a2908c5d2d195a5d94d178f41e0c9699)  
-- [2020-06-07-互联网公司忽悠员工的黑话，套路太深了。。](https://www.ershicimi.com/p/9a566238583308069488745dd860f6d0)  
-- [2020-06-07-你们要的Windows-IDEA-快捷键终极大全，速度收藏！](https://www.ershicimi.com/p/16bddda3c1b4a9c20c64c5f2cd103c8c)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1008,6 +1008,10 @@
 </summary>
 
 
+- [2020-06-13-现在世界上只有两种人：爱上《乘风破浪的姐姐》的人和没看过它的人](https://www.ershicimi.com/p/50a435a6e092b059be43e8bcffb3aec6) ![](assets/new.png)  
+- [2020-06-13-孩子撞见父母在房间「开车」？你当下的回答，将改变孩子的一生](https://www.ershicimi.com/p/1af97f313366fc1793d891a21d5a0911) ![](assets/new.png)  
+- [2020-06-13-经典恐怖片大赏来了](https://www.ershicimi.com/p/fb3fc29a5cfdc173b394eaf9ba8cdb0a) ![](assets/new.png)  
+- [2020-06-13-知乎故事-|-女人的第六感究竟可怕到什么程度？](https://www.ershicimi.com/p/6342732e785446ec55142bcc33055ce8) ![](assets/new.png)  
 - [2020-06-12-周杰伦这杯夏日特调-Mojito-，我先干了！](https://www.ershicimi.com/p/805961be0f4165276ae8a38ea587d75a)  
 - [2020-06-12-DNA-和-RNA-是什么味道的？](https://www.ershicimi.com/p/d54f50e2b4fbcf0e1d69bba44ca50c6b)  
 - [2020-06-12-分不清「外婆」与「姥姥」，就别想搞懂中国](https://www.ershicimi.com/p/73ed1ff4acb131933007765af396dab5)  
@@ -1024,10 +1028,6 @@
 - [2020-06-09-为什么《让我们荡起双桨》有一种淡淡的哀伤？](https://www.ershicimi.com/p/5aa4cd208ca97e8efa93e7b57fdd9dfa)  
 - [2020-06-08-我听过最糟糕的育儿建议：他还是个孩子](https://www.ershicimi.com/p/53b5773763356cc1f83f3cbfd87c7ac2)  
 - [2020-06-08-盘点母乳中的神奇物质，妈妈必看](https://www.ershicimi.com/p/4edfd87569b1dfb4469caf341946f0ad)  
-- [2020-06-08-你知道咸蛋是什么鸡生的吗？](https://www.ershicimi.com/p/82c90215bdd0a1c0112d7008fb49e2e4)  
-- [2020-06-08-知乎故事-|-你中了彩票去领奖那天发生了什么？](https://www.ershicimi.com/p/f2b352f398daaf1614596ed5b4d71ba1)  
-- [2020-06-07-本周知乎热榜-|-「奥利给」刷屏了，14-岁杀人的嫌犯落网了，「不可能打工男子」道歉了，Uzi-退役](https://www.ershicimi.com/p/6ff630d55851494a3d0d7a8cda7c20fa)  
-- [2020-06-07-618-剁手，不看错过一个亿](https://www.ershicimi.com/p/b471862baca490ff4b15df0e2402901b)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1039,26 +1039,26 @@
 </summary>
 
 
-- [2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467) ![](assets/new.png)  
-- [2020-06-14-笔记本打算复活成群晖+软路由，-win10-虚拟群晖+软路由还是直接群晖好呢](https://www.v2ex.com/t/681466) ![](assets/new.png)  
-- [2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465) ![](assets/new.png)  
-- [2020-06-14-有人知道-Mac-iCloud-云盘触发下载机制是什么吗？](https://www.v2ex.com/t/681464) ![](assets/new.png)  
-- [2020-06-14-关于抽象类与接口](https://www.v2ex.com/t/681463) ![](assets/new.png)  
-- [2020-06-14-Java-动态代理类如何查看字节码](https://www.v2ex.com/t/681462) ![](assets/new.png)  
-- [2020-06-14-有没有“反向”Server-酱-的服务？](https://www.v2ex.com/t/681461) ![](assets/new.png)  
-- [2020-06-14-新版的-chrome-切换-tab-经常焦点跑到网页外，大家有遇到过吗？](https://www.v2ex.com/t/681460) ![](assets/new.png)  
-- [2020-06-14-更新用非当前登录的-Apple-ID-购买的App,-跳出来的“请输入密码”窗口似乎不会再展示当时的邮箱了。](https://www.v2ex.com/t/681459) ![](assets/new.png)  
-- [2020-06-14-docker、docker-compose-部署-gitlab,如何配置-https,让-git-clone-地址与域名一样不带端口号](https://www.v2ex.com/t/681458) ![](assets/new.png)  
-- [2020-06-14-有人知道-airpots-是用的什么系统驱动的吗？](https://www.v2ex.com/t/681457) ![](assets/new.png)  
-- [2020-06-14-现阶段不下百度网盘全家桶桌面版下几-g-大文件的最好办法是？](https://www.v2ex.com/t/681456) ![](assets/new.png)  
-- [2020-06-14-大家见过电脑等设备自己启动的事情吗？](https://www.v2ex.com/t/681455) ![](assets/new.png)  
-- [2020-06-14-基于什么原因，手机音乐-app-不能调节-app-内音量？](https://www.v2ex.com/t/681454) ![](assets/new.png)  
-- [2020-06-14-怀疑家里被攻击了](https://www.v2ex.com/t/681453) ![](assets/new.png)  
-- [2020-06-14-转租-朝阳区花家地南里主卧转租](https://www.v2ex.com/t/681451) ![](assets/new.png)  
-- [2020-06-14-golang-有没有更动态化,更强大的反射?](https://www.v2ex.com/t/681449) ![](assets/new.png)  
-- [2020-06-14-Go-之如何操作结构体的非导出字段](https://www.v2ex.com/t/681448) ![](assets/new.png)  
-- [2020-06-14-请问在南山西丽这找房子租，两房一厅价位大概是多少额？](https://www.v2ex.com/t/681447) ![](assets/new.png)  
-- [2020-06-14-Android-11-Beta-版本很低调地上线了](https://www.v2ex.com/t/681446) ![](assets/new.png)  
+- [2020-06-14-有没有哪款笔记本电脑的显示效果可以和-MBP-的显示效果媲美？](https://www.v2ex.com/t/681467)  
+- [2020-06-14-笔记本打算复活成群晖+软路由，-win10-虚拟群晖+软路由还是直接群晖好呢](https://www.v2ex.com/t/681466)  
+- [2020-06-14-The-Modern-And-Developer-Centric-Python-Web-Framework-Masonite](https://www.v2ex.com/t/681465)  
+- [2020-06-14-有人知道-Mac-iCloud-云盘触发下载机制是什么吗？](https://www.v2ex.com/t/681464)  
+- [2020-06-14-关于抽象类与接口](https://www.v2ex.com/t/681463)  
+- [2020-06-14-Java-动态代理类如何查看字节码](https://www.v2ex.com/t/681462)  
+- [2020-06-14-有没有“反向”Server-酱-的服务？](https://www.v2ex.com/t/681461)  
+- [2020-06-14-新版的-chrome-切换-tab-经常焦点跑到网页外，大家有遇到过吗？](https://www.v2ex.com/t/681460)  
+- [2020-06-14-更新用非当前登录的-Apple-ID-购买的App,-跳出来的“请输入密码”窗口似乎不会再展示当时的邮箱了。](https://www.v2ex.com/t/681459)  
+- [2020-06-14-docker、docker-compose-部署-gitlab,如何配置-https,让-git-clone-地址与域名一样不带端口号](https://www.v2ex.com/t/681458)  
+- [2020-06-14-有人知道-airpots-是用的什么系统驱动的吗？](https://www.v2ex.com/t/681457)  
+- [2020-06-14-现阶段不下百度网盘全家桶桌面版下几-g-大文件的最好办法是？](https://www.v2ex.com/t/681456)  
+- [2020-06-14-大家见过电脑等设备自己启动的事情吗？](https://www.v2ex.com/t/681455)  
+- [2020-06-14-基于什么原因，手机音乐-app-不能调节-app-内音量？](https://www.v2ex.com/t/681454)  
+- [2020-06-14-怀疑家里被攻击了](https://www.v2ex.com/t/681453)  
+- [2020-06-14-转租-朝阳区花家地南里主卧转租](https://www.v2ex.com/t/681451)  
+- [2020-06-14-golang-有没有更动态化,更强大的反射?](https://www.v2ex.com/t/681449)  
+- [2020-06-14-Go-之如何操作结构体的非导出字段](https://www.v2ex.com/t/681448)  
+- [2020-06-14-请问在南山西丽这找房子租，两房一厅价位大概是多少额？](https://www.v2ex.com/t/681447)  
+- [2020-06-14-Android-11-Beta-版本很低调地上线了](https://www.v2ex.com/t/681446)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

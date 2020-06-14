@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-14 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-14 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1314,6 +1314,8 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) 
+- [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) 
 - [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) 
 - [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) 
 - [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) 
@@ -1499,6 +1501,10 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-06-13-现在世界上只有两种人：爱上《乘风破浪的姐姐》的人和没看过它的人](https://www.ershicimi.com/p/50a435a6e092b059be43e8bcffb3aec6) 
+- [2020-06-13-孩子撞见父母在房间「开车」？你当下的回答，将改变孩子的一生](https://www.ershicimi.com/p/1af97f313366fc1793d891a21d5a0911) 
+- [2020-06-13-经典恐怖片大赏来了](https://www.ershicimi.com/p/fb3fc29a5cfdc173b394eaf9ba8cdb0a) 
+- [2020-06-13-知乎故事-|-女人的第六感究竟可怕到什么程度？](https://www.ershicimi.com/p/6342732e785446ec55142bcc33055ce8) 
 - [2020-06-12-周杰伦这杯夏日特调-Mojito-，我先干了！](https://www.ershicimi.com/p/805961be0f4165276ae8a38ea587d75a) 
 - [2020-06-12-DNA-和-RNA-是什么味道的？](https://www.ershicimi.com/p/d54f50e2b4fbcf0e1d69bba44ca50c6b) 
 - [2020-06-12-分不清「外婆」与「姥姥」，就别想搞懂中国](https://www.ershicimi.com/p/73ed1ff4acb131933007765af396dab5) 

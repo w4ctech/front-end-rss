@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 00:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 01:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1) ![](assets/new.png)  
 - [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1)  
 - [2020-06-14-国家卫健委：目前北京疫情十分严峻存不确定性-防控措施落实四扩大四加强和四早](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1)  
 - [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1)  
 - [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1)  
 - [2020-06-14-​巴西新冠肺炎确诊病例累计超85万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1)  
-- [2020-06-14-美国确诊病例超过206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1008,9 +1008,9 @@
 </summary>
 
 
-- [2020-06-14-本周知乎热榜-|-「浪姐」开播了，杰伦发歌了，微信号能改了](https://www.ershicimi.com/p/dbafc339ed03f2dde94e173015aed86d) ![](assets/new.png)  
-- [2020-06-14-为什么电影里的反派都不用-iPhone？](https://www.ershicimi.com/p/1fc552de05fc01b0a9ade1cd4f7b7b1b) ![](assets/new.png)  
-- [2020-06-14-知乎故事-|-原来女孩子真的会遇到很多危险](https://www.ershicimi.com/p/0a7960bf87dc54a365b6e944369c7a44) ![](assets/new.png)  
+- [2020-06-14-本周知乎热榜-|-「浪姐」开播了，杰伦发歌了，微信号能改了](https://www.ershicimi.com/p/dbafc339ed03f2dde94e173015aed86d)  
+- [2020-06-14-为什么电影里的反派都不用-iPhone？](https://www.ershicimi.com/p/1fc552de05fc01b0a9ade1cd4f7b7b1b)  
+- [2020-06-14-知乎故事-|-原来女孩子真的会遇到很多危险](https://www.ershicimi.com/p/0a7960bf87dc54a365b6e944369c7a44)  
 - [2020-06-13-现在世界上只有两种人：爱上《乘风破浪的姐姐》的人和没看过它的人](https://www.ershicimi.com/p/50a435a6e092b059be43e8bcffb3aec6)  
 - [2020-06-13-孩子撞见父母在房间「开车」？你当下的回答，将改变孩子的一生](https://www.ershicimi.com/p/1af97f313366fc1793d891a21d5a0911)  
 - [2020-06-13-经典恐怖片大赏来了](https://www.ershicimi.com/p/fb3fc29a5cfdc173b394eaf9ba8cdb0a)  

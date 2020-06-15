@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1100,6 +1100,9 @@
 - [2020-05-23-【第1953期】十分钟快速上手NutUI](https://www.ershicimi.com/p/45c7eec3a8e012a0d2d0800ae670e980) 
 - [2020-05-23-【图书】持续集成与持续部署实践](https://www.ershicimi.com/p/93542dee290e6d4cd518272edf49e1b7) 
 - [2020-05-22-【第1952期】Lighthouse-6.0-新功能](https://www.ershicimi.com/p/6fa986a6607b60d0e0ee83d26deed573) 
+- [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932) 
+- [2020-06-15-在-TS-类型推断中如何使用上下文](https://www.ershicimi.com/p/aa3cdad229a18dc2cd03c633c7f1c963) 
+- [2020-06-13-谁说前端不需要懂二进制](https://www.ershicimi.com/p/e94240b9a08e34f191fed5b2dd8fc50b) 
 - [2020-06-11-你不知道的-Blob](https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3) 
 - [2020-06-10-前端越来越后端化，工程化？2020-年你到底需要注意些什么？](https://www.ershicimi.com/p/259c423144e24ee5cbe99483f0db6578) 
 - [2020-06-09-前端如何在项目中做出亮点](https://www.ershicimi.com/p/e7945eb4e8181e0cb16fb3d027c1e44c) 

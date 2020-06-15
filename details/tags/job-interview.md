@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -44,6 +44,8 @@
 - [2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950) 
 - [2020-06-05-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/11bc194f83e78ab5b99b354a0777f44a) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
+- [2020-06-15-面试官给我挖坑：rm删除文件之后，空间就被释放了吗？](https://www.ershicimi.com/p/f3c67779316846ba8cee00e1ddb92568) 
+- [2020-06-15-面试：HashMap-夺命二十一问！](https://www.ershicimi.com/p/f88e16eff4ed2f64f44e36ce7a5ecd9f) 
 - [2020-06-04-面试遇到“一问三不知”的，真替他老东家捏把汗](https://www.ershicimi.com/p/a5e28adeb114037697f417e807a70358) 
 - [2020-06-02-2020年只有外包公司给面试机会，-Why?](https://www.ershicimi.com/p/af20a1e54f2050c6c777939c7b731416) 
 - [2020-06-02-程序员面试-10-大潜规则，千万不要踩坑！](https://www.ershicimi.com/p/9c708082a0204a62a5b203dee68b6f07) 
@@ -59,6 +61,7 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-15-成都·肆零肆招聘-Go-工程师，-10-15k](https://www.v2ex.com/t/681635) 
 - [2020-06-15-7-月-4-号上海招聘专场，蚂蚁金服技术风险数据中台，-Java-/大数据，-P6~P8](https://www.v2ex.com/t/681580) 
 - [2020-06-12-继续招聘..蚂蚁金服，-Java-，大数据，-base-上海，-P6P7P8](https://www.v2ex.com/t/681092) 
 - [2020-06-12-聊一聊当年面试腾讯的一件趣事](https://www.v2ex.com/t/681024) 

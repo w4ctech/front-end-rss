@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -52,6 +52,7 @@
 - [2020-05-29-学习React哲学的一次实践](https://juejin.im/post/5ed0d0546fb9a047eb398787) 
 - [2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) 
 - [2020-05-29-名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6) 
+- [2020-06-15-在-React-Native-中怎样更快捷方便的访问-AsyncStorage？](https://www.v2ex.com/t/681644) 
 - [2020-06-13-前端小白请教一个关于-React-多页面的问题](https://www.v2ex.com/t/681131) 
 - [2020-06-11-Webpack-如何打包-React+TypeScript-多页面？](https://www.v2ex.com/t/680834) 
 - [2020-06-10-Fluent-UI-是我用过的最难受的-React-库，没有之一！](https://www.v2ex.com/t/680185) 

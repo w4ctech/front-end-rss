@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 15:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-15 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-巴基斯坦新增5278例新冠肺炎确诊病例-累计144478例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-​印度新增11502例新冠肺炎确诊病例-累计332424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-北京海淀玉泉东周边10个社区封闭管理-相关人员全部核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1) 

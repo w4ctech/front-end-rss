@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 21:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 00:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,12 @@
 </summary>
 
 
-- [2020-06-15-世卫组织：全球新冠肺炎确诊病例超过780万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZS8YPDzjEFNWw5rckkF200615&isfromapp=1) ![](assets/new.png)  
-- [2020-06-15-北京已排查近20万曾去过新发地人员,社区防控工作进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimgNjyfqCvHJ0C4dOEF89200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748) ![](assets/new.png)  
+- [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-印度最大贫民窟新增新冠肺炎病例25例，累计2068例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7QsFBtiUI2NdpkEjCn5A200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-世卫组织：全球新冠肺炎确诊病例超过780万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZS8YPDzjEFNWw5rckkF200615&isfromapp=1)  
+- [2020-06-15-北京已排查近20万曾去过新发地人员,社区防控工作进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimgNjyfqCvHJ0C4dOEF89200615&isfromapp=1)  
 - [2020-06-15-“疫”不容辞-北斗助力抗疫一线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT7pJMExm9Xn5P8P0nnmd200615&isfromapp=1)  
 - [2020-06-15-伊朗新增2449例-新冠肺炎确诊病例-累计确诊189876例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiey9J7MFo7RNXlQH3XLc9200615&isfromapp=1)  
 - [2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-15-北京海淀启动对玉泉东市场周边社区封闭管理-附近学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1)  
 - [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1)  
 - [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1)  
-- [2020-06-14-国家卫健委：目前北京疫情十分严峻存不确定性-防控措施落实四扩大四加强和四早](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1)  
-- [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1)  
-- [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1)  
-- [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -842,6 +842,9 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1) 
+- [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748) 
+- [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1) 
 - [2020-06-15-北京已排查近20万曾去过新发地人员,社区防控工作进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimgNjyfqCvHJ0C4dOEF89200615&isfromapp=1) 
 - [2020-06-15-“疫”不容辞-北斗助力抗疫一线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT7pJMExm9Xn5P8P0nnmd200615&isfromapp=1) 
 - [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1) 

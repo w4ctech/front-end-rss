@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,10 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-印度最大贫民窟新增新冠肺炎病例25例，累计2068例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7QsFBtiUI2NdpkEjCn5A200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-世卫组织：全球新冠肺炎确诊病例超过780万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZS8YPDzjEFNWw5rckkF200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-北京已排查近20万曾去过新发地人员,社区防控工作进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimgNjyfqCvHJ0C4dOEF89200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-“疫”不容辞-北斗助力抗疫一线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT7pJMExm9Xn5P8P0nnmd200615&isfromapp=1) 

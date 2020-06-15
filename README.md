@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 10:30:20，:rocket: 更新条数: +30， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 11:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -45,13 +45,13 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-15-四川昨日新增境外输入确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdYHdWzTUCIB8tVerqoK200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-北京14日新增36例新冠肺炎确诊病例，新增无症状感染者6例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYPF3DwnSEpgdMoQZ9nw200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-截至6月14日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml) ![](assets/new.png)  
 - [2020-06-15-北京海淀启动对玉泉东市场周边社区封闭管理-附近学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1)  
 - [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1)  
 - [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-14-陕西新增2例境外输入病例及3例无症状感染者](https://m.weibo.cn/2803301701/4515674812822539)  
 - [2020-06-14-湖北昨日新增无症状感染者2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1)  
 - [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1)  
-- [2020-06-14-辽宁新增2确诊为北京确诊密切接触者](https://m.weibo.cn/3057540037/4515646996814787)  
-- [2020-06-14-阿根廷首都一家养老院发生新冠肺炎聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1)  
-- [2020-06-14-广东新增17例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -883,7 +883,7 @@
 </summary>
 
 
-- [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/aa25011b297b55b4e1cd372413d2380d) ![](assets/new.png)  
+- [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/aa25011b297b55b4e1cd372413d2380d)  
 - [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727)  
 - [2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c)  
 - [2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a)  
@@ -1039,26 +1039,26 @@
 </summary>
 
 
-- [2020-06-15-汽车之家，你们家的信息系统搞什么垃圾？](https://www.v2ex.com/t/681595) ![](assets/new.png)  
-- [2020-06-15-Mac-mini-2020-新款、Mbp-16、黑苹果](https://www.v2ex.com/t/681594) ![](assets/new.png)  
-- [2020-06-15-iOS-开发-调试工具](https://www.v2ex.com/t/681593) ![](assets/new.png)  
-- [2020-06-15-VLOOK-V9.19：为-Markdown-带来了音频、视频的支持，还有-mini-模式音频播放](https://www.v2ex.com/t/681592) ![](assets/new.png)  
-- [2020-06-15-害，有时候觉得，产品真的就是领导，程序员，就是一条实施狗。](https://www.v2ex.com/t/681591) ![](assets/new.png)  
-- [2020-06-15-作为程序猿，大家上班都戴耳机吗？求推荐个性价比高的头戴式耳机](https://www.v2ex.com/t/681590) ![](assets/new.png)  
-- [2020-06-15-MacOS-间歇性休眠唤醒后-DNS-服务不可用](https://www.v2ex.com/t/681589) ![](assets/new.png)  
-- [2020-06-15-北京-一家充满活力的公司，正寻求海外运营大神，月薪-30k--60k，希望有志之士不要错过~~~](https://www.v2ex.com/t/681588) ![](assets/new.png)  
-- [2020-06-15-新版-13-寸MacBook-Pro-忽然黑屏就再也开不了机了](https://www.v2ex.com/t/681587) ![](assets/new.png)  
-- [2020-06-15-CCboard-优雅的粘贴板工具，新增点击自动粘贴，欢迎使用反馈](https://www.v2ex.com/t/681584) ![](assets/new.png)  
-- [2020-06-15-准备换-Windows-Server-当-NAS-系统了，有人用过-Win-Server-+-ReFS-当-NAS-没](https://www.v2ex.com/t/681583) ![](assets/new.png)  
-- [2020-06-15-压缩-gif-图片到指定大小的工具有吗？](https://www.v2ex.com/t/681582) ![](assets/new.png)  
-- [2020-06-15-7-月-4-号上海招聘专场，蚂蚁金服技术风险数据中台，-Java-/大数据，-P6~P8](https://www.v2ex.com/t/681580) ![](assets/new.png)  
-- [2020-06-15-Promise（axios）的问题请教](https://www.v2ex.com/t/681579) ![](assets/new.png)  
-- [2020-06-15-Dcat-Admin-v1.5.0-发布，高颜值后台系统构建工具，新增全新暗黑模式主题](https://www.v2ex.com/t/681578) ![](assets/new.png)  
-- [2020-06-15-下海了，用-electron-做了一个桌面应用，怎么订阅收费？](https://www.v2ex.com/t/681577) ![](assets/new.png)  
-- [2020-06-15-不懂就问，请教下各位大佬-ROG-幻-14-使用-SN750-发热大会影响笔记本本体硬件吗？](https://www.v2ex.com/t/681576) ![](assets/new.png)  
-- [2020-06-15-对牛奶没有太多了解，进口牛奶什么牌子好，或者什么国家的比较好](https://www.v2ex.com/t/681575) ![](assets/new.png)  
-- [2020-06-15-大家有什么好的视频压缩库](https://www.v2ex.com/t/681574) ![](assets/new.png)  
-- [2020-06-15-求开发用笔记本推荐](https://www.v2ex.com/t/681573) ![](assets/new.png)  
+- [2020-06-15-汽车之家，你们家的信息系统搞什么垃圾？](https://www.v2ex.com/t/681595)  
+- [2020-06-15-Mac-mini-2020-新款、Mbp-16、黑苹果](https://www.v2ex.com/t/681594)  
+- [2020-06-15-iOS-开发-调试工具](https://www.v2ex.com/t/681593)  
+- [2020-06-15-VLOOK-V9.19：为-Markdown-带来了音频、视频的支持，还有-mini-模式音频播放](https://www.v2ex.com/t/681592)  
+- [2020-06-15-害，有时候觉得，产品真的就是领导，程序员，就是一条实施狗。](https://www.v2ex.com/t/681591)  
+- [2020-06-15-作为程序猿，大家上班都戴耳机吗？求推荐个性价比高的头戴式耳机](https://www.v2ex.com/t/681590)  
+- [2020-06-15-MacOS-间歇性休眠唤醒后-DNS-服务不可用](https://www.v2ex.com/t/681589)  
+- [2020-06-15-北京-一家充满活力的公司，正寻求海外运营大神，月薪-30k--60k，希望有志之士不要错过~~~](https://www.v2ex.com/t/681588)  
+- [2020-06-15-新版-13-寸MacBook-Pro-忽然黑屏就再也开不了机了](https://www.v2ex.com/t/681587)  
+- [2020-06-15-CCboard-优雅的粘贴板工具，新增点击自动粘贴，欢迎使用反馈](https://www.v2ex.com/t/681584)  
+- [2020-06-15-准备换-Windows-Server-当-NAS-系统了，有人用过-Win-Server-+-ReFS-当-NAS-没](https://www.v2ex.com/t/681583)  
+- [2020-06-15-压缩-gif-图片到指定大小的工具有吗？](https://www.v2ex.com/t/681582)  
+- [2020-06-15-7-月-4-号上海招聘专场，蚂蚁金服技术风险数据中台，-Java-/大数据，-P6~P8](https://www.v2ex.com/t/681580)  
+- [2020-06-15-Promise（axios）的问题请教](https://www.v2ex.com/t/681579)  
+- [2020-06-15-Dcat-Admin-v1.5.0-发布，高颜值后台系统构建工具，新增全新暗黑模式主题](https://www.v2ex.com/t/681578)  
+- [2020-06-15-下海了，用-electron-做了一个桌面应用，怎么订阅收费？](https://www.v2ex.com/t/681577)  
+- [2020-06-15-不懂就问，请教下各位大佬-ROG-幻-14-使用-SN750-发热大会影响笔记本本体硬件吗？](https://www.v2ex.com/t/681576)  
+- [2020-06-15-对牛奶没有太多了解，进口牛奶什么牌子好，或者什么国家的比较好](https://www.v2ex.com/t/681575)  
+- [2020-06-15-大家有什么好的视频压缩库](https://www.v2ex.com/t/681574)  
+- [2020-06-15-求开发用笔记本推荐](https://www.v2ex.com/t/681573)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

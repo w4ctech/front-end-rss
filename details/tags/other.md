@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1207,6 +1207,7 @@
 - [2020-05-23-如果郭德纲是个互联网人](https://www.ershicimi.com/p/5cce690b423f0278f50f88e993ee1abe) 
 - [2020-05-22-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/d16e604d947433940981d828908cba56) 
 - [2020-05-21-阿里技术专家告诉你，如何画出优秀的架构图？](https://www.ershicimi.com/p/901a5003d2bd5be3ab786fb6e209c467) 
+- [2020-06-14-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/00803c2cd426b82b7a2115014fb74c99) 
 - [2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) 
 - [2020-05-27-那些一票难求的高质量前端公众号](https://www.ershicimi.com/p/a608db79fe2d76e19451625e9c00c238) 
 - [2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) 

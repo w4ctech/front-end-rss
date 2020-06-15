@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-06-14 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue中文社区
 
 
 
 
+- [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) 
+- [2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a) 
+- [2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184) 
+- [2020-06-14-如何减少开发中的-Bug](https://www.ershicimi.com/p/89e86939737fec299911f03b207620ba) 
 - [2020-06-13-从零构建前端-ESLint-工作流（2020手把手版）](https://www.ershicimi.com/p/052c3586c4af668856e135a83d061d9b) 
 - [2020-06-13-赠书-|-前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/cceb169953aa27d4b74e507da0e9db07) 
 - [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a) 

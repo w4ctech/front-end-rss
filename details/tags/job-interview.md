@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -37,6 +37,7 @@
 - [2020-06-12-面试官：前端代码线上出错如何解决？使用sentry](https://www.ershicimi.com/p/f1d4e515b193c80b6b8d1e55bb45b242) 
 - [2020-06-08-一位前端-P7-大佬的面试经验分享](https://www.ershicimi.com/p/a564e42b829f35b507a5a5e9967d67b9) 
 - [2020-06-05-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/c920766fad1ccced6f29d9929f310717) 
+- [2020-06-15-在阿里我是如何当面试官的含流程、注意点、面试题汇总等](https://www.ershicimi.com/p/da2229e0378c219c3192c01bcbf612cf) 
 - [2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
 - [2020-06-10-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/fbaf071261c0e103a655f1defc6daca6) 
 - [2020-06-09-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/91fd61790db196f6bd0a98492d851448) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1040,6 +1040,10 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) 
+- [2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a) 
+- [2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184) 
+- [2020-06-14-如何减少开发中的-Bug](https://www.ershicimi.com/p/89e86939737fec299911f03b207620ba) 
 - [2020-06-13-赠书-|-前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/cceb169953aa27d4b74e507da0e9db07) 
 - [2020-06-12-19个前端开发人员的救生工具](https://www.ershicimi.com/p/00e557a501656edaeed8ce0e5b972613) 
 - [2020-06-11-10个宝藏网站，你一定用的上](https://www.ershicimi.com/p/693c60c8477b33f1f9bc85fd78bc748b) 
@@ -1221,6 +1225,8 @@
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82) 
 - [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 
 - [2020-05-23-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/2f5e766fa0bcfd8eb8510070c9cfe5b2) 
+- [2020-06-15-推荐几个优质的前端公众号](https://www.ershicimi.com/p/06b0f17af531df71aee2fc457844b0f9) 
+- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/5db492a6cb53d2fc59e08a542c58abee) 
 - [2020-06-11-关于这个时间，前端找工作的建议](https://www.ershicimi.com/p/2f375907c50ddbf659ad16b0ff80f35b) 
 - [2020-06-10-如何快速搭建好看的个人博客完整配置与源码](https://www.ershicimi.com/p/0d276bb0e1d0b58d148af80e2811a5e3) 
 - [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d) 

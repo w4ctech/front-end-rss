@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-15 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -396,6 +396,10 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) 
+- [【Vue中文社区】2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) 
+- [【Vue中文社区】2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a) 
+- [【Vue中文社区】2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184) 
+- [【Vue中文社区】2020-06-14-如何减少开发中的-Bug](https://www.ershicimi.com/p/89e86939737fec299911f03b207620ba) 
 - [【Vue中文社区】2020-06-13-从零构建前端-ESLint-工作流（2020手把手版）](https://www.ershicimi.com/p/052c3586c4af668856e135a83d061d9b) 
 - [【Vue中文社区】2020-06-13-赠书-|-前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/cceb169953aa27d4b74e507da0e9db07) 
 - [【Vue中文社区】2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a) 
@@ -604,6 +608,10 @@
 - [【前端瓶子君】2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [【前端瓶子君】2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
+- [【程序员成长指北】2020-06-15-在阿里我是如何当面试官的含流程、注意点、面试题汇总等](https://www.ershicimi.com/p/da2229e0378c219c3192c01bcbf612cf) 
+- [【程序员成长指北】2020-06-15-推荐几个优质的前端公众号](https://www.ershicimi.com/p/06b0f17af531df71aee2fc457844b0f9) 
+- [【程序员成长指北】2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/5db492a6cb53d2fc59e08a542c58abee) 
+- [【程序员成长指北】2020-06-13-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/c658fec3c2b0baf588aeb893e016069f) 
 - [【程序员成长指北】2020-06-12-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d0e2be76cf7a75e5963e0f7873f5281a) 
 - [【程序员成长指北】2020-06-11-关于这个时间，前端找工作的建议](https://www.ershicimi.com/p/2f375907c50ddbf659ad16b0ff80f35b) 
 - [【程序员成长指北】2020-06-11-你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876) 

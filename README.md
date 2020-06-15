@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 11:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 11:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-15-四川昨日新增境外输入确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdYHdWzTUCIB8tVerqoK200615&isfromapp=1) ![](assets/new.png)  
-- [2020-06-15-北京14日新增36例新冠肺炎确诊病例，新增无症状感染者6例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYPF3DwnSEpgdMoQZ9nw200615&isfromapp=1) ![](assets/new.png)  
-- [2020-06-15-截至6月14日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml) ![](assets/new.png)  
+- [2020-06-15-四川昨日新增境外输入确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdYHdWzTUCIB8tVerqoK200615&isfromapp=1)  
+- [2020-06-15-北京14日新增36例新冠肺炎确诊病例，新增无症状感染者6例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYPF3DwnSEpgdMoQZ9nw200615&isfromapp=1)  
+- [2020-06-15-截至6月14日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml)  
 - [2020-06-15-北京海淀启动对玉泉东市场周边社区封闭管理-附近学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1)  
 - [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1)  
 - [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1)  
@@ -146,6 +146,10 @@
 </summary>
 
 
+- [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) ![](assets/new.png)  
+- [2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a) ![](assets/new.png)  
+- [2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184) ![](assets/new.png)  
+- [2020-06-14-如何减少开发中的-Bug](https://www.ershicimi.com/p/89e86939737fec299911f03b207620ba) ![](assets/new.png)  
 - [2020-06-13-从零构建前端-ESLint-工作流（2020手把手版）](https://www.ershicimi.com/p/052c3586c4af668856e135a83d061d9b)  
 - [2020-06-13-赠书-|-前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/cceb169953aa27d4b74e507da0e9db07)  
 - [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a)  
@@ -162,10 +166,6 @@
 - [2020-06-07-加群吧-！后浪](https://www.ershicimi.com/p/982af3bb8863a079fbba532a76d47c18)  
 - [2020-06-06-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/5ef3e06f241ba9005f27c5cbef013c3b)  
 - [2020-06-06-官宣:-微信号可以修改了！](https://www.ershicimi.com/p/0037bb70c91dc3f40c26690f463dbcaa)  
-- [2020-06-05-大白话让你更懂Docker](https://www.ershicimi.com/p/1a7544bee3eee177eb1d8e77d928be7a)  
-- [2020-06-05-酷炫的命令行终端！Windows-Terminal-1.0-终于正式发布！](https://www.ershicimi.com/p/e50543643859c8ad5ae00aa1c4820d34)  
-- [2020-06-04-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/24a038b60aa09196a9beccc8f96f6eeb)  
-- [2020-06-03-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d37cc6afd558bacb0d8ca2c7168c4f0d)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -586,6 +586,10 @@
 </summary>
 
 
+- [2020-06-15-在阿里我是如何当面试官的含流程、注意点、面试题汇总等](https://www.ershicimi.com/p/da2229e0378c219c3192c01bcbf612cf) ![](assets/new.png)  
+- [2020-06-15-推荐几个优质的前端公众号](https://www.ershicimi.com/p/06b0f17af531df71aee2fc457844b0f9) ![](assets/new.png)  
+- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/5db492a6cb53d2fc59e08a542c58abee) ![](assets/new.png)  
+- [2020-06-13-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/c658fec3c2b0baf588aeb893e016069f) ![](assets/new.png)  
 - [2020-06-12-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d0e2be76cf7a75e5963e0f7873f5281a)  
 - [2020-06-11-关于这个时间，前端找工作的建议](https://www.ershicimi.com/p/2f375907c50ddbf659ad16b0ff80f35b)  
 - [2020-06-11-你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876)  
@@ -602,10 +606,6 @@
 - [2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a)  
 - [2020-06-01-Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6)  
 - [2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae)  
-- [2020-05-31-实战Vue-+-Koa从零打造一个H5页面可视化编辑器——Quark-h5](https://www.ershicimi.com/p/c3a2f68d2f817d1d5e033b718367fe2c)  
-- [2020-05-30-7-个前端进大厂的必备的技能，你还缺啥？](https://www.ershicimi.com/p/07b78429882e1b064a2be24d5b020425)  
-- [2020-05-30-前端最佳实践之可维护性](https://www.ershicimi.com/p/40c330c05bfb99695a4eac64a092ed1b)  
-- [2020-05-29-花椒前端-TypeScript-实践总结优缺点简要分析](https://www.ershicimi.com/p/b8d2fde01f4ce5cd6b5d1d8211423f80)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

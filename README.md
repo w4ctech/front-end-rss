@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 12:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 13:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1) ![](assets/new.png)  
-- [2020-06-15-北京海淀玉泉东周边10个社区封闭管理-相关人员全部核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1) ![](assets/new.png)  
-- [2020-06-15-北京卫健委：14日共检测76499人，其中59份阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1)  
+- [2020-06-15-北京海淀玉泉东周边10个社区封闭管理-相关人员全部核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1)  
+- [2020-06-15-北京卫健委：14日共检测76499人，其中59份阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1)  
 - [2020-06-15-四川昨日新增境外输入确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdYHdWzTUCIB8tVerqoK200615&isfromapp=1)  
 - [2020-06-15-北京14日新增36例新冠肺炎确诊病例，新增无症状感染者6例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYPF3DwnSEpgdMoQZ9nw200615&isfromapp=1)  
 - [2020-06-15-截至6月14日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml)  
@@ -914,6 +914,11 @@
 </summary>
 
 
+- [2020-06-15-webpack基本使用](https://juejin.im/post/5ee6e95b6fb9a047f229a430) ![](assets/new.png)  
+- [2020-06-15-移动端适配总结（长文）](https://juejin.im/post/5ee5e5cd51882557525a8d69) ![](assets/new.png)  
+- [2020-06-15-前端23种设计模式之代理模式](https://juejin.im/post/5edf9800f265da76e609ede2) ![](assets/new.png)  
+- [2020-06-15-小白前端之路:手写一个简单的vue-router](https://juejin.im/post/5ee58cfee51d455f9a637f4d) ![](assets/new.png)  
+- [2020-06-15-小程序获取手机号——小程序入门与实战（15）](https://juejin.im/post/5ee6e23af265da76f44e5e84) ![](assets/new.png)  
 - [2020-06-14-三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108)  
 - [2020-06-14-vue源码阅读第三篇，渲染代码块生成](https://juejin.im/post/5ee64758f265da76cf6e6677)  
 - [2020-06-14-浏览器如何运行-JavaScript](https://juejin.im/post/5ee60ccdf265da76bc7613c7)  
@@ -929,11 +934,6 @@
 - [2020-06-14-100-行-js-代码下载抖音无水印视频](https://juejin.im/post/5ee4f035e51d4578615af59f)  
 - [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0)  
 - [2020-06-13-深入浅出WebAssembly5-Memory](https://juejin.im/post/5ee43c2df265da76ba7b256f)  
-- [2020-06-13-深入浅出WebAssembly6-Binary-Format](https://juejin.im/post/5ee43e79f265da76f75bf2a7)  
-- [2020-06-13-深入浅出WebAssembly7-Future](https://juejin.im/post/5ee4404be51d45789e0da51d)  
-- [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195)  
-- [2020-06-13-React新旧版本生命周期变化](https://juejin.im/post/5ee49a13f265da771526faf5)  
-- [2020-06-13-设计一款简单实用的-image-组件](https://juejin.im/post/5ee47f1f6fb9a048021482c2)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

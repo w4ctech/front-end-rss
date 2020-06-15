@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1448,6 +1448,7 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-15-前端23种设计模式之代理模式](https://juejin.im/post/5edf9800f265da76e609ede2) 
 - [2020-06-14-Unity学习—JobSystem](https://juejin.im/post/5ee503b6518825431437699e) 
 - [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://juejin.im/post/5ee483196fb9a047cf334195) 
 - [2020-06-12-详细介绍Nuxt项目上线部署](https://juejin.im/post/5ee31e1af265da76cd47ffe7) 

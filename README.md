@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 05:30:21，:rocket: 更新条数: +36， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 07:30:20，:rocket: 更新条数: +44， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -63,26 +63,26 @@
 </summary>
 
 
-- [2020-05-31-香港再增两宗本地新冠病例-疑出现集体感染](http://china.caixin.com/2020-05-31/101561261.html)  
-- [2020-05-31-最新疫情：全国新冠累计确诊83001例-新增境外输入确诊病例2例](http://china.caixin.com/2020-05-31/101561202.html)  
-- [2020-05-31-最新海外疫情:新冠感染者增至超593万-累计死亡超36.4万](http://international.caixin.com/2020-05-31/101561203.html)  
-- [2020-05-31-【境内疫情观察】山东新增2例境外输入病例（5月30日）](http://database.caixin.com/2020-05-31/101561210.html)  
-- [2020-05-30-特稿|迟到的工亡补助：武汉退休返聘医生新冠牺牲留遗憾](http://china.caixin.com/2020-05-30/101561148.html)  
-- [2020-05-30-日本忧第二波疫情卷土重来-局部地区现感染数反弹](http://international.caixin.com/2020-05-30/101561143.html)  
-- [2020-05-30-大流行手记|5月30日：英国公布疫后复苏安排，小学将分步复课](http://www.caixin.com/2020-05-30/101561166.html)  
-- [2020-05-30-【境内疫情观察】全国新增4例境外输入病例（5月29日）](http://database.caixin.com/2020-05-30/101561091.html)  
-- [2020-05-29-大流行手记|5月29日:非洲恐低估疫情-英超意甲拟重启](http://www.caixin.com/2020-05-29/101560895.html)  
-- [2020-05-29-【境内疫情观察】全国单日无新增确诊、死亡和疑似病例（5月28日）](http://database.caixin.com/2020-05-29/101560567.html)  
-- [2020-05-28-大流行手记|5月28日：WHO呼吁大流行期间保障母乳喂养](http://www.caixin.com/2020-05-28/101560393.html)  
-- [2020-05-28-【境内疫情观察】全国新增2例境外输入病例（5月27日）](http://database.caixin.com/2020-05-28/101560075.html)  
-- [2020-05-27-大流行手记|5月27日：韩国450余所学校再推迟线下开学](http://www.caixin.com/2020-05-27/101559855.html)  
-- [2020-05-27-【境内疫情观察】上海新增1例境外输入病例（5月26日）](http://database.caixin.com/2020-05-27/101559472.html)  
-- [2020-05-26-大流行手记|5月26日：纽交所重启交易大厅](http://www.caixin.com/2020-05-26/101559276.html)  
-- [2020-05-26-【境内疫情观察】全国新增7例境外输入病例（5月25日）](http://database.caixin.com/2020-05-26/101558996.html)  
-- [2020-05-26-武汉新冠检测大会战收尾-混检已筛出两百余感染者](http://china.caixin.com/2020-05-26/101558822.html)  
-- [2020-05-26-广西援鄂护士梁小霞不幸逝世](http://china.caixin.com/2020-05-26/101559249.html)  
-- [2020-05-25-【境内疫情观察】内蒙古新增10例境外输入病例（5月24日）](http://database.caixin.com/2020-05-25/101558529.html)  
-- [2020-05-25-大流行手记|5月25日：宗教活动解禁-德国一教堂现集体感染](http://www.caixin.com/2020-05-25/101558777.html)  
+- [2020-06-15-北京全面提升社区防控：三级应急响应、二级防控措施、一级工作状态](http://china.caixin.com/2020-06-15/101567633.html) ![](assets/new.png)  
+- [2020-06-15-吴尊友：未来三天北京报告病例数决定疫情走向](http://china.caixin.com/2020-06-15/101567781.html) ![](assets/new.png)  
+- [2020-06-15-北京昨日测出核酸阳性59人-是否全市大筛查仍在论证](http://china.caixin.com/2020-06-15/101567404.html) ![](assets/new.png)  
+- [2020-06-15-中疾控已上报北京病例测序初步结论-认定欧洲直接输入尚早](http://china.caixin.com/2020-06-15/101567451.html) ![](assets/new.png)  
+- [2020-06-15-数字说|北京四天新增79例新冠均涉新发地，如何关联？（更新）](http://datanews.caixin.com/2020-06-15/101567255.html) ![](assets/new.png)  
+- [2020-06-15-吴尊友：北京这次疫情出乎意料，形势严峻但又比较乐观](http://china.caixin.com/2020-06-15/101567695.html) ![](assets/new.png)  
+- [2020-06-15-北京暂停开放文体娱乐等室内活动场所](http://www.caixin.com/2020-06-15/101567735.html) ![](assets/new.png)  
+- [2020-06-15-【图集】北京广安体育场：夜间核酸筛查持续进行中](http://photos.caixin.com/2020-06-15/101567456.html) ![](assets/new.png)  
+- [2020-06-15-NACA总干事黄倢：没必要对水产品谈虎色变](http://science.caixin.com/2020-06-15/101567434.html) ![](assets/new.png)  
+- [2020-06-15-河北公布3例确诊病例和1例无症状感染者行动轨迹](http://www.caixin.com/2020-06-15/101567447.html) ![](assets/new.png)  
+- [2020-06-15-【图集】受新发地疫情影响-北京部分海鲜市场生意冷淡](http://photos.caixin.com/2020-06-15/101567314.html) ![](assets/new.png)  
+- [2020-06-15-北京36例河北3例-6月14日新冠新增49例](http://china.caixin.com/2020-06-15/101567295.html) ![](assets/new.png)  
+- [2020-06-15-北京6月14日完成核酸检测76499人-59份阳性](http://china.caixin.com/2020-06-15/101567370.html) ![](assets/new.png)  
+- [2020-06-15-疫情防控失职失责-北京丰台区副区长等被免职](http://china.caixin.com/2020-06-15/101567267.html) ![](assets/new.png)  
+- [2020-06-15-张文宏解读北京疫情：精准防控将成为常态](http://china.caixin.com/2020-06-15/101567260.html) ![](assets/new.png)  
+- [2020-06-15-最新疫情：全国新冠累计确诊83181例-北京本土再增36例](http://china.caixin.com/2020-06-15/101567422.html) ![](assets/new.png)  
+- [2020-06-15-最新海外疫情：新冠感染者近780万-累计死亡近43万](http://international.caixin.com/2020-06-15/101567645.html) ![](assets/new.png)  
+- [2020-06-14-北京再确诊8人-拟筛查新发地周边4.6万居民（附患者列表）](http://china.caixin.com/2020-06-14/101567228.html) ![](assets/new.png)  
+- [2020-06-14-北京排查有新发地接触史居民-各区做法不一（附检测机构名录）](http://china.caixin.com/2020-06-14/101567250.html) ![](assets/new.png)  
+- [2020-06-14-农贸市场生鲜产品不检疫新冠病毒-是否启动仍需论证](http://china.caixin.com/2020-06-14/101567245.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-15-吴尊友：未来三天是北京面对疫情关键期](https://m.weibo.cn/2656274875/4516204189049196) ![](assets/new.png)  
 - [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1)  
 - [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748)  
 - [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-15-截至6月14日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml)  
 - [2020-06-15-北京海淀启动对玉泉东市场周边社区封闭管理-附近学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1)  
 - [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1)  
-- [2020-06-14-辽宁发布关于域外疫情防控重点地区的通告](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1041,26 +1041,26 @@
 </summary>
 
 
-- [2020-06-16-写了一个小工具](https://www.v2ex.com/t/681894) ![](assets/new.png)  
-- [2020-06-16-MacBook-16-寸，最新的系统，合盖打开后，会卡一阵子，鼠标，触摸板都不能用，要等一阵子才能回复，这是什么原因？](https://www.v2ex.com/t/681893) ![](assets/new.png)  
-- [2020-06-16-西数红盘和蓝盘有什么区别？](https://www.v2ex.com/t/681892) ![](assets/new.png)  
-- [2020-06-16-苹果今年返校优惠改送-AirPods-了](https://www.v2ex.com/t/681891) ![](assets/new.png)  
-- [2020-06-16-如何优雅的度过-618-网购节？（电商风控必备）](https://www.v2ex.com/t/681890) ![](assets/new.png)  
-- [2020-06-16-Google-把香港也屏蔽了?](https://www.v2ex.com/t/681889) ![](assets/new.png)  
-- [2020-06-16-Android-App-加固原理与技术历程](https://www.v2ex.com/t/681888) ![](assets/new.png)  
-- [2020-06-16-618-想搞个-UPS-电源，有老哥买过类似产品的吗？](https://www.v2ex.com/t/681887) ![](assets/new.png)  
-- [2020-06-16-港版-11pro-max-更新-13.5.1-后出现转菊花和发热](https://www.v2ex.com/t/681886) ![](assets/new.png)  
-- [2020-06-16-目前中美之间海底通讯极限延迟是多少-ms](https://www.v2ex.com/t/681884) ![](assets/new.png)  
-- [2020-06-16-求问-tensorflow2.0-得到的模型和-1.X-的模型有什么区别](https://www.v2ex.com/t/681883) ![](assets/new.png)  
-- [2020-06-16-FTP-修改文件权限错误-502-Command-not-recognized](https://www.v2ex.com/t/681882) ![](assets/new.png)  
-- [2020-06-16-菜鸟国际疯狂招人，-hc-无上限！（P5-也招）](https://www.v2ex.com/t/681881) ![](assets/new.png)  
-- [2020-06-16-希望这个世界能少一些套路](https://www.v2ex.com/t/681878) ![](assets/new.png)  
-- [2020-06-15-搞了个能够支撑万兆网络的网页测速程序，接下来就是看看有没有时间搞个万兆网络了](https://www.v2ex.com/t/681877) ![](assets/new.png)  
-- [2020-06-15-上海|合租-龙阳路-芳华路地铁站-2-7-16-号线，三室一厅找两个舍友](https://www.v2ex.com/t/681875) ![](assets/new.png)  
-- [2020-06-15-德国找工作干货分享，公众号-CC-猫在德国](https://www.v2ex.com/t/681874) ![](assets/new.png)  
-- [2020-06-15-关于-GooglePlay-收款的问题](https://www.v2ex.com/t/681873) ![](assets/new.png)  
-- [2020-06-15-请问机械键盘被泼了维他柠檬茶怎么办](https://www.v2ex.com/t/681872) ![](assets/new.png)  
-- [2020-06-15-求个深圳的前端短期项目](https://www.v2ex.com/t/681870) ![](assets/new.png)  
+- [2020-06-16-写了一个小工具](https://www.v2ex.com/t/681894)  
+- [2020-06-16-MacBook-16-寸，最新的系统，合盖打开后，会卡一阵子，鼠标，触摸板都不能用，要等一阵子才能回复，这是什么原因？](https://www.v2ex.com/t/681893)  
+- [2020-06-16-西数红盘和蓝盘有什么区别？](https://www.v2ex.com/t/681892)  
+- [2020-06-16-苹果今年返校优惠改送-AirPods-了](https://www.v2ex.com/t/681891)  
+- [2020-06-16-如何优雅的度过-618-网购节？（电商风控必备）](https://www.v2ex.com/t/681890)  
+- [2020-06-16-Google-把香港也屏蔽了?](https://www.v2ex.com/t/681889)  
+- [2020-06-16-Android-App-加固原理与技术历程](https://www.v2ex.com/t/681888)  
+- [2020-06-16-618-想搞个-UPS-电源，有老哥买过类似产品的吗？](https://www.v2ex.com/t/681887)  
+- [2020-06-16-港版-11pro-max-更新-13.5.1-后出现转菊花和发热](https://www.v2ex.com/t/681886)  
+- [2020-06-16-目前中美之间海底通讯极限延迟是多少-ms](https://www.v2ex.com/t/681884)  
+- [2020-06-16-求问-tensorflow2.0-得到的模型和-1.X-的模型有什么区别](https://www.v2ex.com/t/681883)  
+- [2020-06-16-FTP-修改文件权限错误-502-Command-not-recognized](https://www.v2ex.com/t/681882)  
+- [2020-06-16-菜鸟国际疯狂招人，-hc-无上限！（P5-也招）](https://www.v2ex.com/t/681881)  
+- [2020-06-16-希望这个世界能少一些套路](https://www.v2ex.com/t/681878)  
+- [2020-06-15-搞了个能够支撑万兆网络的网页测速程序，接下来就是看看有没有时间搞个万兆网络了](https://www.v2ex.com/t/681877)  
+- [2020-06-15-上海|合租-龙阳路-芳华路地铁站-2-7-16-号线，三室一厅找两个舍友](https://www.v2ex.com/t/681875)  
+- [2020-06-15-德国找工作干货分享，公众号-CC-猫在德国](https://www.v2ex.com/t/681874)  
+- [2020-06-15-关于-GooglePlay-收款的问题](https://www.v2ex.com/t/681873)  
+- [2020-06-15-请问机械键盘被泼了维他柠檬茶怎么办](https://www.v2ex.com/t/681872)  
+- [2020-06-15-求个深圳的前端短期项目](https://www.v2ex.com/t/681870)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

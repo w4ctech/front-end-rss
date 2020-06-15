@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 20:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 21:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-15-世卫组织：全球新冠肺炎确诊病例超过780万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZS8YPDzjEFNWw5rckkF200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-北京已排查近20万曾去过新发地人员,社区防控工作进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimgNjyfqCvHJ0C4dOEF89200615&isfromapp=1) ![](assets/new.png)  
 - [2020-06-15-“疫”不容辞-北斗助力抗疫一线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT7pJMExm9Xn5P8P0nnmd200615&isfromapp=1)  
 - [2020-06-15-伊朗新增2449例-新冠肺炎确诊病例-累计确诊189876例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiey9J7MFo7RNXlQH3XLc9200615&isfromapp=1)  
 - [2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-14-世卫组织：全球新冠肺炎超过769万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1)  
 - [2020-06-14-北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1)  
 - [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
-- [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1)  
-- [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -437,10 +437,10 @@
 </summary>
 
 
-- [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/410a65b124235c19d642d3b534493f80) ![](assets/new.png)  
-- [2020-06-15-企业级前端研发框架的演进与实践](https://www.ershicimi.com/p/082da3691534c82c386f49cd93ad9c19) ![](assets/new.png)  
-- [2020-06-14-工欲善其事，必先利其器。如何玩转-VS-Code？](https://www.ershicimi.com/p/e717034f7c491769ad7044a52159e77c) ![](assets/new.png)  
-- [2020-06-13-字节跳动商业产品研发团队招聘前端开发，入职送iphone](https://www.ershicimi.com/p/1fe7c035bcee8ba19d385e519f49b22f) ![](assets/new.png)  
+- [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/410a65b124235c19d642d3b534493f80)  
+- [2020-06-15-企业级前端研发框架的演进与实践](https://www.ershicimi.com/p/082da3691534c82c386f49cd93ad9c19)  
+- [2020-06-14-工欲善其事，必先利其器。如何玩转-VS-Code？](https://www.ershicimi.com/p/e717034f7c491769ad7044a52159e77c)  
+- [2020-06-13-字节跳动商业产品研发团队招聘前端开发，入职送iphone](https://www.ershicimi.com/p/1fe7c035bcee8ba19d385e519f49b22f)  
 - [2020-06-12-SVG实现一个优雅的提示框](https://www.ershicimi.com/p/6c7744fd096514cdb6b48f0f2151108e)  
 - [2020-06-11-动手实践去实现-Vue-2.0-的核心原理](https://www.ershicimi.com/p/1bd715c468d871ba7e4eeee378904a88)  
 - [2020-06-10-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/9e7d349329e3841372853d9e3b84c0b3)  

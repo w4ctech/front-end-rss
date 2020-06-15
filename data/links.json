@@ -11545,6 +11545,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "2年前端，不懂源码...",
+        "link": "https://www.ershicimi.com/p/aa25011b297b55b4e1cd372413d2380d",
+        "date": "2020-06-15"
+      },
+      {
         "title": "别再摆摊了！Vue3.0尝鲜——实现商城实战项目",
         "link": "https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727",
         "date": "2020-06-12"
@@ -13260,6 +13265,151 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "汽车之家，你们家的信息系统搞什么垃圾？",
+        "link": "https://www.v2ex.com/t/681595",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Mac mini (2020 新款)、Mbp 16、黑苹果",
+        "link": "https://www.v2ex.com/t/681594",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "iOS 开发 调试工具",
+        "link": "https://www.v2ex.com/t/681593",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "VLOOK V9.19：为 Markdown 带来了音频、视频的支持，还有 mini 模式音频播放",
+        "link": "https://www.v2ex.com/t/681592",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "害，有时候觉得，产品真的就是领导，程序员，就是一条实施狗。",
+        "link": "https://www.v2ex.com/t/681591",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "作为程序猿，大家上班都戴耳机吗？求推荐个性价比高的头戴式耳机",
+        "link": "https://www.v2ex.com/t/681590",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "MacOS 间歇性休眠唤醒后 DNS 服务不可用",
+        "link": "https://www.v2ex.com/t/681589",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "[北京] 一家充满活力的公司，正寻求海外运营大神，月薪 30k--60k，希望有志之士不要错过~~~",
+        "link": "https://www.v2ex.com/t/681588",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "新版 13 寸MacBook Pro 忽然黑屏就再也开不了机了",
+        "link": "https://www.v2ex.com/t/681587",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "CCboard-优雅的粘贴板工具，新增点击自动粘贴，欢迎使用反馈",
+        "link": "https://www.v2ex.com/t/681584",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "准备换 Windows Server 当 NAS 系统了，有人用过 Win Server + ReFS 当 NAS 没",
+        "link": "https://www.v2ex.com/t/681583",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "压缩 gif 图片到指定大小的工具有吗？",
+        "link": "https://www.v2ex.com/t/681582",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "7 月 4 号上海招聘专场，蚂蚁金服技术风险数据中台， Java /大数据， P6~P8",
+        "link": "https://www.v2ex.com/t/681580",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Promise（axios）的问题请教",
+        "link": "https://www.v2ex.com/t/681579",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Dcat Admin v1.5.0 发布，高颜值后台系统构建工具，新增全新暗黑模式主题",
+        "link": "https://www.v2ex.com/t/681578",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "下海了，用 electron 做了一个桌面应用，怎么订阅收费？",
+        "link": "https://www.v2ex.com/t/681577",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "不懂就问，请教下各位大佬 ROG 幻 14 使用 SN750 发热大会影响笔记本本体硬件吗？",
+        "link": "https://www.v2ex.com/t/681576",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "对牛奶没有太多了解，进口牛奶什么牌子好，或者什么国家的比较好",
+        "link": "https://www.v2ex.com/t/681575",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "大家有什么好的视频压缩库",
+        "link": "https://www.v2ex.com/t/681574",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "求开发用笔记本推荐",
+        "link": "https://www.v2ex.com/t/681573",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "大伙, 能上 github 吗?",
+        "link": "https://www.v2ex.com/t/681569",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "如何看待这波北京疫情导致的复工复产复工复产中断",
+        "link": "https://www.v2ex.com/t/681568",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "华为体验店找不到一块完整的手机屏幕",
+        "link": "https://www.v2ex.com/t/681567",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "[新能力] 京东小程序已加入知晓云 SDK 全家桶",
+        "link": "https://www.v2ex.com/t/681566",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "2000 以内的扫拖一体机器人有推荐的吗？",
+        "link": "https://www.v2ex.com/t/681564",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "公司从年初就一直拖欠工资，工资只发基本工资，咋办？有的时候真想把老板全家杀了。有相似经历的同胞吗？",
+        "link": "https://www.v2ex.com/t/681563",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "[北京] 一家充满活力的公司，正寻求 Python 爬虫大神，月薪 50k，希望有志之士不要错过~~~",
+        "link": "https://www.v2ex.com/t/681562",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "为何抖音关闭了定位权限还是可以定位？ IOS",
+        "link": "https://www.v2ex.com/t/681561",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "中国表情包 Github 开源项目大更新! 新增背景文化故事, 资源镜像到阿里云, 国内访问丝滑流畅",
+        "link": "https://www.v2ex.com/t/681558",
+        "date": "2020-06-15"
+      },
       {
         "title": "只用来开店听收款买什么手机好，店里没 WIFI",
         "link": "https://www.v2ex.com/t/681560",

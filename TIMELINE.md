@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-15 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -123,6 +123,8 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-“疫”不容辞-北斗助力抗疫一线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT7pJMExm9Xn5P8P0nnmd200615&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-伊朗新增2449例-新冠肺炎确诊病例-累计确诊189876例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiey9J7MFo7RNXlQH3XLc9200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-巴基斯坦新增5278例新冠肺炎确诊病例-累计144478例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-15-​印度新增11502例新冠肺炎确诊病例-累计332424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1) 

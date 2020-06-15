@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 17:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 19:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-“疫”不容辞-北斗助力抗疫一线](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT7pJMExm9Xn5P8P0nnmd200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-伊朗新增2449例-新冠肺炎确诊病例-累计确诊189876例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiey9J7MFo7RNXlQH3XLc9200615&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1)  
 - [2020-06-15-巴基斯坦新增5278例新冠肺炎确诊病例-累计144478例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1)  
 - [2020-06-15-​印度新增11502例新冠肺炎确诊病例-累计332424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1)  
 - [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-14-土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1)  
 - [2020-06-14-印度德里计划改造酒店，增加2万张病床](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1)  
 - [2020-06-14-世卫组织：全球新冠肺炎确诊病例超过763万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1)  
-- [2020-06-14-天津：及时排查疫区相关人员-确保生活必需品市场稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1)  
-- [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -914,11 +914,11 @@
 </summary>
 
 
-- [2020-06-15-Node中间层实践（五）——express-中间层的逻辑处理](https://juejin.im/post/5ee71ff9e51d452f9c27e38a) ![](assets/new.png)  
-- [2020-06-15-你真的了解ES6的Set，WeakSet，Map和WeakMap吗？](https://juejin.im/post/5ee71e92f265da76f65329fe) ![](assets/new.png)  
-- [2020-06-15-vue实现公告栏文字上下滚动效果](https://juejin.im/post/5ee723986fb9a047942f3fd4) ![](assets/new.png)  
-- [2020-06-15-2020-祝安，缝隙中寻找机遇：面试题第一波：css](https://juejin.im/post/5ee6e13751882542e5471ca2) ![](assets/new.png)  
-- [2020-06-15-Vue-函数式组件的使用技巧](https://juejin.im/post/5ee72d0e5188251e8115f549) ![](assets/new.png)  
+- [2020-06-15-Node中间层实践（五）——express-中间层的逻辑处理](https://juejin.im/post/5ee71ff9e51d452f9c27e38a)  
+- [2020-06-15-你真的了解ES6的Set，WeakSet，Map和WeakMap吗？](https://juejin.im/post/5ee71e92f265da76f65329fe)  
+- [2020-06-15-vue实现公告栏文字上下滚动效果](https://juejin.im/post/5ee723986fb9a047942f3fd4)  
+- [2020-06-15-2020-祝安，缝隙中寻找机遇：面试题第一波：css](https://juejin.im/post/5ee6e13751882542e5471ca2)  
+- [2020-06-15-Vue-函数式组件的使用技巧](https://juejin.im/post/5ee72d0e5188251e8115f549)  
 - [2020-06-15-webpack基本使用](https://juejin.im/post/5ee6e95b6fb9a047f229a430)  
 - [2020-06-15-移动端适配总结（长文）](https://juejin.im/post/5ee5e5cd51882557525a8d69)  
 - [2020-06-15-前端23种设计模式之代理模式](https://juejin.im/post/5edf9800f265da76e609ede2)  

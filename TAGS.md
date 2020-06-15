@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-15 13:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -115,6 +115,7 @@
 - [【前端之巅】何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be)
 - [【前端之巅】受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831)
 - [【前端迷】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6)
+- [【全栈前端精选】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231)
 - [【程序员成长指北】花椒前端-TypeScript-实践总结优缺点简要分析](https://www.ershicimi.com/p/b8d2fde01f4ce5cd6b5d1d8211423f80)
 - [【程序员成长指北】AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c)
 - [【Nodejs技术栈】TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)
@@ -125,6 +126,7 @@
 - [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [【V2EX】Typescript-香吗?](https://www.v2ex.com/t/679223)
+- [【开发者头条】TypeScript-使用日志](https://toutiao.io/k/uuz5bsv)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -588,6 +590,7 @@
 - [【V2EX】OpenResty-持续运行内存不会回收](https://www.v2ex.com/t/677203)
 - [【V2EX】请问可以在-docker-Linux-上开发-c/c++吗？](https://www.v2ex.com/t/677181)
 - [【V2EX】docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753)
+- [【开发者头条】Prometheus-监控-Docker-Swarm-集群（一）](https://toutiao.io/k/gq3o3mv)
 - [【开发者头条】推荐-面向开发人员的-Docker-入门级实战，真香](https://toutiao.io/k/7wk3ylq)
 - [【开发者头条】什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft)
 - [【开发者头条】以太坊中-GraphQL-简介及使用](https://toutiao.io/k/wjzb8sl)

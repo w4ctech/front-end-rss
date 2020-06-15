@@ -5102,6 +5102,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "​印度新增11502例新冠肺炎确诊病例 累计332424例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1",
+        "date": "2020-06-15"
+      },
+      {
         "title": "香港迪士尼乐园将于18日重新开放",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1",
         "date": "2020-06-15"
@@ -8519,6 +8524,16 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "一文读懂 TypeScript 泛型及应用",
+        "link": "https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "H5 直播的疯狂点赞动画是如何实现的？",
+        "link": "https://www.ershicimi.com/p/72fae246008c062cbace0d2717c1f223",
+        "date": "2020-06-14"
+      },
       {
         "title": "推荐一个本科双非不到两年进阿里的前端大佬",
         "link": "https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be",
@@ -26014,6 +26029,126 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "低代码平台会是软件业的未来么？",
+        "link": "https://toutiao.io/k/ol3xk2p",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Mybatis 逆向工程使用姿势不对，把表清空了，心里慌的一比，于是写了个插件",
+        "link": "https://toutiao.io/k/9fsqo1p",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "58同城宝实时数仓建设实践",
+        "link": "https://toutiao.io/k/1zv8bx7",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "2020 年，你可能需要基于 Vue 的微服务架构实践，在服务端或客户端聚合子服务",
+        "link": "https://toutiao.io/k/fc4iq2x",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "什么是中断机制？",
+        "link": "https://toutiao.io/k/flcdfes",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Blink Worker 纸上谈兵",
+        "link": "https://toutiao.io/k/nhnrur1",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "谷歌应用市场上架（开发者账户关联）相关问题汇总以及解决方案（二）",
+        "link": "https://toutiao.io/k/1mag97v",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "以太坊一种可升级的可信存证智能合约设计与实现",
+        "link": "https://toutiao.io/k/vw6nzl3",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "VSCode Conventional Commits 插件",
+        "link": "https://toutiao.io/k/2s9tx59",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Web 测试：为什么我选了 cypress，而不是 headless",
+        "link": "https://toutiao.io/k/55kky9t",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "如何做一次完美的 ABTest？",
+        "link": "https://toutiao.io/k/g8azqml",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Nginx “线程池模式” 探讨，据说性能提高了 9 倍",
+        "link": "https://toutiao.io/k/gkgjxub",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "我是怎么读源代码的",
+        "link": "https://toutiao.io/k/pl1l6p1",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "OAuth2 图解",
+        "link": "https://toutiao.io/k/zbvhy3v",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "22 款设计和可视化神经网络的工具",
+        "link": "https://toutiao.io/k/1i2yd4c",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "一文看懂静态资源服务沉浮及其在携程的演进",
+        "link": "https://toutiao.io/k/oedotrb",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Java 并发编程那些事儿（九）：内存模型",
+        "link": "https://toutiao.io/k/ze1w0mt",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "Prometheus 监控 Docker Swarm 集群（一）",
+        "link": "https://toutiao.io/k/gq3o3mv",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "用 Explain 命令分析 MySQL 的 SQL 执行",
+        "link": "https://toutiao.io/k/sqm9bb0",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "TypeScript 使用日志",
+        "link": "https://toutiao.io/k/uuz5bsv",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "ZooKeeper 面试题（2020 最新版）",
+        "link": "https://toutiao.io/k/uh0dhfh",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "腾讯万亿级 Elasticsearch 内存效率提升技术解密",
+        "link": "https://toutiao.io/k/ctejd18",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "当后端一次性丢给你 10 万条数据, 作为前端工程师,你要怎么处理?",
+        "link": "https://toutiao.io/k/lukpttx",
+        "date": "2020-06-15"
+      },
+      {
+        "title": "如何更好的使用 Gson",
+        "link": "https://toutiao.io/k/u14ikwr",
+        "date": "2020-06-15"
+      },
       {
         "title": "一个神秘 URL 酿大祸，差点让我背锅",
         "link": "https://toutiao.io/k/8wof0nr",

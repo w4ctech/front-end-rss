@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-15 13:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 14:00:20，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-15-​印度新增11502例新冠肺炎确诊病例-累计332424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1) ![](assets/new.png)  
 - [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1)  
 - [2020-06-15-北京海淀玉泉东周边10个社区封闭管理-相关人员全部核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1)  
 - [2020-06-15-北京卫健委：14日共检测76499人，其中59份阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-14-北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1)  
 - [2020-06-14-泰国7月1日起将开放127处国家森林公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1)  
 - [2020-06-14-北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1)  
-- [2020-06-14-陕西新增境外输入确诊病例2例-，新增境外输入无症状感染者3例，本地连续115天无新增](http://sxwjw.shaanxi.gov.cn/art/2020/6/14/art_9_71063.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -250,10 +250,10 @@
 </summary>
 
 
-- [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932) ![](assets/new.png)  
-- [2020-06-15-在-TS-类型推断中如何使用上下文](https://www.ershicimi.com/p/aa3cdad229a18dc2cd03c633c7f1c963) ![](assets/new.png)  
-- [2020-06-14-1.1万字从零解读Vue3.0源码响应式系统](https://www.ershicimi.com/p/d71eee0c0e173998d997c7a15d78633b) ![](assets/new.png)  
-- [2020-06-13-谁说前端不需要懂二进制](https://www.ershicimi.com/p/e94240b9a08e34f191fed5b2dd8fc50b) ![](assets/new.png)  
+- [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/4bf010e6c47fbaea737b04fedb388932)  
+- [2020-06-15-在-TS-类型推断中如何使用上下文](https://www.ershicimi.com/p/aa3cdad229a18dc2cd03c633c7f1c963)  
+- [2020-06-14-1.1万字从零解读Vue3.0源码响应式系统](https://www.ershicimi.com/p/d71eee0c0e173998d997c7a15d78633b)  
+- [2020-06-13-谁说前端不需要懂二进制](https://www.ershicimi.com/p/e94240b9a08e34f191fed5b2dd8fc50b)  
 - [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/bb263461b38696a14d5693bc398059ec)  
 - [2020-06-12-面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/e1a7d93229307417d98f850f89d2a543)  
 - [2020-06-11-你不知道的-Blob](https://www.ershicimi.com/p/c4b57df9cd424f79e42a37efca73ffe3)  
@@ -468,6 +468,8 @@
 </summary>
 
 
+- [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231) ![](assets/new.png)  
+- [2020-06-14-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/72fae246008c062cbace0d2717c1f223) ![](assets/new.png)  
 - [2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be)  
 - [2020-06-12-手把手封装React-按需渲染组件](https://www.ershicimi.com/p/b1e7819e765f842e907b2488498e5f15)  
 - [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52)  
@@ -486,8 +488,6 @@
 - [2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867)  
 - [2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b)  
 - [2020-05-31-这几个长期活跃在社区的大佬公众号，你都认识么？](https://www.ershicimi.com/p/c571a9f943526298a66cbedd556b7519)  
-- [2020-05-31-淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6)  
-- [2020-05-30-我的VS-Code设置，高效编码！](https://www.ershicimi.com/p/9f7b3801200cdeab85977e00b2831bd0)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1101,26 +1101,26 @@
 </summary>
 
 
-- [2020-06-14-一个神秘-URL-酿大祸，差点让我背锅](https://toutiao.io/k/8wof0nr)  
-- [2020-06-14-前端高级进阶：前端部署的发展历程](https://toutiao.io/k/2ko6nm3)  
-- [2020-06-14-Why-Asio?](https://toutiao.io/k/924yku4)  
-- [2020-06-14-Git-的-cherry-pick-命令还没用过？快来看看它的厉害](https://toutiao.io/k/o0tytvb)  
-- [2020-06-14-用户网络行为画像知识点纪要](https://toutiao.io/k/d5wfsw9)  
-- [2020-06-14-Lucene-索引文件的生成（二十一）：dvm-&&-dvd](https://toutiao.io/k/ps72jxe)  
-- [2020-06-14-以深度学习为例理解-22-种设计模式（三）：行为模式](https://toutiao.io/k/1x7hm47)  
-- [2020-06-14-《动手学深度学习》新增-PyTorch-实现](https://toutiao.io/k/3v1176m)  
-- [2020-06-14-CSS-的-background-属性到底有哪些用法？这篇文章帮你全部总结了](https://toutiao.io/k/gl2qvdc)  
-- [2020-06-14-译-是时候考虑搭建自己的站点了：Hugo-和-GitHub-Pages-为你助力](https://toutiao.io/k/dkry75o)  
-- [2020-06-14-OPPO-内核性能追踪平台技术实践：记一次奇怪的-IO-100%-忙问题定位过程](https://toutiao.io/k/bnu9c7b)  
-- [2020-06-14-eBPF-技术实践：高性能-ACL](https://toutiao.io/k/5nezsfd)  
-- [2020-06-14-漫谈分布式系统（十六）：搞定-worker-的性能问题](https://toutiao.io/k/ki8la2g)  
-- [2020-06-14-终于有一个-Java-可以用的微信机器人了](https://toutiao.io/k/rgy505e)  
-- [2020-06-14-推荐-面向开发人员的-Docker-入门级实战，真香](https://toutiao.io/k/7wk3ylq)  
-- [2020-06-14-推荐-架构设计：异步处理流程，多种实现模式详解](https://toutiao.io/k/64ynvdx)  
-- [2020-06-13-一项改变游戏规则的技术：Flutter](https://toutiao.io/k/8v5n80n)  
-- [2020-06-13-使用-Java-语言开发人工智能服务应用](https://toutiao.io/k/iqcbmlq)  
-- [2020-06-13-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/kf0o4hd)  
-- [2020-06-13-五年磨一剑，服务端团队呕心力作之稳定性规范](https://toutiao.io/k/9zo71kz)  
+- [2020-06-15-低代码平台会是软件业的未来么？](https://toutiao.io/k/ol3xk2p) ![](assets/new.png)  
+- [2020-06-15-Mybatis-逆向工程使用姿势不对，把表清空了，心里慌的一比，于是写了个插件](https://toutiao.io/k/9fsqo1p) ![](assets/new.png)  
+- [2020-06-15-58同城宝实时数仓建设实践](https://toutiao.io/k/1zv8bx7) ![](assets/new.png)  
+- [2020-06-15-2020-年，你可能需要基于-Vue-的微服务架构实践，在服务端或客户端聚合子服务](https://toutiao.io/k/fc4iq2x) ![](assets/new.png)  
+- [2020-06-15-什么是中断机制？](https://toutiao.io/k/flcdfes) ![](assets/new.png)  
+- [2020-06-15-Blink-Worker-纸上谈兵](https://toutiao.io/k/nhnrur1) ![](assets/new.png)  
+- [2020-06-15-谷歌应用市场上架（开发者账户关联）相关问题汇总以及解决方案（二）](https://toutiao.io/k/1mag97v) ![](assets/new.png)  
+- [2020-06-15-以太坊一种可升级的可信存证智能合约设计与实现](https://toutiao.io/k/vw6nzl3) ![](assets/new.png)  
+- [2020-06-15-VSCode-Conventional-Commits-插件](https://toutiao.io/k/2s9tx59) ![](assets/new.png)  
+- [2020-06-15-Web-测试：为什么我选了-cypress，而不是-headless](https://toutiao.io/k/55kky9t) ![](assets/new.png)  
+- [2020-06-15-如何做一次完美的-ABTest？](https://toutiao.io/k/g8azqml) ![](assets/new.png)  
+- [2020-06-15-Nginx-“线程池模式”-探讨，据说性能提高了-9-倍](https://toutiao.io/k/gkgjxub) ![](assets/new.png)  
+- [2020-06-15-我是怎么读源代码的](https://toutiao.io/k/pl1l6p1) ![](assets/new.png)  
+- [2020-06-15-OAuth2-图解](https://toutiao.io/k/zbvhy3v) ![](assets/new.png)  
+- [2020-06-15-22-款设计和可视化神经网络的工具](https://toutiao.io/k/1i2yd4c) ![](assets/new.png)  
+- [2020-06-15-一文看懂静态资源服务沉浮及其在携程的演进](https://toutiao.io/k/oedotrb) ![](assets/new.png)  
+- [2020-06-15-Java-并发编程那些事儿（九）：内存模型](https://toutiao.io/k/ze1w0mt) ![](assets/new.png)  
+- [2020-06-15-Prometheus-监控-Docker-Swarm-集群（一）](https://toutiao.io/k/gq3o3mv) ![](assets/new.png)  
+- [2020-06-15-用-Explain-命令分析-MySQL-的-SQL-执行](https://toutiao.io/k/sqm9bb0) ![](assets/new.png)  
+- [2020-06-15-TypeScript-使用日志](https://toutiao.io/k/uuz5bsv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

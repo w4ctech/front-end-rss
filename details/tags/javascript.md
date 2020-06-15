@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -44,6 +44,7 @@
 - [2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
 - [2020-05-29-工作中常用的JavaScript工具函数](https://www.ershicimi.com/p/4919a2dd80458e365ac18a1e0884a161) 
 - [2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3) 
+- [2020-06-14-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/72fae246008c062cbace0d2717c1f223) 
 - [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52) 
 - [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc) 
 - [2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
@@ -215,6 +216,7 @@
 - [2020-05-29-提问-声明一个成员变量，在局部方法中初始化，是否有线程安全问题？](https://www.v2ex.com/t/676763) 
 - [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573) 
 - [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552) 
+- [2020-06-15-Blink-Worker-纸上谈兵](https://toutiao.io/k/nhnrur1) 
 - [2020-06-14-漫谈分布式系统（十六）：搞定-worker-的性能问题](https://toutiao.io/k/ki8la2g) 
 - [2020-06-14-推荐-架构设计：异步处理流程，多种实现模式详解](https://toutiao.io/k/64ynvdx) 
 - [2020-06-12-Spring-自定义事件](https://toutiao.io/k/y3zrwr8) 

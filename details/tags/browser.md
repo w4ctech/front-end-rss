@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -54,6 +54,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-15-字节跳动-安全与风控-内推](https://www.v2ex.com/t/681532) 
 - [2020-06-14-问一个-dx11-的问题，我的渲染在一些机器上是黑色](https://www.v2ex.com/t/681494) 
 - [2020-06-14-URL-的历史](https://www.v2ex.com/t/681493) 
 - [2020-06-14-CAD-CAD-CAD-文件浏览器哪家强？](https://www.v2ex.com/t/681485) 

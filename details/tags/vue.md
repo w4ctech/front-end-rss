@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -100,6 +100,7 @@
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-14-Vue-父组件可以通过-ref-修改子组件的值，那么我们还要不要通过-prop-去传值呢？](https://www.v2ex.com/t/681528) 
 - [2020-06-13-关于-vue-的-transiton-组件和-render-以及-es6-的-class-语法的问题](https://www.v2ex.com/t/681316) 
 - [2020-06-09-个人博客分享（Laravel-+-Bootstrap-+-Vue-+-Docker）](https://www.v2ex.com/t/680182) 
 - [2020-06-07-vuex-和把全局数据挂到$parent-下有什么区别？](https://www.v2ex.com/t/679501) 

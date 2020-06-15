@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-15 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-15-【第1976期】滴滴出行小程序体积优化实践](https://www.ershicimi.com/p/f6214641a1008fd3c101c4d428315d14) 
 - [2020-06-13-【早读】小程序工程化探索：大规模场景下的问题和解决方案](https://www.ershicimi.com/p/f2ffe412ed7dcac30eb51809f3472f8b) 
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/0b5fc7c665853c8160097d340656ffd3) 
 - [2019-10-13-视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5) 

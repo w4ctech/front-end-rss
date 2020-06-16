@@ -5317,6 +5317,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美专家：美国第二波疫情已经开始",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1",
+        "date": "2020-06-16"
+      },
+      {
         "title": "东京奥组委执委：应考虑奥运会再次推迟的可能性",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1",
         "date": "2020-06-16"
@@ -9928,6 +9933,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "苹果电脑为什么要换 CPU：Intel 与 ARM 的战争",
+        "link": "http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html",
+        "date": "2020-06-16"
+      },
       {
         "title": "科技爱好者周刊（第 111 期）：智能电视的误区",
         "link": "http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html",

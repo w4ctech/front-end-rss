@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 18:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 19:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729) ![](assets/new.png)  
+- [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
+- [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729)  
 - [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212)  
 - [2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1)  
 - [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1)  
 - [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748)  
 - [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1)  
-- [2020-06-15-印度最大贫民窟新增新冠肺炎病例25例，累计2068例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7QsFBtiUI2NdpkEjCn5A200615&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -672,6 +672,7 @@
 </summary>
 
 
+- [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html) ![](assets/new.png)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
 - [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  

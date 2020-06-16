@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 11:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 12:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-武汉市无症状感染者及其密切接触者“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiooLUuWbdvMXZ0hZCqFJl200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1)  
+- [2020-06-16-武汉市无症状感染者及其密切接触者“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiooLUuWbdvMXZ0hZCqFJl200616&isfromapp=1)  
 - [2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370)  
 - [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1)  
 - [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1)  
@@ -1041,26 +1041,26 @@
 </summary>
 
 
-- [2020-06-16-关于-Unity-的-mono-和-il2cpp-的两种打包方式](https://www.v2ex.com/t/681977) ![](assets/new.png)  
-- [2020-06-16-如果要写一个展示复杂效果的文档，用什么软件比较好？](https://www.v2ex.com/t/681976) ![](assets/new.png)  
-- [2020-06-16-Airpods-要怎么清洁？](https://www.v2ex.com/t/681975) ![](assets/new.png)  
-- [2020-06-16-测试经理-/高级测试开发工程师，地点：上海](https://www.v2ex.com/t/681972) ![](assets/new.png)  
-- [2020-06-16-饿了么玩套路？](https://www.v2ex.com/t/681971) ![](assets/new.png)  
-- [2020-06-16-工作流引擎，大佬们有什么开源的工具可以推荐的么？](https://www.v2ex.com/t/681969) ![](assets/new.png)  
-- [2020-06-16-Basecamp-出了一个新的邮件服务](https://www.v2ex.com/t/681968) ![](assets/new.png)  
-- [2020-06-16-大家工作中的前后端是如何合作的？如何减少接口变更？](https://www.v2ex.com/t/681966) ![](assets/new.png)  
-- [2020-06-16-有什么稳定而便宜的支持-Airpaly/UPnP-的数播方案呢](https://www.v2ex.com/t/681964) ![](assets/new.png)  
-- [2020-06-16-一个，大家一起优化交流创意和想法的地方。](https://www.v2ex.com/t/681962) ![](assets/new.png)  
-- [2020-06-16-手机打开某些网页莫名自动跳转至淘宝/京东...](https://www.v2ex.com/t/681961) ![](assets/new.png)  
-- [2020-06-16-疑问-大家伙现在求职都用什么渠道？](https://www.v2ex.com/t/681960) ![](assets/new.png)  
-- [2020-06-16-有看番的吗？-我给-Agefans-扩展了追番功能，欢迎使用:D](https://www.v2ex.com/t/681959) ![](assets/new.png)  
-- [2020-06-16-好吧我换个问法，与你-APP-是端到端加密吗？怎么这么多卖片的。](https://www.v2ex.com/t/681958) ![](assets/new.png)  
-- [2020-06-16-买衣服不用等-618，直接过来看看](https://www.v2ex.com/t/681957) ![](assets/new.png)  
-- [2020-06-16-适合玩-fps-游戏的无线机械键盘，求推荐](https://www.v2ex.com/t/681955) ![](assets/new.png)  
-- [2020-06-16-618-短信轰炸来了，有何对策？](https://www.v2ex.com/t/681954) ![](assets/new.png)  
-- [2020-06-16-anki-定时复习的疑问](https://www.v2ex.com/t/681953) ![](assets/new.png)  
-- [2020-06-16-高性能定时器，基于-5-级时间轮实现。fast,fast,fast](https://www.v2ex.com/t/681951) ![](assets/new.png)  
-- [2020-06-16-求助关于树莓派的防水方式](https://www.v2ex.com/t/681950) ![](assets/new.png)  
+- [2020-06-16-关于-Unity-的-mono-和-il2cpp-的两种打包方式](https://www.v2ex.com/t/681977)  
+- [2020-06-16-如果要写一个展示复杂效果的文档，用什么软件比较好？](https://www.v2ex.com/t/681976)  
+- [2020-06-16-Airpods-要怎么清洁？](https://www.v2ex.com/t/681975)  
+- [2020-06-16-测试经理-/高级测试开发工程师，地点：上海](https://www.v2ex.com/t/681972)  
+- [2020-06-16-饿了么玩套路？](https://www.v2ex.com/t/681971)  
+- [2020-06-16-工作流引擎，大佬们有什么开源的工具可以推荐的么？](https://www.v2ex.com/t/681969)  
+- [2020-06-16-Basecamp-出了一个新的邮件服务](https://www.v2ex.com/t/681968)  
+- [2020-06-16-大家工作中的前后端是如何合作的？如何减少接口变更？](https://www.v2ex.com/t/681966)  
+- [2020-06-16-有什么稳定而便宜的支持-Airpaly/UPnP-的数播方案呢](https://www.v2ex.com/t/681964)  
+- [2020-06-16-一个，大家一起优化交流创意和想法的地方。](https://www.v2ex.com/t/681962)  
+- [2020-06-16-手机打开某些网页莫名自动跳转至淘宝/京东...](https://www.v2ex.com/t/681961)  
+- [2020-06-16-疑问-大家伙现在求职都用什么渠道？](https://www.v2ex.com/t/681960)  
+- [2020-06-16-有看番的吗？-我给-Agefans-扩展了追番功能，欢迎使用:D](https://www.v2ex.com/t/681959)  
+- [2020-06-16-好吧我换个问法，与你-APP-是端到端加密吗？怎么这么多卖片的。](https://www.v2ex.com/t/681958)  
+- [2020-06-16-买衣服不用等-618，直接过来看看](https://www.v2ex.com/t/681957)  
+- [2020-06-16-适合玩-fps-游戏的无线机械键盘，求推荐](https://www.v2ex.com/t/681955)  
+- [2020-06-16-618-短信轰炸来了，有何对策？](https://www.v2ex.com/t/681954)  
+- [2020-06-16-anki-定时复习的疑问](https://www.v2ex.com/t/681953)  
+- [2020-06-16-高性能定时器，基于-5-级时间轮实现。fast,fast,fast](https://www.v2ex.com/t/681951)  
+- [2020-06-16-求助关于树莓派的防水方式](https://www.v2ex.com/t/681950)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1091,7 +1092,6 @@
 - [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

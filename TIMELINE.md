@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -3099,6 +3099,7 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

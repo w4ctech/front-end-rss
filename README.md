@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 02:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619) ![](assets/new.png)  
+- [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619)  
 - [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1)  
 - [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1)  
 - [2020-06-16-北京市-18-家大型超市承诺主要蔬菜品种不涨价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1)  
@@ -774,6 +774,7 @@
 </summary>
 
 
+- [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740) ![](assets/new.png)  
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6)  
 - [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8)  
 - [2020-06-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/aebf19567f4905c6d6c060eed20bc66e)  

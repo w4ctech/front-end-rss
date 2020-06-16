@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 00:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 02:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,11 +94,12 @@
 </summary>
 
 
-- [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-北京市-18-家大型超市承诺主要蔬菜品种不涨价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-北京公布新增-27-例确诊病例详情，均与新发地市场有关联。](https://m.weibo.cn/2656274875/4516563212298905) ![](assets/new.png)  
-- [2020-06-16-法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619) ![](assets/new.png)  
+- [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1)  
+- [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1)  
+- [2020-06-16-北京市-18-家大型超市承诺主要蔬菜品种不涨价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1)  
+- [2020-06-16-北京公布新增-27-例确诊病例详情，均与新发地市场有关联。](https://m.weibo.cn/2656274875/4516563212298905)  
+- [2020-06-16-法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1)  
 - [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1)  
 - [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
 - [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729)  
@@ -113,7 +114,6 @@
 - [2020-06-16-也门新增116例新冠肺炎确诊病例-疫情恶化加速-病死率高达四分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1)  
 - [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1)  
 - [2020-06-16-云南已检测海鲜产品新冠肺炎核酸样本4643份全部为阴性](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU159224453539168002)  
-- [2020-06-16-世卫组织：将继续支持中国应对新冠肺炎疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiouDUqcXYl6N24wkgQbVs200616&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -918,10 +918,10 @@
 </summary>
 
 
-- [2020-06-16-浏览器事件知多少——JS事件流与事件处理程序](https://juejin.im/post/5ee78ad96fb9a047d37123d2) ![](assets/new.png)  
-- [2020-06-16-了不起的-Webpack-HMR-学习指南（含源码分析）](https://juejin.im/post/5ee8e32a51882543485780d3) ![](assets/new.png)  
-- [2020-06-16-通过一个算法来简化你的-css](https://juejin.im/post/5ee8e785e51d457b3e77fb12) ![](assets/new.png)  
-- [2020-06-16-前端架构-101（五）：从-Flux-进化到-Model-View-Presenter](https://juejin.im/post/5ee8dbfc5188251fe83931c3) ![](assets/new.png)  
+- [2020-06-16-浏览器事件知多少——JS事件流与事件处理程序](https://juejin.im/post/5ee78ad96fb9a047d37123d2)  
+- [2020-06-16-了不起的-Webpack-HMR-学习指南（含源码分析）](https://juejin.im/post/5ee8e32a51882543485780d3)  
+- [2020-06-16-通过一个算法来简化你的-css](https://juejin.im/post/5ee8e785e51d457b3e77fb12)  
+- [2020-06-16-前端架构-101（五）：从-Flux-进化到-Model-View-Presenter](https://juejin.im/post/5ee8dbfc5188251fe83931c3)  
 - [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663)  
 - [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38)  
 - [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d)  

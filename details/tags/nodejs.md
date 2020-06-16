@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 16:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -47,6 +47,7 @@
 - [2020-06-09-想要试试Electron-，不如看看这篇爬坑总结](https://juejin.im/post/5ede23c6e51d45783f11023d) 
 - [2020-06-07-ArcBlock-正在热招-Node.js-全栈工程师](https://juejin.im/post/5edd7576518825365d47e971) 
 - [2020-06-03-electron打包你的h5应用成桌面应用](https://juejin.im/post/5ed640cc6fb9a0479c56d271) 
+- [2020-06-16-Flask-+-Wfastcgi-+-IIS-Express-关于虚拟目录的问题](https://www.v2ex.com/t/682066) 
 - [2020-06-15-node.js-官网变样了？](https://www.v2ex.com/t/681664) 
 - [2020-06-15-下海了，用-electron-做了一个桌面应用，怎么订阅收费？](https://www.v2ex.com/t/681577) 
 - [2020-06-13-想开发款个人用-Linux-管理面板，请问-Go-Rust-Python-Nodejs-哪个比较合适？](https://www.v2ex.com/t/681332) 

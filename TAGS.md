@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-16 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -583,6 +583,7 @@
 - [【互联网架构师】Redis+Nginx+设计模式+Spring全家桶+Dubbo+阿里P8技术精选文档](https://www.ershicimi.com/p/579ee8a1d9d2888c45c4d75fc9d0b385)
 - [【互联网架构师】如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)
 - [【InfoQ】用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)
+- [【V2EX】nginx-求助，反向代理-error.log-里不报错，但结果一直是-400](https://www.v2ex.com/t/681996)
 - [【V2EX】用-docker-隔离不同用户](https://www.v2ex.com/t/681633)
 - [【V2EX】windows-下-docker-怎么让容器内网络和其他主机的网络连通](https://www.v2ex.com/t/679046)
 - [【V2EX】docker-问题求救](https://www.v2ex.com/t/678639)
@@ -596,7 +597,6 @@
 - [【V2EX】docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753)
 - [【开发者头条】Prometheus-监控-Docker-Swarm-集群（一）](https://toutiao.io/k/gq3o3mv)
 - [【开发者头条】推荐-面向开发人员的-Docker-入门级实战，真香](https://toutiao.io/k/7wk3ylq)
-- [【开发者头条】什么？VMware-Fusion-也能-docker-run-了？](https://toutiao.io/k/v5izaft)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -632,7 +632,7 @@
 - [【掘金前端】关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】大伙,-能上-github-吗?](https://www.v2ex.com/t/681569)
+- [【V2EX】在-windows-系统下，因为控制台输出的错误信息导致无法在-idea-内使用-git-该如何解决？](https://www.v2ex.com/t/682035)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

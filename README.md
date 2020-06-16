@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 17:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 18:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729) ![](assets/new.png)  
 - [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212)  
 - [2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1)  
 - [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748)  
 - [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1)  
 - [2020-06-15-印度最大贫民窟新增新冠肺炎病例25例，累计2068例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7QsFBtiUI2NdpkEjCn5A200615&isfromapp=1)  
-- [2020-06-15-世卫组织：全球新冠肺炎确诊病例超过780万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZS8YPDzjEFNWw5rckkF200615&isfromapp=1)  
-- [2020-06-15-北京已排查近20万曾去过新发地人员,社区防控工作进入战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimgNjyfqCvHJ0C4dOEF89200615&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -916,11 +916,11 @@
 </summary>
 
 
-- [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d) ![](assets/new.png)  
-- [2020-06-16-第十一届前端早早聊大会-|-前端女生职业发展专场](https://www.huodongxing.com/go/tl11) ![](assets/new.png)  
-- [2020-06-16-如何使用css3实现一个类在线直播的队列动画](https://juejin.im/post/5ee843ac5188251ecc7de968) ![](assets/new.png)  
-- [2020-06-16-帮助全网前端小姐姐，少走一些职场弯路](https://juejin.im/post/5ee87aa56fb9a047cf3345f9) ![](assets/new.png)  
-- [2020-06-16-没有毕业季，也要好好说再见](https://juejin.im/post/5ee87e5e6fb9a047bb6a6d49) ![](assets/new.png)  
+- [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d)  
+- [2020-06-16-第十一届前端早早聊大会-|-前端女生职业发展专场](https://www.huodongxing.com/go/tl11)  
+- [2020-06-16-如何使用css3实现一个类在线直播的队列动画](https://juejin.im/post/5ee843ac5188251ecc7de968)  
+- [2020-06-16-帮助全网前端小姐姐，少走一些职场弯路](https://juejin.im/post/5ee87aa56fb9a047cf3345f9)  
+- [2020-06-16-没有毕业季，也要好好说再见](https://juejin.im/post/5ee87e5e6fb9a047bb6a6d49)  
 - [2020-06-15-Node中间层实践（五）——express-中间层的逻辑处理](https://juejin.im/post/5ee71ff9e51d452f9c27e38a)  
 - [2020-06-15-你真的了解ES6的Set，WeakSet，Map和WeakMap吗？](https://juejin.im/post/5ee71e92f265da76f65329fe)  
 - [2020-06-15-vue实现公告栏文字上下滚动效果](https://juejin.im/post/5ee723986fb9a047942f3fd4)  

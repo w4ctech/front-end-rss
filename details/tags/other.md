@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1690,6 +1690,9 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-16-ruby,一代优秀语言就这样陨落了吗？](https://www.v2ex.com/t/682185) 
+- [2020-06-16-社招-红帽-Quality-Engineering---Networking](https://www.v2ex.com/t/682184) 
+- [2020-06-16-求适合业余菜鸟的-c#教程](https://www.v2ex.com/t/682182) 
 - [2020-06-16-kubectl-基本命令](https://www.v2ex.com/t/682181) 
 - [2020-06-16-iOS-可以修改微信-ID-了](https://www.v2ex.com/t/682180) 
 - [2020-06-16-拉萨能科学上网吗？](https://www.v2ex.com/t/682179) 
@@ -3861,6 +3864,7 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-16-快应用-IDE-定制-Devtools-元素面板系列一：背景需求及方案分析-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

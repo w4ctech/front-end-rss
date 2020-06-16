@@ -14051,6 +14051,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有没有一种通过 git flow 判断公司或者团队靠谱程度的办法",
+        "link": "https://www.v2ex.com/t/682186",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "ruby,一代优秀语言就这样陨落了吗？",
+        "link": "https://www.v2ex.com/t/682185",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "[社招] [红帽] Quality Engineering - Networking",
+        "link": "https://www.v2ex.com/t/682184",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "上海 10+ 年工作经验，求收留，关键字：从 startup 到 ipo，网站架构， PHP ，小程序，增长黑客",
+        "link": "https://www.v2ex.com/t/682183",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "求适合业余菜鸟的 c#教程",
+        "link": "https://www.v2ex.com/t/682182",
+        "date": "2020-06-16"
+      },
+      {
         "title": "kubectl 基本命令",
         "link": "https://www.v2ex.com/t/682181",
         "date": "2020-06-16"
@@ -27557,6 +27582,11 @@
     "title": "技术头条",
     "link": "http://blogread.cn/news/newest.php",
     "items": [
+      {
+        "title": "快应用 IDE 定制 Devtools 元素面板系列一：背景需求及方案分析 (quickapp.vivo.com.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-06-16"
+      },
       {
         "title": "记录一次Flink作业异常的排查过程 (club.perfma.com)",
         "link": "https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",

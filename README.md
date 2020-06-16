@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 22:00:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 22:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,9 +50,9 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1011,10 +1011,10 @@
 </summary>
 
 
-- [2020-06-15-给男生的建议：看懂这篇再谈恋爱](https://www.ershicimi.com/p/ea8bc6d6dad8933bd41af3d74d3f63c5) ![](assets/new.png)  
-- [2020-06-15-面对能把人「逼疯」的冷暴力，我们该怎么办？](https://www.ershicimi.com/p/3459082bdbdd0dc625b871a5d784a7a8) ![](assets/new.png)  
-- [2020-06-15-坚持做这件事，会让你有巨大变化](https://www.ershicimi.com/p/8bedb84ee89291bc205201e1780bf947) ![](assets/new.png)  
-- [2020-06-15-知乎故事-|-女朋友便秘了怎么办？](https://www.ershicimi.com/p/514937fe28704a22eb80ea947c369414) ![](assets/new.png)  
+- [2020-06-15-给男生的建议：看懂这篇再谈恋爱](https://www.ershicimi.com/p/ea8bc6d6dad8933bd41af3d74d3f63c5)  
+- [2020-06-15-面对能把人「逼疯」的冷暴力，我们该怎么办？](https://www.ershicimi.com/p/3459082bdbdd0dc625b871a5d784a7a8)  
+- [2020-06-15-坚持做这件事，会让你有巨大变化](https://www.ershicimi.com/p/8bedb84ee89291bc205201e1780bf947)  
+- [2020-06-15-知乎故事-|-女朋友便秘了怎么办？](https://www.ershicimi.com/p/514937fe28704a22eb80ea947c369414)  
 - [2020-06-14-本周知乎热榜-|-「浪姐」开播了，杰伦发歌了，微信号能改了](https://www.ershicimi.com/p/dbafc339ed03f2dde94e173015aed86d)  
 - [2020-06-14-为什么电影里的反派都不用-iPhone？](https://www.ershicimi.com/p/1fc552de05fc01b0a9ade1cd4f7b7b1b)  
 - [2020-06-14-知乎故事-|-原来女孩子真的会遇到很多危险](https://www.ershicimi.com/p/0a7960bf87dc54a365b6e944369c7a44)  
@@ -1042,26 +1042,26 @@
 </summary>
 
 
-- [2020-06-16-kubectl-基本命令](https://www.v2ex.com/t/682181) ![](assets/new.png)  
-- [2020-06-16-iOS-可以修改微信-ID-了](https://www.v2ex.com/t/682180) ![](assets/new.png)  
-- [2020-06-16-拉萨能科学上网吗？](https://www.v2ex.com/t/682179) ![](assets/new.png)  
-- [2020-06-16-校招提前批-字节跳动教育业务招人啦~](https://www.v2ex.com/t/682178) ![](assets/new.png)  
-- [2020-06-16-装修自己做超六类网线水晶头（都是日线的），买什么网线钳好用？](https://www.v2ex.com/t/682177) ![](assets/new.png)  
-- [2020-06-16-数据中心可视化方案提供商推荐！](https://www.v2ex.com/t/682176) ![](assets/new.png)  
-- [2020-06-16-应用启动连接问题](https://www.v2ex.com/t/682174) ![](assets/new.png)  
-- [2020-06-16-部门直推-2021-届的同学，头条提前批招聘开始啦！](https://www.v2ex.com/t/682171) ![](assets/new.png)  
-- [2020-06-16-我打算做一个全平台的iOS,-Android,-macOS,-WIndows,-Linux-的自动备份设备，有人有兴趣购买吗？](https://www.v2ex.com/t/682169) ![](assets/new.png)  
-- [2020-06-16-投某二线厂，内推简历被总监拒，理由是超过-30-岁了。](https://www.v2ex.com/t/682167) ![](assets/new.png)  
-- [2020-06-16-最近在写-Web-版的像素风婚礼请帖，请教一个关于遮挡处理的问题。](https://www.v2ex.com/t/682166) ![](assets/new.png)  
-- [2020-06-16-远程面试](https://www.v2ex.com/t/682164) ![](assets/new.png)  
-- [2020-06-16-想用-utm-ios-下的-qemu-虚拟机](https://www.v2ex.com/t/682162) ![](assets/new.png)  
-- [2020-06-16-618-国内服务器家里合适？](https://www.v2ex.com/t/682159) ![](assets/new.png)  
-- [2020-06-16-杭州阿里淘宝特价版技术团队组内直推~-P6-起，可能是最有诚意的招聘贴了，点进来看看有惊喜！](https://www.v2ex.com/t/682158) ![](assets/new.png)  
-- [2020-06-16-字节跳动-2021-秋招提前批正式开启，部门客户端专属岗-&&-研发岗内推码-DEAWNNT-](https://www.v2ex.com/t/682155) ![](assets/new.png)  
-- [2020-06-16-挂-bt-下东西，接受二手，求硬盘推荐](https://www.v2ex.com/t/682154) ![](assets/new.png)  
-- [2020-06-16-无线路由天线延长线](https://www.v2ex.com/t/682153) ![](assets/new.png)  
-- [2020-06-16-想做一个交互式-SQL-学习平台](https://www.v2ex.com/t/682152) ![](assets/new.png)  
-- [2020-06-16-字节跳动-2020-校招提前批，急速内推，帮优化简历，内推码-BMB4EKA](https://www.v2ex.com/t/682151) ![](assets/new.png)  
+- [2020-06-16-有没有一种通过-git-flow-判断公司或者团队靠谱程度的办法](https://www.v2ex.com/t/682186) ![](assets/new.png)  
+- [2020-06-16-ruby,一代优秀语言就这样陨落了吗？](https://www.v2ex.com/t/682185) ![](assets/new.png)  
+- [2020-06-16-社招-红帽-Quality-Engineering---Networking](https://www.v2ex.com/t/682184) ![](assets/new.png)  
+- [2020-06-16-上海-10+-年工作经验，求收留，关键字：从-startup-到-ipo，网站架构，-PHP-，小程序，增长黑客](https://www.v2ex.com/t/682183) ![](assets/new.png)  
+- [2020-06-16-求适合业余菜鸟的-c#教程](https://www.v2ex.com/t/682182) ![](assets/new.png)  
+- [2020-06-16-kubectl-基本命令](https://www.v2ex.com/t/682181)  
+- [2020-06-16-iOS-可以修改微信-ID-了](https://www.v2ex.com/t/682180)  
+- [2020-06-16-拉萨能科学上网吗？](https://www.v2ex.com/t/682179)  
+- [2020-06-16-校招提前批-字节跳动教育业务招人啦~](https://www.v2ex.com/t/682178)  
+- [2020-06-16-装修自己做超六类网线水晶头（都是日线的），买什么网线钳好用？](https://www.v2ex.com/t/682177)  
+- [2020-06-16-数据中心可视化方案提供商推荐！](https://www.v2ex.com/t/682176)  
+- [2020-06-16-应用启动连接问题](https://www.v2ex.com/t/682174)  
+- [2020-06-16-部门直推-2021-届的同学，头条提前批招聘开始啦！](https://www.v2ex.com/t/682171)  
+- [2020-06-16-我打算做一个全平台的iOS,-Android,-macOS,-WIndows,-Linux-的自动备份设备，有人有兴趣购买吗？](https://www.v2ex.com/t/682169)  
+- [2020-06-16-投某二线厂，内推简历被总监拒，理由是超过-30-岁了。](https://www.v2ex.com/t/682167)  
+- [2020-06-16-最近在写-Web-版的像素风婚礼请帖，请教一个关于遮挡处理的问题。](https://www.v2ex.com/t/682166)  
+- [2020-06-16-远程面试](https://www.v2ex.com/t/682164)  
+- [2020-06-16-想用-utm-ios-下的-qemu-虚拟机](https://www.v2ex.com/t/682162)  
+- [2020-06-16-618-国内服务器家里合适？](https://www.v2ex.com/t/682159)  
+- [2020-06-16-杭州阿里淘宝特价版技术团队组内直推~-P6-起，可能是最有诚意的招聘贴了，点进来看看有惊喜！](https://www.v2ex.com/t/682158)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1073,6 +1073,7 @@
 </summary>
 
 
+- [2020-06-16-快应用-IDE-定制-Devtools-元素面板系列一：背景需求及方案分析-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1092,7 +1093,6 @@
 - [2020-06-09-每个程序员都必须知道的8种通用数据结构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13505&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDSQjHoK7xWmmXLk_mGg-zQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-05-DevOps实施的五个关键点-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13502&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fimplement-devops%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

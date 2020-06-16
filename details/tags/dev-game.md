@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -30,6 +30,7 @@
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-06-07-以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438) 
 - [2020-06-07-ThreeJS-——-机房Demo（二）](https://juejin.im/post/5edbab70f265da76f9171d62) 
+- [2020-06-16-关于自己开发游戏的公网服务器的一些问题](https://www.v2ex.com/t/682150) 
 - [2020-06-16-我用-Cocos-Creator-做的劣质-2D-第三人称射击游戏](https://www.v2ex.com/t/682037) 
 - [2020-06-16-适合玩-fps-游戏的无线机械键盘，求推荐](https://www.v2ex.com/t/681955) 
 - [2020-06-14-5-8k-的笔记本如何选择，应该不做图，不打游戏，女生用的-，现在买内存是否要上-16G](https://www.v2ex.com/t/681518) 

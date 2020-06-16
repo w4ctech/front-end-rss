@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -826,6 +826,15 @@
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [【InfoQ】2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9) 
+- [【InfoQ】2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb) 
+- [【InfoQ】2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054) 
+- [【InfoQ】2020-06-16-编写-React-组件时常见的-5-个错误](https://www.ershicimi.com/p/2e289ee9eb0160dc22ceccf7d7445508) 
+- [【InfoQ】2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) 
+- [【InfoQ】2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657) 
+- [【InfoQ】2020-06-15-都说大数据和-AI-要结合，那系统架构该怎么搭？|-ArchSummit](https://www.ershicimi.com/p/dbe07ebe256761e3628f73bec3d2d6a7) 
+- [【InfoQ】2020-06-15-超高并发常态化，系统如何才能挺住不“崩”？这场“实践课”带你解锁答案-|-Q推荐](https://www.ershicimi.com/p/c94d80410d33e74f946485f768f336e8) 
+- [【InfoQ】2020-06-15-人力节省50%，研发效能提升40%，阿里Serverless架构落地实践](https://www.ershicimi.com/p/edf269b408f44fb1656511dc139d04e8) 
 - [【InfoQ】2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) 
 - [【InfoQ】2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
 - [【InfoQ】2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) 

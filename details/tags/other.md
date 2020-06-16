@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1459,6 +1459,12 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb) 
+- [2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054) 
+- [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) 
+- [2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657) 
+- [2020-06-15-都说大数据和-AI-要结合，那系统架构该怎么搭？|-ArchSummit](https://www.ershicimi.com/p/dbe07ebe256761e3628f73bec3d2d6a7) 
+- [2020-06-15-超高并发常态化，系统如何才能挺住不“崩”？这场“实践课”带你解锁答案-|-Q推荐](https://www.ershicimi.com/p/c94d80410d33e74f946485f768f336e8) 
 - [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) 
 - [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) 
 - [2020-06-14-低门槛+高效率，Python助力CUDA轻松实践-|-Q推荐](https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8) 

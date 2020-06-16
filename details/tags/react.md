@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -34,6 +34,7 @@
 - [2020-05-20-从0实现React-系列二：组件更新](https://www.ershicimi.com/p/a47d5386f3cdb5e7832aa51f4f281dd0) 
 - [2020-05-19-10个案例让你彻底理解React-hooks的渲染逻辑](https://www.ershicimi.com/p/55b6f54cd6302e3340a7b628c971e566) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
+- [2020-06-16-编写-React-组件时常见的-5-个错误](https://www.ershicimi.com/p/2e289ee9eb0160dc22ceccf7d7445508) 
 - [2020-06-01-从-React-迁移到-TypeScript：忍受了-15-年的-JavaScript-错误从此走远](https://www.ershicimi.com/p/3eefb1f42a0200fcd18612cbef06d9d1) 
 - [2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
 - [2020-06-14-15-个很有用的自定义-React-Hooks](https://juejin.im/post/5ee4c33ae51d4578762017c7) 

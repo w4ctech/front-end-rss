@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 20:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 21:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,9 +44,9 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -855,6 +855,15 @@
 </summary>
 
 
+- [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9) ![](assets/new.png)  
+- [2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb) ![](assets/new.png)  
+- [2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054) ![](assets/new.png)  
+- [2020-06-16-编写-React-组件时常见的-5-个错误](https://www.ershicimi.com/p/2e289ee9eb0160dc22ceccf7d7445508) ![](assets/new.png)  
+- [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) ![](assets/new.png)  
+- [2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657) ![](assets/new.png)  
+- [2020-06-15-都说大数据和-AI-要结合，那系统架构该怎么搭？|-ArchSummit](https://www.ershicimi.com/p/dbe07ebe256761e3628f73bec3d2d6a7) ![](assets/new.png)  
+- [2020-06-15-超高并发常态化，系统如何才能挺住不“崩”？这场“实践课”带你解锁答案-|-Q推荐](https://www.ershicimi.com/p/c94d80410d33e74f946485f768f336e8) ![](assets/new.png)  
+- [2020-06-15-人力节省50%，研发效能提升40%，阿里Serverless架构落地实践](https://www.ershicimi.com/p/edf269b408f44fb1656511dc139d04e8) ![](assets/new.png)  
 - [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530)  
 - [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)  
 - [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e)  
@@ -866,15 +875,6 @@
 - [2020-06-13-阿里云蒋江伟：我们致力于为世界提供70%的算力](https://www.ershicimi.com/p/8cc804c43041a04ec0bf80dc5c087536)  
 - [2020-06-13-研究了-50-篇论文后，他发现-AI-领域的某些进步其实就是炒作](https://www.ershicimi.com/p/18b2e4cde4fd105dff22f6d4cbf9fabb)  
 - [2020-06-12-阿里、字节跳动们“搭台”，罗永浩、董明珠们“唱戏”](https://www.ershicimi.com/p/1e3fbd10ea2164a5b9c79a74de26e6c9)  
-- [2020-06-12-TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d)  
-- [2020-06-12-用创新改变世界，华为昇腾重新定义AI开发体验-|-Q推荐](https://www.ershicimi.com/p/045128284238d5c0c12b960efa049610)  
-- [2020-06-12-怎样优化一个-Go-服务以减少-40%-的-CPU-使用率？](https://www.ershicimi.com/p/de92b8c9d8bd0a218af67081e9520b14)  
-- [2020-06-11-字节跳动禁止中国员工访问海外产品代码库，“内外有别”保平安？](https://www.ershicimi.com/p/b491ec2822cfd26416cd83e7a6ef3146)  
-- [2020-06-11-清凉一夏，AirPods/雷蛇鼠标免费派送中！|-InfoQ-感恩回馈](https://www.ershicimi.com/p/2ae99ef4deb51e80d0910e5ca4603ad7)  
-- [2020-06-11-3年经验程序员，成长速度如何超越-80%-的同龄人？](https://www.ershicimi.com/p/2773a58c25e4bce2a9f57becee0026e5)  
-- [2020-06-11-2020年-DevOps-领域值得推荐的工具](https://www.ershicimi.com/p/f8a2fdbb0d5783f7cd951c8b1bd9d360)  
-- [2020-06-11-为什么你的服务会变慢？](https://www.ershicimi.com/p/9d3351e6ce96abbc57c404de1364abc2)  
-- [2020-06-10-见证历史：“blacklist”等表述将逐渐从源代码中消失！](https://www.ershicimi.com/p/d7898c35c7d130da56c080ff6d92f5fd)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -917,8 +917,8 @@
 </summary>
 
 
-- [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663) ![](assets/new.png)  
-- [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38) ![](assets/new.png)  
+- [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663)  
+- [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38)  
 - [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d)  
 - [2020-06-16-第十一届前端早早聊大会-|-前端女生职业发展专场](https://www.huodongxing.com/go/tl11)  
 - [2020-06-16-如何使用css3实现一个类在线直播的队列动画](https://juejin.im/post/5ee843ac5188251ecc7de968)  

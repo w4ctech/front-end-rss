@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1278,6 +1278,7 @@
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16) 
 - [2020-05-20-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/38c66d93c7202b5e4e26a0df6a992ffd) 
 - [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10) 
+- [2020-06-15-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6ce16588882ea7d88e8c985873855d9e) 
 - [2020-06-09-前端代码规范最佳实践](https://www.ershicimi.com/p/e60d337a1d0554a5c2ad657738467f5b) 
 - [2020-06-06-推荐一个从国企到阿里，单项目20000+star的大佬](https://www.ershicimi.com/p/2be4fbd58d7fc017d08a16d2d01eb087) 
 - [2020-06-05-编程到底难在哪里？来自Google大佬的解答](https://www.ershicimi.com/p/63b877e7d03c861e890b3e396b9988fa) 

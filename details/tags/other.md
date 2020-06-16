@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1) 
 - [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619) 
 - [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1) 
 - [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1) 

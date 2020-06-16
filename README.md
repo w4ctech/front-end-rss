@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1) ![](assets/new.png)  
 - [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619)  
 - [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1)  
 - [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1)  
 - [2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml)  
 - [2020-06-16-也门新增116例新冠肺炎确诊病例-疫情恶化加速-病死率高达四分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1)  
-- [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1)  
-- [2020-06-16-云南已检测海鲜产品新冠肺炎核酸样本4643份全部为阴性](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU159224453539168002)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -774,7 +774,7 @@
 </summary>
 
 
-- [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740) ![](assets/new.png)  
+- [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740)  
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6)  
 - [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8)  
 - [2020-06-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/aebf19567f4905c6d6c060eed20bc66e)  

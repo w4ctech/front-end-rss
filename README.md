@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 22:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 23:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -648,6 +648,7 @@
 </summary>
 
 
+- [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) ![](assets/new.png)  
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
@@ -1042,11 +1043,11 @@
 </summary>
 
 
-- [2020-06-16-有没有一种通过-git-flow-判断公司或者团队靠谱程度的办法](https://www.v2ex.com/t/682186) ![](assets/new.png)  
-- [2020-06-16-ruby,一代优秀语言就这样陨落了吗？](https://www.v2ex.com/t/682185) ![](assets/new.png)  
-- [2020-06-16-社招-红帽-Quality-Engineering---Networking](https://www.v2ex.com/t/682184) ![](assets/new.png)  
-- [2020-06-16-上海-10+-年工作经验，求收留，关键字：从-startup-到-ipo，网站架构，-PHP-，小程序，增长黑客](https://www.v2ex.com/t/682183) ![](assets/new.png)  
-- [2020-06-16-求适合业余菜鸟的-c#教程](https://www.v2ex.com/t/682182) ![](assets/new.png)  
+- [2020-06-16-有没有一种通过-git-flow-判断公司或者团队靠谱程度的办法](https://www.v2ex.com/t/682186)  
+- [2020-06-16-ruby,一代优秀语言就这样陨落了吗？](https://www.v2ex.com/t/682185)  
+- [2020-06-16-社招-红帽-Quality-Engineering---Networking](https://www.v2ex.com/t/682184)  
+- [2020-06-16-上海-10+-年工作经验，求收留，关键字：从-startup-到-ipo，网站架构，-PHP-，小程序，增长黑客](https://www.v2ex.com/t/682183)  
+- [2020-06-16-求适合业余菜鸟的-c#教程](https://www.v2ex.com/t/682182)  
 - [2020-06-16-kubectl-基本命令](https://www.v2ex.com/t/682181)  
 - [2020-06-16-iOS-可以修改微信-ID-了](https://www.v2ex.com/t/682180)  
 - [2020-06-16-拉萨能科学上网吗？](https://www.v2ex.com/t/682179)  
@@ -1073,7 +1074,7 @@
 </summary>
 
 
-- [2020-06-16-快应用-IDE-定制-Devtools-元素面板系列一：背景需求及方案分析-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-16-快应用-IDE-定制-Devtools-元素面板系列一：背景需求及方案分析-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

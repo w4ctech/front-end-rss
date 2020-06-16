@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 12:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 14:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -28,8 +28,8 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212) ![](assets/new.png)  
-- [2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212)  
+- [2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1)  
 - [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1)  
 - [2020-06-16-武汉市无症状感染者及其密切接触者“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiooLUuWbdvMXZ0hZCqFJl200616&isfromapp=1)  
 - [2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370)  
@@ -146,8 +146,8 @@
 </summary>
 
 
-- [2020-06-16-Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596) ![](assets/new.png)  
-- [2020-06-16-Javascript开发人员偏爱Deno而不是Node的5大原因](https://www.ershicimi.com/p/982a6c58c70ca4fa748ff23d05ecdd3e) ![](assets/new.png)  
+- [2020-06-16-Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596)  
+- [2020-06-16-Javascript开发人员偏爱Deno而不是Node的5大原因](https://www.ershicimi.com/p/982a6c58c70ca4fa748ff23d05ecdd3e)  
 - [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe)  
 - [2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a)  
 - [2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184)  
@@ -406,6 +406,10 @@
 </summary>
 
 
+- [2020-06-15-谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！](https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf) ![](assets/new.png)  
+- [2020-06-15-让你的代码讲出它的故事](https://www.ershicimi.com/p/8bdc0d5bea80b19e5c50dfabd200b864) ![](assets/new.png)  
+- [2020-06-15-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客大学](https://www.ershicimi.com/p/531efbfd8443cf0789db4ed910985deb) ![](assets/new.png)  
+- [2020-06-14-前端周报：字节跳动禁止中国员工访问海外代码库；新Mac或使用苹果自研芯片；微软公布Windows-T](https://www.ershicimi.com/p/99813d92a7934b88031a1a9c17f5f19c) ![](assets/new.png)  
 - [2020-06-12-Vue-3.0-KO-Vue-2.0-|-课程推荐](https://www.ershicimi.com/p/f6c9781f7a050ee48a252fea487db11e)  
 - [2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5)  
 - [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5)  
@@ -422,10 +426,6 @@
 - [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145)  
 - [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677)  
 - [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be)  
-- [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a)  
-- [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838)  
-- [2020-06-03-跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7)  
-- [2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -437,6 +437,7 @@
 </summary>
 
 
+- [2020-06-16-【送书福利】Electron实战：前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/043930ae43fefcced4438f39af0fa894) ![](assets/new.png)  
 - [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/410a65b124235c19d642d3b534493f80)  
 - [2020-06-15-企业级前端研发框架的演进与实践](https://www.ershicimi.com/p/082da3691534c82c386f49cd93ad9c19)  
 - [2020-06-14-工欲善其事，必先利其器。如何玩转-VS-Code？](https://www.ershicimi.com/p/e717034f7c491769ad7044a52159e77c)  
@@ -456,7 +457,6 @@
 - [2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14)  
 - [2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d)  
 - [2020-05-31-redux原理解析，看这篇就够了](https://www.ershicimi.com/p/58f9295e2d55a5ece604c552e37fe058)  
-- [2020-05-30-IT互联网这么火，为什么还有计算机专业毕业生找不到工作？](https://www.ershicimi.com/p/a5f5bc7bfe22c66e4afda0aebef03f7a)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -13,6 +13,7 @@
 - [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
 - [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) 
 - [2020-05-25-Node.js要完了吗？](https://www.ershicimi.com/p/4aeedcd0cad8da8fd99b6366977efc9e) 
+- [2020-06-16-【送书福利】Electron实战：前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/043930ae43fefcced4438f39af0fa894) 
 - [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113) 
 - [2020-05-29-《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b) 
 - [2020-06-15-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/52fd6043aeb637bc24a2d148a621bec8) 

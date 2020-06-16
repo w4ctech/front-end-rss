@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -598,6 +598,10 @@
 - [【前端大学】2020-06-02-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/a5e6b382a7fa7f2f22d28f089c9b4684) 
 - [【前端大学】2020-06-01-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/fe4a0b5880e338a00154330a390e3e83) 
 - [【前端大学】2020-06-01-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/5113f0a8146cc21ae3a7d8a63f58415e) 
+- [【前端之巅】2020-06-15-谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！](https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf) 
+- [【前端之巅】2020-06-15-让你的代码讲出它的故事](https://www.ershicimi.com/p/8bdc0d5bea80b19e5c50dfabd200b864) 
+- [【前端之巅】2020-06-15-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客大学](https://www.ershicimi.com/p/531efbfd8443cf0789db4ed910985deb) 
+- [【前端之巅】2020-06-14-前端周报：字节跳动禁止中国员工访问海外代码库；新Mac或使用苹果自研芯片；微软公布Windows-T](https://www.ershicimi.com/p/99813d92a7934b88031a1a9c17f5f19c) 
 - [【前端之巅】2020-06-12-Vue-3.0-KO-Vue-2.0-|-课程推荐](https://www.ershicimi.com/p/f6c9781f7a050ee48a252fea487db11e) 
 - [【前端之巅】2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5) 
 - [【前端之巅】2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5) 
@@ -622,6 +626,7 @@
 - [【前端之巅】2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
 - [【前端之巅】2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) 
 - [【前端之巅】2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516) 
+- [【前端迷】2020-06-16-【送书福利】Electron实战：前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/043930ae43fefcced4438f39af0fa894) 
 - [【前端迷】2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/410a65b124235c19d642d3b534493f80) 
 - [【前端迷】2020-06-15-企业级前端研发框架的演进与实践](https://www.ershicimi.com/p/082da3691534c82c386f49cd93ad9c19) 
 - [【前端迷】2020-06-14-工欲善其事，必先利其器。如何玩转-VS-Code？](https://www.ershicimi.com/p/e717034f7c491769ad7044a52159e77c) 

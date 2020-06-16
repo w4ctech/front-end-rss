@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-17 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -3285,6 +3285,11 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-17-如何看待年仅-28-岁的郭宇宣布从字节跳动退休？](https://toutiao.io/k/b7ln1d5) 
+- [【开发者头条】2020-06-17-字节跳动分布式表格存储系统的演进](https://toutiao.io/k/gewhhkm) 
+- [【开发者头条】2020-06-17-人工智能美学指南-v2.0：美学技术、通用美学语言](https://toutiao.io/k/z8xtuu1) 
+- [【开发者头条】2020-06-17-ES-能为你解决什么问题，又会带来什么问题？](https://toutiao.io/k/q9oyysx) 
+- [【开发者头条】2020-06-17-Spring-Cloud-Alibaba（七）：Spring-Cloud-Alibaba-Sentinel-使用-nacos-管理配置](https://toutiao.io/k/pbtwkb4) 
 - [【开发者头条】2020-06-16-今天面试问到一个-Elasticsearch-问题，给我问懵逼了......](https://toutiao.io/k/01iu0jk) 
 - [【开发者头条】2020-06-16-iOS-开源二进制使用插件使用教程](https://toutiao.io/k/2hq2h59) 
 - [【开发者头条】2020-06-16-了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo) 

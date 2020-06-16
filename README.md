@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 23:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 00:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -648,7 +648,7 @@
 </summary>
 
 
-- [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) ![](assets/new.png)  
+- [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)  
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
@@ -1105,6 +1105,11 @@
 </summary>
 
 
+- [2020-06-17-如何看待年仅-28-岁的郭宇宣布从字节跳动退休？](https://toutiao.io/k/b7ln1d5) ![](assets/new.png)  
+- [2020-06-17-字节跳动分布式表格存储系统的演进](https://toutiao.io/k/gewhhkm) ![](assets/new.png)  
+- [2020-06-17-人工智能美学指南-v2.0：美学技术、通用美学语言](https://toutiao.io/k/z8xtuu1) ![](assets/new.png)  
+- [2020-06-17-ES-能为你解决什么问题，又会带来什么问题？](https://toutiao.io/k/q9oyysx) ![](assets/new.png)  
+- [2020-06-17-Spring-Cloud-Alibaba（七）：Spring-Cloud-Alibaba-Sentinel-使用-nacos-管理配置](https://toutiao.io/k/pbtwkb4) ![](assets/new.png)  
 - [2020-06-16-今天面试问到一个-Elasticsearch-问题，给我问懵逼了......](https://toutiao.io/k/01iu0jk)  
 - [2020-06-16-iOS-开源二进制使用插件使用教程](https://toutiao.io/k/2hq2h59)  
 - [2020-06-16-了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo)  
@@ -1120,11 +1125,6 @@
 - [2020-06-16-C++-模板编程](https://toutiao.io/k/urkx9wp)  
 - [2020-06-16-谈谈-PHP-8-新特性-Attributes](https://toutiao.io/k/fmszl3s)  
 - [2020-06-16-Android-自定义滚动条](https://toutiao.io/k/6045hoe)  
-- [2020-06-16-译-RFC-1180：朴素-TCP/IP-教程-1991](https://toutiao.io/k/gsy4bcb)  
-- [2020-06-16-动手造轮子：实现一个简单的-AOP-框架](https://toutiao.io/k/pkqchwa)  
-- [2020-06-16-涂鸦智能-dubbo-go-亿级流量的实践与探索](https://toutiao.io/k/42h1bam)  
-- [2020-06-16-译-React-Native-的常见-bug（一）](https://toutiao.io/k/8bulx8v)  
-- [2020-06-16-无需额外注解的-Spring-Boot-API-文档生成工具](https://toutiao.io/k/ak13w9j)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

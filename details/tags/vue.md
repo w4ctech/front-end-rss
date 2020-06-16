@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -39,6 +39,7 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a) 
 - [2020-06-09-手写Vue源码-可能是你见过最完整的版本！](https://www.ershicimi.com/p/db18ce48e30cc1d9dc5890c67368270c) 
 - [2020-06-07-关于Vue3.0-看这一篇就够了！（内含源码福利）](https://www.ershicimi.com/p/1e7285d3934b2fc0aae06fe8f3fa6c3a) 
 - [2020-06-06-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/e37eb203ed9b9db2cf286e3c170de9c2) 

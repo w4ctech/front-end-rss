@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 09:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 10:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1) ![](assets/new.png)  
-- [2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml) ![](assets/new.png)  
+- [2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370) ![](assets/new.png)  
+- [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1)  
+- [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1)  
+- [2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml)  
 - [2020-06-16-也门新增116例新冠肺炎确诊病例-疫情恶化加速-病死率高达四分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1)  
 - [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1)  
 - [2020-06-16-云南已检测海鲜产品新冠肺炎核酸样本4643份全部为阴性](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU159224453539168002)  
@@ -113,7 +114,6 @@
 - [2020-06-15-伊朗新增2449例-新冠肺炎确诊病例-累计确诊189876例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiey9J7MFo7RNXlQH3XLc9200615&isfromapp=1)  
 - [2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1)  
 - [2020-06-15-巴基斯坦新增5278例新冠肺炎确诊病例-累计144478例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1)  
-- [2020-06-15-​印度新增11502例新冠肺炎确诊病例-累计332424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -354,6 +354,7 @@
 </summary>
 
 
+- [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a) ![](assets/new.png)  
 - [2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1)  
 - [2020-06-15-网站无障碍化简介](https://www.ershicimi.com/p/d1cb79c55a8d0dbea06672fef84bdb47)  
 - [2020-06-14-前端如何在项目中做出亮点](https://www.ershicimi.com/p/faba53963692c54fd3be64b9603da028)  
@@ -373,7 +374,6 @@
 - [2020-06-07-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/6d0cdc43a5a764089b9d945d9b681a9f)  
 - [2020-06-06-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/e37eb203ed9b9db2cf286e3c170de9c2)  
 - [2020-06-06-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/a0e3b921c9c561320ad9547eb7baa398)  
-- [2020-06-05-大厂必备、前端高薪指南！](https://www.ershicimi.com/p/4e386a5781da55e5f7a929753f9bf09f)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

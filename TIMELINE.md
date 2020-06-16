@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml) 
@@ -564,6 +565,7 @@
 - [【前端开发】2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8) 
 - [【前端开发】2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49) 
 - [【前端开发】2020-06-01-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b) 
+- [【前端大学】2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a) 
 - [【前端大学】2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1) 
 - [【前端大学】2020-06-15-网站无障碍化简介](https://www.ershicimi.com/p/d1cb79c55a8d0dbea06672fef84bdb47) 
 - [【前端大学】2020-06-14-前端如何在项目中做出亮点](https://www.ershicimi.com/p/faba53963692c54fd3be64b9603da028) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-16 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -128,6 +128,7 @@
 - [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [【V2EX】Typescript-香吗?](https://www.v2ex.com/t/679223)
+- [【开发者头条】了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo)
 - [【开发者头条】TypeScript-使用日志](https://toutiao.io/k/uuz5bsv)
 - [......【查看更多】......](./details/tags/typescript.md)
 

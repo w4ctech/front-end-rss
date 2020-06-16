@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -3763,6 +3763,20 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-16-iOS-开源二进制使用插件使用教程](https://toutiao.io/k/2hq2h59) 
+- [2020-06-16-Go-之如何操作结构体的非导出字段](https://toutiao.io/k/9z1o4ce) 
+- [2020-06-16-数据异构重器之-Canal-初探](https://toutiao.io/k/pppl7hb) 
+- [2020-06-16-浅谈数仓（四）：数仓元数据管理和上下游约定](https://toutiao.io/k/6me3by4) 
+- [2020-06-16-聊一聊-RPC](https://toutiao.io/k/264vsc7) 
+- [2020-06-16-不能不用也不可乱用的标准化和归一化处理](https://toutiao.io/k/mrpxezy) 
+- [2020-06-16-B+树与数据库索引](https://toutiao.io/k/vilp73v) 
+- [2020-06-16-ICRA-2020-轨迹预测竞赛冠军的方法总结](https://toutiao.io/k/jrgpk93) 
+- [2020-06-16-C++-模板编程](https://toutiao.io/k/urkx9wp) 
+- [2020-06-16-谈谈-PHP-8-新特性-Attributes](https://toutiao.io/k/fmszl3s) 
+- [2020-06-16-译-RFC-1180：朴素-TCP/IP-教程-1991](https://toutiao.io/k/gsy4bcb) 
+- [2020-06-16-动手造轮子：实现一个简单的-AOP-框架](https://toutiao.io/k/pkqchwa) 
+- [2020-06-16-涂鸦智能-dubbo-go-亿级流量的实践与探索](https://toutiao.io/k/42h1bam) 
+- [2020-06-16-无需额外注解的-Spring-Boot-API-文档生成工具](https://toutiao.io/k/ak13w9j) 
 - [2020-06-15-低代码平台会是软件业的未来么？](https://toutiao.io/k/ol3xk2p) 
 - [2020-06-15-Mybatis-逆向工程使用姿势不对，把表清空了，心里慌的一比，于是写了个插件](https://toutiao.io/k/9fsqo1p) 
 - [2020-06-15-58同城宝实时数仓建设实践](https://toutiao.io/k/1zv8bx7) 

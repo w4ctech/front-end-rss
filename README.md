@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 10:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 11:00:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370) ![](assets/new.png)  
+- [2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370)  
 - [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1)  
 - [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1)  
 - [2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml)  
@@ -354,7 +354,7 @@
 </summary>
 
 
-- [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a) ![](assets/new.png)  
+- [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a)  
 - [2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1)  
 - [2020-06-15-网站无障碍化简介](https://www.ershicimi.com/p/d1cb79c55a8d0dbea06672fef84bdb47)  
 - [2020-06-14-前端如何在项目中做出亮点](https://www.ershicimi.com/p/faba53963692c54fd3be64b9603da028)  
@@ -1103,26 +1103,26 @@
 </summary>
 
 
-- [2020-06-15-低代码平台会是软件业的未来么？](https://toutiao.io/k/ol3xk2p)  
-- [2020-06-15-Mybatis-逆向工程使用姿势不对，把表清空了，心里慌的一比，于是写了个插件](https://toutiao.io/k/9fsqo1p)  
-- [2020-06-15-58同城宝实时数仓建设实践](https://toutiao.io/k/1zv8bx7)  
-- [2020-06-15-2020-年，你可能需要基于-Vue-的微服务架构实践，在服务端或客户端聚合子服务](https://toutiao.io/k/fc4iq2x)  
-- [2020-06-15-什么是中断机制？](https://toutiao.io/k/flcdfes)  
-- [2020-06-15-Blink-Worker-纸上谈兵](https://toutiao.io/k/nhnrur1)  
-- [2020-06-15-谷歌应用市场上架（开发者账户关联）相关问题汇总以及解决方案（二）](https://toutiao.io/k/1mag97v)  
-- [2020-06-15-以太坊一种可升级的可信存证智能合约设计与实现](https://toutiao.io/k/vw6nzl3)  
-- [2020-06-15-VSCode-Conventional-Commits-插件](https://toutiao.io/k/2s9tx59)  
-- [2020-06-15-Web-测试：为什么我选了-cypress，而不是-headless](https://toutiao.io/k/55kky9t)  
-- [2020-06-15-如何做一次完美的-ABTest？](https://toutiao.io/k/g8azqml)  
-- [2020-06-15-Nginx-“线程池模式”-探讨，据说性能提高了-9-倍](https://toutiao.io/k/gkgjxub)  
-- [2020-06-15-我是怎么读源代码的](https://toutiao.io/k/pl1l6p1)  
-- [2020-06-15-OAuth2-图解](https://toutiao.io/k/zbvhy3v)  
-- [2020-06-15-22-款设计和可视化神经网络的工具](https://toutiao.io/k/1i2yd4c)  
-- [2020-06-15-一文看懂静态资源服务沉浮及其在携程的演进](https://toutiao.io/k/oedotrb)  
-- [2020-06-15-Java-并发编程那些事儿（九）：内存模型](https://toutiao.io/k/ze1w0mt)  
-- [2020-06-15-Prometheus-监控-Docker-Swarm-集群（一）](https://toutiao.io/k/gq3o3mv)  
-- [2020-06-15-用-Explain-命令分析-MySQL-的-SQL-执行](https://toutiao.io/k/sqm9bb0)  
-- [2020-06-15-TypeScript-使用日志](https://toutiao.io/k/uuz5bsv)  
+- [2020-06-16-今天面试问到一个-Elasticsearch-问题，给我问懵逼了......](https://toutiao.io/k/01iu0jk) ![](assets/new.png)  
+- [2020-06-16-iOS-开源二进制使用插件使用教程](https://toutiao.io/k/2hq2h59) ![](assets/new.png)  
+- [2020-06-16-了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo) ![](assets/new.png)  
+- [2020-06-16-Go-之如何操作结构体的非导出字段](https://toutiao.io/k/9z1o4ce) ![](assets/new.png)  
+- [2020-06-16-数据异构重器之-Canal-初探](https://toutiao.io/k/pppl7hb) ![](assets/new.png)  
+- [2020-06-16-浅谈数仓（四）：数仓元数据管理和上下游约定](https://toutiao.io/k/6me3by4) ![](assets/new.png)  
+- [2020-06-16-聊一聊-RPC](https://toutiao.io/k/264vsc7) ![](assets/new.png)  
+- [2020-06-16-50-道-Java-集合经典面试题（收藏版）](https://toutiao.io/k/uzrbnoe) ![](assets/new.png)  
+- [2020-06-16-不能不用也不可乱用的标准化和归一化处理](https://toutiao.io/k/mrpxezy) ![](assets/new.png)  
+- [2020-06-16-B+树与数据库索引](https://toutiao.io/k/vilp73v) ![](assets/new.png)  
+- [2020-06-16-ICRA-2020-轨迹预测竞赛冠军的方法总结](https://toutiao.io/k/jrgpk93) ![](assets/new.png)  
+- [2020-06-16-不容错过的-Chrome-插件推荐合集（开发者必备篇）](https://toutiao.io/k/76hs65u) ![](assets/new.png)  
+- [2020-06-16-C++-模板编程](https://toutiao.io/k/urkx9wp) ![](assets/new.png)  
+- [2020-06-16-谈谈-PHP-8-新特性-Attributes](https://toutiao.io/k/fmszl3s) ![](assets/new.png)  
+- [2020-06-16-Android-自定义滚动条](https://toutiao.io/k/6045hoe) ![](assets/new.png)  
+- [2020-06-16-译-RFC-1180：朴素-TCP/IP-教程-1991](https://toutiao.io/k/gsy4bcb) ![](assets/new.png)  
+- [2020-06-16-动手造轮子：实现一个简单的-AOP-框架](https://toutiao.io/k/pkqchwa) ![](assets/new.png)  
+- [2020-06-16-涂鸦智能-dubbo-go-亿级流量的实践与探索](https://toutiao.io/k/42h1bam) ![](assets/new.png)  
+- [2020-06-16-译-React-Native-的常见-bug（一）](https://toutiao.io/k/8bulx8v) ![](assets/new.png)  
+- [2020-06-16-无需额外注解的-Spring-Boot-API-文档生成工具](https://toutiao.io/k/ak13w9j) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

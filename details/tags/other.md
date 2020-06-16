@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212) 
+- [2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1) 
 - [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1) 
 - [2020-06-16-武汉市无症状感染者及其密切接触者“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiooLUuWbdvMXZ0hZCqFJl200616&isfromapp=1) 
 - [2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370) 

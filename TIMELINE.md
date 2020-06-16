@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-武汉市无症状感染者及其密切接触者“清零”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiooLUuWbdvMXZ0hZCqFJl200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-世卫组织不认为北京疫情失去控制](https://m.weibo.cn/3057540037/4516366743136370) 
@@ -465,6 +467,8 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-南非6月1日起实行全国3级防控，并加大力度从中国采购物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-北京40多万名学生今天返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-01-美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1) 
+- [【Vue中文社区】2020-06-16-Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596) 
+- [【Vue中文社区】2020-06-16-Javascript开发人员偏爱Deno而不是Node的5大原因](https://www.ershicimi.com/p/982a6c58c70ca4fa748ff23d05ecdd3e) 
 - [【Vue中文社区】2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) 
 - [【Vue中文社区】2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a) 
 - [【Vue中文社区】2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184) 

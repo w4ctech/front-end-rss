@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -78,6 +78,7 @@
 - [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727) 
 - [2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
+- [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d) 
 - [2020-06-15-vue实现公告栏文字上下滚动效果](https://juejin.im/post/5ee723986fb9a047942f3fd4) 
 - [2020-06-15-Vue-函数式组件的使用技巧](https://juejin.im/post/5ee72d0e5188251e8115f549) 
 - [2020-06-15-小白前端之路:手写一个简单的vue-router](https://juejin.im/post/5ee58cfee51d455f9a637f4d) 

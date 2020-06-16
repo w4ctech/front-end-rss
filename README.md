@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 19:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 20:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1)  
 - [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
 - [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729)  
 - [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212)  
@@ -672,7 +672,7 @@
 </summary>
 
 
-- [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html) ![](assets/new.png)  
+- [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
 - [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
@@ -917,6 +917,8 @@
 </summary>
 
 
+- [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663) ![](assets/new.png)  
+- [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38) ![](assets/new.png)  
 - [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d)  
 - [2020-06-16-第十一届前端早早聊大会-|-前端女生职业发展专场](https://www.huodongxing.com/go/tl11)  
 - [2020-06-16-如何使用css3实现一个类在线直播的队列动画](https://juejin.im/post/5ee843ac5188251ecc7de968)  
@@ -935,8 +937,6 @@
 - [2020-06-14-三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108)  
 - [2020-06-14-vue源码阅读第三篇，渲染代码块生成](https://juejin.im/post/5ee64758f265da76cf6e6677)  
 - [2020-06-14-浏览器如何运行-JavaScript](https://juejin.im/post/5ee60ccdf265da76bc7613c7)  
-- [2020-06-14-小程序实战十三-抽离公共组件](https://juejin.im/post/5ee60596f265da76db2c34fd)  
-- [2020-06-14-JS基础一-畅游promise世界](https://juejin.im/post/5ee5f30bf265da76db2c34ed)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

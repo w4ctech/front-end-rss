@@ -12292,6 +12292,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "浏览器打印性能问题篇",
+        "link": "https://juejin.im/post/5ee85c085188251f40215663",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "小程序canvas绘制海报",
+        "link": "https://juejin.im/post/5ed791876fb9a047a2269e38",
+        "date": "2020-06-16"
+      },
+      {
         "title": "Vue实现数据的懒加载节流版",
         "link": "https://juejin.im/post/5ee88784f265da7714712a5d",
         "date": "2020-06-16"

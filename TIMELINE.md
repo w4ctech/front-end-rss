@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 19:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-16 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -891,6 +891,8 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663) 
+- [【掘金前端】2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38) 
 - [【掘金前端】2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d) 
 - [【掘金前端】2020-06-16-第十一届前端早早聊大会-|-前端女生职业发展专场](https://www.huodongxing.com/go/tl11) 
 - [【掘金前端】2020-06-16-如何使用css3实现一个类在线直播的队列动画](https://juejin.im/post/5ee843ac5188251ecc7de968) 

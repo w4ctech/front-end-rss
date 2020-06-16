@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -29,6 +29,7 @@
 - [2020-06-07-代码优化-5-大原则，第一条就是别优化了！！！](https://www.ershicimi.com/p/b065c4f7419f8997ae512c404ad47496) 
 - [2020-05-26-不会优化数据库，早晚被优化！](https://www.ershicimi.com/p/50e122f1f4054298472b84ca187246b6) 
 - [2020-06-12-怎样优化一个-Go-服务以减少-40%-的-CPU-使用率？](https://www.ershicimi.com/p/de92b8c9d8bd0a218af67081e9520b14) 
+- [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663) 
 - [2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-06-16-iPhone-打开“优化-iPhone-存储空间”，备份的时候还是原图备份嘛](https://www.v2ex.com/t/682054) 

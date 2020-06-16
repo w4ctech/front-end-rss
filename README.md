@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 07:30:20，:rocket: 更新条数: +44， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 08:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -63,26 +63,26 @@
 </summary>
 
 
-- [2020-06-15-北京全面提升社区防控：三级应急响应、二级防控措施、一级工作状态](http://china.caixin.com/2020-06-15/101567633.html) ![](assets/new.png)  
-- [2020-06-15-吴尊友：未来三天北京报告病例数决定疫情走向](http://china.caixin.com/2020-06-15/101567781.html) ![](assets/new.png)  
-- [2020-06-15-北京昨日测出核酸阳性59人-是否全市大筛查仍在论证](http://china.caixin.com/2020-06-15/101567404.html) ![](assets/new.png)  
-- [2020-06-15-中疾控已上报北京病例测序初步结论-认定欧洲直接输入尚早](http://china.caixin.com/2020-06-15/101567451.html) ![](assets/new.png)  
-- [2020-06-15-数字说|北京四天新增79例新冠均涉新发地，如何关联？（更新）](http://datanews.caixin.com/2020-06-15/101567255.html) ![](assets/new.png)  
-- [2020-06-15-吴尊友：北京这次疫情出乎意料，形势严峻但又比较乐观](http://china.caixin.com/2020-06-15/101567695.html) ![](assets/new.png)  
-- [2020-06-15-北京暂停开放文体娱乐等室内活动场所](http://www.caixin.com/2020-06-15/101567735.html) ![](assets/new.png)  
-- [2020-06-15-【图集】北京广安体育场：夜间核酸筛查持续进行中](http://photos.caixin.com/2020-06-15/101567456.html) ![](assets/new.png)  
-- [2020-06-15-NACA总干事黄倢：没必要对水产品谈虎色变](http://science.caixin.com/2020-06-15/101567434.html) ![](assets/new.png)  
-- [2020-06-15-河北公布3例确诊病例和1例无症状感染者行动轨迹](http://www.caixin.com/2020-06-15/101567447.html) ![](assets/new.png)  
-- [2020-06-15-【图集】受新发地疫情影响-北京部分海鲜市场生意冷淡](http://photos.caixin.com/2020-06-15/101567314.html) ![](assets/new.png)  
-- [2020-06-15-北京36例河北3例-6月14日新冠新增49例](http://china.caixin.com/2020-06-15/101567295.html) ![](assets/new.png)  
-- [2020-06-15-北京6月14日完成核酸检测76499人-59份阳性](http://china.caixin.com/2020-06-15/101567370.html) ![](assets/new.png)  
-- [2020-06-15-疫情防控失职失责-北京丰台区副区长等被免职](http://china.caixin.com/2020-06-15/101567267.html) ![](assets/new.png)  
-- [2020-06-15-张文宏解读北京疫情：精准防控将成为常态](http://china.caixin.com/2020-06-15/101567260.html) ![](assets/new.png)  
-- [2020-06-15-最新疫情：全国新冠累计确诊83181例-北京本土再增36例](http://china.caixin.com/2020-06-15/101567422.html) ![](assets/new.png)  
-- [2020-06-15-最新海外疫情：新冠感染者近780万-累计死亡近43万](http://international.caixin.com/2020-06-15/101567645.html) ![](assets/new.png)  
-- [2020-06-14-北京再确诊8人-拟筛查新发地周边4.6万居民（附患者列表）](http://china.caixin.com/2020-06-14/101567228.html) ![](assets/new.png)  
-- [2020-06-14-北京排查有新发地接触史居民-各区做法不一（附检测机构名录）](http://china.caixin.com/2020-06-14/101567250.html) ![](assets/new.png)  
-- [2020-06-14-农贸市场生鲜产品不检疫新冠病毒-是否启动仍需论证](http://china.caixin.com/2020-06-14/101567245.html) ![](assets/new.png)  
+- [2020-06-15-北京全面提升社区防控：三级应急响应、二级防控措施、一级工作状态](http://china.caixin.com/2020-06-15/101567633.html)  
+- [2020-06-15-吴尊友：未来三天北京报告病例数决定疫情走向](http://china.caixin.com/2020-06-15/101567781.html)  
+- [2020-06-15-北京昨日测出核酸阳性59人-是否全市大筛查仍在论证](http://china.caixin.com/2020-06-15/101567404.html)  
+- [2020-06-15-中疾控已上报北京病例测序初步结论-认定欧洲直接输入尚早](http://china.caixin.com/2020-06-15/101567451.html)  
+- [2020-06-15-数字说|北京四天新增79例新冠均涉新发地，如何关联？（更新）](http://datanews.caixin.com/2020-06-15/101567255.html)  
+- [2020-06-15-吴尊友：北京这次疫情出乎意料，形势严峻但又比较乐观](http://china.caixin.com/2020-06-15/101567695.html)  
+- [2020-06-15-北京暂停开放文体娱乐等室内活动场所](http://www.caixin.com/2020-06-15/101567735.html)  
+- [2020-06-15-【图集】北京广安体育场：夜间核酸筛查持续进行中](http://photos.caixin.com/2020-06-15/101567456.html)  
+- [2020-06-15-NACA总干事黄倢：没必要对水产品谈虎色变](http://science.caixin.com/2020-06-15/101567434.html)  
+- [2020-06-15-河北公布3例确诊病例和1例无症状感染者行动轨迹](http://www.caixin.com/2020-06-15/101567447.html)  
+- [2020-06-15-【图集】受新发地疫情影响-北京部分海鲜市场生意冷淡](http://photos.caixin.com/2020-06-15/101567314.html)  
+- [2020-06-15-北京36例河北3例-6月14日新冠新增49例](http://china.caixin.com/2020-06-15/101567295.html)  
+- [2020-06-15-北京6月14日完成核酸检测76499人-59份阳性](http://china.caixin.com/2020-06-15/101567370.html)  
+- [2020-06-15-疫情防控失职失责-北京丰台区副区长等被免职](http://china.caixin.com/2020-06-15/101567267.html)  
+- [2020-06-15-张文宏解读北京疫情：精准防控将成为常态](http://china.caixin.com/2020-06-15/101567260.html)  
+- [2020-06-15-最新疫情：全国新冠累计确诊83181例-北京本土再增36例](http://china.caixin.com/2020-06-15/101567422.html)  
+- [2020-06-15-最新海外疫情：新冠感染者近780万-累计死亡近43万](http://international.caixin.com/2020-06-15/101567645.html)  
+- [2020-06-14-北京再确诊8人-拟筛查新发地周边4.6万居民（附患者列表）](http://china.caixin.com/2020-06-14/101567228.html)  
+- [2020-06-14-北京排查有新发地接触史居民-各区做法不一（附检测机构名录）](http://china.caixin.com/2020-06-14/101567250.html)  
+- [2020-06-14-农贸市场生鲜产品不检疫新冠病毒-是否启动仍需论证](http://china.caixin.com/2020-06-14/101567245.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,7 +94,12 @@
 </summary>
 
 
-- [2020-06-15-吴尊友：未来三天是北京面对疫情关键期](https://m.weibo.cn/2656274875/4516204189049196) ![](assets/new.png)  
+- [2020-06-16-也门新增116例新冠肺炎确诊病例-疫情恶化加速-病死率高达四分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-云南已检测海鲜产品新冠肺炎核酸样本4643份全部为阴性](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU159224453539168002) ![](assets/new.png)  
+- [2020-06-16-世卫组织：将继续支持中国应对新冠肺炎疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiouDUqcXYl6N24wkgQbVs200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-疫情观察丨非洲地区确诊病例超24万-多国调整防疫措施加大检测力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWPGnXctDcKbeVwvtGgNL200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-15-吴尊友：未来三天是北京面对疫情关键期](https://m.weibo.cn/2656274875/4516204189049196)  
 - [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1)  
 - [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748)  
 - [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1)  
 - [2020-06-15-北京海淀玉泉东周边10个社区封闭管理-相关人员全部核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1)  
 - [2020-06-15-北京卫健委：14日共检测76499人，其中59份阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1)  
-- [2020-06-15-四川昨日新增境外输入确诊病例4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdYHdWzTUCIB8tVerqoK200615&isfromapp=1)  
-- [2020-06-15-北京14日新增36例新冠肺炎确诊病例，新增无症状感染者6例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYPF3DwnSEpgdMoQZ9nw200615&isfromapp=1)  
-- [2020-06-15-截至6月14日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml)  
-- [2020-06-15-北京海淀启动对玉泉东市场周边社区封闭管理-附近学校停课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1)  
-- [2020-06-14-疫情缓解-泰国计划推出“旅行泡泡”项目-入境旅客不必隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -741,6 +741,12 @@
 </summary>
 
 
+- [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834) ![](assets/new.png)  
+- [2020-06-15-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/b3140767e035fd7edf5747bda4a2e325) ![](assets/new.png)  
+- [2020-06-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa7190b24a6f8bc9ce5a94bd00a8996c) ![](assets/new.png)  
+- [2020-06-13-TypeScript-期中考试现在开始](https://www.ershicimi.com/p/0da437a4f1d1913c209d0895ce91c9ca) ![](assets/new.png)  
+- [2020-06-13-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/5d3266f78d3d732072b2e75bc46ee2e0) ![](assets/new.png)  
+- [2020-06-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/23ec3cf147268f737e7338ab3b3de8a4) ![](assets/new.png)  
 - [2020-06-10-狄洛尼三角剖分](https://www.ershicimi.com/p/35a51a8b2f48a771537b1653c4868518)  
 - [2020-06-10-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/fbaf071261c0e103a655f1defc6daca6)  
 - [2020-06-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/5068b73d624e6f48c740f53218e52206)  
@@ -755,12 +761,6 @@
 - [2020-06-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/924e3ee4ac9ce94b5cead299e8ac12ce)  
 - [2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3)  
 - [2020-06-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1f7fac02805dea9532a1ad33a5ec89e8)  
-- [2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58)  
-- [2020-06-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/714e50112a5c306fffe1ad3b14296399)  
-- [2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119)  
-- [2020-05-30-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/c25ed8437e6857fcd834baef439bc72b)  
-- [2020-05-29-奇舞周刊第-351-期：面向-Model-编程的前端架构设计](https://www.ershicimi.com/p/449035f2b0a36e75ba68b4f78e61d7da)  
-- [2020-05-27-前端需要懂的-APP-容器原理](https://www.ershicimi.com/p/c257809f303e1354f217347b0c4bf1b0)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

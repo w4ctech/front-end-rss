@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1) 
+- [2020-06-16-疫情观察丨非洲地区确诊病例超24万-多国调整防疫措施加大检测力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWPGnXctDcKbeVwvtGgNL200616&isfromapp=1) 
 - [2020-06-15-吴尊友：未来三天是北京面对疫情关键期](https://m.weibo.cn/2656274875/4516204189049196) 
 - [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1) 
 - [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748) 
@@ -1361,6 +1363,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-06-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa7190b24a6f8bc9ce5a94bd00a8996c) 
+- [2020-06-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/23ec3cf147268f737e7338ab3b3de8a4) 
 - [2020-06-10-狄洛尼三角剖分](https://www.ershicimi.com/p/35a51a8b2f48a771537b1653c4868518) 
 - [2020-06-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/5068b73d624e6f48c740f53218e52206) 
 - [2020-06-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ac07bb21ed29e0fb404116fbaf5b8570) 

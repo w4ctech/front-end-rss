@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-16 07:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -120,6 +120,8 @@
 - [【程序员成长指北】AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c)
 - [【Nodejs技术栈】TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2)
 - [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)
+- [【奇舞周刊】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834)
+- [【奇舞周刊】TypeScript-期中考试现在开始](https://www.ershicimi.com/p/0da437a4f1d1913c209d0895ce91c9ca)
 - [【InfoQ】TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d)
 - [【InfoQ】何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a)
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-16 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-16 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1) 
+- [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1) 
 - [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1) 
 - [2020-06-16-疫情观察丨非洲地区确诊病例超24万-多国调整防疫措施加大检测力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWPGnXctDcKbeVwvtGgNL200616&isfromapp=1) 
 - [2020-06-15-吴尊友：未来三天是北京面对疫情关键期](https://m.weibo.cn/2656274875/4516204189049196) 

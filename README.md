@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-16 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-16 09:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml) ![](assets/new.png)  
 - [2020-06-16-也门新增116例新冠肺炎确诊病例-疫情恶化加速-病死率高达四分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1)  
 - [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1)  
 - [2020-06-16-云南已检测海鲜产品新冠肺炎核酸样本4643份全部为阴性](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU159224453539168002)  
@@ -111,9 +114,6 @@
 - [2020-06-15-俄罗斯新增8246例新冠肺炎确诊病例-累计超53万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1)  
 - [2020-06-15-巴基斯坦新增5278例新冠肺炎确诊病例-累计144478例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1)  
 - [2020-06-15-​印度新增11502例新冠肺炎确诊病例-累计332424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1)  
-- [2020-06-15-香港迪士尼乐园将于18日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1)  
-- [2020-06-15-北京海淀玉泉东周边10个社区封闭管理-相关人员全部核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1)  
-- [2020-06-15-北京卫健委：14日共检测76499人，其中59份阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,9 +556,9 @@
 </summary>
 
 
-- [2020-06-15-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6ce16588882ea7d88e8c985873855d9e) ![](assets/new.png)  
-- [2020-06-15-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/52fd6043aeb637bc24a2d148a621bec8) ![](assets/new.png)  
-- [2020-06-14-那些不常见，但却非常实用的css属性整理不易](https://www.ershicimi.com/p/c6d3da6b655fdd0543b2878529e4ea68) ![](assets/new.png)  
+- [2020-06-15-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6ce16588882ea7d88e8c985873855d9e)  
+- [2020-06-15-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/52fd6043aeb637bc24a2d148a621bec8)  
+- [2020-06-14-那些不常见，但却非常实用的css属性整理不易](https://www.ershicimi.com/p/c6d3da6b655fdd0543b2878529e4ea68)  
 - [2020-06-13-推荐一位-github-项目-9K-star-的-BAT-前端大佬](https://www.ershicimi.com/p/fc6dc943bc97f89235897429e47fcc91)  
 - [2020-06-13-Chrome-运行时性能瓶颈分析](https://www.ershicimi.com/p/4d4543a511ce5dd1524e364705ff8e85)  
 - [2020-06-12-vue项目部署的最佳实践](https://www.ershicimi.com/p/020d13a4319c1f7a5cc972d8cd6e382a)  

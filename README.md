@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 00:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 00:30:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京市-18-家大型超市承诺主要蔬菜品种不涨价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1) ![](assets/new.png)  
+- [2020-06-16-北京公布新增-27-例确诊病例详情，均与新发地市场有关联。](https://m.weibo.cn/2656274875/4516563212298905) ![](assets/new.png)  
+- [2020-06-16-法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1) ![](assets/new.png)  
 - [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1)  
 - [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
 - [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729)  
@@ -109,11 +114,6 @@
 - [2020-06-16-世卫组织：呼吁各国关注流感等其他公共卫生问题](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6USBaoAFVQohY3XhFxH200616&isfromapp=1)  
 - [2020-06-16-云南已检测海鲜产品新冠肺炎核酸样本4643份全部为阴性](http://ynswsjkw.yn.gov.cn/wjwWebsite/web/doc/UU159224453539168002)  
 - [2020-06-16-世卫组织：将继续支持中国应对新冠肺炎疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiouDUqcXYl6N24wkgQbVs200616&isfromapp=1)  
-- [2020-06-16-疫情观察丨非洲地区确诊病例超24万-多国调整防疫措施加大检测力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWPGnXctDcKbeVwvtGgNL200616&isfromapp=1)  
-- [2020-06-15-吴尊友：未来三天是北京面对疫情关键期](https://m.weibo.cn/2656274875/4516204189049196)  
-- [2020-06-15-朝阳区所有社区采取二级防控措施，进入疫情防控战时状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1)  
-- [2020-06-15-四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例](https://m.weibo.cn/2803301701/4516204565894748)  
-- [2020-06-15-肯尼亚总统府4人感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -918,6 +918,10 @@
 </summary>
 
 
+- [2020-06-16-浏览器事件知多少——JS事件流与事件处理程序](https://juejin.im/post/5ee78ad96fb9a047d37123d2) ![](assets/new.png)  
+- [2020-06-16-了不起的-Webpack-HMR-学习指南（含源码分析）](https://juejin.im/post/5ee8e32a51882543485780d3) ![](assets/new.png)  
+- [2020-06-16-通过一个算法来简化你的-css](https://juejin.im/post/5ee8e785e51d457b3e77fb12) ![](assets/new.png)  
+- [2020-06-16-前端架构-101（五）：从-Flux-进化到-Model-View-Presenter](https://juejin.im/post/5ee8dbfc5188251fe83931c3) ![](assets/new.png)  
 - [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663)  
 - [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38)  
 - [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d)  
@@ -934,10 +938,6 @@
 - [2020-06-15-移动端适配总结（长文）](https://juejin.im/post/5ee5e5cd51882557525a8d69)  
 - [2020-06-15-前端23种设计模式之代理模式](https://juejin.im/post/5edf9800f265da76e609ede2)  
 - [2020-06-15-小白前端之路:手写一个简单的vue-router](https://juejin.im/post/5ee58cfee51d455f9a637f4d)  
-- [2020-06-15-小程序获取手机号——小程序入门与实战（15）](https://juejin.im/post/5ee6e23af265da76f44e5e84)  
-- [2020-06-14-三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108)  
-- [2020-06-14-vue源码阅读第三篇，渲染代码块生成](https://juejin.im/post/5ee64758f265da76cf6e6677)  
-- [2020-06-14-浏览器如何运行-JavaScript](https://juejin.im/post/5ee60ccdf265da76bc7613c7)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1105,11 +1105,11 @@
 </summary>
 
 
-- [2020-06-17-如何看待年仅-28-岁的郭宇宣布从字节跳动退休？](https://toutiao.io/k/b7ln1d5) ![](assets/new.png)  
-- [2020-06-17-字节跳动分布式表格存储系统的演进](https://toutiao.io/k/gewhhkm) ![](assets/new.png)  
-- [2020-06-17-人工智能美学指南-v2.0：美学技术、通用美学语言](https://toutiao.io/k/z8xtuu1) ![](assets/new.png)  
-- [2020-06-17-ES-能为你解决什么问题，又会带来什么问题？](https://toutiao.io/k/q9oyysx) ![](assets/new.png)  
-- [2020-06-17-Spring-Cloud-Alibaba（七）：Spring-Cloud-Alibaba-Sentinel-使用-nacos-管理配置](https://toutiao.io/k/pbtwkb4) ![](assets/new.png)  
+- [2020-06-17-如何看待年仅-28-岁的郭宇宣布从字节跳动退休？](https://toutiao.io/k/b7ln1d5)  
+- [2020-06-17-字节跳动分布式表格存储系统的演进](https://toutiao.io/k/gewhhkm)  
+- [2020-06-17-人工智能美学指南-v2.0：美学技术、通用美学语言](https://toutiao.io/k/z8xtuu1)  
+- [2020-06-17-ES-能为你解决什么问题，又会带来什么问题？](https://toutiao.io/k/q9oyysx)  
+- [2020-06-17-Spring-Cloud-Alibaba（七）：Spring-Cloud-Alibaba-Sentinel-使用-nacos-管理配置](https://toutiao.io/k/pbtwkb4)  
 - [2020-06-16-今天面试问到一个-Elasticsearch-问题，给我问懵逼了......](https://toutiao.io/k/01iu0jk)  
 - [2020-06-16-iOS-开源二进制使用插件使用教程](https://toutiao.io/k/2hq2h59)  
 - [2020-06-16-了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo)  

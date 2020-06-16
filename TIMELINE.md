@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-17 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京市-18-家大型超市承诺主要蔬菜品种不涨价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京公布新增-27-例确诊病例详情，均与新发地市场有关联。](https://m.weibo.cn/2656274875/4516563212298905) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729) 
@@ -901,6 +906,10 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-16-浏览器事件知多少——JS事件流与事件处理程序](https://juejin.im/post/5ee78ad96fb9a047d37123d2) 
+- [【掘金前端】2020-06-16-了不起的-Webpack-HMR-学习指南（含源码分析）](https://juejin.im/post/5ee8e32a51882543485780d3) 
+- [【掘金前端】2020-06-16-通过一个算法来简化你的-css](https://juejin.im/post/5ee8e785e51d457b3e77fb12) 
+- [【掘金前端】2020-06-16-前端架构-101（五）：从-Flux-进化到-Model-View-Presenter](https://juejin.im/post/5ee8dbfc5188251fe83931c3) 
 - [【掘金前端】2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663) 
 - [【掘金前端】2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38) 
 - [【掘金前端】2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d) 

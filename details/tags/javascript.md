@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -98,6 +98,7 @@
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-16-浏览器事件知多少——JS事件流与事件处理程序](https://juejin.im/post/5ee78ad96fb9a047d37123d2) 
 - [2020-06-15-你真的了解ES6的Set，WeakSet，Map和WeakMap吗？](https://juejin.im/post/5ee71e92f265da76f65329fe) 
 - [2020-06-15-移动端适配总结（长文）](https://juejin.im/post/5ee5e5cd51882557525a8d69) 
 - [2020-06-14-浏览器如何运行-JavaScript](https://juejin.im/post/5ee60ccdf265da76bc7613c7) 

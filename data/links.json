@@ -5317,6 +5317,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "17 日起，北京市中小学各年级一律停止到校上课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "北京市应急响应级别由三级上调至二级",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "北京市 18 家大型超市承诺主要蔬菜品种不涨价",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "北京公布新增 27 例确诊病例详情，均与新发地市场有关联。",
+        "link": "https://m.weibo.cn/2656274875/4516563212298905",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1",
+        "date": "2020-06-16"
+      },
+      {
         "title": "美专家：美国第二波疫情已经开始",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1",
         "date": "2020-06-16"
@@ -12341,6 +12366,26 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "浏览器事件知多少——JS事件流与事件处理程序",
+        "link": "https://juejin.im/post/5ee78ad96fb9a047d37123d2",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "了不起的 Webpack HMR 学习指南（含源码分析）",
+        "link": "https://juejin.im/post/5ee8e32a51882543485780d3",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "通过一个算法来简化你的 css",
+        "link": "https://juejin.im/post/5ee8e785e51d457b3e77fb12",
+        "date": "2020-06-16"
+      },
+      {
+        "title": "前端架构 101（五）：从 Flux 进化到 Model-View-Presenter",
+        "link": "https://juejin.im/post/5ee8dbfc5188251fe83931c3",
+        "date": "2020-06-16"
+      },
       {
         "title": "浏览器打印性能问题篇",
         "link": "https://juejin.im/post/5ee85c085188251f40215663",

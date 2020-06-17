@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 18:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 19:00:20，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-17-伊朗新增2612例新冠肺炎确诊病例-累计确诊195051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADG5ja4saRVMqrlxEwik200617&isfromapp=1) ![](assets/new.png)  
 - [2020-06-17-北京：已对35.6万重点人员进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1)  
 - [2020-06-17-俄罗斯新增新冠肺炎确诊病例7843例-累计确诊病例超55万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1)  
 - [2020-06-17-中疾控再启用P3实验室助北京检测](https://m.weibo.cn/2803301701/4516827646795755)  
@@ -113,7 +114,6 @@
 - [2020-06-16-法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1)  
 - [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1)  
 - [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
-- [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -919,11 +919,11 @@
 </summary>
 
 
-- [2020-06-17-学习算法前你需要了解的‘大O表示法’](https://juejin.im/post/5ee9e1496fb9a0586d71cc60) ![](assets/new.png)  
-- [2020-06-17-CommonsChunkPlugin代码拆分挖坑之路](https://juejin.im/post/5ee9cf866fb9a058af771a62) ![](assets/new.png)  
-- [2020-06-17-Bedrock——基于MVVM+Provider的Flutter快速开发框架](https://juejin.im/post/5edc91edf265da76c76b18a5) ![](assets/new.png)  
-- [2020-06-17-细聊Concent-&-Recoil-,-探索react数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03) ![](assets/new.png)  
-- [2020-06-17-从新冠疫情出发，漫谈-Gossip-协议](https://juejin.im/post/5ee9d36851882565c623a8cf) ![](assets/new.png)  
+- [2020-06-17-学习算法前你需要了解的‘大O表示法’](https://juejin.im/post/5ee9e1496fb9a0586d71cc60)  
+- [2020-06-17-CommonsChunkPlugin代码拆分挖坑之路](https://juejin.im/post/5ee9cf866fb9a058af771a62)  
+- [2020-06-17-Bedrock——基于MVVM+Provider的Flutter快速开发框架](https://juejin.im/post/5edc91edf265da76c76b18a5)  
+- [2020-06-17-细聊Concent-&-Recoil-,-探索react数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03)  
+- [2020-06-17-从新冠疫情出发，漫谈-Gossip-协议](https://juejin.im/post/5ee9d36851882565c623a8cf)  
 - [2020-06-17-ES6精讲系列——模板字符串](https://juejin.im/post/5ee9a246e51d4573db47c045)  
 - [2020-06-17-30分钟上手es6](https://juejin.im/post/5ee9a1556fb9a0586320a395)  
 - [2020-06-17-你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b)  
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-06-17-apple-care+的发票和购机发票在保修的时候是否享有同等权益？](https://www.v2ex.com/t/682323)  
-- [2020-06-17-坚持每日一贴，寻找志同道合的伙伴！-薪水报酬不会少，虽然是创业者，但是不会白嫖程序员!](https://www.v2ex.com/t/682322)  
-- [2020-06-17-MacOS10.15.5，无法在设置里修改网络配置](https://www.v2ex.com/t/682321)  
-- [2020-06-17-Debian-的-bpo-内核是个什么东西](https://www.v2ex.com/t/682320)  
-- [2020-06-17-减肥能一劳永逸吗？感觉体重上来了就要终身控制](https://www.v2ex.com/t/682319)  
-- [2020-06-17-Java-里面有没有类似-es6-的模板字符串语法？](https://www.v2ex.com/t/682318)  
-- [2020-06-17-字节跳动提前批来啦，超多岗位，城市自选，速来。。-字节跳动校招内推码:-M8GRPEC-投递链接:-https://jo...](https://www.v2ex.com/t/682317)  
-- [2020-06-17-设计数据表时这种情况下还要不要遵守第一范式?](https://www.v2ex.com/t/682316)  
-- [2020-06-17-123](https://www.v2ex.com/t/682314)  
-- [2020-06-17-不懂就问-这样子的数据采集方案需要设计](https://www.v2ex.com/t/682313)  
-- [2020-06-17-微信公众平台视频上传问题](https://www.v2ex.com/t/682312)  
-- [2020-06-17-Roam-Research-的-Gruvbox-Dark-样式](https://www.v2ex.com/t/682311)  
-- [2020-06-17-为什么微信传-APK-文件要在最后加.1](https://www.v2ex.com/t/682310)  
-- [2020-06-17-你想做个什么站，我有闲置服务器，搞个合作](https://www.v2ex.com/t/682309)  
-- [2020-06-17-阿里云机器这么便宜了-1-核-2G1M-1-年￥-89.76-这个找代理还可以打折吗？](https://www.v2ex.com/t/682308)  
-- [2020-06-17-Webpack4-+-TypeScript-如何优化编译速度?](https://www.v2ex.com/t/682307)  
-- [2020-06-17-「自荐」杭州-应届生-UI/UX-设计师-应聘-目标薪资-7k-左右](https://www.v2ex.com/t/682306)  
-- [2020-06-17-2020-年了，你们还订阅-ssr-嘛？](https://www.v2ex.com/t/682305)  
-- [2020-06-17-后端求职，成都的同学麻烦看一下啦](https://www.v2ex.com/t/682304)  
-- [2020-06-17-新手求助帖](https://www.v2ex.com/t/682302)  
+- [2020-06-17-电报群安卓和苹果版怎么设置中文](https://www.v2ex.com/t/682455) ![](assets/new.png)  
+- [2020-06-17-华硕的路由器如何优雅的限制客户端访问网络？](https://www.v2ex.com/t/682454) ![](assets/new.png)  
+- [2020-06-17-SpellForce-3:-Fallen-God](https://www.v2ex.com/t/682453) ![](assets/new.png)  
+- [2020-06-17-各位老哥知道如何让国内服务器到香港服务器延迟控制在毫秒级别内吗](https://www.v2ex.com/t/682452) ![](assets/new.png)  
+- [2020-06-17-微信号没有释放机制吧。](https://www.v2ex.com/t/682451) ![](assets/new.png)  
+- [2020-06-17-Speedle-项目迁移到新的地址-https://github.com/teramoby/speedle-plus](https://www.v2ex.com/t/682450) ![](assets/new.png)  
+- [2020-06-17-如何同步-windows-server-和-mac-上的文件](https://www.v2ex.com/t/682449) ![](assets/new.png)  
+- [2020-06-17-winform-诡异事件求助](https://www.v2ex.com/t/682448) ![](assets/new.png)  
+- [2020-06-17-做了-1-年外派外包了,-现在领导几乎不给我安排工作内容了.-每天我就是看书.](https://www.v2ex.com/t/682447) ![](assets/new.png)  
+- [2020-06-17-关于-heif-的硬解问题](https://www.v2ex.com/t/682446) ![](assets/new.png)  
+- [2020-06-17-老哥们，能在拼多多上电脑配件吗？](https://www.v2ex.com/t/682444) ![](assets/new.png)  
+- [2020-06-17-今天彻底想通了](https://www.v2ex.com/t/682443) ![](assets/new.png)  
+- [2020-06-17-请教一个正则表示式，/\d*A-Z*|\?/-为什么不能选出-bAseline-?](https://www.v2ex.com/t/682440) ![](assets/new.png)  
+- [2020-06-17-微信公众号-开始-推荐-给用户-“用户未关注的但可能感兴趣的”-公众号了](https://www.v2ex.com/t/682439) ![](assets/new.png)  
+- [2020-06-17-关于-HTTP-请求，-POST-请求为什么有的接口还在-url-里传参数呢？](https://www.v2ex.com/t/682438) ![](assets/new.png)  
+- [2020-06-17-outlook-如何设定阅读后邮件移动到指定文件夹](https://www.v2ex.com/t/682437) ![](assets/new.png)  
+- [2020-06-17-腰间盘突出了，酸痛的睡都睡不着。。](https://www.v2ex.com/t/682436) ![](assets/new.png)  
+- [2020-06-17-有用-nmon-监控工具的大佬吗，请教个问题](https://www.v2ex.com/t/682435) ![](assets/new.png)  
+- [2020-06-17-美的洗碗机-X4-X4-S-K2-有啥坑么](https://www.v2ex.com/t/682433) ![](assets/new.png)  
+- [2020-06-17-iPad-使用-iPhone-个人热点断连有什么好用的解决方案吗？](https://www.v2ex.com/t/682432) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

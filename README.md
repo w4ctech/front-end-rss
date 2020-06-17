@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 16:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 16:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-17-俄罗斯新增新冠肺炎确诊病例7843例-累计确诊病例超55万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-中疾控再启用P3实验室助北京检测](https://m.weibo.cn/2803301701/4516827646795755) ![](assets/new.png)  
 - [2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1)  
 - [2020-06-17-天津排查新发疫情密切接触者-1217人已完成检测-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1)  
 - [2020-06-17-受新冠肺炎疫情影响，埃及机场损失6.96亿埃镑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivK5vKU6MYFJzlzrCUn1n200617&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
 - [2020-06-16-北京高温之下他们全副武装，真的辛苦了](https://m.weibo.cn/2803301701/4516449533911729)  
 - [2020-06-16-北京:新发地批发市场是首都防疫的重中之重](https://m.weibo.cn/2803301701/4516405543942212)  
-- [2020-06-16-北京市：居家隔离中需要定期前往医院的居民-统一用专用车辆进行转院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD5td7sDXiUteQqURb9Zc200616&isfromapp=1)  
-- [2020-06-16-土耳其伊朗8月1日恢复航班往来](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -354,8 +354,8 @@
 </summary>
 
 
-- [2020-06-17-冲刺大厂之前，怎么做好十足的准备？](https://www.ershicimi.com/p/074a225488c24db400c0da8ff4b5d045) ![](assets/new.png)  
-- [2020-06-17-探索-React-的内在---postMessage-和-Scheduler](https://www.ershicimi.com/p/736b7afc2a6bd5057a6936d1c0154ba1) ![](assets/new.png)  
+- [2020-06-17-冲刺大厂之前，怎么做好十足的准备？](https://www.ershicimi.com/p/074a225488c24db400c0da8ff4b5d045)  
+- [2020-06-17-探索-React-的内在---postMessage-和-Scheduler](https://www.ershicimi.com/p/736b7afc2a6bd5057a6936d1c0154ba1)  
 - [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a)  
 - [2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1)  
 - [2020-06-15-网站无障碍化简介](https://www.ershicimi.com/p/d1cb79c55a8d0dbea06672fef84bdb47)  
@@ -587,8 +587,8 @@
 </summary>
 
 
-- [2020-06-17-HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/a82fff87e6169a63303ba46b33862e86) ![](assets/new.png)  
-- [2020-06-17-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/3eeb6179339367dd463f6e8f6a5a85e1) ![](assets/new.png)  
+- [2020-06-17-HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/a82fff87e6169a63303ba46b33862e86)  
+- [2020-06-17-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/3eeb6179339367dd463f6e8f6a5a85e1)  
 - [2020-06-16-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/a844024dd97d7b549d29163d75031949)  
 - [2020-06-16-vue项目部署的最佳实践](https://www.ershicimi.com/p/f738cbccf16f813304d4c3b7fd9b0b04)  
 - [2020-06-15-在阿里我是如何当面试官的含流程、注意点、面试题汇总等](https://www.ershicimi.com/p/da2229e0378c219c3192c01bcbf612cf)  
@@ -857,10 +857,10 @@
 </summary>
 
 
-- [2020-06-17-滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关](https://www.ershicimi.com/p/be8389aa40ac34276244003d9817c2bc) ![](assets/new.png)  
-- [2020-06-17-美团点评万亿级-KV-存储架构演进](https://www.ershicimi.com/p/ad51345ae6d442cbf0aaf91e678fa85b) ![](assets/new.png)  
-- [2020-06-17-日活超过-3-亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/b2a6a0a0501e25ec00b220bb5370739d) ![](assets/new.png)  
-- [2020-06-17-简化TensorFlow和Spark互操作性：LinkedIn开源Spark-TFRecord](https://www.ershicimi.com/p/4e4dd087af3cbf6e74de9841d743b160) ![](assets/new.png)  
+- [2020-06-17-滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关](https://www.ershicimi.com/p/be8389aa40ac34276244003d9817c2bc)  
+- [2020-06-17-美团点评万亿级-KV-存储架构演进](https://www.ershicimi.com/p/ad51345ae6d442cbf0aaf91e678fa85b)  
+- [2020-06-17-日活超过-3-亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/b2a6a0a0501e25ec00b220bb5370739d)  
+- [2020-06-17-简化TensorFlow和Spark互操作性：LinkedIn开源Spark-TFRecord](https://www.ershicimi.com/p/4e4dd087af3cbf6e74de9841d743b160)  
 - [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9)  
 - [2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb)  
 - [2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 16:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-17 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-17-俄罗斯新增新冠肺炎确诊病例7843例-累计确诊病例超55万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-17-中疾控再启用P3实验室助北京检测](https://m.weibo.cn/2803301701/4516827646795755) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-17-天津排查新发疫情密切接触者-1217人已完成检测-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-17-受新冠肺炎疫情影响，埃及机场损失6.96亿埃镑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivK5vKU6MYFJzlzrCUn1n200617&isfromapp=1) 

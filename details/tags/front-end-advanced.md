@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -44,6 +44,7 @@
 - [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a) 
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
+- [2020-06-17-学习算法前你需要了解的‘大O表示法’](https://juejin.im/post/5ee9e1496fb9a0586d71cc60) 
 - [2020-06-13-「算法思想」分治、动态规划、回溯、贪心一锅炖](https://juejin.im/post/5ee4f5bfe51d457b3f4a1fc0) 
 - [2020-06-13-深入浅出WebAssembly5-Memory](https://juejin.im/post/5ee43c2df265da76ba7b256f) 
 - [2020-06-13-深入浅出WebAssembly6-Binary-Format](https://juejin.im/post/5ee43e79f265da76f75bf2a7) 

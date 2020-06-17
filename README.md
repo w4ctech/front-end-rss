@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 18:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,12 +41,12 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -774,7 +774,7 @@
 </summary>
 
 
-- [2020-06-17-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64) ![](assets/new.png)  
+- [2020-06-17-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64)  
 - [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740)  
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6)  
 - [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8)  
@@ -919,6 +919,11 @@
 </summary>
 
 
+- [2020-06-17-学习算法前你需要了解的‘大O表示法’](https://juejin.im/post/5ee9e1496fb9a0586d71cc60) ![](assets/new.png)  
+- [2020-06-17-CommonsChunkPlugin代码拆分挖坑之路](https://juejin.im/post/5ee9cf866fb9a058af771a62) ![](assets/new.png)  
+- [2020-06-17-Bedrock——基于MVVM+Provider的Flutter快速开发框架](https://juejin.im/post/5edc91edf265da76c76b18a5) ![](assets/new.png)  
+- [2020-06-17-细聊Concent-&-Recoil-,-探索react数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03) ![](assets/new.png)  
+- [2020-06-17-从新冠疫情出发，漫谈-Gossip-协议](https://juejin.im/post/5ee9d36851882565c623a8cf) ![](assets/new.png)  
 - [2020-06-17-ES6精讲系列——模板字符串](https://juejin.im/post/5ee9a246e51d4573db47c045)  
 - [2020-06-17-30分钟上手es6](https://juejin.im/post/5ee9a1556fb9a0586320a395)  
 - [2020-06-17-你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b)  
@@ -934,11 +939,6 @@
 - [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38)  
 - [2020-06-16-Vue实现数据的懒加载节流版](https://juejin.im/post/5ee88784f265da7714712a5d)  
 - [2020-06-16-第十一届前端早早聊大会-|-前端女生职业发展专场](https://www.huodongxing.com/go/tl11)  
-- [2020-06-16-如何使用css3实现一个类在线直播的队列动画](https://juejin.im/post/5ee843ac5188251ecc7de968)  
-- [2020-06-16-帮助全网前端小姐姐，少走一些职场弯路](https://juejin.im/post/5ee87aa56fb9a047cf3345f9)  
-- [2020-06-16-没有毕业季，也要好好说再见](https://juejin.im/post/5ee87e5e6fb9a047bb6a6d49)  
-- [2020-06-15-Node中间层实践（五）——express-中间层的逻辑处理](https://juejin.im/post/5ee71ff9e51d452f9c27e38a)  
-- [2020-06-15-你真的了解ES6的Set，WeakSet，Map和WeakMap吗？](https://juejin.im/post/5ee71e92f265da76f65329fe)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

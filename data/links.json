@@ -12447,6 +12447,16 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "ES6精讲系列——模板字符串",
+        "link": "https://juejin.im/post/5ee9a246e51d4573db47c045",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "30分钟上手es6",
+        "link": "https://juejin.im/post/5ee9a1556fb9a0586320a395",
+        "date": "2020-06-17"
+      },
+      {
         "title": "你可能不知道的15个有用的Github功能",
         "link": "https://juejin.im/post/5ee97b4ef265da770b40ea8b",
         "date": "2020-06-17"
@@ -14205,6 +14215,36 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "apple care+的发票和购机发票在保修的时候是否享有同等权益？",
+        "link": "https://www.v2ex.com/t/682323",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "坚持每日一贴，寻找志同道合的伙伴！ 薪水报酬不会少，虽然是创业者，但是不会白嫖程序员!",
+        "link": "https://www.v2ex.com/t/682322",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "MacOS10.15.5，无法在设置里修改网络配置",
+        "link": "https://www.v2ex.com/t/682321",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "Debian 的 bpo 内核是个什么东西",
+        "link": "https://www.v2ex.com/t/682320",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "减肥能一劳永逸吗？感觉体重上来了就要终身控制",
+        "link": "https://www.v2ex.com/t/682319",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "Java 里面有没有类似 es6 的模板字符串语法？",
+        "link": "https://www.v2ex.com/t/682318",
+        "date": "2020-06-17"
+      },
       {
         "title": "字节跳动提前批来啦，超多岗位，城市自选，速来。。\r\n字节跳动校招内推码: M8GRPEC \r\n投递链接: https://jo...",
         "link": "https://www.v2ex.com/t/682317",

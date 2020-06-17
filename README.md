@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 23:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 00:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-17-北京地坛医院本部18日起停止所有门诊、急诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-​6月17日6时至18时-天津新增1例本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioPpXiRwaj2rvWzxq3ptR200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-6月18日起！北京全面暂停出租车、网约车驾驶员考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipiQM3Istf45zB09oa2Lq200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-廊坊至北京客运班线全部停运-恢复时间另行通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTzmh6sz8cwDpSL7g9Xb200617&isfromapp=1) ![](assets/new.png)  
 - [2020-06-17-伊朗新增2612例新冠肺炎确诊病例-累计确诊195051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADG5ja4saRVMqrlxEwik200617&isfromapp=1)  
 - [2020-06-17-北京：已对35.6万重点人员进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1)  
 - [2020-06-17-俄罗斯新增新冠肺炎确诊病例7843例-累计确诊病例超55万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1)  
 - [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1)  
 - [2020-06-16-北京市-18-家大型超市承诺主要蔬菜品种不涨价](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNpr9SODiBhJEXNmLYJWw200616&isfromapp=1)  
-- [2020-06-16-北京公布新增-27-例确诊病例详情，均与新发地市场有关联。](https://m.weibo.cn/2656274875/4516563212298905)  
-- [2020-06-16-法国医护人员上街游行，要求政府增加工资待遇、停止关闭医院业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1)  
-- [2020-06-16-美专家：美国第二波疫情已经开始](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1)  
-- [2020-06-16-东京奥组委执委：应考虑奥运会再次推迟的可能性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1013,10 +1013,10 @@
 </summary>
 
 
-- [2020-06-17-这件事中国默默做了-70-年，知道的人却屈指可数……](https://www.ershicimi.com/p/0df66f31140013274b57d00fc9339a43) ![](assets/new.png)  
-- [2020-06-17-男人身体的-12-个小秘密](https://www.ershicimi.com/p/627039f5c5710cc38a4375c7c67948f3) ![](assets/new.png)  
-- [2020-06-17-电影院不开门的日子，我们承包你的小荧幕！从零开始，入坑类型片](https://www.ershicimi.com/p/d9dfec39f61a06dd2a0366673b431b62) ![](assets/new.png)  
-- [2020-06-17-知乎故事-|-你为什么不再染发了？](https://www.ershicimi.com/p/5d41a0ffe543c87585624a0cff6558bb) ![](assets/new.png)  
+- [2020-06-17-这件事中国默默做了-70-年，知道的人却屈指可数……](https://www.ershicimi.com/p/0df66f31140013274b57d00fc9339a43)  
+- [2020-06-17-男人身体的-12-个小秘密](https://www.ershicimi.com/p/627039f5c5710cc38a4375c7c67948f3)  
+- [2020-06-17-电影院不开门的日子，我们承包你的小荧幕！从零开始，入坑类型片](https://www.ershicimi.com/p/d9dfec39f61a06dd2a0366673b431b62)  
+- [2020-06-17-知乎故事-|-你为什么不再染发了？](https://www.ershicimi.com/p/5d41a0ffe543c87585624a0cff6558bb)  
 - [2020-06-16-别被电视剧骗了，真实的战争比这「阴损」多了](https://www.ershicimi.com/p/e982602075cb9591b11702c9baca8c47)  
 - [2020-06-16-咳咳，618，刘看山成了海王？](https://www.ershicimi.com/p/e5508bbe185a83c71d4f68f9dccb8b01)  
 - [2020-06-16-这些硬核公众号，别告诉我你一个都不知道](https://www.ershicimi.com/p/2327c993609c30423081f8d337bb9575)  

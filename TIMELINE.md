@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 17:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-17 17:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -3377,6 +3377,7 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-17-视频-HR-问你离职的原因是什么？你会怎么回答？](https://toutiao.io/k/ymkzz2s) 
 - [【开发者头条】2020-06-17-使用拦截器统一处理异常](https://toutiao.io/k/vbdwmd1) 
 - [【开发者头条】2020-06-17-薅了几个云厂商的羊毛后，我该如何利用它们来组建-k3s-集群？](https://toutiao.io/k/pe9w1rl) 
 - [【开发者头条】2020-06-17-开发框架文档体系化的思考](https://toutiao.io/k/vuqfwvv) 

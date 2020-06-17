@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 17:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 17:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-17-北京：已对35.6万重点人员进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-北京：已对35.6万重点人员进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1)  
 - [2020-06-17-俄罗斯新增新冠肺炎确诊病例7843例-累计确诊病例超55万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1)  
 - [2020-06-17-中疾控再启用P3实验室助北京检测](https://m.weibo.cn/2803301701/4516827646795755)  
 - [2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1)  
@@ -1106,6 +1106,7 @@
 </summary>
 
 
+- [2020-06-17-视频-HR-问你离职的原因是什么？你会怎么回答？](https://toutiao.io/k/ymkzz2s) ![](assets/new.png)  
 - [2020-06-17-使用拦截器统一处理异常](https://toutiao.io/k/vbdwmd1)  
 - [2020-06-17-薅了几个云厂商的羊毛后，我该如何利用它们来组建-k3s-集群？](https://toutiao.io/k/pe9w1rl)  
 - [2020-06-17-开发框架文档体系化的思考](https://toutiao.io/k/vuqfwvv)  
@@ -1125,7 +1126,6 @@
 - [2020-06-17-AMQP-协议学习](https://toutiao.io/k/4gcv6gj)  
 - [2020-06-17-Streaming-SQL-在贝壳的演进之路](https://toutiao.io/k/t3j5i90)  
 - [2020-06-17-译-Android-11-Beta-版正式发布！以及众多面向开发者的重磅更新](https://toutiao.io/k/v08a9j2)  
-- [2020-06-17-如何将第三方服务注册集成到-Istio-？](https://toutiao.io/k/vqu2l3h)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

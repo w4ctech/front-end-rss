@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1) ![](assets/new.png)  
-- [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-非洲新冠肺炎确诊病例超25万-非洲多国调整抗疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYVBOFMfw0EUYuo9NTlR200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1)  
+- [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1)  
 - [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619)  
 - [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1)  
 - [2020-06-16-北京市应急响应级别由三级上调至二级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoreNYwuWFaGvDhm6g5r200616&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-16-北京延庆：对综合市场和单位食堂消杀、采样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EZHzhTRxUiIb1ty4KGA200616&isfromapp=1)  
 - [2020-06-16-北京出租车、顺风车暂停出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1)  
 - [2020-06-16-截至6月15日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml)  
-- [2020-06-16-也门新增116例新冠肺炎确诊病例-疫情恶化加速-病死率高达四分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

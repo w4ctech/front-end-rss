@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -55,6 +55,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-18-mysql-和-labview](https://www.v2ex.com/t/682518) 
+- [2020-06-18-各位大佬,想请问下,有些安卓-app-使用时候需要关闭手机的-usb-调试模式,有什么办法可以不关闭-usb-调试模式去继续使用这些-app?](https://www.v2ex.com/t/682517) 
 - [2020-06-17-关于-HTTP-请求，-POST-请求为什么有的接口还在-url-里传参数呢？](https://www.v2ex.com/t/682438) 
 - [2020-06-16-🔥🔥蚂蚁金服组内直聘资深-Java-研发、流量调度/缓存/大数据-SRE](https://www.v2ex.com/t/682044) 
 - [2020-06-16-有趣的哔哩哔哩的-IE-浏览器提示页面：您正在-IE-的梦境中](https://www.v2ex.com/t/682029) 

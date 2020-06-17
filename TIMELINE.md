@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-17 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -672,6 +672,7 @@
 - [【前端迷】2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) 
 - [【前端迷】2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da) 
 - [【全栈前端精选】2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554) 
 - [【全栈前端精选】2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231) 
 - [【全栈前端精选】2020-06-14-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/72fae246008c062cbace0d2717c1f223) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-17 12:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-17 13:00:20，:rocket: 更新条数: +39， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1) ![](assets/new.png)  
-- [2020-06-17-天津排查新发疫情密切接触者-1217人已完成检测-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1) ![](assets/new.png)  
+- [2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1)  
+- [2020-06-17-天津排查新发疫情密切接触者-1217人已完成检测-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1)  
 - [2020-06-17-受新冠肺炎疫情影响，埃及机场损失6.96亿埃镑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivK5vKU6MYFJzlzrCUn1n200617&isfromapp=1)  
 - [2020-06-17-四川新增1例境外输入，无新增本土确诊](https://m.weibo.cn/2803301701/4516724840260928)  
 - [2020-06-17-北京新增31例确诊病例](https://m.weibo.cn/3057540037/4516717625702004)  
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-06-16-有没有一种通过-git-flow-判断公司或者团队靠谱程度的办法](https://www.v2ex.com/t/682186)  
-- [2020-06-16-ruby,一代优秀语言就这样陨落了吗？](https://www.v2ex.com/t/682185)  
-- [2020-06-16-社招-红帽-Quality-Engineering---Networking](https://www.v2ex.com/t/682184)  
-- [2020-06-16-上海-10+-年工作经验，求收留，关键字：从-startup-到-ipo，网站架构，-PHP-，小程序，增长黑客](https://www.v2ex.com/t/682183)  
-- [2020-06-16-求适合业余菜鸟的-c#教程](https://www.v2ex.com/t/682182)  
-- [2020-06-16-kubectl-基本命令](https://www.v2ex.com/t/682181)  
-- [2020-06-16-iOS-可以修改微信-ID-了](https://www.v2ex.com/t/682180)  
-- [2020-06-16-拉萨能科学上网吗？](https://www.v2ex.com/t/682179)  
-- [2020-06-16-校招提前批-字节跳动教育业务招人啦~](https://www.v2ex.com/t/682178)  
-- [2020-06-16-装修自己做超六类网线水晶头（都是日线的），买什么网线钳好用？](https://www.v2ex.com/t/682177)  
-- [2020-06-16-数据中心可视化方案提供商推荐！](https://www.v2ex.com/t/682176)  
-- [2020-06-16-应用启动连接问题](https://www.v2ex.com/t/682174)  
-- [2020-06-16-部门直推-2021-届的同学，头条提前批招聘开始啦！](https://www.v2ex.com/t/682171)  
-- [2020-06-16-我打算做一个全平台的iOS,-Android,-macOS,-WIndows,-Linux-的自动备份设备，有人有兴趣购买吗？](https://www.v2ex.com/t/682169)  
-- [2020-06-16-投某二线厂，内推简历被总监拒，理由是超过-30-岁了。](https://www.v2ex.com/t/682167)  
-- [2020-06-16-最近在写-Web-版的像素风婚礼请帖，请教一个关于遮挡处理的问题。](https://www.v2ex.com/t/682166)  
-- [2020-06-16-远程面试](https://www.v2ex.com/t/682164)  
-- [2020-06-16-想用-utm-ios-下的-qemu-虚拟机](https://www.v2ex.com/t/682162)  
-- [2020-06-16-618-国内服务器家里合适？](https://www.v2ex.com/t/682159)  
-- [2020-06-16-杭州阿里淘宝特价版技术团队组内直推~-P6-起，可能是最有诚意的招聘贴了，点进来看看有惊喜！](https://www.v2ex.com/t/682158)  
+- [2020-06-17-字节跳动提前批来啦，超多岗位，城市自选，速来。。-字节跳动校招内推码:-M8GRPEC-投递链接:-https://jo...](https://www.v2ex.com/t/682317) ![](assets/new.png)  
+- [2020-06-17-设计数据表时这种情况下还要不要遵守第一范式?](https://www.v2ex.com/t/682316) ![](assets/new.png)  
+- [2020-06-17-123](https://www.v2ex.com/t/682314) ![](assets/new.png)  
+- [2020-06-17-不懂就问-这样子的数据采集方案需要设计](https://www.v2ex.com/t/682313) ![](assets/new.png)  
+- [2020-06-17-微信公众平台视频上传问题](https://www.v2ex.com/t/682312) ![](assets/new.png)  
+- [2020-06-17-Roam-Research-的-Gruvbox-Dark-样式](https://www.v2ex.com/t/682311) ![](assets/new.png)  
+- [2020-06-17-为什么微信传-APK-文件要在最后加.1](https://www.v2ex.com/t/682310) ![](assets/new.png)  
+- [2020-06-17-你想做个什么站，我有闲置服务器，搞个合作](https://www.v2ex.com/t/682309) ![](assets/new.png)  
+- [2020-06-17-阿里云机器这么便宜了-1-核-2G1M-1-年￥-89.76-这个找代理还可以打折吗？](https://www.v2ex.com/t/682308) ![](assets/new.png)  
+- [2020-06-17-Webpack4-+-TypeScript-如何优化编译速度?](https://www.v2ex.com/t/682307) ![](assets/new.png)  
+- [2020-06-17-「自荐」杭州-应届生-UI/UX-设计师-应聘-目标薪资-7k-左右](https://www.v2ex.com/t/682306) ![](assets/new.png)  
+- [2020-06-17-2020-年了，你们还订阅-ssr-嘛？](https://www.v2ex.com/t/682305) ![](assets/new.png)  
+- [2020-06-17-后端求职，成都的同学麻烦看一下啦](https://www.v2ex.com/t/682304) ![](assets/new.png)  
+- [2020-06-17-新手求助帖](https://www.v2ex.com/t/682302) ![](assets/new.png)  
+- [2020-06-17-入手-iPad-Pro-还是组一台台式机？](https://www.v2ex.com/t/682301) ![](assets/new.png)  
+- [2020-06-17-iPhone-系统更新最新版本，信号比以前更差了，联通卡！](https://www.v2ex.com/t/682300) ![](assets/new.png)  
+- [2020-06-17-2021-秋招提前批-字节跳动抖音团队摆摊招聘啦！](https://www.v2ex.com/t/682299) ![](assets/new.png)  
+- [2020-06-17-7-年后端求职，大佬们帮忙看看简历](https://www.v2ex.com/t/682297) ![](assets/new.png)  
+- [2020-06-17-Dell-2718q-显示器四角发红售后](https://www.v2ex.com/t/682295) ![](assets/new.png)  
+- [2020-06-17-听人推荐过九章算法的算法面试课，有人体验过么，有没有想要拼团体验一下的](https://www.v2ex.com/t/682294) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,6 +1075,7 @@
 </summary>
 
 
+- [2020-06-17-iOS打包发布那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13523&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fios-package-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-16-快应用-IDE-定制-Devtools-元素面板系列一：背景需求及方案分析-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1094,7 +1095,6 @@
 - [2020-06-09-有了这款-IDEA-插件，你可能只需要写-30%-的代码！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13506&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fb2qmTiXzsFxYzcWOhriEsQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-每个程序员都必须知道的8种通用数据结构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13505&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDSQjHoK7xWmmXLk_mGg-zQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-08-谁说区块链保护隐私的？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13504&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fblockchain-privacy-protection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-08-以深度学习为例理解22种设计模式（三）行为模式-johnhany.net](https://blogread.cn/news/go.php?idItem=13503&url=http%3A%2F%2Fjohnhany.net%2F2020%2F05%2Fdesign-patterns-for-deep-learning-3-behavioral-pattern%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

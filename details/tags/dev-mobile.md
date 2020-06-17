@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 23:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -19,6 +19,8 @@
 - [2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4) 
 - [2020-06-11-对于-U3D-Stopwatch-ElapsedTick-的疑惑](https://www.v2ex.com/t/680811) 
 - [2020-06-03-Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425) 
+- [2020-06-17-Flutter-概述-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13530&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxEPvdeD_Bptp3zkGRxiowg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-17-下载！闲鱼最新升级版-Flutter-技术电子书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13524&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fiwyzg1gdyF8jmtf_aIv_6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-12-一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-02-Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-13-一项改变游戏规则的技术：Flutter](https://toutiao.io/k/8v5n80n) 

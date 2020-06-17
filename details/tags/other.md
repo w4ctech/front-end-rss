@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-17-四川新增1例境外输入，无新增本土确诊](https://m.weibo.cn/2803301701/4516724840260928) 
+- [2020-06-17-北京新增31例确诊病例](https://m.weibo.cn/3057540037/4516717625702004) 
 - [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1) 
 - [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619) 
 - [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1) 
@@ -1110,6 +1112,8 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-17-在滴滴和头条干的这-2-年](https://www.ershicimi.com/p/80d3d8aed91625ca78a990fbbfcf1d9e) 
+- [2020-06-17-这个先写死，后面再改](https://www.ershicimi.com/p/d94bd627a7eafa72935f853e0377f790) 
 - [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) 
 - [2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a) 
 - [2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184) 

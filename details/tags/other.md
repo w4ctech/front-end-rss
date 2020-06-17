@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1208,6 +1208,7 @@
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-06-17-冲刺大厂之前，怎么做好十足的准备？](https://www.ershicimi.com/p/074a225488c24db400c0da8ff4b5d045) 
 - [2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1) 
 - [2020-06-15-网站无障碍化简介](https://www.ershicimi.com/p/d1cb79c55a8d0dbea06672fef84bdb47) 
 - [2020-06-14-前端如何在项目中做出亮点](https://www.ershicimi.com/p/faba53963692c54fd3be64b9603da028) 
@@ -1475,6 +1476,9 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-17-滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关](https://www.ershicimi.com/p/be8389aa40ac34276244003d9817c2bc) 
+- [2020-06-17-美团点评万亿级-KV-存储架构演进](https://www.ershicimi.com/p/ad51345ae6d442cbf0aaf91e678fa85b) 
+- [2020-06-17-简化TensorFlow和Spark互操作性：LinkedIn开源Spark-TFRecord](https://www.ershicimi.com/p/4e4dd087af3cbf6e74de9841d743b160) 
 - [2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb) 
 - [2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054) 
 - [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) 

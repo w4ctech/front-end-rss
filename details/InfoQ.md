@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-06-16 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-17-滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关](https://www.ershicimi.com/p/be8389aa40ac34276244003d9817c2bc) 
+- [2020-06-17-美团点评万亿级-KV-存储架构演进](https://www.ershicimi.com/p/ad51345ae6d442cbf0aaf91e678fa85b) 
+- [2020-06-17-日活超过-3-亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/b2a6a0a0501e25ec00b220bb5370739d) 
+- [2020-06-17-简化TensorFlow和Spark互操作性：LinkedIn开源Spark-TFRecord](https://www.ershicimi.com/p/4e4dd087af3cbf6e74de9841d743b160) 
 - [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9) 
 - [2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb) 
 - [2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054) 

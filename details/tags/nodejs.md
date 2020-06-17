@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -17,6 +17,7 @@
 - [2020-05-26-基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113) 
 - [2020-05-29-《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b) 
 - [2020-06-15-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/52fd6043aeb637bc24a2d148a621bec8) 
+- [2020-06-17-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/3eeb6179339367dd463f6e8f6a5a85e1) 
 - [2020-06-13-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/c658fec3c2b0baf588aeb893e016069f) 
 - [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385) 
 - [2020-05-25-Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec) 

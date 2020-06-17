@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-17 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-17 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -21,6 +21,7 @@
 - [2020-06-06-4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c) 
 - [2020-06-02-GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8) 
 - [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) 
+- [2020-06-17-你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b) 
 - [2020-06-14-三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108) 
 - [2020-06-08-一份值得收藏的-Git-异常处理清单](https://juejin.im/post/5edcf3a36fb9a047fa04fbc3) 
 - [2020-06-01-关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62) 

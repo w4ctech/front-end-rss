@@ -5317,6 +5317,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "受新冠肺炎疫情影响，埃及机场损失6.96亿埃镑",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivK5vKU6MYFJzlzrCUn1n200617&isfromapp=1",
+        "date": "2020-06-17"
+      },
+      {
         "title": "四川新增1例境外输入，无新增本土确诊",
         "link": "https://m.weibo.cn/2803301701/4516724840260928",
         "date": "2020-06-17"
@@ -8852,6 +8857,16 @@
     "title": "前端迷",
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
+      {
+        "title": "前端开发，除了转骑手还有其他出路吗？",
+        "link": "https://www.ershicimi.com/p/f4288019360891d41df070a148383fb2",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "2年前端经验，做的项目没什么技术含量，怎么办？",
+        "link": "https://www.ershicimi.com/p/5e25c1ac4add2b9495e277b8f0e4c6b6",
+        "date": "2020-06-17"
+      },
       {
         "title": "【送书福利】Electron实战：前端人的最佳跨平台解决方案",
         "link": "https://www.ershicimi.com/p/043930ae43fefcced4438f39af0fa894",
@@ -12421,6 +12436,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "你可能不知道的15个有用的Github功能",
+        "link": "https://juejin.im/post/5ee97b4ef265da770b40ea8b",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "简单的axios拦截器",
+        "link": "https://juejin.im/post/5ee8b01ee51d457b3a67e74c",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "JSON Web Token(JWT)简单介绍",
+        "link": "https://juejin.im/post/5ee8b12a518825433f4dacd4",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "从react hooks“闭包陷阱”切入，浅谈react hooks",
+        "link": "https://juejin.im/post/5ee87300518825432d4cbfe6",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "【温故知新】'删除链表倒数第n个节点' javascript快慢双指针实现",
+        "link": "https://juejin.im/post/5ee8e67be51d4530791d3510",
+        "date": "2020-06-17"
+      },
       {
         "title": "浏览器事件知多少——JS事件流与事件处理程序",
         "link": "https://juejin.im/post/5ee78ad96fb9a047d37123d2",

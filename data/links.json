@@ -9130,6 +9130,11 @@
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
       {
+        "title": "前端职业规划 - 写给年轻的前端韭菜们",
+        "link": "https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa",
+        "date": "2020-06-18"
+      },
+      {
         "title": "三年 Git 使用心得 & 常见问题整理",
         "link": "https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da",
         "date": "2020-06-17"
@@ -9544,6 +9549,16 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "Vue 3.0  KO  Vue 2.0",
+        "link": "https://www.ershicimi.com/p/20f37ce299412b81014cb01f7354d040",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "卧槽！牛皮了，头一次见有大佬把TCP三次握手四次挥手解释的这么明白",
+        "link": "https://www.ershicimi.com/p/d5d40a7ea1d285c70aead04030ef254d",
+        "date": "2020-06-18"
+      },
       {
         "title": "前端面试基础题集合！赶紧上车！",
         "link": "https://www.ershicimi.com/p/12000454050057eb91a5ba1401cfb4f3",

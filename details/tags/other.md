@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1274,6 +1274,7 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa) 
 - [2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554) 
 - [2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be) 
 - [2020-06-07-前端真的有资深工程师吗？](https://www.ershicimi.com/p/a586f061f26213da43f128cb0d12cde5) 
@@ -1316,6 +1317,7 @@
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16) 
 - [2020-05-20-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/38c66d93c7202b5e4e26a0df6a992ffd) 
 - [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10) 
+- [2020-06-18-卧槽！牛皮了，头一次见有大佬把TCP三次握手四次挥手解释的这么明白](https://www.ershicimi.com/p/d5d40a7ea1d285c70aead04030ef254d) 
 - [2020-06-15-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/6ce16588882ea7d88e8c985873855d9e) 
 - [2020-06-09-前端代码规范最佳实践](https://www.ershicimi.com/p/e60d337a1d0554a5c2ad657738467f5b) 
 - [2020-06-06-推荐一个从国企到阿里，单项目20000+star的大佬](https://www.ershicimi.com/p/2be4fbd58d7fc017d08a16d2d01eb087) 

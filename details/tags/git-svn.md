@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -28,6 +28,7 @@
 - [2020-06-01-关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-06-18-github-新-UI-看起来挺不错](https://www.v2ex.com/t/682642) 
 - [2020-06-16-有没有一种通过-git-flow-判断公司或者团队靠谱程度的办法](https://www.v2ex.com/t/682186) 
 - [2020-06-16-在-windows-系统下，因为控制台输出的错误信息导致无法在-idea-内使用-git-该如何解决？](https://www.v2ex.com/t/682035) 
 - [2020-06-15-大伙,-能上-github-吗?](https://www.v2ex.com/t/681569) 

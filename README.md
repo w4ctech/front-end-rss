@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-18 07:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml) ![](assets/new.png)  
+- [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1)  
+- [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1)  
 - [2020-06-17-北京地坛医院本部18日起停止所有门诊、急诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1)  
 - [2020-06-17-​6月17日6时至18时-天津新增1例本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioPpXiRwaj2rvWzxq3ptR200617&isfromapp=1)  
 - [2020-06-17-6月18日起！北京全面暂停出租车、网约车驾驶员考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipiQM3Istf45zB09oa2Lq200617&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1)  
 - [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1)  
 - [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619)  
-- [2020-06-16-17-日起，北京市中小学各年级一律停止到校上课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCFb97XuE5jGmRM9uVCaz200616&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-19 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-天津第-137-例病例密接者核酸检测大部分完成，目前均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1) 

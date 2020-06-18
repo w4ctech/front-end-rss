@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 01:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 02:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-天津第-137-例病例密接者核酸检测大部分完成，目前均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1) ![](assets/new.png)  
 - [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1)  
 - [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1)  
 - [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-17-廊坊至北京客运班线全部停运-恢复时间另行通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTzmh6sz8cwDpSL7g9Xb200617&isfromapp=1)  
 - [2020-06-17-伊朗新增2612例新冠肺炎确诊病例-累计确诊195051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADG5ja4saRVMqrlxEwik200617&isfromapp=1)  
 - [2020-06-17-北京：已对35.6万重点人员进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1)  
-- [2020-06-17-俄罗斯新增新冠肺炎确诊病例7843例-累计确诊病例超55万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1)  
-- [2020-06-17-中疾控再启用P3实验室助北京检测](https://m.weibo.cn/2803301701/4516827646795755)  
-- [2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1)  
-- [2020-06-17-天津排查新发疫情密切接触者-1217人已完成检测-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1)  
-- [2020-06-17-受新冠肺炎疫情影响，埃及机场损失6.96亿埃镑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivK5vKU6MYFJzlzrCUn1n200617&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,9 +1044,9 @@
 </summary>
 
 
-- [2020-06-19-想入手-Y9000X，号称生产力神器。。。有没有用过的交流一下？](https://www.v2ex.com/t/682883) ![](assets/new.png)  
-- [2020-06-19-有什么是-Mac-能干的但-Windows-干不了的任务，或者是过程体验相差特别特别悬殊的？](https://www.v2ex.com/t/682882) ![](assets/new.png)  
-- [2020-06-19-业余时间开发的一个小程序，包括天气预报、日历工具和垃圾分类功能，欢迎提建议。](https://www.v2ex.com/t/682881) ![](assets/new.png)  
+- [2020-06-19-想入手-Y9000X，号称生产力神器。。。有没有用过的交流一下？](https://www.v2ex.com/t/682883)  
+- [2020-06-19-有什么是-Mac-能干的但-Windows-干不了的任务，或者是过程体验相差特别特别悬殊的？](https://www.v2ex.com/t/682882)  
+- [2020-06-19-业余时间开发的一个小程序，包括天气预报、日历工具和垃圾分类功能，欢迎提建议。](https://www.v2ex.com/t/682881)  
 - [2020-06-19-2020-年过半，你当初的计划是什么，完成了多少](https://www.v2ex.com/t/682880)  
 - [2020-06-19-20200619-午夜俱乐部](https://www.v2ex.com/t/682879)  
 - [2020-06-19-突然发现，作为一名开发者，有成为好父亲的潜力](https://www.v2ex.com/t/682878)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1) 
 - [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1) 
 - [2020-06-17-北京地坛医院本部18日起停止所有门诊、急诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1) 
 - [2020-06-17-6月18日起！北京全面暂停出租车、网约车驾驶员考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipiQM3Istf45zB09oa2Lq200617&isfromapp=1) 
@@ -4045,6 +4046,7 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13533&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147814759%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-17-写一手烂代码的-19-条准则，你中枪了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13531&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHkhhVmVMdjcleWTsaAwarQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-17-程序员增加收入实用指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13529&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBGUJ2AE9qa65PI_uQo_iwA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

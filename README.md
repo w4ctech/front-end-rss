@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-18 12:00:21，:rocket: 更新条数: +37， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 12:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1) ![](assets/new.png)  
 - [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1)  
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
 - [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-17-北京新增31例确诊病例](https://m.weibo.cn/3057540037/4516717625702004)  
 - [2020-06-17-非洲新冠肺炎确诊病例超25万-非洲多国调整抗疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYVBOFMfw0EUYuo9NTlR200617&isfromapp=1)  
 - [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1)  
-- [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-06-18-有没有人用过-Apifox，是不是可以扔掉-Postman-了？](https://www.v2ex.com/t/682627) ![](assets/new.png)  
-- [2020-06-18-单点登录那些事（一）：应用场景与意义](https://www.v2ex.com/t/682626) ![](assets/new.png)  
-- [2020-06-18-狗东吃相越来越难看，说好的价保-618-呢，因为含赠品还不能申请价格保护](https://www.v2ex.com/t/682624) ![](assets/new.png)  
-- [2020-06-18-升总监半年，管理一泡污，跟老领导学了一招](https://www.v2ex.com/t/682622) ![](assets/new.png)  
-- [2020-06-18-Airpods-pro-有啥便宜的防水壳吗](https://www.v2ex.com/t/682621) ![](assets/new.png)  
-- [2020-06-18-这一次-把-ServerLess-优雅抬走](https://www.v2ex.com/t/682620) ![](assets/new.png)  
-- [2020-06-18-炒股的话平板和-PC-选哪个](https://www.v2ex.com/t/682619) ![](assets/new.png)  
-- [2020-06-18-火车头采集器-wordpress-免登陆发布插件如何添加-post_meta](https://www.v2ex.com/t/682618) ![](assets/new.png)  
-- [2020-06-18-负能量吐槽向，毕业五年差距显现，突然觉得人生而不平等](https://www.v2ex.com/t/682617) ![](assets/new.png)  
-- [2020-06-18-go-语言中，-sysmon-独占一个系统线程吗？](https://www.v2ex.com/t/682616) ![](assets/new.png)  
-- [2020-06-18-发现了一个和-V2EX-风格很相似的网站，-V2EX-网页是有模板吗](https://www.v2ex.com/t/682615) ![](assets/new.png)  
-- [2020-06-18-有不限带宽高效于-TeamViewer-的替代品吗？](https://www.v2ex.com/t/682614) ![](assets/new.png)  
-- [2020-06-18-技术调研：电子印章和流程引擎相关](https://www.v2ex.com/t/682613) ![](assets/new.png)  
-- [2020-06-18-音视频开发有未来吗？](https://www.v2ex.com/t/682612) ![](assets/new.png)  
-- [2020-06-18-有没有办法把旧的台式主机改造成类似机顶盒的客厅娱乐中心？](https://www.v2ex.com/t/682610) ![](assets/new.png)  
-- [2020-06-18-谷歌地图更新了！街景覆盖的道路比多更多！](https://www.v2ex.com/t/682609) ![](assets/new.png)  
-- [2020-06-18-enpass-客户端中文乱码怎么解决呀](https://www.v2ex.com/t/682608) ![](assets/new.png)  
-- [2020-06-18-从-0-开始设计-Flutter-独立-APP-|-第一篇:-数据库与状态管理](https://www.v2ex.com/t/682607) ![](assets/new.png)  
-- [2020-06-18-被脱库咋办？-KMS-给你解决方案！](https://www.v2ex.com/t/682606) ![](assets/new.png)  
-- [2020-06-18-狗东的“女装大佬”又开始直播卖云了。。](https://www.v2ex.com/t/682605) ![](assets/new.png)  
+- [2020-06-18-有没有人用过-Apifox，是不是可以扔掉-Postman-了？](https://www.v2ex.com/t/682627)  
+- [2020-06-18-单点登录那些事（一）：应用场景与意义](https://www.v2ex.com/t/682626)  
+- [2020-06-18-狗东吃相越来越难看，说好的价保-618-呢，因为含赠品还不能申请价格保护](https://www.v2ex.com/t/682624)  
+- [2020-06-18-升总监半年，管理一泡污，跟老领导学了一招](https://www.v2ex.com/t/682622)  
+- [2020-06-18-Airpods-pro-有啥便宜的防水壳吗](https://www.v2ex.com/t/682621)  
+- [2020-06-18-这一次-把-ServerLess-优雅抬走](https://www.v2ex.com/t/682620)  
+- [2020-06-18-炒股的话平板和-PC-选哪个](https://www.v2ex.com/t/682619)  
+- [2020-06-18-火车头采集器-wordpress-免登陆发布插件如何添加-post_meta](https://www.v2ex.com/t/682618)  
+- [2020-06-18-负能量吐槽向，毕业五年差距显现，突然觉得人生而不平等](https://www.v2ex.com/t/682617)  
+- [2020-06-18-go-语言中，-sysmon-独占一个系统线程吗？](https://www.v2ex.com/t/682616)  
+- [2020-06-18-发现了一个和-V2EX-风格很相似的网站，-V2EX-网页是有模板吗](https://www.v2ex.com/t/682615)  
+- [2020-06-18-有不限带宽高效于-TeamViewer-的替代品吗？](https://www.v2ex.com/t/682614)  
+- [2020-06-18-技术调研：电子印章和流程引擎相关](https://www.v2ex.com/t/682613)  
+- [2020-06-18-音视频开发有未来吗？](https://www.v2ex.com/t/682612)  
+- [2020-06-18-有没有办法把旧的台式主机改造成类似机顶盒的客厅娱乐中心？](https://www.v2ex.com/t/682610)  
+- [2020-06-18-谷歌地图更新了！街景覆盖的道路比多更多！](https://www.v2ex.com/t/682609)  
+- [2020-06-18-enpass-客户端中文乱码怎么解决呀](https://www.v2ex.com/t/682608)  
+- [2020-06-18-从-0-开始设计-Flutter-独立-APP-|-第一篇:-数据库与状态管理](https://www.v2ex.com/t/682607)  
+- [2020-06-18-被脱库咋办？-KMS-给你解决方案！](https://www.v2ex.com/t/682606)  
+- [2020-06-18-狗东的“女装大佬”又开始直播卖云了。。](https://www.v2ex.com/t/682605)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1075,6 +1075,7 @@
 </summary>
 
 
+- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13533&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147814759%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-写一手烂代码的-19-条准则，你中枪了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13531&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHkhhVmVMdjcleWTsaAwarQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-Flutter-概述-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13530&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxEPvdeD_Bptp3zkGRxiowg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1094,7 +1095,6 @@
 - [2020-06-12-一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-JDK8在泛型类型推导上的变化-club.perfma.com](https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-09-16-个怪异的代码注释，想用的拿走-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13514&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQfF3KA8IGohzWYytUND4Fg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-09-Android-一次完美的跨进程服务共享实践-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13513&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaWcbgLO_SMCbwc9oJvYu-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

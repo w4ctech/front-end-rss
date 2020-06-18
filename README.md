@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 02:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 02:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-天津第-137-例病例密接者核酸检测大部分完成，目前均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
+- [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
+- [2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1)  
+- [2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1)  
+- [2020-06-18-天津第-137-例病例密接者核酸检测大部分完成，目前均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1)  
 - [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1)  
 - [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1)  
 - [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1)  
@@ -919,6 +919,11 @@
 </summary>
 
 
+- [2020-06-18-HTML核心系列1之DTD与实体](https://juejin.im/post/5eeb8291f265da02e12b9f58) ![](assets/new.png)  
+- [2020-06-18-你不知道的JS系列——异步和回调](https://juejin.im/post/5eeb2e52518825658d0347b8) ![](assets/new.png)  
+- [2020-06-18-你不知道的javascript（上）第三章对象读书笔记](https://juejin.im/post/5eeb1a106fb9a0586d71ce11) ![](assets/new.png)  
+- [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48) ![](assets/new.png)  
+- [2020-06-18-P1攻城狮的江湖总结-项目篇](https://juejin.im/post/5eeb2a4351882565d0291474) ![](assets/new.png)  
 - [2020-06-17-生命在于折腾！这些桌面好物提升你的搬砖幸福度](https://juejin.im/post/5ee9fca5f265da02d3377e38)  
 - [2020-06-17-如何在项目里管理好axios请求与vuex](https://juejin.im/post/5ee9cbcbe51d45742d668390)  
 - [2020-06-17-必备单品，FSearch](https://juejin.im/post/5ee9d1c0f265da028f535ff1)  
@@ -934,11 +939,6 @@
 - [2020-06-17-JSON-Web-TokenJWT简单介绍](https://juejin.im/post/5ee8b12a518825433f4dacd4)  
 - [2020-06-17-从react-hooks“闭包陷阱”切入，浅谈react-hooks](https://juejin.im/post/5ee87300518825432d4cbfe6)  
 - [2020-06-17-【温故知新】'删除链表倒数第n个节点'-javascript快慢双指针实现](https://juejin.im/post/5ee8e67be51d4530791d3510)  
-- [2020-06-16-浏览器事件知多少——JS事件流与事件处理程序](https://juejin.im/post/5ee78ad96fb9a047d37123d2)  
-- [2020-06-16-了不起的-Webpack-HMR-学习指南（含源码分析）](https://juejin.im/post/5ee8e32a51882543485780d3)  
-- [2020-06-16-通过一个算法来简化你的-css](https://juejin.im/post/5ee8e785e51d457b3e77fb12)  
-- [2020-06-16-前端架构-101（五）：从-Flux-进化到-Model-View-Presenter](https://juejin.im/post/5ee8dbfc5188251fe83931c3)  
-- [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-18 17:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 19:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,10 +94,10 @@
 </summary>
 
 
-- [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1) ![](assets/new.png)  
-- [2020-06-18-北京通报聚集性疫情典型案例：某餐馆7名员工确诊-一人曾去新发地采购](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1)  
+- [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1)  
+- [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1)  
+- [2020-06-18-北京通报聚集性疫情典型案例：某餐馆7名员工确诊-一人曾去新发地采购](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1)  
 - [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1)  
 - [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1)  
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
@@ -587,6 +587,8 @@
 </summary>
 
 
+- [2020-06-18-你应该知道的10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/33dcdb614d71b756e2f185fc6e5d8e40) ![](assets/new.png)  
+- [2020-06-18-npx-使用教程](https://www.ershicimi.com/p/873b13318367de54dd65eb4798783acb) ![](assets/new.png)  
 - [2020-06-17-HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/a82fff87e6169a63303ba46b33862e86)  
 - [2020-06-17-V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/3eeb6179339367dd463f6e8f6a5a85e1)  
 - [2020-06-16-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/a844024dd97d7b549d29163d75031949)  
@@ -605,8 +607,6 @@
 - [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45)  
 - [2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22)  
 - [2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/db13b22f5f88783cefa30ecb83dd20a3)  
-- [2020-06-04-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/3b0d627db9b759bd473d3650cbdb432d)  
-- [2020-06-04-Web-上的多种图片技巧](https://www.ershicimi.com/p/697f0386d2aaac7f10a1a0a45fab1b11)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,11 +1106,11 @@
 </summary>
 
 
-- [2020-06-18-技术​选型的艺术](https://toutiao.io/k/dnld4fc) ![](assets/new.png)  
-- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议](https://toutiao.io/k/jrx9s2d) ![](assets/new.png)  
-- [2020-06-18-Python-为什么推荐蛇形命名法？](https://toutiao.io/k/47q2ffn) ![](assets/new.png)  
-- [2020-06-18-独家专访-28-岁退休程序员郭宇：1600-人加好友，问我-“挣了多少钱”](https://toutiao.io/k/onk97wf) ![](assets/new.png)  
-- [2020-06-18-译-React-开发者常见的-3-个错误](https://toutiao.io/k/rbk4ha8) ![](assets/new.png)  
+- [2020-06-18-技术​选型的艺术](https://toutiao.io/k/dnld4fc)  
+- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议](https://toutiao.io/k/jrx9s2d)  
+- [2020-06-18-Python-为什么推荐蛇形命名法？](https://toutiao.io/k/47q2ffn)  
+- [2020-06-18-独家专访-28-岁退休程序员郭宇：1600-人加好友，问我-“挣了多少钱”](https://toutiao.io/k/onk97wf)  
+- [2020-06-18-译-React-开发者常见的-3-个错误](https://toutiao.io/k/rbk4ha8)  
 - [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5)  
 - [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5)  
 - [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer)  

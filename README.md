@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-18 11:30:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 12:00:21，:rocket: 更新条数: +37， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1)  
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
 - [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1)  
 - [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1)  
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-06-18-值得分享的知乎使用方式](https://www.v2ex.com/t/682521)  
-- [2020-06-18-内推-绿色通道-字节跳动-2021-秋招提前批全面开启-抖音客户端专场内推等你来！](https://www.v2ex.com/t/682520)  
-- [2020-06-18-问个冷门问题：广东有什么企业在做教育这一块吗？](https://www.v2ex.com/t/682519)  
-- [2020-06-18-mysql-和-labview](https://www.v2ex.com/t/682518)  
-- [2020-06-18-各位大佬,想请问下,有些安卓-app-使用时候需要关闭手机的-usb-调试模式,有什么办法可以不关闭-usb-调试模式去继续使用这些-app?](https://www.v2ex.com/t/682517)  
-- [2020-06-18-20200618-午夜俱乐部](https://www.v2ex.com/t/682516)  
-- [2020-06-17-深圳有头条（字节跳动）吗？](https://www.v2ex.com/t/682514)  
-- [2020-06-17-国内还在用-Windows8-的人多吗？](https://www.v2ex.com/t/682512)  
-- [2020-06-17-idea-intellij/pycharm-的-VCS->Local-History-可以设置历史版本的数量吗?](https://www.v2ex.com/t/682511)  
-- [2020-06-17-现阶段支持-nfc-最便宜的手机是？](https://www.v2ex.com/t/682510)  
-- [2020-06-17-box2d-物理引擎-tilemap-中精灵碰撞卡住ghost-collision](https://www.v2ex.com/t/682509)  
-- [2020-06-17-写着写着标准库没了..](https://www.v2ex.com/t/682508)  
-- [2020-06-17-Touchbar-有显示词典的办法吗？](https://www.v2ex.com/t/682507)  
-- [2020-06-17-为什么数据库分了表后性能会直线下降？](https://www.v2ex.com/t/682506)  
-- [2020-06-17-ffmpeg-录制流媒体-卡住](https://www.v2ex.com/t/682505)  
-- [2020-06-17-比京东-618-更优惠的国行手机卖场](https://www.v2ex.com/t/682503)  
-- [2020-06-17-我是一枚野生的产品经理，想技术众筹一个项目，利用业余的时间，有兴趣可以聊聊](https://www.v2ex.com/t/682502)  
-- [2020-06-17-现在国内还有哪个不加班的公司么？](https://www.v2ex.com/t/682501)  
-- [2020-06-17-昨天在东哥加了点东西到购物车，今天普遍涨价，且-618-秒杀预告价>=昨天的...](https://www.v2ex.com/t/682500)  
-- [2020-06-17-618-有什么好物推荐？](https://www.v2ex.com/t/682499)  
+- [2020-06-18-有没有人用过-Apifox，是不是可以扔掉-Postman-了？](https://www.v2ex.com/t/682627) ![](assets/new.png)  
+- [2020-06-18-单点登录那些事（一）：应用场景与意义](https://www.v2ex.com/t/682626) ![](assets/new.png)  
+- [2020-06-18-狗东吃相越来越难看，说好的价保-618-呢，因为含赠品还不能申请价格保护](https://www.v2ex.com/t/682624) ![](assets/new.png)  
+- [2020-06-18-升总监半年，管理一泡污，跟老领导学了一招](https://www.v2ex.com/t/682622) ![](assets/new.png)  
+- [2020-06-18-Airpods-pro-有啥便宜的防水壳吗](https://www.v2ex.com/t/682621) ![](assets/new.png)  
+- [2020-06-18-这一次-把-ServerLess-优雅抬走](https://www.v2ex.com/t/682620) ![](assets/new.png)  
+- [2020-06-18-炒股的话平板和-PC-选哪个](https://www.v2ex.com/t/682619) ![](assets/new.png)  
+- [2020-06-18-火车头采集器-wordpress-免登陆发布插件如何添加-post_meta](https://www.v2ex.com/t/682618) ![](assets/new.png)  
+- [2020-06-18-负能量吐槽向，毕业五年差距显现，突然觉得人生而不平等](https://www.v2ex.com/t/682617) ![](assets/new.png)  
+- [2020-06-18-go-语言中，-sysmon-独占一个系统线程吗？](https://www.v2ex.com/t/682616) ![](assets/new.png)  
+- [2020-06-18-发现了一个和-V2EX-风格很相似的网站，-V2EX-网页是有模板吗](https://www.v2ex.com/t/682615) ![](assets/new.png)  
+- [2020-06-18-有不限带宽高效于-TeamViewer-的替代品吗？](https://www.v2ex.com/t/682614) ![](assets/new.png)  
+- [2020-06-18-技术调研：电子印章和流程引擎相关](https://www.v2ex.com/t/682613) ![](assets/new.png)  
+- [2020-06-18-音视频开发有未来吗？](https://www.v2ex.com/t/682612) ![](assets/new.png)  
+- [2020-06-18-有没有办法把旧的台式主机改造成类似机顶盒的客厅娱乐中心？](https://www.v2ex.com/t/682610) ![](assets/new.png)  
+- [2020-06-18-谷歌地图更新了！街景覆盖的道路比多更多！](https://www.v2ex.com/t/682609) ![](assets/new.png)  
+- [2020-06-18-enpass-客户端中文乱码怎么解决呀](https://www.v2ex.com/t/682608) ![](assets/new.png)  
+- [2020-06-18-从-0-开始设计-Flutter-独立-APP-|-第一篇:-数据库与状态管理](https://www.v2ex.com/t/682607) ![](assets/new.png)  
+- [2020-06-18-被脱库咋办？-KMS-给你解决方案！](https://www.v2ex.com/t/682606) ![](assets/new.png)  
+- [2020-06-18-狗东的“女装大佬”又开始直播卖云了。。](https://www.v2ex.com/t/682605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,26 +1106,26 @@
 </summary>
 
 
-- [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5) ![](assets/new.png)  
-- [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5) ![](assets/new.png)  
-- [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer) ![](assets/new.png)  
-- [2020-06-18-B树、B+树索引算法原理（上）](https://toutiao.io/k/e7jct8h) ![](assets/new.png)  
-- [2020-06-18-Java-如何实现动态脚本？](https://toutiao.io/k/h92hguk) ![](assets/new.png)  
-- [2020-06-18-Spring-Boot-自适应异常处理](https://toutiao.io/k/eftyi2m) ![](assets/new.png)  
-- [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m) ![](assets/new.png)  
-- [2020-06-18-MongoDB-常用查询操作](https://toutiao.io/k/7x8ovgj) ![](assets/new.png)  
-- [2020-06-18-Linux-服务端最大并发数是多少？](https://toutiao.io/k/dgc8fi2) ![](assets/new.png)  
-- [2020-06-18-DDD-建模的关键字在于-“合”](https://toutiao.io/k/lsi7424) ![](assets/new.png)  
-- [2020-06-18-浅谈面向性能的开发](https://toutiao.io/k/v8zlwiz) ![](assets/new.png)  
-- [2020-06-18-Deno-初探](https://toutiao.io/k/ckm6b2z) ![](assets/new.png)  
-- [2020-06-18-什么？一个核同时执行两个线程？](https://toutiao.io/k/spgo3dj) ![](assets/new.png)  
-- [2020-06-18-基于-Google-protobuf-实现各种数据库操作](https://toutiao.io/k/dkcf6g4) ![](assets/new.png)  
-- [2020-06-18-使用-SSE-2-指令集实现字符串-strtolower](https://toutiao.io/k/hz9llnd) ![](assets/new.png)  
-- [2020-06-18-35-岁以后，在阿里做前端是怎样一种体验](https://toutiao.io/k/x4qlfri) ![](assets/new.png)  
-- [2020-06-18-干掉-GuavaCache：Caffeine-才是本地缓存的王](https://toutiao.io/k/sd22paw) ![](assets/new.png)  
-- [2020-06-18-5-个好用的-Docker-图形化管理工具](https://toutiao.io/k/5kw2gzd) ![](assets/new.png)  
-- [2020-06-18-计算机视觉研究生文献和复现哪个更重要？](https://toutiao.io/k/ymuspke) ![](assets/new.png)  
-- [2020-06-18-iOS-打包发布那些事儿](https://toutiao.io/k/9hnqele) ![](assets/new.png)  
+- [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5)  
+- [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5)  
+- [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer)  
+- [2020-06-18-B树、B+树索引算法原理（上）](https://toutiao.io/k/e7jct8h)  
+- [2020-06-18-Java-如何实现动态脚本？](https://toutiao.io/k/h92hguk)  
+- [2020-06-18-Spring-Boot-自适应异常处理](https://toutiao.io/k/eftyi2m)  
+- [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m)  
+- [2020-06-18-MongoDB-常用查询操作](https://toutiao.io/k/7x8ovgj)  
+- [2020-06-18-Linux-服务端最大并发数是多少？](https://toutiao.io/k/dgc8fi2)  
+- [2020-06-18-DDD-建模的关键字在于-“合”](https://toutiao.io/k/lsi7424)  
+- [2020-06-18-浅谈面向性能的开发](https://toutiao.io/k/v8zlwiz)  
+- [2020-06-18-Deno-初探](https://toutiao.io/k/ckm6b2z)  
+- [2020-06-18-什么？一个核同时执行两个线程？](https://toutiao.io/k/spgo3dj)  
+- [2020-06-18-基于-Google-protobuf-实现各种数据库操作](https://toutiao.io/k/dkcf6g4)  
+- [2020-06-18-使用-SSE-2-指令集实现字符串-strtolower](https://toutiao.io/k/hz9llnd)  
+- [2020-06-18-35-岁以后，在阿里做前端是怎样一种体验](https://toutiao.io/k/x4qlfri)  
+- [2020-06-18-干掉-GuavaCache：Caffeine-才是本地缓存的王](https://toutiao.io/k/sd22paw)  
+- [2020-06-18-5-个好用的-Docker-图形化管理工具](https://toutiao.io/k/5kw2gzd)  
+- [2020-06-18-计算机视觉研究生文献和复现哪个更重要？](https://toutiao.io/k/ymuspke)  
+- [2020-06-18-iOS-打包发布那些事儿](https://toutiao.io/k/9hnqele)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1120,6 +1120,7 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-18-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/ded80e433cc829c1676f449d66cbe370) 
 - [2020-06-17-在滴滴和头条干的这-2-年](https://www.ershicimi.com/p/80d3d8aed91625ca78a990fbbfcf1d9e) 
 - [2020-06-17-这个先写死，后面再改](https://www.ershicimi.com/p/d94bd627a7eafa72935f853e0377f790) 
 - [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe) 

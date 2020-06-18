@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-18 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 10:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -82,6 +82,7 @@
 - [【Vue社区】面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89)
 - [【Vue社区】Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008)
 - [【Vue社区】打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2)
+- [【Vue中文社区】一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2)
 - [【Vue中文社区】Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596)
 - [【Vue中文社区】除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a)
 - [【Vue中文社区】10+个很酷的VueJS组件，模板和实验示例](https://www.ershicimi.com/p/783b0d2163f5d9f638e39a2861d16ce3)
@@ -94,7 +95,6 @@
 - [【Vue中文社区】面试时，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/effa704c961b4123a8e87accf5beaef7)
 - [【Vue中文社区】Vue3-插件开发详解尝鲜版](https://www.ershicimi.com/p/9d2b96263924b24b4ae60388e7da5443)
 - [【Vue中文社区】Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/58f894e3314e63d408a4b5039c536e56)
-- [【前端早读课】【视频】@蒋豪群：聊聊Vue3周边项目](https://www.ershicimi.com/p/8a9913a68fec819cc6e7c65c84264873)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

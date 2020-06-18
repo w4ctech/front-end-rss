@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,10 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1) 
+- [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1) 
+- [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1) 
+- [2020-06-18-北京通报聚集性疫情典型案例：某餐馆7名员工确诊-一人曾去新发地采购](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1) 
 - [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1) 
 - [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1) 
 - [2020-06-17-北京地坛医院本部18日起停止所有门诊、急诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1) 
@@ -4140,6 +4144,10 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-18-技术​选型的艺术](https://toutiao.io/k/dnld4fc) 
+- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议](https://toutiao.io/k/jrx9s2d) 
+- [2020-06-18-Python-为什么推荐蛇形命名法？](https://toutiao.io/k/47q2ffn) 
+- [2020-06-18-独家专访-28-岁退休程序员郭宇：1600-人加好友，问我-“挣了多少钱”](https://toutiao.io/k/onk97wf) 
 - [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5) 
 - [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5) 
 - [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-18 16:30:21，:rocket: 更新条数: +36， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 17:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1) ![](assets/new.png)  
+- [2020-06-18-北京通报聚集性疫情典型案例：某餐馆7名员工确诊-一人曾去新发地采购](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1) ![](assets/new.png)  
 - [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1)  
 - [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1)  
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
@@ -110,10 +114,6 @@
 - [2020-06-17-​天津：严格落实管控措施-市民应坚持随身携带口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1)  
 - [2020-06-17-天津排查新发疫情密切接触者-1217人已完成检测-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1)  
 - [2020-06-17-受新冠肺炎疫情影响，埃及机场损失6.96亿埃镑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivK5vKU6MYFJzlzrCUn1n200617&isfromapp=1)  
-- [2020-06-17-四川新增1例境外输入，无新增本土确诊](https://m.weibo.cn/2803301701/4516724840260928)  
-- [2020-06-17-北京新增31例确诊病例](https://m.weibo.cn/3057540037/4516717625702004)  
-- [2020-06-17-非洲新冠肺炎确诊病例超25万-非洲多国调整抗疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYVBOFMfw0EUYuo9NTlR200617&isfromapp=1)  
-- [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1044,26 +1044,26 @@
 </summary>
 
 
-- [2020-06-18-字节跳动-21-届校招提前批/教育业务/Leader-直推](https://www.v2ex.com/t/682726) ![](assets/new.png)  
-- [2020-06-18-关于狗东的价格保护，](https://www.v2ex.com/t/682723) ![](assets/new.png)  
-- [2020-06-18-来开开关于多篇文档联系可视化的脑洞-分享最近撸的支持公式/代码的思维导图控件](https://www.v2ex.com/t/682722) ![](assets/new.png)  
-- [2020-06-18-出个-8-个月的京东-PLUS-会员。](https://www.v2ex.com/t/682721) ![](assets/new.png)  
-- [2020-06-18-CODING-DevOps-系列第三课：云计算、云原生模式下-DevOps-的建设](https://www.v2ex.com/t/682720) ![](assets/new.png)  
-- [2020-06-18-想入手-Thinkpad-T14-amd，不知道什么时候发售呢](https://www.v2ex.com/t/682719) ![](assets/new.png)  
-- [2020-06-18-车载安卓平板阉割了系统设置菜单，怎么才能给特定-app-开放录音权限呢？](https://www.v2ex.com/t/682718) ![](assets/new.png)  
-- [2020-06-18-想问下有关-vSphere-的-HA-的问题](https://www.v2ex.com/t/682716) ![](assets/new.png)  
-- [2020-06-18-山东淄博-事业单位招聘开发人员-8-15K](https://www.v2ex.com/t/682715) ![](assets/new.png)  
-- [2020-06-18-找工作有点怕怎么破？](https://www.v2ex.com/t/682714) ![](assets/new.png)  
-- [2020-06-18-pandas-相关条件筛选相关，怎么同时对行和列进行条件限定有更好的写法吗](https://www.v2ex.com/t/682713) ![](assets/new.png)  
-- [2020-06-18-广州,-没联通资源,-移动宽带和电信宽带怎么选?](https://www.v2ex.com/t/682712) ![](assets/new.png)  
-- [2020-06-18-华硕-AX86U-路由器新品-DDNS-注册直接提示非法？](https://www.v2ex.com/t/682711) ![](assets/new.png)  
-- [2020-06-18-没用过某音被笑话与时代脱节，大扎怎么看？](https://www.v2ex.com/t/682710) ![](assets/new.png)  
-- [2020-06-18-以后我不会在没有注销功能的平台上注册](https://www.v2ex.com/t/682707) ![](assets/new.png)  
-- [2020-06-18-最近撸了一个-json-格式化工具，大家给点意见](https://www.v2ex.com/t/682706) ![](assets/new.png)  
-- [2020-06-18-datagrip-显示数字为什么会自动在末尾加上一堆-0](https://www.v2ex.com/t/682705) ![](assets/new.png)  
-- [2020-06-18-getuikit.net-怎么了？](https://www.v2ex.com/t/682704) ![](assets/new.png)  
-- [2020-06-18-大佬们，求指点简历](https://www.v2ex.com/t/682703) ![](assets/new.png)  
-- [2020-06-18-问个绿色聊天软件的小问题，怎么像-vx-一样设置电脑在线手机不提醒消息？](https://www.v2ex.com/t/682702) ![](assets/new.png)  
+- [2020-06-18-字节跳动-21-届校招提前批/教育业务/Leader-直推](https://www.v2ex.com/t/682726)  
+- [2020-06-18-关于狗东的价格保护，](https://www.v2ex.com/t/682723)  
+- [2020-06-18-来开开关于多篇文档联系可视化的脑洞-分享最近撸的支持公式/代码的思维导图控件](https://www.v2ex.com/t/682722)  
+- [2020-06-18-出个-8-个月的京东-PLUS-会员。](https://www.v2ex.com/t/682721)  
+- [2020-06-18-CODING-DevOps-系列第三课：云计算、云原生模式下-DevOps-的建设](https://www.v2ex.com/t/682720)  
+- [2020-06-18-想入手-Thinkpad-T14-amd，不知道什么时候发售呢](https://www.v2ex.com/t/682719)  
+- [2020-06-18-车载安卓平板阉割了系统设置菜单，怎么才能给特定-app-开放录音权限呢？](https://www.v2ex.com/t/682718)  
+- [2020-06-18-想问下有关-vSphere-的-HA-的问题](https://www.v2ex.com/t/682716)  
+- [2020-06-18-山东淄博-事业单位招聘开发人员-8-15K](https://www.v2ex.com/t/682715)  
+- [2020-06-18-找工作有点怕怎么破？](https://www.v2ex.com/t/682714)  
+- [2020-06-18-pandas-相关条件筛选相关，怎么同时对行和列进行条件限定有更好的写法吗](https://www.v2ex.com/t/682713)  
+- [2020-06-18-广州,-没联通资源,-移动宽带和电信宽带怎么选?](https://www.v2ex.com/t/682712)  
+- [2020-06-18-华硕-AX86U-路由器新品-DDNS-注册直接提示非法？](https://www.v2ex.com/t/682711)  
+- [2020-06-18-没用过某音被笑话与时代脱节，大扎怎么看？](https://www.v2ex.com/t/682710)  
+- [2020-06-18-以后我不会在没有注销功能的平台上注册](https://www.v2ex.com/t/682707)  
+- [2020-06-18-最近撸了一个-json-格式化工具，大家给点意见](https://www.v2ex.com/t/682706)  
+- [2020-06-18-datagrip-显示数字为什么会自动在末尾加上一堆-0](https://www.v2ex.com/t/682705)  
+- [2020-06-18-getuikit.net-怎么了？](https://www.v2ex.com/t/682704)  
+- [2020-06-18-大佬们，求指点简历](https://www.v2ex.com/t/682703)  
+- [2020-06-18-问个绿色聊天软件的小问题，怎么像-vx-一样设置电脑在线手机不提醒消息？](https://www.v2ex.com/t/682702)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1106,6 +1106,11 @@
 </summary>
 
 
+- [2020-06-18-技术​选型的艺术](https://toutiao.io/k/dnld4fc) ![](assets/new.png)  
+- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议](https://toutiao.io/k/jrx9s2d) ![](assets/new.png)  
+- [2020-06-18-Python-为什么推荐蛇形命名法？](https://toutiao.io/k/47q2ffn) ![](assets/new.png)  
+- [2020-06-18-独家专访-28-岁退休程序员郭宇：1600-人加好友，问我-“挣了多少钱”](https://toutiao.io/k/onk97wf) ![](assets/new.png)  
+- [2020-06-18-译-React-开发者常见的-3-个错误](https://toutiao.io/k/rbk4ha8) ![](assets/new.png)  
 - [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5)  
 - [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5)  
 - [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer)  
@@ -1121,11 +1126,6 @@
 - [2020-06-18-什么？一个核同时执行两个线程？](https://toutiao.io/k/spgo3dj)  
 - [2020-06-18-基于-Google-protobuf-实现各种数据库操作](https://toutiao.io/k/dkcf6g4)  
 - [2020-06-18-使用-SSE-2-指令集实现字符串-strtolower](https://toutiao.io/k/hz9llnd)  
-- [2020-06-18-35-岁以后，在阿里做前端是怎样一种体验](https://toutiao.io/k/x4qlfri)  
-- [2020-06-18-干掉-GuavaCache：Caffeine-才是本地缓存的王](https://toutiao.io/k/sd22paw)  
-- [2020-06-18-5-个好用的-Docker-图形化管理工具](https://toutiao.io/k/5kw2gzd)  
-- [2020-06-18-计算机视觉研究生文献和复现哪个更重要？](https://toutiao.io/k/ymuspke)  
-- [2020-06-18-iOS-打包发布那些事儿](https://toutiao.io/k/9hnqele)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

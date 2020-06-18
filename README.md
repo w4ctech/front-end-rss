@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-18 10:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-18 11:30:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1) ![](assets/new.png)  
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
 - [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1)  
 - [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-17-非洲新冠肺炎确诊病例超25万-非洲多国调整抗疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYVBOFMfw0EUYuo9NTlR200617&isfromapp=1)  
 - [2020-06-17-世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1)  
 - [2020-06-17-受疫情影响-埃及失业人数上升-预计年底或达120万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1)  
-- [2020-06-16-北京要时刻保持战时状态](https://m.weibo.cn/2656274875/4516573139870619)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,8 +146,8 @@
 </summary>
 
 
-- [2020-06-18-一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2) ![](assets/new.png)  
-- [2020-06-18-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/ded80e433cc829c1676f449d66cbe370) ![](assets/new.png)  
+- [2020-06-18-一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2)  
+- [2020-06-18-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/ded80e433cc829c1676f449d66cbe370)  
 - [2020-06-17-在滴滴和头条干的这-2-年](https://www.ershicimi.com/p/80d3d8aed91625ca78a990fbbfcf1d9e)  
 - [2020-06-17-这个先写死，后面再改](https://www.ershicimi.com/p/d94bd627a7eafa72935f853e0377f790)  
 - [2020-06-16-Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596)  
@@ -1106,26 +1106,26 @@
 </summary>
 
 
-- [2020-06-17-视频-HR-问你离职的原因是什么？你会怎么回答？](https://toutiao.io/k/ymkzz2s)  
-- [2020-06-17-使用拦截器统一处理异常](https://toutiao.io/k/vbdwmd1)  
-- [2020-06-17-薅了几个云厂商的羊毛后，我该如何利用它们来组建-k3s-集群？](https://toutiao.io/k/pe9w1rl)  
-- [2020-06-17-开发框架文档体系化的思考](https://toutiao.io/k/vuqfwvv)  
-- [2020-06-17-面试又挂了，只因问了：TCP-三次握手和四次挥手](https://toutiao.io/k/dcrc1jq)  
-- [2020-06-17-现代-C++：一文读懂智能指针](https://toutiao.io/k/yzbebz0)  
-- [2020-06-17-容器化囧途：没上容器时好好的？](https://toutiao.io/k/349zwjo)  
-- [2020-06-17-震惊！ConcurrentHashMap-里面也有死循环，作者留下的-“彩蛋”-了解一下？](https://toutiao.io/k/b6xktn4)  
-- [2020-06-17-cntopic-库：支持中英文-LDA-话题分析](https://toutiao.io/k/tdywelh)  
-- [2020-06-17-一个资深的-Android-是不是应该学会自己做一个超级的-RecyclerView.Adapter](https://toutiao.io/k/h0wbrb3)  
-- [2020-06-17-WMI-攻击与安全防御](https://toutiao.io/k/vqxv819)  
-- [2020-06-17-如何推动基础架构项目落地](https://toutiao.io/k/flymqm6)  
-- [2020-06-17-怒肝俩月，新鲜出炉史上最有趣的-Java-小白手册（第一版）](https://toutiao.io/k/3jx74ep)  
-- [2020-06-17-译-数据中心-Fabric：Facebook-的下一代数据中心网络-2014](https://toutiao.io/k/s11y2j7)  
-- [2020-06-17-Go：内存管理和分配](https://toutiao.io/k/aoin8od)  
-- [2020-06-17-记一次-ab-压测出现错误的原因分析](https://toutiao.io/k/0fgr9sj)  
-- [2020-06-17-Java-面试题全梳理](https://toutiao.io/k/cdg6vt8)  
-- [2020-06-17-AMQP-协议学习](https://toutiao.io/k/4gcv6gj)  
-- [2020-06-17-Streaming-SQL-在贝壳的演进之路](https://toutiao.io/k/t3j5i90)  
-- [2020-06-17-译-Android-11-Beta-版正式发布！以及众多面向开发者的重磅更新](https://toutiao.io/k/v08a9j2)  
+- [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5) ![](assets/new.png)  
+- [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5) ![](assets/new.png)  
+- [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer) ![](assets/new.png)  
+- [2020-06-18-B树、B+树索引算法原理（上）](https://toutiao.io/k/e7jct8h) ![](assets/new.png)  
+- [2020-06-18-Java-如何实现动态脚本？](https://toutiao.io/k/h92hguk) ![](assets/new.png)  
+- [2020-06-18-Spring-Boot-自适应异常处理](https://toutiao.io/k/eftyi2m) ![](assets/new.png)  
+- [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m) ![](assets/new.png)  
+- [2020-06-18-MongoDB-常用查询操作](https://toutiao.io/k/7x8ovgj) ![](assets/new.png)  
+- [2020-06-18-Linux-服务端最大并发数是多少？](https://toutiao.io/k/dgc8fi2) ![](assets/new.png)  
+- [2020-06-18-DDD-建模的关键字在于-“合”](https://toutiao.io/k/lsi7424) ![](assets/new.png)  
+- [2020-06-18-浅谈面向性能的开发](https://toutiao.io/k/v8zlwiz) ![](assets/new.png)  
+- [2020-06-18-Deno-初探](https://toutiao.io/k/ckm6b2z) ![](assets/new.png)  
+- [2020-06-18-什么？一个核同时执行两个线程？](https://toutiao.io/k/spgo3dj) ![](assets/new.png)  
+- [2020-06-18-基于-Google-protobuf-实现各种数据库操作](https://toutiao.io/k/dkcf6g4) ![](assets/new.png)  
+- [2020-06-18-使用-SSE-2-指令集实现字符串-strtolower](https://toutiao.io/k/hz9llnd) ![](assets/new.png)  
+- [2020-06-18-35-岁以后，在阿里做前端是怎样一种体验](https://toutiao.io/k/x4qlfri) ![](assets/new.png)  
+- [2020-06-18-干掉-GuavaCache：Caffeine-才是本地缓存的王](https://toutiao.io/k/sd22paw) ![](assets/new.png)  
+- [2020-06-18-5-个好用的-Docker-图形化管理工具](https://toutiao.io/k/5kw2gzd) ![](assets/new.png)  
+- [2020-06-18-计算机视觉研究生文献和复现哪个更重要？](https://toutiao.io/k/ymuspke) ![](assets/new.png)  
+- [2020-06-18-iOS-打包发布那些事儿](https://toutiao.io/k/9hnqele) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

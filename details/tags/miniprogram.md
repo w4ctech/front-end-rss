@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-18 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-18 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -86,6 +86,7 @@
 - [2020-05-29-请教一下，现在微信公众号（企业号）认证后，小程序能复用认证吗？](https://www.v2ex.com/t/676834) 
 - [2020-05-29-分享一个方便查看动森服装设计码的小程序](https://www.v2ex.com/t/676739) 
 - [2020-05-29-开源-小程序联系客服-UI-组件库](https://www.v2ex.com/t/676529) 
+- [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m) 
 - [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f) 
 - [2020-06-09-Lin-UI：一套设计精良的微信小程序组件库](https://toutiao.io/k/48bjki8) 
 - [2020-06-01-TensorFlow.js-微信小程序插件开始支持-WebAssembly](https://toutiao.io/k/xmtgeru) 

@@ -5317,6 +5317,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "墨西哥新增4930例新冠肺炎确诊病例 累计确诊159793例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1",
+        "date": "2020-06-18"
+      },
+      {
         "title": "截至6月17日24时新型冠状病毒肺炎疫情最新情况",
         "link": "http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml",
         "date": "2020-06-18"
@@ -28979,6 +28984,106 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "推荐一种通过刷 LeetCode 来增强技术功底的方法",
+        "link": "https://toutiao.io/k/au82me5",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "前端实践：像素级同步、低延时、超低流量的屏幕共享工具 Syncit",
+        "link": "https://toutiao.io/k/l6ypoc5",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "AV1、H.265 与 Janus 的爱恨情仇（三）",
+        "link": "https://toutiao.io/k/znjaqer",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "B树、B+树索引算法原理（上）",
+        "link": "https://toutiao.io/k/e7jct8h",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "Java 如何实现动态脚本？",
+        "link": "https://toutiao.io/k/h92hguk",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "Spring Boot 自适应异常处理",
+        "link": "https://toutiao.io/k/eftyi2m",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "滴滴出行小程序体积优化实践",
+        "link": "https://toutiao.io/k/n8vij4m",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "MongoDB 常用查询操作",
+        "link": "https://toutiao.io/k/7x8ovgj",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "Linux 服务端最大并发数是多少？",
+        "link": "https://toutiao.io/k/dgc8fi2",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "DDD 建模的关键字在于 “合”",
+        "link": "https://toutiao.io/k/lsi7424",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "浅谈面向性能的开发",
+        "link": "https://toutiao.io/k/v8zlwiz",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "Deno 初探",
+        "link": "https://toutiao.io/k/ckm6b2z",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "什么？一个核同时执行两个线程？",
+        "link": "https://toutiao.io/k/spgo3dj",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "基于 Google protobuf 实现各种数据库操作",
+        "link": "https://toutiao.io/k/dkcf6g4",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "使用 SSE 2 指令集实现字符串 strtolower",
+        "link": "https://toutiao.io/k/hz9llnd",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "35 岁以后，在阿里做前端是怎样一种体验",
+        "link": "https://toutiao.io/k/x4qlfri",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "干掉 GuavaCache：Caffeine 才是本地缓存的王",
+        "link": "https://toutiao.io/k/sd22paw",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "5 个好用的 Docker 图形化管理工具",
+        "link": "https://toutiao.io/k/5kw2gzd",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "计算机视觉研究生文献和复现哪个更重要？",
+        "link": "https://toutiao.io/k/ymuspke",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "iOS 打包发布那些事儿",
+        "link": "https://toutiao.io/k/9hnqele",
+        "date": "2020-06-18"
+      },
       {
         "title": "[视频] HR 问你离职的原因是什么？你会怎么回答？",
         "link": "https://toutiao.io/k/ymkzz2s",

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 02:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -673,6 +673,7 @@
 </summary>
 
 
+- [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html) ![](assets/new.png)  
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
@@ -919,11 +920,11 @@
 </summary>
 
 
-- [2020-06-18-HTML核心系列1之DTD与实体](https://juejin.im/post/5eeb8291f265da02e12b9f58) ![](assets/new.png)  
-- [2020-06-18-你不知道的JS系列——异步和回调](https://juejin.im/post/5eeb2e52518825658d0347b8) ![](assets/new.png)  
-- [2020-06-18-你不知道的javascript（上）第三章对象读书笔记](https://juejin.im/post/5eeb1a106fb9a0586d71ce11) ![](assets/new.png)  
-- [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48) ![](assets/new.png)  
-- [2020-06-18-P1攻城狮的江湖总结-项目篇](https://juejin.im/post/5eeb2a4351882565d0291474) ![](assets/new.png)  
+- [2020-06-18-HTML核心系列1之DTD与实体](https://juejin.im/post/5eeb8291f265da02e12b9f58)  
+- [2020-06-18-你不知道的JS系列——异步和回调](https://juejin.im/post/5eeb2e52518825658d0347b8)  
+- [2020-06-18-你不知道的javascript（上）第三章对象读书笔记](https://juejin.im/post/5eeb1a106fb9a0586d71ce11)  
+- [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48)  
+- [2020-06-18-P1攻城狮的江湖总结-项目篇](https://juejin.im/post/5eeb2a4351882565d0291474)  
 - [2020-06-17-生命在于折腾！这些桌面好物提升你的搬砖幸福度](https://juejin.im/post/5ee9fca5f265da02d3377e38)  
 - [2020-06-17-如何在项目里管理好axios请求与vuex](https://juejin.im/post/5ee9cbcbe51d45742d668390)  
 - [2020-06-17-必备单品，FSearch](https://juejin.im/post/5ee9d1c0f265da028f535ff1)  

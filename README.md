@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 17:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 17:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,8 +94,11 @@
 </summary>
 
 
-- [2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物-不建议食用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1)  
+- [2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1)  
 - [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1)  
 - [2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1)  
 - [2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1)  
 - [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1)  
 - [2020-06-18-北京通报聚集性疫情典型案例：某餐馆7名员工确诊-一人曾去新发地采购](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1)  
-- [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1)  
-- [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1)  
-- [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,7 +468,7 @@
 </summary>
 
 
-- [2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62) ![](assets/new.png)  
+- [2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62)  
 - [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa)  
 - [2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da)  
 - [2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554)  

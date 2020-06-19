@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,9 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1) 
+- [2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1) 
+- [2020-06-19-北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物-不建议食用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1) 
 - [2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1) 
 - [2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1) 
 - [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1) 

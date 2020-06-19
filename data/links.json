@@ -5317,6 +5317,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "专家：建议低风险地区电影院看电影不要超过2小时",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "受疫情影响 泰国出台“助农计划”向400万农户提供560亿泰铢补助",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
         "title": "吴尊友：新发地发生疫情很蹊跷 病毒并非源于北京",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1",
         "date": "2020-06-19"
@@ -9234,6 +9244,11 @@
     "title": "全栈前端精选",
     "link": "https://www.ershicimi.com/a/9323",
     "items": [
+      {
+        "title": "总结18个webpack插件，总会有你想要的！",
+        "link": "https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62",
+        "date": "2020-06-19"
+      },
       {
         "title": "前端职业规划 - 写给年轻的前端韭菜们",
         "link": "https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa",

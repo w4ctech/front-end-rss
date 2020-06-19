@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 14:30:20，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 17:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,11 +94,13 @@
 </summary>
 
 
-- [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-美国最大院线集团7月开始开放影城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE35DX7V6ZL8D6HBH8HIU200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-日本19日全面放宽国内跨县移动限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1)  
+- [2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1)  
+- [2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1)  
+- [2020-06-19-美国最大院线集团7月开始开放影城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE35DX7V6ZL8D6HBH8HIU200619&isfromapp=1)  
+- [2020-06-19-日本19日全面放宽国内跨县移动限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1)  
 - [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492)  
 - [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
 - [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-18-北京：暂停出租车、顺风车出京运营业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1)  
 - [2020-06-18-墨西哥新增4930例新冠肺炎确诊病例-累计确诊159793例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1)  
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
-- [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1)  
-- [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,6 +468,7 @@
 </summary>
 
 
+- [2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62) ![](assets/new.png)  
 - [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa)  
 - [2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da)  
 - [2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554)  
@@ -487,7 +488,6 @@
 - [2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57)  
 - [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da)  
 - [2020-06-04-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7)  
-- [2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,26 +1107,26 @@
 </summary>
 
 
-- [2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr) ![](assets/new.png)  
-- [2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2) ![](assets/new.png)  
-- [2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix) ![](assets/new.png)  
-- [2020-06-19-Spring-Boot-构建-Docker-镜像的-3-种方式](https://toutiao.io/k/56fittd) ![](assets/new.png)  
-- [2020-06-19-我终于搞清了啥是-HTTPS-了](https://toutiao.io/k/rdxllye) ![](assets/new.png)  
-- [2020-06-19-开域聊天机器人技术介绍（现实篇）](https://toutiao.io/k/oj3w1bx) ![](assets/new.png)  
-- [2020-06-19-架构师该如何为应用选择合适的-API](https://toutiao.io/k/hjbjv8b) ![](assets/new.png)  
-- [2020-06-19-漫谈分布式系统（十七）：决战-Shuffle](https://toutiao.io/k/tw669e7) ![](assets/new.png)  
-- [2020-06-19-从行存储到-RCFile，Facebook-为什么要设计出-RCFile？](https://toutiao.io/k/0vm8xqr) ![](assets/new.png)  
-- [2020-06-19-教会-AI-认识麻将牌（实践篇）](https://toutiao.io/k/q61jy5u) ![](assets/new.png)  
-- [2020-06-19-读《春夜十话，数学与情绪》](https://toutiao.io/k/321o94i) ![](assets/new.png)  
-- [2020-06-19-需求变化的应对之道](https://toutiao.io/k/0cl1dpi) ![](assets/new.png)  
-- [2020-06-19-玩归玩，闹归闹，别拿抽奖开玩笑](https://toutiao.io/k/t4vcq6f) ![](assets/new.png)  
-- [2020-06-19-花椒-Android-客户端多变体构建实践](https://toutiao.io/k/hu5zavv) ![](assets/new.png)  
-- [2020-06-19-CTR-预估模型中的正负样本问题](https://toutiao.io/k/a5856dg) ![](assets/new.png)  
-- [2020-06-19-Spring-WEB-系列：静态资源配置与读取](https://toutiao.io/k/zo77itv) ![](assets/new.png)  
-- [2020-06-19-一时技痒，撸了个动态线程池，源码放-GitHub了](https://toutiao.io/k/klwihj1) ![](assets/new.png)  
-- [2020-06-19-搞定微服务线上生命周期管理，同时发布上千个服务节点不是事儿](https://toutiao.io/k/mexs924) ![](assets/new.png)  
-- [2020-06-19-学习-Redux-源码整体架构，深入理解-Redux-及其中间件原理](https://toutiao.io/k/dp8lxbf) ![](assets/new.png)  
-- [2020-06-19-Spring-异步实现原理与实战分享](https://toutiao.io/k/35kxh20) ![](assets/new.png)  
+- [2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr)  
+- [2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2)  
+- [2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix)  
+- [2020-06-19-Spring-Boot-构建-Docker-镜像的-3-种方式](https://toutiao.io/k/56fittd)  
+- [2020-06-19-我终于搞清了啥是-HTTPS-了](https://toutiao.io/k/rdxllye)  
+- [2020-06-19-开域聊天机器人技术介绍（现实篇）](https://toutiao.io/k/oj3w1bx)  
+- [2020-06-19-架构师该如何为应用选择合适的-API](https://toutiao.io/k/hjbjv8b)  
+- [2020-06-19-漫谈分布式系统（十七）：决战-Shuffle](https://toutiao.io/k/tw669e7)  
+- [2020-06-19-从行存储到-RCFile，Facebook-为什么要设计出-RCFile？](https://toutiao.io/k/0vm8xqr)  
+- [2020-06-19-教会-AI-认识麻将牌（实践篇）](https://toutiao.io/k/q61jy5u)  
+- [2020-06-19-读《春夜十话，数学与情绪》](https://toutiao.io/k/321o94i)  
+- [2020-06-19-需求变化的应对之道](https://toutiao.io/k/0cl1dpi)  
+- [2020-06-19-玩归玩，闹归闹，别拿抽奖开玩笑](https://toutiao.io/k/t4vcq6f)  
+- [2020-06-19-花椒-Android-客户端多变体构建实践](https://toutiao.io/k/hu5zavv)  
+- [2020-06-19-CTR-预估模型中的正负样本问题](https://toutiao.io/k/a5856dg)  
+- [2020-06-19-Spring-WEB-系列：静态资源配置与读取](https://toutiao.io/k/zo77itv)  
+- [2020-06-19-一时技痒，撸了个动态线程池，源码放-GitHub了](https://toutiao.io/k/klwihj1)  
+- [2020-06-19-搞定微服务线上生命周期管理，同时发布上千个服务节点不是事儿](https://toutiao.io/k/mexs924)  
+- [2020-06-19-学习-Redux-源码整体架构，深入理解-Redux-及其中间件原理](https://toutiao.io/k/dp8lxbf)  
+- [2020-06-19-Spring-异步实现原理与实战分享](https://toutiao.io/k/35kxh20)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

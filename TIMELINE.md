@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-19 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1) 
@@ -704,6 +706,7 @@
 - [【前端迷】2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) 
 - [【前端迷】2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62) 
 - [【全栈前端精选】2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa) 
 - [【全栈前端精选】2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da) 
 - [【全栈前端精选】2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554) 

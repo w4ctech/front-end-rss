@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-19 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -151,6 +151,7 @@
 - [【前端开发】揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799)
 - [【前端开发博客】webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320)
 - [【前端之巅】打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f)
+- [【全栈前端精选】总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62)
 - [【全栈前端精选】「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7)
 - [【前端宇宙】是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/b3b5e5fd453bfbd05d914af154bd502f)
 - [【程序员成长指北】npx-使用教程](https://www.ershicimi.com/p/873b13318367de54dd65eb4798783acb)
@@ -166,7 +167,6 @@
 - [【掘金前端】从零学习webpack4.0模块打包工具](https://juejin.im/post/5ee4bdb3f265da76ee1f65a5)
 - [【掘金前端】如何提升-Webpack-打包速度](https://juejin.im/post/5edf02ace51d457b3e77ed7c)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【V2EX】Dcat-Admin-v1.5.0-发布，高颜值后台系统构建工具，新增全新暗黑模式主题](https://www.v2ex.com/t/681578)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

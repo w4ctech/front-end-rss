@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -11,6 +11,7 @@
 - [2020-03-02-刑满释放者自汉返京确诊事件续：湖北司法厅长等16人受处分](http://china.caixin.com/2020-03-02/101523043.html) 
 - [2020-01-24-WHO决定不将新冠肺炎疫情定性为国际突发公共卫生事件](http://international.caixin.com/2020-01-24/101507977.html) 
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](http://www.caixin.com/2020-01-23/101507521.html) 
+- [2020-06-19-3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4) 
 - [2020-06-03-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d37cc6afd558bacb0d8ca2c7168c4f0d) 
 - [2020-06-01-十个超级实用的-ES6-特性](https://www.ershicimi.com/p/9845e887c0a78745192e971623536397) 
 - [2020-05-28-收藏吧-|-JavaScript工具函数大全](https://www.ershicimi.com/p/9a18fb12a95b6deea42949ae548b83fe) 

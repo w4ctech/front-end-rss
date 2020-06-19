@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 10:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-06-19-3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4) ![](assets/new.png)  
+- [2020-06-19-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/d13e22a43a590207083d1dc2bde5f93b) ![](assets/new.png)  
 - [2020-06-18-一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2)  
 - [2020-06-18-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/ded80e433cc829c1676f449d66cbe370)  
 - [2020-06-17-在滴滴和头条干的这-2-年](https://www.ershicimi.com/p/80d3d8aed91625ca78a990fbbfcf1d9e)  
@@ -164,8 +166,6 @@
 - [2020-06-11-10个宝藏网站，你一定用的上](https://www.ershicimi.com/p/693c60c8477b33f1f9bc85fd78bc748b)  
 - [2020-06-10-Vue最佳实践，你能举一反三么？](https://www.ershicimi.com/p/c7de578c101f79a8ca81ecb98938e32e)  
 - [2020-06-10-前端工程师如何处理10万条数据](https://www.ershicimi.com/p/b2a61184e9aeaff82d39661a22663588)  
-- [2020-06-09-蒋豪群:-聊聊Vue3-周边配套](https://www.ershicimi.com/p/238a2692041b19c4d8f70b2ab1a63029)  
-- [2020-06-09-用好这7个VS-Code插件，效率蹭蹭涨](https://www.ershicimi.com/p/590d124690aa4dbda3b13898dba721f4)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -673,7 +673,7 @@
 </summary>
 
 
-- [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html) ![](assets/new.png)  
+- [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  

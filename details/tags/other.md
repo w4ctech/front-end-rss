@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1581,6 +1581,7 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-19-最直白的告白-树的遍历BFS和DFS](https://juejin.im/post/5eeb8c32f265da02b4614e18) 
 - [2020-06-18-HTML核心系列1之DTD与实体](https://juejin.im/post/5eeb8291f265da02e12b9f58) 
 - [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48) 
 - [2020-06-18-P1攻城狮的江湖总结-项目篇](https://juejin.im/post/5eeb2a4351882565d0291474) 
@@ -4171,6 +4172,7 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-19-从-301-跳转，聊聊边缘规则的那些小妙用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13534&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F149137612%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13533&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147814759%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-17-写一手烂代码的-19-条准则，你中枪了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13531&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHkhhVmVMdjcleWTsaAwarQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

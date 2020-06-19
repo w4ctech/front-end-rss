@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -45,6 +45,7 @@
 - [2020-05-29-6-个实用的-Code-Review-实践技巧](https://www.ershicimi.com/p/750ee7d3cc3b512e073611c653a1f94b) 
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2020-05-31-一文让你彻底搞懂-WebSocket-的原理](https://www.ershicimi.com/p/5d970232d91b0533d2d0e23d13067cb7) 
+- [2020-06-19-客户端缓存（http缓存和本地缓存）](https://juejin.im/post/5eeaa639f265da02ee5ee7cf) 
 - [2020-06-16-前端架构-101（五）：从-Flux-进化到-Model-View-Presenter](https://juejin.im/post/5ee8dbfc5188251fe83931c3) 
 - [2020-06-12-如何计算浏览器的-localStorage-容量？](https://juejin.im/post/5ee336daf265da76da29eee0) 
 - [2020-06-12-Angular-HttpClient-30分钟轻松上手](https://juejin.im/post/5ee344586fb9a0479673478e) 

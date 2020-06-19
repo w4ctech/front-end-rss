@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 21:00:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 22:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1)  
+- [2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1)  
 - [2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1)  
 - [2020-06-19-英国新冠肺炎疫情警报级别从四级降到三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKlAGSQbZhLX5P7ktPh7f200619&isfromapp=1)  
 - [2020-06-19-加纳卫生部副部长：中国捐赠帮助加方解了燃眉之急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9jsZ2f7OJDTyz8ELnNne200619&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492)  
 - [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
 - [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
-- [2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1)  
-- [2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-06-19-涉及金钱存储或计算操作时，你们一般都使用什么数据类型](https://www.v2ex.com/t/683167) ![](assets/new.png)  
-- [2020-06-19-东方航空推出周末随心飞](https://www.v2ex.com/t/683166) ![](assets/new.png)  
-- [2020-06-19-现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164) ![](assets/new.png)  
-- [2020-06-19-大家在-mac-上都用什么-git-客户端](https://www.v2ex.com/t/683163) ![](assets/new.png)  
-- [2020-06-19-Golang-定时器底层实现深度剖析](https://www.v2ex.com/t/683162) ![](assets/new.png)  
-- [2020-06-19-Mac-自动更换壁纸的软件](https://www.v2ex.com/t/683161) ![](assets/new.png)  
-- [2020-06-19-深圳腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683160) ![](assets/new.png)  
-- [2020-06-19-因机场多次切断到-Spotify-AP-的长连接，-Spotify-PC-端频繁离线重连，有人遇到类似情况吗](https://www.v2ex.com/t/683159) ![](assets/new.png)  
-- [2020-06-19-请问-2020-款-mac-mini-能带两个-4k-吗？](https://www.v2ex.com/t/683158) ![](assets/new.png)  
-- [2020-06-19-做运维的是不是都有这把锤子](https://www.v2ex.com/t/683156) ![](assets/new.png)  
-- [2020-06-19-小白想要学习编程](https://www.v2ex.com/t/683155) ![](assets/new.png)  
-- [2020-06-19-某些算法是不是比毒药更厉害呢？](https://www.v2ex.com/t/683154) ![](assets/new.png)  
-- [2020-06-19-这个漏光是翻车了吗](https://www.v2ex.com/t/683153) ![](assets/new.png)  
-- [2020-06-19-武汉-北京-新炬网络-招聘-Oracle-DBA](https://www.v2ex.com/t/683152) ![](assets/new.png)  
-- [2020-06-19-大家分享一下自己的炒股经验呗。这是一个技术分享贴](https://www.v2ex.com/t/683151) ![](assets/new.png)  
-- [2020-06-19-VSCODE-右下角的同步按钮到底执行了哪些命令？](https://www.v2ex.com/t/683148) ![](assets/new.png)  
-- [2020-06-19-安卓点击分享的时候如何屏蔽某些软件？](https://www.v2ex.com/t/683147) ![](assets/new.png)  
-- [2020-06-19-前端向-突然发现-之前很火的-service-worker-淘宝，腾讯好像都下掉了，-why](https://www.v2ex.com/t/683146) ![](assets/new.png)  
-- [2020-06-19-发现导航---一个非常强大的静态导航网站](https://www.v2ex.com/t/683144) ![](assets/new.png)  
-- [2020-06-19-Adobe-回应终止支持-Flash：中国大陆地区将继续发行维护](https://www.v2ex.com/t/683142) ![](assets/new.png)  
+- [2020-06-19-涉及金钱存储或计算操作时，你们一般都使用什么数据类型](https://www.v2ex.com/t/683167)  
+- [2020-06-19-东方航空推出周末随心飞](https://www.v2ex.com/t/683166)  
+- [2020-06-19-现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164)  
+- [2020-06-19-大家在-mac-上都用什么-git-客户端](https://www.v2ex.com/t/683163)  
+- [2020-06-19-Golang-定时器底层实现深度剖析](https://www.v2ex.com/t/683162)  
+- [2020-06-19-Mac-自动更换壁纸的软件](https://www.v2ex.com/t/683161)  
+- [2020-06-19-深圳腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683160)  
+- [2020-06-19-因机场多次切断到-Spotify-AP-的长连接，-Spotify-PC-端频繁离线重连，有人遇到类似情况吗](https://www.v2ex.com/t/683159)  
+- [2020-06-19-请问-2020-款-mac-mini-能带两个-4k-吗？](https://www.v2ex.com/t/683158)  
+- [2020-06-19-做运维的是不是都有这把锤子](https://www.v2ex.com/t/683156)  
+- [2020-06-19-小白想要学习编程](https://www.v2ex.com/t/683155)  
+- [2020-06-19-某些算法是不是比毒药更厉害呢？](https://www.v2ex.com/t/683154)  
+- [2020-06-19-这个漏光是翻车了吗](https://www.v2ex.com/t/683153)  
+- [2020-06-19-武汉-北京-新炬网络-招聘-Oracle-DBA](https://www.v2ex.com/t/683152)  
+- [2020-06-19-大家分享一下自己的炒股经验呗。这是一个技术分享贴](https://www.v2ex.com/t/683151)  
+- [2020-06-19-VSCODE-右下角的同步按钮到底执行了哪些命令？](https://www.v2ex.com/t/683148)  
+- [2020-06-19-安卓点击分享的时候如何屏蔽某些软件？](https://www.v2ex.com/t/683147)  
+- [2020-06-19-前端向-突然发现-之前很火的-service-worker-淘宝，腾讯好像都下掉了，-why](https://www.v2ex.com/t/683146)  
+- [2020-06-19-发现导航---一个非常强大的静态导航网站](https://www.v2ex.com/t/683144)  
+- [2020-06-19-Adobe-回应终止支持-Flash：中国大陆地区将继续发行维护](https://www.v2ex.com/t/683142)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

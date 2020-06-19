@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-19 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,6 +41,7 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591) 
 - [2020-06-03-IntelliJ-IDEA-调试技巧，比-Eclipse-强太多了！](https://www.ershicimi.com/p/bd9979397de90f51c1a323104da0085b) 
+- [2020-06-19-人力投入少-10-倍、一年节省五千个工时：苏宁-Web-应用与-Client-应用系统的自动交互实践](https://www.ershicimi.com/p/d5a07a6c093fb2cb3ec611acace6ccc8) 
 - [2020-06-18-Deno-是代码的浏览器](https://www.ershicimi.com/p/1cbf61e0f0228d1cf7d00ad73714c5c6) 
 - [2020-05-29-6-个实用的-Code-Review-实践技巧](https://www.ershicimi.com/p/750ee7d3cc3b512e073611c653a1f94b) 
 - [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 

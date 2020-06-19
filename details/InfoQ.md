@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-06-19 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1) 
+- [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657) 
+- [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c) 
+- [2020-06-19-开发者注意！想让你的小程序地图也做到微信原生般流畅体验吗？|-Q推荐](https://www.ershicimi.com/p/fcb27b142a54ce4605c11eb9b543662b) 
+- [2020-06-19-人力投入少-10-倍、一年节省五千个工时：苏宁-Web-应用与-Client-应用系统的自动交互实践](https://www.ershicimi.com/p/d5a07a6c093fb2cb3ec611acace6ccc8) 
 - [2020-06-18-港交所上市，京东走入后刘强东时代](https://www.ershicimi.com/p/ac9d632eaaf32db6759635abb68c8e44) 
 - [2020-06-18-够强大，才出“粽”，写作平台给你发“粽子”啦！|-InfoQ写作平台特别企划](https://www.ershicimi.com/p/8a9aa187ff0caf20b7368475dc52f4f2) 
 - [2020-06-18-AWS-打造容器服务体系，Amazon-EKS-这块拼图有多重要？](https://www.ershicimi.com/p/f549632043da086d519b4d433410eba0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 21:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -49,6 +49,7 @@
 - [2020-06-09-想要试试Electron-，不如看看这篇爬坑总结](https://juejin.im/post/5ede23c6e51d45783f11023d) 
 - [2020-06-07-ArcBlock-正在热招-Node.js-全栈工程师](https://juejin.im/post/5edd7576518825365d47e971) 
 - [2020-06-03-electron打包你的h5应用成桌面应用](https://juejin.im/post/5ed640cc6fb9a0479c56d271) 
+- [2020-06-19-思考：下一代-electron-何时到来？](https://www.v2ex.com/t/683129) 
 - [2020-06-19-如何以-Node.js-方式编写单例](https://www.v2ex.com/t/682948) 
 - [2020-06-19-请教-node.js-启动外部程序后的回收问题](https://www.v2ex.com/t/682927) 
 - [2020-06-18-想到一个问题，在-k8s-上使用-dns-负载均衡域名解析到多个-node-公网-IP有帮助吗？](https://www.v2ex.com/t/682839) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 21:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -164,6 +164,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-19-前端向-突然发现-之前很火的-service-worker-淘宝，腾讯好像都下掉了，-why](https://www.v2ex.com/t/683146) 
 - [2020-06-18-如果网速慢-真有可能是路由器不行了-而不是网速的问题](https://www.v2ex.com/t/682833) 
 - [2020-06-18-华硕-AX86U-路由器新品-DDNS-注册直接提示非法？](https://www.v2ex.com/t/682711) 
 - [2020-06-18-最近撸了一个-json-格式化工具，大家给点意见](https://www.v2ex.com/t/682706) 

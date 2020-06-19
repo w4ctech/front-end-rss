@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-19 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 21:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -585,6 +585,7 @@
 - [【互联网架构师】Redis+Nginx+设计模式+Spring全家桶+Dubbo+阿里P8技术精选文档](https://www.ershicimi.com/p/579ee8a1d9d2888c45c4d75fc9d0b385)
 - [【互联网架构师】如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)
 - [【InfoQ】用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)
+- [【V2EX】现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164)
 - [【V2EX】有没有用过-Docker-Engine-API-的弟兄～问一个小问题](https://www.v2ex.com/t/682471)
 - [【V2EX】请教一个-iptables-相关问题，关于本机端口映射到-Docker-容器端口的疑惑](https://www.v2ex.com/t/682414)
 - [【V2EX】nginx-求助，反向代理-error.log-里不报错，但结果一直是-400](https://www.v2ex.com/t/681996)
@@ -598,7 +599,6 @@
 - [【V2EX】grpc-主要用来作什么？](https://www.v2ex.com/t/677466)
 - [【V2EX】OpenResty-持续运行内存不会回收](https://www.v2ex.com/t/677203)
 - [【V2EX】请问可以在-docker-Linux-上开发-c/c++吗？](https://www.v2ex.com/t/677181)
-- [【V2EX】docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

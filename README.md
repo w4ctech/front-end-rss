@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 20:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 21:00:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1) ![](assets/new.png)  
 - [2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1)  
 - [2020-06-19-英国新冠肺炎疫情警报级别从四级降到三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKlAGSQbZhLX5P7ktPh7f200619&isfromapp=1)  
 - [2020-06-19-加纳卫生部副部长：中国捐赠帮助加方解了燃眉之急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9jsZ2f7OJDTyz8ELnNne200619&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
 - [2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1)  
 - [2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1)  
-- [2020-06-18-天津第-137-例病例密接者核酸检测大部分完成，目前均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1)  
-- [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -858,11 +858,11 @@
 </summary>
 
 
-- [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1) ![](assets/new.png)  
-- [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657) ![](assets/new.png)  
-- [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c) ![](assets/new.png)  
-- [2020-06-19-开发者注意！想让你的小程序地图也做到微信原生般流畅体验吗？|-Q推荐](https://www.ershicimi.com/p/fcb27b142a54ce4605c11eb9b543662b) ![](assets/new.png)  
-- [2020-06-19-人力投入少-10-倍、一年节省五千个工时：苏宁-Web-应用与-Client-应用系统的自动交互实践](https://www.ershicimi.com/p/d5a07a6c093fb2cb3ec611acace6ccc8) ![](assets/new.png)  
+- [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1)  
+- [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657)  
+- [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c)  
+- [2020-06-19-开发者注意！想让你的小程序地图也做到微信原生般流畅体验吗？|-Q推荐](https://www.ershicimi.com/p/fcb27b142a54ce4605c11eb9b543662b)  
+- [2020-06-19-人力投入少-10-倍、一年节省五千个工时：苏宁-Web-应用与-Client-应用系统的自动交互实践](https://www.ershicimi.com/p/d5a07a6c093fb2cb3ec611acace6ccc8)  
 - [2020-06-18-港交所上市，京东走入后刘强东时代](https://www.ershicimi.com/p/ac9d632eaaf32db6759635abb68c8e44)  
 - [2020-06-18-够强大，才出“粽”，写作平台给你发“粽子”啦！|-InfoQ写作平台特别企划](https://www.ershicimi.com/p/8a9aa187ff0caf20b7368475dc52f4f2)  
 - [2020-06-18-AWS-打造容器服务体系，Amazon-EKS-这块拼图有多重要？](https://www.ershicimi.com/p/f549632043da086d519b4d433410eba0)  
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-06-19-有什么方法能远程获取短信验证码？](https://www.v2ex.com/t/682973)  
-- [2020-06-19-5-年-iOS-开发，半年-React-Native-开发。现寻求一个远程工作机会。](https://www.v2ex.com/t/682971)  
-- [2020-06-19-Chrome-书签自动变成百度网址？](https://www.v2ex.com/t/682970)  
-- [2020-06-19-不懂就问，话说有人想过-sql-的最近一个月具体包含了多少天吗？是固定不变还是根据月份作出相应改变的](https://www.v2ex.com/t/682969)  
-- [2020-06-19-C++-模板-SFINAE-问题](https://www.v2ex.com/t/682968)  
-- [2020-06-19-这算不算职场霸凌，钉钉-618-钉钉程序员女装带货！](https://www.v2ex.com/t/682967)  
-- [2020-06-19-字节跳动-2021-校招提前批内推-面试官和-HR-实时解疑](https://www.v2ex.com/t/682965)  
-- [2020-06-19-工具软件求大佬们推荐](https://www.v2ex.com/t/682964)  
-- [2020-06-19-远程，还是双语邦的云-Team----求小程序程序员](https://www.v2ex.com/t/682963)  
-- [2020-06-19-迫于太菜，闲鱼差点被骗，出售几张市民卡。公司福利给发的，-200-额度，三张，一张-190。](https://www.v2ex.com/t/682961)  
-- [2020-06-19-Oracle-SQL-调优系列之看懂执行计划-explain](https://www.v2ex.com/t/682960)  
-- [2020-06-19-日本-InfiPower-直招软工](https://www.v2ex.com/t/682958)  
-- [2020-06-19-征求电信宽带实惠订购渠道和方案](https://www.v2ex.com/t/682957)  
-- [2020-06-19-产品出个脑图，让开发评估开发时间，各位有遇到这种情况的吗](https://www.v2ex.com/t/682956)  
-- [2020-06-19-大家对于手机分辨率敏感么](https://www.v2ex.com/t/682955)  
-- [2020-06-19-Java-后台开发，经常需要同时运行-8-个左右的-SpringBoot-项目，在-3k-内推荐什么配置](https://www.v2ex.com/t/682954)  
-- [2020-06-19-spring-security，有没有对需要权限控制的-url-存入数据库的实现。](https://www.v2ex.com/t/682953)  
-- [2020-06-19-v2-上居然没有讨论天赐-OS-的？](https://www.v2ex.com/t/682952)  
-- [2020-06-19-大家有了解-Archillect-吗？](https://www.v2ex.com/t/682951)  
-- [2020-06-19-Windows-Terminal-Preview-v1.1.1671.0-发布了](https://www.v2ex.com/t/682950)  
+- [2020-06-19-涉及金钱存储或计算操作时，你们一般都使用什么数据类型](https://www.v2ex.com/t/683167) ![](assets/new.png)  
+- [2020-06-19-东方航空推出周末随心飞](https://www.v2ex.com/t/683166) ![](assets/new.png)  
+- [2020-06-19-现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164) ![](assets/new.png)  
+- [2020-06-19-大家在-mac-上都用什么-git-客户端](https://www.v2ex.com/t/683163) ![](assets/new.png)  
+- [2020-06-19-Golang-定时器底层实现深度剖析](https://www.v2ex.com/t/683162) ![](assets/new.png)  
+- [2020-06-19-Mac-自动更换壁纸的软件](https://www.v2ex.com/t/683161) ![](assets/new.png)  
+- [2020-06-19-深圳腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683160) ![](assets/new.png)  
+- [2020-06-19-因机场多次切断到-Spotify-AP-的长连接，-Spotify-PC-端频繁离线重连，有人遇到类似情况吗](https://www.v2ex.com/t/683159) ![](assets/new.png)  
+- [2020-06-19-请问-2020-款-mac-mini-能带两个-4k-吗？](https://www.v2ex.com/t/683158) ![](assets/new.png)  
+- [2020-06-19-做运维的是不是都有这把锤子](https://www.v2ex.com/t/683156) ![](assets/new.png)  
+- [2020-06-19-小白想要学习编程](https://www.v2ex.com/t/683155) ![](assets/new.png)  
+- [2020-06-19-某些算法是不是比毒药更厉害呢？](https://www.v2ex.com/t/683154) ![](assets/new.png)  
+- [2020-06-19-这个漏光是翻车了吗](https://www.v2ex.com/t/683153) ![](assets/new.png)  
+- [2020-06-19-武汉-北京-新炬网络-招聘-Oracle-DBA](https://www.v2ex.com/t/683152) ![](assets/new.png)  
+- [2020-06-19-大家分享一下自己的炒股经验呗。这是一个技术分享贴](https://www.v2ex.com/t/683151) ![](assets/new.png)  
+- [2020-06-19-VSCODE-右下角的同步按钮到底执行了哪些命令？](https://www.v2ex.com/t/683148) ![](assets/new.png)  
+- [2020-06-19-安卓点击分享的时候如何屏蔽某些软件？](https://www.v2ex.com/t/683147) ![](assets/new.png)  
+- [2020-06-19-前端向-突然发现-之前很火的-service-worker-淘宝，腾讯好像都下掉了，-why](https://www.v2ex.com/t/683146) ![](assets/new.png)  
+- [2020-06-19-发现导航---一个非常强大的静态导航网站](https://www.v2ex.com/t/683144) ![](assets/new.png)  
+- [2020-06-19-Adobe-回应终止支持-Flash：中国大陆地区将继续发行维护](https://www.v2ex.com/t/683142) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

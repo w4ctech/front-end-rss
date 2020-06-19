@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 21:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -67,6 +67,10 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-19-深圳腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683160) 
+- [2020-06-19-武汉-北京-新炬网络-招聘-Oracle-DBA](https://www.v2ex.com/t/683152) 
+- [2020-06-19-市值风云-杭州-招聘-Android-开发工程师](https://www.v2ex.com/t/683130) 
+- [2020-06-19-上海腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683127) 
 - [2020-06-19-字节跳动-2021-校招提前批内推-面试官和-HR-实时解疑](https://www.v2ex.com/t/682965) 
 - [2020-06-19-招聘-Java-开发工程师，坐标杭州，独角兽](https://www.v2ex.com/t/682940) 
 - [2020-06-18-山东淄博-事业单位招聘开发人员-8-15K](https://www.v2ex.com/t/682715) 

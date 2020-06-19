@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 17:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 19:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,12 @@
 </summary>
 
 
-- [2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物-不建议食用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-英国新冠肺炎疫情警报级别从四级降到三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKlAGSQbZhLX5P7ktPh7f200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-加纳卫生部副部长：中国捐赠帮助加方解了燃眉之急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9jsZ2f7OJDTyz8ELnNne200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1)  
+- [2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1)  
+- [2020-06-19-北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物-不建议食用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1)  
 - [2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1)  
 - [2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1)  
 - [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-18-美国上周首次申请失业救济人数-150.8-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1)  
 - [2020-06-18-天津第-137-例病例密接者核酸检测大部分完成，目前均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1)  
 - [2020-06-18-吴尊友：北京市响应及时-把疫情控制在了最小范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1)  
-- [2020-06-18-海南海口：学校提供考生高考前14天体温监测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1)  
-- [2020-06-18-北京：多家超市相继承诺锁定10种蔬菜价格一个月](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1)  
-- [2020-06-18-北京通报聚集性疫情典型案例：某餐馆7名员工确诊-一人曾去新发地采购](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

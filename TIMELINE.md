@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-19 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-英国新冠肺炎疫情警报级别从四级降到三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKlAGSQbZhLX5P7ktPh7f200619&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-加纳卫生部副部长：中国捐赠帮助加方解了燃眉之急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9jsZ2f7OJDTyz8ELnNne200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-19-北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物-不建议食用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1) 

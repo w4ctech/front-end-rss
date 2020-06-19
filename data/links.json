@@ -5317,6 +5317,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "世卫组织：全球新冠肺炎确诊病例超过838万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
         "title": "法国公共卫生署：新冠肺炎集体感染病例逐渐增多",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1",
         "date": "2020-06-19"
@@ -12841,6 +12846,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "Vue+Ts搭建项目(二)： Vuex的使用",
+        "link": "https://juejin.im/post/5eec36b2e51d4573e919c47d",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "《WEB前端安全》xss跨站脚本原理与防御",
+        "link": "https://juejin.im/post/5eeb75ac6fb9a0585105661f",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "从零写一个 Vue（五）DOM 生成与更新",
+        "link": "https://juejin.im/post/5eec2364f265da02920d59f5",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "prototype 是原型吗？终结 JS 原型疑问",
+        "link": "https://juejin.im/post/5eec239c5188256591249137",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "深入JavaScript 之异步编程",
+        "link": "https://juejin.im/post/5eec171ef265da02b2090a59",
+        "date": "2020-06-19"
+      },
       {
         "title": "客户端缓存（http缓存和本地缓存）",
         "link": "https://juejin.im/post/5eeaa639f265da02ee5ee7cf",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 22:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -100,6 +100,8 @@
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-19-prototype-是原型吗？终结-JS-原型疑问](https://juejin.im/post/5eec239c5188256591249137) 
+- [2020-06-19-深入JavaScript-之异步编程](https://juejin.im/post/5eec171ef265da02b2090a59) 
 - [2020-06-18-你不知道的JS系列——异步和回调](https://juejin.im/post/5eeb2e52518825658d0347b8) 
 - [2020-06-18-你不知道的javascript（上）第三章对象读书笔记](https://juejin.im/post/5eeb1a106fb9a0586d71ce11) 
 - [2020-06-17-ES6精讲系列——模板字符串](https://juejin.im/post/5ee9a246e51d4573db47c045) 

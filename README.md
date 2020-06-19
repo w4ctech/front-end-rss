@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 22:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 23:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1) ![](assets/new.png)  
-- [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
+- [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1)  
 - [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1)  
 - [2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1)  
 - [2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-19-日本19日全面放宽国内跨县移动限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1)  
 - [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492)  
 - [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
-- [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -920,6 +920,11 @@
 </summary>
 
 
+- [2020-06-19-Vue+Ts搭建项目二：-Vuex的使用](https://juejin.im/post/5eec36b2e51d4573e919c47d) ![](assets/new.png)  
+- [2020-06-19-《WEB前端安全》xss跨站脚本原理与防御](https://juejin.im/post/5eeb75ac6fb9a0585105661f) ![](assets/new.png)  
+- [2020-06-19-从零写一个-Vue（五）DOM-生成与更新](https://juejin.im/post/5eec2364f265da02920d59f5) ![](assets/new.png)  
+- [2020-06-19-prototype-是原型吗？终结-JS-原型疑问](https://juejin.im/post/5eec239c5188256591249137) ![](assets/new.png)  
+- [2020-06-19-深入JavaScript-之异步编程](https://juejin.im/post/5eec171ef265da02b2090a59) ![](assets/new.png)  
 - [2020-06-19-客户端缓存（http缓存和本地缓存）](https://juejin.im/post/5eeaa639f265da02ee5ee7cf)  
 - [2020-06-19-从零写一个-Vue（四）虚拟-DOM](https://juejin.im/post/5eeb8c2cf265da02bb1ebf25)  
 - [2020-06-19-从零写一个-Vue（三）数组监听](https://juejin.im/post/5eeb8bb7e51d4573d65df334)  
@@ -935,11 +940,6 @@
 - [2020-06-17-必备单品，FSearch](https://juejin.im/post/5ee9d1c0f265da028f535ff1)  
 - [2020-06-17-学习算法前你需要了解的‘大O表示法’](https://juejin.im/post/5ee9e1496fb9a0586d71cc60)  
 - [2020-06-17-CommonsChunkPlugin代码拆分挖坑之路](https://juejin.im/post/5ee9cf866fb9a058af771a62)  
-- [2020-06-17-Bedrock——基于MVVM+Provider的Flutter快速开发框架](https://juejin.im/post/5edc91edf265da76c76b18a5)  
-- [2020-06-17-细聊Concent-&-Recoil-,-探索react数据流的新开发模式](https://juejin.im/post/5eda2a0ef265da76fa4b6c03)  
-- [2020-06-17-从新冠疫情出发，漫谈-Gossip-协议](https://juejin.im/post/5ee9d36851882565c623a8cf)  
-- [2020-06-17-ES6精讲系列——模板字符串](https://juejin.im/post/5ee9a246e51d4573db47c045)  
-- [2020-06-17-30分钟上手es6](https://juejin.im/post/5ee9a1556fb9a0586320a395)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

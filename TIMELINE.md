@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-19 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -617,6 +617,8 @@
 - [【前端开发】2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8) 
 - [【前端开发】2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49) 
 - [【前端开发】2020-06-01-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b) 
+- [【前端大学】2020-06-19-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/d2b75ea3ccb55b0bc0a7313d319ebaca) 
+- [【前端大学】2020-06-19-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/39d7f3390fa120e7d34945e15031961f) 
 - [【前端大学】2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/e5a25bd6a47b07dbee7a95cf200cbf76) 
 - [【前端大学】2020-06-18-纯CSS打造银色MacBook-Air（完整版）](https://www.ershicimi.com/p/ef411e550f6c912fee68dbcbf2b59f8b) 
 - [【前端大学】2020-06-17-冲刺大厂之前，怎么做好十足的准备？](https://www.ershicimi.com/p/074a225488c24db400c0da8ff4b5d045) 

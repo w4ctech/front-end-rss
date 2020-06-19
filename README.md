@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 11:30:21，:rocket: 更新条数: +48， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 12:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492) ![](assets/new.png)  
+- [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492)  
 - [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
 - [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
 - [2020-06-18-甘肃新增-1-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1)  
@@ -354,6 +354,8 @@
 </summary>
 
 
+- [2020-06-19-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/d2b75ea3ccb55b0bc0a7313d319ebaca) ![](assets/new.png)  
+- [2020-06-19-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/39d7f3390fa120e7d34945e15031961f) ![](assets/new.png)  
 - [2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/e5a25bd6a47b07dbee7a95cf200cbf76)  
 - [2020-06-18-纯CSS打造银色MacBook-Air（完整版）](https://www.ershicimi.com/p/ef411e550f6c912fee68dbcbf2b59f8b)  
 - [2020-06-17-冲刺大厂之前，怎么做好十足的准备？](https://www.ershicimi.com/p/074a225488c24db400c0da8ff4b5d045)  
@@ -372,8 +374,6 @@
 - [2020-06-10-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/27bb74d90f50412d5f2c4be94637d4f7)  
 - [2020-06-10-可扩展的前端----架构基础](https://www.ershicimi.com/p/b5e382c514e535cb8ba8ab4e45017a10)  
 - [2020-06-09-手写Vue源码-可能是你见过最完整的版本！](https://www.ershicimi.com/p/db18ce48e30cc1d9dc5890c67368270c)  
-- [2020-06-09-作用域与闭包---最简解释器实现](https://www.ershicimi.com/p/d928abf90570a9c197831a56962542d8)  
-- [2020-06-08-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/e37b4bff894c51d3ee78f9cdec998477)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -858,11 +858,11 @@
 </summary>
 
 
-- [2020-06-18-港交所上市，京东走入后刘强东时代](https://www.ershicimi.com/p/ac9d632eaaf32db6759635abb68c8e44) ![](assets/new.png)  
-- [2020-06-18-够强大，才出“粽”，写作平台给你发“粽子”啦！|-InfoQ写作平台特别企划](https://www.ershicimi.com/p/8a9aa187ff0caf20b7368475dc52f4f2) ![](assets/new.png)  
-- [2020-06-18-AWS-打造容器服务体系，Amazon-EKS-这块拼图有多重要？](https://www.ershicimi.com/p/f549632043da086d519b4d433410eba0) ![](assets/new.png)  
-- [2020-06-18-倒计时-1-天！Serverless，起风了-|-Q推荐](https://www.ershicimi.com/p/55e576a96157203ed76039340298f546) ![](assets/new.png)  
-- [2020-06-18-Deno-是代码的浏览器](https://www.ershicimi.com/p/1cbf61e0f0228d1cf7d00ad73714c5c6) ![](assets/new.png)  
+- [2020-06-18-港交所上市，京东走入后刘强东时代](https://www.ershicimi.com/p/ac9d632eaaf32db6759635abb68c8e44)  
+- [2020-06-18-够强大，才出“粽”，写作平台给你发“粽子”啦！|-InfoQ写作平台特别企划](https://www.ershicimi.com/p/8a9aa187ff0caf20b7368475dc52f4f2)  
+- [2020-06-18-AWS-打造容器服务体系，Amazon-EKS-这块拼图有多重要？](https://www.ershicimi.com/p/f549632043da086d519b4d433410eba0)  
+- [2020-06-18-倒计时-1-天！Serverless，起风了-|-Q推荐](https://www.ershicimi.com/p/55e576a96157203ed76039340298f546)  
+- [2020-06-18-Deno-是代码的浏览器](https://www.ershicimi.com/p/1cbf61e0f0228d1cf7d00ad73714c5c6)  
 - [2020-06-17-滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关](https://www.ershicimi.com/p/be8389aa40ac34276244003d9817c2bc)  
 - [2020-06-17-美团点评万亿级-KV-存储架构演进](https://www.ershicimi.com/p/ad51345ae6d442cbf0aaf91e678fa85b)  
 - [2020-06-17-日活超过-3-亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/b2a6a0a0501e25ec00b220bb5370739d)  
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-06-19-有什么方法能远程获取短信验证码？](https://www.v2ex.com/t/682973) ![](assets/new.png)  
-- [2020-06-19-5-年-iOS-开发，半年-React-Native-开发。现寻求一个远程工作机会。](https://www.v2ex.com/t/682971) ![](assets/new.png)  
-- [2020-06-19-Chrome-书签自动变成百度网址？](https://www.v2ex.com/t/682970) ![](assets/new.png)  
-- [2020-06-19-不懂就问，话说有人想过-sql-的最近一个月具体包含了多少天吗？是固定不变还是根据月份作出相应改变的](https://www.v2ex.com/t/682969) ![](assets/new.png)  
-- [2020-06-19-C++-模板-SFINAE-问题](https://www.v2ex.com/t/682968) ![](assets/new.png)  
-- [2020-06-19-这算不算职场霸凌，钉钉-618-钉钉程序员女装带货！](https://www.v2ex.com/t/682967) ![](assets/new.png)  
-- [2020-06-19-字节跳动-2021-校招提前批内推-面试官和-HR-实时解疑](https://www.v2ex.com/t/682965) ![](assets/new.png)  
-- [2020-06-19-工具软件求大佬们推荐](https://www.v2ex.com/t/682964) ![](assets/new.png)  
-- [2020-06-19-远程，还是双语邦的云-Team----求小程序程序员](https://www.v2ex.com/t/682963) ![](assets/new.png)  
-- [2020-06-19-迫于太菜，闲鱼差点被骗，出售几张市民卡。公司福利给发的，-200-额度，三张，一张-190。](https://www.v2ex.com/t/682961) ![](assets/new.png)  
-- [2020-06-19-Oracle-SQL-调优系列之看懂执行计划-explain](https://www.v2ex.com/t/682960) ![](assets/new.png)  
-- [2020-06-19-日本-InfiPower-直招软工](https://www.v2ex.com/t/682958) ![](assets/new.png)  
-- [2020-06-19-征求电信宽带实惠订购渠道和方案](https://www.v2ex.com/t/682957) ![](assets/new.png)  
-- [2020-06-19-产品出个脑图，让开发评估开发时间，各位有遇到这种情况的吗](https://www.v2ex.com/t/682956) ![](assets/new.png)  
-- [2020-06-19-大家对于手机分辨率敏感么](https://www.v2ex.com/t/682955) ![](assets/new.png)  
-- [2020-06-19-Java-后台开发，经常需要同时运行-8-个左右的-SpringBoot-项目，在-3k-内推荐什么配置](https://www.v2ex.com/t/682954) ![](assets/new.png)  
-- [2020-06-19-spring-security，有没有对需要权限控制的-url-存入数据库的实现。](https://www.v2ex.com/t/682953) ![](assets/new.png)  
-- [2020-06-19-v2-上居然没有讨论天赐-OS-的？](https://www.v2ex.com/t/682952) ![](assets/new.png)  
-- [2020-06-19-大家有了解-Archillect-吗？](https://www.v2ex.com/t/682951) ![](assets/new.png)  
-- [2020-06-19-Windows-Terminal-Preview-v1.1.1671.0-发布了](https://www.v2ex.com/t/682950) ![](assets/new.png)  
+- [2020-06-19-有什么方法能远程获取短信验证码？](https://www.v2ex.com/t/682973)  
+- [2020-06-19-5-年-iOS-开发，半年-React-Native-开发。现寻求一个远程工作机会。](https://www.v2ex.com/t/682971)  
+- [2020-06-19-Chrome-书签自动变成百度网址？](https://www.v2ex.com/t/682970)  
+- [2020-06-19-不懂就问，话说有人想过-sql-的最近一个月具体包含了多少天吗？是固定不变还是根据月份作出相应改变的](https://www.v2ex.com/t/682969)  
+- [2020-06-19-C++-模板-SFINAE-问题](https://www.v2ex.com/t/682968)  
+- [2020-06-19-这算不算职场霸凌，钉钉-618-钉钉程序员女装带货！](https://www.v2ex.com/t/682967)  
+- [2020-06-19-字节跳动-2021-校招提前批内推-面试官和-HR-实时解疑](https://www.v2ex.com/t/682965)  
+- [2020-06-19-工具软件求大佬们推荐](https://www.v2ex.com/t/682964)  
+- [2020-06-19-远程，还是双语邦的云-Team----求小程序程序员](https://www.v2ex.com/t/682963)  
+- [2020-06-19-迫于太菜，闲鱼差点被骗，出售几张市民卡。公司福利给发的，-200-额度，三张，一张-190。](https://www.v2ex.com/t/682961)  
+- [2020-06-19-Oracle-SQL-调优系列之看懂执行计划-explain](https://www.v2ex.com/t/682960)  
+- [2020-06-19-日本-InfiPower-直招软工](https://www.v2ex.com/t/682958)  
+- [2020-06-19-征求电信宽带实惠订购渠道和方案](https://www.v2ex.com/t/682957)  
+- [2020-06-19-产品出个脑图，让开发评估开发时间，各位有遇到这种情况的吗](https://www.v2ex.com/t/682956)  
+- [2020-06-19-大家对于手机分辨率敏感么](https://www.v2ex.com/t/682955)  
+- [2020-06-19-Java-后台开发，经常需要同时运行-8-个左右的-SpringBoot-项目，在-3k-内推荐什么配置](https://www.v2ex.com/t/682954)  
+- [2020-06-19-spring-security，有没有对需要权限控制的-url-存入数据库的实现。](https://www.v2ex.com/t/682953)  
+- [2020-06-19-v2-上居然没有讨论天赐-OS-的？](https://www.v2ex.com/t/682952)  
+- [2020-06-19-大家有了解-Archillect-吗？](https://www.v2ex.com/t/682951)  
+- [2020-06-19-Windows-Terminal-Preview-v1.1.1671.0-发布了](https://www.v2ex.com/t/682950)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

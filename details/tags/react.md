@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -57,6 +57,7 @@
 - [2020-05-29-学习React哲学的一次实践](https://juejin.im/post/5ed0d0546fb9a047eb398787) 
 - [2020-05-29-玩转webpack——从零配置一个react项目](https://juejin.im/post/5ed0857ff265da7714710d88) 
 - [2020-05-29-名符其实的react下一代状态管理器hox](https://juejin.im/post/5ed07be46fb9a047bd79e0a6) 
+- [2020-06-19-5-年-iOS-开发，半年-React-Native-开发。现寻求一个远程工作机会。](https://www.v2ex.com/t/682971) 
 - [2020-06-18-前端-Vue/React/Node/TS/Serverless/FaaS-兴趣交流小组](https://www.v2ex.com/t/682870) 
 - [2020-06-18-广州/远程-全栈工程师（React-+-RN-+-Node-+-TypeScript）](https://www.v2ex.com/t/682581) 
 - [2020-06-15-细聊-Concent-&-Recoil-,-探索-react-数据流的新开发模式](https://www.v2ex.com/t/681684) 

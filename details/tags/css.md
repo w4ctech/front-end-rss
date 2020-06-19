@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-19 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-19 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -61,6 +61,7 @@
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
 - [2020-05-23-深入解析-EventLoop-和浏览器渲染、帧动画、空闲回调的关系](https://www.ershicimi.com/p/4a69a5eafb555233c63f9d9ac25dd54d) 
+- [2020-06-18-倒计时-1-天！Serverless，起风了-|-Q推荐](https://www.ershicimi.com/p/55e576a96157203ed76039340298f546) 
 - [2020-06-15-人力节省50%，研发效能提升40%，阿里Serverless架构落地实践](https://www.ershicimi.com/p/edf269b408f44fb1656511dc139d04e8) 
 - [2020-06-06-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/4fed631426197806bf80075765d00d8c) 
 - [2020-05-28-云计算的下一站：Serverless的2020发展前瞻-|-Q推荐](https://www.ershicimi.com/p/d05b95abac46c376552c23e101fa435f) 
@@ -79,6 +80,7 @@
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+- [2020-06-19-分析：为什么-Web-开发人员在-2020-年不用最新的-CSS-功能](https://www.v2ex.com/t/682935) 
 - [2020-06-18-这一次-把-ServerLess-优雅抬走](https://www.v2ex.com/t/682620) 
 - [2020-06-17-前端福音：-Serverless-和-SSR-的天作之合](https://www.v2ex.com/t/682465) 
 - [2020-06-17-腾讯云-Serverless-部署应用耗时降低了-73%](https://www.v2ex.com/t/682456) 

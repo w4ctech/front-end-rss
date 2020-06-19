@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 23:30:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 01:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-谭德塞：18日全球新增15万例新冠肺炎病例，为单日最大增幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1acH5tAch5mhKrMZqEbR200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1)  
 - [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
 - [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1)  
 - [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-19-美国最大院线集团7月开始开放影城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE35DX7V6ZL8D6HBH8HIU200619&isfromapp=1)  
 - [2020-06-19-日本19日全面放宽国内跨县移动限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1)  
 - [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492)  
-- [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -920,11 +920,11 @@
 </summary>
 
 
-- [2020-06-19-Vue+Ts搭建项目二：-Vuex的使用](https://juejin.im/post/5eec36b2e51d4573e919c47d) ![](assets/new.png)  
-- [2020-06-19-《WEB前端安全》xss跨站脚本原理与防御](https://juejin.im/post/5eeb75ac6fb9a0585105661f) ![](assets/new.png)  
-- [2020-06-19-从零写一个-Vue（五）DOM-生成与更新](https://juejin.im/post/5eec2364f265da02920d59f5) ![](assets/new.png)  
-- [2020-06-19-prototype-是原型吗？终结-JS-原型疑问](https://juejin.im/post/5eec239c5188256591249137) ![](assets/new.png)  
-- [2020-06-19-深入JavaScript-之异步编程](https://juejin.im/post/5eec171ef265da02b2090a59) ![](assets/new.png)  
+- [2020-06-19-Vue+Ts搭建项目二：-Vuex的使用](https://juejin.im/post/5eec36b2e51d4573e919c47d)  
+- [2020-06-19-《WEB前端安全》xss跨站脚本原理与防御](https://juejin.im/post/5eeb75ac6fb9a0585105661f)  
+- [2020-06-19-从零写一个-Vue（五）DOM-生成与更新](https://juejin.im/post/5eec2364f265da02920d59f5)  
+- [2020-06-19-prototype-是原型吗？终结-JS-原型疑问](https://juejin.im/post/5eec239c5188256591249137)  
+- [2020-06-19-深入JavaScript-之异步编程](https://juejin.im/post/5eec171ef265da02b2090a59)  
 - [2020-06-19-客户端缓存（http缓存和本地缓存）](https://juejin.im/post/5eeaa639f265da02ee5ee7cf)  
 - [2020-06-19-从零写一个-Vue（四）虚拟-DOM](https://juejin.im/post/5eeb8c2cf265da02bb1ebf25)  
 - [2020-06-19-从零写一个-Vue（三）数组监听](https://juejin.im/post/5eeb8bb7e51d4573d65df334)  

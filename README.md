@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 01:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 06:30:21，:rocket: 更新条数: +37， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-19-谭德塞：18日全球新增15万例新冠肺炎病例，为单日最大增幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1acH5tAch5mhKrMZqEbR200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-谭德塞：18日全球新增15万例新冠肺炎病例，为单日最大增幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1acH5tAch5mhKrMZqEbR200619&isfromapp=1)  
 - [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1)  
 - [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
 - [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1)  
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-06-19-涉及金钱存储或计算操作时，你们一般都使用什么数据类型](https://www.v2ex.com/t/683167)  
-- [2020-06-19-东方航空推出周末随心飞](https://www.v2ex.com/t/683166)  
-- [2020-06-19-现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164)  
-- [2020-06-19-大家在-mac-上都用什么-git-客户端](https://www.v2ex.com/t/683163)  
-- [2020-06-19-Golang-定时器底层实现深度剖析](https://www.v2ex.com/t/683162)  
-- [2020-06-19-Mac-自动更换壁纸的软件](https://www.v2ex.com/t/683161)  
-- [2020-06-19-深圳腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683160)  
-- [2020-06-19-因机场多次切断到-Spotify-AP-的长连接，-Spotify-PC-端频繁离线重连，有人遇到类似情况吗](https://www.v2ex.com/t/683159)  
-- [2020-06-19-请问-2020-款-mac-mini-能带两个-4k-吗？](https://www.v2ex.com/t/683158)  
-- [2020-06-19-做运维的是不是都有这把锤子](https://www.v2ex.com/t/683156)  
-- [2020-06-19-小白想要学习编程](https://www.v2ex.com/t/683155)  
-- [2020-06-19-某些算法是不是比毒药更厉害呢？](https://www.v2ex.com/t/683154)  
-- [2020-06-19-这个漏光是翻车了吗](https://www.v2ex.com/t/683153)  
-- [2020-06-19-武汉-北京-新炬网络-招聘-Oracle-DBA](https://www.v2ex.com/t/683152)  
-- [2020-06-19-大家分享一下自己的炒股经验呗。这是一个技术分享贴](https://www.v2ex.com/t/683151)  
-- [2020-06-19-VSCODE-右下角的同步按钮到底执行了哪些命令？](https://www.v2ex.com/t/683148)  
-- [2020-06-19-安卓点击分享的时候如何屏蔽某些软件？](https://www.v2ex.com/t/683147)  
-- [2020-06-19-前端向-突然发现-之前很火的-service-worker-淘宝，腾讯好像都下掉了，-why](https://www.v2ex.com/t/683146)  
-- [2020-06-19-发现导航---一个非常强大的静态导航网站](https://www.v2ex.com/t/683144)  
-- [2020-06-19-Adobe-回应终止支持-Flash：中国大陆地区将继续发行维护](https://www.v2ex.com/t/683142)  
+- [2020-06-20-Magic-Keyboard-和机械键盘从效率和健康上哪个更好呢？](https://www.v2ex.com/t/683230) ![](assets/new.png)  
+- [2020-06-20-应届生的简历，请前辈们帮忙指点一下](https://www.v2ex.com/t/683229) ![](assets/new.png)  
+- [2020-06-20-出售颜表情等域名](https://www.v2ex.com/t/683228) ![](assets/new.png)  
+- [2020-06-20-有用-TiddlerWiki-的同好吗，想请教一下-Tiddler-作为最小单位，应该填什么？](https://www.v2ex.com/t/683227) ![](assets/new.png)  
+- [2020-06-20-上-Google-scholar-出现-error-403](https://www.v2ex.com/t/683226) ![](assets/new.png)  
+- [2020-06-20-mindmaster-8.0.2-版本-新推出两个功能-真要命啊.](https://www.v2ex.com/t/683225) ![](assets/new.png)  
+- [2020-06-20-求助！编译-tesseract-遇到问题](https://www.v2ex.com/t/683224) ![](assets/new.png)  
+- [2020-06-20-哪些炒股/理财-APP-比较靠谱?](https://www.v2ex.com/t/683223) ![](assets/new.png)  
+- [2020-06-20-20200620-午夜俱乐部](https://www.v2ex.com/t/683221) ![](assets/new.png)  
+- [2020-06-20-fiddler-抓包-怎么实现多次请求-并判断不是同一用户](https://www.v2ex.com/t/683219) ![](assets/new.png)  
+- [2020-06-20-崩溃，手机装了佳明的-connect-和-connect-iq-后，续航炸了](https://www.v2ex.com/t/683217) ![](assets/new.png)  
+- [2020-06-20-用-Flutter-实现探探卡片布局](https://www.v2ex.com/t/683216) ![](assets/new.png)  
+- [2020-06-20-不懂就问：为什么大多数游戏-iOS-和-Android-平台数据不能互通，真的就这么难吗？](https://www.v2ex.com/t/683215) ![](assets/new.png)  
+- [2020-06-20-大家无线键鼠电池用的什么牌子的？](https://www.v2ex.com/t/683214) ![](assets/new.png)  
+- [2020-06-19-我想写一个-Windows-版的-iOS-自动化快捷键指令](https://www.v2ex.com/t/683213) ![](assets/new.png)  
+- [2020-06-19-寸铁-《目击你刚刚完成这一跳》](https://www.v2ex.com/t/683212) ![](assets/new.png)  
+- [2020-06-19-求大佬指导，爬个-COVID-19-数据的网站](https://www.v2ex.com/t/683210) ![](assets/new.png)  
+- [2020-06-19-字节跳动-2021-提前批招聘-iOS-客户端基础架构团队](https://www.v2ex.com/t/683208) ![](assets/new.png)  
+- [2020-06-19-MacBook-想升级-SSD-和内存翻车变砖头了](https://www.v2ex.com/t/683206) ![](assets/new.png)  
+- [2020-06-19-关于杭州单间公寓租房的一些问题请教](https://www.v2ex.com/t/683205) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

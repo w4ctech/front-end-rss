@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 10:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 11:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -146,8 +146,8 @@
 </summary>
 
 
-- [2020-06-19-3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4) ![](assets/new.png)  
-- [2020-06-19-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/d13e22a43a590207083d1dc2bde5f93b) ![](assets/new.png)  
+- [2020-06-19-3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4)  
+- [2020-06-19-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/d13e22a43a590207083d1dc2bde5f93b)  
 - [2020-06-18-一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2)  
 - [2020-06-18-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/ded80e433cc829c1676f449d66cbe370)  
 - [2020-06-17-在滴滴和头条干的这-2-年](https://www.ershicimi.com/p/80d3d8aed91625ca78a990fbbfcf1d9e)  
@@ -587,6 +587,8 @@
 </summary>
 
 
+- [2020-06-19-阿里业务线Owner揭秘：这才是前端面试-“刚需”-能力](https://www.ershicimi.com/p/ad6561389534b6882672f821cad028ae) ![](assets/new.png)  
+- [2020-06-19-过完618！来看看-Node.js-如何实现秒杀系统](https://www.ershicimi.com/p/b1e65dcb4acb449b46596e42465cd375) ![](assets/new.png)  
 - [2020-06-18-你应该知道的10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/33dcdb614d71b756e2f185fc6e5d8e40)  
 - [2020-06-18-npx-使用教程](https://www.ershicimi.com/p/873b13318367de54dd65eb4798783acb)  
 - [2020-06-17-HTTP-无状态中的-"状态"-到底指的是什么？](https://www.ershicimi.com/p/a82fff87e6169a63303ba46b33862e86)  
@@ -605,8 +607,6 @@
 - [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887)  
 - [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)  
 - [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45)  
-- [2020-06-05-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22)  
-- [2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/db13b22f5f88783cefa30ecb83dd20a3)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

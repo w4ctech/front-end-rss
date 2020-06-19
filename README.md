@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-19 13:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-19 14:30:20，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -33,7 +33,7 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-美国最大院线集团7月开始开放影城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE35DX7V6ZL8D6HBH8HIU200619&isfromapp=1) ![](assets/new.png)  
+- [2020-06-19-日本19日全面放宽国内跨县移动限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1) ![](assets/new.png)  
 - [2020-06-19-教育部发布高考工作安排](https://m.weibo.cn/2803301701/4517472085020492)  
 - [2020-06-18-新加坡将从下周起为所有-45-岁以上患急性呼吸道感染者进行新冠病毒检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1)  
 - [2020-06-18-纽约市市长：纽约市将从-22-日起进入重启第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-18-截至6月17日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml)  
 - [2020-06-18-世卫组织：因未能降低新冠肺炎死亡率-将停止在团结试验中使用羟氯喹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1)  
 - [2020-06-18-疫情下的意大利杯决赛-那不勒斯点球大战取胜](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1)  
-- [2020-06-17-北京地坛医院本部18日起停止所有门诊、急诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1)  
-- [2020-06-17-​6月17日6时至18时-天津新增1例本地新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioPpXiRwaj2rvWzxq3ptR200617&isfromapp=1)  
-- [2020-06-17-6月18日起！北京全面暂停出租车、网约车驾驶员考试](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipiQM3Istf45zB09oa2Lq200617&isfromapp=1)  
-- [2020-06-17-廊坊至北京客运班线全部停运-恢复时间另行通知](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTzmh6sz8cwDpSL7g9Xb200617&isfromapp=1)  
-- [2020-06-17-伊朗新增2612例新冠肺炎确诊病例-累计确诊195051例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADG5ja4saRVMqrlxEwik200617&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,8 +556,8 @@
 </summary>
 
 
-- [2020-06-19-图形算法（邻接矩阵）在前端领域的应用](https://www.ershicimi.com/p/c7e07439dcc5c369c8e8893b992d6cf6) ![](assets/new.png)  
-- [2020-06-19-JSON.stringify-玩出新花样，太腻害了](https://www.ershicimi.com/p/b9ea71f2dea5a504876bb176e5585ec3) ![](assets/new.png)  
+- [2020-06-19-图形算法（邻接矩阵）在前端领域的应用](https://www.ershicimi.com/p/c7e07439dcc5c369c8e8893b992d6cf6)  
+- [2020-06-19-JSON.stringify-玩出新花样，太腻害了](https://www.ershicimi.com/p/b9ea71f2dea5a504876bb176e5585ec3)  
 - [2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/20f37ce299412b81014cb01f7354d040)  
 - [2020-06-18-卧槽！牛皮了，头一次见有大佬把TCP三次握手四次挥手解释的这么明白](https://www.ershicimi.com/p/d5d40a7ea1d285c70aead04030ef254d)  
 - [2020-06-17-前端面试基础题集合！赶紧上车！](https://www.ershicimi.com/p/12000454050057eb91a5ba1401cfb4f3)  
@@ -1107,26 +1107,26 @@
 </summary>
 
 
-- [2020-06-18-技术​选型的艺术](https://toutiao.io/k/dnld4fc)  
-- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议](https://toutiao.io/k/jrx9s2d)  
-- [2020-06-18-Python-为什么推荐蛇形命名法？](https://toutiao.io/k/47q2ffn)  
-- [2020-06-18-独家专访-28-岁退休程序员郭宇：1600-人加好友，问我-“挣了多少钱”](https://toutiao.io/k/onk97wf)  
-- [2020-06-18-译-React-开发者常见的-3-个错误](https://toutiao.io/k/rbk4ha8)  
-- [2020-06-18-推荐一种通过刷-LeetCode-来增强技术功底的方法](https://toutiao.io/k/au82me5)  
-- [2020-06-18-前端实践：像素级同步、低延时、超低流量的屏幕共享工具-Syncit](https://toutiao.io/k/l6ypoc5)  
-- [2020-06-18-AV1、H.265-与-Janus-的爱恨情仇（三）](https://toutiao.io/k/znjaqer)  
-- [2020-06-18-B树、B+树索引算法原理（上）](https://toutiao.io/k/e7jct8h)  
-- [2020-06-18-Java-如何实现动态脚本？](https://toutiao.io/k/h92hguk)  
-- [2020-06-18-Spring-Boot-自适应异常处理](https://toutiao.io/k/eftyi2m)  
-- [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m)  
-- [2020-06-18-MongoDB-常用查询操作](https://toutiao.io/k/7x8ovgj)  
-- [2020-06-18-Linux-服务端最大并发数是多少？](https://toutiao.io/k/dgc8fi2)  
-- [2020-06-18-DDD-建模的关键字在于-“合”](https://toutiao.io/k/lsi7424)  
-- [2020-06-18-浅谈面向性能的开发](https://toutiao.io/k/v8zlwiz)  
-- [2020-06-18-Deno-初探](https://toutiao.io/k/ckm6b2z)  
-- [2020-06-18-什么？一个核同时执行两个线程？](https://toutiao.io/k/spgo3dj)  
-- [2020-06-18-基于-Google-protobuf-实现各种数据库操作](https://toutiao.io/k/dkcf6g4)  
-- [2020-06-18-使用-SSE-2-指令集实现字符串-strtolower](https://toutiao.io/k/hz9llnd)  
+- [2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr) ![](assets/new.png)  
+- [2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2) ![](assets/new.png)  
+- [2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix) ![](assets/new.png)  
+- [2020-06-19-Spring-Boot-构建-Docker-镜像的-3-种方式](https://toutiao.io/k/56fittd) ![](assets/new.png)  
+- [2020-06-19-我终于搞清了啥是-HTTPS-了](https://toutiao.io/k/rdxllye) ![](assets/new.png)  
+- [2020-06-19-开域聊天机器人技术介绍（现实篇）](https://toutiao.io/k/oj3w1bx) ![](assets/new.png)  
+- [2020-06-19-架构师该如何为应用选择合适的-API](https://toutiao.io/k/hjbjv8b) ![](assets/new.png)  
+- [2020-06-19-漫谈分布式系统（十七）：决战-Shuffle](https://toutiao.io/k/tw669e7) ![](assets/new.png)  
+- [2020-06-19-从行存储到-RCFile，Facebook-为什么要设计出-RCFile？](https://toutiao.io/k/0vm8xqr) ![](assets/new.png)  
+- [2020-06-19-教会-AI-认识麻将牌（实践篇）](https://toutiao.io/k/q61jy5u) ![](assets/new.png)  
+- [2020-06-19-读《春夜十话，数学与情绪》](https://toutiao.io/k/321o94i) ![](assets/new.png)  
+- [2020-06-19-需求变化的应对之道](https://toutiao.io/k/0cl1dpi) ![](assets/new.png)  
+- [2020-06-19-玩归玩，闹归闹，别拿抽奖开玩笑](https://toutiao.io/k/t4vcq6f) ![](assets/new.png)  
+- [2020-06-19-花椒-Android-客户端多变体构建实践](https://toutiao.io/k/hu5zavv) ![](assets/new.png)  
+- [2020-06-19-CTR-预估模型中的正负样本问题](https://toutiao.io/k/a5856dg) ![](assets/new.png)  
+- [2020-06-19-Spring-WEB-系列：静态资源配置与读取](https://toutiao.io/k/zo77itv) ![](assets/new.png)  
+- [2020-06-19-一时技痒，撸了个动态线程池，源码放-GitHub了](https://toutiao.io/k/klwihj1) ![](assets/new.png)  
+- [2020-06-19-搞定微服务线上生命周期管理，同时发布上千个服务节点不是事儿](https://toutiao.io/k/mexs924) ![](assets/new.png)  
+- [2020-06-19-学习-Redux-源码整体架构，深入理解-Redux-及其中间件原理](https://toutiao.io/k/dp8lxbf) ![](assets/new.png)  
+- [2020-06-19-Spring-异步实现原理与实战分享](https://toutiao.io/k/35kxh20) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

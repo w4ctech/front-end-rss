@@ -5317,6 +5317,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "吴尊友：新发地发生疫情很蹊跷 病毒并非源于北京",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "吴尊友：只要全球疫情没有完全控制 零星病例随时可能在任何一个地方发生",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "高风险地区购买的食品要扔吗？吴尊友：具体问题具体看 冷冻类的要注意",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "美国最大院线集团7月开始开放影城",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE35DX7V6ZL8D6HBH8HIU200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "日本19日全面放宽国内跨县移动限制",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1",
+        "date": "2020-06-19"
+      },
+      {
         "title": "教育部发布高考工作安排",
         "link": "https://m.weibo.cn/2803301701/4517472085020492",
         "date": "2020-06-19"
@@ -30094,6 +30119,126 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "如何画好一张架构图？",
+        "link": "https://toutiao.io/k/dziuanr",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "LevelDB 完全解析（十一）：Compaction",
+        "link": "https://toutiao.io/k/ar1yio2",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "CODING DevOps（第六课）：IT 运维之智能化告警实践",
+        "link": "https://toutiao.io/k/8ffaxix",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "Spring Boot 构建 Docker 镜像的 3 种方式",
+        "link": "https://toutiao.io/k/56fittd",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "我终于搞清了啥是 HTTPS 了",
+        "link": "https://toutiao.io/k/rdxllye",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "开域聊天机器人技术介绍（现实篇）",
+        "link": "https://toutiao.io/k/oj3w1bx",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "架构师该如何为应用选择合适的 API",
+        "link": "https://toutiao.io/k/hjbjv8b",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "漫谈分布式系统（十七）：决战 Shuffle",
+        "link": "https://toutiao.io/k/tw669e7",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "从行存储到 RCFile，Facebook 为什么要设计出 RCFile？",
+        "link": "https://toutiao.io/k/0vm8xqr",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "教会 AI 认识麻将牌（实践篇）",
+        "link": "https://toutiao.io/k/q61jy5u",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "读《春夜十话，数学与情绪》",
+        "link": "https://toutiao.io/k/321o94i",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "需求变化的应对之道",
+        "link": "https://toutiao.io/k/0cl1dpi",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "玩归玩，闹归闹，别拿抽奖开玩笑",
+        "link": "https://toutiao.io/k/t4vcq6f",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "花椒 Android 客户端多变体构建实践",
+        "link": "https://toutiao.io/k/hu5zavv",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "CTR 预估模型中的正负样本问题",
+        "link": "https://toutiao.io/k/a5856dg",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "Spring WEB 系列：静态资源配置与读取",
+        "link": "https://toutiao.io/k/zo77itv",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "一时技痒，撸了个动态线程池，源码放 GitHub了",
+        "link": "https://toutiao.io/k/klwihj1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "搞定微服务线上生命周期管理，同时发布上千个服务节点不是事儿",
+        "link": "https://toutiao.io/k/mexs924",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "学习 Redux 源码整体架构，深入理解 Redux 及其中间件原理",
+        "link": "https://toutiao.io/k/dp8lxbf",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "Spring 异步实现原理与实战分享",
+        "link": "https://toutiao.io/k/35kxh20",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "[译] 如何将 memcached 尾延迟降低 10 倍",
+        "link": "https://toutiao.io/k/kjqb7he",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "基于 ClickHouse + Redash + Python 去做安全数据分析",
+        "link": "https://toutiao.io/k/cua99ty",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "复杂系统迁移 .NET Core 平台系列：WebApi 改造",
+        "link": "https://toutiao.io/k/fmabruq",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "改掉这些坏习惯，还怕写不出精简的代码？（五）",
+        "link": "https://toutiao.io/k/9zp7z42",
+        "date": "2020-06-19"
+      },
       {
         "title": "技术​选型的艺术",
         "link": "https://toutiao.io/k/dnld4fc",

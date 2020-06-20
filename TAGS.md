@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-20 19:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 21:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -586,6 +586,7 @@
 - [【互联网架构师】如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)
 - [【InfoQ】NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)
 - [【InfoQ】用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)
+- [【V2EX】如何将多款软件（JDK、MySQL、redis、nginx、-Java-项目-jar-包-等）打包为-exe-/-msi-等可执行安装软件，一步步安装并启动？](https://www.v2ex.com/t/683365)
 - [【V2EX】求教在-docker-容器内部如何获取宿主机的-ip](https://www.v2ex.com/t/683242)
 - [【V2EX】现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164)
 - [【V2EX】有没有用过-Docker-Engine-API-的弟兄～问一个小问题](https://www.v2ex.com/t/682471)
@@ -598,7 +599,6 @@
 - [【V2EX】docker-部署-laravel-应用可以执行初始化脚本吗？](https://www.v2ex.com/t/677870)
 - [【V2EX】请教下，-nginx-怎么禁止国外的-ip-访问](https://www.v2ex.com/t/677492)
 - [【V2EX】docker-有办法映射容器的根目录嘛。](https://www.v2ex.com/t/677475)
-- [【V2EX】grpc-主要用来作什么？](https://www.v2ex.com/t/677466)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

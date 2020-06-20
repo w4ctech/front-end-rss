@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-20-秘鲁累计确诊病例破24,7万例-国内航班或将在7月15日前复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUpt57iOXmZLCeVMBEnaU200620&isfromapp=1) 
 - [2020-06-20-巴西新冠确诊病例破百万](https://m.weibo.cn/2656274875/4517787476157249) 
 - [2020-06-20-世卫称北京出现病毒与欧洲毒株密切相关](https://m.weibo.cn/2656274875/4517788285040862) 
 - [2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1) 

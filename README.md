@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 08:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 09:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,12 @@
 </summary>
 
 
-- [2020-06-20-秘鲁累计确诊病例破24,7万例-国内航班或将在7月15日前复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUpt57iOXmZLCeVMBEnaU200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html) ![](assets/new.png)  
+- [2020-06-20-疫情之下-巴西传奇体育场70年来首次举办“没有观众”的足球赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirJ8EDFcYn7iPBYZlQN06200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-巴西：至少超过3000名原住民感染新冠肺炎-亚马孙地区继续告急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiybvFiFjmTVUkqRCzGiIX200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-俄罗斯2020年第六届东方经济论坛取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZug307rDHredTk5OqgJ200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-秘鲁累计确诊病例破24,7万例-国内航班或将在7月15日前复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUpt57iOXmZLCeVMBEnaU200620&isfromapp=1)  
 - [2020-06-20-巴西新冠确诊病例破百万](https://m.weibo.cn/2656274875/4517787476157249)  
 - [2020-06-20-世卫称北京出现病毒与欧洲毒株密切相关](https://m.weibo.cn/2656274875/4517788285040862)  
 - [2020-06-19-谭德塞：18日全球新增15万例新冠肺炎病例，为单日最大增幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1acH5tAch5mhKrMZqEbR200619&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1)  
 - [2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1)  
 - [2020-06-19-北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物-不建议食用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1)  
-- [2020-06-19-专家：建议低风险地区电影院看电影不要超过2小时](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1)  
-- [2020-06-19-受疫情影响-泰国出台“助农计划”向400万农户提供560亿泰铢补助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1)  
-- [2020-06-19-吴尊友：新发地发生疫情很蹊跷-病毒并非源于北京](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFvkwIoVZaQMTa5jXQ2A200619&isfromapp=1)  
-- [2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1)  
-- [2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

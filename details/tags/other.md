@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 19:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,10 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-20-辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200-份样本结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1) 
+- [2020-06-20-北大国际医院出现-1-例确诊病例，该院-2669-医护人员核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1) 
+- [2020-06-20-北​京通报-6-月-19-日新增-22-例确诊病例详情，均与新发地市场有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1) 
+- [2020-06-20-北京-9-日内新增确诊-205-例，防控仍处于紧要关头](https://m.weibo.cn/2656274875/4517923039501043) 
 - [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1) 
 - [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1) 
 - [2020-06-20-沈阳：一线医务人员子女在沈中考最高可获降低-10-分录取](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-20 19:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200-份样本结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-北大国际医院出现-1-例确诊病例，该院-2669-医护人员核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-北​京通报-6-月-19-日新增-22-例确诊病例详情，均与新发地市场有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-北京-9-日内新增确诊-205-例，防控仍处于紧要关头](https://m.weibo.cn/2656274875/4517923039501043) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1) 

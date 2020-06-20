@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 16:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 19:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-20-辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200-份样本结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-北大国际医院出现-1-例确诊病例，该院-2669-医护人员核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-北​京通报-6-月-19-日新增-22-例确诊病例详情，均与新发地市场有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-北京-9-日内新增确诊-205-例，防控仍处于紧要关头](https://m.weibo.cn/2656274875/4517923039501043) ![](assets/new.png)  
 - [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1)  
 - [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1)  
 - [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1)  
 - [2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html)  
 - [2020-06-20-疫情之下-巴西传奇体育场70年来首次举办“没有观众”的足球赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirJ8EDFcYn7iPBYZlQN06200620&isfromapp=1)  
-- [2020-06-20-巴西：至少超过3000名原住民感染新冠肺炎-亚马孙地区继续告急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiybvFiFjmTVUkqRCzGiIX200620&isfromapp=1)  
-- [2020-06-20-俄罗斯2020年第六届东方经济论坛取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZug307rDHredTk5OqgJ200620&isfromapp=1)  
-- [2020-06-20-秘鲁累计确诊病例破24,7万例-国内航班或将在7月15日前复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUpt57iOXmZLCeVMBEnaU200620&isfromapp=1)  
-- [2020-06-20-巴西新冠确诊病例破百万](https://m.weibo.cn/2656274875/4517787476157249)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -858,11 +858,11 @@
 </summary>
 
 
-- [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) ![](assets/new.png)  
-- [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba) ![](assets/new.png)  
-- [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e) ![](assets/new.png)  
-- [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11) ![](assets/new.png)  
-- [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) ![](assets/new.png)  
+- [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)  
+- [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba)  
+- [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e)  
+- [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11)  
+- [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c)  
 - [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1)  
 - [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657)  
 - [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c)  

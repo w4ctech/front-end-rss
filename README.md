@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 14:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 15:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-沈阳：一线医务人员子女在沈中考最高可获降低-10-分录取](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-挪威三文鱼对华出口同比下跌-34%](https://m.weibo.cn/3057540037/4517866621163537) ![](assets/new.png)  
 - [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1)  
 - [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
 - [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-20-俄罗斯2020年第六届东方经济论坛取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZug307rDHredTk5OqgJ200620&isfromapp=1)  
 - [2020-06-20-秘鲁累计确诊病例破24,7万例-国内航班或将在7月15日前复航](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUpt57iOXmZLCeVMBEnaU200620&isfromapp=1)  
 - [2020-06-20-巴西新冠确诊病例破百万](https://m.weibo.cn/2656274875/4517787476157249)  
-- [2020-06-20-世卫称北京出现病毒与欧洲毒株密切相关](https://m.weibo.cn/2656274875/4517788285040862)  
-- [2020-06-19-谭德塞：18日全球新增15万例新冠肺炎病例，为单日最大增幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1acH5tAch5mhKrMZqEbR200619&isfromapp=1)  
-- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1)  
-- [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
-- [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -468,8 +468,8 @@
 </summary>
 
 
-- [2020-06-20-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/c503d111651f2a046d62d779299dfa41) ![](assets/new.png)  
-- [2020-06-20-一张图概括淘宝直播背后的前端技术](https://www.ershicimi.com/p/f88dac950b52fd513dfb9415074a84cd) ![](assets/new.png)  
+- [2020-06-20-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/c503d111651f2a046d62d779299dfa41)  
+- [2020-06-20-一张图概括淘宝直播背后的前端技术](https://www.ershicimi.com/p/f88dac950b52fd513dfb9415074a84cd)  
 - [2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62)  
 - [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa)  
 - [2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da)  

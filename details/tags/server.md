@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 16:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -12,6 +12,7 @@
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
 - [2020-06-10-Redis+Nginx+设计模式+Spring全家桶+Dubbo+阿里P8技术精选文档](https://www.ershicimi.com/p/579ee8a1d9d2888c45c4d75fc9d0b385) 
 - [2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) 
 - [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
 - [2020-06-20-求教在-docker-容器内部如何获取宿主机的-ip](https://www.v2ex.com/t/683242) 
 - [2020-06-19-现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 15:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 16:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-沈阳：一线医务人员子女在沈中考最高可获降低-10-分录取](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-挪威三文鱼对华出口同比下跌-34%](https://m.weibo.cn/3057540037/4517866621163537) ![](assets/new.png)  
+- [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1)  
+- [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1)  
+- [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1)  
+- [2020-06-20-沈阳：一线医务人员子女在沈中考最高可获降低-10-分录取](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1)  
+- [2020-06-20-挪威三文鱼对华出口同比下跌-34%](https://m.weibo.cn/3057540037/4517866621163537)  
 - [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1)  
 - [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
 - [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
@@ -858,6 +858,11 @@
 </summary>
 
 
+- [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) ![](assets/new.png)  
+- [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba) ![](assets/new.png)  
+- [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e) ![](assets/new.png)  
+- [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11) ![](assets/new.png)  
+- [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) ![](assets/new.png)  
 - [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1)  
 - [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657)  
 - [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c)  
@@ -873,11 +878,6 @@
 - [2020-06-17-日活超过-3-亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/b2a6a0a0501e25ec00b220bb5370739d)  
 - [2020-06-17-简化TensorFlow和Spark互操作性：LinkedIn开源Spark-TFRecord](https://www.ershicimi.com/p/4e4dd087af3cbf6e74de9841d743b160)  
 - [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9)  
-- [2020-06-16-Java微服务实用指南（二）](https://www.ershicimi.com/p/8a86c27cf2ff25623122f04330928fdb)  
-- [2020-06-16-GPT-3，价值460万美元的语言模型](https://www.ershicimi.com/p/62431b27956ef4341461f228eca3f054)  
-- [2020-06-16-编写-React-组件时常见的-5-个错误](https://www.ershicimi.com/p/2e289ee9eb0160dc22ceccf7d7445508)  
-- [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260)  
-- [2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

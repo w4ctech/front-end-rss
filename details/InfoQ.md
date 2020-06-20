@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-06-19 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) 
+- [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba) 
+- [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e) 
+- [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11) 
+- [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) 
 - [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1) 
 - [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657) 
 - [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c) 

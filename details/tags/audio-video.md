@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -16,6 +16,7 @@
 - [2019-10-10-视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a) 
 - [2019-10-08-视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed) 
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
+- [2020-06-20-一张图概括淘宝直播背后的前端技术](https://www.ershicimi.com/p/f88dac950b52fd513dfb9415074a84cd) 
 - [2020-05-31-淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6) 
 - [2020-05-31-微视频｜记录日常一篇文章的发布过程](https://www.ershicimi.com/p/766631ad7cb16a4ada17cd68e2a7ddaa) 
 - [2020-04-30-微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0) 

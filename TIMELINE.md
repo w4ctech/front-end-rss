@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-20 14:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -734,6 +734,8 @@
 - [【前端迷】2020-06-03-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/3b60b160dec4d5fc5283e89f2d986c4e) 
 - [【前端迷】2020-06-02-如何设计-QQ、微信等第三方账号登陆-？还要我说出数据库表设计！](https://www.ershicimi.com/p/120319a06644a27022cf486bc1ef0c14) 
 - [【前端迷】2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
+- [【全栈前端精选】2020-06-20-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/c503d111651f2a046d62d779299dfa41) 
+- [【全栈前端精选】2020-06-20-一张图概括淘宝直播背后的前端技术](https://www.ershicimi.com/p/f88dac950b52fd513dfb9415074a84cd) 
 - [【全栈前端精选】2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62) 
 - [【全栈前端精选】2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa) 
 - [【全栈前端精选】2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da) 

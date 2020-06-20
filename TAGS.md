@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-20 13:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -444,6 +444,7 @@
 - [【前端圈】视频围观Unbug-Lee在第五届FEDAY的演讲！](https://www.ershicimi.com/p/bd33a2fc61a62cf90655be0a334a708a)
 - [【前端圈】视频围观王泽在第五届FEDAY的演讲视频！](https://www.ershicimi.com/p/81e513aa228a3ab5a856e7900a27f8ed)
 - [【前端圈】视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138)
+- [【全栈前端精选】一张图概括淘宝直播背后的前端技术](https://www.ershicimi.com/p/f88dac950b52fd513dfb9415074a84cd)
 - [【全栈前端精选】淘系前端校招负责人直播答疑文字实录](https://www.ershicimi.com/p/26d5a8f1e3e9e1ee34755711906a02b6)
 - [【Nodejs技术栈】微视频｜记录日常一篇文章的发布过程](https://www.ershicimi.com/p/766631ad7cb16a4ada17cd68e2a7ddaa)
 - [【Nodejs技术栈】微视频-|-五分钟学会搭建带有-CDN-加速的免费图床](https://www.ershicimi.com/p/cffcfedba03eb644ae6dd66df24373f0)
@@ -454,7 +455,6 @@
 - [【InfoQ】留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718)
 - [【掘金前端】HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d)
 - [【掘金前端】自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7)
-- [【掘金前端】为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

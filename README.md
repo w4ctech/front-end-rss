@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 13:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 14:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)  
+- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1)  
 - [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
 - [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
 - [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1)  
@@ -468,6 +468,8 @@
 </summary>
 
 
+- [2020-06-20-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/c503d111651f2a046d62d779299dfa41) ![](assets/new.png)  
+- [2020-06-20-一张图概括淘宝直播背后的前端技术](https://www.ershicimi.com/p/f88dac950b52fd513dfb9415074a84cd) ![](assets/new.png)  
 - [2020-06-19-总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62)  
 - [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa)  
 - [2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da)  
@@ -486,8 +488,6 @@
 - [2020-06-06-七大热门小程序框架横评，谁是性能之王](https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f)  
 - [2020-06-05-【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9)  
 - [2020-06-05-全栈前端④群-招人啦！！！](https://www.ershicimi.com/p/d4e21a46a3fb48f2de93554595275e57)  
-- [2020-06-04-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/650345d9a1139ecadf6585b95cde03da)  
-- [2020-06-04-「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1306,6 +1306,7 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-06-20-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/c503d111651f2a046d62d779299dfa41) 
 - [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa) 
 - [2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554) 
 - [2020-06-13-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/50c615638b4d6654028f178f8ade20be) 

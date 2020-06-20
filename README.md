@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 10:30:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 11:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,12 @@
 </summary>
 
 
+- [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-韩国单日新增67例新冠肺炎确诊病例-首都圈感染持续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV8iVgbCrfKUbgRK1uu52200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-阿根廷新冠肺炎确诊病例逼近4万-首都等疫情重灾区将加大防控力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqKipWsvBWeX82473O0C5200620&isfromapp=1) ![](assets/new.png)  
 - [2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1)  
 - [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1)  
 - [2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html)  
@@ -108,12 +114,6 @@
 - [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
 - [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1)  
 - [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1)  
-- [2020-06-19-国家医保局：鼓励各地对核酸检测试剂集中采购并按照程序纳入医保](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDWl1smac4OEtbAeenWv200619&isfromapp=1)  
-- [2020-06-19-香港新增3例新冠肺炎确诊病例-累计确诊1127例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXxdTbNkUyBAb8Ti4iy8e200619&isfromapp=1)  
-- [2020-06-19-英国新冠肺炎疫情警报级别从四级降到三级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKlAGSQbZhLX5P7ktPh7f200619&isfromapp=1)  
-- [2020-06-19-加纳卫生部副部长：中国捐赠帮助加方解了燃眉之急](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9jsZ2f7OJDTyz8ELnNne200619&isfromapp=1)  
-- [2020-06-19-马来西亚进一步放宽防疫出入境限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1)  
-- [2020-06-19-新加坡总理呼吁公众谨慎对待解封-勿庆祝过头](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,9 +1014,9 @@
 </summary>
 
 
-- [2020-06-19-知乎-10-万+-赞同：如何提升自己为人处世的能力？](https://www.ershicimi.com/p/2848728f38ae43d32072483da7c16696) ![](assets/new.png)  
-- [2020-06-19-大熊猫这么可爱，抢它的竹笋吃犯法吗？](https://www.ershicimi.com/p/9055745dc3b0b08165a9b56a9b0e725c) ![](assets/new.png)  
-- [2020-06-19-知乎故事-|-小婴儿的性格是天生的吗？](https://www.ershicimi.com/p/8e014fdd488cfb80eedc9768acb158a4) ![](assets/new.png)  
+- [2020-06-19-知乎-10-万+-赞同：如何提升自己为人处世的能力？](https://www.ershicimi.com/p/2848728f38ae43d32072483da7c16696)  
+- [2020-06-19-大熊猫这么可爱，抢它的竹笋吃犯法吗？](https://www.ershicimi.com/p/9055745dc3b0b08165a9b56a9b0e725c)  
+- [2020-06-19-知乎故事-|-小婴儿的性格是天生的吗？](https://www.ershicimi.com/p/8e014fdd488cfb80eedc9768acb158a4)  
 - [2020-06-18-知乎好问题：有哪些便宜还好用的东西，买了就感觉得了宝一样？](https://www.ershicimi.com/p/7995c21b860b1e82e2be8274b210390f)  
 - [2020-06-18-9-位「时尚盐究员」带你变身美妆达人](https://www.ershicimi.com/p/1dafe836af81504e0bdb82cce32a5f63)  
 - [2020-06-18-2020，微信里舍不得删的7个公众号](https://www.ershicimi.com/p/318bbda40b0f675f8517474a2c4b9360)  
@@ -1045,11 +1045,11 @@
 </summary>
 
 
-- [2020-06-20-光猫改桥接，请教获取管理员密码的方式](https://www.v2ex.com/t/683252) ![](assets/new.png)  
-- [2020-06-20-知网搜索有没有替代品？](https://www.v2ex.com/t/683251) ![](assets/new.png)  
-- [2020-06-20-程序媛的旅拍-MV](https://www.v2ex.com/t/683250) ![](assets/new.png)  
-- [2020-06-20-跟着网上博客的教程安装-hadoop，然后我的服务器就被入侵了](https://www.v2ex.com/t/683249) ![](assets/new.png)  
-- [2020-06-20-有人用罗技-G604-玩守望先锋的吗？](https://www.v2ex.com/t/683248) ![](assets/new.png)  
+- [2020-06-20-光猫改桥接，请教获取管理员密码的方式](https://www.v2ex.com/t/683252)  
+- [2020-06-20-知网搜索有没有替代品？](https://www.v2ex.com/t/683251)  
+- [2020-06-20-程序媛的旅拍-MV](https://www.v2ex.com/t/683250)  
+- [2020-06-20-跟着网上博客的教程安装-hadoop，然后我的服务器就被入侵了](https://www.v2ex.com/t/683249)  
+- [2020-06-20-有人用罗技-G604-玩守望先锋的吗？](https://www.v2ex.com/t/683248)  
 - [2020-06-20-<广州/北京技术招聘>-BIGO:海外直播短视频即时通讯社交业务（全球-4-千多人，产品研发占据-1/4）](https://www.v2ex.com/t/683247)  
 - [2020-06-20-xx-访问酷狗,网易云,不想买梯子,有云服务器,能自己搭?](https://www.v2ex.com/t/683245)  
 - [2020-06-20-Makefile-命令中能使用-gcc，不能用-cc（Windows-中）](https://www.v2ex.com/t/683243)  

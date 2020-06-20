@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,9 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1) 
+- [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1) 
+- [2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1) 
 - [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1) 
 - [2020-06-20-疫情之下-巴西传奇体育场70年来首次举办“没有观众”的足球赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirJ8EDFcYn7iPBYZlQN06200620&isfromapp=1) 
 - [2020-06-20-俄罗斯2020年第六届东方经济论坛取消](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZug307rDHredTk5OqgJ200620&isfromapp=1) 

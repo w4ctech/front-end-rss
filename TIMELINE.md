@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-20 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,12 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-韩国单日新增67例新冠肺炎确诊病例-首都圈感染持续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV8iVgbCrfKUbgRK1uu52200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-阿根廷新冠肺炎确诊病例逼近4万-首都等疫情重灾区将加大防控力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqKipWsvBWeX82473O0C5200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html) 

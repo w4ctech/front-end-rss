@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -67,6 +67,7 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-20-巨硬招聘-代码仔在线卑微求简历](https://www.v2ex.com/t/683386) 
 - [2020-06-19-字节跳动-2021-提前批招聘-iOS-客户端基础架构团队](https://www.v2ex.com/t/683208) 
 - [2020-06-19-深圳腾讯云招聘-golang-开发工程师](https://www.v2ex.com/t/683160) 
 - [2020-06-19-武汉-北京-新炬网络-招聘-Oracle-DBA](https://www.v2ex.com/t/683152) 

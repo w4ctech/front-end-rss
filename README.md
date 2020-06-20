@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 21:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 23:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-20-摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRcjHZCJ6qfOLyOil93M7200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-世卫组织：全球新冠肺炎病例超过852万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-北京快递小哥全员核酸检测，目前无确诊和疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid59I8LHsyMhavK3JMOgz200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRcjHZCJ6qfOLyOil93M7200620&isfromapp=1)  
 - [2020-06-20-辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200-份样本结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1)  
 - [2020-06-20-北大国际医院出现-1-例确诊病例，该院-2669-医护人员核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1)  
 - [2020-06-20-北​京通报-6-月-19-日新增-22-例确诊病例详情，均与新发地市场有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1)  
 - [2020-06-20-阿根廷新冠肺炎确诊病例逼近4万-首都等疫情重灾区将加大防控力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqKipWsvBWeX82473O0C5200620&isfromapp=1)  
 - [2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1)  
-- [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1)  
-- [2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1045,26 +1045,26 @@
 </summary>
 
 
-- [2020-06-20-独家19-年字节校招提前批内推数据解密……](https://www.v2ex.com/t/683367) ![](assets/new.png)  
-- [2020-06-20-开通过花呗、京东白条是否会影响银行审批信用卡？](https://www.v2ex.com/t/683366) ![](assets/new.png)  
-- [2020-06-20-如何将多款软件（JDK、MySQL、redis、nginx、-Java-项目-jar-包-等）打包为-exe-/-msi-等可执行安装软件，一步步安装并启动？](https://www.v2ex.com/t/683365) ![](assets/new.png)  
-- [2020-06-20-被拼多多影响了消费观怎么办？](https://www.v2ex.com/t/683364) ![](assets/new.png)  
-- [2020-06-20-电动牙刷的刷头和机身连接处缝隙太大是否正常？](https://www.v2ex.com/t/683363) ![](assets/new.png)  
-- [2020-06-20-公司项目没亮点？不如自己做一个：-React-Hooks-+-TypeScript-做个仿-MacOS-桌面](https://www.v2ex.com/t/683362) ![](assets/new.png)  
-- [2020-06-20-16-寸-macbook-电源好像挂了](https://www.v2ex.com/t/683361) ![](assets/new.png)  
-- [2020-06-20-端午节高铁从上海去河南，假期结束返程，回来还是绿码吗？](https://www.v2ex.com/t/683360) ![](assets/new.png)  
-- [2020-06-20-大楼门铃门禁，怎么改造实现自动开门？](https://www.v2ex.com/t/683359) ![](assets/new.png)  
-- [2020-06-20-家里要装修，是自己请工人装修好还是给装修公司装修好？](https://www.v2ex.com/t/683358) ![](assets/new.png)  
-- [2020-06-20-被健康码遗忘的老年人](https://www.v2ex.com/t/683357) ![](assets/new.png)  
-- [2020-06-20-初中生可否使用阿里云学生机？](https://www.v2ex.com/t/683355) ![](assets/new.png)  
-- [2020-06-20-pve-中黑群晖的-SSH-文件改坏了，没法登陆，是不是报废了](https://www.v2ex.com/t/683354) ![](assets/new.png)  
-- [2020-06-20-北京-盈利且增长迅猛，海外版头条-startup---高级后端工程师](https://www.v2ex.com/t/683352) ![](assets/new.png)  
-- [2020-06-20-请问如何触发“移动端”的点击动作？](https://www.v2ex.com/t/683351) ![](assets/new.png)  
-- [2020-06-20-iPhone-进行-iCloud-云备份提示-iCloud-空间不足](https://www.v2ex.com/t/683349) ![](assets/new.png)  
-- [2020-06-20-Windows-Remote-Desktop-有没有安全方面的建议？](https://www.v2ex.com/t/683348) ![](assets/new.png)  
-- [2020-06-20-为什么-hp-和戴尔不出-16-寸笔记本](https://www.v2ex.com/t/683347) ![](assets/new.png)  
-- [2020-06-20-只有以「用户思维」管理团队的公司才能活过今天](https://www.v2ex.com/t/683346) ![](assets/new.png)  
-- [2020-06-20-powershell-中的转义符，真是个大麻烦](https://www.v2ex.com/t/683345) ![](assets/new.png)  
+- [2020-06-20-巨硬招聘-代码仔在线卑微求简历](https://www.v2ex.com/t/683386) ![](assets/new.png)  
+- [2020-06-20-这里应该有正在抖音工作的人](https://www.v2ex.com/t/683384) ![](assets/new.png)  
+- [2020-06-20-谷歌浏览器最新版，网站访问快捷键每次重启浏览器要等好几分钟才能加载出来。](https://www.v2ex.com/t/683382) ![](assets/new.png)  
+- [2020-06-20-ssh-config-是否安全？](https://www.v2ex.com/t/683381) ![](assets/new.png)  
+- [2020-06-20-GitAds-靠谱吗？](https://www.v2ex.com/t/683380) ![](assets/new.png)  
+- [2020-06-20-联想-duet-二合一平板电脑开箱评测](https://www.v2ex.com/t/683379) ![](assets/new.png)  
+- [2020-06-20-为什么两个字典对比，结果和想象的不同？](https://www.v2ex.com/t/683378) ![](assets/new.png)  
+- [2020-06-20-有没有养狗的大佬，求除蜱虫方法](https://www.v2ex.com/t/683377) ![](assets/new.png)  
+- [2020-06-20-有多个服务器和-sshkey，如何管理?](https://www.v2ex.com/t/683376) ![](assets/new.png)  
+- [2020-06-20-GitHub：根据文字描述生成-UML-图，你用过吗?](https://www.v2ex.com/t/683375) ![](assets/new.png)  
+- [2020-06-20-boxcryptor-移动端无法绑定-dropbox？](https://www.v2ex.com/t/683374) ![](assets/new.png)  
+- [2020-06-20-手机壳对散热影响有多大，会导致降频吗？](https://www.v2ex.com/t/683373) ![](assets/new.png)  
+- [2020-06-20-共享式以太网如果用全双工通信会怎么样？还需要-CSMA/CD-吗](https://www.v2ex.com/t/683372) ![](assets/new.png)  
+- [2020-06-20-「房东直租」华阳广都地铁口套二整租](https://www.v2ex.com/t/683371) ![](assets/new.png)  
+- [2020-06-20-大家感觉今年的房租是降了还是涨了](https://www.v2ex.com/t/683370) ![](assets/new.png)  
+- [2020-06-20-字节-21-届校招内推---独家19-年字节校招提前批内推数据解密……](https://www.v2ex.com/t/683369) ![](assets/new.png)  
+- [2020-06-20-坐标杭州,人在阿里,工作三年,目前-6,后端,求靠谱内推.](https://www.v2ex.com/t/683368) ![](assets/new.png)  
+- [2020-06-20-独家19-年字节校招提前批内推数据解密……](https://www.v2ex.com/t/683367)  
+- [2020-06-20-开通过花呗、京东白条是否会影响银行审批信用卡？](https://www.v2ex.com/t/683366)  
+- [2020-06-20-如何将多款软件（JDK、MySQL、redis、nginx、-Java-项目-jar-包-等）打包为-exe-/-msi-等可执行安装软件，一步步安装并启动？](https://www.v2ex.com/t/683365)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

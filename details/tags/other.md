@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1689,6 +1689,9 @@
 - [2019-10-14-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) 
 - [2019-10-13-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) 
 - [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) 
+- [2020-06-19-知乎-10-万+-赞同：如何提升自己为人处世的能力？](https://www.ershicimi.com/p/2848728f38ae43d32072483da7c16696) 
+- [2020-06-19-大熊猫这么可爱，抢它的竹笋吃犯法吗？](https://www.ershicimi.com/p/9055745dc3b0b08165a9b56a9b0e725c) 
+- [2020-06-19-知乎故事-|-小婴儿的性格是天生的吗？](https://www.ershicimi.com/p/8e014fdd488cfb80eedc9768acb158a4) 
 - [2020-06-18-知乎好问题：有哪些便宜还好用的东西，买了就感觉得了宝一样？](https://www.ershicimi.com/p/7995c21b860b1e82e2be8274b210390f) 
 - [2020-06-18-9-位「时尚盐究员」带你变身美妆达人](https://www.ershicimi.com/p/1dafe836af81504e0bdb82cce32a5f63) 
 - [2020-06-18-2020，微信里舍不得删的7个公众号](https://www.ershicimi.com/p/318bbda40b0f675f8517474a2c4b9360) 
@@ -1778,6 +1781,11 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-20-光猫改桥接，请教获取管理员密码的方式](https://www.v2ex.com/t/683252) 
+- [2020-06-20-知网搜索有没有替代品？](https://www.v2ex.com/t/683251) 
+- [2020-06-20-程序媛的旅拍-MV](https://www.v2ex.com/t/683250) 
+- [2020-06-20-跟着网上博客的教程安装-hadoop，然后我的服务器就被入侵了](https://www.v2ex.com/t/683249) 
+- [2020-06-20-有人用罗技-G604-玩守望先锋的吗？](https://www.v2ex.com/t/683248) 
 - [2020-06-20-xx-访问酷狗,网易云,不想买梯子,有云服务器,能自己搭?](https://www.v2ex.com/t/683245) 
 - [2020-06-20-Makefile-命令中能使用-gcc，不能用-cc（Windows-中）](https://www.v2ex.com/t/683243) 
 - [2020-06-20-618-下狠心买了-Parallels-Desktop-Pro](https://www.v2ex.com/t/683240) 

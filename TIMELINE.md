@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-20 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1226,6 +1226,9 @@
 - [【掘金前端】2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677) 
 - [【掘金前端】2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9) 
 - [【掘金前端】2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
+- [【知乎日报】2020-06-19-知乎-10-万+-赞同：如何提升自己为人处世的能力？](https://www.ershicimi.com/p/2848728f38ae43d32072483da7c16696) 
+- [【知乎日报】2020-06-19-大熊猫这么可爱，抢它的竹笋吃犯法吗？](https://www.ershicimi.com/p/9055745dc3b0b08165a9b56a9b0e725c) 
+- [【知乎日报】2020-06-19-知乎故事-|-小婴儿的性格是天生的吗？](https://www.ershicimi.com/p/8e014fdd488cfb80eedc9768acb158a4) 
 - [【知乎日报】2020-06-18-知乎好问题：有哪些便宜还好用的东西，买了就感觉得了宝一样？](https://www.ershicimi.com/p/7995c21b860b1e82e2be8274b210390f) 
 - [【知乎日报】2020-06-18-9-位「时尚盐究员」带你变身美妆达人](https://www.ershicimi.com/p/1dafe836af81504e0bdb82cce32a5f63) 
 - [【知乎日报】2020-06-18-2020，微信里舍不得删的7个公众号](https://www.ershicimi.com/p/318bbda40b0f675f8517474a2c4b9360) 
@@ -1293,6 +1296,11 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-20-光猫改桥接，请教获取管理员密码的方式](https://www.v2ex.com/t/683252) 
+- [【V2EX】2020-06-20-知网搜索有没有替代品？](https://www.v2ex.com/t/683251) 
+- [【V2EX】2020-06-20-程序媛的旅拍-MV](https://www.v2ex.com/t/683250) 
+- [【V2EX】2020-06-20-跟着网上博客的教程安装-hadoop，然后我的服务器就被入侵了](https://www.v2ex.com/t/683249) 
+- [【V2EX】2020-06-20-有人用罗技-G604-玩守望先锋的吗？](https://www.v2ex.com/t/683248) 
 - [【V2EX】2020-06-20-<广州/北京技术招聘>-BIGO:海外直播短视频即时通讯社交业务（全球-4-千多人，产品研发占据-1/4）](https://www.v2ex.com/t/683247) 
 - [【V2EX】2020-06-20-xx-访问酷狗,网易云,不想买梯子,有云服务器,能自己搭?](https://www.v2ex.com/t/683245) 
 - [【V2EX】2020-06-20-Makefile-命令中能使用-gcc，不能用-cc（Windows-中）](https://www.v2ex.com/t/683243) 

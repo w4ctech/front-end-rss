@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 08:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-20-世卫称北京出现病毒与欧洲毒株密切相关](https://m.weibo.cn/2656274875/4517788285040862) ![](assets/new.png)  
+- [2020-06-20-巴西新冠确诊病例破百万](https://m.weibo.cn/2656274875/4517787476157249) ![](assets/new.png)  
+- [2020-06-20-世卫称北京出现病毒与欧洲毒株密切相关](https://m.weibo.cn/2656274875/4517788285040862)  
 - [2020-06-19-谭德塞：18日全球新增15万例新冠肺炎病例，为单日最大增幅](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1acH5tAch5mhKrMZqEbR200619&isfromapp=1)  
 - [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1)  
 - [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-19-吴尊友：只要全球疫情没有完全控制-零星病例随时可能在任何一个地方发生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyfD5RsaVKY5DqqesQQN200619&isfromapp=1)  
 - [2020-06-19-高风险地区购买的食品要扔吗？吴尊友：具体问题具体看-冷冻类的要注意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVyMFwYMk8BFv5YTujCnw200619&isfromapp=1)  
 - [2020-06-19-美国最大院线集团7月开始开放影城](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE35DX7V6ZL8D6HBH8HIU200619&isfromapp=1)  
-- [2020-06-19-日本19日全面放宽国内跨县移动限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

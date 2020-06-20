@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-20 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -3871,6 +3871,19 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64) 
+- [【开发者头条】2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin) 
+- [【开发者头条】2020-06-20-手把手教你，本地搭建虚拟机部署微服务](https://toutiao.io/k/cihte9f) 
+- [【开发者头条】2020-06-20-实践一把-Loki，体验掌上起舞的轻盈](https://toutiao.io/k/dpomqai) 
+- [【开发者头条】2020-06-20-Filebeat-收集日志的那些事儿](https://toutiao.io/k/gus7nv2) 
+- [【开发者头条】2020-06-20-怎样消灭-Bug？](https://toutiao.io/k/cux0n0m) 
+- [【开发者头条】2020-06-20-再启程，Service-Mesh-前路虽长，尤可期许](https://toutiao.io/k/xj4eqrv) 
+- [【开发者头条】2020-06-20-密码管理工具（命令行）](https://toutiao.io/k/zww6eqt) 
+- [【开发者头条】2020-06-20-译-重磅！Go-泛型草案更新，最早在明年-8-月的-Go-1.17-发布](https://toutiao.io/k/39nra0j) 
+- [【开发者头条】2020-06-20-foreach-集合又抛经典异常了，这次一定要刨根问底](https://toutiao.io/k/tqkf8r7) 
+- [【开发者头条】2020-06-20-随兴趣去折腾可能也是一种错](https://toutiao.io/k/6jgo2nu) 
+- [【开发者头条】2020-06-20-一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x) 
+- [【开发者头条】2020-06-20-MongoDB-网络传输处理源码实现及性能调优：体验内核性能极致设计](https://toutiao.io/k/p1v5xhq) 
 - [【开发者头条】2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr) 
 - [【开发者头条】2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2) 
 - [【开发者头条】2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix) 

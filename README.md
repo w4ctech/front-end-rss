@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 11:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 12:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,12 +94,12 @@
 </summary>
 
 
-- [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-韩国单日新增67例新冠肺炎确诊病例-首都圈感染持续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV8iVgbCrfKUbgRK1uu52200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1) ![](assets/new.png)  
-- [2020-06-20-阿根廷新冠肺炎确诊病例逼近4万-首都等疫情重灾区将加大防控力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqKipWsvBWeX82473O0C5200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
+- [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
+- [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1)  
+- [2020-06-20-韩国单日新增67例新冠肺炎确诊病例-首都圈感染持续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV8iVgbCrfKUbgRK1uu52200620&isfromapp=1)  
+- [2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1)  
+- [2020-06-20-阿根廷新冠肺炎确诊病例逼近4万-首都等疫情重灾区将加大防控力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqKipWsvBWeX82473O0C5200620&isfromapp=1)  
 - [2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1)  
 - [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1)  
 - [2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html)  
@@ -1107,6 +1107,19 @@
 </summary>
 
 
+- [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64) ![](assets/new.png)  
+- [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin) ![](assets/new.png)  
+- [2020-06-20-手把手教你，本地搭建虚拟机部署微服务](https://toutiao.io/k/cihte9f) ![](assets/new.png)  
+- [2020-06-20-实践一把-Loki，体验掌上起舞的轻盈](https://toutiao.io/k/dpomqai) ![](assets/new.png)  
+- [2020-06-20-Filebeat-收集日志的那些事儿](https://toutiao.io/k/gus7nv2) ![](assets/new.png)  
+- [2020-06-20-怎样消灭-Bug？](https://toutiao.io/k/cux0n0m) ![](assets/new.png)  
+- [2020-06-20-再启程，Service-Mesh-前路虽长，尤可期许](https://toutiao.io/k/xj4eqrv) ![](assets/new.png)  
+- [2020-06-20-密码管理工具（命令行）](https://toutiao.io/k/zww6eqt) ![](assets/new.png)  
+- [2020-06-20-译-重磅！Go-泛型草案更新，最早在明年-8-月的-Go-1.17-发布](https://toutiao.io/k/39nra0j) ![](assets/new.png)  
+- [2020-06-20-foreach-集合又抛经典异常了，这次一定要刨根问底](https://toutiao.io/k/tqkf8r7) ![](assets/new.png)  
+- [2020-06-20-随兴趣去折腾可能也是一种错](https://toutiao.io/k/6jgo2nu) ![](assets/new.png)  
+- [2020-06-20-一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x) ![](assets/new.png)  
+- [2020-06-20-MongoDB-网络传输处理源码实现及性能调优：体验内核性能极致设计](https://toutiao.io/k/p1v5xhq) ![](assets/new.png)  
 - [2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr)  
 - [2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2)  
 - [2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix)  
@@ -1114,19 +1127,6 @@
 - [2020-06-19-我终于搞清了啥是-HTTPS-了](https://toutiao.io/k/rdxllye)  
 - [2020-06-19-开域聊天机器人技术介绍（现实篇）](https://toutiao.io/k/oj3w1bx)  
 - [2020-06-19-架构师该如何为应用选择合适的-API](https://toutiao.io/k/hjbjv8b)  
-- [2020-06-19-漫谈分布式系统（十七）：决战-Shuffle](https://toutiao.io/k/tw669e7)  
-- [2020-06-19-从行存储到-RCFile，Facebook-为什么要设计出-RCFile？](https://toutiao.io/k/0vm8xqr)  
-- [2020-06-19-教会-AI-认识麻将牌（实践篇）](https://toutiao.io/k/q61jy5u)  
-- [2020-06-19-读《春夜十话，数学与情绪》](https://toutiao.io/k/321o94i)  
-- [2020-06-19-需求变化的应对之道](https://toutiao.io/k/0cl1dpi)  
-- [2020-06-19-玩归玩，闹归闹，别拿抽奖开玩笑](https://toutiao.io/k/t4vcq6f)  
-- [2020-06-19-花椒-Android-客户端多变体构建实践](https://toutiao.io/k/hu5zavv)  
-- [2020-06-19-CTR-预估模型中的正负样本问题](https://toutiao.io/k/a5856dg)  
-- [2020-06-19-Spring-WEB-系列：静态资源配置与读取](https://toutiao.io/k/zo77itv)  
-- [2020-06-19-一时技痒，撸了个动态线程池，源码放-GitHub了](https://toutiao.io/k/klwihj1)  
-- [2020-06-19-搞定微服务线上生命周期管理，同时发布上千个服务节点不是事儿](https://toutiao.io/k/mexs924)  
-- [2020-06-19-学习-Redux-源码整体架构，深入理解-Redux-及其中间件原理](https://toutiao.io/k/dp8lxbf)  
-- [2020-06-19-Spring-异步实现原理与实战分享](https://toutiao.io/k/35kxh20)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-20 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-20 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -25,5 +25,6 @@
 - [2019-12-04-Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd) 
 - [2020-06-17-Webpack4-+-TypeScript-如何优化编译速度?](https://www.v2ex.com/t/682307) 
 - [2020-06-06-Typescript-香吗?](https://www.v2ex.com/t/679223) 
+- [2020-06-20-一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x) 
 - [2020-06-16-了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo) 
 - [2020-06-15-TypeScript-使用日志](https://toutiao.io/k/uuz5bsv) 

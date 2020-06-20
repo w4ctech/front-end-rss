@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 12:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 13:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1) ![](assets/new.png)  
 - [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
 - [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
 - [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过838万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihRK7dgfrsNJlC7DgxBHH200619&isfromapp=1)  
 - [2020-06-19-法国公共卫生署：新冠肺炎集体感染病例逐渐增多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxHstfxUxuMS68B7xCpA200619&isfromapp=1)  
 - [2020-06-19-非洲地区新冠肺炎确诊病例增至27.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6BloUsJDLl2jkJN5PDUz200619&isfromapp=1)  
-- [2020-06-19-世卫组织：全球新冠肺炎确诊病例超过836万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifCUuMjyN19wxCjx6sCpX200619&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,19 +1107,19 @@
 </summary>
 
 
-- [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64) ![](assets/new.png)  
-- [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin) ![](assets/new.png)  
-- [2020-06-20-手把手教你，本地搭建虚拟机部署微服务](https://toutiao.io/k/cihte9f) ![](assets/new.png)  
-- [2020-06-20-实践一把-Loki，体验掌上起舞的轻盈](https://toutiao.io/k/dpomqai) ![](assets/new.png)  
-- [2020-06-20-Filebeat-收集日志的那些事儿](https://toutiao.io/k/gus7nv2) ![](assets/new.png)  
-- [2020-06-20-怎样消灭-Bug？](https://toutiao.io/k/cux0n0m) ![](assets/new.png)  
-- [2020-06-20-再启程，Service-Mesh-前路虽长，尤可期许](https://toutiao.io/k/xj4eqrv) ![](assets/new.png)  
-- [2020-06-20-密码管理工具（命令行）](https://toutiao.io/k/zww6eqt) ![](assets/new.png)  
-- [2020-06-20-译-重磅！Go-泛型草案更新，最早在明年-8-月的-Go-1.17-发布](https://toutiao.io/k/39nra0j) ![](assets/new.png)  
-- [2020-06-20-foreach-集合又抛经典异常了，这次一定要刨根问底](https://toutiao.io/k/tqkf8r7) ![](assets/new.png)  
-- [2020-06-20-随兴趣去折腾可能也是一种错](https://toutiao.io/k/6jgo2nu) ![](assets/new.png)  
-- [2020-06-20-一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x) ![](assets/new.png)  
-- [2020-06-20-MongoDB-网络传输处理源码实现及性能调优：体验内核性能极致设计](https://toutiao.io/k/p1v5xhq) ![](assets/new.png)  
+- [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64)  
+- [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin)  
+- [2020-06-20-手把手教你，本地搭建虚拟机部署微服务](https://toutiao.io/k/cihte9f)  
+- [2020-06-20-实践一把-Loki，体验掌上起舞的轻盈](https://toutiao.io/k/dpomqai)  
+- [2020-06-20-Filebeat-收集日志的那些事儿](https://toutiao.io/k/gus7nv2)  
+- [2020-06-20-怎样消灭-Bug？](https://toutiao.io/k/cux0n0m)  
+- [2020-06-20-再启程，Service-Mesh-前路虽长，尤可期许](https://toutiao.io/k/xj4eqrv)  
+- [2020-06-20-密码管理工具（命令行）](https://toutiao.io/k/zww6eqt)  
+- [2020-06-20-译-重磅！Go-泛型草案更新，最早在明年-8-月的-Go-1.17-发布](https://toutiao.io/k/39nra0j)  
+- [2020-06-20-foreach-集合又抛经典异常了，这次一定要刨根问底](https://toutiao.io/k/tqkf8r7)  
+- [2020-06-20-随兴趣去折腾可能也是一种错](https://toutiao.io/k/6jgo2nu)  
+- [2020-06-20-一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x)  
+- [2020-06-20-MongoDB-网络传输处理源码实现及性能调优：体验内核性能极致设计](https://toutiao.io/k/p1v5xhq)  
 - [2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr)  
 - [2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2)  
 - [2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix)  

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-20 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-20 10:00:20，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1) ![](assets/new.png)  
+- [2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1)  
 - [2020-06-20-武汉一周来共抽检503家超市和农贸市场17670份环境样本-结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNWKyiH3VWx1k4dLRqQTA200620&isfromapp=1)  
 - [2020-06-20-北京昨日新增报告22例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200620_1929179.html)  
 - [2020-06-20-疫情之下-巴西传奇体育场70年来首次举办“没有观众”的足球赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirJ8EDFcYn7iPBYZlQN06200620&isfromapp=1)  
@@ -1045,26 +1045,26 @@
 </summary>
 
 
+- [2020-06-20-<广州/北京技术招聘>-BIGO:海外直播短视频即时通讯社交业务（全球-4-千多人，产品研发占据-1/4）](https://www.v2ex.com/t/683247) ![](assets/new.png)  
+- [2020-06-20-xx-访问酷狗,网易云,不想买梯子,有云服务器,能自己搭?](https://www.v2ex.com/t/683245) ![](assets/new.png)  
+- [2020-06-20-Makefile-命令中能使用-gcc，不能用-cc（Windows-中）](https://www.v2ex.com/t/683243) ![](assets/new.png)  
+- [2020-06-20-求教在-docker-容器内部如何获取宿主机的-ip](https://www.v2ex.com/t/683242) ![](assets/new.png)  
+- [2020-06-20-H3C-S5500-交换机配置，公司几条-adsl-宽带想通过，猫-交换机-软路由，这种方式把带宽整合起来。自己研究了两天还是没搞懂，软路由刷的爱快。请问，交换机怎么配...](https://www.v2ex.com/t/683241) ![](assets/new.png)  
+- [2020-06-20-618-下狠心买了-Parallels-Desktop-Pro](https://www.v2ex.com/t/683240) ![](assets/new.png)  
+- [2020-06-20-对未来有些迷茫，想听听大家的经历。](https://www.v2ex.com/t/683239) ![](assets/new.png)  
+- [2020-06-20-技术面的时候紧张导致思路闭塞怎么办？](https://www.v2ex.com/t/683238) ![](assets/new.png)  
+- [2020-06-20-nuc-10-网络唤醒问题](https://www.v2ex.com/t/683237) ![](assets/new.png)  
+- [2020-06-20-隔壁有人问-y9000x，我也想问下-机械革命（MECHREVO）Code01，描述为程序员打造，能入伐？](https://www.v2ex.com/t/683236) ![](assets/new.png)  
+- [2020-06-20-QQ-的自选股-不能用吗？我怎么一直刷新不出来](https://www.v2ex.com/t/683235) ![](assets/new.png)  
+- [2020-06-20-校招/社招-Hiretual-北京-硅谷-AI-外企来抓人了！多个-HC，有需求的速来报道~](https://www.v2ex.com/t/683234) ![](assets/new.png)  
+- [2020-06-20-抖音有比极速版更简洁的版本](https://www.v2ex.com/t/683233) ![](assets/new.png)  
+- [2020-06-20-Java-web-可以高并发支持原生-tcp-socket-吗](https://www.v2ex.com/t/683232) ![](assets/new.png)  
+- [2020-06-20-xshell-快速命令怎么获取连接主机的各种信息呀](https://www.v2ex.com/t/683231) ![](assets/new.png)  
 - [2020-06-20-Magic-Keyboard-和机械键盘从效率和健康上哪个更好呢？](https://www.v2ex.com/t/683230)  
 - [2020-06-20-应届生的简历，请前辈们帮忙指点一下](https://www.v2ex.com/t/683229)  
 - [2020-06-20-出售颜表情等域名](https://www.v2ex.com/t/683228)  
 - [2020-06-20-有用-TiddlerWiki-的同好吗，想请教一下-Tiddler-作为最小单位，应该填什么？](https://www.v2ex.com/t/683227)  
 - [2020-06-20-上-Google-scholar-出现-error-403](https://www.v2ex.com/t/683226)  
-- [2020-06-20-mindmaster-8.0.2-版本-新推出两个功能-真要命啊.](https://www.v2ex.com/t/683225)  
-- [2020-06-20-求助！编译-tesseract-遇到问题](https://www.v2ex.com/t/683224)  
-- [2020-06-20-哪些炒股/理财-APP-比较靠谱?](https://www.v2ex.com/t/683223)  
-- [2020-06-20-20200620-午夜俱乐部](https://www.v2ex.com/t/683221)  
-- [2020-06-20-fiddler-抓包-怎么实现多次请求-并判断不是同一用户](https://www.v2ex.com/t/683219)  
-- [2020-06-20-崩溃，手机装了佳明的-connect-和-connect-iq-后，续航炸了](https://www.v2ex.com/t/683217)  
-- [2020-06-20-用-Flutter-实现探探卡片布局](https://www.v2ex.com/t/683216)  
-- [2020-06-20-不懂就问：为什么大多数游戏-iOS-和-Android-平台数据不能互通，真的就这么难吗？](https://www.v2ex.com/t/683215)  
-- [2020-06-20-大家无线键鼠电池用的什么牌子的？](https://www.v2ex.com/t/683214)  
-- [2020-06-19-我想写一个-Windows-版的-iOS-自动化快捷键指令](https://www.v2ex.com/t/683213)  
-- [2020-06-19-寸铁-《目击你刚刚完成这一跳》](https://www.v2ex.com/t/683212)  
-- [2020-06-19-求大佬指导，爬个-COVID-19-数据的网站](https://www.v2ex.com/t/683210)  
-- [2020-06-19-字节跳动-2021-提前批招聘-iOS-客户端基础架构团队](https://www.v2ex.com/t/683208)  
-- [2020-06-19-MacBook-想升级-SSD-和内存翻车变砖头了](https://www.v2ex.com/t/683206)  
-- [2020-06-19-关于杭州单间公寓租房的一些问题请教](https://www.v2ex.com/t/683205)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

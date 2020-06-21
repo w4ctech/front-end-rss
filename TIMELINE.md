@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1) 
@@ -954,6 +957,11 @@
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [【InfoQ】2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) 
+- [【InfoQ】2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) 
+- [【InfoQ】2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) 
+- [【InfoQ】2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f) 
+- [【InfoQ】2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5) 
 - [【InfoQ】2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) 
 - [【InfoQ】2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba) 
 - [【InfoQ】2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e) 

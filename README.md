@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 12:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 12:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) ![](assets/new.png)  
+- [2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1) ![](assets/new.png)  
 - [2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1)  
 - [2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1)  
 - [2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1)  
 - [2020-06-20-沈阳：一线医务人员子女在沈中考最高可获降低-10-分录取](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1)  
 - [2020-06-20-挪威三文鱼对华出口同比下跌-34%](https://m.weibo.cn/3057540037/4517866621163537)  
-- [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1)  
-- [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
-- [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -859,6 +859,11 @@
 </summary>
 
 
+- [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) ![](assets/new.png)  
+- [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) ![](assets/new.png)  
+- [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) ![](assets/new.png)  
+- [2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f) ![](assets/new.png)  
+- [2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5) ![](assets/new.png)  
 - [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)  
 - [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba)  
 - [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e)  
@@ -874,11 +879,6 @@
 - [2020-06-18-AWS-打造容器服务体系，Amazon-EKS-这块拼图有多重要？](https://www.ershicimi.com/p/f549632043da086d519b4d433410eba0)  
 - [2020-06-18-倒计时-1-天！Serverless，起风了-|-Q推荐](https://www.ershicimi.com/p/55e576a96157203ed76039340298f546)  
 - [2020-06-18-Deno-是代码的浏览器](https://www.ershicimi.com/p/1cbf61e0f0228d1cf7d00ad73714c5c6)  
-- [2020-06-17-滴滴一技术总监4年累计受贿1000万，被开除并移送公安机关](https://www.ershicimi.com/p/be8389aa40ac34276244003d9817c2bc)  
-- [2020-06-17-美团点评万亿级-KV-存储架构演进](https://www.ershicimi.com/p/ad51345ae6d442cbf0aaf91e678fa85b)  
-- [2020-06-17-日活超过-3-亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/b2a6a0a0501e25ec00b220bb5370739d)  
-- [2020-06-17-简化TensorFlow和Spark互操作性：LinkedIn开源Spark-TFRecord](https://www.ershicimi.com/p/4e4dd087af3cbf6e74de9841d743b160)  
-- [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,16 +1108,16 @@
 </summary>
 
 
-- [2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28) ![](assets/new.png)  
-- [2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68) ![](assets/new.png)  
-- [2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8) ![](assets/new.png)  
-- [2020-06-21-漫谈核心能力（四）：有条理，更清晰](https://toutiao.io/k/bw44qfb) ![](assets/new.png)  
-- [2020-06-21-浅谈渗透江湖之细水柔情](https://toutiao.io/k/uybv7sw) ![](assets/new.png)  
-- [2020-06-21-周末别闲着！加入我们！](https://toutiao.io/k/mplxlqm) ![](assets/new.png)  
-- [2020-06-21-记一次在-MOSN-对-Dubbo、Dubbo-go-hessian2-的性能优化](https://toutiao.io/k/2yhjkiu) ![](assets/new.png)  
-- [2020-06-21-译-类似-Go-中的表格驱动测试的步骤驱动评估](https://toutiao.io/k/e0s8qgh) ![](assets/new.png)  
-- [2020-06-21-HBase-Region-Read-Replicas-功能详解](https://toutiao.io/k/ckbh4d8) ![](assets/new.png)  
-- [2020-06-21-Principal-Component-Analysis-PCA](https://toutiao.io/k/l7fudgy) ![](assets/new.png)  
+- [2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28)  
+- [2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68)  
+- [2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8)  
+- [2020-06-21-漫谈核心能力（四）：有条理，更清晰](https://toutiao.io/k/bw44qfb)  
+- [2020-06-21-浅谈渗透江湖之细水柔情](https://toutiao.io/k/uybv7sw)  
+- [2020-06-21-周末别闲着！加入我们！](https://toutiao.io/k/mplxlqm)  
+- [2020-06-21-记一次在-MOSN-对-Dubbo、Dubbo-go-hessian2-的性能优化](https://toutiao.io/k/2yhjkiu)  
+- [2020-06-21-译-类似-Go-中的表格驱动测试的步骤驱动评估](https://toutiao.io/k/e0s8qgh)  
+- [2020-06-21-HBase-Region-Read-Replicas-功能详解](https://toutiao.io/k/ckbh4d8)  
+- [2020-06-21-Principal-Component-Analysis-PCA](https://toutiao.io/k/l7fudgy)  
 - [2020-06-20-谈谈技术人员职业发展的困惑](https://toutiao.io/k/j0mwuua)  
 - [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64)  
 - [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin)  

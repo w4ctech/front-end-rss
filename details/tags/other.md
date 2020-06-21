@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) 
+- [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1) 
 - [2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1) 
 - [2020-06-21-意甲联赛停摆三个多月后正式重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1An3muGH7ghq0Wgg4A200621&isfromapp=1) 
 - [2020-06-21-空客公司再为5300名员工“放长假”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1) 
@@ -1538,6 +1540,11 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) 
+- [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) 
+- [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) 
+- [2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f) 
+- [2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5) 
 - [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba) 
 - [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e) 
 - [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11) 

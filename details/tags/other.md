@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,9 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1) 
+- [2020-06-21-意甲联赛停摆三个多月后正式重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1An3muGH7ghq0Wgg4A200621&isfromapp=1) 
+- [2020-06-21-空客公司再为5300名员工“放长假”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1) 
 - [2020-06-20-北京快递小哥全员核酸检测，目前无确诊和疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid59I8LHsyMhavK3JMOgz200620&isfromapp=1) 
 - [2020-06-20-摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRcjHZCJ6qfOLyOil93M7200620&isfromapp=1) 
 - [2020-06-20-辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200-份样本结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1) 
@@ -1389,6 +1392,7 @@
 - [2020-05-22-不可错过的实用前端工具](https://www.ershicimi.com/p/3262dfba4696ddb8d8f9b63d72368141) 
 - [2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html) 
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html) 
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html) 
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html) 

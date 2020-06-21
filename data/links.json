@@ -5317,6 +5317,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "埃及安全部门持续打击违反宵禁规定行为",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "西班牙21日起解除国家紧急状态",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "意甲联赛停摆三个多月后正式重启",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1An3muGH7ghq0Wgg4A200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "空客公司再为5300名员工“放长假”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
         "title": "世卫组织：全球新冠肺炎病例超过852万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1",
         "date": "2020-06-20"
@@ -10514,6 +10539,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "安卓手机系统连接电视，最好的方案是什么？",
+        "link": "http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html",
+        "date": "2020-06-21"
+      },
+      {
         "title": "科技爱好者周刊（第 112 期）：如何培养领导力",
         "link": "http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html",
         "date": "2020-06-19"
@@ -13026,6 +13056,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "[Flutter翻译]Flutter和桌面应用",
+        "link": "https://juejin.im/post/5eedcde051882565ca327a73",
+        "date": "2020-06-20"
+      },
+      {
+        "title": "浅析 URL",
+        "link": "https://juejin.im/post/5eedc9786fb9a058b31d0f65",
+        "date": "2020-06-20"
+      },
+      {
+        "title": "js设计模式(一)面向对象—封装",
+        "link": "https://juejin.im/post/5eedcd79f265da02c46e9a82",
+        "date": "2020-06-20"
+      },
+      {
+        "title": "vue中使用vue-socket.io的一些心得、踩坑记录",
+        "link": "https://juejin.im/post/5eedb50f51882565c968b974",
+        "date": "2020-06-20"
+      },
+      {
+        "title": "js里的this到底是什么，怎么用，这里可能给你答案",
+        "link": "https://juejin.im/post/5eede743e51d45742944f269",
+        "date": "2020-06-20"
+      },
       {
         "title": "Vue+Ts搭建项目(二)： Vuex的使用",
         "link": "https://juejin.im/post/5eec36b2e51d4573e919c47d",

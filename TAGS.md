@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-21 00:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 08:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -258,6 +258,7 @@
 - [【前端之巅】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185)
 - [【InfoQ】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249)
 - [【JavaScript】BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457)
+- [【掘金前端】Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73)
 - [【掘金前端】Bedrock——基于MVVM+Provider的Flutter快速开发框架](https://juejin.im/post/5edc91edf265da76c76b18a5)
 - [【掘金前端】《PWA入门与实践》](https://juejin.im/post/5ee5e7c4f265da76c01beeeb)
 - [【掘金前端】Flutter---将-Flutter-集成到现有项目（iOS---Framework篇）](https://juejin.im/post/5ee0eb4af265da76f91724c8)
@@ -274,7 +275,6 @@
 - [【技术头条】下载！闲鱼最新升级版-Flutter-技术电子书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13524&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fiwyzg1gdyF8jmtf_aIv_6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】Flutter-开发小结-|-Tips-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13494&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcATfEH6FFN-NDG_y0keVQQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】一项改变游戏规则的技术：Flutter](https://toutiao.io/k/8v5n80n)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -510,6 +510,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://china.caixin.com/2020-04-13/101541775.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html)
 - [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://china.caixin.com/2020-02-07/101512825.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1)
 - [【前端大全】面试官：说说你对-options-请求的理解](https://www.ershicimi.com/p/e1a7d93229307417d98f850f89d2a543)
 - [【前端大全】Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/65f39e791b898c57deb447e4c08dbf74)
@@ -526,7 +527,6 @@
 - [【前端宇宙】你值得拥有的-UI-调试技巧](https://www.ershicimi.com/p/82e994e4efe1014b3f845b411600c58b)
 - [【前端瓶子君】面试官：HTTPS就安全了吗？会被抓包吗？我竟然回答不上来...](https://www.ershicimi.com/p/ce8469e8b8a2a10e62abd12b6f8a094d)
 - [【程序员成长指北】你应该知道的10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/33dcdb614d71b756e2f185fc6e5d8e40)
-- [【程序员成长指北】CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/470ca2ea3236779e307462564cab7b22)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

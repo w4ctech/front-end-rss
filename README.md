@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 00:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 08:30:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -46,11 +46,11 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-意甲联赛停摆三个多月后正式重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1An3muGH7ghq0Wgg4A200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-空客公司再为5300名员工“放长假”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1) ![](assets/new.png)  
 - [2020-06-20-世卫组织：全球新冠肺炎病例超过852万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1)  
 - [2020-06-20-北京快递小哥全员核酸检测，目前无确诊和疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid59I8LHsyMhavK3JMOgz200620&isfromapp=1)  
 - [2020-06-20-摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRcjHZCJ6qfOLyOil93M7200620&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-20-辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1)  
 - [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1)  
 - [2020-06-20-德国聚集性感染频发-政府推出手机应用预警](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1)  
-- [2020-06-20-斯里兰卡总统：感谢中方提供抗疫援助](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiULcZGbvNUpUcW3PkOKUG200620&isfromapp=1)  
-- [2020-06-20-韩国单日新增67例新冠肺炎确诊病例-首都圈感染持续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV8iVgbCrfKUbgRK1uu52200620&isfromapp=1)  
-- [2020-06-20-西班牙21日起解除国家紧急状态-英国学校9月全面复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiweQPHgNb4hpbnoSkZPd2200620&isfromapp=1)  
-- [2020-06-20-阿根廷新冠肺炎确诊病例逼近4万-首都等疫情重灾区将加大防控力度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqKipWsvBWeX82473O0C5200620&isfromapp=1)  
-- [2020-06-20-国家卫健委：20日新增新冠肺炎确诊病例27例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFvxFVb1wqqgewgKbq2H200620&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -673,6 +673,7 @@
 </summary>
 
 
+- [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html) ![](assets/new.png)  
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
@@ -920,6 +921,11 @@
 </summary>
 
 
+- [2020-06-20-Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73) ![](assets/new.png)  
+- [2020-06-20-浅析-URL](https://juejin.im/post/5eedc9786fb9a058b31d0f65) ![](assets/new.png)  
+- [2020-06-20-js设计模式一面向对象—封装](https://juejin.im/post/5eedcd79f265da02c46e9a82) ![](assets/new.png)  
+- [2020-06-20-vue中使用vue-socket.io的一些心得、踩坑记录](https://juejin.im/post/5eedb50f51882565c968b974) ![](assets/new.png)  
+- [2020-06-20-js里的this到底是什么，怎么用，这里可能给你答案](https://juejin.im/post/5eede743e51d45742944f269) ![](assets/new.png)  
 - [2020-06-19-Vue+Ts搭建项目二：-Vuex的使用](https://juejin.im/post/5eec36b2e51d4573e919c47d)  
 - [2020-06-19-《WEB前端安全》xss跨站脚本原理与防御](https://juejin.im/post/5eeb75ac6fb9a0585105661f)  
 - [2020-06-19-从零写一个-Vue（五）DOM-生成与更新](https://juejin.im/post/5eec2364f265da02920d59f5)  
@@ -935,11 +941,6 @@
 - [2020-06-18-你不知道的javascript（上）第三章对象读书笔记](https://juejin.im/post/5eeb1a106fb9a0586d71ce11)  
 - [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48)  
 - [2020-06-18-P1攻城狮的江湖总结-项目篇](https://juejin.im/post/5eeb2a4351882565d0291474)  
-- [2020-06-17-生命在于折腾！这些桌面好物提升你的搬砖幸福度](https://juejin.im/post/5ee9fca5f265da02d3377e38)  
-- [2020-06-17-如何在项目里管理好axios请求与vuex](https://juejin.im/post/5ee9cbcbe51d45742d668390)  
-- [2020-06-17-必备单品，FSearch](https://juejin.im/post/5ee9d1c0f265da028f535ff1)  
-- [2020-06-17-学习算法前你需要了解的‘大O表示法’](https://juejin.im/post/5ee9e1496fb9a0586d71cc60)  
-- [2020-06-17-CommonsChunkPlugin代码拆分挖坑之路](https://juejin.im/post/5ee9cf866fb9a058af771a62)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1014,9 +1015,9 @@
 </summary>
 
 
-- [2020-06-20-知乎神吐槽-|-怎样能看出一个人「开车」水平高低？](https://www.ershicimi.com/p/dcfd447f88d71e924ca2977f4ef54c9b) ![](assets/new.png)  
-- [2020-06-20-电影院不开门的日子，我们承包你的小荧幕！从零到一，认识导演](https://www.ershicimi.com/p/49012f28934535a7d1d77281c41d52de) ![](assets/new.png)  
-- [2020-06-20-知乎故事-|-平淡如水的生活幸福吗？](https://www.ershicimi.com/p/3787e74cd47ce93e230232317c741d15) ![](assets/new.png)  
+- [2020-06-20-知乎神吐槽-|-怎样能看出一个人「开车」水平高低？](https://www.ershicimi.com/p/dcfd447f88d71e924ca2977f4ef54c9b)  
+- [2020-06-20-电影院不开门的日子，我们承包你的小荧幕！从零到一，认识导演](https://www.ershicimi.com/p/49012f28934535a7d1d77281c41d52de)  
+- [2020-06-20-知乎故事-|-平淡如水的生活幸福吗？](https://www.ershicimi.com/p/3787e74cd47ce93e230232317c741d15)  
 - [2020-06-19-知乎-10-万+-赞同：如何提升自己为人处世的能力？](https://www.ershicimi.com/p/2848728f38ae43d32072483da7c16696)  
 - [2020-06-19-大熊猫这么可爱，抢它的竹笋吃犯法吗？](https://www.ershicimi.com/p/9055745dc3b0b08165a9b56a9b0e725c)  
 - [2020-06-19-知乎故事-|-小婴儿的性格是天生的吗？](https://www.ershicimi.com/p/8e014fdd488cfb80eedc9768acb158a4)  

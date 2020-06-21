@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-意甲联赛停摆三个多月后正式重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1An3muGH7ghq0Wgg4A200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-空客公司再为5300名员工“放长假”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-世卫组织：全球新冠肺炎病例超过852万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-北京快递小哥全员核酸检测，目前无确诊和疑似病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid59I8LHsyMhavK3JMOgz200620&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-20-摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRcjHZCJ6qfOLyOil93M7200620&isfromapp=1) 
@@ -859,6 +864,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
+- [【阮一峰的网络日志】2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html) 
 - [【阮一峰的网络日志】2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html) 
 - [【阮一峰的网络日志】2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html) 
 - [【阮一峰的网络日志】2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html) 
@@ -1038,6 +1044,11 @@
 - [【JavaScript】2020-06-03-前端开发进阶手册.pdf](https://www.ershicimi.com/p/cd7a65b1f719f33f6f58c71f07e9888a) 
 - [【JavaScript】2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [【JavaScript】2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e) 
+- [【掘金前端】2020-06-20-Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73) 
+- [【掘金前端】2020-06-20-浅析-URL](https://juejin.im/post/5eedc9786fb9a058b31d0f65) 
+- [【掘金前端】2020-06-20-js设计模式一面向对象—封装](https://juejin.im/post/5eedcd79f265da02c46e9a82) 
+- [【掘金前端】2020-06-20-vue中使用vue-socket.io的一些心得、踩坑记录](https://juejin.im/post/5eedb50f51882565c968b974) 
+- [【掘金前端】2020-06-20-js里的this到底是什么，怎么用，这里可能给你答案](https://juejin.im/post/5eede743e51d45742944f269) 
 - [【掘金前端】2020-06-19-Vue+Ts搭建项目二：-Vuex的使用](https://juejin.im/post/5eec36b2e51d4573e919c47d) 
 - [【掘金前端】2020-06-19-《WEB前端安全》xss跨站脚本原理与防御](https://juejin.im/post/5eeb75ac6fb9a0585105661f) 
 - [【掘金前端】2020-06-19-从零写一个-Vue（五）DOM-生成与更新](https://juejin.im/post/5eec2364f265da02920d59f5) 

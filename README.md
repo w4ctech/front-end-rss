@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 20:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-21-世卫组织：全球新冠肺炎确诊病例超过869万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP6J9V2Z1o7Uo8kinwjn2200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-北京又有2地上升为高风险地区，目前4高风险37中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqywsaNCG5CBnn2Z40cXl200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-世卫组织：全球新冠肺炎确诊病例超过869万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP6J9V2Z1o7Uo8kinwjn2200621&isfromapp=1)  
 - [2020-06-21-非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1)  
 - [2020-06-21-世卫组织：全球新冠肺炎确诊病例超865万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1)  
 - [2020-06-21-百事可乐公司出现确诊病例，已停产停业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-20-摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRcjHZCJ6qfOLyOil93M7200620&isfromapp=1)  
 - [2020-06-20-辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200-份样本结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1)  
 - [2020-06-20-北大国际医院出现-1-例确诊病例，该院-2669-医护人员核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1)  
-- [2020-06-20-北​京通报-6-月-19-日新增-22-例确诊病例详情，均与新发地市场有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

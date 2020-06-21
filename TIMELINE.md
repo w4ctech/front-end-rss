@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -794,6 +794,7 @@
 - [【前端宇宙】2020-06-02-这些神仙代码库值得每一个前端开发者收藏](https://www.ershicimi.com/p/defb6dfd7ebdec5fc831d5b51636c288) 
 - [【前端宇宙】2020-06-01-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/a13a441f134d91fc9523c600964aa3e3) 
 - [【前端宇宙】2020-06-01-我们都是大小孩，六一快乐](https://www.ershicimi.com/p/5cfad5176940c733dcb58401c2972b73) 
+- [【前端瓶子君】2020-06-20-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/e72338502b74b3ba48a82883bfd4337f) 
 - [【前端瓶子君】2020-06-19-图形算法（邻接矩阵）在前端领域的应用](https://www.ershicimi.com/p/c7e07439dcc5c369c8e8893b992d6cf6) 
 - [【前端瓶子君】2020-06-19-JSON.stringify-玩出新花样，太腻害了](https://www.ershicimi.com/p/b9ea71f2dea5a504876bb176e5585ec3) 
 - [【前端瓶子君】2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/20f37ce299412b81014cb01f7354d040) 

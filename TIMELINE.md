@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 20:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-世卫组织：全球新冠肺炎确诊病例超过869万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP6J9V2Z1o7Uo8kinwjn2200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-世卫组织：全球新冠肺炎确诊病例超865万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-百事可乐公司出现确诊病例，已停产停业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1) 

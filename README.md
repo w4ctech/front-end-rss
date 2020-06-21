@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 10:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -33,8 +33,8 @@
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
-- [程序员成长指北](#程序员成长指北)  
+- [前端瓶子君](#前端瓶子君)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -556,7 +556,7 @@
 </summary>
 
 
-- [2020-06-20-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/e72338502b74b3ba48a82883bfd4337f) ![](assets/new.png)  
+- [2020-06-20-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/e72338502b74b3ba48a82883bfd4337f)  
 - [2020-06-19-图形算法（邻接矩阵）在前端领域的应用](https://www.ershicimi.com/p/c7e07439dcc5c369c8e8893b992d6cf6)  
 - [2020-06-19-JSON.stringify-玩出新花样，太腻害了](https://www.ershicimi.com/p/b9ea71f2dea5a504876bb176e5585ec3)  
 - [2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/20f37ce299412b81014cb01f7354d040)  
@@ -587,6 +587,8 @@
 </summary>
 
 
+- [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1) ![](assets/new.png)  
+- [2020-06-20-前端开发日常的协作工具](https://www.ershicimi.com/p/42decc169252c2fafc53eba4b867507e) ![](assets/new.png)  
 - [2020-06-19-阿里业务线Owner揭秘：这才是前端面试-“刚需”-能力](https://www.ershicimi.com/p/ad6561389534b6882672f821cad028ae)  
 - [2020-06-19-过完618！来看看-Node.js-如何实现秒杀系统](https://www.ershicimi.com/p/b1e65dcb4acb449b46596e42465cd375)  
 - [2020-06-18-你应该知道的10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/33dcdb614d71b756e2f185fc6e5d8e40)  
@@ -605,8 +607,6 @@
 - [2020-06-10-如何快速搭建好看的个人博客完整配置与源码](https://www.ershicimi.com/p/0d276bb0e1d0b58d148af80e2811a5e3)  
 - [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d)  
 - [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887)  
-- [2020-06-08-Node接入层可视化逻辑编排，还可以这样做？](https://www.ershicimi.com/p/e948dcac0b9f0681adf2e4b986630385)  
-- [2020-06-07-介绍一位从外包走进腾讯的大佬](https://www.ershicimi.com/p/008594b544d2ee2550cb8e3881dc3c45)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

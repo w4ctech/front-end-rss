@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 10:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 12:00:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -587,8 +587,8 @@
 </summary>
 
 
-- [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1) ![](assets/new.png)  
-- [2020-06-20-前端开发日常的协作工具](https://www.ershicimi.com/p/42decc169252c2fafc53eba4b867507e) ![](assets/new.png)  
+- [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1)  
+- [2020-06-20-前端开发日常的协作工具](https://www.ershicimi.com/p/42decc169252c2fafc53eba4b867507e)  
 - [2020-06-19-阿里业务线Owner揭秘：这才是前端面试-“刚需”-能力](https://www.ershicimi.com/p/ad6561389534b6882672f821cad028ae)  
 - [2020-06-19-过完618！来看看-Node.js-如何实现秒杀系统](https://www.ershicimi.com/p/b1e65dcb4acb449b46596e42465cd375)  
 - [2020-06-18-你应该知道的10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/33dcdb614d71b756e2f185fc6e5d8e40)  
@@ -1108,6 +1108,16 @@
 </summary>
 
 
+- [2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28) ![](assets/new.png)  
+- [2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68) ![](assets/new.png)  
+- [2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8) ![](assets/new.png)  
+- [2020-06-21-漫谈核心能力（四）：有条理，更清晰](https://toutiao.io/k/bw44qfb) ![](assets/new.png)  
+- [2020-06-21-浅谈渗透江湖之细水柔情](https://toutiao.io/k/uybv7sw) ![](assets/new.png)  
+- [2020-06-21-周末别闲着！加入我们！](https://toutiao.io/k/mplxlqm) ![](assets/new.png)  
+- [2020-06-21-记一次在-MOSN-对-Dubbo、Dubbo-go-hessian2-的性能优化](https://toutiao.io/k/2yhjkiu) ![](assets/new.png)  
+- [2020-06-21-译-类似-Go-中的表格驱动测试的步骤驱动评估](https://toutiao.io/k/e0s8qgh) ![](assets/new.png)  
+- [2020-06-21-HBase-Region-Read-Replicas-功能详解](https://toutiao.io/k/ckbh4d8) ![](assets/new.png)  
+- [2020-06-21-Principal-Component-Analysis-PCA](https://toutiao.io/k/l7fudgy) ![](assets/new.png)  
 - [2020-06-20-谈谈技术人员职业发展的困惑](https://toutiao.io/k/j0mwuua)  
 - [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64)  
 - [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin)  
@@ -1118,16 +1128,6 @@
 - [2020-06-20-再启程，Service-Mesh-前路虽长，尤可期许](https://toutiao.io/k/xj4eqrv)  
 - [2020-06-20-密码管理工具（命令行）](https://toutiao.io/k/zww6eqt)  
 - [2020-06-20-译-重磅！Go-泛型草案更新，最早在明年-8-月的-Go-1.17-发布](https://toutiao.io/k/39nra0j)  
-- [2020-06-20-foreach-集合又抛经典异常了，这次一定要刨根问底](https://toutiao.io/k/tqkf8r7)  
-- [2020-06-20-随兴趣去折腾可能也是一种错](https://toutiao.io/k/6jgo2nu)  
-- [2020-06-20-一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x)  
-- [2020-06-20-MongoDB-网络传输处理源码实现及性能调优：体验内核性能极致设计](https://toutiao.io/k/p1v5xhq)  
-- [2020-06-19-如何画好一张架构图？](https://toutiao.io/k/dziuanr)  
-- [2020-06-19-LevelDB-完全解析（十一）：Compaction](https://toutiao.io/k/ar1yio2)  
-- [2020-06-19-CODING-DevOps（第六课）：IT-运维之智能化告警实践](https://toutiao.io/k/8ffaxix)  
-- [2020-06-19-Spring-Boot-构建-Docker-镜像的-3-种方式](https://toutiao.io/k/56fittd)  
-- [2020-06-19-我终于搞清了啥是-HTTPS-了](https://toutiao.io/k/rdxllye)  
-- [2020-06-19-开域聊天机器人技术介绍（现实篇）](https://toutiao.io/k/oj3w1bx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

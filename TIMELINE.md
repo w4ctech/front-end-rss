@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 10:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -3965,6 +3965,16 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28) 
+- [【开发者头条】2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68) 
+- [【开发者头条】2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8) 
+- [【开发者头条】2020-06-21-漫谈核心能力（四）：有条理，更清晰](https://toutiao.io/k/bw44qfb) 
+- [【开发者头条】2020-06-21-浅谈渗透江湖之细水柔情](https://toutiao.io/k/uybv7sw) 
+- [【开发者头条】2020-06-21-周末别闲着！加入我们！](https://toutiao.io/k/mplxlqm) 
+- [【开发者头条】2020-06-21-记一次在-MOSN-对-Dubbo、Dubbo-go-hessian2-的性能优化](https://toutiao.io/k/2yhjkiu) 
+- [【开发者头条】2020-06-21-译-类似-Go-中的表格驱动测试的步骤驱动评估](https://toutiao.io/k/e0s8qgh) 
+- [【开发者头条】2020-06-21-HBase-Region-Read-Replicas-功能详解](https://toutiao.io/k/ckbh4d8) 
+- [【开发者头条】2020-06-21-Principal-Component-Analysis-PCA](https://toutiao.io/k/l7fudgy) 
 - [【开发者头条】2020-06-20-谈谈技术人员职业发展的困惑](https://toutiao.io/k/j0mwuua) 
 - [【开发者头条】2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64) 
 - [【开发者头条】2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin) 

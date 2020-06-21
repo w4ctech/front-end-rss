@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -4393,6 +4393,13 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28) 
+- [2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8) 
+- [2020-06-21-漫谈核心能力（四）：有条理，更清晰](https://toutiao.io/k/bw44qfb) 
+- [2020-06-21-浅谈渗透江湖之细水柔情](https://toutiao.io/k/uybv7sw) 
+- [2020-06-21-周末别闲着！加入我们！](https://toutiao.io/k/mplxlqm) 
+- [2020-06-21-译-类似-Go-中的表格驱动测试的步骤驱动评估](https://toutiao.io/k/e0s8qgh) 
+- [2020-06-21-HBase-Region-Read-Replicas-功能详解](https://toutiao.io/k/ckbh4d8) 
 - [2020-06-20-谈谈技术人员职业发展的困惑](https://toutiao.io/k/j0mwuua) 
 - [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64) 
 - [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin) 

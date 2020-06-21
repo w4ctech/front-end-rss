@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-21-百事可乐公司出现确诊病例，已停产停业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1) 
 - [2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1) 
 - [2020-06-21-至6月21日6时，天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html) 
 - [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) 
@@ -1818,6 +1819,7 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-21-想在商店自己做一个记账软件，自学起来要多久呀。](https://www.v2ex.com/t/683509) 
 - [2020-06-21-跪了，-qemu-nbd-太慢了](https://www.v2ex.com/t/683504) 
 - [2020-06-21-一年微服务-Java-后端简历求指点](https://www.v2ex.com/t/683503) 
 - [2020-06-21-Indeed-东京-Office-难得的内推机会](https://www.v2ex.com/t/683502) 

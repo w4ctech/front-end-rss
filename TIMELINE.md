@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 17:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 17:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-世卫组织：全球新冠肺炎确诊病例超865万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-百事可乐公司出现确诊病例，已停产停业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-至6月21日6时，天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) 
@@ -1354,6 +1357,7 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-21-想在商店自己做一个记账软件，自学起来要多久呀。](https://www.v2ex.com/t/683509) 
 - [【V2EX】2020-06-21-Mitogen-for-Ansible-性能优化插件推荐，有效提升-1.25x---7x-倍执行效率](https://www.v2ex.com/t/683505) 
 - [【V2EX】2020-06-21-跪了，-qemu-nbd-太慢了](https://www.v2ex.com/t/683504) 
 - [【V2EX】2020-06-21-一年微服务-Java-后端简历求指点](https://www.v2ex.com/t/683503) 

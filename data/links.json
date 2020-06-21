@@ -5317,6 +5317,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎确诊病例超865万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "百事可乐公司出现确诊病例，已停产停业",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1",
+        "date": "2020-06-21"
+      },
+      {
         "title": "南非主流媒体积极评价中非团结抗疫特别峰会",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1",
         "date": "2020-06-21"
@@ -15145,6 +15160,11 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "想在商店自己做一个记账软件，自学起来要多久呀。",
+        "link": "https://www.v2ex.com/t/683509",
+        "date": "2020-06-21"
+      },
       {
         "title": "Mitogen for Ansible 性能优化插件推荐，有效提升 1.25x - 7x 倍执行效率",
         "link": "https://www.v2ex.com/t/683505",

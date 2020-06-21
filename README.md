@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 17:00:20，:rocket: 更新条数: +33， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 17:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-21-非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-世卫组织：全球新冠肺炎确诊病例超865万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-百事可乐公司出现确诊病例，已停产停业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1) ![](assets/new.png)  
 - [2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1)  
 - [2020-06-21-至6月21日6时，天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html)  
 - [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181)  
@@ -111,9 +114,6 @@
 - [2020-06-20-北大国际医院出现-1-例确诊病例，该院-2669-医护人员核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1)  
 - [2020-06-20-北​京通报-6-月-19-日新增-22-例确诊病例详情，均与新发地市场有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1)  
 - [2020-06-20-北京-9-日内新增确诊-205-例，防控仍处于紧要关头](https://m.weibo.cn/2656274875/4517923039501043)  
-- [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1)  
-- [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1)  
-- [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,26 +1046,26 @@
 </summary>
 
 
-- [2020-06-21-Mitogen-for-Ansible-性能优化插件推荐，有效提升-1.25x---7x-倍执行效率](https://www.v2ex.com/t/683505) ![](assets/new.png)  
-- [2020-06-21-跪了，-qemu-nbd-太慢了](https://www.v2ex.com/t/683504) ![](assets/new.png)  
-- [2020-06-21-一年微服务-Java-后端简历求指点](https://www.v2ex.com/t/683503) ![](assets/new.png)  
-- [2020-06-21-Indeed-东京-Office-难得的内推机会](https://www.v2ex.com/t/683502) ![](assets/new.png)  
-- [2020-06-21-问问大家去沙滩用的啥防晒？](https://www.v2ex.com/t/683501) ![](assets/new.png)  
-- [2020-06-21-开发一个用于小程序的画布库](https://www.v2ex.com/t/683499) ![](assets/new.png)  
-- [2020-06-21-.ss-后缀开始开放注册了](https://www.v2ex.com/t/683497) ![](assets/new.png)  
-- [2020-06-21-周末经典话语总结](https://www.v2ex.com/t/683495) ![](assets/new.png)  
-- [2020-06-21-有老哥要买-RTX2080Ti-么，才买了一个多月发现没时间玩儿](https://www.v2ex.com/t/683494) ![](assets/new.png)  
-- [2020-06-21-人脸照片分类储存问题求教](https://www.v2ex.com/t/683492) ![](assets/new.png)  
-- [2020-06-21-我想找前端（泛-vue-框架）资深一点的兼职做些项目](https://www.v2ex.com/t/683491) ![](assets/new.png)  
-- [2020-06-21-第三方键盘没法在-mac-上开机登录吗](https://www.v2ex.com/t/683490) ![](assets/new.png)  
-- [2020-06-21-北京公司，行业软件，自己的产品，-现在新上了两个项目，前端需要人来分单，小程序用-mpvue，前端页面基于-vue，有一些地图方面的经验最好。-请添加-w-x-联系...](https://www.v2ex.com/t/683489) ![](assets/new.png)  
-- [2020-06-21-朋友们有什么办法可以精确统计每天饮食摄入的热量吗？](https://www.v2ex.com/t/683488) ![](assets/new.png)  
-- [2020-06-21-分享自己用-Rust-写的可以直接利用-SOCKS-代理的游戏加速器](https://www.v2ex.com/t/683486) ![](assets/new.png)  
-- [2020-06-21-做了个钉宫辱骂版的-vscode-彩虹屁语音扩展包，众钉宫病患者福音](https://www.v2ex.com/t/683485) ![](assets/new.png)  
-- [2020-06-21-小米有品出了一款-599-的投影仪，不带系统](https://www.v2ex.com/t/683482) ![](assets/new.png)  
-- [2020-06-21-招人啦~-字节跳动-后端研发工程师](https://www.v2ex.com/t/683481) ![](assets/new.png)  
-- [2020-06-21-我们在尝试提高学生对学习的兴趣，帮助他们找到自己的特长和目标](https://www.v2ex.com/t/683480) ![](assets/new.png)  
-- [2020-06-21-Vala-1.0-召集大神](https://www.v2ex.com/t/683478) ![](assets/new.png)  
+- [2020-06-21-想在商店自己做一个记账软件，自学起来要多久呀。](https://www.v2ex.com/t/683509) ![](assets/new.png)  
+- [2020-06-21-Mitogen-for-Ansible-性能优化插件推荐，有效提升-1.25x---7x-倍执行效率](https://www.v2ex.com/t/683505)  
+- [2020-06-21-跪了，-qemu-nbd-太慢了](https://www.v2ex.com/t/683504)  
+- [2020-06-21-一年微服务-Java-后端简历求指点](https://www.v2ex.com/t/683503)  
+- [2020-06-21-Indeed-东京-Office-难得的内推机会](https://www.v2ex.com/t/683502)  
+- [2020-06-21-问问大家去沙滩用的啥防晒？](https://www.v2ex.com/t/683501)  
+- [2020-06-21-开发一个用于小程序的画布库](https://www.v2ex.com/t/683499)  
+- [2020-06-21-.ss-后缀开始开放注册了](https://www.v2ex.com/t/683497)  
+- [2020-06-21-周末经典话语总结](https://www.v2ex.com/t/683495)  
+- [2020-06-21-有老哥要买-RTX2080Ti-么，才买了一个多月发现没时间玩儿](https://www.v2ex.com/t/683494)  
+- [2020-06-21-人脸照片分类储存问题求教](https://www.v2ex.com/t/683492)  
+- [2020-06-21-我想找前端（泛-vue-框架）资深一点的兼职做些项目](https://www.v2ex.com/t/683491)  
+- [2020-06-21-第三方键盘没法在-mac-上开机登录吗](https://www.v2ex.com/t/683490)  
+- [2020-06-21-北京公司，行业软件，自己的产品，-现在新上了两个项目，前端需要人来分单，小程序用-mpvue，前端页面基于-vue，有一些地图方面的经验最好。-请添加-w-x-联系...](https://www.v2ex.com/t/683489)  
+- [2020-06-21-朋友们有什么办法可以精确统计每天饮食摄入的热量吗？](https://www.v2ex.com/t/683488)  
+- [2020-06-21-分享自己用-Rust-写的可以直接利用-SOCKS-代理的游戏加速器](https://www.v2ex.com/t/683486)  
+- [2020-06-21-做了个钉宫辱骂版的-vscode-彩虹屁语音扩展包，众钉宫病患者福音](https://www.v2ex.com/t/683485)  
+- [2020-06-21-小米有品出了一款-599-的投影仪，不带系统](https://www.v2ex.com/t/683482)  
+- [2020-06-21-招人啦~-字节跳动-后端研发工程师](https://www.v2ex.com/t/683481)  
+- [2020-06-21-我们在尝试提高学生对学习的兴趣，帮助他们找到自己的特长和目标](https://www.v2ex.com/t/683480)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

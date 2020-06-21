@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 02:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 03:30:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -1046,9 +1046,9 @@
 </summary>
 
 
-- [2020-06-22-apple-pencil-一代经常失灵，咋办](https://www.v2ex.com/t/683600) ![](assets/new.png)  
-- [2020-06-22-郭明錤:-13-寸-MacBook-Pro-和新-iMac-将会第一批使用-ARM-芯片](https://www.v2ex.com/t/683599) ![](assets/new.png)  
-- [2020-06-22-开通视频号-50-天马上-4000-粉丝了，关注回复送-10-个金币](https://www.v2ex.com/t/683598) ![](assets/new.png)  
+- [2020-06-22-apple-pencil-一代经常失灵，咋办](https://www.v2ex.com/t/683600)  
+- [2020-06-22-郭明錤:-13-寸-MacBook-Pro-和新-iMac-将会第一批使用-ARM-芯片](https://www.v2ex.com/t/683599)  
+- [2020-06-22-开通视频号-50-天马上-4000-粉丝了，关注回复送-10-个金币](https://www.v2ex.com/t/683598)  
 - [2020-06-22-有没有支持-mpb-Mini-DisplayPort-的-切换器两-二进一出视频电脑屏幕双向转换显示分屏分配器](https://www.v2ex.com/t/683597)  
 - [2020-06-22-Windows-Server-2016-控制面板的网络连接里未显示出该有的适配器，导致无法改设置](https://www.v2ex.com/t/683596)  
 - [2020-06-22-今年的-Apple-暑期优惠好像出来了？如图](https://www.v2ex.com/t/683595)  
@@ -1077,6 +1077,17 @@
 </summary>
 
 
+- [2020-06-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13545&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp66hEJBotpRyqfC_sM1dcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13544&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPvOsteCJeEwElQ0oF4bMw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13543&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkbzSKoWB0bBFxcANYPD67w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-Android-通过Java-sdk的方式接入OpenCv-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13542&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frn8czKih6xVSTPmD2Nch8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-推荐-13-个-Python-新手练级项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13541&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fhpl-i6J37dzhFHBXXmDL8g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-再见，Eclipse！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13540&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGnASFPoinPMQHKfs02vmeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-泰山版！Java开发手册开放下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13539&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJ0x1h2NbH2RaECiQuTs1dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-小姐姐太强了，动图展示-10-大-Git-命令，不会都难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13538&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxTideoJbvqe5meA3VVCAAQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-Pandas官方文档中文版下载、图形深度学习-PPT-下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13537&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxXHoaGhe1pY3i3F-a94BcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-3.83亿开房记录被泄露后，这家酒店竟然又又又被爆泄露用户数据了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13536&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgppzaJ0rsuaozbaPZtZugg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-22-下载！Linux-内核设计的艺术-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13535&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxfbTh_1q0EF0x75HE9vyVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-19-从-301-跳转，聊聊边缘规则的那些小妙用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13534&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F149137612%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13533&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147814759%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1086,17 +1097,6 @@
 - [2020-06-17-程序员的私藏好书中，一定有这-7-本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13528&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4-8pvWJWjs_h7nvuOS-HKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-VS-Code-连接远程服务器运行-Jupyter-Notebook-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13527&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0_SRtzQJ8s2NN1_v04ySZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-10-个小技巧，让你爱上代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13526&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faw3cB5NPYFOYg-v10CXhfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-墙裂推荐！B-站上的-Python-学习资源-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13525&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHZN_syMgMFtJ8pobt_JkyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-下载！闲鱼最新升级版-Flutter-技术电子书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13524&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fiwyzg1gdyF8jmtf_aIv_6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-iOS打包发布那些事儿-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13523&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fios-package-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-16-快应用-IDE-定制-Devtools-元素面板系列一：背景需求及方案分析-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13522&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-1%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-16-记录一次Flink作业异常的排查过程-club.perfma.com](https://blogread.cn/news/go.php?idItem=13521&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1555905%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-12-容器化技术在数据中心的实践-www.upyun.com](https://blogread.cn/news/go.php?idItem=13519&url=https%3A%2F%2Fwww.upyun.com%2Ftech%2Farticle%2F553%2F1.html%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-12-颠倒图片的凶手就是！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13518&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147257338%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-12-如何为-Ghost-博客添加归档页-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13517&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-add-archives-for-ghost-blog%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-12-一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-09-JDK8在泛型类型推导上的变化-club.perfma.com](https://blogread.cn/news/go.php?idItem=13515&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F692089%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

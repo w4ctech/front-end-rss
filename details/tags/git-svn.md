@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -30,6 +30,8 @@
 - [2020-06-01-关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-06-21-塑料-DBA-求教:-开启了-GTID-的-MySQL-5.7,-导入未开启-GITID-的-binlog-转化来的-SQL-source-报错](https://www.v2ex.com/t/683568) 
+- [2020-06-21-GitHub：新浪微博爬虫，用-Python-采集新浪微博数据](https://www.v2ex.com/t/683551) 
 - [2020-06-20-GitAds-靠谱吗？](https://www.v2ex.com/t/683380) 
 - [2020-06-20-GitHub：根据文字描述生成-UML-图，你用过吗?](https://www.v2ex.com/t/683375) 
 - [2020-06-19-GitHub-更新了-Profile-页面的布局设计，你喜欢吗？](https://www.v2ex.com/t/683202) 

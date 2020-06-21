@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 04:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -81,6 +81,8 @@
 - [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727) 
 - [2020-06-10-不会-Vue-的前端工程师是没有前途的！](https://www.ershicimi.com/p/cae8856251c1fc95b1b3b1e82c4fe68a) 
 - [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5) 
+- [2020-06-21-轻松掌握纯前端js框架---VUE](https://juejin.im/post/5eef4ddb6fb9a058b23d4a92) 
+- [2020-06-21-轻松掌握纯前端js框架---VUE-Ⅱ](https://juejin.im/post/5eef5447f265da02d13c6a88) 
 - [2020-06-21-vue-cli-配置-single-spa](https://juejin.im/post/5ee1a284e51d4574d067ee3a) 
 - [2020-06-20-vue中使用vue-socket.io的一些心得、踩坑记录](https://juejin.im/post/5eedb50f51882565c968b974) 
 - [2020-06-19-Vue+Ts搭建项目二：-Vuex的使用](https://juejin.im/post/5eec36b2e51d4573e919c47d) 

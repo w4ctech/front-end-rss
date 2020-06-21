@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-21-德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1) 
+- [2020-06-21-阿联酋宣布全面恢复疫情期间暂停的医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie9V4ywPysis0sdGhlnRV200621&isfromapp=1) 
 - [2020-06-21-北京又有2地上升为高风险地区，目前4高风险37中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqywsaNCG5CBnn2Z40cXl200621&isfromapp=1) 
 - [2020-06-21-百事可乐公司出现确诊病例，已停产停业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1) 
 - [2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1) 

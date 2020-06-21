@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,6 +102,7 @@
 - [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-21-JSON.stringify还能这么玩](https://juejin.im/post/5eee33d6e51d45742615751a) 
 - [2020-06-20-js设计模式一面向对象—封装](https://juejin.im/post/5eedcd79f265da02c46e9a82) 
 - [2020-06-20-js里的this到底是什么，怎么用，这里可能给你答案](https://juejin.im/post/5eede743e51d45742944f269) 
 - [2020-06-19-prototype-是原型吗？终结-JS-原型疑问](https://juejin.im/post/5eec239c5188256591249137) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-21 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1633,6 +1633,7 @@
 - [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec) 
 - [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231) 
 - [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653) 
+- [2020-06-21-写出具有动效的图标分享链接](https://juejin.im/post/5eede8d4518825659e16d944) 
 - [2020-06-19-最直白的告白-树的遍历BFS和DFS](https://juejin.im/post/5eeb8c32f265da02b4614e18) 
 - [2020-06-18-HTML核心系列1之DTD与实体](https://juejin.im/post/5eeb8291f265da02e12b9f58) 
 - [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48) 

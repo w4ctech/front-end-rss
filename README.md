@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 12:30:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 13:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,9 +44,9 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) ![](assets/new.png)  
-- [2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1) ![](assets/new.png)  
-- [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181)  
+- [2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1)  
+- [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1)  
 - [2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1)  
 - [2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1)  
 - [2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1)  
@@ -859,11 +859,11 @@
 </summary>
 
 
-- [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) ![](assets/new.png)  
-- [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) ![](assets/new.png)  
-- [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) ![](assets/new.png)  
-- [2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f) ![](assets/new.png)  
-- [2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5) ![](assets/new.png)  
+- [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08)  
+- [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d)  
+- [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa)  
+- [2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f)  
+- [2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5)  
 - [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)  
 - [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba)  
 - [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e)  
@@ -921,6 +921,11 @@
 </summary>
 
 
+- [2020-06-21-JSON.stringify还能这么玩](https://juejin.im/post/5eee33d6e51d45742615751a) ![](assets/new.png)  
+- [2020-06-21-细说React&&Vue同异](https://juejin.im/post/5eee0c05f265da02dc2d244b) ![](assets/new.png)  
+- [2020-06-21-写出具有动效的图标分享链接](https://juejin.im/post/5eede8d4518825659e16d944) ![](assets/new.png)  
+- [2020-06-21-vue-cli-配置-single-spa](https://juejin.im/post/5ee1a284e51d4574d067ee3a) ![](assets/new.png)  
+- [2020-06-21-Git-Commit-规范流程化](https://juejin.im/post/5eee3f17e51d4573d3068341) ![](assets/new.png)  
 - [2020-06-20-Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73)  
 - [2020-06-20-浅析-URL](https://juejin.im/post/5eedc9786fb9a058b31d0f65)  
 - [2020-06-20-js设计模式一面向对象—封装](https://juejin.im/post/5eedcd79f265da02c46e9a82)  
@@ -936,11 +941,6 @@
 - [2020-06-19-从零写一个-Vue（三）数组监听](https://juejin.im/post/5eeb8bb7e51d4573d65df334)  
 - [2020-06-19-最直白的告白-树的遍历BFS和DFS](https://juejin.im/post/5eeb8c32f265da02b4614e18)  
 - [2020-06-19-前端经典面试题网络篇之TCP三次握手、四次挥手](https://juejin.im/post/5eeaee6ee51d4573ff271638)  
-- [2020-06-18-HTML核心系列1之DTD与实体](https://juejin.im/post/5eeb8291f265da02e12b9f58)  
-- [2020-06-18-你不知道的JS系列——异步和回调](https://juejin.im/post/5eeb2e52518825658d0347b8)  
-- [2020-06-18-你不知道的javascript（上）第三章对象读书笔记](https://juejin.im/post/5eeb1a106fb9a0586d71ce11)  
-- [2020-06-18-简单又实用的小文章来了----表格分页打印的那些小事（2）](https://juejin.im/post/5eeb85ab518825658a0dbc48)  
-- [2020-06-18-P1攻城狮的江湖总结-项目篇](https://juejin.im/post/5eeb2a4351882565d0291474)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

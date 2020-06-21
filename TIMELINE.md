@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-21 13:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-21 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-至6月21日6时，天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1) 

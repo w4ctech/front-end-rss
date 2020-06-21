@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-21 13:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-21 15:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-21-至6月21日6时，天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html) ![](assets/new.png)  
 - [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181)  
 - [2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1)  
 - [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-20-​巴基斯坦单日新增死亡病例数达历史最高水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigiEhMMmc01Qr9QOTjIVi200620&isfromapp=1)  
 - [2020-06-20-北京西城区-10-万人完成核酸检测，3200㎡-足球场变检测点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1)  
 - [2020-06-20-印度新冠肺炎单日新增病例数再创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1)  
-- [2020-06-20-沈阳：一线医务人员子女在沈中考最高可获降低-10-分录取](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1)  
-- [2020-06-20-挪威三文鱼对华出口同比下跌-34%](https://m.weibo.cn/3057540037/4517866621163537)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -921,11 +921,11 @@
 </summary>
 
 
-- [2020-06-21-JSON.stringify还能这么玩](https://juejin.im/post/5eee33d6e51d45742615751a) ![](assets/new.png)  
-- [2020-06-21-细说React&&Vue同异](https://juejin.im/post/5eee0c05f265da02dc2d244b) ![](assets/new.png)  
-- [2020-06-21-写出具有动效的图标分享链接](https://juejin.im/post/5eede8d4518825659e16d944) ![](assets/new.png)  
-- [2020-06-21-vue-cli-配置-single-spa](https://juejin.im/post/5ee1a284e51d4574d067ee3a) ![](assets/new.png)  
-- [2020-06-21-Git-Commit-规范流程化](https://juejin.im/post/5eee3f17e51d4573d3068341) ![](assets/new.png)  
+- [2020-06-21-JSON.stringify还能这么玩](https://juejin.im/post/5eee33d6e51d45742615751a)  
+- [2020-06-21-细说React&&Vue同异](https://juejin.im/post/5eee0c05f265da02dc2d244b)  
+- [2020-06-21-写出具有动效的图标分享链接](https://juejin.im/post/5eede8d4518825659e16d944)  
+- [2020-06-21-vue-cli-配置-single-spa](https://juejin.im/post/5ee1a284e51d4574d067ee3a)  
+- [2020-06-21-Git-Commit-规范流程化](https://juejin.im/post/5eee3f17e51d4573d3068341)  
 - [2020-06-20-Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73)  
 - [2020-06-20-浅析-URL](https://juejin.im/post/5eedc9786fb9a058b31d0f65)  
 - [2020-06-20-js设计模式一面向对象—封装](https://juejin.im/post/5eedcd79f265da02c46e9a82)  

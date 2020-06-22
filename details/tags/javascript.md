@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 05:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,6 +102,8 @@
 - [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-22-原生javascript组件开发之Web-Component实战](https://juejin.im/post/5ef06ba9e51d4573d5598eac) 
+- [2020-06-22-GitHub-JavaScript-趋势榜项目第26周](https://juejin.im/post/5ef0ab7951882565b87c3e3b) 
 - [2020-06-22-js函数与arguments存在的价值有多大？](https://juejin.im/post/5ef077fc518825657e7c2b0d) 
 - [2020-06-22-译文：2020的十大JavaScript图像处理库【渡一教育】](https://juejin.im/post/5ef070ede51d4573cf6ebb6a) 
 - [2020-06-22-封装属于自己的组件库](https://juejin.im/post/5ef00a4a51882565b32a95b7) 

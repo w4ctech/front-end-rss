@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 05:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -22,6 +22,7 @@
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 
 - [2016-02-26-使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/) 
 - [2020-05-29-机器学习项目复杂繁琐-，该如何构建安全的机器学习环境？](https://www.ershicimi.com/p/ad2fedeb886ae3a8b5e0057cc13d2a0f) 
+- [2020-06-22-有了-vite，还需要-webpack-么？](https://juejin.im/post/5ef09164f265da02c94e16dc) 
 - [2020-06-22-webpack构建过程的进度条实现原理](https://juejin.im/post/5ef07a196fb9a0585b0d3eed) 
 - [2020-06-16-了不起的-Webpack-HMR-学习指南（含源码分析）](https://juejin.im/post/5ee8e32a51882543485780d3) 
 - [2020-06-15-webpack基本使用](https://juejin.im/post/5ee6e95b6fb9a047f229a430) 

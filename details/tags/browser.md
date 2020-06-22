@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -62,6 +62,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-23-iOS-桌面开始抄安卓的-widgets-和启动器界面了](https://www.v2ex.com/t/683918) 
 - [2020-06-22-Syncit:-浏览器内的像素级屏幕分享和远程控制工具](https://www.v2ex.com/t/683890) 
 - [2020-06-22-手机上用-safari-浏览器百度了一下房车的信息，电脑-chrome-浏览器上新浪广告就开始推房车了，怎么做到的](https://www.v2ex.com/t/683665) 
 - [2020-06-22-mac-split-view-不能使用](https://www.v2ex.com/t/683641) 

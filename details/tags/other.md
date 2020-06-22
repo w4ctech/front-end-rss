@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 11:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 11:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1) 
+- [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1) 
 - [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1) 
 - [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1) 
 - [2020-06-22-埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1) 

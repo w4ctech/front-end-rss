@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-22 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-天津昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1) 

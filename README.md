@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 17:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1)  
+- [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1)  
 - [2020-06-22-天津昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1)  
 - [2020-06-22-​美国加州迪士尼公园即将开业-但遭大批民众反对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAO0czLb2Mar5vO6mYxds200622&isfromapp=1)  
 - [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-21-世卫组织：全球新冠肺炎超过870万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQUdgIniiEzN5tENJIiN200621&isfromapp=1)  
 - [2020-06-21-德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1)  
 - [2020-06-21-天津第137例新冠肺炎病例病毒全基因组测序结果与北京新发地市场相关病例病毒序列完全相同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAg216hnK7LfOWcYxRJdO200621&isfromapp=1)  
-- [2020-06-21-阿联酋宣布全面恢复疫情期间暂停的医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie9V4ywPysis0sdGhlnRV200621&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

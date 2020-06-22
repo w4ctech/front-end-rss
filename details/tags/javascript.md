@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,6 +102,9 @@
 - [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-22-js函数与arguments存在的价值有多大？](https://juejin.im/post/5ef077fc518825657e7c2b0d) 
+- [2020-06-22-译文：2020的十大JavaScript图像处理库【渡一教育】](https://juejin.im/post/5ef070ede51d4573cf6ebb6a) 
+- [2020-06-22-封装属于自己的组件库](https://juejin.im/post/5ef00a4a51882565b32a95b7) 
 - [2020-06-21-JSON.stringify还能这么玩](https://juejin.im/post/5eee33d6e51d45742615751a) 
 - [2020-06-20-js设计模式一面向对象—封装](https://juejin.im/post/5eedcd79f265da02c46e9a82) 
 - [2020-06-20-js里的this到底是什么，怎么用，这里可能给你答案](https://juejin.im/post/5eede743e51d45742944f269) 

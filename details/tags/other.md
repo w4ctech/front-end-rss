@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,10 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1) 
+- [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1) 
+- [2020-06-22-埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1) 
+- [2020-06-22-阿曼出台针对企业机构违反疫情防控规定罚款细则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3K2xNTHfQxRsiw1GNNe200622&isfromapp=1) 
 - [2020-06-21-德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1) 
 - [2020-06-21-阿联酋宣布全面恢复疫情期间暂停的医疗服务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie9V4ywPysis0sdGhlnRV200621&isfromapp=1) 
 - [2020-06-21-北京又有2地上升为高风险地区，目前4高风险37中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqywsaNCG5CBnn2Z40cXl200621&isfromapp=1) 

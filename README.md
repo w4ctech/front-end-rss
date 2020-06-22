@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 08:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-阿曼出台针对企业机构违反疫情防控规定罚款细则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3K2xNTHfQxRsiw1GNNe200622&isfromapp=1) ![](assets/new.png)  
 - [2020-06-21-世卫组织：全球新冠肺炎超过870万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQUdgIniiEzN5tENJIiN200621&isfromapp=1)  
 - [2020-06-21-德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1)  
 - [2020-06-21-天津第137例新冠肺炎病例病毒全基因组测序结果与北京新发地市场相关病例病毒序列完全相同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAg216hnK7LfOWcYxRJdO200621&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1)  
 - [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1)  
 - [2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1)  
-- [2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1)  
-- [2020-06-21-西班牙21日起解除国家紧急状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmhxQyFC98Ndpcsn2QoZ200621&isfromapp=1)  
-- [2020-06-21-意甲联赛停摆三个多月后正式重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1An3muGH7ghq0Wgg4A200621&isfromapp=1)  
-- [2020-06-21-空客公司再为5300名员工“放长假”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1)  
-- [2020-06-20-世卫组织：全球新冠肺炎病例超过852万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,7 +1046,7 @@
 </summary>
 
 
-- [2020-06-22-有没有要交换友情链接的-V-友？不限站点类别](https://www.v2ex.com/t/683604) ![](assets/new.png)  
+- [2020-06-22-有没有要交换友情链接的-V-友？不限站点类别](https://www.v2ex.com/t/683604)  
 - [2020-06-22-又是一年毕业季，我开始迷茫了](https://www.v2ex.com/t/683603)  
 - [2020-06-22-分享-Firefox-隐藏整个顶部栏-全屏显示](https://www.v2ex.com/t/683602)  
 - [2020-06-22-全栈工程师全职-10k-15k/实习（面议）-熟悉-Spring-Boot](https://www.v2ex.com/t/683601)  

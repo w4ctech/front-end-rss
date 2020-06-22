@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 18:30:20，:rocket: 更新条数: +40， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1)  
 - [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1)  
 - [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1)  
 - [2020-06-22-天津昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1)  
@@ -1046,26 +1046,26 @@
 </summary>
 
 
-- [2020-06-22-大佬们,尝试用-exprss-+-mongoose-写了个-restful-望各路大神指导](https://www.v2ex.com/t/683670)  
-- [2020-06-22-MacBook-pro-16-和-XPS-17-怎么选？](https://www.v2ex.com/t/683669)  
-- [2020-06-22-周末逛拼多多淘宝，发送很多商家不发北京件，这是啥道理](https://www.v2ex.com/t/683667)  
-- [2020-06-22-牛来了吗？](https://www.v2ex.com/t/683666)  
-- [2020-06-22-手机上用-safari-浏览器百度了一下房车的信息，电脑-chrome-浏览器上新浪广告就开始推房车了，怎么做到的](https://www.v2ex.com/t/683665)  
-- [2020-06-22-周期性的事件提醒怎么设计](https://www.v2ex.com/t/683664)  
-- [2020-06-22-计算机科学与技术-软件工程-物联网工程-智能科学与技术-数据科学与大数据技术怎么选择呢？](https://www.v2ex.com/t/683663)  
-- [2020-06-22-京东-plus-会员+腾讯视频-118/年-2020-年-6-月-22-号](https://www.v2ex.com/t/683662)  
-- [2020-06-22-年初购买京东-plus-赠送了一年的-腾讯视频会员，现交换一年的-QQ-音乐绿卡会员或-70-元人民币](https://www.v2ex.com/t/683661)  
-- [2020-06-22-涂鸦智能---工程生产力团队---Java-工程师](https://www.v2ex.com/t/683660)  
-- [2020-06-22-维护了一个-LPL-2020-赛程日历订阅文件](https://www.v2ex.com/t/683659)  
-- [2020-06-22-3.week-独立开发挑战第三周](https://www.v2ex.com/t/683658)  
-- [2020-06-22-ESXi-生的-Windows-小鸡不能启用-Hyper-V,-求指点](https://www.v2ex.com/t/683657)  
-- [2020-06-22-有没有高效的旅游计划制定方案？你一般怎么制作旅游计划的？](https://www.v2ex.com/t/683656)  
-- [2020-06-22-程序员配一副防蓝光眼镜对保护眼睛有帮助吗？](https://www.v2ex.com/t/683655)  
-- [2020-06-22-字节跳动-懂车帝-后端开发工程师](https://www.v2ex.com/t/683654)  
-- [2020-06-22-蚂蚁金服🔥技术风险数据中台🔥7-月-4/5-号上海招聘专场当前走完流程🔥-Java-平台研发-/大数据/流计算🔥P6~P8](https://www.v2ex.com/t/683653)  
-- [2020-06-22-iOS13-iPhone-APP-内部怎么实现外接-U-盘识别](https://www.v2ex.com/t/683652)  
-- [2020-06-22-银行会拉黑用户吗？](https://www.v2ex.com/t/683650)  
-- [2020-06-22-说说明天-wwdc，](https://www.v2ex.com/t/683649)  
+- [2020-06-22-经常失眠，一睡觉心跳声就特别大，怎么办？](https://www.v2ex.com/t/683839) ![](assets/new.png)  
+- [2020-06-22-招聘-Python-/golang-工程师-数字货币量化交易方向](https://www.v2ex.com/t/683838) ![](assets/new.png)  
+- [2020-06-22-sideload-刷机和卡刷有什么区别？](https://www.v2ex.com/t/683837) ![](assets/new.png)  
+- [2020-06-22-有没有招前端的？准备去成都了](https://www.v2ex.com/t/683836) ![](assets/new.png)  
+- [2020-06-22-这道种题真的能拿来当面试题吗？](https://www.v2ex.com/t/683835) ![](assets/new.png)  
+- [2020-06-22-卖房到了合同约定时间无法付出首付](https://www.v2ex.com/t/683834) ![](assets/new.png)  
+- [2020-06-22-最近才发现阿里的轻量云-1TB-流量只要-24-可以用来作为-CDN-和加速器么？](https://www.v2ex.com/t/683833) ![](assets/new.png)  
+- [2020-06-22-在找房子~工作在市民中心地-t-口附近，-zhe-商-c-富-jin-融中心](https://www.v2ex.com/t/683832) ![](assets/new.png)  
+- [2020-06-22-最近了解到一个-Google-SEO-团队，通过-wordpress-外链一个月拿到$100W-刀的佣金](https://www.v2ex.com/t/683831) ![](assets/new.png)  
+- [2020-06-22-请教一下,vue-项目-后端是-Java-,-seo-要怎么做.-现在是在服务器加了个爬虫,如果-nginx-发现请求是各大搜索引擎,就会通过爬虫把静态页面返回,-还有更好的做法吗](https://www.v2ex.com/t/683830) ![](assets/new.png)  
+- [2020-06-22-五年前端开发求团队带玩](https://www.v2ex.com/t/683829) ![](assets/new.png)  
+- [2020-06-22-电商平台，合同问题请教](https://www.v2ex.com/t/683828) ![](assets/new.png)  
+- [2020-06-22-为啥闲鱼不能指纹支付](https://www.v2ex.com/t/683827) ![](assets/new.png)  
+- [2020-06-22-苹果的官方配件还是有点东西](https://www.v2ex.com/t/683826) ![](assets/new.png)  
+- [2020-06-22-吐槽一下新的工作环境，从大都市到小城市接触到的客户](https://www.v2ex.com/t/683824) ![](assets/new.png)  
+- [2020-06-22-新品上架-为-macOS-精心设计的倒数日应用-Moment](https://www.v2ex.com/t/683823) ![](assets/new.png)  
+- [2020-06-22-私有文件下载的方案](https://www.v2ex.com/t/683821) ![](assets/new.png)  
+- [2020-06-22-leetcode/lintcode-题解-蛇梯棋](https://www.v2ex.com/t/683819) ![](assets/new.png)  
+- [2020-06-22-mysql-做千万级数据去重，总卡死，求指导](https://www.v2ex.com/t/683818) ![](assets/new.png)  
+- [2020-06-22-https://t.me/zh_groups_bot-已经挂了吗？](https://www.v2ex.com/t/683817) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

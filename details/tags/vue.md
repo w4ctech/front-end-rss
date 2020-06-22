@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -121,6 +121,8 @@
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-22-请教一下,vue-项目-后端是-Java-,-seo-要怎么做.-现在是在服务器加了个爬虫,如果-nginx-发现请求是各大搜索引擎,就会通过爬虫把静态页面返回,-还有更好的做法吗](https://www.v2ex.com/t/683830) 
+- [2020-06-22-vue3-源码解析](https://www.v2ex.com/t/683794) 
 - [2020-06-21-我想找前端（泛-vue-框架）资深一点的兼职做些项目](https://www.v2ex.com/t/683491) 
 - [2020-06-21-北京公司，行业软件，自己的产品，-现在新上了两个项目，前端需要人来分单，小程序用-mpvue，前端页面基于-vue，有一些地图方面的经验最好。-请添加-w-x-联系...](https://www.v2ex.com/t/683489) 
 - [2020-06-19-Vue-微前端&微服务解决方案，-Genesis-对远程组件进一步的设计和思考](https://www.v2ex.com/t/682932) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -14,6 +14,8 @@
 - [2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
 - [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) 
 - [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
+- [2020-06-22-发现-Pinterest-上的广告很有创意](https://www.v2ex.com/t/683798) 
+- [2020-06-22-求问一下-nginx-里面-proxy_buffers-的设置问题](https://www.v2ex.com/t/683796) 
 - [2020-06-22-大佬们,尝试用-exprss-+-mongoose-写了个-restful-望各路大神指导](https://www.v2ex.com/t/683670) 
 - [2020-06-22-如何最大化单连接情况下本地-nginx-文件服务的下载速度？](https://www.v2ex.com/t/683591) 
 - [2020-06-20-如何将多款软件（JDK、MySQL、redis、nginx、-Java-项目-jar-包-等）打包为-exe-/-msi-等可执行安装软件，一步步安装并启动？](https://www.v2ex.com/t/683365) 

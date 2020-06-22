@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 22:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -33,6 +33,7 @@
 - [2020-06-16-浏览器打印性能问题篇](https://juejin.im/post/5ee85c085188251f40215663) 
 - [2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
+- [2020-06-22-又是你Intel-新-侧信道漏洞-CrossTalk/SRBDS-安装缓解补丁后随机数性能暴跌-97%](https://www.v2ex.com/t/683882) 
 - [2020-06-22-最近了解到一个-Google-SEO-团队，通过-wordpress-外链一个月拿到$100W-刀的佣金](https://www.v2ex.com/t/683831) 
 - [2020-06-21-Mitogen-for-Ansible-性能优化插件推荐，有效提升-1.25x---7x-倍执行效率](https://www.v2ex.com/t/683505) 
 - [2020-06-20-谷歌浏览器最新版，网站访问快捷键每次重启浏览器要等好几分钟才能加载出来。](https://www.v2ex.com/t/683382) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 11:30:22，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-智利新冠肺炎确诊病例超24万例-政府将扩大防疫隔离范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXJRWDjNFhGE6KNDN3IU200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-笔试面试取消-北京特岗计划乡村教师招聘改为线上复审考核](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-​美国加州迪士尼公园即将开业-但遭大批民众反对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAO0czLb2Mar5vO6mYxds200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1)  
+- [2020-06-22-智利新冠肺炎确诊病例超24万例-政府将扩大防疫隔离范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXJRWDjNFhGE6KNDN3IU200622&isfromapp=1)  
+- [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1)  
+- [2020-06-22-笔试面试取消-北京特岗计划乡村教师招聘改为线上复审考核](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1)  
 - [2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1)  
 - [2020-06-22-巴西累计新冠肺炎确诊病例超108万-7个州重症监护床位占用率超过80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1)  
 - [2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-21-北京又有2地上升为高风险地区，目前4高风险37中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqywsaNCG5CBnn2Z40cXl200621&isfromapp=1)  
 - [2020-06-21-世卫组织：全球新冠肺炎确诊病例超过869万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP6J9V2Z1o7Uo8kinwjn2200621&isfromapp=1)  
 - [2020-06-21-非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1)  
-- [2020-06-21-世卫组织：全球新冠肺炎确诊病例超865万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

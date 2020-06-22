@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 08:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,14 @@
 </summary>
 
 
-- [2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-阿曼出台针对企业机构违反疫情防控规定罚款细则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3K2xNTHfQxRsiw1GNNe200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-巴西累计新冠肺炎确诊病例超108万-7个州重症监护床位占用率超过80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1)  
+- [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1)  
+- [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1)  
+- [2020-06-22-埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1)  
+- [2020-06-22-阿曼出台针对企业机构违反疫情防控规定罚款细则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3K2xNTHfQxRsiw1GNNe200622&isfromapp=1)  
 - [2020-06-21-世卫组织：全球新冠肺炎超过870万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQUdgIniiEzN5tENJIiN200621&isfromapp=1)  
 - [2020-06-21-德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1)  
 - [2020-06-21-天津第137例新冠肺炎病例病毒全基因组测序结果与北京新发地市场相关病例病毒序列完全相同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAg216hnK7LfOWcYxRJdO200621&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-21-南非主流媒体积极评价中非团结抗疫特别峰会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1)  
 - [2020-06-21-至6月21日6时，天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html)  
 - [2020-06-21-张文宏称北京疫情非第二波疫情来临](https://m.weibo.cn/2803301701/4518216917077181)  
-- [2020-06-21-美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXykWXEeaRTupyJQDehED200621&isfromapp=1)  
-- [2020-06-21-出师不利？特朗普团队6名工作人员新冠检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYruWOj87WLaY6SIa2pmZ200621&isfromapp=1)  
-- [2020-06-21-巴西新冠肺炎累计确诊人数超106万，里约市暂停所有体育比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

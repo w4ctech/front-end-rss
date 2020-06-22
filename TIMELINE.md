@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-22 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-巴西累计新冠肺炎确诊病例超108万-7个州重症监护床位占用率超过80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1) 

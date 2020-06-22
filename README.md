@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 09:30:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-巴西累计新冠肺炎确诊病例超108万-7个州重症监护床位占用率超过80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1) ![](assets/new.png)  
-- [2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1)  
+- [2020-06-22-巴西累计新冠肺炎确诊病例超108万-7个州重症监护床位占用率超过80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1)  
+- [2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1)  
 - [2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1)  
 - [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1)  
 - [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1)  
@@ -1108,26 +1108,26 @@
 </summary>
 
 
+- [2020-06-22-JavaScript-开发人员偏爱-Deno-而不是-Node-的-5-大原因](https://toutiao.io/k/zppavwx) ![](assets/new.png)  
+- [2020-06-22-一文带你彻底学会-Git-Hooks-配置](https://toutiao.io/k/y2tamtp) ![](assets/new.png)  
+- [2020-06-22-GraphQL-+-Koa-+-React-项目实践](https://toutiao.io/k/7gldfmw) ![](assets/new.png)  
+- [2020-06-22-MyBatis-版本升级引发的线上告警回顾及原理分析](https://toutiao.io/k/8ku1oyp) ![](assets/new.png)  
+- [2020-06-22-Docker-适合哪些场景](https://toutiao.io/k/h0rxdse) ![](assets/new.png)  
+- [2020-06-22-译-部署一个-Go-应用的正确姿势](https://toutiao.io/k/nu9cfdu) ![](assets/new.png)  
+- [2020-06-22-Android-上的-WebRTC：多设备如何启用硬件编码？（一）](https://toutiao.io/k/py6v1li) ![](assets/new.png)  
+- [2020-06-22-少年：究竟什么是单元测试啊?](https://toutiao.io/k/pw51ydz) ![](assets/new.png)  
+- [2020-06-22-一文了解-Netty-整体流程](https://toutiao.io/k/paciu8u) ![](assets/new.png)  
+- [2020-06-22-B树、B+树索引算法原理（下）](https://toutiao.io/k/saasqzl) ![](assets/new.png)  
+- [2020-06-22-GraalVM：云原生时代的-Java](https://toutiao.io/k/no4wp5h) ![](assets/new.png)  
+- [2020-06-22-哔哩哔哩-“会员购”-在流量回放上的探索](https://toutiao.io/k/avljzmf) ![](assets/new.png)  
+- [2020-06-22-搭建一套-Flink-的监控系统](https://toutiao.io/k/khds8dw) ![](assets/new.png)  
+- [2020-06-22-揭秘：如何为-Kubernetes-实现原地升级？](https://toutiao.io/k/15q4tig) ![](assets/new.png)  
+- [2020-06-22-Java-并发编程那些事儿（十）：最后的总结](https://toutiao.io/k/6c0b1t8) ![](assets/new.png)  
 - [2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28)  
 - [2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68)  
 - [2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8)  
 - [2020-06-21-漫谈核心能力（四）：有条理，更清晰](https://toutiao.io/k/bw44qfb)  
 - [2020-06-21-浅谈渗透江湖之细水柔情](https://toutiao.io/k/uybv7sw)  
-- [2020-06-21-周末别闲着！加入我们！](https://toutiao.io/k/mplxlqm)  
-- [2020-06-21-记一次在-MOSN-对-Dubbo、Dubbo-go-hessian2-的性能优化](https://toutiao.io/k/2yhjkiu)  
-- [2020-06-21-译-类似-Go-中的表格驱动测试的步骤驱动评估](https://toutiao.io/k/e0s8qgh)  
-- [2020-06-21-HBase-Region-Read-Replicas-功能详解](https://toutiao.io/k/ckbh4d8)  
-- [2020-06-21-Principal-Component-Analysis-PCA](https://toutiao.io/k/l7fudgy)  
-- [2020-06-20-谈谈技术人员职业发展的困惑](https://toutiao.io/k/j0mwuua)  
-- [2020-06-20-最华丽的-Kubernetes-桌面客户端：Lens](https://toutiao.io/k/42l0a64)  
-- [2020-06-20-老大吩咐的可重入分布式锁，终于完美的实现了](https://toutiao.io/k/2dsjhin)  
-- [2020-06-20-手把手教你，本地搭建虚拟机部署微服务](https://toutiao.io/k/cihte9f)  
-- [2020-06-20-实践一把-Loki，体验掌上起舞的轻盈](https://toutiao.io/k/dpomqai)  
-- [2020-06-20-Filebeat-收集日志的那些事儿](https://toutiao.io/k/gus7nv2)  
-- [2020-06-20-怎样消灭-Bug？](https://toutiao.io/k/cux0n0m)  
-- [2020-06-20-再启程，Service-Mesh-前路虽长，尤可期许](https://toutiao.io/k/xj4eqrv)  
-- [2020-06-20-密码管理工具（命令行）](https://toutiao.io/k/zww6eqt)  
-- [2020-06-20-译-重磅！Go-泛型草案更新，最早在明年-8-月的-Go-1.17-发布](https://toutiao.io/k/39nra0j)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

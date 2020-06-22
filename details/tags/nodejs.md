@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -67,3 +67,4 @@
 - [2020-06-01-坐标北京，真格+红杉投资社交-app-团队诚招-node.js-小伙伴](https://www.v2ex.com/t/677383) 
 - [2020-05-30-对于前端，网站/网页，-nginx-以及-node-总是迷糊，有没有兄弟姐妹帮忙解释得简单明白一点？](https://www.v2ex.com/t/676975) 
 - [2020-05-29-Node.js-有哪些好用的后端框架？最好带有脚手架](https://www.v2ex.com/t/676667) 
+- [2020-06-22-JavaScript-开发人员偏爱-Deno-而不是-Node-的-5-大原因](https://toutiao.io/k/zppavwx) 

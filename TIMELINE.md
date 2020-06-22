@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-22 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-22 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -4113,6 +4113,21 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-22-JavaScript-开发人员偏爱-Deno-而不是-Node-的-5-大原因](https://toutiao.io/k/zppavwx) 
+- [【开发者头条】2020-06-22-一文带你彻底学会-Git-Hooks-配置](https://toutiao.io/k/y2tamtp) 
+- [【开发者头条】2020-06-22-GraphQL-+-Koa-+-React-项目实践](https://toutiao.io/k/7gldfmw) 
+- [【开发者头条】2020-06-22-MyBatis-版本升级引发的线上告警回顾及原理分析](https://toutiao.io/k/8ku1oyp) 
+- [【开发者头条】2020-06-22-Docker-适合哪些场景](https://toutiao.io/k/h0rxdse) 
+- [【开发者头条】2020-06-22-译-部署一个-Go-应用的正确姿势](https://toutiao.io/k/nu9cfdu) 
+- [【开发者头条】2020-06-22-Android-上的-WebRTC：多设备如何启用硬件编码？（一）](https://toutiao.io/k/py6v1li) 
+- [【开发者头条】2020-06-22-少年：究竟什么是单元测试啊?](https://toutiao.io/k/pw51ydz) 
+- [【开发者头条】2020-06-22-一文了解-Netty-整体流程](https://toutiao.io/k/paciu8u) 
+- [【开发者头条】2020-06-22-B树、B+树索引算法原理（下）](https://toutiao.io/k/saasqzl) 
+- [【开发者头条】2020-06-22-GraalVM：云原生时代的-Java](https://toutiao.io/k/no4wp5h) 
+- [【开发者头条】2020-06-22-哔哩哔哩-“会员购”-在流量回放上的探索](https://toutiao.io/k/avljzmf) 
+- [【开发者头条】2020-06-22-搭建一套-Flink-的监控系统](https://toutiao.io/k/khds8dw) 
+- [【开发者头条】2020-06-22-揭秘：如何为-Kubernetes-实现原地升级？](https://toutiao.io/k/15q4tig) 
+- [【开发者头条】2020-06-22-Java-并发编程那些事儿（十）：最后的总结](https://toutiao.io/k/6c0b1t8) 
 - [【开发者头条】2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28) 
 - [【开发者头条】2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68) 
 - [【开发者头条】2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8) 

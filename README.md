@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 09:30:21，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 10:30:40，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -714,6 +714,7 @@
 </summary>
 
 
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
 - [2020-06-09-牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/)  
 - [2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/)  
 - [2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)  
@@ -733,7 +734,6 @@
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)  
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)  
 - [2020-01-08-Taro-2.0：拥抱社区，拥抱变化](https://aotu.io/notes/2020/01/08/taro-2-0/)  
-- [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1108,21 +1108,21 @@
 </summary>
 
 
-- [2020-06-22-JavaScript-开发人员偏爱-Deno-而不是-Node-的-5-大原因](https://toutiao.io/k/zppavwx) ![](assets/new.png)  
-- [2020-06-22-一文带你彻底学会-Git-Hooks-配置](https://toutiao.io/k/y2tamtp) ![](assets/new.png)  
-- [2020-06-22-GraphQL-+-Koa-+-React-项目实践](https://toutiao.io/k/7gldfmw) ![](assets/new.png)  
-- [2020-06-22-MyBatis-版本升级引发的线上告警回顾及原理分析](https://toutiao.io/k/8ku1oyp) ![](assets/new.png)  
-- [2020-06-22-Docker-适合哪些场景](https://toutiao.io/k/h0rxdse) ![](assets/new.png)  
-- [2020-06-22-译-部署一个-Go-应用的正确姿势](https://toutiao.io/k/nu9cfdu) ![](assets/new.png)  
-- [2020-06-22-Android-上的-WebRTC：多设备如何启用硬件编码？（一）](https://toutiao.io/k/py6v1li) ![](assets/new.png)  
-- [2020-06-22-少年：究竟什么是单元测试啊?](https://toutiao.io/k/pw51ydz) ![](assets/new.png)  
-- [2020-06-22-一文了解-Netty-整体流程](https://toutiao.io/k/paciu8u) ![](assets/new.png)  
-- [2020-06-22-B树、B+树索引算法原理（下）](https://toutiao.io/k/saasqzl) ![](assets/new.png)  
-- [2020-06-22-GraalVM：云原生时代的-Java](https://toutiao.io/k/no4wp5h) ![](assets/new.png)  
-- [2020-06-22-哔哩哔哩-“会员购”-在流量回放上的探索](https://toutiao.io/k/avljzmf) ![](assets/new.png)  
-- [2020-06-22-搭建一套-Flink-的监控系统](https://toutiao.io/k/khds8dw) ![](assets/new.png)  
-- [2020-06-22-揭秘：如何为-Kubernetes-实现原地升级？](https://toutiao.io/k/15q4tig) ![](assets/new.png)  
-- [2020-06-22-Java-并发编程那些事儿（十）：最后的总结](https://toutiao.io/k/6c0b1t8) ![](assets/new.png)  
+- [2020-06-22-JavaScript-开发人员偏爱-Deno-而不是-Node-的-5-大原因](https://toutiao.io/k/zppavwx)  
+- [2020-06-22-一文带你彻底学会-Git-Hooks-配置](https://toutiao.io/k/y2tamtp)  
+- [2020-06-22-GraphQL-+-Koa-+-React-项目实践](https://toutiao.io/k/7gldfmw)  
+- [2020-06-22-MyBatis-版本升级引发的线上告警回顾及原理分析](https://toutiao.io/k/8ku1oyp)  
+- [2020-06-22-Docker-适合哪些场景](https://toutiao.io/k/h0rxdse)  
+- [2020-06-22-译-部署一个-Go-应用的正确姿势](https://toutiao.io/k/nu9cfdu)  
+- [2020-06-22-Android-上的-WebRTC：多设备如何启用硬件编码？（一）](https://toutiao.io/k/py6v1li)  
+- [2020-06-22-少年：究竟什么是单元测试啊?](https://toutiao.io/k/pw51ydz)  
+- [2020-06-22-一文了解-Netty-整体流程](https://toutiao.io/k/paciu8u)  
+- [2020-06-22-B树、B+树索引算法原理（下）](https://toutiao.io/k/saasqzl)  
+- [2020-06-22-GraalVM：云原生时代的-Java](https://toutiao.io/k/no4wp5h)  
+- [2020-06-22-哔哩哔哩-“会员购”-在流量回放上的探索](https://toutiao.io/k/avljzmf)  
+- [2020-06-22-搭建一套-Flink-的监控系统](https://toutiao.io/k/khds8dw)  
+- [2020-06-22-揭秘：如何为-Kubernetes-实现原地升级？](https://toutiao.io/k/15q4tig)  
+- [2020-06-22-Java-并发编程那些事儿（十）：最后的总结](https://toutiao.io/k/6c0b1t8)  
 - [2020-06-21-Go-泛型新方案：类型参数](https://toutiao.io/k/gzi9l28)  
 - [2020-06-21-利用火焰图优化基于-openresty-服务的性能](https://toutiao.io/k/zcscj68)  
 - [2020-06-21-HDFS-小文件治理方案](https://toutiao.io/k/ko40sa8)  

@@ -10773,6 +10773,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "图形处理：给 Canvas 文本填充线性渐变",
+        "link": "https://aotu.io/notes/2020/06/22/linearGradient/",
+        "date": "2020-06-22"
+      },
+      {
         "title": "牛逼SVG之进阶扫盲",
         "link": "https://aotu.io/notes/2020/06/09/strong-svg/",
         "date": "2020-06-09"

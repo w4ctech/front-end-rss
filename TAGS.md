@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-22 09:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-22 10:30:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -404,6 +404,7 @@
 - [【前端迷】SVG实现一个优雅的提示框](https://www.ershicimi.com/p/6c7744fd096514cdb6b48f0f2151108e)
 - [【全栈前端精选】【实战】Canvas实现图片上标注、缩放、移动和保存历史状态](https://www.ershicimi.com/p/c249f20d66acc2af2c7a87c378ae8fa9)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
+- [【凹凸实验室】图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/)
 - [【凹凸实验室】牛逼SVG之进阶扫盲](https://aotu.io/notes/2020/06/09/strong-svg/)
 - [【凹凸实验室】SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/)
 - [【凹凸实验室】十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/)
@@ -418,7 +419,6 @@
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
 - [【InfoQ】开扒-SpaceX-飞船技术栈，程序员搞了个-3D-版飞船生成器过瘾](https://www.ershicimi.com/p/a56dc386185d1d7c9c2f5e7f2463de64)
 - [【掘金前端】WebGL学习（一）---使用WebGL绘制一个点](https://juejin.im/post/5eef4d16e51d4574035437f0)
-- [【掘金前端】一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

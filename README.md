@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 02:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 04:00:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-22-世卫组织总干事：昨天新冠肺炎新增病例为迄今以来最高一天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilx3gcXcMNILC6w80t8mJ200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-世卫组织总干事：昨天新冠肺炎新增病例为迄今以来最高一天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilx3gcXcMNILC6w80t8mJ200622&isfromapp=1)  
 - [2020-06-22-中国疾控中心副主任：新发地暴露人员发病已进入尾声](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1)  
 - [2020-06-22-美国佛罗里达州一医疗系统过去两周新冠肺炎患者增加-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVkMiYgaItbCBJ2PWxakL200622&isfromapp=1)  
 - [2020-06-22-6-月-22-日甘肃新增-7-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTO1XXnMKmYFV0ITYbe53200622&isfromapp=1)  
@@ -1046,26 +1046,26 @@
 </summary>
 
 
+- [2020-06-23-怎样让-Linux-平台的-aria2-下载-115-网盘资源-？](https://www.v2ex.com/t/683940) ![](assets/new.png)  
+- [2020-06-23-现在开发者可以申请具有-A12Z-的-Apple-Silicon-了](https://www.v2ex.com/t/683938) ![](assets/new.png)  
+- [2020-06-23-Apple-推了新处理器，到时候会有更多人用-mac-做开发了吧。](https://www.v2ex.com/t/683937) ![](assets/new.png)  
+- [2020-06-23-wwdc20-看完了，大家感受如何！](https://www.v2ex.com/t/683936) ![](assets/new.png)  
+- [2020-06-23-有个疑问，-Mac-未来将全线迁移到-ARM-平台，也包括面向高性能用户的-Mac-Pro-么？](https://www.v2ex.com/t/683935) ![](assets/new.png)  
+- [2020-06-23-Apple-都打算转自研芯片准备大一统，为什么还有继续发布-Intel-芯片-Mac-计划？](https://www.v2ex.com/t/683934) ![](assets/new.png)  
+- [2020-06-23-macOS-11:-big-surface](https://www.v2ex.com/t/683933) ![](assets/new.png)  
+- [2020-06-23-被深圳电信宽带恶心到的一次经历](https://www.v2ex.com/t/683932) ![](assets/new.png)  
+- [2020-06-23-ARM-APPLE-初代机何时发售？](https://www.v2ex.com/t/683931) ![](assets/new.png)  
+- [2020-06-23-Bootcamp-怎么办？还能用吗？现在还用英特尔的怎么办？？我买的那些软件岂不是都-GG-了](https://www.v2ex.com/t/683930) ![](assets/new.png)  
+- [2020-06-23-Apple-Silicon!-时代变了😃😃😃](https://www.v2ex.com/t/683929) ![](assets/new.png)  
+- [2020-06-23-arm-可以直接跑-iOS-应用？](https://www.v2ex.com/t/683928) ![](assets/new.png)  
+- [2020-06-23-Hackintosh-社区是不是可以开始倒计时了](https://www.v2ex.com/t/683926) ![](assets/new.png)  
+- [2020-06-23-macOS-怎么也用圆角矩形了](https://www.v2ex.com/t/683925) ![](assets/new.png)  
+- [2020-06-23-新-macos-的-dock-鼠标划过放大效果没有了？](https://www.v2ex.com/t/683924) ![](assets/new.png)  
+- [2020-06-23-这次发布会是不是提前录好的视频](https://www.v2ex.com/t/683923) ![](assets/new.png)  
 - [2020-06-23-同样是发布会，感觉完全不是一个档次。你们觉得呢？](https://www.v2ex.com/t/683922)  
 - [2020-06-23-WWDC2020-似乎比去年有趣一些](https://www.v2ex.com/t/683921)  
 - [2020-06-23-买-iPhone-送-BMW-吗，我想体验一下这个功能](https://www.v2ex.com/t/683920)  
 - [2020-06-23-iOS14，这不是我想要的苹果](https://www.v2ex.com/t/683919)  
-- [2020-06-23-iOS-桌面开始抄安卓的-widgets-和启动器界面了](https://www.v2ex.com/t/683918)  
-- [2020-06-23-有没有可能，我们的记忆都是虚构的？](https://www.v2ex.com/t/683917)  
-- [2020-06-23-亭林镇第一快男，真🐮🍺‼️](https://www.v2ex.com/t/683915)  
-- [2020-06-23-苹果将在中国区-App-Store-下架多款未获-xx-审批的游戏](https://www.v2ex.com/t/683914)  
-- [2020-06-23-京东，账户出现非本人操作订单并付款，客服要求报案](https://www.v2ex.com/t/683913)  
-- [2020-06-23-simulink](https://www.v2ex.com/t/683912)  
-- [2020-06-22-我们为什么坚持做-ToB-的慢生意](https://www.v2ex.com/t/683911)  
-- [2020-06-22-转到-ARM-后还有可能用上雷电-3-么？](https://www.v2ex.com/t/683910)  
-- [2020-06-22-学校暑期提供的字节跳动创新实践是否有价值参加呢?](https://www.v2ex.com/t/683909)  
-- [2020-06-22-中国制造-Tesla-Model-3-长续航体验](https://www.v2ex.com/t/683908)  
-- [2020-06-22-DuckPhp-1.2.5-发布——-进入-beta-测试](https://www.v2ex.com/t/683907)  
-- [2020-06-22-ethtool-原理介绍和解决网卡丢包排查思路](https://www.v2ex.com/t/683906)  
-- [2020-06-22-LuckyYou,-一个基于前端技术（HTML，-CSS，-JS）开发，用-tauri-打包的跨平台软件，可用在抽奖，课堂点名等...](https://www.v2ex.com/t/683905)  
-- [2020-06-22-写在-WWDC-2020-发布会前夕，关于-ARM-架构-MacBook-的思考](https://www.v2ex.com/t/683903)  
-- [2020-06-22-学习-ASGI，从头撸一个-ASGI-web-框架](https://www.v2ex.com/t/683902)  
-- [2020-06-22-感觉联通中转还没有移动中转香（带宽方面）（延迟移动高一些）](https://www.v2ex.com/t/683901)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

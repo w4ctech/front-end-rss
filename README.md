@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 23:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 00:30:20，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-22-中国疾控中心副主任：新发地暴露人员发病已进入尾声](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-美国佛罗里达州一医疗系统过去两周新冠肺炎患者增加-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVkMiYgaItbCBJ2PWxakL200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-6-月-22-日甘肃新增-7-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTO1XXnMKmYFV0ITYbe53200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-再次提醒从俄罗斯乘机回国人员切勿伪造核酸检测报告](https://m.weibo.cn/3057540037/4518712193878017) ![](assets/new.png)  
+- [2020-06-22-今起土耳其不按规定佩戴口罩者将面临-900-里拉罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7J7WDPR8sRgkpn1HjYE8200622&isfromapp=1) ![](assets/new.png)  
 - [2020-06-22-刚果（布）国家公共卫生紧急状态再次延长20天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5nfHZbGRdYfR9Hb88rK5200622&isfromapp=1)  
 - [2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1)  
 - [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1)  
 - [2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1)  
 - [2020-06-22-美国学者：美国试图发动与中国新冷战-比新冠病毒带给全球的威胁更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1)  
-- [2020-06-22-网坛名将感染新冠病毒-近期曾同德约科维奇密切接触](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1)  
-- [2020-06-22-埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1)  
-- [2020-06-22-阿曼出台针对企业机构违反疫情防控规定罚款细则](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3K2xNTHfQxRsiw1GNNe200622&isfromapp=1)  
-- [2020-06-21-世卫组织：全球新冠肺炎超过870万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQUdgIniiEzN5tENJIiN200621&isfromapp=1)  
-- [2020-06-21-德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1046,26 +1046,26 @@
 </summary>
 
 
-- [2020-06-22-写在-WWDC-2020-发布会前夕，关于-ARM-架构-MacBook-的思考](https://www.v2ex.com/t/683903) ![](assets/new.png)  
-- [2020-06-22-学习-ASGI，从头撸一个-ASGI-web-框架](https://www.v2ex.com/t/683902) ![](assets/new.png)  
-- [2020-06-22-感觉联通中转还没有移动中转香（带宽方面）（延迟移动高一些）](https://www.v2ex.com/t/683901) ![](assets/new.png)  
-- [2020-06-22-Starlink-有人能出个教程把电视锅改天线接收器不？](https://www.v2ex.com/t/683900) ![](assets/new.png)  
-- [2020-06-22-不懂就问，-Powershell-for-macOS-有啥用？](https://www.v2ex.com/t/683899) ![](assets/new.png)  
-- [2020-06-22-求助，-Python-有什么可以实时操控包括显示手机屏幕的应用推荐么，-操控包括点击、滑动、输入这三项操作](https://www.v2ex.com/t/683898) ![](assets/new.png)  
-- [2020-06-22-北京租房求推荐](https://www.v2ex.com/t/683897) ![](assets/new.png)  
-- [2020-06-22-字节跳动新业务-技术提前批内推：岗位多，竞争小，速度快！](https://www.v2ex.com/t/683896) ![](assets/new.png)  
-- [2020-06-22-不懂就问，苹果的-MacBook-蝶式键盘维修计划，更换后的键盘还是蝶式键盘么？](https://www.v2ex.com/t/683895) ![](assets/new.png)  
-- [2020-06-22-用了两年蝴蝶键盘再用回剪刀键盘，才知道剪刀键盘真-TMD-好用](https://www.v2ex.com/t/683894) ![](assets/new.png)  
-- [2020-06-22-有办法设置手机充电时不点亮屏幕么](https://www.v2ex.com/t/683893) ![](assets/new.png)  
-- [2020-06-22-剧本与叙事如何杀死了《最后生还者:第二章》-ITde-talk](https://www.v2ex.com/t/683892) ![](assets/new.png)  
-- [2020-06-22-出差深圳，有什么推荐的礼物可以买来送给家人朋友？](https://www.v2ex.com/t/683891) ![](assets/new.png)  
-- [2020-06-22-Syncit:-浏览器内的像素级屏幕分享和远程控制工具](https://www.v2ex.com/t/683890) ![](assets/new.png)  
-- [2020-06-22-第四期德国-IT-岗位招聘之-Software-developer,-Programmer,-Junior-SAP-developer](https://www.v2ex.com/t/683889) ![](assets/new.png)  
-- [2020-06-22-macbookpro-15-款电池鼓包，拆掉电池直接连电源很卡。](https://www.v2ex.com/t/683888) ![](assets/new.png)  
-- [2020-06-22-坐标张江，刚搬进来，发现入了蟑螂窝了，求教](https://www.v2ex.com/t/683887) ![](assets/new.png)  
-- [2020-06-22-之前-30-元的-1-年的天翼云你们买了多久？](https://www.v2ex.com/t/683885)  
-- [2020-06-22-请问看网飞的人有多少啊？](https://www.v2ex.com/t/683884)  
-- [2020-06-22-不懂就问，两台-Mac-怎么用一个充电器](https://www.v2ex.com/t/683883)  
+- [2020-06-23-苹果将在中国区-App-Store-下架多款未获-xx-审批的游戏](https://www.v2ex.com/t/683914) ![](assets/new.png)  
+- [2020-06-23-京东，账户出现非本人操作订单并付款，客服要求报案](https://www.v2ex.com/t/683913) ![](assets/new.png)  
+- [2020-06-23-simulink](https://www.v2ex.com/t/683912) ![](assets/new.png)  
+- [2020-06-22-我们为什么坚持做-ToB-的慢生意](https://www.v2ex.com/t/683911) ![](assets/new.png)  
+- [2020-06-22-转到-ARM-后还有可能用上雷电-3-么？](https://www.v2ex.com/t/683910) ![](assets/new.png)  
+- [2020-06-22-学校暑期提供的字节跳动创新实践是否有价值参加呢?](https://www.v2ex.com/t/683909) ![](assets/new.png)  
+- [2020-06-22-中国制造-Tesla-Model-3-长续航体验](https://www.v2ex.com/t/683908) ![](assets/new.png)  
+- [2020-06-22-DuckPhp-1.2.5-发布——-进入-beta-测试](https://www.v2ex.com/t/683907) ![](assets/new.png)  
+- [2020-06-22-ethtool-原理介绍和解决网卡丢包排查思路](https://www.v2ex.com/t/683906) ![](assets/new.png)  
+- [2020-06-22-LuckyYou,-一个基于前端技术（HTML，-CSS，-JS）开发，用-tauri-打包的跨平台软件，可用在抽奖，课堂点名等...](https://www.v2ex.com/t/683905) ![](assets/new.png)  
+- [2020-06-22-写在-WWDC-2020-发布会前夕，关于-ARM-架构-MacBook-的思考](https://www.v2ex.com/t/683903)  
+- [2020-06-22-学习-ASGI，从头撸一个-ASGI-web-框架](https://www.v2ex.com/t/683902)  
+- [2020-06-22-感觉联通中转还没有移动中转香（带宽方面）（延迟移动高一些）](https://www.v2ex.com/t/683901)  
+- [2020-06-22-Starlink-有人能出个教程把电视锅改天线接收器不？](https://www.v2ex.com/t/683900)  
+- [2020-06-22-不懂就问，-Powershell-for-macOS-有啥用？](https://www.v2ex.com/t/683899)  
+- [2020-06-22-求助，-Python-有什么可以实时操控包括显示手机屏幕的应用推荐么，-操控包括点击、滑动、输入这三项操作](https://www.v2ex.com/t/683898)  
+- [2020-06-22-北京租房求推荐](https://www.v2ex.com/t/683897)  
+- [2020-06-22-字节跳动新业务-技术提前批内推：岗位多，竞争小，速度快！](https://www.v2ex.com/t/683896)  
+- [2020-06-22-不懂就问，苹果的-MacBook-蝶式键盘维修计划，更换后的键盘还是蝶式键盘么？](https://www.v2ex.com/t/683895)  
+- [2020-06-22-用了两年蝴蝶键盘再用回剪刀键盘，才知道剪刀键盘真-TMD-好用](https://www.v2ex.com/t/683894)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

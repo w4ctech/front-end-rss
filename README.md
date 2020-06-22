@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-22 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-22 12:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-22-​美国加州迪士尼公园即将开业-但遭大批民众反对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAO0czLb2Mar5vO6mYxds200622&isfromapp=1) ![](assets/new.png)  
+- [2020-06-22-​美国加州迪士尼公园即将开业-但遭大批民众反对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAO0czLb2Mar5vO6mYxds200622&isfromapp=1)  
 - [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1)  
 - [2020-06-22-智利新冠肺炎确诊病例超24万例-政府将扩大防疫隔离范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXJRWDjNFhGE6KNDN3IU200622&isfromapp=1)  
 - [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1)  
@@ -587,6 +587,7 @@
 </summary>
 
 
+- [2020-06-22-一文助你搞懂-AST](https://www.ershicimi.com/p/b60702c7f4febac074f64e0a98e9baf8) ![](assets/new.png)  
 - [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1)  
 - [2020-06-20-前端开发日常的协作工具](https://www.ershicimi.com/p/42decc169252c2fafc53eba4b867507e)  
 - [2020-06-19-阿里业务线Owner揭秘：这才是前端面试-“刚需”-能力](https://www.ershicimi.com/p/ad6561389534b6882672f821cad028ae)  
@@ -606,7 +607,6 @@
 - [2020-06-11-你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876)  
 - [2020-06-10-如何快速搭建好看的个人博客完整配置与源码](https://www.ershicimi.com/p/0d276bb0e1d0b58d148af80e2811a5e3)  
 - [2020-06-09-一位工作10年的前端总结的10个忠告](https://www.ershicimi.com/p/6ba7f52e245deb2e011c0fd28097458d)  
-- [2020-06-09-Vue版的团队代码规范](https://www.ershicimi.com/p/8a8e837b6cf26e8efb6b9e78e415b887)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

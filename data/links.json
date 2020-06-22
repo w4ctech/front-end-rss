@@ -10808,6 +10808,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "手把手教你写个小程序定时器管理库",
+        "link": "https://aotu.io/notes/2020/06/22/timer-miniprogram/",
+        "date": "2020-06-22"
+      },
+      {
         "title": "图形处理：给 Canvas 文本填充线性渐变",
         "link": "https://aotu.io/notes/2020/06/22/linearGradient/",
         "date": "2020-06-22"

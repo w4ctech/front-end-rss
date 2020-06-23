@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1) 
 - [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1) 
 - [2020-06-23-北京：日核酸检测能力由4万份提升至30万份以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1) 
 - [2020-06-23-北京建方舱式核酸检测实验室](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1) 

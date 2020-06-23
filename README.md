@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 18:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-北京：日核酸检测能力由4万份提升至30万份以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1)  
+- [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1)  
+- [2020-06-23-北京：日核酸检测能力由4万份提升至30万份以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1)  
 - [2020-06-23-北京建方舱式核酸检测实验室](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1)  
 - [2020-06-23-印度新增14933例新冠肺炎确诊病例-累计确诊440215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1)  
 - [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-22-6-月-22-日甘肃新增-7-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTO1XXnMKmYFV0ITYbe53200622&isfromapp=1)  
 - [2020-06-22-再次提醒从俄罗斯乘机回国人员切勿伪造核酸检测报告](https://m.weibo.cn/3057540037/4518712193878017)  
 - [2020-06-22-今起土耳其不按规定佩戴口罩者将面临-900-里拉罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7J7WDPR8sRgkpn1HjYE8200622&isfromapp=1)  
-- [2020-06-22-刚果（布）国家公共卫生紧急状态再次延长20天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5nfHZbGRdYfR9Hb88rK5200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

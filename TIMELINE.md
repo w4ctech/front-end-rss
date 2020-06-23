@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-23 22:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -882,6 +882,7 @@
 - [【前端瓶子君】2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [【前端瓶子君】2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
+- [【程序员成长指北】2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2) 
 - [【程序员成长指北】2020-06-22-一文助你搞懂-AST](https://www.ershicimi.com/p/b60702c7f4febac074f64e0a98e9baf8) 
 - [【程序员成长指北】2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1) 
 - [【程序员成长指北】2020-06-20-前端开发日常的协作工具](https://www.ershicimi.com/p/42decc169252c2fafc53eba4b867507e) 

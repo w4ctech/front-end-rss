@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 21:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -60,6 +60,7 @@
 - [2020-05-31-Promise/async/Generator实现原理解析](https://www.ershicimi.com/p/a62d09698b568728bfb8147d8e202f80) 
 - [2020-05-29-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/acb63ddde2cf6a1c6b02f8cb51260f33) 
 - [2020-05-24-我和大佬之间差一个JS工具函数大全...](https://www.ershicimi.com/p/5c05c6aaae9e431784dbaea0bd8d004e) 
+- [2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2) 
 - [2020-06-12-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d0e2be76cf7a75e5963e0f7873f5281a) 
 - [2020-06-03-手写async-await的最简实现（20行搞定）！阿里字节面试必考](https://www.ershicimi.com/p/e6ec2cf5a18df9be3188c8a0c465aa0b) 
 - [2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 

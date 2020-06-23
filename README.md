@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 01:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 01:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-23-世卫组织：全球新冠肺炎确诊病例累计超899万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-利比里亚国家紧急状态再延期30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-世卫组织：全球新冠肺炎确诊病例累计超899万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1)  
+- [2020-06-23-利比里亚国家紧急状态再延期30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1)  
 - [2020-06-23-世卫组织：全球新冠肺炎确诊病例超过897万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqjdGzOuFYJ2Ugt5QKb5200623&isfromapp=1)  
 - [2020-06-23-香港23日新增16例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWDL0LfX8buf6oBILgwo200623&isfromapp=1)  
 - [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1)  
@@ -1047,26 +1047,26 @@
 </summary>
 
 
+- [2020-06-24-GitHub-改版了](https://www.v2ex.com/t/684302) ![](assets/new.png)  
+- [2020-06-24-请问各位，有没有比较好的可以刷任意网站访客量的程序？](https://www.v2ex.com/t/684301) ![](assets/new.png)  
+- [2020-06-24-20200624-午夜俱乐部](https://www.v2ex.com/t/684300) ![](assets/new.png)  
+- [2020-06-24-软路由换不同网卡开启-bbr-后表现竟然不一样，点解？](https://www.v2ex.com/t/684299) ![](assets/new.png)  
+- [2020-06-24-gin-官方文档的示例代码，变量命名为何要使用单个单词，看起来很不顺眼，是不是不符合代码规范。如`r-:=-gi...](https://www.v2ex.com/t/684298) ![](assets/new.png)  
+- [2020-06-24-转租功德林小区带阳台主卧-2975-元每月-房东直租](https://www.v2ex.com/t/684297) ![](assets/new.png)  
+- [2020-06-24-iOS14-关于-App-资源库如何自定义请教](https://www.v2ex.com/t/684296) ![](assets/new.png)  
+- [2020-06-23-求助-iOS13-安装不了大于-15MB-的描述文件吗？](https://www.v2ex.com/t/684295) ![](assets/new.png)  
+- [2020-06-23-小米正在众筹的-27-寸-2k-165HZ-显示器怎么样？有没有懂行的老哥？](https://www.v2ex.com/t/684294) ![](assets/new.png)  
+- [2020-06-23-PS4-和-Steam-上的-Ace-Combat-7，你会选哪一个？](https://www.v2ex.com/t/684293) ![](assets/new.png)  
+- [2020-06-23-买了绿联-4-口集线器，不能-ADB-调试手机啊](https://www.v2ex.com/t/684292) ![](assets/new.png)  
+- [2020-06-23-采集的内容里有以下内容，怎么把这些用正规则替换为空或去掉？](https://www.v2ex.com/t/684291) ![](assets/new.png)  
+- [2020-06-23-百元散热器利民-ax120-和-as120-慎入。](https://www.v2ex.com/t/684290) ![](assets/new.png)  
+- [2020-06-23-为何我的微信不能登录网页版微信，提示如下图所示？](https://www.v2ex.com/t/684289) ![](assets/new.png)  
+- [2020-06-23-springcloud-dubbo-现在哪个用的比较多些？](https://www.v2ex.com/t/684288) ![](assets/new.png)  
+- [2020-06-23-北京健康宝的本人健康码状态查询是无内容的？这是什么鬼？](https://www.v2ex.com/t/684287) ![](assets/new.png)  
 - [2020-06-23-npm-下载依赖的时候用到-github-的资源下载不了怎么办？](https://www.v2ex.com/t/684285)  
 - [2020-06-23-请教各位大佬，有人在咸鱼上买过雷击木或者紫薇讳牌吗？是真的吗？看着跟淘宝店相差很远。](https://www.v2ex.com/t/684284)  
 - [2020-06-23-来吐槽-iOS-14-&-新功能安利](https://www.v2ex.com/t/684283)  
 - [2020-06-23-MIUI-11-下的-app-没有跟随系统字体的粗细变化，字体看着也很别扭，微信做的跟-MIUI-系统一致，有什么-api-设置吗？](https://www.v2ex.com/t/684282)  
-- [2020-06-23-clion-输入问题求解](https://www.v2ex.com/t/684281)  
-- [2020-06-23-说一个我是怎么应对国内流氓-APP-的。](https://www.v2ex.com/t/684279)  
-- [2020-06-23-想自己动手做个电报导航机器人，-有什么教程可以分享下的吗？-先感谢了。](https://www.v2ex.com/t/684277)  
-- [2020-06-23-想让-3-6-岁宝宝学点类似武术类的东西，各位老铁有什么机构推荐吗？](https://www.v2ex.com/t/684275)  
-- [2020-06-23-MrDoc-0.5.4-发布，开源的-Markdown-在线文档系统，修复重大性能问题](https://www.v2ex.com/t/684274)  
-- [2020-06-23-微信自动发了手机没有的照片给别人](https://www.v2ex.com/t/684273)  
-- [2020-06-23-c#-有什么-Http-服务框架么？控制台就能启动的那种？](https://www.v2ex.com/t/684271)  
-- [2020-06-23-IOS-14-可以监听-app-读取剪贴板内容了，试了一下安装的国产-app，基本全部沦陷](https://www.v2ex.com/t/684270)  
-- [2020-06-23-跪问，关于字体反爬的一个问题。](https://www.v2ex.com/t/684269)  
-- [2020-06-23-今天刚好看到的几篇文章，与新-macOS-的设计有一些相似](https://www.v2ex.com/t/684267)  
-- [2020-06-23-WordPress-编辑器空白无法切换可视化](https://www.v2ex.com/t/684266)  
-- [2020-06-23-2020-新帖-这个版块也太冷了点，迫于本人学的是农业科学，前来试试水，活跃下气氛](https://www.v2ex.com/t/684264)  
-- [2020-06-23-golang-在-mipsle-平台的问题](https://www.v2ex.com/t/684263)  
-- [2020-06-23-watch-os7-续航尿崩啊](https://www.v2ex.com/t/684262)  
-- [2020-06-23-通过-websocket-ssh-登录到-k8s-的-pod，如何禁止一些危险命令？](https://www.v2ex.com/t/684261)  
-- [2020-06-23-摄像头人脸识别+活体检测的-sdk-如何正确使用？](https://www.v2ex.com/t/684259)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

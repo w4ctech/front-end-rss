@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 07:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-特朗普竞选团队再增加2名新冠病毒感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-中国计划生育协会援埃及抗疫物资运抵开罗-包括11万个医用口罩等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1) ![](assets/new.png)  
 - [2020-06-22-世卫组织总干事：昨天新冠肺炎新增病例为迄今以来最高一天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilx3gcXcMNILC6w80t8mJ200622&isfromapp=1)  
 - [2020-06-22-中国疾控中心副主任：新发地暴露人员发病已进入尾声](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1)  
 - [2020-06-22-美国佛罗里达州一医疗系统过去两周新冠肺炎患者增加-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVkMiYgaItbCBJ2PWxakL200622&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1)  
 - [2020-06-22-笔试面试取消-北京特岗计划乡村教师招聘改为线上复审考核](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1)  
 - [2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1)  
-- [2020-06-22-巴西累计新冠肺炎确诊病例超108万-7个州重症监护床位占用率超过80%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1)  
-- [2020-06-22-哥伦比亚累计确认68652例新冠肺炎病例-总统称疫情将持续较长时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1)  
-- [2020-06-22-全球抗疫24小时丨全球新冠肺炎确诊病例超870万-德国肉联厂聚集性感染人数超1300人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -922,11 +922,11 @@
 </summary>
 
 
-- [2020-06-22-原生javascript组件开发之Web-Component实战](https://juejin.im/post/5ef06ba9e51d4573d5598eac) ![](assets/new.png)  
-- [2020-06-22-开源一个React技术栈的高扩展性富文本编辑器](https://juejin.im/post/5ef08e606fb9a058a57b0767) ![](assets/new.png)  
-- [2020-06-22-Vue+Ts搭建项目三：-按需加载Vant-UI和移动端REM的适配方式](https://juejin.im/post/5ef084436fb9a0585e774502) ![](assets/new.png)  
-- [2020-06-22-有了-vite，还需要-webpack-么？](https://juejin.im/post/5ef09164f265da02c94e16dc) ![](assets/new.png)  
-- [2020-06-22-GitHub-JavaScript-趋势榜项目第26周](https://juejin.im/post/5ef0ab7951882565b87c3e3b) ![](assets/new.png)  
+- [2020-06-22-原生javascript组件开发之Web-Component实战](https://juejin.im/post/5ef06ba9e51d4573d5598eac)  
+- [2020-06-22-开源一个React技术栈的高扩展性富文本编辑器](https://juejin.im/post/5ef08e606fb9a058a57b0767)  
+- [2020-06-22-Vue+Ts搭建项目三：-按需加载Vant-UI和移动端REM的适配方式](https://juejin.im/post/5ef084436fb9a0585e774502)  
+- [2020-06-22-有了-vite，还需要-webpack-么？](https://juejin.im/post/5ef09164f265da02c94e16dc)  
+- [2020-06-22-GitHub-JavaScript-趋势榜项目第26周](https://juejin.im/post/5ef0ab7951882565b87c3e3b)  
 - [2020-06-22-js函数与arguments存在的价值有多大？](https://juejin.im/post/5ef077fc518825657e7c2b0d)  
 - [2020-06-22-译文：2020的十大JavaScript图像处理库【渡一教育】](https://juejin.im/post/5ef070ede51d4573cf6ebb6a)  
 - [2020-06-22-ReactNative-JS-层渲染之-diff-算法](https://juejin.im/post/5ef06fd2f265da02eb3195be)  

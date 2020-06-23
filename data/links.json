@@ -5317,6 +5317,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度新增14933例新冠肺炎确诊病例 累计确诊440215例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1",
+        "date": "2020-06-23"
+      },
+      {
         "title": "福建：高考前14天考生每天测体温 进场后考生可自主决定是否戴口罩",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1",
         "date": "2020-06-23"
@@ -13366,6 +13371,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "2.（译）图说前端-ArrayBuffers 和 SharedArrayBuffers",
+        "link": "https://juejin.im/post/5ef197815188256579492acb",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "追随潮流：WebAssembly快速上手",
+        "link": "https://juejin.im/post/5ef0d7106fb9a05857166a3f",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "面试必备！ HTML常见面试题汇总",
+        "link": "https://juejin.im/post/5ef0aa38e51d4573d10b5c57",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "迈向 Grid 二维布局时代",
+        "link": "https://juejin.im/post/5ef088e651882565ac059647",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "理解 JavaScript 的 async/await",
+        "link": "https://juejin.im/post/5ef191f751882565887b5030",
+        "date": "2020-06-23"
+      },
       {
         "title": "原生javascript组件开发之Web Component实战",
         "link": "https://juejin.im/post/5ef06ba9e51d4573d5598eac",

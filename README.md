@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 14:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 14:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,14 +46,14 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-23-印度新增14933例新冠肺炎确诊病例-累计确诊440215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1) ![](assets/new.png)  
 - [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1)  
 - [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1)  
 - [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1)  
 - [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1)  
 - [2020-06-22-天津昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1)  
-- [2020-06-22-​美国加州迪士尼公园即将开业-但遭大批民众反对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAO0czLb2Mar5vO6mYxds200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -922,6 +922,11 @@
 </summary>
 
 
+- [2020-06-23-2.（译）图说前端-ArrayBuffers-和-SharedArrayBuffers](https://juejin.im/post/5ef197815188256579492acb) ![](assets/new.png)  
+- [2020-06-23-追随潮流：WebAssembly快速上手](https://juejin.im/post/5ef0d7106fb9a05857166a3f) ![](assets/new.png)  
+- [2020-06-23-面试必备！-HTML常见面试题汇总](https://juejin.im/post/5ef0aa38e51d4573d10b5c57) ![](assets/new.png)  
+- [2020-06-23-迈向-Grid-二维布局时代](https://juejin.im/post/5ef088e651882565ac059647) ![](assets/new.png)  
+- [2020-06-23-理解-JavaScript-的-async/await](https://juejin.im/post/5ef191f751882565887b5030) ![](assets/new.png)  
 - [2020-06-22-原生javascript组件开发之Web-Component实战](https://juejin.im/post/5ef06ba9e51d4573d5598eac)  
 - [2020-06-22-开源一个React技术栈的高扩展性富文本编辑器](https://juejin.im/post/5ef08e606fb9a058a57b0767)  
 - [2020-06-22-Vue+Ts搭建项目三：-按需加载Vant-UI和移动端REM的适配方式](https://juejin.im/post/5ef084436fb9a0585e774502)  
@@ -937,11 +942,6 @@
 - [2020-06-21-WebGL学习（一）---使用WebGL绘制一个点](https://juejin.im/post/5eef4d16e51d4574035437f0)  
 - [2020-06-21-轻松掌握纯前端js框架---VUE](https://juejin.im/post/5eef4ddb6fb9a058b23d4a92)  
 - [2020-06-21-轻松掌握纯前端js框架---VUE-Ⅱ](https://juejin.im/post/5eef5447f265da02d13c6a88)  
-- [2020-06-21-JSON.stringify还能这么玩](https://juejin.im/post/5eee33d6e51d45742615751a)  
-- [2020-06-21-细说React&&Vue同异](https://juejin.im/post/5eee0c05f265da02dc2d244b)  
-- [2020-06-21-写出具有动效的图标分享链接](https://juejin.im/post/5eede8d4518825659e16d944)  
-- [2020-06-21-vue-cli-配置-single-spa](https://juejin.im/post/5ee1a284e51d4574d067ee3a)  
-- [2020-06-21-Git-Commit-规范流程化](https://juejin.im/post/5eee3f17e51d4573d3068341)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,10 +1109,10 @@
 </summary>
 
 
-- [2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny) ![](assets/new.png)  
-- [2020-06-23-你的-Elasticsearch-难题，官方文档早就有了答案](https://toutiao.io/k/w984lub) ![](assets/new.png)  
-- [2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei) ![](assets/new.png)  
-- [2020-06-23-聊聊职业发展路径](https://toutiao.io/k/0ygarv0) ![](assets/new.png)  
+- [2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny)  
+- [2020-06-23-你的-Elasticsearch-难题，官方文档早就有了答案](https://toutiao.io/k/w984lub)  
+- [2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei)  
+- [2020-06-23-聊聊职业发展路径](https://toutiao.io/k/0ygarv0)  
 - [2020-06-23-另辟蹊径搭建阅读-React-源码调试环境：支持所有-React-版本细分文件断点调试](https://toutiao.io/k/5swjwt0)  
 - [2020-06-23-不容错过的-Chrome-插件推荐合集（设计师必备篇）](https://toutiao.io/k/1adx9ye)  
 - [2020-06-23-广告行业中那些趣事（十三）：NLP-中超实用的样本增强技术](https://toutiao.io/k/82fmmmx)  

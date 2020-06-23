@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -176,6 +176,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-23-不懂就问：软件适配-ARM-是开发者意愿问题还是能力问题？](https://www.v2ex.com/t/683965) 
 - [2020-06-22-LuckyYou,-一个基于前端技术（HTML，-CSS，-JS）开发，用-tauri-打包的跨平台软件，可用在抽奖，课堂点名等...](https://www.v2ex.com/t/683905) 
 - [2020-06-22-一个-console.-log-的问题](https://www.v2ex.com/t/683874) 
 - [2020-06-22-周期性的事件提醒怎么设计](https://www.v2ex.com/t/683664) 

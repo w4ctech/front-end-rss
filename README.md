@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 16:00:21，:rocket: 更新条数: +43， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-23-北京建方舱式核酸检测实验室](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-北京：日核酸检测能力由4万份提升至30万份以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-北京建方舱式核酸检测实验室](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1)  
 - [2020-06-23-印度新增14933例新冠肺炎确诊病例-累计确诊440215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1)  
 - [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1)  
 - [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-22-再次提醒从俄罗斯乘机回国人员切勿伪造核酸检测报告](https://m.weibo.cn/3057540037/4518712193878017)  
 - [2020-06-22-今起土耳其不按规定佩戴口罩者将面临-900-里拉罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7J7WDPR8sRgkpn1HjYE8200622&isfromapp=1)  
 - [2020-06-22-刚果（布）国家公共卫生紧急状态再次延长20天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5nfHZbGRdYfR9Hb88rK5200622&isfromapp=1)  
-- [2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1)  
-- [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1)  
-- [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-06-23-**-坐标深圳-腾讯-PCG-后台开发/IOS/Android-客户端开发三大岗位，我们等你**](https://www.v2ex.com/t/684168) ![](assets/new.png)  
-- [2020-06-23-个人愚见，油管真的不如-B-站](https://www.v2ex.com/t/684167) ![](assets/new.png)  
-- [2020-06-23-不愧是-Bug-Sur](https://www.v2ex.com/t/684166) ![](assets/new.png)  
-- [2020-06-23-油管手机版怎么只有-1080p](https://www.v2ex.com/t/684164) ![](assets/new.png)  
-- [2020-06-23-求助-苹果-macOS-Big-Sur，怎么降级-macOS-Catalina](https://www.v2ex.com/t/684163) ![](assets/new.png)  
-- [2020-06-23-最近在整理桌面，求野生技术党大神帮忙想想解决方案！各种借口和供电问题，头都大了。](https://www.v2ex.com/t/684162) ![](assets/new.png)  
-- [2020-06-23-请问-Java-能完成类似于-wpe-的封包操作嘛？](https://www.v2ex.com/t/684161) ![](assets/new.png)  
-- [2020-06-23-养了只白色的博美，征集名字](https://www.v2ex.com/t/684160) ![](assets/new.png)  
-- [2020-06-23-内推上海得物-移动端架构组-Android、ios、后端、H5-25~50K](https://www.v2ex.com/t/684159) ![](assets/new.png)  
-- [2020-06-23-iOS13-终于可以屏蔽升级了](https://www.v2ex.com/t/684157) ![](assets/new.png)  
-- [2020-06-23-flutter-的一个项目帮忙找帮手](https://www.v2ex.com/t/684155) ![](assets/new.png)  
-- [2020-06-23-QQ-for-PC-的恶霸服务真的就一点办法没有了吗？](https://www.v2ex.com/t/684154) ![](assets/new.png)  
-- [2020-06-23-我今天才发现-MobaXterm-保存下来的日志里面没有中文，这太坑了](https://www.v2ex.com/t/684153) ![](assets/new.png)  
-- [2020-06-23-为什么原生安卓会有-APP-抽屉这种脱裤子放屁的设计？](https://www.v2ex.com/t/684152) ![](assets/new.png)  
-- [2020-06-23-大佬们帮忙看下这几个-offer](https://www.v2ex.com/t/684151) ![](assets/new.png)  
-- [2020-06-23-请问一下-Antd-Pro-中的-Protable-的-request-如何使用-model-的-state-数据呢？](https://www.v2ex.com/t/684149) ![](assets/new.png)  
-- [2020-06-23-对苹果发布-arm-的-mac-的猜测](https://www.v2ex.com/t/684148) ![](assets/new.png)  
-- [2020-06-23-联通-58-享受华数宽带-？](https://www.v2ex.com/t/684147) ![](assets/new.png)  
-- [2020-06-23-新买了个域名，希望大家评价一下-月经贴](https://www.v2ex.com/t/684145) ![](assets/new.png)  
-- [2020-06-23-自己的公司给人挂靠代买社保，如果以后被有心人劳动仲裁怎么办？](https://www.v2ex.com/t/684144) ![](assets/new.png)  
+- [2020-06-23-**-坐标深圳-腾讯-PCG-后台开发/IOS/Android-客户端开发三大岗位，我们等你**](https://www.v2ex.com/t/684168)  
+- [2020-06-23-个人愚见，油管真的不如-B-站](https://www.v2ex.com/t/684167)  
+- [2020-06-23-不愧是-Bug-Sur](https://www.v2ex.com/t/684166)  
+- [2020-06-23-油管手机版怎么只有-1080p](https://www.v2ex.com/t/684164)  
+- [2020-06-23-求助-苹果-macOS-Big-Sur，怎么降级-macOS-Catalina](https://www.v2ex.com/t/684163)  
+- [2020-06-23-最近在整理桌面，求野生技术党大神帮忙想想解决方案！各种借口和供电问题，头都大了。](https://www.v2ex.com/t/684162)  
+- [2020-06-23-请问-Java-能完成类似于-wpe-的封包操作嘛？](https://www.v2ex.com/t/684161)  
+- [2020-06-23-养了只白色的博美，征集名字](https://www.v2ex.com/t/684160)  
+- [2020-06-23-内推上海得物-移动端架构组-Android、ios、后端、H5-25~50K](https://www.v2ex.com/t/684159)  
+- [2020-06-23-iOS13-终于可以屏蔽升级了](https://www.v2ex.com/t/684157)  
+- [2020-06-23-flutter-的一个项目帮忙找帮手](https://www.v2ex.com/t/684155)  
+- [2020-06-23-QQ-for-PC-的恶霸服务真的就一点办法没有了吗？](https://www.v2ex.com/t/684154)  
+- [2020-06-23-我今天才发现-MobaXterm-保存下来的日志里面没有中文，这太坑了](https://www.v2ex.com/t/684153)  
+- [2020-06-23-为什么原生安卓会有-APP-抽屉这种脱裤子放屁的设计？](https://www.v2ex.com/t/684152)  
+- [2020-06-23-大佬们帮忙看下这几个-offer](https://www.v2ex.com/t/684151)  
+- [2020-06-23-请问一下-Antd-Pro-中的-Protable-的-request-如何使用-model-的-state-数据呢？](https://www.v2ex.com/t/684149)  
+- [2020-06-23-对苹果发布-arm-的-mac-的猜测](https://www.v2ex.com/t/684148)  
+- [2020-06-23-联通-58-享受华数宽带-？](https://www.v2ex.com/t/684147)  
+- [2020-06-23-新买了个域名，希望大家评价一下-月经贴](https://www.v2ex.com/t/684145)  
+- [2020-06-23-自己的公司给人挂靠代买社保，如果以后被有心人劳动仲裁怎么办？](https://www.v2ex.com/t/684144)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

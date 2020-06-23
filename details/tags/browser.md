@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -62,6 +62,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-23-用了-Apifox-后真的可以扔掉-Postman、Swagger-和其他-Mock-工具吗？](https://www.v2ex.com/t/684138) 
+- [2020-06-23-在-Chrome/Firefox-的地址栏搜索技术文档](https://www.v2ex.com/t/684121) 
 - [2020-06-23-字节跳动校招社招内推---安全与风控](https://www.v2ex.com/t/683942) 
 - [2020-06-23-iOS-桌面开始抄安卓的-widgets-和启动器界面了](https://www.v2ex.com/t/683918) 
 - [2020-06-22-Syncit:-浏览器内的像素级屏幕分享和远程控制工具](https://www.v2ex.com/t/683890) 

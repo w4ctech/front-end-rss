@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 14:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 16:00:21，:rocket: 更新条数: +43， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,12 +46,12 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-23-印度新增14933例新冠肺炎确诊病例-累计确诊440215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-北京建方舱式核酸检测实验室](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-印度新增14933例新冠肺炎确诊病例-累计确诊440215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1)  
 - [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1)  
 - [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1)  
 - [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-22-北京：全市工地共确诊病例3人，涉及2个工地已封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1)  
 - [2020-06-22-非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1)  
 - [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1)  
-- [2020-06-22-天津昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -922,11 +922,11 @@
 </summary>
 
 
-- [2020-06-23-2.（译）图说前端-ArrayBuffers-和-SharedArrayBuffers](https://juejin.im/post/5ef197815188256579492acb) ![](assets/new.png)  
-- [2020-06-23-追随潮流：WebAssembly快速上手](https://juejin.im/post/5ef0d7106fb9a05857166a3f) ![](assets/new.png)  
-- [2020-06-23-面试必备！-HTML常见面试题汇总](https://juejin.im/post/5ef0aa38e51d4573d10b5c57) ![](assets/new.png)  
-- [2020-06-23-迈向-Grid-二维布局时代](https://juejin.im/post/5ef088e651882565ac059647) ![](assets/new.png)  
-- [2020-06-23-理解-JavaScript-的-async/await](https://juejin.im/post/5ef191f751882565887b5030) ![](assets/new.png)  
+- [2020-06-23-2.（译）图说前端-ArrayBuffers-和-SharedArrayBuffers](https://juejin.im/post/5ef197815188256579492acb)  
+- [2020-06-23-追随潮流：WebAssembly快速上手](https://juejin.im/post/5ef0d7106fb9a05857166a3f)  
+- [2020-06-23-面试必备！-HTML常见面试题汇总](https://juejin.im/post/5ef0aa38e51d4573d10b5c57)  
+- [2020-06-23-迈向-Grid-二维布局时代](https://juejin.im/post/5ef088e651882565ac059647)  
+- [2020-06-23-理解-JavaScript-的-async/await](https://juejin.im/post/5ef191f751882565887b5030)  
 - [2020-06-22-原生javascript组件开发之Web-Component实战](https://juejin.im/post/5ef06ba9e51d4573d5598eac)  
 - [2020-06-22-开源一个React技术栈的高扩展性富文本编辑器](https://juejin.im/post/5ef08e606fb9a058a57b0767)  
 - [2020-06-22-Vue+Ts搭建项目三：-按需加载Vant-UI和移动端REM的适配方式](https://juejin.im/post/5ef084436fb9a0585e774502)  
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-06-23-惊奇的发现，-big-sur-代号是-11-而不是-10，意味着-OS-X...](https://www.v2ex.com/t/683988)  
-- [2020-06-23-WWDC2020-有你喜欢的功能吗？](https://www.v2ex.com/t/683987)  
-- [2020-06-23-求推荐比较好的安卓模拟器-测试了几个游戏模拟器-支付宝-东航之类的都会闪退](https://www.v2ex.com/t/683985)  
-- [2020-06-23-AirPods-无缝切换怎么样？有尝试了的嘛？](https://www.v2ex.com/t/683984)  
-- [2020-06-23-昨天的-WWDC-到底说了什么？一张图带你读懂-WWDC-20](https://www.v2ex.com/t/683983)  
-- [2020-06-23-iOS-14-Public-Beta-版升级-Bug-收集贴](https://www.v2ex.com/t/683982)  
-- [2020-06-23-公司-IOS-上架求助](https://www.v2ex.com/t/683981)  
-- [2020-06-23-线上Elastic{ON}用户大会亚太专场——中国分会场，今天-10-点开始，目前正在报名中](https://www.v2ex.com/t/683980)  
-- [2020-06-23-redis-server-显示已经启动，为何查询不到-pid](https://www.v2ex.com/t/683978)  
-- [2020-06-23-你们还记得-Apple-Watch-微信的「发送小信号」吗](https://www.v2ex.com/t/683975)  
-- [2020-06-23-ElasticsearchRepository-方法命名查询条数限制](https://www.v2ex.com/t/683974)  
-- [2020-06-23-airpods-无缝切换这个-是要把所有设备全部升级到昨晚发的版本么？](https://www.v2ex.com/t/683973)  
-- [2020-06-23-最近一部剧，你们看了吗？](https://www.v2ex.com/t/683972)  
-- [2020-06-23-为什么漫天漫地总有人想让逼站成为-y2b？](https://www.v2ex.com/t/683968)  
-- [2020-06-23-MacOS-Big-Sur-Beta-升级记录贴](https://www.v2ex.com/t/683967)  
-- [2020-06-23-Mac-mini-Late-2012-不能升級新-OS-了](https://www.v2ex.com/t/683966)  
-- [2020-06-23-不懂就问：软件适配-ARM-是开发者意愿问题还是能力问题？](https://www.v2ex.com/t/683965)  
-- [2020-06-23-有人用上了-MacOS-Big-Sur-了么](https://www.v2ex.com/t/683964)  
-- [2020-06-23-iPadOS-14-手写输入非常好用](https://www.v2ex.com/t/683963)  
-- [2020-06-23-Mac-切换到-ARM-会不会有助于-ARM-Server-的流行？](https://www.v2ex.com/t/683962)  
+- [2020-06-23-**-坐标深圳-腾讯-PCG-后台开发/IOS/Android-客户端开发三大岗位，我们等你**](https://www.v2ex.com/t/684168) ![](assets/new.png)  
+- [2020-06-23-个人愚见，油管真的不如-B-站](https://www.v2ex.com/t/684167) ![](assets/new.png)  
+- [2020-06-23-不愧是-Bug-Sur](https://www.v2ex.com/t/684166) ![](assets/new.png)  
+- [2020-06-23-油管手机版怎么只有-1080p](https://www.v2ex.com/t/684164) ![](assets/new.png)  
+- [2020-06-23-求助-苹果-macOS-Big-Sur，怎么降级-macOS-Catalina](https://www.v2ex.com/t/684163) ![](assets/new.png)  
+- [2020-06-23-最近在整理桌面，求野生技术党大神帮忙想想解决方案！各种借口和供电问题，头都大了。](https://www.v2ex.com/t/684162) ![](assets/new.png)  
+- [2020-06-23-请问-Java-能完成类似于-wpe-的封包操作嘛？](https://www.v2ex.com/t/684161) ![](assets/new.png)  
+- [2020-06-23-养了只白色的博美，征集名字](https://www.v2ex.com/t/684160) ![](assets/new.png)  
+- [2020-06-23-内推上海得物-移动端架构组-Android、ios、后端、H5-25~50K](https://www.v2ex.com/t/684159) ![](assets/new.png)  
+- [2020-06-23-iOS13-终于可以屏蔽升级了](https://www.v2ex.com/t/684157) ![](assets/new.png)  
+- [2020-06-23-flutter-的一个项目帮忙找帮手](https://www.v2ex.com/t/684155) ![](assets/new.png)  
+- [2020-06-23-QQ-for-PC-的恶霸服务真的就一点办法没有了吗？](https://www.v2ex.com/t/684154) ![](assets/new.png)  
+- [2020-06-23-我今天才发现-MobaXterm-保存下来的日志里面没有中文，这太坑了](https://www.v2ex.com/t/684153) ![](assets/new.png)  
+- [2020-06-23-为什么原生安卓会有-APP-抽屉这种脱裤子放屁的设计？](https://www.v2ex.com/t/684152) ![](assets/new.png)  
+- [2020-06-23-大佬们帮忙看下这几个-offer](https://www.v2ex.com/t/684151) ![](assets/new.png)  
+- [2020-06-23-请问一下-Antd-Pro-中的-Protable-的-request-如何使用-model-的-state-数据呢？](https://www.v2ex.com/t/684149) ![](assets/new.png)  
+- [2020-06-23-对苹果发布-arm-的-mac-的猜测](https://www.v2ex.com/t/684148) ![](assets/new.png)  
+- [2020-06-23-联通-58-享受华数宽带-？](https://www.v2ex.com/t/684147) ![](assets/new.png)  
+- [2020-06-23-新买了个域名，希望大家评价一下-月经贴](https://www.v2ex.com/t/684145) ![](assets/new.png)  
+- [2020-06-23-自己的公司给人挂靠代买社保，如果以后被有心人劳动仲裁怎么办？](https://www.v2ex.com/t/684144) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

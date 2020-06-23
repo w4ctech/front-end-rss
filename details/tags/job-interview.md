@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -69,6 +69,7 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-06-23-准备面试一半花多久，后端，目标外企（google、MS）求经验](https://www.v2ex.com/t/684137) 
 - [2020-06-22-第四期德国-IT-岗位招聘之-Software-developer,-Programmer,-Junior-SAP-developer](https://www.v2ex.com/t/683889) 
 - [2020-06-22-大家面试过后会主动联系对方面试结果吗？](https://www.v2ex.com/t/683863) 
 - [2020-06-22-产品-远程-英国-招聘全职产品经理，全远程工作](https://www.v2ex.com/t/683852) 

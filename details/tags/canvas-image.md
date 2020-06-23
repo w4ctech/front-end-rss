@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -29,6 +29,7 @@
 - [2020-06-21-WebGL学习（一）---使用WebGL绘制一个点](https://juejin.im/post/5eef4d16e51d4574035437f0) 
 - [2020-06-12-一起来玩玩WebGL--第一弹](https://juejin.im/post/5ee34a9551882522a8220ab4) 
 - [2020-05-30-WebGL-光照](https://juejin.im/post/5ed0fad051882542e722f2b4) 
+- [2020-06-23-Safari-开始支持-WebP-了……](https://www.v2ex.com/t/684130) 
 - [2020-06-19-谷歌地图的-3D-模型是如何生成的？为什么中国的-3D-看起来根本没变。似乎是没计算过？还是缺少数据？](https://www.v2ex.com/t/683121) 
 - [2020-06-15-用-Go+Lazarus-写了个-GUI-的农历择吉](https://www.v2ex.com/t/681648) 
 - [2020-06-01-各位大佬-Chevereto-上传-webp-图片失败怎么解决](https://www.v2ex.com/t/677634) 

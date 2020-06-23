@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1) 
+- [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1) 
 - [2020-06-23-江苏22日新增1例境外输入确诊病例-新增1例省外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1) 
 - [2020-06-23-特朗普竞选团队再增加2名新冠病毒感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1) 
 - [2020-06-23-中国计划生育协会援埃及抗疫物资运抵开罗-包括11万个医用口罩等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1) 

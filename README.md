@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 11:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 12:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1) ![](assets/new.png)  
 - [2020-06-23-江苏22日新增1例境外输入确诊病例-新增1例省外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1)  
 - [2020-06-23-国家卫健委：22日新增22例新冠肺炎确诊病例-境外输入病例9例-本土病例13例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1)  
 - [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-22-俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1)  
 - [2020-06-22-天津昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1)  
 - [2020-06-22-​美国加州迪士尼公园即将开业-但遭大批民众反对](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAO0czLb2Mar5vO6mYxds200622&isfromapp=1)  
-- [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1)  
-- [2020-06-22-智利新冠肺炎确诊病例超24万例-政府将扩大防疫隔离范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXJRWDjNFhGE6KNDN3IU200622&isfromapp=1)  
-- [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1078,8 +1078,8 @@
 </summary>
 
 
-- [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13545&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp66hEJBotpRyqfC_sM1dcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-22-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13544&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPvOsteCJeEwElQ0oF4bMw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-22-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13543&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkbzSKoWB0bBFxcANYPD67w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 10:00:21，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 10:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-06-23-惊奇的发现，-big-sur-代号是-11-而不是-10，意味着-OS-X...](https://www.v2ex.com/t/683988) ![](assets/new.png)  
-- [2020-06-23-WWDC2020-有你喜欢的功能吗？](https://www.v2ex.com/t/683987) ![](assets/new.png)  
-- [2020-06-23-求推荐比较好的安卓模拟器-测试了几个游戏模拟器-支付宝-东航之类的都会闪退](https://www.v2ex.com/t/683985) ![](assets/new.png)  
-- [2020-06-23-AirPods-无缝切换怎么样？有尝试了的嘛？](https://www.v2ex.com/t/683984) ![](assets/new.png)  
-- [2020-06-23-昨天的-WWDC-到底说了什么？一张图带你读懂-WWDC-20](https://www.v2ex.com/t/683983) ![](assets/new.png)  
-- [2020-06-23-iOS-14-Public-Beta-版升级-Bug-收集贴](https://www.v2ex.com/t/683982) ![](assets/new.png)  
-- [2020-06-23-公司-IOS-上架求助](https://www.v2ex.com/t/683981) ![](assets/new.png)  
-- [2020-06-23-线上Elastic{ON}用户大会亚太专场——中国分会场，今天-10-点开始，目前正在报名中](https://www.v2ex.com/t/683980) ![](assets/new.png)  
-- [2020-06-23-redis-server-显示已经启动，为何查询不到-pid](https://www.v2ex.com/t/683978) ![](assets/new.png)  
-- [2020-06-23-你们还记得-Apple-Watch-微信的「发送小信号」吗](https://www.v2ex.com/t/683975) ![](assets/new.png)  
-- [2020-06-23-ElasticsearchRepository-方法命名查询条数限制](https://www.v2ex.com/t/683974) ![](assets/new.png)  
-- [2020-06-23-airpods-无缝切换这个-是要把所有设备全部升级到昨晚发的版本么？](https://www.v2ex.com/t/683973) ![](assets/new.png)  
-- [2020-06-23-最近一部剧，你们看了吗？](https://www.v2ex.com/t/683972) ![](assets/new.png)  
-- [2020-06-23-为什么漫天漫地总有人想让逼站成为-y2b？](https://www.v2ex.com/t/683968) ![](assets/new.png)  
-- [2020-06-23-MacOS-Big-Sur-Beta-升级记录贴](https://www.v2ex.com/t/683967) ![](assets/new.png)  
-- [2020-06-23-Mac-mini-Late-2012-不能升級新-OS-了](https://www.v2ex.com/t/683966) ![](assets/new.png)  
-- [2020-06-23-不懂就问：软件适配-ARM-是开发者意愿问题还是能力问题？](https://www.v2ex.com/t/683965) ![](assets/new.png)  
-- [2020-06-23-有人用上了-MacOS-Big-Sur-了么](https://www.v2ex.com/t/683964) ![](assets/new.png)  
-- [2020-06-23-iPadOS-14-手写输入非常好用](https://www.v2ex.com/t/683963) ![](assets/new.png)  
-- [2020-06-23-Mac-切换到-ARM-会不会有助于-ARM-Server-的流行？](https://www.v2ex.com/t/683962) ![](assets/new.png)  
+- [2020-06-23-惊奇的发现，-big-sur-代号是-11-而不是-10，意味着-OS-X...](https://www.v2ex.com/t/683988)  
+- [2020-06-23-WWDC2020-有你喜欢的功能吗？](https://www.v2ex.com/t/683987)  
+- [2020-06-23-求推荐比较好的安卓模拟器-测试了几个游戏模拟器-支付宝-东航之类的都会闪退](https://www.v2ex.com/t/683985)  
+- [2020-06-23-AirPods-无缝切换怎么样？有尝试了的嘛？](https://www.v2ex.com/t/683984)  
+- [2020-06-23-昨天的-WWDC-到底说了什么？一张图带你读懂-WWDC-20](https://www.v2ex.com/t/683983)  
+- [2020-06-23-iOS-14-Public-Beta-版升级-Bug-收集贴](https://www.v2ex.com/t/683982)  
+- [2020-06-23-公司-IOS-上架求助](https://www.v2ex.com/t/683981)  
+- [2020-06-23-线上Elastic{ON}用户大会亚太专场——中国分会场，今天-10-点开始，目前正在报名中](https://www.v2ex.com/t/683980)  
+- [2020-06-23-redis-server-显示已经启动，为何查询不到-pid](https://www.v2ex.com/t/683978)  
+- [2020-06-23-你们还记得-Apple-Watch-微信的「发送小信号」吗](https://www.v2ex.com/t/683975)  
+- [2020-06-23-ElasticsearchRepository-方法命名查询条数限制](https://www.v2ex.com/t/683974)  
+- [2020-06-23-airpods-无缝切换这个-是要把所有设备全部升级到昨晚发的版本么？](https://www.v2ex.com/t/683973)  
+- [2020-06-23-最近一部剧，你们看了吗？](https://www.v2ex.com/t/683972)  
+- [2020-06-23-为什么漫天漫地总有人想让逼站成为-y2b？](https://www.v2ex.com/t/683968)  
+- [2020-06-23-MacOS-Big-Sur-Beta-升级记录贴](https://www.v2ex.com/t/683967)  
+- [2020-06-23-Mac-mini-Late-2012-不能升級新-OS-了](https://www.v2ex.com/t/683966)  
+- [2020-06-23-不懂就问：软件适配-ARM-是开发者意愿问题还是能力问题？](https://www.v2ex.com/t/683965)  
+- [2020-06-23-有人用上了-MacOS-Big-Sur-了么](https://www.v2ex.com/t/683964)  
+- [2020-06-23-iPadOS-14-手写输入非常好用](https://www.v2ex.com/t/683963)  
+- [2020-06-23-Mac-切换到-ARM-会不会有助于-ARM-Server-的流行？](https://www.v2ex.com/t/683962)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,6 +1109,11 @@
 </summary>
 
 
+- [2020-06-23-另辟蹊径搭建阅读-React-源码调试环境：支持所有-React-版本细分文件断点调试](https://toutiao.io/k/5swjwt0) ![](assets/new.png)  
+- [2020-06-23-不容错过的-Chrome-插件推荐合集（设计师必备篇）](https://toutiao.io/k/1adx9ye) ![](assets/new.png)  
+- [2020-06-23-广告行业中那些趣事（十三）：NLP-中超实用的样本增强技术](https://toutiao.io/k/82fmmmx) ![](assets/new.png)  
+- [2020-06-23-Fragment-的过去、现在和将来](https://toutiao.io/k/tpky8mr) ![](assets/new.png)  
+- [2020-06-23-如何查看-heapdump-中的-byte/char-数组](https://toutiao.io/k/op78k4m) ![](assets/new.png)  
 - [2020-06-23-面试官：十问泛型，你能扛住吗？](https://toutiao.io/k/070ht1d)  
 - [2020-06-23-深入剖析-Redis-高可用系列：持久化-AOF-和-RDB](https://toutiao.io/k/kmfcf9h)  
 - [2020-06-23-存量阅读-+-增量阅读，助你在学术研究的海洋上乘风破浪](https://toutiao.io/k/gp3xlh8)  
@@ -1124,11 +1129,6 @@
 - [2020-06-23-Golang-定时器底层实现深度剖析](https://toutiao.io/k/0b03mi0)  
 - [2020-06-23-HTML-转-PDF-工具-Wkhtmltopdf-安装使用](https://toutiao.io/k/9mx0tkl)  
 - [2020-06-23-基于人工智能技术的数字内容生成-AI-Synthetic-Media](https://toutiao.io/k/g0389me)  
-- [2020-06-22-2000-万，一个创业团队的始末](https://toutiao.io/k/3ejyqih)  
-- [2020-06-22-甲方安全开源项目清单](https://toutiao.io/k/qhy2d9f)  
-- [2020-06-22-七张图了解-Kubernetes-内部的架构](https://toutiao.io/k/glypgod)  
-- [2020-06-22-用-Python-分析一下那些-“吸粉”-无数的高票房电影](https://toutiao.io/k/mmz0bd0)  
-- [2020-06-22-深入理解-Vue3-Reactivity-API](https://toutiao.io/k/bavtahc)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

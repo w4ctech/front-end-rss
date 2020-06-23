@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 22:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 23:00:20，:rocket: 更新条数: +36， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -587,7 +587,7 @@
 </summary>
 
 
-- [2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2) ![](assets/new.png)  
+- [2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2)  
 - [2020-06-22-一文助你搞懂-AST](https://www.ershicimi.com/p/b60702c7f4febac074f64e0a98e9baf8)  
 - [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1)  
 - [2020-06-20-前端开发日常的协作工具](https://www.ershicimi.com/p/42decc169252c2fafc53eba4b867507e)  
@@ -1047,26 +1047,26 @@
 </summary>
 
 
-- [2020-06-23-**-坐标深圳-腾讯-PCG-后台开发/IOS/Android-客户端开发三大岗位，我们等你**](https://www.v2ex.com/t/684168)  
-- [2020-06-23-个人愚见，油管真的不如-B-站](https://www.v2ex.com/t/684167)  
-- [2020-06-23-不愧是-Bug-Sur](https://www.v2ex.com/t/684166)  
-- [2020-06-23-油管手机版怎么只有-1080p](https://www.v2ex.com/t/684164)  
-- [2020-06-23-求助-苹果-macOS-Big-Sur，怎么降级-macOS-Catalina](https://www.v2ex.com/t/684163)  
-- [2020-06-23-最近在整理桌面，求野生技术党大神帮忙想想解决方案！各种借口和供电问题，头都大了。](https://www.v2ex.com/t/684162)  
-- [2020-06-23-请问-Java-能完成类似于-wpe-的封包操作嘛？](https://www.v2ex.com/t/684161)  
-- [2020-06-23-养了只白色的博美，征集名字](https://www.v2ex.com/t/684160)  
-- [2020-06-23-内推上海得物-移动端架构组-Android、ios、后端、H5-25~50K](https://www.v2ex.com/t/684159)  
-- [2020-06-23-iOS13-终于可以屏蔽升级了](https://www.v2ex.com/t/684157)  
-- [2020-06-23-flutter-的一个项目帮忙找帮手](https://www.v2ex.com/t/684155)  
-- [2020-06-23-QQ-for-PC-的恶霸服务真的就一点办法没有了吗？](https://www.v2ex.com/t/684154)  
-- [2020-06-23-我今天才发现-MobaXterm-保存下来的日志里面没有中文，这太坑了](https://www.v2ex.com/t/684153)  
-- [2020-06-23-为什么原生安卓会有-APP-抽屉这种脱裤子放屁的设计？](https://www.v2ex.com/t/684152)  
-- [2020-06-23-大佬们帮忙看下这几个-offer](https://www.v2ex.com/t/684151)  
-- [2020-06-23-请问一下-Antd-Pro-中的-Protable-的-request-如何使用-model-的-state-数据呢？](https://www.v2ex.com/t/684149)  
-- [2020-06-23-对苹果发布-arm-的-mac-的猜测](https://www.v2ex.com/t/684148)  
-- [2020-06-23-联通-58-享受华数宽带-？](https://www.v2ex.com/t/684147)  
-- [2020-06-23-新买了个域名，希望大家评价一下-月经贴](https://www.v2ex.com/t/684145)  
-- [2020-06-23-自己的公司给人挂靠代买社保，如果以后被有心人劳动仲裁怎么办？](https://www.v2ex.com/t/684144)  
+- [2020-06-23-npm-下载依赖的时候用到-github-的资源下载不了怎么办？](https://www.v2ex.com/t/684285) ![](assets/new.png)  
+- [2020-06-23-请教各位大佬，有人在咸鱼上买过雷击木或者紫薇讳牌吗？是真的吗？看着跟淘宝店相差很远。](https://www.v2ex.com/t/684284) ![](assets/new.png)  
+- [2020-06-23-来吐槽-iOS-14-&-新功能安利](https://www.v2ex.com/t/684283) ![](assets/new.png)  
+- [2020-06-23-MIUI-11-下的-app-没有跟随系统字体的粗细变化，字体看着也很别扭，微信做的跟-MIUI-系统一致，有什么-api-设置吗？](https://www.v2ex.com/t/684282) ![](assets/new.png)  
+- [2020-06-23-clion-输入问题求解](https://www.v2ex.com/t/684281) ![](assets/new.png)  
+- [2020-06-23-说一个我是怎么应对国内流氓-APP-的。](https://www.v2ex.com/t/684279) ![](assets/new.png)  
+- [2020-06-23-想自己动手做个电报导航机器人，-有什么教程可以分享下的吗？-先感谢了。](https://www.v2ex.com/t/684277) ![](assets/new.png)  
+- [2020-06-23-想让-3-6-岁宝宝学点类似武术类的东西，各位老铁有什么机构推荐吗？](https://www.v2ex.com/t/684275) ![](assets/new.png)  
+- [2020-06-23-MrDoc-0.5.4-发布，开源的-Markdown-在线文档系统，修复重大性能问题](https://www.v2ex.com/t/684274) ![](assets/new.png)  
+- [2020-06-23-微信自动发了手机没有的照片给别人](https://www.v2ex.com/t/684273) ![](assets/new.png)  
+- [2020-06-23-c#-有什么-Http-服务框架么？控制台就能启动的那种？](https://www.v2ex.com/t/684271) ![](assets/new.png)  
+- [2020-06-23-IOS-14-可以监听-app-读取剪贴板内容了，试了一下安装的国产-app，基本全部沦陷](https://www.v2ex.com/t/684270) ![](assets/new.png)  
+- [2020-06-23-跪问，关于字体反爬的一个问题。](https://www.v2ex.com/t/684269) ![](assets/new.png)  
+- [2020-06-23-今天刚好看到的几篇文章，与新-macOS-的设计有一些相似](https://www.v2ex.com/t/684267) ![](assets/new.png)  
+- [2020-06-23-WordPress-编辑器空白无法切换可视化](https://www.v2ex.com/t/684266) ![](assets/new.png)  
+- [2020-06-23-2020-新帖-这个版块也太冷了点，迫于本人学的是农业科学，前来试试水，活跃下气氛](https://www.v2ex.com/t/684264) ![](assets/new.png)  
+- [2020-06-23-golang-在-mipsle-平台的问题](https://www.v2ex.com/t/684263) ![](assets/new.png)  
+- [2020-06-23-watch-os7-续航尿崩啊](https://www.v2ex.com/t/684262) ![](assets/new.png)  
+- [2020-06-23-通过-websocket-ssh-登录到-k8s-的-pod，如何禁止一些危险命令？](https://www.v2ex.com/t/684261) ![](assets/new.png)  
+- [2020-06-23-摄像头人脸识别+活体检测的-sdk-如何正确使用？](https://www.v2ex.com/t/684259) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -30,6 +30,7 @@
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-06-07-以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438) 
 - [2020-06-07-ThreeJS-——-机房Demo（二）](https://juejin.im/post/5edbab70f265da76f9171d62) 
+- [2020-06-23-国际服游戏防沉迷的疑问，它们是如何保护未成年人的。](https://www.v2ex.com/t/684238) 
 - [2020-06-23-求推荐比较好的安卓模拟器-测试了几个游戏模拟器-支付宝-东航之类的都会闪退](https://www.v2ex.com/t/683985) 
 - [2020-06-23-苹果将在中国区-App-Store-下架多款未获-xx-审批的游戏](https://www.v2ex.com/t/683914) 
 - [2020-06-22-steam-上的这个国产游戏的操作实在是难以形容](https://www.v2ex.com/t/683873) 

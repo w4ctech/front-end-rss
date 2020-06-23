@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 01:30:21，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 07:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-世卫组织：全球新增新冠肺炎确诊病例133326例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtfNQlOXhOVSGhiwOJUN200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1) ![](assets/new.png)  
 - [2020-06-23-世卫组织：全球新冠肺炎确诊病例累计超899万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1)  
 - [2020-06-23-利比里亚国家紧急状态再延期30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1)  
 - [2020-06-23-世卫组织：全球新冠肺炎确诊病例超过897万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqjdGzOuFYJ2Ugt5QKb5200623&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-23-国家卫健委：22日新增22例新冠肺炎确诊病例-境外输入病例9例-本土病例13例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1)  
 - [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1)  
 - [2020-06-23-特朗普竞选团队再增加2名新冠病毒感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1)  
-- [2020-06-23-中国计划生育协会援埃及抗疫物资运抵开罗-包括11万个医用口罩等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1)  
-- [2020-06-22-世卫组织总干事：昨天新冠肺炎新增病例为迄今以来最高一天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilx3gcXcMNILC6w80t8mJ200622&isfromapp=1)  
-- [2020-06-22-中国疾控中心副主任：新发地暴露人员发病已进入尾声](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,22 +1047,22 @@
 </summary>
 
 
-- [2020-06-24-GitHub-改版了](https://www.v2ex.com/t/684302) ![](assets/new.png)  
-- [2020-06-24-请问各位，有没有比较好的可以刷任意网站访客量的程序？](https://www.v2ex.com/t/684301) ![](assets/new.png)  
-- [2020-06-24-20200624-午夜俱乐部](https://www.v2ex.com/t/684300) ![](assets/new.png)  
-- [2020-06-24-软路由换不同网卡开启-bbr-后表现竟然不一样，点解？](https://www.v2ex.com/t/684299) ![](assets/new.png)  
-- [2020-06-24-gin-官方文档的示例代码，变量命名为何要使用单个单词，看起来很不顺眼，是不是不符合代码规范。如`r-:=-gi...](https://www.v2ex.com/t/684298) ![](assets/new.png)  
-- [2020-06-24-转租功德林小区带阳台主卧-2975-元每月-房东直租](https://www.v2ex.com/t/684297) ![](assets/new.png)  
-- [2020-06-24-iOS14-关于-App-资源库如何自定义请教](https://www.v2ex.com/t/684296) ![](assets/new.png)  
-- [2020-06-23-求助-iOS13-安装不了大于-15MB-的描述文件吗？](https://www.v2ex.com/t/684295) ![](assets/new.png)  
-- [2020-06-23-小米正在众筹的-27-寸-2k-165HZ-显示器怎么样？有没有懂行的老哥？](https://www.v2ex.com/t/684294) ![](assets/new.png)  
-- [2020-06-23-PS4-和-Steam-上的-Ace-Combat-7，你会选哪一个？](https://www.v2ex.com/t/684293) ![](assets/new.png)  
-- [2020-06-23-买了绿联-4-口集线器，不能-ADB-调试手机啊](https://www.v2ex.com/t/684292) ![](assets/new.png)  
-- [2020-06-23-采集的内容里有以下内容，怎么把这些用正规则替换为空或去掉？](https://www.v2ex.com/t/684291) ![](assets/new.png)  
-- [2020-06-23-百元散热器利民-ax120-和-as120-慎入。](https://www.v2ex.com/t/684290) ![](assets/new.png)  
-- [2020-06-23-为何我的微信不能登录网页版微信，提示如下图所示？](https://www.v2ex.com/t/684289) ![](assets/new.png)  
-- [2020-06-23-springcloud-dubbo-现在哪个用的比较多些？](https://www.v2ex.com/t/684288) ![](assets/new.png)  
-- [2020-06-23-北京健康宝的本人健康码状态查询是无内容的？这是什么鬼？](https://www.v2ex.com/t/684287) ![](assets/new.png)  
+- [2020-06-24-GitHub-改版了](https://www.v2ex.com/t/684302)  
+- [2020-06-24-请问各位，有没有比较好的可以刷任意网站访客量的程序？](https://www.v2ex.com/t/684301)  
+- [2020-06-24-20200624-午夜俱乐部](https://www.v2ex.com/t/684300)  
+- [2020-06-24-软路由换不同网卡开启-bbr-后表现竟然不一样，点解？](https://www.v2ex.com/t/684299)  
+- [2020-06-24-gin-官方文档的示例代码，变量命名为何要使用单个单词，看起来很不顺眼，是不是不符合代码规范。如`r-:=-gi...](https://www.v2ex.com/t/684298)  
+- [2020-06-24-转租功德林小区带阳台主卧-2975-元每月-房东直租](https://www.v2ex.com/t/684297)  
+- [2020-06-24-iOS14-关于-App-资源库如何自定义请教](https://www.v2ex.com/t/684296)  
+- [2020-06-23-求助-iOS13-安装不了大于-15MB-的描述文件吗？](https://www.v2ex.com/t/684295)  
+- [2020-06-23-小米正在众筹的-27-寸-2k-165HZ-显示器怎么样？有没有懂行的老哥？](https://www.v2ex.com/t/684294)  
+- [2020-06-23-PS4-和-Steam-上的-Ace-Combat-7，你会选哪一个？](https://www.v2ex.com/t/684293)  
+- [2020-06-23-买了绿联-4-口集线器，不能-ADB-调试手机啊](https://www.v2ex.com/t/684292)  
+- [2020-06-23-采集的内容里有以下内容，怎么把这些用正规则替换为空或去掉？](https://www.v2ex.com/t/684291)  
+- [2020-06-23-百元散热器利民-ax120-和-as120-慎入。](https://www.v2ex.com/t/684290)  
+- [2020-06-23-为何我的微信不能登录网页版微信，提示如下图所示？](https://www.v2ex.com/t/684289)  
+- [2020-06-23-springcloud-dubbo-现在哪个用的比较多些？](https://www.v2ex.com/t/684288)  
+- [2020-06-23-北京健康宝的本人健康码状态查询是无内容的？这是什么鬼？](https://www.v2ex.com/t/684287)  
 - [2020-06-23-npm-下载依赖的时候用到-github-的资源下载不了怎么办？](https://www.v2ex.com/t/684285)  
 - [2020-06-23-请教各位大佬，有人在咸鱼上买过雷击木或者紫薇讳牌吗？是真的吗？看着跟淘宝店相差很远。](https://www.v2ex.com/t/684284)  
 - [2020-06-23-来吐槽-iOS-14-&-新功能安利](https://www.v2ex.com/t/684283)  

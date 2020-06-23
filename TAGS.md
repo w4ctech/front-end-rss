@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-23 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 20:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -586,6 +586,7 @@
 - [【互联网架构师】如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f)
 - [【InfoQ】NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)
 - [【InfoQ】用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)
+- [【掘金前端】Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5)
 - [【V2EX】发现-Pinterest-上的广告很有创意](https://www.v2ex.com/t/683798)
 - [【V2EX】求问一下-nginx-里面-proxy_buffers-的设置问题](https://www.v2ex.com/t/683796)
 - [【V2EX】大佬们,尝试用-exprss-+-mongoose-写了个-restful-望各路大神指导](https://www.v2ex.com/t/683670)
@@ -598,7 +599,6 @@
 - [【V2EX】nginx-求助，反向代理-error.log-里不报错，但结果一直是-400](https://www.v2ex.com/t/681996)
 - [【V2EX】用-docker-隔离不同用户](https://www.v2ex.com/t/681633)
 - [【V2EX】windows-下-docker-怎么让容器内网络和其他主机的网络连通](https://www.v2ex.com/t/679046)
-- [【V2EX】docker-问题求救](https://www.v2ex.com/t/678639)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

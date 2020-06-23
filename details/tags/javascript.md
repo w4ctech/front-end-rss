@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 18:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -102,6 +102,8 @@
 - [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 
 - [2020-06-04-Fastjson-被曝出“高危”远程代码执行漏洞](https://www.ershicimi.com/p/cce476450226c468e559f9a08bf9e2fa) 
+- [2020-06-23-理解-|-如何判断THIS（一、二）](https://juejin.im/post/5ef19311518825657d460c63) 
+- [2020-06-23-理解-|-数组的常用方法](https://juejin.im/post/5ef19572e51d45741017dc50) 
 - [2020-06-23-2.（译）图说前端-ArrayBuffers-和-SharedArrayBuffers](https://juejin.im/post/5ef197815188256579492acb) 
 - [2020-06-23-理解-JavaScript-的-async/await](https://juejin.im/post/5ef191f751882565887b5030) 
 - [2020-06-22-原生javascript组件开发之Web-Component实战](https://juejin.im/post/5ef06ba9e51d4573d5598eac) 

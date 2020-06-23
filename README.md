@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 18:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 20:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1)  
 - [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1)  
 - [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1)  
 - [2020-06-23-北京：日核酸检测能力由4万份提升至30万份以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1)  
@@ -922,6 +922,11 @@
 </summary>
 
 
+- [2020-06-23-Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5) ![](assets/new.png)  
+- [2020-06-23-http常用状态码](https://juejin.im/post/5ef177546fb9a0589007111a) ![](assets/new.png)  
+- [2020-06-23-理解-|-如何判断THIS（一、二）](https://juejin.im/post/5ef19311518825657d460c63) ![](assets/new.png)  
+- [2020-06-23-理解-|-数组的常用方法](https://juejin.im/post/5ef19572e51d45741017dc50) ![](assets/new.png)  
+- [2020-06-23-vue小白日记之layout布局组件](https://juejin.im/post/5ef166def265da02ab172aac) ![](assets/new.png)  
 - [2020-06-23-2.（译）图说前端-ArrayBuffers-和-SharedArrayBuffers](https://juejin.im/post/5ef197815188256579492acb)  
 - [2020-06-23-追随潮流：WebAssembly快速上手](https://juejin.im/post/5ef0d7106fb9a05857166a3f)  
 - [2020-06-23-面试必备！-HTML常见面试题汇总](https://juejin.im/post/5ef0aa38e51d4573d10b5c57)  
@@ -937,11 +942,6 @@
 - [2020-06-22-ReactNative-JS-层渲染之-diff-算法](https://juejin.im/post/5ef06fd2f265da02eb3195be)  
 - [2020-06-22-封装属于自己的组件库](https://juejin.im/post/5ef00a4a51882565b32a95b7)  
 - [2020-06-22-webpack构建过程的进度条实现原理](https://juejin.im/post/5ef07a196fb9a0585b0d3eed)  
-- [2020-06-21-图扑推出可视化智慧仓储管理系统，能否解决购物狂欢节后新一轮爆仓危机？](https://juejin.im/post/5eef0df16fb9a0589723c0dc)  
-- [2020-06-21-令人拍案叫绝的四种设计模式！](https://juejin.im/post/5eef64ff518825659e16da76)  
-- [2020-06-21-WebGL学习（一）---使用WebGL绘制一个点](https://juejin.im/post/5eef4d16e51d4574035437f0)  
-- [2020-06-21-轻松掌握纯前端js框架---VUE](https://juejin.im/post/5eef4ddb6fb9a058b23d4a92)  
-- [2020-06-21-轻松掌握纯前端js框架---VUE-Ⅱ](https://juejin.im/post/5eef5447f265da02d13c6a88)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

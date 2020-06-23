@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 08:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 09:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-特朗普竞选团队再增加2名新冠病毒感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-中国计划生育协会援埃及抗疫物资运抵开罗-包括11万个医用口罩等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-江苏22日新增1例境外输入确诊病例-新增1例省外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-国家卫健委：22日新增22例新冠肺炎确诊病例-境外输入病例9例-本土病例13例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1)  
+- [2020-06-23-特朗普竞选团队再增加2名新冠病毒感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1)  
+- [2020-06-23-中国计划生育协会援埃及抗疫物资运抵开罗-包括11万个医用口罩等](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1)  
 - [2020-06-22-世卫组织总干事：昨天新冠肺炎新增病例为迄今以来最高一天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilx3gcXcMNILC6w80t8mJ200622&isfromapp=1)  
 - [2020-06-22-中国疾控中心副主任：新发地暴露人员发病已进入尾声](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1)  
 - [2020-06-22-美国佛罗里达州一医疗系统过去两周新冠肺炎患者增加-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVkMiYgaItbCBJ2PWxakL200622&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-22-中国银行澳门分行已批出逾3800笔抗疫贷款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuNE72vCckjJso4JkHtm3200622&isfromapp=1)  
 - [2020-06-22-智利新冠肺炎确诊病例超24万例-政府将扩大防疫隔离范围](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLXJRWDjNFhGE6KNDN3IU200622&isfromapp=1)  
 - [2020-06-22-北京协和医院新冠核酸采样门诊70小时建成](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ2crd6uFs6sDzV9iConb200622&isfromapp=1)  
-- [2020-06-22-笔试面试取消-北京特岗计划乡村教师招聘改为线上复审考核](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1)  
-- [2020-06-22-辽宁昨日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1109,26 +1109,26 @@
 </summary>
 
 
+- [2020-06-23-面试官：十问泛型，你能扛住吗？](https://toutiao.io/k/070ht1d) ![](assets/new.png)  
+- [2020-06-23-深入剖析-Redis-高可用系列：持久化-AOF-和-RDB](https://toutiao.io/k/kmfcf9h) ![](assets/new.png)  
+- [2020-06-23-存量阅读-+-增量阅读，助你在学术研究的海洋上乘风破浪](https://toutiao.io/k/gp3xlh8) ![](assets/new.png)  
+- [2020-06-23-在-Java-虚拟机上班是一种怎样的体验？](https://toutiao.io/k/en3ci83) ![](assets/new.png)  
+- [2020-06-23-译-如何科学选择一门编程语言？理性选择，我依然选-Go](https://toutiao.io/k/8f9f65p) ![](assets/new.png)  
+- [2020-06-23-8-个你会爱上的-VS-Code-扩展](https://toutiao.io/k/r64113j) ![](assets/new.png)  
+- [2020-06-23-不可错过的新一代分布式任务调度与计算框架](https://toutiao.io/k/uh3uzqs) ![](assets/new.png)  
+- [2020-06-23-什么是嵌入式编程？如何入门和提高？](https://toutiao.io/k/9y0zmqj) ![](assets/new.png)  
+- [2020-06-23-图解-SSR-等-6-种前端渲染模式](https://toutiao.io/k/5lxl1yp) ![](assets/new.png)  
+- [2020-06-23-图解-HDFS-存储原理](https://toutiao.io/k/gy52cok) ![](assets/new.png)  
+- [2020-06-23-开发-Substrate-的准备工作](https://toutiao.io/k/4nl910g) ![](assets/new.png)  
+- [2020-06-23-LeetCode-703：数据流中的第-K-大元素](https://toutiao.io/k/vgm96p1) ![](assets/new.png)  
+- [2020-06-23-Golang-定时器底层实现深度剖析](https://toutiao.io/k/0b03mi0) ![](assets/new.png)  
+- [2020-06-23-HTML-转-PDF-工具-Wkhtmltopdf-安装使用](https://toutiao.io/k/9mx0tkl) ![](assets/new.png)  
+- [2020-06-23-基于人工智能技术的数字内容生成-AI-Synthetic-Media](https://toutiao.io/k/g0389me) ![](assets/new.png)  
 - [2020-06-22-2000-万，一个创业团队的始末](https://toutiao.io/k/3ejyqih)  
 - [2020-06-22-甲方安全开源项目清单](https://toutiao.io/k/qhy2d9f)  
 - [2020-06-22-七张图了解-Kubernetes-内部的架构](https://toutiao.io/k/glypgod)  
 - [2020-06-22-用-Python-分析一下那些-“吸粉”-无数的高票房电影](https://toutiao.io/k/mmz0bd0)  
 - [2020-06-22-深入理解-Vue3-Reactivity-API](https://toutiao.io/k/bavtahc)  
-- [2020-06-22-Apache-Spark-3.0.0-正式版终于发布了，重要特性全面解析](https://toutiao.io/k/4oz18kg)  
-- [2020-06-22-7-个建议让-Code-Review-高效又高质](https://toutiao.io/k/hcbe589)  
-- [2020-06-22-低代码平台相关](https://toutiao.io/k/rmd8kc3)  
-- [2020-06-22-Webpack-学习教程（三）：-资源处理-&-devtool](https://toutiao.io/k/qw5ts1e)  
-- [2020-06-22-JavaScript-开发人员偏爱-Deno-而不是-Node-的-5-大原因](https://toutiao.io/k/zppavwx)  
-- [2020-06-22-一文带你彻底学会-Git-Hooks-配置](https://toutiao.io/k/y2tamtp)  
-- [2020-06-22-GraphQL-+-Koa-+-React-项目实践](https://toutiao.io/k/7gldfmw)  
-- [2020-06-22-MyBatis-版本升级引发的线上告警回顾及原理分析](https://toutiao.io/k/8ku1oyp)  
-- [2020-06-22-Docker-适合哪些场景](https://toutiao.io/k/h0rxdse)  
-- [2020-06-22-译-部署一个-Go-应用的正确姿势](https://toutiao.io/k/nu9cfdu)  
-- [2020-06-22-Android-上的-WebRTC：多设备如何启用硬件编码？（一）](https://toutiao.io/k/py6v1li)  
-- [2020-06-22-少年：究竟什么是单元测试啊?](https://toutiao.io/k/pw51ydz)  
-- [2020-06-22-一文了解-Netty-整体流程](https://toutiao.io/k/paciu8u)  
-- [2020-06-22-B树、B+树索引算法原理（下）](https://toutiao.io/k/saasqzl)  
-- [2020-06-22-GraalVM：云原生时代的-Java](https://toutiao.io/k/no4wp5h)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-23 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -61,6 +61,7 @@
 - [2020-05-31-无聊的时候会自己跟自己玩一个游戏](https://www.v2ex.com/t/677279) 
 - [2020-05-31-字节跳动-深圳北京游戏团队招聘，程序/美术/策划，校招社招均有岗位](https://www.v2ex.com/t/677201) 
 - [2020-05-29-进来聊聊区块链游戏](https://www.v2ex.com/t/676690) 
+- [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-22-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13544&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPvOsteCJeEwElQ0oF4bMw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-11-用-three.js-玩转高数可视化](https://toutiao.io/k/lmd9cao) 
 - [2020-05-29-对比脚本型和编译型游戏服务器的热更新方案](https://toutiao.io/k/7ajtp85) 

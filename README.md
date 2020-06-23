@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 12:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 14:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1) ![](assets/new.png)  
-- [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1)  
+- [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1)  
+- [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1)  
 - [2020-06-23-江苏22日新增1例境外输入确诊病例-新增1例省外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1)  
 - [2020-06-23-国家卫健委：22日新增22例新冠肺炎确诊病例-境外输入病例9例-本土病例13例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1)  
 - [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1)  
@@ -1109,6 +1109,10 @@
 </summary>
 
 
+- [2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny) ![](assets/new.png)  
+- [2020-06-23-你的-Elasticsearch-难题，官方文档早就有了答案](https://toutiao.io/k/w984lub) ![](assets/new.png)  
+- [2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei) ![](assets/new.png)  
+- [2020-06-23-聊聊职业发展路径](https://toutiao.io/k/0ygarv0) ![](assets/new.png)  
 - [2020-06-23-另辟蹊径搭建阅读-React-源码调试环境：支持所有-React-版本细分文件断点调试](https://toutiao.io/k/5swjwt0)  
 - [2020-06-23-不容错过的-Chrome-插件推荐合集（设计师必备篇）](https://toutiao.io/k/1adx9ye)  
 - [2020-06-23-广告行业中那些趣事（十三）：NLP-中超实用的样本增强技术](https://toutiao.io/k/82fmmmx)  
@@ -1125,10 +1129,6 @@
 - [2020-06-23-图解-SSR-等-6-种前端渲染模式](https://toutiao.io/k/5lxl1yp)  
 - [2020-06-23-图解-HDFS-存储原理](https://toutiao.io/k/gy52cok)  
 - [2020-06-23-开发-Substrate-的准备工作](https://toutiao.io/k/4nl910g)  
-- [2020-06-23-LeetCode-703：数据流中的第-K-大元素](https://toutiao.io/k/vgm96p1)  
-- [2020-06-23-Golang-定时器底层实现深度剖析](https://toutiao.io/k/0b03mi0)  
-- [2020-06-23-HTML-转-PDF-工具-Wkhtmltopdf-安装使用](https://toutiao.io/k/9mx0tkl)  
-- [2020-06-23-基于人工智能技术的数字内容生成-AI-Synthetic-Media](https://toutiao.io/k/g0389me)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

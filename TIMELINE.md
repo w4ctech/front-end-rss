@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-23 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-23 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -4364,6 +4364,10 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny) 
+- [【开发者头条】2020-06-23-你的-Elasticsearch-难题，官方文档早就有了答案](https://toutiao.io/k/w984lub) 
+- [【开发者头条】2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei) 
+- [【开发者头条】2020-06-23-聊聊职业发展路径](https://toutiao.io/k/0ygarv0) 
 - [【开发者头条】2020-06-23-另辟蹊径搭建阅读-React-源码调试环境：支持所有-React-版本细分文件断点调试](https://toutiao.io/k/5swjwt0) 
 - [【开发者头条】2020-06-23-不容错过的-Chrome-插件推荐合集（设计师必备篇）](https://toutiao.io/k/1adx9ye) 
 - [【开发者头条】2020-06-23-广告行业中那些趣事（十三）：NLP-中超实用的样本增强技术](https://toutiao.io/k/82fmmmx) 

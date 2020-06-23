@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-23 20:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-23 21:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-23-世卫组织：全球新冠肺炎确诊病例超过897万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqjdGzOuFYJ2Ugt5QKb5200623&isfromapp=1) ![](assets/new.png)  
+- [2020-06-23-香港23日新增16例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWDL0LfX8buf6oBILgwo200623&isfromapp=1) ![](assets/new.png)  
 - [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1)  
 - [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1)  
 - [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-22-中国疾控中心副主任：新发地暴露人员发病已进入尾声](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1)  
 - [2020-06-22-美国佛罗里达州一医疗系统过去两周新冠肺炎患者增加-75%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVkMiYgaItbCBJ2PWxakL200622&isfromapp=1)  
 - [2020-06-22-6-月-22-日甘肃新增-7-例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTO1XXnMKmYFV0ITYbe53200622&isfromapp=1)  
-- [2020-06-22-再次提醒从俄罗斯乘机回国人员切勿伪造核酸检测报告](https://m.weibo.cn/3057540037/4518712193878017)  
-- [2020-06-22-今起土耳其不按规定佩戴口罩者将面临-900-里拉罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7J7WDPR8sRgkpn1HjYE8200622&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -922,11 +922,11 @@
 </summary>
 
 
-- [2020-06-23-Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5) ![](assets/new.png)  
-- [2020-06-23-http常用状态码](https://juejin.im/post/5ef177546fb9a0589007111a) ![](assets/new.png)  
-- [2020-06-23-理解-|-如何判断THIS（一、二）](https://juejin.im/post/5ef19311518825657d460c63) ![](assets/new.png)  
-- [2020-06-23-理解-|-数组的常用方法](https://juejin.im/post/5ef19572e51d45741017dc50) ![](assets/new.png)  
-- [2020-06-23-vue小白日记之layout布局组件](https://juejin.im/post/5ef166def265da02ab172aac) ![](assets/new.png)  
+- [2020-06-23-Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5)  
+- [2020-06-23-http常用状态码](https://juejin.im/post/5ef177546fb9a0589007111a)  
+- [2020-06-23-理解-|-如何判断THIS（一、二）](https://juejin.im/post/5ef19311518825657d460c63)  
+- [2020-06-23-理解-|-数组的常用方法](https://juejin.im/post/5ef19572e51d45741017dc50)  
+- [2020-06-23-vue小白日记之layout布局组件](https://juejin.im/post/5ef166def265da02ab172aac)  
 - [2020-06-23-2.（译）图说前端-ArrayBuffers-和-SharedArrayBuffers](https://juejin.im/post/5ef197815188256579492acb)  
 - [2020-06-23-追随潮流：WebAssembly快速上手](https://juejin.im/post/5ef0d7106fb9a05857166a3f)  
 - [2020-06-23-面试必备！-HTML常见面试题汇总](https://juejin.im/post/5ef0aa38e51d4573d10b5c57)  

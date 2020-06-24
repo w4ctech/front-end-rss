@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 15:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 15:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1) ![](assets/new.png)  
-- [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1)  
+- [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1)  
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
 - [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml)  
 - [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036)  
@@ -1110,6 +1110,12 @@
 </summary>
 
 
+- [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti) ![](assets/new.png)  
+- [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm) ![](assets/new.png)  
+- [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9) ![](assets/new.png)  
+- [2020-06-24-译-React-Native-的常见-Bug（二）](https://toutiao.io/k/tgzmo9j) ![](assets/new.png)  
+- [2020-06-24-sharding-sphere（一）：SQL-路由](https://toutiao.io/k/s27thij) ![](assets/new.png)  
+- [2020-06-24-Kaggle-竞赛入门实战：机器学习预测房屋价格](https://toutiao.io/k/xc50wzm) ![](assets/new.png)  
 - [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i)  
 - [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w)  
 - [2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm)  
@@ -1124,12 +1130,6 @@
 - [2020-06-24-Flink-生态：Pulsar-Connector-机制剖析](https://toutiao.io/k/1m71vvk)  
 - [2020-06-24-责任链的-2-种实现方式，你更-pick-哪一种](https://toutiao.io/k/cg2uyzj)  
 - [2020-06-24-撸一个预言机-Oracle-服务，真香！（下篇）](https://toutiao.io/k/0vf9whx)  
-- [2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny)  
-- [2020-06-23-你的-Elasticsearch-难题，官方文档早就有了答案](https://toutiao.io/k/w984lub)  
-- [2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei)  
-- [2020-06-23-聊聊职业发展路径](https://toutiao.io/k/0ygarv0)  
-- [2020-06-23-另辟蹊径搭建阅读-React-源码调试环境：支持所有-React-版本细分文件断点调试](https://toutiao.io/k/5swjwt0)  
-- [2020-06-23-不容错过的-Chrome-插件推荐合集（设计师必备篇）](https://toutiao.io/k/1adx9ye)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

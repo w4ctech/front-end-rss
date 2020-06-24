@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-24 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -4569,6 +4569,12 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti) 
+- [【开发者头条】2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm) 
+- [【开发者头条】2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9) 
+- [【开发者头条】2020-06-24-译-React-Native-的常见-Bug（二）](https://toutiao.io/k/tgzmo9j) 
+- [【开发者头条】2020-06-24-sharding-sphere（一）：SQL-路由](https://toutiao.io/k/s27thij) 
+- [【开发者头条】2020-06-24-Kaggle-竞赛入门实战：机器学习预测房屋价格](https://toutiao.io/k/xc50wzm) 
 - [【开发者头条】2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i) 
 - [【开发者头条】2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w) 
 - [【开发者头条】2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm) 

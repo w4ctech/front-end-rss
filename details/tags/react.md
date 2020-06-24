@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -81,6 +81,7 @@
 - [2020-05-30-关于-react-hooks-一个可能跟性能有关的疑问](https://www.v2ex.com/t/676892) 
 - [2020-05-29-向大家请教个-react-native-问题](https://www.v2ex.com/t/676744) 
 - [2020-05-29-能力更新-React-Native-SDK-内测版发布](https://www.v2ex.com/t/676612) 
+- [2020-06-24-译-React-Native-的常见-Bug（二）](https://toutiao.io/k/tgzmo9j) 
 - [2020-06-24-可能是你见过最好的-React-Hooks-库](https://toutiao.io/k/b8355va) 
 - [2020-06-23-另辟蹊径搭建阅读-React-源码调试环境：支持所有-React-版本细分文件断点调试](https://toutiao.io/k/5swjwt0) 
 - [2020-06-22-深入理解-Vue3-Reactivity-API](https://toutiao.io/k/bavtahc) 

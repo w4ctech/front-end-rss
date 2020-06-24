@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -4822,6 +4822,10 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti) 
+- [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm) 
+- [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9) 
+- [2020-06-24-Kaggle-竞赛入门实战：机器学习预测房屋价格](https://toutiao.io/k/xc50wzm) 
 - [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i) 
 - [2020-06-24-前端存储除了-localStorage-还有啥](https://toutiao.io/k/ztftz5q) 
 - [2020-06-24-不要让你的-Java-对象-"逃逸"-了](https://toutiao.io/k/6dxnjaz) 

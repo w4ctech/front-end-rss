@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 10:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 11:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -923,11 +923,11 @@
 </summary>
 
 
-- [2020-06-24-一天一大-leet最接近的三数之和难度:中等-DAY-24](https://juejin.im/post/5ef2b6fe51882565901ea93c) ![](assets/new.png)  
-- [2020-06-24-一边打码一边bung-bung令你停不下来的神器](https://mp.weixin.qq.com/s/RtCKJt6YoGxgztB3XwF8Bw) ![](assets/new.png)  
-- [2020-06-24-vuecli3.x中使用tinymce](https://juejin.im/post/5ef2b5c2f265da0291786e3b) ![](assets/new.png)  
-- [2020-06-24-蒲公英-·-JELLY技术周刊-Vol.12-尤雨溪新作-Vite,-你会支持么？](https://juejin.im/post/5ef2b345f265da02dc2d29c1) ![](assets/new.png)  
-- [2020-06-24-构建基于-iOS-模拟器的前端调试方案](https://juejin.im/post/5ef2b08951882565d3168ee2) ![](assets/new.png)  
+- [2020-06-24-一天一大-leet最接近的三数之和难度:中等-DAY-24](https://juejin.im/post/5ef2b6fe51882565901ea93c)  
+- [2020-06-24-一边打码一边bung-bung令你停不下来的神器](https://mp.weixin.qq.com/s/RtCKJt6YoGxgztB3XwF8Bw)  
+- [2020-06-24-vuecli3.x中使用tinymce](https://juejin.im/post/5ef2b5c2f265da0291786e3b)  
+- [2020-06-24-蒲公英-·-JELLY技术周刊-Vol.12-尤雨溪新作-Vite,-你会支持么？](https://juejin.im/post/5ef2b345f265da02dc2d29c1)  
+- [2020-06-24-构建基于-iOS-模拟器的前端调试方案](https://juejin.im/post/5ef2b08951882565d3168ee2)  
 - [2020-06-23-Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5)  
 - [2020-06-23-http常用状态码](https://juejin.im/post/5ef177546fb9a0589007111a)  
 - [2020-06-23-理解-|-如何判断THIS（一、二）](https://juejin.im/post/5ef19311518825657d460c63)  
@@ -1079,6 +1079,7 @@
 </summary>
 
 
+- [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13545&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp66hEJBotpRyqfC_sM1dcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1098,7 +1099,6 @@
 - [2020-06-17-写一手烂代码的-19-条准则，你中枪了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13531&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHkhhVmVMdjcleWTsaAwarQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-Flutter-概述-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13530&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxEPvdeD_Bptp3zkGRxiowg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-程序员增加收入实用指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13529&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBGUJ2AE9qa65PI_uQo_iwA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-程序员的私藏好书中，一定有这-7-本-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13528&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4-8pvWJWjs_h7nvuOS-HKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

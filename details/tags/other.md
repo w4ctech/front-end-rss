@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 04:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 05:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1339,6 +1339,10 @@
 - [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91) 
 - [2020-05-25-Swift-5.3将正式支持-Windows，香不香？](https://www.ershicimi.com/p/e042b6d3ac22f237073e91ebd1d0fc29) 
 - [2020-05-25-面了-5-家挂了-5-家，我太难了！前端工程师还能找到工作吗？-|-极客大学](https://www.ershicimi.com/p/3a6e8df7f741acd95cf67b59cfdce2be) 
+- [2020-06-24-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/0d9e1fc9fad10a95281ec39130bba44a) 
+- [2020-06-22-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/1366ffcda202b85821641d653dc3fadb) 
+- [2020-06-20-字节跳动-终端架构部门-前端工程师-社招实习](https://www.ershicimi.com/p/af63ca06bd08a3015308c1cd561c217c) 
+- [2020-06-19-又来了……前端工程师还能找到工作吗？](https://www.ershicimi.com/p/4fa656e751036daf8f23dfac4677e24f) 
 - [2020-06-17-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/f4288019360891d41df070a148383fb2) 
 - [2020-06-17-2年前端经验，做的项目没什么技术含量，怎么办？](https://www.ershicimi.com/p/5e25c1ac4add2b9495e277b8f0e4c6b6) 
 - [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/410a65b124235c19d642d3b534493f80) 

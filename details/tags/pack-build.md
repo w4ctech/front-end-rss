@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -30,6 +30,7 @@
 - [2020-06-14-从零学习webpack4.0模块打包工具](https://juejin.im/post/5ee4bdb3f265da76ee1f65a5) 
 - [2020-06-09-如何提升-Webpack-打包速度](https://juejin.im/post/5edf02ace51d457b3e77ed7c) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 
+- [2020-06-24-electron-builder-用浏览器秒下载，用-yarn-却失败...](https://www.v2ex.com/t/684503) 
 - [2020-06-24-弹性配置为构建提速---CODING-&-腾讯云-CVM-最佳实践](https://www.v2ex.com/t/684440) 
 - [2020-06-23-npm-下载依赖的时候用到-github-的资源下载不了怎么办？](https://www.v2ex.com/t/684285) 
 - [2020-06-15-Dcat-Admin-v1.5.0-发布，高颜值后台系统构建工具，新增全新暗黑模式主题](https://www.v2ex.com/t/681578) 

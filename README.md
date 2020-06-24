@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 19:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 20:00:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,8 +51,8 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [V2EX](#v2ex)![](assets/dot.png)   
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1)  
 - [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1)  
 - [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1)  
 - [2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1)  
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-24-升了-big-sur-的勇士能告诉我-axure9-在新版本里能用吗？](https://www.v2ex.com/t/684445)  
-- [2020-06-24-Mac-怎么使用“上网工具”](https://www.v2ex.com/t/684444)  
-- [2020-06-24-上海-Java-研发岗位招聘-10k-到-15k](https://www.v2ex.com/t/684443)  
-- [2020-06-24-求一个-PS4-的音响方案。-本人目前是小米蓝牙音响，连接的-34-寸屏幕的-3.5mm-接口输出的声音，问题是蓝牙...](https://www.v2ex.com/t/684442)  
-- [2020-06-24-Big-Sur-的-safari-支持-youtube-的-4k-了吗？](https://www.v2ex.com/t/684441)  
-- [2020-06-24-弹性配置为构建提速---CODING-&-腾讯云-CVM-最佳实践](https://www.v2ex.com/t/684440)  
-- [2020-06-24-闲鱼进去时那几条假的通知，提示能关掉吗？](https://www.v2ex.com/t/684438)  
-- [2020-06-24-现在是不是已经找不到没有刘海的手机了](https://www.v2ex.com/t/684436)  
-- [2020-06-24-咳咳，为何-github-界面好像又改版了](https://www.v2ex.com/t/684435)  
-- [2020-06-24-Airpods-二代连接-MacBook-pro，右耳无声音](https://www.v2ex.com/t/684434)  
-- [2020-06-24-Chrome-插件“扩展管理器Extension-Manager”开始在后台标签页偷偷弹广告](https://www.v2ex.com/t/684433)  
-- [2020-06-24-苹果🍎发话了，-Arm-新-U-不支持-x86-虚拟机。](https://www.v2ex.com/t/684429)  
-- [2020-06-24-转眼来这也挺久了,一直没有啥想问的,今天想请教一下各位老哥,腾讯外包和恒大两个选择哪个好?](https://www.v2ex.com/t/684428)  
-- [2020-06-24-为什么说产品狗呢？其实我觉得大家都是狗命一条...](https://www.v2ex.com/t/684427)  
-- [2020-06-24-有没有谁研究过微信初始-id,wxid_xxx-的生成规则？](https://www.v2ex.com/t/684426)  
-- [2020-06-24-如何反编译用-Flutter-写的安卓应用？](https://www.v2ex.com/t/684424)  
-- [2020-06-24-刚刚工作电脑升级了-Big-Sur](https://www.v2ex.com/t/684423)  
-- [2020-06-24-端午公司给你发了什么节日福利](https://www.v2ex.com/t/684422)  
-- [2020-06-24-Linux-块设备的-block-大小的多少？](https://www.v2ex.com/t/684421)  
-- [2020-06-24-求推荐好用的、开源的、支持投屏的视频播放器](https://www.v2ex.com/t/684419)  
+- [2020-06-24-圈外人疑问，安卓和-ios-双平台的-app-难度大嘛？](https://www.v2ex.com/t/684546) ![](assets/new.png)  
+- [2020-06-24-开发一个域名/ip-全国测速的系统，有什么比较好的设计架构](https://www.v2ex.com/t/684545) ![](assets/new.png)  
+- [2020-06-24-OpenWrt-中-使用-Docker-安装可道云出错。](https://www.v2ex.com/t/684544) ![](assets/new.png)  
+- [2020-06-24-你们都是如何在-goland-上-clone-git-项目的？](https://www.v2ex.com/t/684543) ![](assets/new.png)  
+- [2020-06-24-BigSur-已经可以运行-iOS-的-app-了么？](https://www.v2ex.com/t/684542) ![](assets/new.png)  
+- [2020-06-24-话说-iOS14-的"轻点背面"是怎么实现的?-难道背部有传感器?](https://www.v2ex.com/t/684541) ![](assets/new.png)  
+- [2020-06-24-网友分析还挺对的](https://www.v2ex.com/t/684540) ![](assets/new.png)  
+- [2020-06-24-问下各位大佬一个专升本的事情。](https://www.v2ex.com/t/684538) ![](assets/new.png)  
+- [2020-06-24-之前磁盘分区时，选择的是-2M-对齐，不是-4K-对齐，我可以在不格式化数据的情况下改为-4K-对齐吗？](https://www.v2ex.com/t/684537) ![](assets/new.png)  
+- [2020-06-24-1399-的-3400G+B450-板-U-套装值得购买吗？](https://www.v2ex.com/t/684536) ![](assets/new.png)  
+- [2020-06-24-AirPods-戴上后-"咚"-一声，但是没连接，所以是在-"咚"-什么](https://www.v2ex.com/t/684535) ![](assets/new.png)  
+- [2020-06-24-Flutter-Weekly-Issue-61](https://www.v2ex.com/t/684534) ![](assets/new.png)  
+- [2020-06-24-悬赏-1200-元做一个简单的-Linux-用户资源监控系统](https://www.v2ex.com/t/684533) ![](assets/new.png)  
+- [2020-06-24-求推荐一款-mac-用来开发-ios](https://www.v2ex.com/t/684532) ![](assets/new.png)  
+- [2020-06-24-这就是国内技术社区](https://www.v2ex.com/t/684531) ![](assets/new.png)  
+- [2020-06-24-小米-数据平台-大数据开发-资深-Java--中台业务-资深-Java-（算法落地）](https://www.v2ex.com/t/684530) ![](assets/new.png)  
+- [2020-06-24-话说为什么数字货币合约这么火？](https://www.v2ex.com/t/684529) ![](assets/new.png)  
+- [2020-06-24-星巴克-0-元拼团，掌上生活活动](https://www.v2ex.com/t/684528) ![](assets/new.png)  
+- [2020-06-24-想问一下-switch-+-戴尔-U2720QM-怎么解决音响问题](https://www.v2ex.com/t/684527) ![](assets/new.png)  
+- [2020-06-24-大家旅行完之后拍的照片一般如何处理？](https://www.v2ex.com/t/684526) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1079,6 +1079,7 @@
 </summary>
 
 
+- [2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1098,7 +1099,6 @@
 - [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-写一手烂代码的-19-条准则，你中枪了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13531&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHkhhVmVMdjcleWTsaAwarQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-Flutter-概述-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13530&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxEPvdeD_Bptp3zkGRxiowg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-程序员增加收入实用指南！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13529&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FBGUJ2AE9qa65PI_uQo_iwA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

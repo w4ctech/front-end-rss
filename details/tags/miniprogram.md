@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -50,6 +50,7 @@
 - [2020-06-06-小程序实战十二-分包加载](https://juejin.im/post/5edb75366fb9a047a96a8130) 
 - [2020-05-30-京东小程序-Taro-开发对比原生开发测评](https://juejin.im/post/5eb370715188256d703f4063) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-06-24-小程序、快应用与-App-Clips-对比](https://www.v2ex.com/t/684516) 
 - [2020-06-24-你们的-Mac-版微信可以打开小程序吗，我看说-2.4.1-已经支持了，为什么我还是不行](https://www.v2ex.com/t/684393) 
 - [2020-06-23-党建答题活动小程序](https://www.v2ex.com/t/684242) 
 - [2020-06-22-现在微信小程序初级开发的时薪大概什么价位](https://www.v2ex.com/t/683853) 
@@ -97,6 +98,7 @@
 - [2020-05-29-请教一下，现在微信公众号（企业号）认证后，小程序能复用认证吗？](https://www.v2ex.com/t/676834) 
 - [2020-05-29-分享一个方便查看动森服装设计码的小程序](https://www.v2ex.com/t/676739) 
 - [2020-05-29-开源-小程序联系客服-UI-组件库](https://www.v2ex.com/t/676529) 
+- [2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m) 
 - [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f) 
 - [2020-06-09-Lin-UI：一套设计精良的微信小程序组件库](https://toutiao.io/k/48bjki8) 

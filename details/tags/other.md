@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 17:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1) 
 - [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1) 
 - [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1) 
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1) 

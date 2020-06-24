@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 19:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1) ![](assets/new.png)  
-- [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1) ![](assets/new.png)  
-- [2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1)  
+- [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1)  
+- [2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1)  
 - [2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1)  
 - [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1)  
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-23-香港23日新增16例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWDL0LfX8buf6oBILgwo200623&isfromapp=1)  
 - [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1)  
 - [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1)  
-- [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-25 03:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-英国医学权威们警告英国必须为第二波疫情做好准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHDkAuAGrR3k6LzHwrrlG200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1) 

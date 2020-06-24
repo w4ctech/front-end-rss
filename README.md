@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 02:00:20，:rocket: 更新条数: +46， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 03:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1) ![](assets/new.png)  
 - [2020-06-24-英国医学权威们警告英国必须为第二波疫情做好准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHDkAuAGrR3k6LzHwrrlG200624&isfromapp=1)  
 - [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1)  
 - [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-24-国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1)  
 - [2020-06-23-世卫组织：全球新冠肺炎确诊病例累计超899万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1)  
 - [2020-06-23-利比里亚国家紧急状态再延期30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1)  
-- [2020-06-23-世卫组织：全球新冠肺炎确诊病例超过897万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqjdGzOuFYJ2Ugt5QKb5200623&isfromapp=1)  
-- [2020-06-23-香港23日新增16例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWDL0LfX8buf6oBILgwo200623&isfromapp=1)  
-- [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-25-我在北京，昨天客户让我去大兴区公安局那边联调接口，一共三个接口，怎么调用都给他说了，他也试过了没啥问...](https://www.v2ex.com/t/684606) ![](assets/new.png)  
-- [2020-06-25-为什么现在就开始招聘-2021-届毕业生了？](https://www.v2ex.com/t/684605) ![](assets/new.png)  
-- [2020-06-25-帅哥们求一套能搞-AE-的电脑配置](https://www.v2ex.com/t/684604) ![](assets/new.png)  
-- [2020-06-25-许多卡/Stocard-在-Apple-Wallet-加卡-有没有办法不重叠？](https://www.v2ex.com/t/684603) ![](assets/new.png)  
-- [2020-06-25-单纯地问一下。大家有把自己的手机系统换成英文的吗？](https://www.v2ex.com/t/684602) ![](assets/new.png)  
-- [2020-06-25-朋友主机用了-2-年，说要-3000-卖我，帮忙看看配置价钱匹配不？](https://www.v2ex.com/t/684601) ![](assets/new.png)  
-- [2020-06-25-请问有-360-的人在这里吗?求助](https://www.v2ex.com/t/684600) ![](assets/new.png)  
-- [2020-06-25-腾讯-PCG-的社交平台产品部怎么样](https://www.v2ex.com/t/684599) ![](assets/new.png)  
-- [2020-06-25-非主流域名邮箱发送邮件进垃圾箱的问题有办法解决吗](https://www.v2ex.com/t/684598) ![](assets/new.png)  
-- [2020-06-25-为什么-html-不使用类似的-<include>...</include>-这样的模板语法？](https://www.v2ex.com/t/684597) ![](assets/new.png)  
-- [2020-06-25-个人向问题-啥才是技术，啥是核心竞争力？](https://www.v2ex.com/t/684596) ![](assets/new.png)  
-- [2020-06-25-flask-路由问题](https://www.v2ex.com/t/684595) ![](assets/new.png)  
-- [2020-06-24-深圳拔牙记](https://www.v2ex.com/t/684594) ![](assets/new.png)  
-- [2020-06-24-gcloud-1G-内存，装了点-mysql，然后装了点-gitlab-ce，直接卡死了。](https://www.v2ex.com/t/684593) ![](assets/new.png)  
-- [2020-06-24-悬赏后续-部分需求已通过-netdata-的-API-实现-只差磁盘-IO-问题](https://www.v2ex.com/t/684592) ![](assets/new.png)  
-- [2020-06-24-BIG-SUR-升级失败，已变砖](https://www.v2ex.com/t/684591) ![](assets/new.png)  
-- [2020-06-24-Linux-有负载率没有-CPU-占用没有磁盘-IO-等待，怎么排查问题](https://www.v2ex.com/t/684590) ![](assets/new.png)  
-- [2020-06-24-买台-NUC-做电视机顶盒有可行性吗？](https://www.v2ex.com/t/684589) ![](assets/new.png)  
-- [2020-06-24-全职实习内推上海字节跳动---ACG-业务线---急招-PM-|-推荐-|-研发](https://www.v2ex.com/t/684588) ![](assets/new.png)  
-- [2020-06-24-字节跳动内推：抖音所在的互娱研发部门-21-届校招启动啦！想不想加入？](https://www.v2ex.com/t/684587) ![](assets/new.png)  
+- [2020-06-25-我在北京，昨天客户让我去大兴区公安局那边联调接口，一共三个接口，怎么调用都给他说了，他也试过了没啥问...](https://www.v2ex.com/t/684606)  
+- [2020-06-25-为什么现在就开始招聘-2021-届毕业生了？](https://www.v2ex.com/t/684605)  
+- [2020-06-25-帅哥们求一套能搞-AE-的电脑配置](https://www.v2ex.com/t/684604)  
+- [2020-06-25-许多卡/Stocard-在-Apple-Wallet-加卡-有没有办法不重叠？](https://www.v2ex.com/t/684603)  
+- [2020-06-25-单纯地问一下。大家有把自己的手机系统换成英文的吗？](https://www.v2ex.com/t/684602)  
+- [2020-06-25-朋友主机用了-2-年，说要-3000-卖我，帮忙看看配置价钱匹配不？](https://www.v2ex.com/t/684601)  
+- [2020-06-25-请问有-360-的人在这里吗?求助](https://www.v2ex.com/t/684600)  
+- [2020-06-25-腾讯-PCG-的社交平台产品部怎么样](https://www.v2ex.com/t/684599)  
+- [2020-06-25-非主流域名邮箱发送邮件进垃圾箱的问题有办法解决吗](https://www.v2ex.com/t/684598)  
+- [2020-06-25-为什么-html-不使用类似的-<include>...</include>-这样的模板语法？](https://www.v2ex.com/t/684597)  
+- [2020-06-25-个人向问题-啥才是技术，啥是核心竞争力？](https://www.v2ex.com/t/684596)  
+- [2020-06-25-flask-路由问题](https://www.v2ex.com/t/684595)  
+- [2020-06-24-深圳拔牙记](https://www.v2ex.com/t/684594)  
+- [2020-06-24-gcloud-1G-内存，装了点-mysql，然后装了点-gitlab-ce，直接卡死了。](https://www.v2ex.com/t/684593)  
+- [2020-06-24-悬赏后续-部分需求已通过-netdata-的-API-实现-只差磁盘-IO-问题](https://www.v2ex.com/t/684592)  
+- [2020-06-24-BIG-SUR-升级失败，已变砖](https://www.v2ex.com/t/684591)  
+- [2020-06-24-Linux-有负载率没有-CPU-占用没有磁盘-IO-等待，怎么排查问题](https://www.v2ex.com/t/684590)  
+- [2020-06-24-买台-NUC-做电视机顶盒有可行性吗？](https://www.v2ex.com/t/684589)  
+- [2020-06-24-全职实习内推上海字节跳动---ACG-业务线---急招-PM-|-推荐-|-研发](https://www.v2ex.com/t/684588)  
+- [2020-06-24-字节跳动内推：抖音所在的互娱研发部门-21-届校招启动啦！想不想加入？](https://www.v2ex.com/t/684587)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

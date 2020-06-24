@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1) 
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1) 
 - [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036) 
 - [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1) 

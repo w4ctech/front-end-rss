@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 15:30:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1) ![](assets/new.png)  
 - [2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1)  
 - [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1)  
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1)  
 - [2020-06-23-非洲新冠肺炎确诊病例累计超31万-南非累计确诊超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1)  
 - [2020-06-23-饿了么回应外卖送餐员确诊：密接骑手已暂停接单](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1)  
-- [2020-06-23-北京：日核酸检测能力由4万份提升至30万份以上](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1)  
-- [2020-06-23-北京建方舱式核酸检测实验室](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1)  
-- [2020-06-23-印度新增14933例新冠肺炎确诊病例-累计确诊440215例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1110,12 +1110,12 @@
 </summary>
 
 
-- [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti) ![](assets/new.png)  
-- [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm) ![](assets/new.png)  
-- [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9) ![](assets/new.png)  
-- [2020-06-24-译-React-Native-的常见-Bug（二）](https://toutiao.io/k/tgzmo9j) ![](assets/new.png)  
-- [2020-06-24-sharding-sphere（一）：SQL-路由](https://toutiao.io/k/s27thij) ![](assets/new.png)  
-- [2020-06-24-Kaggle-竞赛入门实战：机器学习预测房屋价格](https://toutiao.io/k/xc50wzm) ![](assets/new.png)  
+- [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti)  
+- [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm)  
+- [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9)  
+- [2020-06-24-译-React-Native-的常见-Bug（二）](https://toutiao.io/k/tgzmo9j)  
+- [2020-06-24-sharding-sphere（一）：SQL-路由](https://toutiao.io/k/s27thij)  
+- [2020-06-24-Kaggle-竞赛入门实战：机器学习预测房屋价格](https://toutiao.io/k/xc50wzm)  
 - [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i)  
 - [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w)  
 - [2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm)  

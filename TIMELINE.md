@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 15:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-24 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 03:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 04:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1) ![](assets/new.png)  
-- [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1) ![](assets/new.png)  
-- [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
+- [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1)  
+- [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1)  
 - [2020-06-24-英国医学权威们警告英国必须为第二波疫情做好准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHDkAuAGrR3k6LzHwrrlG200624&isfromapp=1)  
 - [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1)  
 - [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1)  
@@ -1048,6 +1048,7 @@
 </summary>
 
 
+- [2020-06-25-Mac-更新到-Catalina-10.15.5-以后边充边掉电？](https://www.v2ex.com/t/684607) ![](assets/new.png)  
 - [2020-06-25-我在北京，昨天客户让我去大兴区公安局那边联调接口，一共三个接口，怎么调用都给他说了，他也试过了没啥问...](https://www.v2ex.com/t/684606)  
 - [2020-06-25-为什么现在就开始招聘-2021-届毕业生了？](https://www.v2ex.com/t/684605)  
 - [2020-06-25-帅哥们求一套能搞-AE-的电脑配置](https://www.v2ex.com/t/684604)  
@@ -1067,7 +1068,6 @@
 - [2020-06-24-Linux-有负载率没有-CPU-占用没有磁盘-IO-等待，怎么排查问题](https://www.v2ex.com/t/684590)  
 - [2020-06-24-买台-NUC-做电视机顶盒有可行性吗？](https://www.v2ex.com/t/684589)  
 - [2020-06-24-全职实习内推上海字节跳动---ACG-业务线---急招-PM-|-推荐-|-研发](https://www.v2ex.com/t/684588)  
-- [2020-06-24-字节跳动内推：抖音所在的互娱研发部门-21-届校招启动啦！想不想加入？](https://www.v2ex.com/t/684587)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

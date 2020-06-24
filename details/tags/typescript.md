@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -18,6 +18,7 @@
 - [2020-04-29-未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1) 
 - [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834) 
 - [2020-06-13-TypeScript-期中考试现在开始](https://www.ershicimi.com/p/0da437a4f1d1913c209d0895ce91c9ca) 
+- [2020-06-23-Deno-内部代码将停用-TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/e035751c717f6a9b0a14bd60c22f0bb4) 
 - [2020-06-12-TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d) 
 - [2020-06-08-何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a) 
 - [2020-05-31-Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12) 

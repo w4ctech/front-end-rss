@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -8,6 +8,7 @@
 
 
 - [2020-06-02-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185) 
+- [2020-06-22-我为什么放弃移动开发](https://www.ershicimi.com/p/b4d458cd1e3b8d47bbb8c67c193699b3) 
 - [2020-06-03-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249) 
 - [2020-06-09-BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457) 
 - [2020-06-20-Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73) 

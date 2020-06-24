@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-24 11:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -122,6 +122,7 @@
 - [【Nodejs技术栈】未来可期的-TypeScript](https://www.ershicimi.com/p/e4432c466e130a4a7d95681ebf0280b1)
 - [【奇舞周刊】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834)
 - [【奇舞周刊】TypeScript-期中考试现在开始](https://www.ershicimi.com/p/0da437a4f1d1913c209d0895ce91c9ca)
+- [【InfoQ】Deno-内部代码将停用-TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/e035751c717f6a9b0a14bd60c22f0bb4)
 - [【InfoQ】TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d)
 - [【InfoQ】何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a)
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)
@@ -130,7 +131,6 @@
 - [【V2EX】Webpack4-+-TypeScript-如何优化编译速度?](https://www.v2ex.com/t/682307)
 - [【V2EX】Typescript-香吗?](https://www.v2ex.com/t/679223)
 - [【开发者头条】一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x)
-- [【开发者头条】了不起的-TypeScript-入门教程](https://toutiao.io/k/1nk6cjo)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -256,6 +256,7 @@
 
 
 - [【前端之巅】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185)
+- [【InfoQ】我为什么放弃移动开发](https://www.ershicimi.com/p/b4d458cd1e3b8d47bbb8c67c193699b3)
 - [【InfoQ】西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf1db51c916a99437dde9d600ed69249)
 - [【JavaScript】BAT-面试调查：不会-Flutter-薪资就会被打折！](https://www.ershicimi.com/p/ccfdc46d746e2e517ee3b398ebddb457)
 - [【掘金前端】Flutter翻译Flutter和桌面应用](https://juejin.im/post/5eedcde051882565ca327a73)
@@ -274,7 +275,6 @@
 - [【V2EX】Flutter-Weekly-Issue-58](https://www.v2ex.com/t/678425)
 - [【技术头条】Flutter-概述-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13530&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxEPvdeD_Bptp3zkGRxiowg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】下载！闲鱼最新升级版-Flutter-技术电子书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13524&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fiwyzg1gdyF8jmtf_aIv_6w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】一项改变游戏规则的技术---Flutter-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13516&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhat-is-flutter%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -628,13 +628,13 @@
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【互联网架构师】收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b)
+- [【InfoQ】GitHub开源Super-Linter，用自动化解决开发者需求](https://www.ershicimi.com/p/d4fdc75af148cdda17c0c63cf6ec9eae)
 - [【InfoQ】4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c)
 - [【InfoQ】GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)
 - [【InfoQ】GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775)
 - [【掘金前端】Git-Commit-规范流程化](https://juejin.im/post/5eee3f17e51d4573d3068341)
 - [【掘金前端】你可能不知道的15个有用的Github功能](https://juejin.im/post/5ee97b4ef265da770b40ea8b)
 - [【掘金前端】三年-Git-使用心得-&-常见问题整理](https://juejin.im/post/5ee649ff51882542ea2b5108)
-- [【掘金前端】一份值得收藏的-Git-异常处理清单](https://juejin.im/post/5edcf3a36fb9a047fa04fbc3)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-06-21 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a) 
+- [2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d) 
+- [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48) 
+- [2020-06-23-Deno-内部代码将停用-TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/e035751c717f6a9b0a14bd60c22f0bb4) 
+- [2020-06-23-GitHub开源Super-Linter，用自动化解决开发者需求](https://www.ershicimi.com/p/d4fdc75af148cdda17c0c63cf6ec9eae) 
+- [2020-06-22-高校再陷版权纷争：MATLAB遭禁用后，又一基础软件严查盗版](https://www.ershicimi.com/p/ba9a53d5f3d2120b218907087ca5e1ea) 
+- [2020-06-22-我肝了一个月，给你写出了这本-Java-开发手册](https://www.ershicimi.com/p/c9ff6b92ad6983ddb55d05a9aabbd359) 
+- [2020-06-22-京东：二次上市，向技术与服务公司转型-|-QCon](https://www.ershicimi.com/p/4ed029e5dc56b7af7bdcf1badda285bc) 
+- [2020-06-22-多场景适配，TNN如何优化模型部署的存储与计算？](https://www.ershicimi.com/p/218760e03fbfd5036fd94c731920fe93) 
+- [2020-06-22-我为什么放弃移动开发](https://www.ershicimi.com/p/b4d458cd1e3b8d47bbb8c67c193699b3) 
 - [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) 
 - [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) 
 - [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) 

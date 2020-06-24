@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-国家卫健委：6月23日新增新冠肺炎确诊病例12例，其中本土病例9例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimYLRz6bX0F8xwjG5N3G3200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1) 
@@ -1025,6 +1027,16 @@
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [【InfoQ】2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a) 
+- [【InfoQ】2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d) 
+- [【InfoQ】2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48) 
+- [【InfoQ】2020-06-23-Deno-内部代码将停用-TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/e035751c717f6a9b0a14bd60c22f0bb4) 
+- [【InfoQ】2020-06-23-GitHub开源Super-Linter，用自动化解决开发者需求](https://www.ershicimi.com/p/d4fdc75af148cdda17c0c63cf6ec9eae) 
+- [【InfoQ】2020-06-22-高校再陷版权纷争：MATLAB遭禁用后，又一基础软件严查盗版](https://www.ershicimi.com/p/ba9a53d5f3d2120b218907087ca5e1ea) 
+- [【InfoQ】2020-06-22-我肝了一个月，给你写出了这本-Java-开发手册](https://www.ershicimi.com/p/c9ff6b92ad6983ddb55d05a9aabbd359) 
+- [【InfoQ】2020-06-22-京东：二次上市，向技术与服务公司转型-|-QCon](https://www.ershicimi.com/p/4ed029e5dc56b7af7bdcf1badda285bc) 
+- [【InfoQ】2020-06-22-多场景适配，TNN如何优化模型部署的存储与计算？](https://www.ershicimi.com/p/218760e03fbfd5036fd94c731920fe93) 
+- [【InfoQ】2020-06-22-我为什么放弃移动开发](https://www.ershicimi.com/p/b4d458cd1e3b8d47bbb8c67c193699b3) 
 - [【InfoQ】2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) 
 - [【InfoQ】2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) 
 - [【InfoQ】2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 11:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 11:30:21，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml) ![](assets/new.png)  
+- [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036) ![](assets/new.png)  
 - [2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html)  
 - [2020-06-24-国家卫健委：6月23日新增新冠肺炎确诊病例12例，其中本土病例9例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimYLRz6bX0F8xwjG5N3G3200624&isfromapp=1)  
 - [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-23-福建：高考前14天考生每天测体温-进场后考生可自主决定是否戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPhwfzQ2BrNoXnomZ7vv200623&isfromapp=1)  
 - [2020-06-23-教育部：中国医学生有了学位互认的国际通行证](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1)  
 - [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1)  
-- [2020-06-23-江苏22日新增1例境外输入确诊病例-新增1例省外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1)  
-- [2020-06-23-国家卫健委：22日新增22例新冠肺炎确诊病例-境外输入病例9例-本土病例13例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -861,6 +861,16 @@
 </summary>
 
 
+- [2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a) ![](assets/new.png)  
+- [2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d) ![](assets/new.png)  
+- [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48) ![](assets/new.png)  
+- [2020-06-23-Deno-内部代码将停用-TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/e035751c717f6a9b0a14bd60c22f0bb4) ![](assets/new.png)  
+- [2020-06-23-GitHub开源Super-Linter，用自动化解决开发者需求](https://www.ershicimi.com/p/d4fdc75af148cdda17c0c63cf6ec9eae) ![](assets/new.png)  
+- [2020-06-22-高校再陷版权纷争：MATLAB遭禁用后，又一基础软件严查盗版](https://www.ershicimi.com/p/ba9a53d5f3d2120b218907087ca5e1ea) ![](assets/new.png)  
+- [2020-06-22-我肝了一个月，给你写出了这本-Java-开发手册](https://www.ershicimi.com/p/c9ff6b92ad6983ddb55d05a9aabbd359) ![](assets/new.png)  
+- [2020-06-22-京东：二次上市，向技术与服务公司转型-|-QCon](https://www.ershicimi.com/p/4ed029e5dc56b7af7bdcf1badda285bc) ![](assets/new.png)  
+- [2020-06-22-多场景适配，TNN如何优化模型部署的存储与计算？](https://www.ershicimi.com/p/218760e03fbfd5036fd94c731920fe93) ![](assets/new.png)  
+- [2020-06-22-我为什么放弃移动开发](https://www.ershicimi.com/p/b4d458cd1e3b8d47bbb8c67c193699b3) ![](assets/new.png)  
 - [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08)  
 - [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d)  
 - [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa)  
@@ -871,16 +881,6 @@
 - [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e)  
 - [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11)  
 - [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c)  
-- [2020-06-19-涉嫌盗取前东家谷歌的代码，一位工程师被判赔1.8亿美金，将全由个人偿还](https://www.ershicimi.com/p/9510afda0fb4c0b801119ac523bd20e1)  
-- [2020-06-19-三星为华为代工-5G-芯片有多大可能性？](https://www.ershicimi.com/p/ec9f329bb6f7d43b959584ba3a1b5657)  
-- [2020-06-19-人工智能为金融投资带来什么？|-Q推荐](https://www.ershicimi.com/p/38f163d3edae60ac12498adb844d778c)  
-- [2020-06-19-开发者注意！想让你的小程序地图也做到微信原生般流畅体验吗？|-Q推荐](https://www.ershicimi.com/p/fcb27b142a54ce4605c11eb9b543662b)  
-- [2020-06-19-人力投入少-10-倍、一年节省五千个工时：苏宁-Web-应用与-Client-应用系统的自动交互实践](https://www.ershicimi.com/p/d5a07a6c093fb2cb3ec611acace6ccc8)  
-- [2020-06-18-港交所上市，京东走入后刘强东时代](https://www.ershicimi.com/p/ac9d632eaaf32db6759635abb68c8e44)  
-- [2020-06-18-够强大，才出“粽”，写作平台给你发“粽子”啦！|-InfoQ写作平台特别企划](https://www.ershicimi.com/p/8a9aa187ff0caf20b7368475dc52f4f2)  
-- [2020-06-18-AWS-打造容器服务体系，Amazon-EKS-这块拼图有多重要？](https://www.ershicimi.com/p/f549632043da086d519b4d433410eba0)  
-- [2020-06-18-倒计时-1-天！Serverless，起风了-|-Q推荐](https://www.ershicimi.com/p/55e576a96157203ed76039340298f546)  
-- [2020-06-18-Deno-是代码的浏览器](https://www.ershicimi.com/p/1cbf61e0f0228d1cf7d00ad73714c5c6)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1079,7 +1079,7 @@
 </summary>
 
 
-- [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13545&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp66hEJBotpRyqfC_sM1dcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

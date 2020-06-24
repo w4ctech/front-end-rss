@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036) 
 - [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1) 
 - [2020-06-23-利比里亚国家紧急状态再延期30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1) 
 - [2020-06-23-北京疫情防控发布会：新冠病毒不会在食品之间传播-但有可能被新冠病毒污染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1) 
@@ -1571,6 +1572,12 @@
 - [2020-05-26-常用的-7-款-MySQL-客户端工具，你值得拥有！](https://www.ershicimi.com/p/e7fc066c073a8b853c8536a80c56a664) 
 - [2020-05-26-为什么单线程的Redis能够达到百万级的QPS？](https://www.ershicimi.com/p/ae3881fb9ea56f1243da415422038f07) 
 - [2020-05-25-汇总一下Intellij-IDEA常用的牛逼插件](https://www.ershicimi.com/p/e29221a46c07c0864764fe30b27041ef) 
+- [2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a) 
+- [2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d) 
+- [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48) 
+- [2020-06-22-高校再陷版权纷争：MATLAB遭禁用后，又一基础软件严查盗版](https://www.ershicimi.com/p/ba9a53d5f3d2120b218907087ca5e1ea) 
+- [2020-06-22-我肝了一个月，给你写出了这本-Java-开发手册](https://www.ershicimi.com/p/c9ff6b92ad6983ddb55d05a9aabbd359) 
+- [2020-06-22-京东：二次上市，向技术与服务公司转型-|-QCon](https://www.ershicimi.com/p/4ed029e5dc56b7af7bdcf1badda285bc) 
 - [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08) 
 - [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d) 
 - [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa) 

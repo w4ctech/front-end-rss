@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 05:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1) ![](assets/new.png)  
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
 - [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1)  
 - [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-24-世卫组织：全球新增新冠肺炎确诊病例133326例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtfNQlOXhOVSGhiwOJUN200624&isfromapp=1)  
 - [2020-06-24-国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1)  
 - [2020-06-23-世卫组织：全球新冠肺炎确诊病例累计超899万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1)  
-- [2020-06-23-利比里亚国家紧急状态再延期30天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -437,13 +437,13 @@
 </summary>
 
 
-- [2020-06-24-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/0d9e1fc9fad10a95281ec39130bba44a) ![](assets/new.png)  
-- [2020-06-23-webpack4主流程源码阅读，以及动手实现一个简单的webpack](https://www.ershicimi.com/p/986e39aa3d626ed0281118fa0431d6c7) ![](assets/new.png)  
-- [2020-06-22-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/1366ffcda202b85821641d653dc3fadb) ![](assets/new.png)  
-- [2020-06-21-浏览器缓存机制](https://www.ershicimi.com/p/d82bfa8d8ce06bd661a20700639532ff) ![](assets/new.png)  
-- [2020-06-20-字节跳动-终端架构部门-前端工程师-社招实习](https://www.ershicimi.com/p/af63ca06bd08a3015308c1cd561c217c) ![](assets/new.png)  
-- [2020-06-19-又来了……前端工程师还能找到工作吗？](https://www.ershicimi.com/p/4fa656e751036daf8f23dfac4677e24f) ![](assets/new.png)  
-- [2020-06-18-Virtual-DOM是如何提升页面渲染效率的](https://www.ershicimi.com/p/7ad43eb3688b0e8587226d829e134332) ![](assets/new.png)  
+- [2020-06-24-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/0d9e1fc9fad10a95281ec39130bba44a)  
+- [2020-06-23-webpack4主流程源码阅读，以及动手实现一个简单的webpack](https://www.ershicimi.com/p/986e39aa3d626ed0281118fa0431d6c7)  
+- [2020-06-22-【全网首发】京东商业化数据分析师培养计划](https://www.ershicimi.com/p/1366ffcda202b85821641d653dc3fadb)  
+- [2020-06-21-浏览器缓存机制](https://www.ershicimi.com/p/d82bfa8d8ce06bd661a20700639532ff)  
+- [2020-06-20-字节跳动-终端架构部门-前端工程师-社招实习](https://www.ershicimi.com/p/af63ca06bd08a3015308c1cd561c217c)  
+- [2020-06-19-又来了……前端工程师还能找到工作吗？](https://www.ershicimi.com/p/4fa656e751036daf8f23dfac4677e24f)  
+- [2020-06-18-Virtual-DOM是如何提升页面渲染效率的](https://www.ershicimi.com/p/7ad43eb3688b0e8587226d829e134332)  
 - [2020-06-17-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/f4288019360891d41df070a148383fb2)  
 - [2020-06-17-2年前端经验，做的项目没什么技术含量，怎么办？](https://www.ershicimi.com/p/5e25c1ac4add2b9495e277b8f0e4c6b6)  
 - [2020-06-16-【送书福利】Electron实战：前端人的最佳跨平台解决方案](https://www.ershicimi.com/p/043930ae43fefcced4438f39af0fa894)  

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 09:00:20，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 09:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html) ![](assets/new.png)  
+- [2020-06-24-国家卫健委：6月23日新增新冠肺炎确诊病例12例，其中本土病例9例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimYLRz6bX0F8xwjG5N3G3200624&isfromapp=1) ![](assets/new.png)  
 - [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1)  
 - [2020-06-24-世卫组织：全球新增新冠肺炎确诊病例133326例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtfNQlOXhOVSGhiwOJUN200624&isfromapp=1)  
 - [2020-06-24-国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-23-​墨西哥新增4577例新冠肺炎确诊病例-累计确诊185122例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1)  
 - [2020-06-23-江苏22日新增1例境外输入确诊病例-新增1例省外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1)  
 - [2020-06-23-国家卫健委：22日新增22例新冠肺炎确诊病例-境外输入病例9例-本土病例13例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1)  
-- [2020-06-23-秘鲁新增2511例新冠肺炎确诊病例-多地商场及购物中心等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1)  
-- [2020-06-23-特朗普竞选团队再增加2名新冠病毒感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -674,7 +674,7 @@
 </summary>
 
 
-- [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html) ![](assets/new.png)  
+- [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)  
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html)  
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
@@ -1110,20 +1110,20 @@
 </summary>
 
 
-- [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i) ![](assets/new.png)  
-- [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w) ![](assets/new.png)  
-- [2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm) ![](assets/new.png)  
-- [2020-06-24-前端存储除了-localStorage-还有啥](https://toutiao.io/k/ztftz5q) ![](assets/new.png)  
-- [2020-06-24-不要让你的-Java-对象-"逃逸"-了](https://toutiao.io/k/6dxnjaz) ![](assets/new.png)  
-- [2020-06-24-改掉这些坏习惯，还怕写不出精简的代码？（六）](https://toutiao.io/k/8qx7rro) ![](assets/new.png)  
-- [2020-06-24-可能是你见过最好的-React-Hooks-库](https://toutiao.io/k/b8355va) ![](assets/new.png)  
-- [2020-06-24-玩转高性能日志库-ZAP（六）：采样](https://toutiao.io/k/6xkxv6p) ![](assets/new.png)  
-- [2020-06-24-太赞了，这个神器竟然能分分钟将多个-kubeconfig-合并成一个](https://toutiao.io/k/62rnzui) ![](assets/new.png)  
-- [2020-06-24-一篇文章教你从入门到精通-Google-指纹验证功能](https://toutiao.io/k/rd3zt0i) ![](assets/new.png)  
-- [2020-06-24-如何通过-HTTP-协议访问指定版本的-SVN-库内容](https://toutiao.io/k/6fek8ua) ![](assets/new.png)  
-- [2020-06-24-Flink-生态：Pulsar-Connector-机制剖析](https://toutiao.io/k/1m71vvk) ![](assets/new.png)  
-- [2020-06-24-责任链的-2-种实现方式，你更-pick-哪一种](https://toutiao.io/k/cg2uyzj) ![](assets/new.png)  
-- [2020-06-24-撸一个预言机-Oracle-服务，真香！（下篇）](https://toutiao.io/k/0vf9whx) ![](assets/new.png)  
+- [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i)  
+- [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w)  
+- [2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm)  
+- [2020-06-24-前端存储除了-localStorage-还有啥](https://toutiao.io/k/ztftz5q)  
+- [2020-06-24-不要让你的-Java-对象-"逃逸"-了](https://toutiao.io/k/6dxnjaz)  
+- [2020-06-24-改掉这些坏习惯，还怕写不出精简的代码？（六）](https://toutiao.io/k/8qx7rro)  
+- [2020-06-24-可能是你见过最好的-React-Hooks-库](https://toutiao.io/k/b8355va)  
+- [2020-06-24-玩转高性能日志库-ZAP（六）：采样](https://toutiao.io/k/6xkxv6p)  
+- [2020-06-24-太赞了，这个神器竟然能分分钟将多个-kubeconfig-合并成一个](https://toutiao.io/k/62rnzui)  
+- [2020-06-24-一篇文章教你从入门到精通-Google-指纹验证功能](https://toutiao.io/k/rd3zt0i)  
+- [2020-06-24-如何通过-HTTP-协议访问指定版本的-SVN-库内容](https://toutiao.io/k/6fek8ua)  
+- [2020-06-24-Flink-生态：Pulsar-Connector-机制剖析](https://toutiao.io/k/1m71vvk)  
+- [2020-06-24-责任链的-2-种实现方式，你更-pick-哪一种](https://toutiao.io/k/cg2uyzj)  
+- [2020-06-24-撸一个预言机-Oracle-服务，真香！（下篇）](https://toutiao.io/k/0vf9whx)  
 - [2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny)  
 - [2020-06-23-你的-Elasticsearch-难题，官方文档早就有了答案](https://toutiao.io/k/w984lub)  
 - [2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei)  

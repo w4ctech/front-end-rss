@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-24 12:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-24 12:30:21，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1) ![](assets/new.png)  
+- [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
 - [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml)  
 - [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036)  
 - [2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html)  
@@ -587,6 +587,8 @@
 </summary>
 
 
+- [2020-06-24-前端真的有资深工程师吗？](https://www.ershicimi.com/p/76f747e2ef0873e53fc4a5dff47b514e) ![](assets/new.png)  
+- [2020-06-24-如何优雅的实现一个九宫格抽奖](https://www.ershicimi.com/p/d18c914613076172693c9910451ed3e1) ![](assets/new.png)  
 - [2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2)  
 - [2020-06-22-一文助你搞懂-AST](https://www.ershicimi.com/p/b60702c7f4febac074f64e0a98e9baf8)  
 - [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1)  
@@ -605,8 +607,6 @@
 - [2020-06-13-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/c658fec3c2b0baf588aeb893e016069f)  
 - [2020-06-12-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d0e2be76cf7a75e5963e0f7873f5281a)  
 - [2020-06-11-关于这个时间，前端找工作的建议](https://www.ershicimi.com/p/2f375907c50ddbf659ad16b0ff80f35b)  
-- [2020-06-11-你学BFF和Serverless了吗？组内分享](https://www.ershicimi.com/p/289e85d841655b9a9395f28af9f73876)  
-- [2020-06-10-如何快速搭建好看的个人博客完整配置与源码](https://www.ershicimi.com/p/0d276bb0e1d0b58d148af80e2811a5e3)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-24-GitHub-改版了](https://www.v2ex.com/t/684302)  
-- [2020-06-24-请问各位，有没有比较好的可以刷任意网站访客量的程序？](https://www.v2ex.com/t/684301)  
-- [2020-06-24-20200624-午夜俱乐部](https://www.v2ex.com/t/684300)  
-- [2020-06-24-软路由换不同网卡开启-bbr-后表现竟然不一样，点解？](https://www.v2ex.com/t/684299)  
-- [2020-06-24-gin-官方文档的示例代码，变量命名为何要使用单个单词，看起来很不顺眼，是不是不符合代码规范。如`r-:=-gi...](https://www.v2ex.com/t/684298)  
-- [2020-06-24-转租功德林小区带阳台主卧-2975-元每月-房东直租](https://www.v2ex.com/t/684297)  
-- [2020-06-24-iOS14-关于-App-资源库如何自定义请教](https://www.v2ex.com/t/684296)  
-- [2020-06-23-求助-iOS13-安装不了大于-15MB-的描述文件吗？](https://www.v2ex.com/t/684295)  
-- [2020-06-23-小米正在众筹的-27-寸-2k-165HZ-显示器怎么样？有没有懂行的老哥？](https://www.v2ex.com/t/684294)  
-- [2020-06-23-PS4-和-Steam-上的-Ace-Combat-7，你会选哪一个？](https://www.v2ex.com/t/684293)  
-- [2020-06-23-买了绿联-4-口集线器，不能-ADB-调试手机啊](https://www.v2ex.com/t/684292)  
-- [2020-06-23-采集的内容里有以下内容，怎么把这些用正规则替换为空或去掉？](https://www.v2ex.com/t/684291)  
-- [2020-06-23-百元散热器利民-ax120-和-as120-慎入。](https://www.v2ex.com/t/684290)  
-- [2020-06-23-为何我的微信不能登录网页版微信，提示如下图所示？](https://www.v2ex.com/t/684289)  
-- [2020-06-23-springcloud-dubbo-现在哪个用的比较多些？](https://www.v2ex.com/t/684288)  
-- [2020-06-23-北京健康宝的本人健康码状态查询是无内容的？这是什么鬼？](https://www.v2ex.com/t/684287)  
-- [2020-06-23-npm-下载依赖的时候用到-github-的资源下载不了怎么办？](https://www.v2ex.com/t/684285)  
-- [2020-06-23-请教各位大佬，有人在咸鱼上买过雷击木或者紫薇讳牌吗？是真的吗？看着跟淘宝店相差很远。](https://www.v2ex.com/t/684284)  
-- [2020-06-23-来吐槽-iOS-14-&-新功能安利](https://www.v2ex.com/t/684283)  
-- [2020-06-23-MIUI-11-下的-app-没有跟随系统字体的粗细变化，字体看着也很别扭，微信做的跟-MIUI-系统一致，有什么-api-设置吗？](https://www.v2ex.com/t/684282)  
+- [2020-06-24-鉴于手腕疼，想把键盘放到腿上，求推荐一款带触摸板或者鼠标的键盘](https://www.v2ex.com/t/684414) ![](assets/new.png)  
+- [2020-06-24-找回-chrome-消失掉的扩展栏](https://www.v2ex.com/t/684413) ![](assets/new.png)  
+- [2020-06-24-是不是-27-寸-4k-显示器多多少少都有阴阳屏啊？](https://www.v2ex.com/t/684412) ![](assets/new.png)  
+- [2020-06-24-用记事本写代码的人真的比用专业工具写代码的人厉害吗？](https://www.v2ex.com/t/684411) ![](assets/new.png)  
+- [2020-06-24-升级-iOS14-之后，来电显示归属地显示中国大陆是什么鬼](https://www.v2ex.com/t/684410) ![](assets/new.png)  
+- [2020-06-24-Big-Sur-是什么意思？](https://www.v2ex.com/t/684409) ![](assets/new.png)  
+- [2020-06-24-GV-账号又申诉回来了...](https://www.v2ex.com/t/684408) ![](assets/new.png)  
+- [2020-06-24-端午节活动还挺多，分享几个羊毛](https://www.v2ex.com/t/684407) ![](assets/new.png)  
+- [2020-06-24-长文慎点！-Kaggle-比赛的-top2%和金牌到底差距有多大？](https://www.v2ex.com/t/684406) ![](assets/new.png)  
+- [2020-06-24-暂不敢升-Big-Sur-的朋友，先来拿壁纸玩玩吧](https://www.v2ex.com/t/684405) ![](assets/new.png)  
+- [2020-06-24-关于-macOS-Bug-sur-一些机型用-iTerm2-等第三方终端卡住的问题](https://www.v2ex.com/t/684404) ![](assets/new.png)  
+- [2020-06-24-字节跳动校招提前批技术岗位来袭](https://www.v2ex.com/t/684403) ![](assets/new.png)  
+- [2020-06-24-🔥新加坡-技术移民机会-中文视频面试-纽交所上市大型互联网公司，热招后台开发工程师，平台开发工程师（云平台，中间件，分布式存储等方向），数据/大数...](https://www.v2ex.com/t/684401) ![](assets/new.png)  
+- [2020-06-24-为什么摸鱼有种罪恶感呢](https://www.v2ex.com/t/684400) ![](assets/new.png)  
+- [2020-06-24-ios14-的插件不会刷新](https://www.v2ex.com/t/684399) ![](assets/new.png)  
+- [2020-06-24-Line-国内不走-FCM-如何保证消息推送？](https://www.v2ex.com/t/684398) ![](assets/new.png)  
+- [2020-06-24-bbr-plus-等玩意是否加剧了公地悲剧？](https://www.v2ex.com/t/684397) ![](assets/new.png)  
+- [2020-06-24-springboot-集成-RabbitMQ-的问题](https://www.v2ex.com/t/684395) ![](assets/new.png)  
+- [2020-06-24-鹅厂正式硬钢拼夕夕](https://www.v2ex.com/t/684394) ![](assets/new.png)  
+- [2020-06-24-你们的-Mac-版微信可以打开小程序吗，我看说-2.4.1-已经支持了，为什么我还是不行](https://www.v2ex.com/t/684393) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

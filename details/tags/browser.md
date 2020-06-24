@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -63,6 +63,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-24-Big-Sur-的-safari-支持-youtube-的-4k-了吗？](https://www.v2ex.com/t/684441) 
+- [2020-06-24-Chrome-插件“扩展管理器Extension-Manager”开始在后台标签页偷偷弹广告](https://www.v2ex.com/t/684433) 
 - [2020-06-24-找回-chrome-消失掉的扩展栏](https://www.v2ex.com/t/684413) 
 - [2020-06-23-买了绿联-4-口集线器，不能-ADB-调试手机啊](https://www.v2ex.com/t/684292) 
 - [2020-06-23-通过-websocket-ssh-登录到-k8s-的-pod，如何禁止一些危险命令？](https://www.v2ex.com/t/684261) 

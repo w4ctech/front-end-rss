@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-24 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1427,6 +1427,7 @@
 - [2020-05-22-不可错过的实用前端工具](https://www.ershicimi.com/p/3262dfba4696ddb8d8f9b63d72368141) 
 - [2020-05-21-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/690d10bde1089d27962b28d29883cde3) 
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
+- [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html) 
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html) 
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html) 
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html) 
@@ -4760,6 +4761,15 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i) 
+- [2020-06-24-前端存储除了-localStorage-还有啥](https://toutiao.io/k/ztftz5q) 
+- [2020-06-24-不要让你的-Java-对象-"逃逸"-了](https://toutiao.io/k/6dxnjaz) 
+- [2020-06-24-改掉这些坏习惯，还怕写不出精简的代码？（六）](https://toutiao.io/k/8qx7rro) 
+- [2020-06-24-太赞了，这个神器竟然能分分钟将多个-kubeconfig-合并成一个](https://toutiao.io/k/62rnzui) 
+- [2020-06-24-一篇文章教你从入门到精通-Google-指纹验证功能](https://toutiao.io/k/rd3zt0i) 
+- [2020-06-24-Flink-生态：Pulsar-Connector-机制剖析](https://toutiao.io/k/1m71vvk) 
+- [2020-06-24-责任链的-2-种实现方式，你更-pick-哪一种](https://toutiao.io/k/cg2uyzj) 
+- [2020-06-24-撸一个预言机-Oracle-服务，真香！（下篇）](https://toutiao.io/k/0vf9whx) 
 - [2020-06-23-译-重新设计-Facebook-的数据中心网络-2019](https://toutiao.io/k/wtj2cny) 
 - [2020-06-23-设备集群上的-Kubernetes](https://toutiao.io/k/turliei) 
 - [2020-06-23-聊聊职业发展路径](https://toutiao.io/k/0ygarv0) 

@@ -10884,6 +10884,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 113 期）：暴力犯罪为什么越来越少？",
+        "link": "http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html",
+        "date": "2020-06-24"
+      },
+      {
         "title": "安卓手机系统连接电视，最好的方案是什么？",
         "link": "http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html",
         "date": "2020-06-21"
@@ -33869,6 +33874,76 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "费曼学习法：终极学习法",
+        "link": "https://toutiao.io/k/8tcc27i",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "分分钟教会你搭建企业级的 npm 私有仓库",
+        "link": "https://toutiao.io/k/kcb546w",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "独孤九剑：算法模型训练的一般流程",
+        "link": "https://toutiao.io/k/a9uppjm",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "前端存储除了 localStorage 还有啥",
+        "link": "https://toutiao.io/k/ztftz5q",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "不要让你的 Java 对象 \"逃逸\" 了",
+        "link": "https://toutiao.io/k/6dxnjaz",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "改掉这些坏习惯，还怕写不出精简的代码？（六）",
+        "link": "https://toutiao.io/k/8qx7rro",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "可能是你见过最好的 React Hooks 库",
+        "link": "https://toutiao.io/k/b8355va",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "玩转高性能日志库 ZAP（六）：采样",
+        "link": "https://toutiao.io/k/6xkxv6p",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "太赞了，这个神器竟然能分分钟将多个 kubeconfig 合并成一个",
+        "link": "https://toutiao.io/k/62rnzui",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "一篇文章教你从入门到精通 Google 指纹验证功能",
+        "link": "https://toutiao.io/k/rd3zt0i",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "如何通过 HTTP 协议访问指定版本的 SVN 库内容",
+        "link": "https://toutiao.io/k/6fek8ua",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "Flink 生态：Pulsar Connector 机制剖析",
+        "link": "https://toutiao.io/k/1m71vvk",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "责任链的 2 种实现方式，你更 pick 哪一种",
+        "link": "https://toutiao.io/k/cg2uyzj",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "撸一个预言机 (Oracle) 服务，真香！（下篇）",
+        "link": "https://toutiao.io/k/0vf9whx",
+        "date": "2020-06-24"
+      },
       {
         "title": "[译] 重新设计 Facebook 的数据中心网络 (2019)",
         "link": "https://toutiao.io/k/wtj2cny",

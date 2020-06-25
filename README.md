@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 08:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 08:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [知乎日报](#知乎日报)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
 - [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1)  
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
 - [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1)  
@@ -1017,16 +1017,16 @@
 </summary>
 
 
-- [2020-06-24-知乎-20-万+-人关注：有哪些简单又值得坚持的好习惯？](https://www.ershicimi.com/p/c0b6e09a90bb90aadfea1a1e98f3d21b) ![](assets/new.png)  
-- [2020-06-24-爱因斯坦去世不到-7-个小时大脑就被变态医生偷走「研究」了几十年，这背后隐藏了什么秘密？](https://www.ershicimi.com/p/57ea0f868c6359fcd2a5d5c14e0e75ea) ![](assets/new.png)  
-- [2020-06-24-知乎故事-|-双向暗恋是一种怎样的体验？](https://www.ershicimi.com/p/c02e680e5967d4a0682d39b48fad03c6) ![](assets/new.png)  
-- [2020-06-23-二十六载终组网，中国北斗，值得每个人骄傲！](https://www.ershicimi.com/p/a3f15bbc2eb140f90659adc5f821f5a9) ![](assets/new.png)  
-- [2020-06-23-iOS-14-将有大变化？！苹果最新开发者大会，看这一篇就够了](https://www.ershicimi.com/p/f4fe09c594a78b317ce87ba099de09e7) ![](assets/new.png)  
-- [2020-06-23-你把时间放在哪儿，收获就在哪儿](https://www.ershicimi.com/p/ac187d2f82e3240765b1e0fbec162809) ![](assets/new.png)  
-- [2020-06-23-知乎故事-|-我的婚礼被伴娘「毁了」](https://www.ershicimi.com/p/91d90829e6e90ca2839d9d5cc2cd7b37) ![](assets/new.png)  
-- [2020-06-22-作为医生，我希望每个人都能牢记这-6-个生理知识](https://www.ershicimi.com/p/9f5d077f5d209f1f5171c6b9259f0fa6) ![](assets/new.png)  
-- [2020-06-22-8-位「时尚盐究员」带你变身这条街上最靓的仔](https://www.ershicimi.com/p/6387422503b5c4767478311850d4dd66) ![](assets/new.png)  
-- [2020-06-22-为什么有些人年纪轻轻却思想深度远高于常人？](https://www.ershicimi.com/p/cc5c2e6a5cd0db8ffa0bc5310278f45a) ![](assets/new.png)  
+- [2020-06-24-知乎-20-万+-人关注：有哪些简单又值得坚持的好习惯？](https://www.ershicimi.com/p/c0b6e09a90bb90aadfea1a1e98f3d21b)  
+- [2020-06-24-爱因斯坦去世不到-7-个小时大脑就被变态医生偷走「研究」了几十年，这背后隐藏了什么秘密？](https://www.ershicimi.com/p/57ea0f868c6359fcd2a5d5c14e0e75ea)  
+- [2020-06-24-知乎故事-|-双向暗恋是一种怎样的体验？](https://www.ershicimi.com/p/c02e680e5967d4a0682d39b48fad03c6)  
+- [2020-06-23-二十六载终组网，中国北斗，值得每个人骄傲！](https://www.ershicimi.com/p/a3f15bbc2eb140f90659adc5f821f5a9)  
+- [2020-06-23-iOS-14-将有大变化？！苹果最新开发者大会，看这一篇就够了](https://www.ershicimi.com/p/f4fe09c594a78b317ce87ba099de09e7)  
+- [2020-06-23-你把时间放在哪儿，收获就在哪儿](https://www.ershicimi.com/p/ac187d2f82e3240765b1e0fbec162809)  
+- [2020-06-23-知乎故事-|-我的婚礼被伴娘「毁了」](https://www.ershicimi.com/p/91d90829e6e90ca2839d9d5cc2cd7b37)  
+- [2020-06-22-作为医生，我希望每个人都能牢记这-6-个生理知识](https://www.ershicimi.com/p/9f5d077f5d209f1f5171c6b9259f0fa6)  
+- [2020-06-22-8-位「时尚盐究员」带你变身这条街上最靓的仔](https://www.ershicimi.com/p/6387422503b5c4767478311850d4dd66)  
+- [2020-06-22-为什么有些人年纪轻轻却思想深度远高于常人？](https://www.ershicimi.com/p/cc5c2e6a5cd0db8ffa0bc5310278f45a)  
 - [2020-06-20-知乎神吐槽-|-怎样能看出一个人「开车」水平高低？](https://www.ershicimi.com/p/dcfd447f88d71e924ca2977f4ef54c9b)  
 - [2020-06-20-电影院不开门的日子，我们承包你的小荧幕！从零到一，认识导演](https://www.ershicimi.com/p/49012f28934535a7d1d77281c41d52de)  
 - [2020-06-20-知乎故事-|-平淡如水的生活幸福吗？](https://www.ershicimi.com/p/3787e74cd47ce93e230232317c741d15)  
@@ -1048,6 +1048,16 @@
 </summary>
 
 
+- [2020-06-25-IIJ-公共-DNS-已完全支持-DoH、DoT-以及-DNSSEC](https://www.v2ex.com/t/684620) ![](assets/new.png)  
+- [2020-06-25-家庭组网-UBNT-ER-X-做主路由-Velop-桥接模式做-AP-可以实现-WIFI-漫游吗？](https://www.v2ex.com/t/684619) ![](assets/new.png)  
+- [2020-06-25-通过路由器-SSH-加速-Switch-的一众游戏加速器，是如何做到的呢？技术原理如何呢？](https://www.v2ex.com/t/684618) ![](assets/new.png)  
+- [2020-06-25-cnpm-命令用不了,用了就报错-,电脑是-win10,,用-npm-和-yarn-都正常.执行-cnpm--v-也能看到-cnpm-版本号.](https://www.v2ex.com/t/684616) ![](assets/new.png)  
+- [2020-06-25-NestJS-怎么实现依靠-URL-前缀-'/admin'-和-'/app'-分别挂载两个不同-Module-从而实现区分-api-合集的逻辑...](https://www.v2ex.com/t/684614) ![](assets/new.png)  
+- [2020-06-25-转租昌平龙锦苑东三区次卧](https://www.v2ex.com/t/684613) ![](assets/new.png)  
+- [2020-06-25-向工信部投诉-ISP-的-DNS-劫持需要准备什么证据？](https://www.v2ex.com/t/684612) ![](assets/new.png)  
+- [2020-06-25-Win10-下火绒多次后台大量占用-CPU，调出任务管理器又悄然下降？](https://www.v2ex.com/t/684611) ![](assets/new.png)  
+- [2020-06-25-小米集团国际总部落地深圳-拟投资-77.6-亿元](https://www.v2ex.com/t/684610) ![](assets/new.png)  
+- [2020-06-25-WWDC-2020-所有新技术的介绍视频全集](https://www.v2ex.com/t/684609) ![](assets/new.png)  
 - [2020-06-25-Mac-更新到-Catalina-10.15.5-以后边充边掉电？](https://www.v2ex.com/t/684607)  
 - [2020-06-25-我在北京，昨天客户让我去大兴区公安局那边联调接口，一共三个接口，怎么调用都给他说了，他也试过了没啥问...](https://www.v2ex.com/t/684606)  
 - [2020-06-25-为什么现在就开始招聘-2021-届毕业生了？](https://www.v2ex.com/t/684605)  
@@ -1058,16 +1068,6 @@
 - [2020-06-25-请问有-360-的人在这里吗?求助](https://www.v2ex.com/t/684600)  
 - [2020-06-25-腾讯-PCG-的社交平台产品部怎么样](https://www.v2ex.com/t/684599)  
 - [2020-06-25-非主流域名邮箱发送邮件进垃圾箱的问题有办法解决吗](https://www.v2ex.com/t/684598)  
-- [2020-06-25-为什么-html-不使用类似的-<include>...</include>-这样的模板语法？](https://www.v2ex.com/t/684597)  
-- [2020-06-25-个人向问题-啥才是技术，啥是核心竞争力？](https://www.v2ex.com/t/684596)  
-- [2020-06-25-flask-路由问题](https://www.v2ex.com/t/684595)  
-- [2020-06-24-深圳拔牙记](https://www.v2ex.com/t/684594)  
-- [2020-06-24-gcloud-1G-内存，装了点-mysql，然后装了点-gitlab-ce，直接卡死了。](https://www.v2ex.com/t/684593)  
-- [2020-06-24-悬赏后续-部分需求已通过-netdata-的-API-实现-只差磁盘-IO-问题](https://www.v2ex.com/t/684592)  
-- [2020-06-24-BIG-SUR-升级失败，已变砖](https://www.v2ex.com/t/684591)  
-- [2020-06-24-Linux-有负载率没有-CPU-占用没有磁盘-IO-等待，怎么排查问题](https://www.v2ex.com/t/684590)  
-- [2020-06-24-买台-NUC-做电视机顶盒有可行性吗？](https://www.v2ex.com/t/684589)  
-- [2020-06-24-全职实习内推上海字节跳动---ACG-业务线---急招-PM-|-推荐-|-研发](https://www.v2ex.com/t/684588)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 11:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 12:00:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml) ![](assets/new.png)  
-- [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-河北雄安新区加强疫情防控工作-保障重点工程项目建设](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml)  
+- [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1)  
 - [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822)  
 - [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304)  
 - [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
 - [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml)  
 - [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036)  
-- [2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-25-IIJ-公共-DNS-已完全支持-DoH、DoT-以及-DNSSEC](https://www.v2ex.com/t/684620)  
-- [2020-06-25-家庭组网-UBNT-ER-X-做主路由-Velop-桥接模式做-AP-可以实现-WIFI-漫游吗？](https://www.v2ex.com/t/684619)  
-- [2020-06-25-通过路由器-SSH-加速-Switch-的一众游戏加速器，是如何做到的呢？技术原理如何呢？](https://www.v2ex.com/t/684618)  
-- [2020-06-25-cnpm-命令用不了,用了就报错-,电脑是-win10,,用-npm-和-yarn-都正常.执行-cnpm--v-也能看到-cnpm-版本号.](https://www.v2ex.com/t/684616)  
-- [2020-06-25-NestJS-怎么实现依靠-URL-前缀-'/admin'-和-'/app'-分别挂载两个不同-Module-从而实现区分-api-合集的逻辑...](https://www.v2ex.com/t/684614)  
-- [2020-06-25-转租昌平龙锦苑东三区次卧](https://www.v2ex.com/t/684613)  
-- [2020-06-25-向工信部投诉-ISP-的-DNS-劫持需要准备什么证据？](https://www.v2ex.com/t/684612)  
-- [2020-06-25-Win10-下火绒多次后台大量占用-CPU，调出任务管理器又悄然下降？](https://www.v2ex.com/t/684611)  
-- [2020-06-25-小米集团国际总部落地深圳-拟投资-77.6-亿元](https://www.v2ex.com/t/684610)  
-- [2020-06-25-WWDC-2020-所有新技术的介绍视频全集](https://www.v2ex.com/t/684609)  
-- [2020-06-25-Mac-更新到-Catalina-10.15.5-以后边充边掉电？](https://www.v2ex.com/t/684607)  
-- [2020-06-25-我在北京，昨天客户让我去大兴区公安局那边联调接口，一共三个接口，怎么调用都给他说了，他也试过了没啥问...](https://www.v2ex.com/t/684606)  
-- [2020-06-25-为什么现在就开始招聘-2021-届毕业生了？](https://www.v2ex.com/t/684605)  
-- [2020-06-25-帅哥们求一套能搞-AE-的电脑配置](https://www.v2ex.com/t/684604)  
-- [2020-06-25-许多卡/Stocard-在-Apple-Wallet-加卡-有没有办法不重叠？](https://www.v2ex.com/t/684603)  
-- [2020-06-25-单纯地问一下。大家有把自己的手机系统换成英文的吗？](https://www.v2ex.com/t/684602)  
-- [2020-06-25-朋友主机用了-2-年，说要-3000-卖我，帮忙看看配置价钱匹配不？](https://www.v2ex.com/t/684601)  
-- [2020-06-25-请问有-360-的人在这里吗?求助](https://www.v2ex.com/t/684600)  
-- [2020-06-25-腾讯-PCG-的社交平台产品部怎么样](https://www.v2ex.com/t/684599)  
-- [2020-06-25-非主流域名邮箱发送邮件进垃圾箱的问题有办法解决吗](https://www.v2ex.com/t/684598)  
+- [2020-06-25-最近梯子坏了，想换一个什么牌子的比较好](https://www.v2ex.com/t/684656) ![](assets/new.png)  
+- [2020-06-25-手机使用-v2erAPP-访问非常慢，爬墙后很流畅](https://www.v2ex.com/t/684655) ![](assets/new.png)  
+- [2020-06-25-升级了-macOS-Big-Sur，聊一下几点感受](https://www.v2ex.com/t/684654) ![](assets/new.png)  
+- [2020-06-25-System.Security.Cryptography-中计算文件-md5-值，-File.OpenRead-加了-BufferedStream-之后，计算出来值...](https://www.v2ex.com/t/684653) ![](assets/new.png)  
+- [2020-06-25-白嫖到两张光纤通道卡，这玩意可以用来给-NAS-扩充盘位吗？](https://www.v2ex.com/t/684652) ![](assets/new.png)  
+- [2020-06-25-APFS-恢复的问题，雷电-3-硬盘有没有-trim？格式化后还能恢复吗？](https://www.v2ex.com/t/684651) ![](assets/new.png)  
+- [2020-06-25-lsattr-里边的-e-属性是什么意思](https://www.v2ex.com/t/684648) ![](assets/new.png)  
+- [2020-06-25-ThinkPHPV6.0.3-版本发布——端午安康](https://www.v2ex.com/t/684646) ![](assets/new.png)  
+- [2020-06-25-iOS-美区的-billing-address-有什么用？](https://www.v2ex.com/t/684644) ![](assets/new.png)  
+- [2020-06-25-廉价骨传导耳机是否值得入手？](https://www.v2ex.com/t/684643) ![](assets/new.png)  
+- [2020-06-25-ipados14-有没有给妙控键盘控制亮度声音的快捷键？](https://www.v2ex.com/t/684642) ![](assets/new.png)  
+- [2020-06-25-pac-里关于-V2EX-的规则有点迷糊](https://www.v2ex.com/t/684641) ![](assets/new.png)  
+- [2020-06-25-visual-studio-项目文件过多，很卡怎么解决](https://www.v2ex.com/t/684640) ![](assets/new.png)  
+- [2020-06-25-搬运-饿了么外卖-满减券分享](https://www.v2ex.com/t/684639) ![](assets/new.png)  
+- [2020-06-25-.net-/core/C#-进阶书籍推荐](https://www.v2ex.com/t/684638) ![](assets/new.png)  
+- [2020-06-25-原创视频：-iOS-14-Beta-1-小改动梳理](https://www.v2ex.com/t/684636) ![](assets/new.png)  
+- [2020-06-25-Big-Sur-偏好设置锁头的密码永远输不对，不知道是个例还是都有这个问题？](https://www.v2ex.com/t/684634) ![](assets/new.png)  
+- [2020-06-25-你们-mbp-上的-idea-会卡顿吗？](https://www.v2ex.com/t/684632) ![](assets/new.png)  
+- [2020-06-25-招远程-Web-开发-golang-全职](https://www.v2ex.com/t/684631) ![](assets/new.png)  
+- [2020-06-25-youtube-广告真是丧心病狂了](https://www.v2ex.com/t/684630) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

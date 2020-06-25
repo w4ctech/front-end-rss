@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 16:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-25-确诊外卖小哥的妻子和小孩核酸阴性](https://m.weibo.cn/3057540037/4519688631648659) ![](assets/new.png)  
+- [2020-06-25-北京大兴一名60岁女子确诊，前四次核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3SjhMn8wkWcTfSlMKEZi200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-确诊外卖小哥的妻子和小孩核酸阴性](https://m.weibo.cn/3057540037/4519688631648659)  
 - [2020-06-25-河北雄安新区加强疫情防控工作-保障重点工程项目建设](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1)  
 - [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml)  
 - [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1)  
 - [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1)  
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
-- [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

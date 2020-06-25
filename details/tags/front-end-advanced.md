@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -41,6 +41,7 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2020-06-09-【前端冷知识】如何写一个用GPU来抽奖的程序](https://www.ershicimi.com/p/9fb9af012b0180646d185dcb36bd75f1) 
+- [2020-06-24-“前端+后端+算法”标准是越来越高，算法工程师的技能危机如何破局？|-Q推荐](https://www.ershicimi.com/p/4adcc53623a87ba5756bd4a5f799a7bf) 
 - [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9) 
 - [2020-06-13-GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部](https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212) 
 - [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a) 

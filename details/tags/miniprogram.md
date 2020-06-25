@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -43,6 +43,7 @@
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
 - [2020-06-02-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/2621180cfea5de12b0c8c838ab136c78) 
+- [2020-06-24-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/a8428c16bd7a66ab355093efdbe5b73a) 
 - [2020-06-19-开发者注意！想让你的小程序地图也做到微信原生般流畅体验吗？|-Q推荐](https://www.ershicimi.com/p/fcb27b142a54ce4605c11eb9b543662b) 
 - [2020-06-16-小程序canvas绘制海报](https://juejin.im/post/5ed791876fb9a047a2269e38) 
 - [2020-06-15-小程序获取手机号——小程序入门与实战（15）](https://juejin.im/post/5ee6e23af265da76f44e5e84) 

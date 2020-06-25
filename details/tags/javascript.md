@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 08:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -101,6 +101,7 @@
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 
 - [2020-06-03-Dubbo-2.7.7-发布，FastJson-升级了！](https://www.ershicimi.com/p/ecb667bcefac670083cf68858f714327) 
 - [2020-05-31-它又又又来了，Fastjson-最新高危漏洞来袭！快升级吧](https://www.ershicimi.com/p/5e22be7a575eaa9e07ebd3ef9b780f3d) 
+- [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241) 
 - [2020-06-22-多场景适配，TNN如何优化模型部署的存储与计算？](https://www.ershicimi.com/p/218760e03fbfd5036fd94c731920fe93) 
 - [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c) 
 - [2020-06-08-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/f36ddf5a9d63d0745fb59c2f01ff3ec1) 

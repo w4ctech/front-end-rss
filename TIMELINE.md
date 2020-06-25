@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1) 
@@ -1049,6 +1051,11 @@
 - [【互联网架构师】2020-06-01-我是培训机构出身的程序员，不敢告诉任何人](https://www.ershicimi.com/p/7434634114a73545e0e94169ead4977c) 
 - [【互联网架构师】2020-06-01-Spring-IOC-知识点总结，写得太好了！](https://www.ershicimi.com/p/24a180e7fe3f5627dfc5c03ec9f323d4) 
 - [【互联网架构师】2020-06-01-如何采集Nginx的日志？](https://www.ershicimi.com/p/840dc7e5d68d7bad6682c681ad853d9f) 
+- [【InfoQ】2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241) 
+- [【InfoQ】2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22) 
+- [【InfoQ】2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f) 
+- [【InfoQ】2020-06-24-“前端+后端+算法”标准是越来越高，算法工程师的技能危机如何破局？|-Q推荐](https://www.ershicimi.com/p/4adcc53623a87ba5756bd4a5f799a7bf) 
+- [【InfoQ】2020-06-24-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/a8428c16bd7a66ab355093efdbe5b73a) 
 - [【InfoQ】2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a) 
 - [【InfoQ】2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d) 
 - [【InfoQ】2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48) 

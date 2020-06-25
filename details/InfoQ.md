@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-06-24 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241) 
+- [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22) 
+- [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f) 
+- [2020-06-24-“前端+后端+算法”标准是越来越高，算法工程师的技能危机如何破局？|-Q推荐](https://www.ershicimi.com/p/4adcc53623a87ba5756bd4a5f799a7bf) 
+- [2020-06-24-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/a8428c16bd7a66ab355093efdbe5b73a) 
 - [2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a) 
 - [2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d) 
 - [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48) 

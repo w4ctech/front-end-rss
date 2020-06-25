@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 08:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 09:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,14 +44,14 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822) ![](assets/new.png)  
+- [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304) ![](assets/new.png)  
 - [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
 - [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1)  
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html)  
 - [2020-06-24-国家卫健委：6月23日新增新冠肺炎确诊病例12例，其中本土病例9例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimYLRz6bX0F8xwjG5N3G3200624&isfromapp=1)  
 - [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1)  
-- [2020-06-24-世卫组织：全球新增新冠肺炎确诊病例133326例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtfNQlOXhOVSGhiwOJUN200624&isfromapp=1)  
-- [2020-06-24-国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -861,6 +861,11 @@
 </summary>
 
 
+- [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241) ![](assets/new.png)  
+- [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22) ![](assets/new.png)  
+- [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f) ![](assets/new.png)  
+- [2020-06-24-“前端+后端+算法”标准是越来越高，算法工程师的技能危机如何破局？|-Q推荐](https://www.ershicimi.com/p/4adcc53623a87ba5756bd4a5f799a7bf) ![](assets/new.png)  
+- [2020-06-24-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/a8428c16bd7a66ab355093efdbe5b73a) ![](assets/new.png)  
 - [2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a)  
 - [2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d)  
 - [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48)  
@@ -876,11 +881,6 @@
 - [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa)  
 - [2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f)  
 - [2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5)  
-- [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)  
-- [2020-06-20-Spark-3.0开发近两年终于发布，流、Python、SQL重大更新详解](https://www.ershicimi.com/p/9578510d3fdbf402a2d59524ab3ac2ba)  
-- [2020-06-20-“容器化”大行其道，正在催生新的应用业务价值](https://www.ershicimi.com/p/c28169b843f0ba5baac19a2a4ab15a3e)  
-- [2020-06-20-拒绝交30%的“苹果税”，苹果威胁移除邮件App-“Hey”](https://www.ershicimi.com/p/eb58433fbe759b2e862a5219cda82d11)  
-- [2020-06-20-开发人员都应该了解的7种JavaScript设计模式](https://www.ershicimi.com/p/b71c2d4cd7b389342aef29b1b2e0de9c)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,16 +1048,16 @@
 </summary>
 
 
-- [2020-06-25-IIJ-公共-DNS-已完全支持-DoH、DoT-以及-DNSSEC](https://www.v2ex.com/t/684620) ![](assets/new.png)  
-- [2020-06-25-家庭组网-UBNT-ER-X-做主路由-Velop-桥接模式做-AP-可以实现-WIFI-漫游吗？](https://www.v2ex.com/t/684619) ![](assets/new.png)  
-- [2020-06-25-通过路由器-SSH-加速-Switch-的一众游戏加速器，是如何做到的呢？技术原理如何呢？](https://www.v2ex.com/t/684618) ![](assets/new.png)  
-- [2020-06-25-cnpm-命令用不了,用了就报错-,电脑是-win10,,用-npm-和-yarn-都正常.执行-cnpm--v-也能看到-cnpm-版本号.](https://www.v2ex.com/t/684616) ![](assets/new.png)  
-- [2020-06-25-NestJS-怎么实现依靠-URL-前缀-'/admin'-和-'/app'-分别挂载两个不同-Module-从而实现区分-api-合集的逻辑...](https://www.v2ex.com/t/684614) ![](assets/new.png)  
-- [2020-06-25-转租昌平龙锦苑东三区次卧](https://www.v2ex.com/t/684613) ![](assets/new.png)  
-- [2020-06-25-向工信部投诉-ISP-的-DNS-劫持需要准备什么证据？](https://www.v2ex.com/t/684612) ![](assets/new.png)  
-- [2020-06-25-Win10-下火绒多次后台大量占用-CPU，调出任务管理器又悄然下降？](https://www.v2ex.com/t/684611) ![](assets/new.png)  
-- [2020-06-25-小米集团国际总部落地深圳-拟投资-77.6-亿元](https://www.v2ex.com/t/684610) ![](assets/new.png)  
-- [2020-06-25-WWDC-2020-所有新技术的介绍视频全集](https://www.v2ex.com/t/684609) ![](assets/new.png)  
+- [2020-06-25-IIJ-公共-DNS-已完全支持-DoH、DoT-以及-DNSSEC](https://www.v2ex.com/t/684620)  
+- [2020-06-25-家庭组网-UBNT-ER-X-做主路由-Velop-桥接模式做-AP-可以实现-WIFI-漫游吗？](https://www.v2ex.com/t/684619)  
+- [2020-06-25-通过路由器-SSH-加速-Switch-的一众游戏加速器，是如何做到的呢？技术原理如何呢？](https://www.v2ex.com/t/684618)  
+- [2020-06-25-cnpm-命令用不了,用了就报错-,电脑是-win10,,用-npm-和-yarn-都正常.执行-cnpm--v-也能看到-cnpm-版本号.](https://www.v2ex.com/t/684616)  
+- [2020-06-25-NestJS-怎么实现依靠-URL-前缀-'/admin'-和-'/app'-分别挂载两个不同-Module-从而实现区分-api-合集的逻辑...](https://www.v2ex.com/t/684614)  
+- [2020-06-25-转租昌平龙锦苑东三区次卧](https://www.v2ex.com/t/684613)  
+- [2020-06-25-向工信部投诉-ISP-的-DNS-劫持需要准备什么证据？](https://www.v2ex.com/t/684612)  
+- [2020-06-25-Win10-下火绒多次后台大量占用-CPU，调出任务管理器又悄然下降？](https://www.v2ex.com/t/684611)  
+- [2020-06-25-小米集团国际总部落地深圳-拟投资-77.6-亿元](https://www.v2ex.com/t/684610)  
+- [2020-06-25-WWDC-2020-所有新技术的介绍视频全集](https://www.v2ex.com/t/684609)  
 - [2020-06-25-Mac-更新到-Catalina-10.15.5-以后边充边掉电？](https://www.v2ex.com/t/684607)  
 - [2020-06-25-我在北京，昨天客户让我去大兴区公安局那边联调接口，一共三个接口，怎么调用都给他说了，他也试过了没啥问...](https://www.v2ex.com/t/684606)  
 - [2020-06-25-为什么现在就开始招聘-2021-届毕业生了？](https://www.v2ex.com/t/684605)  

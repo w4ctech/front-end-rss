@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -884,6 +884,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1) 
 - [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822) 
 - [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304) 
 - [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1) 

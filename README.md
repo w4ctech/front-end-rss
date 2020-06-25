@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 10:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 11:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml) ![](assets/new.png)  
+- [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1) ![](assets/new.png)  
 - [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822)  
 - [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304)  
 - [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml)  
 - [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036)  
 - [2020-06-24-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200624_1931450.html)  
-- [2020-06-24-国家卫健委：6月23日新增新冠肺炎确诊病例12例，其中本土病例9例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimYLRz6bX0F8xwjG5N3G3200624&isfromapp=1)  
-- [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1110,16 +1110,16 @@
 </summary>
 
 
-- [2020-06-25-一文助你搞懂-AST](https://toutiao.io/k/s9zqtl6) ![](assets/new.png)  
-- [2020-06-25-Regression-Tree-回归树](https://toutiao.io/k/qnnjdl9) ![](assets/new.png)  
-- [2020-06-25-Android-上的-WebRTC：多设备如何启用硬件编码？（二）](https://toutiao.io/k/mvlgniq) ![](assets/new.png)  
-- [2020-06-25-高并发口罩抢购项目架构演进记录-&-优化经验分享](https://toutiao.io/k/6mwgw9b) ![](assets/new.png)  
-- [2020-06-25-程序员如何升职加薪？|-码农周刊第-310-期](https://toutiao.io/k/n70fndb) ![](assets/new.png)  
-- [2020-06-25-美信拓扑创始人一乐：如何登山不是最重要的问题，山峰才是](https://toutiao.io/k/vb4eifw) ![](assets/new.png)  
-- [2020-06-25-Go-泛型是怎么实现的？](https://toutiao.io/k/o07xtru) ![](assets/new.png)  
-- [2020-06-25-Vue-微前端-&-微服务解决方案，Genesis-对远程组件进一步的设计和思考](https://toutiao.io/k/mnxzihb) ![](assets/new.png)  
-- [2020-06-25-你的-docker-stop，它优雅吗？](https://toutiao.io/k/xfyregg) ![](assets/new.png)  
-- [2020-06-25-ACK-简史（一）：开篇之-Kafka](https://toutiao.io/k/2l7pbjq) ![](assets/new.png)  
+- [2020-06-25-一文助你搞懂-AST](https://toutiao.io/k/s9zqtl6)  
+- [2020-06-25-Regression-Tree-回归树](https://toutiao.io/k/qnnjdl9)  
+- [2020-06-25-Android-上的-WebRTC：多设备如何启用硬件编码？（二）](https://toutiao.io/k/mvlgniq)  
+- [2020-06-25-高并发口罩抢购项目架构演进记录-&-优化经验分享](https://toutiao.io/k/6mwgw9b)  
+- [2020-06-25-程序员如何升职加薪？|-码农周刊第-310-期](https://toutiao.io/k/n70fndb)  
+- [2020-06-25-美信拓扑创始人一乐：如何登山不是最重要的问题，山峰才是](https://toutiao.io/k/vb4eifw)  
+- [2020-06-25-Go-泛型是怎么实现的？](https://toutiao.io/k/o07xtru)  
+- [2020-06-25-Vue-微前端-&-微服务解决方案，Genesis-对远程组件进一步的设计和思考](https://toutiao.io/k/mnxzihb)  
+- [2020-06-25-你的-docker-stop，它优雅吗？](https://toutiao.io/k/xfyregg)  
+- [2020-06-25-ACK-简史（一）：开篇之-Kafka](https://toutiao.io/k/2l7pbjq)  
 - [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti)  
 - [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm)  
 - [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9)  

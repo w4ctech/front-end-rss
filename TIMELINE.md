@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-25 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1) 
@@ -1410,6 +1411,16 @@
 - [【掘金前端】2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677) 
 - [【掘金前端】2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9) 
 - [【掘金前端】2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
+- [【知乎日报】2020-06-24-知乎-20-万+-人关注：有哪些简单又值得坚持的好习惯？](https://www.ershicimi.com/p/c0b6e09a90bb90aadfea1a1e98f3d21b) 
+- [【知乎日报】2020-06-24-爱因斯坦去世不到-7-个小时大脑就被变态医生偷走「研究」了几十年，这背后隐藏了什么秘密？](https://www.ershicimi.com/p/57ea0f868c6359fcd2a5d5c14e0e75ea) 
+- [【知乎日报】2020-06-24-知乎故事-|-双向暗恋是一种怎样的体验？](https://www.ershicimi.com/p/c02e680e5967d4a0682d39b48fad03c6) 
+- [【知乎日报】2020-06-23-二十六载终组网，中国北斗，值得每个人骄傲！](https://www.ershicimi.com/p/a3f15bbc2eb140f90659adc5f821f5a9) 
+- [【知乎日报】2020-06-23-iOS-14-将有大变化？！苹果最新开发者大会，看这一篇就够了](https://www.ershicimi.com/p/f4fe09c594a78b317ce87ba099de09e7) 
+- [【知乎日报】2020-06-23-你把时间放在哪儿，收获就在哪儿](https://www.ershicimi.com/p/ac187d2f82e3240765b1e0fbec162809) 
+- [【知乎日报】2020-06-23-知乎故事-|-我的婚礼被伴娘「毁了」](https://www.ershicimi.com/p/91d90829e6e90ca2839d9d5cc2cd7b37) 
+- [【知乎日报】2020-06-22-作为医生，我希望每个人都能牢记这-6-个生理知识](https://www.ershicimi.com/p/9f5d077f5d209f1f5171c6b9259f0fa6) 
+- [【知乎日报】2020-06-22-8-位「时尚盐究员」带你变身这条街上最靓的仔](https://www.ershicimi.com/p/6387422503b5c4767478311850d4dd66) 
+- [【知乎日报】2020-06-22-为什么有些人年纪轻轻却思想深度远高于常人？](https://www.ershicimi.com/p/cc5c2e6a5cd0db8ffa0bc5310278f45a) 
 - [【知乎日报】2020-06-20-知乎神吐槽-|-怎样能看出一个人「开车」水平高低？](https://www.ershicimi.com/p/dcfd447f88d71e924ca2977f4ef54c9b) 
 - [【知乎日报】2020-06-20-电影院不开门的日子，我们承包你的小荧幕！从零到一，认识导演](https://www.ershicimi.com/p/49012f28934535a7d1d77281c41d52de) 
 - [【知乎日报】2020-06-20-知乎故事-|-平淡如水的生活幸福吗？](https://www.ershicimi.com/p/3787e74cd47ce93e230232317c741d15) 

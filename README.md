@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 07:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 08:00:20，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -50,7 +50,7 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
+- [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1)  
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
 - [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1)  
 - [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-24-北京首个气膜版“火眼”核酸检测实验室投用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1)  
 - [2020-06-24-世卫组织：全球新增新冠肺炎确诊病例133326例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtfNQlOXhOVSGhiwOJUN200624&isfromapp=1)  
 - [2020-06-24-国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1)  
-- [2020-06-23-世卫组织：全球新冠肺炎确诊病例累计超899万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1017,6 +1017,16 @@
 </summary>
 
 
+- [2020-06-24-知乎-20-万+-人关注：有哪些简单又值得坚持的好习惯？](https://www.ershicimi.com/p/c0b6e09a90bb90aadfea1a1e98f3d21b) ![](assets/new.png)  
+- [2020-06-24-爱因斯坦去世不到-7-个小时大脑就被变态医生偷走「研究」了几十年，这背后隐藏了什么秘密？](https://www.ershicimi.com/p/57ea0f868c6359fcd2a5d5c14e0e75ea) ![](assets/new.png)  
+- [2020-06-24-知乎故事-|-双向暗恋是一种怎样的体验？](https://www.ershicimi.com/p/c02e680e5967d4a0682d39b48fad03c6) ![](assets/new.png)  
+- [2020-06-23-二十六载终组网，中国北斗，值得每个人骄傲！](https://www.ershicimi.com/p/a3f15bbc2eb140f90659adc5f821f5a9) ![](assets/new.png)  
+- [2020-06-23-iOS-14-将有大变化？！苹果最新开发者大会，看这一篇就够了](https://www.ershicimi.com/p/f4fe09c594a78b317ce87ba099de09e7) ![](assets/new.png)  
+- [2020-06-23-你把时间放在哪儿，收获就在哪儿](https://www.ershicimi.com/p/ac187d2f82e3240765b1e0fbec162809) ![](assets/new.png)  
+- [2020-06-23-知乎故事-|-我的婚礼被伴娘「毁了」](https://www.ershicimi.com/p/91d90829e6e90ca2839d9d5cc2cd7b37) ![](assets/new.png)  
+- [2020-06-22-作为医生，我希望每个人都能牢记这-6-个生理知识](https://www.ershicimi.com/p/9f5d077f5d209f1f5171c6b9259f0fa6) ![](assets/new.png)  
+- [2020-06-22-8-位「时尚盐究员」带你变身这条街上最靓的仔](https://www.ershicimi.com/p/6387422503b5c4767478311850d4dd66) ![](assets/new.png)  
+- [2020-06-22-为什么有些人年纪轻轻却思想深度远高于常人？](https://www.ershicimi.com/p/cc5c2e6a5cd0db8ffa0bc5310278f45a) ![](assets/new.png)  
 - [2020-06-20-知乎神吐槽-|-怎样能看出一个人「开车」水平高低？](https://www.ershicimi.com/p/dcfd447f88d71e924ca2977f4ef54c9b)  
 - [2020-06-20-电影院不开门的日子，我们承包你的小荧幕！从零到一，认识导演](https://www.ershicimi.com/p/49012f28934535a7d1d77281c41d52de)  
 - [2020-06-20-知乎故事-|-平淡如水的生活幸福吗？](https://www.ershicimi.com/p/3787e74cd47ce93e230232317c741d15)  
@@ -1027,16 +1037,6 @@
 - [2020-06-18-9-位「时尚盐究员」带你变身美妆达人](https://www.ershicimi.com/p/1dafe836af81504e0bdb82cce32a5f63)  
 - [2020-06-18-2020，微信里舍不得删的7个公众号](https://www.ershicimi.com/p/318bbda40b0f675f8517474a2c4b9360)  
 - [2020-06-18-知乎故事-|-网恋奔现睡一间房正常吗？](https://www.ershicimi.com/p/b4071e7eb04e129a936fec205e8cfe03)  
-- [2020-06-17-这件事中国默默做了-70-年，知道的人却屈指可数……](https://www.ershicimi.com/p/0df66f31140013274b57d00fc9339a43)  
-- [2020-06-17-男人身体的-12-个小秘密](https://www.ershicimi.com/p/627039f5c5710cc38a4375c7c67948f3)  
-- [2020-06-17-电影院不开门的日子，我们承包你的小荧幕！从零开始，入坑类型片](https://www.ershicimi.com/p/d9dfec39f61a06dd2a0366673b431b62)  
-- [2020-06-17-知乎故事-|-你为什么不再染发了？](https://www.ershicimi.com/p/5d41a0ffe543c87585624a0cff6558bb)  
-- [2020-06-16-别被电视剧骗了，真实的战争比这「阴损」多了](https://www.ershicimi.com/p/e982602075cb9591b11702c9baca8c47)  
-- [2020-06-16-咳咳，618，刘看山成了海王？](https://www.ershicimi.com/p/e5508bbe185a83c71d4f68f9dccb8b01)  
-- [2020-06-16-这些硬核公众号，别告诉我你一个都不知道](https://www.ershicimi.com/p/2327c993609c30423081f8d337bb9575)  
-- [2020-06-16-知乎故事-|-你吃过最奢侈的一道菜是什么？](https://www.ershicimi.com/p/0e95337b44c1ac75f30355b2440106a8)  
-- [2020-06-15-给男生的建议：看懂这篇再谈恋爱](https://www.ershicimi.com/p/ea8bc6d6dad8933bd41af3d74d3f63c5)  
-- [2020-06-15-面对能把人「逼疯」的冷暴力，我们该怎么办？](https://www.ershicimi.com/p/3459082bdbdd0dc625b871a5d784a7a8)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

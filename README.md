@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 15:00:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 16:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-25-确诊外卖小哥的妻子和小孩核酸阴性](https://m.weibo.cn/3057540037/4519688631648659) ![](assets/new.png)  
 - [2020-06-25-河北雄安新区加强疫情防控工作-保障重点工程项目建设](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1)  
 - [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml)  
 - [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1)  
 - [2020-06-24-卫健委发布2020年高考防疫关键措施10条](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1)  
 - [2020-06-24-截至6月23日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/bbd1e4755cc347179995feefbfaec6ab.shtml)  
-- [2020-06-24-福奇指出美种族主义致更多非裔死于新冠](https://m.weibo.cn/3057540037/4519274583327036)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-25-jsoup-取值问题](https://www.v2ex.com/t/684687) ![](assets/new.png)  
-- [2020-06-25-巨型难题-如何通过-Python-,确定图片剪裁位置](https://www.v2ex.com/t/684686) ![](assets/new.png)  
-- [2020-06-25-关于应届生党组织关系转移](https://www.v2ex.com/t/684685) ![](assets/new.png)  
-- [2020-06-25-开发了一个可以评估自己收入资产等在全国排在百分之几的小程序。](https://www.v2ex.com/t/684684) ![](assets/new.png)  
-- [2020-06-25-因为-友盟-share-SDK-分享隐私问题被-Play-下架](https://www.v2ex.com/t/684683) ![](assets/new.png)  
-- [2020-06-25-chrome-怎么才能显示-https-和-www](https://www.v2ex.com/t/684682) ![](assets/new.png)  
-- [2020-06-25-入了个-5-盘位的-DS1019+,如何选择-RAID？](https://www.v2ex.com/t/684681) ![](assets/new.png)  
-- [2020-06-25-这几天住院做了肾结石手术，记录一下过程和感受，各位职场上有小毛病的-v2er-一定要重视健康问题啊](https://www.v2ex.com/t/684680) ![](assets/new.png)  
-- [2020-06-25-MAC-双屏怎样『直接点击』？](https://www.v2ex.com/t/684679) ![](assets/new.png)  
-- [2020-06-25-老哥们可以推荐一些轻薄本吗？](https://www.v2ex.com/t/684678) ![](assets/new.png)  
-- [2020-06-25-分享一个解决-Outlook-垃圾邮件误判的方法](https://www.v2ex.com/t/684677) ![](assets/new.png)  
-- [2020-06-25-新华字典-APP-每天最多只让查两个字，再想查要购买。。](https://www.v2ex.com/t/684676) ![](assets/new.png)  
-- [2020-06-25-自己撸了一个简易版的网页版查单词背单词的词典，各位同学给点看法哈](https://www.v2ex.com/t/684675) ![](assets/new.png)  
-- [2020-06-25-大家看看我挑选的这几个-PHP-项目怎样](https://www.v2ex.com/t/684674) ![](assets/new.png)  
-- [2020-06-25-Upgrading-to-Jakarta-EE-9](https://www.v2ex.com/t/684673) ![](assets/new.png)  
-- [2020-06-25-迫于现在换工作越来越难了，要求算法越来越高了，打算众筹-https://mici.jiqishidai.com/site/course_introduction?id=11-幂次学院-陈小玉得课程](https://www.v2ex.com/t/684672) ![](assets/new.png)  
-- [2020-06-25-mid-2014-MBP-也凑热闹升级了-big-sur](https://www.v2ex.com/t/684671) ![](assets/new.png)  
-- [2020-06-25-上海租房求解](https://www.v2ex.com/t/684669) ![](assets/new.png)  
-- [2020-06-25-有没有哪些网站/Blog-是比较偏向运维的，比如系统调优，故障排查这方面的？](https://www.v2ex.com/t/684668) ![](assets/new.png)  
-- [2020-06-25-4800U-还是-4800H？](https://www.v2ex.com/t/684667) ![](assets/new.png)  
+- [2020-06-25-jsoup-取值问题](https://www.v2ex.com/t/684687)  
+- [2020-06-25-巨型难题-如何通过-Python-,确定图片剪裁位置](https://www.v2ex.com/t/684686)  
+- [2020-06-25-关于应届生党组织关系转移](https://www.v2ex.com/t/684685)  
+- [2020-06-25-开发了一个可以评估自己收入资产等在全国排在百分之几的小程序。](https://www.v2ex.com/t/684684)  
+- [2020-06-25-因为-友盟-share-SDK-分享隐私问题被-Play-下架](https://www.v2ex.com/t/684683)  
+- [2020-06-25-chrome-怎么才能显示-https-和-www](https://www.v2ex.com/t/684682)  
+- [2020-06-25-入了个-5-盘位的-DS1019+,如何选择-RAID？](https://www.v2ex.com/t/684681)  
+- [2020-06-25-这几天住院做了肾结石手术，记录一下过程和感受，各位职场上有小毛病的-v2er-一定要重视健康问题啊](https://www.v2ex.com/t/684680)  
+- [2020-06-25-MAC-双屏怎样『直接点击』？](https://www.v2ex.com/t/684679)  
+- [2020-06-25-老哥们可以推荐一些轻薄本吗？](https://www.v2ex.com/t/684678)  
+- [2020-06-25-分享一个解决-Outlook-垃圾邮件误判的方法](https://www.v2ex.com/t/684677)  
+- [2020-06-25-新华字典-APP-每天最多只让查两个字，再想查要购买。。](https://www.v2ex.com/t/684676)  
+- [2020-06-25-自己撸了一个简易版的网页版查单词背单词的词典，各位同学给点看法哈](https://www.v2ex.com/t/684675)  
+- [2020-06-25-大家看看我挑选的这几个-PHP-项目怎样](https://www.v2ex.com/t/684674)  
+- [2020-06-25-Upgrading-to-Jakarta-EE-9](https://www.v2ex.com/t/684673)  
+- [2020-06-25-迫于现在换工作越来越难了，要求算法越来越高了，打算众筹-https://mici.jiqishidai.com/site/course_introduction?id=11-幂次学院-陈小玉得课程](https://www.v2ex.com/t/684672)  
+- [2020-06-25-mid-2014-MBP-也凑热闹升级了-big-sur](https://www.v2ex.com/t/684671)  
+- [2020-06-25-上海租房求解](https://www.v2ex.com/t/684669)  
+- [2020-06-25-有没有哪些网站/Blog-是比较偏向运维的，比如系统调优，故障排查这方面的？](https://www.v2ex.com/t/684668)  
+- [2020-06-25-4800U-还是-4800H？](https://www.v2ex.com/t/684667)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

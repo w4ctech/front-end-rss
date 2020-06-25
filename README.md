@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 00:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 03:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,13 @@
 </summary>
 
 
-- [2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1) ![](assets/new.png)  
-- [2020-06-25-英国-3-家肉食加工厂超-330-人确诊](https://m.weibo.cn/2803301701/4519834870646758) ![](assets/new.png)  
-- [2020-06-25-​香港新增-14-例新冠肺炎确诊病例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1) ![](assets/new.png)  
-- [2020-06-25-世界卫生组织欧洲办事处主任：欧洲疫情出现反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1) ![](assets/new.png)  
-- [2020-06-25-美国一季度经济下滑-5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-法国启动独立工作小组，评估新冠疫情危机管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB3hG7UoQ1WwSfuGSQR4o200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-美国休斯敦地区重症监护病床超负荷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIwtxgFmMPfNiq5bd7Fd200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1)  
+- [2020-06-25-英国-3-家肉食加工厂超-330-人确诊](https://m.weibo.cn/2803301701/4519834870646758)  
+- [2020-06-25-​香港新增-14-例新冠肺炎确诊病例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1)  
+- [2020-06-25-世界卫生组织欧洲办事处主任：欧洲疫情出现反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1)  
+- [2020-06-25-美国一季度经济下滑-5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1)  
 - [2020-06-25-德法向世卫组织追加资金支持，合计增加-6.4-亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdHbL7kpqGhpHkz7PuIp200625&isfromapp=1)  
 - [2020-06-25-国家卫健委：对在常态化防控措施之外附加其他不合理限制要求的要立即予以纠正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00hlg9oGymTWCUGmHDK0200625&isfromapp=1)  
 - [2020-06-25-​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
 - [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1)  
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
-- [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1)  
-- [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

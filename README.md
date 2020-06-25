@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 23:30:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 00:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-英国-3-家肉食加工厂超-330-人确诊](https://m.weibo.cn/2803301701/4519834870646758) ![](assets/new.png)  
+- [2020-06-25-​香港新增-14-例新冠肺炎确诊病例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-世界卫生组织欧洲办事处主任：欧洲疫情出现反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-美国一季度经济下滑-5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1) ![](assets/new.png)  
 - [2020-06-25-德法向世卫组织追加资金支持，合计增加-6.4-亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdHbL7kpqGhpHkz7PuIp200625&isfromapp=1)  
 - [2020-06-25-国家卫健委：对在常态化防控措施之外附加其他不合理限制要求的要立即予以纠正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00hlg9oGymTWCUGmHDK0200625&isfromapp=1)  
 - [2020-06-25-​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
 - [2020-06-24-甘肃24日新增3例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1)  
 - [2020-06-24-巴黎第二所小学因出现新冠肺炎确诊病例关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1)  
-- [2020-06-24-英国医学权威们警告英国必须为第二波疫情做好准备](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHDkAuAGrR3k6LzHwrrlG200624&isfromapp=1)  
-- [2020-06-24-澳大利亚维多利亚州向国防军求助-要求增援300名军队医疗人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1)  
-- [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1)  
-- [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1)  
-- [2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-25-Trojan-即将在-Fedora-官方源以及-EPEL-可用](https://www.v2ex.com/t/684771) ![](assets/new.png)  
-- [2020-06-25-用腾讯云快三年了，马上到期不准备续了](https://www.v2ex.com/t/684770) ![](assets/new.png)  
-- [2020-06-25-如果能写出类似-Charles-的代理，能用来作甚？](https://www.v2ex.com/t/684769) ![](assets/new.png)  
-- [2020-06-25-关于-vmware-的奇怪问题](https://www.v2ex.com/t/684768) ![](assets/new.png)  
-- [2020-06-25-请教一个-Python-爬虫，抓取-JS-变量的问题](https://www.v2ex.com/t/684767) ![](assets/new.png)  
-- [2020-06-25-看东莞一农名工在图书馆的留言的新闻有点心酸](https://www.v2ex.com/t/684765) ![](assets/new.png)  
-- [2020-06-25-搞了几年独立开发，把自己搞穷了](https://www.v2ex.com/t/684763) ![](assets/new.png)  
-- [2020-06-25-近期移动走-HKIX-至香港的线路似乎有些问题](https://www.v2ex.com/t/684762) ![](assets/new.png)  
-- [2020-06-25-2023-届计算机硕士求职业生涯规划指导](https://www.v2ex.com/t/684761) ![](assets/new.png)  
-- [2020-06-25-这种情况下该如何设计接口？（不难）](https://www.v2ex.com/t/684760) ![](assets/new.png)  
-- [2020-06-25-踩坑记#2：-Go-服务锁死](https://www.v2ex.com/t/684759) ![](assets/new.png)  
-- [2020-06-25-visual-studio2019-的-BackgroundDownload.exe-后台偷跑流量](https://www.v2ex.com/t/684758) ![](assets/new.png)  
-- [2020-06-25-测试敏感词-20200625](https://www.v2ex.com/t/684756) ![](assets/new.png)  
-- [2020-06-25-求助各位如果买二手笔记本怎么最大程度的保证安全](https://www.v2ex.com/t/684755) ![](assets/new.png)  
-- [2020-06-25-GOG-免费领取-Cyberpunk-2077-Goodies-Collection](https://www.v2ex.com/t/684754) ![](assets/new.png)  
-- [2020-06-25-PHP-除了这几种还有没有别的页面传值方式？](https://www.v2ex.com/t/684753) ![](assets/new.png)  
-- [2020-06-25-有没有和我一样及其讨厌推荐系统的吐槽向](https://www.v2ex.com/t/684751) ![](assets/new.png)  
-- [2020-06-25-谁能破解这个软件，我立转他-500-块](https://www.v2ex.com/t/684750) ![](assets/new.png)  
-- [2020-06-25-21-应届求职，运维开发方向](https://www.v2ex.com/t/684749) ![](assets/new.png)  
-- [2020-06-25-写给-Python-新人：如何更好地在-V2EX-里贴出-Python-代码？](https://www.v2ex.com/t/684748) ![](assets/new.png)  
+- [2020-06-25-Trojan-即将在-Fedora-官方源以及-EPEL-可用](https://www.v2ex.com/t/684771)  
+- [2020-06-25-用腾讯云快三年了，马上到期不准备续了](https://www.v2ex.com/t/684770)  
+- [2020-06-25-如果能写出类似-Charles-的代理，能用来作甚？](https://www.v2ex.com/t/684769)  
+- [2020-06-25-关于-vmware-的奇怪问题](https://www.v2ex.com/t/684768)  
+- [2020-06-25-请教一个-Python-爬虫，抓取-JS-变量的问题](https://www.v2ex.com/t/684767)  
+- [2020-06-25-看东莞一农名工在图书馆的留言的新闻有点心酸](https://www.v2ex.com/t/684765)  
+- [2020-06-25-搞了几年独立开发，把自己搞穷了](https://www.v2ex.com/t/684763)  
+- [2020-06-25-近期移动走-HKIX-至香港的线路似乎有些问题](https://www.v2ex.com/t/684762)  
+- [2020-06-25-2023-届计算机硕士求职业生涯规划指导](https://www.v2ex.com/t/684761)  
+- [2020-06-25-这种情况下该如何设计接口？（不难）](https://www.v2ex.com/t/684760)  
+- [2020-06-25-踩坑记#2：-Go-服务锁死](https://www.v2ex.com/t/684759)  
+- [2020-06-25-visual-studio2019-的-BackgroundDownload.exe-后台偷跑流量](https://www.v2ex.com/t/684758)  
+- [2020-06-25-测试敏感词-20200625](https://www.v2ex.com/t/684756)  
+- [2020-06-25-求助各位如果买二手笔记本怎么最大程度的保证安全](https://www.v2ex.com/t/684755)  
+- [2020-06-25-GOG-免费领取-Cyberpunk-2077-Goodies-Collection](https://www.v2ex.com/t/684754)  
+- [2020-06-25-PHP-除了这几种还有没有别的页面传值方式？](https://www.v2ex.com/t/684753)  
+- [2020-06-25-有没有和我一样及其讨厌推荐系统的吐槽向](https://www.v2ex.com/t/684751)  
+- [2020-06-25-谁能破解这个软件，我立转他-500-块](https://www.v2ex.com/t/684750)  
+- [2020-06-25-21-应届求职，运维开发方向](https://www.v2ex.com/t/684749)  
+- [2020-06-25-写给-Python-新人：如何更好地在-V2EX-里贴出-Python-代码？](https://www.v2ex.com/t/684748)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

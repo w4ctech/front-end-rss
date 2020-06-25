@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 09:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 10:30:21，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822) ![](assets/new.png)  
-- [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304) ![](assets/new.png)  
+- [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822)  
+- [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304)  
 - [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
 - [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1)  
 - [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
@@ -861,11 +861,11 @@
 </summary>
 
 
-- [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241) ![](assets/new.png)  
-- [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22) ![](assets/new.png)  
-- [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f) ![](assets/new.png)  
-- [2020-06-24-“前端+后端+算法”标准是越来越高，算法工程师的技能危机如何破局？|-Q推荐](https://www.ershicimi.com/p/4adcc53623a87ba5756bd4a5f799a7bf) ![](assets/new.png)  
-- [2020-06-24-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/a8428c16bd7a66ab355093efdbe5b73a) ![](assets/new.png)  
+- [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241)  
+- [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22)  
+- [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f)  
+- [2020-06-24-“前端+后端+算法”标准是越来越高，算法工程师的技能危机如何破局？|-Q推荐](https://www.ershicimi.com/p/4adcc53623a87ba5756bd4a5f799a7bf)  
+- [2020-06-24-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/a8428c16bd7a66ab355093efdbe5b73a)  
 - [2020-06-23-前端工程师，为什么一定要了解可视化？|-极客时间](https://www.ershicimi.com/p/ff50bc26069d20508d296d03bd3de63a)  
 - [2020-06-23-15-年老兵谈阿里云大规模机器学习实践](https://www.ershicimi.com/p/490ad6eab7d7898c815caa76eb66959d)  
 - [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48)  
@@ -1110,6 +1110,16 @@
 </summary>
 
 
+- [2020-06-25-一文助你搞懂-AST](https://toutiao.io/k/s9zqtl6) ![](assets/new.png)  
+- [2020-06-25-Regression-Tree-回归树](https://toutiao.io/k/qnnjdl9) ![](assets/new.png)  
+- [2020-06-25-Android-上的-WebRTC：多设备如何启用硬件编码？（二）](https://toutiao.io/k/mvlgniq) ![](assets/new.png)  
+- [2020-06-25-高并发口罩抢购项目架构演进记录-&-优化经验分享](https://toutiao.io/k/6mwgw9b) ![](assets/new.png)  
+- [2020-06-25-程序员如何升职加薪？|-码农周刊第-310-期](https://toutiao.io/k/n70fndb) ![](assets/new.png)  
+- [2020-06-25-美信拓扑创始人一乐：如何登山不是最重要的问题，山峰才是](https://toutiao.io/k/vb4eifw) ![](assets/new.png)  
+- [2020-06-25-Go-泛型是怎么实现的？](https://toutiao.io/k/o07xtru) ![](assets/new.png)  
+- [2020-06-25-Vue-微前端-&-微服务解决方案，Genesis-对远程组件进一步的设计和思考](https://toutiao.io/k/mnxzihb) ![](assets/new.png)  
+- [2020-06-25-你的-docker-stop，它优雅吗？](https://toutiao.io/k/xfyregg) ![](assets/new.png)  
+- [2020-06-25-ACK-简史（一）：开篇之-Kafka](https://toutiao.io/k/2l7pbjq) ![](assets/new.png)  
 - [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti)  
 - [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm)  
 - [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9)  
@@ -1120,16 +1130,6 @@
 - [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w)  
 - [2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm)  
 - [2020-06-24-前端存储除了-localStorage-还有啥](https://toutiao.io/k/ztftz5q)  
-- [2020-06-24-不要让你的-Java-对象-"逃逸"-了](https://toutiao.io/k/6dxnjaz)  
-- [2020-06-24-改掉这些坏习惯，还怕写不出精简的代码？（六）](https://toutiao.io/k/8qx7rro)  
-- [2020-06-24-可能是你见过最好的-React-Hooks-库](https://toutiao.io/k/b8355va)  
-- [2020-06-24-玩转高性能日志库-ZAP（六）：采样](https://toutiao.io/k/6xkxv6p)  
-- [2020-06-24-太赞了，这个神器竟然能分分钟将多个-kubeconfig-合并成一个](https://toutiao.io/k/62rnzui)  
-- [2020-06-24-一篇文章教你从入门到精通-Google-指纹验证功能](https://toutiao.io/k/rd3zt0i)  
-- [2020-06-24-如何通过-HTTP-协议访问指定版本的-SVN-库内容](https://toutiao.io/k/6fek8ua)  
-- [2020-06-24-Flink-生态：Pulsar-Connector-机制剖析](https://toutiao.io/k/1m71vvk)  
-- [2020-06-24-责任链的-2-种实现方式，你更-pick-哪一种](https://toutiao.io/k/cg2uyzj)  
-- [2020-06-24-撸一个预言机-Oracle-服务，真香！（下篇）](https://toutiao.io/k/0vf9whx)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

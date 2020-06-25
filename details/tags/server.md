@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -37,6 +37,7 @@
 - [2020-05-31-OpenResty-持续运行内存不会回收](https://www.v2ex.com/t/677203) 
 - [2020-05-31-请问可以在-docker-Linux-上开发-c/c++吗？](https://www.v2ex.com/t/677181) 
 - [2020-05-29-docker-for-windows-上的-windows-container-的-windows-10-镜像怎样开启远程桌面（rdp）？](https://www.v2ex.com/t/676753) 
+- [2020-06-25-你的-docker-stop，它优雅吗？](https://toutiao.io/k/xfyregg) 
 - [2020-06-22-Docker-适合哪些场景](https://toutiao.io/k/h0rxdse) 
 - [2020-06-18-5-个好用的-Docker-图形化管理工具](https://toutiao.io/k/5kw2gzd) 
 - [2020-06-15-Prometheus-监控-Docker-Swarm-集群（一）](https://toutiao.io/k/gq3o3mv) 

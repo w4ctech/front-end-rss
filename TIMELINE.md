@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 05:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-26 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -288,6 +288,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-​希腊首例监狱感染新冠病毒病例被逆转-该服刑人员并未感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-美国知名连锁百货商店梅西百货预计裁员近4000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-法国启动独立工作小组，评估新冠疫情危机管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB3hG7UoQ1WwSfuGSQR4o200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-美国休斯敦地区重症监护病床超负荷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIwtxgFmMPfNiq5bd7Fd200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1) 

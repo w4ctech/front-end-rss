@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 05:30:19，:rocket: 更新条数: +122， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -63,26 +63,26 @@
 </summary>
 
 
-- [2020-06-25-北京一病例4次核酸检测均为阴性-假阴性问题值得关注](http://www.caixin.com/2020-06-25/101572232.html) ![](assets/new.png)  
-- [2020-06-25-北京疫情|6月24日：新发地直接关联疫情收尾-仍有风险点](http://www.caixin.com/2020-06-25/101572135.html) ![](assets/new.png)  
-- [2020-06-25-6月24日全国新增新冠19例-北京13例](http://www.caixin.com/2020-06-25/101572115.html) ![](assets/new.png)  
-- [2020-06-25-最新疫情：全国新冠累计确诊83449例-本土病例北京13例河北1例](http://www.caixin.com/2020-06-25/101572176.html) ![](assets/new.png)  
-- [2020-06-25-最新海外疫情：新冠感染者近929万-累计死亡超47.7万](http://international.caixin.com/2020-06-25/101572204.html) ![](assets/new.png)  
-- [2020-06-25-【境内疫情观察】北京新增本土确诊13例（6月24日）](http://database.caixin.com/2020-06-25/101572208.html) ![](assets/new.png)  
-- [2020-06-25-大流行手记|6月24日：德国肉品厂疫情升级-两地区重施限制令](http://www.caixin.com/2020-06-25/101572111.html) ![](assets/new.png)  
-- [2020-06-24-分析|北京新发地新冠基因序列透露出哪些信息？](http://science.caixin.com/2020-06-24/101572015.html) ![](assets/new.png)  
-- [2020-06-24-北京详析256例确诊病例-与新发地关联占98.8%](http://www.caixin.com/2020-06-24/101571859.html) ![](assets/new.png)  
-- [2020-06-24-疫情防控失职失责-北京丰台区3名干部被问责处理](http://china.caixin.com/2020-06-24/101571853.html) ![](assets/new.png)  
-- [2020-06-24-端午要不要出京：出京返京政策究竟如何](http://www.caixin.com/2020-06-24/101571905.html) ![](assets/new.png)  
-- [2020-06-24-北京新发地直接相关疫情基本控制-发现局部聚集和散发](http://www.caixin.com/2020-06-24/101571835.html) ![](assets/new.png)  
-- [2020-06-24-北京疫情|6月23日:人传人还是物传人,答案更清晰了](http://www.caixin.com/2020-06-24/101571612.html) ![](assets/new.png)  
-- [2020-06-24-6月23日全国新增确诊12例-本土病例北京7例河北2例](http://china.caixin.com/2020-06-24/101571590.html) ![](assets/new.png)  
-- [2020-06-24-北京新发地疫情追踪-河北已现20例](http://china.caixin.com/2020-06-24/101568415.html) ![](assets/new.png)  
-- [2020-06-24-【境内疫情观察】北京新增本土确诊7例（6月23日）](http://database.caixin.com/2020-06-24/101571776.html) ![](assets/new.png)  
-- [2020-06-23-百事公司北京大兴厂区新增4例确诊-已有12例](http://china.caixin.com/2020-06-23/101571395.html) ![](assets/new.png)  
-- [2020-06-23-饿了么北京一外卖骑手确诊新冠-全员核酸检测正推进](http://www.caixin.com/2020-06-23/101571470.html) ![](assets/new.png)  
-- [2020-06-23-北京端午节疫情防控指南：不接受本市中高风险地区人员参团旅游](http://china.caixin.com/2020-06-23/101571437.html) ![](assets/new.png)  
-- [2020-06-23-北京通报15例确诊病例详情-一外卖员确诊日均接50单](http://www.caixin.com/2020-06-23/101571368.html) ![](assets/new.png)  
+- [2020-06-25-北京一病例4次核酸检测均为阴性-假阴性问题值得关注](http://www.caixin.com/2020-06-25/101572232.html)  
+- [2020-06-25-北京疫情|6月24日：新发地直接关联疫情收尾-仍有风险点](http://www.caixin.com/2020-06-25/101572135.html)  
+- [2020-06-25-6月24日全国新增新冠19例-北京13例](http://www.caixin.com/2020-06-25/101572115.html)  
+- [2020-06-25-最新疫情：全国新冠累计确诊83449例-本土病例北京13例河北1例](http://www.caixin.com/2020-06-25/101572176.html)  
+- [2020-06-25-最新海外疫情：新冠感染者近929万-累计死亡超47.7万](http://international.caixin.com/2020-06-25/101572204.html)  
+- [2020-06-25-【境内疫情观察】北京新增本土确诊13例（6月24日）](http://database.caixin.com/2020-06-25/101572208.html)  
+- [2020-06-25-大流行手记|6月24日：德国肉品厂疫情升级-两地区重施限制令](http://www.caixin.com/2020-06-25/101572111.html)  
+- [2020-06-24-分析|北京新发地新冠基因序列透露出哪些信息？](http://science.caixin.com/2020-06-24/101572015.html)  
+- [2020-06-24-北京详析256例确诊病例-与新发地关联占98.8%](http://www.caixin.com/2020-06-24/101571859.html)  
+- [2020-06-24-疫情防控失职失责-北京丰台区3名干部被问责处理](http://china.caixin.com/2020-06-24/101571853.html)  
+- [2020-06-24-端午要不要出京：出京返京政策究竟如何](http://www.caixin.com/2020-06-24/101571905.html)  
+- [2020-06-24-北京新发地直接相关疫情基本控制-发现局部聚集和散发](http://www.caixin.com/2020-06-24/101571835.html)  
+- [2020-06-24-北京疫情|6月23日:人传人还是物传人,答案更清晰了](http://www.caixin.com/2020-06-24/101571612.html)  
+- [2020-06-24-6月23日全国新增确诊12例-本土病例北京7例河北2例](http://china.caixin.com/2020-06-24/101571590.html)  
+- [2020-06-24-北京新发地疫情追踪-河北已现20例](http://china.caixin.com/2020-06-24/101568415.html)  
+- [2020-06-24-【境内疫情观察】北京新增本土确诊7例（6月23日）](http://database.caixin.com/2020-06-24/101571776.html)  
+- [2020-06-23-百事公司北京大兴厂区新增4例确诊-已有12例](http://china.caixin.com/2020-06-23/101571395.html)  
+- [2020-06-23-饿了么北京一外卖骑手确诊新冠-全员核酸检测正推进](http://www.caixin.com/2020-06-23/101571470.html)  
+- [2020-06-23-北京端午节疫情防控指南：不接受本市中高风险地区人员参团旅游](http://china.caixin.com/2020-06-23/101571437.html)  
+- [2020-06-23-北京通报15例确诊病例详情-一外卖员确诊日均接50单](http://www.caixin.com/2020-06-23/101571368.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-​希腊首例监狱感染新冠病毒病例被逆转-该服刑人员并未感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-美国知名连锁百货商店梅西百货预计裁员近4000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1) ![](assets/new.png)  
 - [2020-06-26-法国启动独立工作小组，评估新冠疫情危机管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB3hG7UoQ1WwSfuGSQR4o200626&isfromapp=1)  
 - [2020-06-26-美国休斯敦地区重症监护病床超负荷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIwtxgFmMPfNiq5bd7Fd200626&isfromapp=1)  
 - [2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-06-25-河北雄安新区加强疫情防控工作-保障重点工程项目建设](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1)  
 - [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml)  
 - [2020-06-25-确诊病例暴增-美国加州迪士尼因新冠疫情将延期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1)  
-- [2020-06-25-巴西日增确诊超4万，总确诊病例超118万](https://m.weibo.cn/2803301701/4519614068925822)  
-- [2020-06-25-世卫预计一周内全球确诊将达1000万](https://m.weibo.cn/2803301701/4519606640727304)  
-- [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)  
-- [2020-06-25-谭德塞：下周全球确诊总数将超1000万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1)  
-- [2020-06-24-佛罗里达新增新冠肺炎确诊病例5511例-专家警告可能成为美国下一个疫情“重灾区”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

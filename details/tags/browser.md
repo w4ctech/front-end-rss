@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-25 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -64,6 +64,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-25-chrome-怎么才能显示-https-和-www](https://www.v2ex.com/t/684682) 
 - [2020-06-24-WPF-内嵌网页有没有轻量级的浏览器内核可以用？](https://www.v2ex.com/t/684584) 
 - [2020-06-24-你们的-Firefox-正常吗？](https://www.v2ex.com/t/684579) 
 - [2020-06-24-按微软这个教程来，-没找到-webview2-的控件，-nuget-包也装了，-edge-版本也到-85-以上了，-很奇怪](https://www.v2ex.com/t/684565) 

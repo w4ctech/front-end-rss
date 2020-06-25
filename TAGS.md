@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-25 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-25 15:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -128,9 +128,9 @@
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)
 - [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】typescript-学习有前途吗](https://www.v2ex.com/t/684666)
 - [【V2EX】Webpack4-+-TypeScript-如何优化编译速度?](https://www.v2ex.com/t/682307)
 - [【V2EX】Typescript-香吗?](https://www.v2ex.com/t/679223)
-- [【开发者头条】一文读懂-TypeScript-泛型及应用](https://toutiao.io/k/uzna39x)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-25 20:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-25 21:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-25-​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-德法向世卫组织追加资金支持，合计增加-6.4-亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdHbL7kpqGhpHkz7PuIp200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-国家卫健委：对在常态化防控措施之外附加其他不合理限制要求的要立即予以纠正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00hlg9oGymTWCUGmHDK0200625&isfromapp=1) ![](assets/new.png)  
+- [2020-06-25-​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1)  
 - [2020-06-25-北京大兴一名60岁女子确诊，前四次核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3SjhMn8wkWcTfSlMKEZi200625&isfromapp=1)  
 - [2020-06-25-确诊外卖小哥的妻子和小孩核酸阴性](https://m.weibo.cn/3057540037/4519688631648659)  
 - [2020-06-25-河北雄安新区加强疫情防控工作-保障重点工程项目建设](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-24-北京：新冠肺炎有哪些“非典型”症状？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1)  
 - [2020-06-24-北京：取消人员聚集性促销活动-控制易引起快递员聚集的线上促消费活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1)  
 - [2020-06-24-俄罗斯新增7176例新冠肺炎确诊病例-累计确诊超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1)  
-- [2020-06-24-东京新增55例新冠肺炎确诊病例-为日本解除紧急事态后单日新增人数最多](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1)  
-- [2020-06-24-国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

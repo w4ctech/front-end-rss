@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 19:30:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 21:00:20，:rocket: 更新条数: +39， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1)  
 - [2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1)  
 - [2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1)  
 - [2020-06-26-6月26日6时至10时-天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html)  
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-26-做大淘客-cms-网站只能用国外服务器或网咯穿透吗？](https://www.v2ex.com/t/684869)  
-- [2020-06-26-根本就买不到连接-hinet-低延迟又稳定的联通中转!](https://www.v2ex.com/t/684868)  
-- [2020-06-26-有没有人遇到过海外注册的淘宝莫名其妙被封号的](https://www.v2ex.com/t/684867)  
-- [2020-06-26-Apple-的面容-ID-真的安全吗？](https://www.v2ex.com/t/684866)  
-- [2020-06-26-有住过公寓的朋友吗？商用水电，一个人住每月大概要多少水电费啊？](https://www.v2ex.com/t/684864)  
-- [2020-06-26-今天看到一句话，感觉很有道理，分享出来](https://www.v2ex.com/t/684863)  
-- [2020-06-26-关于-pycharm/idea-中的-File-Encoding,-Global-Encoding-和-Project-Encoding-的疑问](https://www.v2ex.com/t/684862)  
-- [2020-06-26-预约-genius-bar-天才吧，-是不是去-apple-的零售店-更容易-免费-维修？](https://www.v2ex.com/t/684861)  
-- [2020-06-26-Windows-下，禁用了磁盘驱动器，加驱是不是还是可以访问？](https://www.v2ex.com/t/684860)  
-- [2020-06-26-Android-的多用户支持搞得我有点晕了](https://www.v2ex.com/t/684859)  
-- [2020-06-26-PHP-8.0-Alpha-出来啦](https://www.v2ex.com/t/684858)  
-- [2020-06-26-新手请教如何处理动画过程中旋转屏幕](https://www.v2ex.com/t/684857)  
-- [2020-06-26-你们是怎么处理-iPad-pro-屏幕指纹的？](https://www.v2ex.com/t/684856)  
-- [2020-06-26-比起我们这代，-10-和-20-后想成才的话，需要抵制更多更强的诱惑](https://www.v2ex.com/t/684854)  
-- [2020-06-26-iCloud-误删了很多照片，但是旧设备内还在，有没有快速同步的方法](https://www.v2ex.com/t/684853)  
-- [2020-06-26-公司需要弄点软件著作权，各位在某宝买过吗。。](https://www.v2ex.com/t/684851)  
-- [2020-06-26-微软远程桌面怎么设置竖屏？](https://www.v2ex.com/t/684850)  
-- [2020-06-26-实用-Py-从源码文本层面给-Python-模块打“补丁”——记一次对-you-get-进行-Bug-修正、增添功能的“过程”](https://www.v2ex.com/t/684849)  
-- [2020-06-26-你们平时用-iMessage-吗？](https://www.v2ex.com/t/684848)  
-- [2020-06-26-有工具可以把图片转成代码吗？](https://www.v2ex.com/t/684847)  
+- [2020-06-26-求大佬们给下建议](https://www.v2ex.com/t/684923) ![](assets/new.png)  
+- [2020-06-26-嵌入式工程师-机器人创业公司-@魔都](https://www.v2ex.com/t/684921) ![](assets/new.png)  
+- [2020-06-26-换手机咨询，手机自带的-App-不使用不给权限还是会推送信息](https://www.v2ex.com/t/684920) ![](assets/new.png)  
+- [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的-Chrome-扩展---Steam-Design-Tools](https://www.v2ex.com/t/684919) ![](assets/new.png)  
+- [2020-06-26-独立开发者交流群（扶持互助，吹水勿入）](https://www.v2ex.com/t/684918) ![](assets/new.png)  
+- [2020-06-26-Win10-腾讯会议一直把系统麦克风音量调低直到-1](https://www.v2ex.com/t/684917) ![](assets/new.png)  
+- [2020-06-26-有图-自女娲补天以来，程序员被黑得最惨的一次，还是在小游戏里。](https://www.v2ex.com/t/684916) ![](assets/new.png)  
+- [2020-06-26-隐蔽的角落原著《坏小孩》出版不用审核吗？](https://www.v2ex.com/t/684915) ![](assets/new.png)  
+- [2020-06-26-2021-届的同学，现在有-v-站秋招群吗？](https://www.v2ex.com/t/684914) ![](assets/new.png)  
+- [2020-06-26-快手-or-蚂蚁-现金都一样，快手有房补会高一点-快手还有期权的蚂蚁没有-坐标杭州-各位老铁给个意见？](https://www.v2ex.com/t/684913) ![](assets/new.png)  
+- [2020-06-26-telegram-的上传空间为什么是无限容量](https://www.v2ex.com/t/684912) ![](assets/new.png)  
+- [2020-06-26-ios14-增加了连接-wifi-使用虚拟-mac-地址功能](https://www.v2ex.com/t/684911) ![](assets/new.png)  
+- [2020-06-26-mac-上有啥软件能代替-Adobe-Auditon-的去噪功能-？](https://www.v2ex.com/t/684910) ![](assets/new.png)  
+- [2020-06-26-难道站内的独立工作者都是移动端的吗？](https://www.v2ex.com/t/684909) ![](assets/new.png)  
+- [2020-06-26-购-Mac-mini-2014-加装的-SSD-的疑虑](https://www.v2ex.com/t/684908) ![](assets/new.png)  
+- [2020-06-26-下一代-Apple-Watch-期待什么新功能-OR-进步？](https://www.v2ex.com/t/684907) ![](assets/new.png)  
+- [2020-06-26-V2EX-能不能在用户设置里让添加自己的年龄？](https://www.v2ex.com/t/684905) ![](assets/new.png)  
+- [2020-06-26-趋势科技中国研发中心-社招-内推-2020-年-6-月更新](https://www.v2ex.com/t/684904) ![](assets/new.png)  
+- [2020-06-26-在-iOS-14-上，-App-Store-和-iTunes-合并意味着不能跨区双账号切换了？](https://www.v2ex.com/t/684903) ![](assets/new.png)  
+- [2020-06-26-以后-ARM-笔记本会不会是大学生的新选择？](https://www.v2ex.com/t/684902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

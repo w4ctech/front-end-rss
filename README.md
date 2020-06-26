@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 22:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 00:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1) ![](assets/new.png)  
 - [2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1)  
 - [2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1)  
 - [2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-26-美国休斯敦地区重症监护病床超负荷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIwtxgFmMPfNiq5bd7Fd200626&isfromapp=1)  
 - [2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1)  
 - [2020-06-25-英国-3-家肉食加工厂超-330-人确诊](https://m.weibo.cn/2803301701/4519834870646758)  
-- [2020-06-25-​香港新增-14-例新冠肺炎确诊病例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1)  
-- [2020-06-25-世界卫生组织欧洲办事处主任：欧洲疫情出现反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1)  
-- [2020-06-25-美国一季度经济下滑-5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-26-最新-chrome-的插件图标变成这么个玩意了？](https://www.v2ex.com/t/684947) ![](assets/new.png)  
-- [2020-06-26-小白请教各大佬点-Python-requests-库的-ip-代理池的知识](https://www.v2ex.com/t/684946) ![](assets/new.png)  
-- [2020-06-26-Notion-貌似还不支持-Web-浏览器里的-Dark-Mode？](https://www.v2ex.com/t/684945) ![](assets/new.png)  
-- [2020-06-26-没想到我也有这一天,软件求取名,选中有红包](https://www.v2ex.com/t/684944) ![](assets/new.png)  
-- [2020-06-26-想问下华为旗舰店导购怎么应聘呢？](https://www.v2ex.com/t/684943) ![](assets/new.png)  
-- [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的小工具---Steam-Design-Tools](https://www.v2ex.com/t/684941) ![](assets/new.png)  
-- [2020-06-26-空气潮湿,-打印纸会变弯曲,-有没有什么方法解决下?](https://www.v2ex.com/t/684940) ![](assets/new.png)  
-- [2020-06-26-有人知道-b23.tv-短链接生成用的-api-是啥吗](https://www.v2ex.com/t/684939) ![](assets/new.png)  
-- [2020-06-26-深圳的朋友有没有发现路边多了很多比路灯矮一点的杆子顶部尖尖的类似天线的东西？](https://www.v2ex.com/t/684938) ![](assets/new.png)  
-- [2020-06-26-分享兴趣小项目-vscode-插件一枚](https://www.v2ex.com/t/684937) ![](assets/new.png)  
-- [2020-06-26-关于聋哑人就业的一点想法](https://www.v2ex.com/t/684936) ![](assets/new.png)  
-- [2020-06-26-这回基本确定有全面屏-Mac-了吧](https://www.v2ex.com/t/684935) ![](assets/new.png)  
-- [2020-06-26-广州的兄弟们，你们一个月电费多少？](https://www.v2ex.com/t/684934) ![](assets/new.png)  
-- [2020-06-26-BigSur-设置配置，重启丢失？](https://www.v2ex.com/t/684933) ![](assets/new.png)  
-- [2020-06-26-发现大多数平台美颜直播的码率都很低](https://www.v2ex.com/t/684929) ![](assets/new.png)  
-- [2020-06-26-有没有兄弟辞职回老家，小县城，以后也不准备出去了，聊聊怎么谋生。。](https://www.v2ex.com/t/684928) ![](assets/new.png)  
-- [2020-06-26-Google-相册这新-logo-算抄袭吗？](https://www.v2ex.com/t/684927) ![](assets/new.png)  
-- [2020-06-26-git-服务器关于-web-目录权限的困惑](https://www.v2ex.com/t/684926) ![](assets/new.png)  
-- [2020-06-26-不懂就问，为啥同一个软件不能用在-x86-和-amd-的-CPU-上？](https://www.v2ex.com/t/684925) ![](assets/new.png)  
-- [2020-06-26-求大佬们给下建议](https://www.v2ex.com/t/684923)  
+- [2020-06-26-实习-商汤科技-研究院-组内直招-c++/go-开发实习生](https://www.v2ex.com/t/684952) ![](assets/new.png)  
+- [2020-06-26-南京-内推-端点科技-Java-开发](https://www.v2ex.com/t/684951) ![](assets/new.png)  
+- [2020-06-26-27-寸-iMac-要更新了？](https://www.v2ex.com/t/684950) ![](assets/new.png)  
+- [2020-06-26-edge-的谷歌关闭不了安全搜索](https://www.v2ex.com/t/684949) ![](assets/new.png)  
+- [2020-06-26-公务员-or-程序员-应届生求建议](https://www.v2ex.com/t/684948) ![](assets/new.png)  
+- [2020-06-26-最新-chrome-的插件图标变成这么个玩意了？](https://www.v2ex.com/t/684947)  
+- [2020-06-26-小白请教各大佬点-Python-requests-库的-ip-代理池的知识](https://www.v2ex.com/t/684946)  
+- [2020-06-26-Notion-貌似还不支持-Web-浏览器里的-Dark-Mode？](https://www.v2ex.com/t/684945)  
+- [2020-06-26-没想到我也有这一天,软件求取名,选中有红包](https://www.v2ex.com/t/684944)  
+- [2020-06-26-想问下华为旗舰店导购怎么应聘呢？](https://www.v2ex.com/t/684943)  
+- [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的小工具---Steam-Design-Tools](https://www.v2ex.com/t/684941)  
+- [2020-06-26-空气潮湿,-打印纸会变弯曲,-有没有什么方法解决下?](https://www.v2ex.com/t/684940)  
+- [2020-06-26-有人知道-b23.tv-短链接生成用的-api-是啥吗](https://www.v2ex.com/t/684939)  
+- [2020-06-26-深圳的朋友有没有发现路边多了很多比路灯矮一点的杆子顶部尖尖的类似天线的东西？](https://www.v2ex.com/t/684938)  
+- [2020-06-26-分享兴趣小项目-vscode-插件一枚](https://www.v2ex.com/t/684937)  
+- [2020-06-26-关于聋哑人就业的一点想法](https://www.v2ex.com/t/684936)  
+- [2020-06-26-这回基本确定有全面屏-Mac-了吧](https://www.v2ex.com/t/684935)  
+- [2020-06-26-广州的兄弟们，你们一个月电费多少？](https://www.v2ex.com/t/684934)  
+- [2020-06-26-BigSur-设置配置，重启丢失？](https://www.v2ex.com/t/684933)  
+- [2020-06-26-发现大多数平台美颜直播的码率都很低](https://www.v2ex.com/t/684929)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 22:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -288,6 +288,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1) 
@@ -1745,6 +1748,11 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-26-实习-商汤科技-研究院-组内直招-c++/go-开发实习生](https://www.v2ex.com/t/684952) 
+- [【V2EX】2020-06-26-南京-内推-端点科技-Java-开发](https://www.v2ex.com/t/684951) 
+- [【V2EX】2020-06-26-27-寸-iMac-要更新了？](https://www.v2ex.com/t/684950) 
+- [【V2EX】2020-06-26-edge-的谷歌关闭不了安全搜索](https://www.v2ex.com/t/684949) 
+- [【V2EX】2020-06-26-公务员-or-程序员-应届生求建议](https://www.v2ex.com/t/684948) 
 - [【V2EX】2020-06-26-最新-chrome-的插件图标变成这么个玩意了？](https://www.v2ex.com/t/684947) 
 - [【V2EX】2020-06-26-小白请教各大佬点-Python-requests-库的-ip-代理池的知识](https://www.v2ex.com/t/684946) 
 - [【V2EX】2020-06-26-Notion-貌似还不支持-Web-浏览器里的-Dark-Mode？](https://www.v2ex.com/t/684945) 

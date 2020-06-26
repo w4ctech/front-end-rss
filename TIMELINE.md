@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-26 19:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -288,6 +288,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-26-6月26日6时至10时-天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html) 

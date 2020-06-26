@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 18:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 19:30:19，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1)  
 - [2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1)  
 - [2020-06-26-6月26日6时至10时-天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html)  
 - [2020-06-26-又有30例新增！澳大利亚维州疫情持续恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-25-​香港新增-14-例新冠肺炎确诊病例，均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1)  
 - [2020-06-25-世界卫生组织欧洲办事处主任：欧洲疫情出现反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1)  
 - [2020-06-25-美国一季度经济下滑-5%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1)  
-- [2020-06-25-德法向世卫组织追加资金支持，合计增加-6.4-亿欧元](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdHbL7kpqGhpHkz7PuIp200625&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

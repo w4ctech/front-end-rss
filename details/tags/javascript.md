@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -104,6 +104,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-06-21-Virtual-Dom提升页面渲染效率的原理](https://www.ershicimi.com/p/7bf138d356d5af7bab8f0c641650b213) 
 - [2020-06-01-未来的JavaScript记录与元组](https://www.ershicimi.com/p/2bc84f1940a293b5e15fd111f8a06119) 
 - [2020-05-26-《JavaScript-20-年》中文版之创立标准](https://www.ershicimi.com/p/78a1bdb0d4466c5350b95e28fb247539) 
 - [2020-05-18-犀牛书作者：最该忘记的JavaScript特性](https://www.ershicimi.com/p/0a5b2e92a82906576b865e539d198e50) 

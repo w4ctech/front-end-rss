@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1680,6 +1680,12 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-06-24-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/113bcb6d08857844ba28562e9e30c189) 
+- [2020-06-24-微内核架构在前端的应用](https://www.ershicimi.com/p/a1188bf45d762d030eaf3e63dd780a42) 
+- [2020-06-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/374b47d95cde776d027f64f9a594bf1a) 
+- [2020-06-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/db6c17ae3cb62a97496a65824d8c5964) 
+- [2020-06-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6601acb96cb668b4ea980bae6b22328a) 
+- [2020-06-20-奇舞周刊第-353-期：-带你走进医疗行业的体验设计](https://www.ershicimi.com/p/7ebeed1c62f278eabbcaffe055b4d0e6) 
 - [2020-06-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa7190b24a6f8bc9ce5a94bd00a8996c) 
 - [2020-06-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/23ec3cf147268f737e7338ab3b3de8a4) 
 - [2020-06-10-狄洛尼三角剖分](https://www.ershicimi.com/p/35a51a8b2f48a771537b1653c4868518) 

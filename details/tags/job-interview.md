@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -45,6 +45,7 @@
 - [2020-06-19-阿里业务线Owner揭秘：这才是前端面试-“刚需”-能力](https://www.ershicimi.com/p/ad6561389534b6882672f821cad028ae) 
 - [2020-06-15-在阿里我是如何当面试官的含流程、注意点、面试题汇总等](https://www.ershicimi.com/p/da2229e0378c219c3192c01bcbf612cf) 
 - [2020-06-02-大厂面试官常问的亮点我们项目中怎么做出？软技能](https://www.ershicimi.com/p/8c20a2ce3d5250633a84dc1c70b21a0a) 
+- [2020-06-17-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/4d58507dab745af6456f3f4cceb76a92) 
 - [2020-06-15-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/b3140767e035fd7edf5747bda4a2e325) 
 - [2020-06-13-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/5d3266f78d3d732072b2e75bc46ee2e0) 
 - [2020-06-10-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/fbaf071261c0e103a655f1defc6daca6) 

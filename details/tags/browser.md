@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-06-17-说说对-options-请求的理解](https://www.ershicimi.com/p/0f7b1dd33ea2ddc16388fb3f9987fb3b) 
 - [2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3) 
 - [2020-06-02-Chrome-DevTools中的这些骚操作，你都知道吗？](https://www.ershicimi.com/p/10ba4ea757521a04c41ec0f874b79b58) 
 - [2020-05-21-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0) 

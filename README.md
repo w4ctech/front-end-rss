@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 01:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 02:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -40,18 +40,18 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -747,6 +747,16 @@
 </summary>
 
 
+- [2020-06-24-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/113bcb6d08857844ba28562e9e30c189) ![](assets/new.png)  
+- [2020-06-24-微内核架构在前端的应用](https://www.ershicimi.com/p/a1188bf45d762d030eaf3e63dd780a42) ![](assets/new.png)  
+- [2020-06-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/374b47d95cde776d027f64f9a594bf1a) ![](assets/new.png)  
+- [2020-06-22-了不起的-Webpack-HMR-学习指南](https://www.ershicimi.com/p/2a0b4edb0855e43f0bf892f8eb4b6ab5) ![](assets/new.png)  
+- [2020-06-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/db6c17ae3cb62a97496a65824d8c5964) ![](assets/new.png)  
+- [2020-06-21-Virtual-Dom提升页面渲染效率的原理](https://www.ershicimi.com/p/7bf138d356d5af7bab8f0c641650b213) ![](assets/new.png)  
+- [2020-06-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6601acb96cb668b4ea980bae6b22328a) ![](assets/new.png)  
+- [2020-06-20-奇舞周刊第-353-期：-带你走进医疗行业的体验设计](https://www.ershicimi.com/p/7ebeed1c62f278eabbcaffe055b4d0e6) ![](assets/new.png)  
+- [2020-06-17-说说对-options-请求的理解](https://www.ershicimi.com/p/0f7b1dd33ea2ddc16388fb3f9987fb3b) ![](assets/new.png)  
+- [2020-06-17-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/4d58507dab745af6456f3f4cceb76a92) ![](assets/new.png)  
 - [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834)  
 - [2020-06-15-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/b3140767e035fd7edf5747bda4a2e325)  
 - [2020-06-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa7190b24a6f8bc9ce5a94bd00a8996c)  
@@ -757,16 +767,6 @@
 - [2020-06-10-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/fbaf071261c0e103a655f1defc6daca6)  
 - [2020-06-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/5068b73d624e6f48c740f53218e52206)  
 - [2020-06-09-【前端冷知识】如何写一个用GPU来抽奖的程序](https://www.ershicimi.com/p/9fb9af012b0180646d185dcb36bd75f1)  
-- [2020-06-09-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/91fd61790db196f6bd0a98492d851448)  
-- [2020-06-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ac07bb21ed29e0fb404116fbaf5b8570)  
-- [2020-06-08-你不知道的-Blob](https://www.ershicimi.com/p/dd4ede68cbe884fbe6140a29d1ce99bd)  
-- [2020-06-08-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/e98c35e178a9fa4b6cc21c8c6dcd3950)  
-- [2020-06-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8d0eefb1eaf9084493437ee5f073c3b5)  
-- [2020-06-05-奇舞周刊第-352-期：支付宝小程序-V8-Worker-技术演进](https://www.ershicimi.com/p/26a5fb46fa04dd8c40dbeb763153173e)  
-- [2020-06-05-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/11bc194f83e78ab5b99b354a0777f44a)  
-- [2020-06-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/924e3ee4ac9ce94b5cead299e8ac12ce)  
-- [2020-06-03-CSR、SSR、NSR、ESR傻傻分不清楚，一文帮你理清前端渲染方案！](https://www.ershicimi.com/p/93ba482d9e72dc35ef3107d76e0f22e3)  
-- [2020-06-03-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1f7fac02805dea9532a1ad33a5ec89e8)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -861,16 +861,16 @@
 </summary>
 
 
-- [2020-06-26-花费9700万，涉及11家企业，5月试行6月放弃，英国跟踪程序宣告惨败](https://www.ershicimi.com/p/28e7bd9c577456e725d7c4675bd98bc8) ![](assets/new.png)  
-- [2020-06-26-我们为什么不用Kubernetes？](https://www.ershicimi.com/p/1aa8ebc79402b55af321eaefb1906ec7) ![](assets/new.png)  
-- [2020-06-26-攻坚-AI-：认知智能是关键-|-AICon](https://www.ershicimi.com/p/095a94611a920dd9221b436faf163b0c) ![](assets/new.png)  
-- [2020-06-26-3年经验，要15k多吗？至于这样刁难我...-|-极客时间](https://www.ershicimi.com/p/869da3850413ca45aac76505975ce4f3) ![](assets/new.png)  
-- [2020-06-26-LinkedIn如何通过合并50万QPS身份服务将延迟降低10%](https://www.ershicimi.com/p/b47bf3f44d09f8b2aec6e1ecc4226f35) ![](assets/new.png)  
-- [2020-06-25-保送浙大、直博港科大，25岁成首席科学家，90后技术人王乃岩的开挂人生-|-二叉树视频](https://www.ershicimi.com/p/7d99a9150b0dfd5a6e2b8ecc04d9eb16) ![](assets/new.png)  
-- [2020-06-25-抓住动态科技商业世界的核心规律｜大鹏学社-2020-级招生开启](https://www.ershicimi.com/p/cecaebeb789bdbce3bbcb9f1cc57ea5c) ![](assets/new.png)  
-- [2020-06-25-不来一次华为，就不能真正理解5G创新会如何改变互联网](https://www.ershicimi.com/p/dd794515e3da13deb942308349d499cd) ![](assets/new.png)  
-- [2020-06-25-同样是配置管理，初高级DevOps工程师处理方法有何不同？](https://www.ershicimi.com/p/549f6bd9e624981b7b1a0d813d022a5d) ![](assets/new.png)  
-- [2020-06-25-从单体到微服务再合并，我们找到了平衡点](https://www.ershicimi.com/p/3ee7e5abd1f127ea90cbcb15ff031723) ![](assets/new.png)  
+- [2020-06-26-花费9700万，涉及11家企业，5月试行6月放弃，英国跟踪程序宣告惨败](https://www.ershicimi.com/p/28e7bd9c577456e725d7c4675bd98bc8)  
+- [2020-06-26-我们为什么不用Kubernetes？](https://www.ershicimi.com/p/1aa8ebc79402b55af321eaefb1906ec7)  
+- [2020-06-26-攻坚-AI-：认知智能是关键-|-AICon](https://www.ershicimi.com/p/095a94611a920dd9221b436faf163b0c)  
+- [2020-06-26-3年经验，要15k多吗？至于这样刁难我...-|-极客时间](https://www.ershicimi.com/p/869da3850413ca45aac76505975ce4f3)  
+- [2020-06-26-LinkedIn如何通过合并50万QPS身份服务将延迟降低10%](https://www.ershicimi.com/p/b47bf3f44d09f8b2aec6e1ecc4226f35)  
+- [2020-06-25-保送浙大、直博港科大，25岁成首席科学家，90后技术人王乃岩的开挂人生-|-二叉树视频](https://www.ershicimi.com/p/7d99a9150b0dfd5a6e2b8ecc04d9eb16)  
+- [2020-06-25-抓住动态科技商业世界的核心规律｜大鹏学社-2020-级招生开启](https://www.ershicimi.com/p/cecaebeb789bdbce3bbcb9f1cc57ea5c)  
+- [2020-06-25-不来一次华为，就不能真正理解5G创新会如何改变互联网](https://www.ershicimi.com/p/dd794515e3da13deb942308349d499cd)  
+- [2020-06-25-同样是配置管理，初高级DevOps工程师处理方法有何不同？](https://www.ershicimi.com/p/549f6bd9e624981b7b1a0d813d022a5d)  
+- [2020-06-25-从单体到微服务再合并，我们找到了平衡点](https://www.ershicimi.com/p/3ee7e5abd1f127ea90cbcb15ff031723)  
 - [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241)  
 - [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22)  
 - [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f)  
@@ -1048,15 +1048,15 @@
 </summary>
 
 
-- [2020-06-27-突然被奇怪的家伙加微信...-互联网真恐怖喵-TwT](https://www.v2ex.com/t/684962) ![](assets/new.png)  
-- [2020-06-27-win10-上的-chrome-主题会被干扰](https://www.v2ex.com/t/684961) ![](assets/new.png)  
-- [2020-06-27-電信網速不達標，技術人員上門幾次測速後不給解決](https://www.v2ex.com/t/684960) ![](assets/new.png)  
-- [2020-06-27-如何判别一则新闻的真实性？](https://www.v2ex.com/t/684959) ![](assets/new.png)  
-- [2020-06-27-专升本后的暑假有没有什么学习意见](https://www.v2ex.com/t/684958) ![](assets/new.png)  
-- [2020-06-27-20200627-午夜俱乐部](https://www.v2ex.com/t/684957) ![](assets/new.png)  
-- [2020-06-27-Athens-Research-之于-Roam-Research-算抄袭吗？](https://www.v2ex.com/t/684956) ![](assets/new.png)  
-- [2020-06-27-一种替代-Matlab-的方式--GNU-Octave-Plugins-for-GNU-TeXmacs](https://www.v2ex.com/t/684954) ![](assets/new.png)  
-- [2020-06-26-WWDC-2020-里这种风格的头像，有工具可以做么？](https://www.v2ex.com/t/684953) ![](assets/new.png)  
+- [2020-06-27-突然被奇怪的家伙加微信...-互联网真恐怖喵-TwT](https://www.v2ex.com/t/684962)  
+- [2020-06-27-win10-上的-chrome-主题会被干扰](https://www.v2ex.com/t/684961)  
+- [2020-06-27-電信網速不達標，技術人員上門幾次測速後不給解決](https://www.v2ex.com/t/684960)  
+- [2020-06-27-如何判别一则新闻的真实性？](https://www.v2ex.com/t/684959)  
+- [2020-06-27-专升本后的暑假有没有什么学习意见](https://www.v2ex.com/t/684958)  
+- [2020-06-27-20200627-午夜俱乐部](https://www.v2ex.com/t/684957)  
+- [2020-06-27-Athens-Research-之于-Roam-Research-算抄袭吗？](https://www.v2ex.com/t/684956)  
+- [2020-06-27-一种替代-Matlab-的方式--GNU-Octave-Plugins-for-GNU-TeXmacs](https://www.v2ex.com/t/684954)  
+- [2020-06-26-WWDC-2020-里这种风格的头像，有工具可以做么？](https://www.v2ex.com/t/684953)  
 - [2020-06-26-实习-商汤科技-研究院-组内直招-c++/go-开发实习生](https://www.v2ex.com/t/684952)  
 - [2020-06-26-南京-内推-端点科技-Java-开发](https://www.v2ex.com/t/684951)  
 - [2020-06-26-27-寸-iMac-要更新了？](https://www.v2ex.com/t/684950)  

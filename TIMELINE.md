@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 01:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1211,6 +1211,16 @@
 - [【凹凸实验室】2020-06-09-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) 
 - [【凹凸实验室】2020-06-08-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) 
+- [【奇舞周刊】2020-06-24-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/113bcb6d08857844ba28562e9e30c189) 
+- [【奇舞周刊】2020-06-24-微内核架构在前端的应用](https://www.ershicimi.com/p/a1188bf45d762d030eaf3e63dd780a42) 
+- [【奇舞周刊】2020-06-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/374b47d95cde776d027f64f9a594bf1a) 
+- [【奇舞周刊】2020-06-22-了不起的-Webpack-HMR-学习指南](https://www.ershicimi.com/p/2a0b4edb0855e43f0bf892f8eb4b6ab5) 
+- [【奇舞周刊】2020-06-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/db6c17ae3cb62a97496a65824d8c5964) 
+- [【奇舞周刊】2020-06-21-Virtual-Dom提升页面渲染效率的原理](https://www.ershicimi.com/p/7bf138d356d5af7bab8f0c641650b213) 
+- [【奇舞周刊】2020-06-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6601acb96cb668b4ea980bae6b22328a) 
+- [【奇舞周刊】2020-06-20-奇舞周刊第-353-期：-带你走进医疗行业的体验设计](https://www.ershicimi.com/p/7ebeed1c62f278eabbcaffe055b4d0e6) 
+- [【奇舞周刊】2020-06-17-说说对-options-请求的理解](https://www.ershicimi.com/p/0f7b1dd33ea2ddc16388fb3f9987fb3b) 
+- [【奇舞周刊】2020-06-17-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/4d58507dab745af6456f3f4cceb76a92) 
 - [【奇舞周刊】2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834) 
 - [【奇舞周刊】2020-06-15-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/b3140767e035fd7edf5747bda4a2e325) 
 - [【奇舞周刊】2020-06-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa7190b24a6f8bc9ce5a94bd00a8996c) 

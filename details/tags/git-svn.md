@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -11,6 +11,7 @@
 - [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) 
 - [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
 - [2020-06-19-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/39d7f3390fa120e7d34945e15031961f) 
+- [2020-06-22-让你纵横-GitHub-的五大神器](https://www.ershicimi.com/p/1284c40e1e71506b5676aa78bf38815f) 
 - [2020-06-17-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da) 
 - [2020-06-10-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7) 
 - [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) 
@@ -19,6 +20,7 @@
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-02-26-第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e) 
+- [2020-06-25-注意，GitHub发布重大更新，关系到所有程序员！](https://www.ershicimi.com/p/2a0afb4de1e13f9ce6a5aa6f42fefaed) 
 - [2020-06-12-收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b) 
 - [2020-06-23-GitHub开源Super-Linter，用自动化解决开发者需求](https://www.ershicimi.com/p/d4fdc75af148cdda17c0c63cf6ec9eae) 
 - [2020-06-06-4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c) 

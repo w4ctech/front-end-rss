@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,6 +53,7 @@
 - [2020-06-01-如何在公司落地业务组件？](https://www.ershicimi.com/p/5e04f2703362185e1beb8c89eb093a3d) 
 - [2020-05-29-工作中常用的JavaScript工具函数](https://www.ershicimi.com/p/4919a2dd80458e365ac18a1e0884a161) 
 - [2020-05-27-前端模块化详解完整版](https://www.ershicimi.com/p/e17e5b915069553e681d303dba24c0e3) 
+- [2020-06-26-（小技巧）h5-手机键盘弹出收起的处理](https://www.ershicimi.com/p/8df9b226e2ebef23be74b8d8551d9340) 
 - [2020-06-14-H5-直播的疯狂点赞动画是如何实现的？](https://www.ershicimi.com/p/72fae246008c062cbace0d2717c1f223) 
 - [2020-06-11-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/50551cb3990a93bf189304fb2a677d52) 
 - [2020-05-26-75个JavaScript面试题集锦，内含解答，自测-JS-掌握程度](https://www.ershicimi.com/p/181a7f00a7298e49b44acd6a5b7d42fc) 

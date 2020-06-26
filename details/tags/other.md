@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1524,6 +1524,10 @@
 - [2020-05-24-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/7917d21a70177f16408ae236a3e7a803) 
 - [2020-05-22-前端开发进阶手册.pdf](https://www.ershicimi.com/p/f2a80ce1f5598b8798410d25196461ba) 
 - [2020-05-22-TS项目开发过程中减少重复代码](https://www.ershicimi.com/p/5f3c3729b0c54ee7071244ef2a7aaa3f) 
+- [2020-06-25-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/ba8a32800f35f752259412fb4d061b72) 
+- [2020-06-25-这是目前为止5G最完整的PPT](https://www.ershicimi.com/p/9be12bb3f5c3bae2103638cda80efcb5) 
+- [2020-06-22-给大家推荐一个大佬朋友，他和你们一样，也是一名前端爱好者](https://www.ershicimi.com/p/98398f31d22f05ec99962bd5513e995a) 
+- [2020-06-21-一个人竟然撸了一个微博-App](https://www.ershicimi.com/p/0983fe11517699f8ad65d8831ee7e779) 
 - [2020-06-20-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/c503d111651f2a046d62d779299dfa41) 
 - [2020-06-18-前端职业规划---写给年轻的前端韭菜们](https://www.ershicimi.com/p/22ba5951d0d261f15a0fa59072cb60fa) 
 - [2020-06-16-每一个技术人的梦想大概就是能够得到一份大厂的-offer，像阿里、腾讯、字节跳动等各方面要明显优普通](https://www.ershicimi.com/p/c847bd0c2f37a7cd97afac61cc5b5554) 
@@ -1702,6 +1706,14 @@
 - [2020-02-25-建精读阿里前端专家，揭秘职位描述下的潜台词](https://www.ershicimi.com/p/9d630ccd51ddd391139ff9ce966106b1) 
 - [2020-02-17-推荐两款好看的-Vscode主题插件](https://www.ershicimi.com/p/3b1007b351e094af06650fd57bdadca8) 
 - [2020-01-20-过年了，免费送出五本好书](https://www.ershicimi.com/p/080563fb5e0e5872eeb7b13bad02e3c6) 
+- [2020-06-26-2020校招薪酬大比拼，PDD好猛！旧人没有新人香，你被倒挂了没？](https://www.ershicimi.com/p/b6616eaf67fee3bd4b2790bf795e9fea) 
+- [2020-06-26-太赞了，Intellij-IDEA-竟然把-Java8-的数据流问题这么完美的解决掉了！](https://www.ershicimi.com/p/5f49fbdc5bcc657e9ba448f6c18cd404) 
+- [2020-06-26-哈哈，代码比较工具，好像就这5款比较顺手~~~](https://www.ershicimi.com/p/e85d8627a7194d9f3f48579666f6e5a1) 
+- [2020-06-25-恐怖！Spring-Boot-“内存泄漏”，排查竟这么难！](https://www.ershicimi.com/p/981d9fd7a533d1099e6edf4d0e28dade) 
+- [2020-06-25-Java高并发之设计模式，设计思想！](https://www.ershicimi.com/p/43b2c5867ba01b34f6d318a130b050b0) 
+- [2020-06-24-震惊！彻底颠覆，马斯克宣布：脑机交互实现重大突破！](https://www.ershicimi.com/p/cddd4714e0cb4985409ea401a2a85c35) 
+- [2020-06-24-别在-Java-代码里乱打日志了，这才是正确的日志打印姿势！](https://www.ershicimi.com/p/6594093cbc330969028a19331699105b) 
+- [2020-06-23-Spring-Boot彻底抛弃Maven，正式转向Gradle，速度贼快！](https://www.ershicimi.com/p/2043fde1b3b6703dd370128bf5a75878) 
 - [2020-06-15-Myeclipse-2020.5-版本首发！支持-Java14](https://www.ershicimi.com/p/bd871cfd3e9a14d8736f41da3f03b753) 
 - [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) 
 - [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 15:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -70,6 +70,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-26-Apple-的面容-ID-真的安全吗？](https://www.v2ex.com/t/684866) 
 - [2020-06-26-实用-Py-从源码文本层面给-Python-模块打“补丁”——记一次对-you-get-进行-Bug-修正、增添功能的“过程”](https://www.v2ex.com/t/684849) 
 - [2020-06-26-重发GOG-免费领取-Cyberpunk-2077-Goodies-Collection](https://www.v2ex.com/t/684829) 
 - [2020-06-26-Chrome-跨设备同步书签，是进行的-merge-操作吗？](https://www.v2ex.com/t/684796) 

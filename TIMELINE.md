@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-26 12:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1122,6 +1122,7 @@
 - [【前端瓶子君】2020-06-03-前端进阶算法：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://www.ershicimi.com/p/5cd28572298991c75cbb124760d467d7) 
 - [【前端瓶子君】2020-06-02-简单粗暴地理解-JS-原型链](https://www.ershicimi.com/p/e7cb0c9930d40e9c9e56d19ef51cfa06) 
 - [【前端瓶子君】2020-06-01-为了进大厂，不得不疯狂刷算法题，可真是太难了](https://www.ershicimi.com/p/54c10f5a50a3f1ee37da25919cd6ca63) 
+- [【程序员成长指北】2020-06-25-前后端全部用-js-开发是什么体验（Hybrid-+-Egg.js经验分享）](https://www.ershicimi.com/p/ced500c03fcbee8991285f2d98b4bbd8) 
 - [【程序员成长指北】2020-06-24-前端真的有资深工程师吗？](https://www.ershicimi.com/p/76f747e2ef0873e53fc4a5dff47b514e) 
 - [【程序员成长指北】2020-06-24-如何优雅的实现一个九宫格抽奖](https://www.ershicimi.com/p/d18c914613076172693c9910451ed3e1) 
 - [【程序员成长指北】2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2) 

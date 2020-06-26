@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-26 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -195,6 +195,7 @@
 - [【前端迷】基于-Express-应用框架的技术方案选型浅谈](https://www.ershicimi.com/p/8c0f6392ebaee24f9cef590e4642f113)
 - [【全栈前端精选】《吊打面试官》系列-Node.js-全栈秒杀系统](https://www.ershicimi.com/p/37cbc6b4e848687a8c658aad76f9cd7b)
 - [【前端瓶子君】V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/52fd6043aeb637bc24a2d148a621bec8)
+- [【程序员成长指北】前后端全部用-js-开发是什么体验（Hybrid-+-Egg.js经验分享）](https://www.ershicimi.com/p/ced500c03fcbee8991285f2d98b4bbd8)
 - [【程序员成长指北】过完618！来看看-Node.js-如何实现秒杀系统](https://www.ershicimi.com/p/b1e65dcb4acb449b46596e42465cd375)
 - [【程序员成长指北】V8-垃圾回收原来这么简单？](https://www.ershicimi.com/p/3eeb6179339367dd463f6e8f6a5a85e1)
 - [【程序员成长指北】基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/c658fec3c2b0baf588aeb893e016069f)
@@ -202,7 +203,6 @@
 - [【程序员成长指北】Node进阶——之事无巨细手写Koa源码](https://www.ershicimi.com/p/cc431966211657f919247fe5390ae5ec)
 - [【Nodejs技术栈】NodeX-Component---滴滴集团-Node.js-生态组件体系](https://www.ershicimi.com/p/080207bfdfb9fafef1e34680ef914fba)
 - [【Nodejs技术栈】Nodejs-与-Python-的使用对比](https://www.ershicimi.com/p/ec68cb4f4549de54a2839c6af58d0ae6)
-- [【Nodejs技术栈】从-0-开始之脚本神器-Jupyter-与-Nodejs-实践](https://www.ershicimi.com/p/c46d62f90308db56882fbb48307f493a)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

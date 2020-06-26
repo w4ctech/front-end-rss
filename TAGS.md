@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -48,6 +48,7 @@
 - [【前端大学】从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/24fe4c5cd2ad90fed8021beac6939ce3)
 - [【前端大学】探索-React-的内在---postMessage-和-Scheduler](https://www.ershicimi.com/p/736b7afc2a6bd5057a6936d1c0154ba1)
 - [【前端大学】公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5)
+- [【前端之巅】为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a)
 - [【前端之巅】编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74)
 - [【前端之巅】前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)
 - [【前端之巅】跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7)
@@ -58,7 +59,6 @@
 - [【前端瓶子君】分析-React-组件的渲染性能](https://www.ershicimi.com/p/995730554b61152d6610eee9bd40c124)
 - [【前端瓶子君】15-个很有用的自定义-React-Hooks](https://www.ershicimi.com/p/764dc85d882fd6272745001990ef2034)
 - [【凹凸实验室】Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)
-- [【凹凸实验室】Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -114,6 +114,7 @@
 - [【前端大全】Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e)
 - [【前端大全】通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2)
 - [【前端大学】Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5)
+- [【前端之巅】Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac)
 - [【前端之巅】何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be)
 - [【前端之巅】受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831)
 - [【前端迷】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6)
@@ -130,7 +131,6 @@
 - [【InfoQ】何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a)
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)
 - [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
-- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -186,6 +186,7 @@
 - [【Vue中文社区】Javascript开发人员偏爱Deno而不是Node的5大原因](https://www.ershicimi.com/p/982a6c58c70ca4fa748ff23d05ecdd3e)
 - [【前端早读课】【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621)
 - [【前端大全】Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270)
+- [【前端之巅】JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e)
 - [【前端之巅】使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5)
 - [【前端之巅】手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3)
 - [【前端之巅】Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f)
@@ -202,7 +203,6 @@
 - [【Nodejs技术栈】NodeX-Component---滴滴集团-Node.js-生态组件体系](https://www.ershicimi.com/p/080207bfdfb9fafef1e34680ef914fba)
 - [【Nodejs技术栈】Nodejs-与-Python-的使用对比](https://www.ershicimi.com/p/ec68cb4f4549de54a2839c6af58d0ae6)
 - [【Nodejs技术栈】从-0-开始之脚本神器-Jupyter-与-Nodejs-实践](https://www.ershicimi.com/p/c46d62f90308db56882fbb48307f493a)
-- [【Nodejs技术栈】基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/289a118175799d0fc404525e7dd52256)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -225,6 +225,7 @@
 - [【前端圈】视频刘帅带来《巨型小程序的分布式开发与自动化管理》！](https://www.ershicimi.com/p/87eba2f1f542935fbe26bfe7c5de69d5)
 - [【前端圈】视频崔红保带来《基于weex实现的小程序引擎》！](https://www.ershicimi.com/p/c26e28939407871c257a92873da7c97b)
 - [【前端大学】小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/a0e3b921c9c561320ad9547eb7baa398)
+- [【前端之巅】苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79)
 - [【前端之巅】5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516)
 - [【前端之巅】移动端风头正旺，但我选择开发-PC-端小程序](https://www.ershicimi.com/p/23165ab3e116591bf793395719891d9b)
 - [【全栈前端精选】七大热门小程序框架横评，谁是性能之王](https://www.ershicimi.com/p/7bd30ce806d34ded494a55b658a2fe1f)
@@ -238,7 +239,6 @@
 - [【凹凸实验室】GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/)
 - [【凹凸实验室】Taro-邀你加入社区共建-—-社区共建倡议书](https://aotu.io/notes/2019/10/24/taro-open/)
 - [【凹凸实验室】玩转-Taro-跨端之-flex-布局篇](https://aotu.io/notes/2019/09/25/taro-flex/)
-- [【凹凸实验室】邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)
 - [......【查看更多】......](./details/tags/miniprogram.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -475,6 +475,7 @@
 - [【前端早读课】【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64)
 - [【前端大全】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5)
 - [【前端开发】前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f)
+- [【前端之巅】U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989)
 - [【前端之巅】日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)
 - [【前端之巅】​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
@@ -490,7 +491,6 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【奇舞周刊】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/c25ed8437e6857fcd834baef439bc72b)
 - [【互联网架构师】提升系统-10-倍性能的-10-个建议！](https://www.ershicimi.com/p/9d78d3a13891c73af58dbdff0aef30e8)
-- [【互联网架构师】为什么-HashMap-的加载因子是0.75？](https://www.ershicimi.com/p/2ef190a34795ec6c9f527331fdeaebdd)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

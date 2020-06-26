@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 10:00:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 11:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -26,14 +26,14 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
-- [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
+- [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1)  
 - [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1)  
 - [2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1)  
 - [2020-06-26-秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1)  
@@ -146,15 +146,15 @@
 </summary>
 
 
-- [2020-06-25-刀哥拍了拍你，并扔给你一个粽子](https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a) ![](assets/new.png)  
-- [2020-06-24-解锁前端面试体系核心攻略.pdf](https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73) ![](assets/new.png)  
-- [2020-06-24-从应用场景再谈防抖和节流](https://www.ershicimi.com/p/90386e29e4afd210f86749ff2086f189) ![](assets/new.png)  
-- [2020-06-23-让Jenkins自动布署你的Vue项目](https://www.ershicimi.com/p/7a8a9e56672d838c68826006b07e7784) ![](assets/new.png)  
-- [2020-06-23-20个免费的设计资源-UI套件背景图标CSS框架](https://www.ershicimi.com/p/a71894f08c43927b3af0e10bc13ff44e) ![](assets/new.png)  
-- [2020-06-22-听说只要标题写vue3，你们就会点进来看](https://www.ershicimi.com/p/157dcc56f9d36c9e5691f904ae47f7e7) ![](assets/new.png)  
-- [2020-06-22-前端骨架屏都是如何生成的](https://www.ershicimi.com/p/4bc26e09a1de18fb3ffbcdc207f94642) ![](assets/new.png)  
-- [2020-06-21-前端工程师的进阶之路](https://www.ershicimi.com/p/74be807330214d708d9829adefa7a3d8) ![](assets/new.png)  
-- [2020-06-20-9个很棒的CSS边框技巧](https://www.ershicimi.com/p/a2ce3aefcfbf34eae6f1cbae34604e14) ![](assets/new.png)  
+- [2020-06-25-刀哥拍了拍你，并扔给你一个粽子](https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a)  
+- [2020-06-24-解锁前端面试体系核心攻略.pdf](https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73)  
+- [2020-06-24-从应用场景再谈防抖和节流](https://www.ershicimi.com/p/90386e29e4afd210f86749ff2086f189)  
+- [2020-06-23-让Jenkins自动布署你的Vue项目](https://www.ershicimi.com/p/7a8a9e56672d838c68826006b07e7784)  
+- [2020-06-23-20个免费的设计资源-UI套件背景图标CSS框架](https://www.ershicimi.com/p/a71894f08c43927b3af0e10bc13ff44e)  
+- [2020-06-22-听说只要标题写vue3，你们就会点进来看](https://www.ershicimi.com/p/157dcc56f9d36c9e5691f904ae47f7e7)  
+- [2020-06-22-前端骨架屏都是如何生成的](https://www.ershicimi.com/p/4bc26e09a1de18fb3ffbcdc207f94642)  
+- [2020-06-21-前端工程师的进阶之路](https://www.ershicimi.com/p/74be807330214d708d9829adefa7a3d8)  
+- [2020-06-20-9个很棒的CSS边框技巧](https://www.ershicimi.com/p/a2ce3aefcfbf34eae6f1cbae34604e14)  
 - [2020-06-19-3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4)  
 - [2020-06-19-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/d13e22a43a590207083d1dc2bde5f93b)  
 - [2020-06-18-一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2)  
@@ -354,15 +354,15 @@
 </summary>
 
 
-- [2020-06-25-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766) ![](assets/new.png)  
-- [2020-06-25-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5) ![](assets/new.png)  
-- [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/994a854d1a58576e886f0392b53f3166) ![](assets/new.png)  
-- [2020-06-23-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/8c58058aadcd3e96c99c862b8528352b) ![](assets/new.png)  
-- [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/819f99b2d78b579d5217bacc37eb300d) ![](assets/new.png)  
-- [2020-06-22-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/62b28e5440ca00601907b4a482b5f90e) ![](assets/new.png)  
-- [2020-06-22-从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/24fe4c5cd2ad90fed8021beac6939ce3) ![](assets/new.png)  
-- [2020-06-20-前端开发与架构师](https://www.ershicimi.com/p/f70a7d662e4f9f708a7a2fd996355b49) ![](assets/new.png)  
-- [2020-06-20-理解-WebView](https://www.ershicimi.com/p/be3f64ab2644c26ae4ffa8d06b6a8374) ![](assets/new.png)  
+- [2020-06-25-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766)  
+- [2020-06-25-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5)  
+- [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/994a854d1a58576e886f0392b53f3166)  
+- [2020-06-23-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/8c58058aadcd3e96c99c862b8528352b)  
+- [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/819f99b2d78b579d5217bacc37eb300d)  
+- [2020-06-22-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/62b28e5440ca00601907b4a482b5f90e)  
+- [2020-06-22-从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/24fe4c5cd2ad90fed8021beac6939ce3)  
+- [2020-06-20-前端开发与架构师](https://www.ershicimi.com/p/f70a7d662e4f9f708a7a2fd996355b49)  
+- [2020-06-20-理解-WebView](https://www.ershicimi.com/p/be3f64ab2644c26ae4ffa8d06b6a8374)  
 - [2020-06-19-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/d2b75ea3ccb55b0bc0a7313d319ebaca)  
 - [2020-06-19-三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/39d7f3390fa120e7d34945e15031961f)  
 - [2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/e5a25bd6a47b07dbee7a95cf200cbf76)  
@@ -406,6 +406,16 @@
 </summary>
 
 
+- [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a) ![](assets/new.png)  
+- [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989) ![](assets/new.png)  
+- [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b) ![](assets/new.png)  
+- [2020-06-24-JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e) ![](assets/new.png)  
+- [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d) ![](assets/new.png)  
+- [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd) ![](assets/new.png)  
+- [2020-06-23-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79) ![](assets/new.png)  
+- [2020-06-23-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a) ![](assets/new.png)  
+- [2020-06-22-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac) ![](assets/new.png)  
+- [2020-06-22-JavaScript-中内存泄漏的原因以及对策](https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1) ![](assets/new.png)  
 - [2020-06-15-谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！](https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf)  
 - [2020-06-15-让你的代码讲出它的故事](https://www.ershicimi.com/p/8bdc0d5bea80b19e5c50dfabd200b864)  
 - [2020-06-15-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客大学](https://www.ershicimi.com/p/531efbfd8443cf0789db4ed910985deb)  
@@ -416,16 +426,6 @@
 - [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)  
 - [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)  
 - [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd)  
-- [2020-06-10-编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74)  
-- [2020-06-09-27岁程序员转职赏金猎人：一个漏洞10万美元，比工资香多了](https://www.ershicimi.com/p/caf8b5c0243986901b1271d0f844e08f)  
-- [2020-06-09-Serverless国内发展的纵向观察](https://www.ershicimi.com/p/1bb3e059032480c3a1f249beea94e2a6)  
-- [2020-06-08-前端福音：为什么使用React和SVG开发图形UI是天作之合？](https://www.ershicimi.com/p/b4741169788037d5ed2d7aa49c89227b)  
-- [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963)  
-- [2020-06-08-程序员要如何拥抱新技术？](https://www.ershicimi.com/p/368eec0d92d7c1a21959ef68ab642e46)  
-- [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c)  
-- [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145)  
-- [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677)  
-- [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -556,11 +556,11 @@
 </summary>
 
 
-- [2020-06-25-如何写一个像-axios-那样优秀的请求库](https://www.ershicimi.com/p/474a42748481954f9467c6f58609af6b) ![](assets/new.png)  
-- [2020-06-24-前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/6e7c63706dad905fbaebb41fc61b6f86) ![](assets/new.png)  
-- [2020-06-24-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/de1cb299d592b9388595f4be177b7424) ![](assets/new.png)  
-- [2020-06-23-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/1b8ae2d15f3ee7d0b8bdc8d853262eef) ![](assets/new.png)  
-- [2020-06-23-分析-React-组件的渲染性能](https://www.ershicimi.com/p/995730554b61152d6610eee9bd40c124) ![](assets/new.png)  
+- [2020-06-25-如何写一个像-axios-那样优秀的请求库](https://www.ershicimi.com/p/474a42748481954f9467c6f58609af6b)  
+- [2020-06-24-前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/6e7c63706dad905fbaebb41fc61b6f86)  
+- [2020-06-24-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/de1cb299d592b9388595f4be177b7424)  
+- [2020-06-23-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/1b8ae2d15f3ee7d0b8bdc8d853262eef)  
+- [2020-06-23-分析-React-组件的渲染性能](https://www.ershicimi.com/p/995730554b61152d6610eee9bd40c124)  
 - [2020-06-22-尤雨溪：重头来过的-Vue-3-带来了什么？](https://www.ershicimi.com/p/fbff6c7b2ba335e7c0744e847d69133e)  
 - [2020-06-21-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/1a15aa97f5f592b36546a6117df3771b)  
 - [2020-06-20-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/e72338502b74b3ba48a82883bfd4337f)  

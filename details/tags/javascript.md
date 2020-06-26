@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -40,6 +40,7 @@
 - [2020-05-25-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/03bfc1404951fdd4edd89eae1b1b605e) 
 - [2020-05-24-一起探讨-JavaScript-的对象](https://www.ershicimi.com/p/c7d67e50a9cb02dcec5fcea1dafc27d6) 
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
+- [2020-06-22-JavaScript-中内存泄漏的原因以及对策](https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1) 
 - [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd) 
 - [2020-06-08-10个实用的JS技巧](https://www.ershicimi.com/p/fe076c903ccffb4a36e770faa615c963) 
 - [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -10,6 +10,7 @@
 - [2020-06-16-Javascript开发人员偏爱Deno而不是Node的5大原因](https://www.ershicimi.com/p/982a6c58c70ca4fa748ff23d05ecdd3e) 
 - [2020-06-23-【第1984期】浅析-NodeJs-的几种文件路径](https://www.ershicimi.com/p/bc99c8915df50f9c5c295ba3ad894621) 
 - [2020-05-22-Deno-会取代-Node.js-吗？](https://www.ershicimi.com/p/11f052ae53a0a0d5ed6be01cce784270) 
+- [2020-06-24-JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e) 
 - [2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5) 
 - [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
 - [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) 

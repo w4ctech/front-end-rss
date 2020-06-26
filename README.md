@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 12:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 13:00:20，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
+- [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -587,7 +587,7 @@
 </summary>
 
 
-- [2020-06-25-前后端全部用-js-开发是什么体验（Hybrid-+-Egg.js经验分享）](https://www.ershicimi.com/p/ced500c03fcbee8991285f2d98b4bbd8) ![](assets/new.png)  
+- [2020-06-25-前后端全部用-js-开发是什么体验（Hybrid-+-Egg.js经验分享）](https://www.ershicimi.com/p/ced500c03fcbee8991285f2d98b4bbd8)  
 - [2020-06-24-前端真的有资深工程师吗？](https://www.ershicimi.com/p/76f747e2ef0873e53fc4a5dff47b514e)  
 - [2020-06-24-如何优雅的实现一个九宫格抽奖](https://www.ershicimi.com/p/d18c914613076172693c9910451ed3e1)  
 - [2020-06-23-CommonJS-和-ES6-Module-究竟有什么区别？](https://www.ershicimi.com/p/d13d7e0c4fc21feddbdb04917770caa2)  
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-26-求推荐性价比高的对象存储服务](https://www.v2ex.com/t/684798)  
-- [2020-06-26-Onedrive-国际版如何用多线程下载？](https://www.v2ex.com/t/684797)  
-- [2020-06-26-Chrome-跨设备同步书签，是进行的-merge-操作吗？](https://www.v2ex.com/t/684796)  
-- [2020-06-26-16-inch-Mbp-arm](https://www.v2ex.com/t/684795)  
-- [2020-06-26-同上海租房咨询](https://www.v2ex.com/t/684794)  
-- [2020-06-26-Big-Sur-Safari-闪退](https://www.v2ex.com/t/684793)  
-- [2020-06-26-前端新手失业半年，望前辈们指指路](https://www.v2ex.com/t/684792)  
-- [2020-06-26-有没有团队在实际项目中，在写业务代码时，遇到业务强相关的变量，使用中文变量名称？](https://www.v2ex.com/t/684791)  
-- [2020-06-26-分享一个团队协作工具-liuzijin.com](https://www.v2ex.com/t/684789)  
-- [2020-06-26-求解-之前保留的闹钟无故消失](https://www.v2ex.com/t/684788)  
-- [2020-06-26-在哪里查询-苹果天才吧-维修网点的地址呢？](https://www.v2ex.com/t/684787)  
-- [2020-06-26-MBP2018-电池-显示-建议维修-是不是可以免费拿去更换电池呀？](https://www.v2ex.com/t/684785)  
-- [2020-06-26-The-Last-of-Us-Part-2-中这种类似光线追踪的效果是怎么实现的](https://www.v2ex.com/t/684784)  
-- [2020-06-26-2018MBP-13'-标配-电池循环-251-次-状态：建议维修-已经鼓包撑起壳子-现在可以在桌面上旋转-🐶](https://www.v2ex.com/t/684783)  
-- [2020-06-26-2021-校招/实习/社招-端午节呆在家里好无聊，来内推吧来投简历吧字节](https://www.v2ex.com/t/684782)  
-- [2020-06-26-家里宽带网线只有-100mbps-怎么办？](https://www.v2ex.com/t/684781)  
-- [2020-06-26-新版-Edge-浏览器把无缝迁移做的这么彻底了吗...](https://www.v2ex.com/t/684780)  
-- [2020-06-26-请教各位大佬，作为底层开发，工作要考虑项目发展前景还是老老实实完成本分任务就好？](https://www.v2ex.com/t/684779)  
-- [2020-06-26-一直有个问题，众多背单词-APP-的音频，音源是哪里的？](https://www.v2ex.com/t/684777)  
-- [2020-06-26-「全职远程」-Zine-诚聘-Web-前端-开发者](https://www.v2ex.com/t/684776)  
+- [2020-06-26-mac-关闭自动更新为什么还是总提示有可用更新呀](https://www.v2ex.com/t/684839) ![](assets/new.png)  
+- [2020-06-26-背刺字节跳动](https://www.v2ex.com/t/684838) ![](assets/new.png)  
+- [2020-06-26-郁闷,-iOS14-上-Keep-闪退](https://www.v2ex.com/t/684837) ![](assets/new.png)  
+- [2020-06-26-跳槽一定会看上一家公司工资？](https://www.v2ex.com/t/684836) ![](assets/new.png)  
+- [2020-06-26-最近看新闻产生的想法（一个类似天眼查的任职追踪系统）](https://www.v2ex.com/t/684835) ![](assets/new.png)  
+- [2020-06-26-群晖-HyperBackup-求推荐靠谱服务商。](https://www.v2ex.com/t/684834) ![](assets/new.png)  
+- [2020-06-26-一个很久没登录的小号-QQ，今天登录了下发现收到一堆银行的催收邮件](https://www.v2ex.com/t/684833) ![](assets/new.png)  
+- [2020-06-26-据说苹果手机终于支持桌面插件和文件夹了](https://www.v2ex.com/t/684832) ![](assets/new.png)  
+- [2020-06-26-iPhone-充电无规律的咚声](https://www.v2ex.com/t/684831) ![](assets/new.png)  
+- [2020-06-26-对海外互联网产品设计比较有经验的设计师请进](https://www.v2ex.com/t/684830) ![](assets/new.png)  
+- [2020-06-26-重发GOG-免费领取-Cyberpunk-2077-Goodies-Collection](https://www.v2ex.com/t/684829) ![](assets/new.png)  
+- [2020-06-26-请问有-gay-吗？有-1-吗？-PHP-大佬-1-最好！](https://www.v2ex.com/t/684828) ![](assets/new.png)  
+- [2020-06-26-大家有没有-Oracle-删除大量数据的建议？-780w-数据](https://www.v2ex.com/t/684827) ![](assets/new.png)  
+- [2020-06-26-配了一台黑苹果主机，希望大佬们能给点建议](https://www.v2ex.com/t/684825) ![](assets/new.png)  
+- [2020-06-26-iPhone-11-系列，关于设置相机格式，选择“高效”还是-"兼容性最佳"？](https://www.v2ex.com/t/684824) ![](assets/new.png)  
+- [2020-06-26-我觉得我们还是少点自嘲吧](https://www.v2ex.com/t/684823) ![](assets/new.png)  
+- [2020-06-26-Big-Sur-里面，-Photos-可以像-iOS-一样直接把-Memories-导出成视频了吗？](https://www.v2ex.com/t/684822) ![](assets/new.png)  
+- [2020-06-26-windows-笔记本可以像-macbook-一样脱离鼠标工作吗？](https://www.v2ex.com/t/684821) ![](assets/new.png)  
+- [2020-06-26-你萌小区里有自助生鲜柜吗？你在那买过菜吗？](https://www.v2ex.com/t/684818) ![](assets/new.png)  
+- [2020-06-26-上海联通-1-元宽带挂了，你的小区中招了吗](https://www.v2ex.com/t/684816) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

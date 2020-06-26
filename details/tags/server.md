@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -16,6 +16,7 @@
 - [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) 
 - [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
 - [2020-06-23-Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5) 
+- [2020-06-26-Docker-Desktop-for-Window-会创建如下两个发行版（distro）到底是什么鬼?](https://www.v2ex.com/t/684800) 
 - [2020-06-24-OpenWrt-中-使用-Docker-安装可道云出错。](https://www.v2ex.com/t/684544) 
 - [2020-06-22-发现-Pinterest-上的广告很有创意](https://www.v2ex.com/t/683798) 
 - [2020-06-22-求问一下-nginx-里面-proxy_buffers-的设置问题](https://www.v2ex.com/t/683796) 

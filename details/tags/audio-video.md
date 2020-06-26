@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 00:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -26,6 +26,7 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-06-25-保送浙大、直博港科大，25岁成首席科学家，90后技术人王乃岩的开挂人生-|-二叉树视频](https://www.ershicimi.com/p/7d99a9150b0dfd5a6e2b8ecc04d9eb16) 
 - [2020-06-05-留美六年毅然归国，85后技术VP金超：我想把工业智能做好-|-二叉树视频](https://www.ershicimi.com/p/99e6b2d5b2b6573a358554d341a9c718) 
 - [2020-06-05-HLS-+-ffmpeg-实现动态码流视频服务](https://juejin.im/post/5ed9a19f51882542f871e27d) 
 - [2020-06-03-自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7) 

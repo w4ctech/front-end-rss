@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 00:00:20，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 01:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1) ![](assets/new.png)  
-- [2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1) ![](assets/new.png)  
-- [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1)  
+- [2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1)  
+- [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1)  
 - [2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1)  
 - [2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1)  
 - [2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1)  
@@ -861,6 +861,16 @@
 </summary>
 
 
+- [2020-06-26-花费9700万，涉及11家企业，5月试行6月放弃，英国跟踪程序宣告惨败](https://www.ershicimi.com/p/28e7bd9c577456e725d7c4675bd98bc8) ![](assets/new.png)  
+- [2020-06-26-我们为什么不用Kubernetes？](https://www.ershicimi.com/p/1aa8ebc79402b55af321eaefb1906ec7) ![](assets/new.png)  
+- [2020-06-26-攻坚-AI-：认知智能是关键-|-AICon](https://www.ershicimi.com/p/095a94611a920dd9221b436faf163b0c) ![](assets/new.png)  
+- [2020-06-26-3年经验，要15k多吗？至于这样刁难我...-|-极客时间](https://www.ershicimi.com/p/869da3850413ca45aac76505975ce4f3) ![](assets/new.png)  
+- [2020-06-26-LinkedIn如何通过合并50万QPS身份服务将延迟降低10%](https://www.ershicimi.com/p/b47bf3f44d09f8b2aec6e1ecc4226f35) ![](assets/new.png)  
+- [2020-06-25-保送浙大、直博港科大，25岁成首席科学家，90后技术人王乃岩的开挂人生-|-二叉树视频](https://www.ershicimi.com/p/7d99a9150b0dfd5a6e2b8ecc04d9eb16) ![](assets/new.png)  
+- [2020-06-25-抓住动态科技商业世界的核心规律｜大鹏学社-2020-级招生开启](https://www.ershicimi.com/p/cecaebeb789bdbce3bbcb9f1cc57ea5c) ![](assets/new.png)  
+- [2020-06-25-不来一次华为，就不能真正理解5G创新会如何改变互联网](https://www.ershicimi.com/p/dd794515e3da13deb942308349d499cd) ![](assets/new.png)  
+- [2020-06-25-同样是配置管理，初高级DevOps工程师处理方法有何不同？](https://www.ershicimi.com/p/549f6bd9e624981b7b1a0d813d022a5d) ![](assets/new.png)  
+- [2020-06-25-从单体到微服务再合并，我们找到了平衡点](https://www.ershicimi.com/p/3ee7e5abd1f127ea90cbcb15ff031723) ![](assets/new.png)  
 - [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241)  
 - [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22)  
 - [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f)  
@@ -871,16 +881,6 @@
 - [2020-06-23-从平面到立体，图分析能力所引领的数据思维模式演进-|-Q推荐](https://www.ershicimi.com/p/6c3736dea5c6df8fa3f86b84e421df48)  
 - [2020-06-23-Deno-内部代码将停用-TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/e035751c717f6a9b0a14bd60c22f0bb4)  
 - [2020-06-23-GitHub开源Super-Linter，用自动化解决开发者需求](https://www.ershicimi.com/p/d4fdc75af148cdda17c0c63cf6ec9eae)  
-- [2020-06-22-高校再陷版权纷争：MATLAB遭禁用后，又一基础软件严查盗版](https://www.ershicimi.com/p/ba9a53d5f3d2120b218907087ca5e1ea)  
-- [2020-06-22-我肝了一个月，给你写出了这本-Java-开发手册](https://www.ershicimi.com/p/c9ff6b92ad6983ddb55d05a9aabbd359)  
-- [2020-06-22-京东：二次上市，向技术与服务公司转型-|-QCon](https://www.ershicimi.com/p/4ed029e5dc56b7af7bdcf1badda285bc)  
-- [2020-06-22-多场景适配，TNN如何优化模型部署的存储与计算？](https://www.ershicimi.com/p/218760e03fbfd5036fd94c731920fe93)  
-- [2020-06-22-我为什么放弃移动开发](https://www.ershicimi.com/p/b4d458cd1e3b8d47bbb8c67c193699b3)  
-- [2020-06-21-华为、高通等大厂都在死磕的VR，路在何方？](https://www.ershicimi.com/p/428f3fad6c32832662f89d759db31c08)  
-- [2020-06-21-大数据的下一站是什么？](https://www.ershicimi.com/p/b1484af6177d3d368df778833c2f362d)  
-- [2020-06-21-5G创新做动力，这些互联网企业已经开始奔跑！](https://www.ershicimi.com/p/5c6765f069ce1edee95daa99b78001fa)  
-- [2020-06-21-【有奖调研】新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9d1684aa614ce135041892aba0e6e65f)  
-- [2020-06-21-马斯克星链计划遭质疑：延迟能否低于100毫秒？](https://www.ershicimi.com/p/f404f12c158662433b4153a1a9105fa5)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-26-实习-商汤科技-研究院-组内直招-c++/go-开发实习生](https://www.v2ex.com/t/684952) ![](assets/new.png)  
-- [2020-06-26-南京-内推-端点科技-Java-开发](https://www.v2ex.com/t/684951) ![](assets/new.png)  
-- [2020-06-26-27-寸-iMac-要更新了？](https://www.v2ex.com/t/684950) ![](assets/new.png)  
-- [2020-06-26-edge-的谷歌关闭不了安全搜索](https://www.v2ex.com/t/684949) ![](assets/new.png)  
-- [2020-06-26-公务员-or-程序员-应届生求建议](https://www.v2ex.com/t/684948) ![](assets/new.png)  
+- [2020-06-27-突然被奇怪的家伙加微信...-互联网真恐怖喵-TwT](https://www.v2ex.com/t/684962) ![](assets/new.png)  
+- [2020-06-27-win10-上的-chrome-主题会被干扰](https://www.v2ex.com/t/684961) ![](assets/new.png)  
+- [2020-06-27-電信網速不達標，技術人員上門幾次測速後不給解決](https://www.v2ex.com/t/684960) ![](assets/new.png)  
+- [2020-06-27-如何判别一则新闻的真实性？](https://www.v2ex.com/t/684959) ![](assets/new.png)  
+- [2020-06-27-专升本后的暑假有没有什么学习意见](https://www.v2ex.com/t/684958) ![](assets/new.png)  
+- [2020-06-27-20200627-午夜俱乐部](https://www.v2ex.com/t/684957) ![](assets/new.png)  
+- [2020-06-27-Athens-Research-之于-Roam-Research-算抄袭吗？](https://www.v2ex.com/t/684956) ![](assets/new.png)  
+- [2020-06-27-一种替代-Matlab-的方式--GNU-Octave-Plugins-for-GNU-TeXmacs](https://www.v2ex.com/t/684954) ![](assets/new.png)  
+- [2020-06-26-WWDC-2020-里这种风格的头像，有工具可以做么？](https://www.v2ex.com/t/684953) ![](assets/new.png)  
+- [2020-06-26-实习-商汤科技-研究院-组内直招-c++/go-开发实习生](https://www.v2ex.com/t/684952)  
+- [2020-06-26-南京-内推-端点科技-Java-开发](https://www.v2ex.com/t/684951)  
+- [2020-06-26-27-寸-iMac-要更新了？](https://www.v2ex.com/t/684950)  
+- [2020-06-26-edge-的谷歌关闭不了安全搜索](https://www.v2ex.com/t/684949)  
+- [2020-06-26-公务员-or-程序员-应届生求建议](https://www.v2ex.com/t/684948)  
 - [2020-06-26-最新-chrome-的插件图标变成这么个玩意了？](https://www.v2ex.com/t/684947)  
 - [2020-06-26-小白请教各大佬点-Python-requests-库的-ip-代理池的知识](https://www.v2ex.com/t/684946)  
 - [2020-06-26-Notion-貌似还不支持-Web-浏览器里的-Dark-Mode？](https://www.v2ex.com/t/684945)  
 - [2020-06-26-没想到我也有这一天,软件求取名,选中有红包](https://www.v2ex.com/t/684944)  
 - [2020-06-26-想问下华为旗舰店导购怎么应聘呢？](https://www.v2ex.com/t/684943)  
 - [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的小工具---Steam-Design-Tools](https://www.v2ex.com/t/684941)  
-- [2020-06-26-空气潮湿,-打印纸会变弯曲,-有没有什么方法解决下?](https://www.v2ex.com/t/684940)  
-- [2020-06-26-有人知道-b23.tv-短链接生成用的-api-是啥吗](https://www.v2ex.com/t/684939)  
-- [2020-06-26-深圳的朋友有没有发现路边多了很多比路灯矮一点的杆子顶部尖尖的类似天线的东西？](https://www.v2ex.com/t/684938)  
-- [2020-06-26-分享兴趣小项目-vscode-插件一枚](https://www.v2ex.com/t/684937)  
-- [2020-06-26-关于聋哑人就业的一点想法](https://www.v2ex.com/t/684936)  
-- [2020-06-26-这回基本确定有全面屏-Mac-了吧](https://www.v2ex.com/t/684935)  
-- [2020-06-26-广州的兄弟们，你们一个月电费多少？](https://www.v2ex.com/t/684934)  
-- [2020-06-26-BigSur-设置配置，重启丢失？](https://www.v2ex.com/t/684933)  
-- [2020-06-26-发现大多数平台美颜直播的码率都很低](https://www.v2ex.com/t/684929)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

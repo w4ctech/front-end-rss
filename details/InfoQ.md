@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-06-25 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-26-花费9700万，涉及11家企业，5月试行6月放弃，英国跟踪程序宣告惨败](https://www.ershicimi.com/p/28e7bd9c577456e725d7c4675bd98bc8) 
+- [2020-06-26-我们为什么不用Kubernetes？](https://www.ershicimi.com/p/1aa8ebc79402b55af321eaefb1906ec7) 
+- [2020-06-26-攻坚-AI-：认知智能是关键-|-AICon](https://www.ershicimi.com/p/095a94611a920dd9221b436faf163b0c) 
+- [2020-06-26-3年经验，要15k多吗？至于这样刁难我...-|-极客时间](https://www.ershicimi.com/p/869da3850413ca45aac76505975ce4f3) 
+- [2020-06-26-LinkedIn如何通过合并50万QPS身份服务将延迟降低10%](https://www.ershicimi.com/p/b47bf3f44d09f8b2aec6e1ecc4226f35) 
+- [2020-06-25-保送浙大、直博港科大，25岁成首席科学家，90后技术人王乃岩的开挂人生-|-二叉树视频](https://www.ershicimi.com/p/7d99a9150b0dfd5a6e2b8ecc04d9eb16) 
+- [2020-06-25-抓住动态科技商业世界的核心规律｜大鹏学社-2020-级招生开启](https://www.ershicimi.com/p/cecaebeb789bdbce3bbcb9f1cc57ea5c) 
+- [2020-06-25-不来一次华为，就不能真正理解5G创新会如何改变互联网](https://www.ershicimi.com/p/dd794515e3da13deb942308349d499cd) 
+- [2020-06-25-同样是配置管理，初高级DevOps工程师处理方法有何不同？](https://www.ershicimi.com/p/549f6bd9e624981b7b1a0d813d022a5d) 
+- [2020-06-25-从单体到微服务再合并，我们找到了平衡点](https://www.ershicimi.com/p/3ee7e5abd1f127ea90cbcb15ff031723) 
 - [2020-06-24-全球数十亿条用户记录被泄露，姓名住址全曝光，Oracle或已引发今年最大的数据安全事件](https://www.ershicimi.com/p/37adc386b851b187a2d51c76fa08b241) 
 - [2020-06-24-最好的礼物送给最「粽」要的人-|-端午福利](https://www.ershicimi.com/p/78b3a3d1efb688cb50e5cabc4b853c22) 
 - [2020-06-24-起势的-Serverless，正在挺进云计算的腹地深处](https://www.ershicimi.com/p/5894336d3e5c1e18dac2fbd3cbf3669f) 

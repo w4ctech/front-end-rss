@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -31,6 +31,7 @@
 - [2020-06-03-自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7) 
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
 - [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) 
+- [2020-06-26-一直有个问题，众多背单词-APP-的音频，音源是哪里的？](https://www.v2ex.com/t/684777) 
 - [2020-06-25-原创视频：-iOS-14-Beta-1-小改动梳理](https://www.v2ex.com/t/684636) 
 - [2020-06-25-关于-macOS-Big-sur-播放视频的-bug](https://www.v2ex.com/t/684627) 
 - [2020-06-25-WWDC-2020-所有新技术的介绍视频全集](https://www.v2ex.com/t/684609) 

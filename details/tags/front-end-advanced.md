@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -56,6 +56,7 @@
 - [2020-06-07-一篇文章带你了解【图】的结构及相关【算法】](https://juejin.im/post/5edb95ea5188254313736c35) 
 - [2020-06-03-前端进阶算法9：看完这篇，再也不怕堆排序、Top-K、中位数问题面试了](https://juejin.im/post/5ed6eb78e51d45785c694dee) 
 - [2020-06-01-前端面试：http专场，你需要懂的知识](https://juejin.im/post/5ed0d289e51d45783d0ea4b7) 
+- [2020-06-26-The-Last-of-Us-Part-2-中这种类似光线追踪的效果是怎么实现的](https://www.v2ex.com/t/684784) 
 - [2020-06-25-广州招聘-Java-Web-全栈-20K-40K](https://www.v2ex.com/t/684723) 
 - [2020-06-25-迫于现在换工作越来越难了，要求算法越来越高了，打算众筹-https://mici.jiqishidai.com/site/course_introduction?id=11-幂次学院-陈小玉得课程](https://www.v2ex.com/t/684672) 
 - [2020-06-25-滴滴出行-北京、杭州内推-前端/Android/-Java-/iOS/Go/-PHP-/算法/C++等各类职位大量招聘，月-25k-60k，优秀另有期权](https://www.v2ex.com/t/684665) 

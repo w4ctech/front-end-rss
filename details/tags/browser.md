@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -64,6 +64,9 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-26-Chrome-跨设备同步书签，是进行的-merge-操作吗？](https://www.v2ex.com/t/684796) 
+- [2020-06-26-Big-Sur-Safari-闪退](https://www.v2ex.com/t/684793) 
+- [2020-06-26-新版-Edge-浏览器把无缝迁移做的这么彻底了吗...](https://www.v2ex.com/t/684780) 
 - [2020-06-25-求助各位如果买二手笔记本怎么最大程度的保证安全](https://www.v2ex.com/t/684755) 
 - [2020-06-25-GOG-免费领取-Cyberpunk-2077-Goodies-Collection](https://www.v2ex.com/t/684754) 
 - [2020-06-25-chrome-怎么才能显示-https-和-www](https://www.v2ex.com/t/684682) 

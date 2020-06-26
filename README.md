@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 07:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-27-​马拉维新增新冠肺炎确诊病例45例-累积确诊过千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy81V33hhgEucyn5xVf7B200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-新冠肺炎感染和死亡人数成倍增长-巴西米纳斯吉拉斯州首府重回隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA2VbvzU2I9wda7xMLP31200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-世卫组织：中国积极研发新冠疫苗-将进一步合作并提供支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1) ![](assets/new.png)  
 - [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1)  
 - [2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1)  
 - [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-26-秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1)  
 - [2020-06-26-​希腊首例监狱感染新冠病毒病例被逆转-该服刑人员并未感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1)  
 - [2020-06-26-美国知名连锁百货商店梅西百货预计裁员近4000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1)  
-- [2020-06-26-法国启动独立工作小组，评估新冠疫情危机管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB3hG7UoQ1WwSfuGSQR4o200626&isfromapp=1)  
-- [2020-06-26-美国休斯敦地区重症监护病床超负荷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIwtxgFmMPfNiq5bd7Fd200626&isfromapp=1)  
-- [2020-06-25-西班牙众议会批准新常态下法令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1)  
-- [2020-06-25-英国-3-家肉食加工厂超-330-人确诊](https://m.weibo.cn/2803301701/4519834870646758)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,11 +1050,11 @@
 </summary>
 
 
-- [2020-06-27-推荐一些程序员专用表情包](https://www.v2ex.com/t/684971) ![](assets/new.png)  
-- [2020-06-27-CSAPP3-国际版太坑了](https://www.v2ex.com/t/684970) ![](assets/new.png)  
-- [2020-06-27-第一次做黑苹果，有几个问题想请教。](https://www.v2ex.com/t/684969) ![](assets/new.png)  
-- [2020-06-27-微软开源了一套移动端的-Fluent-System-Icons](https://www.v2ex.com/t/684968) ![](assets/new.png)  
-- [2020-06-27-感觉-applescript-就是一个特别鸡肋的东西，兼容性差，一点都不人性化](https://www.v2ex.com/t/684966) ![](assets/new.png)  
+- [2020-06-27-推荐一些程序员专用表情包](https://www.v2ex.com/t/684971)  
+- [2020-06-27-CSAPP3-国际版太坑了](https://www.v2ex.com/t/684970)  
+- [2020-06-27-第一次做黑苹果，有几个问题想请教。](https://www.v2ex.com/t/684969)  
+- [2020-06-27-微软开源了一套移动端的-Fluent-System-Icons](https://www.v2ex.com/t/684968)  
+- [2020-06-27-感觉-applescript-就是一个特别鸡肋的东西，兼容性差，一点都不人性化](https://www.v2ex.com/t/684966)  
 - [2020-06-27-彩云天气分享得-SVIP-超级会员](https://www.v2ex.com/t/684965)  
 - [2020-06-27-各位大佬，-iPhone-屏幕完蛋如何导出微信聊天数据？](https://www.v2ex.com/t/684964)  
 - [2020-06-27-学习小鹤双拼的第-21-天](https://www.v2ex.com/t/684963)  

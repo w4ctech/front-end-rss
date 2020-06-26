@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,7 @@
 - [2020-05-25-常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643) 
 - [2020-05-25-10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [2020-06-18-无形中提高你工作效率的chrome插件](https://www.ershicimi.com/p/35bdb0be3a93055013f13d0f02123588) 
 - [2020-05-30-你值得拥有的-UI-调试技巧](https://www.ershicimi.com/p/82e994e4efe1014b3f845b411600c58b) 
 - [2020-06-25-如何写一个像-axios-那样优秀的请求库](https://www.ershicimi.com/p/474a42748481954f9467c6f58609af6b) 
 - [2020-06-24-前端都该懂的浏览器工作原理，你懂了吗？](https://www.ershicimi.com/p/6e7c63706dad905fbaebb41fc61b6f86) 
@@ -69,6 +70,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-26-实用-Py-从源码文本层面给-Python-模块打“补丁”——记一次对-you-get-进行-Bug-修正、增添功能的“过程”](https://www.v2ex.com/t/684849) 
 - [2020-06-26-重发GOG-免费领取-Cyberpunk-2077-Goodies-Collection](https://www.v2ex.com/t/684829) 
 - [2020-06-26-Chrome-跨设备同步书签，是进行的-merge-操作吗？](https://www.v2ex.com/t/684796) 
 - [2020-06-26-Big-Sur-Safari-闪退](https://www.v2ex.com/t/684793) 

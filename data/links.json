@@ -5927,6 +5927,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "6月26日6时至10时 天津新增2例境外输入无症状感染者",
+        "link": "http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html",
+        "date": "2020-06-26"
+      },
+      {
         "title": "又有30例新增！澳大利亚维州疫情持续恶化",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1",
         "date": "2020-06-26"
@@ -11248,6 +11253,56 @@
     "title": "前端宇宙",
     "link": "https://www.ershicimi.com/a/8801",
     "items": [
+      {
+        "title": "抽奖的快乐又又又来啦 ^_^",
+        "link": "https://www.ershicimi.com/p/cead51648165fda0438b54e515a9c370",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "三年 Git 使用心得 & 常见问题整理",
+        "link": "https://www.ershicimi.com/p/72ac9653dcdaaad289e7060aec122b8d",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "大厂高级前端程序员，是如何手写Vue源码的？",
+        "link": "https://www.ershicimi.com/p/48c4743ab6f0d743d0d07f7e325693ba",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "VS Code 源码分析 - 多语言实现",
+        "link": "https://www.ershicimi.com/p/b0a2286291851421ba9d9c02e401a2af",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "这7个稀奇古怪的小网站，让我摸了一天的鱼！太上瘾啦！",
+        "link": "https://www.ershicimi.com/p/a94df2a0fef21f032d0e584bacaae753",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "JS数组奇巧淫技",
+        "link": "https://www.ershicimi.com/p/4d81017cb7bf863b437119436ae4ab9a",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "了不起的 TypeScript 入门教程",
+        "link": "https://www.ershicimi.com/p/78355e0fff27b30401bd3ec06b30cdb1",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "无形中提高你工作效率的chrome插件",
+        "link": "https://www.ershicimi.com/p/35bdb0be3a93055013f13d0f02123588",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "10个打开了我新世界大门的 WebAPI",
+        "link": "https://www.ershicimi.com/p/d0b4477c3755ef36f9d78acdfa09e092",
+        "date": "2020-06-17"
+      },
+      {
+        "title": "一些恶心的代码片段",
+        "link": "https://www.ershicimi.com/p/0197bd556657505215b0b65654b788de",
+        "date": "2020-06-16"
+      },
       {
         "title": "VS Code为什么能这么牛？",
         "link": "https://www.ershicimi.com/p/bcc24bee903ade3fff3a32b7310b418c",
@@ -17025,6 +17080,66 @@
     "title": "V2EX",
     "link": "https://www.v2ex.com/",
     "items": [
+      {
+        "title": "比起我们这代， 10 和 20 后想成才的话，需要抵制更多更强的诱惑",
+        "link": "https://www.v2ex.com/t/684854",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "iCloud 误删了很多照片，但是旧设备内还在，有没有快速同步的方法",
+        "link": "https://www.v2ex.com/t/684853",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "公司需要弄点软件著作权，各位在某宝买过吗。。",
+        "link": "https://www.v2ex.com/t/684851",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "微软远程桌面怎么设置竖屏？",
+        "link": "https://www.v2ex.com/t/684850",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "[实用 Py] 从源码文本层面给 Python 模块打“补丁”——记一次对 you-get 进行 Bug 修正、增添功能的“过程”",
+        "link": "https://www.v2ex.com/t/684849",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "你们平时用 iMessage 吗？",
+        "link": "https://www.v2ex.com/t/684848",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "有工具可以把图片转成代码吗？",
+        "link": "https://www.v2ex.com/t/684847",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "关于机械硬盘的寿命疑问",
+        "link": "https://www.v2ex.com/t/684846",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "什么意思？ 知乎也开始 只有自己可见，开始搞信息屏蔽了？",
+        "link": "https://www.v2ex.com/t/684845",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "离职前一般几次谈话？",
+        "link": "https://www.v2ex.com/t/684844",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "我天！苹果决定全部 mac 转移到 arm 了？这会造成什么影响呢？",
+        "link": "https://www.v2ex.com/t/684843",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "Java 一个 InetSocketAddress 能够被多个 SocketChannel 连接吗？",
+        "link": "https://www.v2ex.com/t/684842",
+        "date": "2020-06-26"
+      },
       {
         "title": "mac 关闭自动更新为什么还是总提示有可用更新呀",
         "link": "https://www.v2ex.com/t/684839",

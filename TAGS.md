@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-26 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 14:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -119,6 +119,7 @@
 - [【前端之巅】受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831)
 - [【前端迷】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6)
 - [【全栈前端精选】一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231)
+- [【前端宇宙】了不起的-TypeScript-入门教程](https://www.ershicimi.com/p/78355e0fff27b30401bd3ec06b30cdb1)
 - [【前端瓶子君】Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/de1cb299d592b9388595f4be177b7424)
 - [【程序员成长指北】花椒前端-TypeScript-实践总结优缺点简要分析](https://www.ershicimi.com/p/b8d2fde01f4ce5cd6b5d1d8211423f80)
 - [【程序员成长指北】AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c)
@@ -130,7 +131,6 @@
 - [【InfoQ】TypeScript真香，Go未来可期-|-InfoQ-编程语言趋势报告](https://www.ershicimi.com/p/fee133afa0f0f579d38428412a982d5d)
 - [【InfoQ】何时使用-TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/7c5d9cfcaaf8d3cca5e2fa57d338768a)
 - [【InfoQ】Java收入排名倒数，TypeScript受欢迎程度超越Python-|-Stack-Overflo](https://www.ershicimi.com/p/c2b73e5e1a2e870b60d59db4e3c31f12)
-- [【掘金前端】1.2W-|-了不起的-TypeScript-入门教程](https://juejin.im/post/5edd8ad8f265da76fc45362c)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -623,6 +623,7 @@
 - [【全栈前端精选】三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/01759756fcef5a10943913769982e0da)
 - [【全栈前端精选】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/2a40a3f70850069a93fb9489435ad6f7)
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
+- [【前端宇宙】三年-Git-使用心得-&-常见问题整理](https://www.ershicimi.com/p/72ac9653dcdaaad289e7060aec122b8d)
 - [【前端瓶子君】推荐一位-github-项目-9K-star-的-BAT-前端大佬](https://www.ershicimi.com/p/fc6dc943bc97f89235897429e47fcc91)
 - [【前端瓶子君】鹅厂是如何使用-Git-的？](https://www.ershicimi.com/p/5ca1c44d0973a3e9f33ffe8f95c0d3b8)
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
@@ -634,7 +635,6 @@
 - [【InfoQ】4个提高效率的GitHub-Actions技巧](https://www.ershicimi.com/p/b197e8cb0a714d35eb2da2f051368e1c)
 - [【InfoQ】GitHub告警：恶意软件正通过流行开源-IDE-攻击-Java-项目](https://www.ershicimi.com/p/942af87c63676dd9f744f059c828f3e8)
 - [【InfoQ】GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775)
-- [【掘金前端】Git-Commit-规范流程化](https://juejin.im/post/5eee3f17e51d4573d3068341)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

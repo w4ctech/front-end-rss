@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 14:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -15,6 +15,7 @@
 - [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831) 
 - [2020-06-10-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6) 
 - [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231) 
+- [2020-06-19-了不起的-TypeScript-入门教程](https://www.ershicimi.com/p/78355e0fff27b30401bd3ec06b30cdb1) 
 - [2020-06-24-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/de1cb299d592b9388595f4be177b7424) 
 - [2020-05-29-花椒前端-TypeScript-实践总结优缺点简要分析](https://www.ershicimi.com/p/b8d2fde01f4ce5cd6b5d1d8211423f80) 
 - [2020-05-29-AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c) 

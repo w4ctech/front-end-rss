@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 21:00:20，:rocket: 更新条数: +39， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 22:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1048,26 +1048,26 @@
 </summary>
 
 
-- [2020-06-26-求大佬们给下建议](https://www.v2ex.com/t/684923) ![](assets/new.png)  
-- [2020-06-26-嵌入式工程师-机器人创业公司-@魔都](https://www.v2ex.com/t/684921) ![](assets/new.png)  
-- [2020-06-26-换手机咨询，手机自带的-App-不使用不给权限还是会推送信息](https://www.v2ex.com/t/684920) ![](assets/new.png)  
-- [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的-Chrome-扩展---Steam-Design-Tools](https://www.v2ex.com/t/684919) ![](assets/new.png)  
-- [2020-06-26-独立开发者交流群（扶持互助，吹水勿入）](https://www.v2ex.com/t/684918) ![](assets/new.png)  
-- [2020-06-26-Win10-腾讯会议一直把系统麦克风音量调低直到-1](https://www.v2ex.com/t/684917) ![](assets/new.png)  
-- [2020-06-26-有图-自女娲补天以来，程序员被黑得最惨的一次，还是在小游戏里。](https://www.v2ex.com/t/684916) ![](assets/new.png)  
-- [2020-06-26-隐蔽的角落原著《坏小孩》出版不用审核吗？](https://www.v2ex.com/t/684915) ![](assets/new.png)  
-- [2020-06-26-2021-届的同学，现在有-v-站秋招群吗？](https://www.v2ex.com/t/684914) ![](assets/new.png)  
-- [2020-06-26-快手-or-蚂蚁-现金都一样，快手有房补会高一点-快手还有期权的蚂蚁没有-坐标杭州-各位老铁给个意见？](https://www.v2ex.com/t/684913) ![](assets/new.png)  
-- [2020-06-26-telegram-的上传空间为什么是无限容量](https://www.v2ex.com/t/684912) ![](assets/new.png)  
-- [2020-06-26-ios14-增加了连接-wifi-使用虚拟-mac-地址功能](https://www.v2ex.com/t/684911) ![](assets/new.png)  
-- [2020-06-26-mac-上有啥软件能代替-Adobe-Auditon-的去噪功能-？](https://www.v2ex.com/t/684910) ![](assets/new.png)  
-- [2020-06-26-难道站内的独立工作者都是移动端的吗？](https://www.v2ex.com/t/684909) ![](assets/new.png)  
-- [2020-06-26-购-Mac-mini-2014-加装的-SSD-的疑虑](https://www.v2ex.com/t/684908) ![](assets/new.png)  
-- [2020-06-26-下一代-Apple-Watch-期待什么新功能-OR-进步？](https://www.v2ex.com/t/684907) ![](assets/new.png)  
-- [2020-06-26-V2EX-能不能在用户设置里让添加自己的年龄？](https://www.v2ex.com/t/684905) ![](assets/new.png)  
-- [2020-06-26-趋势科技中国研发中心-社招-内推-2020-年-6-月更新](https://www.v2ex.com/t/684904) ![](assets/new.png)  
-- [2020-06-26-在-iOS-14-上，-App-Store-和-iTunes-合并意味着不能跨区双账号切换了？](https://www.v2ex.com/t/684903) ![](assets/new.png)  
-- [2020-06-26-以后-ARM-笔记本会不会是大学生的新选择？](https://www.v2ex.com/t/684902) ![](assets/new.png)  
+- [2020-06-26-最新-chrome-的插件图标变成这么个玩意了？](https://www.v2ex.com/t/684947) ![](assets/new.png)  
+- [2020-06-26-小白请教各大佬点-Python-requests-库的-ip-代理池的知识](https://www.v2ex.com/t/684946) ![](assets/new.png)  
+- [2020-06-26-Notion-貌似还不支持-Web-浏览器里的-Dark-Mode？](https://www.v2ex.com/t/684945) ![](assets/new.png)  
+- [2020-06-26-没想到我也有这一天,软件求取名,选中有红包](https://www.v2ex.com/t/684944) ![](assets/new.png)  
+- [2020-06-26-想问下华为旗舰店导购怎么应聘呢？](https://www.v2ex.com/t/684943) ![](assets/new.png)  
+- [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的小工具---Steam-Design-Tools](https://www.v2ex.com/t/684941) ![](assets/new.png)  
+- [2020-06-26-空气潮湿,-打印纸会变弯曲,-有没有什么方法解决下?](https://www.v2ex.com/t/684940) ![](assets/new.png)  
+- [2020-06-26-有人知道-b23.tv-短链接生成用的-api-是啥吗](https://www.v2ex.com/t/684939) ![](assets/new.png)  
+- [2020-06-26-深圳的朋友有没有发现路边多了很多比路灯矮一点的杆子顶部尖尖的类似天线的东西？](https://www.v2ex.com/t/684938) ![](assets/new.png)  
+- [2020-06-26-分享兴趣小项目-vscode-插件一枚](https://www.v2ex.com/t/684937) ![](assets/new.png)  
+- [2020-06-26-关于聋哑人就业的一点想法](https://www.v2ex.com/t/684936) ![](assets/new.png)  
+- [2020-06-26-这回基本确定有全面屏-Mac-了吧](https://www.v2ex.com/t/684935) ![](assets/new.png)  
+- [2020-06-26-广州的兄弟们，你们一个月电费多少？](https://www.v2ex.com/t/684934) ![](assets/new.png)  
+- [2020-06-26-BigSur-设置配置，重启丢失？](https://www.v2ex.com/t/684933) ![](assets/new.png)  
+- [2020-06-26-发现大多数平台美颜直播的码率都很低](https://www.v2ex.com/t/684929) ![](assets/new.png)  
+- [2020-06-26-有没有兄弟辞职回老家，小县城，以后也不准备出去了，聊聊怎么谋生。。](https://www.v2ex.com/t/684928) ![](assets/new.png)  
+- [2020-06-26-Google-相册这新-logo-算抄袭吗？](https://www.v2ex.com/t/684927) ![](assets/new.png)  
+- [2020-06-26-git-服务器关于-web-目录权限的困惑](https://www.v2ex.com/t/684926) ![](assets/new.png)  
+- [2020-06-26-不懂就问，为啥同一个软件不能用在-x86-和-amd-的-CPU-上？](https://www.v2ex.com/t/684925) ![](assets/new.png)  
+- [2020-06-26-求大佬们给下建议](https://www.v2ex.com/t/684923)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

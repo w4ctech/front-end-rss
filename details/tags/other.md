@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1378,6 +1378,10 @@
 - [2020-05-11-一文掌握linux实战技能-系统操作篇](https://www.ershicimi.com/p/0834d78171ab978846a1826781cd4f8c) 
 - [2019-12-15-双12，送33本前端书籍回馈大家及珍藏已久的几个公众号](https://www.ershicimi.com/p/8d6efb9786a98f2f9682e6bea7bcff88) 
 - [2019-12-11-一文深度剖析Axios源码](https://www.ershicimi.com/p/22f3dc65afaa70adb95ed48cc610af4a) 
+- [2020-06-24-【早读】如何做一名有能力的专业人士](https://www.ershicimi.com/p/d3ea5205c76b736794b6b3b917d1ff9c) 
+- [2020-06-23-前端工程师不写网页，还能做什么？](https://www.ershicimi.com/p/49bf4bb98188ddaaff4ac174d72d2f6a) 
+- [2020-06-22-【第1983期】如何挑选数据可视化框架及平台---前端篇](https://www.ershicimi.com/p/9907f90829ee0e244bad8bd344f2e14f) 
+- [2020-06-22-【早读】不是领导，如何影响他人、指导团队？](https://www.ershicimi.com/p/c2303aae356d1f01f4a36383e6ceca9a) 
 - [2020-06-14-【第1975期】前端要懂的色域知识](https://www.ershicimi.com/p/653285419e103772c9402838421b378a) 
 - [2020-06-14-【早读】网站无障碍化简介](https://www.ershicimi.com/p/a3d229f4cb69c297423792256ebf8093) 
 - [2020-06-13-【第1974期】前端架构101：MVC的不足与Flux的崛起](https://www.ershicimi.com/p/97c2c385685afa2256a3698a79a09d33) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-06-21-【早读】代码优化策略-—-Idle-Until-Urgent](https://www.ershicimi.com/p/d1eefc167320e21b07d59ebe23138a51) 
 - [2020-05-30-【第1960期】解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/83bf4f5fc7421221f09d2d11d18f3d64) 
 - [2020-05-27-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/fb85c7143a8ac54f4c59e1e35a5a43f5) 
 - [2020-05-30-前后端分离开发，我用这几个技巧让页面加载速度提高了-90%](https://www.ershicimi.com/p/243bb46b63292e214d869e343c96658f) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -19,6 +19,7 @@
 - [2019-12-12-【面试题】2019开年跳槽系列-33](https://www.ershicimi.com/p/16605cc6befc48261e5b5d694a302ed2) 
 - [2019-12-09-【面试题】2019开年跳槽系列-32](https://www.ershicimi.com/p/35154f229a8cce8480d710136533f0da) 
 - [2019-12-06-【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378) 
+- [2020-06-24-【招聘】知名投资交流交易平台「雪球」诚招前端团队负责人](https://www.ershicimi.com/p/3c4aec3b8daf9426b8abafa1be86a8a3) 
 - [2020-06-15-【招聘】北京美团商家金融服务招聘高级前端工程师](https://www.ershicimi.com/p/ca0f836d695c53be6ae530f0dc5c67d0) 
 - [2020-06-11-【招聘】字节跳动---终端架构部门---前端工程师（社招/实习）](https://www.ershicimi.com/p/dd490f8b02b7fdc2b0dcc7d686980baa) 
 - [2020-06-10-【招聘】百度智能办公团队招T5前端啦~](https://www.ershicimi.com/p/76f274c10de5695677deee3b02f7e40f) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 02:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 03:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -31,7 +31,7 @@
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
-- [政采云前端团队](#政采云前端团队)  
+- [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
@@ -40,7 +40,7 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -499,6 +499,8 @@
 </summary>
 
 
+- [2020-06-21-分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1) ![](assets/new.png)  
+- [2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) ![](assets/new.png)  
 - [2020-06-14-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/00803c2cd426b82b7a2115014fb74c99)  
 - [2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949)  
 - [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)  
@@ -747,16 +749,16 @@
 </summary>
 
 
-- [2020-06-24-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/113bcb6d08857844ba28562e9e30c189) ![](assets/new.png)  
-- [2020-06-24-微内核架构在前端的应用](https://www.ershicimi.com/p/a1188bf45d762d030eaf3e63dd780a42) ![](assets/new.png)  
-- [2020-06-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/374b47d95cde776d027f64f9a594bf1a) ![](assets/new.png)  
-- [2020-06-22-了不起的-Webpack-HMR-学习指南](https://www.ershicimi.com/p/2a0b4edb0855e43f0bf892f8eb4b6ab5) ![](assets/new.png)  
-- [2020-06-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/db6c17ae3cb62a97496a65824d8c5964) ![](assets/new.png)  
-- [2020-06-21-Virtual-Dom提升页面渲染效率的原理](https://www.ershicimi.com/p/7bf138d356d5af7bab8f0c641650b213) ![](assets/new.png)  
-- [2020-06-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6601acb96cb668b4ea980bae6b22328a) ![](assets/new.png)  
-- [2020-06-20-奇舞周刊第-353-期：-带你走进医疗行业的体验设计](https://www.ershicimi.com/p/7ebeed1c62f278eabbcaffe055b4d0e6) ![](assets/new.png)  
-- [2020-06-17-说说对-options-请求的理解](https://www.ershicimi.com/p/0f7b1dd33ea2ddc16388fb3f9987fb3b) ![](assets/new.png)  
-- [2020-06-17-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/4d58507dab745af6456f3f4cceb76a92) ![](assets/new.png)  
+- [2020-06-24-前端工程师，为什么一定要了解可视化？](https://www.ershicimi.com/p/113bcb6d08857844ba28562e9e30c189)  
+- [2020-06-24-微内核架构在前端的应用](https://www.ershicimi.com/p/a1188bf45d762d030eaf3e63dd780a42)  
+- [2020-06-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/374b47d95cde776d027f64f9a594bf1a)  
+- [2020-06-22-了不起的-Webpack-HMR-学习指南](https://www.ershicimi.com/p/2a0b4edb0855e43f0bf892f8eb4b6ab5)  
+- [2020-06-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/db6c17ae3cb62a97496a65824d8c5964)  
+- [2020-06-21-Virtual-Dom提升页面渲染效率的原理](https://www.ershicimi.com/p/7bf138d356d5af7bab8f0c641650b213)  
+- [2020-06-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6601acb96cb668b4ea980bae6b22328a)  
+- [2020-06-20-奇舞周刊第-353-期：-带你走进医疗行业的体验设计](https://www.ershicimi.com/p/7ebeed1c62f278eabbcaffe055b4d0e6)  
+- [2020-06-17-说说对-options-请求的理解](https://www.ershicimi.com/p/0f7b1dd33ea2ddc16388fb3f9987fb3b)  
+- [2020-06-17-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/4d58507dab745af6456f3f4cceb76a92)  
 - [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/1fd5324b0f129f736c57d838c2b78834)  
 - [2020-06-15-招聘前端图形学与可视化方向高级工程师](https://www.ershicimi.com/p/b3140767e035fd7edf5747bda4a2e325)  
 - [2020-06-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa7190b24a6f8bc9ce5a94bd00a8996c)  
@@ -1048,6 +1050,9 @@
 </summary>
 
 
+- [2020-06-27-彩云天气分享得-SVIP-超级会员](https://www.v2ex.com/t/684965) ![](assets/new.png)  
+- [2020-06-27-各位大佬，-iPhone-屏幕完蛋如何导出微信聊天数据？](https://www.v2ex.com/t/684964) ![](assets/new.png)  
+- [2020-06-27-学习小鹤双拼的第-21-天](https://www.v2ex.com/t/684963) ![](assets/new.png)  
 - [2020-06-27-突然被奇怪的家伙加微信...-互联网真恐怖喵-TwT](https://www.v2ex.com/t/684962)  
 - [2020-06-27-win10-上的-chrome-主题会被干扰](https://www.v2ex.com/t/684961)  
 - [2020-06-27-電信網速不達標，技術人員上門幾次測速後不給解決](https://www.v2ex.com/t/684960)  
@@ -1065,9 +1070,6 @@
 - [2020-06-26-最新-chrome-的插件图标变成这么个玩意了？](https://www.v2ex.com/t/684947)  
 - [2020-06-26-小白请教各大佬点-Python-requests-库的-ip-代理池的知识](https://www.v2ex.com/t/684946)  
 - [2020-06-26-Notion-貌似还不支持-Web-浏览器里的-Dark-Mode？](https://www.v2ex.com/t/684945)  
-- [2020-06-26-没想到我也有这一天,软件求取名,选中有红包](https://www.v2ex.com/t/684944)  
-- [2020-06-26-想问下华为旗舰店导购怎么应聘呢？](https://www.v2ex.com/t/684943)  
-- [2020-06-26-撸了个-Steam-市场背景图真实效果预览&展柜辅助设计的小工具---Steam-Design-Tools](https://www.v2ex.com/t/684941)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

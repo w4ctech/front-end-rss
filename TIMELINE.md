@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 03:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1082,6 +1082,8 @@
 - [【全栈前端精选】2020-06-03-一文了解文件上传全过程（1.8w字深度解析，进阶必备）](https://www.ershicimi.com/p/6b67a73a1f65a07fdd4fdd2dbf5458aa) 
 - [【全栈前端精选】2020-06-02-未来可期的HTTP/3](https://www.ershicimi.com/p/9e1d7dab925a80d0ffc8101f4b9d1867) 
 - [【全栈前端精选】2020-06-01-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/1a71e089e632780471eced50cd3d006b) 
+- [【政采云前端团队】2020-06-21-分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1) 
+- [【政采云前端团队】2020-06-18-政采云前端团队-2021-暑期实习招聘](https://www.ershicimi.com/p/960fca35b9c360a90204ebd568029a1c) 
 - [【政采云前端团队】2020-06-14-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/00803c2cd426b82b7a2115014fb74c99) 
 - [【政采云前端团队】2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) 
 - [【政采云前端团队】2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) 
@@ -1768,6 +1770,9 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-27-彩云天气分享得-SVIP-超级会员](https://www.v2ex.com/t/684965) 
+- [【V2EX】2020-06-27-各位大佬，-iPhone-屏幕完蛋如何导出微信聊天数据？](https://www.v2ex.com/t/684964) 
+- [【V2EX】2020-06-27-学习小鹤双拼的第-21-天](https://www.v2ex.com/t/684963) 
 - [【V2EX】2020-06-27-突然被奇怪的家伙加微信...-互联网真恐怖喵-TwT](https://www.v2ex.com/t/684962) 
 - [【V2EX】2020-06-27-win10-上的-chrome-主题会被干扰](https://www.v2ex.com/t/684961) 
 - [【V2EX】2020-06-27-電信網速不達標，技術人員上門幾次測速後不給解決](https://www.v2ex.com/t/684960) 

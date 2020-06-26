@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-27 02:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 03:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -156,6 +156,7 @@
 - [【前端迷】webpack4主流程源码阅读，以及动手实现一个简单的webpack](https://www.ershicimi.com/p/986e39aa3d626ed0281118fa0431d6c7)
 - [【全栈前端精选】总结18个webpack插件，总会有你想要的！](https://www.ershicimi.com/p/b91411d768731cac49be5d64c9374d62)
 - [【全栈前端精选】「吐血整理」再来一打Webpack面试题](https://www.ershicimi.com/p/0dd6075c7cff8e841962c7f4704fc9f7)
+- [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
 - [【前端宇宙】是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/b3b5e5fd453bfbd05d914af154bd502f)
 - [【程序员成长指北】npx-使用教程](https://www.ershicimi.com/p/873b13318367de54dd65eb4798783acb)
 - [【程序员成长指北】Webpack从入门到工程实践，比官方文档更实用！](https://www.ershicimi.com/p/cf477af77e9ffc201ea972d56acc9db6)
@@ -166,7 +167,6 @@
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
 - [【奇舞周刊】了不起的-Webpack-HMR-学习指南](https://www.ershicimi.com/p/2a0b4edb0855e43f0bf892f8eb4b6ab5)
 - [【InfoQ】机器学习项目复杂繁琐-，该如何构建安全的机器学习环境？](https://www.ershicimi.com/p/ad2fedeb886ae3a8b5e0057cc13d2a0f)
-- [【掘金前端】构建基于-iOS-模拟器的前端调试方案](https://juejin.im/post/5ef2b08951882565d3168ee2)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

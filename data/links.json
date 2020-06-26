@@ -5927,6 +5927,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "又有30例新增！澳大利亚维州疫情持续恶化",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "北京市属医院7万余人核酸检测全部阴性",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qHA6Ts9QrSSzqWcWXH4200626&isfromapp=1",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "时隔78天 澳门26日新增1例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLGwTiWTdY6Z78WaEozMN200626&isfromapp=1",
+        "date": "2020-06-26"
+      },
+      {
         "title": "疫情导致经济放缓 美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1",
         "date": "2020-06-26"
@@ -9745,6 +9760,56 @@
     "title": "前端开发",
     "link": "https://www.ershicimi.com/a/29",
     "items": [
+      {
+        "title": "Service Worker：让你的 Web 应用牛逼起来",
+        "link": "https://www.ershicimi.com/p/f10f554049a27ce324d37095aa6228c5",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "华为WEB前端全栈成长计划招募",
+        "link": "https://www.ershicimi.com/p/2f8174707bb071ca52389c5ffd301ab7",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "我要穿越，干翻 “烂语言” JavaScript！",
+        "link": "https://www.ershicimi.com/p/3f248eb87af17fdbcb3d97ca4438b5ce",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "资深前端，到底解决了普通前端做不到的哪些问题？",
+        "link": "https://www.ershicimi.com/p/fb1630c10e74326d0a054a7b2189f991",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "一枚前端组长的涨薪述职报告！",
+        "link": "https://www.ershicimi.com/p/a5a3fc252629f7a438e7d5e27cc7a43d",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "如何快速建立正确的前端知识架构？",
+        "link": "https://www.ershicimi.com/p/3c4c837f5d1e31d7ce8aa5b0830feb80",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "你还只会 console.log 调试嘛？",
+        "link": "https://www.ershicimi.com/p/0bf460bb1377f4fd0c30dcabd6cf143d",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "是什么尤大选择放弃Webpack？——vite 原理解析",
+        "link": "https://www.ershicimi.com/p/0464ac885d11c1d02592fc06ae6a0ab3",
+        "date": "2020-06-19"
+      },
+      {
+        "title": "Vue 3.0  KO  Vue 2.0",
+        "link": "https://www.ershicimi.com/p/b9a8507197befbcf0e8db2883b978108",
+        "date": "2020-06-18"
+      },
+      {
+        "title": "理解 WebView",
+        "link": "https://www.ershicimi.com/p/c1931f198431eaa133a44ee6d230fa57",
+        "date": "2020-06-18"
+      },
       {
         "title": "10个Vue开发技巧",
         "link": "https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993",
@@ -36524,6 +36589,51 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "[译] 微服务架构下 Go 包的代码组织实践",
+        "link": "https://toutiao.io/k/pwlylmp",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "7 天用 Go 从零实现 ORM 框架 GeeORM",
+        "link": "https://toutiao.io/k/fflw01n",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "Vue3 的 Proxy 能做到哪些精确的拦截操作？原理揭秘",
+        "link": "https://toutiao.io/k/tesg7o3",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "Python 为什么不支持 i++ 自增语法，不提供 ++ 操作符？",
+        "link": "https://toutiao.io/k/oc2gui7",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "CVPR 2020 论文大盘点：语义分割篇",
+        "link": "https://toutiao.io/k/2txw0ww",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "数据平台服务化建设（零）：寻找出路",
+        "link": "https://toutiao.io/k/m1ansyb",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "如何解决容器中 nginx worker process 自动设置的问题",
+        "link": "https://toutiao.io/k/zvp05u5",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "谷歌开发者帐号关联/App 下架，5 种联系 Google Play 开发者团队的办法",
+        "link": "https://toutiao.io/k/s7dpfap",
+        "date": "2020-06-26"
+      },
+      {
+        "title": "自定义 Go 包的 import path 的命令行应用",
+        "link": "https://toutiao.io/k/x8tvbzi",
+        "date": "2020-06-26"
+      },
       {
         "title": "一文助你搞懂 AST",
         "link": "https://toutiao.io/k/s9zqtl6",

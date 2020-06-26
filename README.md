@@ -11,24 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-26 11:30:20，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-26 12:00:20，:rocket: 更新条数: +22， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-26-又有30例新增！澳大利亚维州疫情持续恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-北京市属医院7万余人核酸检测全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qHA6Ts9QrSSzqWcWXH4200626&isfromapp=1) ![](assets/new.png)  
+- [2020-06-26-时隔78天-澳门26日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLGwTiWTdY6Z78WaEozMN200626&isfromapp=1) ![](assets/new.png)  
 - [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1)  
 - [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1)  
 - [2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-25-国家卫健委：对在常态化防控措施之外附加其他不合理限制要求的要立即予以纠正](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00hlg9oGymTWCUGmHDK0200625&isfromapp=1)  
 - [2020-06-25-​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1)  
 - [2020-06-25-北京大兴一名60岁女子确诊，前四次核酸检测为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3SjhMn8wkWcTfSlMKEZi200625&isfromapp=1)  
-- [2020-06-25-确诊外卖小哥的妻子和小孩核酸阴性](https://m.weibo.cn/3057540037/4519688631648659)  
-- [2020-06-25-河北雄安新区加强疫情防控工作-保障重点工程项目建设](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1)  
-- [2020-06-25-6月24日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -281,6 +281,16 @@
 </summary>
 
 
+- [2020-06-25-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/f10f554049a27ce324d37095aa6228c5) ![](assets/new.png)  
+- [2020-06-24-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/2f8174707bb071ca52389c5ffd301ab7) ![](assets/new.png)  
+- [2020-06-24-我要穿越，干翻-“烂语言”-JavaScript！](https://www.ershicimi.com/p/3f248eb87af17fdbcb3d97ca4438b5ce) ![](assets/new.png)  
+- [2020-06-23-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/fb1630c10e74326d0a054a7b2189f991) ![](assets/new.png)  
+- [2020-06-23-一枚前端组长的涨薪述职报告！](https://www.ershicimi.com/p/a5a3fc252629f7a438e7d5e27cc7a43d) ![](assets/new.png)  
+- [2020-06-22-如何快速建立正确的前端知识架构？](https://www.ershicimi.com/p/3c4c837f5d1e31d7ce8aa5b0830feb80) ![](assets/new.png)  
+- [2020-06-22-你还只会-console.log-调试嘛？](https://www.ershicimi.com/p/0bf460bb1377f4fd0c30dcabd6cf143d) ![](assets/new.png)  
+- [2020-06-19-是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/0464ac885d11c1d02592fc06ae6a0ab3) ![](assets/new.png)  
+- [2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/b9a8507197befbcf0e8db2883b978108) ![](assets/new.png)  
+- [2020-06-18-理解-WebView](https://www.ershicimi.com/p/c1931f198431eaa133a44ee6d230fa57) ![](assets/new.png)  
 - [2020-06-12-10个Vue开发技巧](https://www.ershicimi.com/p/74c12e6d8083469c5fd56bc4c27e1993)  
 - [2020-06-11-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/91661a7fc643a772bcf89017c136f923)  
 - [2020-06-11-高效的编码：我的VS-Code设置](https://www.ershicimi.com/p/b6e8636caa6c7ac93fa7224bbd397944)  
@@ -291,16 +301,6 @@
 - [2020-06-08-2020-高频前端面试题+答案](https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7)  
 - [2020-06-07-包邮送书！前端开发值得看的书单](https://www.ershicimi.com/p/27671e07f18fd55ca08149a9b66c5e9a)  
 - [2020-06-06-手写一个WebSocket协议-7000字](https://www.ershicimi.com/p/3812a70a0a806c2648e4b6a27e1d780e)  
-- [2020-06-05-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/868596d76a0164113ebaf38217a68a3b)  
-- [2020-06-05-了不起的-Deno-入门教程](https://www.ershicimi.com/p/1c9c2d0779a5b71861ceb7b91156e1ea)  
-- [2020-06-04-前端开发进阶手册.](https://www.ershicimi.com/p/b5c80894f62d734aab8e5d3fd33037a6)  
-- [2020-06-04-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a)  
-- [2020-06-03-当前端基建任务落到你身上，该如何推动协作？](https://www.ershicimi.com/p/cbea8a7f2978a7da707fe0463f6b00e0)  
-- [2020-06-02-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/dd11a1650d35c59e015757b992d666e1)  
-- [2020-06-02-Vue3-的诞生之路](https://www.ershicimi.com/p/cb02aa80c15443f4da78efc6049fd5b8)  
-- [2020-06-01-做了10年前端，这些面试题一个答不上来，我很慌](https://www.ershicimi.com/p/70e90757490ed5f41bdeabfdca153c49)  
-- [2020-06-01-中国程序媛出品，2D插画实时变动画，网友已经玩疯了！](https://www.ershicimi.com/p/ea088055a93fe48bed95f1873843450b)  
-- [2020-05-31-面试官：你可以用纯-CSS-判断鼠标进入的方向吗？](https://www.ershicimi.com/p/792fc039e330d6f7870aa5e815495aa0)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -406,16 +406,16 @@
 </summary>
 
 
-- [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a) ![](assets/new.png)  
-- [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989) ![](assets/new.png)  
-- [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b) ![](assets/new.png)  
-- [2020-06-24-JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e) ![](assets/new.png)  
-- [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d) ![](assets/new.png)  
-- [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd) ![](assets/new.png)  
-- [2020-06-23-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79) ![](assets/new.png)  
-- [2020-06-23-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a) ![](assets/new.png)  
-- [2020-06-22-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac) ![](assets/new.png)  
-- [2020-06-22-JavaScript-中内存泄漏的原因以及对策](https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1) ![](assets/new.png)  
+- [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a)  
+- [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989)  
+- [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b)  
+- [2020-06-24-JavaScript和Node.js简史，前端未来走向何方？](https://www.ershicimi.com/p/b5af8c84684f7d63f4c28cdd2039869e)  
+- [2020-06-24-Web梦回90年代](https://www.ershicimi.com/p/4a2f37c730bae1899e6a58310c6e723d)  
+- [2020-06-24-关于这个时间，前端工程师学习的建议-|-极客大学](https://www.ershicimi.com/p/4725f608c94d2ec13ab84371d360efbd)  
+- [2020-06-23-苹果：没想到吧，我自己做了“小程序”](https://www.ershicimi.com/p/b83ae9856b5ddd454d61c812f866db79)  
+- [2020-06-23-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/cb52236de63188d0d2da97ab1115a74a)  
+- [2020-06-22-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac)  
+- [2020-06-22-JavaScript-中内存泄漏的原因以及对策](https://www.ershicimi.com/p/2d6965384157366008dd83793861f9d1)  
 - [2020-06-15-谷歌也怕了，“blacklist”等表述逐渐从各大公司的源代码中消失！](https://www.ershicimi.com/p/0ec94cd84b8ba0329f0de2edb76ca7cf)  
 - [2020-06-15-让你的代码讲出它的故事](https://www.ershicimi.com/p/8bdc0d5bea80b19e5c50dfabd200b864)  
 - [2020-06-15-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客大学](https://www.ershicimi.com/p/531efbfd8443cf0789db4ed910985deb)  
@@ -1110,6 +1110,15 @@
 </summary>
 
 
+- [2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp) ![](assets/new.png)  
+- [2020-06-26-7-天用-Go-从零实现-ORM-框架-GeeORM](https://toutiao.io/k/fflw01n) ![](assets/new.png)  
+- [2020-06-26-Vue3-的-Proxy-能做到哪些精确的拦截操作？原理揭秘](https://toutiao.io/k/tesg7o3) ![](assets/new.png)  
+- [2020-06-26-Python-为什么不支持-i++-自增语法，不提供-++-操作符？](https://toutiao.io/k/oc2gui7) ![](assets/new.png)  
+- [2020-06-26-CVPR-2020-论文大盘点：语义分割篇](https://toutiao.io/k/2txw0ww) ![](assets/new.png)  
+- [2020-06-26-数据平台服务化建设（零）：寻找出路](https://toutiao.io/k/m1ansyb) ![](assets/new.png)  
+- [2020-06-26-如何解决容器中-nginx-worker-process-自动设置的问题](https://toutiao.io/k/zvp05u5) ![](assets/new.png)  
+- [2020-06-26-谷歌开发者帐号关联/App-下架，5-种联系-Google-Play-开发者团队的办法](https://toutiao.io/k/s7dpfap) ![](assets/new.png)  
+- [2020-06-26-自定义-Go-包的-import-path-的命令行应用](https://toutiao.io/k/x8tvbzi) ![](assets/new.png)  
 - [2020-06-25-一文助你搞懂-AST](https://toutiao.io/k/s9zqtl6)  
 - [2020-06-25-Regression-Tree-回归树](https://toutiao.io/k/qnnjdl9)  
 - [2020-06-25-Android-上的-WebRTC：多设备如何启用硬件编码？（二）](https://toutiao.io/k/mvlgniq)  
@@ -1121,15 +1130,6 @@
 - [2020-06-25-你的-docker-stop，它优雅吗？](https://toutiao.io/k/xfyregg)  
 - [2020-06-25-ACK-简史（一）：开篇之-Kafka](https://toutiao.io/k/2l7pbjq)  
 - [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti)  
-- [2020-06-24-给程序员的一些持续学习的建议](https://toutiao.io/k/ytth7cm)  
-- [2020-06-24-书中自有黄金屋（八）：摆脱人生三大束缚必读的《被讨厌的勇气》](https://toutiao.io/k/o2p84f9)  
-- [2020-06-24-译-React-Native-的常见-Bug（二）](https://toutiao.io/k/tgzmo9j)  
-- [2020-06-24-sharding-sphere（一）：SQL-路由](https://toutiao.io/k/s27thij)  
-- [2020-06-24-Kaggle-竞赛入门实战：机器学习预测房屋价格](https://toutiao.io/k/xc50wzm)  
-- [2020-06-24-费曼学习法：终极学习法](https://toutiao.io/k/8tcc27i)  
-- [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w)  
-- [2020-06-24-独孤九剑：算法模型训练的一般流程](https://toutiao.io/k/a9uppjm)  
-- [2020-06-24-前端存储除了-localStorage-还有啥](https://toutiao.io/k/ztftz5q)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

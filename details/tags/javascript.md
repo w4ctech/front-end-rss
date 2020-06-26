@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -26,6 +26,9 @@
 - [2020-06-05-原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c) 
 - [2020-05-25-JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37) 
 - [2020-05-24-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/489386fe087d137fe88a6bc2d4434e13) 
+- [2020-06-25-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/f10f554049a27ce324d37095aa6228c5) 
+- [2020-06-24-我要穿越，干翻-“烂语言”-JavaScript！](https://www.ershicimi.com/p/3f248eb87af17fdbcb3d97ca4438b5ce) 
+- [2020-06-22-你还只会-console.log-调试嘛？](https://www.ershicimi.com/p/0bf460bb1377f4fd0c30dcabd6cf143d) 
 - [2020-06-04-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/85bf0196e0feb6284aa8eb659799642a) 
 - [2020-05-27-前端渣渣的我再也不敢说我会写Button组件了](https://www.ershicimi.com/p/03a201059ea77bd8226d6dce1bdc522d) 
 - [2020-05-26-如何衡量一个人的-JavaScript-水平？](https://www.ershicimi.com/p/b8edd195dde48588eceec8036530dbaf) 
@@ -290,6 +293,8 @@
 - [2020-05-29-提问-声明一个成员变量，在局部方法中初始化，是否有线程安全问题？](https://www.v2ex.com/t/676763) 
 - [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573) 
 - [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552) 
+- [2020-06-26-如何解决容器中-nginx-worker-process-自动设置的问题](https://toutiao.io/k/zvp05u5) 
+- [2020-06-26-自定义-Go-包的-import-path-的命令行应用](https://toutiao.io/k/x8tvbzi) 
 - [2020-06-24-sharding-sphere（一）：SQL-路由](https://toutiao.io/k/s27thij) 
 - [2020-06-23-如何查看-heapdump-中的-byte/char-数组](https://toutiao.io/k/op78k4m) 
 - [2020-06-21-Principal-Component-Analysis-PCA](https://toutiao.io/k/l7fudgy) 

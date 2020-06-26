@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 11:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1004,6 +1004,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-26-又有30例新增！澳大利亚维州疫情持续恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1) 
+- [2020-06-26-北京市属医院7万余人核酸检测全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qHA6Ts9QrSSzqWcWXH4200626&isfromapp=1) 
 - [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1) 
 - [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1) 
 - [2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1) 
@@ -1432,6 +1434,9 @@
 - [2020-05-21-了不起的-Deno-入门教程](https://www.ershicimi.com/p/7622b7013c2c84166c4f1fcc2f221b58) 
 - [2020-05-20-程序员一大误区：盲目求追新技术，说的是你吗？](https://www.ershicimi.com/p/281326dd5794a6ae27f98098ade2f8ba) 
 - [2020-05-20-执行上下文/作用域链/闭包/一等公民](https://www.ershicimi.com/p/1e9a4e0e2c6eb57f725dc3b1a9f0ce19) 
+- [2020-06-23-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/fb1630c10e74326d0a054a7b2189f991) 
+- [2020-06-23-一枚前端组长的涨薪述职报告！](https://www.ershicimi.com/p/a5a3fc252629f7a438e7d5e27cc7a43d) 
+- [2020-06-22-如何快速建立正确的前端知识架构？](https://www.ershicimi.com/p/3c4c837f5d1e31d7ce8aa5b0830feb80) 
 - [2020-06-11-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/91661a7fc643a772bcf89017c136f923) 
 - [2020-06-11-高效的编码：我的VS-Code设置](https://www.ershicimi.com/p/b6e8636caa6c7ac93fa7224bbd397944) 
 - [2020-06-10-卧槽！当当网又又又可以-4-折买书了！！跟我一起薅羊毛了！](https://www.ershicimi.com/p/d7dc8e3fd05213826c5d21abdb61df53) 
@@ -5172,6 +5177,12 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp) 
+- [2020-06-26-7-天用-Go-从零实现-ORM-框架-GeeORM](https://toutiao.io/k/fflw01n) 
+- [2020-06-26-Python-为什么不支持-i++-自增语法，不提供-++-操作符？](https://toutiao.io/k/oc2gui7) 
+- [2020-06-26-CVPR-2020-论文大盘点：语义分割篇](https://toutiao.io/k/2txw0ww) 
+- [2020-06-26-数据平台服务化建设（零）：寻找出路](https://toutiao.io/k/m1ansyb) 
+- [2020-06-26-谷歌开发者帐号关联/App-下架，5-种联系-Google-Play-开发者团队的办法](https://toutiao.io/k/s7dpfap) 
 - [2020-06-25-Regression-Tree-回归树](https://toutiao.io/k/qnnjdl9) 
 - [2020-06-25-程序员如何升职加薪？|-码农周刊第-310-期](https://toutiao.io/k/n70fndb) 
 - [2020-06-25-美信拓扑创始人一乐：如何登山不是最重要的问题，山峰才是](https://toutiao.io/k/vb4eifw) 

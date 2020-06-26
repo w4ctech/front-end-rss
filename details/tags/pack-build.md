@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -9,6 +9,7 @@
 
 - [2020-06-13-从零构建前端-ESLint-工作流（2020手把手版）](https://www.ershicimi.com/p/052c3586c4af668856e135a83d061d9b) 
 - [2020-06-24-【第1985期】webpack与rollup背后的acorn](https://www.ershicimi.com/p/36ba6a76502878b2c403d96330ff5bb1) 
+- [2020-06-19-是什么尤大选择放弃Webpack？——vite-原理解析](https://www.ershicimi.com/p/0464ac885d11c1d02592fc06ae6a0ab3) 
 - [2020-05-23-揭秘webpack插件工作流程和原理](https://www.ershicimi.com/p/895f1f2add40c8b556d3777377cd5799) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) 

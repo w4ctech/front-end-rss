@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1004,6 +1004,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1) 
 - [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1) 
 - [2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1) 
 - [2020-06-26-秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1) 
@@ -1341,6 +1342,9 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-25-刀哥拍了拍你，并扔给你一个粽子](https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a) 
+- [2020-06-22-前端骨架屏都是如何生成的](https://www.ershicimi.com/p/4bc26e09a1de18fb3ffbcdc207f94642) 
+- [2020-06-21-前端工程师的进阶之路](https://www.ershicimi.com/p/74be807330214d708d9829adefa7a3d8) 
 - [2020-06-19-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/d13e22a43a590207083d1dc2bde5f93b) 
 - [2020-06-18-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/ded80e433cc829c1676f449d66cbe370) 
 - [2020-06-17-在滴滴和头条干的这-2-年](https://www.ershicimi.com/p/80d3d8aed91625ca78a990fbbfcf1d9e) 
@@ -1445,6 +1449,9 @@
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-06-25-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766) 
+- [2020-06-23-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/8c58058aadcd3e96c99c862b8528352b) 
+- [2020-06-20-前端开发与架构师](https://www.ershicimi.com/p/f70a7d662e4f9f708a7a2fd996355b49) 
 - [2020-06-19-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/d2b75ea3ccb55b0bc0a7313d319ebaca) 
 - [2020-06-17-冲刺大厂之前，怎么做好十足的准备？](https://www.ershicimi.com/p/074a225488c24db400c0da8ff4b5d045) 
 - [2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1) 
@@ -1552,6 +1559,7 @@
 - [2020-05-21-内部泄露版！互联网大厂的薪资和职级一览](https://www.ershicimi.com/p/9fddfc0d9e155001b687a9f5f94b8d16) 
 - [2020-05-20-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/38c66d93c7202b5e4e26a0df6a992ffd) 
 - [2020-05-20-520粉丝福利来袭，坐稳了，发车啦](https://www.ershicimi.com/p/3728cab18fe4e1bd8e5d8b9522b91a10) 
+- [2020-06-23-面了一位-4-年经验的前端，有几句话想要对你说](https://www.ershicimi.com/p/1b8ae2d15f3ee7d0b8bdc8d853262eef) 
 - [2020-06-21-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/1a15aa97f5f592b36546a6117df3771b) 
 - [2020-06-20-推荐一个本科双非不到两年进阿里的前端大佬](https://www.ershicimi.com/p/e72338502b74b3ba48a82883bfd4337f) 
 - [2020-06-18-卧槽！牛皮了，头一次见有大佬把TCP三次握手四次挥手解释的这么明白](https://www.ershicimi.com/p/d5d40a7ea1d285c70aead04030ef254d) 

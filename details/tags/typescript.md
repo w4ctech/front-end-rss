@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -9,10 +9,12 @@
 
 - [2020-06-24-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e) 
 - [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2) 
+- [2020-06-25-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5) 
 - [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be) 
 - [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831) 
 - [2020-06-10-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/14e29a64ebde25d997d23dd41d7933b6) 
 - [2020-06-15-一文读懂-TypeScript-泛型及应用](https://www.ershicimi.com/p/b3fe2dccba544f4d210893ccc9809231) 
+- [2020-06-24-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/de1cb299d592b9388595f4be177b7424) 
 - [2020-05-29-花椒前端-TypeScript-实践总结优缺点简要分析](https://www.ershicimi.com/p/b8d2fde01f4ce5cd6b5d1d8211423f80) 
 - [2020-05-29-AntDesignPro中台项目迁移Typescript，接入Eslint+Prettier代码格式](https://www.ershicimi.com/p/23124e9ad9f715686f66b77ed1fcbe7c) 
 - [2020-05-17-TypeScript-+-ServerLess-开发-REST-API-实战](https://www.ershicimi.com/p/2fca38697c19229286a2fc52b1af36f2) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -13,6 +13,7 @@
 - [2020-06-03-用-TypeScript-编写-React-的最佳实践](https://www.ershicimi.com/p/c74bda6cccacb8879acbca5ed07aff60) 
 - [2020-06-01-2020-年你应该知道的-React-库](https://www.ershicimi.com/p/e6ae84d297fd24a32ae9b0e330fdf35e) 
 - [2020-05-23-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/f095b86b8eb5484837d8e48d283f9b6e) 
+- [2020-06-22-从-React-Hooks-看-React-的本质](https://www.ershicimi.com/p/24fe4c5cd2ad90fed8021beac6939ce3) 
 - [2020-06-17-探索-React-的内在---postMessage-和-Scheduler](https://www.ershicimi.com/p/736b7afc2a6bd5057a6936d1c0154ba1) 
 - [2020-05-27-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/6d94f9f545280a0d09bc0a8d303443d5) 
 - [2020-06-10-编写React组件时常见的5个错误](https://www.ershicimi.com/p/15fa63223dcecf7d2dfbd39d9ee43e74) 
@@ -22,6 +23,7 @@
 - [2020-06-12-手把手封装React-按需渲染组件](https://www.ershicimi.com/p/b1e7819e765f842e907b2488498e5f15) 
 - [2020-05-22-如何实现一个React水印组件](https://www.ershicimi.com/p/b0efc48bce47a2ec0a4f38848a810210) 
 - [2020-05-24-这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149) 
+- [2020-06-23-分析-React-组件的渲染性能](https://www.ershicimi.com/p/995730554b61152d6610eee9bd40c124) 
 - [2020-06-17-15-个很有用的自定义-React-Hooks](https://www.ershicimi.com/p/764dc85d882fd6272745001990ef2034) 
 - [2020-05-26-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) 
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/) 

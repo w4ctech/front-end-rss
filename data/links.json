@@ -5927,6 +5927,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "疫情导致经济放缓 美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1",
+        "date": "2020-06-26"
+      },
+      {
         "title": "德法两国向世卫组织追加资金支持 美专家预测美国真实感染人数或超2300万人",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1",
         "date": "2020-06-26"
@@ -8771,6 +8776,51 @@
     "link": "https://www.ershicimi.com/a/10315",
     "items": [
       {
+        "title": "刀哥拍了拍你，并扔给你一个粽子",
+        "link": "https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "解锁前端面试体系核心攻略.pdf",
+        "link": "https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "从应用场景再谈防抖和节流",
+        "link": "https://www.ershicimi.com/p/90386e29e4afd210f86749ff2086f189",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "让Jenkins自动布署你的Vue项目",
+        "link": "https://www.ershicimi.com/p/7a8a9e56672d838c68826006b07e7784",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "20个免费的设计资源 UI套件背景图标CSS框架",
+        "link": "https://www.ershicimi.com/p/a71894f08c43927b3af0e10bc13ff44e",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "听说只要标题写vue3，你们就会点进来看",
+        "link": "https://www.ershicimi.com/p/157dcc56f9d36c9e5691f904ae47f7e7",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "前端骨架屏都是如何生成的",
+        "link": "https://www.ershicimi.com/p/4bc26e09a1de18fb3ffbcdc207f94642",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "前端工程师的进阶之路",
+        "link": "https://www.ershicimi.com/p/74be807330214d708d9829adefa7a3d8",
+        "date": "2020-06-21"
+      },
+      {
+        "title": "9个很棒的CSS边框技巧",
+        "link": "https://www.ershicimi.com/p/a2ce3aefcfbf34eae6f1cbae34604e14",
+        "date": "2020-06-20"
+      },
+      {
         "title": "3行核心CSS代码的rate评分组件，秀到你怀疑人生",
         "link": "https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4",
         "date": "2020-06-19"
@@ -9976,6 +10026,51 @@
     "title": "前端大学",
     "items": [
       {
+        "title": "很好奇，做前端的你是不是也这样……",
+        "link": "https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "Deno 继颠覆 Node 之后，又“内部”拒绝了 TypeScript",
+        "link": "https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "卧槽！大厂高级前端程序员，是如何手写vue源码的？",
+        "link": "https://www.ershicimi.com/p/994a854d1a58576e886f0392b53f3166",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "字节跳动28岁程序员期权价值过亿提前退休",
+        "link": "https://www.ershicimi.com/p/8c58058aadcd3e96c99c862b8528352b",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "JavaScript常用API合集汇总",
+        "link": "https://www.ershicimi.com/p/819f99b2d78b579d5217bacc37eb300d",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "华为WEB前端全栈成长计划招募",
+        "link": "https://www.ershicimi.com/p/62b28e5440ca00601907b4a482b5f90e",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "从 React Hooks 看 React 的本质",
+        "link": "https://www.ershicimi.com/p/24fe4c5cd2ad90fed8021beac6939ce3",
+        "date": "2020-06-22"
+      },
+      {
+        "title": "前端开发与架构师",
+        "link": "https://www.ershicimi.com/p/f70a7d662e4f9f708a7a2fd996355b49",
+        "date": "2020-06-20"
+      },
+      {
+        "title": "理解 WebView",
+        "link": "https://www.ershicimi.com/p/be3f64ab2644c26ae4ffa8d06b6a8374",
+        "date": "2020-06-20"
+      },
+      {
         "title": "前端开发，除了转骑手还有其他出路吗？",
         "link": "https://www.ershicimi.com/p/d2b75ea3ccb55b0bc0a7313d319ebaca",
         "date": "2020-06-19"
@@ -11139,6 +11234,31 @@
     "rss": "https://rss.shab.fun/wechat/ershicimi/10641",
     "title": "前端瓶子君",
     "items": [
+      {
+        "title": "如何写一个像 axios 那样优秀的请求库",
+        "link": "https://www.ershicimi.com/p/474a42748481954f9467c6f58609af6b",
+        "date": "2020-06-25"
+      },
+      {
+        "title": "前端都该懂的浏览器工作原理，你懂了吗？",
+        "link": "https://www.ershicimi.com/p/6e7c63706dad905fbaebb41fc61b6f86",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "Deno将停止使用TypeScript，并公布五项具体理由",
+        "link": "https://www.ershicimi.com/p/de1cb299d592b9388595f4be177b7424",
+        "date": "2020-06-24"
+      },
+      {
+        "title": "面了一位 4 年经验的前端，有几句话想要对你说",
+        "link": "https://www.ershicimi.com/p/1b8ae2d15f3ee7d0b8bdc8d853262eef",
+        "date": "2020-06-23"
+      },
+      {
+        "title": "分析 React 组件的渲染性能",
+        "link": "https://www.ershicimi.com/p/995730554b61152d6610eee9bd40c124",
+        "date": "2020-06-23"
+      },
       {
         "title": "尤雨溪：重头来过的 Vue 3 带来了什么？",
         "link": "https://www.ershicimi.com/p/fbff6c7b2ba335e7c0744e847d69133e",

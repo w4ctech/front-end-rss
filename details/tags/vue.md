@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,6 +14,8 @@
 - [2020-01-10-面向未来编程---vue-function-api究竟是干什么的？](https://www.ershicimi.com/p/3f1aafb82b6b6557e94d6c505a2f5b89) 
 - [2020-01-09-Vue3-尝鲜](https://www.ershicimi.com/p/3a4f3ea1ee5cd240a5b9da2ffbe3b008) 
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
+- [2020-06-23-让Jenkins自动布署你的Vue项目](https://www.ershicimi.com/p/7a8a9e56672d838c68826006b07e7784) 
+- [2020-06-22-听说只要标题写vue3，你们就会点进来看](https://www.ershicimi.com/p/157dcc56f9d36c9e5691f904ae47f7e7) 
 - [2020-06-18-一文看懂Vue3周边配套现状](https://www.ershicimi.com/p/5b679c09dd1009ba7c7ca9a475503ea2) 
 - [2020-06-16-Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596) 
 - [2020-06-12-除了-Vue，前端开发还需掌握哪些核心能力？](https://www.ershicimi.com/p/e164b0b2b3f57c8d44479b9e224c832a) 
@@ -43,6 +45,7 @@
 - [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
 - [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
 - [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
+- [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/994a854d1a58576e886f0392b53f3166) 
 - [2020-06-18-Vue-3.0-KO-Vue-2.0](https://www.ershicimi.com/p/e5a25bd6a47b07dbee7a95cf200cbf76) 
 - [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a) 
 - [2020-06-09-手写Vue源码-可能是你见过最完整的版本！](https://www.ershicimi.com/p/db18ce48e30cc1d9dc5890c67368270c) 

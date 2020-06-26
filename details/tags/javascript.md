@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-26 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -12,6 +12,7 @@
 - [2020-01-24-WHO决定不将新冠肺炎疫情定性为国际突发公共卫生事件](http://international.caixin.com/2020-01-24/101507977.html) 
 - [2020-01-23-世卫组织：对是否宣布为“国际公共卫生紧急事件”存在分歧](http://www.caixin.com/2020-01-23/101507521.html) 
 - [2020-06-20-欧洲多国肉联厂暴发聚集性感染事件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1) 
+- [2020-06-24-从应用场景再谈防抖和节流](https://www.ershicimi.com/p/90386e29e4afd210f86749ff2086f189) 
 - [2020-06-19-3行核心CSS代码的rate评分组件，秀到你怀疑人生](https://www.ershicimi.com/p/86d301f2f89ead991f4b7241d89dc8a4) 
 - [2020-06-03-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d37cc6afd558bacb0d8ca2c7168c4f0d) 
 - [2020-06-01-十个超级实用的-ES6-特性](https://www.ershicimi.com/p/9845e887c0a78745192e971623536397) 
@@ -33,6 +34,7 @@
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 
 - [2020-02-18-阿里-fusion-组件之-breadcrumb-第二篇](https://www.ershicimi.com/p/a55a9cc13c99126b048168031c8b49ce) 
+- [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/819f99b2d78b579d5217bacc37eb300d) 
 - [2020-06-07-15个必须知道的JavaScript数组方法](https://www.ershicimi.com/p/6d0cdc43a5a764089b9d945d9b681a9f) 
 - [2020-05-26-javascript-近乎神话般的概念：闭包](https://www.ershicimi.com/p/0181385d9f9f88c56b3f566a71c20d64) 
 - [2020-05-25-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/03bfc1404951fdd4edd89eae1b1b605e) 

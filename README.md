@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 00:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 01:00:20，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-27-美国至少11个州暂停或推迟重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ogfs8QTIoHqoMpt9HAq200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-西班牙安达卢西亚大区疫情继续暴发-，5省确诊病例升至172例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipcU5tbyQ6ucmU94ELwky200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-美国至少11个州暂停或推迟重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ogfs8QTIoHqoMpt9HAq200627&isfromapp=1)  
+- [2020-06-27-西班牙安达卢西亚大区疫情继续暴发-，5省确诊病例升至172例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipcU5tbyQ6ucmU94ELwky200627&isfromapp=1)  
 - [2020-06-27-香港27日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1)  
 - [2020-06-27-美国疾控中心：美国实际感染人数可能是目前的10倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TrE8kQrXNGPSmMbAf0y200627&isfromapp=1)  
 - [2020-06-27-土耳其高考期间实施全国“禁足令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2cyOGmi3kRc8mbh78h8W200627&isfromapp=1)  
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-27-我在人间凑数的日子之转行做美团专送后的一些总结。](https://www.v2ex.com/t/685109)  
-- [2020-06-27-随便吐槽一下现在的-IT-业现状](https://www.v2ex.com/t/685108)  
-- [2020-06-27-我发现现代社会有个-bug](https://www.v2ex.com/t/685107)  
-- [2020-06-27-Big-Sur-通过-VNC-Viewer-无法查看远端-Ubuntu-桌面](https://www.v2ex.com/t/685106)  
-- [2020-06-27-求指导华西医院挂号](https://www.v2ex.com/t/685105)  
-- [2020-06-27-如何看待类型提示？](https://www.v2ex.com/t/685104)  
-- [2020-06-27-火绒网络入侵拦截的策略是怎么样的?](https://www.v2ex.com/t/685103)  
-- [2020-06-27-ppt-打开显示需要修复，点击修复后显示-Sorry,-PowerPoint-can't-read-^0.-还有救吗？](https://www.v2ex.com/t/685102)  
-- [2020-06-27-手头-U-盘都用了几年了？](https://www.v2ex.com/t/685100)  
-- [2020-06-27-有没有大佬说下怎么写的-DTK-申请](https://www.v2ex.com/t/685099)  
-- [2020-06-27-字节跳动内推---安全与风控](https://www.v2ex.com/t/685098)  
-- [2020-06-27-CSSKatas---交互式-CSS-学习平台](https://www.v2ex.com/t/685097)  
-- [2020-06-27-阿里云账号注销相关](https://www.v2ex.com/t/685095)  
-- [2020-06-27-有没有渗透实习岗位](https://www.v2ex.com/t/685094)  
-- [2020-06-27-树莓派-4B-不能远程-Setup-吗？](https://www.v2ex.com/t/685093)  
-- [2020-06-27-有没有数据库和定时器结合的基础设施？](https://www.v2ex.com/t/685092)  
-- [2020-06-27-在深圳创新谷上班的大佬们，万科附近](https://www.v2ex.com/t/685091)  
-- [2020-06-27-做了一个的综合查询工具](https://www.v2ex.com/t/685090)  
-- [2020-06-27-说明一下这个活动的机器。金山的上行确实是-5M-没错的。](https://www.v2ex.com/t/685089)  
-- [2020-06-27-应届生2020前端求职简历，希望得到各位前辈的见解，谢谢](https://www.v2ex.com/t/685088)  
+- [2020-06-28-未来，互联网公司是否会牢牢地控制大部分人的思想？](https://www.v2ex.com/t/685148) ![](assets/new.png)  
+- [2020-06-28-在校生前端实习转后端求建议](https://www.v2ex.com/t/685147) ![](assets/new.png)  
+- [2020-06-27-出国读研-qs100-内还是国内考研](https://www.v2ex.com/t/685146) ![](assets/new.png)  
+- [2020-06-27-编辑-TrueType-字体转-svg，一般用什么工具比较方便？](https://www.v2ex.com/t/685144) ![](assets/new.png)  
+- [2020-06-27-使用-React-构建页面可视化搭建工具](https://www.v2ex.com/t/685143) ![](assets/new.png)  
+- [2020-06-27-求职-资深/高级产品经理｜企业服务、推荐系统、信贷相关岗位｜成都](https://www.v2ex.com/t/685142) ![](assets/new.png)  
+- [2020-06-27-去加拿大，买什么手机好？](https://www.v2ex.com/t/685141) ![](assets/new.png)  
+- [2020-06-27-升级到-WSL2，心态崩了](https://www.v2ex.com/t/685140) ![](assets/new.png)  
+- [2020-06-27-chrome-简直愚蠢到极致](https://www.v2ex.com/t/685139) ![](assets/new.png)  
+- [2020-06-27-想要这么一个小工具，不知道有没有现成的，或者说实现起来难度有多大？](https://www.v2ex.com/t/685138) ![](assets/new.png)  
+- [2020-06-27-大家做数据可视化大屏展示的时候前端这块布局是怎么做的，如何做自适应？比如单位用-px?-rem?-vh/vw?-%?](https://www.v2ex.com/t/685137) ![](assets/new.png)  
+- [2020-06-27-广州联通最近国际出口是不是抽风了](https://www.v2ex.com/t/685136) ![](assets/new.png)  
+- [2020-06-27-AirPods-Pro-戴起来右耳有点疼，除此之外感觉体验很好](https://www.v2ex.com/t/685135) ![](assets/new.png)  
+- [2020-06-27-服务器提示-bash:-fork:-retry:-No-child-processes-如何处理？](https://www.v2ex.com/t/685132) ![](assets/new.png)  
+- [2020-06-27-115-网盘出啥问题了？](https://www.v2ex.com/t/685131) ![](assets/new.png)  
+- [2020-06-27-Sp-美区-下车一位-长期使用的来-季付-55-tg-联系-@catvoo](https://www.v2ex.com/t/685129) ![](assets/new.png)  
+- [2020-06-27-搞了一个基于-Fetch-API-的网络库](https://www.v2ex.com/t/685128) ![](assets/new.png)  
+- [2020-06-27-Windows-引以为傲的生态在现在是否反倒是劣势？](https://www.v2ex.com/t/685127) ![](assets/new.png)  
+- [2020-06-27-在某技术论坛看见讨论“平庸、技术、员工”](https://www.v2ex.com/t/685126) ![](assets/new.png)  
+- [2020-06-27-如何更高效的使用-IDM？](https://www.v2ex.com/t/685125) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

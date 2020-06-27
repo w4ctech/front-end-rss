@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 01:00:20，:rocket: 更新条数: +29， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 02:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-28-未来，互联网公司是否会牢牢地控制大部分人的思想？](https://www.v2ex.com/t/685148) ![](assets/new.png)  
-- [2020-06-28-在校生前端实习转后端求建议](https://www.v2ex.com/t/685147) ![](assets/new.png)  
-- [2020-06-27-出国读研-qs100-内还是国内考研](https://www.v2ex.com/t/685146) ![](assets/new.png)  
-- [2020-06-27-编辑-TrueType-字体转-svg，一般用什么工具比较方便？](https://www.v2ex.com/t/685144) ![](assets/new.png)  
-- [2020-06-27-使用-React-构建页面可视化搭建工具](https://www.v2ex.com/t/685143) ![](assets/new.png)  
-- [2020-06-27-求职-资深/高级产品经理｜企业服务、推荐系统、信贷相关岗位｜成都](https://www.v2ex.com/t/685142) ![](assets/new.png)  
-- [2020-06-27-去加拿大，买什么手机好？](https://www.v2ex.com/t/685141) ![](assets/new.png)  
-- [2020-06-27-升级到-WSL2，心态崩了](https://www.v2ex.com/t/685140) ![](assets/new.png)  
-- [2020-06-27-chrome-简直愚蠢到极致](https://www.v2ex.com/t/685139) ![](assets/new.png)  
-- [2020-06-27-想要这么一个小工具，不知道有没有现成的，或者说实现起来难度有多大？](https://www.v2ex.com/t/685138) ![](assets/new.png)  
-- [2020-06-27-大家做数据可视化大屏展示的时候前端这块布局是怎么做的，如何做自适应？比如单位用-px?-rem?-vh/vw?-%?](https://www.v2ex.com/t/685137) ![](assets/new.png)  
-- [2020-06-27-广州联通最近国际出口是不是抽风了](https://www.v2ex.com/t/685136) ![](assets/new.png)  
-- [2020-06-27-AirPods-Pro-戴起来右耳有点疼，除此之外感觉体验很好](https://www.v2ex.com/t/685135) ![](assets/new.png)  
-- [2020-06-27-服务器提示-bash:-fork:-retry:-No-child-processes-如何处理？](https://www.v2ex.com/t/685132) ![](assets/new.png)  
-- [2020-06-27-115-网盘出啥问题了？](https://www.v2ex.com/t/685131) ![](assets/new.png)  
-- [2020-06-27-Sp-美区-下车一位-长期使用的来-季付-55-tg-联系-@catvoo](https://www.v2ex.com/t/685129) ![](assets/new.png)  
-- [2020-06-27-搞了一个基于-Fetch-API-的网络库](https://www.v2ex.com/t/685128) ![](assets/new.png)  
-- [2020-06-27-Windows-引以为傲的生态在现在是否反倒是劣势？](https://www.v2ex.com/t/685127) ![](assets/new.png)  
-- [2020-06-27-在某技术论坛看见讨论“平庸、技术、员工”](https://www.v2ex.com/t/685126) ![](assets/new.png)  
-- [2020-06-27-如何更高效的使用-IDM？](https://www.v2ex.com/t/685125) ![](assets/new.png)  
+- [2020-06-28-电商中商品分类的设计问题](https://www.v2ex.com/t/685154) ![](assets/new.png)  
+- [2020-06-28-后场村大-3-室-1-厅-2-卫找合租室友](https://www.v2ex.com/t/685153) ![](assets/new.png)  
+- [2020-06-28-magic-mouse2-如何正确使用？](https://www.v2ex.com/t/685152) ![](assets/new.png)  
+- [2020-06-28-Keyboard-Maestro-在-macOS-Big-Sur-上有明显的不兼容吗？](https://www.v2ex.com/t/685151) ![](assets/new.png)  
+- [2020-06-28-未来，互联网公司是否会牢牢地控制大部分人的思想？](https://www.v2ex.com/t/685148)  
+- [2020-06-28-在校生前端实习转后端求建议](https://www.v2ex.com/t/685147)  
+- [2020-06-27-出国读研-qs100-内还是国内考研](https://www.v2ex.com/t/685146)  
+- [2020-06-27-编辑-TrueType-字体转-svg，一般用什么工具比较方便？](https://www.v2ex.com/t/685144)  
+- [2020-06-27-使用-React-构建页面可视化搭建工具](https://www.v2ex.com/t/685143)  
+- [2020-06-27-求职-资深/高级产品经理｜企业服务、推荐系统、信贷相关岗位｜成都](https://www.v2ex.com/t/685142)  
+- [2020-06-27-去加拿大，买什么手机好？](https://www.v2ex.com/t/685141)  
+- [2020-06-27-升级到-WSL2，心态崩了](https://www.v2ex.com/t/685140)  
+- [2020-06-27-chrome-简直愚蠢到极致](https://www.v2ex.com/t/685139)  
+- [2020-06-27-想要这么一个小工具，不知道有没有现成的，或者说实现起来难度有多大？](https://www.v2ex.com/t/685138)  
+- [2020-06-27-大家做数据可视化大屏展示的时候前端这块布局是怎么做的，如何做自适应？比如单位用-px?-rem?-vh/vw?-%?](https://www.v2ex.com/t/685137)  
+- [2020-06-27-广州联通最近国际出口是不是抽风了](https://www.v2ex.com/t/685136)  
+- [2020-06-27-AirPods-Pro-戴起来右耳有点疼，除此之外感觉体验很好](https://www.v2ex.com/t/685135)  
+- [2020-06-27-服务器提示-bash:-fork:-retry:-No-child-processes-如何处理？](https://www.v2ex.com/t/685132)  
+- [2020-06-27-115-网盘出啥问题了？](https://www.v2ex.com/t/685131)  
+- [2020-06-27-Sp-美区-下车一位-长期使用的来-季付-55-tg-联系-@catvoo](https://www.v2ex.com/t/685129)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 16:00:20，:rocket: 更新条数: +21， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 16:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -34,7 +34,7 @@
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1)  
 - [2020-06-27-韩国新冠肺炎确诊病例累计达12653例-首都圈疫情频发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1)  
 - [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1)  
 - [2020-06-27-世卫组织计划2021年底前提供20亿剂新冠疫苗](https://m.weibo.cn/3057540037/4520373138512318)  
@@ -589,6 +589,8 @@
 </summary>
 
 
+- [2020-06-27-完成你的第一个智能无人机](https://www.ershicimi.com/p/fff5693f221c16f234e5dd305a8bf7e4) ![](assets/new.png)  
+- [2020-06-27-被忽略的11个-JavaScript-小技巧](https://www.ershicimi.com/p/9f2a1199f12d8e436a38727993cd6fc6) ![](assets/new.png)  
 - [2020-06-25-前后端全部用-js-开发是什么体验（Hybrid-+-Egg.js经验分享）](https://www.ershicimi.com/p/ced500c03fcbee8991285f2d98b4bbd8)  
 - [2020-06-24-前端真的有资深工程师吗？](https://www.ershicimi.com/p/76f747e2ef0873e53fc4a5dff47b514e)  
 - [2020-06-24-如何优雅的实现一个九宫格抽奖](https://www.ershicimi.com/p/d18c914613076172693c9910451ed3e1)  
@@ -607,8 +609,6 @@
 - [2020-06-15-在阿里我是如何当面试官的含流程、注意点、面试题汇总等](https://www.ershicimi.com/p/da2229e0378c219c3192c01bcbf612cf)  
 - [2020-06-15-推荐几个优质的前端公众号](https://www.ershicimi.com/p/06b0f17af531df71aee2fc457844b0f9)  
 - [2020-06-13-疫情导致的行业危机会影响前端工程师的未来吗？](https://www.ershicimi.com/p/5db492a6cb53d2fc59e08a542c58abee)  
-- [2020-06-13-基于-Egg-的-Node.js-性能监控解决方案-Easy-Monitor-3.0-开源了](https://www.ershicimi.com/p/c658fec3c2b0baf588aeb893e016069f)  
-- [2020-06-12-1000+个项目的10大JavaScript错误（以及如何避免）](https://www.ershicimi.com/p/d0e2be76cf7a75e5963e0f7873f5281a)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-27-在上海的你们，都是买的什么价位的房子？](https://www.v2ex.com/t/685061) ![](assets/new.png)  
-- [2020-06-27-感觉自己抑郁了，每天很害怕上班，对任何事都提不起兴趣了](https://www.v2ex.com/t/685060) ![](assets/new.png)  
-- [2020-06-27-想问一下忽略主题这个功能的作用](https://www.v2ex.com/t/685059) ![](assets/new.png)  
-- [2020-06-27-鲁迅笔下的阿-Q-就是指当代的网络喷子呀](https://www.v2ex.com/t/685058) ![](assets/new.png)  
-- [2020-06-27-iPad-Pro-保护壳选择](https://www.v2ex.com/t/685057) ![](assets/new.png)  
-- [2020-06-27-迫于老婆银行任务，推广一下信用卡，送话费](https://www.v2ex.com/t/685055) ![](assets/new.png)  
-- [2020-06-27-自己开发了一个论坛-app](https://www.v2ex.com/t/685054) ![](assets/new.png)  
-- [2020-06-27-“中文代码快速补全”-VS-Code-插件-1.1.0-发布~](https://www.v2ex.com/t/685051) ![](assets/new.png)  
-- [2020-06-27-独立开发者开发的这几个月](https://www.v2ex.com/t/685050) ![](assets/new.png)  
-- [2020-06-27-有前端的简历参考一下的吗](https://www.v2ex.com/t/685049) ![](assets/new.png)  
-- [2020-06-27-都说-ssh-对一些目录，文件，有权限要求，可是？](https://www.v2ex.com/t/685047) ![](assets/new.png)  
-- [2020-06-27-Python-Pandas-有没有办法只识别大写字符串“NULL”为空值，而不包括小写字符串“null”](https://www.v2ex.com/t/685046) ![](assets/new.png)  
-- [2020-06-27-头条的岗位有兴趣的老哥，可以看一下](https://www.v2ex.com/t/685045) ![](assets/new.png)  
-- [2020-06-27-被「招商银行」强制性办理某业务](https://www.v2ex.com/t/685044) ![](assets/new.png)  
-- [2020-06-27-想把老照片储存进硬盘，需要买扫描仪吗？](https://www.v2ex.com/t/685043) ![](assets/new.png)  
-- [2020-06-27-看到苟晶事件前完全没想到高考还有这样黑暗的事](https://www.v2ex.com/t/685042) ![](assets/new.png)  
-- [2020-06-27-做了一个便捷的网课查题平台（500W+-题库）](https://www.v2ex.com/t/685041) ![](assets/new.png)  
-- [2020-06-27-为什么威联通-TS-551-这么便宜？](https://www.v2ex.com/t/685040) ![](assets/new.png)  
-- [2020-06-27-OSChina-更新-木兰编程语言重现——儿歌查询实例，引用模块、字符串列表操作](https://www.v2ex.com/t/685039) ![](assets/new.png)  
-- [2020-06-27-macbookPro-天天插电、或者电充满就拔掉，提示我插电就插上，哪种对电池伤害最大？](https://www.v2ex.com/t/685038) ![](assets/new.png)  
+- [2020-06-27-有没有改变-api-返回的-json-的线上服务](https://www.v2ex.com/t/685064) ![](assets/new.png)  
+- [2020-06-27-在-vue-里面到底哪种写法比较规范？](https://www.v2ex.com/t/685063) ![](assets/new.png)  
+- [2020-06-27-在-UBUNTU-中装完-PIPENV-不能用？](https://www.v2ex.com/t/685062) ![](assets/new.png)  
+- [2020-06-27-在上海的你们，都是买的什么价位的房子？](https://www.v2ex.com/t/685061)  
+- [2020-06-27-感觉自己抑郁了，每天很害怕上班，对任何事都提不起兴趣了](https://www.v2ex.com/t/685060)  
+- [2020-06-27-想问一下忽略主题这个功能的作用](https://www.v2ex.com/t/685059)  
+- [2020-06-27-鲁迅笔下的阿-Q-就是指当代的网络喷子呀](https://www.v2ex.com/t/685058)  
+- [2020-06-27-iPad-Pro-保护壳选择](https://www.v2ex.com/t/685057)  
+- [2020-06-27-迫于老婆银行任务，推广一下信用卡，送话费](https://www.v2ex.com/t/685055)  
+- [2020-06-27-自己开发了一个论坛-app](https://www.v2ex.com/t/685054)  
+- [2020-06-27-“中文代码快速补全”-VS-Code-插件-1.1.0-发布~](https://www.v2ex.com/t/685051)  
+- [2020-06-27-独立开发者开发的这几个月](https://www.v2ex.com/t/685050)  
+- [2020-06-27-有前端的简历参考一下的吗](https://www.v2ex.com/t/685049)  
+- [2020-06-27-都说-ssh-对一些目录，文件，有权限要求，可是？](https://www.v2ex.com/t/685047)  
+- [2020-06-27-Python-Pandas-有没有办法只识别大写字符串“NULL”为空值，而不包括小写字符串“null”](https://www.v2ex.com/t/685046)  
+- [2020-06-27-头条的岗位有兴趣的老哥，可以看一下](https://www.v2ex.com/t/685045)  
+- [2020-06-27-被「招商银行」强制性办理某业务](https://www.v2ex.com/t/685044)  
+- [2020-06-27-想把老照片储存进硬盘，需要买扫描仪吗？](https://www.v2ex.com/t/685043)  
+- [2020-06-27-看到苟晶事件前完全没想到高考还有这样黑暗的事](https://www.v2ex.com/t/685042)  
+- [2020-06-27-做了一个便捷的网课查题平台（500W+-题库）](https://www.v2ex.com/t/685041)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

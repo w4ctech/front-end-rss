@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1612,6 +1612,7 @@
 - [2020-05-25-学习前端三大件的正确姿势](https://www.ershicimi.com/p/b944d78c25ca86216550a8c00392ed82) 
 - [2020-05-23-朋友圈出镜率最高的大佬公众号](https://www.ershicimi.com/p/8d3c57cb40d0538fa02257f212ce0f7a) 
 - [2020-05-23-三年前端寒冬入大厂，收获蚂蚁、字节-offer-面经分享](https://www.ershicimi.com/p/2f5e766fa0bcfd8eb8510070c9cfe5b2) 
+- [2020-06-27-完成你的第一个智能无人机](https://www.ershicimi.com/p/fff5693f221c16f234e5dd305a8bf7e4) 
 - [2020-06-24-前端真的有资深工程师吗？](https://www.ershicimi.com/p/76f747e2ef0873e53fc4a5dff47b514e) 
 - [2020-06-24-如何优雅的实现一个九宫格抽奖](https://www.ershicimi.com/p/d18c914613076172693c9910451ed3e1) 
 - [2020-06-20-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/bea3b929653942e2f51ad8e7088bc7e1) 
@@ -2103,6 +2104,7 @@
 - [2020-05-27-知乎故事-|-和平分手是怎样一种体验？](https://www.ershicimi.com/p/2c74b6d07e838c1652c457a6ce76470a) 
 - [2020-05-26-何鸿燊从不赌钱，为何会被称为「赌王」？](https://www.ershicimi.com/p/d298a6039fbe94e8f4d482e8aef88ae7) 
 - [2020-05-26-618-神攻略-|-为了让你-618-更豪横，我们把百万购物基金准备好了](https://www.ershicimi.com/p/ca8ee8de0f302172483e57feb2700b83) 
+- [2020-06-27-在-UBUNTU-中装完-PIPENV-不能用？](https://www.v2ex.com/t/685062) 
 - [2020-06-27-在上海的你们，都是买的什么价位的房子？](https://www.v2ex.com/t/685061) 
 - [2020-06-27-感觉自己抑郁了，每天很害怕上班，对任何事都提不起兴趣了](https://www.v2ex.com/t/685060) 
 - [2020-06-27-想问一下忽略主题这个功能的作用](https://www.v2ex.com/t/685059) 

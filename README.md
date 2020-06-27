@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 13:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-27-韩国新冠肺炎确诊病例累计达12653例-首都圈疫情频发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-韩国新冠肺炎确诊病例累计达12653例-首都圈疫情频发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1)  
 - [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1)  
 - [2020-06-27-世卫组织计划2021年底前提供20亿剂新冠疫苗](https://m.weibo.cn/3057540037/4520373138512318)  
 - [2020-06-27-国际货币基金组织：受疫情影响-2020年拉美地区将出现有统计以来最严重经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix5rR8TmDNKn8Ww1KpKRX200627&isfromapp=1)  
@@ -406,6 +406,9 @@
 </summary>
 
 
+- [2020-06-26-将数十万行CoffeeScript代码迁移到TypeScript](https://www.ershicimi.com/p/2f91f9e6551bf76143b148d191ace38b) ![](assets/new.png)  
+- [2020-06-26-2020去中心化Web开发者报告](https://www.ershicimi.com/p/b119967e87d033229f7544a24625479b) ![](assets/new.png)  
+- [2020-06-26-有奖调研-|-新基建热潮下的云服务器市场调研](https://www.ershicimi.com/p/9c024a317da7115f648bde3115ed5a16) ![](assets/new.png)  
 - [2020-06-25-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/4242eeb530892131906d848c48f8c72a)  
 - [2020-06-25-U4内核技术优化大揭秘](https://www.ershicimi.com/p/085eea978aa43c9015cd1979bc996989)  
 - [2020-06-25-winter出品的前端训练营招募兼职助教-|-极客大学](https://www.ershicimi.com/p/54519ebb12207cf767115375c924f18b)  
@@ -423,9 +426,6 @@
 - [2020-06-12-Vue-3.0-KO-Vue-2.0-|-课程推荐](https://www.ershicimi.com/p/f6c9781f7a050ee48a252fea487db11e)  
 - [2020-06-12-使用JS和NodeJS爬取Web内容](https://www.ershicimi.com/p/251247357254716dd6368105bff53ae5)  
 - [2020-06-11-刚刚，谷歌正式发布Android-11-Beta版，带来多项重磅更新！](https://www.ershicimi.com/p/2a32b254a6ebe62fe3ec1a6e9ae0b5a5)  
-- [2020-06-11-日活超过3亿的快手是怎么进行性能优化的？](https://www.ershicimi.com/p/0526b20b5c4d63a795b7ef56746ef782)  
-- [2020-06-11-​同时兼具跨平台和高性能的-AI-框架，可能吗？](https://www.ershicimi.com/p/55451f9a499d305ebbda3017ff52f57c)  
-- [2020-06-10-JavaScript开发人员更喜欢Deno的五大原因](https://www.ershicimi.com/p/f457d091b28f7857b961cfd1285355bd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

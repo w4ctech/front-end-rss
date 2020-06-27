@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -10,6 +10,7 @@
 - [2020-06-24-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/e8b213ac1b7bf4e26ed5d85f60ddac4e) 
 - [2020-06-07-通俗易懂的-TypeScript-入门教程](https://www.ershicimi.com/p/5c1aebacee46d7e552cce3b3cbdc0be2) 
 - [2020-06-25-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5) 
+- [2020-06-26-将数十万行CoffeeScript代码迁移到TypeScript](https://www.ershicimi.com/p/2f91f9e6551bf76143b148d191ace38b) 
 - [2020-06-22-Deno将停止使用TypeScript，并公布五项具体理由](https://www.ershicimi.com/p/428b36b1d802d73493d6f9f15261f9ac) 
 - [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be) 
 - [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831) 

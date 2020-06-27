@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 23:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-香港27日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-美国疾控中心：美国实际感染人数可能是目前的10倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TrE8kQrXNGPSmMbAf0y200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-土耳其高考期间实施全国“禁足令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2cyOGmi3kRc8mbh78h8W200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-​因疫情无法返校做实验，武大团队造600多个“家庭实验室”送到学生家中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBshZ1OqdP0qrmh2aBcL200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-世卫组织：全球新冠肺炎确诊病例超过959万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1) 
@@ -1733,6 +1737,16 @@
 - [【掘金前端】2020-06-01-聊聊前端开发日常的协作工具（全）](https://juejin.im/post/5ed37b57518825434c3d9677) 
 - [【掘金前端】2020-06-01-精读《snowpack》](https://juejin.im/post/5ed45ee76fb9a04802146dc9) 
 - [【掘金前端】2020-06-01-如何实现高性能的在线-PDF-预览](https://juejin.im/post/5ed3974ae51d45784d7ca7a5) 
+- [【知乎日报】2020-06-27-知乎神吐槽-|-你在你男/女朋友的手机里发现过什么秘密？](https://www.ershicimi.com/p/7ff934e1a39a74bffbd9e3276a0481b4) 
+- [【知乎日报】2020-06-27-当冷知识动起来，「冷冻」知识会更容易进脑子么？](https://www.ershicimi.com/p/f3ae3b8024b57604bc4a2b67f29ad385) 
+- [【知乎日报】2020-06-27-如果你没时间读书，就来看看这-10-个公众号](https://www.ershicimi.com/p/3844e7bed3273b6ae6042d1db712d92e) 
+- [【知乎日报】2020-06-27-知乎故事-|-我嫁给了我不喜欢的公子](https://www.ershicimi.com/p/3274a2bdc81ca2930a6b9e91b7564c53) 
+- [【知乎日报】2020-06-26-剧透预警！没看懂这些细节，相当于白看《隐秘的角落》](https://www.ershicimi.com/p/ff30db5d68da8064ada9b434c53e068e) 
+- [【知乎日报】2020-06-26-永远不要低估一个浙江人](https://www.ershicimi.com/p/d47ae8e65c3efe93e8e9cb72c8438bff) 
+- [【知乎日报】2020-06-26-哪一瞬间让你开始想做视频了？丨视频训练营招募](https://www.ershicimi.com/p/fb7f96ae02e6d937d788680616b1dc25) 
+- [【知乎日报】2020-06-26-知乎故事-|-哪一个瞬间让你觉得小孩子不是小孩子？](https://www.ershicimi.com/p/104a208e7bc6a574a4e0872b725a1d55) 
+- [【知乎日报】2020-06-25-知乎高赞：中国现存-72-种「亚文化」，有些你听都没听过](https://www.ershicimi.com/p/2be845cd4597c9c8ce10269078e97f72) 
+- [【知乎日报】2020-06-25-发现了这些「人均绝色」好剧，你确定假期还要出门？](https://www.ershicimi.com/p/668ef46c0e387d655739e40d72f7e1d4) 
 - [【知乎日报】2020-06-24-知乎-20-万+-人关注：有哪些简单又值得坚持的好习惯？](https://www.ershicimi.com/p/c0b6e09a90bb90aadfea1a1e98f3d21b) 
 - [【知乎日报】2020-06-24-爱因斯坦去世不到-7-个小时大脑就被变态医生偷走「研究」了几十年，这背后隐藏了什么秘密？](https://www.ershicimi.com/p/57ea0f868c6359fcd2a5d5c14e0e75ea) 
 - [【知乎日报】2020-06-24-知乎故事-|-双向暗恋是一种怎样的体验？](https://www.ershicimi.com/p/c02e680e5967d4a0682d39b48fad03c6) 

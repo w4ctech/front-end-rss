@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 21:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 23:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -50,8 +50,8 @@
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
-- [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [知乎日报](#知乎日报)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-27-香港27日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-美国疾控中心：美国实际感染人数可能是目前的10倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TrE8kQrXNGPSmMbAf0y200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-土耳其高考期间实施全国“禁足令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2cyOGmi3kRc8mbh78h8W200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-​因疫情无法返校做实验，武大团队造600多个“家庭实验室”送到学生家中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBshZ1OqdP0qrmh2aBcL200627&isfromapp=1) ![](assets/new.png)  
 - [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1)  
 - [2020-06-27-世卫组织：全球新冠肺炎确诊病例超过959万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1)  
 - [2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1)  
 - [2020-06-27-​美国新冠肺炎确诊病例超过245万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDYlGpTXeRniKwBBhS7LB200627&isfromapp=1)  
 - [2020-06-27-​马拉维新增新冠肺炎确诊病例45例-累积确诊过千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy81V33hhgEucyn5xVf7B200627&isfromapp=1)  
-- [2020-06-27-新冠肺炎感染和死亡人数成倍增长-巴西米纳斯吉拉斯州首府重回隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA2VbvzU2I9wda7xMLP31200627&isfromapp=1)  
-- [2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1)  
-- [2020-06-27-世卫组织：中国积极研发新冠疫苗-将进一步合作并提供支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1)  
-- [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1019,6 +1019,16 @@
 </summary>
 
 
+- [2020-06-27-知乎神吐槽-|-你在你男/女朋友的手机里发现过什么秘密？](https://www.ershicimi.com/p/7ff934e1a39a74bffbd9e3276a0481b4) ![](assets/new.png)  
+- [2020-06-27-当冷知识动起来，「冷冻」知识会更容易进脑子么？](https://www.ershicimi.com/p/f3ae3b8024b57604bc4a2b67f29ad385) ![](assets/new.png)  
+- [2020-06-27-如果你没时间读书，就来看看这-10-个公众号](https://www.ershicimi.com/p/3844e7bed3273b6ae6042d1db712d92e) ![](assets/new.png)  
+- [2020-06-27-知乎故事-|-我嫁给了我不喜欢的公子](https://www.ershicimi.com/p/3274a2bdc81ca2930a6b9e91b7564c53) ![](assets/new.png)  
+- [2020-06-26-剧透预警！没看懂这些细节，相当于白看《隐秘的角落》](https://www.ershicimi.com/p/ff30db5d68da8064ada9b434c53e068e) ![](assets/new.png)  
+- [2020-06-26-永远不要低估一个浙江人](https://www.ershicimi.com/p/d47ae8e65c3efe93e8e9cb72c8438bff) ![](assets/new.png)  
+- [2020-06-26-哪一瞬间让你开始想做视频了？丨视频训练营招募](https://www.ershicimi.com/p/fb7f96ae02e6d937d788680616b1dc25) ![](assets/new.png)  
+- [2020-06-26-知乎故事-|-哪一个瞬间让你觉得小孩子不是小孩子？](https://www.ershicimi.com/p/104a208e7bc6a574a4e0872b725a1d55) ![](assets/new.png)  
+- [2020-06-25-知乎高赞：中国现存-72-种「亚文化」，有些你听都没听过](https://www.ershicimi.com/p/2be845cd4597c9c8ce10269078e97f72) ![](assets/new.png)  
+- [2020-06-25-发现了这些「人均绝色」好剧，你确定假期还要出门？](https://www.ershicimi.com/p/668ef46c0e387d655739e40d72f7e1d4) ![](assets/new.png)  
 - [2020-06-24-知乎-20-万+-人关注：有哪些简单又值得坚持的好习惯？](https://www.ershicimi.com/p/c0b6e09a90bb90aadfea1a1e98f3d21b)  
 - [2020-06-24-爱因斯坦去世不到-7-个小时大脑就被变态医生偷走「研究」了几十年，这背后隐藏了什么秘密？](https://www.ershicimi.com/p/57ea0f868c6359fcd2a5d5c14e0e75ea)  
 - [2020-06-24-知乎故事-|-双向暗恋是一种怎样的体验？](https://www.ershicimi.com/p/c02e680e5967d4a0682d39b48fad03c6)  
@@ -1029,16 +1039,6 @@
 - [2020-06-22-作为医生，我希望每个人都能牢记这-6-个生理知识](https://www.ershicimi.com/p/9f5d077f5d209f1f5171c6b9259f0fa6)  
 - [2020-06-22-8-位「时尚盐究员」带你变身这条街上最靓的仔](https://www.ershicimi.com/p/6387422503b5c4767478311850d4dd66)  
 - [2020-06-22-为什么有些人年纪轻轻却思想深度远高于常人？](https://www.ershicimi.com/p/cc5c2e6a5cd0db8ffa0bc5310278f45a)  
-- [2020-06-20-知乎神吐槽-|-怎样能看出一个人「开车」水平高低？](https://www.ershicimi.com/p/dcfd447f88d71e924ca2977f4ef54c9b)  
-- [2020-06-20-电影院不开门的日子，我们承包你的小荧幕！从零到一，认识导演](https://www.ershicimi.com/p/49012f28934535a7d1d77281c41d52de)  
-- [2020-06-20-知乎故事-|-平淡如水的生活幸福吗？](https://www.ershicimi.com/p/3787e74cd47ce93e230232317c741d15)  
-- [2020-06-19-知乎-10-万+-赞同：如何提升自己为人处世的能力？](https://www.ershicimi.com/p/2848728f38ae43d32072483da7c16696)  
-- [2020-06-19-大熊猫这么可爱，抢它的竹笋吃犯法吗？](https://www.ershicimi.com/p/9055745dc3b0b08165a9b56a9b0e725c)  
-- [2020-06-19-知乎故事-|-小婴儿的性格是天生的吗？](https://www.ershicimi.com/p/8e014fdd488cfb80eedc9768acb158a4)  
-- [2020-06-18-知乎好问题：有哪些便宜还好用的东西，买了就感觉得了宝一样？](https://www.ershicimi.com/p/7995c21b860b1e82e2be8274b210390f)  
-- [2020-06-18-9-位「时尚盐究员」带你变身美妆达人](https://www.ershicimi.com/p/1dafe836af81504e0bdb82cce32a5f63)  
-- [2020-06-18-2020，微信里舍不得删的7个公众号](https://www.ershicimi.com/p/318bbda40b0f675f8517474a2c4b9360)  
-- [2020-06-18-知乎故事-|-网恋奔现睡一间房正常吗？](https://www.ershicimi.com/p/b4071e7eb04e129a936fec205e8cfe03)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-27-我在人间凑数的日子之转行做美团专送后的一些总结。](https://www.v2ex.com/t/685109) ![](assets/new.png)  
-- [2020-06-27-随便吐槽一下现在的-IT-业现状](https://www.v2ex.com/t/685108) ![](assets/new.png)  
-- [2020-06-27-我发现现代社会有个-bug](https://www.v2ex.com/t/685107) ![](assets/new.png)  
-- [2020-06-27-Big-Sur-通过-VNC-Viewer-无法查看远端-Ubuntu-桌面](https://www.v2ex.com/t/685106) ![](assets/new.png)  
-- [2020-06-27-求指导华西医院挂号](https://www.v2ex.com/t/685105) ![](assets/new.png)  
-- [2020-06-27-如何看待类型提示？](https://www.v2ex.com/t/685104) ![](assets/new.png)  
-- [2020-06-27-火绒网络入侵拦截的策略是怎么样的?](https://www.v2ex.com/t/685103) ![](assets/new.png)  
-- [2020-06-27-ppt-打开显示需要修复，点击修复后显示-Sorry,-PowerPoint-can't-read-^0.-还有救吗？](https://www.v2ex.com/t/685102) ![](assets/new.png)  
-- [2020-06-27-手头-U-盘都用了几年了？](https://www.v2ex.com/t/685100) ![](assets/new.png)  
-- [2020-06-27-有没有大佬说下怎么写的-DTK-申请](https://www.v2ex.com/t/685099) ![](assets/new.png)  
-- [2020-06-27-字节跳动内推---安全与风控](https://www.v2ex.com/t/685098) ![](assets/new.png)  
-- [2020-06-27-CSSKatas---交互式-CSS-学习平台](https://www.v2ex.com/t/685097) ![](assets/new.png)  
-- [2020-06-27-阿里云账号注销相关](https://www.v2ex.com/t/685095) ![](assets/new.png)  
-- [2020-06-27-有没有渗透实习岗位](https://www.v2ex.com/t/685094) ![](assets/new.png)  
-- [2020-06-27-树莓派-4B-不能远程-Setup-吗？](https://www.v2ex.com/t/685093) ![](assets/new.png)  
-- [2020-06-27-有没有数据库和定时器结合的基础设施？](https://www.v2ex.com/t/685092) ![](assets/new.png)  
-- [2020-06-27-在深圳创新谷上班的大佬们，万科附近](https://www.v2ex.com/t/685091) ![](assets/new.png)  
-- [2020-06-27-做了一个的综合查询工具](https://www.v2ex.com/t/685090) ![](assets/new.png)  
-- [2020-06-27-说明一下这个活动的机器。金山的上行确实是-5M-没错的。](https://www.v2ex.com/t/685089) ![](assets/new.png)  
-- [2020-06-27-应届生2020前端求职简历，希望得到各位前辈的见解，谢谢](https://www.v2ex.com/t/685088) ![](assets/new.png)  
+- [2020-06-27-我在人间凑数的日子之转行做美团专送后的一些总结。](https://www.v2ex.com/t/685109)  
+- [2020-06-27-随便吐槽一下现在的-IT-业现状](https://www.v2ex.com/t/685108)  
+- [2020-06-27-我发现现代社会有个-bug](https://www.v2ex.com/t/685107)  
+- [2020-06-27-Big-Sur-通过-VNC-Viewer-无法查看远端-Ubuntu-桌面](https://www.v2ex.com/t/685106)  
+- [2020-06-27-求指导华西医院挂号](https://www.v2ex.com/t/685105)  
+- [2020-06-27-如何看待类型提示？](https://www.v2ex.com/t/685104)  
+- [2020-06-27-火绒网络入侵拦截的策略是怎么样的?](https://www.v2ex.com/t/685103)  
+- [2020-06-27-ppt-打开显示需要修复，点击修复后显示-Sorry,-PowerPoint-can't-read-^0.-还有救吗？](https://www.v2ex.com/t/685102)  
+- [2020-06-27-手头-U-盘都用了几年了？](https://www.v2ex.com/t/685100)  
+- [2020-06-27-有没有大佬说下怎么写的-DTK-申请](https://www.v2ex.com/t/685099)  
+- [2020-06-27-字节跳动内推---安全与风控](https://www.v2ex.com/t/685098)  
+- [2020-06-27-CSSKatas---交互式-CSS-学习平台](https://www.v2ex.com/t/685097)  
+- [2020-06-27-阿里云账号注销相关](https://www.v2ex.com/t/685095)  
+- [2020-06-27-有没有渗透实习岗位](https://www.v2ex.com/t/685094)  
+- [2020-06-27-树莓派-4B-不能远程-Setup-吗？](https://www.v2ex.com/t/685093)  
+- [2020-06-27-有没有数据库和定时器结合的基础设施？](https://www.v2ex.com/t/685092)  
+- [2020-06-27-在深圳创新谷上班的大佬们，万科附近](https://www.v2ex.com/t/685091)  
+- [2020-06-27-做了一个的综合查询工具](https://www.v2ex.com/t/685090)  
+- [2020-06-27-说明一下这个活动的机器。金山的上行确实是-5M-没错的。](https://www.v2ex.com/t/685089)  
+- [2020-06-27-应届生2020前端求职简历，希望得到各位前辈的见解，谢谢](https://www.v2ex.com/t/685088)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

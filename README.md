@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 08:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 08:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)  
+- [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -94,10 +94,10 @@
 </summary>
 
 
-- [2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-​美国新冠肺炎确诊病例超过245万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDYlGpTXeRniKwBBhS7LB200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1)  
+- [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1)  
+- [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1)  
+- [2020-06-27-​美国新冠肺炎确诊病例超过245万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDYlGpTXeRniKwBBhS7LB200627&isfromapp=1)  
 - [2020-06-27-​马拉维新增新冠肺炎确诊病例45例-累积确诊过千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy81V33hhgEucyn5xVf7B200627&isfromapp=1)  
 - [2020-06-27-新冠肺炎感染和死亡人数成倍增长-巴西米纳斯吉拉斯州首府重回隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA2VbvzU2I9wda7xMLP31200627&isfromapp=1)  
 - [2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1)  
@@ -354,6 +354,8 @@
 </summary>
 
 
+- [2020-06-26-2020年6月程序员工资统计，平均14404元，又跌了，扎心了！你的呢？](https://www.ershicimi.com/p/be83e2544f639333a282f7a0d87a17e8) ![](assets/new.png)  
+- [2020-06-26-webpack与rollup背后的acorn](https://www.ershicimi.com/p/2585acdc41670f8c88c5614c47616405) ![](assets/new.png)  
 - [2020-06-25-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766)  
 - [2020-06-25-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5)  
 - [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/994a854d1a58576e886f0392b53f3166)  
@@ -372,8 +374,6 @@
 - [2020-06-16-Vue项目实践，你能举一反三么？](https://www.ershicimi.com/p/2ea7d9a19b27db5134b30e1fcb25850a)  
 - [2020-06-15-烦人的加班，我该如何提升前端技术？](https://www.ershicimi.com/p/3253784ab08e71ecf0b16e0109efa7d1)  
 - [2020-06-15-网站无障碍化简介](https://www.ershicimi.com/p/d1cb79c55a8d0dbea06672fef84bdb47)  
-- [2020-06-14-前端如何在项目中做出亮点](https://www.ershicimi.com/p/faba53963692c54fd3be64b9603da028)  
-- [2020-06-14-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/0ccc4c0760e592bf833669d8cf94d2c2)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1465,6 +1465,7 @@
 - [2020-05-22-好生气！在极客时间花上千块买的前端课程，竟然可以免费学了？](https://www.ershicimi.com/p/ffb578f05ad35820f4e999213af4b469) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
+- [2020-06-26-2020年6月程序员工资统计，平均14404元，又跌了，扎心了！你的呢？](https://www.ershicimi.com/p/be83e2544f639333a282f7a0d87a17e8) 
 - [2020-06-25-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766) 
 - [2020-06-23-字节跳动28岁程序员期权价值过亿提前退休](https://www.ershicimi.com/p/8c58058aadcd3e96c99c862b8528352b) 
 - [2020-06-20-前端开发与架构师](https://www.ershicimi.com/p/f70a7d662e4f9f708a7a2fd996355b49) 

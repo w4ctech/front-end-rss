@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-​美国新冠肺炎确诊病例超过245万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDYlGpTXeRniKwBBhS7LB200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-​马拉维新增新冠肺炎确诊病例45例-累积确诊过千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy81V33hhgEucyn5xVf7B200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-新冠肺炎感染和死亡人数成倍增长-巴西米纳斯吉拉斯州首府重回隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA2VbvzU2I9wda7xMLP31200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1) 

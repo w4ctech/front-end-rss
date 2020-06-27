@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 08:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,10 +94,14 @@
 </summary>
 
 
-- [2020-06-27-​马拉维新增新冠肺炎确诊病例45例-累积确诊过千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy81V33hhgEucyn5xVf7B200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-新冠肺炎感染和死亡人数成倍增长-巴西米纳斯吉拉斯州首府重回隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA2VbvzU2I9wda7xMLP31200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-世卫组织：中国积极研发新冠疫苗-将进一步合作并提供支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-​美国新冠肺炎确诊病例超过245万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDYlGpTXeRniKwBBhS7LB200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-​马拉维新增新冠肺炎确诊病例45例-累积确诊过千](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy81V33hhgEucyn5xVf7B200627&isfromapp=1)  
+- [2020-06-27-新冠肺炎感染和死亡人数成倍增长-巴西米纳斯吉拉斯州首府重回隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA2VbvzU2I9wda7xMLP31200627&isfromapp=1)  
+- [2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1)  
+- [2020-06-27-世卫组织：中国积极研发新冠疫苗-将进一步合作并提供支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1)  
 - [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1)  
 - [2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1)  
 - [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-26-时隔78天-澳门26日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLGwTiWTdY6Z78WaEozMN200626&isfromapp=1)  
 - [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1)  
 - [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1)  
-- [2020-06-26-美国内华达州26日起施行“口罩强制令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1)  
-- [2020-06-26-秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1)  
-- [2020-06-26-​希腊首例监狱感染新冠病毒病例被逆转-该服刑人员并未感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1)  
-- [2020-06-26-美国知名连锁百货商店梅西百货预计裁员近4000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

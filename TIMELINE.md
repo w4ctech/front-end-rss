@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1037,6 +1037,7 @@
 - [【前端之巅】2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
 - [【前端之巅】2020-06-01-打造基于Webpack的构建流程与性能改进](https://www.ershicimi.com/p/528c0b864cc3b11759c0e6327391199f) 
 - [【前端之巅】2020-06-01-5-大角度，带你掌握微信小程序全栈开发-|-极客时间](https://www.ershicimi.com/p/5548d799a9f82085308c041ea2e0c516) 
+- [【前端迷】2020-06-26-前端性能优化总结](https://www.ershicimi.com/p/2c1284e5ba7b1ca4b28fb387ca03d5d2) 
 - [【前端迷】2020-06-25-学习前端算法前你需要了解的‘大O表示法’](https://www.ershicimi.com/p/f04071f414e5cf1bc02b55c23a47f655) 
 - [【前端迷】2020-06-24-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/0d9e1fc9fad10a95281ec39130bba44a) 
 - [【前端迷】2020-06-23-webpack4主流程源码阅读，以及动手实现一个简单的webpack](https://www.ershicimi.com/p/986e39aa3d626ed0281118fa0431d6c7) 

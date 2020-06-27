@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 19:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -1816,6 +1816,20 @@
 - [【知乎日报】2020-06-01-嘿！进-来-过-节-！](https://www.ershicimi.com/p/25c376c601cf5fe8350563301cb57a57) 
 - [【知乎日报】2020-06-01-如果可以回到童年，你有哪些话想对当时的爸爸妈妈说？](https://www.ershicimi.com/p/ed3679f86b82a88c9c42b1e64f64c542) 
 - [【知乎日报】2020-06-01-知乎故事-|-你们小时候做过最沙雕的事是什么？](https://www.ershicimi.com/p/a804dff9e2c9b918eebb43e0ed60c870) 
+- [【V2EX】2020-06-27-Youtube-Premium-港区自用车，寻-1-位长期车友](https://www.v2ex.com/t/685087) 
+- [【V2EX】2020-06-27-有没有智能音箱支持播放自己本地或者上传的歌曲](https://www.v2ex.com/t/685086) 
+- [【V2EX】2020-06-27-看图软件可以影响图片画质吗](https://www.v2ex.com/t/685085) 
+- [【V2EX】2020-06-27-翻译了-Chrome-扩展-插件-开发官方文档](https://www.v2ex.com/t/685084) 
+- [【V2EX】2020-06-27-有什么好的-ITX-或者超小的-MATX-机箱推荐么？](https://www.v2ex.com/t/685083) 
+- [【V2EX】2020-06-27-看电子书、PDF、技术文档，-iPad-、Surface、安卓平板、Kindle、180-度笔记本，哪个更适合？](https://www.v2ex.com/t/685082) 
+- [【V2EX】2020-06-27-iPhone-11pro-的长焦-到底有用没有？](https://www.v2ex.com/t/685081) 
+- [【V2EX】2020-06-27-Windows-Sandbox-的图像似乎是压缩过的](https://www.v2ex.com/t/685080) 
+- [【V2EX】2020-06-27-我做了一款既不支持-JS-也不支持-CSS-的浏览器](https://www.v2ex.com/t/685079) 
+- [【V2EX】2020-06-27-安卓平板上有什么好用的看小说软件吗？](https://www.v2ex.com/t/685078) 
+- [【V2EX】2020-06-27-Dell-这么大的厂商就不会出一个-Mac-端的控制软件？](https://www.v2ex.com/t/685077) 
+- [【V2EX】2020-06-27-小公司，想注册个免费企业邮箱，哪家好？](https://www.v2ex.com/t/685076) 
+- [【V2EX】2020-06-27-关于-macOS-10.15.5-推出电池健康管理功能，有些疑问](https://www.v2ex.com/t/685075) 
+- [【V2EX】2020-06-27-杭州--重庆-就想知道杭州哪里能吃到-正宗的重庆-老麻抄手](https://www.v2ex.com/t/685073) 
 - [【V2EX】2020-06-27-无线充电器求推荐](https://www.v2ex.com/t/685070) 
 - [【V2EX】2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068) 
 - [【V2EX】2020-06-27-有时候觉得-Outlook-比-Gmail-好用](https://www.v2ex.com/t/685067) 

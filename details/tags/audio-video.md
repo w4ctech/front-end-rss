@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 19:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -32,6 +32,7 @@
 - [2020-06-03-自制一个音乐播放器的圆形进度条](https://juejin.im/post/5ed762b1f265da76ed4859b7) 
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
 - [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) 
+- [2020-06-27-Windows-Sandbox-的图像似乎是压缩过的](https://www.v2ex.com/t/685080) 
 - [2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068) 
 - [2020-06-26-发现大多数平台美颜直播的码率都很低](https://www.v2ex.com/t/684929) 
 - [2020-06-26-Big-Sur-里面，-Photos-可以像-iOS-一样直接把-Memories-导出成视频了吗？](https://www.v2ex.com/t/684822) 

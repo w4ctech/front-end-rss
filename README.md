@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 18:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 19:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-世卫组织：全球新冠肺炎确诊病例超过959万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1)  
+- [2020-06-27-世卫组织：全球新冠肺炎确诊病例超过959万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1)  
 - [2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1)  
 - [2020-06-27-韩国新冠肺炎确诊病例累计达12653例-首都圈疫情频发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1)  
 - [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1)  
@@ -1050,26 +1050,26 @@
 </summary>
 
 
+- [2020-06-27-Youtube-Premium-港区自用车，寻-1-位长期车友](https://www.v2ex.com/t/685087) ![](assets/new.png)  
+- [2020-06-27-有没有智能音箱支持播放自己本地或者上传的歌曲](https://www.v2ex.com/t/685086) ![](assets/new.png)  
+- [2020-06-27-看图软件可以影响图片画质吗](https://www.v2ex.com/t/685085) ![](assets/new.png)  
+- [2020-06-27-翻译了-Chrome-扩展-插件-开发官方文档](https://www.v2ex.com/t/685084) ![](assets/new.png)  
+- [2020-06-27-有什么好的-ITX-或者超小的-MATX-机箱推荐么？](https://www.v2ex.com/t/685083) ![](assets/new.png)  
+- [2020-06-27-看电子书、PDF、技术文档，-iPad-、Surface、安卓平板、Kindle、180-度笔记本，哪个更适合？](https://www.v2ex.com/t/685082) ![](assets/new.png)  
+- [2020-06-27-iPhone-11pro-的长焦-到底有用没有？](https://www.v2ex.com/t/685081) ![](assets/new.png)  
+- [2020-06-27-Windows-Sandbox-的图像似乎是压缩过的](https://www.v2ex.com/t/685080) ![](assets/new.png)  
+- [2020-06-27-我做了一款既不支持-JS-也不支持-CSS-的浏览器](https://www.v2ex.com/t/685079) ![](assets/new.png)  
+- [2020-06-27-安卓平板上有什么好用的看小说软件吗？](https://www.v2ex.com/t/685078) ![](assets/new.png)  
+- [2020-06-27-Dell-这么大的厂商就不会出一个-Mac-端的控制软件？](https://www.v2ex.com/t/685077) ![](assets/new.png)  
+- [2020-06-27-小公司，想注册个免费企业邮箱，哪家好？](https://www.v2ex.com/t/685076) ![](assets/new.png)  
+- [2020-06-27-关于-macOS-10.15.5-推出电池健康管理功能，有些疑问](https://www.v2ex.com/t/685075) ![](assets/new.png)  
+- [2020-06-27-杭州--重庆-就想知道杭州哪里能吃到-正宗的重庆-老麻抄手](https://www.v2ex.com/t/685073) ![](assets/new.png)  
 - [2020-06-27-无线充电器求推荐](https://www.v2ex.com/t/685070)  
 - [2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068)  
 - [2020-06-27-有时候觉得-Outlook-比-Gmail-好用](https://www.v2ex.com/t/685067)  
 - [2020-06-27-Mac-finder-通过-smb-协议读速度慢，写却正常](https://www.v2ex.com/t/685066)  
 - [2020-06-27-有没有改变-api-返回的-json-的线上服务](https://www.v2ex.com/t/685064)  
 - [2020-06-27-在-vue-里面到底哪种写法比较规范？](https://www.v2ex.com/t/685063)  
-- [2020-06-27-在-UBUNTU-中装完-PIPENV-不能用？](https://www.v2ex.com/t/685062)  
-- [2020-06-27-在上海的你们，都是买的什么价位的房子？](https://www.v2ex.com/t/685061)  
-- [2020-06-27-感觉自己抑郁了，每天很害怕上班，对任何事都提不起兴趣了](https://www.v2ex.com/t/685060)  
-- [2020-06-27-想问一下忽略主题这个功能的作用](https://www.v2ex.com/t/685059)  
-- [2020-06-27-鲁迅笔下的阿-Q-就是指当代的网络喷子呀](https://www.v2ex.com/t/685058)  
-- [2020-06-27-iPad-Pro-保护壳选择](https://www.v2ex.com/t/685057)  
-- [2020-06-27-迫于老婆银行任务，推广一下信用卡，送话费](https://www.v2ex.com/t/685055)  
-- [2020-06-27-自己开发了一个论坛-app](https://www.v2ex.com/t/685054)  
-- [2020-06-27-“中文代码快速补全”-VS-Code-插件-1.1.0-发布~](https://www.v2ex.com/t/685051)  
-- [2020-06-27-独立开发者开发的这几个月](https://www.v2ex.com/t/685050)  
-- [2020-06-27-有前端的简历参考一下的吗](https://www.v2ex.com/t/685049)  
-- [2020-06-27-都说-ssh-对一些目录，文件，有权限要求，可是？](https://www.v2ex.com/t/685047)  
-- [2020-06-27-Python-Pandas-有没有办法只识别大写字符串“NULL”为空值，而不包括小写字符串“null”](https://www.v2ex.com/t/685046)  
-- [2020-06-27-头条的岗位有兴趣的老哥，可以看一下](https://www.v2ex.com/t/685045)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

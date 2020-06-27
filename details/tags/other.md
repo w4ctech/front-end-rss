@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -5349,6 +5349,13 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7) 
+- [2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1) 
+- [2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw) 
+- [2020-06-27-ethtool-原理介绍和解决网卡丢包排查思路](https://toutiao.io/k/u12qw5r) 
+- [2020-06-27-项目经理的如来十掌](https://toutiao.io/k/31yama1) 
+- [2020-06-27-Java-并发编程（五）：悲观锁和乐观锁机制](https://toutiao.io/k/3x3n9er) 
+- [2020-06-27-Java-基础：注解机制详解](https://toutiao.io/k/aivz4eb) 
 - [2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp) 
 - [2020-06-26-7-天用-Go-从零实现-ORM-框架-GeeORM](https://toutiao.io/k/fflw01n) 
 - [2020-06-26-Python-为什么不支持-i++-自增语法，不提供-++-操作符？](https://toutiao.io/k/oc2gui7) 

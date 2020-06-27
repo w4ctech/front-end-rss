@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 09:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 10:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
+- [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -41,11 +41,11 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,9 +94,9 @@
 </summary>
 
 
-- [2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html) ![](assets/new.png)  
-- [2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1) ![](assets/new.png)  
-- [2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html)  
+- [2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1)  
+- [2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1)  
 - [2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1)  
 - [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1)  
 - [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1)  
@@ -146,8 +146,8 @@
 </summary>
 
 
-- [2020-06-26-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/feedd39baf3351f2732dc24d2f3e3dc5) ![](assets/new.png)  
-- [2020-06-26-我把你的口头禅整理了一下](https://www.ershicimi.com/p/9ef581afba76b5136bc75dcd6f8b9ac4) ![](assets/new.png)  
+- [2020-06-26-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/feedd39baf3351f2732dc24d2f3e3dc5)  
+- [2020-06-26-我把你的口头禅整理了一下](https://www.ershicimi.com/p/9ef581afba76b5136bc75dcd6f8b9ac4)  
 - [2020-06-25-刀哥拍了拍你，并扔给你一个粽子](https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a)  
 - [2020-06-24-解锁前端面试体系核心攻略.pdf](https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73)  
 - [2020-06-24-从应用场景再谈防抖和节流](https://www.ershicimi.com/p/90386e29e4afd210f86749ff2086f189)  
@@ -780,10 +780,10 @@
 </summary>
 
 
-- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) ![](assets/new.png)  
-- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) ![](assets/new.png)  
-- [2020-06-22-前端真的有资深工程师吗？](https://www.ershicimi.com/p/f4af0fa1f56cc187e12aefbbafa1a985) ![](assets/new.png)  
-- [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) ![](assets/new.png)  
+- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290)  
+- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af)  
+- [2020-06-22-前端真的有资深工程师吗？](https://www.ershicimi.com/p/f4af0fa1f56cc187e12aefbbafa1a985)  
+- [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3)  
 - [2020-06-17-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64)  
 - [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740)  
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6)  
@@ -894,16 +894,16 @@
 </summary>
 
 
-- [2020-06-25-理解-WebView](https://www.ershicimi.com/p/7ff5db6281a9a7da2891cd3a2dfd25b2) ![](assets/new.png)  
-- [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/e2119e9c551463a2d5e14769cb9b754e) ![](assets/new.png)  
-- [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/9b82a4d7a098ff122354ffb43707145c) ![](assets/new.png)  
-- [2020-06-23-“前端智造，内容新生”，腾讯-2020-TLC-大会来袭，早鸟预售火热进行中](https://www.ershicimi.com/p/b614d4361e5dfdfd5a8374daf04f397e) ![](assets/new.png)  
-- [2020-06-22-听说只要标题写vue3，你们就会点进来看](https://www.ershicimi.com/p/e2068467789de381211073907a9b509c) ![](assets/new.png)  
-- [2020-06-21-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/1e6fe58e4edde0d1d0cfe1e02d53e1d2) ![](assets/new.png)  
-- [2020-06-20-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/5bfc68a5e6ae101044ee70127293ce38) ![](assets/new.png)  
-- [2020-06-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/448a370e9a90a4a8695332055e3202e1) ![](assets/new.png)  
-- [2020-06-18-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/d8470df3d5616f655f016fa2835c435f) ![](assets/new.png)  
-- [2020-06-17-前端人过-6·18-的正确姿势是什么？](https://www.ershicimi.com/p/3d60fd305d51d6028058f295c46e11d5) ![](assets/new.png)  
+- [2020-06-25-理解-WebView](https://www.ershicimi.com/p/7ff5db6281a9a7da2891cd3a2dfd25b2)  
+- [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/e2119e9c551463a2d5e14769cb9b754e)  
+- [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/9b82a4d7a098ff122354ffb43707145c)  
+- [2020-06-23-“前端智造，内容新生”，腾讯-2020-TLC-大会来袭，早鸟预售火热进行中](https://www.ershicimi.com/p/b614d4361e5dfdfd5a8374daf04f397e)  
+- [2020-06-22-听说只要标题写vue3，你们就会点进来看](https://www.ershicimi.com/p/e2068467789de381211073907a9b509c)  
+- [2020-06-21-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/1e6fe58e4edde0d1d0cfe1e02d53e1d2)  
+- [2020-06-20-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/5bfc68a5e6ae101044ee70127293ce38)  
+- [2020-06-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/448a370e9a90a4a8695332055e3202e1)  
+- [2020-06-18-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/d8470df3d5616f655f016fa2835c435f)  
+- [2020-06-17-前端人过-6·18-的正确姿势是什么？](https://www.ershicimi.com/p/3d60fd305d51d6028058f295c46e11d5)  
 - [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/aa25011b297b55b4e1cd372413d2380d)  
 - [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727)  
 - [2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c)  
@@ -1112,6 +1112,15 @@
 </summary>
 
 
+- [2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7) ![](assets/new.png)  
+- [2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1) ![](assets/new.png)  
+- [2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw) ![](assets/new.png)  
+- [2020-06-27-替代-webpack？带你了解-snowpack-原理，你还学得动么](https://toutiao.io/k/q1jsa7p) ![](assets/new.png)  
+- [2020-06-27-ethtool-原理介绍和解决网卡丢包排查思路](https://toutiao.io/k/u12qw5r) ![](assets/new.png)  
+- [2020-06-27-Serverless-的初心、现状和未来](https://toutiao.io/k/fy7aw60) ![](assets/new.png)  
+- [2020-06-27-项目经理的如来十掌](https://toutiao.io/k/31yama1) ![](assets/new.png)  
+- [2020-06-27-Java-并发编程（五）：悲观锁和乐观锁机制](https://toutiao.io/k/3x3n9er) ![](assets/new.png)  
+- [2020-06-27-Java-基础：注解机制详解](https://toutiao.io/k/aivz4eb) ![](assets/new.png)  
 - [2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp)  
 - [2020-06-26-7-天用-Go-从零实现-ORM-框架-GeeORM](https://toutiao.io/k/fflw01n)  
 - [2020-06-26-Vue3-的-Proxy-能做到哪些精确的拦截操作？原理揭秘](https://toutiao.io/k/tesg7o3)  
@@ -1123,15 +1132,6 @@
 - [2020-06-26-自定义-Go-包的-import-path-的命令行应用](https://toutiao.io/k/x8tvbzi)  
 - [2020-06-25-一文助你搞懂-AST](https://toutiao.io/k/s9zqtl6)  
 - [2020-06-25-Regression-Tree-回归树](https://toutiao.io/k/qnnjdl9)  
-- [2020-06-25-Android-上的-WebRTC：多设备如何启用硬件编码？（二）](https://toutiao.io/k/mvlgniq)  
-- [2020-06-25-高并发口罩抢购项目架构演进记录-&-优化经验分享](https://toutiao.io/k/6mwgw9b)  
-- [2020-06-25-程序员如何升职加薪？|-码农周刊第-310-期](https://toutiao.io/k/n70fndb)  
-- [2020-06-25-美信拓扑创始人一乐：如何登山不是最重要的问题，山峰才是](https://toutiao.io/k/vb4eifw)  
-- [2020-06-25-Go-泛型是怎么实现的？](https://toutiao.io/k/o07xtru)  
-- [2020-06-25-Vue-微前端-&-微服务解决方案，Genesis-对远程组件进一步的设计和思考](https://toutiao.io/k/mnxzihb)  
-- [2020-06-25-你的-docker-stop，它优雅吗？](https://toutiao.io/k/xfyregg)  
-- [2020-06-25-ACK-简史（一）：开篇之-Kafka](https://toutiao.io/k/2l7pbjq)  
-- [2020-06-24-快应用-IDE-定制-Devtools-元素面板（一）：背景需求及方案分析](https://toutiao.io/k/tp3l9ti)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

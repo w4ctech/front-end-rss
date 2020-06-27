@@ -37750,6 +37750,51 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "小米 Redis 的 K8s 容器化部署实践",
+        "link": "https://toutiao.io/k/mx506f7",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "基于 BDD 理念的 UI 自动化测试在携程度假的应用",
+        "link": "https://toutiao.io/k/3cpcaj1",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "Golang 熔断器",
+        "link": "https://toutiao.io/k/6hx8dcw",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "替代 webpack？带你了解 snowpack 原理，你还学得动么",
+        "link": "https://toutiao.io/k/q1jsa7p",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "ethtool 原理介绍和解决网卡丢包排查思路",
+        "link": "https://toutiao.io/k/u12qw5r",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "Serverless 的初心、现状和未来",
+        "link": "https://toutiao.io/k/fy7aw60",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "项目经理的如来十掌",
+        "link": "https://toutiao.io/k/31yama1",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "Java 并发编程（五）：悲观锁和乐观锁机制",
+        "link": "https://toutiao.io/k/3x3n9er",
+        "date": "2020-06-27"
+      },
+      {
+        "title": "Java 基础：注解机制详解",
+        "link": "https://toutiao.io/k/aivz4eb",
+        "date": "2020-06-27"
+      },
+      {
         "title": "[译] 微服务架构下 Go 包的代码组织实践",
         "link": "https://toutiao.io/k/pwlylmp",
         "date": "2020-06-26"

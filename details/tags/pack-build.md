@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -42,6 +42,7 @@
 - [2020-06-23-npm-下载依赖的时候用到-github-的资源下载不了怎么办？](https://www.v2ex.com/t/684285) 
 - [2020-06-15-Dcat-Admin-v1.5.0-发布，高颜值后台系统构建工具，新增全新暗黑模式主题](https://www.v2ex.com/t/681578) 
 - [2020-05-30-前端关于-vscode-的自动保存搭配-eslint-的-autoFix-格式化时有概率把代码搞乱的问题](https://www.v2ex.com/t/677029) 
+- [2020-06-27-替代-webpack？带你了解-snowpack-原理，你还学得动么](https://toutiao.io/k/q1jsa7p) 
 - [2020-06-24-分分钟教会你搭建企业级的-npm-私有仓库](https://toutiao.io/k/kcb546w) 
 - [2020-06-22-Webpack-学习教程（三）：-资源处理-&-devtool](https://toutiao.io/k/qw5ts1e) 
 - [2020-06-19-Spring-Boot-构建-Docker-镜像的-3-种方式](https://toutiao.io/k/56fittd) 

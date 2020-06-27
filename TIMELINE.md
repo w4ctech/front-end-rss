@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -5258,6 +5258,15 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7) 
+- [【开发者头条】2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1) 
+- [【开发者头条】2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw) 
+- [【开发者头条】2020-06-27-替代-webpack？带你了解-snowpack-原理，你还学得动么](https://toutiao.io/k/q1jsa7p) 
+- [【开发者头条】2020-06-27-ethtool-原理介绍和解决网卡丢包排查思路](https://toutiao.io/k/u12qw5r) 
+- [【开发者头条】2020-06-27-Serverless-的初心、现状和未来](https://toutiao.io/k/fy7aw60) 
+- [【开发者头条】2020-06-27-项目经理的如来十掌](https://toutiao.io/k/31yama1) 
+- [【开发者头条】2020-06-27-Java-并发编程（五）：悲观锁和乐观锁机制](https://toutiao.io/k/3x3n9er) 
+- [【开发者头条】2020-06-27-Java-基础：注解机制详解](https://toutiao.io/k/aivz4eb) 
 - [【开发者头条】2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp) 
 - [【开发者头条】2020-06-26-7-天用-Go-从零实现-ORM-框架-GeeORM](https://toutiao.io/k/fflw01n) 
 - [【开发者头条】2020-06-26-Vue3-的-Proxy-能做到哪些精确的拦截操作？原理揭秘](https://toutiao.io/k/tesg7o3) 

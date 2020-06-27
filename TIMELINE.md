@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 11:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-27 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-世卫组织计划2021年底前提供20亿剂新冠疫苗](https://m.weibo.cn/3057540037/4520373138512318) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-国际货币基金组织：受疫情影响-2020年拉美地区将出现有统计以来最严重经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix5rR8TmDNKn8Ww1KpKRX200627&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-厄瓜多尔使用计算机技术辅助防疫-拟扩大复工规模](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOmc3kLS8A3X6eGCrVtn200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1) 

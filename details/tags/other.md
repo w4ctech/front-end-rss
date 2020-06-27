@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,10 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1) 
+- [2020-06-27-世卫组织计划2021年底前提供20亿剂新冠疫苗](https://m.weibo.cn/3057540037/4520373138512318) 
+- [2020-06-27-国际货币基金组织：受疫情影响-2020年拉美地区将出现有统计以来最严重经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix5rR8TmDNKn8Ww1KpKRX200627&isfromapp=1) 
+- [2020-06-27-厄瓜多尔使用计算机技术辅助防疫-拟扩大复工规模](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOmc3kLS8A3X6eGCrVtn200627&isfromapp=1) 
 - [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1) 
 - [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1) 
 - [2020-06-27-世卫组织：中国积极研发新冠疫苗-将进一步合作并提供支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1) 

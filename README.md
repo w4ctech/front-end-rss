@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 11:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 11:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-世卫组织计划2021年底前提供20亿剂新冠疫苗](https://m.weibo.cn/3057540037/4520373138512318) ![](assets/new.png)  
+- [2020-06-27-国际货币基金组织：受疫情影响-2020年拉美地区将出现有统计以来最严重经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix5rR8TmDNKn8Ww1KpKRX200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-厄瓜多尔使用计算机技术辅助防疫-拟扩大复工规模](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOmc3kLS8A3X6eGCrVtn200627&isfromapp=1) ![](assets/new.png)  
 - [2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html)  
 - [2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1)  
 - [2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1)  
 - [2020-06-26-世卫组织：全球新冠肺炎确诊病例超过941万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1)  
 - [2020-06-26-北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1)  
-- [2020-06-26-北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1)  
-- [2020-06-26-6月26日6时至10时-天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html)  
-- [2020-06-26-又有30例新增！澳大利亚维州疫情持续恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1)  
-- [2020-06-26-北京市属医院7万余人核酸检测全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qHA6Ts9QrSSzqWcWXH4200626&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -437,7 +437,7 @@
 </summary>
 
 
-- [2020-06-26-前端性能优化总结](https://www.ershicimi.com/p/2c1284e5ba7b1ca4b28fb387ca03d5d2) ![](assets/new.png)  
+- [2020-06-26-前端性能优化总结](https://www.ershicimi.com/p/2c1284e5ba7b1ca4b28fb387ca03d5d2)  
 - [2020-06-25-学习前端算法前你需要了解的‘大O表示法’](https://www.ershicimi.com/p/f04071f414e5cf1bc02b55c23a47f655)  
 - [2020-06-24-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/0d9e1fc9fad10a95281ec39130bba44a)  
 - [2020-06-23-webpack4主流程源码阅读，以及动手实现一个简单的webpack](https://www.ershicimi.com/p/986e39aa3d626ed0281118fa0431d6c7)  

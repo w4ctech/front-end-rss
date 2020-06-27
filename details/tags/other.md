@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1) 
 - [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1) 
 - [2020-06-27-世卫组织计划2021年底前提供20亿剂新冠疫苗](https://m.weibo.cn/3057540037/4520373138512318) 
 - [2020-06-27-国际货币基金组织：受疫情影响-2020年拉美地区将出现有统计以来最严重经济衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix5rR8TmDNKn8Ww1KpKRX200627&isfromapp=1) 

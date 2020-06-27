@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 17:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 18:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-世卫组织：全球新冠肺炎确诊病例超过959万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1) ![](assets/new.png)  
 - [2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1)  
 - [2020-06-27-韩国新冠肺炎确诊病例累计达12653例-首都圈疫情频发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1)  
 - [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-27-福奇：部分美国地区新冠肺炎疫情“问题严重”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1)  
 - [2020-06-27-世卫组织：中国积极研发新冠疫苗-将进一步合作并提供支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1)  
 - [2020-06-26-疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1)  
-- [2020-06-26-新发地市场牛羊肉综合交易大楼常务副经理被免职](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1)  
-- [2020-06-26-日本新增103例新冠肺炎确诊病例-累计18315例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,10 +1050,10 @@
 </summary>
 
 
-- [2020-06-27-无线充电器求推荐](https://www.v2ex.com/t/685070) ![](assets/new.png)  
-- [2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068) ![](assets/new.png)  
-- [2020-06-27-有时候觉得-Outlook-比-Gmail-好用](https://www.v2ex.com/t/685067) ![](assets/new.png)  
-- [2020-06-27-Mac-finder-通过-smb-协议读速度慢，写却正常](https://www.v2ex.com/t/685066) ![](assets/new.png)  
+- [2020-06-27-无线充电器求推荐](https://www.v2ex.com/t/685070)  
+- [2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068)  
+- [2020-06-27-有时候觉得-Outlook-比-Gmail-好用](https://www.v2ex.com/t/685067)  
+- [2020-06-27-Mac-finder-通过-smb-协议读速度慢，写却正常](https://www.v2ex.com/t/685066)  
 - [2020-06-27-有没有改变-api-返回的-json-的线上服务](https://www.v2ex.com/t/685064)  
 - [2020-06-27-在-vue-里面到底哪种写法比较规范？](https://www.v2ex.com/t/685063)  
 - [2020-06-27-在-UBUNTU-中装完-PIPENV-不能用？](https://www.v2ex.com/t/685062)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1355,6 +1355,7 @@
 - [2020-05-29-世贸组织取消2020年公共论坛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1) 
 - [2020-02-04-分享几个前端大佬的公众号](https://www.ershicimi.com/p/ebdce177e80778c8ba016f488bf2d7e1) 
 - [2020-01-19-手把手教你编写一个axios这样的库](https://www.ershicimi.com/p/627a241dc7ea678e5f07c739b10d88a8) 
+- [2020-06-26-我把你的口头禅整理了一下](https://www.ershicimi.com/p/9ef581afba76b5136bc75dcd6f8b9ac4) 
 - [2020-06-25-刀哥拍了拍你，并扔给你一个粽子](https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a) 
 - [2020-06-22-前端骨架屏都是如何生成的](https://www.ershicimi.com/p/4bc26e09a1de18fb3ffbcdc207f94642) 
 - [2020-06-21-前端工程师的进阶之路](https://www.ershicimi.com/p/74be807330214d708d9829adefa7a3d8) 
@@ -1709,6 +1710,7 @@
 - [2020-05-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1e4a11fb256f834fc2bd9343d9aab7ee) 
 - [2020-05-19-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/e6f3c2f1859ff7ca3f5340ff471f4183) 
 - [2020-05-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cc9955c8acdc65693bc58f0056f239ec) 
+- [2020-06-22-前端真的有资深工程师吗？](https://www.ershicimi.com/p/f4af0fa1f56cc187e12aefbbafa1a985) 
 - [2020-06-17-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64) 
 - [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740) 
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6) 
@@ -1884,6 +1886,10 @@
 - [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) 
 - [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) 
 - [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
+- [2020-06-23-“前端智造，内容新生”，腾讯-2020-TLC-大会来袭，早鸟预售火热进行中](https://www.ershicimi.com/p/b614d4361e5dfdfd5a8374daf04f397e) 
+- [2020-06-20-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/5bfc68a5e6ae101044ee70127293ce38) 
+- [2020-06-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/448a370e9a90a4a8695332055e3202e1) 
+- [2020-06-17-前端人过-6·18-的正确姿势是什么？](https://www.ershicimi.com/p/3d60fd305d51d6028058f295c46e11d5) 
 - [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/aa25011b297b55b4e1cd372413d2380d) 
 - [2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c) 
 - [2020-06-08-前端越来越后端化，工程化？2020年你到底需要注意些什么？](https://www.ershicimi.com/p/892ac7ef7f29e05c7303b5302610bb90) 

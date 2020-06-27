@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 08:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 09:30:20，:rocket: 更新条数: +19， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
-- [Vue中文社区](#vue中文社区)  
+- [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
@@ -26,7 +26,7 @@
 - [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
-- [前端大学](#前端大学)![](assets/dot.png)   
+- [前端大学](#前端大学)  
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
@@ -41,11 +41,11 @@
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html) ![](assets/new.png)  
+- [2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1) ![](assets/new.png)  
+- [2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1) ![](assets/new.png)  
 - [2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1)  
 - [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1)  
 - [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-26-6月26日6时至10时-天津新增2例境外输入无症状感染者](http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html)  
 - [2020-06-26-又有30例新增！澳大利亚维州疫情持续恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQwKj4vKdGWEr0PSXCAio200626&isfromapp=1)  
 - [2020-06-26-北京市属医院7万余人核酸检测全部阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qHA6Ts9QrSSzqWcWXH4200626&isfromapp=1)  
-- [2020-06-26-时隔78天-澳门26日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLGwTiWTdY6Z78WaEozMN200626&isfromapp=1)  
-- [2020-06-26-疫情导致经济放缓-美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1)  
-- [2020-06-26-德法两国向世卫组织追加资金支持-美专家预测美国真实感染人数或超2300万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -146,6 +146,8 @@
 </summary>
 
 
+- [2020-06-26-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/feedd39baf3351f2732dc24d2f3e3dc5) ![](assets/new.png)  
+- [2020-06-26-我把你的口头禅整理了一下](https://www.ershicimi.com/p/9ef581afba76b5136bc75dcd6f8b9ac4) ![](assets/new.png)  
 - [2020-06-25-刀哥拍了拍你，并扔给你一个粽子](https://www.ershicimi.com/p/c3d8a12747fc4763ff4f9c70c95acf4a)  
 - [2020-06-24-解锁前端面试体系核心攻略.pdf](https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73)  
 - [2020-06-24-从应用场景再谈防抖和节流](https://www.ershicimi.com/p/90386e29e4afd210f86749ff2086f189)  
@@ -164,8 +166,6 @@
 - [2020-06-16-Vue这些底层原理，你都了解么？](https://www.ershicimi.com/p/19b8512a239ce82470cf47a16f5a8596)  
 - [2020-06-16-Javascript开发人员偏爱Deno而不是Node的5大原因](https://www.ershicimi.com/p/982a6c58c70ca4fa748ff23d05ecdd3e)  
 - [2020-06-15-前端常用的15个linux命令](https://www.ershicimi.com/p/7109fefc292445314f68aa69e7735fbe)  
-- [2020-06-15-一些恶心的代码片段](https://www.ershicimi.com/p/9741c48f401758621cb6e2191429020a)  
-- [2020-06-14-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/1ad1ba09af8d0ae1f2d7b59029614184)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -354,8 +354,8 @@
 </summary>
 
 
-- [2020-06-26-2020年6月程序员工资统计，平均14404元，又跌了，扎心了！你的呢？](https://www.ershicimi.com/p/be83e2544f639333a282f7a0d87a17e8) ![](assets/new.png)  
-- [2020-06-26-webpack与rollup背后的acorn](https://www.ershicimi.com/p/2585acdc41670f8c88c5614c47616405) ![](assets/new.png)  
+- [2020-06-26-2020年6月程序员工资统计，平均14404元，又跌了，扎心了！你的呢？](https://www.ershicimi.com/p/be83e2544f639333a282f7a0d87a17e8)  
+- [2020-06-26-webpack与rollup背后的acorn](https://www.ershicimi.com/p/2585acdc41670f8c88c5614c47616405)  
 - [2020-06-25-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/18763a9b4ea0cbe48fb34c33003cb766)  
 - [2020-06-25-Deno-继颠覆-Node-之后，又“内部”拒绝了-TypeScript](https://www.ershicimi.com/p/52b5c9fd721b1428f466f09a54bd53a5)  
 - [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/994a854d1a58576e886f0392b53f3166)  
@@ -780,6 +780,10 @@
 </summary>
 
 
+- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) ![](assets/new.png)  
+- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) ![](assets/new.png)  
+- [2020-06-22-前端真的有资深工程师吗？](https://www.ershicimi.com/p/f4af0fa1f56cc187e12aefbbafa1a985) ![](assets/new.png)  
+- [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) ![](assets/new.png)  
 - [2020-06-17-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64)  
 - [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740)  
 - [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6)  
@@ -796,10 +800,6 @@
 - [2020-05-21-趣图：揭秘-Chrome-怪兽吃内存的样子](https://www.ershicimi.com/p/e9464f8455a5275beb27343c0cfa45f0)  
 - [2020-05-16-程序员一大误区：盲目求追新技术，说的是你吗](https://www.ershicimi.com/p/0329bb46458b6da90418beacc7814c29)  
 - [2020-05-15-Node使用火焰图优化CPU爆涨](https://www.ershicimi.com/p/b7f57bce9d551db2baf401f44e988281)  
-- [2020-05-14-Vue-SSR-即时编译技术](https://www.ershicimi.com/p/3034876f84401492de5fdb5aea212e6a)  
-- [2020-05-13-2年进阿里，3年到P6，在北京，他说觉得自己挺牛的](https://www.ershicimi.com/p/79969d1c7691f9515c239f342c643c4c)  
-- [2020-05-12-前端人只有青铜和王者，你是哪一种？](https://www.ershicimi.com/p/ffd565d58cae806df4dca9e55646c2cc)  
-- [2020-05-11-Web上的图片技巧](https://www.ershicimi.com/p/442e151acc78a27d7e2926588a6ff327)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -894,6 +894,16 @@
 </summary>
 
 
+- [2020-06-25-理解-WebView](https://www.ershicimi.com/p/7ff5db6281a9a7da2891cd3a2dfd25b2) ![](assets/new.png)  
+- [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/e2119e9c551463a2d5e14769cb9b754e) ![](assets/new.png)  
+- [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/9b82a4d7a098ff122354ffb43707145c) ![](assets/new.png)  
+- [2020-06-23-“前端智造，内容新生”，腾讯-2020-TLC-大会来袭，早鸟预售火热进行中](https://www.ershicimi.com/p/b614d4361e5dfdfd5a8374daf04f397e) ![](assets/new.png)  
+- [2020-06-22-听说只要标题写vue3，你们就会点进来看](https://www.ershicimi.com/p/e2068467789de381211073907a9b509c) ![](assets/new.png)  
+- [2020-06-21-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/1e6fe58e4edde0d1d0cfe1e02d53e1d2) ![](assets/new.png)  
+- [2020-06-20-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/5bfc68a5e6ae101044ee70127293ce38) ![](assets/new.png)  
+- [2020-06-19-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/448a370e9a90a4a8695332055e3202e1) ![](assets/new.png)  
+- [2020-06-18-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/d8470df3d5616f655f016fa2835c435f) ![](assets/new.png)  
+- [2020-06-17-前端人过-6·18-的正确姿势是什么？](https://www.ershicimi.com/p/3d60fd305d51d6028058f295c46e11d5) ![](assets/new.png)  
 - [2020-06-15-2年前端，不懂源码...](https://www.ershicimi.com/p/aa25011b297b55b4e1cd372413d2380d)  
 - [2020-06-12-别再摆摊了！Vue3.0尝鲜——实现商城实战项目](https://www.ershicimi.com/p/36c9afd2aab1888134ba4886fa641727)  
 - [2020-06-11-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68435bcbfde90d2ac9fc5f6ce7a1cb9c)  
@@ -904,16 +914,6 @@
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c)  
 - [2020-06-01-公司用-React-，我要不要也学学-Vue-？](https://www.ershicimi.com/p/d606e31f34e5e50adf0189974a66034e)  
 - [2020-05-31-一文让你彻底搞懂-WebSocket-的原理](https://www.ershicimi.com/p/5d970232d91b0533d2d0e23d13067cb7)  
-- [2020-05-30-前端常用60余种工具方法](https://www.ershicimi.com/p/d2ddc63cc8d1cd8a92453143c976740f)  
-- [2020-05-28-你今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/3701f25db5260d20c741c53dc40a17ec)  
-- [2020-05-27-面试前端岗，你被要求手写源码了吗？](https://www.ershicimi.com/p/8218ef33d0aff41febc8d047078cc68e)  
-- [2020-05-26-前端面试之vue向技巧总结](https://www.ershicimi.com/p/afebc4845c32a1d0a67b72f85aa0fcb5)  
-- [2020-05-25-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/395072c64abfc35035cb4a3f9150e231)  
-- [2020-05-22-天啊！Node.js-v14.3.0-发布！](https://www.ershicimi.com/p/f5d275f15722d800db4ba4b267c94774)  
-- [2020-05-21-前端高频面试题整理-前端两年-月入30K](https://www.ershicimi.com/p/fba1fa2193f2e4b85619493e01b0c5c4)  
-- [2020-05-20-2-分钟上手-deno！node.js-已死？](https://www.ershicimi.com/p/3ffe5ea768d19808f49f3017f2dec2b9)  
-- [2020-05-19-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/a67a91a194ef2e5fb92f097f03ed7653)  
-- [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

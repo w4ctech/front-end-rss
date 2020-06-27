@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-27 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-27 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -51,6 +51,7 @@
 - [2020-06-16-为了进大厂，不得不疯狂刷算法题，可真是太难了-|-极客时间](https://www.ershicimi.com/p/e6352abc377fc2074fdf1a8d26602ee9) 
 - [2020-06-13-GitHub将修改master分支命名；哈工大等国内高校被禁用MATLAB；阿里成立智能搜索业务部](https://www.ershicimi.com/p/b37e37684a00dbd98f740949bc750212) 
 - [2020-05-31-算法训练营有偿招募兼职助教-|-极客大学](https://www.ershicimi.com/p/5bfb72c3313b23f6bfabdd41d9eca18a) 
+- [2020-06-18-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/d8470df3d5616f655f016fa2835c435f) 
 - [2020-06-02-HTTP/3-来了-！未来可期](https://www.ershicimi.com/p/744fbad7e17c5f124db5d785eca6537c) 
 - [2020-05-18-这些前端必备算法与数据结构，你不得不会！](https://www.ershicimi.com/p/9b220533c9a05f2c887f6aa40ed89428) 
 - [2020-06-23-追随潮流：WebAssembly快速上手](https://juejin.im/post/5ef0d7106fb9a05857166a3f) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 02:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -198,6 +198,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-05-31-本周知乎热榜-|-广州女童被老师体罚致吐血事件反转，美国黑人被警察「打死」事件再升级](https://www.ershicimi.com/p/730f38b44841eee03d64ea7a08722d10) 
+- [2020-06-28-撸了一个-DTMF（电话拨号按键信号）解码、编码，纯-js-代码简单易于移植](https://www.v2ex.com/t/685157) 
 - [2020-06-27-搞了一个基于-Fetch-API-的网络库](https://www.v2ex.com/t/685128) 
 - [2020-06-27-我做了一款既不支持-JS-也不支持-CSS-的浏览器](https://www.v2ex.com/t/685079) 
 - [2020-06-27-有没有改变-api-返回的-json-的线上服务](https://www.v2ex.com/t/685064) 

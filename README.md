@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 06:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-28-北京20家医疗机构对首都高校开展核酸检测-筑牢校园防疫防火墙](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-秘鲁或将于近期恢复部分省际交通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-西班牙北部一建筑被隔离，共发现13例阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1) ![](assets/new.png)  
 - [2020-06-27-美国至少11个州暂停或推迟重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ogfs8QTIoHqoMpt9HAq200627&isfromapp=1)  
 - [2020-06-27-西班牙安达卢西亚大区疫情继续暴发-，5省确诊病例升至172例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipcU5tbyQ6ucmU94ELwky200627&isfromapp=1)  
 - [2020-06-27-香港27日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html)  
 - [2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1)  
 - [2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1)  
-- [2020-06-27-智利新增4296例新冠肺炎确诊病例-累计263360例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1)  
-- [2020-06-27-全球确诊病例超947万-世卫称全球正以前所未有的速度研发新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37v1gOiQ9WZPZddt1Hlw200627&isfromapp=1)  
-- [2020-06-27-端午假期前两日国内游客达3707.7万人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZprGkcq6pp9npjfnTPu200627&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,8 +1050,8 @@
 </summary>
 
 
-- [2020-06-28-现在买-Macbook-pro-划算吗？](https://www.v2ex.com/t/685158) ![](assets/new.png)  
-- [2020-06-28-撸了一个-DTMF（电话拨号按键信号）解码、编码，纯-js-代码简单易于移植](https://www.v2ex.com/t/685157) ![](assets/new.png)  
+- [2020-06-28-现在买-Macbook-pro-划算吗？](https://www.v2ex.com/t/685158)  
+- [2020-06-28-撸了一个-DTMF（电话拨号按键信号）解码、编码，纯-js-代码简单易于移植](https://www.v2ex.com/t/685157)  
 - [2020-06-28-电商中商品分类的设计问题](https://www.v2ex.com/t/685154)  
 - [2020-06-28-后场村大-3-室-1-厅-2-卫找合租室友](https://www.v2ex.com/t/685153)  
 - [2020-06-28-magic-mouse2-如何正确使用？](https://www.v2ex.com/t/685152)  

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-27 19:30:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-27 21:30:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-27-Youtube-Premium-港区自用车，寻-1-位长期车友](https://www.v2ex.com/t/685087) ![](assets/new.png)  
-- [2020-06-27-有没有智能音箱支持播放自己本地或者上传的歌曲](https://www.v2ex.com/t/685086) ![](assets/new.png)  
-- [2020-06-27-看图软件可以影响图片画质吗](https://www.v2ex.com/t/685085) ![](assets/new.png)  
-- [2020-06-27-翻译了-Chrome-扩展-插件-开发官方文档](https://www.v2ex.com/t/685084) ![](assets/new.png)  
-- [2020-06-27-有什么好的-ITX-或者超小的-MATX-机箱推荐么？](https://www.v2ex.com/t/685083) ![](assets/new.png)  
-- [2020-06-27-看电子书、PDF、技术文档，-iPad-、Surface、安卓平板、Kindle、180-度笔记本，哪个更适合？](https://www.v2ex.com/t/685082) ![](assets/new.png)  
-- [2020-06-27-iPhone-11pro-的长焦-到底有用没有？](https://www.v2ex.com/t/685081) ![](assets/new.png)  
-- [2020-06-27-Windows-Sandbox-的图像似乎是压缩过的](https://www.v2ex.com/t/685080) ![](assets/new.png)  
-- [2020-06-27-我做了一款既不支持-JS-也不支持-CSS-的浏览器](https://www.v2ex.com/t/685079) ![](assets/new.png)  
-- [2020-06-27-安卓平板上有什么好用的看小说软件吗？](https://www.v2ex.com/t/685078) ![](assets/new.png)  
-- [2020-06-27-Dell-这么大的厂商就不会出一个-Mac-端的控制软件？](https://www.v2ex.com/t/685077) ![](assets/new.png)  
-- [2020-06-27-小公司，想注册个免费企业邮箱，哪家好？](https://www.v2ex.com/t/685076) ![](assets/new.png)  
-- [2020-06-27-关于-macOS-10.15.5-推出电池健康管理功能，有些疑问](https://www.v2ex.com/t/685075) ![](assets/new.png)  
-- [2020-06-27-杭州--重庆-就想知道杭州哪里能吃到-正宗的重庆-老麻抄手](https://www.v2ex.com/t/685073) ![](assets/new.png)  
-- [2020-06-27-无线充电器求推荐](https://www.v2ex.com/t/685070)  
-- [2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068)  
-- [2020-06-27-有时候觉得-Outlook-比-Gmail-好用](https://www.v2ex.com/t/685067)  
-- [2020-06-27-Mac-finder-通过-smb-协议读速度慢，写却正常](https://www.v2ex.com/t/685066)  
-- [2020-06-27-有没有改变-api-返回的-json-的线上服务](https://www.v2ex.com/t/685064)  
-- [2020-06-27-在-vue-里面到底哪种写法比较规范？](https://www.v2ex.com/t/685063)  
+- [2020-06-27-我在人间凑数的日子之转行做美团专送后的一些总结。](https://www.v2ex.com/t/685109) ![](assets/new.png)  
+- [2020-06-27-随便吐槽一下现在的-IT-业现状](https://www.v2ex.com/t/685108) ![](assets/new.png)  
+- [2020-06-27-我发现现代社会有个-bug](https://www.v2ex.com/t/685107) ![](assets/new.png)  
+- [2020-06-27-Big-Sur-通过-VNC-Viewer-无法查看远端-Ubuntu-桌面](https://www.v2ex.com/t/685106) ![](assets/new.png)  
+- [2020-06-27-求指导华西医院挂号](https://www.v2ex.com/t/685105) ![](assets/new.png)  
+- [2020-06-27-如何看待类型提示？](https://www.v2ex.com/t/685104) ![](assets/new.png)  
+- [2020-06-27-火绒网络入侵拦截的策略是怎么样的?](https://www.v2ex.com/t/685103) ![](assets/new.png)  
+- [2020-06-27-ppt-打开显示需要修复，点击修复后显示-Sorry,-PowerPoint-can't-read-^0.-还有救吗？](https://www.v2ex.com/t/685102) ![](assets/new.png)  
+- [2020-06-27-手头-U-盘都用了几年了？](https://www.v2ex.com/t/685100) ![](assets/new.png)  
+- [2020-06-27-有没有大佬说下怎么写的-DTK-申请](https://www.v2ex.com/t/685099) ![](assets/new.png)  
+- [2020-06-27-字节跳动内推---安全与风控](https://www.v2ex.com/t/685098) ![](assets/new.png)  
+- [2020-06-27-CSSKatas---交互式-CSS-学习平台](https://www.v2ex.com/t/685097) ![](assets/new.png)  
+- [2020-06-27-阿里云账号注销相关](https://www.v2ex.com/t/685095) ![](assets/new.png)  
+- [2020-06-27-有没有渗透实习岗位](https://www.v2ex.com/t/685094) ![](assets/new.png)  
+- [2020-06-27-树莓派-4B-不能远程-Setup-吗？](https://www.v2ex.com/t/685093) ![](assets/new.png)  
+- [2020-06-27-有没有数据库和定时器结合的基础设施？](https://www.v2ex.com/t/685092) ![](assets/new.png)  
+- [2020-06-27-在深圳创新谷上班的大佬们，万科附近](https://www.v2ex.com/t/685091) ![](assets/new.png)  
+- [2020-06-27-做了一个的综合查询工具](https://www.v2ex.com/t/685090) ![](assets/new.png)  
+- [2020-06-27-说明一下这个活动的机器。金山的上行确实是-5M-没错的。](https://www.v2ex.com/t/685089) ![](assets/new.png)  
+- [2020-06-27-应届生2020前端求职简历，希望得到各位前辈的见解，谢谢](https://www.v2ex.com/t/685088) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 15:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 16:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-06-28-拟将新冠肺炎纳入妨害传染病防治罪调整范围](https://m.weibo.cn/2656274875/4520791020515509) ![](assets/new.png)  
-- [2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-印度新确诊-19906-例，系单日最大增幅](https://m.weibo.cn/3057540037/4520780823831858) ![](assets/new.png)  
-- [2020-06-28-东京解禁后疫情反弹严重：多数病例为年轻人，感染途径成谜](https://m.weibo.cn/3057540037/4520775790805161) ![](assets/new.png)  
+- [2020-06-28-北京通报-27-日新冠肺炎新增确诊病例详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihryZG6Iwcjtf2LPZBpA7200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-拟将新冠肺炎纳入妨害传染病防治罪调整范围](https://m.weibo.cn/2656274875/4520791020515509)  
+- [2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1)  
+- [2020-06-28-印度新确诊-19906-例，系单日最大增幅](https://m.weibo.cn/3057540037/4520780823831858)  
+- [2020-06-28-东京解禁后疫情反弹严重：多数病例为年轻人，感染途径成谜](https://m.weibo.cn/3057540037/4520775790805161)  
 - [2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1)  
 - [2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1)  
 - [2020-06-28-韩国单日新增62例新冠肺炎确诊病例，为一周以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-27-美国疾控中心：美国实际感染人数可能是目前的10倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TrE8kQrXNGPSmMbAf0y200627&isfromapp=1)  
 - [2020-06-27-土耳其高考期间实施全国“禁足令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2cyOGmi3kRc8mbh78h8W200627&isfromapp=1)  
 - [2020-06-27-​因疫情无法返校做实验，武大团队造600多个“家庭实验室”送到学生家中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBshZ1OqdP0qrmh2aBcL200627&isfromapp=1)  
-- [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

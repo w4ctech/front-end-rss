@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1) 
+- [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1) 
 - [2020-06-28-北京首个农贸市场核酸快检站](https://m.weibo.cn/2656274875/4520877028403355) 
 - [2020-06-28-日本一娱乐场所暴发集体感染，33-人确诊，1-人死亡](https://m.weibo.cn/3057540037/4520851292399949) 
 - [2020-06-28-北京：进京蔬菜累计调运-11910-吨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGwJB22273aaBmemAJaq200628&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -19,6 +19,7 @@
 - [2020-06-03-Flutter状态管理：Provider4-入门教程（一）](https://juejin.im/post/5ed3af0f6fb9a047f2298c71) 
 - [2020-06-02-使用-Flutter-绘制图表（一）柱状图📊](https://juejin.im/post/5ed6195151882542eb3ee75b) 
 - [2020-05-29-Flutter-Analysis-Options](https://juejin.im/post/5ecfd02af265da76b559a3f4) 
+- [2020-06-28-Android-和-Ios-原生开发都不会，建议学-Flutter-么](https://www.v2ex.com/t/685457) 
 - [2020-06-24-Flutter-Weekly-Issue-61](https://www.v2ex.com/t/684534) 
 - [2020-06-24-如何反编译用-Flutter-写的安卓应用？](https://www.v2ex.com/t/684424) 
 - [2020-06-23-flutter-的一个项目帮忙找帮手](https://www.v2ex.com/t/684155) 

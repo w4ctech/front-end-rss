@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -73,6 +73,7 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-06-28-用了很多年的“一键切换”Chrome-插件下架了，有没有替代品？](https://www.v2ex.com/t/685444) 
 - [2020-06-28-微博异常点赞的一些简单初步的分析，以及-chrome-内核怎样不让所有扩展访问某个域名的内容？](https://www.v2ex.com/t/685301) 
 - [2020-06-28-Firefox-浏览器搜索框疑问](https://www.v2ex.com/t/685218) 
 - [2020-06-28-chrome-是不是最近的版本才把关闭其他标签页的右键菜单给加回来了](https://www.v2ex.com/t/685167) 

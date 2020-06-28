@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -33,6 +33,7 @@
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
 - [2020-06-26-哪一瞬间让你开始想做视频了？丨视频训练营招募](https://www.ershicimi.com/p/fb7f96ae02e6d937d788680616b1dc25) 
 - [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) 
+- [2020-06-29-请问你们的-mbp-Chrome-浏览器在线播放油管的-4k-60fps-hdr-视频卡吗？](https://www.v2ex.com/t/685473) 
 - [2020-06-28-怎么把-iOS-设备的照片和视频备份到移动硬盘上面](https://www.v2ex.com/t/685274) 
 - [2020-06-27-Windows-Sandbox-的图像似乎是压缩过的](https://www.v2ex.com/t/685080) 
 - [2020-06-27-iPhone-有没有支持后退五秒的本地音频播放器推荐？](https://www.v2ex.com/t/685068) 

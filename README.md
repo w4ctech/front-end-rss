@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 11:00:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 11:30:21，:rocket: 更新条数: +27， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-28-部门要和人事部门团建，大家有好的点子么？](https://www.v2ex.com/t/685238) ![](assets/new.png)  
-- [2020-06-28-迫于上海工作，周末苏州度过，不想来回搬台式主机，最便宜配一台能玩玩儿-gta5-之类的电脑主机放苏州](https://www.v2ex.com/t/685236) ![](assets/new.png)  
-- [2020-06-28-啊大叔大叔大叔大大](https://www.v2ex.com/t/685234) ![](assets/new.png)  
-- [2020-06-28-印象笔记是要凉了？](https://www.v2ex.com/t/685233) ![](assets/new.png)  
-- [2020-06-28-共享个-Javascript-加密，-js-混淆加密，全年免费使用的！](https://www.v2ex.com/t/685232) ![](assets/new.png)  
-- [2020-06-28-有人用过-ReactNative-Windows-么？](https://www.v2ex.com/t/685231) ![](assets/new.png)  
-- [2020-06-28-谈完薪资，腾讯加面——总经理面](https://www.v2ex.com/t/685230) ![](assets/new.png)  
-- [2020-06-28-五和，坂田地铁站附近-了解一下两房一厅](https://www.v2ex.com/t/685229) ![](assets/new.png)  
-- [2020-06-28-有没有好一些存储岗位的坑~](https://www.v2ex.com/t/685228) ![](assets/new.png)  
-- [2020-06-28-如何看待国产软件逐渐放弃桌面端的现象？](https://www.v2ex.com/t/685227) ![](assets/new.png)  
-- [2020-06-28-如何查询-APP-活跃度？](https://www.v2ex.com/t/685226) ![](assets/new.png)  
-- [2020-06-28-深圳-1-号线或-9-号线上有推荐的-2K-内的房子吗？](https://www.v2ex.com/t/685225) ![](assets/new.png)  
-- [2020-06-28-关于“数据库系统概念---第-16-章-恢复系统---16.6-非易失性存储器数据丢失的故障”的疑问](https://www.v2ex.com/t/685224) ![](assets/new.png)  
-- [2020-06-28-给端午节出生的女儿求个名字，红包酬谢。谢谢大家。](https://www.v2ex.com/t/685222) ![](assets/new.png)  
-- [2020-06-28-杭州-内推&急招-蚂蚁科技旗下世界领先的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空间大大量-HC,-P6~P8](https://www.v2ex.com/t/685221) ![](assets/new.png)  
-- [2020-06-28-电脑进水后还能享受蝶式键盘的-4-年内维修更换嘛](https://www.v2ex.com/t/685219) ![](assets/new.png)  
-- [2020-06-28-Firefox-浏览器搜索框疑问](https://www.v2ex.com/t/685218) ![](assets/new.png)  
-- [2020-06-28-leetcode-国服挂啦](https://www.v2ex.com/t/685217) ![](assets/new.png)  
-- [2020-06-28-又要开始找工作了](https://www.v2ex.com/t/685216) ![](assets/new.png)  
-- [2020-06-28-自己买智能锁，自己改程序的可行性有多大？](https://www.v2ex.com/t/685215) ![](assets/new.png)  
+- [2020-06-28-31-岁六年大厂经验下一份工作是继续去北京大公司还是去二线城市小的创业公司？](https://www.v2ex.com/t/685257) ![](assets/new.png)  
+- [2020-06-28-apple-watch-4-充不进电](https://www.v2ex.com/t/685256) ![](assets/new.png)  
+- [2020-06-28-Anime4KCPP-低清小电影一键变-4K-大片](https://www.v2ex.com/t/685255) ![](assets/new.png)  
+- [2020-06-28-字节跳动15-薪起高年终](https://www.v2ex.com/t/685254) ![](assets/new.png)  
+- [2020-06-28-「迫于攒钱买房」在线接单-UI、Logo、动效、高保真可交互原型](https://www.v2ex.com/t/685253) ![](assets/new.png)  
+- [2020-06-28-北京，想入坑摩托车-给点建议](https://www.v2ex.com/t/685252) ![](assets/new.png)  
+- [2020-06-28-MacOS-Big-Sur-下解决-Karabiner-Elements-失效问题](https://www.v2ex.com/t/685251) ![](assets/new.png)  
+- [2020-06-28-Mac-上的-iOS-App-可用性](https://www.v2ex.com/t/685250) ![](assets/new.png)  
+- [2020-06-28-做了一个接受-BTC-打赏的工具](https://www.v2ex.com/t/685249) ![](assets/new.png)  
+- [2020-06-28-公司想让几个后端去杭州封闭开发-1-2-个月,有什么办法不去?](https://www.v2ex.com/t/685248) ![](assets/new.png)  
+- [2020-06-28-车辆选购建议](https://www.v2ex.com/t/685247) ![](assets/new.png)  
+- [2020-06-28-做一个类似这种可以看油管或者游戏加速的成本有多高？](https://www.v2ex.com/t/685246) ![](assets/new.png)  
+- [2020-06-28-北京高风险地区的公司为什么能毫无心理负担的喊人去面试。](https://www.v2ex.com/t/685245) ![](assets/new.png)  
+- [2020-06-28-Apple-Developer-招行-VISA-卡一直续费失败](https://www.v2ex.com/t/685244) ![](assets/new.png)  
+- [2020-06-28-有多少开发人员愿意做所谓的技术合伙人](https://www.v2ex.com/t/685243) ![](assets/new.png)  
+- [2020-06-28-上海外地户籍购买插混新能源车选择哪款比较好？](https://www.v2ex.com/t/685242) ![](assets/new.png)  
+- [2020-06-28-海外兔采访-|-从汽车工程师转变为软件工程师](https://www.v2ex.com/t/685240) ![](assets/new.png)  
+- [2020-06-28-如何估算常见中间件的性能瓶颈](https://www.v2ex.com/t/685239) ![](assets/new.png)  
+- [2020-06-28-部门要和人事部门团建，大家有好的点子么？](https://www.v2ex.com/t/685238)  
+- [2020-06-28-迫于上海工作，周末苏州度过，不想来回搬台式主机，最便宜配一台能玩玩儿-gta5-之类的电脑主机放苏州](https://www.v2ex.com/t/685236)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,6 +1112,15 @@
 </summary>
 
 
+- [2020-06-28-Apache-Zeppelin：可能是开源届最好的-Flink-开发平台](https://toutiao.io/k/afvw5iv) ![](assets/new.png)  
+- [2020-06-28-苹果宣布-Mac-放弃-x86-转向-ARM：看看你要补充学习知识吗？](https://toutiao.io/k/iw7njzt) ![](assets/new.png)  
+- [2020-06-28-FizzBuzz-与写代码的-“一万”-个细节](https://toutiao.io/k/nx5k3ra) ![](assets/new.png)  
+- [2020-06-28-没有硬件，也可以运行与测试-TFLite-应用](https://toutiao.io/k/hbx8wyu) ![](assets/new.png)  
+- [2020-06-28-两行代码实现图片碎片化加载](https://toutiao.io/k/9qmhif3) ![](assets/new.png)  
+- [2020-06-28-SRZoo：深度学习图像超分辨率工具](https://toutiao.io/k/z16ola6) ![](assets/new.png)  
+- [2020-06-28-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/raut9un) ![](assets/new.png)  
+- [2020-06-28-演讲、体验、技术，苹果-WWDC-2020-全球开发者大会有感](https://toutiao.io/k/5xfey35) ![](assets/new.png)  
+- [2020-06-28-一文读懂-JavaScript-深拷贝与浅拷贝](https://toutiao.io/k/41zb5jj) ![](assets/new.png)  
 - [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1)  
 - [2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1)  
 - [2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd)  
@@ -1123,15 +1132,6 @@
 - [2020-06-28-普通程序员如何成长](https://toutiao.io/k/6zizwxr)  
 - [2020-06-28-Python-的类型系统](https://toutiao.io/k/zufjvwn)  
 - [2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7)  
-- [2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1)  
-- [2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw)  
-- [2020-06-27-替代-webpack？带你了解-snowpack-原理，你还学得动么](https://toutiao.io/k/q1jsa7p)  
-- [2020-06-27-ethtool-原理介绍和解决网卡丢包排查思路](https://toutiao.io/k/u12qw5r)  
-- [2020-06-27-Serverless-的初心、现状和未来](https://toutiao.io/k/fy7aw60)  
-- [2020-06-27-项目经理的如来十掌](https://toutiao.io/k/31yama1)  
-- [2020-06-27-Java-并发编程（五）：悲观锁和乐观锁机制](https://toutiao.io/k/3x3n9er)  
-- [2020-06-27-Java-基础：注解机制详解](https://toutiao.io/k/aivz4eb)  
-- [2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

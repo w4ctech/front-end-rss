@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-28 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 12:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -346,7 +346,7 @@
 - [【前端大全】原生-JS-封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/c1713a72f48bfb3078d86ae98b76798c)
 - [【前端大全】JavaScript-经典实例收集整理](https://www.ershicimi.com/p/8249037070127bf28f18741fce16bf37)
 - [【前端大全】JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/489386fe087d137fe88a6bc2d4434e13)
-- [【前端开发】Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/f10f554049a27ce324d37095aa6228c5)
+- [【前端开发】200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/add8beefc17fe8832c80253ef051e711)
 - [......【查看更多】......](./details/tags/javascript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

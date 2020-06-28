@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 13:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 14:00:21，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -30,7 +30,7 @@
 - [前端外刊评论](#前端外刊评论)  
 - [前端之巅](#前端之巅)  
 - [前端迷](#前端迷)  
-- [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
+- [全栈前端精选](#全栈前端精选)  
 - [政采云前端团队](#政采云前端团队)  
 - [前端宇宙](#前端宇宙)  
 - [前端瓶子君](#前端瓶子君)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -468,9 +468,9 @@
 </summary>
 
 
-- [2020-06-28-那些不常见，但却非常实用的-css-属性](https://www.ershicimi.com/p/aef7692b84fec305c88888efe21826f1) ![](assets/new.png)  
-- [2020-06-27-腾讯高级前端架构师：直播手写vue核心源码](https://www.ershicimi.com/p/ecad101cfabb81992997a22ee522e39a) ![](assets/new.png)  
-- [2020-06-27-实战技巧，Vue原来还可以这样写](https://www.ershicimi.com/p/fb90cfa42e8346823b1f3d75937138d5) ![](assets/new.png)  
+- [2020-06-28-那些不常见，但却非常实用的-css-属性](https://www.ershicimi.com/p/aef7692b84fec305c88888efe21826f1)  
+- [2020-06-27-腾讯高级前端架构师：直播手写vue核心源码](https://www.ershicimi.com/p/ecad101cfabb81992997a22ee522e39a)  
+- [2020-06-27-实战技巧，Vue原来还可以这样写](https://www.ershicimi.com/p/fb90cfa42e8346823b1f3d75937138d5)  
 - [2020-06-26-（小技巧）h5-手机键盘弹出收起的处理](https://www.ershicimi.com/p/8df9b226e2ebef23be74b8d8551d9340)  
 - [2020-06-25-推荐几个特优质的前端公众号](https://www.ershicimi.com/p/ba8a32800f35f752259412fb4d061b72)  
 - [2020-06-25-这是目前为止5G最完整的PPT](https://www.ershicimi.com/p/9be12bb3f5c3bae2103638cda80efcb5)  
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-28-31-岁六年大厂经验下一份工作是继续去北京大公司还是去二线城市小的创业公司？](https://www.v2ex.com/t/685257)  
-- [2020-06-28-apple-watch-4-充不进电](https://www.v2ex.com/t/685256)  
-- [2020-06-28-Anime4KCPP-低清小电影一键变-4K-大片](https://www.v2ex.com/t/685255)  
-- [2020-06-28-字节跳动15-薪起高年终](https://www.v2ex.com/t/685254)  
-- [2020-06-28-「迫于攒钱买房」在线接单-UI、Logo、动效、高保真可交互原型](https://www.v2ex.com/t/685253)  
-- [2020-06-28-北京，想入坑摩托车-给点建议](https://www.v2ex.com/t/685252)  
-- [2020-06-28-MacOS-Big-Sur-下解决-Karabiner-Elements-失效问题](https://www.v2ex.com/t/685251)  
-- [2020-06-28-Mac-上的-iOS-App-可用性](https://www.v2ex.com/t/685250)  
-- [2020-06-28-做了一个接受-BTC-打赏的工具](https://www.v2ex.com/t/685249)  
-- [2020-06-28-公司想让几个后端去杭州封闭开发-1-2-个月,有什么办法不去?](https://www.v2ex.com/t/685248)  
-- [2020-06-28-车辆选购建议](https://www.v2ex.com/t/685247)  
-- [2020-06-28-做一个类似这种可以看油管或者游戏加速的成本有多高？](https://www.v2ex.com/t/685246)  
-- [2020-06-28-北京高风险地区的公司为什么能毫无心理负担的喊人去面试。](https://www.v2ex.com/t/685245)  
-- [2020-06-28-Apple-Developer-招行-VISA-卡一直续费失败](https://www.v2ex.com/t/685244)  
-- [2020-06-28-有多少开发人员愿意做所谓的技术合伙人](https://www.v2ex.com/t/685243)  
-- [2020-06-28-上海外地户籍购买插混新能源车选择哪款比较好？](https://www.v2ex.com/t/685242)  
-- [2020-06-28-海外兔采访-|-从汽车工程师转变为软件工程师](https://www.v2ex.com/t/685240)  
-- [2020-06-28-如何估算常见中间件的性能瓶颈](https://www.v2ex.com/t/685239)  
-- [2020-06-28-部门要和人事部门团建，大家有好的点子么？](https://www.v2ex.com/t/685238)  
-- [2020-06-28-迫于上海工作，周末苏州度过，不想来回搬台式主机，最便宜配一台能玩玩儿-gta5-之类的电脑主机放苏州](https://www.v2ex.com/t/685236)  
+- [2020-06-28-微博异常点赞的一些简单初步的分析，以及-chrome-内核怎样不让所有扩展访问某个域名的内容？](https://www.v2ex.com/t/685301) ![](assets/new.png)  
+- [2020-06-28-为什么现在发布什么帖子,下面的回复都有人说钓鱼,非常影响提问人的体验](https://www.v2ex.com/t/685300) ![](assets/new.png)  
+- [2020-06-28-MX2s-鼠标滚轴在电脑休眠唤醒后不工作](https://www.v2ex.com/t/685299) ![](assets/new.png)  
+- [2020-06-28-现在买-apple-watch5-算不算是-49-年加入国军](https://www.v2ex.com/t/685298) ![](assets/new.png)  
+- [2020-06-28-2020-年了，想买个电视不是只有小米最优选了吧，还有什么别的选择吗](https://www.v2ex.com/t/685297) ![](assets/new.png)  
+- [2020-06-28-灵魂拷问：你不刷抖音，那你平时都看什么呢？](https://www.v2ex.com/t/685296) ![](assets/new.png)  
+- [2020-06-28-有私活。有没有-Python-大佬接活的联系：-二四九五九零三一二八，扣扣，忘了留联系方式了](https://www.v2ex.com/t/685295) ![](assets/new.png)  
+- [2020-06-28-蚂蚁金服北京前端-支付宝底层埋点，流量可视化分析，-abtesting，组内招聘-快速响应](https://www.v2ex.com/t/685293) ![](assets/new.png)  
+- [2020-06-28-优酷直充-12-元-2-个月](https://www.v2ex.com/t/685292) ![](assets/new.png)  
+- [2020-06-28-V2EX-暗黑模式下节点板块的样式优化](https://www.v2ex.com/t/685291) ![](assets/new.png)  
+- [2020-06-28-独立开发-一个月-月报](https://www.v2ex.com/t/685290) ![](assets/new.png)  
+- [2020-06-28-USB-音箱音量太大的问题](https://www.v2ex.com/t/685289) ![](assets/new.png)  
+- [2020-06-28-「网速-&-电池」for-macOS-更新发布，前排福利送码！](https://www.v2ex.com/t/685288) ![](assets/new.png)  
+- [2020-06-28-观隐秘的角落有感：有没有开源的第三方的弹幕内容库？](https://www.v2ex.com/t/685287) ![](assets/new.png)  
+- [2020-06-28-程序员/社会的内卷化？](https://www.v2ex.com/t/685286) ![](assets/new.png)  
+- [2020-06-28-个人的工作室进行远程工作，在此期间使用盗版软件/系统是否有影响呢？](https://www.v2ex.com/t/685282) ![](assets/new.png)  
+- [2020-06-28-上班第一天感觉要跑路了](https://www.v2ex.com/t/685281) ![](assets/new.png)  
+- [2020-06-28-不懂就问系列，苹果产品的序列号意外泄漏给他人到底会不会造成危险？](https://www.v2ex.com/t/685279) ![](assets/new.png)  
+- [2020-06-28-心态崩了，-WWDC2020-是给-AirPods-施了法吗？最近疯狂出问题](https://www.v2ex.com/t/685278) ![](assets/new.png)  
+- [2020-06-28-前端技术兼职现在是不是狼多肉少](https://www.v2ex.com/t/685275) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

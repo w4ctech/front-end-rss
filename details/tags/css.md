@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -103,6 +103,7 @@
 - [2020-06-01-Shanghai-Ericsson-云计算产品支持工程师/-专家](https://www.v2ex.com/t/677498) 
 - [2020-05-31-巴哈姆特动画疯-一个不错的动漫网站](https://www.v2ex.com/t/677161) 
 - [2020-05-29-大家是怎么看转场动画的？](https://www.v2ex.com/t/676660) 
+- [2020-06-29-ImageView-scaleType-各种不同效果解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13560&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FICFI-RltyYv2Mu77WYLtBA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-27-Serverless-的初心、现状和未来](https://toutiao.io/k/fy7aw60) 
 - [2020-06-15-Web-测试：为什么我选了-cypress，而不是-headless](https://toutiao.io/k/55kky9t) 
 - [2020-06-14-CSS-的-background-属性到底有哪些用法？这篇文章帮你全部总结了](https://toutiao.io/k/gl2qvdc) 

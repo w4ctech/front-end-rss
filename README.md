@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 23:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-29 03:30:21，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1)  
+- [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1)  
 - [2020-06-28-科威特新增551例新冠肺炎确诊病例-累计44942例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93Oz2h8pjkQGr0ug0ErF200628&isfromapp=1)  
 - [2020-06-28-北京首个农贸市场核酸快检站](https://m.weibo.cn/2656274875/4520877028403355)  
 - [2020-06-28-日本一娱乐场所暴发集体感染，33-人确诊，1-人死亡](https://m.weibo.cn/3057540037/4520851292399949)  
@@ -1081,26 +1081,26 @@
 </summary>
 
 
+- [2020-06-29-为精美，FButton-&-FSwitch-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13568&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLVuLQlImR7mknKPnFEfx-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-更快学习编程的-7-个重要技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13567&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fva-7d1h9qUoaio2hdxcgPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-不使用第三方库，Bitmap-的优化策略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13566&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHnbhuQQJ4QVru3YTJYwSbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-8-个-Python-高效数据分析的技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13565&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwW6YGs4cU3cEpSzSbBE3Zg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-深入浅出-Android-屏幕刷新原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13564&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiogNs1Z_BJb4-ZgJXT_A0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-21-个令程序员泪流满面的瞬间-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13563&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frix1cFEzkTc0GQJrHykMLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-探索-Android-TDD-开发方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13562&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAkduog4J5yjbdafrKLHsEg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13561&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoZASKxSVUJ3dFdYHmihBkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-ImageView-scaleType-各种不同效果解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13560&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FICFI-RltyYv2Mu77WYLtBA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-20-张程序员不得不看的内涵动图-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13559&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJLbxoBv93ndgAPo3AsulA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-程序员，等你当了爸爸后，便会有如下经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13558&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUd1g82L6U9MNxplV2Pi3Tg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13557&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVBAmgye47ySrjd9JSpK5vA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-为什么-IDEA-比-Eclipse-更好？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13556&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK_vEDqXxQw-6JUuI2tcsGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-下载！PyTorch中文版官方教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13555&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMCaRkvg0frqMe_uExvVpCw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-火了！某总理的儿子，写了一本编程入门书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13554&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiIptwa3EYP5ngjWIc_ZC0A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-重磅！程序员工资不会上涨的几个现象-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13553&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRmW5qz0vwm3hnFPUwbVbGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-29-《统计机器学习与凸优化》教程-PPT-下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13552&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTZIlQohSktFr6SsmUZjkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-28-快应用-IDE-定制-Devtools-元素面板系列二：新增面板-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13551&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-28-程序化广告常见术语一览-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13550&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fprogrammatic-advertising-terminology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13545&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp66hEJBotpRyqfC_sM1dcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-10分钟用-Python-编写一个贪吃蛇小游戏-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13544&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHPvOsteCJeEwElQ0oF4bMw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-干货！前端-Code-Review-的最佳实践方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13543&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkbzSKoWB0bBFxcANYPD67w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-Android-通过Java-sdk的方式接入OpenCv-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13542&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frn8czKih6xVSTPmD2Nch8A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-推荐-13-个-Python-新手练级项目-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13541&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fhpl-i6J37dzhFHBXXmDL8g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-再见，Eclipse！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13540&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGnASFPoinPMQHKfs02vmeg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-泰山版！Java开发手册开放下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13539&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJ0x1h2NbH2RaECiQuTs1dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-小姐姐太强了，动图展示-10-大-Git-命令，不会都难-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13538&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxTideoJbvqe5meA3VVCAAQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-Pandas官方文档中文版下载、图形深度学习-PPT-下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13537&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxXHoaGhe1pY3i3F-a94BcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-3.83亿开房记录被泄露后，这家酒店竟然又又又被爆泄露用户数据了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13536&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FgppzaJ0rsuaozbaPZtZugg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-22-下载！Linux-内核设计的艺术-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13535&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxfbTh_1q0EF0x75HE9vyVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-19-从-301-跳转，聊聊边缘规则的那些小妙用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13534&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F149137612%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13533&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147814759%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

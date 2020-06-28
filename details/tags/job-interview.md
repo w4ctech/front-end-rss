@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -171,6 +171,7 @@
 - [2020-05-30-第一次面试就被刷了，找个工作好难啊](https://www.v2ex.com/t/676858) 
 - [2020-05-29-问个问题，面试了一家企业，说是周五给回信，结果也没有给回信，这个要不要打电话问一下呢？有没有必要呢？...](https://www.v2ex.com/t/676814) 
 - [2020-05-29-招聘-Golang-工程师一枚，弹性上班，加班非常少](https://www.v2ex.com/t/676564) 
+- [2020-06-29-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13557&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVBAmgye47ySrjd9JSpK5vA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-04-一位阿里-P7-的面试经验分享-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13501&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrBNKmj9vjgXGisc75LTdSQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-23-面试官：十问泛型，你能扛住吗？](https://toutiao.io/k/070ht1d) 
 - [2020-06-17-面试又挂了，只因问了：TCP-三次握手和四次挥手](https://toutiao.io/k/dcrc1jq) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 03:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -76,6 +76,8 @@
 - [2020-05-30-ES-集群优化，求大佬指点一下](https://www.v2ex.com/t/677050) 
 - [2020-05-29-有没有可能，通过一个性能比较好的防火墙和自签的证书，实现广告过滤等功能](https://www.v2ex.com/t/676651) 
 - [2020-05-29-不解就问：台式机性能过剩可以用来干啥？](https://www.v2ex.com/t/676548) 
+- [2020-06-29-不使用第三方库，Bitmap-的优化策略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13566&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHnbhuQQJ4QVru3YTJYwSbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-29-《统计机器学习与凸优化》教程-PPT-下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13552&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTZIlQohSktFr6SsmUZjkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-09-记一次-Python-Web-接口优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13508&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK90boT3xupEiixeQuYi2yQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-28-两行代码实现图片碎片化加载](https://toutiao.io/k/9qmhif3) 
 - [2020-06-25-高并发口罩抢购项目架构演进记录-&-优化经验分享](https://toutiao.io/k/6mwgw9b) 

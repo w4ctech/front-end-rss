@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-28 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-科威特新增551例新冠肺炎确诊病例-累计44942例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93Oz2h8pjkQGr0ug0ErF200628&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-北京首个农贸市场核酸快检站](https://m.weibo.cn/2656274875/4520877028403355) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-日本一娱乐场所暴发集体感染，33-人确诊，1-人死亡](https://m.weibo.cn/3057540037/4520851292399949) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-北京：进京蔬菜累计调运-11910-吨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGwJB22273aaBmemAJaq200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-北京：日最大核酸检测量达-45.8-万份，日最高检测-108.4-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIgglF5RRmYu9cRcJ0LsZ200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1) 

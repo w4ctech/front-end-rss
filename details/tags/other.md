@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 17:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-28-北京：进京蔬菜累计调运-11910-吨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGwJB22273aaBmemAJaq200628&isfromapp=1) 
 - [2020-06-28-北京：日最大核酸检测量达-45.8-万份，日最高检测-108.4-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIgglF5RRmYu9cRcJ0LsZ200628&isfromapp=1) 
 - [2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1) 
 - [2020-06-28-北京：26、27-日丰台新增确诊病例-25-例均来自集中隔离点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1) 

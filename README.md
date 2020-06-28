@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 17:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 18:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-06-28-北京：日最大核酸检测量达-45.8-万份，日最高检测-108.4-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIgglF5RRmYu9cRcJ0LsZ200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-北京：26、27-日丰台新增确诊病例-25-例均来自集中隔离点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-北京：进京蔬菜累计调运-11910-吨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGwJB22273aaBmemAJaq200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-北京：日最大核酸检测量达-45.8-万份，日最高检测-108.4-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIgglF5RRmYu9cRcJ0LsZ200628&isfromapp=1)  
+- [2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1)  
+- [2020-06-28-北京：26、27-日丰台新增确诊病例-25-例均来自集中隔离点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1)  
 - [2020-06-28-北京通报-27-日新冠肺炎新增确诊病例详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihryZG6Iwcjtf2LPZBpA7200628&isfromapp=1)  
 - [2020-06-28-拟将新冠肺炎纳入妨害传染病防治罪调整范围](https://m.weibo.cn/2656274875/4520791020515509)  
 - [2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-28-西班牙北部一建筑被隔离，共发现13例阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1)  
 - [2020-06-27-美国至少11个州暂停或推迟重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ogfs8QTIoHqoMpt9HAq200627&isfromapp=1)  
 - [2020-06-27-西班牙安达卢西亚大区疫情继续暴发-，5省确诊病例升至172例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipcU5tbyQ6ucmU94ELwky200627&isfromapp=1)  
-- [2020-06-27-香港27日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

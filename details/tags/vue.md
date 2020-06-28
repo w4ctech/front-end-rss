@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 11:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -136,6 +136,7 @@
 - [2020-06-01-Vue-常见的组件通信方式](https://juejin.im/post/5ed3c2a2f265da770a616475) 
 - [2020-05-31-Vue-3教程（适用于Vue-2用户）](https://juejin.im/post/5ed3cf61f265da76da29db34) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-06-28-带你了解基于-Vue-的微服务解决方案-Genesis](https://www.v2ex.com/t/685198) 
 - [2020-06-27-在-vue-里面到底哪种写法比较规范？](https://www.v2ex.com/t/685063) 
 - [2020-06-24-问个问题-JD-这种电商用-vue-这种-SPA-吗？](https://www.v2ex.com/t/684416) 
 - [2020-06-22-vue-cli.当存在同名文件时不知道该如何-debug](https://www.v2ex.com/t/683854) 

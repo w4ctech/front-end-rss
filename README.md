@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 09:30:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 11:00:21，:rocket: 更新条数: +42， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-28-PC-配置推荐，大佬们可以流畅玩-GTA5-和-地平线-5-还有极品飞车-20-的电脑配置有没有推荐的~](https://www.v2ex.com/t/685178) ![](assets/new.png)  
-- [2020-06-28-各位有的来说说,-曲面屏怎么贴膜?-贴什么膜?](https://www.v2ex.com/t/685177) ![](assets/new.png)  
-- [2020-06-28-我内推进来的同事刚转正就想要离职](https://www.v2ex.com/t/685176) ![](assets/new.png)  
-- [2020-06-28-大家-apple-watch-每日-move-goal-设置多少-cal？](https://www.v2ex.com/t/685175) ![](assets/new.png)  
-- [2020-06-28-如果要让各位设计一个理想的编程开发语言与-IDE，各位会怎么设计？有哪些脑洞？](https://www.v2ex.com/t/685171) ![](assets/new.png)  
-- [2020-06-28-深圳房价暴涨](https://www.v2ex.com/t/685169) ![](assets/new.png)  
-- [2020-06-28-2020-年-陕西大荔冬枣-成熟了,开卖!-第二年卖冬枣了,-今年加个活动:-给-V-友们*抽奖*送冬枣](https://www.v2ex.com/t/685168) ![](assets/new.png)  
-- [2020-06-28-chrome-是不是最近的版本才把关闭其他标签页的右键菜单给加回来了](https://www.v2ex.com/t/685167) ![](assets/new.png)  
-- [2020-06-28-Google-Photos-同时在-iPhone-和-iPad-上打开同步，会备份两份吗？](https://www.v2ex.com/t/685166) ![](assets/new.png)  
-- [2020-06-28-QQ-好友五年之内没有任何互动的觉得可以删吗？](https://www.v2ex.com/t/685165) ![](assets/new.png)  
-- [2020-06-28-电信营业厅-39-套餐的套路](https://www.v2ex.com/t/685164) ![](assets/new.png)  
-- [2020-06-28-康基医疗中了-2-个-海吉亚中了-1-个-声网中了-10-股](https://www.v2ex.com/t/685163) ![](assets/new.png)  
-- [2020-06-28-愈来愈失望，-AirPods-Pro-右耳异响，官方端午节前免费换了一次，端午节三天没用，现在又有异响了](https://www.v2ex.com/t/685162) ![](assets/new.png)  
-- [2020-06-28-请教下-V-友一个静态网站服务器选择的问题](https://www.v2ex.com/t/685161) ![](assets/new.png)  
-- [2020-06-28-这家中国高科技互联网公司上市代码亮了](https://www.v2ex.com/t/685160) ![](assets/new.png)  
-- [2020-06-28-2020-过去一半了，你们的股票（基金）收益怎么样](https://www.v2ex.com/t/685159) ![](assets/new.png)  
-- [2020-06-28-现在买-Macbook-pro-划算吗？](https://www.v2ex.com/t/685158)  
-- [2020-06-28-撸了一个-DTMF（电话拨号按键信号）解码、编码，纯-js-代码简单易于移植](https://www.v2ex.com/t/685157)  
-- [2020-06-28-电商中商品分类的设计问题](https://www.v2ex.com/t/685154)  
-- [2020-06-28-后场村大-3-室-1-厅-2-卫找合租室友](https://www.v2ex.com/t/685153)  
+- [2020-06-28-部门要和人事部门团建，大家有好的点子么？](https://www.v2ex.com/t/685238) ![](assets/new.png)  
+- [2020-06-28-迫于上海工作，周末苏州度过，不想来回搬台式主机，最便宜配一台能玩玩儿-gta5-之类的电脑主机放苏州](https://www.v2ex.com/t/685236) ![](assets/new.png)  
+- [2020-06-28-啊大叔大叔大叔大大](https://www.v2ex.com/t/685234) ![](assets/new.png)  
+- [2020-06-28-印象笔记是要凉了？](https://www.v2ex.com/t/685233) ![](assets/new.png)  
+- [2020-06-28-共享个-Javascript-加密，-js-混淆加密，全年免费使用的！](https://www.v2ex.com/t/685232) ![](assets/new.png)  
+- [2020-06-28-有人用过-ReactNative-Windows-么？](https://www.v2ex.com/t/685231) ![](assets/new.png)  
+- [2020-06-28-谈完薪资，腾讯加面——总经理面](https://www.v2ex.com/t/685230) ![](assets/new.png)  
+- [2020-06-28-五和，坂田地铁站附近-了解一下两房一厅](https://www.v2ex.com/t/685229) ![](assets/new.png)  
+- [2020-06-28-有没有好一些存储岗位的坑~](https://www.v2ex.com/t/685228) ![](assets/new.png)  
+- [2020-06-28-如何看待国产软件逐渐放弃桌面端的现象？](https://www.v2ex.com/t/685227) ![](assets/new.png)  
+- [2020-06-28-如何查询-APP-活跃度？](https://www.v2ex.com/t/685226) ![](assets/new.png)  
+- [2020-06-28-深圳-1-号线或-9-号线上有推荐的-2K-内的房子吗？](https://www.v2ex.com/t/685225) ![](assets/new.png)  
+- [2020-06-28-关于“数据库系统概念---第-16-章-恢复系统---16.6-非易失性存储器数据丢失的故障”的疑问](https://www.v2ex.com/t/685224) ![](assets/new.png)  
+- [2020-06-28-给端午节出生的女儿求个名字，红包酬谢。谢谢大家。](https://www.v2ex.com/t/685222) ![](assets/new.png)  
+- [2020-06-28-杭州-内推&急招-蚂蚁科技旗下世界领先的分布式数据库-OceanBase-成立新公司，急聘前端工程师，业务稳空间大大量-HC,-P6~P8](https://www.v2ex.com/t/685221) ![](assets/new.png)  
+- [2020-06-28-电脑进水后还能享受蝶式键盘的-4-年内维修更换嘛](https://www.v2ex.com/t/685219) ![](assets/new.png)  
+- [2020-06-28-Firefox-浏览器搜索框疑问](https://www.v2ex.com/t/685218) ![](assets/new.png)  
+- [2020-06-28-leetcode-国服挂啦](https://www.v2ex.com/t/685217) ![](assets/new.png)  
+- [2020-06-28-又要开始找工作了](https://www.v2ex.com/t/685216) ![](assets/new.png)  
+- [2020-06-28-自己买智能锁，自己改程序的可行性有多大？](https://www.v2ex.com/t/685215) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

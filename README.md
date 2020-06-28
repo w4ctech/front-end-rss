@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 09:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 09:30:20，:rocket: 更新条数: +16， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1)  
 - [2020-06-28-北京20家医疗机构对首都高校开展核酸检测-筑牢校园防疫防火墙](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1)  
 - [2020-06-28-秘鲁或将于近期恢复部分省际交通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1)  
 - [2020-06-28-西班牙北部一建筑被隔离，共发现13例阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1)  
@@ -1050,26 +1050,26 @@
 </summary>
 
 
+- [2020-06-28-PC-配置推荐，大佬们可以流畅玩-GTA5-和-地平线-5-还有极品飞车-20-的电脑配置有没有推荐的~](https://www.v2ex.com/t/685178) ![](assets/new.png)  
+- [2020-06-28-各位有的来说说,-曲面屏怎么贴膜?-贴什么膜?](https://www.v2ex.com/t/685177) ![](assets/new.png)  
+- [2020-06-28-我内推进来的同事刚转正就想要离职](https://www.v2ex.com/t/685176) ![](assets/new.png)  
+- [2020-06-28-大家-apple-watch-每日-move-goal-设置多少-cal？](https://www.v2ex.com/t/685175) ![](assets/new.png)  
+- [2020-06-28-如果要让各位设计一个理想的编程开发语言与-IDE，各位会怎么设计？有哪些脑洞？](https://www.v2ex.com/t/685171) ![](assets/new.png)  
+- [2020-06-28-深圳房价暴涨](https://www.v2ex.com/t/685169) ![](assets/new.png)  
+- [2020-06-28-2020-年-陕西大荔冬枣-成熟了,开卖!-第二年卖冬枣了,-今年加个活动:-给-V-友们*抽奖*送冬枣](https://www.v2ex.com/t/685168) ![](assets/new.png)  
+- [2020-06-28-chrome-是不是最近的版本才把关闭其他标签页的右键菜单给加回来了](https://www.v2ex.com/t/685167) ![](assets/new.png)  
+- [2020-06-28-Google-Photos-同时在-iPhone-和-iPad-上打开同步，会备份两份吗？](https://www.v2ex.com/t/685166) ![](assets/new.png)  
+- [2020-06-28-QQ-好友五年之内没有任何互动的觉得可以删吗？](https://www.v2ex.com/t/685165) ![](assets/new.png)  
+- [2020-06-28-电信营业厅-39-套餐的套路](https://www.v2ex.com/t/685164) ![](assets/new.png)  
+- [2020-06-28-康基医疗中了-2-个-海吉亚中了-1-个-声网中了-10-股](https://www.v2ex.com/t/685163) ![](assets/new.png)  
+- [2020-06-28-愈来愈失望，-AirPods-Pro-右耳异响，官方端午节前免费换了一次，端午节三天没用，现在又有异响了](https://www.v2ex.com/t/685162) ![](assets/new.png)  
+- [2020-06-28-请教下-V-友一个静态网站服务器选择的问题](https://www.v2ex.com/t/685161) ![](assets/new.png)  
+- [2020-06-28-这家中国高科技互联网公司上市代码亮了](https://www.v2ex.com/t/685160) ![](assets/new.png)  
+- [2020-06-28-2020-过去一半了，你们的股票（基金）收益怎么样](https://www.v2ex.com/t/685159) ![](assets/new.png)  
 - [2020-06-28-现在买-Macbook-pro-划算吗？](https://www.v2ex.com/t/685158)  
 - [2020-06-28-撸了一个-DTMF（电话拨号按键信号）解码、编码，纯-js-代码简单易于移植](https://www.v2ex.com/t/685157)  
 - [2020-06-28-电商中商品分类的设计问题](https://www.v2ex.com/t/685154)  
 - [2020-06-28-后场村大-3-室-1-厅-2-卫找合租室友](https://www.v2ex.com/t/685153)  
-- [2020-06-28-magic-mouse2-如何正确使用？](https://www.v2ex.com/t/685152)  
-- [2020-06-28-Keyboard-Maestro-在-macOS-Big-Sur-上有明显的不兼容吗？](https://www.v2ex.com/t/685151)  
-- [2020-06-28-未来，互联网公司是否会牢牢地控制大部分人的思想？](https://www.v2ex.com/t/685148)  
-- [2020-06-28-在校生前端实习转后端求建议](https://www.v2ex.com/t/685147)  
-- [2020-06-27-出国读研-qs100-内还是国内考研](https://www.v2ex.com/t/685146)  
-- [2020-06-27-编辑-TrueType-字体转-svg，一般用什么工具比较方便？](https://www.v2ex.com/t/685144)  
-- [2020-06-27-使用-React-构建页面可视化搭建工具](https://www.v2ex.com/t/685143)  
-- [2020-06-27-求职-资深/高级产品经理｜企业服务、推荐系统、信贷相关岗位｜成都](https://www.v2ex.com/t/685142)  
-- [2020-06-27-去加拿大，买什么手机好？](https://www.v2ex.com/t/685141)  
-- [2020-06-27-升级到-WSL2，心态崩了](https://www.v2ex.com/t/685140)  
-- [2020-06-27-chrome-简直愚蠢到极致](https://www.v2ex.com/t/685139)  
-- [2020-06-27-想要这么一个小工具，不知道有没有现成的，或者说实现起来难度有多大？](https://www.v2ex.com/t/685138)  
-- [2020-06-27-大家做数据可视化大屏展示的时候前端这块布局是怎么做的，如何做自适应？比如单位用-px?-rem?-vh/vw?-%?](https://www.v2ex.com/t/685137)  
-- [2020-06-27-广州联通最近国际出口是不是抽风了](https://www.v2ex.com/t/685136)  
-- [2020-06-27-AirPods-Pro-戴起来右耳有点疼，除此之外感觉体验很好](https://www.v2ex.com/t/685135)  
-- [2020-06-27-服务器提示-bash:-fork:-retry:-No-child-processes-如何处理？](https://www.v2ex.com/t/685132)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,11 +1112,11 @@
 </summary>
 
 
-- [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1) ![](assets/new.png)  
-- [2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1) ![](assets/new.png)  
-- [2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd) ![](assets/new.png)  
-- [2020-06-28-不聊原理，拿来即用的线程池最佳实践](https://toutiao.io/k/eou72ij) ![](assets/new.png)  
-- [2020-06-28-快速打造属于你的接口自动化测试框架](https://toutiao.io/k/5v0mnbm) ![](assets/new.png)  
+- [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1)  
+- [2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1)  
+- [2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd)  
+- [2020-06-28-不聊原理，拿来即用的线程池最佳实践](https://toutiao.io/k/eou72ij)  
+- [2020-06-28-快速打造属于你的接口自动化测试框架](https://toutiao.io/k/5v0mnbm)  
 - [2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30)  
 - [2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn)  
 - [2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf)  

@@ -5942,6 +5942,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美国迈阿密戴德县将在国庆节假日期间关闭所有海滩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1",
+        "date": "2020-06-28"
+      },
+      {
         "title": "北京20家医疗机构对首都高校开展核酸检测 筑牢校园防疫防火墙",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1",
         "date": "2020-06-28"
@@ -38584,6 +38589,31 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "既然硕士毕业也去搞开发，那我还读个喵的研？",
+        "link": "https://toutiao.io/k/bnvvsz1",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "CPU 明明 8 个核，网卡为啥拼命折腾一号核？",
+        "link": "https://toutiao.io/k/g3qb5o1",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "思考：如何保证服务稳定性？",
+        "link": "https://toutiao.io/k/qu1w0gd",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "不聊原理，拿来即用的线程池最佳实践",
+        "link": "https://toutiao.io/k/eou72ij",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "快速打造属于你的接口自动化测试框架",
+        "link": "https://toutiao.io/k/5v0mnbm",
+        "date": "2020-06-28"
+      },
       {
         "title": "你一定要了解的 Kubernetes",
         "link": "https://toutiao.io/k/77gar30",

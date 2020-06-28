@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 08:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 09:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1) ![](assets/new.png)  
 - [2020-06-28-北京20家医疗机构对首都高校开展核酸检测-筑牢校园防疫防火墙](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1)  
 - [2020-06-28-秘鲁或将于近期恢复部分省际交通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1)  
 - [2020-06-28-西班牙北部一建筑被隔离，共发现13例阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-27-厄瓜多尔使用计算机技术辅助防疫-拟扩大复工规模](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOmc3kLS8A3X6eGCrVtn200627&isfromapp=1)  
 - [2020-06-27-北京昨日新增报告17例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html)  
 - [2020-06-27-北京26日新增新冠肺炎确诊病例17例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1)  
-- [2020-06-27-国家卫健委：26日新增21例新冠肺炎确诊病例-北京确诊17例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,11 +1112,16 @@
 </summary>
 
 
-- [2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30) ![](assets/new.png)  
-- [2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn) ![](assets/new.png)  
-- [2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf) ![](assets/new.png)  
-- [2020-06-28-普通程序员如何成长](https://toutiao.io/k/6zizwxr) ![](assets/new.png)  
-- [2020-06-28-Python-的类型系统](https://toutiao.io/k/zufjvwn) ![](assets/new.png)  
+- [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1) ![](assets/new.png)  
+- [2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1) ![](assets/new.png)  
+- [2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd) ![](assets/new.png)  
+- [2020-06-28-不聊原理，拿来即用的线程池最佳实践](https://toutiao.io/k/eou72ij) ![](assets/new.png)  
+- [2020-06-28-快速打造属于你的接口自动化测试框架](https://toutiao.io/k/5v0mnbm) ![](assets/new.png)  
+- [2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30)  
+- [2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn)  
+- [2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf)  
+- [2020-06-28-普通程序员如何成长](https://toutiao.io/k/6zizwxr)  
+- [2020-06-28-Python-的类型系统](https://toutiao.io/k/zufjvwn)  
 - [2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7)  
 - [2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1)  
 - [2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw)  
@@ -1127,11 +1132,6 @@
 - [2020-06-27-Java-并发编程（五）：悲观锁和乐观锁机制](https://toutiao.io/k/3x3n9er)  
 - [2020-06-27-Java-基础：注解机制详解](https://toutiao.io/k/aivz4eb)  
 - [2020-06-26-译-微服务架构下-Go-包的代码组织实践](https://toutiao.io/k/pwlylmp)  
-- [2020-06-26-7-天用-Go-从零实现-ORM-框架-GeeORM](https://toutiao.io/k/fflw01n)  
-- [2020-06-26-Vue3-的-Proxy-能做到哪些精确的拦截操作？原理揭秘](https://toutiao.io/k/tesg7o3)  
-- [2020-06-26-Python-为什么不支持-i++-自增语法，不提供-++-操作符？](https://toutiao.io/k/oc2gui7)  
-- [2020-06-26-CVPR-2020-论文大盘点：语义分割篇](https://toutiao.io/k/2txw0ww)  
-- [2020-06-26-数据平台服务化建设（零）：寻找出路](https://toutiao.io/k/m1ansyb)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

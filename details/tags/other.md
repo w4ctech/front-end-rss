@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1) 
 - [2020-06-28-北京20家医疗机构对首都高校开展核酸检测-筑牢校园防疫防火墙](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1) 
 - [2020-06-28-秘鲁或将于近期恢复部分省际交通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1) 
 - [2020-06-28-西班牙北部一建筑被隔离，共发现13例阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1) 
@@ -5491,6 +5492,11 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1) 
+- [2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1) 
+- [2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd) 
+- [2020-06-28-不聊原理，拿来即用的线程池最佳实践](https://toutiao.io/k/eou72ij) 
+- [2020-06-28-快速打造属于你的接口自动化测试框架](https://toutiao.io/k/5v0mnbm) 
 - [2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30) 
 - [2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn) 
 - [2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf) 

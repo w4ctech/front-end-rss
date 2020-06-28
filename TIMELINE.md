@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-28 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-北京20家医疗机构对首都高校开展核酸检测-筑牢校园防疫防火墙](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-秘鲁或将于近期恢复部分省际交通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-西班牙北部一建筑被隔离，共发现13例阳性病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1) 
@@ -5425,6 +5426,11 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1) 
+- [【开发者头条】2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1) 
+- [【开发者头条】2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd) 
+- [【开发者头条】2020-06-28-不聊原理，拿来即用的线程池最佳实践](https://toutiao.io/k/eou72ij) 
+- [【开发者头条】2020-06-28-快速打造属于你的接口自动化测试框架](https://toutiao.io/k/5v0mnbm) 
 - [【开发者头条】2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30) 
 - [【开发者头条】2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn) 
 - [【开发者头条】2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf) 

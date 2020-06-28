@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-28 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-拟将新冠肺炎纳入妨害传染病防治罪调整范围](https://m.weibo.cn/2656274875/4520791020515509) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-印度新确诊-19906-例，系单日最大增幅](https://m.weibo.cn/3057540037/4520780823831858) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-东京解禁后疫情反弹严重：多数病例为年轻人，感染途径成谜](https://m.weibo.cn/3057540037/4520775790805161) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-28-韩国单日新增62例新冠肺炎确诊病例，为一周以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1) 

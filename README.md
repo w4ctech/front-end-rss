@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 14:00:21，:rocket: 更新条数: +34， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 15:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-06-28-拟将新冠肺炎纳入妨害传染病防治罪调整范围](https://m.weibo.cn/2656274875/4520791020515509) ![](assets/new.png)  
+- [2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1) ![](assets/new.png)  
+- [2020-06-28-印度新确诊-19906-例，系单日最大增幅](https://m.weibo.cn/3057540037/4520780823831858) ![](assets/new.png)  
+- [2020-06-28-东京解禁后疫情反弹严重：多数病例为年轻人，感染途径成谜](https://m.weibo.cn/3057540037/4520775790805161) ![](assets/new.png)  
 - [2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1)  
 - [2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1)  
 - [2020-06-28-韩国单日新增62例新冠肺炎确诊病例，为一周以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-06-27-土耳其高考期间实施全国“禁足令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2cyOGmi3kRc8mbh78h8W200627&isfromapp=1)  
 - [2020-06-27-​因疫情无法返校做实验，武大团队造600多个“家庭实验室”送到学生家中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBshZ1OqdP0qrmh2aBcL200627&isfromapp=1)  
 - [2020-06-27-中国疾控中心：通过短时间的接触快递被感染的几率很低](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1)  
-- [2020-06-27-世卫组织：全球新冠肺炎确诊病例超过959万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1)  
-- [2020-06-27-疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1)  
-- [2020-06-27-韩国新冠肺炎确诊病例累计达12653例-首都圈疫情频发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1)  
-- [2020-06-27-秘鲁政府宣布将全国紧急状态延至7月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-28-微博异常点赞的一些简单初步的分析，以及-chrome-内核怎样不让所有扩展访问某个域名的内容？](https://www.v2ex.com/t/685301) ![](assets/new.png)  
-- [2020-06-28-为什么现在发布什么帖子,下面的回复都有人说钓鱼,非常影响提问人的体验](https://www.v2ex.com/t/685300) ![](assets/new.png)  
-- [2020-06-28-MX2s-鼠标滚轴在电脑休眠唤醒后不工作](https://www.v2ex.com/t/685299) ![](assets/new.png)  
-- [2020-06-28-现在买-apple-watch5-算不算是-49-年加入国军](https://www.v2ex.com/t/685298) ![](assets/new.png)  
-- [2020-06-28-2020-年了，想买个电视不是只有小米最优选了吧，还有什么别的选择吗](https://www.v2ex.com/t/685297) ![](assets/new.png)  
-- [2020-06-28-灵魂拷问：你不刷抖音，那你平时都看什么呢？](https://www.v2ex.com/t/685296) ![](assets/new.png)  
-- [2020-06-28-有私活。有没有-Python-大佬接活的联系：-二四九五九零三一二八，扣扣，忘了留联系方式了](https://www.v2ex.com/t/685295) ![](assets/new.png)  
-- [2020-06-28-蚂蚁金服北京前端-支付宝底层埋点，流量可视化分析，-abtesting，组内招聘-快速响应](https://www.v2ex.com/t/685293) ![](assets/new.png)  
-- [2020-06-28-优酷直充-12-元-2-个月](https://www.v2ex.com/t/685292) ![](assets/new.png)  
-- [2020-06-28-V2EX-暗黑模式下节点板块的样式优化](https://www.v2ex.com/t/685291) ![](assets/new.png)  
-- [2020-06-28-独立开发-一个月-月报](https://www.v2ex.com/t/685290) ![](assets/new.png)  
-- [2020-06-28-USB-音箱音量太大的问题](https://www.v2ex.com/t/685289) ![](assets/new.png)  
-- [2020-06-28-「网速-&-电池」for-macOS-更新发布，前排福利送码！](https://www.v2ex.com/t/685288) ![](assets/new.png)  
-- [2020-06-28-观隐秘的角落有感：有没有开源的第三方的弹幕内容库？](https://www.v2ex.com/t/685287) ![](assets/new.png)  
-- [2020-06-28-程序员/社会的内卷化？](https://www.v2ex.com/t/685286) ![](assets/new.png)  
-- [2020-06-28-个人的工作室进行远程工作，在此期间使用盗版软件/系统是否有影响呢？](https://www.v2ex.com/t/685282) ![](assets/new.png)  
-- [2020-06-28-上班第一天感觉要跑路了](https://www.v2ex.com/t/685281) ![](assets/new.png)  
-- [2020-06-28-不懂就问系列，苹果产品的序列号意外泄漏给他人到底会不会造成危险？](https://www.v2ex.com/t/685279) ![](assets/new.png)  
-- [2020-06-28-心态崩了，-WWDC2020-是给-AirPods-施了法吗？最近疯狂出问题](https://www.v2ex.com/t/685278) ![](assets/new.png)  
-- [2020-06-28-前端技术兼职现在是不是狼多肉少](https://www.v2ex.com/t/685275) ![](assets/new.png)  
+- [2020-06-28-微博异常点赞的一些简单初步的分析，以及-chrome-内核怎样不让所有扩展访问某个域名的内容？](https://www.v2ex.com/t/685301)  
+- [2020-06-28-为什么现在发布什么帖子,下面的回复都有人说钓鱼,非常影响提问人的体验](https://www.v2ex.com/t/685300)  
+- [2020-06-28-MX2s-鼠标滚轴在电脑休眠唤醒后不工作](https://www.v2ex.com/t/685299)  
+- [2020-06-28-现在买-apple-watch5-算不算是-49-年加入国军](https://www.v2ex.com/t/685298)  
+- [2020-06-28-2020-年了，想买个电视不是只有小米最优选了吧，还有什么别的选择吗](https://www.v2ex.com/t/685297)  
+- [2020-06-28-灵魂拷问：你不刷抖音，那你平时都看什么呢？](https://www.v2ex.com/t/685296)  
+- [2020-06-28-有私活。有没有-Python-大佬接活的联系：-二四九五九零三一二八，扣扣，忘了留联系方式了](https://www.v2ex.com/t/685295)  
+- [2020-06-28-蚂蚁金服北京前端-支付宝底层埋点，流量可视化分析，-abtesting，组内招聘-快速响应](https://www.v2ex.com/t/685293)  
+- [2020-06-28-优酷直充-12-元-2-个月](https://www.v2ex.com/t/685292)  
+- [2020-06-28-V2EX-暗黑模式下节点板块的样式优化](https://www.v2ex.com/t/685291)  
+- [2020-06-28-独立开发-一个月-月报](https://www.v2ex.com/t/685290)  
+- [2020-06-28-USB-音箱音量太大的问题](https://www.v2ex.com/t/685289)  
+- [2020-06-28-「网速-&-电池」for-macOS-更新发布，前排福利送码！](https://www.v2ex.com/t/685288)  
+- [2020-06-28-观隐秘的角落有感：有没有开源的第三方的弹幕内容库？](https://www.v2ex.com/t/685287)  
+- [2020-06-28-程序员/社会的内卷化？](https://www.v2ex.com/t/685286)  
+- [2020-06-28-个人的工作室进行远程工作，在此期间使用盗版软件/系统是否有影响呢？](https://www.v2ex.com/t/685282)  
+- [2020-06-28-上班第一天感觉要跑路了](https://www.v2ex.com/t/685281)  
+- [2020-06-28-不懂就问系列，苹果产品的序列号意外泄漏给他人到底会不会造成危险？](https://www.v2ex.com/t/685279)  
+- [2020-06-28-心态崩了，-WWDC2020-是给-AirPods-施了法吗？最近疯狂出问题](https://www.v2ex.com/t/685278)  
+- [2020-06-28-前端技术兼职现在是不是狼多肉少](https://www.v2ex.com/t/685275)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

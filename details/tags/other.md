@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -5491,6 +5491,11 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30) 
+- [2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn) 
+- [2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf) 
+- [2020-06-28-普通程序员如何成长](https://toutiao.io/k/6zizwxr) 
+- [2020-06-28-Python-的类型系统](https://toutiao.io/k/zufjvwn) 
 - [2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7) 
 - [2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1) 
 - [2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw) 

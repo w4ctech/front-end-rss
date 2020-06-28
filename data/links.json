@@ -38585,6 +38585,31 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "你一定要了解的 Kubernetes",
+        "link": "https://toutiao.io/k/77gar30",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "为什么程序员应该写博客？用什么博客系统？",
+        "link": "https://toutiao.io/k/98t6shn",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "在高可用这条路上你知道 Redis 有多努力吗",
+        "link": "https://toutiao.io/k/k5h3ctf",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "普通程序员如何成长",
+        "link": "https://toutiao.io/k/6zizwxr",
+        "date": "2020-06-28"
+      },
+      {
+        "title": "Python 的类型系统",
+        "link": "https://toutiao.io/k/zufjvwn",
+        "date": "2020-06-28"
+      },
+      {
         "title": "小米 Redis 的 K8s 容器化部署实践",
         "link": "https://toutiao.io/k/mx506f7",
         "date": "2020-06-27"

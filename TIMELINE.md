@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-28 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -5425,6 +5425,11 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30) 
+- [【开发者头条】2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn) 
+- [【开发者头条】2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf) 
+- [【开发者头条】2020-06-28-普通程序员如何成长](https://toutiao.io/k/6zizwxr) 
+- [【开发者头条】2020-06-28-Python-的类型系统](https://toutiao.io/k/zufjvwn) 
 - [【开发者头条】2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7) 
 - [【开发者头条】2020-06-27-基于-BDD-理念的-UI-自动化测试在携程度假的应用](https://toutiao.io/k/3cpcaj1) 
 - [【开发者头条】2020-06-27-Golang-熔断器](https://toutiao.io/k/6hx8dcw) 

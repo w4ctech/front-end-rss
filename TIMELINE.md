@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-28 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -5446,6 +5446,8 @@
 - [【V2EX】2020-06-01-6.18-来了，免费赠送-iPhone-垃圾短信过滤-App](https://www.v2ex.com/t/677318) 
 - [【V2EX】2020-06-01-sqlalchemy-ORM-方式获取的-session.query-进行历遍？问题-2,比较-dict-和-session.query-是否相同的方法？](https://www.v2ex.com/t/677317) 
 - [【V2EX】2020-06-01-学习-vue-打包报错-vue-cli-npm-run-build-code-ELIFECYCLE](https://www.v2ex.com/t/677316) 
+- [【技术头条】2020-06-28-快应用-IDE-定制-Devtools-元素面板系列二：新增面板-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13551&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-06-28-程序化广告常见术语一览-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13550&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fprogrammatic-advertising-terminology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

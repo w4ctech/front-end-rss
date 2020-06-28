@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-28 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-28 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -5497,6 +5497,8 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-06-28-快应用-IDE-定制-Devtools-元素面板系列二：新增面板-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13551&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-28-程序化广告常见术语一览-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13550&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fprogrammatic-advertising-terminology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-23-Hotspot-GC研发工程师也许漏掉了一块逻辑-club.perfma.com](https://blogread.cn/news/go.php?idItem=13546&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F1573067%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-22-身为-Java-程序员必须掌握的-10-款开源工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13545&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp66hEJBotpRyqfC_sM1dcA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

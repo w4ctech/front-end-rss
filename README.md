@@ -11,19 +11,19 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-28 12:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-28 12:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
 - [React中文社区](#react中文社区)  
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端开发](#前端开发)![](assets/dot.png)   
+- [前端开发](#前端开发)  
 - [前端圈](#前端圈)  
 - [前端开发博客](#前端开发博客)  
 - [前端大学](#前端大学)  
@@ -45,14 +45,14 @@
 - [前端e进阶](#前端e进阶)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-韩国单日新增62例新冠肺炎确诊病例，为一周以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-美国洛杉矶县新冠肺炎住院率持续上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNfsVwyUJTDkHjXxazD5c200628&isfromapp=1) ![](assets/new.png)  
-- [2020-06-28-上海新增1例美国输入确诊病例](https://m.weibo.cn/3057540037/4520710003735860) ![](assets/new.png)  
+- [2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1)  
+- [2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1)  
+- [2020-06-28-韩国单日新增62例新冠肺炎确诊病例，为一周以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1)  
+- [2020-06-28-美国洛杉矶县新冠肺炎住院率持续上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNfsVwyUJTDkHjXxazD5c200628&isfromapp=1)  
+- [2020-06-28-上海新增1例美国输入确诊病例](https://m.weibo.cn/3057540037/4520710003735860)  
 - [2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1)  
 - [2020-06-28-北京20家医疗机构对首都高校开展核酸检测-筑牢校园防疫防火墙](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1)  
 - [2020-06-28-秘鲁或将于近期恢复部分省际交通](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1)  
@@ -281,7 +281,7 @@
 </summary>
 
 
-- [2020-06-28-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/add8beefc17fe8832c80253ef051e711) ![](assets/new.png)  
+- [2020-06-28-200-行-JS-代码，带你实现代码编译器](https://www.ershicimi.com/p/add8beefc17fe8832c80253ef051e711)  
 - [2020-06-25-Service-Worker：让你的-Web-应用牛逼起来](https://www.ershicimi.com/p/f10f554049a27ce324d37095aa6228c5)  
 - [2020-06-24-华为WEB前端全栈成长计划招募](https://www.ershicimi.com/p/2f8174707bb071ca52389c5ffd301ab7)  
 - [2020-06-24-我要穿越，干翻-“烂语言”-JavaScript！](https://www.ershicimi.com/p/3f248eb87af17fdbcb3d97ca4438b5ce)  
@@ -894,7 +894,7 @@
 </summary>
 
 
-- [2020-06-28-薅了这么久羊毛，这次让我失去了动力](https://www.ershicimi.com/p/08f4c98af22675856f44a9cc9d8f346e) ![](assets/new.png)  
+- [2020-06-28-薅了这么久羊毛，这次让我失去了动力](https://www.ershicimi.com/p/08f4c98af22675856f44a9cc9d8f346e)  
 - [2020-06-25-理解-WebView](https://www.ershicimi.com/p/7ff5db6281a9a7da2891cd3a2dfd25b2)  
 - [2020-06-24-卧槽！大厂高级前端程序员，是如何手写vue源码的？](https://www.ershicimi.com/p/e2119e9c551463a2d5e14769cb9b754e)  
 - [2020-06-23-JavaScript常用API合集汇总](https://www.ershicimi.com/p/9b82a4d7a098ff122354ffb43707145c)  
@@ -1081,6 +1081,8 @@
 </summary>
 
 
+- [2020-06-28-快应用-IDE-定制-Devtools-元素面板系列二：新增面板-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13551&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-06-28-程序化广告常见术语一览-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13550&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fprogrammatic-advertising-terminology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-24-FizzBuzz与写代码的“一万”个细节-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13548&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-code-in-right-way%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-23-震惊！我在4年前就开始体验雾游戏了！-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13547&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F150193174%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1099,8 +1101,6 @@
 - [2020-06-19-从-301-跳转，聊聊边缘规则的那些小妙用-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13534&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F149137612%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-18-从新冠疫情出发，漫谈-Gossip-协议-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13533&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F147814759%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-17-从-VSCode-看大型-IDE-技术架构-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13532&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_4Rr95QFg-S83H4kcz0u_A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-写一手烂代码的-19-条准则，你中枪了吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13531&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHkhhVmVMdjcleWTsaAwarQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-17-Flutter-概述-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13530&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxEPvdeD_Bptp3zkGRxiowg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-29 19:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-30 05:00:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1) ![](assets/new.png)  
-- [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1)  
+- [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1)  
 - [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1)  
 - [2020-06-29-6月28日6时至29日6时-天津无新增确诊病例-境外输入病例清零！](http://wsjk.tj.gov.cn/art/2020/6/29/art_87_74141.html)  
 - [2020-06-29-澳大利亚维多利亚州首席医疗官：疫情“已经到了掌控边缘”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1)  
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-29-作为程序员,有-2-个被-"逼出来"的"好习惯",-你们看看是否用得到...](https://www.v2ex.com/t/685478)  
-- [2020-06-29-访问-http-网站-会被-注入-js-如何阻止](https://www.v2ex.com/t/685477)  
-- [2020-06-29-2020-电视盒子该买哪款？](https://www.v2ex.com/t/685476)  
-- [2020-06-29-请问你们的-mbp-Chrome-浏览器在线播放油管的-4k-60fps-hdr-视频卡吗？](https://www.v2ex.com/t/685473)  
-- [2020-06-29-百度的前端水平下降了啊](https://www.v2ex.com/t/685472)  
-- [2020-06-29-挂一个咸鱼骗子，网上找了一张图片来到手刀的，世风日下呀](https://www.v2ex.com/t/685471)  
-- [2020-06-29-深圳-两年前端工作经验卑微在线求职，呜呜呜](https://www.v2ex.com/t/685470)  
-- [2020-06-29-在广州买房，要准备多少钱，月收入多少可以入手？](https://www.v2ex.com/t/685468)  
-- [2020-06-29-你们会觉得-B-站的弹幕和评论氛围有点奇怪吗？](https://www.v2ex.com/t/685467)  
-- [2020-06-29-Uptoc-v1.4.3-版本发布，支持-Typora，支持配置上传目录。](https://www.v2ex.com/t/685466)  
-- [2020-06-29-为啥-windows-不弄一个统一的-app-商店，然后所有软件都只能在-app-商店购买使用？](https://www.v2ex.com/t/685465)  
-- [2020-06-29-大家除了开发产品，有没有去深入研究下背后的商业模式呢？](https://www.v2ex.com/t/685464)  
-- [2020-06-28-DevOps-到底怎么玩？求大佬们指点](https://www.v2ex.com/t/685463)  
-- [2020-06-28-实时抓包-IPTV-生成-m3u-列表供-AppleTV-播放是否可行？](https://www.v2ex.com/t/685462)  
-- [2020-06-28-求助-V2EXer-一个老旧集群如何再利用的可行办法](https://www.v2ex.com/t/685461)  
-- [2020-06-28-PSP-是我拆过最复杂的电子设备](https://www.v2ex.com/t/685459)  
-- [2020-06-28-微信封禁了局域网-ip-192.168.1.100](https://www.v2ex.com/t/685458)  
-- [2020-06-28-Android-和-Ios-原生开发都不会，建议学-Flutter-么](https://www.v2ex.com/t/685457)  
-- [2020-06-28-发现了-Airpods-Pro-2D27-新固件的一个隐藏改动](https://www.v2ex.com/t/685456)  
-- [2020-06-28-如何开发最低成本全栈开发一个写日记，传图片，记录生活的-spa](https://www.v2ex.com/t/685455)  
+- [2020-06-30-Intel-NUC-Compute-Element](https://www.v2ex.com/t/685783) ![](assets/new.png)  
+- [2020-06-30-关于-Cloudflare-API-v4-的这种验证方式](https://www.v2ex.com/t/685782) ![](assets/new.png)  
+- [2020-06-30-请教-nginx-反代-duckduckgo-怎么处理-external-content-?](https://www.v2ex.com/t/685781) ![](assets/new.png)  
+- [2020-06-30-电脑关机变注销，需要再关一次机](https://www.v2ex.com/t/685780) ![](assets/new.png)  
+- [2020-06-30-有什么方案可以智能选择线路的？](https://www.v2ex.com/t/685779) ![](assets/new.png)  
+- [2020-06-30-最近手机-youtube-没显示任何视频广告](https://www.v2ex.com/t/685778) ![](assets/new.png)  
+- [2020-06-30-明明已经启用-Hyper-V-为何还提示无法使用](https://www.v2ex.com/t/685775) ![](assets/new.png)  
+- [2020-06-30-电信免费提-200M-结束了吗](https://www.v2ex.com/t/685774) ![](assets/new.png)  
+- [2020-06-30-MacBookPro-16-寸-闪屏问题](https://www.v2ex.com/t/685773) ![](assets/new.png)  
+- [2020-06-29-询问一下-sidecar-随航的可行性](https://www.v2ex.com/t/685771) ![](assets/new.png)  
+- [2020-06-29-想请教各位一个工厂用具管理系统能加入什么创新的功能点呢？](https://www.v2ex.com/t/685770) ![](assets/new.png)  
+- [2020-06-29-geekbench-5-developer-transition-kit-跑分出来了](https://www.v2ex.com/t/685769) ![](assets/new.png)  
+- [2020-06-29-在安全区外做交互按钮的-Darkroom-拿了苹果设计奖…迷惑](https://www.v2ex.com/t/685767) ![](assets/new.png)  
+- [2020-06-29-关于系统平滑字体](https://www.v2ex.com/t/685766) ![](assets/new.png)  
+- [2020-06-29-一个长辈每天在微信家族群转发几十条的新闻怎么办？](https://www.v2ex.com/t/685765) ![](assets/new.png)  
+- [2020-06-29-美区，每季度-55，想上车的留下-tg](https://www.v2ex.com/t/685764) ![](assets/new.png)  
+- [2020-06-29-新公司业务完全没接触过，没参考，没人带，工期紧，该怎么办？](https://www.v2ex.com/t/685762) ![](assets/new.png)  
+- [2020-06-29-互联网广告价格好贵啊-，-V-站大佬们刚开始创业时候是怎么做推广呢？](https://www.v2ex.com/t/685761) ![](assets/new.png)  
+- [2020-06-29-anaconda-现在哪个镜像能用？](https://www.v2ex.com/t/685760) ![](assets/new.png)  
+- [2020-06-29-话费充值-api-咨询，公司要做活动，需要充值话费，搜索了下站内站外都没有找到合适的，有-v-友有推荐的吗？感谢。](https://www.v2ex.com/t/685759) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

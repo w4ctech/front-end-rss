@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-29 19:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-30 05:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -588,6 +588,7 @@
 - [【InfoQ】NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)
 - [【InfoQ】用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)
 - [【掘金前端】Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5)
+- [【V2EX】请教-nginx-反代-duckduckgo-怎么处理-external-content-?](https://www.v2ex.com/t/685781)
 - [【V2EX】Docker-Desktop-for-Window-会创建如下两个发行版（distro）到底是什么鬼?](https://www.v2ex.com/t/684800)
 - [【V2EX】OpenWrt-中-使用-Docker-安装可道云出错。](https://www.v2ex.com/t/684544)
 - [【V2EX】发现-Pinterest-上的广告很有创意](https://www.v2ex.com/t/683798)
@@ -598,7 +599,6 @@
 - [【V2EX】求教在-docker-容器内部如何获取宿主机的-ip](https://www.v2ex.com/t/683242)
 - [【V2EX】现在网站前面普遍都套了个-cdn，那么用-caddy，-nginx，或者-直接-用对应框架默认的-web-服务器，几乎都没...](https://www.v2ex.com/t/683164)
 - [【V2EX】有没有用过-Docker-Engine-API-的弟兄～问一个小问题](https://www.v2ex.com/t/682471)
-- [【V2EX】请教一个-iptables-相关问题，关于本机端口映射到-Docker-容器端口的疑惑](https://www.v2ex.com/t/682414)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

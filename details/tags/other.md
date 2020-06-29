@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-29 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 12:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-29-澳大利亚维多利亚州首席医疗官：疫情“已经到了掌控边缘”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1) 
+- [2020-06-29-福建：中高考期间-涉考食品从业人员核酸“应检尽检”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8fR6bg7BsoXyYzBNu6x200629&isfromapp=1) 
 - [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1) 
 - [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1) 
 - [2020-06-28-北京首个农贸市场核酸快检站](https://m.weibo.cn/2656274875/4520877028403355) 

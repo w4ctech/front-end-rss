@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-29 09:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-29 12:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-29-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200629_1933999.html) ![](assets/new.png)  
+- [2020-06-29-澳大利亚维多利亚州首席医疗官：疫情“已经到了掌控边缘”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-福建：中高考期间-涉考食品从业人员核酸“应检尽检”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8fR6bg7BsoXyYzBNu6x200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200629_1933999.html)  
 - [2020-06-29-根据丁香园统计，截止6月29日凌晨，全球新冠肺炎累计确诊超过1000万例，累计死亡超过50万例。]()  
 - [2020-06-29-智利北部安托法加斯塔大区新冠肺炎平均感染率超过首都圣地亚哥](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidxxeg60qWGSTbzwyj2aL200629&isfromapp=1)  
 - [2020-06-29-秘鲁政府28日进行全民手机问卷调查-了解民众健康安全等状况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1)  
 - [2020-06-28-印度新确诊-19906-例，系单日最大增幅](https://m.weibo.cn/3057540037/4520780823831858)  
 - [2020-06-28-东京解禁后疫情反弹严重：多数病例为年轻人，感染途径成谜](https://m.weibo.cn/3057540037/4520775790805161)  
-- [2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1)  
-- [2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

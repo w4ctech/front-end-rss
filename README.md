@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-29 07:00:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-29 08:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-06-29-根据丁香园统计，截止6月29日凌晨，全球新冠肺炎累计确诊超过1000万例，累计死亡超过50万例。]() ![](assets/new.png)  
+- [2020-06-29-智利北部安托法加斯塔大区新冠肺炎平均感染率超过首都圣地亚哥](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidxxeg60qWGSTbzwyj2aL200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-秘鲁政府28日进行全民手机问卷调查-了解民众健康安全等状况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1) ![](assets/new.png)  
 - [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1)  
 - [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1)  
 - [2020-06-28-科威特新增551例新冠肺炎确诊病例-累计44942例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93Oz2h8pjkQGr0ug0ErF200628&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-06-28-多地推出多种优惠措施提振消费信心-端午市场回暖迹象明显](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1)  
 - [2020-06-28-巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1)  
 - [2020-06-28-韩国单日新增62例新冠肺炎确诊病例，为一周以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1)  
-- [2020-06-28-美国洛杉矶县新冠肺炎住院率持续上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNfsVwyUJTDkHjXxazD5c200628&isfromapp=1)  
-- [2020-06-28-上海新增1例美国输入确诊病例](https://m.weibo.cn/3057540037/4520710003735860)  
-- [2020-06-28-美国迈阿密戴德县将在国庆节假日期间关闭所有海滩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-29-作为程序员,有-2-个被-"逼出来"的"好习惯",-你们看看是否用得到...](https://www.v2ex.com/t/685478) ![](assets/new.png)  
-- [2020-06-29-访问-http-网站-会被-注入-js-如何阻止](https://www.v2ex.com/t/685477) ![](assets/new.png)  
-- [2020-06-29-2020-电视盒子该买哪款？](https://www.v2ex.com/t/685476) ![](assets/new.png)  
-- [2020-06-29-请问你们的-mbp-Chrome-浏览器在线播放油管的-4k-60fps-hdr-视频卡吗？](https://www.v2ex.com/t/685473) ![](assets/new.png)  
-- [2020-06-29-百度的前端水平下降了啊](https://www.v2ex.com/t/685472) ![](assets/new.png)  
-- [2020-06-29-挂一个咸鱼骗子，网上找了一张图片来到手刀的，世风日下呀](https://www.v2ex.com/t/685471) ![](assets/new.png)  
-- [2020-06-29-深圳-两年前端工作经验卑微在线求职，呜呜呜](https://www.v2ex.com/t/685470) ![](assets/new.png)  
-- [2020-06-29-在广州买房，要准备多少钱，月收入多少可以入手？](https://www.v2ex.com/t/685468) ![](assets/new.png)  
-- [2020-06-29-你们会觉得-B-站的弹幕和评论氛围有点奇怪吗？](https://www.v2ex.com/t/685467) ![](assets/new.png)  
-- [2020-06-29-Uptoc-v1.4.3-版本发布，支持-Typora，支持配置上传目录。](https://www.v2ex.com/t/685466) ![](assets/new.png)  
-- [2020-06-29-为啥-windows-不弄一个统一的-app-商店，然后所有软件都只能在-app-商店购买使用？](https://www.v2ex.com/t/685465) ![](assets/new.png)  
-- [2020-06-29-大家除了开发产品，有没有去深入研究下背后的商业模式呢？](https://www.v2ex.com/t/685464) ![](assets/new.png)  
-- [2020-06-28-DevOps-到底怎么玩？求大佬们指点](https://www.v2ex.com/t/685463) ![](assets/new.png)  
-- [2020-06-28-实时抓包-IPTV-生成-m3u-列表供-AppleTV-播放是否可行？](https://www.v2ex.com/t/685462) ![](assets/new.png)  
-- [2020-06-28-求助-V2EXer-一个老旧集群如何再利用的可行办法](https://www.v2ex.com/t/685461) ![](assets/new.png)  
-- [2020-06-28-PSP-是我拆过最复杂的电子设备](https://www.v2ex.com/t/685459) ![](assets/new.png)  
-- [2020-06-28-微信封禁了局域网-ip-192.168.1.100](https://www.v2ex.com/t/685458) ![](assets/new.png)  
-- [2020-06-28-Android-和-Ios-原生开发都不会，建议学-Flutter-么](https://www.v2ex.com/t/685457) ![](assets/new.png)  
-- [2020-06-28-发现了-Airpods-Pro-2D27-新固件的一个隐藏改动](https://www.v2ex.com/t/685456) ![](assets/new.png)  
-- [2020-06-28-如何开发最低成本全栈开发一个写日记，传图片，记录生活的-spa](https://www.v2ex.com/t/685455) ![](assets/new.png)  
+- [2020-06-29-作为程序员,有-2-个被-"逼出来"的"好习惯",-你们看看是否用得到...](https://www.v2ex.com/t/685478)  
+- [2020-06-29-访问-http-网站-会被-注入-js-如何阻止](https://www.v2ex.com/t/685477)  
+- [2020-06-29-2020-电视盒子该买哪款？](https://www.v2ex.com/t/685476)  
+- [2020-06-29-请问你们的-mbp-Chrome-浏览器在线播放油管的-4k-60fps-hdr-视频卡吗？](https://www.v2ex.com/t/685473)  
+- [2020-06-29-百度的前端水平下降了啊](https://www.v2ex.com/t/685472)  
+- [2020-06-29-挂一个咸鱼骗子，网上找了一张图片来到手刀的，世风日下呀](https://www.v2ex.com/t/685471)  
+- [2020-06-29-深圳-两年前端工作经验卑微在线求职，呜呜呜](https://www.v2ex.com/t/685470)  
+- [2020-06-29-在广州买房，要准备多少钱，月收入多少可以入手？](https://www.v2ex.com/t/685468)  
+- [2020-06-29-你们会觉得-B-站的弹幕和评论氛围有点奇怪吗？](https://www.v2ex.com/t/685467)  
+- [2020-06-29-Uptoc-v1.4.3-版本发布，支持-Typora，支持配置上传目录。](https://www.v2ex.com/t/685466)  
+- [2020-06-29-为啥-windows-不弄一个统一的-app-商店，然后所有软件都只能在-app-商店购买使用？](https://www.v2ex.com/t/685465)  
+- [2020-06-29-大家除了开发产品，有没有去深入研究下背后的商业模式呢？](https://www.v2ex.com/t/685464)  
+- [2020-06-28-DevOps-到底怎么玩？求大佬们指点](https://www.v2ex.com/t/685463)  
+- [2020-06-28-实时抓包-IPTV-生成-m3u-列表供-AppleTV-播放是否可行？](https://www.v2ex.com/t/685462)  
+- [2020-06-28-求助-V2EXer-一个老旧集群如何再利用的可行办法](https://www.v2ex.com/t/685461)  
+- [2020-06-28-PSP-是我拆过最复杂的电子设备](https://www.v2ex.com/t/685459)  
+- [2020-06-28-微信封禁了局域网-ip-192.168.1.100](https://www.v2ex.com/t/685458)  
+- [2020-06-28-Android-和-Ios-原生开发都不会，建议学-Flutter-么](https://www.v2ex.com/t/685457)  
+- [2020-06-28-发现了-Airpods-Pro-2D27-新固件的一个隐藏改动](https://www.v2ex.com/t/685456)  
+- [2020-06-28-如何开发最低成本全栈开发一个写日记，传图片，记录生活的-spa](https://www.v2ex.com/t/685455)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-29 07:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -510,6 +510,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://china.caixin.com/2020-04-13/101541775.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html)
 - [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://china.caixin.com/2020-02-07/101512825.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁政府28日进行全民手机问卷调查-了解民众健康安全等状况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1)
 - [【前端早读课】【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6)
@@ -526,7 +527,6 @@
 - [【前端之巅】8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)
 - [【前端迷】浏览器缓存机制](https://www.ershicimi.com/p/d82bfa8d8ce06bd661a20700639532ff)
 - [【前端迷】常见面试题：Web安全的三个攻防姿势](https://www.ershicimi.com/p/c574c9f776583c917cd8940a89440643)
-- [【全栈前端精选】10-种跨域解决方案（附终极方案）](https://www.ershicimi.com/p/d58447e8f1de9215c50487246e6256a7)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

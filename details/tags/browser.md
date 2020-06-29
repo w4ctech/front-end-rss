@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-29 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-29 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -10,6 +10,7 @@
 - [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://china.caixin.com/2020-04-13/101541775.html) 
 - [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](http://www.caixin.com/2020-04-07/101539735.html) 
 - [2020-02-07-马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://china.caixin.com/2020-02-07/101512825.html) 
+- [2020-06-29-秘鲁政府28日进行全民手机问卷调查-了解民众健康安全等状况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1) 
 - [2020-06-21-埃及安全部门持续打击违反宵禁规定行为](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1) 
 - [2020-06-14-北京：朝阳区全覆盖检查保食品安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1) 
 - [2020-06-21-【第1982期】前端架构101：从-Flux-进化到-Model-View-Presenter](https://www.ershicimi.com/p/fde41f2420fe5f83bdece4aa6b9e45b6) 

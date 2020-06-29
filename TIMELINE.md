@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-29 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-29 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-6月28日6时至29日6时-天津无新增确诊病例-境外输入病例清零！](http://wsjk.tj.gov.cn/art/2020/6/29/art_87_74141.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-澳大利亚维多利亚州首席医疗官：疫情“已经到了掌控边缘”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1) 

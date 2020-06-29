@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-29 17:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-29 19:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1) ![](assets/new.png)  
+- [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1)  
 - [2020-06-29-6月28日6时至29日6时-天津无新增确诊病例-境外输入病例清零！](http://wsjk.tj.gov.cn/art/2020/6/29/art_87_74141.html)  
 - [2020-06-29-澳大利亚维多利亚州首席医疗官：疫情“已经到了掌控边缘”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1)  
 - [2020-06-29-福建：中高考期间-涉考食品从业人员核酸“应检尽检”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8fR6bg7BsoXyYzBNu6x200629&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1)  
 - [2020-06-28-北京：26、27-日丰台新增确诊病例-25-例均来自集中隔离点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1)  
 - [2020-06-28-北京通报-27-日新冠肺炎新增确诊病例详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihryZG6Iwcjtf2LPZBpA7200628&isfromapp=1)  
-- [2020-06-28-拟将新冠肺炎纳入妨害传染病防治罪调整范围](https://m.weibo.cn/2656274875/4520791020515509)  
-- [2020-06-28-疫情持续蔓延，巴西经济不堪重负](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

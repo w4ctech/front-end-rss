@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-30 09:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-30 09:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1) ![](assets/new.png)  
+- [2020-06-30-截至6月29日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/410528.jhtml) ![](assets/new.png)  
+- [2020-06-30-世卫称疫情正在加速传播，世卫称未来几个月与病毒共存是新常态](https://m.weibo.cn/2803301701/4521431558526998) ![](assets/new.png)  
+- [2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1)  
 - [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1)  
 - [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1)  
 - [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-28-日本一娱乐场所暴发集体感染，33-人确诊，1-人死亡](https://m.weibo.cn/3057540037/4520851292399949)  
 - [2020-06-28-北京：进京蔬菜累计调运-11910-吨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGwJB22273aaBmemAJaq200628&isfromapp=1)  
 - [2020-06-28-北京：日最大核酸检测量达-45.8-万份，日最高检测-108.4-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIgglF5RRmYu9cRcJ0LsZ200628&isfromapp=1)  
-- [2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1)  
-- [2020-06-28-北京：26、27-日丰台新增确诊病例-25-例均来自集中隔离点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,16 +1112,16 @@
 </summary>
 
 
-- [2020-06-30-白话布隆过滤器](https://toutiao.io/k/bg2pke6) ![](assets/new.png)  
-- [2020-06-30-彻底理解-IO多路复用](https://toutiao.io/k/rfgmr9h) ![](assets/new.png)  
-- [2020-06-30-译-使用-Prometheus-Operator-监控-Calico](https://toutiao.io/k/v630guf) ![](assets/new.png)  
-- [2020-06-30-Minikube：运行在笔记本上的-Kubernetes-集群](https://toutiao.io/k/bpgpk6t) ![](assets/new.png)  
-- [2020-06-30-从前端角度看企业软件的研发过程](https://toutiao.io/k/74uos81) ![](assets/new.png)  
-- [2020-06-30-fastjson-的这些坑，你误入了没？](https://toutiao.io/k/93h9f1e) ![](assets/new.png)  
-- [2020-06-30-走进-Golang-之-Channel-的数据结构](https://toutiao.io/k/m6tuje5) ![](assets/new.png)  
-- [2020-06-30-一文凑齐四种变量转换方法](https://toutiao.io/k/zvj72hb) ![](assets/new.png)  
-- [2020-06-30-jvm-sandbox-repeater-http-回放的-“陷阱”-与源码研读](https://toutiao.io/k/9rlbjxo) ![](assets/new.png)  
-- [2020-06-30-网络安全架构：安全框架之综述](https://toutiao.io/k/6ifccbz) ![](assets/new.png)  
+- [2020-06-30-白话布隆过滤器](https://toutiao.io/k/bg2pke6)  
+- [2020-06-30-彻底理解-IO多路复用](https://toutiao.io/k/rfgmr9h)  
+- [2020-06-30-译-使用-Prometheus-Operator-监控-Calico](https://toutiao.io/k/v630guf)  
+- [2020-06-30-Minikube：运行在笔记本上的-Kubernetes-集群](https://toutiao.io/k/bpgpk6t)  
+- [2020-06-30-从前端角度看企业软件的研发过程](https://toutiao.io/k/74uos81)  
+- [2020-06-30-fastjson-的这些坑，你误入了没？](https://toutiao.io/k/93h9f1e)  
+- [2020-06-30-走进-Golang-之-Channel-的数据结构](https://toutiao.io/k/m6tuje5)  
+- [2020-06-30-一文凑齐四种变量转换方法](https://toutiao.io/k/zvj72hb)  
+- [2020-06-30-jvm-sandbox-repeater-http-回放的-“陷阱”-与源码研读](https://toutiao.io/k/9rlbjxo)  
+- [2020-06-30-网络安全架构：安全框架之综述](https://toutiao.io/k/6ifccbz)  
 - [2020-06-28-Apache-Zeppelin：可能是开源届最好的-Flink-开发平台](https://toutiao.io/k/afvw5iv)  
 - [2020-06-28-苹果宣布-Mac-放弃-x86-转向-ARM：看看你要补充学习知识吗？](https://toutiao.io/k/iw7njzt)  
 - [2020-06-28-FizzBuzz-与写代码的-“一万”-个细节](https://toutiao.io/k/nx5k3ra)  

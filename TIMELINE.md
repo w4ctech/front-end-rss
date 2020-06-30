@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-30 21:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-01 00:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -302,6 +302,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-香港新增2例新冠肺炎确诊病例-累计确诊1205例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQrV5j3TsDQNP0vBUp1lt200630&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-巴西里约方舱医院建设延期两个月-5座尚未完工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66PLfBHNLGfDPYXIgvCX200630&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-加拿大国内生产总值三、四月合计下跌近20％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuzJIQRTFP9yUignQg2vB200630&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-巴西近3个月失业率为12.9%-为2018年3月以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLMkSvT9yjPQYz5pF07f200630&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-国际劳工组织：疫情对劳动力市场的影响比预期更为严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif7kRCcstnFXhWWV3lZft200630&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-北京又有3地降为低风险，目前34个中高风险地区](https://m.weibo.cn/2803301701/4521588546965094) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-印尼新增1293例新冠肺炎确诊病例-累计确诊56385例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5h8QEKgirQpm501bJTY200630&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-上海市下调新冠病毒核酸检测项目价格](http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html) 

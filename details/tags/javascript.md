@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-01 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-01 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -77,6 +77,7 @@
 - [2020-06-01-原生JS封装拖动验证滑块你会吗？](https://www.ershicimi.com/p/4427b32b6c8cfddaa768f0670c7f8eae) 
 - [2020-05-26-我和大佬之间差一个JS工具函数大全..建议收藏](https://www.ershicimi.com/p/721383a0aa747cc9dad3e09c03426acb) 
 - [2020-05-21-JSON.stringify-的-5-个秘密特性](https://www.ershicimi.com/p/6a33e1a04d4f90c93d1f71534e7f9690) 
+- [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 

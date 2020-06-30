@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-30 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-30 19:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-06-30-上海市下调新冠病毒核酸检测项目价格](http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html) ![](assets/new.png)  
-- [2020-06-30-俄罗斯新增6693例新冠肺炎确诊病例-累计确诊647849例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZmjp0NXEWxmXVfuoCx1200630&isfromapp=1) ![](assets/new.png)  
-- [2020-06-30-印度新增18522例新冠肺炎病例-累计566840例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibPOqSjyPucxFv2XHV62c200630&isfromapp=1) ![](assets/new.png)  
+- [2020-06-30-北京又有3地降为低风险，目前34个中高风险地区](https://m.weibo.cn/2803301701/4521588546965094) ![](assets/new.png)  
+- [2020-06-30-印尼新增1293例新冠肺炎确诊病例-累计确诊56385例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5h8QEKgirQpm501bJTY200630&isfromapp=1) ![](assets/new.png)  
+- [2020-06-30-上海市下调新冠病毒核酸检测项目价格](http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html)  
+- [2020-06-30-俄罗斯新增6693例新冠肺炎确诊病例-累计确诊647849例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZmjp0NXEWxmXVfuoCx1200630&isfromapp=1)  
+- [2020-06-30-印度新增18522例新冠肺炎病例-累计566840例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibPOqSjyPucxFv2XHV62c200630&isfromapp=1)  
 - [2020-06-30-吴尊友说全球疫情第一波根本还没过](https://m.weibo.cn/3057540037/4521468095273437)  
 - [2020-06-30-真相丨美国多州疫情反弹-美媒称美国抗疫遭遇“历史性失败”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1)  
 - [2020-06-30-日本完全失业率升至2.9%-疫情期间就业形势连续3个月恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-29-北京昨日新增报告7例新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200629_1933999.html)  
 - [2020-06-29-根据丁香园统计，截止6月29日凌晨，全球新冠肺炎累计确诊超过1000万例，累计死亡超过50万例。]()  
 - [2020-06-29-智利北部安托法加斯塔大区新冠肺炎平均感染率超过首都圣地亚哥](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidxxeg60qWGSTbzwyj2aL200629&isfromapp=1)  
-- [2020-06-29-秘鲁政府28日进行全民手机问卷调查-了解民众健康安全等状况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1)  
-- [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

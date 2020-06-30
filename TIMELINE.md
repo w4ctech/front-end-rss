@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-30 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-30 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-真相丨美国多州疫情反弹-美媒称美国抗疫遭遇“历史性失败”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-日本完全失业率升至2.9%-疫情期间就业形势连续3个月恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-截至6月29日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/410528.jhtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-世卫称疫情正在加速传播，世卫称未来几个月与病毒共存是新常态](https://m.weibo.cn/2803301701/4521431558526998) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1) 

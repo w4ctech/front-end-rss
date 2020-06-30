@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-30 11:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-30 13:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-06-30-真相丨美国多州疫情反弹-美媒称美国抗疫遭遇“历史性失败”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1) ![](assets/new.png)  
-- [2020-06-30-日本完全失业率升至2.9%-疫情期间就业形势连续3个月恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1) ![](assets/new.png)  
+- [2020-06-30-吴尊友说全球疫情第一波根本还没过](https://m.weibo.cn/3057540037/4521468095273437) ![](assets/new.png)  
+- [2020-06-30-真相丨美国多州疫情反弹-美媒称美国抗疫遭遇“历史性失败”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1)  
+- [2020-06-30-日本完全失业率升至2.9%-疫情期间就业形势连续3个月恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1)  
 - [2020-06-30-截至6月29日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/410528.jhtml)  
 - [2020-06-30-世卫称疫情正在加速传播，世卫称未来几个月与病毒共存是新常态](https://m.weibo.cn/2803301701/4521431558526998)  
 - [2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1)  
 - [2020-06-28-科威特新增551例新冠肺炎确诊病例-累计44942例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93Oz2h8pjkQGr0ug0ErF200628&isfromapp=1)  
 - [2020-06-28-北京首个农贸市场核酸快检站](https://m.weibo.cn/2656274875/4520877028403355)  
-- [2020-06-28-日本一娱乐场所暴发集体感染，33-人确诊，1-人死亡](https://m.weibo.cn/3057540037/4520851292399949)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

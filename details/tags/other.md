@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-30 05:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-30 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1) 
 - [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1) 
 - [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1) 
 - [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1) 
@@ -5685,6 +5686,12 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-06-30-白话布隆过滤器](https://toutiao.io/k/bg2pke6) 
+- [2020-06-30-彻底理解-IO多路复用](https://toutiao.io/k/rfgmr9h) 
+- [2020-06-30-译-使用-Prometheus-Operator-监控-Calico](https://toutiao.io/k/v630guf) 
+- [2020-06-30-Minikube：运行在笔记本上的-Kubernetes-集群](https://toutiao.io/k/bpgpk6t) 
+- [2020-06-30-从前端角度看企业软件的研发过程](https://toutiao.io/k/74uos81) 
+- [2020-06-30-走进-Golang-之-Channel-的数据结构](https://toutiao.io/k/m6tuje5) 
 - [2020-06-28-Apache-Zeppelin：可能是开源届最好的-Flink-开发平台](https://toutiao.io/k/afvw5iv) 
 - [2020-06-28-苹果宣布-Mac-放弃-x86-转向-ARM：看看你要补充学习知识吗？](https://toutiao.io/k/iw7njzt) 
 - [2020-06-28-FizzBuzz-与写代码的-“一万”-个细节](https://toutiao.io/k/nx5k3ra) 

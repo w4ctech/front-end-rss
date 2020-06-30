@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-30 05:00:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-30 09:00:21，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1) ![](assets/new.png)  
 - [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1)  
 - [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1)  
 - [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-28-北京：日最大核酸检测量达-45.8-万份，日最高检测-108.4-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIgglF5RRmYu9cRcJ0LsZ200628&isfromapp=1)  
 - [2020-06-28-北京：基本完成应检尽检人员动态清零，累计完成采样-829.9-万人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1)  
 - [2020-06-28-北京：26、27-日丰台新增确诊病例-25-例均来自集中隔离点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1)  
-- [2020-06-28-北京通报-27-日新冠肺炎新增确诊病例详情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihryZG6Iwcjtf2LPZBpA7200628&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1050,26 +1050,26 @@
 </summary>
 
 
-- [2020-06-30-Intel-NUC-Compute-Element](https://www.v2ex.com/t/685783) ![](assets/new.png)  
-- [2020-06-30-关于-Cloudflare-API-v4-的这种验证方式](https://www.v2ex.com/t/685782) ![](assets/new.png)  
-- [2020-06-30-请教-nginx-反代-duckduckgo-怎么处理-external-content-?](https://www.v2ex.com/t/685781) ![](assets/new.png)  
-- [2020-06-30-电脑关机变注销，需要再关一次机](https://www.v2ex.com/t/685780) ![](assets/new.png)  
-- [2020-06-30-有什么方案可以智能选择线路的？](https://www.v2ex.com/t/685779) ![](assets/new.png)  
-- [2020-06-30-最近手机-youtube-没显示任何视频广告](https://www.v2ex.com/t/685778) ![](assets/new.png)  
-- [2020-06-30-明明已经启用-Hyper-V-为何还提示无法使用](https://www.v2ex.com/t/685775) ![](assets/new.png)  
-- [2020-06-30-电信免费提-200M-结束了吗](https://www.v2ex.com/t/685774) ![](assets/new.png)  
-- [2020-06-30-MacBookPro-16-寸-闪屏问题](https://www.v2ex.com/t/685773) ![](assets/new.png)  
-- [2020-06-29-询问一下-sidecar-随航的可行性](https://www.v2ex.com/t/685771) ![](assets/new.png)  
-- [2020-06-29-想请教各位一个工厂用具管理系统能加入什么创新的功能点呢？](https://www.v2ex.com/t/685770) ![](assets/new.png)  
-- [2020-06-29-geekbench-5-developer-transition-kit-跑分出来了](https://www.v2ex.com/t/685769) ![](assets/new.png)  
-- [2020-06-29-在安全区外做交互按钮的-Darkroom-拿了苹果设计奖…迷惑](https://www.v2ex.com/t/685767) ![](assets/new.png)  
-- [2020-06-29-关于系统平滑字体](https://www.v2ex.com/t/685766) ![](assets/new.png)  
-- [2020-06-29-一个长辈每天在微信家族群转发几十条的新闻怎么办？](https://www.v2ex.com/t/685765) ![](assets/new.png)  
-- [2020-06-29-美区，每季度-55，想上车的留下-tg](https://www.v2ex.com/t/685764) ![](assets/new.png)  
-- [2020-06-29-新公司业务完全没接触过，没参考，没人带，工期紧，该怎么办？](https://www.v2ex.com/t/685762) ![](assets/new.png)  
-- [2020-06-29-互联网广告价格好贵啊-，-V-站大佬们刚开始创业时候是怎么做推广呢？](https://www.v2ex.com/t/685761) ![](assets/new.png)  
-- [2020-06-29-anaconda-现在哪个镜像能用？](https://www.v2ex.com/t/685760) ![](assets/new.png)  
-- [2020-06-29-话费充值-api-咨询，公司要做活动，需要充值话费，搜索了下站内站外都没有找到合适的，有-v-友有推荐的吗？感谢。](https://www.v2ex.com/t/685759) ![](assets/new.png)  
+- [2020-06-30-Intel-NUC-Compute-Element](https://www.v2ex.com/t/685783)  
+- [2020-06-30-关于-Cloudflare-API-v4-的这种验证方式](https://www.v2ex.com/t/685782)  
+- [2020-06-30-请教-nginx-反代-duckduckgo-怎么处理-external-content-?](https://www.v2ex.com/t/685781)  
+- [2020-06-30-电脑关机变注销，需要再关一次机](https://www.v2ex.com/t/685780)  
+- [2020-06-30-有什么方案可以智能选择线路的？](https://www.v2ex.com/t/685779)  
+- [2020-06-30-最近手机-youtube-没显示任何视频广告](https://www.v2ex.com/t/685778)  
+- [2020-06-30-明明已经启用-Hyper-V-为何还提示无法使用](https://www.v2ex.com/t/685775)  
+- [2020-06-30-电信免费提-200M-结束了吗](https://www.v2ex.com/t/685774)  
+- [2020-06-30-MacBookPro-16-寸-闪屏问题](https://www.v2ex.com/t/685773)  
+- [2020-06-29-询问一下-sidecar-随航的可行性](https://www.v2ex.com/t/685771)  
+- [2020-06-29-想请教各位一个工厂用具管理系统能加入什么创新的功能点呢？](https://www.v2ex.com/t/685770)  
+- [2020-06-29-geekbench-5-developer-transition-kit-跑分出来了](https://www.v2ex.com/t/685769)  
+- [2020-06-29-在安全区外做交互按钮的-Darkroom-拿了苹果设计奖…迷惑](https://www.v2ex.com/t/685767)  
+- [2020-06-29-关于系统平滑字体](https://www.v2ex.com/t/685766)  
+- [2020-06-29-一个长辈每天在微信家族群转发几十条的新闻怎么办？](https://www.v2ex.com/t/685765)  
+- [2020-06-29-美区，每季度-55，想上车的留下-tg](https://www.v2ex.com/t/685764)  
+- [2020-06-29-新公司业务完全没接触过，没参考，没人带，工期紧，该怎么办？](https://www.v2ex.com/t/685762)  
+- [2020-06-29-互联网广告价格好贵啊-，-V-站大佬们刚开始创业时候是怎么做推广呢？](https://www.v2ex.com/t/685761)  
+- [2020-06-29-anaconda-现在哪个镜像能用？](https://www.v2ex.com/t/685760)  
+- [2020-06-29-话费充值-api-咨询，公司要做活动，需要充值话费，搜索了下站内站外都没有找到合适的，有-v-友有推荐的吗？感谢。](https://www.v2ex.com/t/685759)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1112,6 +1112,16 @@
 </summary>
 
 
+- [2020-06-30-白话布隆过滤器](https://toutiao.io/k/bg2pke6) ![](assets/new.png)  
+- [2020-06-30-彻底理解-IO多路复用](https://toutiao.io/k/rfgmr9h) ![](assets/new.png)  
+- [2020-06-30-译-使用-Prometheus-Operator-监控-Calico](https://toutiao.io/k/v630guf) ![](assets/new.png)  
+- [2020-06-30-Minikube：运行在笔记本上的-Kubernetes-集群](https://toutiao.io/k/bpgpk6t) ![](assets/new.png)  
+- [2020-06-30-从前端角度看企业软件的研发过程](https://toutiao.io/k/74uos81) ![](assets/new.png)  
+- [2020-06-30-fastjson-的这些坑，你误入了没？](https://toutiao.io/k/93h9f1e) ![](assets/new.png)  
+- [2020-06-30-走进-Golang-之-Channel-的数据结构](https://toutiao.io/k/m6tuje5) ![](assets/new.png)  
+- [2020-06-30-一文凑齐四种变量转换方法](https://toutiao.io/k/zvj72hb) ![](assets/new.png)  
+- [2020-06-30-jvm-sandbox-repeater-http-回放的-“陷阱”-与源码研读](https://toutiao.io/k/9rlbjxo) ![](assets/new.png)  
+- [2020-06-30-网络安全架构：安全框架之综述](https://toutiao.io/k/6ifccbz) ![](assets/new.png)  
 - [2020-06-28-Apache-Zeppelin：可能是开源届最好的-Flink-开发平台](https://toutiao.io/k/afvw5iv)  
 - [2020-06-28-苹果宣布-Mac-放弃-x86-转向-ARM：看看你要补充学习知识吗？](https://toutiao.io/k/iw7njzt)  
 - [2020-06-28-FizzBuzz-与写代码的-“一万”-个细节](https://toutiao.io/k/nx5k3ra)  
@@ -1122,16 +1132,6 @@
 - [2020-06-28-演讲、体验、技术，苹果-WWDC-2020-全球开发者大会有感](https://toutiao.io/k/5xfey35)  
 - [2020-06-28-一文读懂-JavaScript-深拷贝与浅拷贝](https://toutiao.io/k/41zb5jj)  
 - [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1)  
-- [2020-06-28-CPU-明明-8-个核，网卡为啥拼命折腾一号核？](https://toutiao.io/k/g3qb5o1)  
-- [2020-06-28-思考：如何保证服务稳定性？](https://toutiao.io/k/qu1w0gd)  
-- [2020-06-28-不聊原理，拿来即用的线程池最佳实践](https://toutiao.io/k/eou72ij)  
-- [2020-06-28-快速打造属于你的接口自动化测试框架](https://toutiao.io/k/5v0mnbm)  
-- [2020-06-28-你一定要了解的-Kubernetes](https://toutiao.io/k/77gar30)  
-- [2020-06-28-为什么程序员应该写博客？用什么博客系统？](https://toutiao.io/k/98t6shn)  
-- [2020-06-28-在高可用这条路上你知道-Redis-有多努力吗](https://toutiao.io/k/k5h3ctf)  
-- [2020-06-28-普通程序员如何成长](https://toutiao.io/k/6zizwxr)  
-- [2020-06-28-Python-的类型系统](https://toutiao.io/k/zufjvwn)  
-- [2020-06-27-小米-Redis-的-K8s-容器化部署实践](https://toutiao.io/k/mx506f7)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

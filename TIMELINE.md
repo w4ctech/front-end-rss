@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-30 05:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-30 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -291,6 +291,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-12-西城区区长回应新增病例-辟谣不实传闻称应坦然面对](http://www.caixin.com/2020-06-12/101566188.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-11-北京西城区新增1例新冠肺炎确诊病例](http://china.caixin.com/2020-06-11/101565962.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1) 
@@ -5668,6 +5669,16 @@
 - [【技术头条】2020-06-01-SSO里面的SAML和OIDC到底讲了啥-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13489&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp72kiMYioBkHRHKOXkxJ-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-快应用开发工具-3.0-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13488&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-06-30-白话布隆过滤器](https://toutiao.io/k/bg2pke6) 
+- [【开发者头条】2020-06-30-彻底理解-IO多路复用](https://toutiao.io/k/rfgmr9h) 
+- [【开发者头条】2020-06-30-译-使用-Prometheus-Operator-监控-Calico](https://toutiao.io/k/v630guf) 
+- [【开发者头条】2020-06-30-Minikube：运行在笔记本上的-Kubernetes-集群](https://toutiao.io/k/bpgpk6t) 
+- [【开发者头条】2020-06-30-从前端角度看企业软件的研发过程](https://toutiao.io/k/74uos81) 
+- [【开发者头条】2020-06-30-fastjson-的这些坑，你误入了没？](https://toutiao.io/k/93h9f1e) 
+- [【开发者头条】2020-06-30-走进-Golang-之-Channel-的数据结构](https://toutiao.io/k/m6tuje5) 
+- [【开发者头条】2020-06-30-一文凑齐四种变量转换方法](https://toutiao.io/k/zvj72hb) 
+- [【开发者头条】2020-06-30-jvm-sandbox-repeater-http-回放的-“陷阱”-与源码研读](https://toutiao.io/k/9rlbjxo) 
+- [【开发者头条】2020-06-30-网络安全架构：安全框架之综述](https://toutiao.io/k/6ifccbz) 
 - [【开发者头条】2020-06-28-Apache-Zeppelin：可能是开源届最好的-Flink-开发平台](https://toutiao.io/k/afvw5iv) 
 - [【开发者头条】2020-06-28-苹果宣布-Mac-放弃-x86-转向-ARM：看看你要补充学习知识吗？](https://toutiao.io/k/iw7njzt) 
 - [【开发者头条】2020-06-28-FizzBuzz-与写代码的-“一万”-个细节](https://toutiao.io/k/nx5k3ra) 

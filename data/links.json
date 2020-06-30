@@ -12763,6 +12763,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "Taro 3 正式版发布：开放式跨端跨框架解决方案",
+        "link": "https://aotu.io/notes/2020/06/30/taro-3-0-0/",
+        "date": "2020-07-01"
+      },
+      {
         "title": "手把手教你写个小程序定时器管理库",
         "link": "https://aotu.io/notes/2020/06/22/timer-miniprogram/",
         "date": "2020-06-22"

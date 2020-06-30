@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-30 13:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-30 17:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-06-30-吴尊友说全球疫情第一波根本还没过](https://m.weibo.cn/3057540037/4521468095273437) ![](assets/new.png)  
+- [2020-06-30-上海市下调新冠病毒核酸检测项目价格](http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html) ![](assets/new.png)  
+- [2020-06-30-俄罗斯新增6693例新冠肺炎确诊病例-累计确诊647849例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZmjp0NXEWxmXVfuoCx1200630&isfromapp=1) ![](assets/new.png)  
+- [2020-06-30-印度新增18522例新冠肺炎病例-累计566840例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibPOqSjyPucxFv2XHV62c200630&isfromapp=1) ![](assets/new.png)  
+- [2020-06-30-吴尊友说全球疫情第一波根本还没过](https://m.weibo.cn/3057540037/4521468095273437)  
 - [2020-06-30-真相丨美国多州疫情反弹-美媒称美国抗疫遭遇“历史性失败”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1)  
 - [2020-06-30-日本完全失业率升至2.9%-疫情期间就业形势连续3个月恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1)  
 - [2020-06-30-截至6月29日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/410528.jhtml)  
@@ -111,9 +114,6 @@
 - [2020-06-29-智利北部安托法加斯塔大区新冠肺炎平均感染率超过首都圣地亚哥](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidxxeg60qWGSTbzwyj2aL200629&isfromapp=1)  
 - [2020-06-29-秘鲁政府28日进行全民手机问卷调查-了解民众健康安全等状况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1)  
 - [2020-06-28-巴西里约球场7月10日起允许观众观看比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1)  
-- [2020-06-28-​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1)  
-- [2020-06-28-科威特新增551例新冠肺炎确诊病例-累计44942例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93Oz2h8pjkQGr0ug0ErF200628&isfromapp=1)  
-- [2020-06-28-北京首个农贸市场核酸快检站](https://m.weibo.cn/2656274875/4520877028403355)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

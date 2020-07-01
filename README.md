@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-01 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-01 20:30:20，:rocket: 更新条数: +43， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1) ![](assets/new.png)  
+- [2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1)  
 - [2020-07-01-受新冠肺炎疫情影响-墨西哥航空申请破产保护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiG7nFWzIBa0ECXVRqbk7200701&isfromapp=1)  
 - [2020-07-01-中东疫情观察：疫情重灾区情况令人担忧-政府持续推动社会生活恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQF4kVV2nSORXMG35OPIi200701&isfromapp=1)  
 - [2020-07-01-73例新增！澳大利亚维多利亚州疫情持续恶化已超过两周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti022Fjf0gSqlbWG0gwIxq200701&isfromapp=1)  
@@ -1051,26 +1051,26 @@
 </summary>
 
 
-- [2020-06-30-Intel-NUC-Compute-Element](https://www.v2ex.com/t/685783)  
-- [2020-06-30-关于-Cloudflare-API-v4-的这种验证方式](https://www.v2ex.com/t/685782)  
-- [2020-06-30-请教-nginx-反代-duckduckgo-怎么处理-external-content-?](https://www.v2ex.com/t/685781)  
-- [2020-06-30-电脑关机变注销，需要再关一次机](https://www.v2ex.com/t/685780)  
-- [2020-06-30-有什么方案可以智能选择线路的？](https://www.v2ex.com/t/685779)  
-- [2020-06-30-最近手机-youtube-没显示任何视频广告](https://www.v2ex.com/t/685778)  
-- [2020-06-30-明明已经启用-Hyper-V-为何还提示无法使用](https://www.v2ex.com/t/685775)  
-- [2020-06-30-电信免费提-200M-结束了吗](https://www.v2ex.com/t/685774)  
-- [2020-06-30-MacBookPro-16-寸-闪屏问题](https://www.v2ex.com/t/685773)  
-- [2020-06-29-询问一下-sidecar-随航的可行性](https://www.v2ex.com/t/685771)  
-- [2020-06-29-想请教各位一个工厂用具管理系统能加入什么创新的功能点呢？](https://www.v2ex.com/t/685770)  
-- [2020-06-29-geekbench-5-developer-transition-kit-跑分出来了](https://www.v2ex.com/t/685769)  
-- [2020-06-29-在安全区外做交互按钮的-Darkroom-拿了苹果设计奖…迷惑](https://www.v2ex.com/t/685767)  
-- [2020-06-29-关于系统平滑字体](https://www.v2ex.com/t/685766)  
-- [2020-06-29-一个长辈每天在微信家族群转发几十条的新闻怎么办？](https://www.v2ex.com/t/685765)  
-- [2020-06-29-美区，每季度-55，想上车的留下-tg](https://www.v2ex.com/t/685764)  
-- [2020-06-29-新公司业务完全没接触过，没参考，没人带，工期紧，该怎么办？](https://www.v2ex.com/t/685762)  
-- [2020-06-29-互联网广告价格好贵啊-，-V-站大佬们刚开始创业时候是怎么做推广呢？](https://www.v2ex.com/t/685761)  
-- [2020-06-29-anaconda-现在哪个镜像能用？](https://www.v2ex.com/t/685760)  
-- [2020-06-29-话费充值-api-咨询，公司要做活动，需要充值话费，搜索了下站内站外都没有找到合适的，有-v-友有推荐的吗？感谢。](https://www.v2ex.com/t/685759)  
+- [2020-07-01-上海买房，-360-万总价怎么买？大家买房都是怎么考虑的？](https://www.v2ex.com/t/686356) ![](assets/new.png)  
+- [2020-07-01-刚来的实习生，-offer-求比较](https://www.v2ex.com/t/686354) ![](assets/new.png)  
+- [2020-07-01-［上海］-大数据开发-&-大数据运维－-上市-医药企业－-45-万](https://www.v2ex.com/t/686353) ![](assets/new.png)  
+- [2020-07-01-Setapp-有人要上车吗？](https://www.v2ex.com/t/686352) ![](assets/new.png)  
+- [2020-07-01-来普及下信用卡知识吧](https://www.v2ex.com/t/686351) ![](assets/new.png)  
+- [2020-07-01-在线抖音视频解析，抖音短视频去水印工具](https://www.v2ex.com/t/686350) ![](assets/new.png)  
+- [2020-07-01-下半年开始，之前薅咪咕羊毛的-kindle-打卡开始了，大伙别翻车了](https://www.v2ex.com/t/686349) ![](assets/new.png)  
+- [2020-07-01-不懂就问-辞职后刚开始面试就通过面试了。hr-打电话问是否有入职意愿](https://www.v2ex.com/t/686348) ![](assets/new.png)  
+- [2020-07-01-用-timemachine-做迁移助理只是把文件数据迁移过去了，系统设置没有？](https://www.v2ex.com/t/686347) ![](assets/new.png)  
+- [2020-07-01-leetcode/lintcode-题解-Facebook-面试题：爱吃香蕉的珂珂](https://www.v2ex.com/t/686346) ![](assets/new.png)  
+- [2020-07-01-ltsc-安装-wsl-里面安装-docker-有坑吗？](https://www.v2ex.com/t/686345) ![](assets/new.png)  
+- [2020-07-01-现在国内做安全的都这么肆无忌惮吗？发现有漏洞就直接提交公布？](https://www.v2ex.com/t/686344) ![](assets/new.png)  
+- [2020-07-01-闵行七宝，有一起健身的兄弟嘛](https://www.v2ex.com/t/686343) ![](assets/new.png)  
+- [2020-07-01-杭州求职太难了](https://www.v2ex.com/t/686342) ![](assets/new.png)  
+- [2020-07-01-程序员双肩背包求推荐](https://www.v2ex.com/t/686341) ![](assets/new.png)  
+- [2020-07-01-Appstore-开发者名称变成中文的问题](https://www.v2ex.com/t/686339) ![](assets/new.png)  
+- [2020-07-01-腾讯-ETC-助手，车是深圳牌，为什么申请下来的卡是-广西的-八桂行卡？-请问有遇到过的朋友么？有没有坑](https://www.v2ex.com/t/686338) ![](assets/new.png)  
+- [2020-07-01-Flutter-Weekly-Issue-62](https://www.v2ex.com/t/686337) ![](assets/new.png)  
+- [2020-07-01-普天同庆，微信更新了一个版本，-IOS14-beta1-小程序终于不闪退](https://www.v2ex.com/t/686336) ![](assets/new.png)  
+- [2020-07-01-一个开源的网络争论协议标准仓库](https://www.v2ex.com/t/686335) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-01 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-01 10:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-07-01-400台从中国采购的呼吸机运抵秘鲁-助力提升救治新冠肺炎重症患者能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1) ![](assets/new.png)  
+- [2020-07-01-国家卫健委：6月30日新增3例新冠肺炎确诊病例-均为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihQiASFcR8iLRr9ZcafkW200701&isfromapp=1) ![](assets/new.png)  
+- [2020-07-01-400台从中国采购的呼吸机运抵秘鲁-助力提升救治新冠肺炎重症患者能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1)  
 - [2020-06-30-香港新增2例新冠肺炎确诊病例-累计确诊1205例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQrV5j3TsDQNP0vBUp1lt200630&isfromapp=1)  
 - [2020-06-30-巴西里约方舱医院建设延期两个月-5座尚未完工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66PLfBHNLGfDPYXIgvCX200630&isfromapp=1)  
 - [2020-06-30-加拿大国内生产总值三、四月合计下跌近20％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuzJIQRTFP9yUignQg2vB200630&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-30-巴西3-5月疫情期间就业岗位减少近150万个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKD0G2FSVNNlu7gCVhKVk200630&isfromapp=1)  
 - [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1)  
 - [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1)  
-- [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

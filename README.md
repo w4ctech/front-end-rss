@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-01 17:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-01 19:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-07-01-受新冠肺炎疫情影响-墨西哥航空申请破产保护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiG7nFWzIBa0ECXVRqbk7200701&isfromapp=1) ![](assets/new.png)  
+- [2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1) ![](assets/new.png)  
+- [2020-07-01-受新冠肺炎疫情影响-墨西哥航空申请破产保护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiG7nFWzIBa0ECXVRqbk7200701&isfromapp=1)  
 - [2020-07-01-中东疫情观察：疫情重灾区情况令人担忧-政府持续推动社会生活恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQF4kVV2nSORXMG35OPIi200701&isfromapp=1)  
 - [2020-07-01-73例新增！澳大利亚维多利亚州疫情持续恶化已超过两周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti022Fjf0gSqlbWG0gwIxq200701&isfromapp=1)  
 - [2020-07-01-国家卫健委：6月30日新增3例新冠肺炎确诊病例-均为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihQiASFcR8iLRr9ZcafkW200701&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-30-真相丨美国多州疫情反弹-美媒称美国抗疫遭遇“历史性失败”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1)  
 - [2020-06-30-日本完全失业率升至2.9%-疫情期间就业形势连续3个月恶化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1)  
 - [2020-06-30-截至6月29日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/410528.jhtml)  
-- [2020-06-30-世卫称疫情正在加速传播，世卫称未来几个月与病毒共存是新常态](https://m.weibo.cn/2803301701/4521431558526998)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

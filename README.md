@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-01 01:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-01 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-07-01-400台从中国采购的呼吸机运抵秘鲁-助力提升救治新冠肺炎重症患者能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1) ![](assets/new.png)  
 - [2020-06-30-香港新增2例新冠肺炎确诊病例-累计确诊1205例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQrV5j3TsDQNP0vBUp1lt200630&isfromapp=1)  
 - [2020-06-30-巴西里约方舱医院建设延期两个月-5座尚未完工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66PLfBHNLGfDPYXIgvCX200630&isfromapp=1)  
 - [2020-06-30-加拿大国内生产总值三、四月合计下跌近20％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuzJIQRTFP9yUignQg2vB200630&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-29-北京：集中观察点必须单人单间居住](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1)  
 - [2020-06-29-北京：在备用考点考试-座位间距应不小于2米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1)  
 - [2020-06-29-美国食药局前局长：美每日新增死亡数恐反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1)  
-- [2020-06-29-6月28日6时至29日6时-天津无新增确诊病例-境外输入病例清零！](http://wsjk.tj.gov.cn/art/2020/6/29/art_87_74141.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -651,7 +651,7 @@
 </summary>
 
 
-- [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) ![](assets/new.png)  
+- [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)  
 - [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)  
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  

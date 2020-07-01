@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-02 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-02 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-葡萄牙一罐头工厂多名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-世界银行预测：受疫情影响泰国将面临830万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-纽约市长：禁止餐厅、酒吧室内用餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-英国著名食品制造公司已有28名员工确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-01 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-01 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-01-英国著名食品制造公司已有28名员工确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1) 
+- [2020-07-01-全球病例破千万，战胜疫情须除“三大害”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1) 
 - [2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1) 
 - [2020-07-01-中东疫情观察：疫情重灾区情况令人担忧-政府持续推动社会生活恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQF4kVV2nSORXMG35OPIi200701&isfromapp=1) 
 - [2020-07-01-73例新增！澳大利亚维多利亚州疫情持续恶化已超过两周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti022Fjf0gSqlbWG0gwIxq200701&isfromapp=1) 

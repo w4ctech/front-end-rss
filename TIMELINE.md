@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-01 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-01 23:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-英国著名食品制造公司已有28名员工确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-全球病例破千万，战胜疫情须除“三大害”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-世卫组织：全球新冠肺炎确诊病例超过1032万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-受新冠肺炎疫情影响-墨西哥航空申请破产保护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiG7nFWzIBa0ECXVRqbk7200701&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-中东疫情观察：疫情重灾区情况令人担忧-政府持续推动社会生活恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQF4kVV2nSORXMG35OPIi200701&isfromapp=1) 

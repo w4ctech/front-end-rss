@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-02 01:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-02 02:00:20，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-07-01-世界银行预测：受疫情影响泰国将面临830万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1) ![](assets/new.png)  
-- [2020-07-01-纽约市长：禁止餐厅、酒吧室内用餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1) ![](assets/new.png)  
+- [2020-07-01-世界银行预测：受疫情影响泰国将面临830万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1)  
+- [2020-07-01-纽约市长：禁止餐厅、酒吧室内用餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1)  
 - [2020-07-01-英国著名食品制造公司已有28名员工确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1)  
 - [2020-07-01-全球病例破千万，战胜疫情须除“三大害”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1)  
 - [2020-07-01-世卫组织：全球新冠肺炎确诊病例超过1032万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1)  
@@ -1113,26 +1113,26 @@
 </summary>
 
 
-- [2020-06-30-白话布隆过滤器](https://toutiao.io/k/bg2pke6)  
-- [2020-06-30-彻底理解-IO多路复用](https://toutiao.io/k/rfgmr9h)  
-- [2020-06-30-译-使用-Prometheus-Operator-监控-Calico](https://toutiao.io/k/v630guf)  
-- [2020-06-30-Minikube：运行在笔记本上的-Kubernetes-集群](https://toutiao.io/k/bpgpk6t)  
-- [2020-06-30-从前端角度看企业软件的研发过程](https://toutiao.io/k/74uos81)  
-- [2020-06-30-fastjson-的这些坑，你误入了没？](https://toutiao.io/k/93h9f1e)  
-- [2020-06-30-走进-Golang-之-Channel-的数据结构](https://toutiao.io/k/m6tuje5)  
-- [2020-06-30-一文凑齐四种变量转换方法](https://toutiao.io/k/zvj72hb)  
-- [2020-06-30-jvm-sandbox-repeater-http-回放的-“陷阱”-与源码研读](https://toutiao.io/k/9rlbjxo)  
-- [2020-06-30-网络安全架构：安全框架之综述](https://toutiao.io/k/6ifccbz)  
-- [2020-06-28-Apache-Zeppelin：可能是开源届最好的-Flink-开发平台](https://toutiao.io/k/afvw5iv)  
-- [2020-06-28-苹果宣布-Mac-放弃-x86-转向-ARM：看看你要补充学习知识吗？](https://toutiao.io/k/iw7njzt)  
-- [2020-06-28-FizzBuzz-与写代码的-“一万”-个细节](https://toutiao.io/k/nx5k3ra)  
-- [2020-06-28-没有硬件，也可以运行与测试-TFLite-应用](https://toutiao.io/k/hbx8wyu)  
-- [2020-06-28-两行代码实现图片碎片化加载](https://toutiao.io/k/9qmhif3)  
-- [2020-06-28-SRZoo：深度学习图像超分辨率工具](https://toutiao.io/k/z16ola6)  
-- [2020-06-28-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/raut9un)  
-- [2020-06-28-演讲、体验、技术，苹果-WWDC-2020-全球开发者大会有感](https://toutiao.io/k/5xfey35)  
-- [2020-06-28-一文读懂-JavaScript-深拷贝与浅拷贝](https://toutiao.io/k/41zb5jj)  
-- [2020-06-28-既然硕士毕业也去搞开发，那我还读个喵的研？](https://toutiao.io/k/bnvvsz1)  
+- [2020-07-02-架构设计：高并发流量削峰，共享资源加锁机制](https://toutiao.io/k/glnqhjq) ![](assets/new.png)  
+- [2020-07-02-为什么你写的代码总是有-Bug？用它来保证-Go-代码质量](https://toutiao.io/k/cgku34s) ![](assets/new.png)  
+- [2020-07-02-深入理解-IO-模型](https://toutiao.io/k/12zuiow) ![](assets/new.png)  
+- [2020-07-02-架构：稳定性建设逻辑问题实战总结](https://toutiao.io/k/5c4x02u) ![](assets/new.png)  
+- [2020-07-02-"kill--9"-一时爽，秋后算账泪两行](https://toutiao.io/k/rlt5wtn) ![](assets/new.png)  
+- [2020-07-02-译-可能是世界上最简单的用-Go-来写-WebAssembly-的教程](https://toutiao.io/k/5ifd3cu) ![](assets/new.png)  
+- [2020-07-02-2020：为什么换了工作](https://toutiao.io/k/fb90jt2) ![](assets/new.png)  
+- [2020-07-02-QUIC/HTTP-3-协议简析](https://toutiao.io/k/g6klt0j) ![](assets/new.png)  
+- [2020-07-02-前端校招字节跳动面试（第一篇）](https://toutiao.io/k/7m0aarc) ![](assets/new.png)  
+- [2020-07-02-Dubbo-想要个网关怎么办？试试整合-Spring-Cloud-Gateway](https://toutiao.io/k/ou2g2c4) ![](assets/new.png)  
+- [2020-07-02-从零开始了解-Kubernetes](https://toutiao.io/k/7psf7ge) ![](assets/new.png)  
+- [2020-07-02-条分缕析分布式：到底什么是一致性？](https://toutiao.io/k/n21lmkt) ![](assets/new.png)  
+- [2020-07-02-干货！隐马尔科夫模型](https://toutiao.io/k/31aijfe) ![](assets/new.png)  
+- [2020-07-02-Docker-安全性与攻击面分析](https://toutiao.io/k/evn0nva) ![](assets/new.png)  
+- [2020-07-02-每周-AI-速递（试行第二期）](https://toutiao.io/k/2wd9mxb) ![](assets/new.png)  
+- [2020-07-02-海森堡不确定性原理的证明](https://toutiao.io/k/dhuvkyt) ![](assets/new.png)  
+- [2020-07-02-synchronized-原理知多少](https://toutiao.io/k/cqxh0z4) ![](assets/new.png)  
+- [2020-07-02-Elasticsearch-从入门到放弃：分词器初印象](https://toutiao.io/k/et4s4d4) ![](assets/new.png)  
+- [2020-07-02-CVPR-2020-论文大盘点（去雨去雾去模糊篇）](https://toutiao.io/k/8bl4dyi) ![](assets/new.png)  
+- [2020-07-02-从-JVM-设计者的角度来看-.class-文件结构，一文弄懂-.class-文件的身份地位](https://toutiao.io/k/zm41yid) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

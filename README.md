@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-02 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-02 09:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-07-02-葡萄牙一罐头工厂多名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-世卫：全面应对措施是战胜疫情最好方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTcV4O5zb7XssDlp6Gx4c200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-巴西新冠肺炎确诊病例累计超144万例-死亡人数超6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizXXW7rF4ZG2uXHvRAbMK200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-葡萄牙一罐头工厂多名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1)  
 - [2020-07-01-世界银行预测：受疫情影响泰国将面临830万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1)  
 - [2020-07-01-纽约市长：禁止餐厅、酒吧室内用餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1)  
 - [2020-07-01-英国著名食品制造公司已有28名员工确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-06-30-巴西近3个月失业率为12.9%-为2018年3月以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLMkSvT9yjPQYz5pF07f200630&isfromapp=1)  
 - [2020-06-30-国际劳工组织：疫情对劳动力市场的影响比预期更为严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif7kRCcstnFXhWWV3lZft200630&isfromapp=1)  
 - [2020-06-30-北京又有3地降为低风险，目前34个中高风险地区](https://m.weibo.cn/2803301701/4521588546965094)  
-- [2020-06-30-印尼新增1293例新冠肺炎确诊病例-累计确诊56385例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5h8QEKgirQpm501bJTY200630&isfromapp=1)  
-- [2020-06-30-上海市下调新冠病毒核酸检测项目价格](http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

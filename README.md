@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-03 03:30:21，:rocket: 更新条数: +167， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-03 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -63,26 +63,26 @@
 </summary>
 
 
-- [2020-07-02-北京：隔离人员禁止参加跨房间跨家庭跨院落聚集性活动](http://www.caixin.com/2020-07-02/101574724.html) ![](assets/new.png)  
-- [2020-07-02-北京疫情|7月1日：扫尾阶段，如何严堵居家隔离漏洞？](http://china.caixin.com/2020-07-02/101574529.html) ![](assets/new.png)  
-- [2020-07-02-7月1日全国新增新冠3例-北京1例](http://china.caixin.com/2020-07-02/101574520.html) ![](assets/new.png)  
-- [2020-07-02-最新疫情：全国新冠累计确诊83537例-北京新增1例](http://china.caixin.com/2020-07-02/101574602.html) ![](assets/new.png)  
-- [2020-07-02-最新海外疫情：新冠感染者近1055万-累计死亡超51万](http://international.caixin.com/2020-07-02/101574719.html) ![](assets/new.png)  
-- [2020-07-02-数字说|北京新发地新冠疫情已确诊328例，如何关联？](http://datanews.caixin.com/2020-07-02/101574563.html) ![](assets/new.png)  
-- [2020-07-02-【境内疫情观察】北京新增确诊连续4天为个位数（7月1日）](http://database.caixin.com/2020-07-02/101574622.html) ![](assets/new.png)  
-- [2020-07-02-大流行手记|7月1日：日本现感染小高峰-不排除再启紧急状态](http://www.caixin.com/2020-07-02/101574503.html) ![](assets/new.png)  
-- [2020-07-02-东京日增病例回升破百-日本敲响第二波疫情警钟](http://international.caixin.com/2020-07-02/101574876.html) ![](assets/new.png)  
-- [2020-07-01-北京一病例居家隔离14天期满与友聚餐-5日后确诊](http://www.caixin.com/2020-07-01/101574305.html) ![](assets/new.png)  
-- [2020-07-01-北京疫情|6月30日：新增病例连续三天个位数](http://china.caixin.com/2020-07-01/101573972.html) ![](assets/new.png)  
-- [2020-07-01-6月30日全国新冠新增3例均在北京](http://china.caixin.com/2020-07-01/101573978.html) ![](assets/new.png)  
-- [2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) ![](assets/new.png)  
-- [2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) ![](assets/new.png)  
-- [2020-06-30-6月29日北京7例新增确诊病例均为集中隔离人员](http://china.caixin.com/2020-06-30/101573664.html) ![](assets/new.png)  
-- [2020-06-30-北京疫情|6月29日：集中隔离点加强管理-非常时期迎高考](http://china.caixin.com/2020-06-30/101573387.html) ![](assets/new.png)  
-- [2020-06-30-【境内疫情观察】全国新增境外输入病例11例（6月29日）](http://database.caixin.com/2020-06-30/101573607.html) ![](assets/new.png)  
-- [2020-06-30-大流行手记|6月29日：艾滋病、结核病和疟疾将致更多死亡](http://www.caixin.com/2020-06-30/101573355.html) ![](assets/new.png)  
-- [2020-06-29-新发地集中隔离人员检测阴性将再观察14天-北京公布详细解除隔离程序](http://china.caixin.com/2020-06-29/101573273.html) ![](assets/new.png)  
-- [2020-06-29-北京通报九病例详情-强调集中观察点严格管理](http://china.caixin.com/2020-06-29/101573239.html) ![](assets/new.png)  
+- [2020-07-02-北京：隔离人员禁止参加跨房间跨家庭跨院落聚集性活动](http://www.caixin.com/2020-07-02/101574724.html)  
+- [2020-07-02-北京疫情|7月1日：扫尾阶段，如何严堵居家隔离漏洞？](http://china.caixin.com/2020-07-02/101574529.html)  
+- [2020-07-02-7月1日全国新增新冠3例-北京1例](http://china.caixin.com/2020-07-02/101574520.html)  
+- [2020-07-02-最新疫情：全国新冠累计确诊83537例-北京新增1例](http://china.caixin.com/2020-07-02/101574602.html)  
+- [2020-07-02-最新海外疫情：新冠感染者近1055万-累计死亡超51万](http://international.caixin.com/2020-07-02/101574719.html)  
+- [2020-07-02-数字说|北京新发地新冠疫情已确诊328例，如何关联？](http://datanews.caixin.com/2020-07-02/101574563.html)  
+- [2020-07-02-【境内疫情观察】北京新增确诊连续4天为个位数（7月1日）](http://database.caixin.com/2020-07-02/101574622.html)  
+- [2020-07-02-大流行手记|7月1日：日本现感染小高峰-不排除再启紧急状态](http://www.caixin.com/2020-07-02/101574503.html)  
+- [2020-07-02-东京日增病例回升破百-日本敲响第二波疫情警钟](http://international.caixin.com/2020-07-02/101574876.html)  
+- [2020-07-01-北京一病例居家隔离14天期满与友聚餐-5日后确诊](http://www.caixin.com/2020-07-01/101574305.html)  
+- [2020-07-01-北京疫情|6月30日：新增病例连续三天个位数](http://china.caixin.com/2020-07-01/101573972.html)  
+- [2020-07-01-6月30日全国新冠新增3例均在北京](http://china.caixin.com/2020-07-01/101573978.html)  
+- [2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html)  
+- [2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html)  
+- [2020-06-30-6月29日北京7例新增确诊病例均为集中隔离人员](http://china.caixin.com/2020-06-30/101573664.html)  
+- [2020-06-30-北京疫情|6月29日：集中隔离点加强管理-非常时期迎高考](http://china.caixin.com/2020-06-30/101573387.html)  
+- [2020-06-30-【境内疫情观察】全国新增境外输入病例11例（6月29日）](http://database.caixin.com/2020-06-30/101573607.html)  
+- [2020-06-30-大流行手记|6月29日：艾滋病、结核病和疟疾将致更多死亡](http://www.caixin.com/2020-06-30/101573355.html)  
+- [2020-06-29-新发地集中隔离人员检测阴性将再观察14天-北京公布详细解除隔离程序](http://china.caixin.com/2020-06-29/101573273.html)  
+- [2020-06-29-北京通报九病例详情-强调集中观察点严格管理](http://china.caixin.com/2020-06-29/101573239.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-07-03-巴西新冠肺炎累计确诊人数近150万-调查称仅9%为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-英国统计方式存漏洞-导致累计确诊病例偏差3000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-美国新冠肺炎确诊病例累计超272万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-美国得克萨斯州发布口罩令-对民众在公共场所佩戴口罩进行强制要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-世卫组织：全球新冠肺炎新增176102例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtighBb8XJC3efUCtXsJ03N200703&isfromapp=1) ![](assets/new.png)  
 - [2020-07-02-俄罗斯决定暂缓恢复国际航班至7月底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1)  
 - [2020-07-02-非洲足协：受疫情影响-​2021非洲杯将延期至2022年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1)  
 - [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-02-葡萄牙一罐头工厂多名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1)  
 - [2020-07-01-世界银行预测：受疫情影响泰国将面临830万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1)  
 - [2020-07-01-纽约市长：禁止餐厅、酒吧室内用餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1)  
-- [2020-07-01-英国著名食品制造公司已有28名员工确诊感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1)  
-- [2020-07-01-全球病例破千万，战胜疫情须除“三大害”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1)  
-- [2020-07-01-世卫组织：全球新冠肺炎确诊病例超过1032万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1)  
-- [2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1)  
-- [2020-07-01-受新冠肺炎疫情影响-墨西哥航空申请破产保护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiG7nFWzIBa0ECXVRqbk7200701&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

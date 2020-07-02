@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-03 03:30:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-03 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-03-英国统计方式存漏洞-导致累计确诊病例偏差3000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1) 
+- [2020-07-03-美国得克萨斯州发布口罩令-对民众在公共场所佩戴口罩进行强制要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1) 
 - [2020-07-02-俄罗斯决定暂缓恢复国际航班至7月底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1) 
 - [2020-07-02-非洲足协：受疫情影响-​2021非洲杯将延期至2022年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1) 
 - [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1) 

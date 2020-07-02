@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-02 11:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-02 13:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-07-02-美国FDA前局长：美国每天新增感染人数其实已超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-美国FDA前局长：美国每天新增感染人数其实已超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1)  
 - [2020-07-02-世卫：全面应对措施是战胜疫情最好方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTcV4O5zb7XssDlp6Gx4c200702&isfromapp=1)  
 - [2020-07-02-巴西新冠肺炎确诊病例累计超144万例-死亡人数超6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizXXW7rF4ZG2uXHvRAbMK200702&isfromapp=1)  
 - [2020-07-02-葡萄牙一罐头工厂多名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-06-30-巴西里约方舱医院建设延期两个月-5座尚未完工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66PLfBHNLGfDPYXIgvCX200630&isfromapp=1)  
 - [2020-06-30-加拿大国内生产总值三、四月合计下跌近20％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuzJIQRTFP9yUignQg2vB200630&isfromapp=1)  
 - [2020-06-30-巴西近3个月失业率为12.9%-为2018年3月以来最高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLMkSvT9yjPQYz5pF07f200630&isfromapp=1)  
-- [2020-06-30-国际劳工组织：疫情对劳动力市场的影响比预期更为严重](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif7kRCcstnFXhWWV3lZft200630&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

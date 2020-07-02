@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-02 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-02 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-哈萨克斯坦首任总统新闻秘书：首任总统纳扎尔巴耶夫新冠肺炎已经治愈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3yPeR6LYkAgRaez86Fu200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-安理会通过关于新冠肺炎疫情的决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1) 

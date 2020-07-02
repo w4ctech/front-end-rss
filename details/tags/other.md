@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-02 19:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-02 23:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1007,6 +1007,10 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-02-俄罗斯决定暂缓恢复国际航班至7月底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1) 
+- [2020-07-02-非洲足协：受疫情影响-​2021非洲杯将延期至2022年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1) 
+- [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1) 
+- [2020-07-02-匈牙利总理欧尔班：匈牙利将不执行欧盟开放外部边境的建议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw7X1W4qDMC7q5ptnAUjy200702&isfromapp=1) 
 - [2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1) 
 - [2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1) 
 - [2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-02 19:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-02 23:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,12 @@
 </summary>
 
 
-- [2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1) ![](assets/new.png)  
-- [2020-07-02-哈萨克斯坦首任总统新闻秘书：首任总统纳扎尔巴耶夫新冠肺炎已经治愈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3yPeR6LYkAgRaez86Fu200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-俄罗斯决定暂缓恢复国际航班至7月底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-非洲足协：受疫情影响-​2021非洲杯将延期至2022年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-匈牙利总理欧尔班：匈牙利将不执行欧盟开放外部边境的建议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw7X1W4qDMC7q5ptnAUjy200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1)  
+- [2020-07-02-哈萨克斯坦首任总统新闻秘书：首任总统纳扎尔巴耶夫新冠肺炎已经治愈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3yPeR6LYkAgRaez86Fu200702&isfromapp=1)  
 - [2020-07-02-安理会通过关于新冠肺炎疫情的决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1)  
 - [2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1)  
 - [2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-01-世卫组织：全球新冠肺炎确诊病例超过1032万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1)  
 - [2020-07-01-安徽今起下调新冠病毒检测费用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1)  
 - [2020-07-01-受新冠肺炎疫情影响-墨西哥航空申请破产保护](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiG7nFWzIBa0ECXVRqbk7200701&isfromapp=1)  
-- [2020-07-01-中东疫情观察：疫情重灾区情况令人担忧-政府持续推动社会生活恢复正常](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQF4kVV2nSORXMG35OPIi200701&isfromapp=1)  
-- [2020-07-01-73例新增！澳大利亚维多利亚州疫情持续恶化已超过两周](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti022Fjf0gSqlbWG0gwIxq200701&isfromapp=1)  
-- [2020-07-01-国家卫健委：6月30日新增3例新冠肺炎确诊病例-均为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihQiASFcR8iLRr9ZcafkW200701&isfromapp=1)  
-- [2020-07-01-400台从中国采购的呼吸机运抵秘鲁-助力提升救治新冠肺炎重症患者能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

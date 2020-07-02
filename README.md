@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-02 14:00:22，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-02 17:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-安理会通过关于新冠肺炎疫情的决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1) ![](assets/new.png)  
+- [2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1)  
 - [2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1)  
 - [2020-07-02-美国FDA前局长：美国每天新增感染人数其实已超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1)  
 - [2020-07-02-世卫：全面应对措施是战胜疫情最好方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTcV4O5zb7XssDlp6Gx4c200702&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-01-400台从中国采购的呼吸机运抵秘鲁-助力提升救治新冠肺炎重症患者能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1)  
 - [2020-06-30-香港新增2例新冠肺炎确诊病例-累计确诊1205例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQrV5j3TsDQNP0vBUp1lt200630&isfromapp=1)  
 - [2020-06-30-巴西里约方舱医院建设延期两个月-5座尚未完工](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66PLfBHNLGfDPYXIgvCX200630&isfromapp=1)  
-- [2020-06-30-加拿大国内生产总值三、四月合计下跌近20％](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuzJIQRTFP9yUignQg2vB200630&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

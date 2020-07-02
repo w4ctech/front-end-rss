@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-02 14:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-02 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-安理会通过关于新冠肺炎疫情的决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-02-美国FDA前局长：美国每天新增感染人数其实已超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1) 

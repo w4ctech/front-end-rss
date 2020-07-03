@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-03 07:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-03 09:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -94,11 +94,16 @@
 </summary>
 
 
-- [2020-07-03-巴西新冠肺炎累计确诊人数近150万-调查称仅9%为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-英国统计方式存漏洞-导致累计确诊病例偏差3000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-美国新冠肺炎确诊病例累计超272万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-美国得克萨斯州发布口罩令-对民众在公共场所佩戴口罩进行强制要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-世卫组织：全球新冠肺炎新增176102例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtighBb8XJC3efUCtXsJ03N200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-朝鲜举行政治局扩大会议-讨论新冠肺炎防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-加州疫情反扑-美国南加州大学推翻原有秋季返校计划-继续网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-英国草拟互免隔离名单-美国被排除在外](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-巴西新冠肺炎累计确诊人数近150万-调查称仅9%为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1)  
+- [2020-07-03-英国统计方式存漏洞-导致累计确诊病例偏差3000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1)  
+- [2020-07-03-美国新冠肺炎确诊病例累计超272万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1)  
+- [2020-07-03-美国得克萨斯州发布口罩令-对民众在公共场所佩戴口罩进行强制要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1)  
+- [2020-07-03-世卫组织：全球新冠肺炎新增176102例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtighBb8XJC3efUCtXsJ03N200703&isfromapp=1)  
 - [2020-07-02-俄罗斯决定暂缓恢复国际航班至7月底](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1)  
 - [2020-07-02-非洲足协：受疫情影响-​2021非洲杯将延期至2022年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1)  
 - [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1)  
 - [2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1)  
 - [2020-07-02-美国FDA前局长：美国每天新增感染人数其实已超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1)  
-- [2020-07-02-世卫：全面应对措施是战胜疫情最好方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTcV4O5zb7XssDlp6Gx4c200702&isfromapp=1)  
-- [2020-07-02-巴西新冠肺炎确诊病例累计超144万例-死亡人数超6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizXXW7rF4ZG2uXHvRAbMK200702&isfromapp=1)  
-- [2020-07-02-葡萄牙一罐头工厂多名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1)  
-- [2020-07-01-世界银行预测：受疫情影响泰国将面临830万人失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1)  
-- [2020-07-01-纽约市长：禁止餐厅、酒吧室内用餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -677,6 +677,7 @@
 </summary>
 
 
+- [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) ![](assets/new.png)  
 - [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)  
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html)  
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  

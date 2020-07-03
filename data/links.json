@@ -6777,6 +6777,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "朝鲜举行政治局扩大会议 讨论新冠肺炎防疫",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1",
+        "date": "2020-07-03"
+      },
+      {
+        "title": "世卫组织：全球已分享超过六万个新冠病毒基因序列",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1",
+        "date": "2020-07-03"
+      },
+      {
+        "title": "捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1",
+        "date": "2020-07-03"
+      },
+      {
+        "title": "加州疫情反扑 美国南加州大学推翻原有秋季返校计划 继续网上授课",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1",
+        "date": "2020-07-03"
+      },
+      {
+        "title": "英国草拟互免隔离名单 美国被排除在外",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1",
+        "date": "2020-07-03"
+      },
+      {
         "title": "巴西新冠肺炎累计确诊人数近150万 调查称仅9%为无症状感染者",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1",
         "date": "2020-07-03"
@@ -13658,6 +13683,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 114 期）：U 盘化生存和 Uber-job",
+        "link": "http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html",
+        "date": "2020-07-03"
+      },
       {
         "title": "科技爱好者周刊（第 113 期）：暴力犯罪为什么越来越少？",
         "link": "http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html",

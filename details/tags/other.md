@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-03 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-03 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-03-美国单日新增确诊病例数超5.4万创新高-多州收紧限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1) 
 - [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1) 
 - [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1) 
 - [2020-07-03-加州疫情反扑-美国南加州大学推翻原有秋季返校计划-继续网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1) 

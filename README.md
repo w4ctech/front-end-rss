@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-03 12:00:20，:rocket: 更新条数: +46， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-03 16:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-07-03-巴西原住民组织称已有超过1万名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-美国单日新增确诊病例数超5.4万创新高-多州收紧限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-​印度新增20903例新冠肺炎确诊病例-累计625544例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-巴西原住民组织称已有超过1万名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1)  
+- [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1)  
+- [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1)  
 - [2020-07-03-朝鲜举行政治局扩大会议-讨论新冠肺炎防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1)  
 - [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1)  
 - [2020-07-03-捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1)  
 - [2020-07-02-匈牙利总理欧尔班：匈牙利将不执行欧盟开放外部边境的建议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw7X1W4qDMC7q5ptnAUjy200702&isfromapp=1)  
 - [2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1)  
-- [2020-07-02-哈萨克斯坦首任总统新闻秘书：首任总统纳扎尔巴耶夫新冠肺炎已经治愈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3yPeR6LYkAgRaez86Fu200702&isfromapp=1)  
-- [2020-07-02-安理会通过关于新冠肺炎疫情的决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-07-03-MIUI-如何做到后台应用不被杀？](https://www.v2ex.com/t/686820) ![](assets/new.png)  
-- [2020-07-03-内推—-京东数科深圳）80w-150w/年](https://www.v2ex.com/t/686819) ![](assets/new.png)  
-- [2020-07-03-汽车补胎后上高速安全吗](https://www.v2ex.com/t/686818) ![](assets/new.png)  
-- [2020-07-03-性冲动引起的不能专心工作如何克制](https://www.v2ex.com/t/686817) ![](assets/new.png)  
-- [2020-07-03-公司想裁人，不想给赔偿怎么办](https://www.v2ex.com/t/686816) ![](assets/new.png)  
-- [2020-07-03-关于-nginx-上短链的实现](https://www.v2ex.com/t/686815) ![](assets/new.png)  
-- [2020-07-03-字节跳动内推（社招+校招）](https://www.v2ex.com/t/686814) ![](assets/new.png)  
-- [2020-07-03-目前待业中，求-IT-行业-Java-或者-PHP-编程工作机会，工作地：苏州](https://www.v2ex.com/t/686813) ![](assets/new.png)  
-- [2020-07-03-A-股今年收益-40%算什么水平](https://www.v2ex.com/t/686812) ![](assets/new.png)  
-- [2020-07-03-Toc-Bar-,-一个显示页面大纲的-userscript。](https://www.v2ex.com/t/686810) ![](assets/new.png)  
-- [2020-07-03-现在面试官都那么奇怪的吗？](https://www.v2ex.com/t/686809) ![](assets/new.png)  
-- [2020-07-03-关于二胎随母姓的问题，想看看大家的看法](https://www.v2ex.com/t/686808) ![](assets/new.png)  
-- [2020-07-03-不懂就问，-Twitter-实时更新评论和点赞数量是如何做到的](https://www.v2ex.com/t/686807) ![](assets/new.png)  
-- [2020-07-03-2020-了，生日当天还有羊毛可薅吗？](https://www.v2ex.com/t/686806) ![](assets/new.png)  
-- [2020-07-03-内推育碧成都-技术运维主管-Technical-Operation-Lead](https://www.v2ex.com/t/686805) ![](assets/new.png)  
-- [2020-07-03-MBP-重启后无法操作！紧急求助！](https://www.v2ex.com/t/686803) ![](assets/new.png)  
-- [2020-07-03-tomcat-数据库连接池拿不到连接](https://www.v2ex.com/t/686802) ![](assets/new.png)  
-- [2020-07-03-力扣中国的提交时间有问题](https://www.v2ex.com/t/686801) ![](assets/new.png)  
-- [2020-07-03-做为程序员，罗技-MX-Master-2S-买就对了。](https://www.v2ex.com/t/686800) ![](assets/new.png)  
-- [2020-07-03-咨询-想问下在深圳邦彦工作的在职员工，邦彦明年会搬去龙岗吗？](https://www.v2ex.com/t/686799) ![](assets/new.png)  
+- [2020-07-03-MIUI-如何做到后台应用不被杀？](https://www.v2ex.com/t/686820)  
+- [2020-07-03-内推—-京东数科深圳）80w-150w/年](https://www.v2ex.com/t/686819)  
+- [2020-07-03-汽车补胎后上高速安全吗](https://www.v2ex.com/t/686818)  
+- [2020-07-03-性冲动引起的不能专心工作如何克制](https://www.v2ex.com/t/686817)  
+- [2020-07-03-公司想裁人，不想给赔偿怎么办](https://www.v2ex.com/t/686816)  
+- [2020-07-03-关于-nginx-上短链的实现](https://www.v2ex.com/t/686815)  
+- [2020-07-03-字节跳动内推（社招+校招）](https://www.v2ex.com/t/686814)  
+- [2020-07-03-目前待业中，求-IT-行业-Java-或者-PHP-编程工作机会，工作地：苏州](https://www.v2ex.com/t/686813)  
+- [2020-07-03-A-股今年收益-40%算什么水平](https://www.v2ex.com/t/686812)  
+- [2020-07-03-Toc-Bar-,-一个显示页面大纲的-userscript。](https://www.v2ex.com/t/686810)  
+- [2020-07-03-现在面试官都那么奇怪的吗？](https://www.v2ex.com/t/686809)  
+- [2020-07-03-关于二胎随母姓的问题，想看看大家的看法](https://www.v2ex.com/t/686808)  
+- [2020-07-03-不懂就问，-Twitter-实时更新评论和点赞数量是如何做到的](https://www.v2ex.com/t/686807)  
+- [2020-07-03-2020-了，生日当天还有羊毛可薅吗？](https://www.v2ex.com/t/686806)  
+- [2020-07-03-内推育碧成都-技术运维主管-Technical-Operation-Lead](https://www.v2ex.com/t/686805)  
+- [2020-07-03-MBP-重启后无法操作！紧急求助！](https://www.v2ex.com/t/686803)  
+- [2020-07-03-tomcat-数据库连接池拿不到连接](https://www.v2ex.com/t/686802)  
+- [2020-07-03-力扣中国的提交时间有问题](https://www.v2ex.com/t/686801)  
+- [2020-07-03-做为程序员，罗技-MX-Master-2S-买就对了。](https://www.v2ex.com/t/686800)  
+- [2020-07-03-咨询-想问下在深圳邦彦工作的在职员工，邦彦明年会搬去龙岗吗？](https://www.v2ex.com/t/686799)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

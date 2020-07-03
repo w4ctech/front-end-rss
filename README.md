@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-03 16:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-03 18:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-07-03-美国单日新增确诊病例数超5.4万创新高-多州收紧限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-​印度新增20903例新冠肺炎确诊病例-累计625544例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-印度男子出现新冠肺炎症状仍办婚礼：婚后两天死亡-上百宾客呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEPIpTFq23JuqIB0lnVe8200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-美国单日新增确诊病例数超5.4万创新高-多州收紧限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1)  
+- [2020-07-03-​印度新增20903例新冠肺炎确诊病例-累计625544例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1)  
 - [2020-07-03-巴西原住民组织称已有超过1万名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1)  
 - [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1)  
 - [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-02-非洲足协：受疫情影响-​2021非洲杯将延期至2022年举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1)  
 - [2020-07-02-葡萄牙一养老院发生聚集性感染-45位老人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1)  
 - [2020-07-02-匈牙利总理欧尔班：匈牙利将不执行欧盟开放外部边境的建议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw7X1W4qDMC7q5ptnAUjy200702&isfromapp=1)  
-- [2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,8 @@
 </summary>
 
 
+- [2020-07-03-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-03-QUIC/HTTP3-协议简析-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13569&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F151639428%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-06-29-为精美，FButton-&-FSwitch-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13568&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLVuLQlImR7mknKPnFEfx-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-更快学习编程的-7-个重要技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13567&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fva-7d1h9qUoaio2hdxcgPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-不使用第三方库，Bitmap-的优化策略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13566&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHnbhuQQJ4QVru3YTJYwSbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1101,8 +1103,6 @@
 - [2020-06-29-重磅！程序员工资不会上涨的几个现象-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13553&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRmW5qz0vwm3hnFPUwbVbGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-《统计机器学习与凸优化》教程-PPT-下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13552&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTZIlQohSktFr6SsmUZjkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-28-快应用-IDE-定制-Devtools-元素面板系列二：新增面板-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13551&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-28-程序化广告常见术语一览-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13550&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fprogrammatic-advertising-terminology%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

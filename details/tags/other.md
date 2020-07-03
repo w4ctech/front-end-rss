@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-03 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-03 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -5852,6 +5852,7 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-07-03-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-29-为精美，FButton-&-FSwitch-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13568&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLVuLQlImR7mknKPnFEfx-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-29-更快学习编程的-7-个重要技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13567&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fva-7d1h9qUoaio2hdxcgPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-29-8-个-Python-高效数据分析的技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13565&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwW6YGs4cU3cEpSzSbBE3Zg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

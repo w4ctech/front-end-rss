@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-03 19:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-04 01:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,16 @@
 </summary>
 
 
-- [2020-07-03-北京首都国际机场：明天起从首都机场离京不再查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3QpyCxGeRTWOJkaCfNq200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-吉尔吉斯斯坦社区感染性肺炎病例增加-面临双重疫情挑战](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-世卫组织：全球新冠肺炎确诊病例超过1066万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-北京新增确诊连续5天为个位数-治愈出院病例持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7tjapKTWHuTo9Wl4kWBO200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-2名驻韩美军新冠检测阳性-因错记为阴性解除隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMqEixKc0FO3O3fm1BbJ200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-香港-3-日新增-5-例新冠肺炎确诊病例，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-巴基斯坦外交部长感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimo8pqP0Wm7EaDJiCH9Xr200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-北京首都国际机场：明天起从首都机场离京不再查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3QpyCxGeRTWOJkaCfNq200703&isfromapp=1)  
+- [2020-07-03-吉尔吉斯斯坦社区感染性肺炎病例增加-面临双重疫情挑战](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1)  
+- [2020-07-03-世卫组织：全球新冠肺炎确诊病例超过1066万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1)  
+- [2020-07-03-北京新增确诊连续5天为个位数-治愈出院病例持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7tjapKTWHuTo9Wl4kWBO200703&isfromapp=1)  
+- [2020-07-03-2名驻韩美军新冠检测阳性-因错记为阴性解除隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMqEixKc0FO3O3fm1BbJ200703&isfromapp=1)  
 - [2020-07-03-印度男子出现新冠肺炎症状仍办婚礼：婚后两天死亡-上百宾客呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEPIpTFq23JuqIB0lnVe8200703&isfromapp=1)  
 - [2020-07-03-美国单日新增确诊病例数超5.4万创新高-多州收紧限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1)  
 - [2020-07-03-​印度新增20903例新冠肺炎确诊病例-累计625544例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1)  
 - [2020-07-03-捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1)  
 - [2020-07-03-加州疫情反扑-美国南加州大学推翻原有秋季返校计划-继续网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1)  
-- [2020-07-03-英国草拟互免隔离名单-美国被排除在外](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1)  
-- [2020-07-03-巴西新冠肺炎累计确诊人数近150万-调查称仅9%为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1)  
-- [2020-07-03-英国统计方式存漏洞-导致累计确诊病例偏差3000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1)  
-- [2020-07-03-美国新冠肺炎确诊病例累计超272万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1)  
-- [2020-07-03-美国得克萨斯州发布口罩令-对民众在公共场所佩戴口罩进行强制要求](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

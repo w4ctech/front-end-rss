@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-03 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-03 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -73,6 +73,7 @@
 - [2020-06-02-网上看到的字节面试题，不自量力写下答案](https://juejin.im/post/5ed5a40ae51d45789b35aa7e) 
 - [2020-06-01-函数柯里化（面试题）包懂，不懂我改。](https://juejin.im/post/5eca8d186fb9a047f93726d8) 
 - [2020-05-31-第八期-|-前端如何搞面试](https://juejin.im/post/5ed364496fb9a047e16c87a6) 
+- [2020-07-03-现在面试官都那么奇怪的吗？](https://www.v2ex.com/t/686809) 
 - [2020-07-01-不懂就问-辞职后刚开始面试就通过面试了。hr-打电话问是否有入职意愿](https://www.v2ex.com/t/686348) 
 - [2020-07-01-leetcode/lintcode-题解-Facebook-面试题：爱吃香蕉的珂珂](https://www.v2ex.com/t/686346) 
 - [2020-07-01-广州珠江新城初创团队招聘-Web-前端、Go-开发工程师](https://www.v2ex.com/t/686324) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-03 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-03 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -16,6 +16,7 @@
 - [2020-06-20-NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94) 
 - [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
 - [2020-06-23-Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5) 
+- [2020-07-03-关于-nginx-上短链的实现](https://www.v2ex.com/t/686815) 
 - [2020-07-01-ltsc-安装-wsl-里面安装-docker-有坑吗？](https://www.v2ex.com/t/686345) 
 - [2020-07-01-求助，外网无法访问-docker-bridge-模式的容器服务](https://www.v2ex.com/t/686323) 
 - [2020-06-30-请教-nginx-反代-duckduckgo-怎么处理-external-content-?](https://www.v2ex.com/t/685781) 

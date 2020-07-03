@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-03 09:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-03 12:00:20，:rocket: 更新条数: +46， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,11 +94,14 @@
 </summary>
 
 
-- [2020-07-03-朝鲜举行政治局扩大会议-讨论新冠肺炎防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-加州疫情反扑-美国南加州大学推翻原有秋季返校计划-继续网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-英国草拟互免隔离名单-美国被排除在外](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-巴西原住民组织称已有超过1万名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-朝鲜举行政治局扩大会议-讨论新冠肺炎防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1)  
+- [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1)  
+- [2020-07-03-捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1)  
+- [2020-07-03-加州疫情反扑-美国南加州大学推翻原有秋季返校计划-继续网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1)  
+- [2020-07-03-英国草拟互免隔离名单-美国被排除在外](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1)  
 - [2020-07-03-巴西新冠肺炎累计确诊人数近150万-调查称仅9%为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1)  
 - [2020-07-03-英国统计方式存漏洞-导致累计确诊病例偏差3000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1)  
 - [2020-07-03-美国新冠肺炎确诊病例累计超272万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-02-德约科维奇和妻子新冠病毒检测呈阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1)  
 - [2020-07-02-哈萨克斯坦首任总统新闻秘书：首任总统纳扎尔巴耶夫新冠肺炎已经治愈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3yPeR6LYkAgRaez86Fu200702&isfromapp=1)  
 - [2020-07-02-安理会通过关于新冠肺炎疫情的决议](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1)  
-- [2020-07-02-北京确诊“外卖骑手”治愈出院-曾坦言心理压力大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1)  
-- [2020-07-02-美得州康复患者：政府重启经济过快-防疫信息传达混乱](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1)  
-- [2020-07-02-美国FDA前局长：美国每天新增感染人数其实已超10万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -677,7 +677,7 @@
 </summary>
 
 
-- [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) ![](assets/new.png)  
+- [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)  
 - [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)  
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html)  
 - [2020-06-19-科技爱好者周刊（第-112-期）：如何培养领导力](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-112.html)  
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-07-01-上海买房，-360-万总价怎么买？大家买房都是怎么考虑的？](https://www.v2ex.com/t/686356)  
-- [2020-07-01-刚来的实习生，-offer-求比较](https://www.v2ex.com/t/686354)  
-- [2020-07-01-［上海］-大数据开发-&-大数据运维－-上市-医药企业－-45-万](https://www.v2ex.com/t/686353)  
-- [2020-07-01-Setapp-有人要上车吗？](https://www.v2ex.com/t/686352)  
-- [2020-07-01-来普及下信用卡知识吧](https://www.v2ex.com/t/686351)  
-- [2020-07-01-在线抖音视频解析，抖音短视频去水印工具](https://www.v2ex.com/t/686350)  
-- [2020-07-01-下半年开始，之前薅咪咕羊毛的-kindle-打卡开始了，大伙别翻车了](https://www.v2ex.com/t/686349)  
-- [2020-07-01-不懂就问-辞职后刚开始面试就通过面试了。hr-打电话问是否有入职意愿](https://www.v2ex.com/t/686348)  
-- [2020-07-01-用-timemachine-做迁移助理只是把文件数据迁移过去了，系统设置没有？](https://www.v2ex.com/t/686347)  
-- [2020-07-01-leetcode/lintcode-题解-Facebook-面试题：爱吃香蕉的珂珂](https://www.v2ex.com/t/686346)  
-- [2020-07-01-ltsc-安装-wsl-里面安装-docker-有坑吗？](https://www.v2ex.com/t/686345)  
-- [2020-07-01-现在国内做安全的都这么肆无忌惮吗？发现有漏洞就直接提交公布？](https://www.v2ex.com/t/686344)  
-- [2020-07-01-闵行七宝，有一起健身的兄弟嘛](https://www.v2ex.com/t/686343)  
-- [2020-07-01-杭州求职太难了](https://www.v2ex.com/t/686342)  
-- [2020-07-01-程序员双肩背包求推荐](https://www.v2ex.com/t/686341)  
-- [2020-07-01-Appstore-开发者名称变成中文的问题](https://www.v2ex.com/t/686339)  
-- [2020-07-01-腾讯-ETC-助手，车是深圳牌，为什么申请下来的卡是-广西的-八桂行卡？-请问有遇到过的朋友么？有没有坑](https://www.v2ex.com/t/686338)  
-- [2020-07-01-Flutter-Weekly-Issue-62](https://www.v2ex.com/t/686337)  
-- [2020-07-01-普天同庆，微信更新了一个版本，-IOS14-beta1-小程序终于不闪退](https://www.v2ex.com/t/686336)  
-- [2020-07-01-一个开源的网络争论协议标准仓库](https://www.v2ex.com/t/686335)  
+- [2020-07-03-MIUI-如何做到后台应用不被杀？](https://www.v2ex.com/t/686820) ![](assets/new.png)  
+- [2020-07-03-内推—-京东数科深圳）80w-150w/年](https://www.v2ex.com/t/686819) ![](assets/new.png)  
+- [2020-07-03-汽车补胎后上高速安全吗](https://www.v2ex.com/t/686818) ![](assets/new.png)  
+- [2020-07-03-性冲动引起的不能专心工作如何克制](https://www.v2ex.com/t/686817) ![](assets/new.png)  
+- [2020-07-03-公司想裁人，不想给赔偿怎么办](https://www.v2ex.com/t/686816) ![](assets/new.png)  
+- [2020-07-03-关于-nginx-上短链的实现](https://www.v2ex.com/t/686815) ![](assets/new.png)  
+- [2020-07-03-字节跳动内推（社招+校招）](https://www.v2ex.com/t/686814) ![](assets/new.png)  
+- [2020-07-03-目前待业中，求-IT-行业-Java-或者-PHP-编程工作机会，工作地：苏州](https://www.v2ex.com/t/686813) ![](assets/new.png)  
+- [2020-07-03-A-股今年收益-40%算什么水平](https://www.v2ex.com/t/686812) ![](assets/new.png)  
+- [2020-07-03-Toc-Bar-,-一个显示页面大纲的-userscript。](https://www.v2ex.com/t/686810) ![](assets/new.png)  
+- [2020-07-03-现在面试官都那么奇怪的吗？](https://www.v2ex.com/t/686809) ![](assets/new.png)  
+- [2020-07-03-关于二胎随母姓的问题，想看看大家的看法](https://www.v2ex.com/t/686808) ![](assets/new.png)  
+- [2020-07-03-不懂就问，-Twitter-实时更新评论和点赞数量是如何做到的](https://www.v2ex.com/t/686807) ![](assets/new.png)  
+- [2020-07-03-2020-了，生日当天还有羊毛可薅吗？](https://www.v2ex.com/t/686806) ![](assets/new.png)  
+- [2020-07-03-内推育碧成都-技术运维主管-Technical-Operation-Lead](https://www.v2ex.com/t/686805) ![](assets/new.png)  
+- [2020-07-03-MBP-重启后无法操作！紧急求助！](https://www.v2ex.com/t/686803) ![](assets/new.png)  
+- [2020-07-03-tomcat-数据库连接池拿不到连接](https://www.v2ex.com/t/686802) ![](assets/new.png)  
+- [2020-07-03-力扣中国的提交时间有问题](https://www.v2ex.com/t/686801) ![](assets/new.png)  
+- [2020-07-03-做为程序员，罗技-MX-Master-2S-买就对了。](https://www.v2ex.com/t/686800) ![](assets/new.png)  
+- [2020-07-03-咨询-想问下在深圳邦彦工作的在职员工，邦彦明年会搬去龙岗吗？](https://www.v2ex.com/t/686799) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

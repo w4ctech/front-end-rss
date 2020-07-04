@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,9 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1) 
+- [2020-07-04-中国驻俄罗斯使馆提醒：谨慎选择自莫斯科转机回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipX8B0Xg89pL2wBBdDYJJ200704&isfromapp=1) 
+- [2020-07-04-荷兰卫生部：荷兰有充足的瑞德西韦库存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZUBiCN3ajJbVMtWFp2Ds200704&isfromapp=1) 
 - [2020-07-04-土耳其将于7月6日重开游乐场和主题公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1) 
 - [2020-07-04-曾在新发地购买的食物如何处置？国家卫健委专家回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yHvKJxLFh0RbfVdES97200704&isfromapp=1) 
 - [2020-07-04-美国单日新增病例再超5万-聚集活动成隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1) 

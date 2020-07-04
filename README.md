@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-04 20:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-04 22:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,10 @@
 </summary>
 
 
-- [2020-07-04-土耳其将于7月6日重开游乐场和主题公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-中国驻俄罗斯使馆提醒：谨慎选择自莫斯科转机回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipX8B0Xg89pL2wBBdDYJJ200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-荷兰卫生部：荷兰有充足的瑞德西韦库存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZUBiCN3ajJbVMtWFp2Ds200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-土耳其将于7月6日重开游乐场和主题公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1)  
 - [2020-07-04-曾在新发地购买的食物如何处置？国家卫健委专家回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yHvKJxLFh0RbfVdES97200704&isfromapp=1)  
 - [2020-07-04-美国单日新增病例再超5万-聚集活动成隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1)  
 - [2020-07-04-北京：开展线上招聘3000余场，5万余毕业生落实就业单位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimxPjQjLTnMXGx9GabAyy200704&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1)  
 - [2020-07-03-香港-3-日新增-5-例新冠肺炎确诊病例，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1)  
 - [2020-07-03-巴基斯坦外交部长感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1)  
-- [2020-07-03-假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimo8pqP0Wm7EaDJiCH9Xr200703&isfromapp=1)  
-- [2020-07-03-北京首都国际机场：明天起从首都机场离京不再查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3QpyCxGeRTWOJkaCfNq200703&isfromapp=1)  
-- [2020-07-03-吉尔吉斯斯坦社区感染性肺炎病例增加-面临双重疫情挑战](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

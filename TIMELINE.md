@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 08:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-04 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-7月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/8f76a26625044e5391bbd9e8c711b9a7.shtml) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1) 

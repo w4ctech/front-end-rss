@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-04 08:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-04 10:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061) ![](assets/new.png)  
-- [2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1) ![](assets/new.png)  
-- [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-7月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/8f76a26625044e5391bbd9e8c711b9a7.shtml) ![](assets/new.png)  
+- [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061)  
+- [2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1)  
+- [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1)  
 - [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1)  
 - [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1)  
 - [2020-07-03-香港-3-日新增-5-例新冠肺炎确诊病例，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-03-巴西原住民组织称已有超过1万名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1)  
 - [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1)  
 - [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1)  
-- [2020-07-03-朝鲜举行政治局扩大会议-讨论新冠肺炎防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

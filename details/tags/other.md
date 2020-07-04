@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-04-“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQKDsdXALGXKCqh1bmQB200704&isfromapp=1) 
 - [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1) 
 - [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1) 
 - [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061) 
@@ -5944,6 +5945,14 @@
 - [2020-05-29-27-个为什么，帮助你更好的理解Python-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13469&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWNKb8PBYN6ELl3ibPwG1Cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-一个导致JVM物理内存消耗大的Bug-club.perfma.com](https://blogread.cn/news/go.php?idItem=13466&url=https%3A%2F%2Fclub.perfma.com%2Farticle%2F96680%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-05-29-程序员不仅要写好代码，还有写好博客-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13465&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fz0QOujPftcVNWLWIALboIQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-04-分享公司内部-MySQL-使用规范](https://toutiao.io/k/j06adu7) 
+- [2020-07-04-阿里巴巴大规模应用-Flink-的实战经验：常见问题诊断思路](https://toutiao.io/k/lywzfs7) 
+- [2020-07-04-App-Clips-与快应用](https://toutiao.io/k/c0uo0wq) 
+- [2020-07-04-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/5vaybz8) 
+- [2020-07-04-Go-语言基础系列：基础语法](https://toutiao.io/k/m8a3alv) 
+- [2020-07-04-译-Home-Assistant，基于-Python-的-IoT-中心](https://toutiao.io/k/0eo7hib) 
+- [2020-07-04-零知识证明介绍](https://toutiao.io/k/jd4ndu9) 
+- [2020-07-04-Caddy-2-服务器-DNSPod.cn-模块（用于签发-SSL-证书时，对域名所有权的认证）](https://toutiao.io/k/g3gs6ek) 
 - [2020-07-02-架构设计：高并发流量削峰，共享资源加锁机制](https://toutiao.io/k/glnqhjq) 
 - [2020-07-02-为什么你写的代码总是有-Bug？用它来保证-Go-代码质量](https://toutiao.io/k/cgku34s) 
 - [2020-07-02-深入理解-IO-模型](https://toutiao.io/k/12zuiow) 

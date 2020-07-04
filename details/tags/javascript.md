@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -315,6 +315,7 @@
 - [2020-05-29-提问-声明一个成员变量，在局部方法中初始化，是否有线程安全问题？](https://www.v2ex.com/t/676763) 
 - [2020-05-29-FormMaking-可视化表单设计器支持自定义组件](https://www.v2ex.com/t/676573) 
 - [2020-05-29-Notion-没有滚动条...](https://www.v2ex.com/t/676552) 
+- [2020-07-04-设计稿生成代码核心技术揭秘：获取图片中前端组件的位置信息](https://toutiao.io/k/wf3x55k) 
 - [2020-07-02-嘘！异步事件这样用真的好么？](https://toutiao.io/k/5hjtind) 
 - [2020-06-30-fastjson-的这些坑，你误入了没？](https://toutiao.io/k/93h9f1e) 
 - [2020-06-30-一文凑齐四种变量转换方法](https://toutiao.io/k/zvj72hb) 

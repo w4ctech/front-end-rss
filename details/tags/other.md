@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1) 
+- [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1) 
 - [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061) 
 - [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1) 
 - [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1) 

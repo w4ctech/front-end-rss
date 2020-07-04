@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-04 10:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-04 12:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,11 @@
 </summary>
 
 
-- [2020-07-04-7月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/8f76a26625044e5391bbd9e8c711b9a7.shtml) ![](assets/new.png)  
+- [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-美国至少37州新冠肺炎疫情出现反弹-疫情就像“6级飓风”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBj3DsZjauijJoguFR8fO200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-圭亚那新冠肺炎疫情进入第二阶段“解封”期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ZEKgkRZ0SvicxCRMndi200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-7月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/8f76a26625044e5391bbd9e8c711b9a7.shtml)  
 - [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061)  
 - [2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1)  
 - [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-03-2名驻韩美军新冠检测阳性-因错记为阴性解除隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMqEixKc0FO3O3fm1BbJ200703&isfromapp=1)  
 - [2020-07-03-印度男子出现新冠肺炎症状仍办婚礼：婚后两天死亡-上百宾客呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEPIpTFq23JuqIB0lnVe8200703&isfromapp=1)  
 - [2020-07-03-美国单日新增确诊病例数超5.4万创新高-多州收紧限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1)  
-- [2020-07-03-​印度新增20903例新冠肺炎确诊病例-累计625544例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1)  
-- [2020-07-03-巴西原住民组织称已有超过1万名原住民确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1)  
-- [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1)  
-- [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

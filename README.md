@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-04 01:30:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-04 08:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,14 @@
 </summary>
 
 
-- [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-香港-3-日新增-5-例新冠肺炎确诊病例，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-巴基斯坦外交部长感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1) ![](assets/new.png)  
-- [2020-07-03-假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimo8pqP0Wm7EaDJiCH9Xr200703&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061) ![](assets/new.png)  
+- [2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1)  
+- [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1)  
+- [2020-07-03-香港-3-日新增-5-例新冠肺炎确诊病例，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1)  
+- [2020-07-03-巴基斯坦外交部长感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1)  
+- [2020-07-03-假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimo8pqP0Wm7EaDJiCH9Xr200703&isfromapp=1)  
 - [2020-07-03-北京首都国际机场：明天起从首都机场离京不再查验核酸证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3QpyCxGeRTWOJkaCfNq200703&isfromapp=1)  
 - [2020-07-03-吉尔吉斯斯坦社区感染性肺炎病例增加-面临双重疫情挑战](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1)  
 - [2020-07-03-世卫组织：全球新冠肺炎确诊病例超过1066万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-03-武汉82岁医生新冠肺炎康复后返岗-带来厚厚的自诊病历](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1)  
 - [2020-07-03-中国政府首批援巴西物资抵巴-中巴举办线上交接仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1)  
 - [2020-07-03-朝鲜举行政治局扩大会议-讨论新冠肺炎防疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1)  
-- [2020-07-03-世卫组织：全球已分享超过六万个新冠病毒基因序列](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1)  
-- [2020-07-03-捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1)  
-- [2020-07-03-加州疫情反扑-美国南加州大学推翻原有秋季返校计划-继续网上授课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

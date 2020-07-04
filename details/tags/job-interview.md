@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -8,6 +8,7 @@
 
 
 - [2020-02-22-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://china.caixin.com/2020-02-22/101519091.html) 
+- [2020-07-04-北京：开展线上招聘3000余场，5万余毕业生落实就业单位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimxPjQjLTnMXGx9GabAyy200704&isfromapp=1) 
 - [2020-06-22-笔试面试取消-北京特岗计划乡村教师招聘改为线上复审考核](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
 - [2020-06-24-解锁前端面试体系核心攻略.pdf](https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-04-美国单日新增病例再超5万-聚集活动成隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1) 
 - [2020-07-04-“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQKDsdXALGXKCqh1bmQB200704&isfromapp=1) 
 - [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1) 
 - [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1) 

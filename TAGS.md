@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-04 14:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-04 18:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -652,6 +652,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://china.caixin.com/2020-02-22/101519091.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京：开展线上招聘3000余场，5万余毕业生落实就业单位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimxPjQjLTnMXGx9GabAyy200704&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】笔试面试取消-北京特岗计划乡村教师招聘改为线上复审考核](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1)
 - [【Vue社区】前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1)
 - [【Vue中文社区】解锁前端面试体系核心攻略.pdf](https://www.ershicimi.com/p/6cc7ccccdcc16ffff7a991f731f79e73)
@@ -670,7 +671,6 @@
 - [【前端早读课】【招聘】百度智能办公团队招T5前端啦~](https://www.ershicimi.com/p/76f274c10de5695677deee3b02f7e40f)
 - [【前端早读课】【招聘】拼多多社交部门招聘web前端、cocos-creator开发及架构师](https://www.ershicimi.com/p/e4560774951f1b31e4c03e98043c3bcf)
 - [【前端早读课】【招聘】Tesla-招-移动软件工程师](https://www.ershicimi.com/p/23818617ecd388db7e30e5ce15de8767)
-- [【前端开发】2020-高频前端面试题+答案](https://www.ershicimi.com/p/2ec3cd78d889d99d4f3db5a6c8df3cc7)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-04 14:30:20，:rocket: 更新条数: +17， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-04 18:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-07-04-“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQKDsdXALGXKCqh1bmQB200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-美国单日新增病例再超5万-聚集活动成隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-北京：开展线上招聘3000余场，5万余毕业生落实就业单位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimxPjQjLTnMXGx9GabAyy200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQKDsdXALGXKCqh1bmQB200704&isfromapp=1)  
 - [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1)  
 - [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1)  
 - [2020-07-04-美国至少37州新冠肺炎疫情出现反弹-疫情就像“6级飓风”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBj3DsZjauijJoguFR8fO200704&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-03-吉尔吉斯斯坦社区感染性肺炎病例增加-面临双重疫情挑战](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1)  
 - [2020-07-03-世卫组织：全球新冠肺炎确诊病例超过1066万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1)  
 - [2020-07-03-北京新增确诊连续5天为个位数-治愈出院病例持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7tjapKTWHuTo9Wl4kWBO200703&isfromapp=1)  
-- [2020-07-03-2名驻韩美军新冠检测阳性-因错记为阴性解除隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMqEixKc0FO3O3fm1BbJ200703&isfromapp=1)  
-- [2020-07-03-印度男子出现新冠肺炎症状仍办婚礼：婚后两天死亡-上百宾客呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEPIpTFq23JuqIB0lnVe8200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,22 +1114,22 @@
 </summary>
 
 
-- [2020-07-04-分享公司内部-MySQL-使用规范](https://toutiao.io/k/j06adu7) ![](assets/new.png)  
-- [2020-07-04-阿里巴巴大规模应用-Flink-的实战经验：常见问题诊断思路](https://toutiao.io/k/lywzfs7) ![](assets/new.png)  
-- [2020-07-04-App-Clips-与快应用](https://toutiao.io/k/c0uo0wq) ![](assets/new.png)  
-- [2020-07-04-查询耗时降低-2/3，携程度假搜索引擎架构优化](https://toutiao.io/k/xjxbd0u) ![](assets/new.png)  
-- [2020-07-04-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/5vaybz8) ![](assets/new.png)  
-- [2020-07-04-工具-|-一个在线生成-nginx-配置文件的开源工具](https://toutiao.io/k/f54z6ff) ![](assets/new.png)  
-- [2020-07-04-使用-Go-GUI-库-fyne-编写一个计算器程序](https://toutiao.io/k/gfsxl55) ![](assets/new.png)  
-- [2020-07-04-设计稿生成代码核心技术揭秘：获取图片中前端组件的位置信息](https://toutiao.io/k/wf3x55k) ![](assets/new.png)  
-- [2020-07-04-Go-语言基础系列：基础语法](https://toutiao.io/k/m8a3alv) ![](assets/new.png)  
-- [2020-07-04-译-Home-Assistant，基于-Python-的-IoT-中心](https://toutiao.io/k/0eo7hib) ![](assets/new.png)  
-- [2020-07-04-零知识证明介绍](https://toutiao.io/k/jd4ndu9) ![](assets/new.png)  
-- [2020-07-04-使用-Nginx-同域名下部署多个-Vue-项目，并使用反向代理](https://toutiao.io/k/y9v46hb) ![](assets/new.png)  
-- [2020-07-04-顺藤摸瓜：用单元测试读懂-Vue-3-中的-provide/inject](https://toutiao.io/k/436zd0f) ![](assets/new.png)  
-- [2020-07-04-Koa2（一）：详解生成器](https://toutiao.io/k/h0x85pl) ![](assets/new.png)  
-- [2020-07-04-Caddy-2-服务器-DNSPod.cn-模块（用于签发-SSL-证书时，对域名所有权的认证）](https://toutiao.io/k/g3gs6ek) ![](assets/new.png)  
-- [2020-07-04-推荐-是时候扔掉-Postman-了，Apifox-真香](https://toutiao.io/k/5t9uoyn) ![](assets/new.png)  
+- [2020-07-04-分享公司内部-MySQL-使用规范](https://toutiao.io/k/j06adu7)  
+- [2020-07-04-阿里巴巴大规模应用-Flink-的实战经验：常见问题诊断思路](https://toutiao.io/k/lywzfs7)  
+- [2020-07-04-App-Clips-与快应用](https://toutiao.io/k/c0uo0wq)  
+- [2020-07-04-查询耗时降低-2/3，携程度假搜索引擎架构优化](https://toutiao.io/k/xjxbd0u)  
+- [2020-07-04-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/5vaybz8)  
+- [2020-07-04-工具-|-一个在线生成-nginx-配置文件的开源工具](https://toutiao.io/k/f54z6ff)  
+- [2020-07-04-使用-Go-GUI-库-fyne-编写一个计算器程序](https://toutiao.io/k/gfsxl55)  
+- [2020-07-04-设计稿生成代码核心技术揭秘：获取图片中前端组件的位置信息](https://toutiao.io/k/wf3x55k)  
+- [2020-07-04-Go-语言基础系列：基础语法](https://toutiao.io/k/m8a3alv)  
+- [2020-07-04-译-Home-Assistant，基于-Python-的-IoT-中心](https://toutiao.io/k/0eo7hib)  
+- [2020-07-04-零知识证明介绍](https://toutiao.io/k/jd4ndu9)  
+- [2020-07-04-使用-Nginx-同域名下部署多个-Vue-项目，并使用反向代理](https://toutiao.io/k/y9v46hb)  
+- [2020-07-04-顺藤摸瓜：用单元测试读懂-Vue-3-中的-provide/inject](https://toutiao.io/k/436zd0f)  
+- [2020-07-04-Koa2（一）：详解生成器](https://toutiao.io/k/h0x85pl)  
+- [2020-07-04-Caddy-2-服务器-DNSPod.cn-模块（用于签发-SSL-证书时，对域名所有权的认证）](https://toutiao.io/k/g3gs6ek)  
+- [2020-07-04-推荐-是时候扔掉-Postman-了，Apifox-真香](https://toutiao.io/k/5t9uoyn)  
 - [2020-07-02-架构设计：高并发流量削峰，共享资源加锁机制](https://toutiao.io/k/glnqhjq)  
 - [2020-07-02-为什么你写的代码总是有-Bug？用它来保证-Go-代码质量](https://toutiao.io/k/cgku34s)  
 - [2020-07-02-深入理解-IO-模型](https://toutiao.io/k/12zuiow)  

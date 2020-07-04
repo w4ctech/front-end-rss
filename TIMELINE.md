@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-05 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-05 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-英格兰酒馆、餐厅、剧院恢复营业-严格遵守社交距离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVahxQz2VdBZzCW0mLUih200705&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-受疫情影响-意大利近三分之一餐饮企业营收减半](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-美国37个州新冠确诊病例增加-仅有一州减少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivBYIg8wJrnTEPa12gGSQ200704&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1) 

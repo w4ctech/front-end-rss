@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-05 01:30:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-05 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-英格兰酒馆、餐厅、剧院恢复营业-严格遵守社交距离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVahxQz2VdBZzCW0mLUih200705&isfromapp=1) ![](assets/new.png)  
 - [2020-07-04-受疫情影响-意大利近三分之一餐饮企业营收减半](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1)  
 - [2020-07-04-美国37个州新冠确诊病例增加-仅有一州减少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivBYIg8wJrnTEPa12gGSQ200704&isfromapp=1)  
 - [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-04-7月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/8f76a26625044e5391bbd9e8c711b9a7.shtml)  
 - [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061)  
 - [2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1)  
-- [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1)  
-- [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1)  
-- [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,13 +1052,13 @@
 </summary>
 
 
-- [2020-07-05-杭州地区布偶猫咪领养（不免费）](https://www.v2ex.com/t/687227) ![](assets/new.png)  
-- [2020-07-05-还记得上次-DTK-归还流程的大佬请指点：协议说归还时保留外包装，是仅内部白色的盒子，还是连外面的黄色纸盒+保护壳也要留着？](https://www.v2ex.com/t/687226) ![](assets/new.png)  
-- [2020-07-05-20200705-午夜俱乐部](https://www.v2ex.com/t/687224) ![](assets/new.png)  
-- [2020-07-05-macOs-Big-Sur-iterm2-终端一直处于-login-状态](https://www.v2ex.com/t/687223) ![](assets/new.png)  
-- [2020-07-05-这种网站是不是侵犯淘宝用户的隐私了](https://www.v2ex.com/t/687222) ![](assets/new.png)  
-- [2020-07-05-掘金能做起来，真的有点牛批——一个不成熟的想法](https://www.v2ex.com/t/687221) ![](assets/new.png)  
-- [2020-07-05-感觉手机太重了，有办法让它变轻点吗？](https://www.v2ex.com/t/687220) ![](assets/new.png)  
+- [2020-07-05-杭州地区布偶猫咪领养（不免费）](https://www.v2ex.com/t/687227)  
+- [2020-07-05-还记得上次-DTK-归还流程的大佬请指点：协议说归还时保留外包装，是仅内部白色的盒子，还是连外面的黄色纸盒+保护壳也要留着？](https://www.v2ex.com/t/687226)  
+- [2020-07-05-20200705-午夜俱乐部](https://www.v2ex.com/t/687224)  
+- [2020-07-05-macOs-Big-Sur-iterm2-终端一直处于-login-状态](https://www.v2ex.com/t/687223)  
+- [2020-07-05-这种网站是不是侵犯淘宝用户的隐私了](https://www.v2ex.com/t/687222)  
+- [2020-07-05-掘金能做起来，真的有点牛批——一个不成熟的想法](https://www.v2ex.com/t/687221)  
+- [2020-07-05-感觉手机太重了，有办法让它变轻点吗？](https://www.v2ex.com/t/687220)  
 - [2020-07-05-大家有什么好用的漫画/轻小说阅读软件吗？](https://www.v2ex.com/t/687218)  
 - [2020-07-05-这次金山云的活动，拼团的有吗？](https://www.v2ex.com/t/687217)  
 - [2020-07-04-是否可以让一台-VPS-通过另一台-VPS-访问-IPv6-网络](https://www.v2ex.com/t/687216)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-05 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -74,6 +74,8 @@
 - [2020-05-30-简单记录下回流-reflow-和重绘-repaint](https://juejin.im/post/5ed200a2f265da770b40ce01) 
 - [2020-05-29-websocket实现一个聊天室](https://juejin.im/post/5ed0ef8c6fb9a047dc2cc196) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-07-04-群晖只是对公网开放-WebDAV-服务是不是比较安全](https://www.v2ex.com/t/687209) 
+- [2020-07-04-我开发的第一个-chrome-extension-终于审核通过了，欢迎大佬试用😊](https://www.v2ex.com/t/687178) 
 - [2020-07-03-汽车补胎后上高速安全吗](https://www.v2ex.com/t/686818) 
 - [2020-07-03-Mac-被入侵控制，修改了密码，还要做点什么确保安全？](https://www.v2ex.com/t/686788) 
 - [2020-07-01-现在国内做安全的都这么肆无忌惮吗？发现有漏洞就直接提交公布？](https://www.v2ex.com/t/686344) 

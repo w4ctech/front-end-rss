@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-04 22:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-05 00:30:20，:rocket: 更新条数: +39， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1) ![](assets/new.png)  
-- [2020-07-04-中国驻俄罗斯使馆提醒：谨慎选择自莫斯科转机回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipX8B0Xg89pL2wBBdDYJJ200704&isfromapp=1) ![](assets/new.png)  
-- [2020-07-04-荷兰卫生部：荷兰有充足的瑞德西韦库存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZUBiCN3ajJbVMtWFp2Ds200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-受疫情影响-意大利近三分之一餐饮企业营收减半](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-美国37个州新冠确诊病例增加-仅有一州减少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivBYIg8wJrnTEPa12gGSQ200704&isfromapp=1) ![](assets/new.png)  
+- [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1)  
+- [2020-07-04-中国驻俄罗斯使馆提醒：谨慎选择自莫斯科转机回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipX8B0Xg89pL2wBBdDYJJ200704&isfromapp=1)  
+- [2020-07-04-荷兰卫生部：荷兰有充足的瑞德西韦库存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZUBiCN3ajJbVMtWFp2Ds200704&isfromapp=1)  
 - [2020-07-04-土耳其将于7月6日重开游乐场和主题公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1)  
 - [2020-07-04-曾在新发地购买的食物如何处置？国家卫健委专家回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yHvKJxLFh0RbfVdES97200704&isfromapp=1)  
 - [2020-07-04-美国单日新增病例再超5万-聚集活动成隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-04-阿联酋开放本国公民和外籍居民出国旅行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1)  
 - [2020-07-03-意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1)  
 - [2020-07-03-新加坡电影院将于-7-月-13-日重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1)  
-- [2020-07-03-香港-3-日新增-5-例新冠肺炎确诊病例，均为境外输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1)  
-- [2020-07-03-巴基斯坦外交部长感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-07-03-MIUI-如何做到后台应用不被杀？](https://www.v2ex.com/t/686820)  
-- [2020-07-03-内推—-京东数科深圳）80w-150w/年](https://www.v2ex.com/t/686819)  
-- [2020-07-03-汽车补胎后上高速安全吗](https://www.v2ex.com/t/686818)  
-- [2020-07-03-性冲动引起的不能专心工作如何克制](https://www.v2ex.com/t/686817)  
-- [2020-07-03-公司想裁人，不想给赔偿怎么办](https://www.v2ex.com/t/686816)  
-- [2020-07-03-关于-nginx-上短链的实现](https://www.v2ex.com/t/686815)  
-- [2020-07-03-字节跳动内推（社招+校招）](https://www.v2ex.com/t/686814)  
-- [2020-07-03-目前待业中，求-IT-行业-Java-或者-PHP-编程工作机会，工作地：苏州](https://www.v2ex.com/t/686813)  
-- [2020-07-03-A-股今年收益-40%算什么水平](https://www.v2ex.com/t/686812)  
-- [2020-07-03-Toc-Bar-,-一个显示页面大纲的-userscript。](https://www.v2ex.com/t/686810)  
-- [2020-07-03-现在面试官都那么奇怪的吗？](https://www.v2ex.com/t/686809)  
-- [2020-07-03-关于二胎随母姓的问题，想看看大家的看法](https://www.v2ex.com/t/686808)  
-- [2020-07-03-不懂就问，-Twitter-实时更新评论和点赞数量是如何做到的](https://www.v2ex.com/t/686807)  
-- [2020-07-03-2020-了，生日当天还有羊毛可薅吗？](https://www.v2ex.com/t/686806)  
-- [2020-07-03-内推育碧成都-技术运维主管-Technical-Operation-Lead](https://www.v2ex.com/t/686805)  
-- [2020-07-03-MBP-重启后无法操作！紧急求助！](https://www.v2ex.com/t/686803)  
-- [2020-07-03-tomcat-数据库连接池拿不到连接](https://www.v2ex.com/t/686802)  
-- [2020-07-03-力扣中国的提交时间有问题](https://www.v2ex.com/t/686801)  
-- [2020-07-03-做为程序员，罗技-MX-Master-2S-买就对了。](https://www.v2ex.com/t/686800)  
-- [2020-07-03-咨询-想问下在深圳邦彦工作的在职员工，邦彦明年会搬去龙岗吗？](https://www.v2ex.com/t/686799)  
+- [2020-07-05-大家有什么好用的漫画/轻小说阅读软件吗？](https://www.v2ex.com/t/687218) ![](assets/new.png)  
+- [2020-07-05-这次金山云的活动，拼团的有吗？](https://www.v2ex.com/t/687217) ![](assets/new.png)  
+- [2020-07-04-是否可以让一台-VPS-通过另一台-VPS-访问-IPv6-网络](https://www.v2ex.com/t/687216) ![](assets/new.png)  
+- [2020-07-04-在群晖登陆后使用视频壁纸](https://www.v2ex.com/t/687215) ![](assets/new.png)  
+- [2020-07-04-求助，-简单-Java-数据导入项目有人接吗](https://www.v2ex.com/t/687214) ![](assets/new.png)  
+- [2020-07-04-不懂就问：是否该接入微信收付款和支付宝收付款？](https://www.v2ex.com/t/687213) ![](assets/new.png)  
+- [2020-07-04-阿里云国际取消了-2.5-美元/月的新加坡-ecs-了吗？](https://www.v2ex.com/t/687212) ![](assets/new.png)  
+- [2020-07-04-求个-js-正则，脑子最近进水，暂时想不出来](https://www.v2ex.com/t/687210) ![](assets/new.png)  
+- [2020-07-04-群晖只是对公网开放-WebDAV-服务是不是比较安全](https://www.v2ex.com/t/687209) ![](assets/new.png)  
+- [2020-07-04-终于忍不住把家里布线重整了](https://www.v2ex.com/t/687208) ![](assets/new.png)  
+- [2020-07-04-有什么便宜的图像处理服务吗](https://www.v2ex.com/t/687207) ![](assets/new.png)  
+- [2020-07-04-学习方法](https://www.v2ex.com/t/687206) ![](assets/new.png)  
+- [2020-07-04-宏碁（Acer）掠夺者-XB273K-S-间歇性黑屏](https://www.v2ex.com/t/687204) ![](assets/new.png)  
+- [2020-07-04-替代-FinalShell-的远程管理工具-SSH？](https://www.v2ex.com/t/687203) ![](assets/new.png)  
+- [2020-07-04-判断自己所在地方是否偏远很简单精准权威的一招](https://www.v2ex.com/t/687201) ![](assets/new.png)  
+- [2020-07-04-go-admin-代码生成工具视频比基础功能讲解视频点击次数要多搞不清楚为啥？](https://www.v2ex.com/t/687200) ![](assets/new.png)  
+- [2020-07-04-感慨一下，还是迅雷下老磁力链资源厉害](https://www.v2ex.com/t/687199) ![](assets/new.png)  
+- [2020-07-04-爱尔眼科-300015-2019-年财报笔记心得](https://www.v2ex.com/t/687198) ![](assets/new.png)  
+- [2020-07-04-2018-款-13-寸-MacBook-Pro-疑似电池鼓包](https://www.v2ex.com/t/687197) ![](assets/new.png)  
+- [2020-07-04-有几个加不进的-QQ-群，有什么免费工具可以把里面的成员导出来？大佬指个方向，谢谢！](https://www.v2ex.com/t/687195) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

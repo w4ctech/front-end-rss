@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-04 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-05 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -30,6 +30,7 @@
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-06-07-以游戏玩家的视角开启设计模式](https://juejin.im/post/5edcb5a5e51d457863403438) 
 - [2020-06-07-ThreeJS-——-机房Demo（二）](https://juejin.im/post/5edbab70f265da76f9171d62) 
+- [2020-07-04-如果游戏里的任务变成现实中同等难度的任务，这游戏还有人玩吗？](https://www.v2ex.com/t/687174) 
 - [2020-06-28-做一个类似这种可以看油管或者游戏加速的成本有多高？](https://www.v2ex.com/t/685246) 
 - [2020-06-26-有图-自女娲补天以来，程序员被黑得最惨的一次，还是在小游戏里。](https://www.v2ex.com/t/684916) 
 - [2020-06-26-steam-夏促开始了，来推荐一波游戏](https://www.v2ex.com/t/684806) 

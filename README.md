@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-05 13:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-05 14:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-07-05-德国新增239例新冠肺炎确诊病例-累计确诊196335例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1) ![](assets/new.png)  
-- [2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021) ![](assets/new.png)  
+- [2020-07-05-世卫组织：望部分疫情严重国家“清醒过来”](https://m.weibo.cn/3057540037/4523307478018295) ![](assets/new.png)  
+- [2020-07-05-德国新增239例新冠肺炎确诊病例-累计确诊196335例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1)  
+- [2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021)  
 - [2020-07-05-北京4日新增报告2例新冠肺炎确诊病例，均在丰台区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQfTXVzhnGYXT6KL9V5d200705&isfromapp=1)  
 - [2020-07-05-加纳总统进行两周自我隔离，身边至少1人确诊感染病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67DnzT8MSPidY8GA9qUD200705&isfromapp=1)  
 - [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-04-“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQKDsdXALGXKCqh1bmQB200704&isfromapp=1)  
 - [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1)  
 - [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1)  
-- [2020-07-04-美国至少37州新冠肺炎疫情出现反弹-疫情就像“6级飓风”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBj3DsZjauijJoguFR8fO200704&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

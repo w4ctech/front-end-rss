@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-05 13:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-05 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-05-世卫组织：望部分疫情严重国家“清醒过来”](https://m.weibo.cn/3057540037/4523307478018295) 
 - [2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021) 
 - [2020-07-05-加纳总统进行两周自我隔离，身边至少1人确诊感染病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67DnzT8MSPidY8GA9qUD200705&isfromapp=1) 
 - [2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1) 

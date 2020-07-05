@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 06:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-06 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1) 
 - [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1) 
 - [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1) 
 - [2020-07-05-新加坡扩大筛查范围-重点人群优先检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1) 

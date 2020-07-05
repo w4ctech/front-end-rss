@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 06:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-06 07:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-06-世卫组织：全球新增203836例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1) 

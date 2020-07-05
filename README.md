@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-05 20:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-05 23:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,11 @@
 </summary>
 
 
-- [2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1110万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0D5kRtTMFJ1EwvgEs28M200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-新加坡扩大筛查范围-重点人群优先检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1110万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0D5kRtTMFJ1EwvgEs28M200705&isfromapp=1)  
 - [2020-07-05-北京又有6地疫情风险等级降级，高风险地区仅余一个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1)  
 - [2020-07-05-内蒙古5日报告新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1)  
 - [2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1104万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiuuZSBaWvQGTlw27Wrn200705&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-04-受疫情影响-意大利近三分之一餐饮企业营收减半](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1)  
 - [2020-07-04-美国37个州新冠确诊病例增加-仅有一州减少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivBYIg8wJrnTEPa12gGSQ200704&isfromapp=1)  
 - [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1)  
-- [2020-07-04-中国驻俄罗斯使馆提醒：谨慎选择自莫斯科转机回国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipX8B0Xg89pL2wBBdDYJJ200704&isfromapp=1)  
-- [2020-07-04-荷兰卫生部：荷兰有充足的瑞德西韦库存](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZUBiCN3ajJbVMtWFp2Ds200704&isfromapp=1)  
-- [2020-07-04-土耳其将于7月6日重开游乐场和主题公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1)  
-- [2020-07-04-曾在新发地购买的食物如何处置？国家卫健委专家回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yHvKJxLFh0RbfVdES97200704&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

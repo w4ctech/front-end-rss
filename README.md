@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-05 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-05 09:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1) ![](assets/new.png)  
-- [2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1) ![](assets/new.png)  
-- [2020-07-05-英格兰酒馆、餐厅、剧院恢复营业-严格遵守社交距离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVahxQz2VdBZzCW0mLUih200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-北京4日新增报告2例新冠肺炎确诊病例，均在丰台区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQfTXVzhnGYXT6KL9V5d200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-加纳总统进行两周自我隔离，身边至少1人确诊感染病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67DnzT8MSPidY8GA9qUD200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1)  
+- [2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1)  
+- [2020-07-05-英格兰酒馆、餐厅、剧院恢复营业-严格遵守社交距离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVahxQz2VdBZzCW0mLUih200705&isfromapp=1)  
 - [2020-07-04-受疫情影响-意大利近三分之一餐饮企业营收减半](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1)  
 - [2020-07-04-美国37个州新冠确诊病例增加-仅有一州减少](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivBYIg8wJrnTEPa12gGSQ200704&isfromapp=1)  
 - [2020-07-04-高考即将来临-广东考前防疫再升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-04-美国至少37州新冠肺炎疫情出现反弹-疫情就像“6级飓风”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBj3DsZjauijJoguFR8fO200704&isfromapp=1)  
 - [2020-07-04-圭亚那新冠肺炎疫情进入第二阶段“解封”期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ZEKgkRZ0SvicxCRMndi200704&isfromapp=1)  
 - [2020-07-04-7月3日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/8f76a26625044e5391bbd9e8c711b9a7.shtml)  
-- [2020-07-04-巴西去年废水中测出病毒](https://m.weibo.cn/3057540037/4522869587887061)  
-- [2020-07-04-美国新冠肺炎确诊病例超过278万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

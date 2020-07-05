@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-05 14:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-05 19:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,11 @@
 </summary>
 
 
-- [2020-07-05-世卫组织：望部分疫情严重国家“清醒过来”](https://m.weibo.cn/3057540037/4523307478018295) ![](assets/new.png)  
+- [2020-07-05-北京又有6地疫情风险等级降级，高风险地区仅余一个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-内蒙古5日报告新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1104万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiuuZSBaWvQGTlw27Wrn200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-美国40个州新冠肺炎疫情加剧，多州新增病例创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlPZeigqTVDwt02FnfJx200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-世卫组织：望部分疫情严重国家“清醒过来”](https://m.weibo.cn/3057540037/4523307478018295)  
 - [2020-07-05-德国新增239例新冠肺炎确诊病例-累计确诊196335例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1)  
 - [2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021)  
 - [2020-07-05-北京4日新增报告2例新冠肺炎确诊病例，均在丰台区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQfTXVzhnGYXT6KL9V5d200705&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-04-土耳其将于7月6日重开游乐场和主题公园](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1)  
 - [2020-07-04-曾在新发地购买的食物如何处置？国家卫健委专家回应](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yHvKJxLFh0RbfVdES97200704&isfromapp=1)  
 - [2020-07-04-美国单日新增病例再超5万-聚集活动成隐患](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1)  
-- [2020-07-04-北京：开展线上招聘3000余场，5万余毕业生落实就业单位](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimxPjQjLTnMXGx9GabAyy200704&isfromapp=1)  
-- [2020-07-04-“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAQKDsdXALGXKCqh1bmQB200704&isfromapp=1)  
-- [2020-07-04-100亿欧元对抗疫情-西班牙政府颁布经济复苏计划并采取措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1)  
-- [2020-07-04-巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

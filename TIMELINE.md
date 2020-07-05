@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-05 14:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-05 19:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-北京又有6地疫情风险等级降级，高风险地区仅余一个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-内蒙古5日报告新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1104万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiuuZSBaWvQGTlw27Wrn200705&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-美国40个州新冠肺炎疫情加剧，多州新增病例创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlPZeigqTVDwt02FnfJx200705&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-世卫组织：望部分疫情严重国家“清醒过来”](https://m.weibo.cn/3057540037/4523307478018295) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-德国新增239例新冠肺炎确诊病例-累计确诊196335例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021) 

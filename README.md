@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-05 23:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-06 06:30:20，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,10 +94,10 @@
 </summary>
 
 
-- [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1) ![](assets/new.png)  
-- [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1) ![](assets/new.png)  
-- [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1) ![](assets/new.png)  
-- [2020-07-05-新加坡扩大筛查范围-重点人群优先检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1) ![](assets/new.png)  
+- [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1)  
+- [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1)  
+- [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1)  
+- [2020-07-05-新加坡扩大筛查范围-重点人群优先检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1)  
 - [2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1110万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0D5kRtTMFJ1EwvgEs28M200705&isfromapp=1)  
 - [2020-07-05-北京又有6地疫情风险等级降级，高风险地区仅余一个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1)  
 - [2020-07-05-内蒙古5日报告新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1)  
@@ -1083,6 +1083,19 @@
 </summary>
 
 
+- [2020-07-06-Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-字节码插桩极简入门-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13580&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faf2dpVzA7x-zMc1Kh_JWfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13579&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlMddzOEtHd_xURO9ZFJrnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13578&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrwwoRQ_gT5K_CaapSAjG-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-这个码太牛逼了！实现跨系统，任意秒传文件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13577&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCTURqPQfVQt6Bic4QYYA6A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-Facebook上获赞千万的漫画：《人生的意义》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13576&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAcWmzdARjXWwLt1dSaWmjg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-刚刚，GitHub-重磅发布-4-大新功能！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13575&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo8QutK8Kqhx0hfJt6vyaKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-2020，Vue-开发最佳指南，你都需要学点啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13574&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNZuyVDpF5AFl8X46-P_C0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-22-个最常用的-Python-包-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13573&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6gzcNflQ7Z0h6H5SCrmZDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-聊聊我的一次真实-Python-面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13572&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw9x1uqzxVl8LGKY1Oeq5ww%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-06-下载！《工业智能白皮书》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13571&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2K7obh3CrPlbbxtDACYRhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-07-03-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-03-QUIC/HTTP3-协议简析-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13569&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F151639428%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-为精美，FButton-&-FSwitch-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13568&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLVuLQlImR7mknKPnFEfx-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1090,19 +1103,6 @@
 - [2020-06-29-不使用第三方库，Bitmap-的优化策略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13566&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHnbhuQQJ4QVru3YTJYwSbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-8-个-Python-高效数据分析的技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13565&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwW6YGs4cU3cEpSzSbBE3Zg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-深入浅出-Android-屏幕刷新原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13564&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiogNs1Z_BJb4-ZgJXT_A0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-21-个令程序员泪流满面的瞬间-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13563&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Frix1cFEzkTc0GQJrHykMLA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-探索-Android-TDD-开发方法-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13562&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAkduog4J5yjbdafrKLHsEg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-10-分钟实现-Java-发送邮件功能-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13561&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoZASKxSVUJ3dFdYHmihBkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-ImageView-scaleType-各种不同效果解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13560&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FICFI-RltyYv2Mu77WYLtBA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-20-张程序员不得不看的内涵动图-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13559&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAJLbxoBv93ndgAPo3AsulA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-程序员，等你当了爸爸后，便会有如下经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13558&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUd1g82L6U9MNxplV2Pi3Tg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-Java-初级和高级面试知识点准备-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13557&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVBAmgye47ySrjd9JSpK5vA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-为什么-IDEA-比-Eclipse-更好？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13556&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FK_vEDqXxQw-6JUuI2tcsGg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-下载！PyTorch中文版官方教程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13555&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMCaRkvg0frqMe_uExvVpCw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-火了！某总理的儿子，写了一本编程入门书！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13554&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiIptwa3EYP5ngjWIc_ZC0A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-重磅！程序员工资不会上涨的几个现象-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13553&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRmW5qz0vwm3hnFPUwbVbGQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-《统计机器学习与凸优化》教程-PPT-下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13552&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjTZIlQohSktFr6SsmUZjkQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-28-快应用-IDE-定制-Devtools-元素面板系列二：新增面板-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13551&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-2%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

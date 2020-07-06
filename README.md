@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-06 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-06 10:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,9 @@
 </summary>
 
 
-- [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-法国卢浮宫今日重开-11岁以上参观者须全程戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-中国阿根廷搭建“空中桥梁”合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1)  
 - [2020-07-06-智利政府推出惠民计划-帮助中产家庭度过疫情危机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1)  
 - [2020-07-06-秘鲁新冠肺炎确诊病例超过30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUA6tvKMTHdOqguJRvRbO200706&isfromapp=1)  
 - [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-05-德国新增239例新冠肺炎确诊病例-累计确诊196335例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1)  
 - [2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021)  
 - [2020-07-05-北京4日新增报告2例新冠肺炎确诊病例，均在丰台区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQfTXVzhnGYXT6KL9V5d200705&isfromapp=1)  
-- [2020-07-05-加纳总统进行两周自我隔离，身边至少1人确诊感染病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67DnzT8MSPidY8GA9qUD200705&isfromapp=1)  
-- [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

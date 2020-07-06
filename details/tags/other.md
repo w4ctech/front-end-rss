@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 09:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-06 10:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-06-法国卢浮宫今日重开-11岁以上参观者须全程戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1) 
+- [2020-07-06-中国阿根廷搭建“空中桥梁”合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1) 
 - [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1) 
 - [2020-07-06-智利政府推出惠民计划-帮助中产家庭度过疫情危机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1) 
 - [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-06 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -34,6 +34,7 @@
 - [2020-06-01-关于Git-rebase你必须要知道的几件事](https://juejin.im/post/5ed47d006fb9a047da363b62) 
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
+- [2020-07-06-GitHub：分布式爬虫从零开始](https://www.v2ex.com/t/687627) 
 - [2020-07-06-推荐一个-Github-上面免费用的-Android-人脸关键点-SDK，-Demo-图中的小姐姐好漂亮](https://www.v2ex.com/t/687534) 
 - [2020-06-26-git-服务器关于-web-目录权限的困惑](https://www.v2ex.com/t/684926) 
 - [2020-06-24-gcloud-1G-内存，装了点-mysql，然后装了点-gitlab-ce，直接卡死了。](https://www.v2ex.com/t/684593) 

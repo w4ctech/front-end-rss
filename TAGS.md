@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-06 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-06 20:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -588,6 +588,7 @@
 - [【InfoQ】NGINX之父及F5再遭起诉并索赔7.5亿美元；阿里高管大调整；苹果iOS或将改名iPhone-OS](https://www.ershicimi.com/p/9a0072b5c89c6c96d255e4022d524d94)
 - [【InfoQ】用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299)
 - [【掘金前端】Centos-docker使用日记](https://juejin.im/post/5eda0376f265da76d92617d5)
+- [【V2EX】遇到可能假死的-Spring-Cloud-应用，-Nginx-的负载均衡应该怎么做？](https://www.v2ex.com/t/687655)
 - [【V2EX】关于-nginx-上短链的实现](https://www.v2ex.com/t/686815)
 - [【V2EX】ltsc-安装-wsl-里面安装-docker-有坑吗？](https://www.v2ex.com/t/686345)
 - [【V2EX】求助，外网无法访问-docker-bridge-模式的容器服务](https://www.v2ex.com/t/686323)
@@ -598,7 +599,6 @@
 - [【V2EX】求问一下-nginx-里面-proxy_buffers-的设置问题](https://www.v2ex.com/t/683796)
 - [【V2EX】大佬们,尝试用-exprss-+-mongoose-写了个-restful-望各路大神指导](https://www.v2ex.com/t/683670)
 - [【V2EX】如何最大化单连接情况下本地-nginx-文件服务的下载速度？](https://www.v2ex.com/t/683591)
-- [【V2EX】如何将多款软件（JDK、MySQL、redis、nginx、-Java-项目-jar-包-等）打包为-exe-/-msi-等可执行安装软件，一步步安装并启动？](https://www.v2ex.com/t/683365)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

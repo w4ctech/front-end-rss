@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-07 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1) 
+- [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1) 
 - [2020-07-06-民航局发出首份外航熔断指令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilHDBvPjfYmY9t9ennh9g200706&isfromapp=1) 
 - [2020-07-06-北京市疾控中心发布-2020-年高考防疫关键提示](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivRTuZrIKlMX9GJAJzrnm200706&isfromapp=1) 
 - [2020-07-06-北京为确诊患者提供心理干预](https://m.weibo.cn/2803301701/4523734431978026) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-06 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-07 00:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -94,6 +94,10 @@
 </summary>
 
 
+- [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-全球新冠肺炎超1143万](https://m.weibo.cn/2803301701/4523771610347333) ![](assets/new.png)  
 - [2020-07-06-民航局发出首份外航熔断指令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilHDBvPjfYmY9t9ennh9g200706&isfromapp=1)  
 - [2020-07-06-北京市疾控中心发布-2020-年高考防疫关键提示](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivRTuZrIKlMX9GJAJzrnm200706&isfromapp=1)  
 - [2020-07-06-北京为确诊患者提供心理干预](https://m.weibo.cn/2803301701/4523734431978026)  
@@ -110,10 +114,6 @@
 - [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1)  
 - [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1)  
 - [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1)  
-- [2020-07-05-新加坡扩大筛查范围-重点人群优先检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1)  
-- [2020-07-05-世卫组织：全球新冠肺炎确诊病例累计超1110万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0D5kRtTMFJ1EwvgEs28M200705&isfromapp=1)  
-- [2020-07-05-北京又有6地疫情风险等级降级，高风险地区仅余一个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1)  
-- [2020-07-05-内蒙古5日报告新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -651,7 +651,7 @@
 </summary>
 
 
-- [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) ![](assets/new.png)  
+- [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  
 - [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)  
 - [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)  
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  

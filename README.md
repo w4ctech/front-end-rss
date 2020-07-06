@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-06 15:00:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-06 18:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,6 +94,7 @@
 </summary>
 
 
+- [2020-07-06-西班牙国王出席新冠肺炎逝者悼念仪式，7-月-16-日举行官方哀悼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkdJ8QdiHXLcVZRMcMRB200706&isfromapp=1) ![](assets/new.png)  
 - [2020-07-06-美国华盛顿大学出现聚集性疫情-121名学生新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1)  
 - [2020-07-06-法国卢浮宫今日重开-11岁以上参观者须全程戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1)  
 - [2020-07-06-中国阿根廷搭建“空中桥梁”合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-05-美国40个州新冠肺炎疫情加剧，多州新增病例创新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlPZeigqTVDwt02FnfJx200705&isfromapp=1)  
 - [2020-07-05-世卫组织：望部分疫情严重国家“清醒过来”](https://m.weibo.cn/3057540037/4523307478018295)  
 - [2020-07-05-德国新增239例新冠肺炎确诊病例-累计确诊196335例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1)  
-- [2020-07-05-严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍](https://m.weibo.cn/3057540037/4523277278234021)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-07-06-独家解析-|-程序员-深度文章写作技巧](https://www.v2ex.com/t/687578) ![](assets/new.png)  
-- [2020-07-06-夏天推荐凉爽一点的枕头套](https://www.v2ex.com/t/687577) ![](assets/new.png)  
-- [2020-07-06-社招-Hillinsight--Java-工程师](https://www.v2ex.com/t/687576) ![](assets/new.png)  
-- [2020-07-06-滴滴深圳招收大前端前端、Android、iOS各端实习生、高级开发工程师，有意戳邮件](https://www.v2ex.com/t/687575) ![](assets/new.png)  
-- [2020-07-06-深圳-测试运维-招聘](https://www.v2ex.com/t/687574) ![](assets/new.png)  
-- [2020-07-06-GeoTrust-域名型（DV）单域名证书-有必要买么？](https://www.v2ex.com/t/687573) ![](assets/new.png)  
-- [2020-07-06-要查询一个数据表的限定数量的最近的插入记录，特定的最近插入的记录，这个比较好的实现方案有哪些](https://www.v2ex.com/t/687572) ![](assets/new.png)  
-- [2020-07-06-百度网盘的触手又延长了。。。](https://www.v2ex.com/t/687571) ![](assets/new.png)  
-- [2020-07-06-实习超期后想要离职，但是公司要求再签新的劳动协议才能离职](https://www.v2ex.com/t/687569) ![](assets/new.png)  
-- [2020-07-06-社招-Hillinsight-高级-nodejs-工程师](https://www.v2ex.com/t/687567) ![](assets/new.png)  
-- [2020-07-06-pyppeteer-登录谷歌-出现-此浏览器或应用可能不安全。](https://www.v2ex.com/t/687566) ![](assets/new.png)  
-- [2020-07-06-DJI-大疆-校招开始啦-深圳，上海，西安](https://www.v2ex.com/t/687565) ![](assets/new.png)  
-- [2020-07-06-关于异步文件处理的编程问题](https://www.v2ex.com/t/687564) ![](assets/new.png)  
-- [2020-07-06-21-届本科-211-非科班转前端，离秋招只剩两个月了该怎么办](https://www.v2ex.com/t/687560) ![](assets/new.png)  
-- [2020-07-06-两个月小奶猫找领养，已驱虫体检，神似四字弟弟](https://www.v2ex.com/t/687559) ![](assets/new.png)  
-- [2020-07-06-comfast-这个品牌的-4g-路由怎么样？](https://www.v2ex.com/t/687558) ![](assets/new.png)  
-- [2020-07-06-你们身体有没有什么问题啊？我入行-5-年多多少少出现了状况](https://www.v2ex.com/t/687557) ![](assets/new.png)  
-- [2020-07-06-请教：有用过-SHOP++的大佬吗？](https://www.v2ex.com/t/687556) ![](assets/new.png)  
-- [2020-07-06-活动呀，需要-office-的可以看看哦](https://www.v2ex.com/t/687555) ![](assets/new.png)  
-- [2020-07-06-请教，站点访问速度慢问题](https://www.v2ex.com/t/687553) ![](assets/new.png)  
+- [2020-07-06-独家解析-|-程序员-深度文章写作技巧](https://www.v2ex.com/t/687578)  
+- [2020-07-06-夏天推荐凉爽一点的枕头套](https://www.v2ex.com/t/687577)  
+- [2020-07-06-社招-Hillinsight--Java-工程师](https://www.v2ex.com/t/687576)  
+- [2020-07-06-滴滴深圳招收大前端前端、Android、iOS各端实习生、高级开发工程师，有意戳邮件](https://www.v2ex.com/t/687575)  
+- [2020-07-06-深圳-测试运维-招聘](https://www.v2ex.com/t/687574)  
+- [2020-07-06-GeoTrust-域名型（DV）单域名证书-有必要买么？](https://www.v2ex.com/t/687573)  
+- [2020-07-06-要查询一个数据表的限定数量的最近的插入记录，特定的最近插入的记录，这个比较好的实现方案有哪些](https://www.v2ex.com/t/687572)  
+- [2020-07-06-百度网盘的触手又延长了。。。](https://www.v2ex.com/t/687571)  
+- [2020-07-06-实习超期后想要离职，但是公司要求再签新的劳动协议才能离职](https://www.v2ex.com/t/687569)  
+- [2020-07-06-社招-Hillinsight-高级-nodejs-工程师](https://www.v2ex.com/t/687567)  
+- [2020-07-06-pyppeteer-登录谷歌-出现-此浏览器或应用可能不安全。](https://www.v2ex.com/t/687566)  
+- [2020-07-06-DJI-大疆-校招开始啦-深圳，上海，西安](https://www.v2ex.com/t/687565)  
+- [2020-07-06-关于异步文件处理的编程问题](https://www.v2ex.com/t/687564)  
+- [2020-07-06-21-届本科-211-非科班转前端，离秋招只剩两个月了该怎么办](https://www.v2ex.com/t/687560)  
+- [2020-07-06-两个月小奶猫找领养，已驱虫体检，神似四字弟弟](https://www.v2ex.com/t/687559)  
+- [2020-07-06-comfast-这个品牌的-4g-路由怎么样？](https://www.v2ex.com/t/687558)  
+- [2020-07-06-你们身体有没有什么问题啊？我入行-5-年多多少少出现了状况](https://www.v2ex.com/t/687557)  
+- [2020-07-06-请教：有用过-SHOP++的大佬吗？](https://www.v2ex.com/t/687556)  
+- [2020-07-06-活动呀，需要-office-的可以看看哦](https://www.v2ex.com/t/687555)  
+- [2020-07-06-请教，站点访问速度慢问题](https://www.v2ex.com/t/687553)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

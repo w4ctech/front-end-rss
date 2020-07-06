@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 15:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-06 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-06-西班牙国王出席新冠肺炎逝者悼念仪式，7-月-16-日举行官方哀悼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkdJ8QdiHXLcVZRMcMRB200706&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-06-美国华盛顿大学出现聚集性疫情-121名学生新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-06-法国卢浮宫今日重开-11岁以上参观者须全程戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-06-中国阿根廷搭建“空中桥梁”合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1) 

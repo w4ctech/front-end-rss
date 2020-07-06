@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-06 11:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-06 15:00:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-07-06-美国华盛顿大学出现聚集性疫情-121名学生新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-美国华盛顿大学出现聚集性疫情-121名学生新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1)  
 - [2020-07-06-法国卢浮宫今日重开-11岁以上参观者须全程戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1)  
 - [2020-07-06-中国阿根廷搭建“空中桥梁”合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1)  
 - [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1)  
@@ -1052,26 +1052,26 @@
 </summary>
 
 
-- [2020-07-05-杭州地区布偶猫咪领养（不免费）](https://www.v2ex.com/t/687227)  
-- [2020-07-05-还记得上次-DTK-归还流程的大佬请指点：协议说归还时保留外包装，是仅内部白色的盒子，还是连外面的黄色纸盒+保护壳也要留着？](https://www.v2ex.com/t/687226)  
-- [2020-07-05-20200705-午夜俱乐部](https://www.v2ex.com/t/687224)  
-- [2020-07-05-macOs-Big-Sur-iterm2-终端一直处于-login-状态](https://www.v2ex.com/t/687223)  
-- [2020-07-05-这种网站是不是侵犯淘宝用户的隐私了](https://www.v2ex.com/t/687222)  
-- [2020-07-05-掘金能做起来，真的有点牛批——一个不成熟的想法](https://www.v2ex.com/t/687221)  
-- [2020-07-05-感觉手机太重了，有办法让它变轻点吗？](https://www.v2ex.com/t/687220)  
-- [2020-07-05-大家有什么好用的漫画/轻小说阅读软件吗？](https://www.v2ex.com/t/687218)  
-- [2020-07-05-这次金山云的活动，拼团的有吗？](https://www.v2ex.com/t/687217)  
-- [2020-07-04-是否可以让一台-VPS-通过另一台-VPS-访问-IPv6-网络](https://www.v2ex.com/t/687216)  
-- [2020-07-04-在群晖登陆后使用视频壁纸](https://www.v2ex.com/t/687215)  
-- [2020-07-04-求助，-简单-Java-数据导入项目有人接吗](https://www.v2ex.com/t/687214)  
-- [2020-07-04-不懂就问：是否该接入微信收付款和支付宝收付款？](https://www.v2ex.com/t/687213)  
-- [2020-07-04-阿里云国际取消了-2.5-美元/月的新加坡-ecs-了吗？](https://www.v2ex.com/t/687212)  
-- [2020-07-04-求个-js-正则，脑子最近进水，暂时想不出来](https://www.v2ex.com/t/687210)  
-- [2020-07-04-群晖只是对公网开放-WebDAV-服务是不是比较安全](https://www.v2ex.com/t/687209)  
-- [2020-07-04-终于忍不住把家里布线重整了](https://www.v2ex.com/t/687208)  
-- [2020-07-04-有什么便宜的图像处理服务吗](https://www.v2ex.com/t/687207)  
-- [2020-07-04-学习方法](https://www.v2ex.com/t/687206)  
-- [2020-07-04-宏碁（Acer）掠夺者-XB273K-S-间歇性黑屏](https://www.v2ex.com/t/687204)  
+- [2020-07-06-独家解析-|-程序员-深度文章写作技巧](https://www.v2ex.com/t/687578) ![](assets/new.png)  
+- [2020-07-06-夏天推荐凉爽一点的枕头套](https://www.v2ex.com/t/687577) ![](assets/new.png)  
+- [2020-07-06-社招-Hillinsight--Java-工程师](https://www.v2ex.com/t/687576) ![](assets/new.png)  
+- [2020-07-06-滴滴深圳招收大前端前端、Android、iOS各端实习生、高级开发工程师，有意戳邮件](https://www.v2ex.com/t/687575) ![](assets/new.png)  
+- [2020-07-06-深圳-测试运维-招聘](https://www.v2ex.com/t/687574) ![](assets/new.png)  
+- [2020-07-06-GeoTrust-域名型（DV）单域名证书-有必要买么？](https://www.v2ex.com/t/687573) ![](assets/new.png)  
+- [2020-07-06-要查询一个数据表的限定数量的最近的插入记录，特定的最近插入的记录，这个比较好的实现方案有哪些](https://www.v2ex.com/t/687572) ![](assets/new.png)  
+- [2020-07-06-百度网盘的触手又延长了。。。](https://www.v2ex.com/t/687571) ![](assets/new.png)  
+- [2020-07-06-实习超期后想要离职，但是公司要求再签新的劳动协议才能离职](https://www.v2ex.com/t/687569) ![](assets/new.png)  
+- [2020-07-06-社招-Hillinsight-高级-nodejs-工程师](https://www.v2ex.com/t/687567) ![](assets/new.png)  
+- [2020-07-06-pyppeteer-登录谷歌-出现-此浏览器或应用可能不安全。](https://www.v2ex.com/t/687566) ![](assets/new.png)  
+- [2020-07-06-DJI-大疆-校招开始啦-深圳，上海，西安](https://www.v2ex.com/t/687565) ![](assets/new.png)  
+- [2020-07-06-关于异步文件处理的编程问题](https://www.v2ex.com/t/687564) ![](assets/new.png)  
+- [2020-07-06-21-届本科-211-非科班转前端，离秋招只剩两个月了该怎么办](https://www.v2ex.com/t/687560) ![](assets/new.png)  
+- [2020-07-06-两个月小奶猫找领养，已驱虫体检，神似四字弟弟](https://www.v2ex.com/t/687559) ![](assets/new.png)  
+- [2020-07-06-comfast-这个品牌的-4g-路由怎么样？](https://www.v2ex.com/t/687558) ![](assets/new.png)  
+- [2020-07-06-你们身体有没有什么问题啊？我入行-5-年多多少少出现了状况](https://www.v2ex.com/t/687557) ![](assets/new.png)  
+- [2020-07-06-请教：有用过-SHOP++的大佬吗？](https://www.v2ex.com/t/687556) ![](assets/new.png)  
+- [2020-07-06-活动呀，需要-office-的可以看看哦](https://www.v2ex.com/t/687555) ![](assets/new.png)  
+- [2020-07-06-请教，站点访问速度慢问题](https://www.v2ex.com/t/687553) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

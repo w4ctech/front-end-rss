@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-06 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-06 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -33,6 +33,7 @@
 - [2020-05-29-为Hexo博客添加音乐播放器并保持跳转时不中断播放状态](https://juejin.im/post/5ed07a5ce51d45786b1824a5) 
 - [2020-06-26-哪一瞬间让你开始想做视频了？丨视频训练营招募](https://www.ershicimi.com/p/fb7f96ae02e6d937d788680616b1dc25) 
 - [2020-06-02-来知乎直播间，与《民法典》立法专家在线互动](https://www.ershicimi.com/p/f069799e2c1aed4924fe71d0a91873cb) 
+- [2020-07-06-android-隐式调用-activity-打开音频文件怎么每次都让他选择打开方式](https://www.v2ex.com/t/687544) 
 - [2020-07-04-在群晖登陆后使用视频壁纸](https://www.v2ex.com/t/687215) 
 - [2020-07-04-有什么便宜的图像处理服务吗](https://www.v2ex.com/t/687207) 
 - [2020-07-04-go-admin-代码生成工具视频比基础功能讲解视频点击次数要多搞不清楚为啥？](https://www.v2ex.com/t/687200) 

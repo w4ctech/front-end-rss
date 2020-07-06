@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-06 08:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-06 09:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,8 @@
 </summary>
 
 
-- [2020-07-06-智利政府推出惠民计划-帮助中产家庭度过疫情危机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-智利政府推出惠民计划-帮助中产家庭度过疫情危机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1)  
 - [2020-07-06-秘鲁新冠肺炎确诊病例超过30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUA6tvKMTHdOqguJRvRbO200706&isfromapp=1)  
 - [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1)  
 - [2020-07-06-世卫组织：全球新增203836例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-05-北京4日新增报告2例新冠肺炎确诊病例，均在丰台区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQfTXVzhnGYXT6KL9V5d200705&isfromapp=1)  
 - [2020-07-05-加纳总统进行两周自我隔离，身边至少1人确诊感染病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67DnzT8MSPidY8GA9qUD200705&isfromapp=1)  
 - [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1)  
-- [2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

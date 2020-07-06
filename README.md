@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-06 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-06 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,9 @@
 </summary>
 
 
-- [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1) ![](assets/new.png)  
-- [2020-07-06-世卫组织：全球新增203836例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-秘鲁新冠肺炎确诊病例超过30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUA6tvKMTHdOqguJRvRbO200706&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1)  
+- [2020-07-06-世卫组织：全球新增203836例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1)  
 - [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1)  
 - [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1)  
 - [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-05-巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQk4zXqWzAAlLhyr4PF3A200705&isfromapp=1)  
 - [2020-07-05-英国放宽疫情封锁措施，伦敦中国城重新迎客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1)  
 - [2020-07-05-英格兰酒馆、餐厅、剧院恢复营业-严格遵守社交距离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVahxQz2VdBZzCW0mLUih200705&isfromapp=1)  
-- [2020-07-04-受疫情影响-意大利近三分之一餐饮企业营收减半](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

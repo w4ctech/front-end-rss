@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-07 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-07 08:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,11 @@
 </summary>
 
 
-- [2020-07-07-加拿大新增399例新冠肺炎确诊病例-累计确诊105935例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7uDO1qJ8nfu1LzsH65S200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-​中加建交60周年-中国医疗队助加纳抗疫增进两国友谊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-德国坚持线下高考-疫情防控两手抓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-​奥地利多家屠宰场发现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-加拿大新增399例新冠肺炎确诊病例-累计确诊105935例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7uDO1qJ8nfu1LzsH65S200707&isfromapp=1)  
 - [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1)  
 - [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1)  
 - [2020-07-06-菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1)  
 - [2020-07-06-智利政府推出惠民计划-帮助中产家庭度过疫情危机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1)  
 - [2020-07-06-秘鲁新冠肺炎确诊病例超过30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUA6tvKMTHdOqguJRvRbO200706&isfromapp=1)  
-- [2020-07-06-肯尼亚总统：非洲疫情在未来数月可能恶化-各国应根据数据做决断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1)  
-- [2020-07-06-世卫组织：全球新增203836例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1)  
-- [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1)  
-- [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

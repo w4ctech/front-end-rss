@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-07 12:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-07 16:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,12 @@
 </summary>
 
 
-- [2020-07-07-3个月损失近550亿美元-非洲多国出招重振旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIeK97AJ9d9qaQxWBOSiE200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-受暴雨影响-安徽歙县高考语文考试延期进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiewgcIAJh00gvdCA8OR9r200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-虽然难受但是有用！暑期将至-德国“口罩强制令”将延续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV3vWEwqoPqwf7bZzVTVw200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-福奇：美国仍在第一波疫情中泥足深陷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMwDXEkOcmmQ1ketDCOh200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-上海有3例确诊病例今日出院，共计688例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200707/a844e330650944b18e15d688ddcd4b74.html) ![](assets/new.png)  
+- [2020-07-07-3个月损失近550亿美元-非洲多国出招重振旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIeK97AJ9d9qaQxWBOSiE200707&isfromapp=1)  
+- [2020-07-07-受暴雨影响-安徽歙县高考语文考试延期进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiewgcIAJh00gvdCA8OR9r200707&isfromapp=1)  
+- [2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1)  
+- [2020-07-07-虽然难受但是有用！暑期将至-德国“口罩强制令”将延续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV3vWEwqoPqwf7bZzVTVw200707&isfromapp=1)  
+- [2020-07-07-福奇：美国仍在第一波疫情中泥足深陷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMwDXEkOcmmQ1ketDCOh200707&isfromapp=1)  
 - [2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1)  
 - [2020-07-07-​中加建交60周年-中国医疗队助加纳抗疫增进两国友谊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1)  
 - [2020-07-07-德国坚持线下高考-疫情防控两手抓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-06-北京为确诊患者提供心理干预](https://m.weibo.cn/2803301701/4523734431978026)  
 - [2020-07-06-北京已解除-54-个小区封控管理](https://m.weibo.cn/2803301701/4523729353591939)  
 - [2020-07-06-西班牙国王出席新冠肺炎逝者悼念仪式，7-月-16-日举行官方哀悼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkdJ8QdiHXLcVZRMcMRB200706&isfromapp=1)  
-- [2020-07-06-美国华盛顿大学出现聚集性疫情-121名学生新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

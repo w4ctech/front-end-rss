@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 01:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 03:30:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,8 +52,8 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
-- [开发者头条](#开发者头条)  
+- [技术头条](#技术头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1084,10 +1084,10 @@
 </summary>
 
 
-- [2020-07-08-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-08-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-08-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-08-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-08-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-08-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-08-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-08-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-06-Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-06-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-06-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1115,26 +1115,26 @@
 </summary>
 
 
-- [2020-07-04-分享公司内部-MySQL-使用规范](https://toutiao.io/k/j06adu7)  
-- [2020-07-04-阿里巴巴大规模应用-Flink-的实战经验：常见问题诊断思路](https://toutiao.io/k/lywzfs7)  
-- [2020-07-04-App-Clips-与快应用](https://toutiao.io/k/c0uo0wq)  
-- [2020-07-04-查询耗时降低-2/3，携程度假搜索引擎架构优化](https://toutiao.io/k/xjxbd0u)  
-- [2020-07-04-这-10-行比较字符串相等的代码给我整懵了，不信你也来看看](https://toutiao.io/k/5vaybz8)  
-- [2020-07-04-工具-|-一个在线生成-nginx-配置文件的开源工具](https://toutiao.io/k/f54z6ff)  
-- [2020-07-04-使用-Go-GUI-库-fyne-编写一个计算器程序](https://toutiao.io/k/gfsxl55)  
-- [2020-07-04-设计稿生成代码核心技术揭秘：获取图片中前端组件的位置信息](https://toutiao.io/k/wf3x55k)  
-- [2020-07-04-Go-语言基础系列：基础语法](https://toutiao.io/k/m8a3alv)  
-- [2020-07-04-译-Home-Assistant，基于-Python-的-IoT-中心](https://toutiao.io/k/0eo7hib)  
-- [2020-07-04-零知识证明介绍](https://toutiao.io/k/jd4ndu9)  
-- [2020-07-04-使用-Nginx-同域名下部署多个-Vue-项目，并使用反向代理](https://toutiao.io/k/y9v46hb)  
-- [2020-07-04-顺藤摸瓜：用单元测试读懂-Vue-3-中的-provide/inject](https://toutiao.io/k/436zd0f)  
-- [2020-07-04-Koa2（一）：详解生成器](https://toutiao.io/k/h0x85pl)  
-- [2020-07-04-Caddy-2-服务器-DNSPod.cn-模块（用于签发-SSL-证书时，对域名所有权的认证）](https://toutiao.io/k/g3gs6ek)  
-- [2020-07-04-推荐-是时候扔掉-Postman-了，Apifox-真香](https://toutiao.io/k/5t9uoyn)  
-- [2020-07-02-架构设计：高并发流量削峰，共享资源加锁机制](https://toutiao.io/k/glnqhjq)  
-- [2020-07-02-为什么你写的代码总是有-Bug？用它来保证-Go-代码质量](https://toutiao.io/k/cgku34s)  
-- [2020-07-02-深入理解-IO-模型](https://toutiao.io/k/12zuiow)  
-- [2020-07-02-架构：稳定性建设逻辑问题实战总结](https://toutiao.io/k/5c4x02u)  
+- [2020-07-08-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！](https://toutiao.io/k/3ua6tyb) ![](assets/new.png)  
+- [2020-07-08-架构设计：分布式服务，库表拆分模式详解](https://toutiao.io/k/gbxl2rq) ![](assets/new.png)  
+- [2020-07-08-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf) ![](assets/new.png)  
+- [2020-07-08-Java-ForkJoin-框架的设计与实现](https://toutiao.io/k/qoccubp) ![](assets/new.png)  
+- [2020-07-08-Spark-SQL-小文件问题在-OPPO-的解决方案](https://toutiao.io/k/7hvdqxi) ![](assets/new.png)  
+- [2020-07-08-你还在用-GDB-调试程序吗？](https://toutiao.io/k/va2dshd) ![](assets/new.png)  
+- [2020-07-08-fasthttp-快在哪里](https://toutiao.io/k/3z17hc3) ![](assets/new.png)  
+- [2020-07-08-每周-AI-速递（试行第三期）](https://toutiao.io/k/1qpdgka) ![](assets/new.png)  
+- [2020-07-08-Dubbo-RPC-在-consumer-端是如何跑起来的](https://toutiao.io/k/r4h66oz) ![](assets/new.png)  
+- [2020-07-08-小案例：用-Pandas-分析招聘网-Python-岗位信息](https://toutiao.io/k/2rdbc9w) ![](assets/new.png)  
+- [2020-07-08-Kafka-消费线程模型在中通消息服务运维平台的应用](https://toutiao.io/k/rmebfk6) ![](assets/new.png)  
+- [2020-07-08-Zeppelin-整合-Flink-采坑实录](https://toutiao.io/k/11w35am) ![](assets/new.png)  
+- [2020-07-08-Chris-Guillebeau：做什么由自己决定（人物志第-17-篇）](https://toutiao.io/k/vgqim6h) ![](assets/new.png)  
+- [2020-07-08-C++-探索之旅（三）：你的第一个-C++-程序](https://toutiao.io/k/82mxxt3) ![](assets/new.png)  
+- [2020-07-08-快来！我从源码中学习到了一招-Dubbo-的骚操作](https://toutiao.io/k/almvgkb) ![](assets/new.png)  
+- [2020-07-08-Python-3.10-的首个-PEP-诞生，内置类型-zip-将迎来新特性](https://toutiao.io/k/cytvn74) ![](assets/new.png)  
+- [2020-07-08-前后端分离，如何在前端项目中动态插入后端-API-基地址？in-docker](https://toutiao.io/k/7rhcnfi) ![](assets/new.png)  
+- [2020-07-08-K8s-用户安全管理模型简析](https://toutiao.io/k/p46rma2) ![](assets/new.png)  
+- [2020-07-08-C#-9.0-新特性之-Lambda-弃元参数](https://toutiao.io/k/37hlwgf) ![](assets/new.png)  
+- [2020-07-08-如何为团队量身定制-Egg-目录挂载规范？](https://toutiao.io/k/rtl99rc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

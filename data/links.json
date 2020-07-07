@@ -42470,6 +42470,146 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "一款 GitHub 代码泄露监控系统，为企业安全保驾护航！",
+        "link": "https://toutiao.io/k/3ua6tyb",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "架构设计：分布式服务，库表拆分模式详解",
+        "link": "https://toutiao.io/k/gbxl2rq",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/8kcy1lf",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Java ForkJoin 框架的设计与实现",
+        "link": "https://toutiao.io/k/qoccubp",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Spark SQL 小文件问题在 OPPO 的解决方案",
+        "link": "https://toutiao.io/k/7hvdqxi",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "你还在用 GDB 调试程序吗？",
+        "link": "https://toutiao.io/k/va2dshd",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "fasthttp 快在哪里",
+        "link": "https://toutiao.io/k/3z17hc3",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "每周 AI 速递（试行第三期）",
+        "link": "https://toutiao.io/k/1qpdgka",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Dubbo RPC 在 consumer 端是如何跑起来的",
+        "link": "https://toutiao.io/k/r4h66oz",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "小案例：用 Pandas 分析招聘网 Python 岗位信息",
+        "link": "https://toutiao.io/k/2rdbc9w",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Kafka 消费线程模型在中通消息服务运维平台的应用",
+        "link": "https://toutiao.io/k/rmebfk6",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Zeppelin 整合 Flink 采坑实录",
+        "link": "https://toutiao.io/k/11w35am",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Chris Guillebeau：做什么由自己决定（人物志第 17 篇）",
+        "link": "https://toutiao.io/k/vgqim6h",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "C++ 探索之旅（三）：你的第一个 C++ 程序",
+        "link": "https://toutiao.io/k/82mxxt3",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "快来！我从源码中学习到了一招 Dubbo 的骚操作",
+        "link": "https://toutiao.io/k/almvgkb",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Python 3.10 的首个 PEP 诞生，内置类型 zip() 将迎来新特性",
+        "link": "https://toutiao.io/k/cytvn74",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "前后端分离，如何在前端项目中动态插入后端 API 基地址？(in docker)",
+        "link": "https://toutiao.io/k/7rhcnfi",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "K8s 用户安全管理模型简析",
+        "link": "https://toutiao.io/k/p46rma2",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "C# 9.0 新特性之 Lambda 弃元参数",
+        "link": "https://toutiao.io/k/37hlwgf",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "如何为团队量身定制 Egg 目录挂载规范？",
+        "link": "https://toutiao.io/k/rtl99rc",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "内存疯狂换页！CPU 怒批 OS",
+        "link": "https://toutiao.io/k/nqtsend",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[译] 风格冲突：OOP 和 FP 的扩展性",
+        "link": "https://toutiao.io/k/nl0t49p",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "海神平台崩溃监控 (iOS) 实践",
+        "link": "https://toutiao.io/k/tkp33hg",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "博人眼球：用 WebGL 和 WebRTC 建造线上影院（二）",
+        "link": "https://toutiao.io/k/8ujcdjo",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] 走出微服务误区：避免从单体到分布式单体",
+        "link": "https://toutiao.io/k/ovtxful",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] Go 开发中，如何有效控制 Goroutine 的并发数量",
+        "link": "https://toutiao.io/k/4lrz4rt",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] 性能调优利器：火焰图",
+        "link": "https://toutiao.io/k/cyzz0t9",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] 恕我直言，做好文件管理就能上知天文下知地理",
+        "link": "https://toutiao.io/k/u5427id",
+        "date": "2020-07-08"
+      },
+      {
         "title": "分享公司内部 MySQL 使用规范",
         "link": "https://toutiao.io/k/j06adu7",
         "date": "2020-07-04"

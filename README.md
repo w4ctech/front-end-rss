@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-07 00:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-07 08:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,10 +94,11 @@
 </summary>
 
 
-- [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1) ![](assets/new.png)  
-- [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1) ![](assets/new.png)  
-- [2020-07-06-菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1) ![](assets/new.png)  
-- [2020-07-06-全球新冠肺炎超1143万](https://m.weibo.cn/2803301701/4523771610347333) ![](assets/new.png)  
+- [2020-07-07-加拿大新增399例新冠肺炎确诊病例-累计确诊105935例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7uDO1qJ8nfu1LzsH65S200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1)  
+- [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1)  
+- [2020-07-06-菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1)  
+- [2020-07-06-全球新冠肺炎超1143万](https://m.weibo.cn/2803301701/4523771610347333)  
 - [2020-07-06-民航局发出首份外航熔断指令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilHDBvPjfYmY9t9ennh9g200706&isfromapp=1)  
 - [2020-07-06-北京市疾控中心发布-2020-年高考防疫关键提示](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivRTuZrIKlMX9GJAJzrnm200706&isfromapp=1)  
 - [2020-07-06-北京为确诊患者提供心理干预](https://m.weibo.cn/2803301701/4523734431978026)  
@@ -113,7 +114,6 @@
 - [2020-07-06-世卫组织：全球新增203836例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1)  
 - [2020-07-05-放松管控，英国-9-个月内或将再增-2.7-万人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuXe2Q6vXkwxeAFH1lZmE200705&isfromapp=1)  
 - [2020-07-05-中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1)  
-- [2020-07-05-江西：考生若体温正常，考场内可自主决定是否佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

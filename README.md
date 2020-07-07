@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-07 08:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-07 12:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,10 +94,15 @@
 </summary>
 
 
-- [2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-​中加建交60周年-中国医疗队助加纳抗疫增进两国友谊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-德国坚持线下高考-疫情防控两手抓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1) ![](assets/new.png)  
-- [2020-07-07-​奥地利多家屠宰场发现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-3个月损失近550亿美元-非洲多国出招重振旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIeK97AJ9d9qaQxWBOSiE200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-受暴雨影响-安徽歙县高考语文考试延期进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiewgcIAJh00gvdCA8OR9r200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-虽然难受但是有用！暑期将至-德国“口罩强制令”将延续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV3vWEwqoPqwf7bZzVTVw200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-福奇：美国仍在第一波疫情中泥足深陷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMwDXEkOcmmQ1ketDCOh200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1)  
+- [2020-07-07-​中加建交60周年-中国医疗队助加纳抗疫增进两国友谊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1)  
+- [2020-07-07-德国坚持线下高考-疫情防控两手抓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1)  
+- [2020-07-07-​奥地利多家屠宰场发现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1)  
 - [2020-07-07-加拿大新增399例新冠肺炎确诊病例-累计确诊105935例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7uDO1qJ8nfu1LzsH65S200707&isfromapp=1)  
 - [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1)  
 - [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-06-北京已解除-54-个小区封控管理](https://m.weibo.cn/2803301701/4523729353591939)  
 - [2020-07-06-西班牙国王出席新冠肺炎逝者悼念仪式，7-月-16-日举行官方哀悼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkdJ8QdiHXLcVZRMcMRB200706&isfromapp=1)  
 - [2020-07-06-美国华盛顿大学出现聚集性疫情-121名学生新冠病毒检测结果呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1)  
-- [2020-07-06-法国卢浮宫今日重开-11岁以上参观者须全程戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1)  
-- [2020-07-06-中国阿根廷搭建“空中桥梁”合作抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1)  
-- [2020-07-06-苏里南将分区进一步放宽疫情管控措施-体育馆美发店等可重新开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1)  
-- [2020-07-06-智利政府推出惠民计划-帮助中产家庭度过疫情危机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1)  
-- [2020-07-06-秘鲁新冠肺炎确诊病例超过30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUA6tvKMTHdOqguJRvRbO200706&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

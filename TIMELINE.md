@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-07 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-07 12:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-3个月损失近550亿美元-非洲多国出招重振旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIeK97AJ9d9qaQxWBOSiE200707&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-受暴雨影响-安徽歙县高考语文考试延期进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiewgcIAJh00gvdCA8OR9r200707&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-虽然难受但是有用！暑期将至-德国“口罩强制令”将延续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV3vWEwqoPqwf7bZzVTVw200707&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-福奇：美国仍在第一波疫情中泥足深陷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMwDXEkOcmmQ1ketDCOh200707&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-​中加建交60周年-中国医疗队助加纳抗疫增进两国友谊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-德国坚持线下高考-疫情防控两手抓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1) 

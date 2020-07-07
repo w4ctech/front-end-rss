@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-07 16:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-07 21:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,7 +94,12 @@
 </summary>
 
 
-- [2020-07-07-上海有3例确诊病例今日出院，共计688例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200707/a844e330650944b18e15d688ddcd4b74.html) ![](assets/new.png)  
+- [2020-07-07-2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html) ![](assets/new.png)  
+- [2020-07-07-世卫组织：全球新冠肺炎确诊病例累计超1146万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti645aeGuNpSVoyojsXTaB200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-波兰旅游住宿业5月受疫情影响严重，游客同比大幅减少88.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuifyZbYr5lUgKSLbg2dS200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-欧盟夏季经济预期：欧元区经济2020年萎缩8.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVJXGWrvfBRtM76LFTIg200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-北京揭秘22小时内锁定新发地过程](https://m.weibo.cn/2803301701/4524091334593322) ![](assets/new.png)  
+- [2020-07-07-上海有3例确诊病例今日出院，共计688例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200707/a844e330650944b18e15d688ddcd4b74.html)  
 - [2020-07-07-3个月损失近550亿美元-非洲多国出招重振旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIeK97AJ9d9qaQxWBOSiE200707&isfromapp=1)  
 - [2020-07-07-受暴雨影响-安徽歙县高考语文考试延期进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiewgcIAJh00gvdCA8OR9r200707&isfromapp=1)  
 - [2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1)  
 - [2020-07-06-菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1)  
 - [2020-07-06-全球新冠肺炎超1143万](https://m.weibo.cn/2803301701/4523771610347333)  
-- [2020-07-06-民航局发出首份外航熔断指令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilHDBvPjfYmY9t9ennh9g200706&isfromapp=1)  
-- [2020-07-06-北京市疾控中心发布-2020-年高考防疫关键提示](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivRTuZrIKlMX9GJAJzrnm200706&isfromapp=1)  
-- [2020-07-06-北京为确诊患者提供心理干预](https://m.weibo.cn/2803301701/4523734431978026)  
-- [2020-07-06-北京已解除-54-个小区封控管理](https://m.weibo.cn/2803301701/4523729353591939)  
-- [2020-07-06-西班牙国王出席新冠肺炎逝者悼念仪式，7-月-16-日举行官方哀悼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkdJ8QdiHXLcVZRMcMRB200706&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

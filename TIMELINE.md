@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-08 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -469,6 +469,10 @@
 - [【V2EX】2020-07-01-麋鹿微博工具箱-·-批量删除、设置仅自己可见、仅好友可见，发布啦！](https://www.v2ex.com/t/686310) 
 - [【V2EX】2020-07-01-apple-阅读太香了😂](https://www.v2ex.com/t/686309) 
 - [【V2EX】2020-07-01-化腾：昨天南山必胜客的辣椒有点辣](https://www.v2ex.com/t/686308) 
+- [【技术头条】2020-07-08-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-07-08-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-07-08-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【技术头条】2020-07-08-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-06-Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-06-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-06-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

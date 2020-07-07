@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -106,6 +106,7 @@
 - [2020-05-29-请教一下，现在微信公众号（企业号）认证后，小程序能复用认证吗？](https://www.v2ex.com/t/676834) 
 - [2020-05-29-分享一个方便查看动森服装设计码的小程序](https://www.v2ex.com/t/676739) 
 - [2020-05-29-开源-小程序联系客服-UI-组件库](https://www.v2ex.com/t/676529) 
+- [2020-07-08-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-24-小程序、快应用、App-Clips-对比-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13549&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fminiprogram-quickapp-app_clips%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-18-滴滴出行小程序体积优化实践](https://toutiao.io/k/n8vij4m) 
 - [2020-06-13-使用-Burpsuite-对小程序的接口抓包分析](https://toutiao.io/k/0m5pt6f) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 01:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6000,6 +6000,9 @@
 - [2020-05-29-notion-改版](https://www.v2ex.com/t/676526) 
 - [2020-05-29-请问那种好几千行的-CMakeLists-是手写的吗？](https://www.v2ex.com/t/676525) 
 - [2020-05-29-有没有-17-款-mbp-更新-10.15.5-的旁友](https://www.v2ex.com/t/676524) 
+- [2020-07-08-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-08-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-08-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-06-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-06-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-06-字节码插桩极简入门-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13580&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faf2dpVzA7x-zMc1Kh_JWfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

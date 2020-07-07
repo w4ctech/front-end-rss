@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 00:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 01:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,7 +94,7 @@
 </summary>
 
 
-- [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1) ![](assets/new.png)  
+- [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1)  
 - [2020-07-07-2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html)  
 - [2020-07-07-世卫组织：全球新冠肺炎确诊病例累计超1146万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti645aeGuNpSVoyojsXTaB200707&isfromapp=1)  
 - [2020-07-07-波兰旅游住宿业5月受疫情影响严重，游客同比大幅减少88.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuifyZbYr5lUgKSLbg2dS200707&isfromapp=1)  
@@ -1084,6 +1084,10 @@
 </summary>
 
 
+- [2020-07-08-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-08-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-08-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-08-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-07-06-Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-06-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-06-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
@@ -1100,10 +1104,6 @@
 - [2020-07-03-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-03-QUIC/HTTP3-协议简析-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13569&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F151639428%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-06-29-为精美，FButton-&-FSwitch-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13568&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLVuLQlImR7mknKPnFEfx-Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-更快学习编程的-7-个重要技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13567&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fva-7d1h9qUoaio2hdxcgPg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-不使用第三方库，Bitmap-的优化策略-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13566&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHnbhuQQJ4QVru3YTJYwSbQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-8-个-Python-高效数据分析的技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13565&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwW6YGs4cU3cEpSzSbBE3Zg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-06-29-深入浅出-Android-屏幕刷新原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13564&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiogNs1Z_BJb4-ZgJXT_A0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

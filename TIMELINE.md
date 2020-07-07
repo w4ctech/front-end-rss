@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-07 21:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-08 00:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-世卫组织：全球新冠肺炎确诊病例累计超1146万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti645aeGuNpSVoyojsXTaB200707&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-07-波兰旅游住宿业5月受疫情影响严重，游客同比大幅减少88.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuifyZbYr5lUgKSLbg2dS200707&isfromapp=1) 

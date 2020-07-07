@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-07 21:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 00:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1) 
 - [2020-07-07-波兰旅游住宿业5月受疫情影响严重，游客同比大幅减少88.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuifyZbYr5lUgKSLbg2dS200707&isfromapp=1) 
 - [2020-07-07-欧盟夏季经济预期：欧元区经济2020年萎缩8.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVJXGWrvfBRtM76LFTIg200707&isfromapp=1) 
 - [2020-07-07-北京揭秘22小时内锁定新发地过程](https://m.weibo.cn/2803301701/4524091334593322) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 03:30:21，:rocket: 更新条数: +28， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,8 @@
 </summary>
 
 
+- [2020-07-08-秘鲁一省长确诊新冠肺炎，文化部规定马丘比丘遗址每日最多可接待2244名访客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ANdf7eP8g1DZUi0IgEr200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-疫情反弹之下-特朗普要求美国全面重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIs5O40quQlyljR3CJWJh200708&isfromapp=1) ![](assets/new.png)  
 - [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1)  
 - [2020-07-07-2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html)  
 - [2020-07-07-世卫组织：全球新冠肺炎确诊病例累计超1146万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti645aeGuNpSVoyojsXTaB200707&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-07-​奥地利多家屠宰场发现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1)  
 - [2020-07-07-加拿大新增399例新冠肺炎确诊病例-累计确诊105935例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7uDO1qJ8nfu1LzsH65S200707&isfromapp=1)  
 - [2020-07-06-葡萄牙瓜尔达理工学院16名学生感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1)  
-- [2020-07-06-美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1)  
-- [2020-07-06-菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,26 +1115,26 @@
 </summary>
 
 
-- [2020-07-08-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！](https://toutiao.io/k/3ua6tyb) ![](assets/new.png)  
-- [2020-07-08-架构设计：分布式服务，库表拆分模式详解](https://toutiao.io/k/gbxl2rq) ![](assets/new.png)  
-- [2020-07-08-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf) ![](assets/new.png)  
-- [2020-07-08-Java-ForkJoin-框架的设计与实现](https://toutiao.io/k/qoccubp) ![](assets/new.png)  
-- [2020-07-08-Spark-SQL-小文件问题在-OPPO-的解决方案](https://toutiao.io/k/7hvdqxi) ![](assets/new.png)  
-- [2020-07-08-你还在用-GDB-调试程序吗？](https://toutiao.io/k/va2dshd) ![](assets/new.png)  
-- [2020-07-08-fasthttp-快在哪里](https://toutiao.io/k/3z17hc3) ![](assets/new.png)  
-- [2020-07-08-每周-AI-速递（试行第三期）](https://toutiao.io/k/1qpdgka) ![](assets/new.png)  
-- [2020-07-08-Dubbo-RPC-在-consumer-端是如何跑起来的](https://toutiao.io/k/r4h66oz) ![](assets/new.png)  
-- [2020-07-08-小案例：用-Pandas-分析招聘网-Python-岗位信息](https://toutiao.io/k/2rdbc9w) ![](assets/new.png)  
-- [2020-07-08-Kafka-消费线程模型在中通消息服务运维平台的应用](https://toutiao.io/k/rmebfk6) ![](assets/new.png)  
-- [2020-07-08-Zeppelin-整合-Flink-采坑实录](https://toutiao.io/k/11w35am) ![](assets/new.png)  
-- [2020-07-08-Chris-Guillebeau：做什么由自己决定（人物志第-17-篇）](https://toutiao.io/k/vgqim6h) ![](assets/new.png)  
-- [2020-07-08-C++-探索之旅（三）：你的第一个-C++-程序](https://toutiao.io/k/82mxxt3) ![](assets/new.png)  
-- [2020-07-08-快来！我从源码中学习到了一招-Dubbo-的骚操作](https://toutiao.io/k/almvgkb) ![](assets/new.png)  
-- [2020-07-08-Python-3.10-的首个-PEP-诞生，内置类型-zip-将迎来新特性](https://toutiao.io/k/cytvn74) ![](assets/new.png)  
-- [2020-07-08-前后端分离，如何在前端项目中动态插入后端-API-基地址？in-docker](https://toutiao.io/k/7rhcnfi) ![](assets/new.png)  
-- [2020-07-08-K8s-用户安全管理模型简析](https://toutiao.io/k/p46rma2) ![](assets/new.png)  
-- [2020-07-08-C#-9.0-新特性之-Lambda-弃元参数](https://toutiao.io/k/37hlwgf) ![](assets/new.png)  
-- [2020-07-08-如何为团队量身定制-Egg-目录挂载规范？](https://toutiao.io/k/rtl99rc) ![](assets/new.png)  
+- [2020-07-08-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！](https://toutiao.io/k/3ua6tyb)  
+- [2020-07-08-架构设计：分布式服务，库表拆分模式详解](https://toutiao.io/k/gbxl2rq)  
+- [2020-07-08-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf)  
+- [2020-07-08-Java-ForkJoin-框架的设计与实现](https://toutiao.io/k/qoccubp)  
+- [2020-07-08-Spark-SQL-小文件问题在-OPPO-的解决方案](https://toutiao.io/k/7hvdqxi)  
+- [2020-07-08-你还在用-GDB-调试程序吗？](https://toutiao.io/k/va2dshd)  
+- [2020-07-08-fasthttp-快在哪里](https://toutiao.io/k/3z17hc3)  
+- [2020-07-08-每周-AI-速递（试行第三期）](https://toutiao.io/k/1qpdgka)  
+- [2020-07-08-Dubbo-RPC-在-consumer-端是如何跑起来的](https://toutiao.io/k/r4h66oz)  
+- [2020-07-08-小案例：用-Pandas-分析招聘网-Python-岗位信息](https://toutiao.io/k/2rdbc9w)  
+- [2020-07-08-Kafka-消费线程模型在中通消息服务运维平台的应用](https://toutiao.io/k/rmebfk6)  
+- [2020-07-08-Zeppelin-整合-Flink-采坑实录](https://toutiao.io/k/11w35am)  
+- [2020-07-08-Chris-Guillebeau：做什么由自己决定（人物志第-17-篇）](https://toutiao.io/k/vgqim6h)  
+- [2020-07-08-C++-探索之旅（三）：你的第一个-C++-程序](https://toutiao.io/k/82mxxt3)  
+- [2020-07-08-快来！我从源码中学习到了一招-Dubbo-的骚操作](https://toutiao.io/k/almvgkb)  
+- [2020-07-08-Python-3.10-的首个-PEP-诞生，内置类型-zip-将迎来新特性](https://toutiao.io/k/cytvn74)  
+- [2020-07-08-前后端分离，如何在前端项目中动态插入后端-API-基地址？in-docker](https://toutiao.io/k/7rhcnfi)  
+- [2020-07-08-K8s-用户安全管理模型简析](https://toutiao.io/k/p46rma2)  
+- [2020-07-08-C#-9.0-新特性之-Lambda-弃元参数](https://toutiao.io/k/37hlwgf)  
+- [2020-07-08-如何为团队量身定制-Egg-目录挂载规范？](https://toutiao.io/k/rtl99rc)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 11:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 13:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -94,9 +94,10 @@
 </summary>
 
 
-- [2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1) ![](assets/new.png)  
-- [2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1) ![](assets/new.png)  
-- [2020-07-08-美国传染病学会主席：退出世卫组织将使美国在应对流行病时面临高风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYHLguctqt4Fp7Y6NzGL6200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1)  
+- [2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1)  
+- [2020-07-08-美国传染病学会主席：退出世卫组织将使美国在应对流行病时面临高风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYHLguctqt4Fp7Y6NzGL6200708&isfromapp=1)  
 - [2020-07-08-巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1)  
 - [2020-07-08-世卫组织总干事：疫情仍在加速蔓延-尚未达到顶峰](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Wtb0b4ta2QJKFexo8BW200708&isfromapp=1)  
 - [2020-07-08-秘鲁一省长确诊新冠肺炎，文化部规定马丘比丘遗址每日最多可接待2244名访客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ANdf7eP8g1DZUi0IgEr200708&isfromapp=1)  
@@ -113,7 +114,6 @@
 - [2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1)  
 - [2020-07-07-虽然难受但是有用！暑期将至-德国“口罩强制令”将延续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV3vWEwqoPqwf7bZzVTVw200707&isfromapp=1)  
 - [2020-07-07-福奇：美国仍在第一波疫情中泥足深陷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMwDXEkOcmmQ1ketDCOh200707&isfromapp=1)  
-- [2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -678,6 +678,7 @@
 </summary>
 
 
+- [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) ![](assets/new.png)  
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)  
 - [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)  
 - [2020-06-21-安卓手机系统连接电视，最好的方案是什么？](http://www.ruanyifeng.com/blog/2020/06/android-host-solutions.html)  

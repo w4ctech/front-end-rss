@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-08 13:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-美国传染病学会主席：退出世卫组织将使美国在应对流行病时面临高风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYHLguctqt4Fp7Y6NzGL6200708&isfromapp=1) 
@@ -265,6 +266,7 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-01-400台从中国采购的呼吸机运抵秘鲁-助力提升救治新冠肺炎重症患者能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [【阮一峰的网络日志】2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [【阮一峰的网络日志】2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
 - [【凹凸实验室】2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) 
 - [【V2EX】2020-07-06-Typescript：类型问题](https://www.v2ex.com/t/687673) 

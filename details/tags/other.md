@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,8 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1) 
+- [2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1) 
 - [2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1) 
 - [2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1) 
 - [2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 20:00:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 20:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-天津现有最后一例本地新冠肺炎确诊病例今日出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYM6wTdWmuj4aHGJ4ZgV200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1) ![](assets/new.png)  
 - [2020-07-08-哈萨克斯坦新冠肺炎确诊病例超5.1万例-政府打击药品投机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1)  
 - [2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1)  
 - [2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-07-欧盟夏季经济预期：欧元区经济2020年萎缩8.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVJXGWrvfBRtM76LFTIg200707&isfromapp=1)  
 - [2020-07-07-北京揭秘22小时内锁定新发地过程](https://m.weibo.cn/2803301701/4524091334593322)  
 - [2020-07-07-上海有3例确诊病例今日出院，共计688例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200707/a844e330650944b18e15d688ddcd4b74.html)  
-- [2020-07-07-3个月损失近550亿美元-非洲多国出招重振旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIeK97AJ9d9qaQxWBOSiE200707&isfromapp=1)  
-- [2020-07-07-受暴雨影响-安徽歙县高考语文考试延期进行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiewgcIAJh00gvdCA8OR9r200707&isfromapp=1)  
-- [2020-07-07-病例激增-澳大利亚拟动用军队封锁两州边界](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqoix2MBdTGHKX1JaLzaV200707&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,26 +1116,26 @@
 </summary>
 
 
-- [2020-07-08-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7) ![](assets/new.png)  
-- [2020-07-08-普通程序员如何成长？|-码农周刊第-311-期](https://toutiao.io/k/fqf1ydd) ![](assets/new.png)  
-- [2020-07-08-译-高性能缓存库-Caffeine-介绍及实践](https://toutiao.io/k/85bhblp) ![](assets/new.png)  
-- [2020-07-08-转行程序媛的三年之路（曾入职阿里巴巴）](https://toutiao.io/k/lili3hi) ![](assets/new.png)  
-- [2020-07-08-快应用-IDE-定制-Devtools-元素面板（三）：通信方案](https://toutiao.io/k/cefieew) ![](assets/new.png)  
-- [2020-07-08-译-Vue.js-轮播库热门精选](https://toutiao.io/k/qmvdzd5) ![](assets/new.png)  
-- [2020-07-08-Java-8-的这些特性，你知道吗？](https://toutiao.io/k/22su8ch) ![](assets/new.png)  
-- [2020-07-08-基于-jvm-sandbox-生态搭建可落地的基础设施平台级解决方案](https://toutiao.io/k/7tggwy6) ![](assets/new.png)  
-- [2020-07-08-如何搞定总部的业务方和老板](https://toutiao.io/k/z1376yx) ![](assets/new.png)  
-- [2020-07-08-从量化到优化，详解有赞离线数据降本之路](https://toutiao.io/k/yd4dgv3) ![](assets/new.png)  
-- [2020-07-08-Dig101：Go-之深入理解-mutex](https://toutiao.io/k/t2q0s7s) ![](assets/new.png)  
-- [2020-07-08-「码农周刊-VIP-会员」，你值得拥有！](https://toutiao.io/k/rf1ad07) ![](assets/new.png)  
-- [2020-07-08-Go：字符串和转换优化](https://toutiao.io/k/99zrqek) ![](assets/new.png)  
-- [2020-07-08-H5-暗黑模式在京东收银台中的实践](https://toutiao.io/k/g5m708a) ![](assets/new.png)  
-- [2020-07-08-译-如何在-ASP.NET-Core-中集成-ElasticSearch](https://toutiao.io/k/rq59er6) ![](assets/new.png)  
-- [2020-07-08-了不起的-tsconfig.json-指南](https://toutiao.io/k/8pln1dv) ![](assets/new.png)  
-- [2020-07-08-LeetCode：两数相加](https://toutiao.io/k/ziyg9x6) ![](assets/new.png)  
-- [2020-07-08-ThreadLocal-到底有没有内存泄漏？从源码角度来剖析一波](https://toutiao.io/k/krjophc) ![](assets/new.png)  
-- [2020-07-08-Docker-边学边用](https://toutiao.io/k/6k2e1j4) ![](assets/new.png)  
-- [2020-07-08-译-搭建集群时，要如何选择集群大小？](https://toutiao.io/k/gnk7vgu) ![](assets/new.png)  
+- [2020-07-08-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7)  
+- [2020-07-08-普通程序员如何成长？|-码农周刊第-311-期](https://toutiao.io/k/fqf1ydd)  
+- [2020-07-08-译-高性能缓存库-Caffeine-介绍及实践](https://toutiao.io/k/85bhblp)  
+- [2020-07-08-转行程序媛的三年之路（曾入职阿里巴巴）](https://toutiao.io/k/lili3hi)  
+- [2020-07-08-快应用-IDE-定制-Devtools-元素面板（三）：通信方案](https://toutiao.io/k/cefieew)  
+- [2020-07-08-译-Vue.js-轮播库热门精选](https://toutiao.io/k/qmvdzd5)  
+- [2020-07-08-Java-8-的这些特性，你知道吗？](https://toutiao.io/k/22su8ch)  
+- [2020-07-08-基于-jvm-sandbox-生态搭建可落地的基础设施平台级解决方案](https://toutiao.io/k/7tggwy6)  
+- [2020-07-08-如何搞定总部的业务方和老板](https://toutiao.io/k/z1376yx)  
+- [2020-07-08-从量化到优化，详解有赞离线数据降本之路](https://toutiao.io/k/yd4dgv3)  
+- [2020-07-08-Dig101：Go-之深入理解-mutex](https://toutiao.io/k/t2q0s7s)  
+- [2020-07-08-「码农周刊-VIP-会员」，你值得拥有！](https://toutiao.io/k/rf1ad07)  
+- [2020-07-08-Go：字符串和转换优化](https://toutiao.io/k/99zrqek)  
+- [2020-07-08-H5-暗黑模式在京东收银台中的实践](https://toutiao.io/k/g5m708a)  
+- [2020-07-08-译-如何在-ASP.NET-Core-中集成-ElasticSearch](https://toutiao.io/k/rq59er6)  
+- [2020-07-08-了不起的-tsconfig.json-指南](https://toutiao.io/k/8pln1dv)  
+- [2020-07-08-LeetCode：两数相加](https://toutiao.io/k/ziyg9x6)  
+- [2020-07-08-ThreadLocal-到底有没有内存泄漏？从源码角度来剖析一波](https://toutiao.io/k/krjophc)  
+- [2020-07-08-Docker-边学边用](https://toutiao.io/k/6k2e1j4)  
+- [2020-07-08-译-搭建集群时，要如何选择集群大小？](https://toutiao.io/k/gnk7vgu)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

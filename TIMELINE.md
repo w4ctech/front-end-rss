@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 20:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-08 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-天津现有最后一例本地新冠肺炎确诊病例今日出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYM6wTdWmuj4aHGJ4ZgV200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-哈萨克斯坦新冠肺炎确诊病例超5.1万例-政府打击药品投机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1) 

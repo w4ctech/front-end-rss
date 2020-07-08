@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -10,6 +10,7 @@
 - [2020-06-18-【视频】直击北京核酸检测现场-市民排长队连夜检测](http://video.caixin.com/2020-06-18/101569116.html) 
 - [2020-03-10-习近平去了武汉！（附视频）](http://china.caixin.com/2020-03-10/101526295.html) 
 - [2020-02-04-疫情中湖北孩子们怎样学习？在线直播课面临挑战](http://china.caixin.com/2020-02-04/101511523.html) 
+- [2020-07-08-巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1) 
 - [2020-06-25-中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1) 
 - [2020-06-11-微视频丨率先解禁！突尼斯发布防疫短片重启旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1) 
 - [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 

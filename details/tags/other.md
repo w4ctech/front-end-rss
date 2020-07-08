@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 09:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,7 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-08-世卫组织总干事：疫情仍在加速蔓延-尚未达到顶峰](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Wtb0b4ta2QJKFexo8BW200708&isfromapp=1) 
 - [2020-07-08-疫情反弹之下-特朗普要求美国全面重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIs5O40quQlyljR3CJWJh200708&isfromapp=1) 
 - [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1) 
 - [2020-07-07-波兰旅游住宿业5月受疫情影响严重，游客同比大幅减少88.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuifyZbYr5lUgKSLbg2dS200707&isfromapp=1) 

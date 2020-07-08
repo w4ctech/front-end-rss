@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-08 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 09:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -438,6 +438,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】【视频】直击北京核酸检测现场-市民排长队连夜检测](http://video.caixin.com/2020-06-18/101569116.html)
 - [【武汉肺炎防疫全纪录(财新网)】习近平去了武汉！（附视频）](http://china.caixin.com/2020-03-10/101526295.html)
 - [【武汉肺炎防疫全纪录(财新网)】疫情中湖北孩子们怎样学习？在线直播课面临挑战](http://china.caixin.com/2020-02-04/101511523.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】中埃友好城市举行抗疫经验视频交流会](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】微视频丨率先解禁！突尼斯发布防疫短片重启旅游业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1)
 - [【React中文社区】虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b)
@@ -454,7 +455,6 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【InfoQ】保送浙大、直博港科大，25岁成首席科学家，90后技术人王乃岩的开挂人生-|-二叉树视频](https://www.ershicimi.com/p/7d99a9150b0dfd5a6e2b8ecc04d9eb16)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

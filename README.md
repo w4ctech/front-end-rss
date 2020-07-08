@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 15:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 20:00:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-07-08-哈萨克斯坦新冠肺炎确诊病例超5.1万例-政府打击药品投机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1) ![](assets/new.png)  
-- [2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-哈萨克斯坦新冠肺炎确诊病例超5.1万例-政府打击药品投机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1)  
+- [2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1)  
 - [2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1)  
 - [2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1)  
 - [2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1)  
@@ -1116,26 +1116,26 @@
 </summary>
 
 
-- [2020-07-08-一款-GitHub-代码泄露监控系统，为企业安全保驾护航！](https://toutiao.io/k/3ua6tyb)  
-- [2020-07-08-架构设计：分布式服务，库表拆分模式详解](https://toutiao.io/k/gbxl2rq)  
-- [2020-07-08-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf)  
-- [2020-07-08-Java-ForkJoin-框架的设计与实现](https://toutiao.io/k/qoccubp)  
-- [2020-07-08-Spark-SQL-小文件问题在-OPPO-的解决方案](https://toutiao.io/k/7hvdqxi)  
-- [2020-07-08-你还在用-GDB-调试程序吗？](https://toutiao.io/k/va2dshd)  
-- [2020-07-08-fasthttp-快在哪里](https://toutiao.io/k/3z17hc3)  
-- [2020-07-08-每周-AI-速递（试行第三期）](https://toutiao.io/k/1qpdgka)  
-- [2020-07-08-Dubbo-RPC-在-consumer-端是如何跑起来的](https://toutiao.io/k/r4h66oz)  
-- [2020-07-08-小案例：用-Pandas-分析招聘网-Python-岗位信息](https://toutiao.io/k/2rdbc9w)  
-- [2020-07-08-Kafka-消费线程模型在中通消息服务运维平台的应用](https://toutiao.io/k/rmebfk6)  
-- [2020-07-08-Zeppelin-整合-Flink-采坑实录](https://toutiao.io/k/11w35am)  
-- [2020-07-08-Chris-Guillebeau：做什么由自己决定（人物志第-17-篇）](https://toutiao.io/k/vgqim6h)  
-- [2020-07-08-C++-探索之旅（三）：你的第一个-C++-程序](https://toutiao.io/k/82mxxt3)  
-- [2020-07-08-快来！我从源码中学习到了一招-Dubbo-的骚操作](https://toutiao.io/k/almvgkb)  
-- [2020-07-08-Python-3.10-的首个-PEP-诞生，内置类型-zip-将迎来新特性](https://toutiao.io/k/cytvn74)  
-- [2020-07-08-前后端分离，如何在前端项目中动态插入后端-API-基地址？in-docker](https://toutiao.io/k/7rhcnfi)  
-- [2020-07-08-K8s-用户安全管理模型简析](https://toutiao.io/k/p46rma2)  
-- [2020-07-08-C#-9.0-新特性之-Lambda-弃元参数](https://toutiao.io/k/37hlwgf)  
-- [2020-07-08-如何为团队量身定制-Egg-目录挂载规范？](https://toutiao.io/k/rtl99rc)  
+- [2020-07-08-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7) ![](assets/new.png)  
+- [2020-07-08-普通程序员如何成长？|-码农周刊第-311-期](https://toutiao.io/k/fqf1ydd) ![](assets/new.png)  
+- [2020-07-08-译-高性能缓存库-Caffeine-介绍及实践](https://toutiao.io/k/85bhblp) ![](assets/new.png)  
+- [2020-07-08-转行程序媛的三年之路（曾入职阿里巴巴）](https://toutiao.io/k/lili3hi) ![](assets/new.png)  
+- [2020-07-08-快应用-IDE-定制-Devtools-元素面板（三）：通信方案](https://toutiao.io/k/cefieew) ![](assets/new.png)  
+- [2020-07-08-译-Vue.js-轮播库热门精选](https://toutiao.io/k/qmvdzd5) ![](assets/new.png)  
+- [2020-07-08-Java-8-的这些特性，你知道吗？](https://toutiao.io/k/22su8ch) ![](assets/new.png)  
+- [2020-07-08-基于-jvm-sandbox-生态搭建可落地的基础设施平台级解决方案](https://toutiao.io/k/7tggwy6) ![](assets/new.png)  
+- [2020-07-08-如何搞定总部的业务方和老板](https://toutiao.io/k/z1376yx) ![](assets/new.png)  
+- [2020-07-08-从量化到优化，详解有赞离线数据降本之路](https://toutiao.io/k/yd4dgv3) ![](assets/new.png)  
+- [2020-07-08-Dig101：Go-之深入理解-mutex](https://toutiao.io/k/t2q0s7s) ![](assets/new.png)  
+- [2020-07-08-「码农周刊-VIP-会员」，你值得拥有！](https://toutiao.io/k/rf1ad07) ![](assets/new.png)  
+- [2020-07-08-Go：字符串和转换优化](https://toutiao.io/k/99zrqek) ![](assets/new.png)  
+- [2020-07-08-H5-暗黑模式在京东收银台中的实践](https://toutiao.io/k/g5m708a) ![](assets/new.png)  
+- [2020-07-08-译-如何在-ASP.NET-Core-中集成-ElasticSearch](https://toutiao.io/k/rq59er6) ![](assets/new.png)  
+- [2020-07-08-了不起的-tsconfig.json-指南](https://toutiao.io/k/8pln1dv) ![](assets/new.png)  
+- [2020-07-08-LeetCode：两数相加](https://toutiao.io/k/ziyg9x6) ![](assets/new.png)  
+- [2020-07-08-ThreadLocal-到底有没有内存泄漏？从源码角度来剖析一波](https://toutiao.io/k/krjophc) ![](assets/new.png)  
+- [2020-07-08-Docker-边学边用](https://toutiao.io/k/6k2e1j4) ![](assets/new.png)  
+- [2020-07-08-译-搭建集群时，要如何选择集群大小？](https://toutiao.io/k/gnk7vgu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

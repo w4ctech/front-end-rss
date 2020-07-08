@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 15:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-08 20:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -149,6 +149,8 @@
 - [2020-06-13-Vim-常用快捷键分类备忘单-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13520&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fvim-common-shortcuts%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-09-去你丫的算法！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13507&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F81oZTWWkBwG7OUabUFJ9Dw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-06-01-炸裂！万字长文推倒HTTP，我在字节跳动等你！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13487&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FudB7X9hDCbqS7rU1IVf3tA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-08-译-如何在-ASP.NET-Core-中集成-ElasticSearch](https://toutiao.io/k/rq59er6) 
+- [2020-07-08-推荐-有了这套算法模板，一个月从入门到-Offer，妥妥的！](https://toutiao.io/k/3sw2ecu) 
 - [2020-07-08-fasthttp-快在哪里](https://toutiao.io/k/3z17hc3) 
 - [2020-07-02-译-可能是世界上最简单的用-Go-来写-WebAssembly-的教程](https://toutiao.io/k/5ifd3cu) 
 - [2020-07-02-QUIC/HTTP-3-协议简析](https://toutiao.io/k/g6klt0j) 

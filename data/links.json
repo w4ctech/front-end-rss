@@ -42525,6 +42525,136 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "前端登录，这一篇就够了",
+        "link": "https://toutiao.io/k/o2uucs7",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "普通程序员如何成长？| 码农周刊第 311 期",
+        "link": "https://toutiao.io/k/fqf1ydd",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[译] 高性能缓存库 Caffeine 介绍及实践",
+        "link": "https://toutiao.io/k/85bhblp",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "转行程序媛的三年之路（曾入职阿里巴巴）",
+        "link": "https://toutiao.io/k/lili3hi",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "快应用 IDE 定制 Devtools 元素面板（三）：通信方案",
+        "link": "https://toutiao.io/k/cefieew",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[译] Vue.js 轮播库热门精选",
+        "link": "https://toutiao.io/k/qmvdzd5",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Java 8 的这些特性，你知道吗？",
+        "link": "https://toutiao.io/k/22su8ch",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "基于 jvm-sandbox 生态搭建可落地的基础设施平台级解决方案",
+        "link": "https://toutiao.io/k/7tggwy6",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "如何搞定总部的业务方和老板",
+        "link": "https://toutiao.io/k/z1376yx",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "从量化到优化，详解有赞离线数据降本之路",
+        "link": "https://toutiao.io/k/yd4dgv3",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Dig101：Go 之深入理解 mutex",
+        "link": "https://toutiao.io/k/t2q0s7s",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "「码农周刊 VIP 会员」，你值得拥有！",
+        "link": "https://toutiao.io/k/rf1ad07",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Go：字符串和转换优化",
+        "link": "https://toutiao.io/k/99zrqek",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "H5 暗黑模式在京东收银台中的实践",
+        "link": "https://toutiao.io/k/g5m708a",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[译] 如何在 ASP.NET Core 中集成 ElasticSearch",
+        "link": "https://toutiao.io/k/rq59er6",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "了不起的 tsconfig.json 指南",
+        "link": "https://toutiao.io/k/8pln1dv",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "LeetCode：两数相加",
+        "link": "https://toutiao.io/k/ziyg9x6",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "ThreadLocal 到底有没有内存泄漏？从源码角度来剖析一波",
+        "link": "https://toutiao.io/k/krjophc",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "Docker 边学边用",
+        "link": "https://toutiao.io/k/6k2e1j4",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[译] 搭建集群时，要如何选择集群大小？",
+        "link": "https://toutiao.io/k/gnk7vgu",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[译] Solidity 十大常见安全问题",
+        "link": "https://toutiao.io/k/i8p1vjc",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "玩转前端二进制",
+        "link": "https://toutiao.io/k/vdrmxav",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "无参数读文件和 RCE 总结",
+        "link": "https://toutiao.io/k/0x8rb4y",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] 有了这套算法模板，一个月从入门到 Offer，妥妥的！",
+        "link": "https://toutiao.io/k/3sw2ecu",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] 一文彻底搞懂 Redis 高可用：主从复制机制",
+        "link": "https://toutiao.io/k/r6q9bil",
+        "date": "2020-07-08"
+      },
+      {
+        "title": "[推荐] 4 个好用的 Linux 监控工具",
+        "link": "https://toutiao.io/k/miza7j4",
+        "date": "2020-07-08"
+      },
+      {
         "title": "一款 GitHub 代码泄露监控系统，为企业安全保驾护航！",
         "link": "https://toutiao.io/k/3ua6tyb",
         "date": "2020-07-08"

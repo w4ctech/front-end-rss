@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 20:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-09 02:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1158,6 +1158,10 @@
 - [2020-01-20-习近平吁遏制新型冠状病毒蔓延势头-境内外已确诊295例](http://china.caixin.com/2020-01-20/101506396.html) 
 - [2020-01-11-特稿|新型冠状病毒溯源-候选药物或近在咫尺](http://china.caixin.com/2020-01-11/101506220.html) 
 - [2020-06-01-港大研究：仓鼠动物实验发现核酸检测阳性并不代表有传染性](http://china.caixin.com/2020-05-15/101554648.html) 
+- [2020-07-08-意大利卫生部长：呼吁欧盟严格限制入境-美国退出世卫的决定“严重且错误”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tA0OkBME12dEOjvzROz200708&isfromapp=1) 
+- [2020-07-08-法国巴黎废水中检测出新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBUGLCcdfQQRZyEDiVTy200708&isfromapp=1) 
+- [2020-07-08-​俄罗斯外长：美国似乎准备与任何国家发生冲突](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu2ntfzvGXA1fhz6OqasQ200708&isfromapp=1) 
+- [2020-07-08-希腊进一步放开疫情管制措施-取消就餐人数限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP1b21wQUqneOZOvazY8x200708&isfromapp=1) 
 - [2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1) 
 - [2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1) 
 - [2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1) 

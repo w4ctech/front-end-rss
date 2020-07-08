@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 20:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-09 02:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-意大利卫生部长：呼吁欧盟严格限制入境-美国退出世卫的决定“严重且错误”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tA0OkBME12dEOjvzROz200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-法国巴黎废水中检测出新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBUGLCcdfQQRZyEDiVTy200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-​俄罗斯外长：美国似乎准备与任何国家发生冲突](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu2ntfzvGXA1fhz6OqasQ200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-希腊进一步放开疫情管制措施-取消就餐人数限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP1b21wQUqneOZOvazY8x200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-天津现有最后一例本地新冠肺炎确诊病例今日出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYM6wTdWmuj4aHGJ4ZgV200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1) 

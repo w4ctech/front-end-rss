@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 20:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-09 02:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,13 @@
 </summary>
 
 
-- [2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1) ![](assets/new.png)  
-- [2020-07-08-天津现有最后一例本地新冠肺炎确诊病例今日出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYM6wTdWmuj4aHGJ4ZgV200708&isfromapp=1) ![](assets/new.png)  
-- [2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-意大利卫生部长：呼吁欧盟严格限制入境-美国退出世卫的决定“严重且错误”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tA0OkBME12dEOjvzROz200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-法国巴黎废水中检测出新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBUGLCcdfQQRZyEDiVTy200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-​俄罗斯外长：美国似乎准备与任何国家发生冲突](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu2ntfzvGXA1fhz6OqasQ200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-希腊进一步放开疫情管制措施-取消就餐人数限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP1b21wQUqneOZOvazY8x200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-德国外交官发声力挺世卫组织：妨碍工作不是个好主意](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZvzNwAsPWJGDpDlBZ3BO200708&isfromapp=1)  
+- [2020-07-08-天津现有最后一例本地新冠肺炎确诊病例今日出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYM6wTdWmuj4aHGJ4ZgV200708&isfromapp=1)  
+- [2020-07-08-巴西总统确诊新冠后称正服用羟氯喹：很有效-我觉得我没事了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1)  
 - [2020-07-08-哈萨克斯坦新冠肺炎确诊病例超5.1万例-政府打击药品投机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1)  
 - [2020-07-08-美国政府推动重启又出“新招”-这次“中招”的是留学生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1)  
 - [2020-07-08-北美观察丨美国为何无法摆脱新冠病毒检测危机？](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1)  
 - [2020-07-07-2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html)  
 - [2020-07-07-世卫组织：全球新冠肺炎确诊病例累计超1146万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti645aeGuNpSVoyojsXTaB200707&isfromapp=1)  
-- [2020-07-07-波兰旅游住宿业5月受疫情影响严重，游客同比大幅减少88.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuifyZbYr5lUgKSLbg2dS200707&isfromapp=1)  
-- [2020-07-07-欧盟夏季经济预期：欧元区经济2020年萎缩8.7%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticVJXGWrvfBRtM76LFTIg200707&isfromapp=1)  
-- [2020-07-07-北京揭秘22小时内锁定新发地过程](https://m.weibo.cn/2803301701/4524091334593322)  
-- [2020-07-07-上海有3例确诊病例今日出院，共计688例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200707/a844e330650944b18e15d688ddcd4b74.html)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-08 09:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-08 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-美国传染病学会主席：退出世卫组织将使美国在应对流行病时面临高风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYHLguctqt4Fp7Y6NzGL6200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-世卫组织总干事：疫情仍在加速蔓延-尚未达到顶峰](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Wtb0b4ta2QJKFexo8BW200708&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-08-秘鲁一省长确诊新冠肺炎，文化部规定马丘比丘遗址每日最多可接待2244名访客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ANdf7eP8g1DZUi0IgEr200708&isfromapp=1) 

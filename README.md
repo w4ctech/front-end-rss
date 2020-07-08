@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-08 09:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-08 11:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,11 @@
 </summary>
 
 
-- [2020-07-08-巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1) ![](assets/new.png)  
-- [2020-07-08-世卫组织总干事：疫情仍在加速蔓延-尚未达到顶峰](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Wtb0b4ta2QJKFexo8BW200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-新西兰一男子擅自离开隔离酒店被起诉](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-美国传染病学会主席：退出世卫组织将使美国在应对流行病时面临高风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYHLguctqt4Fp7Y6NzGL6200708&isfromapp=1) ![](assets/new.png)  
+- [2020-07-08-巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1)  
+- [2020-07-08-世卫组织总干事：疫情仍在加速蔓延-尚未达到顶峰](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Wtb0b4ta2QJKFexo8BW200708&isfromapp=1)  
 - [2020-07-08-秘鲁一省长确诊新冠肺炎，文化部规定马丘比丘遗址每日最多可接待2244名访客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ANdf7eP8g1DZUi0IgEr200708&isfromapp=1)  
 - [2020-07-08-疫情反弹之下-特朗普要求美国全面重启](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIs5O40quQlyljR3CJWJh200708&isfromapp=1)  
 - [2020-07-07-巴西首都巴西利亚美容院和健身房等场所恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-07-虽然难受但是有用！暑期将至-德国“口罩强制令”将延续](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV3vWEwqoPqwf7bZzVTVw200707&isfromapp=1)  
 - [2020-07-07-福奇：美国仍在第一波疫情中泥足深陷](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMwDXEkOcmmQ1ketDCOh200707&isfromapp=1)  
 - [2020-07-07-​美国加州洛杉矶县新冠肺炎死亡人数超过3500例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1)  
-- [2020-07-07-​中加建交60周年-中国医疗队助加纳抗疫增进两国友谊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1)  
-- [2020-07-07-德国坚持线下高考-疫情防控两手抓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1)  
-- [2020-07-07-​奥地利多家屠宰场发现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

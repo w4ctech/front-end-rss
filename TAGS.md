@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-09 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 00:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -495,6 +495,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】葡萄牙圣何塞医院新冠肺炎感染人数升至12人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimivz1bGe5ifZSem2myLz200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
@@ -511,6 +512,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】比利时将强制隔离从疫情高风险地区返回的人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVZukX4QWFwEnIjQTnvD200709&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西“高考”将推迟两个月至明年1月举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia14SGPCRfWmDQ1Pd7KlC200709&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】塞尔维亚宵禁引发十年最大规模抗议-骚乱中有36人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir04IsrRgpO0RINatN7QW200709&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】受疫情影响-今年泰国约有50万名高校毕业生面临“毕业即失业”风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLUOO3wQKY8yu0GngUmRf200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122)
 - [【全国新型肺炎疫情实时动态(丁香园)】研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1)
@@ -527,10 +532,6 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
-- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
-- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
-- [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
-- [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

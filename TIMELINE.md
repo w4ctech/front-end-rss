@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-09 18:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-09 18:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [【阮一峰的网络日志】2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 

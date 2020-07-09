@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-09 18:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-09 18:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -495,6 +495,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -509,6 +511,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122)
+- [【全国新型肺炎疫情实时动态(丁香园)】研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1)
 - [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)
@@ -526,9 +531,6 @@
 - [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
 - [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
-- [【凹凸实验室】Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)
-- [【凹凸实验室】从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)
-- [【凹凸实验室】京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

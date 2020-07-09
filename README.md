@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-09 18:00:20，:rocket: 更新条数: +233， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-09 18:30:21，:rocket: 更新条数: +238， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -74,6 +74,11 @@
 </summary>
 
 
+- [2020-07-09-美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122) ![](assets/new.png)  
+- [2020-07-09-研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1) ![](assets/new.png)  
+- [2020-07-09-北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html) ![](assets/new.png)  
+- [2020-07-09-上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1) ![](assets/new.png)  
+- [2020-07-09-美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

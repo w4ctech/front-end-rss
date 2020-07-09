@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-09 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-09 12:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -137,6 +137,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://database.caixin.com/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](http://www.caixin.com/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-03-]() 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-09-美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1) 

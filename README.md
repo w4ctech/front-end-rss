@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-09 10:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-09 12:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-07-09-北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html) ![](assets/new.png)  
-- [2020-07-09-上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1) ![](assets/new.png)  
+- [2020-07-09-美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122) ![](assets/new.png)  
+- [2020-07-09-研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1) ![](assets/new.png)  
+- [2020-07-09-北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html)  
+- [2020-07-09-上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1)  
 - [2020-07-09-美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1)  
 - [2020-07-09-非洲地区新冠肺炎确诊病例累计达50.9万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8AHkTeY9ckMFarss7pJ3200709&isfromapp=1)  
 - [2020-07-08-意大利卫生部长：呼吁欧盟严格限制入境-美国退出世卫的决定“严重且错误”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tA0OkBME12dEOjvzROz200708&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-08-阿联酋迪拜向海外旅客重开-多项防控保放心出游](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKdQ7Ffda3AMaU44HwwOB200708&isfromapp=1)  
 - [2020-07-08-美国传染病学会主席：退出世卫组织将使美国在应对流行病时面临高风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYHLguctqt4Fp7Y6NzGL6200708&isfromapp=1)  
 - [2020-07-08-巴西总统承认感染新冠病毒，却在直播时摘掉口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6mLLpbF41YUfMH2YUvPT200708&isfromapp=1)  
-- [2020-07-08-世卫组织总干事：疫情仍在加速蔓延-尚未达到顶峰](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Wtb0b4ta2QJKFexo8BW200708&isfromapp=1)  
-- [2020-07-08-秘鲁一省长确诊新冠肺炎，文化部规定马丘比丘遗址每日最多可接待2244名访客](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ANdf7eP8g1DZUi0IgEr200708&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

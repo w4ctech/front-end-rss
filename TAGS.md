@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-09 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-09 18:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -71,8 +71,6 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
-- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [【V2EX】上海-社招前端工程师-Vue-JS-Django-3-6-个月合同-10-15K](https://www.v2ex.com/t/688567)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -89,7 +87,6 @@
 
 
 
-- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -110,7 +107,6 @@
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
-- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -186,8 +182,6 @@
 
 
 
-- [【V2EX】静安寺法企-移动开发你在哪里？！寻找-iOS-Developer-Full-time-&-Contractor](https://www.v2ex.com/t/688590)
-- [【V2EX】Flutter-翻译Canonical-通过-Flutter-实现对-Linux-桌面应用的支持](https://www.v2ex.com/t/688588)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -346,7 +340,6 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【V2EX】求一个不露脸（虚拟角色）直播或网课的方案](https://www.v2ex.com/t/688569)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -371,7 +364,6 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
-- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -396,8 +388,6 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】Chrome-网上应用店开发者-有必要注册吗？经常开发插件。](https://www.v2ex.com/t/688558)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -457,7 +447,6 @@
 
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
-- [【V2EX】git-的密码如果末尾是个点会导致提交异常是怎么回事？](https://www.v2ex.com/t/688554)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -474,7 +463,6 @@
 
 
 
-- [【V2EX】求一份-Python-面试题](https://www.v2ex.com/t/688582)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -507,8 +495,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html)
-- [【全国新型肺炎疫情实时动态(丁香园)】上海7月8日新增境外输入新冠肺炎确诊病例3例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -523,9 +509,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122)
-- [【全国新型肺炎疫情实时动态(丁香园)】研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1)
 - [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)
@@ -543,6 +526,9 @@
 - [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
 - [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
 - [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
+- [【凹凸实验室】Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)
+- [【凹凸实验室】从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)
+- [【凹凸实验室】京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

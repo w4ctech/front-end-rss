@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-10 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -16,3 +16,5 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-07-10-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut) 
+- [2020-07-10-推荐-是时候扔掉-Postman-了，Apifox-真香](https://toutiao.io/k/5t9uoyn) 

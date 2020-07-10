@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-10 09:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 10:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,17 +6,9 @@
 
 
 - [2020-07-10-如新增病例继续飚升-美国加州洛杉矶县或考虑重启“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJCFBvcZWCYs4bM2ei5v200710&isfromapp=1) 
-- [2020-07-09-比利时将强制隔离从疫情高风险地区返回的人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVZukX4QWFwEnIjQTnvD200709&isfromapp=1) 
-- [2020-07-09-巴西“高考”将推迟两个月至明年1月举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia14SGPCRfWmDQ1Pd7KlC200709&isfromapp=1) 
-- [2020-07-09-塞尔维亚宵禁引发十年最大规模抗议-骚乱中有36人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir04IsrRgpO0RINatN7QW200709&isfromapp=1) 
-- [2020-07-09-受疫情影响-今年泰国约有50万名高校毕业生面临“毕业即失业”风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLUOO3wQKY8yu0GngUmRf200709&isfromapp=1) 
-- [2020-07-09-美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122) 
-- [2020-07-09-研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1) 
-- [2020-07-09-美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1) 
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
-- [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html) 
 - [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-07-10 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-10-美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1) 
+- [2020-07-10-西班牙多个大区宣布全面强制戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieGmERWl3QFyHn2U1foA2200710&isfromapp=1) 
+- [2020-07-10-北京，0！0！0！0！](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP5f07b547e4b086b26e04ef1c?isshare=1&app=2D0394EE-AE53-4ED7-AE27-A90AA8346CB1&contentType=0&isBjh=0) 
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 

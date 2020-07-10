@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-10 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-07-10-北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 

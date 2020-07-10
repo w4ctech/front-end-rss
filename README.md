@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-11 05:00:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-11 07:30:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,13 +46,13 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -74,6 +74,10 @@
 </summary>
 
 
+- [2020-07-11-英国政府考虑要求在商店购物时戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN36viPTRd7FmOAFcY6oQ200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-巴西卫生部更改针对新冠肺炎轻症患者的指导方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ2UoAiM1DtWS97XN8kiw200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-世卫组织：全球新冠肺炎病例数量在过去六周翻了一倍-有信心找到治疗方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiab9CgodYNCZFKCsztRqM200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-新冠肺炎疫情影响巴西土著语言和习俗传承](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bBmhNc5DTUwyL4efoAp200711&isfromapp=1) ![](assets/new.png)  
 - [2020-07-10-马德里市郊废水中发现新冠病毒-居民健康受到严重威胁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin39AOQoDu8ElZRPFvwNQ200710&isfromapp=1)  
 - [2020-07-10-世卫组织：全球新冠肺炎确诊病例超过1206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu6kc5SAT7DbFq468yLYl200710&isfromapp=1)  
 - [2020-07-10-马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1)  
@@ -462,6 +466,11 @@
 </summary>
 
 
+- [2020-07-10-从酒桌游戏看二分查找算法](https://juejin.im/post/5f0499c76fb9a07e976bdbc2) ![](assets/new.png)  
+- [2020-07-10-从mini源码分析vue，优势特性总结，vue-cli知识点，以及vue项目的二次封装，mini项目源码附送（1W字+）](https://juejin.im/post/5f0326786fb9a07e976bd945) ![](assets/new.png)  
+- [2020-07-10-🍊你可能从来都不知道的6条Vue实战技巧](https://juejin.im/post/5f0832e35188252e8e65283b) ![](assets/new.png)  
+- [2020-07-10-译文深入探索Angular-10](https://juejin.im/post/5f082a1ff265da22cf08ea5d) ![](assets/new.png)  
+- [2020-07-10-图解Vue2源码------1.-源码入口及Vue构造函数](https://juejin.im/post/5f0820c65188252e75368502) ![](assets/new.png)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,26 +557,26 @@
 </summary>
 
 
-- [2020-07-11-三分钟了解-Python3-的异步-Web-框架-FastAPI-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13589&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F157999491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13588&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-字节码插桩极简入门-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13580&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faf2dpVzA7x-zMc1Kh_JWfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13579&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlMddzOEtHd_xURO9ZFJrnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13578&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrwwoRQ_gT5K_CaapSAjG-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-这个码太牛逼了！实现跨系统，任意秒传文件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13577&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCTURqPQfVQt6Bic4QYYA6A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-Facebook上获赞千万的漫画：《人生的意义》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13576&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAcWmzdARjXWwLt1dSaWmjg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-刚刚，GitHub-重磅发布-4-大新功能！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13575&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo8QutK8Kqhx0hfJt6vyaKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-2020，Vue-开发最佳指南，你都需要学点啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13574&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNZuyVDpF5AFl8X46-P_C0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-22-个最常用的-Python-包-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13573&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6gzcNflQ7Z0h6H5SCrmZDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-聊聊我的一次真实-Python-面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13572&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw9x1uqzxVl8LGKY1Oeq5ww%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-下载！《工业智能白皮书》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13571&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2K7obh3CrPlbbxtDACYRhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-11-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-11-三分钟了解-Python3-的异步-Web-框架-FastAPI-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13589&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F157999491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13588&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-字节码插桩极简入门-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13580&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faf2dpVzA7x-zMc1Kh_JWfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13579&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlMddzOEtHd_xURO9ZFJrnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13578&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrwwoRQ_gT5K_CaapSAjG-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-这个码太牛逼了！实现跨系统，任意秒传文件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13577&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCTURqPQfVQt6Bic4QYYA6A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-Facebook上获赞千万的漫画：《人生的意义》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13576&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAcWmzdARjXWwLt1dSaWmjg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-刚刚，GitHub-重磅发布-4-大新功能！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13575&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo8QutK8Kqhx0hfJt6vyaKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-2020，Vue-开发最佳指南，你都需要学点啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13574&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNZuyVDpF5AFl8X46-P_C0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-22-个最常用的-Python-包-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13573&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6gzcNflQ7Z0h6H5SCrmZDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-聊聊我的一次真实-Python-面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13572&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw9x1uqzxVl8LGKY1Oeq5ww%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-下载！《工业智能白皮书》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13571&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2K7obh3CrPlbbxtDACYRhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-11-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,6 +11,26 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "英国政府考虑要求在商店购物时戴口罩",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN36viPTRd7FmOAFcY6oQ200711&isfromapp=1",
+        "date": "2020-07-11"
+      },
+      {
+        "title": "巴西卫生部更改针对新冠肺炎轻症患者的指导方针",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ2UoAiM1DtWS97XN8kiw200711&isfromapp=1",
+        "date": "2020-07-11"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎病例数量在过去六周翻了一倍 有信心找到治疗方法",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiab9CgodYNCZFKCsztRqM200711&isfromapp=1",
+        "date": "2020-07-11"
+      },
+      {
+        "title": "新冠肺炎疫情影响巴西土著语言和习俗传承",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bBmhNc5DTUwyL4efoAp200711&isfromapp=1",
+        "date": "2020-07-11"
+      },
+      {
         "title": "马德里市郊废水中发现新冠病毒 居民健康受到严重威胁",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin39AOQoDu8ElZRPFvwNQ200710&isfromapp=1",
         "date": "2020-07-10"
@@ -1434,7 +1454,33 @@
     "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
-    "items": []
+    "items": [
+      {
+        "title": "从酒桌游戏看二分查找算法",
+        "link": "https://juejin.im/post/5f0499c76fb9a07e976bdbc2",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "从mini源码分析vue，优势特性总结，vue-cli知识点，以及vue项目的二次封装，mini项目源码附送（1W字+）",
+        "link": "https://juejin.im/post/5f0326786fb9a07e976bd945",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "🍊你可能从来都不知道的6条Vue实战技巧",
+        "link": "https://juejin.im/post/5f0832e35188252e8e65283b",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "[译文]深入探索Angular 10",
+        "link": "https://juejin.im/post/5f082a1ff265da22cf08ea5d",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "图解Vue2源码 ---- 1. 源码入口及Vue构造函数",
+        "link": "https://juejin.im/post/5f0820c65188252e75368502",
+        "date": "2020-07-10"
+      }
+    ]
   },
   {
     "rss": "https://rss.shab.fun/jskou/0",

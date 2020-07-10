@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-11 05:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 07:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-11-英国政府考虑要求在商店购物时戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN36viPTRd7FmOAFcY6oQ200711&isfromapp=1) 
 - [2020-07-10-马德里市郊废水中发现新冠病毒-居民健康受到严重威胁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin39AOQoDu8ElZRPFvwNQ200710&isfromapp=1) 
 - [2020-07-10-马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1) 
 - [2020-07-10-英国拒加入欧盟新冠疫苗计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTm6GxhSCQKPRV1zHwQf200710&isfromapp=1) 
@@ -71,6 +72,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-07-10-译文深入探索Angular-10](https://juejin.im/post/5f082a1ff265da22cf08ea5d) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
 - [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 

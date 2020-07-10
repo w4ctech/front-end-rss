@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-10 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-10 09:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -74,7 +74,9 @@
 </summary>
 
 
-- [2020-07-10-截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml) ![](assets/new.png)  
+- [2020-07-10-如新增病例继续飚升-美国加州洛杉矶县或考虑重启“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJCFBvcZWCYs4bM2ei5v200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-世卫组织：全球新冠肺炎新增204967例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazOJoRmwprH8eVgA28GK200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml)  
 - [2020-07-10-北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)  
 - [2020-07-10-​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1)  
 - [2020-07-09-希腊新增50例新冠肺炎确诊病例-或于下周重启限制出行措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4QXhN3Lf2fCpNKojq1EN200709&isfromapp=1)  
@@ -329,6 +331,7 @@
 </summary>
 
 
+- [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) ![](assets/new.png)  
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)  
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)  
 - [2020-06-24-科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)  

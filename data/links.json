@@ -11,6 +11,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "如新增病例继续飚升 美国加州洛杉矶县或考虑重启“居家令”",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJCFBvcZWCYs4bM2ei5v200710&isfromapp=1",
+        "date": "2020-07-10"
+      },
+      {
+        "title": "世卫组织：全球新冠肺炎新增204967例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazOJoRmwprH8eVgA28GK200710&isfromapp=1",
+        "date": "2020-07-10"
+      },
+      {
         "title": "截至7月9日24时新型冠状病毒肺炎疫情最新情况",
         "link": "http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml",
         "date": "2020-07-10"
@@ -258,6 +268,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 115 期）：保护你的 DNA，不要泄漏",
+        "link": "http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html",
+        "date": "2020-07-10"
+      },
       {
         "title": "SSH 证书登录教程",
         "link": "http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html",

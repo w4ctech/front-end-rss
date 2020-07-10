@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-10 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -496,6 +496,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎新增204967例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazOJoRmwprH8eVgA28GK200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】希腊新增50例新冠肺炎确诊病例-或于下周重启限制出行措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4QXhN3Lf2fCpNKojq1EN200709&isfromapp=1)
@@ -516,6 +517,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】如新增病例继续飚升-美国加州洛杉矶县或考虑重启“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJCFBvcZWCYs4bM2ei5v200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】比利时将强制隔离从疫情高风险地区返回的人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVZukX4QWFwEnIjQTnvD200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西“高考”将推迟两个月至明年1月举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia14SGPCRfWmDQ1Pd7KlC200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】塞尔维亚宵禁引发十年最大规模抗议-骚乱中有36人受伤](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir04IsrRgpO0RINatN7QW200709&isfromapp=1)
@@ -523,6 +525,7 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】美联航对3.6万名员工发出裁员警告](https://m.weibo.cn/3057540037/4524736892539122)
 - [【全国新型肺炎疫情实时动态(丁香园)】研究发现：隐性传播为新冠病毒人际传播主要方式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1)
+- [【阮一峰的网络日志】科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)
 - [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-113-期）：暴力犯罪为什么越来越少？](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-113.html)
@@ -534,8 +537,6 @@
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
 - [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
-- [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
-- [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

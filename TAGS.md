@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-10 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -380,7 +380,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
 - [【凹凸实验室】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
@@ -496,9 +495,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml)
-- [【全国新型肺炎疫情实时动态(丁香园)】​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎新增204967例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiazOJoRmwprH8eVgA28GK200710&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -513,7 +509,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】如新增病例继续飚升-美国加州洛杉矶县或考虑重启“居家令”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaJCFBvcZWCYs4bM2ei5v200710&isfromapp=1)
 - [【阮一峰的网络日志】科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)
 - [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
@@ -533,6 +528,7 @@
 - [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
 - [【凹凸实验室】Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)
 - [【凹凸实验室】从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)
+- [【凹凸实验室】京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

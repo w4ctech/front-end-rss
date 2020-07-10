@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-10 15:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-10 16:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,8 @@
 </summary>
 
 
-- [2020-07-10-因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-中国援助巴基斯坦新冠肺炎临时隔离医院落成启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8lt0Hri9VeZQcfCXSyEM200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1)  
 - [2020-07-10-吉尔吉斯斯坦新冠肺炎累计确诊近万例-卫生部副部长确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjWKZpE1h09jfxYKf7TY200710&isfromapp=1)  
 - [2020-07-10-美媒盘点特朗普被福奇打脸时刻](https://m.weibo.cn/2803301701/4525113611242937)  
 - [2020-07-10-美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1)  

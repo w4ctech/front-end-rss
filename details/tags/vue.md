@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-11 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 05:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -14,4 +14,5 @@
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-07-11-2020，Vue-开发最佳指南，你都需要学点啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13574&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNZuyVDpF5AFl8X46-P_C0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-10-译-用-Typescript-+-Composition-API-重构-Vue-3-组件](https://toutiao.io/k/pbpn7g4) 

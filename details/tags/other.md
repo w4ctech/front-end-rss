@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-11 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 05:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -83,6 +83,19 @@
 - [2019-12-03-从3-个方面增加代码可读性和可维护性](https://juejin.im/post/5de3b7c4e51d45777714f34f) 
 - [2019-11-13-没有用过这些插件，别说你在用vscode](https://juejin.im/post/5dc97976e51d45066f3a7b6b) 
 - [2019-11-13-云凤蝶可视化搭建的推导与实现](https://zhuanlan.zhihu.com/p/90746742) 
+- [2020-07-11-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13588&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-快应用-IDE-定制-Devtools-元素面板系列三：通信方案-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13584&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-customize-devtools-element-panel-series-3%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-18-个-Java8-处理日期的新花样，肯定没用过！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13582&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXiM7kMqvi5_C17S-OGF7Bg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-VS-Code-新版本重磅发布，迎来-2020-年首个重大更新！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13581&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fi8mobdBSz03q2SL3ZqS1cg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-字节码插桩极简入门-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13580&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faf2dpVzA7x-zMc1Kh_JWfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-IDEA-的-Debug-技巧大全-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13579&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlMddzOEtHd_xURO9ZFJrnQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-这个码太牛逼了！实现跨系统，任意秒传文件-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13577&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCTURqPQfVQt6Bic4QYYA6A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-Facebook上获赞千万的漫画：《人生的意义》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13576&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAcWmzdARjXWwLt1dSaWmjg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-22-个最常用的-Python-包-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13573&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6gzcNflQ7Z0h6H5SCrmZDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-下载！《工业智能白皮书》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13571&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2K7obh3CrPlbbxtDACYRhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-11-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-10-普通程序员如何成长？|-码农周刊第-311-期](https://toutiao.io/k/fqf1ydd) 
 - [2020-07-10-一文读懂架构整洁之道](https://toutiao.io/k/z6ueaox) 
 - [2020-07-10-容器和虚拟机到底有啥区别？](https://toutiao.io/k/61334xt) 

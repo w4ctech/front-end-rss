@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-10 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 23:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -504,6 +504,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu6kc5SAT7DbFq468yLYl200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】中国援助巴基斯坦新冠肺炎临时隔离医院落成启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8lt0Hri9VeZQcfCXSyEM200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】吉尔吉斯斯坦新冠肺炎累计确诊近万例-卫生部副部长确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjWKZpE1h09jfxYKf7TY200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml)

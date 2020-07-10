@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-10 12:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-10 14:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,11 +74,13 @@
 </summary>
 
 
-- [2020-07-10-美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1) ![](assets/new.png)  
-- [2020-07-10-西班牙多个大区宣布全面强制戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieGmERWl3QFyHn2U1foA2200710&isfromapp=1) ![](assets/new.png)  
-- [2020-07-10-截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml) ![](assets/new.png)  
-- [2020-07-10-北京，0！0！0！0！](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP5f07b547e4b086b26e04ef1c?isshare=1&app=2D0394EE-AE53-4ED7-AE27-A90AA8346CB1&contentType=0&isBjh=0) ![](assets/new.png)  
-- [2020-07-10-北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-吉尔吉斯斯坦新冠肺炎累计确诊近万例-卫生部副部长确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjWKZpE1h09jfxYKf7TY200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-美媒盘点特朗普被福奇打脸时刻](https://m.weibo.cn/2803301701/4525113611242937) ![](assets/new.png)  
+- [2020-07-10-美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1)  
+- [2020-07-10-西班牙多个大区宣布全面强制戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieGmERWl3QFyHn2U1foA2200710&isfromapp=1)  
+- [2020-07-10-截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml)  
+- [2020-07-10-北京，0！0！0！0！](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP5f07b547e4b086b26e04ef1c?isshare=1&app=2D0394EE-AE53-4ED7-AE27-A90AA8346CB1&contentType=0&isBjh=0)  
+- [2020-07-10-北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

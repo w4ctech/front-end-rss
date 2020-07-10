@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-10 00:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -380,6 +380,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
 - [【凹凸实验室】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
@@ -495,6 +496,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】希腊新增50例新冠肺炎确诊病例-或于下周重启限制出行措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4QXhN3Lf2fCpNKojq1EN200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】葡萄牙圣何塞医院新冠肺炎感染人数升至12人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimivz1bGe5ifZSem2myLz200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html)

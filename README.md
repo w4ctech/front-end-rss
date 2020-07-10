@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-10 08:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-10 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,9 @@
 </summary>
 
 
-- [2020-07-10-北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1) ![](assets/new.png)  
-- [2020-07-10-​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1) ![](assets/new.png)  
+- [2020-07-10-截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml) ![](assets/new.png)  
+- [2020-07-10-北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)  
+- [2020-07-10-​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1)  
 - [2020-07-09-希腊新增50例新冠肺炎确诊病例-或于下周重启限制出行措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4QXhN3Lf2fCpNKojq1EN200709&isfromapp=1)  
 - [2020-07-09-比利时将强制隔离从疫情高风险地区返回的人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVZukX4QWFwEnIjQTnvD200709&isfromapp=1)  
 - [2020-07-09-巴西“高考”将推迟两个月至明年1月举行](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia14SGPCRfWmDQ1Pd7KlC200709&isfromapp=1)  

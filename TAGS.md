@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-10 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -496,6 +496,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】截至7月9日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/ccf5bfcf33cd4c408d64321e9be69b5b.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】​秘鲁生产部长确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEWQx9o74iZOks1cXjZf200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】希腊新增50例新冠肺炎确诊病例-或于下周重启限制出行措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4QXhN3Lf2fCpNKojq1EN200709&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】葡萄牙圣何塞医院新冠肺炎感染人数升至12人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimivz1bGe5ifZSem2myLz200709&isfromapp=1)

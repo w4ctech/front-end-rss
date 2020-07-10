@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-10 17:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-10 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -521,6 +521,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】英国拒加入欧盟新冠疫苗计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTm6GxhSCQKPRV1zHwQf200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京疫情已得到有效控制，仍需保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitD3I8kImMzUvzYYUCNr7200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠病毒能否通过冷链方式留存和传播？商务部回应：目前尚无定论](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwRyoSin2n8hknz9Bciv200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1)
@@ -539,8 +541,6 @@
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
 - [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
-- [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
-- [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

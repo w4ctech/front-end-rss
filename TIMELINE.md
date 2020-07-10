@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-10 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-10 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-10-马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-10-英国拒加入欧盟新冠疫苗计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTm6GxhSCQKPRV1zHwQf200710&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-10-北京疫情已得到有效控制，仍需保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitD3I8kImMzUvzYYUCNr7200710&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-10-新冠病毒能否通过冷链方式留存和传播？商务部回应：目前尚无定论](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwRyoSin2n8hknz9Bciv200710&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-10-中国援助巴基斯坦新冠肺炎临时隔离医院落成启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8lt0Hri9VeZQcfCXSyEM200710&isfromapp=1) 

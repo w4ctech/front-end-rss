@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-11 16:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-11 21:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,10 +74,15 @@
 </summary>
 
 
-- [2020-07-11-​日本东京连续三天单日新增超过-200-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilFAELGfTjEm9WuFIYzSC200711&isfromapp=1) ![](assets/new.png)  
-- [2020-07-11-这样普及防护？印度餐厅推出口罩型煎饼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizuIMnoXVstrJ928mjOe200711&isfromapp=1) ![](assets/new.png)  
-- [2020-07-11-香港深圳湾口岸入境处一职员确诊](https://m.weibo.cn/3057540037/4525501256948263) ![](assets/new.png)  
-- [2020-07-11-​天津机场迎来首个复航国际定期客运航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqDGt5qjRh0E85KxMjIEA200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-北京一小区有人不戴口罩串门致13人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix1BOyb4jrt2Fuwmk0YkS200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-​日本东京连续三天单日新增超过-200-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilFAELGfTjEm9WuFIYzSC200711&isfromapp=1)  
+- [2020-07-11-这样普及防护？印度餐厅推出口罩型煎饼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizuIMnoXVstrJ928mjOe200711&isfromapp=1)  
+- [2020-07-11-香港深圳湾口岸入境处一职员确诊](https://m.weibo.cn/3057540037/4525501256948263)  
+- [2020-07-11-​天津机场迎来首个复航国际定期客运航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqDGt5qjRh0E85KxMjIEA200711&isfromapp=1)  
 - [2020-07-11-疫情期间亚马孙雨林损毁呈加速上涨趋势，政府积极应对环保压力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFku8mbhbXMMRZ4R5AMz200711&isfromapp=1)  
 - [2020-07-11-因担心拖延代价太高-英国拒绝加入欧盟“新冠肺炎疫苗计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1OiEzKpRUgzh8U0l2wVe200711&isfromapp=1)  
 - [2020-07-11-哥伦比亚单日新增6803例新冠肺炎确诊病例-再创新高-首都部分地区重新采取严格隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw4dJiIgoACEOYmK6RoE6200711&isfromapp=1)  
@@ -89,11 +94,6 @@
 - [2020-07-10-马德里市郊废水中发现新冠病毒-居民健康受到严重威胁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin39AOQoDu8ElZRPFvwNQ200710&isfromapp=1)  
 - [2020-07-10-世卫组织：全球新冠肺炎确诊病例超过1206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu6kc5SAT7DbFq468yLYl200710&isfromapp=1)  
 - [2020-07-10-马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1)  
-- [2020-07-10-英国拒加入欧盟新冠疫苗计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTm6GxhSCQKPRV1zHwQf200710&isfromapp=1)  
-- [2020-07-10-北京疫情已得到有效控制，仍需保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitD3I8kImMzUvzYYUCNr7200710&isfromapp=1)  
-- [2020-07-10-新冠病毒能否通过冷链方式留存和传播？商务部回应：目前尚无定论](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwRyoSin2n8hknz9Bciv200710&isfromapp=1)  
-- [2020-07-10-中国援助巴基斯坦新冠肺炎临时隔离医院落成启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8lt0Hri9VeZQcfCXSyEM200710&isfromapp=1)  
-- [2020-07-10-因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

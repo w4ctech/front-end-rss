@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-11 08:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-11 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -517,6 +517,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚单日新增6803例新冠肺炎确诊病例-再创新高-首都部分地区重新采取严格隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw4dJiIgoACEOYmK6RoE6200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西卫生部更改针对新冠肺炎轻症患者的指导方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ2UoAiM1DtWS97XN8kiw200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎病例数量在过去六周翻了一倍-有信心找到治疗方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiab9CgodYNCZFKCsztRqM200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠肺炎疫情影响巴西土著语言和习俗传承](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bBmhNc5DTUwyL4efoAp200711&isfromapp=1)

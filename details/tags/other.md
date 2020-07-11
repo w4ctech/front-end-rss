@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-11 21:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-12 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-11-疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1) 
 - [2020-07-11-疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1) 
 - [2020-07-11-北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1) 
 - [2020-07-11-北京一小区有人不戴口罩串门致13人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix1BOyb4jrt2Fuwmk0YkS200711&isfromapp=1) 

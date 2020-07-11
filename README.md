@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-11 21:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-12 00:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,11 +74,14 @@
 </summary>
 
 
-- [2020-07-11-菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1) ![](assets/new.png)  
-- [2020-07-11-疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1) ![](assets/new.png)  
-- [2020-07-11-​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1) ![](assets/new.png)  
-- [2020-07-11-北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1) ![](assets/new.png)  
-- [2020-07-11-北京一小区有人不戴口罩串门致13人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix1BOyb4jrt2Fuwmk0YkS200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1) ![](assets/new.png)  
+- [2020-07-11-菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1)  
+- [2020-07-11-疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1)  
+- [2020-07-11-​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1)  
+- [2020-07-11-北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1)  
+- [2020-07-11-北京一小区有人不戴口罩串门致13人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix1BOyb4jrt2Fuwmk0YkS200711&isfromapp=1)  
 - [2020-07-11-​日本东京连续三天单日新增超过-200-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilFAELGfTjEm9WuFIYzSC200711&isfromapp=1)  
 - [2020-07-11-这样普及防护？印度餐厅推出口罩型煎饼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizuIMnoXVstrJ928mjOe200711&isfromapp=1)  
 - [2020-07-11-香港深圳湾口岸入境处一职员确诊](https://m.weibo.cn/3057540037/4525501256948263)  
@@ -91,9 +94,6 @@
 - [2020-07-11-巴西卫生部更改针对新冠肺炎轻症患者的指导方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ2UoAiM1DtWS97XN8kiw200711&isfromapp=1)  
 - [2020-07-11-世卫组织：全球新冠肺炎病例数量在过去六周翻了一倍-有信心找到治疗方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiab9CgodYNCZFKCsztRqM200711&isfromapp=1)  
 - [2020-07-11-新冠肺炎疫情影响巴西土著语言和习俗传承](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4bBmhNc5DTUwyL4efoAp200711&isfromapp=1)  
-- [2020-07-10-马德里市郊废水中发现新冠病毒-居民健康受到严重威胁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin39AOQoDu8ElZRPFvwNQ200710&isfromapp=1)  
-- [2020-07-10-世卫组织：全球新冠肺炎确诊病例超过1206万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu6kc5SAT7DbFq468yLYl200710&isfromapp=1)  
-- [2020-07-10-马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

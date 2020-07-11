@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-11 21:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-12 00:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -517,6 +517,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因担心拖延代价太高-英国拒绝加入欧盟“新冠肺炎疫苗计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1OiEzKpRUgzh8U0l2wVe200711&isfromapp=1)
@@ -542,6 +544,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京一小区有人不戴口罩串门致13人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix1BOyb4jrt2Fuwmk0YkS200711&isfromapp=1)
@@ -561,7 +564,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】美媒盘点特朗普被福奇打脸时刻](https://m.weibo.cn/2803301701/4525113611242937)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】西班牙多个大区宣布全面强制戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieGmERWl3QFyHn2U1foA2200710&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京，0！0！0！0！](https://ie.bjd.com.cn/5b165687a010550e5ddc0e6a/contentApp/5b16573ae4b02a9fe2d558f9/AP5f07b547e4b086b26e04ef1c?isshare=1&app=2D0394EE-AE53-4ED7-AE27-A90AA8346CB1&contentType=0&isBjh=0)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

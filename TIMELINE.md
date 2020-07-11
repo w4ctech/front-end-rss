@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-11 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-12 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1) 

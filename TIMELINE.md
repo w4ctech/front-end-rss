@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-11 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-11 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-因担心拖延代价太高-英国拒绝加入欧盟“新冠肺炎疫苗计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1OiEzKpRUgzh8U0l2wVe200711&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-哥伦比亚单日新增6803例新冠肺炎确诊病例-再创新高-首都部分地区重新采取严格隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw4dJiIgoACEOYmK6RoE6200711&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-利比亚石油出口封锁解除](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Pbn3BiwcbiUHa5crg0d200711&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-11-英国政府考虑要求在商店购物时戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN36viPTRd7FmOAFcY6oQ200711&isfromapp=1) 

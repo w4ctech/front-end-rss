@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-12 00:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-12 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -393,6 +393,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】安哥拉总统安全办公室的30名安保工作人员新冠肺炎检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHI6y1u9Mr3AZ3piT07UH200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
@@ -517,6 +518,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1)
@@ -544,6 +546,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】高温警告叠加疫情-美国疾病控制与预防中心提醒民众继续佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1)
@@ -563,7 +566,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美媒盘点特朗普被福奇打脸时刻](https://m.weibo.cn/2803301701/4525113611242937)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】西班牙多个大区宣布全面强制戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieGmERWl3QFyHn2U1foA2200710&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

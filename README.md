@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-12 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-12 09:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,10 @@
 </summary>
 
 
-- [2020-07-12-安哥拉总统安全办公室的30名安保工作人员新冠肺炎检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHI6y1u9Mr3AZ3piT07UH200712&isfromapp=1) ![](assets/new.png)  
-- [2020-07-12-受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1) ![](assets/new.png)  
-- [2020-07-12-高温警告叠加疫情-美国疾病控制与预防中心提醒民众继续佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1) ![](assets/new.png)  
+- [2020-07-12-国家卫健委：31个省区市昨日报告新增确诊病例7例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii1jP8uj5m52pCCPDN6sr200712&isfromapp=1) ![](assets/new.png)  
+- [2020-07-12-安哥拉总统安全办公室的30名安保工作人员新冠肺炎检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHI6y1u9Mr3AZ3piT07UH200712&isfromapp=1)  
+- [2020-07-12-受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1)  
+- [2020-07-12-高温警告叠加疫情-美国疾病控制与预防中心提醒民众继续佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1)  
 - [2020-07-11-德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)  
 - [2020-07-11-非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1)  
 - [2020-07-11-疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-11-因担心拖延代价太高-英国拒绝加入欧盟“新冠肺炎疫苗计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1OiEzKpRUgzh8U0l2wVe200711&isfromapp=1)  
 - [2020-07-11-哥伦比亚单日新增6803例新冠肺炎确诊病例-再创新高-首都部分地区重新采取严格隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw4dJiIgoACEOYmK6RoE6200711&isfromapp=1)  
 - [2020-07-11-利比亚石油出口封锁解除](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Pbn3BiwcbiUHa5crg0d200711&isfromapp=1)  
-- [2020-07-11-英国政府考虑要求在商店购物时戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN36viPTRd7FmOAFcY6oQ200711&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

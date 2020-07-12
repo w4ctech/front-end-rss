@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-12 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-12 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -546,6 +546,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：31个省区市昨日报告新增确诊病例7例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii1jP8uj5m52pCCPDN6sr200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】高温警告叠加疫情-美国疾病控制与预防中心提醒民众继续佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1)
@@ -565,7 +566,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠病毒能否通过冷链方式留存和传播？商务部回应：目前尚无定论](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwRyoSin2n8hknz9Bciv200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美媒盘点特朗普被福奇打脸时刻](https://m.weibo.cn/2803301701/4525113611242937)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国一白宫记者新冠病毒检测呈阳性-为无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW2SyoIza4uXfyUGRuIWc200710&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

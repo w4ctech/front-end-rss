@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-12 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-12 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-12-北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1) 
 - [2020-07-12-18国发布联合声明坚决支持世卫组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fYuil1hQS073m9XJmME200712&isfromapp=1) 
 - [2020-07-12-日本美军基地61人确诊新冠](https://m.weibo.cn/2803301701/4525821350454346) 
 - [2020-07-12-国家卫健委：31个省区市昨日报告新增确诊病例7例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii1jP8uj5m52pCCPDN6sr200712&isfromapp=1) 

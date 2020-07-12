@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-12 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-12 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -518,6 +518,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】上海7月11日无新增本地新冠肺炎确诊病例-新增境外输入2例](http://wsjkw.sh.gov.cn/xwfb/20200712/c9284ec3774a4c03bcc75cb9f2665f6a.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1)
@@ -546,6 +547,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】日本美军基地61人确诊新冠](https://m.weibo.cn/2803301701/4525821350454346)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：31个省区市昨日报告新增确诊病例7例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii1jP8uj5m52pCCPDN6sr200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】高温警告叠加疫情-美国疾病控制与预防中心提醒民众继续佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1)
@@ -565,7 +567,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】北京疫情已得到有效控制，仍需保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitD3I8kImMzUvzYYUCNr7200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠病毒能否通过冷链方式留存和传播？商务部回应：目前尚无定论](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwRyoSin2n8hknz9Bciv200710&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因疫情影响，香港所有中小学和幼稚园-7-月-13-日提前放假](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ4wxzpZD1OOrnFen2ynL200710&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美媒盘点特朗普被福奇打脸时刻](https://m.weibo.cn/2803301701/4525113611242937)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

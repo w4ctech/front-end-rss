@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-13 00:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-13 07:00:20，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,8 +74,8 @@
 </summary>
 
 
-- [2020-07-12-美国新冠肺炎累计确诊病例超过324万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1) ![](assets/new.png)  
-- [2020-07-12-新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1) ![](assets/new.png)  
+- [2020-07-12-美国新冠肺炎累计确诊病例超过324万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1)  
+- [2020-07-12-新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1)  
 - [2020-07-12-印度新冠肺炎疫情严峻-北方邦每个周末将实施严格封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1)  
 - [2020-07-12-北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1)  
 - [2020-07-12-世卫组织：全球新冠肺炎确诊病例超过1240万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1)  
@@ -589,26 +589,26 @@
 </summary>
 
 
+- [2020-07-13-手把手教你搭建一个技术人的博客](https://toutiao.io/k/dlq0mfi) ![](assets/new.png)  
+- [2020-07-13-如何快捷转微信小程序为快应用](https://toutiao.io/k/d3ivnvo) ![](assets/new.png)  
+- [2020-07-13-Base-x-编码的奥秘](https://toutiao.io/k/s2h1c3g) ![](assets/new.png)  
+- [2020-07-13-译-使用-CSS-Paint-API-动态创建与分辨率无关的可变背景](https://toutiao.io/k/9lpjvzn) ![](assets/new.png)  
+- [2020-07-13-Elasticsearch-知识点六问六答](https://toutiao.io/k/am6ps26) ![](assets/new.png)  
+- [2020-07-13-爬取林丹和赵雅淇的微博评论，看看网友都说了些什么](https://toutiao.io/k/dbpuhx4) ![](assets/new.png)  
+- [2020-07-13-开源词云生成器-Cloudia](https://toutiao.io/k/slme9h0) ![](assets/new.png)  
+- [2020-07-13-Nmap-常见扫描方式流量分析](https://toutiao.io/k/2f39bt5) ![](assets/new.png)  
+- [2020-07-13-周末过得太快？别荒废啦！](https://toutiao.io/k/od7m9hi) ![](assets/new.png)  
+- [2020-07-13-推荐-译-用-Go-从头实现一个迷你-Docker：Gocker](https://toutiao.io/k/eyuwyte) ![](assets/new.png)  
+- [2020-07-13-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf) ![](assets/new.png)  
+- [2020-07-13-推荐-Java-集合框架看这一篇就够了](https://toutiao.io/k/8mfjcr1) ![](assets/new.png)  
+- [2020-07-13-推荐-一文彻底搞懂-Redis-高可用：主从复制机制](https://toutiao.io/k/r6q9bil) ![](assets/new.png)  
+- [2020-07-13-推荐-微服务技术栈：流量整形算法，服务熔断与降级](https://toutiao.io/k/1jnlldb) ![](assets/new.png)  
+- [2020-07-13-推荐-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7) ![](assets/new.png)  
+- [2020-07-13-推荐-Go-调试利器：delve](https://toutiao.io/k/4wlokct) ![](assets/new.png)  
+- [2020-07-13-推荐-深入理解-IO-模型](https://toutiao.io/k/12zuiow) ![](assets/new.png)  
+- [2020-07-13-推荐-4-个好用的-Linux-监控工具](https://toutiao.io/k/miza7j4) ![](assets/new.png)  
 - [2020-07-10-普通程序员如何成长？|-码农周刊第-311-期](https://toutiao.io/k/fqf1ydd)  
 - [2020-07-10-一文读懂架构整洁之道](https://toutiao.io/k/z6ueaox)  
-- [2020-07-10-容器和虚拟机到底有啥区别？](https://toutiao.io/k/61334xt)  
-- [2020-07-10-周五啦！继续发车！](https://toutiao.io/k/r1mg8mc)  
-- [2020-07-10-fastjson-到底做错了什么？为什么会被频繁爆出漏洞？](https://toutiao.io/k/918ifx6)  
-- [2020-07-10-Kitty-中的动态线程池支持-Nacos、Apollo-多配置中心了](https://toutiao.io/k/d5rwk0y)  
-- [2020-07-10-译-用-Typescript-+-Composition-API-重构-Vue-3-组件](https://toutiao.io/k/pbpn7g4)  
-- [2020-07-10-Istio-学习笔记（一）：配置-GateWay](https://toutiao.io/k/9ei3v19)  
-- [2020-07-10-Dubbo-线程模型](https://toutiao.io/k/mqywzvy)  
-- [2020-07-10-MySQL：慢-SQL-优化方法论](https://toutiao.io/k/t00tz3i)  
-- [2020-07-10-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut)  
-- [2020-07-10-如何让-Flutter-应用更好地使用-SVG？](https://toutiao.io/k/oujuql6)  
-- [2020-07-10-从别人的代码中学习-Golang（二）](https://toutiao.io/k/z6cgwzy)  
-- [2020-07-10-译-图解-Go-GC-是怎样监听你的应用的？](https://toutiao.io/k/rxfbckx)  
-- [2020-07-10-我做编辑器这些年：钉钉文档编辑器的前世今生](https://toutiao.io/k/d961m99)  
-- [2020-07-10-一个绕过移动端系统限制的增强版-dlfunctions-库](https://toutiao.io/k/2ugwrrg)  
-- [2020-07-10-Kaggle-秘笈：使用-Python-进行全面的数据探索](https://toutiao.io/k/tkxvzpe)  
-- [2020-07-10-这可能是迄今为止对大前端最好的解释](https://toutiao.io/k/k0qtz9e)  
-- [2020-07-10-CMake（四）：用-GoogleTest-测试](https://toutiao.io/k/doj8oj7)  
-- [2020-07-10-Redis-的-zset-有多牛？请把耳朵递过来](https://toutiao.io/k/qr15vl6)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

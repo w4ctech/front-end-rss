@@ -1921,6 +1921,96 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "手把手教你搭建一个技术人的博客",
+        "link": "https://toutiao.io/k/dlq0mfi",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "如何快捷转微信小程序为快应用",
+        "link": "https://toutiao.io/k/d3ivnvo",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "Base-x 编码的奥秘",
+        "link": "https://toutiao.io/k/s2h1c3g",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[译] 使用 CSS Paint API 动态创建与分辨率无关的可变背景",
+        "link": "https://toutiao.io/k/9lpjvzn",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "Elasticsearch 知识点六问六答",
+        "link": "https://toutiao.io/k/am6ps26",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "爬取林丹和赵雅淇的微博评论，看看网友都说了些什么",
+        "link": "https://toutiao.io/k/dbpuhx4",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "开源词云生成器 Cloudia",
+        "link": "https://toutiao.io/k/slme9h0",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "Nmap 常见扫描方式流量分析",
+        "link": "https://toutiao.io/k/2f39bt5",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "周末过得太快？别荒废啦！",
+        "link": "https://toutiao.io/k/od7m9hi",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] [译] 用 Go 从头实现一个迷你 Docker：Gocker",
+        "link": "https://toutiao.io/k/eyuwyte",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] 高并发，你真的理解透彻了吗？",
+        "link": "https://toutiao.io/k/8kcy1lf",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] Java 集合框架看这一篇就够了",
+        "link": "https://toutiao.io/k/8mfjcr1",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] 一文彻底搞懂 Redis 高可用：主从复制机制",
+        "link": "https://toutiao.io/k/r6q9bil",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] 微服务技术栈：流量整形算法，服务熔断与降级",
+        "link": "https://toutiao.io/k/1jnlldb",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] 前端登录，这一篇就够了",
+        "link": "https://toutiao.io/k/o2uucs7",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] Go 调试利器：delve",
+        "link": "https://toutiao.io/k/4wlokct",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] 深入理解 IO 模型",
+        "link": "https://toutiao.io/k/12zuiow",
+        "date": "2020-07-13"
+      },
+      {
+        "title": "[推荐] 4 个好用的 Linux 监控工具",
+        "link": "https://toutiao.io/k/miza7j4",
+        "date": "2020-07-13"
+      },
+      {
         "title": "普通程序员如何成长？| 码农周刊第 311 期",
         "link": "https://toutiao.io/k/fqf1ydd",
         "date": "2020-07-10"

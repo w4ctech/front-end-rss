@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-12 21:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-13 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-美国新冠肺炎累计确诊病例超过324万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-印度新冠肺炎疫情严峻-北方邦每个周末将实施严格封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-世卫组织：全球新冠肺炎确诊病例超过1240万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-13 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-13 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -556,6 +556,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国卫生局长：#美国政府正就戴口罩问题纠错](https://m.weibo.cn/3057540037/4526186443623613)
 - [【全国新型肺炎疫情实时动态(丁香园)】悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)
@@ -574,8 +576,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】​日本东京连续三天单日新增超过-200-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilFAELGfTjEm9WuFIYzSC200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】这样普及防护？印度餐厅推出口罩型煎饼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizuIMnoXVstrJ928mjOe200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港深圳湾口岸入境处一职员确诊](https://m.weibo.cn/3057540037/4525501256948263)
-- [【全国新型肺炎疫情实时动态(丁香园)】​天津机场迎来首个复航国际定期客运航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqDGt5qjRh0E85KxMjIEA200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】疫情期间亚马孙雨林损毁呈加速上涨趋势，政府积极应对环保压力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFku8mbhbXMMRZ4R5AMz200711&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

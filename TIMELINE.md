@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-13 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-13 17:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-吉尔吉斯斯坦新冠肺炎确诊病例超-1.1-万。社区获得性肺炎死亡数持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb822vgye3k5xpgLhQsz200713&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-哈萨克斯坦今迎国家哀悼日，全国将为因新冠肺炎去世哈公民默哀1分钟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimuZ8lSxBuaAWp4C278yV200713&isfromapp=1) 

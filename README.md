@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-13 17:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-13 19:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,12 @@
 </summary>
 
 
-- [2020-07-13-高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1) ![](assets/new.png)  
-- [2020-07-13-北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-第一趟国际航班降临萧山机场，杭州口岸国际航线将陆续恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit6QDNO5UFHsL9N5JZysu200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-香港一名献血者确诊](https://m.weibo.cn/3057540037/4526268454373749) ![](assets/new.png)  
+- [2020-07-13-北京共采集-54-人次的康复者血浆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNTdnUO2lg0qdL38uL47200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1)  
+- [2020-07-13-北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)  
 - [2020-07-13-日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)  
 - [2020-07-13-吉尔吉斯斯坦新冠肺炎确诊病例超-1.1-万。社区获得性肺炎死亡数持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb822vgye3k5xpgLhQsz200713&isfromapp=1)  
 - [2020-07-13-哈萨克斯坦今迎国家哀悼日，全国将为因新冠肺炎去世哈公民默哀1分钟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimuZ8lSxBuaAWp4C278yV200713&isfromapp=1)  
@@ -90,10 +94,6 @@
 - [2020-07-12-新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1)  
 - [2020-07-12-印度新冠肺炎疫情严峻-北方邦每个周末将实施严格封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1)  
 - [2020-07-12-北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1)  
-- [2020-07-12-世卫组织：全球新冠肺炎确诊病例超过1240万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1)  
-- [2020-07-12-18国发布联合声明坚决支持世卫组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fYuil1hQS073m9XJmME200712&isfromapp=1)  
-- [2020-07-12-​香港新增38例新冠肺炎确诊病例-累计确诊1469例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig2ikqwp3sPYHENTfvbB3200712&isfromapp=1)  
-- [2020-07-12-日本美军基地61人确诊新冠](https://m.weibo.cn/2803301701/4525821350454346)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

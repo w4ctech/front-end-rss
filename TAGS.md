@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-13 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-13 19:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -556,6 +556,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】第一趟国际航班降临萧山机场，杭州口岸国际航线将陆续恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit6QDNO5UFHsL9N5JZysu200713&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港一名献血者确诊](https://m.weibo.cn/3057540037/4526268454373749)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京共采集-54-人次的康复者血浆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNTdnUO2lg0qdL38uL47200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)
@@ -572,10 +576,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情暴发严重-西班牙莱里达省隔离所有养老院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情形势严峻！美国三大州确诊病例累计超-78-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：牛羊肉大厅因溯源原因仍需封闭一段时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTN4tCHU0bQNlv4KhPac200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京一小区有人不戴口罩串门致13人确诊](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix1BOyb4jrt2Fuwmk0YkS200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​日本东京连续三天单日新增超过-200-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilFAELGfTjEm9WuFIYzSC200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】这样普及防护？印度餐厅推出口罩型煎饼](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizuIMnoXVstrJ928mjOe200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】香港深圳湾口岸入境处一职员确诊](https://m.weibo.cn/3057540037/4525501256948263)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

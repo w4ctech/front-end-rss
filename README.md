@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-13 11:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-13 12:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,10 @@
 </summary>
 
 
-- [2020-07-13-悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1) ![](assets/new.png)  
-- [2020-07-13-菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1) ![](assets/new.png)  
-- [2020-07-13-不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-美国卫生局长：#美国政府正就戴口罩问题纠错](https://m.weibo.cn/3057540037/4526186443623613) ![](assets/new.png)  
+- [2020-07-13-悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)  
+- [2020-07-13-菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1)  
+- [2020-07-13-不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1)  
 - [2020-07-13-巴西新增24831例新冠肺炎确诊病例-累计确诊人数超186万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1)  
 - [2020-07-13-葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1)  
 - [2020-07-13-阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-12-安哥拉总统安全办公室的30名安保工作人员新冠肺炎检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHI6y1u9Mr3AZ3piT07UH200712&isfromapp=1)  
 - [2020-07-12-受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1)  
 - [2020-07-12-高温警告叠加疫情-美国疾病控制与预防中心提醒民众继续佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1)  
-- [2020-07-11-德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

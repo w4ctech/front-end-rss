@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-13 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-13 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-13-阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1) 
 - [2020-07-12-北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1) 
 - [2020-07-12-18国发布联合声明坚决支持世卫组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fYuil1hQS073m9XJmME200712&isfromapp=1) 
 - [2020-07-12-日本美军基地61人确诊新冠](https://m.weibo.cn/2803301701/4525821350454346) 
@@ -113,6 +114,8 @@
 - [2020-07-11-22-个最常用的-Python-包-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13573&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6gzcNflQ7Z0h6H5SCrmZDg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-11-下载！《工业智能白皮书》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13571&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2K7obh3CrPlbbxtDACYRhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-11-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-13-推荐-Go-开发中，如何有效控制-Goroutine-的并发数量](https://toutiao.io/k/4lrz4rt) 
+- [2020-07-13-推荐-架构设计：分布式服务，库表拆分模式详解](https://toutiao.io/k/gbxl2rq) 
 - [2020-07-13-手把手教你搭建一个技术人的博客](https://toutiao.io/k/dlq0mfi) 
 - [2020-07-13-Base-x-编码的奥秘](https://toutiao.io/k/s2h1c3g) 
 - [2020-07-13-爬取林丹和赵雅淇的微博评论，看看网友都说了些什么](https://toutiao.io/k/dbpuhx4) 

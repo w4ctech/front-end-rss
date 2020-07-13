@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-13 07:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-13 08:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-巴西新增24831例新冠肺炎确诊病例-累计确诊人数超186万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-13-阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-美国新冠肺炎累计确诊病例超过324万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-12-印度新冠肺炎疫情严峻-北方邦每个周末将实施严格封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1) 
@@ -201,6 +204,8 @@
 - [【技术头条】2020-07-11-聊聊我的一次真实-Python-面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13572&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw9x1uqzxVl8LGKY1Oeq5ww%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-11-下载！《工业智能白皮书》-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13571&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F2K7obh3CrPlbbxtDACYRhg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-11-App-Clips-与快应用-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13570&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fapp-clips-and-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-07-13-推荐-Go-开发中，如何有效控制-Goroutine-的并发数量](https://toutiao.io/k/4lrz4rt) 
+- [【开发者头条】2020-07-13-推荐-架构设计：分布式服务，库表拆分模式详解](https://toutiao.io/k/gbxl2rq) 
 - [【开发者头条】2020-07-13-手把手教你搭建一个技术人的博客](https://toutiao.io/k/dlq0mfi) 
 - [【开发者头条】2020-07-13-如何快捷转微信小程序为快应用](https://toutiao.io/k/d3ivnvo) 
 - [【开发者头条】2020-07-13-Base-x-编码的奥秘](https://toutiao.io/k/s2h1c3g) 

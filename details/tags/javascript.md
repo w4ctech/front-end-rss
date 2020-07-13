@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 03:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -45,4 +45,6 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2020-07-11-三分钟了解-Python3-的异步-Web-框架-FastAPI-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13589&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F157999491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-14-Spring-Boot-2-整合-JTA-组件，多数据源事务管理](https://toutiao.io/k/pqigimk) 
+- [2020-07-14-三分钟了解-Python-3-的异步-Web-框架-FastAPI](https://toutiao.io/k/s8agylw) 
 - [2020-07-10-fastjson-到底做错了什么？为什么会被频繁爆出漏洞？](https://toutiao.io/k/918ifx6) 

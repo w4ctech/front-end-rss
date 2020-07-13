@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 03:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -21,3 +21,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-07-13-有开发-Unity3d-的朋友吗，遇到个神奇-bug-求解决。](https://www.v2ex.com/t/689732) 
+- [2020-07-13-在-WSL2-里运行-Linux-GUI-程序](https://www.v2ex.com/t/689730) 

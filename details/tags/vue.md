@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 03:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -18,4 +18,5 @@
 - [2020-07-10-图解Vue2源码------1.-源码入口及Vue构造函数](https://juejin.im/post/5f0820c65188252e75368502) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-07-11-2020，Vue-开发最佳指南，你都需要学点啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13574&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNZuyVDpF5AFl8X46-P_C0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-14-Vue-动态组件-component-的深度使用](https://toutiao.io/k/f4bzecw) 
 - [2020-07-10-译-用-Typescript-+-Composition-API-重构-Vue-3-组件](https://toutiao.io/k/pbpn7g4) 

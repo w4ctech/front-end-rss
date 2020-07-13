@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-13 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-13 22:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-13-江苏省检验医疗队圆满完成在京任务，凯旋回家！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIpCZtqxuLsTUrS0jZgpm200713&isfromapp=1) 
 - [2020-07-13-再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1) 
 - [2020-07-13-第一趟国际航班降临萧山机场，杭州口岸国际航线将陆续恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit6QDNO5UFHsL9N5JZysu200713&isfromapp=1) 
 - [2020-07-13-香港一名献血者确诊](https://m.weibo.cn/3057540037/4526268454373749) 

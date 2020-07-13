@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-13 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-14 01:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,10 @@
 </summary>
 
 
-- [2020-07-13-江苏省检验医疗队圆满完成在京任务，凯旋回家！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIpCZtqxuLsTUrS0jZgpm200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-印度多地建立康复者血浆库，为新冠肺炎患者提供血浆治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8FMgjX65foL0HSZ4V1vN200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-受疫情影响，马来西亚零售业或迎33年来最差纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDlwbiPmGp5XkL2Zvq1ee200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-陕西西安海鲜市场新冠病毒核酸检测结果公布：均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisz4iU8q4MqUnxUgxs7me200713&isfromapp=1) ![](assets/new.png)  
+- [2020-07-13-江苏省检验医疗队圆满完成在京任务，凯旋回家！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIpCZtqxuLsTUrS0jZgpm200713&isfromapp=1)  
 - [2020-07-13-再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1)  
 - [2020-07-13-第一趟国际航班降临萧山机场，杭州口岸国际航线将陆续恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit6QDNO5UFHsL9N5JZysu200713&isfromapp=1)  
 - [2020-07-13-香港一名献血者确诊](https://m.weibo.cn/3057540037/4526268454373749)  
@@ -91,9 +94,6 @@
 - [2020-07-13-巴西新增24831例新冠肺炎确诊病例-累计确诊人数超186万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1)  
 - [2020-07-13-葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1)  
 - [2020-07-13-阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1)  
-- [2020-07-12-美国新冠肺炎累计确诊病例超过324万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1)  
-- [2020-07-12-新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1)  
-- [2020-07-12-印度新冠肺炎疫情严峻-北方邦每个周末将实施严格封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

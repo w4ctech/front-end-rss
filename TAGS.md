@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-13 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-13 11:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -556,6 +556,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】18国发布联合声明坚决支持世卫组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fYuil1hQS073m9XJmME200712&isfromapp=1)
@@ -573,9 +576,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情期间亚马孙雨林损毁呈加速上涨趋势，政府积极应对环保压力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFku8mbhbXMMRZ4R5AMz200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】利比亚石油出口封锁解除](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Pbn3BiwcbiUHa5crg0d200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】英国政府考虑要求在商店购物时戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN36viPTRd7FmOAFcY6oQ200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】马德里市郊废水中发现新冠病毒-居民健康受到严重威胁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin39AOQoDu8ElZRPFvwNQ200710&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】马来西亚进一步放宽管制并将于15日关闭方舱医院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTObO0Gsb3vasp0uDKIas200710&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】英国拒加入欧盟新冠疫苗计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTm6GxhSCQKPRV1zHwQf200710&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

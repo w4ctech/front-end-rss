@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-13 14:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-13 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-13-日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686) 
 - [2020-07-13-美国卫生局长：#美国政府正就戴口罩问题纠错](https://m.weibo.cn/3057540037/4526186443623613) 
 - [2020-07-13-悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1) 
 - [2020-07-13-菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1) 

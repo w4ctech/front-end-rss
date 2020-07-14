@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-14 19:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 21:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1292万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirrNZFQdkSeRgVHI06l8B200714&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎超1300万例](https://m.weibo.cn/2803301701/4526671711698670)
 - [【全国新型肺炎疫情实时动态(丁香园)】德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎病例超1300万](https://m.weibo.cn/2803301701/4526492112030222)
@@ -559,9 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】非洲地区新冠肺炎确诊病例快速增长至54.3万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】因担心拖延代价太高-英国拒绝加入欧盟“新冠肺炎疫苗计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1OiEzKpRUgzh8U0l2wVe200711&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

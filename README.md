@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-14 19:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-14 21:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,10 @@
 </summary>
 
 
-- [2020-07-14-因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-世卫组织：全球新冠肺炎确诊病例超过1292万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirrNZFQdkSeRgVHI06l8B200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-全球新冠肺炎超1300万例](https://m.weibo.cn/2803301701/4526671711698670) ![](assets/new.png)  
+- [2020-07-14-因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1)  
 - [2020-07-14-美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244)  
 - [2020-07-14-德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1)  
 - [2020-07-14-印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-13-再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1)  
 - [2020-07-13-第一趟国际航班降临萧山机场，杭州口岸国际航线将陆续恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit6QDNO5UFHsL9N5JZysu200713&isfromapp=1)  
 - [2020-07-13-香港一名献血者确诊](https://m.weibo.cn/3057540037/4526268454373749)  
-- [2020-07-13-北京共采集-54-人次的康复者血浆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNTdnUO2lg0qdL38uL47200713&isfromapp=1)  
-- [2020-07-13-高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1)  
-- [2020-07-13-北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

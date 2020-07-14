@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-14 03:00:20，:rocket: 更新条数: +67， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-14 09:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,9 +51,9 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -74,6 +74,9 @@
 </summary>
 
 
+- [2020-07-14-全球新冠肺炎病例超1300万](https://m.weibo.cn/2803301701/4526492112030222) ![](assets/new.png)  
+- [2020-07-14-​加拿大多个省份推出防疫措施防止第二拨新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS9JLDFpiXuTxO3i3Pys200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-俄罗斯取消入境旅客14天隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nfmugHHmIBPGOOKLyUG200714&isfromapp=1) ![](assets/new.png)  
 - [2020-07-13-印度多地建立康复者血浆库，为新冠肺炎患者提供血浆治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8FMgjX65foL0HSZ4V1vN200713&isfromapp=1)  
 - [2020-07-13-受疫情影响，马来西亚零售业或迎33年来最差纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDlwbiPmGp5XkL2Zvq1ee200713&isfromapp=1)  
 - [2020-07-13-陕西西安海鲜市场新冠病毒核酸检测结果公布：均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisz4iU8q4MqUnxUgxs7me200713&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-13-悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)  
 - [2020-07-13-菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1)  
 - [2020-07-13-不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1)  
-- [2020-07-13-巴西新增24831例新冠肺炎确诊病例-累计确诊人数超186万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1)  
-- [2020-07-13-葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1)  
-- [2020-07-13-阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -547,26 +547,26 @@
 </summary>
 
 
-- [2020-07-14-顺利上岸，分享一些面试经验](https://www.v2ex.com/t/689755) ![](assets/new.png)  
-- [2020-07-14-找室友-|-北新泾地铁口-|-166-平-3-室-2-卫-|-互联网行业](https://www.v2ex.com/t/689754) ![](assets/new.png)  
-- [2020-07-14-2-年搬砖经验-Java-程序员，很迷茫](https://www.v2ex.com/t/689753) ![](assets/new.png)  
-- [2020-07-14-20200714-午夜俱乐部](https://www.v2ex.com/t/689751) ![](assets/new.png)  
-- [2020-07-14-CRV-混动-和-XT4-选哪个？](https://www.v2ex.com/t/689750) ![](assets/new.png)  
-- [2020-07-14-iPhone-XR-外放声音破音](https://www.v2ex.com/t/689749) ![](assets/new.png)  
-- [2020-07-13-V-站国内电信一直-403](https://www.v2ex.com/t/689748) ![](assets/new.png)  
-- [2020-07-13-效率问题-对于-Java-来说-前自增++i-和-后自增i++-有区别么？](https://www.v2ex.com/t/689747) ![](assets/new.png)  
-- [2020-07-13-感觉好难啊！](https://www.v2ex.com/t/689746) ![](assets/new.png)  
-- [2020-07-13-各位使用车载导航还是手机导航？](https://www.v2ex.com/t/689745) ![](assets/new.png)  
-- [2020-07-13-北京驻场工程师招聘-需要-1-名-Java-后端，-1-名前端](https://www.v2ex.com/t/689744) ![](assets/new.png)  
-- [2020-07-13-关于-Nginx-设置拒绝或允许指定-ip-访问的配置问题](https://www.v2ex.com/t/689743) ![](assets/new.png)  
-- [2020-07-13-股票行情数据，各位知道从哪里搞吗！](https://www.v2ex.com/t/689742) ![](assets/new.png)  
-- [2020-07-13-小旭讲解-基础算法系列-01-背包](https://www.v2ex.com/t/689741) ![](assets/new.png)  
-- [2020-07-13-有靠谱的二手-iPhone-渠道吗？淘宝里的店家，除了某鱼](https://www.v2ex.com/t/689740) ![](assets/new.png)  
-- [2020-07-13-Windows-上有什么好用的键盘按键修改器？](https://www.v2ex.com/t/689739) ![](assets/new.png)  
-- [2020-07-13-有偿征集音视频开发相关创意](https://www.v2ex.com/t/689738) ![](assets/new.png)  
-- [2020-07-13-除了-Let's-encrypt-还有其他的免费通配符证书么？](https://www.v2ex.com/t/689737) ![](assets/new.png)  
-- [2020-07-13-第一次租房](https://www.v2ex.com/t/689736) ![](assets/new.png)  
-- [2020-07-13-threejs-项目找人](https://www.v2ex.com/t/689733) ![](assets/new.png)  
+- [2020-07-14-顺利上岸，分享一些面试经验](https://www.v2ex.com/t/689755)  
+- [2020-07-14-找室友-|-北新泾地铁口-|-166-平-3-室-2-卫-|-互联网行业](https://www.v2ex.com/t/689754)  
+- [2020-07-14-2-年搬砖经验-Java-程序员，很迷茫](https://www.v2ex.com/t/689753)  
+- [2020-07-14-20200714-午夜俱乐部](https://www.v2ex.com/t/689751)  
+- [2020-07-14-CRV-混动-和-XT4-选哪个？](https://www.v2ex.com/t/689750)  
+- [2020-07-14-iPhone-XR-外放声音破音](https://www.v2ex.com/t/689749)  
+- [2020-07-13-V-站国内电信一直-403](https://www.v2ex.com/t/689748)  
+- [2020-07-13-效率问题-对于-Java-来说-前自增++i-和-后自增i++-有区别么？](https://www.v2ex.com/t/689747)  
+- [2020-07-13-感觉好难啊！](https://www.v2ex.com/t/689746)  
+- [2020-07-13-各位使用车载导航还是手机导航？](https://www.v2ex.com/t/689745)  
+- [2020-07-13-北京驻场工程师招聘-需要-1-名-Java-后端，-1-名前端](https://www.v2ex.com/t/689744)  
+- [2020-07-13-关于-Nginx-设置拒绝或允许指定-ip-访问的配置问题](https://www.v2ex.com/t/689743)  
+- [2020-07-13-股票行情数据，各位知道从哪里搞吗！](https://www.v2ex.com/t/689742)  
+- [2020-07-13-小旭讲解-基础算法系列-01-背包](https://www.v2ex.com/t/689741)  
+- [2020-07-13-有靠谱的二手-iPhone-渠道吗？淘宝里的店家，除了某鱼](https://www.v2ex.com/t/689740)  
+- [2020-07-13-Windows-上有什么好用的键盘按键修改器？](https://www.v2ex.com/t/689739)  
+- [2020-07-13-有偿征集音视频开发相关创意](https://www.v2ex.com/t/689738)  
+- [2020-07-13-除了-Let's-encrypt-还有其他的免费通配符证书么？](https://www.v2ex.com/t/689737)  
+- [2020-07-13-第一次租房](https://www.v2ex.com/t/689736)  
+- [2020-07-13-threejs-项目找人](https://www.v2ex.com/t/689733)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -609,26 +609,26 @@
 </summary>
 
 
-- [2020-07-14-探究微信小程序-Video-组件的视频兼容性](https://toutiao.io/k/oyk9zn9) ![](assets/new.png)  
-- [2020-07-14-微服务要凉了？](https://toutiao.io/k/1eazdg6) ![](assets/new.png)  
-- [2020-07-14-Kubernetes-架构简介](https://toutiao.io/k/rteodo6) ![](assets/new.png)  
-- [2020-07-14-BERT-在美团搜索核心排序的探索和实践](https://toutiao.io/k/csiafyg) ![](assets/new.png)  
-- [2020-07-14-转行小姐姐进大厂的学习之路（曾入职阿里）](https://toutiao.io/k/s95fxyu) ![](assets/new.png)  
-- [2020-07-14-Spring-Boot-2-整合-JTA-组件，多数据源事务管理](https://toutiao.io/k/pqigimk) ![](assets/new.png)  
-- [2020-07-14-Redis-数据结构：字典](https://toutiao.io/k/0ecn6sa) ![](assets/new.png)  
-- [2020-07-14-重构业务系统，我是这样做的](https://toutiao.io/k/u919lpo) ![](assets/new.png)  
-- [2020-07-14-备份的道与术](https://toutiao.io/k/ga8ll9t) ![](assets/new.png)  
-- [2020-07-14-什么是系统调用？](https://toutiao.io/k/6bpo41c) ![](assets/new.png)  
-- [2020-07-14-基于全流量权限漏洞检测技术](https://toutiao.io/k/hhqzo5u) ![](assets/new.png)  
-- [2020-07-14-关于-Dubbo-连通性的一些思考](https://toutiao.io/k/6f8qfq8) ![](assets/new.png)  
-- [2020-07-14-三分钟了解-Python-3-的异步-Web-框架-FastAPI](https://toutiao.io/k/s8agylw) ![](assets/new.png)  
-- [2020-07-14-PHP-代码混淆处理思路](https://toutiao.io/k/p9gfdcp) ![](assets/new.png)  
-- [2020-07-14-如何优雅地运用位运算实现产品需求？](https://toutiao.io/k/25m7upl) ![](assets/new.png)  
-- [2020-07-14-Elasticsearch-预处理没有奇技淫巧，请先用好这一招](https://toutiao.io/k/jr63z4i) ![](assets/new.png)  
-- [2020-07-14-Vue-动态组件-component-的深度使用](https://toutiao.io/k/f4bzecw) ![](assets/new.png)  
-- [2020-07-14-业务理解有偏差，产品和开发如何达成共识？](https://toutiao.io/k/ivt4m95) ![](assets/new.png)  
-- [2020-07-14-线上-Go-项目的-Docker-镜像应该怎么构建？](https://toutiao.io/k/5issjtx) ![](assets/new.png)  
-- [2020-07-14-开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://toutiao.io/k/kaqwmz1) ![](assets/new.png)  
+- [2020-07-14-探究微信小程序-Video-组件的视频兼容性](https://toutiao.io/k/oyk9zn9)  
+- [2020-07-14-微服务要凉了？](https://toutiao.io/k/1eazdg6)  
+- [2020-07-14-Kubernetes-架构简介](https://toutiao.io/k/rteodo6)  
+- [2020-07-14-BERT-在美团搜索核心排序的探索和实践](https://toutiao.io/k/csiafyg)  
+- [2020-07-14-转行小姐姐进大厂的学习之路（曾入职阿里）](https://toutiao.io/k/s95fxyu)  
+- [2020-07-14-Spring-Boot-2-整合-JTA-组件，多数据源事务管理](https://toutiao.io/k/pqigimk)  
+- [2020-07-14-Redis-数据结构：字典](https://toutiao.io/k/0ecn6sa)  
+- [2020-07-14-重构业务系统，我是这样做的](https://toutiao.io/k/u919lpo)  
+- [2020-07-14-备份的道与术](https://toutiao.io/k/ga8ll9t)  
+- [2020-07-14-什么是系统调用？](https://toutiao.io/k/6bpo41c)  
+- [2020-07-14-基于全流量权限漏洞检测技术](https://toutiao.io/k/hhqzo5u)  
+- [2020-07-14-关于-Dubbo-连通性的一些思考](https://toutiao.io/k/6f8qfq8)  
+- [2020-07-14-三分钟了解-Python-3-的异步-Web-框架-FastAPI](https://toutiao.io/k/s8agylw)  
+- [2020-07-14-PHP-代码混淆处理思路](https://toutiao.io/k/p9gfdcp)  
+- [2020-07-14-如何优雅地运用位运算实现产品需求？](https://toutiao.io/k/25m7upl)  
+- [2020-07-14-Elasticsearch-预处理没有奇技淫巧，请先用好这一招](https://toutiao.io/k/jr63z4i)  
+- [2020-07-14-Vue-动态组件-component-的深度使用](https://toutiao.io/k/f4bzecw)  
+- [2020-07-14-业务理解有偏差，产品和开发如何达成共识？](https://toutiao.io/k/ivt4m95)  
+- [2020-07-14-线上-Go-项目的-Docker-镜像应该怎么构建？](https://toutiao.io/k/5issjtx)  
+- [2020-07-14-开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://toutiao.io/k/kaqwmz1)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

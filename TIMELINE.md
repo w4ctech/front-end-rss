@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-15 01:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-新冠肺炎确诊病例激增，印度北方邦等地重启全面封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY8M5Cbzm5vQrSUeh1I4L200714&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-世卫组织：全球新冠肺炎确诊病例超过1292万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirrNZFQdkSeRgVHI06l8B200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-全球新冠肺炎超1300万例](https://m.weibo.cn/2803301701/4526671711698670) 

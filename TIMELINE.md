@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 09:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-14 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -198,6 +198,7 @@
 - [【阮一峰的网络日志】2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [【阮一峰的网络日志】2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [【阮一峰的网络日志】2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
+- [【凹凸实验室】2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) 
 - [【凹凸实验室】2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) 
 - [【掘金前端】2020-07-10-从酒桌游戏看二分查找算法](https://juejin.im/post/5f0499c76fb9a07e976bdbc2) 
 - [【掘金前端】2020-07-10-从mini源码分析vue，优势特性总结，vue-cli知识点，以及vue项目的二次封装，mini项目源码附送（1W字+）](https://juejin.im/post/5f0326786fb9a07e976bd945) 

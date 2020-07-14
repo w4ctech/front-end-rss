@@ -623,6 +623,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "京喜前端自动化测试之路(小程序篇)",
+        "link": "https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/",
+        "date": "2020-07-13"
+      },
+      {
         "title": "Taro 3 正式版发布：开放式跨端跨框架解决方案",
         "link": "https://aotu.io/notes/2020/06/30/taro-3-0-0/",
         "date": "2020-07-01"

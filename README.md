@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-14 11:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-14 16:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -74,6 +74,11 @@
 </summary>
 
 
+- [2020-07-14-德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-北京多项车驾管业务可继续“网上办-延期办-容缺办”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidrKWlTo7BpUOK2R2yzrD200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-又一驻日美军基地暴发集体感染，美方拒绝透露具体信息](https://m.weibo.cn/3057540037/4526543751457520) ![](assets/new.png)  
 - [2020-07-14-全球新冠肺炎病例超1300万](https://m.weibo.cn/2803301701/4526492112030222)  
 - [2020-07-14-​加拿大多个省份推出防疫措施防止第二拨新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS9JLDFpiXuTxO3i3Pys200714&isfromapp=1)  
 - [2020-07-14-俄罗斯取消入境旅客14天隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nfmugHHmIBPGOOKLyUG200714&isfromapp=1)  
@@ -89,11 +94,6 @@
 - [2020-07-13-北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)  
 - [2020-07-13-日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)  
 - [2020-07-13-吉尔吉斯斯坦新冠肺炎确诊病例超-1.1-万。社区获得性肺炎死亡数持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb822vgye3k5xpgLhQsz200713&isfromapp=1)  
-- [2020-07-13-哈萨克斯坦今迎国家哀悼日，全国将为因新冠肺炎去世哈公民默哀1分钟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimuZ8lSxBuaAWp4C278yV200713&isfromapp=1)  
-- [2020-07-13-美国卫生局长：#美国政府正就戴口罩问题纠错](https://m.weibo.cn/3057540037/4526186443623613)  
-- [2020-07-13-悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)  
-- [2020-07-13-菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1)  
-- [2020-07-13-不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -370,7 +370,7 @@
 </summary>
 
 
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/)  
 - [2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/)  
 - [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/)  
 - [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/)  

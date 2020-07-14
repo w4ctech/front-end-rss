@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-14 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-北京多项车驾管业务可继续“网上办-延期办-容缺办”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidrKWlTo7BpUOK2R2yzrD200714&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-又一驻日美军基地暴发集体感染，美方拒绝透露具体信息](https://m.weibo.cn/3057540037/4526543751457520) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-全球新冠肺炎病例超1300万](https://m.weibo.cn/2803301701/4526492112030222) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-​加拿大多个省份推出防疫措施防止第二拨新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS9JLDFpiXuTxO3i3Pys200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-俄罗斯取消入境旅客14天隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nfmugHHmIBPGOOKLyUG200714&isfromapp=1) 

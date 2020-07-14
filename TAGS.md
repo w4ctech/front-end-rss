@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-14 11:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎病例超1300万](https://m.weibo.cn/2803301701/4526492112030222)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度多地建立康复者血浆库，为新冠肺炎患者提供血浆治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8FMgjX65foL0HSZ4V1vN200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】吉尔吉斯斯坦新冠肺炎确诊病例超-1.1-万。社区获得性肺炎死亡数持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb822vgye3k5xpgLhQsz200713&isfromapp=1)
@@ -560,8 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​香港新增29例新冠肺炎确诊病例-其中17例为本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDv0ILAPaIUWKFsrTKUh200711&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因担心拖延代价太高-英国拒绝加入欧盟“新冠肺炎疫苗计划”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1OiEzKpRUgzh8U0l2wVe200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚单日新增6803例新冠肺炎确诊病例-再创新高-首都部分地区重新采取严格隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw4dJiIgoACEOYmK6RoE6200711&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴西卫生部更改针对新冠肺炎轻症患者的指导方针](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ2UoAiM1DtWS97XN8kiw200711&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京多项车驾管业务可继续“网上办-延期办-容缺办”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidrKWlTo7BpUOK2R2yzrD200714&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】又一驻日美军基地暴发集体感染，美方拒绝透露具体信息](https://m.weibo.cn/3057540037/4526543751457520)
 - [【全国新型肺炎疫情实时动态(丁香园)】​加拿大多个省份推出防疫措施防止第二拨新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS9JLDFpiXuTxO3i3Pys200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】俄罗斯取消入境旅客14天隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nfmugHHmIBPGOOKLyUG200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】受疫情影响，马来西亚零售业或迎33年来最差纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDlwbiPmGp5XkL2Zvq1ee200713&isfromapp=1)
@@ -593,9 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京中风险地区降至9个](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】18国发布联合声明坚决支持世卫组织](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fYuil1hQS073m9XJmME200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】日本美军基地61人确诊新冠](https://m.weibo.cn/2803301701/4525821350454346)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

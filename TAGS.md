@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-14 16:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -576,6 +576,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244)
 - [【全国新型肺炎疫情实时动态(丁香园)】大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京多项车驾管业务可继续“网上办-延期办-容缺办”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidrKWlTo7BpUOK2R2yzrD200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】又一驻日美军基地暴发集体感染，美方拒绝透露具体信息](https://m.weibo.cn/3057540037/4526543751457520)
@@ -595,7 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾拉普拉普市海军发生聚集性感染-已进入隔离状态](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifuu7XOlDsWz8zBFwKnaj200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】不顾疫情严峻-美国部分民众仍拒戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

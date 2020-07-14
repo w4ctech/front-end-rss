@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-14 16:30:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-14 19:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,8 @@
 </summary>
 
 
-- [2020-07-14-美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244) ![](assets/new.png)  
+- [2020-07-14-因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244)  
 - [2020-07-14-德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1)  
 - [2020-07-14-印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1)  
 - [2020-07-14-大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-13-北京共采集-54-人次的康复者血浆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNTdnUO2lg0qdL38uL47200713&isfromapp=1)  
 - [2020-07-13-高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1)  
 - [2020-07-13-北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)  
-- [2020-07-13-日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

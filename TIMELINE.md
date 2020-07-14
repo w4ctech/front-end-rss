@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-14 16:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-14 19:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-14 16:30:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-14 19:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-14-因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1) 
 - [2020-07-14-美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244) 
 - [2020-07-14-大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1) 
 - [2020-07-14-北京多项车驾管业务可继续“网上办-延期办-容缺办”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidrKWlTo7BpUOK2R2yzrD200714&isfromapp=1) 

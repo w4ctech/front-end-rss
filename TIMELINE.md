@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 01:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-15 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-​德国科研人员发现新冠肺炎患者体内抗体数量下降-或影响疫苗研发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirm9gxFQM5VBqpOlOKGCQ200715&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-新冠肺炎确诊病例激增，印度北方邦等地重启全面封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY8M5Cbzm5vQrSUeh1I4L200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-14-非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-15 01:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 08:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​德国科研人员发现新冠肺炎患者体内抗体数量下降-或影响疫苗研发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirm9gxFQM5VBqpOlOKGCQ200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠肺炎确诊病例激增，印度北方邦等地重启全面封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY8M5Cbzm5vQrSUeh1I4L200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1292万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirrNZFQdkSeRgVHI06l8B200714&isfromapp=1)
@@ -560,8 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1240万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​香港新增38例新冠肺炎确诊病例-累计确诊1469例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig2ikqwp3sPYHENTfvbB3200712&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月11日无新增本地新冠肺炎确诊病例-新增境外输入2例](http://wsjkw.sh.gov.cn/xwfb/20200712/c9284ec3774a4c03bcc75cb9f2665f6a.html)
-- [【全国新型肺炎疫情实时动态(丁香园)】受新冠肺炎疫情影响-阿联酋航空宣布裁员9000人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】德国奔驰工厂出现新冠肺炎聚集性疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244)
@@ -595,7 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国卫生局长：#美国政府正就戴口罩问题纠错](https://m.weibo.cn/3057540037/4526186443623613)
-- [【全国新型肺炎疫情实时动态(丁香园)】悉尼一家酒吧发现13例确诊病例-病毒扩散迹象引担忧](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifDZnwQnbzVFCXKun2eBu200713&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

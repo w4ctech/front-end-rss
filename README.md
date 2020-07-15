@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-15 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-15 08:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,11 @@
 </summary>
 
 
-- [2020-07-14-新冠肺炎确诊病例激增，印度北方邦等地重启全面封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY8M5Cbzm5vQrSUeh1I4L200714&isfromapp=1) ![](assets/new.png)  
-- [2020-07-14-7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-​德国科研人员发现新冠肺炎患者体内抗体数量下降-或影响疫苗研发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirm9gxFQM5VBqpOlOKGCQ200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-14-新冠肺炎确诊病例激增，印度北方邦等地重启全面封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY8M5Cbzm5vQrSUeh1I4L200714&isfromapp=1)  
+- [2020-07-14-7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1)  
 - [2020-07-14-非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1)  
 - [2020-07-14-世卫组织：全球新冠肺炎确诊病例超过1292万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirrNZFQdkSeRgVHI06l8B200714&isfromapp=1)  
 - [2020-07-14-全球新冠肺炎超1300万例](https://m.weibo.cn/2803301701/4526671711698670)  
@@ -91,9 +94,6 @@
 - [2020-07-14-俄罗斯取消入境旅客14天隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nfmugHHmIBPGOOKLyUG200714&isfromapp=1)  
 - [2020-07-13-印度多地建立康复者血浆库，为新冠肺炎患者提供血浆治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8FMgjX65foL0HSZ4V1vN200713&isfromapp=1)  
 - [2020-07-13-受疫情影响，马来西亚零售业或迎33年来最差纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDlwbiPmGp5XkL2Zvq1ee200713&isfromapp=1)  
-- [2020-07-13-陕西西安海鲜市场新冠病毒核酸检测结果公布：均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisz4iU8q4MqUnxUgxs7me200713&isfromapp=1)  
-- [2020-07-13-江苏省检验医疗队圆满完成在京任务，凯旋回家！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIpCZtqxuLsTUrS0jZgpm200713&isfromapp=1)  
-- [2020-07-13-再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

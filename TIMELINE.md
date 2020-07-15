@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 20:30:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-15 23:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-英国首相首次承诺未来将对新冠疫情应对情况进行独立调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS5sedPGCofivUBbOWmwd200715&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-塞尔维亚新冠肺炎确诊病例新增351例-累计确诊19334例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-克罗地亚新冠肺炎确诊病例新增92例-累计确诊3953例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifQh4ecwha9vyr5oJqmcw200715&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-波兰新增新冠肺炎确诊病例264例-累计确诊38721例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVrDes5odYynM798jCsV200715&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-世卫组织：全球新冠肺炎确诊病例超过1311万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihSl55EnlCIvOY23R0ynA200715&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-哈萨克斯坦感谢中国等15国提供人道主义抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-​保加利亚新增234例新冠肺炎确诊病例-累计达7645例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIaa8pkfBynxRMiK0tB4x200715&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1) 

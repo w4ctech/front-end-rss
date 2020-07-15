@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,3 +36,4 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-07-15-三分钟了解-Python3-的异步-Web-框架-FastAPI-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13589&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F157999491%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

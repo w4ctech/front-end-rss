@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -64,3 +64,21 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13604&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-7-大-Python-特殊技巧提升数据分析能力-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13603&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXSRftTqPxJz0HEK1oHE5XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-程序员无休止加班的真正原因-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13602&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYaBHXd9ZHEYg3mdD-Yk-7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-Python-IDE-优缺点列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13601&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzPc-wN18mnDCI_wEoRwxQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-Android-使用-LiveData-实现-EventBus-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13600&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu7FA6P1NMWKO_SrapYLH1A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-赶紧收藏！非常实用的-30-个-Python-技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13599&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnYydqssdRQO3M94MB8BZSg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-Glide-源码解析之监听生命周期-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13598&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNYv3QxfaMRmqozw1hgoAgA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13597&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsKzIH2Dudc-7cIKBDEkVlg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-用好这-7-个-VS-Code-插件，前端编程效率蹭蹭涨-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13596&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNvHjFZi8_ToW16uXcTGL4w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-一键导出微信阅读记录和笔记-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13595&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlG65IeVIpKe8jsaQP1oBuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-2020最新版《神经网络与深度学习》中文版-pdf-开放下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13594&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnaZIyRYlRKH28lzfEF8DVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-去掉烦人的-!=null-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13593&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQH06T7crTN0XIv29TzpkOw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-下载！81-页计算机视觉学习指南-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13592&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0CUm2cs45PJgGQtesabJ4A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-60-个相见恨晚的神器工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13591&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9BIfo62KMzxfbYF6AzGHaQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-盘点多款国产Linux桌面操作系统-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13590&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbyapc8fIcIdM8l5umR6Agg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13588&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-15-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

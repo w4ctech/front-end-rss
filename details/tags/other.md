@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-15 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-15-5月份巴西央行经济活动指数上升1.31%-为疫情暴发以来首次回升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1) 
 - [2020-07-15-美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1) 
 - [2020-07-14-7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1) 
 - [2020-07-14-因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1) 

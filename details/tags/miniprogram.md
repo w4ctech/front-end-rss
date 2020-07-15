@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -34,7 +34,3 @@
 - [2017-01-19-微信小程序跨页面通信解决思路](https://aotu.io/notes/2017/01/19/wxapp-event/) 
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
-- [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
-- [2020-07-11-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-07-14-探究微信小程序-Video-组件的视频兼容性](https://toutiao.io/k/oyk9zn9) 
-- [2020-07-13-如何快捷转微信小程序为快应用](https://toutiao.io/k/d3ivnvo) 

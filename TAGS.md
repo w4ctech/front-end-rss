@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-15 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 11:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -49,7 +49,6 @@
 - [【凹凸实验室】轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/)
 - [【凹凸实验室】feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/)
 - [【凹凸实验室】使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/)
-- [【开发者头条】开发-React-和-Rax-样式用这款-VS-Code-插件就够了](https://toutiao.io/k/kaqwmz1)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -72,13 +71,6 @@
 - [【凹凸实验室】XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/)
 - [【凹凸实验室】Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/)
 - [【凹凸实验室】Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/)
-- [【掘金前端】从mini源码分析vue，优势特性总结，vue-cli知识点，以及vue项目的二次封装，mini项目源码附送（1W字+）](https://juejin.im/post/5f0326786fb9a07e976bd945)
-- [【掘金前端】🍊你可能从来都不知道的6条Vue实战技巧](https://juejin.im/post/5f0832e35188252e8e65283b)
-- [【掘金前端】图解Vue2源码------1.-源码入口及Vue构造函数](https://juejin.im/post/5f0820c65188252e75368502)
-- [【前端艺术家&&飞冰早报】Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl)
-- [【技术头条】2020，Vue-开发最佳指南，你都需要学点啥？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13574&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNZuyVDpF5AFl8X46-P_C0w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】Vue-动态组件-component-的深度使用](https://toutiao.io/k/f4bzecw)
-- [【开发者头条】译-用-Typescript-+-Composition-API-重构-Vue-3-组件](https://toutiao.io/k/pbpn7g4)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -95,7 +87,6 @@
 
 
 
-- [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
 - [......【查看更多】......](./details/tags/typescript.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -116,8 +107,6 @@
 - [【凹凸实验室】Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/)
 - [【凹凸实验室】通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/)
 - [【凹凸实验室】使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/)
-- [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【开发者头条】线上-Go-项目的-Docker-镜像应该怎么构建？](https://toutiao.io/k/5issjtx)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -193,8 +182,6 @@
 
 
 
-- [【技术头条】Flutter-2020首个稳定版-1.17-重磅发布：多个新增特性-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13583&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FftWVVUvRkQVMxg5PiBRVHQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】如何让-Flutter-应用更好地使用-SVG？](https://toutiao.io/k/oujuql6)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -333,8 +320,6 @@
 - [【凹凸实验室】探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/)
 - [【凹凸实验室】Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/)
 - [【凹凸实验室】SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/)
-- [【V2EX】有开发-Unity3d-的朋友吗，遇到个神奇-bug-求解决。](https://www.v2ex.com/t/689732)
-- [【V2EX】在-WSL2-里运行-Linux-GUI-程序](https://www.v2ex.com/t/689730)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -355,7 +340,6 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
-- [【V2EX】有偿征集音视频开发相关创意](https://www.v2ex.com/t/689738)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -380,9 +364,6 @@
 - [【凹凸实验室】前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/)
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
-- [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
-- [【开发者头条】MySQL：慢-SQL-优化方法论](https://toutiao.io/k/t00tz3i)
-- [【开发者头条】推荐-性能调优利器：火焰图](https://toutiao.io/k/cyzz0t9)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -399,8 +380,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】安哥拉总统安全办公室的30名安保工作人员新冠肺炎检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHI6y1u9Mr3AZ3piT07UH200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京加强院感防控-保障日常诊疗安全](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJYADGx1konepaOPfCtB6200710&isfromapp=1)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
 - [【凹凸实验室】移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/)
@@ -409,12 +388,6 @@
 - [【凹凸实验室】你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/)
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
-- [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
-- [【V2EX】Time-Machine-可以自动走-ZeroTier-备份](https://www.v2ex.com/t/689731)
-- [【开发者头条】我所认知的甲方信息安全建设经验](https://toutiao.io/k/7szqper)
-- [【开发者头条】推荐-Go-调试利器：delve](https://toutiao.io/k/4wlokct)
-- [【开发者头条】缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut)
-- [【开发者头条】推荐-是时候扔掉-Postman-了，Apifox-真香](https://toutiao.io/k/5t9uoyn)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -438,12 +411,6 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
-- [【V2EX】小旭讲解-基础算法系列-01-背包](https://www.v2ex.com/t/689741)
-- [【V2EX】北京，求一个-NLP-算法工程师的坑](https://www.v2ex.com/t/689726)
-- [【开发者头条】Elasticsearch-预处理没有奇技淫巧，请先用好这一招](https://toutiao.io/k/jr63z4i)
-- [【开发者头条】Elasticsearch-知识点六问六答](https://toutiao.io/k/am6ps26)
-- [【开发者头条】推荐-微服务技术栈：流量整形算法，服务熔断与降级](https://toutiao.io/k/1jnlldb)
-- [【开发者头条】推荐-有了这套算法模板，一个月从入门到-Offer，妥妥的！](https://toutiao.io/k/3sw2ecu)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -462,9 +429,6 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
-- [【V2EX】关于-Nginx-设置拒绝或允许指定-ip-访问的配置问题](https://www.v2ex.com/t/689743)
-- [【开发者头条】推荐-工具-|-一个在线生成-nginx-配置文件的开源工具](https://toutiao.io/k/f54z6ff)
-- [【开发者头条】推荐-译-用-Go-从头实现一个迷你-Docker：Gocker](https://toutiao.io/k/eyuwyte)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -483,9 +447,6 @@
 
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
-- [【V2EX】我今天才发现-github-的一个新功能:add-README-to-your-profile](https://www.v2ex.com/t/689710)
-- [【技术头条】重磅！GitHub-官方开源新命令行工具-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13578&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrwwoRQ_gT5K_CaapSAjG-g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【技术头条】刚刚，GitHub-重磅发布-4-大新功能！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13575&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fo8QutK8Kqhx0hfJt6vyaKw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -502,14 +463,6 @@
 
 
 
-- [【V2EX】顺利上岸，分享一些面试经验](https://www.v2ex.com/t/689755)
-- [【V2EX】北京驻场工程师招聘-需要-1-名-Java-后端，-1-名前端](https://www.v2ex.com/t/689744)
-- [【V2EX】上海-国际大厂-急！-招聘-IaaS-架构师/IaaS-工程师-/-高级运维工程师,核心业务线](https://www.v2ex.com/t/689725)
-- [【V2EX】关于“面试造火箭，工作拧螺丝”](https://www.v2ex.com/t/689715)
-- [【V2EX】山东烟台-招聘互联网运营经理/总监](https://www.v2ex.com/t/689711)
-- [【V2EX】第四期德国-IT-岗位招聘之-PHP-Developer,-IT-Project-Manager-ABAS,-IT-System-Administrator](https://www.v2ex.com/t/689709)
-- [【技术头条】聊聊我的一次真实-Python-面试经历-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13572&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fw9x1uqzxVl8LGKY1Oeq5ww%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-抖音、腾讯、阿里、美团春招服务端开发岗位硬核面试（完结）](https://toutiao.io/k/i4twh6a)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -542,26 +495,6 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：昨日新增6例新冠肺炎确诊病例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】阿根廷新增3645例新冠肺炎确诊病例-部分省份将于8月复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​德国科研人员发现新冠肺炎患者体内抗体数量下降-或影响疫苗研发](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirm9gxFQM5VBqpOlOKGCQ200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新冠肺炎确诊病例激增，印度北方邦等地重启全面封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY8M5Cbzm5vQrSUeh1I4L200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】非洲地区累计新冠肺炎确诊病例超过61万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCtI0xgVLIJwNzyoCKbaa200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1292万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirrNZFQdkSeRgVHI06l8B200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎超1300万例](https://m.weibo.cn/2803301701/4526671711698670)
-- [【全国新型肺炎疫情实时动态(丁香园)】德国新增新冠肺炎确诊病例412例-累计确诊199375例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihg5gZOzv8ArXdqSAFIZY200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】印度新增28498例新冠肺炎确诊病例-累计达906752例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAnbutBjFKHoIl40nMM8t200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】全球新冠肺炎病例超1300万](https://m.weibo.cn/2803301701/4526492112030222)
-- [【全国新型肺炎疫情实时动态(丁香园)】印度多地建立康复者血浆库，为新冠肺炎患者提供血浆治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8FMgjX65foL0HSZ4V1vN200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】吉尔吉斯斯坦新冠肺炎确诊病例超-1.1-万。社区获得性肺炎死亡数持续增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivb822vgye3k5xpgLhQsz200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】哈萨克斯坦今迎国家哀悼日，全国将为因新冠肺炎去世哈公民默哀1分钟](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimuZ8lSxBuaAWp4C278yV200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴西新增24831例新冠肺炎确诊病例-累计确诊人数超186万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国新冠肺炎累计确诊病例超过324万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新加坡首次出现校园内感染新冠肺炎病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】印度新冠肺炎疫情严峻-北方邦每个周末将实施严格封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1240万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,26 +509,26 @@
 
 
 
-- [【全国新型肺炎疫情实时动态(丁香园)】5月份巴西央行经济活动指数上升1.31%-为疫情暴发以来首次回升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】7月14日6时至18时，天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFJambEyhOEn7BOxdNDz200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】因防疫出现漏洞-泰国总理紧急叫停针对特许人员的入境政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixJbUT0F6PXp8Y9qgE81r200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国又暴发聚集性感染,美国一派对致-43-人确诊](https://m.weibo.cn/3057540037/4526619298976244)
-- [【全国新型肺炎疫情实时动态(丁香园)】大连市排查处置冻南美白虾-核酸检测结果全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti55JBzbEo8AzrquVfNbvN200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京多项车驾管业务可继续“网上办-延期办-容缺办”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidrKWlTo7BpUOK2R2yzrD200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】又一驻日美军基地暴发集体感染，美方拒绝透露具体信息](https://m.weibo.cn/3057540037/4526543751457520)
-- [【全国新型肺炎疫情实时动态(丁香园)】​加拿大多个省份推出防疫措施防止第二拨新冠疫情](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS9JLDFpiXuTxO3i3Pys200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】俄罗斯取消入境旅客14天隔离政策](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nfmugHHmIBPGOOKLyUG200714&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】受疫情影响，马来西亚零售业或迎33年来最差纪录](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDlwbiPmGp5XkL2Zvq1ee200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】陕西西安海鲜市场新冠病毒核酸检测结果公布：均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisz4iU8q4MqUnxUgxs7me200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】江苏省检验医疗队圆满完成在京任务，凯旋回家！](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIpCZtqxuLsTUrS0jZgpm200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】再战第一线！抢建武汉方舱医院的他们又来抗洪了](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNKK9Z711YLwFaOBFrDOy200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】第一趟国际航班降临萧山机场，杭州口岸国际航线将陆续恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit6QDNO5UFHsL9N5JZysu200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】香港一名献血者确诊](https://m.weibo.cn/3057540037/4526268454373749)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京共采集-54-人次的康复者血浆](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNTdnUO2lg0qdL38uL47200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】高风险地区清零！北京丰台区花乡乡由高风险地区降至中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiujLZ8et229Toyf2oWzQ5200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京：连续-7-天无新增本地确诊病例，治愈出院破百例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFXeV02MItO1dqUJXida200713&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】日本一医院-400-多名护士请辞：疫情加重，奖金全扣](https://m.weibo.cn/3057540037/4526246841571686)
+- [【阮一峰的网络日志】科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)
+- [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
+- [【阮一峰的网络日志】科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
+- [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
+- [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
+- [【京东设计中心】用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987)
+- [【京东设计中心】8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946)
+- [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
+- [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
+- [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
+- [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
+- [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
+- [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
+- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
+- [【凹凸实验室】JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)
+- [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
+- [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
+- [【凹凸实验室】Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)
+- [【凹凸实验室】从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)
+- [【凹凸实验室】京东-PC-首页-2019-改版前端总结](https://aotu.io/notes/2019/08/26/jdindex_2019/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

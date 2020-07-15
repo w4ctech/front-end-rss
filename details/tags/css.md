@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-15 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -31,14 +31,9 @@
 - [2016-05-06-CSS3动画之3D动画](https://aotu.io/notes/2016/05/06/CSS3-3D-Animation/) 
 - [2016-01-04-CSS3动画实践](https://aotu.io/notes/2016/01/04/css3-animation/) 
 - [2015-12-09-【译】介绍Sass-Maps：用法跟例子](https://aotu.io/notes/2015/12/09/an-introduction-to-sass-maps/) 
-- [2015-11-23-以电影之眼看CSS3动画（一）](https://aotu.io/notes/2015/11/23/css3-animation-to-movie-part_1/) 
 - [2015-11-23-以电影之眼看CSS3动画（二）](https://aotu.io/notes/2015/11/23/css3-animation-to-movie-part_2/) 
+- [2015-11-23-以电影之眼看CSS3动画（一）](https://aotu.io/notes/2015/11/23/css3-animation-to-movie-part_1/) 
 - [2015-11-08-css层叠顺序探究](https://aotu.io/notes/2015/11/08/css-stack-order/) 
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
-- [2020-01-18-【canvas】动画原理の万有引力定律](https://juejin.im/post/5e213c83f265da3e006b3fc0) 
-- [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
-- [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
-- [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
-- [2020-07-13-译-使用-CSS-Paint-API-动态创建与分辨率无关的可变背景](https://toutiao.io/k/9lpjvzn) 

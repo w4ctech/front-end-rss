@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-15 19:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-15 20:30:22，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,10 @@
 </summary>
 
 
-- [2020-07-15-重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1) ![](assets/new.png)  
-- [2020-07-15-​伊朗新增2388例新冠肺炎确诊病例-累计达264561例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAB99CU2HO3fcgYYiycre200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-哈萨克斯坦感谢中国等15国提供人道主义抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-​保加利亚新增234例新冠肺炎确诊病例-累计达7645例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIaa8pkfBynxRMiK0tB4x200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1)  
+- [2020-07-15-​伊朗新增2388例新冠肺炎确诊病例-累计达264561例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAB99CU2HO3fcgYYiycre200715&isfromapp=1)  
 - [2020-07-15-菲律宾新增1392例新冠肺炎确诊病例-累计达58850例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5cUQo1kkzbmVEzR36hCW200715&isfromapp=1)  
 - [2020-07-15-受新冠肺炎影响-美国失业问题可能长期化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCsZ4xu8w2KPMG0NzZVAp200715&isfromapp=1)  
 - [2020-07-15-​俄罗斯一名联邦委员会议员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikMyA0rumxCnYLsSh8Mkp200715&isfromapp=1)  

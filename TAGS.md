@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-15 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-15 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -495,6 +495,11 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】新加坡新增249例新冠肺炎确诊病例-累计达46878例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5v74UMVGOBxJs5g7yuht200715&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​东京15日新增165例新冠肺炎确诊病例-连续7天新增病例超100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAuHMV3r8ROhPjRIpPlor200715&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​中非共和国新增35例新冠肺炎确诊病例-累计达4356例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifD38EgCKMeQRm5q0dZhv200715&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增836例新冠肺炎确诊病例-累计达55607例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7yYZujBdKotNiJzKmMP200715&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】卢旺达新增38例新冠肺炎确诊病例-累计达1416例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN0zbGCt6JwjC6XwZquL200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月14日无新增本地新冠肺炎确诊病例-新增境外输入3例](http://wsjkw.sh.gov.cn/xwfb/20200715/ac0c333c30804ef4be689eefafe5d421.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：昨日新增6例新冠肺炎确诊病例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿根廷新增3645例新冠肺炎确诊病例-部分省份将于8月复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1)
@@ -513,6 +518,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国多州疫情持续恶化-医疗系统压力加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZsVyfqWeyWQFO3cylme200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】5月份巴西央行经济活动指数上升1.31%-为疫情暴发以来首次回升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1)
 - [【阮一峰的网络日志】科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)
 - [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
@@ -532,7 +538,6 @@
 - [【凹凸实验室】羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)
 - [【凹凸实验室】前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)
 - [【凹凸实验室】Sketch-插件开发实践](https://aotu.io/notes/2019/10/31/sketch-plugin/)
-- [【凹凸实验室】从程序媛角度去看项目管理](https://aotu.io/notes/2019/09/11/project-management-of-programmer/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

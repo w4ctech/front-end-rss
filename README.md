@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-15 11:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-15 17:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,11 +74,17 @@
 </summary>
 
 
-- [2020-07-15-上海7月14日无新增本地新冠肺炎确诊病例-新增境外输入3例](http://wsjkw.sh.gov.cn/xwfb/20200715/ac0c333c30804ef4be689eefafe5d421.html) ![](assets/new.png)  
-- [2020-07-15-5月份巴西央行经济活动指数上升1.31%-为疫情暴发以来首次回升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1) ![](assets/new.png)  
-- [2020-07-15-国家卫健委：昨日新增6例新冠肺炎确诊病例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1) ![](assets/new.png)  
-- [2020-07-15-阿根廷新增3645例新冠肺炎确诊病例-部分省份将于8月复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1) ![](assets/new.png)  
-- [2020-07-15-秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-新加坡新增249例新冠肺炎确诊病例-累计达46878例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5v74UMVGOBxJs5g7yuht200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-美国多州疫情持续恶化-医疗系统压力加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZsVyfqWeyWQFO3cylme200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-​东京15日新增165例新冠肺炎确诊病例-连续7天新增病例超100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAuHMV3r8ROhPjRIpPlor200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-​中非共和国新增35例新冠肺炎确诊病例-累计达4356例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifD38EgCKMeQRm5q0dZhv200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-乌克兰新增836例新冠肺炎确诊病例-累计达55607例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7yYZujBdKotNiJzKmMP200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-卢旺达新增38例新冠肺炎确诊病例-累计达1416例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN0zbGCt6JwjC6XwZquL200715&isfromapp=1) ![](assets/new.png)  
+- [2020-07-15-上海7月14日无新增本地新冠肺炎确诊病例-新增境外输入3例](http://wsjkw.sh.gov.cn/xwfb/20200715/ac0c333c30804ef4be689eefafe5d421.html)  
+- [2020-07-15-5月份巴西央行经济活动指数上升1.31%-为疫情暴发以来首次回升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1)  
+- [2020-07-15-国家卫健委：昨日新增6例新冠肺炎确诊病例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1)  
+- [2020-07-15-阿根廷新增3645例新冠肺炎确诊病例-部分省份将于8月复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1)  
+- [2020-07-15-秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

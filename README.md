@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-16 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-17 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,9 @@
 </summary>
 
 
-- [2020-07-16-罗马尼亚新增777例新冠肺炎确诊病例-累计确诊35003例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFyDutqeHcWhgUUAcY1G200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-​科威特新增791例新冠肺炎确诊病例-累计确诊57668例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-罗马尼亚新增777例新冠肺炎确诊病例-累计确诊35003例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFyDutqeHcWhgUUAcY1G200716&isfromapp=1)  
 - [2020-07-16-摩洛哥新增162例新冠肺炎确诊病例-累计确诊16424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hCD4E5Scw6HDRaqShGG200716&isfromapp=1)  
 - [2020-07-16-塞内加尔新增112例新冠肺炎确诊病例-累计确诊8481例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisV4IuWO5dZZcrvA0BUpf200716&isfromapp=1)  
 - [2020-07-16-白俄罗斯新增180例新冠肺炎确诊病例-累计确诊65623例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAZbydRJED0le3Ky9IrUA200716&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-16-国家电影局：低风险地区电影院7月20日开放营业](https://m.weibo.cn/2803301701/4527287310227518)  
 - [2020-07-16-受疫情冲击-新加坡航空集团6月份客运量下跌99.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1)  
 - [2020-07-16-北京15日无新增报告新冠肺炎确诊病例-治愈出院23例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirftsi8TohkEn0PXHLt7m200716&isfromapp=1)  
-- [2020-07-16-圣保罗工业联合会主席确诊新冠肺炎-曾与总统博索纳罗共进午餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUMbnu7oPDW1fFJIC4adT200716&isfromapp=1)  
-- [2020-07-16-玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

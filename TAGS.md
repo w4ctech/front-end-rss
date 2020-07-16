@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-16 22:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 01:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -500,6 +500,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​科威特新增791例新冠肺炎确诊病例-累计确诊57668例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】罗马尼亚新增777例新冠肺炎确诊病例-累计确诊35003例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFyDutqeHcWhgUUAcY1G200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增162例新冠肺炎确诊病例-累计确诊16424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hCD4E5Scw6HDRaqShGG200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】塞内加尔新增112例新冠肺炎确诊病例-累计确诊8481例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisV4IuWO5dZZcrvA0BUpf200716&isfromapp=1)
@@ -518,8 +520,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】克罗地亚新冠肺炎确诊病例新增92例-累计确诊3953例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifQh4ecwha9vyr5oJqmcw200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】波兰新增新冠肺炎确诊病例264例-累计确诊38721例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVrDes5odYynM798jCsV200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例超过1311万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihSl55EnlCIvOY23R0ynA200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​保加利亚新增234例新冠肺炎确诊病例-累计达7645例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIaa8pkfBynxRMiK0tB4x200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​伊朗新增2388例新冠肺炎确诊病例-累计达264561例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAB99CU2HO3fcgYYiycre200715&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

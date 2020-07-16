@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-16 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-16 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-受疫情冲击-新加坡航空集团6月份客运量下跌99.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-北京15日无新增报告新冠肺炎确诊病例-治愈出院23例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirftsi8TohkEn0PXHLt7m200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-圣保罗工业联合会主席确诊新冠肺炎-曾与总统博索纳罗共进午餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUMbnu7oPDW1fFJIC4adT200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-16 09:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-16 11:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,11 +74,12 @@
 </summary>
 
 
-- [2020-07-16-北京15日无新增报告新冠肺炎确诊病例-治愈出院23例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirftsi8TohkEn0PXHLt7m200716&isfromapp=1) ![](assets/new.png)  
-- [2020-07-16-圣保罗工业联合会主席确诊新冠肺炎-曾与总统博索纳罗共进午餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUMbnu7oPDW1fFJIC4adT200716&isfromapp=1) ![](assets/new.png)  
-- [2020-07-16-玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1) ![](assets/new.png)  
-- [2020-07-16-澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1) ![](assets/new.png)  
-- [2020-07-16-巴西新冠肺炎确诊病例超196万-首都所属联邦区酒吧及餐厅恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-受疫情冲击-新加坡航空集团6月份客运量下跌99.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-北京15日无新增报告新冠肺炎确诊病例-治愈出院23例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirftsi8TohkEn0PXHLt7m200716&isfromapp=1)  
+- [2020-07-16-圣保罗工业联合会主席确诊新冠肺炎-曾与总统博索纳罗共进午餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUMbnu7oPDW1fFJIC4adT200716&isfromapp=1)  
+- [2020-07-16-玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1)  
+- [2020-07-16-澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1)  
+- [2020-07-16-巴西新冠肺炎确诊病例超196万-首都所属联邦区酒吧及餐厅恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1)  
 - [2020-07-15-英国首相首次承诺未来将对新冠疫情应对情况进行独立调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS5sedPGCofivUBbOWmwd200715&isfromapp=1)  
 - [2020-07-15-塞尔维亚新冠肺炎确诊病例新增351例-累计确诊19334例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1)  
 - [2020-07-15-克罗地亚新冠肺炎确诊病例新增92例-累计确诊3953例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifQh4ecwha9vyr5oJqmcw200715&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-15-​俄罗斯一名联邦委员会议员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikMyA0rumxCnYLsSh8Mkp200715&isfromapp=1)  
 - [2020-07-15-新加坡新增249例新冠肺炎确诊病例-累计达46878例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5v74UMVGOBxJs5g7yuht200715&isfromapp=1)  
 - [2020-07-15-美国多州疫情持续恶化-医疗系统压力加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZsVyfqWeyWQFO3cylme200715&isfromapp=1)  
-- [2020-07-15-​东京15日新增165例新冠肺炎确诊病例-连续7天新增病例超100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAuHMV3r8ROhPjRIpPlor200715&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

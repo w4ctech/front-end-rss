@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-16 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-16 19:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-白俄罗斯新增180例新冠肺炎确诊病例-累计确诊65623例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAZbydRJED0le3Ky9IrUA200716&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-​非洲地区新冠肺炎确诊病例累计达64.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifEz3NTb9u4wi4JYkLWED200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-驻韩美军新增14例新冠肺炎确诊患者-确诊人数激增引发忧虑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLcM1hx0DjYMEC3e0wqb200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-​香港16日新增67例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu5ZXY3ATkHzupTzHMOU200716&isfromapp=1) 

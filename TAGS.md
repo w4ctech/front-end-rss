@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-16 00:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-16 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -500,6 +500,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】北京15日无新增报告新冠肺炎确诊病例-治愈出院23例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirftsi8TohkEn0PXHLt7m200716&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】圣保罗工业联合会主席确诊新冠肺炎-曾与总统博索纳罗共进午餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUMbnu7oPDW1fFJIC4adT200716&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例超196万-首都所属联邦区酒吧及餐厅恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】塞尔维亚新冠肺炎确诊病例新增351例-累计确诊19334例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】克罗地亚新冠肺炎确诊病例新增92例-累计确诊3953例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifQh4ecwha9vyr5oJqmcw200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】波兰新增新冠肺炎确诊病例264例-累计确诊38721例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVrDes5odYynM798jCsV200715&isfromapp=1)
@@ -516,7 +520,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月14日无新增本地新冠肺炎确诊病例-新增境外输入3例](http://wsjkw.sh.gov.cn/xwfb/20200715/ac0c333c30804ef4be689eefafe5d421.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：昨日新增6例新冠肺炎确诊病例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿根廷新增3645例新冠肺炎确诊病例-部分省份将于8月复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -531,6 +534,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】英国首相首次承诺未来将对新冠疫情应对情况进行独立调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS5sedPGCofivUBbOWmwd200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】哈萨克斯坦感谢中国等15国提供人道主义抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1)
@@ -550,7 +554,6 @@
 - [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [【凹凸实验室】京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/)
 - [【凹凸实验室】智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/)
-- [【凹凸实验室】Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

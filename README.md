@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-16 17:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-16 18:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,13 @@
 </summary>
 
 
-- [2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1) ![](assets/new.png)  
-- [2020-07-16-受新冠肺炎疫情影响-英国64.9万人3月到6月没有收入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-驻韩美军新增14例新冠肺炎确诊患者-确诊人数激增引发忧虑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLcM1hx0DjYMEC3e0wqb200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-​香港16日新增67例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu5ZXY3ATkHzupTzHMOU200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-西班牙在马德里皇宫举行新冠肺炎逝者悼念仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfRExxJzyCGOaPJTTujM200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1)  
+- [2020-07-16-受新冠肺炎疫情影响-英国64.9万人3月到6月没有收入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1)  
 - [2020-07-16-新疆新增新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1)  
 - [2020-07-16-东京将疫情警戒状态上调至最高](https://m.weibo.cn/3057540037/4527267462783132)  
 - [2020-07-16-警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276)  
@@ -89,11 +94,6 @@
 - [2020-07-15-英国首相首次承诺未来将对新冠疫情应对情况进行独立调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS5sedPGCofivUBbOWmwd200715&isfromapp=1)  
 - [2020-07-15-塞尔维亚新冠肺炎确诊病例新增351例-累计确诊19334例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1)  
 - [2020-07-15-克罗地亚新冠肺炎确诊病例新增92例-累计确诊3953例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifQh4ecwha9vyr5oJqmcw200715&isfromapp=1)  
-- [2020-07-15-波兰新增新冠肺炎确诊病例264例-累计确诊38721例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVrDes5odYynM798jCsV200715&isfromapp=1)  
-- [2020-07-15-世卫组织：全球新冠肺炎确诊病例超过1311万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihSl55EnlCIvOY23R0ynA200715&isfromapp=1)  
-- [2020-07-15-哈萨克斯坦感谢中国等15国提供人道主义抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1)  
-- [2020-07-15-​保加利亚新增234例新冠肺炎确诊病例-累计达7645例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIaa8pkfBynxRMiK0tB4x200715&isfromapp=1)  
-- [2020-07-15-重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

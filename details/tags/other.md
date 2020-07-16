@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-07-16 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-16 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1) 
+- [2020-07-16-法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1) 
 - [2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1) 
 - [2020-07-16-东京将疫情警戒状态上调至最高](https://m.weibo.cn/3057540037/4527267462783132) 
 - [2020-07-16-警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276) 

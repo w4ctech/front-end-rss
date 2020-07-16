@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-16 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-16 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-驻韩美军新增14例新冠肺炎确诊患者-确诊人数激增引发忧虑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLcM1hx0DjYMEC3e0wqb200716&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-​香港16日新增67例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu5ZXY3ATkHzupTzHMOU200716&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-西班牙在马德里皇宫举行新冠肺炎逝者悼念仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfRExxJzyCGOaPJTTujM200716&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-受新冠肺炎疫情影响-英国64.9万人3月到6月没有收入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-新疆新增新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1) 

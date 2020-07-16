@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-16 15:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-16 17:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-受新冠肺炎疫情影响-英国64.9万人3月到6月没有收入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-新疆新增新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-东京将疫情警戒状态上调至最高](https://m.weibo.cn/3057540037/4527267462783132) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-16 13:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-16 15:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,9 @@
 </summary>
 
 
-- [2020-07-16-警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276) ![](assets/new.png)  
+- [2020-07-16-新疆新增新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1) ![](assets/new.png)  
+- [2020-07-16-东京将疫情警戒状态上调至最高](https://m.weibo.cn/3057540037/4527267462783132) ![](assets/new.png)  
+- [2020-07-16-警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276)  
 - [2020-07-16-国家电影局：低风险地区电影院7月20日开放营业](https://m.weibo.cn/2803301701/4527287310227518)  
 - [2020-07-16-受疫情冲击-新加坡航空集团6月份客运量下跌99.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1)  
 - [2020-07-16-北京15日无新增报告新冠肺炎确诊病例-治愈出院23例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirftsi8TohkEn0PXHLt7m200716&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-15-重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1)  
 - [2020-07-15-​伊朗新增2388例新冠肺炎确诊病例-累计达264561例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAB99CU2HO3fcgYYiycre200715&isfromapp=1)  
 - [2020-07-15-菲律宾新增1392例新冠肺炎确诊病例-累计达58850例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5cUQo1kkzbmVEzR36hCW200715&isfromapp=1)  
-- [2020-07-15-受新冠肺炎影响-美国失业问题可能长期化](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCsZ4xu8w2KPMG0NzZVAp200715&isfromapp=1)  
-- [2020-07-15-​俄罗斯一名联邦委员会议员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikMyA0rumxCnYLsSh8Mkp200715&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

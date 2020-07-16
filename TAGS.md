@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-16 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-16 13:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -534,6 +534,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家电影局：低风险地区电影院7月20日开放营业](https://m.weibo.cn/2803301701/4527287310227518)
 - [【全国新型肺炎疫情实时动态(丁香园)】受疫情冲击-新加坡航空集团6月份客运量下跌99.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1)
@@ -553,7 +554,6 @@
 - [【京东设计中心】用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927)
 - [【京东设计中心】一个表情引发的思考](https://jdc.jd.com/archives/212870)
 - [【凹凸实验室】从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/)
-- [【凹凸实验室】从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

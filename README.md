@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-17 21:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-18 01:30:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,11 +74,13 @@
 </summary>
 
 
-- [2020-07-17-阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1) ![](assets/new.png)  
-- [2020-07-17-清零！澳门最后一位新冠肺炎患者康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS5AOhqJTZb29y0KFDoK200717&isfromapp=1) ![](assets/new.png)  
-- [2020-07-17-以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1) ![](assets/new.png)  
-- [2020-07-17-北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1) ![](assets/new.png)  
-- [2020-07-17-乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html) ![](assets/new.png)  
+- [2020-07-17-美国疾控中心：纽约早期新冠病毒可能主要源自欧洲和美其他地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic5Y0Y5xS5T2n4bwxD7hv200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1)  
+- [2020-07-17-清零！澳门最后一位新冠肺炎患者康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS5AOhqJTZb29y0KFDoK200717&isfromapp=1)  
+- [2020-07-17-以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1)  
+- [2020-07-17-北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1)  
+- [2020-07-17-乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1)  
 - [2020-07-17-日本银行：企业资金需求创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tHbgToz7LvVp5GLbavZ200717&isfromapp=1)  
 - [2020-07-17-黑龙江过往确诊病例、医学观察对象全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lizQe3RsmaKLQDtLStQ200717&isfromapp=1)  
 - [2020-07-17-截至7月16日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/411571.jhtml)  
@@ -92,8 +94,6 @@
 - [2020-07-16-摩洛哥新增162例新冠肺炎确诊病例-累计确诊16424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hCD4E5Scw6HDRaqShGG200716&isfromapp=1)  
 - [2020-07-16-塞内加尔新增112例新冠肺炎确诊病例-累计确诊8481例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisV4IuWO5dZZcrvA0BUpf200716&isfromapp=1)  
 - [2020-07-16-白俄罗斯新增180例新冠肺炎确诊病例-累计确诊65623例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAZbydRJED0le3Ky9IrUA200716&isfromapp=1)  
-- [2020-07-16-​非洲地区新冠肺炎确诊病例累计达64.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifEz3NTb9u4wi4JYkLWED200716&isfromapp=1)  
-- [2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

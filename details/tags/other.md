@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-17 10:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-17-黑龙江过往确诊病例、医学观察对象全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lizQe3RsmaKLQDtLStQ200717&isfromapp=1) 
 - [2020-07-17-疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1) 
 - [2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1) 
 - [2020-07-16-法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1) 

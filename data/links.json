@@ -543,6 +543,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "Webpack原理浅析",
+        "link": "https://aotu.io/notes/2020/07/17/webpack-analize/",
+        "date": "2020-07-17"
+      },
+      {
         "title": "京喜前端自动化测试之路(小程序篇)",
         "link": "https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/",
         "date": "2020-07-13"

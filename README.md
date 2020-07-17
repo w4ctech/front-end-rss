@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-17 09:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-17 10:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,9 @@
 </summary>
 
 
-- [2020-07-17-北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html) ![](assets/new.png)  
-- [2020-07-17-疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-截至7月16日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/411571.jhtml) ![](assets/new.png)  
+- [2020-07-17-北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html)  
+- [2020-07-17-疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1)  
 - [2020-07-17-巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1)  
 - [2020-07-17-美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1)  
 - [2020-07-16-阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1)  
 - [2020-07-16-受新冠肺炎疫情影响-英国64.9万人3月到6月没有收入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1)  
 - [2020-07-16-新疆新增新冠肺炎确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1)  
-- [2020-07-16-东京将疫情警戒状态上调至最高](https://m.weibo.cn/3057540037/4527267462783132)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

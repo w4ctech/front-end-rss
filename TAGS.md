@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-17 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 10:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -500,6 +500,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】截至7月16日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/411571.jhtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1)
@@ -519,7 +520,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】圣保罗工业联合会主席确诊新冠肺炎-曾与总统博索纳罗共进午餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUMbnu7oPDW1fFJIC4adT200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例超196万-首都所属联邦区酒吧及餐厅恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】塞尔维亚新冠肺炎确诊病例新增351例-累计确诊19334例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

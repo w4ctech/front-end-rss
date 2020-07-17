@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-17 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-17 09:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-16-阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1) 

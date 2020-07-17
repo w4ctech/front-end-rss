@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-17 09:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 09:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -500,6 +500,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1)
@@ -519,7 +520,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例超196万-首都所属联邦区酒吧及餐厅恢复营业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】塞尔维亚新冠肺炎确诊病例新增351例-累计确诊19334例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】克罗地亚新冠肺炎确诊病例新增92例-累计确诊3953例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifQh4ecwha9vyr5oJqmcw200715&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -534,6 +534,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1)
@@ -553,7 +554,6 @@
 - [【阮一峰的网络日志】SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)
 - [【阮一峰的网络日志】科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html)
 - [【京东设计中心】NutUI-CLI源码解析](https://jdc.jd.com/archives/213013)
-- [【京东设计中心】NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-17 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -19,6 +19,7 @@
 - [2020-07-15-​俄罗斯一名联邦委员会议员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikMyA0rumxCnYLsSh8Mkp200715&isfromapp=1) 
 - [2020-07-15-美国多州疫情持续恶化-医疗系统压力加大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZsVyfqWeyWQFO3cylme200715&isfromapp=1) 
 - [2020-07-15-5月份巴西央行经济活动指数上升1.31%-为疫情暴发以来首次回升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1) 
+- [2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html) 
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 

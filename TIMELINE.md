@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-17 08:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-17 09:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -173,6 +173,7 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [【阮一峰的网络日志】2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html) 
 - [【阮一峰的网络日志】2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [【阮一峰的网络日志】2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [【阮一峰的网络日志】2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 

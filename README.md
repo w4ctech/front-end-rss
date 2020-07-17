@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-17 15:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-17 21:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -74,6 +74,11 @@
 </summary>
 
 
+- [2020-07-17-阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-清零！澳门最后一位新冠肺炎患者康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS5AOhqJTZb29y0KFDoK200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1) ![](assets/new.png)  
+- [2020-07-17-乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1) ![](assets/new.png)  
 - [2020-07-17-日本银行：企业资金需求创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tHbgToz7LvVp5GLbavZ200717&isfromapp=1)  
 - [2020-07-17-黑龙江过往确诊病例、医学观察对象全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lizQe3RsmaKLQDtLStQ200717&isfromapp=1)  
 - [2020-07-17-截至7月16日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/411571.jhtml)  
@@ -89,11 +94,6 @@
 - [2020-07-16-白俄罗斯新增180例新冠肺炎确诊病例-累计确诊65623例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAZbydRJED0le3Ky9IrUA200716&isfromapp=1)  
 - [2020-07-16-​非洲地区新冠肺炎确诊病例累计达64.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifEz3NTb9u4wi4JYkLWED200716&isfromapp=1)  
 - [2020-07-16-越南外交部：7月中旬起将逐步恢复与部分国家地区的国际航班](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1)  
-- [2020-07-16-驻韩美军新增14例新冠肺炎确诊患者-确诊人数激增引发忧虑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLcM1hx0DjYMEC3e0wqb200716&isfromapp=1)  
-- [2020-07-16-​香港16日新增67例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu5ZXY3ATkHzupTzHMOU200716&isfromapp=1)  
-- [2020-07-16-西班牙在马德里皇宫举行新冠肺炎逝者悼念仪式](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfRExxJzyCGOaPJTTujM200716&isfromapp=1)  
-- [2020-07-16-法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1)  
-- [2020-07-16-北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -371,7 +371,7 @@
 </summary>
 
 
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)  
 - [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/)  
 - [2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/)  
 - [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/)  

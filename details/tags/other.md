@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-17 15:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-17 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-17-北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1) 
 - [2020-07-17-日本银行：企业资金需求创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tHbgToz7LvVp5GLbavZ200717&isfromapp=1) 
 - [2020-07-17-黑龙江过往确诊病例、医学观察对象全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lizQe3RsmaKLQDtLStQ200717&isfromapp=1) 
 - [2020-07-17-疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1) 

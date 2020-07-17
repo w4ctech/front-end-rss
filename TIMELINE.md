@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-18 01:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-18 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-加拿大新冠肺炎确诊病例接近11万例-三个省新增病例反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdlbdjTC48SstuPf4x4j200718&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-巴西新冠肺炎确诊病例超204万-世卫组织：巴西疫情进入平台期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA1EM0FTC6rA7ONDEBm9p200718&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-美国疾控中心：纽约早期新冠病毒可能主要源自欧洲和美其他地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic5Y0Y5xS5T2n4bwxD7hv200717&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-17-阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1) 

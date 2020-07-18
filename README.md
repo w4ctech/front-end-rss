@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-18 16:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-18 20:30:20，:rocket: 更新条数: +45， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,8 +74,13 @@
 </summary>
 
 
-- [2020-07-18-新疆新增无症状感染者-12-例](https://m.weibo.cn/2803301701/4528069086288687) ![](assets/new.png)  
-- [2020-07-18-IMF-预测今年美国经济下降-6.6%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipT1BoSQScsRkaWiEtXpg200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-香港新增-64-例新冠肺炎确诊病例，累计确诊-1777-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib3GnFYJqtkmEbmb18lWT200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-北京将推进低风险地区影剧院等场所开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwwmEMY5wv12GAtxS1e4200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-乌鲁木齐全市范围开展免费核酸检测，由-25-家机构承担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4WcbJr3bmnHmENFozlH200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-乌鲁木齐本轮疫情与一起聚集性活动关联](https://m.weibo.cn/2803301701/4528091898578174) ![](assets/new.png)  
+- [2020-07-18-北京昨日新增-1-例无症状感染者，无新增确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirlUwUMwonK1amBsZDUio200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-新疆新增无症状感染者-12-例](https://m.weibo.cn/2803301701/4528069086288687)  
+- [2020-07-18-IMF-预测今年美国经济下降-6.6%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipT1BoSQScsRkaWiEtXpg200718&isfromapp=1)  
 - [2020-07-18-内地外雇入境澳门豁免-14-天医学隔离观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidwt8VRUVD7eoBALGviNM200718&isfromapp=1)  
 - [2020-07-18-武汉医务人员飞抵新疆，协助当地核酸检测排查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv0WqeDPn9BOWImwwAyHR200718&isfromapp=1)  
 - [2020-07-18-北京一公职人员疫情下-30-天游-5-地隐瞒行程被辞退](https://m.weibo.cn/2803301701/4528014979762432)  
@@ -89,11 +94,6 @@
 - [2020-07-18-美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1)  
 - [2020-07-17-上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html)  
 - [2020-07-17-美国疾控中心：纽约早期新冠病毒可能主要源自欧洲和美其他地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic5Y0Y5xS5T2n4bwxD7hv200717&isfromapp=1)  
-- [2020-07-17-阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1)  
-- [2020-07-17-清零！澳门最后一位新冠肺炎患者康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS5AOhqJTZb29y0KFDoK200717&isfromapp=1)  
-- [2020-07-17-以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1)  
-- [2020-07-17-北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1)  
-- [2020-07-17-乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,6 +548,26 @@
 </summary>
 
 
+- [2020-07-18-字节跳动员工内推（社招+校招）](https://www.v2ex.com/t/691196) ![](assets/new.png)  
+- [2020-07-18-这个测试结果靠谱吗：扫码支付时手机的电磁辐射功率远大于通话的功率](https://www.v2ex.com/t/691195) ![](assets/new.png)  
+- [2020-07-18-通信行业进去互联网企业难度？](https://www.v2ex.com/t/691194) ![](assets/new.png)  
+- [2020-07-18-为什么前辈写的代码越看越像屎，自己写的代码感觉却也好不到哪里去](https://www.v2ex.com/t/691193) ![](assets/new.png)  
+- [2020-07-18-如何修改-web-版-Evernote-默认字号？](https://www.v2ex.com/t/691192) ![](assets/new.png)  
+- [2020-07-18-github-这么牛，为啥-gitee-码云这个平台还是能起来，中间有什么产品差异？](https://www.v2ex.com/t/691189) ![](assets/new.png)  
+- [2020-07-18-越搞越心烦，关于-Linux-系统下-root-和普通用户的管理](https://www.v2ex.com/t/691188) ![](assets/new.png)  
+- [2020-07-18-关于共享充电宝，想到了一个点子](https://www.v2ex.com/t/691187) ![](assets/new.png)  
+- [2020-07-18-深圳，来-5-个前端吧，宝能汽车智能网联研究院](https://www.v2ex.com/t/691185) ![](assets/new.png)  
+- [2020-07-18-大家面试前会紧张吗？](https://www.v2ex.com/t/691184) ![](assets/new.png)  
+- [2020-07-18-不懂就问,-protobuf-包不知道大小，那么如何解决多个包串葫芦的情况呢？](https://www.v2ex.com/t/691182) ![](assets/new.png)  
+- [2020-07-18-请教大家二三线城市职业发展规划的几个方向选择问题](https://www.v2ex.com/t/691181) ![](assets/new.png)  
+- [2020-07-18-加拿大移民有专业论坛吗?](https://www.v2ex.com/t/691179) ![](assets/new.png)  
+- [2020-07-18-okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178) ![](assets/new.png)  
+- [2020-07-18-🔥🔥腾讯社招全国热招！最近效率高！电商热招！-30628，电商🔥🔥](https://www.v2ex.com/t/691176) ![](assets/new.png)  
+- [2020-07-18-有哪些国人写的计算机领域的中文书籍,-后期被翻译为英文在海外出版?](https://www.v2ex.com/t/691175) ![](assets/new.png)  
+- [2020-07-18-闲鱼上面的技术书籍靠谱吗？发现价格至少比其他平台少二三十。](https://www.v2ex.com/t/691174) ![](assets/new.png)  
+- [2020-07-18-入职以后，公司给每位员工发了一台电脑，表面上看是每个人拥有了一台电脑，其实是给每台电脑配了一个人](https://www.v2ex.com/t/691173) ![](assets/new.png)  
+- [2020-07-18-Feel-语言设计历程](https://www.v2ex.com/t/691171) ![](assets/new.png)  
+- [2020-07-18-大家电信的-ipv6-地址都是固定的吗？](https://www.v2ex.com/t/691170) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

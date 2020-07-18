@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-18 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-18 12:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-加拿大新冠肺炎确诊病例接近11万例-三个省新增病例反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdlbdjTC48SstuPf4x4j200718&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-巴西新冠肺炎确诊病例超204万-世卫组织：巴西疫情进入平台期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA1EM0FTC6rA7ONDEBm9p200718&isfromapp=1) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-18 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-18 12:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -537,6 +537,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html)
@@ -554,9 +557,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】受疫情冲击-新加坡航空集团6月份客运量下跌99.3%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】玻利维亚疫情持续发展-又一部长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】英国首相首次承诺未来将对新冠疫情应对情况进行独立调查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS5sedPGCofivUBbOWmwd200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】哈萨克斯坦感谢中国等15国提供人道主义抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​俄罗斯一名联邦委员会议员新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikMyA0rumxCnYLsSh8Mkp200715&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

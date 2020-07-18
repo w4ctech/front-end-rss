@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-07-18 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-18 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-18-广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1) 
+- [2020-07-18-新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1) 
+- [2020-07-18-美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1) 
 - [2020-07-18-世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988) 
 - [2020-07-18-美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1) 
 - [2020-07-17-上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-18 07:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-18 12:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,10 +74,13 @@
 </summary>
 
 
-- [2020-07-18-加拿大新冠肺炎确诊病例接近11万例-三个省新增病例反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdlbdjTC48SstuPf4x4j200718&isfromapp=1) ![](assets/new.png)  
-- [2020-07-18-世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988) ![](assets/new.png)  
-- [2020-07-18-巴西新冠肺炎确诊病例超204万-世卫组织：巴西疫情进入平台期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA1EM0FTC6rA7ONDEBm9p200718&isfromapp=1) ![](assets/new.png)  
-- [2020-07-18-美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-加拿大新冠肺炎确诊病例接近11万例-三个省新增病例反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdlbdjTC48SstuPf4x4j200718&isfromapp=1)  
+- [2020-07-18-世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988)  
+- [2020-07-18-巴西新冠肺炎确诊病例超204万-世卫组织：巴西疫情进入平台期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA1EM0FTC6rA7ONDEBm9p200718&isfromapp=1)  
+- [2020-07-18-美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1)  
 - [2020-07-17-上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html)  
 - [2020-07-17-美国疾控中心：纽约早期新冠病毒可能主要源自欧洲和美其他地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic5Y0Y5xS5T2n4bwxD7hv200717&isfromapp=1)  
 - [2020-07-17-阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-17-北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html)  
 - [2020-07-17-疫情导致巴西失业率攀高,非正式就业人员受影响更大](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZOsuoHxrqk6UAcf4rW5N200717&isfromapp=1)  
 - [2020-07-17-巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1)  
-- [2020-07-17-美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1)  
-- [2020-07-16-阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1)  
-- [2020-07-16-​科威特新增791例新冠肺炎确诊病例-累计确诊57668例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

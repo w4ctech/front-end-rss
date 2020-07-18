@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-18 23:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-19 01:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -507,6 +507,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港新增-64-例新冠肺炎确诊病例，累计确诊-1777-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib3GnFYJqtkmEbmb18lWT200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠肺炎疫情冲击国际航空业，英航全部波音-747-客机提前退役](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEgN6G4ekwNQFG5FGCLL200718&isfromapp=1)
@@ -526,7 +527,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增162例新冠肺炎确诊病例-累计确诊16424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hCD4E5Scw6HDRaqShGG200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】塞内加尔新增112例新冠肺炎确诊病例-累计确诊8481例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisV4IuWO5dZZcrvA0BUpf200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】白俄罗斯新增180例新冠肺炎确诊病例-累计确诊65623例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAZbydRJED0le3Ky9IrUA200716&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​非洲地区新冠肺炎确诊病例累计达64.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifEz3NTb9u4wi4JYkLWED200716&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

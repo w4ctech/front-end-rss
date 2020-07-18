@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-18 23:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-19 01:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,9 @@
 </summary>
 
 
-- [2020-07-18-特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657) ![](assets/new.png)  
-- [2020-07-18-卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657)  
+- [2020-07-18-卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1)  
 - [2020-07-18-香港新增-64-例新冠肺炎确诊病例，累计确诊-1777-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib3GnFYJqtkmEbmb18lWT200718&isfromapp=1)  
 - [2020-07-18-北京将推进低风险地区影剧院等场所开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwwmEMY5wv12GAtxS1e4200718&isfromapp=1)  
 - [2020-07-18-乌鲁木齐全市范围开展免费核酸检测，由-25-家机构承担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4WcbJr3bmnHmENFozlH200718&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-18-加拿大新冠肺炎确诊病例接近11万例-三个省新增病例反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXdlbdjTC48SstuPf4x4j200718&isfromapp=1)  
 - [2020-07-18-世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988)  
 - [2020-07-18-巴西新冠肺炎确诊病例超204万-世卫组织：巴西疫情进入平台期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA1EM0FTC6rA7ONDEBm9p200718&isfromapp=1)  
-- [2020-07-18-美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-18 23:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-19 01:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-18-香港新增-64-例新冠肺炎确诊病例，累计确诊-1777-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib3GnFYJqtkmEbmb18lWT200718&isfromapp=1) 

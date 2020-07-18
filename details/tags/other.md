@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-07-18 12:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-18 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-18-内地外雇入境澳门豁免-14-天医学隔离观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidwt8VRUVD7eoBALGviNM200718&isfromapp=1) 
+- [2020-07-18-武汉医务人员飞抵新疆，协助当地核酸检测排查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv0WqeDPn9BOWImwwAyHR200718&isfromapp=1) 
+- [2020-07-18-北京一公职人员疫情下-30-天游-5-地隐瞒行程被辞退](https://m.weibo.cn/2803301701/4528014979762432) 
 - [2020-07-18-广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1) 
 - [2020-07-18-新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1) 
 - [2020-07-18-美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1) 

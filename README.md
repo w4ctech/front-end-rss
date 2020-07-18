@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-18 15:00:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-18 16:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,10 +74,12 @@
 </summary>
 
 
-- [2020-07-18-内地外雇入境澳门豁免-14-天医学隔离观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidwt8VRUVD7eoBALGviNM200718&isfromapp=1) ![](assets/new.png)  
-- [2020-07-18-武汉医务人员飞抵新疆，协助当地核酸检测排查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv0WqeDPn9BOWImwwAyHR200718&isfromapp=1) ![](assets/new.png)  
-- [2020-07-18-北京一公职人员疫情下-30-天游-5-地隐瞒行程被辞退](https://m.weibo.cn/2803301701/4528014979762432) ![](assets/new.png)  
-- [2020-07-18-新冠肺炎疫情冲击国际航空业，英航全部波音-747-客机提前退役](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEgN6G4ekwNQFG5FGCLL200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-新疆新增无症状感染者-12-例](https://m.weibo.cn/2803301701/4528069086288687) ![](assets/new.png)  
+- [2020-07-18-IMF-预测今年美国经济下降-6.6%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipT1BoSQScsRkaWiEtXpg200718&isfromapp=1) ![](assets/new.png)  
+- [2020-07-18-内地外雇入境澳门豁免-14-天医学隔离观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidwt8VRUVD7eoBALGviNM200718&isfromapp=1)  
+- [2020-07-18-武汉医务人员飞抵新疆，协助当地核酸检测排查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv0WqeDPn9BOWImwwAyHR200718&isfromapp=1)  
+- [2020-07-18-北京一公职人员疫情下-30-天游-5-地隐瞒行程被辞退](https://m.weibo.cn/2803301701/4528014979762432)  
+- [2020-07-18-新冠肺炎疫情冲击国际航空业，英航全部波音-747-客机提前退役](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEgN6G4ekwNQFG5FGCLL200718&isfromapp=1)  
 - [2020-07-18-广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1)  
 - [2020-07-18-新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1)  
 - [2020-07-18-美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-17-以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1)  
 - [2020-07-17-北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1)  
 - [2020-07-17-乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1)  
-- [2020-07-17-日本银行：企业资金需求创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tHbgToz7LvVp5GLbavZ200717&isfromapp=1)  
-- [2020-07-17-黑龙江过往确诊病例、医学观察对象全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lizQe3RsmaKLQDtLStQ200717&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

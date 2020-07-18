@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-18 15:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-18 16:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -537,6 +537,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】新疆新增无症状感染者-12-例](https://m.weibo.cn/2803301701/4528069086288687)
+- [【全国新型肺炎疫情实时动态(丁香园)】IMF-预测今年美国经济下降-6.6%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipT1BoSQScsRkaWiEtXpg200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】内地外雇入境澳门豁免-14-天医学隔离观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidwt8VRUVD7eoBALGviNM200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】武汉医务人员飞抵新疆，协助当地核酸检测排查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv0WqeDPn9BOWImwwAyHR200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京一公职人员疫情下-30-天游-5-地隐瞒行程被辞退](https://m.weibo.cn/2803301701/4528014979762432)
@@ -555,8 +557,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】法国总理：从下周起民众进入封闭公共空间必须佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京疫情防控形势持续向好-仅剩3个中风险地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】东京将疫情警戒状态上调至最高](https://m.weibo.cn/3057540037/4527267462783132)
-- [【全国新型肺炎疫情实时动态(丁香园)】警惕！多国在2019年废水中发现新冠病毒](https://m.weibo.cn/3057540037/4527288705622276)
-- [【全国新型肺炎疫情实时动态(丁香园)】国家电影局：低风险地区电影院7月20日开放营业](https://m.weibo.cn/2803301701/4527287310227518)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

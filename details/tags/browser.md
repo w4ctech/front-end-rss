@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-19 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 05:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -18,3 +18,4 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-07-18-okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178) 
 - [2020-07-18-如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153) 
+- [2020-07-20-推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-19 21:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 05:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -370,6 +370,8 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x)
+- [【开发者头条】推荐-MySQL：慢-SQL-优化方法论](https://toutiao.io/k/t00tz3i)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,6 +399,7 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178)
 - [【V2EX】如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153)
+- [【开发者头条】推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -438,6 +441,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【开发者头条】Presto-函数实现简述](https://toutiao.io/k/nu5e0wr)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -475,6 +479,8 @@
 
 - [【掘金前端】2020最新：100道有答案的前端面试题（下）](https://juejin.im/post/5f1004296fb9a07e9e206f57)
 - [【V2EX】大家面试前会紧张吗？](https://www.v2ex.com/t/691184)
+- [【开发者头条】推荐-31-道-Java-核心面试题，一次性打包送给你](https://toutiao.io/k/ea3120t)
+- [【开发者头条】推荐-62-道-Java-核心面试题，这次全了](https://toutiao.io/k/tp2lu49)
 - [......【查看更多】......](./details/tags/job-interview.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

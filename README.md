@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-19 21:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 05:00:20，:rocket: 更新条数: +25， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,7 +74,7 @@
 </summary>
 
 
-- [2020-07-19-乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1) ![](assets/new.png)  
+- [2020-07-19-乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1)  
 - [2020-07-19-疫情反弹，澳大利亚两州出台防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiuM23NtwRyGmpxy3dBQz200719&isfromapp=1)  
 - [2020-07-19-香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)  
 - [2020-07-19-拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)  
@@ -610,6 +610,26 @@
 </summary>
 
 
+- [2020-07-20-写给程序员的一些心里话-|-码农周刊第-312-期](https://toutiao.io/k/upj0hvu) ![](assets/new.png)  
+- [2020-07-20-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-07-20-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-07-20-第-014-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/wtuxxmw) ![](assets/new.png)  
+- [2020-07-20-OpenTSDB-数据存储详解](https://toutiao.io/k/oi8oby0) ![](assets/new.png)  
+- [2020-07-20-港中文-商汤-OpenMMLab-开源全景图](https://toutiao.io/k/44869vf) ![](assets/new.png)  
+- [2020-07-20-译-星巴克不使用两阶段提交-2004](https://toutiao.io/k/jz4imb9) ![](assets/new.png)  
+- [2020-07-20-基于-BERT-的-ASR-纠错](https://toutiao.io/k/k0skdno) ![](assets/new.png)  
+- [2020-07-20-Crawlab-Lite-正式发布，更轻量的爬虫管理平台](https://toutiao.io/k/wbw0t39) ![](assets/new.png)  
+- [2020-07-20-Presto-函数实现简述](https://toutiao.io/k/nu5e0wr) ![](assets/new.png)  
+- [2020-07-20-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf) ![](assets/new.png)  
+- [2020-07-20-推荐-Kubernetes-架构简介](https://toutiao.io/k/rteodo6) ![](assets/new.png)  
+- [2020-07-20-推荐-从别人的代码中学习-Golang（一）](https://toutiao.io/k/lorj33n) ![](assets/new.png)  
+- [2020-07-20-推荐-31-道-Java-核心面试题，一次性打包送给你](https://toutiao.io/k/ea3120t) ![](assets/new.png)  
+- [2020-07-20-推荐-Java-集合框架看这一篇就够了](https://toutiao.io/k/8mfjcr1) ![](assets/new.png)  
+- [2020-07-20-推荐-一文带你搞懂-RPC-核心原理](https://toutiao.io/k/0rwn9c8) ![](assets/new.png)  
+- [2020-07-20-推荐-美团万亿级-KV-存储架构与实践](https://toutiao.io/k/mio9anz) ![](assets/new.png)  
+- [2020-07-20-推荐-360-开源的，基于-Prometheus-的监控系统](https://toutiao.io/k/fuf70c2) ![](assets/new.png)  
+- [2020-07-20-推荐-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7) ![](assets/new.png)  
+- [2020-07-20-推荐-微服务要凉了？](https://toutiao.io/k/1eazdg6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

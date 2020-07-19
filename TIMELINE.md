@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-19 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-20 05:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -288,6 +288,31 @@
 - [【技术头条】2020-07-15-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-15-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-15-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-07-20-写给程序员的一些心里话-|-码农周刊第-312-期](https://toutiao.io/k/upj0hvu) 
+- [【开发者头条】2020-07-20-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) 
+- [【开发者头条】2020-07-20-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) 
+- [【开发者头条】2020-07-20-第-014-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/wtuxxmw) 
+- [【开发者头条】2020-07-20-OpenTSDB-数据存储详解](https://toutiao.io/k/oi8oby0) 
+- [【开发者头条】2020-07-20-港中文-商汤-OpenMMLab-开源全景图](https://toutiao.io/k/44869vf) 
+- [【开发者头条】2020-07-20-译-星巴克不使用两阶段提交-2004](https://toutiao.io/k/jz4imb9) 
+- [【开发者头条】2020-07-20-基于-BERT-的-ASR-纠错](https://toutiao.io/k/k0skdno) 
+- [【开发者头条】2020-07-20-Crawlab-Lite-正式发布，更轻量的爬虫管理平台](https://toutiao.io/k/wbw0t39) 
+- [【开发者头条】2020-07-20-Presto-函数实现简述](https://toutiao.io/k/nu5e0wr) 
+- [【开发者头条】2020-07-20-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf) 
+- [【开发者头条】2020-07-20-推荐-Kubernetes-架构简介](https://toutiao.io/k/rteodo6) 
+- [【开发者头条】2020-07-20-推荐-从别人的代码中学习-Golang（一）](https://toutiao.io/k/lorj33n) 
+- [【开发者头条】2020-07-20-推荐-31-道-Java-核心面试题，一次性打包送给你](https://toutiao.io/k/ea3120t) 
+- [【开发者头条】2020-07-20-推荐-Java-集合框架看这一篇就够了](https://toutiao.io/k/8mfjcr1) 
+- [【开发者头条】2020-07-20-推荐-一文带你搞懂-RPC-核心原理](https://toutiao.io/k/0rwn9c8) 
+- [【开发者头条】2020-07-20-推荐-美团万亿级-KV-存储架构与实践](https://toutiao.io/k/mio9anz) 
+- [【开发者头条】2020-07-20-推荐-360-开源的，基于-Prometheus-的监控系统](https://toutiao.io/k/fuf70c2) 
+- [【开发者头条】2020-07-20-推荐-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7) 
+- [【开发者头条】2020-07-20-推荐-微服务要凉了？](https://toutiao.io/k/1eazdg6) 
+- [【开发者头条】2020-07-20-推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut) 
+- [【开发者头条】2020-07-20-推荐-62-道-Java-核心面试题，这次全了](https://toutiao.io/k/tp2lu49) 
+- [【开发者头条】2020-07-20-推荐-Java-ForkJoin-框架的设计与实现](https://toutiao.io/k/qoccubp) 
+- [【开发者头条】2020-07-20-推荐-MySQL：慢-SQL-优化方法论](https://toutiao.io/k/t00tz3i) 
+- [【开发者头条】2020-07-20-推荐-一文读懂架构整洁之道](https://toutiao.io/k/z6ueaox) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

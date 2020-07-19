@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-19 01:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-19 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -541,6 +541,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】低风险地区影院7月20日有序恢复开放-每场上座率不得超30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ8wJoxSOcrQGtWEgZKb200719&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织称-全球单日新增确诊近26万创新高](https://m.weibo.cn/2803301701/4528292448702621)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国新冠确诊病例超367万-仍有11个州拒绝口罩令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF5yvOoBP24vIShvFkDUg200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京将推进低风险地区影剧院等场所开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwwmEMY5wv12GAtxS1e4200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐全市范围开展免费核酸检测，由-25-家机构承担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4WcbJr3bmnHmENFozlH200718&isfromapp=1)
@@ -558,9 +561,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】美国7月消费者信心指数骤降-接近疫情席卷之初的水平](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWyTElluD96XwDeGLGW7200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海有5例确诊病例今日出院，共计699例治愈出院](http://wsjkw.sh.gov.cn/xwfb/20200717/8f6cb89043054b2abd0b5a0fc4882e46.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国疾控中心：纽约早期新冠病毒可能主要源自欧洲和美其他地区](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic5Y0Y5xS5T2n4bwxD7hv200717&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京：稳妥有序推进电影院恢复开放和行业复工复产](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEeypQa15nQOt7934ogOI200717&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】日本银行：企业资金需求创历史新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6tHbgToz7LvVp5GLbavZ200717&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】黑龙江过往确诊病例、医学观察对象全部清零](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1lizQe3RsmaKLQDtLStQ200717&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

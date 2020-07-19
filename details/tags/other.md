@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-07-19 01:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-19 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-19-低风险地区影院7月20日有序恢复开放-每场上座率不得超30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ8wJoxSOcrQGtWEgZKb200719&isfromapp=1) 
+- [2020-07-19-世卫组织称-全球单日新增确诊近26万创新高](https://m.weibo.cn/2803301701/4528292448702621) 
+- [2020-07-19-美国新冠确诊病例超367万-仍有11个州拒绝口罩令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF5yvOoBP24vIShvFkDUg200719&isfromapp=1) 
 - [2020-07-18-特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657) 
 - [2020-07-18-北京将推进低风险地区影剧院等场所开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwwmEMY5wv12GAtxS1e4200718&isfromapp=1) 
 - [2020-07-18-乌鲁木齐全市范围开展免费核酸检测，由-25-家机构承担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4WcbJr3bmnHmENFozlH200718&isfromapp=1) 

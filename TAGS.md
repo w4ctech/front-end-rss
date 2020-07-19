@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-19 15:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-19 19:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -507,6 +507,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1)
@@ -526,7 +527,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】​科威特新增791例新冠肺炎确诊病例-累计确诊57668例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】罗马尼亚新增777例新冠肺炎确诊病例-累计确诊35003例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFyDutqeHcWhgUUAcY1G200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增162例新冠肺炎确诊病例-累计确诊16424例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hCD4E5Scw6HDRaqShGG200716&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】塞内加尔新增112例新冠肺炎确诊病例-累计确诊8481例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisV4IuWO5dZZcrvA0BUpf200716&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -541,6 +541,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】疫情反弹，澳大利亚两州出台防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiuM23NtwRyGmpxy3dBQz200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国印第安纳州：印第安纳波利斯推迟公立学校开学日期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS438g58PRfMD37UMuP2Q200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京教育系统不组织、不接待各类夏令营等聚集性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNTQEl6BryFlep2uxOt8200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】南非政府恳请公民认真对待疫情-全国9个省中3名省长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimWCyweGbi89XbM1ZeK30200719&isfromapp=1)
@@ -560,7 +561,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】广东7月18日通报：新增境外输入确诊病例3例-境外输入无症状感染者4例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUWL6QpictGsBx2ht5RF200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新疆17日新增16例本土病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizwqGUXjfYSVESSqXqhtg200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国现在是全球累计确诊病例和死亡病例最多的国家](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3FiqIseu56rqgft6Uq2V200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫称医护人员占全球新冠确诊病例10%，全球单日新增确诊超23万例](https://m.weibo.cn/2803301701/4527929112922988)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

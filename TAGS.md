@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-20 20:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 22:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -553,6 +553,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)
@@ -571,8 +573,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京将推进低风险地区影剧院等场所开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwwmEMY5wv12GAtxS1e4200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐全市范围开展免费核酸检测，由-25-家机构承担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4WcbJr3bmnHmENFozlH200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐本轮疫情与一起聚集性活动关联](https://m.weibo.cn/2803301701/4528091898578174)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京昨日新增-1-例无症状感染者，无新增确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirlUwUMwonK1amBsZDUio200718&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

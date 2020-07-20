@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 20:00:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 22:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,6 +74,8 @@
 </summary>
 
 
+- [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1) ![](assets/new.png)  
 - [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)  
 - [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)  
 - [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-19-南非政府恳请公民认真对待疫情-全国9个省中3名省长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimWCyweGbi89XbM1ZeK30200719&isfromapp=1)  
 - [2020-07-19-低风险地区影院7月20日有序恢复开放-每场上座率不得超30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ8wJoxSOcrQGtWEgZKb200719&isfromapp=1)  
 - [2020-07-19-世卫组织称-全球单日新增确诊近26万创新高](https://m.weibo.cn/2803301701/4528292448702621)  
-- [2020-07-19-美国新冠确诊病例超367万-仍有11个州拒绝口罩令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF5yvOoBP24vIShvFkDUg200719&isfromapp=1)  
-- [2020-07-18-阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -548,26 +548,26 @@
 </summary>
 
 
-- [2020-07-20-大家是不是和我一样，不喜欢头条的算法面试过程？](https://www.v2ex.com/t/691698) ![](assets/new.png)  
-- [2020-07-20-web-前端-刚毕业，实习完-3-个月辞职了，怎么在离职期间提升自己，下一份想在大一点的公司工作](https://www.v2ex.com/t/691697) ![](assets/new.png)  
-- [2020-07-20-爱奇艺官网首页打开突然白屏](https://www.v2ex.com/t/691696) ![](assets/new.png)  
-- [2020-07-20-阿里淘系技术部校招秋招开始啦](https://www.v2ex.com/t/691695) ![](assets/new.png)  
-- [2020-07-20-学生想办一张外币信用卡，有什么推荐吗？](https://www.v2ex.com/t/691694) ![](assets/new.png)  
-- [2020-07-20-class-对象会被-gc-吗？](https://www.v2ex.com/t/691693) ![](assets/new.png)  
-- [2020-07-20-windows-如何实现修改主机名（hostname）之后立即生效，无需重启](https://www.v2ex.com/t/691692) ![](assets/new.png)  
-- [2020-07-20-一道怀疑人生的算法题，就这？](https://www.v2ex.com/t/691691) ![](assets/new.png)  
-- [2020-07-20-请各位帮忙看看这简历需要再补充些什么才能找到工作，感谢](https://www.v2ex.com/t/691690) ![](assets/new.png)  
-- [2020-07-20-OpenCV-模式匹配代码的小问题](https://www.v2ex.com/t/691689) ![](assets/new.png)  
-- [2020-07-20-这个世界会好吗](https://www.v2ex.com/t/691687) ![](assets/new.png)  
-- [2020-07-20-国产笔记-Wolai.com:-无-DataBase-的-Notion+双链](https://www.v2ex.com/t/691686) ![](assets/new.png)  
-- [2020-07-20-火星新聞：-FS2020-DVD-可以買了](https://www.v2ex.com/t/691685) ![](assets/new.png)  
-- [2020-07-20-2021-届毕业实习秋招杭州淘宝-淘宝消息基础团队招人（快来！）](https://www.v2ex.com/t/691684) ![](assets/new.png)  
-- [2020-07-20-将-Github-的-notification-信息流对接到-macOS-的-notification通知中心有什么好的办法吗?](https://www.v2ex.com/t/691683) ![](assets/new.png)  
-- [2020-07-20-成都医联招聘啦~~](https://www.v2ex.com/t/691681) ![](assets/new.png)  
-- [2020-07-20-<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680) ![](assets/new.png)  
-- [2020-07-20-见证历史的一刻，哈喽服务器蹦了，这应该是个瓜还是工单？](https://www.v2ex.com/t/691679) ![](assets/new.png)  
-- [2020-07-20-steam-游戏的帧数和显示器刷新率以及是否开启垂直同步有关系吗？](https://www.v2ex.com/t/691676) ![](assets/new.png)  
-- [2020-07-20-迫于招聘困难，组内直招各式容器开发简历「商汤-容器云资深开发工程师-招聘」北京/深圳](https://www.v2ex.com/t/691675) ![](assets/new.png)  
+- [2020-07-20-大家是不是和我一样，不喜欢头条的算法面试过程？](https://www.v2ex.com/t/691698)  
+- [2020-07-20-web-前端-刚毕业，实习完-3-个月辞职了，怎么在离职期间提升自己，下一份想在大一点的公司工作](https://www.v2ex.com/t/691697)  
+- [2020-07-20-爱奇艺官网首页打开突然白屏](https://www.v2ex.com/t/691696)  
+- [2020-07-20-阿里淘系技术部校招秋招开始啦](https://www.v2ex.com/t/691695)  
+- [2020-07-20-学生想办一张外币信用卡，有什么推荐吗？](https://www.v2ex.com/t/691694)  
+- [2020-07-20-class-对象会被-gc-吗？](https://www.v2ex.com/t/691693)  
+- [2020-07-20-windows-如何实现修改主机名（hostname）之后立即生效，无需重启](https://www.v2ex.com/t/691692)  
+- [2020-07-20-一道怀疑人生的算法题，就这？](https://www.v2ex.com/t/691691)  
+- [2020-07-20-请各位帮忙看看这简历需要再补充些什么才能找到工作，感谢](https://www.v2ex.com/t/691690)  
+- [2020-07-20-OpenCV-模式匹配代码的小问题](https://www.v2ex.com/t/691689)  
+- [2020-07-20-这个世界会好吗](https://www.v2ex.com/t/691687)  
+- [2020-07-20-国产笔记-Wolai.com:-无-DataBase-的-Notion+双链](https://www.v2ex.com/t/691686)  
+- [2020-07-20-火星新聞：-FS2020-DVD-可以買了](https://www.v2ex.com/t/691685)  
+- [2020-07-20-2021-届毕业实习秋招杭州淘宝-淘宝消息基础团队招人（快来！）](https://www.v2ex.com/t/691684)  
+- [2020-07-20-将-Github-的-notification-信息流对接到-macOS-的-notification通知中心有什么好的办法吗?](https://www.v2ex.com/t/691683)  
+- [2020-07-20-成都医联招聘啦~~](https://www.v2ex.com/t/691681)  
+- [2020-07-20-<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680)  
+- [2020-07-20-见证历史的一刻，哈喽服务器蹦了，这应该是个瓜还是工单？](https://www.v2ex.com/t/691679)  
+- [2020-07-20-steam-游戏的帧数和显示器刷新率以及是否开启垂直同步有关系吗？](https://www.v2ex.com/t/691676)  
+- [2020-07-20-迫于招聘困难，组内直招各式容器开发简历「商汤-容器云资深开发工程师-招聘」北京/深圳](https://www.v2ex.com/t/691675)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

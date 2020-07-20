@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 14:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 17:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,11 @@
 </summary>
 
 
-- [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869) ![](assets/new.png)  
-- [2020-07-20-上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html) ![](assets/new.png)  
-- [2020-07-20-辽宁支援新疆检验医疗队经-13-小时飞行抵达乌鲁木齐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6gDfhN122RvIKHRaX2e200720) ![](assets/new.png)  
+- [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)  
+- [2020-07-20-上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html)  
+- [2020-07-20-辽宁支援新疆检验医疗队经-13-小时飞行抵达乌鲁木齐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6gDfhN122RvIKHRaX2e200720)  
 - [2020-07-19-新疆乌鲁木齐市天山区、沙依巴克区升级为高风险地区-另有三个区为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiusEyyYcUWkNEWnWrgidr200719&isfromapp=1)  
 - [2020-07-19-乌鲁木齐市进口海鲜和畜禽肉类食品核酸抽样检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibfQoJNWxEI7QBXGIwoLe200719&isfromapp=1)  
 - [2020-07-19-乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-18-阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1)  
 - [2020-07-18-特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657)  
 - [2020-07-18-卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1)  
-- [2020-07-18-香港新增-64-例新冠肺炎确诊病例，累计确诊-1777-例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib3GnFYJqtkmEbmb18lWT200718&isfromapp=1)  
-- [2020-07-18-北京将推进低风险地区影剧院等场所开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwwmEMY5wv12GAtxS1e4200718&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

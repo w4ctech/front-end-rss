@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 17:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,10 @@
 </summary>
 
 
-- [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1) ![](assets/new.png)  
-- [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
+- [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1)  
 - [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)  
 - [2020-07-20-上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html)  
 - [2020-07-20-辽宁支援新疆检验医疗队经-13-小时飞行抵达乌鲁木齐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6gDfhN122RvIKHRaX2e200720)  
@@ -92,8 +94,6 @@
 - [2020-07-19-世卫组织称-全球单日新增确诊近26万创新高](https://m.weibo.cn/2803301701/4528292448702621)  
 - [2020-07-19-美国新冠确诊病例超367万-仍有11个州拒绝口罩令](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF5yvOoBP24vIShvFkDUg200719&isfromapp=1)  
 - [2020-07-18-阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1)  
-- [2020-07-18-特朗普称不会发布全国性口罩强制令](https://m.weibo.cn/3057540037/4528134282543657)  
-- [2020-07-18-卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

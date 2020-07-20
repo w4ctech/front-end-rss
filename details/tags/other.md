@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-20 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1) 
 - [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1) 
 - [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869) 
 - [2020-07-20-上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html) 

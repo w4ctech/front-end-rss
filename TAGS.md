@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-20 17:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -513,6 +513,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)
@@ -532,7 +533,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​科威特新增791例新冠肺炎确诊病例-累计确诊57668例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】罗马尼亚新增777例新冠肺炎确诊病例-累计确诊35003例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFyDutqeHcWhgUUAcY1G200716&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -547,6 +547,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html)
@@ -566,7 +567,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐全市范围开展免费核酸检测，由-25-家机构承担](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4WcbJr3bmnHmENFozlH200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐本轮疫情与一起聚集性活动关联](https://m.weibo.cn/2803301701/4528091898578174)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日新增-1-例无症状感染者，无新增确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirlUwUMwonK1amBsZDUio200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】新疆新增无症状感染者-12-例](https://m.weibo.cn/2803301701/4528069086288687)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

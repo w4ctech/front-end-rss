@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 00:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,9 @@
 </summary>
 
 
-- [2020-07-20-世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)  
 - [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1)  
 - [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1)  
 - [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-19-拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)  
 - [2020-07-19-美国印第安纳州：印第安纳波利斯推迟公立学校开学日期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS438g58PRfMD37UMuP2Q200719&isfromapp=1)  
 - [2020-07-19-北京教育系统不组织、不接待各类夏令营等聚集性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNTQEl6BryFlep2uxOt8200719&isfromapp=1)  
-- [2020-07-19-南非政府恳请公民认真对待疫情-全国9个省中3名省长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimWCyweGbi89XbM1ZeK30200719&isfromapp=1)  
-- [2020-07-19-低风险地区影院7月20日有序恢复开放-每场上座率不得超30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ8wJoxSOcrQGtWEgZKb200719&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

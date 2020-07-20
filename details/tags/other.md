@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-21 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1) 
 - [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1) 
 - [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1) 
 - [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1) 

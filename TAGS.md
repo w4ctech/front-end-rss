@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-21 01:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 07:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -345,6 +345,8 @@
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)
 - [【凹凸实验室】浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/)
+- [【开发者头条】如何实现-Bilibili-视频播放-Chrome-媒体控制效果](https://toutiao.io/k/yngmsv8)
+- [【开发者头条】玩转前端-Video-播放器](https://toutiao.io/k/1f7b45y)
 - [......【查看更多】......](./details/tags/audio-video.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -400,6 +402,7 @@
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
 - [【V2EX】okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178)
 - [【V2EX】如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153)
+- [【开发者头条】ViewGroup-默认顺序绘制子-View，如何修改？什么场景需要修改绘制顺序？](https://toutiao.io/k/vaibrdr)
 - [【开发者头条】推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut)
 - [......【查看更多】......](./details/tags/browser.md)
 
@@ -427,6 +430,7 @@
 - [【V2EX】大家是不是和我一样，不喜欢头条的算法面试过程？](https://www.v2ex.com/t/691698)
 - [【V2EX】一道怀疑人生的算法题，就这？](https://www.v2ex.com/t/691691)
 - [【V2EX】<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680)
+- [【开发者头条】数据源管理：搜索引擎框架，ElasticSearch-集群模式](https://toutiao.io/k/8zd8a1a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 01:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 07:00:20，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,8 +74,8 @@
 </summary>
 
 
-- [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1) ![](assets/new.png)  
-- [2020-07-20-印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)  
+- [2020-07-20-印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1)  
 - [2020-07-20-世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)  
 - [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1)  
 - [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1)  
@@ -610,26 +610,26 @@
 </summary>
 
 
-- [2020-07-20-写给程序员的一些心里话-|-码农周刊第-312-期](https://toutiao.io/k/upj0hvu)  
-- [2020-07-20-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414)  
-- [2020-07-20-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x)  
-- [2020-07-20-第-014-期「码农周刊-VIP-会员专属邮件周报」，请查收！](https://toutiao.io/k/wtuxxmw)  
-- [2020-07-20-OpenTSDB-数据存储详解](https://toutiao.io/k/oi8oby0)  
-- [2020-07-20-港中文-商汤-OpenMMLab-开源全景图](https://toutiao.io/k/44869vf)  
-- [2020-07-20-译-星巴克不使用两阶段提交-2004](https://toutiao.io/k/jz4imb9)  
-- [2020-07-20-基于-BERT-的-ASR-纠错](https://toutiao.io/k/k0skdno)  
-- [2020-07-20-Crawlab-Lite-正式发布，更轻量的爬虫管理平台](https://toutiao.io/k/wbw0t39)  
-- [2020-07-20-Presto-函数实现简述](https://toutiao.io/k/nu5e0wr)  
-- [2020-07-20-推荐-高并发，你真的理解透彻了吗？](https://toutiao.io/k/8kcy1lf)  
-- [2020-07-20-推荐-Kubernetes-架构简介](https://toutiao.io/k/rteodo6)  
-- [2020-07-20-推荐-从别人的代码中学习-Golang（一）](https://toutiao.io/k/lorj33n)  
-- [2020-07-20-推荐-31-道-Java-核心面试题，一次性打包送给你](https://toutiao.io/k/ea3120t)  
-- [2020-07-20-推荐-Java-集合框架看这一篇就够了](https://toutiao.io/k/8mfjcr1)  
-- [2020-07-20-推荐-一文带你搞懂-RPC-核心原理](https://toutiao.io/k/0rwn9c8)  
-- [2020-07-20-推荐-美团万亿级-KV-存储架构与实践](https://toutiao.io/k/mio9anz)  
-- [2020-07-20-推荐-360-开源的，基于-Prometheus-的监控系统](https://toutiao.io/k/fuf70c2)  
-- [2020-07-20-推荐-前端登录，这一篇就够了](https://toutiao.io/k/o2uucs7)  
-- [2020-07-20-推荐-微服务要凉了？](https://toutiao.io/k/1eazdg6)  
+- [2020-07-21-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
+- [2020-07-21-Ionic-3-迁移到-Ionic-5](https://toutiao.io/k/p3egf5n) ![](assets/new.png)  
+- [2020-07-21-数据源管理：搜索引擎框架，ElasticSearch-集群模式](https://toutiao.io/k/8zd8a1a) ![](assets/new.png)  
+- [2020-07-21-写-Java-这么久，JDK-源码编译过没？](https://toutiao.io/k/riyhoo3) ![](assets/new.png)  
+- [2020-07-21-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-07-21-我去，脸皮厚啊，竟然使用-==-比较浮点数？](https://toutiao.io/k/vu7fyy8) ![](assets/new.png)  
+- [2020-07-21-Go+-可有效补全-Python-的不足](https://toutiao.io/k/21yzxwa) ![](assets/new.png)  
+- [2020-07-21-用了这么多年的注解，你知道注解是干嘛的嘛?](https://toutiao.io/k/04o0fnt) ![](assets/new.png)  
+- [2020-07-21-我用-Go-生成的随机数为什么不随机？随机数是怎样产生的](https://toutiao.io/k/zhk05h8) ![](assets/new.png)  
+- [2020-07-21-小白如何学操作系统？](https://toutiao.io/k/svli5rp) ![](assets/new.png)  
+- [2020-07-21-Spark-on-K8S-的最佳实践和需要注意的坑](https://toutiao.io/k/6kg5iia) ![](assets/new.png)  
+- [2020-07-21-译-GraalVM-—下一代-JVM-介绍](https://toutiao.io/k/jah5do9) ![](assets/new.png)  
+- [2020-07-21-BoltDB-1.3.0-实现分析（二）](https://toutiao.io/k/jq95qi9) ![](assets/new.png)  
+- [2020-07-21-Pulsar-IO-简介](https://toutiao.io/k/ix5n654) ![](assets/new.png)  
+- [2020-07-21-译-针对-Kubernetes-工作负载的策略工具](https://toutiao.io/k/0b4vjwy) ![](assets/new.png)  
+- [2020-07-21-实战：利用机器学习解决一个多分类任务](https://toutiao.io/k/6l7agtf) ![](assets/new.png)  
+- [2020-07-21-.Net-Core-2.2-升级-3.1-的避坑指南](https://toutiao.io/k/ccbp5nv) ![](assets/new.png)  
+- [2020-07-21-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/e8euial) ![](assets/new.png)  
+- [2020-07-21-ViewGroup-默认顺序绘制子-View，如何修改？什么场景需要修改绘制顺序？](https://toutiao.io/k/vaibrdr) ![](assets/new.png)  
+- [2020-07-21-如何实现-Bilibili-视频播放-Chrome-媒体控制效果](https://toutiao.io/k/yngmsv8) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-21 01:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 07:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -11,3 +11,5 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-07-21-如何实现-Bilibili-视频播放-Chrome-媒体控制效果](https://toutiao.io/k/yngmsv8) 
+- [2020-07-21-玩转前端-Video-播放器](https://toutiao.io/k/1f7b45y) 

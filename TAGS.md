@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-20 07:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 14:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -547,6 +547,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)
+- [【全国新型肺炎疫情实时动态(丁香园)】上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】辽宁支援新疆检验医疗队经-13-小时飞行抵达乌鲁木齐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6gDfhN122RvIKHRaX2e200720)
 - [【全国新型肺炎疫情实时动态(丁香园)】新疆乌鲁木齐市天山区、沙依巴克区升级为高风险地区-另有三个区为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiusEyyYcUWkNEWnWrgidr200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐市进口海鲜和畜禽肉类食品核酸抽样检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibfQoJNWxEI7QBXGIwoLe200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1)
@@ -564,9 +567,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日新增-1-例无症状感染者，无新增确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirlUwUMwonK1amBsZDUio200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新疆新增无症状感染者-12-例](https://m.weibo.cn/2803301701/4528069086288687)
 - [【全国新型肺炎疫情实时动态(丁香园)】IMF-预测今年美国经济下降-6.6%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipT1BoSQScsRkaWiEtXpg200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】内地外雇入境澳门豁免-14-天医学隔离观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidwt8VRUVD7eoBALGviNM200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】武汉医务人员飞抵新疆，协助当地核酸检测排查](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiv0WqeDPn9BOWImwwAyHR200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京一公职人员疫情下-30-天游-5-地隐瞒行程被辞退](https://m.weibo.cn/2803301701/4528014979762432)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

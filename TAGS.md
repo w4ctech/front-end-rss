@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-20 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-20 20:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -423,6 +423,9 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】大家是不是和我一样，不喜欢头条的算法面试过程？](https://www.v2ex.com/t/691698)
+- [【V2EX】一道怀疑人生的算法题，就这？](https://www.v2ex.com/t/691691)
+- [【V2EX】<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -460,6 +463,7 @@
 
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【V2EX】将-Github-的-notification-信息流对接到-macOS-的-notification通知中心有什么好的办法吗?](https://www.v2ex.com/t/691683)
 - [【V2EX】github-这么牛，为啥-gitee-码云这个平台还是能起来，中间有什么产品差异？](https://www.v2ex.com/t/691189)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
@@ -478,6 +482,8 @@
 
 
 - [【掘金前端】2020最新：100道有答案的前端面试题（下）](https://juejin.im/post/5f1004296fb9a07e9e206f57)
+- [【V2EX】成都医联招聘啦~~](https://www.v2ex.com/t/691681)
+- [【V2EX】迫于招聘困难，组内直招各式容器开发简历「商汤-容器云资深开发工程师-招聘」北京/深圳](https://www.v2ex.com/t/691675)
 - [【V2EX】大家面试前会紧张吗？](https://www.v2ex.com/t/691184)
 - [【开发者头条】推荐-31-道-Java-核心面试题，一次性打包送给你](https://toutiao.io/k/ea3120t)
 - [【开发者头条】推荐-62-道-Java-核心面试题，这次全了](https://toutiao.io/k/tp2lu49)

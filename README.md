@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-20 20:00:20，:rocket: 更新条数: +38， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,8 +74,8 @@
 </summary>
 
 
-- [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1) ![](assets/new.png)  
-- [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)  
+- [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)  
 - [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
 - [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1)  
 - [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)  
@@ -548,26 +548,26 @@
 </summary>
 
 
-- [2020-07-18-字节跳动员工内推（社招+校招）](https://www.v2ex.com/t/691196)  
-- [2020-07-18-这个测试结果靠谱吗：扫码支付时手机的电磁辐射功率远大于通话的功率](https://www.v2ex.com/t/691195)  
-- [2020-07-18-通信行业进去互联网企业难度？](https://www.v2ex.com/t/691194)  
-- [2020-07-18-为什么前辈写的代码越看越像屎，自己写的代码感觉却也好不到哪里去](https://www.v2ex.com/t/691193)  
-- [2020-07-18-如何修改-web-版-Evernote-默认字号？](https://www.v2ex.com/t/691192)  
-- [2020-07-18-github-这么牛，为啥-gitee-码云这个平台还是能起来，中间有什么产品差异？](https://www.v2ex.com/t/691189)  
-- [2020-07-18-越搞越心烦，关于-Linux-系统下-root-和普通用户的管理](https://www.v2ex.com/t/691188)  
-- [2020-07-18-关于共享充电宝，想到了一个点子](https://www.v2ex.com/t/691187)  
-- [2020-07-18-深圳，来-5-个前端吧，宝能汽车智能网联研究院](https://www.v2ex.com/t/691185)  
-- [2020-07-18-大家面试前会紧张吗？](https://www.v2ex.com/t/691184)  
-- [2020-07-18-不懂就问,-protobuf-包不知道大小，那么如何解决多个包串葫芦的情况呢？](https://www.v2ex.com/t/691182)  
-- [2020-07-18-请教大家二三线城市职业发展规划的几个方向选择问题](https://www.v2ex.com/t/691181)  
-- [2020-07-18-加拿大移民有专业论坛吗?](https://www.v2ex.com/t/691179)  
-- [2020-07-18-okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178)  
-- [2020-07-18-🔥🔥腾讯社招全国热招！最近效率高！电商热招！-30628，电商🔥🔥](https://www.v2ex.com/t/691176)  
-- [2020-07-18-有哪些国人写的计算机领域的中文书籍,-后期被翻译为英文在海外出版?](https://www.v2ex.com/t/691175)  
-- [2020-07-18-闲鱼上面的技术书籍靠谱吗？发现价格至少比其他平台少二三十。](https://www.v2ex.com/t/691174)  
-- [2020-07-18-入职以后，公司给每位员工发了一台电脑，表面上看是每个人拥有了一台电脑，其实是给每台电脑配了一个人](https://www.v2ex.com/t/691173)  
-- [2020-07-18-Feel-语言设计历程](https://www.v2ex.com/t/691171)  
-- [2020-07-18-大家电信的-ipv6-地址都是固定的吗？](https://www.v2ex.com/t/691170)  
+- [2020-07-20-大家是不是和我一样，不喜欢头条的算法面试过程？](https://www.v2ex.com/t/691698) ![](assets/new.png)  
+- [2020-07-20-web-前端-刚毕业，实习完-3-个月辞职了，怎么在离职期间提升自己，下一份想在大一点的公司工作](https://www.v2ex.com/t/691697) ![](assets/new.png)  
+- [2020-07-20-爱奇艺官网首页打开突然白屏](https://www.v2ex.com/t/691696) ![](assets/new.png)  
+- [2020-07-20-阿里淘系技术部校招秋招开始啦](https://www.v2ex.com/t/691695) ![](assets/new.png)  
+- [2020-07-20-学生想办一张外币信用卡，有什么推荐吗？](https://www.v2ex.com/t/691694) ![](assets/new.png)  
+- [2020-07-20-class-对象会被-gc-吗？](https://www.v2ex.com/t/691693) ![](assets/new.png)  
+- [2020-07-20-windows-如何实现修改主机名（hostname）之后立即生效，无需重启](https://www.v2ex.com/t/691692) ![](assets/new.png)  
+- [2020-07-20-一道怀疑人生的算法题，就这？](https://www.v2ex.com/t/691691) ![](assets/new.png)  
+- [2020-07-20-请各位帮忙看看这简历需要再补充些什么才能找到工作，感谢](https://www.v2ex.com/t/691690) ![](assets/new.png)  
+- [2020-07-20-OpenCV-模式匹配代码的小问题](https://www.v2ex.com/t/691689) ![](assets/new.png)  
+- [2020-07-20-这个世界会好吗](https://www.v2ex.com/t/691687) ![](assets/new.png)  
+- [2020-07-20-国产笔记-Wolai.com:-无-DataBase-的-Notion+双链](https://www.v2ex.com/t/691686) ![](assets/new.png)  
+- [2020-07-20-火星新聞：-FS2020-DVD-可以買了](https://www.v2ex.com/t/691685) ![](assets/new.png)  
+- [2020-07-20-2021-届毕业实习秋招杭州淘宝-淘宝消息基础团队招人（快来！）](https://www.v2ex.com/t/691684) ![](assets/new.png)  
+- [2020-07-20-将-Github-的-notification-信息流对接到-macOS-的-notification通知中心有什么好的办法吗?](https://www.v2ex.com/t/691683) ![](assets/new.png)  
+- [2020-07-20-成都医联招聘啦~~](https://www.v2ex.com/t/691681) ![](assets/new.png)  
+- [2020-07-20-<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680) ![](assets/new.png)  
+- [2020-07-20-见证历史的一刻，哈喽服务器蹦了，这应该是个瓜还是工单？](https://www.v2ex.com/t/691679) ![](assets/new.png)  
+- [2020-07-20-steam-游戏的帧数和显示器刷新率以及是否开启垂直同步有关系吗？](https://www.v2ex.com/t/691676) ![](assets/new.png)  
+- [2020-07-20-迫于招聘困难，组内直招各式容器开发简历「商汤-容器云资深开发工程师-招聘」北京/深圳](https://www.v2ex.com/t/691675) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

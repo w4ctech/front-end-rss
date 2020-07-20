@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-20 22:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 00:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,9 @@
 </summary>
 
 
-- [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1) ![](assets/new.png)  
-- [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1) ![](assets/new.png)  
+- [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1)  
+- [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1)  
 - [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)  
 - [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)  
 - [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-19-北京教育系统不组织、不接待各类夏令营等聚集性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNTQEl6BryFlep2uxOt8200719&isfromapp=1)  
 - [2020-07-19-南非政府恳请公民认真对待疫情-全国9个省中3名省长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimWCyweGbi89XbM1ZeK30200719&isfromapp=1)  
 - [2020-07-19-低风险地区影院7月20日有序恢复开放-每场上座率不得超30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ8wJoxSOcrQGtWEgZKb200719&isfromapp=1)  
-- [2020-07-19-世卫组织称-全球单日新增确诊近26万创新高](https://m.weibo.cn/2803301701/4528292448702621)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

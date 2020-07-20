@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-20 22:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 00:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -519,6 +519,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)
@@ -538,7 +539,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国新增71434例新冠肺炎确诊病例，累计确诊超354万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增493例新冠肺炎确诊病例-累计确诊26165例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​科威特新增791例新冠肺炎确诊病例-累计确诊57668例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

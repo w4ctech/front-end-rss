@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 09:00:20，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 12:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -74,6 +74,9 @@
 </summary>
 
 
+- [2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html) ![](assets/new.png)  
+- [2020-07-21-截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml) ![](assets/new.png)  
 - [2020-07-21-云游非洲丨东非野生动物大迁徙-渡河镜头最新实拍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0y9MZGa5a1gTskDP0tvR200721&isfromapp=1)  
 - [2020-07-21-摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)  
 - [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-19-新疆乌鲁木齐市天山区、沙依巴克区升级为高风险地区-另有三个区为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiusEyyYcUWkNEWnWrgidr200719&isfromapp=1)  
 - [2020-07-19-乌鲁木齐市进口海鲜和畜禽肉类食品核酸抽样检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibfQoJNWxEI7QBXGIwoLe200719&isfromapp=1)  
 - [2020-07-19-乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1)  
-- [2020-07-19-疫情反弹，澳大利亚两州出台防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiuM23NtwRyGmpxy3dBQz200719&isfromapp=1)  
-- [2020-07-19-香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)  
-- [2020-07-19-拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -579,15 +579,15 @@
 </summary>
 
 
-- [2020-07-21-如何面对黑天鹅与灰犀牛？ThoughtWorks技术雷达峰会给出答案-app.ma.scrmtech.com](https://blogread.cn/news/go.php?idItem=13613&url=https%3A%2F%2Fapp.ma.scrmtech.com%2Fmeetings%2FMeetingPc%2FDetail%3Fpf_uid%3D7019_1254%26amp%3Bid%3D20146%26amp%3Bsource%3D2%26amp%3Bpf_type%3D3%26amp%3Bchannel_id%3D1855%26amp%3Bchannel_name%3Dother-social-media%26amp%3Btag_id%3D60b6cd63fbda11b7%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-TCP-和-UDP，哪个更胜一筹-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13612&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F160910050%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-敏捷测试宣言与原则解读-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13611&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-manifesto%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-Apache-Tomcat-CVE-2020-1938，细思极恐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13610&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapache-tomcat-cve-2020-1938%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-如何利用图片对比算法处理白屏检测-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13608&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-picture-contrast-algorithm-to-deal-with-white-screen-detection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-如何使用-gitlab-api-触发-CI-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13607&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-gitlab-api-to-trigger-ci%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-快应用开发工具之-asar-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13606&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-asar%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-07-21-当我谈-HTTP-时，我谈些什么?-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13605&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F159274359%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-21-如何面对黑天鹅与灰犀牛？ThoughtWorks技术雷达峰会给出答案-app.ma.scrmtech.com](https://blogread.cn/news/go.php?idItem=13613&url=https%3A%2F%2Fapp.ma.scrmtech.com%2Fmeetings%2FMeetingPc%2FDetail%3Fpf_uid%3D7019_1254%26amp%3Bid%3D20146%26amp%3Bsource%3D2%26amp%3Bpf_type%3D3%26amp%3Bchannel_id%3D1855%26amp%3Bchannel_name%3Dother-social-media%26amp%3Btag_id%3D60b6cd63fbda11b7%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-TCP-和-UDP，哪个更胜一筹-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13612&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F160910050%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-敏捷测试宣言与原则解读-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13611&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-manifesto%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-Apache-Tomcat-CVE-2020-1938，细思极恐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13610&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapache-tomcat-cve-2020-1938%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-如何利用图片对比算法处理白屏检测-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13608&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-picture-contrast-algorithm-to-deal-with-white-screen-detection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-如何使用-gitlab-api-触发-CI-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13607&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-gitlab-api-to-trigger-ci%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-快应用开发工具之-asar-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13606&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-asar%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-21-当我谈-HTTP-时，我谈些什么?-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13605&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F159274359%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13604&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-15-7-大-Python-特殊技巧提升数据分析能力-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13603&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXSRftTqPxJz0HEK1oHE5XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
 - [2020-07-15-程序员无休止加班的真正原因-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13602&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYaBHXd9ZHEYg3mdD-Yk-7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  

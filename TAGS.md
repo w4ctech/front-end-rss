@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-21 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 21:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -530,6 +530,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】非洲地区新冠肺炎确诊病例增长至73.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixG3m4QqroMxWOhhoEZ29200721&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港新增61例新冠肺炎病例，一名孕妇确诊感染](https://m.weibo.cn/3057540037/4529197592617189)
 - [【全国新型肺炎疫情实时动态(丁香园)】日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)
@@ -548,8 +550,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】巴西新冠肺炎确诊病例超204万-世卫组织：巴西疫情进入平台期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA1EM0FTC6rA7ONDEBm9p200718&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】阿联酋新增293例新冠肺炎确诊病例-累计确诊56422例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVfpGwdOyo7dgE1j4A50200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】清零！澳门最后一位新冠肺炎患者康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS5AOhqJTZb29y0KFDoK200717&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -564,6 +564,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)
+- [【全国新型肺炎疫情实时动态(丁香园)】中国重组新冠疫苗Ⅱ期临床免疫原性获权威认可](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzRvFjYtrLlnKk3rJQmt200721&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】全球首位！湖北首例新冠肺移植患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQI0AqkpMwx2ufVQ1rumc200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)
@@ -581,9 +584,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】辽宁支援新疆检验医疗队经-13-小时飞行抵达乌鲁木齐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6gDfhN122RvIKHRaX2e200720)
 - [【全国新型肺炎疫情实时动态(丁香园)】新疆乌鲁木齐市天山区、沙依巴克区升级为高风险地区-另有三个区为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiusEyyYcUWkNEWnWrgidr200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐市进口海鲜和畜禽肉类食品核酸抽样检测均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibfQoJNWxEI7QBXGIwoLe200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】疫情反弹，澳大利亚两州出台防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiuM23NtwRyGmpxy3dBQz200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国印第安纳州：印第安纳波利斯推迟公立学校开学日期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS438g58PRfMD37UMuP2Q200719&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

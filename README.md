@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 21:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,8 +74,13 @@
 </summary>
 
 
-- [2020-07-21-乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504) ![](assets/new.png)  
+- [2020-07-21-非洲地区新冠肺炎确诊病例增长至73.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixG3m4QqroMxWOhhoEZ29200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-中国重组新冠疫苗Ⅱ期临床免疫原性获权威认可](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzRvFjYtrLlnKk3rJQmt200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-全球首位！湖北首例新冠肺移植患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQI0AqkpMwx2ufVQ1rumc200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-香港新增61例新冠肺炎病例，一名孕妇确诊感染](https://m.weibo.cn/3057540037/4529197592617189) ![](assets/new.png)  
+- [2020-07-21-乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)  
+- [2020-07-21-乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)  
 - [2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)  
 - [2020-07-21-​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1)  
 - [2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)  
@@ -89,11 +94,6 @@
 - [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)  
 - [2020-07-20-印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1)  
 - [2020-07-20-世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)  
-- [2020-07-20-湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1)  
-- [2020-07-20-​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1)  
-- [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)  
-- [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)  
-- [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

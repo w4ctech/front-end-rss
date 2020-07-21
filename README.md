@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 12:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 13:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -74,9 +74,9 @@
 </summary>
 
 
-- [2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html) ![](assets/new.png)  
-- [2020-07-21-截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml) ![](assets/new.png)  
+- [2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)  
+- [2020-07-21-上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html)  
+- [2020-07-21-截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml)  
 - [2020-07-21-云游非洲丨东非野生动物大迁徙-渡河镜头最新实拍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0y9MZGa5a1gTskDP0tvR200721&isfromapp=1)  
 - [2020-07-21-摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)  
 - [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)  
@@ -468,6 +468,11 @@
 </summary>
 
 
+- [2020-07-21-「手淘」研发提效黑科技-行业魔方-|-618-淘系前端技术分享](https://juejin.im/post/5f1666b3f265da230e6b7448) ![](assets/new.png)  
+- [2020-07-21-Vue完美记住滚动条和实现下拉加载](https://juejin.im/post/5ebcb2d6f265da7beb50b458) ![](assets/new.png)  
+- [2020-07-21-JavaScript面试题-由浅到深](https://juejin.im/post/5f1536a75188252e62286b7f) ![](assets/new.png)  
+- [2020-07-21-除了composition-API，vue3.0文档又带来了什么新东西？](https://juejin.im/post/5f16540de51d4534c6543c35) ![](assets/new.png)  
+- [2020-07-21-【我上我也行】前端自动化部署Jenkins最佳实践](https://juejin.im/post/5f13d44c5188252e703ad360) ![](assets/new.png)  
 - [2020-07-17-玩不转微前端就怪这-40-个问题](https://juejin.im/post/5f1127476fb9a07ebb225d58)  
 - [2020-07-17-75行代码入门WebGL](https://juejin.im/post/5f10f99d5188252e40124d80)  
 - [2020-07-17-如何检测页面上的图片被屏蔽了](https://juejin.im/post/5f10fa60f265da22dd7ddf0e)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-21 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -118,6 +118,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-07-21-「手淘」研发提效黑科技-行业魔方-|-618-淘系前端技术分享](https://juejin.im/post/5f1666b3f265da230e6b7448) 
+- [2020-07-21-【我上我也行】前端自动化部署Jenkins最佳实践](https://juejin.im/post/5f13d44c5188252e703ad360) 
 - [2020-07-17-玩不转微前端就怪这-40-个问题](https://juejin.im/post/5f1127476fb9a07ebb225d58) 
 - [2020-07-17-如何检测页面上的图片被屏蔽了](https://juejin.im/post/5f10fa60f265da22dd7ddf0e) 
 - [2020-07-17-表格封装：让我们轻松的coding~](https://juejin.im/post/5f10f713f265da22ce3943db) 

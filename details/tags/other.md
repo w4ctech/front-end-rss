@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-21 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 09:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -195,6 +195,11 @@
 - [2020-07-18-macbook-pro19-款-15-寸,插上移动硬盘-wifi-会没网.](https://www.v2ex.com/t/691149) 
 - [2020-07-18-迫于需要线上交流，有没有什么好用的远程/投屏工具](https://www.v2ex.com/t/691148) 
 - [2020-07-18-追忆历史-有什么办法查到自己的高考，中考成绩吗？](https://www.v2ex.com/t/691147) 
+- [2020-07-21-如何面对黑天鹅与灰犀牛？ThoughtWorks技术雷达峰会给出答案-app.ma.scrmtech.com](https://blogread.cn/news/go.php?idItem=13613&url=https%3A%2F%2Fapp.ma.scrmtech.com%2Fmeetings%2FMeetingPc%2FDetail%3Fpf_uid%3D7019_1254%26amp%3Bid%3D20146%26amp%3Bsource%3D2%26amp%3Bpf_type%3D3%26amp%3Bchannel_id%3D1855%26amp%3Bchannel_name%3Dother-social-media%26amp%3Btag_id%3D60b6cd63fbda11b7%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-21-TCP-和-UDP，哪个更胜一筹-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13612&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F160910050%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-21-敏捷测试宣言与原则解读-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13611&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-manifesto%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-21-Apache-Tomcat-CVE-2020-1938，细思极恐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13610&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapache-tomcat-cve-2020-1938%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-21-快应用开发工具之-asar-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13606&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-asar%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13604&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-7-大-Python-特殊技巧提升数据分析能力-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13603&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXSRftTqPxJz0HEK1oHE5XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-程序员无休止加班的真正原因-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13602&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYaBHXd9ZHEYg3mdD-Yk-7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

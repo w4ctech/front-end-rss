@@ -2520,6 +2520,51 @@
     "link": "http://blogread.cn/news/newest.php",
     "items": [
       {
+        "title": "如何面对黑天鹅与灰犀牛？ThoughtWorks技术雷达峰会给出答案 (app.ma.scrmtech.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13613&url=https%3A%2F%2Fapp.ma.scrmtech.com%2Fmeetings%2FMeetingPc%2FDetail%3Fpf_uid%3D7019_1254%26amp%3Bid%3D20146%26amp%3Bsource%3D2%26amp%3Bpf_type%3D3%26amp%3Bchannel_id%3D1855%26amp%3Bchannel_name%3Dother-social-media%26amp%3Btag_id%3D60b6cd63fbda11b7%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "TCP 和 UDP，哪个更胜一筹 (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13612&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F160910050%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "敏捷测试宣言与原则解读 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13611&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-manifesto%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "Apache Tomcat CVE-2020-1938，细思极恐 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13610&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapache-tomcat-cve-2020-1938%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "WEB前端安全自查和加固 (insights.thoughtworks.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "如何利用图片对比算法处理白屏检测 (quickapp.vivo.com.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13608&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-picture-contrast-algorithm-to-deal-with-white-screen-detection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "如何使用 gitlab api 触发 CI (quickapp.vivo.com.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13607&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-gitlab-api-to-trigger-ci%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "快应用开发工具之 asar (quickapp.vivo.com.cn)",
+        "link": "https://blogread.cn/news/go.php?idItem=13606&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-asar%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "当我谈 HTTP 时，我谈些什么? (zhuanlan.zhihu.com)",
+        "link": "https://blogread.cn/news/go.php?idItem=13605&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F159274359%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
+        "date": "2020-07-21"
+      },
+      {
         "title": "为什么需要敏捷的7个问题 (insights.thoughtworks.cn)",
         "link": "https://blogread.cn/news/go.php?idItem=13604&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F",
         "date": "2020-07-15"

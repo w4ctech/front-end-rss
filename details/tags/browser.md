@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-22 00:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 05:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -17,6 +17,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-07-21-如何做一个运行在-Windows-里的“Webview”？](https://www.v2ex.com/t/692043) 
+- [2020-07-21-v2ex-的页面缓存有点不人性化](https://www.v2ex.com/t/692030) 
 - [2020-07-18-okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178) 
 - [2020-07-18-如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153) 
 - [2020-07-21-WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

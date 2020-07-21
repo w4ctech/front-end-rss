@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-22 00:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 05:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -402,6 +402,8 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】如何做一个运行在-Windows-里的“Webview”？](https://www.v2ex.com/t/692043)
+- [【V2EX】v2ex-的页面缓存有点不人性化](https://www.v2ex.com/t/692030)
 - [【V2EX】okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178)
 - [【V2EX】如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153)
 - [【技术头条】WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -473,6 +475,7 @@
 
 - [【凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
+- [【V2EX】Github-学生包里的-AWS-兑换码必须要验证学校电邮吗？](https://www.v2ex.com/t/692071)
 - [【V2EX】将-Github-的-notification-信息流对接到-macOS-的-notification通知中心有什么好的办法吗?](https://www.v2ex.com/t/691683)
 - [【V2EX】github-这么牛，为啥-gitee-码云这个平台还是能起来，中间有什么产品差异？](https://www.v2ex.com/t/691189)
 - [【技术头条】如何使用-gitlab-api-触发-CI-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13607&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-gitlab-api-to-trigger-ci%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)

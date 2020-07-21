@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 21:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 23:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,11 +74,13 @@
 </summary>
 
 
-- [2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504) ![](assets/new.png)  
-- [2020-07-21-非洲地区新冠肺炎确诊病例增长至73.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixG3m4QqroMxWOhhoEZ29200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-中国重组新冠疫苗Ⅱ期临床免疫原性获权威认可](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzRvFjYtrLlnKk3rJQmt200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-全球首位！湖北首例新冠肺移植患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQI0AqkpMwx2ufVQ1rumc200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-香港新增61例新冠肺炎病例，一名孕妇确诊感染](https://m.weibo.cn/3057540037/4529197592617189) ![](assets/new.png)  
+- [2020-07-21-巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)  
+- [2020-07-21-非洲地区新冠肺炎确诊病例增长至73.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixG3m4QqroMxWOhhoEZ29200721&isfromapp=1)  
+- [2020-07-21-中国重组新冠疫苗Ⅱ期临床免疫原性获权威认可](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzRvFjYtrLlnKk3rJQmt200721&isfromapp=1)  
+- [2020-07-21-全球首位！湖北首例新冠肺移植患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQI0AqkpMwx2ufVQ1rumc200721&isfromapp=1)  
+- [2020-07-21-香港新增61例新冠肺炎病例，一名孕妇确诊感染](https://m.weibo.cn/3057540037/4529197592617189)  
 - [2020-07-21-乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)  
 - [2020-07-21-乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)  
 - [2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-21-云游非洲丨东非野生动物大迁徙-渡河镜头最新实拍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0y9MZGa5a1gTskDP0tvR200721&isfromapp=1)  
 - [2020-07-21-摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)  
 - [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)  
-- [2020-07-20-印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1)  
-- [2020-07-20-世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

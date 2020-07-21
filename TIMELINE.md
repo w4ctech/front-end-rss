@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-21 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-21 23:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-非洲地区新冠肺炎确诊病例增长至73.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixG3m4QqroMxWOhhoEZ29200721&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-中国重组新冠疫苗Ⅱ期临床免疫原性获权威认可](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzRvFjYtrLlnKk3rJQmt200721&isfromapp=1) 

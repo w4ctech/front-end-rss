@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-21 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -564,6 +564,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)
@@ -582,8 +584,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐全市核酸检测加速进行中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPea7UIX3S8cOVsdTVwqF200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】疫情反弹，澳大利亚两州出台防疫措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiuM23NtwRyGmpxy3dBQz200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国印第安纳州：印第安纳波利斯推迟公立学校开学日期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS438g58PRfMD37UMuP2Q200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京教育系统不组织、不接待各类夏令营等聚集性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNTQEl6BryFlep2uxOt8200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】南非政府恳请公民认真对待疫情-全国9个省中3名省长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimWCyweGbi89XbM1ZeK30200719&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-07-21 17:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-21-乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1) 
+- [2020-07-21-乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1) 
 - [2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1) 
 - [2020-07-21-菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1) 
 - [2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1) 

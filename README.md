@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 17:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,11 @@
 </summary>
 
 
-- [2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1) ![](assets/new.png)  
-- [2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)  
+- [2020-07-21-​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1)  
+- [2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)  
 - [2020-07-21-菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)  
 - [2020-07-21-印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)  
 - [2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-20-伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)  
 - [2020-07-20-北京市医疗机构43.4万卫生人员核酸检测全部为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLOu77chmFCYQ76bgi6qk200720&isfromapp=1)  
 - [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
-- [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1)  
-- [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

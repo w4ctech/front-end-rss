@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-22 05:30:20，:rocket: 更新条数: +41， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-22 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,6 +74,8 @@
 </summary>
 
 
+- [2020-07-22-哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1) ![](assets/new.png)  
 - [2020-07-21-巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1)  
 - [2020-07-21-​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1)  
 - [2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)  
@@ -92,8 +94,6 @@
 - [2020-07-21-上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html)  
 - [2020-07-21-截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml)  
 - [2020-07-21-云游非洲丨东非野生动物大迁徙-渡河镜头最新实拍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0y9MZGa5a1gTskDP0tvR200721&isfromapp=1)  
-- [2020-07-21-摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)  
-- [2020-07-20-美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -554,26 +554,26 @@
 </summary>
 
 
-- [2020-07-22-写自己不喜欢的甚至有损法律或者道德的业务是什么感受?](https://www.v2ex.com/t/692074) ![](assets/new.png)  
-- [2020-07-22-阿里云服务器发票问题](https://www.v2ex.com/t/692073) ![](assets/new.png)  
-- [2020-07-22-macOS-自带输入-自动纠正拼音-为何无效？](https://www.v2ex.com/t/692072) ![](assets/new.png)  
-- [2020-07-22-Github-学生包里的-AWS-兑换码必须要验证学校电邮吗？](https://www.v2ex.com/t/692071) ![](assets/new.png)  
-- [2020-07-22-Apple-ID-与-iTunes-Match,-Apple-Music-问题](https://www.v2ex.com/t/692070) ![](assets/new.png)  
-- [2020-07-22-找工作：-4-年后端开发找海口互联网相关的工作](https://www.v2ex.com/t/692069) ![](assets/new.png)  
-- [2020-07-22-迫于人生还未曾拥有一张信用卡](https://www.v2ex.com/t/692068) ![](assets/new.png)  
-- [2020-07-22-iPad2018-掉电飞快，崩溃](https://www.v2ex.com/t/692067) ![](assets/new.png)  
-- [2020-07-21-怎么办，我的电信卡在某个公网-IP-没法换了](https://www.v2ex.com/t/692064) ![](assets/new.png)  
-- [2020-07-21-现在有多少这类的所谓大咖分享会？](https://www.v2ex.com/t/692063) ![](assets/new.png)  
-- [2020-07-21-160-万买了一辆保时捷加一辆宝马](https://www.v2ex.com/t/692062) ![](assets/new.png)  
-- [2020-07-21-Eorg-的意义是什么](https://www.v2ex.com/t/692061) ![](assets/new.png)  
-- [2020-07-21-想向大家请教一下-Mac-版迅雷下载速度慢的问题](https://www.v2ex.com/t/692060) ![](assets/new.png)  
-- [2020-07-21-关于-RTSP-用-FFMPEG-转-flv-播放延迟问题](https://www.v2ex.com/t/692057) ![](assets/new.png)  
-- [2020-07-21-Java-如何实现-gamma-分布的逆函数，-gaminv](https://www.v2ex.com/t/692056) ![](assets/new.png)  
-- [2020-07-21-饿了吗返利方法](https://www.v2ex.com/t/692055) ![](assets/new.png)  
-- [2020-07-21-阿里云-APP-消息推送有好用的-ionic-插件吗？](https://www.v2ex.com/t/692054) ![](assets/new.png)  
-- [2020-07-21-zstack](https://www.v2ex.com/t/692053) ![](assets/new.png)  
-- [2020-07-21-MBP15-款连不上-AirPods-Pro](https://www.v2ex.com/t/692052) ![](assets/new.png)  
-- [2020-07-21-上海电信，企业宽带-100M-对等，含-1-个固定-IP-年费-2.56W。有更优惠的资费吗？](https://www.v2ex.com/t/692050) ![](assets/new.png)  
+- [2020-07-22-写自己不喜欢的甚至有损法律或者道德的业务是什么感受?](https://www.v2ex.com/t/692074)  
+- [2020-07-22-阿里云服务器发票问题](https://www.v2ex.com/t/692073)  
+- [2020-07-22-macOS-自带输入-自动纠正拼音-为何无效？](https://www.v2ex.com/t/692072)  
+- [2020-07-22-Github-学生包里的-AWS-兑换码必须要验证学校电邮吗？](https://www.v2ex.com/t/692071)  
+- [2020-07-22-Apple-ID-与-iTunes-Match,-Apple-Music-问题](https://www.v2ex.com/t/692070)  
+- [2020-07-22-找工作：-4-年后端开发找海口互联网相关的工作](https://www.v2ex.com/t/692069)  
+- [2020-07-22-迫于人生还未曾拥有一张信用卡](https://www.v2ex.com/t/692068)  
+- [2020-07-22-iPad2018-掉电飞快，崩溃](https://www.v2ex.com/t/692067)  
+- [2020-07-21-怎么办，我的电信卡在某个公网-IP-没法换了](https://www.v2ex.com/t/692064)  
+- [2020-07-21-现在有多少这类的所谓大咖分享会？](https://www.v2ex.com/t/692063)  
+- [2020-07-21-160-万买了一辆保时捷加一辆宝马](https://www.v2ex.com/t/692062)  
+- [2020-07-21-Eorg-的意义是什么](https://www.v2ex.com/t/692061)  
+- [2020-07-21-想向大家请教一下-Mac-版迅雷下载速度慢的问题](https://www.v2ex.com/t/692060)  
+- [2020-07-21-关于-RTSP-用-FFMPEG-转-flv-播放延迟问题](https://www.v2ex.com/t/692057)  
+- [2020-07-21-Java-如何实现-gamma-分布的逆函数，-gaminv](https://www.v2ex.com/t/692056)  
+- [2020-07-21-饿了吗返利方法](https://www.v2ex.com/t/692055)  
+- [2020-07-21-阿里云-APP-消息推送有好用的-ionic-插件吗？](https://www.v2ex.com/t/692054)  
+- [2020-07-21-zstack](https://www.v2ex.com/t/692053)  
+- [2020-07-21-MBP15-款连不上-AirPods-Pro](https://www.v2ex.com/t/692052)  
+- [2020-07-21-上海电信，企业宽带-100M-对等，含-1-个固定-IP-年费-2.56W。有更优惠的资费吗？](https://www.v2ex.com/t/692050)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

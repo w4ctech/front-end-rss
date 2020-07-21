@@ -838,6 +838,21 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "移动端吸顶导航组件的实现",
+        "link": "https://aotu.io/notes/2020/07/16/mobile-top-nav/",
+        "date": "2020-07-16"
+      },
+      {
+        "title": "618前端竞品分析研究（互动篇）",
+        "link": "https://aotu.io/notes/2020/07/14/618-what-taobao-do/",
+        "date": "2020-07-14"
+      },
+      {
+        "title": "如何使用Grid Layout",
+        "link": "https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/",
+        "date": "2020-07-14"
+      },
+      {
         "title": "Webpack原理浅析",
         "link": "https://aotu.io/notes/2020/07/17/webpack-analize/",
         "date": "2020-07-17"

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-21 16:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-21 17:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)  
@@ -74,6 +74,9 @@
 </summary>
 
 
+- [2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1) ![](assets/new.png)  
+- [2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1) ![](assets/new.png)  
 - [2020-07-21-菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)  
 - [2020-07-21-印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)  
 - [2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-20-乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)  
 - [2020-07-20-疫情缓和-韩国将重开首都圈公共设施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDjUx5fjOuIwQYBih9oZ7200720&isfromapp=1)  
 - [2020-07-20-张文宏称目前全球疫情尚未到高峰](https://m.weibo.cn/3057540037/4528705504018869)  
-- [2020-07-20-上海7月19日治愈出院5例](http://wsjkw.sh.gov.cn/xwfb/20200720/14710eaf4d314e5c80ab32d113a66911.html)  
-- [2020-07-20-辽宁支援新疆检验医疗队经-13-小时飞行抵达乌鲁木齐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6gDfhN122RvIKHRaX2e200720)  
-- [2020-07-19-新疆乌鲁木齐市天山区、沙依巴克区升级为高风险地区-另有三个区为中风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiusEyyYcUWkNEWnWrgidr200719&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -371,9 +371,9 @@
 </summary>
 
 
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/14/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/)  
+- [2020-07-14-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/14/618-what-taobao-do/)  
+- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/)  
 - [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)  
 - [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/)  
 - [2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/)  

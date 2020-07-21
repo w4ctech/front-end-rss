@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-21 16:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-21 17:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-21-​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1) 

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-21 16:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-21 17:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -530,6 +530,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)
@@ -548,8 +550,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】清零！澳门最后一位新冠肺炎患者康复出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS5AOhqJTZb29y0KFDoK200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】以色列新增487例新冠肺炎确诊病例-累计确诊46546例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66HJSPSNg2JWRamGdkTp200717&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增-809-例新冠肺炎确诊病例，累计确诊超-5.7-万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQYuObkRQRH3RnKWCcObN200717&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】截至7月16日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/411571.jhtml)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例,治愈出院10例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200717_1950585.html)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -564,6 +564,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html)
@@ -583,7 +584,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】美国印第安纳州：印第安纳波利斯推迟公立学校开学日期](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS438g58PRfMD37UMuP2Q200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京教育系统不组织、不接待各类夏令营等聚集性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyNTQEl6BryFlep2uxOt8200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】南非政府恳请公民认真对待疫情-全国9个省中3名省长新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimWCyweGbi89XbM1ZeK30200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】低风险地区影院7月20日有序恢复开放-每场上座率不得超30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ8wJoxSOcrQGtWEgZKb200719&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

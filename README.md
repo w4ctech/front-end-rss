@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-22 11:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-22 15:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,10 +74,15 @@
 </summary>
 
 
-- [2020-07-22-北京市属公园游览场所全面开放，限流比例上调至50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQkpHhO1dG9sj7uXEH5c200722&isfromapp=1) ![](assets/new.png)  
-- [2020-07-22-驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1) ![](assets/new.png)  
-- [2020-07-22-截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml) ![](assets/new.png)  
-- [2020-07-22-北京昨日无新增报告新冠肺炎确诊病例，治愈出院17例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200722_1954527.html) ![](assets/new.png)  
+- [2020-07-22-​香港特区室内公共场所须强制佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-吉尔吉斯斯坦新增1108例新冠肺炎确诊病例-累计近3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixqIGrWNmdvDuZXGAXkuj200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-一改乐观态度-特朗普呼吁民众戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHy3dQb6lvfq15NisL0zL200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-印度新增37724例新冠肺炎确诊病例-累计达1192915例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUe8V5y0o9S0FhY3ym1ID200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-北京市属公园游览场所全面开放，限流比例上调至50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQkpHhO1dG9sj7uXEH5c200722&isfromapp=1)  
+- [2020-07-22-驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1)  
+- [2020-07-22-截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml)  
+- [2020-07-22-北京昨日无新增报告新冠肺炎确诊病例，治愈出院17例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200722_1954527.html)  
 - [2020-07-22-哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1)  
 - [2020-07-22-中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1)  
 - [2020-07-21-巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1)  
@@ -89,11 +94,6 @@
 - [2020-07-21-香港新增61例新冠肺炎病例，一名孕妇确诊感染](https://m.weibo.cn/3057540037/4529197592617189)  
 - [2020-07-21-乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)  
 - [2020-07-21-乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)  
-- [2020-07-21-日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)  
-- [2020-07-21-​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1)  
-- [2020-07-21-天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)  
-- [2020-07-21-菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)  
-- [2020-07-21-印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-22 11:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-22 15:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-​香港特区室内公共场所须强制佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-吉尔吉斯斯坦新增1108例新冠肺炎确诊病例-累计近3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixqIGrWNmdvDuZXGAXkuj200722&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-一改乐观态度-特朗普呼吁民众戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHy3dQb6lvfq15NisL0zL200722&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-印度新增37724例新冠肺炎确诊病例-累计达1192915例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUe8V5y0o9S0FhY3ym1ID200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-北京市属公园游览场所全面开放，限流比例上调至50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQkpHhO1dG9sj7uXEH5c200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml) 

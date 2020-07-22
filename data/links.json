@@ -11,6 +11,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "医护人员不怕中暑了！上海首台户外核酸采样工作柜启用",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "乌克兰新增829例新冠肺炎确诊病例 累计达60995例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq9BrAPfykhs7iyTP2XtI200722&isfromapp=1",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "​希腊7月旅游业重启后 境外输入病例占全部新增病例48.1%",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "香港将美国列入疫情高危地区 到港前须提供核酸检测证明",
+        "link": "https://m.weibo.cn/3057540037/4529498764360171",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "乌兹别克斯坦新增581例新冠肺炎确诊病例 累计超1.8万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJyoYzpzUiLnLcLWfExz200722&isfromapp=1",
+        "date": "2020-07-22"
+      },
+      {
         "title": "​香港特区室内公共场所须强制佩戴口罩",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1",
         "date": "2020-07-22"
@@ -3091,6 +3116,136 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "20 条安全架构公理.pdf",
+        "link": "https://toutiao.io/k/ccskosd",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "微前端自检清单",
+        "link": "https://toutiao.io/k/x3e2bi2",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[译] 为什么 Go 的错误处理很棒？还是有人很喜欢的嘛",
+        "link": "https://toutiao.io/k/o35s5kx",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "和程序媛233酱一起刷 LeetCode 系列",
+        "link": "https://toutiao.io/k/ft81cg1",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "用户画像在携程商旅的实践",
+        "link": "https://toutiao.io/k/dem24xk",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "K8S 集群之 Harbor 仓库、DNS 和 ETCD 部署",
+        "link": "https://toutiao.io/k/ku83ll5",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "理解 Spring 系列：BeanFactory, Spring IoC 的核心担当",
+        "link": "https://toutiao.io/k/z7dpcu4",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "字节前端提前批面试题：下触发了几次回流几次重绘",
+        "link": "https://toutiao.io/k/njtx5kl",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "敏捷测试宣言与原则解读",
+        "link": "https://toutiao.io/k/6477uxu",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "Python 为什么用 # 号作注释符？",
+        "link": "https://toutiao.io/k/2ek23m4",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "再谈几种 Nginx 后门：发现与修复",
+        "link": "https://toutiao.io/k/62dkezx",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "架构师词条：业务流程建模与标记 (BPMN)",
+        "link": "https://toutiao.io/k/r9ihlxm",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[译] Array.flat() 函数的深入探讨",
+        "link": "https://toutiao.io/k/01lefe5",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "今日头条 Android “秒” 级编译速度优化",
+        "link": "https://toutiao.io/k/n7jc9pv",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "R 语言：读写 txt、csv、excel 文件",
+        "link": "https://toutiao.io/k/1tbbitc",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "CVPR 2020 论文大盘点：动作检测与动作分割篇",
+        "link": "https://toutiao.io/k/6u6iwle",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[推荐] 入侵 JVM？Java Agent 原理浅析和实践",
+        "link": "https://toutiao.io/k/h9n57n8",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[推荐] 一文了解 Kubernetes",
+        "link": "https://toutiao.io/k/5wmgc1g",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[推荐] 面试官：说说 Kafka 处理请求的全流程",
+        "link": "https://toutiao.io/k/jaqydhp",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[推荐] 如何在工作中快速成长？致工程师的 10 个简单技巧",
+        "link": "https://toutiao.io/k/yvl2wys",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[推荐] 消息队列面试连环问：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？",
+        "link": "https://toutiao.io/k/sfgpn4c",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/knhm23r",
+        "date": "2020-07-22"
+      },
       {
         "title": "从 0 到 1 开始前端异常监控",
         "link": "https://toutiao.io/k/txe46k2",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -19,4 +19,5 @@
 - [2020-07-20-<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680) 
 - [2020-07-21-如何利用图片对比算法处理白屏检测-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13608&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-picture-contrast-algorithm-to-deal-with-white-screen-detection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-21-当我谈-HTTP-时，我谈些什么?-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13605&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F159274359%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-22-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) 
 - [2020-07-21-数据源管理：搜索引擎框架，ElasticSearch-集群模式](https://toutiao.io/k/8zd8a1a) 

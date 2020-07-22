@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-22 15:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -376,6 +376,7 @@
 - [【凹凸实验室】让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/)
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【开发者头条】今日头条-Android-“秒”-级编译速度优化](https://toutiao.io/k/n7jc9pv)
 - [【开发者头条】曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x)
 - [【开发者头条】推荐-MySQL：慢-SQL-优化方法论](https://toutiao.io/k/t00tz3i)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -409,6 +410,9 @@
 - [【V2EX】okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178)
 - [【V2EX】如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153)
 - [【技术头条】WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd)
+- [【开发者头条】字节前端提前批面试题：下触发了几次回流几次重绘](https://toutiao.io/k/njtx5kl)
+- [【开发者头条】推荐-面试官：说说-Kafka-处理请求的全流程](https://toutiao.io/k/jaqydhp)
 - [【开发者头条】ViewGroup-默认顺序绘制子-View，如何修改？什么场景需要修改绘制顺序？](https://toutiao.io/k/vaibrdr)
 - [【开发者头条】推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut)
 - [......【查看更多】......](./details/tags/browser.md)
@@ -439,6 +443,7 @@
 - [【V2EX】<美团&字节&快手&网易&B-站>2020-算法真题详解](https://www.v2ex.com/t/691680)
 - [【技术头条】如何利用图片对比算法处理白屏检测-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13608&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-picture-contrast-algorithm-to-deal-with-white-screen-detection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【技术头条】当我谈-HTTP-时，我谈些什么?-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13605&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F159274359%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
+- [【开发者头条】58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【开发者头条】数据源管理：搜索引擎框架，ElasticSearch-集群模式](https://toutiao.io/k/8zd8a1a)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -458,6 +463,7 @@
 
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
+- [【开发者头条】再谈几种-Nginx-后门：发现与修复](https://toutiao.io/k/62dkezx)
 - [【开发者头条】Presto-函数实现简述](https://toutiao.io/k/nu5e0wr)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -501,6 +507,7 @@
 - [【V2EX】成都医联招聘啦~~](https://www.v2ex.com/t/691681)
 - [【V2EX】迫于招聘困难，组内直招各式容器开发简历「商汤-容器云资深开发工程师-招聘」北京/深圳](https://www.v2ex.com/t/691675)
 - [【V2EX】大家面试前会紧张吗？](https://www.v2ex.com/t/691184)
+- [【开发者头条】推荐-消息队列面试连环问：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？](https://toutiao.io/k/sfgpn4c)
 - [【开发者头条】推荐-31-道-Java-核心面试题，一次性打包送给你](https://toutiao.io/k/ea3120t)
 - [【开发者头条】推荐-62-道-Java-核心面试题，这次全了](https://toutiao.io/k/tp2lu49)
 - [......【查看更多】......](./details/tags/job-interview.md)
@@ -535,6 +542,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增829例新冠肺炎确诊病例-累计达60995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq9BrAPfykhs7iyTP2XtI200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】乌兹别克斯坦新增581例新冠肺炎确诊病例-累计超1.8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJyoYzpzUiLnLcLWfExz200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】吉尔吉斯斯坦新增1108例新冠肺炎确诊病例-累计近3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixqIGrWNmdvDuZXGAXkuj200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37724例新冠肺炎确诊病例-累计达1192915例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUe8V5y0o9S0FhY3ym1ID200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml)
@@ -553,8 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】阿塞拜疆新增新冠肺炎确诊病例497例-累计确诊27133例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilvAAvsQcJDkzTWUcX1G3200718&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】卡塔尔新增410例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ730kfruGt84LnLahC5S200718&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -569,6 +576,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171)
 - [【全国新型肺炎疫情实时动态(丁香园)】​香港特区室内公共场所须强制佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】一改乐观态度-特朗普呼吁民众戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHy3dQb6lvfq15NisL0zL200722&isfromapp=1)
@@ -586,9 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】云游非洲丨东非野生动物大迁徙-渡河镜头最新实拍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0y9MZGa5a1gTskDP0tvR200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国纽约进入第四阶段重启，仍不允许餐厅室内就餐](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHW7wjmbFQXhrlFFNZRx200720&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】湖北400多家电影院有序复工，每场上座率不超过30%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc5wjlacXxen4E22pwop200720&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​新疆召开疫情防控新闻发布会：确诊病例将呈下降趋势](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4s5iFGNB8klmBjzU7C0y200720&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

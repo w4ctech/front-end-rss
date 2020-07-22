@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-07-22 15:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-22-医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1) 
+- [2020-07-22-​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1) 
+- [2020-07-22-香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171) 
 - [2020-07-22-​香港特区室内公共场所须强制佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1) 
 - [2020-07-22-美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1) 
 - [2020-07-22-一改乐观态度-特朗普呼吁民众戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHy3dQb6lvfq15NisL0zL200722&isfromapp=1) 
@@ -277,6 +280,25 @@
 - [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13588&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-22-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
+- [2020-07-22-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
+- [2020-07-22-微前端自检清单](https://toutiao.io/k/x3e2bi2) 
+- [2020-07-22-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
+- [2020-07-22-译-为什么-Go-的错误处理很棒？还是有人很喜欢的嘛](https://toutiao.io/k/o35s5kx) 
+- [2020-07-22-和程序媛233酱一起刷-LeetCode-系列](https://toutiao.io/k/ft81cg1) 
+- [2020-07-22-用户画像在携程商旅的实践](https://toutiao.io/k/dem24xk) 
+- [2020-07-22-K8S-集群之-Harbor-仓库、DNS-和-ETCD-部署](https://toutiao.io/k/ku83ll5) 
+- [2020-07-22-理解-Spring-系列：BeanFactory,-Spring-IoC-的核心担当](https://toutiao.io/k/z7dpcu4) 
+- [2020-07-22-敏捷测试宣言与原则解读](https://toutiao.io/k/6477uxu) 
+- [2020-07-22-Python-为什么用-#-号作注释符？](https://toutiao.io/k/2ek23m4) 
+- [2020-07-22-架构师词条：业务流程建模与标记-BPMN](https://toutiao.io/k/r9ihlxm) 
+- [2020-07-22-译-Array.flat-函数的深入探讨](https://toutiao.io/k/01lefe5) 
+- [2020-07-22-R-语言：读写-txt、csv、excel-文件](https://toutiao.io/k/1tbbitc) 
+- [2020-07-22-CVPR-2020-论文大盘点：动作检测与动作分割篇](https://toutiao.io/k/6u6iwle) 
+- [2020-07-22-推荐-入侵-JVM？Java-Agent-原理浅析和实践](https://toutiao.io/k/h9n57n8) 
+- [2020-07-22-推荐-一文了解-Kubernetes](https://toutiao.io/k/5wmgc1g) 
+- [2020-07-22-推荐-如何在工作中快速成长？致工程师的-10-个简单技巧](https://toutiao.io/k/yvl2wys) 
+- [2020-07-22-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) 
 - [2020-07-21-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) 
 - [2020-07-21-Ionic-3-迁移到-Ionic-5](https://toutiao.io/k/p3egf5n) 
 - [2020-07-21-写-Java-这么久，JDK-源码编译过没？](https://toutiao.io/k/riyhoo3) 

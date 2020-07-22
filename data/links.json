@@ -11,6 +11,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "新加坡新增310例新冠肺炎确诊病例 累计达48744例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "尼泊尔宣布解除封锁",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1",
+        "date": "2020-07-22"
+      },
+      {
         "title": "国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1",
         "date": "2020-07-22"
@@ -1027,6 +1037,11 @@
     "title": "凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "618前端竞品分析研究（互动篇）",
+        "link": "https://aotu.io/notes/2020/07/21/618-what-taobao-do/",
+        "date": "2020-07-21"
+      },
       {
         "title": "移动端吸顶导航组件的实现",
         "link": "https://aotu.io/notes/2020/07/16/mobile-top-nav/",

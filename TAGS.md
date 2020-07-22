@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-22 18:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】新加坡新增310例新冠肺炎确诊病例-累计达48744例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾新增1594例新冠肺炎确诊病例-累计达72269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaZH9HCZupLrI3uReMF8200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印尼新增1882例新冠肺炎确诊病例-累计达91751例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolJz3RP0DNVmE5qeO7oo200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​阿曼新增1660例新冠肺炎确诊病例-累计达71547例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisWjPRWmRJTXbVEvLqfTD200722&isfromapp=1)
@@ -561,7 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐市累计核酸采样超103万人份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiMJt6u43ixMNhplSYWy200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京：已开放54家博物馆-接待量不得超过最大承载量的50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvdarGAeDRKV3NsB8y1D200722&isfromapp=1)
@@ -595,7 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

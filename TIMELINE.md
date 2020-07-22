@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-22 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-22 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-新加坡新增310例新冠肺炎确诊病例-累计达48744例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-乌鲁木齐：检测机构均达到二级生物实验室安全标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBnQg2wCRb2wSiUOaZvRC200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-菲律宾新增1594例新冠肺炎确诊病例-累计达72269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaZH9HCZupLrI3uReMF8200722&isfromapp=1) 
@@ -279,6 +281,7 @@
 - [【阮一峰的网络日志】2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html) 
 - [【阮一峰的网络日志】2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html) 
 - [【阮一峰的网络日志】2020-07-03-科技爱好者周刊（第-114-期）：U-盘化生存和-Uber-job](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-114.html) 
+- [【凹凸实验室】2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) 
 - [【凹凸实验室】2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) 
 - [【凹凸实验室】2020-07-14-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/14/618-what-taobao-do/) 
 - [【凹凸实验室】2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) 

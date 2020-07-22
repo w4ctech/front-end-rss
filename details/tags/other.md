@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-22 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-22-尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1) 
 - [2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1) 
 - [2020-07-22-乌鲁木齐市累计核酸采样超103万人份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiMJt6u43ixMNhplSYWy200722&isfromapp=1) 
 - [2020-07-22-北京：已开放54家博物馆-接待量不得超过最大承载量的50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvdarGAeDRKV3NsB8y1D200722&isfromapp=1) 
@@ -92,6 +93,7 @@
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
 - [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 - [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) 
 - [2020-07-14-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/14/618-what-taobao-do/) 
 - [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) 
 - [2020-06-08-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-22 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-22-韩军边防部队集体感染新冠病毒-已确诊14人感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNgrlgxQwTixbwVlj4ng200722&isfromapp=1) 
 - [2020-07-22-直面新疫情｜“战时状态”的乌鲁木齐-检测筛查全面铺开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwz1vyot62Gs36Xi1N2M1200722&isfromapp=1) 
 - [2020-07-22-尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1) 
 - [2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1) 

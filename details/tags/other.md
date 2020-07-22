@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-07-22 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1) 
+- [2020-07-22-乌鲁木齐市累计核酸采样超103万人份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiMJt6u43ixMNhplSYWy200722&isfromapp=1) 
+- [2020-07-22-北京：已开放54家博物馆-接待量不得超过最大承载量的50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvdarGAeDRKV3NsB8y1D200722&isfromapp=1) 
 - [2020-07-22-医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1) 
 - [2020-07-22-​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1) 
 - [2020-07-22-香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171) 

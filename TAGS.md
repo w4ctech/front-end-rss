@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-22 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 18:00:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,6 +395,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：检测机构均达到二级生物实验室安全标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBnQg2wCRb2wSiUOaZvRC200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1)
 - [【凹凸实验室】Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/)
 - [【凹凸实验室】URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/)
@@ -414,7 +415,6 @@
 - [【开发者头条】字节前端提前批面试题：下触发了几次回流几次重绘](https://toutiao.io/k/njtx5kl)
 - [【开发者头条】推荐-面试官：说说-Kafka-处理请求的全流程](https://toutiao.io/k/jaqydhp)
 - [【开发者头条】ViewGroup-默认顺序绘制子-View，如何修改？什么场景需要修改绘制顺序？](https://toutiao.io/k/vaibrdr)
-- [【开发者头条】推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -542,6 +542,10 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】菲律宾新增1594例新冠肺炎确诊病例-累计达72269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaZH9HCZupLrI3uReMF8200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】印尼新增1882例新冠肺炎确诊病例-累计达91751例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolJz3RP0DNVmE5qeO7oo200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​阿曼新增1660例新冠肺炎确诊病例-累计达71547例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisWjPRWmRJTXbVEvLqfTD200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​香港22日新增113例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTiQiSQ1kGQaqHPcrYIX0200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增829例新冠肺炎确诊病例-累计达60995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq9BrAPfykhs7iyTP2XtI200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】乌兹别克斯坦新增581例新冠肺炎确诊病例-累计超1.8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJyoYzpzUiLnLcLWfExz200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】吉尔吉斯斯坦新增1108例新冠肺炎确诊病例-累计近3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixqIGrWNmdvDuZXGAXkuj200722&isfromapp=1)
@@ -558,10 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例累计超1426万例，死亡超60万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz1LzpIQQAFKSBAEFRk44200720&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】伊朗新增2414例新冠肺炎确诊病例-累计确诊超27万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hEb5PJ6j3LcQVjI5P56200720&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】乌克兰新增651例新冠肺炎确诊病例-累计达59493例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5vlYjBg6AsEKoi3ylubX200720&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】香港19日通报：新增108例新冠肺炎确诊病例，累计确诊1885例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIj3lanHC6YwVi8jVVDsc200719&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】拉美地区新冠肺炎确诊病例超过375万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFHp9G6J1RQIqEctKtfY200719&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐市累计核酸采样超103万人份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiMJt6u43ixMNhplSYWy200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】北京：已开放54家博物馆-接待量不得超过最大承载量的50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvdarGAeDRKV3NsB8y1D200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171)
@@ -593,9 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：正对全市各区县进行逐个检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX55HLeo56T24VoG9gd3X200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】天津恢复旅游企业跨省团队游业务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibnpmJwHLKqcZQZp2er8f200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾已有638个区域发生新冠病毒聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZIHKDNxQItRkoQNntO1e200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​日本东京2家酒吧发生新冠病毒集体感染-确诊病例升至22例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOiuNceu96GUZoIA2Q9U0200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】上海7月20日治愈出院2例](http://wsjkw.sh.gov.cn/xwfb/20200721/667a15edd0f24a7bbb6d74de46c62511.html)
-- [【全国新型肺炎疫情实时动态(丁香园)】云游非洲丨东非野生动物大迁徙-渡河镜头最新实拍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0y9MZGa5a1gTskDP0tvR200721&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

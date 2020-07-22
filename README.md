@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-22 16:00:20，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-22 18:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -74,11 +74,19 @@
 </summary>
 
 
-- [2020-07-22-医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1) ![](assets/new.png)  
-- [2020-07-22-乌克兰新增829例新冠肺炎确诊病例-累计达60995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq9BrAPfykhs7iyTP2XtI200722&isfromapp=1) ![](assets/new.png)  
-- [2020-07-22-​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1) ![](assets/new.png)  
-- [2020-07-22-香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171) ![](assets/new.png)  
-- [2020-07-22-乌兹别克斯坦新增581例新冠肺炎确诊病例-累计超1.8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJyoYzpzUiLnLcLWfExz200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-乌鲁木齐：检测机构均达到二级生物实验室安全标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBnQg2wCRb2wSiUOaZvRC200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-菲律宾新增1594例新冠肺炎确诊病例-累计达72269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaZH9HCZupLrI3uReMF8200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-印尼新增1882例新冠肺炎确诊病例-累计达91751例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolJz3RP0DNVmE5qeO7oo200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-​阿曼新增1660例新冠肺炎确诊病例-累计达71547例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisWjPRWmRJTXbVEvLqfTD200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-乌鲁木齐市累计核酸采样超103万人份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiMJt6u43ixMNhplSYWy200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-​香港22日新增113例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTiQiSQ1kGQaqHPcrYIX0200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-北京：已开放54家博物馆-接待量不得超过最大承载量的50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvdarGAeDRKV3NsB8y1D200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1)  
+- [2020-07-22-乌克兰新增829例新冠肺炎确诊病例-累计达60995例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq9BrAPfykhs7iyTP2XtI200722&isfromapp=1)  
+- [2020-07-22-​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1)  
+- [2020-07-22-香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171)  
+- [2020-07-22-乌兹别克斯坦新增581例新冠肺炎确诊病例-累计超1.8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJyoYzpzUiLnLcLWfExz200722&isfromapp=1)  
 - [2020-07-22-​香港特区室内公共场所须强制佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1)  
 - [2020-07-22-美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1)  
 - [2020-07-22-吉尔吉斯斯坦新增1108例新冠肺炎确诊病例-累计近3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixqIGrWNmdvDuZXGAXkuj200722&isfromapp=1)  
@@ -86,14 +94,6 @@
 - [2020-07-22-印度新增37724例新冠肺炎确诊病例-累计达1192915例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUe8V5y0o9S0FhY3ym1ID200722&isfromapp=1)  
 - [2020-07-22-北京市属公园游览场所全面开放，限流比例上调至50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQkpHhO1dG9sj7uXEH5c200722&isfromapp=1)  
 - [2020-07-22-驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1)  
-- [2020-07-22-截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml)  
-- [2020-07-22-北京昨日无新增报告新冠肺炎确诊病例，治愈出院17例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200722_1954527.html)  
-- [2020-07-22-哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1)  
-- [2020-07-22-中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1)  
-- [2020-07-21-巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1)  
-- [2020-07-21-​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1)  
-- [2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)  
-- [2020-07-21-非洲地区新冠肺炎确诊病例增长至73.6万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixG3m4QqroMxWOhhoEZ29200721&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -622,26 +622,26 @@
 </summary>
 
 
-- [2020-07-22-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-07-22-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-07-22-20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd) ![](assets/new.png)  
-- [2020-07-22-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-07-22-微前端自检清单](https://toutiao.io/k/x3e2bi2) ![](assets/new.png)  
-- [2020-07-22-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-07-22-译-为什么-Go-的错误处理很棒？还是有人很喜欢的嘛](https://toutiao.io/k/o35s5kx) ![](assets/new.png)  
-- [2020-07-22-和程序媛233酱一起刷-LeetCode-系列](https://toutiao.io/k/ft81cg1) ![](assets/new.png)  
-- [2020-07-22-用户画像在携程商旅的实践](https://toutiao.io/k/dem24xk) ![](assets/new.png)  
-- [2020-07-22-K8S-集群之-Harbor-仓库、DNS-和-ETCD-部署](https://toutiao.io/k/ku83ll5) ![](assets/new.png)  
-- [2020-07-22-理解-Spring-系列：BeanFactory,-Spring-IoC-的核心担当](https://toutiao.io/k/z7dpcu4) ![](assets/new.png)  
-- [2020-07-22-字节前端提前批面试题：下触发了几次回流几次重绘](https://toutiao.io/k/njtx5kl) ![](assets/new.png)  
-- [2020-07-22-敏捷测试宣言与原则解读](https://toutiao.io/k/6477uxu) ![](assets/new.png)  
-- [2020-07-22-Python-为什么用-#-号作注释符？](https://toutiao.io/k/2ek23m4) ![](assets/new.png)  
-- [2020-07-22-再谈几种-Nginx-后门：发现与修复](https://toutiao.io/k/62dkezx) ![](assets/new.png)  
-- [2020-07-22-架构师词条：业务流程建模与标记-BPMN](https://toutiao.io/k/r9ihlxm) ![](assets/new.png)  
-- [2020-07-22-译-Array.flat-函数的深入探讨](https://toutiao.io/k/01lefe5) ![](assets/new.png)  
-- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://toutiao.io/k/n7jc9pv) ![](assets/new.png)  
-- [2020-07-22-R-语言：读写-txt、csv、excel-文件](https://toutiao.io/k/1tbbitc) ![](assets/new.png)  
-- [2020-07-22-CVPR-2020-论文大盘点：动作检测与动作分割篇](https://toutiao.io/k/6u6iwle) ![](assets/new.png)  
+- [2020-07-22-SQL-注入笔记](https://toutiao.io/k/6zh1ffv)  
+- [2020-07-22-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)  
+- [2020-07-22-20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd)  
+- [2020-07-22-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo)  
+- [2020-07-22-微前端自检清单](https://toutiao.io/k/x3e2bi2)  
+- [2020-07-22-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn)  
+- [2020-07-22-译-为什么-Go-的错误处理很棒？还是有人很喜欢的嘛](https://toutiao.io/k/o35s5kx)  
+- [2020-07-22-和程序媛233酱一起刷-LeetCode-系列](https://toutiao.io/k/ft81cg1)  
+- [2020-07-22-用户画像在携程商旅的实践](https://toutiao.io/k/dem24xk)  
+- [2020-07-22-K8S-集群之-Harbor-仓库、DNS-和-ETCD-部署](https://toutiao.io/k/ku83ll5)  
+- [2020-07-22-理解-Spring-系列：BeanFactory,-Spring-IoC-的核心担当](https://toutiao.io/k/z7dpcu4)  
+- [2020-07-22-字节前端提前批面试题：下触发了几次回流几次重绘](https://toutiao.io/k/njtx5kl)  
+- [2020-07-22-敏捷测试宣言与原则解读](https://toutiao.io/k/6477uxu)  
+- [2020-07-22-Python-为什么用-#-号作注释符？](https://toutiao.io/k/2ek23m4)  
+- [2020-07-22-再谈几种-Nginx-后门：发现与修复](https://toutiao.io/k/62dkezx)  
+- [2020-07-22-架构师词条：业务流程建模与标记-BPMN](https://toutiao.io/k/r9ihlxm)  
+- [2020-07-22-译-Array.flat-函数的深入探讨](https://toutiao.io/k/01lefe5)  
+- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://toutiao.io/k/n7jc9pv)  
+- [2020-07-22-R-语言：读写-txt、csv、excel-文件](https://toutiao.io/k/1tbbitc)  
+- [2020-07-22-CVPR-2020-论文大盘点：动作检测与动作分割篇](https://toutiao.io/k/6u6iwle)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

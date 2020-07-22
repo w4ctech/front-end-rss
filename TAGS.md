@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-22 18:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-22 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】巴基斯坦新增1332例新冠肺炎确诊病例-累计达267400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIbdcwYLabHTBgYN74rq200722&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】​澳大利亚累计确诊新冠肺炎12896例-单日新增病例数达历史最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kfPHrPAwsyPjngUl0QW200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】新加坡新增310例新冠肺炎确诊病例-累计达48744例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】菲律宾新增1594例新冠肺炎确诊病例-累计达72269例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaZH9HCZupLrI3uReMF8200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印尼新增1882例新冠肺炎确诊病例-累计达91751例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolJz3RP0DNVmE5qeO7oo200722&isfromapp=1)
@@ -560,8 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】日本东京都单日新增237例新冠肺炎确诊病例-住院患者大幅增加](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmuSaXQmiJAdzE1qFJ9h200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​哈萨克斯坦新增1630例新冠肺炎确诊病例-疫情形势趋缓](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiGOZNDL33A5ORfuvCxg200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37148例新冠肺炎确诊病例-累计1155191例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYP0qRkBs0q83EGTrLUO5200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】截至7月20日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/07cf9d4f1aac4f288b8c7b79fd1e72e1.shtml)
-- [【全国新型肺炎疫情实时动态(丁香园)】摩洛哥新增326例新冠肺炎确诊病例-累计确诊17562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticDh9cibpreOIG0wK2XcA200721&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

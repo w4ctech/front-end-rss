@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-22 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-22 20:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-巴基斯坦新增1332例新冠肺炎确诊病例-累计达267400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIbdcwYLabHTBgYN74rq200722&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-​澳大利亚累计确诊新冠肺炎12896例-单日新增病例数达历史最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kfPHrPAwsyPjngUl0QW200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-新加坡新增310例新冠肺炎确诊病例-累计达48744例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1) 

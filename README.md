@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-22 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-22 09:00:20，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -74,8 +74,8 @@
 </summary>
 
 
-- [2020-07-22-哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1) ![](assets/new.png)  
-- [2020-07-22-中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1) ![](assets/new.png)  
+- [2020-07-22-哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1)  
+- [2020-07-22-中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1)  
 - [2020-07-21-巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1)  
 - [2020-07-21-​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1)  
 - [2020-07-21-日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)  
@@ -336,6 +336,7 @@
 </summary>
 
 
+- [2020-07-22-苹果放弃英特尔芯片，为什么会打击美国计算机产业？](http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html) ![](assets/new.png)  
 - [2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html)  
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)  
 - [2020-07-08-SSH-证书登录教程](http://www.ruanyifeng.com/blog/2020/07/ssh-certificate.html)  
@@ -469,6 +470,11 @@
 </summary>
 
 
+- [2020-07-22-Node-中如何引入一个模块及其细节](https://juejin.im/post/5f178c3fe51d4534714aca31) ![](assets/new.png)  
+- [2020-07-22-跨端跨栈连载-5/7：如何借助-Taro-Next-横穿跨端业务线](https://juejin.im/post/5f178b52e51d45349b5cbad0) ![](assets/new.png)  
+- [2020-07-22-Node-中-exports-与-module.exports-有什么区别](https://juejin.im/post/5f1787a75188252e5c57867a) ![](assets/new.png)  
+- [2020-07-21-字符编码（二：简体汉字编码与-ANSI-编码-）](https://juejin.im/post/5f1662826fb9a07ea86ddd43) ![](assets/new.png)  
+- [2020-07-21-Echarts常用API（echarts和echartsInstance）](https://juejin.im/post/5f16629ff265da22df3ce7a6) ![](assets/new.png)  
 - [2020-07-21-「手淘」研发提效黑科技-行业魔方-|-618-淘系前端技术分享](https://juejin.im/post/5f1666b3f265da230e6b7448)  
 - [2020-07-21-Vue完美记住滚动条和实现下拉加载](https://juejin.im/post/5ebcb2d6f265da7beb50b458)  
 - [2020-07-21-JavaScript面试题-由浅到深](https://juejin.im/post/5f1536a75188252e62286b7f)  

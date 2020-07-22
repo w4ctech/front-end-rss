@@ -829,6 +829,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "苹果放弃英特尔芯片，为什么会打击美国计算机产业？",
+        "link": "http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html",
+        "date": "2020-07-22"
+      },
+      {
         "title": "科技爱好者周刊（第 116 期）：世界的未来是一个火药桶",
         "link": "http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html",
         "date": "2020-07-17"
@@ -2030,6 +2035,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "Node 中如何引入一个模块及其细节",
+        "link": "https://juejin.im/post/5f178c3fe51d4534714aca31",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "跨端跨栈连载 5/7：如何借助 Taro Next 横穿跨端业务线",
+        "link": "https://juejin.im/post/5f178b52e51d45349b5cbad0",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "Node 中 exports 与 module.exports 有什么区别",
+        "link": "https://juejin.im/post/5f1787a75188252e5c57867a",
+        "date": "2020-07-22"
+      },
+      {
+        "title": "字符编码（二：简体汉字编码与 ANSI 编码 ）",
+        "link": "https://juejin.im/post/5f1662826fb9a07ea86ddd43",
+        "date": "2020-07-21"
+      },
+      {
+        "title": "Echarts常用API（echarts和echartsInstance）",
+        "link": "https://juejin.im/post/5f16629ff265da22df3ce7a6",
+        "date": "2020-07-21"
+      },
       {
         "title": "「手淘」研发提效黑科技-行业魔方 | 618 淘系前端技术分享",
         "link": "https://juejin.im/post/5f1666b3f265da230e6b7448",

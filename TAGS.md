@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-23 00:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 08:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -576,6 +576,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】埃及公布系列新举措：继续加大公共场所对外开放程度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUXnG0GpudZgovPmeHXe200723&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美公共卫生专家福奇：新冠病毒无法根除-但可以控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Q9tsIRwRMOqtc7Vmf9r200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】韩军边防部队集体感染新冠病毒-已确诊14人感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNgrlgxQwTixbwVlj4ng200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】直面新疫情｜“战时状态”的乌鲁木齐-检测筛查全面铺开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwz1vyot62Gs36Xi1N2M1200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1)
@@ -594,8 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)
 - [【全国新型肺炎疫情实时动态(丁香园)】中国重组新冠疫苗Ⅱ期临床免疫原性获权威认可](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzRvFjYtrLlnKk3rJQmt200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】全球首位！湖北首例新冠肺移植患者出院](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQI0AqkpMwx2ufVQ1rumc200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】乌鲁木齐：为滞留旅客提供免费食宿-免费接送-免费核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJkRDeodCMSOtCVfbW5Lr200721&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

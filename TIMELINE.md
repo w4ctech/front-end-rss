@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-23 00:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-23 08:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-埃及公布系列新举措：继续加大公共场所对外开放程度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUXnG0GpudZgovPmeHXe200723&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-美公共卫生专家福奇：新冠病毒无法根除-但可以控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Q9tsIRwRMOqtc7Vmf9r200723&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-韩军边防部队集体感染新冠病毒-已确诊14人感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNgrlgxQwTixbwVlj4ng200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-22-刚果（金）总统宣布结束“国家卫生紧急状态”累计新冠肺炎确诊病例达8625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCXRv2Vrmjce3JETkUKPo200722&isfromapp=1) 

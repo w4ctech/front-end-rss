@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-07-23 00:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-23-埃及公布系列新举措：继续加大公共场所对外开放程度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUXnG0GpudZgovPmeHXe200723&isfromapp=1) 
+- [2020-07-23-美公共卫生专家福奇：新冠病毒无法根除-但可以控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Q9tsIRwRMOqtc7Vmf9r200723&isfromapp=1) 
 - [2020-07-22-韩军边防部队集体感染新冠病毒-已确诊14人感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNgrlgxQwTixbwVlj4ng200722&isfromapp=1) 
 - [2020-07-22-直面新疫情｜“战时状态”的乌鲁木齐-检测筛查全面铺开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwz1vyot62Gs36Xi1N2M1200722&isfromapp=1) 
 - [2020-07-22-尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1) 

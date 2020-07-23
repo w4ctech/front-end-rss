@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-23 10:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】刚果（金）总统宣布结束“国家卫生紧急状态”累计新冠肺炎确诊病例达8625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCXRv2Vrmjce3JETkUKPo200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​塞尔维亚新增426例新冠肺炎确诊病例-累计22031例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimql77u7l2pXyovfVxaos200722&isfromapp=1)
@@ -561,7 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院17例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200722_1954527.html)
 - [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】巴西里约最大原住民部落首领因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ri6L6nC9u7UMmrXzPKm200721&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】陕西新增1例境外输入确诊病例-从哈萨克斯坦搭乘航班入境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmDxRt1qN4qXwe0HnqeO200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】埃及公布系列新举措：继续加大公共场所对外开放程度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUXnG0GpudZgovPmeHXe200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美公共卫生专家福奇：新冠病毒无法根除-但可以控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Q9tsIRwRMOqtc7Vmf9r200723&isfromapp=1)
@@ -595,7 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​英国时尚产业因疫情打击或倒退10年](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQfKtvtCiQnuVMUSzLnp200721&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】日本一县至今零确诊](https://m.weibo.cn/3057540037/4529226475375504)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

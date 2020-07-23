@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-23 10:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-23 11:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-陕西新增1例境外输入确诊病例-从哈萨克斯坦搭乘航班入境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmDxRt1qN4qXwe0HnqeO200723&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-埃及公布系列新举措：继续加大公共场所对外开放程度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUXnG0GpudZgovPmeHXe200723&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-美公共卫生专家福奇：新冠病毒无法根除-但可以控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Q9tsIRwRMOqtc7Vmf9r200723&isfromapp=1) 

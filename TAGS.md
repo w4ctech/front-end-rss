@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-23 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】刚果（金）总统宣布结束“国家卫生紧急状态”累计新冠肺炎确诊病例达8625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCXRv2Vrmjce3JETkUKPo200722&isfromapp=1)
@@ -561,7 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37724例新冠肺炎确诊病例-累计达1192915例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUe8V5y0o9S0FhY3ym1ID200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院17例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200722_1954527.html)
-- [【全国新型肺炎疫情实时动态(丁香园)】哥伦比亚累计新冠肺炎确诊病例达21万例-国内航班试行复航计划](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuZ5qjmpzDJ1KmoDWFQm200722&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

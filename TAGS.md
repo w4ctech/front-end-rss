@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-23 14:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 16:30:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -542,6 +542,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】津巴布韦首家“中国标准”新冠肺炎诊疗医院将投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2gGSUNoNlhmqHZ8UctHJ200723&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1)
@@ -560,8 +562,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】乌兹别克斯坦新增581例新冠肺炎确诊病例-累计超1.8万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJyoYzpzUiLnLcLWfExz200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】吉尔吉斯斯坦新增1108例新冠肺炎确诊病例-累计近3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixqIGrWNmdvDuZXGAXkuj200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增37724例新冠肺炎确诊病例-累计达1192915例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUe8V5y0o9S0FhY3ym1ID200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】截至7月21日24时新型冠状病毒肺炎疫情最新情况](http://www.nhc.gov.cn/xcs/yqtb/202007/13f951072dfa4c3a8ebf396e308847d7.shtml)
-- [【全国新型肺炎疫情实时动态(丁香园)】北京昨日无新增报告新冠肺炎确诊病例，治愈出院17例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200722_1954527.html)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -576,6 +576,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】8月起-马来西亚强制在公共场所佩戴口罩-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0vIhtXUXJfmOMrRC9aA1200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国抗疫让印度官员看不下去：我可不会看着民众受苦](https://m.weibo.cn/3057540037/4529807805914453)
 - [【全国新型肺炎疫情实时动态(丁香园)】7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】陕西新增1例境外输入确诊病例-从哈萨克斯坦搭乘航班入境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmDxRt1qN4qXwe0HnqeO200723&isfromapp=1)
@@ -595,7 +596,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】一改乐观态度-特朗普呼吁民众戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHy3dQb6lvfq15NisL0zL200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京市属公园游览场所全面开放，限流比例上调至50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQkpHhO1dG9sj7uXEH5c200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】中国驻中非使馆向中非共和国转交抗疫物资](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOOjKwywLsz5FXLeVMp9b200722&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

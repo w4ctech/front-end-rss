@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-23 14:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-23 16:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,7 +74,10 @@
 </summary>
 
 
-- [2020-07-23-印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-8月起-马来西亚强制在公共场所佩戴口罩-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0vIhtXUXJfmOMrRC9aA1200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-津巴布韦首家“中国标准”新冠肺炎诊疗医院将投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2gGSUNoNlhmqHZ8UctHJ200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1)  
 - [2020-07-23-美国抗疫让印度官员看不下去：我可不会看着民众受苦](https://m.weibo.cn/3057540037/4529807805914453)  
 - [2020-07-23-7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1)  
 - [2020-07-23-美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-22-巴基斯坦新增1332例新冠肺炎确诊病例-累计达267400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIbdcwYLabHTBgYN74rq200722&isfromapp=1)  
 - [2020-07-22-​澳大利亚累计确诊新冠肺炎12896例-单日新增病例数达历史最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kfPHrPAwsyPjngUl0QW200722&isfromapp=1)  
 - [2020-07-22-新加坡新增310例新冠肺炎确诊病例-累计达48744例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1)  
-- [2020-07-22-尼泊尔宣布解除封锁](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihmKv63LnWmsRlcPODmTV200722&isfromapp=1)  
-- [2020-07-22-国家卫健委：在全国范围内推行医疗机构、医师、护士电子证照](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipWfGTIFS8UOVjuIs7lfo200722&isfromapp=1)  
-- [2020-07-22-乌鲁木齐：检测机构均达到二级生物实验室安全标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBnQg2wCRb2wSiUOaZvRC200722&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

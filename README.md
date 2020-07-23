@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-24 04:30:20，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-24 07:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -74,6 +74,7 @@
 </summary>
 
 
+- [2020-07-24-纳米比亚新增120例新冠肺炎确诊病例-累计确诊1522例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFDrExxK9Fpvk4Df0JGsr200724&isfromapp=1) ![](assets/new.png)  
 - [2020-07-23-国家卫健委发布肉类加工企业新冠肺炎防控指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIx2xj1ogsrd1FUpNBmat200723&isfromapp=1)  
 - [2020-07-23-日本新增981例新冠肺炎确诊病例-累计确诊28251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitXGsiOmXWOutAOyQzVtl200723&isfromapp=1)  
 - [2020-07-23-大连通报新增病例详情-将对19万人进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmpbF1aJzJNqJJLh7hGM200723&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-22-韩军边防部队集体感染新冠病毒-已确诊14人感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNgrlgxQwTixbwVlj4ng200722&isfromapp=1)  
 - [2020-07-22-尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1)  
 - [2020-07-22-刚果（金）总统宣布结束“国家卫生紧急状态”累计新冠肺炎确诊病例达8625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCXRv2Vrmjce3JETkUKPo200722&isfromapp=1)  
-- [2020-07-22-​塞尔维亚新增426例新冠肺炎确诊病例-累计22031例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimql77u7l2pXyovfVxaos200722&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -560,26 +560,26 @@
 </summary>
 
 
-- [2020-07-24-Win10-自带输入法自动退出选词？](https://www.v2ex.com/t/692682) ![](assets/new.png)  
-- [2020-07-24-Chrome-插件让微信公众号历史文章阅读不再痛苦，在-PC-/Mac-Chrome-浏览器上就能看，而且支持文章列表导出-...](https://www.v2ex.com/t/692681) ![](assets/new.png)  
-- [2020-07-24-使用-JPA-过程中有个疑问](https://www.v2ex.com/t/692679) ![](assets/new.png)  
-- [2020-07-24-好好写软件不行吗](https://www.v2ex.com/t/692678) ![](assets/new.png)  
-- [2020-07-24-炒饭更新-类-Reddit-的多级评论以及境外筛图机器](https://www.v2ex.com/t/692677) ![](assets/new.png)  
-- [2020-07-24-PHP-如何实现异步请求实时返回结果？](https://www.v2ex.com/t/692676) ![](assets/new.png)  
-- [2020-07-24-有没有-wifi-转网线的设备](https://www.v2ex.com/t/692675) ![](assets/new.png)  
-- [2020-07-24-20200724-午夜俱乐部](https://www.v2ex.com/t/692674) ![](assets/new.png)  
-- [2020-07-24-快手-2021-届校招提前批内推-欢迎领取内推资格](https://www.v2ex.com/t/692673) ![](assets/new.png)  
-- [2020-07-24-iCloud-有什么其他的玩法吗？手里有很多个教育版-*-200G-空间](https://www.v2ex.com/t/692672) ![](assets/new.png)  
-- [2020-07-24-大家觉得这套-数据结构与算法-课程如何？还缺什么吗？或者有哪些多余的吗？](https://www.v2ex.com/t/692670) ![](assets/new.png)  
-- [2020-07-23-微信图片文件夹存储数量有限制](https://www.v2ex.com/t/692663) ![](assets/new.png)  
-- [2020-07-23-Big-Sur-Beta3-Bug，有没有谁知道怎么解决](https://www.v2ex.com/t/692662) ![](assets/new.png)  
-- [2020-07-23-互联网产品运营、策划岗招双非硕士的比例大概是多少](https://www.v2ex.com/t/692659) ![](assets/new.png)  
-- [2020-07-23-人生的十字路口，有佛山的前辈来解惑吗](https://www.v2ex.com/t/692657) ![](assets/new.png)  
-- [2020-07-23-Big-sur-beta3-bug，有没有谁知道怎么解决](https://www.v2ex.com/t/692656) ![](assets/new.png)  
-- [2020-07-23-Java-外包私活，项目代码都有啥加密或者类似技巧](https://www.v2ex.com/t/692654) ![](assets/new.png)  
-- [2020-07-23-除了-v2ex，还有哪里有比较好的云计算论坛？](https://www.v2ex.com/t/692653) ![](assets/new.png)  
-- [2020-07-23-上家公司领导推荐我去一家第三方公司.大家觉得能不能去.](https://www.v2ex.com/t/692652) ![](assets/new.png)  
-- [2020-07-23-杭州-华为云内推-Python-招聘部署系统开发工程师~~](https://www.v2ex.com/t/692651) ![](assets/new.png)  
+- [2020-07-24-Win10-自带输入法自动退出选词？](https://www.v2ex.com/t/692682)  
+- [2020-07-24-Chrome-插件让微信公众号历史文章阅读不再痛苦，在-PC-/Mac-Chrome-浏览器上就能看，而且支持文章列表导出-...](https://www.v2ex.com/t/692681)  
+- [2020-07-24-使用-JPA-过程中有个疑问](https://www.v2ex.com/t/692679)  
+- [2020-07-24-好好写软件不行吗](https://www.v2ex.com/t/692678)  
+- [2020-07-24-炒饭更新-类-Reddit-的多级评论以及境外筛图机器](https://www.v2ex.com/t/692677)  
+- [2020-07-24-PHP-如何实现异步请求实时返回结果？](https://www.v2ex.com/t/692676)  
+- [2020-07-24-有没有-wifi-转网线的设备](https://www.v2ex.com/t/692675)  
+- [2020-07-24-20200724-午夜俱乐部](https://www.v2ex.com/t/692674)  
+- [2020-07-24-快手-2021-届校招提前批内推-欢迎领取内推资格](https://www.v2ex.com/t/692673)  
+- [2020-07-24-iCloud-有什么其他的玩法吗？手里有很多个教育版-*-200G-空间](https://www.v2ex.com/t/692672)  
+- [2020-07-24-大家觉得这套-数据结构与算法-课程如何？还缺什么吗？或者有哪些多余的吗？](https://www.v2ex.com/t/692670)  
+- [2020-07-23-微信图片文件夹存储数量有限制](https://www.v2ex.com/t/692663)  
+- [2020-07-23-Big-Sur-Beta3-Bug，有没有谁知道怎么解决](https://www.v2ex.com/t/692662)  
+- [2020-07-23-互联网产品运营、策划岗招双非硕士的比例大概是多少](https://www.v2ex.com/t/692659)  
+- [2020-07-23-人生的十字路口，有佛山的前辈来解惑吗](https://www.v2ex.com/t/692657)  
+- [2020-07-23-Big-sur-beta3-bug，有没有谁知道怎么解决](https://www.v2ex.com/t/692656)  
+- [2020-07-23-Java-外包私活，项目代码都有啥加密或者类似技巧](https://www.v2ex.com/t/692654)  
+- [2020-07-23-除了-v2ex，还有哪里有比较好的云计算论坛？](https://www.v2ex.com/t/692653)  
+- [2020-07-23-上家公司领导推荐我去一家第三方公司.大家觉得能不能去.](https://www.v2ex.com/t/692652)  
+- [2020-07-23-杭州-华为云内推-Python-招聘部署系统开发工程师~~](https://www.v2ex.com/t/692651)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

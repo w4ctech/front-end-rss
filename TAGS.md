@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-23 19:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-23 22:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -577,6 +577,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】大连通报新增病例详情-将对19万人进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmpbF1aJzJNqJJLh7hGM200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】8月起-马来西亚强制在公共场所佩戴口罩-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0vIhtXUXJfmOMrRC9aA1200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国抗疫让印度官员看不下去：我可不会看着民众受苦](https://m.weibo.cn/3057540037/4529807805914453)
 - [【全国新型肺炎疫情实时动态(丁香园)】7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1)
@@ -596,7 +597,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】一改乐观态度-特朗普呼吁民众戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHy3dQb6lvfq15NisL0zL200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】北京市属公园游览场所全面开放，限流比例上调至50%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQkpHhO1dG9sj7uXEH5c200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】驻日美军基地确成日本防疫大漏洞，冲绳暴发聚集性感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikgemsxdnDx2rNXTSXxBS200722&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

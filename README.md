@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-23 19:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-23 22:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,10 @@
 </summary>
 
 
-- [2020-07-23-世卫组织：全球新冠肺炎确诊病例超过1497万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8hXVaSrlRh8FsyuC2Nwk200723&isfromapp=1) ![](assets/new.png)  
-- [2020-07-23-新冠肺炎疫情致意大利企业今年前4个月招聘人数大幅下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM7FGiaHjnwj4HMubqHSy200723&isfromapp=1) ![](assets/new.png)  
-- [2020-07-23-香港新增118例新冠肺炎确诊病例-累计确诊2250例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFirkSZbjnk7nxRbisbo200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-大连通报新增病例详情-将对19万人进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmpbF1aJzJNqJJLh7hGM200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-世卫组织：全球新冠肺炎确诊病例超过1497万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8hXVaSrlRh8FsyuC2Nwk200723&isfromapp=1)  
+- [2020-07-23-新冠肺炎疫情致意大利企业今年前4个月招聘人数大幅下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM7FGiaHjnwj4HMubqHSy200723&isfromapp=1)  
+- [2020-07-23-香港新增118例新冠肺炎确诊病例-累计确诊2250例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFirkSZbjnk7nxRbisbo200723&isfromapp=1)  
 - [2020-07-23-8月起-马来西亚强制在公共场所佩戴口罩-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0vIhtXUXJfmOMrRC9aA1200723&isfromapp=1)  
 - [2020-07-23-津巴布韦首家“中国标准”新冠肺炎诊疗医院将投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2gGSUNoNlhmqHZ8UctHJ200723&isfromapp=1)  
 - [2020-07-23-保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1)  
@@ -93,7 +94,6 @@
 - [2020-07-22-​塞尔维亚新增426例新冠肺炎确诊病例-累计22031例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimql77u7l2pXyovfVxaos200722&isfromapp=1)  
 - [2020-07-22-非洲地区新冠肺炎确诊病例增长至74.9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDkogqgKFhy7FD8KhHkC200722&isfromapp=1)  
 - [2020-07-22-日本新增747例新冠肺炎确诊病例-累计27222例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinCXIKnByyRTTFDTpHhQf200722&isfromapp=1)  
-- [2020-07-22-直面新疫情｜“战时状态”的乌鲁木齐-检测筛查全面铺开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwz1vyot62Gs36Xi1N2M1200722&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

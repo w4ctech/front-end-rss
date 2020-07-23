@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-23 16:30:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-23 19:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,12 @@
 </summary>
 
 
-- [2020-07-23-8月起-马来西亚强制在公共场所佩戴口罩-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0vIhtXUXJfmOMrRC9aA1200723&isfromapp=1) ![](assets/new.png)  
-- [2020-07-23-津巴布韦首家“中国标准”新冠肺炎诊疗医院将投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2gGSUNoNlhmqHZ8UctHJ200723&isfromapp=1) ![](assets/new.png)  
-- [2020-07-23-保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-世卫组织：全球新冠肺炎确诊病例超过1497万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8hXVaSrlRh8FsyuC2Nwk200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-新冠肺炎疫情致意大利企业今年前4个月招聘人数大幅下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM7FGiaHjnwj4HMubqHSy200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-香港新增118例新冠肺炎确诊病例-累计确诊2250例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFirkSZbjnk7nxRbisbo200723&isfromapp=1) ![](assets/new.png)  
+- [2020-07-23-8月起-马来西亚强制在公共场所佩戴口罩-违者罚款](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0vIhtXUXJfmOMrRC9aA1200723&isfromapp=1)  
+- [2020-07-23-津巴布韦首家“中国标准”新冠肺炎诊疗医院将投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2gGSUNoNlhmqHZ8UctHJ200723&isfromapp=1)  
+- [2020-07-23-保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1)  
 - [2020-07-23-印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1)  
 - [2020-07-23-美国抗疫让印度官员看不下去：我可不会看着民众受苦](https://m.weibo.cn/3057540037/4529807805914453)  
 - [2020-07-23-7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-22-非洲地区新冠肺炎确诊病例增长至74.9万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDkogqgKFhy7FD8KhHkC200722&isfromapp=1)  
 - [2020-07-22-日本新增747例新冠肺炎确诊病例-累计27222例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinCXIKnByyRTTFDTpHhQf200722&isfromapp=1)  
 - [2020-07-22-直面新疫情｜“战时状态”的乌鲁木齐-检测筛查全面铺开](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwz1vyot62Gs36Xi1N2M1200722&isfromapp=1)  
-- [2020-07-22-巴基斯坦新增1332例新冠肺炎确诊病例-累计达267400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwIbdcwYLabHTBgYN74rq200722&isfromapp=1)  
-- [2020-07-22-​澳大利亚累计确诊新冠肺炎12896例-单日新增病例数达历史最高值](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6kfPHrPAwsyPjngUl0QW200722&isfromapp=1)  
-- [2020-07-22-新加坡新增310例新冠肺炎确诊病例-累计达48744例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVIVzFf1rlVeCIrYsaA200722&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

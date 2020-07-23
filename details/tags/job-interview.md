@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-23 23:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-24 04:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,6 +9,8 @@
 
 - [2020-07-23-新冠肺炎疫情致意大利企业今年前4个月招聘人数大幅下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM7FGiaHjnwj4HMubqHSy200723&isfromapp=1) 
 - [2020-07-17-2020最新：100道有答案的前端面试题（下）](https://juejin.im/post/5f1004296fb9a07e9e206f57) 
+- [2020-07-23-杭州-华为云内推-Python-招聘部署系统开发工程师~~](https://www.v2ex.com/t/692651) 
+- [2020-07-23-推荐一个-C/C++、Rust、-Linux-、ServiceMesh、程序员面试的公众号](https://www.v2ex.com/t/692648) 
 - [2020-07-20-成都医联招聘啦~~](https://www.v2ex.com/t/691681) 
 - [2020-07-20-迫于招聘困难，组内直招各式容器开发简历「商汤-容器云资深开发工程师-招聘」北京/深圳](https://www.v2ex.com/t/691675) 
 - [2020-07-18-大家面试前会紧张吗？](https://www.v2ex.com/t/691184) 

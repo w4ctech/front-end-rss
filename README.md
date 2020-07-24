@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-25 02:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 04:00:20，:rocket: 更新条数: +828， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -63,6 +63,26 @@
 </summary>
 
 
+- [2020-07-24-大连市新增9例本土确诊病例，27例无症状感染者](http://m.china.caixin.com/m/2020-07-24/101584219.html) ![](assets/new.png)  
+- [2020-07-24-香港单日新增病例再破百-国家卫健委称将提供援助](https://m.caixin.com/m/2020-07-24/101584414.html) ![](assets/new.png)  
+- [2020-07-24-最新疫情：全国新冠累计确诊83750例-本土病例新疆13例辽宁2例](http://m.china.caixin.com/m/2020-07-24/101584089.html) ![](assets/new.png)  
+- [2020-07-24-最新海外疫情：新冠感染者超1536万-累计死亡近63万](http://m.international.caixin.com/m/2020-07-24/101584291.html) ![](assets/new.png)  
+- [2020-07-24-【境内疫情观察】全国连续百日未新增死亡病例（7月23日）](http://m.database.caixin.com/m/2020-07-24/101584188.html) ![](assets/new.png)  
+- [2020-07-24-大流行手记|7月23日：数千万儿童错过早教机会-印巴再刷新单日新增纪录](https://m.caixin.com/m/2020-07-24/101583984.html) ![](assets/new.png)  
+- [2020-07-23-全球新冠病例数在不到一个月内由1000万骤升至1500万](http://m.international.caixin.com/m/2020-07-23/101583801.html) ![](assets/new.png)  
+- [2020-07-23-北京：开放国内低风险区人员预约挂号-逐步开放医院探视](https://m.caixin.com/m/2020-07-23/101583774.html) ![](assets/new.png)  
+- [2020-07-23-【境内疫情观察】新疆（含兵团）新增18例本土确诊病例（7月22日）](http://m.database.caixin.com/m/2020-07-23/101583638.html) ![](assets/new.png)  
+- [2020-07-23-大流行手记|7月22日：全球感染超1500万人-可持续发展受挫](https://m.caixin.com/m/2020-07-23/101583383.html) ![](assets/new.png)  
+- [2020-07-23-7月22日大连共确诊3例新冠-无症状感染者12例](https://m.caixin.com/m/2020-07-23/101583573.html) ![](assets/new.png)  
+- [2020-07-22-【境内疫情观察】新疆（含兵团）新增9例本土确诊病例（7月21日）](http://m.database.caixin.com/m/2020-07-22/101583057.html) ![](assets/new.png)  
+- [2020-07-22-大流行手记|7月21日：欧洲多国疫情反弹-英国政府预订疫苗](https://m.caixin.com/m/2020-07-22/101582893.html) ![](assets/new.png)  
+- [2020-07-22-香港本地新增105宗病例-内地入境强制检疫再延长至9月](http://m.china.caixin.com/m/2020-07-22/101583320.html) ![](assets/new.png)  
+- [2020-07-22-辽宁大连新增1例新冠-系某海产品加工企业员工](http://m.china.caixin.com/m/2020-07-22/101583326.html) ![](assets/new.png)  
+- [2020-07-21-【境内疫情观察】新疆（含兵团）新增8例本土确诊病例（7月20日）](http://m.database.caixin.com/m/2020-07-21/101582558.html) ![](assets/new.png)  
+- [2020-07-21-大流行手记|7月20日：欧盟巨额复苏基金陷僵局-印度单日确诊超4万人](https://m.caixin.com/m/2020-07-21/101582351.html) ![](assets/new.png)  
+- [2020-07-21-香港新冠疫情持续-医院隔离病房告急](http://m.china.caixin.com/m/2020-07-21/101582834.html) ![](assets/new.png)  
+- [2020-07-20-北京所有街乡均为低风险-恢复跨省游](https://m.caixin.com/m/2020-07-20/101582162.html) ![](assets/new.png)  
+- [2020-07-20-【境内疫情观察】新疆新增17例本土确诊病例（7月19日）](http://m.database.caixin.com/m/2020-07-20/101582066.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -74,9 +94,9 @@
 </summary>
 
 
-- [2020-07-24-日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121) ![](assets/new.png)  
+- [2020-07-24-日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1)  
+- [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1)  
+- [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121)  
 - [2020-07-24-肯尼亚政府发言人确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQTo7LPohchpgfz3rFol200724&isfromapp=1)  
 - [2020-07-24-世卫组织：全球新冠肺炎确诊病例累计超1525万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0rok7byLPMjsFeyEfET200724&isfromapp=1)  
 - [2020-07-24-卡塔尔新增394例新冠病毒肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG35UOngXtAYj1iZmINoC200724&isfromapp=1)  

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-24 12:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-24 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -551,6 +551,9 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】哈萨克斯坦新增新冠肺炎确诊病例1687例-累计确诊78486例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0aioVgHsb96hsM3Qsr0200724&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】印度新增49310例新冠肺炎确诊病例-累计确诊1287945例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cO1KLC4otzq5cAkZ7mz200724&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】美国阿拉斯加一海鲜加工厂96名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiocpLNTAJGg26kBB1o9P6200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】6艘抵港货轮被发现船员确诊新冠肺炎，140人被隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMU38j7icykdQsHAtrj0S200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】墨西哥新增8438例新冠肺炎确诊病例-累计确诊370712例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti53IcHodrHQlaFQR1Si9w200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国至少11个州新冠肺炎确诊病例超过10万例-得克萨斯州单日新增病例近万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXNWcCBK2M2cNCaqB1zVI200724&isfromapp=1)
@@ -568,9 +571,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】刚果（金）总统宣布结束“国家卫生紧急状态”累计新冠肺炎确诊病例达8625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCXRv2Vrmjce3JETkUKPo200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】​塞尔维亚新增426例新冠肺炎确诊病例-累计22031例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimql77u7l2pXyovfVxaos200722&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

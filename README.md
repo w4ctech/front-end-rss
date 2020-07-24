@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-25 04:00:20，:rocket: 更新条数: +828， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -63,26 +63,26 @@
 </summary>
 
 
-- [2020-07-24-大连市新增9例本土确诊病例，27例无症状感染者](http://m.china.caixin.com/m/2020-07-24/101584219.html) ![](assets/new.png)  
-- [2020-07-24-香港单日新增病例再破百-国家卫健委称将提供援助](https://m.caixin.com/m/2020-07-24/101584414.html) ![](assets/new.png)  
-- [2020-07-24-最新疫情：全国新冠累计确诊83750例-本土病例新疆13例辽宁2例](http://m.china.caixin.com/m/2020-07-24/101584089.html) ![](assets/new.png)  
-- [2020-07-24-最新海外疫情：新冠感染者超1536万-累计死亡近63万](http://m.international.caixin.com/m/2020-07-24/101584291.html) ![](assets/new.png)  
-- [2020-07-24-【境内疫情观察】全国连续百日未新增死亡病例（7月23日）](http://m.database.caixin.com/m/2020-07-24/101584188.html) ![](assets/new.png)  
-- [2020-07-24-大流行手记|7月23日：数千万儿童错过早教机会-印巴再刷新单日新增纪录](https://m.caixin.com/m/2020-07-24/101583984.html) ![](assets/new.png)  
-- [2020-07-23-全球新冠病例数在不到一个月内由1000万骤升至1500万](http://m.international.caixin.com/m/2020-07-23/101583801.html) ![](assets/new.png)  
-- [2020-07-23-北京：开放国内低风险区人员预约挂号-逐步开放医院探视](https://m.caixin.com/m/2020-07-23/101583774.html) ![](assets/new.png)  
-- [2020-07-23-【境内疫情观察】新疆（含兵团）新增18例本土确诊病例（7月22日）](http://m.database.caixin.com/m/2020-07-23/101583638.html) ![](assets/new.png)  
-- [2020-07-23-大流行手记|7月22日：全球感染超1500万人-可持续发展受挫](https://m.caixin.com/m/2020-07-23/101583383.html) ![](assets/new.png)  
-- [2020-07-23-7月22日大连共确诊3例新冠-无症状感染者12例](https://m.caixin.com/m/2020-07-23/101583573.html) ![](assets/new.png)  
-- [2020-07-22-【境内疫情观察】新疆（含兵团）新增9例本土确诊病例（7月21日）](http://m.database.caixin.com/m/2020-07-22/101583057.html) ![](assets/new.png)  
-- [2020-07-22-大流行手记|7月21日：欧洲多国疫情反弹-英国政府预订疫苗](https://m.caixin.com/m/2020-07-22/101582893.html) ![](assets/new.png)  
-- [2020-07-22-香港本地新增105宗病例-内地入境强制检疫再延长至9月](http://m.china.caixin.com/m/2020-07-22/101583320.html) ![](assets/new.png)  
-- [2020-07-22-辽宁大连新增1例新冠-系某海产品加工企业员工](http://m.china.caixin.com/m/2020-07-22/101583326.html) ![](assets/new.png)  
-- [2020-07-21-【境内疫情观察】新疆（含兵团）新增8例本土确诊病例（7月20日）](http://m.database.caixin.com/m/2020-07-21/101582558.html) ![](assets/new.png)  
-- [2020-07-21-大流行手记|7月20日：欧盟巨额复苏基金陷僵局-印度单日确诊超4万人](https://m.caixin.com/m/2020-07-21/101582351.html) ![](assets/new.png)  
-- [2020-07-21-香港新冠疫情持续-医院隔离病房告急](http://m.china.caixin.com/m/2020-07-21/101582834.html) ![](assets/new.png)  
-- [2020-07-20-北京所有街乡均为低风险-恢复跨省游](https://m.caixin.com/m/2020-07-20/101582162.html) ![](assets/new.png)  
-- [2020-07-20-【境内疫情观察】新疆新增17例本土确诊病例（7月19日）](http://m.database.caixin.com/m/2020-07-20/101582066.html) ![](assets/new.png)  
+- [2020-07-24-大连市新增9例本土确诊病例，27例无症状感染者](http://m.china.caixin.com/m/2020-07-24/101584219.html)  
+- [2020-07-24-香港单日新增病例再破百-国家卫健委称将提供援助](https://m.caixin.com/m/2020-07-24/101584414.html)  
+- [2020-07-24-最新疫情：全国新冠累计确诊83750例-本土病例新疆13例辽宁2例](http://m.china.caixin.com/m/2020-07-24/101584089.html)  
+- [2020-07-24-最新海外疫情：新冠感染者超1536万-累计死亡近63万](http://m.international.caixin.com/m/2020-07-24/101584291.html)  
+- [2020-07-24-【境内疫情观察】全国连续百日未新增死亡病例（7月23日）](http://m.database.caixin.com/m/2020-07-24/101584188.html)  
+- [2020-07-24-大流行手记|7月23日：数千万儿童错过早教机会-印巴再刷新单日新增纪录](https://m.caixin.com/m/2020-07-24/101583984.html)  
+- [2020-07-23-全球新冠病例数在不到一个月内由1000万骤升至1500万](http://m.international.caixin.com/m/2020-07-23/101583801.html)  
+- [2020-07-23-北京：开放国内低风险区人员预约挂号-逐步开放医院探视](https://m.caixin.com/m/2020-07-23/101583774.html)  
+- [2020-07-23-【境内疫情观察】新疆（含兵团）新增18例本土确诊病例（7月22日）](http://m.database.caixin.com/m/2020-07-23/101583638.html)  
+- [2020-07-23-大流行手记|7月22日：全球感染超1500万人-可持续发展受挫](https://m.caixin.com/m/2020-07-23/101583383.html)  
+- [2020-07-23-7月22日大连共确诊3例新冠-无症状感染者12例](https://m.caixin.com/m/2020-07-23/101583573.html)  
+- [2020-07-22-【境内疫情观察】新疆（含兵团）新增9例本土确诊病例（7月21日）](http://m.database.caixin.com/m/2020-07-22/101583057.html)  
+- [2020-07-22-大流行手记|7月21日：欧洲多国疫情反弹-英国政府预订疫苗](https://m.caixin.com/m/2020-07-22/101582893.html)  
+- [2020-07-22-香港本地新增105宗病例-内地入境强制检疫再延长至9月](http://m.china.caixin.com/m/2020-07-22/101583320.html)  
+- [2020-07-22-辽宁大连新增1例新冠-系某海产品加工企业员工](http://m.china.caixin.com/m/2020-07-22/101583326.html)  
+- [2020-07-21-【境内疫情观察】新疆（含兵团）新增8例本土确诊病例（7月20日）](http://m.database.caixin.com/m/2020-07-21/101582558.html)  
+- [2020-07-21-大流行手记|7月20日：欧盟巨额复苏基金陷僵局-印度单日确诊超4万人](https://m.caixin.com/m/2020-07-21/101582351.html)  
+- [2020-07-21-香港新冠疫情持续-医院隔离病房告急](http://m.china.caixin.com/m/2020-07-21/101582834.html)  
+- [2020-07-20-北京所有街乡均为低风险-恢复跨省游](https://m.caixin.com/m/2020-07-20/101582162.html)  
+- [2020-07-20-【境内疫情观察】新疆新增17例本土确诊病例（7月19日）](http://m.database.caixin.com/m/2020-07-20/101582066.html)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-07-25-世卫组织：全球新冠肺炎新增284196例-美洲区域确诊超过800万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisUrmWv8v0HLv7Az8z9bA200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-世卫组织：全球新冠肺炎确诊病例超过1529万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifTs0d71UkNlIbItEPWpZ200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-美疾控中心要求学校重新开-忽略潜在风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMY0LA1MzQGY0EXsFQP4200725&isfromapp=1) ![](assets/new.png)  
 - [2020-07-24-日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1)  
 - [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1)  
 - [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121)  
@@ -111,9 +114,6 @@
 - [2020-07-24-墨西哥新增8438例新冠肺炎确诊病例-累计确诊370712例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti53IcHodrHQlaFQR1Si9w200724&isfromapp=1)  
 - [2020-07-24-美国至少11个州新冠肺炎确诊病例超过10万例-得克萨斯州单日新增病例近万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXNWcCBK2M2cNCaqB1zVI200724&isfromapp=1)  
 - [2020-07-24-美国确诊新冠新增100万人只用了15天](https://m.weibo.cn/3057540037/4530142510326341)  
-- [2020-07-24-15天新增100万，美国新冠肺炎累计确诊病例超402万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRycJ5Jcnd50XsvXCV0e9200724&isfromapp=1)  
-- [2020-07-24-北京23日无新增新冠肺炎确诊病例-治愈出院14例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipLhKUdr7mdQqitADKNx8200724&isfromapp=1)  
-- [2020-07-24-广东23日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2io24u4YZUqf506SsOhI200724&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

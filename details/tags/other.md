@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-07-24 20:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-25 02:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1) 
+- [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121) 
 - [2020-07-24-辽宁大连迅速进入战时状态-坚决遏制疫情蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5Svf3pvUiG7cvZXiZLN200724&isfromapp=1) 
 - [2020-07-24-美国确诊新冠新增100万人只用了15天](https://m.weibo.cn/3057540037/4530142510326341) 
 - [2020-07-23-大连通报新增病例详情-将对19万人进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmpbF1aJzJNqJJLh7hGM200723&isfromapp=1) 

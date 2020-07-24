@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-24 20:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-25 02:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -551,6 +551,7 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】肯尼亚政府发言人确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQTo7LPohchpgfz3rFol200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：全球新冠肺炎确诊病例累计超1525万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0rok7byLPMjsFeyEfET200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】卡塔尔新增394例新冠病毒肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG35UOngXtAYj1iZmINoC200724&isfromapp=1)
@@ -570,7 +571,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】辽宁23日新增2例本土新冠肺炎确诊病例-均为大连市报告病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1eZ4Nppr4CU7DQx5RxiN200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】纳米比亚新增120例新冠肺炎确诊病例-累计确诊1522例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFDrExxK9Fpvk4Df0JGsr200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】国家卫健委发布肉类加工企业新冠肺炎防控指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIx2xj1ogsrd1FUpNBmat200723&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】日本新增981例新冠肺炎确诊病例-累计确诊28251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitXGsiOmXWOutAOyQzVtl200723&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -585,6 +585,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121)
 - [【全国新型肺炎疫情实时动态(丁香园)】辽宁大连迅速进入战时状态-坚决遏制疫情蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5Svf3pvUiG7cvZXiZLN200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国确诊新冠新增100万人只用了15天](https://m.weibo.cn/3057540037/4530142510326341)
 - [【全国新型肺炎疫情实时动态(丁香园)】大连通报新增病例详情-将对19万人进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmpbF1aJzJNqJJLh7hGM200723&isfromapp=1)
@@ -603,8 +605,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】医护人员不怕中暑了！上海首台户外核酸采样工作柜启用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieEHoxPaW9HqxlGv0iZG200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】​希腊7月旅游业重启后-境外输入病例占全部新增病例48.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfAOPAL1Ay3XUVJ54ZA1200722&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】香港将美国列入疫情高危地区-到港前须提供核酸检测证明](https://m.weibo.cn/3057540037/4529498764360171)
-- [【全国新型肺炎疫情实时动态(丁香园)】​香港特区室内公共场所须强制佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLHaRi9TammulGtJSIVmx200722&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国疫情加速恶化-卫生官员称医院像战场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOmRQuJtLrR3iAmiNttp6200722&isfromapp=1)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

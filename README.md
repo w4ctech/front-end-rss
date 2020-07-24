@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-24 20:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 02:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,10 +74,13 @@
 </summary>
 
 
-- [2020-07-24-肯尼亚政府发言人确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQTo7LPohchpgfz3rFol200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-世卫组织：全球新冠肺炎确诊病例累计超1525万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0rok7byLPMjsFeyEfET200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-卡塔尔新增394例新冠病毒肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG35UOngXtAYj1iZmINoC200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-巴基斯坦新增1209例新冠肺炎确诊病例-累计确诊270400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUqMh4pEbyhYRpmAwm3VS200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121) ![](assets/new.png)  
+- [2020-07-24-肯尼亚政府发言人确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQTo7LPohchpgfz3rFol200724&isfromapp=1)  
+- [2020-07-24-世卫组织：全球新冠肺炎确诊病例累计超1525万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0rok7byLPMjsFeyEfET200724&isfromapp=1)  
+- [2020-07-24-卡塔尔新增394例新冠病毒肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG35UOngXtAYj1iZmINoC200724&isfromapp=1)  
+- [2020-07-24-巴基斯坦新增1209例新冠肺炎确诊病例-累计确诊270400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUqMh4pEbyhYRpmAwm3VS200724&isfromapp=1)  
 - [2020-07-24-印尼新增新冠肺炎确诊病例1761例-累计确诊95418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINELDJrNmsOWM7FTBOLI200724&isfromapp=1)  
 - [2020-07-24-伊朗新增新冠肺炎确诊病例2489例-累计确诊286523例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirev7cUZULR6wqE2eXIvc200724&isfromapp=1)  
 - [2020-07-24-哈萨克斯坦新增新冠肺炎确诊病例1687例-累计确诊78486例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0aioVgHsb96hsM3Qsr0200724&isfromapp=1)  
@@ -91,9 +94,6 @@
 - [2020-07-24-15天新增100万，美国新冠肺炎累计确诊病例超402万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRycJ5Jcnd50XsvXCV0e9200724&isfromapp=1)  
 - [2020-07-24-北京23日无新增新冠肺炎确诊病例-治愈出院14例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipLhKUdr7mdQqitADKNx8200724&isfromapp=1)  
 - [2020-07-24-广东23日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2io24u4YZUqf506SsOhI200724&isfromapp=1)  
-- [2020-07-24-国家卫健委：23日全国新增新冠肺炎确诊病例21例-其中本土病例15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikdf3mVLhZEJtbS9cvu9R200724&isfromapp=1)  
-- [2020-07-24-辽宁23日新增2例本土新冠肺炎确诊病例-均为大连市报告病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1eZ4Nppr4CU7DQx5RxiN200724&isfromapp=1)  
-- [2020-07-24-纳米比亚新增120例新冠肺炎确诊病例-累计确诊1522例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFDrExxK9Fpvk4Df0JGsr200724&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

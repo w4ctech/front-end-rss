@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-24 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-24 19:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -551,6 +551,8 @@
 
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】印尼新增新冠肺炎确诊病例1761例-累计确诊95418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINELDJrNmsOWM7FTBOLI200724&isfromapp=1)
+- [【全国新型肺炎疫情实时动态(丁香园)】伊朗新增新冠肺炎确诊病例2489例-累计确诊286523例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirev7cUZULR6wqE2eXIvc200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】哈萨克斯坦新增新冠肺炎确诊病例1687例-累计确诊78486例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0aioVgHsb96hsM3Qsr0200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】印度新增49310例新冠肺炎确诊病例-累计确诊1287945例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cO1KLC4otzq5cAkZ7mz200724&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】美国阿拉斯加一海鲜加工厂96名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiocpLNTAJGg26kBB1o9P6200724&isfromapp=1)
@@ -569,8 +571,6 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】香港新增118例新冠肺炎确诊病例-累计确诊2250例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFirkSZbjnk7nxRbisbo200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】津巴布韦首家“中国标准”新冠肺炎诊疗医院将投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2gGSUNoNlhmqHZ8UctHJ200723&isfromapp=1)
 - [【全国新型肺炎疫情实时动态(丁香园)】保加利亚新增新冠肺炎确诊病例330例-累计确诊9584例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiteHjtYbagBayG8AQfDQg200723&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】印度新增新冠肺炎确诊病例45720例-累计确诊1238635例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil76ZeSLGTFscYGYpfuxr200723&isfromapp=1)
-- [【全国新型肺炎疫情实时动态(丁香园)】美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)
 - [......【查看更多】......](./details/tags/肺炎疫情.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

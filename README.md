@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-24 16:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-24 19:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -74,9 +74,11 @@
 </summary>
 
 
-- [2020-07-24-哈萨克斯坦新增新冠肺炎确诊病例1687例-累计确诊78486例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0aioVgHsb96hsM3Qsr0200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-印度新增49310例新冠肺炎确诊病例-累计确诊1287945例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cO1KLC4otzq5cAkZ7mz200724&isfromapp=1) ![](assets/new.png)  
-- [2020-07-24-美国阿拉斯加一海鲜加工厂96名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiocpLNTAJGg26kBB1o9P6200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-印尼新增新冠肺炎确诊病例1761例-累计确诊95418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINELDJrNmsOWM7FTBOLI200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-伊朗新增新冠肺炎确诊病例2489例-累计确诊286523例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirev7cUZULR6wqE2eXIvc200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-哈萨克斯坦新增新冠肺炎确诊病例1687例-累计确诊78486例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0aioVgHsb96hsM3Qsr0200724&isfromapp=1)  
+- [2020-07-24-印度新增49310例新冠肺炎确诊病例-累计确诊1287945例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cO1KLC4otzq5cAkZ7mz200724&isfromapp=1)  
+- [2020-07-24-美国阿拉斯加一海鲜加工厂96名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiocpLNTAJGg26kBB1o9P6200724&isfromapp=1)  
 - [2020-07-24-6艘抵港货轮被发现船员确诊新冠肺炎，140人被隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMU38j7icykdQsHAtrj0S200724&isfromapp=1)  
 - [2020-07-24-辽宁大连迅速进入战时状态-坚决遏制疫情蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5Svf3pvUiG7cvZXiZLN200724&isfromapp=1)  
 - [2020-07-24-墨西哥新增8438例新冠肺炎确诊病例-累计确诊370712例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti53IcHodrHQlaFQR1Si9w200724&isfromapp=1)  
@@ -92,8 +94,6 @@
 - [2020-07-23-日本新增981例新冠肺炎确诊病例-累计确诊28251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitXGsiOmXWOutAOyQzVtl200723&isfromapp=1)  
 - [2020-07-23-大连通报新增病例详情-将对19万人进行核酸检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmpbF1aJzJNqJJLh7hGM200723&isfromapp=1)  
 - [2020-07-23-世卫组织：全球新冠肺炎确诊病例超过1497万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8hXVaSrlRh8FsyuC2Nwk200723&isfromapp=1)  
-- [2020-07-23-新冠肺炎疫情致意大利企业今年前4个月招聘人数大幅下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM7FGiaHjnwj4HMubqHSy200723&isfromapp=1)  
-- [2020-07-23-香港新增118例新冠肺炎确诊病例-累计确诊2250例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFirkSZbjnk7nxRbisbo200723&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

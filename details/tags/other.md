@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-24 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-24 10:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -324,6 +324,21 @@
 - [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13588&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-15-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-07-24-平台-or-职位，你怎么选？|-码农周刊第-313-期](https://toutiao.io/k/tyosir9) 
+- [2020-07-24-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [2020-07-24-Spring-Boot-2-整合-FreeMarker-模板，完成页面静态化处理](https://toutiao.io/k/hczn3t6) 
+- [2020-07-24-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [2020-07-24-听说你还没学-Spring-就被源码编译劝退了？30-+-张图带你玩转-Spring-编译](https://toutiao.io/k/ud7pxsp) 
+- [2020-07-24-给程序员的中文写作指北](https://toutiao.io/k/vz084w3) 
+- [2020-07-24-分布式-ID-生成服务，真的有必要搞一个](https://toutiao.io/k/5vgfah7) 
+- [2020-07-24-模拟实战京东搜索效果（一）](https://toutiao.io/k/iea7d1a) 
+- [2020-07-24-FaaS-给前端带来了什么？](https://toutiao.io/k/rlfslbt) 
+- [2020-07-24-探索性测试在敏捷项目中的运用](https://toutiao.io/k/vbmov0n) 
+- [2020-07-24-Istio-中的授权策略详解](https://toutiao.io/k/75nllyw) 
+- [2020-07-24-容器化-Go-应用：基础镜像的未知时区问题](https://toutiao.io/k/4ktp8qj) 
+- [2020-07-24-DevSecOps-in-Baidu](https://toutiao.io/k/dp8uxlq) 
+- [2020-07-24-Java-基础-16：一个例子弄懂什么叫继承?](https://toutiao.io/k/czbxryr) 
+- [2020-07-24-译-求你不要再写没用的提交信息了](https://toutiao.io/k/o96r259) 
 - [2020-07-22-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
 - [2020-07-22-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
 - [2020-07-22-微前端自检清单](https://toutiao.io/k/x3e2bi2) 

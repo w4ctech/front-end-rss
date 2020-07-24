@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-24 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-24 10:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,11 @@
 </summary>
 
 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-24-15天新增100万，美国新冠肺炎累计确诊病例超402万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRycJ5Jcnd50XsvXCV0e9200724&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-24-北京23日无新增新冠肺炎确诊病例-治愈出院14例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipLhKUdr7mdQqitADKNx8200724&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-24-广东23日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2io24u4YZUqf506SsOhI200724&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-24-国家卫健委：23日全国新增新冠肺炎确诊病例21例-其中本土病例15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikdf3mVLhZEJtbS9cvu9R200724&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-24-辽宁23日新增2例本土新冠肺炎确诊病例-均为大连市报告病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1eZ4Nppr4CU7DQx5RxiN200724&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-24-纳米比亚新增120例新冠肺炎确诊病例-累计确诊1522例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFDrExxK9Fpvk4Df0JGsr200724&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-国家卫健委发布肉类加工企业新冠肺炎防控指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIx2xj1ogsrd1FUpNBmat200723&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-23-日本新增981例新冠肺炎确诊病例-累计确诊28251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitXGsiOmXWOutAOyQzVtl200723&isfromapp=1) 
@@ -513,6 +518,27 @@
 - [【技术头条】2020-07-15-快应用开发工具-3.1-版本发布-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13587&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-v3-1-release%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-15-初级Java工程师也能轻松进行JVM调优了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13586&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmUqtaAwA5ajNVhNaI-XYVw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-07-15-如何快捷转微信小程序为快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13585&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-transfer-wechat-miniprogram-to-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [【开发者头条】2020-07-24-平台-or-职位，你怎么选？|-码农周刊第-313-期](https://toutiao.io/k/tyosir9) 
+- [【开发者头条】2020-07-24-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [【开发者头条】2020-07-24-Elasticsearch-如何存储关联关系？](https://toutiao.io/k/m3fhvve) 
+- [【开发者头条】2020-07-24-Spring-Boot-2-整合-FreeMarker-模板，完成页面静态化处理](https://toutiao.io/k/hczn3t6) 
+- [【开发者头条】2020-07-24-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [【开发者头条】2020-07-24-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
+- [【开发者头条】2020-07-24-浅谈常见数据结构和算法的应用系列（一）](https://toutiao.io/k/bulbsa4) 
+- [【开发者头条】2020-07-24-Python-下-Lambda-和相关函数组合使用小米加步枪](https://toutiao.io/k/b1ned3t) 
+- [【开发者头条】2020-07-24-听说你还没学-Spring-就被源码编译劝退了？30-+-张图带你玩转-Spring-编译](https://toutiao.io/k/ud7pxsp) 
+- [【开发者头条】2020-07-24-给程序员的中文写作指北](https://toutiao.io/k/vz084w3) 
+- [【开发者头条】2020-07-24-分布式-ID-生成服务，真的有必要搞一个](https://toutiao.io/k/5vgfah7) 
+- [【开发者头条】2020-07-24-译-React-中请求远程数据的四种方法](https://toutiao.io/k/xya1t0o) 
+- [【开发者头条】2020-07-24-模拟实战京东搜索效果（一）](https://toutiao.io/k/iea7d1a) 
+- [【开发者头条】2020-07-24-FaaS-给前端带来了什么？](https://toutiao.io/k/rlfslbt) 
+- [【开发者头条】2020-07-24-探索性测试在敏捷项目中的运用](https://toutiao.io/k/vbmov0n) 
+- [【开发者头条】2020-07-24-Istio-中的授权策略详解](https://toutiao.io/k/75nllyw) 
+- [【开发者头条】2020-07-24-容器化-Go-应用：基础镜像的未知时区问题](https://toutiao.io/k/4ktp8qj) 
+- [【开发者头条】2020-07-24-阿里、字节：一套高效的-iOS-面试题之我整理的答案之-runtime-相关问题（一）](https://toutiao.io/k/g7kajja) 
+- [【开发者头条】2020-07-24-DevSecOps-in-Baidu](https://toutiao.io/k/dp8uxlq) 
+- [【开发者头条】2020-07-24-Java-基础-16：一个例子弄懂什么叫继承?](https://toutiao.io/k/czbxryr) 
+- [【开发者头条】2020-07-24-译-求你不要再写没用的提交信息了](https://toutiao.io/k/o96r259) 
 - [【开发者头条】2020-07-22-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
 - [【开发者头条】2020-07-22-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) 
 - [【开发者头条】2020-07-22-20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd) 

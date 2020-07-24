@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-24 08:30:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-24 10:00:21，:rocket: 更新条数: +26， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -37,7 +37,7 @@
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)  
+- [开发者头条](#开发者头条)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -74,6 +74,11 @@
 </summary>
 
 
+- [2020-07-24-15天新增100万，美国新冠肺炎累计确诊病例超402万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRycJ5Jcnd50XsvXCV0e9200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-北京23日无新增新冠肺炎确诊病例-治愈出院14例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipLhKUdr7mdQqitADKNx8200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-广东23日新增5例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2io24u4YZUqf506SsOhI200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-国家卫健委：23日全国新增新冠肺炎确诊病例21例-其中本土病例15例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikdf3mVLhZEJtbS9cvu9R200724&isfromapp=1) ![](assets/new.png)  
+- [2020-07-24-辽宁23日新增2例本土新冠肺炎确诊病例-均为大连市报告病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1eZ4Nppr4CU7DQx5RxiN200724&isfromapp=1) ![](assets/new.png)  
 - [2020-07-24-纳米比亚新增120例新冠肺炎确诊病例-累计确诊1522例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFDrExxK9Fpvk4Df0JGsr200724&isfromapp=1)  
 - [2020-07-23-国家卫健委发布肉类加工企业新冠肺炎防控指南](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIx2xj1ogsrd1FUpNBmat200723&isfromapp=1)  
 - [2020-07-23-日本新增981例新冠肺炎确诊病例-累计确诊28251例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitXGsiOmXWOutAOyQzVtl200723&isfromapp=1)  
@@ -89,11 +94,6 @@
 - [2020-07-23-7月27日零时起上海市对入境人员实施有条件“7天集中+7天居家”隔离措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiomsmlLgM97X7dzcAQ2xW200723&isfromapp=1)  
 - [2020-07-23-美国白宫埃森奥威尔办公区一咖啡厅因员工确诊新冠肺炎关闭](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Qjtb7W9CFzFFid7NPz7200723&isfromapp=1)  
 - [2020-07-23-陕西新增1例境外输入确诊病例-从哈萨克斯坦搭乘航班入境](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmDxRt1qN4qXwe0HnqeO200723&isfromapp=1)  
-- [2020-07-23-埃及公布系列新举措：继续加大公共场所对外开放程度](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYUXnG0GpudZgovPmeHXe200723&isfromapp=1)  
-- [2020-07-23-美公共卫生专家福奇：新冠病毒无法根除-但可以控制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Q9tsIRwRMOqtc7Vmf9r200723&isfromapp=1)  
-- [2020-07-22-韩军边防部队集体感染新冠病毒-已确诊14人感染](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNgrlgxQwTixbwVlj4ng200722&isfromapp=1)  
-- [2020-07-22-尼泊尔新增100例新冠肺炎确诊病例-累计确诊18094例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHOudmVtZ06qZt92qUtlJ200722&isfromapp=1)  
-- [2020-07-22-刚果（金）总统宣布结束“国家卫生紧急状态”累计新冠肺炎确诊病例达8625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCXRv2Vrmjce3JETkUKPo200722&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -336,7 +336,7 @@
 </summary>
 
 
-- [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html) ![](assets/new.png)  
+- [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html)  
 - [2020-07-22-苹果放弃英特尔芯片，为什么会打击美国计算机产业？](http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html)  
 - [2020-07-17-科技爱好者周刊（第-116-期）：世界的未来是一个火药桶](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-116.html)  
 - [2020-07-10-科技爱好者周刊（第-115-期）：保护你的-DNA，不要泄漏](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-115.html)  
@@ -623,26 +623,26 @@
 </summary>
 
 
-- [2020-07-22-SQL-注入笔记](https://toutiao.io/k/6zh1ffv)  
-- [2020-07-22-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)  
-- [2020-07-22-20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd)  
-- [2020-07-22-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo)  
-- [2020-07-22-微前端自检清单](https://toutiao.io/k/x3e2bi2)  
-- [2020-07-22-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn)  
-- [2020-07-22-译-为什么-Go-的错误处理很棒？还是有人很喜欢的嘛](https://toutiao.io/k/o35s5kx)  
-- [2020-07-22-和程序媛233酱一起刷-LeetCode-系列](https://toutiao.io/k/ft81cg1)  
-- [2020-07-22-用户画像在携程商旅的实践](https://toutiao.io/k/dem24xk)  
-- [2020-07-22-K8S-集群之-Harbor-仓库、DNS-和-ETCD-部署](https://toutiao.io/k/ku83ll5)  
-- [2020-07-22-理解-Spring-系列：BeanFactory,-Spring-IoC-的核心担当](https://toutiao.io/k/z7dpcu4)  
-- [2020-07-22-字节前端提前批面试题：下触发了几次回流几次重绘](https://toutiao.io/k/njtx5kl)  
-- [2020-07-22-敏捷测试宣言与原则解读](https://toutiao.io/k/6477uxu)  
-- [2020-07-22-Python-为什么用-#-号作注释符？](https://toutiao.io/k/2ek23m4)  
-- [2020-07-22-再谈几种-Nginx-后门：发现与修复](https://toutiao.io/k/62dkezx)  
-- [2020-07-22-架构师词条：业务流程建模与标记-BPMN](https://toutiao.io/k/r9ihlxm)  
-- [2020-07-22-译-Array.flat-函数的深入探讨](https://toutiao.io/k/01lefe5)  
-- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://toutiao.io/k/n7jc9pv)  
-- [2020-07-22-R-语言：读写-txt、csv、excel-文件](https://toutiao.io/k/1tbbitc)  
-- [2020-07-22-CVPR-2020-论文大盘点：动作检测与动作分割篇](https://toutiao.io/k/6u6iwle)  
+- [2020-07-24-平台-or-职位，你怎么选？|-码农周刊第-313-期](https://toutiao.io/k/tyosir9) ![](assets/new.png)  
+- [2020-07-24-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-07-24-Elasticsearch-如何存储关联关系？](https://toutiao.io/k/m3fhvve) ![](assets/new.png)  
+- [2020-07-24-Spring-Boot-2-整合-FreeMarker-模板，完成页面静态化处理](https://toutiao.io/k/hczn3t6) ![](assets/new.png)  
+- [2020-07-24-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-07-24-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-07-24-浅谈常见数据结构和算法的应用系列（一）](https://toutiao.io/k/bulbsa4) ![](assets/new.png)  
+- [2020-07-24-Python-下-Lambda-和相关函数组合使用小米加步枪](https://toutiao.io/k/b1ned3t) ![](assets/new.png)  
+- [2020-07-24-听说你还没学-Spring-就被源码编译劝退了？30-+-张图带你玩转-Spring-编译](https://toutiao.io/k/ud7pxsp) ![](assets/new.png)  
+- [2020-07-24-给程序员的中文写作指北](https://toutiao.io/k/vz084w3) ![](assets/new.png)  
+- [2020-07-24-分布式-ID-生成服务，真的有必要搞一个](https://toutiao.io/k/5vgfah7) ![](assets/new.png)  
+- [2020-07-24-译-React-中请求远程数据的四种方法](https://toutiao.io/k/xya1t0o) ![](assets/new.png)  
+- [2020-07-24-模拟实战京东搜索效果（一）](https://toutiao.io/k/iea7d1a) ![](assets/new.png)  
+- [2020-07-24-FaaS-给前端带来了什么？](https://toutiao.io/k/rlfslbt) ![](assets/new.png)  
+- [2020-07-24-探索性测试在敏捷项目中的运用](https://toutiao.io/k/vbmov0n) ![](assets/new.png)  
+- [2020-07-24-Istio-中的授权策略详解](https://toutiao.io/k/75nllyw) ![](assets/new.png)  
+- [2020-07-24-容器化-Go-应用：基础镜像的未知时区问题](https://toutiao.io/k/4ktp8qj) ![](assets/new.png)  
+- [2020-07-24-阿里、字节：一套高效的-iOS-面试题之我整理的答案之-runtime-相关问题（一）](https://toutiao.io/k/g7kajja) ![](assets/new.png)  
+- [2020-07-24-DevSecOps-in-Baidu](https://toutiao.io/k/dp8uxlq) ![](assets/new.png)  
+- [2020-07-24-Java-基础-16：一个例子弄懂什么叫继承?](https://toutiao.io/k/czbxryr) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

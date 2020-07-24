@@ -11,6 +11,31 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "15天新增100万，美国新冠肺炎累计确诊病例超402万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRycJ5Jcnd50XsvXCV0e9200724&isfromapp=1",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "北京23日无新增新冠肺炎确诊病例 治愈出院14例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipLhKUdr7mdQqitADKNx8200724&isfromapp=1",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "广东23日新增5例境外输入新冠肺炎确诊病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2io24u4YZUqf506SsOhI200724&isfromapp=1",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "国家卫健委：23日全国新增新冠肺炎确诊病例21例 其中本土病例15例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikdf3mVLhZEJtbS9cvu9R200724&isfromapp=1",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "辽宁23日新增2例本土新冠肺炎确诊病例 均为大连市报告病例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1eZ4Nppr4CU7DQx5RxiN200724&isfromapp=1",
+        "date": "2020-07-24"
+      },
+      {
         "title": "纳米比亚新增120例新冠肺炎确诊病例 累计确诊1522例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFDrExxK9Fpvk4Df0JGsr200724&isfromapp=1",
         "date": "2020-07-24"
@@ -3481,6 +3506,111 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": [
+      {
+        "title": "平台 or 职位，你怎么选？| 码农周刊第 313 期",
+        "link": "https://toutiao.io/k/tyosir9",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Elasticsearch 如何存储关联关系？",
+        "link": "https://toutiao.io/k/m3fhvve",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Spring Boot 2 整合 FreeMarker 模板，完成页面静态化处理",
+        "link": "https://toutiao.io/k/hczn3t6",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "浅谈常见数据结构和算法的应用系列（一）",
+        "link": "https://toutiao.io/k/bulbsa4",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Python 下 Lambda 和相关函数组合使用小米加步枪",
+        "link": "https://toutiao.io/k/b1ned3t",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "听说你还没学 Spring 就被源码编译劝退了？30 + 张图带你玩转 Spring 编译",
+        "link": "https://toutiao.io/k/ud7pxsp",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "给程序员的中文写作指北",
+        "link": "https://toutiao.io/k/vz084w3",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "分布式 ID 生成服务，真的有必要搞一个",
+        "link": "https://toutiao.io/k/5vgfah7",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "[译] React 中请求远程数据的四种方法",
+        "link": "https://toutiao.io/k/xya1t0o",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "模拟实战京东搜索效果（一）",
+        "link": "https://toutiao.io/k/iea7d1a",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "FaaS 给前端带来了什么？",
+        "link": "https://toutiao.io/k/rlfslbt",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "探索性测试在敏捷项目中的运用",
+        "link": "https://toutiao.io/k/vbmov0n",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Istio 中的授权策略详解",
+        "link": "https://toutiao.io/k/75nllyw",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "容器化 Go 应用：基础镜像的未知时区问题",
+        "link": "https://toutiao.io/k/4ktp8qj",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "阿里、字节：一套高效的 iOS 面试题之我整理的答案之 runtime 相关问题（一）",
+        "link": "https://toutiao.io/k/g7kajja",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "DevSecOps in Baidu",
+        "link": "https://toutiao.io/k/dp8uxlq",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "Java 基础 (16)：一个例子弄懂什么叫继承?",
+        "link": "https://toutiao.io/k/czbxryr",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "[译] 求你不要再写没用的提交信息了",
+        "link": "https://toutiao.io/k/o96r259",
+        "date": "2020-07-24"
+      },
       {
         "title": "SQL 注入笔记",
         "link": "https://toutiao.io/k/6zh1ffv",

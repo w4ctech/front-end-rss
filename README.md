@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-25 12:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 13:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-07-25-美国新冠肺炎确诊病例超409万例-自动口罩售卖机现身机场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti24nLgqymWP5ijKnMEh8I200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-韩国单日确诊激增-创近四个月新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEp66pvjvaMoJKZ4Zp75200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-深圳暂停实施深港互认隔离政策-香港隔离完即入境-需再次隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaqGvCGLCkqDgW01r3P9200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-新冠病毒检测仍呈阳性-巴西总统博索纳罗未戴口罩与人交谈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHiHqRI7OVYDs979px4fn200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-美国新冠肺炎确诊病例超409万例-自动口罩售卖机现身机场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti24nLgqymWP5ijKnMEh8I200725&isfromapp=1)  
+- [2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1)  
+- [2020-07-25-韩国单日确诊激增-创近四个月新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEp66pvjvaMoJKZ4Zp75200725&isfromapp=1)  
+- [2020-07-25-深圳暂停实施深港互认隔离政策-香港隔离完即入境-需再次隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaqGvCGLCkqDgW01r3P9200725&isfromapp=1)  
+- [2020-07-25-新冠病毒检测仍呈阳性-巴西总统博索纳罗未戴口罩与人交谈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHiHqRI7OVYDs979px4fn200725&isfromapp=1)  
 - [2020-07-25-新疆24日新增20例新冠肺炎确诊病例-7170人接受医学观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMwEqCWeKYKYEXWLr1rlr200725&isfromapp=1)  
 - [2020-07-25-国家卫健委：24日新增确诊病例34例-本土病例29例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08971rG97tWLVPeoC22Z200725&isfromapp=1)  
 - [2020-07-25-哥伦比亚累计新冠肺炎病例超过23万-安蒂奥基亚省多名官员病毒检测阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvTXGigE4Y049VIOfGEq200725&isfromapp=1)  
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779) ![](assets/new.png)  
+- [2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69) ![](assets/new.png)  
+- [2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b) ![](assets/new.png)  
+- [2020-07-24-快速搭建Vue3-+-TypeScript项目](https://juejin.im/post/5f1ab3ea6fb9a07e8e4509fc) ![](assets/new.png)  
+- [2020-07-24-JS函数的执行机制](https://juejin.im/post/5f1a9a735188252e7811e15e) ![](assets/new.png)  
 - [2020-07-22-Node-中如何引入一个模块及其细节](https://juejin.im/post/5f178c3fe51d4534714aca31)  
 - [2020-07-22-跨端跨栈连载-5/7：如何借助-Taro-Next-横穿跨端业务线](https://juejin.im/post/5f178b52e51d45349b5cbad0)  
 - [2020-07-22-Node-中-exports-与-module.exports-有什么区别](https://juejin.im/post/5f1787a75188252e5c57867a)  

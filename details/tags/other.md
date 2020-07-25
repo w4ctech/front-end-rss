@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-25 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-25 13:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -878,6 +878,9 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779) 
+- [2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69) 
+- [2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b) 
 - [2020-07-21-字符编码（二：简体汉字编码与-ANSI-编码-）](https://juejin.im/post/5f1662826fb9a07ea86ddd43) 
 - [2020-07-21-Echarts常用API（echarts和echartsInstance）](https://juejin.im/post/5f16629ff265da22df3ce7a6) 
 - [2020-07-21-「手淘」研发提效黑科技-行业魔方-|-618-淘系前端技术分享](https://juejin.im/post/5f1666b3f265da230e6b7448) 

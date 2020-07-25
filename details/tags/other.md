@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-25 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-25 12:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,10 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1) 
+- [2020-07-25-韩国单日确诊激增-创近四个月新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEp66pvjvaMoJKZ4Zp75200725&isfromapp=1) 
+- [2020-07-25-深圳暂停实施深港互认隔离政策-香港隔离完即入境-需再次隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaqGvCGLCkqDgW01r3P9200725&isfromapp=1) 
+- [2020-07-25-新冠病毒检测仍呈阳性-巴西总统博索纳罗未戴口罩与人交谈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHiHqRI7OVYDs979px4fn200725&isfromapp=1) 
 - [2020-07-25-国家卫健委：24日新增确诊病例34例-本土病例29例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08971rG97tWLVPeoC22Z200725&isfromapp=1) 
 - [2020-07-25-福奇：新冠病毒疫苗或2021年后数月才能广泛应用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRnRZDpiy00RP3QSZG4O200725&isfromapp=1) 
 - [2020-07-25-美疾控中心要求学校重新开-忽略潜在风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMY0LA1MzQGY0EXsFQP4200725&isfromapp=1) 

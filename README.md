@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-25 11:00:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 12:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,14 @@
 </summary>
 
 
-- [2020-07-25-新疆24日新增20例新冠肺炎确诊病例-7170人接受医学观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMwEqCWeKYKYEXWLr1rlr200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-国家卫健委：24日新增确诊病例34例-本土病例29例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08971rG97tWLVPeoC22Z200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-哥伦比亚累计新冠肺炎病例超过23万-安蒂奥基亚省多名官员病毒检测阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvTXGigE4Y049VIOfGEq200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-美国新冠肺炎确诊病例超409万例-自动口罩售卖机现身机场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti24nLgqymWP5ijKnMEh8I200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-韩国单日确诊激增-创近四个月新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEp66pvjvaMoJKZ4Zp75200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-深圳暂停实施深港互认隔离政策-香港隔离完即入境-需再次隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaqGvCGLCkqDgW01r3P9200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-新冠病毒检测仍呈阳性-巴西总统博索纳罗未戴口罩与人交谈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHiHqRI7OVYDs979px4fn200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-新疆24日新增20例新冠肺炎确诊病例-7170人接受医学观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMwEqCWeKYKYEXWLr1rlr200725&isfromapp=1)  
+- [2020-07-25-国家卫健委：24日新增确诊病例34例-本土病例29例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08971rG97tWLVPeoC22Z200725&isfromapp=1)  
+- [2020-07-25-哥伦比亚累计新冠肺炎病例超过23万-安蒂奥基亚省多名官员病毒检测阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvTXGigE4Y049VIOfGEq200725&isfromapp=1)  
 - [2020-07-25-福奇：新冠病毒疫苗或2021年后数月才能广泛应用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRnRZDpiy00RP3QSZG4O200725&isfromapp=1)  
 - [2020-07-25-巴西南大河州州长新冠肺炎检测呈阳性-为巴西第10位确诊的州长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHgvN9whdB0ABGWzdSW9D200725&isfromapp=1)  
 - [2020-07-25-世卫组织：全球新冠肺炎新增284196例-美洲区域确诊超过800万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisUrmWv8v0HLv7Az8z9bA200725&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-24-世卫组织：全球新冠肺炎确诊病例累计超1525万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0rok7byLPMjsFeyEfET200724&isfromapp=1)  
 - [2020-07-24-卡塔尔新增394例新冠病毒肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG35UOngXtAYj1iZmINoC200724&isfromapp=1)  
 - [2020-07-24-巴基斯坦新增1209例新冠肺炎确诊病例-累计确诊270400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUqMh4pEbyhYRpmAwm3VS200724&isfromapp=1)  
-- [2020-07-24-印尼新增新冠肺炎确诊病例1761例-累计确诊95418例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiINELDJrNmsOWM7FTBOLI200724&isfromapp=1)  
-- [2020-07-24-伊朗新增新冠肺炎确诊病例2489例-累计确诊286523例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artirev7cUZULR6wqE2eXIvc200724&isfromapp=1)  
-- [2020-07-24-哈萨克斯坦新增新冠肺炎确诊病例1687例-累计确诊78486例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX0aioVgHsb96hsM3Qsr0200724&isfromapp=1)  
-- [2020-07-24-印度新增49310例新冠肺炎确诊病例-累计确诊1287945例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0cO1KLC4otzq5cAkZ7mz200724&isfromapp=1)  
-- [2020-07-24-美国阿拉斯加一海鲜加工厂96名员工确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiocpLNTAJGg26kBB1o9P6200724&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-25 11:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-25 12:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-美国新冠肺炎确诊病例超409万例-自动口罩售卖机现身机场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti24nLgqymWP5ijKnMEh8I200725&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-韩国单日确诊激增-创近四个月新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEp66pvjvaMoJKZ4Zp75200725&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-深圳暂停实施深港互认隔离政策-香港隔离完即入境-需再次隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimaqGvCGLCkqDgW01r3P9200725&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-新冠病毒检测仍呈阳性-巴西总统博索纳罗未戴口罩与人交谈](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHiHqRI7OVYDs979px4fn200725&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-新疆24日新增20例新冠肺炎确诊病例-7170人接受医学观察](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMwEqCWeKYKYEXWLr1rlr200725&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-国家卫健委：24日新增确诊病例34例-本土病例29例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08971rG97tWLVPeoC22Z200725&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-25-哥伦比亚累计新冠肺炎病例超过23万-安蒂奥基亚省多名官员病毒检测阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvTXGigE4Y049VIOfGEq200725&isfromapp=1) 

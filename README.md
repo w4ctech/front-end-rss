@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-25 07:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 08:00:21，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-07-25-世卫组织：全球新冠肺炎新增284196例-美洲区域确诊超过800万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisUrmWv8v0HLv7Az8z9bA200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-世卫组织：全球新冠肺炎确诊病例超过1529万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifTs0d71UkNlIbItEPWpZ200725&isfromapp=1) ![](assets/new.png)  
-- [2020-07-25-美疾控中心要求学校重新开-忽略潜在风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMY0LA1MzQGY0EXsFQP4200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-福奇：新冠病毒疫苗或2021年后数月才能广泛应用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRnRZDpiy00RP3QSZG4O200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-巴西南大河州州长新冠肺炎检测呈阳性-为巴西第10位确诊的州长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHgvN9whdB0ABGWzdSW9D200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-世卫组织：全球新冠肺炎新增284196例-美洲区域确诊超过800万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisUrmWv8v0HLv7Az8z9bA200725&isfromapp=1)  
+- [2020-07-25-世卫组织：全球新冠肺炎确诊病例超过1529万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifTs0d71UkNlIbItEPWpZ200725&isfromapp=1)  
+- [2020-07-25-美疾控中心要求学校重新开-忽略潜在风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMY0LA1MzQGY0EXsFQP4200725&isfromapp=1)  
 - [2020-07-24-日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1)  
 - [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1)  
 - [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121)  
@@ -112,8 +114,6 @@
 - [2020-07-24-6艘抵港货轮被发现船员确诊新冠肺炎，140人被隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMU38j7icykdQsHAtrj0S200724&isfromapp=1)  
 - [2020-07-24-辽宁大连迅速进入战时状态-坚决遏制疫情蔓延](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY5Svf3pvUiG7cvZXiZLN200724&isfromapp=1)  
 - [2020-07-24-墨西哥新增8438例新冠肺炎确诊病例-累计确诊370712例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti53IcHodrHQlaFQR1Si9w200724&isfromapp=1)  
-- [2020-07-24-美国至少11个州新冠肺炎确诊病例超过10万例-得克萨斯州单日新增病例近万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXNWcCBK2M2cNCaqB1zVI200724&isfromapp=1)  
-- [2020-07-24-美国确诊新冠新增100万人只用了15天](https://m.weibo.cn/3057540037/4530142510326341)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

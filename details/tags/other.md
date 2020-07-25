@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-25 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-25 11:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,7 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-25-国家卫健委：24日新增确诊病例34例-本土病例29例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti08971rG97tWLVPeoC22Z200725&isfromapp=1) 
 - [2020-07-25-福奇：新冠病毒疫苗或2021年后数月才能广泛应用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRnRZDpiy00RP3QSZG4O200725&isfromapp=1) 
 - [2020-07-25-美疾控中心要求学校重新开-忽略潜在风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMY0LA1MzQGY0EXsFQP4200725&isfromapp=1) 
 - [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1) 

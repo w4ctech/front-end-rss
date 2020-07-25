@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-25 13:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-25 18:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,11 @@
 </summary>
 
 
+- [2020-07-25-大连汽车客运暂停全部线路售票-机场、火车站出行需持7日内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy5LGjUuxg1qwwSGD5yB0200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-保加利亚新增新冠肺炎确诊病例270例-累计确诊突破1万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1FOdLpYemwEWPrJdLzXF200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-乌兹别克斯坦新冠肺炎累计确诊近2万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLo3F6s2jIFLIRJhvKXx5200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-哈萨克斯坦新增新冠肺炎确诊病例1740例-累计确诊80226例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOWd59lRlajp4ARq7JW9z200725&isfromapp=1) ![](assets/new.png)  
+- [2020-07-25-墨西哥总统的堂姐以及其丈夫和儿子均因感染新冠病毒去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikKLam01Sr3ImDDmDuWXz200725&isfromapp=1) ![](assets/new.png)  
 - [2020-07-25-美国新冠肺炎确诊病例超409万例-自动口罩售卖机现身机场](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti24nLgqymWP5ijKnMEh8I200725&isfromapp=1)  
 - [2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1)  
 - [2020-07-25-韩国单日确诊激增-创近四个月新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibEp66pvjvaMoJKZ4Zp75200725&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-25-美疾控中心要求学校重新开-忽略潜在风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRMY0LA1MzQGY0EXsFQP4200725&isfromapp=1)  
 - [2020-07-24-日本新增新冠肺炎确诊病例771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepF5glUOMKMhYdZrdGAC200724&isfromapp=1)  
 - [2020-07-24-北京市公共交通将恢复正常运营管理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQMFEdAN9ZxxpmfstQeI200724&isfromapp=1)  
-- [2020-07-24-香港过半确诊者感染源不明](https://m.weibo.cn/3057540037/4530323705048121)  
-- [2020-07-24-肯尼亚政府发言人确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQTo7LPohchpgfz3rFol200724&isfromapp=1)  
-- [2020-07-24-世卫组织：全球新冠肺炎确诊病例累计超1525万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0rok7byLPMjsFeyEfET200724&isfromapp=1)  
-- [2020-07-24-卡塔尔新增394例新冠病毒肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG35UOngXtAYj1iZmINoC200724&isfromapp=1)  
-- [2020-07-24-巴基斯坦新增1209例新冠肺炎确诊病例-累计确诊270400例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUqMh4pEbyhYRpmAwm3VS200724&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,11 +491,11 @@
 </summary>
 
 
-- [2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779) ![](assets/new.png)  
-- [2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69) ![](assets/new.png)  
-- [2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b) ![](assets/new.png)  
-- [2020-07-24-快速搭建Vue3-+-TypeScript项目](https://juejin.im/post/5f1ab3ea6fb9a07e8e4509fc) ![](assets/new.png)  
-- [2020-07-24-JS函数的执行机制](https://juejin.im/post/5f1a9a735188252e7811e15e) ![](assets/new.png)  
+- [2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779)  
+- [2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69)  
+- [2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b)  
+- [2020-07-24-快速搭建Vue3-+-TypeScript项目](https://juejin.im/post/5f1ab3ea6fb9a07e8e4509fc)  
+- [2020-07-24-JS函数的执行机制](https://juejin.im/post/5f1a9a735188252e7811e15e)  
 - [2020-07-22-Node-中如何引入一个模块及其细节](https://juejin.im/post/5f178c3fe51d4534714aca31)  
 - [2020-07-22-跨端跨栈连载-5/7：如何借助-Taro-Next-横穿跨端业务线](https://juejin.im/post/5f178b52e51d45349b5cbad0)  
 - [2020-07-22-Node-中-exports-与-module.exports-有什么区别](https://juejin.im/post/5f1787a75188252e5c57867a)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-25 20:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-25 23:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,8 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-25-巴西总统博索纳罗称自己最新一次新冠病毒检测结果为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4zSYoVms6ad204YMqe3U200725&isfromapp=1) 
+- [2020-07-25-卡塔尔新增398例新冠病炎确诊病例-累计确诊109036例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Qm0uDuOEGU2JlE9O0wc200725&isfromapp=1) 
 - [2020-07-25-大连汽车客运暂停全部线路售票-机场、火车站出行需持7日内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy5LGjUuxg1qwwSGD5yB0200725&isfromapp=1) 
 - [2020-07-25-墨西哥总统的堂姐以及其丈夫和儿子均因感染新冠病毒去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikKLam01Sr3ImDDmDuWXz200725&isfromapp=1) 
 - [2020-07-25-北美观察丨美国高校秋季入学的进与退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqEMy8EfsrNnVW2UuUWFi200725&isfromapp=1) 

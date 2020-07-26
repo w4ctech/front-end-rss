@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-26 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-26 16:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -20,6 +20,8 @@
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-07-26-Mac-和-iPhone-的-Safari-历史记录是同步的吗？](https://www.v2ex.com/t/693228) 
+- [2020-07-26-关于一个超简单-CIDR-问题，云安全组不知如何写](https://www.v2ex.com/t/693186) 
 - [2020-07-24-Chrome-插件让微信公众号历史文章阅读不再痛苦，在-PC-/Mac-Chrome-浏览器上就能看，而且支持文章列表导出-...](https://www.v2ex.com/t/692681) 
 - [2020-07-21-如何做一个运行在-Windows-里的“Webview”？](https://www.v2ex.com/t/692043) 
 - [2020-07-21-v2ex-的页面缓存有点不人性化](https://www.v2ex.com/t/692030) 

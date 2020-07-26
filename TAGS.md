@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-26 11:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-26 16:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -412,13 +412,13 @@
 - [【凹凸实验室】Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/)
 - [【凹凸实验室】前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/)
 - [【前端艺术家&&飞冰早报】api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2)
+- [【V2EX】Mac-和-iPhone-的-Safari-历史记录是同步的吗？](https://www.v2ex.com/t/693228)
+- [【V2EX】关于一个超简单-CIDR-问题，云安全组不知如何写](https://www.v2ex.com/t/693186)
 - [【V2EX】Chrome-插件让微信公众号历史文章阅读不再痛苦，在-PC-/Mac-Chrome-浏览器上就能看，而且支持文章列表导出-...](https://www.v2ex.com/t/692681)
 - [【V2EX】如何做一个运行在-Windows-里的“Webview”？](https://www.v2ex.com/t/692043)
 - [【V2EX】v2ex-的页面缓存有点不人性化](https://www.v2ex.com/t/692030)
 - [【V2EX】okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178)
 - [【V2EX】如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153)
-- [【技术头条】WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -442,6 +442,7 @@
 - [【凹凸实验室】假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/)
 - [【凹凸实验室】前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/)
 - [【凹凸实验室】我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/)
+- [【V2EX】算法题最大输出](https://www.v2ex.com/t/693222)
 - [【V2EX】大家觉得这套-数据结构与算法-课程如何？还缺什么吗？或者有哪些多余的吗？](https://www.v2ex.com/t/692670)
 - [【V2EX】大家是不是和我一样，不喜欢头条的算法面试过程？](https://www.v2ex.com/t/691698)
 - [【V2EX】一道怀疑人生的算法题，就这？](https://www.v2ex.com/t/691691)
@@ -512,6 +513,7 @@
 
 - [【全国新型肺炎疫情实时动态(丁香园)】新冠肺炎疫情致意大利企业今年前4个月招聘人数大幅下滑](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM7FGiaHjnwj4HMubqHSy200723&isfromapp=1)
 - [【掘金前端】2020最新：100道有答案的前端面试题（下）](https://juejin.im/post/5f1004296fb9a07e9e206f57)
+- [【V2EX】阿里面试，你简历里面有写用到-Mongo，-mongo-有什么问题，你怎么解决的？](https://www.v2ex.com/t/693189)
 - [【V2EX】杭州-华为云内推-Python-招聘部署系统开发工程师~~](https://www.v2ex.com/t/692651)
 - [【V2EX】推荐一个-C/C++、Rust、-Linux-、ServiceMesh、程序员面试的公众号](https://www.v2ex.com/t/692648)
 - [【V2EX】成都医联招聘啦~~](https://www.v2ex.com/t/691681)

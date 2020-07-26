@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-26 11:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-26 16:00:20，:rocket: 更新条数: +35， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)  
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-07-26-确保疫情防控，文化旅游逐步恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQN4L3aeHhWSb5zQZ2IOe200726&isfromapp=1) ![](assets/new.png)  
-- [2020-07-26-国家卫健委：25日全国新增新冠肺炎确诊病例46例-本土病例35例-境外输入11例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigZoFitC1UkewpdXPjQZz200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-辽宁大连发布新增12例确诊病例轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieofG5tasIHy6D31CA3Xo200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-福建25日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwVMCynfpZ3RbXXT3aVP7200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-确保疫情防控，文化旅游逐步恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQN4L3aeHhWSb5zQZ2IOe200726&isfromapp=1)  
+- [2020-07-26-国家卫健委：25日全国新增新冠肺炎确诊病例46例-本土病例35例-境外输入11例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigZoFitC1UkewpdXPjQZz200726&isfromapp=1)  
 - [2020-07-26-北京逐步恢复跨京冀地面公交和省际长途客运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibsfkcJTIAVOIB0GLL88p200726&isfromapp=1)  
 - [2020-07-26-26日起-从西班牙前往英国英格兰的旅客须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDjbn2iRWQsRnz81Mwqo200726&isfromapp=1)  
 - [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1558万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDasuPhzUo8C7y3JFnfVX200726&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-25-巴林新增462例新冠肺炎确诊病例-累计确诊38458例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimrzP8EzKQ0JyN97HLtkp200725&isfromapp=1)  
 - [2020-07-25-大连汽车客运暂停全部线路售票-机场、火车站出行需持7日内核酸检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy5LGjUuxg1qwwSGD5yB0200725&isfromapp=1)  
 - [2020-07-25-保加利亚新增新冠肺炎确诊病例270例-累计确诊突破1万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1FOdLpYemwEWPrJdLzXF200725&isfromapp=1)  
-- [2020-07-25-乌兹别克斯坦新冠肺炎累计确诊近2万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLo3F6s2jIFLIRJhvKXx5200725&isfromapp=1)  
-- [2020-07-25-哈萨克斯坦新增新冠肺炎确诊病例1740例-累计确诊80226例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOWd59lRlajp4ARq7JW9z200725&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -586,26 +586,26 @@
 </summary>
 
 
-- [2020-07-24-Win10-自带输入法自动退出选词？](https://www.v2ex.com/t/692682)  
-- [2020-07-24-Chrome-插件让微信公众号历史文章阅读不再痛苦，在-PC-/Mac-Chrome-浏览器上就能看，而且支持文章列表导出-...](https://www.v2ex.com/t/692681)  
-- [2020-07-24-使用-JPA-过程中有个疑问](https://www.v2ex.com/t/692679)  
-- [2020-07-24-好好写软件不行吗](https://www.v2ex.com/t/692678)  
-- [2020-07-24-炒饭更新-类-Reddit-的多级评论以及境外筛图机器](https://www.v2ex.com/t/692677)  
-- [2020-07-24-PHP-如何实现异步请求实时返回结果？](https://www.v2ex.com/t/692676)  
-- [2020-07-24-有没有-wifi-转网线的设备](https://www.v2ex.com/t/692675)  
-- [2020-07-24-20200724-午夜俱乐部](https://www.v2ex.com/t/692674)  
-- [2020-07-24-快手-2021-届校招提前批内推-欢迎领取内推资格](https://www.v2ex.com/t/692673)  
-- [2020-07-24-iCloud-有什么其他的玩法吗？手里有很多个教育版-*-200G-空间](https://www.v2ex.com/t/692672)  
-- [2020-07-24-大家觉得这套-数据结构与算法-课程如何？还缺什么吗？或者有哪些多余的吗？](https://www.v2ex.com/t/692670)  
-- [2020-07-23-微信图片文件夹存储数量有限制](https://www.v2ex.com/t/692663)  
-- [2020-07-23-Big-Sur-Beta3-Bug，有没有谁知道怎么解决](https://www.v2ex.com/t/692662)  
-- [2020-07-23-互联网产品运营、策划岗招双非硕士的比例大概是多少](https://www.v2ex.com/t/692659)  
-- [2020-07-23-人生的十字路口，有佛山的前辈来解惑吗](https://www.v2ex.com/t/692657)  
-- [2020-07-23-Big-sur-beta3-bug，有没有谁知道怎么解决](https://www.v2ex.com/t/692656)  
-- [2020-07-23-Java-外包私活，项目代码都有啥加密或者类似技巧](https://www.v2ex.com/t/692654)  
-- [2020-07-23-除了-v2ex，还有哪里有比较好的云计算论坛？](https://www.v2ex.com/t/692653)  
-- [2020-07-23-上家公司领导推荐我去一家第三方公司.大家觉得能不能去.](https://www.v2ex.com/t/692652)  
-- [2020-07-23-杭州-华为云内推-Python-招聘部署系统开发工程师~~](https://www.v2ex.com/t/692651)  
+- [2020-07-26-Mac-和-iPhone-的-Safari-历史记录是同步的吗？](https://www.v2ex.com/t/693228) ![](assets/new.png)  
+- [2020-07-26-分享自己写的谷歌镜像-app,可以准确的查-bug,远离百度](https://www.v2ex.com/t/693227) ![](assets/new.png)  
+- [2020-07-26-一个-bat-格式的恶作剧小代码](https://www.v2ex.com/t/693226) ![](assets/new.png)  
+- [2020-07-26-不排队不迷路，如何省钱省力地游遍新加坡？就靠这个小程序](https://www.v2ex.com/t/693225) ![](assets/new.png)  
+- [2020-07-26-移动宽带用户访问-V2EX-10-分钟也没才打开](https://www.v2ex.com/t/693224) ![](assets/new.png)  
+- [2020-07-26-直播预告｜电商小程序的新玩法，实时数据库能搞定](https://www.v2ex.com/t/693223) ![](assets/new.png)  
+- [2020-07-26-算法题最大输出](https://www.v2ex.com/t/693222) ![](assets/new.png)  
+- [2020-07-26-求职20-届毕业生，想求一份-Android-开发的工作](https://www.v2ex.com/t/693219) ![](assets/new.png)  
+- [2020-07-26-关于腾讯-AIA-亚马逊-AGA-全球加速网络和-CN2-GIA-网络比较问题](https://www.v2ex.com/t/693218) ![](assets/new.png)  
+- [2020-07-26-各位都遇到过哪些你认为-low-的企业文化](https://www.v2ex.com/t/693217) ![](assets/new.png)  
+- [2020-07-26-有没有用佳明手表的小伙伴，帮忙看下罗盘](https://www.v2ex.com/t/693212) ![](assets/new.png)  
+- [2020-07-26-亲弟弟填志愿，请友爱-V-友帮忙出出主意，回复必定点感谢。。谢谢大家](https://www.v2ex.com/t/693211) ![](assets/new.png)  
+- [2020-07-26-现在除了起点和书客，各位还接触过哪些小说网站？](https://www.v2ex.com/t/693210) ![](assets/new.png)  
+- [2020-07-26-联想小新-PRO13-求推荐扩展坞](https://www.v2ex.com/t/693209) ![](assets/new.png)  
+- [2020-07-26-求教上下级路由如何相互访问？](https://www.v2ex.com/t/693207) ![](assets/new.png)  
+- [2020-07-26-刚发现-联通最近-cloudflare-节点-有部分-ip-走北京到法兰克福了-延迟比走美国低点](https://www.v2ex.com/t/693206) ![](assets/new.png)  
+- [2020-07-26-macOS-Big-Sur-beta3-wifi-漫游机制似乎工作不正常，家里-3-个-5G-接入点不能自动漫游了。](https://www.v2ex.com/t/693205) ![](assets/new.png)  
+- [2020-07-26-蛋壳合租,投诉室友半夜砸墙大喊,反被敲门威胁....](https://www.v2ex.com/t/693204) ![](assets/new.png)  
+- [2020-07-26-写了个-json-转-class-的小工具（轻喷）](https://www.v2ex.com/t/693203) ![](assets/new.png)  
+- [2020-07-26-关于邮箱用户名问题](https://www.v2ex.com/t/693199) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

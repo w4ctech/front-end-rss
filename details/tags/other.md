@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-26 08:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-26 11:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,7 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-26-确保疫情防控，文化旅游逐步恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQN4L3aeHhWSb5zQZ2IOe200726&isfromapp=1) 
 - [2020-07-26-北京逐步恢复跨京冀地面公交和省际长途客运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibsfkcJTIAVOIB0GLL88p200726&isfromapp=1) 
 - [2020-07-26-26日起-从西班牙前往英国英格兰的旅客须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDjbn2iRWQsRnz81Mwqo200726&isfromapp=1) 
 - [2020-07-25-巴西总统博索纳罗称自己最新一次新冠病毒检测结果为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4zSYoVms6ad204YMqe3U200725&isfromapp=1) 

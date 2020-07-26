@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 00:00:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 03:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,13 @@
 </summary>
 
 
-- [2020-07-26-白俄罗斯新增130例新冠肺炎确诊病例-累计67132例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOSHvP0EHkvCaow0HEfL3200726&isfromapp=1) ![](assets/new.png)  
-- [2020-07-26-伊拉克新增2459例新冠肺炎确诊病例-累计确诊110032例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio6RYymJMz9bANqifXvM6200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-乌兹别克斯坦将延长隔离检疫期至8月15日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDxeJkM00Pv88x8JN8Hj200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-香港中联办发言人：中央政府重视香港疫情高发-将应特区政府请求提供一切必要支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihvWkbaCJ6uy0KzQ7yELV200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-西班牙足球职业联盟宣布取消因新冠病例暴发而被延期的西乙比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdXLfOKZBTP1ajRVduOe200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1578万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikdHpNZrRDLqos1eYfXod200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-印度泰米尔纳德邦一国有银行38名职员确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2aCYVDGeCXEy4QlEIGtZ200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-白俄罗斯新增130例新冠肺炎确诊病例-累计67132例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOSHvP0EHkvCaow0HEfL3200726&isfromapp=1)  
+- [2020-07-26-伊拉克新增2459例新冠肺炎确诊病例-累计确诊110032例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio6RYymJMz9bANqifXvM6200726&isfromapp=1)  
 - [2020-07-26-德国邮轮复航-立新规严抓检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5MMJV3EWNRJh1ZxO6K5f200726&isfromapp=1)  
 - [2020-07-26-塞内加尔新增129例新冠肺炎确诊病例-累计9681例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzBPDV3QyNNfBBj8oXp0200726&isfromapp=1)  
 - [2020-07-26-非洲地区新冠肺炎确诊病例累计超82.8万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijTTEm7YtivDNYjPMPh8w200726&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-26-确保疫情防控，文化旅游逐步恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQN4L3aeHhWSb5zQZ2IOe200726&isfromapp=1)  
 - [2020-07-26-国家卫健委：25日全国新增新冠肺炎确诊病例46例-本土病例35例-境外输入11例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigZoFitC1UkewpdXPjQZz200726&isfromapp=1)  
 - [2020-07-26-北京逐步恢复跨京冀地面公交和省际长途客运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibsfkcJTIAVOIB0GLL88p200726&isfromapp=1)  
-- [2020-07-26-26日起-从西班牙前往英国英格兰的旅客须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDjbn2iRWQsRnz81Mwqo200726&isfromapp=1)  
-- [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1558万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDasuPhzUo8C7y3JFnfVX200726&isfromapp=1)  
-- [2020-07-26-巴西一位九旬老人“治愈”出院后仍因新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih8P5tvOzYVyVOtXAfjat200725&isfromapp=1)  
-- [2020-07-25-巴西总统博索纳罗称自己最新一次新冠病毒检测结果为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4zSYoVms6ad204YMqe3U200725&isfromapp=1)  
-- [2020-07-25-德国新增新冠肺炎确诊病例781例-累计确诊204964例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirLfXq5qHREVHnrdRvvAj200725&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

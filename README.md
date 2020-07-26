@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-26 19:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-26 20:30:20，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,14 @@
 </summary>
 
 
-- [2020-07-26-香港新增-128-例新冠肺炎病例，连续-5-日单日新增过百](https://m.weibo.cn/3057540037/4530982298066739) ![](assets/new.png)  
-- [2020-07-26-英国首相鲍里斯·约翰逊：也许我们本可以做得不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsWRdErEKsN2RMC8amEY200726&isfromapp=1) ![](assets/new.png)  
-- [2020-07-26-国家卫健委主任带队赴大连指导，大连力争-4-天内实现核酸检测全覆盖](https://m.weibo.cn/2803301701/4530946383287118) ![](assets/new.png)  
-- [2020-07-26-球员感染新冠，日本足球联赛取消相关比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPzzp5KyYZnX4KrIXjuM5200726&isfromapp=1) ![](assets/new.png)  
-- [2020-07-26-香港不畏艰难，在崎岖的复苏之路上愈战愈勇](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRnNvy2cabPi0waRYvjW200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-德国邮轮复航-立新规严抓检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5MMJV3EWNRJh1ZxO6K5f200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-塞内加尔新增129例新冠肺炎确诊病例-累计9681例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzBPDV3QyNNfBBj8oXp0200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-非洲地区新冠肺炎确诊病例累计超82.8万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijTTEm7YtivDNYjPMPh8w200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-26-香港新增-128-例新冠肺炎病例，连续-5-日单日新增过百](https://m.weibo.cn/3057540037/4530982298066739)  
+- [2020-07-26-英国首相鲍里斯·约翰逊：也许我们本可以做得不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsWRdErEKsN2RMC8amEY200726&isfromapp=1)  
+- [2020-07-26-国家卫健委主任带队赴大连指导，大连力争-4-天内实现核酸检测全覆盖](https://m.weibo.cn/2803301701/4530946383287118)  
+- [2020-07-26-球员感染新冠，日本足球联赛取消相关比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPzzp5KyYZnX4KrIXjuM5200726&isfromapp=1)  
+- [2020-07-26-香港不畏艰难，在崎岖的复苏之路上愈战愈勇](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRnNvy2cabPi0waRYvjW200726&isfromapp=1)  
 - [2020-07-26-辽宁大连发布新增12例确诊病例轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieofG5tasIHy6D31CA3Xo200726&isfromapp=1)  
 - [2020-07-26-福建25日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwVMCynfpZ3RbXXT3aVP7200726&isfromapp=1)  
 - [2020-07-26-确保疫情防控，文化旅游逐步恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQN4L3aeHhWSb5zQZ2IOe200726&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-25-德国新增新冠肺炎确诊病例781例-累计确诊204964例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirLfXq5qHREVHnrdRvvAj200725&isfromapp=1)  
 - [2020-07-25-卡塔尔新增398例新冠病炎确诊病例-累计确诊109036例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Qm0uDuOEGU2JlE9O0wc200725&isfromapp=1)  
 - [2020-07-25-​沙特新增新冠肺炎确诊病例2201例-累计确诊264973例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijFrpePzj0BSl1ALER4zX200725&isfromapp=1)  
-- [2020-07-25-阿联酋新增新冠肺炎确诊病例313例-累计确诊58562例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib2ka5dcX47YzOgG4ZM2G200725&isfromapp=1)  
-- [2020-07-25-加纳新增691例新冠肺炎确诊病例-累计确诊31057例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu8VA5WcYaWyE4EOxsxAx200725&isfromapp=1)  
-- [2020-07-25-世卫组织：全球新冠肺炎确诊病例超过1553万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCPUOfuu26s1lpFKwedx200725&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-28 01:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-28 06:00:20，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)  
 
 ## 文章链接
@@ -94,8 +94,8 @@
 </summary>
 
 
-- [2020-07-27-英国新冠肺炎确诊病例超过-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik60otUz7ki3POPR8JXQd200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-谷歌将允许员工远程办公一直到-2021-年夏天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippyDP11eEXijdkFc4T3d200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-英国新冠肺炎确诊病例超过-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik60otUz7ki3POPR8JXQd200727&isfromapp=1)  
+- [2020-07-27-谷歌将允许员工远程办公一直到-2021-年夏天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippyDP11eEXijdkFc4T3d200727&isfromapp=1)  
 - [2020-07-27-深圳市疾控机构已确认-9-名确诊港籍司机密接者-暂无新增病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPZ5b91pM0Q6pg1Xc5MH200727&isfromapp=1)  
 - [2020-07-27-英国一宠物猫新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTpMOIkx65H45aOsfAvY200727&isfromapp=1)  
 - [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1)  
@@ -618,26 +618,26 @@
 </summary>
 
 
-- [2020-07-21-如何面对黑天鹅与灰犀牛？ThoughtWorks技术雷达峰会给出答案-app.ma.scrmtech.com](https://blogread.cn/news/go.php?idItem=13613&url=https%3A%2F%2Fapp.ma.scrmtech.com%2Fmeetings%2FMeetingPc%2FDetail%3Fpf_uid%3D7019_1254%26amp%3Bid%3D20146%26amp%3Bsource%3D2%26amp%3Bpf_type%3D3%26amp%3Bchannel_id%3D1855%26amp%3Bchannel_name%3Dother-social-media%26amp%3Btag_id%3D60b6cd63fbda11b7%26comefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-TCP-和-UDP，哪个更胜一筹-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13612&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F160910050%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-敏捷测试宣言与原则解读-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13611&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fagile-testing-manifesto%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-Apache-Tomcat-CVE-2020-1938，细思极恐-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13610&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fapache-tomcat-cve-2020-1938%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-如何利用图片对比算法处理白屏检测-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13608&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-picture-contrast-algorithm-to-deal-with-white-screen-detection%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-如何使用-gitlab-api-触发-CI-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13607&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fhow-to-use-gitlab-api-to-trigger-ci%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-快应用开发工具之-asar-quickapp.vivo.com.cn](https://blogread.cn/news/go.php?idItem=13606&url=https%3A%2F%2Fquickapp.vivo.com.cn%2Fquickapp-ide-asar%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-21-当我谈-HTTP-时，我谈些什么?-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13605&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F159274359%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-为什么需要敏捷的7个问题-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13604&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fwhy-need-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-7-大-Python-特殊技巧提升数据分析能力-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13603&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXSRftTqPxJz0HEK1oHE5XQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-程序员无休止加班的真正原因-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13602&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYaBHXd9ZHEYg3mdD-Yk-7Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-Python-IDE-优缺点列表-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13601&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FzPc-wN18mnDCI_wEoRwxQg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-Android-使用-LiveData-实现-EventBus-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13600&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu7FA6P1NMWKO_SrapYLH1A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-赶紧收藏！非常实用的-30-个-Python-技巧-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13599&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnYydqssdRQO3M94MB8BZSg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-Glide-源码解析之监听生命周期-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13598&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNYv3QxfaMRmqozw1hgoAgA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-一行代码让纯文本编辑器秒变-Markdown-编辑器-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13597&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsKzIH2Dudc-7cIKBDEkVlg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-用好这-7-个-VS-Code-插件，前端编程效率蹭蹭涨-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13596&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNvHjFZi8_ToW16uXcTGL4w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-一键导出微信阅读记录和笔记-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13595&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FlG65IeVIpKe8jsaQP1oBuw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
-- [2020-07-15-2020最新版《神经网络与深度学习》中文版-pdf-开放下载-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13594&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FnaZIyRYlRKH28lzfEF8DVQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)  
+- [2020-07-28-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-Android-Fragment-被回收后显示空白问题解决方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13643&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLuJuXA9SZ-TcCAIcbF66SQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-Android-主题色无缝切换方案:Databinding下实现控件皮肤无缝切换-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13641&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbm4AkagSLri0RCOIc4uaag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-告别-IntelliJ-IDEA-卡顿-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13640&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPoo80KegS9veU-cbgMhUwQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-海外开发者账号上架总结-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13639&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVwE8dsajLJ1ughKOYHdX0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-这可能是未来第三大搜索引擎-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13638&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQs2pgUVXMmjXvPE0C9ZsAA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-2020-年最漂亮的-Linux-发行版-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13636&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9joDsrD6KVMPfA5zknBEHg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-我最喜欢的云-IDE-有哪些？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13635&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FllMoCXR07De47l-2CETXRw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-2020-年编程语言盘点展望：Java-老兵不死，Kotlin-蓄势待发-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13634&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTanK5JNndlhUs-9c0-lCyA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-VS-Code-连接远程服务器运行-Jupyter-Notebook-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13633&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0_SRtzQJ8s2NN1_v04ySZw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-10-个小技巧，让你爱上代码-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13632&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Faw3cB5NPYFOYg-v10CXhfQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-尚未到来的远程工作-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13631&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fremote-working%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-探索性测试在敏捷项目中的运用-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13630&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fexploratory-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-程序员编程时戴耳机在听什么？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13629&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUGxFdQBIvm1noUvyxDjYXg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-Springer-面向公众开放数据挖掘、编程、机器学习、数学、深度学习、数据科学等-65本电子书籍-mp.weixin.qq...](https://blogread.cn/news/go.php?idItem=13628&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FY2dFB6wt9tF8DqAlWzQZPQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-女程序媛为什么-Bug-多？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13627&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLDXHOqTf_YMzHITaELOM9Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-Python-密码学入门书籍-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13626&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_p1TrYQEiQzgzKAAfe7VEw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-07-28-《Java-编程思想》中文版！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13625&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FSaAGA031HqF9Y5XGOnMtOA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 03:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 08:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,16 @@
 </summary>
 
 
-- [2020-07-27-乌兹别克斯坦将延长隔离检疫期至8月15日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDxeJkM00Pv88x8JN8Hj200726&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-香港中联办发言人：中央政府重视香港疫情高发-将应特区政府请求提供一切必要支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihvWkbaCJ6uy0KzQ7yELV200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-西班牙足球职业联盟宣布取消因新冠病例暴发而被延期的西乙比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdXLfOKZBTP1ajRVduOe200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1578万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikdHpNZrRDLqos1eYfXod200726&isfromapp=1) ![](assets/new.png)  
-- [2020-07-26-印度泰米尔纳德邦一国有银行38名职员确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2aCYVDGeCXEy4QlEIGtZ200726&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-美国新增新冠肺炎确诊病例68480例-累计确诊4222841例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDHnZAMbJezjB4cpoQXH200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-法国总理：不排除根据疫情形势“局部封城”的可能](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPMSbEI5DcfEiSlCWSrwv200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-约旦境内机场将于8月5日向国际航班开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5pmp6xGsLjHn5VE9vvt5200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-乌兹别克斯坦将延长隔离检疫期至8月15日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDxeJkM00Pv88x8JN8Hj200726&isfromapp=1)  
+- [2020-07-27-香港中联办发言人：中央政府重视香港疫情高发-将应特区政府请求提供一切必要支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihvWkbaCJ6uy0KzQ7yELV200727&isfromapp=1)  
+- [2020-07-27-西班牙足球职业联盟宣布取消因新冠病例暴发而被延期的西乙比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdXLfOKZBTP1ajRVduOe200727&isfromapp=1)  
+- [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1578万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikdHpNZrRDLqos1eYfXod200726&isfromapp=1)  
+- [2020-07-26-印度泰米尔纳德邦一国有银行38名职员确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2aCYVDGeCXEy4QlEIGtZ200726&isfromapp=1)  
 - [2020-07-26-白俄罗斯新增130例新冠肺炎确诊病例-累计67132例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOSHvP0EHkvCaow0HEfL3200726&isfromapp=1)  
 - [2020-07-26-伊拉克新增2459例新冠肺炎确诊病例-累计确诊110032例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio6RYymJMz9bANqifXvM6200726&isfromapp=1)  
 - [2020-07-26-德国邮轮复航-立新规严抓检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5MMJV3EWNRJh1ZxO6K5f200726&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-26-国家卫健委主任带队赴大连指导，大连力争-4-天内实现核酸检测全覆盖](https://m.weibo.cn/2803301701/4530946383287118)  
 - [2020-07-26-球员感染新冠，日本足球联赛取消相关比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPzzp5KyYZnX4KrIXjuM5200726&isfromapp=1)  
 - [2020-07-26-香港不畏艰难，在崎岖的复苏之路上愈战愈勇](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRnNvy2cabPi0waRYvjW200726&isfromapp=1)  
-- [2020-07-26-辽宁大连发布新增12例确诊病例轨迹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieofG5tasIHy6D31CA3Xo200726&isfromapp=1)  
-- [2020-07-26-福建25日新增1例境外输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwVMCynfpZ3RbXXT3aVP7200726&isfromapp=1)  
-- [2020-07-26-确保疫情防控，文化旅游逐步恢复](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQN4L3aeHhWSb5zQZ2IOe200726&isfromapp=1)  
-- [2020-07-26-国家卫健委：25日全国新增新冠肺炎确诊病例46例-本土病例35例-境外输入11例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigZoFitC1UkewpdXPjQZz200726&isfromapp=1)  
-- [2020-07-26-北京逐步恢复跨京冀地面公交和省际长途客运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibsfkcJTIAVOIB0GLL88p200726&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

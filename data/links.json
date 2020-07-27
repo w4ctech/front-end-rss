@@ -6852,6 +6852,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "让你的 commit 更有价值",
+        "link": "https://juejin.im/post/5f1e50c66fb9a07eb417d8d8",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "动画特辑(二) 音乐律动",
+        "link": "https://juejin.im/post/5f126b246fb9a07e6d70c6cb",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "JavaScript中的reduce()的5个用例",
+        "link": "https://juejin.im/post/5f1e5294e51d45347416976a",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "记一次简单的Node.js爬虫经历",
+        "link": "https://juejin.im/post/5f1e35636fb9a07e86470e2d",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "为什么要拥抱React Hooks",
+        "link": "https://juejin.im/post/5f1d43d36fb9a07eb65a7e9d",
+        "date": "2020-07-27"
+      },
+      {
         "title": "有人问：学历不好，技术不行，该怎么换工作？我：...",
         "link": "https://juejin.im/post/5f1b1fcb5188252e7a1c8779",
         "date": "2020-07-24"

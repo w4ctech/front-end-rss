@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 14:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-27 14:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -501,6 +501,11 @@
 - [【凹凸实验室】2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) 
 - [【凹凸实验室】2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) 
 - [【凹凸实验室】2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) 
+- [【掘金前端】2020-07-27-让你的-commit-更有价值](https://juejin.im/post/5f1e50c66fb9a07eb417d8d8) 
+- [【掘金前端】2020-07-27-动画特辑二-音乐律动](https://juejin.im/post/5f126b246fb9a07e6d70c6cb) 
+- [【掘金前端】2020-07-27-JavaScript中的reduce的5个用例](https://juejin.im/post/5f1e5294e51d45347416976a) 
+- [【掘金前端】2020-07-27-记一次简单的Node.js爬虫经历](https://juejin.im/post/5f1e35636fb9a07e86470e2d) 
+- [【掘金前端】2020-07-27-为什么要拥抱React-Hooks](https://juejin.im/post/5f1d43d36fb9a07eb65a7e9d) 
 - [【掘金前端】2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779) 
 - [【掘金前端】2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69) 
 - [【掘金前端】2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b) 

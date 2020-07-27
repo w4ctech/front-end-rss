@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-27 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,6 +37,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-07-27-JavaScript中的reduce的5个用例](https://juejin.im/post/5f1e5294e51d45347416976a) 
 - [2020-07-24-JS函数的执行机制](https://juejin.im/post/5f1a9a735188252e7811e15e) 
 - [2020-07-21-JavaScript面试题-由浅到深](https://juejin.im/post/5f1536a75188252e62286b7f) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 

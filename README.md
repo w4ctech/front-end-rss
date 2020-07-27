@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 14:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 14:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)  
+- [掘金前端](#掘金前端)![](assets/dot.png)   
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-国家卫健委：全国新增新冠肺炎确诊病例61例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Bo7zKYUkmjCvp4ppZjY200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1)  
+- [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1)  
+- [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1)  
+- [2020-07-27-希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1)  
+- [2020-07-27-国家卫健委：全国新增新冠肺炎确诊病例61例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Bo7zKYUkmjCvp4ppZjY200727&isfromapp=1)  
 - [2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1)  
 - [2020-07-27-美国新增新冠肺炎确诊病例68480例-累计确诊4222841例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDHnZAMbJezjB4cpoQXH200727&isfromapp=1)  
 - [2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1)  
@@ -491,6 +491,11 @@
 </summary>
 
 
+- [2020-07-27-让你的-commit-更有价值](https://juejin.im/post/5f1e50c66fb9a07eb417d8d8) ![](assets/new.png)  
+- [2020-07-27-动画特辑二-音乐律动](https://juejin.im/post/5f126b246fb9a07e6d70c6cb) ![](assets/new.png)  
+- [2020-07-27-JavaScript中的reduce的5个用例](https://juejin.im/post/5f1e5294e51d45347416976a) ![](assets/new.png)  
+- [2020-07-27-记一次简单的Node.js爬虫经历](https://juejin.im/post/5f1e35636fb9a07e86470e2d) ![](assets/new.png)  
+- [2020-07-27-为什么要拥抱React-Hooks](https://juejin.im/post/5f1d43d36fb9a07eb65a7e9d) ![](assets/new.png)  
 - [2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779)  
 - [2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69)  
 - [2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b)  
@@ -506,11 +511,6 @@
 - [2020-07-21-JavaScript面试题-由浅到深](https://juejin.im/post/5f1536a75188252e62286b7f)  
 - [2020-07-21-除了composition-API，vue3.0文档又带来了什么新东西？](https://juejin.im/post/5f16540de51d4534c6543c35)  
 - [2020-07-21-【我上我也行】前端自动化部署Jenkins最佳实践](https://juejin.im/post/5f13d44c5188252e703ad360)  
-- [2020-07-17-玩不转微前端就怪这-40-个问题](https://juejin.im/post/5f1127476fb9a07ebb225d58)  
-- [2020-07-17-75行代码入门WebGL](https://juejin.im/post/5f10f99d5188252e40124d80)  
-- [2020-07-17-如何检测页面上的图片被屏蔽了](https://juejin.im/post/5f10fa60f265da22dd7ddf0e)  
-- [2020-07-17-2020最新：100道有答案的前端面试题（下）](https://juejin.im/post/5f1004296fb9a07e9e206f57)  
-- [2020-07-17-表格封装：让我们轻松的coding~](https://juejin.im/post/5f10f713f265da22ce3943db)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

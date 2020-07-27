@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 16:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,9 +94,11 @@
 </summary>
 
 
-- [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-受疫情影响，泰国今年GDP下调至-8.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY6DLDKuiiv95ci9Gmx9F200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-哈萨克斯坦新增1402例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nV07SXdWYLVlV0FNXQP200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373) ![](assets/new.png)  
+- [2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487) ![](assets/new.png)  
+- [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1)  
+- [2020-07-27-受疫情影响，泰国今年GDP下调至-8.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY6DLDKuiiv95ci9Gmx9F200727&isfromapp=1)  
+- [2020-07-27-哈萨克斯坦新增1402例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nV07SXdWYLVlV0FNXQP200727&isfromapp=1)  
 - [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1)  
 - [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1)  
 - [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-27-西班牙足球职业联盟宣布取消因新冠病例暴发而被延期的西乙比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdXLfOKZBTP1ajRVduOe200727&isfromapp=1)  
 - [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1578万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikdHpNZrRDLqos1eYfXod200726&isfromapp=1)  
 - [2020-07-26-印度泰米尔纳德邦一国有银行38名职员确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2aCYVDGeCXEy4QlEIGtZ200726&isfromapp=1)  
-- [2020-07-26-白俄罗斯新增130例新冠肺炎确诊病例-累计67132例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOSHvP0EHkvCaow0HEfL3200726&isfromapp=1)  
-- [2020-07-26-伊拉克新增2459例新冠肺炎确诊病例-累计确诊110032例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio6RYymJMz9bANqifXvM6200726&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-27 14:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-国家卫健委：全国新增新冠肺炎确诊病例61例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Bo7zKYUkmjCvp4ppZjY200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-美国新增新冠肺炎确诊病例68480例-累计确诊4222841例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDHnZAMbJezjB4cpoQXH200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1) 

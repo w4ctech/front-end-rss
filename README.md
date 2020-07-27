@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 08:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 14:00:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,16 @@
 </summary>
 
 
-- [2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-美国新增新冠肺炎确诊病例68480例-累计确诊4222841例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDHnZAMbJezjB4cpoQXH200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-法国总理：不排除根据疫情形势“局部封城”的可能](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPMSbEI5DcfEiSlCWSrwv200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-约旦境内机场将于8月5日向国际航班开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5pmp6xGsLjHn5VE9vvt5200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-国家卫健委：全国新增新冠肺炎确诊病例61例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Bo7zKYUkmjCvp4ppZjY200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1)  
+- [2020-07-27-美国新增新冠肺炎确诊病例68480例-累计确诊4222841例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDHnZAMbJezjB4cpoQXH200727&isfromapp=1)  
+- [2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1)  
+- [2020-07-27-法国总理：不排除根据疫情形势“局部封城”的可能](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPMSbEI5DcfEiSlCWSrwv200727&isfromapp=1)  
+- [2020-07-27-约旦境内机场将于8月5日向国际航班开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5pmp6xGsLjHn5VE9vvt5200727&isfromapp=1)  
 - [2020-07-27-乌兹别克斯坦将延长隔离检疫期至8月15日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDxeJkM00Pv88x8JN8Hj200726&isfromapp=1)  
 - [2020-07-27-香港中联办发言人：中央政府重视香港疫情高发-将应特区政府请求提供一切必要支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihvWkbaCJ6uy0KzQ7yELV200727&isfromapp=1)  
 - [2020-07-27-西班牙足球职业联盟宣布取消因新冠病例暴发而被延期的西乙比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdXLfOKZBTP1ajRVduOe200727&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-26-德国邮轮复航-立新规严抓检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5MMJV3EWNRJh1ZxO6K5f200726&isfromapp=1)  
 - [2020-07-26-塞内加尔新增129例新冠肺炎确诊病例-累计9681例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzBPDV3QyNNfBBj8oXp0200726&isfromapp=1)  
 - [2020-07-26-非洲地区新冠肺炎确诊病例累计超82.8万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijTTEm7YtivDNYjPMPh8w200726&isfromapp=1)  
-- [2020-07-26-香港新增-128-例新冠肺炎病例，连续-5-日单日新增过百](https://m.weibo.cn/3057540037/4530982298066739)  
-- [2020-07-26-英国首相鲍里斯·约翰逊：也许我们本可以做得不同](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsWRdErEKsN2RMC8amEY200726&isfromapp=1)  
-- [2020-07-26-国家卫健委主任带队赴大连指导，大连力争-4-天内实现核酸检测全覆盖](https://m.weibo.cn/2803301701/4530946383287118)  
-- [2020-07-26-球员感染新冠，日本足球联赛取消相关比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPzzp5KyYZnX4KrIXjuM5200726&isfromapp=1)  
-- [2020-07-26-香港不畏艰难，在崎岖的复苏之路上愈战愈勇](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRnNvy2cabPi0waRYvjW200726&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

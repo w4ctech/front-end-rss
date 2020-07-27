@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-27 14:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,9 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1) 
+- [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1) 
+- [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1) 
 - [2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1) 
 - [2020-07-27-法国总理：不排除根据疫情形势“局部封城”的可能](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPMSbEI5DcfEiSlCWSrwv200727&isfromapp=1) 
 - [2020-07-27-约旦境内机场将于8月5日向国际航班开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5pmp6xGsLjHn5VE9vvt5200727&isfromapp=1) 

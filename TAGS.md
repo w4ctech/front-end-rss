@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-27 08:30:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-27 14:00:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -349,6 +349,7 @@
 
 
 - [【武汉肺炎防疫全纪录(财新网)】习近平去了武汉！（附视频）](http://m.china.caixin.com/m/2020-03-10/101526295.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1)
 - [【凹凸实验室】直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)
 - [【凹凸实验室】图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
 - [【凹凸实验室】A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 18:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-27 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,11 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-伦敦希斯罗机场启用消毒机器人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9i5dG50hJPLgyqlywCYU200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-世卫组织总干事：全球新冠肺炎病例数量过去六周翻了一倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti07QBrtpt9dHxysPk0UPp200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1) 

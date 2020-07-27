@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 18:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-27 21:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,8 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1) 
+- [2020-07-27-伦敦希斯罗机场启用消毒机器人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9i5dG50hJPLgyqlywCYU200727&isfromapp=1) 
 - [2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373) 
 - [2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487) 
 - [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1) 

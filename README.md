@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 18:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 21:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,13 @@
 </summary>
 
 
-- [2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373) ![](assets/new.png)  
-- [2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487) ![](assets/new.png)  
+- [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-伦敦希斯罗机场启用消毒机器人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9i5dG50hJPLgyqlywCYU200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-世卫组织总干事：全球新冠肺炎病例数量过去六周翻了一倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti07QBrtpt9dHxysPk0UPp200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373)  
+- [2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487)  
 - [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1)  
 - [2020-07-27-受疫情影响，泰国今年GDP下调至-8.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY6DLDKuiiv95ci9Gmx9F200727&isfromapp=1)  
 - [2020-07-27-哈萨克斯坦新增1402例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nV07SXdWYLVlV0FNXQP200727&isfromapp=1)  
@@ -109,11 +114,6 @@
 - [2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1)  
 - [2020-07-27-法国总理：不排除根据疫情形势“局部封城”的可能](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPMSbEI5DcfEiSlCWSrwv200727&isfromapp=1)  
 - [2020-07-27-约旦境内机场将于8月5日向国际航班开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5pmp6xGsLjHn5VE9vvt5200727&isfromapp=1)  
-- [2020-07-27-乌兹别克斯坦将延长隔离检疫期至8月15日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiDxeJkM00Pv88x8JN8Hj200726&isfromapp=1)  
-- [2020-07-27-香港中联办发言人：中央政府重视香港疫情高发-将应特区政府请求提供一切必要支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihvWkbaCJ6uy0KzQ7yELV200727&isfromapp=1)  
-- [2020-07-27-西班牙足球职业联盟宣布取消因新冠病例暴发而被延期的西乙比赛](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdXLfOKZBTP1ajRVduOe200727&isfromapp=1)  
-- [2020-07-26-世卫组织：全球新冠肺炎确诊病例超过1578万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikdHpNZrRDLqos1eYfXod200726&isfromapp=1)  
-- [2020-07-26-印度泰米尔纳德邦一国有银行38名职员确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2aCYVDGeCXEy4QlEIGtZ200726&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

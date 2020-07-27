@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 00:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-28 01:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-英国新冠肺炎确诊病例超过-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik60otUz7ki3POPR8JXQd200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-谷歌将允许员工远程办公一直到-2021-年夏天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippyDP11eEXijdkFc4T3d200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-深圳市疾控机构已确认-9-名确诊港籍司机密接者-暂无新增病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPZ5b91pM0Q6pg1Xc5MH200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-英国一宠物猫新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTpMOIkx65H45aOsfAvY200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1) 

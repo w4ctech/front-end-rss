@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-28 00:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-28 01:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-07-27-深圳市疾控机构已确认-9-名确诊港籍司机密接者-暂无新增病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPZ5b91pM0Q6pg1Xc5MH200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-英国一宠物猫新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTpMOIkx65H45aOsfAvY200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-英国新冠肺炎确诊病例超过-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik60otUz7ki3POPR8JXQd200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-谷歌将允许员工远程办公一直到-2021-年夏天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippyDP11eEXijdkFc4T3d200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-深圳市疾控机构已确认-9-名确诊港籍司机密接者-暂无新增病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPZ5b91pM0Q6pg1Xc5MH200727&isfromapp=1)  
+- [2020-07-27-英国一宠物猫新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTpMOIkx65H45aOsfAvY200727&isfromapp=1)  
 - [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1)  
 - [2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1)  
 - [2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-27-希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1)  
 - [2020-07-27-国家卫健委：全国新增新冠肺炎确诊病例61例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Bo7zKYUkmjCvp4ppZjY200727&isfromapp=1)  
 - [2020-07-27-研究称秘鲁首都利马约25.3%的居民已感染新冠病毒](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIzvspR5RVnmiRMu74czB200727&isfromapp=1)  
-- [2020-07-27-美国新增新冠肺炎确诊病例68480例-累计确诊4222841例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioDHnZAMbJezjB4cpoQXH200727&isfromapp=1)  
-- [2020-07-27-世卫组织：全球新冠肺炎确诊病例新增200625例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixviCmoc4iWSIK0wcILXw200727&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 14:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-27 16:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,8 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1) 
+- [2020-07-27-受疫情影响，泰国今年GDP下调至-8.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY6DLDKuiiv95ci9Gmx9F200727&isfromapp=1) 
 - [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1) 
 - [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1) 
 - [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 14:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-27 16:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -46,7 +46,7 @@
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
-- [掘金前端](#掘金前端)![](assets/dot.png)   
+- [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)  
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)  
@@ -94,6 +94,9 @@
 </summary>
 
 
+- [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-受疫情影响，泰国今年GDP下调至-8.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY6DLDKuiiv95ci9Gmx9F200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-哈萨克斯坦新增1402例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nV07SXdWYLVlV0FNXQP200727&isfromapp=1) ![](assets/new.png)  
 - [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1)  
 - [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1)  
 - [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1)  
@@ -111,9 +114,6 @@
 - [2020-07-26-印度泰米尔纳德邦一国有银行38名职员确诊新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2aCYVDGeCXEy4QlEIGtZ200726&isfromapp=1)  
 - [2020-07-26-白俄罗斯新增130例新冠肺炎确诊病例-累计67132例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOSHvP0EHkvCaow0HEfL3200726&isfromapp=1)  
 - [2020-07-26-伊拉克新增2459例新冠肺炎确诊病例-累计确诊110032例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio6RYymJMz9bANqifXvM6200726&isfromapp=1)  
-- [2020-07-26-德国邮轮复航-立新规严抓检疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5MMJV3EWNRJh1ZxO6K5f200726&isfromapp=1)  
-- [2020-07-26-塞内加尔新增129例新冠肺炎确诊病例-累计9681例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzBPDV3QyNNfBBj8oXp0200726&isfromapp=1)  
-- [2020-07-26-非洲地区新冠肺炎确诊病例累计超82.8万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijTTEm7YtivDNYjPMPh8w200726&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -491,11 +491,11 @@
 </summary>
 
 
-- [2020-07-27-让你的-commit-更有价值](https://juejin.im/post/5f1e50c66fb9a07eb417d8d8) ![](assets/new.png)  
-- [2020-07-27-动画特辑二-音乐律动](https://juejin.im/post/5f126b246fb9a07e6d70c6cb) ![](assets/new.png)  
-- [2020-07-27-JavaScript中的reduce的5个用例](https://juejin.im/post/5f1e5294e51d45347416976a) ![](assets/new.png)  
-- [2020-07-27-记一次简单的Node.js爬虫经历](https://juejin.im/post/5f1e35636fb9a07e86470e2d) ![](assets/new.png)  
-- [2020-07-27-为什么要拥抱React-Hooks](https://juejin.im/post/5f1d43d36fb9a07eb65a7e9d) ![](assets/new.png)  
+- [2020-07-27-让你的-commit-更有价值](https://juejin.im/post/5f1e50c66fb9a07eb417d8d8)  
+- [2020-07-27-动画特辑二-音乐律动](https://juejin.im/post/5f126b246fb9a07e6d70c6cb)  
+- [2020-07-27-JavaScript中的reduce的5个用例](https://juejin.im/post/5f1e5294e51d45347416976a)  
+- [2020-07-27-记一次简单的Node.js爬虫经历](https://juejin.im/post/5f1e35636fb9a07e86470e2d)  
+- [2020-07-27-为什么要拥抱React-Hooks](https://juejin.im/post/5f1d43d36fb9a07eb65a7e9d)  
 - [2020-07-24-有人问：学历不好，技术不行，该怎么换工作？我：...](https://juejin.im/post/5f1b1fcb5188252e7a1c8779)  
 - [2020-07-24-ES2020-系列：新增基本数据类型-BigInt](https://juejin.im/post/5f1ad4ba6fb9a07e83521a69)  
 - [2020-07-24-ZooTeam-前端周刊｜第-92-期](https://juejin.im/post/5f1abbb75188252e51793d7b)  

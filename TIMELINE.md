@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 14:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-27 16:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,9 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-受疫情影响，泰国今年GDP下调至-8.1%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY6DLDKuiiv95ci9Gmx9F200727&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-哈萨克斯坦新增1402例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nV07SXdWYLVlV0FNXQP200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1) 

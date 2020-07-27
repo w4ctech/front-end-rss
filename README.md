@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-27 21:30:20，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-28 00:00:20，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)  
 - [Vue中文社区](#vue中文社区)  
 - [VUE全家桶](#vue全家桶)  
@@ -36,7 +36,7 @@
 - [前端瓶子君](#前端瓶子君)  
 - [程序员成长指北](#程序员成长指北)  
 - [Nodejs技术栈](#nodejs技术栈)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
@@ -94,11 +94,11 @@
 </summary>
 
 
-- [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-伦敦希斯罗机场启用消毒机器人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9i5dG50hJPLgyqlywCYU200727&isfromapp=1) ![](assets/new.png)  
-- [2020-07-27-世卫组织总干事：全球新冠肺炎病例数量过去六周翻了一倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti07QBrtpt9dHxysPk0UPp200727&isfromapp=1) ![](assets/new.png)  
+- [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1)  
+- [2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1)  
+- [2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1)  
+- [2020-07-27-伦敦希斯罗机场启用消毒机器人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9i5dG50hJPLgyqlywCYU200727&isfromapp=1)  
+- [2020-07-27-世卫组织总干事：全球新冠肺炎病例数量过去六周翻了一倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti07QBrtpt9dHxysPk0UPp200727&isfromapp=1)  
 - [2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373)  
 - [2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487)  
 - [2020-07-27-所有入境阿布扎比旅客须持有新冠病毒检测阴性证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizxxE9PFPpVEW6Fakq3WF200727&isfromapp=1)  
@@ -334,6 +334,7 @@
 </summary>
 
 
+- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) ![](assets/new.png)  
 - [2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)  
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)  
 - [2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/)  

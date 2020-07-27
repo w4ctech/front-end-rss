@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-27 21:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-28 00:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -495,6 +495,7 @@
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-国家卫健委：昨日新增6例新冠肺炎确诊病例-均为境外输入病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-阿根廷新增3645例新冠肺炎确诊病例-部分省份将于8月复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-15-秘鲁防长：本月1日调整隔离政策后-新冠肺炎病毒确诊病例增速略有回升-但仍可控](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1) 
+- [【张鑫旭-鑫空间-鑫生活】2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-22-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-07-01-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 

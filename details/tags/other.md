@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 07:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-28 08:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,7 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-28-加纳执政党主席：中国团结抗疫为世界树立榜样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOAweKPqjf3clIF8etbAK200728&isfromapp=1) 
 - [2020-07-28-美国佛罗里达州未成年感染人数增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisJdJk533pNYiA7lye1wU200728&isfromapp=1) 
 - [2020-07-27-谷歌将允许员工远程办公一直到-2021-年夏天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippyDP11eEXijdkFc4T3d200727&isfromapp=1) 
 - [2020-07-27-深圳市疾控机构已确认-9-名确诊港籍司机密接者-暂无新增病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPZ5b91pM0Q6pg1Xc5MH200727&isfromapp=1) 

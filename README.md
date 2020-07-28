@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-28 07:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-28 08:30:20，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,8 +94,10 @@
 </summary>
 
 
-- [2020-07-28-美国佛罗里达州未成年感染人数增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisJdJk533pNYiA7lye1wU200728&isfromapp=1) ![](assets/new.png)  
-- [2020-07-28-巴西新冠肺炎累计确诊人数超244万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOhUdbQELoU3X2xCVbaxs200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-上海7月27日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院1例](http://wsjkw.sh.gov.cn/xwfb/20200728/38f6575661c145b3878522103c5d5c53.html) ![](assets/new.png)  
+- [2020-07-28-加纳执政党主席：中国团结抗疫为世界树立榜样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOAweKPqjf3clIF8etbAK200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-美国佛罗里达州未成年感染人数增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisJdJk533pNYiA7lye1wU200728&isfromapp=1)  
+- [2020-07-28-巴西新冠肺炎累计确诊人数超244万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOhUdbQELoU3X2xCVbaxs200728&isfromapp=1)  
 - [2020-07-27-英国新冠肺炎确诊病例超过-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik60otUz7ki3POPR8JXQd200727&isfromapp=1)  
 - [2020-07-27-谷歌将允许员工远程办公一直到-2021-年夏天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippyDP11eEXijdkFc4T3d200727&isfromapp=1)  
 - [2020-07-27-深圳市疾控机构已确认-9-名确诊港籍司机密接者-暂无新增病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPZ5b91pM0Q6pg1Xc5MH200727&isfromapp=1)  
@@ -112,8 +114,6 @@
 - [2020-07-27-哈萨克斯坦新增1402例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6nV07SXdWYLVlV0FNXQP200727&isfromapp=1)  
 - [2020-07-27-大连市优先排查曾经的有疫情小区、老旧小区以及人口密集小区居民分批检测](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP3bLB5PaCqkWrh4BoWDY200727&isfromapp=1)  
 - [2020-07-27-“一车一喷壶、一客一消毒”大连严格公共交通工具消杀](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBFIlEkvYAedUl3Ffnsus200727&isfromapp=1)  
-- [2020-07-27-韩国：告别空场比赛-职业棒球联赛渐回正轨](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqWNxJO7PrYtBItvzjQtd200727&isfromapp=1)  
-- [2020-07-27-希腊古剧场首次向全球直播古典戏剧演出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqiauRWIzXzuIpWxsoxF200727&isfromapp=1)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

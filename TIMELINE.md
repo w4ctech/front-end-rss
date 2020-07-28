@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 07:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-28 08:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-上海7月27日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院1例](http://wsjkw.sh.gov.cn/xwfb/20200728/38f6575661c145b3878522103c5d5c53.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-加纳执政党主席：中国团结抗疫为世界树立榜样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOAweKPqjf3clIF8etbAK200728&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-美国佛罗里达州未成年感染人数增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisJdJk533pNYiA7lye1wU200728&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-巴西新冠肺炎累计确诊人数超244万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOhUdbQELoU3X2xCVbaxs200728&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-27-英国新冠肺炎确诊病例超过-30-万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik60otUz7ki3POPR8JXQd200727&isfromapp=1) 

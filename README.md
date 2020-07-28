@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-28 13:30:20，:rocket: 更新条数: +31， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-28 17:30:20，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -53,7 +53,7 @@
 - [知乎日报](#知乎日报)  
 - [V2EX](#v2ex)  
 - [技术头条](#技术头条)  
-- [开发者头条](#开发者头条)![](assets/dot.png)   
+- [开发者头条](#开发者头条)  
 
 ## 文章链接
 
@@ -94,11 +94,15 @@
 </summary>
 
 
-- [2020-07-28-大连14家企业定向服务-点对点的“无接触购物”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQkzLKtDWVtrX66YUjUhr200728&isfromapp=1) ![](assets/new.png)  
-- [2020-07-28-专业救捞力量联合出动-台湾海峡翻扣运砂船救助行动仍在持续中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVzKcIZFBKZfBHI8OYGR200728&isfromapp=1) ![](assets/new.png)  
-- [2020-07-28-大连市第六人民医院整体腾空已具备充足的新冠肺炎患者接诊能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSozHorn0MKn6ug5rYbMi200728&isfromapp=1) ![](assets/new.png)  
-- [2020-07-28-即日起大连市停止餐饮服务经营单位聚集性就餐活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBAw9eDpqJofWvgUjSZ2i200728&isfromapp=1) ![](assets/new.png)  
-- [2020-07-28-误入武汉的大连小伙回家乡又遇疫情-主动进隔离区当志愿者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIgmzZXEK1E6ByqCBbz3200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-悉尼多地出现社区传播病例-州长表示“极度担心”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAURyFy38bLuXZ1u0Vylz200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-​德国新增633例新冠肺炎确诊病例-累计达206242例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vfBcCM8t1X2u0vVZmAz200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-巴基斯坦新增936例新冠肺炎确诊病例-累计275224例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipOaShpQOcqMwM7cV5g4b200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-印度新增47703例新冠肺炎确诊病例-累计1483156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9gxSzWiuDctl7olZdjo200728&isfromapp=1) ![](assets/new.png)  
+- [2020-07-28-大连14家企业定向服务-点对点的“无接触购物”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQkzLKtDWVtrX66YUjUhr200728&isfromapp=1)  
+- [2020-07-28-专业救捞力量联合出动-台湾海峡翻扣运砂船救助行动仍在持续中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVzKcIZFBKZfBHI8OYGR200728&isfromapp=1)  
+- [2020-07-28-大连市第六人民医院整体腾空已具备充足的新冠肺炎患者接诊能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSozHorn0MKn6ug5rYbMi200728&isfromapp=1)  
+- [2020-07-28-即日起大连市停止餐饮服务经营单位聚集性就餐活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBAw9eDpqJofWvgUjSZ2i200728&isfromapp=1)  
+- [2020-07-28-误入武汉的大连小伙回家乡又遇疫情-主动进隔离区当志愿者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIgmzZXEK1E6ByqCBbz3200728&isfromapp=1)  
 - [2020-07-28-上海7月27日无新增本地新冠肺炎确诊病例-新增境外输入2例-治愈出院1例](http://wsjkw.sh.gov.cn/xwfb/20200728/38f6575661c145b3878522103c5d5c53.html)  
 - [2020-07-28-加纳执政党主席：中国团结抗疫为世界树立榜样](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOAweKPqjf3clIF8etbAK200728&isfromapp=1)  
 - [2020-07-28-美国佛罗里达州未成年感染人数增长迅速](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisJdJk533pNYiA7lye1wU200728&isfromapp=1)  
@@ -110,10 +114,6 @@
 - [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1)  
 - [2020-07-27-法国政府建议企业储备10周口罩用量应对可能出现的疫情反弹](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKkdhDd6hy75R9v8XOKDy200727&isfromapp=1)  
 - [2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1)  
-- [2020-07-27-伦敦希斯罗机场启用消毒机器人](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9i5dG50hJPLgyqlywCYU200727&isfromapp=1)  
-- [2020-07-27-世卫组织总干事：全球新冠肺炎病例数量过去六周翻了一倍](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti07QBrtpt9dHxysPk0UPp200727&isfromapp=1)  
-- [2020-07-27-美国一养老院集体感染近百人确诊](https://m.weibo.cn/3057540037/4531355503303373)  
-- [2020-07-27-香港防疫再升级：29日起全面禁堂食](https://m.weibo.cn/3057540037/4531337828244487)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -649,26 +649,26 @@
 </summary>
 
 
-- [2020-07-28-TypeScript-语法糖](https://toutiao.io/k/j5cbztp) ![](assets/new.png)  
-- [2020-07-28-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-07-28-数据与广告（二十二）：智能化投放中扩量场景的技术实现策略](https://toutiao.io/k/t72nvce) ![](assets/new.png)  
-- [2020-07-28-MySQL：锁的基本概念](https://toutiao.io/k/9z1kabl) ![](assets/new.png)  
-- [2020-07-28-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-07-28-30-分钟学会-XGBoost](https://toutiao.io/k/76d4uup) ![](assets/new.png)  
-- [2020-07-28-译-哪个更快？对-gRPC-的-Rust-和-Go-版本进行基准测试](https://toutiao.io/k/qx5ccr9) ![](assets/new.png)  
-- [2020-07-28-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-07-28-如何成为一个成功的首席数据官](https://toutiao.io/k/t9i0ghc) ![](assets/new.png)  
-- [2020-07-28-毫不留情地揭开-ArrayList-和-LinkedList-之间的神秘面纱](https://toutiao.io/k/mwawkyj) ![](assets/new.png)  
-- [2020-07-28-Netflix-的-DevSecOps-最佳实践](https://toutiao.io/k/up8xnbf) ![](assets/new.png)  
-- [2020-07-28-如何用二元分类器解决一个多分类任务？](https://toutiao.io/k/incq5xw) ![](assets/new.png)  
-- [2020-07-28-尚未到来的远程工作](https://toutiao.io/k/fsbcvn4) ![](assets/new.png)  
-- [2020-07-28-软件技术职业选择之道.pdf](https://toutiao.io/k/h5h15bk) ![](assets/new.png)  
-- [2020-07-28-携程-AI-应用的推理性能优化](https://toutiao.io/k/rahyvpm) ![](assets/new.png)  
-- [2020-07-28-彻底搞懂-Java-线程池，干啥都不再发憷](https://toutiao.io/k/wfepb4l) ![](assets/new.png)  
-- [2020-07-28-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o) ![](assets/new.png)  
-- [2020-07-28-译-Chrome-扩展变现的-9-种策略](https://toutiao.io/k/nreprv0) ![](assets/new.png)  
-- [2020-07-28-那些你可能不知道的谷歌浏览器实用技巧](https://toutiao.io/k/pprk4wr) ![](assets/new.png)  
-- [2020-07-28-Kafka-和-RocketMQ-底层存储之那些你不知道的事](https://toutiao.io/k/6hbfz19) ![](assets/new.png)  
+- [2020-07-28-TypeScript-语法糖](https://toutiao.io/k/j5cbztp)  
+- [2020-07-28-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0)  
+- [2020-07-28-数据与广告（二十二）：智能化投放中扩量场景的技术实现策略](https://toutiao.io/k/t72nvce)  
+- [2020-07-28-MySQL：锁的基本概念](https://toutiao.io/k/9z1kabl)  
+- [2020-07-28-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0)  
+- [2020-07-28-30-分钟学会-XGBoost](https://toutiao.io/k/76d4uup)  
+- [2020-07-28-译-哪个更快？对-gRPC-的-Rust-和-Go-版本进行基准测试](https://toutiao.io/k/qx5ccr9)  
+- [2020-07-28-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo)  
+- [2020-07-28-如何成为一个成功的首席数据官](https://toutiao.io/k/t9i0ghc)  
+- [2020-07-28-毫不留情地揭开-ArrayList-和-LinkedList-之间的神秘面纱](https://toutiao.io/k/mwawkyj)  
+- [2020-07-28-Netflix-的-DevSecOps-最佳实践](https://toutiao.io/k/up8xnbf)  
+- [2020-07-28-如何用二元分类器解决一个多分类任务？](https://toutiao.io/k/incq5xw)  
+- [2020-07-28-尚未到来的远程工作](https://toutiao.io/k/fsbcvn4)  
+- [2020-07-28-软件技术职业选择之道.pdf](https://toutiao.io/k/h5h15bk)  
+- [2020-07-28-携程-AI-应用的推理性能优化](https://toutiao.io/k/rahyvpm)  
+- [2020-07-28-彻底搞懂-Java-线程池，干啥都不再发憷](https://toutiao.io/k/wfepb4l)  
+- [2020-07-28-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o)  
+- [2020-07-28-译-Chrome-扩展变现的-9-种策略](https://toutiao.io/k/nreprv0)  
+- [2020-07-28-那些你可能不知道的谷歌浏览器实用技巧](https://toutiao.io/k/pprk4wr)  
+- [2020-07-28-Kafka-和-RocketMQ-底层存储之那些你不知道的事](https://toutiao.io/k/6hbfz19)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

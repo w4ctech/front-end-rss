@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 13:30:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-07-28 17:30:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,10 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-【境内疫情观察】湖北无症状感染者清零（6月30日）](http://m.database.caixin.com/m/2020-07-01/101574203.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-01-大流行手记|6月30日：欧盟拟向15国旅客开放边境-包括中国](https://m.caixin.com/m/2020-07-01/101573920.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-悉尼多地出现社区传播病例-州长表示“极度担心”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAURyFy38bLuXZ1u0Vylz200728&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-​德国新增633例新冠肺炎确诊病例-累计达206242例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9vfBcCM8t1X2u0vVZmAz200728&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-巴基斯坦新增936例新冠肺炎确诊病例-累计275224例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipOaShpQOcqMwM7cV5g4b200728&isfromapp=1) 
+- [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-印度新增47703例新冠肺炎确诊病例-累计1483156例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9gxSzWiuDctl7olZdjo200728&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-大连14家企业定向服务-点对点的“无接触购物”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQkzLKtDWVtrX66YUjUhr200728&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-专业救捞力量联合出动-台湾海峡翻扣运砂船救助行动仍在持续中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVzKcIZFBKZfBHI8OYGR200728&isfromapp=1) 
 - [【全国新型肺炎疫情实时动态(丁香园)】2020-07-28-大连市第六人民医院整体腾空已具备充足的新冠肺炎患者接诊能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSozHorn0MKn6ug5rYbMi200728&isfromapp=1) 

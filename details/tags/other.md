@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 13:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-28 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -719,6 +719,7 @@
 - [2020-01-23-管轶：去过武汉请自我隔离](http://m.china.caixin.com/m/2020-01-23/101507672.html) 
 - [2020-01-23-武汉凌晨宣布交通封城-部分市民游客选择连夜出城](http://m.china.caixin.com/m/2020-01-23/101507543.html) 
 - [2020-07-25-疫情总动员，各地怎么做|北京严防输入-广东远离野味](http://m.china.caixin.com/m/2020-03-04/101523830.html) 
+- [2020-07-28-悉尼多地出现社区传播病例-州长表示“极度担心”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAURyFy38bLuXZ1u0Vylz200728&isfromapp=1) 
 - [2020-07-28-大连14家企业定向服务-点对点的“无接触购物”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQkzLKtDWVtrX66YUjUhr200728&isfromapp=1) 
 - [2020-07-28-专业救捞力量联合出动-台湾海峡翻扣运砂船救助行动仍在持续中](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVzKcIZFBKZfBHI8OYGR200728&isfromapp=1) 
 - [2020-07-28-即日起大连市停止餐饮服务经营单位聚集性就餐活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBAw9eDpqJofWvgUjSZ2i200728&isfromapp=1) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 09:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 09:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -75,3 +75,4 @@
 - [2020-07-07-最新Vue底层原理实现概述](https://www.ershicimi.com/p/3c77841e27ecefe480cb5383620d2dc1) 
 - [2020-07-06-尤大：预计-8-月发布正式版-Vue-3.0！你还不学学么？](https://www.ershicimi.com/p/43ab9298de5e0516e864f31966c11700) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
+- [2020-07-31-坐标上海漕河泾，弹性工作制不加班不打卡的-NICE-团队，资深前端-Vue，-Tech-Lead,-C-端产品经理看过来](https://www.v2ex.com/t/694686) 

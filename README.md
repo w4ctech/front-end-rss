@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 13:18:34，:rocket: 更新条数: +3260， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 13:31:35，:rocket: 更新条数: +3260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-07-31-理发时间轴](https://www.v2ex.com/t/694734) ![](assets/new.png)  
 - [2020-07-31-为什么中国的网站、APP、软件总是喜欢用各种套路，诱导性的文字？](https://www.v2ex.com/t/694733) ![](assets/new.png)  
 - [2020-07-31-看到一个求指数幂的-c++程序，有点不太懂为什么要用-static-int-const](https://www.v2ex.com/t/694732) ![](assets/new.png)  
 - [2020-07-31-Big-Sur-Beta-3-Boot-Camp-也挂了😂](https://www.v2ex.com/t/694731) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-07-31-看看我的图片](https://www.v2ex.com/t/694715) ![](assets/new.png)  
 - [2020-07-31-目前待了-1-年-5-个月，跳槽的话，算频繁么](https://www.v2ex.com/t/694713) ![](assets/new.png)  
 - [2020-07-31-根据别人博客在-vue-上使用-wowjs-结果页面效果不显示，咋办](https://www.v2ex.com/t/694712) ![](assets/new.png)  
-- [2020-07-31-很后悔当时没有学医或者学法律](https://www.v2ex.com/t/694711) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,8 +1131,8 @@
 - [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
 - [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
-- [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-为什么拖拽的-api-都很难用？](https://toutiao.io/k/1tchm66) ![](assets/new.png)  
+- [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-5-分钟带你简单实现-SwiftUI-面向-Protocol-编程](https://toutiao.io/k/ekfbidc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

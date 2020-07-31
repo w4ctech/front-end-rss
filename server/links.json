@@ -232,5 +232,11 @@
     "title": "开发者头条",
     "link": "https://toutiao.io",
     "items": []
+  },
+  {
+    "rss": "https://sec.thief.one/atom.xml",
+    "title": "安全热点",
+    "link": "https://sec.thief.one",
+    "items": []
   }
 ]

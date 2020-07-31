@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 06:21:15，:rocket: 更新条数: +3153， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 06:31:27，:rocket: 更新条数: +3154， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -94,11 +94,11 @@
 </summary>
 
 
+- [2020-07-31-香港玛丽医院-91岁新冠肺炎患者离世，累计死亡病例增至27例](https://m.weibo.cn/3057540037/4532751262814549) ![](assets/new.png)  
+- [2020-07-31-香港食品委员会主席：疫情期间内地对港副食品供应充足-对国家有信心](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioTXSbuymYlOCfvFgU4b4200731&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-对大连凯洋公司疫点终末消毒出动消毒队员150余人次-消毒面积15000余平方米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHAGT0qN2ZABaJ6frhhK200731&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-大连已有206名医护人员进驻隔离病区-7月22日以来累计转运752人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9IzunjHYfpO5PDmaMxUR200731&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-大连累计完成核酸检测389.2万份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaAnNbpbb6G7REexrF3y0200731&isfromapp=1) ![](assets/new.png)  
-- [2020-07-31-澳大利亚维州新冠肺炎确诊病例破万-1/4确诊病例未遵守隔离规定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibynqY9aGKTun0H6ZM785200731&isfromapp=1) ![](assets/new.png)  
-- [2020-07-31-7月30日0时至24时-天津新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiycyHLSbs8B8N47Pxi4cl200731&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -476,6 +476,9 @@
 </summary>
 
 
+- [2020-07-31-图片压缩原理](https://www.ershicimi.com/p/38acef5560c6e8e52234d7725053a8c1) ![](assets/new.png)  
+- [2020-07-30-【答案详解】145道Web高频面试题，锁定高薪Offer](https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00) ![](assets/new.png)  
+- [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) ![](assets/new.png)  
 - [2020-07-28-几个常见面试题，工作中也经常用到](https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703) ![](assets/new.png)  
 - [2020-07-27-聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a) ![](assets/new.png)  
 - [2020-07-24-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/c248c3768a872577152c1f8b04130125) ![](assets/new.png)  
@@ -493,9 +496,6 @@
 - [2020-07-15-微信支持H5跳转App、跳转小程序](https://www.ershicimi.com/p/9e8e05643c3116ac63168897aecd4354) ![](assets/new.png)  
 - [2020-07-14-作为前端，我是如何在Leetcode-算法比赛中进入前100的？](https://www.ershicimi.com/p/b81e3a53f3e7abe47d6a07887eddf078) ![](assets/new.png)  
 - [2020-07-13-手把手带你实现ToyReact框架](https://www.ershicimi.com/p/8ec753072b6b678dadb7422889c89a39) ![](assets/new.png)  
-- [2020-07-12-JavaScript事件循环机制解析](https://www.ershicimi.com/p/750c65f8b57f9c41a50054c7c6ccc858) ![](assets/new.png)  
-- [2020-07-11-免费直播！真.零基础能学会的前端入门教程，还带实操抖音风格字体特效！](https://www.ershicimi.com/p/1039b5bd0a6c4119f8bbac1551d20995) ![](assets/new.png)  
-- [2020-07-10-【技术篇】如何搞定react组件化](https://www.ershicimi.com/p/e35dab87f7e2fa27a08d0c3e61285d34) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1051,7 +1051,13 @@
 </summary>
 
 
-- [2020-07-31-杭州·上市·个推-内推-～～-P-到-M-序列各种岗位都有在招～～](https://www.v2ex.com/t/694632) ![](assets/new.png)  
+- [2020-07-31-分享赛博螃克🦀一只](https://www.v2ex.com/t/694638) ![](assets/new.png)  
+- [2020-07-31-运动手环根本没有想换新的欲望](https://www.v2ex.com/t/694637) ![](assets/new.png)  
+- [2020-07-31-送一张今晚-9-点争-上海电影节票-灯塔](https://www.v2ex.com/t/694636) ![](assets/new.png)  
+- [2020-07-31-咸鱼小法庭是什么逻辑，投票时候名字没显示全，但是点击能进个人页，那还隐藏干嘛。](https://www.v2ex.com/t/694635) ![](assets/new.png)  
+- [2020-07-31-这几个月-Windows-10-的一些网络相关功能都不正常](https://www.v2ex.com/t/694634) ![](assets/new.png)  
+- [2020-07-31-如何保证重要进程不因为进程调度而频繁挂起？](https://www.v2ex.com/t/694633) ![](assets/new.png)  
+- [2020-07-31-杭州·上市·个推-内推-P-到-M-序列，各种岗位都有在招](https://www.v2ex.com/t/694632) ![](assets/new.png)  
 - [2020-07-31-dataframe-数据怎么能把索引问题](https://www.v2ex.com/t/694631) ![](assets/new.png)  
 - [2020-07-31-社招-跨境电商公司-招聘-Java-高级工程师/Leader](https://www.v2ex.com/t/694630) ![](assets/new.png)  
 - [2020-07-31-现在-macOS-上的-FF-真的很好用了](https://www.v2ex.com/t/694629) ![](assets/new.png)  
@@ -1065,12 +1071,6 @@
 - [2020-07-31-macbook-pro-有显示不模糊的适配显示器吗？](https://www.v2ex.com/t/694619) ![](assets/new.png)  
 - [2020-07-31-在行-看到一位大师关于学习编程的描述，大家鉴定](https://www.v2ex.com/t/694618) ![](assets/new.png)  
 - [2020-07-31-BudWk-国产-Java-微服务分布式框架在智慧燃气行业的应用](https://www.v2ex.com/t/694617) ![](assets/new.png)  
-- [2020-07-31-通过-Google-Earth-查看地球各个地方在过去-35-年的变化](https://www.v2ex.com/t/694614) ![](assets/new.png)  
-- [2020-07-31-npm-安装时下载-github-内容下载不动，用代理的话就不能用国内源了，这事不能两全吗？](https://www.v2ex.com/t/694611) ![](assets/new.png)  
-- [2020-07-31-Java-如何导入上级模块？](https://www.v2ex.com/t/694610) ![](assets/new.png)  
-- [2020-07-31-请问有人知道深圳市观麦网络科技有限公司吗](https://www.v2ex.com/t/694608) ![](assets/new.png)  
-- [2020-07-31-米哈游-秋季校招-秋季校招开启](https://www.v2ex.com/t/694606) ![](assets/new.png)  
-- [2020-07-31-Linux-如何限制危险操作？](https://www.v2ex.com/t/694605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,8 +1115,8 @@
 
 - [2020-07-31-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
 - [2020-07-31-又拍云网关速率限制实践](https://toutiao.io/k/5to2tpq) ![](assets/new.png)  
-- [2020-07-31-当遇到跨域开发时,-我们如何处理好前后端配置和请求库封装（koa/axios-版）](https://toutiao.io/k/8osmno2) ![](assets/new.png)  
 - [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
+- [2020-07-31-当遇到跨域开发时,-我们如何处理好前后端配置和请求库封装（koa/axios-版）](https://toutiao.io/k/8osmno2) ![](assets/new.png)  
 - [2020-07-31-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-07-31-IDEA-命令行缩短器助你解决此问题：Command-line-is-too-long.-Shorten-command-line](https://toutiao.io/k/92z51sr) ![](assets/new.png)  
 - [2020-07-31-特征提取-+-分类模型：4-种常见的-NLP-实践思路](https://toutiao.io/k/aifa4fg) ![](assets/new.png)  
@@ -1128,8 +1128,8 @@
 - [2020-07-31-特征工程：特征获取、特征规范和特征存储](https://toutiao.io/k/yy4aclp) ![](assets/new.png)  
 - [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
-- [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
 - [2020-07-31-干！一张图整理了-Python-所有内置异常](https://toutiao.io/k/kqh7ypo) ![](assets/new.png)  
+- [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
 - [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-为什么拖拽的-api-都很难用？](https://toutiao.io/k/1tchm66) ![](assets/new.png)  
 - [2020-07-31-5-分钟带你简单实现-SwiftUI-面向-Protocol-编程](https://toutiao.io/k/ekfbidc) ![](assets/new.png)  

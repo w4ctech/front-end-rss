@@ -12402,6 +12402,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "香港玛丽医院 91岁新冠肺炎患者离世，累计死亡病例增至27例",
+        "link": "https://m.weibo.cn/3057540037/4532751262814549",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "香港食品委员会主席：疫情期间内地对港副食品供应充足 对国家有信心",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioTXSbuymYlOCfvFgU4b4200731&isfromapp=1",
+        "date": "2020-07-31"
+      },
+      {
         "title": "对大连凯洋公司疫点终末消毒出动消毒队员150余人次 消毒面积15000余平方米",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHAGT0qN2ZABaJ6frhhK200731&isfromapp=1",
         "date": "2020-07-31"
@@ -12414,16 +12424,6 @@
       {
         "title": "大连累计完成核酸检测389.2万份",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaAnNbpbb6G7REexrF3y0200731&isfromapp=1",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "澳大利亚维州新冠肺炎确诊病例破万 1/4确诊病例未遵守隔离规定",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibynqY9aGKTun0H6ZM785200731&isfromapp=1",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "7月30日0时至24时 天津新增境外输入确诊病例1例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiycyHLSbs8B8N47Pxi4cl200731&isfromapp=1",
         "date": "2020-07-31"
       }
     ]
@@ -13688,6 +13688,21 @@
     "link": "https://www.ershicimi.com/a/9457",
     "items": [
       {
+        "title": "图片压缩原理",
+        "link": "https://www.ershicimi.com/p/38acef5560c6e8e52234d7725053a8c1",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "【答案详解】145道Web高频面试题，锁定高薪Offer",
+        "link": "https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00",
+        "date": "2020-07-30"
+      },
+      {
+        "title": "使用 Vue 3.0，你可能不再需要Vuex了",
+        "link": "https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed",
+        "date": "2020-07-29"
+      },
+      {
         "title": "几个常见面试题，工作中也经常用到",
         "link": "https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703",
         "date": "2020-07-28"
@@ -13771,21 +13786,6 @@
         "title": "手把手带你实现ToyReact框架",
         "link": "https://www.ershicimi.com/p/8ec753072b6b678dadb7422889c89a39",
         "date": "2020-07-13"
-      },
-      {
-        "title": "JavaScript事件循环机制解析",
-        "link": "https://www.ershicimi.com/p/750c65f8b57f9c41a50054c7c6ccc858",
-        "date": "2020-07-12"
-      },
-      {
-        "title": "免费直播！真.零基础能学会的前端入门教程，还带实操抖音风格字体特效！",
-        "link": "https://www.ershicimi.com/p/1039b5bd0a6c4119f8bbac1551d20995",
-        "date": "2020-07-11"
-      },
-      {
-        "title": "【技术篇】如何搞定react组件化",
-        "link": "https://www.ershicimi.com/p/e35dab87f7e2fa27a08d0c3e61285d34",
-        "date": "2020-07-10"
       }
     ]
   },
@@ -15554,7 +15554,37 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "[杭州·上市·个推] 内推 ～～ P 到 M 序列各种岗位都有在招～～",
+        "title": "分享赛博螃克🦀一只",
+        "link": "https://www.v2ex.com/t/694638",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "运动手环根本没有想换新的欲望",
+        "link": "https://www.v2ex.com/t/694637",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "送一张今晚 9 点争 上海电影节票 灯塔",
+        "link": "https://www.v2ex.com/t/694636",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "咸鱼小法庭是什么逻辑，投票时候名字没显示全，但是点击能进个人页，那还隐藏干嘛。",
+        "link": "https://www.v2ex.com/t/694635",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "这几个月 Windows 10 的一些网络相关功能都不正常",
+        "link": "https://www.v2ex.com/t/694634",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "如何保证重要进程不因为进程调度而频繁挂起？",
+        "link": "https://www.v2ex.com/t/694633",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[杭州·上市·个推] 内推 P 到 M 序列，各种岗位都有在招",
         "link": "https://www.v2ex.com/t/694632",
         "date": "2020-07-31"
       },
@@ -15712,31 +15742,6 @@
         "title": "美团酒旅搜索组 算法工程师（NLP、排序方向）",
         "link": "https://www.v2ex.com/t/694589",
         "date": "2020-07-31"
-      },
-      {
-        "title": "如何在 numpy 中快速实现这样的操作",
-        "link": "https://www.v2ex.com/t/694588",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "Windows 10 Enterprise 2016 LTSB 经常出现桌面卡死、explorer 无响应，你们出现过这样的情况没？怎么解决的？",
-        "link": "https://www.v2ex.com/t/694587",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "大家的项目前后端接口是领域接口还是聚合接口？",
-        "link": "https://www.v2ex.com/t/694586",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "Linux ip route 添加路由表的时候， table 编号上限是多少？",
-        "link": "https://www.v2ex.com/t/694584",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "美团前端招聘(20K-40K)，欢迎投递～",
-        "link": "https://www.v2ex.com/t/694583",
-        "date": "2020-07-31"
       }
     ]
   },
@@ -15863,13 +15868,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装（koa/axios 版）",
-        "link": "https://toutiao.io/k/8osmno2",
+        "title": "ArrayList 的删除姿势你都掌握了吗",
+        "link": "https://toutiao.io/k/ygdemqg",
         "date": "2020-07-31"
       },
       {
-        "title": "ArrayList 的删除姿势你都掌握了吗",
-        "link": "https://toutiao.io/k/ygdemqg",
+        "title": "当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装（koa/axios 版）",
+        "link": "https://toutiao.io/k/8osmno2",
         "date": "2020-07-31"
       },
       {
@@ -15928,13 +15933,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "Parallel Gzip: Pigz",
-        "link": "https://toutiao.io/k/rf7j3sf",
+        "title": "干！一张图整理了 Python 所有内置异常",
+        "link": "https://toutiao.io/k/kqh7ypo",
         "date": "2020-07-31"
       },
       {
-        "title": "干！一张图整理了 Python 所有内置异常",
-        "link": "https://toutiao.io/k/kqh7ypo",
+        "title": "Parallel Gzip: Pigz",
+        "link": "https://toutiao.io/k/rf7j3sf",
         "date": "2020-07-31"
       },
       {
@@ -15958,68 +15963,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
-        "link": "https://toutiao.io/k/fw0x414",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/knhm23r",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
-        "link": "https://toutiao.io/k/cco702x",
-        "date": "2020-07-31"
-      },
-      {
         "title": "[推荐] SQL 注入笔记",
         "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 一文了解 Kubernetes",
-        "link": "https://toutiao.io/k/5wmgc1g",
         "date": "2020-07-31"
       },
       {
@@ -16030,6 +15975,66 @@
       {
         "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
         "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
+        "link": "https://toutiao.io/k/fw0x414",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/knhm23r",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
+        "link": "https://toutiao.io/k/cco702x",
         "date": "2020-07-31"
       }
     ]

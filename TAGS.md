@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-31 06:21:15。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 06:31:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -52,13 +52,13 @@
 - [【前端之巅】为React开发人员推荐8个测试工具、库和框架](https://www.ershicimi.com/p/0654f3cef0becfa06614e9835dc6fd0c)
 - [【前端之巅】为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/b948531bf4b2eef998fcba84e2ddb282)
 - [【前端迷】手把手带你实现ToyReact框架](https://www.ershicimi.com/p/8ec753072b6b678dadb7422889c89a39)
-- [【前端迷】【技术篇】如何搞定react组件化](https://www.ershicimi.com/p/e35dab87f7e2fa27a08d0c3e61285d34)
 - [【全栈前端精选】你不知道的React-和-Vue-的20个区别【源码层面】](https://www.ershicimi.com/p/79aaa135b9626045f6e7dfb6004b5dd2)
 - [【政采云前端团队】这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149)
 - [【前端宇宙】来呀，一起造一个简易React呀~](https://www.ershicimi.com/p/5f42caafa59624cac6118c9616154535)
 - [【程序员成长指北】为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353)
 - [【Nodejs技术栈】邂逅-React，成为大厂爱招的人~](https://www.ershicimi.com/p/21c2db02b7e4a2c02788eb44c659f429)
 - [【奇舞周刊】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/ecd81065416564e9736e95053e239a45)
+- [【前端日刊】React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -463,9 +463,9 @@
 - [【InfoQ】全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台-|-Q推荐](https://www.ershicimi.com/p/5c7c6a64dfd6eba939235716545ca70b)
 - [【V2EX】美团酒旅搜索组-算法工程师（NLP、排序方向）](https://www.v2ex.com/t/694589)
 - [【开发者头条】ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6)
+- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
 - [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
-- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

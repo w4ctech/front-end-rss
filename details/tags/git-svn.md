@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 13:08:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 13:17:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -18,5 +18,4 @@
 - [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) 
 - [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) 
 - [2020-07-31-GitHub：宝塔-Linux-面板---简单好用的服务器运维面板](https://www.v2ex.com/t/694692) 
-- [2020-07-31-Github：-Python-爬虫实战-模拟登陆各大网站](https://www.v2ex.com/t/694682) 
 - [2020-07-31-连续霸榜Github!又有一个Linux神器出现了](https://sec.thief.one/article_content?a_id=c6ca5bdcb7e02bcc0591f07330f0aac4) 

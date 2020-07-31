@@ -15564,6 +15564,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么中国的网站、APP、软件总是喜欢用各种套路，诱导性的文字？",
+        "link": "https://www.v2ex.com/t/694733",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "看到一个求指数幂的 c++程序，有点不太懂为什么要用 static int const",
+        "link": "https://www.v2ex.com/t/694732",
+        "date": "2020-07-31"
+      },
+      {
         "title": "Big Sur Beta 3 Boot Camp 也挂了😂",
         "link": "https://www.v2ex.com/t/694731",
         "date": "2020-07-31"
@@ -15762,16 +15772,6 @@
         "title": "项目自由组队 一些个人思考 欢迎批判",
         "link": "https://www.v2ex.com/t/694684",
         "date": "2020-07-31"
-      },
-      {
-        "title": "ios14 天气会一直在后台使用定位服务",
-        "link": "https://www.v2ex.com/t/694683",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "Github： Python 爬虫实战-模拟登陆各大网站",
-        "link": "https://www.v2ex.com/t/694682",
-        "date": "2020-07-31"
       }
     ]
   },
@@ -15908,13 +15908,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "ArrayList 的删除姿势你都掌握了吗",
-        "link": "https://toutiao.io/k/ygdemqg",
+        "title": "当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装（koa/axios 版）",
+        "link": "https://toutiao.io/k/8osmno2",
         "date": "2020-07-31"
       },
       {
-        "title": "当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装（koa/axios 版）",
-        "link": "https://toutiao.io/k/8osmno2",
+        "title": "ArrayList 的删除姿势你都掌握了吗",
+        "link": "https://toutiao.io/k/ygdemqg",
         "date": "2020-07-31"
       },
       {
@@ -15973,13 +15973,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "为什么拖拽的 api 都很难用？",
-        "link": "https://toutiao.io/k/1tchm66",
+        "title": "Kubernetes 为什么需要策略支持",
+        "link": "https://toutiao.io/k/48fgowf",
         "date": "2020-07-31"
       },
       {
-        "title": "Kubernetes 为什么需要策略支持",
-        "link": "https://toutiao.io/k/48fgowf",
+        "title": "为什么拖拽的 api 都很难用？",
+        "link": "https://toutiao.io/k/1tchm66",
         "date": "2020-07-31"
       },
       {
@@ -15993,63 +15993,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/knhm23r",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
-        "date": "2020-07-31"
-      },
-      {
         "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
         "link": "https://toutiao.io/k/vqn7rz6",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
-        "link": "https://toutiao.io/k/cco702x",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-07-31"
       },
       {
@@ -16058,8 +16003,63 @@
         "date": "2020-07-31"
       },
       {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-07-31"
+      },
+      {
         "title": "[推荐] 从 0 到 1 开始前端异常监控",
         "link": "https://toutiao.io/k/txe46k2",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 消息队列面试连环问：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？",
+        "link": "https://toutiao.io/k/sfgpn4c",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
+        "link": "https://toutiao.io/k/cco702x",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
         "date": "2020-07-31"
       },
       {

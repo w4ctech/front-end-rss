@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 13:08:28，:rocket: 更新条数: +3260， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 13:17:00，:rocket: 更新条数: +3260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-07-31-为什么中国的网站、APP、软件总是喜欢用各种套路，诱导性的文字？](https://www.v2ex.com/t/694733) ![](assets/new.png)  
+- [2020-07-31-看到一个求指数幂的-c++程序，有点不太懂为什么要用-static-int-const](https://www.v2ex.com/t/694732) ![](assets/new.png)  
 - [2020-07-31-Big-Sur-Beta-3-Boot-Camp-也挂了😂](https://www.v2ex.com/t/694731) ![](assets/new.png)  
 - [2020-07-31-为什么-ARM-版-Mac-运行效率很高？｜少数派](https://www.v2ex.com/t/694730) ![](assets/new.png)  
 - [2020-07-31-很奇怪为什么很多宣称惰性求值的语言反而没有在链式处理数据的时候只遍历一次](https://www.v2ex.com/t/694729) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-07-31-目前待了-1-年-5-个月，跳槽的话，算频繁么](https://www.v2ex.com/t/694713) ![](assets/new.png)  
 - [2020-07-31-根据别人博客在-vue-上使用-wowjs-结果页面效果不显示，咋办](https://www.v2ex.com/t/694712) ![](assets/new.png)  
 - [2020-07-31-很后悔当时没有学医或者学法律](https://www.v2ex.com/t/694711) ![](assets/new.png)  
-- [2020-07-31-开发了一个-直播盯货助手-小程序，求体验反馈](https://www.v2ex.com/t/694710) ![](assets/new.png)  
-- [2020-07-31-想来日本工作的童靴，说不定可以考虑应聘一下日本的乡下企业哟（思路提供）](https://www.v2ex.com/t/694709) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,8 +1118,8 @@
 - [2020-07-31-又拍云网关速率限制实践](https://toutiao.io/k/5to2tpq) ![](assets/new.png)  
 - [2020-07-31-干！一张图整理了-Python-所有内置异常](https://toutiao.io/k/kqh7ypo) ![](assets/new.png)  
 - [2020-07-31-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-当遇到跨域开发时,-我们如何处理好前后端配置和请求库封装（koa/axios-版）](https://toutiao.io/k/8osmno2) ![](assets/new.png)  
+- [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-IDEA-命令行缩短器助你解决此问题：Command-line-is-too-long.-Shorten-command-line](https://toutiao.io/k/92z51sr) ![](assets/new.png)  
 - [2020-07-31-特征提取-+-分类模型：4-种常见的-NLP-实践思路](https://toutiao.io/k/aifa4fg) ![](assets/new.png)  
 - [2020-07-31-使用-AWK-进行文件内容-join](https://toutiao.io/k/x6s9v5u) ![](assets/new.png)  
@@ -1131,8 +1131,8 @@
 - [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
 - [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
-- [2020-07-31-为什么拖拽的-api-都很难用？](https://toutiao.io/k/1tchm66) ![](assets/new.png)  
 - [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
+- [2020-07-31-为什么拖拽的-api-都很难用？](https://toutiao.io/k/1tchm66) ![](assets/new.png)  
 - [2020-07-31-5-分钟带你简单实现-SwiftUI-面向-Protocol-编程](https://toutiao.io/k/ekfbidc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:33:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 12:46:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -68,7 +68,6 @@
 - [2020-07-26-「牛客网」45道JS能力测评经典题总结](https://www.ershicimi.com/p/fab77a10f0e38b36bd4898a091577763) 
 - [2020-07-22-值得收藏---万字梳理JS初级到高级知识点](https://www.ershicimi.com/p/4c73d45df905c0c0f734129281b04423) 
 - [2020-07-20-深度解析bind原理、使用场景及模拟实现](https://www.ershicimi.com/p/4ca55f7498f974b5ec80a225f39f1748) 
-- [2020-07-21-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/53930947cf0c43ebebb82ff406652fad) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
@@ -117,7 +116,5 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
-- [2020-07-31-chrome-里-body-里的-json-请求和-preview-不一致，值变成-null-了](https://www.v2ex.com/t/694689) 
 - [2020-07-31-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-31-Android-主题色无缝切换方案:Databinding下实现控件皮肤无缝切换-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13641&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbm4AkagSLri0RCOIc4uaag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-07-31-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 

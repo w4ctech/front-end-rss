@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 05:48:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 06:02:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -91,6 +91,7 @@
 - [2019-12-02-（译）JavaScript的工作原理：事件循环和异步编程的兴起-+-5-种-async/await-更好的编码方式](https://juejin.im/post/5ddf3dce6fb9a071a254721b) 
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
+- [2020-07-31-macbook-pro-有显示不模糊的适配显示器吗？](https://www.v2ex.com/t/694619) 
 - [2020-07-31-Linux-ip-route-添加路由表的时候，-table-编号上限是多少？](https://www.v2ex.com/t/694584) 
 - [2020-07-31-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-31-Android-主题色无缝切换方案:Databinding下实现控件皮肤无缝切换-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13641&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbm4AkagSLri0RCOIc4uaag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 12:13:03，:rocket: 更新条数: +778， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 12:25:12，:rocket: 更新条数: +3258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-30-最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html) ![](assets/new.png)  
+- [2020-07-30-最新海外疫情：新冠感染者超1717万-累计死亡近67万](http://m.international.caixin.com/m/2020-07-31/101587147.html) ![](assets/new.png)  
+- [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
+- [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
+- [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
+- [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
+- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
+- [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
+- [2020-07-29-大连：对高风险地区重点人群开展第二次核酸采样](http://m.china.caixin.com/m/2020-07-30/101586294.html) ![](assets/new.png)  
+- [2020-07-29-德国最新研究：78%受访新冠康复者心脏受损](https://m.caixin.com/m/2020-07-30/101586183.html) ![](assets/new.png)  
+- [2020-07-29-新冠劫后余生约翰逊警醒过胖风险-英国发动全民减重运动](http://m.international.caixin.com/m/2020-07-30/101586564.html) ![](assets/new.png)  
+- [2020-07-28-【境内疫情观察】全国新增确诊连续5日上升（7月28日）](http://m.database.caixin.com/m/2020-07-29/101585907.html) ![](assets/new.png)  
+- [2020-07-28-大流行手记|7月28日：WHO称疫情不受季节周期影响-越南突现多名本土病例](https://m.caixin.com/m/2020-07-29/101585756.html) ![](assets/new.png)  
+- [2020-07-28-北京新增病例系27日确诊病例女婿-同楼606名居民检测均为阴性](https://m.caixin.com/m/2020-07-29/101586008.html) ![](assets/new.png)  
+- [2020-07-28-大连累计确诊52例-30例为凯洋海鲜公司员工](http://m.china.caixin.com/m/2020-07-29/101585813.html) ![](assets/new.png)  
+- [2020-07-27-【境内疫情观察】新疆新增57例本土病例（7月27日）](http://m.database.caixin.com/m/2020-07-28/101585472.html) ![](assets/new.png)  
+- [2020-07-27-大流行手记|7月27日：非洲新冠确诊过84万人-南非启动疫苗试验](https://m.caixin.com/m/2020-07-28/101585332.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,7 @@
 </summary>
 
 
+- [2020-07-31-北京，美食荒漠](https://www.v2ex.com/t/694725) ![](assets/new.png)  
 - [2020-07-31-火星新聞-MSFS2020-上架-Steam!](https://www.v2ex.com/t/694724) ![](assets/new.png)  
 - [2020-07-31-奉劝同志们不要对创业公司抱有幻想](https://www.v2ex.com/t/694723) ![](assets/new.png)  
 - [2020-07-31-帮友征-很有趣的伪-90-摩羯座妹子，是个运营，希望找个技术小哥一起搞事情](https://www.v2ex.com/t/694721) ![](assets/new.png)  
@@ -1051,7 +1072,6 @@
 - [2020-07-31-3000-元笔记本求推荐](https://www.v2ex.com/t/694703) ![](assets/new.png)  
 - [2020-07-31-icloud-恢复微信备份已经-24-小时了，还没恢复玩，已经-24-小时不能登陆微信了](https://www.v2ex.com/t/694702) ![](assets/new.png)  
 - [2020-07-31-今天突然想起上半年发现的欧莱雅的泄漏的那个开源项目，不应该来-V2EX-发帖的](https://www.v2ex.com/t/694701) ![](assets/new.png)  
-- [2020-07-31-反编译微信小程序还有不会的么](https://www.v2ex.com/t/694700) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

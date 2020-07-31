@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 14:31:59，:rocket: 更新条数: +3231， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 14:33:39，:rocket: 更新条数: +3256， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-07-31-中国驻泰使馆提醒：泰国赴华航班乘客需凭新冠病毒核酸检测阴性证明登机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivekn7xTB3jd83YSMmNoZ200731&isfromapp=1) ![](assets/new.png)  
+- [2020-07-31-担忧疫情蔓延-英国政府推迟放松防疫管制措施](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRIumQbS2TgMQLPaBz9Gp200731&isfromapp=1) ![](assets/new.png)  
+- [2020-07-31-还嫌感染不够多？崔娃吐槽美国多市聚集性活动](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuhpnDtGOrYdgvVXCNvLy200731&isfromapp=1) ![](assets/new.png)  
+- [2020-07-31-比尔·盖茨：多国疫情应对速度快于美国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijCl7OyzpRLAOZjPG5m9k200731&isfromapp=1) ![](assets/new.png)  
+- [2020-07-31-尼泊尔新冠肺炎确诊病例累计达19771例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81T1r25V69q6ExwFWuFG200731&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -224,6 +229,26 @@
 </summary>
 
 
+- [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) ![](assets/new.png)  
+- [2020-07-30-【招聘】上海Treelab招高级前端架构师、高级React开发工程师](https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8) ![](assets/new.png)  
+- [2020-07-29-2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940) ![](assets/new.png)  
+- [2020-07-29-【第2018期】小图标，大学问](https://www.ershicimi.com/p/892703378c482db1fa0819d2384a61f8) ![](assets/new.png)  
+- [2020-07-28-【第2017期】如何在滴滴落地-Chameleon](https://www.ershicimi.com/p/75bfd3aa65e4a690461c9e54b11afb45) ![](assets/new.png)  
+- [2020-07-28-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e) ![](assets/new.png)  
+- [2020-07-27-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320) ![](assets/new.png)  
+- [2020-07-27-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172) ![](assets/new.png)  
+- [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) ![](assets/new.png)  
+- [2020-07-26-【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b) ![](assets/new.png)  
+- [2020-07-24-【第2013期】用-puppeteer-实现网站自动分页截取的趣事](https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848) ![](assets/new.png)  
+- [2020-07-24-【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启](https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8) ![](assets/new.png)  
+- [2020-07-23-【第2012期】支付宝Web3D发展史](https://www.ershicimi.com/p/d08c30f4baf8f5bd11911ff9e8cec104) ![](assets/new.png)  
+- [2020-07-22-【第2011期】NutUI-实战：持续升级企业业务之福礼](https://www.ershicimi.com/p/e6f04dbcc14104a1b24d1c8807ee5fbb) ![](assets/new.png)  
+- [2020-07-22-【招聘】北京数猎天下科技招高级前端工程师](https://www.ershicimi.com/p/e593d85cf0a5816d38345d2f408a6300) ![](assets/new.png)  
+- [2020-07-21-前端工程师必备的TS知识点，不来看看？](https://www.ershicimi.com/p/9615a24dd230f6e631eccb430b94fdff) ![](assets/new.png)  
+- [2020-07-21-【第2010期】QQ音乐Android客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/60282b2dfda54fde4c15cef6d0f05e50) ![](assets/new.png)  
+- [2020-07-20-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5) ![](assets/new.png)  
+- [2020-07-20-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](https://www.ershicimi.com/p/f1b91eb7d0e70ede26ac13b84fe25f1e) ![](assets/new.png)  
+- [2020-07-19-【第2008期】多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/a23385dbea443060c31723a02fb1acf4) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

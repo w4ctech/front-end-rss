@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 20:19:28，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 20:31:25，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,7 +1072,7 @@
 </summary>
 
 
-- [2020-07-31-怎样在-V2EX-输入代码-？-想输入一段-Python-程序如下](https://www.v2ex.com/t/694760) ![](assets/new.png)  
+- [2020-07-31-V2EX-Preview-不会代码-highlight-对吗？](https://www.v2ex.com/t/694760) ![](assets/new.png)  
 - [2020-07-31-如果-MacBook-Pro-上支架，那-Type-C-的转接线悬在空中的问题怎么解决？](https://www.v2ex.com/t/694759) ![](assets/new.png)  
 - [2020-07-31-iPadOS-能否关闭负一屏？](https://www.v2ex.com/t/694757) ![](assets/new.png)  
 - [2020-07-31-四川移动老套餐流量扩容开始了](https://www.v2ex.com/t/694756) ![](assets/new.png)  
@@ -1150,9 +1150,9 @@
 - [2020-07-31-特征工程：特征获取、特征规范和特征存储](https://toutiao.io/k/yy4aclp) ![](assets/new.png)  
 - [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
+- [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
 - [2020-07-31-为什么拖拽的-api-都很难用？](https://toutiao.io/k/1tchm66) ![](assets/new.png)  
-- [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-5-分钟带你简单实现-SwiftUI-面向-Protocol-编程](https://toutiao.io/k/ekfbidc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

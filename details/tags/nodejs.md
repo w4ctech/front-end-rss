@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 11:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -14,6 +14,3 @@
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
-- [2020-07-27-记一次简单的Node.js爬虫经历](https://juejin.im/post/5f1e35636fb9a07e86470e2d) 
-- [2020-07-22-Node-中如何引入一个模块及其细节](https://juejin.im/post/5f178c3fe51d4534714aca31) 
-- [2020-07-22-Node-中-exports-与-module.exports-有什么区别](https://juejin.im/post/5f1787a75188252e5c57867a) 

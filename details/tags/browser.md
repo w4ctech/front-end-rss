@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-28 17:30:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 11:00:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -7,13 +7,6 @@
 
 
 
-- [2020-04-13-肺炎日记|4月12日：复学加快步伐，如何保障师生安全？](http://m.china.caixin.com/m/2020-04-13/101541775.html) 
-- [2020-04-07-大流行手记|4月7日：口罩被截胡？-柏林请求军方“押镖”](https://m.caixin.com/m/2020-04-07/101539735.html) 
-- [2020-07-27-特朗普国家安全顾问奥布莱恩新冠病毒检测呈阳性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3bFeXIaIXpRpxqDOxecw200727&isfromapp=1) 
-- [2020-07-27-香港政务司司长：林郑月娥已请求中央协助加强香港新冠检测能力](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBpd18vgdFVZtz5mmYrP5200727&isfromapp=1) 
-- [2020-07-27-香港中联办发言人：中央政府重视香港疫情高发-将应特区政府请求提供一切必要支持](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihvWkbaCJ6uy0KzQ7yELV200727&isfromapp=1) 
-- [2020-07-22-乌鲁木齐：检测机构均达到二级生物实验室安全标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBnQg2wCRb2wSiUOaZvRC200722&isfromapp=1) 
-- [2020-07-20-印度边境安全部队101人确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbFWHHDEl4rWpTeioqQu200720&isfromapp=1) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 
@@ -22,20 +15,3 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
-- [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-07-26-Mac-和-iPhone-的-Safari-历史记录是同步的吗？](https://www.v2ex.com/t/693228) 
-- [2020-07-26-关于一个超简单-CIDR-问题，云安全组不知如何写](https://www.v2ex.com/t/693186) 
-- [2020-07-24-Chrome-插件让微信公众号历史文章阅读不再痛苦，在-PC-/Mac-Chrome-浏览器上就能看，而且支持文章列表导出-...](https://www.v2ex.com/t/692681) 
-- [2020-07-21-如何做一个运行在-Windows-里的“Webview”？](https://www.v2ex.com/t/692043) 
-- [2020-07-21-v2ex-的页面缓存有点不人性化](https://www.v2ex.com/t/692030) 
-- [2020-07-18-okhttp3-如何设置-cookie-时效，或者清除-cookie](https://www.v2ex.com/t/691178) 
-- [2020-07-18-如何让-recyclerview-实现无感的上拉下拉刷新，向微信聊天记录那样？](https://www.v2ex.com/t/691153) 
-- [2020-07-28-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-07-21-WEB前端安全自查和加固-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13609&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-frontend-security%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-07-28-译-Chrome-扩展变现的-9-种策略](https://toutiao.io/k/nreprv0) 
-- [2020-07-28-那些你可能不知道的谷歌浏览器实用技巧](https://toutiao.io/k/pprk4wr) 
-- [2020-07-22-20-条安全架构公理.pdf](https://toutiao.io/k/ccskosd) 
-- [2020-07-22-字节前端提前批面试题：下触发了几次回流几次重绘](https://toutiao.io/k/njtx5kl) 
-- [2020-07-22-推荐-面试官：说说-Kafka-处理请求的全流程](https://toutiao.io/k/jaqydhp) 
-- [2020-07-21-ViewGroup-默认顺序绘制子-View，如何修改？什么场景需要修改绘制顺序？](https://toutiao.io/k/vaibrdr) 
-- [2020-07-20-推荐-缓存过期策略-+-Redis-内存淘汰机制](https://toutiao.io/k/ti9riut) 

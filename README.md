@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 03:48:20，:rocket: 更新条数: +3369， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 04:02:32，:rocket: 更新条数: +3368， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -63,10 +63,9 @@
 </summary>
 
 
-- [2020-07-30-最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html) ![](assets/new.png)  
 - [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
-- [2020-07-30-7月30日全国新增新冠127例-新疆本土112例](http://m.china.caixin.com/m/2020-07-31/101586748.html) ![](assets/new.png)  
 - [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-30-最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html) ![](assets/new.png)  
 - [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
 - [2020-07-29-最新海外疫情：新冠感染者近1691万-累计死亡超66万](http://m.international.caixin.com/m/2020-07-30/101586482.html) ![](assets/new.png)  
 - [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
@@ -83,6 +82,7 @@
 - [2020-07-27-【境内疫情观察】新疆新增57例本土病例（7月27日）](http://m.database.caixin.com/m/2020-07-28/101585472.html) ![](assets/new.png)  
 - [2020-07-27-大流行手记|7月27日：非洲新冠确诊过84万人-南非启动疫苗试验](https://m.caixin.com/m/2020-07-28/101585332.html) ![](assets/new.png)  
 - [2020-07-27-北京通报新增两例新冠确诊病例详情及新发地病例救治情况](http://m.china.caixin.com/m/2020-07-28/101585405.html) ![](assets/new.png)  
+- [2020-07-27-越南百日病例零新增记录被打破-岘港紧急疏散8万旅客](http://m.international.caixin.com/m/2020-07-28/101585542.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1071,6 +1071,8 @@
 </summary>
 
 
+- [2020-07-31-美团酒旅搜索组-算法工程师（NLP、排序方向）](https://www.v2ex.com/t/694589) ![](assets/new.png)  
+- [2020-07-31-如何在-numpy-中快速实现这样的操作](https://www.v2ex.com/t/694588) ![](assets/new.png)  
 - [2020-07-31-Windows-10-Enterprise-2016-LTSB-经常出现桌面卡死、explorer-无响应，你们出现过这样的情况没？怎么解决的？](https://www.v2ex.com/t/694587) ![](assets/new.png)  
 - [2020-07-31-大家的项目前后端接口是领域接口还是聚合接口？](https://www.v2ex.com/t/694586) ![](assets/new.png)  
 - [2020-07-31-Linux-ip-route-添加路由表的时候，-table-编号上限是多少？](https://www.v2ex.com/t/694584) ![](assets/new.png)  
@@ -1089,8 +1091,6 @@
 - [2020-07-31-长沙电信-443-端口被封了吗？](https://www.v2ex.com/t/694564) ![](assets/new.png)  
 - [2020-07-31-给大家一个好玩的自定义-CSS](https://www.v2ex.com/t/694563) ![](assets/new.png)  
 - [2020-07-31-办公室到期搬家，技术和销售隔着一米的过道](https://www.v2ex.com/t/694562) ![](assets/new.png)  
-- [2020-07-31-线上服务要咋切换版本才不会影响用户？](https://www.v2ex.com/t/694561) ![](assets/new.png)  
-- [2020-07-31-类的实例通过-isinstance-判断时却返回-False](https://www.v2ex.com/t/694559) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,12 +1141,12 @@
 - [2020-07-31-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-07-31-特征提取-+-分类模型：4-种常见的-NLP-实践思路](https://toutiao.io/k/aifa4fg) ![](assets/new.png)  
 - [2020-07-31-从-1.9-到-1.11，聊聊-PyFlink-的核心功能演进（附-Demo-代码）](https://toutiao.io/k/91cwhwj) ![](assets/new.png)  
-- [2020-07-31-构建基于攻防实效的安全体系，有效解决通报问题](https://toutiao.io/k/bwmg2iw) ![](assets/new.png)  
 - [2020-07-31-为什么说在-Android-中请求权限从来都不是一件简单的事情？](https://toutiao.io/k/l4hsio5) ![](assets/new.png)  
+- [2020-07-31-构建基于攻防实效的安全体系，有效解决通报问题](https://toutiao.io/k/bwmg2iw) ![](assets/new.png)  
 - [2020-07-31-使用-AWK-进行文件内容-join](https://toutiao.io/k/x6s9v5u) ![](assets/new.png)  
 - [2020-07-31-译-总记不住-Helm-和-kubectl-命令？这场超市购物之旅可以帮你](https://toutiao.io/k/mzqv8rz) ![](assets/new.png)  
-- [2020-07-31-特征工程：特征获取、特征规范和特征存储](https://toutiao.io/k/yy4aclp) ![](assets/new.png)  
 - [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
+- [2020-07-31-特征工程：特征获取、特征规范和特征存储](https://toutiao.io/k/yy4aclp) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
 - [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
 - [2020-07-31-干！一张图整理了-Python-所有内置异常](https://toutiao.io/k/kqh7ypo) ![](assets/new.png)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 14:09:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 14:18:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -14,3 +14,5 @@
 - [2020-07-15-微信支持H5跳转App、跳转小程序](https://www.ershicimi.com/p/9e8e05643c3116ac63168897aecd4354) 
 - [2020-07-23-微信终于支持-H5-跳转-App-&小程序](https://www.ershicimi.com/p/22db66b13bfbb9da9291d8871b9302c4) 
 - [2019-12-12-「从模板消息改版订阅消息」小程序推送](https://juejin.im/post/5df03c3551882512243f9292) 
+- [2020-07-31-开发了一个-直播盯货助手-小程序，求体验反馈](https://www.v2ex.com/t/694710) 
+- [2020-07-31-反编译微信小程序还有不会的么](https://www.v2ex.com/t/694700) 

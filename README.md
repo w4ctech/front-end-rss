@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 15:18:38，:rocket: 更新条数: +776， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 15:19:34，:rocket: 更新条数: +3452， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -39,8 +39,8 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
+- [2020-07-30-香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html) ![](assets/new.png)  
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html) ![](assets/new.png)  
+- [2020-07-30-最新海外疫情：新冠感染者超1717万-累计死亡近67万](http://m.international.caixin.com/m/2020-07-31/101587147.html) ![](assets/new.png)  
+- [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
+- [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
+- [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
+- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
+- [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
+- [2020-07-29-大连：对高风险地区重点人群开展第二次核酸采样](http://m.china.caixin.com/m/2020-07-30/101586294.html) ![](assets/new.png)  
+- [2020-07-29-德国最新研究：78%受访新冠康复者心脏受损](https://m.caixin.com/m/2020-07-30/101586183.html) ![](assets/new.png)  
+- [2020-07-29-新冠劫后余生约翰逊警醒过胖风险-英国发动全民减重运动](http://m.international.caixin.com/m/2020-07-30/101586564.html) ![](assets/new.png)  
+- [2020-07-28-【境内疫情观察】全国新增确诊连续5日上升（7月28日）](http://m.database.caixin.com/m/2020-07-29/101585907.html) ![](assets/new.png)  
+- [2020-07-28-大流行手记|7月28日：WHO称疫情不受季节周期影响-越南突现多名本土病例](https://m.caixin.com/m/2020-07-29/101585756.html) ![](assets/new.png)  
+- [2020-07-28-北京新增病例系27日确诊病例女婿-同楼606名居民检测均为阴性](https://m.caixin.com/m/2020-07-29/101586008.html) ![](assets/new.png)  
+- [2020-07-28-大连累计确诊52例-30例为凯洋海鲜公司员工](http://m.china.caixin.com/m/2020-07-29/101585813.html) ![](assets/new.png)  
+- [2020-07-27-【境内疫情观察】新疆新增57例本土病例（7月27日）](http://m.database.caixin.com/m/2020-07-28/101585472.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -730,6 +750,26 @@
 </summary>
 
 
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
+- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -741,26 +781,6 @@
 </summary>
 
 
-- [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) ![](assets/new.png)  
-- [2020-07-29-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6f8532a11d5b57f28c40c960db3ca462) ![](assets/new.png)  
-- [2020-07-28-Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a) ![](assets/new.png)  
-- [2020-07-28-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/72daeeec1e7c2251da4ce6a9e66e48be) ![](assets/new.png)  
-- [2020-07-27-让你的-commit-更有价值](https://www.ershicimi.com/p/c78541193b34a89e4b18c57762068812) ![](assets/new.png)  
-- [2020-07-27-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bb2efd1c2dbafb15aa15a8e61712e4da) ![](assets/new.png)  
-- [2020-07-26-整理几个超实用的前端提效-shell-命令](https://www.ershicimi.com/p/11453dae97223b339c15b1a431ca32d5) ![](assets/new.png)  
-- [2020-07-26-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/694a545142644ac909c84f3607f94194) ![](assets/new.png)  
-- [2020-07-25-奇舞周刊第-357-期：谷歌-Web-开发者大会的重要发布](https://www.ershicimi.com/p/844ceebc9502351df936f22ed518f92a) ![](assets/new.png)  
-- [2020-07-23-仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/ecd81065416564e9736e95053e239a45) ![](assets/new.png)  
-- [2020-07-23-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8751982bbada17825d32dea61664b018) ![](assets/new.png)  
-- [2020-07-22-玩转混合加密](https://www.ershicimi.com/p/055342236779067d54bce55ab3e1da51) ![](assets/new.png)  
-- [2020-07-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/db36a6fd5fda3c65f73f28f0a78c9d02) ![](assets/new.png)  
-- [2020-07-21-QuickJS-引擎一年见闻录](https://www.ershicimi.com/p/7bef03404bd3c5a6462812a06c08331a) ![](assets/new.png)  
-- [2020-07-20-在前端如何玩转-Word-文档](https://www.ershicimi.com/p/61d7d54688cefb80f5a0f6accdf1595c) ![](assets/new.png)  
-- [2020-07-20-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de7368b61273c080108ea1529d7db333) ![](assets/new.png)  
-- [2020-07-18-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/5c14be4e893f3261a0add4d4f152b003) ![](assets/new.png)  
-- [2020-07-18-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fb37fa640816d901bcb453d2998673af) ![](assets/new.png)  
-- [2020-07-17-奇舞周刊第-356-期：Web-前端安全自查和加固](https://www.ershicimi.com/p/3e5eb015d480e5669db45e33290d8ba0) ![](assets/new.png)  
-- [2020-07-16-为你的前端本地环境配置-HTTPS-吧！](https://www.ershicimi.com/p/c1bf07e71a3291a9de7b0333312ef8b2) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

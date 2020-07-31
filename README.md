@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 06:20:16，:rocket: 更新条数: +635， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 06:21:15，:rocket: 更新条数: +3153， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -23,7 +23,7 @@
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)![](assets/dot.png)   
-- [前端开发](#前端开发)  
+- [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
@@ -32,7 +32,7 @@
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
-- [前端宇宙](#前端宇宙)  
+- [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
@@ -63,6 +63,26 @@
 </summary>
 
 
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-30-最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html) ![](assets/new.png)  
+- [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
+- [2020-07-29-最新海外疫情：新冠感染者近1691万-累计死亡超66万](http://m.international.caixin.com/m/2020-07-30/101586482.html) ![](assets/new.png)  
+- [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
+- [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
+- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
+- [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
+- [2020-07-29-大连：对高风险地区重点人群开展第二次核酸采样](http://m.china.caixin.com/m/2020-07-30/101586294.html) ![](assets/new.png)  
+- [2020-07-29-德国最新研究：78%受访新冠康复者心脏受损](https://m.caixin.com/m/2020-07-30/101586183.html) ![](assets/new.png)  
+- [2020-07-29-新冠劫后余生约翰逊警醒过胖风险-英国发动全民减重运动](http://m.international.caixin.com/m/2020-07-30/101586564.html) ![](assets/new.png)  
+- [2020-07-28-【境内疫情观察】全国新增确诊连续5日上升（7月28日）](http://m.database.caixin.com/m/2020-07-29/101585907.html) ![](assets/new.png)  
+- [2020-07-28-大流行手记|7月28日：WHO称疫情不受季节周期影响-越南突现多名本土病例](https://m.caixin.com/m/2020-07-29/101585756.html) ![](assets/new.png)  
+- [2020-07-28-北京新增病例系27日确诊病例女婿-同楼606名居民检测均为阴性](https://m.caixin.com/m/2020-07-29/101586008.html) ![](assets/new.png)  
+- [2020-07-28-大连累计确诊52例-30例为凯洋海鲜公司员工](http://m.china.caixin.com/m/2020-07-29/101585813.html) ![](assets/new.png)  
+- [2020-07-27-【境内疫情观察】新疆新增57例本土病例（7月27日）](http://m.database.caixin.com/m/2020-07-28/101585472.html) ![](assets/new.png)  
+- [2020-07-27-大流行手记|7月27日：非洲新冠确诊过84万人-南非启动疫苗试验](https://m.caixin.com/m/2020-07-28/101585332.html) ![](assets/new.png)  
+- [2020-07-27-北京通报新增两例新冠确诊病例详情及新发地病例救治情况](http://m.china.caixin.com/m/2020-07-28/101585405.html) ![](assets/new.png)  
+- [2020-07-27-越南百日病例零新增记录被打破-岘港紧急疏散8万旅客](http://m.international.caixin.com/m/2020-07-28/101585542.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -270,6 +290,26 @@
 </summary>
 
 
+- [2020-07-31-没错，华为又对前端下手了！](https://www.ershicimi.com/p/f4c6c88a1974b3ee832e72a3fd7634eb) ![](assets/new.png)  
+- [2020-07-31-25-个实用前端网站工具推荐](https://www.ershicimi.com/p/3ed2bde25cb9c1bd5f6f4a6b424fc1e0) ![](assets/new.png)  
+- [2020-07-30-蚂蚁、字节、滴滴面试经历总结都已过](https://www.ershicimi.com/p/8dc90b9888f39f8df50a9ce0c71726dd) ![](assets/new.png)  
+- [2020-07-29-阿里员工吐槽：后悔接这侮辱性的offer](https://www.ershicimi.com/p/ee16933cfe6ffe84b026194aeb3b9753) ![](assets/new.png)  
+- [2020-07-29-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/24a2bc74ee563a1473e7c646abae3773) ![](assets/new.png)  
+- [2020-07-28-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/50e32afa76075f266afa46332a56f5fb) ![](assets/new.png)  
+- [2020-07-28-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/9beb6c8042b863dbc3d05588042475fd) ![](assets/new.png)  
+- [2020-07-27-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/8f5cb92d83016cc2cea02da1fb0fe8c2) ![](assets/new.png)  
+- [2020-07-27-你不知道的-Blob](https://www.ershicimi.com/p/a0e09fb14403929300e21738d8395e1e) ![](assets/new.png)  
+- [2020-07-25-Serverless-掀起新的前端技术变革](https://www.ershicimi.com/p/f23ecc615686df4cdf02c03bc747ec42) ![](assets/new.png)  
+- [2020-07-24-最硬核的前端面试题直播解析，来了](https://www.ershicimi.com/p/f2ea1bb741e095154f25475f7b8d95ee) ![](assets/new.png)  
+- [2020-07-24-2020年6月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/88f1ab66fdb1e0ab57948af621fd3159) ![](assets/new.png)  
+- [2020-07-23-玩转前端-Video-播放器](https://www.ershicimi.com/p/ea23cf35c6ed74da97ce619441104868) ![](assets/new.png)  
+- [2020-07-22-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/d7578a012e926a3e696b2b038ddcf581) ![](assets/new.png)  
+- [2020-07-21-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/cf148253f33687c32b13141395cb46fd) ![](assets/new.png)  
+- [2020-07-21-一个神秘URL酿大祸，差点让我背锅！](https://www.ershicimi.com/p/1a5833bbfdf6bc827d1d3749eec38cf5) ![](assets/new.png)  
+- [2020-07-20-程序员涨薪必备技能（1-5年必看！！！）](https://www.ershicimi.com/p/2e97d7ca00175a7c7bc6e8bfaf222112) ![](assets/new.png)  
+- [2020-07-20-前端进阶必备的七个开源项目！（必看）](https://www.ershicimi.com/p/3e0b6267bb26695e4d1178545b0e909e) ![](assets/new.png)  
+- [2020-07-18-vscode安装rainbow-fart彩虹屁插件，萌妹子陪你写代码](https://www.ershicimi.com/p/d2a4d76bf19207e1648659888146bbb0) ![](assets/new.png)  
+- [2020-07-17-7年做到前端技术总监，被辞退也仅需1分钟而已](https://www.ershicimi.com/p/02543ac7f7a072778ad56698c3aa1ddb) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端开发.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -529,6 +569,26 @@
 </summary>
 
 
+- [2020-07-30-13-个-你应该知道的-npm-快速开发技巧](https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328) ![](assets/new.png)  
+- [2020-07-28-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/0cd696d9ddd5c9ce61f916b1d5b5e4a6) ![](assets/new.png)  
+- [2020-07-27-一行-CSS-代码搞定响应式布局](https://www.ershicimi.com/p/d8d864aa387c420fa7d7726177163b0b) ![](assets/new.png)  
+- [2020-07-27-4-个技能，帮你提升跳槽信心](https://www.ershicimi.com/p/1fd2900872b0b5f7614afe72ab900d8c) ![](assets/new.png)  
+- [2020-07-27-妙用CSS变量，让你的CSS变得更心动](https://www.ershicimi.com/p/fd651b921e447be022ffe74d701e854d) ![](assets/new.png)  
+- [2020-07-23-带你写出符合Promise/A+规范Promise的源码](https://www.ershicimi.com/p/54288e3fa0845c82c4ad3798615a0b7a) ![](assets/new.png)  
+- [2020-07-23-不到20%的开发能真正理解-Vue-，有没有你？（文内有福利）](https://www.ershicimi.com/p/fdc50530ca959ce13662f1feeaf110e4) ![](assets/new.png)  
+- [2020-07-21-替代-webpack？带你了解-snowpack-原理，你还学得动么](https://www.ershicimi.com/p/5f12e243398087462ce4dc50fcbbc172) ![](assets/new.png)  
+- [2020-07-21-常用的package.json，还有这么多你不知道的骚技巧](https://www.ershicimi.com/p/c8c05f4ec643b1b45db8f0c3471dacb7) ![](assets/new.png)  
+- [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/9f62b79401471714082eb8dae19a6046) ![](assets/new.png)  
+- [2020-07-17-夜深了，程序员的电脑却没关······](https://www.ershicimi.com/p/2f718f31b8bbd6e38a9e24d16db67cb2) ![](assets/new.png)  
+- [2020-07-16-来呀，一起造一个简易React呀~](https://www.ershicimi.com/p/5f42caafa59624cac6118c9616154535) ![](assets/new.png)  
+- [2020-07-16-Vue-项目性能优化实践](https://www.ershicimi.com/p/f92a17806443ccc307e2f39739ca1e4e) ![](assets/new.png)  
+- [2020-07-15-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/f357d3efce5b1fe01dcd97b71ed68c23) ![](assets/new.png)  
+- [2020-07-14-15个简单的JS编码标准让你的代码更整洁](https://www.ershicimi.com/p/67e8f98695931ee0dda840725d49f7b3) ![](assets/new.png)  
+- [2020-07-13-手写一个自己的-Vue.js-数据响应式框架，他只用了3天时间！](https://www.ershicimi.com/p/e1d96082a58d5e7ad1644b2aba183f46) ![](assets/new.png)  
+- [2020-07-11-推介一位前端实力博主朋友：SHERlocked93](https://www.ershicimi.com/p/47809ae3287644296d6faadff8dd4d43) ![](assets/new.png)  
+- [2020-07-10-一个优秀的Vue团队代码规范是什么样子的？](https://www.ershicimi.com/p/41d265725a06b65582815bd8aade4cfd) ![](assets/new.png)  
+- [2020-07-09-如果张东升是个程序员](https://www.ershicimi.com/p/57734eca0e217ff285a091a4889398c3) ![](assets/new.png)  
+- [2020-07-08-不想加班？H5常见问题及解决方案手册](https://www.ershicimi.com/p/f30016501f9abd6ce7e57a8df03c5b48) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

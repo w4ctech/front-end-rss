@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 09:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 09:48:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2213,12 +2213,6 @@
 - [2020-07-18-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/2d4a2eb36195950ef478053cab157823) 
 - [2020-07-16-年薪68万,人才缺口30万,这个神仙技能今年火遍整个职业圈!](https://www.ershicimi.com/p/a1f94be821accf6e052bb26545fa0599) 
 - [2020-07-15-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/39a83ca70b7fde217eaf5839245be25b) 
-- [2020-07-31-40张图入门Linux——（前端够用，运维入门）](https://www.ershicimi.com/p/7ff09c49308eb589a5793a7a4778d338) 
-- [2020-07-23-新技术学习不完全指北：以-Rust-为例](https://www.ershicimi.com/p/2aa4940781b9c192ee354270d88d4f15) 
-- [2020-07-22-如何将业务代码写得更优雅](https://www.ershicimi.com/p/a5c5b36a7056d4dd83c5efe02d4f3dae) 
-- [2020-07-20-别每天刷抖音了，这几个公众号不香么](https://www.ershicimi.com/p/9c5ba384a7243c67efee70b1afce0370) 
-- [2020-07-18-推荐一位我一直关注的技术大佬](https://www.ershicimi.com/p/b56b0f0d3fd551abd7022c91a514fcbb) 
-- [2020-07-16-大厂面经、源码解读都常在这几个公众号里](https://www.ershicimi.com/p/a5c6608fb23686262ff4078b755f1c98) 
 - [2020-06-27-如何拿到政采云-P6-Offer](https://www.ershicimi.com/p/8cb0205aac2e45d5affe79465d843946) 
 - [2020-06-14-基于-Web-端的人脸识别身份验证](https://www.ershicimi.com/p/00803c2cd426b82b7a2115014fb74c99) 
 - [2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) 

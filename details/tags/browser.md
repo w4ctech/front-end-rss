@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 07:02:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 07:08:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -37,8 +37,8 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-07-31-谷歌最新版本-84，-chrome-浏览器地址栏不显示-http/https、www-的解决办法](https://www.v2ex.com/t/694649) 
 - [2020-07-31-Microsoft-Edge-真香](https://www.v2ex.com/t/694648) 
 - [2020-07-31-iPhone-x-微信和钉钉内的-webkit-都不支持-safe-area-inset-bottom？](https://www.v2ex.com/t/694621) 
-- [2020-07-31-关闭了-win10-的内存压缩后，-edge-CPU-占用高，不知两者是否有关系？](https://www.v2ex.com/t/694601) 
 - [2020-07-31-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-31-为什么说在-Android-中请求权限从来都不是一件简单的事情？](https://toutiao.io/k/l4hsio5) 

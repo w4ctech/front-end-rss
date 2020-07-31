@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 20:10:11，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 20:19:28，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-07-31-怎样在-V2EX-输入代码-？-想输入一段-Python-程序如下](https://www.v2ex.com/t/694760) ![](assets/new.png)  
 - [2020-07-31-如果-MacBook-Pro-上支架，那-Type-C-的转接线悬在空中的问题怎么解决？](https://www.v2ex.com/t/694759) ![](assets/new.png)  
 - [2020-07-31-iPadOS-能否关闭负一屏？](https://www.v2ex.com/t/694757) ![](assets/new.png)  
 - [2020-07-31-四川移动老套餐流量扩容开始了](https://www.v2ex.com/t/694756) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-07-31-有狗东的同学不，你家无货订购挂掉了，取消订单显示“系统异常”](https://www.v2ex.com/t/694736) ![](assets/new.png)  
 - [2020-07-31-有没有什么软件可以直接将图片里的简体字转换成为繁体字？](https://www.v2ex.com/t/694735) ![](assets/new.png)  
 - [2020-07-31-理发时间轴](https://www.v2ex.com/t/694734) ![](assets/new.png)  
-- [2020-07-31-为什么中国的网站、APP、软件总是喜欢用各种套路，诱导性的文字？](https://www.v2ex.com/t/694733) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-31 10:17:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 10:31:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -464,7 +464,6 @@
 - [【InfoQ】全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台-|-Q推荐](https://www.ershicimi.com/p/5c7c6a64dfd6eba939235716545ca70b)
 - [【V2EX】写-Web-全栈技术类的博客，哪个平台较好？](https://www.v2ex.com/t/694659)
 - [【开发者头条】ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6)
-- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
 - [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -616,6 +615,7 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html)
 - [【武汉肺炎防疫全纪录(财新网)】大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html)
 - [【武汉肺炎防疫全纪录(财新网)】全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html)
@@ -635,7 +635,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】大连累计确诊52例-30例为凯洋海鲜公司员工](http://m.china.caixin.com/m/2020-07-29/101585813.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增57例本土病例（7月27日）](http://m.database.caixin.com/m/2020-07-28/101585472.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|7月27日：非洲新冠确诊过84万人-南非启动疫苗试验](https://m.caixin.com/m/2020-07-28/101585332.html)
-- [【武汉肺炎防疫全纪录(财新网)】北京通报新增两例新冠确诊病例详情及新发地病例救治情况](http://m.china.caixin.com/m/2020-07-28/101585405.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

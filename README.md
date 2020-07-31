@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 11:48:07，:rocket: 更新条数: +3158， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 11:55:05，:rocket: 更新条数: +3257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,6 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
+- [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -1051,6 +1052,7 @@
 </summary>
 
 
+- [2020-07-31-帮友征-很有趣的伪-90-摩羯座妹子，是个运营，希望找个技术小哥一起搞事情](https://www.v2ex.com/t/694721) ![](assets/new.png)  
 - [2020-07-31-🍺🍐🍺🍐給了-Google-多少錢？](https://www.v2ex.com/t/694719) ![](assets/new.png)  
 - [2020-07-31-百度上海-前端/IOS/后台/图像算法...我们统统都要~~求贤若渴](https://www.v2ex.com/t/694718) ![](assets/new.png)  
 - [2020-07-31-只想单纯使用-clash-怎么办？](https://www.v2ex.com/t/694717) ![](assets/new.png)  
@@ -1070,7 +1072,6 @@
 - [2020-07-31-反编译微信小程序还有不会的么](https://www.v2ex.com/t/694700) ![](assets/new.png)  
 - [2020-07-31-年龄大了，不管什么行业都会嫌弃](https://www.v2ex.com/t/694699) ![](assets/new.png)  
 - [2020-07-31-关于用户余额存储的问题，想跟大家讨论一下](https://www.v2ex.com/t/694695) ![](assets/new.png)  
-- [2020-07-31-询问一下-Java-如何兼容同-jar-两个版本](https://www.v2ex.com/t/694694) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,10 +1131,41 @@
 - [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
 - [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
-- [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-为什么拖拽的-api-都很难用？](https://toutiao.io/k/1tchm66) ![](assets/new.png)  
+- [2020-07-31-Kubernetes-为什么需要策略支持](https://toutiao.io/k/48fgowf) ![](assets/new.png)  
 - [2020-07-31-5-分钟带你简单实现-SwiftUI-面向-Protocol-编程](https://toutiao.io/k/ekfbidc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
+
+<div align="right"><a href="#来源分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="安全热点">
+ 安全热点
+</summary>
+
+
+- [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) ![](assets/new.png)  
+- [2020-07-31-阿里p7员工都在学:实战python技巧泄露,手慢则无!禁止外传](https://sec.thief.one/article_content?a_id=eb5520bf4bd60b1c521aeaca61382cfc) ![](assets/new.png)  
+- [2020-07-31-冰蝎,从入门到魔改](https://sec.thief.one/article_content?a_id=c86bdb99062387c8cc9201657fdc63d6) ![](assets/new.png)  
+- [2020-07-31-习近平:统一思想坚定信心鼓足干劲抓紧工作-奋力推进国防和军队现代...](https://sec.thief.one/article_content?a_id=b6c2c7d9d52893b001986fdbcaacfa6d) ![](assets/new.png)  
+- [2020-07-31-网络安全等级保护工作流程](https://sec.thief.one/article_content?a_id=1a60cb9a9cd890b0c2bdf66343f3f509) ![](assets/new.png)  
+- [2020-07-31-＂传销币＂PlusToken跨国案告破超百人被捕涉及金额400亿](https://sec.thief.one/article_content?a_id=f628045e946ec581bd0f255a4dbf8ba8) ![](assets/new.png)  
+- [2020-07-31-GRUB2本地代码执行漏洞通告CVE-2020-10713](https://sec.thief.one/article_content?a_id=01722961667219ebac245ec00679401e) ![](assets/new.png)  
+- [2020-07-31-绿盟科技亮相2020年金融数据安全在线论坛,共论数据安全防护策略](https://sec.thief.one/article_content?a_id=e2f715550902173ae7bf83f5424c973e) ![](assets/new.png)  
+- [2020-07-31-“隐私窃贼“难防?手把手教你如何使用OPPO手机深度管理APP](https://sec.thief.one/article_content?a_id=9ce9f7237f678f467f634720a994b9f9) ![](assets/new.png)  
+- [2020-07-31-网络安全信息与动态周报2020年第30期](https://sec.thief.one/article_content?a_id=9975b11ed9925aa459e1987625b849f0) ![](assets/new.png)  
+- [2020-07-31-CSO领航企业安全,网安业者如何火力全开?](https://sec.thief.one/article_content?a_id=c2b16b7f2c5f0192609388fe3d6d11fc) ![](assets/new.png)  
+- [2020-07-31-【视频】|-多因素身份验证MFA介绍](https://sec.thief.one/article_content?a_id=a3556138b0b2f8085b42d5d16d2729a0) ![](assets/new.png)  
+- [2020-07-31-工具|免费手机取证查询帮助软件-RX-helper-V1.0正式发布](https://sec.thief.one/article_content?a_id=b575f8c77700815a205a5ef92f0d6e1a) ![](assets/new.png)  
+- [2020-07-31-一书难求!带你领略攻防之道](https://sec.thief.one/article_content?a_id=9d8092c14247c77c6270e1b2b02e3431) ![](assets/new.png)  
+- [2020-07-31-专家精品|密码朋克的社会实验三:比特币发明了什么](https://sec.thief.one/article_content?a_id=791edab45051f351c9771465c0d11d65) ![](assets/new.png)  
+- [2020-07-31-伊朗政府批准发电厂进行比特币挖矿](https://sec.thief.one/article_content?a_id=92ea3fc193887a1cb9e812da3e20ca03) ![](assets/new.png)  
+- [2020-07-31-《数据安全法草案》及说明:明确数据保护义务,坚持安全与发展...](https://sec.thief.one/article_content?a_id=2ee87cf2ba6e92f1f7182d6900dc00e6) ![](assets/new.png)  
+- [2020-07-31-【安全热点周报】第153期:信通院发布《云原生发展白皮书-2020-年...](https://sec.thief.one/article_content?a_id=577a4e9f28c826f30302fd445b98021c) ![](assets/new.png)  
+- [2020-07-31-基于Redis的扫描器任务调度设计方案](https://sec.thief.one/article_content?a_id=8aa59991d8d8885256777d94ed0d5f42) ![](assets/new.png)  
+- [2020-07-31-一书难求!带你领略攻防之道](https://sec.thief.one/article_content?a_id=e638e04f99c9a5f5467bef754ca25f03) ![](assets/new.png)  
+- [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
 </details>

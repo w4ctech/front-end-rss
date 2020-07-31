@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 11:48:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 11:55:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -91,3 +91,7 @@
 - [2020-07-31-百度上海-前端/IOS/后台/图像算法...我们统统都要~~求贤若渴](https://www.v2ex.com/t/694718) 
 - [2020-07-31-请问有没有第三方-Emoji-表情视频拍摄工具？](https://www.v2ex.com/t/694704) 
 - [2020-07-31-pc-上的倍速播放器](https://www.v2ex.com/t/694690) 
+- [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) 
+- [2020-07-31-【视频】|-多因素身份验证MFA介绍](https://sec.thief.one/article_content?a_id=a3556138b0b2f8085b42d5d16d2729a0) 
+- [2020-07-30-【视频】|-公安部:这五类电信诈骗案件高发](https://sec.thief.one/article_content?a_id=3c8d49f28299c1af23f72f46de505dbd) 
+- [2020-07-29-【视频】|-CTF:学霸独门秘籍分享](https://sec.thief.one/article_content?a_id=b9792ed97bb03d244431db5082c2aacf) 

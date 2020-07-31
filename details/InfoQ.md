@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-31 09:08:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 09:18:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-07-31-下笔如有神：这是一个基于营销行业的-AI-技术实践-|-Q推荐](https://www.ershicimi.com/p/cf4b97679260c2541be9cfe82859195f) 
 - [2020-07-30-美英法日接连“拉黑”，没有华为的5G网络会怎么样-？](https://www.ershicimi.com/p/568be888375621607fd60f1017c22538) 
 - [2020-07-30-快手自研kQUIC：千万级QPS集群是如何实现的？](https://www.ershicimi.com/p/503600d70beb6b306d58e8f4571d12ed) 
 - [2020-07-30-鲲鹏应用创新大赛2020参赛指南-|-Q推荐](https://www.ershicimi.com/p/e1ed164868529b4e4300acd2e8140523) 
@@ -24,4 +25,3 @@
 - [2020-07-27-我们为什么放弃-MongoDB-和-MySQL，选择-TiDB](https://www.ershicimi.com/p/5a657f7c4d1f74bba5c97fcf27a30298) 
 - [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台-|-Q推荐](https://www.ershicimi.com/p/5c7c6a64dfd6eba939235716545ca70b) 
 - [2020-07-27-祖传代码迁移到-Vue-的另一种解题思路](https://www.ershicimi.com/p/6142aa0a89af1acd3a7f654ddb457a2d) 
-- [2020-07-27-怎样利用开源软件赚钱？](https://www.ershicimi.com/p/cf4329e59b1e111d07dc47bd833b7eb0) 

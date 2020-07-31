@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 22:48:04，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 23:02:12，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1140,8 +1140,8 @@
 - [2020-07-31-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-07-31-当遇到跨域开发时,-我们如何处理好前后端配置和请求库封装（koa/axios-版）](https://toutiao.io/k/8osmno2) ![](assets/new.png)  
 - [2020-07-31-IDEA-命令行缩短器助你解决此问题：Command-line-is-too-long.-Shorten-command-line](https://toutiao.io/k/92z51sr) ![](assets/new.png)  
-- [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-特征提取-+-分类模型：4-种常见的-NLP-实践思路](https://toutiao.io/k/aifa4fg) ![](assets/new.png)  
+- [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-使用-AWK-进行文件内容-join](https://toutiao.io/k/x6s9v5u) ![](assets/new.png)  
 - [2020-07-31-构建基于攻防实效的安全体系，有效解决通报问题](https://toutiao.io/k/bwmg2iw) ![](assets/new.png)  
 - [2020-07-31-从-1.9-到-1.11，聊聊-PyFlink-的核心功能演进（附-Demo-代码）](https://toutiao.io/k/91cwhwj) ![](assets/new.png)  

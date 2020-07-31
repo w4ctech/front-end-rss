@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 12:48:11，:rocket: 更新条数: +3475， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 13:02:16，:rocket: 更新条数: +3475， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-07-31-为什么-ARM-版-Mac-运行效率很高？｜少数派](https://www.v2ex.com/t/694730) ![](assets/new.png)  
 - [2020-07-31-很奇怪为什么很多宣称惰性求值的语言反而没有在链式处理数据的时候只遍历一次](https://www.v2ex.com/t/694729) ![](assets/new.png)  
 - [2020-07-31-本科结业改毕业-在超市打工](https://www.v2ex.com/t/694728) ![](assets/new.png)  
 - [2020-07-31-快手内推-老铁就等你了~](https://www.v2ex.com/t/694727) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-07-31-开发了一个-直播盯货助手-小程序，求体验反馈](https://www.v2ex.com/t/694710) ![](assets/new.png)  
 - [2020-07-31-想来日本工作的童靴，说不定可以考虑应聘一下日本的乡下企业哟（思路提供）](https://www.v2ex.com/t/694709) ![](assets/new.png)  
 - [2020-07-31-老哥们，-redis-存-6030-条进去-4520，会有哪些可能](https://www.v2ex.com/t/694706) ![](assets/new.png)  
-- [2020-07-31-golang-拿到一家区块链的-offer,-有必要去吗?](https://www.v2ex.com/t/694705) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1165,6 +1165,11 @@
 </summary>
 
 
+- [2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) ![](assets/new.png)  
+- [2020-07-31-共建未成年人“清朗”网络空间倡议书](https://sec.thief.one/article_content?a_id=62b65f2cbf1d598421418d1553dcc60c) ![](assets/new.png)  
+- [2020-07-31-美国防部和航天部门遭受朝鲜黑客新一轮网络攻击](https://sec.thief.one/article_content?a_id=d6b7b8843d2a855d39fb1491fb9e19d9) ![](assets/new.png)  
+- [2020-07-31-一款联合fofa与xray的自动化批量扫描工具](https://sec.thief.one/article_content?a_id=ee1c50a02037af1b4db07193383b51e0) ![](assets/new.png)  
+- [2020-07-31-每日攻防资讯简报Jul.31th](https://sec.thief.one/article_content?a_id=7b4716e6511cd30fdb2ce508516704d9) ![](assets/new.png)  
 - [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) ![](assets/new.png)  
 - [2020-07-31-阿里p7员工都在学:实战python技巧泄露,手慢则无!禁止外传](https://sec.thief.one/article_content?a_id=eb5520bf4bd60b1c521aeaca61382cfc) ![](assets/new.png)  
 - [2020-07-31-冰蝎,从入门到魔改](https://sec.thief.one/article_content?a_id=c86bdb99062387c8cc9201657fdc63d6) ![](assets/new.png)  
@@ -1180,11 +1185,6 @@
 - [2020-07-31-工具|免费手机取证查询帮助软件-RX-helper-V1.0正式发布](https://sec.thief.one/article_content?a_id=b575f8c77700815a205a5ef92f0d6e1a) ![](assets/new.png)  
 - [2020-07-31-一书难求!带你领略攻防之道](https://sec.thief.one/article_content?a_id=9d8092c14247c77c6270e1b2b02e3431) ![](assets/new.png)  
 - [2020-07-31-专家精品|密码朋克的社会实验三:比特币发明了什么](https://sec.thief.one/article_content?a_id=791edab45051f351c9771465c0d11d65) ![](assets/new.png)  
-- [2020-07-31-伊朗政府批准发电厂进行比特币挖矿](https://sec.thief.one/article_content?a_id=92ea3fc193887a1cb9e812da3e20ca03) ![](assets/new.png)  
-- [2020-07-31-《数据安全法草案》及说明:明确数据保护义务,坚持安全与发展...](https://sec.thief.one/article_content?a_id=2ee87cf2ba6e92f1f7182d6900dc00e6) ![](assets/new.png)  
-- [2020-07-31-【安全热点周报】第153期:信通院发布《云原生发展白皮书-2020-年...](https://sec.thief.one/article_content?a_id=577a4e9f28c826f30302fd445b98021c) ![](assets/new.png)  
-- [2020-07-31-基于Redis的扫描器任务调度设计方案](https://sec.thief.one/article_content?a_id=8aa59991d8d8885256777d94ed0d5f42) ![](assets/new.png)  
-- [2020-07-31-一书难求!带你领略攻防之道](https://sec.thief.one/article_content?a_id=e638e04f99c9a5f5467bef754ca25f03) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

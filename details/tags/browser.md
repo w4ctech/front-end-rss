@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:48:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 13:02:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-07-31-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-07-31-为什么说在-Android-中请求权限从来都不是一件简单的事情？](https://toutiao.io/k/l4hsio5) 
+- [2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) 
 - [2020-07-31-网络安全等级保护工作流程](https://sec.thief.one/article_content?a_id=1a60cb9a9cd890b0c2bdf66343f3f509) 
 - [2020-07-31-绿盟科技亮相2020年金融数据安全在线论坛,共论数据安全防护策略](https://sec.thief.one/article_content?a_id=e2f715550902173ae7bf83f5424c973e) 
 - [2020-07-31-网络安全信息与动态周报2020年第30期](https://sec.thief.one/article_content?a_id=9975b11ed9925aa459e1987625b849f0) 
@@ -67,5 +68,3 @@
 - [2020-07-29-大咖说安全|刘哲理:全密文计算时代即将到来](https://sec.thief.one/article_content?a_id=4b833fb6d9623c24abec3e1103c94b86) 
 - [2020-07-29-防止APP窃取用户隐私问题,OPPO安全在行动](https://sec.thief.one/article_content?a_id=4f78dfe8967482dd01705a3f2d9e3361) 
 - [2020-07-29-国舜股份再签某大型综合保险集团,赋能网络安全等级保护建设](https://sec.thief.one/article_content?a_id=550103781f4ac44a23c03441f32ce5d0) 
-- [2020-07-29-信息安全漏洞周报2020年第29期](https://sec.thief.one/article_content?a_id=17c2dcc34dd8ee82e60359c7bf1dd9b0) 
-- [2020-07-29-中国安全隔离网闸/光闸市场全景图](https://sec.thief.one/article_content?a_id=4b0de66e27f0ff51a7fb661d12ff883e) 

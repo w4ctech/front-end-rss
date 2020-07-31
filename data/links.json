@@ -16640,6 +16640,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "为什么 ARM 版 Mac 运行效率很高？｜少数派",
+        "link": "https://www.v2ex.com/t/694730",
+        "date": "2020-07-31"
+      },
+      {
         "title": "很奇怪为什么很多宣称惰性求值的语言反而没有在链式处理数据的时候只遍历一次",
         "link": "https://www.v2ex.com/t/694729",
         "date": "2020-07-31"
@@ -16842,11 +16847,6 @@
       {
         "title": "🔥🔥🔥 [ 腾讯招聘 ] CSIG 行业创新中心高级前端开发",
         "link": "https://www.v2ex.com/t/694681",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "容器里 JMX 的 process.cpu.usage 不准确",
-        "link": "https://www.v2ex.com/t/694680",
         "date": "2020-07-31"
       }
     ]
@@ -17069,38 +17069,18 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-07-31"
-      },
-      {
         "title": "[推荐] 某生鲜电商平台的库存扣减方案",
         "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-07-31"
       },
       {
@@ -17109,8 +17089,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 一文了解 Kubernetes",
-        "link": "https://toutiao.io/k/5wmgc1g",
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
         "date": "2020-07-31"
       },
       {
@@ -17119,23 +17099,43 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-07-31"
-      },
-      {
         "title": "[推荐] 常见的架构设计原则总结",
         "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-07-31"
       },
       {
@@ -17150,6 +17150,31 @@
     "title": "安全热点",
     "link": "https://sec.thief.one/",
     "items": [
+      {
+        "title": "BCS系列活动|2020安全创客汇南方明星赛成功举办 本届十强诞生",
+        "link": "https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "共建未成年人“清朗”网络空间倡议书",
+        "link": "https://sec.thief.one/article_content?a_id=62b65f2cbf1d598421418d1553dcc60c",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "美国防部和航天部门遭受朝鲜黑客新一轮网络攻击",
+        "link": "https://sec.thief.one/article_content?a_id=d6b7b8843d2a855d39fb1491fb9e19d9",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "一款联合fofa与xray的自动化批量扫描工具",
+        "link": "https://sec.thief.one/article_content?a_id=ee1c50a02037af1b4db07193383b51e0",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "每日攻防资讯简报[Jul.31th]",
+        "link": "https://sec.thief.one/article_content?a_id=7b4716e6511cd30fdb2ce508516704d9",
+        "date": "2020-07-31"
+      },
       {
         "title": "这个小视频我连看8遍!",
         "link": "https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb",
@@ -17623,31 +17648,6 @@
       {
         "title": "不会吧不会吧,还有人不知道mallco和free的工作流程吗?",
         "link": "https://sec.thief.one/article_content?a_id=0ca0fdcdb916ba1ce28a48a7c7f6c511",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "信息安全漏洞周报(2020年第29期)",
-        "link": "https://sec.thief.one/article_content?a_id=17c2dcc34dd8ee82e60359c7bf1dd9b0",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "【视频】| CTF:学霸独门秘籍分享",
-        "link": "https://sec.thief.one/article_content?a_id=b9792ed97bb03d244431db5082c2aacf",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "稳定币在韩国扶余郡的采用激增",
-        "link": "https://sec.thief.one/article_content?a_id=a7e6cc4f75e4bf266897faaaa3d82c8b",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "中国安全隔离(网闸/光闸)市场全景图",
-        "link": "https://sec.thief.one/article_content?a_id=4b0de66e27f0ff51a7fb661d12ff883e",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "总结最近一周比特币主力拉盘的规律",
-        "link": "https://sec.thief.one/article_content?a_id=a07cd52f86702aa04e665a21fbeb0bc4",
         "date": "2020-07-29"
       }
     ]

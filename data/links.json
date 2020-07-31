@@ -20,6 +20,11 @@
         "date": "2020-07-30"
       },
       {
+        "title": "【境内疫情观察】新疆新增112例本土病例（7月30日）",
+        "link": "http://m.database.caixin.com/m/2020-07-31/101587061.html",
+        "date": "2020-07-30"
+      },
+      {
         "title": "大流行手记|7月30日：拉美饥饿人群或大幅增加 英国全民减肥抗新冠",
         "link": "https://m.caixin.com/m/2020-07-31/101586717.html",
         "date": "2020-07-30"
@@ -13469,110 +13474,9 @@
     "link": "https://www.ershicimi.com/a/892"
   },
   {
-    "rss": "https://rss.itggg.cn/wechat/ershicimi/895",
+    "rss": "https://rss.shab.fun/wechat/ershicimi/895",
     "title": "前端外刊评论",
-    "items": [
-      {
-        "title": "Sigi Framework 介绍",
-        "link": "https://www.ershicimi.com/p/f51055685393a0ab66a73470183ce1e2",
-        "date": "2020-02-17"
-      },
-      {
-        "title": "字节跳动招聘 | 和优秀的人，做有挑战的事！",
-        "link": "https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4",
-        "date": "2020-02-10"
-      },
-      {
-        "title": "使用Vue 3.0做JSX(TSX)风格的组件开发",
-        "link": "https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2",
-        "date": "2020-01-19"
-      },
-      {
-        "title": "从敲下一行JS代码到这行代码被执行，中间发生了什么？",
-        "link": "https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc",
-        "date": "2020-01-13"
-      },
-      {
-        "title": "云凤蝶自由画布之道：分层模型",
-        "link": "https://www.ershicimi.com/p/6f2ab75cf5c42cacddea1cab8ac43504",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "从 VSCode 看大型 IDE 技术架构",
-        "link": "https://www.ershicimi.com/p/191a6a52cf1d7cda4efe2f86817393c5",
-        "date": "2019-12-18"
-      },
-      {
-        "title": "SEE Conf 大会邀请函 | 体验美好，玩转数据",
-        "link": "https://www.ershicimi.com/p/67d19ca247e5a4fe5268764036a43486",
-        "date": "2019-12-18"
-      },
-      {
-        "title": "准备好，力扣官方 App 来了！",
-        "link": "https://www.ershicimi.com/p/c6a048c75bad1f9f7f8356f5f7cf08ab",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "招聘 | 支付宝前端技术部招聘前端工程师！",
-        "link": "https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93",
-        "date": "2019-12-16"
-      },
-      {
-        "title": "使用 Angular 打造微前端架构的 ToB 企业级应用",
-        "link": "https://www.ershicimi.com/p/4457e74cb516bb4d315e375ce34a45c0",
-        "date": "2019-12-10"
-      },
-      {
-        "title": "Serverless 背景下的前端困境与解决方案",
-        "link": "https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5",
-        "date": "2019-11-25"
-      },
-      {
-        "title": "到底是用 Ajax 还是 Socket.IO? 用测试数据说话！",
-        "link": "https://www.ershicimi.com/p/9177da10e32729b5bc0d282c8408e10b",
-        "date": "2019-11-19"
-      },
-      {
-        "title": "赠书 | 张鑫旭新书《CSS选择器世界》章节试读",
-        "link": "https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89",
-        "date": "2019-11-18"
-      },
-      {
-        "title": "一看就懂的VUEX运用与常见问题，BAT大佬给你把脉",
-        "link": "https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef",
-        "date": "2019-11-05"
-      },
-      {
-        "title": "赠票 | 大咖云集！TWeb Conf 2019 前端技术大会重磅来袭！就等你来~",
-        "link": "https://www.ershicimi.com/p/68b2180dde22f07cdfe13f5d1363a8ec",
-        "date": "2019-10-29"
-      },
-      {
-        "title": "关于前端与机器学习的疑惑，听 TensorFlow.js 负责人一一解答",
-        "link": "https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8",
-        "date": "2019-10-28"
-      },
-      {
-        "title": "Hello World 图可视化",
-        "link": "https://www.ershicimi.com/p/1cb30f6cce60ed03a4c8ff3bc45d43dc",
-        "date": "2019-10-21"
-      },
-      {
-        "title": "招聘 | 字节跳动-上海-前端工程师(社招 & 校招 & 实习生)",
-        "link": "https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9",
-        "date": "2019-10-21"
-      },
-      {
-        "title": "前端圈大事件 | 抢先 Get 第 14 届 D2 的技术要点！",
-        "link": "https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197",
-        "date": "2019-10-09"
-      },
-      {
-        "title": "快讯 | ​Vue 官方公开 3.0 Alpha 预览版！",
-        "link": "https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea",
-        "date": "2019-10-05"
-      }
-    ],
+    "items": [],
     "link": "https://www.ershicimi.com/a/895"
   },
   {
@@ -15216,7 +15120,7 @@
     ]
   },
   {
-    "rss": "https://rss.itggg.cn/juejin/category/frontend",
+    "rss": "https://rss.shab.fun/juejin/category/frontend",
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": []
@@ -15554,6 +15458,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "实测，亚马逊 AGA 加速在国内是没法用的",
+        "link": "https://www.v2ex.com/t/694645",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "爬虫管理平台 Crawlab 社区版 v0.5.1 正式发布",
+        "link": "https://www.v2ex.com/t/694644",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "寻找 Switch 国行勇士，体验一波新游戏，最重要的是免费!",
+        "link": "https://www.v2ex.com/t/694642",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "请教一个 selenium&webdriverio 的问题。为什么初始化准备工作需要一分半多的时间？",
+        "link": "https://www.v2ex.com/t/694641",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "AW4 无法收到电话求解",
+        "link": "https://www.v2ex.com/t/694640",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "专本套读和专本连读如何选择，了解的或过来人请指点下",
+        "link": "https://www.v2ex.com/t/694639",
+        "date": "2020-07-31"
+      },
+      {
         "title": "分享赛博螃克🦀一只",
         "link": "https://www.v2ex.com/t/694638",
         "date": "2020-07-31"
@@ -15712,36 +15646,6 @@
         "title": "为什么大多数 mac 应用在窗口缩放过程中都卡成 PPT 呢",
         "link": "https://www.v2ex.com/t/694596",
         "date": "2020-07-31"
-      },
-      {
-        "title": "巨硬 365 老司机们可以买车了",
-        "link": "https://www.v2ex.com/t/694595",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "有什么办法可以根据现有的图片用矢量形状拼凑出来？",
-        "link": "https://www.v2ex.com/t/694594",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "域名 dns 解析提供商质量差别大吗？那些很贵的像 dnspod 企业标准版一年要 5000 多块钱，阿里云解析一年几百块钱，这些差别大吗？对于网站访问速度会有明显提升...",
-        "link": "https://www.v2ex.com/t/694593",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "Mac 上印象笔记太卡了，快受不了了",
-        "link": "https://www.v2ex.com/t/694591",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "各位老板下次换 blog 的时候可以考虑用用看这个 Gatsby starter",
-        "link": "https://www.v2ex.com/t/694590",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "美团酒旅搜索组 算法工程师（NLP、排序方向）",
-        "link": "https://www.v2ex.com/t/694589",
-        "date": "2020-07-31"
       }
     ]
   },
@@ -15873,13 +15777,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装（koa/axios 版）",
-        "link": "https://toutiao.io/k/8osmno2",
+        "title": "这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-07-31"
       },
       {
-        "title": "这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "当遇到跨域开发时, 我们如何处理好前后端配置和请求库封装（koa/axios 版）",
+        "link": "https://toutiao.io/k/8osmno2",
         "date": "2020-07-31"
       },
       {
@@ -15963,8 +15867,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
+        "title": "[推荐] 消息队列面试连环问：如何保证消息不丢失？处理重复消息？消息有序性？消息堆积处理？",
+        "link": "https://toutiao.io/k/sfgpn4c",
         "date": "2020-07-31"
       },
       {
@@ -15973,23 +15877,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
         "date": "2020-07-31"
       },
       {
@@ -15998,8 +15887,43 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 一文了解 Kubernetes",
+        "link": "https://toutiao.io/k/5wmgc1g",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
+        "link": "https://toutiao.io/k/cco702x",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
         "date": "2020-07-31"
       },
       {
@@ -16013,28 +15937,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/knhm23r",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
-        "link": "https://toutiao.io/k/cco702x",
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-07-31"
       }
     ]

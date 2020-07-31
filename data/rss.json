@@ -154,5 +154,9 @@
   {
     "title": "开发者头条",
     "rss": "https://rss.itggg.cn/toutiao/today"
+  },
+  {
+    "title": "安全热点",
+    "rss": "https://sec.thief.one/atom.xml"
   }
 ]

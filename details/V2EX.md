@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-07-31 20:48:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 21:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-07-31-你们知不知道-cmd+`可以切换同应用的两个窗口...](https://www.v2ex.com/t/694761) 
 - [2020-07-31-V2EX-Preview-不会代码-highlight-对吗？](https://www.v2ex.com/t/694760) 
 - [2020-07-31-如果-MacBook-Pro-上支架，那-Type-C-的转接线悬在空中的问题怎么解决？](https://www.v2ex.com/t/694759) 
 - [2020-07-31-iPadOS-能否关闭负一屏？](https://www.v2ex.com/t/694757) 
@@ -40,4 +41,3 @@
 - [2020-07-31-只想单纯使用-clash-怎么办？](https://www.v2ex.com/t/694717) 
 - [2020-07-31-目前待了-1-年-5-个月，跳槽的话，算频繁么](https://www.v2ex.com/t/694713) 
 - [2020-07-31-根据别人博客在-vue-上使用-wowjs-结果页面效果不显示，咋办](https://www.v2ex.com/t/694712) 
-- [2020-07-31-很后悔当时没有学医或者学法律](https://www.v2ex.com/t/694711) 

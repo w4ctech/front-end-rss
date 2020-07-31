@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 20:48:05，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 21:02:25，:rocket: 更新条数: +3470， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-07-31-你们知不知道-cmd+`可以切换同应用的两个窗口...](https://www.v2ex.com/t/694761) ![](assets/new.png)  
 - [2020-07-31-V2EX-Preview-不会代码-highlight-对吗？](https://www.v2ex.com/t/694760) ![](assets/new.png)  
 - [2020-07-31-如果-MacBook-Pro-上支架，那-Type-C-的转接线悬在空中的问题怎么解决？](https://www.v2ex.com/t/694759) ![](assets/new.png)  
 - [2020-07-31-iPadOS-能否关闭负一屏？](https://www.v2ex.com/t/694757) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-07-31-求北京有什么好用的手机卡推荐吗](https://www.v2ex.com/t/694738) ![](assets/new.png)  
 - [2020-07-31-有狗东的同学不，你家无货订购挂掉了，取消订单显示“系统异常”](https://www.v2ex.com/t/694736) ![](assets/new.png)  
 - [2020-07-31-有没有什么软件可以直接将图片里的简体字转换成为繁体字？](https://www.v2ex.com/t/694735) ![](assets/new.png)  
-- [2020-07-31-理发时间轴](https://www.v2ex.com/t/694734) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,8 +1143,8 @@
 - [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-特征提取-+-分类模型：4-种常见的-NLP-实践思路](https://toutiao.io/k/aifa4fg) ![](assets/new.png)  
 - [2020-07-31-使用-AWK-进行文件内容-join](https://toutiao.io/k/x6s9v5u) ![](assets/new.png)  
-- [2020-07-31-从-1.9-到-1.11，聊聊-PyFlink-的核心功能演进（附-Demo-代码）](https://toutiao.io/k/91cwhwj) ![](assets/new.png)  
 - [2020-07-31-构建基于攻防实效的安全体系，有效解决通报问题](https://toutiao.io/k/bwmg2iw) ![](assets/new.png)  
+- [2020-07-31-从-1.9-到-1.11，聊聊-PyFlink-的核心功能演进（附-Demo-代码）](https://toutiao.io/k/91cwhwj) ![](assets/new.png)  
 - [2020-07-31-为什么说在-Android-中请求权限从来都不是一件简单的事情？](https://toutiao.io/k/l4hsio5) ![](assets/new.png)  
 - [2020-07-31-译-总记不住-Helm-和-kubectl-命令？这场超市购物之旅可以帮你](https://toutiao.io/k/mzqv8rz) ![](assets/new.png)  
 - [2020-07-31-特征工程：特征获取、特征规范和特征存储](https://toutiao.io/k/yy4aclp) ![](assets/new.png)  

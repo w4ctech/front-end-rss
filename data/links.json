@@ -15569,6 +15569,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iPadOS 能否关闭负一屏？",
+        "link": "https://www.v2ex.com/t/694757",
+        "date": "2020-07-31"
+      },
+      {
         "title": "四川移动老套餐流量扩容开始了",
         "link": "https://www.v2ex.com/t/694756",
         "date": "2020-07-31"
@@ -15963,33 +15968,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
-        "date": "2020-07-31"
-      },
-      {
         "title": "[推荐] 从 0 到 1 开始前端异常监控",
         "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-07-31"
       },
       {
@@ -15998,8 +15978,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
         "date": "2020-07-31"
       },
       {
@@ -16008,13 +15993,8 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-07-31"
       },
       {
@@ -16023,8 +16003,13 @@
         "date": "2020-07-31"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-07-31"
       },
       {
@@ -16033,8 +16018,28 @@
         "date": "2020-07-31"
       },
       {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-07-31"
+      },
+      {
         "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
         "link": "https://toutiao.io/k/cco702x",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
         "date": "2020-07-31"
       }
     ]

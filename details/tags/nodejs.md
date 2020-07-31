@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 07:31:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 07:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -6,3 +6,5 @@
 > 关键字：`Node`、`Node.js`、`Express`、`Koa`、`egg.js`、`pandora.js`、`Electron`、`V8`
 
 
+
+- [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45) 

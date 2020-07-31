@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-07-31 03:36:07，:rocket: 更新条数: +3364， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-07-31 03:46:21，:rocket: 更新条数: +3154， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -63,13 +63,15 @@
 </summary>
 
 
+- [2020-07-30-最新疫情：全国新冠累计确诊84292例-本土病例新疆112例辽宁11例](https://m.caixin.com/m/2020-07-31/101586943.html) ![](assets/new.png)  
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
 - [2020-07-30-7月30日全国新增新冠127例-新疆本土112例](http://m.china.caixin.com/m/2020-07-31/101586748.html) ![](assets/new.png)  
 - [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
 - [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
-- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
 - [2020-07-29-最新海外疫情：新冠感染者近1691万-累计死亡超66万](http://m.international.caixin.com/m/2020-07-30/101586482.html) ![](assets/new.png)  
 - [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
 - [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
+- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
 - [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
 - [2020-07-29-大连：对高风险地区重点人群开展第二次核酸采样](http://m.china.caixin.com/m/2020-07-30/101586294.html) ![](assets/new.png)  
 - [2020-07-29-德国最新研究：78%受访新冠康复者心脏受损](https://m.caixin.com/m/2020-07-30/101586183.html) ![](assets/new.png)  
@@ -81,8 +83,6 @@
 - [2020-07-27-【境内疫情观察】新疆新增57例本土病例（7月27日）](http://m.database.caixin.com/m/2020-07-28/101585472.html) ![](assets/new.png)  
 - [2020-07-27-大流行手记|7月27日：非洲新冠确诊过84万人-南非启动疫苗试验](https://m.caixin.com/m/2020-07-28/101585332.html) ![](assets/new.png)  
 - [2020-07-27-北京通报新增两例新冠确诊病例详情及新发地病例救治情况](http://m.china.caixin.com/m/2020-07-28/101585405.html) ![](assets/new.png)  
-- [2020-07-27-越南百日病例零新增记录被打破-岘港紧急疏散8万旅客](http://m.international.caixin.com/m/2020-07-28/101585542.html) ![](assets/new.png)  
-- [2020-07-27-韩国称朝鲜发现的新冠疑似病例或为渡江潜回-曾涉性侵指控](http://m.international.caixin.com/m/2020-07-28/101585433.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -94,11 +94,11 @@
 </summary>
 
 
+- [2020-07-31-对大连凯洋公司疫点终末消毒出动消毒队员150余人次-消毒面积15000余平方米](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHAGT0qN2ZABaJ6frhhK200731&isfromapp=1) ![](assets/new.png)  
+- [2020-07-31-大连已有206名医护人员进驻隔离病区-7月22日以来累计转运752人次](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9IzunjHYfpO5PDmaMxUR200731&isfromapp=1) ![](assets/new.png)  
+- [2020-07-31-大连累计完成核酸检测389.2万份](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaAnNbpbb6G7REexrF3y0200731&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-澳大利亚维州新冠肺炎确诊病例破万-1/4确诊病例未遵守隔离规定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibynqY9aGKTun0H6ZM785200731&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-7月30日0时至24时-天津新增境外输入确诊病例1例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiycyHLSbs8B8N47Pxi4cl200731&isfromapp=1) ![](assets/new.png)  
-- [2020-07-31-新疆新增112例确诊](https://m.weibo.cn/2656274875/4532673421250081) ![](assets/new.png)  
-- [2020-07-30-尼日利亚新增481例新冠肺炎确诊病例-累计42689例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7bnjWpBk56LciLzxc1zR200731&isfromapp=1) ![](assets/new.png)  
-- [2020-07-30-非洲地区新冠肺炎确诊病例逼近90万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVTY00Gi4OcZ3JJAq1FoB200731&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -749,26 +749,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1071,6 +1051,12 @@
 </summary>
 
 
+- [2020-07-31-Windows-10-Enterprise-2016-LTSB-经常出现桌面卡死、explorer-无响应，你们出现过这样的情况没？怎么解决的？](https://www.v2ex.com/t/694587) ![](assets/new.png)  
+- [2020-07-31-大家的项目前后端接口是领域接口还是聚合接口？](https://www.v2ex.com/t/694586) ![](assets/new.png)  
+- [2020-07-31-Linux-ip-route-添加路由表的时候，-table-编号上限是多少？](https://www.v2ex.com/t/694584) ![](assets/new.png)  
+- [2020-07-31-美团前端招聘20K-40K，欢迎投递～](https://www.v2ex.com/t/694583) ![](assets/new.png)  
+- [2020-07-31-广州-招聘全栈工程师](https://www.v2ex.com/t/694582) ![](assets/new.png)  
+- [2020-07-31-小米的-MIUI12-系统怎么这么耗内存？-8G-内存什么软件都没开，显示只有-3.4G-可用，感觉比-windows10-还占内存](https://www.v2ex.com/t/694581) ![](assets/new.png)  
 - [2020-07-31-Java-疑似-finalizer-内存泄漏问题,不知如何下手了?](https://www.v2ex.com/t/694580) ![](assets/new.png)  
 - [2020-07-31-我宣布-Github-就是新时代的-QQ-空间](https://www.v2ex.com/t/694579) ![](assets/new.png)  
 - [2020-07-31-为什么这么多机场网站都是同一套模板？这背后是个什么样的产业链？](https://www.v2ex.com/t/694578) ![](assets/new.png)  
@@ -1085,12 +1071,6 @@
 - [2020-07-31-办公室到期搬家，技术和销售隔着一米的过道](https://www.v2ex.com/t/694562) ![](assets/new.png)  
 - [2020-07-31-线上服务要咋切换版本才不会影响用户？](https://www.v2ex.com/t/694561) ![](assets/new.png)  
 - [2020-07-31-类的实例通过-isinstance-判断时却返回-False](https://www.v2ex.com/t/694559) ![](assets/new.png)  
-- [2020-07-31-北京-Java-！-京东物流-坑多多！入坑好时机！](https://www.v2ex.com/t/694558) ![](assets/new.png)  
-- [2020-07-31-腾讯内推-大量客户端、前端、后台、算法坑位，有需求的可以看看，微信、企业微信、看点等部门均可内推](https://www.v2ex.com/t/694557) ![](assets/new.png)  
-- [2020-07-31-菜-X-提问…用-gradle-打包自己写的-kotlin-工具包，打成的-jar-其他项目无法-import-里面的方法怎么办…](https://www.v2ex.com/t/694556) ![](assets/new.png)  
-- [2020-07-31-求解-路由器-openwrt-内网-rdp-远程桌面不停断开连接](https://www.v2ex.com/t/694554) ![](assets/new.png)  
-- [2020-07-31-求推荐可以本地部署的文档管理工具或网盘，要求：管理员上传文件，其他用户可以浏览器在线查看，但是无法下载。](https://www.v2ex.com/t/694553) ![](assets/new.png)  
-- [2020-07-31-oracle-服务自动关闭，日志信息如下，大神求解！](https://www.v2ex.com/t/694552) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1136,8 +1116,8 @@
 - [2020-07-31-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
 - [2020-07-31-又拍云网关速率限制实践](https://toutiao.io/k/5to2tpq) ![](assets/new.png)  
 - [2020-07-31-当遇到跨域开发时,-我们如何处理好前后端配置和请求库封装（koa/axios-版）](https://toutiao.io/k/8osmno2) ![](assets/new.png)  
-- [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-IDEA-命令行缩短器助你解决此问题：Command-line-is-too-long.-Shorten-command-line](https://toutiao.io/k/92z51sr) ![](assets/new.png)  
+- [2020-07-31-ArrayList-的删除姿势你都掌握了吗](https://toutiao.io/k/ygdemqg) ![](assets/new.png)  
 - [2020-07-31-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-07-31-特征提取-+-分类模型：4-种常见的-NLP-实践思路](https://toutiao.io/k/aifa4fg) ![](assets/new.png)  
 - [2020-07-31-从-1.9-到-1.11，聊聊-PyFlink-的核心功能演进（附-Demo-代码）](https://toutiao.io/k/91cwhwj) ![](assets/new.png)  
@@ -1145,8 +1125,8 @@
 - [2020-07-31-为什么说在-Android-中请求权限从来都不是一件简单的事情？](https://toutiao.io/k/l4hsio5) ![](assets/new.png)  
 - [2020-07-31-使用-AWK-进行文件内容-join](https://toutiao.io/k/x6s9v5u) ![](assets/new.png)  
 - [2020-07-31-译-总记不住-Helm-和-kubectl-命令？这场超市购物之旅可以帮你](https://toutiao.io/k/mzqv8rz) ![](assets/new.png)  
-- [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-特征工程：特征获取、特征规范和特征存储](https://toutiao.io/k/yy4aclp) ![](assets/new.png)  
+- [2020-07-31-ResNet、Faster-RCNN、Mask-RCNN-是专利算法吗？盘点何恺明参与发明的专利](https://toutiao.io/k/i0b2su6) ![](assets/new.png)  
 - [2020-07-31-最新一期「码农周刊-VIP-会员专属邮件周报」，今晚发送！](https://toutiao.io/k/zpin21s) ![](assets/new.png)  
 - [2020-07-31-Parallel-Gzip:-Pigz](https://toutiao.io/k/rf7j3sf) ![](assets/new.png)  
 - [2020-07-31-干！一张图整理了-Python-所有内置异常](https://toutiao.io/k/kqh7ypo) ![](assets/new.png)  

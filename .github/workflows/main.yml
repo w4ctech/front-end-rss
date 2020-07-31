@@ -1,0 +1,24 @@
+name: rss
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "*/15 * * * *"
+jobs:
+  front-rss-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+      - name: configure
+        run: |
+          git config --global user.name "w4ctech"
+          git config --global user.email "w3ctech@qq.com"
+      - name: working
+        run: cd server && npm install && node once.js

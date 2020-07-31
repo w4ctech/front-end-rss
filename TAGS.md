@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-07-31 23:33:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-07-31 23:46:27。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -149,6 +149,8 @@
 - [【奇舞周刊】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a)
 - [【InfoQ】低门槛构建云端生态：华为云为企业铺就生产力提升捷径-|-Q推荐](https://www.ershicimi.com/p/1936bc159c08d0466bf5c74437fe0638)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
+- [【开发者头条】如何有效提升快应用-Webpack-编译速度](https://toutiao.io/k/qd8mlg1)
+- [【开发者头条】通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -397,6 +399,7 @@
 - [【互联网架构师】网易开源分布式存储系统-Curve，性能彪悍！这是要吊打阿里？](https://www.ershicimi.com/p/c16e1d5dfa3a1658d3883dc3e8a3cc99)
 - [【互联网架构师】对-Java-意义重大的-7-个性能指标](https://www.ershicimi.com/p/b2ab8dd48d9b4db0b61e8874cc14ef40)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【V2EX】赞一个-coloros-的优化小细节](https://www.v2ex.com/t/694763)
 - [【V2EX】搜狗输入法这几年有什么优化值得升级的吗？](https://www.v2ex.com/t/694749)
 - [【开发者头条】好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd)
 - [......【查看更多】......](./details/tags/optimization.md)
@@ -461,9 +464,9 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】完美，竟然用一个脚本就把系统升级到https了，且永久免费！](https://www.ershicimi.com/p/7de541eefca844a5ffa43013bea592c0)
 - [【InfoQ】全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台-|-Q推荐](https://www.ershicimi.com/p/5c7c6a64dfd6eba939235716545ca70b)
-- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
-- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
+- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
+- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
 - [【安全热点】学长拿了2万的算法岗offer,我承认,酸了!!](https://sec.thief.one/article_content?a_id=efb8b5ebfe166160b2b5d3402a3bdbe0)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

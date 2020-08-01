@@ -15584,7 +15584,32 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "pyYaml 格式化输出的问题",
+        "title": "有没有啥不怎么花时间也能玩开心的 PC 游戏推荐？",
+        "link": "https://www.v2ex.com/t/694924",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "请问 Windows 端有没有软件能内嵌控制台？",
+        "link": "https://www.v2ex.com/t/694923",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "南京李 B 这是要复出了？",
+        "link": "https://www.v2ex.com/t/694922",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "想找位做过电商或者数据分析的开发小伙伴，合作个项目。",
+        "link": "https://www.v2ex.com/t/694920",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "支付宝健康码每日自动截图有没有好的方法",
+        "link": "https://www.v2ex.com/t/694919",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "PyYAML 格式化输出的问题",
         "link": "https://www.v2ex.com/t/694918",
         "date": "2020-08-01"
       },
@@ -15731,31 +15756,6 @@
       {
         "title": "如何在其他编程语言中用上 Go 的 defer 语句？",
         "link": "https://www.v2ex.com/t/694876",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "为什么没有支持 Carplay 播放视频的 APP 呢？",
-        "link": "https://www.v2ex.com/t/694874",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "你们的 pycharm 最近卡吗",
-        "link": "https://www.v2ex.com/t/694873",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "ios 轻触唤醒为什么不做成双击",
-        "link": "https://www.v2ex.com/t/694872",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "感觉学习编程要学的语言有点多啊",
-        "link": "https://www.v2ex.com/t/694871",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "白嫖腾讯会员年卡",
-        "link": "https://www.v2ex.com/t/694869",
         "date": "2020-08-01"
       }
     ]
@@ -15923,13 +15923,8 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
+        "link": "https://toutiao.io/k/fw0x414",
         "date": "2020-08-01"
       },
       {
@@ -15938,43 +15933,8 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
         "date": "2020-08-01"
       },
       {
@@ -15983,8 +15943,43 @@
         "date": "2020-08-01"
       },
       {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-01"
+      },
+      {
         "title": "[推荐] SQL 注入笔记",
         "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-01"
       },
       {
@@ -15993,8 +15988,13 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
         "date": "2020-08-01"
       }
     ]

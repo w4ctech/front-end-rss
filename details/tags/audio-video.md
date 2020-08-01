@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 15:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 15:31:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,7 +90,6 @@
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
 - [2020-08-01-看到一个大连集中核酸检测现场的视频，有点担忧，虽说几百万的检测数量，但这样的取样太容易造成交叉感染了](https://www.v2ex.com/t/694896) 
 - [2020-08-01-开通苏宁会员，送-1-年腾讯视频会员，并且返-100-元券](https://www.v2ex.com/t/694886) 
-- [2020-08-01-为什么没有支持-Carplay-播放视频的-APP-呢？](https://www.v2ex.com/t/694874) 
 - [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) 
 - [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) 
 - [2020-07-31-【视频】|-多因素身份验证MFA介绍](https://sec.thief.one/article_content?a_id=a3556138b0b2f8085b42d5d16d2729a0) 

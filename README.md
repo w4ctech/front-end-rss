@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 15:18:24，:rocket: 更新条数: +3246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 15:31:32，:rocket: 更新条数: +3246， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,12 @@
 </summary>
 
 
-- [2020-08-01-pyYaml-格式化输出的问题](https://www.v2ex.com/t/694918) ![](assets/new.png)  
+- [2020-08-01-有没有啥不怎么花时间也能玩开心的-PC-游戏推荐？](https://www.v2ex.com/t/694924) ![](assets/new.png)  
+- [2020-08-01-请问-Windows-端有没有软件能内嵌控制台？](https://www.v2ex.com/t/694923) ![](assets/new.png)  
+- [2020-08-01-南京李-B-这是要复出了？](https://www.v2ex.com/t/694922) ![](assets/new.png)  
+- [2020-08-01-想找位做过电商或者数据分析的开发小伙伴，合作个项目。](https://www.v2ex.com/t/694920) ![](assets/new.png)  
+- [2020-08-01-支付宝健康码每日自动截图有没有好的方法](https://www.v2ex.com/t/694919) ![](assets/new.png)  
+- [2020-08-01-PyYAML-格式化输出的问题](https://www.v2ex.com/t/694918) ![](assets/new.png)  
 - [2020-08-01-杭州移动抽了](https://www.v2ex.com/t/694917) ![](assets/new.png)  
 - [2020-08-01-个人开发者账号需要续费了？](https://www.v2ex.com/t/694916) ![](assets/new.png)  
 - [2020-08-01-失业期间更新了-WGestures-2-&-Tickeys-for-mac，下周开始找工作](https://www.v2ex.com/t/694915) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-01-mp4-分辨率/帧数相同，但大小不同](https://www.v2ex.com/t/694898) ![](assets/new.png)  
 - [2020-08-01-公众号需要企业认证，请问做过的-V-友们有什么值得注意的吗？](https://www.v2ex.com/t/694897) ![](assets/new.png)  
 - [2020-08-01-看到一个大连集中核酸检测现场的视频，有点担忧，虽说几百万的检测数量，但这样的取样太容易造成交叉感染了](https://www.v2ex.com/t/694896) ![](assets/new.png)  
-- [2020-08-01-“京东-百度有我们-xxxx-值得来吗？”](https://www.v2ex.com/t/694895) ![](assets/new.png)  
-- [2020-08-01-最近又发现了一款国内模仿-Roam-Research-的应用，葫芦笔记](https://www.v2ex.com/t/694894) ![](assets/new.png)  
-- [2020-08-01-右手网出品华为超大杯-P40Pro-Plus-拍照我之体验](https://www.v2ex.com/t/694893) ![](assets/new.png)  
-- [2020-08-01-homekit-用什么做中枢比较好-iPad-appletv-？](https://www.v2ex.com/t/694891) ![](assets/new.png)  
-- [2020-08-01-===上海联通出口最近是不是有问题===](https://www.v2ex.com/t/694890) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
 - [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
-- [2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
 - [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
+- [2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
 - [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-01-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

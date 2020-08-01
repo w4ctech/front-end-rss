@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-01 15:09:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 15:18:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-pyYaml-格式化输出的问题](https://www.v2ex.com/t/694918) 
+- [2020-08-01-杭州移动抽了](https://www.v2ex.com/t/694917) 
+- [2020-08-01-个人开发者账号需要续费了？](https://www.v2ex.com/t/694916) 
+- [2020-08-01-失业期间更新了-WGestures-2-&-Tickeys-for-mac，下周开始找工作](https://www.v2ex.com/t/694915) 
 - [2020-08-01-有一个想法，有能力的可以实现一下。](https://www.v2ex.com/t/694914) 
 - [2020-08-01-你们是怎么整理-iOS-的图片的？](https://www.v2ex.com/t/694913) 
 - [2020-08-01-数据密集型应用系统设计---关于-Apache-Avro-的疑问](https://www.v2ex.com/t/694910) 
@@ -36,5 +40,3 @@
 - [2020-08-01-ios-轻触唤醒为什么不做成双击](https://www.v2ex.com/t/694872) 
 - [2020-08-01-感觉学习编程要学的语言有点多啊](https://www.v2ex.com/t/694871) 
 - [2020-08-01-白嫖腾讯会员年卡](https://www.v2ex.com/t/694869) 
-- [2020-08-01-Java-中-byte-为什么不能自动转换成-char-啊？](https://www.v2ex.com/t/694868) 
-- [2020-08-01-强行-5G-?联通要是没有故意劣化-4G-体验我是不太信的](https://www.v2ex.com/t/694865) 

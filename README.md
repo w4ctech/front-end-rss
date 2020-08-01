@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 15:48:08，:rocket: 更新条数: +3246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 16:02:53，:rocket: 更新条数: +3246， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-01-SpaceVim-发布-v1.5.0](https://www.v2ex.com/t/694928) ![](assets/new.png)  
+- [2020-08-01-B-站什么时候能出一个-Block-功能？](https://www.v2ex.com/t/694926) ![](assets/new.png)  
+- [2020-08-01-请教一个-react-router-问题-，我想获取获取当前路径匹配的-path（user/:id）而不是-pathnameuser/111，用的-umi，我记得-react-之前好像是区分-path-和-url-...](https://www.v2ex.com/t/694925) ![](assets/new.png)  
 - [2020-08-01-有没有啥不怎么花时间也能玩开心的-PC-游戏推荐？](https://www.v2ex.com/t/694924) ![](assets/new.png)  
 - [2020-08-01-请问-Windows-端有没有软件能内嵌控制台？](https://www.v2ex.com/t/694923) ![](assets/new.png)  
 - [2020-08-01-南京李-B-这是要复出了？](https://www.v2ex.com/t/694922) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-01-21-届求内推](https://www.v2ex.com/t/694906) ![](assets/new.png)  
 - [2020-08-01-Python-socket+asyncore-会出现连接重置问题](https://www.v2ex.com/t/694905) ![](assets/new.png)  
 - [2020-08-01-SQLAlchemy-ORM，如何实现模板化建表？](https://www.v2ex.com/t/694902) ![](assets/new.png)  
-- [2020-08-01-mp4-分辨率/帧数相同，但大小不同](https://www.v2ex.com/t/694898) ![](assets/new.png)  
-- [2020-08-01-公众号需要企业认证，请问做过的-V-友们有什么值得注意的吗？](https://www.v2ex.com/t/694897) ![](assets/new.png)  
-- [2020-08-01-看到一个大连集中核酸检测现场的视频，有点担忧，虽说几百万的检测数量，但这样的取样太容易造成交叉感染了](https://www.v2ex.com/t/694896) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,8 +1114,8 @@
 </summary>
 
 
-- [2020-08-01-IntelliJ-IDEA-2020.2-正式发布，诸多亮点总有几款能助你提效](https://toutiao.io/k/cdm67cm) ![](assets/new.png)  
 - [2020-08-01-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-01-IntelliJ-IDEA-2020.2-正式发布，诸多亮点总有几款能助你提效](https://toutiao.io/k/cdm67cm) ![](assets/new.png)  
 - [2020-08-01-如何有效提升快应用-Webpack-编译速度](https://toutiao.io/k/qd8mlg1) ![](assets/new.png)  
 - [2020-08-01-译-Kubernetes-Egress-网络策略指南](https://toutiao.io/k/1yiomog) ![](assets/new.png)  
 - [2020-08-01-什么是-APM？](https://toutiao.io/k/hmu1fjo) ![](assets/new.png)  
@@ -1124,16 +1124,16 @@
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
 - [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
-- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
-- [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
-- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
 - [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
+- [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
+- [2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

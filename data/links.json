@@ -12422,6 +12422,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "新加坡转机乘客感染新冠病毒 感染源存疑点",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2tIHjZHhcvO5FNT3HCSC200801&isfromapp=1",
+        "date": "2020-08-01"
+      },
+      {
         "title": "辽宁新增8例本土确诊病例和4例无症状感染者",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfyPnwhdtlotc9CqijIJ200801&isfromapp=1",
         "date": "2020-07-31"
@@ -12439,11 +12444,6 @@
       {
         "title": "非洲地区新冠肺炎确诊病例超91万",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitPgW19SIhZSwwng04Ica200801&isfromapp=1",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "比利时疫情形势愈加严峻 入境比利时须填写“入境单”",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir2JNYZnVHs0BReRU0Gl1200801&isfromapp=1",
         "date": "2020-07-31"
       }
     ]
@@ -16650,6 +16650,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[发现新世界] QA Stack 是个什么神仙网站？完全找不到相关背景，好像是纯公益的知识类网站",
+        "link": "https://www.v2ex.com/t/694771",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "2020 时间点，笔记本求推荐",
+        "link": "https://www.v2ex.com/t/694770",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "要开始按照 bug 数量来算绩效咯",
+        "link": "https://www.v2ex.com/t/694769",
+        "date": "2020-08-01"
+      },
+      {
         "title": "如何评价 PHP 开源论坛 xiunobbs 宣布关闭",
         "link": "https://www.v2ex.com/t/694768",
         "date": "2020-08-01"
@@ -16989,13 +17004,13 @@
         "date": "2020-08-01"
       },
       {
-        "title": "通过构建商品静态分优化排序效果",
-        "link": "https://toutiao.io/k/08uq8nx",
+        "title": "你不知道的 WebSocket",
+        "link": "https://toutiao.io/k/fdz4qnl",
         "date": "2020-08-01"
       },
       {
-        "title": "你不知道的 WebSocket",
-        "link": "https://toutiao.io/k/fdz4qnl",
+        "title": "通过构建商品静态分优化排序效果",
+        "link": "https://toutiao.io/k/08uq8nx",
         "date": "2020-08-01"
       },
       {
@@ -17004,53 +17019,8 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
-        "link": "https://toutiao.io/k/knhm23r",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-01"
       },
       {
@@ -17059,8 +17029,38 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
-        "link": "https://toutiao.io/k/fw0x414",
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-01"
       },
       {
@@ -17069,13 +17069,28 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
+        "title": "[推荐] 打造 Mac OS 最强终端利器 iTerm2",
+        "link": "https://toutiao.io/k/knhm23r",
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-01"
       }
     ]

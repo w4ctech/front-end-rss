@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-01 17:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 17:31:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-NGINX-处于-D-状态，阻塞](https://www.v2ex.com/t/694938) 
 - [2020-08-01-对不起，我还是理解不了那些骂字节跳动的人](https://www.v2ex.com/t/694937) 
 - [2020-08-01-小伙伴们有用过-apple-官方的-LaCie-2TB-USB-C-USB-3.0-便携式硬盘吗，-Time-Machine-的时候，速度有多快？](https://www.v2ex.com/t/694935) 
 - [2020-08-01-大家的-onenote-平时同时开多少个窗口？我这如果开-2-个以上，就会失去光标-mac-平台](https://www.v2ex.com/t/694933) 
@@ -38,4 +39,3 @@
 - [2020-08-01-homekit-用什么做中枢比较好-iPad-appletv-？](https://www.v2ex.com/t/694891) 
 - [2020-08-01-===上海联通出口最近是不是有问题===](https://www.v2ex.com/t/694890) 
 - [2020-08-01-为什么我用路由器的-5gWi-Fi-可以上-v-站，用-2.4g-不行](https://www.v2ex.com/t/694889) 
-- [2020-08-01-iPhone-7-刚过保一周出现硬件问题无法刷机，除了掏钱修还有别的办法吗？](https://www.v2ex.com/t/694888) 

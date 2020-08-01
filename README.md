@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 04:18:43，:rocket: 更新条数: +3466， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 04:31:42，:rocket: 更新条数: +3466， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,10 @@
 </summary>
 
 
+- [2020-08-01-电焊工想搞个符合自己要求的工具软件还有机会吗？](https://www.v2ex.com/t/694805) ![](assets/new.png)  
+- [2020-08-01-windows-下的安卓模拟器有没有类似-Parallels-Coherence-模式](https://www.v2ex.com/t/694804) ![](assets/new.png)  
+- [2020-08-01-如何花最少的时间和精力写日记？](https://www.v2ex.com/t/694803) ![](assets/new.png)  
+- [2020-08-01-分享｜翻译、数字生活的笔记](https://www.v2ex.com/t/694802) ![](assets/new.png)  
 - [2020-08-01-快-2021-年,-node.js-选用哪个-web-框架,-个人轻度使用,-写几个-api-什么的.](https://www.v2ex.com/t/694801) ![](assets/new.png)  
 - [2020-08-01-PHP-框架-laravle7.x-能做前后端分离吗，看到了-tp6.x-能做前后端分离，最近在看-laravel-就想着-laravel-能不能前后端分离](https://www.v2ex.com/t/694800) ![](assets/new.png)  
 - [2020-08-01-一个国家的总统把自己的名字在互联网上设置为违禁字符是一种什么样的心态？](https://www.v2ex.com/t/694799) ![](assets/new.png)  
@@ -1088,10 +1092,6 @@
 - [2020-08-01-怎么高效地把几十万-mysql-数据一次性存入-redis？](https://www.v2ex.com/t/694784) ![](assets/new.png)  
 - [2020-08-01-如何避免-app-被应用商城更新](https://www.v2ex.com/t/694783) ![](assets/new.png)  
 - [2020-08-01-flask-jinja2-html-里面如何-from-import](https://www.v2ex.com/t/694782) ![](assets/new.png)  
-- [2020-08-01-国内在哪里还能买到便宜的云服务器？](https://www.v2ex.com/t/694781) ![](assets/new.png)  
-- [2020-08-01-家教公众号运营困局](https://www.v2ex.com/t/694780) ![](assets/new.png)  
-- [2020-08-01-Microsoft-Said-to-Be-in-Talks-to-Buy-TikTok](https://www.v2ex.com/t/694779) ![](assets/new.png)  
-- [2020-08-01-现在哪里可以买到小时候听的”嗒滴嗒，小喇叭开始广播了”的音频或视频呢](https://www.v2ex.com/t/694776) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,21 +1139,21 @@
 - [2020-08-01-译-Kubernetes-Egress-网络策略指南](https://toutiao.io/k/1yiomog) ![](assets/new.png)  
 - [2020-08-01-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
 - [2020-08-01-什么是-APM？](https://toutiao.io/k/hmu1fjo) ![](assets/new.png)  
+- [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) ![](assets/new.png)  
 - [2020-08-01-Python-为什么要有-pass-语句？](https://toutiao.io/k/d9mhgho) ![](assets/new.png)  
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
-- [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
-- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
-- [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
 - [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
 - [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
-- [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
+- [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
+- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-01 04:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 04:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-电焊工想搞个符合自己要求的工具软件还有机会吗？](https://www.v2ex.com/t/694805) 
+- [2020-08-01-windows-下的安卓模拟器有没有类似-Parallels-Coherence-模式](https://www.v2ex.com/t/694804) 
+- [2020-08-01-如何花最少的时间和精力写日记？](https://www.v2ex.com/t/694803) 
+- [2020-08-01-分享｜翻译、数字生活的笔记](https://www.v2ex.com/t/694802) 
 - [2020-08-01-快-2021-年,-node.js-选用哪个-web-框架,-个人轻度使用,-写几个-api-什么的.](https://www.v2ex.com/t/694801) 
 - [2020-08-01-PHP-框架-laravle7.x-能做前后端分离吗，看到了-tp6.x-能做前后端分离，最近在看-laravel-就想着-laravel-能不能前后端分离](https://www.v2ex.com/t/694800) 
 - [2020-08-01-一个国家的总统把自己的名字在互联网上设置为违禁字符是一种什么样的心态？](https://www.v2ex.com/t/694799) 
@@ -43,7 +47,3 @@
 - [2020-07-31-如果-MacBook-Pro-上支架，那-Type-C-的转接线悬在空中的问题怎么解决？](https://www.v2ex.com/t/694759) 
 - [2020-07-31-iPadOS-能否关闭负一屏？](https://www.v2ex.com/t/694757) 
 - [2020-07-31-四川移动老套餐流量扩容开始了](https://www.v2ex.com/t/694756) 
-- [2020-07-31-《妙先生》最后的片尾曲是啥？](https://www.v2ex.com/t/694755) 
-- [2020-07-31-分享自用的静态博客生成脚本](https://www.v2ex.com/t/694754) 
-- [2020-07-31-申购理想-LI，-150USD-到手](https://www.v2ex.com/t/694753) 
-- [2020-07-31-全新-MacQQ-体验版，基于-Mac-Catalyst-技术开发（界面和-iPad-上的-QQ-差不多）](https://www.v2ex.com/t/694752) 

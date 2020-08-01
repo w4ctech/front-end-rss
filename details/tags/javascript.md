@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 08:19:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 08:31:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -53,6 +53,8 @@
 - [2020-01-13-从敲下一行JS代码到这行代码被执行，中间发生了什么？](https://www.ershicimi.com/p/9712821caf5ac7b2e19b1f1ea0be56fc) 
 - [2019-10-28-关于前端与机器学习的疑惑，听-TensorFlow.js-负责人一一解答](https://www.ershicimi.com/p/65c0d69ccde71ed8128a2ff02aa848b8) 
 - [2019-10-09-前端圈大事件-|-抢先-Get-第-14-届-D2-的技术要点！](https://www.ershicimi.com/p/fc72aaf768470103c162d63407671197) 
+- [2020-07-27-你的博客用不着什么JavaScript框架](https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40) 
+- [2020-07-21-14个-JavaScript-代码优化技巧](https://www.ershicimi.com/p/acc1acffa56c72e4f659402728353e1f) 
 - [2020-07-30-嘿，不要给-async-函数写那么多-try/catch-了偏原理](https://www.ershicimi.com/p/9f09ce4de2eff9844a8872237bf7d071) 
 - [2020-07-27-JS数组奇巧淫技](https://www.ershicimi.com/p/392e966760dd3cbc83aeb3ec9f7b96a5) 
 - [2020-06-28-ZooTeam-拍了拍你，来看看如何设计动态化表单](https://www.ershicimi.com/p/1a5e9e6883ae44194227d7c43e557314) 
@@ -90,4 +92,4 @@
 - [2020-08-01-如何打印一个基于数组的完全二叉树](https://www.v2ex.com/t/694808) 
 - [2020-08-01-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-01-Android-主题色无缝切换方案:Databinding下实现控件皮肤无缝切换-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13641&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbm4AkagSLri0RCOIc4uaag%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 

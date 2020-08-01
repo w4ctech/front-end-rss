@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 08:19:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 08:31:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -41,4 +41,3 @@
 - [2020-08-01-都-2020-年了,windows-下调教-emacs-的正确姿势?](https://www.v2ex.com/t/694792) 
 - [2020-08-01-有什么方法可以小米-8-的耗电严重，卡顿严重](https://www.v2ex.com/t/694791) 
 - [2020-08-01-向大家推荐一个在床上用笔记本的方法，仅限小尺寸轻薄本](https://www.v2ex.com/t/694790) 
-- [2020-08-01-TimeMachine-还原后-chrome-历史记录没有了？](https://www.v2ex.com/t/694789) 

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-01 07:48:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 08:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-第二编程语言学什么好？](https://www.v2ex.com/t/694833) 
 - [2020-08-01-又是面试题？对，合并有序序列。](https://www.v2ex.com/t/694829) 
 - [2020-08-01-前端开发的老哥们都喜欢把-Prettier-的-printWidth-单行代码的最大宽度-设置为多少？](https://www.v2ex.com/t/694828) 
 - [2020-08-01-微软为什么不做-everything-这种极速搜索工具，而是弄那个烂得不能再烂的-windows-搜索。](https://www.v2ex.com/t/694827) 
@@ -40,7 +41,3 @@
 - [2020-08-01-异地医保报销求教：异地医保怎么操作呢？有什么注意事项吗？](https://www.v2ex.com/t/694788) 
 - [2020-08-01-快-2021-了,-现在互联网项目首选数据库是选-MySQL-还是-PostgreSQL?](https://www.v2ex.com/t/694787) 
 - [2020-08-01-找呀找呀找朋友，找到一个好朋友～-寻对网络安全、CTF-感兴趣的小伙伴](https://www.v2ex.com/t/694785) 
-- [2020-08-01-怎么高效地把几十万-mysql-数据一次性存入-redis？](https://www.v2ex.com/t/694784) 
-- [2020-08-01-如何避免-app-被应用商城更新](https://www.v2ex.com/t/694783) 
-- [2020-08-01-flask-jinja2-html-里面如何-from-import](https://www.v2ex.com/t/694782) 
-- [2020-08-01-国内在哪里还能买到便宜的云服务器？](https://www.v2ex.com/t/694781) 

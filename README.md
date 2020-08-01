@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 12:11:19，:rocket: 更新条数: +3245， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 12:22:29，:rocket: 更新条数: +3245， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-01-为什么我用路由器的-5gWi-Fi-可以上-v-站，用-2.4g-不行](https://www.v2ex.com/t/694889) ![](assets/new.png)  
+- [2020-08-01-iPhone-7-刚过保一周出现硬件问题无法刷机，除了掏钱修还有别的办法吗？](https://www.v2ex.com/t/694888) ![](assets/new.png)  
+- [2020-08-01-开通苏宁会员，送-1-年腾讯视频会员，并且返-100-元券](https://www.v2ex.com/t/694886) ![](assets/new.png)  
 - [2020-08-01-大家有遇到过-windows-桌面-md-文件全部消失的情况吗?](https://www.v2ex.com/t/694885) ![](assets/new.png)  
 - [2020-08-01-今天来教大家，什么叫做玩不起](https://www.v2ex.com/t/694884) ![](assets/new.png)  
 - [2020-08-01-各位大佬有没有什么-React-的布局方面的博客文章推荐？](https://www.v2ex.com/t/694882) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-01-用什么软件远程控制电脑](https://www.v2ex.com/t/694864) ![](assets/new.png)  
 - [2020-08-01-HP-台式机-求股价](https://www.v2ex.com/t/694863) ![](assets/new.png)  
 - [2020-08-01-社招-字节跳动-垂直业务-懂车帝招聘后端开发工程师-Base-北京](https://www.v2ex.com/t/694862) ![](assets/new.png)  
-- [2020-08-01-更新-goland-2020.2-后发现-Debug-或-Run-老进程无法关闭,-不知道有人遇到没](https://www.v2ex.com/t/694859) ![](assets/new.png)  
-- [2020-08-01-33-岁了-愁啊-也没目标](https://www.v2ex.com/t/694858) ![](assets/new.png)  
-- [2020-08-01-杭州地铁-2-号线杜甫站（亿丰蔚蓝郡）找-2-个室友](https://www.v2ex.com/t/694857) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
 - [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
-- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
 - [2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-01-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
-- [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
+- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
+- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
 - [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-01 12:11:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 12:22:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-为什么我用路由器的-5gWi-Fi-可以上-v-站，用-2.4g-不行](https://www.v2ex.com/t/694889) 
+- [2020-08-01-iPhone-7-刚过保一周出现硬件问题无法刷机，除了掏钱修还有别的办法吗？](https://www.v2ex.com/t/694888) 
+- [2020-08-01-开通苏宁会员，送-1-年腾讯视频会员，并且返-100-元券](https://www.v2ex.com/t/694886) 
 - [2020-08-01-大家有遇到过-windows-桌面-md-文件全部消失的情况吗?](https://www.v2ex.com/t/694885) 
 - [2020-08-01-今天来教大家，什么叫做玩不起](https://www.v2ex.com/t/694884) 
 - [2020-08-01-各位大佬有没有什么-React-的布局方面的博客文章推荐？](https://www.v2ex.com/t/694882) 
@@ -36,6 +39,3 @@
 - [2020-08-01-如何看越来越疯狂的杀猪盘现象?](https://www.v2ex.com/t/694843) 
 - [2020-08-01-接外包的一些坑和小技巧](https://www.v2ex.com/t/694842) 
 - [2020-08-01-自动化/AI-发展到一定程度会不会遇到这样的矛盾？](https://www.v2ex.com/t/694840) 
-- [2020-08-01-Git-提交如何细分粒度以及提交信息怎么写比较规范？](https://www.v2ex.com/t/694838) 
-- [2020-08-01-okhttp-用-Java-.net.Proxy.Type.HTTP-还是-Java-.net.Proxy.Type.SOCKS，哪个快？](https://www.v2ex.com/t/694837) 
-- [2020-08-01-AirPods-Pro-空间音频现在有了吗？](https://www.v2ex.com/t/694836) 

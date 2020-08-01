@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-01 20:33:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 20:46:41。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -523,7 +523,7 @@
 - [【V2EX】SpaceVim-发布-v1.5.0](https://www.v2ex.com/t/694928)
 - [【开发者头条】恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek)
 - [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
-- [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
+- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

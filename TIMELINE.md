@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 09:19:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-01 09:31:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -83,6 +83,7 @@
 - [【InfoQ】2020-08-01-ITER，光刻机之后又一人类科学奇迹丨Q事界](https://www.ershicimi.com/p/efa3cb103ca1c6eb5099777d29ce1b0c) 
 - [【InfoQ】2020-08-01-云原生时代的流量入口：Envoy-Gateway](https://www.ershicimi.com/p/3053ea218d99c7f7f871268c7c399e86) 
 - [【InfoQ】2020-08-01-2020-年，苹果的-AI-还有创新吗？](https://www.ershicimi.com/p/64b763448240f4a4b99b45878582366b) 
+- [【V2EX】2020-08-01-请教一个问题，如果一个-web-后端应用，后端代理层级过多，对性能影响大吗](https://www.v2ex.com/t/694852) 
 - [【V2EX】2020-08-01-nginx-给-websocket-做反代的时候负载均衡有效吗](https://www.v2ex.com/t/694849) 
 - [【V2EX】2020-08-01-据说-swoole-性能特别好，大家怎么看？](https://www.v2ex.com/t/694848) 
 - [【V2EX】2020-08-01-V-友们,我这是腱鞘炎吗?](https://www.v2ex.com/t/694847) 
@@ -116,7 +117,6 @@
 - [【V2EX】2020-08-01-电焊工想搞个符合自己要求的工具软件还有机会吗？](https://www.v2ex.com/t/694805) 
 - [【V2EX】2020-08-01-windows-下的安卓模拟器有没有类似-Parallels-Coherence-模式](https://www.v2ex.com/t/694804) 
 - [【V2EX】2020-08-01-如何花最少的时间和精力写日记？](https://www.v2ex.com/t/694803) 
-- [【V2EX】2020-08-01-分享｜翻译、数字生活的笔记](https://www.v2ex.com/t/694802) 
 - [【技术头条】2020-08-01-怎样Hack-Linux的内核符号？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13648&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-hack-linux-kernel-symbols%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-01-如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [【技术头条】2020-08-01-小图标，大学问-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13646&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-icon-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -147,21 +147,21 @@
 - [【开发者头条】2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) 
 - [【开发者头条】2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) 
 - [【开发者头条】2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) 
-- [【开发者头条】2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
-- [【开发者头条】2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
-- [【开发者头条】2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) 
-- [【开发者头条】2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) 
+- [【开发者头条】2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
 - [【开发者头条】2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
+- [【开发者头条】2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
+- [【开发者头条】2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
 - [【开发者头条】2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) 
-- [【开发者头条】2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) 
-- [【开发者头条】2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) 
+- [【开发者头条】2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
 - [【开发者头条】2020-08-01-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
-- [【开发者头条】2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) 
-- [【开发者头条】2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
-- [【开发者头条】2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) 
-- [【开发者头条】2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
 - [【开发者头条】2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
+- [【开发者头条】2020-08-01-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [【开发者头条】2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) 
+- [【开发者头条】2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [【开发者头条】2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) 
 - [【开发者头条】2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) 
+- [【开发者头条】2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) 
+- [【开发者头条】2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

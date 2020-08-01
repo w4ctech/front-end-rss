@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 14:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 14:33:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -41,6 +41,8 @@
 - [2020-07-24-妙用-CSS变量，让你的-CSS-变得更心动](https://www.ershicimi.com/p/dde433f9208b7a5f5f0279def3beddfa) 
 - [2020-07-28-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/9beb6c8042b863dbc3d05588042475fd) 
 - [2020-07-24-2020年6月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/88f1ab66fdb1e0ab57948af621fd3159) 
+- [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
+- [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
 - [2020-02-21-阿里-fusion-组件之-loading-第二篇](https://www.ershicimi.com/p/cb9e19d09f7b45caba1d47bc7f64da16) 
 - [2020-02-20-阿里-fusion-组件之-loading](https://www.ershicimi.com/p/15be28914305f084bca8e7cc4fa665ee) 

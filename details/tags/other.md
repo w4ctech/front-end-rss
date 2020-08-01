@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 14:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 14:33:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2179,6 +2179,7 @@
 - [2020-07-20-程序员涨薪必备技能（1-5年必看！！！）](https://www.ershicimi.com/p/2e97d7ca00175a7c7bc6e8bfaf222112) 
 - [2020-07-20-前端进阶必备的七个开源项目！（必看）](https://www.ershicimi.com/p/3e0b6267bb26695e4d1178545b0e909e) 
 - [2020-07-18-vscode安装rainbow-fart彩虹屁插件，萌妹子陪你写代码](https://www.ershicimi.com/p/d2a4d76bf19207e1648659888146bbb0) 
+- [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
 - [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) 
 - [2020-02-03-阿里-ice.work-探秘系列-disabled-reload](https://www.ershicimi.com/p/51eed11abceaabb3dd7f2ceed864d182) 

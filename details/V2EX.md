@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-01 08:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 08:10:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-okhttp-用-Java-.net.Proxy.Type.HTTP-还是-Java-.net.Proxy.Type.SOCKS，哪个快？](https://www.v2ex.com/t/694837) 
+- [2020-08-01-AirPods-Pro-空间音频现在有了吗？](https://www.v2ex.com/t/694836) 
+- [2020-08-01-如何定性地确定微信/QQ-的语音通话时出现“网络质量不稳定”是哪一方的网络造成的?](https://www.v2ex.com/t/694835) 
 - [2020-08-01-第二编程语言学什么好？](https://www.v2ex.com/t/694833) 
 - [2020-08-01-又是面试题？对，合并有序序列。](https://www.v2ex.com/t/694829) 
 - [2020-08-01-前端开发的老哥们都喜欢把-Prettier-的-printWidth-单行代码的最大宽度-设置为多少？](https://www.v2ex.com/t/694828) 
@@ -39,5 +42,3 @@
 - [2020-08-01-向大家推荐一个在床上用笔记本的方法，仅限小尺寸轻薄本](https://www.v2ex.com/t/694790) 
 - [2020-08-01-TimeMachine-还原后-chrome-历史记录没有了？](https://www.v2ex.com/t/694789) 
 - [2020-08-01-异地医保报销求教：异地医保怎么操作呢？有什么注意事项吗？](https://www.v2ex.com/t/694788) 
-- [2020-08-01-快-2021-了,-现在互联网项目首选数据库是选-MySQL-还是-PostgreSQL?](https://www.v2ex.com/t/694787) 
-- [2020-08-01-找呀找呀找朋友，找到一个好朋友～-寻对网络安全、CTF-感兴趣的小伙伴](https://www.v2ex.com/t/694785) 

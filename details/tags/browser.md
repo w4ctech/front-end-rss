@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 08:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 08:10:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,8 +38,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-01-前端开发的老哥们都喜欢把-Prettier-的-printWidth-单行代码的最大宽度-设置为多少？](https://www.v2ex.com/t/694828) 
 - [2020-08-01-TimeMachine-还原后-chrome-历史记录没有了？](https://www.v2ex.com/t/694789) 
-- [2020-08-01-快-2021-了,-现在互联网项目首选数据库是选-MySQL-还是-PostgreSQL?](https://www.v2ex.com/t/694787) 
-- [2020-08-01-找呀找呀找朋友，找到一个好朋友～-寻对网络安全、CTF-感兴趣的小伙伴](https://www.v2ex.com/t/694785) 
 - [2020-08-01-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) 
 - [2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) 

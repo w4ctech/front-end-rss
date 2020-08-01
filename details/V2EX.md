@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 17:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 18:02:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2020-08-01-右手网出品华为超大杯-P40Pro-Plus-拍照我之体验](https://www.v2ex.com/t/694893) 
 - [2020-08-01-homekit-用什么做中枢比较好-iPad-appletv-？](https://www.v2ex.com/t/694891) 
 - [2020-08-01-===上海联通出口最近是不是有问题===](https://www.v2ex.com/t/694890) 
-- [2020-08-01-为什么我用路由器的-5gWi-Fi-可以上-v-站，用-2.4g-不行](https://www.v2ex.com/t/694889) 

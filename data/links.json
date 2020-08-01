@@ -13066,6 +13066,11 @@
     "link": "https://www.ershicimi.com/a/29",
     "items": [
       {
+        "title": "前端登录，这一篇就够了",
+        "link": "https://www.ershicimi.com/p/f5810b6aca92e17e121abcc608e44921",
+        "date": "2020-08-01"
+      },
+      {
         "title": "没错，华为又对前端下手了！",
         "link": "https://www.ershicimi.com/p/f4c6c88a1974b3ee832e72a3fd7634eb",
         "date": "2020-07-31"
@@ -13159,11 +13164,6 @@
         "title": "vscode安装rainbow-fart(彩虹屁)插件，萌妹子陪你写代码",
         "link": "https://www.ershicimi.com/p/d2a4d76bf19207e1648659888146bbb0",
         "date": "2020-07-18"
-      },
-      {
-        "title": "7年做到前端技术总监，被辞退也仅需1分钟而已",
-        "link": "https://www.ershicimi.com/p/02543ac7f7a072778ad56698c3aa1ddb",
-        "date": "2020-07-17"
       }
     ]
   },
@@ -15027,6 +15027,46 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "华为第二批天才少年校招薪资曝光：华科博士201万；前百度云副总裁成阿里最短命P10；ofo总部人去楼",
+        "link": "https://www.ershicimi.com/p/ca0a4326d5c8a29ed38de2fa37a88bb2",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "ITER，光刻机之后又一人类科学奇迹丨Q事界",
+        "link": "https://www.ershicimi.com/p/efa3cb103ca1c6eb5099777d29ce1b0c",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "云原生时代的流量入口：Envoy Gateway",
+        "link": "https://www.ershicimi.com/p/3053ea218d99c7f7f871268c7c399e86",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "2020 年，苹果的 AI 还有创新吗？",
+        "link": "https://www.ershicimi.com/p/64b763448240f4a4b99b45878582366b",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "一些关于架构师的误解 | 极客大学",
+        "link": "https://www.ershicimi.com/p/c9b5d198be21aa1c69f91591001b431c",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "腾讯收购搜狗背后，互联网圈开始内卷？",
+        "link": "https://www.ershicimi.com/p/b9495f682115f0d7e13bc6e41b787627",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "云计算时代下，如何运用Serverless让业务逆袭？| Q推荐",
+        "link": "https://www.ershicimi.com/p/518a2bd0926db9a714d7eb220500e7aa",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "Serverless 实战：通过 Component 实现多地域部署容灾",
+        "link": "https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab",
+        "date": "2020-07-31"
+      },
+      {
         "title": "下笔如有神：这是一个基于营销行业的 AI 技术实践 | Q推荐",
         "link": "https://www.ershicimi.com/p/cf4b97679260c2541be9cfe82859195f",
         "date": "2020-07-31"
@@ -15085,46 +15125,6 @@
         "title": "微软、华为海思、小米等全球50家知名企业内部源代码批量外泄，现已可公开访问",
         "link": "https://www.ershicimi.com/p/5d0a84933c87e288061df5db85cfdca4",
         "date": "2020-07-28"
-      },
-      {
-        "title": "大厂干了16年决定辞职创业：我曾经错过两波技术创业的可能，这次一定要赶上",
-        "link": "https://www.ershicimi.com/p/c6d4f7c2dba0c9f7d0560300b76dd9b2",
-        "date": "2020-07-28"
-      },
-      {
-        "title": "低门槛构建云端生态：华为云为企业铺就生产力提升捷径 | Q推荐",
-        "link": "https://www.ershicimi.com/p/1936bc159c08d0466bf5c74437fe0638",
-        "date": "2020-07-28"
-      },
-      {
-        "title": "iOS工程师的自我修养 | 极客时间",
-        "link": "https://www.ershicimi.com/p/6fb6553312266ccf00a03463bb36686d",
-        "date": "2020-07-28"
-      },
-      {
-        "title": "你的博客用不着什么JavaScript框架",
-        "link": "https://www.ershicimi.com/p/3d9d8506999bf43e72e2810d961fa892",
-        "date": "2020-07-28"
-      },
-      {
-        "title": "QCon 之后，QCon+ 案例研习社来了",
-        "link": "https://www.ershicimi.com/p/ce0733765cc3f62283e61d1c7d61e063",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "我们为什么放弃 MongoDB 和 MySQL，选择 TiDB",
-        "link": "https://www.ershicimi.com/p/5a657f7c4d1f74bba5c97fcf27a30298",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台 | Q推荐",
-        "link": "https://www.ershicimi.com/p/5c7c6a64dfd6eba939235716545ca70b",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "祖传代码迁移到 Vue 的另一种解题思路",
-        "link": "https://www.ershicimi.com/p/6142aa0a89af1acd3a7f654ddb457a2d",
-        "date": "2020-07-27"
       }
     ]
   },
@@ -15574,6 +15574,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "找呀找呀找朋友，找到一个好朋友～ 寻对网络安全、CTF 感兴趣的小伙伴",
+        "link": "https://www.v2ex.com/t/694785",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "怎么高效地把几十万 mysql 数据一次性存入 redis？",
+        "link": "https://www.v2ex.com/t/694784",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "如何避免 app 被应用商城更新",
+        "link": "https://www.v2ex.com/t/694783",
+        "date": "2020-08-01"
+      },
+      {
         "title": "flask jinja2 html 里面如何 from import",
         "link": "https://www.v2ex.com/t/694782",
         "date": "2020-08-01"
@@ -15757,21 +15772,6 @@
         "title": "有狗东的同学不，你家无货订购挂掉了，取消订单显示“系统异常”",
         "link": "https://www.v2ex.com/t/694736",
         "date": "2020-07-31"
-      },
-      {
-        "title": "有没有什么软件可以直接将图片里的简体字转换成为繁体字？",
-        "link": "https://www.v2ex.com/t/694735",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "理发时间轴",
-        "link": "https://www.v2ex.com/t/694734",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "为什么中国的网站、APP、软件总是喜欢用各种套路，诱导性的文字？",
-        "link": "https://www.v2ex.com/t/694733",
-        "date": "2020-07-31"
       }
     ]
   },
@@ -15923,13 +15923,13 @@
         "date": "2020-08-01"
       },
       {
-        "title": "你不知道的 WebSocket",
-        "link": "https://toutiao.io/k/fdz4qnl",
+        "title": "恕我直言，我也是才知道 ElasticSearch 条件更新是这么玩的",
+        "link": "https://toutiao.io/k/2txnmek",
         "date": "2020-08-01"
       },
       {
-        "title": "恕我直言，我也是才知道 ElasticSearch 条件更新是这么玩的",
-        "link": "https://toutiao.io/k/2txnmek",
+        "title": "你不知道的 WebSocket",
+        "link": "https://toutiao.io/k/fdz4qnl",
         "date": "2020-08-01"
       },
       {
@@ -15938,28 +15938,8 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-08-01"
       },
       {
@@ -15968,28 +15948,13 @@
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
-        "link": "https://toutiao.io/k/fw0x414",
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
+        "link": "https://toutiao.io/k/cco702x",
         "date": "2020-08-01"
       },
       {
@@ -16003,13 +15968,48 @@
         "date": "2020-08-01"
       },
       {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-01"
+      },
+      {
         "title": "[推荐] 常见的架构设计原则总结",
         "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-01"
       },
       {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
+        "link": "https://toutiao.io/k/fw0x414",
+        "date": "2020-08-01"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
         "date": "2020-08-01"
       }
     ]

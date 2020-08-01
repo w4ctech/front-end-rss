@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 00:06:47，:rocket: 更新条数: +3460， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 00:24:50，:rocket: 更新条数: +3461， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-07-31-辽宁新增8例本土确诊病例和4例无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfyPnwhdtlotc9CqijIJ200801&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-非洲观察丨非洲大陆自贸区建设有助于提振非洲经济](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia2esOMKsE2wz9JHEkX7g200801&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-为抗击新冠肺炎疫情-秘鲁政府将全国紧急状态延长至8月31日](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqmhIgMId5LHha8UG00am200801&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-非洲地区新冠肺炎确诊病例超91万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitPgW19SIhZSwwng04Ica200801&isfromapp=1) ![](assets/new.png)  
 - [2020-07-31-比利时疫情形势愈加严峻-入境比利时须填写“入境单”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir2JNYZnVHs0BReRU0Gl1200801&isfromapp=1) ![](assets/new.png)  
-- [2020-07-31-中国驻泰使馆提醒：泰国赴华航班乘客需凭新冠病毒核酸检测阴性证明登机](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivekn7xTB3jd83YSMmNoZ200731&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -570,6 +570,8 @@
 </summary>
 
 
+- [2020-07-31-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4) ![](assets/new.png)  
+- [2020-07-31-2020Web前端高薪攻略.pdf](https://www.ershicimi.com/p/3ec145e065b39a7e96183e085f6d80ad) ![](assets/new.png)  
 - [2020-07-30-13-个-你应该知道的-npm-快速开发技巧](https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328) ![](assets/new.png)  
 - [2020-07-28-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/0cd696d9ddd5c9ce61f916b1d5b5e4a6) ![](assets/new.png)  
 - [2020-07-27-一行-CSS-代码搞定响应式布局](https://www.ershicimi.com/p/d8d864aa387c420fa7d7726177163b0b) ![](assets/new.png)  
@@ -588,8 +590,6 @@
 - [2020-07-13-手写一个自己的-Vue.js-数据响应式框架，他只用了3天时间！](https://www.ershicimi.com/p/e1d96082a58d5e7ad1644b2aba183f46) ![](assets/new.png)  
 - [2020-07-11-推介一位前端实力博主朋友：SHERlocked93](https://www.ershicimi.com/p/47809ae3287644296d6faadff8dd4d43) ![](assets/new.png)  
 - [2020-07-10-一个优秀的Vue团队代码规范是什么样子的？](https://www.ershicimi.com/p/41d265725a06b65582815bd8aade4cfd) ![](assets/new.png)  
-- [2020-07-09-如果张东升是个程序员](https://www.ershicimi.com/p/57734eca0e217ff285a091a4889398c3) ![](assets/new.png)  
-- [2020-07-08-不想加班？H5常见问题及解决方案手册](https://www.ershicimi.com/p/f30016501f9abd6ce7e57a8df03c5b48) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端宇宙.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-01-有没有-v-友听说过埃洛克航空，这家公司怎么样？](https://www.v2ex.com/t/694767) ![](assets/new.png)  
+- [2020-08-01-求推荐一个适合小手的无线鼠标最好蓝牙的](https://www.v2ex.com/t/694766) ![](assets/new.png)  
 - [2020-07-31-8-月招行所有抽奖活动汇总](https://www.v2ex.com/t/694764) ![](assets/new.png)  
 - [2020-07-31-赞一个-coloros-的优化小细节](https://www.v2ex.com/t/694763) ![](assets/new.png)  
 - [2020-07-31-站立办公脚跟相对比较快就会变得比较难受，有啥推荐的办法或者拖鞋吗？](https://www.v2ex.com/t/694762) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-07-31-AWS-亚马逊服务器搭建好-CDH-环境，分分钟被封（纯开发，无梯）](https://www.v2ex.com/t/694748) ![](assets/new.png)  
 - [2020-07-31-挂名软件“北斗导航”到-appstore-榜第一了？](https://www.v2ex.com/t/694746) ![](assets/new.png)  
 - [2020-07-31-电信宽带移机后一年内不能注销，否则交违约金](https://www.v2ex.com/t/694745) ![](assets/new.png)  
-- [2020-07-31-有什么办法将-PDF-里的报表抓取出来,整理成-excel-的](https://www.v2ex.com/t/694744) ![](assets/new.png)  
-- [2020-07-31-内推-EA-上海，后端-Java-，-1065，年假-20+](https://www.v2ex.com/t/694741) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,19 +1141,19 @@
 - [2020-08-01-IntelliJ-IDEA-2020.2-正式发布，诸多亮点总有几款能助你提效](https://toutiao.io/k/cdm67cm) ![](assets/new.png)  
 - [2020-08-01-Python-为什么要有-pass-语句？](https://toutiao.io/k/d9mhgho) ![](assets/new.png)  
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
-- [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) ![](assets/new.png)  
+- [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
 - [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
-- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
 - [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
+- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-08-01-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-01-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

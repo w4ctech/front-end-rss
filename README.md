@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 04:48:26，:rocket: 更新条数: +3251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 05:02:24，:rocket: 更新条数: +3251， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1124,16 +1124,16 @@
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
 - [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
-- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
 - [2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
-- [2020-08-01-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
 - [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
-- [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-01-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
+- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
 - [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

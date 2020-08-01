@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-01 08:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 09:02:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-如何看越来越疯狂的杀猪盘现象?](https://www.v2ex.com/t/694843) 
+- [2020-08-01-接外包的一些坑和小技巧](https://www.v2ex.com/t/694842) 
 - [2020-08-01-自动化/AI-发展到一定程度会不会遇到这样的矛盾？](https://www.v2ex.com/t/694840) 
 - [2020-08-01-Git-提交如何细分粒度以及提交信息怎么写比较规范？](https://www.v2ex.com/t/694838) 
 - [2020-08-01-okhttp-用-Java-.net.Proxy.Type.HTTP-还是-Java-.net.Proxy.Type.SOCKS，哪个快？](https://www.v2ex.com/t/694837) 
@@ -38,5 +40,3 @@
 - [2020-08-01-一个国家的总统把自己的名字在互联网上设置为违禁字符是一种什么样的心态？](https://www.v2ex.com/t/694799) 
 - [2020-08-01-各位的-TestFlight-还好吗？](https://www.v2ex.com/t/694798) 
 - [2020-08-01-中国平安的垃圾短信太狡猾了，屏蔽不掉](https://www.v2ex.com/t/694795) 
-- [2020-08-01-光纤线如何进入用户家里？](https://www.v2ex.com/t/694794) 
-- [2020-08-01-都-2020-年了,windows-下调教-emacs-的正确姿势?](https://www.v2ex.com/t/694792) 

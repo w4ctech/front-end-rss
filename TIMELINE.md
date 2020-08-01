@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 05:32:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-01 05:46:40。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,21 +150,21 @@
 - [【开发者头条】2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) 
 - [【开发者头条】2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) 
 - [【开发者头条】2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) 
-- [【开发者头条】2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
-- [【开发者头条】2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
-- [【开发者头条】2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) 
-- [【开发者头条】2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
-- [【开发者头条】2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
-- [【开发者头条】2020-08-01-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
 - [【开发者头条】2020-08-01-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
-- [【开发者头条】2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
-- [【开发者头条】2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
-- [【开发者头条】2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
+- [【开发者头条】2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
 - [【开发者头条】2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) 
-- [【开发者头条】2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) 
-- [【开发者头条】2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) 
+- [【开发者头条】2020-08-01-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
+- [【开发者头条】2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [【开发者头条】2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
+- [【开发者头条】2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
 - [【开发者头条】2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
-- [【开发者头条】2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) 
+- [【开发者头条】2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
+- [【开发者头条】2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) 
+- [【开发者头条】2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) 
+- [【开发者头条】2020-08-01-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [【开发者头条】2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) 
+- [【开发者头条】2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
+- [【开发者头条】2020-08-01-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -700,7 +700,6 @@
 - [【知乎日报】2020-07-22-知乎好问题：为什么人类没有发展出攻击性的器官？](https://www.ershicimi.com/p/0f5a06f3fea101ac3fbba86906cf196e) 
 - [【V2EX】2020-07-31-8-月招行所有抽奖活动汇总](https://www.v2ex.com/t/694764) 
 - [【V2EX】2020-07-31-赞一个-coloros-的优化小细节](https://www.v2ex.com/t/694763) 
-- [【V2EX】2020-07-31-站立办公脚跟相对比较快就会变得比较难受，有啥推荐的办法或者拖鞋吗？](https://www.v2ex.com/t/694762) 
 - [【安全热点】2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) 
 - [【安全热点】2020-07-31-共建未成年人“清朗”网络空间倡议书](https://sec.thief.one/article_content?a_id=62b65f2cbf1d598421418d1553dcc60c) 
 - [【安全热点】2020-07-31-美国防部和航天部门遭受朝鲜黑客新一轮网络攻击](https://sec.thief.one/article_content?a_id=d6b7b8843d2a855d39fb1491fb9e19d9) 

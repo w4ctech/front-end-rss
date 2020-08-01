@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 02:33:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 02:46:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -36,6 +36,8 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-01-TimeMachine-还原后-chrome-历史记录没有了？](https://www.v2ex.com/t/694789) 
+- [2020-08-01-快-2021-了,-现在互联网项目首选数据库是选-MySQL-还是-PostgreSQL?](https://www.v2ex.com/t/694787) 
 - [2020-08-01-找呀找呀找朋友，找到一个好朋友～-寻对网络安全、CTF-感兴趣的小伙伴](https://www.v2ex.com/t/694785) 
 - [2020-07-31-V2EX-Preview-不会代码-highlight-对吗？](https://www.v2ex.com/t/694760) 
 - [2020-08-01-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 

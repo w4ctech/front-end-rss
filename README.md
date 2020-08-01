@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 02:33:16，:rocket: 更新条数: +3249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 02:46:21，:rocket: 更新条数: +3253， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -854,6 +854,9 @@
 </summary>
 
 
+- [2020-08-01-从-Java-9-开始，Java-就华丽的转身为微服务了…](https://www.ershicimi.com/p/979b608635abe0ae7d48c409fc4406bd) ![](assets/new.png)  
+- [2020-08-01-同事1000行"又臭又长"-的类！被我用IDEA几分钟重构！真香！](https://www.ershicimi.com/p/08b2089511adfdb9d47a2b759305c51f) ![](assets/new.png)  
+- [2020-08-01-Spring-Boot-项目如何做性能监控？](https://www.ershicimi.com/p/e4f5be331fa439d9662102d1ccee4826) ![](assets/new.png)  
 - [2020-07-31-支付宝架构到底有多牛逼？看完这篇你就明白了！](https://www.ershicimi.com/p/972f2e9ab73716bfc76ec6cd010dcefa) ![](assets/new.png)  
 - [2020-07-31-重磅！2020中国高校毕业生月薪排名：清华第1，24高校过万，你呢？](https://www.ershicimi.com/p/d8200b20f7900d609e7b42b2695bd1a2) ![](assets/new.png)  
 - [2020-07-31-同事线上埋的这个坑，我整整找了3天3夜](https://www.ershicimi.com/p/58246a1db0e01980f9966592bc6be97d) ![](assets/new.png)  
@@ -871,9 +874,6 @@
 - [2020-07-27-完美，竟然用一个脚本就把系统升级到https了，且永久免费！](https://www.ershicimi.com/p/7de541eefca844a5ffa43013bea592c0) ![](assets/new.png)  
 - [2020-07-26-对-Java-意义重大的-7-个性能指标](https://www.ershicimi.com/p/b2ab8dd48d9b4db0b61e8874cc14ef40) ![](assets/new.png)  
 - [2020-07-26-8-种单例模式写法，助你搞定面试！](https://www.ershicimi.com/p/0ecddc3c9c822b0c544d63ab606adb7e) ![](assets/new.png)  
-- [2020-07-26-SpringBoot-+-Mybatis-多模块（-module-）项目搭建教程](https://www.ershicimi.com/p/9a06b6459cb7c4e5964cd76c69e6e230) ![](assets/new.png)  
-- [2020-07-25-真赞！阿里开源的这款分布式事务框架,不愧为民族之光](https://www.ershicimi.com/p/0a923db2357d210f06799bbe5bd0a5f8) ![](assets/new.png)  
-- [2020-07-25-如果再写for循环，我就锤自己！](https://www.ershicimi.com/p/07f35bc6598bb1b24f99d846d0341ac0) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,13 @@
 </summary>
 
 
+- [2020-08-01-污水排入自来水](https://www.v2ex.com/t/694793) ![](assets/new.png)  
+- [2020-08-01-都-2020-年了,windows-下调教-emacs-的正确姿势?](https://www.v2ex.com/t/694792) ![](assets/new.png)  
+- [2020-08-01-有什么方法可以小米-8-的耗电严重，卡顿严重](https://www.v2ex.com/t/694791) ![](assets/new.png)  
+- [2020-08-01-向大家推荐一个在床上用笔记本的方法，仅限小尺寸轻薄本](https://www.v2ex.com/t/694790) ![](assets/new.png)  
+- [2020-08-01-TimeMachine-还原后-chrome-历史记录没有了？](https://www.v2ex.com/t/694789) ![](assets/new.png)  
+- [2020-08-01-异地医保报销求教：异地医保怎么操作呢？有什么注意事项吗？](https://www.v2ex.com/t/694788) ![](assets/new.png)  
+- [2020-08-01-快-2021-了,-现在互联网项目首选数据库是选-MySQL-还是-PostgreSQL?](https://www.v2ex.com/t/694787) ![](assets/new.png)  
 - [2020-08-01-找呀找呀找朋友，找到一个好朋友～-寻对网络安全、CTF-感兴趣的小伙伴](https://www.v2ex.com/t/694785) ![](assets/new.png)  
 - [2020-08-01-怎么高效地把几十万-mysql-数据一次性存入-redis？](https://www.v2ex.com/t/694784) ![](assets/new.png)  
 - [2020-08-01-如何避免-app-被应用商城更新](https://www.v2ex.com/t/694783) ![](assets/new.png)  
@@ -1065,13 +1072,6 @@
 - [2020-08-01-iPhone-12-推迟发售了](https://www.v2ex.com/t/694773) ![](assets/new.png)  
 - [2020-08-01-各位吴彦祖，刘德华，想问个关于网页-app-下载的问题](https://www.v2ex.com/t/694772) ![](assets/new.png)  
 - [2020-08-01-发现新世界-QA-Stack-是个什么神仙网站？完全找不到相关背景，好像是纯公益的知识类网站](https://www.v2ex.com/t/694771) ![](assets/new.png)  
-- [2020-08-01-2020-时间点，笔记本求推荐](https://www.v2ex.com/t/694770) ![](assets/new.png)  
-- [2020-08-01-要开始按照-bug-数量来算绩效咯](https://www.v2ex.com/t/694769) ![](assets/new.png)  
-- [2020-08-01-如何评价-PHP-开源论坛-xiunobbs-宣布关闭](https://www.v2ex.com/t/694768) ![](assets/new.png)  
-- [2020-08-01-有没有-v-友听说过埃洛克航空，这家公司怎么样？](https://www.v2ex.com/t/694767) ![](assets/new.png)  
-- [2020-08-01-求推荐一个适合小手的无线鼠标最好蓝牙的](https://www.v2ex.com/t/694766) ![](assets/new.png)  
-- [2020-07-31-8-月招行所有抽奖活动汇总](https://www.v2ex.com/t/694764) ![](assets/new.png)  
-- [2020-07-31-赞一个-coloros-的优化小细节](https://www.v2ex.com/t/694763) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,23 +1117,23 @@
 - [2020-08-01-如何有效提升快应用-Webpack-编译速度](https://toutiao.io/k/qd8mlg1) ![](assets/new.png)  
 - [2020-08-01-IntelliJ-IDEA-2020.2-正式发布，诸多亮点总有几款能助你提效](https://toutiao.io/k/cdm67cm) ![](assets/new.png)  
 - [2020-08-01-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-01-什么是-APM？](https://toutiao.io/k/hmu1fjo) ![](assets/new.png)  
 - [2020-08-01-译-Kubernetes-Egress-网络策略指南](https://toutiao.io/k/1yiomog) ![](assets/new.png)  
+- [2020-08-01-什么是-APM？](https://toutiao.io/k/hmu1fjo) ![](assets/new.png)  
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
 - [2020-08-01-Python-为什么要有-pass-语句？](https://toutiao.io/k/d9mhgho) ![](assets/new.png)  
-- [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) ![](assets/new.png)  
+- [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
 - [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
-- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
-- [2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
 - [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-01-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-01-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
+- [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

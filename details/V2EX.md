@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-01 14:18:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 14:31:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-老了，-Windows-如何设置成英语都搞不定了。一部分英语，一部分中文，也是醉了](https://www.v2ex.com/t/694909) 
 - [2020-08-01-腾讯-IMWeb-团队招聘-web-前端开发工程师，-base-深圳-/武汉（15-30k）！!](https://www.v2ex.com/t/694908) 
 - [2020-08-01-21-届求内推](https://www.v2ex.com/t/694906) 
 - [2020-08-01-Python-socket+asyncore-会出现连接重置问题](https://www.v2ex.com/t/694905) 
@@ -37,4 +38,3 @@
 - [2020-08-01-用什么软件远程控制电脑](https://www.v2ex.com/t/694864) 
 - [2020-08-01-HP-台式机-求股价](https://www.v2ex.com/t/694863) 
 - [2020-08-01-社招-字节跳动-垂直业务-懂车帝招聘后端开发工程师-Base-北京](https://www.v2ex.com/t/694862) 
-- [2020-08-01-更新-goland-2020.2-后发现-Debug-或-Run-老进程无法关闭,-不知道有人遇到没](https://www.v2ex.com/t/694859) 

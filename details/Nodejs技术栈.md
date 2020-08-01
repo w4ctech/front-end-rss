@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-01 04:09:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 04:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Nodejs技术栈
 
 
 
 
+- [2020-08-01-赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553) 
 - [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) 
 - [2020-07-29-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab) 
 - [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
@@ -24,4 +25,3 @@
 - [2020-07-04-赠送几本-Node.js-书籍-|-回馈粉丝](https://www.ershicimi.com/p/f76e6e02f47b45a7c3fe09fb99b979b8) 
 - [2020-07-03-彻底搞通Vue3.0核心源码](https://www.ershicimi.com/p/97988bc14ae5c4b00d42a881d498e369) 
 - [2020-07-02-阿里-Midway-正式发布-Serverless-v1.0，研发提效-50%](https://www.ershicimi.com/p/e68855c738f451e7064e7560147c3826) 
-- [2020-06-30-Node.js-在企业中的应用实践集锦---2020-年中汇总](https://www.ershicimi.com/p/207e14bb5be4736a1a442685253aa60a) 

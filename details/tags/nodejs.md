@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 04:09:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 04:18:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -17,6 +17,7 @@
 - [2020-07-28-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/0d83694aff73a09ba4533abdc5180c56) 
 - [2020-07-26-你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/2bc6b1174a30235ad49347ec4d653848) 
 - [2020-07-23-一杯茶的时间，上手-Koa2-+-MySQL-开发实战好文](https://www.ershicimi.com/p/82981bf2fe8510c5dff13f7732691fb7) 
+- [2020-08-01-赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553) 
 - [2020-07-29-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/b1c05458bdcb1ec021f90bcf873addab) 
 - [2020-07-20-Node.js-+-Socket.io-实现一对一即时聊天](https://www.ershicimi.com/p/746bef7a3728af1b081cca4b03f3270d) 
 - [2020-07-13-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/545385e822dd38cecbca967cbf5207fe) 
@@ -24,5 +25,12 @@
 - [2020-07-08-实战-|-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/85eb988956d577d60ed7515db04817de) 
 - [2020-07-05-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://www.ershicimi.com/p/52fabff4ddd28e8de774076284ae1373) 
 - [2020-07-04-赠送几本-Node.js-书籍-|-回馈粉丝](https://www.ershicimi.com/p/f76e6e02f47b45a7c3fe09fb99b979b8) 
-- [2020-06-30-Node.js-在企业中的应用实践集锦---2020-年中汇总](https://www.ershicimi.com/p/207e14bb5be4736a1a442685253aa60a) 
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
+- [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
+- [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
+- [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 
+- [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
+- [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
+- [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
+- [2020-08-01-快-2021-年,-node.js-选用哪个-web-框架,-个人轻度使用,-写几个-api-什么的.](https://www.v2ex.com/t/694801) 

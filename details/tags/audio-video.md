@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 10:48:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 11:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -93,6 +93,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
 - [2020-08-01-AirPods-Pro-空间音频现在有了吗？](https://www.v2ex.com/t/694836) 
+- [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) 
 - [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) 
 - [2020-07-31-【视频】|-多因素身份验证MFA介绍](https://sec.thief.one/article_content?a_id=a3556138b0b2f8085b42d5d16d2729a0) 
 - [2020-07-30-【视频】|-公安部:这五类电信诈骗案件高发](https://sec.thief.one/article_content?a_id=3c8d49f28299c1af23f72f46de505dbd) 

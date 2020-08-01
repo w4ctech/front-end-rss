@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-01 10:48:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-01 11:02:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -40,7 +40,6 @@
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
 - [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) 
 - [2020-07-17-奇舞周刊第-356-期：Web-前端安全自查和加固](https://www.ershicimi.com/p/3e5eb015d480e5669db45e33290d8ba0) 
-- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
@@ -48,6 +47,9 @@
 - [2020-08-01-前端开发的老哥们都喜欢把-Prettier-的-printWidth-单行代码的最大宽度-设置为多少？](https://www.v2ex.com/t/694828) 
 - [2020-08-01-谷歌-Chrome-浏览器终于让你可以对标签进行整理和分组了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13637&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCqTCMCitY9OmNGX9wdYHog%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) 
+- [2020-08-01-《信息安全技术-网络安全等级保护安全设计技术要求》全文](https://sec.thief.one/article_content?a_id=9c2ccf817cc9c0e9446eb477f5edea14) 
+- [2020-07-31-安全研究实验室巡礼——澳大利亚昆士兰大学马思奇研究组](https://sec.thief.one/article_content?a_id=23ba8af00f2fb9d25efab8c629a6f043) 
+- [2020-07-31-【安全圈】颜强:因凡蒂诺被调查,源头来自黑客网站足球解密](https://sec.thief.one/article_content?a_id=7bf552f5694e2d55aba2441a586b6460) 
 - [2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) 
 - [2020-07-31-网络安全等级保护工作流程](https://sec.thief.one/article_content?a_id=1a60cb9a9cd890b0c2bdf66343f3f509) 
 - [2020-07-31-绿盟科技亮相2020年金融数据安全在线论坛,共论数据安全防护策略](https://sec.thief.one/article_content?a_id=e2f715550902173ae7bf83f5424c973e) 
@@ -65,8 +67,3 @@
 - [2020-07-30-悬镜安全李浩:浅谈IAST如何赋能企业开发安全](https://sec.thief.one/article_content?a_id=a5d20d8b12f1cfbb07f9c631f5e6c921) 
 - [2020-07-30-2020各地大数据开放及应用条例陆续出台,网络安全要求成标配](https://sec.thief.one/article_content?a_id=6a17342c5e35432b49159e76a4b6a30b) 
 - [2020-07-30-“嘶吼”成为2020北京网络安全大会官方合作伙伴](https://sec.thief.one/article_content?a_id=64e1dbcf4efcec4891bef4aea233e66d) 
-- [2020-07-29-【安全圈】Facebook-成功阻止欧盟反垄断数据要求:伤及用户隐私](https://sec.thief.one/article_content?a_id=8207ffea9b7c9574aff533d627017014) 
-- [2020-07-29-【安全风险通告】WebSphere远程代码执行漏洞安全风险通告](https://sec.thief.one/article_content?a_id=94bbc7649ca317f920d6898a124d1fc0) 
-- [2020-07-29-大咖说安全|刘哲理:全密文计算时代即将到来](https://sec.thief.one/article_content?a_id=4b833fb6d9623c24abec3e1103c94b86) 
-- [2020-07-29-防止APP窃取用户隐私问题,OPPO安全在行动](https://sec.thief.one/article_content?a_id=4f78dfe8967482dd01705a3f2d9e3361) 
-- [2020-07-29-国舜股份再签某大型综合保险集团,赋能网络安全等级保护建设](https://sec.thief.one/article_content?a_id=550103781f4ac44a23c03441f32ce5d0) 

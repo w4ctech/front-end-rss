@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-01 10:48:06，:rocket: 更新条数: +3460， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-01 11:02:49，:rocket: 更新条数: +3440， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -41,7 +41,7 @@
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)  
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-01-乌鲁木齐：疫情期间受影响各类业务均可顺延办理](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7sv1MgJ34nswwtsuLg5r200801&isfromapp=1) ![](assets/new.png)  
 - [2020-08-01-波兰新增658例新冠肺炎确诊病例-为单日增幅新高](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9B6KAXQ5TZd0vjfOI8uD200801&isfromapp=1) ![](assets/new.png)  
 - [2020-08-01-非洲地区新冠肺炎确诊病例超92万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidkvarzlMHAXuKGF9idii200801&isfromapp=1) ![](assets/new.png)  
 - [2020-08-01-港版“方舱医院”启用-预计今明可分别接收30名患者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKBVhRfLJhN65691EvwNA200801&isfromapp=1) ![](assets/new.png)  
 - [2020-08-01-乌兹别克斯坦议会参议院副主席因患新冠肺炎去世](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipl5tUMOJ8CH98OShX2MS200801&isfromapp=1) ![](assets/new.png)  
-- [2020-08-01-大连紧急改建55间负压病房，427名病人有序转移至7家医疗机构](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieGJJOmw6Y5HCObQUFssj200801&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -812,26 +812,6 @@
 </summary>
 
 
-- [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) ![](assets/new.png)  
-- [2020-07-16-程序员给自己简历中埋的5个雷点](https://www.ershicimi.com/p/f94c5e36a24615de1cc7f5ad37edac05) ![](assets/new.png)  
-- [2020-07-13-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/d4461ae1d17f7dc46e2028920b7b2b6f) ![](assets/new.png)  
-- [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) ![](assets/new.png)  
-- [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) ![](assets/new.png)  
-- [2020-07-06-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/bdcb031876cb4a1ccf3e34e88ceb7dec) ![](assets/new.png)  
-- [2020-07-03-真的！！！两行css代码实现瀑布流，html,css最简单的瀑布流实现方式且没有缺点！](https://www.ershicimi.com/p/cd371b537f54318e95d7b5842c195697) ![](assets/new.png)  
-- [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) ![](assets/new.png)  
-- [2020-06-29-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/d43337bede38d0646400dc74efdb4162) ![](assets/new.png)  
-- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) ![](assets/new.png)  
-- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) ![](assets/new.png)  
-- [2020-06-22-前端真的有资深工程师吗？](https://www.ershicimi.com/p/f4af0fa1f56cc187e12aefbbafa1a985) ![](assets/new.png)  
-- [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) ![](assets/new.png)  
-- [2020-06-17-2020-年-6-月编程语言排行榜](https://www.ershicimi.com/p/42775fc7b1c5439867bc85a64f9adc64) ![](assets/new.png)  
-- [2020-06-16-前端如何在项目中做出亮点](https://www.ershicimi.com/p/17261c12bb3da318d00a6ec7eeea1740) ![](assets/new.png)  
-- [2020-06-15-前端开发，除了转骑手还有其他出路吗？](https://www.ershicimi.com/p/784e06528547c680b49d27111dfe43f6) ![](assets/new.png)  
-- [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8) ![](assets/new.png)  
-- [2020-06-10-Vue3中-router-带来了哪些变化？](https://www.ershicimi.com/p/aebf19567f4905c6d6c060eed20bc66e) ![](assets/new.png)  
-- [2020-06-08-前端真的有资深工程师吗？](https://www.ershicimi.com/p/68b6db5155cd6d30da4bbfe2f140d4b7) ![](assets/new.png)  
-- [2020-06-05-网传：程序员35岁以后都去送外卖了？](https://www.ershicimi.com/p/9fc9f8c4cb45d41f7cf19463b7f6ae8d) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-01-你们的-pycharm-最近卡吗](https://www.v2ex.com/t/694873) ![](assets/new.png)  
+- [2020-08-01-ios-轻触唤醒为什么不做成双击](https://www.v2ex.com/t/694872) ![](assets/new.png)  
+- [2020-08-01-感觉学习编程要学的语言有点多啊](https://www.v2ex.com/t/694871) ![](assets/new.png)  
 - [2020-08-01-白嫖腾讯会员年卡](https://www.v2ex.com/t/694869) ![](assets/new.png)  
 - [2020-08-01-Java-中-byte-为什么不能自动转换成-char-啊？](https://www.v2ex.com/t/694868) ![](assets/new.png)  
 - [2020-08-01-强行-5G-?联通要是没有故意劣化-4G-体验我是不太信的](https://www.v2ex.com/t/694865) ![](assets/new.png)  
@@ -1089,9 +1072,6 @@
 - [2020-08-01-据说-swoole-性能特别好，大家怎么看？](https://www.v2ex.com/t/694848) ![](assets/new.png)  
 - [2020-08-01-V-友们,我这是腱鞘炎吗?](https://www.v2ex.com/t/694847) ![](assets/new.png)  
 - [2020-08-01-B-站的审核越来越诡异了。。。不爽。](https://www.v2ex.com/t/694846) ![](assets/new.png)  
-- [2020-08-01-如何看越来越疯狂的杀猪盘现象?](https://www.v2ex.com/t/694843) ![](assets/new.png)  
-- [2020-08-01-接外包的一些坑和小技巧](https://www.v2ex.com/t/694842) ![](assets/new.png)  
-- [2020-08-01-自动化/AI-发展到一定程度会不会遇到这样的矛盾？](https://www.v2ex.com/t/694840) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1141,19 +1121,19 @@
 - [2020-08-01-什么是-APM？](https://toutiao.io/k/hmu1fjo) ![](assets/new.png)  
 - [2020-08-01-你不知道的-WebSocket](https://toutiao.io/k/fdz4qnl) ![](assets/new.png)  
 - [2020-08-01-Python-为什么要有-pass-语句？](https://toutiao.io/k/d9mhgho) ![](assets/new.png)  
-- [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
 - [2020-08-01-好用的-PHP-高性能多并发-RESTFul-的-HTTP-Client](https://toutiao.io/k/1euy4hd) ![](assets/new.png)  
+- [2020-08-01-通过构建商品静态分优化排序效果](https://toutiao.io/k/08uq8nx) ![](assets/new.png)  
 - [2020-08-01-恕我直言，我也是才知道-ElasticSearch-条件更新是这么玩的](https://toutiao.io/k/2txnmek) ![](assets/new.png)  
-- [2020-08-01-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-01-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
+- [2020-08-01-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [2020-08-01-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
 - [2020-08-01-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-01-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-01-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [2020-08-01-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-01-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-01-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-01-推荐-打造-Mac-OS-最强终端利器-iTerm2](https://toutiao.io/k/knhm23r) ![](assets/new.png)  
+- [2020-08-01-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-01-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-08-01-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-01-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1165,26 +1145,26 @@
 </summary>
 
 
-- [2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) ![](assets/new.png)  
-- [2020-07-31-共建未成年人“清朗”网络空间倡议书](https://sec.thief.one/article_content?a_id=62b65f2cbf1d598421418d1553dcc60c) ![](assets/new.png)  
-- [2020-07-31-美国防部和航天部门遭受朝鲜黑客新一轮网络攻击](https://sec.thief.one/article_content?a_id=d6b7b8843d2a855d39fb1491fb9e19d9) ![](assets/new.png)  
-- [2020-07-31-一款联合fofa与xray的自动化批量扫描工具](https://sec.thief.one/article_content?a_id=ee1c50a02037af1b4db07193383b51e0) ![](assets/new.png)  
-- [2020-07-31-每日攻防资讯简报Jul.31th](https://sec.thief.one/article_content?a_id=7b4716e6511cd30fdb2ce508516704d9) ![](assets/new.png)  
-- [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) ![](assets/new.png)  
-- [2020-07-31-阿里p7员工都在学:实战python技巧泄露,手慢则无!禁止外传](https://sec.thief.one/article_content?a_id=eb5520bf4bd60b1c521aeaca61382cfc) ![](assets/new.png)  
-- [2020-07-31-冰蝎,从入门到魔改](https://sec.thief.one/article_content?a_id=c86bdb99062387c8cc9201657fdc63d6) ![](assets/new.png)  
-- [2020-07-31-习近平:统一思想坚定信心鼓足干劲抓紧工作-奋力推进国防和军队现代...](https://sec.thief.one/article_content?a_id=b6c2c7d9d52893b001986fdbcaacfa6d) ![](assets/new.png)  
-- [2020-07-31-网络安全等级保护工作流程](https://sec.thief.one/article_content?a_id=1a60cb9a9cd890b0c2bdf66343f3f509) ![](assets/new.png)  
-- [2020-07-31-＂传销币＂PlusToken跨国案告破超百人被捕涉及金额400亿](https://sec.thief.one/article_content?a_id=f628045e946ec581bd0f255a4dbf8ba8) ![](assets/new.png)  
-- [2020-07-31-GRUB2本地代码执行漏洞通告CVE-2020-10713](https://sec.thief.one/article_content?a_id=01722961667219ebac245ec00679401e) ![](assets/new.png)  
-- [2020-07-31-绿盟科技亮相2020年金融数据安全在线论坛,共论数据安全防护策略](https://sec.thief.one/article_content?a_id=e2f715550902173ae7bf83f5424c973e) ![](assets/new.png)  
-- [2020-07-31-“隐私窃贼“难防?手把手教你如何使用OPPO手机深度管理APP](https://sec.thief.one/article_content?a_id=9ce9f7237f678f467f634720a994b9f9) ![](assets/new.png)  
-- [2020-07-31-网络安全信息与动态周报2020年第30期](https://sec.thief.one/article_content?a_id=9975b11ed9925aa459e1987625b849f0) ![](assets/new.png)  
-- [2020-07-31-CSO领航企业安全,网安业者如何火力全开?](https://sec.thief.one/article_content?a_id=c2b16b7f2c5f0192609388fe3d6d11fc) ![](assets/new.png)  
-- [2020-07-31-【视频】|-多因素身份验证MFA介绍](https://sec.thief.one/article_content?a_id=a3556138b0b2f8085b42d5d16d2729a0) ![](assets/new.png)  
-- [2020-07-31-工具|免费手机取证查询帮助软件-RX-helper-V1.0正式发布](https://sec.thief.one/article_content?a_id=b575f8c77700815a205a5ef92f0d6e1a) ![](assets/new.png)  
-- [2020-07-31-一书难求!带你领略攻防之道](https://sec.thief.one/article_content?a_id=9d8092c14247c77c6270e1b2b02e3431) ![](assets/new.png)  
-- [2020-07-31-专家精品|密码朋克的社会实验三:比特币发明了什么](https://sec.thief.one/article_content?a_id=791edab45051f351c9771465c0d11d65) ![](assets/new.png)  
+- [2020-08-01-BUF大事件丨数十家公司源代码泄露;佳明遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=565bba638c111d392eeb7ba035acc7de) ![](assets/new.png)  
+- [2020-08-01-主流币持续上攻,比特币暴涨在即?](https://sec.thief.one/article_content?a_id=64290c1d36b8dc60ed3fded8df63ffb8) ![](assets/new.png)  
+- [2020-08-01-《信息安全技术-网络安全等级保护安全设计技术要求》全文](https://sec.thief.one/article_content?a_id=9c2ccf817cc9c0e9446eb477f5edea14) ![](assets/new.png)  
+- [2020-08-01-澳大利亚监管机构针对名人代言的虚假加密广告发布警告](https://sec.thief.one/article_content?a_id=46acbf12bf5115c42cd3792b4582860f) ![](assets/new.png)  
+- [2020-08-01-浅析内网渗透代理](https://sec.thief.one/article_content?a_id=0e6e3620ed906aba1b12eb13b0924a1f) ![](assets/new.png)  
+- [2020-08-01-近源渗透测试之Keylogger实战](https://sec.thief.one/article_content?a_id=e28e65e22e7499b4c9a932b9dd6e0671) ![](assets/new.png)  
+- [2020-08-01-OpenSSH-命令注入漏洞通告CVE-2020-15778](https://sec.thief.one/article_content?a_id=59ae6e21e5116dc7b9e7d6c53e26c4c3) ![](assets/new.png)  
+- [2020-08-01-闪耀吧-中国人的北斗星辰](https://sec.thief.one/article_content?a_id=c0b325e2a2dbda5c4b8d58556dfe4538) ![](assets/new.png)  
+- [2020-08-01-以太坊五周年:从涅槃中苏醒](https://sec.thief.one/article_content?a_id=5f4a7b45e2b08fec5e4c40227d1547a5) ![](assets/new.png)  
+- [2020-08-01-BCTF-AutoPwn新赛程锁定8月7日!-即刻开放报名!](https://sec.thief.one/article_content?a_id=a5bbc7144701545f71398c36aae6367d) ![](assets/new.png)  
+- [2020-08-01-Tor被曝多个0-day漏洞,官方给出回应!](https://sec.thief.one/article_content?a_id=cc6b7471bfd4fed097dec94e72857e3c) ![](assets/new.png)  
+- [2020-08-01-大规模入侵推特账号事件主谋曝光:17岁美国少年](https://sec.thief.one/article_content?a_id=a3d676d32cb3dd823000256a4b607f13) ![](assets/new.png)  
+- [2020-08-01-牛聘|2020年度岗位招聘第8期](https://sec.thief.one/article_content?a_id=75bec7d1affcccb583d80da704151527) ![](assets/new.png)  
+- [2020-08-01-微软认为CCleaner是潜在危险软件](https://sec.thief.one/article_content?a_id=5f4d610b9cac64163820ad850de19e13) ![](assets/new.png)  
+- [2020-08-01-在看-|-一周网安回顾-2020.7.25~7.31](https://sec.thief.one/article_content?a_id=9641aa88e26127bba4c9a36c22a7559f) ![](assets/new.png)  
+- [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) ![](assets/new.png)  
+- [2020-08-01-推特史诗级劫持案“真凶”被捕:17岁佛州少年](https://sec.thief.one/article_content?a_id=8f7e484ab83d77e0c9b206b15773d61b) ![](assets/new.png)  
+- [2020-08-01-Think-Python.pdf](https://sec.thief.one/article_content?a_id=607a4b5aa1ee2e2e6c5a76be02134931) ![](assets/new.png)  
+- [2020-08-01-CVE-2018-14847-简单利用](https://sec.thief.one/article_content?a_id=7a12ba5a60f7482e7e825884b19797e9) ![](assets/new.png)  
+- [2020-08-01-用Python发一个高逼格的朋友圈](https://sec.thief.one/article_content?a_id=a4cd170fca6e5a02987d68b51e5f00bd) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

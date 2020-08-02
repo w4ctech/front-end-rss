@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 08:46:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 08:48:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -74,6 +74,9 @@
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-07-21-QuickJS-引擎一年见闻录](https://www.ershicimi.com/p/7bef03404bd3c5a6462812a06c08331a) 
+- [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
+- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
+- [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-07-31-Serverless-实战：通过-Component-实现多地域部署容灾](https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab) 
 - [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/125bc0c86c80b5245ccf351595af7255) 

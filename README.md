@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 16:18:31，:rocket: 更新条数: +3251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 16:31:51，:rocket: 更新条数: +3251， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-02-年轻人的第一张信用卡选啥好](https://www.v2ex.com/t/695118) ![](assets/new.png)  
+- [2020-08-02-吐槽-简书为什么老是维护啊，动辄一星期](https://www.v2ex.com/t/695117) ![](assets/new.png)  
+- [2020-08-02-为什么同样用-ssr，同样的服务器，-Mac-上访问网页显示无法建立安全连接，而-iPhone-iPad-都可以正常访问网页？](https://www.v2ex.com/t/695116) ![](assets/new.png)  
 - [2020-08-02-14-beta-3-把存储空间占用问题解决了](https://www.v2ex.com/t/695115) ![](assets/new.png)  
 - [2020-08-02-3000-4000-预算的黑苹果，能搞到什么配置？](https://www.v2ex.com/t/695114) ![](assets/new.png)  
 - [2020-08-02-有没有大佬用-homeAssistant-交流请教下](https://www.v2ex.com/t/695113) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-02-彭埠地铁站找室友](https://www.v2ex.com/t/695095) ![](assets/new.png)  
 - [2020-08-02-请问下-MacBook-Pro-13inch-2019mid-1.7Ghz-的这款发热为什么这么严重,-只是看网页视频十分钟就-60°了](https://www.v2ex.com/t/695094) ![](assets/new.png)  
 - [2020-08-02-突然发现新版-TIM-的-2-年消息漫游，从高级账号变成超级会员专属特权了](https://www.v2ex.com/t/695093) ![](assets/new.png)  
-- [2020-08-02-家用-vlan-交换机，这个需求这样设置对吗？](https://www.v2ex.com/t/695092) ![](assets/new.png)  
-- [2020-08-02-困惑许久疑问，请帮忙分析下呢，是否方向错了](https://www.v2ex.com/t/695091) ![](assets/new.png)  
-- [2020-08-02-webpack-那么牛逼。如果只是写-vue-的话，只是不是只要-vue-cli-就够了。](https://www.v2ex.com/t/695090) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1119,21 @@
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
 - [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
-- [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
+- [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
 - [2020-08-02-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [2020-08-02-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-02-推荐-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/e8euial) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-02-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
 - [2020-08-02-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
 - [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
-- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

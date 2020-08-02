@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 22:18:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 22:31:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -34,6 +34,7 @@
 - [2020-07-22-15个提升工作效率的JS技巧](https://www.ershicimi.com/p/03cd9ff2f0df9c2a12a552d8020064dd) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
+- [2020-08-02-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) 
 - [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) 
 - [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) 
 - [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
@@ -119,7 +120,7 @@
 - [2020-08-02-有没有好用适配-win10-的蓝牙耳机](https://www.v2ex.com/t/695085) 
 - [2020-08-02-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-02-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
 - [2020-08-02-安全意识:推特公布泄漏事件最新进展黑客伪装成同事骗取员工凭证](https://sec.thief.one/article_content?a_id=078d3625cd7c3dda3950fec79a9f0b29) 
 - [2020-08-01-BUF大事件丨数十家公司源代码泄露;佳明遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=565bba638c111d392eeb7ba035acc7de) 
 - [2020-08-01-大规模入侵推特账号事件主谋曝光:17岁美国少年](https://sec.thief.one/article_content?a_id=a3d676d32cb3dd823000256a4b607f13) 

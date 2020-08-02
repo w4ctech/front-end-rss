@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 22:18:29，:rocket: 更新条数: +3465， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 22:31:31，:rocket: 更新条数: +3465， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -229,6 +229,9 @@
 </summary>
 
 
+- [2020-08-02-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) ![](assets/new.png)  
+- [2020-08-02-【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8) ![](assets/new.png)  
+- [2020-08-02-【第2021期】你只加了两行代码，为什么要花两天时间？](https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de) ![](assets/new.png)  
 - [2020-07-31-【第2020期】如何进行设计评审-Design-Critiques](https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4) ![](assets/new.png)  
 - [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) ![](assets/new.png)  
 - [2020-07-30-【招聘】上海Treelab招高级前端架构师、高级React开发工程师](https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8) ![](assets/new.png)  
@@ -246,9 +249,6 @@
 - [2020-07-22-【第2011期】NutUI-实战：持续升级企业业务之福礼](https://www.ershicimi.com/p/e6f04dbcc14104a1b24d1c8807ee5fbb) ![](assets/new.png)  
 - [2020-07-22-【招聘】北京数猎天下科技招高级前端工程师](https://www.ershicimi.com/p/e593d85cf0a5816d38345d2f408a6300) ![](assets/new.png)  
 - [2020-07-21-前端工程师必备的TS知识点，不来看看？](https://www.ershicimi.com/p/9615a24dd230f6e631eccb430b94fdff) ![](assets/new.png)  
-- [2020-07-21-【第2010期】QQ音乐Android客户端Web页面通用性能优化实践](https://www.ershicimi.com/p/60282b2dfda54fde4c15cef6d0f05e50) ![](assets/new.png)  
-- [2020-07-20-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5) ![](assets/new.png)  
-- [2020-07-20-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](https://www.ershicimi.com/p/f1b91eb7d0e70ede26ac13b84fe25f1e) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1139,21 +1139,21 @@
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
 - [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
-- [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
+- [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-02-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
 - [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [2020-08-02-推荐-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/e8euial) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-02-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
+- [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

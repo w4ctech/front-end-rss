@@ -1,11 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-02 23:33:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 23:46:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-08-02-开个-YouTube-Premium-美区车，-48/年，还有-4-个车位](https://www.v2ex.com/t/695132) 
+- [2020-08-02-有用-eizo-老机型的用户吗-ccfl-发热真的很厉害？](https://www.v2ex.com/t/695133) 
 - [2020-08-02-2015-年的-13-寸-MacBook-Pro，今天突然出现-F-键自动蹦出](https://www.v2ex.com/t/695131) 
 - [2020-08-02-iPhone-xr-11-lcd-看久了眼睛痛？-x-led-太伤眼](https://www.v2ex.com/t/695130) 
 - [2020-08-02-大家有没有遇到过-t.cn-短链打不开的情况？](https://www.v2ex.com/t/695128) 

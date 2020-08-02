@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 00:25:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 00:47:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -36,5 +36,3 @@
 - [2020-08-01-SQLAlchemy-ORM，如何实现模板化建表？](https://www.v2ex.com/t/694902) 
 - [2020-08-01-mp4-分辨率/帧数相同，但大小不同](https://www.v2ex.com/t/694898) 
 - [2020-08-01-公众号需要企业认证，请问做过的-V-友们有什么值得注意的吗？](https://www.v2ex.com/t/694897) 
-- [2020-08-01-“京东-百度有我们-xxxx-值得来吗？”](https://www.v2ex.com/t/694895) 
-- [2020-08-01-最近又发现了一款国内模仿-Roam-Research-的应用，葫芦笔记](https://www.v2ex.com/t/694894) 

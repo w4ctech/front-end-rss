@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 10:48:11，:rocket: 更新条数: +3252， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 11:02:21，:rocket: 更新条数: +3468， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
+- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-02-乐队的夏天-大家看了吗-大波浪的开场太帅了](https://www.v2ex.com/t/695063) ![](assets/new.png)  
 - [2020-08-02-小白请教下关于-5-类网线的问题](https://www.v2ex.com/t/695062) ![](assets/new.png)  
 - [2020-08-02-被迫辞职回老家的迷茫](https://www.v2ex.com/t/695061) ![](assets/new.png)  
 - [2020-08-02-新网不经过域名所有者能查域名转走么](https://www.v2ex.com/t/695060) ![](assets/new.png)  
@@ -1071,7 +1092,6 @@
 - [2020-08-02-彩票真的是智商税吗?-深圳一彩票中双色球一等奖-10-注，奖金-5829-万](https://www.v2ex.com/t/695044) ![](assets/new.png)  
 - [2020-08-02-想要通过网页上传文件到服务器上，经过服务器上的-Python-处理后再从网页上下载，我应该怎么做？](https://www.v2ex.com/t/695041) ![](assets/new.png)  
 - [2020-08-02-TypeScript-运行时复杂类型验证](https://www.v2ex.com/t/695040) ![](assets/new.png)  
-- [2020-08-02-几乎一样的代码和配置,-aiohttp-和-requests-获取到的页面内容不一样,-这个问题可能出在哪?](https://www.v2ex.com/t/695039) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1139,21 @@
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
 - [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
-- [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
 - [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
+- [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
-- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-02-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
 - [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-02-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
+- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-02-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,26 +1165,26 @@
 </summary>
 
 
+- [2020-08-02-2020年国家网络安全宣传周数字化展会招展通知](https://sec.thief.one/article_content?a_id=cd1fb65d0281942c621081b79c8461b6) ![](assets/new.png)  
+- [2020-08-02-朝鲜黑客利用虚假招聘信息对美发起新一轮攻击](https://sec.thief.one/article_content?a_id=468510499fed42a572d8c6d20225670a) ![](assets/new.png)  
+- [2020-08-02-XCon高端培训-|-大牛神操作!带你刷爆Linux-botnet/malware从捕获到...](https://sec.thief.one/article_content?a_id=3bd6c09342d14737162ad1b35a3c2996) ![](assets/new.png)  
+- [2020-08-02-周报|CSO薪资、数据安全治理、IAST赋能企业、工信部通报名单引热...](https://sec.thief.one/article_content?a_id=9577d285a7ee1038be46b661103449c2) ![](assets/new.png)  
+- [2020-08-02-彭博社:美国人用贬值的美元购买比特币](https://sec.thief.one/article_content?a_id=b76366fe3826fb1803cdbc6b596d022f) ![](assets/new.png)  
+- [2020-08-02-记一次对CTF靶机的取key之路](https://sec.thief.one/article_content?a_id=c0f189a8101640ff150206a7fc762191) ![](assets/new.png)  
+- [2020-08-02-内核数据保护KDP:防止数据损坏的一种新平台安全技术](https://sec.thief.one/article_content?a_id=5abaf817e2851daf0858cf2256f347e0) ![](assets/new.png)  
+- [2020-08-02-RAID-2020-论文录用列表](https://sec.thief.one/article_content?a_id=bc990ee9a0d983378ae8df9529d687ee) ![](assets/new.png)  
+- [2020-08-02-送不完的免费保险,什么时候送我一个隐私泄露险](https://sec.thief.one/article_content?a_id=ee990fea4af153fb60a79a69e5ce0c88) ![](assets/new.png)  
+- [2020-08-02-安全意识:推特公布泄漏事件最新进展黑客伪装成同事骗取员工凭证](https://sec.thief.one/article_content?a_id=078d3625cd7c3dda3950fec79a9f0b29) ![](assets/new.png)  
+- [2020-08-02-GandCrab勒索软件一分销商被捕:曾感染上千台电脑](https://sec.thief.one/article_content?a_id=7ed93238b1f74e7aa385c11d8a8de1c4) ![](assets/new.png)  
+- [2020-08-02-使用reGeorg+Proxifier实现内网穿透](https://sec.thief.one/article_content?a_id=c5ff70796d0d39f339985ba0251253cc) ![](assets/new.png)  
+- [2020-08-02-近源渗透测试之Keylogger实战](https://sec.thief.one/article_content?a_id=897a3069ab756a4864320b99d5205e71) ![](assets/new.png)  
+- [2020-08-02-一行代码能实现什么丧心病狂的功能?](https://sec.thief.one/article_content?a_id=6cf4cd726194cf0c19ce63a414a717cd) ![](assets/new.png)  
+- [2020-08-02-NETGEAR-httpd缓冲区溢出漏洞分析](https://sec.thief.one/article_content?a_id=37f095f67158b1d4e5a0bb2119a80f03) ![](assets/new.png)  
+- [2020-08-02-全球央行抛售美债,黄金成新宠!](https://sec.thief.one/article_content?a_id=4a254d24484b47e6fd725f4777947f76) ![](assets/new.png)  
+- [2020-08-01-中国高校人工智能专业综合排名榜单](https://sec.thief.one/article_content?a_id=6492dcaa1f5299d8e31cb88692c6fb45) ![](assets/new.png)  
+- [2020-08-01-【安全圈】威胁又来!特朗普宣布:将禁止TikTok在美国运营](https://sec.thief.one/article_content?a_id=56f069bfc610a2fef90b0f078a160b47) ![](assets/new.png)  
 - [2020-08-01-Nexus-Repository-Manager-高危漏洞风险提示](https://sec.thief.one/article_content?a_id=3d891f9609db7f44d9a421e37d411ee5) ![](assets/new.png)  
 - [2020-08-01-【国际空间】越来越多店铺加入线上销售——巴西电子商务加速发展](https://sec.thief.one/article_content?a_id=c02eacc4bf735c2f81062ec3a4251913) ![](assets/new.png)  
-- [2020-08-01-BUF大事件丨数十家公司源代码泄露;佳明遭遇勒索软件攻击](https://sec.thief.one/article_content?a_id=565bba638c111d392eeb7ba035acc7de) ![](assets/new.png)  
-- [2020-08-01-主流币持续上攻,比特币暴涨在即?](https://sec.thief.one/article_content?a_id=64290c1d36b8dc60ed3fded8df63ffb8) ![](assets/new.png)  
-- [2020-08-01-《信息安全技术-网络安全等级保护安全设计技术要求》全文](https://sec.thief.one/article_content?a_id=9c2ccf817cc9c0e9446eb477f5edea14) ![](assets/new.png)  
-- [2020-08-01-澳大利亚监管机构针对名人代言的虚假加密广告发布警告](https://sec.thief.one/article_content?a_id=46acbf12bf5115c42cd3792b4582860f) ![](assets/new.png)  
-- [2020-08-01-浅析内网渗透代理](https://sec.thief.one/article_content?a_id=0e6e3620ed906aba1b12eb13b0924a1f) ![](assets/new.png)  
-- [2020-08-01-近源渗透测试之Keylogger实战](https://sec.thief.one/article_content?a_id=e28e65e22e7499b4c9a932b9dd6e0671) ![](assets/new.png)  
-- [2020-08-01-OpenSSH-命令注入漏洞通告CVE-2020-15778](https://sec.thief.one/article_content?a_id=59ae6e21e5116dc7b9e7d6c53e26c4c3) ![](assets/new.png)  
-- [2020-08-01-闪耀吧-中国人的北斗星辰](https://sec.thief.one/article_content?a_id=c0b325e2a2dbda5c4b8d58556dfe4538) ![](assets/new.png)  
-- [2020-08-01-以太坊五周年:从涅槃中苏醒](https://sec.thief.one/article_content?a_id=5f4a7b45e2b08fec5e4c40227d1547a5) ![](assets/new.png)  
-- [2020-08-01-BCTF-AutoPwn新赛程锁定8月7日!-即刻开放报名!](https://sec.thief.one/article_content?a_id=a5bbc7144701545f71398c36aae6367d) ![](assets/new.png)  
-- [2020-08-01-Tor被曝多个0-day漏洞,官方给出回应!](https://sec.thief.one/article_content?a_id=cc6b7471bfd4fed097dec94e72857e3c) ![](assets/new.png)  
-- [2020-08-01-大规模入侵推特账号事件主谋曝光:17岁美国少年](https://sec.thief.one/article_content?a_id=a3d676d32cb3dd823000256a4b607f13) ![](assets/new.png)  
-- [2020-08-01-牛聘|2020年度岗位招聘第8期](https://sec.thief.one/article_content?a_id=75bec7d1affcccb583d80da704151527) ![](assets/new.png)  
-- [2020-08-01-微软认为CCleaner是潜在危险软件](https://sec.thief.one/article_content?a_id=5f4d610b9cac64163820ad850de19e13) ![](assets/new.png)  
-- [2020-08-01-在看-|-一周网安回顾-2020.7.25~7.31](https://sec.thief.one/article_content?a_id=9641aa88e26127bba4c9a36c22a7559f) ![](assets/new.png)  
-- [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) ![](assets/new.png)  
-- [2020-08-01-推特史诗级劫持案“真凶”被捕:17岁佛州少年](https://sec.thief.one/article_content?a_id=8f7e484ab83d77e0c9b206b15773d61b) ![](assets/new.png)  
-- [2020-08-01-Think-Python.pdf](https://sec.thief.one/article_content?a_id=607a4b5aa1ee2e2e6c5a76be02134931) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

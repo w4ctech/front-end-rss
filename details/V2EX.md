@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-02 20:19:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 20:31:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-02-iPhone-xr-11-lcd-看久了眼睛痛？-x-led-太伤眼](https://www.v2ex.com/t/695130) 
 - [2020-08-02-怎么办？有点慌...各位小心。](https://www.v2ex.com/t/695129) 
 - [2020-08-02-大家有没有遇到过-t.cn-短链打不开的情况？](https://www.v2ex.com/t/695128) 
 - [2020-08-02-现在有两个域名，如何利用起来？](https://www.v2ex.com/t/695127) 
@@ -41,4 +42,3 @@
 - [2020-08-02-有没有好用适配-win10-的蓝牙耳机](https://www.v2ex.com/t/695085) 
 - [2020-08-02-发现一篇有趣的文章-Aforkin-the-road-,讲的是-fork-api-设计的缺点](https://www.v2ex.com/t/695084) 
 - [2020-08-02-这是一个关于某框架起源的故事](https://www.v2ex.com/t/695082) 
-- [2020-08-02-Springboot-那么大，不用什么场景都用它吧，要不尝试下-Mars--Java-？](https://www.v2ex.com/t/695080) 

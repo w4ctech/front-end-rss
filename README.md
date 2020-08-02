@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 03:33:43，:rocket: 更新条数: +3246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 03:46:19，:rocket: 更新条数: +3249， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,13 @@
 </summary>
 
 
+- [2020-08-02-成都美团点评招-Java-研发工程师，有兴趣的小伙伴快来了！](https://www.v2ex.com/t/694982) ![](assets/new.png)  
+- [2020-08-02-提取网页数据需要，请问有什么-HTML-解析器好用？](https://www.v2ex.com/t/694981) ![](assets/new.png)  
+- [2020-08-02-字节跳动到底输出了什么？字节跳动的梦想是什么？](https://www.v2ex.com/t/694980) ![](assets/new.png)  
+- [2020-08-02-快手---前端工程师---Tools-For-Thought](https://www.v2ex.com/t/694979) ![](assets/new.png)  
+- [2020-08-02-最近发现火狐的一个小-bug,不知是不是版本问题](https://www.v2ex.com/t/694978) ![](assets/new.png)  
+- [2020-08-02-站里有喜欢看鬼畜的小伙伴吗-刚看了这个视频泪目了——一首老街，看尽鬼畜的兴与衰](https://www.v2ex.com/t/694977) ![](assets/new.png)  
+- [2020-08-02-轻芒杂志（草稿版）第二阶段内测启动！除-iOS-用户外，-Andriod-用户也可以来了！](https://www.v2ex.com/t/694976) ![](assets/new.png)  
 - [2020-08-02-什么是高级程序员？](https://www.v2ex.com/t/694975) ![](assets/new.png)  
 - [2020-08-02-滴滴出行-北京、杭州内推-Android/iOS/前端/-Java-/Go/-PHP-/算法/C++等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/694974) ![](assets/new.png)  
 - [2020-08-02-浏览器兼容性如何检测](https://www.v2ex.com/t/694973) ![](assets/new.png)  
@@ -1065,13 +1072,6 @@
 - [2020-08-02-失业后转行卖起了莆田鞋，但~](https://www.v2ex.com/t/694964) ![](assets/new.png)  
 - [2020-08-02-说一下你们的办公神器吧~~~我也想买一些办公室用品](https://www.v2ex.com/t/694963) ![](assets/new.png)  
 - [2020-08-02-有什么显示器支架推荐？毕竟脖子，高低肩，驼背要拯救啊。。。？](https://www.v2ex.com/t/694962) ![](assets/new.png)  
-- [2020-08-02-在-manjaro（KDE）中，使用-sudo-时不能补全参数](https://www.v2ex.com/t/694959) ![](assets/new.png)  
-- [2020-08-02-字节跳动同意剥离-Tik-Tok-美国业务](https://www.v2ex.com/t/694958) ![](assets/new.png)  
-- [2020-08-02-几百块找大佬解决一个小问题](https://www.v2ex.com/t/694957) ![](assets/new.png)  
-- [2020-08-02-在兴义上纳灰村生活一周了](https://www.v2ex.com/t/694956) ![](assets/new.png)  
-- [2020-08-02-昨晚看乐夏-2，野孩子的《黄河瑶》听哭了](https://www.v2ex.com/t/694955) ![](assets/new.png)  
-- [2020-08-02-目前新售的房子能否同时接入三家宽带#电信|联通|移动](https://www.v2ex.com/t/694954) ![](assets/new.png)  
-- [2020-08-02-菜鸟驿站给生活添堵](https://www.v2ex.com/t/694952) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,24 +1116,24 @@
 
 - [2020-08-02-Docker-容器的-“单进程模型”](https://toutiao.io/k/80lqr81) ![](assets/new.png)  
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
 - [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
 - [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
 - [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
-- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
 - [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
+- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-02-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

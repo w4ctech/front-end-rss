@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 13:46:53，:rocket: 更新条数: +3419， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 13:48:16，:rocket: 更新条数: +3252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,8 +38,8 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -740,26 +750,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1062,6 +1052,26 @@
 </summary>
 
 
+- [2020-08-02-webpack-那么牛逼。如果只是写-vue-的话，只是不是只要-vue-cli-就够了。](https://www.v2ex.com/t/695090) ![](assets/new.png)  
+- [2020-08-02-有谁还在用-tg-pro-来控制风扇转速的？](https://www.v2ex.com/t/695089) ![](assets/new.png)  
+- [2020-08-02-为回复帖设置字数下限，过滤信息垃圾，驱逐劣币--给-V-站的一个建议](https://www.v2ex.com/t/695088) ![](assets/new.png)  
+- [2020-08-02-从二线城市外企去蚂蚁金服期望薪资报多少合适？](https://www.v2ex.com/t/695087) ![](assets/new.png)  
+- [2020-08-02-感觉-MacVim-比终端-Vim-快好多](https://www.v2ex.com/t/695086) ![](assets/new.png)  
+- [2020-08-02-有没有好用适配-win10-的蓝牙耳机](https://www.v2ex.com/t/695085) ![](assets/new.png)  
+- [2020-08-02-发现一篇有趣的文章-Aforkin-the-road-,讲的是-fork-api-设计的缺点](https://www.v2ex.com/t/695084) ![](assets/new.png)  
+- [2020-08-02-这是一个关于某框架起源的故事](https://www.v2ex.com/t/695082) ![](assets/new.png)  
+- [2020-08-02-Springboot-那么大，不用什么场景都用它吧，要不尝试下-Mars--Java-？](https://www.v2ex.com/t/695080) ![](assets/new.png)  
+- [2020-08-02-中国联通手机营业厅在自动增加书签？](https://www.v2ex.com/t/695079) ![](assets/new.png)  
+- [2020-08-02-入行半年的前端程序员的一点感想，另外想向大家请教一些事。](https://www.v2ex.com/t/695077) ![](assets/new.png)  
+- [2020-08-02-关于-3.5-寸外接硬盘盒的问题](https://www.v2ex.com/t/695075) ![](assets/new.png)  
+- [2020-08-02-mbp-外壳摔变形了，还能用键盘计划修键盘吗](https://www.v2ex.com/t/695073) ![](assets/new.png)  
+- [2020-08-02-上海电信政企能多拨吗？](https://www.v2ex.com/t/695071) ![](assets/new.png)  
+- [2020-08-02-想问一下国内有没有压缩软件跟进-zipxzip-zstd-支持](https://www.v2ex.com/t/695069) ![](assets/new.png)  
+- [2020-08-02-请教老师们，-ManyToMany-关系中，被关联的多方如何设置“优先级”？](https://www.v2ex.com/t/695068) ![](assets/new.png)  
+- [2020-08-02-ITX-黑苹果主机配置咨询](https://www.v2ex.com/t/695067) ![](assets/new.png)  
+- [2020-08-02-学历与工作，背景与能力，选择与奋斗](https://www.v2ex.com/t/695066) ![](assets/new.png)  
+- [2020-08-02-城市越大，压力越大，消费也越高](https://www.v2ex.com/t/695065) ![](assets/new.png)  
+- [2020-08-02-我想知道-Cloudflare-带宽联盟里的服务，套了-CF-是不是就免流量的](https://www.v2ex.com/t/695064) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

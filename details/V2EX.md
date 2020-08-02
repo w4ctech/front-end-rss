@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-02 03:09:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 03:18:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-02-浏览器兼容性如何检测](https://www.v2ex.com/t/694973) 
 - [2020-08-02-Android-studio-4.0-的-R-文件在哪？](https://www.v2ex.com/t/694971) 
 - [2020-08-02-请教下银行，金融相关的大佬](https://www.v2ex.com/t/694970) 
 - [2020-08-02-iOS-验证短信-直接显示联系人是怎么实现的](https://www.v2ex.com/t/694969) 
@@ -38,5 +39,3 @@
 - [2020-08-01-B-站什么时候能出一个-Block-功能？](https://www.v2ex.com/t/694926) 
 - [2020-08-01-请教一个-react-router-问题-，我想获取获取当前路径匹配的-path（user/:id）而不是-pathnameuser/111，用的-umi，我记得-react-之前好像是区分-path-和-url-...](https://www.v2ex.com/t/694925) 
 - [2020-08-01-有没有啥不怎么花时间也能玩开心的-PC-游戏推荐？](https://www.v2ex.com/t/694924) 
-- [2020-08-01-请问-Windows-端有没有软件能内嵌控制台？](https://www.v2ex.com/t/694923) 
-- [2020-08-01-南京李-B-这是要复出了？](https://www.v2ex.com/t/694922) 

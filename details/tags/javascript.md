@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 14:31:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 14:33:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -32,6 +32,8 @@
 - [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
 - [2020-07-25-今年最值得期待的JavaScript传奇绿皮书登场！](https://www.ershicimi.com/p/91d44d7e10924bc541d6b4c8db4e32c4) 
 - [2020-07-22-15个提升工作效率的JS技巧](https://www.ershicimi.com/p/03cd9ff2f0df9c2a12a552d8020064dd) 
+- [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
+- [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) 
 - [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) 
 - [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
@@ -71,9 +73,7 @@
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
-- [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
-- [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
-- [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) 
+- [2020-07-21-QuickJS-引擎一年见闻录](https://www.ershicimi.com/p/7bef03404bd3c5a6462812a06c08331a) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-07-31-Serverless-实战：通过-Component-实现多地域部署容灾](https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab) 
 - [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/125bc0c86c80b5245ccf351595af7255) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 11:08:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 11:16:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -32,4 +32,3 @@
 - [2020-08-02-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) 
 - [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) 
-- [2020-08-02-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) 

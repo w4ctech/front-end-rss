@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 04:19:04，:rocket: 更新条数: +3466， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 04:31:44，:rocket: 更新条数: +3467， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-02-trojan-qt5-被和谐了](https://www.v2ex.com/t/694991) ![](assets/new.png)  
+- [2020-08-02-V2EX-的打卡记录成为了心情的晴雨表](https://www.v2ex.com/t/694990) ![](assets/new.png)  
 - [2020-08-02-阿里云的-websocket-居然是收费项目？](https://www.v2ex.com/t/694989) ![](assets/new.png)  
 - [2020-08-02-一脸懵逼，-github-域名竟然被解析到-127.0.0.1-了](https://www.v2ex.com/t/694988) ![](assets/new.png)  
 - [2020-08-02-apple-pencil-摔了一下-结果斜着不能响应了](https://www.v2ex.com/t/694986) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-02-Android-studio-4.0-的-R-文件在哪？](https://www.v2ex.com/t/694971) ![](assets/new.png)  
 - [2020-08-02-请教下银行，金融相关的大佬](https://www.v2ex.com/t/694970) ![](assets/new.png)  
 - [2020-08-02-iOS-验证短信-直接显示联系人是怎么实现的](https://www.v2ex.com/t/694969) ![](assets/new.png)  
-- [2020-08-02-Mongo-分组查询](https://www.v2ex.com/t/694968) ![](assets/new.png)  
-- [2020-08-02-VSCode-remote-ssh-每次连接都要求给出-host-是-Linux-还是-windows-还是-mac，如何在配置文件里给定，让它不要再烦我了？谢谢](https://www.v2ex.com/t/694967) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,16 +1144,16 @@
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
-- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
 - [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
-- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-02-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
+- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
+- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

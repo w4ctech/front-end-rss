@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-02 04:19:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 04:31:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-02-trojan-qt5-被和谐了](https://www.v2ex.com/t/694991) 
+- [2020-08-02-V2EX-的打卡记录成为了心情的晴雨表](https://www.v2ex.com/t/694990) 
 - [2020-08-02-阿里云的-websocket-居然是收费项目？](https://www.v2ex.com/t/694989) 
 - [2020-08-02-一脸懵逼，-github-域名竟然被解析到-127.0.0.1-了](https://www.v2ex.com/t/694988) 
 - [2020-08-02-apple-pencil-摔了一下-结果斜着不能响应了](https://www.v2ex.com/t/694986) 
@@ -43,4 +45,3 @@
 - [2020-08-02-莉莉丝游戏-内推-wlb-八月职位更新](https://www.v2ex.com/t/694946) 
 - [2020-08-02-百度统计今天挂了吗？](https://www.v2ex.com/t/694943) 
 - [2020-08-01-macOS-Catalina-关闭开机声音](https://www.v2ex.com/t/694942) 
-- [2020-08-01-国内有哪些支持远程办公的公司？-2020-年国内远程办公&远程工作公司列表](https://www.v2ex.com/t/694940) 

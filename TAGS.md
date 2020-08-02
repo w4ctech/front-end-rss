@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-02 04:09:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 04:19:04。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -524,7 +524,7 @@
 - [【V2EX】滴滴出行-北京、杭州内推-Android/iOS/前端/-Java-/Go/-PHP-/算法/C++等各类职位大量招聘，月-20k-80k，优秀另有期权](https://www.v2ex.com/t/694974)
 - [【开发者头条】面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
 - [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
-- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
+- [【安全热点】学长拿了2万的算法岗offer,我承认,酸了!!](https://sec.thief.one/article_content?a_id=efb8b5ebfe166160b2b5d3402a3bdbe0)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -545,7 +545,6 @@
 - [【程序员成长指北】花椒前端基于-Docker-的-SSR-持续开发集成环境实践](https://www.ershicimi.com/p/de55d54617ef5488b526fd775b576d8e)
 - [【凹凸实验室】GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/)
 - [【凹凸实验室】初探Docker](https://aotu.io/notes/2016/02/27/docker/)
-- [【V2EX】NGINX-处于-D-状态，阻塞](https://www.v2ex.com/t/694938)
 - [【开发者头条】Docker-容器的-“单进程模型”](https://toutiao.io/k/80lqr81)
 - [......【查看更多】......](./details/tags/server.md)
 
@@ -575,6 +574,7 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
+- [【V2EX】一脸懵逼，-github-域名竟然被解析到-127.0.0.1-了](https://www.v2ex.com/t/694988)
 - [【安全热点】连续霸榜Github!又有一个Linux神器出现了](https://sec.thief.one/article_content?a_id=c6ca5bdcb7e02bcc0591f07330f0aac4)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 07:33:35，:rocket: 更新条数: +3255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 07:46:43，:rocket: 更新条数: +3254， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -508,6 +508,7 @@
 </summary>
 
 
+- [2020-08-02-50行实现Node.js多进程分页爬虫](https://www.ershicimi.com/p/343a6b5d04d666d6feeb955b8c73dd95) ![](assets/new.png)  
 - [2020-08-01-整理了-25-个前端相关的学习网站和一些靠谱的小工具](https://www.ershicimi.com/p/2152d1609f5f9b2eaa8e389850e5ed55) ![](assets/new.png)  
 - [2020-07-31-一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/d7fef661f0a7376e8e9e8c4377eab199) ![](assets/new.png)  
 - [2020-07-31-40张图入门Linux——（前端够用，运维入门）](https://www.ershicimi.com/p/7ff09c49308eb589a5793a7a4778d338) ![](assets/new.png)  
@@ -527,7 +528,6 @@
 - [2020-07-19-你GitHub上的代码，被藏到了一个“隐秘的角落”](https://www.ershicimi.com/p/a97437136d8af44fbd4aad676d4ee495) ![](assets/new.png)  
 - [2020-07-18-推荐一位我一直关注的技术大佬](https://www.ershicimi.com/p/b56b0f0d3fd551abd7022c91a514fcbb) ![](assets/new.png)  
 - [2020-07-17-你不知道的React-和-Vue-的20个区别【源码层面】](https://www.ershicimi.com/p/79aaa135b9626045f6e7dfb6004b5dd2) ![](assets/new.png)  
-- [2020-07-16-大厂面经、源码解读都常在这几个公众号里](https://www.ershicimi.com/p/a5c6608fb23686262ff4078b755f1c98) ![](assets/new.png)  
 - [......【查看更多】......](./details/全栈前端精选.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -885,6 +885,10 @@
 </summary>
 
 
+- [2020-08-02-“一挖就走”，中芯国际为什么留不住人？](https://www.ershicimi.com/p/3b361156e5658039d223b25bfdc0f997) ![](assets/new.png)  
+- [2020-08-02-去Oracle实录：如何在线更换金融核心场景中的数据库？](https://www.ershicimi.com/p/174a51ae472f58fd9acf5117794cf264) ![](assets/new.png)  
+- [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) ![](assets/new.png)  
+- [2020-08-02-22款好用的CLI工具](https://www.ershicimi.com/p/de8ff4c83bd1566bbaa4bcd9e432138f) ![](assets/new.png)  
 - [2020-08-01-华为第二批天才少年校招薪资曝光：华科博士201万；前百度云副总裁成阿里最短命P10；ofo总部人去楼](https://www.ershicimi.com/p/ca0a4326d5c8a29ed38de2fa37a88bb2) ![](assets/new.png)  
 - [2020-08-01-ITER，光刻机之后又一人类科学奇迹丨Q事界](https://www.ershicimi.com/p/efa3cb103ca1c6eb5099777d29ce1b0c) ![](assets/new.png)  
 - [2020-08-01-云原生时代的流量入口：Envoy-Gateway](https://www.ershicimi.com/p/3053ea218d99c7f7f871268c7c399e86) ![](assets/new.png)  
@@ -901,10 +905,6 @@
 - [2020-07-30-程序员简历的8个建议](https://www.ershicimi.com/p/8141cb7f566959466975f78f29480f09) ![](assets/new.png)  
 - [2020-07-29-我敢说，这是最全的常用设计模式汇总-|-极客时间](https://www.ershicimi.com/p/b129ab71837d9ceeb30a43c7e5aaadf3) ![](assets/new.png)  
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) ![](assets/new.png)  
-- [2020-07-29-知“微”知彰，互联网企业的微服务5G创新有哪些从0到1？](https://www.ershicimi.com/p/b32d4f4940871e82ffa3188013564ba7) ![](assets/new.png)  
-- [2020-07-29-eBPF-在网易轻舟云原生的应用实践](https://www.ershicimi.com/p/80a2c319019ed5416e50aae9d22ec305) ![](assets/new.png)  
-- [2020-07-29-一文看懂-PHP-8-的新特性](https://www.ershicimi.com/p/e758ea3443caa6cefe733a04f9c9be60) ![](assets/new.png)  
-- [2020-07-28-微软、华为海思、小米等全球50家知名企业内部源代码批量外泄，现已可公开访问](https://www.ershicimi.com/p/5d0a84933c87e288061df5db85cfdca4) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-02-为什么注册苹果开发者账号，一直都提示未知错误啊？](https://www.v2ex.com/t/695024) ![](assets/new.png)  
 - [2020-08-02-有老哥了解联影智能（上海）吗？](https://www.v2ex.com/t/695021) ![](assets/new.png)  
 - [2020-08-02-iPhone-到底防不防水，把我弄懵逼了。](https://www.v2ex.com/t/695019) ![](assets/new.png)  
 - [2020-08-02-求个可用-gv-换绑的微信小号](https://www.v2ex.com/t/695018) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-02-裸眼-3D-真人宅舞全新视觉体验~](https://www.v2ex.com/t/695003) ![](assets/new.png)  
 - [2020-08-02-苹果股价暴涨-市值-18000E.-这是什么情况](https://www.v2ex.com/t/695002) ![](assets/new.png)  
 - [2020-08-02-涂层脱落更换计划现在还有吗？](https://www.v2ex.com/t/695001) ![](assets/new.png)  
-- [2020-08-02-红米-K30-5G-版，香不？](https://www.v2ex.com/t/695000) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
-- [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
-- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
+- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
+- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
+- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

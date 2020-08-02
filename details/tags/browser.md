@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 07:33:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 07:46:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -39,7 +39,6 @@
 - [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-02-阿里云的-websocket-居然是收费项目？](https://www.v2ex.com/t/694989) 
-- [2020-08-02-浏览器兼容性如何检测](https://www.v2ex.com/t/694973) 
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) 
 - [2020-08-01-《信息安全技术-网络安全等级保护安全设计技术要求》全文](https://sec.thief.one/article_content?a_id=9c2ccf817cc9c0e9446eb477f5edea14) 
 - [2020-07-31-安全研究实验室巡礼——澳大利亚昆士兰大学马思奇研究组](https://sec.thief.one/article_content?a_id=23ba8af00f2fb9d25efab8c629a6f043) 

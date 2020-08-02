@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-02 07:33:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 07:46:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-08-02-“一挖就走”，中芯国际为什么留不住人？](https://www.ershicimi.com/p/3b361156e5658039d223b25bfdc0f997) 
+- [2020-08-02-去Oracle实录：如何在线更换金融核心场景中的数据库？](https://www.ershicimi.com/p/174a51ae472f58fd9acf5117794cf264) 
+- [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) 
+- [2020-08-02-22款好用的CLI工具](https://www.ershicimi.com/p/de8ff4c83bd1566bbaa4bcd9e432138f) 
 - [2020-08-01-华为第二批天才少年校招薪资曝光：华科博士201万；前百度云副总裁成阿里最短命P10；ofo总部人去楼](https://www.ershicimi.com/p/ca0a4326d5c8a29ed38de2fa37a88bb2) 
 - [2020-08-01-ITER，光刻机之后又一人类科学奇迹丨Q事界](https://www.ershicimi.com/p/efa3cb103ca1c6eb5099777d29ce1b0c) 
 - [2020-08-01-云原生时代的流量入口：Envoy-Gateway](https://www.ershicimi.com/p/3053ea218d99c7f7f871268c7c399e86) 
@@ -21,7 +25,3 @@
 - [2020-07-30-程序员简历的8个建议](https://www.ershicimi.com/p/8141cb7f566959466975f78f29480f09) 
 - [2020-07-29-我敢说，这是最全的常用设计模式汇总-|-极客时间](https://www.ershicimi.com/p/b129ab71837d9ceeb30a43c7e5aaadf3) 
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
-- [2020-07-29-知“微”知彰，互联网企业的微服务5G创新有哪些从0到1？](https://www.ershicimi.com/p/b32d4f4940871e82ffa3188013564ba7) 
-- [2020-07-29-eBPF-在网易轻舟云原生的应用实践](https://www.ershicimi.com/p/80a2c319019ed5416e50aae9d22ec305) 
-- [2020-07-29-一文看懂-PHP-8-的新特性](https://www.ershicimi.com/p/e758ea3443caa6cefe733a04f9c9be60) 
-- [2020-07-28-微软、华为海思、小米等全球50家知名企业内部源代码批量外泄，现已可公开访问](https://www.ershicimi.com/p/5d0a84933c87e288061df5db85cfdca4) 

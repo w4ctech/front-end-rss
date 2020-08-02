@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 21:02:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 21:08:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2479,17 +2479,16 @@
 - [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) 
 - [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) 
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) 
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
+- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
+- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
 - [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
+- [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
 - [2020-08-02-推荐-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/e8euial) 
 - [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) 
 - [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
 - [2020-08-02-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
-- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
-- [2020-08-02-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
 - [2020-08-02-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
-- [2020-08-02-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
 - [2020-08-02-北京捣毁13个实施黑客网络攻击牟利的非法网络平台,刑拘11人](https://sec.thief.one/article_content?a_id=1622cfe30717fa464fc502f4a2df7748) 
 - [2020-08-02-XCon高端培训-|-大牛神操作!带你刷爆Linux-botnet/malware从捕获到...](https://sec.thief.one/article_content?a_id=3bd6c09342d14737162ad1b35a3c2996) 
 - [2020-08-02-彭博社:美国人用贬值的美元购买比特币](https://sec.thief.one/article_content?a_id=b76366fe3826fb1803cdbc6b596d022f) 

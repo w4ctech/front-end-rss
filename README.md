@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 07:17:44，:rocket: 更新条数: +769， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 07:31:40，:rocket: 更新条数: +3255， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
+- [2020-08-01-最新疫情：全国新冠累计确诊84385例-本土病例新疆30例辽宁3例](https://m.caixin.com/m/2020-08-02/101587753.html) ![](assets/new.png)  
+- [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
+- [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
+- [2020-07-31-香港方舱医院收治首批患者-内地核酸检测支援队明日赴港](https://m.caixin.com/m/2020-08-01/101587648.html) ![](assets/new.png)  
+- [2020-07-31-最新海外疫情：新冠感染者近1747万-累计死亡超67万](http://m.international.caixin.com/m/2020-08-01/101587664.html) ![](assets/new.png)  
+- [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
+- [2020-07-31-大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首-越南首现死亡病例](https://m.caixin.com/m/2020-08-01/101587433.html) ![](assets/new.png)  
+- [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
+- [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
+- [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
+- [2020-07-30-香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html) ![](assets/new.png)  
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
+- [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
+- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
+- [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
+- [2020-07-29-大连：对高风险地区重点人群开展第二次核酸采样](http://m.china.caixin.com/m/2020-07-30/101586294.html) ![](assets/new.png)  
+- [2020-07-29-德国最新研究：78%受访新冠康复者心脏受损](https://m.caixin.com/m/2020-07-30/101586183.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-02-有老哥了解联影智能（上海）吗？](https://www.v2ex.com/t/695021) ![](assets/new.png)  
 - [2020-08-02-iPhone-到底防不防水，把我弄懵逼了。](https://www.v2ex.com/t/695019) ![](assets/new.png)  
 - [2020-08-02-求个可用-gv-换绑的微信小号](https://www.v2ex.com/t/695018) ![](assets/new.png)  
 - [2020-08-02-有经验的老哥来说说，巨硬-HR-不回复咋办嘛](https://www.v2ex.com/t/695017) ![](assets/new.png)  
@@ -1051,7 +1072,6 @@
 - [2020-08-02-苹果股价暴涨-市值-18000E.-这是什么情况](https://www.v2ex.com/t/695002) ![](assets/new.png)  
 - [2020-08-02-涂层脱落更换计划现在还有吗？](https://www.v2ex.com/t/695001) ![](assets/new.png)  
 - [2020-08-02-红米-K30-5G-版，香不？](https://www.v2ex.com/t/695000) ![](assets/new.png)  
-- [2020-08-02-B-站的弹幕，评论真的低龄可笑又浮夸](https://www.v2ex.com/t/694999) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,16 +1124,16 @@
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
-- [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
 - [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
+- [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
 - [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 09:02:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 09:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -20,5 +20,6 @@
 - [2020-08-02-git-https-怎样自动输入用户名密码](https://www.v2ex.com/t/695027) 
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) 
 - [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) 
+- [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) 
 - [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) 
 - [2020-07-30-学长拿了2万的算法岗offer,我承认,酸了!!](https://sec.thief.one/article_content?a_id=efb8b5ebfe166160b2b5d3402a3bdbe0) 

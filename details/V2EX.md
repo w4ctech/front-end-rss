@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-02 02:48:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 03:02:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-02-Android-studio-4.0-的-R-文件在哪？](https://www.v2ex.com/t/694971) 
+- [2020-08-02-请教下银行，金融相关的大佬](https://www.v2ex.com/t/694970) 
 - [2020-08-02-iOS-验证短信-直接显示联系人是怎么实现的](https://www.v2ex.com/t/694969) 
 - [2020-08-02-Mongo-分组查询](https://www.v2ex.com/t/694968) 
 - [2020-08-02-VSCode-remote-ssh-每次连接都要求给出-host-是-Linux-还是-windows-还是-mac，如何在配置文件里给定，让它不要再烦我了？谢谢](https://www.v2ex.com/t/694967) 
@@ -38,4 +40,3 @@
 - [2020-08-01-有没有啥不怎么花时间也能玩开心的-PC-游戏推荐？](https://www.v2ex.com/t/694924) 
 - [2020-08-01-请问-Windows-端有没有软件能内嵌控制台？](https://www.v2ex.com/t/694923) 
 - [2020-08-01-南京李-B-这是要复出了？](https://www.v2ex.com/t/694922) 
-- [2020-08-01-想找位做过电商或者数据分析的开发小伙伴，合作个项目。](https://www.v2ex.com/t/694920) 

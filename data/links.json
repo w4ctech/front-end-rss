@@ -12432,6 +12432,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "大连加强核酸检测 聚集性病例地区人员每3天做一次",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIjWWuYcnpA85BbKRXZSH200802&isfromapp=1",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "大连已关停凯洋海鲜公司",
+        "link": "https://m.weibo.cn/2803301701/4533419369049159",
+        "date": "2020-08-02"
+      },
+      {
         "title": "北京8月1日无新增报告新冠肺炎确诊病例 治愈出院2例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEx8lRdhmk8U00jFaVcDr200802&isfromapp=1",
         "date": "2020-08-02"
@@ -12444,16 +12454,6 @@
       {
         "title": "2020年8月1日0时至24时辽宁新型冠状病毒肺炎疫情情况",
         "link": "http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200802_3918171.html",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "阿根廷新增新冠肺炎确诊病例5241例 一城际铁路线因疫情停运",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHr3AUvF9SxM4HfS7sMNE200802&isfromapp=1",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "智利新增1979例新冠肺炎确诊病例 累计确诊357658例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqJZCJXfwafhPVggM8P7o200802&isfromapp=1",
         "date": "2020-08-01"
       }
     ]
@@ -15584,6 +15584,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Android studio 4.0 的 R 文件在哪？",
+        "link": "https://www.v2ex.com/t/694971",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "请教下银行，金融相关的大佬",
+        "link": "https://www.v2ex.com/t/694970",
+        "date": "2020-08-02"
+      },
+      {
         "title": "iOS 验证短信 直接显示联系人是怎么实现的",
         "link": "https://www.v2ex.com/t/694969",
         "date": "2020-08-02"
@@ -15746,11 +15756,6 @@
       {
         "title": "南京李 B 这是要复出了？",
         "link": "https://www.v2ex.com/t/694922",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "想找位做过电商或者数据分析的开发小伙伴，合作个项目。",
-        "link": "https://www.v2ex.com/t/694920",
         "date": "2020-08-01"
       }
     ]
@@ -15918,53 +15923,8 @@
         "date": "2020-08-02"
       },
       {
-        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
-        "link": "https://toutiao.io/k/fw0x414",
-        "date": "2020-08-02"
-      },
-      {
         "title": "[推荐] YGC 问题排查，又让我涨姿势了",
         "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
-        "link": "https://toutiao.io/k/cco702x",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-02"
       },
       {
@@ -15973,23 +15933,68 @@
         "date": "2020-08-02"
       },
       {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
+        "link": "https://toutiao.io/k/fw0x414",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
+        "link": "https://toutiao.io/k/cco702x",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-02"
+      },
+      {
         "title": "[推荐] 如何写好一个技术预研报告?",
         "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-02"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-08-02"
       }
     ]

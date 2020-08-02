@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 10:46:53，:rocket: 更新条数: +765， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 10:48:11，:rocket: 更新条数: +3252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
+- [2020-08-01-最新疫情：全国新冠累计确诊84385例-本土病例新疆30例辽宁3例](https://m.caixin.com/m/2020-08-02/101587753.html) ![](assets/new.png)  
+- [2020-08-01-最新海外疫情：新冠感染者超1772万-累计死亡超68万](http://m.international.caixin.com/m/2020-08-02/101587770.html) ![](assets/new.png)  
+- [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
+- [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
+- [2020-07-31-香港方舱医院收治首批患者-内地核酸检测支援队明日赴港](https://m.caixin.com/m/2020-08-01/101587648.html) ![](assets/new.png)  
+- [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
+- [2020-07-31-大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首-越南首现死亡病例](https://m.caixin.com/m/2020-08-01/101587433.html) ![](assets/new.png)  
+- [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
+- [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
+- [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
+- [2020-07-30-香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html) ![](assets/new.png)  
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
+- [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
+- [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
+- [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
+- [2020-07-29-大连：对高风险地区重点人群开展第二次核酸采样](http://m.china.caixin.com/m/2020-07-30/101586294.html) ![](assets/new.png)  
+- [2020-07-29-德国最新研究：78%受访新冠康复者心脏受损](https://m.caixin.com/m/2020-07-30/101586183.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

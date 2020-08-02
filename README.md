@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 12:33:10，:rocket: 更新条数: +3471， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 12:46:54，:rocket: 更新条数: +3471， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,9 @@
 </summary>
 
 
+- [2020-08-02-Springboot-那么大，不用什么场景都用它吧，要不尝试下-Mars--Java-？](https://www.v2ex.com/t/695080) ![](assets/new.png)  
+- [2020-08-02-中国联通手机营业厅在自动增加书签？](https://www.v2ex.com/t/695079) ![](assets/new.png)  
+- [2020-08-02-入行半年的前端程序员的一点感想，另外想向大家请教一些事。](https://www.v2ex.com/t/695077) ![](assets/new.png)  
 - [2020-08-02-关于-3.5-寸外接硬盘盒的问题](https://www.v2ex.com/t/695075) ![](assets/new.png)  
 - [2020-08-02-第一次用-CN2-GIA-感觉好稳](https://www.v2ex.com/t/695074) ![](assets/new.png)  
 - [2020-08-02-mbp-外壳摔变形了，还能用键盘计划修键盘吗](https://www.v2ex.com/t/695073) ![](assets/new.png)  
@@ -1089,9 +1092,6 @@
 - [2020-08-02-windows10-2004-七月更新和-windows10-ltsb/ltsc-哪个更好用？](https://www.v2ex.com/t/695059) ![](assets/new.png)  
 - [2020-08-02-使用家宽提供的公网-ipv6-建站风险如何？有朋友试过吗](https://www.v2ex.com/t/695058) ![](assets/new.png)  
 - [2020-08-02-二维数组中如何去除有被其他数组元素包含的元素](https://www.v2ex.com/t/695056) ![](assets/new.png)  
-- [2020-08-02-在线要饭出海版](https://www.v2ex.com/t/695055) ![](assets/new.png)  
-- [2020-08-02-搞了一个资源分享的微信小程序，主要分享各类技术，产品，管理，设计等方面的内容资源、素材和软件，需要找相关资源的朋友可以扫码添加看看。](https://www.v2ex.com/t/695053) ![](assets/new.png)  
-- [2020-08-02-OptiFine-终于更新了-1.16.1-版本](https://www.v2ex.com/t/695052) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,26 +1134,26 @@
 </summary>
 
 
-- [2020-08-02-Docker-容器的-“单进程模型”](https://toutiao.io/k/80lqr81) ![](assets/new.png)  
 - [2020-08-02-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-02-Docker-容器的-“单进程模型”](https://toutiao.io/k/80lqr81) ![](assets/new.png)  
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
 - [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
 - [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
-- [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
+- [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
+- [2020-08-02-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
 - [2020-08-02-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
 - [2020-08-02-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
-- [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-02-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
+- [2020-08-02-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
 - [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-02-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-02-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-02 07:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 07:09:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-02-求个可用-gv-换绑的微信小号](https://www.v2ex.com/t/695018) 
+- [2020-08-02-有经验的老哥来说说，巨硬-HR-不回复咋办嘛](https://www.v2ex.com/t/695017) 
 - [2020-08-02-来小米云平台，一起搞大事情。](https://www.v2ex.com/t/695016) 
 - [2020-08-02-迷茫，求指导](https://www.v2ex.com/t/695015) 
 - [2020-08-02-随机获取一个-家长风格（parent-style）的微信昵称，顺带（低保真）复刻了一下朋友圈页面。](https://www.v2ex.com/t/695014) 
@@ -45,5 +47,3 @@
 - [2020-08-02-Android-studio-4.0-的-R-文件在哪？](https://www.v2ex.com/t/694971) 
 - [2020-08-02-请教下银行，金融相关的大佬](https://www.v2ex.com/t/694970) 
 - [2020-08-02-iOS-验证短信-直接显示联系人是怎么实现的](https://www.v2ex.com/t/694969) 
-- [2020-08-02-Mongo-分组查询](https://www.v2ex.com/t/694968) 
-- [2020-08-02-VSCode-remote-ssh-每次连接都要求给出-host-是-Linux-还是-windows-还是-mac，如何在配置文件里给定，让它不要再烦我了？谢谢](https://www.v2ex.com/t/694967) 

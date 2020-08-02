@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 02:10:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 02:20:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -38,4 +38,3 @@
 - [2020-08-01-失业期间更新了-WGestures-2-&-Tickeys-for-mac，下周开始找工作](https://www.v2ex.com/t/694915) 
 - [2020-08-01-有一个想法，有能力的可以实现一下。](https://www.v2ex.com/t/694914) 
 - [2020-08-01-你们是怎么整理-iOS-的图片的？](https://www.v2ex.com/t/694913) 
-- [2020-08-01-数据密集型应用系统设计---关于-Apache-Avro-的疑问](https://www.v2ex.com/t/694910) 

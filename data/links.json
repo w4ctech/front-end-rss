@@ -15747,11 +15747,6 @@
         "title": "你们是怎么整理 iOS 的图片的？",
         "link": "https://www.v2ex.com/t/694913",
         "date": "2020-08-01"
-      },
-      {
-        "title": "数据密集型应用系统设计 - 关于 Apache Avro 的疑问",
-        "link": "https://www.v2ex.com/t/694910",
-        "date": "2020-08-01"
       }
     ]
   },
@@ -15873,13 +15868,13 @@
         "date": "2020-08-02"
       },
       {
-        "title": "面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "数据平台服务化建设（二）：把好权限的关",
+        "link": "https://toutiao.io/k/pn0q43v",
         "date": "2020-08-02"
       },
       {
-        "title": "数据平台服务化建设（二）：把好权限的关",
-        "link": "https://toutiao.io/k/pn0q43v",
+        "title": "面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
         "date": "2020-08-02"
       },
       {
@@ -15918,33 +15913,8 @@
         "date": "2020-08-02"
       },
       {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
-        "link": "https://toutiao.io/k/fw0x414",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
         "date": "2020-08-02"
       },
       {
@@ -15953,8 +15923,23 @@
         "date": "2020-08-02"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] 曾梦想 if-else 走天涯？看看 “责任树模式” 优化",
+        "link": "https://toutiao.io/k/cco702x",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 万字长文图解 Go 内存管理分析：工具、分配和回收原理",
+        "link": "https://toutiao.io/k/fw0x414",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-02"
       },
       {
@@ -15963,8 +15948,13 @@
         "date": "2020-08-02"
       },
       {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-02"
       },
       {
@@ -15973,13 +15963,8 @@
         "date": "2020-08-02"
       },
       {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
         "date": "2020-08-02"
       },
       {
@@ -15988,8 +15973,18 @@
         "date": "2020-08-02"
       },
       {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-02"
+      },
+      {
         "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
         "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-02"
       }
     ]

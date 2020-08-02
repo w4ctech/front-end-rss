@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-01 23:48:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 00:06:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-01-macOS-Catalina-关闭开机声音](https://www.v2ex.com/t/694942) 
 - [2020-08-01-国内有哪些支持远程办公的公司？-2020-年国内远程办公&远程工作公司列表](https://www.v2ex.com/t/694940) 
 - [2020-08-01-NGINX-处于-D-状态，阻塞](https://www.v2ex.com/t/694938) 
 - [2020-08-01-对不起，我还是理解不了那些骂字节跳动的人](https://www.v2ex.com/t/694937) 

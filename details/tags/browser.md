@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 13:18:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 13:31:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,6 +24,7 @@
 - [2020-07-29-Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43) 
 - [2020-07-28-彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a) 
 - [2020-07-20-【招聘】腾讯IEG互动娱乐招Web前端开发-/UI开发](https://www.ershicimi.com/p/f1b91eb7d0e70ede26ac13b84fe25f1e) 
+- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
 - [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) 
 - [2020-07-21-一个神秘URL酿大祸，差点让我背锅！](https://www.ershicimi.com/p/1a5833bbfdf6bc827d1d3749eec38cf5) 
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
@@ -35,6 +36,7 @@
 - [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) 
 - [2020-07-17-奇舞周刊第-356-期：Web-前端安全自查和加固](https://www.ershicimi.com/p/3e5eb015d480e5669db45e33290d8ba0) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
+- [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) 

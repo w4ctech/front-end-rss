@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-02 08:48:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 09:02:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,6 +114,7 @@
 - [【全栈前端精选】图解23种设计模式（TypeScript版）——前端必修内功心法](https://www.ershicimi.com/p/4866ff329887793953f68786f4222628)
 - [【全栈前端精选】字节一面，我被TypeScript干掉了](https://www.ershicimi.com/p/8b9ec38ff5ebd5bd00ae560ab3921343)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【V2EX】TypeScript-运行时复杂类型验证](https://www.v2ex.com/t/695040)
 - [【技术头条】如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -402,7 +403,6 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib)
-- [【开发者头条】推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x)
 - [【开发者头条】推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08)
 - [......【查看更多】......](./details/tags/optimization.md)
 
@@ -465,9 +465,10 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【互联网架构师】完美，竟然用一个脚本就把系统升级到https了，且永久免费！](https://www.ershicimi.com/p/7de541eefca844a5ffa43013bea592c0)
+- [【V2EX】几乎一样的代码和配置,-aiohttp-和-requests-获取到的页面内容不一样,-这个问题可能出在哪?](https://www.v2ex.com/t/695039)
 - [【V2EX】git-https-怎样自动输入用户名密码](https://www.v2ex.com/t/695027)
 - [【开发者头条】面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
-- [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
+- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
 - [【安全热点】学长拿了2万的算法岗offer,我承认,酸了!!](https://sec.thief.one/article_content?a_id=efb8b5ebfe166160b2b5d3402a3bdbe0)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
@@ -515,7 +516,6 @@
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】一脸懵逼，-github-域名竟然被解析到-127.0.0.1-了](https://www.v2ex.com/t/694988)
 - [【安全热点】连续霸榜Github!又有一个Linux神器出现了](https://sec.thief.one/article_content?a_id=c6ca5bdcb7e02bcc0591f07330f0aac4)
 - [......【查看更多】......](./details/tags/git-svn.md)
 

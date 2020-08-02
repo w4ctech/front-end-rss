@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 12:46:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 12:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -8,7 +8,6 @@
 
 
 - [2019-11-25-一文掌握Webpack编译流程](https://www.ershicimi.com/p/a47e055b404be5ccb5898cd673c569c6) 
-- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) 
 - [2020-02-16-webpack-Scope-Hoisting](https://www.ershicimi.com/p/77632bc7cbc490c22556d88785034320) 
 - [2020-07-21-多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/1080a80c0893600890beed4aa7819c70) 
 - [2020-07-15-18个常用-webpack插件，总会有适合你的！](https://www.ershicimi.com/p/45e43b8ede3223b36181bc95e057f555) 
@@ -21,10 +20,5 @@
 - [2020-07-24-使用verdaccio搭建npm私有源](https://www.ershicimi.com/p/797837ed194bb8368f0b21efa925a5bb) 
 - [2020-07-21-12-个提高JavaScript编码效率的-NPM-技巧](https://www.ershicimi.com/p/37cb3dcdff33d7058bf36f2b97d73602) 
 - [2020-07-15-一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f) 
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) 
-- [2017-01-17-ELF---灵活可扩展的-HTML5-构建工具](https://aotu.io/notes/2017/01/17/elf/) 
-- [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 
-- [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 
-- [2016-02-26-使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/) 
 - [2020-07-28-Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a) 
 - [2019-12-16-Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 14:18:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 14:31:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -74,7 +74,6 @@
 - [2020-01-21-【音频|特别策划】新冠肺炎疫情是如何逼近的？](http://fm.caixin.com/m/2020-01-22/101507323.html) 
 - [2020-01-21-【视频】国新办举行发布会-介绍新冠肺炎防控情况](http://m.video.caixin.com/m/2020-01-22/101507052.html) 
 - [2020-01-19-【视频】钟南山谈新型肺炎：肯定存在人传人现象](http://m.video.caixin.com/m/2020-01-20/101506478.html) 
-- [2020-05-17-虚幻引擎5官方视频](https://www.ershicimi.com/p/28d9c0c525557fe3effbfffa6d76350b) 
 - [2020-07-27-【第2016期】WXInlinePlayer：高性能WASM播放器实现](https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320) 
 - [2020-07-20-【第2009期】实现-Bilibili-视频播放Chrome-媒体控制效果](https://www.ershicimi.com/p/c9e79494d5c28ce261e2a3f4e33b33e5) 
 - [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) 
@@ -89,6 +88,7 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
+- [2020-08-02-请问下-MacBook-Pro-13inch-2019mid-1.7Ghz-的这款发热为什么这么严重,-只是看网页视频十分钟就-60°了](https://www.v2ex.com/t/695094) 
 - [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) 
 - [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) 
 - [2020-07-31-【视频】|-多因素身份验证MFA介绍](https://sec.thief.one/article_content?a_id=a3556138b0b2f8085b42d5d16d2729a0) 

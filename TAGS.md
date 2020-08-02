@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-02 22:02:11。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 22:08:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -523,8 +523,8 @@
 - [【互联网架构师】完美，竟然用一个脚本就把系统升级到https了，且永久免费！](https://www.ershicimi.com/p/7de541eefca844a5ffa43013bea592c0)
 - [【V2EX】感觉-MacVim-比终端-Vim-快好多](https://www.v2ex.com/t/695086)
 - [【开发者头条】面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
-- [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
 - [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
+- [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

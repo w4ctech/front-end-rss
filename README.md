@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-02 00:50:26，:rocket: 更新条数: +3242， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-02 01:02:31，:rocket: 更新条数: +3244， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,12 @@
 </summary>
 
 
+- [2020-08-02-北京8月1日无新增报告新冠肺炎确诊病例-治愈出院2例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEx8lRdhmk8U00jFaVcDr200802&isfromapp=1) ![](assets/new.png)  
+- [2020-08-01-苏里南新冠肺炎疫情形势堪忧-医疗卫生系统恐全面崩溃](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZn8N28LqHCoEumLnpNnK200802&isfromapp=1) ![](assets/new.png)  
+- [2020-08-01-2020年8月1日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200802_3918171.html) ![](assets/new.png)  
 - [2020-08-01-阿根廷新增新冠肺炎确诊病例5241例-一城际铁路线因疫情停运](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHr3AUvF9SxM4HfS7sMNE200802&isfromapp=1) ![](assets/new.png)  
 - [2020-08-01-智利新增1979例新冠肺炎确诊病例-累计确诊357658例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqJZCJXfwafhPVggM8P7o200802&isfromapp=1) ![](assets/new.png)  
 - [2020-08-01-世卫组织：新冠继续构成国际关注的突发公共卫生事件](https://m.weibo.cn/2803301701/4533367515384858) ![](assets/new.png)  
-- [2020-08-01-哥伦比亚新冠肺炎确诊病例累计逾30万例-国家博物馆重新对公众开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHS2fSDQN7tXZrTiYfx5I200802&isfromapp=1) ![](assets/new.png)  
-- [2020-08-01-土耳其新增996例新冠肺炎确诊病例-累计确诊231869例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigdBSfExJWtxmrXdyp3Ja200802&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1053,8 @@
 </summary>
 
 
+- [2020-08-02-alidns-抽风了吗？](https://www.v2ex.com/t/694947) ![](assets/new.png)  
+- [2020-08-02-莉莉丝游戏-内推-wlb-八月职位更新](https://www.v2ex.com/t/694946) ![](assets/new.png)  
 - [2020-08-02-百度统计今天挂了吗？](https://www.v2ex.com/t/694943) ![](assets/new.png)  
 - [2020-08-01-macOS-Catalina-关闭开机声音](https://www.v2ex.com/t/694942) ![](assets/new.png)  
 - [2020-08-01-国内有哪些支持远程办公的公司？-2020-年国内远程办公&远程工作公司列表](https://www.v2ex.com/t/694940) ![](assets/new.png)  
@@ -1070,8 +1073,6 @@
 - [2020-08-01-想找位做过电商或者数据分析的开发小伙伴，合作个项目。](https://www.v2ex.com/t/694920) ![](assets/new.png)  
 - [2020-08-01-支付宝健康码每日自动截图有没有好的方法](https://www.v2ex.com/t/694919) ![](assets/new.png)  
 - [2020-08-01-PyYAML-格式化输出的问题](https://www.v2ex.com/t/694918) ![](assets/new.png)  
-- [2020-08-01-杭州移动抽了](https://www.v2ex.com/t/694917) ![](assets/new.png)  
-- [2020-08-01-个人开发者账号需要续费了？](https://www.v2ex.com/t/694916) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,24 +1117,24 @@
 
 - [2020-08-02-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
 - [2020-08-02-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
-- [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
 - [2020-08-02-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
+- [2020-08-02-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
 - [2020-08-02-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
+- [2020-08-02-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
 - [2020-08-02-Docker-容器的-“单进程模型”](https://toutiao.io/k/80lqr81) ![](assets/new.png)  
 - [2020-08-02-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [2020-08-02-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
 - [2020-08-02-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-02-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-08-02-推荐-曾梦想-if-else-走天涯？看看-“责任树模式”-优化](https://toutiao.io/k/cco702x) ![](assets/new.png)  
 - [2020-08-02-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-02-推荐-万字长文图解-Go-内存管理分析：工具、分配和回收原理](https://toutiao.io/k/fw0x414) ![](assets/new.png)  
 - [2020-08-02-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-02-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-02-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
 - [2020-08-02-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
+- [2020-08-02-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-02-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
+- [2020-08-02-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
+- [2020-08-02-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
+- [2020-08-02-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-02-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

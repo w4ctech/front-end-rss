@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-02 10:02:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-02 10:09:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2020-08-02-mac-中如何-类-mklink-使用？](https://www.v2ex.com/t/695007) 
 - [2020-08-02-你觉得人类的寿命是长还是短啊？](https://www.v2ex.com/t/695006) 
 - [2020-08-02-一加最近更新了系统，我想表达一些关于隐私的担忧](https://www.v2ex.com/t/695005) 
-- [2020-08-02-Fall-Guys-内测激活码有吗？](https://www.v2ex.com/t/695004) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 09:09:28，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 09:19:10，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-03-以色列新增416例新冠肺炎确诊病例-累计确诊73231例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuuF8TyWlGXXEvRdqo4Gy200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-菲律宾新增3226例新冠肺炎确诊病例-累计确诊106330例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQWb5DIccuylv4zCejIo200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-乌兹别克斯坦新增788例新冠肺炎确诊病例-累计确诊25828例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRZJOChXLVLLZGE1lAoZ200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-​天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF2gkLPXOpPJcP632iS5N200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-乌克兰新增990例新冠肺炎确诊病例-累计超7.3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirbuoVWJczpNRrcXYr4Nr200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-吉尔吉斯斯坦新增410例新冠肺炎确诊病例-累计确诊37129例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRGu7kIkWtTDnZyiKtbnv200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-03-有没有字节跳动的大佬出来讲讲这次的收购事件?](https://www.v2ex.com/t/695300) ![](assets/new.png)  
+- [2020-08-03-android-浏览器下载文件,-弹出下载框,没有点击-ok-其实是没有下东西的?](https://www.v2ex.com/t/695299) ![](assets/new.png)  
 - [2020-08-03-第四期德国-IT-岗位招聘之-IT-Administrator,-IT-Requirements-Manager,-IT-Project-and-Portfolio-Manager](https://www.v2ex.com/t/695298) ![](assets/new.png)  
 - [2020-08-03-咨询一下关于招标采购平台的事情，单位想要建设一个招采平台，找相关的服务商，没有头绪，求助下。](https://www.v2ex.com/t/695297) ![](assets/new.png)  
 - [2020-08-03-IOS-工程师招聘-15k-35k](https://www.v2ex.com/t/695296) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-03-🔥新加坡-技术移民机会新加坡大型上市互联网公司（提供纽交所已上市股票），寻找后台开发-leader，移动安全技术专家，数据服务技术-leader-，大数据运维技...](https://www.v2ex.com/t/695278) ![](assets/new.png)  
 - [2020-08-03-百度在吗，你们给-paypal-打的广告出问题啦](https://www.v2ex.com/t/695277) ![](assets/new.png)  
 - [2020-08-03-视频面试的时候需要看着摄像头吗？](https://www.v2ex.com/t/695276) ![](assets/new.png)  
-- [2020-08-03-某金融交易平台大量技术岗位招聘中，欢迎私聊~](https://www.v2ex.com/t/695275) ![](assets/new.png)  
-- [2020-08-03-为什么总有些人说话就喜欢说着说着然后加个英文单词？-这是习惯还是装逼？](https://www.v2ex.com/t/695274) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1120,8 +1120,8 @@
 - [2020-08-03-TF-实战（二）：前馈网络](https://toutiao.io/k/uws4ru3) ![](assets/new.png)  
 - [2020-08-03-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [2020-08-03-可笑，你竟然不知道-Java-如何生成-UUID](https://toutiao.io/k/oeayjrw) ![](assets/new.png)  
-- [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
 - [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
+- [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
 - [2020-08-03-优雅的处理-TCP-粘包](https://toutiao.io/k/r1mab78) ![](assets/new.png)  
 - [2020-08-03-怎样-Hack-Linux-的内核符号？](https://toutiao.io/k/vig0w6i) ![](assets/new.png)  

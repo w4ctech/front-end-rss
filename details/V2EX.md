@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-03 16:19:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 16:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-03-基于-Intel-处理器的-mac-会不会支持到-arm-mac-的一些特性](https://www.v2ex.com/t/695382) 
 - [2020-08-03-5V/1A-充电器电流有-1.3-1.5A-是假货吗？](https://www.v2ex.com/t/695381) 
 - [2020-08-03-求推荐变声器或者语音配音包？](https://www.v2ex.com/t/695380) 
 - [2020-08-03-好想爸爸，从他走后每天都在想他](https://www.v2ex.com/t/695379) 
@@ -40,4 +41,3 @@
 - [2020-08-03-Edge-也太傻了吧](https://www.v2ex.com/t/695337) 
 - [2020-08-03-Macbook-Pro-的-type-c-口外接-4k-屏幕走的是什么协议?](https://www.v2ex.com/t/695336) 
 - [2020-08-03-听说老黄要买-ARM-？](https://www.v2ex.com/t/695335) 
-- [2020-08-03-emmmmm。想买个-vr-设备。](https://www.v2ex.com/t/695332) 

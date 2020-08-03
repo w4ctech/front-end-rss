@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-02 23:48:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 00:06:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-02-Thinkpad-x200-再次安装-Ubuntu-20.04-重启死机](https://www.v2ex.com/t/695134) 
 - [2020-08-02-有用-eizo-老机型的用户吗-ccfl-发热真的很厉害？](https://www.v2ex.com/t/695133) 
 - [2020-08-02-2015-年的-13-寸-MacBook-Pro，今天突然出现-F-键自动蹦出](https://www.v2ex.com/t/695131) 
 - [2020-08-02-iPhone-xr-11-lcd-看久了眼睛痛？-x-led-太伤眼](https://www.v2ex.com/t/695130) 
@@ -40,5 +41,3 @@
 - [2020-08-02-为回复帖设置字数下限，过滤信息垃圾，驱逐劣币--给-V-站的一个建议](https://www.v2ex.com/t/695088) 
 - [2020-08-02-从二线城市外企去蚂蚁金服期望薪资报多少合适？](https://www.v2ex.com/t/695087) 
 - [2020-08-02-感觉-MacVim-比终端-Vim-快好多](https://www.v2ex.com/t/695086) 
-- [2020-08-02-有没有好用适配-win10-的蓝牙耳机](https://www.v2ex.com/t/695085) 
-- [2020-08-02-发现一篇有趣的文章-Aforkin-the-road-,讲的是-fork-api-设计的缺点](https://www.v2ex.com/t/695084) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 15:20:02，:rocket: 更新条数: +3255， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 15:31:24，:rocket: 更新条数: +3265， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,7 +49,7 @@
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)  
+- [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-03-尼泊尔新增418例新冠肺炎确诊病例-累计确诊20750例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEjFJeh7xdqegzQz7vov6200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-刚果（布）新增536例新冠肺炎确诊病例-累计确诊3387例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizSsthQGBndkWXHesCrq2200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-保加利亚新增119例新冠肺炎确诊病例-累计确诊11955例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizBwslmrAJYnQPBEAB1rF200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-秘鲁单日新增6667例新冠肺炎病例-累计确诊病例达428850例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE4NYawtaKJjbnK6EagZz200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-香港3日新增80例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN6A7DexnKS4gyEQymVJS200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-世界卫生组织专家来华开展新冠病毒溯源科研合作预备性磋商](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7kcSemXsmNIJWfbdHY60200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-世卫组织发起口罩挑战-鼓励人们佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUO0OCV7fP1hxSl7zLen200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-世卫组织总干事：新冠肺炎导致针对其他疾病的卫生服务中断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0AMteqF1ThxQGz41EpJn200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-非洲地区新冠肺炎确诊病例超95万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieyVNwWiVpnhvjwEMNIFF200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-香港逾250人入住社区隔离及治疗设施-单日确诊数字回落至两位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYmt2ZvzSbGZMRIrlHjfD200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1000,6 +1000,16 @@
 </summary>
 
 
+- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
+- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
+- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
+- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
+- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
+- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
+- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
+- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
+- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
+- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-03-仔细思考后，我觉得阅文事件中阅文是最无辜的](https://www.v2ex.com/t/695378) ![](assets/new.png)  
 - [2020-08-03-为什么开源软件的官网内容变更不多，结构却一直变](https://www.v2ex.com/t/695377) ![](assets/new.png)  
 - [2020-08-03-Airpods-Pro-右耳有电流声-两耳耳压不同-解决了](https://www.v2ex.com/t/695376) ![](assets/new.png)  
 - [2020-08-03-让-nginx-监听-443-并提供-https-服务-这样配置为啥不行呢?](https://www.v2ex.com/t/695375) ![](assets/new.png)  
@@ -1061,7 +1072,6 @@
 - [2020-08-03-vscode-扩展疑问](https://www.v2ex.com/t/695356) ![](assets/new.png)  
 - [2020-08-03-找室友城西银泰萍水街三坝地铁站朝南带大阳台-1500-元](https://www.v2ex.com/t/695354) ![](assets/new.png)  
 - [2020-08-03-PriorityBlockingQueue-的构造器好奇怪啊？](https://www.v2ex.com/t/695350) ![](assets/new.png)  
-- [2020-08-03-iPad-Pro-到处都缺货啊](https://www.v2ex.com/t/695349) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

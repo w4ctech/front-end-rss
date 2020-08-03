@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 21:48:38，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 22:02:34，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-03-Macbook-Pro-2019-款升级-Big-Sur-之后出现掉帧花屏等现象](https://www.v2ex.com/t/695391) ![](assets/new.png)  
 - [2020-08-03-请教一个很-low-的问题，谷歌两步认证，如何把预置方式修改成短信或-Authenticator。](https://www.v2ex.com/t/695390) ![](assets/new.png)  
 - [2020-08-03-怎么量化一个游戏运气和技能所占的比重？](https://www.v2ex.com/t/695389) ![](assets/new.png)  
 - [2020-08-03-大家如何管理-iOS-共享菜单](https://www.v2ex.com/t/695388) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-03-关于-Martian-框架（原-Mars--Java-）的问题汇总](https://www.v2ex.com/t/695374) ![](assets/new.png)  
 - [2020-08-03-江西电信家宽如何获取双栈公网-IP](https://www.v2ex.com/t/695373) ![](assets/new.png)  
 - [2020-08-03-想问一下-ElasticSearch-作为大数据数据库的可能性](https://www.v2ex.com/t/695372) ![](assets/new.png)  
-- [2020-08-03-家里端口转发了-3389-到五位数的端口，但是仍然每天在被攻击。](https://www.v2ex.com/t/695371) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

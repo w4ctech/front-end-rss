@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 07:35:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 07:46:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) 
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) 
 - [2020-08-03-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
+- [2020-08-03-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-02-2020年国家网络安全宣传周数字化展会招展通知](https://sec.thief.one/article_content?a_id=cd1fb65d0281942c621081b79c8461b6) 
 - [2020-08-02-周报|CSO薪资、数据安全治理、IAST赋能企业、工信部通报名单引热...](https://sec.thief.one/article_content?a_id=9577d285a7ee1038be46b661103449c2) 
 - [2020-08-02-内核数据保护KDP:防止数据损坏的一种新平台安全技术](https://sec.thief.one/article_content?a_id=5abaf817e2851daf0858cf2256f347e0) 

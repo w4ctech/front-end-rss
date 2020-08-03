@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 07:35:28，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 07:46:32，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-03-乌兹别克斯坦新增788例新冠肺炎确诊病例-累计确诊25828例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRZJOChXLVLLZGE1lAoZ200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-哈萨克斯坦新增新冠肺炎确诊病例1069例-降低病亡率是主要任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin47qWPnVaOxNJUlQEdvY200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-印度新增52972例新冠肺炎病例-累计确诊达1803695例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib0xrC5wy27HF77vECmGT200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-新加坡要求部分入境者佩戴电子追踪器](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipHoif1Mai56PATPJ95Or200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-大连目前现有病例主要集中在凯洋公司所在的甘井子区大连湾街道-占全部病例83%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXtD00VFyWLYPIlA18osf200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-失业救济金“断粮”-多项数据亮红灯-美国经济复苏前景不明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articdi153LwWtPw8otoUlHg200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-03-老铁们觉得我做的对吗？](https://www.v2ex.com/t/695267) ![](assets/new.png)  
+- [2020-08-03-大佬们求救，慢-SQL-问题](https://www.v2ex.com/t/695266) ![](assets/new.png)  
+- [2020-08-03-youtube-premium-印度-收人](https://www.v2ex.com/t/695265) ![](assets/new.png)  
 - [2020-08-03-期货赔钱后还有什么办法能挽回一些损失吗？](https://www.v2ex.com/t/695264) ![](assets/new.png)  
 - [2020-08-03-iPhone-7-home-键坏了，有必要花-1000-多修一下吗，还是等等新的-iPhone-12，或者换个-iPhone-SE2](https://www.v2ex.com/t/695263) ![](assets/new.png)  
 - [2020-08-03-当初选了-LPR-的现在怎么样了?](https://www.v2ex.com/t/695262) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-03-端传媒五周年，-8-月-3-7-日开放全站-15000-篇深度内容，每日解密抽会员](https://www.v2ex.com/t/695247) ![](assets/new.png)  
 - [2020-08-03-短信大促-冰点价开卖，华为-Mate30-pro-手机、iWatch-等豪礼相送](https://www.v2ex.com/t/695246) ![](assets/new.png)  
 - [2020-08-03-有没有在-mac-使用-filezilla-的大佬](https://www.v2ex.com/t/695245) ![](assets/new.png)  
-- [2020-08-03-有没有对编程感兴趣的小朋友，想学习编程？](https://www.v2ex.com/t/695244) ![](assets/new.png)  
-- [2020-08-03-我也想要菊次郎の夏……](https://www.v2ex.com/t/695243) ![](assets/new.png)  
-- [2020-08-03-ps4-有什么不错的第三方手柄吗？](https://www.v2ex.com/t/695242) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 05:02:45，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 05:09:27，:rocket: 更新条数: +3257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -49,7 +49,7 @@
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
 - [印记中文周刊](#印记中文周刊)  
-- [编程之上](#编程之上)![](assets/dot.png)   
+- [编程之上](#编程之上)  
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
@@ -1000,16 +1000,6 @@
 </summary>
 
 
-- [2019-12-31-2019-年终总结](https://www.ershicimi.com/p/b949bc84ea43fff88bc5f625c36d1ff2) ![](assets/new.png)  
-- [2019-10-28-git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0) ![](assets/new.png)  
-- [2019-10-24-谨以此文祝福和致敬每一位前端开发工程师](https://www.ershicimi.com/p/6d816f7790a1749c2c5a7200e21509e9) ![](assets/new.png)  
-- [2019-10-20-Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e) ![](assets/new.png)  
-- [2019-10-17-前端初级](https://www.ershicimi.com/p/096d1dfd1531bcecfc03ab0458ea74b4) ![](assets/new.png)  
-- [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) ![](assets/new.png)  
-- [2019-10-15-我对前端架构师的定义](https://www.ershicimi.com/p/09d16f86b75a6ff5bbc5c667bbb8852f) ![](assets/new.png)  
-- [2019-10-13-《大教堂和集市》读后感](https://www.ershicimi.com/p/9e6ceb502c6c24d7c64d1bb37050ab54) ![](assets/new.png)  
-- [2019-10-12-8年前端开发的知识点沉淀](https://www.ershicimi.com/p/5ad2787db89e3a25ac5c22ca871a834d) ![](assets/new.png)  
-- [2019-10-12-如何有效学习](https://www.ershicimi.com/p/1293c0119716d13928777c74962e567a) ![](assets/new.png)  
 - [......【查看更多】......](./details/编程之上.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1130,8 +1120,8 @@
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) ![](assets/new.png)  
 - [2020-08-03-Kubenetes-之新手入门篇](https://toutiao.io/k/7lwkuc2) ![](assets/new.png)  
-- [2020-08-03-如何选择-WebGL-框架和引擎？](https://toutiao.io/k/y5psg7p) ![](assets/new.png)  
 - [2020-08-03-简单盘点-CVPR-2020-的图像合成论文](https://toutiao.io/k/l5s6036) ![](assets/new.png)  
+- [2020-08-03-如何选择-WebGL-框架和引擎？](https://toutiao.io/k/y5psg7p) ![](assets/new.png)  
 - [2020-08-03-聊聊对称加密与非对称加密](https://toutiao.io/k/w2g8tdj) ![](assets/new.png)  
 - [2020-08-03-如何让两个线程-“系鞋带”](https://toutiao.io/k/yywpiq6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

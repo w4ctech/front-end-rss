@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 16:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -25,6 +25,10 @@
 - [2020-07-28-【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e) 
 - [2020-07-27-【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172) 
 - [2020-07-22-【招聘】北京数猎天下科技招高级前端工程师](https://www.ershicimi.com/p/e593d85cf0a5816d38345d2f408a6300) 
+- [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43) 
+- [2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845) 
+- [2020-07-24-面试字节-25k-岗，3-道题就被干掉](https://www.ershicimi.com/p/9616627378c35c21a0d5f8bee4b8c7bc) 
+- [2020-07-22-面了个-4-年的前端，给你排排面试中的坑](https://www.ershicimi.com/p/e71ddccd351ecc4a19c49b55f4dba547) 
 - [2020-07-30-蚂蚁、字节、滴滴面试经历总结都已过](https://www.ershicimi.com/p/8dc90b9888f39f8df50a9ce0c71726dd) 
 - [2020-07-27-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/8f5cb92d83016cc2cea02da1fb0fe8c2) 
 - [2020-07-22-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/d7578a012e926a3e696b2b038ddcf581) 

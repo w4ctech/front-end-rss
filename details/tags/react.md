@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 16:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -11,6 +11,7 @@
 - [2019-11-15-你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090) 
 - [2020-07-30-【招聘】上海Treelab招高级前端架构师、高级React开发工程师](https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8) 
 - [2020-07-26-【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b) 
+- [2020-07-26-React-中请求远程数据的四种方法](https://www.ershicimi.com/p/c5e0fd93a49fda8d7b528ac192b8d9e5) 
 - [2020-02-13-工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040) 
 - [2020-02-12-工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590) 
 - [2020-02-11-工具控babel-react-optimize](https://www.ershicimi.com/p/87be70d3d4719eedb42df24f6303ca69) 

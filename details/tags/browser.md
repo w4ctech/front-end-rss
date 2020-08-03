@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 16:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,8 @@
 - [2020-07-30-Chrome插件英雄榜都有啥？](https://www.ershicimi.com/p/7a546ad42ea9b98d8d417064fbe56e12) 
 - [2020-07-29-Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43) 
 - [2020-07-28-彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a) 
+- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) 
 - [2020-07-21-一个神秘URL酿大祸，差点让我背锅！](https://www.ershicimi.com/p/1a5833bbfdf6bc827d1d3749eec38cf5) 
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
 - [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 
@@ -41,6 +43,7 @@
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) 
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) 
 - [2020-08-03-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
+- [2020-08-03-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-03-媒体关注|“安全框架”进入北京网络安全大会主题](https://sec.thief.one/article_content?a_id=e29ebdf023b4694ec739e4b7afde5943) 
 - [2020-08-03-ISC-2020-互联网安全大会——筑梦八载,再启华章!](https://sec.thief.one/article_content?a_id=1593c7a5fcd173589515b2d897c82085) 
 - [2020-08-03-Black-Hat-2020上的11大网络安全工具](https://sec.thief.one/article_content?a_id=272df87f01aca14b28f3e815a080f708) 

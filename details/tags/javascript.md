@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 16:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,6 +37,9 @@
 - [2020-08-02-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) 
 - [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) 
 - [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) 
+- [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
+- [2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051) 
+- [2020-07-24-妙用-CSS变量，让你的-CSS-变得更心动](https://www.ershicimi.com/p/dde433f9208b7a5f5f0279def3beddfa) 
 - [2020-08-03-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/857f78c739dbb63c0434f44cb6385b59) 
 - [2020-07-28-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/9beb6c8042b863dbc3d05588042475fd) 
 - [2020-07-24-2020年6月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/88f1ab66fdb1e0ab57948af621fd3159) 
@@ -92,6 +95,7 @@
 - [2020-08-03-说说佳明被勒索事件](https://www.v2ex.com/t/695340) 
 - [2020-08-03-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-03-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
+- [2020-08-03-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
 - [2020-08-03-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
 - [2020-08-02-三名黑客劫持Twitter账号攻击事件细节披露](https://sec.thief.one/article_content?a_id=25d3958410158ecaf9d04abec5a69c9d) 
 - [2020-08-02-安全意识:推特公布泄漏事件最新进展黑客伪装成同事骗取员工凭证](https://sec.thief.one/article_content?a_id=078d3625cd7c3dda3950fec79a9f0b29) 

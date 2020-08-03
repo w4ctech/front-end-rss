@@ -11,18 +11,18 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 15:48:13，:rocket: 更新条数: +3246， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 16:02:45，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
 - [React中文社区](#react中文社区)![](assets/dot.png)   
 - [前端早读课](#前端早读课)![](assets/dot.png)   
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端开发](#前端开发)![](assets/dot.png)   
 - [前端圈](#前端圈)![](assets/dot.png)   
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-08-03-世界卫生组织专家来华开展新冠病毒溯源科研合作预备性磋商](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7kcSemXsmNIJWfbdHY60200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-世卫组织发起口罩挑战-鼓励人们佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUO0OCV7fP1hxSl7zLen200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-世卫组织总干事：新冠肺炎导致针对其他疾病的卫生服务中断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0AMteqF1ThxQGz41EpJn200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-非洲地区新冠肺炎确诊病例超95万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieyVNwWiVpnhvjwEMNIFF200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-香港逾250人入住社区隔离及治疗设施-单日确诊数字回落至两位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYmt2ZvzSbGZMRIrlHjfD200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -260,6 +255,26 @@
 </summary>
 
 
+- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) ![](assets/new.png)  
+- [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728) ![](assets/new.png)  
+- [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971) ![](assets/new.png)  
+- [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43) ![](assets/new.png)  
+- [2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845) ![](assets/new.png)  
+- [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) ![](assets/new.png)  
+- [2020-07-28-聊聊-NPM-镜像那些险象环生的坑](https://www.ershicimi.com/p/8f5b4cd6864a1329bf711103f7e4a5a4) ![](assets/new.png)  
+- [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45) ![](assets/new.png)  
+- [2020-07-26-React-中请求远程数据的四种方法](https://www.ershicimi.com/p/c5e0fd93a49fda8d7b528ac192b8d9e5) ![](assets/new.png)  
+- [2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051) ![](assets/new.png)  
+- [2020-07-24-面试字节-25k-岗，3-道题就被干掉](https://www.ershicimi.com/p/9616627378c35c21a0d5f8bee4b8c7bc) ![](assets/new.png)  
+- [2020-07-24-妙用-CSS变量，让你的-CSS-变得更心动](https://www.ershicimi.com/p/dde433f9208b7a5f5f0279def3beddfa) ![](assets/new.png)  
+- [2020-07-23-什么时候适合使用-Map-而不是-Object](https://www.ershicimi.com/p/b16865d2066f80e17aa3a990047714cc) ![](assets/new.png)  
+- [2020-07-23-面向对象：通过你，我走近我自己](https://www.ershicimi.com/p/2e102ab6af414175b4c398585362cf16) ![](assets/new.png)  
+- [2020-07-22-面了个-4-年的前端，给你排排面试中的坑](https://www.ershicimi.com/p/e71ddccd351ecc4a19c49b55f4dba547) ![](assets/new.png)  
+- [2020-07-22-整理几个超实用的前端提效-shell-命令](https://www.ershicimi.com/p/ea92262ac48fd3391db766127bdcc1b4) ![](assets/new.png)  
+- [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) ![](assets/new.png)  
+- [2020-07-20-微信支持-H5-跳转-App、跳转小程序](https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7) ![](assets/new.png)  
+- [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b) ![](assets/new.png)  
+- [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

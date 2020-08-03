@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 10:18:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 10:31:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -45,4 +45,3 @@
 - [2020-08-03-大佬们求救，慢-SQL-问题](https://www.v2ex.com/t/695266) 
 - [2020-08-03-youtube-premium-印度-收人](https://www.v2ex.com/t/695265) 
 - [2020-08-03-期货赔钱后还有什么办法能挽回一些损失吗？](https://www.v2ex.com/t/695264) 
-- [2020-08-03-iPhone-7-home-键坏了，有必要花-1000-多修一下吗，还是等等新的-iPhone-12，或者换个-iPhone-SE2](https://www.v2ex.com/t/695263) 

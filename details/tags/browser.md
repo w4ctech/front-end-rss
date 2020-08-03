@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 10:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 10:48:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -38,6 +38,8 @@
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
 - [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
+- [2020-08-03-android-浏览器下载文件,-弹出下载框,没有点击-ok-其实是没有下东西的?](https://www.v2ex.com/t/695299) 
+- [2020-08-03-🔥新加坡-技术移民机会新加坡大型上市互联网公司（提供纽交所已上市股票），寻找后台开发-leader，移动安全技术专家，数据服务技术-leader-，大数据运维技...](https://www.v2ex.com/t/695278) 
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) 
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) 
 - [2020-08-03-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 

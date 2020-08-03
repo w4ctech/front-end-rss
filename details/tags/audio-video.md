@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 10:46:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 10:48:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -88,6 +88,9 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
+- [2020-08-03-8-月直播课抢先看-|-代码质量实战-+-微服务项目实战课程报名中](https://www.v2ex.com/t/695316) 
+- [2020-08-03-映客直播的后端-golang-岗位咋样？](https://www.v2ex.com/t/695295) 
+- [2020-08-03-视频面试的时候需要看着摄像头吗？](https://www.v2ex.com/t/695276) 
 - [2020-08-03-简单盘点-CVPR-2020-的图像合成论文](https://toutiao.io/k/l5s6036) 
 - [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) 
 - [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) 

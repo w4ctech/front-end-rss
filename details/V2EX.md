@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-03 17:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 17:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-03-吐槽-Money-Pro-这个单身狗记账软件](https://www.v2ex.com/t/695384) 
 - [2020-08-03-Pixel-4a-官网可以预定了](https://www.v2ex.com/t/695383) 
 - [2020-08-03-基于-Intel-处理器的-mac-会不会支持到-arm-mac-的一些特性](https://www.v2ex.com/t/695382) 
 - [2020-08-03-5V/1A-充电器电流有-1.3-1.5A-是假货吗？](https://www.v2ex.com/t/695381) 

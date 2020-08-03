@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 22:48:30，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 23:02:57，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-03-请教显示器接口问题](https://www.v2ex.com/t/695392) ![](assets/new.png)  
 - [2020-08-03-Macbook-Pro-2019-款升级-Big-Sur-之后出现掉帧花屏等现象](https://www.v2ex.com/t/695391) ![](assets/new.png)  
 - [2020-08-03-请教一个很-low-的问题，谷歌两步认证，如何把预置方式修改成短信或-Authenticator。](https://www.v2ex.com/t/695390) ![](assets/new.png)  
 - [2020-08-03-怎么量化一个游戏运气和技能所占的比重？](https://www.v2ex.com/t/695389) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-03-让-nginx-监听-443-并提供-https-服务-这样配置为啥不行呢?](https://www.v2ex.com/t/695375) ![](assets/new.png)  
 - [2020-08-03-关于-Martian-框架（原-Mars--Java-）的问题汇总](https://www.v2ex.com/t/695374) ![](assets/new.png)  
 - [2020-08-03-江西电信家宽如何获取双栈公网-IP](https://www.v2ex.com/t/695373) ![](assets/new.png)  
-- [2020-08-03-想问一下-ElasticSearch-作为大数据数据库的可能性](https://www.v2ex.com/t/695372) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,8 +1142,8 @@
 - [2020-08-03-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [2020-08-03-Kubenetes-之新手入门篇](https://toutiao.io/k/7lwkuc2) ![](assets/new.png)  
 - [2020-08-03-优雅的处理-TCP-粘包](https://toutiao.io/k/r1mab78) ![](assets/new.png)  
-- [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
 - [2020-08-03-如何在-5-分钟内注册一个美区-Apple-ID](https://toutiao.io/k/xcl3jg7) ![](assets/new.png)  
+- [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
 - [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  

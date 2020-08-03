@@ -1,11 +1,10 @@
-:alarm_clock: 更新时间: 2020-08-03 00:50:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 01:02:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-08-03-三星关闭在中国最后一家电脑工厂,-产线将迁至越南,-现在去越南还来得及吗?](https://www.v2ex.com/t/695138) 
 - [2020-08-03-iphone11-晚上待机耗电也太恐怖了吧一晚掉-30%多](https://www.v2ex.com/t/695136) 
 - [2020-08-02-Thinkpad-x200-再次安装-Ubuntu-20.04-重启死机](https://www.v2ex.com/t/695134) 
 - [2020-08-02-有用-eizo-老机型的用户吗-ccfl-发热真的很厉害？](https://www.v2ex.com/t/695133) 

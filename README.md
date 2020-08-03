@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 07:48:26，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 08:02:39，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,10 +96,10 @@
 
 
 - [2020-08-03-乌兹别克斯坦新增788例新冠肺炎确诊病例-累计确诊25828例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRZJOChXLVLLZGE1lAoZ200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-​天津新增1例境外输入无症状感染者](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF2gkLPXOpPJcP632iS5N200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-乌克兰新增990例新冠肺炎确诊病例-累计超7.3万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirbuoVWJczpNRrcXYr4Nr200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-吉尔吉斯斯坦新增410例新冠肺炎确诊病例-累计确诊37129例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRGu7kIkWtTDnZyiKtbnv200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-哈萨克斯坦新增新冠肺炎确诊病例1069例-降低病亡率是主要任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin47qWPnVaOxNJUlQEdvY200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-印度新增52972例新冠肺炎病例-累计确诊达1803695例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib0xrC5wy27HF77vECmGT200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-新加坡要求部分入境者佩戴电子追踪器](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipHoif1Mai56PATPJ95Or200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-大连目前现有病例主要集中在凯洋公司所在的甘井子区大连湾街道-占全部病例83%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXtD00VFyWLYPIlA18osf200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-03-AMD-+多显卡A/N的黑果双系统可能性讨论](https://www.v2ex.com/t/695273) ![](assets/new.png)  
+- [2020-08-03-新版本-QQ](https://www.v2ex.com/t/695272) ![](assets/new.png)  
+- [2020-08-03-现在的网站-click-点击太累了，把所有的-click-换成-hover-怎么样？](https://www.v2ex.com/t/695270) ![](assets/new.png)  
+- [2020-08-03-找个兼职前端，时薪制，会做小程序的，有空余时间的考虑下呗](https://www.v2ex.com/t/695269) ![](assets/new.png)  
 - [2020-08-03-老铁们觉得我做的对吗？](https://www.v2ex.com/t/695267) ![](assets/new.png)  
 - [2020-08-03-大佬们求救，慢-SQL-问题](https://www.v2ex.com/t/695266) ![](assets/new.png)  
 - [2020-08-03-youtube-premium-印度-收人](https://www.v2ex.com/t/695265) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-03-NBA2k20-还值得入手吗？下个月就出-21-了，还是曼巴纪念版](https://www.v2ex.com/t/695253) ![](assets/new.png)  
 - [2020-08-03-深圳内推-明源云客-双休，单周下午茶等优秀福利等你！](https://www.v2ex.com/t/695252) ![](assets/new.png)  
 - [2020-08-03-image-object-能直接转-file-object-么](https://www.v2ex.com/t/695250) ![](assets/new.png)  
-- [2020-08-03-离职拿到-offer-前，需要通知公司么？](https://www.v2ex.com/t/695248) ![](assets/new.png)  
-- [2020-08-03-端传媒五周年，-8-月-3-7-日开放全站-15000-篇深度内容，每日解密抽会员](https://www.v2ex.com/t/695247) ![](assets/new.png)  
-- [2020-08-03-短信大促-冰点价开卖，华为-Mate30-pro-手机、iWatch-等豪礼相送](https://www.v2ex.com/t/695246) ![](assets/new.png)  
-- [2020-08-03-有没有在-mac-使用-filezilla-的大佬](https://www.v2ex.com/t/695245) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

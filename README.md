@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 01:02:32，:rocket: 更新条数: +3253， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 01:09:39，:rocket: 更新条数: +3252， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-03-几种空调消毒剂的个人向测试](https://www.v2ex.com/t/695143) ![](assets/new.png)  
+- [2020-08-03-合同到期，涨薪多少合适。](https://www.v2ex.com/t/695142) ![](assets/new.png)  
+- [2020-08-03-浏览器下载速度会更慢吗？为什么？](https://www.v2ex.com/t/695141) ![](assets/new.png)  
+- [2020-08-03-安卓微信怎么把语音通话记录（而非语音消息）备份或迁移？](https://www.v2ex.com/t/695139) ![](assets/new.png)  
 - [2020-08-03-iphone11-晚上待机耗电也太恐怖了吧一晚掉-30%多](https://www.v2ex.com/t/695136) ![](assets/new.png)  
 - [2020-08-02-Thinkpad-x200-再次安装-Ubuntu-20.04-重启死机](https://www.v2ex.com/t/695134) ![](assets/new.png)  
 - [2020-08-02-有用-eizo-老机型的用户吗-ccfl-发热真的很厉害？](https://www.v2ex.com/t/695133) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-02-吐槽-简书为什么老是维护啊，动辄一星期](https://www.v2ex.com/t/695117) ![](assets/new.png)  
 - [2020-08-02-14-beta-3-把存储空间占用问题解决了](https://www.v2ex.com/t/695115) ![](assets/new.png)  
 - [2020-08-02-3000-4000-预算的黑苹果，能搞到什么配置？](https://www.v2ex.com/t/695114) ![](assets/new.png)  
-- [2020-08-02-有没有大佬用-homeAssistant-交流请教下](https://www.v2ex.com/t/695113) ![](assets/new.png)  
-- [2020-08-02-关于-MBP-2016-带-bar-加内存问题](https://www.v2ex.com/t/695111) ![](assets/new.png)  
-- [2020-08-02-何同学新一期的视频创意真的很好。](https://www.v2ex.com/t/695110) ![](assets/new.png)  
-- [2020-08-02-请教一个数据结构设计问题!](https://www.v2ex.com/t/695109) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,11 +1117,11 @@
 - [2020-08-03-如何使用-Spark-3.0-中新加的-Structured-Streaming-UI-来进行异常分析](https://toutiao.io/k/bltc086) ![](assets/new.png)  
 - [2020-08-03-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-03-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
+- [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
 - [2020-08-03-怎样-Hack-Linux-的内核符号？](https://toutiao.io/k/vig0w6i) ![](assets/new.png)  
-- [2020-08-03-可笑，你竟然不知道-Java-如何生成-UUID](https://toutiao.io/k/oeayjrw) ![](assets/new.png)  
 - [2020-08-03-一次-Django-内存异常排查实践](https://toutiao.io/k/yrswi85) ![](assets/new.png)  
+- [2020-08-03-可笑，你竟然不知道-Java-如何生成-UUID](https://toutiao.io/k/oeayjrw) ![](assets/new.png)  
 - [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
 - [2020-08-03-TF-实战（二）：前馈网络](https://toutiao.io/k/uws4ru3) ![](assets/new.png)  
 - [2020-08-03-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
@@ -1129,11 +1129,11 @@
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) ![](assets/new.png)  
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-03-优雅的处理-TCP-粘包](https://toutiao.io/k/r1mab78) ![](assets/new.png)  
+- [2020-08-03-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [2020-08-03-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
-- [2020-08-03-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-03-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-03-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
-- [2020-08-03-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
+- [2020-08-03-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-03-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-03-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

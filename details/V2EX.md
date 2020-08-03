@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-03 17:17:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 17:31:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-03-关于安卓软件"读取应用列表"权限求解](https://www.v2ex.com/t/695385) 
 - [2020-08-03-吐槽-Money-Pro-这个单身狗记账软件](https://www.v2ex.com/t/695384) 
 - [2020-08-03-Pixel-4a-官网可以预定了](https://www.v2ex.com/t/695383) 
 - [2020-08-03-基于-Intel-处理器的-mac-会不会支持到-arm-mac-的一些特性](https://www.v2ex.com/t/695382) 
@@ -42,4 +43,3 @@
 - [2020-08-03-《我的公司-996》在蒸汽上架了](https://www.v2ex.com/t/695338) 
 - [2020-08-03-Edge-也太傻了吧](https://www.v2ex.com/t/695337) 
 - [2020-08-03-Macbook-Pro-的-type-c-口外接-4k-屏幕走的是什么协议?](https://www.v2ex.com/t/695336) 
-- [2020-08-03-听说老黄要买-ARM-？](https://www.v2ex.com/t/695335) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 17:17:54，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 17:31:56，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-03-关于安卓软件"读取应用列表"权限求解](https://www.v2ex.com/t/695385) ![](assets/new.png)  
 - [2020-08-03-吐槽-Money-Pro-这个单身狗记账软件](https://www.v2ex.com/t/695384) ![](assets/new.png)  
 - [2020-08-03-Pixel-4a-官网可以预定了](https://www.v2ex.com/t/695383) ![](assets/new.png)  
 - [2020-08-03-基于-Intel-处理器的-mac-会不会支持到-arm-mac-的一些特性](https://www.v2ex.com/t/695382) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-03-降薪+多招人+减少工作时间，能否让中国互联网行业更健康？](https://www.v2ex.com/t/695366) ![](assets/new.png)  
 - [2020-08-03-有没有在上沙、下沙租房的朋友](https://www.v2ex.com/t/695365) ![](assets/new.png)  
 - [2020-08-03-请问-WordPress-有没有批量替换失效图片为一个固定图片的方法？](https://www.v2ex.com/t/695364) ![](assets/new.png)  
-- [2020-08-03-求勿喷，某宝上的应用兑换码可靠吗？](https://www.v2ex.com/t/695363) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

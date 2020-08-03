@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 02:19:49，:rocket: 更新条数: +3254， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 02:31:29，:rocket: 更新条数: +3258， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,14 +66,15 @@
 
 - [2020-08-02-8月2日全国新增新冠43例-本土36例境外输入7例](https://m.caixin.com/m/2020-08-03/101587838.html) ![](assets/new.png)  
 - [2020-08-02-哈尔滨新冠感染家庭的后续困境](https://m.caixin.com/m/2020-08-03/101587860.html) ![](assets/new.png)  
+- [2020-08-02-特稿|疫情下，打工子弟的网课、辍学与返乡](https://m.caixin.com/m/2020-08-03/101587877.html) ![](assets/new.png)  
 - [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
 - [2020-08-01-最新海外疫情：新冠感染者超1772万-累计死亡超68万](http://m.international.caixin.com/m/2020-08-02/101587770.html) ![](assets/new.png)  
 - [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
 - [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
-- [2020-07-31-香港方舱医院收治首批患者-内地核酸检测支援队明日赴港](https://m.caixin.com/m/2020-08-01/101587648.html) ![](assets/new.png)  
 - [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
 - [2020-07-31-大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首-越南首现死亡病例](https://m.caixin.com/m/2020-08-01/101587433.html) ![](assets/new.png)  
+- [2020-07-31-香港方舱医院收治首批患者-内地核酸检测支援队明日赴港](https://m.caixin.com/m/2020-08-01/101587648.html) ![](assets/new.png)  
 - [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
 - [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
 - [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
 - [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
 - [2020-07-29-北京疫情风险分区划定至社区-新增病例为天通苑女患者外孙](https://m.caixin.com/m/2020-07-30/101586449.html) ![](assets/new.png)  
-- [2020-07-29-大连新冠病例8天确诊57例-已扩散至北京等五地](http://m.companies.caixin.com/m/2020-07-30/101586314.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -854,6 +854,12 @@
 </summary>
 
 
+- [2020-08-03-湖南一男子通过“翻墙”软件访问境外色情网站，被行政处罚](https://www.ershicimi.com/p/0bfa7d9a7a2ad71fa7aa80f13497c727) ![](assets/new.png)  
+- [2020-08-03-再见，Navicat！同事安利的这个IDEA的兄弟，真香！](https://www.ershicimi.com/p/f3427bf7ed0cfe40b34f3ec32b855f07) ![](assets/new.png)  
+- [2020-08-03-天天用-Spring，bean-实例化原理你懂吗？](https://www.ershicimi.com/p/7c092ee71466ae5bc3c51960aeb2c4bd) ![](assets/new.png)  
+- [2020-08-02-惊呆了！JDK1.8竟然打破了我对接口的一切认知...](https://www.ershicimi.com/p/95cbfea0e49e0a5b2b39dc307c997dbd) ![](assets/new.png)  
+- [2020-08-02-腾讯面试题：如何实现一个类似新浪微博的短链接服务！](https://www.ershicimi.com/p/422c4cddd405f8ef77f7074ea3500210) ![](assets/new.png)  
+- [2020-08-02-100-个网络基础知识，看完成半个网络高手](https://www.ershicimi.com/p/fc61e2dfe83635aea459dc9364f5fbeb) ![](assets/new.png)  
 - [2020-08-01-从-Java-9-开始，Java-就华丽的转身为微服务了…](https://www.ershicimi.com/p/979b608635abe0ae7d48c409fc4406bd) ![](assets/new.png)  
 - [2020-08-01-同事1000行"又臭又长"-的类！被我用IDEA几分钟重构！真香！](https://www.ershicimi.com/p/08b2089511adfdb9d47a2b759305c51f) ![](assets/new.png)  
 - [2020-08-01-Spring-Boot-项目如何做性能监控？](https://www.ershicimi.com/p/e4f5be331fa439d9662102d1ccee4826) ![](assets/new.png)  
@@ -868,12 +874,6 @@
 - [2020-07-29-拥抱-Java-8-并行流吧，速度飞起！](https://www.ershicimi.com/p/772427b44c472865e3cc06ffe43b3083) ![](assets/new.png)  
 - [2020-07-28-SQL-查找是否"存在"，别再-count-了，很耗费时间的！](https://www.ershicimi.com/p/bb949dc181f6e63dc10a883ece437107) ![](assets/new.png)  
 - [2020-07-28-可怕！你没看错，这次确实是纯手工实现一个MyBatis框架！](https://www.ershicimi.com/p/cc47c2450634e28a622e177504d34512) ![](assets/new.png)  
-- [2020-07-28-高并发系统设计的-2-个要点，一定要看！](https://www.ershicimi.com/p/3bb5ee5ca979e087ce2d6288c81daea7) ![](assets/new.png)  
-- [2020-07-27-2个月面了鹅厂的5个部门，心态差点奔溃了......](https://www.ershicimi.com/p/d61f8934e95f8572a5c8e33f72b5d9ac) ![](assets/new.png)  
-- [2020-07-27-网易开源分布式存储系统-Curve，性能彪悍！这是要吊打阿里？](https://www.ershicimi.com/p/c16e1d5dfa3a1658d3883dc3e8a3cc99) ![](assets/new.png)  
-- [2020-07-27-完美，竟然用一个脚本就把系统升级到https了，且永久免费！](https://www.ershicimi.com/p/7de541eefca844a5ffa43013bea592c0) ![](assets/new.png)  
-- [2020-07-26-对-Java-意义重大的-7-个性能指标](https://www.ershicimi.com/p/b2ab8dd48d9b4db0b61e8874cc14ef40) ![](assets/new.png)  
-- [2020-07-26-8-种单例模式写法，助你搞定面试！](https://www.ershicimi.com/p/0ecddc3c9c822b0c544d63ab606adb7e) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,10 +1052,12 @@
 </summary>
 
 
+- [2020-08-03-南京社招-魔格诚招安卓和-PHP-开发工程师，欢迎来撩~](https://www.v2ex.com/t/695172) ![](assets/new.png)  
+- [2020-08-03-七牛云联合云上钢琴，推动智慧教育生态繁荣](https://www.v2ex.com/t/695171) ![](assets/new.png)  
+- [2020-08-03-写了个小脚本，一键在-VPS-上搭建-Linux-远程桌面，支持浏览器直接访问使用](https://www.v2ex.com/t/695170) ![](assets/new.png)  
 - [2020-08-03-社招-阿里巴巴-淘宝天猫海外事业部-商家团队-Java-工程师-P6/P7-Base-杭州-西溪园区](https://www.v2ex.com/t/695168) ![](assets/new.png)  
 - [2020-08-03-请教，新入手了群晖，已经存了很多电影的硬盘能够不格式化加入到群晖里面吗，请教方法](https://www.v2ex.com/t/695166) ![](assets/new.png)  
 - [2020-08-03-js-事件委托，如何对嵌套的对象进行事件绑定？](https://www.v2ex.com/t/695165) ![](assets/new.png)  
-- [2020-08-03-求求你们这群富-B-不要发帖诉苦了，好吗？](https://www.v2ex.com/t/695164) ![](assets/new.png)  
 - [2020-08-03-北京--Java-滴滴体验平台-开放平台招聘](https://www.v2ex.com/t/695163) ![](assets/new.png)  
 - [2020-08-03-有没有人重新写过-hadoop](https://www.v2ex.com/t/695161) ![](assets/new.png)  
 - [2020-08-03-SSD-有风险，存储重要数据需谨慎。](https://www.v2ex.com/t/695160) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-03-腾讯-CDG-内推，腾讯金融科技，支撑海量支付。](https://www.v2ex.com/t/695149) ![](assets/new.png)  
 - [2020-08-03-请教百万条数据在-MongoDB-中的去重问题](https://www.v2ex.com/t/695148) ![](assets/new.png)  
 - [2020-08-03-早睡早起的感觉好爽。。。。](https://www.v2ex.com/t/695147) ![](assets/new.png)  
-- [2020-08-03-几种空调消毒剂的个人向测试](https://www.v2ex.com/t/695143) ![](assets/new.png)  
-- [2020-08-03-合同到期，涨薪多少合适。](https://www.v2ex.com/t/695142) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,11 +1117,11 @@
 - [2020-08-03-如何使用-Spark-3.0-中新加的-Structured-Streaming-UI-来进行异常分析](https://toutiao.io/k/bltc086) ![](assets/new.png)  
 - [2020-08-03-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-03-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-03-可笑，你竟然不知道-Java-如何生成-UUID](https://toutiao.io/k/oeayjrw) ![](assets/new.png)  
 - [2020-08-03-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-03-可笑，你竟然不知道-Java-如何生成-UUID](https://toutiao.io/k/oeayjrw) ![](assets/new.png)  
+- [2020-08-03-TF-实战（二）：前馈网络](https://toutiao.io/k/uws4ru3) ![](assets/new.png)  
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
 - [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
-- [2020-08-03-TF-实战（二）：前馈网络](https://toutiao.io/k/uws4ru3) ![](assets/new.png)  
 - [2020-08-03-怎样-Hack-Linux-的内核符号？](https://toutiao.io/k/vig0w6i) ![](assets/new.png)  
 - [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
 - [2020-08-03-一次-Django-内存异常排查实践](https://toutiao.io/k/yrswi85) ![](assets/new.png)  
@@ -1129,11 +1129,11 @@
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-03-优雅的处理-TCP-粘包](https://toutiao.io/k/r1mab78) ![](assets/new.png)  
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) ![](assets/new.png)  
-- [2020-08-03-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-03-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-03-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-03-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-03-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-03-如何让两个线程-“系鞋带”](https://toutiao.io/k/yywpiq6) ![](assets/new.png)  
+- [2020-08-03-简单盘点-CVPR-2020-的图像合成论文](https://toutiao.io/k/l5s6036) ![](assets/new.png)  
+- [2020-08-03-Kubenetes-之新手入门篇](https://toutiao.io/k/7lwkuc2) ![](assets/new.png)  
+- [2020-08-03-聊聊对称加密与非对称加密](https://toutiao.io/k/w2g8tdj) ![](assets/new.png)  
+- [2020-08-03-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

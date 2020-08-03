@@ -15,6 +15,11 @@
         "date": "2020-08-02"
       },
       {
+        "title": "特稿|疫情下，打工子弟的网课、辍学与返乡",
+        "link": "https://m.caixin.com/m/2020-08-03/101587877.html",
+        "date": "2020-08-02"
+      },
+      {
         "title": "大流行手记|8月2日：美国月增190万确诊创新高 墨尔本将实施宵禁",
         "link": "https://m.caixin.com/m/2020-08-03/101587849.html",
         "date": "2020-08-02"
@@ -40,11 +45,6 @@
         "date": "2020-08-01"
       },
       {
-        "title": "香港方舱医院收治首批患者 内地核酸检测支援队明日赴港",
-        "link": "https://m.caixin.com/m/2020-08-01/101587648.html",
-        "date": "2020-07-31"
-      },
-      {
         "title": "【境内疫情观察】新疆新增45例本土病例（7月31日）",
         "link": "http://m.database.caixin.com/m/2020-08-01/101587595.html",
         "date": "2020-07-31"
@@ -52,6 +52,11 @@
       {
         "title": "大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首 越南首现死亡病例",
         "link": "https://m.caixin.com/m/2020-08-01/101587433.html",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "香港方舱医院收治首批患者 内地核酸检测支援队明日赴港",
+        "link": "https://m.caixin.com/m/2020-08-01/101587648.html",
         "date": "2020-07-31"
       },
       {
@@ -14955,6 +14960,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "湖南一男子通过“翻墙”软件访问境外色情网站，被行政处罚",
+        "link": "https://www.ershicimi.com/p/0bfa7d9a7a2ad71fa7aa80f13497c727",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "再见，Navicat！同事安利的这个IDEA的兄弟，真香！",
+        "link": "https://www.ershicimi.com/p/f3427bf7ed0cfe40b34f3ec32b855f07",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "天天用 Spring，bean 实例化原理你懂吗？",
+        "link": "https://www.ershicimi.com/p/7c092ee71466ae5bc3c51960aeb2c4bd",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "惊呆了！JDK1.8竟然打破了我对接口的一切认知...",
+        "link": "https://www.ershicimi.com/p/95cbfea0e49e0a5b2b39dc307c997dbd",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "腾讯面试题：如何实现一个类似新浪微博的短链接服务！",
+        "link": "https://www.ershicimi.com/p/422c4cddd405f8ef77f7074ea3500210",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "100 个网络基础知识，看完成半个网络高手",
+        "link": "https://www.ershicimi.com/p/fc61e2dfe83635aea459dc9364f5fbeb",
+        "date": "2020-08-02"
+      },
+      {
         "title": "从 Java 9 开始，Java 就华丽的转身为微服务了…",
         "link": "https://www.ershicimi.com/p/979b608635abe0ae7d48c409fc4406bd",
         "date": "2020-08-01"
@@ -15023,36 +15058,6 @@
         "title": "可怕！你没看错，这次确实是纯手工实现一个MyBatis框架！",
         "link": "https://www.ershicimi.com/p/cc47c2450634e28a622e177504d34512",
         "date": "2020-07-28"
-      },
-      {
-        "title": "高并发系统设计的 2 个要点，一定要看！",
-        "link": "https://www.ershicimi.com/p/3bb5ee5ca979e087ce2d6288c81daea7",
-        "date": "2020-07-28"
-      },
-      {
-        "title": "2个月面了鹅厂的5个部门，心态差点奔溃了......",
-        "link": "https://www.ershicimi.com/p/d61f8934e95f8572a5c8e33f72b5d9ac",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "网易开源分布式存储系统 Curve，性能彪悍！这是要吊打阿里？",
-        "link": "https://www.ershicimi.com/p/c16e1d5dfa3a1658d3883dc3e8a3cc99",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "完美，竟然用一个脚本就把系统升级到https了，且永久免费！",
-        "link": "https://www.ershicimi.com/p/7de541eefca844a5ffa43013bea592c0",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "对 Java 意义重大的 7 个性能指标",
-        "link": "https://www.ershicimi.com/p/b2ab8dd48d9b4db0b61e8874cc14ef40",
-        "date": "2020-07-26"
-      },
-      {
-        "title": "8 种单例模式写法，助你搞定面试！",
-        "link": "https://www.ershicimi.com/p/0ecddc3c9c822b0c544d63ab606adb7e",
-        "date": "2020-07-26"
       }
     ]
   },
@@ -15609,6 +15614,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[南京][社招] 魔格诚招安卓和 PHP 开发工程师，欢迎来撩~",
+        "link": "https://www.v2ex.com/t/695172",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "七牛云联合云上钢琴，推动智慧教育生态繁荣",
+        "link": "https://www.v2ex.com/t/695171",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "写了个小脚本，一键在 VPS 上搭建 Linux 远程桌面，支持浏览器直接访问使用",
+        "link": "https://www.v2ex.com/t/695170",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[社招] [阿里巴巴] 淘宝天猫海外事业部-商家团队 Java 工程师 P6/P7 Base 杭州-西溪园区",
         "link": "https://www.v2ex.com/t/695168",
         "date": "2020-08-03"
@@ -15621,11 +15641,6 @@
       {
         "title": "js 事件委托，如何对嵌套的对象进行事件绑定？",
         "link": "https://www.v2ex.com/t/695165",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "求求你们这群富 B 不要发帖诉苦了，好吗？",
-        "link": "https://www.v2ex.com/t/695164",
         "date": "2020-08-03"
       },
       {
@@ -15756,21 +15771,6 @@
       {
         "title": "精致的你们平时有煲汤？用的什么高颜值实用锅？",
         "link": "https://www.v2ex.com/t/695126",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "港版 airpods pro 如何购买 applecare",
-        "link": "https://www.v2ex.com/t/695122",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "中德最低延迟该怎么走？",
-        "link": "https://www.v2ex.com/t/695121",
-        "date": "2020-08-02"
-      },
-      {
-        "title": "三星新发布的 SSD 870 QVO 值得购买吗？",
-        "link": "https://www.v2ex.com/t/695120",
         "date": "2020-08-02"
       }
     ]
@@ -15903,13 +15903,18 @@
         "date": "2020-08-03"
       },
       {
+        "title": "超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-03"
+      },
+      {
         "title": "可笑，你竟然不知道 Java 如何生成 UUID",
         "link": "https://toutiao.io/k/oeayjrw",
         "date": "2020-08-03"
       },
       {
-        "title": "超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "TF 实战（二）：前馈网络",
+        "link": "https://toutiao.io/k/uws4ru3",
         "date": "2020-08-03"
       },
       {
@@ -15920,11 +15925,6 @@
       {
         "title": "万恶的 NPE 差点让我半个月工资没了",
         "link": "https://toutiao.io/k/30he0qj",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "TF 实战（二）：前馈网络",
-        "link": "https://toutiao.io/k/uws4ru3",
         "date": "2020-08-03"
       },
       {
@@ -15963,28 +15963,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "如何让两个线程 “系鞋带”",
+        "link": "https://toutiao.io/k/yywpiq6",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
+        "title": "简单盘点 CVPR 2020 的图像合成论文",
+        "link": "https://toutiao.io/k/l5s6036",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
+        "title": "Kubenetes 之新手入门篇",
+        "link": "https://toutiao.io/k/7lwkuc2",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "聊聊对称加密与非对称加密",
+        "link": "https://toutiao.io/k/w2g8tdj",
         "date": "2020-08-03"
       },
       {
@@ -15993,23 +15988,13 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-03"
       },
       {
@@ -16023,18 +16008,53 @@
         "date": "2020-08-03"
       },
       {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
         "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
+        "link": "https://toutiao.io/k/e8euial",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-03"
       }
     ]

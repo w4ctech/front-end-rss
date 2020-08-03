@@ -14296,108 +14296,7 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10108",
     "title": "程序员成长指北",
     "link": "https://www.ershicimi.com/a/10108",
-    "items": [
-      {
-        "title": "揭秘几个“强”的不得了的前端公众号",
-        "link": "https://www.ershicimi.com/p/d81790fe6b17f01ab4e21f5e0f9ca4bc",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "Chrome DevTools 全攻略！助力高效开发",
-        "link": "https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6",
-        "date": "2020-08-01"
-      },
-      {
-        "title": "Hybrid 应用中 H5 与 Native 通信的那点事儿",
-        "link": "https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "让你的 commit 更有价值(规范)",
-        "link": "https://www.ershicimi.com/p/837ce051b98bbbb596958065d8c392fe",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "145道Web大厂面试真题分享",
-        "link": "https://www.ershicimi.com/p/da75835aa6c431a35ff6867c50a9938d",
-        "date": "2020-07-30"
-      },
-      {
-        "title": "2 年前端面试心路历程总结（字节跳动、YY、虎牙、BIGO）",
-        "link": "https://www.ershicimi.com/p/b285e3145c5f77b4f45dfb2cc7d79a64",
-        "date": "2020-07-30"
-      },
-      {
-        "title": "Nodejs BFF 开发 8 个月的心路历程",
-        "link": "https://www.ershicimi.com/p/460ab000c36beb9270577ec0a9c47518",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "花椒前端基于 Docker 的 SSR 持续开发集成环境实践",
-        "link": "https://www.ershicimi.com/p/de55d54617ef5488b526fd775b576d8e",
-        "date": "2020-07-29"
-      },
-      {
-        "title": "Node.js 在大前端领域的应用分析",
-        "link": "https://www.ershicimi.com/p/0d83694aff73a09ba4533abdc5180c56",
-        "date": "2020-07-28"
-      },
-      {
-        "title": "私藏已久的前端性能优化技巧大全送你！抢救你的前端性能",
-        "link": "https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "阿里大佬关于移动端体验优化经验总结",
-        "link": "https://www.ershicimi.com/p/cd5177a646f341e973bff829773cd543",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "小姐姐用动图展示 10 大 Git 命令",
-        "link": "https://www.ershicimi.com/p/02f6c94cfcc7e81a98b1c2199873db06",
-        "date": "2020-07-26"
-      },
-      {
-        "title": "你可能需要一个优质 前端Node 交流群",
-        "link": "https://www.ershicimi.com/p/2bc6b1174a30235ad49347ec4d653848",
-        "date": "2020-07-26"
-      },
-      {
-        "title": "为什么我不再用Vue，改用React？",
-        "link": "https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353",
-        "date": "2020-07-24"
-      },
-      {
-        "title": "前端登录，这一篇就够了",
-        "link": "https://www.ershicimi.com/p/2922f9d24cde11cefd14793643a37a7a",
-        "date": "2020-07-24"
-      },
-      {
-        "title": "一杯茶的时间，上手 Koa2 + MySQL 开发(实战好文)",
-        "link": "https://www.ershicimi.com/p/82981bf2fe8510c5dff13f7732691fb7",
-        "date": "2020-07-23"
-      },
-      {
-        "title": "没错，华为又对前端下手了！",
-        "link": "https://www.ershicimi.com/p/abaf6e471d8b753d574299091c02cb68",
-        "date": "2020-07-23"
-      },
-      {
-        "title": "揭发几个在前端领域“强”的不得了的公众号",
-        "link": "https://www.ershicimi.com/p/ca9ef5d3c66f88e66d82287aa92cce24",
-        "date": "2020-07-22"
-      },
-      {
-        "title": "关于前端性能优化一些总结",
-        "link": "https://www.ershicimi.com/p/5207be6e2a27c9ac27e0af4b74561dfd",
-        "date": "2020-07-22"
-      },
-      {
-        "title": "JavaScript 设计模式学习总结与感悟(开发&面试必备)",
-        "link": "https://www.ershicimi.com/p/53930947cf0c43ebebb82ff406652fad",
-        "date": "2020-07-21"
-      }
-    ]
+    "items": []
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/10545",
@@ -15792,11 +15691,6 @@
         "title": "[校招内推] 美团点评 2021 届秋季校园招聘正式启动",
         "link": "https://www.v2ex.com/t/695321",
         "date": "2020-08-03"
-      },
-      {
-        "title": "苏州，招聘 NodeJS 工程师， 8k - 15k",
-        "link": "https://www.v2ex.com/t/695320",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -16013,43 +15907,8 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
-        "link": "https://toutiao.io/k/zidka9w",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
-        "link": "https://toutiao.io/k/e8euial",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
         "date": "2020-08-03"
       },
       {
@@ -16058,13 +15917,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
+        "link": "https://toutiao.io/k/e8euial",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
+        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
+        "link": "https://toutiao.io/k/zidka9w",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-03"
       },
       {
@@ -16073,18 +15942,43 @@
         "date": "2020-08-03"
       },
       {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
         "link": "https://toutiao.io/k/vqn7rz6",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-03"
       }
     ]

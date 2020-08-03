@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 03:33:22，:rocket: 更新条数: +774， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 03:46:37，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
+- [2020-08-02-8月2日全国新增新冠43例-本土36例境外输入7例](https://m.caixin.com/m/2020-08-03/101587838.html) ![](assets/new.png)  
+- [2020-08-02-哈尔滨新冠感染家庭的后续困境](https://m.caixin.com/m/2020-08-03/101587860.html) ![](assets/new.png)  
+- [2020-08-02-特稿|疫情下，打工子弟的网课、辍学与返乡](https://m.caixin.com/m/2020-08-03/101587877.html) ![](assets/new.png)  
+- [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
+- [2020-08-01-最新海外疫情：新冠感染者超1772万-累计死亡超68万](http://m.international.caixin.com/m/2020-08-02/101587770.html) ![](assets/new.png)  
+- [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
+- [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
+- [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
+- [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
+- [2020-07-31-大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首-越南首现死亡病例](https://m.caixin.com/m/2020-08-01/101587433.html) ![](assets/new.png)  
+- [2020-07-31-香港方舱医院收治首批患者-内地核酸检测支援队明日赴港](https://m.caixin.com/m/2020-08-01/101587648.html) ![](assets/new.png)  
+- [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
+- [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
+- [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
+- [2020-07-30-香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html) ![](assets/new.png)  
+- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
+- [2020-07-29-【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html) ![](assets/new.png)  
+- [2020-07-29-大流行手记|7月29日：俄罗斯欲抢先审批疫苗-印度曝贫民窟畸高感染率](http://m.international.caixin.com/m/2020-07-30/101586198.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -75,11 +95,11 @@
 </summary>
 
 
+- [2020-08-03-大连目前现有病例主要集中在凯洋公司所在的甘井子区大连湾街道-占全部病例83%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXtD00VFyWLYPIlA18osf200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-失业救济金“断粮”-多项数据亮红灯-美国经济复苏前景不明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articdi153LwWtPw8otoUlHg200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-大连市卫健委：未发现本次疫情与近期北京新疆病例有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNqOOGLQ7h7JwEmxiJDUG200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-巴西研究人员利用人工智能模拟人群聚集点以降低感染风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimidgRSdWWdEkFHUItdW4200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-澳大利亚维多利亚州遭遇新冠肺炎疫情和禽流感](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKYcXm5Wc2FPVCAWeVoCN200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-专家：美国处于疫情新阶段-各州需要“量身定制”的解决方法](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2EXahgTnK67JMB08IkXD200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-03-知乎上进群捡漏是什么操作?](https://www.v2ex.com/t/695203) ![](assets/new.png)  
+- [2020-08-03-高德地图不知道从哪天开始经常弹新闻推送，还找不到在哪里关闭](https://www.v2ex.com/t/695202) ![](assets/new.png)  
+- [2020-08-03-500-元求购趣运动抢购脚本](https://www.v2ex.com/t/695201) ![](assets/new.png)  
+- [2020-08-03-开通招行社保卡的-8-月份的话费可以领了](https://www.v2ex.com/t/695200) ![](assets/new.png)  
+- [2020-08-03-转租丰台新村二里两居次卧出租-9/10-号线-2200](https://www.v2ex.com/t/695199) ![](assets/new.png)  
+- [2020-08-03-咨询深圳电信固定公网-ip-宽带/企业专线价格](https://www.v2ex.com/t/695198) ![](assets/new.png)  
 - [2020-08-03-调查下，有多少人是可以升级到-Catania-但是停留在-Mojave-的？以及究竟现在能否放心升级到-Catania？](https://www.v2ex.com/t/695197) ![](assets/new.png)  
 - [2020-08-03-传入月份，返回对应月份的出勤天数（就是刨去'周末'和'法定节假日'），兄弟们怎么整？](https://www.v2ex.com/t/695196) ![](assets/new.png)  
 - [2020-08-03-请教一个获取指定数据的正则表达式，类似提取-img-url](https://www.v2ex.com/t/695192) ![](assets/new.png)  
@@ -1046,12 +1072,6 @@
 - [2020-08-03-做了件很没品的事...](https://www.v2ex.com/t/695183) ![](assets/new.png)  
 - [2020-08-03-南京招聘-C++，-Rust-工程师，薪资-open-可谈，工资全额五险一金公积金-12%，上市公司-base-南京](https://www.v2ex.com/t/695181) ![](assets/new.png)  
 - [2020-08-03-今天终于还是提离职了。](https://www.v2ex.com/t/695180) ![](assets/new.png)  
-- [2020-08-03-大家都在外漂了多久了，对于未来有什么打算？](https://www.v2ex.com/t/695178) ![](assets/new.png)  
-- [2020-08-03-东方航空在维护吗？](https://www.v2ex.com/t/695177) ![](assets/new.png)  
-- [2020-08-03-有开发小程序的小伙伴一起做工作室吗](https://www.v2ex.com/t/695176) ![](assets/new.png)  
-- [2020-08-03-想离职，但是老板答应的奖金迟迟不发，房租也要到期了，无语。](https://www.v2ex.com/t/695175) ![](assets/new.png)  
-- [2020-08-03-招聘-中国系统-/-信创云-BU-招兵买马啦～](https://www.v2ex.com/t/695173) ![](assets/new.png)  
-- [2020-08-03-南京社招-魔格诚招安卓和-PHP-开发工程师，欢迎来撩~](https://www.v2ex.com/t/695172) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1097,22 +1117,22 @@
 - [2020-08-03-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-03-如何使用-Spark-3.0-中新加的-Structured-Streaming-UI-来进行异常分析](https://toutiao.io/k/bltc086) ![](assets/new.png)  
 - [2020-08-03-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-03-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [2020-08-03-TF-实战（二）：前馈网络](https://toutiao.io/k/uws4ru3) ![](assets/new.png)  
+- [2020-08-03-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [2020-08-03-可笑，你竟然不知道-Java-如何生成-UUID](https://toutiao.io/k/oeayjrw) ![](assets/new.png)  
 - [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
-- [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
 - [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
+- [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
 - [2020-08-03-怎样-Hack-Linux-的内核符号？](https://toutiao.io/k/vig0w6i) ![](assets/new.png)  
 - [2020-08-03-一次-Django-内存异常排查实践](https://toutiao.io/k/yrswi85) ![](assets/new.png)  
-- [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-03-如何在-5-分钟内注册一个美区-Apple-ID](https://toutiao.io/k/xcl3jg7) ![](assets/new.png)  
+- [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-03-优雅的处理-TCP-粘包](https://toutiao.io/k/r1mab78) ![](assets/new.png)  
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) ![](assets/new.png)  
-- [2020-08-03-简单盘点-CVPR-2020-的图像合成论文](https://toutiao.io/k/l5s6036) ![](assets/new.png)  
 - [2020-08-03-Kubenetes-之新手入门篇](https://toutiao.io/k/7lwkuc2) ![](assets/new.png)  
-- [2020-08-03-聊聊对称加密与非对称加密](https://toutiao.io/k/w2g8tdj) ![](assets/new.png)  
+- [2020-08-03-简单盘点-CVPR-2020-的图像合成论文](https://toutiao.io/k/l5s6036) ![](assets/new.png)  
 - [2020-08-03-如何选择-WebGL-框架和引擎？](https://toutiao.io/k/y5psg7p) ![](assets/new.png)  
+- [2020-08-03-聊聊对称加密与非对称加密](https://toutiao.io/k/w2g8tdj) ![](assets/new.png)  
 - [2020-08-03-如何让两个线程-“系鞋带”](https://toutiao.io/k/yywpiq6) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

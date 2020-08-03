@@ -12467,6 +12467,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "哈萨克斯坦新增新冠肺炎确诊病例1069例 降低病亡率是主要任务",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin47qWPnVaOxNJUlQEdvY200803&isfromapp=1",
+        "date": "2020-08-03"
+      },
+      {
         "title": "印度新增52972例新冠肺炎病例 累计确诊达1803695例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib0xrC5wy27HF77vECmGT200803&isfromapp=1",
         "date": "2020-08-03"
@@ -12484,11 +12489,6 @@
       {
         "title": "失业救济金“断粮” 多项数据亮红灯 美国经济复苏前景不明",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articdi153LwWtPw8otoUlHg200803&isfromapp=1",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "大连市卫健委：未发现本次疫情与近期北京新疆病例有关联",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNqOOGLQ7h7JwEmxiJDUG200803&isfromapp=1",
         "date": "2020-08-03"
       }
     ]
@@ -15619,6 +15619,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有人在等 ARM 的 MBP 吗? 年底会发布吗？",
+        "link": "https://www.v2ex.com/t/695234",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[杭州摆摊记] 周末和女朋友第一次摆摊，感觉比想象中容易😄",
+        "link": "https://www.v2ex.com/t/695233",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "请问一下，一般 code coverage 报告里面，标记黄色的是什么含义？",
+        "link": "https://www.v2ex.com/t/695231",
+        "date": "2020-08-03"
+      },
+      {
         "title": "大家觉着结婚前最应该做的一件事是什么?",
         "link": "https://www.v2ex.com/t/695230",
         "date": "2020-08-03"
@@ -15791,21 +15806,6 @@
       {
         "title": "在 python3 中, 字节流如何转换成字符串",
         "link": "https://www.v2ex.com/t/695185",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "来小米云平台，一起下大棋。",
-        "link": "https://www.v2ex.com/t/695184",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "做了件很没品的事...",
-        "link": "https://www.v2ex.com/t/695183",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[南京]招聘 C++， Rust 工程师，薪资 open 可谈，工资全额五险一金(公积金 12%)，上市公司 base 南京",
-        "link": "https://www.v2ex.com/t/695181",
         "date": "2020-08-03"
       }
     ]
@@ -16023,68 +16023,8 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
-        "date": "2020-08-03"
-      },
-      {
         "title": "[推荐] SQL 注入笔记",
         "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
         "date": "2020-08-03"
       },
       {
@@ -16095,6 +16035,66 @@
       {
         "title": "[推荐] DDD 分层",
         "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-03"
       }
     ]

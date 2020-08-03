@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 06:02:40，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 06:10:14，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-03-哈萨克斯坦新增新冠肺炎确诊病例1069例-降低病亡率是主要任务](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin47qWPnVaOxNJUlQEdvY200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-印度新增52972例新冠肺炎病例-累计确诊达1803695例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib0xrC5wy27HF77vECmGT200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-新加坡要求部分入境者佩戴电子追踪器](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipHoif1Mai56PATPJ95Or200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-大连目前现有病例主要集中在凯洋公司所在的甘井子区大连湾街道-占全部病例83%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXtD00VFyWLYPIlA18osf200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-失业救济金“断粮”-多项数据亮红灯-美国经济复苏前景不明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articdi153LwWtPw8otoUlHg200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-大连市卫健委：未发现本次疫情与近期北京新疆病例有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNqOOGLQ7h7JwEmxiJDUG200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-03-有人在等-ARM-的-MBP-吗?-年底会发布吗？](https://www.v2ex.com/t/695234) ![](assets/new.png)  
+- [2020-08-03-杭州摆摊记-周末和女朋友第一次摆摊，感觉比想象中容易😄](https://www.v2ex.com/t/695233) ![](assets/new.png)  
+- [2020-08-03-请问一下，一般-code-coverage-报告里面，标记黄色的是什么含义？](https://www.v2ex.com/t/695231) ![](assets/new.png)  
 - [2020-08-03-大家觉着结婚前最应该做的一件事是什么?](https://www.v2ex.com/t/695230) ![](assets/new.png)  
 - [2020-08-03-推广开源项目不至于伪装成-GitHub-发垃圾邮件吧](https://www.v2ex.com/t/695229) ![](assets/new.png)  
 - [2020-08-03-广东有后端实习的坑吗](https://www.v2ex.com/t/695228) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-03-阿里巴巴-零售云事业部--Java-资深开发工程师/专家](https://www.v2ex.com/t/695210) ![](assets/new.png)  
 - [2020-08-03-Android-开发技术周报-Issue#291](https://www.v2ex.com/t/695209) ![](assets/new.png)  
 - [2020-08-03-Go-中为啥喜欢这样创建变量](https://www.v2ex.com/t/695208) ![](assets/new.png)  
-- [2020-08-03-5000-左右的轻度游戏&编程后端主机，大佬们帮忙看看这个配置可以吗？](https://www.v2ex.com/t/695207) ![](assets/new.png)  
-- [2020-08-03-身心俱疲，我这种情况怎么才能缓过来](https://www.v2ex.com/t/695206) ![](assets/new.png)  
-- [2020-08-03-知乎上进群捡漏是什么操作?](https://www.v2ex.com/t/695203) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

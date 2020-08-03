@@ -15619,6 +15619,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "离职拿到 offer 前，需要通知公司么？",
+        "link": "https://www.v2ex.com/t/695248",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "端传媒五周年， 8 月 3-7 日开放全站 15000 篇深度内容，每日解密抽会员",
+        "link": "https://www.v2ex.com/t/695247",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[短信大促] 冰点价开卖，华为 Mate30 pro 手机、iWatch 等豪礼相送",
+        "link": "https://www.v2ex.com/t/695246",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "有没有在 mac 使用 filezilla 的大佬",
+        "link": "https://www.v2ex.com/t/695245",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "有没有对编程感兴趣的小朋友，想学习编程？",
+        "link": "https://www.v2ex.com/t/695244",
+        "date": "2020-08-03"
+      },
+      {
         "title": "我也想要菊次郎の夏……",
         "link": "https://www.v2ex.com/t/695243",
         "date": "2020-08-03"
@@ -15782,26 +15807,6 @@
         "title": "开通招行社保卡的 8 月份的话费可以领了",
         "link": "https://www.v2ex.com/t/695200",
         "date": "2020-08-03"
-      },
-      {
-        "title": "[转租]丰台新村二里两居次卧出租 9/10 号线 2200",
-        "link": "https://www.v2ex.com/t/695199",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "咨询深圳电信固定公网 ip 宽带/企业专线价格",
-        "link": "https://www.v2ex.com/t/695198",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "调查下，有多少人是可以升级到 Catania 但是停留在 Mojave 的？以及究竟现在能否放心升级到 Catania？",
-        "link": "https://www.v2ex.com/t/695197",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "传入月份，返回对应月份的出勤天数（就是刨去'周末'和'法定节假日'），兄弟们怎么整？",
-        "link": "https://www.v2ex.com/t/695196",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -15948,13 +15953,13 @@
         "date": "2020-08-03"
       },
       {
-        "title": "万恶的 NPE 差点让我半个月工资没了",
-        "link": "https://toutiao.io/k/30he0qj",
+        "title": "远程办公十分钟，干完一个月的活，剩下的时间……",
+        "link": "https://toutiao.io/k/rsocien",
         "date": "2020-08-03"
       },
       {
-        "title": "远程办公十分钟，干完一个月的活，剩下的时间……",
-        "link": "https://toutiao.io/k/rsocien",
+        "title": "万恶的 NPE 差点让我半个月工资没了",
+        "link": "https://toutiao.io/k/30he0qj",
         "date": "2020-08-03"
       },
       {
@@ -16018,53 +16023,8 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-03"
-      },
-      {
         "title": "[推荐] 常见的架构设计原则总结",
         "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
-        "link": "https://toutiao.io/k/e8euial",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-03"
       },
       {
@@ -16078,18 +16038,63 @@
         "date": "2020-08-03"
       },
       {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[推荐] 领域驱动设计落地方案",
         "link": "https://toutiao.io/k/zkllrkn",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-03"
       },
       {
         "title": "[推荐] 架构师技术领导力成长之路",
         "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
         "date": "2020-08-03"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 13:33:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 13:46:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -60,6 +60,5 @@
 - [2020-08-03-校招内推-美团点评-2021-届秋季校园招聘正式启动](https://www.v2ex.com/t/695321) 
 - [2020-08-03-蚂蚁金服招聘前端技术专家](https://www.v2ex.com/t/695308) 
 - [2020-08-03-Leetcode/Lintcode-题解丨谷歌面试题：翻转像素](https://www.v2ex.com/t/695307) 
-- [2020-08-03-招聘-石墨文档---面向未来的办公软件](https://www.v2ex.com/t/695302) 
 - [2020-08-02-朝鲜黑客利用虚假招聘信息对美发起新一轮攻击](https://sec.thief.one/article_content?a_id=468510499fed42a572d8c6d20225670a) 
 - [2020-08-01-牛聘|2020年度岗位招聘第8期](https://sec.thief.one/article_content?a_id=75bec7d1affcccb583d80da704151527) 

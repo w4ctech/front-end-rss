@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 00:06:07，:rocket: 更新条数: +3465， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 00:25:09，:rocket: 更新条数: +3461， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-02-巴西新冠肺炎累计确诊人数超273万-里约经济重启-多人违规在沙滩停留](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLNRl4eeLMANacGoxJvQ200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-02-美国新冠肺炎病亡人数超15万-特朗普想要推迟总统大选](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJdNVbnRiAgLsxvtLEu1n200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-02-非洲地区新冠肺炎累计确诊病例超94万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5kdz6As0Tr1JqnZ3Ju3q200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-02-伯克斯博士：美国正处于新冠疫情的“新阶段”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGiefAVN4PQ7pqApNb5rt200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-02-再封城！菲律宾首都大马尼拉地区防疫措施升级](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPmBYeMR7mQu26FWcx9o3200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-02-世卫组织：全球新冠肺炎确诊病例超过1766万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepBOYvEKUrXMNh184hj3200802&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-03-iphone11-晚上待机耗电也太恐怖了吧一晚掉-30%多](https://www.v2ex.com/t/695136) ![](assets/new.png)  
 - [2020-08-02-Thinkpad-x200-再次安装-Ubuntu-20.04-重启死机](https://www.v2ex.com/t/695134) ![](assets/new.png)  
 - [2020-08-02-有用-eizo-老机型的用户吗-ccfl-发热真的很厉害？](https://www.v2ex.com/t/695133) ![](assets/new.png)  
 - [2020-08-02-2015-年的-13-寸-MacBook-Pro，今天突然出现-F-键自动蹦出](https://www.v2ex.com/t/695131) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-02-关于-MBP-2016-带-bar-加内存问题](https://www.v2ex.com/t/695111) ![](assets/new.png)  
 - [2020-08-02-何同学新一期的视频创意真的很好。](https://www.v2ex.com/t/695110) ![](assets/new.png)  
 - [2020-08-02-请教一个数据结构设计问题!](https://www.v2ex.com/t/695109) ![](assets/new.png)  
-- [2020-08-02-ER-X-路由器设置-DHCP-option-让-TP-Link-AC-发现-AP](https://www.v2ex.com/t/695108) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,26 +1134,26 @@
 </summary>
 
 
-- [2020-08-03-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-03-Docker-容器的-“单进程模型”](https://toutiao.io/k/80lqr81) ![](assets/new.png)  
-- [2020-08-03-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-03-C++-模板沉思录（上）](https://toutiao.io/k/ug5d298) ![](assets/new.png)  
-- [2020-08-03-PostgreSQL-中文检索与性能优化](https://toutiao.io/k/5svdbib) ![](assets/new.png)  
-- [2020-08-03-数据平台服务化建设（二）：把好权限的关](https://toutiao.io/k/pn0q43v) ![](assets/new.png)  
-- [2020-08-03-冰蝎，从入门到魔改](https://toutiao.io/k/m1zk0t2) ![](assets/new.png)  
-- [2020-08-03-表弟告状，被逼无奈我都招了：缓存高可用](https://toutiao.io/k/y6sswyd) ![](assets/new.png)  
-- [2020-08-03-程序员：如何客观的衡量业务想法](https://toutiao.io/k/kpm93we) ![](assets/new.png)  
-- [2020-08-03-Flutter-+-FaaS-一体化任务编排的思考与设计](https://toutiao.io/k/lxd7z39) ![](assets/new.png)  
-- [2020-08-03-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-03-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
-- [2020-08-03-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-03-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
-- [2020-08-03-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
+- [2020-08-03-如何使用-Spark-3.0-中新加的-Structured-Streaming-UI-来进行异常分析](https://toutiao.io/k/bltc086) ![](assets/new.png)  
+- [2020-08-03-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-03-一次-Django-内存异常排查实践](https://toutiao.io/k/yrswi85) ![](assets/new.png)  
+- [2020-08-03-怎样-Hack-Linux-的内核符号？](https://toutiao.io/k/vig0w6i) ![](assets/new.png)  
+- [2020-08-03-万恶的-NPE-差点让我半个月工资没了](https://toutiao.io/k/30he0qj) ![](assets/new.png)  
+- [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
 - [2020-08-03-推荐-从-0-到-1-开始前端异常监控](https://toutiao.io/k/txe46k2) ![](assets/new.png)  
-- [2020-08-03-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-03-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
+- [2020-08-03-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-03-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-03-推荐-技术人员的写作指南](https://toutiao.io/k/asiim7t) ![](assets/new.png)  
 - [2020-08-03-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-03-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
+- [2020-08-03-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-03-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-03-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-03-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-03-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
 - [2020-08-03-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-03-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-03-推荐-线上服务的-FGC-问题排查，看这篇就够了](https://toutiao.io/k/e8euial) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

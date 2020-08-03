@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:46:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -9,7 +9,6 @@
 
 - [2020-07-28-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/08918e4ffc7f78c07ab222f2901c4648) 
 - [2020-07-24-还在问瀑布流？这里两行css代码实现](https://www.ershicimi.com/p/4cdf6736646002c2f5be7b54f9ff53c9) 
-- [2020-07-19-这33个超级好用的-CSS-选择器，你可能见都没见过](https://www.ershicimi.com/p/768b63d70a15a80035af310d93f9483b) 
 - [2020-07-25-Serverless-掀起新的前端技术变革](https://www.ershicimi.com/p/f23ecc615686df4cdf02c03bc747ec42) 
 - [2019-10-09-视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0) 
 - [2020-02-04-阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497) 

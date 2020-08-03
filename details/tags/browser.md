@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:46:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,8 +23,6 @@
 - [2020-07-30-Chrome插件英雄榜都有啥？](https://www.ershicimi.com/p/7a546ad42ea9b98d8d417064fbe56e12) 
 - [2020-07-29-Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43) 
 - [2020-07-28-彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a) 
-- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
-- [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) 
 - [2020-07-21-一个神秘URL酿大祸，差点让我背锅！](https://www.ershicimi.com/p/1a5833bbfdf6bc827d1d3749eec38cf5) 
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
 - [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 

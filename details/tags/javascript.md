@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 15:46:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 15:48:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -37,9 +37,6 @@
 - [2020-08-02-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) 
 - [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) 
 - [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) 
-- [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
-- [2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051) 
-- [2020-07-24-妙用-CSS变量，让你的-CSS-变得更心动](https://www.ershicimi.com/p/dde433f9208b7a5f5f0279def3beddfa) 
 - [2020-08-03-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/857f78c739dbb63c0434f44cb6385b59) 
 - [2020-07-28-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/9beb6c8042b863dbc3d05588042475fd) 
 - [2020-07-24-2020年6月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/88f1ab66fdb1e0ab57948af621fd3159) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 05:31:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 05:33:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -61,4 +61,7 @@
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) 
 - [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8) 
+- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
+- [2020-07-07-最新Vue底层原理实现概述](https://www.ershicimi.com/p/3c77841e27ecefe480cb5383620d2dc1) 
+- [2020-07-06-尤大：预计-8-月发布正式版-Vue-3.0！你还不学学么？](https://www.ershicimi.com/p/43ab9298de5e0516e864f31966c11700) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

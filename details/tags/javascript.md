@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 05:31:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 05:33:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -81,6 +81,7 @@
 - [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) 
 - [2019-12-29-第34期-彻底搞懂Javascript-浮点数](https://www.ershicimi.com/p/286ed94c91d9121e5a17044b448a4539) 
 - [2020-07-31-Serverless-实战：通过-Component-实现多地域部署容灾](https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab) 
+- [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/125bc0c86c80b5245ccf351595af7255) 
 - [2020-01-18-JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb) 
 - [2020-01-18-JavaScript的强语言之路—另类的JSON序列化与反序列化](https://juejin.im/post/5e1f23d76fb9a02fec664828) 
 - [2019-12-06-你可能不知道的-JavaScript-代码-Chrome-调试方法](https://zh.javascript.info/debugging-chrome) 

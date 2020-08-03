@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 05:31:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 05:33:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2338,6 +2338,15 @@
 - [2020-07-30-如果这三点全中，你需要认真考虑-API-这项技术了-|-Q推荐](https://www.ershicimi.com/p/8aec16bf7c670861c435fc126d8ce26b) 
 - [2020-07-30-程序员简历的8个建议](https://www.ershicimi.com/p/8141cb7f566959466975f78f29480f09) 
 - [2020-07-29-我敢说，这是最全的常用设计模式汇总-|-极客时间](https://www.ershicimi.com/p/b129ab71837d9ceeb30a43c7e5aaadf3) 
+- [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5) 
+- [2020-07-21-35岁的老程序员一面就砸，一问原因，挺突然的...](https://www.ershicimi.com/p/cf3287f84f31276654ea80494a292e12) 
+- [2020-07-20-前端工程化趋势愈发明显，-2020-年我们到底需要注意些什么？](https://www.ershicimi.com/p/e2e7b5fdc7ee5fd74ca68a099979f12f) 
+- [2020-07-17-付费课都免费？拉勾7周年把价值4000+的专栏免费了！！！](https://www.ershicimi.com/p/d3c0af342c2be3b578e57252a8be4a3c) 
+- [2020-07-15-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/e4d9f06d861c472f1cdb34d0de38dc00) 
+- [2020-07-14-为什么阿里那么难进，原来精髓在这](https://www.ershicimi.com/p/6cb0e3f63042ea94826c912f3c9c1ad3) 
+- [2020-07-13-你学前端是因为热爱还是想赚钱？](https://www.ershicimi.com/p/9d7b06f74f1e301e370ffc8fdc94a458) 
+- [2020-07-09-一起围观阿里p8的前端成长之路！](https://www.ershicimi.com/p/1ae7b8bf06abff4fa4f27bc1805ab945) 
+- [2020-07-08-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/9c2f4d234ce22cff5e7587ae5bd538fb) 
 - [2020-01-18-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2019-12-18-让App热更多个RN项目的解决方案](https://juejin.im/post/5df6ecec51882512533a876b) 
 - [2019-12-16-淘宝技术架构演进](https://mp.weixin.qq.com/s/FXo9eVPNLKAPDjLDX6pvwQ) 

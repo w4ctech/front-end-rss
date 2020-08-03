@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 14:46:26，:rocket: 更新条数: +3243， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 14:48:14，:rocket: 更新条数: +3253， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -34,11 +34,11 @@
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
-- [程序员成长指北](#程序员成长指北)  
+- [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -632,6 +632,26 @@
 </summary>
 
 
+- [2020-08-01-揭秘几个“强”的不得了的前端公众号](https://www.ershicimi.com/p/d81790fe6b17f01ab4e21f5e0f9ca4bc) ![](assets/new.png)  
+- [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) ![](assets/new.png)  
+- [2020-07-31-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df) ![](assets/new.png)  
+- [2020-07-31-让你的-commit-更有价值规范](https://www.ershicimi.com/p/837ce051b98bbbb596958065d8c392fe) ![](assets/new.png)  
+- [2020-07-30-145道Web大厂面试真题分享](https://www.ershicimi.com/p/da75835aa6c431a35ff6867c50a9938d) ![](assets/new.png)  
+- [2020-07-30-2-年前端面试心路历程总结（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/b285e3145c5f77b4f45dfb2cc7d79a64) ![](assets/new.png)  
+- [2020-07-29-Nodejs-BFF-开发-8-个月的心路历程](https://www.ershicimi.com/p/460ab000c36beb9270577ec0a9c47518) ![](assets/new.png)  
+- [2020-07-29-花椒前端基于-Docker-的-SSR-持续开发集成环境实践](https://www.ershicimi.com/p/de55d54617ef5488b526fd775b576d8e) ![](assets/new.png)  
+- [2020-07-28-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/0d83694aff73a09ba4533abdc5180c56) ![](assets/new.png)  
+- [2020-07-27-私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd) ![](assets/new.png)  
+- [2020-07-27-阿里大佬关于移动端体验优化经验总结](https://www.ershicimi.com/p/cd5177a646f341e973bff829773cd543) ![](assets/new.png)  
+- [2020-07-26-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/02f6c94cfcc7e81a98b1c2199873db06) ![](assets/new.png)  
+- [2020-07-26-你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/2bc6b1174a30235ad49347ec4d653848) ![](assets/new.png)  
+- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353) ![](assets/new.png)  
+- [2020-07-24-前端登录，这一篇就够了](https://www.ershicimi.com/p/2922f9d24cde11cefd14793643a37a7a) ![](assets/new.png)  
+- [2020-07-23-一杯茶的时间，上手-Koa2-+-MySQL-开发实战好文](https://www.ershicimi.com/p/82981bf2fe8510c5dff13f7732691fb7) ![](assets/new.png)  
+- [2020-07-23-没错，华为又对前端下手了！](https://www.ershicimi.com/p/abaf6e471d8b753d574299091c02cb68) ![](assets/new.png)  
+- [2020-07-22-揭发几个在前端领域“强”的不得了的公众号](https://www.ershicimi.com/p/ca9ef5d3c66f88e66d82287aa92cce24) ![](assets/new.png)  
+- [2020-07-22-关于前端性能优化一些总结](https://www.ershicimi.com/p/5207be6e2a27c9ac27e0af4b74561dfd) ![](assets/new.png)  
+- [2020-07-21-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/53930947cf0c43ebebb82ff406652fad) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -709,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

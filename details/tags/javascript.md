@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 14:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 14:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -68,11 +68,12 @@
 - [2020-07-14-15个简单的JS编码标准让你的代码更整洁](https://www.ershicimi.com/p/67e8f98695931ee0dda840725d49f7b3) 
 - [2020-07-31-模块化之-snowpack，提高10倍打包速度。](https://www.ershicimi.com/p/94c1215dd428f56af335ad9fb262eb48) 
 - [2020-07-26-「牛客网」45道JS能力测评经典题总结](https://www.ershicimi.com/p/fab77a10f0e38b36bd4898a091577763) 
+- [2020-07-31-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df) 
+- [2020-07-21-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/53930947cf0c43ebebb82ff406652fad) 
 - [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-07-21-QuickJS-引擎一年见闻录](https://www.ershicimi.com/p/7bef03404bd3c5a6462812a06c08331a) 
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
 - [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 

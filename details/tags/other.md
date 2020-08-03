@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 14:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 14:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2249,6 +2249,11 @@
 - [2020-07-28-【干货】毕业一年升P6的前端晋升总结](https://www.ershicimi.com/p/3ab9fdfcae8d2e8b24c13c901da0b9f3) 
 - [2020-07-25-vite-——-一种新的、更快地-web-开发工具](https://www.ershicimi.com/p/dd556e80e864f38101251847df11518b) 
 - [2020-07-23-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/f21a86663923b0aa6c7696ff8967b7e3) 
+- [2020-08-01-揭秘几个“强”的不得了的前端公众号](https://www.ershicimi.com/p/d81790fe6b17f01ab4e21f5e0f9ca4bc) 
+- [2020-07-31-让你的-commit-更有价值规范](https://www.ershicimi.com/p/837ce051b98bbbb596958065d8c392fe) 
+- [2020-07-24-前端登录，这一篇就够了](https://www.ershicimi.com/p/2922f9d24cde11cefd14793643a37a7a) 
+- [2020-07-23-没错，华为又对前端下手了！](https://www.ershicimi.com/p/abaf6e471d8b753d574299091c02cb68) 
+- [2020-07-22-揭发几个在前端领域“强”的不得了的公众号](https://www.ershicimi.com/p/ca9ef5d3c66f88e66d82287aa92cce24) 
 - [2020-07-23-微前端从实战到源码-可能是最完整的版本！](https://www.ershicimi.com/p/8f129ecc57ce670a54e08c76ac3f51f1) 
 - [2020-07-22-如何用函数框架快速开发大型-Web-应用-|-实战](https://www.ershicimi.com/p/e16ae7ca242b28c21744fe8477891858) 
 - [2020-07-19-想来交流群吗？我派直升机来接你呀～](https://www.ershicimi.com/p/912a38c3de7559460ab2155ecf2cc407) 
@@ -2256,12 +2261,6 @@
 - [2020-07-31-科技爱好者周刊（第-118-期）：高考志愿怎么填](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html) 
 - [2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html) 
 - [2020-07-22-苹果放弃英特尔芯片，为什么会打击美国计算机产业？](http://www.ruanyifeng.com/blog/2020/07/apple-abandon-Intel-chips-hit-the-us-computer-industry.html) 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [2020-08-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3dc5c55b95d8f7a182b7afdc189940b2) 
 - [2020-07-31-奇舞周刊第-358-期：探索前端领域技术和业务价值](https://www.ershicimi.com/p/30a8b831821cd7d79f3e03af91f43e29) 
 - [2020-07-29-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6f8532a11d5b57f28c40c960db3ca462) 

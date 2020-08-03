@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 20:33:12，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 20:46:35，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-03-怎么量化一个游戏运气和技能所占的比重？](https://www.v2ex.com/t/695389) ![](assets/new.png)  
 - [2020-08-03-大家如何管理-iOS-共享菜单](https://www.v2ex.com/t/695388) ![](assets/new.png)  
 - [2020-08-03-如何自己搭建包含某个公司名后缀的邮件系统？](https://www.v2ex.com/t/695387) ![](assets/new.png)  
 - [2020-08-03-如何自己搭建包含某个公司名的邮件系统？](https://www.v2ex.com/t/695386) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-03-想问一下-ElasticSearch-作为大数据数据库的可能性](https://www.v2ex.com/t/695372) ![](assets/new.png)  
 - [2020-08-03-家里端口转发了-3389-到五位数的端口，但是仍然每天在被攻击。](https://www.v2ex.com/t/695371) ![](assets/new.png)  
 - [2020-08-03-青岛地铁最近有老哥能使用-Apple-Pay-进站成功的么？](https://www.v2ex.com/t/695369) ![](assets/new.png)  
-- [2020-08-03-问老师们好，-v-友们好我来浪费大家时间了！](https://www.v2ex.com/t/695368) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

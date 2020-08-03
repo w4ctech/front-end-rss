@@ -15629,6 +15629,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "怎么量化一个游戏运气和技能所占的比重？",
+        "link": "https://www.v2ex.com/t/695389",
+        "date": "2020-08-03"
+      },
+      {
         "title": "大家如何管理 iOS 共享菜单",
         "link": "https://www.v2ex.com/t/695388",
         "date": "2020-08-03"
@@ -15811,11 +15816,6 @@
       {
         "title": "说说佳明被勒索事件",
         "link": "https://www.v2ex.com/t/695340",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "flow.ci v0.20.30 发布 - Powerful and user-friendly CI/CD server",
-        "link": "https://www.v2ex.com/t/695339",
         "date": "2020-08-03"
       }
     ]
@@ -16033,23 +16033,13 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-03"
       },
       {
@@ -16058,18 +16048,13 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-03"
       },
       {
@@ -16078,8 +16063,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
+        "link": "https://toutiao.io/k/zidka9w",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-03"
       },
       {
@@ -16088,23 +16088,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
         "date": "2020-08-03"
       }
     ]

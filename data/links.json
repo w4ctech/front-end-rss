@@ -16878,16 +16878,6 @@
         "title": "第四期德国 IT 岗位招聘之 IT Administrator, IT Requirements Manager, IT Project and Portfolio Manager",
         "link": "https://www.v2ex.com/t/695298",
         "date": "2020-08-03"
-      },
-      {
-        "title": "咨询一下关于招标采购平台的事情，单位想要建设一个招采平台，找相关的服务商，没有头绪，求助下。",
-        "link": "https://www.v2ex.com/t/695297",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "IOS 工程师招聘 15k-35k",
-        "link": "https://www.v2ex.com/t/695296",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -17104,38 +17094,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-03"
-      },
-      {
         "title": "[推荐] ES 优化看这几条就够了",
         "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-03"
       },
       {
@@ -17149,23 +17124,18 @@
         "date": "2020-08-03"
       },
       {
+        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
+        "link": "https://toutiao.io/k/zidka9w",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
         "link": "https://toutiao.io/k/not1y08",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
-        "link": "https://toutiao.io/k/e8euial",
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-03"
       },
       {
@@ -17174,8 +17144,28 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
-        "link": "https://toutiao.io/k/zidka9w",
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-08-03"
       }
     ]

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 13:02:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 13:08:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,5 +40,3 @@
 - [2020-08-03-有没有字节跳动的大佬出来讲讲这次的收购事件?](https://www.v2ex.com/t/695300) 
 - [2020-08-03-android-浏览器下载文件,-弹出下载框,没有点击-ok-其实是没有下东西的?](https://www.v2ex.com/t/695299) 
 - [2020-08-03-第四期德国-IT-岗位招聘之-IT-Administrator,-IT-Requirements-Manager,-IT-Project-and-Portfolio-Manager](https://www.v2ex.com/t/695298) 
-- [2020-08-03-咨询一下关于招标采购平台的事情，单位想要建设一个招采平台，找相关的服务商，没有头绪，求助下。](https://www.v2ex.com/t/695297) 
-- [2020-08-03-IOS-工程师招聘-15k-35k](https://www.v2ex.com/t/695296) 

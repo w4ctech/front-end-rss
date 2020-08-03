@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 16:02:45，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 16:09:24，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-08-03-世界卫生组织专家来华开展新冠病毒溯源科研合作预备性磋商](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7kcSemXsmNIJWfbdHY60200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-世卫组织发起口罩挑战-鼓励人们佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUO0OCV7fP1hxSl7zLen200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-世卫组织总干事：新冠肺炎导致针对其他疾病的卫生服务中断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0AMteqF1ThxQGz41EpJn200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-非洲地区新冠肺炎确诊病例超95万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieyVNwWiVpnhvjwEMNIFF200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-香港逾250人入住社区隔离及治疗设施-单日确诊数字回落至两位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYmt2ZvzSbGZMRIrlHjfD200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-03-5V/1A-充电器电流有-1.3-1.5A-是假货吗？](https://www.v2ex.com/t/695381) ![](assets/new.png)  
 - [2020-08-03-求推荐变声器或者语音配音包？](https://www.v2ex.com/t/695380) ![](assets/new.png)  
 - [2020-08-03-好想爸爸，从他走后每天都在想他](https://www.v2ex.com/t/695379) ![](assets/new.png)  
 - [2020-08-03-仔细思考后，我觉得阅文事件中阅文是最无辜的](https://www.v2ex.com/t/695378) ![](assets/new.png)  
@@ -1066,7 +1072,6 @@
 - [2020-08-03-做了个背单词的小程序“北极光单词”，欢迎前来体验](https://www.v2ex.com/t/695361) ![](assets/new.png)  
 - [2020-08-03-各位大佬，请教一个-nginx-反代-smtp-收邮件的问题](https://www.v2ex.com/t/695360) ![](assets/new.png)  
 - [2020-08-03-字节跳动秋招来啦，欢迎大家投递，么么哒](https://www.v2ex.com/t/695358) ![](assets/new.png)  
-- [2020-08-03-vscode-扩展疑问](https://www.v2ex.com/t/695356) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

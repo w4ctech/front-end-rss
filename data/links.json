@@ -12472,6 +12472,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "菲律宾新增3226例新冠肺炎确诊病例 累计确诊106330例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQWb5DIccuylv4zCejIo200803&isfromapp=1",
+        "date": "2020-08-03"
+      },
+      {
         "title": "乌兹别克斯坦新增788例新冠肺炎确诊病例 累计确诊25828例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRZJOChXLVLLZGE1lAoZ200803&isfromapp=1",
         "date": "2020-08-03"
@@ -12489,11 +12494,6 @@
       {
         "title": "吉尔吉斯斯坦新增410例新冠肺炎确诊病例 累计确诊37129例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRGu7kIkWtTDnZyiKtbnv200803&isfromapp=1",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "哈萨克斯坦新增新冠肺炎确诊病例1069例 降低病亡率是主要任务",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin47qWPnVaOxNJUlQEdvY200803&isfromapp=1",
         "date": "2020-08-03"
       }
     ]
@@ -15624,6 +15624,26 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "如何给装有 Linux 的笔记本更换 ssd，不重装系统的情况下？",
+        "link": "https://www.v2ex.com/t/695290",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "上海靠谱职位：资深 Rust 工程师/Rust 技术专家，薪水不用担心，不加班",
+        "link": "https://www.v2ex.com/t/695289",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "为什么小电驴充电这么慢？",
+        "link": "https://www.v2ex.com/t/695288",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "使用 redis 实现 5 万人同服的“相位技术”",
+        "link": "https://www.v2ex.com/t/695286",
+        "date": "2020-08-03"
+      },
+      {
         "title": "FLP 不可能性定理简易证明（分布式入门）",
         "link": "https://www.v2ex.com/t/695285",
         "date": "2020-08-03"
@@ -15812,26 +15832,6 @@
         "title": "[上海] [50K 以上 ] [3 年经验] 诚招 computer vision Engineer！北美新零售创业公司， Smart Shopping Cart 北美 TOP 1， YC 孵化， Google 投资~ 无 996",
         "link": "https://www.v2ex.com/t/695241",
         "date": "2020-08-03"
-      },
-      {
-        "title": "[自如转租] 海淀区学清路月泉路_建清园小区 朝南主卧 近字节跳动办公室、768、五道口",
-        "link": "https://www.v2ex.com/t/695240",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "同城出 2016 款 Macbook pro 15.4 寸笔记本 9.5 成新",
-        "link": "https://www.v2ex.com/t/695239",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "找室友， 1 号线湘湖地铁站 100 多米奥兰多小镇，距离西兴只有 2 站路",
-        "link": "https://www.v2ex.com/t/695238",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "git clone --depth 1 *://mirrors.aliyun.com/homebrew/*",
-        "link": "https://www.v2ex.com/t/695236",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -16008,23 +16008,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "一次 Django 内存异常排查实践",
-        "link": "https://toutiao.io/k/yrswi85",
-        "date": "2020-08-03"
-      },
-      {
         "title": "Go 调试分析的高阶技巧",
         "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-03"
       },
       {
-        "title": "常见的 C# 异常及其修复方法",
-        "link": "https://toutiao.io/k/neybk0d",
+        "title": "一次 Django 内存异常排查实践",
+        "link": "https://toutiao.io/k/yrswi85",
         "date": "2020-08-03"
       },
       {
         "title": "Kubenetes 之新手入门篇",
         "link": "https://toutiao.io/k/7lwkuc2",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "常见的 C# 异常及其修复方法",
+        "link": "https://toutiao.io/k/neybk0d",
         "date": "2020-08-03"
       },
       {
@@ -16048,48 +16048,18 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-08-03"
       },
       {
@@ -16098,28 +16068,58 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-03"
-      },
-      {
         "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
         "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
+        "link": "https://toutiao.io/k/e8euial",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 技术人员的写作指南",
+        "link": "https://toutiao.io/k/asiim7t",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-03"
       },
       {
         "title": "[推荐] 一文读懂 Web 安全",
         "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
         "date": "2020-08-03"
       }
     ]

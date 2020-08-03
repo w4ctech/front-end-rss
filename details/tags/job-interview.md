@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 11:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 11:31:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -56,6 +56,7 @@
 - [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) 
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
+- [2020-08-03-面试滴滴，却给的实习-offer，但是校招都已经开始了，怕之后没有时间准备校招。各位觉得应该去吗？](https://www.v2ex.com/t/695327) 
 - [2020-08-03-校招内推-美团点评-2021-届秋季校园招聘正式启动](https://www.v2ex.com/t/695321) 
 - [2020-08-03-蚂蚁金服招聘前端技术专家](https://www.v2ex.com/t/695308) 
 - [2020-08-03-Leetcode/Lintcode-题解丨谷歌面试题：翻转像素](https://www.v2ex.com/t/695307) 
@@ -63,6 +64,5 @@
 - [2020-08-03-招聘-石墨文档---面向未来的办公软件](https://www.v2ex.com/t/695302) 
 - [2020-08-03-第四期德国-IT-岗位招聘之-IT-Administrator,-IT-Requirements-Manager,-IT-Project-and-Portfolio-Manager](https://www.v2ex.com/t/695298) 
 - [2020-08-03-IOS-工程师招聘-15k-35k](https://www.v2ex.com/t/695296) 
-- [2020-08-03-某金融交易平台大量技术岗位招聘中，欢迎私聊~](https://www.v2ex.com/t/695275) 
 - [2020-08-02-朝鲜黑客利用虚假招聘信息对美发起新一轮攻击](https://sec.thief.one/article_content?a_id=468510499fed42a572d8c6d20225670a) 
 - [2020-08-01-牛聘|2020年度岗位招聘第8期](https://sec.thief.one/article_content?a_id=75bec7d1affcccb583d80da704151527) 

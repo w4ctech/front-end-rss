@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 11:18:21，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 11:31:55，:rocket: 更新条数: +3262， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -66,16 +66,15 @@
 
 - [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
 - [2020-08-02-中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html) ![](assets/new.png)  
-- [2020-08-02-哈尔滨新冠感染家庭的后续困境](https://m.caixin.com/m/2020-08-03/101587860.html) ![](assets/new.png)  
 - [2020-08-02-最新疫情：全国新冠累计确诊84428例-本土病例新疆28例辽宁8例](https://m.caixin.com/m/2020-08-03/101587950.html) ![](assets/new.png)  
 - [2020-08-02-最新海外疫情：新冠感染者超1795万-累计死亡近68.5万](http://m.international.caixin.com/m/2020-08-03/101588162.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
 - [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [2020-08-02-南非确诊破50万大关-非洲检测率低恐致隐藏疫情风暴](http://m.international.caixin.com/m/2020-08-03/101588180.html) ![](assets/new.png)  
 - [2020-08-02-印度确诊180万例疫情在贫民窟传开-莫迪亲信自曝感染](http://m.international.caixin.com/m/2020-08-03/101588122.html) ![](assets/new.png)  
+- [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
 - [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
 - [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
-- [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
 - [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
 - [2020-07-31-大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首-越南首现死亡病例](https://m.caixin.com/m/2020-08-01/101587433.html) ![](assets/new.png)  
 - [2020-07-31-香港方舱医院收治首批患者-内地核酸检测支援队明日赴港](https://m.caixin.com/m/2020-08-01/101587648.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
 - [2020-07-30-香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html) ![](assets/new.png)  
 - [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
+- [2020-07-30-全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-08-03-秘鲁单日新增6667例新冠肺炎病例-累计确诊病例达428850例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE4NYawtaKJjbnK6EagZz200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-香港3日新增80例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN6A7DexnKS4gyEQymVJS200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-印尼新增1679例新冠肺炎确诊病例-累计确诊病例113134例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinINTK90A2mbqUnWnakkf200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-乌鲁木齐新冠肺炎确诊病例和无症状感染者总数连续4日下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF3fTzrKUoo0PJBPk8rnd200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-以色列新增416例新冠肺炎确诊病例-累计确诊73231例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuuF8TyWlGXXEvRdqo4Gy200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1047,9 @@
 </summary>
 
 
+- [2020-08-03-面试滴滴，却给的实习-offer，但是校招都已经开始了，怕之后没有时间准备校招。各位觉得应该去吗？](https://www.v2ex.com/t/695327) ![](assets/new.png)  
+- [2020-08-03-PerfDog-WEB-端使用手册](https://www.v2ex.com/t/695326) ![](assets/new.png)  
+- [2020-08-03-［吐槽］这腾讯视频-app-界面也太乱了吧？](https://www.v2ex.com/t/695324) ![](assets/new.png)  
 - [2020-08-03-7-号线-场中路转租](https://www.v2ex.com/t/695323) ![](assets/new.png)  
 - [2020-08-03-校招内推-美团点评-2021-届秋季校园招聘正式启动](https://www.v2ex.com/t/695321) ![](assets/new.png)  
 - [2020-08-03-苏州，招聘-NodeJS-工程师，-8k---15k](https://www.v2ex.com/t/695320) ![](assets/new.png)  
@@ -1069,9 +1067,6 @@
 - [2020-08-03-招聘-石墨文档---面向未来的办公软件](https://www.v2ex.com/t/695302) ![](assets/new.png)  
 - [2020-08-03-为什么多吉搜索现在很多东西搜索没有结果](https://www.v2ex.com/t/695301) ![](assets/new.png)  
 - [2020-08-03-有没有字节跳动的大佬出来讲讲这次的收购事件?](https://www.v2ex.com/t/695300) ![](assets/new.png)  
-- [2020-08-03-android-浏览器下载文件,-弹出下载框,没有点击-ok-其实是没有下东西的?](https://www.v2ex.com/t/695299) ![](assets/new.png)  
-- [2020-08-03-第四期德国-IT-岗位招聘之-IT-Administrator,-IT-Requirements-Manager,-IT-Project-and-Portfolio-Manager](https://www.v2ex.com/t/695298) ![](assets/new.png)  
-- [2020-08-03-咨询一下关于招标采购平台的事情，单位想要建设一个招采平台，找相关的服务商，没有头绪，求助下。](https://www.v2ex.com/t/695297) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

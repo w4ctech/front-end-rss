@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 21:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 21:18:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2499,13 +2499,16 @@
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) 
 - [2020-08-03-聊聊对称加密与非对称加密](https://toutiao.io/k/w2g8tdj) 
 - [2020-08-03-如何让两个线程-“系鞋带”](https://toutiao.io/k/yywpiq6) 
-- [2020-08-03-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
+- [2020-08-03-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
 - [2020-08-03-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
-- [2020-08-03-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
 - [2020-08-03-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
-- [2020-08-03-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
-- [2020-08-03-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
+- [2020-08-03-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
 - [2020-08-03-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [2020-08-03-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
+- [2020-08-03-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [2020-08-03-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) 
+- [2020-08-03-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
+- [2020-08-03-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
 - [2020-08-03-记录一次“梅花三弄”的渗透之旅](https://sec.thief.one/article_content?a_id=5451a8a814a47cacadeb6c5d303adda3) 
 - [2020-08-03-每日攻防资讯简报Aug.3th](https://sec.thief.one/article_content?a_id=f66ab56611d368e4a162a5b4a289b380) 
 - [2020-08-03-【流行威胁跟踪】一黑客组织针对金融用户的定向分析报告](https://sec.thief.one/article_content?a_id=11f1504056475b84e363deab56c35b63) 

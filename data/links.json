@@ -12467,6 +12467,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "印度新增52972例新冠肺炎病例 累计确诊达1803695例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib0xrC5wy27HF77vECmGT200803&isfromapp=1",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "新加坡要求部分入境者佩戴电子追踪器",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipHoif1Mai56PATPJ95Or200803&isfromapp=1",
+        "date": "2020-08-03"
+      },
+      {
         "title": "大连目前现有病例主要集中在凯洋公司所在的甘井子区大连湾街道 占全部病例83%",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXtD00VFyWLYPIlA18osf200803&isfromapp=1",
         "date": "2020-08-03"
@@ -12479,16 +12489,6 @@
       {
         "title": "大连市卫健委：未发现本次疫情与近期北京新疆病例有关联",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNqOOGLQ7h7JwEmxiJDUG200803&isfromapp=1",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "巴西研究人员利用人工智能模拟人群聚集点以降低感染风险",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimidgRSdWWdEkFHUItdW4200803&isfromapp=1",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "澳大利亚维多利亚州遭遇新冠肺炎疫情和禽流感",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKYcXm5Wc2FPVCAWeVoCN200803&isfromapp=1",
         "date": "2020-08-03"
       }
     ]
@@ -15619,12 +15619,17 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "广东有后端实习的坑吗",
+        "link": "https://www.v2ex.com/t/695228",
+        "date": "2020-08-03"
+      },
+      {
         "title": "拼多多-资深 iOS 工程师",
         "link": "https://www.v2ex.com/t/695225",
         "date": "2020-08-03"
       },
       {
-        "title": "字节跳动 | 教育 | 前端 | 北京 | 社招 & 校招 & 实习",
+        "title": "字节跳动 | 教育 | 前端 | 北京 & 深圳 | 社招 & 校招 & 实习",
         "link": "https://www.v2ex.com/t/695224",
         "date": "2020-08-03"
       },
@@ -15797,21 +15802,6 @@
         "title": "今天终于还是提离职了。",
         "link": "https://www.v2ex.com/t/695180",
         "date": "2020-08-03"
-      },
-      {
-        "title": "大家都在外漂了多久了，对于未来有什么打算？",
-        "link": "https://www.v2ex.com/t/695178",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "东方航空在维护吗？",
-        "link": "https://www.v2ex.com/t/695177",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "有开发小程序的小伙伴一起做工作室吗",
-        "link": "https://www.v2ex.com/t/695176",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -15978,23 +15968,23 @@
         "date": "2020-08-03"
       },
       {
-        "title": "一次 Django 内存异常排查实践",
-        "link": "https://toutiao.io/k/yrswi85",
-        "date": "2020-08-03"
-      },
-      {
         "title": "优雅的处理 TCP 粘包",
         "link": "https://toutiao.io/k/r1mab78",
         "date": "2020-08-03"
       },
       {
-        "title": "如何在 5 分钟内注册一个美区 Apple ID",
-        "link": "https://toutiao.io/k/xcl3jg7",
+        "title": "一次 Django 内存异常排查实践",
+        "link": "https://toutiao.io/k/yrswi85",
         "date": "2020-08-03"
       },
       {
         "title": "Go 调试分析的高阶技巧",
         "link": "https://toutiao.io/k/onlqg3p",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "如何在 5 分钟内注册一个美区 Apple ID",
+        "link": "https://toutiao.io/k/xcl3jg7",
         "date": "2020-08-03"
       },
       {
@@ -16028,23 +16018,8 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-03"
       },
       {
@@ -16053,28 +16028,8 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
-        "link": "https://toutiao.io/k/e8euial",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 从 0 到 1 开始前端异常监控",
-        "link": "https://toutiao.io/k/txe46k2",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-03"
       },
       {
@@ -16083,8 +16038,28 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
         "date": "2020-08-03"
       },
       {
@@ -16093,13 +16068,28 @@
         "date": "2020-08-03"
       },
       {
+        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
+        "link": "https://toutiao.io/k/e8euial",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 从 0 到 1 开始前端异常监控",
+        "link": "https://toutiao.io/k/txe46k2",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[推荐] 技术人员的写作指南",
         "link": "https://toutiao.io/k/asiim7t",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-03"
       }
     ]

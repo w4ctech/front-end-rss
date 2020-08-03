@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 05:33:30，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 05:46:46，:rocket: 更新条数: +3265， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-03-印度新增52972例新冠肺炎病例-累计确诊达1803695例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib0xrC5wy27HF77vECmGT200803&isfromapp=1) ![](assets/new.png)  
+- [2020-08-03-新加坡要求部分入境者佩戴电子追踪器](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipHoif1Mai56PATPJ95Or200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-大连目前现有病例主要集中在凯洋公司所在的甘井子区大连湾街道-占全部病例83%](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXtD00VFyWLYPIlA18osf200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-失业救济金“断粮”-多项数据亮红灯-美国经济复苏前景不明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articdi153LwWtPw8otoUlHg200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-大连市卫健委：未发现本次疫情与近期北京新疆病例有关联](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNqOOGLQ7h7JwEmxiJDUG200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-巴西研究人员利用人工智能模拟人群聚集点以降低感染风险](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimidgRSdWWdEkFHUItdW4200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-澳大利亚维多利亚州遭遇新冠肺炎疫情和禽流感](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKYcXm5Wc2FPVCAWeVoCN200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,8 +1052,9 @@
 </summary>
 
 
+- [2020-08-03-广东有后端实习的坑吗](https://www.v2ex.com/t/695228) ![](assets/new.png)  
 - [2020-08-03-拼多多-资深-iOS-工程师](https://www.v2ex.com/t/695225) ![](assets/new.png)  
-- [2020-08-03-字节跳动-|-教育-|-前端-|-北京-|-社招-&-校招-&-实习](https://www.v2ex.com/t/695224) ![](assets/new.png)  
+- [2020-08-03-字节跳动-|-教育-|-前端-|-北京-&-深圳-|-社招-&-校招-&-实习](https://www.v2ex.com/t/695224) ![](assets/new.png)  
 - [2020-08-03-求推荐好看的网站前端模板。](https://www.v2ex.com/t/695222) ![](assets/new.png)  
 - [2020-08-03-PyObject-能访问-PyLongObject-内容么](https://www.v2ex.com/t/695220) ![](assets/new.png)  
 - [2020-08-03-换了一个新的-wifi，居然让-mac-应用启动速度变慢了](https://www.v2ex.com/t/695219) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-03-知乎上进群捡漏是什么操作?](https://www.v2ex.com/t/695203) ![](assets/new.png)  
 - [2020-08-03-高德地图不知道从哪天开始经常弹新闻推送，还找不到在哪里关闭](https://www.v2ex.com/t/695202) ![](assets/new.png)  
 - [2020-08-03-500-元求购趣运动抢购脚本](https://www.v2ex.com/t/695201) ![](assets/new.png)  
-- [2020-08-03-开通招行社保卡的-8-月份的话费可以领了](https://www.v2ex.com/t/695200) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,10 +1124,10 @@
 - [2020-08-03-远程办公十分钟，干完一个月的活，剩下的时间……](https://toutiao.io/k/rsocien) ![](assets/new.png)  
 - [2020-08-03-谷歌浏览器安装的-Chrome-扩展越来越多，怎么管理？](https://toutiao.io/k/0fzi2bw) ![](assets/new.png)  
 - [2020-08-03-怎样-Hack-Linux-的内核符号？](https://toutiao.io/k/vig0w6i) ![](assets/new.png)  
-- [2020-08-03-一次-Django-内存异常排查实践](https://toutiao.io/k/yrswi85) ![](assets/new.png)  
 - [2020-08-03-优雅的处理-TCP-粘包](https://toutiao.io/k/r1mab78) ![](assets/new.png)  
-- [2020-08-03-如何在-5-分钟内注册一个美区-Apple-ID](https://toutiao.io/k/xcl3jg7) ![](assets/new.png)  
+- [2020-08-03-一次-Django-内存异常排查实践](https://toutiao.io/k/yrswi85) ![](assets/new.png)  
 - [2020-08-03-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-03-如何在-5-分钟内注册一个美区-Apple-ID](https://toutiao.io/k/xcl3jg7) ![](assets/new.png)  
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) ![](assets/new.png)  
 - [2020-08-03-Kubenetes-之新手入门篇](https://toutiao.io/k/7lwkuc2) ![](assets/new.png)  
 - [2020-08-03-如何选择-WebGL-框架和引擎？](https://toutiao.io/k/y5psg7p) ![](assets/new.png)  

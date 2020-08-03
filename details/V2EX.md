@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-03 09:02:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 09:09:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-03-第四期德国-IT-岗位招聘之-IT-Administrator,-IT-Requirements-Manager,-IT-Project-and-Portfolio-Manager](https://www.v2ex.com/t/695298) 
+- [2020-08-03-咨询一下关于招标采购平台的事情，单位想要建设一个招采平台，找相关的服务商，没有头绪，求助下。](https://www.v2ex.com/t/695297) 
+- [2020-08-03-IOS-工程师招聘-15k-35k](https://www.v2ex.com/t/695296) 
 - [2020-08-03-映客直播的后端-golang-岗位咋样？](https://www.v2ex.com/t/695295) 
 - [2020-08-03-上海量化强化学习工程师-不加班！-20-天年假！](https://www.v2ex.com/t/695293) 
 - [2020-08-03-请教一下各位大佬，这样的动画效果，用-vue-应该怎么实现](https://www.v2ex.com/t/695292) 
@@ -42,6 +45,3 @@
 - [2020-08-03-NBA2k20-还值得入手吗？下个月就出-21-了，还是曼巴纪念版](https://www.v2ex.com/t/695253) 
 - [2020-08-03-深圳内推-明源云客-双休，单周下午茶等优秀福利等你！](https://www.v2ex.com/t/695252) 
 - [2020-08-03-image-object-能直接转-file-object-么](https://www.v2ex.com/t/695250) 
-- [2020-08-03-离职拿到-offer-前，需要通知公司么？](https://www.v2ex.com/t/695248) 
-- [2020-08-03-端传媒五周年，-8-月-3-7-日开放全站-15000-篇深度内容，每日解密抽会员](https://www.v2ex.com/t/695247) 
-- [2020-08-03-短信大促-冰点价开卖，华为-Mate30-pro-手机、iWatch-等豪礼相送](https://www.v2ex.com/t/695246) 

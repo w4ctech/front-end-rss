@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-03 18:33:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 18:46:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2436,6 +2436,7 @@
 - [2020-07-24-知乎高赞《答案》：人生海海，各有解答](https://www.ershicimi.com/p/caa21d7f59cca9396e4952a670e8fb9b) 
 - [2020-07-23-他急了，他急了，他急了。只有他没看过知乎高考志愿填报攻略！](https://www.ershicimi.com/p/fa377dab7de0424886803e404a590779) 
 - [2020-07-22-知乎好问题：为什么人类没有发展出攻击性的器官？](https://www.ershicimi.com/p/0f5a06f3fea101ac3fbba86906cf196e) 
+- [2020-08-03-如何自己搭建包含某个公司名后缀的邮件系统？](https://www.v2ex.com/t/695387) 
 - [2020-08-03-如何自己搭建包含某个公司名的邮件系统？](https://www.v2ex.com/t/695386) 
 - [2020-08-03-关于安卓软件"读取应用列表"权限求解](https://www.v2ex.com/t/695385) 
 - [2020-08-03-吐槽-Money-Pro-这个单身狗记账软件](https://www.v2ex.com/t/695384) 
@@ -2498,15 +2499,12 @@
 - [2020-08-03-常见的-C#-异常及其修复方法](https://toutiao.io/k/neybk0d) 
 - [2020-08-03-聊聊对称加密与非对称加密](https://toutiao.io/k/w2g8tdj) 
 - [2020-08-03-如何让两个线程-“系鞋带”](https://toutiao.io/k/yywpiq6) 
-- [2020-08-03-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [2020-08-03-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
 - [2020-08-03-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
-- [2020-08-03-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
 - [2020-08-03-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [2020-08-03-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
-- [2020-08-03-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) 
-- [2020-08-03-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
-- [2020-08-03-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
 - [2020-08-03-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
+- [2020-08-03-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
+- [2020-08-03-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) 
 - [2020-08-03-记录一次“梅花三弄”的渗透之旅](https://sec.thief.one/article_content?a_id=5451a8a814a47cacadeb6c5d303adda3) 
 - [2020-08-03-每日攻防资讯简报Aug.3th](https://sec.thief.one/article_content?a_id=f66ab56611d368e4a162a5b4a289b380) 
 - [2020-08-03-【流行威胁跟踪】一黑客组织针对金融用户的定向分析报告](https://sec.thief.one/article_content?a_id=11f1504056475b84e363deab56c35b63) 

@@ -35,11 +35,6 @@
         "date": "2020-08-02"
       },
       {
-        "title": "最新海外疫情：新冠感染者超1772万 累计死亡超68万",
-        "link": "http://m.international.caixin.com/m/2020-08-02/101587770.html",
-        "date": "2020-08-01"
-      },
-      {
         "title": "【境内疫情观察】全国新增16例境外输入病例（8月1日）",
         "link": "http://m.database.caixin.com/m/2020-08-02/101587757.html",
         "date": "2020-08-01"
@@ -7795,7 +7790,7 @@
         "date": "2020-02-27"
       },
       {
-        "title": "地图|最新海外疫情：新冠感染者超1772万 美国累计感染超462万",
+        "title": "地图|最新海外疫情：新冠感染者超1795万 美国累计感染近467万",
         "link": "http://m.datanews.caixin.com/m/interactive/2020/pneumonia-h5/global.html",
         "date": "2020-02-26"
       },
@@ -12472,6 +12467,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "乌鲁木齐新冠肺炎确诊病例和无症状感染者总数连续4日下降",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF3fTzrKUoo0PJBPk8rnd200803&isfromapp=1",
+        "date": "2020-08-03"
+      },
+      {
         "title": "以色列新增416例新冠肺炎确诊病例 累计确诊73231例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuuF8TyWlGXXEvRdqo4Gy200803&isfromapp=1",
         "date": "2020-08-03"
@@ -12489,11 +12489,6 @@
       {
         "title": "​天津新增1例境外输入无症状感染者",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF2gkLPXOpPJcP632iS5N200803&isfromapp=1",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "乌克兰新增990例新冠肺炎确诊病例 累计超7.3万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirbuoVWJczpNRrcXYr4Nr200803&isfromapp=1",
         "date": "2020-08-03"
       }
     ]
@@ -15624,6 +15619,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[两室转租] 宝中/宝体 花样年花乡 2 室整体转租 5500",
+        "link": "https://www.v2ex.com/t/695304",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "web 端 大文件上传，计算每一块的 MD5 值",
+        "link": "https://www.v2ex.com/t/695303",
+        "date": "2020-08-03"
+      },
+      {
         "title": "[招聘] 石墨文档 - 面向未来的办公软件",
         "link": "https://www.v2ex.com/t/695302",
         "date": "2020-08-03"
@@ -15817,16 +15822,6 @@
         "title": "Java 零侵入 API 文档生成工具 smart-doc 1.9.1 发布",
         "link": "https://www.v2ex.com/t/695255",
         "date": "2020-08-03"
-      },
-      {
-        "title": "大家有没有坚持了很久的观点或者想法，突然发现是自己错了",
-        "link": "https://www.v2ex.com/t/695254",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "NBA2k20 还值得入手吗？下个月就出 21 了，还是曼巴纪念版",
-        "link": "https://www.v2ex.com/t/695253",
-        "date": "2020-08-03"
       }
     ]
   },
@@ -16003,6 +15998,11 @@
         "date": "2020-08-03"
       },
       {
+        "title": "Kubenetes 之新手入门篇",
+        "link": "https://toutiao.io/k/7lwkuc2",
+        "date": "2020-08-03"
+      },
+      {
         "title": "Go 调试分析的高阶技巧",
         "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-03"
@@ -16010,11 +16010,6 @@
       {
         "title": "一次 Django 内存异常排查实践",
         "link": "https://toutiao.io/k/yrswi85",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "Kubenetes 之新手入门篇",
-        "link": "https://toutiao.io/k/7lwkuc2",
         "date": "2020-08-03"
       },
       {
@@ -16043,23 +16038,18 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
-        "link": "https://toutiao.io/k/zidka9w",
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-03"
       },
       {
@@ -16073,28 +16063,33 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
+        "title": "[推荐] 线上服务的 FGC 问题排查，看这篇就够了",
+        "link": "https://toutiao.io/k/e8euial",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 技术人员的写作指南",
-        "link": "https://toutiao.io/k/asiim7t",
+        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
+        "link": "https://toutiao.io/k/3s4flk5",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
         "date": "2020-08-03"
       },
       {
@@ -16103,13 +16098,13 @@
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
         "date": "2020-08-03"
       },
       {
-        "title": "[推荐] 当我谈 HTTP 时，我谈些什么?",
-        "link": "https://toutiao.io/k/3s4flk5",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
         "date": "2020-08-03"
       },
       {

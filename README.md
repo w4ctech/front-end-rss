@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-03 08:02:39，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-03 08:10:02，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-03-视频面试的时候需要看着摄像头吗？](https://www.v2ex.com/t/695276) ![](assets/new.png)  
+- [2020-08-03-某金融交易平台大量技术岗位招聘中，欢迎私聊~](https://www.v2ex.com/t/695275) ![](assets/new.png)  
+- [2020-08-03-为什么总有些人说话就喜欢说着说着然后加个英文单词？-这是习惯还是装逼？](https://www.v2ex.com/t/695274) ![](assets/new.png)  
 - [2020-08-03-AMD-+多显卡A/N的黑果双系统可能性讨论](https://www.v2ex.com/t/695273) ![](assets/new.png)  
 - [2020-08-03-新版本-QQ](https://www.v2ex.com/t/695272) ![](assets/new.png)  
 - [2020-08-03-现在的网站-click-点击太累了，把所有的-click-换成-hover-怎么样？](https://www.v2ex.com/t/695270) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-03-右手中指关节经常疼是什么情况。。](https://www.v2ex.com/t/695256) ![](assets/new.png)  
 - [2020-08-03-Java-零侵入-API-文档生成工具-smart-doc-1.9.1-发布](https://www.v2ex.com/t/695255) ![](assets/new.png)  
 - [2020-08-03-大家有没有坚持了很久的观点或者想法，突然发现是自己错了](https://www.v2ex.com/t/695254) ![](assets/new.png)  
-- [2020-08-03-NBA2k20-还值得入手吗？下个月就出-21-了，还是曼巴纪念版](https://www.v2ex.com/t/695253) ![](assets/new.png)  
-- [2020-08-03-深圳内推-明源云客-双休，单周下午茶等优秀福利等你！](https://www.v2ex.com/t/695252) ![](assets/new.png)  
-- [2020-08-03-image-object-能直接转-file-object-么](https://www.v2ex.com/t/695250) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

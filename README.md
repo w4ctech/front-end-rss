@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 15:02:32，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 15:09:16，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -70,9 +70,9 @@
 - [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
 - [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
 - [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
-- [2020-08-02-中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
 - [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
+- [2020-08-02-中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html) ![](assets/new.png)  
 - [2020-08-02-南非确诊破50万大关-非洲检测率低恐致隐藏疫情风暴](http://m.international.caixin.com/m/2020-08-03/101588180.html) ![](assets/new.png)  
 - [2020-08-02-印度确诊180万例疫情在贫民窟传开-莫迪亲信自曝感染](http://m.international.caixin.com/m/2020-08-03/101588122.html) ![](assets/new.png)  
 - [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-04-罗斯福酱油真难喝……](https://www.v2ex.com/t/695666) ![](assets/new.png)  
+- [2020-08-04-关于单-wan-复用的问题](https://www.v2ex.com/t/695665) ![](assets/new.png)  
 - [2020-08-04-校招字节跳动-基础架构团队-北京/上海/南京/杭州/深圳都有职位](https://www.v2ex.com/t/695664) ![](assets/new.png)  
 - [2020-08-04-上海-C-轮-NLP-方向公司，重金求-Java-、Web、BI、航天前端技术、以及-Techleader-类型的大佬](https://www.v2ex.com/t/695663) ![](assets/new.png)  
 - [2020-08-04-NextCloud-很方便，问题来了，有开到公网接受轰炸的大佬吗](https://www.v2ex.com/t/695662) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-04-内推-秋招-字节跳动秋招开启，靠谱内推，可捞简历，多人已上岸！](https://www.v2ex.com/t/695645) ![](assets/new.png)  
 - [2020-08-04-关于个人服务器安全](https://www.v2ex.com/t/695644) ![](assets/new.png)  
 - [2020-08-04-AMD-yes！但是南桥风扇很吵怎么办？](https://www.v2ex.com/t/695643) ![](assets/new.png)  
-- [2020-08-04-求教-fastapi-如何从数据库删除数据](https://www.v2ex.com/t/695642) ![](assets/new.png)  
-- [2020-08-04-MacBook-Pro-13-寸-2020-实测支持单线-DP1.4](https://www.v2ex.com/t/695641) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,8 +1124,8 @@
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
 - [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) ![](assets/new.png)  
-- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
+- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-数据库系统设计概述](https://toutiao.io/k/3cyyk38) ![](assets/new.png)  

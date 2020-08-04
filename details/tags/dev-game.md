@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 22:18:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 22:31:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -28,4 +28,3 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-07-31-知乎故事-|-男生和女生长期一起打游戏会产生感觉吗？](https://www.ershicimi.com/p/a9ff7b49081c79865f8015622024b48c) 
-- [2020-08-04-一款鱼类养成游戏，预算价格-4w。](https://www.v2ex.com/t/695682) 

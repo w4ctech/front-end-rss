@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 01:48:33，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 02:02:45，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-04-mac-中-相同应用之间切换问题](https://www.v2ex.com/t/695422) ![](assets/new.png)  
+- [2020-08-04-GitHub-加速方式-非网站所有者-非推广~~](https://www.v2ex.com/t/695420) ![](assets/new.png)  
+- [2020-08-04-做了一个梦，感觉自己有点伟大。](https://www.v2ex.com/t/695419) ![](assets/new.png)  
 - [2020-08-04-收到了-1000-元的赞助......](https://www.v2ex.com/t/695418) ![](assets/new.png)  
 - [2020-08-04-送给妈妈什么生日礼物合适](https://www.v2ex.com/t/695417) ![](assets/new.png)  
 - [2020-08-04-请教区间删除算法问题](https://www.v2ex.com/t/695416) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-04-滴滴IOS-在小屏幕上的-UI-有一点点难用](https://www.v2ex.com/t/695397) ![](assets/new.png)  
 - [2020-08-04-Ubuntu-20.04-Intel-AX200-pci-网卡无法创建热点](https://www.v2ex.com/t/695396) ![](assets/new.png)  
 - [2020-08-04-idea-启动-flutter-报错](https://www.v2ex.com/t/695395) ![](assets/new.png)  
-- [2020-08-04-公务员招聘带头搞-35-岁歧视，凭啥矛头只针对资本家？](https://www.v2ex.com/t/695394) ![](assets/new.png)  
-- [2020-08-03-再谈-MBP-散热：用上导热垫之后再也不限速了](https://www.v2ex.com/t/695393) ![](assets/new.png)  
-- [2020-08-03-请教显示器接口问题](https://www.v2ex.com/t/695392) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,9 +1118,9 @@
 - [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
 - [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
-- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
-- [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
 - [2020-08-04-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
+- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
 - [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
@@ -1129,11 +1129,11 @@
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj) ![](assets/new.png)  
-- [2020-08-04-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-04-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-04-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) ![](assets/new.png)  
-- [2020-08-04-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-04-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-04-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-04-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
+- [2020-08-04-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-04-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

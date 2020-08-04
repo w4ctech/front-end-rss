@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 05:46:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 05:48:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -7,6 +7,8 @@
 
 
 
+- [2020-07-26-推荐一位-github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/4e6e5a2b151c52df4ee34b8515841583) 
+- [2020-07-24-一文入门DNS？从访问GitHub开始](https://www.ershicimi.com/p/28a091a5c351fe1c563f6adb6845333d) 
 - [2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) 
 - [2020-07-25-推荐几个Github排名前100，阿里、字节等前端大佬的公众号](https://www.ershicimi.com/p/bd6324ea69cb66815af54c01f6f49998) 
 - [2020-07-26-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/02f6c94cfcc7e81a98b1c2199873db06) 

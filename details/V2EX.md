@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-04 10:02:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 10:09:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-社招杭州内推滴滴出行-两轮车-资深/高级前端工程师](https://www.v2ex.com/t/695596) 
+- [2020-08-04-把-iPhone-放在水龙头下冲了一下，-Face-Id-跪了。](https://www.v2ex.com/t/695595) 
 - [2020-08-04-百度贴吧：比微信更有机会称王，却败于想象力](https://www.v2ex.com/t/695594) 
 - [2020-08-04-前同事借钱不还怎么办?](https://www.v2ex.com/t/695593) 
 - [2020-08-04-Vue-初学者求问一个关于-nextTick-和-async/await-的问题](https://www.v2ex.com/t/695592) 
@@ -46,5 +48,3 @@
 - [2020-08-04-mysql-优化问题](https://www.v2ex.com/t/695549) 
 - [2020-08-04-北京-社招-逍遥一下-高级服务端工程师-15k-30k*14-薪](https://www.v2ex.com/t/695548) 
 - [2020-08-04-为什么-.idea-目录从-git-中删除不行呢-git-rm---cached--r-.idea](https://www.v2ex.com/t/695547) 
-- [2020-08-04-Big-Sur-Beta-3-更新装完了又提示有更新，安装了好几次都没成功更新，怎么解...](https://www.v2ex.com/t/695546) 
-- [2020-08-04-MIUI-安装-Instagram-显示安装失败：其它原因](https://www.v2ex.com/t/695545) 

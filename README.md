@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 02:19:58，:rocket: 更新条数: +3265， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 02:31:31，:rocket: 更新条数: +3264， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-04-调查一下，-Google-的-Titan-Security-Key-有人有需求吗？](https://www.v2ex.com/t/695434) ![](assets/new.png)  
+- [2020-08-04-小米公交卡，刷卡时时除了公交车的终端会“嘟”的一声，自己的手机也会“当啷”的响，请问如何关掉手机的响声？](https://www.v2ex.com/t/695433) ![](assets/new.png)  
+- [2020-08-04-真是服了-jd-的跳转](https://www.v2ex.com/t/695432) ![](assets/new.png)  
 - [2020-08-04-每-5-分钟从-api1-获取数据，然后对-api1-获取的数据进行每小时总和，再和由-api2-抓取每小时的总和数据对比，如果对比不符则从-api3-补数据，这样的计划任务要...](https://www.v2ex.com/t/695431) ![](assets/new.png)  
 - [2020-08-04-两个类似的项目如何更好的做复用（团队）](https://www.v2ex.com/t/695429) ![](assets/new.png)  
 - [2020-08-04-出生就有乙肝，-想问下-现在做-Java-开发-入职体检-影响么？大学实习后一直到现在-公司也没有要求体检，现在换工作了，入职要求体检-突然很担心！-1](https://www.v2ex.com/t/695428) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-04-Python-的-for-和-while-循环为什么没有引入新的作用域？](https://www.v2ex.com/t/695413) ![](assets/new.png)  
 - [2020-08-04-有哪些软件设置本地电脑占用端口的应用能被互联网访问？](https://www.v2ex.com/t/695410) ![](assets/new.png)  
 - [2020-08-04-微信-X-工商银行，领满-10-减-8.8-券两张，即-2.4-元充-20-元话费！](https://www.v2ex.com/t/695408) ![](assets/new.png)  
-- [2020-08-04-这是-IntelliJ-IDEA-的一个-bug?](https://www.v2ex.com/t/695407) ![](assets/new.png)  
-- [2020-08-04-小米云平台专场，数据开发/存储/GO/-Java-/前端/Sre/数据库开发-25-50K](https://www.v2ex.com/t/695406) ![](assets/new.png)  
-- [2020-08-04-家里妹妹快结婚了，想送个礼物给她，-v-友们有什么推荐么？谢谢](https://www.v2ex.com/t/695405) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,12 +1115,12 @@
 
 
 - [2020-08-04-Python-为什么会有个奇怪的-“...”-对象？](https://toutiao.io/k/9e53gay) ![](assets/new.png)  
-- [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
-- [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
-- [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
+- [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
+- [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
+- [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
+- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
 - [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
@@ -1129,11 +1129,11 @@
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj) ![](assets/new.png)  
-- [2020-08-04-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-04-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-04-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-04-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
 - [2020-08-04-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-04-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
+- [2020-08-04-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
+- [2020-08-04-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-04-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

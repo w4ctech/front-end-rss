@@ -5,11 +5,6 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
-        "title": "8月3日全国新增新冠36例 新疆28例",
-        "link": "http://m.china.caixin.com/m/2020-08-04/101588342.html",
-        "date": "2020-08-03"
-      },
-      {
         "title": "大连卫健委：未发现本次疫情与近期北京新疆病例有关联",
         "link": "http://m.china.caixin.com/m/2020-08-03/101587906.html",
         "date": "2020-08-02"
@@ -12477,6 +12472,11 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "美媒：白宫强制工作人员进行随机病毒检测",
+        "link": "https://m.weibo.cn/3057540037/4534158975574371",
+        "date": "2020-08-04"
+      },
+      {
         "title": "六成日本人出现新冠疑似症状仍上班",
         "link": "https://m.weibo.cn/3057540037/4534148910291956",
         "date": "2020-08-04"
@@ -12494,11 +12494,6 @@
       {
         "title": "巴西单日新增确诊病例超1.6万例， 累计超275万例",
         "link": "https://m.weibo.cn/3057540037/4534089292710087",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "南非新增5377名新冠肺炎确诊病例，累计确诊516862例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQA8SGTquKt3h8jtCVBvJ200804&isfromapp=1",
         "date": "2020-08-03"
       }
     ]
@@ -16705,6 +16700,31 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "在成都工作六七年了，平面干了 4 年， UI 干了 2 年多，未来的出路在哪",
+        "link": "https://www.v2ex.com/t/695482",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "acunetix 检测中出现 tls1.0/tls1.1 enabled 让我升级 1.2 怎么破？",
+        "link": "https://www.v2ex.com/t/695481",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "新公司试用期 1 个月，不知道该不该离职",
+        "link": "https://www.v2ex.com/t/695479",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "实习 offer 求比较，恒生电子和顺丰",
+        "link": "https://www.v2ex.com/t/695478",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "《铜豌豆 Linux 》10.5.1 版本发布",
+        "link": "https://www.v2ex.com/t/695477",
+        "date": "2020-08-04"
+      },
+      {
         "title": "求助 安卓手机有没有好的 markdown 阅读器软件？",
         "link": "https://www.v2ex.com/t/695475",
         "date": "2020-08-04"
@@ -16795,11 +16815,6 @@
         "date": "2020-08-04"
       },
       {
-        "title": "李开复： TikTok 和谷歌不可比",
-        "link": "https://www.v2ex.com/t/695451",
-        "date": "2020-08-04"
-      },
-      {
         "title": "有意思， wolai 这个创业公司在发日报，汇总每日更新。看 7 月下旬更新真的是一天没休息啊。",
         "link": "https://www.v2ex.com/t/695450",
         "date": "2020-08-04"
@@ -16822,11 +16837,6 @@
       {
         "title": "初中高级程序员是怎么分的？",
         "link": "https://www.v2ex.com/t/695445",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "走过（摸）路过（鱼）的小伙伴，能花 10 秒帮我点个赞吗~",
-        "link": "https://www.v2ex.com/t/695443",
         "date": "2020-08-04"
       },
       {
@@ -16867,31 +16877,6 @@
       {
         "title": "小米公交卡，刷卡时时除了公交车的终端会“嘟”的一声，自己的手机也会“当啷”的响，请问如何关掉手机的响声？",
         "link": "https://www.v2ex.com/t/695433",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "真是服了 jd 的跳转",
-        "link": "https://www.v2ex.com/t/695432",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "每 5 分钟从 api1 获取数据，然后对 api1 获取的数据进行每小时总和，再和由 api2 抓取每小时的总和数据对比，如果对比不符则从 api3 补数据，这样的计划任务要...",
-        "link": "https://www.v2ex.com/t/695431",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "两个类似的项目如何更好的做复用（团队）",
-        "link": "https://www.v2ex.com/t/695429",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "出生就有乙肝， 想问下 现在做 Java 开发 入职体检 影响么？大学实习后一直到现在 公司也没有要求体检，现在换工作了，入职要求体检 突然很担心！ 1",
-        "link": "https://www.v2ex.com/t/695428",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "今天看到 libfuse 的接口，我傻了 [手动狗头]",
-        "link": "https://www.v2ex.com/t/695427",
         "date": "2020-08-04"
       }
     ]
@@ -17029,13 +17014,13 @@
         "date": "2020-08-04"
       },
       {
-        "title": "分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
+        "title": "Zeppelin 集成 Ranger 实现用户权限管控",
+        "link": "https://toutiao.io/k/yxrpfkd",
         "date": "2020-08-04"
       },
       {
-        "title": "Zeppelin 集成 Ranger 实现用户权限管控",
-        "link": "https://toutiao.io/k/yxrpfkd",
+        "title": "分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-04"
       },
       {
@@ -17084,13 +17069,13 @@
         "date": "2020-08-04"
       },
       {
-        "title": "数据库系统设计概述",
-        "link": "https://toutiao.io/k/3cyyk38",
+        "title": "[译] 从 Lombok 迁移到 Kotlin",
+        "link": "https://toutiao.io/k/38csz9a",
         "date": "2020-08-04"
       },
       {
-        "title": "[译] 从 Lombok 迁移到 Kotlin",
-        "link": "https://toutiao.io/k/38csz9a",
+        "title": "数据库系统设计概述",
+        "link": "https://toutiao.io/k/3cyyk38",
         "date": "2020-08-04"
       },
       {
@@ -17114,48 +17099,8 @@
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-04"
-      },
-      {
         "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
         "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-04"
       },
       {
@@ -17164,13 +17109,53 @@
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-04"
       },
       {
@@ -17179,8 +17164,8 @@
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
         "date": "2020-08-04"
       }
     ]

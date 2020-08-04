@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-04 03:48:32。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 04:02:46。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -523,9 +523,8 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】请教一下各位大佬概率算法问题？](https://www.v2ex.com/t/695442)
 - [【开发者头条】YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy)
-- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
-- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=775de0c9609406e03cadc0135a7b43ba)
+- [【安全热点】NETGEAR-httpd缓冲区溢出漏洞分析](https://sec.thief.one/article_content?a_id=37f095f67158b1d4e5a0bb2119a80f03)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -678,7 +677,6 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】8月3日全国新增新冠36例-新疆28例](http://m.china.caixin.com/m/2020-08-04/101588342.html)
 - [【武汉肺炎防疫全纪录(财新网)】大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html)
 - [【武汉肺炎防疫全纪录(财新网)】中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染者超1795万-累计死亡近68.5万](http://m.international.caixin.com/m/2020-08-03/101588162.html)
@@ -698,6 +696,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html)
 - [【武汉肺炎防疫全纪录(财新网)】大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html)
 - [【武汉肺炎防疫全纪录(财新网)】全日禁堂食仅一天后-港府宣布恢复餐厅日间堂食](http://m.china.caixin.com/m/2020-07-31/101586750.html)
+- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增96例本土病例（7月29日）](http://m.database.caixin.com/m/2020-07-30/101586330.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

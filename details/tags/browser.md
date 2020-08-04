@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 10:48:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 11:02:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -46,6 +46,16 @@
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) 
 - [2020-08-04-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-04-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
+- [2020-08-04-百家-|-信息安全为富力数字化转型保驾护航](https://sec.thief.one/article_content?a_id=3cd7699626669f5bff5d43b6a150e65c) 
+- [2020-08-04-国舜股份通过权威机构5项信息安全服务一级资质再认证](https://sec.thief.one/article_content?a_id=f29a294d44d90da840b753f1312aaff3) 
+- [2020-08-04-【安全风险通告】正方CA统一认证中心任意文件上传漏洞安全风险通告](https://sec.thief.one/article_content?a_id=23f8f19e1d6ad6454e6f4171789ee591) 
+- [2020-08-04-每日安全动态推送08-04](https://sec.thief.one/article_content?a_id=04100d7929bdc7476ecea4e81a6aeced) 
+- [2020-08-04-《2020电子邮件应用系统安全研究报告》发布](https://sec.thief.one/article_content?a_id=c0233e19572b01c9ef8b3b7bda273181) 
+- [2020-08-04-安全启动存在严重漏洞,几乎所有Linux和Windows设备受影响](https://sec.thief.one/article_content?a_id=16231d7b689d5084d659aba0b638dd8e) 
+- [2020-08-04-大伟,一名网工运维转型安全渗透工程师的自白.](https://sec.thief.one/article_content?a_id=684b27c05666ec6efe9ba44dcfb16bab) 
+- [2020-08-04-工信部组织开展2020年网络安全技术应用试点示范工作](https://sec.thief.one/article_content?a_id=5f50213eedeadcf20b687c28f88a97f7) 
+- [2020-08-04-一名网工运维转型安全渗透工程师的自白](https://sec.thief.one/article_content?a_id=de88241846a83c81ac3e94055bc1f514) 
+- [2020-08-03-​【安全圈】印度国旗突然闯入巴基斯坦广告,还配文“独立日快乐”](https://sec.thief.one/article_content?a_id=372bd5a223b84064b1992a8b54b1b0cd) 
 - [2020-08-03-媒体关注|“安全框架”进入北京网络安全大会主题](https://sec.thief.one/article_content?a_id=e29ebdf023b4694ec739e4b7afde5943) 
 - [2020-08-03-ISC-2020-互联网安全大会——筑梦八载,再启华章!](https://sec.thief.one/article_content?a_id=1593c7a5fcd173589515b2d897c82085) 
 - [2020-08-03-Black-Hat-2020上的11大网络安全工具](https://sec.thief.one/article_content?a_id=272df87f01aca14b28f3e815a080f708) 
@@ -60,9 +70,3 @@
 - [2020-08-02-周报|CSO薪资、数据安全治理、IAST赋能企业、工信部通报名单引热...](https://sec.thief.one/article_content?a_id=9577d285a7ee1038be46b661103449c2) 
 - [2020-08-02-内核数据保护KDP:防止数据损坏的一种新平台安全技术](https://sec.thief.one/article_content?a_id=5abaf817e2851daf0858cf2256f347e0) 
 - [2020-08-02-使用reGeorg+Proxifier实现内网穿透](https://sec.thief.one/article_content?a_id=c5ff70796d0d39f339985ba0251253cc) 
-- [2020-08-01-【安全圈】威胁又来!特朗普宣布:将禁止TikTok在美国运营](https://sec.thief.one/article_content?a_id=56f069bfc610a2fef90b0f078a160b47) 
-- [2020-08-01-《信息安全技术-网络安全等级保护安全设计技术要求》全文](https://sec.thief.one/article_content?a_id=9c2ccf817cc9c0e9446eb477f5edea14) 
-- [2020-07-31-安全研究实验室巡礼——澳大利亚昆士兰大学马思奇研究组](https://sec.thief.one/article_content?a_id=23ba8af00f2fb9d25efab8c629a6f043) 
-- [2020-07-31-【安全圈】颜强:因凡蒂诺被调查,源头来自黑客网站足球解密](https://sec.thief.one/article_content?a_id=7bf552f5694e2d55aba2441a586b6460) 
-- [2020-07-31-BCS系列活动|2020安全创客汇南方明星赛成功举办-本届十强诞生](https://sec.thief.one/article_content?a_id=e8c6650a06c89b8cc268d1c982f4086c) 
-- [2020-07-31-网络安全等级保护工作流程](https://sec.thief.one/article_content?a_id=1a60cb9a9cd890b0c2bdf66343f3f509) 

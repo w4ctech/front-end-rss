@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 04:48:33，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 05:02:23，:rocket: 更新条数: +3267， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-04-人在佛山，有人知道清理社保卡什么意思吗？](https://www.v2ex.com/t/695493) ![](assets/new.png)  
+- [2020-08-04-Reeder-查看-v2-的节点看不到评论呀，大家有什么解决办法吗](https://www.v2ex.com/t/695491) ![](assets/new.png)  
+- [2020-08-04-定制-Trackpad-手托](https://www.v2ex.com/t/695490) ![](assets/new.png)  
 - [2020-08-04-搭了个获取-IP-的服务](https://www.v2ex.com/t/695489) ![](assets/new.png)  
 - [2020-08-04-被-MS-TEAMS-坑的一次](https://www.v2ex.com/t/695488) ![](assets/new.png)  
 - [2020-08-04-Fluent-Reader：基于-Electron-的开源-RSS-阅读器，现支持-Fever-API-同步](https://www.v2ex.com/t/695487) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-04-求一套房产中介相关的微信小程序](https://www.v2ex.com/t/695472) ![](assets/new.png)  
 - [2020-08-04-买个-rixcloud-还要让我提交地址证明](https://www.v2ex.com/t/695469) ![](assets/new.png)  
 - [2020-08-04-帮微众银行的老友宣传下他们家的存款，我自己也买了还挺不错的（4.2%利率，随存随取）](https://www.v2ex.com/t/695468) ![](assets/new.png)  
-- [2020-08-04-咸鱼商务折扣购买-Ultrafine-4K-显示器靠谱不，通常打几折](https://www.v2ex.com/t/695467) ![](assets/new.png)  
-- [2020-08-04-如何部署“双机房双活”系统？](https://www.v2ex.com/t/695466) ![](assets/new.png)  
-- [2020-08-04-普拉提工作室求起名，采纳即包-100-元🧧一个](https://www.v2ex.com/t/695465) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,18 +1122,18 @@
 - [2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
 - [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
-- [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
 - [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
+- [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
 - [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) ![](assets/new.png)  
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj) ![](assets/new.png)  
-- [2020-08-04-译-从-Lombok-迁移到-Kotlin](https://toutiao.io/k/38csz9a) ![](assets/new.png)  
 - [2020-08-04-数据库系统设计概述](https://toutiao.io/k/3cyyk38) ![](assets/new.png)  
+- [2020-08-04-译-从-Lombok-迁移到-Kotlin](https://toutiao.io/k/38csz9a) ![](assets/new.png)  
 - [2020-08-04-谁说-Cat-不能做链路跟踪的，给我站出来](https://toutiao.io/k/d8zcuyc) ![](assets/new.png)  
-- [2020-08-04-走，HashMap，敢去爬山吗？](https://toutiao.io/k/85jn35i) ![](assets/new.png)  
 - [2020-08-04-近源渗透测试之-Keylogger-实战](https://toutiao.io/k/85l0klv) ![](assets/new.png)  
+- [2020-08-04-走，HashMap，敢去爬山吗？](https://toutiao.io/k/85jn35i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

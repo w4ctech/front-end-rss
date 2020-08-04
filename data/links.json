@@ -15644,6 +15644,36 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "enpass 现在价格涨得有点狠啊，阿三见 app store 买的人多，直接调 49 刀，折扣居然是 40%，这也太坑了。",
+        "link": "https://www.v2ex.com/t/695658",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "咸鱼和别人私聊，对方发来的视频，长按保存后，但找不到文件",
+        "link": "https://www.v2ex.com/t/695657",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "酷家乐成都太火爆， Java 后端 HC 今天直接锁了，据说是因为在走流程的人太多了",
+        "link": "https://www.v2ex.com/t/695656",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "2020 年 8 月的当下，写 web 应用不想碰 JS 应该选什么技术？",
+        "link": "https://www.v2ex.com/t/695655",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "为了两万块的工资，我在努力坚持着 996 的生活",
+        "link": "https://www.v2ex.com/t/695654",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "WIN10 的 mobile hotspot 移动热点是什么技术？",
+        "link": "https://www.v2ex.com/t/695653",
+        "date": "2020-08-04"
+      },
+      {
         "title": "请问有网站跳转+分享二维码一体化的方案吗？",
         "link": "https://www.v2ex.com/t/695651",
         "date": "2020-08-04"
@@ -15801,41 +15831,6 @@
       {
         "title": "你是否会因为别人的说法改变自己的价值观",
         "link": "https://www.v2ex.com/t/695611",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "求推荐一款屏幕挂灯。",
-        "link": "https://www.v2ex.com/t/695609",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "五点半下班，主管要求必须六点才能离开办公室",
-        "link": "https://www.v2ex.com/t/695607",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "前几天有个 V 友分享的一个好像是贵州农村的照片，说距离机场不远的一个地方",
-        "link": "https://www.v2ex.com/t/695606",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "谈谈今年 7-8 月找工作的经历",
-        "link": "https://www.v2ex.com/t/695605",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[PayPal 上海内推] 全球顶级风控团队众多 Java /大数据以及中国业务团队 IOS/IT Infra 等职位热招中！",
-        "link": "https://www.v2ex.com/t/695604",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "我做这网站有用吗？ http://guichu.topmini.cn/",
-        "link": "https://www.v2ex.com/t/695603",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[南京最舒服的外企] 趋势科技 21 届秋招火热开启！赶紧来内推吧~",
-        "link": "https://www.v2ex.com/t/695602",
         "date": "2020-08-04"
       }
     ]
@@ -16003,13 +15998,13 @@
         "date": "2020-08-04"
       },
       {
-        "title": "关于 errors 包的一些细节和思考",
-        "link": "https://toutiao.io/k/r2n2tnw",
+        "title": "Chrome 商店 Spam 插件套路分析",
+        "link": "https://toutiao.io/k/vphjfzm",
         "date": "2020-08-04"
       },
       {
-        "title": "Chrome 商店 Spam 插件套路分析",
-        "link": "https://toutiao.io/k/vphjfzm",
+        "title": "关于 errors 包的一些细节和思考",
+        "link": "https://toutiao.io/k/r2n2tnw",
         "date": "2020-08-04"
       },
       {
@@ -16058,8 +16053,38 @@
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 百万考生分数如何排序：计数排序",
+        "link": "https://toutiao.io/k/pz2smjn",
         "date": "2020-08-04"
       },
       {
@@ -16073,8 +16098,13 @@
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-04"
       },
       {
@@ -16083,53 +16113,18 @@
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 百万考生分数如何排序：计数排序",
-        "link": "https://toutiao.io/k/pz2smjn",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-04"
-      },
-      {
         "title": "[推荐] Redis 数据结构：跳跃表",
         "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
         "date": "2020-08-04"
       },
       {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-04"
       }
     ]

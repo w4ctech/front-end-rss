@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 14:33:36，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 14:46:25，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-04-enpass-现在价格涨得有点狠啊，阿三见-app-store-买的人多，直接调-49-刀，折扣居然是-40%，这也太坑了。](https://www.v2ex.com/t/695658) ![](assets/new.png)  
+- [2020-08-04-咸鱼和别人私聊，对方发来的视频，长按保存后，但找不到文件](https://www.v2ex.com/t/695657) ![](assets/new.png)  
+- [2020-08-04-酷家乐成都太火爆，-Java-后端-HC-今天直接锁了，据说是因为在走流程的人太多了](https://www.v2ex.com/t/695656) ![](assets/new.png)  
+- [2020-08-04-2020-年-8-月的当下，写-web-应用不想碰-JS-应该选什么技术？](https://www.v2ex.com/t/695655) ![](assets/new.png)  
+- [2020-08-04-为了两万块的工资，我在努力坚持着-996-的生活](https://www.v2ex.com/t/695654) ![](assets/new.png)  
+- [2020-08-04-WIN10-的-mobile-hotspot-移动热点是什么技术？](https://www.v2ex.com/t/695653) ![](assets/new.png)  
 - [2020-08-04-请问有网站跳转+分享二维码一体化的方案吗？](https://www.v2ex.com/t/695651) ![](assets/new.png)  
 - [2020-08-04-怎么检查自己的网是不是小区公用网](https://www.v2ex.com/t/695649) ![](assets/new.png)  
 - [2020-08-04-出租屋里翻墙太慢了，怎么办？](https://www.v2ex.com/t/695648) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-04-关于-Spark-Task-的疑问](https://www.v2ex.com/t/695639) ![](assets/new.png)  
 - [2020-08-04-Spring-获取客户端-IP-地址及存储细节](https://www.v2ex.com/t/695638) ![](assets/new.png)  
 - [2020-08-04-关于社保缴纳的意见,-想了解过来人的想法](https://www.v2ex.com/t/695637) ![](assets/new.png)  
-- [2020-08-04-vue/cli4.4.0-中如何全局使用-jquery?](https://www.v2ex.com/t/695636) ![](assets/new.png)  
-- [2020-08-04-求教-AWS“雪球”](https://www.v2ex.com/t/695635) ![](assets/new.png)  
-- [2020-08-04-生产环境-Docker-适合什么操作系统？](https://www.v2ex.com/t/695631) ![](assets/new.png)  
-- [2020-08-04-v2-里潜伏着的独立开发者们，这个问题你一定可以回答！](https://www.v2ex.com/t/695630) ![](assets/new.png)  
-- [2020-08-04-这里有在杭州西湖区文一西路附近工作的吗？](https://www.v2ex.com/t/695629) ![](assets/new.png)  
-- [2020-08-04-Sr.-Front-end-Developer---Leading-Pharma-Company-Base:Shanghai-Jingan-Package:-450k-600k](https://www.v2ex.com/t/695628) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,8 +1124,8 @@
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
 - [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) ![](assets/new.png)  
-- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
+- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-数据库系统设计概述](https://toutiao.io/k/3cyyk38) ![](assets/new.png)  

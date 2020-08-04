@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-04 11:02:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 11:08:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-想问问有没有人毁约微软的？会上黑名单吗？](https://www.v2ex.com/t/695612) 
 - [2020-08-04-你是否会因为别人的说法改变自己的价值观](https://www.v2ex.com/t/695611) 
 - [2020-08-04-求推荐一款屏幕挂灯。](https://www.v2ex.com/t/695609) 
 - [2020-08-04-五点半下班，主管要求必须六点才能离开办公室](https://www.v2ex.com/t/695607) 
@@ -45,4 +46,3 @@
 - [2020-08-04-前端刷完了这些，可以去腾讯试一试吗](https://www.v2ex.com/t/695566) 
 - [2020-08-04-关于-MySQL-Replication-with-Global-Transaction-Identifiers-的疑问](https://www.v2ex.com/t/695564) 
 - [2020-08-04-强迫症-关于网页打开速度](https://www.v2ex.com/t/695563) 
-- [2020-08-04-为什么这么多人喜欢-CentOS7？](https://www.v2ex.com/t/695562) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 10:18:46，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 10:31:18，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-04-伊朗新增2751例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8V8oW1EiElHxhweMlaDI200804&isfromapp=1) ![](assets/new.png)  
+- [2020-08-04-新疆疾控中心：基因测序显示此次疫情来源于同一传染源](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCKNL5lkn4gLsIHQKOFVQ200804&isfromapp=1) ![](assets/new.png)  
+- [2020-08-04-巴基斯坦新增432例新冠肺炎确诊病例-累计确诊280461例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTCwBkRqco8Q2OCyNWzze200804&isfromapp=1) ![](assets/new.png)  
 - [2020-08-04-俄罗斯新增5159例确诊](https://m.weibo.cn/3057540037/4534223354732746) ![](assets/new.png)  
 - [2020-08-04-乌兹别克斯坦新增722例新冠肺炎确诊病例-累计确诊26550例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy3aw4WtIjlB5zV2155ao200804&isfromapp=1) ![](assets/new.png)  
-- [2020-08-04-乌克兰新增1061例新冠肺炎确诊病例-累计确诊超7.4万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIumWR2XF11VWwj79Hb5c200804&isfromapp=1) ![](assets/new.png)  
-- [2020-08-04-赞比亚新增233例新冠肺炎确诊病例-累计确诊增至6580例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigJhf9oIODcYdcX2Uezpw200804&isfromapp=1) ![](assets/new.png)  
-- [2020-08-04-吉尔吉斯斯坦新增412例新冠肺炎确诊病例-累计37541例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwBDjhk0Kvw06VhzYT9E200804&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-04-前几天有个-V-友分享的一个好像是贵州农村的照片，说距离机场不远的一个地方](https://www.v2ex.com/t/695606) ![](assets/new.png)  
+- [2020-08-04-谈谈今年-7-8-月找工作的经历](https://www.v2ex.com/t/695605) ![](assets/new.png)  
+- [2020-08-04-PayPal-上海内推-全球顶级风控团队众多-Java-/大数据以及中国业务团队-IOS/IT-Infra-等职位热招中！](https://www.v2ex.com/t/695604) ![](assets/new.png)  
+- [2020-08-04-我做这网站有用吗？-http://guichu.topmini.cn/](https://www.v2ex.com/t/695603) ![](assets/new.png)  
+- [2020-08-04-南京最舒服的外企-趋势科技-21-届秋招火热开启！赶紧来内推吧~](https://www.v2ex.com/t/695602) ![](assets/new.png)  
+- [2020-08-04-这种情况你们是后端处理还是前端处理?](https://www.v2ex.com/t/695601) ![](assets/new.png)  
 - [2020-08-04-如何本地-npm-安装从-github-上面下载的开源包。](https://www.v2ex.com/t/695599) ![](assets/new.png)  
 - [2020-08-04-有没有人尝试过整个项目都完全用-MongoDB-这种-NoSQL？有遇到过什么坑吗？](https://www.v2ex.com/t/695597) ![](assets/new.png)  
 - [2020-08-04-社招杭州内推滴滴出行-两轮车-资深/高级前端工程师](https://www.v2ex.com/t/695596) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-04-关于学历的选择](https://www.v2ex.com/t/695586) ![](assets/new.png)  
 - [2020-08-04-试用了一下-Wolai（我来），觉得不妥](https://www.v2ex.com/t/695585) ![](assets/new.png)  
 - [2020-08-04-疑问，外国程序员都不写-blog-的吗？](https://www.v2ex.com/t/695583) ![](assets/new.png)  
-- [2020-08-04-使用-jest-跑的-unit-test，运行测试文件，花了-10s，怎么分析一下性能问题？](https://www.v2ex.com/t/695582) ![](assets/new.png)  
-- [2020-08-04-大家觉得以后学什么专业会比较有钱途？](https://www.v2ex.com/t/695581) ![](assets/new.png)  
-- [2020-08-04-Flask+MySQL-如何实现双机热备](https://www.v2ex.com/t/695580) ![](assets/new.png)  
-- [2020-08-04-升级到-IDEA-2020.2-后经常没提示及报错修复后不会消失](https://www.v2ex.com/t/695579) ![](assets/new.png)  
-- [2020-08-04-@上班族丨你，坐「错」了吗！（内附多视频）](https://www.v2ex.com/t/695578) ![](assets/new.png)  
-- [2020-08-04-MS-EDGE-的书签会影响到-Chrome-的书签](https://www.v2ex.com/t/695577) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1131,8 +1131,8 @@
 - [2020-08-04-swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj) ![](assets/new.png)  
 - [2020-08-04-数据库系统设计概述](https://toutiao.io/k/3cyyk38) ![](assets/new.png)  
 - [2020-08-04-译-从-Lombok-迁移到-Kotlin](https://toutiao.io/k/38csz9a) ![](assets/new.png)  
-- [2020-08-04-谁说-Cat-不能做链路跟踪的，给我站出来](https://toutiao.io/k/d8zcuyc) ![](assets/new.png)  
 - [2020-08-04-近源渗透测试之-Keylogger-实战](https://toutiao.io/k/85l0klv) ![](assets/new.png)  
+- [2020-08-04-谁说-Cat-不能做链路跟踪的，给我站出来](https://toutiao.io/k/d8zcuyc) ![](assets/new.png)  
 - [2020-08-04-走，HashMap，敢去爬山吗？](https://toutiao.io/k/85jn35i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 21:08:58，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 21:18:21，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -601,6 +601,10 @@
 </summary>
 
 
+- [2020-08-04-应该在JavaScript中使用Class吗？](https://www.ershicimi.com/p/bd32a4b14a22166f54394f801e787e01) ![](assets/new.png)  
+- [2020-08-04-【万字长文】史上最强vue总结，更新版](https://www.ershicimi.com/p/5f587b1f639ff6eb4dc0ced05a8599c3) ![](assets/new.png)  
+- [2020-08-03-一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/171df28ff0edbe1d56c921d7fa3ab686) ![](assets/new.png)  
+- [2020-08-03-还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下](https://www.ershicimi.com/p/04f3f774d4fecb8f9564024b9fa99ac1) ![](assets/new.png)  
 - [2020-08-02-【干货】Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/14032fdc02504ea4910da6aab08d1bec) ![](assets/new.png)  
 - [2020-08-01-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/04c6915c0b7c9d4556ed061f397c32ca) ![](assets/new.png)  
 - [2020-08-01-从头开始复习算法之让你彻底搞清楚BFS和DFS](https://www.ershicimi.com/p/e413a9f238897d02fadf0d40160a09a7) ![](assets/new.png)  
@@ -617,10 +621,6 @@
 - [2020-07-26-「牛客网」45道JS能力测评经典题总结](https://www.ershicimi.com/p/fab77a10f0e38b36bd4898a091577763) ![](assets/new.png)  
 - [2020-07-25-推荐几个Github排名前100，阿里、字节等前端大佬的公众号](https://www.ershicimi.com/p/bd6324ea69cb66815af54c01f6f49998) ![](assets/new.png)  
 - [2020-07-25-vite-——-一种新的、更快地-web-开发工具](https://www.ershicimi.com/p/dd556e80e864f38101251847df11518b) ![](assets/new.png)  
-- [2020-07-24-使用verdaccio搭建npm私有源](https://www.ershicimi.com/p/797837ed194bb8368f0b21efa925a5bb) ![](assets/new.png)  
-- [2020-07-24-《CSS揭秘》实用技巧总结](https://www.ershicimi.com/p/09586e543db937947e53e55bbefce175) ![](assets/new.png)  
-- [2020-07-23-使用-Angular-打造微前端架构的-ToB-企业级应用](https://www.ershicimi.com/p/f21a86663923b0aa6c7696ff8967b7e3) ![](assets/new.png)  
-- [2020-07-23-微信终于支持-H5-跳转-App-&小程序](https://www.ershicimi.com/p/22db66b13bfbb9da9291d8871b9302c4) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

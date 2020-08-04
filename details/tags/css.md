@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 21:08:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 21:18:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -18,7 +18,6 @@
 - [2019-11-18-赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89) 
 - [2020-07-27-一行-CSS-代码搞定响应式布局](https://www.ershicimi.com/p/d8d864aa387c420fa7d7726177163b0b) 
 - [2020-07-29-收藏！40-个-CSS-布局技巧](https://www.ershicimi.com/p/29ba7314cfb826935adf2a2638dd0ef0) 
-- [2020-07-24-《CSS揭秘》实用技巧总结](https://www.ershicimi.com/p/09586e543db937947e53e55bbefce175) 
 - [2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
 - [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) 

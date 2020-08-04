@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 05:17:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 05:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -87,6 +87,7 @@
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
+- [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
 - [2020-08-04-Videosrt，一个批量快速自动生成视频/音频-SRT-字幕文件的开源-Windows-软件，自媒体必备！](https://www.v2ex.com/t/695461) 
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) 
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) 

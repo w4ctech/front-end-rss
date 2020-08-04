@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 05:17:31，:rocket: 更新条数: +3249， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 05:31:26，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -44,7 +44,7 @@
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 - [前端艺术家&&飞冰早报](#前端艺术家&&飞冰早报)![](assets/dot.png)   
@@ -885,6 +885,26 @@
 </summary>
 
 
+- [2020-08-02-“一挖就走”，中芯国际为什么留不住人？](https://www.ershicimi.com/p/3b361156e5658039d223b25bfdc0f997) ![](assets/new.png)  
+- [2020-08-02-去Oracle实录：如何在线更换金融核心场景中的数据库？](https://www.ershicimi.com/p/174a51ae472f58fd9acf5117794cf264) ![](assets/new.png)  
+- [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) ![](assets/new.png)  
+- [2020-08-02-22款好用的CLI工具](https://www.ershicimi.com/p/de8ff4c83bd1566bbaa4bcd9e432138f) ![](assets/new.png)  
+- [2020-08-01-华为第二批天才少年校招薪资曝光：华科博士201万；前百度云副总裁成阿里最短命P10；ofo总部人去楼](https://www.ershicimi.com/p/ca0a4326d5c8a29ed38de2fa37a88bb2) ![](assets/new.png)  
+- [2020-08-01-ITER，光刻机之后又一人类科学奇迹丨Q事界](https://www.ershicimi.com/p/efa3cb103ca1c6eb5099777d29ce1b0c) ![](assets/new.png)  
+- [2020-08-01-云原生时代的流量入口：Envoy-Gateway](https://www.ershicimi.com/p/3053ea218d99c7f7f871268c7c399e86) ![](assets/new.png)  
+- [2020-08-01-2020-年，苹果的-AI-还有创新吗？](https://www.ershicimi.com/p/64b763448240f4a4b99b45878582366b) ![](assets/new.png)  
+- [2020-07-31-一些关于架构师的误解-|-极客大学](https://www.ershicimi.com/p/c9b5d198be21aa1c69f91591001b431c) ![](assets/new.png)  
+- [2020-07-31-腾讯收购搜狗背后，互联网圈开始内卷？](https://www.ershicimi.com/p/b9495f682115f0d7e13bc6e41b787627) ![](assets/new.png)  
+- [2020-07-31-云计算时代下，如何运用Serverless让业务逆袭？|-Q推荐](https://www.ershicimi.com/p/518a2bd0926db9a714d7eb220500e7aa) ![](assets/new.png)  
+- [2020-07-31-Serverless-实战：通过-Component-实现多地域部署容灾](https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab) ![](assets/new.png)  
+- [2020-07-31-下笔如有神：这是一个基于营销行业的-AI-技术实践-|-Q推荐](https://www.ershicimi.com/p/cf4b97679260c2541be9cfe82859195f) ![](assets/new.png)  
+- [2020-07-30-美英法日接连“拉黑”，没有华为的5G网络会怎么样-？](https://www.ershicimi.com/p/568be888375621607fd60f1017c22538) ![](assets/new.png)  
+- [2020-07-30-快手自研kQUIC：千万级QPS集群是如何实现的？](https://www.ershicimi.com/p/503600d70beb6b306d58e8f4571d12ed) ![](assets/new.png)  
+- [2020-07-30-鲲鹏应用创新大赛2020参赛指南-|-Q推荐](https://www.ershicimi.com/p/e1ed164868529b4e4300acd2e8140523) ![](assets/new.png)  
+- [2020-07-30-如果这三点全中，你需要认真考虑-API-这项技术了-|-Q推荐](https://www.ershicimi.com/p/8aec16bf7c670861c435fc126d8ce26b) ![](assets/new.png)  
+- [2020-07-30-程序员简历的8个建议](https://www.ershicimi.com/p/8141cb7f566959466975f78f29480f09) ![](assets/new.png)  
+- [2020-07-29-我敢说，这是最全的常用设计模式汇总-|-极客时间](https://www.ershicimi.com/p/b129ab71837d9ceeb30a43c7e5aaadf3) ![](assets/new.png)  
+- [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1032,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-04-mongodb-有-log-的情况下，能看到哪些操作消耗比较高吗？](https://www.v2ex.com/t/695501) ![](assets/new.png)  
+- [2020-08-04-说一下板瓦工香-K-的问题很大的经历](https://www.v2ex.com/t/695500) ![](assets/new.png)  
+- [2020-08-04-如何拒绝父母兄弟们要钱？](https://www.v2ex.com/t/695499) ![](assets/new.png)  
+- [2020-08-04-延迟满足--对抗内心的魔鬼](https://www.v2ex.com/t/695498) ![](assets/new.png)  
+- [2020-08-04-ASUS-改梅林了，为啥信道还是只有国内的那几个](https://www.v2ex.com/t/695497) ![](assets/new.png)  
 - [2020-08-04-请问大家，你们公司装的是什么杀毒软件？小公司，-30-多台服务器，-10-几台-windows-机。求推荐哪个更好。目前准备-360-天擎，瑞星企业版，火绒企业版](https://www.v2ex.com/t/695495) ![](assets/new.png)  
 - [2020-08-04-求推荐带手写笔安卓墨水屏](https://www.v2ex.com/t/695494) ![](assets/new.png)  
 - [2020-08-04-人在佛山，有人知道清理社保卡什么意思吗？](https://www.v2ex.com/t/695493) ![](assets/new.png)  
@@ -1047,11 +1072,6 @@
 - [2020-08-04-acunetix-检测中出现-tls1.0/tls1.1-enabled-让我升级-1.2-怎么破？](https://www.v2ex.com/t/695481) ![](assets/new.png)  
 - [2020-08-04-新公司试用期-1-个月，不知道该不该离职](https://www.v2ex.com/t/695479) ![](assets/new.png)  
 - [2020-08-04-实习-offer-求比较，恒生电子和顺丰](https://www.v2ex.com/t/695478) ![](assets/new.png)  
-- [2020-08-04-《铜豌豆-Linux-》10.5.1-版本发布](https://www.v2ex.com/t/695477) ![](assets/new.png)  
-- [2020-08-04-求助-安卓手机有没有好的-markdown-阅读器软件？](https://www.v2ex.com/t/695475) ![](assets/new.png)  
-- [2020-08-04-首月￥-100-香港服务器-4-核-16G，独享-100M-带宽三网直连+国际-Premium-路由](https://www.v2ex.com/t/695474) ![](assets/new.png)  
-- [2020-08-04-大家是否认同这样一句话？](https://www.v2ex.com/t/695473) ![](assets/new.png)  
-- [2020-08-04-求一套房产中介相关的微信小程序](https://www.v2ex.com/t/695472) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1096,8 +1116,8 @@
 
 - [2020-08-04-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-04-Python-为什么会有个奇怪的-“...”-对象？](https://toutiao.io/k/9e53gay) ![](assets/new.png)  
-- [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
 - [2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
 - [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
 - [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  

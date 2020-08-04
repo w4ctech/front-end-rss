@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 04:18:47，:rocket: 更新条数: +3480， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 04:31:32，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-04-Fluent-Reader：基于-Electron-的开源-RSS-阅读器，现支持-Fever-API-同步](https://www.v2ex.com/t/695487) ![](assets/new.png)  
+- [2020-08-04-啊~！你看这个人又来找喜欢宠物的后端了](https://www.v2ex.com/t/695486) ![](assets/new.png)  
+- [2020-08-04-阿里云解析这个延迟是认真的吗](https://www.v2ex.com/t/695485) ![](assets/new.png)  
 - [2020-08-04-呃，亚马逊的-AMI-映像不会用](https://www.v2ex.com/t/695484) ![](assets/new.png)  
 - [2020-08-04-在成都工作六七年了，平面干了-4-年，-UI-干了-2-年多，未来的出路在哪](https://www.v2ex.com/t/695482) ![](assets/new.png)  
 - [2020-08-04-acunetix-检测中出现-tls1.0/tls1.1-enabled-让我升级-1.2-怎么破？](https://www.v2ex.com/t/695481) ![](assets/new.png)  
@@ -1089,9 +1072,6 @@
 - [2020-08-04-普拉提工作室求起名，采纳即包-100-元🧧一个](https://www.v2ex.com/t/695465) ![](assets/new.png)  
 - [2020-08-04-把上次发的-Github-个人页计数器抽出来做成了公共-API](https://www.v2ex.com/t/695464) ![](assets/new.png)  
 - [2020-08-04-成都|酷家乐第三研发中心-招人](https://www.v2ex.com/t/695463) ![](assets/new.png)  
-- [2020-08-04-有哪些-socket-调试工具，可以以域名而不是-ip-的方式调试？](https://www.v2ex.com/t/695462) ![](assets/new.png)  
-- [2020-08-04-Videosrt，一个批量快速自动生成视频/音频-SRT-字幕文件的开源-Windows-软件，自媒体必备！](https://www.v2ex.com/t/695461) ![](assets/new.png)  
-- [2020-08-04-安卓手机能使用-Airpods-Pro-么，-效果咋样呢](https://www.v2ex.com/t/695460) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

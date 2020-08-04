@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 12:33:37，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 12:46:37，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,16 +1052,18 @@
 </summary>
 
 
+- [2020-08-04-vue/cli4.4.0-中如何全局使用-jquery?](https://www.v2ex.com/t/695636) ![](assets/new.png)  
+- [2020-08-04-求教-AWS“雪球”](https://www.v2ex.com/t/695635) ![](assets/new.png)  
+- [2020-08-04-生产环境-Docker-适合什么操作系统？](https://www.v2ex.com/t/695631) ![](assets/new.png)  
+- [2020-08-04-v2-里潜伏着的独立开发者们，这个问题你一定可以回答！](https://www.v2ex.com/t/695630) ![](assets/new.png)  
 - [2020-08-04-这里有在杭州西湖区文一西路附近工作的吗？](https://www.v2ex.com/t/695629) ![](assets/new.png)  
 - [2020-08-04-Sr.-Front-end-Developer---Leading-Pharma-Company-Base:Shanghai-Jingan-Package:-450k-600k](https://www.v2ex.com/t/695628) ![](assets/new.png)  
 - [2020-08-04-微信图片-反向代理的问题](https://www.v2ex.com/t/695627) ![](assets/new.png)  
 - [2020-08-04-武汉最好的互联网公司斗鱼诚挚欢迎各位的加入。](https://www.v2ex.com/t/695626) ![](assets/new.png)  
-- [2020-08-04-转-Google-Cloud-$3000-的-Credits，能用到明年-6-月](https://www.v2ex.com/t/695624) ![](assets/new.png)  
 - [2020-08-04-go-空值相关-gin-怎么检测-query-或-form-参数存不存在？](https://www.v2ex.com/t/695623) ![](assets/new.png)  
 - [2020-08-04-LeetCode-刷题一到面试就忘怎么办？](https://www.v2ex.com/t/695622) ![](assets/new.png)  
 - [2020-08-04-6-年前在我-V-站分享的项目现在终于达到-100-万用户了](https://www.v2ex.com/t/695620) ![](assets/new.png)  
 - [2020-08-04-想在-Centos7-上长时间开放一个不用的-TCP-端口](https://www.v2ex.com/t/695619) ![](assets/new.png)  
-- [2020-08-04-有海外投放的小伙伴想接私活么](https://www.v2ex.com/t/695618) ![](assets/new.png)  
 - [2020-08-04-关于-Ubuntu-系统-CPU-占用-100%-的问题](https://www.v2ex.com/t/695617) ![](assets/new.png)  
 - [2020-08-04-youtube-会员-印度-后台播放-去广告-一年期-任何节点地区可用](https://www.v2ex.com/t/695616) ![](assets/new.png)  
 - [2020-08-04-「Hulu-北京研发中心----内推」](https://www.v2ex.com/t/695615) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-04-你是否会因为别人的说法改变自己的价值观](https://www.v2ex.com/t/695611) ![](assets/new.png)  
 - [2020-08-04-求推荐一款屏幕挂灯。](https://www.v2ex.com/t/695609) ![](assets/new.png)  
 - [2020-08-04-五点半下班，主管要求必须六点才能离开办公室](https://www.v2ex.com/t/695607) ![](assets/new.png)  
-- [2020-08-04-前几天有个-V-友分享的一个好像是贵州农村的照片，说距离机场不远的一个地方](https://www.v2ex.com/t/695606) ![](assets/new.png)  
-- [2020-08-04-谈谈今年-7-8-月找工作的经历](https://www.v2ex.com/t/695605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 07:33:35，:rocket: 更新条数: +3483， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 07:46:57，:rocket: 更新条数: +3485， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -66,6 +66,8 @@
 
 - [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
 - [2020-08-03-最新疫情：全国新冠累计确诊84464例-本土病例新疆28例辽宁2例](http://m.china.caixin.com/m/2020-08-04/101588437.html) ![](assets/new.png)  
+- [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
+- [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
 - [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
 - [2020-08-02-中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html) ![](assets/new.png)  
 - [2020-08-02-最新海外疫情：新冠感染者超1795万-累计死亡近68.5万](http://m.international.caixin.com/m/2020-08-03/101588162.html) ![](assets/new.png)  
@@ -82,8 +84,6 @@
 - [2020-07-30-【境内疫情观察】新疆新增112例本土病例（7月30日）](http://m.database.caixin.com/m/2020-07-31/101587061.html) ![](assets/new.png)  
 - [2020-07-30-大流行手记|7月30日：拉美饥饿人群或大幅增加-英国全民减肥抗新冠](https://m.caixin.com/m/2020-07-31/101586717.html) ![](assets/new.png)  
 - [2020-07-30-新疆新冠确诊病例单日新增破百-社区管控不断趋严](http://m.china.caixin.com/m/2020-07-31/101587194.html) ![](assets/new.png)  
-- [2020-07-30-香港亚博“方舱医院”即将启用-中央派员赴港协助大规模检测](http://m.china.caixin.com/m/2020-07-31/101587371.html) ![](assets/new.png)  
-- [2020-07-30-大连累计确诊68例-完成核酸检测389.2万份](http://m.china.caixin.com/m/2020-07-31/101586921.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,13 @@
 </summary>
 
 
+- [2020-08-04-Big-Sur-Beta-3-更新装完了又提示有更新，安装了好几次都没成功更新，怎么解...](https://www.v2ex.com/t/695546) ![](assets/new.png)  
+- [2020-08-04-MIUI-安装-Instagram-显示安装失败：其它原因](https://www.v2ex.com/t/695545) ![](assets/new.png)  
+- [2020-08-04-求推荐开源好用的-win-和-mac-OS-屏幕取词翻译软件](https://www.v2ex.com/t/695544) ![](assets/new.png)  
+- [2020-08-04-我真醉了，好不容易找了女朋友准备定居，公司要搬家了](https://www.v2ex.com/t/695543) ![](assets/new.png)  
+- [2020-08-04-JavaScript-有没有类似-Java-中-apache-的-commons-库](https://www.v2ex.com/t/695542) ![](assets/new.png)  
+- [2020-08-04-招聘-上海-坚果云—国内首家云存储服务商（我们准备了丰厚的福利）](https://www.v2ex.com/t/695541) ![](assets/new.png)  
+- [2020-08-04-开源文档管理系统-Wizard-1.2.3-发布](https://www.v2ex.com/t/695539) ![](assets/new.png)  
 - [2020-08-04-基于令牌桶算法实现的接口限流器，参数大小应该怎么设置呢？](https://www.v2ex.com/t/695537) ![](assets/new.png)  
 - [2020-08-04-各位朋友，你们-Mac-系统-“备忘录”-中文是否行间距这么挤？](https://www.v2ex.com/t/695535) ![](assets/new.png)  
 - [2020-08-04-关于学历](https://www.v2ex.com/t/695534) ![](assets/new.png)  
@@ -1085,13 +1092,6 @@
 - [2020-08-04-关于-HTML-的一个-疑问](https://www.v2ex.com/t/695520) ![](assets/new.png)  
 - [2020-08-04-被各种关系数据库的-json-操作坑死了](https://www.v2ex.com/t/695519) ![](assets/new.png)  
 - [2020-08-04-这个网站不知是起纠纷还是被勒索了](https://www.v2ex.com/t/695518) ![](assets/new.png)  
-- [2020-08-04-Windows-下枚举窗口并寻找指定标题窗口加以置顶，遇到类似-QT-的定制窗口无法简单取到实际标题应如何处理？](https://www.v2ex.com/t/695517) ![](assets/new.png)  
-- [2020-08-04-北京滴滴招-Java-后端/数据/前端/测试/算法/web-安全等，-hc-多多](https://www.v2ex.com/t/695516) ![](assets/new.png)  
-- [2020-08-04-平安科技招聘-965-16-薪+-上海-崂山路](https://www.v2ex.com/t/695514) ![](assets/new.png)  
-- [2020-08-04-印象笔记的吃相是不是有点难看呢？](https://www.v2ex.com/t/695513) ![](assets/new.png)  
-- [2020-08-04-Apple-Store-个人开发者有提交分类限制么](https://www.v2ex.com/t/695512) ![](assets/new.png)  
-- [2020-08-04-科目-2-考试车辆定位问题](https://www.v2ex.com/t/695511) ![](assets/new.png)  
-- [2020-08-04-北京-社招-逍遥一下-高级服务端工程师（Go-方向）20k-30k*14-薪](https://www.v2ex.com/t/695510) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1142,8 +1142,8 @@
 - [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
 - [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
-- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
+- [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) ![](assets/new.png)  
 - [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  

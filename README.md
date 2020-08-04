@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 10:09:09，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 10:17:45，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-04-如何本地-npm-安装从-github-上面下载的开源包。](https://www.v2ex.com/t/695599) ![](assets/new.png)  
+- [2020-08-04-有没有人尝试过整个项目都完全用-MongoDB-这种-NoSQL？有遇到过什么坑吗？](https://www.v2ex.com/t/695597) ![](assets/new.png)  
 - [2020-08-04-社招杭州内推滴滴出行-两轮车-资深/高级前端工程师](https://www.v2ex.com/t/695596) ![](assets/new.png)  
 - [2020-08-04-把-iPhone-放在水龙头下冲了一下，-Face-Id-跪了。](https://www.v2ex.com/t/695595) ![](assets/new.png)  
 - [2020-08-04-百度贴吧：比微信更有机会称王，却败于想象力](https://www.v2ex.com/t/695594) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-04-升级到-IDEA-2020.2-后经常没提示及报错修复后不会消失](https://www.v2ex.com/t/695579) ![](assets/new.png)  
 - [2020-08-04-@上班族丨你，坐「错」了吗！（内附多视频）](https://www.v2ex.com/t/695578) ![](assets/new.png)  
 - [2020-08-04-MS-EDGE-的书签会影响到-Chrome-的书签](https://www.v2ex.com/t/695577) ![](assets/new.png)  
-- [2020-08-04-重金！-求石器时代源码-手游版本！](https://www.v2ex.com/t/695576) ![](assets/new.png)  
-- [2020-08-04-小米-10-在-MIUI20.8.3-加入了应用黑名单](https://www.v2ex.com/t/695575) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

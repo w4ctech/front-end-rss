@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 11:08:34，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 11:17:12，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-04-youtube-会员-印度-后台播放-去广告-一年期-任何节点地区可用](https://www.v2ex.com/t/695616) ![](assets/new.png)  
+- [2020-08-04-「Hulu-北京研发中心----内推」](https://www.v2ex.com/t/695615) ![](assets/new.png)  
+- [2020-08-04-Golang-泛型：type-T，为啥要用中括号呢。。。](https://www.v2ex.com/t/695614) ![](assets/new.png)  
 - [2020-08-04-想问问有没有人毁约微软的？会上黑名单吗？](https://www.v2ex.com/t/695612) ![](assets/new.png)  
 - [2020-08-04-你是否会因为别人的说法改变自己的价值观](https://www.v2ex.com/t/695611) ![](assets/new.png)  
 - [2020-08-04-求推荐一款屏幕挂灯。](https://www.v2ex.com/t/695609) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-04-百度贴吧：比微信更有机会称王，却败于想象力](https://www.v2ex.com/t/695594) ![](assets/new.png)  
 - [2020-08-04-前同事借钱不还怎么办?](https://www.v2ex.com/t/695593) ![](assets/new.png)  
 - [2020-08-04-Vue-初学者求问一个关于-nextTick-和-async/await-的问题](https://www.v2ex.com/t/695592) ![](assets/new.png)  
-- [2020-08-04-22-届香港大学本科生可能有实习的坑位吗？](https://www.v2ex.com/t/695591) ![](assets/new.png)  
-- [2020-08-04-吐槽下-typescript-的-mixin](https://www.v2ex.com/t/695590) ![](assets/new.png)  
-- [2020-08-04-程序猿想全职做-up-主，可行吗？](https://www.v2ex.com/t/695589) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

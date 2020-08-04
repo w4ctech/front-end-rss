@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-04 11:08:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 11:17:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-youtube-会员-印度-后台播放-去广告-一年期-任何节点地区可用](https://www.v2ex.com/t/695616) 
+- [2020-08-04-「Hulu-北京研发中心----内推」](https://www.v2ex.com/t/695615) 
+- [2020-08-04-Golang-泛型：type-T，为啥要用中括号呢。。。](https://www.v2ex.com/t/695614) 
 - [2020-08-04-想问问有没有人毁约微软的？会上黑名单吗？](https://www.v2ex.com/t/695612) 
 - [2020-08-04-你是否会因为别人的说法改变自己的价值观](https://www.v2ex.com/t/695611) 
 - [2020-08-04-求推荐一款屏幕挂灯。](https://www.v2ex.com/t/695609) 
@@ -43,6 +46,3 @@
 - [2020-08-04-如何分析网页的-XHR-的-URL](https://www.v2ex.com/t/695569) 
 - [2020-08-04-office-365-拼团，差一人](https://www.v2ex.com/t/695568) 
 - [2020-08-04-有点用不明白谷歌相册，请教一下](https://www.v2ex.com/t/695567) 
-- [2020-08-04-前端刷完了这些，可以去腾讯试一试吗](https://www.v2ex.com/t/695566) 
-- [2020-08-04-关于-MySQL-Replication-with-Global-Transaction-Identifiers-的疑问](https://www.v2ex.com/t/695564) 
-- [2020-08-04-强迫症-关于网页打开速度](https://www.v2ex.com/t/695563) 

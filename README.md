@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 06:21:29，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 06:31:22，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-04-也发帖感谢下，之前收到的-599-赞助](https://www.v2ex.com/t/695522) ![](assets/new.png)  
+- [2020-08-04-这里有字节的老兄吗，能给介绍下情况不](https://www.v2ex.com/t/695521) ![](assets/new.png)  
+- [2020-08-04-关于-HTML-的一个-疑问](https://www.v2ex.com/t/695520) ![](assets/new.png)  
+- [2020-08-04-被各种关系数据库的-json-操作坑死了](https://www.v2ex.com/t/695519) ![](assets/new.png)  
+- [2020-08-04-这个网站不知是起纠纷还是被勒索了](https://www.v2ex.com/t/695518) ![](assets/new.png)  
 - [2020-08-04-Windows-下枚举窗口并寻找指定标题窗口加以置顶，遇到类似-QT-的定制窗口无法简单取到实际标题应如何处理？](https://www.v2ex.com/t/695517) ![](assets/new.png)  
 - [2020-08-04-北京滴滴招-Java-后端/数据/前端/测试/算法/web-安全等，-hc-多多](https://www.v2ex.com/t/695516) ![](assets/new.png)  
 - [2020-08-04-平安科技招聘-965-16-薪+-上海-崂山路](https://www.v2ex.com/t/695514) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-04-mongodb-有-log-的情况下，能看到哪些操作消耗比较高吗？](https://www.v2ex.com/t/695501) ![](assets/new.png)  
 - [2020-08-04-说一下板瓦工香-K-的问题很大的经历](https://www.v2ex.com/t/695500) ![](assets/new.png)  
 - [2020-08-04-如何拒绝父母兄弟们要钱？](https://www.v2ex.com/t/695499) ![](assets/new.png)  
-- [2020-08-04-延迟满足--对抗内心的魔鬼](https://www.v2ex.com/t/695498) ![](assets/new.png)  
-- [2020-08-04-ASUS-改梅林了，为啥信道还是只有国内的那几个](https://www.v2ex.com/t/695497) ![](assets/new.png)  
-- [2020-08-04-请问大家，你们公司装的是什么杀毒软件？小公司，-30-多台服务器，-10-几台-windows-机。求推荐哪个更好。目前准备-360-天擎，瑞星企业版，火绒企业版](https://www.v2ex.com/t/695495) ![](assets/new.png)  
-- [2020-08-04-求推荐带手写笔安卓墨水屏](https://www.v2ex.com/t/695494) ![](assets/new.png)  
-- [2020-08-04-人在佛山，有人知道清理社保卡什么意思吗？](https://www.v2ex.com/t/695493) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,11 +1121,11 @@
 - [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
 - [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
+- [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
 - [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
-- [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
-- [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) ![](assets/new.png)  
+- [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
 - [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj) ![](assets/new.png)  

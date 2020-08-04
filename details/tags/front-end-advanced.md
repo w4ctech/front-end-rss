@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 06:20:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 06:21:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -8,6 +8,7 @@
 
 
 - [2019-10-31-实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1) 
+- [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！-|-活动推荐](https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484) 
 - [2020-07-21-写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://www.ershicimi.com/p/fec885f94bafb0c093efefe73a66a093) 
 - [2020-08-01-从头开始复习算法之让你彻底搞清楚BFS和DFS](https://www.ershicimi.com/p/e413a9f238897d02fadf0d40160a09a7) 
 - [2020-07-30-还不懂这八大算法思想，刷再多题也白搭！](https://www.ershicimi.com/p/b9ff8c7923734da93b115115fcc928ef) 

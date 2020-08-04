@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 06:20:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 06:21:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -41,8 +41,12 @@
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
+- [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379) 
+- [2020-07-24-祖传代码迁移到Vue的另一种解题思路](https://www.ershicimi.com/p/260d50f555f53608fb15dc44129d2a32) 
 - [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) 
 - [2020-07-23-Vue异步更新机制和nextTick原理](https://www.ershicimi.com/p/4ec64ee9c5b317948e902ea6b0f967f4) 
+- [2020-07-25-vue项目部署的最佳实践](https://www.ershicimi.com/p/3b7a3d118606b9ec56d570e1482571ef) 
+- [2020-07-20-我在项目中是这样配置Vue的](https://www.ershicimi.com/p/5bf3b3757e5b97de3cce69c6f66696e7) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
 - [2020-07-31-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4) 
 - [2020-07-23-不到20%的开发能真正理解-Vue-，有没有你？（文内有福利）](https://www.ershicimi.com/p/fdc50530ca959ce13662f1feeaf110e4) 
@@ -53,6 +57,12 @@
 - [2020-07-30-工程化1:1从零实现Vue源码](https://www.ershicimi.com/p/5696d7150ba45e2276dcf60d3167f7ae) 
 - [2020-07-29-尤雨溪宣布Vue-3首个RC版本发布!-这意味着...](https://www.ershicimi.com/p/764f935f6e49439f180c12ece3e0534e) 
 - [2020-08-04-Vue+Electron开发跨平台桌面应用（实战）](https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb) 
+- [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) 
+- [2020-07-06-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！|-1元福利](https://www.ershicimi.com/p/33fad9e9ec9efb00fdae95af592437c0) 
+- [2020-07-03-彻底搞通Vue3.0核心源码](https://www.ershicimi.com/p/97988bc14ae5c4b00d42a881d498e369) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) 
+- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
+- [2020-07-07-最新Vue底层原理实现概述](https://www.ershicimi.com/p/3c77841e27ecefe480cb5383620d2dc1) 
+- [2020-07-06-尤大：预计-8-月发布正式版-Vue-3.0！你还不学学么？](https://www.ershicimi.com/p/43ab9298de5e0516e864f31966c11700) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 

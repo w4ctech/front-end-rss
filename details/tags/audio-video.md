@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 01:19:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 01:31:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -94,3 +94,6 @@
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) 
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) 
+- [2020-08-03-微信视频号助手发布内测版](https://sec.thief.one/article_content?a_id=da98e1a1a70286e53738777fe3e0e037) 
+- [2020-08-01-针对某款摄像头设备的固件重打包及root-shell获取过程](https://sec.thief.one/article_content?a_id=35a74d4d44448e7093a6495df85ee84d) 
+- [2020-07-31-这个小视频我连看8遍!](https://sec.thief.one/article_content?a_id=4bf1fda6a0b6550b1e0ade97f92f46cb) 

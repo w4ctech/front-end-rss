@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 01:19:21，:rocket: 更新条数: +3383， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 01:31:47，:rocket: 更新条数: +3482， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -54,7 +54,7 @@
 - [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
-- [安全热点](#安全热点)  
+- [安全热点](#安全热点)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-03-巴西单日新增确诊病例超1.6万例，-累计超275万例](https://m.weibo.cn/3057540037/4534089292710087) ![](assets/new.png)  
+- [2020-08-03-南非新增5377名新冠肺炎确诊病例，累计确诊516862例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQA8SGTquKt3h8jtCVBvJ200804&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-世界卫生组织专家来华开展新冠病毒溯源科研合作预备性磋商](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7kcSemXsmNIJWfbdHY60200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-世卫组织发起口罩挑战-鼓励人们佩戴口罩](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUO0OCV7fP1hxSl7zLen200803&isfromapp=1) ![](assets/new.png)  
 - [2020-08-03-世卫组织总干事：新冠肺炎导致针对其他疾病的卫生服务中断](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0AMteqF1ThxQGz41EpJn200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-非洲地区新冠肺炎确诊病例超95万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieyVNwWiVpnhvjwEMNIFF200803&isfromapp=1) ![](assets/new.png)  
-- [2020-08-03-香港逾250人入住社区隔离及治疗设施-单日确诊数字回落至两位数](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYmt2ZvzSbGZMRIrlHjfD200803&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -142,6 +142,11 @@
 </summary>
 
 
+- [2020-08-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/8d2998e902c1647ba47e8752060e0885) ![](assets/new.png)  
+- [2020-08-04-怎么在两天内，上线一个产品](https://www.ershicimi.com/p/3a23bb8ef2bb83ea3f657c5920329002) ![](assets/new.png)  
+- [2020-08-03-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/2e18778d336520ce8a488ccf13493d3f) ![](assets/new.png)  
+- [2020-08-03-10个非常实用的JS工具函数](https://www.ershicimi.com/p/b299aeb8bcdcb4a89cadd2c8b71738db) ![](assets/new.png)  
+- [2020-08-02-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/a7324037a201f04c166bc86983d135dc) ![](assets/new.png)  
 - [2020-08-01-代码无终点，坚持跑，就不会输](https://www.ershicimi.com/p/e25c2830b8a216f8680d29f1df3437c1) ![](assets/new.png)  
 - [2020-07-31-没错，华为又对前端下手了！](https://www.ershicimi.com/p/012078e9e94b64f8ec4961f521b65813) ![](assets/new.png)  
 - [2020-07-31-从源码解读React-和-Vue-的20个区别](https://www.ershicimi.com/p/a94fdb33a086e9c3276148f8a38b9074) ![](assets/new.png)  
@@ -157,11 +162,6 @@
 - [2020-07-24-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/86e6652b4f1bacf32aed758ea0605bf3) ![](assets/new.png)  
 - [2020-07-24-还在问瀑布流？这里两行css代码实现](https://www.ershicimi.com/p/4cdf6736646002c2f5be7b54f9ff53c9) ![](assets/new.png)  
 - [2020-07-23-手把手带你理解Vue响应式原理](https://www.ershicimi.com/p/ae7d4d3c55a1cd7902b7995d4b87380a) ![](assets/new.png)  
-- [2020-07-23-这么写注释，老板会不会开除我？](https://www.ershicimi.com/p/f2e5efe55fa824002fdb579a865ccc99) ![](assets/new.png)  
-- [2020-07-22-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/2e1fb90b3ebde689de3f680b8c67905e) ![](assets/new.png)  
-- [2020-07-22-15个提升工作效率的JS技巧](https://www.ershicimi.com/p/03cd9ff2f0df9c2a12a552d8020064dd) ![](assets/new.png)  
-- [2020-07-21-让Vue项目更丝滑的几个小技巧](https://www.ershicimi.com/p/4f485d9ddd6b5d7bf0f1ee55b15bb8fb) ![](assets/new.png)  
-- [2020-07-21-程序员崩溃的10个瞬间](https://www.ershicimi.com/p/3b1f9894199172ef85bad5bf7953b877) ![](assets/new.png)  
 - [......【查看更多】......](./details/Vue中文社区.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -632,6 +632,11 @@
 </summary>
 
 
+- [2020-08-04-Vue+Electron开发跨平台桌面应用（实战）](https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb) ![](assets/new.png)  
+- [2020-08-04-华为的前端全栈技术想学不？3个月，零费用，真香！](https://www.ershicimi.com/p/0e99c5a357f834a27adc4a78217ec1bb) ![](assets/new.png)  
+- [2020-08-04-我是如何将业务代码写优雅的](https://www.ershicimi.com/p/8d938a8dacd4e5d0a79e5002fcfa038b) ![](assets/new.png)  
+- [2020-08-03-前端开发：如何判断自己是初级、中级还是资深？](https://www.ershicimi.com/p/08c64cddc8e5a5272ff8deaa8e487cb4) ![](assets/new.png)  
+- [2020-08-03-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/183eb2453460e5d2498c9aa412eda3a7) ![](assets/new.png)  
 - [2020-08-01-揭秘几个“强”的不得了的前端公众号](https://www.ershicimi.com/p/d81790fe6b17f01ab4e21f5e0f9ca4bc) ![](assets/new.png)  
 - [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) ![](assets/new.png)  
 - [2020-07-31-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df) ![](assets/new.png)  
@@ -647,11 +652,6 @@
 - [2020-07-26-你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/2bc6b1174a30235ad49347ec4d653848) ![](assets/new.png)  
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353) ![](assets/new.png)  
 - [2020-07-24-前端登录，这一篇就够了](https://www.ershicimi.com/p/2922f9d24cde11cefd14793643a37a7a) ![](assets/new.png)  
-- [2020-07-23-一杯茶的时间，上手-Koa2-+-MySQL-开发实战好文](https://www.ershicimi.com/p/82981bf2fe8510c5dff13f7732691fb7) ![](assets/new.png)  
-- [2020-07-23-没错，华为又对前端下手了！](https://www.ershicimi.com/p/abaf6e471d8b753d574299091c02cb68) ![](assets/new.png)  
-- [2020-07-22-揭发几个在前端领域“强”的不得了的公众号](https://www.ershicimi.com/p/ca9ef5d3c66f88e66d82287aa92cce24) ![](assets/new.png)  
-- [2020-07-22-关于前端性能优化一些总结](https://www.ershicimi.com/p/5207be6e2a27c9ac27e0af4b74561dfd) ![](assets/new.png)  
-- [2020-07-21-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/53930947cf0c43ebebb82ff406652fad) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-04-Python-的-for-和-while-循环为什么没有引入新的作用域？](https://www.v2ex.com/t/695413) ![](assets/new.png)  
+- [2020-08-04-有哪些软件设置本地电脑占用端口的应用能被互联网访问？](https://www.v2ex.com/t/695410) ![](assets/new.png)  
 - [2020-08-04-微信-X-工商银行，领满-10-减-8.8-券两张，即-2.4-元充-20-元话费！](https://www.v2ex.com/t/695408) ![](assets/new.png)  
 - [2020-08-04-这是-IntelliJ-IDEA-的一个-bug?](https://www.v2ex.com/t/695407) ![](assets/new.png)  
 - [2020-08-04-小米云平台专场，数据开发/存储/GO/-Java-/前端/Sre/数据库开发-25-50K](https://www.v2ex.com/t/695406) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-03-请教一个很-low-的问题，谷歌两步认证，如何把预置方式修改成短信或-Authenticator。](https://www.v2ex.com/t/695390) ![](assets/new.png)  
 - [2020-08-03-怎么量化一个游戏运气和技能所占的比重？](https://www.v2ex.com/t/695389) ![](assets/new.png)  
 - [2020-08-03-大家如何管理-iOS-共享菜单](https://www.v2ex.com/t/695388) ![](assets/new.png)  
-- [2020-08-03-如何自己搭建包含某个公司名后缀的邮件系统？](https://www.v2ex.com/t/695387) ![](assets/new.png)  
-- [2020-08-03-如何自己搭建包含某个公司名的邮件系统？](https://www.v2ex.com/t/695386) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1135,25 +1135,25 @@
 
 
 - [2020-08-04-Python-为什么会有个奇怪的-“...”-对象？](https://toutiao.io/k/9e53gay) ![](assets/new.png)  
-- [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
-- [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
 - [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
+- [2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) ![](assets/new.png)  
 - [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
+- [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
-- [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
+- [2020-08-04-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
 - [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
-- [2020-08-04-技术分享之-golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) ![](assets/new.png)  
 - [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) ![](assets/new.png)  
-- [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
 - [2020-08-04-swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj) ![](assets/new.png)  
-- [2020-08-04-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
-- [2020-08-04-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-04-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-04-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-04-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-04-YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy) ![](assets/new.png)  
+- [2020-08-04-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-04-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) ![](assets/new.png)  
+- [2020-08-04-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-04-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-04-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1165,6 +1165,26 @@
 </summary>
 
 
+- [2020-08-03-媒体关注|“安全框架”进入北京网络安全大会主题](https://sec.thief.one/article_content?a_id=e29ebdf023b4694ec739e4b7afde5943) ![](assets/new.png)  
+- [2020-08-03-ISC-2020-互联网安全大会——筑梦八载,再启华章!](https://sec.thief.one/article_content?a_id=1593c7a5fcd173589515b2d897c82085) ![](assets/new.png)  
+- [2020-08-03-Black-Hat-2020上的11大网络安全工具](https://sec.thief.one/article_content?a_id=272df87f01aca14b28f3e815a080f708) ![](assets/new.png)  
+- [2020-08-03-记录一次“梅花三弄”的渗透之旅](https://sec.thief.one/article_content?a_id=5451a8a814a47cacadeb6c5d303adda3) ![](assets/new.png)  
+- [2020-08-03-每日攻防资讯简报Aug.3th](https://sec.thief.one/article_content?a_id=f66ab56611d368e4a162a5b4a289b380) ![](assets/new.png)  
+- [2020-08-03-“守护人民生产生活安全”系列宣传活动正式启动](https://sec.thief.one/article_content?a_id=a07f6a3c3b6ccf8187693cd17816b404) ![](assets/new.png)  
+- [2020-08-03-【流行威胁跟踪】一黑客组织针对金融用户的定向分析报告](https://sec.thief.one/article_content?a_id=11f1504056475b84e363deab56c35b63) ![](assets/new.png)  
+- [2020-08-03-雷神众测漏洞周报-2020.07.27-2020.08.02-4](https://sec.thief.one/article_content?a_id=3fc284c11ee785f77761989b3b9c7606) ![](assets/new.png)  
+- [2020-08-03-微信视频号助手发布内测版](https://sec.thief.one/article_content?a_id=da98e1a1a70286e53738777fe3e0e037) ![](assets/new.png)  
+- [2020-08-03-小米将携隐私品牌及百万奖池安全守护计划亮相ISC2020云展厅](https://sec.thief.one/article_content?a_id=423d2a19933f6be0ee3381dbfd8888df) ![](assets/new.png)  
+- [2020-08-03-国家互联网信息办公室2020年课题中标情况公示](https://sec.thief.one/article_content?a_id=fea7c12d6543efa5e5b274460fc5f445) ![](assets/new.png)  
+- [2020-08-03-名校大型battle现场,快乐吃瓜](https://sec.thief.one/article_content?a_id=f5bd461605ed837288fa8116212f1587) ![](assets/new.png)  
+- [2020-08-03-GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=775de0c9609406e03cadc0135a7b43ba) ![](assets/new.png)  
+- [2020-08-03-七月热榜-|-优质专辑TOP榜已上线,快来扩大你的“安全圈”!](https://sec.thief.one/article_content?a_id=bcf709a25f2a52bded95d0d06c3ca534) ![](assets/new.png)  
+- [2020-08-03-hackrf接收ADS-B飞机信号](https://sec.thief.one/article_content?a_id=964f574e08d2740cb11aeb3860802834) ![](assets/new.png)  
+- [2020-08-03-苹果安全协处理器存“不可修复”漏洞;涉案超400亿比特币跨国网络...](https://sec.thief.one/article_content?a_id=fa50968d0049344a0d33b279d97ced29) ![](assets/new.png)  
+- [2020-08-03-“崩溃!我再也不搞-AI-了”谷歌-AI-专家:别让你的方法打败你!](https://sec.thief.one/article_content?a_id=05c2a0fa431b4c30826e09ad463a5488) ![](assets/new.png)  
+- [2020-08-03-预告-|-绿盟科技五大类创新产品即将亮相](https://sec.thief.one/article_content?a_id=969f475fbb024317bd70ead1a8cbf72d) ![](assets/new.png)  
+- [2020-08-03-互联网巨头频繁隐私侵权,专家建议:罚他个伤筋动骨](https://sec.thief.one/article_content?a_id=070a783b146f97f3bff72f66e1e5726f) ![](assets/new.png)  
+- [2020-08-03-中国央行前副行长推动数字货币发展](https://sec.thief.one/article_content?a_id=6ee0b7c42cf9cc987b975791a0002162) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

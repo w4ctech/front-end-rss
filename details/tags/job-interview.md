@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 01:19:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 01:31:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -9,8 +9,8 @@
 
 - [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [2020-08-03-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/2e18778d336520ce8a488ccf13493d3f) 
 - [2020-07-24-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/86e6652b4f1bacf32aed758ea0605bf3) 
-- [2020-07-22-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/2e1fb90b3ebde689de3f680b8c67905e) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
 - [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) 
@@ -57,3 +57,5 @@
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-04-公务员招聘带头搞-35-岁歧视，凭啥矛头只针对资本家？](https://www.v2ex.com/t/695394) 
+- [2020-08-02-朝鲜黑客利用虚假招聘信息对美发起新一轮攻击](https://sec.thief.one/article_content?a_id=468510499fed42a572d8c6d20225670a) 
+- [2020-08-01-牛聘|2020年度岗位招聘第8期](https://sec.thief.one/article_content?a_id=75bec7d1affcccb583d80da704151527) 

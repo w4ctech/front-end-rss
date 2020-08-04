@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 13:02:26，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 13:08:52，:rocket: 更新条数: +3251， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -29,7 +29,7 @@
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
 - [前端之巅](#前端之巅)![](assets/dot.png)   
-- [前端迷](#前端迷)![](assets/dot.png)   
+- [前端迷](#前端迷)  
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
 - [前端宇宙](#前端宇宙)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-04-大量非法移民抵达兰佩杜萨岛，意大利政府动用邮轮检疫隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtignCAlgnxXJY4A9PdA6Z7200804&isfromapp=1) ![](assets/new.png)  
+- [2020-08-04-世卫组织：全球新冠肺炎确诊病例超过1810万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq0FpDDqTOhHUxYZAcpys200804&isfromapp=1) ![](assets/new.png)  
 - [2020-08-04-伊朗新增2751例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8V8oW1EiElHxhweMlaDI200804&isfromapp=1) ![](assets/new.png)  
 - [2020-08-04-新疆疾控中心：基因测序显示此次疫情来源于同一传染源](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCKNL5lkn4gLsIHQKOFVQ200804&isfromapp=1) ![](assets/new.png)  
 - [2020-08-04-巴基斯坦新增432例新冠肺炎确诊病例-累计确诊280461例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTCwBkRqco8Q2OCyNWzze200804&isfromapp=1) ![](assets/new.png)  
-- [2020-08-04-俄罗斯新增5159例确诊](https://m.weibo.cn/3057540037/4534223354732746) ![](assets/new.png)  
-- [2020-08-04-乌兹别克斯坦新增722例新冠肺炎确诊病例-累计确诊26550例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy3aw4WtIjlB5zV2155ao200804&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -477,26 +477,6 @@
 </summary>
 
 
-- [2020-08-04-一文-get-入门-canvas-的最佳路径](https://www.ershicimi.com/p/79d73f9a992c207cc25227c10278f50b) ![](assets/new.png)  
-- [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) ![](assets/new.png)  
-- [2020-08-03-没错，华为又对前端下手了！](https://www.ershicimi.com/p/14fa304b6aad76531bdd82b7a230d80b) ![](assets/new.png)  
-- [2020-08-02-精心挑选的几个前端公众号](https://www.ershicimi.com/p/7bd26145bedb709e603111df276f84e5) ![](assets/new.png)  
-- [2020-07-31-图片压缩原理](https://www.ershicimi.com/p/38acef5560c6e8e52234d7725053a8c1) ![](assets/new.png)  
-- [2020-07-30-【答案详解】145道Web高频面试题，锁定高薪Offer](https://www.ershicimi.com/p/12e1a03c8ddffaee7ced84f165fb9e00) ![](assets/new.png)  
-- [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) ![](assets/new.png)  
-- [2020-07-28-几个常见面试题，工作中也经常用到](https://www.ershicimi.com/p/605539ef8663e7d6be0c531072e51703) ![](assets/new.png)  
-- [2020-07-27-聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a) ![](assets/new.png)  
-- [2020-07-24-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/c248c3768a872577152c1f8b04130125) ![](assets/new.png)  
-- [2020-07-23-全宇宙首本-VS-Code-中文书，来了！](https://www.ershicimi.com/p/90ce4164e0fd41aac8f7add903674e17) ![](assets/new.png)  
-- [2020-07-23-Vue异步更新机制和nextTick原理](https://www.ershicimi.com/p/4ec64ee9c5b317948e902ea6b0f967f4) ![](assets/new.png)  
-- [2020-07-22-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/668f88b73fc507582e0327b5e226e0ea) ![](assets/new.png)  
-- [2020-07-21-写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://www.ershicimi.com/p/fec885f94bafb0c093efefe73a66a093) ![](assets/new.png)  
-- [2020-07-21-没错，华为又对前端下手了！](https://www.ershicimi.com/p/7ad48832cb77734e12cb44f7d30a3423) ![](assets/new.png)  
-- [2020-07-20-程序猿的庚子年，到底有多难？](https://www.ershicimi.com/p/b4d51a490ff34e6c6550314ef954ac61) ![](assets/new.png)  
-- [2020-07-19-拉勾-7-周年，拉勾教育免费公开所有技术专栏！](https://www.ershicimi.com/p/7170ad69eb7c40d66714f9fc6f311338) ![](assets/new.png)  
-- [2020-07-18-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/2d4a2eb36195950ef478053cab157823) ![](assets/new.png)  
-- [2020-07-17-阿里巴巴招聘高级前端开发工程师](https://www.ershicimi.com/p/288ea2ab10fadb6183f3240fc003dc18) ![](assets/new.png)  
-- [2020-07-16-年薪68万,人才缺口30万,这个神仙技能今年火遍整个职业圈!](https://www.ershicimi.com/p/a1f94be821accf6e052bb26545fa0599) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端迷.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1032,7 @@
 </summary>
 
 
+- [2020-08-04-关于社保缴纳的意见,-想了解过来人的想法](https://www.v2ex.com/t/695637) ![](assets/new.png)  
 - [2020-08-04-vue/cli4.4.0-中如何全局使用-jquery?](https://www.v2ex.com/t/695636) ![](assets/new.png)  
 - [2020-08-04-求教-AWS“雪球”](https://www.v2ex.com/t/695635) ![](assets/new.png)  
 - [2020-08-04-生产环境-Docker-适合什么操作系统？](https://www.v2ex.com/t/695631) ![](assets/new.png)  
@@ -1071,7 +1052,6 @@
 - [2020-08-04-想问问有没有人毁约微软的？会上黑名单吗？](https://www.v2ex.com/t/695612) ![](assets/new.png)  
 - [2020-08-04-你是否会因为别人的说法改变自己的价值观](https://www.v2ex.com/t/695611) ![](assets/new.png)  
 - [2020-08-04-求推荐一款屏幕挂灯。](https://www.v2ex.com/t/695609) ![](assets/new.png)  
-- [2020-08-04-五点半下班，主管要求必须六点才能离开办公室](https://www.v2ex.com/t/695607) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

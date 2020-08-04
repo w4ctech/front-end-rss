@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-04 13:02:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 13:08:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-关于社保缴纳的意见,-想了解过来人的想法](https://www.v2ex.com/t/695637) 
 - [2020-08-04-vue/cli4.4.0-中如何全局使用-jquery?](https://www.v2ex.com/t/695636) 
 - [2020-08-04-求教-AWS“雪球”](https://www.v2ex.com/t/695635) 
 - [2020-08-04-生产环境-Docker-适合什么操作系统？](https://www.v2ex.com/t/695631) 
@@ -41,4 +42,3 @@
 - [2020-08-04-22-届香港大学本科生可能有实习的坑位吗？](https://www.v2ex.com/t/695591) 
 - [2020-08-04-吐槽下-typescript-的-mixin](https://www.v2ex.com/t/695590) 
 - [2020-08-04-程序猿想全职做-up-主，可行吗？](https://www.v2ex.com/t/695589) 
-- [2020-08-04-广州-招聘-iOS-工程师](https://www.v2ex.com/t/695587) 

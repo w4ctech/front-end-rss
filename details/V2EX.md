@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-04 17:33:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 17:46:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-Node.js-or-Java-?](https://www.v2ex.com/t/695681) 
 - [2020-08-04-V2EX-帖子分享到朋友圈时缩略图显示成广告](https://www.v2ex.com/t/695680) 
 - [2020-08-04-国内几乎所有网站都可以用验证码找回密码，那么-两步验证-Google-身份验证器-是否没必要使用了？](https://www.v2ex.com/t/695679) 
 - [2020-08-04-很奇怪的网络问题，-scp-在-mac-上比在-windows-上快、稳定很多](https://www.v2ex.com/t/695678) 
@@ -42,4 +43,3 @@
 - [2020-08-04-关于社保缴纳的意见,-想了解过来人的想法](https://www.v2ex.com/t/695637) 
 - [2020-08-04-vue/cli4.4.0-中如何全局使用-jquery?](https://www.v2ex.com/t/695636) 
 - [2020-08-04-求教-AWS“雪球”](https://www.v2ex.com/t/695635) 
-- [2020-08-04-生产环境-Docker-适合什么操作系统？](https://www.v2ex.com/t/695631) 

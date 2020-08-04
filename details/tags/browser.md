@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 12:48:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 13:02:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) 
 - [2020-08-04-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-04-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
+- [2020-08-04-Chrome浏览器的实用插件推荐](https://sec.thief.one/article_content?a_id=41a10eb27ca4fb80edac75c88387c0d3) 
 - [2020-08-04-百家-|-信息安全为富力数字化转型保驾护航](https://sec.thief.one/article_content?a_id=3cd7699626669f5bff5d43b6a150e65c) 
 - [2020-08-04-国舜股份通过权威机构5项信息安全服务一级资质再认证](https://sec.thief.one/article_content?a_id=f29a294d44d90da840b753f1312aaff3) 
 - [2020-08-04-【安全风险通告】正方CA统一认证中心任意文件上传漏洞安全风险通告](https://sec.thief.one/article_content?a_id=23f8f19e1d6ad6454e6f4171789ee591) 
@@ -66,4 +67,3 @@
 - [2020-08-02-2020年国家网络安全宣传周数字化展会招展通知](https://sec.thief.one/article_content?a_id=cd1fb65d0281942c621081b79c8461b6) 
 - [2020-08-02-周报|CSO薪资、数据安全治理、IAST赋能企业、工信部通报名单引热...](https://sec.thief.one/article_content?a_id=9577d285a7ee1038be46b661103449c2) 
 - [2020-08-02-内核数据保护KDP:防止数据损坏的一种新平台安全技术](https://sec.thief.one/article_content?a_id=5abaf817e2851daf0858cf2256f347e0) 
-- [2020-08-02-使用reGeorg+Proxifier实现内网穿透](https://sec.thief.one/article_content?a_id=c5ff70796d0d39f339985ba0251253cc) 

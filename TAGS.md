@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-04 18:48:07。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 19:02:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -114,6 +114,7 @@
 - [【全栈前端精选】图解23种设计模式（TypeScript版）——前端必修内功心法](https://www.ershicimi.com/p/4866ff329887793953f68786f4222628)
 - [【全栈前端精选】字节一面，我被TypeScript干掉了](https://www.ershicimi.com/p/8b9ec38ff5ebd5bd00ae560ab3921343)
 - [【前端艺术家&&飞冰早报】Node.js项目TypeScript改造指南](https://juejin.im/post/5de4867f51882573135415dd)
+- [【技术头条】如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】swc-node,-最快的-TypeScript/JavaScript-compiler](https://toutiao.io/k/r66sedj)
 - [......【查看更多】......](./details/tags/typescript.md)
 
@@ -448,6 +449,7 @@
 - [【凹凸实验室】使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/)
 - [【互联网架构师】Spring-Boot-项目如何做性能监控？](https://www.ershicimi.com/p/e4f5be331fa439d9662102d1ccee4826)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
+- [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -517,7 +519,7 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】求教-fastapi-如何从数据库删除数据](https://www.v2ex.com/t/695642)
 - [【开发者头条】YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy)
-- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
+- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=775de0c9609406e03cadc0135a7b43ba)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 

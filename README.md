@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 08:10:28，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 08:20:03，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,8 +1052,11 @@
 </summary>
 
 
+- [2020-08-04-领导和你这么说要咋想呢？](https://www.v2ex.com/t/695558) ![](assets/new.png)  
+- [2020-08-04-macbook-pro-外接显示器发热严重](https://www.v2ex.com/t/695557) ![](assets/new.png)  
+- [2020-08-04-HULU-北京招聘，大量-HC](https://www.v2ex.com/t/695556) ![](assets/new.png)  
+- [2020-08-04-关于编译、链接的一个问题](https://www.v2ex.com/t/695555) ![](assets/new.png)  
 - [2020-08-04-求教育优惠-AirPods-有线或无线，可刻字，希望可以走平台。](https://www.v2ex.com/t/695554) ![](assets/new.png)  
-- [2020-08-04-TikTok-为什么会被禁？](https://www.v2ex.com/t/695553) ![](assets/new.png)  
 - [2020-08-04-求给推荐一款手机](https://www.v2ex.com/t/695551) ![](assets/new.png)  
 - [2020-08-04-遇到一个-XSS-攻击，大家给分析下](https://www.v2ex.com/t/695550) ![](assets/new.png)  
 - [2020-08-04-mysql-优化问题](https://www.v2ex.com/t/695549) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-04-基于令牌桶算法实现的接口限流器，参数大小应该怎么设置呢？](https://www.v2ex.com/t/695537) ![](assets/new.png)  
 - [2020-08-04-各位朋友，你们-Mac-系统-“备忘录”-中文是否行间距这么挤？](https://www.v2ex.com/t/695535) ![](assets/new.png)  
 - [2020-08-04-关于学历](https://www.v2ex.com/t/695534) ![](assets/new.png)  
-- [2020-08-04-想问下-iPhone-怎么快捷的开启自动亮度调节](https://www.v2ex.com/t/695531) ![](assets/new.png)  
-- [2020-08-04-这个配置的-Mac-会不会过剩了？](https://www.v2ex.com/t/695529) ![](assets/new.png)  
-- [2020-08-04-招聘嵌入式-Linux-驱动工程师](https://www.v2ex.com/t/695528) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

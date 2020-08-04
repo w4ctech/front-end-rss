@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 00:49:51，:rocket: 更新条数: +3471， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 01:02:33，:rocket: 更新条数: +3476， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-04-写了个关于微博热搜的谷歌扩展-Hot-Search---微博热搜](https://www.v2ex.com/t/695404) ![](assets/new.png)  
+- [2020-08-04-求推荐（不是购买！）东亚/东南亚的虚拟机](https://www.v2ex.com/t/695402) ![](assets/new.png)  
 - [2020-08-04-上海人工智能企业小-i-机器人对苹果提起侵权诉讼-索赔-100-亿元人民币](https://www.v2ex.com/t/695401) ![](assets/new.png)  
 - [2020-08-04-目前市面上屏幕最好的-Windows-笔记本是啥？](https://www.v2ex.com/t/695400) ![](assets/new.png)  
 - [2020-08-04-滴滴IOS-在小屏幕上的-UI-有一点点难用](https://www.v2ex.com/t/695397) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-03-吐槽-Money-Pro-这个单身狗记账软件](https://www.v2ex.com/t/695384) ![](assets/new.png)  
 - [2020-08-03-Pixel-4a-官网可以预定了](https://www.v2ex.com/t/695383) ![](assets/new.png)  
 - [2020-08-03-基于-Intel-处理器的-mac-会不会支持到-arm-mac-的一些特性](https://www.v2ex.com/t/695382) ![](assets/new.png)  
-- [2020-08-03-5V/1A-充电器电流有-1.3-1.5A-是假货吗？](https://www.v2ex.com/t/695381) ![](assets/new.png)  
-- [2020-08-03-求推荐变声器或者语音配音包？](https://www.v2ex.com/t/695380) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,20 +1140,20 @@
 - [2020-08-04-关于-errors-包的一些细节和思考](https://toutiao.io/k/r2n2tnw) ![](assets/new.png)  
 - [2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) ![](assets/new.png)  
 - [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) ![](assets/new.png)  
-- [2020-08-04-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) ![](assets/new.png)  
-- [2020-08-04-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-04-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) ![](assets/new.png)  
-- [2020-08-04-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
-- [2020-08-04-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) ![](assets/new.png)  
+- [2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) ![](assets/new.png)  
+- [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) ![](assets/new.png)  
+- [2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) ![](assets/new.png)  
+- [2020-08-04-如何帮助一个新人成快速地成为软件开发的高手？](https://toutiao.io/k/roz3d6i) ![](assets/new.png)  
 - [2020-08-04-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-04-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
 - [2020-08-04-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) ![](assets/new.png)  
 - [2020-08-04-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
+- [2020-08-04-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) ![](assets/new.png)  
 - [2020-08-04-推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6) ![](assets/new.png)  
-- [2020-08-04-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) ![](assets/new.png)  
-- [2020-08-04-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-04-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-04-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
+- [2020-08-04-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-04-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-04-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-04 07:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 08:03:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-mysql-优化问题](https://www.v2ex.com/t/695549) 
+- [2020-08-04-北京-社招-逍遥一下-高级服务端工程师-15k-30k*14-薪](https://www.v2ex.com/t/695548) 
+- [2020-08-04-为什么-.idea-目录从-git-中删除不行呢-git-rm---cached--r-.idea](https://www.v2ex.com/t/695547) 
 - [2020-08-04-Big-Sur-Beta-3-更新装完了又提示有更新，安装了好几次都没成功更新，怎么解...](https://www.v2ex.com/t/695546) 
 - [2020-08-04-MIUI-安装-Instagram-显示安装失败：其它原因](https://www.v2ex.com/t/695545) 
 - [2020-08-04-求推荐开源好用的-win-和-mac-OS-屏幕取词翻译软件](https://www.v2ex.com/t/695544) 
@@ -39,6 +42,3 @@
 - [2020-08-04-小米小爱音箱不断创造-ufw.log-的记录，该怎么办？](https://www.v2ex.com/t/695502) 
 - [2020-08-04-mongodb-有-log-的情况下，能看到哪些操作消耗比较高吗？](https://www.v2ex.com/t/695501) 
 - [2020-08-04-说一下板瓦工香-K-的问题很大的经历](https://www.v2ex.com/t/695500) 
-- [2020-08-04-如何拒绝父母兄弟们要钱？](https://www.v2ex.com/t/695499) 
-- [2020-08-04-延迟满足--对抗内心的魔鬼](https://www.v2ex.com/t/695498) 
-- [2020-08-04-ASUS-改梅林了，为啥信道还是只有国内的那几个](https://www.v2ex.com/t/695497) 

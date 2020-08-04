@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 08:48:27，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 09:02:37，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -446,6 +446,12 @@
 </summary>
 
 
+- [2020-08-04-2020年不容错过的十大JavaScript库](https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a) ![](assets/new.png)  
+- [2020-08-04-程序员简历的-8-个建议](https://www.ershicimi.com/p/e47a77e26f69847b990f9dc6cc497f8f) ![](assets/new.png)  
+- [2020-08-03-微前端到底有啥用？](https://www.ershicimi.com/p/806338e95710f9329fcb51e2604f1065) ![](assets/new.png)  
+- [2020-08-03-谷歌7年前就开始收集安卓用户的敏感信息了？](https://www.ershicimi.com/p/710ca7add1b7f2cda2ae04a689193438) ![](assets/new.png)  
+- [2020-08-03-前端人如何构建能力模型，高薪成长？-|-极客时间](https://www.ershicimi.com/p/ac76b421286fc2b59318b7522bb61efb) ![](assets/new.png)  
+- [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) ![](assets/new.png)  
 - [2020-07-31-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376) ![](assets/new.png)  
 - [2020-07-31-InfoQ-行业全景观察：云计算成为数字经济必要基础设施](https://www.ershicimi.com/p/6e5444930331c8282cb80f3411f29bae) ![](assets/new.png)  
 - [2020-07-31-如果这三点全中，你需要认真考虑-API-这项技术了-|-活动推荐](https://www.ershicimi.com/p/27ac2c9e22f28315102cddb3011b0c63) ![](assets/new.png)  
@@ -460,12 +466,6 @@
 - [2020-07-27-你写注释吗？写你就输了](https://www.ershicimi.com/p/bc925c2c67c9eadb8419e893b4bad7da) ![](assets/new.png)  
 - [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！-|-活动推荐](https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484) ![](assets/new.png)  
 - [2020-07-26-前端周报：谷歌：2GB以下设备必须用Android-Go；微软Tips使用macOS截图被抓包；甲骨](https://www.ershicimi.com/p/e784f9005ebcb45344faf3831fd2133f) ![](assets/new.png)  
-- [2020-07-24-祖传代码迁移到Vue的另一种解题思路](https://www.ershicimi.com/p/260d50f555f53608fb15dc44129d2a32) ![](assets/new.png)  
-- [2020-07-24-InAppWebView：Flutter中WebView的真正力量](https://www.ershicimi.com/p/3aa103acacd25c33743bc43198158231) ![](assets/new.png)  
-- [2020-07-24-前端工程师如何学习？这里有一些建议-|-极客大学](https://www.ershicimi.com/p/3207d15442a82e485215052e9af91ad9) ![](assets/new.png)  
-- [2020-07-23-只加两行代码，为什么要用两天？](https://www.ershicimi.com/p/cb56b738b126931b8828e65e1dccce9c) ![](assets/new.png)  
-- [2020-07-23-为React开发人员推荐8个测试工具、库和框架](https://www.ershicimi.com/p/0654f3cef0becfa06614e9835dc6fd0c) ![](assets/new.png)  
-- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://www.ershicimi.com/p/03c5fb013e4698650a8216b81a2420b7) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,13 @@
 </summary>
 
 
+- [2020-08-04-升级到-IDEA-2020.2-后经常没提示及报错修复后不会消失](https://www.v2ex.com/t/695579) ![](assets/new.png)  
+- [2020-08-04-@上班族丨你，坐「错」了吗！（内附多视频）](https://www.v2ex.com/t/695578) ![](assets/new.png)  
+- [2020-08-04-MS-EDGE-的书签会影响到-Chrome-的书签](https://www.v2ex.com/t/695577) ![](assets/new.png)  
+- [2020-08-04-重金！-求石器时代源码-手游版本！](https://www.v2ex.com/t/695576) ![](assets/new.png)  
+- [2020-08-04-小米-10-在-MIUI20.8.3-加入了应用黑名单](https://www.v2ex.com/t/695575) ![](assets/new.png)  
+- [2020-08-04-腾讯-WeTest-获三项-ISO-国际认证，构建顶尖全球化品质标准](https://www.v2ex.com/t/695572) ![](assets/new.png)  
+- [2020-08-04-IKBC-出了-Poker-Pro，也就是-Poker-的无线版](https://www.v2ex.com/t/695571) ![](assets/new.png)  
 - [2020-08-04-iPhone-能不能指定进入同名-wifi-中的某一个?](https://www.v2ex.com/t/695570) ![](assets/new.png)  
 - [2020-08-04-如何分析网页的-XHR-的-URL](https://www.v2ex.com/t/695569) ![](assets/new.png)  
 - [2020-08-04-office-365-拼团，差一人](https://www.v2ex.com/t/695568) ![](assets/new.png)  
@@ -1065,13 +1072,6 @@
 - [2020-08-04-微信的逐条转发-为什么不按照顺序来发送？实现起来很难么-给用户选择的多条消息-按顺序设置-sequence-1-2-3-4-？](https://www.v2ex.com/t/695560) ![](assets/new.png)  
 - [2020-08-04-领导和你这么说要咋想呢？](https://www.v2ex.com/t/695558) ![](assets/new.png)  
 - [2020-08-04-macbook-pro-外接显示器发热严重](https://www.v2ex.com/t/695557) ![](assets/new.png)  
-- [2020-08-04-HULU-北京招聘，大量-HC](https://www.v2ex.com/t/695556) ![](assets/new.png)  
-- [2020-08-04-关于编译、链接的一个问题](https://www.v2ex.com/t/695555) ![](assets/new.png)  
-- [2020-08-04-求教育优惠-AirPods-有线或无线，可刻字，希望可以走平台。](https://www.v2ex.com/t/695554) ![](assets/new.png)  
-- [2020-08-04-求给推荐一款手机](https://www.v2ex.com/t/695551) ![](assets/new.png)  
-- [2020-08-04-遇到一个-XSS-攻击，大家给分析下](https://www.v2ex.com/t/695550) ![](assets/new.png)  
-- [2020-08-04-mysql-优化问题](https://www.v2ex.com/t/695549) ![](assets/new.png)  
-- [2020-08-04-北京-社招-逍遥一下-高级服务端工程师-15k-30k*14-薪](https://www.v2ex.com/t/695548) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

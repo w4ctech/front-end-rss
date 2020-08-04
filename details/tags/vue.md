@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 13:18:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 13:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -38,6 +38,9 @@
 - [2020-07-24-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/5d47adcf65aeef68598aa498bb1b89ca) 
 - [2020-07-23-完全理解Vue的渲染watcher、computed和user-watcher](https://www.ershicimi.com/p/0ed063c0d8a0aef7bf590a18cd4408a5) 
 - [2020-07-19-昨日！尤雨溪宣布Vue-3首个RC版本发布!-这意味着...](https://www.ershicimi.com/p/a663e9078c9621fba0605c864f6240ea) 
+- [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
+- [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
+- [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
 - [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379) 
 - [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) 
 - [2020-07-23-Vue异步更新机制和nextTick原理](https://www.ershicimi.com/p/4ec64ee9c5b317948e902ea6b0f967f4) 
@@ -63,4 +66,3 @@
 - [2020-07-06-尤大：预计-8-月发布正式版-Vue-3.0！你还不学学么？](https://www.ershicimi.com/p/43ab9298de5e0516e864f31966c11700) 
 - [2019-12-18-Vue-Testing-Crash-Course](https://dev.to/blacksonic/vue-testing-crash-course-59kl) 
 - [2020-08-04-vue/cli4.4.0-中如何全局使用-jquery?](https://www.v2ex.com/t/695636) 
-- [2020-08-04-Vue-初学者求问一个关于-nextTick-和-async/await-的问题](https://www.v2ex.com/t/695592) 

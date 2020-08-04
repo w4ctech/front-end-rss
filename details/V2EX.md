@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-04 13:18:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 13:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-04-AMD-yes！但是南桥风扇很吵怎么办？](https://www.v2ex.com/t/695643) 
+- [2020-08-04-求教-fastapi-如何从数据库删除数据](https://www.v2ex.com/t/695642) 
+- [2020-08-04-MacBook-Pro-13-寸-2020-实测支持单线-DP1.4](https://www.v2ex.com/t/695641) 
+- [2020-08-04-有没有这种插件，自动扩大当前操作的分屏](https://www.v2ex.com/t/695640) 
 - [2020-08-04-关于-Spark-Task-的疑问](https://www.v2ex.com/t/695639) 
 - [2020-08-04-Spring-获取客户端-IP-地址及存储细节](https://www.v2ex.com/t/695638) 
 - [2020-08-04-关于社保缴纳的意见,-想了解过来人的想法](https://www.v2ex.com/t/695637) 
@@ -39,7 +43,3 @@
 - [2020-08-04-社招杭州内推滴滴出行-两轮车-资深/高级前端工程师](https://www.v2ex.com/t/695596) 
 - [2020-08-04-把-iPhone-放在水龙头下冲了一下，-Face-Id-跪了。](https://www.v2ex.com/t/695595) 
 - [2020-08-04-百度贴吧：比微信更有机会称王，却败于想象力](https://www.v2ex.com/t/695594) 
-- [2020-08-04-前同事借钱不还怎么办?](https://www.v2ex.com/t/695593) 
-- [2020-08-04-Vue-初学者求问一个关于-nextTick-和-async/await-的问题](https://www.v2ex.com/t/695592) 
-- [2020-08-04-22-届香港大学本科生可能有实习的坑位吗？](https://www.v2ex.com/t/695591) 
-- [2020-08-04-吐槽下-typescript-的-mixin](https://www.v2ex.com/t/695590) 

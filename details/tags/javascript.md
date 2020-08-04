@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 07:02:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 07:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -74,6 +74,7 @@
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) 
 - [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) 
 - [2018-10-22-单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/) 
@@ -121,7 +122,6 @@
 - [2020-08-04-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-04-如何在项目中封装-Kotlin-+-Android-Databinding-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13642&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7Ib_IcD41gD0U69j0vOP_g%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) 
-- [2020-08-04-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
 - [2020-08-04-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
 - [2020-08-02-三名黑客劫持Twitter账号攻击事件细节披露](https://sec.thief.one/article_content?a_id=25d3958410158ecaf9d04abec5a69c9d) 
 - [2020-08-02-安全意识:推特公布泄漏事件最新进展黑客伪装成同事骗取员工凭证](https://sec.thief.one/article_content?a_id=078d3625cd7c3dda3950fec79a9f0b29) 

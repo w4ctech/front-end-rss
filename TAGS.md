@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-04 07:02:48。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 07:09:20。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -441,6 +441,8 @@
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【程序员成长指北】私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd)
 - [【程序员成长指北】阿里大佬关于移动端体验优化经验总结](https://www.ershicimi.com/p/cd5177a646f341e973bff829773cd543)
+- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
+- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【凹凸实验室】大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/)
 - [【凹凸实验室】京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)
 - [【凹凸实验室】前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/)
@@ -520,7 +522,7 @@
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【开发者头条】YOLO-系目标检测算法家族全景图](https://toutiao.io/k/gcwdtmy)
-- [【开发者头条】推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5)
+- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=775de0c9609406e03cadc0135a7b43ba)
 - [【安全热点】NETGEAR-httpd缓冲区溢出漏洞分析](https://sec.thief.one/article_content?a_id=37f095f67158b1d4e5a0bb2119a80f03)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 07:02:48。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-04 07:09:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -26,7 +26,7 @@
 <th colspan="12">2019年</th>
 </tr>
 <tr>
-<td>01月</td>
+<td><a href="#2019-01">01月</a></td>
 <td><a href="#2019-02">02月</a></td>
 <td><a href="#2019-03">03月</a></td>
 <td>04月</td>
@@ -261,8 +261,8 @@
 - [【开发者头条】2020-08-04-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) 
 - [【开发者头条】2020-08-04-分布式系统中只有两个难题](https://toutiao.io/k/m1t8wi6) 
 - [【开发者头条】2020-08-04-Python-为什么会有个奇怪的-“...”-对象？](https://toutiao.io/k/9e53gay) 
-- [【开发者头条】2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) 
 - [【开发者头条】2020-08-04-mapstruct-解放-Java-对象转换](https://toutiao.io/k/0y7l1k4) 
+- [【开发者头条】2020-08-04-译-JavaScript-中的-8-种常见数据结构](https://toutiao.io/k/hmq3z9w) 
 - [【开发者头条】2020-08-04-Zeppelin-集成-Ranger-实现用户权限管控](https://toutiao.io/k/yxrpfkd) 
 - [【开发者头条】2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) 
 - [【开发者头条】2020-08-04-大白话-Java-多线程，高手勿入](https://toutiao.io/k/b9pp8ci) 
@@ -278,21 +278,21 @@
 - [【开发者头条】2020-08-04-谁说-Cat-不能做链路跟踪的，给我站出来](https://toutiao.io/k/d8zcuyc) 
 - [【开发者头条】2020-08-04-近源渗透测试之-Keylogger-实战](https://toutiao.io/k/85l0klv) 
 - [【开发者头条】2020-08-04-走，HashMap，敢去爬山吗？](https://toutiao.io/k/85jn35i) 
-- [【开发者头条】2020-08-04-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) 
-- [【开发者头条】2020-08-04-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
-- [【开发者头条】2020-08-04-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) 
-- [【开发者头条】2020-08-04-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
-- [【开发者头条】2020-08-04-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
-- [【开发者头条】2020-08-04-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
-- [【开发者头条】2020-08-04-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
-- [【开发者头条】2020-08-04-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
-- [【开发者头条】2020-08-04-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
-- [【开发者头条】2020-08-04-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
 - [【开发者头条】2020-08-04-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
+- [【开发者头条】2020-08-04-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) 
+- [【开发者头条】2020-08-04-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) 
+- [【开发者头条】2020-08-04-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) 
 - [【开发者头条】2020-08-04-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
-- [【开发者头条】2020-08-04-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [【开发者头条】2020-08-04-推荐-当我谈-HTTP-时，我谈些什么?](https://toutiao.io/k/3s4flk5) 
 - [【开发者头条】2020-08-04-推荐-百万考生分数如何排序：计数排序](https://toutiao.io/k/pz2smjn) 
+- [【开发者头条】2020-08-04-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) 
+- [【开发者头条】2020-08-04-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
+- [【开发者头条】2020-08-04-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
+- [【开发者头条】2020-08-04-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
+- [【开发者头条】2020-08-04-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
+- [【开发者头条】2020-08-04-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
+- [【开发者头条】2020-08-04-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
+- [【开发者头条】2020-08-04-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
+- [【开发者头条】2020-08-04-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
 - [【安全热点】2020-08-03-媒体关注|“安全框架”进入北京网络安全大会主题](https://sec.thief.one/article_content?a_id=e29ebdf023b4694ec739e4b7afde5943) 
 - [【安全热点】2020-08-03-ISC-2020-互联网安全大会——筑梦八载,再启华章!](https://sec.thief.one/article_content?a_id=1593c7a5fcd173589515b2d897c82085) 
 - [【安全热点】2020-08-03-Black-Hat-2020上的11大网络安全工具](https://sec.thief.one/article_content?a_id=272df87f01aca14b28f3e815a080f708) 
@@ -2299,6 +2299,8 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-03-01-联合调查组公布黄某英离汉进京事件调查结果](http://m.china.caixin.com/m/2020-03-02/101522853.html) 
 - [【前端开发博客】2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
 - [【前端开发博客】2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
+- [【京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
+- [【京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [【凹凸实验室】2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [【凹凸实验室】2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [【前端e进阶】2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
@@ -3564,6 +3566,7 @@
 - [【前端圈】2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) 
 - [【前端圈】2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) 
 - [【前端圈】2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) 
+- [【京东设计中心】2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [【凹凸实验室】2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/) 
 - [【凹凸实验室】2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/) 
 
@@ -3576,6 +3579,7 @@
 </summary>
 
 
+- [【京东设计中心】2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [【凹凸实验室】2019-03-12-小程序框架全面测评](https://aotu.io/notes/2019/03/12/mini-program-framework-full-review/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
@@ -3587,8 +3591,21 @@
 </summary>
 
 
+- [【京东设计中心】2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [【凹凸实验室】2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/) 
 - [【凹凸实验室】2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="2019-01">
+ 2019-01
+</summary>
+
+
+- [【京东设计中心】2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
+- [【京东设计中心】2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -3599,6 +3616,9 @@
 </summary>
 
 
+- [【京东设计中心】2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [【京东设计中心】2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
+- [【京东设计中心】2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) 
 - [【凹凸实验室】2018-12-23-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/) 
 - [【凹凸实验室】2018-12-17-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/) 
 

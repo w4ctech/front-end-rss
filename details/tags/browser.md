@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 07:02:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-04 07:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -49,6 +49,7 @@
 - [2020-08-04-北京滴滴招-Java-后端/数据/前端/测试/算法/web-安全等，-hc-多多](https://www.v2ex.com/t/695516) 
 - [2020-08-04-Chrome-商店-Spam-插件套路分析](https://toutiao.io/k/vphjfzm) 
 - [2020-08-04-在-View-上使用挂起函数](https://toutiao.io/k/vk490lv) 
+- [2020-08-04-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-03-媒体关注|“安全框架”进入北京网络安全大会主题](https://sec.thief.one/article_content?a_id=e29ebdf023b4694ec739e4b7afde5943) 
 - [2020-08-03-ISC-2020-互联网安全大会——筑梦八载,再启华章!](https://sec.thief.one/article_content?a_id=1593c7a5fcd173589515b2d897c82085) 
 - [2020-08-03-Black-Hat-2020上的11大网络安全工具](https://sec.thief.one/article_content?a_id=272df87f01aca14b28f3e815a080f708) 

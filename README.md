@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 16:33:19，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 16:46:27，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-04-国内几乎所有网站都可以用验证码找回密码，那么-两步验证-Google-身份验证器-是否没必要使用了？](https://www.v2ex.com/t/695679) ![](assets/new.png)  
 - [2020-08-04-很奇怪的网络问题，-scp-在-mac-上比在-windows-上快、稳定很多](https://www.v2ex.com/t/695678) ![](assets/new.png)  
 - [2020-08-04-Angular-9+-升级小记-——-应付-MSAL-Angular-与-ngx-restangular-的兼容性问题](https://www.v2ex.com/t/695676) ![](assets/new.png)  
 - [2020-08-04-出一个招行白金体检-需要的来](https://www.v2ex.com/t/695673) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-04-2020-年-8-月的当下，写-web-应用不想碰-JS-应该选什么技术？](https://www.v2ex.com/t/695655) ![](assets/new.png)  
 - [2020-08-04-为了两万块的工资，我在努力坚持着-996-的生活](https://www.v2ex.com/t/695654) ![](assets/new.png)  
 - [2020-08-04-WIN10-的-mobile-hotspot-移动热点是什么技术？](https://www.v2ex.com/t/695653) ![](assets/new.png)  
-- [2020-08-04-请问有网站跳转+分享二维码一体化的方案吗？](https://www.v2ex.com/t/695651) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

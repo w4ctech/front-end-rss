@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-04 09:33:21，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-04 09:46:33，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,10 @@
 </summary>
 
 
-- [2020-08-04-三星-A60-元气版-6+64-95-新带配件带京东延保一年](https://www.v2ex.com/t/695584) ![](assets/new.png)  
+- [2020-08-04-程序猿想全职做-up-主，可行吗？](https://www.v2ex.com/t/695589) ![](assets/new.png)  
+- [2020-08-04-广州-招聘-iOS-工程师](https://www.v2ex.com/t/695587) ![](assets/new.png)  
+- [2020-08-04-关于学历的选择](https://www.v2ex.com/t/695586) ![](assets/new.png)  
+- [2020-08-04-试用了一下-Wolai（我来），觉得不妥](https://www.v2ex.com/t/695585) ![](assets/new.png)  
 - [2020-08-04-疑问，外国程序员都不写-blog-的吗？](https://www.v2ex.com/t/695583) ![](assets/new.png)  
 - [2020-08-04-使用-jest-跑的-unit-test，运行测试文件，花了-10s，怎么分析一下性能问题？](https://www.v2ex.com/t/695582) ![](assets/new.png)  
 - [2020-08-04-大家觉得以后学什么专业会比较有钱途？](https://www.v2ex.com/t/695581) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-04-office-365-拼团，差一人](https://www.v2ex.com/t/695568) ![](assets/new.png)  
 - [2020-08-04-有点用不明白谷歌相册，请教一下](https://www.v2ex.com/t/695567) ![](assets/new.png)  
 - [2020-08-04-前端刷完了这些，可以去腾讯试一试吗](https://www.v2ex.com/t/695566) ![](assets/new.png)  
-- [2020-08-04-走过路过的帅哥靓仔有没有”多快好省“的墙外服务器推荐？](https://www.v2ex.com/t/695565) ![](assets/new.png)  
-- [2020-08-04-关于-MySQL-Replication-with-Global-Transaction-Identifiers-的疑问](https://www.v2ex.com/t/695564) ![](assets/new.png)  
-- [2020-08-04-强迫症-关于网页打开速度](https://www.v2ex.com/t/695563) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

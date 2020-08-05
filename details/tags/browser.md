@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 11:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 11:09:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,7 +43,6 @@
 - [2020-08-05-请教完全杀死-selenium-chromedriver](https://www.v2ex.com/t/695929) 
 - [2020-08-05-浏览器兼容测试-modernizr](https://www.v2ex.com/t/695883) 
 - [2020-08-05-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
-- [2020-08-05-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-05-【安全预警】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=ede61a57f5ca02205067afec2f5b1678) 
 - [2020-08-05-【一封招聘贴】金融行业安全技术岗](https://sec.thief.one/article_content?a_id=1847bc8ff5574d1db277b6e9baa42141) 
 - [2020-08-05-聚合时代力量,国内首个新基建安全大赛筑牢“基底”](https://sec.thief.one/article_content?a_id=b9f5e8b0186e7001b6d9e98384c38cfb) 

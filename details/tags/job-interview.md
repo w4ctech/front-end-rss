@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 10:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 11:02:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -62,4 +62,3 @@
 - [2020-08-05-7-年资深-iOS-面试：原来工资-30k-和-15k-的水平差在这里](https://www.v2ex.com/t/695887) 
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-04-渗透测试面试问题合集](https://sec.thief.one/article_content?a_id=f423366a12ee4f21045cf510862cc43c) 
-- [2020-08-02-朝鲜黑客利用虚假招聘信息对美发起新一轮攻击](https://sec.thief.one/article_content?a_id=468510499fed42a572d8c6d20225670a) 

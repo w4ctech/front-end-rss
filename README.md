@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 10:48:29，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 11:02:25，:rocket: 更新条数: +3257， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)![](assets/dot.png)   
+- [技术头条](#技术头条)  
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-简单分析-b-站站内链接的正则匹配以及吐槽](https://www.v2ex.com/t/695930) ![](assets/new.png)  
+- [2020-08-05-请教完全杀死-selenium-chromedriver](https://www.v2ex.com/t/695929) ![](assets/new.png)  
 - [2020-08-05-iPhoneX-iOS13.6-面容解锁-BUG](https://www.v2ex.com/t/695928) ![](assets/new.png)  
 - [2020-08-05-icloud-中会自动生成一些-xxx-2-的文件？](https://www.v2ex.com/t/695927) ![](assets/new.png)  
 - [2020-08-05-求助啊，-snap.svg-频繁的-getBBox-使性能超级地下，有什么解决方案吗？](https://www.v2ex.com/t/695926) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-05-怎么固定每次打开-Finder-窗口的大小？](https://www.v2ex.com/t/695908) ![](assets/new.png)  
 - [2020-08-05-这是什么音标，看起来很好读的样子](https://www.v2ex.com/t/695906) ![](assets/new.png)  
 - [2020-08-05-最近琢磨着创业项目，但有很多困惑。](https://www.v2ex.com/t/695905) ![](assets/new.png)  
-- [2020-08-05-请教一个静态资源处理的问题](https://www.v2ex.com/t/695904) ![](assets/new.png)  
-- [2020-08-05-北京海淀区-Python-开发工程师](https://www.v2ex.com/t/695903) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,26 +1083,6 @@
 </summary>
 
 
-- [2020-08-05-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-10-大受欢迎的全球顶级编程语言与薪资水平-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13657&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4yoMBPzafZ1LQPE3dk2K0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-Python-编辑神器-Jupyter-，推出首款官方可视化-Debug-工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-为什么培训班出来的程序员总遭人嫌弃？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13655&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Zile1EaovOs289NZgQpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-雷军，扎克伯格，Linus-等巨佬的办公桌-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13654&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjAxhZz2Yq1Py3BEKDQ2sg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-一个故事讲完-CPU-的工作原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13653&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuAeWJBFmBiZOmF5t5vEFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-灵魂拷问！二维码会被人类扫完吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13652&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqXYbHGcJn-8KXlFpbOL8-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-快速从-Windows-切换到-Linux-环境-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13651&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVioXxGCjySXwZ9JfFHM-5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-国内良心-Linux-桌面操作系统，全新-Deepin-V20-来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13650&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFlZB3BqLHYSBr8-u10HigQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-新版任你发，我用-Java-8-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13649&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfD5UIu2_UUM1wowS5-NEiw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-怎样Hack-Linux的内核符号？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13648&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-hack-linux-kernel-symbols%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-小图标，大学问-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13646&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-icon-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-又拍云网关速率限制实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13645&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F164735755%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-05-Android-Fragment-被回收后显示空白问题解决方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13643&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLuJuXA9SZ-TcCAIcbF66SQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,8 +1095,8 @@
 
 
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
 - [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
@@ -1128,8 +1108,8 @@
 - [2020-08-05-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-05-Kafka-如何选择合适的分区数，你选对了吗？](https://toutiao.io/k/g0v0xs9) ![](assets/new.png)  
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
-- [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
+- [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
 - [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  
 - [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
@@ -1145,26 +1125,26 @@
 </summary>
 
 
-- [2020-08-04-TeamTNT团伙对Docker主机发起攻击活动,植入挖矿木马](https://sec.thief.one/article_content?a_id=542992bd34c01fe87878c352e41bcfd7) ![](assets/new.png)  
-- [2020-08-04-用这个网站一查,才知道自己被卖了](https://sec.thief.one/article_content?a_id=aa38bd7d876286f91fa1faead079ee1a) ![](assets/new.png)  
-- [2020-08-04-Chrome浏览器的实用插件推荐](https://sec.thief.one/article_content?a_id=41a10eb27ca4fb80edac75c88387c0d3) ![](assets/new.png)  
-- [2020-08-04-2020“主播带你游佛坪”-实力践行精准扶贫](https://sec.thief.one/article_content?a_id=78a44f7a47f870162c2b670e6a9a0eea) ![](assets/new.png)  
-- [2020-08-04-2020年正在成为Staking大年,有数项主要成就上篇](https://sec.thief.one/article_content?a_id=40b63f3de9169cb8624e8519d9ed433f) ![](assets/new.png)  
-- [2020-08-04-2020年度CNNVD新增技术支撑单位第一批公告](https://sec.thief.one/article_content?a_id=534c2c015b76e4e0a3bf8b11117917a9) ![](assets/new.png)  
-- [2020-08-04-奖励|ByteSRC7月精英白帽排行榜发布!](https://sec.thief.one/article_content?a_id=fc2dd4dfd0111b2ec8ad0dc9043bd20c) ![](assets/new.png)  
-- [2020-08-04-良心帖!看完这篇,你的Python入门基础就差不多了!](https://sec.thief.one/article_content?a_id=243547e7f4f61a1a12c78235260cacb6) ![](assets/new.png)  
-- [2020-08-04-技术分享-|-内网渗透手动学习实践](https://sec.thief.one/article_content?a_id=5bd0e10f7661e06c693b43622a959c7b) ![](assets/new.png)  
-- [2020-08-04-秋季校招-|-五大类职位等你来pick!](https://sec.thief.one/article_content?a_id=f9f40b887a72942a5e3e5f45ff56d239) ![](assets/new.png)  
-- [2020-08-04-“海盗船”正驶向发展中国家,揭秘真实的在线盗版网络](https://sec.thief.one/article_content?a_id=9b2f8efcc34f9cd956127aa91890eec4) ![](assets/new.png)  
-- [2020-08-04-对话Flanker-|-十年饮冰,难凉热血](https://sec.thief.one/article_content?a_id=8eb29688d3d4630fd45682c714f2a453) ![](assets/new.png)  
-- [2020-08-04-推特最大黑客攻击案侦破:策划者仅17岁,本身持有超过300枚比特币](https://sec.thief.one/article_content?a_id=91b9af53c2cfcad9e7d4ebf6aca9cc5b) ![](assets/new.png)  
-- [2020-08-04-百家-|-信息安全为富力数字化转型保驾护航](https://sec.thief.one/article_content?a_id=3cd7699626669f5bff5d43b6a150e65c) ![](assets/new.png)  
-- [2020-08-04-校招季,就等你了!](https://sec.thief.one/article_content?a_id=6a1661e84e1da479a62feff2f509e008) ![](assets/new.png)  
-- [2020-08-04-下载软件又被套路?绿盟君前来支招](https://sec.thief.one/article_content?a_id=684e8538b0bf7c8257702a159124e02c) ![](assets/new.png)  
-- [2020-08-04-「Burpsuite练兵场」验证机制漏洞下篇](https://sec.thief.one/article_content?a_id=ebd889ff70b2e1b2af39f22796dbb12b) ![](assets/new.png)  
-- [2020-08-04-​2020天翼杯逆向mobile解析](https://sec.thief.one/article_content?a_id=0123c9819d7afad40bdb76ce4e9d6ae5) ![](assets/new.png)  
-- [2020-08-04-国舜股份通过权威机构5项信息安全服务一级资质再认证](https://sec.thief.one/article_content?a_id=f29a294d44d90da840b753f1312aaff3) ![](assets/new.png)  
-- [2020-08-04-【安全风险通告】正方CA统一认证中心任意文件上传漏洞安全风险通告](https://sec.thief.one/article_content?a_id=23f8f19e1d6ad6454e6f4171789ee591) ![](assets/new.png)  
+- [2020-08-05-【安全预警】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=ede61a57f5ca02205067afec2f5b1678) ![](assets/new.png)  
+- [2020-08-05-16万大奖,名企offer,翼支付杯大数据建模大赛邀你来战!](https://sec.thief.one/article_content?a_id=bfa9653de16d2407375fcc4dc5e0d262) ![](assets/new.png)  
+- [2020-08-05-习近平就黎巴嫩贝鲁特发生重大爆炸事件向黎巴嫩总统奥恩致慰问电](https://sec.thief.one/article_content?a_id=4622e2866c7bdbfc91b24d8e9ff76b88) ![](assets/new.png)  
+- [2020-08-05-解锁新品-乘风而来|TechWorld-2020创新产品战略发布会明日盛启](https://sec.thief.one/article_content?a_id=4c6f7d6c58202b09ea78d8a3c452ed70) ![](assets/new.png)  
+- [2020-08-05-让C语言源码可知自身函数的实际地址与大小](https://sec.thief.one/article_content?a_id=5fa88a5d95e96ffd63e3e3a08597ecac) ![](assets/new.png)  
+- [2020-08-05-Blackhat-USA-2020八大类主题演讲全收集](https://sec.thief.one/article_content?a_id=56b920090b5c7ac1d04fc0f268d1d85b) ![](assets/new.png)  
+- [2020-08-05-伪装成抖音国际版Tiktok的短信蠕虫](https://sec.thief.one/article_content?a_id=63639f97e808fae42333ad2ab9c05d91) ![](assets/new.png)  
+- [2020-08-05-关于2020年“CNNVD兼容性服务”第三批新增产品公告](https://sec.thief.one/article_content?a_id=70972aef0ed1446ec7e13f167b84340b) ![](assets/new.png)  
+- [2020-08-05-【一封招聘贴】金融行业安全技术岗](https://sec.thief.one/article_content?a_id=1847bc8ff5574d1db277b6e9baa42141) ![](assets/new.png)  
+- [2020-08-05-信息黑产案:某装修公司240万买70万条业主信息,5市房管系统遭入侵](https://sec.thief.one/article_content?a_id=e3d411b7b3ab7b344993fe86baf2a47c) ![](assets/new.png)  
+- [2020-08-05-定向众测|最高七倍奖励,单个漏洞最高可获56000元现金奖励!](https://sec.thief.one/article_content?a_id=76a744b853836d8b950c9fbf16ce6dcc) ![](assets/new.png)  
+- [2020-08-05-聚合时代力量,国内首个新基建安全大赛筑牢“基底”](https://sec.thief.one/article_content?a_id=b9f5e8b0186e7001b6d9e98384c38cfb) ![](assets/new.png)  
+- [2020-08-05-惊喜“价”到!戴尔官网OptiPlex基础办公商用台式机到手价2279元](https://sec.thief.one/article_content?a_id=ec10c22c7338ad754b82395a62a8fef9) ![](assets/new.png)  
+- [2020-08-05-安全牛第八届《中国网络安全100强》评选正式启动](https://sec.thief.one/article_content?a_id=045eff54597756d1a578a8e5402131ea) ![](assets/new.png)  
+- [2020-08-05-Windows用户密码的加密与破解利用](https://sec.thief.one/article_content?a_id=a5549cd035a3ddff0b18b8de4300a96b) ![](assets/new.png)  
+- [2020-08-05-倒计时3天,和V神一起点燃这个夏天](https://sec.thief.one/article_content?a_id=5ea62e473bcd3d2e487a34893a7ddf20) ![](assets/new.png)  
+- [2020-08-05-OSRC确认参展ISC2020-携手共建大安全生态](https://sec.thief.one/article_content?a_id=9857be3b4431546ecc67fc03cf96a4c0) ![](assets/new.png)  
+- [2020-08-05-【视频】|-我们的个人隐私信息都被商家储存在哪里了?](https://sec.thief.one/article_content?a_id=6ffd46847b35ad3927c46acf599580e8) ![](assets/new.png)  
+- [2020-08-05-瑞波CEO称,世界各国政府将区块链视为美元霸权衰落的信号](https://sec.thief.one/article_content?a_id=286d9dc1e9973a377d99fbc675dd7cb5) ![](assets/new.png)  
+- [2020-08-05-【新坑慎入】小小的你竟然有着大大的安全隐患](https://sec.thief.one/article_content?a_id=eb6ef448afb9b96a38216b38babb9a1c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

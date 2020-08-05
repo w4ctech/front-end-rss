@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 05:02:56，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 05:08:50，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-最近在看-XPS17，不得不说高端电脑溢价非常严重](https://www.v2ex.com/t/695802) ![](assets/new.png)  
+- [2020-08-05-拼多多八月提前批内推](https://www.v2ex.com/t/695801) ![](assets/new.png)  
 - [2020-08-05-杭州新增一例，大家出门要小心啊](https://www.v2ex.com/t/695800) ![](assets/new.png)  
 - [2020-08-05-白嫖方案：微信-Access_token-时效-2-小时的管理问题](https://www.v2ex.com/t/695799) ![](assets/new.png)  
 - [2020-08-05-有了解企业网-FQ-及内部舆情侦测系统的吗？这系统原理是什么？还能旁路部署](https://www.v2ex.com/t/695798) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-05-强烈推荐-macOS-11-beta-升级](https://www.v2ex.com/t/695780) ![](assets/new.png)  
 - [2020-08-05-你见过那些设计、实用性、创新性很优秀的小程序，欢迎自荐！](https://www.v2ex.com/t/695777) ![](assets/new.png)  
 - [2020-08-05-噢吼-刚收到-ios14-bata4-更新了-正在安装····](https://www.v2ex.com/t/695775) ![](assets/new.png)  
-- [2020-08-05-Coupang-急招『直播相关后端/iOS/Android/架构』职位，美资韩企，-1065-不加班](https://www.v2ex.com/t/695774) ![](assets/new.png)  
-- [2020-08-05-小文件用分卷压缩+回复卷归档是否合适](https://www.v2ex.com/t/695772) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

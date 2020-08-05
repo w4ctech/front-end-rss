@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 15:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 15:19:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -29,9 +29,6 @@
 - [2020-07-30-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43) 
 - [2020-07-29-8-年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/3747511cc8dc7a2cc724a61429691845) 
 - [2020-07-24-面试字节-25k-岗，3-道题就被干掉](https://www.ershicimi.com/p/9616627378c35c21a0d5f8bee4b8c7bc) 
-- [2020-07-30-蚂蚁、字节、滴滴面试经历总结都已过](https://www.ershicimi.com/p/8dc90b9888f39f8df50a9ce0c71726dd) 
-- [2020-07-27-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/8f5cb92d83016cc2cea02da1fb0fe8c2) 
-- [2020-07-22-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/d7578a012e926a3e696b2b038ddcf581) 
 - [2020-08-04-如何在面试官面前展示自己--经典AI面试题限时免费领取](https://www.ershicimi.com/p/4958378b45876dfc1ffe26a0c47e19eb) 
 - [2020-07-25-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/efa9af0b81a0227c31a6a8e5c37fe7ef) 
 - [2020-07-22-面试是所有前端求职者最重视的一个环节，这决定着一个求职者是否能够顺利的求职成功。-作为一个前端，在](https://www.ershicimi.com/p/4a58f2b28b6cbfaa341a3cc2281821c9) 
@@ -48,6 +45,7 @@
 - [2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/9f62b79401471714082eb8dae19a6046) 
 - [2020-07-15-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/f357d3efce5b1fe01dcd97b71ed68c23) 
+- [2020-07-27-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/ccd241a496e05bf84c3211f01580da26) 
 - [2020-07-30-145道Web大厂面试真题分享](https://www.ershicimi.com/p/da75835aa6c431a35ff6867c50a9938d) 
 - [2020-07-30-2-年前端面试心路历程总结（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/b285e3145c5f77b4f45dfb2cc7d79a64) 
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 

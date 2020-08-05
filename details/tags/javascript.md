@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 15:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 15:19:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -42,9 +42,6 @@
 - [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
 - [2020-07-25-JavaScript-设计模式学习总结与感悟](https://www.ershicimi.com/p/f665d96042d46b71bf056ed273c9a051) 
 - [2020-07-24-妙用-CSS变量，让你的-CSS-变得更心动](https://www.ershicimi.com/p/dde433f9208b7a5f5f0279def3beddfa) 
-- [2020-08-03-JavaScript-设计模式学习总结与感悟开发&面试必备](https://www.ershicimi.com/p/857f78c739dbb63c0434f44cb6385b59) 
-- [2020-07-28-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/9beb6c8042b863dbc3d05588042475fd) 
-- [2020-07-24-2020年6月Github上最热门的JavaScript开源项目](https://www.ershicimi.com/p/88f1ab66fdb1e0ab57948af621fd3159) 
 - [2019-11-06-用JS重塑复古计算机艺术-@JSConf2019](https://www.ershicimi.com/p/acf2b5d2f1aaf1358cb1687279dc8d5f) 
 - [2019-07-09-JavaScript性能开销之2019](https://www.ershicimi.com/p/e1ad32504936e36d4beeeb1bf021f19d) 
 - [2020-02-25-阿里-fusion-组件之-tab](https://www.ershicimi.com/p/3816d84b9fc881f8f67be958f531b4ba) 
@@ -72,6 +69,9 @@
 - [2020-07-23-带你写出符合Promise/A+规范Promise的源码](https://www.ershicimi.com/p/54288e3fa0845c82c4ad3798615a0b7a) 
 - [2020-07-21-常用的package.json，还有这么多你不知道的骚技巧](https://www.ershicimi.com/p/c8c05f4ec643b1b45db8f0c3471dacb7) 
 - [2020-07-14-15个简单的JS编码标准让你的代码更整洁](https://www.ershicimi.com/p/67e8f98695931ee0dda840725d49f7b3) 
+- [2020-08-04-应该在JavaScript中使用Class吗？](https://www.ershicimi.com/p/bd32a4b14a22166f54394f801e787e01) 
+- [2020-07-31-模块化之-snowpack，提高10倍打包速度。](https://www.ershicimi.com/p/94c1215dd428f56af335ad9fb262eb48) 
+- [2020-07-26-「牛客网」45道JS能力测评经典题总结](https://www.ershicimi.com/p/fab77a10f0e38b36bd4898a091577763) 
 - [2020-07-31-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df) 
 - [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 

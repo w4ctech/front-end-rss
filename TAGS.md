@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-05 15:18:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 15:19:52。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -88,13 +88,13 @@
 - [【Vue中文社区】Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/c75ffe25cbf0ecea2d1562ab6eb45000)
 - [【Vue中文社区】简述Vue3.0提前更新的必要性](https://www.ershicimi.com/p/fc2739cde2dfd99b1d52e213c3850d5c)
 - [【Vue中文社区】手把手带你理解Vue响应式原理](https://www.ershicimi.com/p/ae7d4d3c55a1cd7902b7995d4b87380a)
-- [【前端开发】Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5)
-- [【前端开发】你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45)
-- [【前端开发】你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/cf148253f33687c32b13141395cb46fd)
 - [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
 - [【前端圈】视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff)
 - [【前端圈】VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479)
 - [【前端圈】VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181)
+- [【前端圈】蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0)
+- [【前端圈】视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde)
+- [【前端圈】真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -143,6 +143,7 @@
 - [【政采云前端团队】分分钟教会你搭建企业级的-npm-私有仓库](https://www.ershicimi.com/p/b1a3411bb1a17e1fa6d68d17a88bbae1)
 - [【前端宇宙】13-个-你应该知道的-npm-快速开发技巧](https://www.ershicimi.com/p/f3ffb0316cd205ad9ebb79b6f85c5328)
 - [【前端宇宙】替代-webpack？带你了解-snowpack-原理，你还学得动么](https://www.ershicimi.com/p/5f12e243398087462ce4dc50fcbbc172)
+- [【前端瓶子君】自定义-ESLint-规则，让代码持续美丽](https://www.ershicimi.com/p/8525efc4c13d227326b784d36ae323c3)
 - [【Nodejs技术栈】一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f)
 - [【奇舞周刊】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
@@ -165,8 +166,8 @@
 - [【React中文社区】V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78)
 - [【前端大全】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971)
 - [【前端大全】Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45)
-- [【前端开发】如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/24a2bc74ee563a1473e7c646abae3773)
 - [【全栈前端精选】50行实现Node.js多进程分页爬虫](https://www.ershicimi.com/p/343a6b5d04d666d6feeb955b8c73dd95)
+- [【前端瓶子君】如何修改-node_modules-里的文件](https://www.ershicimi.com/p/937177d9e51b86c6f5664e4bd0db43df)
 - [【程序员成长指北】Nodejs-BFF-开发-8-个月的心路历程](https://www.ershicimi.com/p/460ab000c36beb9270577ec0a9c47518)
 - [【程序员成长指北】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/0d83694aff73a09ba4533abdc5180c56)
 - [【程序员成长指北】你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/2bc6b1174a30235ad49347ec4d653848)
@@ -291,7 +292,6 @@
 - [【Vue中文社区】20个-CSS-快速提升技巧](https://www.ershicimi.com/p/08918e4ffc7f78c07ab222f2901c4648)
 - [【Vue中文社区】还在问瀑布流？这里两行css代码实现](https://www.ershicimi.com/p/4cdf6736646002c2f5be7b54f9ff53c9)
 - [【前端早读课】【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)
-- [【前端开发】Serverless-掀起新的前端技术变革](https://www.ershicimi.com/p/f23ecc615686df4cdf02c03bc747ec42)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【前端大学】深入理解CSS-background-blend-mode的作用机制](https://www.ershicimi.com/p/d9198d776da8d8f04f61a8e7a96fc916)
@@ -299,6 +299,7 @@
 - [【前端外刊评论】Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5)
 - [【前端外刊评论】赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89)
 - [【前端宇宙】一行-CSS-代码搞定响应式布局](https://www.ershicimi.com/p/d8d864aa387c420fa7d7726177163b0b)
+- [【前端瓶子君】收藏！40-个-CSS-布局技巧](https://www.ershicimi.com/p/29ba7314cfb826935adf2a2638dd0ef0)
 - [【张鑫旭-鑫空间-鑫生活】深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/)
 - [【张鑫旭-鑫空间-鑫生活】巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/)
 - [【张鑫旭-鑫空间-鑫生活】使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/)
@@ -326,6 +327,7 @@
 
 - [【前端迷】一文-get-入门-canvas-的最佳路径](https://www.ershicimi.com/p/79d73f9a992c207cc25227c10278f50b)
 - [【全栈前端精选】一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/d7fef661f0a7376e8e9e8c4377eab199)
+- [【前端瓶子君】一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/171df28ff0edbe1d56c921d7fa3ab686)
 - [【张鑫旭-鑫空间-鑫生活】SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
 - [【V2EX】搞了个-MongoDB-的-GUI，遵循-Fluent-Design，好看也好用](https://www.v2ex.com/t/695948)
 - [......【查看更多】......](./details/tags/canvas-image.md)
@@ -384,6 +386,7 @@
 - [【Vue中文社区】私藏已久的前端性能优化技巧大全送你！](https://www.ershicimi.com/p/15e1ba3be057a29a57318f45dc3b5732)
 - [【前端迷】聊一聊前端性能优化](https://www.ershicimi.com/p/95e4dc5c9a8b25adcad6702c692cca9a)
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
+- [【前端瓶子君】还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下](https://www.ershicimi.com/p/04f3f774d4fecb8f9564024b9fa99ac1)
 - [【程序员成长指北】私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd)
 - [【程序员成长指北】阿里大佬关于移动端体验优化经验总结](https://www.ershicimi.com/p/cd5177a646f341e973bff829773cd543)
 - [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
@@ -450,6 +453,8 @@
 
 - [【React中文社区】实战LeetCode---前端面试必备二叉树算法](https://www.ershicimi.com/p/f3413b58491ac20f4c17a09b8a0af5e1)
 - [【前端迷】写给前端的算法进阶指南，我是如何两个月零基础刷200题](https://www.ershicimi.com/p/fec885f94bafb0c093efefe73a66a093)
+- [【前端瓶子君】从头开始复习算法之让你彻底搞清楚BFS和DFS](https://www.ershicimi.com/p/e413a9f238897d02fadf0d40160a09a7)
+- [【前端瓶子君】还不懂这八大算法思想，刷再多题也白搭！](https://www.ershicimi.com/p/b9ff8c7923734da93b115115fcc928ef)
 - [【程序员成长指北】华为的前端全栈技术想学不？3个月，零费用，真香！](https://www.ershicimi.com/p/0e99c5a357f834a27adc4a78217ec1bb)
 - [【前端e进阶】数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4)
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
@@ -494,6 +499,7 @@
 - [【全栈前端精选】推荐一位-github-项目-9K-star-的-BAT-一线大厂前端同学](https://www.ershicimi.com/p/4e6e5a2b151c52df4ee34b8515841583)
 - [【全栈前端精选】一文入门DNS？从访问GitHub开始](https://www.ershicimi.com/p/28a091a5c351fe1c563f6adb6845333d)
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
+- [【前端瓶子君】推荐几个Github排名前100，阿里、字节等前端大佬的公众号](https://www.ershicimi.com/p/bd6324ea69cb66815af54c01f6f49998)
 - [【程序员成长指北】小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/02f6c94cfcc7e81a98b1c2199873db06)
 - [【Nodejs技术栈】GitHub-真把代码冰封北极-1000-年！](https://www.ershicimi.com/p/38187e751101fa633b95b5998c0ed0bd)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)

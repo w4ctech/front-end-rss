@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 15:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 15:19:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2194,13 +2194,6 @@
 - [2020-08-03-响应式布局新方案](https://www.ershicimi.com/p/9ece9349ffc7fcb3d012b8e50170fc57) 
 - [2020-07-31-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/a3a6c874e1d46d006e9db625341a6728) 
 - [2020-07-23-什么时候适合使用-Map-而不是-Object](https://www.ershicimi.com/p/b16865d2066f80e17aa3a990047714cc) 
-- [2020-08-04-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/b1f934f2e3176b107d43f118ae3e4998) 
-- [2020-08-01-前端登录，这一篇就够了](https://www.ershicimi.com/p/f5810b6aca92e17e121abcc608e44921) 
-- [2020-07-31-没错，华为又对前端下手了！](https://www.ershicimi.com/p/f4c6c88a1974b3ee832e72a3fd7634eb) 
-- [2020-07-31-25-个实用前端网站工具推荐](https://www.ershicimi.com/p/3ed2bde25cb9c1bd5f6f4a6b424fc1e0) 
-- [2020-07-29-阿里员工吐槽：后悔接这侮辱性的offer](https://www.ershicimi.com/p/ee16933cfe6ffe84b026194aeb3b9753) 
-- [2020-07-28-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/50e32afa76075f266afa46332a56f5fb) 
-- [2020-07-27-你不知道的-Blob](https://www.ershicimi.com/p/a0e09fb14403929300e21738d8395e1e) 
 - [2019-11-05-玉伯：我的前端成长之路](https://www.ershicimi.com/p/8e52b0d699f255b54e760cccca46bc4e) 
 - [2020-02-14-阿里-ice.work-探秘系列-如何封装一个-useRequest](https://www.ershicimi.com/p/bdf27b012543afa8bfd2f810686403de) 
 - [2020-02-07-工具控来看看代码高亮必备](https://www.ershicimi.com/p/56debedff7f9d3c357f3621de7a64aa2) 
@@ -2259,6 +2252,8 @@
 - [2020-07-27-4-个技能，帮你提升跳槽信心](https://www.ershicimi.com/p/1fd2900872b0b5f7614afe72ab900d8c) 
 - [2020-07-17-夜深了，程序员的电脑却没关······](https://www.ershicimi.com/p/2f718f31b8bbd6e38a9e24d16db67cb2) 
 - [2020-07-11-推介一位前端实力博主朋友：SHERlocked93](https://www.ershicimi.com/p/47809ae3287644296d6faadff8dd4d43) 
+- [2020-07-28-【干货】毕业一年升P6的前端晋升总结](https://www.ershicimi.com/p/3ab9fdfcae8d2e8b24c13c901da0b9f3) 
+- [2020-07-25-vite-——-一种新的、更快地-web-开发工具](https://www.ershicimi.com/p/dd556e80e864f38101251847df11518b) 
 - [2020-08-04-我是如何将业务代码写优雅的](https://www.ershicimi.com/p/8d938a8dacd4e5d0a79e5002fcfa038b) 
 - [2020-08-03-前端开发：如何判断自己是初级、中级还是资深？](https://www.ershicimi.com/p/08c64cddc8e5a5272ff8deaa8e487cb4) 
 - [2020-08-01-揭秘几个“强”的不得了的前端公众号](https://www.ershicimi.com/p/d81790fe6b17f01ab4e21f5e0f9ca4bc) 

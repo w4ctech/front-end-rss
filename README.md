@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 09:09:03，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 09:19:25，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-05-这是什么音标，看起来很好读的样子](https://www.v2ex.com/t/695906) ![](assets/new.png)  
+- [2020-08-05-最近琢磨着创业项目，但有很多困惑。](https://www.v2ex.com/t/695905) ![](assets/new.png)  
+- [2020-08-05-请教一个静态资源处理的问题](https://www.v2ex.com/t/695904) ![](assets/new.png)  
+- [2020-08-05-北京海淀区-Python-开发工程师](https://www.v2ex.com/t/695903) ![](assets/new.png)  
 - [2020-08-05-有人了解长沙-36665-这个腾讯收购的公司没？主要是做啥的](https://www.v2ex.com/t/695901) ![](assets/new.png)  
 - [2020-08-05-tcpdump-net-用法疑问](https://www.v2ex.com/t/695899) ![](assets/new.png)  
 - [2020-08-05-不懂就问-gitlab-客户端使用相关问题](https://www.v2ex.com/t/695898) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-05-浏览器兼容测试-modernizr](https://www.v2ex.com/t/695883) ![](assets/new.png)  
 - [2020-08-05-excel-上拖拽透视表,-服务直接返回透视表查询的结果,-有什么这样的开箱即用的工具么](https://www.v2ex.com/t/695882) ![](assets/new.png)  
 - [2020-08-05-推荐一家网上近视眼镜店](https://www.v2ex.com/t/695881) ![](assets/new.png)  
-- [2020-08-05-谷歌-Google-voice-旧版于-2020-年-8-月-11-日永久转向新版-这将是一件好事还是坏事呢？](https://www.v2ex.com/t/695880) ![](assets/new.png)  
-- [2020-08-05-苏州-965---Node.JS-老哥们看过来！](https://www.v2ex.com/t/695877) ![](assets/new.png)  
-- [2020-08-05-学会了这些-win10-快捷键，可以极大的提高你的工作效率](https://www.v2ex.com/t/695875) ![](assets/new.png)  
-- [2020-08-05-macOS-Big-Sur-Safari-支持奈飞-UHD-&-Dolby-Vision-和-Youtube-8K](https://www.v2ex.com/t/695874) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

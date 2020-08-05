@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 06:02:50，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 06:10:45，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,7 +65,7 @@
 
 
 - [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
-- [2020-08-04-又是海鲜？香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
+- [2020-08-04-香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
 - [2020-08-04-最新疫情：全国新冠累计确诊84491例-新疆本土新增22例](https://m.caixin.com/m/2020-08-05/101589013.html) ![](assets/new.png)  
 - [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-05-易炼红强调：严防聚集性疫情，做好秋冬季防控工作！](http://hc.jiangxi.gov.cn/doc/2020/08/05/146199.shtml) ![](assets/new.png)  
+- [2020-08-05-浙大二院：眼科中心全体医务人员核酸检测结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti56Z0wlqwB9A1GlvwGc0t200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-杭州新增1例无症状感染者](https://m.weibo.cn/2803301701/4534541706594454) ![](assets/new.png)  
 - [2020-08-05-联合国：新冠疫情影响全球超10亿学生](https://m.weibo.cn/2803301701/4534525420381584) ![](assets/new.png)  
 - [2020-08-05-陕西西安钟鼓楼博物馆延长旅游旺季开放时间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW58CZYAnbbEIOZXgoYLs200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-大连：已排查在售进口水产品、肉品1065种](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZPdbCKFimsscXyUY7ENm200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-受疫情影响后航空运输活动减少-维珍澳大利亚航空计划裁员三分之一](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivhlK3hkpDRuBpIMq1tRI200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-美国多地教职员工和家长反对秋季返校复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiohijBX4nA2UzEXjDlveh200805&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -885,6 +885,16 @@
 </summary>
 
 
+- [2020-08-04-大厂的-Redis-都是怎么搞的？|-极客时间](https://www.ershicimi.com/p/864e960f80b593ed09b1354a1969af7a) ![](assets/new.png)  
+- [2020-08-04-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/f18cb79ea805a65db73ce20334d28871) ![](assets/new.png)  
+- [2020-08-04-网络传输如何“快”人一步？|-Q推荐](https://www.ershicimi.com/p/5659168c8f3f91878a3109e693b84f8e) ![](assets/new.png)  
+- [2020-08-04-以为是AI，其实是外包，融资上亿美元初创公司倒闭背后的真相](https://www.ershicimi.com/p/8d268aee73c07b194705ab20f4dd2372) ![](assets/new.png)  
+- [2020-08-04-Serverless-架构下如何实现日志的实时输出？](https://www.ershicimi.com/p/6f95627c2dc12e265695e06944f86a9c) ![](assets/new.png)  
+- [2020-08-03-只加两行代码，为什么要用两天？](https://www.ershicimi.com/p/f6462e548745fe5ee6fbde93442769a3) ![](assets/new.png)  
+- [2020-08-03-腾讯开源联盟主席单致豪：开源是一个生态，不是单一企业的事](https://www.ershicimi.com/p/03fb782d0522e114e13ebfb310193a89) ![](assets/new.png)  
+- [2020-08-03-微服务业务体系内对复用的深度探讨-|-QCon+](https://www.ershicimi.com/p/cc6da8557c125efa4c062c2639706ab8) ![](assets/new.png)  
+- [2020-08-03-云原生时代，巧妙利用云架构优化本地部署的方法论-|-Q推荐](https://www.ershicimi.com/p/1b636a729ee066cfd9bcb12be97c199f) ![](assets/new.png)  
+- [2020-08-03-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/90ae3dbd9ae5ef3c3cb4b27effbdcefe) ![](assets/new.png)  
 - [2020-08-02-“一挖就走”，中芯国际为什么留不住人？](https://www.ershicimi.com/p/3b361156e5658039d223b25bfdc0f997) ![](assets/new.png)  
 - [2020-08-02-去Oracle实录：如何在线更换金融核心场景中的数据库？](https://www.ershicimi.com/p/174a51ae472f58fd9acf5117794cf264) ![](assets/new.png)  
 - [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) ![](assets/new.png)  
@@ -895,16 +905,6 @@
 - [2020-08-01-2020-年，苹果的-AI-还有创新吗？](https://www.ershicimi.com/p/64b763448240f4a4b99b45878582366b) ![](assets/new.png)  
 - [2020-07-31-一些关于架构师的误解-|-极客大学](https://www.ershicimi.com/p/c9b5d198be21aa1c69f91591001b431c) ![](assets/new.png)  
 - [2020-07-31-腾讯收购搜狗背后，互联网圈开始内卷？](https://www.ershicimi.com/p/b9495f682115f0d7e13bc6e41b787627) ![](assets/new.png)  
-- [2020-07-31-云计算时代下，如何运用Serverless让业务逆袭？|-Q推荐](https://www.ershicimi.com/p/518a2bd0926db9a714d7eb220500e7aa) ![](assets/new.png)  
-- [2020-07-31-Serverless-实战：通过-Component-实现多地域部署容灾](https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab) ![](assets/new.png)  
-- [2020-07-31-下笔如有神：这是一个基于营销行业的-AI-技术实践-|-Q推荐](https://www.ershicimi.com/p/cf4b97679260c2541be9cfe82859195f) ![](assets/new.png)  
-- [2020-07-30-美英法日接连“拉黑”，没有华为的5G网络会怎么样-？](https://www.ershicimi.com/p/568be888375621607fd60f1017c22538) ![](assets/new.png)  
-- [2020-07-30-快手自研kQUIC：千万级QPS集群是如何实现的？](https://www.ershicimi.com/p/503600d70beb6b306d58e8f4571d12ed) ![](assets/new.png)  
-- [2020-07-30-鲲鹏应用创新大赛2020参赛指南-|-Q推荐](https://www.ershicimi.com/p/e1ed164868529b4e4300acd2e8140523) ![](assets/new.png)  
-- [2020-07-30-如果这三点全中，你需要认真考虑-API-这项技术了-|-Q推荐](https://www.ershicimi.com/p/8aec16bf7c670861c435fc126d8ce26b) ![](assets/new.png)  
-- [2020-07-30-程序员简历的8个建议](https://www.ershicimi.com/p/8141cb7f566959466975f78f29480f09) ![](assets/new.png)  
-- [2020-07-29-我敢说，这是最全的常用设计模式汇总-|-极客时间](https://www.ershicimi.com/p/b129ab71837d9ceeb30a43c7e5aaadf3) ![](assets/new.png)  
-- [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-有没有一种根据预定义文字进行更高效的压缩方式](https://www.v2ex.com/t/695821) ![](assets/new.png)  
+- [2020-08-05-mamicode-和-icode9-这种即时采集整站的-传票应该不止-6000¥](https://www.v2ex.com/t/695820) ![](assets/new.png)  
 - [2020-08-05-用湿巾擦眼镜镜片，伤吗？](https://www.v2ex.com/t/695818) ![](assets/new.png)  
 - [2020-08-05-2020-年-8-月了。-V2EX-站的竞争力在哪里](https://www.v2ex.com/t/695817) ![](assets/new.png)  
 - [2020-08-05-有没有二手-iPad-可入](https://www.v2ex.com/t/695816) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-05-杭州新增一例，大家出门要小心啊](https://www.v2ex.com/t/695800) ![](assets/new.png)  
 - [2020-08-05-白嫖方案：微信-Access_token-时效-2-小时的管理问题](https://www.v2ex.com/t/695799) ![](assets/new.png)  
 - [2020-08-05-有了解企业网-FQ-及内部舆情侦测系统的吗？这系统原理是什么？还能旁路部署](https://www.v2ex.com/t/695798) ![](assets/new.png)  
-- [2020-08-05-天机-1000-的真实水平到底是什么样的？发哥翻身了吗？有大佬解答下不](https://www.v2ex.com/t/695797) ![](assets/new.png)  
-- [2020-08-05-微信是不是对中的拼多多外链拼商品进行了限制，复制链接后不能直接跳转至拼多多-APP？](https://www.v2ex.com/t/695796) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,8 +1116,8 @@
 
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  

@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-08-05 06:02:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 06:10:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-08-04-大厂的-Redis-都是怎么搞的？|-极客时间](https://www.ershicimi.com/p/864e960f80b593ed09b1354a1969af7a) 
+- [2020-08-04-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/f18cb79ea805a65db73ce20334d28871) 
+- [2020-08-04-网络传输如何“快”人一步？|-Q推荐](https://www.ershicimi.com/p/5659168c8f3f91878a3109e693b84f8e) 
+- [2020-08-04-以为是AI，其实是外包，融资上亿美元初创公司倒闭背后的真相](https://www.ershicimi.com/p/8d268aee73c07b194705ab20f4dd2372) 
+- [2020-08-04-Serverless-架构下如何实现日志的实时输出？](https://www.ershicimi.com/p/6f95627c2dc12e265695e06944f86a9c) 
+- [2020-08-03-只加两行代码，为什么要用两天？](https://www.ershicimi.com/p/f6462e548745fe5ee6fbde93442769a3) 
+- [2020-08-03-腾讯开源联盟主席单致豪：开源是一个生态，不是单一企业的事](https://www.ershicimi.com/p/03fb782d0522e114e13ebfb310193a89) 
+- [2020-08-03-微服务业务体系内对复用的深度探讨-|-QCon+](https://www.ershicimi.com/p/cc6da8557c125efa4c062c2639706ab8) 
+- [2020-08-03-云原生时代，巧妙利用云架构优化本地部署的方法论-|-Q推荐](https://www.ershicimi.com/p/1b636a729ee066cfd9bcb12be97c199f) 
+- [2020-08-03-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/90ae3dbd9ae5ef3c3cb4b27effbdcefe) 
 - [2020-08-02-“一挖就走”，中芯国际为什么留不住人？](https://www.ershicimi.com/p/3b361156e5658039d223b25bfdc0f997) 
 - [2020-08-02-去Oracle实录：如何在线更换金融核心场景中的数据库？](https://www.ershicimi.com/p/174a51ae472f58fd9acf5117794cf264) 
 - [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) 
@@ -15,13 +25,3 @@
 - [2020-08-01-2020-年，苹果的-AI-还有创新吗？](https://www.ershicimi.com/p/64b763448240f4a4b99b45878582366b) 
 - [2020-07-31-一些关于架构师的误解-|-极客大学](https://www.ershicimi.com/p/c9b5d198be21aa1c69f91591001b431c) 
 - [2020-07-31-腾讯收购搜狗背后，互联网圈开始内卷？](https://www.ershicimi.com/p/b9495f682115f0d7e13bc6e41b787627) 
-- [2020-07-31-云计算时代下，如何运用Serverless让业务逆袭？|-Q推荐](https://www.ershicimi.com/p/518a2bd0926db9a714d7eb220500e7aa) 
-- [2020-07-31-Serverless-实战：通过-Component-实现多地域部署容灾](https://www.ershicimi.com/p/3c4fb3ad2b31652871fd8581d6f4ffab) 
-- [2020-07-31-下笔如有神：这是一个基于营销行业的-AI-技术实践-|-Q推荐](https://www.ershicimi.com/p/cf4b97679260c2541be9cfe82859195f) 
-- [2020-07-30-美英法日接连“拉黑”，没有华为的5G网络会怎么样-？](https://www.ershicimi.com/p/568be888375621607fd60f1017c22538) 
-- [2020-07-30-快手自研kQUIC：千万级QPS集群是如何实现的？](https://www.ershicimi.com/p/503600d70beb6b306d58e8f4571d12ed) 
-- [2020-07-30-鲲鹏应用创新大赛2020参赛指南-|-Q推荐](https://www.ershicimi.com/p/e1ed164868529b4e4300acd2e8140523) 
-- [2020-07-30-如果这三点全中，你需要认真考虑-API-这项技术了-|-Q推荐](https://www.ershicimi.com/p/8aec16bf7c670861c435fc126d8ce26b) 
-- [2020-07-30-程序员简历的8个建议](https://www.ershicimi.com/p/8141cb7f566959466975f78f29480f09) 
-- [2020-07-29-我敢说，这是最全的常用设计模式汇总-|-极客时间](https://www.ershicimi.com/p/b129ab71837d9ceeb30a43c7e5aaadf3) 
-- [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 

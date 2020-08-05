@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-05 23:33:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 23:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-Announcing-the-Expansion-of-the-Clean-Network-to-Safeguard-America’s-Assets](https://www.v2ex.com/t/696008) 
 - [2020-08-05-上个月买了-99-元电信-PLUS-会员的记得领券（附领取路径）](https://www.v2ex.com/t/696007) 
 - [2020-08-05-通宵-coding，操](https://www.v2ex.com/t/696006) 
 - [2020-08-05-Swift-:-从服务器下载-sqlite-数据库文件到-iPhone-文件夹,-然后离线打开这个下载好的数据库.-请问如何实现?](https://www.v2ex.com/t/696005) 
@@ -37,4 +38,3 @@
 - [2020-08-05-小米-9-剪切板无法使用了，求解](https://www.v2ex.com/t/695963) 
 - [2020-08-05-iPad-仍然不支持-Youtube-4K-吗？](https://www.v2ex.com/t/695962) 
 - [2020-08-05-被威胁了怎么办?](https://www.v2ex.com/t/695960) 
-- [2020-08-05-大佬们有没有有精力接活的啊，一品的销售一直联系我，今儿加上了，有几个小程序开发的单子。自己做不了，有意向的可以组个团队一起赚钱啊。](https://www.v2ex.com/t/695958) 

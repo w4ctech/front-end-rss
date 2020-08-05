@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 10:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 10:46:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -11,3 +11,4 @@
 - [2020-07-31-一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/d7fef661f0a7376e8e9e8c4377eab199) 
 - [2020-08-03-一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/171df28ff0edbe1d56c921d7fa3ab686) 
 - [2020-06-03-SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
+- [2020-08-05-求助啊，-snap.svg-频繁的-getBBox-使性能超级地下，有什么解决方案吗？](https://www.v2ex.com/t/695926) 

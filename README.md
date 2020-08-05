@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 05:17:49，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 05:31:41，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -72,9 +72,9 @@
 - [2020-08-03-最新海外疫情：新冠感染者近1816万-累计死亡近69万](http://m.international.caixin.com/m/2020-08-04/101588636.html) ![](assets/new.png)  
 - [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
 - [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
-- [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
 - [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
+- [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
 - [2020-08-02-中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html) ![](assets/new.png)  
 - [2020-08-02-南非确诊破50万大关-非洲检测率低恐致隐藏疫情风暴](http://m.international.caixin.com/m/2020-08-03/101588180.html) ![](assets/new.png)  
 - [2020-08-02-印度确诊180万例疫情在贫民窟传开-莫迪亲信自曝感染](http://m.international.caixin.com/m/2020-08-03/101588122.html) ![](assets/new.png)  
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-05-月经贴-各位大佬们，用什么写博客最好啊？](https://www.v2ex.com/t/695809) ![](assets/new.png)  
+- [2020-08-05-弱弱的问下关于视频压制的问题。。](https://www.v2ex.com/t/695808) ![](assets/new.png)  
+- [2020-08-05-请问怎么设置才能避免-Pycharm-修改到-Python-全局-Lib-或-venv-下的文件？](https://www.v2ex.com/t/695807) ![](assets/new.png)  
+- [2020-08-05-南京最舒服的外企-趋势科技社招内推！-8-月更新！](https://www.v2ex.com/t/695806) ![](assets/new.png)  
 - [2020-08-05-window-平台软件分享](https://www.v2ex.com/t/695805) ![](assets/new.png)  
 - [2020-08-05-Big-Sur-beta-4-已添加-VP9-解码器](https://www.v2ex.com/t/695804) ![](assets/new.png)  
 - [2020-08-05-最近在看-XPS17，不得不说高端电脑溢价非常严重](https://www.v2ex.com/t/695802) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-05-.](https://www.v2ex.com/t/695790) ![](assets/new.png)  
 - [2020-08-05-裸眼光学错觉](https://www.v2ex.com/t/695789) ![](assets/new.png)  
 - [2020-08-05-jdk-bug-网站提供的内部-review-票号有啥用](https://www.v2ex.com/t/695788) ![](assets/new.png)  
-- [2020-08-05-通过-25-端口连接第三方-smtp-服务器和-IP-直接通过-SMTP-发送邮件的区别？](https://www.v2ex.com/t/695787) ![](assets/new.png)  
-- [2020-08-05-用-Express.js-实现了一个仿-V2EX-的论坛网站](https://www.v2ex.com/t/695786) ![](assets/new.png)  
-- [2020-08-05-迫于装修，收京东-E-卡-大份的](https://www.v2ex.com/t/695782) ![](assets/new.png)  
-- [2020-08-05-强烈推荐-macOS-11-beta-升级](https://www.v2ex.com/t/695780) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,20 +1118,20 @@
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
+- [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  
 - [2020-08-05-“Flink”-理解流式处理重要概念](https://toutiao.io/k/ieevzor) ![](assets/new.png)  
 - [2020-08-05-Executors-功能如此强大，ThreadPoolExecutor-功不可没（一）](https://toutiao.io/k/xjvrnwe) ![](assets/new.png)  
 - [2020-08-05-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://toutiao.io/k/gyaummd) ![](assets/new.png)  
 - [2020-08-05-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-Kafka-如何选择合适的分区数，你选对了吗？](https://toutiao.io/k/g0v0xs9) ![](assets/new.png)  
+- [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
-- [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
 - [2020-08-05-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
+- [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
 - [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  
+- [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
 - [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
 - [2020-08-05-工具-|-一站式的开源企业级持续测试平台](https://toutiao.io/k/7s1vzm0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

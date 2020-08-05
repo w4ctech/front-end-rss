@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 05:08:50，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 05:17:49，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-window-平台软件分享](https://www.v2ex.com/t/695805) ![](assets/new.png)  
+- [2020-08-05-Big-Sur-beta-4-已添加-VP9-解码器](https://www.v2ex.com/t/695804) ![](assets/new.png)  
 - [2020-08-05-最近在看-XPS17，不得不说高端电脑溢价非常严重](https://www.v2ex.com/t/695802) ![](assets/new.png)  
 - [2020-08-05-拼多多八月提前批内推](https://www.v2ex.com/t/695801) ![](assets/new.png)  
 - [2020-08-05-杭州新增一例，大家出门要小心啊](https://www.v2ex.com/t/695800) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-05-用-Express.js-实现了一个仿-V2EX-的论坛网站](https://www.v2ex.com/t/695786) ![](assets/new.png)  
 - [2020-08-05-迫于装修，收京东-E-卡-大份的](https://www.v2ex.com/t/695782) ![](assets/new.png)  
 - [2020-08-05-强烈推荐-macOS-11-beta-升级](https://www.v2ex.com/t/695780) ![](assets/new.png)  
-- [2020-08-05-你见过那些设计、实用性、创新性很优秀的小程序，欢迎自荐！](https://www.v2ex.com/t/695777) ![](assets/new.png)  
-- [2020-08-05-噢吼-刚收到-ios14-bata4-更新了-正在安装····](https://www.v2ex.com/t/695775) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  
 - [2020-08-05-“Flink”-理解流式处理重要概念](https://toutiao.io/k/ieevzor) ![](assets/new.png)  

@@ -15659,6 +15659,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "window 平台软件分享",
+        "link": "https://www.v2ex.com/t/695805",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "Big Sur beta 4 已添加 VP9 解码器",
+        "link": "https://www.v2ex.com/t/695804",
+        "date": "2020-08-05"
+      },
+      {
         "title": "最近在看 XPS17，不得不说高端电脑溢价非常严重",
         "link": "https://www.v2ex.com/t/695802",
         "date": "2020-08-05"
@@ -15832,16 +15842,6 @@
         "title": "求助关于 WebRTC 只能在局域网建立成功问题",
         "link": "https://www.v2ex.com/t/695756",
         "date": "2020-08-05"
-      },
-      {
-        "title": "请教 Linux 挂载 windows 存储的问题",
-        "link": "https://www.v2ex.com/t/695755",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "苹果 DKT 设备运行项目报错，请大家帮忙瞅一眼。",
-        "link": "https://www.v2ex.com/t/695754",
-        "date": "2020-08-05"
       }
     ]
   },
@@ -15973,13 +15973,13 @@
         "date": "2020-08-05"
       },
       {
-        "title": "Elasticsearch 从入门到放弃：瞎说 Mapping",
-        "link": "https://toutiao.io/k/fnbbp2y",
+        "title": "技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-05"
       },
       {
-        "title": "技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "Elasticsearch 从入门到放弃：瞎说 Mapping",
+        "link": "https://toutiao.io/k/fnbbp2y",
         "date": "2020-08-05"
       },
       {
@@ -16058,38 +16058,8 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
-        "date": "2020-08-05"
-      },
-      {
         "title": "[推荐] ES 优化看这几条就够了",
         "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-05"
       },
       {
@@ -16098,8 +16068,8 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-05"
       },
       {
@@ -16108,8 +16078,13 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
         "date": "2020-08-05"
       },
       {
@@ -16118,8 +16093,8 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-05"
       },
       {
@@ -16128,8 +16103,33 @@
         "date": "2020-08-05"
       },
       {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-08-05"
+      },
+      {
         "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
         "link": "https://toutiao.io/k/zidka9w",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
         "date": "2020-08-05"
       }
     ]

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 05:48:17，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 06:02:50，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,14 +65,15 @@
 
 
 - [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
+- [2020-08-04-又是海鲜？香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
 - [2020-08-04-最新疫情：全国新冠累计确诊84491例-新疆本土新增22例](https://m.caixin.com/m/2020-08-05/101589013.html) ![](assets/new.png)  
 - [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
 - [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
-- [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [2020-08-03-最新海外疫情：新冠感染者近1816万-累计死亡近69万](http://m.international.caixin.com/m/2020-08-04/101588636.html) ![](assets/new.png)  
 - [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
 - [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
+- [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
 - [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
 - [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
 - [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
-- [2020-07-31-大流行手记|7月31日：疫情致英格兰死亡率居欧洲之首-越南首现死亡病例](https://m.caixin.com/m/2020-08-01/101587433.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-05-用湿巾擦眼镜镜片，伤吗？](https://www.v2ex.com/t/695818) ![](assets/new.png)  
+- [2020-08-05-2020-年-8-月了。-V2EX-站的竞争力在哪里](https://www.v2ex.com/t/695817) ![](assets/new.png)  
+- [2020-08-05-有没有二手-iPad-可入](https://www.v2ex.com/t/695816) ![](assets/new.png)  
+- [2020-08-05-社保卡的账户管理费自动减免？是否会影响另一个-I-类卡的减免？](https://www.v2ex.com/t/695815) ![](assets/new.png)  
 - [2020-08-05-有哪些可以连接-OneDrive-或-Google-Drive-的开源云盘？](https://www.v2ex.com/t/695814) ![](assets/new.png)  
 - [2020-08-05-Java-新特性分享～弱弱问下各位现在用-Java-11-了吗？用的啥-JDK](https://www.v2ex.com/t/695813) ![](assets/new.png)  
 - [2020-08-05-恒大一口气发布-6-款车，大家怎么看？](https://www.v2ex.com/t/695812) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-05-有了解企业网-FQ-及内部舆情侦测系统的吗？这系统原理是什么？还能旁路部署](https://www.v2ex.com/t/695798) ![](assets/new.png)  
 - [2020-08-05-天机-1000-的真实水平到底是什么样的？发哥翻身了吗？有大佬解答下不](https://www.v2ex.com/t/695797) ![](assets/new.png)  
 - [2020-08-05-微信是不是对中的拼多多外链拼商品进行了限制，复制链接后不能直接跳转至拼多多-APP？](https://www.v2ex.com/t/695796) ![](assets/new.png)  
-- [2020-08-05-看了太多感情中出轨劈腿事件，对感情恐惧了怎么破？](https://www.v2ex.com/t/695795) ![](assets/new.png)  
-- [2020-08-05-我发现手机挂个普通-L2TP-比不挂网速快很多](https://www.v2ex.com/t/695794) ![](assets/new.png)  
-- [2020-08-05-7z-命令行如何添加一个文件到一个压缩包的指定文件夹](https://www.v2ex.com/t/695792) ![](assets/new.png)  
-- [2020-08-05-快乐可能只是幻觉](https://www.v2ex.com/t/695791) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,8 +1116,8 @@
 
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  
@@ -1130,8 +1130,8 @@
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
 - [2020-08-05-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
-- [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
 - [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
+- [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
 - [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  
 - [2020-08-05-工具-|-一站式的开源企业级持续测试平台](https://toutiao.io/k/7s1vzm0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-05 01:48:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 02:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-为什么这么多人把-data-读成-date？](https://www.v2ex.com/t/695726) 
+- [2020-08-05-mysql-源数据是-gbk-现在想转-utf-8,这样操作是否可行？](https://www.v2ex.com/t/695725) 
+- [2020-08-05-pip-包经常被无缘无故的被删除，如何找出原因？](https://www.v2ex.com/t/695722) 
 - [2020-08-05-现在还没有二手的-Hololens2-吗？-咸鱼搜都搜不到](https://www.v2ex.com/t/695721) 
 - [2020-08-05-关于-fiddler-通过手机热点的抓包](https://www.v2ex.com/t/695720) 
 - [2020-08-05-plfa-对逻辑思维提升帮助大吗](https://www.v2ex.com/t/695718) 
@@ -38,5 +41,3 @@
 - [2020-08-04-V2EX-帖子分享到朋友圈时缩略图显示成广告](https://www.v2ex.com/t/695680) 
 - [2020-08-04-国内几乎所有网站都可以用验证码找回密码，那么-两步验证-Google-身份验证器-是否没必要使用了？](https://www.v2ex.com/t/695679) 
 - [2020-08-04-很奇怪的网络问题，-scp-在-mac-上比在-windows-上快、稳定很多](https://www.v2ex.com/t/695678) 
-- [2020-08-04-Angular-9+-升级小记-——-应付-MSAL-Angular-与-ngx-restangular-的兼容性问题](https://www.v2ex.com/t/695676) 
-- [2020-08-04-出一个招行白金体检-需要的来](https://www.v2ex.com/t/695673) 

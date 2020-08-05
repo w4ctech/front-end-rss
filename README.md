@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 02:10:17，:rocket: 更新条数: +3266， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 02:20:02，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,14 @@
 </summary>
 
 
+- [2020-08-05-问个-mysql-密码有关的问题...](https://www.v2ex.com/t/695737) ![](assets/new.png)  
+- [2020-08-05-关于前端-token-安全问题](https://www.v2ex.com/t/695736) ![](assets/new.png)  
+- [2020-08-05-几百个属性长表的前端展示方法](https://www.v2ex.com/t/695735) ![](assets/new.png)  
+- [2020-08-05-如何在没有-trunk/branch/tag-目录结构的-svn-repo-中-创建分支？](https://www.v2ex.com/t/695734) ![](assets/new.png)  
+- [2020-08-05-LeetCode-程序员兄弟可能要罚钱了，心疼你们](https://www.v2ex.com/t/695732) ![](assets/new.png)  
+- [2020-08-05-一体化部署工具-CloudBase-Framework-开发简报（2020-08-05）](https://www.v2ex.com/t/695731) ![](assets/new.png)  
+- [2020-08-05-求推荐你们的宝藏播客](https://www.v2ex.com/t/695730) ![](assets/new.png)  
+- [2020-08-05-武汉光谷-招信息安全-DPI/网络可视化/自主可控领域-Linux-C/C++-研发工程师](https://www.v2ex.com/t/695729) ![](assets/new.png)  
 - [2020-08-05-IPv6-升级改造，需要研发人员做什么？或者说有什么影响，需要注意什么](https://www.v2ex.com/t/695728) ![](assets/new.png)  
 - [2020-08-05-为什么这么多人把-data-读成-date？](https://www.v2ex.com/t/695726) ![](assets/new.png)  
 - [2020-08-05-mysql-源数据是-gbk-现在想转-utf-8,这样操作是否可行？](https://www.v2ex.com/t/695725) ![](assets/new.png)  
@@ -1064,14 +1072,6 @@
 - [2020-08-05-一直用-Win，为了所谓的触摸板买-Macbook-值得吗？](https://www.v2ex.com/t/695715) ![](assets/new.png)  
 - [2020-08-05-VSCode-插件开发——韭菜基金](https://www.v2ex.com/t/695712) ![](assets/new.png)  
 - [2020-08-05-白嫖一个技术方案](https://www.v2ex.com/t/695710) ![](assets/new.png)  
-- [2020-08-05-自制辣椒酱这样的成本在网上怎么卖？](https://www.v2ex.com/t/695709) ![](assets/new.png)  
-- [2020-08-05-如何提升-Nuxt.js-SSR-站点的-PageSpeed-Insights-评分?](https://www.v2ex.com/t/695708) ![](assets/new.png)  
-- [2020-08-05-感觉淘宝每个月的促销都是涨价促销](https://www.v2ex.com/t/695706) ![](assets/new.png)  
-- [2020-08-05-mac-的切屏逻辑真烦](https://www.v2ex.com/t/695705) ![](assets/new.png)  
-- [2020-08-05-有没有老哥碰到过-mysql-查询截断的问题啊](https://www.v2ex.com/t/695704) ![](assets/new.png)  
-- [2020-08-05-只要一开启-Redis-作为缓存，服务器频繁重启怎么回事](https://www.v2ex.com/t/695703) ![](assets/new.png)  
-- [2020-08-05-关于-Java-调用外部命令的疑惑，希望有大佬可以指点迷津。。](https://www.v2ex.com/t/695702) ![](assets/new.png)  
-- [2020-08-05-SpreadJS-纯前端表格控件应用案例：-SPDQD-质量数据云](https://www.v2ex.com/t/695701) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1118,9 +1118,9 @@
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
-- [2020-08-05-“Flink”-理解流式处理重要概念](https://toutiao.io/k/ieevzor) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  
 - [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
+- [2020-08-05-“Flink”-理解流式处理重要概念](https://toutiao.io/k/ieevzor) ![](assets/new.png)  
 - [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-05-Executors-功能如此强大，ThreadPoolExecutor-功不可没（一）](https://toutiao.io/k/xjvrnwe) ![](assets/new.png)  
 - [2020-08-05-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://toutiao.io/k/gyaummd) ![](assets/new.png)  
@@ -1129,11 +1129,11 @@
 - [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
 - [2020-08-05-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-05-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-05-工具-|-一站式的开源企业级持续测试平台](https://toutiao.io/k/7s1vzm0) ![](assets/new.png)  
+- [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
+- [2020-08-05-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  
 - [2020-08-05-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) ![](assets/new.png)  
-- [2020-08-05-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-05-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-05-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

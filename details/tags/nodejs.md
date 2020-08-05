@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 02:10:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 02:20:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,4 +26,3 @@
 - [2020-07-04-赠送几本-Node.js-书籍-|-回馈粉丝](https://www.ershicimi.com/p/f76e6e02f47b45a7c3fe09fb99b979b8) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-08-05-Node.js-和-Python-之间如何进行选择？](https://www.v2ex.com/t/695717) 
-- [2020-08-04-Node.js-or-Java-?](https://www.v2ex.com/t/695681) 

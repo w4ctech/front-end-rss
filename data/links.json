@@ -12935,7 +12935,108 @@
     "rss": "https://rss.itggg.cn/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
-    "items": []
+    "items": [
+      {
+        "title": "【第2024期】微保Serverless实践之架构演进",
+        "link": "https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "【招聘】北京洋葱学院招聘前端工程师(社招)",
+        "link": "https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c",
+        "date": "2020-08-04"
+      },
+      {
+        "title": "如何快速建立正确的前端知识体系？",
+        "link": "https://www.ershicimi.com/p/4d58b509861688365e8c37cd8c8e292c",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "【第2023期】从2.9秒到0.6秒，信息流首屏提效80%的秘诀",
+        "link": "https://www.ershicimi.com/p/16f023905a06741f957df70ecf53e4c3",
+        "date": "2020-08-03"
+      },
+      {
+        "title": "【第2022期】不定宽溢出文本适配滚动",
+        "link": "https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "【招聘】字节跳动产研国际化招聘前端工程师(社招/校招/实习)",
+        "link": "https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "【第2021期】你只加了两行代码，为什么要花两天时间？",
+        "link": "https://www.ershicimi.com/p/31866c423475edeea1f42662c244b3de",
+        "date": "2020-08-02"
+      },
+      {
+        "title": "【第2020期】如何进行设计评审 Design Critiques",
+        "link": "https://www.ershicimi.com/p/0cebd522a21eeb48759496746d6b90a4",
+        "date": "2020-07-31"
+      },
+      {
+        "title": "【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传",
+        "link": "https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016",
+        "date": "2020-07-30"
+      },
+      {
+        "title": "【招聘】上海Treelab招高级前端架构师、高级React开发工程师",
+        "link": "https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8",
+        "date": "2020-07-30"
+      },
+      {
+        "title": "2020Web前端高薪攻略.pdf",
+        "link": "https://www.ershicimi.com/p/0ee3904aa537f0902f3b820313ac4940",
+        "date": "2020-07-29"
+      },
+      {
+        "title": "【第2018期】小图标，大学问",
+        "link": "https://www.ershicimi.com/p/892703378c482db1fa0819d2384a61f8",
+        "date": "2020-07-29"
+      },
+      {
+        "title": "【第2017期】如何在滴滴落地 Chameleon",
+        "link": "https://www.ershicimi.com/p/75bfd3aa65e4a690461c9e54b11afb45",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师",
+        "link": "https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e",
+        "date": "2020-07-28"
+      },
+      {
+        "title": "【第2016期】WXInlinePlayer：高性能WASM播放器实现",
+        "link": "https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发",
+        "link": "https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "【第2015期】Web Worker 文献综述",
+        "link": "https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d",
+        "date": "2020-07-27"
+      },
+      {
+        "title": "【第2014期】仿照React源码流程打造90行代码的Hooks",
+        "link": "https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b",
+        "date": "2020-07-26"
+      },
+      {
+        "title": "【第2013期】用 puppeteer 实现网站自动分页截取的趣事",
+        "link": "https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848",
+        "date": "2020-07-24"
+      },
+      {
+        "title": "【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启",
+        "link": "https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8",
+        "date": "2020-07-24"
+      }
+    ]
   },
   {
     "rss": "https://rss.itggg.cn/wechat/ershicimi/65",
@@ -15558,6 +15659,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "杭州新增一例，大家出门要小心啊",
+        "link": "https://www.v2ex.com/t/695800",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "白嫖方案：微信 Access_token 时效 2 小时的管理问题",
+        "link": "https://www.v2ex.com/t/695799",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "有了解企业网 FQ 及内部舆情侦测系统的吗？这系统原理是什么？还能旁路部署",
+        "link": "https://www.v2ex.com/t/695798",
+        "date": "2020-08-05"
+      },
+      {
         "title": "天机 1000 的真实水平到底是什么样的？发哥翻身了吗？有大佬解答下不",
         "link": "https://www.v2ex.com/t/695797",
         "date": "2020-08-05"
@@ -15725,21 +15841,6 @@
       {
         "title": "新手阅读 Nebula Graph 源码的姿势",
         "link": "https://www.v2ex.com/t/695752",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "纳斯达克指数表示什么时间点的价格",
-        "link": "https://www.v2ex.com/t/695750",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "PHP 是怎么抓取网口流量的数据包并解析的？",
-        "link": "https://www.v2ex.com/t/695749",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "Python 右侧的 simple is better 已经变成电影网站了",
-        "link": "https://www.v2ex.com/t/695748",
         "date": "2020-08-05"
       }
     ]
@@ -15927,11 +16028,6 @@
         "date": "2020-08-05"
       },
       {
-        "title": "围观 SharedPreferences 不一样的写法",
-        "link": "https://toutiao.io/k/vvty6zl",
-        "date": "2020-08-05"
-      },
-      {
         "title": "走进 Golang 之 Context 的使用",
         "link": "https://toutiao.io/k/rh3v2yz",
         "date": "2020-08-05"
@@ -15939,6 +16035,11 @@
       {
         "title": "监控系统选型，这篇不可不读",
         "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "围观 SharedPreferences 不一样的写法",
+        "link": "https://toutiao.io/k/vvty6zl",
         "date": "2020-08-05"
       },
       {
@@ -15957,33 +16058,8 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] SQL 注入笔记",
-        "link": "https://toutiao.io/k/6zh1ffv",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
-        "link": "https://toutiao.io/k/zidka9w",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 领域驱动设计落地方案",
-        "link": "https://toutiao.io/k/zkllrkn",
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
         "date": "2020-08-05"
       },
       {
@@ -15992,13 +16068,28 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
+        "link": "https://toutiao.io/k/z0t9hzo",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-05"
       },
       {
@@ -16007,18 +16098,23 @@
         "date": "2020-08-05"
       },
       {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-05"
+      },
+      {
         "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
         "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-05"
       },
       {
@@ -16027,8 +16123,13 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
+        "title": "[推荐] 领域驱动设计落地方案",
+        "link": "https://toutiao.io/k/zkllrkn",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-05"
       }
     ]

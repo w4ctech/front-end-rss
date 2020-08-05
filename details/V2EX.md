@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-05 06:20:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 06:31:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-后端如何接入-Google-Authenticator-身份验证？](https://www.v2ex.com/t/695827) 
+- [2020-08-05-技术支持工作见闻](https://www.v2ex.com/t/695826) 
 - [2020-08-05-快手电商招人了！-16-薪+-北京-杭州](https://www.v2ex.com/t/695825) 
 - [2020-08-05-字节跳动招聘啦，海量-HC，投递有回音-https://job.toutiao.com/s/Jj7KDSk](https://www.v2ex.com/t/695823) 
 - [2020-08-05-欧洲公司上海研发中心：-iOS-/Web-前端开发工程师/游戏-3D-设计师，薪水好谈，不加班，英语口语有要求](https://www.v2ex.com/t/695822) 
@@ -39,4 +41,3 @@
 - [2020-08-05-用-Express.js-实现了一个仿-V2EX-的论坛网站](https://www.v2ex.com/t/695786) 
 - [2020-08-05-迫于装修，收京东-E-卡-大份的](https://www.v2ex.com/t/695782) 
 - [2020-08-05-强烈推荐-macOS-11-beta-升级](https://www.v2ex.com/t/695780) 
-- [2020-08-05-你见过那些设计、实用性、创新性很优秀的小程序，欢迎自荐！](https://www.v2ex.com/t/695777) 

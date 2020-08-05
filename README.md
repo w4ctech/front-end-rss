@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 23:17:23，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 23:31:29，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-05-上个月买了-99-元电信-PLUS-会员的记得领券（附领取路径）](https://www.v2ex.com/t/696007) ![](assets/new.png)  
 - [2020-08-05-通宵-coding，操](https://www.v2ex.com/t/696006) ![](assets/new.png)  
 - [2020-08-05-Swift-:-从服务器下载-sqlite-数据库文件到-iPhone-文件夹,-然后离线打开这个下载好的数据库.-请问如何实现?](https://www.v2ex.com/t/696005) ![](assets/new.png)  
 - [2020-08-05-求教阿里小号可以转移或者使用其他方式登录吗](https://www.v2ex.com/t/696004) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-05-在线一起同步听歌](https://www.v2ex.com/t/695985) ![](assets/new.png)  
 - [2020-08-05-妹妹不会读书，也不听话，作为哥哥，我应该怎么做](https://www.v2ex.com/t/695983) ![](assets/new.png)  
 - [2020-08-05-如果保证抢票秒杀成功率](https://www.v2ex.com/t/695981) ![](assets/new.png)  
-- [2020-08-05-2020-年-视频通话清晰度较高的-APP](https://www.v2ex.com/t/695980) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1128,8 +1128,8 @@
 - [2020-08-05-Executors-功能如此强大，ThreadPoolExecutor-功不可没（一）](https://toutiao.io/k/xjvrnwe) ![](assets/new.png)  
 - [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  
 - [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
-- [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
+- [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
 - [2020-08-05-Kafka-如何选择合适的分区数，你选对了吗？](https://toutiao.io/k/g0v0xs9) ![](assets/new.png)  
 - [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  

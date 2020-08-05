@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-05 00:25:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 00:46:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-Windows-下有没有计算文件-CRC-64-值的软件?](https://www.v2ex.com/t/695697) 
+- [2020-08-05-怎么有那么多-v2-客户端，哪个才是正版的](https://www.v2ex.com/t/695695) 
+- [2020-08-05-怎么用流量升级-ios？](https://www.v2ex.com/t/695694) 
 - [2020-08-05-Apple-Books-同步问题](https://www.v2ex.com/t/695693) 
 - [2020-08-05-腾讯系应用咋都这么恶心？？](https://www.v2ex.com/t/695692) 
 - [2020-08-04-django-hashids：非侵入式的用于-django-model-的-hashids-library](https://www.v2ex.com/t/695691) 
@@ -39,7 +42,3 @@
 - [2020-08-04-WIN10-的-mobile-hotspot-移动热点是什么技术？](https://www.v2ex.com/t/695653) 
 - [2020-08-04-请问有网站跳转+分享二维码一体化的方案吗？](https://www.v2ex.com/t/695651) 
 - [2020-08-04-怎么检查自己的网是不是小区公用网](https://www.v2ex.com/t/695649) 
-- [2020-08-04-论国内的美学欠缺](https://www.v2ex.com/t/695647) 
-- [2020-08-04-请教一个-CIDR-的问题](https://www.v2ex.com/t/695646) 
-- [2020-08-04-内推-秋招-字节跳动秋招开启，靠谱内推，可捞简历，多人已上岸！](https://www.v2ex.com/t/695645) 
-- [2020-08-04-关于个人服务器安全](https://www.v2ex.com/t/695644) 

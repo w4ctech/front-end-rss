@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "大流行手记|8月4日：南美确诊破500万 英国备战9月开学力阻新疫情",
+        "link": "https://m.caixin.com/m/2020-08-05/101588777.html",
+        "date": "2020-08-04"
+      },
+      {
         "title": "新疆疾控称疫情为单一源头 防控措施升级",
         "link": "http://m.china.caixin.com/m/2020-08-04/101588739.html",
         "date": "2020-08-03"
@@ -12,11 +17,6 @@
       {
         "title": "世卫首批派赴中国的新冠溯源研究专家离华 与中方深入交流",
         "link": "http://m.international.caixin.com/m/2020-08-04/101588460.html",
-        "date": "2020-08-03"
-      },
-      {
-        "title": "最新疫情：全国新冠累计确诊84464例 本土病例新疆28例辽宁2例",
-        "link": "http://m.china.caixin.com/m/2020-08-04/101588437.html",
         "date": "2020-08-03"
       },
       {
@@ -16725,6 +16725,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Windows 下有没有计算文件 CRC-64 值的软件?",
+        "link": "https://www.v2ex.com/t/695697",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "怎么有那么多 v2 客户端，哪个才是正版的",
+        "link": "https://www.v2ex.com/t/695695",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "怎么用流量升级 ios？",
+        "link": "https://www.v2ex.com/t/695694",
+        "date": "2020-08-05"
+      },
+      {
         "title": "Apple Books 同步问题",
         "link": "https://www.v2ex.com/t/695693",
         "date": "2020-08-05"
@@ -16893,26 +16908,6 @@
         "title": "怎么检查自己的网是不是小区公用网",
         "link": "https://www.v2ex.com/t/695649",
         "date": "2020-08-04"
-      },
-      {
-        "title": "论国内的美学欠缺",
-        "link": "https://www.v2ex.com/t/695647",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "请教一个 CIDR 的问题",
-        "link": "https://www.v2ex.com/t/695646",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "[内推] [秋招] 字节跳动秋招开启，靠谱内推，可捞简历，多人已上岸！",
-        "link": "https://www.v2ex.com/t/695645",
-        "date": "2020-08-04"
-      },
-      {
-        "title": "关于个人服务器安全",
-        "link": "https://www.v2ex.com/t/695644",
-        "date": "2020-08-04"
       }
     ]
   },
@@ -17029,8 +17024,103 @@
     "link": "https://toutiao.io",
     "items": [
       {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "“Flink” 理解流式处理重要概念",
+        "link": "https://toutiao.io/k/ieevzor",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "Elasticsearch 从入门到放弃：瞎说 Mapping",
+        "link": "https://toutiao.io/k/fnbbp2y",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "提高幸福感的一些方法",
+        "link": "https://toutiao.io/k/246l734",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "JavaScript 中 this 的错误认识、绑定规则、常见问题讲解",
+        "link": "https://toutiao.io/k/gyaummd",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "围观 SharedPreferences 不一样的写法",
+        "link": "https://toutiao.io/k/vvty6zl",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "微服务如何对齐业务架构",
+        "link": "https://toutiao.io/k/sew8qta",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "100% 展示 MySQL 语句执行的神器：Optimizer Trace",
+        "link": "https://toutiao.io/k/gfbzndp",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "Executors 功能如此强大，ThreadPoolExecutor 功不可没（一）",
+        "link": "https://toutiao.io/k/xjvrnwe",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
+        "link": "https://toutiao.io/k/vqn7rz6",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-08-05"
       },
       {
@@ -17044,18 +17134,8 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] YGC 问题排查，又让我涨姿势了",
-        "link": "https://toutiao.io/k/z0t9hzo",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-05"
       },
       {
@@ -17064,43 +17144,13 @@
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-05"
-      },
-      {
         "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
         "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-05"
       },
       {
-        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
-        "link": "https://toutiao.io/k/zidka9w",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 58 同城 Elasticsearch 应用及平台建设实践",
-        "link": "https://toutiao.io/k/vqn7rz6",
-        "date": "2020-08-05"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
+        "title": "[推荐] SQL 注入笔记",
+        "link": "https://toutiao.io/k/6zh1ffv",
         "date": "2020-08-05"
       }
     ]

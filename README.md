@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 14:33:22，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 14:46:28，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-08-05-为抗击疫情-香港各界呼吁加紧增建“方舱医院”](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikOBZ3FCd1pOLnBK9XCz1200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-上海公布杭州一例无症状感染者在沪活动轨迹调查核实情况](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5B0CCaVpAyLpmJ6zgkmj200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-联合国卫生署：青少年感染新冠病毒比例5个月内增长3倍](https://m.weibo.cn/3057540037/4534637131730663) ![](assets/new.png)  
-- [2020-08-05-美国加州、佛州和得州单日新增死亡病例再次上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti639b7Y7SbYI7uTP2irC5200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-香港5日新增85例新冠肺炎确诊病例-连续3日新增低于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio89F3QGC8cagC3gUQSAf200805&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -384,6 +379,10 @@
 </summary>
 
 
+- [2020-08-05-前端工程师被疯抢，华为做了什么？](https://www.ershicimi.com/p/f26196dce3483964d02157409e2bb067) ![](assets/new.png)  
+- [2020-08-05-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/3a77528d8a0914a19017c79cd617cb8b) ![](assets/new.png)  
+- [2020-08-04-如何在面试官面前展示自己--经典AI面试题限时免费领取](https://www.ershicimi.com/p/4958378b45876dfc1ffe26a0c47e19eb) ![](assets/new.png)  
+- [2020-08-04-不定宽溢出文本适配滚动](https://www.ershicimi.com/p/eaed83b3ad210caa7c89afb8f6b6bb31) ![](assets/new.png)  
 - [2020-08-03-面试的时候，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/d2c3441d7e310aeafd3be6dee9635e13) ![](assets/new.png)  
 - [2020-08-02-三年，我从语文老师到支付宝技术前端的蜕变](https://www.ershicimi.com/p/2ca97bd66f1bf741696dc754fab684ed) ![](assets/new.png)  
 - [2020-08-01-如何快速建立正确的前端知识体系？](https://www.ershicimi.com/p/a7b0a710eb5e50d91e81ba4adb994378) ![](assets/new.png)  
@@ -400,10 +399,6 @@
 - [2020-07-22-面试是所有前端求职者最重视的一个环节，这决定着一个求职者是否能够顺利的求职成功。-作为一个前端，在](https://www.ershicimi.com/p/4a58f2b28b6cbfaa341a3cc2281821c9) ![](assets/new.png)  
 - [2020-07-21-八大科技领域，280-页大报告，InfoQ《2020-中国技术发展白皮书》重磅发布](https://www.ershicimi.com/p/27043659eb6a01f5e82e1f57b6d8e349) ![](assets/new.png)  
 - [2020-07-21-多应用项目开发架构和多进程间构建优化分析](https://www.ershicimi.com/p/1080a80c0893600890beed4aa7819c70) ![](assets/new.png)  
-- [2020-07-20-web前端工程师被疯抢，华为做了什么？](https://www.ershicimi.com/p/bdb78a8f9768dbae3215a6caa4cc785e) ![](assets/new.png)  
-- [2020-07-20-VS-Code的7个开源替代品，全都知道算我输！](https://www.ershicimi.com/p/47be988dada0df52b3e45e00e3159f8a) ![](assets/new.png)  
-- [2020-07-19-昨日！尤雨溪宣布Vue-3首个RC版本发布!-这意味着...](https://www.ershicimi.com/p/a663e9078c9621fba0605c864f6240ea) ![](assets/new.png)  
-- [2020-07-18-TS会替代JS吗？看这篇文章就懂了！](https://www.ershicimi.com/p/64cd53230cc100db6379f4d9a4e5e88a) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端大学.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1047,10 @@
 </summary>
 
 
+- [2020-08-05-前端加载速度优化，有没小伙伴有优化的黑科技（骚操作），嘻嘻学习下](https://www.v2ex.com/t/695976) ![](assets/new.png)  
+- [2020-08-05-深圳电信把微信安全中心（weixin110.qq.com）解析成-127.0.0.1-了？](https://www.v2ex.com/t/695975) ![](assets/new.png)  
+- [2020-08-05-找人干安卓-UI-设计-私活,](https://www.v2ex.com/t/695974) ![](assets/new.png)  
+- [2020-08-05-现在长沙好找工作吗？](https://www.v2ex.com/t/695973) ![](assets/new.png)  
 - [2020-08-05-译文-通过创建相同的-APP，对比-React-和-Vue](https://www.v2ex.com/t/695972) ![](assets/new.png)  
 - [2020-08-05-糟了，-iMac-发新版了，外观没更新，也没有自研芯片，买不买？](https://www.v2ex.com/t/695970) ![](assets/new.png)  
 - [2020-08-05-请教下朋友们怎么爬雨神奇的课堂的试卷并转成-word-打印？复习用！](https://www.v2ex.com/t/695967) ![](assets/new.png)  
@@ -1068,10 +1067,6 @@
 - [2020-08-05-如果实现每隔-5-分钟，且仅在白天运行的定时器？](https://www.v2ex.com/t/695951) ![](assets/new.png)  
 - [2020-08-05-finder-smb-连接文件访问也太慢了吧](https://www.v2ex.com/t/695950) ![](assets/new.png)  
 - [2020-08-05-朋友想在上海注册一个科技公司，有什么靠谱园区可以优惠注册啊](https://www.v2ex.com/t/695949) ![](assets/new.png)  
-- [2020-08-05-搞了个-MongoDB-的-GUI，遵循-Fluent-Design，好看也好用](https://www.v2ex.com/t/695948) ![](assets/new.png)  
-- [2020-08-05-关于微信-code-一点疑问。](https://www.v2ex.com/t/695947) ![](assets/new.png)  
-- [2020-08-05-触控板进灰，压感失灵了可怎么办啊](https://www.v2ex.com/t/695945) ![](assets/new.png)  
-- [2020-08-05-最近感觉颈椎有点问题想运动下，想问下深圳哪个游泳馆好些~](https://www.v2ex.com/t/695942) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1124,8 @@
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
 - [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  
 - [2020-08-05-Kafka-如何选择合适的分区数，你选对了吗？](https://toutiao.io/k/g0v0xs9) ![](assets/new.png)  
-- [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
 - [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
+- [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
 - [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
 - [2020-08-05-工具-|-一站式的开源企业级持续测试平台](https://toutiao.io/k/7s1vzm0) ![](assets/new.png)  

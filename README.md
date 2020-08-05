@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 04:20:01，:rocket: 更新条数: +3467， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 04:31:31，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-我发现手机挂个普通-L2TP-比不挂网速快很多](https://www.v2ex.com/t/695794) ![](assets/new.png)  
+- [2020-08-05-7z-命令行如何添加一个文件到一个压缩包的指定文件夹](https://www.v2ex.com/t/695792) ![](assets/new.png)  
 - [2020-08-05-快乐可能只是幻觉](https://www.v2ex.com/t/695791) ![](assets/new.png)  
 - [2020-08-05-.](https://www.v2ex.com/t/695790) ![](assets/new.png)  
 - [2020-08-05-裸眼光学错觉](https://www.v2ex.com/t/695789) ![](assets/new.png)  
@@ -1090,8 +1072,6 @@
 - [2020-08-05-校招长期内推-美团点评-2021-届秋季校园招聘正式启动，长期内推有经验，有什么问题都可以留言咨询](https://www.v2ex.com/t/695767) ![](assets/new.png)  
 - [2020-08-05-MBP-在全屏工作的时候无法接收到-qq-或者微信的消息通知,请问怎么解决?](https://www.v2ex.com/t/695766) ![](assets/new.png)  
 - [2020-08-05-窒息,升级-Catalina-后,mongodb-默认的文件夹没了](https://www.v2ex.com/t/695765) ![](assets/new.png)  
-- [2020-08-05-中英字幕-Pencil-it-in！一款免费手绘日历-APP-让你随便涂鸦的日历本，涂满也没事。](https://www.v2ex.com/t/695763) ![](assets/new.png)  
-- [2020-08-05-飞猪的-66-元机票助力活动真的能完成？](https://www.v2ex.com/t/695761) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1103,6 +1083,26 @@
 </summary>
 
 
+- [2020-08-05-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-10-大受欢迎的全球顶级编程语言与薪资水平-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13657&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4yoMBPzafZ1LQPE3dk2K0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Python-编辑神器-Jupyter-，推出首款官方可视化-Debug-工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-为什么培训班出来的程序员总遭人嫌弃？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13655&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Zile1EaovOs289NZgQpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-雷军，扎克伯格，Linus-等巨佬的办公桌-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13654&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjAxhZz2Yq1Py3BEKDQ2sg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-一个故事讲完-CPU-的工作原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13653&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuAeWJBFmBiZOmF5t5vEFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-灵魂拷问！二维码会被人类扫完吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13652&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqXYbHGcJn-8KXlFpbOL8-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-快速从-Windows-切换到-Linux-环境-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13651&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVioXxGCjySXwZ9JfFHM-5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-国内良心-Linux-桌面操作系统，全新-Deepin-V20-来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13650&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFlZB3BqLHYSBr8-u10HigQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-新版任你发，我用-Java-8-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13649&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfD5UIu2_UUM1wowS5-NEiw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-怎样Hack-Linux的内核符号？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13648&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-hack-linux-kernel-symbols%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-小图标，大学问-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13646&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-icon-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-又拍云网关速率限制实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13645&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F164735755%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-Fragment-被回收后显示空白问题解决方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13643&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLuJuXA9SZ-TcCAIcbF66SQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,11 +1116,11 @@
 
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
 - [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  
+- [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
 - [2020-08-05-“Flink”-理解流式处理重要概念](https://toutiao.io/k/ieevzor) ![](assets/new.png)  
 - [2020-08-05-Executors-功能如此强大，ThreadPoolExecutor-功不可没（一）](https://toutiao.io/k/xjvrnwe) ![](assets/new.png)  
 - [2020-08-05-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://toutiao.io/k/gyaummd) ![](assets/new.png)  

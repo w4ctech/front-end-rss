@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-05 04:20:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 04:31:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-我发现手机挂个普通-L2TP-比不挂网速快很多](https://www.v2ex.com/t/695794) 
+- [2020-08-05-7z-命令行如何添加一个文件到一个压缩包的指定文件夹](https://www.v2ex.com/t/695792) 
 - [2020-08-05-快乐可能只是幻觉](https://www.v2ex.com/t/695791) 
 - [2020-08-05-.](https://www.v2ex.com/t/695790) 
 - [2020-08-05-裸眼光学错觉](https://www.v2ex.com/t/695789) 
@@ -39,6 +41,3 @@
 - [2020-08-05-Python-右侧的-simple-is-better-已经变成电影网站了](https://www.v2ex.com/t/695748) 
 - [2020-08-05-华为云秋招-提前批次来了，有优招名额](https://www.v2ex.com/t/695747) 
 - [2020-08-05-3D-Touch-什么时候能回归-iOS-14？](https://www.v2ex.com/t/695745) 
-- [2020-08-05-求分享-mbp-外接-4k-体验～](https://www.v2ex.com/t/695744) 
-- [2020-08-05-老-cruder-求职](https://www.v2ex.com/t/695743) 
-- [2020-08-05-吃了个友商的瓜，给大家乐呵乐呵](https://www.v2ex.com/t/695742) 

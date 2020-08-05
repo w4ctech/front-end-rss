@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 15:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 15:18:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -29,8 +29,6 @@
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
 - [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
-- [2020-08-02-【干货】Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/14032fdc02504ea4910da6aab08d1bec) 
-- [2020-07-27-十五张图带你彻底搞懂从URL到页面展示发生的故事](https://www.ershicimi.com/p/256aa4619e4579f5844539e75b99ce78) 
 - [2020-08-03-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/183eb2453460e5d2498c9aa412eda3a7) 
 - [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) 
 - [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
@@ -41,8 +39,6 @@
 - [2020-08-03-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/90ae3dbd9ae5ef3c3cb4b27effbdcefe) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-05-深圳电信把微信安全中心（weixin110.qq.com）解析成-127.0.0.1-了？](https://www.v2ex.com/t/695975) 
-- [2020-08-05-请教完全杀死-selenium-chromedriver](https://www.v2ex.com/t/695929) 
-- [2020-08-05-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-05-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-05-奇安信荣登《互联网周刊》2020网络安全创新排行第一名](https://sec.thief.one/article_content?a_id=0137c1fa9b0036268ba7339fcb17b0d9) 
 - [2020-08-05-酷德啄木鸟:正本清源,安全从源代码开始丨沙盒大赛十强特写](https://sec.thief.one/article_content?a_id=df541cdd119a7c3585c03d6ff1272e86) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 10:02:46，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 10:09:14，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
-- [2020-08-05-非洲地区新冠肺炎确诊病例累计超97万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih1IDBYjHarQfhXX4Gq81200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-易炼红强调：严防聚集性疫情，做好秋冬季防控工作！](http://hc.jiangxi.gov.cn/doc/2020/08/05/146199.shtml) ![](assets/new.png)  
-- [2020-08-05-浙大二院：眼科中心全体医务人员核酸检测结果均为阴性](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti56Z0wlqwB9A1GlvwGc0t200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-杭州新增1例无症状感染者](https://m.weibo.cn/2803301701/4534541706594454) ![](assets/new.png)  
-- [2020-08-05-联合国：新冠疫情影响全球超10亿学生](https://m.weibo.cn/2803301701/4534525420381584) ![](assets/new.png)  
+- [2020-08-05-美国加州、佛州和得州单日新增死亡病例再次上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti639b7Y7SbYI7uTP2irC5200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-香港5日新增85例新冠肺炎确诊病例-连续3日新增低于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio89F3QGC8cagC3gUQSAf200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-孟加拉国新增2654例新冠肺炎确诊病例-累计246674例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPpUr42fxCAUmJ7TAb06q200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-菲律宾新增3462例新冠肺炎确诊病例-累计115980例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZtprCSZhELWLgf4Q1Ku200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-澳大利亚新南威尔士州州长：来自维多利亚州的访客均须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4B3wCtjHqXWC19rPxNgH200805&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-05-请教一下后台-CMS-框架的前端组件有哪些？](https://www.v2ex.com/t/695915) ![](assets/new.png)  
 - [2020-08-05-迫于黑苹果，想问一下，哪个地方出问题了？](https://www.v2ex.com/t/695914) ![](assets/new.png)  
 - [2020-08-05-上海/深圳-世界知名公司，某水果，招-application-deployment-engineer，-Contractor，有转正机会](https://www.v2ex.com/t/695912) ![](assets/new.png)  
 - [2020-08-05-阿里技术终面挂，疫情期间想找份合适的工作不容易](https://www.v2ex.com/t/695911) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-05-求推荐一个虚拟机能安不卡的运行-office-就行了](https://www.v2ex.com/t/695889) ![](assets/new.png)  
 - [2020-08-05-🚗🚗🚗-字节跳动-懂车帝招聘社区用户运营经理啦！-Base-北京](https://www.v2ex.com/t/695888) ![](assets/new.png)  
 - [2020-08-05-7-年资深-iOS-面试：原来工资-30k-和-15k-的水平差在这里](https://www.v2ex.com/t/695887) ![](assets/new.png)  
-- [2020-08-05-华为杭研，华为上研](https://www.v2ex.com/t/695886) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

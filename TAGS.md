@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-05 07:09:29。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 07:18:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -523,7 +523,7 @@
 - [【V2EX】字节跳动招聘啦，海量-HC，投递有回音-https://job.toutiao.com/s/Jj7KDSk](https://www.v2ex.com/t/695823)
 - [【开发者头条】面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
 - [【开发者头条】Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y)
-- [【开发者头条】推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79)
+- [【开发者头条】推荐-58-同城-Elasticsearch-应用及平台建设实践](https://toutiao.io/k/vqn7rz6)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

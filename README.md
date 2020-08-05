@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 07:09:29，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 07:18:09，:rocket: 更新条数: +3488， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,10 @@
 </summary>
 
 
+- [2020-08-05-如何自然实现一个智能化的多语言站点？](https://www.v2ex.com/t/695843) ![](assets/new.png)  
+- [2020-08-05-iMac-2020-27-inch-发布！只是不知道什么时候发售，-24-期免息在等着它](https://www.v2ex.com/t/695842) ![](assets/new.png)  
+- [2020-08-05-百兆宽带如何能变成前兆带宽？](https://www.v2ex.com/t/695841) ![](assets/new.png)  
+- [2020-08-05-说小米是广告机，一点都不过分](https://www.v2ex.com/t/695840) ![](assets/new.png)  
 - [2020-08-05-hello-Neovim](https://www.v2ex.com/t/695837) ![](assets/new.png)  
 - [2020-08-05-这几个软件安装了，电脑用起来都比别人快几倍~](https://www.v2ex.com/t/695836) ![](assets/new.png)  
 - [2020-08-05-如何做一个模板表格，保存的时候直接指向另存为路径提示输入文件名，文件名后直接加入当前年月日](https://www.v2ex.com/t/695834) ![](assets/new.png)  
@@ -1088,10 +1092,6 @@
 - [2020-08-05-有没有二手-iPad-可入](https://www.v2ex.com/t/695816) ![](assets/new.png)  
 - [2020-08-05-社保卡的账户管理费自动减免？是否会影响另一个-I-类卡的减免？](https://www.v2ex.com/t/695815) ![](assets/new.png)  
 - [2020-08-05-有哪些可以连接-OneDrive-或-Google-Drive-的开源云盘？](https://www.v2ex.com/t/695814) ![](assets/new.png)  
-- [2020-08-05-Java-新特性分享～弱弱问下各位现在用-Java-11-了吗？用的啥-JDK](https://www.v2ex.com/t/695813) ![](assets/new.png)  
-- [2020-08-05-恒大一口气发布-6-款车，大家怎么看？](https://www.v2ex.com/t/695812) ![](assets/new.png)  
-- [2020-08-05-月经贴-各位大佬们，用什么写博客最好啊？](https://www.v2ex.com/t/695809) ![](assets/new.png)  
-- [2020-08-05-弱弱的问下关于视频压制的问题。。](https://www.v2ex.com/t/695808) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

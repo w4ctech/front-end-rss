@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-05 09:48:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 10:02:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-迫于黑苹果，想问一下，哪个地方出问题了？](https://www.v2ex.com/t/695914) 
+- [2020-08-05-上海/深圳-世界知名公司，某水果，招-application-deployment-engineer，-Contractor，有转正机会](https://www.v2ex.com/t/695912) 
 - [2020-08-05-阿里技术终面挂，疫情期间想找份合适的工作不容易](https://www.v2ex.com/t/695911) 
 - [2020-08-05-写了个以太坊小例子，欢迎来玩](https://www.v2ex.com/t/695910) 
 - [2020-08-05-怎么固定每次打开-Finder-窗口的大小？](https://www.v2ex.com/t/695908) 
@@ -37,5 +39,3 @@
 - [2020-08-05-🚗🚗🚗-字节跳动-懂车帝商业化团队招聘经销商产品经理啦！-Base-北京](https://www.v2ex.com/t/695867) 
 - [2020-08-05-Chrome-84:-现在开发者工具，-Sources-右侧-Scope-不显示-arguments-了吗？](https://www.v2ex.com/t/695866) 
 - [2020-08-05-FF7-remake-66-折](https://www.v2ex.com/t/695865) 
-- [2020-08-05-不耻下问，关于百度网盘的隐私问题](https://www.v2ex.com/t/695864) 
-- [2020-08-05-2018-款乞丐配置-13-寸-现在是啥行情价格啊？](https://www.v2ex.com/t/695863) 

@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 12:46:45，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 12:48:29，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,11 +95,6 @@
 </summary>
 
 
-- [2020-08-05-美国加州、佛州和得州单日新增死亡病例再次上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti639b7Y7SbYI7uTP2irC5200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-香港5日新增85例新冠肺炎确诊病例-连续3日新增低于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio89F3QGC8cagC3gUQSAf200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-孟加拉国新增2654例新冠肺炎确诊病例-累计246674例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPpUr42fxCAUmJ7TAb06q200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-菲律宾新增3462例新冠肺炎确诊病例-累计115980例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZtprCSZhELWLgf4Q1Ku200805&isfromapp=1) ![](assets/new.png)  
-- [2020-08-05-澳大利亚新南威尔士州州长：来自维多利亚州的访客均须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4B3wCtjHqXWC19rPxNgH200805&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

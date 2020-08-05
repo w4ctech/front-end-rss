@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 12:46:45。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-05 12:48:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -88,11 +88,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) 
 - [【武汉肺炎防疫全纪录(财新网)】2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-08-05-美国加州、佛州和得州单日新增死亡病例再次上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti639b7Y7SbYI7uTP2irC5200805&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-08-05-香港5日新增85例新冠肺炎确诊病例-连续3日新增低于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio89F3QGC8cagC3gUQSAf200805&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-08-05-孟加拉国新增2654例新冠肺炎确诊病例-累计246674例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPpUr42fxCAUmJ7TAb06q200805&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-08-05-菲律宾新增3462例新冠肺炎确诊病例-累计115980例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZtprCSZhELWLgf4Q1Ku200805&isfromapp=1) 
-- [【全国新型肺炎疫情实时动态(丁香园)】2020-08-05-澳大利亚新南威尔士州州长：来自维多利亚州的访客均须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4B3wCtjHqXWC19rPxNgH200805&isfromapp=1) 
 - [【Vue中文社区】2020-08-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/8d2998e902c1647ba47e8752060e0885) 
 - [【Vue中文社区】2020-08-04-怎么在两天内，上线一个产品](https://www.ershicimi.com/p/3a23bb8ef2bb83ea3f657c5920329002) 
 - [【Vue中文社区】2020-08-03-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/2e18778d336520ce8a488ccf13493d3f) 

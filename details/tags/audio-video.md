@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-04 23:48:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 00:06:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -89,6 +89,6 @@
 - [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
 - [2020-07-31-给夏天加点料，秀出你的节奏感！-|-《这，就是街舞》第三季有奖视频征集](https://www.ershicimi.com/p/dc1ba7e91a42d0503bfd01bd99ba6390) 
 - [2020-08-04-咸鱼和别人私聊，对方发来的视频，长按保存后，但找不到文件](https://www.v2ex.com/t/695657) 
-- [2020-08-04-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) 
-- [2020-08-04-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) 
+- [2020-08-05-超详细！使用-OpenCV-深度学习模块在图像分类下的应用实践](https://toutiao.io/k/r71cdxx) 
+- [2020-08-05-奇秀直播连麦技术探索](https://toutiao.io/k/aq6t6ez) 
 - [2020-08-03-微信视频号助手发布内测版](https://sec.thief.one/article_content?a_id=da98e1a1a70286e53738777fe3e0e037) 

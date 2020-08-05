@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 10:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 10:31:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -24,5 +24,12 @@
 - [2020-07-08-实战-|-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/85eb988956d577d60ed7515db04817de) 
 - [2020-07-05-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://www.ershicimi.com/p/52fabff4ddd28e8de774076284ae1373) 
 - [2020-07-04-赠送几本-Node.js-书籍-|-回馈粉丝](https://www.ershicimi.com/p/f76e6e02f47b45a7c3fe09fb99b979b8) 
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) 
+- [2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
+- [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
+- [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 
+- [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
+- [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
+- [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-08-05-苏州-965---Node.JS-老哥们看过来！](https://www.v2ex.com/t/695877) 

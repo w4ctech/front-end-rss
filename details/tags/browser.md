@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 10:09:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 10:18:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,8 +42,6 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-05-浏览器兼容测试-modernizr](https://www.v2ex.com/t/695883) 
 - [2020-08-05-macOS-Big-Sur-Safari-支持奈飞-UHD-&-Dolby-Vision-和-Youtube-8K](https://www.v2ex.com/t/695874) 
-- [2020-08-05-好奇怪，用-mysql-client-命令行去连-sharding-proxy-经常爆出‘mysql-server-gone-away’](https://www.v2ex.com/t/695870) 
-- [2020-08-05-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-05-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-04-Chrome浏览器的实用插件推荐](https://sec.thief.one/article_content?a_id=41a10eb27ca4fb80edac75c88387c0d3) 
 - [2020-08-04-百家-|-信息安全为富力数字化转型保驾护航](https://sec.thief.one/article_content?a_id=3cd7699626669f5bff5d43b6a150e65c) 

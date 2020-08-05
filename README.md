@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 03:09:13，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 03:18:52，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,12 @@
 </summary>
 
 
+- [2020-08-05-Big-Sur-beta4-safari-支持-youtube-4k-啦](https://www.v2ex.com/t/695768) ![](assets/new.png)  
+- [2020-08-05-校招长期内推-美团点评-2021-届秋季校园招聘正式启动，长期内推有经验，有什么问题都可以留言咨询](https://www.v2ex.com/t/695767) ![](assets/new.png)  
+- [2020-08-05-MBP-在全屏工作的时候无法接收到-qq-或者微信的消息通知,请问怎么解决?](https://www.v2ex.com/t/695766) ![](assets/new.png)  
+- [2020-08-05-窒息,升级-Catalina-后,mongodb-默认的文件夹没了](https://www.v2ex.com/t/695765) ![](assets/new.png)  
+- [2020-08-05-中英字幕-Pencil-it-in！一款免费手绘日历-APP-让你随便涂鸦的日历本，涂满也没事。](https://www.v2ex.com/t/695763) ![](assets/new.png)  
+- [2020-08-05-飞猪的-66-元机票助力活动真的能完成？](https://www.v2ex.com/t/695761) ![](assets/new.png)  
 - [2020-08-05-关于阿里云新老用户续费返佣的问题](https://www.v2ex.com/t/695760) ![](assets/new.png)  
 - [2020-08-05-问个机器学习问题，卷积神经网络的通道数是怎么定的？](https://www.v2ex.com/t/695759) ![](assets/new.png)  
 - [2020-08-05-客户开发一个平台：要-PC-端、移动端、小程序，前端用什么解决最好？](https://www.v2ex.com/t/695758) ![](assets/new.png)  
@@ -1066,12 +1072,6 @@
 - [2020-08-05-Python-右侧的-simple-is-better-已经变成电影网站了](https://www.v2ex.com/t/695748) ![](assets/new.png)  
 - [2020-08-05-华为云秋招-提前批次来了，有优招名额](https://www.v2ex.com/t/695747) ![](assets/new.png)  
 - [2020-08-05-3D-Touch-什么时候能回归-iOS-14？](https://www.v2ex.com/t/695745) ![](assets/new.png)  
-- [2020-08-05-求分享-mbp-外接-4k-体验～](https://www.v2ex.com/t/695744) ![](assets/new.png)  
-- [2020-08-05-老-cruder-求职](https://www.v2ex.com/t/695743) ![](assets/new.png)  
-- [2020-08-05-吃了个友商的瓜，给大家乐呵乐呵](https://www.v2ex.com/t/695742) ![](assets/new.png)  
-- [2020-08-05-两个-offer-选择----后续](https://www.v2ex.com/t/695741) ![](assets/new.png)  
-- [2020-08-05-北京-前端-15K-30K-Moka-2020-前端招聘](https://www.v2ex.com/t/695739) ![](assets/new.png)  
-- [2020-08-05-小程序友链互换](https://www.v2ex.com/t/695738) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,17 +1117,17 @@
 - [2020-08-05-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
 - [2020-08-05-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-05-Elasticsearch-从入门到放弃：瞎说-Mapping](https://toutiao.io/k/fnbbp2y) ![](assets/new.png)  
+- [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-05-微服务如何对齐业务架构](https://toutiao.io/k/sew8qta) ![](assets/new.png)  
+- [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
 - [2020-08-05-提高幸福感的一些方法](https://toutiao.io/k/246l734) ![](assets/new.png)  
 - [2020-08-05-“Flink”-理解流式处理重要概念](https://toutiao.io/k/ieevzor) ![](assets/new.png)  
-- [2020-08-05-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-05-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
 - [2020-08-05-Executors-功能如此强大，ThreadPoolExecutor-功不可没（一）](https://toutiao.io/k/xjvrnwe) ![](assets/new.png)  
 - [2020-08-05-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://toutiao.io/k/gyaummd) ![](assets/new.png)  
 - [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) ![](assets/new.png)  
+- [2020-08-05-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-Kafka-如何选择合适的分区数，你选对了吗？](https://toutiao.io/k/g0v0xs9) ![](assets/new.png)  
-- [2020-08-05-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
 - [2020-08-05-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  

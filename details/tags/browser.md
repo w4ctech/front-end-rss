@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 02:20:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 02:31:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2020-08-05-关于前端-token-安全问题](https://www.v2ex.com/t/695736) 
 - [2020-08-05-武汉光谷-招信息安全-DPI/网络可视化/自主可控领域-Linux-C/C++-研发工程师](https://www.v2ex.com/t/695729) 
 - [2020-08-05-只要一开启-Redis-作为缓存，服务器频繁重启怎么回事](https://www.v2ex.com/t/695703) 
+- [2020-08-05-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-05-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-04-Chrome浏览器的实用插件推荐](https://sec.thief.one/article_content?a_id=41a10eb27ca4fb80edac75c88387c0d3) 
 - [2020-08-04-百家-|-信息安全为富力数字化转型保驾护航](https://sec.thief.one/article_content?a_id=3cd7699626669f5bff5d43b6a150e65c) 

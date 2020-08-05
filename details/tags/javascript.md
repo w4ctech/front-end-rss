@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 08:48:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 09:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -59,6 +59,7 @@
 - [2020-08-04-2020年不容错过的十大JavaScript库](https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a) 
 - [2020-07-27-你的博客用不着什么JavaScript框架](https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40) 
 - [2020-08-03-vivo-悟空活动H5-活动加载优化](https://www.ershicimi.com/p/82b13171ad46eefa287cf2703e6fa8c1) 
+- [2020-08-05-1000+-个项目的10大JavaScript错误](https://www.ershicimi.com/p/0074ae0ddcf7469ee6d7863df700cd5f) 
 - [2020-07-30-嘿，不要给-async-函数写那么多-try/catch-了偏原理](https://www.ershicimi.com/p/9f09ce4de2eff9844a8872237bf7d071) 
 - [2020-07-27-JS数组奇巧淫技](https://www.ershicimi.com/p/392e966760dd3cbc83aeb3ec9f7b96a5) 
 - [2020-07-19-如何开发跨框架的组件](https://www.ershicimi.com/p/5bc90c824c53abcfd459707bd21fbdbd) 

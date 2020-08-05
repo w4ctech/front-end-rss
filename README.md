@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 08:33:34，:rocket: 更新条数: +3258， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 08:46:47，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -52,7 +52,7 @@
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
 - [V2EX](#v2ex)![](assets/dot.png)   
-- [技术头条](#技术头条)  
+- [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
 
@@ -446,6 +446,9 @@
 </summary>
 
 
+- [2020-08-05-Flutter-初学者必读的高级布局规则](https://www.ershicimi.com/p/e8a2dcb94152bdaf483cc9c90d30036a) ![](assets/new.png)  
+- [2020-08-05-TypeScript-新版网站上线：带来了新的导航机制](https://www.ershicimi.com/p/58349e95c656106f3a81063652684787) ![](assets/new.png)  
+- [2020-08-05-iOS工程师的自我修养-|-极客时间](https://www.ershicimi.com/p/8093e3d376e5069381761de9f62121cd) ![](assets/new.png)  
 - [2020-08-04-2020年不容错过的十大JavaScript库](https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a) ![](assets/new.png)  
 - [2020-08-04-程序员简历的-8-个建议](https://www.ershicimi.com/p/e47a77e26f69847b990f9dc6cc497f8f) ![](assets/new.png)  
 - [2020-08-03-微前端到底有啥用？](https://www.ershicimi.com/p/806338e95710f9329fcb51e2604f1065) ![](assets/new.png)  
@@ -463,9 +466,6 @@
 - [2020-07-28-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/5b34275d64c064618163f1349b8f8961) ![](assets/new.png)  
 - [2020-07-28-Next.js-9.5-发布：支持-Webpack-5](https://www.ershicimi.com/p/4783d072fa151ccb0f5fcdcf7a6e3eaf) ![](assets/new.png)  
 - [2020-07-27-你的博客用不着什么JavaScript框架](https://www.ershicimi.com/p/e7fbf82271a0f2e84267d025023a0b40) ![](assets/new.png)  
-- [2020-07-27-你写注释吗？写你就输了](https://www.ershicimi.com/p/bc925c2c67c9eadb8419e893b4bad7da) ![](assets/new.png)  
-- [2020-07-27-全栈式布局成未来标配，这场赛事为你打造一个锤炼技术的舞台！-|-活动推荐](https://www.ershicimi.com/p/ff0e3d9eb666f39286f02c3733aed484) ![](assets/new.png)  
-- [2020-07-26-前端周报：谷歌：2GB以下设备必须用Android-Go；微软Tips使用macOS截图被抓包；甲骨](https://www.ershicimi.com/p/e784f9005ebcb45344faf3831fd2133f) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-08-05-v2ex-右下角广告-我问什么会看到这个广告，这什么东西啊？](https://www.v2ex.com/t/695890) ![](assets/new.png)  
+- [2020-08-05-如何移动内网，通过-ipv6-实现-ssl-同步-bitwarden？](https://www.v2ex.com/t/695891) ![](assets/new.png)  
+- [2020-08-05-v2ex-右下角广告-我为什么会看到这个广告，这什么东西啊？](https://www.v2ex.com/t/695890) ![](assets/new.png)  
 - [2020-08-05-求推荐一个虚拟机能安不卡的运行-office-就行了](https://www.v2ex.com/t/695889) ![](assets/new.png)  
 - [2020-08-05-🚗🚗🚗-字节跳动-懂车帝招聘社区用户运营经理啦！-Base-北京](https://www.v2ex.com/t/695888) ![](assets/new.png)  
 - [2020-08-05-7-年资深-iOS-面试：原来工资-30k-和-15k-的水平差在这里](https://www.v2ex.com/t/695887) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-05-🚗🚗🚗-字节跳动-懂车帝商业化团队招聘经销商产品经理啦！-Base-北京](https://www.v2ex.com/t/695867) ![](assets/new.png)  
 - [2020-08-05-Chrome-84:-现在开发者工具，-Sources-右侧-Scope-不显示-arguments-了吗？](https://www.v2ex.com/t/695866) ![](assets/new.png)  
 - [2020-08-05-FF7-remake-66-折](https://www.v2ex.com/t/695865) ![](assets/new.png)  
-- [2020-08-05-不耻下问，关于百度网盘的隐私问题](https://www.v2ex.com/t/695864) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,26 @@
 </summary>
 
 
+- [2020-08-05-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-技术总监应该干的那些事-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13659&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuqZYvyImfsQdQwuI6i6cbg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-10-大受欢迎的全球顶级编程语言与薪资水平-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13657&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F4yoMBPzafZ1LQPE3dk2K0Q%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Python-编辑神器-Jupyter-，推出首款官方可视化-Debug-工具！-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13656&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FP0i8lghP74whBvK5EA_RCg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-为什么培训班出来的程序员总遭人嫌弃？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13655&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Zile1EaovOs289NZgQpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-雷军，扎克伯格，Linus-等巨佬的办公桌-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13654&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjAxhZz2Yq1Py3BEKDQ2sg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-一个故事讲完-CPU-的工作原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13653&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuAeWJBFmBiZOmF5t5vEFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-灵魂拷问！二维码会被人类扫完吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13652&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqXYbHGcJn-8KXlFpbOL8-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-快速从-Windows-切换到-Linux-环境-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13651&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVioXxGCjySXwZ9JfFHM-5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-国内良心-Linux-桌面操作系统，全新-Deepin-V20-来了-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13650&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFlZB3BqLHYSBr8-u10HigQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-新版任你发，我用-Java-8-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13649&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfD5UIu2_UUM1wowS5-NEiw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-怎样Hack-Linux的内核符号？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13648&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fhow-to-hack-linux-kernel-symbols%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-如何基于-Typescript-开发快应用-quickapp.lovejade.cn](https://blogread.cn/news/go.php?idItem=13647&url=https%3A%2F%2Fquickapp.lovejade.cn%2Fhow-to-use-typescript-develop-quickapp%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-小图标，大学问-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13646&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-icon-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-又拍云网关速率限制实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13645&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F164735755%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-05-Android-Fragment-被回收后显示空白问题解决方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13643&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLuJuXA9SZ-TcCAIcbF66SQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1107,8 +1127,8 @@
 - [2020-08-05-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://toutiao.io/k/gyaummd) ![](assets/new.png)  
 - [2020-08-05-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
 - [2020-08-05-Kafka-如何选择合适的分区数，你选对了吗？](https://toutiao.io/k/g0v0xs9) ![](assets/new.png)  
-- [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-单日课程超-10-万节！VIPKID-如何通过实时计算提升上课体验？](https://toutiao.io/k/8vlkamu) ![](assets/new.png)  
+- [2020-08-05-一个有意思的方案：不借助后台和-JS-，只用-CSS-让一个列表编号倒序，你会怎么做？](https://toutiao.io/k/sg9d0g3) ![](assets/new.png)  
 - [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) ![](assets/new.png)  
 - [2020-08-05-走进-Golang-之-Context-的使用](https://toutiao.io/k/rh3v2yz) ![](assets/new.png)  
 - [2020-08-05-常用高并发网络线程模型设计及-MongoDB-线程模型优化实践](https://toutiao.io/k/axmawis) ![](assets/new.png)  

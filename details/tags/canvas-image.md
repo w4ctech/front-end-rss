@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 12:11:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 12:23:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -24,4 +24,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-08-05-搞了个-MongoDB-的-GUI，遵循-Fluent-Design，好看也好用](https://www.v2ex.com/t/695948) 
 - [2020-08-05-求助啊，-snap.svg-频繁的-getBBox-使性能超级地下，有什么解决方案吗？](https://www.v2ex.com/t/695926) 

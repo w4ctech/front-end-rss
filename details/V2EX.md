@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-05 00:06:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 00:25:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-05-Apple-Books-同步问题](https://www.v2ex.com/t/695693) 
+- [2020-08-05-腾讯系应用咋都这么恶心？？](https://www.v2ex.com/t/695692) 
 - [2020-08-04-django-hashids：非侵入式的用于-django-model-的-hashids-library](https://www.v2ex.com/t/695691) 
 - [2020-08-04-校招内推-趋势科技-2021-届校园招聘正式启动-内推码-9246](https://www.v2ex.com/t/695690) 
 - [2020-08-04-C++-模板类成员-Type-alias-声明顺序](https://www.v2ex.com/t/695689) 
@@ -41,5 +43,3 @@
 - [2020-08-04-请教一个-CIDR-的问题](https://www.v2ex.com/t/695646) 
 - [2020-08-04-内推-秋招-字节跳动秋招开启，靠谱内推，可捞简历，多人已上岸！](https://www.v2ex.com/t/695645) 
 - [2020-08-04-关于个人服务器安全](https://www.v2ex.com/t/695644) 
-- [2020-08-04-AMD-yes！但是南桥风扇很吵怎么办？](https://www.v2ex.com/t/695643) 
-- [2020-08-04-求教-fastapi-如何从数据库删除数据](https://www.v2ex.com/t/695642) 

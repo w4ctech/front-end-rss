@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 12:48:29，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 13:02:15，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
-- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)  
+- [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
 - [VUE全家桶](#vue全家桶)![](assets/dot.png)   
@@ -95,6 +95,11 @@
 </summary>
 
 
+- [2020-08-05-美国加州、佛州和得州单日新增死亡病例再次上升](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti639b7Y7SbYI7uTP2irC5200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-香港5日新增85例新冠肺炎确诊病例-连续3日新增低于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio89F3QGC8cagC3gUQSAf200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-孟加拉国新增2654例新冠肺炎确诊病例-累计246674例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPpUr42fxCAUmJ7TAb06q200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-菲律宾新增3462例新冠肺炎确诊病例-累计115980例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZtprCSZhELWLgf4Q1Ku200805&isfromapp=1) ![](assets/new.png)  
+- [2020-08-05-澳大利亚新南威尔士州州长：来自维多利亚州的访客均须隔离14天](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4B3wCtjHqXWC19rPxNgH200805&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1047,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-找工作的迷思，各位老哥给点意见](https://www.v2ex.com/t/695955) ![](assets/new.png)  
+- [2020-08-05-组队计划：在独立开发者中建立紧密合作](https://www.v2ex.com/t/695954) ![](assets/new.png)  
 - [2020-08-05-最近看书总有一种感觉：](https://www.v2ex.com/t/695953) ![](assets/new.png)  
 - [2020-08-05-如果实现每隔-5-分钟，且仅在白天运行的定时器？](https://www.v2ex.com/t/695951) ![](assets/new.png)  
 - [2020-08-05-finder-smb-连接文件访问也太慢了吧](https://www.v2ex.com/t/695950) ![](assets/new.png)  
@@ -1065,8 +1072,6 @@
 - [2020-08-05-整理了一份游戏开发中的中英文对照表](https://www.v2ex.com/t/695933) ![](assets/new.png)  
 - [2020-08-05-1-元秒杀-国内大厂高频动规题详解](https://www.v2ex.com/t/695932) ![](assets/new.png)  
 - [2020-08-05-wordpress-如何控制修订版本？](https://www.v2ex.com/t/695931) ![](assets/new.png)  
-- [2020-08-05-简单分析-b-站站内链接的正则匹配以及吐槽](https://www.v2ex.com/t/695930) ![](assets/new.png)  
-- [2020-08-05-请教完全杀死-selenium-chromedriver](https://www.v2ex.com/t/695929) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1140,6 +1145,12 @@
 </summary>
 
 
+- [2020-08-05-奇安信荣登《互联网周刊》2020网络安全创新排行第一名](https://sec.thief.one/article_content?a_id=0137c1fa9b0036268ba7339fcb17b0d9) ![](assets/new.png)  
+- [2020-08-05-酷德啄木鸟:正本清源,安全从源代码开始丨沙盒大赛十强特写](https://sec.thief.one/article_content?a_id=df541cdd119a7c3585c03d6ff1272e86) ![](assets/new.png)  
+- [2020-08-05-【安全通知】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=6c38c6af327dd81f877a1484a6f3772b) ![](assets/new.png)  
+- [2020-08-05-陕西网信办:以系列竞赛为载体推进网络安全人才培养](https://sec.thief.one/article_content?a_id=d09ecc50628bd09722cb2deb9b3000aa) ![](assets/new.png)  
+- [2020-08-05-破解百度网盘直链下载助手的“暗号”](https://sec.thief.one/article_content?a_id=bfe2a58f1e0aef6d7e5bdc36dcf6b611) ![](assets/new.png)  
+- [2020-08-05-想要学习人工智能?推荐你一条完整的学习路径!](https://sec.thief.one/article_content?a_id=6a45ff0be47a704e7b20e0abf949c728) ![](assets/new.png)  
 - [2020-08-05-【安全预警】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=ede61a57f5ca02205067afec2f5b1678) ![](assets/new.png)  
 - [2020-08-05-16万大奖,名企offer,翼支付杯大数据建模大赛邀你来战!](https://sec.thief.one/article_content?a_id=bfa9653de16d2407375fcc4dc5e0d262) ![](assets/new.png)  
 - [2020-08-05-习近平就黎巴嫩贝鲁特发生重大爆炸事件向黎巴嫩总统奥恩致慰问电](https://sec.thief.one/article_content?a_id=4622e2866c7bdbfc91b24d8e9ff76b88) ![](assets/new.png)  
@@ -1154,12 +1165,6 @@
 - [2020-08-05-聚合时代力量,国内首个新基建安全大赛筑牢“基底”](https://sec.thief.one/article_content?a_id=b9f5e8b0186e7001b6d9e98384c38cfb) ![](assets/new.png)  
 - [2020-08-05-惊喜“价”到!戴尔官网OptiPlex基础办公商用台式机到手价2279元](https://sec.thief.one/article_content?a_id=ec10c22c7338ad754b82395a62a8fef9) ![](assets/new.png)  
 - [2020-08-05-安全牛第八届《中国网络安全100强》评选正式启动](https://sec.thief.one/article_content?a_id=045eff54597756d1a578a8e5402131ea) ![](assets/new.png)  
-- [2020-08-05-Windows用户密码的加密与破解利用](https://sec.thief.one/article_content?a_id=a5549cd035a3ddff0b18b8de4300a96b) ![](assets/new.png)  
-- [2020-08-05-倒计时3天,和V神一起点燃这个夏天](https://sec.thief.one/article_content?a_id=5ea62e473bcd3d2e487a34893a7ddf20) ![](assets/new.png)  
-- [2020-08-05-OSRC确认参展ISC2020-携手共建大安全生态](https://sec.thief.one/article_content?a_id=9857be3b4431546ecc67fc03cf96a4c0) ![](assets/new.png)  
-- [2020-08-05-【视频】|-我们的个人隐私信息都被商家储存在哪里了?](https://sec.thief.one/article_content?a_id=6ffd46847b35ad3927c46acf599580e8) ![](assets/new.png)  
-- [2020-08-05-瑞波CEO称,世界各国政府将区块链视为美元霸权衰落的信号](https://sec.thief.one/article_content?a_id=286d9dc1e9973a377d99fbc675dd7cb5) ![](assets/new.png)  
-- [2020-08-05-【新坑慎入】小小的你竟然有着大大的安全隐患](https://sec.thief.one/article_content?a_id=eb6ef448afb9b96a38216b38babb9a1c) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

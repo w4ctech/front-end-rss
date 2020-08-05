@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 12:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 13:02:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,7 +41,12 @@
 - [2020-08-03-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/90ae3dbd9ae5ef3c3cb4b27effbdcefe) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-05-请教完全杀死-selenium-chromedriver](https://www.v2ex.com/t/695929) 
+- [2020-08-05-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-05-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
+- [2020-08-05-奇安信荣登《互联网周刊》2020网络安全创新排行第一名](https://sec.thief.one/article_content?a_id=0137c1fa9b0036268ba7339fcb17b0d9) 
+- [2020-08-05-酷德啄木鸟:正本清源,安全从源代码开始丨沙盒大赛十强特写](https://sec.thief.one/article_content?a_id=df541cdd119a7c3585c03d6ff1272e86) 
+- [2020-08-05-【安全通知】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=6c38c6af327dd81f877a1484a6f3772b) 
+- [2020-08-05-陕西网信办:以系列竞赛为载体推进网络安全人才培养](https://sec.thief.one/article_content?a_id=d09ecc50628bd09722cb2deb9b3000aa) 
 - [2020-08-05-【安全预警】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=ede61a57f5ca02205067afec2f5b1678) 
 - [2020-08-05-【一封招聘贴】金融行业安全技术岗](https://sec.thief.one/article_content?a_id=1847bc8ff5574d1db277b6e9baa42141) 
 - [2020-08-05-聚合时代力量,国内首个新基建安全大赛筑牢“基底”](https://sec.thief.one/article_content?a_id=b9f5e8b0186e7001b6d9e98384c38cfb) 
@@ -67,5 +72,3 @@
 - [2020-08-03-ISC-2020-互联网安全大会——筑梦八载,再启华章!](https://sec.thief.one/article_content?a_id=1593c7a5fcd173589515b2d897c82085) 
 - [2020-08-03-Black-Hat-2020上的11大网络安全工具](https://sec.thief.one/article_content?a_id=272df87f01aca14b28f3e815a080f708) 
 - [2020-08-03-“守护人民生产生活安全”系列宣传活动正式启动](https://sec.thief.one/article_content?a_id=a07f6a3c3b6ccf8187693cd17816b404) 
-- [2020-08-03-小米将携隐私品牌及百万奖池安全守护计划亮相ISC2020云展厅](https://sec.thief.one/article_content?a_id=423d2a19933f6be0ee3381dbfd8888df) 
-- [2020-08-03-七月热榜-|-优质专辑TOP榜已上线,快来扩大你的“安全圈”!](https://sec.thief.one/article_content?a_id=bcf709a25f2a52bded95d0d06c3ca534) 

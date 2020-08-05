@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 13:17:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 13:31:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,6 +16,10 @@
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
 - [2020-01-03-从零开发一套完整的vue项目开发环境](https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319) 
 - [2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf) 
+- [2020-08-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/8d2998e902c1647ba47e8752060e0885) 
+- [2020-07-30-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/c75ffe25cbf0ecea2d1562ab6eb45000) 
+- [2020-07-27-简述Vue3.0提前更新的必要性](https://www.ershicimi.com/p/fc2739cde2dfd99b1d52e213c3850d5c) 
+- [2020-07-23-手把手带你理解Vue响应式原理](https://www.ershicimi.com/p/ae7d4d3c55a1cd7902b7995d4b87380a) 
 - [2020-08-04-Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5) 
 - [2020-08-03-你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45) 
 - [2020-07-21-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/cf148253f33687c32b13141395cb46fd) 
@@ -43,6 +47,15 @@
 - [2020-07-25-vue项目部署的最佳实践](https://www.ershicimi.com/p/3b7a3d118606b9ec56d570e1482571ef) 
 - [2020-07-20-我在项目中是这样配置Vue的](https://www.ershicimi.com/p/5bf3b3757e5b97de3cce69c6f66696e7) 
 - [2020-07-05-拥抱-Vue-3-系列之-JSX-语法](https://www.ershicimi.com/p/ede822b2aced2aa401e9111858a599cb) 
+- [2020-07-31-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4) 
+- [2020-07-23-不到20%的开发能真正理解-Vue-，有没有你？（文内有福利）](https://www.ershicimi.com/p/fdc50530ca959ce13662f1feeaf110e4) 
+- [2020-07-16-Vue-项目性能优化实践](https://www.ershicimi.com/p/f92a17806443ccc307e2f39739ca1e4e) 
+- [2020-07-13-手写一个自己的-Vue.js-数据响应式框架，他只用了3天时间！](https://www.ershicimi.com/p/e1d96082a58d5e7ad1644b2aba183f46) 
+- [2020-07-10-一个优秀的Vue团队代码规范是什么样子的？](https://www.ershicimi.com/p/41d265725a06b65582815bd8aade4cfd) 
+- [2020-08-04-【万字长文】史上最强vue总结，更新版](https://www.ershicimi.com/p/5f587b1f639ff6eb4dc0ced05a8599c3) 
+- [2020-08-01-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/04c6915c0b7c9d4556ed061f397c32ca) 
+- [2020-07-30-工程化1:1从零实现Vue源码](https://www.ershicimi.com/p/5696d7150ba45e2276dcf60d3167f7ae) 
+- [2020-07-29-尤雨溪宣布Vue-3首个RC版本发布!-这意味着...](https://www.ershicimi.com/p/764f935f6e49439f180c12ece3e0534e) 
 - [2020-08-04-Vue+Electron开发跨平台桌面应用（实战）](https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb) 
 - [2020-07-30-工程化-1:1-从零实现-Vue-源码](https://www.ershicimi.com/p/3accac5a39f0227384771ed6026452c1) 
 - [2020-07-06-深度剖析Vue-.js-3.0底层逻辑，带你向高级前端进阶！|-1元福利](https://www.ershicimi.com/p/33fad9e9ec9efb00fdae95af592437c0) 

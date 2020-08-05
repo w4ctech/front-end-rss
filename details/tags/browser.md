@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 15:31:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 15:33:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -33,7 +33,6 @@
 - [2020-07-27-十五张图带你彻底搞懂从URL到页面展示发生的故事](https://www.ershicimi.com/p/256aa4619e4579f5844539e75b99ce78) 
 - [2020-08-03-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/183eb2453460e5d2498c9aa412eda3a7) 
 - [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) 
-- [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 
 - [2019-10-28-Mongoose-modified-at-时间自动记录插件介绍](https://aotu.io/notes/2019/10/28/modified-at/) 
 - [2017-06-15-URL编码的奥秘](https://aotu.io/notes/2017/06/15/The-mystery-of-URL-encoding/) 
 - [2017-02-24-移动端真机调试指南](https://aotu.io/notes/2017/02/24/Mobile-debug/) 

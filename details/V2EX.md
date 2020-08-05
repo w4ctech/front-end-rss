@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 07:02:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 07:09:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -40,4 +40,3 @@
 - [2020-08-05-快乐可能只是幻觉](https://www.v2ex.com/t/695791) 
 - [2020-08-05-.](https://www.v2ex.com/t/695790) 
 - [2020-08-05-裸眼光学错觉](https://www.v2ex.com/t/695789) 
-- [2020-08-05-jdk-bug-网站提供的内部-review-票号有啥用](https://www.v2ex.com/t/695788) 

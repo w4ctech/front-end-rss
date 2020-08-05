@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 07:02:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 07:09:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2505,15 +2505,15 @@
 - [2020-08-05-程序员修神之路：分布式下，我想要一致性](https://toutiao.io/k/23sfmc8) 
 - [2020-08-05-围观-SharedPreferences-不一样的写法](https://toutiao.io/k/vvty6zl) 
 - [2020-08-05-工具-|-一站式的开源企业级持续测试平台](https://toutiao.io/k/7s1vzm0) 
-- [2020-08-05-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
-- [2020-08-05-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
-- [2020-08-05-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [2020-08-05-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) 
+- [2020-08-05-推荐-领域驱动设计落地方案](https://toutiao.io/k/zkllrkn) 
 - [2020-08-05-推荐-常见的架构设计原则总结](https://toutiao.io/k/t1r5s5e) 
-- [2020-08-05-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [2020-08-05-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
-- [2020-08-05-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
-- [2020-08-05-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
 - [2020-08-05-推荐-YGC-问题排查，又让我涨姿势了](https://toutiao.io/k/z0t9hzo) 
+- [2020-08-05-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
+- [2020-08-05-推荐-SQL-注入笔记](https://toutiao.io/k/6zh1ffv) 
+- [2020-08-05-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
+- [2020-08-05-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
+- [2020-08-05-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
 - [2020-08-04-用这个网站一查,才知道自己被卖了](https://sec.thief.one/article_content?a_id=aa38bd7d876286f91fa1faead079ee1a) 
 - [2020-08-04-2020“主播带你游佛坪”-实力践行精准扶贫](https://sec.thief.one/article_content?a_id=78a44f7a47f870162c2b670e6a9a0eea) 
 - [2020-08-04-2020年正在成为Staking大年,有数项主要成就上篇](https://sec.thief.one/article_content?a_id=40b63f3de9169cb8624e8519d9ed433f) 

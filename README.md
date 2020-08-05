@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 16:33:18，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 16:46:35，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-05-请问，-googke-FI-要被暂停了，有什么办法吗，谢](https://www.v2ex.com/t/695993) ![](assets/new.png)  
+- [2020-08-05-微软校园招聘开始内推啦](https://www.v2ex.com/t/695992) ![](assets/new.png)  
 - [2020-08-05-如何在-Vue-单文件组的-Template-标签内调用一个外部方法？](https://www.v2ex.com/t/695989) ![](assets/new.png)  
 - [2020-08-05-美团到餐团队招前端负责人-p3-1-到-p3-3-及高级前端开发-p2-3+北京](https://www.v2ex.com/t/695987) ![](assets/new.png)  
 - [2020-08-05-在线一起同步听歌](https://www.v2ex.com/t/695985) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-05-iPad-仍然不支持-Youtube-4K-吗？](https://www.v2ex.com/t/695962) ![](assets/new.png)  
 - [2020-08-05-被威胁了怎么办?](https://www.v2ex.com/t/695960) ![](assets/new.png)  
 - [2020-08-05-大佬们有没有有精力接活的啊，一品的销售一直联系我，今儿加上了，有几个小程序开发的单子。自己做不了，有意向的可以组个团队一起赚钱啊。](https://www.v2ex.com/t/695958) ![](assets/new.png)  
-- [2020-08-05-SOS类似微信视频号，自动播放可视区域内的视频如何实现？](https://www.v2ex.com/t/695956) ![](assets/new.png)  
-- [2020-08-05-找工作的迷思，各位老哥给点意见](https://www.v2ex.com/t/695955) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

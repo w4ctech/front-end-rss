@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-05 09:19:25，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-05 09:31:22，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,16 +64,17 @@
 </summary>
 
 
+- [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
 - [2020-08-04-香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
-- [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
 - [2020-08-04-最新疫情：全国新冠累计确诊84491例-新疆本土新增22例](https://m.caixin.com/m/2020-08-05/101589013.html) ![](assets/new.png)  
 - [2020-08-04-最新海外疫情：新冠感染者近1842万-累计死亡超69.5万](http://m.international.caixin.com/m/2020-08-05/101589071.html) ![](assets/new.png)  
 - [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
 - [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
-- [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
+- [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
 - [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
 - [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
 - [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
+- [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
 - [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
 - [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
 - [2020-08-01-大连累计确诊病例79例-其中凯洋海鲜公司员工36例](http://m.china.caixin.com/m/2020-08-02/101587744.html) ![](assets/new.png)  
-- [2020-07-31-【境内疫情观察】新疆新增45例本土病例（7月31日）](http://m.database.caixin.com/m/2020-08-01/101587595.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-05-怎么固定每次打开-Finder-窗口的大小？](https://www.v2ex.com/t/695908) ![](assets/new.png)  
 - [2020-08-05-这是什么音标，看起来很好读的样子](https://www.v2ex.com/t/695906) ![](assets/new.png)  
 - [2020-08-05-最近琢磨着创业项目，但有很多困惑。](https://www.v2ex.com/t/695905) ![](assets/new.png)  
 - [2020-08-05-请教一个静态资源处理的问题](https://www.v2ex.com/t/695904) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-05-Python-可以做软件安装器吗？](https://www.v2ex.com/t/695884) ![](assets/new.png)  
 - [2020-08-05-浏览器兼容测试-modernizr](https://www.v2ex.com/t/695883) ![](assets/new.png)  
 - [2020-08-05-excel-上拖拽透视表,-服务直接返回透视表查询的结果,-有什么这样的开箱即用的工具么](https://www.v2ex.com/t/695882) ![](assets/new.png)  
-- [2020-08-05-推荐一家网上近视眼镜店](https://www.v2ex.com/t/695881) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-05 14:10:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 14:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-08-05-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/4742e260273a2bf0fcfccc86f9f97422) 
+- [2020-08-04-Vue的生命周期有多长？](https://www.ershicimi.com/p/eb6c9a853fe54f661ed6b543e15c39cf) 
+- [2020-08-03-如何精确统计页面停留时长](https://www.ershicimi.com/p/1c9ebd84df7644667e1347d67682706a) 
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5) 
@@ -22,6 +25,3 @@
 - [2020-07-13-你学前端是因为热爱还是想赚钱？](https://www.ershicimi.com/p/9d7b06f74f1e301e370ffc8fdc94a458) 
 - [2020-07-10-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/125bc0c86c80b5245ccf351595af7255) 
 - [2020-07-09-一起围观阿里p8的前端成长之路！](https://www.ershicimi.com/p/1ae7b8bf06abff4fa4f27bc1805ab945) 
-- [2020-07-08-20-分钟前，我淘汰了一个前端高级工程师](https://www.ershicimi.com/p/9c2f4d234ce22cff5e7587ae5bd538fb) 
-- [2020-07-07-最新Vue底层原理实现概述](https://www.ershicimi.com/p/3c77841e27ecefe480cb5383620d2dc1) 
-- [2020-07-06-尤大：预计-8-月发布正式版-Vue-3.0！你还不学学么？](https://www.ershicimi.com/p/43ab9298de5e0516e864f31966c11700) 

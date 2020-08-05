@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-05 14:10:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-05 14:19:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -85,11 +85,8 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
-- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
-- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
-- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-07-31-给夏天加点料，秀出你的节奏感！-|-《这，就是街舞》第三季有奖视频征集](https://www.ershicimi.com/p/dc1ba7e91a42d0503bfd01bd99ba6390) 
+- [2020-08-05-SOS类似微信视频号，自动播放可视区域内的视频如何实现？](https://www.v2ex.com/t/695956) 
 - [2020-08-05-【视频】|-我们的个人隐私信息都被商家储存在哪里了?](https://sec.thief.one/article_content?a_id=6ffd46847b35ad3927c46acf599580e8) 
 - [2020-08-03-微信视频号助手发布内测版](https://sec.thief.one/article_content?a_id=da98e1a1a70286e53738777fe3e0e037) 

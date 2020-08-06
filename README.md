@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 06:33:36，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 06:46:44，:rocket: 更新条数: +3261， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -36,9 +36,9 @@
 - [前端瓶子君](#前端瓶子君)![](assets/dot.png)   
 - [程序员成长指北](#程序员成长指北)![](assets/dot.png)   
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -694,16 +694,6 @@
 </summary>
 
 
-- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) ![](assets/new.png)  
-- [2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) ![](assets/new.png)  
-- [2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) ![](assets/new.png)  
-- [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) ![](assets/new.png)  
-- [2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) ![](assets/new.png)  
-- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
-- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) ![](assets/new.png)  
-- [2020-06-03-SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) ![](assets/new.png)  
-- [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) ![](assets/new.png)  
-- [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/) ![](assets/new.png)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,16 +719,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1032,15 @@
 </summary>
 
 
-- [2020-08-06-京东快递是不是只剩下送货前主动联系收件件人（不自动送去菜鸟驿站）的好处了](https://www.v2ex.com/t/696152) ![](assets/new.png)  
+- [2020-08-06-OSS/S3-的最佳实践](https://www.v2ex.com/t/696161) ![](assets/new.png)  
+- [2020-08-06-请教一下诸位，请教一下，综合比较，-iAnnotate-4-和-flexcil分乐笔哪个更好一点?](https://www.v2ex.com/t/696160) ![](assets/new.png)  
+- [2020-08-06-请教下关于数据权限的实现方案的相关思路](https://www.v2ex.com/t/696158) ![](assets/new.png)  
+- [2020-08-06-谁小时候在-FC-上玩过日式-RPG](https://www.v2ex.com/t/696157) ![](assets/new.png)  
+- [2020-08-06-云瑞证券求招实习生](https://www.v2ex.com/t/696156) ![](assets/new.png)  
+- [2020-08-06-Java-局部变量声明的时候还推荐显式的声明为-null-吗？](https://www.v2ex.com/t/696155) ![](assets/new.png)  
+- [2020-08-06-北京-诚招推荐算法工程师，薪资-40k--80k，非常期待您的加入~~~](https://www.v2ex.com/t/696154) ![](assets/new.png)  
+- [2020-08-06-你愿意把自己的毕业设计分享到网上吗？](https://www.v2ex.com/t/696153) ![](assets/new.png)  
+- [2020-08-06-京东快递是不是只剩下送货前主动联系（不自动送去菜鸟驿站）的好处了](https://www.v2ex.com/t/696152) ![](assets/new.png)  
 - [2020-08-06-log4j.properties-无法被识别](https://www.v2ex.com/t/696151) ![](assets/new.png)  
 - [2020-08-06-不懂就问-Java-spring-boot-项目怎么写单元测试](https://www.v2ex.com/t/696150) ![](assets/new.png)  
 - [2020-08-06-iPhone-上某些-APP-手机验证，自动输入手机验证码，会粘贴两次](https://www.v2ex.com/t/696149) ![](assets/new.png)  
@@ -1064,14 +1052,6 @@
 - [2020-08-06-招聘北京前端-蚂蚁最好的团队招聘啦！老板-nice，业务超酷，还等什么！](https://www.v2ex.com/t/696141) ![](assets/new.png)  
 - [2020-08-06-有人愿意一起去试乘滴滴自动驾驶吗](https://www.v2ex.com/t/696140) ![](assets/new.png)  
 - [2020-08-06-id-门禁卡怎么低成本复制？](https://www.v2ex.com/t/696138) ![](assets/new.png)  
-- [2020-08-06-这个软件有没有用过的？怎么样？](https://www.v2ex.com/t/696137) ![](assets/new.png)  
-- [2020-08-06-PDF-合同如何防篡改（数字签名）](https://www.v2ex.com/t/696135) ![](assets/new.png)  
-- [2020-08-06-TV-OS-上的商店和-iOS-是通的么？](https://www.v2ex.com/t/696134) ![](assets/new.png)  
-- [2020-08-06-Linux-下用-C-语言对二进制文件操作，我想删除末尾-16-位数据不是清零是删除，应该怎么办？](https://www.v2ex.com/t/696133) ![](assets/new.png)  
-- [2020-08-06-Android-Studio-调试小技巧](https://www.v2ex.com/t/696132) ![](assets/new.png)  
-- [2020-08-06-MacBook-Pro-更换-SSD-经验分享](https://www.v2ex.com/t/696131) ![](assets/new.png)  
-- [2020-08-06-一般满一年年假都有几天？](https://www.v2ex.com/t/696129) ![](assets/new.png)  
-- [2020-08-06-Mac-下，-anaconda-生成的-csv-文件只有读的权限，没有写的权限](https://www.v2ex.com/t/696128) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1126,8 +1106,8 @@
 - [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
 - [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
-- [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
 - [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
+- [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
 - [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  
 - [2020-08-06-微博基于-Flink-的机器学习实践](https://toutiao.io/k/7or5x21) ![](assets/new.png)  

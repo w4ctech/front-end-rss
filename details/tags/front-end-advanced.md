@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 06:33:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 06:46:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -14,6 +14,7 @@
 - [2020-08-04-华为的前端全栈技术想学不？3个月，零费用，真香！](https://www.ershicimi.com/p/0e99c5a357f834a27adc4a78217ec1bb) 
 - [2020-01-07-数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4) 
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
+- [2020-08-06-北京-诚招推荐算法工程师，薪资-40k--80k，非常期待您的加入~~~](https://www.v2ex.com/t/696154) 
 - [2020-08-06-力扣/领扣算法题解-约瑟夫问题暴力解](https://www.v2ex.com/t/696126) 
 - [2020-08-06-Elasticsearch-常见的-8-种错误及最佳实践](https://toutiao.io/k/l9k66sj) 
 - [2020-08-06-推荐-Go-连接池相关总结：HTTP、RPC、Redis-和数据库等](https://toutiao.io/k/rccki79) 

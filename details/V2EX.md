@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-06 15:02:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 15:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-官翻-mbp16-寸小踩雷，吐个槽](https://www.v2ex.com/t/696298) 
 - [2020-08-06-大学生创业补助？（研究生）](https://www.v2ex.com/t/696297) 
 - [2020-08-06-现在北京找工作的行情怎么样啊-前端职位](https://www.v2ex.com/t/696296) 
 - [2020-08-06-iMac-with-all-new-design-including-Face-ID,-next-WWDC](https://www.v2ex.com/t/696295) 
@@ -42,4 +43,3 @@
 - [2020-08-06-北京-红衫资本-Swift-技术开发岗位招聘！--牛人快看过来](https://www.v2ex.com/t/696251) 
 - [2020-08-06-typescript-官网改版了](https://www.v2ex.com/t/696250) 
 - [2020-08-06-刷-100-题等于别人刷-300，仅用-1-月拿到亚马逊-offer！](https://www.v2ex.com/t/696249) 
-- [2020-08-06-计算机研究生没有实习对毕业求职影响很大吗？](https://www.v2ex.com/t/696248) 

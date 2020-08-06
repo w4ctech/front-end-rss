@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 15:02:48，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 15:09:26，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-06-每天1000美国人死于新冠-特朗普仍在复读机模式：病毒会消失的](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit0RxMmgXDXdfDmsbjnck200806&isfromapp=1) ![](assets/new.png)  
+- [2020-08-06-香港特区政府资助“香港制造”-保防疫物资供应稳定](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5EIbgpYg2BfHEMw0fy5200806&isfromapp=1) ![](assets/new.png)  
+- [2020-08-06-土耳其议会9名确诊新冠肺炎议员正在接受治疗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdnAu051f191J9JliVta200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-世卫组织：全球新冠肺炎确诊病例超过1857万例-死亡超过70万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij7KQlwxY79l3n0ZJ3x6s200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-国内首个卫生列车军专站投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAfpi1bUVzS3LfouHtO5I200806&isfromapp=1) ![](assets/new.png)  
-- [2020-08-06-乌鲁木齐：每个小区原则上只保留一个出入口](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWsDOVAXw06iNnM3rtEJJ200806&isfromapp=1) ![](assets/new.png)  
-- [2020-08-06-美媒：美国每80秒就有一人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifJWPvzaNT2rnhJM6AqoU200806&isfromapp=1) ![](assets/new.png)  
-- [2020-08-06-受疫情影响，泰国旅游行业250万人或将失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Z1rDKAzzsyEcIDqkVmq200806&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-06-官翻-mbp16-寸小踩雷，吐个槽](https://www.v2ex.com/t/696298) ![](assets/new.png)  
 - [2020-08-06-大学生创业补助？（研究生）](https://www.v2ex.com/t/696297) ![](assets/new.png)  
 - [2020-08-06-现在北京找工作的行情怎么样啊-前端职位](https://www.v2ex.com/t/696296) ![](assets/new.png)  
 - [2020-08-06-iMac-with-all-new-design-including-Face-ID,-next-WWDC](https://www.v2ex.com/t/696295) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-06-湖南长沙-ETL/数仓/大数据架构/数据分析挖掘-帮内推](https://www.v2ex.com/t/696278) ![](assets/new.png)  
 - [2020-08-06-想把单位的网络拓扑图，结合单位的各个楼的地图，一起画出来，有工具推荐么](https://www.v2ex.com/t/696276) ![](assets/new.png)  
 - [2020-08-06-鉴于现在代缴社保、公积金的-app-太贵，想撸一个，你们想交哪个城市的？](https://www.v2ex.com/t/696275) ![](assets/new.png)  
-- [2020-08-06-好文加精-为什么我们放弃了-Vue？-Vue-和-React-深度对比](https://www.v2ex.com/t/696274) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

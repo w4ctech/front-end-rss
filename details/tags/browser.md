@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 11:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 11:09:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-06-使用了宝塔搭建了反向代理开启缓存后，能正常运行。](https://www.v2ex.com/t/696201) 
 - [2020-08-06-Laravel-登录状态跨域](https://www.v2ex.com/t/696200) 
+- [2020-08-06-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-06-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-06-处理公告丨2020年7月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=73f0f134e055101565f4b6fc4f9359be) 
 - [2020-08-06-国舜股份携手某综合性国有物流企业,赋能Web应用安全防护](https://sec.thief.one/article_content?a_id=6862b300a581857f1ded538fdd2ea9c3) 

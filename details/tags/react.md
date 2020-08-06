@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 02:33:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 02:46:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -21,7 +21,6 @@
 - [2020-07-29-为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/49ac182fb0f22e36c4760193c1a515bf) 
 - [2020-05-24-这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149) 
 - [2020-07-16-来呀，一起造一个简易React呀~](https://www.ershicimi.com/p/5f42caafa59624cac6118c9616154535) 
-- [2020-08-05-手写React的Fiber架构，深入理解其原理](https://www.ershicimi.com/p/3e5b55c92b79f52dabab2d1147a32a02) 
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353) 
 - [2020-07-09-邂逅-React，成为大厂爱招的人~](https://www.ershicimi.com/p/21c2db02b7e4a2c02788eb44c659f429) 
 - [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) 
@@ -30,3 +29,4 @@
 - [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) 
 - [2020-02-27-早上看到几个实用的-React-工具包](https://www.ershicimi.com/p/8291c71f4774e5edc9266607a081fb08) 
 - [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) 
+- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) 

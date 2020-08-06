@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 18:48:01，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 19:02:47，:rocket: 更新条数: +3499， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1142,8 +1142,8 @@
 - [2020-08-06-《RabbitMQ》如何保证消息的可靠性](https://toutiao.io/k/s2exysw) ![](assets/new.png)  
 - [2020-08-06-文档理解最新技术介绍：DAS-2020-Keynote-Speech](https://toutiao.io/k/8g8xdf5) ![](assets/new.png)  
 - [2020-08-06-重大新闻｜MOSEC-X-PLUGIN-系列插件开源](https://toutiao.io/k/xwo0ntf) ![](assets/new.png)  
-- [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
 - [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
+- [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
 - [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
 - [2020-08-06-Go-语言规范你掌握多少？这道题检验一下](https://toutiao.io/k/e7v5oda) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  

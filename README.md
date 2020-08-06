@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 16:33:32，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 16:46:24，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,7 +1052,10 @@
 </summary>
 
 
-- [2020-08-06-用-document.createElement-创建的-canvas-能导出-图像吗？](https://www.v2ex.com/t/696309) ![](assets/new.png)  
+- [2020-08-06-辽宁联通-speedtest.net-测速连接任何几乎外国节点都只有-1-2Mbps-的速度](https://www.v2ex.com/t/696313) ![](assets/new.png)  
+- [2020-08-06-网易云-uwp-最小化到托盘后仍然渲染界面](https://www.v2ex.com/t/696312) ![](assets/new.png)  
+- [2020-08-06-台式机配置，希望各位-V-友指点一二](https://www.v2ex.com/t/696311) ![](assets/new.png)  
+- [2020-08-06-用-document.createElement-创建的-canvas-能导出-base64-图像吗？](https://www.v2ex.com/t/696309) ![](assets/new.png)  
 - [2020-08-06-公众号最近是不是流行放黑色方块的加密推文？](https://www.v2ex.com/t/696308) ![](assets/new.png)  
 - [2020-08-06-20200807-午夜俱乐部](https://www.v2ex.com/t/696307) ![](assets/new.png)  
 - [2020-08-06-5-年了，-OneNote-一直同步失败](https://www.v2ex.com/t/696305) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-06-icloud-自动删除本地文件？](https://www.v2ex.com/t/696292) ![](assets/new.png)  
 - [2020-08-06-受到了韵达快递员的死亡威胁](https://www.v2ex.com/t/696291) ![](assets/new.png)  
 - [2020-08-06-请问-WSL1-和-WSL2-可以共存吗](https://www.v2ex.com/t/696290) ![](assets/new.png)  
-- [2020-08-06-在-iPhone-上的-Safari-浏览器中查看-Mac-打开的网页，发现有-10-来个-Mac-设备](https://www.v2ex.com/t/696289) ![](assets/new.png)  
-- [2020-08-06-Netflix-官方有说明了，-mac-看-4k](https://www.v2ex.com/t/696288) ![](assets/new.png)  
-- [2020-08-06-迫于苹果自带股票软件不实时，做了个看中国基金、股票行情的-alfred-插件](https://www.v2ex.com/t/696286) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

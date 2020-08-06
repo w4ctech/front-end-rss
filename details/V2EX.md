@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-06 04:10:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 04:19:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-我试了一下-GitHub-开源项目放广告的合作，-1000-访问你们猜有多少美金？](https://www.v2ex.com/t/696112) 
+- [2020-08-06-才发现随手记推出了全新的-VIP-等级](https://www.v2ex.com/t/696111) 
+- [2020-08-06-win10-下如何查看笔记本充电实时功率？](https://www.v2ex.com/t/696110) 
+- [2020-08-06-对-Python-里多进程池用法有点迷茫](https://www.v2ex.com/t/696109) 
 - [2020-08-06-迫于知识盲区和好奇，向大佬们请教-hr-群体的问题](https://www.v2ex.com/t/696108) 
 - [2020-08-06-今年爱奇艺的车开走了吗](https://www.v2ex.com/t/696107) 
 - [2020-08-06-请问下-上海工程技术大学-怎么样，我妹想报考](https://www.v2ex.com/t/696106) 
@@ -43,6 +47,3 @@
 - [2020-08-06-请问-vue-Typescript-编写组件库报错-Property-'component'-does-not-exist-on-type-'Vue'.应该怎么解决？](https://www.v2ex.com/t/696066) 
 - [2020-08-06-字节跳动-2021-届校招内推-欢迎领取内推资格](https://www.v2ex.com/t/696065) 
 - [2020-08-06-chrome-插件开发：如何让插件弹窗-popup-持续悬浮在某个特定的网站上](https://www.v2ex.com/t/696064) 
-- [2020-08-06-88vip-支持网易云音乐年会员兑换了…](https://www.v2ex.com/t/696062) 
-- [2020-08-06-今日头条的夜间模式也叫夜间模式？把亮度调低，好骚的操作！看看网易做的，拜托！](https://www.v2ex.com/t/696061) 
-- [2020-08-06-git-branch--f-移动分支后如何找回原来的-commit](https://www.v2ex.com/t/696060) 

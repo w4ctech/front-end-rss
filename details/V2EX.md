@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-06 20:10:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 20:19:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-苹果市值接近-2-万亿美元](https://www.v2ex.com/t/696317) 
 - [2020-08-06-iPad-版的-YouTube-app-是不是坏了？](https://www.v2ex.com/t/696316) 
 - [2020-08-06-github.io-之类的都打不开了-大家也是这样吗](https://www.v2ex.com/t/696315) 
 - [2020-08-06-edge-商店里的-Proxy-SwitchyOmega-是李鬼](https://www.v2ex.com/t/696314) 
@@ -46,4 +47,3 @@
 - [2020-08-06-有偿求解决-haproxy-负载均衡端口耗尽的问题](https://www.v2ex.com/t/696271) 
 - [2020-08-06-请问大家嵌入式软件开发刷题网站有哪些？](https://www.v2ex.com/t/696270) 
 - [2020-08-06-社招-美资大数据外企-前端/后端/大数据研发/架构](https://www.v2ex.com/t/696269) 
-- [2020-08-06-刚-750-买了个日版健身环，结果国行版过审了。。。](https://www.v2ex.com/t/696267) 

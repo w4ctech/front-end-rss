@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 02:20:16，:rocket: 更新条数: +3482， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 02:32:00，:rocket: 更新条数: +3481， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -874,6 +874,9 @@
 </summary>
 
 
+- [2020-08-06-Mybatis-trim-标签的-2-个妙用！](https://www.ershicimi.com/p/9e3b07618847e2d1aa6b20b0d55ea86a) ![](assets/new.png)  
+- [2020-08-06-震惊！Redis-的字符串居然是这样实现的…](https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9) ![](assets/new.png)  
+- [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) ![](assets/new.png)  
 - [2020-08-05-因用了Insert-into-select语句，美女同事被开除了！](https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c) ![](assets/new.png)  
 - [2020-08-05-Hibernate-与-Mybatis-如何共存？打破你的认知！](https://www.ershicimi.com/p/89cc0b723eb2ddcd32ba4b0690db4f6c) ![](assets/new.png)  
 - [2020-08-05-好奇！滴滴在-GitHub-开源了哪些有意思的项目？](https://www.ershicimi.com/p/437edb45708aa54f104689e420e66e68) ![](assets/new.png)  
@@ -891,9 +894,6 @@
 - [2020-08-01-Spring-Boot-项目如何做性能监控？](https://www.ershicimi.com/p/e4f5be331fa439d9662102d1ccee4826) ![](assets/new.png)  
 - [2020-07-31-支付宝架构到底有多牛逼？看完这篇你就明白了！](https://www.ershicimi.com/p/972f2e9ab73716bfc76ec6cd010dcefa) ![](assets/new.png)  
 - [2020-07-31-重磅！2020中国高校毕业生月薪排名：清华第1，24高校过万，你呢？](https://www.ershicimi.com/p/d8200b20f7900d609e7b42b2695bd1a2) ![](assets/new.png)  
-- [2020-07-31-同事线上埋的这个坑，我整整找了3天3夜](https://www.ershicimi.com/p/58246a1db0e01980f9966592bc6be97d) ![](assets/new.png)  
-- [2020-07-30-太火了，这些牛逼的Java代码技巧，肯定能让你目瞪口呆！](https://www.ershicimi.com/p/709ccfa20d2b5af950d2764dd8fe9534) ![](assets/new.png)  
-- [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-06-git-branch--f-移动分支后如何找回原来的-commit](https://www.v2ex.com/t/696060) ![](assets/new.png)  
+- [2020-08-06-二本车辆工程毕业-在沪-1-个月-5k](https://www.v2ex.com/t/696058) ![](assets/new.png)  
 - [2020-08-06-更新-Thumb-Launcher-----Android-桌面启动器](https://www.v2ex.com/t/696056) ![](assets/new.png)  
 - [2020-08-06-针灸治疗到底是有益的吗?](https://www.v2ex.com/t/696055) ![](assets/new.png)  
 - [2020-08-06-cloudflare-pro-的功能使用](https://www.v2ex.com/t/696054) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-06-分享一个比较好玩的调查问卷](https://www.v2ex.com/t/696036) ![](assets/new.png)  
 - [2020-08-06-mysql-一个字段，值是用逗号拼接的，如何查-split-后的-count-数？](https://www.v2ex.com/t/696035) ![](assets/new.png)  
 - [2020-08-06-小程序上线了，送-10-个极客时间的-Java-业务开发常见错误-100-例](https://www.v2ex.com/t/696033) ![](assets/new.png)  
-- [2020-08-06-长沙医药公司招聘前端](https://www.v2ex.com/t/696032) ![](assets/new.png)  
-- [2020-08-06-广东电信游戏宽带无法转回普通宽带？](https://www.v2ex.com/t/696030) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1138,22 +1138,22 @@
 - [2020-08-06-文档理解最新技术介绍：DAS-2020-Keynote-Speech](https://toutiao.io/k/8g8xdf5) ![](assets/new.png)  
 - [2020-08-06-重大新闻｜MOSEC-X-PLUGIN-系列插件开源](https://toutiao.io/k/xwo0ntf) ![](assets/new.png)  
 - [2020-08-06-报告老板，我们的-H5-页面在-iOS-11-系统上白屏了](https://toutiao.io/k/jcermc3) ![](assets/new.png)  
-- [2020-08-06-从别人的代码中学习-Golang（三）](https://toutiao.io/k/a5ri9g4) ![](assets/new.png)  
 - [2020-08-06-《RabbitMQ》如何保证消息的可靠性](https://toutiao.io/k/s2exysw) ![](assets/new.png)  
+- [2020-08-06-从别人的代码中学习-Golang（三）](https://toutiao.io/k/a5ri9g4) ![](assets/new.png)  
+- [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
 - [2020-08-06-Elasticsearch-常见的-8-种错误及最佳实践](https://toutiao.io/k/l9k66sj) ![](assets/new.png)  
-- [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
-- [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
-- [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
+- [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
-- [2020-08-06-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-06-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-06-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
 - [2020-08-06-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
 - [2020-08-06-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
+- [2020-08-06-推荐-DO,-DTO,-VO,-POJO-你知道吗？](https://toutiao.io/k/zidka9w) ![](assets/new.png)  
+- [2020-08-06-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-06-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

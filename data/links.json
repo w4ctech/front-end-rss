@@ -16101,6 +16101,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "Mybatis trim 标签的 2 个妙用！",
+        "link": "https://www.ershicimi.com/p/9e3b07618847e2d1aa6b20b0d55ea86a",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "震惊！Redis 的字符串居然是这样实现的…",
+        "link": "https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达 433 个的新安全漏洞",
+        "link": "https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9",
+        "date": "2020-08-06"
+      },
+      {
         "title": "因用了Insert into select语句，美女同事被开除了！",
         "link": "https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c",
         "date": "2020-08-05"
@@ -16184,21 +16199,6 @@
         "title": "重磅！2020中国高校毕业生月薪排名：清华第1，24高校过万，你呢？",
         "link": "https://www.ershicimi.com/p/d8200b20f7900d609e7b42b2695bd1a2",
         "date": "2020-07-31"
-      },
-      {
-        "title": "同事线上埋的这个坑，我整整找了3天3夜",
-        "link": "https://www.ershicimi.com/p/58246a1db0e01980f9966592bc6be97d",
-        "date": "2020-07-31"
-      },
-      {
-        "title": "太火了，这些牛逼的Java代码技巧，肯定能让你目瞪口呆！",
-        "link": "https://www.ershicimi.com/p/709ccfa20d2b5af950d2764dd8fe9534",
-        "date": "2020-07-30"
-      },
-      {
-        "title": "用 HTTPS 就安全了？HTTPS 会被抓包吗？",
-        "link": "https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473",
-        "date": "2020-07-30"
       }
     ]
   },
@@ -16755,6 +16755,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "git branch -f 移动分支后如何找回原来的 commit",
+        "link": "https://www.v2ex.com/t/696060",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "二本车辆工程毕业 在沪 1 个月 5k",
+        "link": "https://www.v2ex.com/t/696058",
+        "date": "2020-08-06"
+      },
+      {
         "title": "[更新] Thumb Launcher --- Android 桌面启动器",
         "link": "https://www.v2ex.com/t/696056",
         "date": "2020-08-06"
@@ -16898,21 +16908,6 @@
         "title": "每日诗词 app 正式上线，邀请您来体验",
         "link": "https://www.v2ex.com/t/696013",
         "date": "2020-08-06"
-      },
-      {
-        "title": "使用 Golang 来控制你的 Android 设备~",
-        "link": "https://www.v2ex.com/t/696010",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "请问各位 V 友们的 iphone11 亮屏时间是如何做到 8 小时的",
-        "link": "https://www.v2ex.com/t/696009",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "Announcing the Expansion of the Clean Network to Safeguard America’s Assets",
-        "link": "https://www.v2ex.com/t/696008",
-        "date": "2020-08-05"
       }
     ]
   },
@@ -17049,13 +17044,18 @@
         "date": "2020-08-06"
       },
       {
+        "title": "《RabbitMQ》如何保证消息的可靠性",
+        "link": "https://toutiao.io/k/s2exysw",
+        "date": "2020-08-06"
+      },
+      {
         "title": "从别人的代码中学习 Golang（三）",
         "link": "https://toutiao.io/k/a5ri9g4",
         "date": "2020-08-06"
       },
       {
-        "title": "《RabbitMQ》如何保证消息的可靠性",
-        "link": "https://toutiao.io/k/s2exysw",
+        "title": "字节跳动表格存储中的事务",
+        "link": "https://toutiao.io/k/u9v4j30",
         "date": "2020-08-06"
       },
       {
@@ -17069,11 +17069,6 @@
         "date": "2020-08-06"
       },
       {
-        "title": "字节跳动表格存储中的事务",
-        "link": "https://toutiao.io/k/u9v4j30",
-        "date": "2020-08-06"
-      },
-      {
         "title": "[译] 使用 microbundle 打包 TypeScript 组件库",
         "link": "https://toutiao.io/k/q3hrhpe",
         "date": "2020-08-06"
@@ -17084,18 +17079,13 @@
         "date": "2020-08-06"
       },
       {
-        "title": "开源文档管理系统 Wizard 1.2.3 发布",
-        "link": "https://toutiao.io/k/kvcyzaa",
-        "date": "2020-08-06"
-      },
-      {
         "title": "如何保证 NFS 文件锁的一致性？",
         "link": "https://toutiao.io/k/jhrf9th",
         "date": "2020-08-06"
       },
       {
-        "title": "PHP 进阶教程：一文理解和实现现代 PHP 框架里的 IOC 容器",
-        "link": "https://toutiao.io/k/8gclapi",
+        "title": "开源文档管理系统 Wizard 1.2.3 发布",
+        "link": "https://toutiao.io/k/kvcyzaa",
         "date": "2020-08-06"
       },
       {
@@ -17104,18 +17094,8 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "PHP 进阶教程：一文理解和实现现代 PHP 框架里的 IOC 容器",
+        "link": "https://toutiao.io/k/8gclapi",
         "date": "2020-08-06"
       },
       {
@@ -17129,13 +17109,13 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
+        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
+        "link": "https://toutiao.io/k/zidka9w",
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
         "date": "2020-08-06"
       },
       {
@@ -17144,8 +17124,23 @@
         "date": "2020-08-06"
       },
       {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
+        "date": "2020-08-06"
+      },
+      {
         "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
         "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-06"
       },
       {
@@ -17159,16 +17154,6 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-06"
-      },
-      {
         "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
         "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-06"
@@ -17176,6 +17161,16 @@
       {
         "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
         "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-08-06"
       }
     ]

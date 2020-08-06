@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 03:48:26，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 04:02:22，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-06-请教怎么确定某时区当前实行的是不是夏令时-？](https://www.v2ex.com/t/696101) ![](assets/new.png)  
+- [2020-08-06-阿里云-DNS-解析服务器还是-DNSPod-解析服务器哪个会更快点？](https://www.v2ex.com/t/696100) ![](assets/new.png)  
+- [2020-08-06-Gear-浏览器对于「油猴」脚本的技术实现原理](https://www.v2ex.com/t/696099) ![](assets/new.png)  
 - [2020-08-06-有没大佬实现过一个管理-magic-number-和其周边功能的库？](https://www.v2ex.com/t/696098) ![](assets/new.png)  
 - [2020-08-06-吐槽贴-十天了，我的-partner-数据库都没有建好](https://www.v2ex.com/t/696096) ![](assets/new.png)  
 - [2020-08-06-求工作-麻烦大家帮忙看下简历](https://www.v2ex.com/t/696094) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-06-我的美区-ID-再起波澜，心累……](https://www.v2ex.com/t/696079) ![](assets/new.png)  
 - [2020-08-06-「需求明确」推荐笔记本，预算-1W-1W5，有中意的-50-元红包，谢谢-V2er](https://www.v2ex.com/t/696078) ![](assets/new.png)  
 - [2020-08-06-百度网盘分享网页的播放控制按钮还没有修好？](https://www.v2ex.com/t/696076) ![](assets/new.png)  
-- [2020-08-06-APP-能否接入微信公众号的客服功能？](https://www.v2ex.com/t/696075) ![](assets/new.png)  
-- [2020-08-06-你们的-Mac-夏天会采取降温措施么？都是怎么办的？](https://www.v2ex.com/t/696074) ![](assets/new.png)  
-- [2020-08-06-阿里云领券购买系列](https://www.v2ex.com/t/696073) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1117,8 +1117,8 @@
 - [2020-08-06-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
 - [2020-08-06-报告老板，我们的-H5-页面在-iOS-11-系统上白屏了](https://toutiao.io/k/jcermc3) ![](assets/new.png)  
 - [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
-- [2020-08-06-文档理解最新技术介绍：DAS-2020-Keynote-Speech](https://toutiao.io/k/8g8xdf5) ![](assets/new.png)  
 - [2020-08-06-重大新闻｜MOSEC-X-PLUGIN-系列插件开源](https://toutiao.io/k/xwo0ntf) ![](assets/new.png)  
+- [2020-08-06-文档理解最新技术介绍：DAS-2020-Keynote-Speech](https://toutiao.io/k/8g8xdf5) ![](assets/new.png)  
 - [2020-08-06-从别人的代码中学习-Golang（三）](https://toutiao.io/k/a5ri9g4) ![](assets/new.png)  
 - [2020-08-06-《RabbitMQ》如何保证消息的可靠性](https://toutiao.io/k/s2exysw) ![](assets/new.png)  
 - [2020-08-06-Elasticsearch-常见的-8-种错误及最佳实践](https://toutiao.io/k/l9k66sj) ![](assets/new.png)  
@@ -1129,10 +1129,10 @@
 - [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
-- [2020-08-06-Go-语言规范你掌握多少？这道题检验一下](https://toutiao.io/k/e7v5oda) ![](assets/new.png)  
 - [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  
-- [2020-08-06-使用-5W1H-方法来制定计划](https://toutiao.io/k/pm0jmg9) ![](assets/new.png)  
+- [2020-08-06-Go-语言规范你掌握多少？这道题检验一下](https://toutiao.io/k/e7v5oda) ![](assets/new.png)  
 - [2020-08-06-微博基于-Flink-的机器学习实践](https://toutiao.io/k/7or5x21) ![](assets/new.png)  
+- [2020-08-06-使用-5W1H-方法来制定计划](https://toutiao.io/k/pm0jmg9) ![](assets/new.png)  
 - [2020-08-06-译-基于以太坊和-USDC-搭建去中心化金融系统](https://toutiao.io/k/0zo45wi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 

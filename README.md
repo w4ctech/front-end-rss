@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 05:09:09，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 05:17:49，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-06-一般满一年年假都有几天？](https://www.v2ex.com/t/696129) ![](assets/new.png)  
+- [2020-08-06-Mac-下，-anaconda-生成的-csv-文件只有读的权限，没有写的权限](https://www.v2ex.com/t/696128) ![](assets/new.png)  
+- [2020-08-06-新加坡-直招大量招募：前端/后端开发工程师/数据架构师/C++/Golang-开发工程师](https://www.v2ex.com/t/696127) ![](assets/new.png)  
 - [2020-08-06-力扣/领扣算法题解-约瑟夫问题暴力解](https://www.v2ex.com/t/696126) ![](assets/new.png)  
 - [2020-08-06-工行活动互助](https://www.v2ex.com/t/696125) ![](assets/new.png)  
 - [2020-08-06-安装阿里旺旺等软件导致-Windows-安全中心提示发现-1-个威胁](https://www.v2ex.com/t/696124) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-06-win10-下如何查看笔记本充电实时功率？](https://www.v2ex.com/t/696110) ![](assets/new.png)  
 - [2020-08-06-对-Python-里多进程池用法有点迷茫](https://www.v2ex.com/t/696109) ![](assets/new.png)  
 - [2020-08-06-迫于知识盲区和好奇，向大佬们请教-hr-群体的问题](https://www.v2ex.com/t/696108) ![](assets/new.png)  
-- [2020-08-06-今年爱奇艺的车开走了吗](https://www.v2ex.com/t/696107) ![](assets/new.png)  
-- [2020-08-06-请问下-上海工程技术大学-怎么样，我妹想报考](https://www.v2ex.com/t/696106) ![](assets/new.png)  
-- [2020-08-06-有什么划水游戏推荐吗?](https://www.v2ex.com/t/696105) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

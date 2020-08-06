@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 06:10:31，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 06:21:00，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,6 +64,7 @@
 </summary>
 
 
+- [2020-08-05-最新疫情：全国新冠累计确诊84528例-本土病例新疆27例辽宁3例](http://m.china.caixin.com/m/2020-08-06/101589437.html) ![](assets/new.png)  
 - [2020-08-05-【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html) ![](assets/new.png)  
 - [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
 - [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-02-南非确诊破50万大关-非洲检测率低恐致隐藏疫情风暴](http://m.international.caixin.com/m/2020-08-03/101588180.html) ![](assets/new.png)  
 - [2020-08-02-印度确诊180万例疫情在贫民窟传开-莫迪亲信自曝感染](http://m.international.caixin.com/m/2020-08-03/101588122.html) ![](assets/new.png)  
 - [2020-08-01-【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html) ![](assets/new.png)  
-- [2020-08-01-大流行手记|8月1日：世卫称新冠将影响数十年-俄10月大规模接种疫苗](https://m.caixin.com/m/2020-08-02/101587726.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-06-王毅：推动构建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif53ExmzrqSToPkQLE5IX200806&isfromapp=1) ![](assets/new.png)  
+- [2020-08-06-菲律宾第二季度GDP大幅下降16.5％，-经济陷入衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKtpvBOz3k2goHP01PT0b200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-疫情正在悄悄改变美国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMvFeetLJLW6DTesSECL200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-秘鲁今年上半年的铜和黄金产量锐减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQPtfBtwxqbZTaptHspC200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-上海公布杭州一例无症状感染者在沪活动轨迹调查核实情况](http://wsjkw.sh.gov.cn/xwfb/20200806/2d0691a4342b4330ab8160ab4a267c43.html) ![](assets/new.png)  
-- [2020-08-06-截至8月5日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/412859.jhtml) ![](assets/new.png)  
-- [2020-08-05-美国新冠肺炎确诊人数超481万-较前日增加约5万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSMk2J6gB6LznzBG4WKIz200806&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,12 +1052,13 @@
 </summary>
 
 
+- [2020-08-06-字节跳动海量-HC-招聘](https://www.v2ex.com/t/696147) ![](assets/new.png)  
+- [2020-08-06-吐槽一下腾讯云的鬼才语言-距开始结束剩:-00:02:13](https://www.v2ex.com/t/696146) ![](assets/new.png)  
+- [2020-08-06-不想炼丹了，有没有什么方向可以转](https://www.v2ex.com/t/696145) ![](assets/new.png)  
 - [2020-08-06-第一次买房需要注意什么？](https://www.v2ex.com/t/696144) ![](assets/new.png)  
 - [2020-08-06-88-会员送网易云音乐年卡？](https://www.v2ex.com/t/696143) ![](assets/new.png)  
-- [2020-08-06-开发一套-O-墙回国的服务要多少钱？](https://www.v2ex.com/t/696142) ![](assets/new.png)  
 - [2020-08-06-招聘北京前端-蚂蚁最好的团队招聘啦！老板-nice，业务超酷，还等什么！](https://www.v2ex.com/t/696141) ![](assets/new.png)  
 - [2020-08-06-有人愿意一起去试乘滴滴自动驾驶吗](https://www.v2ex.com/t/696140) ![](assets/new.png)  
-- [2020-08-06-请接外包单子的小伙伴注意，应对无良雇主，要用第三方平台维护自己合法利益](https://www.v2ex.com/t/696139) ![](assets/new.png)  
 - [2020-08-06-id-门禁卡怎么低成本复制？](https://www.v2ex.com/t/696138) ![](assets/new.png)  
 - [2020-08-06-这个软件有没有用过的？怎么样？](https://www.v2ex.com/t/696137) ![](assets/new.png)  
 - [2020-08-06-PDF-合同如何防篡改（数字签名）](https://www.v2ex.com/t/696135) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-06-力扣/领扣算法题解-约瑟夫问题暴力解](https://www.v2ex.com/t/696126) ![](assets/new.png)  
 - [2020-08-06-工行活动互助](https://www.v2ex.com/t/696125) ![](assets/new.png)  
 - [2020-08-06-安装阿里旺旺等软件导致-Windows-安全中心提示发现-1-个威胁](https://www.v2ex.com/t/696124) ![](assets/new.png)  
-- [2020-08-06-区块链这种技术，目前如何产生盈利？](https://www.v2ex.com/t/696123) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
 - [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
-- [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
+- [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
 - [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  

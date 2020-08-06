@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 06:10:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 06:21:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -60,6 +60,7 @@
 - [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) 
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
+- [2020-08-06-字节跳动海量-HC-招聘](https://www.v2ex.com/t/696147) 
 - [2020-08-06-招聘北京前端-蚂蚁最好的团队招聘啦！老板-nice，业务超酷，还等什么！](https://www.v2ex.com/t/696141) 
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) 
 - [2020-08-04-渗透测试面试问题合集](https://sec.thief.one/article_content?a_id=f423366a12ee4f21045cf510862cc43c) 

@@ -5,6 +5,11 @@
     "link": "http://m.app.caixin.com/m_topic_detail/1473.html",
     "items": [
       {
+        "title": "最新疫情：全国新冠累计确诊84528例 本土病例新疆27例辽宁3例",
+        "link": "http://m.china.caixin.com/m/2020-08-06/101589437.html",
+        "date": "2020-08-05"
+      },
+      {
         "title": "【境内疫情观察】全国新增30例本土病例（8月5日）",
         "link": "http://m.database.caixin.com/m/2020-08-06/101589410.html",
         "date": "2020-08-05"
@@ -12527,6 +12532,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "王毅：推动构建人类卫生健康共同体",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif53ExmzrqSToPkQLE5IX200806&isfromapp=1",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "菲律宾第二季度GDP大幅下降16.5％， 经济陷入衰退",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKtpvBOz3k2goHP01PT0b200806&isfromapp=1",
+        "date": "2020-08-06"
+      },
+      {
         "title": "疫情正在悄悄改变美国",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMvFeetLJLW6DTesSECL200806&isfromapp=1",
         "date": "2020-08-06"
@@ -12540,16 +12555,6 @@
         "title": "上海公布杭州一例无症状感染者在沪活动轨迹调查核实情况",
         "link": "http://wsjkw.sh.gov.cn/xwfb/20200806/2d0691a4342b4330ab8160ab4a267c43.html",
         "date": "2020-08-06"
-      },
-      {
-        "title": "截至8月5日24时新型冠状病毒肺炎疫情最新情况",
-        "link": "http://wsjkw.hebei.gov.cn/content/content_3714/412859.jhtml",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "美国新冠肺炎确诊人数超481万 较前日增加约5万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSMk2J6gB6LznzBG4WKIz200806&isfromapp=1",
-        "date": "2020-08-05"
       }
     ]
   },
@@ -15679,6 +15684,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "字节跳动海量 HC 招聘",
+        "link": "https://www.v2ex.com/t/696147",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "吐槽一下腾讯云的鬼才语言 距开始结束剩: 00:02:13",
+        "link": "https://www.v2ex.com/t/696146",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "不想炼丹了，有没有什么方向可以转",
+        "link": "https://www.v2ex.com/t/696145",
+        "date": "2020-08-06"
+      },
+      {
         "title": "第一次买房需要注意什么？",
         "link": "https://www.v2ex.com/t/696144",
         "date": "2020-08-06"
@@ -15689,11 +15709,6 @@
         "date": "2020-08-06"
       },
       {
-        "title": "开发一套 O 墙回国的服务要多少钱？",
-        "link": "https://www.v2ex.com/t/696142",
-        "date": "2020-08-06"
-      },
-      {
         "title": "[招聘][北京][前端] 蚂蚁最好的团队招聘啦！老板 nice，业务超酷，还等什么！",
         "link": "https://www.v2ex.com/t/696141",
         "date": "2020-08-06"
@@ -15701,11 +15716,6 @@
       {
         "title": "有人愿意一起去试乘滴滴自动驾驶吗",
         "link": "https://www.v2ex.com/t/696140",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "请接外包单子的小伙伴注意，应对无良雇主，要用第三方平台维护自己合法利益",
-        "link": "https://www.v2ex.com/t/696139",
         "date": "2020-08-06"
       },
       {
@@ -15866,16 +15876,6 @@
       {
         "title": "Gear 浏览器对于「油猴」脚本的技术实现原理",
         "link": "https://www.v2ex.com/t/696099",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "有没大佬实现过一个管理 magic number 和其周边功能的库？",
-        "link": "https://www.v2ex.com/t/696098",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[吐槽贴] 十天了，我的 partner 数据库都没有建好",
-        "link": "https://www.v2ex.com/t/696096",
         "date": "2020-08-06"
       }
     ]
@@ -16048,13 +16048,13 @@
         "date": "2020-08-06"
       },
       {
-        "title": "开源文档管理系统 Wizard 1.2.3 发布",
-        "link": "https://toutiao.io/k/kvcyzaa",
+        "title": "PHP 进阶教程：一文理解和实现现代 PHP 框架里的 IOC 容器",
+        "link": "https://toutiao.io/k/8gclapi",
         "date": "2020-08-06"
       },
       {
-        "title": "PHP 进阶教程：一文理解和实现现代 PHP 框架里的 IOC 容器",
-        "link": "https://toutiao.io/k/8gclapi",
+        "title": "开源文档管理系统 Wizard 1.2.3 发布",
+        "link": "https://toutiao.io/k/kvcyzaa",
         "date": "2020-08-06"
       },
       {
@@ -16093,8 +16093,68 @@
         "date": "2020-08-06"
       },
       {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 常见的架构设计原则总结",
+        "link": "https://toutiao.io/k/t1r5s5e",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-06"
+      },
+      {
         "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
         "link": "https://toutiao.io/k/zidka9w",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-06"
       },
       {
@@ -16105,66 +16165,6 @@
       {
         "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
         "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
         "date": "2020-08-06"
       }
     ]

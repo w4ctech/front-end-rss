@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 07:02:30，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 07:09:28，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-06-程序员副业有什么选择和建议？](https://www.v2ex.com/t/696167) ![](assets/new.png)  
 - [2020-08-06-android-studio-苹果出的-arm-芯片的版-macbook-pro](https://www.v2ex.com/t/696166) ![](assets/new.png)  
 - [2020-08-06-找个老师教我-golang.哈哈](https://www.v2ex.com/t/696165) ![](assets/new.png)  
 - [2020-08-06-在-PDD-买了个翻新大容量硬盘，懒得退，有什么合理的用途吗？](https://www.v2ex.com/t/696164) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-06-字节跳动海量-HC-招聘](https://www.v2ex.com/t/696147) ![](assets/new.png)  
 - [2020-08-06-吐槽一下腾讯云的鬼才语言-距开始结束剩:-00:02:13](https://www.v2ex.com/t/696146) ![](assets/new.png)  
 - [2020-08-06-不想炼丹了，有没有什么方向可以转](https://www.v2ex.com/t/696145) ![](assets/new.png)  
-- [2020-08-06-第一次买房需要注意什么？](https://www.v2ex.com/t/696144) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

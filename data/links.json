@@ -16760,6 +16760,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[力扣/领扣算法题解] 约瑟夫问题暴力解",
+        "link": "https://www.v2ex.com/t/696126",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "工行活动互助",
+        "link": "https://www.v2ex.com/t/696125",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "安装阿里旺旺等软件导致 Windows 安全中心提示发现 1 个威胁",
+        "link": "https://www.v2ex.com/t/696124",
+        "date": "2020-08-06"
+      },
+      {
         "title": "区块链这种技术，目前如何产生盈利？",
         "link": "https://www.v2ex.com/t/696123",
         "date": "2020-08-06"
@@ -16948,21 +16963,6 @@
         "title": "「需求明确」推荐笔记本，预算 1W-1W5，有中意的 50 元红包，谢谢 V2er",
         "link": "https://www.v2ex.com/t/696078",
         "date": "2020-08-06"
-      },
-      {
-        "title": "百度网盘分享网页的播放控制按钮还没有修好？",
-        "link": "https://www.v2ex.com/t/696076",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "APP 能否接入微信公众号的客服功能？",
-        "link": "https://www.v2ex.com/t/696075",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "你们的 Mac 夏天会采取降温措施么？都是怎么办的？",
-        "link": "https://www.v2ex.com/t/696074",
-        "date": "2020-08-06"
       }
     ]
   },
@@ -17109,13 +17109,13 @@
         "date": "2020-08-06"
       },
       {
-        "title": "《RabbitMQ》如何保证消息的可靠性",
-        "link": "https://toutiao.io/k/s2exysw",
+        "title": "Elasticsearch 常见的 8 种错误及最佳实践",
+        "link": "https://toutiao.io/k/l9k66sj",
         "date": "2020-08-06"
       },
       {
-        "title": "Elasticsearch 常见的 8 种错误及最佳实践",
-        "link": "https://toutiao.io/k/l9k66sj",
+        "title": "《RabbitMQ》如何保证消息的可靠性",
+        "link": "https://toutiao.io/k/s2exysw",
         "date": "2020-08-06"
       },
       {
@@ -17124,23 +17124,23 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[译] 使用 microbundle 打包 TypeScript 组件库",
-        "link": "https://toutiao.io/k/q3hrhpe",
-        "date": "2020-08-06"
-      },
-      {
         "title": "如何保证 NFS 文件锁的一致性？",
         "link": "https://toutiao.io/k/jhrf9th",
         "date": "2020-08-06"
       },
       {
-        "title": "[译] 如何在 JavaScript 实现休眠或等待功能，实现 sleep 函数",
-        "link": "https://toutiao.io/k/8aqq3ii",
+        "title": "[译] 使用 microbundle 打包 TypeScript 组件库",
+        "link": "https://toutiao.io/k/q3hrhpe",
         "date": "2020-08-06"
       },
       {
         "title": "开源文档管理系统 Wizard 1.2.3 发布",
         "link": "https://toutiao.io/k/kvcyzaa",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[译] 如何在 JavaScript 实现休眠或等待功能，实现 sleep 函数",
+        "link": "https://toutiao.io/k/8aqq3ii",
         "date": "2020-08-06"
       },
       {
@@ -17179,28 +17179,8 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
-        "link": "https://toutiao.io/k/rccki79",
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-06"
       },
       {
@@ -17209,8 +17189,18 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Go 连接池相关总结：HTTP、RPC、Redis 和数据库等",
+        "link": "https://toutiao.io/k/rccki79",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-06"
       },
       {
@@ -17219,8 +17209,13 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-06"
       },
       {
@@ -17229,28 +17224,33 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 常见的架构设计原则总结",
-        "link": "https://toutiao.io/k/t1r5s5e",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
+        "title": "[推荐] DO, DTO, VO, POJO 你知道吗？",
+        "link": "https://toutiao.io/k/zidka9w",
         "date": "2020-08-06"
       },
       {
         "title": "[推荐] 架构师技术领导力成长之路",
         "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-06"
       }
     ]

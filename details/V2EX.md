@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-06 00:05:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 00:25:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-使用-Golang-来控制你的-Android-设备~](https://www.v2ex.com/t/696010) 
+- [2020-08-06-请问各位-V-友们的-iphone11-亮屏时间是如何做到-8-小时的](https://www.v2ex.com/t/696009) 
 - [2020-08-05-Announcing-the-Expansion-of-the-Clean-Network-to-Safeguard-America’s-Assets](https://www.v2ex.com/t/696008) 
 - [2020-08-05-上个月买了-99-元电信-PLUS-会员的记得领券（附领取路径）](https://www.v2ex.com/t/696007) 
 - [2020-08-05-通宵-coding，操](https://www.v2ex.com/t/696006) 
@@ -37,4 +39,3 @@
 - [2020-08-05-有什么办法提升上行吗](https://www.v2ex.com/t/695965) 
 - [2020-08-05-小米-9-剪切板无法使用了，求解](https://www.v2ex.com/t/695963) 
 - [2020-08-05-iPad-仍然不支持-Youtube-4K-吗？](https://www.v2ex.com/t/695962) 
-- [2020-08-05-被威胁了怎么办?](https://www.v2ex.com/t/695960) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 12:12:17，:rocket: 更新条数: +3285， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 12:24:06，:rocket: 更新条数: +3285， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-06-世卫组织：全球新冠肺炎确诊病例超过1857万例-死亡超过70万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij7KQlwxY79l3n0ZJ3x6s200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-国内首个卫生列车军专站投入使用](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAfpi1bUVzS3LfouHtO5I200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-乌鲁木齐：每个小区原则上只保留一个出入口](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWsDOVAXw06iNnM3rtEJJ200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-美媒：美国每80秒就有一人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifJWPvzaNT2rnhJM6AqoU200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-受疫情影响，泰国旅游行业250万人或将失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Z1rDKAzzsyEcIDqkVmq200806&isfromapp=1) ![](assets/new.png)  
-- [2020-08-06-王毅：推动构建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif53ExmzrqSToPkQLE5IX200806&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-06-有没有基于-Fluent-Design-的成品-web-前端-UI？](https://www.v2ex.com/t/696261) ![](assets/new.png)  
+- [2020-08-06-淘宝扫描相册实锤？](https://www.v2ex.com/t/696260) ![](assets/new.png)  
+- [2020-08-06-es-7.x-如何全局设置-custom-analyzer-？？](https://www.v2ex.com/t/696259) ![](assets/new.png)  
+- [2020-08-06-发现-98-元可以买一年优酷、腾讯、爱奇艺、网易云等-9-大平台会员...](https://www.v2ex.com/t/696258) ![](assets/new.png)  
 - [2020-08-06-最近收到两个-offer，一个百度搜索架构，一个京东云云安全研发，有了解的给个建议？](https://www.v2ex.com/t/696255) ![](assets/new.png)  
 - [2020-08-06-请问有淘宝分享券收费帮点的平台吗？](https://www.v2ex.com/t/696254) ![](assets/new.png)  
 - [2020-08-06-帝都联通签约-500Mbps，但实际测速仅有大约-200Mbps-左右。给帮忙看下是运营商的锅？](https://www.v2ex.com/t/696253) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-06-蚂蚁金服最核心的数字金融部门需要你！-Node.js、移动、互动-3D、基础架构、中后台都有](https://www.v2ex.com/t/696241) ![](assets/new.png)  
 - [2020-08-06-学霸君能不能去](https://www.v2ex.com/t/696240) ![](assets/new.png)  
 - [2020-08-06-腾讯云机翻-stackoverflow-是图啥？](https://www.v2ex.com/t/696239) ![](assets/new.png)  
-- [2020-08-06-npm-挂了](https://www.v2ex.com/t/696237) ![](assets/new.png)  
-- [2020-08-06-请教一下各位，有没有给-MBP-用的隔空播放的硬件，可以支持-4K60HZ-的](https://www.v2ex.com/t/696236) ![](assets/new.png)  
-- [2020-08-06-想去丽江和大理玩一圈，自己去。](https://www.v2ex.com/t/696235) ![](assets/new.png)  
-- [2020-08-06-我对“Designing-Data-Intensive-Applications---Detecting-Concurrent-Writes”的理解对吗？](https://www.v2ex.com/t/696234) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1129,8 +1129,8 @@
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
-- [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  
 - [2020-08-06-Go-语言规范你掌握多少？这道题检验一下](https://toutiao.io/k/e7v5oda) ![](assets/new.png)  
+- [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  
 - [2020-08-06-微博基于-Flink-的机器学习实践](https://toutiao.io/k/7or5x21) ![](assets/new.png)  
 - [2020-08-06-译-基于以太坊和-USDC-搭建去中心化金融系统](https://toutiao.io/k/0zo45wi) ![](assets/new.png)  
 - [2020-08-06-使用-5W1H-方法来制定计划](https://toutiao.io/k/pm0jmg9) ![](assets/new.png)  

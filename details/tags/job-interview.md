@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 12:33:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 12:46:56。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -62,6 +62,5 @@
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-06-北京-红衫资本-Swift-技术开发岗位招聘！--牛人快看过来](https://www.v2ex.com/t/696251) 
 - [2020-08-06-字节跳动架构部招聘前端，社招校招皆可，欢迎来讨论～](https://www.v2ex.com/t/696222) 
-- [2020-08-06-北京字节跳动-数据实习生招聘](https://www.v2ex.com/t/696215) 
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) 
 - [2020-08-04-渗透测试面试问题合集](https://sec.thief.one/article_content?a_id=f423366a12ee4f21045cf510862cc43c) 

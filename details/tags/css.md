@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 07:33:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 07:46:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -33,4 +33,5 @@
 - [2019-12-16-b站全灰，但我一下把它弄回来了——css-滤镜](https://juejin.im/post/5df3a049f265da33f8652882) 
 - [2019-12-12-Flexbox：使用-Auto-Margin-对齐](https://juejin.im/post/5dedb2fd6fb9a016323d7202) 
 - [2019-11-13-动画：面试官问我如何在-1-亿数据中快速查找某一整数？](https://juejin.im/post/5dc786026fb9a04a7847f56a) 
+- [2020-08-06-通过-Serverless-Regsitry-快速开发与部署一个-WordCount-实例](https://www.v2ex.com/t/696185) 
 - [2020-08-06-请教一下诸位大佬，综合比较，-iAnnotate-4-和-flexcil分乐笔哪个更好一点?](https://www.v2ex.com/t/696160) 

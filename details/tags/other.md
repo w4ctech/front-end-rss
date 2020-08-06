@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 23:08:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 23:17:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2497,16 +2497,16 @@
 - [2020-08-06-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-06-Android-Fragment-被回收后显示空白问题解决方案-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13643&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FLuJuXA9SZ-TcCAIcbF66SQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-06-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) 
-- [2020-08-06-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
-- [2020-08-06-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
 - [2020-08-06-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
 - [2020-08-06-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
-- [2020-08-06-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
-- [2020-08-06-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
-- [2020-08-06-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
-- [2020-08-06-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-06-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
+- [2020-08-06-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
 - [2020-08-06-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [2020-08-06-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
+- [2020-08-06-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-06-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
 - [2020-08-06-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
+- [2020-08-06-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
 - [2020-08-06-【新职业-新机遇】人工智能“训练员”,让AI更聪明](https://sec.thief.one/article_content?a_id=31f47f67054d54621f883db64154ab54) 
 - [2020-08-06-【流行威胁跟踪】AgentTesla新变种活跃海外,窃密数据或遭多处泄露](https://sec.thief.one/article_content?a_id=93e986706d62502801c566314036eba3) 
 - [2020-08-06-绿盟威胁情报专栏|7月威胁热点](https://sec.thief.one/article_content?a_id=940716510e64edff29350c25be2155bb) 

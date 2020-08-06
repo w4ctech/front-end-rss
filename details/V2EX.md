@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-06 05:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 05:46:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-这个软件有没有用过的？怎么样？](https://www.v2ex.com/t/696137) 
+- [2020-08-06-PDF-合同如何防篡改（数字签名）](https://www.v2ex.com/t/696135) 
+- [2020-08-06-TV-OS-上的商店和-iOS-是通的么？](https://www.v2ex.com/t/696134) 
+- [2020-08-06-Linux-下用-C-语言对二进制文件操作，我想删除末尾-16-位数据不是清零是删除，应该怎么办？](https://www.v2ex.com/t/696133) 
 - [2020-08-06-Android-Studio-调试小技巧](https://www.v2ex.com/t/696132) 
 - [2020-08-06-MacBook-Pro-更换-SSD-经验分享](https://www.v2ex.com/t/696131) 
 - [2020-08-06-一般满一年年假都有几天？](https://www.v2ex.com/t/696129) 
@@ -15,7 +19,6 @@
 - [2020-08-06-安装阿里旺旺等软件导致-Windows-安全中心提示发现-1-个威胁](https://www.v2ex.com/t/696124) 
 - [2020-08-06-区块链这种技术，目前如何产生盈利？](https://www.v2ex.com/t/696123) 
 - [2020-08-06-如何在甘特图上直接拖拽调整任务管理](https://www.v2ex.com/t/696122) 
-- [2020-08-06-旁路由-openwrt-里的-v2-锐好像有问题](https://www.v2ex.com/t/696121) 
 - [2020-08-06-出海美国的公司一锅端？全完蛋吗？](https://www.v2ex.com/t/696120) 
 - [2020-08-06-GPT-硬盘读写时无故丢失](https://www.v2ex.com/t/696119) 
 - [2020-08-06-用-JS-实现-excel-预览](https://www.v2ex.com/t/696117) 
@@ -42,7 +45,3 @@
 - [2020-08-06-成都包租公司巣客跳雷，房东和租客人傻了](https://www.v2ex.com/t/696092) 
 - [2020-08-06-Django-3.1-发布，支持异步-view-和-middleware](https://www.v2ex.com/t/696091) 
 - [2020-08-06-急聘-济南-c/c++-的兄弟们看过来](https://www.v2ex.com/t/696089) 
-- [2020-08-06-有国区-apple-music，-icloud-车和爱奇艺包年会员吗](https://www.v2ex.com/t/696087) 
-- [2020-08-06-淘宝很便宜的-B-站会员什么套路](https://www.v2ex.com/t/696086) 
-- [2020-08-06-学习开源项目一点理解](https://www.v2ex.com/t/696085) 
-- [2020-08-06-MBP-16-寸偶尔电池不充电](https://www.v2ex.com/t/696083) 

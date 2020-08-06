@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 09:48:27，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 10:02:38，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-06-想去丽江和大理玩一圈，自己去。](https://www.v2ex.com/t/696235) ![](assets/new.png)  
+- [2020-08-06-我对“Designing-Data-Intensive-Applications---Detecting-Concurrent-Writes”的理解对吗？](https://www.v2ex.com/t/696234) ![](assets/new.png)  
+- [2020-08-06-阿里云原生部门-OR-分布式存储？纠结。。](https://www.v2ex.com/t/696233) ![](assets/new.png)  
+- [2020-08-06-域名注册时，二选一，带横杠的-.com-域名，不带横杠的非-.com-域名，选那个](https://www.v2ex.com/t/696232) ![](assets/new.png)  
 - [2020-08-06-朝阳行业：-C++开发工程师（薪资高于-BAT）](https://www.v2ex.com/t/696231) ![](assets/new.png)  
 - [2020-08-06-在哪可以买到一些微信号啊，越便宜越好，就用一次的那种](https://www.v2ex.com/t/696230) ![](assets/new.png)  
 - [2020-08-06-中信银行信用卡，一个-200](https://www.v2ex.com/t/696229) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-06-北京字节跳动-数据实习生招聘](https://www.v2ex.com/t/696215) ![](assets/new.png)  
 - [2020-08-06-coding-悄咪咪的更新了网页啦？？这次居然搞得免费啦？？](https://www.v2ex.com/t/696214) ![](assets/new.png)  
 - [2020-08-06-read:-connection-timed-out-有人遇到过这个问题吗?](https://www.v2ex.com/t/696213) ![](assets/new.png)  
-- [2020-08-06-转租-|-西丽地铁站-B-口-200-米-性价比高的众望楼小区合租房主卧](https://www.v2ex.com/t/696212) ![](assets/new.png)  
-- [2020-08-06-dig-命令查询-DNS-结果能不能指定源-IP？](https://www.v2ex.com/t/696211) ![](assets/new.png)  
-- [2020-08-06-国内有什么好用的-PDF-文档-OCR-产品吗](https://www.v2ex.com/t/696210) ![](assets/new.png)  
-- [2020-08-06-网抑云换源，需要自拿，纯分享，项目不是我的，只是搬运大佬的，记得去给大佬-star](https://www.v2ex.com/t/696209) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-06 09:48:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 10:02:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-想去丽江和大理玩一圈，自己去。](https://www.v2ex.com/t/696235) 
+- [2020-08-06-我对“Designing-Data-Intensive-Applications---Detecting-Concurrent-Writes”的理解对吗？](https://www.v2ex.com/t/696234) 
+- [2020-08-06-阿里云原生部门-OR-分布式存储？纠结。。](https://www.v2ex.com/t/696233) 
+- [2020-08-06-域名注册时，二选一，带横杠的-.com-域名，不带横杠的非-.com-域名，选那个](https://www.v2ex.com/t/696232) 
 - [2020-08-06-朝阳行业：-C++开发工程师（薪资高于-BAT）](https://www.v2ex.com/t/696231) 
 - [2020-08-06-在哪可以买到一些微信号啊，越便宜越好，就用一次的那种](https://www.v2ex.com/t/696230) 
 - [2020-08-06-中信银行信用卡，一个-200](https://www.v2ex.com/t/696229) 
@@ -40,7 +44,3 @@
 - [2020-08-06-预算-3000-求推荐能玩-gta5-的装机方案](https://www.v2ex.com/t/696191) 
 - [2020-08-06-手贱把-mac-的虚拟机-hds-这个文件给弄到废纸篓去了，导致-parallels-无法正常工作](https://www.v2ex.com/t/696190) 
 - [2020-08-06-杭州-可远程-秘猿科技-招聘区块链工程师/区块链研究员/测试开发/区块链应用设计师等](https://www.v2ex.com/t/696186) 
-- [2020-08-06-通过-Serverless-Regsitry-快速开发与部署一个-WordCount-实例](https://www.v2ex.com/t/696185) 
-- [2020-08-06-多线程与协程爬虫有很大区别吗？多线程转协程能优化多少？](https://www.v2ex.com/t/696184) 
-- [2020-08-06-mbp-下-home-目录的-logo-不是房子而是文件夹，这是为啥？](https://www.v2ex.com/t/696183) 
-- [2020-08-06-Wordpress-主题定制设计，我是认真的](https://www.v2ex.com/t/696182) 

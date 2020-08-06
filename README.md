@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 11:48:11，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 12:03:22，:rocket: 更新条数: +3287， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-06-最近收到两个-offer，一个百度搜索架构，一个京东云云安全研发，有了解的给个建议？](https://www.v2ex.com/t/696255) ![](assets/new.png)  
+- [2020-08-06-请问有淘宝分享券收费帮点的平台吗？](https://www.v2ex.com/t/696254) ![](assets/new.png)  
+- [2020-08-06-帝都联通签约-500Mbps，但实际测速仅有大约-200Mbps-左右。给帮忙看下是运营商的锅？](https://www.v2ex.com/t/696253) ![](assets/new.png)  
 - [2020-08-06-北京-红衫资本-Swift-技术开发岗位招聘！--牛人快看过来](https://www.v2ex.com/t/696251) ![](assets/new.png)  
 - [2020-08-06-typescript-官网改版了](https://www.v2ex.com/t/696250) ![](assets/new.png)  
 - [2020-08-06-刷-100-题等于别人刷-300，仅用-1-月拿到亚马逊-offer！](https://www.v2ex.com/t/696249) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-06-请教一下各位，有没有给-MBP-用的隔空播放的硬件，可以支持-4K60HZ-的](https://www.v2ex.com/t/696236) ![](assets/new.png)  
 - [2020-08-06-想去丽江和大理玩一圈，自己去。](https://www.v2ex.com/t/696235) ![](assets/new.png)  
 - [2020-08-06-我对“Designing-Data-Intensive-Applications---Detecting-Concurrent-Writes”的理解对吗？](https://www.v2ex.com/t/696234) ![](assets/new.png)  
-- [2020-08-06-阿里云原生部门-OR-分布式存储？纠结。。](https://www.v2ex.com/t/696233) ![](assets/new.png)  
-- [2020-08-06-域名注册时，二选一，带横杠的-.com-域名，不带横杠的非-.com-域名，选那个](https://www.v2ex.com/t/696232) ![](assets/new.png)  
-- [2020-08-06-朝阳行业：-C++开发工程师（薪资高于-BAT）](https://www.v2ex.com/t/696231) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 18:20:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 18:31:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -7,7 +7,10 @@
 
 
 
+- [2020-02-21-疫情总动员，各地怎么做|促复产促招聘-严禁断路硬隔离](http://m.china.caixin.com/m/2020-02-22/101519091.html) 
 - [2020-01-15-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://www.ershicimi.com/p/cb1329acf7eec7801c4dee3dc5b2cbf1) 
+- [2020-08-03-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/2e18778d336520ce8a488ccf13493d3f) 
+- [2020-07-24-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/86e6652b4f1bacf32aed758ea0605bf3) 
 - [2019-12-24-【面试题】2019开年跳槽系列-38](https://www.ershicimi.com/p/e3b611ab1fe570f2d3aa91319ba42bc1) 
 - [2019-12-23-【面试题】2019开年跳槽系列-37](https://www.ershicimi.com/p/94e52eef45121c670ab768757c356a62) 
 - [2019-12-19-【面试题】2019开年跳槽系列-36](https://www.ershicimi.com/p/8e90b135148afd82cd72a5ce7445472e) 
@@ -47,6 +50,8 @@
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/9f62b79401471714082eb8dae19a6046) 
 - [2020-07-15-『1W7字中高级前端面试必知必会』终极版](https://www.ershicimi.com/p/f357d3efce5b1fe01dcd97b71ed68c23) 
 - [2020-07-27-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/ccd241a496e05bf84c3211f01580da26) 
+- [2020-07-30-145道Web大厂面试真题分享](https://www.ershicimi.com/p/da75835aa6c431a35ff6867c50a9938d) 
+- [2020-07-30-2-年前端面试心路历程总结（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/b285e3145c5f77b4f45dfb2cc7d79a64) 
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
 - [2020-03-05-前端面试官:-你知道source-map的原理是什么吗？](https://www.ershicimi.com/p/a6b4e1b56eb6f7a2e37e70ad76e36a82) 
 - [2020-08-04-面试官：大型系统架构设计细节你知道多少？？](https://www.ershicimi.com/p/c80b9c6728d2525fe8de1462ead7fd96) 

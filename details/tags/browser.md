@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 22:18:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 22:31:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -23,6 +23,7 @@
 - [2020-07-30-Chrome插件英雄榜都有啥？](https://www.ershicimi.com/p/7a546ad42ea9b98d8d417064fbe56e12) 
 - [2020-07-29-Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43) 
 - [2020-07-28-彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a) 
+- [2020-08-05-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa) 
 - [2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
 - [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
 - [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) 
@@ -51,7 +52,7 @@
 - [2020-08-06-edge-商店里的-Proxy-SwitchyOmega-是李鬼](https://www.v2ex.com/t/696314) 
 - [2020-08-06-网易云-uwp-最小化到托盘后仍然渲染界面](https://www.v2ex.com/t/696312) 
 - [2020-08-06-在-iPhone-上的-Safari-浏览器中查看-Mac-打开的网页，发现有-10-来个-Mac-设备](https://www.v2ex.com/t/696289) 
-- [2020-08-06-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
+- [2020-08-06-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-06-四年磨一剑,腾讯安全联合实验室最强战绩一览](https://sec.thief.one/article_content?a_id=fb2693044377f81dfece6ed5830f9d3b) 
 - [2020-08-06-处理公告丨2020年7月腾讯外部安全报告处理公告](https://sec.thief.one/article_content?a_id=73f0f134e055101565f4b6fc4f9359be) 
 - [2020-08-06-国舜股份携手某综合性国有物流企业,赋能Web应用安全防护](https://sec.thief.one/article_content?a_id=6862b300a581857f1ded538fdd2ea9c3) 

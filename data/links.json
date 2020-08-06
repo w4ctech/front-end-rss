@@ -12967,6 +12967,31 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第2026期】「可视化搭建系统」——从设计到架构，探索前端领域技术和业务价值",
+        "link": "https://www.ershicimi.com/p/6b62edaefd5ec41b54e722ff322340e1",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "【招聘】北京新浪微博招高级前端开发工程师（社招）",
+        "link": "https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "当HR跟你谈薪水时，如何回答能使收入最大化？",
+        "link": "https://www.ershicimi.com/p/c0f85e55a86d6ef9d7713fb5fcf22bcb",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "【第2025期】解读 Chrome 84 新特性，支持私有方法、用户空闲检测！",
+        "link": "https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa",
+        "date": "2020-08-05"
+      },
+      {
+        "title": "京东物流风格 NutUI 发布了",
+        "link": "https://www.ershicimi.com/p/f1e87e476eaba57e88be1c6870182673",
+        "date": "2020-08-05"
+      },
+      {
         "title": "【第2024期】微保Serverless实践之架构演进",
         "link": "https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306",
         "date": "2020-08-04"
@@ -13040,31 +13065,6 @@
         "title": "【第2016期】WXInlinePlayer：高性能WASM播放器实现",
         "link": "https://www.ershicimi.com/p/318e880c58f4a5ec47a68adc42bba320",
         "date": "2020-07-27"
-      },
-      {
-        "title": "【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发",
-        "link": "https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "【第2015期】Web Worker 文献综述",
-        "link": "https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d",
-        "date": "2020-07-27"
-      },
-      {
-        "title": "【第2014期】仿照React源码流程打造90行代码的Hooks",
-        "link": "https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b",
-        "date": "2020-07-26"
-      },
-      {
-        "title": "【第2013期】用 puppeteer 实现网站自动分页截取的趣事",
-        "link": "https://www.ershicimi.com/p/472df3f627ecff2d5c8a86ac42c85848",
-        "date": "2020-07-24"
-      },
-      {
-        "title": "【活动】对话三位百度前端大牛，校招赢在起跑线！|百度前端7天特训营报名开启",
-        "link": "https://www.ershicimi.com/p/2b0599f4e4fc7f21f2e15e3035984db8",
-        "date": "2020-07-24"
       }
     ]
   },
@@ -17194,13 +17194,8 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
         "date": "2020-08-06"
       },
       {
@@ -17209,48 +17204,8 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-06"
-      },
-      {
         "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
         "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-06"
-      },
-      {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-06"
       },
       {
@@ -17259,13 +17214,58 @@
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-06"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-06"
+      },
+      {
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-08-06"
       }
     ]

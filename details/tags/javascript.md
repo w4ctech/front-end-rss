@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 22:18:00。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 22:31:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -36,7 +36,6 @@
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-08-02-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) 
 - [2020-07-30-【第2019期】JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.ershicimi.com/p/c385e47be6796031917c1219c7c66016) 
-- [2020-07-27-【第2015期】Web-Worker-文献综述](https://www.ershicimi.com/p/af4254ea79f34636d8fd2f9c62f6f70d) 
 - [2020-08-05-了解-JS-压缩图片，这一篇就够了](https://www.ershicimi.com/p/73c7dd0baa62af2e57b693a889d2d5d1) 
 - [2020-08-04-轻松搞定移动端适配](https://www.ershicimi.com/p/cda76956f8bedf88951f53d5bc5059aa) 
 - [2020-07-29-带你写出符合-Promise/A+-规范-Promise-的源码](https://www.ershicimi.com/p/489bb00f25128d9610e1662a8febb330) 
@@ -128,7 +127,7 @@
 - [2020-08-06-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-06-报告老板，我们的-H5-页面在-iOS-11-系统上白屏了](https://toutiao.io/k/jcermc3) 
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) 
-- [2020-08-06-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
 - [2020-08-06-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
+- [2020-08-06-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) 
 - [2020-08-05-习近平就黎巴嫩贝鲁特发生重大爆炸事件向黎巴嫩总统奥恩致慰问电](https://sec.thief.one/article_content?a_id=4622e2866c7bdbfc91b24d8e9ff76b88) 
 - [2020-08-05-华硕路由器远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=91239c2bfb1081faf12860d8e9db728b) 

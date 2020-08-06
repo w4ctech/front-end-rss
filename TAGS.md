@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-06 22:18:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 22:31:28。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -42,7 +42,6 @@
 - [【Vue中文社区】从源码解读React-和-Vue-的20个区别](https://www.ershicimi.com/p/a94fdb33a086e9c3276148f8a38b9074)
 - [【React中文社区】你不知道的-React-Diff](https://www.ershicimi.com/p/fed1c7a38e6ef4b3dfa335a135b8c090)
 - [【前端早读课】【招聘】上海Treelab招高级前端架构师、高级React开发工程师](https://www.ershicimi.com/p/ebf4a8b7a11f9e3b3ffc543c3951fcc8)
-- [【前端早读课】【第2014期】仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/6c8430b98778b62c549fd44021fb2f5b)
 - [【前端大全】React-中请求远程数据的四种方法](https://www.ershicimi.com/p/c5e0fd93a49fda8d7b528ac192b8d9e5)
 - [【前端开发博客】工具控hoist-non-react-statics-你没用过吧](https://www.ershicimi.com/p/bb1161f2239a80f5e1b16357546ee040)
 - [【前端开发博客】工具控-react-优化里面用到-lodash.memoize](https://www.ershicimi.com/p/8030f9ceac2221818a92f0a24cede590)
@@ -59,6 +58,7 @@
 - [【凹凸实验室】Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)
 - [【凹凸实验室】Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)
 - [【凹凸实验室】使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)
+- [【凹凸实验室】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -489,10 +489,10 @@
 - [【Vue中文社区】Chrome插件英雄榜都有啥？](https://www.ershicimi.com/p/7a546ad42ea9b98d8d417064fbe56e12)
 - [【Vue中文社区】Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43)
 - [【Vue中文社区】彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a)
+- [【前端早读课】【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa)
 - [【前端大全】你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9)
 - [【前端大全】新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb)
 - [【前端之巅】前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5)
-- [【前端之巅】17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -604,10 +604,10 @@
 - [【VUE全家桶】【面试题】2019开年跳槽系列-31](https://www.ershicimi.com/p/8bc1537ad5a9212b305aa929842c4378)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-30](https://www.ershicimi.com/p/c953e0c5b4aaccbe729309f61ee8574b)
 - [【VUE全家桶】【面试题】2019开年跳槽系列-29](https://www.ershicimi.com/p/f482de0356cd5d7ad6f51e587856df10)
+- [【前端早读课】【招聘】北京新浪微博招高级前端开发工程师（社招）](https://www.ershicimi.com/p/e84d592a3e7a2ac0ec8ce7cd5d5fa584)
 - [【前端早读课】【招聘】北京洋葱学院招聘前端工程师社招](https://www.ershicimi.com/p/ad3bef28784b8096379450dd32d8000c)
 - [【前端早读课】【招聘】字节跳动产研国际化招聘前端工程师社招/校招/实习](https://www.ershicimi.com/p/f61f925899f5d2a67915ab5b128b84c8)
 - [【前端早读课】【招聘】北京知乎（会员/交付/教育/内容）前端研发团队招高级前端开发工程师](https://www.ershicimi.com/p/d38b2b7469203ae4ca41f99b0bb7756e)
-- [【前端早读课】【招聘】北京腾讯CSIG事业群—行业创新中心招中高级前端开发](https://www.ershicimi.com/p/d9172e4b1014ad5c8f818d5230979172)
 - [【前端大全】今年面试，薪资该往高了要吗？](https://www.ershicimi.com/p/45db14c43fd467f0a74e479c1e9e62cf)
 - [【前端大全】2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/fb17d9c7059bdb212d99e4321f722e43)
 - [......【查看更多】......](./details/tags/job-interview.md)

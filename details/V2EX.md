@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-06 04:19:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 04:31:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-app-store-美区难道要下架微信？](https://www.v2ex.com/t/696114) 
+- [2020-08-06-求一个好用的-win10-激活工具，密钥快到期了，有大佬推荐的吗？](https://www.v2ex.com/t/696113) 
 - [2020-08-06-我试了一下-GitHub-开源项目放广告的合作，-1000-访问你们猜有多少美金？](https://www.v2ex.com/t/696112) 
 - [2020-08-06-才发现随手记推出了全新的-VIP-等级](https://www.v2ex.com/t/696111) 
 - [2020-08-06-win10-下如何查看笔记本充电实时功率？](https://www.v2ex.com/t/696110) 
@@ -46,4 +48,3 @@
 - [2020-08-06-G+-集体诉讼](https://www.v2ex.com/t/696067) 
 - [2020-08-06-请问-vue-Typescript-编写组件库报错-Property-'component'-does-not-exist-on-type-'Vue'.应该怎么解决？](https://www.v2ex.com/t/696066) 
 - [2020-08-06-字节跳动-2021-届校招内推-欢迎领取内推资格](https://www.v2ex.com/t/696065) 
-- [2020-08-06-chrome-插件开发：如何让插件弹窗-popup-持续悬浮在某个特定的网站上](https://www.v2ex.com/t/696064) 

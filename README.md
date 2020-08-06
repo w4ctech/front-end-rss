@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 07:48:22，:rocket: 更新条数: +3284， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 08:03:04，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-06-美媒：美国每80秒就有一人死于新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifJWPvzaNT2rnhJM6AqoU200806&isfromapp=1) ![](assets/new.png)  
+- [2020-08-06-受疫情影响，泰国旅游行业250万人或将失业](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6Z1rDKAzzsyEcIDqkVmq200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-王毅：推动构建人类卫生健康共同体](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif53ExmzrqSToPkQLE5IX200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-菲律宾第二季度GDP大幅下降16.5％，-经济陷入衰退](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKtpvBOz3k2goHP01PT0b200806&isfromapp=1) ![](assets/new.png)  
 - [2020-08-06-疫情正在悄悄改变美国](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijMvFeetLJLW6DTesSECL200806&isfromapp=1) ![](assets/new.png)  
-- [2020-08-06-秘鲁今年上半年的铜和黄金产量锐减](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiQPtfBtwxqbZTaptHspC200806&isfromapp=1) ![](assets/new.png)  
-- [2020-08-06-上海公布杭州一例无症状感染者在沪活动轨迹调查核实情况](http://wsjkw.sh.gov.cn/xwfb/20200806/2d0691a4342b4330ab8160ab4a267c43.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1067,11 +1067,11 @@
 - [2020-08-06-极验的同学牛批哦](https://www.v2ex.com/t/696174) ![](assets/new.png)  
 - [2020-08-06-有没有推荐的三模键盘，方便台式电脑和-mac-切换用，最好切换按键在正面的](https://www.v2ex.com/t/696172) ![](assets/new.png)  
 - [2020-08-06-做一个“工程师个人成长咨询”的产品？](https://www.v2ex.com/t/696171) ![](assets/new.png)  
-- [2020-08-06-这视频里对墙的看法是目前大部分人的看法吗？](https://www.v2ex.com/t/696170) ![](assets/new.png)  
 - [2020-08-06-android-studio-苹果出的-arm-芯片的-macbook-pro-求解](https://www.v2ex.com/t/696169) ![](assets/new.png)  
 - [2020-08-06-程序员副业有什么选择和建议？](https://www.v2ex.com/t/696167) ![](assets/new.png)  
 - [2020-08-06-android-studio-苹果出的-arm-芯片的版-macbook-pro](https://www.v2ex.com/t/696166) ![](assets/new.png)  
 - [2020-08-06-找个老师教我-golang.哈哈](https://www.v2ex.com/t/696165) ![](assets/new.png)  
+- [2020-08-06-在-PDD-买了个翻新大容量硬盘，懒得退，有什么合理的用途吗？](https://www.v2ex.com/t/696164) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,8 +1125,8 @@
 - [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
 - [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
-- [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
+- [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
 - [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  

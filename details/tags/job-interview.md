@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 10:02:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 10:09:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -64,6 +64,5 @@
 - [2020-08-06-北京字节跳动-数据实习生招聘](https://www.v2ex.com/t/696215) 
 - [2020-08-06-蚂蚁金服智能监控招聘成都、杭州~~感兴趣的老哥进](https://www.v2ex.com/t/696207) 
 - [2020-08-06-北京-社招-木瓜移动（Papaya）招聘-Python-后端开发工程师](https://www.v2ex.com/t/696204) 
-- [2020-08-06-杭州-可远程-秘猿科技-招聘区块链工程师/区块链研究员/测试开发/区块链应用设计师等](https://www.v2ex.com/t/696186) 
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) 
 - [2020-08-04-渗透测试面试问题合集](https://sec.thief.one/article_content?a_id=f423366a12ee4f21045cf510862cc43c) 

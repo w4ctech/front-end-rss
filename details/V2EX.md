@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-06 10:02:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 10:09:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-npm-挂了](https://www.v2ex.com/t/696237) 
+- [2020-08-06-请教一下各位，有没有给-MBP-用的隔空播放的硬件，可以支持-4K60HZ-的](https://www.v2ex.com/t/696236) 
 - [2020-08-06-想去丽江和大理玩一圈，自己去。](https://www.v2ex.com/t/696235) 
 - [2020-08-06-我对“Designing-Data-Intensive-Applications---Detecting-Concurrent-Writes”的理解对吗？](https://www.v2ex.com/t/696234) 
 - [2020-08-06-阿里云原生部门-OR-分布式存储？纠结。。](https://www.v2ex.com/t/696233) 
@@ -43,4 +45,3 @@
 - [2020-08-06-给-4,5-岁的小女孩买礼物，求推荐](https://www.v2ex.com/t/696194) 
 - [2020-08-06-预算-3000-求推荐能玩-gta5-的装机方案](https://www.v2ex.com/t/696191) 
 - [2020-08-06-手贱把-mac-的虚拟机-hds-这个文件给弄到废纸篓去了，导致-parallels-无法正常工作](https://www.v2ex.com/t/696190) 
-- [2020-08-06-杭州-可远程-秘猿科技-招聘区块链工程师/区块链研究员/测试开发/区块链应用设计师等](https://www.v2ex.com/t/696186) 

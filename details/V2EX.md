@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-06 13:48:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 14:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-icloud-邮箱发封信至少要等-7，-8-秒](https://www.v2ex.com/t/696284) 
 - [2020-08-06-实习-微软亚洲研究院-网络虚拟化全职实习生](https://www.v2ex.com/t/696282) 
 - [2020-08-06-有杭州字节商业变现的老哥吗](https://www.v2ex.com/t/696281) 
 - [2020-08-06-透明网关如何只处理上行方向](https://www.v2ex.com/t/696280) 
@@ -43,4 +44,3 @@
 - [2020-08-06-npm-挂了](https://www.v2ex.com/t/696237) 
 - [2020-08-06-请教一下各位，有没有给-MBP-用的隔空播放的硬件，可以支持-4K60HZ-的](https://www.v2ex.com/t/696236) 
 - [2020-08-06-想去丽江和大理玩一圈，自己去。](https://www.v2ex.com/t/696235) 
-- [2020-08-06-我对“Designing-Data-Intensive-Applications---Detecting-Concurrent-Writes”的理解对吗？](https://www.v2ex.com/t/696234) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 02:02:29，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 02:10:05，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,14 @@
 </summary>
 
 
+- [2020-08-06-有没有类似集团通讯录那样的开源的安卓-APP](https://www.v2ex.com/t/696052) ![](assets/new.png)  
+- [2020-08-06-求助，关于家庭服务器的选择，求推荐一下](https://www.v2ex.com/t/696051) ![](assets/new.png)  
+- [2020-08-06-Mac-上-怎样优雅的用-LaTex-排版论文啊？求推荐编辑器。比如-TexStudio？](https://www.v2ex.com/t/696050) ![](assets/new.png)  
+- [2020-08-06-女友致命题](https://www.v2ex.com/t/696049) ![](assets/new.png)  
+- [2020-08-06-加入小米云平台，一起搞大事情。](https://www.v2ex.com/t/696048) ![](assets/new.png)  
+- [2020-08-06-免费的国庆节云南旅游机会来啦，云南豪华旅游大奖征集大学堕落街帖子](https://www.v2ex.com/t/696047) ![](assets/new.png)  
+- [2020-08-06-不是广告的寻人](https://www.v2ex.com/t/696046) ![](assets/new.png)  
+- [2020-08-06-说个尴尬的事](https://www.v2ex.com/t/696045) ![](assets/new.png)  
 - [2020-08-06-阿里云产品优惠返佣](https://www.v2ex.com/t/696044) ![](assets/new.png)  
 - [2020-08-06-联动对-TikTok-的制裁，是否应该考虑国外互联网公司的个人数据资产安全](https://www.v2ex.com/t/696043) ![](assets/new.png)  
 - [2020-08-06-摸鱼的时间写了个摸鱼插件](https://www.v2ex.com/t/696042) ![](assets/new.png)  
@@ -1064,14 +1072,6 @@
 - [2020-08-06-阿里系软件/APP-哪个最垃圾？](https://www.v2ex.com/t/696034) ![](assets/new.png)  
 - [2020-08-06-小程序上线了，送-10-个极客时间的-Java-业务开发常见错误-100-例](https://www.v2ex.com/t/696033) ![](assets/new.png)  
 - [2020-08-06-长沙医药公司招聘前端](https://www.v2ex.com/t/696032) ![](assets/new.png)  
-- [2020-08-06-iPhone-xr-升级-ios-13.6-后无法科学上网了，有人遇到同样的情况吗？](https://www.v2ex.com/t/696031) ![](assets/new.png)  
-- [2020-08-06-广东电信游戏宽带无法转回普通宽带？](https://www.v2ex.com/t/696030) ![](assets/new.png)  
-- [2020-08-06-请教下-docker-compose-pull-的源怎么换？](https://www.v2ex.com/t/696027) ![](assets/new.png)  
-- [2020-08-06-大家使用函数式编程应用自己做的项目中么？使用函数式编程玩出了哪些花样？](https://www.v2ex.com/t/696025) ![](assets/new.png)  
-- [2020-08-06-手机每重启一次时间就不对了~-得连上海外网才可以自动更新时间~-这个怎么办](https://www.v2ex.com/t/696023) ![](assets/new.png)  
-- [2020-08-06-在线写代码编译这种是如何实现的呢？](https://www.v2ex.com/t/696022) ![](assets/new.png)  
-- [2020-08-06-有遇到电信开通拜访地接入以后，跨省漫游时套餐内定向流量失效问题的朋友吗](https://www.v2ex.com/t/696021) ![](assets/new.png)  
-- [2020-08-06-请问下-mycat-能不能实现简单的-oracle-与-mysql-的跨库查询，简单的单表连接查询，看官网好像提到过一点。](https://www.v2ex.com/t/696020) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1121,19 +1121,19 @@
 - [2020-08-06-从别人的代码中学习-Golang（三）](https://toutiao.io/k/a5ri9g4) ![](assets/new.png)  
 - [2020-08-06-《RabbitMQ》如何保证消息的可靠性](https://toutiao.io/k/s2exysw) ![](assets/new.png)  
 - [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
-- [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-06-Elasticsearch-常见的-8-种错误及最佳实践](https://toutiao.io/k/l9k66sj) ![](assets/new.png)  
+- [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
 - [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
-- [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
 - [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
+- [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
 - [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
-- [2020-08-06-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-06-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-06-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-06-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-06-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) ![](assets/new.png)  
-- [2020-08-06-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-06-推荐-Golang-写的即时通讯服务器-im（服务组件形式）](https://toutiao.io/k/lnt5fc0) ![](assets/new.png)  
+- [2020-08-06-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
+- [2020-08-06-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

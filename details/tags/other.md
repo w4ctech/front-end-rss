@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 19:17:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 19:31:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2462,16 +2462,16 @@
 - [2020-08-06-译-基于以太坊和-USDC-搭建去中心化金融系统](https://toutiao.io/k/0zo45wi) 
 - [2020-08-06-使用-5W1H-方法来制定计划](https://toutiao.io/k/pm0jmg9) 
 - [2020-08-06-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) 
-- [2020-08-06-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
-- [2020-08-06-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
-- [2020-08-06-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
-- [2020-08-06-推荐-如何写好一个技术预研报告?](https://toutiao.io/k/hctcyf6) 
+- [2020-08-06-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
 - [2020-08-06-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
+- [2020-08-06-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
 - [2020-08-06-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
+- [2020-08-06-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
+- [2020-08-06-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
 - [2020-08-06-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
 - [2020-08-06-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) 
-- [2020-08-06-推荐-Redis-数据结构：跳跃表](https://toutiao.io/k/pr0j6n1) 
-- [2020-08-06-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
+- [2020-08-06-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-06-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
 - [2020-08-06-【新职业-新机遇】人工智能“训练员”,让AI更聪明](https://sec.thief.one/article_content?a_id=31f47f67054d54621f883db64154ab54) 
 - [2020-08-06-【流行威胁跟踪】AgentTesla新变种活跃海外,窃密数据或遭多处泄露](https://sec.thief.one/article_content?a_id=93e986706d62502801c566314036eba3) 
 - [2020-08-06-绿盟威胁情报专栏|7月威胁热点](https://sec.thief.one/article_content?a_id=940716510e64edff29350c25be2155bb) 

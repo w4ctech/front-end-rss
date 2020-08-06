@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-06 06:48:09。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 07:02:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -504,7 +504,6 @@
 - [【互联网架构师】好奇！滴滴在-GitHub-开源了哪些有意思的项目？](https://www.ershicimi.com/p/437edb45708aa54f104689e420e66e68)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
-- [【V2EX】我试了一下-GitHub-开源项目放广告的合作，-1000-访问你们猜有多少美金？](https://www.v2ex.com/t/696112)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

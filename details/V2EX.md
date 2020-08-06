@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-06 14:10:04。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 14:19:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-Netflix-官方有说明了，-mac-看-4k](https://www.v2ex.com/t/696288) 
 - [2020-08-06-迫于苹果自带股票软件不实时，做了个看中国基金、股票行情的-alfred-插件](https://www.v2ex.com/t/696286) 
 - [2020-08-06-宽带全让这个东西占满了-hn.kd.ny.adsl-了，这是什么？](https://www.v2ex.com/t/696285) 
 - [2020-08-06-icloud-邮箱发封信至少要等-7，-8-秒](https://www.v2ex.com/t/696284) 
@@ -43,4 +44,3 @@
 - [2020-08-06-蚂蚁金服最核心的数字金融部门需要你！-Node.js、移动、互动-3D、基础架构、中后台都有](https://www.v2ex.com/t/696241) 
 - [2020-08-06-学霸君能不能去](https://www.v2ex.com/t/696240) 
 - [2020-08-06-腾讯云机翻-stackoverflow-是图啥？](https://www.v2ex.com/t/696239) 
-- [2020-08-06-npm-挂了](https://www.v2ex.com/t/696237) 

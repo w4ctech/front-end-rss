@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 03:33:23，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 03:46:27，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,26 +1052,26 @@
 </summary>
 
 
+- [2020-08-06-有没大佬实现过一个管理-magic-number-和其周边功能的库？](https://www.v2ex.com/t/696098) ![](assets/new.png)  
+- [2020-08-06-吐槽贴-十天了，我的-partner-数据库都没有建好](https://www.v2ex.com/t/696096) ![](assets/new.png)  
+- [2020-08-06-求工作-麻烦大家帮忙看下简历](https://www.v2ex.com/t/696094) ![](assets/new.png)  
+- [2020-08-06-LongBridge-多岗位招聘！](https://www.v2ex.com/t/696093) ![](assets/new.png)  
+- [2020-08-06-成都包租公司巣客跳雷，房东和租客人傻了](https://www.v2ex.com/t/696092) ![](assets/new.png)  
+- [2020-08-06-Django-3.1-发布，支持异步-view-和-middleware](https://www.v2ex.com/t/696091) ![](assets/new.png)  
+- [2020-08-06-急聘-济南-c/c++-的兄弟们看过来](https://www.v2ex.com/t/696089) ![](assets/new.png)  
 - [2020-08-06-有国区-apple-music，-icloud-车和爱奇艺包年会员吗](https://www.v2ex.com/t/696087) ![](assets/new.png)  
 - [2020-08-06-淘宝很便宜的-B-站会员什么套路](https://www.v2ex.com/t/696086) ![](assets/new.png)  
 - [2020-08-06-学习开源项目一点理解](https://www.v2ex.com/t/696085) ![](assets/new.png)  
-- [2020-08-06-米国好像要搞什么净网行动，以后美区的商店是不是很多国内应用就下不到了](https://www.v2ex.com/t/696084) ![](assets/new.png)  
 - [2020-08-06-MBP-16-寸偶尔电池不充电](https://www.v2ex.com/t/696083) ![](assets/new.png)  
 - [2020-08-06-windows-sever-可以实现对单个软件关闭-ipv6-连接吗](https://www.v2ex.com/t/696082) ![](assets/new.png)  
 - [2020-08-06-MySQL-存储了-100-万个词组，给出一字符串，怎样最快找出-100-万个词组中存在的词组？](https://www.v2ex.com/t/696081) ![](assets/new.png)  
 - [2020-08-06-小程序套用-web-view-调用扫码，退出扫码时小程序也会关闭](https://www.v2ex.com/t/696080) ![](assets/new.png)  
 - [2020-08-06-我的美区-ID-再起波澜，心累……](https://www.v2ex.com/t/696079) ![](assets/new.png)  
 - [2020-08-06-「需求明确」推荐笔记本，预算-1W-1W5，有中意的-50-元红包，谢谢-V2er](https://www.v2ex.com/t/696078) ![](assets/new.png)  
-- [2020-08-06-程序媛妹纸交流群，股票基金交流群](https://www.v2ex.com/t/696077) ![](assets/new.png)  
 - [2020-08-06-百度网盘分享网页的播放控制按钮还没有修好？](https://www.v2ex.com/t/696076) ![](assets/new.png)  
 - [2020-08-06-APP-能否接入微信公众号的客服功能？](https://www.v2ex.com/t/696075) ![](assets/new.png)  
 - [2020-08-06-你们的-Mac-夏天会采取降温措施么？都是怎么办的？](https://www.v2ex.com/t/696074) ![](assets/new.png)  
 - [2020-08-06-阿里云领券购买系列](https://www.v2ex.com/t/696073) ![](assets/new.png)  
-- [2020-08-06-武汉-小米-MiOT（智能家居）部门招人啦，没有-996，没有大小周，求简历~~~~~~~~~](https://www.v2ex.com/t/696072) ![](assets/new.png)  
-- [2020-08-06-C++-Test-Framework-Catch2-VS-GoogleTest](https://www.v2ex.com/t/696071) ![](assets/new.png)  
-- [2020-08-06-视频版-Golang-深入理解-GMP](https://www.v2ex.com/t/696070) ![](assets/new.png)  
-- [2020-08-06-请问下，通过-WifiManager-获取到的-wifi-加密信息，都是什么含义？](https://www.v2ex.com/t/696069) ![](assets/new.png)  
-- [2020-08-06-一款域名查询工具，来倾听您的建议](https://www.v2ex.com/t/696068) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,22 +1116,22 @@
 
 - [2020-08-06-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) ![](assets/new.png)  
 - [2020-08-06-报告老板，我们的-H5-页面在-iOS-11-系统上白屏了](https://toutiao.io/k/jcermc3) ![](assets/new.png)  
+- [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-06-文档理解最新技术介绍：DAS-2020-Keynote-Speech](https://toutiao.io/k/8g8xdf5) ![](assets/new.png)  
 - [2020-08-06-重大新闻｜MOSEC-X-PLUGIN-系列插件开源](https://toutiao.io/k/xwo0ntf) ![](assets/new.png)  
-- [2020-08-06-字节跳动表格存储中的事务](https://toutiao.io/k/u9v4j30) ![](assets/new.png)  
 - [2020-08-06-从别人的代码中学习-Golang（三）](https://toutiao.io/k/a5ri9g4) ![](assets/new.png)  
 - [2020-08-06-《RabbitMQ》如何保证消息的可靠性](https://toutiao.io/k/s2exysw) ![](assets/new.png)  
 - [2020-08-06-Elasticsearch-常见的-8-种错误及最佳实践](https://toutiao.io/k/l9k66sj) ![](assets/new.png)  
 - [2020-08-06-聚焦-Android-11：Jetpack](https://toutiao.io/k/mclcxu1) ![](assets/new.png)  
-- [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
 - [2020-08-06-译-使用-microbundle-打包-TypeScript-组件库](https://toutiao.io/k/q3hrhpe) ![](assets/new.png)  
 - [2020-08-06-译-如何在-JavaScript-实现休眠或等待功能，实现-sleep-函数](https://toutiao.io/k/8aqq3ii) ![](assets/new.png)  
+- [2020-08-06-如何保证-NFS-文件锁的一致性？](https://toutiao.io/k/jhrf9th) ![](assets/new.png)  
 - [2020-08-06-开源文档管理系统-Wizard-1.2.3-发布](https://toutiao.io/k/kvcyzaa) ![](assets/new.png)  
-- [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
 - [2020-08-06-PHP-进阶教程：一文理解和实现现代-PHP-框架里的-IOC-容器](https://toutiao.io/k/8gclapi) ![](assets/new.png)  
+- [2020-08-06-面试官：说说你对-ThreadLocal-的了解](https://toutiao.io/k/qw78e2s) ![](assets/new.png)  
 - [2020-08-06-Go-语言规范你掌握多少？这道题检验一下](https://toutiao.io/k/e7v5oda) ![](assets/new.png)  
-- [2020-08-06-使用-5W1H-方法来制定计划](https://toutiao.io/k/pm0jmg9) ![](assets/new.png)  
 - [2020-08-06-Webpack-原理浅析](https://toutiao.io/k/fwumleg) ![](assets/new.png)  
+- [2020-08-06-使用-5W1H-方法来制定计划](https://toutiao.io/k/pm0jmg9) ![](assets/new.png)  
 - [2020-08-06-微博基于-Flink-的机器学习实践](https://toutiao.io/k/7or5x21) ![](assets/new.png)  
 - [2020-08-06-译-基于以太坊和-USDC-搭建去中心化金融系统](https://toutiao.io/k/0zo45wi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

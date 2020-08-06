@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-06 23:18:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 23:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-MacOS-Big-Sur-Public-Beta-已经推送](https://www.v2ex.com/t/696320) 
 - [2020-08-06-有没有什么加密算法是一对多的？](https://www.v2ex.com/t/696319) 
 - [2020-08-06-能推荐一个带-GPU-的-mini-PC-嘛？](https://www.v2ex.com/t/696318) 
 - [2020-08-06-苹果市值接近-2-万亿美元](https://www.v2ex.com/t/696317) 
@@ -47,4 +48,3 @@
 - [2020-08-06-牛客网笔试让人很抓狂](https://www.v2ex.com/t/696273) 
 - [2020-08-06-深圳电信办理-5g-套餐一直不审核](https://www.v2ex.com/t/696272) 
 - [2020-08-06-有偿求解决-haproxy-负载均衡端口耗尽的问题](https://www.v2ex.com/t/696271) 
-- [2020-08-06-请问大家嵌入式软件开发刷题网站有哪些？](https://www.v2ex.com/t/696270) 

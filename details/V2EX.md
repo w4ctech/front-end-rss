@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-06 05:18:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 05:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-Android-Studio-调试小技巧](https://www.v2ex.com/t/696132) 
+- [2020-08-06-MacBook-Pro-更换-SSD-经验分享](https://www.v2ex.com/t/696131) 
 - [2020-08-06-一般满一年年假都有几天？](https://www.v2ex.com/t/696129) 
 - [2020-08-06-Mac-下，-anaconda-生成的-csv-文件只有读的权限，没有写的权限](https://www.v2ex.com/t/696128) 
 - [2020-08-06-新加坡-直招大量招募：前端/后端开发工程师/数据架构师/C++/Golang-开发工程师](https://www.v2ex.com/t/696127) 
@@ -44,6 +46,3 @@
 - [2020-08-06-淘宝很便宜的-B-站会员什么套路](https://www.v2ex.com/t/696086) 
 - [2020-08-06-学习开源项目一点理解](https://www.v2ex.com/t/696085) 
 - [2020-08-06-MBP-16-寸偶尔电池不充电](https://www.v2ex.com/t/696083) 
-- [2020-08-06-windows-sever-可以实现对单个软件关闭-ipv6-连接吗](https://www.v2ex.com/t/696082) 
-- [2020-08-06-MySQL-存储了-100-万个词组，给出一字符串，怎样最快找出-100-万个词组中存在的词组？](https://www.v2ex.com/t/696081) 
-- [2020-08-06-小程序套用-web-view-调用扫码，退出扫码时小程序也会关闭](https://www.v2ex.com/t/696080) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 15:09:26，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 15:19:11，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -761,6 +761,10 @@
 </summary>
 
 
+- [2020-08-06-nestjs+vue+ts打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/465cc2c19696694ea17500cbac43a394) ![](assets/new.png)  
+- [2020-08-06-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/955462dab8f7b36e725fa07924f35a80) ![](assets/new.png)  
+- [2020-08-05-解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195) ![](assets/new.png)  
+- [2020-08-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/76189a0a1f3ba26bc46c4d82192e7253) ![](assets/new.png)  
 - [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) ![](assets/new.png)  
 - [2020-08-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4a3d870adc54773237476cc960c38bbe) ![](assets/new.png)  
 - [2020-08-03-利用-JS-实现多种图片相似度算法](https://www.ershicimi.com/p/560830dcf48ace0ef9cc827ad409f3f4) ![](assets/new.png)  
@@ -777,10 +781,6 @@
 - [2020-07-27-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/bb2efd1c2dbafb15aa15a8e61712e4da) ![](assets/new.png)  
 - [2020-07-26-整理几个超实用的前端提效-shell-命令](https://www.ershicimi.com/p/11453dae97223b339c15b1a431ca32d5) ![](assets/new.png)  
 - [2020-07-26-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/694a545142644ac909c84f3607f94194) ![](assets/new.png)  
-- [2020-07-25-奇舞周刊第-357-期：谷歌-Web-开发者大会的重要发布](https://www.ershicimi.com/p/844ceebc9502351df936f22ed518f92a) ![](assets/new.png)  
-- [2020-07-23-仿照React源码流程打造90行代码的Hooks](https://www.ershicimi.com/p/ecd81065416564e9736e95053e239a45) ![](assets/new.png)  
-- [2020-07-23-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8751982bbada17825d32dea61664b018) ![](assets/new.png)  
-- [2020-07-22-玩转混合加密](https://www.ershicimi.com/p/055342236779067d54bce55ab3e1da51) ![](assets/new.png)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-06-为什么跑集成测试时会出现-mysql-死锁](https://www.v2ex.com/t/696299) ![](assets/new.png)  
 - [2020-08-06-官翻-mbp16-寸小踩雷，吐个槽](https://www.v2ex.com/t/696298) ![](assets/new.png)  
 - [2020-08-06-大学生创业补助？（研究生）](https://www.v2ex.com/t/696297) ![](assets/new.png)  
 - [2020-08-06-现在北京找工作的行情怎么样啊-前端职位](https://www.v2ex.com/t/696296) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-06-迫于很多人问，放出「the.top」各大网站热门资讯-API](https://www.v2ex.com/t/696279) ![](assets/new.png)  
 - [2020-08-06-湖南长沙-ETL/数仓/大数据架构/数据分析挖掘-帮内推](https://www.v2ex.com/t/696278) ![](assets/new.png)  
 - [2020-08-06-想把单位的网络拓扑图，结合单位的各个楼的地图，一起画出来，有工具推荐么](https://www.v2ex.com/t/696276) ![](assets/new.png)  
-- [2020-08-06-鉴于现在代缴社保、公积金的-app-太贵，想撸一个，你们想交哪个城市的？](https://www.v2ex.com/t/696275) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

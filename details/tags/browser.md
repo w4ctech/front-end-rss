@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-06 09:02:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 09:09:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -43,6 +43,7 @@
 - [2020-08-06-使用了宝塔搭建了反向代理开启缓存后，能正常运行。](https://www.v2ex.com/t/696201) 
 - [2020-08-06-Laravel-登录状态跨域](https://www.v2ex.com/t/696200) 
 - [2020-08-06-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
+- [2020-08-06-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
 - [2020-08-05-奇安信荣登《互联网周刊》2020网络安全创新排行第一名](https://sec.thief.one/article_content?a_id=0137c1fa9b0036268ba7339fcb17b0d9) 
 - [2020-08-05-酷德啄木鸟:正本清源,安全从源代码开始丨沙盒大赛十强特写](https://sec.thief.one/article_content?a_id=df541cdd119a7c3585c03d6ff1272e86) 
 - [2020-08-05-【安全通知】PyPI-官方仓库遭遇request恶意包投毒](https://sec.thief.one/article_content?a_id=6c38c6af327dd81f877a1484a6f3772b) 

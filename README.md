@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 16:19:47，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 16:31:26，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)  
+- [京东设计中心](#京东设计中心)![](assets/dot.png)   
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -729,6 +729,16 @@
 </summary>
 
 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
+- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
+- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
+- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
+- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
+- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
+- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
+- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
+- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1042,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-06-用-document.createElement-创建的-canvas-能导出-图像吗？](https://www.v2ex.com/t/696309) ![](assets/new.png)  
 - [2020-08-06-公众号最近是不是流行放黑色方块的加密推文？](https://www.v2ex.com/t/696308) ![](assets/new.png)  
 - [2020-08-06-20200807-午夜俱乐部](https://www.v2ex.com/t/696307) ![](assets/new.png)  
 - [2020-08-06-5-年了，-OneNote-一直同步失败](https://www.v2ex.com/t/696305) ![](assets/new.png)  
@@ -1061,7 +1072,6 @@
 - [2020-08-06-在-iPhone-上的-Safari-浏览器中查看-Mac-打开的网页，发现有-10-来个-Mac-设备](https://www.v2ex.com/t/696289) ![](assets/new.png)  
 - [2020-08-06-Netflix-官方有说明了，-mac-看-4k](https://www.v2ex.com/t/696288) ![](assets/new.png)  
 - [2020-08-06-迫于苹果自带股票软件不实时，做了个看中国基金、股票行情的-alfred-插件](https://www.v2ex.com/t/696286) ![](assets/new.png)  
-- [2020-08-06-宽带全让这个东西占满了-hn.kd.ny.adsl-了，这是什么？](https://www.v2ex.com/t/696285) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

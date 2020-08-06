@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-06 16:19:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-06 16:31:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-06-用-document.createElement-创建的-canvas-能导出-图像吗？](https://www.v2ex.com/t/696309) 
 - [2020-08-06-公众号最近是不是流行放黑色方块的加密推文？](https://www.v2ex.com/t/696308) 
 - [2020-08-06-20200807-午夜俱乐部](https://www.v2ex.com/t/696307) 
 - [2020-08-06-5-年了，-OneNote-一直同步失败](https://www.v2ex.com/t/696305) 
@@ -42,5 +43,3 @@
 - [2020-08-06-刚-750-买了个日版健身环，结果国行版过审了。。。](https://www.v2ex.com/t/696267) 
 - [2020-08-06-中国电信与腾讯联合开发“游戏宽带”-不需要新办宽带](https://www.v2ex.com/t/696264) 
 - [2020-08-06-有没有基于-Fluent-Design-的成品-web-前端-UI？](https://www.v2ex.com/t/696261) 
-- [2020-08-06-淘宝扫描相册实锤？](https://www.v2ex.com/t/696260) 
-- [2020-08-06-es-7.x-如何全局设置-custom-analyzer-？？](https://www.v2ex.com/t/696259) 

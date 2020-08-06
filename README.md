@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-06 11:31:29，:rocket: 更新条数: +3482， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-06 11:33:25，:rocket: 更新条数: +3502， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端开发博客](#前端开发博客)![](assets/dot.png)   
 - [前端大学](#前端大学)![](assets/dot.png)   
 - [前端外刊评论](#前端外刊评论)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [前端迷](#前端迷)![](assets/dot.png)   
 - [全栈前端精选](#全栈前端精选)![](assets/dot.png)   
 - [政采云前端团队](#政采云前端团队)![](assets/dot.png)   
@@ -446,6 +446,26 @@
 </summary>
 
 
+- [2020-08-06-Flutter-1.20正式发布，新特性解读！](https://www.ershicimi.com/p/47c1db4e66630d3dbad0eb6107daa23b) ![](assets/new.png)  
+- [2020-08-06-微软对-TikTok-可能的三种运作方式](https://www.ershicimi.com/p/520c44a4e48c56e40e869287add2199f) ![](assets/new.png)  
+- [2020-08-05-Flutter-初学者必读的高级布局规则](https://www.ershicimi.com/p/e8a2dcb94152bdaf483cc9c90d30036a) ![](assets/new.png)  
+- [2020-08-05-TypeScript-新版网站上线：带来了新的导航机制](https://www.ershicimi.com/p/58349e95c656106f3a81063652684787) ![](assets/new.png)  
+- [2020-08-05-iOS工程师的自我修养-|-极客时间](https://www.ershicimi.com/p/8093e3d376e5069381761de9f62121cd) ![](assets/new.png)  
+- [2020-08-04-2020年不容错过的十大JavaScript库](https://www.ershicimi.com/p/072db7b80dfc6fcd63f89b4ea9510d7a) ![](assets/new.png)  
+- [2020-08-04-程序员简历的-8-个建议](https://www.ershicimi.com/p/e47a77e26f69847b990f9dc6cc497f8f) ![](assets/new.png)  
+- [2020-08-03-微前端到底有啥用？](https://www.ershicimi.com/p/806338e95710f9329fcb51e2604f1065) ![](assets/new.png)  
+- [2020-08-03-谷歌7年前就开始收集安卓用户的敏感信息了？](https://www.ershicimi.com/p/710ca7add1b7f2cda2ae04a689193438) ![](assets/new.png)  
+- [2020-08-03-前端人如何构建能力模型，高薪成长？-|-极客时间](https://www.ershicimi.com/p/ac76b421286fc2b59318b7522bb61efb) ![](assets/new.png)  
+- [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) ![](assets/new.png)  
+- [2020-07-31-为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376) ![](assets/new.png)  
+- [2020-07-31-InfoQ-行业全景观察：云计算成为数字经济必要基础设施](https://www.ershicimi.com/p/6e5444930331c8282cb80f3411f29bae) ![](assets/new.png)  
+- [2020-07-31-如果这三点全中，你需要认真考虑-API-这项技术了-|-活动推荐](https://www.ershicimi.com/p/27ac2c9e22f28315102cddb3011b0c63) ![](assets/new.png)  
+- [2020-07-30-前端开发的瓶颈与未来之路](https://www.ershicimi.com/p/c516b16d7ef10fbbd5344830f415abd8) ![](assets/new.png)  
+- [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379) ![](assets/new.png)  
+- [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) ![](assets/new.png)  
+- [2020-07-29-怎样利用开源软件赚钱？](https://www.ershicimi.com/p/fab366d7816dbd6275b520f41fa5fe57) ![](assets/new.png)  
+- [2020-07-29-为什么我不再用Vue，改用React？-|-极客大学](https://www.ershicimi.com/p/49ac182fb0f22e36c4760193c1a515bf) ![](assets/new.png)  
+- [2020-07-28-为什么总有人觉得前端很简单？](https://www.ershicimi.com/p/5b34275d64c064618163f1349b8f8961) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

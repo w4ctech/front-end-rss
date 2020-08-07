@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 08:10:42，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 08:20:27，:rocket: 更新条数: +3284， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-07-istio-新人，请教一下官网-bookinfo-示例的问题？](https://www.v2ex.com/t/696501) ![](assets/new.png)  
+- [2020-08-07-苹果可能用不了微信？（没错，我，即是标题党）](https://www.v2ex.com/t/696500) ![](assets/new.png)  
+- [2020-08-07-Web-全栈招聘实习](https://www.v2ex.com/t/696499) ![](assets/new.png)  
+- [2020-08-07-jquery-后台模板的表格组件，用什么比较好？](https://www.v2ex.com/t/696498) ![](assets/new.png)  
+- [2020-08-07-掉进了融合硬盘这个巨坑，想升级-SSD](https://www.v2ex.com/t/696497) ![](assets/new.png)  
 - [2020-08-07-mac-扩容怎么办？移动硬盘有推荐的吗？](https://www.v2ex.com/t/696496) ![](assets/new.png)  
 - [2020-08-07-求助一个-Linux-远程开发的问题](https://www.v2ex.com/t/696495) ![](assets/new.png)  
 - [2020-08-07-买小米充电宝自带的那个很短的充电线拿出来充手机好快，是因为它短吗？](https://www.v2ex.com/t/696492) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-07-程序猿要不要认证一个头条号？](https://www.v2ex.com/t/696480) ![](assets/new.png)  
 - [2020-08-07-求解答-css-格式相同，-x-方向上却出现滚动条](https://www.v2ex.com/t/696479) ![](assets/new.png)  
 - [2020-08-07-感觉-csdn-上-80%的文章都是互联网垃圾](https://www.v2ex.com/t/696478) ![](assets/new.png)  
-- [2020-08-07-BuyVM-CN2-GIA-自建网盘+梯效果怎么样？](https://www.v2ex.com/t/696477) ![](assets/new.png)  
-- [2020-08-07-bilibili-的首页推荐如何重置？](https://www.v2ex.com/t/696475) ![](assets/new.png)  
-- [2020-08-07-计算单精度和半精度浮点数的矩阵运算时，-GPU-相比-CPU-是否有数量级的领先？](https://www.v2ex.com/t/696474) ![](assets/new.png)  
-- [2020-08-07-Bug-Sur-公测版推送了，主力机升级稳么？](https://www.v2ex.com/t/696473) ![](assets/new.png)  
-- [2020-08-07-abp-vnext-微服务之间怎么进行通讯](https://www.v2ex.com/t/696472) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1122,8 +1122,8 @@
 - [2020-08-07-程序员的-“三十而已”](https://toutiao.io/k/8qpovka) ![](assets/new.png)  
 - [2020-08-07-你真的了解线程池-ThreadPoolExecutor-吗？](https://toutiao.io/k/vlu44m2) ![](assets/new.png)  
 - [2020-08-07-详解自然语言处理-5-大语义分析技术及-14-类应用](https://toutiao.io/k/twgudj2) ![](assets/new.png)  
-- [2020-08-07-GitHub-要改默认分支名了，你的开源项目受影响了吗？](https://toutiao.io/k/g1v562t) ![](assets/new.png)  
 - [2020-08-07-Kubernetes-Pod-入门指南](https://toutiao.io/k/ttqrpr2) ![](assets/new.png)  
+- [2020-08-07-GitHub-要改默认分支名了，你的开源项目受影响了吗？](https://toutiao.io/k/g1v562t) ![](assets/new.png)  
 - [2020-08-07-敲黑板了，这是新知识点](https://toutiao.io/k/vx31xf3) ![](assets/new.png)  
 - [2020-08-07-我为何弃用-Jetpack-的-App-Startup？](https://toutiao.io/k/6o7r0ph) ![](assets/new.png)  
 - [2020-08-07-你真的了解热度排行榜吗？](https://toutiao.io/k/1uulona) ![](assets/new.png)  

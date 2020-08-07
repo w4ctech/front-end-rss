@@ -15699,6 +15699,46 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "买小米充电宝自带的那个很短的充电线拿出来充手机好快，是因为它短吗？",
+        "link": "https://www.v2ex.com/t/696492",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "对职业发展感到迷茫的技术人，不妨读一读《技术管理的世界观》，理解技术组织运转背后的客观规律。",
+        "link": "https://www.v2ex.com/t/696491",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "专利检索 api 推荐。。。",
+        "link": "https://www.v2ex.com/t/696490",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "收 adsense 老号，预算 2000RMB",
+        "link": "https://www.v2ex.com/t/696489",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "13 寸 mbp 触控板摩擦力大的问题",
+        "link": "https://www.v2ex.com/t/696488",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "周末两天准备深度试驾一下凯美瑞汽油顶配，看看符合不符合自己需求，大家有什么建议么，或者有什么注意点？",
+        "link": "https://www.v2ex.com/t/696487",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "AndroidStudio 无法下载啦",
+        "link": "https://www.v2ex.com/t/696486",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "关于成为个人开发者的迷思",
+        "link": "https://www.v2ex.com/t/696485",
+        "date": "2020-08-07"
+      },
+      {
         "title": "非国区 ID 的 V 友进来看看",
         "link": "https://www.v2ex.com/t/696483",
         "date": "2020-08-07"
@@ -15846,36 +15886,6 @@
       {
         "title": "为什么厦门没有靠谱的互联网公司？",
         "link": "https://www.v2ex.com/t/696446",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "iPhone 8 连接电脑后权限弹窗无法关闭",
-        "link": "https://www.v2ex.com/t/696444",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "想去上海或者深圳寻求发展，有没有什么建议",
-        "link": "https://www.v2ex.com/t/696443",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "现在在 tx，年纪大了想稳定，券商和银行软开哪个好点？",
-        "link": "https://www.v2ex.com/t/696442",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "昨天和领导一起面试了一个牛逼疯了的前端高级开发/前端架构师",
-        "link": "https://www.v2ex.com/t/696441",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "Big Sur 的动态歌词更新了吗？",
-        "link": "https://www.v2ex.com/t/696438",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "细思恐极！用 iPhone 备忘录扫描文件竟被识别内容！",
-        "link": "https://www.v2ex.com/t/696437",
         "date": "2020-08-07"
       }
     ]
@@ -16093,8 +16103,8 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-07"
       },
       {
@@ -16103,8 +16113,18 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-07"
       },
       {
@@ -16113,28 +16133,18 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-07"
-      },
-      {
         "title": "[推荐] 一文读懂 Web 安全",
         "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] Redis 数据结构：跳跃表",
-        "link": "https://toutiao.io/k/pr0j6n1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-07"
       },
       {
@@ -16143,8 +16153,8 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-08-07"
       },
       {
@@ -16153,18 +16163,18 @@
         "date": "2020-08-07"
       },
       {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
+        "date": "2020-08-07"
+      },
+      {
         "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
         "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-07"
       }
     ]

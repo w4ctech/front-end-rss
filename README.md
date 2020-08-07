@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 07:48:30，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 08:02:44，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,14 @@
 </summary>
 
 
+- [2020-08-07-买小米充电宝自带的那个很短的充电线拿出来充手机好快，是因为它短吗？](https://www.v2ex.com/t/696492) ![](assets/new.png)  
+- [2020-08-07-对职业发展感到迷茫的技术人，不妨读一读《技术管理的世界观》，理解技术组织运转背后的客观规律。](https://www.v2ex.com/t/696491) ![](assets/new.png)  
+- [2020-08-07-专利检索-api-推荐。。。](https://www.v2ex.com/t/696490) ![](assets/new.png)  
+- [2020-08-07-收-adsense-老号，预算-2000RMB](https://www.v2ex.com/t/696489) ![](assets/new.png)  
+- [2020-08-07-13-寸-mbp-触控板摩擦力大的问题](https://www.v2ex.com/t/696488) ![](assets/new.png)  
+- [2020-08-07-周末两天准备深度试驾一下凯美瑞汽油顶配，看看符合不符合自己需求，大家有什么建议么，或者有什么注意点？](https://www.v2ex.com/t/696487) ![](assets/new.png)  
+- [2020-08-07-AndroidStudio-无法下载啦](https://www.v2ex.com/t/696486) ![](assets/new.png)  
+- [2020-08-07-关于成为个人开发者的迷思](https://www.v2ex.com/t/696485) ![](assets/new.png)  
 - [2020-08-07-非国区-ID-的-V-友进来看看](https://www.v2ex.com/t/696483) ![](assets/new.png)  
 - [2020-08-07-基于-docker，告别本地开发中的环境问题](https://www.v2ex.com/t/696482) ![](assets/new.png)  
 - [2020-08-07-程序猿要不要认证一个头条号？](https://www.v2ex.com/t/696480) ![](assets/new.png)  
@@ -1064,14 +1072,6 @@
 - [2020-08-07-abp-vnext-微服务之间怎么进行通讯](https://www.v2ex.com/t/696472) ![](assets/new.png)  
 - [2020-08-07-讨论一下-data-和-date](https://www.v2ex.com/t/696471) ![](assets/new.png)  
 - [2020-08-07-Linux-下,检测程序挂掉并自动重启的正确姿势是什么](https://www.v2ex.com/t/696468) ![](assets/new.png)  
-- [2020-08-07-创业公司和外包选择](https://www.v2ex.com/t/696467) ![](assets/new.png)  
-- [2020-08-07-请教一个-sql-怎么写](https://www.v2ex.com/t/696466) ![](assets/new.png)  
-- [2020-08-07-用-PHP-克隆一个-V2EX，大约要多少钱呢？](https://www.v2ex.com/t/696465) ![](assets/new.png)  
-- [2020-08-07-一起搞副业呀](https://www.v2ex.com/t/696463) ![](assets/new.png)  
-- [2020-08-07-动森销量-2240-万（发售五个月，-60-刀原价无降价），进入游戏历史销量榜前五十，消息源自任天堂财报](https://www.v2ex.com/t/696462) ![](assets/new.png)  
-- [2020-08-07-西安运维开发不加班运维懂点-Python-开发岗，最高-14K，-13-薪，有兴趣的小伙伴快来！](https://www.v2ex.com/t/696461) ![](assets/new.png)  
-- [2020-08-07-《三十而已》里，陈养鱼这种在领导面前的窝囊样子像极了-996-互联网公司的奋斗者。家算什么家人算什么，比起领导，客户，工作。全不重要。甚至我在张江听过张江...](https://www.v2ex.com/t/696460) ![](assets/new.png)  
-- [2020-08-07-有人会搞套路云的-KVM-架构镜像吗](https://www.v2ex.com/t/696459) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 08:02:44，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 08:10:42，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-07-mac-扩容怎么办？移动硬盘有推荐的吗？](https://www.v2ex.com/t/696496) ![](assets/new.png)  
+- [2020-08-07-求助一个-Linux-远程开发的问题](https://www.v2ex.com/t/696495) ![](assets/new.png)  
 - [2020-08-07-买小米充电宝自带的那个很短的充电线拿出来充手机好快，是因为它短吗？](https://www.v2ex.com/t/696492) ![](assets/new.png)  
 - [2020-08-07-对职业发展感到迷茫的技术人，不妨读一读《技术管理的世界观》，理解技术组织运转背后的客观规律。](https://www.v2ex.com/t/696491) ![](assets/new.png)  
 - [2020-08-07-专利检索-api-推荐。。。](https://www.v2ex.com/t/696490) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-07-计算单精度和半精度浮点数的矩阵运算时，-GPU-相比-CPU-是否有数量级的领先？](https://www.v2ex.com/t/696474) ![](assets/new.png)  
 - [2020-08-07-Bug-Sur-公测版推送了，主力机升级稳么？](https://www.v2ex.com/t/696473) ![](assets/new.png)  
 - [2020-08-07-abp-vnext-微服务之间怎么进行通讯](https://www.v2ex.com/t/696472) ![](assets/new.png)  
-- [2020-08-07-讨论一下-data-和-date](https://www.v2ex.com/t/696471) ![](assets/new.png)  
-- [2020-08-07-Linux-下,检测程序挂掉并自动重启的正确姿势是什么](https://www.v2ex.com/t/696468) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

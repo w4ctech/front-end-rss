@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-07 15:34:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 15:46:22。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -238,7 +238,6 @@
 
 
 - [【知乎日报】知乎故事-|-男生和女生长期一起打游戏会产生感觉吗？](https://www.ershicimi.com/p/a9ff7b49081c79865f8015622024b48c)
-- [【V2EX】网页游戏测试和调整来一个，要求会源码修改和图片提取网页制作！价格你开！](https://www.v2ex.com/t/696610)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

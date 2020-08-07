@@ -1,12 +1,14 @@
-:alarm_clock: 更新时间: 2020-08-07 04:19:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 04:31:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
-- [2020-08-07-如果严格遵守各国数据保护，那么如何实现论坛、微博这类的应用？](https://www.v2ex.com/t/696416) 
-- [2020-08-07-上海-夜里开空调冷，不开热，睡眠质量差。白天浑浑噩噩的](https://www.v2ex.com/t/696414) 
+- [2020-08-07-互联网主权化，感觉稳定的代理工具需求会大增](https://www.v2ex.com/t/696422) 
+- [2020-08-07-使用$mout-方法挂载一个组件后，-Props-和插槽的值为何渲染不出来？](https://www.v2ex.com/t/696421) 
+- [2020-08-07-iMac-自己加内存-=-放弃保修？](https://www.v2ex.com/t/696420) 
+- [2020-08-07-北京25K-35K965-RightCapital-高级-React-前端开发](https://www.v2ex.com/t/696419) 
 - [2020-08-07-有人知道怎么在-termux-上编译-sqlcipher-吗？](https://www.v2ex.com/t/696413) 
 - [2020-08-07-更新一个基于-tp5-+-vue-全家桶开发的文档管理工具](https://www.v2ex.com/t/696412) 
 - [2020-08-07-请教一下当前大厂短视频-app-是用-ffmpeg-在安卓转码的么？](https://www.v2ex.com/t/696411) 
@@ -28,7 +30,6 @@
 - [2020-08-07-奇思妙想-收集骗术大全的信息平台，有人敢做不](https://www.v2ex.com/t/696390) 
 - [2020-08-07-阿里云就是个骗子云，自行更改服务内容以增加收费](https://www.v2ex.com/t/696389) 
 - [2020-08-07-Redis-的哨兵模式为什么还有人用？](https://www.v2ex.com/t/696387) 
-- [2020-08-07-今年上半年最后悔的一件事是什么？](https://www.v2ex.com/t/696386) 
 - [2020-08-07-ceph-3-副本丢失-rbd-object-数据-L-版本-12.2.12](https://www.v2ex.com/t/696385) 
 - [2020-08-07-现在成都搜索、推荐类算法的岗位需求怎么样？](https://www.v2ex.com/t/696384) 
 - [2020-08-07-ros-软路由异地组网](https://www.v2ex.com/t/696383) 
@@ -40,6 +41,3 @@
 - [2020-08-07-突然想到一个问题，何为编程思想](https://www.v2ex.com/t/696375) 
 - [2020-08-07-校招美团点评-2021-届秋季校招开始了](https://www.v2ex.com/t/696374) 
 - [2020-08-07-静态集成腾讯-TBS-X5-内核-WebView，从微信提取新版-30M-浏览器内核打包进-apk](https://www.v2ex.com/t/696373) 
-- [2020-08-07-华为是不是不能用-Google-play-了](https://www.v2ex.com/t/696372) 
-- [2020-08-07-关于“Designing-Data-Intensive-Applications---CHAPTER-5-Replication---Leaderless-Replication”的疑问](https://www.v2ex.com/t/696370) 
-- [2020-08-07-88VIP-纯听歌角度-，选虾米还是网抑好一点？](https://www.v2ex.com/t/696369) 

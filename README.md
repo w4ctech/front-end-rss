@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 12:48:39，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 13:02:13，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-07-今天开源了一个自己写的数据仓库原型](https://www.v2ex.com/t/696587) ![](assets/new.png)  
 - [2020-08-07-有没有类似-Jeecg-Boot-这样的脚手架项目？](https://www.v2ex.com/t/696586) ![](assets/new.png)  
 - [2020-08-07-网易内推互娱这边现在大量招人，想换工作的大佬看过来😏](https://www.v2ex.com/t/696585) ![](assets/new.png)  
 - [2020-08-07-感觉自己太容易哭了](https://www.v2ex.com/t/696583) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-07-shopee-招聘专场内推-8/15-半年内未投过-shopee-相关职位](https://www.v2ex.com/t/696564) ![](assets/new.png)  
 - [2020-08-07-新注册的苹果个人开发者的-App-简介开始显示中文姓名了吗？](https://www.v2ex.com/t/696563) ![](assets/new.png)  
 - [2020-08-07-真想恨恨的骂一下苹果，来解解气啊！](https://www.v2ex.com/t/696562) ![](assets/new.png)  
-- [2020-08-07-高级系统工程师（laas/Naas-方向），不加班，薪水好谈，地点：上海](https://www.v2ex.com/t/696561) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,8 +1119,8 @@
 - [2020-08-07-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-07-用-Python-了解一下最炫国漫《雾山五行》](https://toutiao.io/k/bdpkwed) ![](assets/new.png)  
 - [2020-08-07-Uniswap-非权威开发指南（v1-版）](https://toutiao.io/k/wrlrf1b) ![](assets/new.png)  
-- [2020-08-07-程序员的-“三十而已”](https://toutiao.io/k/8qpovka) ![](assets/new.png)  
 - [2020-08-07-你真的了解线程池-ThreadPoolExecutor-吗？](https://toutiao.io/k/vlu44m2) ![](assets/new.png)  
+- [2020-08-07-程序员的-“三十而已”](https://toutiao.io/k/8qpovka) ![](assets/new.png)  
 - [2020-08-07-Kubernetes-Pod-入门指南](https://toutiao.io/k/ttqrpr2) ![](assets/new.png)  
 - [2020-08-07-GitHub-要改默认分支名了，你的开源项目受影响了吗？](https://toutiao.io/k/g1v562t) ![](assets/new.png)  
 - [2020-08-07-详解自然语言处理-5-大语义分析技术及-14-类应用](https://toutiao.io/k/twgudj2) ![](assets/new.png)  
@@ -1145,6 +1145,7 @@
 </summary>
 
 
+- [2020-08-07-2020中国网络安全年会即将召开-强大嘉宾阵容不容错过!](https://sec.thief.one/article_content?a_id=ed7075379c3f2f8a6143355bcfb50245) ![](assets/new.png)  
 - [2020-08-07-红蓝对抗之域名搜集方法总结](https://sec.thief.one/article_content?a_id=ba24788da9892140bafa6671578aee93) ![](assets/new.png)  
 - [2020-08-07-新一代数据泄露防护技术的思考与最佳实践](https://sec.thief.one/article_content?a_id=10a1daf7fe45527f186ad42fe5b6ac12) ![](assets/new.png)  
 - [2020-08-07-不能说的秘密](https://sec.thief.one/article_content?a_id=f75a2210aca97b206c599bb257db6328) ![](assets/new.png)  
@@ -1164,7 +1165,6 @@
 - [2020-08-07-PE-Tree:一个恶意软件逆向工程分析开源工具](https://sec.thief.one/article_content?a_id=323791b019b498d09e7d94398949de7a) ![](assets/new.png)  
 - [2020-08-07-Weblogic-2020-2555&2883分析](https://sec.thief.one/article_content?a_id=5e88fd6a0aae959abb15d4f58a321167) ![](assets/new.png)  
 - [2020-08-07-交行、招行分别被罚100万:对客户个人信息未尽安全保护义务](https://sec.thief.one/article_content?a_id=a901750498cf374bb1d51b7ae4cd3f58) ![](assets/new.png)  
-- [2020-08-07-Python编程语言的核心是什么?](https://sec.thief.one/article_content?a_id=e0dbd1228f4186c315d8497d80a6a138) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

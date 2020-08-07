@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-07 20:02:54。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 20:10:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-PHP-echo-出来的-bool-类型的值，为什么会被转成-int?](https://www.v2ex.com/t/696631) 
 - [2020-08-07-有人用-aqara-homekit-吗？](https://www.v2ex.com/t/696630) 
 - [2020-08-07-某知名互联网公司正在劝退大龄码农？](https://www.v2ex.com/t/696629) 
 - [2020-08-07-有人喝了某气森林的无糖饮料后有不适感的吗？](https://www.v2ex.com/t/696628) 

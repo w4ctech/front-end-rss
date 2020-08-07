@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 20:02:54，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 20:10:36，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-07-PHP-echo-出来的-bool-类型的值，为什么会被转成-int?](https://www.v2ex.com/t/696631) ![](assets/new.png)  
 - [2020-08-07-有人用-aqara-homekit-吗？](https://www.v2ex.com/t/696630) ![](assets/new.png)  
 - [2020-08-07-某知名互联网公司正在劝退大龄码农？](https://www.v2ex.com/t/696629) ![](assets/new.png)  
 - [2020-08-07-有人喝了某气森林的无糖饮料后有不适感的吗？](https://www.v2ex.com/t/696628) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-07-吐槽一下申请苹果企业开发者账号的恶心](https://www.v2ex.com/t/696608) ![](assets/new.png)  
 - [2020-08-07-自己的个人-App-被破解了应该怎么办？](https://www.v2ex.com/t/696607) ![](assets/new.png)  
 - [2020-08-07-一台主机真就无法兼得-Hackintosh-与机器学习么](https://www.v2ex.com/t/696606) ![](assets/new.png)  
-- [2020-08-07-请教一个分布式问题，-具体请看正文描述，非常感谢！](https://www.v2ex.com/t/696605) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

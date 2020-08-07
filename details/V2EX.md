@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-07 04:09:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 04:19:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-如果严格遵守各国数据保护，那么如何实现论坛、微博这类的应用？](https://www.v2ex.com/t/696416) 
 - [2020-08-07-上海-夜里开空调冷，不开热，睡眠质量差。白天浑浑噩噩的](https://www.v2ex.com/t/696414) 
 - [2020-08-07-有人知道怎么在-termux-上编译-sqlcipher-吗？](https://www.v2ex.com/t/696413) 
 - [2020-08-07-更新一个基于-tp5-+-vue-全家桶开发的文档管理工具](https://www.v2ex.com/t/696412) 
@@ -42,5 +43,3 @@
 - [2020-08-07-华为是不是不能用-Google-play-了](https://www.v2ex.com/t/696372) 
 - [2020-08-07-关于“Designing-Data-Intensive-Applications---CHAPTER-5-Replication---Leaderless-Replication”的疑问](https://www.v2ex.com/t/696370) 
 - [2020-08-07-88VIP-纯听歌角度-，选虾米还是网抑好一点？](https://www.v2ex.com/t/696369) 
-- [2020-08-07-关于-ESXi-虚拟机间拷贝速度慢的问题](https://www.v2ex.com/t/696368) 
-- [2020-08-07-直接去？益田假日广场](https://www.v2ex.com/t/696366) 

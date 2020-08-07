@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 04:09:52，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 04:19:31，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-07-如果严格遵守各国数据保护，那么如何实现论坛、微博这类的应用？](https://www.v2ex.com/t/696416) ![](assets/new.png)  
 - [2020-08-07-上海-夜里开空调冷，不开热，睡眠质量差。白天浑浑噩噩的](https://www.v2ex.com/t/696414) ![](assets/new.png)  
 - [2020-08-07-有人知道怎么在-termux-上编译-sqlcipher-吗？](https://www.v2ex.com/t/696413) ![](assets/new.png)  
 - [2020-08-07-更新一个基于-tp5-+-vue-全家桶开发的文档管理工具](https://www.v2ex.com/t/696412) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-07-请教各位，有没有可以访问-app-store-登录-appleid-的-IOS-模拟器](https://www.v2ex.com/t/696394) ![](assets/new.png)  
 - [2020-08-07-“精通”-Java-，学习-Kotlin-的话需要很久吗？](https://www.v2ex.com/t/696393) ![](assets/new.png)  
 - [2020-08-07-给妈妈买-iPhone12-还是-iPad-Air?](https://www.v2ex.com/t/696392) ![](assets/new.png)  
-- [2020-08-07-奇思妙想-收集骗术大全的信息平台，有人敢做不](https://www.v2ex.com/t/696390) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1147,11 +1147,11 @@
 - [2020-08-07-我为何弃用-Jetpack-的-App-Startup？](https://toutiao.io/k/6o7r0ph) ![](assets/new.png)  
 - [2020-08-07-敲黑板了，这是新知识点](https://toutiao.io/k/vx31xf3) ![](assets/new.png)  
 - [2020-08-07-你真的了解热度排行榜吗？](https://toutiao.io/k/1uulona) ![](assets/new.png)  
-- [2020-08-07-谷歌极速人脸、手、人体姿态分析-Blaze-算法家族](https://toutiao.io/k/pw7gu5l) ![](assets/new.png)  
 - [2020-08-07-译-JavaScript-中的缓存-API](https://toutiao.io/k/0kk1z5f) ![](assets/new.png)  
+- [2020-08-07-谷歌极速人脸、手、人体姿态分析-Blaze-算法家族](https://toutiao.io/k/pw7gu5l) ![](assets/new.png)  
 - [2020-08-07-连接跟踪-conntrack：原理、应用及-Linux-内核实现](https://toutiao.io/k/pr1maxv) ![](assets/new.png)  
-- [2020-08-07-不要一把梭了，这才是-SQL-优化的正确姿势](https://toutiao.io/k/770t8b3) ![](assets/new.png)  
 - [2020-08-07-那些年我用过的-WORDPRESS-插件](https://toutiao.io/k/ifls6s1) ![](assets/new.png)  
+- [2020-08-07-不要一把梭了，这才是-SQL-优化的正确姿势](https://toutiao.io/k/770t8b3) ![](assets/new.png)  
 - [2020-08-07-一文说通-C#-中的异步编程补遗](https://toutiao.io/k/fxd4whr) ![](assets/new.png)  
 - [2020-08-07-Go-语言学习之-interface](https://toutiao.io/k/slwsqn2) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)

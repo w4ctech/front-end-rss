@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-07 02:10:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 02:20:47。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-关于-ESXi-虚拟机间拷贝速度慢的问题](https://www.v2ex.com/t/696368) 
+- [2020-08-07-直接去？益田假日广场](https://www.v2ex.com/t/696366) 
 - [2020-08-07-关于苹果设备证书问题](https://www.v2ex.com/t/696365) 
 - [2020-08-07-求助如何使用-js-脚本（或油猴脚本）点击-class-按钮](https://www.v2ex.com/t/696363) 
 - [2020-08-07-MAC-上优秀的-PDF-阅读器+批注编辑软件-——-PDF-Expert](https://www.v2ex.com/t/696362) 
@@ -43,6 +45,3 @@
 - [2020-08-07-关于重现-NEURAL-TRANSFER-遇到的问题](https://www.v2ex.com/t/696321) 
 - [2020-08-06-MacOS-Big-Sur-Public-Beta-已经推送](https://www.v2ex.com/t/696320) 
 - [2020-08-06-有没有什么加密算法是一对多的？](https://www.v2ex.com/t/696319) 
-- [2020-08-06-能推荐一个带-GPU-的-mini-PC-嘛？](https://www.v2ex.com/t/696318) 
-- [2020-08-06-苹果市值接近-2-万亿美元](https://www.v2ex.com/t/696317) 
-- [2020-08-06-iPad-版的-YouTube-app-是不是坏了？](https://www.v2ex.com/t/696316) 

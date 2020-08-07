@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 06:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 06:10:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -26,4 +26,5 @@
 - [2020-07-10-揭秘阿里-Node.js-框架-Midway-Serverless-如何做到提效-50%?](https://www.ershicimi.com/p/700539e7bd078f200fdd4b825ef9099d) 
 - [2020-07-08-实战-|-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/85eb988956d577d60ed7515db04817de) 
 - [2020-07-05-如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://www.ershicimi.com/p/52fabff4ddd28e8de774076284ae1373) 
+- [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-08-05-CVE-2020-7699:NodeJS模块代码注入](https://sec.thief.one/article_content?a_id=36eaa1400d5eb745ece6c6f07c13d02f) 

@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-08-07 06:02:59。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 06:10:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-异常应该在-controller-统一处理还是在-service-处理?](https://www.v2ex.com/t/696455) 
+- [2020-08-07-海外电商导购平台-求合伙技术同学](https://www.v2ex.com/t/696454) 
+- [2020-08-07-mysql-数据压缩-/-存储整理-？](https://www.v2ex.com/t/696453) 
+- [2020-08-07-blockchain-上还有一点点的-btc-，求问咋变现？](https://www.v2ex.com/t/696452) 
+- [2020-08-07-Android-/-Padavan-上有没有类似-QuanX-支持用脚本修改请求的软件?](https://www.v2ex.com/t/696451) 
 - [2020-08-07-iMac-2020-显卡怎么选，有必要-5500xt-升级-5700xt-吗](https://www.v2ex.com/t/696450) 
 - [2020-08-07-为什么厦门没有靠谱的互联网公司？](https://www.v2ex.com/t/696446) 
 - [2020-08-07-iPhone-8-连接电脑后权限弹窗无法关闭](https://www.v2ex.com/t/696444) 
@@ -34,5 +39,3 @@
 - [2020-08-07-leetcode/lintcode-题解-谷歌新鲜面试题：超级丑数](https://www.v2ex.com/t/696408) 
 - [2020-08-07-请教各位大佬接口版本控制的问题](https://www.v2ex.com/t/696407) 
 - [2020-08-07-老哥们推荐一下电动车~](https://www.v2ex.com/t/696406) 
-- [2020-08-07-淘宝绑定网易云的连接么有了？](https://www.v2ex.com/t/696403) 
-- [2020-08-07-求一个-mac-git-分支比较软件](https://www.v2ex.com/t/696402) 

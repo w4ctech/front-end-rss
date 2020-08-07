@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-07 01:20:03。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 01:31:31。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -395,7 +395,7 @@
 - [【InfoQ】云原生时代，巧妙利用云架构优化本地部署的方法论-|-Q推荐](https://www.ershicimi.com/p/1b636a729ee066cfd9bcb12be97c199f)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08)
+- [【开发者头条】推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -608,6 +608,7 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】8月6日全国新增新冠37例-本土新疆26例北京1例](https://m.caixin.com/m/2020-08-07/101589788.html)
 - [【武汉肺炎防疫全纪录(财新网)】广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html)
 - [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染者近1869万-累计死亡超70万](http://m.international.caixin.com/m/2020-08-06/101589613.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html)
@@ -627,7 +628,6 @@
 - [【武汉肺炎防疫全纪录(财新网)】中国科学家《细胞》刊文-测试新冠潜在突变影响](http://m.science.caixin.com/m/2020-08-03/101588130.html)
 - [【武汉肺炎防疫全纪录(财新网)】南非确诊破50万大关-非洲检测率低恐致隐藏疫情风暴](http://m.international.caixin.com/m/2020-08-03/101588180.html)
 - [【武汉肺炎防疫全纪录(财新网)】印度确诊180万例疫情在贫民窟传开-莫迪亲信自曝感染](http://m.international.caixin.com/m/2020-08-03/101588122.html)
-- [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】全国新增16例境外输入病例（8月1日）](http://m.database.caixin.com/m/2020-08-02/101587757.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

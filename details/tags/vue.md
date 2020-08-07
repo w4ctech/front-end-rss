@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 05:46:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 05:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -38,6 +38,7 @@
 - [2020-01-19-使用Vue-3.0做JSXTSX风格的组件开发](https://www.ershicimi.com/p/2d916acf07e274201dfb59d19a4e31a2) 
 - [2019-11-05-一看就懂的VUEX运用与常见问题，BAT大佬给你把脉](https://www.ershicimi.com/p/1e5fc7d0c29f644ea5e02ec27e78ceef) 
 - [2019-10-05-快讯-|-​Vue-官方公开-3.0-Alpha-预览版！](https://www.ershicimi.com/p/9829fb262a58316f978069c6a5a48bea) 
+- [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379) 
 - [2020-08-05-vue3.0新型状态管理和逻辑复用方式](https://www.ershicimi.com/p/f68a2470bc8fd6493bfc5757328c2b9e) 
 - [2020-07-29-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/2e73b83b6a58094120fb9e7d6cae66ed) 
 - [2020-07-23-Vue异步更新机制和nextTick原理](https://www.ershicimi.com/p/4ec64ee9c5b317948e902ea6b0f967f4) 
@@ -47,6 +48,10 @@
 - [2020-07-31-使用-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/68fe92e6e732623ea18dfde151124ad4) 
 - [2020-07-23-不到20%的开发能真正理解-Vue-，有没有你？（文内有福利）](https://www.ershicimi.com/p/fdc50530ca959ce13662f1feeaf110e4) 
 - [2020-07-16-Vue-项目性能优化实践](https://www.ershicimi.com/p/f92a17806443ccc307e2f39739ca1e4e) 
+- [2020-08-04-【万字长文】史上最强vue总结，更新版](https://www.ershicimi.com/p/5f587b1f639ff6eb4dc0ced05a8599c3) 
+- [2020-08-01-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/04c6915c0b7c9d4556ed061f397c32ca) 
+- [2020-07-30-工程化1:1从零实现Vue源码](https://www.ershicimi.com/p/5696d7150ba45e2276dcf60d3167f7ae) 
+- [2020-07-29-尤雨溪宣布Vue-3首个RC版本发布!-这意味着...](https://www.ershicimi.com/p/764f935f6e49439f180c12ece3e0534e) 
 - [2020-08-05-nestjs+vue+ts打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/d7f514759a5f284077e55fcb953d2fc1) 
 - [2020-08-04-Vue+Electron开发跨平台桌面应用（实战）](https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb) 
 - [2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) 

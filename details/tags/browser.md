@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 05:46:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 05:48:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -24,9 +24,14 @@
 - [2020-07-29-Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43) 
 - [2020-07-28-彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a) 
 - [2020-08-05-【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa) 
+- [2020-08-02-你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9) 
+- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) 
+- [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
 - [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
 - [2020-08-04-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83) 
+- [2020-08-02-【干货】Chrome插件扩展开发全攻略](https://www.ershicimi.com/p/14032fdc02504ea4910da6aab08d1bec) 
 - [2020-08-03-「干货」你需要了解的六种渲染模式](https://www.ershicimi.com/p/183eb2453460e5d2498c9aa412eda3a7) 
 - [2020-08-01-Chrome-DevTools-全攻略！助力高效开发](https://www.ershicimi.com/p/a91ddbaacd702f621d78a36aff9c7bd6) 
 - [2020-07-27-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/2f92dbcba054dd42c33d94bade59591b) 

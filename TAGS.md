@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-07 16:09:54。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 16:19:19。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -87,14 +87,14 @@
 - [【Vue中文社区】10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/8d2998e902c1647ba47e8752060e0885)
 - [【Vue中文社区】Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/c75ffe25cbf0ecea2d1562ab6eb45000)
 - [【Vue中文社区】简述Vue3.0提前更新的必要性](https://www.ershicimi.com/p/fc2739cde2dfd99b1d52e213c3850d5c)
+- [【前端开发】Vue版的团队代码规范](https://www.ershicimi.com/p/4c98dcb82fb6941f3ad338180c8b21c5)
+- [【前端开发】你不知道的Vue干货，全在这里了](https://www.ershicimi.com/p/93578da8ee8a23416b0a42c0e692eb45)
 - [【前端圈】视频Vue开发小程序之性能优化@崔红保](https://www.ershicimi.com/p/4e4bc88e18647787e60afdbef9550dc0)
 - [【前端圈】视频Vue-开发-ECharts-踩坑指南@袁源](https://www.ershicimi.com/p/e8dfeb434eb3e94a81c5ff39860d70ff)
 - [【前端圈】VueConf-2019上海精彩视频花絮](https://www.ershicimi.com/p/0a7c116ebf3504c1ae5a65bf2fb41479)
 - [【前端圈】VuePress-1.0发布与介绍的视频版@真山_VueConf-2019上海](https://www.ershicimi.com/p/df891224b8145e46f487100cd9aba181)
 - [【前端圈】蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0)
 - [【前端圈】视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde)
-- [【前端圈】真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624)
-- [【前端开发博客】vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8)
 - [......【查看更多】......](./details/tags/vue.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -167,6 +167,8 @@
 - [【React中文社区】V8是如何执行一段JS代码的？](https://www.ershicimi.com/p/cb16aeed88d6f02c5e6575abe6e48a78)
 - [【前端大全】Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971)
 - [【前端大全】Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45)
+- [【前端开发】node_modules-困境](https://www.ershicimi.com/p/624d81abb744ab9f4a0781907c37a4e4)
+- [【前端开发】如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/24a2bc74ee563a1473e7c646abae3773)
 - [【全栈前端精选】50行实现Node.js多进程分页爬虫](https://www.ershicimi.com/p/343a6b5d04d666d6feeb955b8c73dd95)
 - [【政采云前端团队】如何基于-Electron-开发跨终端的应用](https://www.ershicimi.com/p/9c40311e9606bc4f8b12e9e1edfb0082)
 - [【前端瓶子君】如何修改-node_modules-里的文件](https://www.ershicimi.com/p/937177d9e51b86c6f5664e4bd0db43df)
@@ -182,7 +184,6 @@
 - [【Nodejs技术栈】实战-|-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/85eb988956d577d60ed7515db04817de)
 - [【Nodejs技术栈】如何为团队定制自己的-Node.js-框架？（基于-EggJS）](https://www.ershicimi.com/p/52fabff4ddd28e8de774076284ae1373)
 - [【JavaScript】如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776)
-- [【安全热点】CVE-2020-7699:NodeJS模块代码注入](https://sec.thief.one/article_content?a_id=36eaa1400d5eb745ece6c6f07c13d02f)
 - [......【查看更多】......](./details/tags/nodejs.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -293,6 +294,7 @@
 - [【Vue中文社区】20个-CSS-快速提升技巧](https://www.ershicimi.com/p/08918e4ffc7f78c07ab222f2901c4648)
 - [【Vue中文社区】还在问瀑布流？这里两行css代码实现](https://www.ershicimi.com/p/4cdf6736646002c2f5be7b54f9ff53c9)
 - [【前端早读课】【第2024期】微保Serverless实践之架构演进](https://www.ershicimi.com/p/10aaaeab1038ae3f35774bb58aca3306)
+- [【前端开发】Serverless-掀起新的前端技术变革](https://www.ershicimi.com/p/f23ecc615686df4cdf02c03bc747ec42)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
 - [【前端大学】深入理解CSS-background-blend-mode的作用机制](https://www.ershicimi.com/p/d9198d776da8d8f04f61a8e7a96fc916)
@@ -309,7 +311,6 @@
 - [【张鑫旭-鑫空间-鑫生活】CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)
 - [【前端日刊】20个-CSS-快速提升技巧](https://www.ershicimi.com/p/e8e5a804eb3e23cdd6b164c00b42a79b)
 - [【前端日刊】真的！！！两行css代码实现瀑布流，html,css最简单的瀑布流实现方式且没有缺点！](https://www.ershicimi.com/p/cd371b537f54318e95d7b5842c195697)
-- [【InfoQ】Serverless-架构下如何实现日志的实时输出？](https://www.ershicimi.com/p/6f95627c2dc12e265695e06944f86a9c)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -394,7 +395,7 @@
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】不要一把梭了，这才是-SQL-优化的正确姿势](https://toutiao.io/k/770t8b3)
-- [【开发者头条】推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08)
+- [【开发者头条】推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

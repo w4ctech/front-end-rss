@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 19:17:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 19:31:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -59,4 +59,3 @@
 - [2020-07-23-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/864b0feaa51046cb6caa2a3a52b8f670) 
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
-- [2020-08-07-求问大佬们，怎么学习-Spring-和-Spring-Boot-然后做出一个面试用的项目啊？](https://www.v2ex.com/t/696579) 

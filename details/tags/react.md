@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 15:09:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 15:19:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -22,6 +22,7 @@
 - [2020-07-16-来呀，一起造一个简易React呀~](https://www.ershicimi.com/p/5f42caafa59624cac6118c9616154535) 
 - [2020-08-05-手写React的Fiber架构，深入理解其原理](https://www.ershicimi.com/p/3e5b55c92b79f52dabab2d1147a32a02) 
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353) 
+- [2020-07-09-邂逅-React，成为大厂爱招的人~](https://www.ershicimi.com/p/21c2db02b7e4a2c02788eb44c659f429) 
 - [2020-08-04-如何学习React源码](https://www.ershicimi.com/p/e2c173d807de9fd12e90b51f269c7401) 
 - [2020-08-01-React-Hooks-原理与最佳实践](https://www.ershicimi.com/p/cb479045ae6e3d08befea8f4bdf86edb) 
 - [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) 

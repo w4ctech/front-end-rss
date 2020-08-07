@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 17:02:53，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 17:09:17，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -96,7 +96,7 @@
 
 
 - [2020-08-07-美国纽约州州长：纽约州所有学校将在秋季学期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirOZ4V9o2Aj7DZ51oJh4e200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-美国病毒专家：佩戴口罩可以减少7万人的死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6odl5qEVp8aE0IM7NW6A200807&isfromapp=1) ![](assets/new.png)  
+- [2020-08-07-美国病毒专家：佩戴口罩可以减少-7-万人的死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6odl5qEVp8aE0IM7NW6A200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-特朗普发声被脸书推特同时删帖，涉嫌违规散布疫情虚假消息](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioenHtsvmgm1hkN1sjft8200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-日本单日确诊病例达史上最高，医院现医患交叉感染](https://m.weibo.cn/3057540037/4535397135161544) ![](assets/new.png)  
 - [2020-08-07-俄罗斯卫生部：正在审查新冠疫苗登记注册相关文件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwCdLGeE1aJHVvJqzKLxt200807&isfromapp=1) ![](assets/new.png)  

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-07 03:19:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 03:31:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-音视频开发前景问题？](https://www.v2ex.com/t/696396) 
 - [2020-08-07-请教各位，有没有可以访问-app-store-登录-appleid-的-IOS-模拟器](https://www.v2ex.com/t/696394) 
 - [2020-08-07-“精通”-Java-，学习-Kotlin-的话需要很久吗？](https://www.v2ex.com/t/696393) 
 - [2020-08-07-给妈妈买-iPhone12-还是-iPad-Air?](https://www.v2ex.com/t/696392) 
@@ -42,4 +43,3 @@
 - [2020-08-07-`cat-/etc/group`-&&-`cat-/etc/passwd`-两个文件不是排序的，怎么排序输出？](https://www.v2ex.com/t/696350) 
 - [2020-08-07-不是，就我一个人-iOS-版的-EDGE-浏览器无法同步书签吗？](https://www.v2ex.com/t/696349) 
 - [2020-08-07-Intel-被脱裤子了](https://www.v2ex.com/t/696348) 
-- [2020-08-07-note20-也采取了阉割策略](https://www.v2ex.com/t/696345) 

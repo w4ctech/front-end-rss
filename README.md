@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 03:19:35，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 03:31:39，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-07-音视频开发前景问题？](https://www.v2ex.com/t/696396) ![](assets/new.png)  
 - [2020-08-07-请教各位，有没有可以访问-app-store-登录-appleid-的-IOS-模拟器](https://www.v2ex.com/t/696394) ![](assets/new.png)  
 - [2020-08-07-“精通”-Java-，学习-Kotlin-的话需要很久吗？](https://www.v2ex.com/t/696393) ![](assets/new.png)  
 - [2020-08-07-给妈妈买-iPhone12-还是-iPad-Air?](https://www.v2ex.com/t/696392) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-07-校招美团点评-2021-届秋季校招开始了](https://www.v2ex.com/t/696374) ![](assets/new.png)  
 - [2020-08-07-静态集成腾讯-TBS-X5-内核-WebView，从微信提取新版-30M-浏览器内核打包进-apk](https://www.v2ex.com/t/696373) ![](assets/new.png)  
 - [2020-08-07-华为是不是不能用-Google-play-了](https://www.v2ex.com/t/696372) ![](assets/new.png)  
-- [2020-08-07-关于“Designing-Data-Intensive-Applications---CHAPTER-5-Replication---Leaderless-Replication”的疑问](https://www.v2ex.com/t/696370) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,19 +1116,19 @@
 
 - [2020-08-07-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
 - [2020-08-07-图解-Vue-响应式原理](https://toutiao.io/k/sia6td6) ![](assets/new.png)  
-- [2020-08-07-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-07-用-Python-了解一下最炫国漫《雾山五行》](https://toutiao.io/k/bdpkwed) ![](assets/new.png)  
+- [2020-08-07-Java-线程池深度揭秘](https://toutiao.io/k/prh2qvl) ![](assets/new.png)  
 - [2020-08-07-你真的了解线程池-ThreadPoolExecutor-吗？](https://toutiao.io/k/vlu44m2) ![](assets/new.png)  
 - [2020-08-07-程序员的-“三十而已”](https://toutiao.io/k/8qpovka) ![](assets/new.png)  
 - [2020-08-07-Uniswap-非权威开发指南（v1-版）](https://toutiao.io/k/wrlrf1b) ![](assets/new.png)  
-- [2020-08-07-Kubernetes-Pod-入门指南](https://toutiao.io/k/ttqrpr2) ![](assets/new.png)  
 - [2020-08-07-详解自然语言处理-5-大语义分析技术及-14-类应用](https://toutiao.io/k/twgudj2) ![](assets/new.png)  
+- [2020-08-07-Kubernetes-Pod-入门指南](https://toutiao.io/k/ttqrpr2) ![](assets/new.png)  
 - [2020-08-07-GitHub-要改默认分支名了，你的开源项目受影响了吗？](https://toutiao.io/k/g1v562t) ![](assets/new.png)  
 - [2020-08-07-我为何弃用-Jetpack-的-App-Startup？](https://toutiao.io/k/6o7r0ph) ![](assets/new.png)  
 - [2020-08-07-敲黑板了，这是新知识点](https://toutiao.io/k/vx31xf3) ![](assets/new.png)  
 - [2020-08-07-你真的了解热度排行榜吗？](https://toutiao.io/k/1uulona) ![](assets/new.png)  
-- [2020-08-07-译-JavaScript-中的缓存-API](https://toutiao.io/k/0kk1z5f) ![](assets/new.png)  
 - [2020-08-07-谷歌极速人脸、手、人体姿态分析-Blaze-算法家族](https://toutiao.io/k/pw7gu5l) ![](assets/new.png)  
+- [2020-08-07-译-JavaScript-中的缓存-API](https://toutiao.io/k/0kk1z5f) ![](assets/new.png)  
 - [2020-08-07-连接跟踪-conntrack：原理、应用及-Linux-内核实现](https://toutiao.io/k/pr1maxv) ![](assets/new.png)  
 - [2020-08-07-那些年我用过的-WORDPRESS-插件](https://toutiao.io/k/ifls6s1) ![](assets/new.png)  
 - [2020-08-07-不要一把梭了，这才是-SQL-优化的正确姿势](https://toutiao.io/k/770t8b3) ![](assets/new.png)  

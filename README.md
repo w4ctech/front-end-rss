@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 06:10:36，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 06:21:23，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,7 +64,7 @@
 </summary>
 
 
-- [2020-08-06-8月6日全国新增新冠37例-本土新疆26例北京1例](https://m.caixin.com/m/2020-08-07/101589788.html) ![](assets/new.png)  
+- [2020-08-06-最新疫情：全国新冠累计确诊84565例-本土病例新疆26例北京1例](https://m.caixin.com/m/2020-08-07/101589954.html) ![](assets/new.png)  
 - [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
 - [2020-08-05-广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html) ![](assets/new.png)  
 - [2020-08-05-最新海外疫情：新冠感染者近1869万-累计死亡超70万](http://m.international.caixin.com/m/2020-08-06/101589613.html) ![](assets/new.png)  
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-07-美国华盛顿大学：预测年底美死亡病例将逼近30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijNhllumZE3MOd4Gp6VJh200807&isfromapp=1) ![](assets/new.png)  
+- [2020-08-07-卢旺达累计确诊2111例新冠肺炎确诊病例-提醒国际旅客须提供PCR检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGKAfTLYirok1VWbJWnI200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-8月10日起-韩国解除对湖北入境签证限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQxZjmuDmS9zXhnugKpgB200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-墨西哥新增6590例新冠肺炎确诊病例-累计超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAHPwp2gQp7z75NI0T6zK200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-北京新发地疫情在院病例清零，北京新增1大连疫情关联病例](https://m.weibo.cn/3057540037/4535231040459222) ![](assets/new.png)  
-- [2020-08-07-东京出入境管理局4名工作人员确诊新冠肺炎](https://m.weibo.cn/3057540037/4535220974391079) ![](assets/new.png)  
-- [2020-08-07-截至8月6日24时新型冠状病毒肺炎疫情最新情况](http://wsjkw.hebei.gov.cn/content/content_3714/412928.jhtml) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-07-咋办？就刚刚一陌生女的打开我家窗户偷拍！](https://www.v2ex.com/t/696458) ![](assets/new.png)  
+- [2020-08-07-如何看亚马逊推出的-Amazon-Braket-量子计算机，这玩意跟区块链比哪个靠谱](https://www.v2ex.com/t/696457) ![](assets/new.png)  
+- [2020-08-07-firfox-的硬件加速是不是没-chrome-好用。。。。。](https://www.v2ex.com/t/696456) ![](assets/new.png)  
 - [2020-08-07-异常应该在-controller-统一处理还是在-service-处理?](https://www.v2ex.com/t/696455) ![](assets/new.png)  
 - [2020-08-07-海外电商导购平台-求合伙技术同学](https://www.v2ex.com/t/696454) ![](assets/new.png)  
 - [2020-08-07-mysql-数据压缩-/-存储整理-？](https://www.v2ex.com/t/696453) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-07-目前/var/lib/docker-占用空间多大，如何迁移到其他分区？](https://www.v2ex.com/t/696432) ![](assets/new.png)  
 - [2020-08-07-网易云音乐-Windows-版磁盘访问异常](https://www.v2ex.com/t/696431) ![](assets/new.png)  
 - [2020-08-07-迫于外接显示屏-MBP-发热严重，那么使用投屏是不是就不热了？](https://www.v2ex.com/t/696430) ![](assets/new.png)  
-- [2020-08-07-微信-play-版闪退](https://www.v2ex.com/t/696429) ![](assets/new.png)  
-- [2020-08-07-看-Markdown-文档的-N-个姿势，总有一个让你快乐一点～-Typora+VLOOK-为你带来硬核的文档导航体验](https://www.v2ex.com/t/696428) ![](assets/new.png)  
-- [2020-08-07-天马行空一下，-CPU-发热的能量有没有可能被再利用？](https://www.v2ex.com/t/696427) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

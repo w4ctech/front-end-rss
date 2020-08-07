@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 06:10:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 06:21:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -59,5 +59,4 @@
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-07-昨天和领导一起面试了一个牛逼疯了的前端高级开发/前端架构师](https://www.v2ex.com/t/696441) 
-- [2020-08-07-leetcode/lintcode-题解-谷歌新鲜面试题：超级丑数](https://www.v2ex.com/t/696408) 
 - [2020-08-04-渗透测试面试问题合集](https://sec.thief.one/article_content?a_id=f423366a12ee4f21045cf510862cc43c) 

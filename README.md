@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 13:48:08，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 14:02:53，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-07-在地毯端上如何实现类似-coi-的方块信息查询](https://www.v2ex.com/t/696595) ![](assets/new.png)  
 - [2020-08-07-WB-网页端只能登陆一台电脑吗？](https://www.v2ex.com/t/696594) ![](assets/new.png)  
 - [2020-08-07-不升级系统的原因](https://www.v2ex.com/t/696593) ![](assets/new.png)  
 - [2020-08-07-erlang-都是怎么调试的](https://www.v2ex.com/t/696592) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-07-不懂就问，关于接口点击算不算-pv，以及-qps-和-tps-问题。](https://www.v2ex.com/t/696571) ![](assets/new.png)  
 - [2020-08-07-老生常谈的问题，公司用的技术比较老怎么办](https://www.v2ex.com/t/696570) ![](assets/new.png)  
 - [2020-08-07-版本更新一个基于-tp5-+-vue-全家桶开发的文档管理工具](https://www.v2ex.com/t/696568) ![](assets/new.png)  
-- [2020-08-07-大佬们，请问-Chrome-有什么插件支持音频（wav）倍速，诚心求教。](https://www.v2ex.com/t/696567) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

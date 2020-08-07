@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 15:19:13，:rocket: 更新条数: +773， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 15:20:13，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)  
+- [武汉肺炎防疫全纪录财新网](#武汉肺炎防疫全纪录财新网)![](assets/dot.png)   
 - [全国新型肺炎疫情实时动态丁香园](#全国新型肺炎疫情实时动态丁香园)![](assets/dot.png)   
 - [Vue社区](#vue社区)![](assets/dot.png)   
 - [Vue中文社区](#vue中文社区)![](assets/dot.png)   
@@ -64,6 +64,26 @@
 </summary>
 
 
+- [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
+- [2020-08-06-最新疫情：全国新冠累计确诊84565例-本土病例新疆26例北京1例](https://m.caixin.com/m/2020-08-07/101589954.html) ![](assets/new.png)  
+- [2020-08-06-最新海外疫情：新冠感染者超1896万-累计死亡超71万](http://m.international.caixin.com/m/2020-08-07/101590119.html) ![](assets/new.png)  
+- [2020-08-06-【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html) ![](assets/new.png)  
+- [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
+- [2020-08-05-广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html) ![](assets/new.png)  
+- [2020-08-05-【境内疫情观察】全国新增30例本土病例（8月5日）](http://m.database.caixin.com/m/2020-08-06/101589410.html) ![](assets/new.png)  
+- [2020-08-05-大流行手记|8月5日：疫情加剧教育不平等-俄将开展未成年人新冠疫苗实验](https://m.caixin.com/m/2020-08-06/101589309.html) ![](assets/new.png)  
+- [2020-08-04-杭州新增一例新疆无症状感染者-曾在沪杭两地活动](http://m.china.caixin.com/m/2020-08-05/101589141.html) ![](assets/new.png)  
+- [2020-08-04-【境内疫情观察】新疆新增22例本土病例（8月4日）](http://m.database.caixin.com/m/2020-08-05/101588974.html) ![](assets/new.png)  
+- [2020-08-04-大流行手记|8月4日：南美确诊破500万-英国备战9月开学力阻新疫情](https://m.caixin.com/m/2020-08-05/101588777.html) ![](assets/new.png)  
+- [2020-08-04-香港两菜场暴发疫情-6名水产摊贩确诊](https://m.caixin.com/m/2020-08-05/101589021.html) ![](assets/new.png)  
+- [2020-08-04-杭州新增1例新冠无症状感染者-7月13日来自新疆](https://m.caixin.com/m/2020-08-05/101588990.html) ![](assets/new.png)  
+- [2020-08-03-【境内疫情观察】新疆新增28例本土病例（8月3日）](http://m.database.caixin.com/m/2020-08-04/101588535.html) ![](assets/new.png)  
+- [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
+- [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
+- [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
+- [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
+- [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
+- [2020-08-02-大连卫健委：未发现本次疫情与近期北京新疆病例有关联](http://m.china.caixin.com/m/2020-08-03/101587906.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

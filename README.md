@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 22:48:29，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 23:02:29，:rocket: 更新条数: +3498， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -632,6 +632,10 @@
 </summary>
 
 
+- [2020-08-07-H5-秒开方案大全](https://www.ershicimi.com/p/d2e77a7bbd71a5616da3a48cae7e3ccd) ![](assets/new.png)  
+- [2020-08-07-干货报告：八大科技领域，280-页，InfoQ《2020-中国技术发展白皮书》开放下载](https://www.ershicimi.com/p/5648fc6188eb34d24a24792d049674db) ![](assets/new.png)  
+- [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/0843b270fbb17ecc2d1a909a187f76d2) ![](assets/new.png)  
+- [2020-08-06-如何实现一个下载进度条/播放进度条](https://www.ershicimi.com/p/a16da8567a128fdcb3bebb194ebe6394) ![](assets/new.png)  
 - [2020-08-05-nestjs+vue+ts打造一个酷炫的星空聊天室含完整数据库设计](https://www.ershicimi.com/p/d7f514759a5f284077e55fcb953d2fc1) ![](assets/new.png)  
 - [2020-08-04-Vue+Electron开发跨平台桌面应用（实战）](https://www.ershicimi.com/p/b959ab5f35231a51bb4bee304a440fdb) ![](assets/new.png)  
 - [2020-08-04-华为的前端全栈技术想学不？3个月，零费用，真香！](https://www.ershicimi.com/p/0e99c5a357f834a27adc4a78217ec1bb) ![](assets/new.png)  
@@ -648,10 +652,6 @@
 - [2020-07-29-花椒前端基于-Docker-的-SSR-持续开发集成环境实践](https://www.ershicimi.com/p/de55d54617ef5488b526fd775b576d8e) ![](assets/new.png)  
 - [2020-07-28-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/0d83694aff73a09ba4533abdc5180c56) ![](assets/new.png)  
 - [2020-07-27-私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd) ![](assets/new.png)  
-- [2020-07-27-阿里大佬关于移动端体验优化经验总结](https://www.ershicimi.com/p/cd5177a646f341e973bff829773cd543) ![](assets/new.png)  
-- [2020-07-26-小姐姐用动图展示-10-大-Git-命令](https://www.ershicimi.com/p/02f6c94cfcc7e81a98b1c2199873db06) ![](assets/new.png)  
-- [2020-07-26-你可能需要一个优质-前端Node-交流群](https://www.ershicimi.com/p/2bc6b1174a30235ad49347ec4d653848) ![](assets/new.png)  
-- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353) ![](assets/new.png)  
 - [......【查看更多】......](./details/程序员成长指北.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1143,8 +1143,8 @@
 - [2020-08-07-程序员的-“三十而已”](https://toutiao.io/k/8qpovka) ![](assets/new.png)  
 - [2020-08-07-Kubernetes-Pod-入门指南](https://toutiao.io/k/ttqrpr2) ![](assets/new.png)  
 - [2020-08-07-详解自然语言处理-5-大语义分析技术及-14-类应用](https://toutiao.io/k/twgudj2) ![](assets/new.png)  
-- [2020-08-07-你真的了解热度排行榜吗？](https://toutiao.io/k/1uulona) ![](assets/new.png)  
 - [2020-08-07-敲黑板了，这是新知识点](https://toutiao.io/k/vx31xf3) ![](assets/new.png)  
+- [2020-08-07-你真的了解热度排行榜吗？](https://toutiao.io/k/1uulona) ![](assets/new.png)  
 - [2020-08-07-我为何弃用-Jetpack-的-App-Startup？](https://toutiao.io/k/6o7r0ph) ![](assets/new.png)  
 - [2020-08-07-不要一把梭了，这才是-SQL-优化的正确姿势](https://toutiao.io/k/770t8b3) ![](assets/new.png)  
 - [2020-08-07-GitHub-要改默认分支名了，你的开源项目受影响了吗？](https://toutiao.io/k/g1v562t) ![](assets/new.png)  

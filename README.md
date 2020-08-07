@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 06:21:23，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 06:32:02，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-07-《三十而已》里，陈养鱼这种在领导面前的窝囊样子像极了-996-互联网公司的奋斗者。家算什么家人算什么，比起领导，客户，工作。全不重要。甚至我在张江听过张江...](https://www.v2ex.com/t/696460) ![](assets/new.png)  
+- [2020-08-07-有人会搞套路云的-KVM-架构镜像吗](https://www.v2ex.com/t/696459) ![](assets/new.png)  
 - [2020-08-07-咋办？就刚刚一陌生女的打开我家窗户偷拍！](https://www.v2ex.com/t/696458) ![](assets/new.png)  
 - [2020-08-07-如何看亚马逊推出的-Amazon-Braket-量子计算机，这玩意跟区块链比哪个靠谱](https://www.v2ex.com/t/696457) ![](assets/new.png)  
 - [2020-08-07-firfox-的硬件加速是不是没-chrome-好用。。。。。](https://www.v2ex.com/t/696456) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-07-细思恐极！用-iPhone-备忘录扫描文件竟被识别内容！](https://www.v2ex.com/t/696437) ![](assets/new.png)  
 - [2020-08-07-iphone7p-官方店不能换电池了~有没有靠谱的第三方呀~](https://www.v2ex.com/t/696434) ![](assets/new.png)  
 - [2020-08-07-目前/var/lib/docker-占用空间多大，如何迁移到其他分区？](https://www.v2ex.com/t/696432) ![](assets/new.png)  
-- [2020-08-07-网易云音乐-Windows-版磁盘访问异常](https://www.v2ex.com/t/696431) ![](assets/new.png)  
-- [2020-08-07-迫于外接显示屏-MBP-发热严重，那么使用投屏是不是就不热了？](https://www.v2ex.com/t/696430) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

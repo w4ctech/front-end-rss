@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2020-08-07 02:02:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 02:10:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-关于苹果设备证书问题](https://www.v2ex.com/t/696365) 
+- [2020-08-07-求助如何使用-js-脚本（或油猴脚本）点击-class-按钮](https://www.v2ex.com/t/696363) 
+- [2020-08-07-MAC-上优秀的-PDF-阅读器+批注编辑软件-——-PDF-Expert](https://www.v2ex.com/t/696362) 
 - [2020-08-07-起名求助-一硬件模块（方盒），功能：采集工业-PLC-设备数据，发送给服务器。](https://www.v2ex.com/t/696361) 
 - [2020-08-07-关于技术相关学习的反思](https://www.v2ex.com/t/696359) 
 - [2020-08-07-有没有天府三街无国界上班的朋友，求代办通行证](https://www.v2ex.com/t/696356) 
@@ -43,7 +46,3 @@
 - [2020-08-06-能推荐一个带-GPU-的-mini-PC-嘛？](https://www.v2ex.com/t/696318) 
 - [2020-08-06-苹果市值接近-2-万亿美元](https://www.v2ex.com/t/696317) 
 - [2020-08-06-iPad-版的-YouTube-app-是不是坏了？](https://www.v2ex.com/t/696316) 
-- [2020-08-06-github.io-之类的都打不开了-大家也是这样吗](https://www.v2ex.com/t/696315) 
-- [2020-08-06-edge-商店里的-Proxy-SwitchyOmega-是李鬼](https://www.v2ex.com/t/696314) 
-- [2020-08-06-辽宁联通-speedtest.net-测速连接任何几乎外国节点都只有-1-2Mbps-的速度](https://www.v2ex.com/t/696313) 
-- [2020-08-06-网易云-uwp-最小化到托盘后仍然渲染界面](https://www.v2ex.com/t/696312) 

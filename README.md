@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 02:20:47，:rocket: 更新条数: +3283， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 02:31:31，:rocket: 更新条数: +3282， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-07-静态集成腾讯-TBS-X5-内核-WebView，从微信提取新版-30M-浏览器内核打包进-apk](https://www.v2ex.com/t/696373) ![](assets/new.png)  
+- [2020-08-07-华为是不是不能用-Google-play-了](https://www.v2ex.com/t/696372) ![](assets/new.png)  
+- [2020-08-07-关于“Designing-Data-Intensive-Applications---CHAPTER-5-Replication---Leaderless-Replication”的疑问](https://www.v2ex.com/t/696370) ![](assets/new.png)  
+- [2020-08-07-88VIP-纯听歌角度-，选虾米还是网抑好一点？](https://www.v2ex.com/t/696369) ![](assets/new.png)  
 - [2020-08-07-关于-ESXi-虚拟机间拷贝速度慢的问题](https://www.v2ex.com/t/696368) ![](assets/new.png)  
 - [2020-08-07-直接去？益田假日广场](https://www.v2ex.com/t/696366) ![](assets/new.png)  
 - [2020-08-07-关于苹果设备证书问题](https://www.v2ex.com/t/696365) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-07-`cat-/etc/group`-&&-`cat-/etc/passwd`-两个文件不是排序的，怎么排序输出？](https://www.v2ex.com/t/696350) ![](assets/new.png)  
 - [2020-08-07-不是，就我一个人-iOS-版的-EDGE-浏览器无法同步书签吗？](https://www.v2ex.com/t/696349) ![](assets/new.png)  
 - [2020-08-07-Intel-被脱裤子了](https://www.v2ex.com/t/696348) ![](assets/new.png)  
-- [2020-08-07-note20-也采取了阉割策略](https://www.v2ex.com/t/696345) ![](assets/new.png)  
-- [2020-08-07-opencv-对图片中物体计数的案例](https://www.v2ex.com/t/696344) ![](assets/new.png)  
-- [2020-08-07-再抽一次奖送极客时间付费专栏-昨天的抽奖因为参与人数过少，恭喜你们全中了](https://www.v2ex.com/t/696342) ![](assets/new.png)  
-- [2020-08-07-OAuth2-中的授权跟普通应用中的授权是否是一个东西？](https://www.v2ex.com/t/696341) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

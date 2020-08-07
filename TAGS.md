@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-07 22:09:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 22:17:45。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -51,6 +51,7 @@
 - [【前端之巅】耗时三年，向React迁移的利与弊](https://www.ershicimi.com/p/20749545e470bf9c2ebc4975ceffba78)
 - [【前端之巅】为啥Flutter-Hooks没有受到太多关注和青睐？](https://www.ershicimi.com/p/6d205aaa68a5c2ca18ed1c6a8aebd376)
 - [【政采云前端团队】这就是你日思夜想的-React-原生动态加载](https://www.ershicimi.com/p/cdb1611bac626565c3013e6a5654e149)
+- [【前端宇宙】为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/41df4d9cbc8e82472ed966915bc2ee9d)
 - [【前端宇宙】来呀，一起造一个简易React呀~](https://www.ershicimi.com/p/5f42caafa59624cac6118c9616154535)
 - [【前端瓶子君】手写React的Fiber架构，深入理解其原理](https://www.ershicimi.com/p/3e5b55c92b79f52dabab2d1147a32a02)
 - [【程序员成长指北】为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/331e142bf789ebf5858628abda635353)
@@ -58,7 +59,6 @@
 - [【凹凸实验室】Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/)
 - [【凹凸实验室】Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)
 - [【凹凸实验室】使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)
-- [【凹凸实验室】Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)
 - [......【查看更多】......](./details/tags/react.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

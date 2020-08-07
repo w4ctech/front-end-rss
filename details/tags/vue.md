@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 21:19:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 21:31:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -16,6 +16,7 @@
 - [2020-01-08-打造-Vue-技术栈中的“时间宝石“](https://www.ershicimi.com/p/316b4971b37c6ad50a6a39d2d64ee4d2) 
 - [2020-01-03-从零开发一套完整的vue项目开发环境](https://www.ershicimi.com/p/cab0fde7933f77481f19d7a7ccf21319) 
 - [2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](https://www.ershicimi.com/p/f3854cabca198728fee0c97ec0f825bf) 
+- [2020-08-07-vue+ts打造一个酷炫的星空聊天室](https://www.ershicimi.com/p/c64d38b51fa72b47892b8461f633523d) 
 - [2020-08-04-10个Vue开发技巧助力成为更好的工程师](https://www.ershicimi.com/p/8d2998e902c1647ba47e8752060e0885) 
 - [2020-07-30-Vue-3.0，你可能不再需要Vuex了](https://www.ershicimi.com/p/c75ffe25cbf0ecea2d1562ab6eb45000) 
 - [2020-07-27-简述Vue3.0提前更新的必要性](https://www.ershicimi.com/p/fc2739cde2dfd99b1d52e213c3850d5c) 

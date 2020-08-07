@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 21:19:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 21:31:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -53,6 +53,7 @@
 - [2020-08-07-Windows-10-Insider-Preview-Build-20185-开始支持-DNS-over-HTTPS-了](https://www.v2ex.com/t/696625) 
 - [2020-08-07-erlang-都是怎么调试的](https://www.v2ex.com/t/696592) 
 - [2020-08-07-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
+- [2020-08-07-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-07-2020中国网络安全年会即将召开-强大嘉宾阵容不容错过!](https://sec.thief.one/article_content?a_id=ed7075379c3f2f8a6143355bcfb50245) 
 - [2020-08-07-先睹为快-|-绿盟科技首部安全服务题材微电影震撼来袭,精彩预告抢先看](https://sec.thief.one/article_content?a_id=4cbd57f01d6ac1c172cafe59f27a4b6c) 
 - [2020-08-07-全国20余省市“新基建”政策盘点:网络安全迎来哪些发展利好?](https://sec.thief.one/article_content?a_id=d20b6d122a865794f78217bcbcf6017f) 

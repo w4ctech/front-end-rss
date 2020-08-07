@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 21:19:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 21:31:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -31,7 +31,6 @@
 - [2019-12-30-JavaScript-那些写出来会被同事揍的骚操作](https://www.ershicimi.com/p/8afb29a5864bf11ab6723cdc66a0c6ab) 
 - [2019-12-26-如何答一道惊艳面试官的数组去重问题？](https://www.ershicimi.com/p/65b6fbfea2975868732525463c062fdf) 
 - [2020-08-03-10个非常实用的JS工具函数](https://www.ershicimi.com/p/b299aeb8bcdcb4a89cadd2c8b71738db) 
-- [2020-07-25-今年最值得期待的JavaScript传奇绿皮书登场！](https://www.ershicimi.com/p/91d44d7e10924bc541d6b4c8db4e32c4) 
 - [2019-11-14-Javascript条件逻辑设计重构](https://www.ershicimi.com/p/37d7e7bbf0991fadb887575b894b8ee4) 
 - [2019-11-06-Javascript-实现优雅的链式取值](https://www.ershicimi.com/p/0197eec9b690ae8c75f91ec7afac7baa) 
 - [2020-08-02-【第2022期】不定宽溢出文本适配滚动](https://www.ershicimi.com/p/a5914ee9d8af5ac99b79566f70312342) 

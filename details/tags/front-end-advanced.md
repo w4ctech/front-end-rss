@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 07:19:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 07:31:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -16,4 +16,5 @@
 - [2020-08-05-解读HTTP/2与HTTP/3-的新特性](https://www.ershicimi.com/p/1c4945de34d494a06711fe4925025195) 
 - [2020-01-07-数据结构与算法---线性结构](https://www.ershicimi.com/p/800f919ba2a631b8ec88e1f5f14b90d4) 
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
+- [2020-08-07-计算单精度和半精度浮点数的矩阵运算时，-GPU-相比-CPU-是否有数量级的领先？](https://www.v2ex.com/t/696474) 
 - [2020-08-07-谷歌极速人脸、手、人体姿态分析-Blaze-算法家族](https://toutiao.io/k/pw7gu5l) 

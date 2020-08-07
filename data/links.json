@@ -12547,6 +12547,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "乌鲁木齐市昨日新增26例新冠肺炎确诊病例 均为集中医学观察人员",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuX46dJNPsQBwl5u9rnF200807&isfromapp=1",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "香港新增89例新冠肺炎确诊病例 连续5日新增少于100例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982e0rjPvJyLZbw0b1k8200807&isfromapp=1",
+        "date": "2020-08-07"
+      },
+      {
         "title": "美国华盛顿大学：预测年底美死亡病例将逼近30万",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijNhllumZE3MOd4Gp6VJh200807&isfromapp=1",
         "date": "2020-08-07"
@@ -12559,16 +12569,6 @@
       {
         "title": "8月10日起 韩国解除对湖北入境签证限制",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQxZjmuDmS9zXhnugKpgB200807&isfromapp=1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "墨西哥新增6590例新冠肺炎确诊病例 累计超46万例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAHPwp2gQp7z75NI0T6zK200807&isfromapp=1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "北京新发地疫情在院病例清零，北京新增1大连疫情关联病例",
-        "link": "https://m.weibo.cn/3057540037/4535231040459222",
         "date": "2020-08-07"
       }
     ]
@@ -15699,6 +15699,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "[内推] Rakuten 招聘 [日本乐天] 大连团队有两个 Devops 的 position",
+        "link": "https://www.v2ex.com/t/696533",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "微信有什么办法禁止听筒模式吗？",
+        "link": "https://www.v2ex.com/t/696531",
+        "date": "2020-08-07"
+      },
+      {
         "title": "美国禁用微信，美区注册的微信有影响吗， callkit 呢？",
         "link": "https://www.v2ex.com/t/696524",
         "date": "2020-08-07"
@@ -15866,21 +15876,6 @@
       {
         "title": "关于成为个人开发者的迷思",
         "link": "https://www.v2ex.com/t/696485",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "非国区 ID 的 V 友进来看看",
-        "link": "https://www.v2ex.com/t/696483",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "基于 docker，告别本地开发中的环境问题",
-        "link": "https://www.v2ex.com/t/696482",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "程序猿要不要认证一个头条号？",
-        "link": "https://www.v2ex.com/t/696480",
         "date": "2020-08-07"
       }
     ]
@@ -16098,48 +16093,8 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] DDD 分层",
-        "link": "https://toutiao.io/k/11j6h2v",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] Redis 数据结构：跳跃表",
+        "link": "https://toutiao.io/k/pr0j6n1",
         "date": "2020-08-07"
       },
       {
@@ -16148,13 +16103,8 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
+        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
+        "link": "https://toutiao.io/k/lnt5fc0",
         "date": "2020-08-07"
       },
       {
@@ -16163,13 +16113,58 @@
         "date": "2020-08-07"
       },
       {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-07"
+      },
+      {
         "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
         "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-07"
       }
     ]

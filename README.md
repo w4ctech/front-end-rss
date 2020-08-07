@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 09:19:34，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 09:31:37，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-07-乌鲁木齐市昨日新增26例新冠肺炎确诊病例-均为集中医学观察人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuX46dJNPsQBwl5u9rnF200807&isfromapp=1) ![](assets/new.png)  
+- [2020-08-07-香港新增89例新冠肺炎确诊病例-连续5日新增少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982e0rjPvJyLZbw0b1k8200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-美国华盛顿大学：预测年底美死亡病例将逼近30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijNhllumZE3MOd4Gp6VJh200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-卢旺达累计确诊2111例新冠肺炎确诊病例-提醒国际旅客须提供PCR检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGKAfTLYirok1VWbJWnI200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-8月10日起-韩国解除对湖北入境签证限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQxZjmuDmS9zXhnugKpgB200807&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-墨西哥新增6590例新冠肺炎确诊病例-累计超46万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAHPwp2gQp7z75NI0T6zK200807&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-北京新发地疫情在院病例清零，北京新增1大连疫情关联病例](https://m.weibo.cn/3057540037/4535231040459222) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-07-内推-Rakuten-招聘-日本乐天-大连团队有两个-Devops-的-position](https://www.v2ex.com/t/696533) ![](assets/new.png)  
+- [2020-08-07-微信有什么办法禁止听筒模式吗？](https://www.v2ex.com/t/696531) ![](assets/new.png)  
 - [2020-08-07-美国禁用微信，美区注册的微信有影响吗，-callkit-呢？](https://www.v2ex.com/t/696524) ![](assets/new.png)  
 - [2020-08-07-问一下-golang-导包为什么会失败？](https://www.v2ex.com/t/696523) ![](assets/new.png)  
 - [2020-08-07-为什么我看不懂-CSS-规范？](https://www.v2ex.com/t/696521) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-07-像素偏移|-上海-|-实习&社招-招聘-前端、安卓工程师，来一起做点有意思的事情！](https://www.v2ex.com/t/696507) ![](assets/new.png)  
 - [2020-08-07-请问-RN-中用-Linking.openUrl-如何到用户的定位服务GPS页面呢？](https://www.v2ex.com/t/696505) ![](assets/new.png)  
 - [2020-08-07-springboot-配置文件](https://www.v2ex.com/t/696504) ![](assets/new.png)  
-- [2020-08-07-evernote-国际版团队还在吗,快一年没更新了吧,-停留在-7.14-好久了](https://www.v2ex.com/t/696503) ![](assets/new.png)  
-- [2020-08-07-istio-新人，请教一下官网-bookinfo-示例的问题？](https://www.v2ex.com/t/696501) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 11:02:23，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 11:09:15，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-07-版本更新一个基于-tp5-+-vue-全家桶开发的文档管理工具](https://www.v2ex.com/t/696568) ![](assets/new.png)  
+- [2020-08-07-大佬们，请问-Chrome-有什么插件支持音频（wav）倍速，诚心求教。](https://www.v2ex.com/t/696567) ![](assets/new.png)  
 - [2020-08-07-开着会呢-siri-突然开口了](https://www.v2ex.com/t/696566) ![](assets/new.png)  
 - [2020-08-07-基于美国的恶心操作，试问如果苹果手机不能用微信了，你还会使用苹果手机吗？](https://www.v2ex.com/t/696565) ![](assets/new.png)  
 - [2020-08-07-shopee-招聘专场内推-8/15-半年内未投过-shopee-相关职位](https://www.v2ex.com/t/696564) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-07-死亡搁浅-PC-版怎么买能优惠一点呢](https://www.v2ex.com/t/696547) ![](assets/new.png)  
 - [2020-08-07-gin-项目中的结构体字段验证问题](https://www.v2ex.com/t/696546) ![](assets/new.png)  
 - [2020-08-07-ocsp.apple.com-解析到金山云吗？](https://www.v2ex.com/t/696544) ![](assets/new.png)  
-- [2020-08-07-想问下-v-友-BuyVM-的-aff-返点多少？](https://www.v2ex.com/t/696542) ![](assets/new.png)  
-- [2020-08-07-咕咕数据-API-数据接口](https://www.v2ex.com/t/696540) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

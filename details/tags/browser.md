@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 21:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 21:18:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -28,6 +28,7 @@
 - [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
 - [2020-08-02-前端周报：Edge-地址栏输入任意内容导致浏览器崩溃；阿里最短命-P10：之前任百度云副总裁；微软首](https://www.ershicimi.com/p/4cf689cb1d6ef81716cb74be7394d0d5) 
 - [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
+- [2020-08-06-实现浏览器中的最大请求并发数控制](https://www.ershicimi.com/p/99fc54bf84ab2b810ca1c203c83cf505) 
 - [2020-07-29-你不知道的浏览器渲染原理](https://www.ershicimi.com/p/09cb1e7efc8578dd3041798220627091) 
 - [2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
 - [2020-08-04-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/871f09b3bcea8e9a831bcf53f804ee83) 
@@ -52,7 +53,6 @@
 - [2020-08-07-Windows-10-Insider-Preview-Build-20185-开始支持-DNS-over-HTTPS-了](https://www.v2ex.com/t/696625) 
 - [2020-08-07-erlang-都是怎么调试的](https://www.v2ex.com/t/696592) 
 - [2020-08-07-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
-- [2020-08-07-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-07-2020中国网络安全年会即将召开-强大嘉宾阵容不容错过!](https://sec.thief.one/article_content?a_id=ed7075379c3f2f8a6143355bcfb50245) 
 - [2020-08-07-先睹为快-|-绿盟科技首部安全服务题材微电影震撼来袭,精彩预告抢先看](https://sec.thief.one/article_content?a_id=4cbd57f01d6ac1c172cafe59f27a4b6c) 
 - [2020-08-07-全国20余省市“新基建”政策盘点:网络安全迎来哪些发展利好?](https://sec.thief.one/article_content?a_id=d20b6d122a865794f78217bcbcf6017f) 

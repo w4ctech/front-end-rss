@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 05:18:12，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 05:31:41，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,10 +1052,9 @@
 </summary>
 
 
-- [2020-08-07-特*普目前所签署、以及未来将要签署的一系列行政令会对我们带来什么影响？](https://www.v2ex.com/t/696436) ![](assets/new.png)  
-- [2020-08-07-张玉环会会获得多少赔偿？](https://www.v2ex.com/t/696435) ![](assets/new.png)  
+- [2020-08-07-Big-Sur-的动态歌词更新了吗？](https://www.v2ex.com/t/696438) ![](assets/new.png)  
+- [2020-08-07-细思恐极！用-iPhone-备忘录扫描文件竟被识别内容！](https://www.v2ex.com/t/696437) ![](assets/new.png)  
 - [2020-08-07-iphone7p-官方店不能换电池了~有没有靠谱的第三方呀~](https://www.v2ex.com/t/696434) ![](assets/new.png)  
-- [2020-08-07-海量-HC，互联网企业，过亿用户。-https://job.toutiao.com/s/J6Fa9kX](https://www.v2ex.com/t/696433) ![](assets/new.png)  
 - [2020-08-07-目前/var/lib/docker-占用空间多大，如何迁移到其他分区？](https://www.v2ex.com/t/696432) ![](assets/new.png)  
 - [2020-08-07-网易云音乐-Windows-版磁盘访问异常](https://www.v2ex.com/t/696431) ![](assets/new.png)  
 - [2020-08-07-迫于外接显示屏-MBP-发热严重，那么使用投屏是不是就不热了？](https://www.v2ex.com/t/696430) ![](assets/new.png)  
@@ -1072,6 +1071,7 @@
 - [2020-08-07-有人知道怎么在-termux-上编译-sqlcipher-吗？](https://www.v2ex.com/t/696413) ![](assets/new.png)  
 - [2020-08-07-更新一个基于-tp5-+-vue-全家桶开发的文档管理工具](https://www.v2ex.com/t/696412) ![](assets/new.png)  
 - [2020-08-07-请教一下当前大厂短视频-app-是用-ffmpeg-在安卓转码的么？](https://www.v2ex.com/t/696411) ![](assets/new.png)  
+- [2020-08-07-SpringSecurity-Oauth2-如何动态自定义-jwt-生成的内容](https://www.v2ex.com/t/696410) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

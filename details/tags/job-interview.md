@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 10:19:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 10:31:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -59,5 +59,4 @@
 - [2020-07-22-唉，面试官这-5-道题，难为我这-3-年经验了](https://www.ershicimi.com/p/c7aa1d6be7b010de25757e320c014a9a) 
 - [2020-07-16-作为字节跳动面试官，有些话我不得不说！](https://www.ershicimi.com/p/32fc2b33ee69a44026a2b8b59f07aef1) 
 - [2020-08-07-坐标北京/校招社招同步-Starup-公司招聘技术岗](https://www.v2ex.com/t/696520) 
-- [2020-08-07-像素偏移|-上海-|-实习&社招-招聘-前端、安卓工程师，来一起做点有意思的事情！](https://www.v2ex.com/t/696507) 
 - [2020-08-04-渗透测试面试问题合集](https://sec.thief.one/article_content?a_id=f423366a12ee4f21045cf510862cc43c) 

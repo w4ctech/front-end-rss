@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 18:02:29，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 18:09:41，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1124,8 +1124,8 @@
 - [2020-08-07-Kubernetes-Pod-入门指南](https://toutiao.io/k/ttqrpr2) ![](assets/new.png)  
 - [2020-08-07-详解自然语言处理-5-大语义分析技术及-14-类应用](https://toutiao.io/k/twgudj2) ![](assets/new.png)  
 - [2020-08-07-GitHub-要改默认分支名了，你的开源项目受影响了吗？](https://toutiao.io/k/g1v562t) ![](assets/new.png)  
-- [2020-08-07-敲黑板了，这是新知识点](https://toutiao.io/k/vx31xf3) ![](assets/new.png)  
 - [2020-08-07-你真的了解热度排行榜吗？](https://toutiao.io/k/1uulona) ![](assets/new.png)  
+- [2020-08-07-敲黑板了，这是新知识点](https://toutiao.io/k/vx31xf3) ![](assets/new.png)  
 - [2020-08-07-我为何弃用-Jetpack-的-App-Startup？](https://toutiao.io/k/6o7r0ph) ![](assets/new.png)  
 - [2020-08-07-谷歌极速人脸、手、人体姿态分析-Blaze-算法家族](https://toutiao.io/k/pw7gu5l) ![](assets/new.png)  
 - [2020-08-07-不要一把梭了，这才是-SQL-优化的正确姿势](https://toutiao.io/k/770t8b3) ![](assets/new.png)  

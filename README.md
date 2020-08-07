@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 10:33:17，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 10:46:22，:rocket: 更新条数: +3244， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-07-世卫组织：全球新冠肺炎累计确诊病例超过1885万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRvDqXMceDfq2eDBkPYjT200807&isfromapp=1) ![](assets/new.png)  
+- [2020-08-07-2020年8月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200807_3921714.html) ![](assets/new.png)  
 - [2020-08-07-乌鲁木齐市昨日新增26例新冠肺炎确诊病例-均为集中医学观察人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuX46dJNPsQBwl5u9rnF200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-香港新增89例新冠肺炎确诊病例-连续5日新增少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982e0rjPvJyLZbw0b1k8200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-美国华盛顿大学：预测年底美死亡病例将逼近30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijNhllumZE3MOd4Gp6VJh200807&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-卢旺达累计确诊2111例新冠肺炎确诊病例-提醒国际旅客须提供PCR检测证明](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibGKAfTLYirok1VWbJWnI200807&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-8月10日起-韩国解除对湖北入境签证限制](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQxZjmuDmS9zXhnugKpgB200807&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,6 @@
 </summary>
 
 
-- [2020-08-07-有没有抖音内部的人，能透漏下抖音因为这波，日活的变化？仅国内](https://www.v2ex.com/t/696557) ![](assets/new.png)  
-- [2020-08-07-oracle-使用视图优化多个-left-join-问题](https://www.v2ex.com/t/696556) ![](assets/new.png)  
-- [2020-08-07-android-摄像头数据流替换](https://www.v2ex.com/t/696555) ![](assets/new.png)  
-- [2020-08-07-喜欢收藏却从来没看过。。。](https://www.v2ex.com/t/696554) ![](assets/new.png)  
-- [2020-08-07-想找个靠谱的创业团队加入，本人后端研发出身，也能写前端、小程序、Android](https://www.v2ex.com/t/696553) ![](assets/new.png)  
-- [2020-08-07-柯南「云断案」不再难，身在何处都如亲临现场](https://www.v2ex.com/t/696552) ![](assets/new.png)  
-- [2020-08-07-手机浏览器哪个好？主要是-Android-OS](https://www.v2ex.com/t/696548) ![](assets/new.png)  
-- [2020-08-07-死亡搁浅-PC-版怎么买能优惠一点呢](https://www.v2ex.com/t/696547) ![](assets/new.png)  
-- [2020-08-07-gin-项目中的结构体字段验证问题](https://www.v2ex.com/t/696546) ![](assets/new.png)  
-- [2020-08-07-ocsp.apple.com-解析到金山云吗？](https://www.v2ex.com/t/696544) ![](assets/new.png)  
-- [2020-08-07-想问下-v-友-BuyVM-的-aff-返点多少？](https://www.v2ex.com/t/696542) ![](assets/new.png)  
-- [2020-08-07-咕咕数据-API-数据接口](https://www.v2ex.com/t/696540) ![](assets/new.png)  
-- [2020-08-07-vue-做了个-pc-端的网易云音乐](https://www.v2ex.com/t/696538) ![](assets/new.png)  
-- [2020-08-07-eBay-招-Java-全栈-上海-eBay-美企，电商-，不加班，-WLB.（内有本周靠谱快速安排部门职位）](https://www.v2ex.com/t/696537) ![](assets/new.png)  
-- [2020-08-07-coding-一站式更进一步，和墨刀强强联合，果然是不会画原型的开发不是好开发哈哈哈](https://www.v2ex.com/t/696536) ![](assets/new.png)  
-- [2020-08-07-大家的各种密码会用浏览器或者本地的类似-IOS-钥匙串保存？安全？](https://www.v2ex.com/t/696535) ![](assets/new.png)  
-- [2020-08-07-内推-Rakuten-招聘-日本乐天-大连团队有两个-Devops-的-position](https://www.v2ex.com/t/696533) ![](assets/new.png)  
-- [2020-08-07-微信有什么办法禁止听筒模式吗？](https://www.v2ex.com/t/696531) ![](assets/new.png)  
-- [2020-08-07-问一下-golang-导包为什么会失败？](https://www.v2ex.com/t/696523) ![](assets/new.png)  
-- [2020-08-07-为什么我看不懂-CSS-规范？](https://www.v2ex.com/t/696521) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

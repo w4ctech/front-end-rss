@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 07:02:35，:rocket: 更新条数: +3496， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 07:09:41，:rocket: 更新条数: +3497， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-07-创业公司和外包选择](https://www.v2ex.com/t/696467) ![](assets/new.png)  
 - [2020-08-07-请教一个-sql-怎么写](https://www.v2ex.com/t/696466) ![](assets/new.png)  
 - [2020-08-07-用-PHP-克隆一个-V2EX，大约要多少钱呢？](https://www.v2ex.com/t/696465) ![](assets/new.png)  
 - [2020-08-07-一起搞副业呀](https://www.v2ex.com/t/696463) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-07-为什么厦门没有靠谱的互联网公司？](https://www.v2ex.com/t/696446) ![](assets/new.png)  
 - [2020-08-07-iPhone-8-连接电脑后权限弹窗无法关闭](https://www.v2ex.com/t/696444) ![](assets/new.png)  
 - [2020-08-07-想去上海或者深圳寻求发展，有没有什么建议](https://www.v2ex.com/t/696443) ![](assets/new.png)  
-- [2020-08-07-现在在-tx，年纪大了想稳定，券商和银行软开哪个好点？](https://www.v2ex.com/t/696442) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

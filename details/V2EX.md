@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-07 07:02:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 07:09:41。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-07-创业公司和外包选择](https://www.v2ex.com/t/696467) 
 - [2020-08-07-请教一个-sql-怎么写](https://www.v2ex.com/t/696466) 
 - [2020-08-07-用-PHP-克隆一个-V2EX，大约要多少钱呢？](https://www.v2ex.com/t/696465) 
 - [2020-08-07-一起搞副业呀](https://www.v2ex.com/t/696463) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 14:33:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 14:46:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -32,9 +32,9 @@
 - [2020-08-05-2万字！90个前端开发面试必问基础大总结](https://www.ershicimi.com/p/29bfa617feb719e3f7063eb358232dbe) 
 - [2020-07-30-蚂蚁、字节、滴滴面试经历总结都已过](https://www.ershicimi.com/p/8dc90b9888f39f8df50a9ce0c71726dd) 
 - [2020-07-27-面试字节25k岗，3道题就被干掉](https://www.ershicimi.com/p/8f5cb92d83016cc2cea02da1fb0fe8c2) 
+- [2020-08-07-今年面试，谈“钱”还合适吗？](https://www.ershicimi.com/p/d7869e53c2ab1c0b4fd9a4519559ef72) 
 - [2020-08-04-如何在面试官面前展示自己--经典AI面试题限时免费领取](https://www.ershicimi.com/p/4958378b45876dfc1ffe26a0c47e19eb) 
 - [2020-07-25-2-年前端面试心路历程（字节跳动、YY、虎牙、BIGO）](https://www.ershicimi.com/p/efa9af0b81a0227c31a6a8e5c37fe7ef) 
-- [2020-07-22-面试是所有前端求职者最重视的一个环节，这决定着一个求职者是否能够顺利的求职成功。-作为一个前端，在](https://www.ershicimi.com/p/4a58f2b28b6cbfaa341a3cc2281821c9) 
 - [2020-02-10-字节跳动招聘-|-和优秀的人，做有挑战的事！](https://www.ershicimi.com/p/2589ee6a2550c6bf0177ff3ebfa24ff4) 
 - [2019-12-16-招聘-|-支付宝前端技术部招聘前端工程师！](https://www.ershicimi.com/p/b67e3c69d8d6a6b4aaf9ed565fab1a93) 
 - [2019-10-21-招聘-|-字节跳动-上海-前端工程师社招-&-校招-&-实习生](https://www.ershicimi.com/p/dff761693416bd940e698627c37a14d9) 

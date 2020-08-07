@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-07 01:10:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-07 01:20:03。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -17,3 +17,4 @@
 - [2020-01-03-第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf) 
 - [2020-08-06-有没有什么加密算法是一对多的？](https://www.v2ex.com/t/696319) 
 - [2020-08-06-能推荐一个带-GPU-的-mini-PC-嘛？](https://www.v2ex.com/t/696318) 
+- [2020-08-07-谷歌极速人脸、手、人体姿态分析-Blaze-算法家族](https://toutiao.io/k/pw7gu5l) 

@@ -12547,6 +12547,16 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "俄罗斯卫生部：正在审查新冠疫苗登记注册相关文件",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwCdLGeE1aJHVvJqzKLxt200807&isfromapp=1",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "香港将进行全民新冠病毒检测 香港各界相信内地支援将有效助港抗疫",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinfZNOwTkuwyjmts92UVd200807&isfromapp=1",
+        "date": "2020-08-07"
+      },
+      {
         "title": "世卫组织：全球新冠肺炎累计确诊病例超过1885万例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRvDqXMceDfq2eDBkPYjT200807&isfromapp=1",
         "date": "2020-08-07"
@@ -12559,16 +12569,6 @@
       {
         "title": "乌鲁木齐市昨日新增26例新冠肺炎确诊病例 均为集中医学观察人员",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuX46dJNPsQBwl5u9rnF200807&isfromapp=1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "香港新增89例新冠肺炎确诊病例 连续5日新增少于100例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982e0rjPvJyLZbw0b1k8200807&isfromapp=1",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "美国华盛顿大学：预测年底美死亡病例将逼近30万",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijNhllumZE3MOd4Gp6VJh200807&isfromapp=1",
         "date": "2020-08-07"
       }
     ]
@@ -15699,8 +15699,13 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
-        "title": "美帝“干净网络”行动，对我们 it 界会造成什么影响？",
-        "link": "https://www.v2ex.com/t/696582",
+        "title": "[网易内推]互娱这边现在大量招人，想换工作的大佬看过来😏",
+        "link": "https://www.v2ex.com/t/696585",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "感觉自己太容易哭了",
+        "link": "https://www.v2ex.com/t/696583",
         "date": "2020-08-07"
       },
       {
@@ -15871,16 +15876,6 @@
       {
         "title": "coding 一站式更进一步，和墨刀强强联合，果然是不会画原型的开发不是好开发哈哈哈",
         "link": "https://www.v2ex.com/t/696536",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "大家的各种密码会用浏览器或者本地的类似 IOS 钥匙串保存？安全？",
-        "link": "https://www.v2ex.com/t/696535",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[内推] Rakuten 招聘 [日本乐天] 大连团队有两个 Devops 的 position",
-        "link": "https://www.v2ex.com/t/696533",
         "date": "2020-08-07"
       }
     ]
@@ -16098,13 +16093,8 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] Golang 写的即时通讯服务器 im（服务组件形式）",
-        "link": "https://toutiao.io/k/lnt5fc0",
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-07"
       },
       {
@@ -16113,13 +16103,23 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 如何写好一个技术预研报告?",
-        "link": "https://toutiao.io/k/hctcyf6",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-07"
       },
       {
@@ -16133,33 +16133,13 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-07"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
+        "title": "[推荐] 如何写好一个技术预研报告?",
+        "link": "https://toutiao.io/k/hctcyf6",
         "date": "2020-08-07"
       },
       {
@@ -16168,8 +16148,23 @@
         "date": "2020-08-07"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
+        "date": "2020-08-07"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-07"
       }
     ]

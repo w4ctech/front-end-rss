@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-07 12:13:11，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-07 12:26:13，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-07-俄罗斯卫生部：正在审查新冠疫苗登记注册相关文件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwCdLGeE1aJHVvJqzKLxt200807&isfromapp=1) ![](assets/new.png)  
+- [2020-08-07-香港将进行全民新冠病毒检测-香港各界相信内地支援将有效助港抗疫](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinfZNOwTkuwyjmts92UVd200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-世卫组织：全球新冠肺炎累计确诊病例超过1885万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRvDqXMceDfq2eDBkPYjT200807&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-2020年8月6日0时至24时辽宁新型冠状病毒肺炎疫情情况](http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202008/t20200807_3921714.html) ![](assets/new.png)  
 - [2020-08-07-乌鲁木齐市昨日新增26例新冠肺炎确诊病例-均为集中医学观察人员](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHuX46dJNPsQBwl5u9rnF200807&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-香港新增89例新冠肺炎确诊病例-连续5日新增少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti982e0rjPvJyLZbw0b1k8200807&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-美国华盛顿大学：预测年底美死亡病例将逼近30万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijNhllumZE3MOd4Gp6VJh200807&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,7 +1052,8 @@
 </summary>
 
 
-- [2020-08-07-美帝“干净网络”行动，对我们-it-界会造成什么影响？](https://www.v2ex.com/t/696582) ![](assets/new.png)  
+- [2020-08-07-网易内推互娱这边现在大量招人，想换工作的大佬看过来😏](https://www.v2ex.com/t/696585) ![](assets/new.png)  
+- [2020-08-07-感觉自己太容易哭了](https://www.v2ex.com/t/696583) ![](assets/new.png)  
 - [2020-08-07-招聘贴-南京销售岗---作业帮南京分部](https://www.v2ex.com/t/696581) ![](assets/new.png)  
 - [2020-08-07-抽奖结果公布-极客时间-Java-课程抽取](https://www.v2ex.com/t/696580) ![](assets/new.png)  
 - [2020-08-07-求问大佬们，怎么学习-Spring-和-Spring-Boot-然后做出一个面试用的项目啊？](https://www.v2ex.com/t/696579) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-07-真想恨恨的骂一下苹果，来解解气啊！](https://www.v2ex.com/t/696562) ![](assets/new.png)  
 - [2020-08-07-高级系统工程师（laas/Naas-方向），不加班，薪水好谈，地点：上海](https://www.v2ex.com/t/696561) ![](assets/new.png)  
 - [2020-08-07-求解一个-vuetify-dialog-传参的问题](https://www.v2ex.com/t/696559) ![](assets/new.png)  
-- [2020-08-07-这个抄袭也太牛逼了-5-千多个-star-比原作品还多](https://www.v2ex.com/t/696558) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

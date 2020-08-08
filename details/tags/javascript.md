@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 16:33:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 16:46:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -75,9 +75,6 @@
 - [2020-08-07-H5-秒开方案大全](https://www.ershicimi.com/p/d2e77a7bbd71a5616da3a48cae7e3ccd) 
 - [2020-07-31-Hybrid-应用中-H5-与-Native-通信的那点事儿](https://www.ershicimi.com/p/94ef89e567327766248936ef6bc9b7df) 
 - [2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
-- [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
-- [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
-- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
 - [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-08-03-利用-JS-实现多种图片相似度算法](https://www.ershicimi.com/p/560830dcf48ace0ef9cc827ad409f3f4) 
 - [2020-08-03-input/change/composition/keydown事件详解](https://www.ershicimi.com/p/5e6fe42cf3c3662621ea354df66a4498) 
@@ -99,7 +96,6 @@
 - [2020-08-08-使用-Go-Module-后-GOPATH-的作用？](https://www.v2ex.com/t/696781) 
 - [2020-08-08-请问下-golang-json-化的问题,重写-UnmarshalJSON-后取不到值了.](https://www.v2ex.com/t/696774) 
 - [2020-08-08-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 
 - [2020-08-05-习近平就黎巴嫩贝鲁特发生重大爆炸事件向黎巴嫩总统奥恩致慰问电](https://sec.thief.one/article_content?a_id=4622e2866c7bdbfc91b24d8e9ff76b88) 
 - [2020-08-05-华硕路由器远程代码执行漏洞通告](https://sec.thief.one/article_content?a_id=91239c2bfb1081faf12860d8e9db728b) 

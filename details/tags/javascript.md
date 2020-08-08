@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 21:33:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 21:46:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -123,6 +123,7 @@
 - [2019-12-02-JavaScript-是怎么工作的：内存管理及怎么处理四种常见的内存泄露](https://juejin.im/post/5de08bd26fb9a071bb7cab56) 
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-08-01-知乎故事-|-你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/c93d6877bcc13617ad10f08202f67391) 
+- [2020-08-08-在终端中运行-golang-程序，滚动终端的输出时有可能导致线程卡死？？](https://www.v2ex.com/t/696797) 
 - [2020-08-08-有适合我这种情况的路由器吗？](https://www.v2ex.com/t/696788) 
 - [2020-08-08-使用-Go-Module-后-GOPATH-的作用？](https://www.v2ex.com/t/696781) 
 - [2020-08-08-请问下-golang-json-化的问题,重写-UnmarshalJSON-后取不到值了.](https://www.v2ex.com/t/696774) 

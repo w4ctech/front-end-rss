@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 06:48:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 07:02:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -86,7 +86,6 @@
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-07-31-给夏天加点料，秀出你的节奏感！-|-《这，就是街舞》第三季有奖视频征集](https://www.ershicimi.com/p/dc1ba7e91a42d0503bfd01bd99ba6390) 
-- [2020-08-08-b-站视频播放加速：有大于-2-倍速播放的方法不-😅](https://www.v2ex.com/t/696648) 
 - [2020-08-06-明晚轰趴刷夜+4天全程直播!请收好这份DEF-CON-28节目单](https://sec.thief.one/article_content?a_id=131e1f0cc8290b4cdd1e295ddc2543f5) 
 - [2020-08-06-直播预告|《红队百科全书内部审核版》最后五套等你带回家!!!](https://sec.thief.one/article_content?a_id=307035ef098dfef2013f9318b6a83827) 
 - [2020-08-05-【视频】|-我们的个人隐私信息都被商家储存在哪里了?](https://sec.thief.one/article_content?a_id=6ffd46847b35ad3927c46acf599580e8) 

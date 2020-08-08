@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 17:33:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 17:46:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2020-08-08-GOLANG-联网程序如何防破解](https://www.v2ex.com/t/696747) 
 - [2020-08-08-TLS-Exposing-and-Circumventing-China's-Censorship-of-ESNI](https://www.v2ex.com/t/696746) 
 - [2020-08-08-都-2020-年了，-Kindle-还不能同步阅读进度？](https://www.v2ex.com/t/696744) 
-- [2020-08-08-闲着没事写了个短链生成器，需要的自取](https://www.v2ex.com/t/696743) 

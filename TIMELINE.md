@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 16:46:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-08 16:48:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -222,6 +222,7 @@
 - [【Nodejs技术栈】2020-08-04-深入Vue-底层原理以及运行机制](https://www.ershicimi.com/p/9025ae23cea918507c880dfd788e3136) 
 - [【Nodejs技术栈】2020-08-03-JavaScript-中-this-的错误认识、绑定规则、常见问题讲解](https://www.ershicimi.com/p/e6d6a500197a2517ad4c5665618f1ac9) 
 - [【Nodejs技术栈】2020-08-01-赠书第-2-期｜Node.js-企业级应用开发实践](https://www.ershicimi.com/p/e15e541682fadd6c6f283df641910553) 
+- [【张鑫旭-鑫空间-鑫生活】2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/) 
 - [【阮一峰的网络日志】2020-08-07-科技爱好者周刊（第-119-期）：降雨量和保险博弈-](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html) 
 - [【奇舞周刊】2020-08-08-「查缺补漏」巩固你的HTTP知识体系](https://www.ershicimi.com/p/2c8fabfc84cbfe1048f6390ac2e400aa) 
 - [【奇舞周刊】2020-08-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1399cc984e8b4267161a93a92c3c017e) 
@@ -789,6 +790,9 @@
 - [【Nodejs技术栈】2020-07-10-揭秘阿里-Node.js-框架-Midway-Serverless-如何做到提效-50%?](https://www.ershicimi.com/p/700539e7bd078f200fdd4b825ef9099d) 
 - [【Nodejs技术栈】2020-07-09-邂逅-React，成为大厂爱招的人~](https://www.ershicimi.com/p/21c2db02b7e4a2c02788eb44c659f429) 
 - [【Nodejs技术栈】2020-07-08-实战-|-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/85eb988956d577d60ed7515db04817de) 
+- [【张鑫旭-鑫空间-鑫生活】2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-07-21-深入理解CSS-background-blend-mode的作用机制](https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-07-06-巧用CSS-cross-fade实现背景图像半透明效果](https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/) 
 - [【阮一峰的网络日志】2020-07-31-科技爱好者周刊（第-118-期）：高考志愿怎么填](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-118.html) 
 - [【阮一峰的网络日志】2020-07-24-科技爱好者周刊（第-117-期）：我不想让你记住我的脸](http://www.ruanyifeng.com/blog/2020/07/weekly-issue-117.html) 
 - [【奇舞周刊】2020-07-31-奇舞周刊第-358-期：探索前端领域技术和业务价值](https://www.ershicimi.com/p/30a8b831821cd7d79f3e03af91f43e29) 
@@ -1075,6 +1079,11 @@
 - [【政采云前端团队】2020-06-10-关于---政采云前端团队](https://www.ershicimi.com/p/1263b3b7f0ca45da27c3f06a22eeb949) 
 - [【政采云前端团队】2020-06-07-一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a) 
 - [【政采云前端团队】2020-06-04-万字长文干货，面试官角度看招聘](https://www.ershicimi.com/p/4dc18ee565bce98101efce932b7cf44a) 
+- [【张鑫旭-鑫空间-鑫生活】2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-06-16-使用CSS-text-emphasis对文字进行强调装饰](https://www.zhangxinxu.com/wordpress/2020/06/css-text-emphasis/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
+- [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [【前端日刊】2020-06-29-很好奇，做前端的你是不是也这样……](https://www.ershicimi.com/p/d43337bede38d0646400dc74efdb4162) 
 - [【前端日刊】2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
 - [【前端日刊】2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
@@ -1273,6 +1282,7 @@
 - [【政采云前端团队】2020-05-22-福利提醒，《算法-101-JavaScript-描述》电子书，公众号内回复-101，即可获得-٩](https://www.ershicimi.com/p/7dd85e61b25457f91ed703232b212518) 
 - [【政采云前端团队】2020-05-17-如何实现用户行为的动态采集与分析](https://www.ershicimi.com/p/d412fd5c4e394a6d3878adb3f6652df7) 
 - [【政采云前端团队】2020-05-10-图解-HTTP-缓存](https://www.ershicimi.com/p/ae423611a06e1b0cee360aeee70191ab) 
+- [【张鑫旭-鑫空间-鑫生活】2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

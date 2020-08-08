@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 15:09:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 15:19:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -78,7 +78,6 @@
 - [2020-07-27-JS纯前端实现audio音频剪裁剪切复制播放与上传](https://www.zhangxinxu.com/wordpress/2020/07/js-audio-clip-copy-upload/) 
 - [2020-06-30-CSS变量对JS交互组件开发带来的提升与变革](https://www.zhangxinxu.com/wordpress/2020/07/css-var-improve-components/) 
 - [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) 
 - [2020-08-03-利用-JS-实现多种图片相似度算法](https://www.ershicimi.com/p/560830dcf48ace0ef9cc827ad409f3f4) 
 - [2020-08-03-input/change/composition/keydown事件详解](https://www.ershicimi.com/p/5e6fe42cf3c3662621ea354df66a4498) 
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
@@ -97,7 +96,6 @@
 - [2019-10-16-Javascript-内存空间管理](https://www.ershicimi.com/p/d9e85629024a3bcdddf5fa72075736e6) 
 - [2020-08-01-知乎故事-|-你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/c93d6877bcc13617ad10f08202f67391) 
 - [2020-08-08-请问下-golang-json-化的问题,重写-UnmarshalJSON-后取不到值了.](https://www.v2ex.com/t/696774) 
-- [2020-08-08-Android-升级适配爬坑历程-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13658&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FxrIlX7JMouyogTsc5oFeXw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-08-悟空活动中台：H5-活动加载优化](https://toutiao.io/k/4bq18z2) 
 - [2020-08-07-【安全圈】路由器,交换机和AnyConnect-VPN中的高度严重漏洞](https://sec.thief.one/article_content?a_id=1c9ffbde3b409b310e18dcadfbe69b72) 
 - [2020-08-05-习近平就黎巴嫩贝鲁特发生重大爆炸事件向黎巴嫩总统奥恩致慰问电](https://sec.thief.one/article_content?a_id=4622e2866c7bdbfc91b24d8e9ff76b88) 

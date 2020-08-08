@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 20:33:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 20:46:55。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2497,8 +2497,8 @@
 - [2020-08-08-小图标，大学问-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13646&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fweb-icon-history%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-08-又拍云网关速率限制实践-zhuanlan.zhihu.com](https://blogread.cn/news/go.php?idItem=13645&url=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F164735755%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-08-超实用图片工具网站，值得典藏-www.jeffjade.com](https://blogread.cn/news/go.php?idItem=13644&url=https%3A%2F%2Fwww.jeffjade.com%2F2020%2F07%2F27%2F165-aweome-picture-tool-website-list%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
-- [2020-08-08-从-DSSM-语义匹配到-Google-的双塔深度模型召回和广告场景中的双塔模型思考](https://toutiao.io/k/5l4lu0b) 
 - [2020-08-08-技术管理：读「孙子兵法」杂感杂谈](https://toutiao.io/k/h2ugala) 
+- [2020-08-08-从-DSSM-语义匹配到-Google-的双塔深度模型召回和广告场景中的双塔模型思考](https://toutiao.io/k/5l4lu0b) 
 - [2020-08-08-TS-核心知识点总结及项目实战案例分析](https://toutiao.io/k/wz3g833) 
 - [2020-08-08-西工大-PAMI-论文：发布大规模人群计数/定位基准平台](https://toutiao.io/k/brtiwf7) 
 - [2020-08-08-Emacs-心路历程（上）](https://toutiao.io/k/3xytpf1) 
@@ -2506,11 +2506,13 @@
 - [2020-08-08-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) 
 - [2020-08-08-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) 
 - [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
-- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
-- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
 - [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
+- [2020-08-08-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
+- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
+- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
+- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
+- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
 - [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) 
 - [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) 
 - [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) 

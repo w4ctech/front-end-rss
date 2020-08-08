@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 12:48:09，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 13:02:53，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,9 @@
 </summary>
 
 
+- [2020-08-08-社招-字节跳动---前端开发工程师，移动-OS-/-教育-/-电商业务，坐标：北京---中关村](https://www.v2ex.com/t/696748) ![](assets/new.png)  
+- [2020-08-08-GOLANG-联网程序如何防破解](https://www.v2ex.com/t/696747) ![](assets/new.png)  
+- [2020-08-08-TLS-Exposing-and-Circumventing-China's-Censorship-of-ESNI](https://www.v2ex.com/t/696746) ![](assets/new.png)  
 - [2020-08-08-都-2020-年了，-Kindle-还不能同步阅读进度？](https://www.v2ex.com/t/696744) ![](assets/new.png)  
 - [2020-08-08-闲着没事写了个短链生成器，需要的自取](https://www.v2ex.com/t/696743) ![](assets/new.png)  
 - [2020-08-08-求问-nginx-做反向代理的配置](https://www.v2ex.com/t/696741) ![](assets/new.png)  
@@ -1089,9 +1092,6 @@
 - [2020-08-08-SwiftUI-问题求教](https://www.v2ex.com/t/696727) ![](assets/new.png)  
 - [2020-08-08-有没有能离开桌面使用的鼠标-适合站起来操作的](https://www.v2ex.com/t/696726) ![](assets/new.png)  
 - [2020-08-08-不懂就问。](https://www.v2ex.com/t/696724) ![](assets/new.png)  
-- [2020-08-08-systemctl-disable-xxx-之后不起作用](https://www.v2ex.com/t/696723) ![](assets/new.png)  
-- [2020-08-08-项目构建工具-maven,-gradle,-sbt-下载依赖碰到-ssl-问题](https://www.v2ex.com/t/696722) ![](assets/new.png)  
-- [2020-08-08-耳朵里偶尔有沙沙的类似揉纸团一样声音](https://www.v2ex.com/t/696720) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,16 +1144,16 @@
 - [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1180,11 +1180,11 @@
 - [2020-08-08-英特尔遭黑客攻击!20GB绝密芯片工程数据遭窃](https://sec.thief.one/article_content?a_id=51f5aabc75a45c162d0785bf984687d8) ![](assets/new.png)  
 - [2020-08-08-5分钟内搭建你的第一个Python聊天机器人](https://sec.thief.one/article_content?a_id=902dbab14cb587291abe51eaf522c78b) ![](assets/new.png)  
 - [2020-08-07-某Nginx后门分析与重现](https://sec.thief.one/article_content?a_id=041479196ec76d97166265ce0b0d40d1) ![](assets/new.png)  
+- [2020-08-07-数据库—从注入到提权的全家桶套餐](https://sec.thief.one/article_content?a_id=39f8721561ff97cfda060249f934e7e9) ![](assets/new.png)  
 - [2020-08-07-2020中国网络安全年会即将召开-强大嘉宾阵容不容错过!](https://sec.thief.one/article_content?a_id=ed7075379c3f2f8a6143355bcfb50245) ![](assets/new.png)  
 - [2020-08-07-红蓝对抗之域名搜集方法总结](https://sec.thief.one/article_content?a_id=ba24788da9892140bafa6671578aee93) ![](assets/new.png)  
 - [2020-08-07-新一代数据泄露防护技术的思考与最佳实践](https://sec.thief.one/article_content?a_id=10a1daf7fe45527f186ad42fe5b6ac12) ![](assets/new.png)  
 - [2020-08-07-不能说的秘密](https://sec.thief.one/article_content?a_id=f75a2210aca97b206c599bb257db6328) ![](assets/new.png)  
-- [2020-08-07-新一代垃圾回收器ZGC的探索与实践](https://sec.thief.one/article_content?a_id=0d571bf24d242df1ea42ab860bfb089b) ![](assets/new.png)  
 - [......【查看更多】......](./details/安全热点.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-08 15:03:00。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 15:09:34。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -147,7 +147,6 @@
 - [【Nodejs技术栈】一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f)
 - [【奇舞周刊】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【V2EX】项目构建工具-maven,-gradle,-sbt-下载依赖碰到-ssl-问题](https://www.v2ex.com/t/696722)
 - [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
@@ -397,8 +396,6 @@
 - [【InfoQ】云原生时代，巧妙利用云架构优化本地部署的方法论-|-Q推荐](https://www.ershicimi.com/p/1b636a729ee066cfd9bcb12be97c199f)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
-- [【开发者头条】推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08)
-- [【开发者头条】推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -502,6 +499,7 @@
 - [【政采云前端团队】一份值得收藏的-Git-异常处理清单](https://www.ershicimi.com/p/43407e7a09f17b14244200f6a6b54d1a)
 - [【Nodejs技术栈】GitHub-真把代码冰封北极-1000-年！](https://www.ershicimi.com/p/38187e751101fa633b95b5998c0ed0bd)
 - [【前端e进阶】第37期-了解下git文件名大小写](https://www.ershicimi.com/p/767cbceb6c54169c6484a4361acf6e2e)
+- [【互联网架构师】好奇！滴滴在-GitHub-开源了哪些有意思的项目？](https://www.ershicimi.com/p/437edb45708aa54f104689e420e66e68)
 - [【编程之上】git-入门](https://www.ershicimi.com/p/b8cfa7989e082637df769157ba74b9b0)
 - [【编程之上】Git-工作流](https://www.ershicimi.com/p/86a72f85a5d8272dd05488325d74a82e)
 - [【安全热点】9-招让你的GitHub下载飞速提升到2M/s以上](https://sec.thief.one/article_content?a_id=2e97edaa0101eca302d6aa4dd2e2f1cf)

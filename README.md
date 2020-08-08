@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 00:25:20，:rocket: 更新条数: +3479， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 00:47:16，:rocket: 更新条数: +3482， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-08-阿根廷连续三天日增病例超7000例-卫生部更改确诊标准](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9ZJvXKcSjVYUbWEGREic200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-意大利8月24日启动国产新冠疫苗人体试验](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti58rNHXTClAtF9M6TZzCy200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-哥伦比亚累计新冠肺炎病例逾36万例-原住民聚集区疫情加速扩散](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWKLkocoveGcC5L9Tzd0N200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-古巴对西部五省收紧防疫措施-阿尔特米萨省退回“解封”第二阶段](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiERJBFn4ka2I6ijviLRX8200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-07-美国纽约州州长：纽约州所有学校将在秋季学期开放](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirOZ4V9o2Aj7DZ51oJh4e200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-07-美国病毒专家：佩戴口罩可以减少-7-万人的死亡](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6odl5qEVp8aE0IM7NW6A200807&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-08-免费领取网易云音乐-7-天](https://www.v2ex.com/t/696637) ![](assets/new.png)  
 - [2020-08-08-淘宝-88vip-的虾米会员可以转网易云黑胶了，起飞](https://www.v2ex.com/t/696636) ![](assets/new.png)  
 - [2020-08-08-搭建了个抓取动漫壁纸的-tg-频道](https://www.v2ex.com/t/696635) ![](assets/new.png)  
 - [2020-08-07-480G-的-m.2-在-esxi-里只识别-348G](https://www.v2ex.com/t/696634) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-07-BIGO-2021-届校招内推-广州、北京、上海、深圳、新加坡都设有岗位，校招内推简历优先筛选](https://www.v2ex.com/t/696620) ![](assets/new.png)  
 - [2020-08-07-能否推荐一个替代网易云音乐的产品](https://www.v2ex.com/t/696618) ![](assets/new.png)  
 - [2020-08-07-求建议-澳洲海带硕，麻烦大家给写简历修改意见](https://www.v2ex.com/t/696617) ![](assets/new.png)  
-- [2020-08-07-小复盘：闪购-──-直播电商下单的新模式，实现垂直品类直播销售的突破](https://www.v2ex.com/t/696616) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1134,21 +1134,24 @@
 </summary>
 
 
-- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-08-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
+- [2020-08-08-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-08-BIGO-实时计算平台建设](https://toutiao.io/k/787nrq6) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
 - [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
 - [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

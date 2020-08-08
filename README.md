@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 11:33:33，:rocket: 更新条数: +3487， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 11:46:39，:rocket: 更新条数: +3489， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,10 @@
 </summary>
 
 
+- [2020-08-08-本人小白，想学习渗透技术，有想一起的吗？](https://www.v2ex.com/t/696739) ![](assets/new.png)  
+- [2020-08-08-我感觉我还是比较适合维护这种-timeline-形式的博客站点](https://www.v2ex.com/t/696738) ![](assets/new.png)  
+- [2020-08-08-防火墙开始阻断所有-ESNI](https://www.v2ex.com/t/696737) ![](assets/new.png)  
+- [2020-08-08-rixcloud-网址究竟是啥？和魅影比哪个速度快？稳定？](https://www.v2ex.com/t/696736) ![](assets/new.png)  
 - [2020-08-08-关于-Google-Play-商店只能浏览不能下载的一点奇怪发现](https://www.v2ex.com/t/696735) ![](assets/new.png)  
 - [2020-08-08-自己的搭建了-一个壁纸站，欢迎大家围观](https://www.v2ex.com/t/696734) ![](assets/new.png)  
 - [2020-08-08-macOS-有什么可以较为完美的-接管-/-劫持-chrome-/-edge-的多线程下载工具？-Chrome-浏览器之类的内置下载，尤其下载非大陆内容，单线程还是很慢。。。](https://www.v2ex.com/t/696733) ![](assets/new.png)  
@@ -1088,10 +1092,6 @@
 - [2020-08-08-各位朋友，能试一试-api.github.com-能直连吗？](https://www.v2ex.com/t/696717) ![](assets/new.png)  
 - [2020-08-08-学校还行，毕业半年，-0-工作经验，怎么找到第一份工作？](https://www.v2ex.com/t/696716) ![](assets/new.png)  
 - [2020-08-08-iOS-13.6-有什么开启微信-Call-Kit-的方法吗？](https://www.v2ex.com/t/696715) ![](assets/new.png)  
-- [2020-08-08-React+TypeScript-来知识工具创新团队做点有意思的产品呗！-远程合作-已有-4-个远程开发，其他产品设计在上海](https://www.v2ex.com/t/696714) ![](assets/new.png)  
-- [2020-08-08-关于-notion-制作个人博客的经验分享，真香，这是我的最后一个博客](https://www.v2ex.com/t/696712) ![](assets/new.png)  
-- [2020-08-08-为啥用台式机使用百度搜索就很快，用-mac-就一直转圈，搞得现在-mac-设置-bing-为默认搜索](https://www.v2ex.com/t/696711) ![](assets/new.png)  
-- [2020-08-08-实践总结：在-Java-中调用-Go-代码](https://www.v2ex.com/t/696710) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1144,16 +1144,16 @@
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
 - [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
 - [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

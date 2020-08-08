@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-08 17:48:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 18:02:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-08-似乎广州联通出现了大范围的网络中断情况](https://www.v2ex.com/t/696794) 
 - [2020-08-08-有什么方法可以优化大陆到-GCP-香港的线路？](https://www.v2ex.com/t/696792) 
 - [2020-08-08-8.3-去网易的-HR-面试完毕，到现在没有收到任何消息，这是啥情况](https://www.v2ex.com/t/696791) 
 - [2020-08-08-有适合我这种情况的路由器吗？](https://www.v2ex.com/t/696788) 
@@ -42,4 +43,3 @@
 - [2020-08-08-社招-字节跳动---前端开发工程师，移动-OS-/-教育-/-电商业务，坐标：北京---中关村](https://www.v2ex.com/t/696748) 
 - [2020-08-08-GOLANG-联网程序如何防破解](https://www.v2ex.com/t/696747) 
 - [2020-08-08-TLS-Exposing-and-Circumventing-China's-Censorship-of-ESNI](https://www.v2ex.com/t/696746) 
-- [2020-08-08-都-2020-年了，-Kindle-还不能同步阅读进度？](https://www.v2ex.com/t/696744) 

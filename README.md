@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 04:48:35，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 05:02:47，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-08-mac-14-菜单栏有空白，求助！](https://www.v2ex.com/t/696674) ![](assets/new.png)  
+- [2020-08-08-有没有遇见远程桌面连-win10-蓝屏重启的怎么解决的？](https://www.v2ex.com/t/696673) ![](assets/new.png)  
 - [2020-08-08-发一个新帖要在第三页才能看到，这是不是传说中的被降权了？](https://www.v2ex.com/t/696671) ![](assets/new.png)  
 - [2020-08-08-APP-加固方案怎么选？](https://www.v2ex.com/t/696670) ![](assets/new.png)  
 - [2020-08-08-用-session-还是用-token？-rest-api-发生业务错误时返回的-http-status-应该是-200-还是-4xx/5xx？](https://www.v2ex.com/t/696668) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-08-b-站视频播放加速：有大于-2-倍速播放的方法不-😅](https://www.v2ex.com/t/696648) ![](assets/new.png)  
 - [2020-08-08-有一键打开指定图片的快捷指令吗？](https://www.v2ex.com/t/696645) ![](assets/new.png)  
 - [2020-08-08-杭州/远程-imToken-招聘初级/资深前端、SRE、产品/项目经理](https://www.v2ex.com/t/696644) ![](assets/new.png)  
-- [2020-08-08-有老哥买过-iPad-pro-+-magickeyboard-的吗？能不能提高程序员的办公和学习效率？](https://www.v2ex.com/t/696643) ![](assets/new.png)  
-- [2020-08-08-TimeMachine-锁屏后不会自动备份](https://www.v2ex.com/t/696641) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,25 +1115,25 @@
 
 
 - [2020-08-08-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
-- [2020-08-08-我还在生产玩-JDK-7，JDK-15-却要来了](https://toutiao.io/k/lzbgs8w) ![](assets/new.png)  
 - [2020-08-08-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
+- [2020-08-08-我还在生产玩-JDK-7，JDK-15-却要来了](https://toutiao.io/k/lzbgs8w) ![](assets/new.png)  
 - [2020-08-08-国内低代码平台从业者交流](https://toutiao.io/k/rb7qtq5) ![](assets/new.png)  
 - [2020-08-08-BIGO-实时计算平台建设](https://toutiao.io/k/787nrq6) ![](assets/new.png)  
-- [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
 - [2020-08-08-悟空活动中台：H5-活动加载优化](https://toutiao.io/k/4bq18z2) ![](assets/new.png)  
+- [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
 - [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
 - [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

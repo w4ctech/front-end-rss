@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 05:46:32，:rocket: 更新条数: +3237， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 05:48:29，:rocket: 更新条数: +3270， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1052,6 +1052,26 @@
 </summary>
 
 
+- [2020-08-08-Java-通用方法如何设置传不同实体的参数](https://www.v2ex.com/t/696684) ![](assets/new.png)  
+- [2020-08-08-剑网三这游戏怎么有那么多反映被封号的](https://www.v2ex.com/t/696683) ![](assets/new.png)  
+- [2020-08-08-闲来无事，用闲置服务器做了个收录干货的小站点。](https://www.v2ex.com/t/696682) ![](assets/new.png)  
+- [2020-08-08-深圳-海外业务寻求有上进心，学习能力强的-Android-技术一起赚美金](https://www.v2ex.com/t/696681) ![](assets/new.png)  
+- [2020-08-08-PHP-密码管理器，浏览器端-AES-加密](https://www.v2ex.com/t/696680) ![](assets/new.png)  
+- [2020-08-08-汉诺塔问题能不能写成尾递归？或者一个递归能否写成尾递归的标准是什么？](https://www.v2ex.com/t/696678) ![](assets/new.png)  
+- [2020-08-08-前端需要学语义网相关的东西吗？](https://www.v2ex.com/t/696677) ![](assets/new.png)  
+- [2020-08-08-mac-14-菜单栏有空白，求助！](https://www.v2ex.com/t/696674) ![](assets/new.png)  
+- [2020-08-08-有没有遇见远程桌面连-win10-蓝屏重启的怎么解决的？](https://www.v2ex.com/t/696673) ![](assets/new.png)  
+- [2020-08-08-发一个新帖要在第三页才能看到，这是不是传说中的被降权了？](https://www.v2ex.com/t/696671) ![](assets/new.png)  
+- [2020-08-08-APP-加固方案怎么选？](https://www.v2ex.com/t/696670) ![](assets/new.png)  
+- [2020-08-08-用-session-还是用-token？-rest-api-发生业务错误时返回的-http-status-应该是-200-还是-4xx/5xx？](https://www.v2ex.com/t/696668) ![](assets/new.png)  
+- [2020-08-08-刚看到“Apple-Tech-752”这个，真的挺好](https://www.v2ex.com/t/696667) ![](assets/new.png)  
+- [2020-08-08-有没有这种浏览器插件，点击屏幕就翻页，不用老是用手指滑，看小说/长文太累人了](https://www.v2ex.com/t/696665) ![](assets/new.png)  
+- [2020-08-08-vue2-源码修改这-3-行，有啥用？](https://www.v2ex.com/t/696664) ![](assets/new.png)  
+- [2020-08-08-百度网盘真绝啊，非会员下载速度个位数](https://www.v2ex.com/t/696663) ![](assets/new.png)  
+- [2020-08-08-微信微信零钱提现免费券](https://www.v2ex.com/t/696659) ![](assets/new.png)  
+- [2020-08-08-mysql-删除一条数据后显示这个，大佬们这个怎么解决？](https://www.v2ex.com/t/696658) ![](assets/new.png)  
+- [2020-08-08-如何在-win10-调试-k8s-源码？](https://www.v2ex.com/t/696657) ![](assets/new.png)  
+- [2020-08-08-需要云主机服务器的可以找我哦](https://www.v2ex.com/t/696655) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -15714,6 +15714,16 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "iOS 13.6 有什么开启微信 Call Kit 的方法吗？",
+        "link": "https://www.v2ex.com/t/696715",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "来知识工具创新小团队做点有意思的产品呗！ [远程合作] [已有 4 个远程开发，其他产品设计在上海]",
+        "link": "https://www.v2ex.com/t/696714",
+        "date": "2020-08-08"
+      },
+      {
         "title": "关于 notion 制作个人博客的经验分享，真香，这是我的最后一个博客",
         "link": "https://www.v2ex.com/t/696712",
         "date": "2020-08-08"
@@ -15871,16 +15881,6 @@
       {
         "title": "刚看到“Apple Tech 752”这个，真的挺好",
         "link": "https://www.v2ex.com/t/696667",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "有没有这种浏览器插件，点击屏幕就翻页，不用老是用手指滑，看小说/长文太累人了",
-        "link": "https://www.v2ex.com/t/696665",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "vue2 源码修改这 3 行，有啥用？",
-        "link": "https://www.v2ex.com/t/696664",
         "date": "2020-08-08"
       }
     ]
@@ -16048,43 +16048,13 @@
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-08"
-      },
-      {
         "title": "[推荐] ES 优化看这几条就够了",
         "link": "https://toutiao.io/k/194ehwo",
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
         "date": "2020-08-08"
       },
       {
@@ -16098,13 +16068,23 @@
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
         "date": "2020-08-08"
       },
       {
@@ -16113,13 +16093,33 @@
         "date": "2020-08-08"
       },
       {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-08"
+      },
+      {
         "title": "[推荐] 一文读懂 Web 安全",
         "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-08"
       }
     ]

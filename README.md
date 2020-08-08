@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 03:02:39，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 03:09:21，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-08-微信微信零钱提现免费券](https://www.v2ex.com/t/696659) ![](assets/new.png)  
+- [2020-08-08-mysql-删除一条数据后显示这个，大佬们这个怎么解决？](https://www.v2ex.com/t/696658) ![](assets/new.png)  
+- [2020-08-08-如何在-win10-调试-k8s-源码？](https://www.v2ex.com/t/696657) ![](assets/new.png)  
+- [2020-08-08-需要云主机服务器的可以找我哦](https://www.v2ex.com/t/696655) ![](assets/new.png)  
 - [2020-08-08-block-的人还能看见并回复自己的帖子?](https://www.v2ex.com/t/696652) ![](assets/new.png)  
 - [2020-08-08-牙膏厂-12-代-U-要用大小核了](https://www.v2ex.com/t/696651) ![](assets/new.png)  
 - [2020-08-08-Java-服务部署后浏览器无法访问，通过-curl-确可以访问](https://www.v2ex.com/t/696650) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-07-480G-的-m.2-在-esxi-里只识别-348G](https://www.v2ex.com/t/696634) ![](assets/new.png)  
 - [2020-08-07-找初学-App-开发的小伙伴,互相监督学习打卡呀](https://www.v2ex.com/t/696633) ![](assets/new.png)  
 - [2020-08-07-全局联网之后，百度的-ip-地址变成了美国的...](https://www.v2ex.com/t/696632) ![](assets/new.png)  
-- [2020-08-07-PHP-echo-出来的-bool-类型的值，为什么会被转成-int?](https://www.v2ex.com/t/696631) ![](assets/new.png)  
-- [2020-08-07-有人用-aqara-homekit-吗？](https://www.v2ex.com/t/696630) ![](assets/new.png)  
-- [2020-08-07-某知名互联网公司正在劝退大龄码农？](https://www.v2ex.com/t/696629) ![](assets/new.png)  
-- [2020-08-07-有人喝了某气森林的无糖饮料后有不适感的吗？](https://www.v2ex.com/t/696628) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1119,21 @@
 - [2020-08-08-我还在生产玩-JDK-7，JDK-15-却要来了](https://toutiao.io/k/lzbgs8w) ![](assets/new.png)  
 - [2020-08-08-国内低代码平台从业者交流](https://toutiao.io/k/rb7qtq5) ![](assets/new.png)  
 - [2020-08-08-BIGO-实时计算平台建设](https://toutiao.io/k/787nrq6) ![](assets/new.png)  
-- [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
 - [2020-08-08-悟空活动中台：H5-活动加载优化](https://toutiao.io/k/4bq18z2) ![](assets/new.png)  
+- [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

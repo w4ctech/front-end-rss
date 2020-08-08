@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 02:10:16，:rocket: 更新条数: +3273， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 02:20:06，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,8 @@
 </summary>
 
 
+- [2020-08-08-Java-服务部署后浏览器无法访问，通过-curl-确可以访问](https://www.v2ex.com/t/696650) ![](assets/new.png)  
+- [2020-08-08-微信公众号通过回调接口回复的语音消息显示时常但是无法正常播放](https://www.v2ex.com/t/696649) ![](assets/new.png)  
 - [2020-08-08-b-站视频播放加速：有大于-2-倍速播放的方法不-😅](https://www.v2ex.com/t/696648) ![](assets/new.png)  
 - [2020-08-08-有一键打开指定图片的快捷指令吗？](https://www.v2ex.com/t/696645) ![](assets/new.png)  
 - [2020-08-08-杭州/远程-imToken-招聘初级/资深前端、SRE、产品/项目经理](https://www.v2ex.com/t/696644) ![](assets/new.png)  
@@ -1070,8 +1072,6 @@
 - [2020-08-07-有人喝了某气森林的无糖饮料后有不适感的吗？](https://www.v2ex.com/t/696628) ![](assets/new.png)  
 - [2020-08-07-大半夜睡不着的时候，你们会干嘛](https://www.v2ex.com/t/696627) ![](assets/new.png)  
 - [2020-08-07-推荐一下知乎-赞书房-这个账号](https://www.v2ex.com/t/696626) ![](assets/new.png)  
-- [2020-08-07-Windows-10-Insider-Preview-Build-20185-开始支持-DNS-over-HTTPS-了](https://www.v2ex.com/t/696625) ![](assets/new.png)  
-- [2020-08-07-Golang-开发如何进阶？](https://www.v2ex.com/t/696624) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1119,21 +1119,21 @@
 - [2020-08-08-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
 - [2020-08-08-BIGO-实时计算平台建设](https://toutiao.io/k/787nrq6) ![](assets/new.png)  
 - [2020-08-08-国内低代码平台从业者交流](https://toutiao.io/k/rb7qtq5) ![](assets/new.png)  
-- [2020-08-08-悟空活动中台：H5-活动加载优化](https://toutiao.io/k/4bq18z2) ![](assets/new.png)  
 - [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
-- [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
+- [2020-08-08-悟空活动中台：H5-活动加载优化](https://toutiao.io/k/4bq18z2) ![](assets/new.png)  
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
+- [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
 - [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
 - [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
 - [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

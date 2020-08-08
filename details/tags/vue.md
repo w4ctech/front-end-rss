@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 06:46:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 06:48:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -29,10 +29,6 @@
 - [2019-06-13-蒋豪群在VueConf-上海的演讲视频来啦！](https://www.ershicimi.com/p/39277e027a7b18636c6ad7dd7a8088f0) 
 - [2019-06-12-视频Vue.js作者在VueConf现场发布RFC](https://www.ershicimi.com/p/5050c1fad5e8b8e4938c476a0fe91fde) 
 - [2019-06-11-真山在-VueConf-2019-上海-现场发布-VuePress-1.0](https://www.ershicimi.com/p/099f023cfb23366b6b39ea21792fb624) 
-- [2020-03-02-vue-源码系列之-Dep-和-Watcher-的关系](https://www.ershicimi.com/p/65bf10375b2afe5dd943af39b03aeba8) 
-- [2020-03-01-vue-源码系列之-watch-第二篇](https://www.ershicimi.com/p/4d515409885a1e0e0155f191ea809602) 
-- [2020-02-29-vue-源码系列之-watch](https://www.ershicimi.com/p/257852039be039d97d469bca4ab65c36) 
-- [2020-02-26-vue-源码系列之-computed](https://www.ershicimi.com/p/c3c1c798f14f413383d48a4c1ea8216c) 
 - [2020-08-03-面试的时候，不要只说我会“Vue全家桶”](https://www.ershicimi.com/p/d2c3441d7e310aeafd3be6dee9635e13) 
 - [2020-07-24-你以为面试官问的是Vue，其实他想问……](https://www.ershicimi.com/p/5d47adcf65aeef68598aa498bb1b89ca) 
 - [2020-07-23-完全理解Vue的渲染watcher、computed和user-watcher](https://www.ershicimi.com/p/0ed063c0d8a0aef7bf590a18cd4408a5) 

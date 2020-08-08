@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 05:33:25，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 05:46:32，:rocket: 更新条数: +3237， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -65,6 +65,7 @@
 
 
 - [2020-08-07-8月7日全国新增新冠31例-本土病例新疆25例](http://m.china.caixin.com/m/2020-08-08/101590348.html) ![](assets/new.png)  
+- [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
 - [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
 - [2020-08-06-最新海外疫情：新冠感染者超1896万-累计死亡超71万](http://m.international.caixin.com/m/2020-08-07/101590119.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
-- [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,26 +1052,6 @@
 </summary>
 
 
-- [2020-08-08-闲来无事，用闲置服务器做了个收录干货的小站点。](https://www.v2ex.com/t/696682) ![](assets/new.png)  
-- [2020-08-08-深圳-海外业务寻求有上进心，学习能力强的-Android-技术一起赚美金](https://www.v2ex.com/t/696681) ![](assets/new.png)  
-- [2020-08-08-PHP-密码管理器，浏览器端-AES-加密](https://www.v2ex.com/t/696680) ![](assets/new.png)  
-- [2020-08-08-汉诺塔问题能不能写成尾递归？或者一个递归能否写成尾递归的标准是什么？](https://www.v2ex.com/t/696678) ![](assets/new.png)  
-- [2020-08-08-前端需要学语义网相关的东西吗？](https://www.v2ex.com/t/696677) ![](assets/new.png)  
-- [2020-08-08-mac-14-菜单栏有空白，求助！](https://www.v2ex.com/t/696674) ![](assets/new.png)  
-- [2020-08-08-有没有遇见远程桌面连-win10-蓝屏重启的怎么解决的？](https://www.v2ex.com/t/696673) ![](assets/new.png)  
-- [2020-08-08-发一个新帖要在第三页才能看到，这是不是传说中的被降权了？](https://www.v2ex.com/t/696671) ![](assets/new.png)  
-- [2020-08-08-APP-加固方案怎么选？](https://www.v2ex.com/t/696670) ![](assets/new.png)  
-- [2020-08-08-用-session-还是用-token？-rest-api-发生业务错误时返回的-http-status-应该是-200-还是-4xx/5xx？](https://www.v2ex.com/t/696668) ![](assets/new.png)  
-- [2020-08-08-刚看到“Apple-Tech-752”这个，真的挺好](https://www.v2ex.com/t/696667) ![](assets/new.png)  
-- [2020-08-08-有没有这种浏览器插件，点击屏幕就翻页，不用老是用手指滑，看小说/长文太累人了](https://www.v2ex.com/t/696665) ![](assets/new.png)  
-- [2020-08-08-vue2-源码修改这-3-行，有啥用？](https://www.v2ex.com/t/696664) ![](assets/new.png)  
-- [2020-08-08-百度网盘真绝啊，非会员下载速度个位数](https://www.v2ex.com/t/696663) ![](assets/new.png)  
-- [2020-08-08-微信微信零钱提现免费券](https://www.v2ex.com/t/696659) ![](assets/new.png)  
-- [2020-08-08-mysql-删除一条数据后显示这个，大佬们这个怎么解决？](https://www.v2ex.com/t/696658) ![](assets/new.png)  
-- [2020-08-08-如何在-win10-调试-k8s-源码？](https://www.v2ex.com/t/696657) ![](assets/new.png)  
-- [2020-08-08-需要云主机服务器的可以找我哦](https://www.v2ex.com/t/696655) ![](assets/new.png)  
-- [2020-08-08-block-的人还能看见并回复自己的帖子?](https://www.v2ex.com/t/696652) ![](assets/new.png)  
-- [2020-08-08-牙膏厂-12-代-U-要用大小核了](https://www.v2ex.com/t/696651) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1104,16 @@
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
-- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
-- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

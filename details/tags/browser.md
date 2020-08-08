@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 05:33:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 05:46:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -44,10 +44,6 @@
 - [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) 
 - [2020-08-03-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/90ae3dbd9ae5ef3c3cb4b27effbdcefe) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
-- [2020-08-08-PHP-密码管理器，浏览器端-AES-加密](https://www.v2ex.com/t/696680) 
-- [2020-08-08-有没有这种浏览器插件，点击屏幕就翻页，不用老是用手指滑，看小说/长文太累人了](https://www.v2ex.com/t/696665) 
-- [2020-08-08-如何在-win10-调试-k8s-源码？](https://www.v2ex.com/t/696657) 
-- [2020-08-08-Java-服务部署后浏览器无法访问，通过-curl-确可以访问](https://www.v2ex.com/t/696650) 
 - [2020-08-08-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
 - [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 

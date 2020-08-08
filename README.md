@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 01:20:35，:rocket: 更新条数: +3274， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 01:31:47，:rocket: 更新条数: +3272， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -601,6 +601,7 @@
 </summary>
 
 
+- [2020-08-07-使用Chrome扩展程序生成网页骨架屏](https://www.ershicimi.com/p/e50ce5a4a13d21d6039afa920358f458) ![](assets/new.png)  
 - [2020-08-06-当HR跟你谈薪水时，如何回答能使收入最大化？](https://www.ershicimi.com/p/ce54d965ae7a10518b93d50a0c97f0ff) ![](assets/new.png)  
 - [2020-08-06-H5-秒开方案大全](https://www.ershicimi.com/p/fba88c1c455ea577a6825390faa823a0) ![](assets/new.png)  
 - [2020-08-05-如何精确统计页面停留时长](https://www.ershicimi.com/p/2859c84d8994c04ae3504184d111fc90) ![](assets/new.png)  
@@ -620,7 +621,6 @@
 - [2020-07-29-尤雨溪宣布Vue-3首个RC版本发布!-这意味着...](https://www.ershicimi.com/p/764f935f6e49439f180c12ece3e0534e) ![](assets/new.png)  
 - [2020-07-28-如何修改-node_modules-里的文件](https://www.ershicimi.com/p/937177d9e51b86c6f5664e4bd0db43df) ![](assets/new.png)  
 - [2020-07-28-【干货】毕业一年升P6的前端晋升总结](https://www.ershicimi.com/p/3ab9fdfcae8d2e8b24c13c901da0b9f3) ![](assets/new.png)  
-- [2020-07-27-8年经验面试官详解-Web-面试秘诀](https://www.ershicimi.com/p/ccd241a496e05bf84c3211f01580da26) ![](assets/new.png)  
 - [......【查看更多】......](./details/前端瓶子君.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,10 @@
 </summary>
 
 
+- [2020-08-08-网上都是些什么人，说-iOS-无法使用微信，太扯淡了。](https://www.v2ex.com/t/696646) ![](assets/new.png)  
+- [2020-08-08-有一键打开指定图片的快捷指令吗？](https://www.v2ex.com/t/696645) ![](assets/new.png)  
+- [2020-08-08-杭州/远程-imToken-招聘初级/资深前端、SRE、产品/项目经理](https://www.v2ex.com/t/696644) ![](assets/new.png)  
+- [2020-08-08-有老哥买过-iPad-pro-+-magickeyboard-的吗？能不能提高程序员的办公和学习效率？](https://www.v2ex.com/t/696643) ![](assets/new.png)  
 - [2020-08-08-TimeMachine-锁屏后不会自动备份](https://www.v2ex.com/t/696641) ![](assets/new.png)  
 - [2020-08-08-“科技树”到底是啥东西](https://www.v2ex.com/t/696640) ![](assets/new.png)  
 - [2020-08-08-免费领取网易云音乐-7-天](https://www.v2ex.com/t/696637) ![](assets/new.png)  
@@ -1068,10 +1072,6 @@
 - [2020-08-07-推荐一下知乎-赞书房-这个账号](https://www.v2ex.com/t/696626) ![](assets/new.png)  
 - [2020-08-07-Windows-10-Insider-Preview-Build-20185-开始支持-DNS-over-HTTPS-了](https://www.v2ex.com/t/696625) ![](assets/new.png)  
 - [2020-08-07-Golang-开发如何进阶？](https://www.v2ex.com/t/696624) ![](assets/new.png)  
-- [2020-08-07-北京联和利泰科技股份有限公司租房子拒不给交物业费，蛮横无理，我怎么告他](https://www.v2ex.com/t/696623) ![](assets/new.png)  
-- [2020-08-07-golang-二进制程序，容易被破解吗？](https://www.v2ex.com/t/696622) ![](assets/new.png)  
-- [2020-08-07-node-ffi-调用-DLL-变量类型的问题](https://www.v2ex.com/t/696621) ![](assets/new.png)  
-- [2020-08-07-BIGO-2021-届校招内推-广州、北京、上海、深圳、新加坡都设有岗位，校招内推简历优先筛选](https://www.v2ex.com/t/696620) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1115,25 +1115,25 @@
 
 
 - [2020-08-08-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
+- [2020-08-08-我还在生产玩-JDK-7，JDK-15-却要来了](https://toutiao.io/k/lzbgs8w) ![](assets/new.png)  
 - [2020-08-08-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) ![](assets/new.png)  
 - [2020-08-08-BIGO-实时计算平台建设](https://toutiao.io/k/787nrq6) ![](assets/new.png)  
-- [2020-08-08-我还在生产玩-JDK-7，JDK-15-却要来了](https://toutiao.io/k/lzbgs8w) ![](assets/new.png)  
 - [2020-08-08-国内低代码平台从业者交流](https://toutiao.io/k/rb7qtq5) ![](assets/new.png)  
 - [2020-08-08-悟空活动中台：H5-活动加载优化](https://toutiao.io/k/4bq18z2) ![](assets/new.png)  
 - [2020-08-08-C++-模板沉思录（下）](https://toutiao.io/k/vykkzwq) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
-- [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

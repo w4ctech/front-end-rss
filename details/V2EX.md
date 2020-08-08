@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-08-08 09:09:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 09:19:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-08-systemctl-disable-xxx-之后不起作用](https://www.v2ex.com/t/696723) 
+- [2020-08-08-项目构建工具-maven,-gradle,-sbt-下载依赖碰到-ssl-问题](https://www.v2ex.com/t/696722) 
 - [2020-08-08-耳朵里偶尔有沙沙的类似揉纸团一样声音](https://www.v2ex.com/t/696720) 
 - [2020-08-08-想法-给-Django-增加-Pydantic-支持](https://www.v2ex.com/t/696719) 
 - [2020-08-08-各位朋友，能试一试-api.github.com-能直连吗？](https://www.v2ex.com/t/696717) 
@@ -38,5 +40,3 @@
 - [2020-08-08-汉诺塔问题能不能写成尾递归？或者一个递归能否写成尾递归的标准是什么？](https://www.v2ex.com/t/696678) 
 - [2020-08-08-前端需要学语义网相关的东西吗？](https://www.v2ex.com/t/696677) 
 - [2020-08-08-mac-14-菜单栏有空白，求助！](https://www.v2ex.com/t/696674) 
-- [2020-08-08-有没有遇见远程桌面连-win10-蓝屏重启的怎么解决的？](https://www.v2ex.com/t/696673) 
-- [2020-08-08-发一个新帖要在第三页才能看到，这是不是传说中的被降权了？](https://www.v2ex.com/t/696671) 

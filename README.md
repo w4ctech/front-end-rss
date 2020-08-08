@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 07:48:36，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 08:03:22，:rocket: 更新条数: +3260， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -38,7 +38,7 @@
 - [Nodejs技术栈](#nodejs技术栈)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [京东设计中心](#京东设计中心)![](assets/dot.png)   
+- [京东设计中心](#京东设计中心)  
 - [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
@@ -64,11 +64,10 @@
 </summary>
 
 
-- [2020-08-07-8月7日全国新增新冠31例-本土病例新疆25例](http://m.china.caixin.com/m/2020-08-08/101590348.html) ![](assets/new.png)  
+- [2020-08-07-最新疫情：全国新冠累计确诊84596例-新疆本土新增25例](http://m.china.caixin.com/m/2020-08-08/101590516.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
 - [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
-- [2020-08-06-最新海外疫情：新冠感染者超1896万-累计死亡超71万](http://m.international.caixin.com/m/2020-08-07/101590119.html) ![](assets/new.png)  
 - [2020-08-06-【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html) ![](assets/new.png)  
 - [2020-08-06-大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html) ![](assets/new.png)  
 - [2020-08-05-广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html) ![](assets/new.png)  
@@ -84,6 +83,7 @@
 - [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
+- [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -729,16 +729,6 @@
 </summary>
 
 
-- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) ![](assets/new.png)  
-- [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) ![](assets/new.png)  
-- [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) ![](assets/new.png)  
-- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) ![](assets/new.png)  
-- [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) ![](assets/new.png)  
-- [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) ![](assets/new.png)  
-- [2019-01-24-用户访谈——哪些原则简单却有效](https://jdc.jd.com/archives/212927) ![](assets/new.png)  
-- [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) ![](assets/new.png)  
-- [2018-12-26-HTML5-Audio的兼容性问题和优化](https://jdc.jd.com/archives/212874) ![](assets/new.png)  
-- [2018-12-26-一个表情引发的思考](https://jdc.jd.com/archives/212870) ![](assets/new.png)  
 - [......【查看更多】......](./details/京东设计中心.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1042,9 @@
 </summary>
 
 
+- [2020-08-08-为啥用台式机使用百度搜索就很快，用-mac-就一直转圈，搞得现在-mac-设置-bing-为默认搜索](https://www.v2ex.com/t/696711) ![](assets/new.png)  
+- [2020-08-08-实践总结：在-Java-中调用-Go-代码](https://www.v2ex.com/t/696710) ![](assets/new.png)  
+- [2020-08-08-华擎主板维修，索要快递费和维修费怎么办？](https://www.v2ex.com/t/696709) ![](assets/new.png)  
 - [2020-08-08-5g+云操作系统能否杀出重围？](https://www.v2ex.com/t/696708) ![](assets/new.png)  
 - [2020-08-08-自从用了蝶式键盘，我剪指甲的频率就一直居高不下，恨不得随身带着](https://www.v2ex.com/t/696707) ![](assets/new.png)  
 - [2020-08-08-明天广东省考的有无？](https://www.v2ex.com/t/696706) ![](assets/new.png)  
@@ -1069,9 +1062,6 @@
 - [2020-08-08-有什么专业的方法（命令之类）可以检测二手-Macbook-是否是真货？](https://www.v2ex.com/t/696685) ![](assets/new.png)  
 - [2020-08-08-Java-通用方法如何设置传不同实体的参数](https://www.v2ex.com/t/696684) ![](assets/new.png)  
 - [2020-08-08-剑网三这游戏怎么有那么多反映被封号的](https://www.v2ex.com/t/696683) ![](assets/new.png)  
-- [2020-08-08-闲来无事，用闲置服务器做了个收录干货的小站点。](https://www.v2ex.com/t/696682) ![](assets/new.png)  
-- [2020-08-08-深圳-海外业务寻求有上进心，学习能力强的-Android-技术一起赚美金](https://www.v2ex.com/t/696681) ![](assets/new.png)  
-- [2020-08-08-PHP-密码管理器，浏览器端-AES-加密](https://www.v2ex.com/t/696680) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1114,16 @@
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
 - [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

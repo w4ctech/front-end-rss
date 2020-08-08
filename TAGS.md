@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-08 07:48:36。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 08:03:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -391,8 +391,6 @@
 - [【政采云前端团队】如何实现高性能的在线-PDF-预览](https://www.ershicimi.com/p/af3fec684371357e853529a1536b08fb)
 - [【前端瓶子君】还在看那些老掉牙的性能优化文章么？这些最新性能指标了解下](https://www.ershicimi.com/p/04f3f774d4fecb8f9564024b9fa99ac1)
 - [【程序员成长指北】私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd)
-- [【京东设计中心】京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962)
-- [【京东设计中心】体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917)
 - [【InfoQ】云原生时代，巧妙利用云架构优化本地部署的方法论-|-Q推荐](https://www.ershicimi.com/p/1b636a729ee066cfd9bcb12be97c199f)
 - [【前端艺术家&&飞冰早报】京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46)
 - [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
@@ -606,11 +604,10 @@
 
 
 
-- [【武汉肺炎防疫全纪录(财新网)】8月7日全国新增新冠31例-本土病例新疆25例](http://m.china.caixin.com/m/2020-08-08/101590348.html)
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊84596例-新疆本土新增25例](http://m.china.caixin.com/m/2020-08-08/101590516.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染者超1896万-累计死亡超71万](http://m.international.caixin.com/m/2020-08-07/101590119.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】北京新发地聚集性疫情在院病例清零（8月6日）](http://m.database.caixin.com/m/2020-08-07/101589969.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月6日：亚欧多国疫情继续回升-越南建起方舱医院](https://m.caixin.com/m/2020-08-07/101589796.html)
 - [【武汉肺炎防疫全纪录(财新网)】广东再收紧香港入境要求-核酸检测报告时限缩短至24小时](http://m.china.caixin.com/m/2020-08-06/101589532.html)
@@ -626,6 +623,7 @@
 - [【武汉肺炎防疫全纪录(财新网)】新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html)
 - [【武汉肺炎防疫全纪录(财新网)】世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html)
+- [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html)
 - [......【查看更多】......](./details/tags/other.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

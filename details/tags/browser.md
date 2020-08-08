@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-08 08:19:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-08 08:31:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -41,12 +41,15 @@
 - [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-28-关于-Cookie，了解这些就足够了](https://www.ershicimi.com/p/39909b59f693d7a05ace18527f839717) 
+- [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) 
 - [2020-08-03-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/90ae3dbd9ae5ef3c3cb4b27effbdcefe) 
 - [2019-12-02-api请求时长与请求数据类型的设计](https://juejin.im/post/5de28460e51d4532f87096e2) 
 - [2020-08-08-postgres-数据库的服务器怎么组](https://www.v2ex.com/t/696700) 
 - [2020-08-08-PHP-密码管理器，浏览器端-AES-加密](https://www.v2ex.com/t/696680) 
 - [2020-08-08-有没有这种浏览器插件，点击屏幕就翻页，不用老是用手指滑，看小说/长文太累人了](https://www.v2ex.com/t/696665) 
 - [2020-08-08-数据库压力降低-90%，携程机票订单缓存系统实践](https://toutiao.io/k/ityut7e) 
+- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) 
+- [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) 
 - [2020-08-07-2020中国网络安全年会即将召开-强大嘉宾阵容不容错过!](https://sec.thief.one/article_content?a_id=ed7075379c3f2f8a6143355bcfb50245) 
 - [2020-08-07-先睹为快-|-绿盟科技首部安全服务题材微电影震撼来袭,精彩预告抢先看](https://sec.thief.one/article_content?a_id=4cbd57f01d6ac1c172cafe59f27a4b6c) 
 - [2020-08-07-全国20余省市“新基建”政策盘点:网络安全迎来哪些发展利好?](https://sec.thief.one/article_content?a_id=d20b6d122a865794f78217bcbcf6017f) 

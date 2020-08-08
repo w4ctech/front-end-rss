@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 08:19:50，:rocket: 更新条数: +3251， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 08:31:24，:rocket: 更新条数: +3271， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -43,7 +43,7 @@
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
@@ -65,6 +65,7 @@
 
 
 - [2020-08-07-最新疫情：全国新冠累计确诊84596例-新疆本土新增25例](http://m.china.caixin.com/m/2020-08-08/101590516.html) ![](assets/new.png)  
+- [2020-08-07-最新海外疫情：新冠感染者超1925万-累计死亡超71.6万](http://m.international.caixin.com/m/2020-08-08/101590518.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
 - [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
 - [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
-- [2020-08-02-大流行手记|8月2日：美国月增190万确诊创新高-墨尔本将实施宵禁](https://m.caixin.com/m/2020-08-03/101587849.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -854,6 +854,26 @@
 </summary>
 
 
+- [2020-08-07-绝了！这款工具让SpringBoot不再需要Controller、Service、DAO、Mappe](https://www.ershicimi.com/p/d328784b0906b4b91b854650819c51b1) ![](assets/new.png)  
+- [2020-08-07-别在网上乱找代码了，找了一段代码突然爆了！！！](https://www.ershicimi.com/p/51288cd2fac173f5b229d402dfb98cd3) ![](assets/new.png)  
+- [2020-08-07-微服务之间最佳调用方式是什么？](https://www.ershicimi.com/p/fe8b34a9327022dfaa2fb02489f94799) ![](assets/new.png)  
+- [2020-08-06-Mybatis-trim-标签的-2-个妙用！](https://www.ershicimi.com/p/9e3b07618847e2d1aa6b20b0d55ea86a) ![](assets/new.png)  
+- [2020-08-06-震惊！Redis-的字符串居然是这样实现的…](https://www.ershicimi.com/p/5a24bc34e36cc6129b57dfd280d15ac9) ![](assets/new.png)  
+- [2020-08-06-Oracle用户可要顶住了：准备好大规模补丁工作！以修补多达-433-个的新安全漏洞](https://www.ershicimi.com/p/84871b4048658ef6d85fc41c39c099a9) ![](assets/new.png)  
+- [2020-08-05-因用了Insert-into-select语句，美女同事被开除了！](https://www.ershicimi.com/p/a4be645aac669066ed1e86f8eeccfc3c) ![](assets/new.png)  
+- [2020-08-05-Hibernate-与-Mybatis-如何共存？打破你的认知！](https://www.ershicimi.com/p/89cc0b723eb2ddcd32ba4b0690db4f6c) ![](assets/new.png)  
+- [2020-08-05-好奇！滴滴在-GitHub-开源了哪些有意思的项目？](https://www.ershicimi.com/p/437edb45708aa54f104689e420e66e68) ![](assets/new.png)  
+- [2020-08-04-面试官：大型系统架构设计细节你知道多少？？](https://www.ershicimi.com/p/c80b9c6728d2525fe8de1462ead7fd96) ![](assets/new.png)  
+- [2020-08-04-吃惊！难道Java也受美国出口管制？](https://www.ershicimi.com/p/b56c75e7a791f24e46c5e7822a8d5b1f) ![](assets/new.png)  
+- [2020-08-04-有啥不同？来看看Spring-Boot-基于-JUnit-5-实现单元测试](https://www.ershicimi.com/p/4bf7e5a2cc61d43d07292967e415657d) ![](assets/new.png)  
+- [2020-08-03-湖南一男子通过“翻墙”软件访问境外色情网站，被行政处罚](https://www.ershicimi.com/p/0bfa7d9a7a2ad71fa7aa80f13497c727) ![](assets/new.png)  
+- [2020-08-03-再见，Navicat！同事安利的这个IDEA的兄弟，真香！](https://www.ershicimi.com/p/f3427bf7ed0cfe40b34f3ec32b855f07) ![](assets/new.png)  
+- [2020-08-03-天天用-Spring，bean-实例化原理你懂吗？](https://www.ershicimi.com/p/7c092ee71466ae5bc3c51960aeb2c4bd) ![](assets/new.png)  
+- [2020-08-02-惊呆了！JDK1.8竟然打破了我对接口的一切认知...](https://www.ershicimi.com/p/95cbfea0e49e0a5b2b39dc307c997dbd) ![](assets/new.png)  
+- [2020-08-02-腾讯面试题：如何实现一个类似新浪微博的短链接服务！](https://www.ershicimi.com/p/422c4cddd405f8ef77f7074ea3500210) ![](assets/new.png)  
+- [2020-08-02-100-个网络基础知识，看完成半个网络高手](https://www.ershicimi.com/p/fc61e2dfe83635aea459dc9364f5fbeb) ![](assets/new.png)  
+- [2020-08-01-从-Java-9-开始，Java-就华丽的转身为微服务了…](https://www.ershicimi.com/p/979b608635abe0ae7d48c409fc4406bd) ![](assets/new.png)  
+- [2020-08-01-同事1000行"又臭又长"-的类！被我用IDEA几分钟重构！真香！](https://www.ershicimi.com/p/08b2089511adfdb9d47a2b759305c51f) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1104,16 +1124,16 @@
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
 - [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-08-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
 - [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [2020-08-08-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-08 06:02:47，:rocket: 更新条数: +3268， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-08 06:10:33，:rocket: 更新条数: +3269， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-08-陕西新增1例境外输入无症状感染者](http://sxwjw.shaanxi.gov.cn/art/2020/8/8/art_9_72303.html) ![](assets/new.png)  
+- [2020-08-08-法国确诊病例持续增长](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTIhmgVCm6WmWlNTPkTGD200808&isfromapp=1) ![](assets/new.png)  
+- [2020-08-08-美国连续20周申请失业救济人数过百万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMjrdfMVUs61lTKBv6DH200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-08-病例详情公布！山东烟台新增1例菲律宾输入新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikWZqYgSdRMhChmSBTnB1200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-08-插队打人被拘！大连警方查处42起涉疫类案件](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFfrm3hEfU0tw62vGEtOy200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-08-彭博社发布全球经济“痛苦指数”-美国排名上升至第25名](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizACcVOCIH4X8Zg4m8JHK200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-08-浙江8月8日新增1例境外输入确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitSrNO0aR691gdDJM9IMy200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-08-北京8月7日无新增报告新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWljliimNYiNI08aElbyt200808&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-08-有阿里云的朋友-可否帮忙买个免费-API](https://www.v2ex.com/t/696688) ![](assets/new.png)  
 - [2020-08-08-有什么专业的方法（命令之类）可以检测二手-Macbook-是否是真货？](https://www.v2ex.com/t/696685) ![](assets/new.png)  
 - [2020-08-08-Java-通用方法如何设置传不同实体的参数](https://www.v2ex.com/t/696684) ![](assets/new.png)  
 - [2020-08-08-剑网三这游戏怎么有那么多反映被封号的](https://www.v2ex.com/t/696683) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-08-百度网盘真绝啊，非会员下载速度个位数](https://www.v2ex.com/t/696663) ![](assets/new.png)  
 - [2020-08-08-微信微信零钱提现免费券](https://www.v2ex.com/t/696659) ![](assets/new.png)  
 - [2020-08-08-mysql-删除一条数据后显示这个，大佬们这个怎么解决？](https://www.v2ex.com/t/696658) ![](assets/new.png)  
-- [2020-08-08-如何在-win10-调试-k8s-源码？](https://www.v2ex.com/t/696657) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1124,16 +1124,16 @@
 - [2020-08-08-代码复用神器，模板模式实操分享](https://toutiao.io/k/hjobwcu) ![](assets/new.png)  
 - [2020-08-08-修改休眠模式以节省-macOS-睡眠时的电池电量](https://toutiao.io/k/0070u8f) ![](assets/new.png)  
 - [2020-08-08-详解-Dart-中如何通过注解生成代码](https://toutiao.io/k/ipn8b4b) ![](assets/new.png)  
-- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-08-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-08-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [2020-08-08-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-08-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-08-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-08-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [2020-08-08-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [2020-08-08-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-08-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-08-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-08-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-08-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-08-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-08-推荐-DDD-分层](https://toutiao.io/k/11j6h2v) ![](assets/new.png)  
+- [2020-08-08-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

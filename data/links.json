@@ -12562,6 +12562,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "陕西新增1例境外输入无症状感染者",
+        "link": "http://sxwjw.shaanxi.gov.cn/art/2020/8/8/art_9_72303.html",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "法国确诊病例持续增长",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTIhmgVCm6WmWlNTPkTGD200808&isfromapp=1",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "美国连续20周申请失业救济人数过百万",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMjrdfMVUs61lTKBv6DH200808&isfromapp=1",
+        "date": "2020-08-08"
+      },
+      {
         "title": "病例详情公布！山东烟台新增1例菲律宾输入新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikWZqYgSdRMhChmSBTnB1200808&isfromapp=1",
         "date": "2020-08-08"
@@ -12569,21 +12584,6 @@
       {
         "title": "插队打人被拘！大连警方查处42起涉疫类案件",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFfrm3hEfU0tw62vGEtOy200808&isfromapp=1",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "彭博社发布全球经济“痛苦指数” 美国排名上升至第25名",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizACcVOCIH4X8Zg4m8JHK200808&isfromapp=1",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "浙江8月8日新增1例境外输入确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitSrNO0aR691gdDJM9IMy200808&isfromapp=1",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "北京8月7日无新增报告新冠肺炎确诊病例",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWljliimNYiNI08aElbyt200808&isfromapp=1",
         "date": "2020-08-08"
       }
     ]
@@ -15714,6 +15714,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "有阿里云的朋友 可否帮忙买个免费 API",
+        "link": "https://www.v2ex.com/t/696688",
+        "date": "2020-08-08"
+      },
+      {
         "title": "有什么专业的方法（命令之类）可以检测二手 Macbook 是否是真货？",
         "link": "https://www.v2ex.com/t/696685",
         "date": "2020-08-08"
@@ -16033,28 +16038,23 @@
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-08"
       },
       {
         "title": "[推荐] 一文读懂 Web 安全",
         "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-08"
       },
       {
@@ -16068,18 +16068,8 @@
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
-        "link": "https://toutiao.io/k/co38uzd",
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-08"
       },
       {
@@ -16088,13 +16078,8 @@
         "date": "2020-08-08"
       },
       {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] DDD 分层",
+        "link": "https://toutiao.io/k/11j6h2v",
         "date": "2020-08-08"
       },
       {
@@ -16105,6 +16090,26 @@
       {
         "title": "[推荐] 完了！TCP 出了大事！",
         "link": "https://toutiao.io/k/ohg6qxu",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 超全实用图片工具网站列表",
+        "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-08"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
         "date": "2020-08-08"
       }
     ]

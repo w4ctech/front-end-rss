@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 02:21:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 02:31:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -42,4 +42,3 @@
 - [2020-08-08-闲谈-360-加固被“全网破解”](https://www.v2ex.com/t/696759) 
 - [2020-08-08-😷上周发现-mbp-电池鼓包了，屏幕都合不上了。。。](https://www.v2ex.com/t/696757) 
 - [2020-08-08-请教把-mysql-内容段落打乱的命令](https://www.v2ex.com/t/696756) 
-- [2020-08-08-Vuetify-的-activator-属性应该怎么写？](https://www.v2ex.com/t/696755) 

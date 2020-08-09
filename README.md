@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 02:21:13，:rocket: 更新条数: +3492， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 02:31:25，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -874,6 +854,12 @@
 </summary>
 
 
+- [2020-08-09-一套简单通用的Java后台管理系统，拿来即用，非常方便（附项目地址）](https://www.ershicimi.com/p/d5da8fbbd4214abf4c4c8f5ba5f4ebb2) ![](assets/new.png)  
+- [2020-08-09-推荐：Windows平台上三款提高工作效率的免费神器！](https://www.ershicimi.com/p/16891c3d50a74da608eb5723645f2ba2) ![](assets/new.png)  
+- [2020-08-09-为什么-char-数组比-String-更适合存储密码？](https://www.ershicimi.com/p/670f8e19e57cf8571b4bf6fe22b538a4) ![](assets/new.png)  
+- [2020-08-08-IntelliJ-IDEA-2020.2-正式发布，真香！](https://www.ershicimi.com/p/2a57a17a39de45150101c413a292621e) ![](assets/new.png)  
+- [2020-08-08-看图说话，FastJson-并没有那么流行！](https://www.ershicimi.com/p/7be4093917bd4d8d51d44ce8d505108e) ![](assets/new.png)  
+- [2020-08-08-GitLab-内置了-CI/CD-工具，强大啊！！](https://www.ershicimi.com/p/be03600ef742f36a397f107c43f72675) ![](assets/new.png)  
 - [2020-08-07-绝了！这款工具让SpringBoot不再需要Controller、Service、DAO、Mappe](https://www.ershicimi.com/p/d328784b0906b4b91b854650819c51b1) ![](assets/new.png)  
 - [2020-08-07-别在网上乱找代码了，找了一段代码突然爆了！！！](https://www.ershicimi.com/p/51288cd2fac173f5b229d402dfb98cd3) ![](assets/new.png)  
 - [2020-08-07-微服务之间最佳调用方式是什么？](https://www.ershicimi.com/p/fe8b34a9327022dfaa2fb02489f94799) ![](assets/new.png)  
@@ -888,12 +874,6 @@
 - [2020-08-04-有啥不同？来看看Spring-Boot-基于-JUnit-5-实现单元测试](https://www.ershicimi.com/p/4bf7e5a2cc61d43d07292967e415657d) ![](assets/new.png)  
 - [2020-08-03-湖南一男子通过“翻墙”软件访问境外色情网站，被行政处罚](https://www.ershicimi.com/p/0bfa7d9a7a2ad71fa7aa80f13497c727) ![](assets/new.png)  
 - [2020-08-03-再见，Navicat！同事安利的这个IDEA的兄弟，真香！](https://www.ershicimi.com/p/f3427bf7ed0cfe40b34f3ec32b855f07) ![](assets/new.png)  
-- [2020-08-03-天天用-Spring，bean-实例化原理你懂吗？](https://www.ershicimi.com/p/7c092ee71466ae5bc3c51960aeb2c4bd) ![](assets/new.png)  
-- [2020-08-02-惊呆了！JDK1.8竟然打破了我对接口的一切认知...](https://www.ershicimi.com/p/95cbfea0e49e0a5b2b39dc307c997dbd) ![](assets/new.png)  
-- [2020-08-02-腾讯面试题：如何实现一个类似新浪微博的短链接服务！](https://www.ershicimi.com/p/422c4cddd405f8ef77f7074ea3500210) ![](assets/new.png)  
-- [2020-08-02-100-个网络基础知识，看完成半个网络高手](https://www.ershicimi.com/p/fc61e2dfe83635aea459dc9364f5fbeb) ![](assets/new.png)  
-- [2020-08-01-从-Java-9-开始，Java-就华丽的转身为微服务了…](https://www.ershicimi.com/p/979b608635abe0ae7d48c409fc4406bd) ![](assets/new.png)  
-- [2020-08-01-同事1000行"又臭又长"-的类！被我用IDEA几分钟重构！真香！](https://www.ershicimi.com/p/08b2089511adfdb9d47a2b759305c51f) ![](assets/new.png)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,15 +1125,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-09-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
-- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
 - [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-09-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
+- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

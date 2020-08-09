@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 06:48:18，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 07:03:07，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1072,6 +1072,8 @@
 </summary>
 
 
+- [2020-08-09-保险未到期但已续保此时出险会有啥影响？](https://www.v2ex.com/t/696849) ![](assets/new.png)  
+- [2020-08-09-esxi-硬盘直通的疑问](https://www.v2ex.com/t/696848) ![](assets/new.png)  
 - [2020-08-09-在一些网站注册用户的时候，你会抵触那些强制用户登记手机号的网站吗？](https://www.v2ex.com/t/696847) ![](assets/new.png)  
 - [2020-08-09-产品开源，但不希望别人拿我的程序和我竞争，应该选哪个开源协议呢？](https://www.v2ex.com/t/696846) ![](assets/new.png)  
 - [2020-08-09-爱奇艺-macos-客户端用-airpods-声音失真](https://www.v2ex.com/t/696844) ![](assets/new.png)  
@@ -1090,8 +1092,6 @@
 - [2020-08-09-Google-AdSense-现在是停止审核新站了？](https://www.v2ex.com/t/696827) ![](assets/new.png)  
 - [2020-08-09-垃圾东航，航班改期的一个退票，客服电话-40-分钟都解决不了](https://www.v2ex.com/t/696826) ![](assets/new.png)  
 - [2020-08-09-有没有可能消费者们自己起草服务使用协议？](https://www.v2ex.com/t/696825) ![](assets/new.png)  
-- [2020-08-09-成年人，副业是该有的自觉吗？](https://www.v2ex.com/t/696824) ![](assets/new.png)  
-- [2020-08-09-win10-怎么暂时隐藏某个输入法](https://www.v2ex.com/t/696822) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,15 +1145,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-09-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
 - [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-09-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [2020-08-09-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
+- [2020-08-09-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

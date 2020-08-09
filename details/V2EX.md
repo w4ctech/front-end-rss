@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 05:09:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 05:17:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -39,4 +39,3 @@
 - [2020-08-08-有适合我这种情况的路由器吗？](https://www.v2ex.com/t/696788) 
 - [2020-08-08-LinkedTransferQueue-为什么不用-Condition-实现](https://www.v2ex.com/t/696787) 
 - [2020-08-08-工作（非程序员）实习一个月了谈谈感受](https://www.v2ex.com/t/696786) 
-- [2020-08-08-肯德基为什么总是在餐品未配齐的情况下叫顾客取餐？](https://www.v2ex.com/t/696785) 

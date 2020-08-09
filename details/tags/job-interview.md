@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 06:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 06:10:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -58,5 +58,4 @@
 - [2020-08-09-面试机会非常少,可能简历有些问题,请各位前辈指点一下](https://www.v2ex.com/t/696837) 
 - [2020-08-09-🔥🔥字节跳动-懂车帝-招聘商业产品经理-Base-北京](https://www.v2ex.com/t/696813) 
 - [2020-08-08-8.3-去网易的-HR-面试完毕，到现在没有收到任何消息，这是啥情况](https://www.v2ex.com/t/696791) 
-- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

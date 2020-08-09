@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 16:19:50，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 16:31:23，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1125,15 +1125,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
+- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
 - [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
-- [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-09-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
+- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

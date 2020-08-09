@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-09 07:48:35。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 08:02:40。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -148,7 +148,6 @@
 - [【Nodejs技术栈】一文为您构建系统化的-NPM-知识！](https://www.ershicimi.com/p/fea5ae1edaee933a9ce2ea90688c5e4f)
 - [【奇舞周刊】Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a)
 - [【前端艺术家&&飞冰早报】Webpack打包改造--插入自定义内容](https://juejin.im/post/5df4a220f265da33de3a74b0)
-- [【开发者头条】推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi)
 - [......【查看更多】......](./details/tags/pack-build.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -462,6 +461,7 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】开源-FastWeGo---Go-语言开发的微信服务快速开发框架](https://www.v2ex.com/t/696833)
 - [【开发者头条】PB-级大规模-Elasticsearch-集群运维与调优实践](https://toutiao.io/k/w3c3n1w)
+- [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
 - [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
@@ -610,8 +610,8 @@
 
 
 
+- [【武汉肺炎防疫全纪录(财新网)】最新疫情：全国新冠累计确诊84619例-新疆本土新增15例](http://m.china.caixin.com/m/2020-08-09/101590630.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html)
-- [【武汉肺炎防疫全纪录(财新网)】最新海外疫情：新冠感染者超1925万-累计死亡超71.6万](http://m.international.caixin.com/m/2020-08-08/101590518.html)
 - [【武汉肺炎防疫全纪录(财新网)】【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html)
 - [【武汉肺炎防疫全纪录(财新网)】大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html)
 - [【武汉肺炎防疫全纪录(财新网)】香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html)

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 07:48:34，:rocket: 更新条数: +3276， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 08:02:40，:rocket: 更新条数: +3277， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -64,8 +64,8 @@
 </summary>
 
 
+- [2020-08-08-最新疫情：全国新冠累计确诊84619例-新疆本土新增15例](http://m.china.caixin.com/m/2020-08-09/101590630.html) ![](assets/new.png)  
 - [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
-- [2020-08-07-最新海外疫情：新冠感染者超1925万-累计死亡超71.6万](http://m.international.caixin.com/m/2020-08-08/101590518.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
 - [2020-08-06-香港推行自愿性全民检测-中央愿分摊费用](http://m.china.caixin.com/m/2020-08-07/101590252.html) ![](assets/new.png)  
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-09-前端为什么-css3-动画中使用了任意-transform-之后，页面上其他使用了定位的元素会变模糊?](https://www.v2ex.com/t/696855) ![](assets/new.png)  
 - [2020-08-09-同时连接有线和-wifi，不能用-watch-解锁-mbp-2020](https://www.v2ex.com/t/696854) ![](assets/new.png)  
 - [2020-08-09-最近想换手机，几个需求大家有推荐的吗](https://www.v2ex.com/t/696853) ![](assets/new.png)  
 - [2020-08-09-exe，-msi-扩展名比较常见，-application-是啥？](https://www.v2ex.com/t/696852) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-09-面试机会非常少,可能简历有些问题,请各位前辈指点一下](https://www.v2ex.com/t/696837) ![](assets/new.png)  
 - [2020-08-09-Java-对象什么时候应该实现序列化-Serializable-接口](https://www.v2ex.com/t/696834) ![](assets/new.png)  
 - [2020-08-09-开源-FastWeGo---Go-语言开发的微信服务快速开发框架](https://www.v2ex.com/t/696833) ![](assets/new.png)  
-- [2020-08-09-想换两台-4k-27-寸显示器，能支持菊花链串联扩展桌面的，求推荐。。。](https://www.v2ex.com/t/696832) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1125,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
-- [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
+- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
+- [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

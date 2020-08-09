@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 16:09:38，:rocket: 更新条数: +3280， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 16:18:48，:rocket: 更新条数: +3240， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)![](assets/dot.png)   
+- [V2EX](#v2ex)  
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1052,26 +1052,6 @@
 </summary>
 
 
-- [2020-08-09-2017-款-MacBook-Pro-i5-最近变得很卡怎么办？求助。](https://www.v2ex.com/t/696925) ![](assets/new.png)  
-- [2020-08-09-MBP-电池轻微鼓包](https://www.v2ex.com/t/696924) ![](assets/new.png)  
-- [2020-08-09-中美之间的直连网络还能撑多久？](https://www.v2ex.com/t/696923) ![](assets/new.png)  
-- [2020-08-09-ZDnet-新闻：中国已经区块化使用-TLS-1.3-和-ESNI-的所有加密-HTTPS-流量](https://www.v2ex.com/t/696922) ![](assets/new.png)  
-- [2020-08-09-微服务系列之-API-网关服务-Zuul](https://www.v2ex.com/t/696920) ![](assets/new.png)  
-- [2020-08-09-发现一款非常魔性的小游戏《小猪拱白菜》](https://www.v2ex.com/t/696919) ![](assets/new.png)  
-- [2020-08-09-关于-TrackPad2-的手感问题](https://www.v2ex.com/t/696917) ![](assets/new.png)  
-- [2020-08-09-求助关于-DTK-的色彩校准](https://www.v2ex.com/t/696915) ![](assets/new.png)  
-- [2020-08-09-有哪些渠道可以付费咨询软件开发架构设计？](https://www.v2ex.com/t/696914) ![](assets/new.png)  
-- [2020-08-09-Big-Sur-的-SMB-好像有性能问题](https://www.v2ex.com/t/696913) ![](assets/new.png)  
-- [2020-08-09-面试机会非常少,可能简历有些问题,希望更多改进意见](https://www.v2ex.com/t/696912) ![](assets/new.png)  
-- [2020-08-09-app-需要接入微信支付，短时间内怎么快速接入](https://www.v2ex.com/t/696911) ![](assets/new.png)  
-- [2020-08-09-最近两年内跟乙肝插肩而过，代表我的身体抵抗力变差了吗？](https://www.v2ex.com/t/696910) ![](assets/new.png)  
-- [2020-08-09-各位有出现过快速开合笔记本的盖子就死机的情况吗](https://www.v2ex.com/t/696909) ![](assets/new.png)  
-- [2020-08-09-macOS-11-Listen-Now-这个小细节做的还蛮好看](https://www.v2ex.com/t/696907) ![](assets/new.png)  
-- [2020-08-09-docker-pull-不了-docker-hub-镜像是怎么回事？](https://www.v2ex.com/t/696906) ![](assets/new.png)  
-- [2020-08-09-关于-leetcode-的的-1103-题目](https://www.v2ex.com/t/696905) ![](assets/new.png)  
-- [2020-08-09-Backup-blogposts-to-PDF-for-offline-storage,-built-with-Puppeteer-and-ClojureScript](https://www.v2ex.com/t/696903) ![](assets/new.png)  
-- [2020-08-09-笔记本液晶屏要不要贴膜](https://www.v2ex.com/t/696902) ![](assets/new.png)  
-- [2020-08-09-新上线的小程序，「轻叶留言板」—为无留言微信公众号（订阅号）开通留言功能](https://www.v2ex.com/t/696901) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1105,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-09-推荐-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o) ![](assets/new.png)  
+- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
+- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
 - [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
-- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-09-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

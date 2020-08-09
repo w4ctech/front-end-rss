@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 02:10:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 02:20:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -15,6 +15,12 @@
 - [2020-07-27-私藏已久的前端性能优化技巧大全送你！抢救你的前端性能](https://www.ershicimi.com/p/f25de48730d428319449c2328f0bf7cd) 
 - [2019-02-15-京东PLUS会员项目前端性能优化实践](https://jdc.jd.com/archives/212962) 
 - [2018-12-29-体现工匠精神的Resource-Hints](https://jdc.jd.com/archives/212917) 
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) 
+- [2019-12-03-京喜首页（微信购物入口）跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
+- [2016-04-12-前端优化实践总结](https://aotu.io/notes/2016/04/12/jcloud-opt/) 
+- [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
+- [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
+- [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-08-03-云原生时代，巧妙利用云架构优化本地部署的方法论-|-Q推荐](https://www.ershicimi.com/p/1b636a729ee066cfd9bcb12be97c199f) 
 - [2019-12-05-京喜首页（微信购物入口）跨端开发与优化实践](https://juejin.im/post/5de66e916fb9a015fd699b46) 
 - [2020-08-08-有什么方法可以优化大陆到-GCP-香港的线路？](https://www.v2ex.com/t/696792) 

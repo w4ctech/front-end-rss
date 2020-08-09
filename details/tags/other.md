@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 01:10:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 01:19:44。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-08-08-8月8日全国新增新冠23例-新疆15例](http://m.china.caixin.com/m/2020-08-09/101590590.html) 
+- [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) 
 - [2020-08-07-最新海外疫情：新冠感染者超1925万-累计死亡超71.6万](http://m.international.caixin.com/m/2020-08-08/101590518.html) 
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) 
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) 
@@ -2451,6 +2452,7 @@
 - [2020-07-31-这个隐秘家族富了-342-年，英国女王不过是他家的租客](https://www.ershicimi.com/p/d985c562983484b21aba6a1e40f94f9b) 
 - [2020-07-30-假如我在地外宜居行星上拉了屎，几十亿年后那里会发展出智慧生物吗？](https://www.ershicimi.com/p/0e0e73e6e28a3ba61b5e3138a96e3df5) 
 - [2020-07-30-今天做好这-3-件事，你的抗老大业就成功一半了](https://www.ershicimi.com/p/ea21920283c6236b21a2d5b8b77d2f9e) 
+- [2020-08-09-Apple-Care+某宝上有便宜的可以买吗～-AirPodspro-某宝-268～～](https://www.v2ex.com/t/696801) 
 - [2020-08-09-YouTube-premium-印度家庭车招人](https://www.v2ex.com/t/696800) 
 - [2020-08-09-双胞胎](https://www.v2ex.com/t/696799) 
 - [2020-08-08-似乎广州联通出现了大范围的网络中断情况](https://www.v2ex.com/t/696794) 
@@ -2474,7 +2476,6 @@
 - [2020-08-08-😷上周发现-mbp-电池鼓包了，屏幕都合不上了。。。](https://www.v2ex.com/t/696757) 
 - [2020-08-08-请教把-mysql-内容段落打乱的命令](https://www.v2ex.com/t/696756) 
 - [2020-08-08-想升级下-big-bur,-空间不足](https://www.v2ex.com/t/696754) 
-- [2020-08-08-有弄软件著作权评估的吗？](https://www.v2ex.com/t/696751) 
 - [2020-08-09-敏捷交付中的自动化测试-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13663&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fautomated-testing-in-agile%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-09-敏捷项目如何拥有管理变化的能力？-insights.thoughtworks.cn](https://blogread.cn/news/go.php?idItem=13662&url=https%3A%2F%2Finsights.thoughtworks.cn%2Fchange-management-in-agile-project%2F%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
 - [2020-08-09-Android-MVP-&&-MVVM深度解析-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13660&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGj8fxXwQVAy7J9sOIp10xw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) 
@@ -2501,16 +2502,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) 
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) 
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) 
-- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
-- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
-- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
-- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
-- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
 - [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
+- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
+- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) 
 - [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
+- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
+- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
 - [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
+- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
 - [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) 
 - [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) 
 - [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 01:10:09，:rocket: 更新条数: +3490， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 01:19:44，:rocket: 更新条数: +3491， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -65,6 +65,7 @@
 
 
 - [2020-08-08-8月8日全国新增新冠23例-新疆15例](http://m.china.caixin.com/m/2020-08-09/101590590.html) ![](assets/new.png)  
+- [2020-08-08-大流行手记|8月8日：美洲确诊人数破千万-澳大利亚布局疫苗研发和采购](https://m.caixin.com/m/2020-08-09/101590592.html) ![](assets/new.png)  
 - [2020-08-07-最新海外疫情：新冠感染者超1925万-累计死亡超71.6万](http://m.international.caixin.com/m/2020-08-08/101590518.html) ![](assets/new.png)  
 - [2020-08-07-【境内疫情观察】新疆新增25例本土病例（8月7日）](http://m.database.caixin.com/m/2020-08-08/101590476.html) ![](assets/new.png)  
 - [2020-08-07-大流行手记|8月7日：欧洲谨慎重启旅游业-印度感染者超200万](https://m.caixin.com/m/2020-08-08/101590350.html) ![](assets/new.png)  
@@ -83,7 +84,6 @@
 - [2020-08-03-大流行手记|8月3日：多地升级防控措施-日本东京疫情持续扩散](https://m.caixin.com/m/2020-08-04/101588372.html) ![](assets/new.png)  
 - [2020-08-03-新疆疾控称疫情为单一源头-防控措施升级](http://m.china.caixin.com/m/2020-08-04/101588739.html) ![](assets/new.png)  
 - [2020-08-03-世卫首批派赴中国的新冠溯源研究专家离华-与中方深入交流](http://m.international.caixin.com/m/2020-08-04/101588460.html) ![](assets/new.png)  
-- [2020-08-02-【境内疫情观察】新疆新增28例本土病例（8月2日）](http://m.database.caixin.com/m/2020-08-03/101588024.html) ![](assets/new.png)  
 - [......【查看更多】......](./details/武汉肺炎防疫全纪录(财新网).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-09-Apple-Care+某宝上有便宜的可以买吗～-AirPodspro-某宝-268～～](https://www.v2ex.com/t/696801) ![](assets/new.png)  
 - [2020-08-09-YouTube-premium-印度家庭车招人](https://www.v2ex.com/t/696800) ![](assets/new.png)  
 - [2020-08-09-双胞胎](https://www.v2ex.com/t/696799) ![](assets/new.png)  
 - [2020-08-08-寻自由职业或有时间的朋友--开发应用程序-C/S，技术-Qt-或-Java-Swing-开发人员，有-Demo-已可以实时显示录制界面，会用到海康视频录像摄像功能。](https://www.v2ex.com/t/696798) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-08-为什么同一个-trojan-节点-用-PC-有线连接速度不如无线？](https://www.v2ex.com/t/696777) ![](assets/new.png)  
 - [2020-08-08-git-add-.-文件添加不了缓存区？](https://www.v2ex.com/t/696776) ![](assets/new.png)  
 - [2020-08-08-求-Rime-小白教程](https://www.v2ex.com/t/696775) ![](assets/new.png)  
-- [2020-08-08-请问下-golang-json-化的问题,重写-UnmarshalJSON-后取不到值了.](https://www.v2ex.com/t/696774) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,15 +1145,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

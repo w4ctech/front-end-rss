@@ -10,6 +10,11 @@
         "date": "2020-08-08"
       },
       {
+        "title": "大流行手记|8月8日：美洲确诊人数破千万 澳大利亚布局疫苗研发和采购",
+        "link": "https://m.caixin.com/m/2020-08-09/101590592.html",
+        "date": "2020-08-08"
+      },
+      {
         "title": "最新海外疫情：新冠感染者超1925万 累计死亡超71.6万",
         "link": "http://m.international.caixin.com/m/2020-08-08/101590518.html",
         "date": "2020-08-07"
@@ -16790,6 +16795,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "Apple Care+某宝上有便宜的可以买吗～ AirPodspro 某宝 268～～",
+        "link": "https://www.v2ex.com/t/696801",
+        "date": "2020-08-09"
+      },
+      {
         "title": "YouTube premium 印度家庭车招人",
         "link": "https://www.v2ex.com/t/696800",
         "date": "2020-08-09"
@@ -16968,11 +16978,6 @@
         "title": "想升级下 big bur, 空间不足",
         "link": "https://www.v2ex.com/t/696754",
         "date": "2020-08-08"
-      },
-      {
-        "title": "有弄软件著作权评估的吗？",
-        "link": "https://www.v2ex.com/t/696751",
-        "date": "2020-08-08"
       }
     ]
   },
@@ -17144,58 +17149,13 @@
         "date": "2020-08-09"
       },
       {
-        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
-        "link": "https://toutiao.io/k/h8luia3",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
-        "link": "https://toutiao.io/k/rcfibi5",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-09"
-      },
-      {
         "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
         "link": "https://toutiao.io/k/g6swper",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-09"
       },
       {
@@ -17204,8 +17164,18 @@
         "date": "2020-08-09"
       },
       {
-        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
-        "link": "https://toutiao.io/k/w7mh66i",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-09"
       },
       {
@@ -17214,8 +17184,43 @@
         "date": "2020-08-09"
       },
       {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] ES 优化看这几条就够了",
+        "link": "https://toutiao.io/k/194ehwo",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 我 C，MySQL 双主架构，原来能这么玩",
+        "link": "https://toutiao.io/k/rcfibi5",
+        "date": "2020-08-09"
+      },
+      {
         "title": "[推荐] 超全实用图片工具网站列表",
         "link": "https://toutiao.io/k/mx00oaq",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
+        "link": "https://toutiao.io/k/329gcr0",
         "date": "2020-08-09"
       }
     ]

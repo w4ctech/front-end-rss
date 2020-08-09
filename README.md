@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 16:18:48，:rocket: 更新条数: +3240， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 16:19:50，:rocket: 更新条数: +3279， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -51,7 +51,7 @@
 - [印记中文周刊](#印记中文周刊)  
 - [编程之上](#编程之上)![](assets/dot.png)   
 - [知乎日报](#知乎日报)![](assets/dot.png)   
-- [V2EX](#v2ex)  
+- [V2EX](#v2ex)![](assets/dot.png)   
 - [技术头条](#技术头条)![](assets/dot.png)   
 - [开发者头条](#开发者头条)![](assets/dot.png)   
 - [安全热点](#安全热点)![](assets/dot.png)   
@@ -1052,6 +1052,26 @@
 </summary>
 
 
+- [2020-08-09-20200810-午夜俱乐部](https://www.v2ex.com/t/696926) ![](assets/new.png)  
+- [2020-08-09-2017-款-MacBook-Pro-i5-最近变得很卡怎么办？求助。](https://www.v2ex.com/t/696925) ![](assets/new.png)  
+- [2020-08-09-MBP-电池轻微鼓包](https://www.v2ex.com/t/696924) ![](assets/new.png)  
+- [2020-08-09-中美之间的直连网络还能撑多久？](https://www.v2ex.com/t/696923) ![](assets/new.png)  
+- [2020-08-09-ZDnet-新闻：中国已经区块化使用-TLS-1.3-和-ESNI-的所有加密-HTTPS-流量](https://www.v2ex.com/t/696922) ![](assets/new.png)  
+- [2020-08-09-微服务系列之-API-网关服务-Zuul](https://www.v2ex.com/t/696920) ![](assets/new.png)  
+- [2020-08-09-发现一款非常魔性的小游戏《小猪拱白菜》](https://www.v2ex.com/t/696919) ![](assets/new.png)  
+- [2020-08-09-关于-TrackPad2-的手感问题](https://www.v2ex.com/t/696917) ![](assets/new.png)  
+- [2020-08-09-求助关于-DTK-的色彩校准](https://www.v2ex.com/t/696915) ![](assets/new.png)  
+- [2020-08-09-有哪些渠道可以付费咨询软件开发架构设计？](https://www.v2ex.com/t/696914) ![](assets/new.png)  
+- [2020-08-09-Big-Sur-的-SMB-好像有性能问题](https://www.v2ex.com/t/696913) ![](assets/new.png)  
+- [2020-08-09-面试机会非常少,可能简历有些问题,希望更多改进意见](https://www.v2ex.com/t/696912) ![](assets/new.png)  
+- [2020-08-09-app-需要接入微信支付，短时间内怎么快速接入](https://www.v2ex.com/t/696911) ![](assets/new.png)  
+- [2020-08-09-最近两年内跟乙肝插肩而过，代表我的身体抵抗力变差了吗？](https://www.v2ex.com/t/696910) ![](assets/new.png)  
+- [2020-08-09-各位有出现过快速开合笔记本的盖子就死机的情况吗](https://www.v2ex.com/t/696909) ![](assets/new.png)  
+- [2020-08-09-macOS-11-Listen-Now-这个小细节做的还蛮好看](https://www.v2ex.com/t/696907) ![](assets/new.png)  
+- [2020-08-09-docker-pull-不了-docker-hub-镜像是怎么回事？](https://www.v2ex.com/t/696906) ![](assets/new.png)  
+- [2020-08-09-关于-leetcode-的的-1103-题目](https://www.v2ex.com/t/696905) ![](assets/new.png)  
+- [2020-08-09-Backup-blogposts-to-PDF-for-offline-storage,-built-with-Puppeteer-and-ClojureScript](https://www.v2ex.com/t/696903) ![](assets/new.png)  
+- [2020-08-09-笔记本液晶屏要不要贴膜](https://www.v2ex.com/t/696902) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

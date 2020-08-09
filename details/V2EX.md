@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 08:02:40。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 08:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -43,4 +43,3 @@
 - [2020-08-09-想给自己的-MacBook-Pro-换电池，选什么牌子的好，各位有经验吗](https://www.v2ex.com/t/696812) 
 - [2020-08-09-现在攒钱买下一代主机好还是配一台游戏-PC（台式机）好?](https://www.v2ex.com/t/696811) 
 - [2020-08-09-升级-big-sur-beta4-以后遇到一个奇怪的-bug，聚焦搜索里不能直接输-terminal-打开终端了](https://www.v2ex.com/t/696808) 
-- [2020-08-09-Apple-Watch-的闹钟振动如何？能起到叫醒的作用吗？除了-Apple-Watch-还有哪些带有振动闹钟的手表推荐？](https://www.v2ex.com/t/696807) 

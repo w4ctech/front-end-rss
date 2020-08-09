@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-09 03:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 03:09:02。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-09-NTZlUjVhMm01TGlLNTcyUjVMMmc1THVzNllPOTVwaXY1THVBNUxtSTVhZS81WXEvNzd5Zgo=](https://www.v2ex.com/t/696809) 
 - [2020-08-09-升级-big-sur-beta4-以后遇到一个奇怪的-bug，聚焦搜索里不能直接输-terminal-打开终端了](https://www.v2ex.com/t/696808) 
 - [2020-08-09-Apple-Watch-的闹钟振动如何？能起到叫醒的作用吗？除了-Apple-Watch-还有哪些带有振动闹钟的手表推荐？](https://www.v2ex.com/t/696807) 
 - [2020-08-09-B-站有好的可以学习英语发音的视频吗。想学习一下](https://www.v2ex.com/t/696804) 
@@ -41,4 +42,3 @@
 - [2020-08-08-从物质和感知推到空间和时间](https://www.v2ex.com/t/696762) 
 - [2020-08-08-iOS-有类似-Android-的-AudioPlaybackCapture-API-这样的内录系统声音的-API-吗？](https://www.v2ex.com/t/696761) 
 - [2020-08-08-为什么英语怎么学都学不好](https://www.v2ex.com/t/696760) 
-- [2020-08-08-闲谈-360-加固被“全网破解”](https://www.v2ex.com/t/696759) 

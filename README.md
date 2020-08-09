@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 15:09:05，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 15:18:44，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1125,15 +1125,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
 - [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
-- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
-- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-09-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-09-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

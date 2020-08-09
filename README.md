@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 17:18:44，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 17:32:02，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)  
+- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -750,6 +750,26 @@
 </summary>
 
 
+- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
+- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
+- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
+- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
+- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
+- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
+- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
+- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
+- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
+- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
+- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
+- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
+- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
+- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
+- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
+- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
+- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
+- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
+- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1021,26 +1041,26 @@
 </summary>
 
 
+- [2020-08-09-本周知乎热榜-|-我国人均国民总收入首破-1-万美元，「三十而已」大结局，拼多多厕所坑位风波](https://www.ershicimi.com/p/63d102381655ff6607a80cd55ed698fd) ![](assets/new.png)  
+- [2020-08-09-动漫作品中最长的一天是哪天？](https://www.ershicimi.com/p/5dfaf67bcf3c86ac5cbfef46e9207f01) ![](assets/new.png)  
+- [2020-08-09-2020-我删除无数个公众号，只留下了这-7-个](https://www.ershicimi.com/p/372a814e05992b38c51ebdb41c19da24) ![](assets/new.png)  
+- [2020-08-09-知乎故事-|-你有哪些委屈到想哭的瞬间？](https://www.ershicimi.com/p/119c79bfddf3dee29ad534d2b79b22b3) ![](assets/new.png)  
+- [2020-08-08-知乎神吐槽-|-为什么之前跪舔追自己的男生追一半就不追了？](https://www.ershicimi.com/p/994673ae439291d31819520d3d07266b) ![](assets/new.png)  
+- [2020-08-08-长相真的会影响一个人的命运么？](https://www.ershicimi.com/p/00c06daf6de4ee7a099fd7fb2c00d26d) ![](assets/new.png)  
+- [2020-08-08-知乎故事-|-有没有重男轻女的反击案例？](https://www.ershicimi.com/p/e104c7e5b18e9f0b2be23f092e21d1b8) ![](assets/new.png)  
+- [2020-08-07-知乎高赞：你以为的天赋和努力，在「习惯霸权」面前不值一提](https://www.ershicimi.com/p/bf9d11385894e0c828710da04e478c3e) ![](assets/new.png)  
+- [2020-08-07-如何在-360-小时内创造一部院线级长片？](https://www.ershicimi.com/p/47634ac7df558b90aecaf266b3c7aebf) ![](assets/new.png)  
+- [2020-08-07-哪个瞬间，你突然觉得读书真有用？](https://www.ershicimi.com/p/2472eece4e3525784448226bba724ba3) ![](assets/new.png)  
+- [2020-08-07-知乎故事-|-自助餐被我吃回本了](https://www.ershicimi.com/p/79529b96594f3c4d7f1f8501dbdc619e) ![](assets/new.png)  
+- [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) ![](assets/new.png)  
+- [2020-08-06-韦正《爱五》后首次回应「抄袭风波」，一场告别一次结束](https://www.ershicimi.com/p/7d257a1e30654051440a1e28bf9cb91f) ![](assets/new.png)  
+- [2020-08-06-知乎故事-|-你高中时有哪些怦然心动的瞬间？](https://www.ershicimi.com/p/8753f72d98da1fac605be22a394a2b11) ![](assets/new.png)  
+- [2020-08-05-黎巴嫩首都发生爆炸致-4000+-人伤亡？！遇到爆炸时有哪些秘诀能保全自己？](https://www.ershicimi.com/p/d95abf0bd7a21f91dac8a6ae79dc818a) ![](assets/new.png)  
+- [2020-08-05-70-岁生第一个孩子是一种什么样的体验？](https://www.ershicimi.com/p/dfb5c2cbf89aabf6eb6d284665c8f875) ![](assets/new.png)  
+- [2020-08-05-知乎故事-|-你见过命苦的人有多苦？](https://www.ershicimi.com/p/89c86b9fdee612df60fb302cddacb95c) ![](assets/new.png)  
 - [2020-08-04-开播即爆款的《三十而已》，却让我看清了国产剧的「真面目」](https://www.ershicimi.com/p/779698f9263d720874486e310931e6e9) ![](assets/new.png)  
 - [2020-08-04-万茜采访「翻车」：越火，越能看出一个人的本性](https://www.ershicimi.com/p/5ca679950035bfe101e02dcdfbea5c02) ![](assets/new.png)  
 - [2020-08-04-知乎故事-|-我是被老婆「撩」到手的](https://www.ershicimi.com/p/7489ac9af61c0d3007895a981ef3a938) ![](assets/new.png)  
-- [2020-08-03-知乎好问题：李白一辈子游山玩水，也不怎么工作，他的钱是从哪来的？](https://www.ershicimi.com/p/d81b94249b1b0c55c3fb2ddbed57fdd9) ![](assets/new.png)  
-- [2020-08-03-我要非「常」美-|-JK-制服、汉服、Lolita-服饰、旗袍有哪些穿搭推荐？](https://www.ershicimi.com/p/c60baa0b901513569fd5c55c4e724547) ![](assets/new.png)  
-- [2020-08-03-如果你没空看书，就来看看这几个公众号](https://www.ershicimi.com/p/dfc554373dea075cec2c2d05c6af7aab) ![](assets/new.png)  
-- [2020-08-03-知乎故事-|-姐姐生孩子，弟弟妹妹是什么心情？](https://www.ershicimi.com/p/a581d808b2180ad1b52d5c6fd93010d4) ![](assets/new.png)  
-- [2020-08-02-本周知乎热榜-|-《乐队的夏天》第二季开播，潘玮柏结婚，女生漫展穿-JK-制服姿势露骨惹争议](https://www.ershicimi.com/p/b7e7dbaf7781a054129932d4dc9c250e) ![](assets/new.png)  
-- [2020-08-02-这东西明明好吃还能瘦，却一直被误解有毒](https://www.ershicimi.com/p/7dfa13f9ec427c81b6ec12bf97e0d4b6) ![](assets/new.png)  
-- [2020-08-02-知乎故事-|-如果手持狙击枪闯进金庸的世界里能混到什么地位？](https://www.ershicimi.com/p/0c21bbfa297135c9af777c688c10627e) ![](assets/new.png)  
-- [2020-08-01-知乎神吐槽-|-遇到吸粪车爆炸怎么办？](https://www.ershicimi.com/p/634a05eaf459f6bb07d815aa398461b1) ![](assets/new.png)  
-- [2020-08-01-购机不迷路，小蓝书「痛快开学丨购机-100-问」上线啦](https://www.ershicimi.com/p/5e90f646eafc609913942904e6ead1e1) ![](assets/new.png)  
-- [2020-08-01-让你气质爆表-8-大公众号](https://www.ershicimi.com/p/feafe8d8e73193201c1cece756018fee) ![](assets/new.png)  
-- [2020-08-01-知乎故事-|-你遇到过最真实的小概率事件是什么？](https://www.ershicimi.com/p/c93d6877bcc13617ad10f08202f67391) ![](assets/new.png)  
-- [2020-07-31-有哪些是我们误以为古代没有，但其实不仅有并且还普遍存在的东西？](https://www.ershicimi.com/p/b2e1872e82020a976b6860c7a355d472) ![](assets/new.png)  
-- [2020-07-31-给夏天加点料，秀出你的节奏感！-|-《这，就是街舞》第三季有奖视频征集](https://www.ershicimi.com/p/dc1ba7e91a42d0503bfd01bd99ba6390) ![](assets/new.png)  
-- [2020-07-31-这个隐秘家族富了-342-年，英国女王不过是他家的租客](https://www.ershicimi.com/p/d985c562983484b21aba6a1e40f94f9b) ![](assets/new.png)  
-- [2020-07-31-知乎故事-|-男生和女生长期一起打游戏会产生感觉吗？](https://www.ershicimi.com/p/a9ff7b49081c79865f8015622024b48c) ![](assets/new.png)  
-- [2020-07-30-假如我在地外宜居行星上拉了屎，几十亿年后那里会发展出智慧生物吗？](https://www.ershicimi.com/p/0e0e73e6e28a3ba61b5e3138a96e3df5) ![](assets/new.png)  
-- [2020-07-30-今天做好这-3-件事，你的抗老大业就成功一半了](https://www.ershicimi.com/p/ea21920283c6236b21a2d5b8b77d2f9e) ![](assets/new.png)  
 - [......【查看更多】......](./details/知乎日报.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1145,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
 - [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-09-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) ![](assets/new.png)  
-- [2020-08-09-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) ![](assets/new.png)  
-- [2020-08-09-推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4) ![](assets/new.png)  
-- [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-09-推荐-完了！TCP-出了大事！](https://toutiao.io/k/ohg6qxu) ![](assets/new.png)  
+- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
+- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08) ![](assets/new.png)  
+- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-09 00:52:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 01:02:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-09-YouTube-premium-印度家庭车招人](https://www.v2ex.com/t/696800) 
 - [2020-08-09-双胞胎](https://www.v2ex.com/t/696799) 
 - [2020-08-08-寻自由职业或有时间的朋友--开发应用程序-C/S，技术-Qt-或-Java-Swing-开发人员，有-Demo-已可以实时显示录制界面，会用到海康视频录像摄像功能。](https://www.v2ex.com/t/696798) 
 - [2020-08-08-在终端中运行-golang-程序，滚动终端的输出时有可能导致线程卡死？？](https://www.v2ex.com/t/696797) 
@@ -41,4 +42,3 @@
 - [2020-08-08-Vuetify-的-activator-属性应该怎么写？](https://www.v2ex.com/t/696755) 
 - [2020-08-08-想升级下-big-bur,-空间不足](https://www.v2ex.com/t/696754) 
 - [2020-08-08-有弄软件著作权评估的吗？](https://www.v2ex.com/t/696751) 
-- [2020-08-08-有没有喜欢读书的大佬，来一起啊](https://www.v2ex.com/t/696750) 

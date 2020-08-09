@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 00:52:57，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 01:02:36，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-09-8月8日新疆（含兵团）新增15例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZs4fc7QktgnlldjbjNW200809&isfromapp=1) ![](assets/new.png)  
 - [2020-08-09-北京8月8日无新增报告新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202008/t20200809_1977234.html) ![](assets/new.png)  
 - [2020-08-08-白宫或为追求“十月疫苗惊奇”走审批捷径-专家警告疫苗研发不能捆绑时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEKTkVlyOMSC9B9MqaiT200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-08-辽宁大连两中风险地区解封](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5QPQQM1sYCDmweQmVXh200808&isfromapp=1) ![](assets/new.png)  
 - [2020-08-08-新加坡超过35%出现呼吸道症状者-市民仍坚持外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidDeC2KcFARlu7qaWVZ2s200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-08-​香港新增69例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivnsnenaf0vzWOBrY8ygp200808&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-09-YouTube-premium-印度家庭车招人](https://www.v2ex.com/t/696800) ![](assets/new.png)  
 - [2020-08-09-双胞胎](https://www.v2ex.com/t/696799) ![](assets/new.png)  
 - [2020-08-08-寻自由职业或有时间的朋友--开发应用程序-C/S，技术-Qt-或-Java-Swing-开发人员，有-Demo-已可以实时显示录制界面，会用到海康视频录像摄像功能。](https://www.v2ex.com/t/696798) ![](assets/new.png)  
 - [2020-08-08-在终端中运行-golang-程序，滚动终端的输出时有可能导致线程卡死？？](https://www.v2ex.com/t/696797) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-08-git-add-.-文件添加不了缓存区？](https://www.v2ex.com/t/696776) ![](assets/new.png)  
 - [2020-08-08-求-Rime-小白教程](https://www.v2ex.com/t/696775) ![](assets/new.png)  
 - [2020-08-08-请问下-golang-json-化的问题,重写-UnmarshalJSON-后取不到值了.](https://www.v2ex.com/t/696774) ![](assets/new.png)  
-- [2020-08-08-Coding.net-的账号体系是我见过最乱的账号体系！没有之一！](https://www.v2ex.com/t/696772) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1125,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
+- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
 - [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
-- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-09-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) ![](assets/new.png)  
-- [2020-08-09-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
-- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
-- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
 - [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
+- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 03:20:17，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 03:31:19，:rocket: 更新条数: +3275， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,6 +95,7 @@
 </summary>
 
 
+- [2020-08-09-印度安德拉邦一新冠肺炎征用酒店起火-4人丧生](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqrnD1T3SkxBPZ8TCqJBk200809&isfromapp=1) ![](assets/new.png)  
 - [2020-08-09-大连连续三天零新增确诊病例-住院病例79例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7yE62300q1B73tQZtjo2200809&isfromapp=1) ![](assets/new.png)  
 - [2020-08-09-全美第一、第三！加州新冠肺炎确诊病例超54.5万例-得州超48.1万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOUnMUpPULIKPuJ8v9UwT200809&isfromapp=1) ![](assets/new.png)  
 - [2020-08-09-浙江新增新冠肺炎境外输入确诊病例1例-为印度尼西亚输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxMUNncEfwYmUdvG5IHV200809&isfromapp=1) ![](assets/new.png)  
@@ -1052,8 +1053,10 @@
 </summary>
 
 
-- [2020-08-09-现在攒钱买下一代主机好还是配一台游戏-PC-好?](https://www.v2ex.com/t/696811) ![](assets/new.png)  
-- [2020-08-09-NTZlUjVhMm01TGlLNTcyUjVMMmc1THVzNllPOTVwaXY1THVBNUxtSTVhZS81WXEvNzd5Zgo=](https://www.v2ex.com/t/696809) ![](assets/new.png)  
+- [2020-08-09-你们都用备用机吗？想知道用的是什么备用机？](https://www.v2ex.com/t/696814) ![](assets/new.png)  
+- [2020-08-09-🔥🔥字节跳动-懂车帝-招聘商业产品经理-Base-北京](https://www.v2ex.com/t/696813) ![](assets/new.png)  
+- [2020-08-09-想给自己的-MacBook-Pro-换电池，选什么牌子的好，各位有经验吗](https://www.v2ex.com/t/696812) ![](assets/new.png)  
+- [2020-08-09-现在攒钱买下一代主机好还是配一台游戏-PC（台式机）好?](https://www.v2ex.com/t/696811) ![](assets/new.png)  
 - [2020-08-09-升级-big-sur-beta4-以后遇到一个奇怪的-bug，聚焦搜索里不能直接输-terminal-打开终端了](https://www.v2ex.com/t/696808) ![](assets/new.png)  
 - [2020-08-09-Apple-Watch-的闹钟振动如何？能起到叫醒的作用吗？除了-Apple-Watch-还有哪些带有振动闹钟的手表推荐？](https://www.v2ex.com/t/696807) ![](assets/new.png)  
 - [2020-08-09-B-站有好的可以学习英语发音的视频吗。想学习一下](https://www.v2ex.com/t/696804) ![](assets/new.png)  
@@ -1070,8 +1073,6 @@
 - [2020-08-08-LinkedTransferQueue-为什么不用-Condition-实现](https://www.v2ex.com/t/696787) ![](assets/new.png)  
 - [2020-08-08-工作（非程序员）实习一个月了谈谈感受](https://www.v2ex.com/t/696786) ![](assets/new.png)  
 - [2020-08-08-肯德基为什么总是在餐品未配齐的情况下叫顾客取餐？](https://www.v2ex.com/t/696785) ![](assets/new.png)  
-- [2020-08-08-计算机软著只需提交部分代码-那如何保证我的软著权利呢？](https://www.v2ex.com/t/696784) ![](assets/new.png)  
-- [2020-08-08-求推荐提升手机音质的东东。](https://www.v2ex.com/t/696783) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1125,15 +1126,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
-- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
-- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
-- [2020-08-09-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
-- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-09-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
-- [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
+- [2020-08-09-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) ![](assets/new.png)  
 - [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
+- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
+- [2020-08-09-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) ![](assets/new.png)  
+- [2020-08-09-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) ![](assets/new.png)  
+- [2020-08-09-推荐-一文读懂-Web-安全](https://toutiao.io/k/w5f9xxo) ![](assets/new.png)  
+- [2020-08-09-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) ![](assets/new.png)  
+- [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

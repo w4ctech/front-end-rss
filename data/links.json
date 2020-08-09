@@ -12567,6 +12567,21 @@
     "link": "https://3g.dxy.cn/newh5/view/pneumonia",
     "items": [
       {
+        "title": "浙江新增新冠肺炎境外输入确诊病例1例 为印度尼西亚输入",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxMUNncEfwYmUdvG5IHV200809&isfromapp=1",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "秘鲁新增7137例新冠肺炎确诊病例 累计确诊逾47万例",
+        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik07fep0LRvvxx0xgyrIE200809&isfromapp=1",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "福建省新型冠状病毒肺炎疫情情况",
+        "link": "http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202008/t20200809_5350623.htm",
+        "date": "2020-08-09"
+      },
+      {
         "title": "8月8日新疆（含兵团）新增15例新冠肺炎确诊病例",
         "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZs4fc7QktgnlldjbjNW200809&isfromapp=1",
         "date": "2020-08-09"
@@ -12575,21 +12590,6 @@
         "title": "北京8月8日无新增报告新冠肺炎确诊病例",
         "link": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202008/t20200809_1977234.html",
         "date": "2020-08-09"
-      },
-      {
-        "title": "白宫或为追求“十月疫苗惊奇”走审批捷径 专家警告疫苗研发不能捆绑时间表",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEKTkVlyOMSC9B9MqaiT200808&isfromapp=1",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "辽宁大连两中风险地区解封",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5QPQQM1sYCDmweQmVXh200808&isfromapp=1",
-        "date": "2020-08-08"
-      },
-      {
-        "title": "新加坡超过35%出现呼吸道症状者 市民仍坚持外出",
-        "link": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidDeC2KcFARlu7qaWVZ2s200808&isfromapp=1",
-        "date": "2020-08-08"
       }
     ]
   },
@@ -16795,6 +16795,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "B 站有好的可以学习英语发音的视频吗。想学习一下",
+        "link": "https://www.v2ex.com/t/696804",
+        "date": "2020-08-09"
+      },
+      {
         "title": "检测 Xposed 安装、防止应用被劫持的终极解决方案",
         "link": "https://www.v2ex.com/t/696803",
         "date": "2020-08-09"
@@ -16983,11 +16988,6 @@
         "title": "Vuetify 的 activator 属性应该怎么写？",
         "link": "https://www.v2ex.com/t/696755",
         "date": "2020-08-08"
-      },
-      {
-        "title": "想升级下 big bur, 空间不足",
-        "link": "https://www.v2ex.com/t/696754",
-        "date": "2020-08-08"
       }
     ]
   },
@@ -17159,18 +17159,28 @@
         "date": "2020-08-09"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
         "date": "2020-08-09"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-09"
       },
       {
         "title": "[推荐] 架构思维其实就那么回事",
         "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
         "date": "2020-08-09"
       },
       {
@@ -17184,41 +17194,6 @@
         "date": "2020-08-09"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
-        "link": "https://toutiao.io/k/v7sg069",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
-        "link": "https://toutiao.io/k/g6swper",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-09"
-      },
-      {
         "title": "[推荐] Go 调试分析的高阶技巧",
         "link": "https://toutiao.io/k/onlqg3p",
         "date": "2020-08-09"
@@ -17229,8 +17204,33 @@
         "date": "2020-08-09"
       },
       {
+        "title": "[推荐] 面试官：说一下你常用的加密算法",
+        "link": "https://toutiao.io/k/z7rw71k",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
+        "date": "2020-08-09"
+      },
+      {
         "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
         "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
+        "date": "2020-08-09"
+      },
+      {
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-09"
       }
     ]

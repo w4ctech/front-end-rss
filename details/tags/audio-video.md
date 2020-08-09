@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-09 01:33:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 01:46:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -90,6 +90,7 @@
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-07-31-给夏天加点料，秀出你的节奏感！-|-《这，就是街舞》第三季有奖视频征集](https://www.ershicimi.com/p/dc1ba7e91a42d0503bfd01bd99ba6390) 
+- [2020-08-09-B-站有好的可以学习英语发音的视频吗。想学习一下](https://www.v2ex.com/t/696804) 
 - [2020-08-08-寻自由职业或有时间的朋友--开发应用程序-C/S，技术-Qt-或-Java-Swing-开发人员，有-Demo-已可以实时显示录制界面，会用到海康视频录像摄像功能。](https://www.v2ex.com/t/696798) 
 - [2020-08-08-iOS-有类似-Android-的-AudioPlaybackCapture-API-这样的内录系统声音的-API-吗？](https://www.v2ex.com/t/696761) 
 - [2020-08-06-明晚轰趴刷夜+4天全程直播!请收好这份DEF-CON-28节目单](https://sec.thief.one/article_content?a_id=131e1f0cc8290b4cdd1e295ddc2543f5) 

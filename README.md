@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-09 01:33:50，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-09 01:46:15，:rocket: 更新条数: +3493， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-09-浙江新增新冠肺炎境外输入确诊病例1例-为印度尼西亚输入](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxMUNncEfwYmUdvG5IHV200809&isfromapp=1) ![](assets/new.png)  
+- [2020-08-09-秘鲁新增7137例新冠肺炎确诊病例-累计确诊逾47万例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik07fep0LRvvxx0xgyrIE200809&isfromapp=1) ![](assets/new.png)  
+- [2020-08-09-福建省新型冠状病毒肺炎疫情情况](http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202008/t20200809_5350623.htm) ![](assets/new.png)  
 - [2020-08-09-8月8日新疆（含兵团）新增15例新冠肺炎确诊病例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZs4fc7QktgnlldjbjNW200809&isfromapp=1) ![](assets/new.png)  
 - [2020-08-09-北京8月8日无新增报告新冠肺炎确诊病例](http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202008/t20200809_1977234.html) ![](assets/new.png)  
-- [2020-08-08-白宫或为追求“十月疫苗惊奇”走审批捷径-专家警告疫苗研发不能捆绑时间表](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEKTkVlyOMSC9B9MqaiT200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-08-辽宁大连两中风险地区解封](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5QPQQM1sYCDmweQmVXh200808&isfromapp=1) ![](assets/new.png)  
-- [2020-08-08-新加坡超过35%出现呼吸道症状者-市民仍坚持外出](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidDeC2KcFARlu7qaWVZ2s200808&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,7 @@
 </summary>
 
 
+- [2020-08-09-B-站有好的可以学习英语发音的视频吗。想学习一下](https://www.v2ex.com/t/696804) ![](assets/new.png)  
 - [2020-08-09-检测-Xposed-安装、防止应用被劫持的终极解决方案](https://www.v2ex.com/t/696803) ![](assets/new.png)  
 - [2020-08-09-杭州左家新村房子招租，沈塘桥地铁站附近](https://www.v2ex.com/t/696802) ![](assets/new.png)  
 - [2020-08-09-Apple-Care+某宝上有便宜的可以买吗～-AirPodspro-某宝-268～～](https://www.v2ex.com/t/696801) ![](assets/new.png)  
@@ -1091,7 +1092,6 @@
 - [2020-08-08-使用-Go-Module-后-GOPATH-的作用？](https://www.v2ex.com/t/696781) ![](assets/new.png)  
 - [2020-08-08-外包的兄弟们，你们有没有替销售背过锅？](https://www.v2ex.com/t/696780) ![](assets/new.png)  
 - [2020-08-08-B-哥，回来啦！](https://www.v2ex.com/t/696778) ![](assets/new.png)  
-- [2020-08-08-为什么同一个-trojan-节点-用-PC-有线连接速度不如无线？](https://www.v2ex.com/t/696777) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1145,15 +1145,15 @@
 - [2020-08-09-RabbitMQ-分析（一）：SimpleMessageListenerContainer-原理分析](https://toutiao.io/k/nf5h9e1) ![](assets/new.png)  
 - [2020-08-09-Lucene-索引文件的读取（八）：tip&&tim](https://toutiao.io/k/r5tdmqi) ![](assets/new.png)  
 - [2020-08-09-property-的-AttributeError-的传播问题](https://toutiao.io/k/0fa904g) ![](assets/new.png)  
-- [2020-08-09-推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k) ![](assets/new.png)  
-- [2020-08-09-推荐-技术分享之-Golang-构建分布式任务系统](https://toutiao.io/k/m7jtpvi) ![](assets/new.png)  
+- [2020-08-09-推荐-浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...](https://toutiao.io/k/q81fyc0) ![](assets/new.png)  
+- [2020-08-09-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) ![](assets/new.png)  
+- [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
 - [2020-08-09-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) ![](assets/new.png)  
+- [2020-08-09-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
 - [2020-08-09-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) ![](assets/new.png)  
 - [2020-08-09-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) ![](assets/new.png)  
-- [2020-08-09-推荐-超长-JVM-总结，面试必备](https://toutiao.io/k/hxtorn1) ![](assets/new.png)  
-- [2020-08-09-推荐-不懂-SpringApplication-生命周期事件？那就等于不会-Spring-Boot-嘛](https://toutiao.io/k/v7sg069) ![](assets/new.png)  
-- [2020-08-09-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) ![](assets/new.png)  
-- [2020-08-09-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) ![](assets/new.png)  
+- [2020-08-09-推荐-Go-调试分析的高阶技巧](https://toutiao.io/k/onlqg3p) ![](assets/new.png)  
+- [2020-08-09-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

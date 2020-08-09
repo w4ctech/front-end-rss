@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-09 07:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 07:46:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-09-同时连接有线和-wifi，不能用-watch-解锁-mbp-2020](https://www.v2ex.com/t/696854) 
 - [2020-08-09-最近想换手机，几个需求大家有推荐的吗](https://www.v2ex.com/t/696853) 
 - [2020-08-09-exe，-msi-扩展名比较常见，-application-是啥？](https://www.v2ex.com/t/696852) 
 - [2020-08-09-小米售后真的烂，无力吐槽](https://www.v2ex.com/t/696851) 
@@ -42,4 +43,3 @@
 - [2020-08-09-现在攒钱买下一代主机好还是配一台游戏-PC（台式机）好?](https://www.v2ex.com/t/696811) 
 - [2020-08-09-升级-big-sur-beta4-以后遇到一个奇怪的-bug，聚焦搜索里不能直接输-terminal-打开终端了](https://www.v2ex.com/t/696808) 
 - [2020-08-09-Apple-Watch-的闹钟振动如何？能起到叫醒的作用吗？除了-Apple-Watch-还有哪些带有振动闹钟的手表推荐？](https://www.v2ex.com/t/696807) 
-- [2020-08-09-B-站有好的可以学习英语发音的视频吗。想学习一下](https://www.v2ex.com/t/696804) 

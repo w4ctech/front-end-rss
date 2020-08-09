@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-09 09:48:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 10:02:46。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-09-可汗学院-Khan-Academy-是如何做到知识不付费的？](https://www.v2ex.com/t/696878) 
 - [2020-08-09-想知道大数据的学习的一个学习路线，现在学了-Java-，-Linux-，-hadoop，-hive-涉及了一点，请问如何有效的学习大数据方面的知识](https://www.v2ex.com/t/696877) 
 - [2020-08-09-求一个-Windows-关闭屏幕的软件](https://www.v2ex.com/t/696876) 
 - [2020-08-09-mikrotik-RouterOS-6-不支持-Intel-I211-网卡，-RouterOS-7-已经支持。](https://www.v2ex.com/t/696875) 

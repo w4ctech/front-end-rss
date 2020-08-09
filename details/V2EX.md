@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-09 02:48:36。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-09 03:03:50。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-09-升级-big-sur-beta4-以后遇到一个奇怪的-bug，聚焦搜索里不能直接输-terminal-打开终端了](https://www.v2ex.com/t/696808) 
 - [2020-08-09-Apple-Watch-的闹钟振动如何？能起到叫醒的作用吗？除了-Apple-Watch-还有哪些带有振动闹钟的手表推荐？](https://www.v2ex.com/t/696807) 
 - [2020-08-09-B-站有好的可以学习英语发音的视频吗。想学习一下](https://www.v2ex.com/t/696804) 
 - [2020-08-09-检测-Xposed-安装、防止应用被劫持的终极解决方案](https://www.v2ex.com/t/696803) 

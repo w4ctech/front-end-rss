@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 10:48:27，:rocket: 更新条数: +3506， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 11:02:43，:rocket: 更新条数: +3290， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -39,7 +39,7 @@
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [京东设计中心](#京东设计中心)![](assets/dot.png)   
-- [凹凸实验室](#凹凸实验室)![](assets/dot.png)   
+- [凹凸实验室](#凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [前端e进阶](#前端e进阶)![](assets/dot.png)   
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-世卫组织总干事：全球新冠肺炎病例本周将达到2000万-死亡病例将达到75万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXYD4IhRJfO6s71SNuNXF200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-珠海赴澳旅行签注12日起开放-从澳门进入内地持核酸阴性证明无需隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGVpShjx1vHQZPl9a1O7200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-乌鲁木齐推进全方位无死角环境消杀-阻断传播途径](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFvcE3NqPdwWG36XmutN200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-乌鲁木齐市在院治疗的确诊病例、无症状感染者人数继续下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9lqn7Ai1PnDXuckKlRGD200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-香港新增69例新冠肺炎确诊病例-连续第八日少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3GteZ0c5FgMWJCRBBLx8200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-印度前总统穆克吉确诊感染新冠肺炎](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdfLlpryAuwuozpKmkTM200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-受疫情影响-近八成美国受访者担心还不上信用卡债](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCklaBiQ4yj2v90mZS6p2200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -750,26 +750,6 @@
 </summary>
 
 
-- [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/) ![](assets/new.png)  
-- [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/) ![](assets/new.png)  
-- [2020-07-16-移动端吸顶导航组件的实现](https://aotu.io/notes/2020/07/16/mobile-top-nav/) ![](assets/new.png)  
-- [2020-07-14-如何使用Grid-Layout](https://aotu.io/notes/2020/07/14/how-to-use-grid-layout/) ![](assets/new.png)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/) ![](assets/new.png)  
-- [2020-06-30-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/) ![](assets/new.png)  
-- [2020-06-22-手把手教你写个小程序定时器管理库](https://aotu.io/notes/2020/06/22/timer-miniprogram/) ![](assets/new.png)  
-- [2020-06-22-图形处理：给-Canvas-文本填充线性渐变](https://aotu.io/notes/2020/06/22/linearGradient/) ![](assets/new.png)  
-- [2020-06-09-向强大的SVG迈进](https://aotu.io/notes/2020/06/09/strong-svg/) ![](assets/new.png)  
-- [2020-06-08-前端也要懂物理-——-惯性滚动篇](https://aotu.io/notes/2020/06/08/momentum-scrolling/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之聚合篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-2/) ![](assets/new.png)  
-- [2020-06-07-从-SQL-到-MongoDB-之概念篇](https://aotu.io/notes/2020/06/07/sql-to-mongo-1/) ![](assets/new.png)  
-- [2020-05-25-Taro-3.0-RC：React/Vue/Nerv-任你选](https://aotu.io/notes/2020/05/25/taro-3-rc/) ![](assets/new.png)  
-- [2020-05-18-一个学习-Koa-源码的例子](https://aotu.io/notes/2020/05/18/koa-demo/) ![](assets/new.png)  
-- [2020-05-12-大规格文件的上传优化](https://aotu.io/notes/2020/05/12/file-upload/) ![](assets/new.png)  
-- [2020-05-06-京喜前端自动化测试之路](https://aotu.io/notes/2020/05/06/jingxi-automated-testing/) ![](assets/new.png)  
-- [2020-04-27-京东小程序-Taro-开发对比原生开发测评](https://aotu.io/notes/2020/04/27/taro-vs-jd/) ![](assets/new.png)  
-- [2020-04-27-使用-Taro-快速开发京东小程序](https://aotu.io/notes/2020/04/27/taro-build-jd/) ![](assets/new.png)  
-- [2020-04-21-智能可视化搭建系统-Atom-服务架构演变](https://aotu.io/notes/2020/04/21/atom-services-upgrade/) ![](assets/new.png)  
-- [2020-04-13-Taro-Next-H5-跨框架组件库实践](https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/) ![](assets/new.png)  
 - [......【查看更多】......](./details/凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-10-CentOS-上使用-Docker-安装-nginx-后从宿主机不能访问](https://www.v2ex.com/t/697159) ![](assets/new.png)  
 - [2020-08-10-微信新消息不自动置顶](https://www.v2ex.com/t/697156) ![](assets/new.png)  
 - [2020-08-10-请教一下现在-cmd-+-`-还有效吗](https://www.v2ex.com/t/697154) ![](assets/new.png)  
 - [2020-08-10-突然脑洞一开，想到一个问题，三和大神的生活是否具有进步性？](https://www.v2ex.com/t/697153) ![](assets/new.png)  
@@ -1091,7 +1072,6 @@
 - [2020-08-10-想请问一下，有没有可以批量更改不同文件夹的不同权限的脚本或者程序的。](https://www.v2ex.com/t/697134) ![](assets/new.png)  
 - [2020-08-10-5-年前买的神舟笔记本可以如何更换配置，让电脑更流畅？](https://www.v2ex.com/t/697133) ![](assets/new.png)  
 - [2020-08-10-北京地区有没有性价比高的宽带？](https://www.v2ex.com/t/697132) ![](assets/new.png)  
-- [2020-08-10-今年技术型的线下大会是不是无望了？](https://www.v2ex.com/t/697131) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

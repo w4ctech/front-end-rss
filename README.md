@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 13:18:13，:rocket: 更新条数: +3291， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 13:31:34，:rocket: 更新条数: +3291， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,11 @@
 </summary>
 
 
+- [2020-08-10-求推荐-电脑闹钟](https://www.v2ex.com/t/697191) ![](assets/new.png)  
+- [2020-08-10-biu~，又一个新的图床](https://www.v2ex.com/t/697190) ![](assets/new.png)  
+- [2020-08-10-pytz-的中国时区似乎有问题？](https://www.v2ex.com/t/697189) ![](assets/new.png)  
+- [2020-08-10-代码自动补全功能的技术实现难点](https://www.v2ex.com/t/697188) ![](assets/new.png)  
+- [2020-08-10-独享拨号代理-IP-池，新品-8-折优惠](https://www.v2ex.com/t/697187) ![](assets/new.png)  
 - [2020-08-10-在线求助，自行更换电池以后，开机-wifi-未安装](https://www.v2ex.com/t/697186) ![](assets/new.png)  
 - [2020-08-10-求推荐-100-元可以买到的儿童玩具](https://www.v2ex.com/t/697185) ![](assets/new.png)  
 - [2020-08-10-SOS-轻度飞蚊症，还有得治吗？](https://www.v2ex.com/t/697183) ![](assets/new.png)  
@@ -1067,11 +1072,6 @@
 - [2020-08-10-哪位大神玩过-Docker-Desktop（Win）里的-Docker-IP-和-Win-宿主机之间的互通吗？-按教程没成功](https://www.v2ex.com/t/697171) ![](assets/new.png)  
 - [2020-08-10-喜马拉雅会员买-1-送-13](https://www.v2ex.com/t/697168) ![](assets/new.png)  
 - [2020-08-10-内有抽奖-直播预告-6-位大咖在线分享，你想知道的企业安全实践都在这里！](https://www.v2ex.com/t/697167) ![](assets/new.png)  
-- [2020-08-10-阿里巴巴-政务钉钉-招前端～-大量-Offer-虚位以待全程跟踪反馈（P6、P7）](https://www.v2ex.com/t/697166) ![](assets/new.png)  
-- [2020-08-10-分享-MacBook-Pro-2018-15-寸自动重启问题维修过程](https://www.v2ex.com/t/697165) ![](assets/new.png)  
-- [2020-08-10-阿里巴巴达摩院前端/移动端](https://www.v2ex.com/t/697164) ![](assets/new.png)  
-- [2020-08-10-如何查询-GitHub-组织的创建日期](https://www.v2ex.com/t/697163) ![](assets/new.png)  
-- [2020-08-10-V-友们有熟悉吉他的吗](https://www.v2ex.com/t/697162) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1083,6 +1083,8 @@
 </summary>
 
 
+- [2020-08-10-Android架构设计--MVP模式第（二）篇，如何减少类爆炸-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13672&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUWY_f4XP5E-RZ-nhVp7EeA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
+- [2020-08-10-Android-持续滑动布局-ConsecutiveScrollerLayout-的使用-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13671&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB6xgRIo13464PQL5mBKUXA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-LiveDataBus-的实现比你想象中的简单-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13670&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FAA8uIFxma10pI87u6YPC3w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-做运维前后的变化，看懂的人都哭了（慎入）-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13669&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCog13wfdQSQzhqKQuwS0QA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-如何诊断-Linux-服务器的性能？10个工具助力你-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13668&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjvKvIQUCrybW4F1VMICVlA%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
@@ -1101,8 +1103,6 @@
 - [2020-08-10-为什么培训班出来的程序员总遭人嫌弃？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13655&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6Zile1EaovOs289NZgQpbw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-雷军，扎克伯格，Linus-等巨佬的办公桌-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13654&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjAxhZz2Yq1Py3BEKDQ2sg%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [2020-08-10-一个故事讲完-CPU-的工作原理-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13653&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FYuAeWJBFmBiZOmF5t5vEFw%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-10-灵魂拷问！二维码会被人类扫完吗？-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13652&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FqXYbHGcJn-8KXlFpbOL8-w%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
-- [2020-08-10-快速从-Windows-切换到-Linux-环境-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13651&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVioXxGCjySXwZ9JfFHM-5A%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F) ![](assets/new.png)  
 - [......【查看更多】......](./details/技术头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

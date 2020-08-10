@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-10 15:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 15:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-10-centos-安装完-node，-/usr/local/bin-下有-node-却无法执行？](https://www.v2ex.com/t/697208) 
 - [2020-08-10-如何收听港台地区的广播节目？](https://www.v2ex.com/t/697205) 
 - [2020-08-10-国内最好用的-Linux-云盘是哪个？](https://www.v2ex.com/t/697204) 
 - [2020-08-10-帮公司面试，心态有点崩。](https://www.v2ex.com/t/697203) 

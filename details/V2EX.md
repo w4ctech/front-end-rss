@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 14:48:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 15:02:45。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
@@ -44,4 +44,3 @@
 - [2020-08-10-V-友们有熟悉吉他的吗](https://www.v2ex.com/t/697162) 
 - [2020-08-10-健身房-转卡费-是不是霸王条款](https://www.v2ex.com/t/697160) 
 - [2020-08-10-CentOS-上使用-Docker-安装-nginx-后从宿主机不能访问](https://www.v2ex.com/t/697159) 
-- [2020-08-10-微信新消息不自动置顶](https://www.v2ex.com/t/697156) 

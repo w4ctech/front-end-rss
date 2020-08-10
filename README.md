@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 11:18:09，:rocket: 更新条数: +3291， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 11:31:25，:rocket: 更新条数: +3292， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-10-阿里巴巴-政务钉钉-招前端～-大量-Offer-虚位以待全程跟踪反馈（P6、P7）](https://www.v2ex.com/t/697166) ![](assets/new.png)  
+- [2020-08-10-分享-MacBook-Pro-2018-15-寸自动重启问题维修过程](https://www.v2ex.com/t/697165) ![](assets/new.png)  
+- [2020-08-10-阿里巴巴达摩院前端/移动端](https://www.v2ex.com/t/697164) ![](assets/new.png)  
 - [2020-08-10-如何查询-GitHub-组织的创建日期](https://www.v2ex.com/t/697163) ![](assets/new.png)  
 - [2020-08-10-V-友们有熟悉吉他的吗](https://www.v2ex.com/t/697162) ![](assets/new.png)  
 - [2020-08-10-听说李逼复出了？](https://www.v2ex.com/t/697161) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-10-有大佬了解-Kafka-connect-吗？做数据-ETL-是否成熟？](https://www.v2ex.com/t/697142) ![](assets/new.png)  
 - [2020-08-10-急寻：服务端开发工程师（业务部门希望两周内可以-offer）](https://www.v2ex.com/t/697141) ![](assets/new.png)  
 - [2020-08-10-免费讲座-给出算法最优解，甩掉-90%的对手](https://www.v2ex.com/t/697140) ![](assets/new.png)  
-- [2020-08-10-新视纪显示器支架怎么样？](https://www.v2ex.com/t/697139) ![](assets/new.png)  
-- [2020-08-10-坐标南京秦淮区，-新零售类型电商，内推直接发-offer，不加班](https://www.v2ex.com/t/697138) ![](assets/new.png)  
-- [2020-08-10-求问各位大佬关于数据恢复的文件损坏...](https://www.v2ex.com/t/697137) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1132,8 +1132,8 @@
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
-- [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
+- [2020-08-10-译-React-测试驱动开发：从用户故事到产品](https://toutiao.io/k/29s7zqw) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

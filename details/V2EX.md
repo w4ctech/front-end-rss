@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-08-10 17:48:14。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 18:03:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-10-Apple-预约服务现在为啥需要身份信息了？](https://www.v2ex.com/t/697225) 
 - [2020-08-10-坐标北京想入手共有产权房](https://www.v2ex.com/t/697224) 
 - [2020-08-10-打造一个-Geek-风的-github-主页](https://www.v2ex.com/t/697223) 
 - [2020-08-10-Google-Voice-/-GV-自动回复短信](https://www.v2ex.com/t/697222) 
@@ -46,4 +47,3 @@
 - [2020-08-10-导师联系不上怎么办](https://www.v2ex.com/t/697179) 
 - [2020-08-10-你的出租房宽带如何办理?](https://www.v2ex.com/t/697178) 
 - [2020-08-10-每日优鲜内推](https://www.v2ex.com/t/697177) 
-- [2020-08-10-HTTP_CF_CONNECTING_IP-取-ip-问题。如何才能强制获取-ipv4](https://www.v2ex.com/t/697175) 

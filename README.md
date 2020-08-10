@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 02:02:40，:rocket: 更新条数: +3278， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 02:10:26，:rocket: 更新条数: +3281， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,9 @@
 </summary>
 
 
+- [2020-08-10-关于权限控制问题？](https://www.v2ex.com/t/696969) ![](assets/new.png)  
+- [2020-08-10-Picsee-v1.1.4-更新，图片整理/屏幕截图/图床分享，欢迎免费下载使用（macOS）](https://www.v2ex.com/t/696968) ![](assets/new.png)  
+- [2020-08-10-请问谷歌邮箱验证码在哪里](https://www.v2ex.com/t/696967) ![](assets/new.png)  
 - [2020-08-10-项目登顶-GitHub-Trending-Java-月榜了......感谢-v2-的兄弟们～](https://www.v2ex.com/t/696965) ![](assets/new.png)  
 - [2020-08-10-Type-C-转接口的灵异现象](https://www.v2ex.com/t/696961) ![](assets/new.png)  
 - [2020-08-10-Java-集成计算机视觉算法问题](https://www.v2ex.com/t/696960) ![](assets/new.png)  
@@ -1069,9 +1072,6 @@
 - [2020-08-10-各位设计开发自己的框架过程中使用了多少个设计模式？](https://www.v2ex.com/t/696942) ![](assets/new.png)  
 - [2020-08-09-（murus）用过这个软件的人能分享一下使用体验吗](https://www.v2ex.com/t/696939) ![](assets/new.png)  
 - [2020-08-09-分享下我最近写的针对-SpringBoot-初学者入门的系列教程，准备写个完整的系列，目前已完成-7-篇](https://www.v2ex.com/t/696938) ![](assets/new.png)  
-- [2020-08-09-在线-全职-接单，需要做项目的老板-多捧场！](https://www.v2ex.com/t/696937) ![](assets/new.png)  
-- [2020-08-09-在油管每月赚-500-美元有多难？](https://www.v2ex.com/t/696936) ![](assets/new.png)  
-- [2020-08-09-问个-JS-变量提升，块作用域与重复声明的问题](https://www.v2ex.com/t/696935) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1114,12 +1114,13 @@
 </summary>
 
 
+- [2020-08-10-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
 - [2020-08-10-Fastjson-到了说再见的时候了](https://toutiao.io/k/x85hdml) ![](assets/new.png)  
 - [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
 - [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
-- [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
+- [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
 - [2020-08-10-新一代垃圾回收器-ZGC-的探索与实践](https://toutiao.io/k/3cvqbp2) ![](assets/new.png)  
@@ -1132,8 +1133,7 @@
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  
 - [2020-08-10-React-与前端开发的那些年](https://toutiao.io/k/kbyimqv) ![](assets/new.png)  
-- [2020-08-10-推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo) ![](assets/new.png)  
-- [2020-08-10-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) ![](assets/new.png)  
+- [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) ![](assets/new.png)  
 - [......【查看更多】......](./details/开发者头条.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

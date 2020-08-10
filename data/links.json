@@ -15729,6 +15729,21 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "关于权限控制问题？",
+        "link": "https://www.v2ex.com/t/696969",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "Picsee v1.1.4 更新，图片整理/屏幕截图/图床分享，欢迎免费下载使用（macOS）",
+        "link": "https://www.v2ex.com/t/696968",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "请问谷歌邮箱验证码在哪里",
+        "link": "https://www.v2ex.com/t/696967",
+        "date": "2020-08-10"
+      },
+      {
         "title": "项目登顶 GitHub Trending Java 月榜了......感谢 v2 的兄弟们～",
         "link": "https://www.v2ex.com/t/696965",
         "date": "2020-08-10"
@@ -15867,16 +15882,6 @@
         "title": "微服务系列之 API 网关服务 Zuul",
         "link": "https://www.v2ex.com/t/696920",
         "date": "2020-08-09"
-      },
-      {
-        "title": "发现一款非常魔性的小游戏《小猪拱白菜》",
-        "link": "https://www.v2ex.com/t/696919",
-        "date": "2020-08-09"
-      },
-      {
-        "title": "关于 TrackPad2 的手感问题",
-        "link": "https://www.v2ex.com/t/696917",
-        "date": "2020-08-09"
       }
     ]
   },
@@ -15993,6 +15998,11 @@
     "link": "https://toutiao.io",
     "items": [
       {
+        "title": "35 岁的中年程序员都是怎么过来的？| 码农周刊第 314 期",
+        "link": "https://toutiao.io/k/4e8bcfg",
+        "date": "2020-08-10"
+      },
+      {
         "title": "Fastjson 到了说再见的时候了",
         "link": "https://toutiao.io/k/x85hdml",
         "date": "2020-08-10"
@@ -16013,13 +16023,13 @@
         "date": "2020-08-10"
       },
       {
-        "title": "对话出门问问李志飞：GPT-3 是「暴力美学」的一次胜利",
-        "link": "https://toutiao.io/k/q62savp",
+        "title": "[译] 代码中如何写出更有意义的命名",
+        "link": "https://toutiao.io/k/obq5g8g",
         "date": "2020-08-10"
       },
       {
-        "title": "[译] 代码中如何写出更有意义的命名",
-        "link": "https://toutiao.io/k/obq5g8g",
+        "title": "对话出门问问李志飞：GPT-3 是「暴力美学」的一次胜利",
+        "link": "https://toutiao.io/k/q62savp",
         "date": "2020-08-10"
       },
       {
@@ -16083,38 +16093,28 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] ES 优化看这几条就够了",
-        "link": "https://toutiao.io/k/194ehwo",
+        "title": "flow.ci v0.20.30 发布：简单而强大的开源 CI/CD 工具",
+        "link": "https://toutiao.io/k/wwzvw0a",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
-        "link": "https://toutiao.io/k/wiujwft",
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 完了！TCP 出了大事！",
-        "link": "https://toutiao.io/k/ohg6qxu",
+        "title": "[推荐] 微服务重构四步法",
+        "link": "https://toutiao.io/k/n7sr1fy",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 技术管理的世界观",
-        "link": "https://toutiao.io/k/psqbtvs",
+        "title": "[推荐] 这些 MQ 概念你都懂吗：死信队列、重试队列、消息回溯等",
+        "link": "https://toutiao.io/k/w7mh66i",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
         "date": "2020-08-10"
       },
       {
@@ -16123,38 +16123,53 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 面试官：说一下你常用的加密算法",
-        "link": "https://toutiao.io/k/z7rw71k",
+        "title": "[推荐] 技术管理的世界观",
+        "link": "https://toutiao.io/k/psqbtvs",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 100% 展示 MySQL 语句执行的神器：Optimizer Trace",
-        "link": "https://toutiao.io/k/gfbzndp",
+        "title": "[推荐] 完了！TCP 出了大事！",
+        "link": "https://toutiao.io/k/ohg6qxu",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] Go 调试分析的高阶技巧",
-        "link": "https://toutiao.io/k/onlqg3p",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 一文总结：分布式一致性技术是如何演进的？",
-        "link": "https://toutiao.io/k/329gcr0",
+        "title": "[推荐] 京东商城，超大型电商系统架构设计原则与实践！8 页 ppt 详解",
+        "link": "https://toutiao.io/k/wiujwft",
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
-        "link": "https://toutiao.io/k/m7jtpvi",
+        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
+        "link": "https://toutiao.io/k/x0uwux4",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 某生鲜电商平台的库存扣减方案",
+        "link": "https://toutiao.io/k/co38uzd",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-10"
       },
       {
         "title": "[推荐] 架构思维其实就那么回事",
         "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 技术分享之 Golang 构建分布式任务系统",
+        "link": "https://toutiao.io/k/m7jtpvi",
         "date": "2020-08-10"
       }
     ]

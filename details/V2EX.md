@@ -1,13 +1,15 @@
-:alarm_clock: 更新时间: 2020-08-10 13:33:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 13:46:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## V2EX
 
 
 
 
+- [2020-08-10-你们会以什么心态对待离职前的最后一个任务？](https://www.v2ex.com/t/697193) 
+- [2020-08-10-Intellij-IDEA-jar-包源码乱码怎么解决？](https://www.v2ex.com/t/697192) 
 - [2020-08-10-求推荐-电脑闹钟](https://www.v2ex.com/t/697191) 
 - [2020-08-10-biu~，又一个新的图床](https://www.v2ex.com/t/697190) 
-- [2020-08-10-pytz-的中国时区似乎有问题？](https://www.v2ex.com/t/697189) 
+- [2020-08-10-慎用-pytz-模块，中国时区有偏差！](https://www.v2ex.com/t/697189) 
 - [2020-08-10-代码自动补全功能的技术实现难点](https://www.v2ex.com/t/697188) 
 - [2020-08-10-独享拨号代理-IP-池，新品-8-折优惠](https://www.v2ex.com/t/697187) 
 - [2020-08-10-在线求助，自行更换电池以后，开机-wifi-未安装](https://www.v2ex.com/t/697186) 
@@ -38,7 +40,3 @@
 - [2020-08-10-mysql-搜索语句中-OFFSET-可以脱离-limit-单独使用吗？](https://www.v2ex.com/t/697148) 
 - [2020-08-10-有什么可以记录工作的软件？](https://www.v2ex.com/t/697147) 
 - [2020-08-10-CODING-DevOps-代码质量实战系列第一课，下周开讲！](https://www.v2ex.com/t/697146) 
-- [2020-08-10-2020-款-MBP-13-inch-使用-Safari-全屏观看-Youtube-闪屏？](https://www.v2ex.com/t/697145) 
-- [2020-08-10-Windows-上当全屏游戏最小化后温度会持续剧烈上升](https://www.v2ex.com/t/697144) 
-- [2020-08-10-出一个-INCASE-15/16-升级款背包，和一个内胆包（几乎全新，没有用过）](https://www.v2ex.com/t/697143) 
-- [2020-08-10-有大佬了解-Kafka-connect-吗？做数据-ETL-是否成熟？](https://www.v2ex.com/t/697142) 

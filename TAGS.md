@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-10 14:10:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 14:20:02。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -455,7 +455,6 @@
 - [【技术头条】Android-项目中-Loading-对话框的优化-mp.weixin.qq.com](https://blogread.cn/news/go.php?idItem=13661&url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FjFr7nvkSkKkmcxKx6xBieQ%3Fcomefrom%3Dhttps%253A%252F%252Fblogread.cn%252Fnews%252F)
 - [【开发者头条】本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3)
 - [【开发者头条】推荐-Redis-io-thread-多线程的性能瓶颈?](https://toutiao.io/k/not1y08)
-- [【开发者头条】推荐-ES-优化看这几条就够了](https://toutiao.io/k/194ehwo)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -485,13 +484,13 @@
 - [【武汉肺炎防疫全纪录(财新网)】湖北：调整社区管控措施，有序推进企业复工和人员安全流动](http://m.china.caixin.com/m/2020-03-14/101528625.html)
 - [【武汉肺炎防疫全纪录(财新网)】马鞍山市一医生带病坐诊-涉嫌危害公共安全被立案](http://m.china.caixin.com/m/2020-02-07/101512825.html)
 - [【武汉肺炎防疫全纪录(财新网)】赵克志：启动京津冀警务一体化和联防联控工作机制，筑牢首都安全屏障](http://m.china.caixin.com/m/2020-01-28/101509076.html)
+- [【全国新型肺炎疫情实时动态(丁香园)】世卫组织：相信将会获得安全有效的新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNL9lPZIW4p12RtqXUJz200810&isfromapp=1)
 - [【Vue中文社区】Chrome插件英雄榜都有啥？](https://www.ershicimi.com/p/7a546ad42ea9b98d8d417064fbe56e12)
 - [【Vue中文社区】Chrome调试UI的神级操作](https://www.ershicimi.com/p/9b023e18b048511931e82a20030e8b43)
 - [【Vue中文社区】彻底理解浏览器的Http缓存机制](https://www.ershicimi.com/p/58f75cd7c63f399589fa4e6691e6070a)
 - [【前端早读课】【第2027期】图解CORS](https://www.ershicimi.com/p/2f680c25c9986033bf75373aaf0ed968)
 - [【前端早读课】【第2025期】解读-Chrome-84-新特性，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/8cc46fabf3e8c6805fd94934951293fa)
 - [【前端大全】你不知道的-WebSocket](https://www.ershicimi.com/p/8920ee2dc025a46552326343c98217e9)
-- [【前端大全】新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb)
 - [......【查看更多】......](./details/tags/browser.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
@@ -527,7 +526,7 @@
 - [【前端e进阶】第36期手把手教你写几个实用的AST插件](https://www.ershicimi.com/p/7d73d242ed593720c83421f0981008cf)
 - [【V2EX】HTTP_CF_CONNECTING_IP-取-ip-问题。如何才能强制获取-ipv4](https://www.v2ex.com/t/697175)
 - [【开发者头条】推荐-面试官：知道时间轮算法吗？在-Netty-和-Kafka-中如何应用的？](https://toutiao.io/k/x0uwux4)
-- [【开发者头条】推荐-面试官：说一下你常用的加密算法](https://toutiao.io/k/z7rw71k)
+- [【安全热点】GitHub霸榜项目:30万字图解算法题典,超全实用资源,狂揽6000星](https://sec.thief.one/article_content?a_id=a1fcc4ac275ff8c3563744a1aaa4850e)
 - [......【查看更多】......](./details/tags/front-end-advanced.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

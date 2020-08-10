@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 14:10:16，:rocket: 更新条数: +3505， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 14:20:02，:rocket: 更新条数: +3508， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -95,11 +95,11 @@
 </summary>
 
 
+- [2020-08-10-世卫组织：相信将会获得安全有效的新冠疫苗](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQNL9lPZIW4p12RtqXUJz200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-大连市第六人民医院负压病房改造工程基本完工，新增病房-36-间](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijG8JkZi1rzukGiDljoOO200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-世卫组织总干事：开放学校后必须对潜在疫情保持警惕](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTf5OHb8E83pgfUS98EDO200810&isfromapp=1) ![](assets/new.png)  
+- [2020-08-10-美国学生曝光学校复课乱象：不戴口罩还人挤人。美国多地教师游行反对复课](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0SNROpUKP4TuBuBaDevK200810&isfromapp=1) ![](assets/new.png)  
 - [2020-08-10-世卫组织总干事：全球新冠肺炎病例本周将达到2000万-死亡病例将达到75万](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXYD4IhRJfO6s71SNuNXF200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-珠海赴澳旅行签注12日起开放-从澳门进入内地持核酸阴性证明无需隔离](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGVpShjx1vHQZPl9a1O7200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-乌鲁木齐推进全方位无死角环境消杀-阻断传播途径](http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigFvcE3NqPdwWG36XmutN200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-乌鲁木齐市在院治疗的确诊病例、无症状感染者人数继续下降](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9lqn7Ai1PnDXuckKlRGD200810&isfromapp=1) ![](assets/new.png)  
-- [2020-08-10-香港新增69例新冠肺炎确诊病例-连续第八日少于100例](http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3GteZ0c5FgMWJCRBBLx8200810&isfromapp=1) ![](assets/new.png)  
 - [......【查看更多】......](./details/全国新型肺炎疫情实时动态(丁香园).md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1072,6 +1072,9 @@
 </summary>
 
 
+- [2020-08-10-既然谷歌地图不能用了，-icloud、google-photos-我觉得应该也要多重备份一下了。](https://www.v2ex.com/t/697202) ![](assets/new.png)  
+- [2020-08-10-收到了个-Google-的集体诉讼赔偿通知](https://www.v2ex.com/t/697201) ![](assets/new.png)  
+- [2020-08-10-有一台闲置的跑步机,-不知道有没有人想入手---BH6380](https://www.v2ex.com/t/697200) ![](assets/new.png)  
 - [2020-08-10-关于-802.1Q-VLAN-的配置](https://www.v2ex.com/t/697199) ![](assets/new.png)  
 - [2020-08-10-华为手机助手-for-mac-备份通讯录和日程，从此再也恢复不了了。](https://www.v2ex.com/t/697198) ![](assets/new.png)  
 - [2020-08-10-请大家帮忙看下简历呀~](https://www.v2ex.com/t/697197) ![](assets/new.png)  
@@ -1089,9 +1092,6 @@
 - [2020-08-10-为了迎接-9-月的-apple-silicon-macbook，要不要提前把现有的-12macbook-先卖掉？](https://www.v2ex.com/t/697182) ![](assets/new.png)  
 - [2020-08-10-湘湖地铁站附近有租房的吗？](https://www.v2ex.com/t/697180) ![](assets/new.png)  
 - [2020-08-10-导师联系不上怎么办](https://www.v2ex.com/t/697179) ![](assets/new.png)  
-- [2020-08-10-你的出租房宽带如何办理?](https://www.v2ex.com/t/697178) ![](assets/new.png)  
-- [2020-08-10-每日优鲜内推](https://www.v2ex.com/t/697177) ![](assets/new.png)  
-- [2020-08-10-HTTP_CF_CONNECTING_IP-取-ip-问题。如何才能强制获取-ipv4](https://www.v2ex.com/t/697175) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1146,8 +1146,8 @@
 - [2020-08-10-敏捷项目如何拥有管理变化的能力？](https://toutiao.io/k/bj5uk47) ![](assets/new.png)  
 - [2020-08-10-缓存架构系统就谈多级缓存，可我就知-Redis！Nginx-缓存代理助力提升](https://toutiao.io/k/l7ghccw) ![](assets/new.png)  
 - [2020-08-10-MySQL-数据库升级的一些坑](https://toutiao.io/k/kyyn6wh) ![](assets/new.png)  
-- [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) ![](assets/new.png)  
+- [2020-08-10-从-0-到-1，搭建一个体系完善的前端-React-组件库](https://toutiao.io/k/vneh28i) ![](assets/new.png)  
 - [2020-08-10-一文带你看懂二叉树的序列化](https://toutiao.io/k/7sq7da9) ![](assets/new.png)  
 - [2020-08-10-软件安全测试：安全左移的痛点与要点](https://toutiao.io/k/6s7wda3) ![](assets/new.png)  
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) ![](assets/new.png)  

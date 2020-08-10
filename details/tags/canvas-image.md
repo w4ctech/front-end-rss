@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 03:34:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 03:46:42。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -12,4 +12,3 @@
 - [2020-08-03-一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/4f9305adc2196470487ee0d4fbb50840) 
 - [2020-08-03-一个有趣的例子带你入门canvas](https://www.ershicimi.com/p/171df28ff0edbe1d56c921d7fa3ab686) 
 - [2020-06-03-SVG任意图形path曲线路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
-- [2020-08-10-成都爱奇艺招聘：-U3D（HC4）、erlang、关卡策划](https://www.v2ex.com/t/696971) 

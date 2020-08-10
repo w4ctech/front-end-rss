@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 08:10:05，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 08:20:54，:rocket: 更新条数: +3293， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-10-chrome-浏览器地址栏自带翻译插件，这个插件有历史版本吗？](https://www.v2ex.com/t/697099) ![](assets/new.png)  
 - [2020-08-10-关于-mongodb-索引的几个小问题](https://www.v2ex.com/t/697098) ![](assets/new.png)  
 - [2020-08-10-有没有书可以推荐下](https://www.v2ex.com/t/697097) ![](assets/new.png)  
 - [2020-08-10-最近国内-Minecraft-相关站点/多人服务器被大面积-DDoS/CC-攻击了？](https://www.v2ex.com/t/697095) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-10-哪里可以买到靠谱的二手苹果机呀~-6SP~](https://www.v2ex.com/t/697080) ![](assets/new.png)  
 - [2020-08-10-有么有一个岗位是软硬件结合的，因为个人爱好现在对电子设计和网页都很感兴趣，想找一份可以延续爱好的工作](https://www.v2ex.com/t/697079) ![](assets/new.png)  
 - [2020-08-10-sql-server-license-问题](https://www.v2ex.com/t/697078) ![](assets/new.png)  
-- [2020-08-10-寻一起备考软考架构师的小伙伴](https://www.v2ex.com/t/697076) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -1116,9 +1116,9 @@
 
 - [2020-08-10-35-岁的中年程序员都是怎么过来的？|-码农周刊第-314-期](https://toutiao.io/k/4e8bcfg) ![](assets/new.png)  
 - [2020-08-10-Fastjson-到了说再见的时候了](https://toutiao.io/k/x85hdml) ![](assets/new.png)  
-- [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
-- [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
 - [2020-08-10-分布式事务内幕](https://toutiao.io/k/82orv6z) ![](assets/new.png)  
+- [2020-08-10-RabbitMQ：如何保证消息不被重复消费](https://toutiao.io/k/8qddjy2) ![](assets/new.png)  
+- [2020-08-10-本地缓存性能之王-Caffeine](https://toutiao.io/k/9aqipi3) ![](assets/new.png)  
 - [2020-08-10-对话出门问问李志飞：GPT-3-是「暴力美学」的一次胜利](https://toutiao.io/k/q62savp) ![](assets/new.png)  
 - [2020-08-10-译-代码中如何写出更有意义的命名](https://toutiao.io/k/obq5g8g) ![](assets/new.png)  
 - [2020-08-10-为了解决-Prometheus-大内存问题，我竟然强行将-Prometheus-Operator-给肢解了](https://toutiao.io/k/u3liqwk) ![](assets/new.png)  

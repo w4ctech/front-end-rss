@@ -15744,6 +15744,11 @@
     "link": "https://www.v2ex.com/",
     "items": [
       {
+        "title": "chrome 浏览器地址栏自带翻译插件，这个插件有历史版本吗？",
+        "link": "https://www.v2ex.com/t/697099",
+        "date": "2020-08-10"
+      },
+      {
         "title": "关于 mongodb 索引的几个小问题",
         "link": "https://www.v2ex.com/t/697098",
         "date": "2020-08-10"
@@ -15937,11 +15942,6 @@
         "title": "[一道挺不错的 leetcode/lintcode 题] 字节跳动面试题：第 k 大的子数组",
         "link": "https://www.v2ex.com/t/697050",
         "date": "2020-08-10"
-      },
-      {
-        "title": "给我 6 个月的弟弟写了个网站，求意见~",
-        "link": "https://www.v2ex.com/t/697049",
-        "date": "2020-08-10"
       }
     ]
   },
@@ -16068,8 +16068,8 @@
         "date": "2020-08-10"
       },
       {
-        "title": "本地缓存性能之王 Caffeine",
-        "link": "https://toutiao.io/k/9aqipi3",
+        "title": "分布式事务内幕",
+        "link": "https://toutiao.io/k/82orv6z",
         "date": "2020-08-10"
       },
       {
@@ -16078,8 +16078,8 @@
         "date": "2020-08-10"
       },
       {
-        "title": "分布式事务内幕",
-        "link": "https://toutiao.io/k/82orv6z",
+        "title": "本地缓存性能之王 Caffeine",
+        "link": "https://toutiao.io/k/9aqipi3",
         "date": "2020-08-10"
       },
       {
@@ -16158,13 +16158,8 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 超长 JVM 总结，面试必备",
-        "link": "https://toutiao.io/k/hxtorn1",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
-        "link": "https://toutiao.io/k/q81fyc0",
+        "title": "[推荐] 分布式系统中只有两个难题",
+        "link": "https://toutiao.io/k/m1t8wi6",
         "date": "2020-08-10"
       },
       {
@@ -16173,43 +16168,8 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
-        "link": "https://toutiao.io/k/not1y08",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 监控系统选型，这篇不可不读",
-        "link": "https://toutiao.io/k/cg7r5ft",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 保姆级教程，手把手教你实现一个 Spring Boot 的 starter",
-        "link": "https://toutiao.io/k/jax48ch",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 分布式系统中只有两个难题",
-        "link": "https://toutiao.io/k/m1t8wi6",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 架构思维其实就那么回事",
-        "link": "https://toutiao.io/k/904xmvc",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 面试官：知道时间轮算法吗？在 Netty 和 Kafka 中如何应用的？",
-        "link": "https://toutiao.io/k/x0uwux4",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 一文读懂 Web 安全",
-        "link": "https://toutiao.io/k/w5f9xxo",
-        "date": "2020-08-10"
-      },
-      {
-        "title": "[推荐] 超全实用图片工具网站列表",
-        "link": "https://toutiao.io/k/mx00oaq",
+        "title": "[推荐] 不懂 SpringApplication 生命周期事件？那就等于不会 Spring Boot 嘛",
+        "link": "https://toutiao.io/k/v7sg069",
         "date": "2020-08-10"
       },
       {
@@ -16218,8 +16178,48 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 微服务重构四步法",
-        "link": "https://toutiao.io/k/n7sr1fy",
+        "title": "[推荐] 浅谈树形结构的特性和应用（上）：多叉树，红黑树，堆，Trie树，B树，B+树...",
+        "link": "https://toutiao.io/k/q81fyc0",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] Redis io thread 多线程的性能瓶颈?",
+        "link": "https://toutiao.io/k/not1y08",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 超长 JVM 总结，面试必备",
+        "link": "https://toutiao.io/k/hxtorn1",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 架构师技术领导力成长之路",
+        "link": "https://toutiao.io/k/9o5fri0",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] Spring Cloud 应用在 Kubernetes 上的最佳实践：线上发布（可灰度）",
+        "link": "https://toutiao.io/k/h8luia3",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 架构思维其实就那么回事",
+        "link": "https://toutiao.io/k/904xmvc",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 监控系统选型，这篇不可不读",
+        "link": "https://toutiao.io/k/cg7r5ft",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 面试高频题：Spring Boot 自动装配的原理你能说出来吗？",
+        "link": "https://toutiao.io/k/lpc9n3o",
+        "date": "2020-08-10"
+      },
+      {
+        "title": "[推荐] 一文读懂 Web 安全",
+        "link": "https://toutiao.io/k/w5f9xxo",
         "date": "2020-08-10"
       },
       {
@@ -16228,8 +16228,8 @@
         "date": "2020-08-10"
       },
       {
-        "title": "[推荐] 架构师技术领导力成长之路",
-        "link": "https://toutiao.io/k/9o5fri0",
+        "title": "[推荐] [译] 我是如何通过开发天气扩展月入 2500$",
+        "link": "https://toutiao.io/k/g6swper",
         "date": "2020-08-10"
       }
     ]

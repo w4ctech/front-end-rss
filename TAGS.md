@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-08-10 14:46:44。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 14:48:17。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -335,6 +335,8 @@
 - [【前端开发】Serverless-掀起新的前端技术变革](https://www.ershicimi.com/p/f23ecc615686df4cdf02c03bc747ec42)
 - [【前端圈】视频围观周俊鹏《依托云的Serverless落地实践》！](https://www.ershicimi.com/p/313049037be2d335de0b13d1f010d9f0)
 - [【前端开发博客】阿里-ice.work-探秘系列-css-hot-loader](https://www.ershicimi.com/p/3a72f27dcb1c69bf1a2020a5865a4497)
+- [【前端大学】深入理解CSS-background-blend-mode的作用机制](https://www.ershicimi.com/p/d9198d776da8d8f04f61a8e7a96fc916)
+- [【前端大学】20个-CSS-快速提升技巧](https://www.ershicimi.com/p/794f7a79423eed73a901873804d66922)
 - [【前端外刊评论】Serverless-背景下的前端困境与解决方案](https://www.ershicimi.com/p/ec1908283d9c4dac9fa716b21292ccd5)
 - [【前端外刊评论】赠书-|-张鑫旭新书《CSS选择器世界》章节试读](https://www.ershicimi.com/p/1be4d882970f60785dec795871ae4c89)
 - [【前端宇宙】一行-CSS-代码搞定响应式布局](https://www.ershicimi.com/p/d8d864aa387c420fa7d7726177163b0b)
@@ -348,8 +350,6 @@
 - [【阮一峰的网络日志】只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html)
 - [【凹凸实验室】2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/)
 - [【凹凸实验室】serverless](https://aotu.io/notes/2019/08/05/serverless/)
-- [【凹凸实验室】动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/)
-- [【凹凸实验室】CSS技巧：逐帧动画抖动解决方案](https://aotu.io/notes/2017/08/14/fix-sprite-anim/)
 - [......【查看更多】......](./details/tags/css.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

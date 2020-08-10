@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 09:48:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 10:02:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -59,5 +59,4 @@
 - [2020-08-10-第四期德国-IT-岗位招聘之-Full-Stack-Developer,-Frontend-Developer,-Web-developer](https://www.v2ex.com/t/697128) 
 - [2020-08-10-我面试了一个中级-iOS，你们觉得能发-offer-吗](https://www.v2ex.com/t/697115) 
 - [2020-08-10-广州-央企互联网开发招聘、解惑](https://www.v2ex.com/t/697104) 
-- [2020-08-10-推荐-面试高频题：Spring-Boot-自动装配的原理你能说出来吗？](https://toutiao.io/k/lpc9n3o) 
 - [2020-08-08-牛聘|2020年度岗位招聘第9期](https://sec.thief.one/article_content?a_id=777a6e0e45704d0c81872c85c6cdcdac) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 05:09:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 05:18:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -84,8 +84,13 @@
 - [2019-09-30-视频Chris-Fritz在第五届FEDAY的演讲视频来啦！](https://www.ershicimi.com/p/4f543be7781c25a1563088c027f79138) 
 - [2019-09-29-视频一起围观月影在第五届FEDAY的演讲！](https://www.ershicimi.com/p/42d368665250dce21db5c6c458b7f13a) 
 - [2019-07-02-视频探索Web编程的另一种形态@天翔](https://www.ershicimi.com/p/b553e23449fdde2afb6c75ca0491ba7d) 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
+- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
+- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
+- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-08-06-张玉环被羁押近-27-年后无罪释放，他前妻接受采访的视频却刷屏了](https://www.ershicimi.com/p/882172c69d257f4c5f68e3dd2aa0249d) 
+- [2020-08-10-mac-网速很快，就是浏览器看视频一直在缓冲，很奇怪。。你们有过这种情况嘛](https://www.v2ex.com/t/697041) 
 - [2020-08-10-腾讯北京视频线招聘，后台开发，目标职级-2-2，工作三年左右。](https://www.v2ex.com/t/697016) 
 - [2020-08-10-迫于旅游无法看猫主子，求推荐家用监控摄像头。](https://www.v2ex.com/t/697007) 
 - [2020-08-06-明晚轰趴刷夜+4天全程直播!请收好这份DEF-CON-28节目单](https://sec.thief.one/article_content?a_id=131e1f0cc8290b4cdd1e295ddc2543f5) 

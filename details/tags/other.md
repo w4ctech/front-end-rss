@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-10 04:19:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-10 04:31:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -6,6 +6,7 @@
 
 
 - [2020-08-09-8月9日全国新增新冠49例-境外输入35例本土新疆14例](http://m.china.caixin.com/m/2020-08-10/101590704.html) 
+- [2020-08-09-【境内疫情观察】全国新增35例境外输入病例（8月9日）](http://m.database.caixin.com/m/2020-08-10/101590804.html) 
 - [2020-08-09-大流行手记|8月9日：日本澄清新冠病毒变异-特朗普谋求疫苗大选前出炉](https://m.caixin.com/m/2020-08-10/101590711.html) 
 - [2020-08-08-最新海外疫情：新冠感染者超1951万-累计死亡超72万](http://m.international.caixin.com/m/2020-08-09/101590636.html) 
 - [2020-08-08-【境内疫情观察】新疆新增15例本土病例（8月8日）](http://m.database.caixin.com/m/2020-08-09/101590640.html) 
@@ -2452,6 +2453,8 @@
 - [2020-08-04-开播即爆款的《三十而已》，却让我看清了国产剧的「真面目」](https://www.ershicimi.com/p/779698f9263d720874486e310931e6e9) 
 - [2020-08-04-万茜采访「翻车」：越火，越能看出一个人的本性](https://www.ershicimi.com/p/5ca679950035bfe101e02dcdfbea5c02) 
 - [2020-08-04-知乎故事-|-我是被老婆「撩」到手的](https://www.ershicimi.com/p/7489ac9af61c0d3007895a981ef3a938) 
+- [2020-08-10-杭州摆摊记-2-依旧是纯手工织品，本周营业额还不错，流水-400+](https://www.v2ex.com/t/697033) 
+- [2020-08-10-杭州的过敏性鼻炎哪个医院治疗比较好呀](https://www.v2ex.com/t/697032) 
 - [2020-08-10-手工冰粉不是非物质文化遗产，非遗么？](https://www.v2ex.com/t/697029) 
 - [2020-08-10-求问国内、海外相互访问-需要两个方向的-VPN-么](https://www.v2ex.com/t/697027) 
 - [2020-08-10-迫于任务压力，进价推销各种数码及大家电，需先款，可私对公](https://www.v2ex.com/t/697025) 
@@ -2513,17 +2516,16 @@
 - [2020-08-10-Java-开发必备！I/O-与-Netty-原理精讲](https://toutiao.io/k/akb3r9c) 
 - [2020-08-10-论文盘点：ICCV-2019-Top-20，MobileNetV3-居首！](https://toutiao.io/k/1tb36ni) 
 - [2020-08-10-flow.ci-v0.20.30-发布：简单而强大的开源-CI/CD-工具](https://toutiao.io/k/wwzvw0a) 
-- [2020-08-10-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
-- [2020-08-10-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
-- [2020-08-10-推荐-微服务重构四步法](https://toutiao.io/k/n7sr1fy) 
-- [2020-08-10-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
+- [2020-08-10-推荐-100%-展示-MySQL-语句执行的神器：Optimizer-Trace](https://toutiao.io/k/gfbzndp) 
+- [2020-08-10-推荐-保姆级教程，手把手教你实现一个-Spring-Boot-的-starter](https://toutiao.io/k/jax48ch) 
+- [2020-08-10-推荐-监控系统选型，这篇不可不读](https://toutiao.io/k/cg7r5ft) 
 - [2020-08-10-推荐-译-我是如何通过开发天气扩展月入-2500$](https://toutiao.io/k/g6swper) 
-- [2020-08-10-推荐-这些-MQ-概念你都懂吗：死信队列、重试队列、消息回溯等](https://toutiao.io/k/w7mh66i) 
-- [2020-08-10-推荐-架构思维其实就那么回事](https://toutiao.io/k/904xmvc) 
-- [2020-08-10-推荐-我-C，MySQL-双主架构，原来能这么玩](https://toutiao.io/k/rcfibi5) 
-- [2020-08-10-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
+- [2020-08-10-推荐-Spring-Cloud-应用在-Kubernetes-上的最佳实践：线上发布（可灰度）](https://toutiao.io/k/h8luia3) 
+- [2020-08-10-推荐-某生鲜电商平台的库存扣减方案](https://toutiao.io/k/co38uzd) 
 - [2020-08-10-推荐-京东商城，超大型电商系统架构设计原则与实践！8-页-ppt-详解](https://toutiao.io/k/wiujwft) 
-- [2020-08-10-推荐-超全实用图片工具网站列表](https://toutiao.io/k/mx00oaq) 
+- [2020-08-10-推荐-技术管理的世界观](https://toutiao.io/k/psqbtvs) 
+- [2020-08-10-推荐-一文总结：分布式一致性技术是如何演进的？](https://toutiao.io/k/329gcr0) 
+- [2020-08-10-推荐-架构师技术领导力成长之路](https://toutiao.io/k/9o5fri0) 
 - [2020-08-08-资金大举出逃,比特币未来何去何从?](https://sec.thief.one/article_content?a_id=f24fcbc0bcffa31bbf9695b72962f882) 
 - [2020-08-08-红队渗透手册之弹药篇](https://sec.thief.one/article_content?a_id=5522034aee8997bef73c96927d37c5b9) 
 - [2020-08-08-POC-T源码分析](https://sec.thief.one/article_content?a_id=f276cf3981de642849aaa54a7a3fc6d7) 

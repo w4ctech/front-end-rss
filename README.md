@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-10 17:33:27，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-10 17:46:38，:rocket: 更新条数: +3296， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -1052,6 +1052,7 @@
 </summary>
 
 
+- [2020-08-10-坐标北京想入手共有产权房](https://www.v2ex.com/t/697224) ![](assets/new.png)  
 - [2020-08-10-打造一个-Geek-风的-github-主页](https://www.v2ex.com/t/697223) ![](assets/new.png)  
 - [2020-08-10-Google-Voice-/-GV-自动回复短信](https://www.v2ex.com/t/697222) ![](assets/new.png)  
 - [2020-08-10-如何在不拔掉外接显示器的情况下只使用内置屏幕](https://www.v2ex.com/t/697221) ![](assets/new.png)  
@@ -1071,7 +1072,6 @@
 - [2020-08-10-国内最好用的-Linux-云盘是哪个？](https://www.v2ex.com/t/697204) ![](assets/new.png)  
 - [2020-08-10-帮公司面试，心态有点崩。](https://www.v2ex.com/t/697203) ![](assets/new.png)  
 - [2020-08-10-既然谷歌地图不能用了，-icloud、google-photos-我觉得应该也要多重备份一下了。](https://www.v2ex.com/t/697202) ![](assets/new.png)  
-- [2020-08-10-收到了个-Google-的集体诉讼赔偿通知](https://www.v2ex.com/t/697201) ![](assets/new.png)  
 - [......【查看更多】......](./details/V2EX.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
